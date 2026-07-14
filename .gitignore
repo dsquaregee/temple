@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.expo/
+dist/
+build/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+.DS_Store
+packages/content/src/generated.ts
