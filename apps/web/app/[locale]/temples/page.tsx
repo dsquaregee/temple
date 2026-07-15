@@ -1,0 +1,68 @@
+import type { Metadata } from 'next';
+import { t, type Locale } from '@temple/core';
+import { getTemples } from '@temple/content';
+import { LOCALES } from '@/lib/locales';
+import { PageChrome } from '@/components/PageChrome';
+import { TempleCard } from '@/components/cards';
+
+export function generateStaticParams() {
+  return LOCALES.map((locale) => ({ locale }));
+}
+
+export function generateMetadata({
+  params,
+}: {
+  params: { locale: Locale };
+}): Metadata {
+  const ui = t(params.locale);
+  return {
+    title: ui.tabs.discover,
+    description: `${ui.labels.allTemples} — ${ui.tagline}`,
+    alternates: {
+      canonical: `/${params.locale}/temples/`,
+      languages: Object.fromEntries(LOCALES.map((l) => [l, `/${l}/temples/`])),
+    },
+  };
+}
+
+export default function DiscoverPage({
+  params,
+}: {
+  params: { locale: Locale };
+}) {
+  const { locale } = params;
+  const ui = t(locale);
+  const temples = getTemples(locale);
+  const unesco = temples.filter((tp) => tp.unesco);
+
+  return (
+    <PageChrome locale={locale} active="discover" pathSuffix="temples/">
+      <div className="pagehead">
+        <h1>{ui.tabs.discover}</h1>
+        <p className="muted">
+          {temples.length} {ui.labels.allTemples.toLowerCase()}
+        </p>
+      </div>
+
+      {unesco.length > 0 && (
+        <section className="section" aria-labelledby="unesco-h">
+          <h2 id="unesco-h">{ui.labels.unesco}</h2>
+          <div className="grid">
+            {unesco.map((temple) => (
+              <TempleCard key={temple.id} locale={locale} temple={temple} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section className="section" aria-labelledby="all-h">
+        <h2 id="all-h">{ui.labels.allTemples}</h2>
+        <div className="grid">
+          {temples.map((temple) => (
+            <TempleCard key={temple.id} locale={locale} temple={temple} />
+          ))}
+        </div>
+      </section>
+    </PageChrome>
+  );
+}
