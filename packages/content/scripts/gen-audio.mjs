@@ -40,6 +40,35 @@ const tts = new textToSpeech.TextToSpeechClient();
 const storage = new Storage();
 const bucket = storage.bucket(BUCKET);
 
+// Ensure the target bucket exists and its objects are publicly readable (so the
+// <audio> player can fetch them). Uses bucket-level IAM, which works with the
+// uniform bucket-level access that new buckets default to.
+async function ensureBucket() {
+  const [exists] = await bucket.exists();
+  if (!exists) {
+    const location = process.env.AUDIO_BUCKET_LOCATION || 'asia-south1';
+    console.log(`creating bucket ${BUCKET} in ${location} ...`);
+    await storage.createBucket(BUCKET, { location });
+  }
+  // New buckets default to uniform bucket-level access, so make objects public
+  // via an IAM binding (the ACL-based makePublic() does not work under UBLA).
+  try {
+    const [policy] = await bucket.iam.getPolicy({ requestedPolicyVersion: 3 });
+    policy.bindings = policy.bindings || [];
+    const has = policy.bindings.some(
+      (b) => b.role === 'roles/storage.objectViewer' && (b.members || []).includes('allUsers')
+    );
+    if (!has) {
+      policy.bindings.push({ role: 'roles/storage.objectViewer', members: ['allUsers'] });
+      await bucket.iam.setPolicy(policy);
+    }
+    console.log(`bucket ${BUCKET} is public (allUsers: objectViewer)`);
+  } catch (e) {
+    console.warn(`  ! could not set bucket public via IAM: ${e.message.split('\n')[0]}`);
+    console.warn('    grant allUsers "Storage Object Viewer" on the bucket manually.');
+  }
+}
+
 const byteLen = (s) => Buffer.byteLength(s, 'utf8');
 
 // Split into request-sized chunks (<5000 bytes is the API limit) on sentence
@@ -106,6 +135,8 @@ async function synth(text, locale) {
 // the "~N min" label shown in the UI).
 const estimateSec = (text) => Math.max(1, Math.round(text.length / 13));
 
+await ensureBucket();
+
 let done = 0;
 for (const locale of LOCALES) {
   const dir = join(templesDir, locale);
@@ -113,6 +144,12 @@ for (const locale of LOCALES) {
   for (const file of files) {
     const path = join(dir, file);
     const doc = JSON.parse(readFileSync(path, 'utf8'));
+    const expectedUrl = `https://storage.googleapis.com/${BUCKET}/audio/${locale}/${doc.id}.mp3`;
+    // Resume: skip files already generated (unless AUDIO_FORCE=1).
+    if (!process.env.AUDIO_FORCE && doc.audio?.storyUrl === expectedUrl) {
+      console.log(`· ${locale}/${doc.id} (already done, skipping)`);
+      continue;
+    }
     const text = narration(doc);
     const mp3 = await synth(text, locale);
 
@@ -123,11 +160,6 @@ for (const locale of LOCALES) {
       metadata: { cacheControl: 'public, max-age=31536000, immutable' },
       resumable: false,
     });
-    try {
-      await gcsFile.makePublic();
-    } catch {
-      console.warn(`  ! could not set public ACL on ${objectPath} — make the bucket public via IAM (allUsers: Storage Object Viewer).`);
-    }
 
     doc.audio = {
       storyUrl: `https://storage.googleapis.com/${BUCKET}/${objectPath}`,

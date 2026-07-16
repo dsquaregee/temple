@@ -16,7 +16,9 @@
   "dynasty": "Chola",
   "style": "Dravidian (imperial Chola)",
   "unesco": true,
-  "circuits": ["great-living-chola-temples"],
+  "circuits": [
+    "great-living-chola-temples"
+  ],
   "summary": "Built by Rajendra Chola I to crown his new imperial capital, this quieter sibling of the Thanjavur great temple answers its father's monument with softer curves and some of the finest sculpture of the Chola age. It is one of the UNESCO Great Living Chola Temples.",
   "sections": {
     "history": "Rajendra Chola I, son of Rajaraja I, pushed the Chola empire further than any Tamil king before him. After his armies marched north to the Ganga around 1025 CE, he took the title Gangaikonda Cholan, the Chola who took the Ganga, and founded a new capital to bear the name: Gangaikonda Cholapuram. At its heart he raised this temple to Shiva, completed around 1035 CE, consciously modelled on his father's masterpiece at Thanjavur yet deliberately distinct. Tradition and inscription record that water carried from the Ganga by vanquished kings was poured into a vast ceremonial reservoir nearby, the Cholaganga tank, making the sacred river itself a trophy of conquest and an offering. The city flourished as the Chola capital for over two centuries, humming with palaces, markets, and mints, before the dynasty's fall in the thirteenth century. The capital was later abandoned and quarried away, leaving the temple standing almost alone amid fields, a circumstance that lends it a haunting serenity today. Worship never fully ceased, and in 2004 UNESCO added the temple to the Great Living Chola Temples inscription alongside Thanjavur and Darasuram.",
@@ -30,5 +32,9 @@
     "dressCode": "Modest traditional dress is appreciated: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women. Cover shoulders and knees, and leave footwear at the entrance.",
     "photography": "Photography is allowed in the courtyard and of the exterior sculpture, but prohibited inside the inner sanctum, as throughout Tamil Nadu temples. Drones require permission from the Archaeological Survey of India.",
     "gettingThere": "Tiruchirappalli International Airport, about 100 km away, is the nearest airport; Kumbakonam, roughly 35 km south, is the most convenient railhead. The temple lies just off the Kumbakonam to Chidambaram road, with regular buses stopping at Gangaikonda Cholapuram."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/gangaikonda-cholapuram.mp3",
+    "durationSec": 411
   }
 }

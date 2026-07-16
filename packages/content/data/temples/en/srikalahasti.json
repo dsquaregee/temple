@@ -5,13 +5,20 @@
   "nativeName": "శ్రీకాళహస్తీశ్వర దేవాలయం",
   "deity": "Shiva as Srikalahasteeswara (Vayu Lingam), with Parvati as Gnana Prasunambika",
   "tradition": "Shaivism",
-  "location": { "city": "Srikalahasti", "state": "Andhra Pradesh", "lat": 13.75, "lng": 79.6983 },
+  "location": {
+    "city": "Srikalahasti",
+    "state": "Andhra Pradesh",
+    "lat": 13.75,
+    "lng": 79.6983
+  },
   "period": "Vijayanagara",
   "century": 16,
   "dynasty": "Pallava, Chola and Vijayanagara",
   "style": "Dravidian",
   "unesco": false,
-  "circuits": ["pancha-bhoota-sthalams"],
+  "circuits": [
+    "pancha-bhoota-sthalams"
+  ],
   "summary": "On the banks of the Swarnamukhi river, Srikalahasti enshrines Shiva as the element of air itself, a lingam so sacred that even the priests never touch it, honoured by a lamp that flickers in a sanctum where no wind blows.",
   "sections": {
     "history": "Srikalahasti's sanctity long predates its stones. The Tamil Saiva saints of the seventh century sang of this shrine on the Swarnamukhi, and the earliest structural work is credited to the Pallavas, whose successors the Cholas rebuilt and enlarged the temple in granite between the tenth and twelfth centuries, leaving inscriptions that record endowments of land, lamps and gold. Kulottunga Chola I and his heirs gave the inner complex much of its present form. The temple's grandest chapter, however, belongs to Vijayanagara. Emperor Krishnadevaraya visited in 1516, fresh from his Kalinga campaign, and raised the towering entrance gopuram that still bears his name, along with a hundred-pillared hall. The Telugu poet Dhurjati, one of the legendary eight poets of Krishnadevaraya's court, composed his celebrated verses in praise of Srikalahasteeswara here, binding the shrine permanently into Telugu literary memory. Later centuries brought continued patronage from local chiefs and, in the 1800s, restoration efforts by the devout industrialist-philanthropists of the region. Through dynastic change the temple's essential identity has held steady: the seat of Vayu, the god of wind, worshipped in a sanctum that human hands are forbidden to touch.",
@@ -25,5 +32,9 @@
     "dressCode": "Modest traditional dress is expected; dhoti or trousers with an upper cloth for men, saree, half-saree or salwar kameez for women. Footwear is left outside the complex.",
     "photography": "Photography is not permitted inside the temple, and inner-sanctum photography is strictly prohibited; cameras and phones are best left in the cloakroom.",
     "gettingThere": "Srikalahasti is about 37 km from Tirupati, which has the nearest airport and a major rail junction; the town also has its own railway station. Frequent buses and taxis run from Tirupati, and Chennai is roughly 100 km to the southeast."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/srikalahasti.mp3",
+    "durationSec": 406
   }
 }

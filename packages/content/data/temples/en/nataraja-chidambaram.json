@@ -5,13 +5,20 @@
   "nativeName": "தில்லை நடராஜர் கோயில்",
   "deity": "Shiva as Nataraja, lord of the cosmic dance, with Parvati as Sivakami Amman",
   "tradition": "Shaivism",
-  "location": { "city": "Chidambaram", "state": "Tamil Nadu", "lat": 11.3995, "lng": 79.6937 },
+  "location": {
+    "city": "Chidambaram",
+    "state": "Tamil Nadu",
+    "lat": 11.3995,
+    "lng": 79.6937
+  },
   "period": "Chola",
   "century": 10,
   "dynasty": "Chola",
   "style": "Dravidian",
   "unesco": false,
-  "circuits": ["pancha-bhoota-sthalams"],
+  "circuits": [
+    "pancha-bhoota-sthalams"
+  ],
   "summary": "At Chidambaram, Shiva is worshipped not as a lingam of stone but as Nataraja, the dancer, and beside him hangs a curtain concealing nothing at all: the Chidambara Rahasyam, the revelation that God is space itself.",
   "sections": {
     "history": "Chidambaram, ancient Thillai, named for the mangrove forest that once ringed it, appears in Tamil Saiva devotion from at least the seventh century, when the Nayanmar saints sang of the dancer of Thillai. Manikkavachakar is said to have attained liberation here, and the temple became the first shrine where the Tevaram hymns were formally recovered and codified. Its golden age came under the Cholas, who took Nataraja as their family deity and their emblem of kingship. Tradition holds that Parantaka I gilded the roof of the Chit Sabha in the tenth century, and successive emperors, Rajaraja I, Rajendra I, Kulottunga I and their heirs, lavished the temple with halls, shrines and the four great gopurams, several crowned by royal coronations held in the god's presence. Later Pandya and Vijayanagara rulers added their own endowments. Through all of this the temple's ritual life has been conducted by the Dikshitars, a self-contained hereditary community of priests who trace their service to the sage Patanjali's time and who continue to administer the shrine today, an arrangement of remarkable continuity affirmed by India's Supreme Court in 2014.",
@@ -25,5 +32,9 @@
     "dressCode": "Modest dress is required; traditional wear such as dhoti or trousers with a shirt for men and saree or salwar kameez for women is appropriate. Footwear is removed at the entrance.",
     "photography": "Photography of the outer courtyards and gopurams is generally tolerated, but inner-sanctum photography is strictly prohibited, and cameras should be put away near the Chit Sabha.",
     "gettingThere": "Chidambaram lies on the Chennai-Thanjavur rail line, about 230 km south of Chennai, with regular trains and buses; Puducherry, roughly 65 km north, is the most convenient airport, and the town itself is compact enough to explore on foot from the station."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/nataraja-chidambaram.mp3",
+    "durationSec": 396
   }
 }
