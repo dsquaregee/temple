@@ -83,11 +83,37 @@ firebase emulators:start
 
 ## Live
 
-- Hosting: https://temple-502523.web.app
+- Firebase default domain: https://temple-502523.web.app
+- Production custom domain: https://temples.dsquaregee.com (DNS in Cloudflare)
 - Firestore rules: released to the `temple` (asia-south1) database.
+
+## Custom domain — temples.dsquaregee.com via Cloudflare
+
+Firebase drives the flow (it verifies ownership and provisions its own SSL
+cert); Cloudflare just holds the DNS records.
+
+1. **Firebase Console** → project `temple-502523` → **Hosting → Add custom
+   domain** → enter `temples.dsquaregee.com`.
+2. Firebase shows a **TXT** verification record. In **Cloudflare → DNS →
+   Records**, add it exactly (Name + Value), then click **Verify** in Firebase.
+3. Firebase then shows the records that point the subdomain at Hosting. Add them
+   in Cloudflare exactly as shown — for a subdomain this is either:
+   - a **CNAME**: `temples` → `temple-502523.web.app`, or
+   - the **A records** Firebase lists (two IPs).
+4. **Set Proxy status to "DNS only" (grey cloud)** on these records so Firebase
+   can provision SSL. (You may switch to the orange proxy afterward if you want
+   Cloudflare in front — Firebase already has a global CDN, so this is optional.)
+5. **Cloudflare → SSL/TLS → Overview → set mode to `Full`** (or Full (strict)).
+   Never use **Flexible** — it causes redirect loops with Firebase's forced
+   HTTPS.
+6. Wait for Firebase status to go **Pending → Connected** (minutes to ~24h).
+
+After the domain is connected, `metadataBase` in `apps/web/app/layout.tsx` is
+already set to `https://temples.dsquaregee.com`, so canonical/hreflang URLs are
+correct on the next deploy.
 
 ## Not in this repo (set up in the GCP/Firebase console)
 
 - Creating the Firebase project and the `asia-south1` Firestore database.
 - Enabling Anonymous auth (and later Google/Apple for account linking).
-- Custom domain + SSL for Hosting.
+- Adding the custom domain (steps above) — SSL is issued automatically.

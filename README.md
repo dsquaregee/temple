@@ -109,7 +109,9 @@ Static content on Google's global CDN; Firebase Anonymous Auth; Firestore for
 ## Deploy
 
 Deployed to Firebase project **`temple-502523`** — live at
-**https://temple-502523.web.app**. `firebase.json` lives at the repo root.
+**https://temple-502523.web.app**, with the production domain
+**https://temples.dsquaregee.com** (Cloudflare DNS → Firebase Hosting; see
+`infra/README.md`). `firebase.json` lives at the repo root.
 
 ```bash
 pnpm build:web
@@ -117,8 +119,8 @@ firebase deploy --only hosting,firestore:rules
 ```
 
 > Firestore uses a **named** database `temple` in `asia-south1` (D1); the
-> config targets it. Set a custom production domain in
-> `apps/web/app/layout.tsx` (`metadataBase`) when one is configured.
+> config targets it. `metadataBase` in `apps/web/app/layout.tsx` is set to the
+> production domain, so canonical/hreflang URLs are correct.
 
 ## Status & caveats
 
