@@ -1,0 +1,21 @@
+{
+  "name": "Temple — the great temples of South India",
+  "short_name": "Temple",
+  "description": "Find, learn, and experience the oldest temples of India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf6ee",
+  "theme_color": "#d98e04",
+  "lang": "en",
+  "categories": ["travel", "education", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

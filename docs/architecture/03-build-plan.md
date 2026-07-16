@@ -50,10 +50,14 @@ audio/downloads follow.
 
 ## Slices (commit + push after each)
 
-0. Docs + CLAUDE.md (this reconstruction)
-1. Monorepo scaffold: core schema/tokens/i18n, content pipeline, web shell
-2. Content: 10 temples EN (agents), validated against schema
-3. Translations: ta te kn ml hi (agents), validated
-4. Web pages wired to content; build green; PWA manifest/SW
-5. Mobile shell wired to content
-6. Infra config (firebase.json, rules) + README
+0. ✅ Docs + CLAUDE.md (this reconstruction)
+1. ✅ Monorepo scaffold: core schema/tokens/i18n, content pipeline, web shell
+2. ✅ Content: 10 temples EN, validated against schema
+3. ✅ Translations: ta te kn ml hi (agents), validated (cross-locale parity)
+4. ✅ Web pages wired to content; static export build green; PWA manifest/SW
+5. ✅ Mobile shell wired to content (Expo Router; typecheck + web bundle green)
+6. ✅ Infra config (firebase.json, Firestore rules, indexes) + READMEs
+
+All Phase 3 build slices complete. Remaining before launch (later phases):
+native-speaker translation review, real hero imagery/AVIF, audio stories
+(Listen), Firestore-backed user state (visited/saved), and Phase 4 hardening.

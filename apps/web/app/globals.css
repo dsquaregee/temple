@@ -1,0 +1,414 @@
+/* Design tokens (packages/core/src/tokens.ts) as CSS custom properties.
+   Light is default; dark follows the OS preference. No web fonts are
+   loaded — Indic scripts and the critical path use system fonts only. */
+:root {
+  --bg-base: #faf6ee;
+  --bg-raised: #ffffff;
+  --bg-sunken: #f1eadc;
+  --ink-strong: #2b2118;
+  --ink-body: #4a3f33;
+  --ink-muted: #8a7c6a;
+  --accent-turmeric: #d98e04;
+  --accent-vermilion: #b3411f;
+  --accent-leaf: #5c7a45;
+  --line: #e5dcc9;
+
+  --radius-card: 12px;
+  --radius-chip: 8px;
+  --radius-pill: 999px;
+  --touch: 48px;
+
+  --font-display: Georgia, 'Noto Serif', 'Tiro Devanagari Hindi', serif;
+  --font-ui: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  --maxw: 720px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-base: #171310;
+    --bg-raised: #211c17;
+    --bg-sunken: #0f0c0a;
+    --ink-strong: #f2ead9;
+    --ink-body: #cfc4b2;
+    --ink-muted: #8f8474;
+    --accent-turmeric: #e8a62a;
+    --accent-vermilion: #d65f3b;
+    --accent-leaf: #7fa05e;
+    --line: #33291f;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg-base);
+  color: var(--ink-body);
+  font-family: var(--font-ui);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  color: var(--ink-strong);
+  line-height: 1.25;
+  margin: 0 0 0.4em;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Layout shell -------------------------------------------------------- */
+.shell {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 16px calc(var(--touch) + 40px);
+  min-height: 100dvh;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 0 8px;
+}
+.topbar .brand {
+  font-family: var(--font-display);
+  font-size: 20px;
+  color: var(--ink-strong);
+  font-weight: 700;
+}
+.langswitch {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+.langswitch a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 32px;
+  padding: 4px 10px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--line);
+  color: var(--ink-muted);
+  font-size: 13px;
+}
+.langswitch a[aria-current='true'] {
+  background: var(--accent-turmeric);
+  border-color: var(--accent-turmeric);
+  color: #17130f;
+  font-weight: 600;
+}
+
+/* Tab bar ------------------------------------------------------------- */
+.tabbar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  background: var(--bg-raised);
+  border-top: 1px solid var(--line);
+  padding-bottom: env(safe-area-inset-bottom);
+  z-index: 10;
+}
+.tabbar a {
+  flex: 1;
+  min-height: var(--touch);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  padding: 6px 4px;
+  font-size: 12px;
+  color: var(--ink-muted);
+}
+.tabbar a[aria-current='page'] {
+  color: var(--accent-vermilion);
+  font-weight: 600;
+}
+.tabbar .glyph {
+  font-size: 18px;
+  line-height: 1;
+}
+
+/* Hero (LCP element) -------------------------------------------------- */
+.hero {
+  border-radius: var(--radius-card);
+  padding: 28px 22px;
+  margin: 12px 0 20px;
+  color: #fff;
+  background: linear-gradient(135deg, var(--accent-vermilion), var(--accent-turmeric));
+  min-height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.hero .eyebrow {
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.9;
+  margin-bottom: 6px;
+}
+.hero h1,
+.hero h2 {
+  color: #fff;
+  margin: 0 0 6px;
+}
+.hero p {
+  margin: 0;
+  opacity: 0.95;
+}
+
+/* Cards --------------------------------------------------------------- */
+.grid {
+  display: grid;
+  gap: 12px;
+}
+.card {
+  display: block;
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-card);
+  padding: 16px;
+}
+.card h3 {
+  margin: 0 0 4px;
+  font-size: 18px;
+}
+.card .native {
+  font-family: var(--font-display);
+  color: var(--accent-vermilion);
+  font-size: 15px;
+  margin-bottom: 8px;
+}
+.card .meta {
+  color: var(--ink-muted);
+  font-size: 13px;
+}
+
+/* Chips --------------------------------------------------------------- */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 10px 0;
+}
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border-radius: var(--radius-chip);
+  background: var(--bg-sunken);
+  border: 1px solid var(--line);
+  color: var(--ink-body);
+  font-size: 12px;
+}
+.chip.accent {
+  background: transparent;
+  border-color: var(--accent-turmeric);
+  color: var(--accent-turmeric);
+}
+
+/* Section prose ------------------------------------------------------- */
+.section {
+  margin: 26px 0;
+}
+.section h2 {
+  font-size: 22px;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+}
+.section p {
+  color: var(--ink-body);
+  font-size: 17px;
+}
+.lead {
+  font-family: var(--font-display);
+  font-size: 20px;
+  color: var(--ink-strong);
+  line-height: 1.5;
+}
+
+/* Visit tiles --------------------------------------------------------- */
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+.tile {
+  background: var(--bg-sunken);
+  border-radius: var(--radius-card);
+  padding: 14px 16px;
+}
+.tile .k {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-muted);
+  margin-bottom: 4px;
+}
+.tile .v {
+  color: var(--ink-body);
+  font-size: 15px;
+}
+
+/* Page heading ------------------------------------------------------- */
+.pagehead {
+  margin: 14px 0 18px;
+}
+.pagehead .native {
+  font-family: var(--font-display);
+  color: var(--accent-vermilion);
+  font-size: 18px;
+}
+.pagehead h1 {
+  font-size: 30px;
+}
+
+/* Orientation strip -------------------------------------------------- */
+.orient {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-card);
+  padding: 14px 16px;
+  margin: 8px 0 4px;
+}
+.orient .k {
+  font-size: 12px;
+  color: var(--ink-muted);
+}
+.orient .v {
+  font-size: 15px;
+  color: var(--ink-strong);
+}
+
+/* Audio / support callouts ------------------------------------------- */
+.callout {
+  border: 1px dashed var(--line);
+  border-radius: var(--radius-card);
+  padding: 16px;
+  margin: 18px 0;
+  background: var(--bg-raised);
+}
+.callout .k {
+  font-weight: 600;
+  color: var(--ink-strong);
+  margin-bottom: 4px;
+}
+.callout .n {
+  color: var(--ink-muted);
+  font-size: 14px;
+}
+.btnlink {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--touch);
+  padding: 0 18px;
+  margin-top: 10px;
+  border-radius: var(--radius-pill);
+  background: var(--accent-leaf);
+  color: #fff;
+  font-weight: 600;
+}
+
+/* Progress (circuits) ------------------------------------------------ */
+.stops {
+  counter-reset: stop;
+  display: grid;
+  gap: 10px;
+}
+.stops .card {
+  position: relative;
+  padding-left: 52px;
+}
+.stops .card::before {
+  counter-increment: stop;
+  content: counter(stop);
+  position: absolute;
+  left: 14px;
+  top: 16px;
+  width: 26px;
+  height: 26px;
+  border-radius: var(--radius-pill);
+  background: var(--accent-turmeric);
+  color: #17130f;
+  font-weight: 700;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Language picker ---------------------------------------------------- */
+.picker {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.picker h1 {
+  font-size: 30px;
+  text-align: center;
+}
+.picker .sub {
+  text-align: center;
+  color: var(--ink-muted);
+  margin-bottom: 28px;
+}
+.picker .langlist {
+  display: grid;
+  gap: 10px;
+}
+.picker .langlist a {
+  min-height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 18px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-card);
+  background: var(--bg-raised);
+}
+.picker .langlist .script {
+  font-family: var(--font-display);
+  font-size: 20px;
+  color: var(--ink-strong);
+}
+.picker .langlist .gloss {
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+
+.muted {
+  color: var(--ink-muted);
+}
+.center {
+  text-align: center;
+}
