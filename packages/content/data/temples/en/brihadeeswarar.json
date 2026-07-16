@@ -16,7 +16,9 @@
   "dynasty": "Chola",
   "style": "Dravidian (imperial Chola)",
   "unesco": true,
-  "circuits": ["great-living-chola-temples"],
+  "circuits": [
+    "great-living-chola-temples"
+  ],
   "summary": "The crowning achievement of Chola architecture, Rajaraja I's thousand-year-old temple to Shiva rises over Thanjavur with a granite tower that remained among the tallest structures in India for centuries. It is the flagship of the UNESCO Great Living Chola Temples.",
   "sections": {
     "history": "When Rajaraja Chola I consecrated this temple in 1010 CE, the Chola empire stood at the height of its power, its influence stretching from the Kaveri delta to Sri Lanka and across the seas. The temple, which the king called Rajarajeshvaram after himself, was conceived as both an act of devotion and a statement of imperial reach. Inscriptions carved along its plinth read like a royal ledger: they record the villages assigned to its upkeep, the jewels gifted to the deity, and the names of the four hundred dancers settled around the temple to serve it. Completed in a remarkably short span, perhaps as little as seven years, it drew craftsmen, bronze casters, musicians, and accountants into a single self-sustaining institution. The temple weathered the fall of the Cholas, later additions by the Pandyas, Nayakas, and Marathas, and centuries of continuous worship. In 1987 UNESCO inscribed it as a World Heritage Site, later grouping it with the temples at Gangaikonda Cholapuram and Darasuram as the Great Living Chola Temples. A millennium after its consecration, daily worship continues exactly as its founder intended.",
@@ -30,5 +32,9 @@
     "dressCode": "Modest traditional dress is appreciated: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women. Shoulders and knees should be covered, and footwear is left at the entrance.",
     "photography": "Photography is welcome in the outer courtyards and of the tower, but strictly prohibited inside the inner sanctum, as in all Tamil Nadu temples. Tripods and drones require prior permission.",
     "gettingThere": "Tiruchirappalli International Airport is about 60 km away, and Thanjavur Junction railway station is under 2 km from the temple. Thanjavur is well connected by bus and road to Chennai, Trichy, and Madurai."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/brihadeeswarar.mp3",
+    "durationSec": 405
   }
 }

@@ -16,7 +16,9 @@
   "dynasty": "Chola",
   "style": "Dravidian (later Chola)",
   "unesco": true,
-  "circuits": ["great-living-chola-temples"],
+  "circuits": [
+    "great-living-chola-temples"
+  ],
   "summary": "The smallest and most intricately carved of the three Great Living Chola Temples, Airavatesvara at Darasuram is where the Chola imperial style turned from monumental scale to jewel-like refinement, every surface alive with sculpture, music, and story.",
   "sections": {
     "history": "Airavatesvara Temple was built by Rajaraja Chola II in the middle of the 12th century CE, at Darasuram on the outskirts of Kumbakonam, then a flourishing town in the Kaveri delta heartland of the Chola empire. By this time the dynasty had already raised its two colossal statements of power, the Brihadisvara temples at Thanjavur and Gangaikonda Cholapuram, and Rajaraja II chose a different ambition: not size, but perfection of detail. Inscriptions describe the shrine as nitya-vinoda, a temple of perpetual entertainment, conceived as a place where art, music, and devotion met. The surrounding town, originally Rajarajapuram, grew around the temple as a center of learning and ritual. After the decline of Chola power the complex lost some of its subsidiary structures, and portions of its great court fell into disuse, but the main shrine remained in continuous worship. Careful conservation from the colonial period onward recovered much of the site, and in 2004 UNESCO inscribed Airavatesvara alongside Thanjavur and Gangaikonda Cholapuram as the Great Living Chola Temples, recognizing it as the final flowering of one of the most accomplished temple-building traditions in the world. Daily puja continues here today, more than eight centuries after its consecration.",
@@ -30,5 +32,9 @@
     "dressCode": "Modest traditional dress is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women; shoulders and knees covered. Footwear is removed at the entrance.",
     "photography": "Photography is welcome in the outer courtyards and of the sculpted mandapas, but strictly prohibited inside the inner sanctum, as in all Tamil Nadu temples. Tripods and commercial shoots need ASI permission.",
     "gettingThere": "Tiruchirappalli International Airport (about 90 km) is the nearest airport. Kumbakonam railway station, 4 km away, is on the Chennai-Thanjavur line. Darasuram is a short auto-rickshaw or taxi ride from Kumbakonam, which is well connected by bus to Thanjavur, Trichy, and Chennai."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/airavatesvara.mp3",
+    "durationSec": 432
   }
 }

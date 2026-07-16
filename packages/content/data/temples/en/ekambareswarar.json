@@ -16,7 +16,9 @@
   "dynasty": "Pallava, Chola, and Vijayanagara",
   "style": "Dravidian",
   "unesco": false,
-  "circuits": ["pancha-bhoota-sthalams"],
+  "circuits": [
+    "pancha-bhoota-sthalams"
+  ],
   "summary": "Ekambareswarar is Kanchipuram's largest temple and the Earth shrine of the Pancha Bhoota Sthalams, where Shiva is worshipped as a lingam of sand beneath the gaze of a mango tree said to be three and a half millennia old.",
   "sections": {
     "history": "Ekambareswarar is among the oldest continuously worshipped shrines in South India. The temple is sung in the Tevaram hymns of the seventh-century Nayanmar saints Appar, Sambandar, and Sundarar, which marks it as a Paadal Petra Sthalam and confirms that a flourishing shrine stood here well before most of the present stonework. The Pallavas, who ruled from Kanchipuram, gave the temple its early structural form; the Cholas rebuilt and endowed it richly, and their inscriptions record grants of land, lamps, and gold. But it was under Vijayanagara that Ekambareswarar took on its present monumental scale. In 1509, the emperor Krishnadevaraya raised the colossal rayagopuram at the southern entrance, nearly 59 meters tall and still among the loftiest temple towers in India, and his successors added pillared halls including the celebrated thousand-pillared mandapa. Later Nayak and local patrons continued to embellish the complex, which today spreads across some twenty-five acres in the heart of Shiva Kanchi. Through every dynasty the temple's essential identity endured: this is the Prithvi Sthalam, the Earth shrine of the five elemental abodes of Shiva, and pilgrimage to it has never ceased.",
@@ -30,5 +32,9 @@
     "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
     "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
     "gettingThere": "Chennai International Airport is about 60 km away. Kanchipuram railway station, roughly 2 km from the temple, connects via Chengalpattu to Chennai and southern lines. Frequent buses link Kanchipuram with Chennai, Vellore, and Tirupati; autos and taxis cover the short hop to the temple."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/ekambareswarar.mp3",
+    "durationSec": 432
   }
 }

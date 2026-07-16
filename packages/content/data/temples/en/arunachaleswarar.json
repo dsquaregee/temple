@@ -16,7 +16,9 @@
   "dynasty": "Cholas, expanded under Vijayanagara",
   "style": "Dravidian",
   "unesco": false,
-  "circuits": ["pancha-bhoota-sthalams"],
+  "circuits": [
+    "pancha-bhoota-sthalams"
+  ],
   "summary": "At the foot of the sacred hill Arunachala, this vast temple honours Shiva as a column of fire, the Agni element of the Pancha Bhoota Sthalams. On Karthigai Deepam night, a beacon lit on the summit turns the whole mountain into a lamp.",
   "sections": {
     "history": "The sanctity of Arunachala reaches back into the earliest layers of Tamil devotion; the seventh-century saints Appar and Sambandar sang of the hill and its god, and the ninth-century mystic Manikkavachakar composed part of the Tiruvachakam here. The structural temple as we know it took shape under the Cholas from around the ninth century, when royal grants and inscriptions record a flourishing shrine at the hill's eastern base. What followed was one of the great accumulations in South Indian architecture. The later Pandyas, the Hoysalas, and above all the Vijayanagara emperors of the fifteenth and sixteenth centuries enlarged the complex outward in successive walled courts, until it covered some twenty-five acres and ranked among the largest temple precincts in India. Krishnadevaraya's era gave the temple its most famous additions, including the towering eastern gopuram and the thousand-pillared hall. The Nayaks of Thanjavur and later patrons continued the work. In the twentieth century the temple gained a new dimension of renown when the sage Ramana Maharshi settled on Arunachala's slopes, drawing seekers from across the world to a hill already ancient in worship.",
@@ -30,5 +32,9 @@
     "dressCode": "Modest traditional dress is expected. Men may wear dhotis or trousers with shirts; women should wear saris, salwar kameez, or other attire covering shoulders and knees. Footwear must be left outside the temple.",
     "photography": "As in most Tamil Nadu temples, photography is prohibited inside the inner sanctum and generally restricted within the inner enclosures; the outer courtyards and gopurams can usually be photographed. Check with temple staff on arrival.",
     "gettingThere": "Thiruvannamalai is about 190 km southwest of Chennai and 85 km from Vellore, well connected by bus from both, as well as from Puducherry and Bengaluru. The town has a railway station on the Vellore–Villupuram line; the nearest major airports are Chennai and Bengaluru. The temple sits at the eastern foot of Arunachala hill, a short walk or autorickshaw ride from the bus stand."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/arunachaleswarar.mp3",
+    "durationSec": 405
   }
 }

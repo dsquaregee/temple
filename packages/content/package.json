@@ -10,9 +10,15 @@
   },
   "scripts": {
     "generate": "node scripts/generate.mjs",
-    "validate": "node scripts/validate.mjs"
+    "validate": "node scripts/validate.mjs",
+    "qa": "node scripts/qa-translations.mjs",
+    "audio": "node scripts/gen-audio.mjs"
   },
   "dependencies": {
     "@temple/core": "workspace:*"
+  },
+  "devDependencies": {
+    "@google-cloud/storage": "^7.14.0",
+    "@google-cloud/text-to-speech": "^5.4.0"
   }
 }
