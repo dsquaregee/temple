@@ -1,0 +1,59 @@
+name: Deploy to Firebase
+
+# Deploys the static web export + Firestore rules to temple-502523 whenever the
+# default branch updates (e.g. a PR merges), or on manual dispatch.
+on:
+  push:
+    branches: [claude/temple-app-phase-1-jfbtxy]
+  workflow_dispatch:
+
+# Never run two deploys at once; cancel a superseded one.
+concurrency:
+  group: firebase-deploy
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      # Only the web app and its workspace deps (@temple/core, @temple/content)
+      # are needed to build the static export — skip the Expo/mobile toolchain.
+      - name: Install web deps
+        run: pnpm install --frozen-lockfile --filter @temple/web...
+
+      - name: Build static export
+        run: pnpm build:web
+
+      - name: Write service account key
+        run: |
+          printf '%s' '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > "$RUNNER_TEMP/sa-key.json"
+
+      - name: Deploy hosting + Firestore rules
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
+        run: |
+          npx firebase-tools@15 deploy \
+            --only hosting,firestore:rules \
+            --project temple-502523 \
+            --non-interactive
+
+      - name: Clean up credentials
+        if: always()
+        run: rm -f "$RUNNER_TEMP/sa-key.json"
