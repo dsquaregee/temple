@@ -26,6 +26,8 @@ jobs:
           node-version: 20
       # Zero-dependency validator: schema + cross-locale parity.
       - run: node packages/content/scripts/validate.mjs
+      # Translation QA: fails only on untranslated fields (advisory warnings ok).
+      - run: node packages/content/scripts/qa-translations.mjs
 
   web:
     name: Build web
