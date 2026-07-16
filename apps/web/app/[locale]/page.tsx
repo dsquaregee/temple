@@ -4,6 +4,7 @@ import { getCircuits, getTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { PageChrome } from '@/components/PageChrome';
 import { CircuitCard, TempleCard } from '@/components/cards';
+import { TempleHero } from '@/components/TempleHero';
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -40,10 +41,16 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
   return (
     <PageChrome locale={locale} active="home">
       {featured && (
-        <a className="hero" href={`/${locale}/temples/${featured.id}/`}>
-          <span className="eyebrow">{ui.labels.templeOfTheDay}</span>
-          <h1>{featured.name}</h1>
-          <p>{featured.location.city}, {featured.location.state}</p>
+        <a
+          href={`/${locale}/temples/${featured.id}/`}
+          style={{ display: 'block' }}
+        >
+          <TempleHero temple={featured} eyebrow={ui.labels.templeOfTheDay}>
+            <h1>{featured.name}</h1>
+            <p>
+              {featured.location.city}, {featured.location.state}
+            </p>
+          </TempleHero>
         </a>
       )}
 

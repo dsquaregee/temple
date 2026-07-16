@@ -120,10 +120,16 @@ export function Card({
   );
 }
 
-export function Hero({ children }: { children: ReactNode }) {
+export function Hero({
+  children,
+  color,
+}: {
+  children: ReactNode;
+  color?: string;
+}) {
   const { colors } = useTheme();
   return (
-    <View style={[styles.hero, { backgroundColor: colors.accentVermilion }]}>
+    <View style={[styles.hero, { backgroundColor: color ?? colors.accentVermilion }]}>
       {children}
     </View>
   );

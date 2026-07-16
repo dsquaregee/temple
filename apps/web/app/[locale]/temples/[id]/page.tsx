@@ -9,6 +9,8 @@ import {
 import { LOCALES } from '@/lib/locales';
 import { PageChrome } from '@/components/PageChrome';
 import { TempleCard } from '@/components/cards';
+import { TempleHero } from '@/components/TempleHero';
+import { AudioStory } from '@/components/AudioStory';
 
 export const dynamicParams = false;
 
@@ -111,11 +113,13 @@ export default function TempleDetail({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      <div className="hero">
-        {temple.unesco && <span className="eyebrow">{ui.labels.unesco}</span>}
+      <TempleHero
+        temple={temple}
+        eyebrow={temple.unesco ? ui.labels.unesco : undefined}
+      >
         <h1>{temple.name}</h1>
         <p className="native">{temple.nativeName}</p>
-      </div>
+      </TempleHero>
 
       <div className="orient">
         <div>
@@ -146,10 +150,7 @@ export default function TempleDetail({
         </div>
       )}
 
-      <div className="callout">
-        <div className="k">♪ {ui.tabs.listen}</div>
-        <div className="n">{ui.labels.listenComingSoon}</div>
-      </div>
+      <AudioStory temple={temple} ui={ui} />
 
       <section className="section" aria-labelledby="why-h">
         <h2 id="why-h">{ui.labels.whyItMatters}</h2>

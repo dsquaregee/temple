@@ -1,6 +1,6 @@
 import { router, useLocalSearchParams } from 'expo-router';
 import { Pressable, Text, View } from 'react-native';
-import { t } from '@temple/core';
+import { colorForTemple, t } from '@temple/core';
 import { getCircuit, getTemple, getTemples } from '@temple/content';
 import { asLocale } from '@/lib/locale';
 import { useTheme } from '@/lib/theme';
@@ -74,7 +74,7 @@ export default function TempleDetailScreen() {
         <Text style={{ color: colors.accentVermilion, fontSize: 16 }}>‹ {ui.tabs.discover}</Text>
       </Pressable>
 
-      <Hero>
+      <Hero color={colorForTemple(temple.id)}>
         {temple.unesco && (
           <Text style={{ color: '#fff', opacity: 0.9, fontSize: 12, letterSpacing: 1 }}>
             {ui.labels.unesco.toUpperCase()}
