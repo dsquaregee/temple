@@ -7,12 +7,23 @@ is pre-built static HTML (decision D3).
 
 ## Files
 
+Firebase requires `firebase.json` at the **repo root** (Hosting's `public`
+directory must live inside the config's directory), so the config lives at the
+root and references the rules/indexes here in `infra/`.
+
 | File | Purpose |
 |---|---|
-| `firebase.json` | Hosting (serves `apps/web/out`) + CDN cache headers; Firestore rules/indexes wiring; local emulator ports. |
+| `../firebase.json` (repo root) | Hosting (serves `apps/web/out`) + CDN cache headers; Firestore rules/indexes wiring (targets the `temple` database); local emulator ports. |
+| `../.firebaserc` (repo root) | Project alias (`temple-502523`). |
 | `firestore.rules` | Users read/write **only their own** `/users/{uid}` tree; everything else denied. |
 | `firestore.indexes.json` | No composite indexes needed yet (user docs are read by id). |
-| `.firebaserc` | Project alias — replace `temple-app` with the real GCP project id. |
+
+## Database — the named `temple` database (asia-south1)
+
+This project uses a **named** Firestore database, `temple`, in `asia-south1`
+(not the conventional `(default)`). `firebase.json` targets it explicitly, and
+app code that reads user state must select it, e.g.
+`getFirestore(app, 'temple')`.
 
 ## Region — asia-south1 (Mumbai), immutable (D1)
 
@@ -47,21 +58,33 @@ downloads).
 
 ## Deploy
 
+Run from the **repo root** (where `firebase.json` lives):
+
 ```bash
 # 1. Build the static web export (writes apps/web/out)
 pnpm build:web
 
-# 2. From this directory, deploy hosting + rules
-cd infra
+# 2. Deploy hosting + rules
 firebase deploy --only hosting,firestore:rules
+```
+
+Non-interactive / CI (service account):
+
+```bash
+GOOGLE_APPLICATION_CREDENTIALS=/path/to/sa-key.json \
+  firebase deploy --only hosting,firestore:rules --project temple-502523 --non-interactive
 ```
 
 Local development against emulators:
 
 ```bash
-cd infra
 firebase emulators:start
 ```
+
+## Live
+
+- Hosting: https://temple-502523.web.app
+- Firestore rules: released to the `temple` (asia-south1) database.
 
 ## Not in this repo (set up in the GCP/Firebase console)
 

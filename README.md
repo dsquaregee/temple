@@ -108,14 +108,17 @@ Static content on Google's global CDN; Firebase Anonymous Auth; Firestore for
 
 ## Deploy
 
+Deployed to Firebase project **`temple-502523`** — live at
+**https://temple-502523.web.app**. `firebase.json` lives at the repo root.
+
 ```bash
 pnpm build:web
-cd infra && firebase deploy --only hosting,firestore:rules
+firebase deploy --only hosting,firestore:rules
 ```
 
-> Before deploying, set the real production domain in
-> `apps/web/app/layout.tsx` (`metadataBase`) and the GCP project id in
-> `infra/.firebaserc`.
+> Firestore uses a **named** database `temple` in `asia-south1` (D1); the
+> config targets it. Set a custom production domain in
+> `apps/web/app/layout.tsx` (`metadataBase`) when one is configured.
 
 ## Status & caveats
 

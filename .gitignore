@@ -1,6 +1,7 @@
 node_modules/
 .next/
 out/
+.firebase/
 next-env.d.ts
 .expo/
 dist/

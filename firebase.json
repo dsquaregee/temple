@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "../apps/web/out",
+    "public": "apps/web/out",
     "trailingSlash": true,
     "cleanUrls": false,
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
@@ -47,10 +47,13 @@
       }
     ]
   },
-  "firestore": {
-    "rules": "firestore.rules",
-    "indexes": "firestore.indexes.json"
-  },
+  "firestore": [
+    {
+      "database": "temple",
+      "rules": "infra/firestore.rules",
+      "indexes": "infra/firestore.indexes.json"
+    }
+  ],
   "emulators": {
     "auth": { "port": 9099 },
     "firestore": { "port": 8080 },
