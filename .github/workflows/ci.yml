@@ -1,0 +1,60 @@
+name: CI
+
+# Validates content and both apps on pull requests and pushes to the default
+# branch. Keeps the catalog parity-correct and both build targets green.
+on:
+  pull_request:
+  push:
+    branches: [claude/temple-app-phase-1-jfbtxy]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  content:
+    name: Validate content
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      # Zero-dependency validator: schema + cross-locale parity.
+      - run: node packages/content/scripts/validate.mjs
+
+  web:
+    name: Build web
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile --filter @temple/web...
+      - run: pnpm build:web
+
+  mobile:
+    name: Typecheck mobile
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile --filter @temple/mobile...
+      # generated.ts is git-ignored; produce it before typechecking.
+      - run: pnpm --filter @temple/content generate
+      - run: pnpm --filter @temple/mobile typecheck
