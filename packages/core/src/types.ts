@@ -23,6 +23,26 @@ export interface TempleVisit {
   gettingThere: string;
 }
 
+// Hero image for a temple. Optional: until licensed exterior/architecture
+// photography is available, the apps fall back to a generated placeholder
+// keyed on the temple id. `color` is the dominant tone used for the
+// zero-layout-shift placeholder and the loading background.
+export interface TempleHero {
+  src: string;
+  color: string;
+  alt: string;
+  sources?: { avif?: string; webp?: string };
+  credit?: string;
+}
+
+// Narrated audio story for a temple, per the Listen tab. Optional until audio
+// is produced; the app uses the temple's prose as the transcript / accessible
+// alternative in the meantime.
+export interface TempleAudio {
+  storyUrl: string;
+  durationSec: number;
+}
+
 export interface Temple {
   id: string;
   locale: Locale;
@@ -40,6 +60,8 @@ export interface Temple {
   summary: string;
   sections: TempleSections;
   visit: TempleVisit;
+  hero?: TempleHero;
+  audio?: TempleAudio;
 }
 
 export interface Circuit {

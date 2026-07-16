@@ -1,6 +1,6 @@
 import { router, useLocalSearchParams } from 'expo-router';
 import { Text, View } from 'react-native';
-import { t } from '@temple/core';
+import { colorForTemple, t } from '@temple/core';
 import { getCircuits, getTemples } from '@temple/content';
 import { asLocale } from '@/lib/locale';
 import { useTheme } from '@/lib/theme';
@@ -26,7 +26,7 @@ export default function HomeScreen() {
     <Screen>
       {featured && (
         <Card onPress={() => router.push(`/${locale}/temples/${featured.id}`)}>
-          <Hero>
+          <Hero color={colorForTemple(featured.id)}>
             <Text style={{ color: '#fff', opacity: 0.9, fontSize: 12, letterSpacing: 1 }}>
               {ui.labels.templeOfTheDay.toUpperCase()}
             </Text>
