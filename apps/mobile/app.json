@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Temple",
+    "slug": "temple",
+    "version": "0.1.0",
+    "scheme": "temple",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#FAF6EE"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dsquaregee.temple"
+    },
+    "android": {
+      "package": "com.dsquaregee.temple",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FAF6EE"
+      }
+    },
+    "plugins": ["expo-router"]
+  }
+}
