@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/arunachaleswarar.mp3",
     "durationSec": 453
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/arunachaleswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/arunachaleswarar.jpg",
+    "durationSec": 332,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/arunachaleswarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "അരുണാചലേശ്വര ക്ഷേത്രം, തിരുവണ്ണാമല",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

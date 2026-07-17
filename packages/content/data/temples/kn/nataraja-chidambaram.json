@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/nataraja-chidambaram.mp3",
     "durationSec": 370
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/nataraja-chidambaram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/nataraja-chidambaram.jpg",
+    "durationSec": 386,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/nataraja-chidambaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "ತಿಲ್ಲೈ ನಟರಾಜ ದೇವಾಲಯ",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

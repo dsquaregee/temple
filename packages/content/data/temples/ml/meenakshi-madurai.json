@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/meenakshi-madurai.mp3",
     "durationSec": 488
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/meenakshi-madurai.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/meenakshi-madurai.jpg",
+    "durationSec": 354,
+    "credit": "Avinashadityas / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0) · IM3847 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/meenakshi-madurai.jpg",
+    "color": "#5C3A2E",
+    "alt": "മീനാക്ഷി അമ്മൻ ക്ഷേത്രം",
+    "credit": "Avinashadityas / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0) · IM3847 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

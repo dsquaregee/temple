@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/srikalahasti.mp3",
     "durationSec": 439
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/srikalahasti.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/srikalahasti.jpg",
+    "durationSec": 405,
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srikalahasti.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஸ்ரீகாளஹஸ்தீஸ்வரர் கோயில்",
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

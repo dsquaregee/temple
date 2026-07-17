@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/ramanathaswamy-rameswaram.mp3",
     "durationSec": 392
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/ramanathaswamy-rameswaram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ramanathaswamy-rameswaram.jpg",
+    "durationSec": 427,
+    "credit": "Vensatry / Wikimedia Commons (CC BY-SA 3.0) · Souvik Sarkar / Wikimedia Commons (CC BY-SA 4.0) · M.Mutta / Wikimedia Commons (CC BY-SA 3.0) · Shajinss / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ramanathaswamy-rameswaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "రామనాథస్వామి ఆలయం",
+    "credit": "Vensatry / Wikimedia Commons (CC BY-SA 3.0) · Souvik Sarkar / Wikimedia Commons (CC BY-SA 4.0) · M.Mutta / Wikimedia Commons (CC BY-SA 3.0) · Shajinss / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

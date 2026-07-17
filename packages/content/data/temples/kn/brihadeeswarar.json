@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/brihadeeswarar.mp3",
     "durationSec": 403
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/brihadeeswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.jpg",
+    "durationSec": 421,
+    "credit": "Vengolis / Wikimedia Commons (CC BY-SA 4.0) · Devakarthik Ramesh / Wikimedia Commons (CC BY-SA 4.0) · Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Sajeeshjs / Wikimedia Commons (CC BY-SA 4.0) · Elandhiraiyan / Wikimedia Commons (CC BY-SA 3.0) · Veera / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಬೃಹದೀಶ್ವರ ದೇವಾಲಯ",
+    "credit": "Vengolis / Wikimedia Commons (CC BY-SA 4.0) · Devakarthik Ramesh / Wikimedia Commons (CC BY-SA 4.0) · Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Sajeeshjs / Wikimedia Commons (CC BY-SA 4.0) · Elandhiraiyan / Wikimedia Commons (CC BY-SA 3.0) · Veera / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

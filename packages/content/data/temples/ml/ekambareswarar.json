@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/ekambareswarar.mp3",
     "durationSec": 482
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/ekambareswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.jpg",
+    "durationSec": 358,
+    "credit": "Kazimierz Nowicki / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഏകാംബരേശ്വര ക്ഷേത്രം",
+    "credit": "Kazimierz Nowicki / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

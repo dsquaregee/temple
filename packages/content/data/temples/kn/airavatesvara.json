@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/airavatesvara.mp3",
     "durationSec": 439
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/airavatesvara.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "durationSec": 453,
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Nithi Anand from Paris, France / Wikimedia Commons (CC BY 2.0) · Thamizhpparithi Maari / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಐರಾವತೇಶ್ವರ ದೇವಾಲಯ",
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Nithi Anand from Paris, France / Wikimedia Commons (CC BY 2.0) · Thamizhpparithi Maari / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

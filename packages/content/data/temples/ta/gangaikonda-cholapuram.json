@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/gangaikonda-cholapuram.mp3",
     "durationSec": 454
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/gangaikonda-cholapuram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "durationSec": 424,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "பிரகதீஸ்வரர் கோயில், கங்கைகொண்ட சோழபுரம்",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

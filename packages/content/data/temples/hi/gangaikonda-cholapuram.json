@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/gangaikonda-cholapuram.mp3",
     "durationSec": 415
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/gangaikonda-cholapuram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "durationSec": 374,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "बृहदीश्वर मंदिर, गंगैकोंड चोलपुरम",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

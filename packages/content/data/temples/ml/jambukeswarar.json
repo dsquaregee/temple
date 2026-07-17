@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/jambukeswarar.mp3",
     "durationSec": 454
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/jambukeswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/jambukeswarar.jpg",
+    "durationSec": 336,
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/jambukeswarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ജംബുകേശ്വര ക്ഷേത്രം, തിരുവാനൈക്കാവല്‍",
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
