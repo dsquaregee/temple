@@ -1,0 +1,91 @@
+name: Generate narrated videos
+
+# Renders the Ken Burns narrated videos (CC Wikimedia photos + TTS narration)
+# and uploads them to the public media bucket, then commits the updated temple
+# JSON (video/hero fields) + photo audit back to the branch it was dispatched
+# on. Runs in CI because it needs GCP credentials (FIREBASE_SERVICE_ACCOUNT)
+# and ffmpeg; manual dispatch only — media generation is an explicit action,
+# not a side effect of pushes.
+on:
+  workflow_dispatch:
+    inputs:
+      dryrun:
+        description: Photo audit only (no render/upload)
+        type: boolean
+        default: false
+      resume:
+        description: Skip temples that already have a video URL
+        type: boolean
+        default: true
+      only:
+        description: Comma-separated temple ids (empty = all)
+        type: string
+        default: ''
+      locales:
+        description: Comma-separated locales
+        type: string
+        default: en,ta,te,kn,ml,hi
+
+permissions:
+  contents: write
+
+concurrency:
+  group: media-generation
+  cancel-in-progress: false
+
+jobs:
+  videos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install content deps
+        run: pnpm install --frozen-lockfile --filter @temple/content...
+
+      # ubuntu-latest ships ffmpeg; install only if the image ever drops it.
+      - name: Ensure ffmpeg
+        run: command -v ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+
+      - name: Write service account key
+        run: |
+          printf '%s' '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > "$RUNNER_TEMP/sa-key.json"
+
+      - name: Generate and upload videos
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
+          MEDIA_BUCKET: temple-502523-media
+          VIDEO_DRYRUN: ${{ inputs.dryrun && '1' || '' }}
+          VIDEO_RESUME: ${{ inputs.resume && '1' || '' }}
+          VIDEO_ONLY: ${{ inputs.only }}
+          VIDEO_LOCALES: ${{ inputs.locales }}
+        run: node packages/content/scripts/gen-video.mjs
+
+      - name: Clean up credentials
+        if: always()
+        run: rm -f "$RUNNER_TEMP/sa-key.json"
+
+      - name: Validate content
+        run: node packages/content/scripts/validate.mjs
+
+      - name: Commit updated content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add packages/content/data docs/media
+          if git diff --cached --quiet; then
+            echo "No content changes to commit."
+          else
+            git commit -m "feat(content): narrated videos + real hero photos (CI media run)"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi

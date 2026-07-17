@@ -37,6 +37,14 @@ const MIN_MP = Number(process.env.MIN_MP || 2);
 const LOCALES = (process.env.VIDEO_LOCALES || 'en,ta,te,kn,ml,hi').split(',');
 const UA = 'temple-app/1.0 (https://temples.dsquaregee.com; support@dsquaregee.com)';
 
+// Commons search fallbacks for temples whose catalog name differs from the
+// spelling photographers use on Commons (verified 2026-07: each fallback
+// yields 20+ qualifying photos where the primary query finds ≤1).
+const SEARCH_FALLBACKS = {
+  arunachaleswarar: ['Annamalaiyar Temple', 'Arunachalesvara Temple Tiruvannamalai'],
+  jambukeswarar: ['Jambukeswarar Temple', 'Thiruvanaikaval temple'],
+};
+
 const EXCLUDE = /(\bmap\b|plan|diagram|sketch|drawing|engraving|lithograph|inscription|logo|seal|coin|chart|graph|\.svg|panorama.*stitch)/i;
 const OK_LICENSE = /(cc[ -]?by([ -]sa)?|cc0|public domain|pd-|no restrictions)/i;
 const BAD_LICENSE = /(non[- ]?free|fair use|all rights reserved|copyright)/i;
@@ -52,7 +60,21 @@ async function commons(params) {
 }
 
 async function candidates(temple) {
-  const query = `${temple.name} ${temple.location?.city ?? ''}`.trim();
+  const queries = [
+    `${temple.name} ${temple.location?.city ?? ''}`.trim(),
+    ...(SEARCH_FALLBACKS[temple.id] ?? []),
+  ];
+  const byTitle = new Map();
+  for (const query of queries) {
+    for (const c of await searchCommons(query)) {
+      if (!byTitle.has(c.title)) byTitle.set(c.title, c);
+    }
+    if (byTitle.size >= PHOTOS_PER) break; // enough — skip remaining fallbacks
+  }
+  return [...byTitle.values()].sort((a, b) => b.mp - a.mp).slice(0, PHOTOS_PER);
+}
+
+async function searchCommons(query) {
   const data = await commons({
     action: 'query',
     generator: 'search',
@@ -87,8 +109,7 @@ async function candidates(temple) {
       credit: `${artist} / Wikimedia Commons (${licName})`,
     });
   }
-  // Best resolution first; cap per temple.
-  return out.sort((a, b) => b.mp - a.mp).slice(0, PHOTOS_PER);
+  return out;
 }
 
 async function download(url, dest) {
@@ -98,15 +119,25 @@ async function download(url, dest) {
   writeFileSync(dest, buf);
 }
 
+function probeDuration(mediaPath) {
+  const out = execFileSync('ffprobe', [
+    '-v', 'error', '-show_entries', 'format=duration', '-of', 'default=nw=1:nk=1', mediaPath,
+  ]);
+  return parseFloat(String(out));
+}
+
 function renderVideo(imgs, audioPath, outPath, audioDur) {
   const n = imgs.length;
   const per = Math.max(3, Math.ceil(audioDur / n)); // seconds per photo
   const frames = per * 25;
-  const inputs = imgs.flatMap((f) => ['-loop', '1', '-t', String(per), '-i', f]);
+  // Each image is a single input frame; zoompan expands it into a `frames`-long
+  // zooming clip (a looped input here would multiply frames×d and the
+  // slideshow would never advance past the first photo).
+  const inputs = imgs.flatMap((f) => ['-i', f]);
   const filters = imgs
     .map(
       (_, i) =>
-        `[${i}:v]scale=1600:-1,crop=1600:900,zoompan=z='min(zoom+0.0006,1.15)':d=${frames}:s=1280x720:fps=25,setsar=1[v${i}]`
+        `[${i}:v]scale=1600:900:force_original_aspect_ratio=increase,crop=1600:900,zoompan=z='min(zoom+0.0006,1.15)':d=${frames}:s=1280x720:fps=25,setsar=1[v${i}]`
     )
     .join(';');
   const concat = imgs.map((_, i) => `[v${i}]`).join('') + `concat=n=${n}:v=1:a=0[v]`;
@@ -128,12 +159,44 @@ mkdirSync(work, { recursive: true });
 const storage = BUCKET ? new Storage() : null;
 const bucket = storage ? storage.bucket(BUCKET) : null;
 
+// Ensure the bucket exists with public-read objects (same approach as
+// gen-audio.mjs: IAM binding, since new buckets default to uniform
+// bucket-level access where ACL makePublic() is unavailable).
+if (bucket) {
+  const [exists] = await bucket.exists();
+  if (!exists) {
+    const location = process.env.MEDIA_BUCKET_LOCATION || 'asia-south1';
+    console.log(`creating bucket ${BUCKET} in ${location} ...`);
+    await storage.createBucket(BUCKET, { location });
+  }
+  const [policy] = await bucket.iam.getPolicy({ requestedPolicyVersion: 3 });
+  policy.bindings = policy.bindings || [];
+  const isPublic = policy.bindings.some(
+    (b) => b.role === 'roles/storage.objectViewer' && (b.members || []).includes('allUsers')
+  );
+  if (!isPublic) {
+    policy.bindings.push({ role: 'roles/storage.objectViewer', members: ['allUsers'] });
+    await bucket.iam.setPolicy(policy);
+  }
+  console.log(`bucket ${BUCKET} is public (allUsers: objectViewer)`);
+}
+
 const enDir = join(dataDir, 'temples', 'en');
-const ids = readdirSync(enDir).filter((f) => f.endsWith('.json')).map((f) => f.replace(/\.json$/, ''));
+const ONLY_IDS = process.env.VIDEO_ONLY ? new Set(process.env.VIDEO_ONLY.split(',')) : null;
+const SKIP_DONE = !!process.env.VIDEO_RESUME; // skip temples whose en doc already has video
+const ids = readdirSync(enDir)
+  .filter((f) => f.endsWith('.json'))
+  .map((f) => f.replace(/\.json$/, ''))
+  .filter((id) => !ONLY_IDS || ONLY_IDS.has(id));
 
 const report = [];
 for (const id of ids) {
   const en = JSON.parse(readFileSync(join(enDir, `${id}.json`), 'utf8'));
+  if (SKIP_DONE && en.video?.url) {
+    console.log(`· ${id}: video already set — resume skip`);
+    report.push({ id, picked: '—', skipped: false });
+    continue;
+  }
   let picks;
   try {
     picks = await candidates(en);
@@ -151,54 +214,65 @@ for (const id of ids) {
   report.push({ id, picked: picks.length, skipped: false, photos: picks.map((p) => ({ title: p.title, mp: p.mp, credit: p.credit })) });
   if (DRY) continue;
 
-  const tdir = join(work, id);
-  mkdirSync(tdir, { recursive: true });
-  const imgPaths = [];
-  for (let i = 0; i < picks.length; i++) {
-    const dest = join(tdir, `${i}.jpg`);
-    await download(picks[i].thumb, dest);
-    imgPaths.push(dest);
-  }
-  const credit = [...new Set(picks.map((p) => p.credit))].join(' · ');
-
-  // Upload the top photo as the real hero image (language-agnostic).
-  const heroObj = `heroes/${id}.jpg`;
-  await bucket.file(heroObj).save(readFileSync(imgPaths[0]), {
-    contentType: 'image/jpeg',
-    metadata: { cacheControl: 'public, max-age=31536000, immutable' },
-    resumable: false,
-  });
-  const heroUrl = `https://storage.googleapis.com/${BUCKET}/${heroObj}`;
-
-  for (const locale of LOCALES) {
-    const jsonPath = join(dataDir, 'temples', locale, `${id}.json`);
-    if (!existsSync(jsonPath)) continue;
-    const doc = JSON.parse(readFileSync(jsonPath, 'utf8'));
-    const audioDur = doc.audio?.durationSec || 90;
-    const audioUrl = doc.audio?.storyUrl;
-    let audioPath = null;
-    if (audioUrl) {
-      audioPath = join(tdir, `audio-${locale}.mp3`);
-      await download(audioUrl, audioPath);
+  // One temple failing (bad photo, ffmpeg error, upload hiccup) must not kill
+  // the whole run — mark it in the report and move on.
+  try {
+    const tdir = join(work, id);
+    mkdirSync(tdir, { recursive: true });
+    const imgPaths = [];
+    for (let i = 0; i < picks.length; i++) {
+      const dest = join(tdir, `${i}.jpg`);
+      await download(picks[i].thumb, dest);
+      imgPaths.push(dest);
     }
-    const out = join(tdir, `${locale}.mp4`);
-    renderVideo(imgPaths, audioPath, out, audioDur);
+    const credit = [...new Set(picks.map((p) => p.credit))].join(' · ');
 
-    const obj = `video/${locale}/${id}.mp4`;
-    await bucket.file(obj).save(readFileSync(out), {
-      contentType: 'video/mp4',
+    // Upload the top photo as the real hero image (language-agnostic).
+    const heroObj = `heroes/${id}.jpg`;
+    await bucket.file(heroObj).save(readFileSync(imgPaths[0]), {
+      contentType: 'image/jpeg',
       metadata: { cacheControl: 'public, max-age=31536000, immutable' },
       resumable: false,
     });
-    doc.video = {
-      url: `https://storage.googleapis.com/${BUCKET}/${obj}`,
-      posterUrl: heroUrl,
-      durationSec: audioDur,
-      credit,
-    };
-    doc.hero = { src: heroUrl, color: doc.hero?.color || '#5C3A2E', alt: `${doc.name}`, credit };
-    writeFileSync(jsonPath, JSON.stringify(doc, null, 2) + '\n');
-    console.log(`  → ${locale}/${id}.mp4 uploaded`);
+    const heroUrl = `https://storage.googleapis.com/${BUCKET}/${heroObj}`;
+
+    for (const locale of LOCALES) {
+      const jsonPath = join(dataDir, 'temples', locale, `${id}.json`);
+      if (!existsSync(jsonPath)) continue;
+      const doc = JSON.parse(readFileSync(jsonPath, 'utf8'));
+      const audioUrl = doc.audio?.storyUrl;
+      if (!audioUrl) {
+        console.warn(`  ! ${locale}/${id}: no narration audio — locale skipped`);
+        continue;
+      }
+      const audioPath = join(tdir, `audio-${locale}.mp3`);
+      await download(audioUrl, audioPath);
+      // Real duration from the file — the stored durationSec is an estimate.
+      const audioDur = Math.round(probeDuration(audioPath)) || doc.audio?.durationSec || 90;
+      const out = join(tdir, `${locale}.mp4`);
+      renderVideo(imgPaths, audioPath, out, audioDur);
+
+      const obj = `video/${locale}/${id}.mp4`;
+      await bucket.file(obj).save(readFileSync(out), {
+        contentType: 'video/mp4',
+        metadata: { cacheControl: 'public, max-age=31536000, immutable' },
+        resumable: false,
+      });
+      doc.video = {
+        url: `https://storage.googleapis.com/${BUCKET}/${obj}`,
+        posterUrl: heroUrl,
+        durationSec: audioDur,
+        credit,
+      };
+      doc.hero = { src: heroUrl, color: doc.hero?.color || '#5C3A2E', alt: `${doc.name}`, credit };
+      writeFileSync(jsonPath, JSON.stringify(doc, null, 2) + '\n');
+      console.log(`  → ${locale}/${id}.mp4 uploaded`);
+    }
+  } catch (e) {
+    console.warn(`! ${id}: FAILED — ${String(e.message || e).split('\n')[0]}`);
+    const r = report[report.length - 1];
+    r.skipped = true;
+    r.reason = 'render/upload failed';
   }
 }
 
