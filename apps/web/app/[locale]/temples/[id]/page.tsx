@@ -11,6 +11,7 @@ import { PageChrome } from '@/components/PageChrome';
 import { TempleCard } from '@/components/cards';
 import { TempleHero } from '@/components/TempleHero';
 import { AudioStory } from '@/components/AudioStory';
+import { VideoStory } from '@/components/VideoStory';
 
 export const dynamicParams = false;
 
@@ -151,6 +152,8 @@ export default function TempleDetail({
       )}
 
       <AudioStory temple={temple} ui={ui} />
+
+      <VideoStory temple={temple} ui={ui} />
 
       <section className="section" aria-labelledby="why-h">
         <h2 id="why-h">{ui.labels.whyItMatters}</h2>
