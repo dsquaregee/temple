@@ -25,3 +25,29 @@ export function breadcrumbList(items: Crumb[]) {
     })),
   };
 }
+
+// A CollectionPage whose mainEntity is an ordered ItemList of the entries on a
+// listing page (Discover, Yatra). Gives Google the members of each hub page and
+// their canonical URLs.
+export function collectionPage(opts: {
+  name: string;
+  url: string;
+  items: Crumb[];
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: opts.name,
+    url: opts.url,
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: opts.items.length,
+      itemListElement: opts.items.map((item, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        name: item.name,
+        url: absUrl(item.path),
+      })),
+    },
+  };
+}
