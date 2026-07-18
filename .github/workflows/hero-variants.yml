@@ -1,0 +1,76 @@
+name: Generate hero image variants
+
+# Generates AVIF + WebP responsive hero formats and per-temple OpenGraph cards
+# from the JPEG heroes already in the media bucket, uploads them, and commits
+# the updated temple JSON (hero.sources + hero.og) back to the dispatching
+# branch. Needs GCP credentials (FIREBASE_SERVICE_ACCOUNT); manual dispatch
+# only — media generation is an explicit action, not a push side effect.
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: Comma-separated temple ids (empty = all)
+        type: string
+        default: ''
+      force:
+        description: Regenerate even if variants already exist
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: media-generation
+  cancel-in-progress: false
+
+jobs:
+  hero-variants:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install content deps
+        run: pnpm install --frozen-lockfile --filter @temple/content...
+
+      - name: Write service account key
+        run: |
+          printf '%s' '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > "$RUNNER_TEMP/sa-key.json"
+
+      - name: Generate and upload hero variants
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
+          MEDIA_BUCKET: temple-502523-media
+          HERO_ONLY: ${{ inputs.only }}
+          HERO_FORCE: ${{ inputs.force && '1' || '' }}
+        run: node packages/content/scripts/gen-hero-variants.mjs
+
+      - name: Clean up credentials
+        if: always()
+        run: rm -f "$RUNNER_TEMP/sa-key.json"
+
+      - name: Validate content
+        run: node packages/content/scripts/validate.mjs
+
+      - name: Commit updated content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add packages/content/data
+          if git diff --cached --quiet; then
+            echo "No content changes to commit."
+          else
+            git commit -m "feat(content): AVIF/WebP hero variants + OG cards (CI media run)"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
