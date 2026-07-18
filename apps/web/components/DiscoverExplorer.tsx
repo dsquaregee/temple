@@ -12,8 +12,7 @@ import {
   type Locale,
   type Temple,
 } from '@temple/core';
-import { TempleCard } from './cards';
-import { SaveButton } from './SaveButton';
+import { SavableTempleCard } from './SavableTempleCard';
 import { useFavorites } from '@/lib/favorites';
 
 const ERA_KEY = {
@@ -193,10 +192,7 @@ export function DiscoverExplorer({
       {results.length > 0 ? (
         <div className="grid">
           {results.map((tp) => (
-            <div key={tp.id} className="cardwrap">
-              <TempleCard locale={locale} temple={tp} />
-              <SaveButton locale={locale} id={tp.id} className="card-save" />
-            </div>
+            <SavableTempleCard key={tp.id} locale={locale} temple={tp} />
           ))}
         </div>
       ) : (
