@@ -73,9 +73,11 @@ jobs:
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
           MEDIA_BUCKET: temple-502523-media
           VIDEO_DRYRUN: ${{ inputs.dryrun && '1' || '' }}
-          # push events have no inputs — default to resume + all locales
-          VIDEO_RESUME: ${{ (github.event_name == 'push' || inputs.resume) && '1' || '' }}
-          VIDEO_ONLY: ${{ inputs.only || '' }}
+          # One-shot for the curated-photo regeneration (2026-07 editorial
+          # audit): a push re-renders exactly the 7 re-curated temples, no
+          # resume-skip. The push trigger is removed once this lands.
+          VIDEO_RESUME: ${{ inputs.resume && '1' || '' }}
+          VIDEO_ONLY: ${{ inputs.only || (github.event_name == 'push' && 'airavatesvara,arunachaleswarar,brihadeeswarar,ekambareswarar,jambukeswarar,nataraja-chidambaram,ramanathaswamy-rameswaram' || '') }}
           VIDEO_LOCALES: ${{ inputs.locales || 'en,ta,te,kn,ml,hi' }}
         run: node packages/content/scripts/gen-video.mjs
 

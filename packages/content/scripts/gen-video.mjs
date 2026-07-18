@@ -45,6 +45,70 @@ const SEARCH_FALLBACKS = {
   jambukeswarar: ['Jambukeswarar Temple', 'Thiruvanaikaval temple'],
 };
 
+// Editorially curated photo sets (exact Commons titles, hero first). The
+// resolution-ranked search kept stereo-pair scans, archival B&W photos, a
+// datestamped frame, and one wrong-temple shot — every title below was
+// reviewed by eye (2026-07 audit, docs/media/photo-audit.md) and verified to
+// depict the right temple. Temples not listed keep automatic selection.
+const CURATED = {
+  airavatesvara: [
+    'File:Darasuram - Airavatesvara Temple.jpg',
+    'File:Darasuram-Airavatesvara Temple-WUS02952.jpg',
+    'File:Darasuram-Airavatesvara Temple-WUS02946.jpg',
+    'File:Darasuram-Airavatesvara Temple-WUS02953.jpg',
+    'File:Darasuram-Airavatesvara Temple-WUS03005.jpg',
+    'File:Darasuram-Airavatesvara Temple-WUS02983.jpg',
+  ],
+  arunachaleswarar: [
+    'File:Thiruvannamalai, Arunachalesvara Temple, Tower, India.jpg',
+    'File:Arunachalesvara Temple - Annamalaiyar Temple Tiruvannamalai ttkcvrvb122k23iph (444).jpg',
+    'File:Thiruvannamalai, Arunachalesvara Temple, Gopuram, India.jpg',
+    'File:Arunachalesvara Temple - Annamalaiyar Temple Tiruvannamalai ttkcvrvb122k23iph (445).jpg',
+    'File:Arunachalesvara(Annamalaiyar) Temple Thiruvannamalai 3.jpg',
+    'File:Arunachalesvara Temple - Annamalaiyar Temple Tiruvannamalai ttkcvrvb122k23iph (377).jpg',
+  ],
+  brihadeeswarar: [
+    'File:Brihadisvara Temple during Maha Shivaratri-WUS03611 (edit).jpg',
+    'File:Brihadeeswarar Temple, Thanjavur.JPG',
+    'File:Thanjavur Brihadeeswarar Temple.jpg',
+    'File:Brihadeeswarar Temple Thanjavur.jpg',
+    'File:Brihadeeswarar Temple thanjavur.jpg',
+    'File:Brihadeeswarar temple evening, Thanjavur, Tamilnadu.jpg',
+  ],
+  ekambareswarar: [
+    'File:The Raja Gopuram ( Temple Tower ) of Ekambareshwara Temple, Kanchipuram.jpg',
+    'File:Ekambareswarar Temple, Kanchipuram temple tank 2K22TNKAN (3).jpg',
+    'File:Ekambareswarar Temple, Kanchipuram temple tank 2K22TNKAN (1).jpg',
+    'File:Ekambareswarar Temple, Kanchipuram temple tank 2K22TNKAN (6).jpg',
+    'File:Ekambareswarar Temple, Kanchipuram inside 2K22TNKAN (37).jpg',
+    'File:Ekambareswarar Temple, Kanchipuram inside 2K22TNKAN (38).jpg',
+  ],
+  jambukeswarar: [
+    'File:East tower of Thiruvanaikaval Jambukeswarar temple.jpg',
+    'File:Jambukeswarar Temple surroundings, Thiruvanaikaval ttkcvrvb122k23pxl (13).jpg',
+    'File:Jambukeswarar Temple surroundings, Thiruvanaikaval ttkcvrvb122k23pxl (24).jpg',
+    'File:Jambukeswarar Temple surroundings, Thiruvanaikaval ttkcvrvb122k23pxl (18).jpg',
+    'File:Jambukeswarar Temple surroundings, Thiruvanaikaval ttkcvrvb122k23pxl (22).jpg',
+    'File:Jambukeswarar Temple surroundings, Thiruvanaikaval ttkcvrvb122k23pxl (19).jpg',
+  ],
+  'nataraja-chidambaram': [
+    'File:A view of Nataraja Shiva Temple at Chidambaram, Tamil Nadu (11).jpg',
+    'File:Chidambaram-Thillai Nataraja Temple-WUS02374.jpg',
+    'File:Chidambaram-Thillai Nataraja Temple-WUS02367.jpg',
+    'File:Chidambaram-Thillai Nataraja Temple-WUS02424.jpg',
+    'File:Chidambaram-Thillai Nataraja Temple-WUS02363.jpg',
+    'File:Chidambaram-Thillai Nataraja Temple-WUS02380.jpg',
+  ],
+  'ramanathaswamy-rameswaram': [
+    'File:Ramanathaswamy Temple corridor 03.jpg',
+    'File:Ramanathaswamy Temple corridor 04.jpg',
+    'File:Thousand pillar prakaram.JPG',
+    'File:Thousand pillar hall rameswaram.tamilnadu - panoramio.jpg',
+    'File:Ramanathaswamy Temple corridor 01.jpg',
+    'File:Ramanathaswamy Temple, Rameswaram.jpg',
+  ],
+};
+
 const EXCLUDE = /(\bmap\b|plan|diagram|sketch|drawing|engraving|lithograph|inscription|logo|seal|coin|chart|graph|\.svg|panorama.*stitch)/i;
 const OK_LICENSE = /(cc[ -]?by([ -]sa)?|cc0|public domain|pd-|no restrictions)/i;
 const BAD_LICENSE = /(non[- ]?free|fair use|all rights reserved|copyright)/i;
@@ -60,6 +124,36 @@ async function commons(params) {
 }
 
 async function candidates(temple) {
+  const curated = CURATED[temple.id];
+  if (curated) {
+    const data = await commons({
+      action: 'query',
+      titles: curated.join('|'),
+      prop: 'imageinfo',
+      iiprop: 'url|size|mime|extmetadata',
+      iiurlwidth: '1920',
+    });
+    const byTitle = new Map();
+    for (const p of Object.values(data?.query?.pages ?? {})) {
+      const info = p.imageinfo?.[0];
+      if (!info) continue;
+      const meta = info.extmetadata || {};
+      const lic = stripHtml(meta.LicenseShortName?.value) + ' ' + stripHtml(meta.License?.value) + ' ' + stripHtml(meta.UsageTerms?.value);
+      if (BAD_LICENSE.test(lic) || !OK_LICENSE.test(lic)) continue;
+      const artist = stripHtml(meta.Artist?.value) || 'Wikimedia Commons';
+      const licName = stripHtml(meta.LicenseShortName?.value) || 'CC';
+      byTitle.set(p.title, {
+        title: p.title,
+        mp: +((info.width * info.height) / 1e6).toFixed(1),
+        thumb: info.thumburl || info.url,
+        full: info.url,
+        credit: `${artist} / Wikimedia Commons (${licName})`,
+      });
+    }
+    // Preserve the curated (hero-first) order, not API response order.
+    return curated.map((t) => byTitle.get(t)).filter(Boolean).slice(0, PHOTOS_PER);
+  }
+
   const queries = [
     `${temple.name} ${temple.location?.city ?? ''}`.trim(),
     ...(SEARCH_FALLBACKS[temple.id] ?? []),
