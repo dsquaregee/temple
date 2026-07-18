@@ -1,0 +1,17 @@
+{
+  "id": "arupadai-veedu",
+  "locale": "en",
+  "name": "Arupadai Veedu",
+  "nativeName": "அறுபடை வீடுகள்",
+  "theme": "The six battle-camps of Murugan, the Tamil god of war and beauty",
+  "region": "Tamil Nadu",
+  "description": "When the young god Murugan marched against the asura Surapadman, tradition holds that he rested his armies at six encampments across the Tamil country — and at each, a great temple grew. The Arupadai Veedu, the Six Abodes, map his story onto the land itself: the rock-cut sanctum of Thiruparankundram where he wed Deivanai after the victory; the shore of Thiruchendur where the battle was fought; the hill of Palani where he stood as a renunciate with nothing but a staff; Swamimalai, where the son taught the meaning of Om to his own father; Thiruttani, the hill of peace where his fury cooled and he wed Valli; and the orchard slopes of Pazhamudircholai, where he tested a poet's wisdom with a riddle about fruit. Walked together they trace the whole arc of a divine life — war and wisdom, renunciation and love — through some of the oldest living shrines of Tamil devotion, each ringing with the cadences of the Thirumurugatrupadai and centuries of pilgrim song.",
+  "stops": [
+    "thiruparankundram-murugan",
+    "thiruchendur-murugan",
+    "palani-murugan",
+    "swamimalai-murugan",
+    "thiruthani-murugan",
+    "pazhamudircholai-murugan"
+  ]
+}

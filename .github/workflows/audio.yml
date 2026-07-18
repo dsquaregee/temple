@@ -1,0 +1,89 @@
+name: Generate narrated audio
+
+# Synthesizes the narrated story for every temple × locale with Google Cloud
+# Text-to-Speech, uploads MP3s to the public audio bucket, and commits the
+# updated temple JSON (audio fields) back to the dispatching branch. Runs in
+# CI because it needs GCP credentials (FIREBASE_SERVICE_ACCOUNT). Manual
+# dispatch only. gen-audio.mjs resume-skips files already in the bucket, so
+# re-runs only synthesize what's new (AUDIO_FORCE=1 to override).
+on:
+  # Bootstrap trigger: workflow_dispatch only registers once this file reaches
+  # the default branch. Push runs are gated on an explicit [run-audio] marker
+  # in the head commit message, so ordinary content pushes never fire it.
+  # TODO remove the push trigger when this lands on the default branch.
+  push:
+    branches: [claude/continuation-session-75pyie]
+  workflow_dispatch:
+    inputs:
+      locales:
+        description: Comma-separated locales (empty = all six)
+        type: string
+        default: ''
+      limit:
+        description: Max temples per locale (empty = all)
+        type: string
+        default: ''
+      force:
+        description: Re-synthesize even if the MP3 already exists
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: audio-generation
+  cancel-in-progress: false
+
+jobs:
+  audio:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[run-audio]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install content deps
+        run: pnpm install --frozen-lockfile --filter @temple/content...
+
+      - name: Write service account key
+        run: |
+          printf '%s' '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > "$RUNNER_TEMP/sa-key.json"
+
+      - name: Generate and upload audio
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
+          AUDIO_BUCKET: temple-502523-audio
+          AUDIO_LOCALES: ${{ inputs.locales }}
+          AUDIO_LIMIT: ${{ inputs.limit }}
+          AUDIO_FORCE: ${{ inputs.force && '1' || '' }}
+        run: node packages/content/scripts/gen-audio.mjs
+
+      - name: Clean up credentials
+        if: always()
+        run: rm -f "$RUNNER_TEMP/sa-key.json"
+
+      - name: Validate content
+        run: node packages/content/scripts/validate.mjs
+
+      - name: Commit updated content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add packages/content/data
+          if git diff --cached --quiet; then
+            echo "No content changes to commit."
+          else
+            git commit -m "feat(content): narrated audio (CI audio run)"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
