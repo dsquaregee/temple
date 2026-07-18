@@ -1,6 +1,6 @@
 import { router, useLocalSearchParams } from 'expo-router';
 import { Text, View } from 'react-native';
-import { colorForTemple, t } from '@temple/core';
+import { colorForTemple, epochDay, indexOfDay, t } from '@temple/core';
 import { getCircuits, getTemples } from '@temple/content';
 import { asLocale } from '@/lib/locale';
 import { useTheme } from '@/lib/theme';
@@ -20,7 +20,8 @@ export default function HomeScreen() {
   const { colors } = useTheme();
   const temples = getTemples(locale);
   const circuits = getCircuits(locale);
-  const featured = temples[0];
+  // Temple of the day: rotates daily, picked at runtime on the device.
+  const featured = temples[indexOfDay(temples.length, epochDay(new Date()))];
 
   return (
     <Screen>
