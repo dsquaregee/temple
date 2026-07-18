@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/ekambareswarar.mp3",
     "durationSec": 414
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/ekambareswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.jpg",
+    "durationSec": 371,
+    "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "एकम्बरेश्वर मंदिर",
+    "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

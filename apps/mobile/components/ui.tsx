@@ -1,5 +1,6 @@
 import { type ReactNode } from 'react';
 import {
+  ImageBackground,
   Pressable,
   ScrollView,
   StyleSheet,
@@ -123,15 +124,29 @@ export function Card({
 export function Hero({
   children,
   color,
+  imageUri,
 }: {
   children: ReactNode;
   color?: string;
+  imageUri?: string;
 }) {
   const { colors } = useTheme();
+  const bg = color ?? colors.accentVermilion;
+  if (!imageUri) {
+    return <View style={[styles.hero, { backgroundColor: bg }]}>{children}</View>;
+  }
+  // Real photo backdrop over the temple's tint (visible while loading), with a
+  // dark scrim so the white hero text keeps contrast on any photograph.
   return (
-    <View style={[styles.hero, { backgroundColor: color ?? colors.accentVermilion }]}>
+    <ImageBackground
+      source={{ uri: imageUri }}
+      style={[styles.hero, { backgroundColor: bg }]}
+      imageStyle={{ borderRadius: radius.card }}
+      resizeMode="cover"
+    >
+      <View style={styles.heroScrim} />
       {children}
-    </View>
+    </ImageBackground>
   );
 }
 
@@ -182,6 +197,11 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     minHeight: 150,
     justifyContent: 'flex-end',
+    overflow: 'hidden',
+  },
+  heroScrim: {
+    ...StyleSheet.absoluteFillObject,
+    backgroundColor: 'rgba(20, 12, 8, 0.42)',
   },
   tile: { borderRadius: radius.card, padding: 14, marginBottom: 10 },
   tileK: {

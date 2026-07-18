@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/arunachaleswarar.mp3",
     "durationSec": 392
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/arunachaleswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/arunachaleswarar.jpg",
+    "durationSec": 353,
+    "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/arunachaleswarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "अरुणाचलेश्वर मंदिर, तिरुवण्णामलै",
+    "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

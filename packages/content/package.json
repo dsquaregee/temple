@@ -12,7 +12,8 @@
     "generate": "node scripts/generate.mjs",
     "validate": "node scripts/validate.mjs",
     "qa": "node scripts/qa-translations.mjs",
-    "audio": "node scripts/gen-audio.mjs"
+    "audio": "node scripts/gen-audio.mjs",
+    "video": "node scripts/gen-video.mjs"
   },
   "dependencies": {
     "@temple/core": "workspace:*"

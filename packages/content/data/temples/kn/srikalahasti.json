@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/srikalahasti.mp3",
     "durationSec": 391
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/srikalahasti.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/srikalahasti.jpg",
+    "durationSec": 406,
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srikalahasti.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಶ್ರೀಕಾಳಹಸ್ತೀಶ್ವರ ದೇವಾಲಯ",
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

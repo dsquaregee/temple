@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/nataraja-chidambaram.mp3",
     "durationSec": 434
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/nataraja-chidambaram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/nataraja-chidambaram.jpg",
+    "durationSec": 322,
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/nataraja-chidambaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "തില്ലൈ നടരാജ ക്ഷേത്രം",
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

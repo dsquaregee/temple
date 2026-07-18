@@ -43,6 +43,15 @@ export interface TempleAudio {
   durationSec: number;
 }
 
+// Narrated video (Ken Burns over real, CC-licensed exterior photos + the audio
+// story). Optional. `credit` carries the required photo attributions.
+export interface TempleVideo {
+  url: string;
+  posterUrl?: string;
+  durationSec?: number;
+  credit?: string;
+}
+
 export interface Temple {
   id: string;
   locale: Locale;
@@ -62,6 +71,7 @@ export interface Temple {
   visit: TempleVisit;
   hero?: TempleHero;
   audio?: TempleAudio;
+  video?: TempleVideo;
 }
 
 export interface Circuit {

@@ -34,6 +34,7 @@ export interface UiStrings {
     supportTemple: string;
     supportNote: string;
     listenComingSoon: string;
+    videoStory: string;
     languageName: string;
   };
 }
@@ -73,6 +74,7 @@ export const strings: Record<Locale, UiStrings> = {
       supportTemple: 'Support this temple',
       supportNote: 'Donations go directly through the temple’s official channels.',
       listenComingSoon: 'Audio stories are coming soon. Every temple page will have a narrated story in your language.',
+      videoStory: 'Video story',
       languageName: 'English',
     },
   },
@@ -110,6 +112,7 @@ export const strings: Record<Locale, UiStrings> = {
       supportTemple: 'இக்கோயிலை ஆதரியுங்கள்',
       supportNote: 'நன்கொடைகள் கோயிலின் அதிகாரப்பூர்வ வழிகள் மூலமாக நேரடியாக செல்லும்.',
       listenComingSoon: 'ஒலிக் கதைகள் விரைவில் வருகின்றன. ஒவ்வொரு கோயில் பக்கத்திலும் உங்கள் மொழியில் ஒரு கதை இருக்கும்.',
+      videoStory: 'காணொளிக் கதை',
       languageName: 'தமிழ்',
     },
   },
@@ -147,6 +150,7 @@ export const strings: Record<Locale, UiStrings> = {
       supportTemple: 'ఈ ఆలయాన్ని ఆదరించండి',
       supportNote: 'విరాళాలు ఆలయ అధికారిక మార్గాల ద్వారా నేరుగా వెళ్తాయి.',
       listenComingSoon: 'ఆడియో కథలు త్వరలో వస్తున్నాయి. ప్రతి ఆలయ పేజీలో మీ భాషలో ఒక కథ ఉంటుంది.',
+      videoStory: 'వీడియో కథ',
       languageName: 'తెలుగు',
     },
   },
@@ -184,6 +188,7 @@ export const strings: Record<Locale, UiStrings> = {
       supportTemple: 'ಈ ದೇವಾಲಯವನ್ನು ಬೆಂಬಲಿಸಿ',
       supportNote: 'ದೇಣಿಗೆಗಳು ದೇವಾಲಯದ ಅಧಿಕೃತ ಮಾರ್ಗಗಳ ಮೂಲಕ ನೇರವಾಗಿ ಹೋಗುತ್ತವೆ.',
       listenComingSoon: 'ಆಡಿಯೊ ಕಥೆಗಳು ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿವೆ. ಪ್ರತಿ ದೇವಾಲಯದ ಪುಟದಲ್ಲಿ ನಿಮ್ಮ ಭಾಷೆಯಲ್ಲಿ ಕಥೆ ಇರುತ್ತದೆ.',
+      videoStory: 'ವಿಡಿಯೋ ಕಥೆ',
       languageName: 'ಕನ್ನಡ',
     },
   },
@@ -221,6 +226,7 @@ export const strings: Record<Locale, UiStrings> = {
       supportTemple: 'ഈ ക്ഷേത്രത്തെ പിന്തുണയ്ക്കുക',
       supportNote: 'സംഭാവനകൾ ക്ഷേത്രത്തിന്റെ ഔദ്യോഗിക മാർഗങ്ങളിലൂടെ നേരിട്ട് പോകുന്നു.',
       listenComingSoon: 'ഓഡിയോ കഥകൾ ഉടൻ വരുന്നു. ഓരോ ക്ഷേത്ര പേജിലും നിങ്ങളുടെ ഭാഷയിൽ ഒരു കഥ ഉണ്ടാകും.',
+      videoStory: 'വീഡിയോ കഥ',
       languageName: 'മലയാളം',
     },
   },
@@ -258,6 +264,7 @@ export const strings: Record<Locale, UiStrings> = {
       supportTemple: 'इस मंदिर का समर्थन करें',
       supportNote: 'दान सीधे मंदिर के आधिकारिक माध्यमों से जाता है।',
       listenComingSoon: 'ऑडियो कथाएँ जल्द आ रही हैं। हर मंदिर पृष्ठ पर आपकी भाषा में एक कथा होगी।',
+      videoStory: 'वीडियो कथा',
       languageName: 'हिन्दी',
     },
   },

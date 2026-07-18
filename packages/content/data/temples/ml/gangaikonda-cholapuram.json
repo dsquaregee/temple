@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/gangaikonda-cholapuram.mp3",
     "durationSec": 487
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/gangaikonda-cholapuram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "durationSec": 356,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "ബൃഹദീശ്വര ക്ഷേത്രം, ഗംഗൈകൊണ്ട ചോളപുരം",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

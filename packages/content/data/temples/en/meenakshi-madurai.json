@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/meenakshi-madurai.mp3",
     "durationSec": 428
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/meenakshi-madurai.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/meenakshi-madurai.jpg",
+    "durationSec": 329,
+    "credit": "Avinashadityas / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0) · IM3847 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/meenakshi-madurai.jpg",
+    "color": "#5C3A2E",
+    "alt": "Meenakshi Amman Temple",
+    "credit": "Avinashadityas / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0) · IM3847 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

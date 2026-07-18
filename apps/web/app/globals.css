@@ -366,6 +366,13 @@ a {
   margin: 10px 0 4px;
   height: 40px;
 }
+.video__player {
+  width: 100%;
+  margin: 10px 0 4px;
+  border-radius: 8px;
+  aspect-ratio: 16 / 9;
+  background: #000;
+}
 .listenrow {
   display: flex;
   align-items: center;

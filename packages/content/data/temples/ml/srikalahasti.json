@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/srikalahasti.mp3",
     "durationSec": 465
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/srikalahasti.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/srikalahasti.jpg",
+    "durationSec": 341,
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srikalahasti.jpg",
+    "color": "#5C3A2E",
+    "alt": "ശ്രീകാളഹസ്തീശ്വര ക്ഷേത്രം",
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

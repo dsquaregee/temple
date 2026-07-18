@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/arunachaleswarar.mp3",
     "durationSec": 389
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/arunachaleswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/arunachaleswarar.jpg",
+    "durationSec": 397,
+    "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/arunachaleswarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಅರುಣಾಚಲೇಶ್ವರ ದೇವಾಲಯ, ತಿರುವಣ್ಣಾಮಲೈ",
+    "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

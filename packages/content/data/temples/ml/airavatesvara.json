@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/airavatesvara.mp3",
     "durationSec": 485
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/airavatesvara.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "durationSec": 363,
+    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഐരാവതേശ്വര ക്ഷേത്രം",
+    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
