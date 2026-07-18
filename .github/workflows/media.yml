@@ -7,13 +7,6 @@ name: Generate narrated videos
 # and ffmpeg; manual dispatch only — media generation is an explicit action,
 # not a side effect of pushes.
 on:
-  # Bootstrap trigger: workflow_dispatch only registers once this file reaches
-  # the default branch, so run on pushes to the working branch until then.
-  # Safe to re-fire: resume mode skips temples that already have a video, and
-  # commits pushed back by the job (GITHUB_TOKEN) never trigger workflows.
-  # TODO remove the push trigger when this lands on the default branch.
-  push:
-    branches: [claude/continuation-session-75pyie]
   workflow_dispatch:
     inputs:
       dryrun:
@@ -73,12 +66,9 @@ jobs:
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
           MEDIA_BUCKET: temple-502523-media
           VIDEO_DRYRUN: ${{ inputs.dryrun && '1' || '' }}
-          # One-shot for the curated-photo regeneration (2026-07 editorial
-          # audit): a push re-renders exactly the 7 re-curated temples, no
-          # resume-skip. The push trigger is removed once this lands.
           VIDEO_RESUME: ${{ inputs.resume && '1' || '' }}
-          VIDEO_ONLY: ${{ inputs.only || (github.event_name == 'push' && 'airavatesvara,arunachaleswarar,brihadeeswarar,ekambareswarar,jambukeswarar,nataraja-chidambaram,ramanathaswamy-rameswaram' || '') }}
-          VIDEO_LOCALES: ${{ inputs.locales || 'en,ta,te,kn,ml,hi' }}
+          VIDEO_ONLY: ${{ inputs.only }}
+          VIDEO_LOCALES: ${{ inputs.locales }}
         run: node packages/content/scripts/gen-video.mjs
 
       - name: Clean up credentials
