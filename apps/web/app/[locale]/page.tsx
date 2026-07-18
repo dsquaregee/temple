@@ -1,13 +1,14 @@
 import type { Metadata } from 'next';
-import { t, type Locale } from '@temple/core';
+import { epochDay, indexOfDay, t, type Locale } from '@temple/core';
 import { getCircuits, getTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { SITE_URL } from '@/lib/site';
 import { absUrl } from '@/lib/jsonld';
+import { heroFor } from '@/lib/hero';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
+import { DailyFeatured, type FeaturedTemple } from '@/components/DailyFeatured';
 import { CircuitCard, TempleCard } from '@/components/cards';
-import { TempleHero } from '@/components/TempleHero';
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -35,11 +36,18 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
   const temples = getTemples(locale);
   const circuits = getCircuits(locale);
 
-  // Deterministic "temple of the day": a build-time rotation over the catalog.
-  const dayOfYear = Math.floor(
-    (Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86400000
-  );
-  const featured = temples[dayOfYear % temples.length] ?? temples[0];
+  // "Temple of the day": a compact per-temple projection for the client hero,
+  // which re-picks for the visitor's actual day. `initialIndex` is the
+  // build-day pick the server renders (kept small — no section prose).
+  const featuredTemples: FeaturedTemple[] = temples.map((tp) => ({
+    id: tp.id,
+    name: tp.name,
+    nativeName: tp.nativeName,
+    city: tp.location.city,
+    state: tp.location.state,
+    hero: heroFor(tp),
+  }));
+  const initialIndex = indexOfDay(featuredTemples.length, epochDay(new Date()));
 
   const orgId = `${SITE_URL}/#org`;
   const websiteJsonLd = {
@@ -73,19 +81,12 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
     <PageChrome locale={locale} active="home">
       <JsonLd data={websiteJsonLd} />
       <JsonLd data={organizationJsonLd} />
-      {featured && (
-        <a
-          href={`/${locale}/temples/${featured.id}/`}
-          style={{ display: 'block' }}
-        >
-          <TempleHero temple={featured} eyebrow={ui.labels.templeOfTheDay}>
-            <h1>{featured.name}</h1>
-            <p>
-              {featured.location.city}, {featured.location.state}
-            </p>
-          </TempleHero>
-        </a>
-      )}
+      <DailyFeatured
+        locale={locale}
+        eyebrow={ui.labels.templeOfTheDay}
+        temples={featuredTemples}
+        initialIndex={initialIndex}
+      />
 
       <section className="section" aria-labelledby="circuits-h">
         <h2 id="circuits-h">{ui.labels.circuits}</h2>
