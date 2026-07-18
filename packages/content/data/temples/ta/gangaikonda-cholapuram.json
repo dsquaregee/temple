@@ -47,6 +47,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
     "color": "#5C3A2E",
     "alt": "பிரகதீஸ்வரர் கோயில், கங்கைகொண்ட சோழபுரம்",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/gangaikonda-cholapuram.jpg"
   }
 }
