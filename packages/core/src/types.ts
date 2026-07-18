@@ -32,6 +32,8 @@ export interface TempleHero {
   color: string;
   alt: string;
   sources?: { avif?: string; webp?: string };
+  // Social-share (OpenGraph) card, 1200×630, derived from the hero photo.
+  og?: string;
   credit?: string;
 }
 

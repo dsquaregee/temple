@@ -30,6 +30,7 @@ export function generateMetadata({
 }): Metadata {
   const temple = getTemple(params.locale, params.id);
   if (!temple) return {};
+  const og = temple.hero?.og;
   return {
     title: temple.name,
     description: temple.summary,
@@ -43,7 +44,20 @@ export function generateMetadata({
       title: temple.name,
       description: temple.summary,
       type: 'article',
+      ...(og
+        ? { images: [{ url: og, width: 1200, height: 630, alt: temple.name }] }
+        : {}),
     },
+    ...(og
+      ? {
+          twitter: {
+            card: 'summary_large_image',
+            title: temple.name,
+            description: temple.summary,
+            images: [og],
+          },
+        }
+      : {}),
   };
 }
 
