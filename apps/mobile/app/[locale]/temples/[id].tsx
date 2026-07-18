@@ -16,6 +16,7 @@ import {
   SectionHeading,
   Tile,
 } from '@/components/ui';
+import { AudioStoryCard, VideoStoryCard } from '@/components/media';
 
 export default function TempleDetailScreen() {
   const params = useLocalSearchParams<{ locale: string; id: string }>();
@@ -74,7 +75,7 @@ export default function TempleDetailScreen() {
         <Text style={{ color: colors.accentVermilion, fontSize: 16 }}>‹ {ui.tabs.discover}</Text>
       </Pressable>
 
-      <Hero color={colorForTemple(temple.id)}>
+      <Hero color={colorForTemple(temple.id)} imageUri={temple.hero?.src}>
         {temple.unesco && (
           <Text style={{ color: '#fff', opacity: 0.9, fontSize: 12, letterSpacing: 1 }}>
             {ui.labels.unesco.toUpperCase()}
@@ -116,6 +117,9 @@ export default function TempleDetailScreen() {
           ))}
         </View>
       )}
+
+      <AudioStoryCard temple={temple} ui={ui} />
+      <VideoStoryCard temple={temple} ui={ui} />
 
       <SectionHeading>{ui.labels.whyItMatters}</SectionHeading>
       <Lead>{temple.summary}</Lead>
