@@ -11,7 +11,7 @@ import { absUrl, breadcrumbList } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
 import { SaveButton } from '@/components/SaveButton';
-import { TempleCard } from '@/components/cards';
+import { SavableTempleCard } from '@/components/SavableTempleCard';
 import { TempleHero } from '@/components/TempleHero';
 import { AudioStory } from '@/components/AudioStory';
 import { VideoStory } from '@/components/VideoStory';
@@ -216,7 +216,7 @@ export default function TempleDetail({
           <h2 id="related-h">{ui.labels.relatedTemples}</h2>
           <div className="grid">
             {related.map((other) => (
-              <TempleCard key={other.id} locale={locale} temple={other} />
+              <SavableTempleCard key={other.id} locale={locale} temple={other} />
             ))}
           </div>
         </section>

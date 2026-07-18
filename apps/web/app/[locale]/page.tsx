@@ -9,7 +9,8 @@ import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
 import { DailyFeatured, type FeaturedTemple } from '@/components/DailyFeatured';
 import { SavedTemples, type SavedItem } from '@/components/SavedTemples';
-import { CircuitCard, TempleCard } from '@/components/cards';
+import { SavableTempleCard } from '@/components/SavableTempleCard';
+import { CircuitCard } from '@/components/cards';
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -112,7 +113,7 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
         <h2 id="temples-h">{ui.labels.allTemples}</h2>
         <div className="grid">
           {temples.map((temple) => (
-            <TempleCard key={temple.id} locale={locale} temple={temple} />
+            <SavableTempleCard key={temple.id} locale={locale} temple={temple} />
           ))}
         </div>
       </section>
