@@ -7,7 +7,9 @@ import {
   getTemples,
 } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
+import { absUrl, breadcrumbList } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
+import { JsonLd } from '@/components/JsonLd';
 import { TempleCard } from '@/components/cards';
 import { TempleHero } from '@/components/TempleHero';
 import { AudioStory } from '@/components/AudioStory';
@@ -75,6 +77,8 @@ export default function TempleDetail({
     name: temple.name,
     alternateName: temple.nativeName,
     description: temple.summary,
+    url: absUrl(`${locale}/temples/${temple.id}/`),
+    ...(temple.hero?.src ? { image: temple.hero.src } : {}),
     address: {
       '@type': 'PostalAddress',
       addressLocality: temple.location.city,
@@ -87,6 +91,12 @@ export default function TempleDetail({
       longitude: temple.location.lng,
     },
   };
+
+  const breadcrumbs = breadcrumbList([
+    { name: ui.tabs.home, path: `${locale}/` },
+    { name: ui.tabs.discover, path: `${locale}/temples/` },
+    { name: temple.name, path: `${locale}/temples/${temple.id}/` },
+  ]);
 
   const sections: { key: keyof typeof ui.sections; body: string }[] = [
     { key: 'history', body: temple.sections.history },
@@ -109,10 +119,8 @@ export default function TempleDetail({
       active="discover"
       pathSuffix={`temples/${temple.id}/`}
     >
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <JsonLd data={jsonLd} />
+      <JsonLd data={breadcrumbs} />
 
       <TempleHero
         temple={temple}

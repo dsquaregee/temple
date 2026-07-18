@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useState, type ReactNode } from 'react';
+import { useEffect, useMemo, useState, type ReactNode } from 'react';
 import {
   ERAS,
   matchesQuery,
@@ -70,6 +70,14 @@ export function DiscoverExplorer({
   const regions = useMemo(() => regionsOf(temples), [temples]);
 
   const [query, setQuery] = useState('');
+  // Seed the search from a ?q= param (the WebSite sitelinks searchbox targets
+  // this, and it makes searches shareable). Runs after mount, so server and
+  // client both first render the empty state — no hydration mismatch.
+  useEffect(() => {
+    const q = new URLSearchParams(window.location.search).get('q');
+    if (q) setQuery(q);
+  }, []);
+
   const [circuit, setCircuit] = useState<string>('all');
   const [region, setRegion] = useState<string>('all');
   const [era, setEra] = useState<Era | 'all'>('all');
