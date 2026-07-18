@@ -1,8 +1,9 @@
 import type { Metadata, Viewport } from 'next';
+import { SITE_URL } from '@/lib/site';
 import './globals.css';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://temples.dsquaregee.com'),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: 'Temple — the great temples of South India',
     template: '%s · Temple',
