@@ -267,6 +267,97 @@ a {
   color: var(--accent-turmeric);
 }
 
+/* Discover: search + facets ------------------------------------------- */
+.searchinput {
+  width: 100%;
+  min-height: var(--touch);
+  padding: 0 16px;
+  /* 16px keeps iOS Safari from zooming the viewport on focus. */
+  font-size: 16px;
+  font-family: var(--font-ui);
+  color: var(--ink-strong);
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-pill);
+  -webkit-appearance: none;
+  appearance: none;
+  margin-bottom: 14px;
+}
+.searchinput::placeholder {
+  color: var(--ink-muted);
+}
+.searchinput:focus-visible {
+  outline: 2px solid var(--accent-turmeric);
+  outline-offset: 1px;
+}
+.facet {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 8px;
+}
+.facet__label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--ink-muted);
+  margin-right: 2px;
+  min-width: 52px;
+}
+.fchip {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--touch);
+  padding: 0 14px;
+  border-radius: var(--radius-pill);
+  background: var(--bg-sunken);
+  border: 1px solid var(--line);
+  color: var(--ink-body);
+  font-family: var(--font-ui);
+  font-size: 13px;
+  cursor: pointer;
+}
+.fchip.is-active {
+  background: var(--accent-turmeric);
+  border-color: var(--accent-turmeric);
+  color: #17130f;
+  font-weight: 600;
+}
+.fchip:focus-visible,
+.clearbtn:focus-visible {
+  outline: 2px solid var(--accent-turmeric);
+  outline-offset: 1px;
+}
+.filterbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 14px 0 18px;
+}
+.results-count {
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+.clearbtn {
+  margin-left: auto;
+  min-height: var(--touch);
+  padding: 0 14px;
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-pill);
+  color: var(--ink-body);
+  font-family: var(--font-ui);
+  font-size: 13px;
+  cursor: pointer;
+}
+.empty {
+  text-align: center;
+  color: var(--ink-muted);
+  padding: 36px 0;
+}
+
 /* Section prose ------------------------------------------------------- */
 .section {
   margin: 26px 0;

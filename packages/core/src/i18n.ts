@@ -4,6 +4,20 @@ export interface UiStrings {
   appName: string;
   tagline: string;
   tabs: { home: string; discover: string; yatra: string; listen: string };
+  discover: {
+    searchPlaceholder: string;
+    circuit: string;
+    region: string;
+    era: string;
+    all: string;
+    unescoOnly: string;
+    clear: string;
+    results: string;
+    none: string;
+    eraEarly: string;
+    eraClassical: string;
+    eraLater: string;
+  };
   sections: {
     history: string;
     architecture: string;
@@ -44,6 +58,20 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'Temple',
     tagline: 'Find, learn, and experience the great temples of South India',
     tabs: { home: 'Home', discover: 'Discover', yatra: 'Yatra', listen: 'Listen' },
+    discover: {
+      searchPlaceholder: 'Search temples, deities, places…',
+      circuit: 'Circuit',
+      region: 'Region',
+      era: 'Era',
+      all: 'All',
+      unescoOnly: 'UNESCO only',
+      clear: 'Clear',
+      results: 'temples',
+      none: 'No temples match. Try clearing the filters.',
+      eraEarly: 'Up to 7th c.',
+      eraClassical: '8th–13th c.',
+      eraLater: '14th c. onward',
+    },
     sections: {
       history: 'History',
       architecture: 'Architecture',
@@ -82,6 +110,20 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'கோயில்',
     tagline: 'தென்னிந்தியாவின் மாபெரும் கோயில்களை கண்டறிந்து, அறிந்து, அனுபவியுங்கள்',
     tabs: { home: 'முகப்பு', discover: 'கண்டறி', yatra: 'யாத்திரை', listen: 'கேளுங்கள்' },
+    discover: {
+      searchPlaceholder: 'கோயில், மூலவர், ஊர் தேடுங்கள்…',
+      circuit: 'வழித்தடம்',
+      region: 'பகுதி',
+      era: 'காலம்',
+      all: 'அனைத்தும்',
+      unescoOnly: 'யுனெஸ்கோ மட்டும்',
+      clear: 'அழி',
+      results: 'கோயில்கள்',
+      none: 'எந்த கோயிலும் பொருந்தவில்லை. வடிகட்டிகளை நீக்கிப் பாருங்கள்.',
+      eraEarly: '7ஆம் நூற்றாண்டு வரை',
+      eraClassical: '8–13ஆம் நூற்றாண்டு',
+      eraLater: '14ஆம் நூற்றாண்டு முதல்',
+    },
     sections: {
       history: 'வரலாறு',
       architecture: 'கட்டிடக்கலை',
@@ -120,6 +162,20 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'ఆలయం',
     tagline: 'దక్షిణ భారతదేశపు మహా ఆలయాలను కనుగొనండి, తెలుసుకోండి, అనుభవించండి',
     tabs: { home: 'హోమ్', discover: 'అన్వేషించండి', yatra: 'యాత్ర', listen: 'వినండి' },
+    discover: {
+      searchPlaceholder: 'ఆలయాలు, దేవతలు, ప్రదేశాల కోసం వెతకండి…',
+      circuit: 'మార్గం',
+      region: 'ప్రాంతం',
+      era: 'కాలం',
+      all: 'అన్నీ',
+      unescoOnly: 'యునెస్కో మాత్రమే',
+      clear: 'తొలగించు',
+      results: 'ఆలయాలు',
+      none: 'ఏ ఆలయమూ సరిపోలలేదు. వడపోతలను తొలగించి చూడండి.',
+      eraEarly: '7వ శతాబ్దం వరకు',
+      eraClassical: '8–13వ శతాబ్దాలు',
+      eraLater: '14వ శతాబ్దం నుండి',
+    },
     sections: {
       history: 'చరిత్ర',
       architecture: 'వాస్తుశిల్పం',
@@ -158,6 +214,20 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'ದೇವಾಲಯ',
     tagline: 'ದಕ್ಷಿಣ ಭಾರತದ ಮಹಾನ್ ದೇವಾಲಯಗಳನ್ನು ಹುಡುಕಿ, ತಿಳಿಯಿರಿ, ಅನುಭವಿಸಿ',
     tabs: { home: 'ಮುಖಪುಟ', discover: 'ಅನ್ವೇಷಿಸಿ', yatra: 'ಯಾತ್ರೆ', listen: 'ಆಲಿಸಿ' },
+    discover: {
+      searchPlaceholder: 'ದೇವಾಲಯ, ದೇವರು, ಸ್ಥಳ ಹುಡುಕಿ…',
+      circuit: 'ಮಾರ್ಗ',
+      region: 'ಪ್ರದೇಶ',
+      era: 'ಕಾಲ',
+      all: 'ಎಲ್ಲಾ',
+      unescoOnly: 'ಯುನೆಸ್ಕೋ ಮಾತ್ರ',
+      clear: 'ತೆರವು',
+      results: 'ದೇವಾಲಯಗಳು',
+      none: 'ಯಾವ ದೇವಾಲಯವೂ ಹೊಂದಿಕೆಯಾಗಲಿಲ್ಲ. ಫಿಲ್ಟರ್‌ಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ ನೋಡಿ.',
+      eraEarly: '7ನೇ ಶತಮಾನದವರೆಗೆ',
+      eraClassical: '8–13ನೇ ಶತಮಾನ',
+      eraLater: '14ನೇ ಶತಮಾನದಿಂದ',
+    },
     sections: {
       history: 'ಇತಿಹಾಸ',
       architecture: 'ವಾಸ್ತುಶಿಲ್ಪ',
@@ -196,6 +266,20 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'ക്ഷേത്രം',
     tagline: 'ദക്ഷിണേന്ത്യയിലെ മഹാക്ഷേത്രങ്ങൾ കണ്ടെത്തുക, അറിയുക, അനുഭവിക്കുക',
     tabs: { home: 'ഹോം', discover: 'കണ്ടെത്തുക', yatra: 'യാത്ര', listen: 'കേൾക്കുക' },
+    discover: {
+      searchPlaceholder: 'ക്ഷേത്രം, പ്രതിഷ്ഠ, സ്ഥലം തിരയുക…',
+      circuit: 'പാത',
+      region: 'പ്രദേശം',
+      era: 'കാലഘട്ടം',
+      all: 'എല്ലാം',
+      unescoOnly: 'യുനെസ്കോ മാത്രം',
+      clear: 'മായ്ക്കുക',
+      results: 'ക്ഷേത്രങ്ങൾ',
+      none: 'ഒരു ക്ഷേത്രവും ചേരുന്നില്ല. ഫിൽട്ടറുകൾ മായ്ച്ചു നോക്കൂ.',
+      eraEarly: '7-ാം നൂറ്റാണ്ട് വരെ',
+      eraClassical: '8–13 നൂറ്റാണ്ട്',
+      eraLater: '14-ാം നൂറ്റാണ്ട് മുതൽ',
+    },
     sections: {
       history: 'ചരിത്രം',
       architecture: 'വാസ്തുവിദ്യ',
@@ -234,6 +318,20 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'मंदिर',
     tagline: 'दक्षिण भारत के महान मंदिरों को खोजें, जानें और अनुभव करें',
     tabs: { home: 'होम', discover: 'खोजें', yatra: 'यात्रा', listen: 'सुनें' },
+    discover: {
+      searchPlaceholder: 'मंदिर, देवता, स्थान खोजें…',
+      circuit: 'मार्ग',
+      region: 'क्षेत्र',
+      era: 'काल',
+      all: 'सभी',
+      unescoOnly: 'केवल यूनेस्को',
+      clear: 'साफ़ करें',
+      results: 'मंदिर',
+      none: 'कोई मंदिर मेल नहीं खाता। फ़िल्टर हटाकर देखें।',
+      eraEarly: '7वीं सदी तक',
+      eraClassical: '8–13वीं सदी',
+      eraLater: '14वीं सदी से',
+    },
     sections: {
       history: 'इतिहास',
       architecture: 'वास्तुकला',
