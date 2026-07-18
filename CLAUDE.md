@@ -42,6 +42,9 @@ Each gate requires owner sign-off before the next phase starts.
   editorial temple detail pages + "Yatra" circuits tab.
 - **D5 Build order**: PWA and native in parallel from the start.
 - **D6 v1 content scope**: 10 temples, all 6 languages (ta, te, kn, ml, hi, en).
+  **Expanded by owner 2026-07-18** to the full researched catalog: all 42
+  temples, same treatment (6 languages, audio, video, heroes). Reconstructed
+  catalog: docs/research/01-catalog-full.md.
 
 ## Design system (Phase 2, summary — see docs/design/)
 
