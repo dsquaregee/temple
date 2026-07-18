@@ -13,6 +13,8 @@ import {
   type Temple,
 } from '@temple/core';
 import { TempleCard } from './cards';
+import { SaveButton } from './SaveButton';
+import { useFavorites } from '@/lib/favorites';
 
 const ERA_KEY = {
   early: 'eraEarly',
@@ -82,6 +84,9 @@ export function DiscoverExplorer({
   const [region, setRegion] = useState<string>('all');
   const [era, setEra] = useState<Era | 'all'>('all');
   const [unescoOnly, setUnescoOnly] = useState(false);
+  const [savedOnly, setSavedOnly] = useState(false);
+
+  const { ids: savedIds, ready: favReady } = useFavorites();
 
   const results = useMemo(
     () =>
@@ -91,9 +96,10 @@ export function DiscoverExplorer({
         if (region !== 'all' && tp.location.state !== region) return false;
         if (era !== 'all' && templeEra(tp.century) !== era) return false;
         if (unescoOnly && !tp.unesco) return false;
+        if (savedOnly && !savedIds.includes(tp.id)) return false;
         return true;
       }),
-    [temples, query, circuit, region, era, unescoOnly],
+    [temples, query, circuit, region, era, unescoOnly, savedOnly, savedIds],
   );
 
   const filtersActive =
@@ -101,7 +107,8 @@ export function DiscoverExplorer({
     circuit !== 'all' ||
     region !== 'all' ||
     era !== 'all' ||
-    unescoOnly;
+    unescoOnly ||
+    savedOnly;
 
   function reset() {
     setQuery('');
@@ -109,6 +116,7 @@ export function DiscoverExplorer({
     setRegion('all');
     setEra('all');
     setUnescoOnly(false);
+    setSavedOnly(false);
   }
 
   return (
@@ -167,6 +175,11 @@ export function DiscoverExplorer({
         <FilterChip active={unescoOnly} onClick={() => setUnescoOnly((v) => !v)}>
           {d.unescoOnly}
         </FilterChip>
+        {favReady && savedIds.length > 0 && (
+          <FilterChip active={savedOnly} onClick={() => setSavedOnly((v) => !v)}>
+            ★ {t(locale).favorites.saved}
+          </FilterChip>
+        )}
         <span className="results-count" aria-live="polite">
           {results.length} {d.results}
         </span>
@@ -180,7 +193,10 @@ export function DiscoverExplorer({
       {results.length > 0 ? (
         <div className="grid">
           {results.map((tp) => (
-            <TempleCard key={tp.id} locale={locale} temple={tp} />
+            <div key={tp.id} className="cardwrap">
+              <TempleCard locale={locale} temple={tp} />
+              <SaveButton locale={locale} id={tp.id} className="card-save" />
+            </div>
           ))}
         </div>
       ) : (

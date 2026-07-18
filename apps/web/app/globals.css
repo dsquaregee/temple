@@ -358,6 +358,58 @@ a {
   padding: 36px 0;
 }
 
+/* Favorites: save button ---------------------------------------------- */
+.actions {
+  display: flex;
+  gap: 10px;
+  margin: 14px 0 4px;
+}
+.savebtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: var(--touch);
+  padding: 0 16px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--line);
+  background: var(--bg-raised);
+  color: var(--ink-body);
+  font-family: var(--font-ui);
+  font-size: 14px;
+  cursor: pointer;
+}
+.savebtn .savebtn__icon {
+  font-size: 16px;
+  line-height: 1;
+  color: var(--ink-muted);
+}
+.savebtn.is-saved {
+  background: var(--accent-turmeric);
+  border-color: var(--accent-turmeric);
+  color: #17130f;
+}
+.savebtn.is-saved .savebtn__icon {
+  color: #17130f;
+}
+.savebtn:focus-visible {
+  outline: 2px solid var(--accent-turmeric);
+  outline-offset: 1px;
+}
+/* Compact variant floated over a Discover result card. */
+.cardwrap {
+  position: relative;
+}
+.savebtn.card-save {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  min-height: 40px;
+  padding: 0 12px;
+  font-size: 12px;
+  background: color-mix(in srgb, var(--bg-raised) 88%, transparent);
+  backdrop-filter: blur(2px);
+}
+
 /* Section prose ------------------------------------------------------- */
 .section {
   margin: 26px 0;

@@ -4,6 +4,11 @@ export interface UiStrings {
   appName: string;
   tagline: string;
   tabs: { home: string; discover: string; yatra: string; listen: string };
+  favorites: {
+    save: string;
+    saved: string;
+    savedTitle: string;
+  };
   discover: {
     searchPlaceholder: string;
     circuit: string;
@@ -58,6 +63,7 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'Temple',
     tagline: 'Find, learn, and experience the great temples of South India',
     tabs: { home: 'Home', discover: 'Discover', yatra: 'Yatra', listen: 'Listen' },
+    favorites: { save: 'Save', saved: 'Saved', savedTitle: 'Saved temples' },
     discover: {
       searchPlaceholder: 'Search temples, deities, places…',
       circuit: 'Circuit',
@@ -110,6 +116,7 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'கோயில்',
     tagline: 'தென்னிந்தியாவின் மாபெரும் கோயில்களை கண்டறிந்து, அறிந்து, அனுபவியுங்கள்',
     tabs: { home: 'முகப்பு', discover: 'கண்டறி', yatra: 'யாத்திரை', listen: 'கேளுங்கள்' },
+    favorites: { save: 'சேமி', saved: 'சேமித்தது', savedTitle: 'சேமித்த கோயில்கள்' },
     discover: {
       searchPlaceholder: 'கோயில், மூலவர், ஊர் தேடுங்கள்…',
       circuit: 'வழித்தடம்',
@@ -162,6 +169,7 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'ఆలయం',
     tagline: 'దక్షిణ భారతదేశపు మహా ఆలయాలను కనుగొనండి, తెలుసుకోండి, అనుభవించండి',
     tabs: { home: 'హోమ్', discover: 'అన్వేషించండి', yatra: 'యాత్ర', listen: 'వినండి' },
+    favorites: { save: 'భద్రపరచు', saved: 'భద్రపరచబడింది', savedTitle: 'భద్రపరచిన ఆలయాలు' },
     discover: {
       searchPlaceholder: 'ఆలయాలు, దేవతలు, ప్రదేశాల కోసం వెతకండి…',
       circuit: 'మార్గం',
@@ -214,6 +222,7 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'ದೇವಾಲಯ',
     tagline: 'ದಕ್ಷಿಣ ಭಾರತದ ಮಹಾನ್ ದೇವಾಲಯಗಳನ್ನು ಹುಡುಕಿ, ತಿಳಿಯಿರಿ, ಅನುಭವಿಸಿ',
     tabs: { home: 'ಮುಖಪುಟ', discover: 'ಅನ್ವೇಷಿಸಿ', yatra: 'ಯಾತ್ರೆ', listen: 'ಆಲಿಸಿ' },
+    favorites: { save: 'ಉಳಿಸಿ', saved: 'ಉಳಿಸಲಾಗಿದೆ', savedTitle: 'ಉಳಿಸಿದ ದೇವಾಲಯಗಳು' },
     discover: {
       searchPlaceholder: 'ದೇವಾಲಯ, ದೇವರು, ಸ್ಥಳ ಹುಡುಕಿ…',
       circuit: 'ಮಾರ್ಗ',
@@ -266,6 +275,7 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'ക്ഷേത്രം',
     tagline: 'ദക്ഷിണേന്ത്യയിലെ മഹാക്ഷേത്രങ്ങൾ കണ്ടെത്തുക, അറിയുക, അനുഭവിക്കുക',
     tabs: { home: 'ഹോം', discover: 'കണ്ടെത്തുക', yatra: 'യാത്ര', listen: 'കേൾക്കുക' },
+    favorites: { save: 'സൂക്ഷിക്കൂ', saved: 'സൂക്ഷിച്ചു', savedTitle: 'സൂക്ഷിച്ച ക്ഷേത്രങ്ങൾ' },
     discover: {
       searchPlaceholder: 'ക്ഷേത്രം, പ്രതിഷ്ഠ, സ്ഥലം തിരയുക…',
       circuit: 'പാത',
@@ -318,6 +328,7 @@ export const strings: Record<Locale, UiStrings> = {
     appName: 'मंदिर',
     tagline: 'दक्षिण भारत के महान मंदिरों को खोजें, जानें और अनुभव करें',
     tabs: { home: 'होम', discover: 'खोजें', yatra: 'यात्रा', listen: 'सुनें' },
+    favorites: { save: 'सहेजें', saved: 'सहेजा गया', savedTitle: 'सहेजे गए मंदिर' },
     discover: {
       searchPlaceholder: 'मंदिर, देवता, स्थान खोजें…',
       circuit: 'मार्ग',

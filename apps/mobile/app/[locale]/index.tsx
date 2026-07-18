@@ -4,6 +4,7 @@ import { colorForTemple, epochDay, indexOfDay, t } from '@temple/core';
 import { getCircuits, getTemples } from '@temple/content';
 import { asLocale } from '@/lib/locale';
 import { useTheme } from '@/lib/theme';
+import { useFavorites } from '@/lib/favorites';
 import {
   Card,
   Hero,
@@ -23,6 +24,9 @@ export default function HomeScreen() {
   // Temple of the day: rotates daily, picked at runtime on the device.
   const featured = temples[indexOfDay(temples.length, epochDay(new Date()))];
 
+  const { ids: savedIds, ready: favReady } = useFavorites();
+  const saved = favReady ? temples.filter((tp) => savedIds.includes(tp.id)) : [];
+
   return (
     <Screen>
       {featured && (
@@ -39,6 +43,23 @@ export default function HomeScreen() {
             </Text>
           </Hero>
         </Card>
+      )}
+
+      {saved.length > 0 && (
+        <>
+          <SectionHeading>{ui.favorites.savedTitle}</SectionHeading>
+          {saved.map((tp) => (
+            <Card key={tp.id} onPress={() => router.push(`/${locale}/temples/${tp.id}`)}>
+              <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
+                {tp.name}
+              </Text>
+              <NativeName>{tp.nativeName}</NativeName>
+              <Muted>
+                {tp.location.city}, {tp.location.state}
+              </Muted>
+            </Card>
+          ))}
+        </>
       )}
 
       <SectionHeading>{ui.labels.circuits}</SectionHeading>
