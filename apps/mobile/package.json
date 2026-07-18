@@ -15,6 +15,7 @@
   "dependencies": {
     "@babel/runtime": "^7.24.0",
     "@expo/metro-runtime": "~3.2.3",
+    "@react-native-async-storage/async-storage": "1.23.1",
     "@temple/content": "workspace:*",
     "@temple/core": "workspace:*",
     "expo": "~51.0.28",

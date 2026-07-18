@@ -8,6 +8,7 @@ import { heroFor } from '@/lib/hero';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
 import { DailyFeatured, type FeaturedTemple } from '@/components/DailyFeatured';
+import { SavedTemples, type SavedItem } from '@/components/SavedTemples';
 import { CircuitCard, TempleCard } from '@/components/cards';
 
 export function generateStaticParams() {
@@ -49,6 +50,14 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
   }));
   const initialIndex = indexOfDay(featuredTemples.length, epochDay(new Date()));
 
+  const savedItems: SavedItem[] = temples.map((tp) => ({
+    id: tp.id,
+    name: tp.name,
+    nativeName: tp.nativeName,
+    city: tp.location.city,
+    state: tp.location.state,
+  }));
+
   const orgId = `${SITE_URL}/#org`;
   const websiteJsonLd = {
     '@context': 'https://schema.org',
@@ -87,6 +96,8 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
         temples={featuredTemples}
         initialIndex={initialIndex}
       />
+
+      <SavedTemples locale={locale} temples={savedItems} />
 
       <section className="section" aria-labelledby="circuits-h">
         <h2 id="circuits-h">{ui.labels.circuits}</h2>

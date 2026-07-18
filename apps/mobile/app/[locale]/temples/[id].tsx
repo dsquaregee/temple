@@ -17,6 +17,7 @@ import {
   Tile,
 } from '@/components/ui';
 import { AudioStoryCard, VideoStoryCard } from '@/components/media';
+import { SaveButton } from '@/components/SaveButton';
 
 export default function TempleDetailScreen() {
   const params = useLocalSearchParams<{ locale: string; id: string }>();
@@ -89,10 +90,13 @@ export default function TempleDetailScreen() {
         </Text>
       </Hero>
 
+      <SaveButton locale={locale} id={temple.id} />
+
       <View
         style={{
           flexDirection: 'row',
           flexWrap: 'wrap',
+          marginTop: 12,
           backgroundColor: colors.bgRaised,
           borderColor: colors.line,
           borderWidth: 0.5,

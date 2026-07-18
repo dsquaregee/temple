@@ -10,6 +10,7 @@ import { LOCALES } from '@/lib/locales';
 import { absUrl, breadcrumbList } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
+import { SaveButton } from '@/components/SaveButton';
 import { TempleCard } from '@/components/cards';
 import { TempleHero } from '@/components/TempleHero';
 import { AudioStory } from '@/components/AudioStory';
@@ -143,6 +144,10 @@ export default function TempleDetail({
         <h1>{temple.name}</h1>
         <p className="native">{temple.nativeName}</p>
       </TempleHero>
+
+      <div className="actions">
+        <SaveButton locale={locale} id={temple.id} />
+      </div>
 
       <div className="orient">
         <div>
