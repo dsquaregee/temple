@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 import { t, type Locale } from '@temple/core';
-import { getTemples } from '@temple/content';
+import { getCircuits, getTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { PageChrome } from '@/components/PageChrome';
-import { TempleCard } from '@/components/cards';
+import { DiscoverExplorer } from '@/components/DiscoverExplorer';
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -33,7 +33,9 @@ export default function DiscoverPage({
   const { locale } = params;
   const ui = t(locale);
   const temples = getTemples(locale);
-  const unesco = temples.filter((tp) => tp.unesco);
+  // Only id + name are needed for the circuit facet chips; the full circuit
+  // objects carry prose we don't want to serialize into the page payload.
+  const circuits = getCircuits(locale).map((c) => ({ id: c.id, name: c.name }));
 
   return (
     <PageChrome locale={locale} active="discover" pathSuffix="temples/">
@@ -44,25 +46,7 @@ export default function DiscoverPage({
         </p>
       </div>
 
-      {unesco.length > 0 && (
-        <section className="section" aria-labelledby="unesco-h">
-          <h2 id="unesco-h">{ui.labels.unesco}</h2>
-          <div className="grid">
-            {unesco.map((temple) => (
-              <TempleCard key={temple.id} locale={locale} temple={temple} />
-            ))}
-          </div>
-        </section>
-      )}
-
-      <section className="section" aria-labelledby="all-h">
-        <h2 id="all-h">{ui.labels.allTemples}</h2>
-        <div className="grid">
-          {temples.map((temple) => (
-            <TempleCard key={temple.id} locale={locale} temple={temple} />
-          ))}
-        </div>
-      </section>
+      <DiscoverExplorer locale={locale} temples={temples} circuits={circuits} />
     </PageChrome>
   );
 }
