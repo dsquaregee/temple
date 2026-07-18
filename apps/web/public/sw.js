@@ -4,10 +4,10 @@
    - Same-origin static assets: cache-first.
    Content pages are static HTML served from the CDN; the SW just makes repeat
    visits and flaky-network reads resilient. */
-const VERSION = 'v1';
+const VERSION = 'v2';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
-const PRECACHE = ['/', '/manifest.webmanifest', '/icon.svg'];
+const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
@@ -46,7 +46,9 @@ self.addEventListener('fetch', (event) => {
             if (res && res.ok) cache.put(request, res.clone());
             return res;
           })
-          .catch(() => cached || caches.match('/'));
+          // Offline and never-visited: show the branded offline page rather
+          // than a browser error. Precached in SHELL, so it's always available.
+          .catch(() => cached || caches.match('/offline/'));
         return cached || network;
       })
     );
