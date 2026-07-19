@@ -1,0 +1,36 @@
+{
+  "id": "badami-cave-temples",
+  "locale": "en",
+  "name": "Badami Cave Temples",
+  "nativeName": "ಬಾದಾಮಿ ಗುಹಾ ದೇವಾಲಯಗಳು",
+  "deity": "Shiva, Vishnu, and the Jain Tirthankaras, across four rock-cut caves",
+  "tradition": "Shaiva, Vaishnava, and Jain (early Chalukya)",
+  "location": {
+    "city": "Badami",
+    "state": "Karnataka",
+    "lat": 15.9179,
+    "lng": 75.6841
+  },
+  "period": "6th century CE (Cave 3 dated 578 CE)",
+  "century": 6,
+  "dynasty": "Chalukya of Badami",
+  "style": "Early Chalukya (Badami Chalukya), rock-cut",
+  "unesco": false,
+  "circuits": [
+    "badami-chalukya-monuments"
+  ],
+  "summary": "Cut into a red sandstone cliff above a lake at Badami, the early Chalukya capital, four rock-cut caves — Shaiva, Vaishnava, and Jain — form one of the earliest and most accomplished ensembles of cave architecture in the Deccan.",
+  "sections": {
+    "history": "Badami, ancient Vatapi, was the capital of the early Chalukyas who rose to power in the Deccan in the sixth century. Above the town, on a sandstone hill overlooking the Agastya lake, their sculptors cut a series of temple-caves in the later sixth century; an inscription in the third cave records its dedication in 578 CE by Mangalesha, brother of the reigning king. From this capital the Chalukyas would contest the Deccan with the Pallavas of Kanchi, and here, at Badami and nearby Aihole and Pattadakal, they laid the foundations of southern temple architecture.",
+    "architecture": "Four caves ascend the cliff face. The first, Shaiva, is famous for an eighteen-armed Nataraja striking dance poses beside a doorkeeper and Ardhanarishvara; the second and third are Vaishnava, the third — the grandest — holding towering reliefs of Vishnu as Trivikrama, Varaha, and Narasimha under a pillared verandah of astonishing finish; the fourth is Jain, with Tirthankaras and a seated Mahavira. Each cave is a pillared hall driven into the living rock, its ceilings carved with medallions and its brackets with amorous couples, the red stone glowing warm above the green water below.",
+    "legends": "Vatapi lives in legend as the demon of the Mahabharata tale, one of two asura brothers who preyed on travelling sages until the sage Agastya swallowed and digested him — and the lake below the caves bears Agastya’s name in memory. The caves themselves gather the great gods across their four halls: Shiva dancing the origin of the dance, Vishnu striding across the worlds, and the serene Tirthankaras of the Jains, so that the cliff holds three streams of Indian devotion carved side by side in a single sweep of rock.",
+    "festivals": "Badami is today cherished as much as a heritage site as a living shrine, and its rhythms follow the visitors who come year-round to the caves and the Bhutanatha temples across the lake. The annual Banashankari fair at the nearby Banashankari temple, in the month of Pushya, draws great crowds to the region, and cultural festivals staged among the Chalukyan monuments celebrate the classical arts against this ancient backdrop.",
+    "experience": "Climbing the cut steps from the town, a visitor rises past cave after cave, each opening a cool pillared hall in the cliff with the great gods emerging from shadow. From the verandahs the view falls away to the Agastya lake, the Bhutanatha shrines at its edge, and the sandstone bluffs opposite honeycombed with more carvings. The red rock, the green water, and the sheer age of the place — fourteen centuries of worship and wonder — make Badami one of the most atmospheric of all Deccan sites, best seen in the low gold light of early morning or evening."
+  },
+  "visit": {
+    "timings": "The caves are generally open from around 9:00 am to 5:30 pm daily; the site is managed by the Archaeological Survey of India and a ticket is required.",
+    "dressCode": "Modest dress is appreciated; sturdy footwear helps on the cut stone steps, which can be steep and warm underfoot.",
+    "photography": "Photography is generally allowed across the caves; tripods or professional shoots may need permission from the site authorities.",
+    "gettingThere": "Badami is in Bagalkot district, connected by road and rail; it has its own railway station, and the nearest airports are Hubballi (about 105 km) and Belagavi. Aihole and Pattadakal lie a short drive away."
+  }
+}
