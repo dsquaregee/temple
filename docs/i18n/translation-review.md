@@ -9,11 +9,11 @@
 
 | Locale | Language | Target-script ratio | Errors | Warnings |
 |---|---|---|---|---|
-| `ta` | Tamil | 100.0% | 0 | 0 |
-| `te` | Telugu | 100.0% | 0 | 0 |
-| `kn` | Kannada | 100.0% | 0 | 0 |
-| `ml` | Malayalam | 100.0% | 0 | 0 |
-| `hi` | Hindi (Devanagari) | 100.0% | 0 | 0 |
+| `ta` | Tamil | 100.0% | 0 | 2 |
+| `te` | Telugu | 100.0% | 0 | 2 |
+| `kn` | Kannada | 100.0% | 0 | 2 |
+| `ml` | Malayalam | 100.0% | 0 | 3 |
+| `hi` | Hindi (Devanagari) | 100.0% | 0 | 2 |
 
 (Target-script ratio = share of letters in the language's own script vs
 Latin. Below 100% is expected — proper nouns stay in Latin.)
@@ -24,7 +24,19 @@ _None._ Every prose field contains characters in its target script.
 
 ## Warnings (spot-check)
 
-_None._
+| Locale | File | Field | Note |
+|---|---|---|---|
+| `ta` | temples/sringeri-sharada | `period` | number(s) 8, 14 in English not found in translation (check dates/measurements) |
+| `ta` | temples/udupi-krishna | `period` | number(s) 13 in English not found in translation (check dates/measurements) |
+| `te` | temples/sringeri-sharada | `period` | number(s) 8, 14 in English not found in translation (check dates/measurements) |
+| `te` | temples/udupi-krishna | `period` | number(s) 13 in English not found in translation (check dates/measurements) |
+| `kn` | temples/sringeri-sharada | `period` | number(s) 8, 14 in English not found in translation (check dates/measurements) |
+| `kn` | temples/udupi-krishna | `period` | number(s) 13 in English not found in translation (check dates/measurements) |
+| `ml` | temples/airavatesvara | `sections.history` | number(s) 12 in English not found in translation (check dates/measurements) |
+| `ml` | temples/sringeri-sharada | `period` | number(s) 8, 14 in English not found in translation (check dates/measurements) |
+| `ml` | temples/udupi-krishna | `period` | number(s) 13 in English not found in translation (check dates/measurements) |
+| `hi` | temples/sringeri-sharada | `period` | number(s) 8, 14 in English not found in translation (check dates/measurements) |
+| `hi` | temples/udupi-krishna | `period` | number(s) 13 in English not found in translation (check dates/measurements) |
 
 ## Human reviewer checklist (per language)
 

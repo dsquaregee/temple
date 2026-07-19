@@ -36,6 +36,32 @@ const get = (o, path) => path.split('.').reduce((v, k) => (v ? v[k] : undefined)
 const countMatches = (s, re) => (s.match(re) || []).length;
 const latinLetters = (s) => countMatches(s, /[A-Za-z]/g);
 
+// Map every Indic script's digits (and Arabic-Indic) back to 0-9 so a number
+// written in native digits still compares equal to the English source. Ranges,
+// in order, are the Unicode digit blocks for the scripts we ship plus Arabic.
+const DIGIT_BASES = [
+  0x0966, // Devanagari ०-९
+  0x0be6, // Tamil ௦-௯
+  0x0c66, // Telugu ౦-౯
+  0x0ce6, // Kannada ೦-೯
+  0x0d66, // Malayalam ൦-൯
+  0x0660, // Arabic-Indic ٠-٩
+];
+function normalizeDigits(s) {
+  return s.replace(/[०-९௦-௯౦-౯೦-೯൦-൯٠-٩]/g, (ch) => {
+    const cp = ch.codePointAt(0);
+    for (const base of DIGIT_BASES) {
+      if (cp >= base && cp <= base + 9) return String(cp - base);
+    }
+    return ch;
+  });
+}
+// Multiset of standalone number tokens (dates, measurements) in a string, after
+// digit normalization. Used to check numbers survive translation intact.
+function numberTokens(s) {
+  return (normalizeDigits(s).match(/\d+/g) || []);
+}
+
 function loadKind(kind) {
   const byLocale = {};
   const kindDir = join(dataDir, kind);
@@ -89,6 +115,21 @@ function check(kind, byLocale, fields) {
         if (enVal.length >= 40 && lenRatio > 3) {
           findings.push({ locale, kind, id, field, level: 'WARN',
             note: `much longer than English (${lenRatio.toFixed(1)}× source length)` });
+        }
+
+        // Numeric parity: every number in the English source (a date, century,
+        // height, count…) should reappear in the translation, whether kept in
+        // Arabic or written in native digits. Missing numbers usually mean a
+        // dropped date or measurement. WARN, since numbers may be legitimately
+        // spelled out in words in a given language.
+        const enNums = numberTokens(enVal);
+        if (enNums.length) {
+          const have = new Set(numberTokens(val));
+          const missing = [...new Set(enNums)].filter((n) => !have.has(n));
+          if (missing.length) {
+            findings.push({ locale, kind, id, field, level: 'WARN',
+              note: `number(s) ${missing.join(', ')} in English not found in translation (check dates/measurements)` });
+          }
         }
       }
     }
