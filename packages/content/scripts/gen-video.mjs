@@ -128,6 +128,15 @@ const CURATED = {
   // yields a hero image but not enough photos for a slideshow video (the render
   // needs MIN_PHOTOS). Commissioned photography can add the rest later.
   'gokarna-mahabaleshwara': ['File:Mahabaleshwara Temple.JPG'],
+  // The resolution-ranked search led with a 31512×7782 dusk *panorama* (245 MP)
+  // and a second ultra-wide stitch — useless as a 16:9 hero. These are the real
+  // temple: the golden gopuram over the Padma Theertham tank (day + night) and
+  // the street approach. Reviewed by eye.
+  'padmanabhaswamy-thiruvananthapuram': [
+    'File:TVM Padmanabhaswamy Temple.jpg',
+    'File:Sree Padmanabhaswamy Temple at night.jpg',
+    'File:Padmanabhaswamy Temple Gopuram.jpg',
+  ],
 };
 
 const EXCLUDE = /(\bmap\b|plan|diagram|sketch|drawing|engraving|lithograph|inscription|logo|seal|coin|chart|graph|\.svg|panorama.*stitch)/i;
