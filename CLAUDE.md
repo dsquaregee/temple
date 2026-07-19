@@ -58,13 +58,29 @@ Each gate requires owner sign-off before the next phase starts.
 - Accessibility blocking rules: 48dp touch targets, audio alternative for every
   long-form text (limited-literacy users), WCAG AA contrast
 
-## v1 temple catalog (10 of the researched 42)
+## Temple catalog (expanding from the D6 v1 core of 10)
 
-Great Living Chola Temples (UNESCO): brihadeeswarar, gangaikonda-cholapuram,
-airavatesvara. Pancha Bhoota Sthalams: ekambareswarar (earth), jambukeswarar
-(water), arunachaleswarar (fire), srikalahasti (air), nataraja-chidambaram
-(space). Plus: meenakshi-madurai, ramanathaswamy-rameswaram.
-Two complete circuits ship at launch.
+The catalog has grown past the original 10-temple v1 scope (D6) through
+post-gate expansion batches; it now stands at **30 temples × 6 languages**,
+organized around **5 first-class circuits**:
+
+- **Great Living Chola Temples** (UNESCO): brihadeeswarar,
+  gangaikonda-cholapuram, airavatesvara.
+- **Pancha Bhoota Sthalams**: ekambareswarar (earth), jambukeswarar (water),
+  arunachaleswarar (fire), srikalahasti (air), nataraja-chidambaram (space).
+- **Sacred Ensembles of the Hoysalas** (UNESCO): belur-chennakeshava,
+  halebidu-hoysaleswara, somanathapura-keshava.
+- **Divya Desams**: ranganathaswamy-srirangam, venkateswara-tirumala, and
+  others.
+- **Pancharama Kshetras** (coastal Andhra Shiva temples, the shattered-linga
+  legend): amararama-amaravati, draksharama-bhimeswara, somarama-bhimavaram,
+  ksheerarama-palakollu, kumararama-samalkota.
+
+Plus standalone flagships (meenakshi-madurai, ramanathaswamy-rameswaram,
+padmanabhaswamy-thiruvananthapuram, kanchi-kamakshi, …) and Group-of-Monuments
+sites (virupaksha-hampi, pattadakal-virupaksha, shore-temple-mahabalipuram).
+See `packages/content/data/` for the authoritative list; `content:validate`
+enforces cross-locale parity and circuit-reference integrity.
 
 ## Repo layout
 

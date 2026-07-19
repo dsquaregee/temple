@@ -9,11 +9,11 @@
 
 | Locale | Language | Target-script ratio | Errors | Warnings |
 |---|---|---|---|---|
-| `ta` | Tamil | 100.0% | 0 | 2 |
-| `te` | Telugu | 100.0% | 0 | 2 |
-| `kn` | Kannada | 100.0% | 0 | 2 |
-| `ml` | Malayalam | 100.0% | 0 | 3 |
-| `hi` | Hindi (Devanagari) | 100.0% | 0 | 2 |
+| `ta` | Tamil | 100.0% | 0 | 3 |
+| `te` | Telugu | 100.0% | 0 | 3 |
+| `kn` | Kannada | 100.0% | 0 | 3 |
+| `ml` | Malayalam | 100.0% | 0 | 4 |
+| `hi` | Hindi (Devanagari) | 100.0% | 0 | 3 |
 
 (Target-script ratio = share of letters in the language's own script vs
 Latin. Below 100% is expected — proper nouns stay in Latin.)
@@ -37,6 +37,11 @@ _None._ Every prose field contains characters in its target script.
 | `ml` | temples/udupi-krishna | `period` | number(s) 13 in English not found in translation (check dates/measurements) |
 | `hi` | temples/sringeri-sharada | `period` | number(s) 8, 14 in English not found in translation (check dates/measurements) |
 | `hi` | temples/udupi-krishna | `period` | number(s) 13 in English not found in translation (check dates/measurements) |
+| `ta` | circuits/pancharama-kshetras | `description` | number(s) 9, 11 in English not found in translation (check dates/measurements) |
+| `te` | circuits/pancharama-kshetras | `description` | number(s) 9, 11 in English not found in translation (check dates/measurements) |
+| `kn` | circuits/pancharama-kshetras | `description` | number(s) 9, 11 in English not found in translation (check dates/measurements) |
+| `ml` | circuits/pancharama-kshetras | `description` | number(s) 9, 11 in English not found in translation (check dates/measurements) |
+| `hi` | circuits/pancharama-kshetras | `description` | number(s) 9, 11 in English not found in translation (check dates/measurements) |
 
 ## Human reviewer checklist (per language)
 

@@ -81,3 +81,17 @@ native-speaker translation review, real hero imagery/AVIF, audio stories
   local-only (previews/CI need no secrets). See `infra/README.md` and
   `apps/web/.env.example`. Follow-ups: mobile sync (native Firebase config) and
   visited-stops.
+
+## Content expansion — Pancharama Kshetras (10 → 30 temples, 5th circuit)
+
+Post-gate content batches have grown the catalog to **30 temples × 6 locales**.
+The latest batch adds the **Pancharama Kshetras** — the five ancient Shiva
+temples of coastal Andhra bound by the shattered-linga (Tarakasura) legend:
+amararama-amaravati, draksharama-bhimeswara, somarama-bhimavaram,
+ksheerarama-palakollu, kumararama-samalkota — plus the `pancharama-kshetras`
+circuit (all 6 locales). This is the catalog's first Telugu-heartland cluster
+and its 5th first-class circuit. Facts were verified against public sources
+(Wikipedia + tourism/temple portals; Eastern Chalukya of Vengi attribution,
+c. 9th–11th c.); prose is original and reverent in all six languages. Content
+passes `content:validate` (schema + cross-locale parity + circuit refs) and
+`content:qa` (100% target-script ratio, numeric-parity check clean).
