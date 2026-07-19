@@ -2,7 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   templeEra, matchesQuery, regionsOf, ERAS,
-  filterTemples, sortTemples, SORTS,
+  filterTemples, sortTemples, SORTS, toCardData,
 } from '../src/discover.ts';
 import type { Temple } from '../src/types.ts';
 
@@ -150,4 +150,31 @@ test('sortTemples name sorts alphabetically by localized name', () => {
 
 test('SORTS lists every sort key exactly once', () => {
   assert.deepEqual([...SORTS].sort(), ['chrono-asc', 'chrono-desc', 'featured', 'name']);
+});
+
+test('toCardData keeps card/search/facet fields and drops the heavy prose', () => {
+  const full = temple({ id: 'brihad', name: 'Brihadeeswarar', century: 11, unesco: true, circuits: ['chola'] });
+  const card = toCardData(full);
+  // Fields the listing, search haystack, facets, and sort rely on survive.
+  assert.equal(card.id, 'brihad');
+  assert.equal(card.name, 'Brihadeeswarar');
+  assert.equal(card.nativeName, full.nativeName);
+  assert.equal(card.deity, full.deity);
+  assert.equal(card.summary, full.summary);
+  assert.equal(card.century, 11);
+  assert.equal(card.unesco, true);
+  assert.deepEqual(card.circuits, ['chola']);
+  assert.deepEqual(card.location, { city: 'Thanjavur', state: 'Tamil Nadu' });
+  // The bulk — sections, visit, coordinates — is not carried into the payload.
+  assert.equal('sections' in card, false);
+  assert.equal('visit' in card, false);
+  assert.equal('lat' in card.location, false);
+});
+
+test('filter + sort operate correctly on projected card data', () => {
+  const cards = catalog.map(toCardData);
+  const result = sortTemples(filterTemples(cards, { unescoOnly: true }), 'chrono-asc');
+  assert.deepEqual(result.map((t) => t.id), ['virupaksha', 'brihad']); // 8th then 11th
+  // Search still works over the projected fields.
+  assert.deepEqual(filterTemples(cards, { query: 'madurai' }).map((t) => t.id), ['meenakshi']);
 });

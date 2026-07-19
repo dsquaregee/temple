@@ -76,6 +76,28 @@ export interface Temple {
   video?: TempleVideo;
 }
 
+// The subset of a Temple needed to list, search, facet, and sort it — but NOT
+// the long-form `sections`/`visit` prose, hero, or media. The Discover tab is a
+// client component, so anything on the Temple object it receives is serialized
+// into the page's HTML for hydration; projecting to this shape keeps the full
+// catalog prose (the bulk of each temple) off the listing payload. A full
+// Temple structurally satisfies it, so it can be used anywhere a card is shown.
+export type TempleCardData = Pick<
+  Temple,
+  | 'id'
+  | 'name'
+  | 'nativeName'
+  | 'deity'
+  | 'tradition'
+  | 'dynasty'
+  | 'style'
+  | 'period'
+  | 'century'
+  | 'unesco'
+  | 'circuits'
+  | 'summary'
+> & { location: Pick<TempleLocation, 'city' | 'state'> };
+
 export interface Circuit {
   id: string;
   locale: Locale;

@@ -12,7 +12,7 @@ import {
   type Era,
   type Locale,
   type SortKey,
-  type Temple,
+  type TempleCardData,
 } from '@temple/core';
 import { SavableTempleCard } from './SavableTempleCard';
 import { useFavorites } from '@/lib/favorites';
@@ -73,7 +73,7 @@ export function DiscoverExplorer({
   circuits,
 }: {
   locale: Locale;
-  temples: Temple[];
+  temples: TempleCardData[];
   circuits: Pick<Circuit, 'id' | 'name'>[];
 }) {
   const d = t(locale).discover;

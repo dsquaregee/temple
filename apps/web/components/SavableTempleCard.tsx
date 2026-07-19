@@ -1,4 +1,4 @@
-import { type Locale, type Temple } from '@temple/core';
+import { type Locale, type TempleCardData } from '@temple/core';
 import { TempleCard } from './cards';
 import { SaveButton } from './SaveButton';
 
@@ -11,7 +11,7 @@ export function SavableTempleCard({
   temple,
 }: {
   locale: Locale;
-  temple: Temple;
+  temple: TempleCardData;
 }) {
   return (
     <div className="cardwrap">

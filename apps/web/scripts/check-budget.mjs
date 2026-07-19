@@ -24,8 +24,8 @@ const outDir = join(root, '..', 'out');
 // KB budgets (1 KB = 1000 bytes here, to match how bundlers report sizes).
 const BUDGET = {
   largestChunkGzipKB: 90, // current ~54
-  totalJsGzipKB: 320, // current ~206
-  largestHtmlRawKB: 700, // current ~489 (full catalog listing page)
+  totalJsGzipKB: 320, // current ~216
+  largestHtmlRawKB: 250, // current ~89 (Discover listing; catches a regression to full-prose payloads)
 };
 
 function walk(dir, test) {

@@ -1,4 +1,4 @@
-import type { Temple } from './types';
+import type { Temple, TempleCardData } from './types';
 
 // Discovery/faceting helpers shared by the web and mobile Discover tabs so both
 // apps bucket eras and match search queries identically. Kept dependency-free
@@ -24,7 +24,7 @@ export function templeEra(century: number): Era {
 // Fields a free-text query searches across. Everything a devotee is likely to
 // type — a temple name (in English or native script), a deity, a town, a
 // dynasty — is covered.
-function haystack(temple: Temple): string {
+function haystack(temple: TempleCardData): string {
   const { location } = temple;
   return [
     temple.name,
@@ -44,7 +44,7 @@ function haystack(temple: Temple): string {
 
 // True when every whitespace-separated token in the query appears somewhere in
 // the temple's searchable text. Empty/whitespace queries match everything.
-export function matchesQuery(temple: Temple, query: string): boolean {
+export function matchesQuery(temple: TempleCardData, query: string): boolean {
   const tokens = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
   if (tokens.length === 0) return true;
   const hay = haystack(temple);
@@ -53,7 +53,7 @@ export function matchesQuery(temple: Temple, query: string): boolean {
 
 // Distinct region (state) values present in a set of temples, in first-seen
 // order — used to build the region facet from whatever the catalog contains.
-export function regionsOf(temples: Temple[]): string[] {
+export function regionsOf(temples: TempleCardData[]): string[] {
   const seen: string[] = [];
   for (const temple of temples) {
     if (!seen.includes(temple.location.state)) seen.push(temple.location.state);
@@ -77,7 +77,9 @@ export interface TempleFilter {
 
 // Apply the Discover facets to a catalog. Pure and order-preserving: the result
 // keeps the input order, so callers can sort separately (see sortTemples).
-export function filterTemples(temples: Temple[], filter: TempleFilter = {}): Temple[] {
+// Generic over the element type so a projected TempleCardData[] in and a full
+// Temple[] in each come back as the same type.
+export function filterTemples<T extends TempleCardData>(temples: T[], filter: TempleFilter = {}): T[] {
   const { query = '', circuit = 'all', region = 'all', era = 'all', unescoOnly = false, savedIds = null } = filter;
   const saved = savedIds ? new Set(savedIds) : null;
   return temples.filter((tp) => {
@@ -104,7 +106,11 @@ export const SORTS: readonly SortKey[] = ['featured', 'chrono-asc', 'chrono-desc
 // Return a new, sorted array (never mutates the input). `featured` is a stable
 // copy of the input. `name` uses locale-aware collation so, e.g., Tamil names
 // sort in Tamil order when the Tamil catalog is shown.
-export function sortTemples(temples: Temple[], sort: SortKey, locale?: string): Temple[] {
+export function sortTemples<T extends Pick<Temple, 'century' | 'name'>>(
+  temples: T[],
+  sort: SortKey,
+  locale?: string,
+): T[] {
   const out = [...temples];
   switch (sort) {
     case 'chrono-asc':
@@ -117,4 +123,26 @@ export function sortTemples(temples: Temple[], sort: SortKey, locale?: string): 
     default:
       return out;
   }
+}
+
+// Project a full Temple down to the fields the Discover listing needs, dropping
+// the long-form prose and media. Use this before handing temples to the client
+// Discover component so the catalog's section text is not serialized into the
+// listing page's HTML.
+export function toCardData(temple: Temple): TempleCardData {
+  return {
+    id: temple.id,
+    name: temple.name,
+    nativeName: temple.nativeName,
+    deity: temple.deity,
+    tradition: temple.tradition,
+    dynasty: temple.dynasty,
+    style: temple.style,
+    period: temple.period,
+    century: temple.century,
+    unesco: temple.unesco,
+    circuits: temple.circuits,
+    summary: temple.summary,
+    location: { city: temple.location.city, state: temple.location.state },
+  };
 }

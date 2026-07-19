@@ -1,11 +1,11 @@
-import { t, type Circuit, type Locale, type Temple } from '@temple/core';
+import { t, type Circuit, type Locale, type TempleCardData } from '@temple/core';
 
 export function TempleCard({
   locale,
   temple,
 }: {
   locale: Locale;
-  temple: Temple;
+  temple: TempleCardData;
 }) {
   const ui = t(locale);
   return (
