@@ -1,0 +1,77 @@
+name: Generate narrated audio
+
+# Synthesises the per-temple, per-locale narration MP3s with Google Cloud
+# Text-to-Speech, uploads them to the public audio bucket, and commits each
+# temple's `audio` field back to the branch it was dispatched on. Already-done
+# files are skipped (resume by URL match) unless force is set. Runs in CI
+# because it needs GCP credentials (FIREBASE_SERVICE_ACCOUNT); manual dispatch
+# only — media generation is an explicit action, not a push side effect.
+on:
+  workflow_dispatch:
+    inputs:
+      locales:
+        description: Comma-separated locales (empty = all six)
+        type: string
+        default: en,ta,te,kn,ml,hi
+      force:
+        description: Regenerate even if the audio URL already exists
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: media-generation
+  cancel-in-progress: false
+
+jobs:
+  audio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install content deps
+        run: pnpm install --frozen-lockfile --filter @temple/content...
+
+      - name: Write service account key
+        run: |
+          printf '%s' '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > "$RUNNER_TEMP/sa-key.json"
+
+      - name: Generate and upload audio
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
+          AUDIO_BUCKET: temple-502523-audio
+          AUDIO_LOCALES: ${{ inputs.locales }}
+          AUDIO_FORCE: ${{ inputs.force && '1' || '' }}
+        run: node packages/content/scripts/gen-audio.mjs
+
+      - name: Clean up credentials
+        if: always()
+        run: rm -f "$RUNNER_TEMP/sa-key.json"
+
+      - name: Validate content
+        run: node packages/content/scripts/validate.mjs
+
+      - name: Commit updated content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add packages/content/data
+          if git diff --cached --quiet; then
+            echo "No content changes to commit."
+          else
+            git commit -m "feat(content): narrated audio for new temples (CI media run)"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
