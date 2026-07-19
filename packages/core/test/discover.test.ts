@@ -1,6 +1,9 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { templeEra, matchesQuery, regionsOf, ERAS } from '../src/discover.ts';
+import {
+  templeEra, matchesQuery, regionsOf, ERAS,
+  filterTemples, sortTemples, SORTS,
+} from '../src/discover.ts';
 import type { Temple } from '../src/types.ts';
 
 // A minimal Temple factory — only the fields discovery reads need to be real;
@@ -72,4 +75,79 @@ test('regionsOf returns distinct states in first-seen order', () => {
   ];
   assert.deepEqual(regionsOf(temples), ['Tamil Nadu', 'Karnataka']);
   assert.deepEqual(regionsOf([]), []);
+});
+
+// A small mixed catalog for the filter/sort helpers.
+const catalog = [
+  temple({ id: 'brihad', name: 'Brihadeeswarar', century: 11, unesco: true, circuits: ['chola'], location: { city: 'Thanjavur', state: 'Tamil Nadu', lat: 10, lng: 79 } }),
+  temple({ id: 'meenakshi', name: 'Meenakshi', century: 17, unesco: false, circuits: [], location: { city: 'Madurai', state: 'Tamil Nadu', lat: 9, lng: 78 } }),
+  temple({ id: 'virupaksha', name: 'Aihole Virupaksha', century: 8, unesco: true, circuits: ['hoysala'], location: { city: 'Hampi', state: 'Karnataka', lat: 15, lng: 76 } }),
+];
+
+test('filterTemples with no criteria returns everything in input order', () => {
+  assert.deepEqual(filterTemples(catalog).map((t) => t.id), ['brihad', 'meenakshi', 'virupaksha']);
+  assert.deepEqual(filterTemples(catalog, {}).map((t) => t.id), ['brihad', 'meenakshi', 'virupaksha']);
+});
+
+test('filterTemples AND-combines every facet', () => {
+  assert.deepEqual(
+    filterTemples(catalog, { unescoOnly: true }).map((t) => t.id),
+    ['brihad', 'virupaksha'],
+  );
+  assert.deepEqual(
+    filterTemples(catalog, { region: 'Tamil Nadu' }).map((t) => t.id),
+    ['brihad', 'meenakshi'],
+  );
+  assert.deepEqual(
+    filterTemples(catalog, { circuit: 'chola' }).map((t) => t.id),
+    ['brihad'],
+  );
+  assert.deepEqual(
+    filterTemples(catalog, { era: 'later' }).map((t) => t.id),
+    ['meenakshi'],
+  );
+  // Combined: UNESCO + Tamil Nadu leaves only Brihadeeswarar.
+  assert.deepEqual(
+    filterTemples(catalog, { unescoOnly: true, region: 'Tamil Nadu' }).map((t) => t.id),
+    ['brihad'],
+  );
+  // Query narrows further and is still ANDed with facets.
+  assert.deepEqual(filterTemples(catalog, { query: 'madurai' }).map((t) => t.id), ['meenakshi']);
+});
+
+test('filterTemples honours the saved-ids restriction only when provided', () => {
+  assert.deepEqual(
+    filterTemples(catalog, { savedIds: ['virupaksha', 'brihad'] }).map((t) => t.id),
+    ['brihad', 'virupaksha'], // input order preserved, not savedIds order
+  );
+  // null/undefined savedIds means "no saved restriction".
+  assert.equal(filterTemples(catalog, { savedIds: null }).length, 3);
+  // An empty saved list legitimately matches nothing (nothing is saved).
+  assert.deepEqual(filterTemples(catalog, { savedIds: [] }), []);
+});
+
+test('sortTemples does not mutate its input', () => {
+  const before = catalog.map((t) => t.id);
+  sortTemples(catalog, 'chrono-asc');
+  assert.deepEqual(catalog.map((t) => t.id), before);
+});
+
+test('sortTemples featured preserves catalog order', () => {
+  assert.deepEqual(sortTemples(catalog, 'featured').map((t) => t.id), ['brihad', 'meenakshi', 'virupaksha']);
+});
+
+test('sortTemples chronological orders by century both ways', () => {
+  assert.deepEqual(sortTemples(catalog, 'chrono-asc').map((t) => t.century), [8, 11, 17]);
+  assert.deepEqual(sortTemples(catalog, 'chrono-desc').map((t) => t.century), [17, 11, 8]);
+});
+
+test('sortTemples name sorts alphabetically by localized name', () => {
+  assert.deepEqual(
+    sortTemples(catalog, 'name').map((t) => t.name),
+    ['Aihole Virupaksha', 'Brihadeeswarar', 'Meenakshi'],
+  );
+});
+
+test('SORTS lists every sort key exactly once', () => {
+  assert.deepEqual([...SORTS].sort(), ['chrono-asc', 'chrono-desc', 'featured', 'name']);
 });

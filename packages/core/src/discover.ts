@@ -60,3 +60,61 @@ export function regionsOf(temples: Temple[]): string[] {
   }
   return seen;
 }
+
+// The Discover faceting state, shared by the web and mobile Discover tabs so
+// the two apps filter identically. Any field left undefined (or 'all' for the
+// single-choice facets) is treated as "no constraint". `savedIds`, when
+// provided, restricts results to that set — the apps pass it only while the
+// "saved only" toggle is on.
+export interface TempleFilter {
+  query?: string;
+  circuit?: string | 'all';
+  region?: string | 'all';
+  era?: Era | 'all';
+  unescoOnly?: boolean;
+  savedIds?: readonly string[] | null;
+}
+
+// Apply the Discover facets to a catalog. Pure and order-preserving: the result
+// keeps the input order, so callers can sort separately (see sortTemples).
+export function filterTemples(temples: Temple[], filter: TempleFilter = {}): Temple[] {
+  const { query = '', circuit = 'all', region = 'all', era = 'all', unescoOnly = false, savedIds = null } = filter;
+  const saved = savedIds ? new Set(savedIds) : null;
+  return temples.filter((tp) => {
+    if (!matchesQuery(tp, query)) return false;
+    if (circuit !== 'all' && !tp.circuits.includes(circuit)) return false;
+    if (region !== 'all' && tp.location.state !== region) return false;
+    if (era !== 'all' && templeEra(tp.century) !== era) return false;
+    if (unescoOnly && !tp.unesco) return false;
+    if (saved && !saved.has(tp.id)) return false;
+    return true;
+  });
+}
+
+// Ordering options offered on the Discover tab.
+//   featured    — the catalog's own curated order (input order, unchanged)
+//   chrono-asc  — oldest first (by century, then name)
+//   chrono-desc — newest first
+//   name        — alphabetical by localized name, honouring the locale's collation
+export type SortKey = 'featured' | 'chrono-asc' | 'chrono-desc' | 'name';
+
+// Display order for the sort control.
+export const SORTS: readonly SortKey[] = ['featured', 'chrono-asc', 'chrono-desc', 'name'] as const;
+
+// Return a new, sorted array (never mutates the input). `featured` is a stable
+// copy of the input. `name` uses locale-aware collation so, e.g., Tamil names
+// sort in Tamil order when the Tamil catalog is shown.
+export function sortTemples(temples: Temple[], sort: SortKey, locale?: string): Temple[] {
+  const out = [...temples];
+  switch (sort) {
+    case 'chrono-asc':
+      return out.sort((a, b) => a.century - b.century || a.name.localeCompare(b.name, locale));
+    case 'chrono-desc':
+      return out.sort((a, b) => b.century - a.century || a.name.localeCompare(b.name, locale));
+    case 'name':
+      return out.sort((a, b) => a.name.localeCompare(b.name, locale));
+    case 'featured':
+    default:
+      return out;
+  }
+}

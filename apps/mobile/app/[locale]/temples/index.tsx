@@ -3,11 +3,13 @@ import { router, useLocalSearchParams } from 'expo-router';
 import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
 import {
   ERAS,
-  matchesQuery,
+  SORTS,
+  filterTemples,
   regionsOf,
+  sortTemples,
   t,
-  templeEra,
   type Era,
+  type SortKey,
 } from '@temple/core';
 import { getCircuits, getTemples } from '@temple/content';
 import { asLocale } from '@/lib/locale';
@@ -19,6 +21,13 @@ const ERA_KEY = {
   classical: 'eraClassical',
   later: 'eraLater',
 } as const satisfies Record<Era, string>;
+
+const SORT_KEY = {
+  featured: 'sortFeatured',
+  'chrono-asc': 'sortOldest',
+  'chrono-desc': 'sortNewest',
+  name: 'sortName',
+} as const satisfies Record<SortKey, string>;
 
 function Pill({
   label,
@@ -83,18 +92,16 @@ export default function DiscoverScreen() {
   const [region, setRegion] = useState('all');
   const [era, setEra] = useState<Era | 'all'>('all');
   const [unescoOnly, setUnescoOnly] = useState(false);
+  const [sort, setSort] = useState<SortKey>('featured');
 
   const results = useMemo(
     () =>
-      temples.filter((tp) => {
-        if (!matchesQuery(tp, query)) return false;
-        if (circuit !== 'all' && !tp.circuits.includes(circuit)) return false;
-        if (region !== 'all' && tp.location.state !== region) return false;
-        if (era !== 'all' && templeEra(tp.century) !== era) return false;
-        if (unescoOnly && !tp.unesco) return false;
-        return true;
-      }),
-    [temples, query, circuit, region, era, unescoOnly],
+      sortTemples(
+        filterTemples(temples, { query, circuit, region, era, unescoOnly }),
+        sort,
+        locale,
+      ),
+    [temples, query, circuit, region, era, unescoOnly, sort, locale],
   );
 
   const filtersActive =
@@ -102,7 +109,8 @@ export default function DiscoverScreen() {
     circuit !== 'all' ||
     region !== 'all' ||
     era !== 'all' ||
-    unescoOnly;
+    unescoOnly ||
+    sort !== 'featured';
 
   function reset() {
     setQuery('');
@@ -110,6 +118,7 @@ export default function DiscoverScreen() {
     setRegion('all');
     setEra('all');
     setUnescoOnly(false);
+    setSort('featured');
   }
 
   return (
@@ -160,6 +169,12 @@ export default function DiscoverScreen() {
         <Pill label={d.all} active={era === 'all'} onPress={() => setEra('all')} />
         {ERAS.map((e) => (
           <Pill key={e} label={d[ERA_KEY[e]]} active={era === e} onPress={() => setEra(e)} />
+        ))}
+      </FacetRow>
+
+      <FacetRow label={d.sort}>
+        {SORTS.map((s) => (
+          <Pill key={s} label={d[SORT_KEY[s]]} active={sort === s} onPress={() => setSort(s)} />
         ))}
       </FacetRow>
 
