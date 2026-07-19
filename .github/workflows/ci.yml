@@ -56,6 +56,24 @@ jobs:
       # Fail the build if the static export blows the performance budget.
       - run: node apps/web/scripts/check-budget.mjs
 
+  lighthouse:
+    name: Lighthouse
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile --filter @temple/web...
+      - run: pnpm build:web
+      # Serves the export with the real firebase.json headers (see
+      # scripts/serve-out.mjs) and runs Lighthouse. Gates accessibility, SEO,
+      # best-practices, and CLS; performance is a non-blocking warning (score
+      # varies with runner load). ubuntu-latest ships Chrome for chrome-launcher.
+      - run: pnpm --filter @temple/web exec lhci autorun
+
   mobile:
     name: Typecheck mobile
     runs-on: ubuntu-latest

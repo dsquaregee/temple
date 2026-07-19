@@ -13,3 +13,4 @@ build/
 .DS_Store
 packages/content/src/generated.ts
 .media-tmp/
+.lighthouseci/

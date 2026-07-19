@@ -46,6 +46,19 @@ dedicated `Unit tests` job on Node 22.
 - CSP hashing (`csp-hashes`): hashes executable inline scripts, skips data
   blocks, dedups, and injects an idempotent `<meta>` policy with no
   `unsafe-inline` (guards the postbuild against regex regressions).
+- Hero background tones map to `.hero-bg-*` classes (`heroBgClass`, core) so
+  the export carries no inline styles; a content test asserts every stored
+  `hero.color` is a `HERO_PALETTE` tone, so the class always resolves.
+
+## Lighthouse CI
+
+A separate `Lighthouse` CI job serves the export with the production
+`firebase.json` headers (`apps/web/scripts/serve-out.mjs`) and runs Lighthouse
+(`@lhci/cli`, config in `apps/web/lighthouserc.json`) over five representative
+pages. Accessibility, SEO, best-practices, and CLS are hard gates; the
+performance score is a non-blocking warning (it varies with runner load — the
+zero-dependency byte budget is the hard performance gate). Run locally with
+`pnpm --filter @temple/web exec lhci autorun` after `pnpm build:web`.
 
 `scripts/validate.mjs` and `scripts/qa-translations.mjs` remain the
 zero-dependency CI gate for content; the content tests express the same

@@ -52,13 +52,18 @@ front, Firestore holds user state only, content-only v1).
 - **Performance budget** — `apps/web/scripts/check-budget.mjs` runs in CI after
   the web build and fails the PR if the largest JS chunk, total JS (gzip), or
   largest prerendered HTML exceeds its ceiling. Zero-dependency (Node's gzip).
+- **Lighthouse CI** — a `lighthouse` CI job serves the export with the real
+  `firebase.json` headers (`scripts/serve-out.mjs`) and runs Lighthouse
+  (`@lhci/cli`, `lighthouserc.json`) over five representative pages (home, a
+  placeholder-hero temple, a real-photo temple, a circuit, a non-English page).
+  Gates **accessibility ≥ 0.9, SEO ≥ 0.95, best-practices ≥ 0.9, CLS ≤ 0.1**;
+  performance is a non-blocking warning (aggregate score varies with runner
+  load — the byte budget above is the hard performance gate). Current export
+  measures a11y 0.96, SEO 1.0, best-practices ≥ 0.96, CLS ≤ 0.004.
 
 ## Outstanding before the Phase 5 gate
 
-1. **Lighthouse CI (optional upgrade)** — an asset-size budget already gates CI
-   (see Ready). A full Lighthouse CI run against the export would additionally
-   catch runtime regressions (LCP, CLS, a11y) the byte-budget can't see.
-2. **Monitoring** — no error/analytics wiring yet. Recommended default:
+1. **Monitoring** — no error/analytics wiring yet. Recommended default:
    **Cloudflare Web Analytics** (DNS is already on Cloudflare) — privacy-first,
    cookieless, and **zero code / zero CSP change** when enabled at the Cloudflare
    dashboard, so it doesn't touch the strict `script-src`. An in-app tool (e.g.
