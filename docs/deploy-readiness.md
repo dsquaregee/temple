@@ -50,17 +50,26 @@ front, Firestore holds user state only, content-only v1).
 2. **Lighthouse CI (optional upgrade)** — an asset-size budget already gates CI
    (see Ready). A full Lighthouse CI run against the export would additionally
    catch runtime regressions (LCP, CLS, a11y) the byte-budget can't see.
-3. **Firestore composite indexes** — `infra/firestore.indexes.json` is present;
-   confirm it matches the queries the favorites/visited features actually issue
-   before launch.
-4. **Custom domain + CDN cache invalidation** — confirm the production domain,
-   its HSTS-preload submission, and the deploy's cache-busting behavior for HTML
+3. **Custom domain + CDN cache invalidation** — confirm the production domain
+   (`temples.dsquaregee.com`, already baked into canonical/OG/sitemap URLs), its
+   HSTS-preload submission, and the deploy's cache-busting behavior for HTML
    after a content update.
-5. **Rollback story** — Firebase Hosting keeps release history; document the
-   one-command rollback and who owns it.
-6. **Monitoring** — no error/analytics wiring yet. Decide on a
+4. **Monitoring** — no error/analytics wiring yet. Decide on a
    privacy-respecting analytics choice (most users in India; keep it light) and
-   uptime/error alerting before launch.
+   uptime/error alerting before launch. *(Owner decision — D-level.)*
+
+## Verified findings
+
+- **Firestore composite indexes** — none required today. Favorites are
+  anonymous and **on-device** (`localStorage`, `apps/web/lib/favorites.ts`);
+  there are no Firestore reads/queries anywhere in the app, so the empty
+  `infra/firestore.indexes.json` is correct. Revisit only when server-persisted
+  user state (synced favorites, visited stops) is added.
+- **Rollback** — Firebase Hosting retains release history. To roll back the live
+  site instantly without a rebuild:
+  `npx firebase-tools hosting:rollback --project temple-502523`
+  (or pin a specific prior release in the Hosting console). Firestore rules are
+  versioned in-repo, so a rules rollback is a normal `git revert` + redeploy.
 
 ## Notes
 
