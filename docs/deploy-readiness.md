@@ -24,33 +24,38 @@ front, Firestore holds user state only, content-only v1).
   `Permissions-Policy` denying camera/mic/geo/payment/usb/FLoC, and
   `Cross-Origin-Opener-Policy: same-origin-allow-popups` (popup-safe for future
   Firebase Auth account linking). Applied globally via a `**` headers rule.
+- **Content-Security-Policy** — global CSP locking `default-src` to `'self'`,
+  `object-src`/`frame-ancestors`/`base-uri` down, `img-src`/`media-src`/
+  `connect-src` to `'self'` + `storage.googleapis.com` (the media bucket), and
+  `upgrade-insecure-requests`. `script-src`/`style-src` retain `'unsafe-inline'`
+  because a Next static export emits inline hydration scripts with no runtime to
+  nonce — see the hardening note below for the upgrade path.
+- **PWA icons** — `manifest.webmanifest` ships the source SVG plus rasterised
+  `192×192` and `512×512` maskable PNGs (generated from the SVG by
+  `pnpm --filter @temple/content icons`), satisfying Lighthouse installability.
 - **CI gate** — content validation + translation QA + unit tests + web build +
   mobile typecheck must pass on every PR.
 
 ## Outstanding before the Phase 5 gate
 
-1. **Content-Security-Policy** *(highest priority)* — not yet set. A Next static
-   export emits inline bootstrap scripts with no runtime to attach a nonce, so a
-   strict `script-src 'self'` would break hydration. The correct approach is to
-   compute per-build script **hashes** at export time and emit a hashed CSP as a
-   `firebase.json` header (plus `img/media-src` allowing
-   `https://storage.googleapis.com`, `frame-ancestors 'none'`). Tracked
-   separately because it needs a build+deploy to verify end-to-end.
-2. **PWA icons** — `manifest.webmanifest` ships only `icon.svg`. Lighthouse
-   installability wants raster `192×192` and `512×512` maskable PNGs; generate
-   them in the existing `sharp` media pipeline.
-3. **Lighthouse/perf budget in CI** — the design promises "designed-in"
+1. **CSP script/style hardening** — the CSP is live but `script-src`/`style-src`
+   still allow `'unsafe-inline'` (static-export constraint). Upgrade path:
+   post-process the exported HTML to compute per-file SHA-256 **hashes** of the
+   inline scripts and emit them either as a per-page `<meta>` CSP or a build-time
+   header map, dropping `'unsafe-inline'` for scripts. Needs a build+deploy to
+   verify end-to-end.
+2. **Lighthouse/perf budget in CI** — the design promises "designed-in"
    performance (AVIF LCP, system Indic fonts, zero CLS). Add a Lighthouse CI run
    (or asset-size budget) against the built export so regressions fail the PR.
-4. **Firestore composite indexes** — `infra/firestore.indexes.json` is present;
+3. **Firestore composite indexes** — `infra/firestore.indexes.json` is present;
    confirm it matches the queries the favorites/visited features actually issue
    before launch.
-5. **Custom domain + CDN cache invalidation** — confirm the production domain,
+4. **Custom domain + CDN cache invalidation** — confirm the production domain,
    its HSTS-preload submission, and the deploy's cache-busting behavior for HTML
    after a content update.
-6. **Rollback story** — Firebase Hosting keeps release history; document the
+5. **Rollback story** — Firebase Hosting keeps release history; document the
    one-command rollback and who owns it.
-7. **Monitoring** — no error/analytics wiring yet. Decide on a
+6. **Monitoring** — no error/analytics wiring yet. Decide on a
    privacy-respecting analytics choice (most users in India; keep it light) and
    uptime/error alerting before launch.
 

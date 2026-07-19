@@ -15,6 +15,7 @@
     "audio": "node scripts/gen-audio.mjs",
     "video": "node scripts/gen-video.mjs",
     "hero-variants": "node scripts/gen-hero-variants.mjs",
+    "icons": "node scripts/gen-icons.mjs",
     "test": "node --test \"test/*.test.ts\""
   },
   "dependencies": {
