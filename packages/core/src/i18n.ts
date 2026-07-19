@@ -22,6 +22,11 @@ export interface UiStrings {
     eraEarly: string;
     eraClassical: string;
     eraLater: string;
+    sort: string;
+    sortFeatured: string;
+    sortOldest: string;
+    sortNewest: string;
+    sortName: string;
   };
   sections: {
     history: string;
@@ -77,6 +82,11 @@ export const strings: Record<Locale, UiStrings> = {
       eraEarly: 'Up to 7th c.',
       eraClassical: '8th–13th c.',
       eraLater: '14th c. onward',
+      sort: 'Sort',
+      sortFeatured: 'Featured',
+      sortOldest: 'Oldest first',
+      sortNewest: 'Newest first',
+      sortName: 'By name',
     },
     sections: {
       history: 'History',
@@ -130,6 +140,11 @@ export const strings: Record<Locale, UiStrings> = {
       eraEarly: '7ஆம் நூற்றாண்டு வரை',
       eraClassical: '8–13ஆம் நூற்றாண்டு',
       eraLater: '14ஆம் நூற்றாண்டு முதல்',
+      sort: 'வரிசை',
+      sortFeatured: 'சிறப்பு',
+      sortOldest: 'பழமையானவை முதலில்',
+      sortNewest: 'புதியவை முதலில்',
+      sortName: 'அகர வரிசை',
     },
     sections: {
       history: 'வரலாறு',
@@ -183,6 +198,11 @@ export const strings: Record<Locale, UiStrings> = {
       eraEarly: '7వ శతాబ్దం వరకు',
       eraClassical: '8–13వ శతాబ్దాలు',
       eraLater: '14వ శతాబ్దం నుండి',
+      sort: 'క్రమం',
+      sortFeatured: 'ప్రత్యేకం',
+      sortOldest: 'పురాతనమైనవి ముందు',
+      sortNewest: 'కొత్తవి ముందు',
+      sortName: 'అక్షర క్రమం',
     },
     sections: {
       history: 'చరిత్ర',
@@ -236,6 +256,11 @@ export const strings: Record<Locale, UiStrings> = {
       eraEarly: '7ನೇ ಶತಮಾನದವರೆಗೆ',
       eraClassical: '8–13ನೇ ಶತಮಾನ',
       eraLater: '14ನೇ ಶತಮಾನದಿಂದ',
+      sort: 'ಕ್ರಮ',
+      sortFeatured: 'ವಿಶೇಷ',
+      sortOldest: 'ಹಳೆಯವು ಮೊದಲು',
+      sortNewest: 'ಹೊಸವು ಮೊದಲು',
+      sortName: 'ಅಕ್ಷರ ಕ್ರಮ',
     },
     sections: {
       history: 'ಇತಿಹಾಸ',
@@ -289,6 +314,11 @@ export const strings: Record<Locale, UiStrings> = {
       eraEarly: '7-ാം നൂറ്റാണ്ട് വരെ',
       eraClassical: '8–13 നൂറ്റാണ്ട്',
       eraLater: '14-ാം നൂറ്റാണ്ട് മുതൽ',
+      sort: 'ക്രമം',
+      sortFeatured: 'പ്രത്യേകം',
+      sortOldest: 'പഴയവ ആദ്യം',
+      sortNewest: 'പുതിയവ ആദ്യം',
+      sortName: 'പേരനുസരിച്ച്',
     },
     sections: {
       history: 'ചരിത്രം',
@@ -342,6 +372,11 @@ export const strings: Record<Locale, UiStrings> = {
       eraEarly: '7वीं सदी तक',
       eraClassical: '8–13वीं सदी',
       eraLater: '14वीं सदी से',
+      sort: 'क्रम',
+      sortFeatured: 'विशेष',
+      sortOldest: 'सबसे पुराने पहले',
+      sortNewest: 'सबसे नए पहले',
+      sortName: 'नाम अनुसार',
     },
     sections: {
       history: 'इतिहास',

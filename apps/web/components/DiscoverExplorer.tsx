@@ -3,14 +3,16 @@
 import { useEffect, useMemo, useState, type ReactNode } from 'react';
 import {
   ERAS,
-  matchesQuery,
+  SORTS,
+  filterTemples,
   regionsOf,
+  sortTemples,
   t,
-  templeEra,
   type Circuit,
   type Era,
   type Locale,
-  type Temple,
+  type SortKey,
+  type TempleCardData,
 } from '@temple/core';
 import { SavableTempleCard } from './SavableTempleCard';
 import { useFavorites } from '@/lib/favorites';
@@ -20,6 +22,13 @@ const ERA_KEY = {
   classical: 'eraClassical',
   later: 'eraLater',
 } as const satisfies Record<Era, string>;
+
+const SORT_KEY = {
+  featured: 'sortFeatured',
+  'chrono-asc': 'sortOldest',
+  'chrono-desc': 'sortNewest',
+  name: 'sortName',
+} as const satisfies Record<SortKey, string>;
 
 // A single tappable filter option. Renders as a real <button> so the facets are
 // keyboard-operable; the SSG page still ships every temple in its initial
@@ -64,7 +73,7 @@ export function DiscoverExplorer({
   circuits,
 }: {
   locale: Locale;
-  temples: Temple[];
+  temples: TempleCardData[];
   circuits: Pick<Circuit, 'id' | 'name'>[];
 }) {
   const d = t(locale).discover;
@@ -84,21 +93,25 @@ export function DiscoverExplorer({
   const [era, setEra] = useState<Era | 'all'>('all');
   const [unescoOnly, setUnescoOnly] = useState(false);
   const [savedOnly, setSavedOnly] = useState(false);
+  const [sort, setSort] = useState<SortKey>('featured');
 
   const { ids: savedIds, ready: favReady } = useFavorites();
 
   const results = useMemo(
     () =>
-      temples.filter((tp) => {
-        if (!matchesQuery(tp, query)) return false;
-        if (circuit !== 'all' && !tp.circuits.includes(circuit)) return false;
-        if (region !== 'all' && tp.location.state !== region) return false;
-        if (era !== 'all' && templeEra(tp.century) !== era) return false;
-        if (unescoOnly && !tp.unesco) return false;
-        if (savedOnly && !savedIds.includes(tp.id)) return false;
-        return true;
-      }),
-    [temples, query, circuit, region, era, unescoOnly, savedOnly, savedIds],
+      sortTemples(
+        filterTemples(temples, {
+          query,
+          circuit,
+          region,
+          era,
+          unescoOnly,
+          savedIds: savedOnly ? savedIds : null,
+        }),
+        sort,
+        locale,
+      ),
+    [temples, query, circuit, region, era, unescoOnly, savedOnly, savedIds, sort, locale],
   );
 
   const filtersActive =
@@ -107,7 +120,8 @@ export function DiscoverExplorer({
     region !== 'all' ||
     era !== 'all' ||
     unescoOnly ||
-    savedOnly;
+    savedOnly ||
+    sort !== 'featured';
 
   function reset() {
     setQuery('');
@@ -116,6 +130,7 @@ export function DiscoverExplorer({
     setEra('all');
     setUnescoOnly(false);
     setSavedOnly(false);
+    setSort('featured');
   }
 
   return (
@@ -166,6 +181,14 @@ export function DiscoverExplorer({
         {ERAS.map((e) => (
           <FilterChip key={e} active={era === e} onClick={() => setEra(e)}>
             {d[ERA_KEY[e]]}
+          </FilterChip>
+        ))}
+      </Facet>
+
+      <Facet label={d.sort}>
+        {SORTS.map((s) => (
+          <FilterChip key={s} active={sort === s} onClick={() => setSort(s)}>
+            {d[SORT_KEY[s]]}
           </FilterChip>
         ))}
       </Facet>

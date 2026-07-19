@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { t, type Locale } from '@temple/core';
+import { t, toCardData, type Locale } from '@temple/core';
 import { getCircuits, getTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { absUrl, breadcrumbList, collectionPage } from '@/lib/jsonld';
@@ -63,7 +63,13 @@ export default function DiscoverPage({
         </p>
       </div>
 
-      <DiscoverExplorer locale={locale} temples={temples} circuits={circuits} />
+      {/* Project to card data so the section/visit prose is not serialized
+          into this client component's hydration payload. */}
+      <DiscoverExplorer
+        locale={locale}
+        temples={temples.map(toCardData)}
+        circuits={circuits}
+      />
     </PageChrome>
   );
 }

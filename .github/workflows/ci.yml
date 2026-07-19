@@ -29,6 +29,18 @@ jobs:
       # Translation QA: fails only on untranslated fields (advisory warnings ok).
       - run: node packages/content/scripts/qa-translations.mjs
 
+  test:
+    name: Unit tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # Node 22 runs the TypeScript test suite directly via native type
+      # stripping — no test-runner dependency, no install step.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node --test "packages/**/test/*.test.ts" "apps/**/test/*.test.ts"
+
   web:
     name: Build web
     runs-on: ubuntu-latest
@@ -41,6 +53,8 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile --filter @temple/web...
       - run: pnpm build:web
+      # Fail the build if the static export blows the performance budget.
+      - run: node apps/web/scripts/check-budget.mjs
 
   mobile:
     name: Typecheck mobile
