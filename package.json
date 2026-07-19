@@ -7,6 +7,16 @@
     "content:validate": "node packages/content/scripts/validate.mjs",
     "content:qa": "node packages/content/scripts/qa-translations.mjs",
     "build:web": "pnpm content:generate && pnpm --filter @temple/web build",
-    "dev:web": "pnpm content:generate && pnpm --filter @temple/web dev"
+    "dev:web": "pnpm content:generate && pnpm --filter @temple/web dev",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.1.0",
+    "jsdom": "^25.0.1",
+    "vitest": "^2.1.8"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild"]
   }
 }

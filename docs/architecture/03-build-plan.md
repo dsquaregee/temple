@@ -61,3 +61,12 @@ audio/downloads follow.
 All Phase 3 build slices complete. Remaining before launch (later phases):
 native-speaker translation review, real hero imagery/AVIF, audio stories
 (Listen), Firestore-backed user state (visited/saved), and Phase 4 hardening.
+
+## Phase 4 — Test/Harden (in progress)
+
+- ✅ Unit test suite (Vitest): pure logic in `packages/core` (discover facets,
+  daily rotation, hero accent color, i18n key parity) and `apps/web/lib`
+  (hero resolution, JSON-LD builders, locale labels, the favorites hook under
+  jsdom). Run with `pnpm test`; gated in CI as the `Unit tests` job. This
+  complements the zero-dependency content `validate.mjs`/`qa-translations.mjs`
+  checks already in CI.
