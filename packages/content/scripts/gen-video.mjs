@@ -21,7 +21,8 @@ import { readdirSync, readFileSync, writeFileSync, mkdirSync, existsSync } from 
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
-import { Storage } from '@google-cloud/storage';
+// @google-cloud/storage is imported lazily below (only when uploading), so the
+// credential-free photo audit (VIDEO_DRYRUN=1) runs without the upload SDK.
 
 const root = dirname(fileURLToPath(import.meta.url));
 const dataDir = join(root, '..', 'data');
@@ -107,6 +108,26 @@ const CURATED = {
     'File:Ramanathaswamy Temple corridor 01.jpg',
     'File:Ramanathaswamy Temple, Rameswaram.jpg',
   ],
+  // 2026-07 catalog-parity audit: three temples the automatic gate skipped for
+  // too few qualifying photos. Their high-MP Commons hits were the usual traps —
+  // stereo-pair "3D" scans, a wrong-temple shot (Mahabaleshwara of Chamundi
+  // Hills, Mysuru), blurry interiors, an ear-piercing ceremony, roosting bats,
+  // and the Shrungagiri Shanmukha temple in Bangalore. Every title below was
+  // reviewed by eye and verified to depict the right temple (hero first).
+  'thiruttani-murugan': [
+    'File:Thiruttani Temple from the Road leading up to it.jpg',
+    'File:Thiruttani Temple Rajagopuram.jpg',
+    'File:Subramaniya Swamy Temple in Thiruthani.jpg',
+  ],
+  'pazhamudircholai-murugan': [
+    'File:Solaimalai.jpg',
+    'File:Pazhamuthir solai Murugan 2.JPG',
+    'File:Pazhamudhircholai Koil.jpg',
+  ],
+  // Only one dignified exterior of the Gokarna temple exists on Commons, so this
+  // yields a hero image but not enough photos for a slideshow video (the render
+  // needs MIN_PHOTOS). Commissioned photography can add the rest later.
+  'gokarna-mahabaleshwara': ['File:Mahabaleshwara Temple.JPG'],
 };
 
 const EXCLUDE = /(\bmap\b|plan|diagram|sketch|drawing|engraving|lithograph|inscription|logo|seal|coin|chart|graph|\.svg|panorama.*stitch)/i;
@@ -250,6 +271,7 @@ function renderVideo(imgs, audioPath, outPath, audioDur) {
 }
 
 mkdirSync(work, { recursive: true });
+const { Storage } = BUCKET ? await import('@google-cloud/storage') : {};
 const storage = BUCKET ? new Storage() : null;
 const bucket = storage ? storage.bucket(BUCKET) : null;
 
@@ -299,13 +321,25 @@ for (const id of ids) {
     report.push({ id, picked: 0, skipped: true, reason: 'query failed' });
     continue;
   }
-  if (picks.length < MIN_PHOTOS) {
-    console.log(`· ${id}: only ${picks.length} high-quality photo(s) (< ${MIN_PHOTOS}) — SKIPPED`);
-    report.push({ id, picked: picks.length, skipped: true, reason: 'insufficient quality photos' });
+  if (picks.length < 1) {
+    console.log(`· ${id}: no qualifying photo — SKIPPED`);
+    report.push({ id, picked: 0, skipped: true, reason: 'no qualifying photo' });
     continue;
   }
-  console.log(`✓ ${id}: ${picks.length} photos (${picks.map((p) => p.mp + 'MP').join(', ')})`);
-  report.push({ id, picked: picks.length, skipped: false, photos: picks.map((p) => ({ title: p.title, mp: p.mp, credit: p.credit })) });
+  // A single qualifying photo is enough for a hero image; a slideshow video
+  // needs MIN_PHOTOS. Temples between the two get a hero but no video.
+  const canVideo = picks.length >= MIN_PHOTOS;
+  console.log(
+    `${canVideo ? '✓' : '◐'} ${id}: ${picks.length} photo(s) (${picks.map((p) => p.mp + 'MP').join(', ')})` +
+      (canVideo ? '' : ` — hero only (need ${MIN_PHOTOS} for video)`)
+  );
+  report.push({
+    id,
+    picked: picks.length,
+    skipped: false,
+    heroOnly: !canVideo,
+    photos: picks.map((p) => ({ title: p.title, mp: p.mp, credit: p.credit })),
+  });
   if (DRY) continue;
 
   // One temple failing (bad photo, ffmpeg error, upload hiccup) must not kill
@@ -334,33 +368,38 @@ for (const id of ids) {
       const jsonPath = join(dataDir, 'temples', locale, `${id}.json`);
       if (!existsSync(jsonPath)) continue;
       const doc = JSON.parse(readFileSync(jsonPath, 'utf8'));
-      const audioUrl = doc.audio?.storyUrl;
-      if (!audioUrl) {
-        console.warn(`  ! ${locale}/${id}: no narration audio — locale skipped`);
-        continue;
-      }
-      const audioPath = join(tdir, `audio-${locale}.mp3`);
-      await download(audioUrl, audioPath);
-      // Real duration from the file — the stored durationSec is an estimate.
-      const audioDur = Math.round(probeDuration(audioPath)) || doc.audio?.durationSec || 90;
-      const out = join(tdir, `${locale}.mp4`);
-      renderVideo(imgPaths, audioPath, out, audioDur);
 
-      const obj = `video/${locale}/${id}.mp4`;
-      await bucket.file(obj).save(readFileSync(out), {
-        contentType: 'video/mp4',
-        metadata: { cacheControl: 'public, max-age=31536000, immutable' },
-        resumable: false,
-      });
-      doc.video = {
-        url: `https://storage.googleapis.com/${BUCKET}/${obj}`,
-        posterUrl: heroUrl,
-        durationSec: audioDur,
-        credit,
-      };
+      // Hero is language-agnostic and needs only one photo — set it on every
+      // locale doc even when there is no narration audio (so no video) or too
+      // few photos for a slideshow.
       doc.hero = { src: heroUrl, color: doc.hero?.color || '#5C3A2E', alt: `${doc.name}`, credit };
+
+      const audioUrl = doc.audio?.storyUrl;
+      if (canVideo && audioUrl) {
+        const audioPath = join(tdir, `audio-${locale}.mp3`);
+        await download(audioUrl, audioPath);
+        // Real duration from the file — the stored durationSec is an estimate.
+        const audioDur = Math.round(probeDuration(audioPath)) || doc.audio?.durationSec || 90;
+        const out = join(tdir, `${locale}.mp4`);
+        renderVideo(imgPaths, audioPath, out, audioDur);
+
+        const obj = `video/${locale}/${id}.mp4`;
+        await bucket.file(obj).save(readFileSync(out), {
+          contentType: 'video/mp4',
+          metadata: { cacheControl: 'public, max-age=31536000, immutable' },
+          resumable: false,
+        });
+        doc.video = {
+          url: `https://storage.googleapis.com/${BUCKET}/${obj}`,
+          posterUrl: heroUrl,
+          durationSec: audioDur,
+          credit,
+        };
+        console.log(`  → ${locale}/${id}.mp4 uploaded`);
+      } else if (!audioUrl) {
+        console.warn(`  ! ${locale}/${id}: no narration audio — hero set, video skipped`);
+      }
       writeFileSync(jsonPath, JSON.stringify(doc, null, 2) + '\n');
-      console.log(`  → ${locale}/${id}.mp4 uploaded`);
     }
   } catch (e) {
     console.warn(`! ${id}: FAILED — ${String(e.message || e).split('\n')[0]}`);
@@ -370,14 +409,28 @@ for (const id of ids) {
   }
 }
 
-// Write an audit report.
+// Write a machine-generated status snapshot. This is regenerated on every run,
+// so it is kept separate from the hand-curated editorial audit (photo-audit.md),
+// which the script must never clobber.
 const outDir = join(repoRoot, 'docs', 'media');
 mkdirSync(outDir, { recursive: true });
-let md = `# Temple photo/video audit (Wikimedia Commons)\n\n`;
-md += `Quality gate: JPEG/PNG, ≥ ${MIN_MP} MP, landscape, CC/PD license; ≥ ${MIN_PHOTOS} photos required or the temple is skipped.\n\n`;
+let md = `# Temple photo/video audit — generated snapshot\n\n`;
+md += `> Auto-generated by \`gen-video.mjs\`; do not edit by hand. Editorial notes live in \`photo-audit.md\`.\n\n`;
+md += `Quality gate: JPEG/PNG, ≥ ${MIN_MP} MP, landscape, CC/PD license. A hero needs ≥ 1 qualifying photo; a slideshow video needs ≥ ${MIN_PHOTOS}.\n\n`;
 md += `| Temple | Photos kept | Status |\n|---|---|---|\n`;
-for (const r of report) md += `| ${r.id} | ${r.picked} | ${r.skipped ? '⚠️ skipped ('+r.reason+')' : '✅ included'} |\n`;
-writeFileSync(join(outDir, 'photo-audit.md'), md);
+for (const r of report) {
+  const status = r.skipped
+    ? '⚠️ skipped (' + r.reason + ')'
+    : r.heroOnly
+    ? '◐ hero only (< ' + MIN_PHOTOS + ' for video)'
+    : '✅ included';
+  md += `| ${r.id} | ${r.picked} | ${status} |\n`;
+}
+writeFileSync(join(outDir, 'photo-audit-auto.md'), md);
 
 const kept = report.filter((r) => !r.skipped).length;
-console.log(`\n${DRY ? '[dry-run] ' : ''}${kept}/${ids.length} temples have qualifying photos. Report → docs/media/photo-audit.md`);
+const heroOnly = report.filter((r) => r.heroOnly).length;
+console.log(
+  `\n${DRY ? '[dry-run] ' : ''}${kept}/${ids.length} temples have qualifying photos` +
+    (heroOnly ? ` (${heroOnly} hero-only)` : '') + `. Report → docs/media/photo-audit-auto.md`
+);
