@@ -14,7 +14,8 @@
     "qa": "node scripts/qa-translations.mjs",
     "audio": "node scripts/gen-audio.mjs",
     "video": "node scripts/gen-video.mjs",
-    "hero-variants": "node scripts/gen-hero-variants.mjs"
+    "hero-variants": "node scripts/gen-hero-variants.mjs",
+    "test": "node --test \"test/*.test.ts\""
   },
   "dependencies": {
     "@temple/core": "workspace:*"

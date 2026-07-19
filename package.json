@@ -6,6 +6,7 @@
     "content:generate": "node packages/content/scripts/generate.mjs",
     "content:validate": "node packages/content/scripts/validate.mjs",
     "content:qa": "node packages/content/scripts/qa-translations.mjs",
+    "test": "node --test \"packages/**/test/*.test.ts\"",
     "build:web": "pnpm content:generate && pnpm --filter @temple/web build",
     "dev:web": "pnpm content:generate && pnpm --filter @temple/web dev"
   }
