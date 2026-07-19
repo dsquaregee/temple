@@ -9,7 +9,7 @@
     "city": "Mahabalipuram (Mamallapuram)",
     "state": "Tamil Nadu",
     "lat": 12.6165,
-    "lng": 80.1990
+    "lng": 80.199
   },
   "period": "Pallava, c. 700–728 CE",
   "century": 8,
@@ -30,5 +30,9 @@
     "dressCode": "There is no ritual dress code at this monument, but modest, comfortable clothing suited to a sacred heritage site and the coastal sun is appropriate.",
     "photography": "Photography is freely permitted across the site; drones and tripods may require permission. The seaward face at sunrise is the celebrated shot.",
     "gettingThere": "Mamallapuram is in Chengalpattu district, about 55 km south of Chennai along the East Coast Road; Chennai has the nearest airport and major railway station, with frequent buses and taxis to the town."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/shore-temple-mahabalipuram.mp3",
+    "durationSec": 281
   }
 }

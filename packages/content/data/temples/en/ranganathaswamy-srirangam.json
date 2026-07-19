@@ -9,7 +9,7 @@
     "city": "Srirangam, Tiruchirappalli",
     "state": "Tamil Nadu",
     "lat": 10.8624,
-    "lng": 78.6890
+    "lng": 78.689
   },
   "period": "Expanded across the Chola to Nayak eras; core sanctum ancient",
   "century": 10,
@@ -32,5 +32,9 @@
     "dressCode": "Traditional modest dress is expected — men often in dhoti, women in saree or salwar; shoulders and knees covered, footwear left outside. Inner enclosures are open to Hindu worshippers.",
     "photography": "Photography is restricted, especially near and within the sanctum; mobile phones and cameras may be limited in the inner prakarams. Follow posted rules and staff guidance.",
     "gettingThere": "Srirangam is about 10 km from Tiruchirappalli (Trichy) city centre in Tamil Nadu; Trichy has the nearest railway junction and an airport, and the temple town is well served by local transport."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/ranganathaswamy-srirangam.mp3",
+    "durationSec": 299
   }
 }
