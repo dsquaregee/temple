@@ -43,6 +43,9 @@ dedicated `Unit tests` job on Node 22.
 
 - Every temple has a non-empty hero placeholder SVG (guards the LCP preload
   against a temple added without regenerated heroes), and no orphaned heroes.
+- CSP hashing (`csp-hashes`): hashes executable inline scripts, skips data
+  blocks, dedups, and injects an idempotent `<meta>` policy with no
+  `unsafe-inline` (guards the postbuild against regex regressions).
 
 `scripts/validate.mjs` and `scripts/qa-translations.mjs` remain the
 zero-dependency CI gate for content; the content tests express the same

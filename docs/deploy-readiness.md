@@ -24,12 +24,18 @@ front, Firestore holds user state only, content-only v1).
   `Permissions-Policy` denying camera/mic/geo/payment/usb/FLoC, and
   `Cross-Origin-Opener-Policy: same-origin-allow-popups` (popup-safe for future
   Firebase Auth account linking). Applied globally via a `**` headers rule.
-- **Content-Security-Policy** — global CSP locking `default-src` to `'self'`,
-  `object-src`/`frame-ancestors`/`base-uri` down, `img-src`/`media-src`/
-  `connect-src` to `'self'` + `storage.googleapis.com` (the media bucket), and
-  `upgrade-insecure-requests`. `script-src`/`style-src` retain `'unsafe-inline'`
-  because a Next static export emits inline hydration scripts with no runtime to
-  nonce — see the hardening note below for the upgrade path.
+- **Content-Security-Policy** — global CSP (header) locking `default-src` to
+  `'self'`, `object-src`/`frame-ancestors`/`base-uri` down, `img-src`/
+  `media-src`/`connect-src` to `'self'` + `storage.googleapis.com` (the media
+  bucket), and `upgrade-insecure-requests`.
+- **CSP script hashing** — a postbuild step (`apps/web/scripts/csp-hashes.mjs`)
+  computes the SHA-256 of every executable inline script per page and injects a
+  per-page `<meta>` CSP with `script-src 'self' <hashes>` and **no
+  `'unsafe-inline'`**. The header keeps `'unsafe-inline'` (static export can't
+  nonce), but the two policies are enforced together, so an injected inline
+  script fails the meta's hash check and is blocked. Verified end-to-end with a
+  headless browser: the app hydrates with zero violations, and an injected
+  unhashed inline script is blocked.
 - **PWA icons** — `manifest.webmanifest` ships the source SVG plus rasterised
   `192×192` and `512×512` maskable PNGs (generated from the SVG by
   `pnpm --filter @temple/content icons`), satisfying Lighthouse installability.
@@ -41,12 +47,10 @@ front, Firestore holds user state only, content-only v1).
 
 ## Outstanding before the Phase 5 gate
 
-1. **CSP script/style hardening** — the CSP is live but `script-src`/`style-src`
-   still allow `'unsafe-inline'` (static-export constraint). Upgrade path:
-   post-process the exported HTML to compute per-file SHA-256 **hashes** of the
-   inline scripts and emit them either as a per-page `<meta>` CSP or a build-time
-   header map, dropping `'unsafe-inline'` for scripts. Needs a build+deploy to
-   verify end-to-end.
+1. **CSP style-src hardening (optional)** — inline scripts are now hash-pinned
+   (see Ready); `style-src` still allows `'unsafe-inline'` because Next injects
+   inline styles that are harder to enumerate and far lower risk than script
+   injection. Hashing or externalising them would close the last `unsafe-inline`.
 2. **Lighthouse CI (optional upgrade)** — an asset-size budget already gates CI
    (see Ready). A full Lighthouse CI run against the export would additionally
    catch runtime regressions (LCP, CLS, a11y) the byte-budget can't see.
