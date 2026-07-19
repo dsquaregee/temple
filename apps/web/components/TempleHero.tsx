@@ -1,6 +1,6 @@
 import ReactDOM from 'react-dom';
 import { heroFor } from '@/lib/hero';
-import type { Temple } from '@temple/core';
+import { heroBgClass, type Temple } from '@temple/core';
 
 // Hero for a temple detail page. The image is the LCP element: it is preloaded
 // with high priority and sits on a solid dominant-color background so there is
@@ -20,7 +20,7 @@ export function TempleHero({
   ReactDOM.preload(hero.src, { as: 'image', fetchPriority: 'high' });
 
   return (
-    <div className="hero hero--image" style={{ backgroundColor: hero.color }}>
+    <div className={`hero hero--image ${heroBgClass(hero.color)}`}>
       {hero.sources?.avif || hero.sources?.webp ? (
         <picture>
           {hero.sources.avif && <source srcSet={hero.sources.avif} type="image/avif" />}

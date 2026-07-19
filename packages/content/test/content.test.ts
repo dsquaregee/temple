@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { HERO_PALETTE } from '../../core/src/media.ts';
 
 // Loads the real catalog JSON off disk and asserts the invariants the apps
 // depend on. Complements scripts/validate.mjs: that guards the CI gate with
@@ -151,6 +152,20 @@ test('circuit stop ordering is identical across locales', () => {
     for (const locale of LOCALES) {
       if (locale === 'en') continue;
       assert.deepEqual(circuits[locale][id].stops, en.stops, `${locale}/${id} stop order differs`);
+    }
+  }
+});
+
+// The web hero background is a CSS class per palette tone (no inline style, so
+// CSP style-src stays 'self'). A stored hero.color outside HERO_PALETTE would
+// silently fall back to the default tone — catch that here instead.
+test('every stored hero.color is a HERO_PALETTE tone', () => {
+  const palette = new Set<string>(HERO_PALETTE);
+  for (const locale of LOCALES) {
+    for (const [id, doc] of Object.entries(temples[locale])) {
+      const color = doc.hero?.color;
+      if (color == null) continue;
+      assert.ok(palette.has(color), `${locale}/${id}.hero.color ${color} is not in HERO_PALETTE`);
     }
   }
 });
