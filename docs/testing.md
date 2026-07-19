@@ -11,7 +11,7 @@ validators so tests run pre-install in CI.
 pnpm test                              # whole monorepo
 pnpm --filter @temple/core test        # core logic only
 pnpm --filter @temple/content test     # catalog invariants only
-node --test "packages/**/test/*.test.ts"
+node --test "packages/**/test/*.test.ts" "apps/**/test/*.test.ts"
 ```
 
 Requires **Node 22+** (native `.ts` execution). CI runs the suite in a
@@ -39,6 +39,11 @@ dedicated `Unit tests` job on Node 22.
   (century, UNESCO flag, coordinates, circuit membership, stop ordering are
   identical across all six locales — only prose is translated).
 
+**`apps/web`** — cross-cutting asset integrity:
+
+- Every temple has a non-empty hero placeholder SVG (guards the LCP preload
+  against a temple added without regenerated heroes), and no orphaned heroes.
+
 `scripts/validate.mjs` and `scripts/qa-translations.mjs` remain the
 zero-dependency CI gate for content; the content tests express the same
 contract plus the cross-locale parity checks, runnable from the same harness as
@@ -46,7 +51,8 @@ the core tests.
 
 ## Conventions
 
-- Test files live in `packages/<pkg>/test/` named `*.test.ts`.
+- Test files live in `packages/<pkg>/test/` or `apps/<app>/test/`, named
+  `*.test.ts`.
 - Import the module under test directly (`../src/foo.ts`) — modules use
   type-only internal imports, which strip cleanly under native execution.
 - Use `node:test` + `node:assert/strict`.
