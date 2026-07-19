@@ -143,8 +143,8 @@ firebase deploy --only hosting,firestore:rules
   (Test/Harden) has begun — automated tests, a CI performance budget, security
   response headers + CSP, and PWA raster icons all landed; see
   `docs/deploy-readiness.md` for the remaining Phase 5 checklist.
-- **Translations** (`ta te kn ml hi`) are high-quality drafts and should have a
-  native-speaker review pass — especially deity names and theological terms —
-  before public launch (tracked in `docs/i18n/translation-review.md`).
+- **Translations** (`ta te kn ml hi`) — owner sign-off recorded 2026-07-19
+  (dsquaregee). Automated QA (`docs/i18n/translation-review.md`) remains a
+  mechanical guard for any future content added to the catalog.
 - Content prose is original editorial writing; facts are checked against the
   research notes in `docs/research/`.

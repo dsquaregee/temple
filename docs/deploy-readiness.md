@@ -54,16 +54,20 @@ front, Firestore holds user state only, content-only v1).
 2. **Lighthouse CI (optional upgrade)** — an asset-size budget already gates CI
    (see Ready). A full Lighthouse CI run against the export would additionally
    catch runtime regressions (LCP, CLS, a11y) the byte-budget can't see.
-3. **Custom domain + CDN cache invalidation** — confirm the production domain
-   (`temples.dsquaregee.com`, already baked into canonical/OG/sitemap URLs), its
-   HSTS-preload submission, and the deploy's cache-busting behavior for HTML
-   after a content update.
-4. **Monitoring** — no error/analytics wiring yet. Decide on a
-   privacy-respecting analytics choice (most users in India; keep it light) and
-   uptime/error alerting before launch. *(Owner decision — D-level.)*
+3. **Monitoring** — no error/analytics wiring yet. Recommended default:
+   **Cloudflare Web Analytics** (DNS is already on Cloudflare) — privacy-first,
+   cookieless, and **zero code / zero CSP change** when enabled at the Cloudflare
+   dashboard, so it doesn't touch the strict `script-src`. An in-app tool (e.g.
+   GA4, Sentry) would instead need a `script-src`/`connect-src` allowance. Owner
+   to pick before launch.
 
 ## Verified findings
 
+- **Custom domain** — `temples.dsquaregee.com` is live (Cloudflare DNS →
+  Firebase Hosting) and already baked into `metadataBase`, canonical/hreflang,
+  OG, and sitemap URLs. Confirmed by the owner 2026-07-19.
+- **Translations** — owner sign-off recorded 2026-07-19; the six-locale catalog
+  is cleared for public launch.
 - **Firestore composite indexes** — none required today. Favorites are
   anonymous and **on-device** (`localStorage`, `apps/web/lib/favorites.ts`);
   there are no Firestore reads/queries anywhere in the app, so the empty
