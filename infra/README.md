@@ -56,6 +56,33 @@ can later be **linked** to a real account without losing their saved state.
 Sign-in is only surfaced when a feature needs it (saving progress, syncing
 downloads).
 
+## Web client configuration (cross-device saved temples)
+
+The web app's saved-temples feature works fully **offline-first from
+localStorage with no configuration**. When the Firebase web config is present,
+it *additionally* mirrors saves to Firestore under an anonymous auth uid so a
+devotee's saves follow them across devices. Config travels as build-time
+`NEXT_PUBLIC_*` env vars baked into the static bundle (the standard, safe way to
+ship Firebase web config — these keys only identify the project; access is
+enforced by `firestore.rules`, not secrecy). See `apps/web/.env.example`:
+
+| Var | Purpose |
+|---|---|
+| `NEXT_PUBLIC_FIREBASE_API_KEY` | Firebase web API key. |
+| `NEXT_PUBLIC_FIREBASE_PROJECT_ID` | e.g. `temple-502523`. |
+| `NEXT_PUBLIC_FIREBASE_APP_ID` | Web app id from the console. |
+| `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN` | Optional; defaults to `<projectId>.firebaseapp.com`. |
+
+If any required var is missing, `firebaseConfig()` returns `null` and the app
+stays local-only — so previews, local dev, and CI need no secrets. The Firebase
+SDK is dynamically imported only when config is present, keeping it off the
+critical-path bundle.
+
+**User-state document shape** (in the `temple` database, matching
+`firestore.rules`): `users/{uid}` → `{ savedTemples: string[], updatedAt }`.
+`savedTemples` holds temple ids. First cross-device contact unions the local and
+remote sets so no existing save is lost.
+
 ## Deploy
 
 Run from the **repo root** (where `firebase.json` lives):

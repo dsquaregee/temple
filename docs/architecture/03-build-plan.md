@@ -60,7 +60,8 @@ audio/downloads follow.
 
 All Phase 3 build slices complete. Remaining before launch (later phases):
 native-speaker translation review, real hero imagery/AVIF, audio stories
-(Listen), Firestore-backed user state (visited/saved), and Phase 4 hardening.
+(Listen), and Phase 4 hardening. Firestore-backed user state has landed for web
+(saved temples) — see below; the mobile side and visited-stops are follow-ups.
 
 ## Phase 4 — Test/Harden (in progress)
 
@@ -70,3 +71,13 @@ native-speaker translation review, real hero imagery/AVIF, audio stories
   jsdom). Run with `pnpm test`; gated in CI as the `Unit tests` job. This
   complements the zero-dependency content `validate.mjs`/`qa-translations.mjs`
   checks already in CI.
+- ✅ Firestore-backed saved temples (web): the `useFavorites` hook keeps its
+  offline-first localStorage behaviour and *additionally* mirrors saves to
+  `users/{uid}.savedTemples` via anonymous auth when the Firebase web config
+  (`NEXT_PUBLIC_FIREBASE_*`) is present, so saves follow a devotee across
+  devices. First contact unions local + remote (no save lost). The SDK is
+  dynamically imported only when configured, so the critical-path bundle is
+  unchanged (~87.5 kB shared JS). Config-gated: with no env vars the app is
+  local-only (previews/CI need no secrets). See `infra/README.md` and
+  `apps/web/.env.example`. Follow-ups: mobile sync (native Firebase config) and
+  visited-stops.
