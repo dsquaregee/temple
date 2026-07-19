@@ -7,8 +7,9 @@ festivals, and darshan guidance for each temple, in six languages.
 Owner: dsquaregee · support@dsquaregee.com
 
 > Phase 3 (Build) — PWA and native apps built in parallel over a shared content
-> core. v1 ships **10 temples × 6 languages** and **2 complete pilgrimage
-> circuits**. See `CLAUDE.md` for the full product brief and locked decisions.
+> core. The catalog has grown to **25 temples × 6 languages** across **5
+> pilgrimage circuits** (v1's committed scope was 10 × 6 / 2 circuits). See
+> `CLAUDE.md` for the full product brief and locked decisions.
 
 ## Monorepo layout
 
@@ -29,11 +30,9 @@ there is exactly one source of truth for content and design.
 
 ## Content
 
-- **10 temples**: brihadeeswarar, gangaikonda-cholapuram, airavatesvara
-  (UNESCO Great Living Chola Temples); ekambareswarar, jambukeswarar,
-  arunachaleswarar, srikalahasti, nataraja-chidambaram (Pancha Bhoota
-  Sthalams); meenakshi-madurai, ramanathaswamy-rameswaram.
-- **2 circuits**: Great Living Chola Temples, Pancha Bhoota Sthalams.
+- **25 temples** across Tamil Nadu, Karnataka, Kerala, and Andhra/Telangana.
+- **5 circuits**: Great Living Chola Temples, Pancha Bhoota Sthalams, Divya
+  Desams, Sacred Ensembles of the Hoysalas, and Temples of Kanchipuram.
 - **6 locales**: `en` (source of truth), `ta`, `te`, `kn`, `ml`, `hi`.
 
 Content lives as one JSON file per temple/circuit **per locale** under
@@ -91,6 +90,21 @@ pnpm --filter @temple/mobile typecheck
 pnpm --filter @temple/mobile export:web    # bundle smoke test
 ```
 
+## Testing & quality
+
+Unit tests run on Node's built-in test runner with native TypeScript
+type-stripping — no test-runner dependency, no install step (Node 22+).
+
+```bash
+pnpm test        # core logic, catalog invariants, asset integrity
+pnpm budget      # performance budget against the built web export
+```
+
+CI gates every PR on content validation, translation QA, the unit suite, the
+web build + performance budget, and the mobile typecheck. See
+[`docs/testing.md`](docs/testing.md) and
+[`docs/deploy-readiness.md`](docs/deploy-readiness.md).
+
 ## Design system
 
 Warm "cream + temple-stone" palette with turmeric/vermilion accents and full
@@ -124,10 +138,13 @@ firebase deploy --only hosting,firestore:rules
 
 ## Status & caveats
 
-- Phase 3 build slices 0–6 complete: scaffold, English content, translations,
-  web PWA, mobile shell, infra.
+- Phase 3 build well underway: scaffold, content (25 temples × 6 locales, 5
+  circuits), web PWA, mobile shell, and infra are in place. Phase 4
+  (Test/Harden) has begun — automated tests, a CI performance budget, security
+  response headers + CSP, and PWA raster icons all landed; see
+  `docs/deploy-readiness.md` for the remaining Phase 5 checklist.
 - **Translations** (`ta te kn ml hi`) are high-quality drafts and should have a
   native-speaker review pass — especially deity names and theological terms —
-  before public launch.
+  before public launch (tracked in `docs/i18n/translation-review.md`).
 - Content prose is original editorial writing; facts are checked against the
   research notes in `docs/research/`.
