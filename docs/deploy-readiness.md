@@ -35,6 +35,9 @@ front, Firestore holds user state only, content-only v1).
   `pnpm --filter @temple/content icons`), satisfying Lighthouse installability.
 - **CI gate** — content validation + translation QA + unit tests + web build +
   mobile typecheck must pass on every PR.
+- **Performance budget** — `apps/web/scripts/check-budget.mjs` runs in CI after
+  the web build and fails the PR if the largest JS chunk, total JS (gzip), or
+  largest prerendered HTML exceeds its ceiling. Zero-dependency (Node's gzip).
 
 ## Outstanding before the Phase 5 gate
 
@@ -44,9 +47,9 @@ front, Firestore holds user state only, content-only v1).
    inline scripts and emit them either as a per-page `<meta>` CSP or a build-time
    header map, dropping `'unsafe-inline'` for scripts. Needs a build+deploy to
    verify end-to-end.
-2. **Lighthouse/perf budget in CI** — the design promises "designed-in"
-   performance (AVIF LCP, system Indic fonts, zero CLS). Add a Lighthouse CI run
-   (or asset-size budget) against the built export so regressions fail the PR.
+2. **Lighthouse CI (optional upgrade)** — an asset-size budget already gates CI
+   (see Ready). A full Lighthouse CI run against the export would additionally
+   catch runtime regressions (LCP, CLS, a11y) the byte-budget can't see.
 3. **Firestore composite indexes** — `infra/firestore.indexes.json` is present;
    confirm it matches the queries the favorites/visited features actually issue
    before launch.

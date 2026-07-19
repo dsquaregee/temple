@@ -53,6 +53,8 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile --filter @temple/web...
       - run: pnpm build:web
+      # Fail the build if the static export blows the performance budget.
+      - run: node apps/web/scripts/check-budget.mjs
 
   mobile:
     name: Typecheck mobile
