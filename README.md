@@ -7,7 +7,7 @@ festivals, and darshan guidance for each temple, in six languages.
 Owner: dsquaregee · support@dsquaregee.com
 
 > Phase 3 (Build) — PWA and native apps built in parallel over a shared content
-> core. The catalog has grown to **25 temples × 6 languages** across **5
+> core. The catalog has grown to **26 temples × 6 languages** across **5
 > pilgrimage circuits** (v1's committed scope was 10 × 6 / 2 circuits). See
 > `CLAUDE.md` for the full product brief and locked decisions.
 
@@ -30,7 +30,7 @@ there is exactly one source of truth for content and design.
 
 ## Content
 
-- **25 temples** across Tamil Nadu, Karnataka, Kerala, and Andhra/Telangana.
+- **26 temples** across Tamil Nadu, Karnataka, Kerala, and Andhra/Telangana.
 - **5 circuits**: Great Living Chola Temples, Pancha Bhoota Sthalams, Divya
   Desams, Sacred Ensembles of the Hoysalas, and Temples of Kanchipuram.
 - **6 locales**: `en` (source of truth), `ta`, `te`, `kn`, `ml`, `hi`.
@@ -138,7 +138,7 @@ firebase deploy --only hosting,firestore:rules
 
 ## Status & caveats
 
-- Phase 3 build well underway: scaffold, content (25 temples × 6 locales, 5
+- Phase 3 build well underway: scaffold, content (26 temples × 6 locales, 5
   circuits), web PWA, mobile shell, and infra are in place. Phase 4
   (Test/Harden) has begun — automated tests, a CI performance budget, security
   response headers + CSP, and PWA raster icons all landed; see
