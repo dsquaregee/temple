@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/venkateswara-tirumala.mp3",
     "durationSec": 278
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/venkateswara-tirumala.jpg",
+    "color": "#5C3A2E",
+    "alt": "വെങ്കടേശ്വര ക്ഷേത്രം, തിരുമല",
+    "credit": "Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0) · vijay chennupati from sydney, australia / Wikimedia Commons (CC BY 2.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons (CC BY-SA 2.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/venkateswara-tirumala.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/venkateswara-tirumala.jpg",
+    "durationSec": 209,
+    "credit": "Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0) · vijay chennupati from sydney, australia / Wikimedia Commons (CC BY 2.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

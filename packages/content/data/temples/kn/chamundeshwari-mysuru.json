@@ -30,5 +30,21 @@
     "dressCode": "ಭುಜ ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚುವ ನಿರಾಡಂಬರ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ; ದೇವಾಲಯದಲ್ಲಿ ಪಾದರಕ್ಷೆ ತೆಗೆಯಲಾಗುತ್ತದೆ.",
     "photography": "ಗರ್ಭಗುಡಿ ಒಳಗೆ ಛಾಯಾಗ್ರಹಣ ಸಾಮಾನ್ಯವಾಗಿ ಅನುಮತಿಸಲ್ಪಡುವುದಿಲ್ಲ; ಸೂಚನೆಗಳನ್ನು, ಸಿಬ್ಬಂದಿ ಮಾರ್ಗದರ್ಶನವನ್ನು ಅನುಸರಿಸಿ.",
     "gettingThere": "ಚಾಮುಂಡಿ ಬೆಟ್ಟ ಮೈಸೂರು ಕೇಂದ್ರದಿಂದ ಸುಮಾರು 13 ಕಿ.ಮೀ ದೂರದಲ್ಲಿ, ರಸ್ತೆ ಅಥವಾ ಕಲ್ಲಿನ ಮೆಟ್ಟಿಲ ದಾರಿಯಿಂದ ತಲುಪಲಾಗುತ್ತದೆ; ಮೈಸೂರಿಗೆ ರೈಲು ಜಂಕ್ಷನ್, ವಿಮಾನ ನಿಲ್ದಾಣ ಇವೆ, ಬೆಂಗಳೂರಿನ ದೊಡ್ಡ ವಿಮಾನ ನಿಲ್ದಾಣ ಸುಮಾರು 170 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/chamundeshwari-mysuru.mp3",
+    "durationSec": 187
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/chamundeshwari-mysuru.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಚಾಮುಂಡೇಶ್ವರಿ ದೇವಸ್ಥಾನ, ಮೈಸೂರು",
+    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/chamundeshwari-mysuru.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/chamundeshwari-mysuru.jpg",
+    "durationSec": 198,
+    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

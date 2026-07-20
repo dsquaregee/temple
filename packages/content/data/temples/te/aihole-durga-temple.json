@@ -32,5 +32,21 @@
     "dressCode": "నిరాడంబర దుస్తులు అభిలషణీయం; చెల్లాచెదురైన ఆలయాల మధ్య, కొండపై సన్నిధుల వరకు నడవడానికి సౌకర్యవంతమైన పాదరక్షలు సహాయకరం.",
     "photography": "ఫోటోగ్రఫీ సాధారణంగా అనుమతి; ట్రైపాడ్ లేదా వృత్తిపర చిత్రీకరణకు స్థల అధికారుల అనుమతి అవసరం కావచ్చు.",
     "gettingThere": "ఐహోళె బాగల్‌కోట్ జిల్లాలో, బాదామి నుండి సుమారు 35 కి.మీ, పట్టడకల్లు నుండి 15 కి.మీ దూరంలో, రహదారి ద్వారా చేరుకుంటారు; సమీప రైల్‌హెడ్‌లు బాదామి, బాగల్‌కోట్, సమీప విమానాశ్రయం హుబ్బళ్లి."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/aihole-durga-temple.mp3",
+    "durationSec": 205
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/aihole-durga-temple.jpg",
+    "color": "#5C3A2E",
+    "alt": "ఐహోళె దుర్గ ఆలయం",
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · AmlanTheTramp / Wikimedia Commons (CC BY-SA 4.0) · Akhil Balakrishnan91 / Wikimedia Commons (CC BY-SA 4.0) · S2001C / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/aihole-durga-temple.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/aihole-durga-temple.jpg",
+    "durationSec": 223,
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · AmlanTheTramp / Wikimedia Commons (CC BY-SA 4.0) · Akhil Balakrishnan91 / Wikimedia Commons (CC BY-SA 4.0) · S2001C / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

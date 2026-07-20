@@ -32,5 +32,21 @@
     "dressCode": "सादा पहनावा सराहा जाता है; उकेरी पत्थर की सीढ़ियों पर — जो खड़ी और पैरों के नीचे गरम हो सकती हैं — मज़बूत जूते सहायक हैं।",
     "photography": "गुफाओं में आमतौर पर फोटोग्राफी की अनुमति है; तिपाई या पेशेवर शूट के लिए स्थल-अधिकारियों की अनुमति आवश्यक हो सकती है।",
     "gettingThere": "बादामी बागलकोट ज़िले में, सड़क और रेल से जुड़ा है; इसका अपना रेलवे स्टेशन है, और निकटतम हवाई अड्डे हुबली (लगभग 105 कि.मी.) और बेलगावी हैं। ऐहोले और पट्टदकल थोड़ी दूरी पर हैं।"
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/badami-cave-temples.mp3",
+    "durationSec": 199
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/badami-cave-temples.jpg",
+    "color": "#5C3A2E",
+    "alt": "बादामी गुफा मंदिर",
+    "credit": "Ashok Vootla / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/badami-cave-temples.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/badami-cave-temples.jpg",
+    "durationSec": 183,
+    "credit": "Ashok Vootla / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

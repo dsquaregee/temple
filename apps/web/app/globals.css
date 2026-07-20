@@ -178,6 +178,20 @@ a {
   object-fit: cover;
   border: 0;
 }
+/* Solid hero background tones — one class per HERO_PALETTE entry
+   (packages/core/src/media.ts, applied via heroBgClass). Using a class instead
+   of an inline style keeps CSP style-src at 'self' with no 'unsafe-inline'. */
+.hero-bg-0 { background-color: #8a3324; }
+.hero-bg-1 { background-color: #7a5230; }
+.hero-bg-2 { background-color: #6b4a2b; }
+.hero-bg-3 { background-color: #5c3a2e; }
+.hero-bg-4 { background-color: #7c5e1e; }
+.hero-bg-5 { background-color: #4e5a34; }
+.hero-bg-6 { background-color: #3f5661; }
+.hero-bg-7 { background-color: #5a3d5c; }
+.hero-bg-8 { background-color: #8a4b08; }
+.hero-bg-9 { background-color: #495b7a; }
+.featured-link { display: block; }
 .hero__scrim {
   position: absolute;
   inset: 0;

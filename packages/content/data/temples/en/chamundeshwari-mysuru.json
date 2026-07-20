@@ -30,5 +30,21 @@
     "dressCode": "Modest traditional dress is appreciated, with shoulders and knees covered; footwear is removed at the temple.",
     "photography": "Photography is generally not permitted inside the sanctum; follow posted rules and staff guidance.",
     "gettingThere": "Chamundi Hill is about 13 km from central Mysuru, reached by road or the stone stairway; Mysuru has a railway junction and an airport, and Bengaluru’s larger airport is about 170 km away."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/chamundeshwari-mysuru.mp3",
+    "durationSec": 220
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/chamundeshwari-mysuru.jpg",
+    "color": "#5C3A2E",
+    "alt": "Chamundeshwari Temple, Mysuru",
+    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/chamundeshwari-mysuru.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/chamundeshwari-mysuru.jpg",
+    "durationSec": 167,
+    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

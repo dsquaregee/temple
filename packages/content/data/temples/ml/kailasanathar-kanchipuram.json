@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/kailasanathar-kanchipuram.mp3",
     "durationSec": 373
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kailasanathar-kanchipuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "കൈലാസനാഥർ ക്ഷേത്രം, കാഞ്ചീപുരം",
+    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/kailasanathar-kanchipuram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kailasanathar-kanchipuram.jpg",
+    "durationSec": 278,
+    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

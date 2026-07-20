@@ -30,5 +30,21 @@
     "dressCode": "कंधे और घुटने ढकने वाला सादा पारंपरिक पहनावा अपेक्षित है; मंदिर में जूते-चप्पल उतारे जाते हैं।",
     "photography": "गर्भगृह के भीतर फोटोग्राफी आमतौर पर अनुमत नहीं है; सूचनाओं और कर्मचारियों के मार्गदर्शन का पालन करें।",
     "gettingThere": "कोल्लूर उडुपी ज़िले में, उडुपी और मंगलुरु से लगभग 80 कि.मी. दूर है, मंगलुरु में निकटतम हवाई अड्डा है; निकटतम रेलहेड कुंदापुर और बैंदूर हैं, और मंदिर घाटों से होकर सड़क द्वारा पहुँचा जाता है।"
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/kollur-mookambika.mp3",
+    "durationSec": 210
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kollur-mookambika.jpg",
+    "color": "#5C3A2E",
+    "alt": "कोल्लूर मूकाम्बिका मंदिर",
+    "credit": "Starstuffseyyon / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/kollur-mookambika.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kollur-mookambika.jpg",
+    "durationSec": 185,
+    "credit": "Starstuffseyyon / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,21 @@
     "dressCode": "തോളും മുട്ടും മറയ്ക്കുന്ന ലളിതമായ പരമ്പരാഗത വസ്ത്രം അഭികാമ്യം; ക്ഷേത്രത്തിൽ പാദരക്ഷ അഴിക്കുന്നു.",
     "photography": "പുറംഭാഗത്തിന്റെയും ശിൽപങ്ങളുടെയും ഫോട്ടോഗ്രാഫി സാധാരണയായി അനുവദനീയം; ശ്രീകോവിലിലും പൂജയുടെ സമയത്തും നിർദേശങ്ങൾ പിന്തുടരുക.",
     "gettingThere": "പാലംപേട്ട് മുളുഗു ജില്ലയിൽ, വാരങ്കലിൽ നിന്ന് ഏകദേശം 70 കി.മീ, ഹൈദരാബാദിൽ നിന്ന് 200 കി.മീ അകലെയാണ്; ക്ഷേത്രം റോഡ് വഴി എത്തുന്നു, വാരങ്കൽ അടുത്ത പ്രധാന റെയിൽ ജംഗ്ഷൻ, ഹൈദരാബാദ് അടുത്ത വിമാനത്താവളം."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/ramappa-palampet.mp3",
+    "durationSec": 230
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ramappa-palampet.jpg",
+    "color": "#5C3A2E",
+    "alt": "രാമപ്പ ക്ഷേത്രം (രുദ്രേശ്വര), പാലംപേട്ട്",
+    "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/ramappa-palampet.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ramappa-palampet.jpg",
+    "durationSec": 175,
+    "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

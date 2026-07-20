@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/sringeri-sharada.mp3",
     "durationSec": 302
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/sringeri-sharada.jpg",
+    "color": "#5C3A2E",
+    "alt": "சாரதாம்பா கோயில், சிருங்கேரி",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Drsudagani / Wikimedia Commons (CC BY-SA 4.0) · Shyam Hegde / Wikimedia Commons (CC BY-SA 4.0) · Ashwin06k / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/sringeri-sharada.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/sringeri-sharada.jpg",
+    "durationSec": 282,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Drsudagani / Wikimedia Commons (CC BY-SA 4.0) · Shyam Hegde / Wikimedia Commons (CC BY-SA 4.0) · Ashwin06k / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

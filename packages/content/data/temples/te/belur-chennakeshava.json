@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/belur-chennakeshava.mp3",
     "durationSec": 276
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/belur-chennakeshava.jpg",
+    "color": "#5C3A2E",
+    "alt": "చెన్నకేశవ దేవాలయం, బేలూరు",
+    "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/belur-chennakeshava.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/belur-chennakeshava.jpg",
+    "durationSec": 304,
+    "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

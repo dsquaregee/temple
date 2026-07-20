@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/pattadakal-virupaksha.mp3",
     "durationSec": 320
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/pattadakal-virupaksha.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ, ಪಟ್ಟದಕಲ್ಲು",
+    "credit": "Sachin Ravikumar / Wikimedia Commons (CC BY-SA 4.0) · rajeshodayanchal / Wikimedia Commons (CC BY 3.0) · VasuVR / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/pattadakal-virupaksha.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/pattadakal-virupaksha.jpg",
+    "durationSec": 331,
+    "credit": "Sachin Ravikumar / Wikimedia Commons (CC BY-SA 4.0) · rajeshodayanchal / Wikimedia Commons (CC BY 3.0) · VasuVR / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

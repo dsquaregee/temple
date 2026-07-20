@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/ranganathaswamy-srirangam.mp3",
     "durationSec": 299
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ranganathaswamy-srirangam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Ranganathaswamy Temple, Srirangam",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/ranganathaswamy-srirangam.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ranganathaswamy-srirangam.jpg",
+    "durationSec": 234,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

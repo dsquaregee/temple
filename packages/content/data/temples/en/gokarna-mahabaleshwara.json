@@ -30,5 +30,15 @@
     "dressCode": "Traditional dress is required for the sanctum: men often worship bare-chested with a dhoti, and women in sarees or salwar kameez; shoulders and knees covered, footwear removed.",
     "photography": "Photography is generally not permitted inside the temple; follow posted rules and staff guidance.",
     "gettingThere": "Gokarna is in Uttara Kannada district on the coast, with its own small railway station on the Konkan Railway; Gokarna Road and Kumta are nearby railheads, and the nearest airports are Hubballi and Goa (Dabolim)."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/gokarna-mahabaleshwara.mp3",
+    "durationSec": 224
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gokarna-mahabaleshwara.jpg",
+    "color": "#5C3A2E",
+    "alt": "Gokarna Mahabaleshwara Temple",
+    "credit": "Vedamurthy.j / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

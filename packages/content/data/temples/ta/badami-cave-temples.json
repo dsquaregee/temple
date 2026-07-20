@@ -32,5 +32,21 @@
     "dressCode": "எளிமையான உடை விரும்பப்படுகிறது; குடையப்பட்ட கல் படிகளில் — செங்குத்தானதும் காலடியில் சூடானதுமாக இருக்கலாம் — உறுதியான காலணி உதவும்.",
     "photography": "குகைகளெங்கும் புகைப்படம் பொதுவாக அனுமதிக்கப்படுகிறது; முக்காலி அல்லது தொழில்முறை படப்பிடிப்புக்கு தல அதிகாரிகளின் அனுமதி தேவைப்படலாம்.",
     "gettingThere": "பாதாமி பாகல்கோட் மாவட்டத்தில், சாலை மற்றும் ரயிலால் இணைக்கப்பட்டுள்ளது; சொந்த ரயில் நிலையம் உண்டு, அருகிலுள்ள விமான நிலையங்கள் ஹுப்பள்ளி (சுமார் 105 கி.மீ) மற்றும் பெளகாவி. ஐஹோளேயும் பட்டடக்கல்லும் சிறிது தொலைவில் உள்ளன."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/badami-cave-temples.mp3",
+    "durationSec": 229
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/badami-cave-temples.jpg",
+    "color": "#5C3A2E",
+    "alt": "பாதாமி குகைக் கோயில்கள்",
+    "credit": "Ashok Vootla / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/badami-cave-temples.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/badami-cave-temples.jpg",
+    "durationSec": 214,
+    "credit": "Ashok Vootla / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

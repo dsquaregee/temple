@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/guruvayur-krishna.mp3",
     "durationSec": 357
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/guruvayur-krishna.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഗുരുവായൂർ ക്ഷേത്രം",
+    "credit": "Mike Finn / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · Vinayaraj / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/guruvayur-krishna.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/guruvayur-krishna.jpg",
+    "durationSec": 271,
+    "credit": "Mike Finn / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · Vinayaraj / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

@@ -32,5 +32,21 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது — ஆண்களுக்கு வேட்டி அல்லது கால்சட்டை, பெண்களுக்கு சேலை அல்லது சல்வார் கமீஸ், தோள்களும் முழங்கால்களும் மறைக்கப்பட வேண்டும். காலணிகள் வெளியே விடப்படுகின்றன.",
     "photography": "கருவறைக்குள் புகைப்படம் அனுமதிக்கப்படவில்லை; குறிப்பாக விழாக்களின்போது அறிவிப்புகளையும் ஊழியர் வழிகாட்டலையும் பின்பற்றவும்.",
     "gettingThere": "திருச்செந்தூர் தூத்துக்குடி மாவட்டத்தில் கடலோரமாக உள்ளது; தூத்துக்குடியிலிருந்து சுமார் 40 கி.மீ, திருநெல்வேலியிலிருந்து 60 கி.மீ — இரண்டும் ரயில் இணைப்புள்ளவை. அருகிலுள்ள விமான நிலையங்கள் தூத்துக்குடி, மதுரை. சொந்த ரயில் நிலையமும் அடிக்கடி பேருந்துகளும் உண்டு."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/thiruchendur-murugan.mp3",
+    "durationSec": 198
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruchendur-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "திருச்செந்தூர் முருகன் கோயில்",
+    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sreejith86cs / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/thiruchendur-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thiruchendur-murugan.jpg",
+    "durationSec": 185,
+    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sreejith86cs / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

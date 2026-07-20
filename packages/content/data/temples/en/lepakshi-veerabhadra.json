@@ -30,5 +30,21 @@
     "dressCode": "Modest dress is appreciated, with shoulders and knees covered; footwear is removed at the temple.",
     "photography": "Photography of the halls, murals, and monuments is generally allowed; follow any posted rules within the sanctum and during worship.",
     "gettingThere": "Lepakshi is in Sri Sathya Sai district, about 15 km from Hindupur and 120 km from Bengaluru, whose airport is the nearest; Hindupur is the closest railway station, and the temple is a short drive from the highway."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/lepakshi-veerabhadra.mp3",
+    "durationSec": 218
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/lepakshi-veerabhadra.jpg",
+    "color": "#5C3A2E",
+    "alt": "Lepakshi Veerabhadra Temple",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/lepakshi-veerabhadra.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/lepakshi-veerabhadra.jpg",
+    "durationSec": 174,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

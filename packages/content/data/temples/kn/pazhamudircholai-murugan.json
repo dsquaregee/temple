@@ -32,5 +32,21 @@
     "dressCode": "ನಿರಾಡಂಬರ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಪುರುಷರಿಗೆ ಪಂಚೆ ಅಥವಾ ಪ್ಯಾಂಟ್, ಮಹಿಳೆಯರಿಗೆ ಸೀರೆ ಅಥವಾ ಸಲ್ವಾರ್ ಕಮೀಜ್, ಭುಜ ಮೊಣಕಾಲುಗಳು ಮುಚ್ಚಿರಬೇಕು. ಪಾದರಕ್ಷೆಗಳನ್ನು ಹೊರಗೆ ಬಿಡಲಾಗುತ್ತದೆ.",
     "photography": "ಗರ್ಭಗುಡಿಯ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತ; ವಿಶೇಷವಾಗಿ ಉತ್ಸವಗಳ ಸಮಯದಲ್ಲಿ ಸೂಚನೆಗಳನ್ನು, ಸಿಬ್ಬಂದಿ ಮಾರ್ಗದರ್ಶನವನ್ನು ಅನುಸರಿಸಿ.",
     "gettingThere": "ಪ಴ಮುದಿರ್ಚೋಲೈ ಮದುರೈಗೆ ಈಶಾನ್ಯದಲ್ಲಿ ಸುಮಾರು 25 ಕಿ.ಮೀ ದೂರದಲ್ಲಿ ಅ಴ಗರ್ ಬೆಟ್ಟಗಳ ಮೇಲೆ, ಅ಴ಗರ್ ಕೋಯಿಲ್ ಮೂಲಕ ರಸ್ತೆಯಿಂದ ತಲುಪಲಾಗುತ್ತದೆ; ಸಮೀಪದ ರೈಲು ಜಂಕ್ಷನ್, ವಿಮಾನ ನಿಲ್ದಾಣ ಮದುರೈ, ಸ್ಥಳೀಯ ಬಸ್‌ಗಳು ಬೆಟ್ಟಕ್ಕೆ ಹೋಗುತ್ತವೆ."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/pazhamudircholai-murugan.mp3",
+    "durationSec": 176
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/pazhamudircholai-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಪ಴ಮುದಿರ್ಚೋಲೈ ಮುರುಗನ್ ದೇವಾಲಯ",
+    "credit": "Santhoshlife91 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0) · Baskaran V / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/pazhamudircholai-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/pazhamudircholai-murugan.jpg",
+    "durationSec": 187,
+    "credit": "Santhoshlife91 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0) · Baskaran V / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

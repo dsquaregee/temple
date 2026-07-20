@@ -32,5 +32,21 @@
     "dressCode": "தோள்களும் முழங்கால்களும் மறைக்கும் எளிமையான பாரம்பரிய உடை விரும்பப்படுகிறது; கோயிலில் காலணிகள் கழற்றப்படுகின்றன.",
     "photography": "வெளிப்புறமும் தூண்களும் பொதுவாக புகைப்படம் எடுக்க அனுமதி; சன்னதிகளிலும் வழிபாட்டின்போதும் அறிவிப்புகளைப் பின்பற்றவும்.",
     "gettingThere": "கோயில் ஹனுமகொண்டாவில், வாரங்கல் நகரப் பகுதியின் ஒரு பகுதி, ஹைதராபாத்திலிருந்து சுமார் 145 கி.மீ தொலைவில் உள்ளது; வாரங்கலில் முக்கிய ரயில் சந்தி உண்டு, அருகிலுள்ள விமான நிலையம் ஹைதராபாத்."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/thousand-pillar-warangal.mp3",
+    "durationSec": 207
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஆயிரம் தூண் கோயில், வாரங்கல்",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/thousand-pillar-warangal.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "durationSec": 195,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

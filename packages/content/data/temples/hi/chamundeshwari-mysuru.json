@@ -30,5 +30,21 @@
     "dressCode": "कंधे और घुटने ढकने वाला सादा पारंपरिक पहनावा अपेक्षित है; मंदिर में जूते-चप्पल उतारे जाते हैं।",
     "photography": "गर्भगृह के भीतर फोटोग्राफी आमतौर पर अनुमत नहीं है; सूचनाओं और कर्मचारियों के मार्गदर्शन का पालन करें।",
     "gettingThere": "चामुंडी पहाड़ी मैसूरु केंद्र से लगभग 13 कि.मी. दूर है, सड़क से या पत्थर की सीढ़ी-राह से पहुँची जाती है; मैसूरु में रेलवे जंक्शन और हवाई अड्डा है, और बेंगलुरु का बड़ा हवाई अड्डा लगभग 170 कि.मी. दूर है।"
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/chamundeshwari-mysuru.mp3",
+    "durationSec": 195
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/chamundeshwari-mysuru.jpg",
+    "color": "#5C3A2E",
+    "alt": "चामुंडेश्वरी मंदिर, मैसूरु",
+    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/chamundeshwari-mysuru.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/chamundeshwari-mysuru.jpg",
+    "durationSec": 180,
+    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -30,5 +30,21 @@
     "dressCode": "భుజాలు మోకాళ్లు కప్పి ఉంచే నిరాడంబర సంప్రదాయ దుస్తులు ఆశించబడతాయి; ఆలయం వద్ద పాదరక్షలు తీసివేయాలి.",
     "photography": "గర్భగుడి లోపల ఫోటోగ్రఫీ సాధారణంగా అనుమతించబడదు; సూచనలను, సిబ్బంది మార్గదర్శనాన్ని అనుసరించండి.",
     "gettingThere": "సింహాచలం విశాఖపట్నం నగరం నుండి సుమారు 16 కి.మీ దూరంలో ఉంది, నగరానికి ప్రధాన రైల్వే జంక్షన్, విమానాశ్రయం ఉన్నాయి; కొండ ఆలయం రహదారి ద్వారా చేరుకుంటారు, ఎక్కదలచినవారికి మెట్లు ఉన్నాయి."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/simhachalam-narasimha.mp3",
+    "durationSec": 181
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/simhachalam-narasimha.jpg",
+    "color": "#5C3A2E",
+    "alt": "సింహాచలం వరాహ లక్ష్మీ నరసింహ స్వామి ఆలయం",
+    "credit": "Divyapentapalli777 / Wikimedia Commons (CC BY-SA 3.0) · Thesukantapal / Wikimedia Commons (CC BY-SA 4.0) · PVRMurty1944 / Wikimedia Commons (CC0) · Adityamadhav83 / Wikimedia Commons (CC BY-SA 3.0) · eclicks_by_bunny / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/simhachalam-narasimha.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/simhachalam-narasimha.jpg",
+    "durationSec": 206,
+    "credit": "Divyapentapalli777 / Wikimedia Commons (CC BY-SA 3.0) · Thesukantapal / Wikimedia Commons (CC BY-SA 4.0) · PVRMurty1944 / Wikimedia Commons (CC0) · Adityamadhav83 / Wikimedia Commons (CC BY-SA 3.0) · eclicks_by_bunny / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

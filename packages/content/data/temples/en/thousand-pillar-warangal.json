@@ -32,5 +32,21 @@
     "dressCode": "Modest traditional dress is appreciated, with shoulders and knees covered; footwear is removed at the temple.",
     "photography": "Photography is generally allowed of the exterior and pillars; follow posted rules within the sanctums and during worship.",
     "gettingThere": "The temple is in Hanamkonda, part of the Warangal urban area, about 145 km from Hyderabad; Warangal has a major railway junction and the nearest airport is Hyderabad."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/thousand-pillar-warangal.mp3",
+    "durationSec": 206
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "color": "#5C3A2E",
+    "alt": "Thousand Pillar Temple, Warangal",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/thousand-pillar-warangal.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "durationSec": 162,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

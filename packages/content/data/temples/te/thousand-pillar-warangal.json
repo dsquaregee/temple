@@ -32,5 +32,21 @@
     "dressCode": "భుజాలు మోకాళ్లు కప్పి ఉంచే నిరాడంబర సంప్రదాయ దుస్తులు అభిలషణీయం; ఆలయం వద్ద పాదరక్షలు తీసివేయాలి.",
     "photography": "బాహ్య భాగం, స్తంభాల ఫోటోగ్రఫీ సాధారణంగా అనుమతి; గర్భగుడులలో, పూజ సమయంలో సూచనలను అనుసరించండి.",
     "gettingThere": "ఆలయం హనుమకొండలో, వరంగల్ నగర ప్రాంతంలో భాగం, హైదరాబాద్ నుండి సుమారు 145 కి.మీ దూరంలో ఉంది; వరంగల్‌కు ప్రధాన రైల్వే జంక్షన్ ఉంది, సమీప విమానాశ్రయం హైదరాబాద్."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/thousand-pillar-warangal.mp3",
+    "durationSec": 179
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "color": "#5C3A2E",
+    "alt": "వేయి స్తంభాల గుడి, వరంగల్",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/thousand-pillar-warangal.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "durationSec": 197,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

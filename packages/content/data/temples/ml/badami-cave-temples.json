@@ -32,5 +32,21 @@
     "dressCode": "ലളിതമായ വസ്ത്രം അഭികാമ്യം; കൊത്തിയ കൽപ്പടികളിൽ — കുത്തനെയുള്ളതും കാലിന് ചൂടുള്ളതുമാകാം — ഉറപ്പുള്ള പാദരക്ഷ സഹായകം.",
     "photography": "ഗുഹകളിലുടനീളം ഫോട്ടോഗ്രാഫി സാധാരണയായി അനുവദനീയം; ട്രൈപോഡ് അല്ലെങ്കിൽ പ്രൊഫഷണൽ ഷൂട്ടിന് സ്ഥല അധികൃതരുടെ അനുമതി വേണ്ടിവന്നേക്കാം.",
     "gettingThere": "ബാദാമി ബാഗൽക്കോട്ട് ജില്ലയിൽ, റോഡും റെയിലും വഴി ബന്ധിതം; സ്വന്തം റെയിൽവേ സ്റ്റേഷനുണ്ട്, അടുത്ത വിമാനത്താവളങ്ങൾ ഹുബ്ബള്ളി (ഏകദേശം 105 കി.മീ), ബെളഗാവി. ഐഹൊളെയും പട്ടടക്കല്ലും അൽപ്പദൂരത്താണ്."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/badami-cave-temples.mp3",
+    "durationSec": 217
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/badami-cave-temples.jpg",
+    "color": "#5C3A2E",
+    "alt": "ബാദാമി ഗുഹാ ക്ഷേത്രങ്ങൾ",
+    "credit": "Ashok Vootla / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/badami-cave-temples.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/badami-cave-temples.jpg",
+    "durationSec": 171,
+    "credit": "Ashok Vootla / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

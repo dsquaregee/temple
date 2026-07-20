@@ -32,5 +32,21 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது — ஆண்களுக்கு வேட்டி அல்லது கால்சட்டை, பெண்களுக்கு சேலை அல்லது சல்வார் கமீஸ், தோள்களும் முழங்கால்களும் மறைக்கப்பட வேண்டும். காலணிகள் வெளியே விடப்படுகின்றன.",
     "photography": "கருவறையைச் சுற்றி புகைப்படம் தடைசெய்யப்பட்டுள்ளது; குறிப்பாக விழாக்கள், அபிஷேகத்தின்போது அறிவிப்புகளையும் ஊழியர் வழிகாட்டலையும் பின்பற்றவும்.",
     "gettingThere": "சுவாமிமலை தஞ்சாவூர் மாவட்டத்தில் கும்பகோணத்திலிருந்து சுமார் 8 கி.மீ தொலைவில், சாலையால் நன்கு இணைக்கப்பட்டுள்ளது; அருகிலுள்ள ரயில் நிலையம் கும்பகோணம், திருச்சி விமான நிலையம் சுமார் 90 கி.மீ தொலைவில் உள்ளது."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/swamimalai-murugan.mp3",
+    "durationSec": 215
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/swamimalai-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "சுவாமிமலை முருகன் கோயில்",
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/swamimalai-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/swamimalai-murugan.jpg",
+    "durationSec": 203,
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

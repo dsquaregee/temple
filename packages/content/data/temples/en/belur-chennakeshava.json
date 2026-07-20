@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/belur-chennakeshava.mp3",
     "durationSec": 310
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/belur-chennakeshava.jpg",
+    "color": "#5C3A2E",
+    "alt": "Chennakeshava Temple, Belur",
+    "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/belur-chennakeshava.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/belur-chennakeshava.jpg",
+    "durationSec": 247,
+    "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

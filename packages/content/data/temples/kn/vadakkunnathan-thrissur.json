@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/vadakkunnathan-thrissur.mp3",
     "durationSec": 306
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vadakkunnathan-thrissur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವಡಕ್ಕುನ್ನಾಥನ್ ದೇವಾಲಯ, ತ್ರಿಶ್ಶೂರ್",
+    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0) · Vinusangam / Wikimedia Commons (CC BY-SA 4.0) · Ashish2py / Wikimedia Commons (CC BY-SA 4.0) · Devilal / Wikimedia Commons (CC BY-SA 4.0) · Ajay090 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/vadakkunnathan-thrissur.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/vadakkunnathan-thrissur.jpg",
+    "durationSec": 313,
+    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0) · Vinusangam / Wikimedia Commons (CC BY-SA 4.0) · Ashish2py / Wikimedia Commons (CC BY-SA 4.0) · Devilal / Wikimedia Commons (CC BY-SA 4.0) · Ajay090 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

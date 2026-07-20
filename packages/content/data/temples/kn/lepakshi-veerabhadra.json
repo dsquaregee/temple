@@ -30,5 +30,21 @@
     "dressCode": "ಭುಜ ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚುವ ನಿರಾಡಂಬರ ಉಡುಗೆ ಅಪೇಕ್ಷಣೀಯ; ದೇವಾಲಯದಲ್ಲಿ ಪಾದರಕ್ಷೆ ತೆಗೆಯಲಾಗುತ್ತದೆ.",
     "photography": "ಮಂಟಪಗಳು, ಭಿತ್ತಿಚಿತ್ರಗಳು, ಸ್ಮಾರಕಗಳ ಛಾಯಾಗ್ರಹಣ ಸಾಮಾನ್ಯವಾಗಿ ಅನುಮತಿ; ಗರ್ಭಗುಡಿಯಲ್ಲಿ, ಪೂಜೆಯ ಸಮಯದಲ್ಲಿ ಯಾವುದೇ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.",
     "gettingThere": "ಲೇಪಾಕ್ಷಿ ಶ್ರೀ ಸತ್ಯಸಾಯಿ ಜಿಲ್ಲೆಯಲ್ಲಿ, ಹಿಂದೂಪುರದಿಂದ ಸುಮಾರು 15 ಕಿ.ಮೀ, ಬೆಂಗಳೂರಿನಿಂದ 120 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ, ಅದರ ವಿಮಾನ ನಿಲ್ದಾಣ ಸಮೀಪ; ಹಿಂದೂಪುರ ಸಮೀಪದ ರೈಲು ನಿಲ್ದಾಣ, ದೇವಾಲಯ ಹೆದ್ದಾರಿಯಿಂದ ಸ್ವಲ್ಪ ದೂರ."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/lepakshi-veerabhadra.mp3",
+    "durationSec": 202
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/lepakshi-veerabhadra.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಲೇಪಾಕ್ಷಿ ವೀರಭದ್ರ ಸ್ವಾಮಿ ದೇವಾಲಯ",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/lepakshi-veerabhadra.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/lepakshi-veerabhadra.jpg",
+    "durationSec": 215,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

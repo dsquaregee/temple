@@ -32,5 +32,21 @@
     "dressCode": "నిరాడంబర దుస్తులు అభిలషణీయం; చెక్కిన రాతి మెట్లపై — నిటారుగా, కాలికి వెచ్చగా ఉండవచ్చు — దృఢమైన పాదరక్షలు సహాయకరం.",
     "photography": "గుహలంతటా ఫోటోగ్రఫీ సాధారణంగా అనుమతి; ట్రైపాడ్ లేదా వృత్తిపర చిత్రీకరణకు స్థల అధికారుల అనుమతి అవసరం కావచ్చు.",
     "gettingThere": "బాదామి బాగల్‌కోట్ జిల్లాలో, రహదారి, రైలుతో అనుసంధానం; సొంత రైల్వే స్టేషన్ ఉంది, సమీప విమానాశ్రయాలు హుబ్బళ్లి (సుమారు 105 కి.మీ), బెళగావి. ఐహోళె, పట్టడకల్లు కొద్ది దూరంలో ఉన్నాయి."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/badami-cave-temples.mp3",
+    "durationSec": 186
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/badami-cave-temples.jpg",
+    "color": "#5C3A2E",
+    "alt": "బాదామి గుహ ఆలయాలు",
+    "credit": "Ashok Vootla / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/badami-cave-temples.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/badami-cave-temples.jpg",
+    "durationSec": 213,
+    "credit": "Ashok Vootla / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

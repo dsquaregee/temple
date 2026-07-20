@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom';
-import { epochDay, indexOfDay, type Locale } from '@temple/core';
+import { epochDay, heroBgClass, indexOfDay, type Locale } from '@temple/core';
 import type { ResolvedHero } from '@/lib/hero';
 
 export interface FeaturedTemple {
@@ -44,8 +44,8 @@ export function DailyFeatured({
   ReactDOM.preload(hero.src, { as: 'image', fetchPriority: 'high' });
 
   return (
-    <a href={`/${locale}/temples/${temple.id}/`} style={{ display: 'block' }}>
-      <div className="hero hero--image" style={{ backgroundColor: hero.color }}>
+    <a className="featured-link" href={`/${locale}/temples/${temple.id}/`}>
+      <div className={`hero hero--image ${heroBgClass(hero.color)}`}>
         {hero.sources?.avif || hero.sources?.webp ? (
           <picture>
             {hero.sources.avif && (

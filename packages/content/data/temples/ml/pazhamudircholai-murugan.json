@@ -32,5 +32,21 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — പുരുഷന്മാർക്ക് മുണ്ട് അല്ലെങ്കിൽ പാന്റ്, സ്ത്രീകൾക്ക് സാരി അല്ലെങ്കിൽ സൽവാർ കമീസ്, തോളും മുട്ടും മറയ്ക്കണം. പാദരക്ഷകൾ പുറത്ത് അഴിക്കുന്നു.",
     "photography": "ശ്രീകോവിലിനു ചുറ്റും ഫോട്ടോഗ്രാഫി നിയന്ത്രിതമാണ്; വിശേഷിച്ച് ഉത്സവങ്ങളുടെ സമയത്ത് നിർദേശങ്ങളും ജീവനക്കാരുടെ മാർഗനിർദേശവും പിന്തുടരുക.",
     "gettingThere": "പഴമുദിർചോലൈ മധുരയ്ക്ക് വടക്കുകിഴക്ക് ഏകദേശം 25 കി.മീ അകലെ അഴഗർ കുന്നുകളിൽ, അഴഗർ കോയിൽ വഴി റോഡിലൂടെ എത്തുന്നു; അടുത്തുള്ള റെയിൽവേ ജംഗ്ഷനും വിമാനത്താവളവും മധുര, പ്രാദേശിക ബസുകൾ കുന്നിലേക്കുണ്ട്."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/pazhamudircholai-murugan.mp3",
+    "durationSec": 201
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/pazhamudircholai-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "പഴമുദിർചോലൈ മുരുകൻ ക്ഷേത്രം",
+    "credit": "Santhoshlife91 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0) · Baskaran V / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/pazhamudircholai-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/pazhamudircholai-murugan.jpg",
+    "durationSec": 157,
+    "credit": "Santhoshlife91 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0) · Baskaran V / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

@@ -32,5 +32,21 @@
     "dressCode": "ലളിതമായ വസ്ത്രം അഭികാമ്യം; ചിതറിക്കിടക്കുന്ന ക്ഷേത്രങ്ങൾക്കിടയിലും കുന്നിൻമുകളിലെ സന്നിധികളിലേക്കും നടക്കാൻ സൗകര്യപ്രദമായ പാദരക്ഷ സഹായകം.",
     "photography": "ഫോട്ടോഗ്രാഫി സാധാരണയായി അനുവദനീയം; ട്രൈപോഡ് അല്ലെങ്കിൽ പ്രൊഫഷണൽ ഷൂട്ടിന് സ്ഥല അധികൃതരുടെ അനുമതി വേണ്ടിവന്നേക്കാം.",
     "gettingThere": "ഐഹൊളെ ബാഗൽക്കോട്ട് ജില്ലയിൽ, ബാദാമിയിൽ നിന്ന് ഏകദേശം 35 കി.മീ, പട്ടടക്കല്ലിൽ നിന്ന് 15 കി.മീ അകലെ, റോഡ് വഴി എത്തുന്നു; അടുത്ത റെയിൽഹെഡുകൾ ബാദാമി, ബാഗൽക്കോട്ട്, അടുത്ത വിമാനത്താവളം ഹുബ്ബള്ളി."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/aihole-durga-temple.mp3",
+    "durationSec": 239
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/aihole-durga-temple.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഐഹൊളെ ദുർഗ ക്ഷേത്രം",
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · AmlanTheTramp / Wikimedia Commons (CC BY-SA 4.0) · Akhil Balakrishnan91 / Wikimedia Commons (CC BY-SA 4.0) · S2001C / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/aihole-durga-temple.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/aihole-durga-temple.jpg",
+    "durationSec": 179,
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · AmlanTheTramp / Wikimedia Commons (CC BY-SA 4.0) · Akhil Balakrishnan91 / Wikimedia Commons (CC BY-SA 4.0) · S2001C / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,6 +36,14 @@ front, Firestore holds user state only, content-only v1).
   script fails the meta's hash check and is blocked. Verified end-to-end with a
   headless browser: the app hydrates with zero violations, and an injected
   unhashed inline script is blocked.
+- **CSP `style-src 'self'`** — the export carries **no inline styles**. The only
+  ones (per-temple hero background tones + one `display:block`) were moved to
+  CSS classes: hero tones map to `.hero-bg-*` utilities (one per `HERO_PALETTE`
+  entry, applied via `heroBgClass`), so the header CSP drops `style-src`'s
+  `'unsafe-inline'` entirely — no hashes, no `'unsafe-hashes'`. Verified with a
+  headless browser under the enforced header: all hero backgrounds render, zero
+  CSP violations, and an injected inline `<style>` is blocked. A content test
+  guards that every stored `hero.color` stays a palette tone.
 - **PWA icons** — `manifest.webmanifest` ships the source SVG plus rasterised
   `192×192` and `512×512` maskable PNGs (generated from the SVG by
   `pnpm --filter @temple/content icons`), satisfying Lighthouse installability.
@@ -44,17 +52,18 @@ front, Firestore holds user state only, content-only v1).
 - **Performance budget** — `apps/web/scripts/check-budget.mjs` runs in CI after
   the web build and fails the PR if the largest JS chunk, total JS (gzip), or
   largest prerendered HTML exceeds its ceiling. Zero-dependency (Node's gzip).
+- **Lighthouse CI** — a `lighthouse` CI job serves the export with the real
+  `firebase.json` headers (`scripts/serve-out.mjs`) and runs Lighthouse
+  (`@lhci/cli`, `lighthouserc.json`) over five representative pages (home, a
+  placeholder-hero temple, a real-photo temple, a circuit, a non-English page).
+  Gates **accessibility ≥ 0.9, SEO ≥ 0.95, best-practices ≥ 0.9, CLS ≤ 0.1**;
+  performance is a non-blocking warning (aggregate score varies with runner
+  load — the byte budget above is the hard performance gate). Current export
+  measures a11y 0.96, SEO 1.0, best-practices ≥ 0.96, CLS ≤ 0.004.
 
 ## Outstanding before the Phase 5 gate
 
-1. **CSP style-src hardening (optional)** — inline scripts are now hash-pinned
-   (see Ready); `style-src` still allows `'unsafe-inline'` because Next injects
-   inline styles that are harder to enumerate and far lower risk than script
-   injection. Hashing or externalising them would close the last `unsafe-inline`.
-2. **Lighthouse CI (optional upgrade)** — an asset-size budget already gates CI
-   (see Ready). A full Lighthouse CI run against the export would additionally
-   catch runtime regressions (LCP, CLS, a11y) the byte-budget can't see.
-3. **Monitoring** — no error/analytics wiring yet. Recommended default:
+1. **Monitoring** — no error/analytics wiring yet. Recommended default:
    **Cloudflare Web Analytics** (DNS is already on Cloudflare) — privacy-first,
    cookieless, and **zero code / zero CSP change** when enabled at the Cloudflare
    dashboard, so it doesn't touch the strict `script-src`. An in-app tool (e.g.

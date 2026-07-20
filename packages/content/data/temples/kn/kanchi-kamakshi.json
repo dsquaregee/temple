@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/kanchi-kamakshi.mp3",
     "durationSec": 233
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kanchi-kamakshi.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಕಾಮಾಕ್ಷಿ ಅಮ್ಮನ್ ದೇವಾಲಯ, ಕಾಂಚೀಪುರಂ",
+    "credit": "Jbuchholz / Wikimedia Commons (CC BY-SA 4.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/kanchi-kamakshi.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kanchi-kamakshi.jpg",
+    "durationSec": 245,
+    "credit": "Jbuchholz / Wikimedia Commons (CC BY-SA 4.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }
 }

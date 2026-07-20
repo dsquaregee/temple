@@ -32,5 +32,21 @@
     "dressCode": "నిరాడంబర సంప్రదాయ దుస్తులు ఆశించబడతాయి — పురుషులకు ధోతీ లేదా ప్యాంటు, స్త్రీలకు చీర లేదా సల్వార్ కమీజ్, భుజాలు మోకాళ్లు కప్పబడాలి. పాదరక్షలు బయట వదులుతారు.",
     "photography": "గర్భగుడి చుట్టూ ఫోటోగ్రఫీ నిషేధించబడింది; ముఖ్యంగా ఉత్సవాల సమయంలో సూచనలను, సిబ్బంది మార్గదర్శనాన్ని అనుసరించండి.",
     "gettingThere": "పఴముదిర్చోలై మదురైకి ఈశాన్యంగా సుమారు 25 కి.మీ దూరంలో అఴగర్ కొండలపై, అఴగర్ కోయిల్ మీదుగా రహదారి ద్వారా చేరుకుంటారు; సమీప రైల్వే జంక్షన్, విమానాశ్రయం మదురై, స్థానిక బస్సులు కొండకు వెళ్తాయి."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/pazhamudircholai-murugan.mp3",
+    "durationSec": 166
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/pazhamudircholai-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "పఴముదిర్చోలై మురుగన్ ఆలయం",
+    "credit": "Santhoshlife91 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0) · Baskaran V / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/pazhamudircholai-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/pazhamudircholai-murugan.jpg",
+    "durationSec": 189,
+    "credit": "Santhoshlife91 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0) · Baskaran V / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

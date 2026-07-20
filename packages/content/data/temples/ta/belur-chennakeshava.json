@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/belur-chennakeshava.mp3",
     "durationSec": 319
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/belur-chennakeshava.jpg",
+    "color": "#5C3A2E",
+    "alt": "சென்னகேசவ கோயில், பேலூர்",
+    "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/belur-chennakeshava.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/belur-chennakeshava.jpg",
+    "durationSec": 303,
+    "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
