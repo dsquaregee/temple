@@ -6,13 +6,5 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| srisailam-mallikarjuna | 3 | ✅ included |
-| swamimalai-murugan | 6 | ✅ included |
-| thiruchendur-murugan | 6 | ✅ included |
-| thiruparankundram-murugan | 6 | ✅ included |
-| thiruttani-murugan | 3 | ✅ included |
-| thousand-pillar-warangal | 6 | ✅ included |
-| udupi-krishna | 6 | ✅ included |
-| vadakkunnathan-thrissur | 6 | ✅ included |
-| venkateswara-tirumala | 6 | ✅ included |
-| virupaksha-hampi | 3 | ✅ included |
+| badami-cave-temples | 3 | ✅ included |
+| kollur-mookambika | 3 | ✅ included |
