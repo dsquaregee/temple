@@ -6,17 +6,13 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| badami-cave-temples | 6 | ✅ included |
-| kapaleeshwarar-mylapore | 6 | ✅ included |
-| kollur-mookambika | 6 | ✅ included |
-| lepakshi-veerabhadra | 6 | ✅ included |
-| padmanabhaswamy-thiruvananthapuram | 3 | ✅ included |
-| palani-murugan | 6 | ✅ included |
-| pattadakal-virupaksha | 5 | ✅ included |
-| pazhamudircholai-murugan | 3 | ✅ included |
-| ramappa-palampet | 6 | ✅ included |
-| ranganathaswamy-srirangam | 3 | ✅ included |
-| shore-temple-mahabalipuram | 6 | ✅ included |
-| simhachalam-narasimha | 6 | ✅ included |
-| somanathapura-keshava | 6 | ✅ included |
-| sringeri-sharada | 6 | ✅ included |
+| srisailam-mallikarjuna | 3 | ✅ included |
+| swamimalai-murugan | 6 | ✅ included |
+| thiruchendur-murugan | 6 | ✅ included |
+| thiruparankundram-murugan | 6 | ✅ included |
+| thiruttani-murugan | 3 | ✅ included |
+| thousand-pillar-warangal | 6 | ✅ included |
+| udupi-krishna | 6 | ✅ included |
+| vadakkunnathan-thrissur | 6 | ✅ included |
+| venkateswara-tirumala | 6 | ✅ included |
+| virupaksha-hampi | 3 | ✅ included |

@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/udupi-krishna.mp3",
     "durationSec": 285
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/udupi-krishna.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ",
+    "credit": "Uttpal Krushna / Wikimedia Commons (CC BY-SA 4.0) · Avinashisonline / Wikimedia Commons (CC BY-SA 4.0) · Arun k01 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/udupi-krishna.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/udupi-krishna.jpg",
+    "durationSec": 296,
+    "credit": "Uttpal Krushna / Wikimedia Commons (CC BY-SA 4.0) · Avinashisonline / Wikimedia Commons (CC BY-SA 4.0) · Arun k01 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

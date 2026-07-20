@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/thiruparankundram-murugan.mp3",
     "durationSec": 205
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruparankundram-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "Thiruparankundram Murugan Temple",
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/thiruparankundram-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thiruparankundram-murugan.jpg",
+    "durationSec": 159,
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)"
   }
 }

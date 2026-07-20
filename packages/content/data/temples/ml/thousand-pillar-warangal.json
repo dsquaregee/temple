@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/thousand-pillar-warangal.mp3",
     "durationSec": 207
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "color": "#5C3A2E",
+    "alt": "ആയിരം തൂൺ ക്ഷേത്രം, വാരങ്കൽ",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/thousand-pillar-warangal.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "durationSec": 159,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

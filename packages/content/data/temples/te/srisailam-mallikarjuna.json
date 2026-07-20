@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/srisailam-mallikarjuna.mp3",
     "durationSec": 188
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srisailam-mallikarjuna.jpg",
+    "color": "#5C3A2E",
+    "alt": "శ్రీశైలం మల్లికార్జున స్వామి ఆలయం",
+    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/srisailam-mallikarjuna.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/srisailam-mallikarjuna.jpg",
+    "durationSec": 208,
+    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)"
   }
 }

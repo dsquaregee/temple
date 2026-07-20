@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/swamimalai-murugan.mp3",
     "durationSec": 215
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/swamimalai-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "சுவாமிமலை முருகன் கோயில்",
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/swamimalai-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/swamimalai-murugan.jpg",
+    "durationSec": 203,
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

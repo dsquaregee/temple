@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/thiruchendur-murugan.mp3",
     "durationSec": 198
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruchendur-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "திருச்செந்தூர் முருகன் கோயில்",
+    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sreejith86cs / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/thiruchendur-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thiruchendur-murugan.jpg",
+    "durationSec": 185,
+    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sreejith86cs / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

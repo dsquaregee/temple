@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/thousand-pillar-warangal.mp3",
     "durationSec": 206
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "color": "#5C3A2E",
+    "alt": "Thousand Pillar Temple, Warangal",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/thousand-pillar-warangal.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "durationSec": 162,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

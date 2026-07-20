@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/srisailam-mallikarjuna.mp3",
     "durationSec": 199
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srisailam-mallikarjuna.jpg",
+    "color": "#5C3A2E",
+    "alt": "श्रीशैलम मल्लिकार्जुन स्वामी मंदिर",
+    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/srisailam-mallikarjuna.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/srisailam-mallikarjuna.jpg",
+    "durationSec": 179,
+    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)"
   }
 }

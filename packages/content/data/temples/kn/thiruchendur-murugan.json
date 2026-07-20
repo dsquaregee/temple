@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/thiruchendur-murugan.mp3",
     "durationSec": 178
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruchendur-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "ತಿರುಚ್ಚೆಂದೂರ್ ಮುರುಗನ್ ದೇವಾಲಯ",
+    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sreejith86cs / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/thiruchendur-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thiruchendur-murugan.jpg",
+    "durationSec": 188,
+    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sreejith86cs / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

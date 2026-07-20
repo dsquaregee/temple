@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/virupaksha-hampi.mp3",
     "durationSec": 328
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/virupaksha-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ, ಹಂಪೆ",
+    "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/virupaksha-hampi.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/virupaksha-hampi.jpg",
+    "durationSec": 346,
+    "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

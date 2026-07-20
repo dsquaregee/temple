@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/udupi-krishna.mp3",
     "durationSec": 335
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/udupi-krishna.jpg",
+    "color": "#5C3A2E",
+    "alt": "ശ്രീ കൃഷ്ണ മഠം, ഉഡുപ്പി",
+    "credit": "Uttpal Krushna / Wikimedia Commons (CC BY-SA 4.0) · Avinashisonline / Wikimedia Commons (CC BY-SA 4.0) · Arun k01 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/udupi-krishna.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/udupi-krishna.jpg",
+    "durationSec": 248,
+    "credit": "Uttpal Krushna / Wikimedia Commons (CC BY-SA 4.0) · Avinashisonline / Wikimedia Commons (CC BY-SA 4.0) · Arun k01 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

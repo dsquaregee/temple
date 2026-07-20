@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/thiruttani-murugan.mp3",
     "durationSec": 181
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruttani-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "திருத்தணி முருகன் கோயில்",
+    "credit": "Shivashanky / Wikimedia Commons (CC BY-SA 4.0) · Sivanantham govindan / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/thiruttani-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thiruttani-murugan.jpg",
+    "durationSec": 175,
+    "credit": "Shivashanky / Wikimedia Commons (CC BY-SA 4.0) · Sivanantham govindan / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

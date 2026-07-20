@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/thousand-pillar-warangal.mp3",
     "durationSec": 189
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "color": "#5C3A2E",
+    "alt": "हज़ार स्तंभ मंदिर, वारंगल",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/thousand-pillar-warangal.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thousand-pillar-warangal.jpg",
+    "durationSec": 175,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }
