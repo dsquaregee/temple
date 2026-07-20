@@ -137,9 +137,32 @@ const CURATED = {
     'File:Sree Padmanabhaswamy Temple at night.jpg',
     'File:Padmanabhaswamy Temple Gopuram.jpg',
   ],
+  // Name+city search returned the wrong subject as the top hit for these three
+  // (contact-sheet audit, 2026-07): the Tiruchirappalli Rock Fort for Srirangam,
+  // the Mallikarjuna temple at *Kuruvatti* for Srisailam, and Hampi's Underground
+  // Shiva temple for Virupaksha. Curated to the right temple, reviewed by eye.
+  'ranganathaswamy-srirangam': [
+    'File:Srirangam-Ranganathaswamy Temple-WUS03729.jpg',
+    'File:Srirangam-Ranganathaswamy Temple-WUS03668.jpg',
+    'File:Srirangam-Ranganathaswamy Temple-WUS03719.jpg',
+  ],
+  'srisailam-mallikarjuna': [
+    'File:SRISAILAM TEMPLE,AP - panoramio.jpg',
+    'File:2025 West Gopuram and Bhramaramba Devi temple view in Srisailam.jpg',
+    'File:Night view of Srisailam Temple South Gopuram.jpg',
+  ],
+  'virupaksha-hampi': [
+    'File:Virupaksha Temple - Hampi 01.jpg',
+    'File:Virupaksha Temple - Hampi 02.jpg',
+    'File:Virupaksha Temple - Hampi 03.jpg',
+  ],
 };
 
-const EXCLUDE = /(\bmap\b|plan|diagram|sketch|drawing|engraving|lithograph|inscription|logo|seal|coin|chart|graph|\.svg|panorama.*stitch)/i;
+const EXCLUDE = /(\bmap\b|plan|diagram|sketch|drawing|engraving|lithograph|inscription|logo|seal|coin|chart|graph|\.svg|panorama.*stitch|\b3d\b|stereo)/i;
+// A hero is cropped to 16:9; a "normal" landscape frames the temple well, while
+// ultra-wide files are usually panoramas/stereo stitches that crop to a sliver.
+const MAX_ASPECT = 3.0; // reject wider than this outright (panorama)
+const isHeroAspect = (c) => c.aspect >= 1.2 && c.aspect <= 2.1;
 const OK_LICENSE = /(cc[ -]?by([ -]sa)?|cc0|public domain|pd-|no restrictions)/i;
 const BAD_LICENSE = /(non[- ]?free|fair use|all rights reserved|copyright)/i;
 
@@ -195,7 +218,12 @@ async function candidates(temple) {
     }
     if (byTitle.size >= PHOTOS_PER) break; // enough — skip remaining fallbacks
   }
-  return [...byTitle.values()].sort((a, b) => b.mp - a.mp).slice(0, PHOTOS_PER);
+  // Hero is picks[0]: prefer a normal-aspect frame over a wide one, then by
+  // resolution. This keeps a barely-landscape 2.9:1 shot from beating a clean
+  // 3:2 temple photo just because it has more pixels.
+  return [...byTitle.values()]
+    .sort((a, b) => (isHeroAspect(b) ? 1 : 0) - (isHeroAspect(a) ? 1 : 0) || b.mp - a.mp)
+    .slice(0, PHOTOS_PER);
 }
 
 async function searchCommons(query) {
@@ -219,7 +247,9 @@ async function searchCommons(query) {
     if (!/^image\/(jpeg|png)$/.test(info.mime || '')) continue;
     const mp = (info.width * info.height) / 1e6;
     if (mp < MIN_MP) continue;
-    if (info.width < info.height * 1.15) continue; // landscape only
+    const aspect = info.width / info.height;
+    if (aspect < 1.15) continue; // portrait — landscape only
+    if (aspect > MAX_ASPECT) continue; // panorama/stitch — bad hero, crops to a sliver
     const meta = info.extmetadata || {};
     const lic = stripHtml(meta.LicenseShortName?.value) + ' ' + stripHtml(meta.License?.value) + ' ' + stripHtml(meta.UsageTerms?.value);
     if (BAD_LICENSE.test(lic) || !OK_LICENSE.test(lic)) continue;
@@ -228,6 +258,7 @@ async function searchCommons(query) {
     out.push({
       title,
       mp: +mp.toFixed(1),
+      aspect: +aspect.toFixed(2),
       thumb: info.thumburl || info.url,
       full: info.url,
       credit: `${artist} / Wikimedia Commons (${licName})`,
