@@ -156,6 +156,19 @@ const CURATED = {
     'File:Virupaksha Temple - Hampi 02.jpg',
     'File:Virupaksha Temple - Hampi 03.jpg',
   ],
+  // QC of the rendered heroes (2026-07): the auto pick for Kollur was a kolam
+  // being drawn on pavement (no temple in frame); Badami's was a lone relief.
+  // Curated to the actual temple architecture, reviewed by eye.
+  'kollur-mookambika': [
+    'File:Kollur Mookambika Temple main shrine.jpg',
+    'File:Kollur Mookambika temple east entrance gate.jpg',
+    'File:Scenes from Kollur Mookambika temple - 2017 (11).jpg',
+  ],
+  'badami-cave-temples': [
+    'File:Badami Rock cut cave.jpg',
+    'File:Badami rock cut caves.jpg',
+    'File:6th century Ardhanarishwara Badami Caves.jpg',
+  ],
 };
 
 const EXCLUDE = /(\bmap\b|plan|diagram|sketch|drawing|engraving|lithograph|inscription|logo|seal|coin|chart|graph|\.svg|panorama.*stitch|\b3d\b|stereo)/i;
