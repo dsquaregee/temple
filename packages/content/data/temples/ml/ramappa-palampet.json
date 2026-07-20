@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/ramappa-palampet.mp3",
     "durationSec": 230
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ramappa-palampet.jpg",
+    "color": "#5C3A2E",
+    "alt": "രാമപ്പ ക്ഷേത്രം (രുദ്രേശ്വര), പാലംപേട്ട്",
+    "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/ramappa-palampet.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ramappa-palampet.jpg",
+    "durationSec": 175,
+    "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

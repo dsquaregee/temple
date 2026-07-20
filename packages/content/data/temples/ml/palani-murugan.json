@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/palani-murugan.mp3",
     "durationSec": 188
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/palani-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "പളനി മുരുകൻ ക്ഷേത്രം",
+    "credit": "Vengolis / Wikimedia Commons (CC BY-SA 4.0) · Jegan12345 / Wikimedia Commons (CC BY-SA 4.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rejeesh Irinave / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/palani-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/palani-murugan.jpg",
+    "durationSec": 147,
+    "credit": "Vengolis / Wikimedia Commons (CC BY-SA 4.0) · Jegan12345 / Wikimedia Commons (CC BY-SA 4.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rejeesh Irinave / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

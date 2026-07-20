@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/padmanabhaswamy-thiruvananthapuram.mp3",
     "durationSec": 318
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/padmanabhaswamy-thiruvananthapuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಪದ್ಮನಾಭಸ್ವಾಮಿ ದೇವಾಲಯ, ತಿರುವನಂತಪುರಂ",
+    "credit": "Shishirdasika / Wikimedia Commons (CC BY-SA 4.0) · JVN5871 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/padmanabhaswamy-thiruvananthapuram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/padmanabhaswamy-thiruvananthapuram.jpg",
+    "durationSec": 330,
+    "credit": "Shishirdasika / Wikimedia Commons (CC BY-SA 4.0) · JVN5871 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

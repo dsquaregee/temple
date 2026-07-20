@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/pattadakal-virupaksha.mp3",
     "durationSec": 328
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/pattadakal-virupaksha.jpg",
+    "color": "#5C3A2E",
+    "alt": "विरूपाक्ष मंदिर, पट्टदकल्लु",
+    "credit": "Sachin Ravikumar / Wikimedia Commons (CC BY-SA 4.0) · rajeshodayanchal / Wikimedia Commons (CC BY 3.0) · VasuVR / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/pattadakal-virupaksha.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/pattadakal-virupaksha.jpg",
+    "durationSec": 293,
+    "credit": "Sachin Ravikumar / Wikimedia Commons (CC BY-SA 4.0) · rajeshodayanchal / Wikimedia Commons (CC BY 3.0) · VasuVR / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

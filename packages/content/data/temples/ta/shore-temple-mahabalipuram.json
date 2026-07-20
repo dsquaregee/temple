@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/shore-temple-mahabalipuram.mp3",
     "durationSec": 301
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/shore-temple-mahabalipuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "கடற்கரைக் கோயில், மாமல்லபுரம்",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/shore-temple-mahabalipuram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/shore-temple-mahabalipuram.jpg",
+    "durationSec": 281,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

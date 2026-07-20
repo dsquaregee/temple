@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/pazhamudircholai-murugan.mp3",
     "durationSec": 183
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/pazhamudircholai-murugan.jpg",
+    "color": "#5C3A2E",
+    "alt": "பழமுதிர்ச்சோலை முருகன் கோயில்",
+    "credit": "Santhoshlife91 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0) · Baskaran V / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/pazhamudircholai-murugan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/pazhamudircholai-murugan.jpg",
+    "durationSec": 175,
+    "credit": "Santhoshlife91 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0) · Baskaran V / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/somanathapura-keshava.mp3",
     "durationSec": 295
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/somanathapura-keshava.jpg",
+    "color": "#5C3A2E",
+    "alt": "கேசவர் கோயில், சோமனாதபுரம்",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · HPNadig / Wikimedia Commons (CC BY-SA 3.0) · Dushyant Naresh / Wikimedia Commons (CC BY-SA 3.0) · Purshi / Wikimedia Commons (CC BY-SA 3.0) · Sanandana C M / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/somanathapura-keshava.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/somanathapura-keshava.jpg",
+    "durationSec": 281,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · HPNadig / Wikimedia Commons (CC BY-SA 3.0) · Dushyant Naresh / Wikimedia Commons (CC BY-SA 3.0) · Purshi / Wikimedia Commons (CC BY-SA 3.0) · Sanandana C M / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -6,14 +6,17 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| aihole-durga-temple | 6 | ✅ included |
 | badami-cave-temples | 6 | ✅ included |
-| belur-chennakeshava | 6 | ✅ included |
-| chamundeshwari-mysuru | 6 | ✅ included |
-| gokarna-mahabaleshwara | 1 | ◐ hero only (< 3 for video) |
-| guruvayur-krishna | 6 | ✅ included |
-| halebidu-hoysaleswara | 6 | ✅ included |
-| kailasanathar-kanchipuram | 6 | ✅ included |
-| kanchi-kamakshi | 6 | ✅ included |
 | kapaleeshwarar-mylapore | 6 | ✅ included |
 | kollur-mookambika | 6 | ✅ included |
+| lepakshi-veerabhadra | 6 | ✅ included |
+| padmanabhaswamy-thiruvananthapuram | 3 | ✅ included |
+| palani-murugan | 6 | ✅ included |
+| pattadakal-virupaksha | 5 | ✅ included |
+| pazhamudircholai-murugan | 3 | ✅ included |
+| ramappa-palampet | 6 | ✅ included |
+| ranganathaswamy-srirangam | 3 | ✅ included |
+| shore-temple-mahabalipuram | 6 | ✅ included |
+| simhachalam-narasimha | 6 | ✅ included |
+| somanathapura-keshava | 6 | ✅ included |
+| sringeri-sharada | 6 | ✅ included |

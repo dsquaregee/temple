@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/simhachalam-narasimha.mp3",
     "durationSec": 191
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/simhachalam-narasimha.jpg",
+    "color": "#5C3A2E",
+    "alt": "सिंहाचलम वराह लक्ष्मी नरसिंह स्वामी मंदिर",
+    "credit": "Divyapentapalli777 / Wikimedia Commons (CC BY-SA 3.0) · Thesukantapal / Wikimedia Commons (CC BY-SA 4.0) · PVRMurty1944 / Wikimedia Commons (CC0) · Adityamadhav83 / Wikimedia Commons (CC BY-SA 3.0) · eclicks_by_bunny / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/simhachalam-narasimha.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/simhachalam-narasimha.jpg",
+    "durationSec": 177,
+    "credit": "Divyapentapalli777 / Wikimedia Commons (CC BY-SA 3.0) · Thesukantapal / Wikimedia Commons (CC BY-SA 4.0) · PVRMurty1944 / Wikimedia Commons (CC0) · Adityamadhav83 / Wikimedia Commons (CC BY-SA 3.0) · eclicks_by_bunny / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

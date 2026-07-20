@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/ramappa-palampet.mp3",
     "durationSec": 202
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ramappa-palampet.jpg",
+    "color": "#5C3A2E",
+    "alt": "రామప్ప దేవాలయం (రుద్రేశ్వర), పాలంపేట",
+    "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/ramappa-palampet.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ramappa-palampet.jpg",
+    "durationSec": 227,
+    "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

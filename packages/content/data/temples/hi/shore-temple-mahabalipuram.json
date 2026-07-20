@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/shore-temple-mahabalipuram.mp3",
     "durationSec": 257
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/shore-temple-mahabalipuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "तट मंदिर, मामल्लपुरम",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/shore-temple-mahabalipuram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/shore-temple-mahabalipuram.jpg",
+    "durationSec": 234,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/ramappa-palampet.mp3",
     "durationSec": 224
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ramappa-palampet.jpg",
+    "color": "#5C3A2E",
+    "alt": "Ramappa Temple (Rudreshwara), Palampet",
+    "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/ramappa-palampet.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ramappa-palampet.jpg",
+    "durationSec": 178,
+    "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/lepakshi-veerabhadra.mp3",
     "durationSec": 231
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/lepakshi-veerabhadra.jpg",
+    "color": "#5C3A2E",
+    "alt": "லேபாக்ஷி வீரபத்ர சுவாமி கோயில்",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/lepakshi-veerabhadra.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/lepakshi-veerabhadra.jpg",
+    "durationSec": 219,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }
