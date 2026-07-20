@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/chamundeshwari-mysuru.mp3",
     "durationSec": 195
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/chamundeshwari-mysuru.jpg",
+    "color": "#5C3A2E",
+    "alt": "चामुंडेश्वरी मंदिर, मैसूरु",
+    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/chamundeshwari-mysuru.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/chamundeshwari-mysuru.jpg",
+    "durationSec": 180,
+    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

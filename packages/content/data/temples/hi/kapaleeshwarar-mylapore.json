@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/kapaleeshwarar-mylapore.mp3",
     "durationSec": 292
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kapaleeshwarar-mylapore.jpg",
+    "color": "#5C3A2E",
+    "alt": "कपालीश्वर मंदिर, मयलापुर",
+    "credit": "KurinchiRays / Wikimedia Commons (CC BY 4.0) · Dassap / Wikimedia Commons (CC BY-SA 4.0) · Sailko / Wikimedia Commons (CC BY 3.0) · Jaisakthivel unom / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar / Wikimedia Commons (CC BY-SA 2.0) · H. Grobe / Wikimedia Commons (CC BY 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/kapaleeshwarar-mylapore.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kapaleeshwarar-mylapore.jpg",
+    "durationSec": 262,
+    "credit": "KurinchiRays / Wikimedia Commons (CC BY 4.0) · Dassap / Wikimedia Commons (CC BY-SA 4.0) · Sailko / Wikimedia Commons (CC BY 3.0) · Jaisakthivel unom / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar / Wikimedia Commons (CC BY-SA 2.0) · H. Grobe / Wikimedia Commons (CC BY 3.0)"
   }
 }

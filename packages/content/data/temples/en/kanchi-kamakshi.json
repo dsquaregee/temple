@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/kanchi-kamakshi.mp3",
     "durationSec": 273
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kanchi-kamakshi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kamakshi Amman Temple, Kanchipuram",
+    "credit": "Jbuchholz / Wikimedia Commons (CC BY-SA 4.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/kanchi-kamakshi.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kanchi-kamakshi.jpg",
+    "durationSec": 213,
+    "credit": "Jbuchholz / Wikimedia Commons (CC BY-SA 4.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }
 }

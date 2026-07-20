@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/gokarna-mahabaleshwara.mp3",
     "durationSec": 200
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gokarna-mahabaleshwara.jpg",
+    "color": "#5C3A2E",
+    "alt": "गोकर्ण महाबलेश्वर मंदिर",
+    "credit": "Vedamurthy.j / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

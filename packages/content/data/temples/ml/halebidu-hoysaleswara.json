@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/halebidu-hoysaleswara.mp3",
     "durationSec": 295
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/halebidu-hoysaleswara.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഹൊയ്സളേശ്വര ക്ഷേത്രം, ഹളേബീഡു",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · Rohit Sharma / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/halebidu-hoysaleswara.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/halebidu-hoysaleswara.jpg",
+    "durationSec": 232,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · Rohit Sharma / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

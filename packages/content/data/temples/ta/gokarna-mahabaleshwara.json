@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/gokarna-mahabaleshwara.mp3",
     "durationSec": 221
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gokarna-mahabaleshwara.jpg",
+    "color": "#5C3A2E",
+    "alt": "கோகர்ணா மகாபலேஸ்வரர் கோயில்",
+    "credit": "Vedamurthy.j / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

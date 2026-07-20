@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/badami-cave-temples.mp3",
     "durationSec": 199
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/badami-cave-temples.jpg",
+    "color": "#5C3A2E",
+    "alt": "बादामी गुफा मंदिर",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Haneeshkm / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/badami-cave-temples.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/badami-cave-temples.jpg",
+    "durationSec": 183,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Haneeshkm / Wikimedia Commons (CC0)"
   }
 }

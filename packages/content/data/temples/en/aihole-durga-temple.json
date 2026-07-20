@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/aihole-durga-temple.mp3",
     "durationSec": 224
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/aihole-durga-temple.jpg",
+    "color": "#5C3A2E",
+    "alt": "Aihole Durga Temple",
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · AmlanTheTramp / Wikimedia Commons (CC BY-SA 4.0) · Akhil Balakrishnan91 / Wikimedia Commons (CC BY-SA 4.0) · S2001C / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/aihole-durga-temple.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/aihole-durga-temple.jpg",
+    "durationSec": 175,
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · AmlanTheTramp / Wikimedia Commons (CC BY-SA 4.0) · Akhil Balakrishnan91 / Wikimedia Commons (CC BY-SA 4.0) · S2001C / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

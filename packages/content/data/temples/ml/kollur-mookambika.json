@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/kollur-mookambika.mp3",
     "durationSec": 221
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kollur-mookambika.jpg",
+    "color": "#5C3A2E",
+    "alt": "കൊല്ലൂർ മൂകാംബിക ക്ഷേത്രം",
+    "credit": "Starstuffseyyon / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/kollur-mookambika.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kollur-mookambika.jpg",
+    "durationSec": 167,
+    "credit": "Starstuffseyyon / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
