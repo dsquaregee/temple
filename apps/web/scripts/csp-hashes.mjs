@@ -52,10 +52,20 @@ export function hashesFor(html) {
   return [...set];
 }
 
+// External script hosts the per-page meta must also allow. Empty today (the
+// policy is `'self'` + per-page hashes). If a client-side monitoring/RUM beacon
+// is ever enabled, its script host goes HERE **and** in the `script-src` of the
+// header CSP in firebase.json — the two policies are enforced together, so a
+// host added to only one is still blocked by the other. `csp-parity.test.ts`
+// fails if these two lists ever diverge. See docs/deploy-readiness.md
+// ("Monitoring").
+export const EXTRA_SCRIPT_SRC = [];
+
 export function metaFor(html) {
   const hashes = hashesFor(html);
   if (hashes.length === 0) return null;
-  return `<meta http-equiv="Content-Security-Policy" content="script-src 'self' ${hashes.join(' ')}">`;
+  const sources = [...EXTRA_SCRIPT_SRC, ...hashes].join(' ');
+  return `<meta http-equiv="Content-Security-Policy" content="script-src 'self' ${sources}">`;
 }
 
 export function injectMeta(html, metaTag) {

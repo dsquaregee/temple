@@ -63,12 +63,40 @@ front, Firestore holds user state only, content-only v1).
 
 ## Outstanding before the Phase 5 gate
 
-1. **Monitoring** — no error/analytics wiring yet. Recommended default:
-   **Cloudflare Web Analytics** (DNS is already on Cloudflare) — privacy-first,
-   cookieless, and **zero code / zero CSP change** when enabled at the Cloudflare
-   dashboard, so it doesn't touch the strict `script-src`. An in-app tool (e.g.
-   GA4, Sentry) would instead need a `script-src`/`connect-src` allowance. Owner
-   to pick before launch.
+1. **Monitoring** — no error/analytics wiring yet. Owner to pick before launch.
+   The strict CSP shapes the choice, so the options split into two groups (a
+   correction to an earlier note that called Cloudflare Web Analytics "zero CSP
+   change" — see the caveat below):
+
+   - **Genuinely zero-code / zero-CSP** — server-side / edge measurement that
+     needs no in-page beacon: Cloudflare's **HTTP traffic analytics** (from the
+     proxy, already in front of the site) and Firebase Hosting request metrics.
+     Coarser — requests, bandwidth, geography, cache-hit ratio, status codes —
+     with **no** Core Web Vitals RUM and no per-route (client-nav) views. If the
+     owner wants "turn it on, touch nothing," this is the option that delivers.
+
+   - **Client RUM (Cloudflare Web Analytics, GA4, Sentry, Plausible…)** — any of
+     these needs a CSP allowance; **none is zero-change**, including Cloudflare's.
+     Its beacon loads an external script and POSTs to a Cloudflare host, so the
+     browser blocks it under today's policy. Verified in a headless browser
+     against the real `serve-out` headers on `/en/temples/brihadeeswarar/`: the
+     `static.cloudflareinsights.com/beacon.min.js` load is blocked by
+     `script-src-elem` (both the header policy **and** the injected per-page meta
+     fire) and the `cloudflareinsights.com/cdn-cgi/rum` POST is blocked by
+     `connect-src`.
+
+   Enabling any client RUM therefore takes edits in **two** files, not one — the
+   meta policy would block it even if only the header were changed:
+   1. `firebase.json` — add the beacon host to `script-src` and the collector
+      host to `connect-src` in the global CSP header.
+   2. `apps/web/scripts/csp-hashes.mjs` (the `metaFor` template, currently
+      `script-src 'self' <hashes>`) — add the same beacon host, or the per-page
+      meta re-blocks the script post-build.
+
+   For Cloudflare Web Analytics specifically that is
+   `script-src … https://static.cloudflareinsights.com` (both places) and
+   `connect-src … https://cloudflareinsights.com` (header). Prefer the
+   zero-CSP edge option unless RUM/Web Vitals are a launch requirement.
 
 ## Verified findings
 
