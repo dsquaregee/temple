@@ -9,7 +9,7 @@
     "city": "Kanyakumari",
     "state": "Tamil Nadu",
     "lat": 8.0784,
-    "lng": 77.5560
+    "lng": 77.556
   },
   "period": "Ancient origins; developed under the Pandyas, Cholas, Nayaks and Travancore",
   "century": 8,
@@ -32,5 +32,9 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before entering the sanctum, as at many southern shrines; follow the posted rules.",
     "photography": "Photography is restricted inside the temple, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "Kanyakumari is at the southern tip of Tamil Nadu, connected by road and rail; it lies about 20 km from Nagercoil and is an easy onward journey from Suchindram and Tirunelveli."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/kanyakumari-bhagavathy.mp3",
+    "durationSec": 228
   }
 }
