@@ -1,8 +1,9 @@
 import type { Metadata } from 'next';
-import { t, type Locale } from '@temple/core';
+import { buildPlaylist, t, toListenItem, type Locale } from '@temple/core';
 import { getTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { PageChrome } from '@/components/PageChrome';
+import { ListenPlayer } from '@/components/ListenPlayer';
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -26,8 +27,9 @@ export function generateMetadata({
 export default function ListenPage({ params }: { params: { locale: Locale } }) {
   const { locale } = params;
   const ui = t(locale);
-  const temples = getTemples(locale);
-  const anyAudio = temples.some((tp) => tp.audio);
+  // Project to the Listen payload (id/name/audio only) so the client player
+  // doesn't serialize the full catalog prose into the page.
+  const { ready, upcoming } = buildPlaylist(getTemples(locale).map(toListenItem));
 
   return (
     <PageChrome locale={locale} active="listen" pathSuffix="listen/">
@@ -35,28 +37,14 @@ export default function ListenPage({ params }: { params: { locale: Locale } }) {
         <h1>{ui.tabs.listen}</h1>
       </div>
 
-      {!anyAudio && (
+      {ready.length === 0 && (
         <div className="callout">
           <div className="k">♪ {ui.tabs.listen}</div>
           <div className="n">{ui.labels.listenComingSoon}</div>
         </div>
       )}
 
-      <div className="grid">
-        {temples.map((tp) => (
-          <a key={tp.id} className="card" href={`/${locale}/temples/${tp.id}/`}>
-            <div className="listenrow">
-              <div>
-                <h3>{tp.name}</h3>
-                <div className="native">{tp.nativeName}</div>
-              </div>
-              <span className={`badge${tp.audio ? ' ready' : ''}`}>
-                {tp.audio ? '▶' : '···'}
-              </span>
-            </div>
-          </a>
-        ))}
-      </div>
+      <ListenPlayer locale={locale} ui={ui} ready={ready} upcoming={upcoming} />
     </PageChrome>
   );
 }

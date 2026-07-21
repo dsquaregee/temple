@@ -6,7 +6,9 @@ export const tokens = {
       bgSunken: '#F1EADC',
       inkStrong: '#2B2118',
       inkBody: '#4A3F33',
-      inkMuted: '#8A7C6A',
+      // Darkened from #8A7C6A to clear WCAG AA (4.5:1) for small text on all
+      // three light surfaces — captions/meta failed AA on the base/sunken bg.
+      inkMuted: '#726550',
       accentTurmeric: '#D98E04',
       accentVermilion: '#B3411F',
       accentLeaf: '#5C7A45',

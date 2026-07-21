@@ -28,6 +28,14 @@ export interface UiStrings {
     sortNewest: string;
     sortName: string;
   };
+  listen: {
+    nowPlaying: string;
+    play: string;
+    pause: string;
+    previous: string;
+    next: string;
+    readStory: string;
+  };
   sections: {
     history: string;
     architecture: string;
@@ -88,6 +96,14 @@ export const strings: Record<Locale, UiStrings> = {
       sortNewest: 'Newest first',
       sortName: 'By name',
     },
+    listen: {
+      nowPlaying: 'Now playing',
+      play: 'Play',
+      pause: 'Pause',
+      previous: 'Previous',
+      next: 'Next',
+      readStory: 'Read full story',
+    },
     sections: {
       history: 'History',
       architecture: 'Architecture',
@@ -145,6 +161,14 @@ export const strings: Record<Locale, UiStrings> = {
       sortOldest: 'பழமையானவை முதலில்',
       sortNewest: 'புதியவை முதலில்',
       sortName: 'அகர வரிசை',
+    },
+    listen: {
+      nowPlaying: 'இப்போது ஒலிக்கிறது',
+      play: 'இயக்கு',
+      pause: 'இடைநிறுத்து',
+      previous: 'முந்தையது',
+      next: 'அடுத்தது',
+      readStory: 'முழுக் கதையைப் படிக்க',
     },
     sections: {
       history: 'வரலாறு',
@@ -204,6 +228,14 @@ export const strings: Record<Locale, UiStrings> = {
       sortNewest: 'కొత్తవి ముందు',
       sortName: 'అక్షర క్రమం',
     },
+    listen: {
+      nowPlaying: 'ఇప్పుడు వినిపిస్తోంది',
+      play: 'ప్లే చేయి',
+      pause: 'పాజ్ చేయి',
+      previous: 'మునుపటిది',
+      next: 'తదుపరిది',
+      readStory: 'పూర్తి కథను చదవండి',
+    },
     sections: {
       history: 'చరిత్ర',
       architecture: 'వాస్తుశిల్పం',
@@ -261,6 +293,14 @@ export const strings: Record<Locale, UiStrings> = {
       sortOldest: 'ಹಳೆಯವು ಮೊದಲು',
       sortNewest: 'ಹೊಸವು ಮೊದಲು',
       sortName: 'ಅಕ್ಷರ ಕ್ರಮ',
+    },
+    listen: {
+      nowPlaying: 'ಈಗ ಪ್ಲೇ ಆಗುತ್ತಿದೆ',
+      play: 'ಪ್ಲೇ ಮಾಡಿ',
+      pause: 'ವಿರಾಮ',
+      previous: 'ಹಿಂದಿನದು',
+      next: 'ಮುಂದಿನದು',
+      readStory: 'ಪೂರ್ಣ ಕಥೆ ಓದಿ',
     },
     sections: {
       history: 'ಇತಿಹಾಸ',
@@ -320,6 +360,14 @@ export const strings: Record<Locale, UiStrings> = {
       sortNewest: 'പുതിയവ ആദ്യം',
       sortName: 'പേരനുസരിച്ച്',
     },
+    listen: {
+      nowPlaying: 'ഇപ്പോൾ കേൾക്കുന്നു',
+      play: 'പ്ലേ ചെയ്യുക',
+      pause: 'താൽക്കാലികമായി നിർത്തുക',
+      previous: 'മുൻപത്തേത്',
+      next: 'അടുത്തത്',
+      readStory: 'മുഴുവൻ കഥ വായിക്കുക',
+    },
     sections: {
       history: 'ചരിത്രം',
       architecture: 'വാസ്തുവിദ്യ',
@@ -377,6 +425,14 @@ export const strings: Record<Locale, UiStrings> = {
       sortOldest: 'सबसे पुराने पहले',
       sortNewest: 'सबसे नए पहले',
       sortName: 'नाम अनुसार',
+    },
+    listen: {
+      nowPlaying: 'अभी चल रहा है',
+      play: 'चलाएँ',
+      pause: 'रोकें',
+      previous: 'पिछला',
+      next: 'अगला',
+      readStory: 'पूरी कथा पढ़ें',
     },
     sections: {
       history: 'इतिहास',

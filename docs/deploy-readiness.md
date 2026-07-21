@@ -54,8 +54,9 @@ front, Firestore holds user state only, content-only v1).
   largest prerendered HTML exceeds its ceiling. Zero-dependency (Node's gzip).
 - **Lighthouse CI** — a `lighthouse` CI job serves the export with the real
   `firebase.json` headers (`scripts/serve-out.mjs`) and runs Lighthouse
-  (`@lhci/cli`, `lighthouserc.json`) over five representative pages (home, a
-  placeholder-hero temple, a real-photo temple, a circuit, a non-English page).
+  (`@lhci/cli`, `lighthouserc.json`) over six representative pages (home, a
+  placeholder-hero temple, a real-photo temple, a circuit, a non-English page,
+  and the interactive Listen tab).
   Gates **accessibility ≥ 0.9, SEO ≥ 0.95, best-practices ≥ 0.9, CLS ≤ 0.1**;
   performance is a non-blocking warning (aggregate score varies with runner
   load — the byte budget above is the hard performance gate). Current export
