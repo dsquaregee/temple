@@ -20,9 +20,9 @@ Each gate requires owner sign-off before the next phase starts.
 |---|---|
 | 1. Research | ✅ Complete, gate passed 2026-07 |
 | 2. UX/Design | ✅ Complete, gate passed 2026-07 |
-| 3. Build | 🔨 In progress (plan approved; both PWA and native in parallel; 10 temples × 6 languages) |
-| 4. Test/Harden | ⬜ |
-| 5. Deploy | ⬜ |
+| 3. Build | 🔨 Feature-complete for v1, owner gate pending (both PWA + native; **48 temples × 6 languages**, 10 circuits — catalog expanded past the D6 launch core via owner-merged PRs #17–#26) |
+| 4. Test/Harden | 🔨 In progress (unit + content-invariant suite, translation QA, CSP hardening, per-page byte budget, Lighthouse CI all in place — see docs/testing.md) |
+| 5. Deploy | 🔨 Prep in progress (static export, Firebase hosting/CSP/security headers, Firestore rules, deploy pipeline ready; **monitoring choice + owner gate outstanding** — see docs/deploy-readiness.md) |
 
 ## Locked decisions (owner-approved at gates)
 
@@ -42,6 +42,9 @@ Each gate requires owner sign-off before the next phase starts.
   editorial temple detail pages + "Yatra" circuits tab.
 - **D5 Build order**: PWA and native in parallel from the start.
 - **D6 v1 content scope**: 10 temples, all 6 languages (ta, te, kn, ml, hi, en).
+  _Update 2026-07-21: the launch catalog was expanded to the full researched set
+  and beyond — **48 temples, 10 circuits** (PRs #17–#26). The 10 below remain the
+  editorial "launch core"; source of truth for the catalog is `packages/content/data`._
 
 ## Design system (Phase 2, summary — see docs/design/)
 
@@ -58,13 +61,16 @@ Each gate requires owner sign-off before the next phase starts.
 - Accessibility blocking rules: 48dp touch targets, audio alternative for every
   long-form text (limited-literacy users), WCAG AA contrast
 
-## v1 temple catalog (10 of the researched 42)
+## Temple catalog — launch core + full set
 
-Great Living Chola Temples (UNESCO): brihadeeswarar, gangaikonda-cholapuram,
-airavatesvara. Pancha Bhoota Sthalams: ekambareswarar (earth), jambukeswarar
-(water), arunachaleswarar (fire), srikalahasti (air), nataraja-chidambaram
-(space). Plus: meenakshi-madurai, ramanathaswamy-rameswaram.
-Two complete circuits ship at launch.
+**Shipped catalog: 48 temples × 6 locales, 10 circuits** (source of truth:
+`packages/content/data`). The original editorial launch core (10 of the
+researched 42) below remains the anchor; the rest were added across PRs #17–#26.
+
+Launch core — Great Living Chola Temples (UNESCO): brihadeeswarar,
+gangaikonda-cholapuram, airavatesvara. Pancha Bhoota Sthalams: ekambareswarar
+(earth), jambukeswarar (water), arunachaleswarar (fire), srikalahasti (air),
+nataraja-chidambaram (space). Plus: meenakshi-madurai, ramanathaswamy-rameswaram.
 
 ## Repo layout
 
