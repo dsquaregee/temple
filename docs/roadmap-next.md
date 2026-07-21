@@ -36,9 +36,9 @@ owner decisions.
   The design makes Listen a first-class tab; an in-place player (play without
   navigating away, step through the audio-ready set) is the highest-value UX
   gap. *(addressed this session — web)*
-- **Mobile audio playback** — mobile has no player at all (no `expo-av`/
-  `expo-audio` wired). Follow-up: bring the mobile Listen tab to parity with
-  the web player.
+- **Mobile Listen player** — now at parity with web: the mobile Listen tab
+  streams narration (expo-av) in a bottom now-playing bar with prev/next and
+  auto-advance, sharing the same core playlist logic. *(done this session)*
 
 ### Test / harden
 - Suite is unit-only (pure logic in `core`, asset integrity in `apps/web`).
@@ -58,7 +58,7 @@ owner decisions.
 1. Finish audio → 48/48. *(done — CI media run)*
 2. Ship the Listen in-place player (web) → elevates a first-class tab now that
    audio is complete. *(done this session)*
-3. Owner: resolve monitoring + take the deploy-gate sign-off.
-4. Bring mobile Listen to player parity.
+3. Bring mobile Listen to player parity. *(done this session)*
+4. Owner: resolve monitoring + take the deploy-gate sign-off.
 5. Optional hardening: commit a headless render/CSP smoke check if Lighthouse
    CI coverage proves insufficient in practice.
