@@ -24,8 +24,9 @@ owner decisions.
 ## Gaps found, by area
 
 ### Content
-- **Audio coverage** — 6 of 48 temples lacked narration (the most recent
-  additions); the `audio.yml` CI run closes this to 48/48. *(in progress)*
+- **Audio coverage** — now **48/48 in all six locales**. The 6 remaining
+  temples (recent additions) were narrated via the `audio.yml` CI run; the
+  Listen tab shows every temple as playable. *(done)*
 - No other content gaps: validation, cross-locale factual parity, and
   translation QA (100% target-script) all pass.
 
@@ -54,9 +55,9 @@ owner decisions.
 
 ## Recommended order
 
-1. Finish audio → 48/48. *(CI run dispatched)*
+1. Finish audio → 48/48. *(done — CI media run)*
 2. Ship the Listen in-place player (web) → elevates a first-class tab now that
-   audio is complete. *(this session)*
+   audio is complete. *(done this session)*
 3. Owner: resolve monitoring + take the deploy-gate sign-off.
 4. Bring mobile Listen to player parity.
 5. Optional hardening: commit a headless render/CSP smoke check if Lighthouse
