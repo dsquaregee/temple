@@ -1,0 +1,16 @@
+{
+  "id": "temples-of-the-deep-south",
+  "locale": "en",
+  "name": "Temples of the Deep South",
+  "nativeName": "தென் தமிழகத் திருக்கோயில்கள்",
+  "theme": "A pilgrimage across the far south of Tamil Nadu — from the island of Rameswaram to the land's end at Kanyakumari",
+  "region": "Far southern Tamil Nadu (Ramanathapuram to Kanyakumari)",
+  "description": "The far south of Tamil Nadu narrows to a point where three seas meet, and along the way it holds some of the most distinctive temples in the land. This circuit follows the old pilgrim road to the land's end. It begins at Rameswaram, the island shrine of Ramanathaswamy with its immense corridors, where Rama is said to have worshipped Shiva. It turns inland to Tirunelveli, where the twin temples of Nellaiappar and Kanthimathi hold pillars that ring with music and the copper hall of Shiva's dance; and to the seashore at Thiruchendur, where Murugan stands against the waves. Then to Suchindram, where Shiva, Vishnu and Brahma share a single lingam, and finally to Kanyakumari, where the virgin goddess keeps watch over the confluence of the Bay of Bengal, the Arabian Sea and the Indian Ocean. Taken together, they are the temples of the land's end.",
+  "stops": [
+    "ramanathaswamy-rameswaram",
+    "nellaiappar-tirunelveli",
+    "thiruchendur-murugan",
+    "suchindram-thanumalayan",
+    "kanyakumari-bhagavathy"
+  ]
+}
