@@ -36,7 +36,6 @@ function haystack(temple: TempleCardData): string {
     temple.period,
     location.city,
     location.state,
-    temple.summary,
   ]
     .join(' ')
     .toLowerCase();
@@ -142,7 +141,6 @@ export function toCardData(temple: Temple): TempleCardData {
     century: temple.century,
     unesco: temple.unesco,
     circuits: temple.circuits,
-    summary: temple.summary,
     location: { city: temple.location.city, state: temple.location.state },
   };
 }
