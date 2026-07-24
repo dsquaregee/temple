@@ -8,6 +8,17 @@ export interface ResolvedHero {
   credit?: string;
 }
 
+// The deterministic generated placeholder hero (see gen-heroes.mjs). Derivable
+// entirely from a temple's id + name, so client code can reconstruct it without
+// the server serializing a hero object per temple into the page payload.
+export function placeholderHero(id: string, name: string): ResolvedHero {
+  return {
+    src: `/heroes/${id}.svg`,
+    color: colorForTemple(id),
+    alt: `${name} — decorative temple silhouette`,
+  };
+}
+
 // Resolve a temple's hero: real image when content provides one, otherwise the
 // deterministic generated placeholder (see apps/web/scripts/gen-heroes.mjs).
 export function heroFor(temple: Temple): ResolvedHero {
@@ -20,9 +31,5 @@ export function heroFor(temple: Temple): ResolvedHero {
       credit: temple.hero.credit,
     };
   }
-  return {
-    src: `/heroes/${temple.id}.svg`,
-    color: colorForTemple(temple.id),
-    alt: `${temple.name} — decorative temple silhouette`,
-  };
+  return placeholderHero(temple.id, temple.name);
 }

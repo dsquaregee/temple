@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom';
 import { epochDay, heroBgClass, indexOfDay, type Locale } from '@temple/core';
-import type { ResolvedHero } from '@/lib/hero';
+import { placeholderHero, type ResolvedHero } from '@/lib/hero';
 
 export interface FeaturedTemple {
   id: string;
@@ -11,7 +11,11 @@ export interface FeaturedTemple {
   nativeName: string;
   city: string;
   state: string;
-  hero: ResolvedHero;
+  // Present only for temples with a real content image. Placeholder heroes are
+  // derived on the client (see `placeholderHero`), so the server never
+  // serializes a hero object for the ~90% of temples that use the generated
+  // silhouette — that payload dominated the Home page.
+  hero?: ResolvedHero;
 }
 
 // "Temple of the day" hero on the Home tab. The server renders `initialIndex`
@@ -38,7 +42,7 @@ export function DailyFeatured({
 
   const temple = temples[index] ?? temples[0];
   if (!temple) return null;
-  const { hero } = temple;
+  const hero = temple.hero ?? placeholderHero(temple.id, temple.name);
 
   // Preload the featured image as the LCP element (static-export friendly).
   ReactDOM.preload(hero.src, { as: 'image', fetchPriority: 'high' });
