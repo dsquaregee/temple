@@ -7,8 +7,8 @@ import { absUrl } from '@/lib/jsonld';
 import { heroFor } from '@/lib/hero';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
-import { DailyFeatured, type FeaturedTemple } from '@/components/DailyFeatured';
-import { SavedTemples, type SavedItem } from '@/components/SavedTemples';
+import { type FeaturedTemple } from '@/components/DailyFeatured';
+import { HomeHighlights } from '@/components/HomeHighlights';
 import { SavableTempleCard } from '@/components/SavableTempleCard';
 import { CircuitCard } from '@/components/cards';
 
@@ -41,23 +41,18 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
   // "Temple of the day": a compact per-temple projection for the client hero,
   // which re-picks for the visitor's actual day. `initialIndex` is the
   // build-day pick the server renders (kept small — no section prose).
+  // `hero` is attached only for temples with a real content image; placeholder
+  // heroes are derived on the client (see `placeholderHero`), keeping the ~90%
+  // of hero objects that are generated silhouettes out of the page payload.
   const featuredTemples: FeaturedTemple[] = temples.map((tp) => ({
     id: tp.id,
     name: tp.name,
     nativeName: tp.nativeName,
     city: tp.location.city,
     state: tp.location.state,
-    hero: heroFor(tp),
+    ...(tp.hero ? { hero: heroFor(tp) } : {}),
   }));
   const initialIndex = indexOfDay(featuredTemples.length, epochDay(new Date()));
-
-  const savedItems: SavedItem[] = temples.map((tp) => ({
-    id: tp.id,
-    name: tp.name,
-    nativeName: tp.nativeName,
-    city: tp.location.city,
-    state: tp.location.state,
-  }));
 
   const orgId = `${SITE_URL}/#org`;
   const websiteJsonLd = {
@@ -91,14 +86,12 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
     <PageChrome locale={locale} active="home">
       <JsonLd data={websiteJsonLd} />
       <JsonLd data={organizationJsonLd} />
-      <DailyFeatured
+      <HomeHighlights
         locale={locale}
         eyebrow={ui.labels.templeOfTheDay}
         temples={featuredTemples}
         initialIndex={initialIndex}
       />
-
-      <SavedTemples locale={locale} temples={savedItems} />
 
       <section className="section" aria-labelledby="circuits-h">
         <h2 id="circuits-h">{ui.labels.circuits}</h2>

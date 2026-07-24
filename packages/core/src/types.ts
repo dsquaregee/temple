@@ -95,7 +95,6 @@ export type TempleCardData = Pick<
   | 'century'
   | 'unesco'
   | 'circuits'
-  | 'summary'
 > & { location: Pick<TempleLocation, 'city' | 'state'> };
 
 export interface Circuit {

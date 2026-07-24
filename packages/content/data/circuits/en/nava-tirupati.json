@@ -1,0 +1,20 @@
+{
+  "id": "nava-tirupati",
+  "locale": "en",
+  "name": "Nava Tirupati — the Nine Planetary Abodes of Vishnu on the Tamiraparani",
+  "nativeName": "நவ திருப்பதி",
+  "theme": "Nine Vishnu Divya Desams along the Tamiraparani, each held as a planetary shrine of the Navagraha, all sung by Nammalvar",
+  "region": "Tamil Nadu (Tirunelveli & Thoothukudi, along the Tamiraparani)",
+  "description": "The Nava Tirupati are nine temples of Vishnu strung along the Tamiraparani in the far south, near Tirunelveli and Thoothukudi — all Divya Desams sung by Nammalvar, the foremost of the Alvars, whose own birthplace is among them at Alvarthirunagari. Together they are held as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on one river. Srivaikuntam is the Sun; Thiruvaragunamangai the Moon; Thirukkolur, Mars; Thirupulingudi, Mercury; Alvarthirunagari, Jupiter, and the birthplace of Nammalvar; Thenthiruperai, Venus; Thirukkulandhai, Saturn; and at Tholaivillimangalam the twin Irattai Tirupati keep Ketu and Rahu, the two shadow-planets, in paired shrines. The nine villages lie close together along the Tamiraparani, and pilgrims worship them in a single round, the Garuda Sevai, gathering the nine planets into the abodes of the reclining lord.",
+  "stops": [
+    "srivaikuntanathan-srivaikuntam",
+    "vijayasana-thiruvaragunamangai",
+    "vaithamanidhi-thirukkolur",
+    "kaisinavendan-thirupulingudi",
+    "adinathar-alvarthirunagari",
+    "makaranedunkuzhaikkathar-thenthiruperai",
+    "srinivasan-thirukkulandhai",
+    "aravindalochanar-tholaivillimangalam",
+    "devapiran-tholaivillimangalam"
+  ]
+}
