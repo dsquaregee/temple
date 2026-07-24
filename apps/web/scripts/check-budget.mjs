@@ -25,7 +25,14 @@ const outDir = join(root, '..', 'out');
 const BUDGET = {
   largestChunkGzipKB: 90, // current ~54
   totalJsGzipKB: 320, // current ~216
-  largestHtmlRawKB: 250, // current ~89 (Discover listing; catches a regression to full-prose payloads)
+  // Discover listing embeds the whole catalog for instant client-side search, so
+  // it grows ~2.5 KB raw per temple. This is a RAW-byte tripwire for that growth
+  // and for hydration cost on low-end devices — the wire cost is far smaller
+  // (the largest page gzips to ~31 KB). Raised 250 → 320 KB as the catalog grew
+  // past 87 temples (~220 KB raw); if it approaches this again, prefer moving
+  // the search-only fields out to a lazily-fetched per-locale index over another
+  // bump — see docs/roadmap-next.md.
+  largestHtmlRawKB: 320, // current ~220 (Discover listing; catches full-prose regressions)
 };
 
 function walk(dir, test) {

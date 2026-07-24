@@ -51,6 +51,14 @@ owner decisions.
   reasonable future hardening step but is partly redundant with Lighthouse CI.
 
 ### Infra / deploy
+- **Discover payload growth** — the localized Discover listing embeds the whole
+  catalog for instant client-side search, so it grows ~2.5 KB raw per temple
+  (~220 KB at 87 temples; gzips to ~31 KB on the wire). The raw HTML budget was
+  raised 250 → 320 KB to accommodate the current catalog. The durable fix, when
+  it approaches the cap again, is to move the **search-only** fields
+  (`deity`, `tradition`, `style`, `period` — ~34% of the payload, never
+  displayed or faceted) out to a lazily-fetched per-locale search index so the
+  page stops scaling linearly with the catalog. Prefer that over another bump.
 - Pipeline, hosting cache policy, CSP (header + per-page meta), security
   headers, Firestore rules, rollback path: all ready and documented.
 - Firestore composite indexes: none needed (favorites are on-device).
