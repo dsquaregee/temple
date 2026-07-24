@@ -1,0 +1,16 @@
+{
+  "id": "pancha-sabhai-sthalams",
+  "locale": "en",
+  "name": "Pancha Sabhai — the Five Halls of Shiva's Dance",
+  "nativeName": "பஞ்ச சபை தலங்கள்",
+  "theme": "The five sabhas — halls of gold, silver, copper, jewel and painting — where Shiva as Nataraja is honoured as the cosmic dancer",
+  "region": "Tamil Nadu (Chidambaram, Madurai, Tirunelveli, Thiruvalangadu, Courtallam)",
+  "description": "The Pancha Sabhai are the five halls where Shiva as Nataraja is said to have danced the cosmic dance. The Kanaka Sabhai, the golden hall at Chidambaram, is the foremost, where the lord dances the Ananda Tandava, the dance of bliss. The Rajata Sabhai, the silver hall, is at Madurai, within the great temple of Meenakshi and Sundareswarar. The Tamira Sabhai, the copper hall, is at Tirunelveli, among the singing pillars of the Nellaiappar temple. The Ratna Sabhai, the hall of jewels, is at Thiruvalangadu in the northern Tamil country, where Shiva danced the fierce upward dance, the Urdhva Tandava, before the goddess Kali. And the Chitra Sabhai, the picture hall, is at Courtallam in the Western Ghats, where the dance is honoured in painted images rather than in metal. Together, from the far north of the Tamil country to the deep south, the five sabhas bind the great temples of the dancing Shiva into a single pilgrimage of the cosmic dance.",
+  "stops": [
+    "nataraja-chidambaram",
+    "meenakshi-madurai",
+    "nellaiappar-tirunelveli",
+    "thiruvalangadu-vadaranyeswarar",
+    "kutralanathar-courtallam"
+  ]
+}
