@@ -1,0 +1,16 @@
+{
+  "id": "pancharama-kshetras",
+  "locale": "en",
+  "name": "Pancharama Kshetras — the Five Aramas of Andhra",
+  "nativeName": "పంచారామ క్షేత్రాలు",
+  "theme": "Five ancient Shiva temples of coastal Andhra, born of a single sacred lingam broken in the war against Tarakasura",
+  "region": "Coastal Andhra Pradesh (Krishna & Godavari deltas)",
+  "description": "The Pancharama Kshetras are five revered Shiva temples spread across the Krishna and Godavari deltas of coastal Andhra Pradesh. Tradition binds them into a single pilgrimage: the great lingam that made the demon Tarakasura invincible was broken in the war led by Kumara Swamy, and its five pieces fell to earth and were enshrined here — each installed and worshipped by a celestial being. Amararama at Amaravati is linked to Indra; Draksharama, the 'Kasi of the South', joins Shiva with the Shakti Peetha of Manikyamba; Ksheerarama at Palakollu carries one of the region's tallest gopurams; Kumararama at Samalkota, raised by the Eastern Chalukyas, rises through two storeys; and Somarama at Bhimavaram guards a lingam that shifts colour with the phases of the moon. Together they trace both a sacred geography and the medieval flowering of Eastern Chalukya temple-building.",
+  "stops": [
+    "amararama-amaravati",
+    "draksharama-bhimeswara",
+    "ksheerarama-palakollu",
+    "kumararama-samalkota",
+    "somarama-bhimavaram"
+  ]
+}

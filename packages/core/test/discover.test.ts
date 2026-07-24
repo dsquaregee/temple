@@ -160,12 +160,13 @@ test('toCardData keeps card/search/facet fields and drops the heavy prose', () =
   assert.equal(card.name, 'Brihadeeswarar');
   assert.equal(card.nativeName, full.nativeName);
   assert.equal(card.deity, full.deity);
-  assert.equal(card.summary, full.summary);
   assert.equal(card.century, 11);
   assert.equal(card.unesco, true);
   assert.deepEqual(card.circuits, ['chola']);
   assert.deepEqual(card.location, { city: 'Thanjavur', state: 'Tamil Nadu' });
-  // The bulk — sections, visit, coordinates — is not carried into the payload.
+  // The bulk — summary prose, sections, visit, coordinates — is not carried
+  // into the payload (summary stays on the full Temple for the detail page).
+  assert.equal('summary' in card, false);
   assert.equal('sections' in card, false);
   assert.equal('visit' in card, false);
   assert.equal('lat' in card.location, false);

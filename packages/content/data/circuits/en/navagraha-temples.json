@@ -1,0 +1,20 @@
+{
+  "id": "navagraha-temples",
+  "locale": "en",
+  "name": "Navagraha Temples — the Nine Planetary Shrines",
+  "nativeName": "நவகிரக தலங்கள்",
+  "theme": "The nine sacred shrines of the planetary deities, clustered in the Kaveri delta around Kumbakonam",
+  "region": "Tamil Nadu (Kaveri delta) & Karaikal",
+  "description": "The Navagraha Sthalams are nine temples of the Kaveri delta, each sacred to one of the nine celestial influences of Indian tradition — the Sun (Surya), the Moon (Chandra), Mars (Angaraka), Mercury (Budha), Jupiter (Guru), Venus (Shukra), Saturn (Shani), and the shadow-nodes Rahu and Ketu. Eight are Shiva temples of great antiquity, sung by the Tevaram saints and raised in stone by the Cholas; at Suryanar Koil alone the Sun himself presides, ringed by shrines to all nine planets. Pilgrims traditionally journey from one to the next — Suryanar Koil, Thingalur, Vaitheeswaran Koil, Thiruvenkadu, Alangudi, Kanjanur, Thirunallar, Thirunageswaram, and Keezhaperumpallam — to seek the grace of the planets and relief from their afflictions. Thirunallar, the great shrine of Shani, lies just across the state line in Karaikal.",
+  "stops": [
+    "suryanar-koil",
+    "thingalur-kailasanathar",
+    "vaitheeswaran-koil",
+    "thiruvenkadu-swetaranyeswarar",
+    "alangudi-apatsahayesvarar",
+    "kanjanur-agneeswarar",
+    "thirunallar-dharbaranyeswarar",
+    "thirunageswaram-naganathaswamy",
+    "keezhaperumpallam-naganathaswamy"
+  ]
+}
