@@ -1,0 +1,16 @@
+{
+  "id": "sacred-temples-of-kerala",
+  "locale": "en",
+  "name": "Sacred Temples of Kerala",
+  "nativeName": "കേരളത്തിലെ പുണ്യക്ഷേത്രങ്ങൾ",
+  "theme": "Great living shrines of Kerala — Shiva, Devi, Krishna and Ayyappa — in the distinctive temple architecture of the Malabar coast",
+  "region": "Kerala",
+  "description": "Kerala's temples speak a language all their own: circular and square sanctums crowned with steep copper-clad roofs, timber theatre-halls, lamp-lined courtyards, and murals painted in mineral colours. This circuit gathers five of the state's most revered shrines. Chottanikkara honours the Mother Goddess, adorned as Saraswati, Lakshmi and Durga across a single day. Vaikom and Ettumanoor are ancient temples of Shiva, joined with Kaduthuruthy in the Vaikathashtami tradition; Ettumanoor is famed for its classical murals and its seven-and-a-half golden elephants. Ambalappuzha, raised by the Chembakassery rajas, is beloved for its child-Krishna and its milk-payasam. And high in the forested Western Ghats stands Sabarimala, the hill shrine of Ayyappa, drawing one of the largest annual pilgrimages on earth. Together they trace the devotional and artistic world of Kerala.",
+  "stops": [
+    "chottanikkara-bhagavathy",
+    "vaikom-mahadeva",
+    "ettumanoor-mahadeva",
+    "ambalappuzha-krishna",
+    "sabarimala-ayyappa"
+  ]
+}
