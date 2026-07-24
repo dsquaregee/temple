@@ -7,7 +7,7 @@
   --bg-sunken: #f1eadc;
   --ink-strong: #2b2118;
   --ink-body: #4a3f33;
-  --ink-muted: #8a7c6a;
+  --ink-muted: #726550;
   --accent-turmeric: #d98e04;
   --accent-vermilion: #b3411f;
   --accent-leaf: #5c7a45;
@@ -547,6 +547,135 @@ a {
 .listenrow .badge.ready {
   color: var(--accent-leaf);
   border-color: var(--accent-leaf);
+}
+/* The Listen row's link fills the tap area; the play control sits beside it. */
+.listenrow__main {
+  flex: 1 1 auto;
+  min-width: 0;
+  color: inherit;
+}
+.listenrow__main h2 {
+  margin: 0 0 4px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.playbtn {
+  min-width: var(--touch);
+  min-height: var(--touch);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  cursor: pointer;
+  background: transparent;
+}
+.playbtn:focus-visible {
+  outline: 2px solid var(--accent-turmeric);
+  outline-offset: 2px;
+}
+.card.is-playing {
+  border-color: var(--accent-leaf);
+  box-shadow: inset 0 0 0 1px var(--accent-leaf);
+}
+
+/* Now-playing bar — fixed above the tab bar, appears once a track is chosen. */
+.listenbar-spacer {
+  height: 96px;
+}
+.listenbar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: calc(var(--touch) + 12px + env(safe-area-inset-bottom));
+  background: var(--bg-raised);
+  border-top: 1px solid var(--line);
+  box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.08);
+  z-index: 9;
+}
+.listenbar__inner {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+}
+.listenbar__title {
+  flex: 1 1 160px;
+  min-width: 0;
+}
+.listenbar__title .k {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-muted);
+}
+.listenbar__title .n {
+  font-weight: 600;
+  color: var(--ink-strong);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.listenbar__title .native {
+  font-family: var(--font-display);
+  color: var(--accent-vermilion);
+  font-weight: 400;
+}
+.listenbar__controls {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.tbtn {
+  min-width: var(--touch);
+  min-height: var(--touch);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  border-radius: var(--radius-pill);
+  background: transparent;
+  color: var(--ink-strong);
+  cursor: pointer;
+}
+.tbtn:disabled {
+  color: var(--ink-muted);
+  opacity: 0.5;
+  cursor: default;
+}
+.tbtn--play {
+  background: var(--accent-leaf);
+  color: #fff;
+}
+.tbtn:focus-visible {
+  outline: 2px solid var(--accent-turmeric);
+  outline-offset: 2px;
+}
+.listenbar__seek {
+  flex: 1 1 100%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.listenbar__seek input[type='range'] {
+  flex: 1 1 auto;
+  min-width: 0;
+  accent-color: var(--accent-leaf);
+  height: var(--touch);
+}
+.listenbar__time {
+  font-size: 12px;
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+  flex: none;
+}
+.listenbar__link {
+  flex: none;
+  font-size: 13px;
+  color: var(--accent-leaf);
+  font-weight: 600;
 }
 
 .btnlink {

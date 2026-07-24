@@ -13,7 +13,7 @@ and native).
 | `bg.sunken` | `#F1EADC` | `#0F0C0A` | Wells, skeletons |
 | `ink.strong` | `#2B2118` | `#F2EAD9` | Headings |
 | `ink.body` | `#4A3F33` | `#CFC4B2` | Body text |
-| `ink.muted` | `#8A7C6A` | `#8F8474` | Captions, meta |
+| `ink.muted` | `#726550` | `#8F8474` | Captions, meta (light darkened for WCAG AA on all surfaces) |
 | `accent.turmeric` | `#D98E04` | `#E8A62A` | Primary accent, progress |
 | `accent.vermilion` | `#B3411F` | `#D65F3B` | Emphasis, festival badges |
 | `accent.leaf` | `#5C7A45` | `#7FA05E` | Success, "visited" |

@@ -28,6 +28,10 @@ dedicated `Unit tests` job on Node 22.
 - `media` — deterministic per-temple accent colors (valid hex, stable, spread).
 - `i18n` — every locale mirrors the English UI-string key structure exactly and
   has no empty strings; `t()` fallback.
+- `listen` — playlist partition (ready vs. coming-soon, order preserved),
+  wrap-around next/previous index stepping (empty/single-item safe), `m:ss`
+  time formatting (floors, clamps `NaN`/negative), and the `toListenItem`
+  payload projection. Powers the Listen-tab in-place player.
 
 **`packages/content`** — the real catalog JSON on disk:
 
@@ -54,8 +58,11 @@ dedicated `Unit tests` job on Node 22.
 
 A separate `Lighthouse` CI job serves the export with the production
 `firebase.json` headers (`apps/web/scripts/serve-out.mjs`) and runs Lighthouse
-(`@lhci/cli`, config in `apps/web/lighthouserc.json`) over five representative
-pages. Accessibility, SEO, best-practices, and CLS are hard gates; the
+(`@lhci/cli`, config in `apps/web/lighthouserc.json`) over six representative
+pages — home, a placeholder-hero temple, a real-photo temple, a circuit, a
+non-English page, and the interactive **Listen** tab (guards that the client
+player hydrates cleanly under the enforced CSP). Accessibility, SEO,
+best-practices, and CLS are hard gates; the
 performance score is a non-blocking warning (it varies with runner load — the
 zero-dependency byte budget is the hard performance gate). Run locally with
 `pnpm --filter @temple/web exec lhci autorun` after `pnpm build:web`.
