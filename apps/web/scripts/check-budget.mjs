@@ -25,7 +25,7 @@ const outDir = join(root, '..', 'out');
 const BUDGET = {
   largestChunkGzipKB: 90, // current ~54
   totalJsGzipKB: 320, // current ~216
-  largestHtmlRawKB: 250, // current ~89 (Discover listing; catches a regression to full-prose payloads)
+  largestHtmlRawKB: 300, // current ~216 (localized Discover listing; grows ~3 KB/temple, catches a regression to full-prose payloads)
 };
 
 function walk(dir, test) {
