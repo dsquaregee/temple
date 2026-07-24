@@ -6,7 +6,7 @@ recommended order of work toward the Phase 5 deploy gate. Complements
 
 ## State in one line
 
-Catalog is feature-complete (48 temples × 6 locales, 10 circuits, all green);
+Catalog is feature-complete (82 temples × 6 locales, 16 circuits, all green);
 both apps cover the 4 tabs; Phase 4 tooling and Phase 5 deploy prep are
 substantially in place. The remaining work is polish, hardening, and two
 owner decisions.
@@ -24,9 +24,12 @@ owner decisions.
 ## Gaps found, by area
 
 ### Content
-- **Audio coverage** — now **48/48 in all six locales**. The 6 remaining
-  temples (recent additions) were narrated via the `audio.yml` CI run; the
-  Listen tab shows every temple as playable. *(done)*
+- **Audio coverage** — **48/82 temples in all six locales**. The original
+  48-temple catalog was fully narrated via the `audio.yml` CI run; the 34
+  temples added since (PRs #28–#30: Navagraha, the four canonical circuits, and
+  Pancharama) still need narration. The Listen tab shows every narrated temple
+  as playable and simply omits the not-yet-narrated ones. *(backfill pending —
+  re-run `audio.yml` for the new temples)*
 - No other content gaps: validation, cross-locale factual parity, and
   translation QA (100% target-script) all pass.
 
@@ -55,7 +58,8 @@ owner decisions.
 
 ## Recommended order
 
-1. Finish audio → 48/48. *(done — CI media run)*
+1. Finish audio → 48/48 for the original catalog. *(done — CI media run; the 34
+   temples added since need an `audio.yml` backfill)*
 2. Ship the Listen in-place player (web) → elevates a first-class tab now that
    audio is complete. *(done this session)*
 3. Bring mobile Listen to player parity. *(done this session)*
