@@ -1,0 +1,38 @@
+{
+  "id": "dharmasthala-manjunatha",
+  "locale": "en",
+  "name": "Sri Manjunatha Temple, Dharmasthala",
+  "nativeName": "ಶ್ರೀ ಮಂಜುನಾಥ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಧರ್ಮಸ್ಥಳ",
+  "deity": "Shiva as Manjunatha, worshipped alongside the guardian Dharma Daivas",
+  "tradition": "Shaivism, uniquely held by a Jain custodian family with Vaishnava (Madhva) priests",
+  "location": {
+    "city": "Dharmasthala",
+    "state": "Karnataka",
+    "lat": 12.949,
+    "lng": 75.3785
+  },
+  "period": "A living seat of dharma on the Netravati, famed for its interfaith custody and its vast free feeding",
+  "century": 13,
+  "dynasty": "Held by the Heggade family under Madhva guidance",
+  "style": "Coastal Karnataka (Tulunadu)",
+  "unesco": false,
+  "circuits": [],
+  "summary": "At Dharmasthala, Shiva is worshipped as Manjunatha in a shrine unlike any other — kept by a Jain family, served by Vaishnava priests, and guarded by the Dharma Daivas, where dharma and charity are the living faith.",
+  "sections": {
+    "history": "Dharmasthala, on the Netravati river in Dakshina Kannada, has for some eight centuries been a seat of dharma kept by the Heggade family, who are Jain by faith. Here Shiva is worshipped as Manjunatha, his linga said to have been brought and consecrated with the guidance of the Vaishnava saint Vadiraja Tirtha, so that the temple is served by Madhva Brahmin priests — a rare harmony of three traditions under one roof.",
+    "architecture": "The temple sits in the coastal Karnataka manner amid the greenery of the Western Ghats, gathered around the Manjunatha linga, with shrines to the guardian daivas nearby. Its fame is less in ornament than in scale of service: a kitchen that feeds tens of thousands of pilgrims free each day.",
+    "legends": "Tradition tells that the Dharma Daivas — guardian spirits of righteousness — came to the home of the Heggades and asked them to devote their house to dharma. They did so, and the god Annappa is said to have brought the linga of Manjunatha; from that time the family have been custodians, and the head of the house is honoured as the Dharmadhikari, the upholder of dharma.",
+    "festivals": "The great festival is the Laksha Deepotsava, the offering of a hundred thousand lamps, when the town fills with pilgrims. Through the year the temple keeps its daily worship and its unbroken annadana — the free feeding that is its defining vow.",
+    "experience": "Dharmasthala is sought as much for its spirit of charity and justice as for darshan; pilgrims come to eat at its hall, to seek fair judgement, and to see a shrine where three faiths keep one god together."
+  },
+  "visit": {
+    "timings": "Open daily with morning and evening worship and a midday break; annadana is served through the day. The Laksha Deepotsava is busiest. Confirm current timings before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "Dharmasthala lies in Dakshina Kannada, in the Western Ghats on the Netravati; it is reached by road from Mangaluru and from Bengaluru via Hassan, the nearest railhead being Mangaluru."
+  },
+  "audio": {
+    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/dharmasthala-manjunatha.mp3",
+    "durationSec": 137
+  }
+}
