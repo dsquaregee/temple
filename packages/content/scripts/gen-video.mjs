@@ -196,6 +196,13 @@ const CURATED = {
   // suryanar-koil, thiruvenkadu-swetaranyeswarar, vaimurnathar-thiruvaimur,
   // vijayasana-thiruvaragunamangai — stay on placeholders.)
   'srivilliputhur-andal': ['File:Srivilliputhur Andal temple (2).jpg', 'File:Srivilliputhur Andal temple (4).jpg', 'File:Srivilliputhur Andal temple (5).jpg'],
+  // Hero backfill round 2 (2026-07-26): found via native-script Commons search.
+  // Verified by eye. kayarohanaswamy + vaimurnathar have 3+ same-series photos
+  // (→ video); keezhaperumpallam + vijayasana are hero-only (1–2 photos).
+  'kayarohanaswamy-nagapattinam': ['File:Nagai Karonam1.JPG', 'File:Nagai Karonam11.JPG', 'File:Nagai Karonam17.JPG'],
+  'keezhaperumpallam-naganathaswamy': ['File:Kethu sthal.JPG'],
+  'vaimurnathar-thiruvaimur': ['File:Vaimoornathar Temple Tiruvaimur (18).jpg', 'File:Vaimoornathar Temple Tiruvaimur (1).jpg', 'File:Vaimoornathar Temple Tiruvaimur (2).jpg'],
+  'vijayasana-thiruvaragunamangai': ['File:Varagunamangai1.jpg', 'File:Varagunamangai2.jpg'],
   'thingalur-kailasanathar': ['File:Kailasanathar Temple, Thingalur (4).jpg'],
   'thiruvidaimarudur-mahalingaswamy': ['File:Tiruvidaimaruthur11.jpg'],
 };
