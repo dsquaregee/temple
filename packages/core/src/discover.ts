@@ -21,32 +21,38 @@ export function templeEra(century: number): Era {
   return 'later';
 }
 
-// Fields a free-text query searches across. Everything a devotee is likely to
-// type — a temple name (in English or native script), a deity, a town, a
-// dynasty — is covered.
+// The card-resident searchable text: the fields the Discover card actually
+// carries (name in English + native script, town, state, dynasty). Available
+// synchronously in the listing payload, so name/town/dynasty search works
+// instantly, before any index loads.
 function haystack(temple: TempleCardData): string {
   const { location } = temple;
-  return [
-    temple.name,
-    temple.nativeName,
-    temple.deity,
-    temple.tradition,
-    temple.dynasty,
-    temple.style,
-    temple.period,
-    location.city,
-    location.state,
-  ]
+  return [temple.name, temple.nativeName, temple.dynasty, location.city, location.state]
+    .join(' ')
+    .toLowerCase();
+}
+
+// The search-only text kept OFF the card payload — deity, tradition, style, and
+// period. Built once per temple and served as a lazily-fetched per-locale index
+// (web) or computed in memory (mobile), then handed back to `matchesQuery`/
+// `filterTemples` as `extra`/`searchIndex` so a devotee can still search by
+// deity or architectural style. Lowercased so callers can compare directly.
+export function searchIndexText(
+  temple: Pick<Temple, 'deity' | 'tradition' | 'style' | 'period'>,
+): string {
+  return [temple.deity, temple.tradition, temple.style, temple.period]
     .join(' ')
     .toLowerCase();
 }
 
 // True when every whitespace-separated token in the query appears somewhere in
-// the temple's searchable text. Empty/whitespace queries match everything.
-export function matchesQuery(temple: TempleCardData, query: string): boolean {
+// the temple's searchable text. `extra` supplies the off-card search text (from
+// the lazy index) when available; without it, search spans the card fields only
+// (name, native name, town, state, dynasty). Empty/whitespace queries match all.
+export function matchesQuery(temple: TempleCardData, query: string, extra = ''): boolean {
   const tokens = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
   if (tokens.length === 0) return true;
-  const hay = haystack(temple);
+  const hay = extra ? `${haystack(temple)} ${extra.toLowerCase()}` : haystack(temple);
   return tokens.every((token) => hay.includes(token));
 }
 
@@ -72,6 +78,10 @@ export interface TempleFilter {
   era?: Era | 'all';
   unescoOnly?: boolean;
   savedIds?: readonly string[] | null;
+  // Off-card search text, keyed by temple id (see `searchIndexText`). When
+  // provided, a temple's query match also spans its deity/tradition/style/period;
+  // when absent (index not yet loaded), search falls back to the card fields.
+  searchIndex?: Readonly<Record<string, string>> | null;
 }
 
 // Apply the Discover facets to a catalog. Pure and order-preserving: the result
@@ -79,10 +89,10 @@ export interface TempleFilter {
 // Generic over the element type so a projected TempleCardData[] in and a full
 // Temple[] in each come back as the same type.
 export function filterTemples<T extends TempleCardData>(temples: T[], filter: TempleFilter = {}): T[] {
-  const { query = '', circuit = 'all', region = 'all', era = 'all', unescoOnly = false, savedIds = null } = filter;
+  const { query = '', circuit = 'all', region = 'all', era = 'all', unescoOnly = false, savedIds = null, searchIndex = null } = filter;
   const saved = savedIds ? new Set(savedIds) : null;
   return temples.filter((tp) => {
-    if (!matchesQuery(tp, query)) return false;
+    if (!matchesQuery(tp, query, searchIndex ? searchIndex[tp.id] ?? '' : '')) return false;
     if (circuit !== 'all' && !tp.circuits.includes(circuit)) return false;
     if (region !== 'all' && tp.location.state !== region) return false;
     if (era !== 'all' && templeEra(tp.century) !== era) return false;
@@ -133,11 +143,7 @@ export function toCardData(temple: Temple): TempleCardData {
     id: temple.id,
     name: temple.name,
     nativeName: temple.nativeName,
-    deity: temple.deity,
-    tradition: temple.tradition,
     dynasty: temple.dynasty,
-    style: temple.style,
-    period: temple.period,
     century: temple.century,
     unesco: temple.unesco,
     circuits: temple.circuits,

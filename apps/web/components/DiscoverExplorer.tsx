@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useMemo, useState, type ReactNode } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import {
   ERAS,
   SORTS,
@@ -80,13 +80,38 @@ export function DiscoverExplorer({
   const regions = useMemo(() => regionsOf(temples), [temples]);
 
   const [query, setQuery] = useState('');
+
+  // The deity/tradition/style/period search text is kept off the listing payload
+  // (see TempleCardData); it loads lazily as a per-locale index the first time
+  // the user engages the search box. Until then, search spans the card fields
+  // (name, native name, town, state, dynasty); once loaded, results recompute to
+  // also span the off-card fields. Fetched at most once; a failure is retryable.
+  const [searchIndex, setSearchIndex] = useState<Readonly<Record<string, string>> | null>(null);
+  const indexRequested = useRef(false);
+  const loadSearchIndex = useCallback(() => {
+    if (indexRequested.current) return;
+    indexRequested.current = true;
+    fetch(`/search/${locale}.json`)
+      .then((r) => (r.ok ? (r.json() as Promise<Record<string, string>>) : null))
+      .then((data) => {
+        if (data) setSearchIndex(data);
+      })
+      .catch(() => {
+        indexRequested.current = false; // allow a later attempt after a transient failure
+      });
+  }, [locale]);
+
   // Seed the search from a ?q= param (the WebSite sitelinks searchbox targets
   // this, and it makes searches shareable). Runs after mount, so server and
-  // client both first render the empty state — no hydration mismatch.
+  // client both first render the empty state — no hydration mismatch. A shared
+  // query may target an off-card field (e.g. a deity), so load the index too.
   useEffect(() => {
     const q = new URLSearchParams(window.location.search).get('q');
-    if (q) setQuery(q);
-  }, []);
+    if (q) {
+      setQuery(q);
+      loadSearchIndex();
+    }
+  }, [loadSearchIndex]);
 
   const [circuit, setCircuit] = useState<string>('all');
   const [region, setRegion] = useState<string>('all');
@@ -107,11 +132,12 @@ export function DiscoverExplorer({
           era,
           unescoOnly,
           savedIds: savedOnly ? savedIds : null,
+          searchIndex,
         }),
         sort,
         locale,
       ),
-    [temples, query, circuit, region, era, unescoOnly, savedOnly, savedIds, sort, locale],
+    [temples, query, circuit, region, era, unescoOnly, savedOnly, savedIds, sort, locale, searchIndex],
   );
 
   const filtersActive =
@@ -140,7 +166,11 @@ export function DiscoverExplorer({
         className="searchinput"
         placeholder={d.searchPlaceholder}
         value={query}
-        onChange={(e) => setQuery(e.target.value)}
+        onFocus={loadSearchIndex}
+        onChange={(e) => {
+          loadSearchIndex();
+          setQuery(e.target.value);
+        }}
         aria-label={d.searchPlaceholder}
       />
 

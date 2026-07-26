@@ -9,8 +9,8 @@ recommended order of work toward the Phase 5 deploy gate. Complements
 Catalog is live in production (**101 temples × 6 locales, 17 circuits, every
 temple narrated in all six locales**), deployed to Firebase Hosting
 (`temples.dsquaregee.com`); both apps cover the 4 tabs; Phase 4 tooling and
-Phase 5 deploy prep are in place. Remaining work is polish, one payload
-optimization (below), and two owner decisions.
+Phase 5 deploy prep are in place. Remaining work is polish and two owner
+decisions; the Discover payload optimization landed (see Infra below).
 
 _Update 2026-07-26: production-hardening pass — fixed the HTML CDN cache policy
 (page URLs were silently falling back to Firebase's `max-age=3600` default; see
@@ -70,28 +70,34 @@ hashes, byte budget, Lighthouse a11y/SEO/best-practices/CLS all green)._
   rules and `sw.js`/manifest rules still override for their paths while page
   URLs now get the intended CDN caching. Verified end-to-end via
   `serve-out.mjs`. Removed the now-dead `**/*.html` rule.
-- **Discover payload growth — the one remaining optimization.** The localized
-  Discover listing serializes the whole locale catalog into the page for
-  instant client-side search; the largest page (`ml/temples/index.html`) is now
-  **254 KB raw / 320 KB (79%)** at 101 temples and grows ~2.5 KB/temple (~26
-  temples of runway before the cap; on the wire it Brotli-compresses to ~20 KB).
-  The durable fix is to move the **search-only** fields (`deity`, `tradition`,
-  `style`, `period`, `dynasty` — measured ~56 KB raw ≈ **22% of the largest
-  page** at 101 temples, and confirmed never displayed or faceted, only fed to
-  `haystack()` in `packages/core/discover.ts`) out to a lazily-fetched per-locale
-  search index, so the page stops scaling linearly. Concrete plan:
-  1. Drop the five fields from `TempleCardData` / `toCardData` (web-only —
-     mobile does not use this projection).
-  2. Emit `search-index.<locale>.json` (`id → lowercased search text`) as a
-     static asset during content generation.
-  3. `DiscoverExplorer` fetches its locale index on mount / first keystroke
-     (CSP `connect-src 'self'` already allows it); until it loads, search
-     degrades gracefully to the card fields (name, native name, town, state).
-  4. Thread the supplemental text into `matchesQuery`/`filterTemples`; update
-     the `discover` unit tests + add index-integrity tests.
-  Deferred deliberately as its own tested PR (moderate risk: changes a live core
-  feature's search behavior) rather than bundled into this hardening pass.
-  Prefer this over another budget bump.
+- **Discover payload — OPTIMIZED via lazy search index (2026-07-26).** The
+  localized Discover listing serialized the whole locale catalog for instant
+  client-side search. The four **search-only** fields (`deity`, `tradition`,
+  `style`, `period` — never displayed or faceted, only fed to `haystack()`) are
+  now moved off the card payload into a lazily-fetched per-locale search index,
+  so the listing HTML stops carrying them for every temple. Result: the Discover
+  listing dropped **254 → 197 KB raw (−22%)**; the largest page is now the Home
+  page (`ml/index.html`, ~248 KB — legitimate *rendered* card HTML for the
+  "All temples" grid, server-rendered, so it never carried the search fields in
+  a client payload). Implementation:
+  - `TempleCardData`/`toCardData` keep only rendered + facet fields (`dynasty`
+    stays — it's shown in the card meta line).
+  - `content:search-index` (`gen-search-index.mjs`, zero-dep) emits
+    `apps/web/public/search/<locale>.json` (`id → lowercased search text`),
+    wired into `build:web`/`dev:web`; served at `/search/<locale>.json` under
+    CSP `connect-src 'self'`.
+  - `DiscoverExplorer` fetches its locale index on first search focus/keystroke
+    (and on a `?q=` deep link); until it loads, search spans the card fields
+    (name, native name, town, state, dynasty), then recomputes to add the
+    off-card fields. Mobile bundles all content, so it builds the same map in
+    memory (no payload concern) — full search fidelity preserved on both apps.
+  - `matchesQuery`/`filterTemples` take the supplemental text; `searchIndexText`
+    is the shared projection. Verified: 62 unit tests, plus a headless-Chromium
+    test of the live async search in English **and** Malayalam (index fetch 200,
+    off-card term matches after load, `?q=` deep link, no CSP violations).
+  Next payload lever, when needed: the Home page's "All temples" grid duplicates
+  the Discover catalog as rendered HTML — paginating/deferring it (carefully, to
+  preserve SEO + no-JS) is the remaining structural trim.
 - Pipeline, CSP (header + per-page meta hashes), security
   headers, Firestore rules, rollback path: all ready and documented.
 - Firestore composite indexes: none needed (favorites are on-device).
