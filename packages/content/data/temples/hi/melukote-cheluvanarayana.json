@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/melukote-cheluvanarayana.mp3",
     "durationSec": 103
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/melukote-cheluvanarayana.jpg",
+    "color": "#5C3A2E",
+    "alt": "चेलुवनारायण स्वामी मंदिर, मेलुकोटे",
+    "credit": "Haneesh K M. / Wikimedia Commons (CC0) · Venkygrams / Wikimedia Commons (CC BY-SA 4.0) · A.Murali / Wikimedia Commons (CC0) · MaximusPrasad / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

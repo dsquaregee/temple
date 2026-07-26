@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/murudeshwar-shiva.mp3",
     "durationSec": 100
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/murudeshwar-shiva.jpg",
+    "color": "#5C3A2E",
+    "alt": "முருடேஶ்வர கோயில்",
+    "credit": "Yakshitha / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

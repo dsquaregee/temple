@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/kukke-subramanya.mp3",
     "durationSec": 139
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kukke-subramanya.jpg",
+    "color": "#5C3A2E",
+    "alt": "కుక్కే శ్రీ సుబ్రమణ్య ఆలయం",
+    "credit": "Maneesha Shetty / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

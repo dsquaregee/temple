@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/kutralanathar-courtallam.mp3",
     "durationSec": 188
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kutralanathar-courtallam.jpg",
+    "color": "#5C3A2E",
+    "alt": "కుత్రాలనాదర్ ఆలయం, కుత్రాలం",
+    "credit": "Manukrishnan80 / Wikimedia Commons (CC BY-SA 4.0) · Srik.polisetty / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

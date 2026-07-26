@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/kannayiramudayar-thirukaravasal.mp3",
     "durationSec": 142
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kannayiramudayar-thirukaravasal.jpg",
+    "color": "#5C3A2E",
+    "alt": "கண்ணாயிரமுடையார் கோயில், திருக்காறாயில்",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

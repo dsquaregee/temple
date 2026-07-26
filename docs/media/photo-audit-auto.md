@@ -6,11 +6,11 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| alangudi-apatsahayesvarar | 6 | ◐ hero only (< 999 for video) |
-| ambalappuzha-krishna | 6 | ◐ hero only (< 999 for video) |
-| appakkudathan-tiruppernagar | 6 | ◐ hero only (< 999 for video) |
-| attukal-bhagavathy | 4 | ◐ hero only (< 999 for video) |
-| bhadrachalam-rama | 6 | ◐ hero only (< 999 for video) |
-| brahmapureeswarar-thirukkuvalai | 6 | ◐ hero only (< 999 for video) |
-| dharmasthala-manjunatha | 3 | ◐ hero only (< 999 for video) |
-| ettumanoor-mahadeva | 3 | ◐ hero only (< 999 for video) |
+| kanaka-durga-vijayawada | 6 | ◐ hero only (< 999 for video) |
+| kanjanur-agneeswarar | 1 | ◐ hero only (< 999 for video) |
+| kannayiramudayar-thirukaravasal | 6 | ◐ hero only (< 999 for video) |
+| kanyakumari-bhagavathy | 3 | ◐ hero only (< 999 for video) |
+| kukke-subramanya | 1 | ◐ hero only (< 999 for video) |
+| kutralanathar-courtallam | 6 | ◐ hero only (< 999 for video) |
+| melukote-cheluvanarayana | 6 | ◐ hero only (< 999 for video) |
+| murudeshwar-shiva | 6 | ◐ hero only (< 999 for video) |

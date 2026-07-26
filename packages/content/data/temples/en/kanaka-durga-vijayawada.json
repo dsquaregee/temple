@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/kanaka-durga-vijayawada.mp3",
     "durationSec": 166
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kanaka-durga-vijayawada.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kanaka Durga Temple, Indrakeeladri",
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రహ్మానుద్దీన్ / Wikimedia Commons (CC BY-SA 3.0) · Adbh266 / Wikimedia Commons (CC BY-SA 3.0) · Sushumnarao / Wikimedia Commons (CC BY-SA 4.0) · Krishna Chaitanya Velaga / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
