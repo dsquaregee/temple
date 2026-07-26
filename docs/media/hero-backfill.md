@@ -144,7 +144,7 @@ Videos need narration (all 101 have it) **+ ≥3 qualifying Commons photos**. 41
 temples already have full videos (6 locales each). Dry-run scope of the 60
 without video:
 
-- **29 video-eligible** (≥3 photos) — building in small batches V1–V6 below via
+- **29 video-eligible** (≥3 photos) — ✅ **ALL DONE (V1–V6 deployed) → 70/101 temples now have narrated video in all 6 locales.** Built via
   `media.yml` **without** `hero_only` (full Ken Burns render, `resume=true`),
   one run at a time on the production branch; each commits + auto-deploys.
 - **15 hero-only** (1–2 photos, incl. the E–G curated single-file heroes and
@@ -157,7 +157,7 @@ Video batches (✅ done · ⏳ rendering · ☐ pending):
 - **V3** ✅ — `kanyakumari-bhagavathy,kutralanathar-courtallam,melukote-cheluvanarayana,murudeshwar-shiva,nanjangud-srikanteshwara`
 - **V4** ✅ — `nellaiappar-tirunelveli,ranganathaswamy-shivanasamudra,ranganathaswamy-srirangapatna,sarangapani-kumbakonam,srivaikuntanathan-srivaikuntam`
 - **V5** ✅ — `suchindram-thanumalayan,thirunallar-dharbaranyeswarar,thiruvalangadu-vadaranyeswarar,thyagaraja-thiruvarur,vaithamanidhi-thirukkolur`
-- **V6** ☐ — `vaitheeswaran-koil,varadaraja-perumal-kanchipuram,vedaranyeswarar-vedaranyam,yadadri-lakshmi-narasimha`
+- **V6** ✅ — `vaitheeswaran-koil,varadaraja-perumal-kanchipuram,vedaranyeswarar-vedaranyam,yadadri-lakshmi-narasimha`
 
 Command per batch (full render):
 `gh workflow run media.yml --ref claude/temple-app-phase-1-jfbtxy -f only="<ids>" -f resume=true`
