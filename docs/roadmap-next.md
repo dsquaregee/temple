@@ -6,10 +6,17 @@ recommended order of work toward the Phase 5 deploy gate. Complements
 
 ## State in one line
 
-Catalog is feature-complete (82 temples × 6 locales, 16 circuits, all green);
-both apps cover the 4 tabs; Phase 4 tooling and Phase 5 deploy prep are
-substantially in place. The remaining work is polish, hardening, and two
-owner decisions.
+Catalog is live in production (**101 temples × 6 locales, 17 circuits, every
+temple narrated in all six locales**), deployed to Firebase Hosting
+(`temples.dsquaregee.com`); both apps cover the 4 tabs; Phase 4 tooling and
+Phase 5 deploy prep are in place. Remaining work is polish, one payload
+optimization (below), and two owner decisions.
+
+_Update 2026-07-26: production-hardening pass — fixed the HTML CDN cache policy
+(page URLs were silently falling back to Firebase's `max-age=3600` default; see
+Infra below) and re-verified all quality gates at 101 temples (59/59 tests,
+content validate, translation QA 100% target-script, 736-page build with CSP
+hashes, byte budget, Lighthouse a11y/SEO/best-practices/CLS all green)._
 
 ## Owner decisions blocking the deploy gate
 
@@ -51,15 +58,41 @@ owner decisions.
   reasonable future hardening step but is partly redundant with Lighthouse CI.
 
 ### Infra / deploy
-- **Discover payload growth** — the localized Discover listing embeds the whole
-  catalog for instant client-side search, so it grows ~2.5 KB raw per temple
-  (~220 KB at 87 temples; gzips to ~31 KB on the wire). The raw HTML budget was
-  raised 250 → 320 KB to accommodate the current catalog. The durable fix, when
-  it approaches the cap again, is to move the **search-only** fields
-  (`deity`, `tradition`, `style`, `period` — ~34% of the payload, never
-  displayed or faceted) out to a lazily-fetched per-locale search index so the
-  page stops scaling linearly with the catalog. Prefer that over another bump.
-- Pipeline, hosting cache policy, CSP (header + per-page meta), security
+- **HTML CDN cache policy — FIXED (2026-07-26).** `firebase.json` defined the
+  intended HTML policy (`max-age=0, s-maxage=86400, stale-while-revalidate=7d`)
+  on `source: "**/*.html"`, but Firebase matches header globs against the
+  **request path**, and every page URL is a trailing-slash directory
+  (`/en/temples/x/`) with no `.html` in the path — so the rule never matched and
+  pages silently fell back to Firebase's `max-age=3600` default (no CDN
+  `s-maxage`, no `stale-while-revalidate`). Fix: moved the HTML/default policy
+  onto the broad `**` rule (Firebase applies last-matching value per header key
+  — confirmed on prod via `sw.js`), so the immutable `_next/static` + media
+  rules and `sw.js`/manifest rules still override for their paths while page
+  URLs now get the intended CDN caching. Verified end-to-end via
+  `serve-out.mjs`. Removed the now-dead `**/*.html` rule.
+- **Discover payload growth — the one remaining optimization.** The localized
+  Discover listing serializes the whole locale catalog into the page for
+  instant client-side search; the largest page (`ml/temples/index.html`) is now
+  **254 KB raw / 320 KB (79%)** at 101 temples and grows ~2.5 KB/temple (~26
+  temples of runway before the cap; on the wire it Brotli-compresses to ~20 KB).
+  The durable fix is to move the **search-only** fields (`deity`, `tradition`,
+  `style`, `period`, `dynasty` — measured ~56 KB raw ≈ **22% of the largest
+  page** at 101 temples, and confirmed never displayed or faceted, only fed to
+  `haystack()` in `packages/core/discover.ts`) out to a lazily-fetched per-locale
+  search index, so the page stops scaling linearly. Concrete plan:
+  1. Drop the five fields from `TempleCardData` / `toCardData` (web-only —
+     mobile does not use this projection).
+  2. Emit `search-index.<locale>.json` (`id → lowercased search text`) as a
+     static asset during content generation.
+  3. `DiscoverExplorer` fetches its locale index on mount / first keystroke
+     (CSP `connect-src 'self'` already allows it); until it loads, search
+     degrades gracefully to the card fields (name, native name, town, state).
+  4. Thread the supplemental text into `matchesQuery`/`filterTemples`; update
+     the `discover` unit tests + add index-integrity tests.
+  Deferred deliberately as its own tested PR (moderate risk: changes a live core
+  feature's search behavior) rather than bundled into this hardening pass.
+  Prefer this over another budget bump.
+- Pipeline, CSP (header + per-page meta hashes), security
   headers, Firestore rules, rollback path: all ready and documented.
 - Firestore composite indexes: none needed (favorites are on-device).
 - Region locked to `asia-south1` (D1); payments out of scope (D2).
