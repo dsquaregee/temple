@@ -37,5 +37,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/nellaiappar-tirunelveli.mp3",
     "durationSec": 207
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/nellaiappar-tirunelveli.jpg",
+    "color": "#5C3A2E",
+    "alt": "നെല്ലൈയപ്പർ ക്ഷേത്രം, തിരുനെൽവേലി",
+    "credit": "Sivanandands / Wikimedia Commons (CC BY-SA 4.0) · Divya suresh / Wikimedia Commons (CC BY-SA 4.0) · Booradleyp1 / Wikimedia Commons (CC BY-SA 4.0) · Shanmugavel281996 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

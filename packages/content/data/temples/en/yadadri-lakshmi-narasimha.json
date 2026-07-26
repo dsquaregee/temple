@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/yadadri-lakshmi-narasimha.mp3",
     "durationSec": 116
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/yadadri-lakshmi-narasimha.jpg",
+    "color": "#5C3A2E",
+    "alt": "Sri Lakshmi Narasimha Swamy Temple, Yadadri",
+    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
   }
 }

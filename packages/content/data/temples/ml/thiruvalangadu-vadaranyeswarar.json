@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/thiruvalangadu-vadaranyeswarar.mp3",
     "durationSec": 238
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "വടാരണ്യേശ്വരർ ക്ഷേത്രം, തിരുവാലങ്ങാട്",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

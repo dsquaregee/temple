@@ -37,5 +37,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/thyagaraja-thiruvarur.mp3",
     "durationSec": 256
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thyagaraja-thiruvarur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ത്യാഗരാജ സ്വാമി ക്ഷേത്രം, തിരുവാരൂർ",
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Srinivasan G / Wikimedia Commons (CC BY-SA 2.0) · Ssriram mt / Wikimedia Commons (CC BY 4.0)"
   }
 }

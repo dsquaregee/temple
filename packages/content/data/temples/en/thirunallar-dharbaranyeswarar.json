@@ -37,5 +37,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/thirunallar-dharbaranyeswarar.mp3",
     "durationSec": 228
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thirunallar-dharbaranyeswarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "Thirunallar Dharbaranyeswarar Temple",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/yadadri-lakshmi-narasimha.mp3",
     "durationSec": 105
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/yadadri-lakshmi-narasimha.jpg",
+    "color": "#5C3A2E",
+    "alt": "श्री लक्ष्मी नरसिंह स्वामी मंदिर, यादाद्रि",
+    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
   }
 }

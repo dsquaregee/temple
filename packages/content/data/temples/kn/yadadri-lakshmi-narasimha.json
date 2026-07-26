@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/yadadri-lakshmi-narasimha.mp3",
     "durationSec": 104
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/yadadri-lakshmi-narasimha.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಶ್ರೀ ಲಕ್ಷ್ಮೀ ನರಸಿಂಹ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಯಾದಾದ್ರಿ",
+    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
   }
 }

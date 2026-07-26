@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/vaithamanidhi-thirukkolur.mp3",
     "durationSec": 142
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaithamanidhi-thirukkolur.jpg",
+    "color": "#5C3A2E",
+    "alt": "वैत्तमानिधि पेरुमाळ मंदिर, तिरुक्कोळूर",
+    "credit": "Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Madhavan. A / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

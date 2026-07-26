@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/thirunageswaram-naganathaswamy.mp3",
     "durationSec": 180
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thirunageswaram-naganathaswamy.jpg",
+    "color": "#5C3A2E",
+    "alt": "తిరునాగేశ్వరం నాగనాథస్వామి ఆలయం",
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

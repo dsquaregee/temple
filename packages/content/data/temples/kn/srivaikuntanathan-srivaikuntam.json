@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/srivaikuntanathan-srivaikuntam.mp3",
     "durationSec": 149
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srivaikuntanathan-srivaikuntam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಶ್ರೀವೈಕುಂಠನಾಥನ್ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ಶ್ರೀವೈಕುಂಠಂ",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

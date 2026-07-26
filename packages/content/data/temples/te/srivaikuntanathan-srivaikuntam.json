@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/srivaikuntanathan-srivaikuntam.mp3",
     "durationSec": 145
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srivaikuntanathan-srivaikuntam.jpg",
+    "color": "#5C3A2E",
+    "alt": "శ్రీవైకుంఠనాథన్ పెరుమాళ్ ఆలయం, శ్రీవైకుంఠం",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

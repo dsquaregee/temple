@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/nanjangud-srikanteshwara.mp3",
     "durationSec": 105
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/nanjangud-srikanteshwara.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಶ್ರೀಕಂಠೇಶ್ವರ ದೇವಸ್ಥಾನ, ನಂಜನಗೂಡು",
+    "credit": "Dineshkannambadi / Wikimedia Commons (CC BY-SA 3.0) · A.Murali / Wikimedia Commons (CC0)"
   }
 }

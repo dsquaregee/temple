@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/thiruvalangadu-vadaranyeswarar.mp3",
     "durationSec": 215
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವಟಾರಣ್ಯೇಶ್ವರರ್ ದೇವಾಲಯ, ತಿರುವಾಲಂಗಾಡು",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/nanjangud-srikanteshwara.mp3",
     "durationSec": 116
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/nanjangud-srikanteshwara.jpg",
+    "color": "#5C3A2E",
+    "alt": "ശ്രീകണ്ഠേശ്വര ക്ഷേത്രം, നഞ്ജൻഗൂഡ്",
+    "credit": "Dineshkannambadi / Wikimedia Commons (CC BY-SA 3.0) · A.Murali / Wikimedia Commons (CC0)"
   }
 }

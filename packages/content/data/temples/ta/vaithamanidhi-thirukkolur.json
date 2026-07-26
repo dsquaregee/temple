@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/vaithamanidhi-thirukkolur.mp3",
     "durationSec": 153
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaithamanidhi-thirukkolur.jpg",
+    "color": "#5C3A2E",
+    "alt": "வைத்தமாநிதி பெருமாள் கோயில், திருக்கோளூர்",
+    "credit": "Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Madhavan. A / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

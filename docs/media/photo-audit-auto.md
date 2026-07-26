@@ -6,11 +6,19 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| kanaka-durga-vijayawada | 6 | ◐ hero only (< 999 for video) |
-| kanjanur-agneeswarar | 1 | ◐ hero only (< 999 for video) |
-| kannayiramudayar-thirukaravasal | 6 | ◐ hero only (< 999 for video) |
-| kanyakumari-bhagavathy | 3 | ◐ hero only (< 999 for video) |
-| kukke-subramanya | 1 | ◐ hero only (< 999 for video) |
-| kutralanathar-courtallam | 6 | ◐ hero only (< 999 for video) |
-| melukote-cheluvanarayana | 6 | ◐ hero only (< 999 for video) |
-| murudeshwar-shiva | 6 | ◐ hero only (< 999 for video) |
+| nanjangud-srikanteshwara | 6 | ◐ hero only (< 999 for video) |
+| nellaiappar-tirunelveli | 6 | ◐ hero only (< 999 for video) |
+| ranganathaswamy-shivanasamudra | 3 | ◐ hero only (< 999 for video) |
+| ranganathaswamy-srirangapatna | 6 | ◐ hero only (< 999 for video) |
+| sarangapani-kumbakonam | 6 | ◐ hero only (< 999 for video) |
+| srivaikuntanathan-srivaikuntam | 6 | ◐ hero only (< 999 for video) |
+| suchindram-thanumalayan | 6 | ◐ hero only (< 999 for video) |
+| thirunageswaram-naganathaswamy | 1 | ◐ hero only (< 999 for video) |
+| thirunallar-dharbaranyeswarar | 3 | ◐ hero only (< 999 for video) |
+| thiruvalangadu-vadaranyeswarar | 6 | ◐ hero only (< 999 for video) |
+| thyagaraja-thiruvarur | 6 | ◐ hero only (< 999 for video) |
+| vaithamanidhi-thirukkolur | 6 | ◐ hero only (< 999 for video) |
+| vaitheeswaran-koil | 6 | ◐ hero only (< 999 for video) |
+| varadaraja-perumal-kanchipuram | 6 | ◐ hero only (< 999 for video) |
+| vedaranyeswarar-vedaranyam | 6 | ◐ hero only (< 999 for video) |
+| yadadri-lakshmi-narasimha | 6 | ◐ hero only (< 999 for video) |

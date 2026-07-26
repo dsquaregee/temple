@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/suchindram-thanumalayan.mp3",
     "durationSec": 217
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/suchindram-thanumalayan.jpg",
+    "color": "#5C3A2E",
+    "alt": "താണുമാലയൻ ക്ഷേത്രം, ശുചീന്ദ്രം",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

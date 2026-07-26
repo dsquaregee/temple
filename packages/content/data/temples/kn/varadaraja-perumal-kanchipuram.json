@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/varadaraja-perumal-kanchipuram.mp3",
     "durationSec": 237
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/varadaraja-perumal-kanchipuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವರದರಾಜ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ಕಾಂಚೀಪುರಂ",
+    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Women's Dairy 1989 / Wikimedia Commons (CC BY-SA 4.0) · Vetrivelrameshbabu / Wikimedia Commons (CC BY-SA 4.0) · Lodo from Moscow, Russia / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

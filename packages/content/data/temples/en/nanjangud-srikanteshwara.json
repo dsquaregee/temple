@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/nanjangud-srikanteshwara.mp3",
     "durationSec": 118
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/nanjangud-srikanteshwara.jpg",
+    "color": "#5C3A2E",
+    "alt": "Srikanteshwara Temple, Nanjangud",
+    "credit": "Dineshkannambadi / Wikimedia Commons (CC BY-SA 3.0) · A.Murali / Wikimedia Commons (CC0)"
   }
 }

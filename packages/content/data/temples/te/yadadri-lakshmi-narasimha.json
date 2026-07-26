@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/yadadri-lakshmi-narasimha.mp3",
     "durationSec": 101
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/yadadri-lakshmi-narasimha.jpg",
+    "color": "#5C3A2E",
+    "alt": "శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం, యాదాద్రి",
+    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
   }
 }

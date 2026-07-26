@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/vedaranyeswarar-vedaranyam.mp3",
     "durationSec": 145
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vedaranyeswarar-vedaranyam.jpg",
+    "color": "#5C3A2E",
+    "alt": "वेदारण्येश्वरर् मंदिर, वेदारण्यम्",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

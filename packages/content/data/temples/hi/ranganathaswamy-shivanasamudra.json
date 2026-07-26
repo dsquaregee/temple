@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/ranganathaswamy-shivanasamudra.mp3",
     "durationSec": 161
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ranganathaswamy-shivanasamudra.jpg",
+    "color": "#5C3A2E",
+    "alt": "रंगनाथस्वामी मंदिर, शिवनसमुद्र",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Wkacnt / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/srivaikuntanathan-srivaikuntam.mp3",
     "durationSec": 161
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srivaikuntanathan-srivaikuntam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ശ്രീവൈകുണ്ഠനാഥൻ പെരുമാൾ ക്ഷേത്രം, ശ്രീവൈകുണ്ഠം",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

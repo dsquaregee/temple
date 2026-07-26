@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/vaitheeswaran-koil.mp3",
     "durationSec": 213
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaitheeswaran-koil.jpg",
+    "color": "#5C3A2E",
+    "alt": "వైతీశ్వరన్ కోయిల్",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · raguleo / Wikimedia Commons (CC BY 3.0)"
   }
 }

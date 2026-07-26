@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/thirunageswaram-naganathaswamy.mp3",
     "durationSec": 197
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thirunageswaram-naganathaswamy.jpg",
+    "color": "#5C3A2E",
+    "alt": "திருநாகேஸ்வரம் நாகநாதசுவாமி கோயில்",
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

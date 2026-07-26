@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/suchindram-thanumalayan.mp3",
     "durationSec": 212
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/suchindram-thanumalayan.jpg",
+    "color": "#5C3A2E",
+    "alt": "தாணுமாலயன் கோயில், சுசீந்திரம்",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

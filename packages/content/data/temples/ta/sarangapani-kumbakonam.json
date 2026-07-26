@@ -37,5 +37,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/sarangapani-kumbakonam.mp3",
     "durationSec": 252
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/sarangapani-kumbakonam.jpg",
+    "color": "#5C3A2E",
+    "alt": "சாரங்கபாணி கோயில், கும்பகோணம்",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

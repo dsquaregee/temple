@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/srivaikuntanathan-srivaikuntam.mp3",
     "durationSec": 158
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srivaikuntanathan-srivaikuntam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஸ்ரீவைகுண்டநாதன் பெருமாள் கோயில், ஸ்ரீவைகுண்டம்",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

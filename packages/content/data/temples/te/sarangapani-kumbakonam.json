@@ -37,5 +37,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/sarangapani-kumbakonam.mp3",
     "durationSec": 224
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/sarangapani-kumbakonam.jpg",
+    "color": "#5C3A2E",
+    "alt": "శారంగపాణి ఆలయం, కుంభకోణం",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

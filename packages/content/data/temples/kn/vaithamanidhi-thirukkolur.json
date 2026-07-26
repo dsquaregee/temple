@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/vaithamanidhi-thirukkolur.mp3",
     "durationSec": 143
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaithamanidhi-thirukkolur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವೈತ್ತಮಾನಿಧಿ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಕ್ಕೋಳೂರ್",
+    "credit": "Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Madhavan. A / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
