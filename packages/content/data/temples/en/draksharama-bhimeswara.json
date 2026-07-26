@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/draksharama-bhimeswara.jpg",
     "color": "#5C3A2E",
     "alt": "Draksharama (Bhimeswara Temple)",
-    "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/draksharama-bhimeswara.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/draksharama-bhimeswara.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/draksharama-bhimeswara.jpg"
+    "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/draksharama-bhimeswara.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/draksharama-bhimeswara.jpg",
+    "durationSec": 227,
+    "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

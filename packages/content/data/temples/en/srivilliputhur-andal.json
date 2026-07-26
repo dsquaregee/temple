@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/srivilliputhur-andal.jpg",
     "color": "#5C3A2E",
     "alt": "Srivilliputhur Andal Temple (Vatapatrasayi)",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/srivilliputhur-andal.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/srivilliputhur-andal.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/srivilliputhur-andal.jpg"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/srivilliputhur-andal.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/srivilliputhur-andal.jpg",
+    "durationSec": 138,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

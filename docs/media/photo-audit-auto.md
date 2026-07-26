@@ -6,7 +6,8 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| vaitheeswaran-koil | 6 | ✅ included |
-| varadaraja-perumal-kanchipuram | 6 | ✅ included |
-| vedaranyeswarar-vedaranyam | 6 | ✅ included |
-| yadadri-lakshmi-narasimha | 6 | ✅ included |
+| chottanikkara-bhagavathy | 3 | ✅ included |
+| draksharama-bhimeswara | 3 | ✅ included |
+| ksheerarama-palakollu | 3 | ✅ included |
+| kumararama-samalkota | 3 | ✅ included |
+| srivilliputhur-andal | 3 | ✅ included |

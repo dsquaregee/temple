@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.jpg",
     "color": "#5C3A2E",
     "alt": "ക്ഷീരാരാമം (ക്ഷീര രാമലിംഗേശ്വര ക്ഷേത്രം)",
-    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/ksheerarama-palakollu.jpg"
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/ksheerarama-palakollu.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.jpg",
+    "durationSec": 215,
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

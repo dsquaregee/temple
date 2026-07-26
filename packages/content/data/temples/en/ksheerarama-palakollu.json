@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.jpg",
     "color": "#5C3A2E",
     "alt": "Ksheerarama (Ksheera Ramalingeswara Temple)",
-    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/ksheerarama-palakollu.jpg"
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/ksheerarama-palakollu.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.jpg",
+    "durationSec": 236,
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/chottanikkara-bhagavathy.jpg",
     "color": "#5C3A2E",
     "alt": "சோற்றானிக்கரா பகவதி கோயில் (ஸ்ரீ ராஜராஜேஸ்வரி)",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/chottanikkara-bhagavathy.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/chottanikkara-bhagavathy.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/chottanikkara-bhagavathy.jpg"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/chottanikkara-bhagavathy.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/chottanikkara-bhagavathy.jpg",
+    "durationSec": 246,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
