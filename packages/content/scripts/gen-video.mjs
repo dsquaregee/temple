@@ -169,6 +169,17 @@ const CURATED = {
     'File:Badami rock cut caves.jpg',
     'File:6th century Ardhanarishwara Badami Caves.jpg',
   ],
+  // Hero backfill batch E (2026-07-26): temples the auto-search left without a
+  // qualifying photo. Each title below was verified by eye to depict the correct
+  // temple and is CC-BY(-SA)/CC0. (Four batch-E Nava/Irattai Tirupati shrines —
+  // adinathar-alvarthirunagari, aravindalochanar-/devapiran-tholaivillimangalam,
+  // kaisinavendan-thirupulingudi — have no CC photo on Commons and stay on the
+  // placeholder silhouette.)
+  'amararama-amaravati': ['File:Amaravathi Amareswara Swami Temple.jpg'],
+  'annavaram-satyanarayana': ['File:Temple annavaram.jpg'],
+  'basara-saraswati': ['File:Temple at basara..JPG'],
+  'chottanikkara-bhagavathy': ['File:Chottanikkara Bhagavathy Temple and surroundings (1).jpg'],
+  'draksharama-bhimeswara': ['File:Draksharamam Temple.jpg'],
 };
 
 const EXCLUDE = /(\bmap\b|plan|diagram|sketch|drawing|engraving|lithograph|inscription|logo|seal|coin|chart|graph|\.svg|panorama.*stitch|\b3d\b|stereo)/i;
