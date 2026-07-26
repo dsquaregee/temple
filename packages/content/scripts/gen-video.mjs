@@ -180,6 +180,15 @@ const CURATED = {
   'basara-saraswati': ['File:Temple at basara..JPG'],
   'chottanikkara-bhagavathy': ['File:Chottanikkara Bhagavathy Temple and surroundings (1).jpg'],
   'draksharama-bhimeswara': ['File:Draksharamam Temple.jpg'],
+  // Hero backfill batch F (2026-07-26): verified by eye, CC-licensed. (Held:
+  // sabarimala-ayyappa — available Commons shots are cluttered/unflattering for a
+  // flagship shrine, keep the placeholder pending a better hand-picked image.
+  // No CC photo of the correct temple: kayarohanaswamy-nagapattinam,
+  // keezhaperumpallam-naganathaswamy, makaranedunkuzhaikkathar-thenthiruperai,
+  // parimala-ranganatha-tiruindalur, somarama-bhimavaram — stay on placeholders.)
+  'ksheerarama-palakollu': ['File:KsheeraRamaLingeswaraSwamy-5.JPG'],
+  'kumararama-samalkota': ['File:Kumararama bhimeswara swamy temple, samalkot, East godavari 03.jpg'],
+  'samayapuram-mariamman': ['File:Temple tower of Samayapuram Mariamman.jpg'],
 };
 
 const EXCLUDE = /(\bmap\b|plan|diagram|sketch|drawing|engraving|lithograph|inscription|logo|seal|coin|chart|graph|\.svg|panorama.*stitch|\b3d\b|stereo)/i;
