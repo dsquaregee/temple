@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/alangudi-apatsahayesvarar.jpg",
     "color": "#5C3A2E",
     "alt": "Alangudi Apatsahayesvarar Temple",
-    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/alangudi-apatsahayesvarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/alangudi-apatsahayesvarar.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/alangudi-apatsahayesvarar.jpg"
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/alangudi-apatsahayesvarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/alangudi-apatsahayesvarar.jpg",
+    "durationSec": 191,
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

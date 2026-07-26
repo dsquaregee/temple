@@ -39,11 +39,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/attukal-bhagavathy.jpg",
     "color": "#5C3A2E",
     "alt": "ஆற்றுகால் பகவதி கோயில்",
-    "credit": "Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/attukal-bhagavathy.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/attukal-bhagavathy.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/attukal-bhagavathy.jpg"
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/attukal-bhagavathy.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/attukal-bhagavathy.jpg",
+    "durationSec": 105,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC0)"
   }
 }

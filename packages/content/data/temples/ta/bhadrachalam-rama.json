@@ -39,11 +39,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/bhadrachalam-rama.jpg",
     "color": "#5C3A2E",
     "alt": "ஶ்ரீ சீதா ராமச்சந்திரசுவாமி கோயில், பத்ராசலம்",
-    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/bhadrachalam-rama.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/bhadrachalam-rama.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/bhadrachalam-rama.jpg"
+    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/bhadrachalam-rama.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/bhadrachalam-rama.jpg",
+    "durationSec": 107,
+    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

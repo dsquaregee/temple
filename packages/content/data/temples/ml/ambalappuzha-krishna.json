@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.jpg",
     "color": "#5C3A2E",
     "alt": "അമ്പലപ്പുഴ ശ്രീകൃഷ്ണസ്വാമി ക്ഷേത്രം",
-    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/ambalappuzha-krishna.jpg"
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/ambalappuzha-krishna.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.jpg",
+    "durationSec": 186,
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
