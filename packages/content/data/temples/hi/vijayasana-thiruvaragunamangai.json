@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/vijayasana-thiruvaragunamangai.mp3",
     "durationSec": 136
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vijayasana-thiruvaragunamangai.jpg",
+    "color": "#5C3A2E",
+    "alt": "विजयासन पेरुमाळ मंदिर, तिरुवरगुणमंगै",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

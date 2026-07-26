@@ -6,8 +6,7 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| chottanikkara-bhagavathy | 3 | ✅ included |
-| draksharama-bhimeswara | 3 | ✅ included |
-| ksheerarama-palakollu | 3 | ✅ included |
-| kumararama-samalkota | 3 | ✅ included |
-| srivilliputhur-andal | 3 | ✅ included |
+| kayarohanaswamy-nagapattinam | 3 | ✅ included |
+| keezhaperumpallam-naganathaswamy | 1 | ◐ hero only (< 3 for video) |
+| vaimurnathar-thiruvaimur | 3 | ✅ included |
+| vijayasana-thiruvaragunamangai | 2 | ◐ hero only (< 3 for video) |

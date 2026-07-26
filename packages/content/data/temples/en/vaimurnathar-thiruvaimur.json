@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/vaimurnathar-thiruvaimur.mp3",
     "durationSec": 143
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaimurnathar-thiruvaimur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Vaimurnathar Temple, Thiruvaimur",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/vaimurnathar-thiruvaimur.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/vaimurnathar-thiruvaimur.jpg",
+    "durationSec": 109,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

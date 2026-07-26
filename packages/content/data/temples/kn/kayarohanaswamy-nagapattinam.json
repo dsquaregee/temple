@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/kayarohanaswamy-nagapattinam.mp3",
     "durationSec": 160
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಕಾಯಾರೋಹಣಸ್ವಾಮಿ ದೇವಾಲಯ, ನಾಗಪಟ್ಟಿಣಂ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/kayarohanaswamy-nagapattinam.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.jpg",
+    "durationSec": 168,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

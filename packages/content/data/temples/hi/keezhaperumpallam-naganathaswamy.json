@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/keezhaperumpallam-naganathaswamy.mp3",
     "durationSec": 210
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/keezhaperumpallam-naganathaswamy.jpg",
+    "color": "#5C3A2E",
+    "alt": "कीळप्पेरुम्पळ्ळम नागनाथस्वामी मंदिर",
+    "credit": "Rsmn / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

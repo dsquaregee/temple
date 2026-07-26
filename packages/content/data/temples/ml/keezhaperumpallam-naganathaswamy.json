@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/keezhaperumpallam-naganathaswamy.mp3",
     "durationSec": 231
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/keezhaperumpallam-naganathaswamy.jpg",
+    "color": "#5C3A2E",
+    "alt": "കീഴപ്പെരുമ്പള്ളം നാഗനാഥസ്വാമി ക്ഷേത്രം",
+    "credit": "Rsmn / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

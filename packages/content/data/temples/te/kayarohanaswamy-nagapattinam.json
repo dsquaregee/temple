@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/kayarohanaswamy-nagapattinam.mp3",
     "durationSec": 152
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.jpg",
+    "color": "#5C3A2E",
+    "alt": "కాయారోహణస్వామి ఆలయం, నాగపట్టణం",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/kayarohanaswamy-nagapattinam.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.jpg",
+    "durationSec": 169,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
