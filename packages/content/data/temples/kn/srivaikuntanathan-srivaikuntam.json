@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/srivaikuntanathan-srivaikuntam.jpg",
     "color": "#5C3A2E",
     "alt": "ಶ್ರೀವೈಕುಂಠನಾಥನ್ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ಶ್ರೀವೈಕುಂಠಂ",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/srivaikuntanathan-srivaikuntam.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/srivaikuntanathan-srivaikuntam.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/srivaikuntanathan-srivaikuntam.jpg"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/srivaikuntanathan-srivaikuntam.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/srivaikuntanathan-srivaikuntam.jpg",
+    "durationSec": 145,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

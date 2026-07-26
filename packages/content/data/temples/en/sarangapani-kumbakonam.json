@@ -42,11 +42,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/sarangapani-kumbakonam.jpg",
     "color": "#5C3A2E",
     "alt": "Sarangapani Temple, Kumbakonam",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/sarangapani-kumbakonam.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/sarangapani-kumbakonam.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/sarangapani-kumbakonam.jpg"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/sarangapani-kumbakonam.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/sarangapani-kumbakonam.jpg",
+    "durationSec": 205,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
