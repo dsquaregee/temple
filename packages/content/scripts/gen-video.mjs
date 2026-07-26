@@ -178,16 +178,16 @@ const CURATED = {
   'amararama-amaravati': ['File:Amaravathi Amareswara Swami Temple.jpg'],
   'annavaram-satyanarayana': ['File:Temple annavaram.jpg'],
   'basara-saraswati': ['File:Temple at basara..JPG'],
-  'chottanikkara-bhagavathy': ['File:Chottanikkara Bhagavathy Temple and surroundings (1).jpg'],
-  'draksharama-bhimeswara': ['File:Draksharamam Temple.jpg'],
+  'chottanikkara-bhagavathy': ['File:Chottanikkara Bhagavathy Temple and surroundings (1).jpg', 'File:Chottanikkara Bhagavathy Temple and surroundings (10).jpg', 'File:Chottanikkara Bhagavathy Temple and surroundings (11).jpg'],
+  'draksharama-bhimeswara': ['File:Draksharamam Temple.jpg', 'File:Draksharamam Temple2.jpg', 'File:Draksharamam Temple3.jpg'],
   // Hero backfill batch F (2026-07-26): verified by eye, CC-licensed. (Held:
   // sabarimala-ayyappa — available Commons shots are cluttered/unflattering for a
   // flagship shrine, keep the placeholder pending a better hand-picked image.
   // No CC photo of the correct temple: kayarohanaswamy-nagapattinam,
   // keezhaperumpallam-naganathaswamy, makaranedunkuzhaikkathar-thenthiruperai,
   // parimala-ranganatha-tiruindalur, somarama-bhimavaram — stay on placeholders.)
-  'ksheerarama-palakollu': ['File:KsheeraRamaLingeswaraSwamy-5.JPG'],
-  'kumararama-samalkota': ['File:Kumararama bhimeswara swamy temple, samalkot, East godavari 03.jpg'],
+  'ksheerarama-palakollu': ['File:KsheeraRamaLingeswaraSwamy-5.JPG', 'File:KsheeraRamaLingeswaraSwamy-6.JPG', 'File:KsheeraRamaLingeswaraSwamy-7.JPG'],
+  'kumararama-samalkota': ['File:Kumararama bhimeswara swamy temple, samalkot, East godavari 03.jpg', 'File:Kumararama bhimeswara swamy temple, samalkot, East godavari 04.jpg', 'File:Kumararama bhimeswara swamy temple, samalkot, East godavari 05.jpg'],
   'samayapuram-mariamman': ['File:Temple tower of Samayapuram Mariamman.jpg'],
   // Hero backfill batch G (2026-07-26): verified by eye, CC-licensed. Chosen
   // carefully to avoid same-name wrong temples (Kanchipuram Kailasanathar, a
@@ -195,7 +195,7 @@ const CURATED = {
   // shot of the temple building. No CC photo: srinivasan-thirukkulandhai,
   // suryanar-koil, thiruvenkadu-swetaranyeswarar, vaimurnathar-thiruvaimur,
   // vijayasana-thiruvaragunamangai — stay on placeholders.)
-  'srivilliputhur-andal': ['File:Srivilliputhur Andal temple (2).jpg'],
+  'srivilliputhur-andal': ['File:Srivilliputhur Andal temple (2).jpg', 'File:Srivilliputhur Andal temple (4).jpg', 'File:Srivilliputhur Andal temple (5).jpg'],
   'thingalur-kailasanathar': ['File:Kailasanathar Temple, Thingalur (4).jpg'],
   'thiruvidaimarudur-mahalingaswamy': ['File:Tiruvidaimaruthur11.jpg'],
 };
