@@ -10,7 +10,9 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "export:web": "pnpm --filter @temple/content generate && expo export --platform web",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "gen:icons": "node scripts/gen-app-icons.mjs",
+    "eas-build-post-install": "pnpm --filter @temple/content generate"
   },
   "dependencies": {
     "@babel/runtime": "^7.24.0",

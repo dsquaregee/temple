@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Temple">
+  <!-- Splash logo: the gopuram mark in the brand maroon on a transparent field,
+       centred so Expo composits it over the cream splash backgroundColor
+       (#FAF6EE). Derived from icon.svg, mapped 512→1024 via translate(154,126)
+       scale(1.4). -->
+  <g transform="translate(154,126) scale(1.4)">
+    <g fill="#b3411f">
+      <rect x="96" y="360" width="320" height="72" rx="6"/>
+      <rect x="132" y="300" width="248" height="64" rx="6"/>
+      <rect x="164" y="244" width="184" height="60" rx="6"/>
+      <rect x="192" y="192" width="128" height="56" rx="6"/>
+      <path d="M256 120 L332 196 L180 196 Z"/>
+      <rect x="240" y="360" width="32" height="72"/>
+    </g>
+    <g fill="#d98e04">
+      <circle cx="256" cy="150" r="14"/>
+    </g>
+  </g>
+</svg>

@@ -15,3 +15,8 @@ packages/content/src/generated.ts
 apps/web/public/search/
 .media-tmp/
 .lighthouseci/
+# Store submission credentials for `eas submit` — never commit
+apps/mobile/play-service-account.json
+play-service-account.json
+apps/mobile/asc-api-key.p8
+*.p8

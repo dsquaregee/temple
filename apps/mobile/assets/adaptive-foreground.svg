@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Temple">
+  <!-- Android adaptive-icon FOREGROUND: gopuram only, on a transparent field,
+       scaled to sit inside the ~66% safe zone (the OS mask crops the outer edge).
+       The maroon field is supplied by android.adaptiveIcon.backgroundColor.
+       The artwork below is the icon.svg gopuram (512 viewBox) mapped into 1024
+       via translate(102,70) scale(1.6), centring it in the safe zone. -->
+  <g transform="translate(102,70) scale(1.6)">
+    <g fill="#f2ead9">
+      <rect x="96" y="360" width="320" height="72" rx="6"/>
+      <rect x="132" y="300" width="248" height="64" rx="6"/>
+      <rect x="164" y="244" width="184" height="60" rx="6"/>
+      <rect x="192" y="192" width="128" height="56" rx="6"/>
+      <path d="M256 120 L332 196 L180 196 Z"/>
+      <rect x="240" y="360" width="32" height="72"/>
+    </g>
+    <g fill="#d98e04">
+      <circle cx="256" cy="150" r="14"/>
+    </g>
+  </g>
+</svg>

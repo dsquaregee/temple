@@ -3,24 +3,37 @@
     "name": "Temple",
     "slug": "temple",
     "scheme": "temple",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "description": "Discover, learn, and experience the oldest and greatest temples of South India — history, architecture, and significance in six languages, with narrated audio.",
+    "primaryColor": "#B3411F",
+    "icon": "./assets/icon.png",
     "splash": {
+      "image": "./assets/splash.png",
       "backgroundColor": "#FAF6EE",
       "resizeMode": "contain"
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.dsquaregee.temple"
+      "bundleIdentifier": "com.dsquaregee.temple",
+      "buildNumber": "1",
+      "icon": "./assets/icon.png",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "com.dsquaregee.temple",
+      "versionCode": 1,
+      "icon": "./assets/icon.png",
       "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#B3411F"
-      }
+      },
+      "permissions": []
     },
     "web": {
       "bundler": "metro",
