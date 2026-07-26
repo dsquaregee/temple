@@ -4,8 +4,7 @@ Goal: give the **59 temples that still use placeholder silhouettes** a real,
 CC/PD-licensed hero photo, deployed to production in **small batches** so
 progress is durable and anyone can pick it up mid-way.
 
-**Status (2026-07-26): 85 / 101 temples now have real heroes.** All auto-sourced
-(A–D, 32) plus 11 hand-curated (E–G) are live. The **remaining 16 stay on the
+**Status (2026-07-26): 89 / 101 temples have real heroes; 77 / 101 have narrated video.** Auto-sourced (A–D, 32) + 15 hand-curated (E–G plus a native-script round 2) are live. The **remaining 16 stay on the
 branded placeholder** — 14 have no correctly-licensed Commons photo of the right
 temple (mostly obscure Nava Tirupati / Divya Desam shrines), and 2 flagship
 shrines (Sabarimala, Vaikom) were held pending a better hand-picked image. From the
@@ -90,7 +89,7 @@ basara-saraswati, chottanikkara-bhagavathy, draksharama-bhimeswara,
 ksheerarama-palakollu, kumararama-samalkota, samayapuram-mariamman,
 srivilliputhur-andal, thingalur-kailasanathar, thiruvidaimarudur-mahalingaswamy`.
 
-### Remaining placeholders — 16 (still needs a hand-picked Commons file)
+### Remaining placeholders — 12 (no correct CC photo / held)
 
 Held for a better image (a photo exists but is unflattering/unclear for a
 flagship shrine):
@@ -103,11 +102,14 @@ Tirupati / Divya Desam / Navagraha shrines — a native-language Commons search 
 commissioned photography is the likely path):
 `adinathar-alvarthirunagari, aravindalochanar-tholaivillimangalam,
 devapiran-tholaivillimangalam, kaisinavendan-thirupulingudi,
-kayarohanaswamy-nagapattinam, keezhaperumpallam-naganathaswamy,
-makaranedunkuzhaikkathar-thenthiruperai, parimala-ranganatha-tiruindalur,
-somarama-bhimavaram, srinivasan-thirukkulandhai, suryanar-koil,
-thiruvenkadu-swetaranyeswarar, vaimurnathar-thiruvaimur,
-vijayasana-thiruvaragunamangai` (14).
+makaranedunkuzhaikkathar-thenthiruperai (only ceiling/wall art on Commons),
+parimala-ranganatha-tiruindalur, somarama-bhimavaram, srinivasan-thirukkulandhai,
+suryanar-koil, thiruvenkadu-swetaranyeswarar` (10).
+
+**Round 2 (2026-07-26) recovered 4** of the original no-photo list via
+native-script Commons search (worth trying for the rest too): kayarohanaswamy-nagapattinam
++ vaimurnathar-thiruvaimur (hero + video), keezhaperumpallam-naganathaswamy +
+vijayasana-thiruvaragunamangai (hero).
 
 `scratchpad` note for whoever continues: the candidate-finder used here is a
 broader Commons search than gen-video's strict one — worth re-running with
