@@ -4,11 +4,12 @@ Goal: give the **59 temples that still use placeholder silhouettes** a real,
 CC/PD-licensed hero photo, deployed to production in **small batches** so
 progress is durable and anyone can pick it up mid-way.
 
-**Status:** the original 42 temples already have real heroes. This backfills the
-remaining 59 (catalog = 101). Snapshot from the credential-free audit
-(`gen-video.mjs` dry-run → `photo-audit-auto.md`), 2026-07-26:
+**Status (2026-07-26): 74 / 101 temples now have real heroes.** The original 42
+plus the **32 auto-sourced** (batches A–D) are done and live. **27 remain** —
+they need hand-curated Commons files (batches E–G below). From the
+credential-free audit (`gen-video.mjs` dry-run → `photo-audit-auto.md`):
 
-- **32 auto-sourced** — Commons search finds a qualifying hero; no curation needed.
+- **32 auto-sourced** — Commons search finds a qualifying hero; no curation needed. ✅ **DONE (A–D, deployed)**
 - **27 need curation** — no auto-qualifying photo; a Commons file must be picked
   by hand and added to the `CURATED` map in `packages/content/scripts/gen-video.mjs`.
 
@@ -67,10 +68,10 @@ Legend: ☐ not started · ⏳ dispatched · ✅ live & verified
 
 ### Auto-sourced (no curation) — 32 temples
 
-- **Batch A** ☐ — `alangudi-apatsahayesvarar,ambalappuzha-krishna,appakkudathan-tiruppernagar,attukal-bhagavathy,bhadrachalam-rama,brahmapureeswarar-thirukkuvalai,dharmasthala-manjunatha,ettumanoor-mahadeva`
-- **Batch B** ☐ — `kanaka-durga-vijayawada,kanjanur-agneeswarar,kannayiramudayar-thirukaravasal,kanyakumari-bhagavathy,kukke-subramanya,kutralanathar-courtallam,melukote-cheluvanarayana,murudeshwar-shiva`
-- **Batch C** ☐ — `nanjangud-srikanteshwara,nellaiappar-tirunelveli,ranganathaswamy-shivanasamudra,ranganathaswamy-srirangapatna,sarangapani-kumbakonam,srivaikuntanathan-srivaikuntam,suchindram-thanumalayan,thirunageswaram-naganathaswamy`
-- **Batch D** ☐ — `thirunallar-dharbaranyeswarar,thiruvalangadu-vadaranyeswarar,thyagaraja-thiruvarur,vaithamanidhi-thirukkolur,vaitheeswaran-koil,varadaraja-perumal-kanchipuram,vedaranyeswarar-vedaranyam,yadadri-lakshmi-narasimha`
+- **Batch A** ✅ — `alangudi-apatsahayesvarar,ambalappuzha-krishna,appakkudathan-tiruppernagar,attukal-bhagavathy,bhadrachalam-rama,brahmapureeswarar-thirukkuvalai,dharmasthala-manjunatha,ettumanoor-mahadeva`
+- **Batch B** ✅ — `kanaka-durga-vijayawada,kanjanur-agneeswarar,kannayiramudayar-thirukaravasal,kanyakumari-bhagavathy,kukke-subramanya,kutralanathar-courtallam,melukote-cheluvanarayana,murudeshwar-shiva`
+- **Batch C** ✅ — `nanjangud-srikanteshwara,nellaiappar-tirunelveli,ranganathaswamy-shivanasamudra,ranganathaswamy-srirangapatna,sarangapani-kumbakonam,srivaikuntanathan-srivaikuntam,suchindram-thanumalayan,thirunageswaram-naganathaswamy`
+- **Batch D** ✅ — `thirunallar-dharbaranyeswarar,thiruvalangadu-vadaranyeswarar,thyagaraja-thiruvarur,vaithamanidhi-thirukkolur,vaitheeswaran-koil,varadaraja-perumal-kanchipuram,vedaranyeswarar-vedaranyam,yadadri-lakshmi-narasimha`
 
 _Hero-only (1–2 photos, no video even at full run): kanjanur-agneeswarar,
 kukke-subramanya, thirunageswaram-naganathaswamy — heroes still set._
@@ -89,6 +90,17 @@ kukke-subramanya, thirunageswaram-naganathaswamy — heroes still set._
   upgrades the 59 to real photos.
 - `media.yml` / `hero-variants.yml` commit directly to the branch they run on —
   dispatch on the production branch to deploy a batch. Each run is idempotent
-  (`resume=true` skips temples already done).
+  (`resume=true` skips temples already done, but note: `hero_only` temples have
+  no `video.url`, so `resume` will re-process them — harmless, just re-uploads).
+- **Dispatch media runs ONE AT A TIME — wait for each to finish before the next.**
+  Two runs in the same `media-generation` concurrency group will collide: a newer
+  queued run *cancels* the older pending one, and a run that finishes while
+  another is mid-flight *fails its push* (no rebase in the workflow). Batches A–D
+  hit exactly this on the first attempt; C+D were re-run as one clean serial run.
+- **Re-curate `bhadrachalam-rama`** (batch A): the auto-pick is a town welcome
+  arch, not the temple building. Add a proper Commons `File:` to `CURATED` and
+  re-run `media.yml -f only=bhadrachalam-rama -f hero_only=true -f force=true`.
+- After all 59 heroes are in, run `hero-variants.yml` **once** over the full
+  backfilled id set for AVIF/WebP + OG cards (one pass, not per batch).
 - Full Ken Burns videos are a separate, heavier follow-up (drop `hero_only`);
   out of scope for the hero backfill.
