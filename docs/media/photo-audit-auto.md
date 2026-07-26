@@ -6,8 +6,8 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| nellaiappar-tirunelveli | 6 | ✅ included |
-| ranganathaswamy-shivanasamudra | 3 | ✅ included |
-| ranganathaswamy-srirangapatna | 6 | ✅ included |
-| sarangapani-kumbakonam | 6 | ✅ included |
-| srivaikuntanathan-srivaikuntam | 6 | ✅ included |
+| suchindram-thanumalayan | 6 | ✅ included |
+| thirunallar-dharbaranyeswarar | 3 | ✅ included |
+| thiruvalangadu-vadaranyeswarar | 6 | ✅ included |
+| thyagaraja-thiruvarur | 6 | ✅ included |
+| vaithamanidhi-thirukkolur | 6 | ✅ included |

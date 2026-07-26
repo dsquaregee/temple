@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/suchindram-thanumalayan.jpg",
     "color": "#5C3A2E",
     "alt": "తాణుమాలయన్ ఆలయం, సుచీంద్రం",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/suchindram-thanumalayan.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/suchindram-thanumalayan.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/suchindram-thanumalayan.jpg"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/suchindram-thanumalayan.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/suchindram-thanumalayan.jpg",
+    "durationSec": 205,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

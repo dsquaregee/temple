@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "வடாரண்யேசுவரர் கோயில், திருவாலங்காடு",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/thiruvalangadu-vadaranyeswarar.jpg"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/thiruvalangadu-vadaranyeswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "durationSec": 229,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

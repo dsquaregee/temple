@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "വടാരണ്യേശ്വരർ ക്ഷേത്രം, തിരുവാലങ്ങാട്",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/thiruvalangadu-vadaranyeswarar.jpg"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/thiruvalangadu-vadaranyeswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "durationSec": 183,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
