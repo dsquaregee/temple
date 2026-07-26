@@ -135,3 +135,30 @@ Tamil/Telugu/Malayalam temple names for these 14.
   backfilled id set for AVIF/WebP + OG cards (one pass, not per batch).
 - Full Ken Burns videos are a separate, heavier follow-up (drop `hero_only`);
   out of scope for the hero backfill.
+
+---
+
+## Narrated videos (follow-up, 2026-07-26)
+
+Videos need narration (all 101 have it) **+ ≥3 qualifying Commons photos**. 41
+temples already have full videos (6 locales each). Dry-run scope of the 60
+without video:
+
+- **29 video-eligible** (≥3 photos) — building in small batches V1–V6 below via
+  `media.yml` **without** `hero_only` (full Ken Burns render, `resume=true`),
+  one run at a time on the production branch; each commits + auto-deploys.
+- **15 hero-only** (1–2 photos, incl. the E–G curated single-file heroes and
+  gokarna-mahabaleshwara) — need ≥3 CURATED files each before they can get video.
+- **16** have no photos (same placeholders as the hero backfill).
+
+Video batches (✅ done · ⏳ rendering · ☐ pending):
+- **V1** ☐ — `alangudi-apatsahayesvarar,ambalappuzha-krishna,appakkudathan-tiruppernagar,attukal-bhagavathy,bhadrachalam-rama`
+- **V2** ☐ — `brahmapureeswarar-thirukkuvalai,dharmasthala-manjunatha,ettumanoor-mahadeva,kanaka-durga-vijayawada,kannayiramudayar-thirukaravasal`
+- **V3** ☐ — `kanyakumari-bhagavathy,kutralanathar-courtallam,melukote-cheluvanarayana,murudeshwar-shiva,nanjangud-srikanteshwara`
+- **V4** ☐ — `nellaiappar-tirunelveli,ranganathaswamy-shivanasamudra,ranganathaswamy-srirangapatna,sarangapani-kumbakonam,srivaikuntanathan-srivaikuntam`
+- **V5** ☐ — `suchindram-thanumalayan,thirunallar-dharbaranyeswarar,thiruvalangadu-vadaranyeswarar,thyagaraja-thiruvarur,vaithamanidhi-thirukkolur`
+- **V6** ☐ — `vaitheeswaran-koil,varadaraja-perumal-kanchipuram,vedaranyeswarar-vedaranyam,yadadri-lakshmi-narasimha`
+
+Command per batch (full render):
+`gh workflow run media.yml --ref claude/temple-app-phase-1-jfbtxy -f only="<ids>" -f resume=true`
+(omit `hero_only`; verify `.../video/en/<id>.mp4` → 200; one run at a time.)
