@@ -39,11 +39,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/yadadri-lakshmi-narasimha.jpg",
     "color": "#5C3A2E",
     "alt": "श्री लक्ष्मी नरसिंह स्वामी मंदिर, यादाद्रि",
-    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/yadadri-lakshmi-narasimha.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/yadadri-lakshmi-narasimha.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/yadadri-lakshmi-narasimha.jpg"
+    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/yadadri-lakshmi-narasimha.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/yadadri-lakshmi-narasimha.jpg",
+    "durationSec": 95,
+    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
   }
 }

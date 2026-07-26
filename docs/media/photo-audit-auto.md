@@ -6,8 +6,7 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| suchindram-thanumalayan | 6 | ✅ included |
-| thirunallar-dharbaranyeswarar | 3 | ✅ included |
-| thiruvalangadu-vadaranyeswarar | 6 | ✅ included |
-| thyagaraja-thiruvarur | 6 | ✅ included |
-| vaithamanidhi-thirukkolur | 6 | ✅ included |
+| vaitheeswaran-koil | 6 | ✅ included |
+| varadaraja-perumal-kanchipuram | 6 | ✅ included |
+| vedaranyeswarar-vedaranyam | 6 | ✅ included |
+| yadadri-lakshmi-narasimha | 6 | ✅ included |
