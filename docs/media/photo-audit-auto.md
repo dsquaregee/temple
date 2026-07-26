@@ -6,8 +6,6 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| amararama-amaravati | 1 | ◐ hero only (< 999 for video) |
-| annavaram-satyanarayana | 1 | ◐ hero only (< 999 for video) |
-| basara-saraswati | 1 | ◐ hero only (< 999 for video) |
-| chottanikkara-bhagavathy | 1 | ◐ hero only (< 999 for video) |
-| draksharama-bhimeswara | 1 | ◐ hero only (< 999 for video) |
+| ksheerarama-palakollu | 1 | ◐ hero only (< 999 for video) |
+| kumararama-samalkota | 1 | ◐ hero only (< 999 for video) |
+| samayapuram-mariamman | 1 | ◐ hero only (< 999 for video) |

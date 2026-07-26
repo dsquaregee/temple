@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/samayapuram-mariamman.mp3",
     "durationSec": 105
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/samayapuram-mariamman.jpg",
+    "color": "#5C3A2E",
+    "alt": "అరుళ్మిగు సమయపురం మారియమ్మన్ ఆలయం",
+    "credit": "Thamizhpparithi Maari / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

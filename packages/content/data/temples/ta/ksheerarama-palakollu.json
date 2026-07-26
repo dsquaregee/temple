@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/ksheerarama-palakollu.mp3",
     "durationSec": 292
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.jpg",
+    "color": "#5C3A2E",
+    "alt": "க்ஷீரராமம் (க்ஷீர ராமலிங்கேஸ்வர கோயில்)",
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

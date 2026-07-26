@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/samayapuram-mariamman.mp3",
     "durationSec": 122
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/samayapuram-mariamman.jpg",
+    "color": "#5C3A2E",
+    "alt": "Arulmigu Samayapuram Mariamman Temple",
+    "credit": "Thamizhpparithi Maari / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

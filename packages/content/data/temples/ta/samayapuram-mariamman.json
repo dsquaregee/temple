@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/samayapuram-mariamman.mp3",
     "durationSec": 120
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/samayapuram-mariamman.jpg",
+    "color": "#5C3A2E",
+    "alt": "அருள்மிகு சமயபுரம் மாரியம்மன் கோயில்",
+    "credit": "Thamizhpparithi Maari / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

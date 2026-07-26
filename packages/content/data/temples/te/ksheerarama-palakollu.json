@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/ksheerarama-palakollu.mp3",
     "durationSec": 247
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.jpg",
+    "color": "#5C3A2E",
+    "alt": "క్షీరారామం (క్షీర రామలింగేశ్వర స్వామి ఆలయం)",
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

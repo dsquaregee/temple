@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/kumararama-samalkota.mp3",
     "durationSec": 261
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kumararama-samalkota.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಕುಮಾರಾರಾಮ (ಕುಮಾರ ಭೀಮೇಶ್ವರ ದೇವಾಲಯ)",
+    "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

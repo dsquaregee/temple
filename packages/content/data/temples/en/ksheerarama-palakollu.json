@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/ksheerarama-palakollu.mp3",
     "durationSec": 304
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ksheerarama-palakollu.jpg",
+    "color": "#5C3A2E",
+    "alt": "Ksheerarama (Ksheera Ramalingeswara Temple)",
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

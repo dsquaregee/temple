@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/kumararama-samalkota.mp3",
     "durationSec": 293
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kumararama-samalkota.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kumararama (Kumara Bhimeswara Temple)",
+    "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

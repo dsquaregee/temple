@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/kumararama-samalkota.mp3",
     "durationSec": 281
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kumararama-samalkota.jpg",
+    "color": "#5C3A2E",
+    "alt": "കുമാരാരാമം (കുമാര ഭീമേശ്വര ക്ഷേത്രം)",
+    "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

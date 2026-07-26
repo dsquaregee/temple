@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/kumararama-samalkota.mp3",
     "durationSec": 283
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kumararama-samalkota.jpg",
+    "color": "#5C3A2E",
+    "alt": "குமாராராமம் (குமார பீமேஸ்வரர் கோயில்)",
+    "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

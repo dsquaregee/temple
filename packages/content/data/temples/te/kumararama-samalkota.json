@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/kumararama-samalkota.mp3",
     "durationSec": 258
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kumararama-samalkota.jpg",
+    "color": "#5C3A2E",
+    "alt": "కుమారారామం (కుమార భీమేశ్వర ఆలయం)",
+    "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
