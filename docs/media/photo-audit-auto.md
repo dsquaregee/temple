@@ -6,5 +6,62 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| badami-cave-temples | 3 | ✅ included |
-| kollur-mookambika | 3 | ✅ included |
+| adinathar-alvarthirunagari | 0 | ⚠️ skipped (no qualifying photo) |
+| alangudi-apatsahayesvarar | 6 | ✅ included |
+| amararama-amaravati | 0 | ⚠️ skipped (no qualifying photo) |
+| ambalappuzha-krishna | 6 | ✅ included |
+| annavaram-satyanarayana | 0 | ⚠️ skipped (no qualifying photo) |
+| appakkudathan-tiruppernagar | 6 | ✅ included |
+| aravindalochanar-tholaivillimangalam | 0 | ⚠️ skipped (no qualifying photo) |
+| attukal-bhagavathy | 4 | ✅ included |
+| basara-saraswati | 0 | ⚠️ skipped (no qualifying photo) |
+| bhadrachalam-rama | 6 | ✅ included |
+| brahmapureeswarar-thirukkuvalai | 6 | ✅ included |
+| chottanikkara-bhagavathy | 0 | ⚠️ skipped (no qualifying photo) |
+| devapiran-tholaivillimangalam | 0 | ⚠️ skipped (no qualifying photo) |
+| dharmasthala-manjunatha | 3 | ✅ included |
+| draksharama-bhimeswara | 0 | ⚠️ skipped (no qualifying photo) |
+| ettumanoor-mahadeva | 3 | ✅ included |
+| kaisinavendan-thirupulingudi | 0 | ⚠️ skipped (no qualifying photo) |
+| kanaka-durga-vijayawada | 6 | ✅ included |
+| kanjanur-agneeswarar | 1 | ◐ hero only (< 3 for video) |
+| kannayiramudayar-thirukaravasal | 6 | ✅ included |
+| kanyakumari-bhagavathy | 3 | ✅ included |
+| kayarohanaswamy-nagapattinam | 0 | ⚠️ skipped (no qualifying photo) |
+| keezhaperumpallam-naganathaswamy | 0 | ⚠️ skipped (no qualifying photo) |
+| ksheerarama-palakollu | 0 | ⚠️ skipped (no qualifying photo) |
+| kukke-subramanya | 1 | ◐ hero only (< 3 for video) |
+| kumararama-samalkota | 0 | ⚠️ skipped (no qualifying photo) |
+| kutralanathar-courtallam | 6 | ✅ included |
+| makaranedunkuzhaikkathar-thenthiruperai | 0 | ⚠️ skipped (no qualifying photo) |
+| melukote-cheluvanarayana | 6 | ✅ included |
+| murudeshwar-shiva | 6 | ✅ included |
+| nanjangud-srikanteshwara | 6 | ✅ included |
+| nellaiappar-tirunelveli | 6 | ✅ included |
+| parimala-ranganatha-tiruindalur | 0 | ⚠️ skipped (no qualifying photo) |
+| ranganathaswamy-shivanasamudra | 3 | ✅ included |
+| ranganathaswamy-srirangapatna | 6 | ✅ included |
+| sabarimala-ayyappa | 0 | ⚠️ skipped (no qualifying photo) |
+| samayapuram-mariamman | 0 | ⚠️ skipped (no qualifying photo) |
+| sarangapani-kumbakonam | 6 | ✅ included |
+| somarama-bhimavaram | 0 | ⚠️ skipped (no qualifying photo) |
+| srinivasan-thirukkulandhai | 0 | ⚠️ skipped (no qualifying photo) |
+| srivaikuntanathan-srivaikuntam | 6 | ✅ included |
+| srivilliputhur-andal | 0 | ⚠️ skipped (no qualifying photo) |
+| suchindram-thanumalayan | 6 | ✅ included |
+| suryanar-koil | 0 | ⚠️ skipped (no qualifying photo) |
+| thingalur-kailasanathar | 0 | ⚠️ skipped (no qualifying photo) |
+| thirunageswaram-naganathaswamy | 1 | ◐ hero only (< 3 for video) |
+| thirunallar-dharbaranyeswarar | 3 | ✅ included |
+| thiruvalangadu-vadaranyeswarar | 6 | ✅ included |
+| thiruvenkadu-swetaranyeswarar | 0 | ⚠️ skipped (no qualifying photo) |
+| thiruvidaimarudur-mahalingaswamy | 0 | ⚠️ skipped (no qualifying photo) |
+| thyagaraja-thiruvarur | 6 | ✅ included |
+| vaikom-mahadeva | 0 | ⚠️ skipped (no qualifying photo) |
+| vaimurnathar-thiruvaimur | 0 | ⚠️ skipped (no qualifying photo) |
+| vaithamanidhi-thirukkolur | 6 | ✅ included |
+| vaitheeswaran-koil | 6 | ✅ included |
+| varadaraja-perumal-kanchipuram | 6 | ✅ included |
+| vedaranyeswarar-vedaranyam | 6 | ✅ included |
+| vijayasana-thiruvaragunamangai | 0 | ⚠️ skipped (no qualifying photo) |
+| yadadri-lakshmi-narasimha | 6 | ✅ included |

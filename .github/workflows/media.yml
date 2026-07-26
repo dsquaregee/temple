@@ -25,6 +25,10 @@ on:
         description: Comma-separated locales
         type: string
         default: en,ta,te,kn,ml,hi
+      hero_only:
+        description: Set the hero photo only — skip the (slow) Ken Burns video render
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -69,6 +73,10 @@ jobs:
           VIDEO_RESUME: ${{ inputs.resume && '1' || '' }}
           VIDEO_ONLY: ${{ inputs.only }}
           VIDEO_LOCALES: ${{ inputs.locales }}
+          # hero_only: raise the video photo-count gate out of reach so every
+          # temple with ≥1 qualifying photo still gets its hero, but no Ken Burns
+          # video is rendered (fast, cheap — ideal for hero backfill batches).
+          MIN_PHOTOS: ${{ inputs.hero_only && '999' || '' }}
         run: node packages/content/scripts/gen-video.mjs
 
       - name: Clean up credentials
