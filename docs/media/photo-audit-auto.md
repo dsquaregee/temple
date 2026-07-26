@@ -6,8 +6,8 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| brahmapureeswarar-thirukkuvalai | 6 | ✅ included |
-| dharmasthala-manjunatha | 3 | ✅ included |
-| ettumanoor-mahadeva | 3 | ✅ included |
-| kanaka-durga-vijayawada | 6 | ✅ included |
-| kannayiramudayar-thirukaravasal | 6 | ✅ included |
+| kanyakumari-bhagavathy | 3 | ✅ included |
+| kutralanathar-courtallam | 6 | ✅ included |
+| melukote-cheluvanarayana | 6 | ✅ included |
+| murudeshwar-shiva | 6 | ✅ included |
+| nanjangud-srikanteshwara | 6 | ✅ included |

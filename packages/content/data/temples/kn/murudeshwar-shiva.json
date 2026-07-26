@@ -39,11 +39,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/murudeshwar-shiva.jpg",
     "color": "#5C3A2E",
     "alt": "ಮುರುಡೇಶ್ವರ ದೇವಸ್ಥಾನ",
-    "credit": "Yakshitha / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/murudeshwar-shiva.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/murudeshwar-shiva.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/murudeshwar-shiva.jpg"
+    "credit": "Yakshitha / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/murudeshwar-shiva.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/murudeshwar-shiva.jpg",
+    "durationSec": 95,
+    "credit": "Yakshitha / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
