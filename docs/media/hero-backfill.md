@@ -152,7 +152,7 @@ without video:
 - **16** have no photos (same placeholders as the hero backfill).
 
 Video batches (✅ done · ⏳ rendering · ☐ pending):
-- **V1** ☐ — `alangudi-apatsahayesvarar,ambalappuzha-krishna,appakkudathan-tiruppernagar,attukal-bhagavathy,bhadrachalam-rama`
+- **V1** ✅ — `alangudi-apatsahayesvarar,ambalappuzha-krishna,appakkudathan-tiruppernagar,attukal-bhagavathy,bhadrachalam-rama`
 - **V2** ☐ — `brahmapureeswarar-thirukkuvalai,dharmasthala-manjunatha,ettumanoor-mahadeva,kanaka-durga-vijayawada,kannayiramudayar-thirukaravasal`
 - **V3** ☐ — `kanyakumari-bhagavathy,kutralanathar-courtallam,melukote-cheluvanarayana,murudeshwar-shiva,nanjangud-srikanteshwara`
 - **V4** ☐ — `nellaiappar-tirunelveli,ranganathaswamy-shivanasamudra,ranganathaswamy-srirangapatna,sarangapani-kumbakonam,srivaikuntanathan-srivaikuntam`
