@@ -6,6 +6,6 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| ksheerarama-palakollu | 1 | ◐ hero only (< 999 for video) |
-| kumararama-samalkota | 1 | ◐ hero only (< 999 for video) |
-| samayapuram-mariamman | 1 | ◐ hero only (< 999 for video) |
+| srivilliputhur-andal | 1 | ◐ hero only (< 999 for video) |
+| thingalur-kailasanathar | 1 | ◐ hero only (< 999 for video) |
+| thiruvidaimarudur-mahalingaswamy | 1 | ◐ hero only (< 999 for video) |

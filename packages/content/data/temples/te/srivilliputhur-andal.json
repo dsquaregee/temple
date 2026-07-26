@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/srivilliputhur-andal.mp3",
     "durationSec": 150
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srivilliputhur-andal.jpg",
+    "color": "#5C3A2E",
+    "alt": "శ్రీవిల్లిపుత్తూరు ఆండాళ్ ఆలయం (వటపత్రశాయి)",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

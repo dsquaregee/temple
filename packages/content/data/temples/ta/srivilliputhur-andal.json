@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/srivilliputhur-andal.mp3",
     "durationSec": 172
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srivilliputhur-andal.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஸ்ரீவில்லிபுத்தூர் ஆண்டாள் கோயில் (வடபத்ரசாயி)",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

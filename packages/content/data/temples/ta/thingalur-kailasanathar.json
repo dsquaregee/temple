@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/thingalur-kailasanathar.mp3",
     "durationSec": 214
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thingalur-kailasanathar.jpg",
+    "color": "#5C3A2E",
+    "alt": "திங்களூர் கைலாசநாதர் கோயில்",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

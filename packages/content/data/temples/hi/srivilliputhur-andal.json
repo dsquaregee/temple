@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/srivilliputhur-andal.mp3",
     "durationSec": 159
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srivilliputhur-andal.jpg",
+    "color": "#5C3A2E",
+    "alt": "श्रीविल्लिपुत्तूर आण्डाळ मंदिर (वटपत्रशायी)",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

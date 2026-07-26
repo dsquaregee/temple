@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/thiruvidaimarudur-mahalingaswamy.mp3",
     "durationSec": 119
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvidaimarudur-mahalingaswamy.jpg",
+    "color": "#5C3A2E",
+    "alt": "Mahalingaswamy Temple, Thiruvidaimarudur",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

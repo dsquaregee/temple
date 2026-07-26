@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/srivilliputhur-andal.mp3",
     "durationSec": 172
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srivilliputhur-andal.jpg",
+    "color": "#5C3A2E",
+    "alt": "ശ്രീവില്ലിപുത്തൂർ ആണ്ടാൾ ക്ഷേത്രം (വടപത്രശായി)",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
