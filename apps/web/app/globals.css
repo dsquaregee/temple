@@ -775,3 +775,38 @@ a {
 .center {
   text-align: center;
 }
+
+/* Long-form legal/informational pages (e.g. /privacy). Readable single column;
+   reuses the design tokens so it matches the app without any inline styles. */
+.legal {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px 20px 64px;
+  color: var(--ink-body);
+  line-height: 1.6;
+}
+.legal h1 {
+  font-family: var(--font-display);
+  color: var(--ink-strong);
+  margin-bottom: 4px;
+}
+.legal h2 {
+  font-family: var(--font-display);
+  color: var(--ink-strong);
+  margin-top: 32px;
+  font-size: 20px;
+}
+.legal p,
+.legal li {
+  color: var(--ink-body);
+}
+.legal ul {
+  padding-left: 20px;
+}
+.legal a {
+  color: var(--accent-vermilion);
+}
+.legal .updated {
+  color: var(--ink-muted);
+  font-size: 14px;
+}

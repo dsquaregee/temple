@@ -1,0 +1,18 @@
+{
+  "$comment": "App Store (iOS) listing metadata for `eas metadata:push`. Play Store listing text is in docs/store-release.md (set in the Play Console or via the Play Developer API). Keep the copy here in sync with that doc.",
+  "configVersion": 0,
+  "apple": {
+    "info": {
+      "en-US": {
+        "title": "Temple — South India temples",
+        "subtitle": "History, architecture, darshan",
+        "privacyPolicyUrl": "https://temples.dsquaregee.com/privacy/",
+        "description": "Temple is a free guide to the oldest and greatest temples of South India. Discover each shrine's history, architecture, legends, festivals, and how to visit — written clearly and respectfully, in six languages (Tamil, Telugu, Kannada, Malayalam, Hindi, and English). Every temple has narrated audio so you can listen instead of read.\n\n- 100+ temples across Tamil Nadu, Karnataka, Andhra Pradesh, Telangana, and Kerala\n- Curated pilgrimage circuits (Pancha Bhoota Sthalams, the Great Living Chola Temples, Divya Desams, and more)\n- Narrated audio for every temple, in all six languages\n- Fast, works offline once visited, and free — no account required\n\nContent-only and reverent: no ticketing, no donations handled in-app, and no ads or tracking.",
+        "keywords": ["temple", "South India", "darshan", "pilgrimage", "Hindu", "heritage", "gopuram", "Chola", "yatra", "kovil"],
+        "marketingUrl": "https://temples.dsquaregee.com/",
+        "supportUrl": "https://temples.dsquaregee.com/"
+      }
+    },
+    "categories": ["TRAVEL", "EDUCATION"]
+  }
+}
