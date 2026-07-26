@@ -41,11 +41,12 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/kannayiramudayar-thirukaravasal.jpg",
     "color": "#5C3A2E",
     "alt": "Kannayiramudayar Temple, Thirukaravasal",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/kannayiramudayar-thirukaravasal.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/kannayiramudayar-thirukaravasal.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/kannayiramudayar-thirukaravasal.jpg"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/kannayiramudayar-thirukaravasal.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kannayiramudayar-thirukaravasal.jpg",
+    "durationSec": 118,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

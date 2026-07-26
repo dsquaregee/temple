@@ -6,8 +6,8 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| alangudi-apatsahayesvarar | 6 | ✅ included |
-| ambalappuzha-krishna | 6 | ✅ included |
-| appakkudathan-tiruppernagar | 6 | ✅ included |
-| attukal-bhagavathy | 4 | ✅ included |
-| bhadrachalam-rama | 6 | ✅ included |
+| brahmapureeswarar-thirukkuvalai | 6 | ✅ included |
+| dharmasthala-manjunatha | 3 | ✅ included |
+| ettumanoor-mahadeva | 3 | ✅ included |
+| kanaka-durga-vijayawada | 6 | ✅ included |
+| kannayiramudayar-thirukaravasal | 6 | ✅ included |
