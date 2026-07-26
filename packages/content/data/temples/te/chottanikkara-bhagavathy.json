@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/chottanikkara-bhagavathy.mp3",
     "durationSec": 228
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/chottanikkara-bhagavathy.jpg",
+    "color": "#5C3A2E",
+    "alt": "చొట్టానిక్కర భగవతి ఆలయం (శ్రీ రాజరాజేశ్వరి)",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

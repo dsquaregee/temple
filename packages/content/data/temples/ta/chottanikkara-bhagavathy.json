@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/chottanikkara-bhagavathy.mp3",
     "durationSec": 259
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/chottanikkara-bhagavathy.jpg",
+    "color": "#5C3A2E",
+    "alt": "சோற்றானிக்கரா பகவதி கோயில் (ஸ்ரீ ராஜராஜேஸ்வரி)",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

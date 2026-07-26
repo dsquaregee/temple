@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/basara-saraswati.mp3",
     "durationSec": 107
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/basara-saraswati.jpg",
+    "color": "#5C3A2E",
+    "alt": "ശ്രീ ജ്ഞാന സരസ്വതി ക്ഷേത്രം, ബാസര",
+    "credit": "Bhaskaranaidu / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

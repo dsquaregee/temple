@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/basara-saraswati.mp3",
     "durationSec": 91
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/basara-saraswati.jpg",
+    "color": "#5C3A2E",
+    "alt": "శ్రీ జ్ఞాన సరస్వతి ఆలయం, బాసర",
+    "credit": "Bhaskaranaidu / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

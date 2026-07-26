@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/basara-saraswati.mp3",
     "durationSec": 98
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/basara-saraswati.jpg",
+    "color": "#5C3A2E",
+    "alt": "श्री ज्ञान सरस्वती मंदिर, बासर",
+    "credit": "Bhaskaranaidu / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

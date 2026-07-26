@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/basara-saraswati.mp3",
     "durationSec": 113
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/basara-saraswati.jpg",
+    "color": "#5C3A2E",
+    "alt": "Sri Gnana Saraswati Temple, Basara",
+    "credit": "Bhaskaranaidu / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

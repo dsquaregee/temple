@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/draksharama-bhimeswara.mp3",
     "durationSec": 252
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/draksharama-bhimeswara.jpg",
+    "color": "#5C3A2E",
+    "alt": "द्राक्षारामम् (भीमेश्वर मंदिर)",
+    "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/annavaram-satyanarayana.mp3",
     "durationSec": 117
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/annavaram-satyanarayana.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஶ்ரீ வீர வேங்கட சத்யநாராயண சுவாமி கோயில், அன்னவரம்",
+    "credit": "Akhil.nna / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

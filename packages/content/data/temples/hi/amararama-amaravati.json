@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/amararama-amaravati.mp3",
     "durationSec": 255
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/amararama-amaravati.jpg",
+    "color": "#5C3A2E",
+    "alt": "अमरारामम् (अमरेश्वर मंदिर)",
+    "credit": "Krishna Chaitanya Velaga / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/chottanikkara-bhagavathy.mp3",
     "durationSec": 233
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/chottanikkara-bhagavathy.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಚೊಟ್ಟಾನಿಕ್ಕರ ಭಗವತಿ ದೇವಾಲಯ (ಶ್ರೀ ರಾಜರಾಜೇಶ್ವರಿ)",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

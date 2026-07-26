@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/annavaram-satyanarayana.mp3",
     "durationSec": 108
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/annavaram-satyanarayana.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಶ್ರೀ ವೀರ ವೇಂಕಟ ಸತ್ಯನಾರಾಯಣ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಅನ್ನವರಂ",
+    "credit": "Akhil.nna / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

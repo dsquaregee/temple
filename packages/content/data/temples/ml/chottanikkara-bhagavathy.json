@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/chottanikkara-bhagavathy.mp3",
     "durationSec": 263
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/chottanikkara-bhagavathy.jpg",
+    "color": "#5C3A2E",
+    "alt": "ചോറ്റാനിക്കര ഭഗവതി ക്ഷേത്രം (ശ്രീ രാജരാജേശ്വരി)",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

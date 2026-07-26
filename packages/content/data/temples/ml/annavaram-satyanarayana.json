@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/annavaram-satyanarayana.mp3",
     "durationSec": 121
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/annavaram-satyanarayana.jpg",
+    "color": "#5C3A2E",
+    "alt": "ശ്രീ വീര വേങ്കട സത്യനാരായണ സ്വാമി ക്ഷേത്രം, അന്നവരം",
+    "credit": "Akhil.nna / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

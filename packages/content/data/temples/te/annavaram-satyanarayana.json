@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/annavaram-satyanarayana.mp3",
     "durationSec": 104
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/annavaram-satyanarayana.jpg",
+    "color": "#5C3A2E",
+    "alt": "శ్రీ వీర వేంకట సత్యనారాయణ స్వామి ఆలయం, అన్నవరం",
+    "credit": "Akhil.nna / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
