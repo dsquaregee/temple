@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/attukal-bhagavathy.mp3",
     "durationSec": 96
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/attukal-bhagavathy.jpg",
+    "color": "#5C3A2E",
+    "alt": "ఆట్టుకాల్ భగవతి ఆలయం",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC0)"
   }
 }

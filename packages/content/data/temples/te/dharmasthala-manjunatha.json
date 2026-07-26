@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/dharmasthala-manjunatha.mp3",
     "durationSec": 113
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/dharmasthala-manjunatha.jpg",
+    "color": "#5C3A2E",
+    "alt": "శ్రీ మంజునాథ ఆలయం, ధర్మస్థల",
+    "credit": "A.Murali / Wikimedia Commons (CC0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/appakkudathan-tiruppernagar.mp3",
     "durationSec": 173
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಅಪ್ಪಕ್ಕುಡತ್ತಾನ್ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ಕೋವಿಲಡಿ",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

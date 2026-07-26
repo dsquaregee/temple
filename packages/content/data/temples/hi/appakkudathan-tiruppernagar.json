@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/appakkudathan-tiruppernagar.mp3",
     "durationSec": 176
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "color": "#5C3A2E",
+    "alt": "अप्पक्कुडत्तान् पेरुमाळ मंदिर, कोविलडि",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

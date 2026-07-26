@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/ambalappuzha-krishna.mp3",
     "durationSec": 226
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಅಂಬಲಪ್ಪುೞ ಶ್ರೀ ಕೃಷ್ಣಸ್ವಾಮಿ ದೇವಸ್ಥಾನ",
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

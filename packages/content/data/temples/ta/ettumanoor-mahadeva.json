@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/ettumanoor-mahadeva.mp3",
     "durationSec": 258
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ettumanoor-mahadeva.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஏட்டுமானூர் மகாதேவர் கோயில்",
+    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

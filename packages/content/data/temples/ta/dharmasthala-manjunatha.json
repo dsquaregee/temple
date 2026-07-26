@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/dharmasthala-manjunatha.mp3",
     "durationSec": 132
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/dharmasthala-manjunatha.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஶ்ரீ மஞ்சுநாதர் கோயில், தர்மஸ்தல",
+    "credit": "A.Murali / Wikimedia Commons (CC0)"
   }
 }

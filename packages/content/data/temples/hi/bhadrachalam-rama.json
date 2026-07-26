@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/bhadrachalam-rama.mp3",
     "durationSec": 104
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/bhadrachalam-rama.jpg",
+    "color": "#5C3A2E",
+    "alt": "श्री सीता रामचंद्रस्वामी मंदिर, भद्राचलम",
+    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

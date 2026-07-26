@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/dharmasthala-manjunatha.mp3",
     "durationSec": 116
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/dharmasthala-manjunatha.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಶ್ರೀ ಮಂಜುನಾಥ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಧರ್ಮಸ್ಥಳ",
+    "credit": "A.Murali / Wikimedia Commons (CC0)"
   }
 }

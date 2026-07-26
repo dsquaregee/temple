@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/alangudi-apatsahayesvarar.mp3",
     "durationSec": 203
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/alangudi-apatsahayesvarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ఆలంగుడి అపత్సహాయేశ్వరర్ ఆలయం",
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/brahmapureeswarar-thirukkuvalai.mp3",
     "durationSec": 138
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/brahmapureeswarar-thirukkuvalai.jpg",
+    "color": "#5C3A2E",
+    "alt": "ബ്രഹ്മപുരീശ്വരർ ക്ഷേത്രം, തിരുക്കുവളൈ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/dharmasthala-manjunatha.mp3",
     "durationSec": 137
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/dharmasthala-manjunatha.jpg",
+    "color": "#5C3A2E",
+    "alt": "Sri Manjunatha Temple, Dharmasthala",
+    "credit": "A.Murali / Wikimedia Commons (CC0)"
   }
 }

@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/dharmasthala-manjunatha.mp3",
     "durationSec": 131
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/dharmasthala-manjunatha.jpg",
+    "color": "#5C3A2E",
+    "alt": "ശ്രീ മഞ്ജുനാഥ ക്ഷേത്രം, ധർമസ്ഥല",
+    "credit": "A.Murali / Wikimedia Commons (CC0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/ambalappuzha-krishna.mp3",
     "durationSec": 234
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.jpg",
+    "color": "#5C3A2E",
+    "alt": "అంబలప్పుళ శ్రీ కృష్ణస్వామి ఆలయం",
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

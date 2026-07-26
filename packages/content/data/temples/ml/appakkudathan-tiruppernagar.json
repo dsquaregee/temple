@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/appakkudathan-tiruppernagar.mp3",
     "durationSec": 185
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "color": "#5C3A2E",
+    "alt": "അപ്പക്കുടത്താൻ പെരുമാൾ ക്ഷേത്രം, കോവിലടി",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

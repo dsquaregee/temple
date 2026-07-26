@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/alangudi-apatsahayesvarar.mp3",
     "durationSec": 207
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/alangudi-apatsahayesvarar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಆಲಂಗುಡಿ ಅಪತ್ಸಹಾಯೇಶ್ವರರ್ ದೇವಾಲಯ",
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

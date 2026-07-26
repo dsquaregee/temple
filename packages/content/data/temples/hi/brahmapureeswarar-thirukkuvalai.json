@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/brahmapureeswarar-thirukkuvalai.mp3",
     "durationSec": 125
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/brahmapureeswarar-thirukkuvalai.jpg",
+    "color": "#5C3A2E",
+    "alt": "ब्रह्मपुरीश्वरर् मंदिर, तिरुक्कुवलै",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

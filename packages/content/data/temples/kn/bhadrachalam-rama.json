@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/bhadrachalam-rama.mp3",
     "durationSec": 99
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/bhadrachalam-rama.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಶ್ರೀ ಸೀತಾ ರಾಮಚಂದ್ರಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಭದ್ರಾಚಲಂ",
+    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
