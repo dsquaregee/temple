@@ -41,6 +41,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/thirunageswaram-naganathaswamy.jpg",
     "color": "#5C3A2E",
     "alt": "Thirunageswaram Naganathaswamy Temple",
-    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/thirunageswaram-naganathaswamy.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/thirunageswaram-naganathaswamy.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/thirunageswaram-naganathaswamy.jpg"
   }
 }

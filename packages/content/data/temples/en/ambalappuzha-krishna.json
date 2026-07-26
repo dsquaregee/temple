@@ -41,6 +41,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.jpg",
     "color": "#5C3A2E",
     "alt": "Ambalappuzha Sri Krishna Temple",
-    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/ambalappuzha-krishna.jpg"
   }
 }

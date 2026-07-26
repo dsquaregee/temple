@@ -39,6 +39,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/kukke-subramanya.jpg",
     "color": "#5C3A2E",
     "alt": "ಕುಕ್ಕೆ ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಸ್ಥಾನ",
-    "credit": "Maneesha Shetty / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Maneesha Shetty / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/kukke-subramanya.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/kukke-subramanya.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/kukke-subramanya.jpg"
   }
 }

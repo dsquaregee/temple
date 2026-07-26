@@ -41,6 +41,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "Vadaranyeswarar Temple, Thiruvalangadu",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/thiruvalangadu-vadaranyeswarar.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/thiruvalangadu-vadaranyeswarar.jpg"
   }
 }

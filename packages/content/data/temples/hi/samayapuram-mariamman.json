@@ -39,6 +39,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/samayapuram-mariamman.jpg",
     "color": "#5C3A2E",
     "alt": "अरुळमिगु समयपुरम मारियम्मन मंदिर",
-    "credit": "Thamizhpparithi Maari / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Thamizhpparithi Maari / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/samayapuram-mariamman.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/samayapuram-mariamman.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/samayapuram-mariamman.jpg"
   }
 }

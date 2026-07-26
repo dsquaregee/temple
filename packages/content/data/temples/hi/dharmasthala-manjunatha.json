@@ -39,6 +39,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/dharmasthala-manjunatha.jpg",
     "color": "#5C3A2E",
     "alt": "श्री मंजुनाथ मंदिर, धर्मस्थल",
-    "credit": "A.Murali / Wikimedia Commons (CC0)"
+    "credit": "A.Murali / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/dharmasthala-manjunatha.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/dharmasthala-manjunatha.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/dharmasthala-manjunatha.jpg"
   }
 }

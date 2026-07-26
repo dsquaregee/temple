@@ -39,6 +39,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/nanjangud-srikanteshwara.jpg",
     "color": "#5C3A2E",
     "alt": "Srikanteshwara Temple, Nanjangud",
-    "credit": "Dineshkannambadi / Wikimedia Commons (CC BY-SA 3.0) · A.Murali / Wikimedia Commons (CC0)"
+    "credit": "Dineshkannambadi / Wikimedia Commons (CC BY-SA 3.0) · A.Murali / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/nanjangud-srikanteshwara.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/nanjangud-srikanteshwara.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/nanjangud-srikanteshwara.jpg"
   }
 }

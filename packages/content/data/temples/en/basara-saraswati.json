@@ -39,6 +39,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/basara-saraswati.jpg",
     "color": "#5C3A2E",
     "alt": "Sri Gnana Saraswati Temple, Basara",
-    "credit": "Bhaskaranaidu / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "Bhaskaranaidu / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/basara-saraswati.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/basara-saraswati.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/basara-saraswati.jpg"
   }
 }

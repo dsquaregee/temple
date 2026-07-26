@@ -41,6 +41,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/kanjanur-agneeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "കാഞ്ജനൂർ അഗ്നീശ്വരർ ക്ഷേത്രം",
-    "credit": "Sathiyaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Sathiyaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/kanjanur-agneeswarar.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/kanjanur-agneeswarar.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/kanjanur-agneeswarar.jpg"
   }
 }

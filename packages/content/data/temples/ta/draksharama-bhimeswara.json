@@ -41,6 +41,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/draksharama-bhimeswara.jpg",
     "color": "#5C3A2E",
     "alt": "த்ராக்ஷாராமம் (பீமேஸ்வரர் கோயில்)",
-    "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/draksharama-bhimeswara.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/draksharama-bhimeswara.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/draksharama-bhimeswara.jpg"
   }
 }

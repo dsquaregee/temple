@@ -41,6 +41,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/kumararama-samalkota.jpg",
     "color": "#5C3A2E",
     "alt": "ಕುಮಾರಾರಾಮ (ಕುಮಾರ ಭೀಮೇಶ್ವರ ದೇವಾಲಯ)",
-    "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/kumararama-samalkota.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/kumararama-samalkota.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/kumararama-samalkota.jpg"
   }
 }
