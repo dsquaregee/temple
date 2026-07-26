@@ -156,7 +156,7 @@ Video batches (✅ done · ⏳ rendering · ☐ pending):
 - **V2** ✅ — `brahmapureeswarar-thirukkuvalai,dharmasthala-manjunatha,ettumanoor-mahadeva,kanaka-durga-vijayawada,kannayiramudayar-thirukaravasal`
 - **V3** ✅ — `kanyakumari-bhagavathy,kutralanathar-courtallam,melukote-cheluvanarayana,murudeshwar-shiva,nanjangud-srikanteshwara`
 - **V4** ✅ — `nellaiappar-tirunelveli,ranganathaswamy-shivanasamudra,ranganathaswamy-srirangapatna,sarangapani-kumbakonam,srivaikuntanathan-srivaikuntam`
-- **V5** ☐ — `suchindram-thanumalayan,thirunallar-dharbaranyeswarar,thiruvalangadu-vadaranyeswarar,thyagaraja-thiruvarur,vaithamanidhi-thirukkolur`
+- **V5** ✅ — `suchindram-thanumalayan,thirunallar-dharbaranyeswarar,thiruvalangadu-vadaranyeswarar,thyagaraja-thiruvarur,vaithamanidhi-thirukkolur`
 - **V6** ☐ — `vaitheeswaran-koil,varadaraja-perumal-kanchipuram,vedaranyeswarar-vedaranyam,yadadri-lakshmi-narasimha`
 
 Command per batch (full render):
