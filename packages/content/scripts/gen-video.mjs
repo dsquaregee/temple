@@ -189,6 +189,15 @@ const CURATED = {
   'ksheerarama-palakollu': ['File:KsheeraRamaLingeswaraSwamy-5.JPG'],
   'kumararama-samalkota': ['File:Kumararama bhimeswara swamy temple, samalkot, East godavari 03.jpg'],
   'samayapuram-mariamman': ['File:Temple tower of Samayapuram Mariamman.jpg'],
+  // Hero backfill batch G (2026-07-26): verified by eye, CC-licensed. Chosen
+  // carefully to avoid same-name wrong temples (Kanchipuram Kailasanathar, a
+  // Delhi museum chariot-temple model). (Held: vaikom-mahadeva — no clean CC
+  // shot of the temple building. No CC photo: srinivasan-thirukkulandhai,
+  // suryanar-koil, thiruvenkadu-swetaranyeswarar, vaimurnathar-thiruvaimur,
+  // vijayasana-thiruvaragunamangai — stay on placeholders.)
+  'srivilliputhur-andal': ['File:Srivilliputhur Andal temple (2).jpg'],
+  'thingalur-kailasanathar': ['File:Kailasanathar Temple, Thingalur (4).jpg'],
+  'thiruvidaimarudur-mahalingaswamy': ['File:Tiruvidaimaruthur11.jpg'],
 };
 
 const EXCLUDE = /(\bmap\b|plan|diagram|sketch|drawing|engraving|lithograph|inscription|logo|seal|coin|chart|graph|\.svg|panorama.*stitch|\b3d\b|stereo)/i;
