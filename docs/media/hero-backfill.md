@@ -4,16 +4,11 @@ Goal: give the **59 temples that still use placeholder silhouettes** a real,
 CC/PD-licensed hero photo, deployed to production in **small batches** so
 progress is durable and anyone can pick it up mid-way.
 
-**Status (2026-07-26): 89 / 101 temples have real heroes; 77 / 101 have narrated video.** Auto-sourced (A–D, 32) + 15 hand-curated (E–G plus a native-script round 2) are live. The **remaining 16 stay on the
-branded placeholder** — 14 have no correctly-licensed Commons photo of the right
-temple (mostly obscure Nava Tirupati / Divya Desam shrines), and 2 flagship
-shrines (Sabarimala, Vaikom) were held pending a better hand-picked image. From the
-credential-free audit (`gen-video.mjs` dry-run → `photo-audit-auto.md`):
-
-- **32 auto-sourced** — Commons search finds a qualifying hero; no curation needed. ✅ **DONE (A–D, deployed)**
-- **27 needed curation** — **11 curated & deployed** (E–G); **16 remain on
-  placeholder** (see "Remaining placeholders" below): 14 have no correctly-licensed
-  Commons photo of the right temple, 2 (Sabarimala, Vaikom) held for a better pick.
+**Status (2026-07-26): 89 / 101 temples have real heroes; 77 / 101 have narrated video.** Auto-sourced (A–D, 32) + 15 hand-curated (E–G plus a native-script round 2) are live. The **remaining 12 stay on the
+branded placeholder** — 10 have no correctly-licensed Commons photo of the right
+temple (obscure Nava Tirupati / Divya Desam shrines), and 2 flagship shrines
+(Sabarimala, Vaikom) are held pending a better hand-picked image. See
+"Remaining placeholders" below.
 
 ## How each batch works (deploys straight to production)
 
