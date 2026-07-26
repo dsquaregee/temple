@@ -6,6 +6,7 @@ import {
   SORTS,
   filterTemples,
   regionsOf,
+  searchIndexText,
   sortTemples,
   t,
   type Era,
@@ -86,6 +87,13 @@ export default function DiscoverScreen() {
   const temples = getTemples(locale);
   const circuits = getCircuits(locale);
   const regions = useMemo(() => regionsOf(temples), [temples]);
+  // Native bundles the whole catalog, so there is no payload reason to split the
+  // search-only fields out (as web does via a lazy index) — build the same
+  // id → deity/tradition/style/period map in memory so search fidelity matches.
+  const searchIndex = useMemo(
+    () => Object.fromEntries(temples.map((tp) => [tp.id, searchIndexText(tp)])),
+    [temples],
+  );
 
   const [query, setQuery] = useState('');
   const [circuit, setCircuit] = useState('all');
@@ -97,11 +105,11 @@ export default function DiscoverScreen() {
   const results = useMemo(
     () =>
       sortTemples(
-        filterTemples(temples, { query, circuit, region, era, unescoOnly }),
+        filterTemples(temples, { query, circuit, region, era, unescoOnly, searchIndex }),
         sort,
         locale,
       ),
-    [temples, query, circuit, region, era, unescoOnly, sort, locale],
+    [temples, query, circuit, region, era, unescoOnly, sort, locale, searchIndex],
   );
 
   const filtersActive =

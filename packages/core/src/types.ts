@@ -76,22 +76,26 @@ export interface Temple {
   video?: TempleVideo;
 }
 
-// The subset of a Temple needed to list, search, facet, and sort it — but NOT
+// The subset of a Temple needed to list, DISPLAY, facet, and sort it — but NOT
 // the long-form `sections`/`visit` prose, hero, or media. The Discover tab is a
 // client component, so anything on the Temple object it receives is serialized
 // into the page's HTML for hydration; projecting to this shape keeps the full
 // catalog prose (the bulk of each temple) off the listing payload. A full
 // Temple structurally satisfies it, so it can be used anywhere a card is shown.
+//
+// Only fields the card actually renders (name, native name, city/state, dynasty,
+// UNESCO) or that drive facets/sort (century, circuits) live here. The
+// search-only fields — `deity`, `tradition`, `style`, `period` — are NOT on the
+// card: they were never displayed, only fed to the search haystack, and at the
+// full catalog they were ~a fifth of the listing payload. They now load lazily
+// as a per-locale search index (see `searchIndexText` / `TempleFilter.searchIndex`),
+// so the listing HTML stops carrying them for every temple.
 export type TempleCardData = Pick<
   Temple,
   | 'id'
   | 'name'
   | 'nativeName'
-  | 'deity'
-  | 'tradition'
   | 'dynasty'
-  | 'style'
-  | 'period'
   | 'century'
   | 'unesco'
   | 'circuits'

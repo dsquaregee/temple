@@ -12,5 +12,6 @@ build/
 !.env.example
 .DS_Store
 packages/content/src/generated.ts
+apps/web/public/search/
 .media-tmp/
 .lighthouseci/
