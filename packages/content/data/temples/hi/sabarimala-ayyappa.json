@@ -41,6 +41,11 @@
     "src": "https://storage.googleapis.com/temple-502523-media/heroes/sabarimala-ayyappa.jpg",
     "color": "#5C3A2E",
     "alt": "सबरीमाला श्री धर्म शास्ता मंदिर (अय्यप्पन)",
-    "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/sabarimala-ayyappa.avif",
+      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/sabarimala-ayyappa.webp"
+    },
+    "og": "https://storage.googleapis.com/temple-502523-media/og/sabarimala-ayyappa.jpg"
   }
 }
