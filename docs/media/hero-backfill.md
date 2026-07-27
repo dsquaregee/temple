@@ -4,11 +4,7 @@ Goal: give the **59 temples that still use placeholder silhouettes** a real,
 CC/PD-licensed hero photo, deployed to production in **small batches** so
 progress is durable and anyone can pick it up mid-way.
 
-**Status (2026-07-26): 89 / 101 temples have real heroes; 77 / 101 have narrated video.** Auto-sourced (A–D, 32) + 15 hand-curated (E–G plus a native-script round 2) are live. The **remaining 12 stay on the
-branded placeholder** — 10 have no correctly-licensed Commons photo of the right
-temple (obscure Nava Tirupati / Divya Desam shrines), and 2 flagship shrines
-(Sabarimala, Vaikom) are held pending a better hand-picked image. See
-"Remaining placeholders" below.
+**Status (2026-07-27): 92 / 101 temples have real hero photos; 78 / 101 have narrated video.** Everything auto-sourced + hand-curated across three rounds (keyword → native-script → Commons-category search) is live and quality-checked. The **9 remaining stay on the branded placeholder** — they have no correctly-licensed Commons photo of the right temple anywhere (obscure Nava Tirupati / Divya Desam shrines with zero Commons presence); the placeholder is their accepted last-resort workaround. See "Remaining placeholders" below.
 
 ## How each batch works (deploys straight to production)
 
@@ -84,31 +80,35 @@ basara-saraswati, chottanikkara-bhagavathy, draksharama-bhimeswara,
 ksheerarama-palakollu, kumararama-samalkota, samayapuram-mariamman,
 srivilliputhur-andal, thingalur-kailasanathar, thiruvidaimarudur-mahalingaswamy`.
 
-### Remaining placeholders — 12 (no correct CC photo / held)
+### Remaining placeholders — 9 (no Commons photo anywhere — placeholder is the workaround)
 
-Held for a better image (a photo exists but is unflattering/unclear for a
-flagship shrine):
-- `sabarimala-ayyappa` — available shots are cluttered (wires/rooftops).
-- `vaikom-mahadeva` — no clean CC shot of the temple building (matches were
-  other Kottayam-area temples).
+Search exhausted across three methods (keyword English, native-script Tamil/Telugu/
+Malayalam, and Commons category listing); none of these temples has a
+correctly-licensed photo of the *right* temple on Wikimedia Commons. They render
+the branded per-temple gopuram silhouette (dignified, never blank) as the genuine
+last-resort workaround. Closing these needs commissioned photography or a photo
+appearing on Commons later:
 
-No correctly-licensed Commons photo of the right temple found (obscure Nava
-Tirupati / Divya Desam / Navagraha shrines — a native-language Commons search or
-commissioned photography is the likely path):
 `adinathar-alvarthirunagari, aravindalochanar-tholaivillimangalam,
 devapiran-tholaivillimangalam, kaisinavendan-thirupulingudi,
-makaranedunkuzhaikkathar-thenthiruperai (only ceiling/wall art on Commons),
-parimala-ranganatha-tiruindalur, somarama-bhimavaram, srinivasan-thirukkulandhai,
-suryanar-koil, thiruvenkadu-swetaranyeswarar` (10).
+makaranedunkuzhaikkathar-thenthiruperai, parimala-ranganatha-tiruindalur,
+somarama-bhimavaram, srinivasan-thirukkulandhai, thiruvenkadu-swetaranyeswarar` (9).
 
-**Round 2 (2026-07-26) recovered 4** of the original no-photo list via
-native-script Commons search (worth trying for the rest too): kayarohanaswamy-nagapattinam
-+ vaimurnathar-thiruvaimur (hero + video), keezhaperumpallam-naganathaswamy +
-vijayasana-thiruvaragunamangai (hero).
+Recovered across rounds 2–3 (native-script + category search): kayarohanaswamy,
+keezhaperumpallam, vaimurnathar, vijayasana, vaikom, suryanar (hero; vaikom +
+kayarohanaswamy + vaimurnathar also video). sabarimala uses the real Sannidhanam
+plaza as a last-resort workaround.
 
-`scratchpad` note for whoever continues: the candidate-finder used here is a
-broader Commons search than gen-video's strict one — worth re-running with
-Tamil/Telugu/Malayalam temple names for these 14.
+## Final quality check (2026-07-27) — all green
+
+- content validate (101×6, 17 circuits) · translation QA (100% target-script) ·
+  62/62 unit tests · web build 737 pages + CSP hashes (737/737) ·
+  byte budget (largest HTML 269.8 KB / 320, 84%) · Lighthouse a11y 96–100,
+  best-practices 96–100, SEO 100, CLS gate pass (perf non-blocking).
+- **Watch item:** the Home page payload grew to 84% of budget as more temples
+  gained heroes (each featured temple now carries a hero ref). If it nears the
+  cap, trim the Home `featuredTemples` payload the same way Discover was trimmed.
+
 
 ---
 
