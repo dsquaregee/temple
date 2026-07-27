@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/sabarimala-ayyappa.mp3",
     "durationSec": 274
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/sabarimala-ayyappa.jpg",
+    "color": "#5C3A2E",
+    "alt": "சபரிமலை ஸ்ரீ தர்ம சாஸ்தா கோயில் (ஐயப்பன்)",
+    "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

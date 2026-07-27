@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/vaikom-mahadeva.mp3",
     "durationSec": 263
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.jpg",
+    "color": "#5C3A2E",
+    "alt": "വൈക്കം മഹാദേവ ക്ഷേത്രം (വൈക്കത്തപ്പൻ)",
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/vaikom-mahadeva.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.jpg",
+    "durationSec": 202,
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

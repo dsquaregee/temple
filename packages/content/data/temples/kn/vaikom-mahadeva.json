@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/vaikom-mahadeva.mp3",
     "durationSec": 237
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವೈಕ್ಕಂ ಮಹಾದೇವ ದೇವಾಲಯ (ವೈಕ್ಕತ್ತಪ್ಪನ್)",
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/vaikom-mahadeva.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.jpg",
+    "durationSec": 249,
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

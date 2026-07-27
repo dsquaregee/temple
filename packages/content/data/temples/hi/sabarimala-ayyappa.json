@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/sabarimala-ayyappa.mp3",
     "durationSec": 255
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/sabarimala-ayyappa.jpg",
+    "color": "#5C3A2E",
+    "alt": "सबरीमाला श्री धर्म शास्ता मंदिर (अय्यप्पन)",
+    "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

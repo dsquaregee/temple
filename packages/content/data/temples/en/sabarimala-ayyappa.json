@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/sabarimala-ayyappa.mp3",
     "durationSec": 286
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/sabarimala-ayyappa.jpg",
+    "color": "#5C3A2E",
+    "alt": "Sabarimala Sri Dharma Sastha Temple (Ayyappan)",
+    "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

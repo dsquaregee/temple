@@ -6,7 +6,6 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| kayarohanaswamy-nagapattinam | 3 | ✅ included |
-| keezhaperumpallam-naganathaswamy | 1 | ◐ hero only (< 3 for video) |
-| vaimurnathar-thiruvaimur | 3 | ✅ included |
-| vijayasana-thiruvaragunamangai | 2 | ◐ hero only (< 3 for video) |
+| sabarimala-ayyappa | 1 | ◐ hero only (< 3 for video) |
+| suryanar-koil | 1 | ◐ hero only (< 3 for video) |
+| vaikom-mahadeva | 3 | ✅ included |

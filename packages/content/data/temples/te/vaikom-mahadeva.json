@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/vaikom-mahadeva.mp3",
     "durationSec": 231
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.jpg",
+    "color": "#5C3A2E",
+    "alt": "వైకోం మహాదేవ ఆలయం (వైక్కత్తప్పన్)",
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/te/vaikom-mahadeva.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.jpg",
+    "durationSec": 257,
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

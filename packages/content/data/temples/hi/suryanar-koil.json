@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/suryanar-koil.mp3",
     "durationSec": 238
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/suryanar-koil.jpg",
+    "color": "#5C3A2E",
+    "alt": "सूर्यनार कोयिल (सूर्य मंदिर)",
+    "credit": "PJeganathan / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

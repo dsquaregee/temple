@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/sabarimala-ayyappa.mp3",
     "durationSec": 242
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/sabarimala-ayyappa.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಶಬರಿಮಲೆ ಶ್ರೀ ಧರ್ಮ ಶಾಸ್ತಾ ದೇವಾಲಯ (ಅಯ್ಯಪ್ಪನ್)",
+    "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

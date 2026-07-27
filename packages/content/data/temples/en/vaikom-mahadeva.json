@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/vaikom-mahadeva.mp3",
     "durationSec": 308
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.jpg",
+    "color": "#5C3A2E",
+    "alt": "Vaikom Mahadeva Temple (Vaikkathappan)",
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://storage.googleapis.com/temple-502523-media/video/en/vaikom-mahadeva.mp4",
+    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.jpg",
+    "durationSec": 242,
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

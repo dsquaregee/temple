@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/sabarimala-ayyappa.mp3",
     "durationSec": 265
+  },
+  "hero": {
+    "src": "https://storage.googleapis.com/temple-502523-media/heroes/sabarimala-ayyappa.jpg",
+    "color": "#5C3A2E",
+    "alt": "ശബരിമല ശ്രീ ധർമ്മശാസ്താ ക്ഷേത്രം (അയ്യപ്പൻ)",
+    "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
