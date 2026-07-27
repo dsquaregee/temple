@@ -203,6 +203,13 @@ const CURATED = {
   'keezhaperumpallam-naganathaswamy': ['File:Kethu sthal.JPG'],
   'vaimurnathar-thiruvaimur': ['File:Vaimoornathar Temple Tiruvaimur (18).jpg', 'File:Vaimoornathar Temple Tiruvaimur (1).jpg', 'File:Vaimoornathar Temple Tiruvaimur (2).jpg'],
   'vijayasana-thiruvaragunamangai': ['File:Varagunamangai1.jpg', 'File:Varagunamangai2.jpg'],
+  // Hero backfill round 3 (2026-07-26): recovered via Commons *category* listing
+  // (keyword search missed these). Verified by eye. vaikom has 3+ correct files
+  // (→ video). sabarimala uses the real Sannidhanam plaza as a last-resort
+  // workaround (the only decent CC option for this photography-restricted shrine).
+  'vaikom-mahadeva': ['File:Vaikom Mahadeva Temple front - side view.jpg', 'File:Vaikom Mahadeva Temple - front view on a rainy day.jpg', 'File:Vaikom Mahadeva Temple - atwilight view.jpg'],
+  'suryanar-koil': ['File:Suryanar Koil in Tamil Nadu JEG6875.jpg'],
+  'sabarimala-ayyappa': ['File:Sannidhanam, Sabarimala.jpg'],
   'thingalur-kailasanathar': ['File:Kailasanathar Temple, Thingalur (4).jpg'],
   'thiruvidaimarudur-mahalingaswamy': ['File:Tiruvidaimaruthur11.jpg'],
 };
