@@ -6,7 +6,6 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| vaitheeswaran-koil | 6 | ✅ included |
-| varadaraja-perumal-kanchipuram | 6 | ✅ included |
-| vedaranyeswarar-vedaranyam | 6 | ✅ included |
-| yadadri-lakshmi-narasimha | 6 | ✅ included |
+| sabarimala-ayyappa | 1 | ◐ hero only (< 3 for video) |
+| suryanar-koil | 1 | ◐ hero only (< 3 for video) |
+| vaikom-mahadeva | 3 | ✅ included |
