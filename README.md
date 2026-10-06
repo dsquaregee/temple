@@ -125,8 +125,8 @@ Static content on Google's global CDN; Firebase Anonymous Auth; Firestore for
 
 ## Deploy
 
-Deployed to Firebase project **`temple-502523`** — live at
-**https://temple-502523.web.app**, with the production domain
+Deployed to Firebase project **`temples2`** — live at
+**https://temples2.web.app**, with the production domain
 **https://temples.dsquaregee.com** (Cloudflare DNS → Firebase Hosting; see
 `infra/README.md`). `firebase.json` lives at the repo root.
 

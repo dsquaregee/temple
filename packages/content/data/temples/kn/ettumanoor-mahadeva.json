@@ -34,18 +34,18 @@
     "gettingThere": "ಈ ದೇವಾಲಯ ಕೊಟ್ಟಾಯಂ ಜಿಲ್ಲೆಯ ಎಟ್ಟುಮಾನೂರಿನಲ್ಲಿ, ಕೊಟ್ಟಾಯಂ-ಎರ್ಣಾಕುಳಂ ಮಾರ್ಗದಲ್ಲಿದೆ. ಸಮೀಪದ ರೈಲು ನಿಲ್ದಾಣ ಕೊಟ್ಟಾಯಂ; ಸಮೀಪದ ವಿಮಾನ ನಿಲ್ದಾಣ ಕೊಚ್ಚಿ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/ettumanoor-mahadeva.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/ettumanoor-mahadeva.mp3",
     "durationSec": 231
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ettumanoor-mahadeva.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/ettumanoor-mahadeva.jpg",
     "color": "#5C3A2E",
     "alt": "ಎಟ್ಟುಮಾನೂರ್ ಮಹಾದೇವ ದೇವಸ್ಥಾನ",
     "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/ettumanoor-mahadeva.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ettumanoor-mahadeva.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/kn/ettumanoor-mahadeva.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ettumanoor-mahadeva.jpg",
     "durationSec": 239,
     "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -35,24 +35,24 @@
     "gettingThere": "ತಿರುಚ್ಚಿರಾಪಳ್ಳಿ ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ (ಸುಮಾರು 90 ಕಿ.ಮೀ) ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ. 4 ಕಿ.ಮೀ ದೂರದ ಕುಂಬಕೋಣಂ ರೈಲು ನಿಲ್ದಾಣವು ಚೆನ್ನೈ-ತಂಜಾವೂರು ಮಾರ್ಗದಲ್ಲಿದೆ. ದಾರಾಸುರಂ ಕುಂಬಕೋಣಂನಿಂದ ಚಿಕ್ಕ ಆಟೋ-ರಿಕ್ಷಾ ಅಥವಾ ಟ್ಯಾಕ್ಸಿ ಪ್ರಯಾಣದ ದೂರದಲ್ಲಿದೆ; ಕುಂಬಕೋಣಂ ತಂಜಾವೂರು, ಟ್ರಿಚಿ ಮತ್ತು ಚೆನ್ನೈಗೆ ಬಸ್ ಮೂಲಕ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/airavatesvara.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/airavatesvara.mp3",
     "durationSec": 439
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/airavatesvara.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/kn/airavatesvara.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.jpg",
     "durationSec": 453,
     "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.jpg",
     "color": "#5C3A2E",
     "alt": "ಐರಾವತೇಶ್ವರ ದೇವಾಲಯ",
     "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.webp"
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.webp"
     },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/airavatesvara.jpg"
+    "og": "https://storage.googleapis.com/temples2-media/og/airavatesvara.jpg"
   }
 }

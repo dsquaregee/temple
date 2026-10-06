@@ -17,7 +17,7 @@ front, Firestore holds user state only, content-only v1).
 - **Firestore rules** — deny-by-default; each user can read/write only their own
   `users/{uid}` subtree. No public content in Firestore (matches D1).
 - **Deploy pipeline** — `deploy.yml` builds the web export and ships
-  `hosting` + `firestore:rules` to `temple-502523` on default-branch push;
+  `hosting` + `firestore:rules` to `temples2` on default-branch push;
   service-account key written to a temp file and cleaned up `if: always()`.
 - **Security response headers** — HSTS (preload), `nosniff`, `X-Frame-Options:
   SAMEORIGIN`, `Referrer-Policy: strict-origin-when-cross-origin`,
@@ -113,7 +113,7 @@ front, Firestore holds user state only, content-only v1).
   user state (synced favorites, visited stops) is added.
 - **Rollback** — Firebase Hosting retains release history. To roll back the live
   site instantly without a rebuild:
-  `npx firebase-tools hosting:rollback --project temple-502523`
+  `npx firebase-tools hosting:rollback --project temples2`
   (or pin a specific prior release in the Hosting console). Firestore rules are
   versioned in-repo, so a rules rollback is a normal `git revert` + redeploy.
 

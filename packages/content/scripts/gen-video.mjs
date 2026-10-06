@@ -11,7 +11,7 @@
 //      the temple's narration audio, per locale; upload MP4s; set video (+hero).
 //
 // Usage:
-//   GOOGLE_APPLICATION_CREDENTIALS=/path/key.json MEDIA_BUCKET=temple-502523-media \
+//   GOOGLE_APPLICATION_CREDENTIALS=/path/key.json MEDIA_BUCKET=temples2-media \
 //   [VIDEO_DRYRUN=1] [VIDEO_LOCALES=en,hi] [PHOTOS_PER=6] [MIN_PHOTOS=3] [MIN_MP=2] \
 //   node packages/content/scripts/gen-video.mjs
 //

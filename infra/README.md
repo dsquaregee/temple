@@ -14,7 +14,7 @@ root and references the rules/indexes here in `infra/`.
 | File | Purpose |
 |---|---|
 | `../firebase.json` (repo root) | Hosting (serves `apps/web/out`) + CDN cache headers; Firestore rules/indexes wiring (targets the `temple` database); local emulator ports. |
-| `../.firebaserc` (repo root) | Project alias (`temple-502523`). |
+| `../.firebaserc` (repo root) | Project alias (`temples2`). |
 | `firestore.rules` | Users read/write **only their own** `/users/{uid}` tree; everything else denied. |
 | `firestore.indexes.json` | No composite indexes needed yet (user docs are read by id). |
 
@@ -72,7 +72,7 @@ Non-interactive / CI (service account):
 
 ```bash
 GOOGLE_APPLICATION_CREDENTIALS=/path/to/sa-key.json \
-  firebase deploy --only hosting,firestore:rules --project temple-502523 --non-interactive
+  firebase deploy --only hosting,firestore:rules --project temples2 --non-interactive
 ```
 
 Local development against emulators:
@@ -83,7 +83,7 @@ firebase emulators:start
 
 ## Live
 
-- Firebase default domain: https://temple-502523.web.app
+- Firebase default domain: https://temples2.web.app
 - Production custom domain: https://temples.dsquaregee.com (DNS in Cloudflare)
 - Firestore rules: released to the `temple` (asia-south1) database.
 
@@ -92,13 +92,13 @@ firebase emulators:start
 Firebase drives the flow (it verifies ownership and provisions its own SSL
 cert); Cloudflare just holds the DNS records.
 
-1. **Firebase Console** → project `temple-502523` → **Hosting → Add custom
+1. **Firebase Console** → project `temples2` → **Hosting → Add custom
    domain** → enter `temples.dsquaregee.com`.
 2. Firebase shows a **TXT** verification record. In **Cloudflare → DNS →
    Records**, add it exactly (Name + Value), then click **Verify** in Firebase.
 3. Firebase then shows the records that point the subdomain at Hosting. Add them
    in Cloudflare exactly as shown — for a subdomain this is either:
-   - a **CNAME**: `temples` → `temple-502523.web.app`, or
+   - a **CNAME**: `temples` → `temples2.web.app`, or
    - the **A records** Firebase lists (two IPs).
 4. **Set Proxy status to "DNS only" (grey cloud)** on these records so Firebase
    can provision SSL. (You may switch to the orange proxy afterward if you want

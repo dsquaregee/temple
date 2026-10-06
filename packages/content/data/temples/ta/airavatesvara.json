@@ -35,24 +35,24 @@
     "gettingThere": "திருச்சிராப்பள்ளி சர்வதேச விமான நிலையம் (சுமார் 90 கி.மீ) அருகிலுள்ள விமான நிலையம். 4 கி.மீ தொலைவில் உள்ள கும்பகோணம் ரயில் நிலையம் சென்னை-தஞ்சாவூர் வழித்தடத்தில் அமைந்துள்ளது. தஞ்சாவூர், திருச்சி, சென்னை ஆகியவற்றுடன் பேருந்து வழியாக நன்கு இணைக்கப்பட்டுள்ள கும்பகோணத்திலிருந்து தாராசுரம் ஒரு குறுகிய ஆட்டோ அல்லது டாக்சி பயணத் தொலைவில் உள்ளது."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/airavatesvara.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/airavatesvara.mp3",
     "durationSec": 474
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/airavatesvara.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/ta/airavatesvara.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.jpg",
     "durationSec": 439,
     "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.jpg",
     "color": "#5C3A2E",
     "alt": "ஐராவதீஸ்வரர் கோயில்",
     "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.webp"
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.webp"
     },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/airavatesvara.jpg"
+    "og": "https://storage.googleapis.com/temples2-media/og/airavatesvara.jpg"
   }
 }

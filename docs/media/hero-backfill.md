@@ -40,7 +40,7 @@ Then **verify** each hero is live and depicts the right temple:
 
 ```bash
 curl -s -o /dev/null -w "%{http_code}\n" \
-  "https://storage.googleapis.com/temple-502523-media/heroes/<id>.jpg"
+  "https://storage.googleapis.com/temples2-media/heroes/<id>.jpg"
 # and open https://temples.dsquaregee.com/en/temples/<id>/ — check the photo is
 # the correct temple (auto-search occasionally mis-picks; if so, curate → re-run
 # with -f force via a CURATED entry, see below).

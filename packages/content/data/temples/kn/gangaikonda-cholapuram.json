@@ -35,24 +35,24 @@
     "gettingThere": "ಸುಮಾರು 100 ಕಿ.ಮೀ ದೂರದ ತಿರುಚ್ಚಿರಾಪಳ್ಳಿ ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ; ದಕ್ಷಿಣಕ್ಕೆ ಸುಮಾರು 35 ಕಿ.ಮೀ ದೂರದ ಕುಂಬಕೋಣಂ ಅತ್ಯಂತ ಅನುಕೂಲಕರ ರೈಲುನಿಲ್ದಾಣ. ದೇವಾಲಯವು ಕುಂಬಕೋಣಂನಿಂದ ಚಿದಂಬರಂ ರಸ್ತೆಯ ಪಕ್ಕದಲ್ಲಿದೆ, ಗಂಗೈಕೊಂಡ ಚೋಳಪುರಂನಲ್ಲಿ ನಿಲ್ಲುವ ನಿಯಮಿತ ಬಸ್‌ಗಳೊಂದಿಗೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/gangaikonda-cholapuram.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/gangaikonda-cholapuram.mp3",
     "durationSec": 415
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/gangaikonda-cholapuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/kn/gangaikonda-cholapuram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/gangaikonda-cholapuram.jpg",
     "durationSec": 432,
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/gangaikonda-cholapuram.jpg",
     "color": "#5C3A2E",
     "alt": "ಬೃಹದೀಶ್ವರ ದೇವಾಲಯ, ಗಂಗೈಕೊಂಡ ಚೋಳಪುರಂ",
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.webp"
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/gangaikonda-cholapuram.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/gangaikonda-cholapuram.webp"
     },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/gangaikonda-cholapuram.jpg"
+    "og": "https://storage.googleapis.com/temples2-media/og/gangaikonda-cholapuram.jpg"
   }
 }

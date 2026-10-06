@@ -9,7 +9,7 @@
 //
 // Usage:
 //   GOOGLE_APPLICATION_CREDENTIALS=/path/key.json \
-//   MEDIA_BUCKET=temple-502523-media \
+//   MEDIA_BUCKET=temples2-media \
 //   [HERO_ONLY=brihadeeswarar,meenakshi-madurai] [HERO_FORCE=1] \
 //   node packages/content/scripts/gen-hero-variants.mjs
 //

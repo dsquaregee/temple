@@ -68,7 +68,7 @@ jobs:
       - name: Generate and upload videos
         env:
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
-          MEDIA_BUCKET: temple-502523-media
+          MEDIA_BUCKET: temples2-media
           VIDEO_DRYRUN: ${{ inputs.dryrun && '1' || '' }}
           VIDEO_RESUME: ${{ inputs.resume && '1' || '' }}
           VIDEO_ONLY: ${{ inputs.only }}

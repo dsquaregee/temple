@@ -35,24 +35,24 @@
     "gettingThere": "சென்னை சர்வதேச விமான நிலையம் சுமார் 60 கி.மீ தொலைவில் உள்ளது. கோயிலிலிருந்து சுமார் 2 கி.மீ தொலைவிலுள்ள காஞ்சிபுரம் ரயில் நிலையம், செங்கல்பட்டு வழியாக சென்னை மற்றும் தென் வழித்தடங்களுடன் இணைக்கிறது. அடிக்கடி இயங்கும் பேருந்துகள் காஞ்சிபுரத்தை சென்னை, வேலூர், திருப்பதி ஆகியவற்றுடன் இணைக்கின்றன; ஆட்டோக்களும் டாக்சிகளும் கோயிலுக்கான குறுகிய தூரத்தைக் கடக்கின்றன."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/ekambareswarar.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/ekambareswarar.mp3",
     "durationSec": 452
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/ekambareswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/ta/ekambareswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ekambareswarar.jpg",
     "durationSec": 419,
     "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/ekambareswarar.jpg",
     "color": "#5C3A2E",
     "alt": "ஏகாம்பரேஸ்வரர் கோயில்",
     "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.webp"
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/ekambareswarar.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/ekambareswarar.webp"
     },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/ekambareswarar.jpg"
+    "og": "https://storage.googleapis.com/temples2-media/og/ekambareswarar.jpg"
   }
 }

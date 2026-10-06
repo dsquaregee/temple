@@ -43,6 +43,9 @@ const TEXT_EXT = new Set([
   '.json', '.json5', '.jsonc', '.mjs', '.cjs', '.js', '.ts', '.tsx', '.yml', '.yaml',
   '.md', '.txt', '.html', '.css', '.toml', '.env', '.sh',
 ]);
+// Extensionless config dotfiles: `extname('.firebaserc')` is '', so they'd be
+// skipped by the extension allowlist — match them by exact name instead.
+const TEXT_NAMES = new Set(['.firebaserc', '.env']);
 const SKIP_FILES = new Set(['pnpm-lock.yaml', 'package-lock.json', 'yarn.lock']);
 // Files that intentionally keep the OLD id and must NOT be rewritten: this codemod
 // (its --from default), the migration runbook (its "copy from gs://<old>-media"
@@ -106,7 +109,7 @@ function walk(dir, acc) {
       walk(join(dir, entry.name), acc);
     } else if (entry.isFile()) {
       if (SKIP_FILES.has(entry.name)) continue;
-      if (!TEXT_EXT.has(extname(entry.name))) continue;
+      if (!TEXT_EXT.has(extname(entry.name)) && !TEXT_NAMES.has(entry.name)) continue;
       const full = join(dir, entry.name);
       const rel = full.slice(REPO_ROOT.length + 1).split('\\').join('/');
       if (SKIP_PATHS.has(rel)) continue;
