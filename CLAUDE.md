@@ -22,7 +22,7 @@ Each gate requires owner sign-off before the next phase starts.
 | 2. UX/Design | ✅ Complete, gate passed 2026-07 |
 | 3. Build | 🔨 Feature-complete for v1, owner gate pending (both PWA + native; **82 temples × 6 languages**, 16 circuits — catalog expanded past the D6 launch core via owner-merged PRs #17–#30) |
 | 4. Test/Harden | 🔨 In progress (unit + content-invariant suite, translation QA, CSP hardening, per-page byte budget, Lighthouse CI all in place — see docs/testing.md) |
-| 5. Deploy | 🔨 Prep in progress (static export, Firebase hosting/CSP/security headers, Firestore rules, deploy pipeline ready; **monitoring choice + owner gate outstanding** — see docs/deploy-readiness.md) |
+| 5. Deploy | 🔨 Prep in progress (static export, Firebase hosting/CSP/security headers, Firestore rules, deploy pipeline ready; **monitoring choice + owner gate outstanding** — see docs/deploy-readiness.md). ⚠️ **Project `temple-502523` was locked by Google; a replacement project is needed.** The repo is parameterised for a one-command retarget (`infra/migrate-project.mjs`) — full runbook (owner GCP steps + repo codemod + media move) in **docs/migrate-project.md**. |
 
 ## Locked decisions (owner-approved at gates)
 
