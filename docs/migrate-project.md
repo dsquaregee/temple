@@ -27,11 +27,12 @@ else depends on. Pick a new project id up front — these docs use `NEW_PROJECT_
    `firebase projects:create NEW_PROJECT_ID`). Upgrade it to the **Blaze** plan
    (required for the named Firestore DB and for Hosting custom domains).
 
-2. **Firestore.** Create a Firestore database **named `temple`** (not
-   `(default)` — `firebase.json` targets the `temple` database) in region
-   **`asia-south1` (Mumbai)**. This matches locked decision **D1**; the region is
-   immutable, so set it correctly now. Enable **Anonymous** sign-in under
-   Authentication.
+2. **Firestore.** Create a Firestore database in **Native mode** in region
+   **`asia-south1` (Mumbai)** — this matches locked decision **D1**; the region is
+   immutable, so set it correctly now. The database ID is cosmetic (no app code
+   depends on it); whatever you name it, set `firestore[].database` in
+   `firebase.json` to match. (The current project uses database id `temples2`.)
+   Enable **Anonymous** sign-in under Authentication.
 
 3. **Storage buckets.** Create two GCS buckets. Keep the naming convention so the
    codemod's defaults apply:
