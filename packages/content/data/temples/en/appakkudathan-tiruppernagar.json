@@ -34,18 +34,18 @@
     "gettingThere": "Koviladi lies on the Kaveri about 16 km from Tiruchirappalli on the road toward Thanjavur, easily reached by road from Srirangam."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/appakkudathan-tiruppernagar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/appakkudathan-tiruppernagar.mp3",
     "durationSec": 194
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.jpg",
     "color": "#5C3A2E",
     "alt": "Appakkudathaan Perumal Temple, Koviladi",
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/appakkudathan-tiruppernagar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "url": "https://media.dsquaregee.com/video/en/appakkudathan-tiruppernagar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.jpg",
     "durationSec": 150,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

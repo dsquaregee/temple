@@ -32,18 +32,18 @@
     "gettingThere": "कोल्लूर उडुपी ज़िले में, उडुपी और मंगलुरु से लगभग 80 कि.मी. दूर है, मंगलुरु में निकटतम हवाई अड्डा है; निकटतम रेलहेड कुंदापुर और बैंदूर हैं, और मंदिर घाटों से होकर सड़क द्वारा पहुँचा जाता है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/kollur-mookambika.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/kollur-mookambika.mp3",
     "durationSec": 210
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kollur-mookambika.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kollur-mookambika.jpg",
     "color": "#5C3A2E",
     "alt": "कोल्लूर मूकाम्बिका मंदिर",
     "credit": "Starstuffseyyon / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/kollur-mookambika.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kollur-mookambika.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/kollur-mookambika.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kollur-mookambika.jpg",
     "durationSec": 185,
     "credit": "Starstuffseyyon / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

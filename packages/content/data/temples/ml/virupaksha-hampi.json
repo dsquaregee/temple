@@ -32,18 +32,18 @@
     "gettingThere": "ഹംപി കർണാടകയിലെ ബള്ളാരി (ബെല്ലാരി) ജില്ലയിലാണ്, ഹംപി ഗ്രാമത്തിനും ഏകദേശം 13 കി.മീ. അകലെയുള്ള ഹോസ്പേട്ട് (ഹൊസപേട്ടെ) പട്ടണത്തിനും അരികിൽ; ഏറ്റവും അടുത്ത റെയിൽവേ സ്റ്റേഷനും ഹോട്ടലുകളും അവിടെയാണ്. ഇത് ബെംഗളൂരുവിൽനിന്ന് ഏകദേശം 340 കി.മീ. വടക്കാണ്. വിരൂപാക്ഷ ക്ഷേത്രം പഴയ ചന്തയുടെ തലയ്ക്കൽ നിലകൊള്ളുന്നു, അവശിഷ്ടങ്ങൾ പര്യവേക്ഷണം ചെയ്യാനുള്ള സ്വാഭാവിക തുടക്കസ്ഥാനം."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/virupaksha-hampi.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/virupaksha-hampi.mp3",
     "durationSec": 389
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/virupaksha-hampi.jpg",
+    "src": "https://media.dsquaregee.com/heroes/virupaksha-hampi.jpg",
     "color": "#5C3A2E",
     "alt": "വിരൂപാക്ഷ ക്ഷേത്രം, ഹംപി",
     "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/virupaksha-hampi.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/virupaksha-hampi.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/virupaksha-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/virupaksha-hampi.jpg",
     "durationSec": 292,
     "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -34,18 +34,18 @@
     "gettingThere": "திருவாய்மூர் காவிரி டெல்டாவில், திருவாரூர்–நாகப்பட்டினம் நாட்டில் திருத்துறைப்பூண்டிக்கு அருகில் அமைந்துள்ளது; சுற்றியுள்ள டெல்டா நகரங்களிலிருந்து சாலை வழியாக அடையலாம்."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/vaimurnathar-thiruvaimur.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/vaimurnathar-thiruvaimur.mp3",
     "durationSec": 136
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vaimurnathar-thiruvaimur.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vaimurnathar-thiruvaimur.jpg",
     "color": "#5C3A2E",
     "alt": "வாய்மூர்நாதர் கோயில், திருவாய்மூர்",
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/vaimurnathar-thiruvaimur.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vaimurnathar-thiruvaimur.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/vaimurnathar-thiruvaimur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaimurnathar-thiruvaimur.jpg",
     "durationSec": 128,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

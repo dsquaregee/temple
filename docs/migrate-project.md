@@ -243,3 +243,35 @@ rebuilt separately; the images/audio/video never go dark.
 - **Prevention**: set GCP **billing alerts**, keep a valid payment method, answer
   Google verification emails promptly, and avoid bursting heavy new workloads on
   a brand-new unverified project (a likely trigger of the original lock).
+
+---
+
+## Serving media from Cloudflare R2 (primary CDN origin)
+
+As of 2026-10, the app serves all media **from Cloudflare R2**, not GCS:
+
+- `https://media.dsquaregee.com` → R2 bucket `temples2-media-backup` (heroes, variants, OG, video)
+- `https://audio.dsquaregee.com` → R2 bucket `temples2-audio-backup` (narration)
+
+R2 egress is free and independent of GCP, so this cuts bandwidth cost and keeps
+media serving even if the GCP project is locked. The R2 buckets are both the
+**backup** and the **serving origin** (fronted by Cloudflare's cache, proxied).
+Content JSON and the `firebase.json` CSP reference these hosts; the generator
+scripts write them too (override with `MEDIA_PUBLIC_BASE` / `AUDIO_PUBLIC_BASE`).
+
+**Pipeline:** generation still uploads objects to the GCS buckets
+(`temples2-media` / `temples2-audio`) — that's just the staging/generation store.
+The object *keys* are identical in GCS and R2, so the public R2 URL resolves once
+the object is synced.
+
+> **After any media regeneration** (running `media.yml` / `audio.yml` /
+> `hero-variants.yml`), run the **"Backup media to Cloudflare R2"** workflow to
+> publish the new/changed objects from GCS to R2. Until that sync runs, a
+> freshly-generated object exists in GCS but its R2 URL (what the app serves)
+> 404s. The weekly schedule also catches it, but run it manually for an
+> immediate publish. (A future enhancement could fold this sync into the end of
+> each generation workflow.)
+
+To set R2 up for a new project, see the custom-domain + bucket steps in the
+"Disaster recovery" section above, then connect a custom domain to each bucket
+(R2 → bucket → Settings → Custom Domains).

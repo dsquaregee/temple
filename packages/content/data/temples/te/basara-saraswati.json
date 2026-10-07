@@ -32,18 +32,18 @@
     "gettingThere": "బాసర తెలంగాణలోని నిర్మల్ జిల్లాలో, మహారాష్ట్ర సరిహద్దుకు సమీపంలో గోదావరి తీరాన ఉంది; సికింద్రాబాద్–మన్మాడ్ మార్గంలో సొంత రైలు స్టేషన్ ఉంది; నిజామాబాద్ నుండి రహదారిన చేరవచ్చు."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/basara-saraswati.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/basara-saraswati.mp3",
     "durationSec": 91
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/basara-saraswati.jpg",
+    "src": "https://media.dsquaregee.com/heroes/basara-saraswati.jpg",
     "color": "#5C3A2E",
     "alt": "శ్రీ జ్ఞాన సరస్వతి ఆలయం, బాసర",
     "credit": "Bhaskaranaidu / Wikimedia Commons (CC BY-SA 3.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/basara-saraswati.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/basara-saraswati.webp"
+      "avif": "https://media.dsquaregee.com/heroes/basara-saraswati.avif",
+      "webp": "https://media.dsquaregee.com/heroes/basara-saraswati.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/basara-saraswati.jpg"
+    "og": "https://media.dsquaregee.com/og/basara-saraswati.jpg"
   }
 }

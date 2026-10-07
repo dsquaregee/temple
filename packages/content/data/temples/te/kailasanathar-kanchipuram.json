@@ -34,18 +34,18 @@
     "gettingThere": "కంచీపురం తమిళనాడులో, చెన్నైకి నైరుతిన సుమారు 75 కి.మీ. దూరంలో ఉంది, రోడ్డు, రైలు మార్గాల ద్వారా చక్కగా అనుసంధానించబడింది. కైలాసనాథర్ దేవాలయం పట్టణపు పశ్చిమ దిక్కున, కేంద్ర దేవాలయ ప్రాంతం నుండి కొద్ది దూరంలో ఉంది; దీనిని నగరపు ఇతర మహా దేవాలయాలతో కలిపి ఒకే రోజులో సులభంగా చూడవచ్చు."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/kailasanathar-kanchipuram.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/kailasanathar-kanchipuram.mp3",
     "durationSec": 315
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kailasanathar-kanchipuram.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kailasanathar-kanchipuram.jpg",
     "color": "#5C3A2E",
     "alt": "కైలాసనాథర్ దేవాలయం, కంచీపురం",
     "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/kailasanathar-kanchipuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kailasanathar-kanchipuram.jpg",
+    "url": "https://media.dsquaregee.com/video/te/kailasanathar-kanchipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kailasanathar-kanchipuram.jpg",
     "durationSec": 343,
     "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

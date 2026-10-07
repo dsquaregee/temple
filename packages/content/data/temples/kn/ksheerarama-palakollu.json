@@ -34,18 +34,18 @@
     "gettingThere": "ಪಾಲಕೊಲ್ಲು ಪಶ್ಚಿಮ ಗೋದಾವರಿ ಜಿಲ್ಲೆಯಲ್ಲಿ, ಭೀಮವರಂ ಮತ್ತು ನರಸಾಪುರಂ ಪಟ್ಟಣಗಳಿಗೆ ಸಮೀಪದಲ್ಲಿದೆ. ಪಾಲಕೊಲ್ಲು ಮತ್ತು ಭೀಮವರಂ ರೈಲು ನಿಲ್ದಾಣಗಳ ಮೂಲಕ ರೈಲಿನಲ್ಲಿ ತಲುಪಬಹುದು; ಸಮೀಪದ ವಿಮಾನ ನಿಲ್ದಾಣಗಳು ರಾಜಮಂಡ್ರಿ ಮತ್ತು ವಿಜಯವಾಡದಲ್ಲಿವೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/ksheerarama-palakollu.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/ksheerarama-palakollu.mp3",
     "durationSec": 265
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ksheerarama-palakollu.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.jpg",
     "color": "#5C3A2E",
     "alt": "ಕ್ಷೀರಾರಾಮ (ಕ್ಷೀರ ರಾಮಲಿಂಗೇಶ್ವರ ದೇವಸ್ಥಾನ)",
     "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/ksheerarama-palakollu.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ksheerarama-palakollu.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/ksheerarama-palakollu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.jpg",
     "durationSec": 271,
     "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
   }

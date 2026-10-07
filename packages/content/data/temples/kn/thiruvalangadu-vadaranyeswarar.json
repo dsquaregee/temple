@@ -34,18 +34,18 @@
     "gettingThere": "ತಿರುವಾಲಂಗಾಡು ತಿರುವಳ್ಳೂರ್ ಜಿಲ್ಲೆಯಲ್ಲಿ, ಅರಕ್ಕೋಣಂನಿಂದ ಸುಮಾರು 15 ಕಿ.ಮೀ., ಚೆನ್ನೈನಿಂದ ಸುಮಾರು 70 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದೆ; ರಸ್ತೆಯ ಮೂಲಕ ಮತ್ತು ಅರಕ್ಕೋಣಂ ಕಡೆಗೆ ಸಾಗುವ ಉಪನಗರ ರೈಲು ಮಾರ್ಗದ ಮೂಲಕ ತಲುಪಬಹುದು."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/thiruvalangadu-vadaranyeswarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/thiruvalangadu-vadaranyeswarar.mp3",
     "durationSec": 215
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "ವಟಾರಣ್ಯೇಶ್ವರರ್ ದೇವಾಲಯ, ತಿರುವಾಲಂಗಾಡು",
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/thiruvalangadu-vadaranyeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/thiruvalangadu-vadaranyeswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "durationSec": 222,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

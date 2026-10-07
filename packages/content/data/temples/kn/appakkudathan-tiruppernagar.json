@@ -34,18 +34,18 @@
     "gettingThere": "ಕೋವಿಲಡಿ ಕಾವೇರಿ ದಡದಲ್ಲಿ, ತಿರುಚಿರಾಪಳ್ಳಿಯಿಂದ ತಂಜಾವೂರು ಕಡೆಗೆ ಸಾಗುವ ರಸ್ತೆಯಲ್ಲಿ ಸುಮಾರು 16 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದೆ; ಶ್ರೀರಂಗದಿಂದ ರಸ್ತೆ ಮೂಲಕ ಸುಲಭವಾಗಿ ತಲುಪಬಹುದು."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/appakkudathan-tiruppernagar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/appakkudathan-tiruppernagar.mp3",
     "durationSec": 173
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.jpg",
     "color": "#5C3A2E",
     "alt": "ಅಪ್ಪಕ್ಕುಡತ್ತಾನ್ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ಕೋವಿಲಡಿ",
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/appakkudathan-tiruppernagar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/appakkudathan-tiruppernagar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.jpg",
     "durationSec": 175,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

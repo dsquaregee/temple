@@ -32,18 +32,18 @@
     "gettingThere": "ಕೊಲ್ಲೂರು ಉಡುಪಿ ಜಿಲ್ಲೆಯಲ್ಲಿ, ಉಡುಪಿ ಮತ್ತು ಮಂಗಳೂರಿನಿಂದ ಸುಮಾರು 80 ಕಿ.ಮೀ ದೂರದಲ್ಲಿ, ಮಂಗಳೂರಿಗೆ ಸಮೀಪದ ವಿಮಾನ ನಿಲ್ದಾಣ; ಸಮೀಪದ ರೈಲು ನಿಲ್ದಾಣಗಳು ಕುಂದಾಪುರ, ಬೈಂದೂರು, ದೇವಾಲಯ ಘಟ್ಟಗಳ ಮೂಲಕ ರಸ್ತೆಯಿಂದ ತಲುಪಲಾಗುತ್ತದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/kollur-mookambika.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/kollur-mookambika.mp3",
     "durationSec": 204
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kollur-mookambika.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kollur-mookambika.jpg",
     "color": "#5C3A2E",
     "alt": "ಕೊಲ್ಲೂರು ಮೂಕಾಂಬಿಕಾ ದೇವಸ್ಥಾನ",
     "credit": "Starstuffseyyon / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/kollur-mookambika.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kollur-mookambika.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/kollur-mookambika.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kollur-mookambika.jpg",
     "durationSec": 209,
     "credit": "Starstuffseyyon / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

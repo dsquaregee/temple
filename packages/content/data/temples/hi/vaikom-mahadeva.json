@@ -34,18 +34,18 @@
     "gettingThere": "यह मंदिर कोट्टायम ज़िले में वेम्बनाड बैकवाटर के निकट वैकोम में स्थित है। निकटतम रेलवे स्टेशन कोट्टायम और एर्णाकुलम हैं; निकटतम हवाई अड्डा कोच्चि है। वैकोम सड़क मार्ग तथा क्षेत्र के बैकवाटर जलमार्गों से भी पहुँचा जा सकता है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/vaikom-mahadeva.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/vaikom-mahadeva.mp3",
     "durationSec": 237
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vaikom-mahadeva.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.jpg",
     "color": "#5C3A2E",
     "alt": "वैकोम महादेव मंदिर (वैक्कत्तप्पन)",
     "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/vaikom-mahadeva.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vaikom-mahadeva.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/vaikom-mahadeva.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.jpg",
     "durationSec": 216,
     "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }

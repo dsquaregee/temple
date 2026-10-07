@@ -32,18 +32,18 @@
     "gettingThere": "മുരുഡേശ്വർ കർണാടകയിലെ ഉത്തര കന്നഡ തീരത്ത്, കൊങ്കൺ റെയിൽ പാതയിൽ, മംഗളൂരു–കാർവാർ തീര ഹൈവേയിൽ സ്ഥിതി ചെയ്യുന്നു; സ്വന്തം റെയിൽവേ സ്റ്റേഷനുണ്ട്."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/murudeshwar-shiva.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/murudeshwar-shiva.mp3",
     "durationSec": 101
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/murudeshwar-shiva.jpg",
+    "src": "https://media.dsquaregee.com/heroes/murudeshwar-shiva.jpg",
     "color": "#5C3A2E",
     "alt": "മുരുഡേശ്വര ക്ഷേത്രം",
     "credit": "Yakshitha / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/murudeshwar-shiva.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/murudeshwar-shiva.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/murudeshwar-shiva.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/murudeshwar-shiva.jpg",
     "durationSec": 75,
     "credit": "Yakshitha / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -22,6 +22,11 @@ const templesDir = join(root, '..', 'data', 'temples');
 
 const BUCKET = process.env.AUDIO_BUCKET;
 if (!BUCKET) throw new Error('Set AUDIO_BUCKET to the target Cloud Storage bucket name.');
+// Public URL the app serves from. Objects are uploaded to the GCS bucket above
+// (the generator) but served from Cloudflare R2 (same object keys), which is the
+// primary CDN origin ($0 egress, survives a GCP lock). Override via env if the
+// serving host changes. See docs/migrate-project.md (R2 primary origin).
+const PUBLIC_BASE = (process.env.AUDIO_PUBLIC_BASE || 'https://audio.dsquaregee.com').replace(/\/$/, '');
 const LIMIT = process.env.AUDIO_LIMIT ? Number(process.env.AUDIO_LIMIT) : Infinity;
 const ONLY = process.env.AUDIO_LOCALES ? process.env.AUDIO_LOCALES.split(',') : null;
 
@@ -144,7 +149,7 @@ for (const locale of LOCALES) {
   for (const file of files) {
     const path = join(dir, file);
     const doc = JSON.parse(readFileSync(path, 'utf8'));
-    const expectedUrl = `https://storage.googleapis.com/${BUCKET}/audio/${locale}/${doc.id}.mp3`;
+    const expectedUrl = `${PUBLIC_BASE}/audio/${locale}/${doc.id}.mp3`;
     // Resume: skip files already generated (unless AUDIO_FORCE=1).
     if (!process.env.AUDIO_FORCE && doc.audio?.storyUrl === expectedUrl) {
       console.log(`· ${locale}/${doc.id} (already done, skipping)`);
@@ -162,7 +167,7 @@ for (const locale of LOCALES) {
     });
 
     doc.audio = {
-      storyUrl: `https://storage.googleapis.com/${BUCKET}/${objectPath}`,
+      storyUrl: `${PUBLIC_BASE}/${objectPath}`,
       durationSec: estimateSec(text),
     };
     writeFileSync(path, JSON.stringify(doc, null, 2) + '\n');

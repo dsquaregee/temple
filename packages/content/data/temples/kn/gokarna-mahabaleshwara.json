@@ -32,18 +32,18 @@
     "gettingThere": "ಗೋಕರ್ಣ ಉತ್ತರ ಕನ್ನಡ ಜಿಲ್ಲೆಯಲ್ಲಿ ತೀರದಲ್ಲಿದೆ, ಕೊಂಕಣ ರೈಲಿನಲ್ಲಿ ಸ್ವಂತ ಸಣ್ಣ ರೈಲು ನಿಲ್ದಾಣ ಇದೆ; ಗೋಕರ್ಣ ರೋಡ್, ಕುಮಟಾ ಸಮೀಪದ ರೈಲು ನಿಲ್ದಾಣಗಳು, ಸಮೀಪದ ವಿಮಾನ ನಿಲ್ದಾಣಗಳು ಹುಬ್ಬಳ್ಳಿ ಮತ್ತು ಗೋವಾ (ಡಬೋಲಿಂ)."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/gokarna-mahabaleshwara.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/gokarna-mahabaleshwara.mp3",
     "durationSec": 190
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.jpg",
+    "src": "https://media.dsquaregee.com/heroes/gokarna-mahabaleshwara.jpg",
     "color": "#5C3A2E",
     "alt": "ಗೋಕರ್ಣ ಮಹಾಬಲೇಶ್ವರ ದೇವಸ್ಥಾನ",
     "credit": "Vedamurthy.j / Wikimedia Commons (CC BY-SA 3.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.webp"
+      "avif": "https://media.dsquaregee.com/heroes/gokarna-mahabaleshwara.avif",
+      "webp": "https://media.dsquaregee.com/heroes/gokarna-mahabaleshwara.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/gokarna-mahabaleshwara.jpg"
+    "og": "https://media.dsquaregee.com/og/gokarna-mahabaleshwara.jpg"
   }
 }

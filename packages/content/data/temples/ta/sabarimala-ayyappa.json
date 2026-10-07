@@ -34,18 +34,18 @@
     "gettingThere": "பக்தர்கள் பத்தனம்திட்டா அல்லது எருமேலி வழியாகச் சாலைவழியே பம்பை அடிவாரத்தை அடைந்து, பின் காட்டின் வழியே ஏறத்தாழ நான்கு முதல் ஐந்து கிலோமீட்டர் மேலேறி சந்நிதானத்தில் உள்ள சன்னதியை அடைகின்றனர். அருகிலுள்ள ரயில் நிலையங்கள் செங்கன்னூர் மற்றும் கோட்டயம்; அருகிலுள்ள விமான நிலையங்கள் கொச்சி மற்றும் திருவனந்தபுரம்."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/sabarimala-ayyappa.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/sabarimala-ayyappa.mp3",
     "durationSec": 274
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.jpg",
+    "src": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.jpg",
     "color": "#5C3A2E",
     "alt": "சபரிமலை ஸ்ரீ தர்ம சாஸ்தா கோயில் (ஐயப்பன்)",
     "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.webp"
+      "avif": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/sabarimala-ayyappa.jpg"
+    "og": "https://media.dsquaregee.com/og/sabarimala-ayyappa.jpg"
   }
 }

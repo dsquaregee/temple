@@ -32,18 +32,18 @@
     "gettingThere": "ಉಡುಪಿ ಕರ್ನಾಟಕದ ಕರಾವಳಿಯಲ್ಲಿದ್ದು ರೈಲು ಮತ್ತು ಕರಾವಳಿ ಹೆದ್ದಾರಿಯಿಂದ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕಗೊಂಡಿದೆ; ಸಮೀಪದ ಪ್ರಮುಖ ವಿಮಾನ ನಿಲ್ದಾಣ ದಕ್ಷಿಣಕ್ಕೆ ಸುಮಾರು 60 ಕಿ.ಮೀ. ದೂರದ ಮಂಗಳೂರಿನಲ್ಲಿದೆ. ಮಠ ಊರಿನ ಹೃದಯಭಾಗದಲ್ಲಿದ್ದು ಬಸ್ ನಿಲ್ದಾಣ ಮತ್ತು ರೈಲು ಮಾರ್ಗಗಳಿಂದ ನಡೆದುಹೋಗಬಹುದಾದ ದೂರದಲ್ಲಿದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/udupi-krishna.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/udupi-krishna.mp3",
     "durationSec": 285
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/udupi-krishna.jpg",
+    "src": "https://media.dsquaregee.com/heroes/udupi-krishna.jpg",
     "color": "#5C3A2E",
     "alt": "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ, ಉಡುಪಿ",
     "credit": "Uttpal Krushna / Wikimedia Commons (CC BY-SA 4.0) · Avinashisonline / Wikimedia Commons (CC BY-SA 4.0) · Arun k01 / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/udupi-krishna.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/udupi-krishna.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/udupi-krishna.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/udupi-krishna.jpg",
     "durationSec": 296,
     "credit": "Uttpal Krushna / Wikimedia Commons (CC BY-SA 4.0) · Avinashisonline / Wikimedia Commons (CC BY-SA 4.0) · Arun k01 / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0)"
   }

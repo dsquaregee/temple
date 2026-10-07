@@ -34,18 +34,18 @@
     "gettingThere": "തഞ്ചാവൂര്‍ ജില്ലയില്‍ കുംഭകോണത്തുനിന്ന് ഏകദേശം 15 കി.മീ. അകലെ, ആടുതുറൈക്ക് സമീപമുള്ള സൂര്യനാര്‍ കോയില്‍ ഗ്രാമത്തിലാണ് ക്ഷേത്രം. കുംഭകോണമാണ് ഏറ്റവും അടുത്ത കേന്ദ്രം; ആടുതുറൈ അല്ലെങ്കില്‍ കുംഭകോണം വഴി തീവണ്ടി സൗകര്യമുണ്ട്; ഏറ്റവും അടുത്ത വിമാനത്താവളം തിരുച്ചിറപ്പള്ളി, ഏകദേശം 90 കി.മീ. അകലെ. കുംഭകോണത്തുനിന്ന് ബസുകളും ടാക്സികളും ലഭിക്കും."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/suryanar-koil.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/suryanar-koil.mp3",
     "durationSec": 257
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.jpg",
+    "src": "https://media.dsquaregee.com/heroes/suryanar-koil.jpg",
     "color": "#5C3A2E",
     "alt": "സൂര്യനാര്‍ കോയില്‍ (സൂര്യ ക്ഷേത്രം)",
     "credit": "PJeganathan / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.webp"
+      "avif": "https://media.dsquaregee.com/heroes/suryanar-koil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/suryanar-koil.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/suryanar-koil.jpg"
+    "og": "https://media.dsquaregee.com/og/suryanar-koil.jpg"
   }
 }

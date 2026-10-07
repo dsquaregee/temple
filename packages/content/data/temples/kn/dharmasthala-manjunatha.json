@@ -32,18 +32,18 @@
     "gettingThere": "ಧರ್ಮಸ್ಥಳ ದಕ್ಷಿಣ ಕನ್ನಡದಲ್ಲಿ, ಪಶ್ಚಿಮ ಘಟ್ಟದಲ್ಲಿ ನೇತ್ರಾವತಿ ದಡದಲ್ಲಿದೆ; ಮಂಗಳೂರಿನಿಂದ ಮತ್ತು ಹಾಸನ್ ಮೂಲಕ ಬೆಂಗಳೂರಿನಿಂದ ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು; ಹತ್ತಿರದ ರೈಲು ನಿಲ್ದಾಣ ಮಂಗಳೂರು."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/dharmasthala-manjunatha.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/dharmasthala-manjunatha.mp3",
     "durationSec": 116
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/dharmasthala-manjunatha.jpg",
+    "src": "https://media.dsquaregee.com/heroes/dharmasthala-manjunatha.jpg",
     "color": "#5C3A2E",
     "alt": "ಶ್ರೀ ಮಂಜುನಾಥ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಧರ್ಮಸ್ಥಳ",
     "credit": "A.Murali / Wikimedia Commons (CC0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/dharmasthala-manjunatha.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/dharmasthala-manjunatha.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/dharmasthala-manjunatha.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/dharmasthala-manjunatha.jpg",
     "durationSec": 124,
     "credit": "A.Murali / Wikimedia Commons (CC0)"
   }

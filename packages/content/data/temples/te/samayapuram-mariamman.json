@@ -32,18 +32,18 @@
     "gettingThere": "సమయపురం తమిళనాడులో తిరుచిరాపల్లికి కొంచెం ఉత్తరాన తిరుచ్చి–చెన్నై రహదారిలో ఉంది; రహదారిన సులభంగా చేరవచ్చు; దగ్గరి ప్రధాన రైలు, విమాన కేంద్రం తిరుచిరాపల్లి."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/samayapuram-mariamman.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/samayapuram-mariamman.mp3",
     "durationSec": 105
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/samayapuram-mariamman.jpg",
+    "src": "https://media.dsquaregee.com/heroes/samayapuram-mariamman.jpg",
     "color": "#5C3A2E",
     "alt": "అరుళ్మిగు సమయపురం మారియమ్మన్ ఆలయం",
     "credit": "Thamizhpparithi Maari / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/samayapuram-mariamman.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/samayapuram-mariamman.webp"
+      "avif": "https://media.dsquaregee.com/heroes/samayapuram-mariamman.avif",
+      "webp": "https://media.dsquaregee.com/heroes/samayapuram-mariamman.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/samayapuram-mariamman.jpg"
+    "og": "https://media.dsquaregee.com/og/samayapuram-mariamman.jpg"
   }
 }

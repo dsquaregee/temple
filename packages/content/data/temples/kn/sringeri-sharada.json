@@ -32,18 +32,18 @@
     "gettingThere": "ಶೃಂಗೇರಿ ಕರ್ನಾಟಕದ ಚಿಕ್ಕಮಗಳೂರು ಜಿಲ್ಲೆಯ ಪಶ್ಚಿಮ ಘಟ್ಟಗಳಲ್ಲಿದ್ದು, ಚಿಕ್ಕಮಗಳೂರು, ಮಂಗಳೂರು ಮತ್ತು ಉಡುಪಿಯಿಂದ ರಸ್ತೆಯ ಮೂಲಕ ತಲುಪಬಹುದು; ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ ಮಂಗಳೂರಿನಲ್ಲಿದ್ದು, ಹತ್ತಿರದ ಪ್ರಮುಖ ರೈಲು ನಿಲ್ದಾಣಗಳು ಕರಾವಳಿಯಲ್ಲಿ ಮತ್ತು ಶಿವಮೊಗ್ಗದಲ್ಲಿವೆ. ದೇವಾಲಯಗಳು ಊರಿನ ಹೃದಯಭಾಗದಲ್ಲಿ ತುಂಗಾ ನದಿಯ ದಡದಲ್ಲಿ ಒಟ್ಟಾಗಿ ನೆಲೆಸಿವೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/sringeri-sharada.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/sringeri-sharada.mp3",
     "durationSec": 273
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/sringeri-sharada.jpg",
+    "src": "https://media.dsquaregee.com/heroes/sringeri-sharada.jpg",
     "color": "#5C3A2E",
     "alt": "ಶಾರದಾಂಬಾ ದೇವಸ್ಥಾನ, ಶೃಂಗೇರಿ",
     "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Shyam Hegde / Wikimedia Commons (CC BY-SA 4.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Sharada Prasad CS from Berkeley, India / Wikimedia Commons (CC BY 2.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/sringeri-sharada.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/sringeri-sharada.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/sringeri-sharada.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sringeri-sharada.jpg",
     "durationSec": 280,
     "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Shyam Hegde / Wikimedia Commons (CC BY-SA 4.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Sharada Prasad CS from Berkeley, India / Wikimedia Commons (CC BY 2.0)"
   }

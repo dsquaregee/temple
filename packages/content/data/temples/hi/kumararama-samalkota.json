@@ -34,18 +34,18 @@
     "gettingThere": "सामरलकोटा हावड़ा–चेन्नई मार्ग पर एक रेलवे जंक्शन है; रेल द्वारा भली-भाँति जुड़ा है। यह काकीनाडा और राजमुंदरी (राजमहेंद्रवरम) के निकट है; निकटतम हवाई अड्डा राजमुंदरी में है; बसें और टैक्सियाँ नगर तक सेवा देती हैं।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/kumararama-samalkota.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/kumararama-samalkota.mp3",
     "durationSec": 257
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kumararama-samalkota.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kumararama-samalkota.jpg",
     "color": "#5C3A2E",
     "alt": "कुमारारामम (कुमार भीमेश्वर मंदिर)",
     "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/kumararama-samalkota.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kumararama-samalkota.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/kumararama-samalkota.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kumararama-samalkota.jpg",
     "durationSec": 229,
     "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   }

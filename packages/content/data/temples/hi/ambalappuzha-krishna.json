@@ -34,18 +34,18 @@
     "gettingThere": "मंदिर आलप्पुष़ा जिले के अंबलप्पुष़ा में, आलप्पुष़ा–कोल्लम मार्ग पर स्थित है। निकटतम रेलवे स्टेशन अंबलप्पुष़ा और आलप्पुष़ा हैं; निकटतम हवाई अड्डा कोच्चि है, जहाँ से टैक्सी और बसें उपलब्ध हैं।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/ambalappuzha-krishna.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/ambalappuzha-krishna.mp3",
     "durationSec": 250
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ambalappuzha-krishna.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ambalappuzha-krishna.jpg",
     "color": "#5C3A2E",
     "alt": "अंबलप्पुष़ा श्री कृष्णस्वामी मंदिर",
     "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/ambalappuzha-krishna.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ambalappuzha-krishna.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/ambalappuzha-krishna.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ambalappuzha-krishna.jpg",
     "durationSec": 226,
     "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }

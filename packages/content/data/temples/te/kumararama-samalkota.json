@@ -34,18 +34,18 @@
     "gettingThere": "సామర్లకోట హౌరా–చెన్నై మార్గంలోని రైల్వే జంక్షన్; రైలు ద్వారా చక్కగా అనుసంధానించబడి ఉంది. ఇది కాకినాడ, రాజమండ్రి (రాజమహేంద్రవరం) సమీపంలో ఉంది; సమీప విమానాశ్రయం రాజమండ్రిలో ఉంది; బస్సులు, ట్యాక్సీలు పట్టణానికి సేవలందిస్తాయి."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/kumararama-samalkota.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/kumararama-samalkota.mp3",
     "durationSec": 258
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kumararama-samalkota.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kumararama-samalkota.jpg",
     "color": "#5C3A2E",
     "alt": "కుమారారామం (కుమార భీమేశ్వర ఆలయం)",
     "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/kumararama-samalkota.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kumararama-samalkota.jpg",
+    "url": "https://media.dsquaregee.com/video/te/kumararama-samalkota.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kumararama-samalkota.jpg",
     "durationSec": 276,
     "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   }

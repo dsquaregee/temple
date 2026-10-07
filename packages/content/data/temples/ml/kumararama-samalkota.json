@@ -34,18 +34,18 @@
     "gettingThere": "സാമർലക്കോട്ട ഹൗറ–ചെന്നൈ പാതയിലെ റെയിൽവേ ജംഗ്ഷനാണ്; ട്രെയിൻ വഴി നന്നായി ബന്ധിപ്പിച്ചിരിക്കുന്നു. ഇത് കാകിനാഡയ്ക്കും രാജമുന്ദ്രിക്കും (രാജമഹേന്ദ്രവരം) സമീപമാണ്; ഏറ്റവും അടുത്ത വിമാനത്താവളം രാജമുന്ദ്രിയിലാണ്; ബസുകളും ടാക്സികളും പട്ടണത്തിന് സേവനം നൽകുന്നു."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/kumararama-samalkota.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/kumararama-samalkota.mp3",
     "durationSec": 281
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kumararama-samalkota.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kumararama-samalkota.jpg",
     "color": "#5C3A2E",
     "alt": "കുമാരാരാമം (കുമാര ഭീമേശ്വര ക്ഷേത്രം)",
     "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/kumararama-samalkota.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kumararama-samalkota.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/kumararama-samalkota.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kumararama-samalkota.jpg",
     "durationSec": 210,
     "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   }

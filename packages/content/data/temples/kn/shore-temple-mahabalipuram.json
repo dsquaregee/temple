@@ -32,18 +32,18 @@
     "gettingThere": "ಮಾಮಲ್ಲಪುರಂ ಚೆಂಗಲ್ಪಟ್ಟು ಜಿಲ್ಲೆಯಲ್ಲಿದೆ, ಚೆನ್ನೈನಿಂದ ಪೂರ್ವ ಕರಾವಳಿ ರಸ್ತೆಯ ಮೂಲಕ ದಕ್ಷಿಣಕ್ಕೆ ಸುಮಾರು 55 ಕಿ.ಮೀ.; ಚೆನ್ನೈನಲ್ಲಿ ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ ಮತ್ತು ಪ್ರಮುಖ ರೈಲು ನಿಲ್ದಾಣವಿದೆ, ಊರಿಗೆ ಆಗಾಗ್ಗೆ ಬಸ್ ಮತ್ತು ಟ್ಯಾಕ್ಸಿ ಸೌಲಭ್ಯವಿದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/shore-temple-mahabalipuram.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/shore-temple-mahabalipuram.mp3",
     "durationSec": 247
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/shore-temple-mahabalipuram.jpg",
+    "src": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.jpg",
     "color": "#5C3A2E",
     "alt": "ಕಡಲತೀರ ದೇವಾಲಯ, ಮಾಮಲ್ಲಪುರಂ",
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/shore-temple-mahabalipuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/shore-temple-mahabalipuram.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/shore-temple-mahabalipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.jpg",
     "durationSec": 261,
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }

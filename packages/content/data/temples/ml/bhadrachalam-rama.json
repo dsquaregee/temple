@@ -32,18 +32,18 @@
     "gettingThere": "ഭദ്രാചലം തെലങ്കാനയിലെ ഭദ്രാദ്രി കൊത്തഗൂഡെം ജില്ലയിൽ ഗോദാവരി തീരത്താണ്; ഹൈദരാബാദ്, വിജയവാഡ എന്നിവിടങ്ങളിൽനിന്ന് റോഡ് വഴി എത്താം; അടുത്ത റെയിൽവേ സ്റ്റേഷൻ ഭദ്രാചലം റോഡ് (കൊത്തഗൂഡെം)."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/bhadrachalam-rama.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/bhadrachalam-rama.mp3",
     "durationSec": 110
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/bhadrachalam-rama.jpg",
+    "src": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
     "color": "#5C3A2E",
     "alt": "ശ്രീ സീതാ രാമചന്ദ്രസ്വാമി ക്ഷേത്രം, ഭദ്രാചലം",
     "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/bhadrachalam-rama.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/bhadrachalam-rama.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/bhadrachalam-rama.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
     "durationSec": 86,
     "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
   }

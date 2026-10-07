@@ -34,18 +34,18 @@
     "gettingThere": "ದೇವಾಲಯ ಹನುಮಕೊಂಡದಲ್ಲಿ, ವರಂಗಲ್ ನಗರ ಪ್ರದೇಶದ ಭಾಗ, ಹೈದರಾಬಾದ್‌ನಿಂದ ಸುಮಾರು 145 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ; ವರಂಗಲ್ಲಿಗೆ ಪ್ರಮುಖ ರೈಲು ಜಂಕ್ಷನ್ ಇದೆ, ಸಮೀಪದ ವಿಮಾನ ನಿಲ್ದಾಣ ಹೈದರಾಬಾದ್."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/thousand-pillar-warangal.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/thousand-pillar-warangal.mp3",
     "durationSec": 185
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thousand-pillar-warangal.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",
     "color": "#5C3A2E",
     "alt": "ಸಾವಿರ ಕಂಬದ ದೇವಾಲಯ, ವರಂಗಲ್",
     "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/thousand-pillar-warangal.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thousand-pillar-warangal.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/thousand-pillar-warangal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",
     "durationSec": 198,
     "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }

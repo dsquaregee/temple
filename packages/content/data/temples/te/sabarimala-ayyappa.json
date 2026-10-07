@@ -34,18 +34,18 @@
     "gettingThere": "భక్తులు పత్తనంతిట్ట లేదా ఎరుమేలి మీదుగా రోడ్డు మార్గంలో పంబ అడుగుభాగాన్ని చేరుకుని, ఆ తర్వాత అడవి గుండా సుమారు నాలుగు నుండి ఐదు కిలోమీటర్లు పైకి ఎక్కి సన్నిధానంలోని ఆలయాన్ని చేరుకుంటారు. దగ్గరి రైల్వే స్టేషన్లు చెంగన్నూరు, కొట్టాయం; దగ్గరి విమానాశ్రయాలు కొచ్చి, తిరువనంతపురం."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/sabarimala-ayyappa.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/sabarimala-ayyappa.mp3",
     "durationSec": 241
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.jpg",
+    "src": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.jpg",
     "color": "#5C3A2E",
     "alt": "శబరిమల శ్రీ ధర్మ శాస్తా ఆలయం (అయ్యప్పన్)",
     "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.webp"
+      "avif": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/sabarimala-ayyappa.jpg"
+    "og": "https://media.dsquaregee.com/og/sabarimala-ayyappa.jpg"
   }
 }

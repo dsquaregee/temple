@@ -34,18 +34,18 @@
     "gettingThere": "சுசீந்திரம் தமிழ்நாட்டின் தென்முனையிலுள்ள கன்னியாகுமரி மாவட்டத்தில், நாகர்கோவிலிலிருந்து சுமார் 7 கி.மீ. தொலைவில், கன்னியாகுமரியிலிருந்து சிறு பயணத் தொலைவில், சாலை வழியே நன்கு இணைக்கப்பட்டுள்ளது."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/suchindram-thanumalayan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/suchindram-thanumalayan.mp3",
     "durationSec": 212
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/suchindram-thanumalayan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",
     "color": "#5C3A2E",
     "alt": "தாணுமாலயன் கோயில், சுசீந்திரம்",
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/suchindram-thanumalayan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/suchindram-thanumalayan.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/suchindram-thanumalayan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",
     "durationSec": 196,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

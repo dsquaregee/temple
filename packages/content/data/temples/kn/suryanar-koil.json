@@ -34,18 +34,18 @@
     "gettingThere": "ತಂಜಾವೂರು ಜಿಲ್ಲೆಯಲ್ಲಿ ಕುಂಬಕೋಣಂನಿಂದ ಸುಮಾರು 15 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿ, ಆಡುದುರೈ ಬಳಿಯ ಸೂರ್ಯನಾರ್ ಕೋಯಿಲ್ ಗ್ರಾಮದಲ್ಲಿ ದೇವಾಲಯವಿದೆ. ಕುಂಬಕೋಣಂ ಹತ್ತಿರದ ಕೇಂದ್ರ; ಆಡುದುರೈ ಅಥವಾ ಕುಂಬಕೋಣಂ ಮೂಲಕ ರೈಲು ಸೌಕರ್ಯವಿದೆ; ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ ತಿರುಚಿರಾಪಳ್ಳಿ, ಸುಮಾರು 90 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿ. ಕುಂಬಕೋಣಂನಿಂದ ಬಸ್ಸುಗಳು ಮತ್ತು ಟ್ಯಾಕ್ಸಿಗಳು ಸಿಗುತ್ತವೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/suryanar-koil.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/suryanar-koil.mp3",
     "durationSec": 219
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.jpg",
+    "src": "https://media.dsquaregee.com/heroes/suryanar-koil.jpg",
     "color": "#5C3A2E",
     "alt": "ಸೂರ್ಯನಾರ್ ಕೋಯಿಲ್ (ಸೂರ್ಯ ದೇವಾಲಯ)",
     "credit": "PJeganathan / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.webp"
+      "avif": "https://media.dsquaregee.com/heroes/suryanar-koil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/suryanar-koil.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/suryanar-koil.jpg"
+    "og": "https://media.dsquaregee.com/og/suryanar-koil.jpg"
   }
 }

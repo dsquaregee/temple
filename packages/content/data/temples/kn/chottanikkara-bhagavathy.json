@@ -34,18 +34,18 @@
     "gettingThere": "ಚೊಟ್ಟಾನಿಕ್ಕರ ಎರ್ಣಾಕುಳಂ ಜಿಲ್ಲೆಯಲ್ಲಿ ಕೊಚ್ಚಿಯ ಸಮೀಪದಲ್ಲಿದೆ. ಹತ್ತಿರದ ಪ್ರಮುಖ ರೈಲು ನಿಲ್ದಾಣ ಎರ್ಣಾಕುಳಂ; ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ ಕೊಚ್ಚಿ (ನೆಡುಂಬಾಶೇರಿ). ದೇವಾಲಯವು ರಸ್ತೆ ಮಾರ್ಗದಿಂದ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/chottanikkara-bhagavathy.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/chottanikkara-bhagavathy.mp3",
     "durationSec": 233
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/chottanikkara-bhagavathy.jpg",
+    "src": "https://media.dsquaregee.com/heroes/chottanikkara-bhagavathy.jpg",
     "color": "#5C3A2E",
     "alt": "ಚೊಟ್ಟಾನಿಕ್ಕರ ಭಗವತಿ ದೇವಾಲಯ (ಶ್ರೀ ರಾಜರಾಜೇಶ್ವರಿ)",
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/chottanikkara-bhagavathy.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/chottanikkara-bhagavathy.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/chottanikkara-bhagavathy.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/chottanikkara-bhagavathy.jpg",
     "durationSec": 239,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

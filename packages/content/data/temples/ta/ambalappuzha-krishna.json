@@ -34,18 +34,18 @@
     "gettingThere": "கோயில் ஆலப்புழை மாவட்டத்தில் அம்பலப்புழையில், ஆலப்புழை–கொல்லம் வழியில் அமைந்துள்ளது. அருகிலுள்ள தொடருந்து நிலையங்கள் அம்பலப்புழை மற்றும் ஆலப்புழை; அருகிலுள்ள விமான நிலையம் கொச்சி, அங்கிருந்து வாடகைக் கார்களும் பேருந்துகளும் கிடைக்கும்."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/ambalappuzha-krishna.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/ambalappuzha-krishna.mp3",
     "durationSec": 253
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ambalappuzha-krishna.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ambalappuzha-krishna.jpg",
     "color": "#5C3A2E",
     "alt": "அம்பலப்புழை ஸ்ரீ கிருஷ்ணசுவாமி கோயில்",
     "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/ambalappuzha-krishna.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ambalappuzha-krishna.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/ambalappuzha-krishna.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ambalappuzha-krishna.jpg",
     "durationSec": 233,
     "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -32,18 +32,18 @@
     "gettingThere": "गोकर्ण उत्तर कन्नड़ ज़िले में तट पर है, कोंकण रेलवे पर इसका अपना छोटा रेलवे स्टेशन है; गोकर्ण रोड और कुमटा निकट रेलहेड हैं, और निकटतम हवाई अड्डे हुबली तथा गोवा (डबोलिम) हैं।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/gokarna-mahabaleshwara.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/gokarna-mahabaleshwara.mp3",
     "durationSec": 200
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.jpg",
+    "src": "https://media.dsquaregee.com/heroes/gokarna-mahabaleshwara.jpg",
     "color": "#5C3A2E",
     "alt": "गोकर्ण महाबलेश्वर मंदिर",
     "credit": "Vedamurthy.j / Wikimedia Commons (CC BY-SA 3.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.webp"
+      "avif": "https://media.dsquaregee.com/heroes/gokarna-mahabaleshwara.avif",
+      "webp": "https://media.dsquaregee.com/heroes/gokarna-mahabaleshwara.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/gokarna-mahabaleshwara.jpg"
+    "og": "https://media.dsquaregee.com/og/gokarna-mahabaleshwara.jpg"
   }
 }

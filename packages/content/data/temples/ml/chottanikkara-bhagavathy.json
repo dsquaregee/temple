@@ -34,18 +34,18 @@
     "gettingThere": "ചോറ്റാനിക്കര എറണാകുളം ജില്ലയിൽ കൊച്ചിക്കടുത്താണ് സ്ഥിതിചെയ്യുന്നത്. അടുത്തുള്ള പ്രധാന റെയിൽവേ സ്റ്റേഷൻ എറണാകുളം; അടുത്തുള്ള വിമാനത്താവളം കൊച്ചി (നെടുമ്പാശേരി). ക്ഷേത്രം റോഡുമാർഗം നന്നായി ബന്ധിപ്പിക്കപ്പെട്ടിരിക്കുന്നു."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/chottanikkara-bhagavathy.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/chottanikkara-bhagavathy.mp3",
     "durationSec": 263
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/chottanikkara-bhagavathy.jpg",
+    "src": "https://media.dsquaregee.com/heroes/chottanikkara-bhagavathy.jpg",
     "color": "#5C3A2E",
     "alt": "ചോറ്റാനിക്കര ഭഗവതി ക്ഷേത്രം (ശ്രീ രാജരാജേശ്വരി)",
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/chottanikkara-bhagavathy.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/chottanikkara-bhagavathy.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/chottanikkara-bhagavathy.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/chottanikkara-bhagavathy.jpg",
     "durationSec": 197,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

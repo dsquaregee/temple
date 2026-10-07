@@ -32,18 +32,18 @@
     "gettingThere": "చాముండి కొండ మైసూరు కేంద్రం నుండి సుమారు 13 కి.మీ దూరంలో, రహదారి లేదా రాతి మెట్ల దారి ద్వారా చేరుకుంటారు; మైసూరుకు రైలు జంక్షన్, విమానాశ్రయం ఉన్నాయి, బెంగళూరు పెద్ద విమానాశ్రయం సుమారు 170 కి.మీ దూరంలో ఉంది."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/chamundeshwari-mysuru.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/chamundeshwari-mysuru.mp3",
     "durationSec": 180
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/chamundeshwari-mysuru.jpg",
+    "src": "https://media.dsquaregee.com/heroes/chamundeshwari-mysuru.jpg",
     "color": "#5C3A2E",
     "alt": "చాముండేశ్వరి ఆలయం, మైసూరు",
     "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0) · Aleksandr Zykov from Russia / Wikimedia Commons (CC BY-SA 2.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/chamundeshwari-mysuru.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/chamundeshwari-mysuru.jpg",
+    "url": "https://media.dsquaregee.com/video/te/chamundeshwari-mysuru.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/chamundeshwari-mysuru.jpg",
     "durationSec": 200,
     "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0) · Aleksandr Zykov from Russia / Wikimedia Commons (CC BY-SA 2.0)"
   }

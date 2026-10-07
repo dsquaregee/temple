@@ -34,18 +34,18 @@
     "gettingThere": "த்ராக்ஷாராமம் கோதாவரி டெல்டாவில் காகிநாடா, ராஜமஹேந்திரவரம் (ராஜமுந்திரி) இடையே அமைந்துள்ளது. ராஜமுந்திரி அருகிலுள்ள முக்கிய ரயில் நிலையமும் விமான நிலையமும் ஆகும்; அங்கிருந்தும், காகிநாடாவிலிருந்தும் பேருந்துகளும் வாடகைக் கார்களும் இவ்வூருக்கு வந்தடைகின்றன, இது சாலை வழியில் நன்கு இணைக்கப்பட்டுள்ளது."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/draksharama-bhimeswara.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/draksharama-bhimeswara.mp3",
     "durationSec": 273
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/draksharama-bhimeswara.jpg",
+    "src": "https://media.dsquaregee.com/heroes/draksharama-bhimeswara.jpg",
     "color": "#5C3A2E",
     "alt": "த்ராக்ஷாராமம் (பீமேஸ்வரர் கோயில்)",
     "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/draksharama-bhimeswara.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/draksharama-bhimeswara.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/draksharama-bhimeswara.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/draksharama-bhimeswara.jpg",
     "durationSec": 260,
     "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)"
   }

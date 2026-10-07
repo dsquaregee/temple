@@ -32,6 +32,10 @@ const work = join(repoRoot, '.media-tmp');
 const DRY = !!process.env.VIDEO_DRYRUN;
 const BUCKET = process.env.MEDIA_BUCKET;
 if (!DRY && !BUCKET) throw new Error('Set MEDIA_BUCKET (or VIDEO_DRYRUN=1 for a photo audit).');
+// Public URL the app serves from (Cloudflare R2 — the primary CDN origin). Objects
+// are uploaded to the GCS bucket above but served from R2 at the same keys; override
+// via env if the serving host changes. See docs/migrate-project.md (R2 primary origin).
+const PUBLIC_BASE = (process.env.MEDIA_PUBLIC_BASE || 'https://media.dsquaregee.com').replace(/\/$/, '');
 const PHOTOS_PER = Number(process.env.PHOTOS_PER || 6);
 const MIN_PHOTOS = Number(process.env.MIN_PHOTOS || 3);
 const MIN_MP = Number(process.env.MIN_MP || 2);
@@ -458,7 +462,7 @@ for (const id of ids) {
       metadata: { cacheControl: 'public, max-age=31536000, immutable' },
       resumable: false,
     });
-    const heroUrl = `https://storage.googleapis.com/${BUCKET}/${heroObj}`;
+    const heroUrl = `${PUBLIC_BASE}/${heroObj}`;
 
     for (const locale of LOCALES) {
       const jsonPath = join(dataDir, 'temples', locale, `${id}.json`);
@@ -468,7 +472,11 @@ for (const id of ids) {
       // Hero is language-agnostic and needs only one photo — set it on every
       // locale doc even when there is no narration audio (so no video) or too
       // few photos for a slideshow.
-      doc.hero = { src: heroUrl, color: doc.hero?.color || '#5C3A2E', alt: `${doc.name}`, credit };
+      // Spread the existing hero first so the AVIF/WebP `sources` and `og` card
+      // that gen-hero-variants may have already written are preserved — only the
+      // base photo fields are (re)set here. (Previously this replaced the whole
+      // hero object, clobbering variants when a video run followed a variants run.)
+      doc.hero = { ...doc.hero, src: heroUrl, color: doc.hero?.color || '#5C3A2E', alt: `${doc.name}`, credit };
 
       const audioUrl = doc.audio?.storyUrl;
       if (canVideo && audioUrl) {
@@ -486,7 +494,7 @@ for (const id of ids) {
           resumable: false,
         });
         doc.video = {
-          url: `https://storage.googleapis.com/${BUCKET}/${obj}`,
+          url: `${PUBLIC_BASE}/${obj}`,
           posterUrl: heroUrl,
           durationSec: audioDur,
           credit,

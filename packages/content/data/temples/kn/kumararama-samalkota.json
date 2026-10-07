@@ -34,18 +34,18 @@
     "gettingThere": "ಸಾಮರ್ಲಕೋಟ ಹೌರಾ–ಚೆನ್ನೈ ಮಾರ್ಗದಲ್ಲಿನ ರೈಲ್ವೆ ಜಂಕ್ಷನ್; ರೈಲಿನ ಮೂಲಕ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದೆ. ಇದು ಕಾಕಿನಾಡ ಮತ್ತು ರಾಜಮಂಡ್ರಿ (ರಾಜಮಹೇಂದ್ರವರಂ) ಬಳಿ ಇದೆ; ಸಮೀಪದ ವಿಮಾನ ನಿಲ್ದಾಣ ರಾಜಮಂಡ್ರಿಯಲ್ಲಿದೆ; ಬಸ್ಸುಗಳು ಮತ್ತು ಟ್ಯಾಕ್ಸಿಗಳು ಪಟ್ಟಣಕ್ಕೆ ಸೇವೆ ನೀಡುತ್ತವೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/kumararama-samalkota.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/kumararama-samalkota.mp3",
     "durationSec": 261
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kumararama-samalkota.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kumararama-samalkota.jpg",
     "color": "#5C3A2E",
     "alt": "ಕುಮಾರಾರಾಮ (ಕುಮಾರ ಭೀಮೇಶ್ವರ ದೇವಾಲಯ)",
     "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/kumararama-samalkota.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kumararama-samalkota.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/kumararama-samalkota.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kumararama-samalkota.jpg",
     "durationSec": 267,
     "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
   }
