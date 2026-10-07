@@ -41,7 +41,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/venkateswara-tirumala.jpg",
     "color": "#5C3A2E",
     "alt": "वेंकटेश्वर मंदिर, तिरुमला",
-    "credit": "Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0) · vijay chennupati from sydney, australia / Wikimedia Commons (CC BY 2.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons (CC BY-SA 2.0)"
+    "credit": "Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0) · vijay chennupati from sydney, australia / Wikimedia Commons (CC BY 2.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons (CC BY-SA 2.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/venkateswara-tirumala.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/venkateswara-tirumala.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/venkateswara-tirumala.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/hi/venkateswara-tirumala.mp4",

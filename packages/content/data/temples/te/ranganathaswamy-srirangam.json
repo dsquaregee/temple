@@ -43,7 +43,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/ranganathaswamy-srirangam.jpg",
     "color": "#5C3A2E",
     "alt": "రంగనాథస్వామి ఆలయం, శ్రీరంగం",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/ranganathaswamy-srirangam.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/ranganathaswamy-srirangam.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/ranganathaswamy-srirangam.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/te/ranganathaswamy-srirangam.mp4",

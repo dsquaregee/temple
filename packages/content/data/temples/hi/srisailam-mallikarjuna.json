@@ -39,7 +39,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/srisailam-mallikarjuna.jpg",
     "color": "#5C3A2E",
     "alt": "श्रीशैलम मल्लिकार्जुन स्वामी मंदिर",
-    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)"
+    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/srisailam-mallikarjuna.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/srisailam-mallikarjuna.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/srisailam-mallikarjuna.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/hi/srisailam-mallikarjuna.mp4",

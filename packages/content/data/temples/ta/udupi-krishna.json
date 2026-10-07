@@ -39,7 +39,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/udupi-krishna.jpg",
     "color": "#5C3A2E",
     "alt": "ஸ்ரீ கிருஷ்ண மடம், உடுப்பி",
-    "credit": "Uttpal Krushna / Wikimedia Commons (CC BY-SA 4.0) · Avinashisonline / Wikimedia Commons (CC BY-SA 4.0) · Arun k01 / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Uttpal Krushna / Wikimedia Commons (CC BY-SA 4.0) · Avinashisonline / Wikimedia Commons (CC BY-SA 4.0) · Arun k01 / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/udupi-krishna.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/udupi-krishna.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/udupi-krishna.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/ta/udupi-krishna.mp4",

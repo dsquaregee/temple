@@ -41,7 +41,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/ambalappuzha-krishna.jpg",
     "color": "#5C3A2E",
     "alt": "अंबलप्पुष़ा श्री कृष्णस्वामी मंदिर",
-    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/ambalappuzha-krishna.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/ambalappuzha-krishna.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/ambalappuzha-krishna.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/hi/ambalappuzha-krishna.mp4",

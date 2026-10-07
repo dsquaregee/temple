@@ -41,7 +41,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/thiruparankundram-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "Thiruparankundram Murugan Temple",
-    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)"
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/thiruparankundram-murugan.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/thiruparankundram-murugan.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/thiruparankundram-murugan.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/en/thiruparankundram-murugan.mp4",

@@ -42,7 +42,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/thiruchendur-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "Thiruchendur Murugan Temple",
-    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sanjayd20 / Wikimedia Commons (CC0)"
+    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sanjayd20 / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/thiruchendur-murugan.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/thiruchendur-murugan.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/thiruchendur-murugan.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/en/thiruchendur-murugan.mp4",

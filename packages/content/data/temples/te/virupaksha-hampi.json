@@ -39,7 +39,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/virupaksha-hampi.jpg",
     "color": "#5C3A2E",
     "alt": "విరూపాక్ష దేవాలయం, హంపి",
-    "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/virupaksha-hampi.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/virupaksha-hampi.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/virupaksha-hampi.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/te/virupaksha-hampi.mp4",

@@ -41,7 +41,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/thousand-pillar-warangal.jpg",
     "color": "#5C3A2E",
     "alt": "ಸಾವಿರ ಕಂಬದ ದೇವಾಲಯ, ವರಂಗಲ್",
-    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/thousand-pillar-warangal.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/thousand-pillar-warangal.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/thousand-pillar-warangal.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/kn/thousand-pillar-warangal.mp4",

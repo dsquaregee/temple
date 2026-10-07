@@ -41,7 +41,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/kanchi-kamakshi.jpg",
     "color": "#5C3A2E",
     "alt": "ಕಾಮಾಕ್ಷಿ ಅಮ್ಮನ್ ದೇವಾಲಯ, ಕಾಂಚೀಪುರಂ",
-    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/kanchi-kamakshi.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/kanchi-kamakshi.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/kanchi-kamakshi.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/kn/kanchi-kamakshi.mp4",

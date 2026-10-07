@@ -39,7 +39,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/chamundeshwari-mysuru.jpg",
     "color": "#5C3A2E",
     "alt": "చాముండేశ్వరి ఆలయం, మైసూరు",
-    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/chamundeshwari-mysuru.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/chamundeshwari-mysuru.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/chamundeshwari-mysuru.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/te/chamundeshwari-mysuru.mp4",

@@ -41,7 +41,12 @@
     "src": "https://storage.googleapis.com/temples2-media/heroes/pattadakal-virupaksha.jpg",
     "color": "#5C3A2E",
     "alt": "വിരൂപാക്ഷ ക്ഷേത്രം, പട്ടടക്കൽ",
-    "credit": "Sachin Ravikumar / Wikimedia Commons (CC BY-SA 4.0) · rajeshodayanchal / Wikimedia Commons (CC BY 3.0) · VasuVR / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Sachin Ravikumar / Wikimedia Commons (CC BY-SA 4.0) · rajeshodayanchal / Wikimedia Commons (CC BY 3.0) · VasuVR / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/pattadakal-virupaksha.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/pattadakal-virupaksha.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/pattadakal-virupaksha.jpg"
   },
   "video": {
     "url": "https://storage.googleapis.com/temples2-media/video/ml/pattadakal-virupaksha.mp4",
