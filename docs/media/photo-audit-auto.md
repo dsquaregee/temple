@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| thiruchendur-murugan | 6 | ✅ included |
-| thirunallar-dharbaranyeswarar | 3 | ✅ included |
-| thiruparankundram-murugan | 6 | ✅ included |
-| thiruttani-murugan | 3 | ✅ included |
-| thiruvalangadu-vadaranyeswarar | 6 | ✅ included |
-| thousand-pillar-warangal | 6 | ✅ included |
+| thyagaraja-thiruvarur | 6 | ✅ included |
+| udupi-krishna | 6 | ✅ included |
+| vadakkunnathan-thrissur | 6 | ✅ included |
+| vaikom-mahadeva | 3 | ✅ included |
+| vaimurnathar-thiruvaimur | 3 | ✅ included |
+| vaithamanidhi-thirukkolur | 6 | ✅ included |
