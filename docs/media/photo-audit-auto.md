@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| thyagaraja-thiruvarur | 6 | ✅ included |
-| udupi-krishna | 6 | ✅ included |
-| vadakkunnathan-thrissur | 6 | ✅ included |
-| vaikom-mahadeva | 3 | ✅ included |
-| vaimurnathar-thiruvaimur | 3 | ✅ included |
-| vaithamanidhi-thirukkolur | 6 | ✅ included |
+| vaitheeswaran-koil | 6 | ✅ included |
+| varadaraja-perumal-kanchipuram | 6 | ✅ included |
+| vedaranyeswarar-vedaranyam | 6 | ✅ included |
+| venkateswara-tirumala | 6 | ✅ included |
+| virupaksha-hampi | 3 | ✅ included |
+| yadadri-lakshmi-narasimha | 6 | ✅ included |
