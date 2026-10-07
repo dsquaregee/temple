@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| chamundeshwari-mysuru | 6 | ✅ included |
-| chottanikkara-bhagavathy | 3 | ✅ included |
-| dharmasthala-manjunatha | 3 | ✅ included |
-| draksharama-bhimeswara | 3 | ✅ included |
-| ekambareswarar | 6 | ✅ included |
-| ettumanoor-mahadeva | 3 | ✅ included |
+| gangaikonda-cholapuram | 6 | ✅ included |
+| guruvayur-krishna | 6 | ✅ included |
+| halebidu-hoysaleswara | 6 | ✅ included |
+| jambukeswarar | 6 | ✅ included |
+| kailasanathar-kanchipuram | 6 | ✅ included |
+| kanaka-durga-vijayawada | 6 | ✅ included |
