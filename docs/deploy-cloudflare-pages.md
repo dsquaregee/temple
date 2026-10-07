@@ -1,82 +1,71 @@
-# Hosting on Cloudflare Pages (replacing Firebase Hosting)
+# Hosting on Cloudflare (Workers Static Assets, replacing Firebase)
 
-Moves the static site off Firebase Hosting onto **Cloudflare Pages**, so the
-whole serving path is Cloudflare (Pages + R2) with no Google in it. The build is
-unchanged (`pnpm build:web` → `apps/web/out`); only where it's served changes.
+Serves the static site from **Cloudflare** instead of Firebase Hosting, so the
+whole serving path is Cloudflare (static site + R2 media) with no Google in it.
+The build is unchanged (`pnpm build:web` → `apps/web/out`); only the host changes.
 
-`deploy-pages.yml` builds and deploys to Pages. It runs **in parallel with**
-`deploy.yml` (Firebase) so nothing breaks mid-transition — you cut the domain
-over to Pages only after verifying it on the `*.pages.dev` URL, then retire the
-Firebase workflow.
+Uses **Cloudflare Workers Builds** (Git-connected): Cloudflare clones the repo on
+each push, runs the build, and deploys the static export via `wrangler deploy`,
+reading `wrangler.jsonc` at the repo root. **No API tokens or GitHub secrets** —
+Cloudflare handles build + deploy, with free per-push preview URLs.
 
-Headers/CSP/caching are ported to `apps/web/public/_headers` (shipped as
-`out/_headers`), a 1:1 copy of the `firebase.json` rules.
+Headers/CSP/caching live in `apps/web/public/_headers` (shipped as `out/_headers`);
+Workers Static Assets honors `_headers` and `_redirects`. Firebase's `deploy.yml`
+stays intact so the cutover is reversible: deploy to Cloudflare, verify on the
+`*.workers.dev` URL, move the domain, then retire Firebase.
 
 ---
 
-## Part 1 — Cloudflare setup (owner)
+## Part 1 — Create the project (owner, in the Cloudflare dashboard)
 
-1. **Create the Pages project.** Cloudflare dashboard → **Workers & Pages →
-   Create → Pages → Direct Upload** → name it **`temple`** → create (an empty
-   project is fine; the Action uploads to it). Set its **production branch to
-   `main`** (Pages project → Settings → Builds & deployments → Production branch),
-   which is what the deploy Action targets.
-2. **API token.** My Profile → **API Tokens → Create Token** → use the
-   **"Edit Cloudflare Pages"** template (or a custom token with *Account →
-   Cloudflare Pages → Edit*). Copy the token.
-3. **Account ID.** Shown in the dashboard URL and on the Workers & Pages
-   overview (right sidebar).
-4. **GitHub secrets.** Repo → Settings → Secrets and variables → Actions → add:
-   - `CLOUDFLARE_API_TOKEN` = the token from step 2
-   - `CLOUDFLARE_ACCOUNT_ID` = the account id from step 3
+1. **Workers & Pages → Create application → Import a repository** (Git) → authorize
+   GitHub → select **`dsquaregee/temple`**.
+2. In the build configuration:
+   - **Project name:** `temple` (must match `name` in `wrangler.jsonc`)
+   - **Build command:** `pnpm build:web`
+   - **Deploy command:** `npx wrangler deploy`
+   - **Preview command:** leave blank (or `npx wrangler versions upload`)
+   - **Advanced settings:** set **Production branch** to
+     `claude/temple-app-phase-1-jfbtxy`; leave root directory `/`. If a Node
+     version is offered, pick 20.
+3. **Save and Deploy.** Cloudflare builds and deploys. Watch the build log — first
+   run takes a few minutes (pnpm install + content generate + next build).
 
-## Part 2 — First deploy + verify (no domain change yet)
+## Part 2 — Verify (no domain change yet)
 
-5. GitHub → **Actions → "Deploy to Cloudflare Pages" → Run workflow** (it's
-   manual-dispatch only for now). It builds and uploads to the `temple` Pages
-   project.
-6. Open the deployment's **`https://temple.pages.dev`** URL (or the
-   `<hash>.temple.pages.dev` the run prints). Click through a few temple pages —
-   confirm the hero photos, Listen audio, and video load (these come from R2), and
-   that `/en`, `/ta`, `/te`, etc. all render. The service worker and manifest
-   should load without CSP errors (check the browser console).
+4. Open the deployment URL Cloudflare gives you (`temple.<account>.workers.dev`).
+   Click through a few temple pages — confirm heroes / Listen audio / video load
+   (served from R2), `/en` `/ta` `/te` all render, and the browser console shows
+   no CSP errors (the service worker + manifest should load).
 
 ## Part 3 — Cut the custom domain over (owner)
 
 Only after Part 2 looks right:
 
-7. Pages project → **Custom domains → Set up a custom domain** →
-   `temples.dsquaregee.com` → follow the prompt. Because DNS is already on
-   Cloudflare, it reconfigures the record automatically (proxied) and provisions
-   the cert — **this replaces the Firebase CNAME**, moving the domain to Pages.
-8. Wait for the domain to show **Active**, then load
-   `https://temples.dsquaregee.com/` and a couple of temple pages to confirm
-   it's being served by Pages now.
+5. Project → **Settings → Domains & Routes → Add → Custom domain** →
+   `temples.dsquaregee.com`. DNS is already on Cloudflare, so it reconfigures the
+   record automatically (proxied) and provisions the cert — **this replaces the
+   Firebase CNAME**, moving the domain to Cloudflare's static-assets Worker.
+6. Once it shows Active, load `https://temples.dsquaregee.com/` and a couple of
+   temple pages to confirm Cloudflare is serving.
 
-> The v3 service worker already handles cache invalidation, but if you still see
-> a stale page on your own machine right after the cutover, hard-reload or use an
-> incognito window (same as the earlier migration).
+> If you still see a stale page on your own machine right after the cutover,
+> hard-reload or use an incognito window (the v3 service worker self-heals).
 
 ## Part 4 — Retire Firebase Hosting (optional, after a day or two)
 
-Once the domain has been happily on Pages for a bit:
-
-- **Make Pages the push-deploy:** add the `push` trigger to `deploy-pages.yml`
-  (commented at the top of the file) so every push to the default branch
-  publishes to Pages.
 - Delete `.github/workflows/deploy.yml` (the Firebase deploy), or leave it as a
-  warm fallback — it keeps publishing to `temples2.web.app`, which is harmless.
-- You can keep the Firebase project around (Firestore `temple` db, Auth) for
-  when you add account features later; nothing in the live site uses it today.
+  warm fallback publishing to `temples2.web.app` (harmless).
+- Keep the Firebase project for when you add account features later; nothing in
+  the live site uses Firestore/Auth today.
 
 ## Notes
 
-- **Only hosting moves.** Media still serves from R2, generation still uses the
-  GCS staging buckets + Cloud TTS. See `docs/migrate-project.md`.
-- **Headers parity.** While both hosts run, keep `_headers` and the `firebase.json`
+- **Only hosting moves.** Media stays on R2; generation still uses the GCS staging
+  buckets + Cloud TTS. See `docs/migrate-project.md`.
+- **Headers parity.** While both hosts run, keep `_headers` and `firebase.json`'s
   headers in sync (the CSP especially — `apps/web/test/csp-parity.test.ts` guards
   the script-src side).
-- **Trailing slashes.** The export uses `trailingSlash: true` (directory +
-  `index.html`); Pages serves these natively. If any `/path` (no slash) 404s
-  instead of redirecting to `/path/`, add a `public/_redirects` rule — not
-  expected, but easy if needed.
+- **Config:** `wrangler.jsonc` (repo root) points Static Assets at `apps/web/out`
+  and serves `404.html` for unmatched routes. Trailing-slash directories resolve
+  to `index.html` natively.
