@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| attukal-bhagavathy | 4 | ✅ included |
-| badami-cave-temples | 3 | ✅ included |
-| belur-chennakeshava | 6 | ✅ included |
-| bhadrachalam-rama | 6 | ✅ included |
-| brahmapureeswarar-thirukkuvalai | 6 | ✅ included |
-| brihadeeswarar | 6 | ✅ included |
+| chamundeshwari-mysuru | 6 | ✅ included |
+| chottanikkara-bhagavathy | 3 | ✅ included |
+| dharmasthala-manjunatha | 3 | ✅ included |
+| draksharama-bhimeswara | 3 | ✅ included |
+| ekambareswarar | 6 | ✅ included |
+| ettumanoor-mahadeva | 3 | ✅ included |
