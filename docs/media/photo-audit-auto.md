@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| aihole-durga-temple | 6 | ✅ included |
-| airavatesvara | 6 | ✅ included |
-| alangudi-apatsahayesvarar | 6 | ✅ included |
-| ambalappuzha-krishna | 6 | ✅ included |
-| appakkudathan-tiruppernagar | 6 | ✅ included |
-| arunachaleswarar | 6 | ✅ included |
+| attukal-bhagavathy | 4 | ✅ included |
+| badami-cave-temples | 3 | ✅ included |
+| belur-chennakeshava | 6 | ✅ included |
+| bhadrachalam-rama | 6 | ✅ included |
+| brahmapureeswarar-thirukkuvalai | 6 | ✅ included |
+| brihadeeswarar | 6 | ✅ included |
