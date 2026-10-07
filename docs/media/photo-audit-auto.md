@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| murudeshwar-shiva | 6 | ✅ included |
-| nanjangud-srikanteshwara | 6 | ✅ included |
-| nataraja-chidambaram | 6 | ✅ included |
-| nellaiappar-tirunelveli | 6 | ✅ included |
-| padmanabhaswamy-thiruvananthapuram | 3 | ✅ included |
-| palani-murugan | 6 | ✅ included |
+| pattadakal-virupaksha | 5 | ✅ included |
+| pazhamudircholai-murugan | 3 | ✅ included |
+| ramanathaswamy-rameswaram | 6 | ✅ included |
+| ramappa-palampet | 6 | ✅ included |
+| ranganathaswamy-shivanasamudra | 3 | ✅ included |
+| ranganathaswamy-srirangam | 3 | ✅ included |
