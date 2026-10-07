@@ -4,7 +4,12 @@
    - Same-origin static assets: cache-first.
    Content pages are static HTML served from the CDN; the SW just makes repeat
    visits and flaky-network reads resilient. */
-const VERSION = 'v2';
+// Bump this on any change that must invalidate every client's cache — the
+// `activate` handler below deletes caches whose names don't match the current
+// VERSION, so a bump purges all prior precached/runtime pages on next visit.
+// v3: force returning visitors off the pre-migration (temple-502523) caches so
+// same-origin pages aren't served stale after the temples2 cutover.
+const VERSION = 'v3';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];
