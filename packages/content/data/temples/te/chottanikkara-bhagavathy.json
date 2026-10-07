@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/chottanikkara-bhagavathy.jpg",
     "color": "#5C3A2E",
     "alt": "చొట్టానిక్కర భగవతి ఆలయం (శ్రీ రాజరాజేశ్వరి)",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/chottanikkara-bhagavathy.avif",
+      "webp": "https://media.dsquaregee.com/heroes/chottanikkara-bhagavathy.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/chottanikkara-bhagavathy.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/chottanikkara-bhagavathy.mp4",

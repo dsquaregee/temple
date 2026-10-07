@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/belur-chennakeshava.jpg",
     "color": "#5C3A2E",
     "alt": "ചെന്നകേശവ ക്ഷേത്രം, ബേലൂർ",
-    "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/belur-chennakeshava.avif",
+      "webp": "https://media.dsquaregee.com/heroes/belur-chennakeshava.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/belur-chennakeshava.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/belur-chennakeshava.mp4",

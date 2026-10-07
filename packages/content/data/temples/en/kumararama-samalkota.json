@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kumararama-samalkota.jpg",
     "color": "#5C3A2E",
     "alt": "Kumararama (Kumara Bhimeswara Temple)",
-    "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Divya Talla / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kumararama-samalkota.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kumararama-samalkota.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kumararama-samalkota.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/kumararama-samalkota.mp4",

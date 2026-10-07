@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.jpg",
     "color": "#5C3A2E",
     "alt": "കാമാക്ഷി അമ്മൻ ക്ഷേത്രം, കാഞ്ചീപുരം",
-    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kanchi-kamakshi.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/kanchi-kamakshi.mp4",

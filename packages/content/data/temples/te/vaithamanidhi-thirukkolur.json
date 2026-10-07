@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/vaithamanidhi-thirukkolur.jpg",
     "color": "#5C3A2E",
     "alt": "వైత్తమానిధి పెరుమాళ్ ఆలయం, తిరుక్కోళూర్",
-    "credit": "Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Madhavan. A / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Madhavan. A / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaithamanidhi-thirukkolur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaithamanidhi-thirukkolur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaithamanidhi-thirukkolur.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/vaithamanidhi-thirukkolur.mp4",

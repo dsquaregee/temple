@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.jpg",
     "color": "#5C3A2E",
     "alt": "ക്ഷീരാരാമം (ക്ഷീര രാമലിംഗേശ്വര ക്ഷേത്രം)",
-    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ksheerarama-palakollu.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/ksheerarama-palakollu.mp4",

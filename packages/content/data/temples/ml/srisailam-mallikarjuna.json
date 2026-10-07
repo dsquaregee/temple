@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.jpg",
     "color": "#5C3A2E",
     "alt": "ശ്രീശൈലം മല്ലികാർജുന സ്വാമി ക്ഷേത്രം",
-    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)"
+    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srisailam-mallikarjuna.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/srisailam-mallikarjuna.mp4",

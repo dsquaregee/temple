@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
     "color": "#5C3A2E",
     "alt": "Srivilliputhur Andal Temple (Vatapatrasayi)",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srivilliputhur-andal.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/srivilliputhur-andal.mp4",

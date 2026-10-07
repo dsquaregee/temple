@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/ambalappuzha-krishna.jpg",
     "color": "#5C3A2E",
     "alt": "ಅಂಬಲಪ್ಪುೞ ಶ್ರೀ ಕೃಷ್ಣಸ್ವಾಮಿ ದೇವಸ್ಥಾನ",
-    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ambalappuzha-krishna.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ambalappuzha-krishna.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ambalappuzha-krishna.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/kn/ambalappuzha-krishna.mp4",

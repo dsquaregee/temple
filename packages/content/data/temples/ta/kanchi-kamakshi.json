@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.jpg",
     "color": "#5C3A2E",
     "alt": "காமாட்சி அம்மன் கோயில், காஞ்சிபுரம்",
-    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kanchi-kamakshi.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/kanchi-kamakshi.mp4",

@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kannayiramudayar-thirukaravasal.jpg",
     "color": "#5C3A2E",
     "alt": "கண்ணாயிரமுடையார் கோயில், திருக்காறாயில்",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kannayiramudayar-thirukaravasal.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kannayiramudayar-thirukaravasal.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kannayiramudayar-thirukaravasal.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/kannayiramudayar-thirukaravasal.mp4",

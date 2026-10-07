@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",
     "color": "#5C3A2E",
     "alt": "Thousand Pillar Temple, Warangal",
-    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thousand-pillar-warangal.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/thousand-pillar-warangal.mp4",

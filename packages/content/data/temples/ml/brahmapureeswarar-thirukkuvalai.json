@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/brahmapureeswarar-thirukkuvalai.jpg",
     "color": "#5C3A2E",
     "alt": "ബ്രഹ്മപുരീശ്വരർ ക്ഷേത്രം, തിരുക്കുവളൈ",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/brahmapureeswarar-thirukkuvalai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/brahmapureeswarar-thirukkuvalai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/brahmapureeswarar-thirukkuvalai.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/brahmapureeswarar-thirukkuvalai.mp4",

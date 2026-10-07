@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "വടാരണ്യേശ്വരർ ക്ഷേത്രം, തിരുവാലങ്ങാട്",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruvalangadu-vadaranyeswarar.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/thiruvalangadu-vadaranyeswarar.mp4",

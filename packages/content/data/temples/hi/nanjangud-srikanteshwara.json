@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/nanjangud-srikanteshwara.jpg",
     "color": "#5C3A2E",
     "alt": "श्रीकंठेश्वर मंदिर, नंजनगूडु",
-    "credit": "Dineshkannambadi / Wikimedia Commons (CC BY-SA 3.0) · A.Murali / Wikimedia Commons (CC0)"
+    "credit": "Dineshkannambadi / Wikimedia Commons (CC BY-SA 3.0) · A.Murali / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/nanjangud-srikanteshwara.avif",
+      "webp": "https://media.dsquaregee.com/heroes/nanjangud-srikanteshwara.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/nanjangud-srikanteshwara.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/nanjangud-srikanteshwara.mp4",

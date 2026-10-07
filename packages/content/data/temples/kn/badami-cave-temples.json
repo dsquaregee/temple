@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/badami-cave-temples.jpg",
     "color": "#5C3A2E",
     "alt": "ಬಾದಾಮಿ ಗುಹಾ ದೇವಾಲಯಗಳು",
-    "credit": "Ashok Vootla / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC0)"
+    "credit": "Ashok Vootla / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/badami-cave-temples.avif",
+      "webp": "https://media.dsquaregee.com/heroes/badami-cave-temples.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/badami-cave-temples.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/kn/badami-cave-temples.mp4",

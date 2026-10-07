@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "തിരുപ്പരംകുൻട്രം മുരുകൻ ക്ഷേത്രം",
-    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)"
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruparankundram-murugan.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/thiruparankundram-murugan.mp4",

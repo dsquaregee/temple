@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/thiruttani-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "திருத்தணி முருகன் கோயில்",
-    "credit": "Shivashanky / Wikimedia Commons (CC BY-SA 4.0) · Sivanantham govindan / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Shivashanky / Wikimedia Commons (CC BY-SA 4.0) · Sivanantham govindan / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruttani-murugan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruttani-murugan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruttani-murugan.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/thiruttani-murugan.mp4",

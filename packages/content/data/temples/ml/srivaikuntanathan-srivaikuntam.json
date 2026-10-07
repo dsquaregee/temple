@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.jpg",
     "color": "#5C3A2E",
     "alt": "ശ്രീവൈകുണ്ഠനാഥൻ പെരുമാൾ ക്ഷേത്രം, ശ്രീവൈകുണ്ഠം",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srivaikuntanathan-srivaikuntam.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/srivaikuntanathan-srivaikuntam.mp4",

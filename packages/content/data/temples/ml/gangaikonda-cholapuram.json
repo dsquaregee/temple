@@ -48,6 +48,11 @@
     "src": "https://media.dsquaregee.com/heroes/gangaikonda-cholapuram.jpg",
     "color": "#5C3A2E",
     "alt": "ബൃഹദീശ്വര ക്ഷേത്രം, ഗംഗൈകൊണ്ട ചോളപുരം",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/gangaikonda-cholapuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/gangaikonda-cholapuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/gangaikonda-cholapuram.jpg"
   }
 }

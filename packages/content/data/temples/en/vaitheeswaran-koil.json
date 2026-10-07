@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/vaitheeswaran-koil.jpg",
     "color": "#5C3A2E",
     "alt": "Vaitheeswaran Koil",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · raguleo / Wikimedia Commons (CC BY 3.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · raguleo / Wikimedia Commons (CC BY 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaitheeswaran-koil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaitheeswaran-koil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaitheeswaran-koil.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/vaitheeswaran-koil.mp4",

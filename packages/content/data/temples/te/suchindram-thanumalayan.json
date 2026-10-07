@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",
     "color": "#5C3A2E",
     "alt": "తాణుమాలయన్ ఆలయం, సుచీంద్రం",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/suchindram-thanumalayan.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/suchindram-thanumalayan.mp4",

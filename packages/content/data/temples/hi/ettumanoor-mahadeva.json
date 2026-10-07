@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.jpg",
     "color": "#5C3A2E",
     "alt": "एट्टुमानूर महादेव मंदिर",
-    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ettumanoor-mahadeva.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/ettumanoor-mahadeva.mp4",

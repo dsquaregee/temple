@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.jpg",
     "color": "#5C3A2E",
     "alt": "ಕಡಲತೀರ ದೇವಾಲಯ, ಮಾಮಲ್ಲಪುರಂ",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/shore-temple-mahabalipuram.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/kn/shore-temple-mahabalipuram.mp4",

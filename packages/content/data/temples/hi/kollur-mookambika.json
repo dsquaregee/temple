@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/kollur-mookambika.jpg",
     "color": "#5C3A2E",
     "alt": "कोल्लूर मूकाम्बिका मंदिर",
-    "credit": "Starstuffseyyon / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Starstuffseyyon / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kollur-mookambika.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kollur-mookambika.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kollur-mookambika.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/kollur-mookambika.mp4",

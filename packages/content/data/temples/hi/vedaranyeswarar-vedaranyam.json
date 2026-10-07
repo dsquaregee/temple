@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.jpg",
     "color": "#5C3A2E",
     "alt": "वेदारण्येश्वरर् मंदिर, वेदारण्यम्",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vedaranyeswarar-vedaranyam.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/vedaranyeswarar-vedaranyam.mp4",

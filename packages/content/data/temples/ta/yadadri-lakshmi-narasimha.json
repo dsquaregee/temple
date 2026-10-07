@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.jpg",
     "color": "#5C3A2E",
     "alt": "ஶ்ரீ லக்ஷ்மீ நரசிம்ம சுவாமி கோயில், யாதாத்ரி",
-    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
+    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.avif",
+      "webp": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/yadadri-lakshmi-narasimha.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/yadadri-lakshmi-narasimha.mp4",

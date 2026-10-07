@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.jpg",
     "color": "#5C3A2E",
     "alt": "శ్రీవైకుంఠనాథన్ పెరుమాళ్ ఆలయం, శ్రీవైకుంఠం",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srivaikuntanathan-srivaikuntam.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/srivaikuntanathan-srivaikuntam.mp4",

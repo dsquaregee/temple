@@ -42,7 +42,12 @@
     "src": "https://media.dsquaregee.com/heroes/thirunallar-dharbaranyeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "Thirunallar Dharbaranyeswarar Temple",
-    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thirunallar-dharbaranyeswarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thirunallar-dharbaranyeswarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thirunallar-dharbaranyeswarar.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/thirunallar-dharbaranyeswarar.mp4",

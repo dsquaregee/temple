@@ -48,6 +48,11 @@
     "src": "https://media.dsquaregee.com/heroes/airavatesvara.jpg",
     "color": "#5C3A2E",
     "alt": "ഐരാവതേശ്വര ക്ഷേത്രം",
-    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/airavatesvara.avif",
+      "webp": "https://media.dsquaregee.com/heroes/airavatesvara.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/airavatesvara.jpg"
   }
 }

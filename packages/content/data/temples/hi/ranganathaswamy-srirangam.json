@@ -43,7 +43,12 @@
     "src": "https://media.dsquaregee.com/heroes/ranganathaswamy-srirangam.jpg",
     "color": "#5C3A2E",
     "alt": "रंगनाथस्वामी मंदिर, श्रीरंगम",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ranganathaswamy-srirangam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ranganathaswamy-srirangam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ranganathaswamy-srirangam.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/ranganathaswamy-srirangam.mp4",
