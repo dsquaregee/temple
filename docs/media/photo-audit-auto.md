@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| ksheerarama-palakollu | 3 | ✅ included |
-| kumararama-samalkota | 3 | ✅ included |
-| kutralanathar-courtallam | 6 | ✅ included |
-| lepakshi-veerabhadra | 6 | ✅ included |
-| meenakshi-madurai | 6 | ✅ included |
-| melukote-cheluvanarayana | 6 | ✅ included |
+| murudeshwar-shiva | 6 | ✅ included |
+| nanjangud-srikanteshwara | 6 | ✅ included |
+| nataraja-chidambaram | 6 | ✅ included |
+| nellaiappar-tirunelveli | 6 | ✅ included |
+| padmanabhaswamy-thiruvananthapuram | 3 | ✅ included |
+| palani-murugan | 6 | ✅ included |
