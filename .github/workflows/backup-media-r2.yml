@@ -38,7 +38,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  RCLONE_VERSION: v1.68.2
+  RC_DL_VERSION: v1.68.2
   MEDIA_BUCKET: temples2-media
   AUDIO_BUCKET: temples2-audio
   R2_MEDIA_BUCKET: temples2-media-backup
@@ -52,9 +52,9 @@ jobs:
       - name: Install rclone (pinned)
         run: |
           curl -fsSL -o rclone.zip \
-            "https://downloads.rclone.org/${RCLONE_VERSION}/rclone-${RCLONE_VERSION}-linux-amd64.zip"
+            "https://downloads.rclone.org/${RC_DL_VERSION}/rclone-${RC_DL_VERSION}-linux-amd64.zip"
           unzip -q rclone.zip
-          sudo install -m 755 "rclone-${RCLONE_VERSION}-linux-amd64/rclone" /usr/local/bin/rclone
+          sudo install -m 755 "rclone-${RC_DL_VERSION}-linux-amd64/rclone" /usr/local/bin/rclone
           rclone version
 
       - name: Write GCS service-account key
