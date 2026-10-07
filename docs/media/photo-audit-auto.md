@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| sringeri-sharada | 6 | ✅ included |
-| srisailam-mallikarjuna | 3 | ✅ included |
-| srivaikuntanathan-srivaikuntam | 6 | ✅ included |
-| srivilliputhur-andal | 3 | ✅ included |
-| suchindram-thanumalayan | 6 | ✅ included |
-| swamimalai-murugan | 6 | ✅ included |
+| thiruchendur-murugan | 6 | ✅ included |
+| thirunallar-dharbaranyeswarar | 3 | ✅ included |
+| thiruparankundram-murugan | 6 | ✅ included |
+| thiruttani-murugan | 3 | ✅ included |
+| thiruvalangadu-vadaranyeswarar | 6 | ✅ included |
+| thousand-pillar-warangal | 6 | ✅ included |
