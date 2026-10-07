@@ -32,18 +32,23 @@
     "gettingThere": "யாதாத்ரி தெலங்கானாவின் யாதாத்ரி புவனகிரி மாவட்டத்தில் உள்ளது; ஹைதராபாத்திலிருந்து சாலை வழியாக அடையலாம்; அருகிலுள்ள ரயில் நிலையம் ராய்கிர்/போங்கிர்."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/yadadri-lakshmi-narasimha.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/yadadri-lakshmi-narasimha.mp3",
     "durationSec": 114
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/yadadri-lakshmi-narasimha.jpg",
+    "src": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.jpg",
     "color": "#5C3A2E",
     "alt": "ஶ்ரீ லக்ஷ்மீ நரசிம்ம சுவாமி கோயில், யாதாத்ரி",
-    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
+    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.avif",
+      "webp": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/yadadri-lakshmi-narasimha.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/yadadri-lakshmi-narasimha.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/yadadri-lakshmi-narasimha.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/yadadri-lakshmi-narasimha.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.jpg",
     "durationSec": 108,
     "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
   }

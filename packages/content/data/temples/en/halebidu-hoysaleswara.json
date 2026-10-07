@@ -34,18 +34,23 @@
     "gettingThere": "Halebidu lies in Hassan district, about 16 km from Belur and some 30 km from Hassan town (the nearest major railhead), roughly 210 km from Bengaluru by road."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/halebidu-hoysaleswara.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/halebidu-hoysaleswara.mp3",
     "durationSec": 283
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/halebidu-hoysaleswara.jpg",
+    "src": "https://media.dsquaregee.com/heroes/halebidu-hoysaleswara.jpg",
     "color": "#5C3A2E",
     "alt": "Hoysaleswara Temple, Halebidu",
-    "credit": "Rohit Sharma / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rohit Sharma / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/halebidu-hoysaleswara.avif",
+      "webp": "https://media.dsquaregee.com/heroes/halebidu-hoysaleswara.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/halebidu-hoysaleswara.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/halebidu-hoysaleswara.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/halebidu-hoysaleswara.jpg",
+    "url": "https://media.dsquaregee.com/video/en/halebidu-hoysaleswara.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/halebidu-hoysaleswara.jpg",
     "durationSec": 227,
     "credit": "Rohit Sharma / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -34,18 +34,23 @@
     "gettingThere": "ಸುಚೀಂದ್ರಂ ತಮಿಳುನಾಡಿನ ದಕ್ಷಿಣ ತುದಿಯ ಕನ್ಯಾಕುಮಾರಿ ಜಿಲ್ಲೆಯಲ್ಲಿ, ನಾಗರ್‌ಕೋಯಿಲ್‌ನಿಂದ ಸುಮಾರು 7 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿ, ಕನ್ಯಾಕುಮಾರಿಯಿಂದ ಸಣ್ಣ ಪ್ರಯಾಣ ದೂರದಲ್ಲಿ, ರಸ್ತೆ ಮೂಲಕ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/suchindram-thanumalayan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/suchindram-thanumalayan.mp3",
     "durationSec": 189
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/suchindram-thanumalayan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",
     "color": "#5C3A2E",
     "alt": "ತಾಣುಮಾಲಯನ್ ದೇವಾಲಯ, ಸುಚೀಂದ್ರಂ",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/suchindram-thanumalayan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/suchindram-thanumalayan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/suchindram-thanumalayan.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/suchindram-thanumalayan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",
     "durationSec": 198,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

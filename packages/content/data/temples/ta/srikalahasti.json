@@ -34,19 +34,24 @@
     "gettingThere": "ஸ்ரீகாளஹஸ்தி திருப்பதியிலிருந்து சுமார் 37 கி.மீ தொலைவில் உள்ளது; திருப்பதியில் அருகிலுள்ள விமான நிலையமும் ஒரு முக்கிய ரயில் சந்திப்பும் உள்ளன; நகரத்திற்கும் அதன் சொந்த ரயில் நிலையம் உண்டு. திருப்பதியிலிருந்து அடிக்கடி பேருந்துகளும் டாக்சிகளும் இயங்குகின்றன, சென்னை தென்கிழக்கே சுமார் 100 கி.மீ தொலைவில் உள்ளது."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/srikalahasti.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/srikalahasti.mp3",
     "durationSec": 439
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/srikalahasti.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/srikalahasti.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/srikalahasti.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srikalahasti.jpg",
     "durationSec": 405,
     "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/srikalahasti.jpg",
+    "src": "https://media.dsquaregee.com/heroes/srikalahasti.jpg",
     "color": "#5C3A2E",
     "alt": "ஸ்ரீகாளஹஸ்தீஸ்வரர் கோயில்",
-    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srikalahasti.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srikalahasti.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srikalahasti.jpg"
   }
 }

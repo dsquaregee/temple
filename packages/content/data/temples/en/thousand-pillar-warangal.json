@@ -34,18 +34,23 @@
     "gettingThere": "The temple is in Hanamkonda, part of the Warangal urban area, about 145 km from Hyderabad; Warangal has a major railway junction and the nearest airport is Hyderabad."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/thousand-pillar-warangal.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/thousand-pillar-warangal.mp3",
     "durationSec": 206
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thousand-pillar-warangal.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",
     "color": "#5C3A2E",
     "alt": "Thousand Pillar Temple, Warangal",
-    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thousand-pillar-warangal.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/thousand-pillar-warangal.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thousand-pillar-warangal.jpg",
+    "url": "https://media.dsquaregee.com/video/en/thousand-pillar-warangal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",
     "durationSec": 162,
     "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }

@@ -34,18 +34,23 @@
     "gettingThere": "కంచీపురం తమిళనాడులో, చెన్నై నుండి సుమారు 75 కి.మీ. దూరంలో, రోడ్డు, రైలు మార్గాల ద్వారా బాగా అనుసంధానించబడింది; ఆలయం తూర్పు విష్ణు కంచి ప్రాంతంలో ఉండి స్థానిక రవాణా ద్వారా సులభంగా చేరుకోబడుతుంది."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/varadaraja-perumal-kanchipuram.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/varadaraja-perumal-kanchipuram.mp3",
     "durationSec": 234
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/varadaraja-perumal-kanchipuram.jpg",
+    "src": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.jpg",
     "color": "#5C3A2E",
     "alt": "వరదరాజ పెరుమాళ్ ఆలయం, కంచీపురం",
-    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Women's Dairy 1989 / Wikimedia Commons (CC BY-SA 4.0) · Vetrivelrameshbabu / Wikimedia Commons (CC BY-SA 4.0) · Lodo from Moscow, Russia / Wikimedia Commons (CC BY-SA 2.0)"
+    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Women's Dairy 1989 / Wikimedia Commons (CC BY-SA 4.0) · Vetrivelrameshbabu / Wikimedia Commons (CC BY-SA 4.0) · Lodo from Moscow, Russia / Wikimedia Commons (CC BY-SA 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/varadaraja-perumal-kanchipuram.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/varadaraja-perumal-kanchipuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/varadaraja-perumal-kanchipuram.jpg",
+    "url": "https://media.dsquaregee.com/video/te/varadaraja-perumal-kanchipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.jpg",
     "durationSec": 253,
     "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Women's Dairy 1989 / Wikimedia Commons (CC BY-SA 4.0) · Vetrivelrameshbabu / Wikimedia Commons (CC BY-SA 4.0) · Lodo from Moscow, Russia / Wikimedia Commons (CC BY-SA 2.0)"
   }

@@ -34,18 +34,23 @@
     "gettingThere": "തിരുനെൽവേലി–തൂത്തുകുടി നാട്ടിൽ താമിരപരണി തീരത്ത്, തിരുനെൽവേലി–തിരുചെന്തൂർ വഴിയിൽ ഇത് സ്ഥിതിചെയ്യുന്നു; തിരുനെൽവേലിയിൽ നിന്ന് റോഡ് മാർഗം എത്തിച്ചേരാം; ഒമ്പത് തിരുപ്പതി ഗ്രാമങ്ങൾ നദിയോരത്ത് അടുത്തടുത്തായി കിടക്കുന്നു."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/srivaikuntanathan-srivaikuntam.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/srivaikuntanathan-srivaikuntam.mp3",
     "durationSec": 161
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/srivaikuntanathan-srivaikuntam.jpg",
+    "src": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.jpg",
     "color": "#5C3A2E",
     "alt": "ശ്രീവൈകുണ്ഠനാഥൻ പെരുമാൾ ക്ഷേത്രം, ശ്രീവൈകുണ്ഠം",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srivaikuntanathan-srivaikuntam.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/srivaikuntanathan-srivaikuntam.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/srivaikuntanathan-srivaikuntam.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/srivaikuntanathan-srivaikuntam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.jpg",
     "durationSec": 120,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

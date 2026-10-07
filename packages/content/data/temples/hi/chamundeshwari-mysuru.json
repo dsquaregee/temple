@@ -32,18 +32,23 @@
     "gettingThere": "चामुंडी पहाड़ी मैसूरु केंद्र से लगभग 13 कि.मी. दूर है, सड़क से या पत्थर की सीढ़ी-राह से पहुँची जाती है; मैसूरु में रेलवे जंक्शन और हवाई अड्डा है, और बेंगलुरु का बड़ा हवाई अड्डा लगभग 170 कि.मी. दूर है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/chamundeshwari-mysuru.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/chamundeshwari-mysuru.mp3",
     "durationSec": 195
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/chamundeshwari-mysuru.jpg",
+    "src": "https://media.dsquaregee.com/heroes/chamundeshwari-mysuru.jpg",
     "color": "#5C3A2E",
     "alt": "चामुंडेश्वरी मंदिर, मैसूरु",
-    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0) · Aleksandr Zykov from Russia / Wikimedia Commons (CC BY-SA 2.0)"
+    "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0) · Aleksandr Zykov from Russia / Wikimedia Commons (CC BY-SA 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/chamundeshwari-mysuru.avif",
+      "webp": "https://media.dsquaregee.com/heroes/chamundeshwari-mysuru.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/chamundeshwari-mysuru.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/chamundeshwari-mysuru.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/chamundeshwari-mysuru.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/chamundeshwari-mysuru.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/chamundeshwari-mysuru.jpg",
     "durationSec": 180,
     "credit": "Dr Murali Mohan Gurram / Wikimedia Commons (CC BY-SA 4.0) · Arun Mohan / Wikimedia Commons (CC BY-SA 4.0) · Sonamj28 / Wikimedia Commons (CC BY-SA 4.0) · Aleksandr Zykov from Russia / Wikimedia Commons (CC BY-SA 2.0)"
   }

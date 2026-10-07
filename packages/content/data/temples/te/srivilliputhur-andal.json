@@ -34,18 +34,23 @@
     "gettingThere": "శ్రీవిల్లిపుత్తూరు దక్షిణ తమిళనాడులోని విరుదునగర్ జిల్లాలో, మదురై–శివకాశి రహదారి పక్కన ఉంది; రహదారి, రైలు మార్గాల ద్వారా చేరవచ్చు; మదురై దగ్గరి ప్రధాన కేంద్రం, విమానాశ్రయం."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/srivilliputhur-andal.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/srivilliputhur-andal.mp3",
     "durationSec": 150
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/srivilliputhur-andal.jpg",
+    "src": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
     "color": "#5C3A2E",
     "alt": "శ్రీవిల్లిపుత్తూరు ఆండాళ్ ఆలయం (వటపత్రశాయి)",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srivilliputhur-andal.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/srivilliputhur-andal.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/srivilliputhur-andal.jpg",
+    "url": "https://media.dsquaregee.com/video/te/srivilliputhur-andal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
     "durationSec": 164,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

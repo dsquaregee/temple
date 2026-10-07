@@ -32,18 +32,23 @@
     "gettingThere": "లేపాక్షి శ్రీ సత్యసాయి జిల్లాలో, హిందూపురం నుండి సుమారు 15 కి.మీ, బెంగళూరు నుండి 120 కి.మీ దూరంలో ఉంది, దాని విమానాశ్రయం సమీపం; హిందూపురం సమీప రైల్వే స్టేషన్, ఆలయం రహదారి నుండి కొద్ది దూరం."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/lepakshi-veerabhadra.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/lepakshi-veerabhadra.mp3",
     "durationSec": 196
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/lepakshi-veerabhadra.jpg",
+    "src": "https://media.dsquaregee.com/heroes/lepakshi-veerabhadra.jpg",
     "color": "#5C3A2E",
     "alt": "లేపాక్షి వీరభద్ర స్వామి ఆలయం",
-    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/lepakshi-veerabhadra.avif",
+      "webp": "https://media.dsquaregee.com/heroes/lepakshi-veerabhadra.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/lepakshi-veerabhadra.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/lepakshi-veerabhadra.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/lepakshi-veerabhadra.jpg",
+    "url": "https://media.dsquaregee.com/video/te/lepakshi-veerabhadra.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/lepakshi-veerabhadra.jpg",
     "durationSec": 219,
     "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)"
   }

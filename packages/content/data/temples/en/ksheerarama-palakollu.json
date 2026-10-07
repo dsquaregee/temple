@@ -34,18 +34,23 @@
     "gettingThere": "Palakollu lies in West Godavari district, close to the towns of Bhimavaram and Narasapuram. It is reachable by rail via Palakollu and Bhimavaram stations, and the nearest airports are at Rajahmundry and Vijayawada."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/ksheerarama-palakollu.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/ksheerarama-palakollu.mp3",
     "durationSec": 304
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ksheerarama-palakollu.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.jpg",
     "color": "#5C3A2E",
     "alt": "Ksheerarama (Ksheera Ramalingeswara Temple)",
-    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ksheerarama-palakollu.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/ksheerarama-palakollu.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ksheerarama-palakollu.jpg",
+    "url": "https://media.dsquaregee.com/video/en/ksheerarama-palakollu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.jpg",
     "durationSec": 236,
     "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
   }

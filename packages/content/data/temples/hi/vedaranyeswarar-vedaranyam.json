@@ -34,18 +34,23 @@
     "gettingThere": "वेदारण्यम् कावेरी डेल्टा के दक्षिणी छोर पर सागर के निकट, नागपट्टिनम् से लगभग 55 कि.मी. दूर स्थित है; सड़क मार्ग से भली-भाँति जुड़ा है; कोडियक्करै का प्रवेशद्वार यही है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/vedaranyeswarar-vedaranyam.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/vedaranyeswarar-vedaranyam.mp3",
     "durationSec": 145
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vedaranyeswarar-vedaranyam.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.jpg",
     "color": "#5C3A2E",
     "alt": "वेदारण्येश्वरर् मंदिर, वेदारण्यम्",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vedaranyeswarar-vedaranyam.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/vedaranyeswarar-vedaranyam.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vedaranyeswarar-vedaranyam.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/vedaranyeswarar-vedaranyam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.jpg",
     "durationSec": 133,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

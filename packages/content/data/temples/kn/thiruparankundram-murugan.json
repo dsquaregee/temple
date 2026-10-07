@@ -34,18 +34,23 @@
     "gettingThere": "ತಿರುಪ್ಪರಂಕುಂಡ್ರಂ ಮದುರೈ ನಗರ ಕೇಂದ್ರದಿಂದ ಸುಮಾರು 8 ಕಿ.ಮೀ ದೂರದಲ್ಲಿ, ಬಸ್‌ಗಳು ಟ್ಯಾಕ್ಸಿಗಳಿಂದ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕಿತ; ಮದುರೈನಲ್ಲಿ ರೈಲು ಜಂಕ್ಷನ್, ವಿಮಾನ ನಿಲ್ದಾಣ ಇವೆ, ದೇವಾಲಯಕ್ಕೆ ಸ್ವಂತ ಉಪನಗರ ರೈಲು ನಿಲುಗಡೆ ಇದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/thiruparankundram-murugan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/thiruparankundram-murugan.mp3",
     "durationSec": 179
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thiruparankundram-murugan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "ತಿರುಪ್ಪರಂಕುಂಡ್ರಂ ಮುರುಗನ್ ದೇವಾಲಯ",
-    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)"
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruparankundram-murugan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/thiruparankundram-murugan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thiruparankundram-murugan.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/thiruparankundram-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.jpg",
     "durationSec": 188,
     "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)"
   }

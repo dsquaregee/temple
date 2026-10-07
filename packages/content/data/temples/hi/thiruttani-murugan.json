@@ -34,18 +34,23 @@
     "gettingThere": "तिरुत्तणि तिरुवल्लूर ज़िले में, चेन्नई से लगभग 85 कि.मी. दूर, आंध्र सीमा के निकट है; चेन्नई–रेणिगुंटा लाइन पर इसका अपना रेलवे स्टेशन है, और निकटतम हवाई अड्डा चेन्नई है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/thiruttani-murugan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/thiruttani-murugan.mp3",
     "durationSec": 175
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thiruttani-murugan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thiruttani-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "तिरुत्तणि मुरुगन मंदिर",
-    "credit": "Shivashanky / Wikimedia Commons (CC BY-SA 4.0) · Sivanantham govindan / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Shivashanky / Wikimedia Commons (CC BY-SA 4.0) · Sivanantham govindan / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruttani-murugan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruttani-murugan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruttani-murugan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/thiruttani-murugan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thiruttani-murugan.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/thiruttani-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruttani-murugan.jpg",
     "durationSec": 160,
     "credit": "Shivashanky / Wikimedia Commons (CC BY-SA 4.0) · Sivanantham govindan / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -34,18 +34,23 @@
     "gettingThere": "ತಿರುತ್ತಣಿ ತಿರುವಳ್ಳೂರು ಜಿಲ್ಲೆಯಲ್ಲಿ, ಚೆನ್ನೈನಿಂದ ಸುಮಾರು 85 ಕಿ.ಮೀ ದೂರದಲ್ಲಿ, ಆಂಧ್ರ ಗಡಿಗೆ ಹತ್ತಿರದಲ್ಲಿದೆ; ಚೆನ್ನೈ–ರೇಣಿಗುಂಟ ಮಾರ್ಗದಲ್ಲಿ ಸ್ವಂತ ರೈಲು ನಿಲ್ದಾಣ ಇದೆ, ಸಮೀಪದ ವಿಮಾನ ನಿಲ್ದಾಣ ಚೆನ್ನೈ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/thiruttani-murugan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/thiruttani-murugan.mp3",
     "durationSec": 172
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thiruttani-murugan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thiruttani-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "ತಿರುತ್ತಣಿ ಮುರುಗನ್ ದೇವಾಲಯ",
-    "credit": "Shivashanky / Wikimedia Commons (CC BY-SA 4.0) · Sivanantham govindan / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Shivashanky / Wikimedia Commons (CC BY-SA 4.0) · Sivanantham govindan / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruttani-murugan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruttani-murugan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruttani-murugan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/thiruttani-murugan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thiruttani-murugan.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/thiruttani-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruttani-murugan.jpg",
     "durationSec": 182,
     "credit": "Shivashanky / Wikimedia Commons (CC BY-SA 4.0) · Sivanantham govindan / Wikimedia Commons (CC BY-SA 4.0)"
   }

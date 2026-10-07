@@ -34,18 +34,23 @@
     "gettingThere": "ಐಹೊಳೆ ಬಾಗಲಕೋಟೆ ಜಿಲ್ಲೆಯಲ್ಲಿ, ಬಾದಾಮಿಯಿಂದ ಸುಮಾರು 35 ಕಿ.ಮೀ, ಪಟ್ಟದಕಲ್ಲಿನಿಂದ 15 ಕಿ.ಮೀ ದೂರದಲ್ಲಿ, ರಸ್ತೆಯಿಂದ ತಲುಪಲಾಗುತ್ತದೆ; ಸಮೀಪದ ರೈಲು ನಿಲ್ದಾಣಗಳು ಬಾದಾಮಿ, ಬಾಗಲಕೋಟೆ, ಸಮೀಪದ ವಿಮಾನ ನಿಲ್ದಾಣ ಹುಬ್ಬಳ್ಳಿ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/aihole-durga-temple.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/aihole-durga-temple.mp3",
     "durationSec": 208
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/aihole-durga-temple.jpg",
+    "src": "https://media.dsquaregee.com/heroes/aihole-durga-temple.jpg",
     "color": "#5C3A2E",
     "alt": "ಐಹೊಳೆ ದುರ್ಗ ದೇವಾಲಯ",
-    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · AmlanTheTramp / Wikimedia Commons (CC BY-SA 4.0) · Akhil Balakrishnan91 / Wikimedia Commons (CC BY-SA 4.0) · S2001C / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · AmlanTheTramp / Wikimedia Commons (CC BY-SA 4.0) · Akhil Balakrishnan91 / Wikimedia Commons (CC BY-SA 4.0) · S2001C / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/aihole-durga-temple.avif",
+      "webp": "https://media.dsquaregee.com/heroes/aihole-durga-temple.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/aihole-durga-temple.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/aihole-durga-temple.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/aihole-durga-temple.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/aihole-durga-temple.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/aihole-durga-temple.jpg",
     "durationSec": 217,
     "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · AmlanTheTramp / Wikimedia Commons (CC BY-SA 4.0) · Akhil Balakrishnan91 / Wikimedia Commons (CC BY-SA 4.0) · S2001C / Wikimedia Commons (CC BY-SA 4.0)"
   }

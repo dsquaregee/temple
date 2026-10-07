@@ -32,18 +32,23 @@
     "gettingThere": "சிருங்கேரி கர்நாடகாவின் சிக்கமகளூரு மாவட்ட மேற்குத் தொடர்ச்சி மலைகளில் உள்ளது, சிக்கமகளூரு, மங்களூரு, உடுப்பி ஆகியவற்றிலிருந்து சாலை வழியாக அடையலாம்; அருகிலுள்ள விமான நிலையம் மங்களூருவில் உள்ளது, அருகிலுள்ள முக்கிய ரயில் நிலையங்கள் கடற்கரையிலும் சிவமொக்காவிலும் உள்ளன. கோயில்கள் நகரத்தின் இதயத்தில் துங்கைக்கரையில் ஒன்றாக அமைந்துள்ளன."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/sringeri-sharada.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/sringeri-sharada.mp3",
     "durationSec": 302
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/sringeri-sharada.jpg",
+    "src": "https://media.dsquaregee.com/heroes/sringeri-sharada.jpg",
     "color": "#5C3A2E",
     "alt": "சாரதாம்பா கோயில், சிருங்கேரி",
-    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Shyam Hegde / Wikimedia Commons (CC BY-SA 4.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Sharada Prasad CS from Berkeley, India / Wikimedia Commons (CC BY 2.0)"
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Shyam Hegde / Wikimedia Commons (CC BY-SA 4.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Sharada Prasad CS from Berkeley, India / Wikimedia Commons (CC BY 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sringeri-sharada.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sringeri-sharada.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sringeri-sharada.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/sringeri-sharada.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/sringeri-sharada.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/sringeri-sharada.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sringeri-sharada.jpg",
     "durationSec": 282,
     "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Shyam Hegde / Wikimedia Commons (CC BY-SA 4.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Sharada Prasad CS from Berkeley, India / Wikimedia Commons (CC BY 2.0)"
   }

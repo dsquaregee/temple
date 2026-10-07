@@ -32,18 +32,23 @@
     "gettingThere": "ఈ దేవాలయం మధ్య కేరళలోని త్రిస్సూర్ నడిబొడ్డున తెక్కింకాడు కొండపై ఉంది, త్రిస్సూర్ రైల్వే స్టేషన్ నుండి సుమారు 1.5 కి.మీ. దూరంలో, రహదారి ద్వారా చక్కగా అనుసంధానించబడి ఉంది; సమీప విమానాశ్రయం సుమారు 55 కి.మీ. దక్షిణాన ఉన్న కొచ్చి."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/vadakkunnathan-thrissur.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/vadakkunnathan-thrissur.mp3",
     "durationSec": 314
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vadakkunnathan-thrissur.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vadakkunnathan-thrissur.jpg",
     "color": "#5C3A2E",
     "alt": "వడక్కుంనాథన్ దేవాలయం, త్రిస్సూర్",
-    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0) · Vinusangam / Wikimedia Commons (CC BY-SA 4.0) · Ashish2py / Wikimedia Commons (CC BY-SA 4.0) · Devilal / Wikimedia Commons (CC BY-SA 4.0) · Ajay090 / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0) · Vinusangam / Wikimedia Commons (CC BY-SA 4.0) · Ashish2py / Wikimedia Commons (CC BY-SA 4.0) · Devilal / Wikimedia Commons (CC BY-SA 4.0) · Ajay090 / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vadakkunnathan-thrissur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vadakkunnathan-thrissur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vadakkunnathan-thrissur.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/vadakkunnathan-thrissur.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vadakkunnathan-thrissur.jpg",
+    "url": "https://media.dsquaregee.com/video/te/vadakkunnathan-thrissur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vadakkunnathan-thrissur.jpg",
     "durationSec": 341,
     "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0) · Vinusangam / Wikimedia Commons (CC BY-SA 4.0) · Ashish2py / Wikimedia Commons (CC BY-SA 4.0) · Devilal / Wikimedia Commons (CC BY-SA 4.0) · Ajay090 / Wikimedia Commons (CC BY-SA 4.0)"
   }

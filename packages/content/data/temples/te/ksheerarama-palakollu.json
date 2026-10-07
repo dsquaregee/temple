@@ -34,18 +34,23 @@
     "gettingThere": "పాలకొల్లు పశ్చిమ గోదావరి జిల్లాలో, భీమవరం, నరసాపురం పట్టణాలకు సమీపంలో ఉంది. పాలకొల్లు, భీమవరం రైల్వే స్టేషన్ల ద్వారా రైలు మార్గంలో చేరుకోవచ్చు; సమీప విమానాశ్రయాలు రాజమండ్రి, విజయవాడలో ఉన్నాయి."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/ksheerarama-palakollu.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/ksheerarama-palakollu.mp3",
     "durationSec": 247
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ksheerarama-palakollu.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.jpg",
     "color": "#5C3A2E",
     "alt": "క్షీరారామం (క్షీర రామలింగేశ్వర స్వామి ఆలయం)",
-    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ksheerarama-palakollu.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/ksheerarama-palakollu.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ksheerarama-palakollu.jpg",
+    "url": "https://media.dsquaregee.com/video/te/ksheerarama-palakollu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.jpg",
     "durationSec": 268,
     "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
   }

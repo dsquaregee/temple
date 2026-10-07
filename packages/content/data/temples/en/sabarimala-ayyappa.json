@@ -34,18 +34,18 @@
     "gettingThere": "Pilgrims reach the base at Pamba by road, travelling via Pathanamthitta or Erumeli, then trek roughly four to five kilometres uphill through forest to the shrine at Sannidhanam. The nearest railheads are Chengannur and Kottayam, and the nearest airports are Kochi and Thiruvananthapuram."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/sabarimala-ayyappa.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/sabarimala-ayyappa.mp3",
     "durationSec": 286
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.jpg",
+    "src": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.jpg",
     "color": "#5C3A2E",
     "alt": "Sabarimala Sri Dharma Sastha Temple (Ayyappan)",
     "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.webp"
+      "avif": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/sabarimala-ayyappa.jpg"
+    "og": "https://media.dsquaregee.com/og/sabarimala-ayyappa.jpg"
   }
 }

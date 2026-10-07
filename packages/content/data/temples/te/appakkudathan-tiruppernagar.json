@@ -34,18 +34,23 @@
     "gettingThere": "కోవిలడి కావేరి ఒడ్డున, తిరుచిరాపల్లి నుండి తంజావూరు వైపు సాగే రహదారిలో సుమారు 16 కి.మీ. దూరంలో ఉంది; శ్రీరంగం నుండి రహదారి ద్వారా సులభంగా చేరుకోవచ్చు."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/appakkudathan-tiruppernagar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/appakkudathan-tiruppernagar.mp3",
     "durationSec": 167
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.jpg",
     "color": "#5C3A2E",
     "alt": "అప్పక్కుడత్తాన్ పెరుమాళ్ ఆలయం, కోవిలడి",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/appakkudathan-tiruppernagar.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/appakkudathan-tiruppernagar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "url": "https://media.dsquaregee.com/video/te/appakkudathan-tiruppernagar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.jpg",
     "durationSec": 177,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

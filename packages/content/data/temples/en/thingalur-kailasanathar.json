@@ -34,18 +34,18 @@
     "gettingThere": "Thingalur lies near Thiruvaiyaru, about 18 km from Thanjavur in Thanjavur district. The nearest hubs are Thiruvaiyaru and Thanjavur; the nearest railhead is Thanjavur, and the nearest airport is Tiruchirappalli, about 70 km away."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/thingalur-kailasanathar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/thingalur-kailasanathar.mp3",
     "durationSec": 231
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thingalur-kailasanathar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thingalur-kailasanathar.jpg",
     "color": "#5C3A2E",
     "alt": "Thingalur Kailasanathar Temple",
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/thingalur-kailasanathar.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/thingalur-kailasanathar.webp"
+      "avif": "https://media.dsquaregee.com/heroes/thingalur-kailasanathar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thingalur-kailasanathar.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/thingalur-kailasanathar.jpg"
+    "og": "https://media.dsquaregee.com/og/thingalur-kailasanathar.jpg"
   }
 }

@@ -34,18 +34,23 @@
     "gettingThere": "The temple is at Vaikom in Kottayam district, near the Vembanad backwaters. The nearest railheads are at Kottayam and Ernakulam, and the nearest airport is at Kochi. Vaikom is reachable by road and also by the region's backwater routes."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/vaikom-mahadeva.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/vaikom-mahadeva.mp3",
     "durationSec": 308
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vaikom-mahadeva.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.jpg",
     "color": "#5C3A2E",
     "alt": "Vaikom Mahadeva Temple (Vaikkathappan)",
-    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaikom-mahadeva.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/vaikom-mahadeva.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vaikom-mahadeva.jpg",
+    "url": "https://media.dsquaregee.com/video/en/vaikom-mahadeva.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.jpg",
     "durationSec": 242,
     "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }

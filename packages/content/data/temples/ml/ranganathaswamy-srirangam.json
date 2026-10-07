@@ -36,18 +36,23 @@
     "gettingThere": "ശ്രീരംഗം തമിഴ്നാട്ടിലെ തിരുച്ചിറാപ്പള്ളി (ട്രിച്ചി) നഗരകേന്ദ്രത്തിൽനിന്ന് ഏകദേശം 10 കി.മീ. അകലെയാണ്; ട്രിച്ചിയിൽ അടുത്തുള്ള റെയിൽവേ ജംഗ്ഷനും വിമാനത്താവളവുമുണ്ട്, ക്ഷേത്രനഗരം പ്രാദേശിക ഗതാഗതത്താൽ നന്നായി ബന്ധിപ്പിക്കപ്പെട്ടിരിക്കുന്നു."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/ranganathaswamy-srirangam.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/ranganathaswamy-srirangam.mp3",
     "durationSec": 298
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ranganathaswamy-srirangam.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ranganathaswamy-srirangam.jpg",
     "color": "#5C3A2E",
     "alt": "രംഗനാഥസ്വാമി ക്ഷേത്രം, ശ്രീരംഗം",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ranganathaswamy-srirangam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ranganathaswamy-srirangam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ranganathaswamy-srirangam.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/ranganathaswamy-srirangam.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ranganathaswamy-srirangam.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/ranganathaswamy-srirangam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ranganathaswamy-srirangam.jpg",
     "durationSec": 224,
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }

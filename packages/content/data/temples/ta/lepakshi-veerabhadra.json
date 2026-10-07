@@ -32,18 +32,23 @@
     "gettingThere": "லேபாக்ஷி ஸ்ரீ சத்ய சாய் மாவட்டத்தில், ஹிந்துபூரிலிருந்து சுமார் 15 கி.மீ, பெங்களூருவிலிருந்து 120 கி.மீ தொலைவில் உள்ளது, அதன் விமான நிலையம் அருகில்; ஹிந்துபூர் அருகிலுள்ள ரயில் நிலையம், கோயில் நெடுஞ்சாலையிலிருந்து சிறிது தொலைவில்."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/lepakshi-veerabhadra.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/lepakshi-veerabhadra.mp3",
     "durationSec": 231
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/lepakshi-veerabhadra.jpg",
+    "src": "https://media.dsquaregee.com/heroes/lepakshi-veerabhadra.jpg",
     "color": "#5C3A2E",
     "alt": "லேபாக்ஷி வீரபத்ர சுவாமி கோயில்",
-    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/lepakshi-veerabhadra.avif",
+      "webp": "https://media.dsquaregee.com/heroes/lepakshi-veerabhadra.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/lepakshi-veerabhadra.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/lepakshi-veerabhadra.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/lepakshi-veerabhadra.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/lepakshi-veerabhadra.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/lepakshi-veerabhadra.jpg",
     "durationSec": 219,
     "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Sharad iragonda patil / Wikimedia Commons (CC BY-SA 4.0) · Nitinv29 / Wikimedia Commons (CC BY-SA 3.0) · Shyamal / Wikimedia Commons (CC BY-SA 3.0)"
   }

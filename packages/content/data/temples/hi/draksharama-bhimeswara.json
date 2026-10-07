@@ -34,18 +34,23 @@
     "gettingThere": "द्राक्षारामम् गोदावरी डेल्टा में काकिनाडा तथा राजमहेंद्रवरम् (राजमुंदरी) के बीच स्थित है। राजमुंदरी निकटतम प्रमुख रेलवे स्टेशन तथा हवाई अड्डा है; वहाँ से तथा काकिनाडा से बसें और टैक्सियाँ इस नगर तक पहुँचती हैं, जो सड़क मार्ग से भली-भाँति जुड़ा है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/draksharama-bhimeswara.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/draksharama-bhimeswara.mp3",
     "durationSec": 252
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/draksharama-bhimeswara.jpg",
+    "src": "https://media.dsquaregee.com/heroes/draksharama-bhimeswara.jpg",
     "color": "#5C3A2E",
     "alt": "द्राक्षारामम् (भीमेश्वर मंदिर)",
-    "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/draksharama-bhimeswara.avif",
+      "webp": "https://media.dsquaregee.com/heroes/draksharama-bhimeswara.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/draksharama-bhimeswara.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/draksharama-bhimeswara.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/draksharama-bhimeswara.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/draksharama-bhimeswara.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/draksharama-bhimeswara.jpg",
     "durationSec": 229,
     "credit": "Kavurisgs / Wikimedia Commons (CC BY-SA 4.0)"
   }

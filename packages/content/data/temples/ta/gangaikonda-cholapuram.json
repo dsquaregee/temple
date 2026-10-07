@@ -35,19 +35,24 @@
     "gettingThere": "சுமார் 100 கி.மீ தொலைவிலுள்ள திருச்சிராப்பள்ளி சர்வதேச விமான நிலையம் அருகிலுள்ள விமான நிலையம்; தெற்கே சுமார் 35 கி.மீ தொலைவிலுள்ள கும்பகோணம் மிகவும் வசதியான ரயில் தலம். கோயில் கும்பகோணத்திலிருந்து சிதம்பரம் செல்லும் சாலைக்கு அருகில் அமைந்துள்ளது; கங்கைகொண்ட சோழபுரத்தில் வழக்கமான பேருந்துகள் நிற்கின்றன."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/gangaikonda-cholapuram.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/gangaikonda-cholapuram.mp3",
     "durationSec": 454
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/gangaikonda-cholapuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/gangaikonda-cholapuram.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/gangaikonda-cholapuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/gangaikonda-cholapuram.jpg",
     "durationSec": 424,
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/gangaikonda-cholapuram.jpg",
+    "src": "https://media.dsquaregee.com/heroes/gangaikonda-cholapuram.jpg",
     "color": "#5C3A2E",
     "alt": "பிரகதீஸ்வரர் கோயில், கங்கைகொண்ட சோழபுரம்",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/gangaikonda-cholapuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/gangaikonda-cholapuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/gangaikonda-cholapuram.jpg"
   }
 }

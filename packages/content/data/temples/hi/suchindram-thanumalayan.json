@@ -34,18 +34,23 @@
     "gettingThere": "सुचींद्रम तमिलनाडु के दक्षिण छोर के कन्याकुमारी ज़िले में है, नागरकोइल से लगभग 7 कि.मी. दूर और कन्याकुमारी से थोड़ी यात्रा-दूरी पर, सड़क से भली-भाँति जुड़ा है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/suchindram-thanumalayan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/suchindram-thanumalayan.mp3",
     "durationSec": 188
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/suchindram-thanumalayan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",
     "color": "#5C3A2E",
     "alt": "थाणुमालयन मंदिर, सुचींद्रम",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/suchindram-thanumalayan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/suchindram-thanumalayan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/suchindram-thanumalayan.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/suchindram-thanumalayan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",
     "durationSec": 174,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

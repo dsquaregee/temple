@@ -34,18 +34,23 @@
     "gettingThere": "आलंगुडी तिरुवारूर जिले में, कुंभकोणम से लगभग 17 कि.मी. दूर, नीडामंगलम के निकट स्थित है। कुंभकोणम निकटतम केंद्र है; वहाँ तथा तिरुवारूर में रेल सुविधा उपलब्ध है; निकटतम हवाई अड्डा तिरुचिरापल्ली है, लगभग 90 कि.मी. दूर।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/alangudi-apatsahayesvarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/alangudi-apatsahayesvarar.mp3",
     "durationSec": 210
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/alangudi-apatsahayesvarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.jpg",
     "color": "#5C3A2E",
     "alt": "आलंगुडी अपत्सहायेश्वरर् मंदिर",
-    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/alangudi-apatsahayesvarar.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/alangudi-apatsahayesvarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/alangudi-apatsahayesvarar.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/alangudi-apatsahayesvarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.jpg",
     "durationSec": 193,
     "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

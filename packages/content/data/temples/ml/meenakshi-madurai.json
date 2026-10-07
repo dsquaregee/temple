@@ -34,19 +34,24 @@
     "gettingThere": "വ്യോമ, റെയില്‍, റോഡ് മാര്‍ഗ്ഗം മധുര നന്നായി ബന്ധിപ്പിച്ചിരിക്കുന്നു. മധുര വിമാനത്താവളം ക്ഷേത്രത്തില്‍ നിന്ന് ഏകദേശം 12 കി.മീ അകലെയാണ്, മധുര ജംഗ്ഷന്‍ റെയില്‍വേ സ്റ്റേഷന്‍ ഏകദേശം 2 കി.മീ അകലെയാണ്, എളുപ്പത്തിലുള്ള ഒരു ഓട്ടോറിക്ഷ യാത്ര; ക്ഷേത്രം പഴയ നഗരത്തിന്റെ കൃത്യം മധ്യത്തിലാണ് സ്ഥിതി ചെയ്യുന്നത്."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/meenakshi-madurai.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/meenakshi-madurai.mp3",
     "durationSec": 488
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/meenakshi-madurai.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/meenakshi-madurai.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/meenakshi-madurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/meenakshi-madurai.jpg",
     "durationSec": 354,
     "credit": "Avinashadityas / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0) · IM3847 / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/meenakshi-madurai.jpg",
+    "src": "https://media.dsquaregee.com/heroes/meenakshi-madurai.jpg",
     "color": "#5C3A2E",
     "alt": "മീനാക്ഷി അമ്മൻ ക്ഷേത്രം",
-    "credit": "Avinashadityas / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0) · IM3847 / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Avinashadityas / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0) · IM3847 / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/meenakshi-madurai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/meenakshi-madurai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/meenakshi-madurai.jpg"
   }
 }

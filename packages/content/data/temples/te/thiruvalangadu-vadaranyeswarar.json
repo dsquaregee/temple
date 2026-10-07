@@ -34,18 +34,23 @@
     "gettingThere": "తిరువాలంగాడు తిరువళ్లూర్ జిల్లాలో, అరక్కోణం నుండి సుమారు 15 కి.మీ., చెన్నై నుండి దాదాపు 70 కి.మీ. దూరంలో ఉంది; రహదారి ద్వారా, అరక్కోణం వైపు వెళ్లే సబర్బన్ రైలు మార్గం ద్వారా చేరుకోవచ్చు."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/thiruvalangadu-vadaranyeswarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/thiruvalangadu-vadaranyeswarar.mp3",
     "durationSec": 215
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "వటారణ్యేశ్వరర్ ఆలయం, తిరువాలంగాడు",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruvalangadu-vadaranyeswarar.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/thiruvalangadu-vadaranyeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "url": "https://media.dsquaregee.com/video/te/thiruvalangadu-vadaranyeswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "durationSec": 234,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

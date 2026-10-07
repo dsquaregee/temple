@@ -32,18 +32,23 @@
     "gettingThere": "भद्राचलम तेलंगाना के भद्राद्रि कोत्तगूडेम ज़िले में गोदावरी तट पर है; हैदराबाद और विजयवाड़ा से सड़क मार्ग से पहुँचा जा सकता है; निकटतम रेलवे स्टेशन भद्राचलम रोड (कोत्तगूडेम) है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/bhadrachalam-rama.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/bhadrachalam-rama.mp3",
     "durationSec": 104
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/bhadrachalam-rama.jpg",
+    "src": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
     "color": "#5C3A2E",
     "alt": "श्री सीता रामचंद्रस्वामी मंदिर, भद्राचलम",
-    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.avif",
+      "webp": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/bhadrachalam-rama.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/bhadrachalam-rama.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/bhadrachalam-rama.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/bhadrachalam-rama.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
     "durationSec": 95,
     "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
   }

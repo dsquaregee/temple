@@ -34,18 +34,23 @@
     "gettingThere": "Alangudi lies in Thiruvarur district, about 17 km from Kumbakonam and near Needamangalam. Kumbakonam is the nearest hub, with rail connections there and at Thiruvarur; the nearest airport is Tiruchirappalli, around 90 km away."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/alangudi-apatsahayesvarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/alangudi-apatsahayesvarar.mp3",
     "durationSec": 250
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/alangudi-apatsahayesvarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.jpg",
     "color": "#5C3A2E",
     "alt": "Alangudi Apatsahayesvarar Temple",
-    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/alangudi-apatsahayesvarar.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/alangudi-apatsahayesvarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/alangudi-apatsahayesvarar.jpg",
+    "url": "https://media.dsquaregee.com/video/en/alangudi-apatsahayesvarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.jpg",
     "durationSec": 191,
     "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

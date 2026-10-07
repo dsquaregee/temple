@@ -32,18 +32,23 @@
     "gettingThere": "ആറ്റുകാൽ കേരളത്തിൽ തിരുവനന്തപുരത്തിനുള്ളിൽ, നഗരമധ്യത്തിനും പദ്മനാഭസ്വാമി ക്ഷേത്രത്തിനും സമീപമാണ്; റോഡ് വഴി എത്താം; നഗരത്തിന്റെ റെയിൽവേ സ്റ്റേഷനും വിമാനത്താവളവും അടുത്ത്."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/attukal-bhagavathy.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/attukal-bhagavathy.mp3",
     "durationSec": 116
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/attukal-bhagavathy.jpg",
+    "src": "https://media.dsquaregee.com/heroes/attukal-bhagavathy.jpg",
     "color": "#5C3A2E",
     "alt": "ആറ്റുകാൽ ഭഗവതി ക്ഷേത്രം",
-    "credit": "Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC0)"
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/attukal-bhagavathy.avif",
+      "webp": "https://media.dsquaregee.com/heroes/attukal-bhagavathy.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/attukal-bhagavathy.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/attukal-bhagavathy.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/attukal-bhagavathy.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/attukal-bhagavathy.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/attukal-bhagavathy.jpg",
     "durationSec": 85,
     "credit": "Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC0)"
   }

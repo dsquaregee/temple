@@ -34,18 +34,23 @@
     "gettingThere": "पालमपेट मुलुगु ज़िले में, वारंगल से लगभग 70 कि.मी. और हैदराबाद से 200 कि.मी. दूर है; मंदिर सड़क से पहुँचा जाता है, वारंगल निकटतम प्रमुख रेल जंक्शन और हैदराबाद निकटतम हवाई अड्डा है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/ramappa-palampet.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/ramappa-palampet.mp3",
     "durationSec": 204
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ramappa-palampet.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ramappa-palampet.jpg",
     "color": "#5C3A2E",
     "alt": "रामप्पा मंदिर (रुद्रेश्वर), पालमपेट",
-    "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ramappa-palampet.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ramappa-palampet.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ramappa-palampet.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/ramappa-palampet.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ramappa-palampet.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/ramappa-palampet.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ramappa-palampet.jpg",
     "durationSec": 187,
     "credit": "Sainath Venigalla / Wikimedia Commons (CC BY-SA 4.0) · Sharvarism / Wikimedia Commons (CC BY-SA 4.0) · S1photostudios / Wikimedia Commons (CC BY-SA 4.0)"
   }

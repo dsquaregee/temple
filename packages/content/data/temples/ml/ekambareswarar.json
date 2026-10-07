@@ -35,19 +35,24 @@
     "gettingThere": "ചെന്നൈ അന്താരാഷ്ട്ര വിമാനത്താവളം ഏകദേശം 60 കി.മീ അകലെയാണ്. ക്ഷേത്രത്തില്‍ നിന്ന് ഏകദേശം 2 കി.മീ അകലെയുള്ള കാഞ്ചീപുരം റെയില്‍വേ സ്റ്റേഷന്‍ ചെങ്കല്‍പേട്ട് വഴി ചെന്നൈയിലേക്കും തെക്കന്‍ പാതകളിലേക്കും ബന്ധിപ്പിക്കുന്നു. ചെന്നൈ, വേലൂര്‍, തിരുപ്പതി എന്നിവിടങ്ങളുമായി കാഞ്ചീപുരത്തെ ബന്ധിപ്പിക്കുന്ന ബസുകള്‍ ധാരാളമുണ്ട്; ഓട്ടോകളും ടാക്‌സികളും ക്ഷേത്രത്തിലേക്കുള്ള ചെറിയ യാത്ര ചെയ്യുന്നു."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/ekambareswarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/ekambareswarar.mp3",
     "durationSec": 482
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/ekambareswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ekambareswarar.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/ekambareswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ekambareswarar.jpg",
     "durationSec": 358,
     "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ekambareswarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ekambareswarar.jpg",
     "color": "#5C3A2E",
     "alt": "ഏകാംബരേശ്വര ക്ഷേത്രം",
-    "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ekambareswarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ekambareswarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ekambareswarar.jpg"
   }
 }

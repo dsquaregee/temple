@@ -34,19 +34,24 @@
     "gettingThere": "രംഗനാഥസ്വാമി ക്ഷേത്രത്തിന് ഏകദേശം 2 കി.മീ കിഴക്ക്, തിരുച്ചിറപ്പള്ളിയിലെ ശ്രീരംഗം ദ്വീപിലാണ് ക്ഷേത്രം സ്ഥിതിചെയ്യുന്നത്. തിരുച്ചിറപ്പള്ളി അന്താരാഷ്ട്ര വിമാനത്താവളം ഏകദേശം 12 കി.മീ അകലെയാണ്; തിരുച്ചിറപ്പള്ളി ജംഗ്ഷന്‍ റെയില്‍വേ സ്റ്റേഷന്‍ ഏകദേശം 8 കി.മീ. സിറ്റി ബസുകളും ഓട്ടോറിക്ഷകളും തിരുവാനൈക്കാവലിലേക്ക് ഇടയ്ക്കിടെ ഓടുന്നു."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/jambukeswarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/jambukeswarar.mp3",
     "durationSec": 454
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/jambukeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/jambukeswarar.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/jambukeswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jambukeswarar.jpg",
     "durationSec": 336,
     "credit": "prakashkumar / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/jambukeswarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/jambukeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "ജംബുകേശ്വര ക്ഷേത്രം, തിരുവാനൈക്കാവല്‍",
-    "credit": "prakashkumar / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "prakashkumar / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/jambukeswarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/jambukeswarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/jambukeswarar.jpg"
   }
 }

@@ -34,18 +34,23 @@
     "gettingThere": "Suchindram is in Kanyakumari district at the southern end of Tamil Nadu, about 7 km from Nagercoil and a short journey from Kanyakumari, well connected by road."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/suchindram-thanumalayan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/suchindram-thanumalayan.mp3",
     "durationSec": 224
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/suchindram-thanumalayan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",
     "color": "#5C3A2E",
     "alt": "Thanumalayan Temple, Suchindram",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/suchindram-thanumalayan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/suchindram-thanumalayan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/suchindram-thanumalayan.jpg",
+    "url": "https://media.dsquaregee.com/video/en/suchindram-thanumalayan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",
     "durationSec": 174,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -34,18 +34,23 @@
     "gettingThere": "ഈ ക്ഷേത്രം കോട്ടയം ജില്ലയിലെ ഏറ്റുമാനൂരിൽ, കോട്ടയം-എറണാകുളം പാതയിലാണ്. ഏറ്റവും അടുത്ത റെയിൽവേ സ്റ്റേഷൻ കോട്ടയം; ഏറ്റവും അടുത്ത വിമാനത്താവളം കൊച്ചി."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/ettumanoor-mahadeva.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/ettumanoor-mahadeva.mp3",
     "durationSec": 271
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ettumanoor-mahadeva.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.jpg",
     "color": "#5C3A2E",
     "alt": "ഏറ്റുമാനൂർ മഹാദേവ ക്ഷേത്രം",
-    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ettumanoor-mahadeva.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/ettumanoor-mahadeva.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ettumanoor-mahadeva.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/ettumanoor-mahadeva.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.jpg",
     "durationSec": 202,
     "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)"
   }

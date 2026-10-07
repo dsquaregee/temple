@@ -34,18 +34,23 @@
     "gettingThere": "ವೇದಾರಣ್ಯಂ ಕಾವೇರಿ ಡೆಲ್ಟಾದ ದಕ್ಷಿಣ ಅಂಚಿನಲ್ಲಿ ಕಡಲಿಗೆ ಸಮೀಪ, ನಾಗಪಟ್ಟಿಣಂನಿಂದ ಸುಮಾರು 55 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿ ಇದೆ; ರಸ್ತೆ ಮೂಲಕ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದೆ; ಕೊಡಿಯಕ್ಕರೈಗೆ ಮುಖದ್ವಾರ ಇದು."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/vedaranyeswarar-vedaranyam.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/vedaranyeswarar-vedaranyam.mp3",
     "durationSec": 143
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vedaranyeswarar-vedaranyam.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.jpg",
     "color": "#5C3A2E",
     "alt": "ವೇದಾರಣ್ಯೇಶ್ವರರ್ ದೇವಾಲಯ, ವೇದಾರಣ್ಯಂ",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vedaranyeswarar-vedaranyam.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/vedaranyeswarar-vedaranyam.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vedaranyeswarar-vedaranyam.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/vedaranyeswarar-vedaranyam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.jpg",
     "durationSec": 151,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

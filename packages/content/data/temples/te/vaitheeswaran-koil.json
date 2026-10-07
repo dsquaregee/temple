@@ -34,18 +34,23 @@
     "gettingThere": "మయిలాడుదురై జిల్లాలో, సీర్కాళికి సమీపంలో, తమిళనాడులో మయిలాడుదురై నుండి సుమారు 25 కి.మీ. దూరంలో వైతీశ్వరన్ కోయిల్ పట్టణంలో ఉంది. మయిలాడుదురై–తరంగంబాడి రైలు మార్గంలో పట్టణానికి సొంత రైల్వే స్టేషన్ ఉంది; సమీప విమానాశ్రయం తిరుచిరాపల్లి, సుమారు 150 కి.మీ. దూరంలో."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/vaitheeswaran-koil.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/vaitheeswaran-koil.mp3",
     "durationSec": 213
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vaitheeswaran-koil.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vaitheeswaran-koil.jpg",
     "color": "#5C3A2E",
     "alt": "వైతీశ్వరన్ కోయిల్",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · raguleo / Wikimedia Commons (CC BY 3.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · raguleo / Wikimedia Commons (CC BY 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaitheeswaran-koil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaitheeswaran-koil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaitheeswaran-koil.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/vaitheeswaran-koil.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vaitheeswaran-koil.jpg",
+    "url": "https://media.dsquaregee.com/video/te/vaitheeswaran-koil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaitheeswaran-koil.jpg",
     "durationSec": 233,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · raguleo / Wikimedia Commons (CC BY 3.0)"
   }

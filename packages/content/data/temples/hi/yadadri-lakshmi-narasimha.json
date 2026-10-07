@@ -32,18 +32,23 @@
     "gettingThere": "यादाद्रि तेलंगाना के यादाद्रि भुवनगिरि ज़िले में है; हैदराबाद से सड़क मार्ग से पहुँचा जा सकता है; निकटतम रेलवे स्टेशन रायगिर/भोंगिर है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/yadadri-lakshmi-narasimha.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/yadadri-lakshmi-narasimha.mp3",
     "durationSec": 105
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/yadadri-lakshmi-narasimha.jpg",
+    "src": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.jpg",
     "color": "#5C3A2E",
     "alt": "श्री लक्ष्मी नरसिंह स्वामी मंदिर, यादाद्रि",
-    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
+    "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.avif",
+      "webp": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/yadadri-lakshmi-narasimha.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/yadadri-lakshmi-narasimha.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/yadadri-lakshmi-narasimha.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/yadadri-lakshmi-narasimha.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.jpg",
     "durationSec": 95,
     "credit": "Ravindraoudeptling / Wikimedia Commons (CC BY 4.0)"
   }

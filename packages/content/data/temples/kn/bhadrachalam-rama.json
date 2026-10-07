@@ -32,18 +32,23 @@
     "gettingThere": "ಭದ್ರಾಚಲಂ ತೆಲಂಗಾಣದ ಭದ್ರಾದ್ರಿ ಕೊತ್ತಗೂಡೆಂ ಜಿಲ್ಲೆಯಲ್ಲಿ ಗೋದಾವರಿ ದಡದಲ್ಲಿದೆ; ಹೈದರಾಬಾದ್, ವಿಜಯವಾಡದಿಂದ ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು; ಹತ್ತಿರದ ರೈಲು ನಿಲ್ದಾಣ ಭದ್ರಾಚಲಂ ರೋಡ್ (ಕೊತ್ತಗೂಡೆಂ)."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/bhadrachalam-rama.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/bhadrachalam-rama.mp3",
     "durationSec": 99
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/bhadrachalam-rama.jpg",
+    "src": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
     "color": "#5C3A2E",
     "alt": "ಶ್ರೀ ಸೀತಾ ರಾಮಚಂದ್ರಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಭದ್ರಾಚಲಂ",
-    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.avif",
+      "webp": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/bhadrachalam-rama.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/bhadrachalam-rama.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/bhadrachalam-rama.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/bhadrachalam-rama.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
     "durationSec": 105,
     "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -34,18 +34,23 @@
     "gettingThere": "श्रीविल्लिपुत्तूर दक्षिण तमिलनाडु के विरुदुनगर ज़िले में, मदुरै–शिवकाशी मार्ग के निकट स्थित है; सड़क और रेल से पहुँचा जा सकता है; मदुरै निकटतम प्रमुख केंद्र और हवाई अड्डा है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/srivilliputhur-andal.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/srivilliputhur-andal.mp3",
     "durationSec": 159
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/srivilliputhur-andal.jpg",
+    "src": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
     "color": "#5C3A2E",
     "alt": "श्रीविल्लिपुत्तूर आण्डाळ मंदिर (वटपत्रशायी)",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srivilliputhur-andal.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/srivilliputhur-andal.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/srivilliputhur-andal.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/srivilliputhur-andal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
     "durationSec": 142,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -34,18 +34,18 @@
     "gettingThere": "ಭಕ್ತರು ಪತ್ತನಂತಿಟ್ಟ ಅಥವಾ ಎರುಮೇಲಿ ಮೂಲಕ ರಸ್ತೆ ಮಾರ್ಗದಲ್ಲಿ ಪಂಬಾ ತಳವನ್ನು ತಲುಪಿ, ಬಳಿಕ ಅರಣ್ಯದ ಮೂಲಕ ಸುಮಾರು ನಾಲ್ಕರಿಂದ ಐದು ಕಿಲೋಮೀಟರ್ ಮೇಲೇರಿ ಸನ್ನಿಧಾನದಲ್ಲಿನ ಗುಡಿಯನ್ನು ತಲುಪುತ್ತಾರೆ. ಹತ್ತಿರದ ರೈಲು ನಿಲ್ದಾಣಗಳು ಚೆಂಗನ್ನೂರು ಮತ್ತು ಕೊಟ್ಟಾಯಂ; ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣಗಳು ಕೊಚ್ಚಿ ಮತ್ತು ತಿರುವನಂತಪುರಂ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/sabarimala-ayyappa.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/sabarimala-ayyappa.mp3",
     "durationSec": 242
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.jpg",
+    "src": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.jpg",
     "color": "#5C3A2E",
     "alt": "ಶಬರಿಮಲೆ ಶ್ರೀ ಧರ್ಮ ಶಾಸ್ತಾ ದೇವಾಲಯ (ಅಯ್ಯಪ್ಪನ್)",
     "credit": "Praveenp / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/sabarimala-ayyappa.webp"
+      "avif": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/sabarimala-ayyappa.jpg"
+    "og": "https://media.dsquaregee.com/og/sabarimala-ayyappa.jpg"
   }
 }

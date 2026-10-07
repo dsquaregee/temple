@@ -34,18 +34,23 @@
     "gettingThere": "తిరుక్కారాయిల్ కావేరి డెల్టాలో, తిరువారూర్–నాగపట్టణం ప్రాంతంలో ఉంది; తిరువారూర్, చుట్టుపక్కల డెల్టా నగరాల నుండి రహదారి ద్వారా చేరుకోవచ్చు."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/kannayiramudayar-thirukaravasal.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/kannayiramudayar-thirukaravasal.mp3",
     "durationSec": 126
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kannayiramudayar-thirukaravasal.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kannayiramudayar-thirukaravasal.jpg",
     "color": "#5C3A2E",
     "alt": "కణ్ణాయిరముడైయార్ ఆలయం, తిరుక్కారాయిల్",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kannayiramudayar-thirukaravasal.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kannayiramudayar-thirukaravasal.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kannayiramudayar-thirukaravasal.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/kannayiramudayar-thirukaravasal.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kannayiramudayar-thirukaravasal.jpg",
+    "url": "https://media.dsquaregee.com/video/te/kannayiramudayar-thirukaravasal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kannayiramudayar-thirukaravasal.jpg",
     "durationSec": 136,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

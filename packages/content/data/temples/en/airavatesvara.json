@@ -35,19 +35,24 @@
     "gettingThere": "Tiruchirappalli International Airport (about 90 km) is the nearest airport. Kumbakonam railway station, 4 km away, is on the Chennai-Thanjavur line. Darasuram is a short auto-rickshaw or taxi ride from Kumbakonam, which is well connected by bus to Thanjavur, Trichy, and Chennai."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/airavatesvara.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/airavatesvara.mp3",
     "durationSec": 432
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/airavatesvara.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.jpg",
+    "url": "https://media.dsquaregee.com/video/en/airavatesvara.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/airavatesvara.jpg",
     "durationSec": 341,
     "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.jpg",
+    "src": "https://media.dsquaregee.com/heroes/airavatesvara.jpg",
     "color": "#5C3A2E",
     "alt": "Airavatesvara Temple",
-    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/airavatesvara.avif",
+      "webp": "https://media.dsquaregee.com/heroes/airavatesvara.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/airavatesvara.jpg"
   }
 }

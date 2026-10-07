@@ -34,18 +34,23 @@
     "gettingThere": "Kanchipuram is in Tamil Nadu, about 75 km southwest of Chennai and well connected by road and rail. The Kailasanathar temple lies on the western side of town, a short ride from the central temple district; it is easily combined with the city's other great temples in a single day."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/kailasanathar-kanchipuram.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/kailasanathar-kanchipuram.mp3",
     "durationSec": 345
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kailasanathar-kanchipuram.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kailasanathar-kanchipuram.jpg",
     "color": "#5C3A2E",
     "alt": "Kailasanathar Temple, Kanchipuram",
-    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kailasanathar-kanchipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kailasanathar-kanchipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kailasanathar-kanchipuram.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/kailasanathar-kanchipuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kailasanathar-kanchipuram.jpg",
+    "url": "https://media.dsquaregee.com/video/en/kailasanathar-kanchipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kailasanathar-kanchipuram.jpg",
     "durationSec": 266,
     "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

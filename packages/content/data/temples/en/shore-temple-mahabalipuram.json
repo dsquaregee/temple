@@ -32,18 +32,23 @@
     "gettingThere": "Mamallapuram is in Chengalpattu district, about 55 km south of Chennai along the East Coast Road; Chennai has the nearest airport and major railway station, with frequent buses and taxis to the town."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/shore-temple-mahabalipuram.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/shore-temple-mahabalipuram.mp3",
     "durationSec": 281
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/shore-temple-mahabalipuram.jpg",
+    "src": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.jpg",
     "color": "#5C3A2E",
     "alt": "Shore Temple, Mahabalipuram",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/shore-temple-mahabalipuram.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/shore-temple-mahabalipuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/shore-temple-mahabalipuram.jpg",
+    "url": "https://media.dsquaregee.com/video/en/shore-temple-mahabalipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.jpg",
     "durationSec": 221,
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }

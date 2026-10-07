@@ -34,18 +34,18 @@
     "gettingThere": "తంజావూరు జిల్లాలో కుంబకోణం నుండి సుమారు 15 కి.మీ. దూరంలో, ఆడుదురై సమీపంలోని సూర్యనార్ కోయిల్ గ్రామంలో ఆలయం ఉంది. కుంబకోణం సమీప కేంద్రం; ఆడుదురై లేదా కుంబకోణం మీదుగా రైలు సౌకర్యం ఉంది; సమీప విమానాశ్రయం తిరుచిరాపల్లి, సుమారు 90 కి.మీ. దూరంలో. కుంబకోణం నుండి బస్సులు, టాక్సీలు లభిస్తాయి."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/suryanar-koil.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/suryanar-koil.mp3",
     "durationSec": 212
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.jpg",
+    "src": "https://media.dsquaregee.com/heroes/suryanar-koil.jpg",
     "color": "#5C3A2E",
     "alt": "సూర్యనార్ కోయిల్ (సూర్య దేవాలయం)",
     "credit": "PJeganathan / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.webp"
+      "avif": "https://media.dsquaregee.com/heroes/suryanar-koil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/suryanar-koil.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/suryanar-koil.jpg"
+    "og": "https://media.dsquaregee.com/og/suryanar-koil.jpg"
   }
 }

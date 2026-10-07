@@ -32,18 +32,23 @@
     "gettingThere": "हम्पी कर्नाटक के बल्लारी (बेल्लारी) ज़िले में, हम्पी गाँव और लगभग 13 किमी दूर होस्पेट (होसपेटे) नगर के पास स्थित है, जहाँ निकटतम रेलवे स्टेशन और होटल हैं। यह बेंगलुरु से लगभग 340 किमी उत्तर में है। विरूपाक्ष मंदिर पुरानी बाज़ार-गली के शीर्ष पर खड़ा है, जो खंडहरों की खोज का स्वाभाविक आरंभ-बिंदु है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/virupaksha-hampi.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/virupaksha-hampi.mp3",
     "durationSec": 345
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/virupaksha-hampi.jpg",
+    "src": "https://media.dsquaregee.com/heroes/virupaksha-hampi.jpg",
     "color": "#5C3A2E",
     "alt": "विरूपाक्ष मंदिर, हम्पी",
-    "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/virupaksha-hampi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/virupaksha-hampi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/virupaksha-hampi.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/virupaksha-hampi.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/virupaksha-hampi.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/virupaksha-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/virupaksha-hampi.jpg",
     "durationSec": 310,
     "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
   }

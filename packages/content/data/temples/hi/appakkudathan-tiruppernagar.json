@@ -34,18 +34,23 @@
     "gettingThere": "कोविलडि कावेरी तट पर, तिरुच्चिराप्पल्ली से तंजावूर की ओर जाने वाले मार्ग पर लगभग 16 कि.मी. दूर स्थित है; श्रीरंगम् से सड़क मार्ग से सहज पहुँचा जा सकता है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/appakkudathan-tiruppernagar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/appakkudathan-tiruppernagar.mp3",
     "durationSec": 176
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.jpg",
     "color": "#5C3A2E",
     "alt": "अप्पक्कुडत्तान् पेरुमाळ मंदिर, कोविलडि",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/appakkudathan-tiruppernagar.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/appakkudathan-tiruppernagar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/appakkudathan-tiruppernagar.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/appakkudathan-tiruppernagar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.jpg",
     "durationSec": 157,
     "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -36,7 +36,11 @@ const IMMUTABLE = 'public, max-age=31536000, immutable';
 const storage = new Storage();
 const bucket = storage.bucket(BUCKET);
 
-const publicUrl = (obj) => `https://storage.googleapis.com/${BUCKET}/${obj}`;
+// Objects upload to the GCS BUCKET above but are served from Cloudflare R2 (the
+// primary CDN origin) at the same keys; override via env if the host changes.
+// See docs/migrate-project.md (R2 primary origin).
+const PUBLIC_BASE = (process.env.MEDIA_PUBLIC_BASE || 'https://media.dsquaregee.com').replace(/\/$/, '');
+const publicUrl = (obj) => `${PUBLIC_BASE}/${obj}`;
 
 async function upload(obj, buf, contentType) {
   await bucket.file(obj).save(buf, {

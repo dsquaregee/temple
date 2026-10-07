@@ -34,19 +34,24 @@
     "gettingThere": "తిరువణ్ణామలై చెన్నైకి నైరుతిగా సుమారు 190 కి.మీ., వెల్లూరుకు 85 కి.మీ. దూరంలో ఉంది; రెండు చోట్ల నుండి, అలాగే పుదుచ్చేరి, బెంగళూరు నుండి బస్సు ద్వారా చక్కగా అనుసంధానించబడింది. పట్టణానికి వెల్లూరు–విల్లుపురం మార్గంలో రైల్వే స్టేషను ఉంది; సమీప ప్రధాన విమానాశ్రయాలు చెన్నై, బెంగళూరు. ఆలయం అరుణాచల కొండ తూర్పు పాదాల వద్ద, బస్సు స్టాండు నుండి కొద్ది నడక లేదా ఆటోరిక్షా దూరంలో ఉంది."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/arunachaleswarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/arunachaleswarar.mp3",
     "durationSec": 367
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/arunachaleswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/arunachaleswarar.jpg",
+    "url": "https://media.dsquaregee.com/video/te/arunachaleswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/arunachaleswarar.jpg",
     "durationSec": 397,
     "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/arunachaleswarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/arunachaleswarar.jpg",
     "color": "#5C3A2E",
     "alt": "అరుణాచలేశ్వర ఆలయం, తిరువణ్ణామలై",
-    "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/arunachaleswarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/arunachaleswarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/arunachaleswarar.jpg"
   }
 }

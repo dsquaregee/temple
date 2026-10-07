@@ -32,18 +32,23 @@
     "gettingThere": "Dharmasthala lies in Dakshina Kannada, in the Western Ghats on the Netravati; it is reached by road from Mangaluru and from Bengaluru via Hassan, the nearest railhead being Mangaluru."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/dharmasthala-manjunatha.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/dharmasthala-manjunatha.mp3",
     "durationSec": 137
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/dharmasthala-manjunatha.jpg",
+    "src": "https://media.dsquaregee.com/heroes/dharmasthala-manjunatha.jpg",
     "color": "#5C3A2E",
     "alt": "Sri Manjunatha Temple, Dharmasthala",
-    "credit": "A.Murali / Wikimedia Commons (CC0)"
+    "credit": "A.Murali / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/dharmasthala-manjunatha.avif",
+      "webp": "https://media.dsquaregee.com/heroes/dharmasthala-manjunatha.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/dharmasthala-manjunatha.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/dharmasthala-manjunatha.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/dharmasthala-manjunatha.jpg",
+    "url": "https://media.dsquaregee.com/video/en/dharmasthala-manjunatha.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/dharmasthala-manjunatha.jpg",
     "durationSec": 105,
     "credit": "A.Murali / Wikimedia Commons (CC0)"
   }

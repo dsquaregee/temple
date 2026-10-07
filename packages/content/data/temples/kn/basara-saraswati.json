@@ -32,18 +32,18 @@
     "gettingThere": "ಬಾಸರ ತೆಲಂಗಾಣದ ನಿರ್ಮಲ್ ಜಿಲ್ಲೆಯಲ್ಲಿ, ಮಹಾರಾಷ್ಟ್ರ ಗಡಿಯ ಸಮೀಪ ಗೋದಾವರಿ ದಡದಲ್ಲಿದೆ; ಸಿಕಂದರಾಬಾದ್–ಮನ್ಮಾಡ್ ಮಾರ್ಗದಲ್ಲಿ ಸ್ವಂತ ರೈಲು ನಿಲ್ದಾಣವಿದೆ; ನಿಜಾಮಾಬಾದ್‌ನಿಂದ ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/basara-saraswati.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/basara-saraswati.mp3",
     "durationSec": 93
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/basara-saraswati.jpg",
+    "src": "https://media.dsquaregee.com/heroes/basara-saraswati.jpg",
     "color": "#5C3A2E",
     "alt": "ಶ್ರೀ ಜ್ಞಾನ ಸರಸ್ವತಿ ದೇವಸ್ಥಾನ, ಬಾಸರ",
     "credit": "Bhaskaranaidu / Wikimedia Commons (CC BY-SA 3.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/basara-saraswati.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/basara-saraswati.webp"
+      "avif": "https://media.dsquaregee.com/heroes/basara-saraswati.avif",
+      "webp": "https://media.dsquaregee.com/heroes/basara-saraswati.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/basara-saraswati.jpg"
+    "og": "https://media.dsquaregee.com/og/basara-saraswati.jpg"
   }
 }

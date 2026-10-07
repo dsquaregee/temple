@@ -35,18 +35,23 @@
     "gettingThere": "തിരുനള്ളാറു പുതുച്ചേരിയിലെ കാരൈക്കാൽ ജില്ലയിൽ, അടുത്തുള്ള കേന്ദ്രമായ കാരൈക്കാൽ പട്ടണത്തിൽ നിന്ന് ഏകദേശം 5 കി.മീ. അകലെയാണ്. കാരൈക്കാൽ അല്ലെങ്കിൽ നാഗപട്ടണം വഴി റെയിൽ സൗകര്യം; അടുത്തുള്ള വിമാനത്താവളം തിരുച്ചിറാപ്പള്ളി, ഏകദേശം 150 കി.മീ. അകലെ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/thirunallar-dharbaranyeswarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/thirunallar-dharbaranyeswarar.mp3",
     "durationSec": 225
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thirunallar-dharbaranyeswarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thirunallar-dharbaranyeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "തിരുനള്ളാറു ദർഭാരണ്യേശ്വര ക്ഷേത്രം",
-    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thirunallar-dharbaranyeswarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thirunallar-dharbaranyeswarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thirunallar-dharbaranyeswarar.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/thirunallar-dharbaranyeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thirunallar-dharbaranyeswarar.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/thirunallar-dharbaranyeswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thirunallar-dharbaranyeswarar.jpg",
     "durationSec": 167,
     "credit": "VasuVR / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0)"
   }

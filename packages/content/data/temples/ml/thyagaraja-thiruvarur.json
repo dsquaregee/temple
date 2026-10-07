@@ -35,18 +35,23 @@
     "gettingThere": "തിരുവാരൂർ തമിഴ്നാട്ടിലെ കാവേരി ഡെൽറ്റയിലെ ഒരു ജില്ലാ ആസ്ഥാനമാണ്, റോഡ്, റെയിൽ വഴി ബന്ധിപ്പിച്ചിരിക്കുന്നു; കുംഭകോണത്തിൽ നിന്ന് ഏകദേശം 25 കി.മീ. അകലെ, തഞ്ചാവൂർ, തിരുച്ചിറാപ്പള്ളി എന്നിവയുടെ എളുപ്പ ചേർച്ചയിലാണ്."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/thyagaraja-thiruvarur.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/thyagaraja-thiruvarur.mp3",
     "durationSec": 256
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thyagaraja-thiruvarur.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thyagaraja-thiruvarur.jpg",
     "color": "#5C3A2E",
     "alt": "ത്യാഗരാജ സ്വാമി ക്ഷേത്രം, തിരുവാരൂർ",
-    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Srinivasan G / Wikimedia Commons (CC BY-SA 2.0) · Ssriram mt / Wikimedia Commons (CC BY 4.0)"
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Srinivasan G / Wikimedia Commons (CC BY-SA 2.0) · Ssriram mt / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thyagaraja-thiruvarur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thyagaraja-thiruvarur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thyagaraja-thiruvarur.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/thyagaraja-thiruvarur.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thyagaraja-thiruvarur.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/thyagaraja-thiruvarur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thyagaraja-thiruvarur.jpg",
     "durationSec": 192,
     "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Srinivasan G / Wikimedia Commons (CC BY-SA 2.0) · Ssriram mt / Wikimedia Commons (CC BY 4.0)"
   }

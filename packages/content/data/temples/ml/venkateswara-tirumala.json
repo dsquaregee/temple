@@ -34,18 +34,23 @@
     "gettingThere": "തിരുമല ആന്ധ്രപ്രദേശിൽ തിരുപ്പതിക്കു മുകളിലാണ്; തിരുപ്പതിയിൽ റെയിൽവേ സ്റ്റേഷനും വിമാനത്താവളവുമുണ്ട്, കുന്നുകളിലേക്ക് ഘാട്ട് റോഡ് വഴിയോ അലിപിരി, ശ്രീവാരി മെട്ടു പടിപ്പാതകൾ വഴി കാൽനടയായോ എത്താം."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/venkateswara-tirumala.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/venkateswara-tirumala.mp3",
     "durationSec": 278
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/venkateswara-tirumala.jpg",
+    "src": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.jpg",
     "color": "#5C3A2E",
     "alt": "വെങ്കടേശ്വര ക്ഷേത്രം, തിരുമല",
-    "credit": "Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0) · vijay chennupati from sydney, australia / Wikimedia Commons (CC BY 2.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons (CC BY-SA 2.0)"
+    "credit": "Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0) · vijay chennupati from sydney, australia / Wikimedia Commons (CC BY 2.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons (CC BY-SA 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.avif",
+      "webp": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/venkateswara-tirumala.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/venkateswara-tirumala.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/venkateswara-tirumala.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/venkateswara-tirumala.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.jpg",
     "durationSec": 209,
     "credit": "Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0) · vijay chennupati from sydney, australia / Wikimedia Commons (CC BY 2.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons (CC BY-SA 2.0)"
   }

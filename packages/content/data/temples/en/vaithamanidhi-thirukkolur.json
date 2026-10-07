@@ -34,18 +34,23 @@
     "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/vaithamanidhi-thirukkolur.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/vaithamanidhi-thirukkolur.mp3",
     "durationSec": 164
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vaithamanidhi-thirukkolur.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vaithamanidhi-thirukkolur.jpg",
     "color": "#5C3A2E",
     "alt": "Vaithamanidhi Perumal Temple, Thirukkolur",
-    "credit": "Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Madhavan. A / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Madhavan. A / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaithamanidhi-thirukkolur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaithamanidhi-thirukkolur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaithamanidhi-thirukkolur.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/vaithamanidhi-thirukkolur.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vaithamanidhi-thirukkolur.jpg",
+    "url": "https://media.dsquaregee.com/video/en/vaithamanidhi-thirukkolur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaithamanidhi-thirukkolur.jpg",
     "durationSec": 127,
     "credit": "Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Madhavan. A / Wikimedia Commons (CC BY-SA 4.0)"
   }

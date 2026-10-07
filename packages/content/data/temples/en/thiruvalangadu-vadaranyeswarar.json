@@ -34,18 +34,23 @@
     "gettingThere": "Thiruvalangadu lies in Tiruvallur district, about 15 km from Arakkonam and roughly 70 km from Chennai, reachable by road and by the suburban rail line toward Arakkonam."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/thiruvalangadu-vadaranyeswarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/thiruvalangadu-vadaranyeswarar.mp3",
     "durationSec": 239
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "Vadaranyeswarar Temple, Thiruvalangadu",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruvalangadu-vadaranyeswarar.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/thiruvalangadu-vadaranyeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "url": "https://media.dsquaregee.com/video/en/thiruvalangadu-vadaranyeswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "durationSec": 182,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

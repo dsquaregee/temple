@@ -32,18 +32,23 @@
     "gettingThere": "மயிலாப்பூர் சென்னையின் மையப் பகுதியில், சென்னை எழும்பூரிலிருந்து சுமார் 3 கி.மீ தொலைவில் உள்ளது; நகரப் பேருந்துகள், டாக்சிகள், செயலி வாகனங்கள் நிறைய உள்ளன. புறநகர் ரயில், மெட்ரோ இணைப்புகள் அருகில் உள்ளன; சென்னை சர்வதேச விமான நிலையம் தென்மேற்கே சுமார் 15 கி.மீ தொலைவில் உள்ளது."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/kapaleeshwarar-mylapore.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/kapaleeshwarar-mylapore.mp3",
     "durationSec": 317
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kapaleeshwarar-mylapore.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kapaleeshwarar-mylapore.jpg",
     "color": "#5C3A2E",
     "alt": "கபாலீஸ்வரர் கோயில், மயிலாப்பூர்",
-    "credit": "Dassap / Wikimedia Commons (CC BY-SA 4.0) · Sailko / Wikimedia Commons (CC BY 3.0) · Jaisakthivel unom / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar / Wikimedia Commons (CC BY-SA 2.0) · H. Grobe / Wikimedia Commons (CC BY 3.0) · Nigel's Europe &amp; beyond from Birmingham, UK / Wikimedia Commons (CC BY-SA 2.0)"
+    "credit": "Dassap / Wikimedia Commons (CC BY-SA 4.0) · Sailko / Wikimedia Commons (CC BY 3.0) · Jaisakthivel unom / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar / Wikimedia Commons (CC BY-SA 2.0) · H. Grobe / Wikimedia Commons (CC BY 3.0) · Nigel's Europe &amp; beyond from Birmingham, UK / Wikimedia Commons (CC BY-SA 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kapaleeshwarar-mylapore.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kapaleeshwarar-mylapore.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kapaleeshwarar-mylapore.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/kapaleeshwarar-mylapore.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kapaleeshwarar-mylapore.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/kapaleeshwarar-mylapore.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kapaleeshwarar-mylapore.jpg",
     "durationSec": 291,
     "credit": "Dassap / Wikimedia Commons (CC BY-SA 4.0) · Sailko / Wikimedia Commons (CC BY 3.0) · Jaisakthivel unom / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar / Wikimedia Commons (CC BY-SA 2.0) · H. Grobe / Wikimedia Commons (CC BY 3.0) · Nigel's Europe &amp; beyond from Birmingham, UK / Wikimedia Commons (CC BY-SA 2.0)"
   }

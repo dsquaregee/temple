@@ -34,19 +34,24 @@
     "gettingThere": "Srikalahasti is about 37 km from Tirupati, which has the nearest airport and a major rail junction; the town also has its own railway station. Frequent buses and taxis run from Tirupati, and Chennai is roughly 100 km to the southeast."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/srikalahasti.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/srikalahasti.mp3",
     "durationSec": 406
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/srikalahasti.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/srikalahasti.jpg",
+    "url": "https://media.dsquaregee.com/video/en/srikalahasti.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srikalahasti.jpg",
     "durationSec": 317,
     "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/srikalahasti.jpg",
+    "src": "https://media.dsquaregee.com/heroes/srikalahasti.jpg",
     "color": "#5C3A2E",
     "alt": "Srikalahasteeswara Temple",
-    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srikalahasti.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srikalahasti.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srikalahasti.jpg"
   }
 }

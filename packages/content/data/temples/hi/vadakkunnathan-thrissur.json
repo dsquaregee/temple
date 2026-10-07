@@ -32,18 +32,23 @@
     "gettingThere": "यह मंदिर मध्य केरल में, त्रिश्शूर के केंद्र में थेक्किंकाडु पहाड़ी पर स्थित है, त्रिश्शूर रेलवे स्टेशन से लगभग 1.5 किमी दूर और सड़क मार्ग से भली-भाँति जुड़ा हुआ; निकटतम हवाई अड्डा कोच्चि है, जो लगभग 55 किमी दक्षिण में है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/vadakkunnathan-thrissur.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/vadakkunnathan-thrissur.mp3",
     "durationSec": 324
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vadakkunnathan-thrissur.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vadakkunnathan-thrissur.jpg",
     "color": "#5C3A2E",
     "alt": "वडक्कुन्नाथन मंदिर, त्रिश्शूर",
-    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0) · Vinusangam / Wikimedia Commons (CC BY-SA 4.0) · Ashish2py / Wikimedia Commons (CC BY-SA 4.0) · Devilal / Wikimedia Commons (CC BY-SA 4.0) · Ajay090 / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0) · Vinusangam / Wikimedia Commons (CC BY-SA 4.0) · Ashish2py / Wikimedia Commons (CC BY-SA 4.0) · Devilal / Wikimedia Commons (CC BY-SA 4.0) · Ajay090 / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vadakkunnathan-thrissur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vadakkunnathan-thrissur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vadakkunnathan-thrissur.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/vadakkunnathan-thrissur.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vadakkunnathan-thrissur.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/vadakkunnathan-thrissur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vadakkunnathan-thrissur.jpg",
     "durationSec": 289,
     "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0) · Vinusangam / Wikimedia Commons (CC BY-SA 4.0) · Ashish2py / Wikimedia Commons (CC BY-SA 4.0) · Devilal / Wikimedia Commons (CC BY-SA 4.0) · Ajay090 / Wikimedia Commons (CC BY-SA 4.0)"
   }

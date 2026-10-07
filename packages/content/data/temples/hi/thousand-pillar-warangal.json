@@ -34,18 +34,23 @@
     "gettingThere": "मंदिर हनमकोंडा में, वारंगल शहरी क्षेत्र का भाग, हैदराबाद से लगभग 145 कि.मी. दूर है; वारंगल में प्रमुख रेलवे जंक्शन है और निकटतम हवाई अड्डा हैदराबाद है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/thousand-pillar-warangal.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/thousand-pillar-warangal.mp3",
     "durationSec": 189
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thousand-pillar-warangal.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",
     "color": "#5C3A2E",
     "alt": "हज़ार स्तंभ मंदिर, वारंगल",
-    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thousand-pillar-warangal.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/thousand-pillar-warangal.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thousand-pillar-warangal.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/thousand-pillar-warangal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",
     "durationSec": 175,
     "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }

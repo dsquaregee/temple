@@ -34,18 +34,23 @@
     "gettingThere": "వేదారణ్యం కావేరి డెల్టా దక్షిణ అంచున సముద్రానికి సమీపంలో, నాగపట్టణం నుండి సుమారు 55 కి.మీ. దూరంలో ఉంది; రహదారి ద్వారా బాగా అనుసంధానించబడింది; కొడియక్కరైకి ముఖద్వారం ఇది."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/vedaranyeswarar-vedaranyam.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/vedaranyeswarar-vedaranyam.mp3",
     "durationSec": 139
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vedaranyeswarar-vedaranyam.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.jpg",
     "color": "#5C3A2E",
     "alt": "వేదారణ్యేశ్వరర్ ఆలయం, వేదారణ్యం",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vedaranyeswarar-vedaranyam.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/vedaranyeswarar-vedaranyam.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vedaranyeswarar-vedaranyam.jpg",
+    "url": "https://media.dsquaregee.com/video/te/vedaranyeswarar-vedaranyam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.jpg",
     "durationSec": 155,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

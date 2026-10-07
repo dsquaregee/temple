@@ -32,18 +32,23 @@
     "gettingThere": "మేలుకోటే కర్ణాటకలోని మండ్య జిల్లాలో ఉంది; మైసూరు, బెంగళూరు నుండి రహదారిన చేరవచ్చు; దగ్గరి రైలు స్టేషన్ మండ్య."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/melukote-cheluvanarayana.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/melukote-cheluvanarayana.mp3",
     "durationSec": 102
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/melukote-cheluvanarayana.jpg",
+    "src": "https://media.dsquaregee.com/heroes/melukote-cheluvanarayana.jpg",
     "color": "#5C3A2E",
     "alt": "చెలువనారాయణ స్వామి ఆలయం, మేలుకోటే",
-    "credit": "Haneesh K M. / Wikimedia Commons (CC0) · Venkygrams / Wikimedia Commons (CC BY-SA 4.0) · A.Murali / Wikimedia Commons (CC0) · MaximusPrasad / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Haneesh K M. / Wikimedia Commons (CC0) · Venkygrams / Wikimedia Commons (CC BY-SA 4.0) · A.Murali / Wikimedia Commons (CC0) · MaximusPrasad / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/melukote-cheluvanarayana.avif",
+      "webp": "https://media.dsquaregee.com/heroes/melukote-cheluvanarayana.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/melukote-cheluvanarayana.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/melukote-cheluvanarayana.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/melukote-cheluvanarayana.jpg",
+    "url": "https://media.dsquaregee.com/video/te/melukote-cheluvanarayana.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/melukote-cheluvanarayana.jpg",
     "durationSec": 112,
     "credit": "Haneesh K M. / Wikimedia Commons (CC0) · Venkygrams / Wikimedia Commons (CC BY-SA 4.0) · A.Murali / Wikimedia Commons (CC0) · MaximusPrasad / Wikimedia Commons (CC BY-SA 4.0)"
   }

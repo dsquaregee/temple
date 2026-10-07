@@ -34,18 +34,23 @@
     "gettingThere": "तिरुक्कुवलै कावेरी डेल्टा में, नागपट्टिनम्–तिरुवारूर् क्षेत्र में स्थित है; आसपास के डेल्टा नगरों से सड़क मार्ग से पहुँचा जा सकता है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/brahmapureeswarar-thirukkuvalai.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/brahmapureeswarar-thirukkuvalai.mp3",
     "durationSec": 125
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/brahmapureeswarar-thirukkuvalai.jpg",
+    "src": "https://media.dsquaregee.com/heroes/brahmapureeswarar-thirukkuvalai.jpg",
     "color": "#5C3A2E",
     "alt": "ब्रह्मपुरीश्वरर् मंदिर, तिरुक्कुवलै",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/brahmapureeswarar-thirukkuvalai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/brahmapureeswarar-thirukkuvalai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/brahmapureeswarar-thirukkuvalai.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/brahmapureeswarar-thirukkuvalai.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/brahmapureeswarar-thirukkuvalai.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/brahmapureeswarar-thirukkuvalai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/brahmapureeswarar-thirukkuvalai.jpg",
     "durationSec": 112,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

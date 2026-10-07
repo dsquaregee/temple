@@ -34,18 +34,23 @@
     "gettingThere": "തിരുവാലങ്ങാട് തിരുവള്ളൂർ ജില്ലയിൽ, അരക്കോണത്തിൽ നിന്ന് ഏകദേശം 15 കി.മീ., ചെന്നൈയിൽ നിന്ന് ഏകദേശം 70 കി.മീ. അകലെയാണ്; റോഡ് മാർഗവും അരക്കോണത്തിലേക്കുള്ള സബർബൻ റെയിൽ പാത വഴിയും എത്തിച്ചേരാം."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/thiruvalangadu-vadaranyeswarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/thiruvalangadu-vadaranyeswarar.mp3",
     "durationSec": 238
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "വടാരണ്യേശ്വരർ ക്ഷേത്രം, തിരുവാലങ്ങാട്",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruvalangadu-vadaranyeswarar.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/thiruvalangadu-vadaranyeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/thiruvalangadu-vadaranyeswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "durationSec": 183,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

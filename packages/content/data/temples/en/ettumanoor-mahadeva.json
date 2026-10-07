@@ -34,18 +34,23 @@
     "gettingThere": "The temple is at Ettumanoor in Kottayam district, on the Kottayam-Ernakulam route. The nearest railway station is Kottayam, and the nearest airport is Kochi (Cochin International Airport)."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/ettumanoor-mahadeva.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/ettumanoor-mahadeva.mp3",
     "durationSec": 295
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ettumanoor-mahadeva.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.jpg",
     "color": "#5C3A2E",
     "alt": "Ettumanoor Mahadeva Temple",
-    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ettumanoor-mahadeva.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/ettumanoor-mahadeva.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ettumanoor-mahadeva.jpg",
+    "url": "https://media.dsquaregee.com/video/en/ettumanoor-mahadeva.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ettumanoor-mahadeva.jpg",
     "durationSec": 228,
     "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0)"
   }

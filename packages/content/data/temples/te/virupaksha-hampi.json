@@ -32,18 +32,23 @@
     "gettingThere": "హంపి కర్ణాటకలోని బళ్లారి జిల్లాలో, హంపి గ్రామం పక్కన ఉంది; సమీప రైల్వే స్టేషన్, హోటళ్లు ఉన్న హోస్పేట (హోసపేటె) పట్టణం సుమారు 13 కి.మీ. దూరంలో ఉంది. ఇది బెంగళూరుకు ఉత్తరాన సుమారు 340 కి.మీ. దూరంలో ఉంది. విరూపాక్ష దేవాలయం పాత సంత వీధి మొదట నిలుస్తుంది, శిథిలాలను అన్వేషించడానికి సహజమైన ప్రారంభ స్థానం ఇదే."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/virupaksha-hampi.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/virupaksha-hampi.mp3",
     "durationSec": 327
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/virupaksha-hampi.jpg",
+    "src": "https://media.dsquaregee.com/heroes/virupaksha-hampi.jpg",
     "color": "#5C3A2E",
     "alt": "విరూపాక్ష దేవాలయం, హంపి",
-    "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/virupaksha-hampi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/virupaksha-hampi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/virupaksha-hampi.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/virupaksha-hampi.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/virupaksha-hampi.jpg",
+    "url": "https://media.dsquaregee.com/video/te/virupaksha-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/virupaksha-hampi.jpg",
     "durationSec": 362,
     "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
   }

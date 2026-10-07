@@ -34,19 +34,24 @@
     "gettingThere": "ತಿರುವಣ್ಣಾಮಲೈ ಚೆನ್ನೈನಿಂದ ನೈಋತ್ಯಕ್ಕೆ ಸುಮಾರು 190 ಕಿ.ಮೀ ಮತ್ತು ವೆಲ್ಲೂರಿನಿಂದ 85 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ, ಎರಡೂ ಕಡೆಯಿಂದ ಹಾಗೂ ಪುದುಚೇರಿ ಮತ್ತು ಬೆಂಗಳೂರಿನಿಂದ ಬಸ್ ಮೂಲಕ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದೆ. ವೆಲ್ಲೂರು–ವಿಳ್ಳುಪುರಂ ಮಾರ್ಗದಲ್ಲಿ ಪಟ್ಟಣಕ್ಕೆ ರೈಲು ನಿಲ್ದಾಣವಿದೆ; ಹತ್ತಿರದ ಪ್ರಮುಖ ವಿಮಾನ ನಿಲ್ದಾಣಗಳು ಚೆನ್ನೈ ಮತ್ತು ಬೆಂಗಳೂರು. ದೇವಾಲಯವು ಅರುಣಾಚಲ ಬೆಟ್ಟದ ಪೂರ್ವ ಬುಡದಲ್ಲಿದೆ, ಬಸ್ ನಿಲ್ದಾಣದಿಂದ ಸ್ವಲ್ಪ ದೂರದ ನಡಿಗೆ ಅಥವಾ ಆಟೋರಿಕ್ಷಾ ಪ್ರಯಾಣ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/arunachaleswarar.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/arunachaleswarar.mp3",
     "durationSec": 389
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/arunachaleswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/arunachaleswarar.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/arunachaleswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/arunachaleswarar.jpg",
     "durationSec": 397,
     "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/arunachaleswarar.jpg",
+    "src": "https://media.dsquaregee.com/heroes/arunachaleswarar.jpg",
     "color": "#5C3A2E",
     "alt": "ಅರುಣಾಚಲೇಶ್ವರ ದೇವಾಲಯ, ತಿರುವಣ್ಣಾಮಲೈ",
-    "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/arunachaleswarar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/arunachaleswarar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/arunachaleswarar.jpg"
   }
 }

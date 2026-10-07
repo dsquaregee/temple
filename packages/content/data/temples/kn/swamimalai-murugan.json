@@ -34,18 +34,23 @@
     "gettingThere": "ಸ್ವಾಮಿಮಲೈ ತಂಜಾವೂರು ಜಿಲ್ಲೆಯಲ್ಲಿ ಕುಂಭಕೋಣಂನಿಂದ ಸುಮಾರು 8 ಕಿ.ಮೀ ದೂರದಲ್ಲಿ, ರಸ್ತೆಯಿಂದ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕಿತ; ಸಮೀಪದ ರೈಲು ನಿಲ್ದಾಣ ಕುಂಭಕೋಣಂ, ತಿರುಚಿರಾಪಳ್ಳಿ ವಿಮಾನ ನಿಲ್ದಾಣ ಸುಮಾರು 90 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/swamimalai-murugan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/swamimalai-murugan.mp3",
     "durationSec": 191
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/swamimalai-murugan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/swamimalai-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "ಸ್ವಾಮಿಮಲೈ ಮುರುಗನ್ ದೇವಾಲಯ",
-    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/swamimalai-murugan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/swamimalai-murugan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/swamimalai-murugan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/swamimalai-murugan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/swamimalai-murugan.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/swamimalai-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/swamimalai-murugan.jpg",
     "durationSec": 199,
     "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)"
   }

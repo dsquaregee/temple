@@ -35,18 +35,23 @@
     "gettingThere": "తిరుచ్చెందూర్ తూత్తుకుడి జిల్లాలో తీరాన ఉంది; తూత్తుకుడి నుండి సుమారు 40 కి.మీ, తిరునెల్వేలి నుండి 60 కి.మీ — రెండూ రైలు అనుసంధానం. సమీప విమానాశ్రయాలు తూత్తుకుడి, మదురై. సొంత రైల్వే స్టేషన్, తరచూ బస్సులు ఉన్నాయి."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/thiruchendur-murugan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/thiruchendur-murugan.mp3",
     "durationSec": 175
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thiruchendur-murugan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thiruchendur-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "తిరుచ్చెందూర్ మురుగన్ ఆలయం",
-    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sanjayd20 / Wikimedia Commons (CC0)"
+    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sanjayd20 / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruchendur-murugan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruchendur-murugan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruchendur-murugan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/thiruchendur-murugan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thiruchendur-murugan.jpg",
+    "url": "https://media.dsquaregee.com/video/te/thiruchendur-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruchendur-murugan.jpg",
     "durationSec": 191,
     "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sanjayd20 / Wikimedia Commons (CC0)"
   }

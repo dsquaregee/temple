@@ -32,18 +32,23 @@
     "gettingThere": "Bhadrachalam lies on the Godavari in Bhadradri Kothagudem district of Telangana, reached by road from Hyderabad and Vijayawada, with the nearest railhead at Bhadrachalam Road (Kothagudem)."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/bhadrachalam-rama.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/bhadrachalam-rama.mp3",
     "durationSec": 122
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/bhadrachalam-rama.jpg",
+    "src": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
     "color": "#5C3A2E",
     "alt": "Sri Sita Ramachandraswamy Temple, Bhadrachalam",
-    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.avif",
+      "webp": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/bhadrachalam-rama.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/bhadrachalam-rama.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/bhadrachalam-rama.jpg",
+    "url": "https://media.dsquaregee.com/video/en/bhadrachalam-rama.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
     "durationSec": 97,
     "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
   }

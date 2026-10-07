@@ -34,18 +34,23 @@
     "gettingThere": "ಶ್ರೀವಿಲ್ಲಿಪುತ್ತೂರು ದಕ್ಷಿಣ ತಮಿಳುನಾಡಿನ ವಿರುದುನಗರ ಜಿಲ್ಲೆಯಲ್ಲಿ, ಮದುರೈ–ಶಿವಕಾಶಿ ರಸ್ತೆಯ ಪಕ್ಕದಲ್ಲಿದೆ; ರಸ್ತೆ ಮತ್ತು ರೈಲಿನ ಮೂಲಕ ತಲುಪಬಹುದು; ಮದುರೈ ಹತ್ತಿರದ ಪ್ರಮುಖ ಕೇಂದ್ರ ಮತ್ತು ವಿಮಾನ ನಿಲ್ದಾಣ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/srivilliputhur-andal.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/srivilliputhur-andal.mp3",
     "durationSec": 154
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/srivilliputhur-andal.jpg",
+    "src": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
     "color": "#5C3A2E",
     "alt": "ಶ್ರೀವಿಲ್ಲಿಪುತ್ತೂರು ಆಂಡಾಳ್ ದೇಗುಲ (ವಟಪತ್ರಶಾಯಿ)",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srivilliputhur-andal.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/srivilliputhur-andal.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/srivilliputhur-andal.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/srivilliputhur-andal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
     "durationSec": 159,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

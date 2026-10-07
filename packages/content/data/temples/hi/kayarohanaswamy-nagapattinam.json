@@ -34,18 +34,23 @@
     "gettingThere": "नागपट्टिनम् कावेरी डेल्टा के सागर-छोर पर स्थित एक जिला नगर है; सड़क और रेल मार्ग से भली-भाँति जुड़ा है; तिरुवारूर् और अन्य डेल्टा मंदिर-नगरों से सहज पहुँच की दूरी पर है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/kayarohanaswamy-nagapattinam.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/kayarohanaswamy-nagapattinam.mp3",
     "durationSec": 160
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kayarohanaswamy-nagapattinam.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kayarohanaswamy-nagapattinam.jpg",
     "color": "#5C3A2E",
     "alt": "कायारोहणस्वामी मंदिर, नागपट्टिनम्",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kayarohanaswamy-nagapattinam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kayarohanaswamy-nagapattinam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kayarohanaswamy-nagapattinam.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/hi/kayarohanaswamy-nagapattinam.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kayarohanaswamy-nagapattinam.jpg",
+    "url": "https://media.dsquaregee.com/video/hi/kayarohanaswamy-nagapattinam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kayarohanaswamy-nagapattinam.jpg",
     "durationSec": 145,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

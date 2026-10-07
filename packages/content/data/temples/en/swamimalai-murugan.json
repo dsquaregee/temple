@@ -34,18 +34,23 @@
     "gettingThere": "Swamimalai is about 8 km from Kumbakonam in Thanjavur district, well connected by road; Kumbakonam has the nearest railway station, and Tiruchirappalli airport is roughly 90 km away."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/swamimalai-murugan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/swamimalai-murugan.mp3",
     "durationSec": 220
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/swamimalai-murugan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/swamimalai-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "Swamimalai Murugan Temple",
-    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/swamimalai-murugan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/swamimalai-murugan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/swamimalai-murugan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/swamimalai-murugan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/swamimalai-murugan.jpg",
+    "url": "https://media.dsquaregee.com/video/en/swamimalai-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/swamimalai-murugan.jpg",
     "durationSec": 170,
     "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)"
   }

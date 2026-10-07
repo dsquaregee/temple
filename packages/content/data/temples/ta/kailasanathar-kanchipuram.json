@@ -34,18 +34,23 @@
     "gettingThere": "காஞ்சிபுரம் தமிழ்நாட்டில், சென்னையிலிருந்து சுமார் 75 கி.மீ. தென்மேற்கே அமைந்துள்ளது, சாலை மற்றும் ரயில் வழியாக நன்கு இணைக்கப்பட்டுள்ளது. கைலாசநாதர் கோயில் ஊரின் மேற்குப் பக்கத்தில், மைய கோயில் பகுதியிலிருந்து சிறிது தூரத்தில் உள்ளது; நகரின் மற்ற பெருங்கோயில்களுடன் ஒரே நாளில் எளிதாகச் சேர்த்துப் பார்க்கலாம்."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/kailasanathar-kanchipuram.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/kailasanathar-kanchipuram.mp3",
     "durationSec": 383
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kailasanathar-kanchipuram.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kailasanathar-kanchipuram.jpg",
     "color": "#5C3A2E",
     "alt": "கைலாசநாதர் கோயில், காஞ்சிபுரம்",
-    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kailasanathar-kanchipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kailasanathar-kanchipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kailasanathar-kanchipuram.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/kailasanathar-kanchipuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kailasanathar-kanchipuram.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/kailasanathar-kanchipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kailasanathar-kanchipuram.jpg",
     "durationSec": 349,
     "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -34,19 +34,24 @@
     "gettingThere": "மதுரை விமானம், ரயில், சாலை வழியாக நன்கு இணைக்கப்பட்டுள்ளது. மதுரை விமான நிலையம் கோயிலிலிருந்து சுமார் 12 கி.மீ தொலைவில் உள்ளது, மதுரை சந்திப்பு ரயில் நிலையம் சுமார் 2 கி.மீ தொலைவில் உள்ளது, எளிதான ஆட்டோ பயணம்; கோயில் பழைய நகரத்தின் மையத்திலேயே அமைந்துள்ளது."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/meenakshi-madurai.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/meenakshi-madurai.mp3",
     "durationSec": 453
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/meenakshi-madurai.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/meenakshi-madurai.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/meenakshi-madurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/meenakshi-madurai.jpg",
     "durationSec": 416,
     "credit": "Avinashadityas / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0) · IM3847 / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/meenakshi-madurai.jpg",
+    "src": "https://media.dsquaregee.com/heroes/meenakshi-madurai.jpg",
     "color": "#5C3A2E",
     "alt": "மீனாட்சி அம்மன் கோயில்",
-    "credit": "Avinashadityas / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0) · IM3847 / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Avinashadityas / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0) · IM3847 / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/meenakshi-madurai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/meenakshi-madurai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/meenakshi-madurai.jpg"
   }
 }

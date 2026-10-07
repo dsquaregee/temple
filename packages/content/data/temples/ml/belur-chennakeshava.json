@@ -34,18 +34,23 @@
     "gettingThere": "ബേലൂർ ഹാസൻ ജില്ലയിലാണ്, ബെംഗളൂരുവിൽനിന്ന് ഏകദേശം 220 കി.മീ. പടിഞ്ഞാറും അടുത്തുള്ള റെയിൽവേ സ്റ്റേഷനുള്ള ഹാസൻ പട്ടണത്തിൽനിന്ന് 40 കി.മീ. അകലെയും. ഹളേബീഡു ഏകദേശം 16 കി.മീ. അകലെയാണ്, രണ്ടും മിക്കവാറും ഒരുമിച്ചാണ് സന്ദർശിക്കുന്നത്."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/belur-chennakeshava.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/belur-chennakeshava.mp3",
     "durationSec": 314
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/belur-chennakeshava.jpg",
+    "src": "https://media.dsquaregee.com/heroes/belur-chennakeshava.jpg",
     "color": "#5C3A2E",
     "alt": "ചെന്നകേശവ ക്ഷേത്രം, ബേലൂർ",
-    "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/belur-chennakeshava.avif",
+      "webp": "https://media.dsquaregee.com/heroes/belur-chennakeshava.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/belur-chennakeshava.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/belur-chennakeshava.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/belur-chennakeshava.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/belur-chennakeshava.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/belur-chennakeshava.jpg",
     "durationSec": 243,
     "credit": "Vasukrishnan57 / Wikimedia Commons (CC BY-SA 4.0) · Akshatha Inamdar / Wikimedia Commons (CC BY-SA 4.0)"
   }

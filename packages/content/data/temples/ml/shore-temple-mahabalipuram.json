@@ -32,18 +32,23 @@
     "gettingThere": "മാമല്ലപുരം ചെങ്കൽപട്ട് ജില്ലയിലാണ്, ചെന്നൈയിൽനിന്ന് ഈസ്റ്റ് കോസ്റ്റ് റോഡ് വഴി തെക്ക് ഏകദേശം 55 കി.മീ.; ചെന്നൈയിൽ അടുത്തുള്ള വിമാനത്താവളവും പ്രധാന റെയിൽവേ സ്റ്റേഷനുമുണ്ട്, നഗരത്തിലേക്ക് ഇടയ്ക്കിടെ ബസുകളും ടാക്സികളുമുണ്ട്."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/shore-temple-mahabalipuram.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/shore-temple-mahabalipuram.mp3",
     "durationSec": 297
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/shore-temple-mahabalipuram.jpg",
+    "src": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.jpg",
     "color": "#5C3A2E",
     "alt": "കടൽത്തീര ക്ഷേത്രം, മാമല്ലപുരം",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/shore-temple-mahabalipuram.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ml/shore-temple-mahabalipuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/shore-temple-mahabalipuram.jpg",
+    "url": "https://media.dsquaregee.com/video/ml/shore-temple-mahabalipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.jpg",
     "durationSec": 226,
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }

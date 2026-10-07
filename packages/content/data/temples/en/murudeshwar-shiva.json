@@ -32,18 +32,23 @@
     "gettingThere": "Murudeshwar lies on the coast of Uttara Kannada in Karnataka, on the Konkan railway line and the coastal highway between Mangaluru and Karwar, with its own railway station."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/murudeshwar-shiva.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/murudeshwar-shiva.mp3",
     "durationSec": 102
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/murudeshwar-shiva.jpg",
+    "src": "https://media.dsquaregee.com/heroes/murudeshwar-shiva.jpg",
     "color": "#5C3A2E",
     "alt": "Murudeshwara Temple",
-    "credit": "Yakshitha / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Yakshitha / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/murudeshwar-shiva.avif",
+      "webp": "https://media.dsquaregee.com/heroes/murudeshwar-shiva.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/murudeshwar-shiva.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/murudeshwar-shiva.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/murudeshwar-shiva.jpg",
+    "url": "https://media.dsquaregee.com/video/en/murudeshwar-shiva.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/murudeshwar-shiva.jpg",
     "durationSec": 81,
     "credit": "Yakshitha / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -34,18 +34,23 @@
     "gettingThere": "ತಿರುವಾಯ್ಮೂರ್ ಕಾವೇರಿ ಡೆಲ್ಟಾದಲ್ಲಿ, ತಿರುವಾರೂರ್–ನಾಗಪಟ್ಟಿಣಂ ನಾಡಿನಲ್ಲಿ ತಿರುತ್ತುರೈಪೂಂಡಿಗೆ ಸಮೀಪ ಇದೆ; ಸುತ್ತಮುತ್ತಲ ಡೆಲ್ಟಾ ನಗರಗಳಿಂದ ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/vaimurnathar-thiruvaimur.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/vaimurnathar-thiruvaimur.mp3",
     "durationSec": 124
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/vaimurnathar-thiruvaimur.jpg",
+    "src": "https://media.dsquaregee.com/heroes/vaimurnathar-thiruvaimur.jpg",
     "color": "#5C3A2E",
     "alt": "ವಾಯ್ಮೂರ್ನಾಥರ್ ದೇವಾಲಯ, ತಿರುವಾಯ್ಮೂರ್",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaimurnathar-thiruvaimur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaimurnathar-thiruvaimur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaimurnathar-thiruvaimur.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/vaimurnathar-thiruvaimur.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vaimurnathar-thiruvaimur.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/vaimurnathar-thiruvaimur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaimurnathar-thiruvaimur.jpg",
     "durationSec": 128,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

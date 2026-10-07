@@ -34,18 +34,23 @@
     "gettingThere": "பாலகொல்லு மேற்கு கோதாவரி மாவட்டத்தில், பீமவரம் மற்றும் நரசாபுரம் நகரங்களுக்கு அருகில் அமைந்துள்ளது. பாலகொல்லு, பீமவரம் ரயில் நிலையங்கள் வழியாக ரயிலில் வந்தடையலாம்; அருகிலுள்ள விமான நிலையங்கள் ராஜமுந்திரி மற்றும் விஜயவாடாவில் உள்ளன."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/ksheerarama-palakollu.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/ksheerarama-palakollu.mp3",
     "durationSec": 292
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ksheerarama-palakollu.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.jpg",
     "color": "#5C3A2E",
     "alt": "க்ஷீரராமம் (க்ஷீர ராமலிங்கேஸ்வர கோயில்)",
-    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ksheerarama-palakollu.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/ksheerarama-palakollu.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ksheerarama-palakollu.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/ksheerarama-palakollu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ksheerarama-palakollu.jpg",
     "durationSec": 276,
     "credit": "PV Bhaskar / Wikimedia Commons (CC BY-SA 3.0)"
   }

@@ -34,18 +34,23 @@
     "gettingThere": "Kanchipuram is in Tamil Nadu, about 75 km from Chennai and well connected by road and rail; the city is compact and its many temples are reached easily by local transport."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/kanchi-kamakshi.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/kanchi-kamakshi.mp3",
     "durationSec": 273
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/kanchi-kamakshi.jpg",
+    "src": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.jpg",
     "color": "#5C3A2E",
     "alt": "Kamakshi Amman Temple, Kanchipuram",
-    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kanchi-kamakshi.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/en/kanchi-kamakshi.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kanchi-kamakshi.jpg",
+    "url": "https://media.dsquaregee.com/video/en/kanchi-kamakshi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.jpg",
     "durationSec": 213,
     "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }

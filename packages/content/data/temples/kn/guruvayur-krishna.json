@@ -32,18 +32,23 @@
     "gettingThere": "ಗುರುವಾಯೂರು ಕೇರಳ ಕರಾವಳಿಯ ತ್ರಿಶ್ಶೂರ್ ಜಿಲ್ಲೆಯಲ್ಲಿ, ಹತ್ತಿರದ ಪ್ರಮುಖ ರೈಲು ಜಂಕ್ಷನ್ ಹೊಂದಿರುವ ತ್ರಿಶ್ಶೂರ್ ಪಟ್ಟಣದಿಂದ ವಾಯವ್ಯಕ್ಕೆ ಸುಮಾರು 30 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದೆ; ಗುರುವಾಯೂರಿಗೇ ಒಂದು ನಿಲ್ದಾಣವಿದೆ, ಮತ್ತು ಕೊಚ್ಚಿಯ ಅಂತಾರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ ಸುಮಾರು 80 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/guruvayur-krishna.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/guruvayur-krishna.mp3",
     "durationSec": 322
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/guruvayur-krishna.jpg",
+    "src": "https://media.dsquaregee.com/heroes/guruvayur-krishna.jpg",
     "color": "#5C3A2E",
     "alt": "ಗುರುವಾಯೂರು ದೇವಾಲಯ",
-    "credit": "Mike Finn / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Mike Finn / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/guruvayur-krishna.avif",
+      "webp": "https://media.dsquaregee.com/heroes/guruvayur-krishna.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/guruvayur-krishna.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/kn/guruvayur-krishna.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/guruvayur-krishna.jpg",
+    "url": "https://media.dsquaregee.com/video/kn/guruvayur-krishna.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/guruvayur-krishna.jpg",
     "durationSec": 333,
     "credit": "Mike Finn / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }

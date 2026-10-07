@@ -34,19 +34,24 @@
     "gettingThere": "రామేశ్వరం ద్వీపం పంబన్ రహదారి, రైలు వంతెనల ద్వారా ప్రధాన భూభాగంతో అనుసంధానించబడింది. రామేశ్వరం రైల్వే స్టేషను ఆలయం నుండి సుమారు 2 కి.మీ. దూరంలో ఉంది; సమీప ప్రధాన విమానాశ్రయం మధురై, సుమారు 170 కి.మీ. దూరంలో, క్రమమైన బస్సులు, టాక్సీలు ఈ మార్గాన్ని దాటిస్తాయి."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/ramanathaswamy-rameswaram.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/ramanathaswamy-rameswaram.mp3",
     "durationSec": 392
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/ramanathaswamy-rameswaram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ramanathaswamy-rameswaram.jpg",
+    "url": "https://media.dsquaregee.com/video/te/ramanathaswamy-rameswaram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ramanathaswamy-rameswaram.jpg",
     "durationSec": 427,
     "credit": "Rangan Datta Wiki / Wikimedia Commons (CC BY-SA 4.0) · Gitakart / Wikimedia Commons (CC BY-SA 3.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Souvik Sarkar / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/ramanathaswamy-rameswaram.jpg",
+    "src": "https://media.dsquaregee.com/heroes/ramanathaswamy-rameswaram.jpg",
     "color": "#5C3A2E",
     "alt": "రామనాథస్వామి ఆలయం",
-    "credit": "Rangan Datta Wiki / Wikimedia Commons (CC BY-SA 4.0) · Gitakart / Wikimedia Commons (CC BY-SA 3.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Souvik Sarkar / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rangan Datta Wiki / Wikimedia Commons (CC BY-SA 4.0) · Gitakart / Wikimedia Commons (CC BY-SA 3.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Souvik Sarkar / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ramanathaswamy-rameswaram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ramanathaswamy-rameswaram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ramanathaswamy-rameswaram.jpg"
   }
 }

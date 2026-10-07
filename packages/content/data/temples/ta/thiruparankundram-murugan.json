@@ -34,18 +34,23 @@
     "gettingThere": "திருப்பரங்குன்றம் மதுரை நகர மையத்திலிருந்து சுமார் 8 கி.மீ தொலைவில், பேருந்துகள் மற்றும் டாக்சிகளால் நன்கு இணைக்கப்பட்டுள்ளது; மதுரையில் ரயில் சந்தியும் விமான நிலையமும் உண்டு, கோயிலுக்குச் சொந்த புறநகர் ரயில் நிறுத்தம் உண்டு."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/thiruparankundram-murugan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/thiruparankundram-murugan.mp3",
     "durationSec": 202
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/thiruparankundram-murugan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "திருப்பரங்குன்றம் முருகன் கோயில்",
-    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)"
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/thiruparankundram-murugan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/thiruparankundram-murugan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/thiruparankundram-murugan.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/thiruparankundram-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.jpg",
     "durationSec": 184,
     "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)"
   }

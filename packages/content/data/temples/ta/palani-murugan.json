@@ -34,18 +34,23 @@
     "gettingThere": "பழனி திண்டுக்கல் மாவட்டத்தில், மதுரையிலிருந்து சுமார் 100 கி.மீ, கோயம்புத்தூரிலிருந்து 120 கி.மீ தொலைவில் உள்ளது; இரண்டிலும் விமான நிலையம் உண்டு. ஊருக்குச் சொந்த ரயில் நிலையம் உண்டு; படிகள், சாலை, இழுவை வண்டிகள், கயிற்றுவழி அனைத்தும் உச்சியை அடைகின்றன."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/palani-murugan.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/palani-murugan.mp3",
     "durationSec": 192
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/palani-murugan.jpg",
+    "src": "https://media.dsquaregee.com/heroes/palani-murugan.jpg",
     "color": "#5C3A2E",
     "alt": "பழனி முருகன் கோயில்",
-    "credit": "Vengolis / Wikimedia Commons (CC BY-SA 4.0) · Jegan12345 / Wikimedia Commons (CC BY-SA 4.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rejeesh Irinave / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "Vengolis / Wikimedia Commons (CC BY-SA 4.0) · Jegan12345 / Wikimedia Commons (CC BY-SA 4.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rejeesh Irinave / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/palani-murugan.avif",
+      "webp": "https://media.dsquaregee.com/heroes/palani-murugan.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/palani-murugan.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/ta/palani-murugan.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/palani-murugan.jpg",
+    "url": "https://media.dsquaregee.com/video/ta/palani-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/palani-murugan.jpg",
     "durationSec": 179,
     "credit": "Vengolis / Wikimedia Commons (CC BY-SA 4.0) · Jegan12345 / Wikimedia Commons (CC BY-SA 4.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rejeesh Irinave / Wikimedia Commons (CC BY-SA 3.0)"
   }

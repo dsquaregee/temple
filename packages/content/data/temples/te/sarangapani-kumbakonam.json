@@ -35,18 +35,23 @@
     "gettingThere": "కుంభకోణం తమిళనాడులోని తంజావూరు జిల్లాలో, రోడ్డు, రైలు మార్గాల ద్వారా బాగా అనుసంధానించబడింది; తంజావూరు, తిరుచిరాపల్లి నుండి సుమారు 40 కి.మీ. దూరంలో, కావేరీ డెల్టా ఆలయ ప్రాంతపు కేంద్రంలో ఉంది."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/sarangapani-kumbakonam.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/sarangapani-kumbakonam.mp3",
     "durationSec": 224
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/sarangapani-kumbakonam.jpg",
+    "src": "https://media.dsquaregee.com/heroes/sarangapani-kumbakonam.jpg",
     "color": "#5C3A2E",
     "alt": "శారంగపాణి ఆలయం, కుంభకోణం",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sarangapani-kumbakonam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sarangapani-kumbakonam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sarangapani-kumbakonam.jpg"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temples2-media/video/te/sarangapani-kumbakonam.mp4",
-    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/sarangapani-kumbakonam.jpg",
+    "url": "https://media.dsquaregee.com/video/te/sarangapani-kumbakonam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sarangapani-kumbakonam.jpg",
     "durationSec": 248,
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }

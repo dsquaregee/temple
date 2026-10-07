@@ -34,18 +34,18 @@
     "gettingThere": "The temple stands in Suryanar Koil village near Aduthurai, about 15 km from Kumbakonam in Thanjavur district. Kumbakonam is the nearest hub, with rail access via Aduthurai or Kumbakonam; the nearest airport is Tiruchirappalli, roughly 90 km away. Buses and taxis run from Kumbakonam."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/suryanar-koil.mp3",
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/suryanar-koil.mp3",
     "durationSec": 253
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.jpg",
+    "src": "https://media.dsquaregee.com/heroes/suryanar-koil.jpg",
     "color": "#5C3A2E",
     "alt": "Suryanar Koil (Sun Temple)",
     "credit": "PJeganathan / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
-      "avif": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.avif",
-      "webp": "https://storage.googleapis.com/temples2-media/heroes/suryanar-koil.webp"
+      "avif": "https://media.dsquaregee.com/heroes/suryanar-koil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/suryanar-koil.webp"
     },
-    "og": "https://storage.googleapis.com/temples2-media/og/suryanar-koil.jpg"
+    "og": "https://media.dsquaregee.com/og/suryanar-koil.jpg"
   }
 }
