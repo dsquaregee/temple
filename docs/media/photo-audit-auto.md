@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| gangaikonda-cholapuram | 6 | ✅ included |
-| guruvayur-krishna | 6 | ✅ included |
-| halebidu-hoysaleswara | 6 | ✅ included |
-| jambukeswarar | 6 | ✅ included |
-| kailasanathar-kanchipuram | 6 | ✅ included |
-| kanaka-durga-vijayawada | 6 | ✅ included |
+| kanchi-kamakshi | 6 | ✅ included |
+| kannayiramudayar-thirukaravasal | 6 | ✅ included |
+| kanyakumari-bhagavathy | 3 | ✅ included |
+| kapaleeshwarar-mylapore | 6 | ✅ included |
+| kayarohanaswamy-nagapattinam | 3 | ✅ included |
+| kollur-mookambika | 3 | ✅ included |
