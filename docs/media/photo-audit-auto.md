@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| kanchi-kamakshi | 6 | ✅ included |
-| kannayiramudayar-thirukaravasal | 6 | ✅ included |
-| kanyakumari-bhagavathy | 3 | ✅ included |
-| kapaleeshwarar-mylapore | 6 | ✅ included |
-| kayarohanaswamy-nagapattinam | 3 | ✅ included |
-| kollur-mookambika | 3 | ✅ included |
+| ksheerarama-palakollu | 3 | ✅ included |
+| kumararama-samalkota | 3 | ✅ included |
+| kutralanathar-courtallam | 6 | ✅ included |
+| lepakshi-veerabhadra | 6 | ✅ included |
+| meenakshi-madurai | 6 | ✅ included |
+| melukote-cheluvanarayana | 6 | ✅ included |
