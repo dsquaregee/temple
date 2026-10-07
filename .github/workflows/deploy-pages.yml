@@ -1,0 +1,61 @@
+name: Deploy to Cloudflare Pages
+
+# Builds the static export and deploys it to Cloudflare Pages — the all-Cloudflare
+# serving path (Pages + R2), replacing Firebase Hosting. Runs in parallel with
+# deploy.yml (Firebase) during the transition; retire deploy.yml once the custom
+# domain is cut over to Pages and verified.
+#
+# Required repo secrets (Settings → Secrets and variables → Actions):
+#   CLOUDFLARE_API_TOKEN   — token with the "Cloudflare Pages: Edit" permission
+#   CLOUDFLARE_ACCOUNT_ID  — your Cloudflare account id
+#
+# One-time owner setup (see docs/deploy-cloudflare-pages.md):
+#   - Create a Pages project named `temple` (Workers & Pages → Create → Pages →
+#     Direct Upload) with production branch `main`.
+#   - After the first green deploy, add the custom domain temples.dsquaregee.com
+#     to the Pages project (this moves it off Firebase).
+
+on:
+  push:
+    branches: [claude/temple-app-phase-1-jfbtxy]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      # Only the web app + its workspace deps are needed for the static export.
+      - name: Install web deps
+        run: pnpm install --frozen-lockfile --filter @temple/web...
+
+      - name: Build static export
+        run: pnpm build:web
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: '3.90.0'
+          # --branch=main makes this a PRODUCTION deploy (the Pages project's
+          # production branch must be `main`). Preview deploys use any other name.
+          command: pages deploy apps/web/out --project-name=temple --branch=main --commit-dirty=true
