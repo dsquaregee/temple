@@ -32,9 +32,9 @@ Headers/CSP/caching are ported to `apps/web/public/_headers` (shipped as
 
 ## Part 2 — First deploy + verify (no domain change yet)
 
-5. GitHub → **Actions → "Deploy to Cloudflare Pages" → Run workflow** (or it runs
-   on the next push to the default branch). It builds and uploads to the `temple`
-   Pages project.
+5. GitHub → **Actions → "Deploy to Cloudflare Pages" → Run workflow** (it's
+   manual-dispatch only for now). It builds and uploads to the `temple` Pages
+   project.
 6. Open the deployment's **`https://temple.pages.dev`** URL (or the
    `<hash>.temple.pages.dev` the run prints). Click through a few temple pages —
    confirm the hero photos, Listen audio, and video load (these come from R2), and
@@ -61,6 +61,9 @@ Only after Part 2 looks right:
 
 Once the domain has been happily on Pages for a bit:
 
+- **Make Pages the push-deploy:** add the `push` trigger to `deploy-pages.yml`
+  (commented at the top of the file) so every push to the default branch
+  publishes to Pages.
 - Delete `.github/workflows/deploy.yml` (the Firebase deploy), or leave it as a
   warm fallback — it keeps publishing to `temples2.web.app`, which is harmless.
 - You can keep the Firebase project around (Firestore `temple` db, Auth) for

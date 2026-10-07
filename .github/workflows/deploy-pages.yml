@@ -15,9 +15,12 @@ name: Deploy to Cloudflare Pages
 #   - After the first green deploy, add the custom domain temples.dsquaregee.com
 #     to the Pages project (this moves it off Firebase).
 
+# Manual-dispatch only until the Cloudflare secrets + Pages project exist and the
+# domain is cut over — avoids failing runs on every push before setup. At cutover,
+# add the push trigger below (and retire deploy.yml) so pushes publish to Pages:
+#   push:
+#     branches: [claude/temple-app-phase-1-jfbtxy]
 on:
-  push:
-    branches: [claude/temple-app-phase-1-jfbtxy]
   workflow_dispatch:
 
 permissions:
