@@ -42,8 +42,9 @@ stays intact so the cutover is reversible: deploy to Cloudflare, verify on the
 
 Only after Part 2 looks right:
 
-5. Project → **Settings → Domains & Routes → Add → Custom domain** →
-   `temples.dsquaregee.com`. DNS is already on Cloudflare, so it reconfigures the
+5. Project → **Settings → Domains → Add custom domain** → `temples.dsquaregee.com`.
+   (In the current dashboard the tab is just **Domains**, not "Domains & Routes".)
+   DNS is already on Cloudflare, so it reconfigures the
    record automatically (proxied) and provisions the cert — **this replaces the
    Firebase CNAME**, moving the domain to Cloudflare's static-assets Worker.
 6. Once it shows Active, load `https://temples.dsquaregee.com/` and a couple of
@@ -69,3 +70,9 @@ Only after Part 2 looks right:
 - **Config:** `wrangler.jsonc` (repo root) points Static Assets at `apps/web/out`
   and serves `404.html` for unmatched routes. Trailing-slash directories resolve
   to `index.html` natively.
+- **Preview builds on PRs.** Cloudflare posts a "Deploying Preview" check on each
+  PR that fails instantly (0s) — preview deployments aren't configured and aren't
+  needed. It's cosmetic and never blocks: only the **production** build (on the
+  production branch, after merge) deploys the live site. Ignore the red preview
+  check, or turn previews off in the dashboard (Workers & Pages → the project →
+  Settings → Builds) if you'd rather not see it.
