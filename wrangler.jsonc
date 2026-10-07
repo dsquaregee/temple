@@ -1,0 +1,16 @@
+{
+  // Cloudflare Workers Static Assets config — serves the Next.js static export
+  // (apps/web/out) as the site, replacing Firebase Hosting. Used by Cloudflare
+  // Workers Builds (Git-connected): build command `pnpm build:web`, deploy
+  // command `npx wrangler deploy`. No Worker script — assets only.
+  // The `name` must match the project/Worker name in the Cloudflare dashboard.
+  // _headers / _redirects in apps/web/out are honored by Static Assets.
+  "name": "temple",
+  "compatibility_date": "2024-11-01",
+  "assets": {
+    "directory": "./apps/web/out",
+    // Serve /404.html for genuinely unmatched routes (this is a multi-page static
+    // site, not an SPA). Directory requests like /en/ still resolve to index.html.
+    "not_found_handling": "404-page"
+  }
+}
