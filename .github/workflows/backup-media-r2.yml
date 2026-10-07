@@ -1,0 +1,106 @@
+name: Backup media to Cloudflare R2
+
+# Mirrors the two public GCS media buckets to Cloudflare R2 so a Google project
+# lock (as happened to temple-502523) never means re-generating media from
+# source again. R2 is independent of GCP and has $0 egress, so it doubles as a
+# cheap off-Google copy and a potential primary CDN origin. Incremental: rclone
+# only transfers objects that changed since the last run.
+#
+# Restore: see the "Disaster recovery" section of docs/migrate-project.md —
+# either serve media straight from R2, or rclone the backup into fresh GCS
+# buckets on the new project.
+#
+# Required repo secrets (Settings → Secrets and variables → Actions):
+#   FIREBASE_SERVICE_ACCOUNT  — already set; reads the GCS buckets (Storage Admin)
+#   R2_ACCOUNT_ID             — Cloudflare account id (the R2 S3 endpoint host)
+#   R2_ACCESS_KEY_ID          — from an R2 API token (Object Read & Write)
+#   R2_SECRET_ACCESS_KEY      — from that same R2 API token
+#
+# Target R2 buckets (create these in Cloudflare R2 first):
+#   temples2-media-backup
+#   temples2-audio-backup
+
+on:
+  schedule:
+    - cron: '0 4 * * 0' # weekly, Sunday 04:00 UTC
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: List what would change without uploading
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: r2-backup
+  cancel-in-progress: false
+
+env:
+  RCLONE_VERSION: v1.68.2
+  MEDIA_BUCKET: temples2-media
+  AUDIO_BUCKET: temples2-audio
+  R2_MEDIA_BUCKET: temples2-media-backup
+  R2_AUDIO_BUCKET: temples2-audio-backup
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Install rclone (pinned)
+        run: |
+          curl -fsSL -o rclone.zip \
+            "https://downloads.rclone.org/${RCLONE_VERSION}/rclone-${RCLONE_VERSION}-linux-amd64.zip"
+          unzip -q rclone.zip
+          sudo install -m 755 "rclone-${RCLONE_VERSION}-linux-amd64/rclone" /usr/local/bin/rclone
+          rclone version
+
+      - name: Write GCS service-account key
+        run: printf '%s' '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > "$RUNNER_TEMP/gcs-key.json"
+
+      - name: Configure rclone remotes
+        env:
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: |
+          mkdir -p ~/.config/rclone
+          umask 077
+          cat > ~/.config/rclone/rclone.conf <<EOF
+          [gcs]
+          type = google cloud storage
+          service_account_file = ${RUNNER_TEMP}/gcs-key.json
+
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${R2_ACCESS_KEY_ID}
+          secret_access_key = ${R2_SECRET_ACCESS_KEY}
+          endpoint = https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com
+          acl = private
+          no_check_bucket = true
+          EOF
+
+      - name: Mirror media bucket → R2
+        run: |
+          rclone sync "gcs:${MEDIA_BUCKET}" "r2:${R2_MEDIA_BUCKET}" \
+            ${{ inputs.dry_run && '--dry-run' || '' }} \
+            --fast-list --transfers 16 --checkers 32 --s3-no-head --stats 30s --stats-one-line
+
+      - name: Mirror audio bucket → R2
+        run: |
+          rclone sync "gcs:${AUDIO_BUCKET}" "r2:${R2_AUDIO_BUCKET}" \
+            ${{ inputs.dry_run && '--dry-run' || '' }} \
+            --fast-list --transfers 16 --checkers 32 --s3-no-head --stats 30s --stats-one-line
+
+      - name: Report sizes
+        if: ${{ !inputs.dry_run }}
+        run: |
+          echo "media backup:"; rclone size "r2:${R2_MEDIA_BUCKET}"
+          echo "audio backup:"; rclone size "r2:${R2_AUDIO_BUCKET}"
+
+      - name: Clean up credentials
+        if: always()
+        run: rm -f "$RUNNER_TEMP/gcs-key.json" ~/.config/rclone/rclone.conf

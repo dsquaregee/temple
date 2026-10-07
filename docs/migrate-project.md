@@ -180,3 +180,66 @@ package, so the codemod updates them automatically. If a native build embeds the
 Firebase project config (e.g. `google-services.json` / `GoogleService-Info.plist`
 for a future Firebase SDK integration), regenerate those from the new project and
 bump the build number before the next store submission — see `docs/store-release.md`.
+
+---
+
+## Disaster recovery — surviving a project lock without re-generating media
+
+The slow part of the `temple-502523 → temples2` recovery was the media: the old
+buckets were locked (403), so nothing could be copied and all 600+ objects had
+to be re-generated from source (hours of CI). Code and content were never at
+risk (they live in GitHub). To make a future lock a minutes-not-hours event,
+keep an **off-Google copy of the media** and know the restore path.
+
+### The backup — `.github/workflows/backup-media-r2.yml`
+
+A scheduled job (weekly + manual dispatch) mirrors `temples2-media` and
+`temples2-audio` to **Cloudflare R2** with `rclone sync` (incremental — only
+changed objects move). R2 is independent of GCP and has $0 egress, so it also
+works as a primary CDN origin if you ever want to cut bandwidth cost.
+
+One-time setup:
+
+1. **Cloudflare → R2** → create two buckets: `temples2-media-backup`,
+   `temples2-audio-backup`.
+2. **R2 → Manage API Tokens** → create a token with **Object Read & Write** →
+   note the **Access Key ID**, **Secret Access Key**, and your **Account ID**
+   (the R2 S3 endpoint is `https://<account-id>.r2.cloudflarestorage.com`).
+3. **GitHub → Settings → Secrets and variables → Actions** → add
+   `R2_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`.
+   (`FIREBASE_SERVICE_ACCOUNT` is already set and grants the GCS read side.)
+4. Run it once: **Actions → "Backup media to Cloudflare R2" → Run workflow**
+   (optionally with `dry_run` first to preview). After it succeeds, the two R2
+   buckets hold a full copy that the weekly schedule keeps current.
+
+### The restore — if the GCP project is ever locked again
+
+The media already exists in R2, so recovery is a copy, not a rebuild. Stand up
+the new project with **Part A–B** above (codemod + buckets), then pick one:
+
+**R1 — rehydrate the new GCS buckets from R2** (keeps serving from GCS):
+```bash
+# Same rclone remotes the backup workflow configures (gcs: and r2:):
+rclone sync r2:temples2-media-backup gcs:<NEW_PROJECT_ID>-media --fast-list --transfers 16
+rclone sync r2:temples2-audio-backup gcs:<NEW_PROJECT_ID>-audio --fast-list --transfers 16
+```
+Then make the new buckets public (Part A.3) and deploy (Part B–D). No
+re-generation, no Commons/TTS dependency — minutes.
+
+**R2 — serve media straight from R2** (fastest; also the cost-saving option):
+Expose the R2 buckets on a public domain (R2 → Settings → Public access, or a
+custom domain like `media.dsquaregee.com`), then run the codemod pointing the
+media host at R2 instead of a GCS bucket and redeploy. Hosting/Firestore can be
+rebuilt separately; the images/audio/video never go dark.
+
+### Beyond media
+
+- **Hosting** is a static export, so it also deploys to **Cloudflare Pages** /
+  Netlify / GitHub Pages in minutes — keep one as a warm standby if you want
+  hosting to survive a Firebase outage too.
+- **Firestore**: content-only v1 has no durable user data (decision D2). When
+  accounts/favorites sync to Firestore later, add scheduled Firestore exports to
+  a bucket and mirror those to R2 with the same job.
+- **Prevention**: set GCP **billing alerts**, keep a valid payment method, answer
+  Google verification emails promptly, and avoid bursting heavy new workloads on
+  a brand-new unverified project (a likely trigger of the original lock).
