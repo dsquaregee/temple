@@ -6,9 +6,9 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| ranganathaswamy-srirangapatna | 6 | ✅ included |
-| sarangapani-kumbakonam | 6 | ✅ included |
-| shore-temple-mahabalipuram | 6 | ✅ included |
-| simhachalam-narasimha | 6 | ✅ included |
-| somanathapura-keshava | 6 | ✅ included |
-| srikalahasti | 6 | ✅ included |
+| sringeri-sharada | 6 | ✅ included |
+| srisailam-mallikarjuna | 3 | ✅ included |
+| srivaikuntanathan-srivaikuntam | 6 | ✅ included |
+| srivilliputhur-andal | 3 | ✅ included |
+| suchindram-thanumalayan | 6 | ✅ included |
+| swamimalai-murugan | 6 | ✅ included |
