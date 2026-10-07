@@ -1,11 +1,15 @@
-# Cloudflare Pages headers — ported 1:1 from the Firebase Hosting rules in
+# Cloudflare Static Assets headers — ported from the Firebase Hosting rules in
 # firebase.json. Next.js copies public/ to the export root, so this ships as
-# out/_headers and Pages applies it. Cloudflare applies every matching block;
-# when two blocks set the same header the LAST match wins, so the broad /*
-# block comes first and the specific paths below it override Cache-Control.
+# out/_headers and Cloudflare applies it.
 #
-# Keep this in sync with firebase.json's headers while both hosts run in
-# parallel (the CSP in particular — see apps/web/test/csp-parity.test.ts).
+# IMPORTANT: Cloudflare *appends* headers from every matching block (it does NOT
+# "last match wins" like Firebase). So each specific path below first removes the
+# Cache-Control inherited from the broad /* block (`! Cache-Control`) and then
+# sets its own — otherwise sw.js / the manifest / _next assets end up with two
+# conflicting Cache-Control values concatenated.
+#
+# Keep the CSP + security headers in sync with firebase.json while both hosts run
+# in parallel (see apps/web/test/csp-parity.test.ts for the script-src guard).
 
 /*
   Content-Security-Policy: default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; form-action 'self'; script-src 'self' 'unsafe-inline'; style-src 'self'; img-src 'self' https://media.dsquaregee.com https://storage.googleapis.com data:; media-src 'self' https://media.dsquaregee.com https://audio.dsquaregee.com https://storage.googleapis.com; font-src 'self'; connect-src 'self' https://media.dsquaregee.com https://audio.dsquaregee.com https://storage.googleapis.com; manifest-src 'self'; worker-src 'self'; upgrade-insecure-requests
@@ -18,11 +22,14 @@
   Cross-Origin-Opener-Policy: same-origin-allow-popups
 
 /_next/static/*
+  ! Cache-Control
   Cache-Control: public, max-age=31536000, immutable
 
 /sw.js
+  ! Cache-Control
   Cache-Control: no-cache, no-store, must-revalidate
 
 /manifest.webmanifest
+  ! Cache-Control
   Cache-Control: public, max-age=3600
   Content-Type: application/manifest+json
