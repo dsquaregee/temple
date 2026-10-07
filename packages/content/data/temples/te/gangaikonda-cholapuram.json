@@ -35,24 +35,19 @@
     "gettingThere": "సుమారు 100 కి.మీ. దూరంలోని తిరుచిరాపల్లి అంతర్జాతీయ విమానాశ్రయం సమీప విమానాశ్రయం; సుమారు 35 కి.మీ. దక్షిణాన ఉన్న కుంభకోణం అత్యంత అనుకూలమైన రైల్‌హెడ్. ఈ ఆలయం కుంభకోణం నుండి చిదంబరం రహదారికి సమీపంలో ఉంది, గంగైకొండ చోళపురం వద్ద ఆగే క్రమమైన బస్సులతో."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/gangaikonda-cholapuram.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/gangaikonda-cholapuram.mp3",
     "durationSec": 388
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/te/gangaikonda-cholapuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/te/gangaikonda-cholapuram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/gangaikonda-cholapuram.jpg",
     "durationSec": 431,
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/gangaikonda-cholapuram.jpg",
     "color": "#5C3A2E",
     "alt": "బృహదీశ్వర ఆలయం, గంగైకొండ చోళపురం",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/gangaikonda-cholapuram.jpg"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

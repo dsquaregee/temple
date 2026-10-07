@@ -34,24 +34,19 @@
     "gettingThere": "திருவண்ணாமலை சென்னைக்கு தென்மேற்கில் சுமார் 190 கி.மீ, வேலூரிலிருந்து 85 கி.மீ தொலைவில் உள்ளது; இரண்டிடமிருந்தும், மேலும் புதுச்சேரி, பெங்களூருவிலிருந்தும் பேருந்து வழியாக நன்கு இணைக்கப்பட்டுள்ளது. நகரத்தில் வேலூர்–விழுப்புரம் வழித்தடத்தில் ஒரு ரயில் நிலையம் உள்ளது; அருகிலுள்ள முக்கிய விமான நிலையங்கள் சென்னை மற்றும் பெங்களூரு. கோயில் அருணாசல மலையின் கிழக்கு அடிவாரத்தில் அமைந்துள்ளது; பேருந்து நிலையத்திலிருந்து குறுகிய நடை அல்லது ஆட்டோ பயணத் தொலைவில் உள்ளது."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/arunachaleswarar.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/arunachaleswarar.mp3",
     "durationSec": 429
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/arunachaleswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/arunachaleswarar.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/ta/arunachaleswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/arunachaleswarar.jpg",
     "durationSec": 393,
     "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/arunachaleswarar.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/arunachaleswarar.jpg",
     "color": "#5C3A2E",
     "alt": "அருணாசலேசுவரர் கோயில், திருவண்ணாமலை",
-    "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/arunachaleswarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/arunachaleswarar.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/arunachaleswarar.jpg"
+    "credit": "Vyacheslav Argenberg / Wikimedia Commons (CC BY 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0) · SandyWikia / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,13 +32,18 @@
     "gettingThere": "గోకర్ణ ఉత్తర కన్నడ జిల్లాలో తీరాన ఉంది, కొంకణ రైల్వేలో సొంత చిన్న రైల్వే స్టేషన్ ఉంది; గోకర్ణ రోడ్, కుమ్టా సమీప రైల్‌హెడ్‌లు, సమీప విమానాశ్రయాలు హుబ్బళ్లి, గోవా (డబోలిం)."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/gokarna-mahabaleshwara.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/gokarna-mahabaleshwara.mp3",
     "durationSec": 188
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gokarna-mahabaleshwara.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.jpg",
     "color": "#5C3A2E",
     "alt": "గోకర్ణ మహాబలేశ్వర ఆలయం",
-    "credit": "Vedamurthy.j / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "Vedamurthy.j / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/gokarna-mahabaleshwara.jpg"
   }
 }

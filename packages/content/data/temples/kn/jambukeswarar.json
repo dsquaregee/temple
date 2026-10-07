@@ -34,24 +34,19 @@
     "gettingThere": "ದೇವಾಲಯವು ತಿರುಚ್ಚಿರಾಪಳ್ಳಿಯ ಶ್ರೀರಂಗಂ ದ್ವೀಪದಲ್ಲಿ, ರಂಗನಾಥಸ್ವಾಮಿ ದೇವಾಲಯದಿಂದ ಪೂರ್ವಕ್ಕೆ ಸುಮಾರು 2 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ. ತಿರುಚ್ಚಿರಾಪಳ್ಳಿ ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ ಸುಮಾರು 12 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ; ತಿರುಚ್ಚಿರಾಪಳ್ಳಿ ಜಂಕ್ಷನ್ ರೈಲು ನಿಲ್ದಾಣ ಸುಮಾರು 8 ಕಿ.ಮೀ. ನಗರ ಬಸ್‌ಗಳು ಮತ್ತು ಆಟೋರಿಕ್ಷಾಗಳು ತಿರುವಾನೈಕಾವಲ್‌ಗೆ ಆಗಾಗ್ಗೆ ಸಂಚರಿಸುತ್ತವೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/jambukeswarar.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/jambukeswarar.mp3",
     "durationSec": 386
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/jambukeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/jambukeswarar.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/kn/jambukeswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/jambukeswarar.jpg",
     "durationSec": 401,
     "credit": "prakashkumar / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/jambukeswarar.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/jambukeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "ಜಂಬುಕೇಶ್ವರ ದೇವಾಲಯ, ತಿರುವಾನೈಕಾವಲ್",
-    "credit": "prakashkumar / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/jambukeswarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/jambukeswarar.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/jambukeswarar.jpg"
+    "credit": "prakashkumar / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

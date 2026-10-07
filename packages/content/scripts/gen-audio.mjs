@@ -5,7 +5,7 @@
 //
 // Usage:
 //   GOOGLE_APPLICATION_CREDENTIALS=/path/to/sa-key.json \
-//   AUDIO_BUCKET=temple-502523-audio \
+//   AUDIO_BUCKET=temples2-audio \
 //   [AUDIO_LIMIT=1] [AUDIO_LOCALES=en,hi] \
 //   node packages/content/scripts/gen-audio.mjs
 //

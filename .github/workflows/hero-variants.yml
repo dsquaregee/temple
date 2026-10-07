@@ -51,7 +51,7 @@ jobs:
       - name: Generate and upload hero variants
         env:
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
-          MEDIA_BUCKET: temple-502523-media
+          MEDIA_BUCKET: temples2-media
           HERO_ONLY: ${{ inputs.only }}
           HERO_FORCE: ${{ inputs.force && '1' || '' }}
         run: node packages/content/scripts/gen-hero-variants.mjs

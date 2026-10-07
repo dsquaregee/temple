@@ -35,24 +35,19 @@
     "gettingThere": "Tiruchirappalli International Airport, about 100 km away, is the nearest airport; Kumbakonam, roughly 35 km south, is the most convenient railhead. The temple lies just off the Kumbakonam to Chidambaram road, with regular buses stopping at Gangaikonda Cholapuram."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/en/gangaikonda-cholapuram.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/en/gangaikonda-cholapuram.mp3",
     "durationSec": 411
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/en/gangaikonda-cholapuram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/en/gangaikonda-cholapuram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/gangaikonda-cholapuram.jpg",
     "durationSec": 321,
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/gangaikonda-cholapuram.jpg",
     "color": "#5C3A2E",
     "alt": "Brihadisvara Temple, Gangaikonda Cholapuram",
-    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/gangaikonda-cholapuram.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/gangaikonda-cholapuram.jpg"
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

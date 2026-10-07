@@ -35,24 +35,19 @@
     "gettingThere": "తిరుచిరాపల్లి అంతర్జాతీయ విమానాశ్రయం సుమారు 60 కి.మీ. దూరంలో ఉంది, తంజావూరు జంక్షన్ రైల్వే స్టేషను ఆలయం నుండి 2 కి.మీ. లోపే ఉంది. చెన్నై, తిరుచ్చి, మధురైలకు తంజావూరు బస్సు, రహదారి ద్వారా చక్కగా అనుసంధానించబడింది."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/brihadeeswarar.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/brihadeeswarar.mp3",
     "durationSec": 379
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/te/brihadeeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/te/brihadeeswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/brihadeeswarar.jpg",
     "durationSec": 412,
     "credit": "Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Aalangaram / Wikimedia Commons (CC BY-SA 3.0) · V Adithya Kamath / Wikimedia Commons (CC BY-SA 4.0) · Veera / Wikimedia Commons (CC BY-SA 4.0) · Vigneshtnj / Wikimedia Commons (CC BY-SA 4.0) · Cafeskool / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/brihadeeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "బృహదీశ్వర ఆలయం",
-    "credit": "Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Aalangaram / Wikimedia Commons (CC BY-SA 3.0) · V Adithya Kamath / Wikimedia Commons (CC BY-SA 4.0) · Veera / Wikimedia Commons (CC BY-SA 4.0) · Vigneshtnj / Wikimedia Commons (CC BY-SA 4.0) · Cafeskool / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/brihadeeswarar.jpg"
+    "credit": "Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Aalangaram / Wikimedia Commons (CC BY-SA 3.0) · V Adithya Kamath / Wikimedia Commons (CC BY-SA 4.0) · Veera / Wikimedia Commons (CC BY-SA 4.0) · Vigneshtnj / Wikimedia Commons (CC BY-SA 4.0) · Cafeskool / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

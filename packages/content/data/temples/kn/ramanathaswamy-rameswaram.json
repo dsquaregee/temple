@@ -34,24 +34,19 @@
     "gettingThere": "ರಾಮೇಶ್ವರಂ ದ್ವೀಪವು ಪಂಬನ್ ರಸ್ತೆ ಮತ್ತು ರೈಲು ಸೇತುವೆಗಳ ಮೂಲಕ ಮುಖ್ಯಭೂಮಿಗೆ ಸಂಪರ್ಕ ಹೊಂದಿದೆ. ರಾಮೇಶ್ವರಂ ರೈಲು ನಿಲ್ದಾಣ ದೇವಾಲಯದಿಂದ ಸುಮಾರು 2 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ; ಸಮೀಪದ ಪ್ರಮುಖ ವಿಮಾನ ನಿಲ್ದಾಣ ಮಧುರೈ, ಸುಮಾರು 170 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ, ಈ ಮಾರ್ಗದಲ್ಲಿ ನಿಯಮಿತ ಬಸ್ ಮತ್ತು ಟ್ಯಾಕ್ಸಿಗಳಿವೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/ramanathaswamy-rameswaram.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/ramanathaswamy-rameswaram.mp3",
     "durationSec": 416
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/ramanathaswamy-rameswaram.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ramanathaswamy-rameswaram.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/kn/ramanathaswamy-rameswaram.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ramanathaswamy-rameswaram.jpg",
     "durationSec": 427,
     "credit": "Rangan Datta Wiki / Wikimedia Commons (CC BY-SA 4.0) · Gitakart / Wikimedia Commons (CC BY-SA 3.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Souvik Sarkar / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ramanathaswamy-rameswaram.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/ramanathaswamy-rameswaram.jpg",
     "color": "#5C3A2E",
     "alt": "ರಾಮನಾಥಸ್ವಾಮಿ ದೇವಾಲಯ",
-    "credit": "Rangan Datta Wiki / Wikimedia Commons (CC BY-SA 4.0) · Gitakart / Wikimedia Commons (CC BY-SA 3.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Souvik Sarkar / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/ramanathaswamy-rameswaram.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/ramanathaswamy-rameswaram.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/ramanathaswamy-rameswaram.jpg"
+    "credit": "Rangan Datta Wiki / Wikimedia Commons (CC BY-SA 4.0) · Gitakart / Wikimedia Commons (CC BY-SA 3.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Souvik Sarkar / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

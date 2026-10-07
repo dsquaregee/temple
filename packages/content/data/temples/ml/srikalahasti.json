@@ -34,24 +34,19 @@
     "gettingThere": "ഏറ്റവും അടുത്തുള്ള വിമാനത്താവളവും ഒരു പ്രധാന റെയില്‍ ജംഗ്ഷനും ഉള്ള തിരുപ്പതിയില്‍ നിന്ന് ശ്രീകാളഹസ്തി ഏകദേശം 37 കി.മീ അകലെയാണ്; പട്ടണത്തിന് സ്വന്തമായി ഒരു റെയില്‍വേ സ്റ്റേഷനുമുണ്ട്. തിരുപ്പതിയില്‍ നിന്ന് ഇടയ്ക്കിടെ ബസ്സുകളും ടാക്‌സികളും ഓടുന്നു, ചെന്നൈ തെക്കുകിഴക്കായി ഏകദേശം 100 കി.മീ അകലെയാണ്."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/srikalahasti.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/srikalahasti.mp3",
     "durationSec": 465
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/srikalahasti.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/srikalahasti.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/ml/srikalahasti.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/srikalahasti.jpg",
     "durationSec": 341,
     "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/srikalahasti.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/srikalahasti.jpg",
     "color": "#5C3A2E",
     "alt": "ശ്രീകാളഹസ്തീശ്വര ക്ഷേത്രം",
-    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/srikalahasti.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/srikalahasti.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/srikalahasti.jpg"
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 4.0) · రవిచంద్ర / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

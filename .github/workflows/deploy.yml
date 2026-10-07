@@ -1,6 +1,6 @@
 name: Deploy to Firebase
 
-# Deploys the static web export + Firestore rules to temple-502523 whenever the
+# Deploys the static web export + Firestore rules to temples2 whenever the
 # default branch updates (e.g. a PR merges), or on manual dispatch.
 on:
   push:
@@ -49,7 +49,7 @@ jobs:
         run: |
           npx firebase-tools@15 deploy \
             --only hosting,firestore:rules \
-            --project temple-502523 \
+            --project temples2 \
             --non-interactive
 
       - name: Clean up credentials

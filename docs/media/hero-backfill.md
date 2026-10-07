@@ -6,6 +6,14 @@ progress is durable and anyone can pick it up mid-way.
 
 **Status (2026-07-27): 92 / 101 temples have real hero photos; 78 / 101 have narrated video.** Everything auto-sourced + hand-curated across three rounds (keyword → native-script → Commons-category search) is live and quality-checked. The **9 remaining stay on the branded placeholder** — they have no correctly-licensed Commons photo of the right temple anywhere (obscure Nava Tirupati / Divya Desam shrines with zero Commons presence); the placeholder is their accepted last-resort workaround. See "Remaining placeholders" below.
 
+> **Update (2026-10-07): all media re-generated into the new `temples2` project.**
+> After `temple-502523` was Google-locked, the full set was rebuilt from source
+> into `temples2-media` / `temples2-audio` (old buckets were inaccessible, so a
+> copy wasn't possible — see docs/migrate-project.md). Verified live: **audio
+> 101×6, heroes 92, AVIF/WebP/OG variants, narrated video 78×6 (all 13 render
+> batches green).** Coverage is identical to the pre-lock catalog; the 9
+> placeholder temples are unchanged.
+
 ## How each batch works (deploys straight to production)
 
 Heroes are set by `media.yml` (needs GCP creds → runs in CI). We use **`hero_only`
@@ -30,7 +38,7 @@ Then **verify** each hero is live and depicts the right temple:
 
 ```bash
 curl -s -o /dev/null -w "%{http_code}\n" \
-  "https://storage.googleapis.com/temple-502523-media/heroes/<id>.jpg"
+  "https://storage.googleapis.com/temples2-media/heroes/<id>.jpg"
 # and open https://temples.dsquaregee.com/en/temples/<id>/ — check the photo is
 # the correct temple (auto-search occasionally mis-picks; if so, curate → re-run
 # with -f force via a CURATED entry, see below).

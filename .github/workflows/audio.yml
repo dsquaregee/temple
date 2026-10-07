@@ -52,7 +52,7 @@ jobs:
       - name: Generate and upload audio
         env:
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
-          AUDIO_BUCKET: temple-502523-audio
+          AUDIO_BUCKET: temples2-audio
           AUDIO_LOCALES: ${{ inputs.locales }}
           AUDIO_FORCE: ${{ inputs.force && '1' || '' }}
         run: node packages/content/scripts/gen-audio.mjs

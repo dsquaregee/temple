@@ -65,7 +65,7 @@
   },
   "firestore": [
     {
-      "database": "temple",
+      "database": "temples2",
       "rules": "infra/firestore.rules",
       "indexes": "infra/firestore.indexes.json"
     }

@@ -34,23 +34,18 @@
     "gettingThere": "തിരുവായ്മൂർ കാവേരി ഡെൽറ്റയിൽ, തിരുവാരൂർ–നാഗപട്ടിണം നാട്ടിൽ തിരുത്തുറൈപ്പൂണ്ടിക്കടുത്താണ്; ചുറ്റുമുള്ള ഡെൽറ്റാ നഗരങ്ങളിൽ നിന്ന് റോഡ് മാർഗം എത്തിച്ചേരാം."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/vaimurnathar-thiruvaimur.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/vaimurnathar-thiruvaimur.mp3",
     "durationSec": 139
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaimurnathar-thiruvaimur.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/vaimurnathar-thiruvaimur.jpg",
     "color": "#5C3A2E",
     "alt": "വായ്മൂർനാഥർ ക്ഷേത്രം, തിരുവായ്മൂർ",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/vaimurnathar-thiruvaimur.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/vaimurnathar-thiruvaimur.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/vaimurnathar-thiruvaimur.jpg"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/vaimurnathar-thiruvaimur.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/vaimurnathar-thiruvaimur.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/ml/vaimurnathar-thiruvaimur.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vaimurnathar-thiruvaimur.jpg",
     "durationSec": 104,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

@@ -35,24 +35,19 @@
     "gettingThere": "തിരുച്ചിറപ്പള്ളി അന്താരാഷ്ട്ര വിമാനത്താവളം ഏകദേശം 60 കി.മീ അകലെയാണ്, തഞ്ചാവൂര്‍ ജംഗ്ഷന്‍ റെയില്‍വേ സ്റ്റേഷന്‍ ക്ഷേത്രത്തില്‍ നിന്ന് 2 കി.മീ-ല്‍ താഴെയാണ്. ചെന്നൈ, ട്രിച്ചി, മധുര എന്നിവിടങ്ങളിലേക്ക് ബസ്, റോഡ് വഴി തഞ്ചാവൂര്‍ നന്നായി ബന്ധിപ്പിച്ചിരിക്കുന്നു."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/brihadeeswarar.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/brihadeeswarar.mp3",
     "durationSec": 474
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/brihadeeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/ml/brihadeeswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/brihadeeswarar.jpg",
     "durationSec": 346,
     "credit": "Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Aalangaram / Wikimedia Commons (CC BY-SA 3.0) · V Adithya Kamath / Wikimedia Commons (CC BY-SA 4.0) · Veera / Wikimedia Commons (CC BY-SA 4.0) · Vigneshtnj / Wikimedia Commons (CC BY-SA 4.0) · Cafeskool / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/brihadeeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "ബൃഹദീശ്വര ക്ഷേത്രം",
-    "credit": "Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Aalangaram / Wikimedia Commons (CC BY-SA 3.0) · V Adithya Kamath / Wikimedia Commons (CC BY-SA 4.0) · Veera / Wikimedia Commons (CC BY-SA 4.0) · Vigneshtnj / Wikimedia Commons (CC BY-SA 4.0) · Cafeskool / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/brihadeeswarar.jpg"
+    "credit": "Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Aalangaram / Wikimedia Commons (CC BY-SA 3.0) · V Adithya Kamath / Wikimedia Commons (CC BY-SA 4.0) · Veera / Wikimedia Commons (CC BY-SA 4.0) · Vigneshtnj / Wikimedia Commons (CC BY-SA 4.0) · Cafeskool / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

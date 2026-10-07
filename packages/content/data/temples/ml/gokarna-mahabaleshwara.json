@@ -32,13 +32,18 @@
     "gettingThere": "ഗോകർണ ഉത്തര കന്നഡ ജില്ലയിൽ തീരത്താണ്, കൊങ്കൺ റെയിൽവേയിൽ സ്വന്തം ചെറിയ റെയിൽവേ സ്റ്റേഷനുണ്ട്; ഗോകർണ റോഡ്, കുംട അടുത്ത റെയിൽഹെഡുകൾ, അടുത്ത വിമാനത്താവളങ്ങൾ ഹുബ്ബള്ളിയും ഗോവ (ഡബോലിം) യും."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/gokarna-mahabaleshwara.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/gokarna-mahabaleshwara.mp3",
     "durationSec": 212
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/gokarna-mahabaleshwara.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.jpg",
     "color": "#5C3A2E",
     "alt": "ഗോകർണ മഹാബലേശ്വര ക്ഷേത്രം",
-    "credit": "Vedamurthy.j / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "Vedamurthy.j / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.avif",
+      "webp": "https://storage.googleapis.com/temples2-media/heroes/gokarna-mahabaleshwara.webp"
+    },
+    "og": "https://storage.googleapis.com/temples2-media/og/gokarna-mahabaleshwara.jpg"
   }
 }

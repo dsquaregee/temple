@@ -35,24 +35,19 @@
     "gettingThere": "చెన్నై అంతర్జాతీయ విమానాశ్రయం సుమారు 60 కి.మీ. దూరంలో ఉంది. ఆలయం నుండి సుమారు 2 కి.మీ. దూరంలోని కంచీపురం రైల్వే స్టేషను చెంగల్‌పట్టు మీదుగా చెన్నై, దక్షిణ మార్గాలకు అనుసంధానిస్తుంది. చెన్నై, వెల్లూరు, తిరుపతిలతో కంచీపురాన్ని తరచు బస్సులు కలుపుతాయి; ఆటోలు, టాక్సీలు ఆలయానికి కొద్ది దూరాన్ని దాటిస్తాయి."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/ekambareswarar.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/ekambareswarar.mp3",
     "durationSec": 385
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/te/ekambareswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/te/ekambareswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ekambareswarar.jpg",
     "durationSec": 423,
     "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/ekambareswarar.jpg",
     "color": "#5C3A2E",
     "alt": "ఏకాంబరేశ్వర ఆలయం",
-    "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/ekambareswarar.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/ekambareswarar.jpg"
+    "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

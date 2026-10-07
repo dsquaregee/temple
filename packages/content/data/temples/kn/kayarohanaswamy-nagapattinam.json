@@ -34,23 +34,18 @@
     "gettingThere": "ನಾಗಪಟ್ಟಿಣಂ ಕಾವೇರಿ ಡೆಲ್ಟಾದ ಕಡಲ ಅಂಚಿನಲ್ಲಿರುವ ಜಿಲ್ಲಾ ಪಟ್ಟಣ; ರಸ್ತೆ ಮತ್ತು ರೈಲು ಮಾರ್ಗದ ಮೂಲಕ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದೆ; ತಿರುವಾರೂರ್ ಮತ್ತು ಇತರ ಡೆಲ್ಟಾ ದೇವಾಲಯ ನಗರಗಳಿಗೆ ಸುಲಭವಾಗಿ ತಲುಪುವ ದೂರದಲ್ಲಿ ಇದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/kayarohanaswamy-nagapattinam.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/kayarohanaswamy-nagapattinam.mp3",
     "durationSec": 160
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/kayarohanaswamy-nagapattinam.jpg",
     "color": "#5C3A2E",
     "alt": "ಕಾಯಾರೋಹಣಸ್ವಾಮಿ ದೇವಾಲಯ, ನಾಗಪಟ್ಟಿಣಂ",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/kayarohanaswamy-nagapattinam.jpg"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/kayarohanaswamy-nagapattinam.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/kn/kayarohanaswamy-nagapattinam.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kayarohanaswamy-nagapattinam.jpg",
     "durationSec": 168,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

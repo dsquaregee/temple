@@ -34,18 +34,18 @@
     "gettingThere": "ക്ഷേത്രം ആലപ്പുഴ ജില്ലയിലെ അമ്പലപ്പുഴയിൽ, ആലപ്പുഴ–കൊല്ലം പാതയിലാണ്. ഏറ്റവും അടുത്ത റെയിൽവേ സ്റ്റേഷനുകൾ അമ്പലപ്പുഴയും ആലപ്പുഴയുമാണ്; ഏറ്റവും അടുത്ത വിമാനത്താവളം കൊച്ചിയാണ്, അവിടെനിന്ന് ടാക്സികളും ബസുകളും ലഭ്യമാണ്."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ml/ambalappuzha-krishna.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ml/ambalappuzha-krishna.mp3",
     "durationSec": 257
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/ambalappuzha-krishna.jpg",
     "color": "#5C3A2E",
     "alt": "അമ്പലപ്പുഴ ശ്രീകൃഷ്ണസ്വാമി ക്ഷേത്രം",
     "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/ml/ambalappuzha-krishna.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/ambalappuzha-krishna.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/ml/ambalappuzha-krishna.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/ambalappuzha-krishna.jpg",
     "durationSec": 186,
     "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }

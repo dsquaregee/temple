@@ -35,24 +35,19 @@
     "gettingThere": "తిరుచిరాపల్లి అంతర్జాతీయ విమానాశ్రయం (సుమారు 90 కి.మీ.) సమీప విమానాశ్రయం. 4 కి.మీ. దూరంలోని కుంభకోణం రైల్వే స్టేషను చెన్నై-తంజావూరు మార్గంలో ఉంది. తంజావూరు, తిరుచ్చి, చెన్నైలకు బస్సు ద్వారా చక్కగా అనుసంధానించబడిన కుంభకోణం నుండి దారాసురం ఆటో-రిక్షా లేదా టాక్సీలో కొద్ది దూరమే."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/airavatesvara.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/airavatesvara.mp3",
     "durationSec": 402
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/te/airavatesvara.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/te/airavatesvara.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.jpg",
     "durationSec": 437,
     "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.jpg",
     "color": "#5C3A2E",
     "alt": "ఐరావతేశ్వర ఆలయం",
-    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/airavatesvara.jpg"
+    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

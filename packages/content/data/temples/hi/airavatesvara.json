@@ -35,24 +35,19 @@
     "gettingThere": "तिरुचिरापल्ली अंतर्राष्ट्रीय हवाई अड्डा (लगभग 90 किमी) निकटतम हवाई अड्डा है। कुम्भकोणम रेलवे स्टेशन, 4 किमी दूर, चेन्नई-तंजावुर लाइन पर है। दारासुरम कुम्भकोणम से एक छोटी ऑटो-रिक्शा या टैक्सी की यात्रा पर है, जो बस द्वारा तंजावुर, त्रिची और चेन्नई से भली-भाँति जुड़ा है।"
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/hi/airavatesvara.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/hi/airavatesvara.mp3",
     "durationSec": 432
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/hi/airavatesvara.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/hi/airavatesvara.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.jpg",
     "durationSec": 391,
     "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/airavatesvara.jpg",
     "color": "#5C3A2E",
     "alt": "ऐरावतेश्वर मंदिर",
-    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/airavatesvara.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/airavatesvara.jpg"
+    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

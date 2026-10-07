@@ -34,23 +34,18 @@
     "gettingThere": "நாகப்பட்டினம் காவிரி டெல்டாவின் கடல் ஓரத்திலுள்ள மாவட்ட நகரம்; சாலை மற்றும் ரயில் வழியாக நன்கு இணைக்கப்பட்டுள்ளது; திருவாரூர் மற்றும் பிற டெல்டாக் கோயில் நகரங்களுக்கு எளிதில் எட்டும் தொலைவில் உள்ளது."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/kayarohanaswamy-nagapattinam.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/kayarohanaswamy-nagapattinam.mp3",
     "durationSec": 178
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/kayarohanaswamy-nagapattinam.jpg",
     "color": "#5C3A2E",
     "alt": "காயாரோகணசுவாமி கோயில், நாகப்பட்டினம்",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/kayarohanaswamy-nagapattinam.jpg"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/kayarohanaswamy-nagapattinam.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/kayarohanaswamy-nagapattinam.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/ta/kayarohanaswamy-nagapattinam.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/kayarohanaswamy-nagapattinam.jpg",
     "durationSec": 168,
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }

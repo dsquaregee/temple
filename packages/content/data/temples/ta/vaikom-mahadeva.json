@@ -34,23 +34,18 @@
     "gettingThere": "இக்கோயில் கோட்டயம் மாவட்டத்தில், வேம்பநாடு நீர்நிலைகளுக்கு அருகில் வைக்கத்தில் அமைந்துள்ளது. அருகிலுள்ள ரயில் நிலையங்கள் கோட்டயம் மற்றும் எர்ணாகுளம்; அருகிலுள்ள விமான நிலையம் கொச்சி. வைக்கத்திற்கு சாலை வழியாகவும், பகுதியின் நீர்வழிப் பாதைகள் வழியாகவும் செல்லலாம்."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/ta/vaikom-mahadeva.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/ta/vaikom-mahadeva.mp3",
     "durationSec": 263
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/vaikom-mahadeva.jpg",
     "color": "#5C3A2E",
     "alt": "வைக்கம் மகாதேவர் கோயில் (வைக்கத்தப்பன்)",
-    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/vaikom-mahadeva.jpg"
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/ta/vaikom-mahadeva.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/vaikom-mahadeva.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/ta/vaikom-mahadeva.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/vaikom-mahadeva.jpg",
     "durationSec": 250,
     "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }

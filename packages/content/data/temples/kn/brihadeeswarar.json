@@ -35,24 +35,19 @@
     "gettingThere": "ತಿರುಚ್ಚಿರಾಪಳ್ಳಿ ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ ಸುಮಾರು 60 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ, ಮತ್ತು ತಂಜಾವೂರು ಜಂಕ್ಷನ್ ರೈಲು ನಿಲ್ದಾಣ ದೇವಾಲಯದಿಂದ 2 ಕಿ.ಮೀಗಿಂತ ಕಡಿಮೆ ದೂರದಲ್ಲಿದೆ. ತಂಜಾವೂರು ಚೆನ್ನೈ, ಟ್ರಿಚಿ ಮತ್ತು ಮಧುರೈಗೆ ಬಸ್ ಹಾಗೂ ರಸ್ತೆ ಮೂಲಕ ಚೆನ್ನಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದೆ."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/kn/brihadeeswarar.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/kn/brihadeeswarar.mp3",
     "durationSec": 403
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/kn/brihadeeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/kn/brihadeeswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/brihadeeswarar.jpg",
     "durationSec": 421,
     "credit": "Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Aalangaram / Wikimedia Commons (CC BY-SA 3.0) · V Adithya Kamath / Wikimedia Commons (CC BY-SA 4.0) · Veera / Wikimedia Commons (CC BY-SA 4.0) · Vigneshtnj / Wikimedia Commons (CC BY-SA 4.0) · Cafeskool / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/brihadeeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "ಬೃಹದೀಶ್ವರ ದೇವಾಲಯ",
-    "credit": "Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Aalangaram / Wikimedia Commons (CC BY-SA 3.0) · V Adithya Kamath / Wikimedia Commons (CC BY-SA 4.0) · Veera / Wikimedia Commons (CC BY-SA 4.0) · Vigneshtnj / Wikimedia Commons (CC BY-SA 4.0) · Cafeskool / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/brihadeeswarar.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/brihadeeswarar.jpg"
+    "credit": "Original: Rainer Halama Derivative work: UnpetitproleX / Wikimedia Commons (CC BY-SA 4.0) · Aalangaram / Wikimedia Commons (CC BY-SA 3.0) · V Adithya Kamath / Wikimedia Commons (CC BY-SA 4.0) · Veera / Wikimedia Commons (CC BY-SA 4.0) · Vigneshtnj / Wikimedia Commons (CC BY-SA 4.0) · Cafeskool / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

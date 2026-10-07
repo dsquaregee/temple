@@ -34,24 +34,19 @@
     "gettingThere": "ఈ ఆలయం తిరుచిరాపల్లిలోని శ్రీరంగం ద్వీపంలో, రంగనాథస్వామి ఆలయానికి తూర్పున సుమారు 2 కి.మీ. దూరంలో ఉంది. తిరుచిరాపల్లి అంతర్జాతీయ విమానాశ్రయం సుమారు 12 కి.మీ. దూరంలో ఉంది; తిరుచిరాపల్లి జంక్షన్ రైల్వే స్టేషను సుమారు 8 కి.మీ. తిరువానైక్కావల్‌కు నగర బస్సులు, ఆటోరిక్షాలు తరచు నడుస్తాయి."
   },
   "audio": {
-    "storyUrl": "https://storage.googleapis.com/temple-502523-audio/audio/te/jambukeswarar.mp3",
+    "storyUrl": "https://storage.googleapis.com/temples2-audio/audio/te/jambukeswarar.mp3",
     "durationSec": 372
   },
   "video": {
-    "url": "https://storage.googleapis.com/temple-502523-media/video/te/jambukeswarar.mp4",
-    "posterUrl": "https://storage.googleapis.com/temple-502523-media/heroes/jambukeswarar.jpg",
+    "url": "https://storage.googleapis.com/temples2-media/video/te/jambukeswarar.mp4",
+    "posterUrl": "https://storage.googleapis.com/temples2-media/heroes/jambukeswarar.jpg",
     "durationSec": 408,
     "credit": "prakashkumar / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   },
   "hero": {
-    "src": "https://storage.googleapis.com/temple-502523-media/heroes/jambukeswarar.jpg",
+    "src": "https://storage.googleapis.com/temples2-media/heroes/jambukeswarar.jpg",
     "color": "#5C3A2E",
     "alt": "జంబుకేశ్వర ఆలయం, తిరువానైక్కావల్",
-    "credit": "prakashkumar / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
-    "sources": {
-      "avif": "https://storage.googleapis.com/temple-502523-media/heroes/jambukeswarar.avif",
-      "webp": "https://storage.googleapis.com/temple-502523-media/heroes/jambukeswarar.webp"
-    },
-    "og": "https://storage.googleapis.com/temple-502523-media/og/jambukeswarar.jpg"
+    "credit": "prakashkumar / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
