@@ -1,6 +1,15 @@
 # Migrating to a new GCP / Firebase project
 
-Use this when the current project (`temple-502523`) must be replaced — e.g. it was
+> **Status (2026-10-07): executed once — `temple-502523` → `temples2`.** Repo
+> retargeted (`infra/migrate-project.mjs --to temples2`), Firestore `temples2`
+> database created in `asia-south1`, and all media regenerated into the
+> `temples2-media` / `temples2-audio` buckets (audio 101×6, heroes 92,
+> AVIF/WebP/OG variants, narrated video 78×6) — all verified live. The work sits
+> on PR #40; the production publish (merge → `deploy.yml`) + the
+> `temples.dsquaregee.com` DNS repoint remain owner steps. This runbook is kept
+> generic for any future migration.
+
+Use this when the current project must be replaced — e.g. it was
 locked/suspended and a fresh project is needed. The repo is parameterised so the
 **code side is a single command**; the **GCP side needs the owner's Google
 credentials** (project + buckets + service-account key can't be created from CI or

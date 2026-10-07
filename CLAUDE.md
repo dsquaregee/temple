@@ -22,7 +22,7 @@ Each gate requires owner sign-off before the next phase starts.
 | 2. UX/Design | ✅ Complete, gate passed 2026-07 |
 | 3. Build | 🔨 Feature-complete for v1, owner gate pending (both PWA + native; **82 temples × 6 languages**, 16 circuits — catalog expanded past the D6 launch core via owner-merged PRs #17–#30) |
 | 4. Test/Harden | 🔨 In progress (unit + content-invariant suite, translation QA, CSP hardening, per-page byte budget, Lighthouse CI all in place — see docs/testing.md) |
-| 5. Deploy | 🔨 Prep in progress (static export, Firebase hosting/CSP/security headers, Firestore rules, deploy pipeline ready; **monitoring choice + owner gate outstanding** — see docs/deploy-readiness.md). ⚠️ **Project `temple-502523` was locked by Google; a replacement project is needed.** The repo is parameterised for a one-command retarget (`infra/migrate-project.mjs`) — full runbook (owner GCP steps + repo codemod + media move) in **docs/migrate-project.md**. |
+| 5. Deploy | 🔨 Prep in progress (static export, Firebase hosting/CSP/security headers, Firestore rules, deploy pipeline ready; **monitoring choice + owner gate outstanding** — see docs/deploy-readiness.md). **Project migrated `temple-502523` → `temples2`** (old project Google-locked): repo retargeted via `infra/migrate-project.mjs`, Firestore `temples2` db in `asia-south1`, and **all media regenerated + verified in the new `temples2-media`/`temples2-audio` buckets** (audio 101×6, heroes 92, AVIF/WebP/OG variants, narrated video 78×6) on PR #40. The one remaining step is the **owner approving the production publish** (merge PR #40 → `deploy.yml` → `temples2.web.app`) + repointing the `temples.dsquaregee.com` DNS. Runbook: **docs/migrate-project.md**. |
 
 ## Locked decisions (owner-approved at gates)
 
