@@ -69,6 +69,7 @@ export interface UiStrings {
     videoStory: string;
     languageName: string;
   };
+  footer: { follow: string };
 }
 
 export const strings: Record<Locale, UiStrings> = {
@@ -137,6 +138,7 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'Video story',
       languageName: 'English',
     },
+    footer: { follow: 'Follow' },
   },
   ta: {
     appName: 'கோயில்',
@@ -203,6 +205,7 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'காணொளிக் கதை',
       languageName: 'தமிழ்',
     },
+    footer: { follow: 'பின்தொடருங்கள்' },
   },
   te: {
     appName: 'ఆలయం',
@@ -269,6 +272,7 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'వీడియో కథ',
       languageName: 'తెలుగు',
     },
+    footer: { follow: 'అనుసరించండి' },
   },
   kn: {
     appName: 'ದೇವಾಲಯ',
@@ -335,6 +339,7 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'ವಿಡಿಯೋ ಕಥೆ',
       languageName: 'ಕನ್ನಡ',
     },
+    footer: { follow: 'ಅನುಸರಿಸಿ' },
   },
   ml: {
     appName: 'ക്ഷേത്രം',
@@ -401,6 +406,7 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'വീഡിയോ കഥ',
       languageName: 'മലയാളം',
     },
+    footer: { follow: 'പിന്തുടരൂ' },
   },
   hi: {
     appName: 'मंदिर',
@@ -467,6 +473,7 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'वीडियो कथा',
       languageName: 'हिन्दी',
     },
+    footer: { follow: 'फ़ॉलो करें' },
   },
 };
 

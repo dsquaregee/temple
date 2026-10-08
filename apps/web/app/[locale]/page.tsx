@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { epochDay, indexOfDay, t, type Locale } from '@temple/core';
 import { getCircuits, getTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
-import { SITE_URL } from '@/lib/site';
+import { SITE_URL, SOCIAL } from '@/lib/site';
 import { absUrl } from '@/lib/jsonld';
 import { heroFor } from '@/lib/hero';
 import { PageChrome } from '@/components/PageChrome';
@@ -80,6 +80,8 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
     name: 'dsquaregee',
     url: SITE_URL,
     logo: absUrl('icon.svg'),
+    // Ties the site to its social channels in Google's entity graph.
+    sameAs: SOCIAL.map((s) => s.url),
   };
 
   return (
