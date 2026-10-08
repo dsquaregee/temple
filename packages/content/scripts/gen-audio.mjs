@@ -36,9 +36,10 @@ const LIMIT = process.env.AUDIO_LIMIT ? Number(process.env.AUDIO_LIMIT) : Infini
 const ONLY = process.env.AUDIO_LOCALES ? process.env.AUDIO_LOCALES.split(',') : null;
 const SAMPLE = process.env.AUDIO_SAMPLE ? process.env.AUDIO_SAMPLE.split(',').map((s) => s.trim()).filter(Boolean) : null;
 
-// Neural2 where available, else Wavenet/Standard. Override per project needs.
+// English: Chirp 3 HD (owner-chosen 2026-10-08, with the pronunciation lexicon);
+// other locales Neural2 where available, else Wavenet/Standard.
 const VOICES = {
-  en: { languageCode: 'en-IN', name: process.env.AUDIO_EN_VOICE || 'en-IN-Neural2-A' },
+  en: { languageCode: 'en-IN', name: process.env.AUDIO_EN_VOICE || 'en-IN-Chirp3-HD-Kore' },
   hi: { languageCode: 'hi-IN', name: 'hi-IN-Neural2-A' },
   ta: { languageCode: 'ta-IN', name: 'ta-IN-Wavenet-A' },
   te: { languageCode: 'te-IN', name: 'te-IN-Standard-A' },
@@ -46,6 +47,13 @@ const VOICES = {
   ml: { languageCode: 'ml-IN', name: 'ml-IN-Wavenet-A' },
 };
 const LOCALES = (ONLY ?? Object.keys(VOICES)).filter((l) => VOICES[l]);
+
+// Per-locale object-path revision. Audio is served `immutable` for a year, so a
+// voice change must land at a new URL or browsers/CDN keep the old narration.
+// Bump a locale's rev when its voice or lexicon changes materially; the resume
+// check below then regenerates every file for that locale (URL mismatch).
+const REV = { en: 'v2' };
+const audioPath = (locale, id) => `audio/${locale}/${REV[locale] ? `${REV[locale]}/` : ''}${id}.mp3`;
 
 // Voices compared in sample mode: today's voice as the baseline, then the newer
 // Chirp 3 HD Indian-English voices without and with the pronunciation lexicon.
@@ -215,7 +223,7 @@ for (const locale of LOCALES) {
   for (const file of files) {
     const path = join(dir, file);
     const doc = JSON.parse(readFileSync(path, 'utf8'));
-    const expectedUrl = `${PUBLIC_BASE}/audio/${locale}/${doc.id}.mp3`;
+    const expectedUrl = `${PUBLIC_BASE}/${audioPath(locale, doc.id)}`;
     // Resume: skip files already generated (unless AUDIO_FORCE=1).
     if (!process.env.AUDIO_FORCE && doc.audio?.storyUrl === expectedUrl) {
       console.log(`· ${locale}/${doc.id} (already done, skipping)`);
@@ -224,7 +232,7 @@ for (const locale of LOCALES) {
     const text = narration(doc);
     const mp3 = await synth(locale === 'en' ? applyLexicon(text) : text, locale);
 
-    const objectPath = `audio/${locale}/${doc.id}.mp3`;
+    const objectPath = audioPath(locale, doc.id);
     const gcsFile = bucket.file(objectPath);
     await gcsFile.save(mp3, {
       contentType: 'audio/mpeg',
