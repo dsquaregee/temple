@@ -398,6 +398,14 @@ if (bucket) {
 }
 
 const enDir = join(dataDir, 'temples', 'en');
+// VIDEO_KEEP_HERO=1: re-render videos only (e.g. after a narration voice
+// change) without re-uploading or re-setting the hero photo, which is served
+// immutable and has AVIF/WebP variants derived from it.
+const KEEP_HERO = !!process.env.VIDEO_KEEP_HERO;
+// Per-locale object-path revision, mirroring gen-audio's REV: videos are served
+// immutable, so re-rendered narration must land at a new URL.
+const VIDEO_REV = { en: 'v2' };
+const videoPath = (locale, id) => `video/${locale}/${VIDEO_REV[locale] ? `${VIDEO_REV[locale]}/` : ''}${id}.mp4`;
 const ONLY_IDS = process.env.VIDEO_ONLY ? new Set(process.env.VIDEO_ONLY.split(',')) : null;
 const SKIP_DONE = !!process.env.VIDEO_RESUME; // skip temples whose en doc already has video
 const ids = readdirSync(enDir)
@@ -457,11 +465,13 @@ for (const id of ids) {
 
     // Upload the top photo as the real hero image (language-agnostic).
     const heroObj = `heroes/${id}.jpg`;
-    await bucket.file(heroObj).save(readFileSync(imgPaths[0]), {
-      contentType: 'image/jpeg',
-      metadata: { cacheControl: 'public, max-age=31536000, immutable' },
-      resumable: false,
-    });
+    if (!KEEP_HERO) {
+      await bucket.file(heroObj).save(readFileSync(imgPaths[0]), {
+        contentType: 'image/jpeg',
+        metadata: { cacheControl: 'public, max-age=31536000, immutable' },
+        resumable: false,
+      });
+    }
     const heroUrl = `${PUBLIC_BASE}/${heroObj}`;
 
     for (const locale of LOCALES) {
@@ -476,7 +486,9 @@ for (const id of ids) {
       // that gen-hero-variants may have already written are preserved — only the
       // base photo fields are (re)set here. (Previously this replaced the whole
       // hero object, clobbering variants when a video run followed a variants run.)
-      doc.hero = { ...doc.hero, src: heroUrl, color: doc.hero?.color || '#5C3A2E', alt: `${doc.name}`, credit };
+      if (!KEEP_HERO) {
+        doc.hero = { ...doc.hero, src: heroUrl, color: doc.hero?.color || '#5C3A2E', alt: `${doc.name}`, credit };
+      }
 
       const audioUrl = doc.audio?.storyUrl;
       if (canVideo && audioUrl) {
@@ -487,7 +499,7 @@ for (const id of ids) {
         const out = join(tdir, `${locale}.mp4`);
         renderVideo(imgPaths, audioPath, out, audioDur);
 
-        const obj = `video/${locale}/${id}.mp4`;
+        const obj = videoPath(locale, id);
         await bucket.file(obj).save(readFileSync(out), {
           contentType: 'video/mp4',
           metadata: { cacheControl: 'public, max-age=31536000, immutable' },
@@ -495,7 +507,7 @@ for (const id of ids) {
         });
         doc.video = {
           url: `${PUBLIC_BASE}/${obj}`,
-          posterUrl: heroUrl,
+          posterUrl: KEEP_HERO ? doc.hero?.src || heroUrl : heroUrl,
           durationSec: audioDur,
           credit,
         };
