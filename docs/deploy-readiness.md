@@ -26,8 +26,12 @@ front, Firestore holds user state only, content-only v1).
   Firebase Auth account linking). Applied globally via a `**` headers rule.
 - **Content-Security-Policy** — global CSP (header) locking `default-src` to
   `'self'`, `object-src`/`frame-ancestors`/`base-uri` down, `img-src`/
-  `media-src`/`connect-src` to `'self'` + `storage.googleapis.com` (the media
-  bucket), and `upgrade-insecure-requests`.
+  `media-src`/`connect-src` to `'self'` + the R2 media hosts
+  (`media.dsquaregee.com`, `audio.dsquaregee.com`), and
+  `upgrade-insecure-requests`. (The transitional `storage.googleapis.com`
+  allowance was dropped once media served from R2.) The live policy is in
+  `apps/web/public/_headers`; `firebase.json` keeps a mirror for the
+  `csp-parity.test.ts` script-src guard.
 - **CSP script hashing** — a postbuild step (`apps/web/scripts/csp-hashes.mjs`)
   computes the SHA-256 of every executable inline script per page and injects a
   per-page `<meta>` CSP with `script-src 'self' <hashes>` and **no
