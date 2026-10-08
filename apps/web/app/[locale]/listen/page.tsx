@@ -4,6 +4,7 @@ import { getTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { PageChrome } from '@/components/PageChrome';
 import { ListenPlayer } from '@/components/ListenPlayer';
+import { MusicCta } from '@/components/MusicCta';
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -36,6 +37,8 @@ export default function ListenPage({ params }: { params: { locale: Locale } }) {
       <div className="pagehead">
         <h1>{ui.tabs.listen}</h1>
       </div>
+
+      <MusicCta locale={locale} />
 
       {ready.length === 0 && (
         <div className="callout">

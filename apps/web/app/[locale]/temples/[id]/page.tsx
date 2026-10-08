@@ -15,6 +15,7 @@ import { SavableTempleCard } from '@/components/SavableTempleCard';
 import { TempleHero } from '@/components/TempleHero';
 import { AudioStory } from '@/components/AudioStory';
 import { VideoStory } from '@/components/VideoStory';
+import { MusicCta } from '@/components/MusicCta';
 
 export const dynamicParams = false;
 
@@ -181,6 +182,8 @@ export default function TempleDetail({
       <AudioStory temple={temple} ui={ui} />
 
       <VideoStory temple={temple} ui={ui} />
+
+      <MusicCta locale={locale} />
 
       <section className="section" aria-labelledby="why-h">
         <h2 id="why-h">{ui.labels.whyItMatters}</h2>
