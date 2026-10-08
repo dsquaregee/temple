@@ -38,6 +38,11 @@ stays intact so the cutover is reversible: deploy to Cloudflare, verify on the
    (served from R2), `/en` `/ta` `/te` all render, and the browser console shows
    no CSP errors (the service worker + manifest should load).
 
+> **Status (2026-10-08): done.** The domain is cut over and verified —
+> `temples.dsquaregee.com` is served by Cloudflare (`server: cloudflare`) with
+> R2 media, single-valued cache headers, and CSP/HSTS intact. Firebase Hosting
+> has been retired (Part 4). The steps below are kept as the runbook of record.
+
 ## Part 3 — Cut the custom domain over (owner)
 
 Only after Part 2 looks right:
@@ -53,20 +58,22 @@ Only after Part 2 looks right:
 > If you still see a stale page on your own machine right after the cutover,
 > hard-reload or use an incognito window (the v3 service worker self-heals).
 
-## Part 4 — Retire Firebase Hosting (optional, after a day or two)
+## Part 4 — Retire Firebase Hosting (done)
 
-- Delete `.github/workflows/deploy.yml` (the Firebase deploy), or leave it as a
-  warm fallback publishing to `temples2.web.app` (harmless).
-- Keep the Firebase project for when you add account features later; nothing in
-  the live site uses Firestore/Auth today.
+- `.github/workflows/deploy.yml` (the Firebase hosting/Firestore-rules deploy) has
+  been **removed** — Cloudflare Workers Builds handles deploys now.
+- The Firebase project (`temples2`) is kept for when account features are added
+  later; nothing in the live site uses Firestore/Auth today. Firestore rules are
+  no longer auto-deployed — push them manually with
+  `firebase deploy --only firestore:rules --project temples2` if you add them.
 
 ## Notes
 
-- **Only hosting moves.** Media stays on R2; generation still uses the GCS staging
+- **Only hosting moved.** Media stays on R2; generation still uses the GCS staging
   buckets + Cloud TTS. See `docs/migrate-project.md`.
-- **Headers parity.** While both hosts run, keep `_headers` and `firebase.json`'s
-  headers in sync (the CSP especially — `apps/web/test/csp-parity.test.ts` guards
-  the script-src side).
+- **CSP source of truth is now `_headers`.** `firebase.json` is no longer part of
+  the serving path; keep the CSP in `apps/web/public/_headers` current (the
+  `apps/web/test/csp-parity.test.ts` guard still cross-checks the script-src side).
 - **Config:** `wrangler.jsonc` (repo root) points Static Assets at `apps/web/out`
   and serves `404.html` for unmatched routes. Trailing-slash directories resolve
   to `index.html` natively.
