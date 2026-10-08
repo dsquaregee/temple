@@ -11,8 +11,7 @@ export const YOUTUBE_CHANNEL = 'https://www.youtube.com/@DeeSqrGee';
 // playlist names, kept in English like the DeeSqrGee handle. Ordered devotional
 // first to match the reverent tone. The Listen tab lists all of these; temple
 // pages link only the deity-music one (TEMPLE_MUSIC_PLAYLIST).
-// (A "Dark Psytrance & Indian Electronic" playlist was intentionally left out as
-// off-tone for a devotional catalog — add it here if that call changes.)
+// The high-energy electronic playlist sits last, after the devotional ones.
 export const PLAYLISTS = [
   {
     id: 'devotional-fusion',
@@ -43,6 +42,12 @@ export const PLAYLISTS = [
     title: 'Midnight Fusion',
     blurb: 'Chill Indian instrumentals for sleep & study',
     url: 'https://www.youtube.com/playlist?list=PLWAPRXFPrd6Lj494xzj7UCBgodcKXOVPl',
+  },
+  {
+    id: 'psytrance',
+    title: 'Dark Psytrance & Indian Electronic',
+    blurb: 'High-energy Indian electronic',
+    url: 'https://www.youtube.com/playlist?list=PLWAPRXFPrd6I0AXNq3NbFn06IvRIskRCJ',
   },
 ] as const;
 

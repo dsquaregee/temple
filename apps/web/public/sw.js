@@ -9,7 +9,9 @@
 // VERSION, so a bump purges all prior precached/runtime pages on next visit.
 // v3: force returning visitors off the pre-migration (temple-502523) caches so
 // same-origin pages aren't served stale after the temples2 cutover.
-const VERSION = 'v3';
+// v4: purge pages cached before the Listen-tab playlist hub shipped, so
+// returning visitors don't keep seeing the old single-channel music card.
+const VERSION = 'v4';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];
