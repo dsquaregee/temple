@@ -6,10 +6,10 @@ festivals, and darshan guidance for each temple, in six languages.
 
 Owner: dsquaregee · support@dsquaregee.com
 
-> Phase 3 (Build) — PWA and native apps built in parallel over a shared content
-> core. The catalog now covers the full researched set — **42 temples × 6
-> languages** across **8 pilgrimage circuits** (v1's committed scope was
-> 10 × 6 / 2 circuits). See
+> Phase 3 (Build) complete — owner gate passed 2026-10-08. PWA and native apps
+> built in parallel over a shared content core; the catalog covers **82 temples
+> × 6 languages** across **16 pilgrimage circuits** (v1's committed scope was
+> 10 × 6 / 2 circuits). Phase 4 (Test/Harden) in progress; live on Cloudflare. See
 > `CLAUDE.md` for the full product brief and locked decisions.
 
 ## Monorepo layout
@@ -141,8 +141,8 @@ firebase deploy --only hosting,firestore:rules
 
 ## Status & caveats
 
-- Phase 3 build well underway: scaffold, content (42 temples × 6 locales, 8
-  circuits), web PWA, mobile shell, and infra are in place. Phase 4
+- Phase 3 build complete (owner gate passed 2026-10-08): scaffold, content
+  (82 temples × 6 locales, 16 circuits), web PWA, mobile app, and infra. Phase 4
   (Test/Harden) has begun — automated tests, a CI performance budget, security
   response headers + CSP, and PWA raster icons all landed; see
   `docs/deploy-readiness.md` for the remaining Phase 5 checklist.

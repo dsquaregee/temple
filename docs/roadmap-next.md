@@ -25,8 +25,8 @@ hashes, byte budget, Lighthouse a11y/SEO/best-practices/CLS all green)._
    metrics) ships with no code change; any client RUM needs a two-file CSP
    allowance. Recommendation: launch on the edge option, revisit RUM only if
    Core Web Vitals field data becomes a launch requirement.
-2. **Phase 3 → 4 → 5 gate sign-off** — the build is v1 feature-complete; the
-   phase gates await explicit owner sign-off per the phase-gate methodology.
+2. **Phase gate sign-off** — Phase 3 (Build) signed off by the owner
+   2026-10-08. Phase 4 (Test/Harden) gate still awaits sign-off.
 
 ## Gaps found, by area
 
