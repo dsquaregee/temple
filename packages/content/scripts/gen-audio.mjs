@@ -6,8 +6,13 @@
 // Usage:
 //   GOOGLE_APPLICATION_CREDENTIALS=/path/to/sa-key.json \
 //   AUDIO_BUCKET=temples2-audio \
-//   [AUDIO_LIMIT=1] [AUDIO_LOCALES=en,hi] \
+//   [AUDIO_LIMIT=1] [AUDIO_LOCALES=en,hi] [AUDIO_EN_VOICE=en-IN-Chirp3-HD-Kore] \
 //   node packages/content/scripts/gen-audio.mjs
+//
+// Sample mode — AUDIO_SAMPLE=brihadeeswarar,ekambareswarar renders each listed
+// temple's English narration once per SAMPLE_VARIANTS entry (voice × lexicon on/
+// off) to audio/samples/en/<id>/<variant>.mp3 and prints the URLs. It writes no
+// content, so nothing changes on the site; it's for comparing voices by ear.
 //
 // Deps (install once): pnpm --filter @temple/content add -D \
 //   @google-cloud/text-to-speech @google-cloud/storage
@@ -29,10 +34,11 @@ if (!BUCKET) throw new Error('Set AUDIO_BUCKET to the target Cloud Storage bucke
 const PUBLIC_BASE = (process.env.AUDIO_PUBLIC_BASE || 'https://audio.dsquaregee.com').replace(/\/$/, '');
 const LIMIT = process.env.AUDIO_LIMIT ? Number(process.env.AUDIO_LIMIT) : Infinity;
 const ONLY = process.env.AUDIO_LOCALES ? process.env.AUDIO_LOCALES.split(',') : null;
+const SAMPLE = process.env.AUDIO_SAMPLE ? process.env.AUDIO_SAMPLE.split(',').map((s) => s.trim()).filter(Boolean) : null;
 
 // Neural2 where available, else Wavenet/Standard. Override per project needs.
 const VOICES = {
-  en: { languageCode: 'en-IN', name: 'en-IN-Neural2-A' },
+  en: { languageCode: 'en-IN', name: process.env.AUDIO_EN_VOICE || 'en-IN-Neural2-A' },
   hi: { languageCode: 'hi-IN', name: 'hi-IN-Neural2-A' },
   ta: { languageCode: 'ta-IN', name: 'ta-IN-Wavenet-A' },
   te: { languageCode: 'te-IN', name: 'te-IN-Standard-A' },
@@ -40,6 +46,25 @@ const VOICES = {
   ml: { languageCode: 'ml-IN', name: 'ml-IN-Wavenet-A' },
 };
 const LOCALES = (ONLY ?? Object.keys(VOICES)).filter((l) => VOICES[l]);
+
+// Voices compared in sample mode: today's voice as the baseline, then the newer
+// Chirp 3 HD Indian-English voices without and with the pronunciation lexicon.
+const SAMPLE_VARIANTS = [
+  { key: 'current-neural2', name: 'en-IN-Neural2-A', lexicon: false },
+  { key: 'chirp3-kore', name: 'en-IN-Chirp3-HD-Kore', lexicon: false },
+  { key: 'chirp3-kore-lexicon', name: 'en-IN-Chirp3-HD-Kore', lexicon: true },
+  { key: 'chirp3-charon-lexicon', name: 'en-IN-Chirp3-HD-Charon', lexicon: true },
+];
+
+// English pronunciation lexicon (data/pronunciation/en.json): Sanskrit/Tamil
+// words → phonetic respellings, substituted into the TTS input only. Longest
+// keys first so compounds win over their parts; plurals/possessives keep their
+// suffix because the match is on the bare word.
+const lexiconPath = join(root, '..', 'data', 'pronunciation', 'en.json');
+const LEXICON = Object.entries(JSON.parse(readFileSync(lexiconPath, 'utf8')).words)
+  .sort((a, b) => b[0].length - a[0].length)
+  .map(([word, say]) => [new RegExp(`\\b${word}(?=s?\\b)`, 'gi'), say]);
+const applyLexicon = (text) => LEXICON.reduce((t, [re, say]) => t.replace(re, say), text);
 
 const tts = new textToSpeech.TextToSpeechClient();
 const storage = new Storage();
@@ -110,19 +135,36 @@ function narration(doc) {
   ].filter(Boolean).join('\n\n');
 }
 
-async function synth(text, locale) {
-  const v = VOICES[locale];
-  const audioConfig = { audioEncoding: 'MP3', speakingRate: 0.98 };
+async function synth(text, locale, voice = VOICES[locale], { strict = false } = {}) {
+  const v = voice;
+  let audioConfig = { audioEncoding: 'MP3', speakingRate: 0.98 };
   const buffers = [];
   for (const c of chunk(text)) {
     let res;
-    try {
-      [res] = await tts.synthesizeSpeech({
+    const request = () =>
+      tts.synthesizeSpeech({
         input: { text: c },
         voice: { languageCode: v.languageCode, name: v.name },
         audioConfig,
       });
+    try {
+      [res] = await request();
     } catch (e) {
+      // Some voice families reject speakingRate; retry the same voice at the
+      // default rate before giving up on it.
+      try {
+        audioConfig = { audioEncoding: 'MP3' };
+        [res] = await request();
+        console.warn(`  ! ${v.name}: speakingRate rejected, using default rate`);
+        buffers.push(Buffer.from(res.audioContent, 'base64'));
+        continue;
+      } catch {
+        // fall through
+      }
+      // Sample mode compares named voices, so a silent substitution would
+      // mislabel the sample — fail loudly instead.
+      if (strict) throw new Error(`${v.name}: ${e.message.split('\n')[0]}`);
+      console.warn(`  ! ${v.name} unavailable (${e.message.split('\n')[0]}); using the default ${v.languageCode} voice`);
       // Fall back to any default voice for the language if the named one is
       // unavailable in this project/region.
       [res] = await tts.synthesizeSpeech({
@@ -142,6 +184,30 @@ const estimateSec = (text) => Math.max(1, Math.round(text.length / 13));
 
 await ensureBucket();
 
+if (SAMPLE) {
+  const urls = [];
+  for (const id of SAMPLE) {
+    const doc = JSON.parse(readFileSync(join(templesDir, 'en', `${id}.json`), 'utf8'));
+    const text = narration(doc);
+    for (const variant of SAMPLE_VARIANTS) {
+      const input = variant.lexicon ? applyLexicon(text) : text;
+      const mp3 = await synth(input, 'en', { languageCode: 'en-IN', name: variant.name }, { strict: true });
+      const objectPath = `audio/samples/en/${id}/${variant.key}.mp3`;
+      await bucket.file(objectPath).save(mp3, {
+        contentType: 'audio/mpeg',
+        metadata: { cacheControl: 'no-cache' },
+        resumable: false,
+      });
+      // Samples aren't mirrored to R2, so link the public GCS object directly.
+      const url = `https://storage.googleapis.com/${BUCKET}/${objectPath}`;
+      urls.push(url);
+      console.log(`✓ sample ${id} · ${variant.key}  (${(mp3.length / 1024).toFixed(0)} KB)\n  ${url}`);
+    }
+  }
+  console.log(`\ngen-audio: wrote ${urls.length} sample(s); no content changed.`);
+  process.exit(0);
+}
+
 let done = 0;
 for (const locale of LOCALES) {
   const dir = join(templesDir, locale);
@@ -156,7 +222,7 @@ for (const locale of LOCALES) {
       continue;
     }
     const text = narration(doc);
-    const mp3 = await synth(text, locale);
+    const mp3 = await synth(locale === 'en' ? applyLexicon(text) : text, locale);
 
     const objectPath = `audio/${locale}/${doc.id}.mp3`;
     const gcsFile = bucket.file(objectPath);

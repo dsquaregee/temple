@@ -89,6 +89,21 @@ for (const locale of LOCALES) {
     errors.push(`locale ${locale}: circuit set differs from en`);
 }
 
+// The English pronunciation lexicon: keys become word-boundary regexes in
+// gen-audio.mjs, so they must be plain letters (no regex metacharacters).
+{
+  const ctx = 'pronunciation/en.json';
+  try {
+    const { words } = JSON.parse(readFileSync(join(dataDir, 'pronunciation', 'en.json'), 'utf8'));
+    for (const [word, say] of Object.entries(words ?? {})) {
+      if (!/^[A-Za-z]+$/.test(word)) errors.push(`${ctx}: key "${word}" must be letters only`);
+      if (typeof say !== 'string' || !say.trim()) errors.push(`${ctx}: "${word}" has no respelling`);
+    }
+  } catch (e) {
+    errors.push(`${ctx}: ${e.message}`);
+  }
+}
+
 if (errors.length) {
   console.error(`✗ ${errors.length} content error(s):`);
   for (const e of errors) console.error('  - ' + e);
