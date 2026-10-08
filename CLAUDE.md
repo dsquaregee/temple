@@ -72,6 +72,18 @@ gangaikonda-cholapuram, airavatesvara. Pancha Bhoota Sthalams: ekambareswarar
 (earth), jambukeswarar (water), arunachaleswarar (fire), srikalahasti (air),
 nataraja-chidambaram (space). Plus: meenakshi-madurai, ramanathaswamy-rameswaram.
 
+## Narration audio
+
+- English: Google Cloud TTS **Chirp 3 HD `en-IN-Chirp3-HD-Kore`** (owner-chosen
+  2026-10-08) with a **pronunciation lexicon** — `packages/content/data/pronunciation/en.json`
+  maps Sanskrit/Tamil words to phonetic respellings (audio only; on-screen text
+  unchanged). Mispronounced word → add an entry, bump `REV.en` in
+  `scripts/gen-audio.mjs` (+ `VIDEO_REV.en` in `gen-video.mjs`), re-run `audio.yml`
+  (locales=en), the R2 backup, then `media.yml` (locales=en, keep_hero). Paths are
+  versioned because media is served `immutable`.
+- Other locales: Neural2/Wavenet voices, unversioned paths.
+- `audio.yml` `sample=<ids>` renders voice comparison samples without touching content.
+
 ## Repo layout
 
 - `apps/web` — Next.js App Router PWA (SSG temple pages, minimal SW)
