@@ -17,6 +17,14 @@ on:
         description: Regenerate even if the audio URL already exists
         type: boolean
         default: false
+      sample:
+        description: Temple ids to render as English voice samples (no content change), e.g. brihadeeswarar,ekambareswarar
+        type: string
+        default: ''
+      en_voice:
+        description: English voice for a full run (empty = script default)
+        type: string
+        default: ''
 
 permissions:
   contents: write
@@ -28,7 +36,7 @@ concurrency:
 jobs:
   audio:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 300
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -55,6 +63,8 @@ jobs:
           AUDIO_BUCKET: temples2-audio
           AUDIO_LOCALES: ${{ inputs.locales }}
           AUDIO_FORCE: ${{ inputs.force && '1' || '' }}
+          AUDIO_SAMPLE: ${{ inputs.sample }}
+          AUDIO_EN_VOICE: ${{ inputs.en_voice }}
         run: node packages/content/scripts/gen-audio.mjs
 
       - name: Clean up credentials

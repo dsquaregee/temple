@@ -29,6 +29,10 @@ on:
         description: Set the hero photo only — skip the (slow) Ken Burns video render
         type: boolean
         default: false
+      keep_hero:
+        description: Re-render videos only — leave hero photos untouched (e.g. after a voice change)
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -73,6 +77,7 @@ jobs:
           VIDEO_RESUME: ${{ inputs.resume && '1' || '' }}
           VIDEO_ONLY: ${{ inputs.only }}
           VIDEO_LOCALES: ${{ inputs.locales }}
+          VIDEO_KEEP_HERO: ${{ inputs.keep_hero && '1' || '' }}
           # hero_only: raise the video photo-count gate out of reach so every
           # temple with ≥1 qualifying photo still gets its hero, but no Ken Burns
           # video is rendered (fast, cheap — ideal for hero backfill batches).
