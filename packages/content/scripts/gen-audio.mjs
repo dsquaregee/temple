@@ -216,37 +216,58 @@ if (SAMPLE) {
   process.exit(0);
 }
 
+// A few temples synthesize concurrently (Chirp 3 HD takes ~1 min per temple, so
+// a serial run of the catalog brushes the CI timeout). A failure is logged and
+// skipped rather than aborting the run, so the content for every finished
+// temple still gets committed; re-running resumes the rest.
+const CONCURRENCY = Number(process.env.AUDIO_CONCURRENCY) || 4;
 let done = 0;
+const failed = [];
+
+async function processFile(locale, path) {
+  const doc = JSON.parse(readFileSync(path, 'utf8'));
+  const expectedUrl = `${PUBLIC_BASE}/${audioPath(locale, doc.id)}`;
+  // Resume: skip files already generated (unless AUDIO_FORCE=1).
+  if (!process.env.AUDIO_FORCE && doc.audio?.storyUrl === expectedUrl) {
+    console.log(`· ${locale}/${doc.id} (already done, skipping)`);
+    return;
+  }
+  const text = narration(doc);
+  const mp3 = await synth(locale === 'en' ? applyLexicon(text) : text, locale);
+
+  const objectPath = audioPath(locale, doc.id);
+  await bucket.file(objectPath).save(mp3, {
+    contentType: 'audio/mpeg',
+    metadata: { cacheControl: 'public, max-age=31536000, immutable' },
+    resumable: false,
+  });
+
+  doc.audio = {
+    storyUrl: `${PUBLIC_BASE}/${objectPath}`,
+    durationSec: estimateSec(text),
+  };
+  writeFileSync(path, JSON.stringify(doc, null, 2) + '\n');
+  done++;
+  console.log(`✓ ${locale}/${doc.id}  (${(mp3.length / 1024).toFixed(0)} KB, ~${doc.audio.durationSec}s)`);
+}
+
 for (const locale of LOCALES) {
   const dir = join(templesDir, locale);
-  const files = readdirSync(dir).filter((f) => f.endsWith('.json')).slice(0, LIMIT);
-  for (const file of files) {
-    const path = join(dir, file);
-    const doc = JSON.parse(readFileSync(path, 'utf8'));
-    const expectedUrl = `${PUBLIC_BASE}/${audioPath(locale, doc.id)}`;
-    // Resume: skip files already generated (unless AUDIO_FORCE=1).
-    if (!process.env.AUDIO_FORCE && doc.audio?.storyUrl === expectedUrl) {
-      console.log(`· ${locale}/${doc.id} (already done, skipping)`);
-      continue;
+  const queue = readdirSync(dir)
+    .filter((f) => f.endsWith('.json'))
+    .slice(0, LIMIT)
+    .map((f) => join(dir, f));
+  const worker = async () => {
+    for (let path; (path = queue.shift()); ) {
+      try {
+        await processFile(locale, path);
+      } catch (e) {
+        failed.push(`${locale}/${path.split('/').pop()}`);
+        console.warn(`✗ ${locale}/${path.split('/').pop()}: ${String(e.message || e).split('\n')[0]}`);
+      }
     }
-    const text = narration(doc);
-    const mp3 = await synth(locale === 'en' ? applyLexicon(text) : text, locale);
-
-    const objectPath = audioPath(locale, doc.id);
-    const gcsFile = bucket.file(objectPath);
-    await gcsFile.save(mp3, {
-      contentType: 'audio/mpeg',
-      metadata: { cacheControl: 'public, max-age=31536000, immutable' },
-      resumable: false,
-    });
-
-    doc.audio = {
-      storyUrl: `${PUBLIC_BASE}/${objectPath}`,
-      durationSec: estimateSec(text),
-    };
-    writeFileSync(path, JSON.stringify(doc, null, 2) + '\n');
-    done++;
-    console.log(`✓ ${locale}/${doc.id}  (${(mp3.length / 1024).toFixed(0)} KB, ~${doc.audio.durationSec}s)`);
-  }
+  };
+  await Promise.all(Array.from({ length: CONCURRENCY }, worker));
 }
 console.log(`\ngen-audio: wrote ${done} audio file(s) to gs://${BUCKET}/audio/ and updated content.`);
+if (failed.length) console.warn(`gen-audio: ${failed.length} FAILED (re-run to resume): ${failed.join(', ')}`);
