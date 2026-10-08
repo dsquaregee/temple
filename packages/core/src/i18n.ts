@@ -70,6 +70,7 @@ export interface UiStrings {
     languageName: string;
   };
   footer: { follow: string };
+  music: { heading: string; cta: string };
 }
 
 export const strings: Record<Locale, UiStrings> = {
@@ -139,6 +140,7 @@ export const strings: Record<Locale, UiStrings> = {
       languageName: 'English',
     },
     footer: { follow: 'Follow' },
+    music: { heading: 'Carnatic music', cta: 'Listen on YouTube' },
   },
   ta: {
     appName: 'கோயில்',
@@ -206,6 +208,7 @@ export const strings: Record<Locale, UiStrings> = {
       languageName: 'தமிழ்',
     },
     footer: { follow: 'பின்தொடருங்கள்' },
+    music: { heading: 'கர்நாடக இசை', cta: 'YouTube-இல் கேளுங்கள்' },
   },
   te: {
     appName: 'ఆలయం',
@@ -273,6 +276,7 @@ export const strings: Record<Locale, UiStrings> = {
       languageName: 'తెలుగు',
     },
     footer: { follow: 'అనుసరించండి' },
+    music: { heading: 'కర్ణాటక సంగీతం', cta: 'YouTubeలో వినండి' },
   },
   kn: {
     appName: 'ದೇವಾಲಯ',
@@ -340,6 +344,7 @@ export const strings: Record<Locale, UiStrings> = {
       languageName: 'ಕನ್ನಡ',
     },
     footer: { follow: 'ಅನುಸರಿಸಿ' },
+    music: { heading: 'ಕರ್ನಾಟಕ ಸಂಗೀತ', cta: 'YouTube ನಲ್ಲಿ ಆಲಿಸಿ' },
   },
   ml: {
     appName: 'ക്ഷേത്രം',
@@ -407,6 +412,7 @@ export const strings: Record<Locale, UiStrings> = {
       languageName: 'മലയാളം',
     },
     footer: { follow: 'പിന്തുടരൂ' },
+    music: { heading: 'കർണാടക സംഗീതം', cta: 'YouTube-ൽ കേൾക്കൂ' },
   },
   hi: {
     appName: 'मंदिर',
@@ -474,6 +480,7 @@ export const strings: Record<Locale, UiStrings> = {
       languageName: 'हिन्दी',
     },
     footer: { follow: 'फ़ॉलो करें' },
+    music: { heading: 'कर्नाटक संगीत', cta: 'YouTube पर सुनें' },
   },
 };
 
