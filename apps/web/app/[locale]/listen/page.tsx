@@ -5,6 +5,7 @@ import { LOCALES } from '@/lib/locales';
 import { PageChrome } from '@/components/PageChrome';
 import { ListenPlayer } from '@/components/ListenPlayer';
 import { MusicCta } from '@/components/MusicCta';
+import { PLAYLISTS } from '@/lib/site';
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -38,7 +39,18 @@ export default function ListenPage({ params }: { params: { locale: Locale } }) {
         <h1>{ui.tabs.listen}</h1>
       </div>
 
-      <MusicCta locale={locale} />
+      <section className="section" aria-labelledby="music-h">
+        <h2 id="music-h">{ui.music.heading}</h2>
+        {PLAYLISTS.map((p) => (
+          <MusicCta
+            key={p.id}
+            locale={locale}
+            href={p.url}
+            title={p.title}
+            sub={p.blurb}
+          />
+        ))}
+      </section>
 
       {ready.length === 0 && (
         <div className="callout">

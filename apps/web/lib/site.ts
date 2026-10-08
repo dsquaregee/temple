@@ -3,10 +3,52 @@
 // the sitemap and robots routes build their absolute URLs from here.
 export const SITE_URL = 'https://temples.dsquaregee.com';
 
-// Owner's YouTube channel (Carnatic music, handle: DeeSqrGee). Used by the music
-// CTAs on the Listen tab and temple pages — the channel-growth link. Swap for a
-// playlist URL later for higher watch-time without touching the components.
+// Owner's YouTube channel (Carnatic music, handle: DeeSqrGee).
 export const YOUTUBE_CHANNEL = 'https://www.youtube.com/@DeeSqrGee';
+
+// Owner's YouTube playlists (channel-growth target — a playlist auto-advances,
+// so it earns more watch-time than a channel landing). Titles/blurbs are the
+// playlist names, kept in English like the DeeSqrGee handle. Ordered devotional
+// first to match the reverent tone. The Listen tab lists all of these; temple
+// pages link only the deity-music one (TEMPLE_MUSIC_PLAYLIST).
+// (A "Dark Psytrance & Indian Electronic" playlist was intentionally left out as
+// off-tone for a devotional catalog — add it here if that call changes.)
+export const PLAYLISTS = [
+  {
+    id: 'devotional-fusion',
+    title: 'Devotional Fusion',
+    blurb: 'Sacred chants & deity music',
+    url: 'https://www.youtube.com/playlist?list=PLWAPRXFPrd6I1iVA9UnDlfpwWXxhaEKWR',
+  },
+  {
+    id: 'carnatic-fusion',
+    title: 'Carnatic Fusion',
+    blurb: 'Veena, saxophone & sitar instrumentals',
+    url: 'https://www.youtube.com/playlist?list=PLWAPRXFPrd6KEJIfZEu0qZd2PZpkXDCRA',
+  },
+  {
+    id: 'carnatic-lofi-rap',
+    title: 'Carnatic Lofi Rap',
+    blurb: 'Myths, saints & filter coffee',
+    url: 'https://www.youtube.com/playlist?list=PLO6GUlUmLDeM',
+  },
+  {
+    id: 'originals',
+    title: 'DeeSqrGee Originals',
+    blurb: 'Vocal tracks & story songs',
+    url: 'https://www.youtube.com/playlist?list=PLefZMVNBCzME',
+  },
+  {
+    id: 'midnight-fusion',
+    title: 'Midnight Fusion',
+    blurb: 'Chill Indian instrumentals for sleep & study',
+    url: 'https://www.youtube.com/playlist?list=PLWAPRXFPrd6Lj494xzj7UCBgodcKXOVPl',
+  },
+] as const;
+
+// Temple pages link the deity-music playlist — most on-theme for a kshetra page.
+export const TEMPLE_MUSIC_PLAYLIST =
+  PLAYLISTS.find((p) => p.id === 'devotional-fusion')?.url ?? YOUTUBE_CHANNEL;
 
 // Owner's social presence (handle: DeeSqrGee). Single source of truth for the
 // site footer links and the Organization `sameAs` in the home-page JSON-LD, so

@@ -16,6 +16,7 @@ import { TempleHero } from '@/components/TempleHero';
 import { AudioStory } from '@/components/AudioStory';
 import { VideoStory } from '@/components/VideoStory';
 import { MusicCta } from '@/components/MusicCta';
+import { TEMPLE_MUSIC_PLAYLIST } from '@/lib/site';
 
 export const dynamicParams = false;
 
@@ -183,7 +184,7 @@ export default function TempleDetail({
 
       <VideoStory temple={temple} ui={ui} />
 
-      <MusicCta locale={locale} />
+      <MusicCta locale={locale} href={TEMPLE_MUSIC_PLAYLIST} />
 
       <section className="section" aria-labelledby="why-h">
         <h2 id="why-h">{ui.labels.whyItMatters}</h2>
