@@ -1,6 +1,7 @@
 import { t, type Locale } from '@temple/core';
 import { LangSwitch } from './LangSwitch';
 import { TabBar } from './TabBar';
+import { SiteFooter } from './SiteFooter';
 
 type Tab = 'home' | 'discover' | 'yatra' | 'listen';
 
@@ -28,6 +29,7 @@ export function PageChrome({
           <LangSwitch locale={locale} pathSuffix={pathSuffix} />
         </header>
         <main>{children}</main>
+        <SiteFooter locale={locale} />
       </div>
       <TabBar locale={locale} active={active} />
     </>

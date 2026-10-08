@@ -149,6 +149,45 @@ a {
   line-height: 1;
 }
 
+/* Site footer (social) ------------------------------------------------ */
+.sitefooter {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+}
+.sitefooter-label {
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  color: var(--ink-muted);
+}
+.social {
+  display: flex;
+  gap: 6px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--touch);
+  height: var(--touch);
+  color: var(--ink-muted);
+  border-radius: 999px;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+.social a:hover,
+.social a:focus-visible {
+  color: var(--accent-vermilion);
+  background: var(--bg-raised);
+}
+
 /* Hero (LCP element) -------------------------------------------------- */
 .hero {
   border-radius: var(--radius-card);
