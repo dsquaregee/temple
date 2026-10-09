@@ -14,7 +14,9 @@
 // v5: purge pages cached before the English narration pronunciation fixes
 // (authentic Tamil zh + REV v4 audio/video), so returning visitors' cached
 // pages stop pointing at the old audio/video URLs.
-const VERSION = 'v5';
+// v6: v4 video URLs landed after the v5 bump (the earlier media commit was
+// rejected mid-run), so bump again to push the new video narration to users.
+const VERSION = 'v6';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];

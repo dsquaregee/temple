@@ -79,8 +79,17 @@ nataraja-chidambaram (space). Plus: meenakshi-madurai, ramanathaswamy-rameswaram
   maps Sanskrit/Tamil words to phonetic respellings (audio only; on-screen text
   unchanged). Mispronounced word → add an entry, bump `REV.en` in
   `scripts/gen-audio.mjs` (+ `VIDEO_REV.en` in `gen-video.mjs`), re-run `audio.yml`
-  (locales=en), the R2 backup, then `media.yml` (locales=en, keep_hero). Paths are
-  versioned because media is served `immutable`.
+  (locales=en, resume off is implicit via the REV bump), the R2 backup (pushes new
+  audio to the serving R2 bucket), then `media.yml` (locales=en, keep_hero=true,
+  **resume=false** so videos re-render against the new audio), then the R2 backup
+  **again** (pushes new video), then **bump the service worker** (see deploy rule).
+  Paths are versioned because media is served `immutable`. The R2 buckets
+  (`media`/`audio.dsquaregee.com`) are populated by `backup-media-r2.yml` — the
+  generators upload to GCS, so a sync is required before new URLs resolve, and
+  `media.yml` downloads the audio from its R2 URL, so the audio sync must precede it.
+- **Never merge to the base branch while `audio.yml`/`media.yml` is mid-run** — those
+  workflows commit regenerated content at the end, and a base advance makes their
+  `git push` a non-fast-forward (rejected). Serialize deploys around media runs.
 - Other locales: Neural2/Wavenet voices, unversioned paths.
 - `audio.yml` `sample=<ids>` renders voice comparison samples without touching content.
 
@@ -100,3 +109,10 @@ nataraja-chidambaram (space). Plus: meenakshi-madurai, ramanathaswamy-rameswaram
   container reclamation because nothing had been pushed.
 - Content prose must be original writing (no copied text); facts verified
   against research notes; respectful, editorial tone.
+- **Bump the service worker `VERSION` in `apps/web/public/sw.js` after EVERY
+  deployment that changes referenced asset URLs** (audio/video regens, any content
+  change that moves a media URL). The SW serves pages with stale-while-revalidate,
+  so without a VERSION bump returning visitors keep seeing cached pages that point
+  at the old audio/video and "nothing changes in production" for them. The bump's
+  `activate` handler purges every client's caches on next visit. (Owner rule,
+  2026-10-09.)
