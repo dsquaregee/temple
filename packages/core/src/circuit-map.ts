@@ -4,6 +4,8 @@
 // and places a label per stop (left or right of its pin, de-overlapped with
 // leader lines). Everything is derived from content data, so adding a temple to
 // a circuit's `stops` updates its map on the next build — no hand-drawn art.
+// The route line follows a suggested driving order (shortest path); numbering
+// stays the circuit's official order.
 //
 // Render-agnostic: returns geometry only. The web app renders it as inline SVG
 // (zero client JS); the mobile app can render the same output with react-native-svg.
@@ -41,6 +43,8 @@ export interface CircuitMapLayout {
   routePath: string;
   pins: { n: number; id: string; x: number; y: number }[];
   labels: MapLabel[];
+  /** Stop numbers (official order, 1-based) in the suggested driving order the route follows. */
+  order: number[];
   scale: { x: number; y: number; length: number; label: string };
 }
 
@@ -203,6 +207,85 @@ function niceKm(target: number): number {
   return steps.reduce((best, s) => (Math.abs(s - target) < Math.abs(best - target) ? s : best), 1);
 }
 
+// Great-circle distance in km.
+export function haversineKm(a: { lat: number; lng: number }, b: { lat: number; lng: number }): number {
+  const rad = Math.PI / 180;
+  const dLat = (b.lat - a.lat) * rad;
+  const dLng = (b.lng - a.lng) * rad;
+  const h = Math.sin(dLat / 2) ** 2 + Math.cos(a.lat * rad) * Math.cos(b.lat * rad) * Math.sin(dLng / 2) ** 2;
+  return 2 * 6371 * Math.asin(Math.sqrt(h));
+}
+
+// Suggested driving order: the shortest open path visiting every stop once
+// (straight-line distances). Circuits list stops in their canonical order —
+// planetary, elemental — which can zig-zag across the map; pilgrims drive them
+// geographically. Exact Held–Karp up to 12 stops (≤ ~600k steps, build time
+// only), nearest-neighbour + 2-opt beyond. The path starts at whichever end has
+// the lower official number, so it reads from "1" when it can. Returns indices.
+export function drivingOrder(stops: { lat: number; lng: number }[]): number[] {
+  const n = stops.length;
+  if (n <= 2) return stops.map((_, i) => i);
+  const d = stops.map((a) => stops.map((b) => haversineKm(a, b)));
+  const dist = (i: number, j: number) => d[i]![j]!;
+  let path: number[];
+  if (n <= 12) {
+    const FULL = 1 << n;
+    const cost = new Float64Array(FULL * n).fill(Infinity);
+    const prev = new Int8Array(FULL * n).fill(-1);
+    for (let i = 0; i < n; i++) cost[(1 << i) * n + i] = 0;
+    for (let mask = 1; mask < FULL; mask++) {
+      for (let last = 0; last < n; last++) {
+        const c = cost[mask * n + last]!;
+        if (!(mask & (1 << last)) || c === Infinity) continue;
+        for (let next = 0; next < n; next++) {
+          if (mask & (1 << next)) continue;
+          const m2 = mask | (1 << next);
+          const c2 = c + dist(last, next);
+          if (c2 < cost[m2 * n + next]!) {
+            cost[m2 * n + next] = c2;
+            prev[m2 * n + next] = last;
+          }
+        }
+      }
+    }
+    let end = 0;
+    for (let i = 1; i < n; i++) if (cost[(FULL - 1) * n + i]! < cost[(FULL - 1) * n + end]!) end = i;
+    path = [];
+    for (let mask = FULL - 1, cur = end; cur !== -1; ) {
+      path.push(cur);
+      const p = prev[mask * n + cur]!;
+      mask &= ~(1 << cur);
+      cur = p;
+    }
+    path.reverse();
+  } else {
+    path = [0];
+    const left = new Set(stops.map((_, i) => i).slice(1));
+    while (left.size) {
+      const last = path[path.length - 1]!;
+      let best = -1;
+      for (const j of left) if (best < 0 || dist(last, j) < dist(last, best)) best = j;
+      path.push(best);
+      left.delete(best);
+    }
+    for (let improved = true; improved; ) {
+      improved = false;
+      for (let i = 0; i < n - 2; i++) {
+        for (let k = i + 2; k < n; k++) {
+          const a = path[i]!, b = path[i + 1]!, c = path[k]!, e = path[k + 1];
+          const before = dist(a, b) + (e === undefined ? 0 : dist(c, e));
+          const after = dist(a, c) + (e === undefined ? 0 : dist(b, e));
+          if (after < before - 1e-9) {
+            path.splice(i + 1, k - i, ...path.slice(i + 1, k + 1).reverse());
+            improved = true;
+          }
+        }
+      }
+    }
+  }
+  return path[path.length - 1]! < path[0]! ? path.reverse() : path;
+}
+
 type Rect = { x: number; y: number; w: number; h: number };
 const hit = (a: Rect, b: Rect, pad = 4) =>
   a.x < b.x + b.w + pad && b.x < a.x + a.w + pad && a.y < b.y + b.h + pad && b.y < a.y + a.h + pad;
@@ -210,7 +293,7 @@ const hit = (a: Rect, b: Rect, pad = 4) =>
 export function layoutCircuitMap(stops: MapStop[], land: number[][][]): CircuitMapLayout {
   const valid = stops.filter((s) => Number.isFinite(s.lat) && Number.isFinite(s.lng));
   if (!valid.length) {
-    return { width: MAP_WIDTH, height: 0, landPath: '', routePath: '', pins: [], labels: [], scale: { x: 0, y: 0, length: 0, label: '' } };
+    return { width: MAP_WIDTH, height: 0, landPath: '', routePath: '', pins: [], labels: [], order: [], scale: { x: 0, y: 0, length: 0, label: '' } };
   }
   const lats = valid.map((s) => s.lat);
   const midLat = (Math.min(...lats) + Math.max(...lats)) / 2;
@@ -333,5 +416,10 @@ export function layoutCircuitMap(stops: MapStop[], land: number[][][]): CircuitM
   const km = niceKm((W / 5) * kmPerUnit);
   const scale = { x: 20, y: H - 18, length: r1(km / kmPerUnit), label: `${km} km` };
 
-  return { width: W, height: H, landPath, routePath: smoothPath(pins), pins, labels, scale };
+  // The route line follows the suggested driving order; pins and labels keep
+  // the circuit's official numbering.
+  const order = drivingOrder(valid);
+  const routePath = smoothPath(order.map((i) => pins[i]!));
+
+  return { width: W, height: H, landPath, routePath, pins, labels, order: order.map((i) => i + 1), scale };
 }

@@ -1,9 +1,9 @@
-import { layoutCircuitMap, type Temple } from '@temple/core';
-import land from '@/lib/geo/south-india-land.json';
+import { layoutCircuitMap, SOUTH_INDIA_LAND, type Temple } from '@temple/core';
 
 // Illustrated route map for a circuit: coastline, a golden route through the
 // stops in pilgrimage order, numbered pins, and labels — every pin and label
-// links to its temple page. Rendered as inline SVG at build time from content
+// links to its temple page. The route follows a suggested driving order;
+// numbering stays the circuit's official order. Rendered as inline SVG at build time from content
 // data (no map tiles, no client JS, no new CSP surface), so adding a temple to
 // a circuit's `stops` redraws the map on the next build.
 export function CircuitMap({
@@ -12,12 +12,14 @@ export function CircuitMap({
   locale,
   title,
   note,
+  orderLabel,
 }: {
   circuitName: string;
   temples: Temple[];
   locale: string;
   title: string;
   note: string;
+  orderLabel: string;
 }) {
   const layout = layoutCircuitMap(
     temples.map((t) => ({
@@ -27,7 +29,7 @@ export function CircuitMap({
       lat: t.location.lat,
       lng: t.location.lng,
     })),
-    land.rings
+    SOUTH_INDIA_LAND
   );
   if (!layout.pins.length) return null;
   const { width: W, height: H } = layout;
@@ -133,7 +135,14 @@ export function CircuitMap({
           </text>
         </g>
       </svg>
-      <figcaption className="cmap-note">{note}</figcaption>
+      <figcaption className="cmap-note">
+        {layout.order.length > 2 && (
+          <span className="cmap-order">
+            {orderLabel}: {layout.order.join(' → ')}
+          </span>
+        )}
+        {note}
+      </figcaption>
     </figure>
   );
 }

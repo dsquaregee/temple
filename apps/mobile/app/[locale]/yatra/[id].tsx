@@ -14,6 +14,7 @@ import {
   Screen,
   SectionHeading,
 } from '@/components/ui';
+import { CircuitMap } from '@/components/CircuitMap';
 
 export default function CircuitDetailScreen() {
   const params = useLocalSearchParams<{ locale: string; id: string }>();
@@ -57,6 +58,14 @@ export default function CircuitDetailScreen() {
         </Chip>
         <Chip>{circuit.theme}</Chip>
       </View>
+
+      <CircuitMap
+        temples={stops}
+        locale={locale}
+        title={`${ui.labels.routeMap}: ${circuit.name}`}
+        note={ui.labels.routeNote}
+        orderLabel={ui.labels.drivingOrder}
+      />
 
       <Lead>{circuit.description}</Lead>
 

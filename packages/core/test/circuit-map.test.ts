@@ -4,12 +4,12 @@ import { readFileSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
-  layoutCircuitMap, shortName, wrapText, clipRing, smoothPath, type MapStop,
+  layoutCircuitMap, shortName, wrapText, clipRing, smoothPath, drivingOrder, haversineKm, type MapStop,
 } from '../src/circuit-map.ts';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..', '..', '..');
 const data = join(root, 'packages', 'content', 'data');
-const land = JSON.parse(readFileSync(join(root, 'apps', 'web', 'lib', 'geo', 'south-india-land.json'), 'utf8')).rings;
+const land = JSON.parse(readFileSync(join(root, 'packages', 'core', 'geo', 'south-india-land.json'), 'utf8')).rings;
 
 const overlap = (a: { x: number; y: number; w: number; h: number }, b: typeof a) =>
   a.x < b.x + b.w && b.x < a.x + a.w && a.y < b.y + b.h && b.y < a.y + a.h;
@@ -43,6 +43,7 @@ for (const locale of readdirSync(join(data, 'circuits'))) {
         assert.ok(a.lines.length >= 1 && a.lines.length <= 2);
         for (const b of m.labels.slice(i + 1)) assert.ok(!overlap(a, b), `labels ${a.id} / ${b.id} overlap`);
       }
+      assert.deepEqual([...m.order].sort((a, b) => a - b), stops.map((_, i) => i + 1), 'order is a permutation');
       assert.match(m.routePath, /^M[\d.-]+ [\d.-]+( C[\d. -]+)*$/);
     });
   }
@@ -92,4 +93,24 @@ test('smoothPath passes through every point', () => {
   const d = smoothPath([{ x: 0, y: 0 }, { x: 10, y: 5 }, { x: 20, y: 0 }]);
   assert.ok(d.startsWith('M0 0'));
   assert.ok(d.includes(' 10 5 C') && d.endsWith(' 20 0'));
+});
+
+test('drivingOrder finds the shortest open path and starts from the lower-numbered end', () => {
+  // Four towns on a line, listed out of geographic order: 0, 3, 1, 2 (by lng).
+  const pts = [{ lat: 10, lng: 78 }, { lat: 10, lng: 78.3 }, { lat: 10, lng: 78.1 }, { lat: 10, lng: 78.2 }];
+  assert.deepEqual(drivingOrder(pts), [0, 2, 3, 1]);
+  assert.deepEqual(drivingOrder(pts.slice(0, 2)), [0, 1]);
+});
+
+test('drivingOrder never makes the real Navagraha circuit longer than its listed order', () => {
+  const stops = stopsFor('en', 'navagraha-temples');
+  const len = (idx: number[]) => idx.slice(1).reduce((a, j, k) => a + haversineKm(stops[idx[k]!]!, stops[j]!), 0);
+  const listed = stops.map((_, i) => i);
+  assert.ok(len(drivingOrder(stops)) <= len(listed));
+  assert.ok(len(drivingOrder(stops)) < len(listed) * 0.8, 'clearly shorter than the planetary order');
+});
+
+test('drivingOrder heuristic path (>12 stops) is a valid permutation', () => {
+  const pts = Array.from({ length: 15 }, (_, i) => ({ lat: 10 + ((i * 7) % 5) * 0.1, lng: 78 + ((i * 3) % 7) * 0.1 }));
+  assert.deepEqual([...drivingOrder(pts)].sort((a, b) => a - b), pts.map((_, i) => i));
 });
