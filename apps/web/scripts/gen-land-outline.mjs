@@ -1,11 +1,11 @@
-// One-off generator for lib/geo/south-india-land.json — the coastline drawn
+// One-off generator for packages/core/geo/south-india-land.json — the coastline drawn
 // under every circuit route map (components/CircuitMap.tsx). Geography doesn't
 // change, so this only needs re-running to widen the covered area (e.g. a
 // circuit outside South India; validate.mjs enforces the current bbox).
 //
 //   cd $(mktemp -d) && npm i world-atlas@2.0.2 topojson-client@3.1.0 && \
 //     node /path/to/apps/web/scripts/gen-land-outline.mjs && \
-//     cp out.json /path/to/apps/web/lib/geo/south-india-land.json
+//     cp out.json /path/to/packages/core/geo/south-india-land.json
 //
 // Source: Natural Earth 1:10m countries (public domain), via world-atlas.
 import { readFileSync, writeFileSync } from 'node:fs';

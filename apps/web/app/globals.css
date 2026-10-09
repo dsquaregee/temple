@@ -1018,3 +1018,8 @@ a {
   fill: #fff;
   font: 700 12px var(--font-ui);
 }
+.cmap-order {
+  display: block;
+  font-weight: 600;
+  color: var(--ink-body);
+}

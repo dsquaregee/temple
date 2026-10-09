@@ -99,8 +99,10 @@ Every Yatra circuit page shows an illustrated route map (`apps/web/components/Ci
 layout in `packages/core/src/circuit-map.ts`) generated at build time from each stop's
 `location.lat/lng` — inline SVG, zero JS, every pin/label links to its temple. Adding a
 temple to a circuit (`stops` + the temple's `circuits`, kept in sync by `validate.mjs`)
-updates the map automatically. Coastline: `apps/web/lib/geo/south-india-land.json`
-(Natural Earth, `scripts/gen-land-outline.mjs`). Route follows `stops` order.
+updates the map automatically. Coastline: `packages/core/geo/south-india-land.json`
+(Natural Earth, `apps/web/scripts/gen-land-outline.mjs`). Numbering = official `stops` order; the
+gold route line follows a **suggested driving order** (shortest path, `drivingOrder()`), captioned
+under the map. Native app: same layout via react-native-svg (`apps/mobile/components/CircuitMap.tsx`).
 
 ## Repo layout
 

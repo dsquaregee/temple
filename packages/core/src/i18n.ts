@@ -57,6 +57,7 @@ export interface UiStrings {
     stops: string;
     routeMap: string;
     routeNote: string;
+    drivingOrder: string;
     partOf: string;
     unesco: string;
     deity: string;
@@ -129,6 +130,7 @@ export const strings: Record<Locale, UiStrings> = {
       stops: 'stops',
       routeMap: 'Route map',
       routeNote: 'Route shown is illustrative, not a road route.',
+      drivingOrder: 'Suggested driving order',
       partOf: 'Part of',
       unesco: 'UNESCO World Heritage',
       deity: 'Deity',
@@ -199,6 +201,7 @@ export const strings: Record<Locale, UiStrings> = {
       stops: 'தலங்கள்',
       routeMap: 'பயண வரைபடம்',
       routeNote: 'காட்டப்படும் வழி விளக்கத்திற்காக மட்டுமே; சாலை வழி அல்ல.',
+      drivingOrder: 'பரிந்துரைக்கப்படும் பயண வரிசை',
       partOf: 'இதன் பகுதி',
       unesco: 'யுனெஸ்கோ உலக பாரம்பரியம்',
       deity: 'மூலவர்',
@@ -269,6 +272,7 @@ export const strings: Record<Locale, UiStrings> = {
       stops: 'క్షేత్రాలు',
       routeMap: 'యాత్రా మార్గ పటం',
       routeNote: 'చూపిన మార్గం సూచన కోసం మాత్రమే; రహదారి మార్గం కాదు.',
+      drivingOrder: 'సూచించిన ప్రయాణ క్రమం',
       partOf: 'ఇందులో భాగం',
       unesco: 'యునెస్కో ప్రపంచ వారసత్వం',
       deity: 'మూలవిరాట్టు',
@@ -339,6 +343,7 @@ export const strings: Record<Locale, UiStrings> = {
       stops: 'ಕ್ಷೇತ್ರಗಳು',
       routeMap: 'ಯಾತ್ರಾ ಮಾರ್ಗ ನಕ್ಷೆ',
       routeNote: 'ತೋರಿಸಿರುವ ಮಾರ್ಗ ಸೂಚನೆಗಾಗಿ ಮಾತ್ರ; ರಸ್ತೆ ಮಾರ್ಗವಲ್ಲ.',
+      drivingOrder: 'ಸೂಚಿತ ಪ್ರಯಾಣ ಕ್ರಮ',
       partOf: 'ಇದರ ಭಾಗ',
       unesco: 'ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆ',
       deity: 'ಮೂಲ ದೇವರು',
@@ -409,6 +414,7 @@ export const strings: Record<Locale, UiStrings> = {
       stops: 'ക്ഷേത്രങ്ങൾ',
       routeMap: 'യാത്രാ മാർഗരേഖ',
       routeNote: 'കാണിച്ചിരിക്കുന്ന പാത സൂചനയ്ക്കു മാത്രം; റോഡ് മാർഗമല്ല.',
+      drivingOrder: 'നിർദ്ദേശിക്കുന്ന യാത്രാ ക്രമം',
       partOf: 'ഇതിന്റെ ഭാഗം',
       unesco: 'യുനെസ്കോ ലോക പൈതൃകം',
       deity: 'പ്രതിഷ്ഠ',
@@ -479,6 +485,7 @@ export const strings: Record<Locale, UiStrings> = {
       stops: 'क्षेत्र',
       routeMap: 'यात्रा मार्ग मानचित्र',
       routeNote: 'दिखाया गया मार्ग केवल संकेत के लिए है, सड़क मार्ग नहीं।',
+      drivingOrder: 'सुझाया गया यात्रा क्रम',
       partOf: 'इसका भाग',
       unesco: 'यूनेस्को विश्व धरोहर',
       deity: 'मूल देवता',

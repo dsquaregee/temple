@@ -104,6 +104,7 @@ export default function CircuitDetail({
         locale={locale}
         title={ui.labels.routeMap}
         note={ui.labels.routeNote}
+        orderLabel={ui.labels.drivingOrder}
       />
 
       <section className="section">
