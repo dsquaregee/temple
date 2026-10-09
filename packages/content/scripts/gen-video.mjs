@@ -404,7 +404,7 @@ const enDir = join(dataDir, 'temples', 'en');
 const KEEP_HERO = !!process.env.VIDEO_KEEP_HERO;
 // Per-locale object-path revision, mirroring gen-audio's REV: videos are served
 // immutable, so re-rendered narration must land at a new URL.
-const VIDEO_REV = { en: 'v3' };
+const VIDEO_REV = { en: 'v4' };
 const videoPath = (locale, id) => `video/${locale}/${VIDEO_REV[locale] ? `${VIDEO_REV[locale]}/` : ''}${id}.mp4`;
 const ONLY_IDS = process.env.VIDEO_ONLY ? new Set(process.env.VIDEO_ONLY.split(',')) : null;
 const SKIP_DONE = !!process.env.VIDEO_RESUME; // skip temples whose en doc already has video
