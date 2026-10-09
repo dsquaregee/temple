@@ -5,7 +5,7 @@ Temple ships as **three separate apps from one monorepo**, sharing `packages/cor
 
 | Target | Source | Output | Distribution |
 |---|---|---|---|
-| **PWA** (web) | `apps/web` (Next.js static export) | `apps/web/out` | Firebase Hosting → `temples.dsquaregee.com` (auto-deploy on merge to the default branch) |
+| **PWA** (web) | `apps/web` (Next.js static export) | `apps/web/out` | Cloudflare Workers Static Assets → `temples.dsquaregee.com` (auto-deploy on merge to the default branch) |
 | **Android** | `apps/mobile` (Expo RN) | `.aab` via EAS Build | Google Play |
 | **iOS** | `apps/mobile` (Expo RN) | `.ipa` via EAS Build | Apple App Store |
 
@@ -27,7 +27,7 @@ The web app is a production, installable PWA:
   `background_color`, and 192/512 PNG + SVG icons marked `any maskable`.
 - Service worker (`sw.js`, `no-store`) with an offline fallback page; hashed
   assets cached `immutable`; HTML served with `s-maxage` + `stale-while-revalidate`.
-- Deployed automatically to Firebase Hosting on merge to the default branch.
+- Deployed automatically to Cloudflare on merge to the default branch.
 
 Nothing to do — it installs from the browser ("Add to Home Screen" / install
 prompt). No store review required.
@@ -51,7 +51,31 @@ first build — let EAS manage them.
 
 ---
 
-## 3. Build — [owner]
+## 3. Build — one click from GitHub Actions
+
+**Actions → "Build mobile app (EAS)" → Run workflow** (`.github/workflows/eas-build.yml`):
+pick the platform, `preview` (installable APK for testing) or `production` (store
+build), and optionally *submit*. The build runs on EAS's servers (`--no-wait`);
+the run log prints the expo.dev link to follow it.
+
+One-time setup — [owner]:
+1. Add the repository secret **`EXPO_TOKEN`** (expo.dev → Account settings →
+   Access tokens). Without it the workflow stops at its first step with this hint.
+2. First run links/creates the EAS project and prints its `projectId` as a
+   notice — commit it to `apps/mobile/app.json` → `expo.extra.eas.projectId`.
+3. **iOS** only: store Apple signing credentials in EAS once
+   (`eas credentials` from a machine logged in to the Apple Developer account);
+   CI builds are non-interactive and can't log in to Apple.
+4. For *submit*: secrets `PLAY_SERVICE_ACCOUNT_JSON` (Android) and
+   `ASC_API_KEY_P8`, `ASC_API_KEY_ID`, `ASC_API_KEY_ISSUER_ID` (iOS) — see §2.
+   Verify the first auto-submit in the expo.dev dashboard.
+
+Build numbers (`versionCode` / `buildNumber`) are **managed by EAS**
+(`appVersionSource: remote`, production `autoIncrement`), so every store build
+gets a fresh one automatically. The user-facing `version` still comes from
+`app.json`.
+
+Or locally, from `apps/mobile`:
 
 From `apps/mobile`:
 
@@ -66,11 +90,7 @@ eas build --platform ios --profile production
 ```
 
 Profiles are in `eas.json`. `production` builds an **app-bundle** on Android;
-`preview` builds an installable **APK** for device testing. `appVersionSource`
-is `local`, so the release version comes from `app.json`:
-`version` `1.0.0`, `android.versionCode` `1`, `ios.buildNumber` `1`. **Bump these
-for every subsequent upload** (Play rejects a re-used `versionCode`; App Store a
-re-used `buildNumber`).
+`preview` builds an installable **APK** for device testing.
 
 The gitignored generated catalog (`packages/content/src/generated.ts`) is rebuilt
 automatically during the build by the `eas-build-post-install` hook in
@@ -135,7 +155,8 @@ policy). Answer the questionnaires accordingly:
 
 ## 7. Version bumps for future releases
 
-Edit `apps/mobile/app.json`: raise `version` (e.g. `1.0.1`) and increment
-`android.versionCode` and `ios.buildNumber`, then rebuild + resubmit. The PWA
+Edit `apps/mobile/app.json`: raise `version` (e.g. `1.0.1`) for a user-visible
+release, then rebuild + resubmit. Build numbers increment automatically (EAS
+remote versioning). The PWA
 needs no version bump — it redeploys on merge and the service worker updates
 clients automatically.
