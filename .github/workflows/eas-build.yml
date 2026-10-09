@@ -1,0 +1,114 @@
+name: Build mobile app (EAS)
+
+# Builds the Expo app (apps/mobile) on EAS's servers and, optionally, submits it
+# to Google Play (internal track, draft) / App Store Connect (TestFlight).
+# Manual dispatch only — a store build is an explicit release action.
+#
+# Repository secrets (Settings → Secrets and variables → Actions) — owner:
+#   EXPO_TOKEN                 required — expo.dev → Account settings → Access tokens
+#   PLAY_SERVICE_ACCOUNT_JSON  Android submit — Play Console service-account key (JSON text)
+#   ASC_API_KEY_P8             iOS submit — App Store Connect API key (.p8 text)
+#   ASC_API_KEY_ID / ASC_API_KEY_ISSUER_ID   iOS submit — the key's ids
+# iOS builds also need Apple signing credentials stored in EAS once
+# (`eas credentials` from a machine logged in to the Apple account).
+# See docs/store-release.md.
+on:
+  workflow_dispatch:
+    inputs:
+      platform:
+        description: Platform
+        type: choice
+        options: [android, ios, all]
+        default: android
+      profile:
+        description: EAS build profile (preview = installable APK for testing; production = store build)
+        type: choice
+        options: [preview, production]
+        default: preview
+      submit:
+        description: Submit to the stores after a production build
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: eas-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: apps/mobile
+    steps:
+      - name: Check EXPO_TOKEN
+        working-directory: .
+        env:
+          EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
+        run: |
+          if [ -z "$EXPO_TOKEN" ]; then
+            echo "::error::EXPO_TOKEN secret is not set. Create an access token at expo.dev (Account settings → Access tokens) and add it as a repository secret named EXPO_TOKEN. See docs/store-release.md."
+            exit 1
+          fi
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install dependencies
+        working-directory: .
+        run: pnpm install --frozen-lockfile
+
+      - name: Setup EAS
+        uses: expo/expo-github-action@v8
+        with:
+          eas-version: latest
+          token: ${{ secrets.EXPO_TOKEN }}
+
+      # Links the app to its EAS project on first use (creates @<account>/temple
+      # if needed). Commit the printed projectId into app.json to make it permanent.
+      - name: Link EAS project
+        run: |
+          if ! node -e "process.exit(require('./app.json').expo?.extra?.eas?.projectId ? 0 : 1)"; then
+            eas init --non-interactive --force
+            echo "::notice::EAS projectId (commit to apps/mobile/app.json → expo.extra.eas.projectId): $(node -p "require('./app.json').expo.extra.eas.projectId")"
+          fi
+
+      - name: Write store credentials
+        if: ${{ inputs.submit && inputs.profile == 'production' }}
+        env:
+          PLAY_JSON: ${{ secrets.PLAY_SERVICE_ACCOUNT_JSON }}
+          ASC_P8: ${{ secrets.ASC_API_KEY_P8 }}
+        run: |
+          if [ -n "$PLAY_JSON" ]; then printf '%s' "$PLAY_JSON" > play-service-account.json; fi
+          if [ -n "$ASC_P8" ]; then printf '%s' "$ASC_P8" > asc-api-key.p8; fi
+
+      # --no-wait: the build runs on EAS's servers; follow it at expo.dev
+      # (the link is printed below) instead of holding a GitHub runner.
+      - name: Build${{ inputs.submit && inputs.profile == 'production' && ' and submit' || '' }}
+        env:
+          EXPO_ASC_API_KEY_ID: ${{ secrets.ASC_API_KEY_ID }}
+          EXPO_ASC_API_KEY_ISSUER_ID: ${{ secrets.ASC_API_KEY_ISSUER_ID }}
+        run: >
+          eas build
+          --platform ${{ inputs.platform }}
+          --profile ${{ inputs.profile }}
+          --non-interactive
+          --no-wait
+          ${{ inputs.submit && inputs.profile == 'production' && '--auto-submit' || '' }}
+
+      - name: Clean up credentials
+        if: always()
+        run: rm -f play-service-account.json asc-api-key.p8
