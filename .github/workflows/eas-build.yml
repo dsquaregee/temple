@@ -111,4 +111,5 @@ jobs:
 
       - name: Clean up credentials
         if: always()
-        run: rm -f play-service-account.json asc-api-key.p8
+        working-directory: .
+        run: rm -f apps/mobile/play-service-account.json apps/mobile/asc-api-key.p8
