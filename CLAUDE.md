@@ -93,6 +93,15 @@ nataraja-chidambaram (space). Plus: meenakshi-madurai, ramanathaswamy-rameswaram
 - Other locales: Neural2/Wavenet voices, unversioned paths.
 - `audio.yml` `sample=<ids>` renders voice comparison samples without touching content.
 
+## Circuit route maps
+
+Every Yatra circuit page shows an illustrated route map (`apps/web/components/CircuitMap.tsx`,
+layout in `packages/core/src/circuit-map.ts`) generated at build time from each stop's
+`location.lat/lng` — inline SVG, zero JS, every pin/label links to its temple. Adding a
+temple to a circuit (`stops` + the temple's `circuits`, kept in sync by `validate.mjs`)
+updates the map automatically. Coastline: `apps/web/lib/geo/south-india-land.json`
+(Natural Earth, `scripts/gen-land-outline.mjs`). Route follows `stops` order.
+
 ## Repo layout
 
 - `apps/web` — Next.js App Router PWA (SSG temple pages, minimal SW)
