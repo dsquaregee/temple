@@ -898,3 +898,123 @@ a {
   color: var(--ink-muted);
   font-size: 14px;
 }
+
+/* Circuit route map (components/CircuitMap.tsx) ------------------------- */
+:root {
+  --map-sea: #d3e5e4;
+  --map-land: #f4ecda;
+  --map-coast: #c9b48a;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --map-sea: #0f1d24;
+    --map-land: #26201a;
+    --map-coast: #4a3d2c;
+  }
+}
+.cmap {
+  margin: 4px 0 20px;
+}
+.cmap-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius-card);
+  border: 1px solid var(--line);
+  background: var(--map-sea);
+}
+.cmap-sea {
+  fill: var(--map-sea);
+}
+.cmap-land {
+  fill: var(--map-land);
+  stroke: var(--map-coast);
+  stroke-width: 1.5;
+  stroke-linejoin: round;
+}
+.cmap-dot {
+  fill: var(--map-coast);
+  opacity: 0.35;
+}
+.cmap-route-glow {
+  fill: none;
+  stroke: var(--accent-turmeric);
+  stroke-width: 12;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  opacity: 0.22;
+}
+.cmap-route {
+  fill: none;
+  stroke: var(--accent-turmeric);
+  stroke-width: 4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.cmap-leader {
+  stroke: var(--ink-muted);
+  stroke-width: 1.5;
+  stroke-dasharray: 3 3;
+}
+.cmap-pin {
+  fill: var(--accent-vermilion);
+  stroke: #fff;
+  stroke-width: 2;
+}
+.cmap-pin-n {
+  fill: #fff;
+  font: 700 16px var(--font-ui);
+}
+.cmap-label-box {
+  fill: var(--bg-raised);
+  stroke: var(--accent-turmeric);
+  stroke-width: 1.5;
+}
+.cmap-gopuram {
+  fill: var(--accent-turmeric);
+}
+.cmap-name {
+  fill: var(--ink-strong);
+  font: 700 22px var(--font-display);
+}
+.cmap-city {
+  fill: var(--ink-muted);
+  font: 18px var(--font-ui);
+}
+.cmap-stop {
+  cursor: pointer;
+}
+.cmap-stop:hover .cmap-label-box,
+.cmap-stop:focus-visible .cmap-label-box {
+  stroke: var(--accent-vermilion);
+  stroke-width: 3;
+}
+.cmap-stop:focus-visible {
+  outline: none;
+}
+.cmap-scale line {
+  stroke: var(--ink-body);
+  stroke-width: 2;
+}
+.cmap-scale text,
+.cmap-north text {
+  fill: var(--ink-body);
+  font: 600 15px var(--font-ui);
+}
+.cmap-north path {
+  fill: var(--accent-vermilion);
+}
+.cmap-note {
+  margin-top: 6px;
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+.cmap-badge {
+  fill: var(--accent-vermilion);
+  stroke: var(--bg-raised);
+  stroke-width: 2;
+}
+.cmap-badge-n {
+  fill: #fff;
+  font: 700 12px var(--font-ui);
+}

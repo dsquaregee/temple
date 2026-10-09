@@ -77,6 +77,28 @@ for (const [locale, byId] of Object.entries(circuits)) {
   }
 }
 
+// Circuit membership is recorded on both sides (circuit.stops and
+// temple.circuits); they must agree so a newly added temple can't be listed on
+// a circuit yet missing from its route map, or vice versa. Every stop also
+// needs real coordinates — the route map is drawn from them.
+for (const [locale, byId] of Object.entries(circuits)) {
+  for (const c of Object.values(byId)) {
+    const stops = new Set(c.stops ?? []);
+    for (const t of Object.values(temples[locale] ?? {})) {
+      const listed = (t.circuits ?? []).includes(c.id);
+      if (listed && !stops.has(t.id))
+        errors.push(`circuits/${locale}/${c.id}: temple "${t.id}" lists this circuit but is not in its stops`);
+      if (!listed && stops.has(t.id))
+        errors.push(`temples/${locale}/${t.id}: is a stop of circuit "${c.id}" but its "circuits" field omits it`);
+      if (stops.has(t.id)) {
+        const { lat, lng } = t.location ?? {};
+        if (!(Number.isFinite(lat) && lat >= 5 && lat <= 23 && Number.isFinite(lng) && lng >= 71 && lng <= 88))
+          errors.push(`temples/${locale}/${t.id}: location lat/lng missing or outside South India (route map)`);
+      }
+    }
+  }
+}
+
 // Every non-English locale must mirror the English catalog exactly.
 const enTemples = Object.keys(temples.en ?? {}).sort();
 const enCircuits = Object.keys(circuits.en ?? {}).sort();

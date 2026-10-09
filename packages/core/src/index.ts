@@ -5,3 +5,4 @@ export * from './media';
 export * from './discover';
 export * from './featured';
 export * from './listen';
+export * from './circuit-map';

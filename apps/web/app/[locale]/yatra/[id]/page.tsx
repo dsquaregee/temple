@@ -6,6 +6,7 @@ import { LOCALES } from '@/lib/locales';
 import { absUrl, breadcrumbList } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
+import { CircuitMap } from '@/components/CircuitMap';
 
 export const dynamicParams = false;
 
@@ -96,6 +97,14 @@ export default function CircuitDetail({
         </span>
         <span className="chip">{circuit.theme}</span>
       </div>
+
+      <CircuitMap
+        circuitName={circuit.name}
+        temples={stops}
+        locale={locale}
+        title={ui.labels.routeMap}
+        note={ui.labels.routeNote}
+      />
 
       <section className="section">
         <p className="lead">{circuit.description}</p>

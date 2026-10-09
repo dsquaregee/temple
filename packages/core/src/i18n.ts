@@ -55,6 +55,8 @@ export interface UiStrings {
     allTemples: string;
     circuits: string;
     stops: string;
+    routeMap: string;
+    routeNote: string;
     partOf: string;
     unesco: string;
     deity: string;
@@ -125,6 +127,8 @@ export const strings: Record<Locale, UiStrings> = {
       allTemples: 'All temples',
       circuits: 'Pilgrimage circuits',
       stops: 'stops',
+      routeMap: 'Route map',
+      routeNote: 'Route shown is illustrative, not a road route.',
       partOf: 'Part of',
       unesco: 'UNESCO World Heritage',
       deity: 'Deity',
@@ -193,6 +197,8 @@ export const strings: Record<Locale, UiStrings> = {
       allTemples: 'அனைத்து கோயில்கள்',
       circuits: 'யாத்திரை வழித்தடங்கள்',
       stops: 'தலங்கள்',
+      routeMap: 'பயண வரைபடம்',
+      routeNote: 'காட்டப்படும் வழி விளக்கத்திற்காக மட்டுமே; சாலை வழி அல்ல.',
       partOf: 'இதன் பகுதி',
       unesco: 'யுனெஸ்கோ உலக பாரம்பரியம்',
       deity: 'மூலவர்',
@@ -261,6 +267,8 @@ export const strings: Record<Locale, UiStrings> = {
       allTemples: 'అన్ని ఆలయాలు',
       circuits: 'యాత్రా మార్గాలు',
       stops: 'క్షేత్రాలు',
+      routeMap: 'యాత్రా మార్గ పటం',
+      routeNote: 'చూపిన మార్గం సూచన కోసం మాత్రమే; రహదారి మార్గం కాదు.',
       partOf: 'ఇందులో భాగం',
       unesco: 'యునెస్కో ప్రపంచ వారసత్వం',
       deity: 'మూలవిరాట్టు',
@@ -329,6 +337,8 @@ export const strings: Record<Locale, UiStrings> = {
       allTemples: 'ಎಲ್ಲಾ ದೇವಾಲಯಗಳು',
       circuits: 'ಯಾತ್ರಾ ಮಾರ್ಗಗಳು',
       stops: 'ಕ್ಷೇತ್ರಗಳು',
+      routeMap: 'ಯಾತ್ರಾ ಮಾರ್ಗ ನಕ್ಷೆ',
+      routeNote: 'ತೋರಿಸಿರುವ ಮಾರ್ಗ ಸೂಚನೆಗಾಗಿ ಮಾತ್ರ; ರಸ್ತೆ ಮಾರ್ಗವಲ್ಲ.',
       partOf: 'ಇದರ ಭಾಗ',
       unesco: 'ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆ',
       deity: 'ಮೂಲ ದೇವರು',
@@ -397,6 +407,8 @@ export const strings: Record<Locale, UiStrings> = {
       allTemples: 'എല്ലാ ക്ഷേത്രങ്ങളും',
       circuits: 'തീർത്ഥാടന പാതകൾ',
       stops: 'ക്ഷേത്രങ്ങൾ',
+      routeMap: 'യാത്രാ മാർഗരേഖ',
+      routeNote: 'കാണിച്ചിരിക്കുന്ന പാത സൂചനയ്ക്കു മാത്രം; റോഡ് മാർഗമല്ല.',
       partOf: 'ഇതിന്റെ ഭാഗം',
       unesco: 'യുനെസ്കോ ലോക പൈതൃകം',
       deity: 'പ്രതിഷ്ഠ',
@@ -465,6 +477,8 @@ export const strings: Record<Locale, UiStrings> = {
       allTemples: 'सभी मंदिर',
       circuits: 'तीर्थ मार्ग',
       stops: 'क्षेत्र',
+      routeMap: 'यात्रा मार्ग मानचित्र',
+      routeNote: 'दिखाया गया मार्ग केवल संकेत के लिए है, सड़क मार्ग नहीं।',
       partOf: 'इसका भाग',
       unesco: 'यूनेस्को विश्व धरोहर',
       deity: 'मूल देवता',
