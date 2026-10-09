@@ -52,7 +52,7 @@ const LOCALES = (ONLY ?? Object.keys(VOICES)).filter((l) => VOICES[l]);
 // voice change must land at a new URL or browsers/CDN keep the old narration.
 // Bump a locale's rev when its voice or lexicon changes materially; the resume
 // check below then regenerates every file for that locale (URL mismatch).
-const REV = { en: 'v3' };
+const REV = { en: 'v4' };
 const audioPath = (locale, id) => `audio/${locale}/${REV[locale] ? `${REV[locale]}/` : ''}${id}.mp3`;
 
 // Voices compared in sample mode: today's voice as the baseline, then the newer
