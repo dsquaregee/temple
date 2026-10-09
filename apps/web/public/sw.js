@@ -11,7 +11,10 @@
 // same-origin pages aren't served stale after the temples2 cutover.
 // v4: purge pages cached before the Listen-tab playlist hub shipped, so
 // returning visitors don't keep seeing the old single-channel music card.
-const VERSION = 'v4';
+// v5: purge pages cached before the English narration pronunciation fixes
+// (authentic Tamil zh + REV v4 audio/video), so returning visitors' cached
+// pages stop pointing at the old audio/video URLs.
+const VERSION = 'v5';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];
