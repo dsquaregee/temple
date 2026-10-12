@@ -14,7 +14,7 @@ Master-list entry confirmed: Thiruvellarai — Pundarikakshan, Thiruvellarai, Ti
 - Pallava sculptures of Narasimha and Varaha; Vijayanagara/Nayak wall paintings in the Pundarikakshan shrine, some surviving.
 - Later contributions: Medieval Cholas, later Pandyas, Vijayanagara, Madurai Nayaks.
 - Legend: tradition credits the founding to King Sibi Chakravarti; some local tradition holds it older than Srirangam (not scholarly).
-- Coordinates used: 10.972, 78.668 (approximate — infobox not fetchable this session; VERIFY).
+- Coordinates used: 10.956, 78.668 (Wikipedia infobox 10°57′21.6″N 78°40′03.7″E).
 - Not verified: Thirumangai pasuram count; festival calendar.
 
 ## Sources

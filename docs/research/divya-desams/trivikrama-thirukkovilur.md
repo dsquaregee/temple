@@ -12,7 +12,7 @@ Region: Nadu Nadu. Master-list name/place confirmed.
 - Pasuram count: not confirmed this session.
 
 ## Location
-- **Coordinates NOT verified** (web search budget exhausted; Wikipedia unreachable). Used approximate town-centre value **11.967, 79.203** — please verify against the Wikipedia infobox.
+- Coordinates: temple 11.96694 N, 79.20194 E (Wikipedia infobox); town 11.9675, 79.2056. Used 11.967, 79.202.
 - Tirukoilur town, on the Thenpennai (Pennaiyar) river.
 
 ## History

@@ -13,7 +13,7 @@ Master-list entry confirmed: Thirukkandiyur — Hara Saabha Vimochana Perumal, K
 - History: attributed to the Medieval Cholas (late 8th c.), later Vijayanagara and Madurai Nayak contributions (Wikipedia). No specific inscriptions found.
 - Gopuram: sources disagree (three-tier vs five-tier) — tier count omitted.
 - Festivals (Dinamalar): Panguni Brahmotsavam (Mar–Apr), Aippasi Pavitrotsavam, Vaikunta Ekadashi, Karthigai Deepam.
-- Coordinates used: 10.858, 79.105 (approximate — infobox not fetchable this session; VERIFY).
+- Coordinates used: 10.860, 79.108 (Wikipedia infobox 10°51′36″N 79°6′30″E).
 
 ## Sources
 - https://en.wikipedia.org/wiki/Hara_Saabha_Vimocchana_Perumal_Temple

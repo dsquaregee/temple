@@ -10,7 +10,7 @@ Master-list entry confirmed: Thiru Anbil — Vadivazhagiya Nambi / Sundararaja, 
 - Sthala purana: Brahma, proud of his power of creation, was cursed by Vishnu to be born on earth; repenting, he prayed here and was relieved.
 - History: believed built by Cholas (late 8th c.); the Anbil copper plates record Chola generosity; Aniruddha Brahmarayar, prime minister of Sundara Chola, was from Anbil.
 - Festivals: Theerthavari festival in Masi (Feb–Mar) is most prominent; Vaikunta Ekadashi. Administered by HR&CE.
-- Coordinates used: 10.867, 78.883 (approximate — infobox not fetchable this session; VERIFY).
+- Coordinates used: 10.868, 78.882 (Wikipedia infobox 10°52′04″N 78°52′56″E).
 - Not verified: facing direction; pasuram number.
 
 ## Sources

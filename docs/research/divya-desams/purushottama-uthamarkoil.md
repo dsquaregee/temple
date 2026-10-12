@@ -12,7 +12,7 @@ Master-list entry confirmed: Thirukkarambanur (Uthamar Kovil) — Purushottaman,
 - Legend: Shiva, after severing one of Brahma's heads, bore the skull as a begging bowl; at Karambanur Lakshmi (Poornavalli, "she who fills") filled his bowl and relieved him.
 - Tradition: Thirumangai Alvar lived here for a time while supervising renovation works at Srirangam.
 - History: Wikipedia lists the Cholas as builders; Dravidian style. Administered by HR&CE.
-- Coordinates used: 10.888, 78.698 (approximate — infobox not fetchable this session; VERIFY).
+- Coordinates used: 10.877, 78.703 (Wikipedia infobox 10°52′38″N 78°42′11″E).
 - Not verified: festival calendar specifics.
 
 ## Sources

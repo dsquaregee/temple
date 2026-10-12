@@ -12,7 +12,7 @@ Region: Thondai Nadu. Master-list name/place confirmed. No dedicated Wikipedia a
 
 ## Location
 - Kanchipuram, near the Ashtabujakaram temple.
-- **Coordinates NOT verified**. Used approximate **12.838, 79.710** — verify.
+- Coordinates: Wikipedia (Tiruvelukkai) 12°49'20"N 79°42'24"E (12.8222, 79.7067). Used 12.822, 79.707. Smallest Divya Desam in Kanchipuram; very near Ashtabhuja temple.
 
 ## Architecture
 - Vimana: Kanaka Vimanam. Tank: Kanaka Saras.

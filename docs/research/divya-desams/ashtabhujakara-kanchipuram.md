@@ -11,7 +11,7 @@ Region: Thondai Nadu. Master-list name/place confirmed.
 - One of the 14 Divya Desams in Kanchipuram (Wikipedia list).
 
 ## Location
-- **Coordinates NOT verified** (search budget exhausted). Used approximate Kanchipuram value **12.837, 79.708** — verify against Wikipedia infobox.
+- Coordinates: Wikipedia 12°49'21"N 79°42'39"E (12.8225, 79.7108). Used 12.823, 79.711. Located in Chinna Kanchipuram (Reddypet), ~2 km from Varadaraja Perumal temple per Wikipedia.
 - Thiruvelukkai (Azhagiya Singar) temple is close by.
 
 ## History / architecture
