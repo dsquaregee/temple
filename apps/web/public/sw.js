@@ -16,7 +16,9 @@
 // pages stop pointing at the old audio/video URLs.
 // v6: v4 video URLs landed after the v5 bump (the earlier media commit was
 // rejected mid-run), so bump again to push the new video narration to users.
-const VERSION = 'v6';
+// v7: Cloudflare Web Analytics beacon added (+ CSP allowance), so purge pages
+// cached before it so returning visitors load the beacon too.
+const VERSION = 'v7';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];

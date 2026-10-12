@@ -3,6 +3,12 @@
 // the sitemap and robots routes build their absolute URLs from here.
 export const SITE_URL = 'https://temples.dsquaregee.com';
 
+// Cloudflare Web Analytics beacon token (cookieless, privacy-friendly, no PII).
+// Loaded in app/layout.tsx; its hosts are allowlisted in the CSP (header + the
+// per-page <meta> via EXTRA_SCRIPT_SRC in scripts/csp-hashes.mjs). Empty string
+// disables the beacon.
+export const CF_ANALYTICS_TOKEN = 'c05cb7ddd8d0414da246f586c2583596';
+
 // Owner's YouTube channel (Carnatic music, handle: DeeSqrGee).
 export const YOUTUBE_CHANNEL = 'https://www.youtube.com/@DeeSqrGee';
 
