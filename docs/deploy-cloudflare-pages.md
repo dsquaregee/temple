@@ -58,7 +58,7 @@ Only after Part 2 looks right:
 > If you still see a stale page on your own machine right after the cutover,
 > hard-reload or use an incognito window (the v3 service worker self-heals).
 
-## Part 4 — Retire Firebase Hosting (done)
+## Part 4 — Retire Firebase Hosting
 
 - `.github/workflows/deploy.yml` (the Firebase hosting/Firestore-rules deploy) has
   been **removed** — Cloudflare Workers Builds handles deploys now.
@@ -66,6 +66,24 @@ Only after Part 2 looks right:
   later; nothing in the live site uses Firestore/Auth today. Firestore rules are
   no longer auto-deployed — push them manually with
   `firebase deploy --only firestore:rules --project temples2` if you add them.
+
+### Decommission the leftover Hosting site (do this once)
+
+Retiring `deploy.yml` stopped *new* deploys but left the Firebase Hosting site
+**live and connected**. Two leftovers to clear:
+
+1. **The stale site is still served** at `temples2.web.app` / `temples2.firebaseapp.com`
+   (old content, pre-Cloudflare). Take it down with the one-click workflow
+   **`.github/workflows/firebase-hosting-disable.yml`** (Actions → "Disable Firebase
+   Hosting" → Run), or `npx firebase-tools@15 hosting:disable --project temples2 --force`.
+2. **`temples.dsquaregee.com` is still a *connected custom domain* in Firebase
+   Hosting.** This is the real cause of the **`Google-Firebase`** user-agent requests
+   seen in the Cloudflare analytics: Firebase keeps probing the domain for cert/health
+   (its `/__/…` paths 404 on Cloudflare, inflating the 404 count). Removing it is
+   **Console-only** — Firebase Console → project `temples2` → **Hosting → the
+   `temples.dsquaregee.com` domain → Remove**. DNS is already on Cloudflare, so this
+   is zero-risk; it just stops Firebase managing the domain. After removal the
+   `Google-Firebase` traffic (and that slice of 404s) trends to zero over a few days.
 
 ## Notes
 

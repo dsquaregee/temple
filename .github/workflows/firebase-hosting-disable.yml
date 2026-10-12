@@ -1,0 +1,39 @@
+name: Disable Firebase Hosting
+
+# One-click decommission of the now-redundant Firebase Hosting site. The site
+# (temples2.web.app) is a stale leftover from before the Cloudflare cutover — the
+# live site is served entirely by Cloudflare + R2 (see docs/deploy-cloudflare-pages.md).
+# `hosting:disable` stops temples2.web.app serving; it does NOT touch the Firebase
+# PROJECT (Firestore/Auth stay) and does NOT remove the custom-domain connection.
+#
+# IMPORTANT: the "Google-Firebase" requests still hitting the Cloudflare zone come
+# from the custom domain `temples.dsquaregee.com` still being CONNECTED in Firebase
+# Hosting. That must be removed in the Firebase Console (Hosting → the domain →
+# Remove) — it is not scriptable here. This workflow only takes the stale site down.
+#
+# Manual dispatch only — a deliberate, owner-initiated action, never automatic.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: firebase-hosting-disable
+  cancel-in-progress: false
+
+jobs:
+  disable:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Write service account key
+        run: printf '%s' '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > "$RUNNER_TEMP/sa-key.json"
+
+      - name: Disable Firebase Hosting (temples2)
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/sa-key.json
+        run: npx firebase-tools@15 hosting:disable --project temples2 --force
+
+      - name: Clean up credentials
+        if: always()
+        run: rm -f "$RUNNER_TEMP/sa-key.json"
