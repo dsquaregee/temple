@@ -1,20 +1,17 @@
-// One-off generator for packages/core/geo/south-india-land.json — the coastline drawn
-// under every circuit route map (components/CircuitMap.tsx). Geography doesn't
-// change, so this only needs re-running to widen the covered area (e.g. a
-// circuit outside South India; validate.mjs enforces the current bbox).
+// One-off generator for packages/core/geo/south-asia-land.json — the land
+// outline drawn under every circuit route map. Geography doesn't change, so this
+// only needs re-running to widen the covered area (validate.mjs enforces it).
 //
 //   cd $(mktemp -d) && npm i world-atlas@2.0.2 topojson-client@3.1.0 && \
-//     node /path/to/apps/web/scripts/gen-land-outline.mjs && \
-//     cp out.json /path/to/packages/core/geo/south-india-land.json
+//     node /path/to/apps/web/scripts/gen-land-outline.mjs 0.006 && \
+//     cp out2.json /path/to/packages/core/geo/south-asia-land.json
 //
-// Source: Natural Earth 1:10m countries (public domain), via world-atlas.
+// Source: Natural Earth 1:10m land (public domain), via world-atlas.
 import { readFileSync, writeFileSync } from 'node:fs';
 import * as topo from 'topojson-client';
-const world = JSON.parse(readFileSync('node_modules/world-atlas/countries-10m.json', 'utf8'));
-const fc = topo.feature(world, world.objects.countries);
-const pick = fc.features.filter((f) => ['India', 'Sri Lanka'].includes(f.properties.name));
-const [W, E, S, N] = [71, 88, 5.5, 22];
-// Sutherland–Hodgman clip of a ring to the bbox.
+const world = JSON.parse(readFileSync('node_modules/world-atlas/land-10m.json', 'utf8'));
+const fc = topo.feature(world, world.objects.land);
+const [W, E, S, N] = [66, 98, 4, 37];
 function clip(ring) {
   let out = ring;
   const edges = [
@@ -34,20 +31,21 @@ function clip(ring) {
   }
   return out;
 }
+const TOL = Number(process.argv[2] || 0.006);
 const rings = [];
-for (const f of pick) {
+for (const f of fc.features) {
   const polys = f.geometry.type === 'Polygon' ? [f.geometry.coordinates] : f.geometry.coordinates;
   for (const p of polys) {
     const r = clip(p[0]);
     if (r.length < 3) continue;
-    // drop points closer than ~0.005° (~500 m) to the previous kept point
     const kept = [];
     for (const [x, y] of r) {
       const l = kept[kept.length - 1];
-      if (!l || Math.hypot(x - l[0], y - l[1]) > 0.005) kept.push([Math.round(x * 1000) / 1000, Math.round(y * 1000) / 1000]);
+      if (!l || Math.hypot(x - l[0], y - l[1]) > TOL) kept.push([Math.round(x * 1000) / 1000, Math.round(y * 1000) / 1000]);
     }
-    if (kept.length >= 3) rings.push(kept);
+    if (kept.length >= 4) rings.push(kept);
   }
 }
-console.log(rings.length, rings.reduce((a, r) => a + r.length, 0));
-writeFileSync('out.json', JSON.stringify({ source: 'Natural Earth 1:10m countries (public domain) via world-atlas@2.0.2; India + Sri Lanka clipped to lng 71–88, lat 5.5–22', rings }));
+const out = JSON.stringify({ source: 'Natural Earth 1:10m land (public domain) via world-atlas@2.0.2; clipped to lng 66–98, lat 4–37 (South Asia)', rings });
+console.log(rings.length, rings.reduce((a, r) => a + r.length, 0), out.length);
+writeFileSync('out2.json', out);

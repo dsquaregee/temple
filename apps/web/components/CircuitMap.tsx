@@ -1,4 +1,4 @@
-import { layoutCircuitMap, SOUTH_INDIA_LAND, type Temple } from '@temple/core';
+import { DOT_R, layoutCircuitMap, SOUTH_ASIA_LAND, type Temple } from '@temple/core';
 
 // Illustrated route map for a circuit: coastline, a golden route through the
 // stops in pilgrimage order, numbered pins, and labels — every pin and label
@@ -13,6 +13,7 @@ export function CircuitMap({
   title,
   note,
   orderLabel,
+  offset = 0,
 }: {
   circuitName: string;
   temples: Temple[];
@@ -20,6 +21,8 @@ export function CircuitMap({
   title: string;
   note: string;
   orderLabel: string;
+  /** Numbering offset for a grouped circuit's later sections. */
+  offset?: number;
 }) {
   const layout = layoutCircuitMap(
     temples.map((t) => ({
@@ -29,11 +32,15 @@ export function CircuitMap({
       lat: t.location.lat,
       lng: t.location.lng,
     })),
-    SOUTH_INDIA_LAND
+    SOUTH_ASIA_LAND,
+    { offset }
   );
   if (!layout.pins.length) return null;
   const { width: W, height: H } = layout;
-  const titleId = 'cmap-title';
+  // Unique per map: a grouped circuit renders several on one page.
+  const titleId = `cmap-title-${offset}`;
+  const pinById = new Map(layout.pins.map((p) => [p.id, p]));
+  const nameById = new Map(temples.map((t) => [t.id, t.name]));
 
   return (
     <figure className="cmap">
@@ -79,8 +86,23 @@ export function CircuitMap({
             )
         )}
 
+        {layout.mode === 'compact' &&
+          layout.pins.map((p) => (
+            <a
+              key={p.id}
+              href={`/${locale}/temples/${p.id}/`}
+              aria-label={`${p.n}. ${nameById.get(p.id) ?? ''}`}
+              className="cmap-stop"
+            >
+              <circle className="cmap-dotpin" cx={p.x} cy={p.y} r={DOT_R} />
+              <text className="cmap-dot-n" x={p.x} y={p.y + 4} textAnchor="middle" fontSize={p.n > 99 ? 9 : 11}>
+                {p.n}
+              </text>
+            </a>
+          ))}
+
         {layout.labels.map((l) => {
-          const pin = layout.pins[l.n - 1];
+          const pin = pinById.get(l.id);
           if (!pin) return null;
           return (
             <a
@@ -100,11 +122,11 @@ export function CircuitMap({
                 <rect className="cmap-label-box" width={l.w} height={l.h} rx="10" />
                 <use href="#cmap-gopuram" className="cmap-gopuram" x="7" y={l.h / 2 - 15} width="26" height="26" />
                 <circle className="cmap-badge" cx="31" cy={l.h / 2 + 9} r="9.5" />
-                <text className="cmap-badge-n" x="31" y={l.h / 2 + 13.5} textAnchor="middle">
+                <text className="cmap-badge-n" x="31" y={l.h / 2 + 13} textAnchor="middle" fontSize={l.n > 99 ? 9 : 12}>
                   {l.n}
                 </text>
                 {l.lines.map((line, i) => (
-                  <text key={i} className="cmap-name" x="46" y={30 + i * 24} style={{ fontSize: l.nameFont }}>
+                  <text key={i} className="cmap-name" x="46" y={30 + i * 24} fontSize={l.nameFont}>
                     {line}
                   </text>
                 ))}

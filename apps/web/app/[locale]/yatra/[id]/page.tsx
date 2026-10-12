@@ -7,6 +7,7 @@ import { absUrl, breadcrumbList } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
 import { CircuitMap } from '@/components/CircuitMap';
+import { resolveGroups, StopCards } from '@/components/CircuitStops';
 
 export const dynamicParams = false;
 
@@ -45,6 +46,8 @@ export default function CircuitDetail({
   if (!circuit) notFound();
   const ui = t(locale);
   const stops = getCircuitTemples(locale, circuit);
+  // Large circuits (e.g. the Divya Desams) are split into regional pages.
+  const groups = resolveGroups(circuit, stops);
 
   // TouristTrip with the stops as an ordered itinerary of attractions — lets
   // Google understand a circuit as a real multi-stop pilgrimage route.
@@ -98,37 +101,67 @@ export default function CircuitDetail({
         <span className="chip">{circuit.theme}</span>
       </div>
 
-      <CircuitMap
-        circuitName={circuit.name}
-        temples={stops}
-        locale={locale}
-        title={ui.labels.routeMap}
-        note={ui.labels.routeNote}
-        orderLabel={ui.labels.drivingOrder}
-      />
+      {groups ? (
+        <section className="section">
+          <p className="lead">{circuit.description}</p>
+        </section>
+      ) : (
+        <>
+          <CircuitMap
+            circuitName={circuit.name}
+            temples={stops}
+            locale={locale}
+            title={ui.labels.routeMap}
+            note={ui.labels.routeNote}
+            orderLabel={ui.labels.drivingOrder}
+          />
+          <section className="section">
+            <p className="lead">{circuit.description}</p>
+          </section>
+        </>
+      )}
 
-      <section className="section">
-        <p className="lead">{circuit.description}</p>
-      </section>
-
-      <section className="section" aria-labelledby="stops-h">
-        <h2 id="stops-h">{ui.labels.stops}</h2>
-        <div className="stops">
-          {stops.map((temple) => (
-            <a
-              key={temple.id}
-              className="card"
-              href={`/${locale}/temples/${temple.id}/`}
-            >
-              <h3>{temple.name}</h3>
-              <div className="native">{temple.nativeName}</div>
-              <div className="meta">
-                {temple.location.city}, {temple.location.state}
-              </div>
-            </a>
-          ))}
-        </div>
-      </section>
+      {groups ? (
+        // Overview: every stop as a numbered dot, then one tile per region —
+        // each region has its own page with a detailed map and the temples.
+        <>
+          <CircuitMap
+            circuitName={circuit.name}
+            temples={stops}
+            locale={locale}
+            title={ui.labels.routeMap}
+            note={ui.labels.routeNote}
+            orderLabel={ui.labels.drivingOrder}
+          />
+          <section className="section" aria-labelledby="regions-h">
+            <h2 id="regions-h">{ui.labels.stops}</h2>
+            <div className="stops stops--explicit">
+              {groups.map((g) => (
+                <a key={g.id} className="card" href={`/${locale}/yatra/${circuit.id}/${g.id}/`}>
+                  <span className="stop-n stop-n--range" aria-hidden="true">
+                    {g.offset + 1}–{g.offset + g.temples.length}
+                  </span>
+                  <h3>{g.name}</h3>
+                  <div className="meta">
+                    {g.temples.length} {ui.labels.stops} ·{' '}
+                    {g.temples
+                      .slice(0, 3)
+                      .map((t) => t.location.city.split(',')[0])
+                      .join(', ')}
+                    {g.temples.length > 3 ? '…' : ''}
+                  </div>
+                </a>
+              ))}
+            </div>
+          </section>
+        </>
+      ) : (
+        <section className="section" aria-labelledby="stops-h">
+          <h2 id="stops-h">{ui.labels.stops}</h2>
+          <StopCards temples={stops} locale={locale} />
+        </section>
+      )}
     </PageChrome>
   );
 }
+
