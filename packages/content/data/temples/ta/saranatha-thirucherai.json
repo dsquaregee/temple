@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/saranatha-thirucherai.mp3",
     "durationSec": 185
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "color": "#5C3A2E",
+    "alt": "சாரநாதப் பெருமாள் கோயில், திருச்சேறை",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/saranatha-thirucherai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "durationSec": 177,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

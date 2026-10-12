@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/navamukunda-thirunavaya.mp3",
     "durationSec": 189
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/navamukunda-thirunavaya.jpg",
+    "color": "#5C3A2E",
+    "alt": "നവമുകുന്ദ പെരുമാൾ ക്ഷേത്രം, തിരുനാവായ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/navamukunda-thirunavaya.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/navamukunda-thirunavaya.jpg",
+    "durationSec": 142,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

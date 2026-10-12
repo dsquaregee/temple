@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/sathyagirinatha-thirumeyyam.mp3",
     "durationSec": 192
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "color": "#5C3A2E",
+    "alt": "சத்தியமூர்த்தி பெருமாள் கோயில், திருமெய்யம்",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/sathyagirinatha-thirumeyyam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "durationSec": 174,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

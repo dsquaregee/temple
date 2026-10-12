@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/govindaraja-chidambaram.mp3",
     "durationSec": 145
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/govindaraja-chidambaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "గోవిందరాజ పెరుమాళ్ ఆలయం, చిదంబరం",
+    "credit": "Raghavendran / Wikimedia Commons (Public domain)"
   }
 }

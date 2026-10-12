@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/parthasarathy-thiruvallikeni.mp3",
     "durationSec": 168
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",
+    "color": "#5C3A2E",
+    "alt": "పార్థసారథి పెరుమాళ్ ఆలయం, తిరువల్లిక్కేణి",
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/parthasarathy-thiruvallikeni.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",
+    "durationSec": 181,
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

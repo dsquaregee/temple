@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/badrinarayan-badrinath.mp3",
     "durationSec": 201
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.jpg",
+    "color": "#5C3A2E",
+    "alt": "ബദരീനാരായണ ക്ഷേത്രം, ബദരീനാഥ്",
+    "credit": "Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · AaS / Wikimedia Commons (CC BY-SA 4.0) · Abhilash Addanki / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/badrinarayan-badrinath.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.jpg",
+    "durationSec": 160,
+    "credit": "Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · AaS / Wikimedia Commons (CC BY-SA 4.0) · Abhilash Addanki / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

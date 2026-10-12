@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/sathyagirinatha-thirumeyyam.mp3",
     "durationSec": 163
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "color": "#5C3A2E",
+    "alt": "సత్యమూర్తి పెరుమాళ్ ఆలయం, తిరుమెయ్యం",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/sathyagirinatha-thirumeyyam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "durationSec": 177,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

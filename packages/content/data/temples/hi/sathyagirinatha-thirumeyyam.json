@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/sathyagirinatha-thirumeyyam.mp3",
     "durationSec": 172
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "color": "#5C3A2E",
+    "alt": "सत्यमूर्ति पेरुमाळ मंदिर, तिरुमेय्यम्",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/sathyagirinatha-thirumeyyam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "durationSec": 154,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

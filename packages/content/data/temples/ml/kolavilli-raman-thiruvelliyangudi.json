@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/kolavilli-raman-thiruvelliyangudi.mp3",
     "durationSec": 170
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "കോല വൽവില്ലി രാമർ ക്ഷേത്രം, തിരുവെള്ളിയങ്കുടി",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/kolavilli-raman-thiruvelliyangudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",
+    "durationSec": 130,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

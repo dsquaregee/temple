@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/vamana-thrikkakara.mp3",
     "durationSec": 189
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.jpg",
+    "color": "#5C3A2E",
+    "alt": "வாமனமூர்த்தி கோயில், திருக்காக்கரை",
+    "credit": "Gvelli / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

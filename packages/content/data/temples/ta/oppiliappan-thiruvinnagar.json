@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/oppiliappan-thiruvinnagar.mp3",
     "durationSec": 198
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஒப்பிலியப்பன் கோயில், திருவிண்ணகர்",
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

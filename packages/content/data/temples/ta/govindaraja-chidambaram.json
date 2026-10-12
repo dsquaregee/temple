@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/govindaraja-chidambaram.mp3",
     "durationSec": 170
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/govindaraja-chidambaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "கோவிந்தராஜப் பெருமாள் கோயில், சிதம்பரம்",
+    "credit": "Raghavendran / Wikimedia Commons (Public domain)"
   }
 }

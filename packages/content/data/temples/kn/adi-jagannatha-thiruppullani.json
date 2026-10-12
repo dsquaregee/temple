@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/adi-jagannatha-thiruppullani.mp3",
     "durationSec": 177
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಆದಿ ಜಗನ್ನಾಥ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಪ್ಪುಲ್ಲಾಣಿ",
+    "credit": "Balajijagadesh / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Muralikrishna m / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/adi-jagannatha-thiruppullani.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",
+    "durationSec": 182,
+    "credit": "Balajijagadesh / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Muralikrishna m / Wikimedia Commons (CC BY 4.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/navamukunda-thirunavaya.mp3",
     "durationSec": 167
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/navamukunda-thirunavaya.jpg",
+    "color": "#5C3A2E",
+    "alt": "ನವಮುಕುಂದ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುನಾವಾಯ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/navamukunda-thirunavaya.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/navamukunda-thirunavaya.jpg",
+    "durationSec": 169,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

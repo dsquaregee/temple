@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/yathothkari-thiruvekka.mp3",
     "durationSec": 204
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.jpg",
+    "color": "#5C3A2E",
+    "alt": "യഥോത്കാരി പെരുമാൾ ക്ഷേത്രം, തിരുവെക്കാ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

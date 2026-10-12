@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/kolavilli-raman-thiruvelliyangudi.mp3",
     "durationSec": 172
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "கோலவில்லி ராமர் கோயில், திருவெள்ளியங்குடி",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/kolavilli-raman-thiruvelliyangudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",
+    "durationSec": 163,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

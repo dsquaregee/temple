@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/yathothkari-thiruvekka.mp3",
     "durationSec": 191
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.jpg",
+    "color": "#5C3A2E",
+    "alt": "यथोत्कारी पेरुमाळ मंदिर, तिरुवेक्का",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

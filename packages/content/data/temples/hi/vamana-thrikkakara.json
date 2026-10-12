@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/vamana-thrikkakara.mp3",
     "durationSec": 174
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.jpg",
+    "color": "#5C3A2E",
+    "alt": "वामनमूर्ति मंदिर, तृक्काकरा",
+    "credit": "Gvelli / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

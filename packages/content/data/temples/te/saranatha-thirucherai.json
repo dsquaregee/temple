@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/saranatha-thirucherai.mp3",
     "durationSec": 157
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "color": "#5C3A2E",
+    "alt": "సారనాథ పెరుమాళ్ ఆలయం, తిరుచ్చేరై",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/saranatha-thirucherai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "durationSec": 172,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

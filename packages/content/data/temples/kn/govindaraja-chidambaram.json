@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/govindaraja-chidambaram.mp3",
     "durationSec": 147
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/govindaraja-chidambaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಗೋವಿಂದರಾಜ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ಚಿದಂಬರಂ",
+    "credit": "Raghavendran / Wikimedia Commons (Public domain)"
   }
 }

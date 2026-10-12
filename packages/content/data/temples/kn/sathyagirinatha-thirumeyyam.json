@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/sathyagirinatha-thirumeyyam.mp3",
     "durationSec": 171
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಸತ್ಯಮೂರ್ತಿ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಮೆಯ್ಯಂ",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/sathyagirinatha-thirumeyyam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "durationSec": 173,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/vamana-thrikkakara.mp3",
     "durationSec": 169
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವಾಮನಮೂರ್ತಿ ದೇವಾಲಯ, ತ್ರಿಕ್ಕಾಕರ",
+    "credit": "Gvelli / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

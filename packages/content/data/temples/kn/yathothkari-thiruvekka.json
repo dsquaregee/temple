@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/yathothkari-thiruvekka.mp3",
     "durationSec": 183
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಯಥೋತ್ಕಾರಿ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುವೆಃಕಾ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

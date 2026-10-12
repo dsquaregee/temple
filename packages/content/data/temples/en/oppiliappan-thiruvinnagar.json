@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/oppiliappan-thiruvinnagar.mp3",
     "durationSec": 197
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",
+    "color": "#5C3A2E",
+    "alt": "Oppiliappan Temple, Thirunageswaram",
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

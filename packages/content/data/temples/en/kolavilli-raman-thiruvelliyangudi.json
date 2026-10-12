@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kolavilli-raman-thiruvelliyangudi.mp3",
     "durationSec": 175
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kola Valvill Ramar Temple, Thiruvelliyangudi",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kolavilli-raman-thiruvelliyangudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",
+    "durationSec": 134,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

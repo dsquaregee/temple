@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/govindaraja-chidambaram.mp3",
     "durationSec": 186
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/govindaraja-chidambaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "Govindaraja Perumal Temple, Chidambaram",
+    "credit": "Raghavendran / Wikimedia Commons (Public domain)"
   }
 }

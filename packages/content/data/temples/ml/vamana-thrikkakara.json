@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/vamana-thrikkakara.mp3",
     "durationSec": 185
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.jpg",
+    "color": "#5C3A2E",
+    "alt": "വാമനമൂർത്തി ക്ഷേത്രം, തൃക്കാക്കര",
+    "credit": "Gvelli / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

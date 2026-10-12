@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/pundarikaksha-thiruvellarai.mp3",
     "durationSec": 177
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.jpg",
+    "color": "#5C3A2E",
+    "alt": "पुण्डरीकाक्षन पेरुमाळ मंदिर, तिरुवेळ्ळरै",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/pundarikaksha-thiruvellarai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.jpg",
+    "durationSec": 158,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

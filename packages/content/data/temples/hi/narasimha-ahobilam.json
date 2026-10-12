@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/narasimha-ahobilam.mp3",
     "durationSec": 193
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "अहोबिल नरसिंह मंदिर, अहोबिलम्",
+    "credit": "Varunmydala / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar from Bangalore, India / Wikimedia Commons (CC BY-SA 2.0) · P. Madhusudan / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/narasimha-ahobilam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/narasimha-ahobilam.jpg",
+    "durationSec": 174,
+    "credit": "Varunmydala / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar from Bangalore, India / Wikimedia Commons (CC BY-SA 2.0) · P. Madhusudan / Wikimedia Commons (CC0)"
   }
 }
