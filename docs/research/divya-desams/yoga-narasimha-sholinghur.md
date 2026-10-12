@@ -43,3 +43,5 @@ Thondai Nadu Divya Desam. Assigned id: `yoga-narasimha-sholinghur`. Master list 
 
 Note: WebFetch unavailable (DNS) and the shared search budget was exhausted; facts from search
 result text.
+
+Coordinate update (re-checked): Wikipedia "Thirukkadigai" infobox 13°05′19″N 79°25′06″E → 13.0885, 79.4184 (used).

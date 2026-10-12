@@ -40,3 +40,5 @@ Thondai Nadu Divya Desam. Assigned id: `bhaktavatsala-thiruninravur`. Master lis
 - https://divinetraveller.net/2024/03/thiruninravoor.html
 
 Note: WebFetch unavailable and the shared search budget was exhausted; facts from search text.
+
+Coordinate update (re-checked): Wikipedia temple article 13°6′45″N 80°1′34″E → 13.1125, 80.0261 (used).
