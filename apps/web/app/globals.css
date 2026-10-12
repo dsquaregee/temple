@@ -974,8 +974,10 @@ a {
   fill: var(--accent-turmeric);
 }
 .cmap-name {
+  /* Size comes from the per-label font-size attribute (no inline styles: CSP). */
   fill: var(--ink-strong);
-  font: 700 22px var(--font-display);
+  font-family: var(--font-display);
+  font-weight: 700;
 }
 .cmap-city {
   fill: var(--ink-muted);
@@ -1022,4 +1024,30 @@ a {
   display: block;
   font-weight: 600;
   color: var(--ink-body);
+}
+.cmap-dotpin {
+  fill: var(--accent-vermilion);
+  stroke: #fff;
+  stroke-width: 1.5;
+}
+.cmap-dot-n {
+  fill: #fff;
+  font-family: var(--font-ui);
+  font-weight: 700;
+}
+.cmap-stop:hover .cmap-dotpin,
+.cmap-stop:focus-visible .cmap-dotpin {
+  stroke: var(--accent-turmeric);
+  stroke-width: 3;
+}
+/* Grouped circuits (e.g. Divya Desams by region): one counter across sections. */
+.stop-groups {
+  counter-reset: stop;
+}
+.stop-groups .stops {
+  counter-reset: none;
+}
+.group-count {
+  color: var(--ink-muted);
+  font-weight: 400;
 }

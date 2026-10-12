@@ -2,7 +2,7 @@ import { useMemo } from 'react';
 import { Text, View } from 'react-native';
 import Svg, { Circle, G, Line, Path, Rect, Text as SvgText } from 'react-native-svg';
 import { router } from 'expo-router';
-import { layoutCircuitMap, SOUTH_INDIA_LAND, type Temple } from '@temple/core';
+import { DOT_R, layoutCircuitMap, SOUTH_ASIA_LAND, type Temple } from '@temple/core';
 import { useTheme } from '@/lib/theme';
 
 // Native counterpart of the web circuit route map (apps/web/components/
@@ -20,12 +20,15 @@ export function CircuitMap({
   title,
   note,
   orderLabel,
+  offset = 0,
 }: {
   temples: Temple[];
   locale: string;
   title: string;
   note: string;
   orderLabel: string;
+  /** Numbering offset for a grouped circuit's later sections. */
+  offset?: number;
 }) {
   const { colors, dark } = useTheme();
   const layout = useMemo(
@@ -38,9 +41,10 @@ export function CircuitMap({
           lat: t.location.lat,
           lng: t.location.lng,
         })),
-        SOUTH_INDIA_LAND
+        SOUTH_ASIA_LAND,
+        { offset }
       ),
-    [temples]
+    [temples, offset]
   );
   if (!layout.pins.length) return null;
 
@@ -93,8 +97,17 @@ export function CircuitMap({
               />
             ) : null
           )}
+          {layout.mode === 'compact' &&
+            layout.pins.map((p) => (
+              <G key={p.id} onPress={() => open(p.id)}>
+                <Circle cx={p.x} cy={p.y} r={DOT_R} fill={colors.accentVermilion} stroke="#fff" strokeWidth={1.5} />
+                <SvgText x={p.x} y={p.y + 4} fill="#fff" fontSize={p.n > 99 ? 9 : 11} fontWeight="700" textAnchor="middle">
+                  {p.n}
+                </SvgText>
+              </G>
+            ))}
           {layout.labels.map((l) => {
-            const pin = layout.pins[l.n - 1];
+            const pin = layout.pins.find((p) => p.id === l.id);
             if (!pin) return null;
             return (
               <G key={l.id} onPress={() => open(l.id)}>

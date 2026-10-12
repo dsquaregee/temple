@@ -33,6 +33,16 @@ export default function CircuitDetailScreen() {
   }
 
   const stops = getCircuitTemples(locale, circuit);
+  // Optional regional groups (large circuits), numbered continuously.
+  let running = 0;
+  const groups = circuit.groups?.map((g) => {
+    const temples = g.stops
+      .map((gid) => stops.find((t) => t.id === gid))
+      .filter((t): t is (typeof stops)[number] => Boolean(t));
+    const offset = running;
+    running += temples.length;
+    return { name: g.name, temples, offset };
+  });
 
   return (
     <Screen>
@@ -59,30 +69,46 @@ export default function CircuitDetailScreen() {
         <Chip>{circuit.theme}</Chip>
       </View>
 
-      <CircuitMap
-        temples={stops}
-        locale={locale}
-        title={`${ui.labels.routeMap}: ${circuit.name}`}
-        note={ui.labels.routeNote}
-        orderLabel={ui.labels.drivingOrder}
-      />
+      {groups ? null : (
+        <CircuitMap
+          temples={stops}
+          locale={locale}
+          title={`${ui.labels.routeMap}: ${circuit.name}`}
+          note={ui.labels.routeNote}
+          orderLabel={ui.labels.drivingOrder}
+        />
+      )}
 
       <Lead>{circuit.description}</Lead>
 
-      <SectionHeading>{ui.labels.stops}</SectionHeading>
-      {stops.map((tp, i) => (
-        <Card key={tp.id} onPress={() => router.push(`/${locale}/temples/${tp.id}`)}>
-          <Text style={{ color: colors.accentTurmeric, fontWeight: '700', marginBottom: 2 }}>
-            {i + 1}
-          </Text>
-          <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
-            {tp.name}
-          </Text>
-          <NativeName>{tp.nativeName}</NativeName>
-          <Muted>
-            {tp.location.city}, {tp.location.state}
-          </Muted>
-        </Card>
+      {(groups ?? [{ name: ui.labels.stops, temples: stops, offset: 0 }]).map((g) => (
+        <View key={g.name}>
+          <SectionHeading>{groups ? `${g.name} · ${g.temples.length}` : g.name}</SectionHeading>
+          {groups ? (
+            <CircuitMap
+              temples={g.temples}
+              locale={locale}
+              title={`${ui.labels.routeMap}: ${circuit.name} — ${g.name}`}
+              note={ui.labels.routeNote}
+              orderLabel={ui.labels.drivingOrder}
+              offset={g.offset}
+            />
+          ) : null}
+          {g.temples.map((tp, i) => (
+            <Card key={tp.id} onPress={() => router.push(`/${locale}/temples/${tp.id}`)}>
+              <Text style={{ color: colors.accentTurmeric, fontWeight: '700', marginBottom: 2 }}>
+                {g.offset + i + 1}
+              </Text>
+              <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
+                {tp.name}
+              </Text>
+              <NativeName>{tp.nativeName}</NativeName>
+              <Muted>
+                {tp.location.city}, {tp.location.state}
+              </Muted>
+            </Card>
+          ))}
+        </View>
       ))}
     </Screen>
   );

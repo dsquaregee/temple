@@ -9,7 +9,7 @@ import {
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..', '..', '..');
 const data = join(root, 'packages', 'content', 'data');
-const land = JSON.parse(readFileSync(join(root, 'packages', 'core', 'geo', 'south-india-land.json'), 'utf8')).rings;
+const land = JSON.parse(readFileSync(join(root, 'packages', 'core', 'geo', 'south-asia-land.json'), 'utf8')).rings;
 
 const overlap = (a: { x: number; y: number; w: number; h: number }, b: typeof a) =>
   a.x < b.x + b.w && b.x < a.x + a.w && a.y < b.y + b.h && b.y < a.y + a.h;

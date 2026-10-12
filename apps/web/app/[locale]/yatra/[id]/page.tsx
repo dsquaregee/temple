@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { t, type Locale } from '@temple/core';
+import { t, type Locale, type Temple } from '@temple/core';
 import { getCircuit, getCircuitTemples, getCircuits } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { absUrl, breadcrumbList } from '@/lib/jsonld';
@@ -45,6 +45,17 @@ export default function CircuitDetail({
   if (!circuit) notFound();
   const ui = t(locale);
   const stops = getCircuitTemples(locale, circuit);
+  // Resolve optional regional groups to temples, with each group's numbering
+  // offset (its first stop continues from the previous group's last).
+  let running = 0;
+  const groups = circuit.groups?.map((g) => {
+    const temples = g.stops
+      .map((id) => stops.find((t) => t.id === id))
+      .filter((t): t is (typeof stops)[number] => Boolean(t));
+    const offset = running;
+    running += temples.length;
+    return { name: g.name, temples, offset };
+  });
 
   // TouristTrip with the stops as an ordered itinerary of attractions — lets
   // Google understand a circuit as a real multi-stop pilgrimage route.
@@ -98,37 +109,70 @@ export default function CircuitDetail({
         <span className="chip">{circuit.theme}</span>
       </div>
 
-      <CircuitMap
-        circuitName={circuit.name}
-        temples={stops}
-        locale={locale}
-        title={ui.labels.routeMap}
-        note={ui.labels.routeNote}
-        orderLabel={ui.labels.drivingOrder}
-      />
+      {groups ? (
+        <section className="section">
+          <p className="lead">{circuit.description}</p>
+        </section>
+      ) : (
+        <>
+          <CircuitMap
+            circuitName={circuit.name}
+            temples={stops}
+            locale={locale}
+            title={ui.labels.routeMap}
+            note={ui.labels.routeNote}
+            orderLabel={ui.labels.drivingOrder}
+          />
+          <section className="section">
+            <p className="lead">{circuit.description}</p>
+          </section>
+        </>
+      )}
 
-      <section className="section">
-        <p className="lead">{circuit.description}</p>
-      </section>
-
-      <section className="section" aria-labelledby="stops-h">
-        <h2 id="stops-h">{ui.labels.stops}</h2>
-        <div className="stops">
-          {stops.map((temple) => (
-            <a
-              key={temple.id}
-              className="card"
-              href={`/${locale}/temples/${temple.id}/`}
-            >
-              <h3>{temple.name}</h3>
-              <div className="native">{temple.nativeName}</div>
-              <div className="meta">
-                {temple.location.city}, {temple.location.state}
-              </div>
-            </a>
+      {groups ? (
+        // Large circuits are read region by region: a map and list per group,
+        // numbered continuously across the whole circuit.
+        <div className="stop-groups">
+          {groups.map((g, gi) => (
+            <section key={g.name} className="section" aria-labelledby={`group-h-${gi}`}>
+              <h2 id={`group-h-${gi}`}>
+                {g.name} <span className="group-count">· {g.temples.length}</span>
+              </h2>
+              <CircuitMap
+                circuitName={`${circuit.name} — ${g.name}`}
+                temples={g.temples}
+                locale={locale}
+                title={ui.labels.routeMap}
+                note={ui.labels.routeNote}
+                orderLabel={ui.labels.drivingOrder}
+                offset={g.offset}
+              />
+              <StopCards temples={g.temples} locale={locale} />
+            </section>
           ))}
         </div>
-      </section>
+      ) : (
+        <section className="section" aria-labelledby="stops-h">
+          <h2 id="stops-h">{ui.labels.stops}</h2>
+          <StopCards temples={stops} locale={locale} />
+        </section>
+      )}
     </PageChrome>
+  );
+}
+
+function StopCards({ temples, locale }: { temples: Temple[]; locale: Locale }) {
+  return (
+    <div className="stops">
+      {temples.map((temple) => (
+        <a key={temple.id} className="card" href={`/${locale}/temples/${temple.id}/`}>
+          <h3>{temple.name}</h3>
+          <div className="native">{temple.nativeName}</div>
+          <div className="meta">
+            {temple.location.city}, {temple.location.state}
+          </div>
+        </a>
+      ))}
+    </div>
   );
 }

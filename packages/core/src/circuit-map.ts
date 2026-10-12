@@ -42,6 +42,8 @@ export interface CircuitMapLayout {
   /** SVG path data for the route through the stops in order. */
   routePath: string;
   pins: { n: number; id: string; x: number; y: number }[];
+  /** 'labels' — pins with name labels; 'compact' — numbered dots only (large circuits). */
+  mode: 'labels' | 'compact';
   labels: MapLabel[];
   /** Stop numbers (official order, 1-based) in the suggested driving order the route follows. */
   order: number[];
@@ -58,6 +60,10 @@ const LABEL_GAP = 8;
 const NEAR_MAX_W = 260;
 const COL_W = 240;
 const PIN_OFFSET = 24;
+/** Above this many stops, labels can't fit legibly: draw numbered dots instead. */
+export const LABEL_LIMIT = 12;
+/** Radius of a compact-mode numbered dot. */
+export const DOT_R = 11;
 const KM_PER_DEG = 111.32;
 
 // Rough rendered width of a string: Latin glyphs average ~0.56em; Indic scripts
@@ -290,10 +296,48 @@ type Rect = { x: number; y: number; w: number; h: number };
 const hit = (a: Rect, b: Rect, pad = 4) =>
   a.x < b.x + b.w + pad && b.x < a.x + a.w + pad && a.y < b.y + b.h + pad && b.y < a.y + a.h + pad;
 
-export function layoutCircuitMap(stops: MapStop[], land: number[][][]): CircuitMapLayout {
+// Nudge dots apart so none overlap (each stays tappable), keeping them in the
+// frame. Small, local displacements — at circuit scale geography is preserved
+// except inside dense clusters (a dozen shrines in one town), where a readable
+// cluster matters more than metre-level placement.
+export function separateDots(pts: { x: number; y: number }[], minDist: number, W: number, H: number, pad: number) {
+  for (let iter = 0; iter < 200; iter++) {
+    let moved = false;
+    for (let i = 0; i < pts.length; i++) {
+      for (let j = i + 1; j < pts.length; j++) {
+        const a = pts[i]!, b = pts[j]!;
+        let dx = b.x - a.x, dy = b.y - a.y;
+        let d = Math.hypot(dx, dy);
+        if (d >= minDist) continue;
+        if (d < 1e-6) { // coincident: split along a deterministic angle
+          const ang = (j * 2.399963) % (2 * Math.PI);
+          dx = Math.cos(ang); dy = Math.sin(ang); d = 1;
+        }
+        const push = (minDist - d) / 2 + 0.01;
+        const ux = dx / d, uy = dy / d;
+        a.x -= ux * push; a.y -= uy * push;
+        b.x += ux * push; b.y += uy * push;
+        moved = true;
+      }
+    }
+    for (const p of pts) {
+      p.x = Math.min(W - pad, Math.max(pad, p.x));
+      p.y = Math.min(H - pad, Math.max(pad, p.y));
+    }
+    if (!moved) break;
+  }
+}
+
+export function layoutCircuitMap(
+  stops: MapStop[],
+  land: number[][][],
+  opts: { offset?: number } = {}
+): CircuitMapLayout {
+  // `offset` continues numbering across a grouped circuit's sections.
+  const offset = opts.offset ?? 0;
   const valid = stops.filter((s) => Number.isFinite(s.lat) && Number.isFinite(s.lng));
   if (!valid.length) {
-    return { width: MAP_WIDTH, height: 0, landPath: '', routePath: '', pins: [], labels: [], order: [], scale: { x: 0, y: 0, length: 0, label: '' } };
+    return { width: MAP_WIDTH, height: 0, landPath: '', routePath: '', pins: [], labels: [], order: [], mode: 'labels', scale: { x: 0, y: 0, length: 0, label: '' } };
   }
   const lats = valid.map((s) => s.lat);
   const midLat = (Math.min(...lats) + Math.max(...lats)) / 2;
@@ -388,10 +432,22 @@ export function layoutCircuitMap(stops: MapStop[], land: number[][][]): CircuitM
     };
   };
 
-  const chosen = tryNear() ?? columns();
+  // Compact — numbered dots only, for circuits too large to label legibly;
+  // the page's numbered stop list carries the names.
+  const compact = () => {
+    const aspect = spanY / spanX;
+    const H = Math.round(Math.min(900, Math.max(420, (W - 80) * aspect + 110)));
+    const f = fit({ x: 40, y: 40, w: W - 80, h: H - 100 });
+    const pins = valid.map((st, i) => ({ n: i + 1, id: st.id, x: f.toX(st.lng), y: f.toY(st.lat) }));
+    separateDots(pins, DOT_R * 2 + 3, W, H - 40, DOT_R + 4);
+    return { H, f, pins, labels: [] as MapLabel[] };
+  };
+
+  const mode: 'labels' | 'compact' = valid.length > LABEL_LIMIT ? 'compact' : 'labels';
+  const chosen = mode === 'compact' ? compact() : tryNear() ?? columns();
   const { H, f } = chosen;
-  const pins = chosen.pins.map((p) => ({ ...p, x: r1(p.x), y: r1(p.y) }));
-  const labels = chosen.labels.sort((a, b) => a.n - b.n);
+  const pins = chosen.pins.map((p) => ({ ...p, n: p.n + offset, x: r1(p.x), y: r1(p.y) }));
+  const labels = chosen.labels.map((l) => ({ ...l, n: l.n + offset })).sort((a, b) => a.n - b.n);
 
   // Land: project, clip to the frame (+margin so strokes don't show at edges),
   // and thin points closer than ~2.5 units for compact path data.
@@ -421,5 +477,5 @@ export function layoutCircuitMap(stops: MapStop[], land: number[][][]): CircuitM
   const order = drivingOrder(valid);
   const routePath = smoothPath(order.map((i) => pins[i]!));
 
-  return { width: W, height: H, landPath, routePath, pins, labels, order: order.map((i) => i + 1), scale };
+  return { width: W, height: H, landPath, routePath, pins, labels, order: order.map((i) => i + 1 + offset), mode, scale };
 }

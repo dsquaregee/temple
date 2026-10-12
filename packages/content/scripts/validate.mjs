@@ -77,6 +77,18 @@ for (const [locale, byId] of Object.entries(circuits)) {
   }
 }
 
+// Optional regional groups must partition the stops exactly, in order.
+for (const [locale, byId] of Object.entries(circuits)) {
+  for (const c of Object.values(byId)) {
+    if (!c.groups) continue;
+    const flat = c.groups.flatMap((g) => g.stops ?? []);
+    if (c.groups.some((g) => typeof g.name !== 'string' || !g.name.trim() || !Array.isArray(g.stops)))
+      errors.push(`circuits/${locale}/${c.id}: every group needs a name and a stops array`);
+    if (flat.join() !== (c.stops ?? []).join())
+      errors.push(`circuits/${locale}/${c.id}: groups' stops, in order, must equal stops`);
+  }
+}
+
 // Circuit membership is recorded on both sides (circuit.stops and
 // temple.circuits); they must agree so a newly added temple can't be listed on
 // a circuit yet missing from its route map, or vice versa. Every stop also
@@ -92,8 +104,9 @@ for (const [locale, byId] of Object.entries(circuits)) {
         errors.push(`temples/${locale}/${t.id}: is a stop of circuit "${c.id}" but its "circuits" field omits it`);
       if (stops.has(t.id)) {
         const { lat, lng } = t.location ?? {};
-        if (!(Number.isFinite(lat) && lat >= 5 && lat <= 23 && Number.isFinite(lng) && lng >= 71 && lng <= 88))
-          errors.push(`temples/${locale}/${t.id}: location lat/lng missing or outside South India (route map)`);
+        // Bounds of the route-map land outline (packages/core/geo/south-asia-land.json).
+        if (!(Number.isFinite(lat) && lat >= 4 && lat <= 37 && Number.isFinite(lng) && lng >= 66 && lng <= 98))
+          errors.push(`temples/${locale}/${t.id}: location lat/lng missing or outside the route-map area (South Asia)`);
       }
     }
   }
