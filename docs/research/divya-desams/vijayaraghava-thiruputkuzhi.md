@@ -15,3 +15,5 @@
 - https://en.wikipedia.org/wiki/Thiruputkuzhi
 - https://www.templepurohit.com/hindu-temple/sri-vijayaraghava-perumal-templetamil-ndu/
 - https://mindtrip.ai/attraction/thiruputkuzhi-tamil-nadu/arulmigu-sri-vijayaraghava-perumal-temple/at-B77Ky3Xl
+
+Update: coordinates confirmed (Wikipedia infobox, Bharatpedia, aroundus): 12°52′21″N 79°37′08″E → 12.8725, 79.6189.

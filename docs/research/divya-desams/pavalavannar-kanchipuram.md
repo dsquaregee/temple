@@ -14,3 +14,5 @@
 - https://en.wikipedia.org/wiki/Pavalavannam_temple
 - https://veludharan.blogspot.com/2018/10/sri-pavalavanna-perumal-temple.html
 - https://groups.google.com/g/kandankavimalar/c/PGwVsZslGZ4
+
+Update: coordinates confirmed from Wikipedia infobox: 12°50′40″N 79°42′16″E → 12.8444, 79.7044.
