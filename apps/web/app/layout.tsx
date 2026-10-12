@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from 'next';
-import { SITE_URL } from '@/lib/site';
+import { SITE_URL, CF_ANALYTICS_TOKEN } from '@/lib/site';
 import './globals.css';
 
 export const metadata: Metadata = {
@@ -36,7 +36,18 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        {children}
+        {/* Cloudflare Web Analytics — cookieless, no PII. External script, so
+            it is allowed by the CSP via its host (no inline hash needed). */}
+        {CF_ANALYTICS_TOKEN && (
+          <script
+            type="module"
+            src="https://static.cloudflareinsights.com/beacon.min.js"
+            data-cf-beacon={`{"token": "${CF_ANALYTICS_TOKEN}"}`}
+          />
+        )}
+      </body>
     </html>
   );
 }

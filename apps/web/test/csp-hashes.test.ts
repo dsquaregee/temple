@@ -25,7 +25,10 @@ test('hashesFor deduplicates identical inline scripts', () => {
 test('metaFor builds a script-src policy with self + hashes and no unsafe-inline', () => {
   const meta = metaFor(`<script>run();</script>`)!;
   assert.match(meta, /http-equiv="Content-Security-Policy"/);
-  assert.match(meta, /script-src 'self' 'sha256-/);
+  // `self` leads; EXTRA_SCRIPT_SRC hosts (if any) come next, then the per-page
+  // hashes. Never `unsafe-inline` in the meta policy.
+  assert.match(meta, /content="script-src 'self' /);
+  assert.match(meta, /'sha256-[A-Za-z0-9+/=]+'/);
   assert.doesNotMatch(meta, /unsafe-inline/);
 });
 

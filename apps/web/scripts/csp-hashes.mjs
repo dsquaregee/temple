@@ -59,7 +59,7 @@ export function hashesFor(html) {
 // host added to only one is still blocked by the other. `csp-parity.test.ts`
 // fails if these two lists ever diverge. See docs/deploy-readiness.md
 // ("Monitoring").
-export const EXTRA_SCRIPT_SRC = [];
+export const EXTRA_SCRIPT_SRC = ['https://static.cloudflareinsights.com'];
 
 export function metaFor(html) {
   const hashes = hashesFor(html);
