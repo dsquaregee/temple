@@ -9,7 +9,7 @@ Research note. WebFetch failed (DNS/proxy); facts from WebSearch result text. Th
 - Pancha Pandava tradition: attributed to Nakula.
 - Administration: Travancore Devaswom Board.
 - Festival: 10-day annual festival in Kumbham (Feb–Mar) ending in arattu; flag hoisting, annadanam, Kathakali.
-- Coordinates: NOT verified. Used approx. 9.342, 76.579 (Thiruvanvandoor village NW of Chengannur). Needs checking.
+- Coordinates: 9.34306, 76.57972 (Wikipedia infobox 9°20′35″N 76°34′47″E; verified by later search). Used 9.343, 76.580.
 - Vimana/tank: not confirmed — left out. century = 8.
 
 ## Sources

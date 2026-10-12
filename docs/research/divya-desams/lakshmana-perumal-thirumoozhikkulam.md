@@ -9,7 +9,9 @@
 - One of the four Nalambalam temples (Rama at Thriprayar, Bharata at Irinjalakuda, Lakshmana at Moozhikkulam, Shatrughna at Payammal).
 - Ramayana tradition: Bharata came to invite Rama back from exile, Lakshmana first suspected him, later worshipped together here (name read as the place of sweet words).
 - Administered by the Travancore Devaswom Board; Kutiyattam is practised here.
-- Not independently confirmed in this pass: Moozhikkalam Kacham, the sage Harita legend, four-armed standing form.
+- Moozhikulam Kacham: confirmed (Wikipedia 'Moozhikulam Kacham') as a medieval Chera-era covenant formulated in the Moozhikulam Brahmin settlement, on landowners/temple trustees; earliest reference an inscription of 920/21 CE. Entry now says the settlement gave its name and that it is known from inscriptions (the 'standard for temples across the land' claim removed).
+- Sage Harita: multiple sources (Wikipedia, divinetraveller, Sri Vaishnava listings) - penance, Vishnu's 'thiru mozhi' advice; kept as sthala purana. (Dinamalar gives a different account for the images: sage Vakelwa.)
+- Four-armed form: Dinamalar describes conch, discus, mace and lotus - four arms; kept.
 
 ## Sources
 - https://en.wikipedia.org/wiki/Thirumoozhikkulam_Lakshmana_Perumal_Temple

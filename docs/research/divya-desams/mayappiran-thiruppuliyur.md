@@ -8,7 +8,7 @@ Research note. WebFetch failed (DNS/proxy); facts from WebSearch result text. Th
 - Alvars: Nammalvar; one source adds Thirumangai Alvar (unconfirmed by a second source — content says "chiefly by Nammalvar").
 - Pancha Pandava tradition: attributed to Bhima; known as "Bheemasena Tirupati"; tradition holds Bhima's mace (gada) is kept in the temple.
 - Festivals: Arattu festival in Margazhi (Dhanu); Kavadiattam in Thai (Makaram).
-- Coordinates: NOT verified (search budget exhausted). Used approx. 9.300, 76.585 — derived from "4 km SW of Chengannur" (Chengannur ≈ 9.318, 76.611). Needs checking against the Wikipedia infobox.
+- Coordinates: 9.30194, 76.58583 (Wikipedia infobox 9°18′07″N 76°35′09″E; verified by later search). Used 9.302, 76.586.
 - Vimana/tank names, inscriptions: not confirmed — left out.
 - century = 8 (Alvar hymns).
 

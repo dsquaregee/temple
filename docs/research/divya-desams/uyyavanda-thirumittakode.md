@@ -11,7 +11,7 @@ Research note. WebFetch failed (DNS/proxy); facts from WebSearch result text. Th
 - Pandava tradition: sources differ (built by Dharmaputra / Pandavas installed images during exile) — phrased only as "the Pandavas are also remembered here".
 - Festivals: Thiruvonam; Vaikunta Ekadashi.
 - Administration: one search summary said Travancore Devaswom Board — doubtful for Palakkad (Malabar) — not used.
-- Coordinates: NOT verified. Used approx. 10.788, 76.142 (Thirumittacode, south bank of the Bharathapuzha near Pattambi). Needs checking.
+- Coordinates: 10.7831, 76.1843 (Wikipedia infobox 10°46′59″N 76°11′03″E; verified by later search; earlier estimate 10.788, 76.142 was wrong). Used 10.783, 76.184.
 
 ## Sources
 - https://en.wikipedia.org/wiki/Thirumittakode_Anchumoorthi_Temple

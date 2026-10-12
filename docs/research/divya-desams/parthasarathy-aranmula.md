@@ -10,7 +10,7 @@ Research note. WebFetch failed (DNS/proxy); facts from WebSearch result text. Th
 - Festivals: the Uthrattathi snake-boat regatta (Aranmula Vallamkali) in Onam season commemorates the installation; Valla Sadya feasts offered to the boat crews (Onmanorama); Onam celebrations (The News Minute).
 - Village: known for Aranmula kannadi metal mirrors (The News Minute "sparkling gift").
 - Vimana name: not confirmed — left out.
-- Coordinates: NOT verified (search budget exhausted). Used approx. 9.328, 76.688 (Aranmula village on the Pamba). Needs checking.
+- Coordinates: 9.328111, 76.687889 (Wikipedia infobox; verified by later search). Used 9.328, 76.688.
 - century = 8.
 
 ## Sources

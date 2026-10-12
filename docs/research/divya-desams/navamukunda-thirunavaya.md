@@ -9,7 +9,7 @@ Research note. WebFetch failed (DNS/proxy); facts from WebSearch result text. Th
 - Mamankam: medieval festival held every 12 years on the riverbank by the temple, of great political significance (Zamorin era).
 - Karkidaka Vavu: bali tarpanam (ancestral rites) on the riverbank draws pilgrims from northern Kerala.
 - Name "Navamukunda": tradition (not confirmed in this session) connects it with nine yogis who installed the image — NOT used in content.
-- Coordinates: NOT verified. Used approx. 10.862, 75.987 (Tirunavaya temple by the Bharathapuzha). Needs checking.
+- Coordinates: 10.863719, 75.981761 (Wikipedia infobox and Kerala Tourism; verified by later search). Used 10.864, 75.982.
 - century = 8.
 
 ## Sources
