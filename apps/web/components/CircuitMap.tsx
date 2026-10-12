@@ -122,7 +122,7 @@ export function CircuitMap({
                 <rect className="cmap-label-box" width={l.w} height={l.h} rx="10" />
                 <use href="#cmap-gopuram" className="cmap-gopuram" x="7" y={l.h / 2 - 15} width="26" height="26" />
                 <circle className="cmap-badge" cx="31" cy={l.h / 2 + 9} r="9.5" />
-                <text className="cmap-badge-n" x="31" y={l.h / 2 + 13.5} textAnchor="middle">
+                <text className="cmap-badge-n" x="31" y={l.h / 2 + 13} textAnchor="middle" fontSize={l.n > 99 ? 9 : 12}>
                   {l.n}
                 </text>
                 {l.lines.map((line, i) => (

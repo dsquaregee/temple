@@ -84,5 +84,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
+  // Regional sections of large circuits (e.g. Divya Desams → Chola Nadu).
+  for (const { id, groups } of getCircuits('en')) {
+    for (const g of groups ?? []) {
+      const alternates = alternatesFor((l) => `${l}/yatra/${id}/${g.id}/`);
+      for (const locale of LOCALES) {
+        entries.push({
+          url: abs(`${locale}/yatra/${id}/${g.id}/`),
+          lastModified,
+          changeFrequency: 'monthly',
+          priority: 0.6,
+          alternates,
+        });
+      }
+    }
+  }
+
   return entries;
 }

@@ -32,7 +32,13 @@ const BUDGET = {
   // past 87 temples (~220 KB raw); if it approaches this again, prefer moving
   // the search-only fields out to a lazily-fetched per-locale index over another
   // bump — see docs/roadmap-next.md.
-  largestHtmlRawKB: 320, // current ~220 (Discover listing; catches full-prose regressions)
+  // Raised 320 → 420 KB (2026-10) when the catalog grew to 191 temples with the
+  // full 108 Divya Desams (~385 KB raw, ~54 KB gzip on the largest locale). The
+  // search-only fields are already off the cards, so the next step if this is
+  // approached again is to server-render only the first page of Discover cards
+  // and let the client render the rest — not another bump. Large circuits are
+  // already split into regional pages to stay well under this.
+  largestHtmlRawKB: 420, // current ~385 (Discover listing; catches full-prose regressions)
 };
 
 function walk(dir, test) {

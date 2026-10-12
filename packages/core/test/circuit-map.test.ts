@@ -42,8 +42,8 @@ function checkLayout(stops: MapStop[], offset: number) {
   for (const p of m.pins) {
     assert.ok(p.x >= 0 && p.x <= m.width && p.y >= 0 && p.y <= m.height, `pin ${p.id} inside frame`);
   }
-  if (stops.length > LABEL_LIMIT) {
-    assert.equal(m.mode, 'compact');
+  if (m.mode === 'compact') {
+    // Compact for large circuits, or when a label column can't fit the frame.
     assert.equal(m.labels.length, 0);
     for (const [i, a] of m.pins.entries()) {
       for (const b of m.pins.slice(i + 1)) {
@@ -51,7 +51,7 @@ function checkLayout(stops: MapStop[], offset: number) {
       }
     }
   } else {
-    assert.equal(m.mode, 'labels');
+    assert.ok(stops.length <= LABEL_LIMIT, 'labels only for small circuits');
     assert.equal(m.labels.length, stops.length);
     assert.deepEqual(m.labels.map((l) => l.id), stops.map((s) => s.id));
     for (const [i, a] of m.labels.entries()) {

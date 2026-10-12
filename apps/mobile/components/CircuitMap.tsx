@@ -135,7 +135,7 @@ export function CircuitMap({
                     <Path d={GOPURAM} fill={colors.accentTurmeric} />
                   </G>
                   <Circle cx={31} cy={l.h / 2 + 9} r={9.5} fill={colors.accentVermilion} stroke={colors.bgRaised} strokeWidth={2} />
-                  <SvgText x={31} y={l.h / 2 + 13.5} fill="#fff" fontSize={12} fontWeight="700" textAnchor="middle">
+                  <SvgText x={31} y={l.h / 2 + 13} fill="#fff" fontSize={l.n > 99 ? 9 : 12} fontWeight="700" textAnchor="middle">
                     {l.n}
                   </SvgText>
                   {l.lines.map((line, i) => (

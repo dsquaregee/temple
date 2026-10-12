@@ -12,6 +12,13 @@ import { HomeHighlights } from '@/components/HomeHighlights';
 import { SavableTempleCard } from '@/components/SavableTempleCard';
 import { CircuitCard } from '@/components/cards';
 
+const LAUNCH_CORE = new Set([
+  'brihadeeswarar', 'gangaikonda-cholapuram', 'airavatesvara', 'ekambareswarar',
+  'jambukeswarar', 'arunachaleswarar', 'srikalahasti', 'nataraja-chidambaram',
+  'meenakshi-madurai', 'ramanathaswamy-rameswaram', 'ranganathaswamy-srirangam',
+  'venkateswara-tirumala',
+]);
+
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
 }
@@ -37,6 +44,8 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
   const ui = t(locale);
   const temples = getTemples(locale);
   const circuits = getCircuits(locale);
+  // Home shelf: the editorial launch core (see CLAUDE.md), in catalog order.
+  const shelf = temples.filter((tp) => LAUNCH_CORE.has(tp.id));
 
   // "Temple of the day": a compact per-temple projection for the client hero,
   // which re-picks for the visitor's actual day. `initialIndex` is the
@@ -104,13 +113,20 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
         </div>
       </section>
 
+      {/* A curated shelf rather than the whole catalog: every card here is a
+          client component (serialized twice — HTML + flight data), so listing
+          all temples made Home the heaviest page as the catalog grew past 150.
+          The full, searchable list lives on the Discover tab. */}
       <section className="section" aria-labelledby="temples-h">
         <h2 id="temples-h">{ui.labels.allTemples}</h2>
         <div className="grid">
-          {temples.map((temple) => (
+          {shelf.map((temple) => (
             <SavableTempleCard key={temple.id} locale={locale} temple={temple} />
           ))}
         </div>
+        <a className="browse-all" href={`/${locale}/temples/`}>
+          {ui.tabs.discover} · {temples.length} →
+        </a>
       </section>
     </PageChrome>
   );

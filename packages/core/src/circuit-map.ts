@@ -443,8 +443,20 @@ export function layoutCircuitMap(
     return { H, f, pins, labels: [] as MapLabel[] };
   };
 
-  const mode: 'labels' | 'compact' = valid.length > LABEL_LIMIT ? 'compact' : 'labels';
-  const chosen = mode === 'compact' ? compact() : tryNear() ?? columns();
+  let mode: 'labels' | 'compact' = valid.length > LABEL_LIMIT ? 'compact' : 'labels';
+  // The legend column must fit the frame; if long (e.g. two-line Indic) labels
+  // can't stack within the maximum height, fall back to numbered dots.
+  const columnsFit = () => {
+    const c = columns();
+    const last = c.labels.reduce((m, l) => Math.max(m, l.y + l.h), 0);
+    const first = c.labels.reduce((m, l) => Math.min(m, l.y), Infinity);
+    return first >= 0 && last <= c.H ? c : null;
+  };
+  let chosen = mode === 'compact' ? compact() : tryNear() ?? columnsFit();
+  if (!chosen) {
+    mode = 'compact';
+    chosen = compact();
+  }
   const { H, f } = chosen;
   const pins = chosen.pins.map((p) => ({ ...p, n: p.n + offset, x: r1(p.x), y: r1(p.y) }));
   const labels = chosen.labels.map((l) => ({ ...l, n: l.n + offset })).sort((a, b) => a.n - b.n);

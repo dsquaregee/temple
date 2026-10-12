@@ -115,5 +115,5 @@ export interface Circuit {
    * Chola Nadu, Pandya Nadu…). Each group's stops, concatenated in order, must
    * equal `stops` (validate.mjs). Pages render one map + list per group.
    */
-  groups?: { name: string; stops: string[] }[];
+  groups?: { id: string; name: string; stops: string[] }[];
 }

@@ -117,6 +117,7 @@
   ],
   "groups": [
     {
+      "id": "chola-nadu",
       "name": "చోళ నాడు",
       "stops": [
         "ranganathaswamy-srirangam",
@@ -162,6 +163,7 @@
       ]
     },
     {
+      "id": "pandya-nadu",
       "name": "పాండ్య నాడు",
       "stops": [
         "kallazhagar-alagarkoil",
@@ -186,6 +188,7 @@
       ]
     },
     {
+      "id": "malai-nadu",
       "name": "మలై నాడు",
       "stops": [
         "padmanabhaswamy-thiruvananthapuram",
@@ -204,6 +207,7 @@
       ]
     },
     {
+      "id": "nadu-nadu",
       "name": "నడు నాడు",
       "stops": [
         "devanatha-thiruvahindrapuram",
@@ -211,6 +215,7 @@
       ]
     },
     {
+      "id": "thondai-nadu",
       "name": "తొండై నాడు",
       "stops": [
         "varadaraja-perumal-kanchipuram",
@@ -238,6 +243,7 @@
       ]
     },
     {
+      "id": "vada-nadu",
       "name": "వడ నాడు",
       "stops": [
         "venkateswara-tirumala",

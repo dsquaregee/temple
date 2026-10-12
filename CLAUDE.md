@@ -63,8 +63,12 @@ Each gate requires owner sign-off before the next phase starts.
 
 ## Temple catalog — launch core + full set
 
-**Shipped catalog: 82 temples × 6 locales, 16 circuits** (source of truth:
-`packages/content/data`). The original editorial launch core (10 of the
+**Shipped catalog: 191 temples × 6 locales, 17 circuits** (source of truth:
+`packages/content/data`). The **Divya Desams circuit is complete** — all 106
+earthly shrines (108 minus the two celestial abodes; Irattai Tirupati's twin temples
+are two entries), grouped by the six traditional regions (`groups` in the circuit
+JSON, one page per region at `/yatra/divya-desams/<region>/`); research notes per
+temple in `docs/research/divya-desams/`. The original editorial launch core (10 of the
 researched 42) below remains the anchor; the rest were added across PRs #17–#30.
 
 Launch core — Great Living Chola Temples (UNESCO): brihadeeswarar,
@@ -99,7 +103,8 @@ Every Yatra circuit page shows an illustrated route map (`apps/web/components/Ci
 layout in `packages/core/src/circuit-map.ts`) generated at build time from each stop's
 `location.lat/lng` — inline SVG, zero JS, every pin/label links to its temple. Adding a
 temple to a circuit (`stops` + the temple's `circuits`, kept in sync by `validate.mjs`)
-updates the map automatically. Coastline: `packages/core/geo/south-asia-land.json`
+updates the map automatically. Circuits with more than 12 stops render compact
+numbered dots; circuits with `groups` get an overview page + one page per region. Coastline: `packages/core/geo/south-asia-land.json`
 (Natural Earth, `apps/web/scripts/gen-land-outline.mjs`). Numbering = official `stops` order; the
 gold route line follows a **suggested driving order** (shortest path, `drivingOrder()`), captioned
 under the map. Native app: same layout via react-native-svg (`apps/mobile/components/CircuitMap.tsx`).

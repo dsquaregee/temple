@@ -82,8 +82,11 @@ for (const [locale, byId] of Object.entries(circuits)) {
   for (const c of Object.values(byId)) {
     if (!c.groups) continue;
     const flat = c.groups.flatMap((g) => g.stops ?? []);
-    if (c.groups.some((g) => typeof g.name !== 'string' || !g.name.trim() || !Array.isArray(g.stops)))
-      errors.push(`circuits/${locale}/${c.id}: every group needs a name and a stops array`);
+    if (c.groups.some((g) => !/^[a-z0-9-]+$/.test(g.id ?? '') || typeof g.name !== 'string' || !g.name.trim() || !Array.isArray(g.stops)))
+      errors.push(`circuits/${locale}/${c.id}: every group needs a slug id, a name and a stops array`);
+    const enIds = (circuits.en?.[c.id]?.groups ?? []).map((g) => g.id).join();
+    if (c.groups.map((g) => g.id).join() !== enIds)
+      errors.push(`circuits/${locale}/${c.id}: group ids must match the English circuit (they are URLs)`);
     if (flat.join() !== (c.stops ?? []).join())
       errors.push(`circuits/${locale}/${c.id}: groups' stops, in order, must equal stops`);
   }
