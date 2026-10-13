@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/adi-kumbeswarar-kumbakonam.mp3",
     "durationSec": 202
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಆದಿ ಕುಂಭೇಶ್ವರರ್ ದೇವಾಲಯ, ಕುಂಬಕೋಣಂ",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/adi-kumbeswarar-kumbakonam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.jpg",
+    "durationSec": 215,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

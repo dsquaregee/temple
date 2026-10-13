@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/sangameshwara-pattadakal.mp3",
     "durationSec": 225
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sangameshwara-pattadakal.jpg",
+    "color": "#5C3A2E",
+    "alt": "சங்கமேஸ்வரர் கோயில் (விஜயேஸ்வரர்), பட்டடக்கல்",
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0)"
   }
 }

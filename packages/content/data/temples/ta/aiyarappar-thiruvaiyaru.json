@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/aiyarappar-thiruvaiyaru.mp3",
     "durationSec": 211
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/aiyarappar-thiruvaiyaru.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஐயாறப்பர் கோயில், திருவையாறு",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/aiyarappar-thiruvaiyaru.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/aiyarappar-thiruvaiyaru.jpg",
+    "durationSec": 198,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

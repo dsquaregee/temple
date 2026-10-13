@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/pillalamarri-erakeswara.mp3",
     "durationSec": 183
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.jpg",
+    "color": "#5C3A2E",
+    "alt": "ఎరకేశ్వర ఆలయం, పిల్లలమర్రి",
+    "credit": "P. Madhusudan / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/pillalamarri-erakeswara.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.jpg",
+    "durationSec": 207,
+    "credit": "P. Madhusudan / Wikimedia Commons (CC0)"
   }
 }

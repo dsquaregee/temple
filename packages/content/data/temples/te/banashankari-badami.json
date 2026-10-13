@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/banashankari-badami.mp3",
     "durationSec": 181
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/banashankari-badami.jpg",
+    "color": "#5C3A2E",
+    "alt": "బనశంకరి ఆలయం, చోళచగుడ్డ",
+    "credit": "Vishwas Koundinya / Wikimedia Commons (CC BY-SA 4.0) · Jaisuvyas / Wikimedia Commons (CC BY-SA 4.0) · Naane.naanu / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/banashankari-badami.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/banashankari-badami.jpg",
+    "durationSec": 205,
+    "credit": "Vishwas Koundinya / Wikimedia Commons (CC BY-SA 4.0) · Jaisuvyas / Wikimedia Commons (CC BY-SA 4.0) · Naane.naanu / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

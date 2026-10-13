@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/sangameshwara-pattadakal.mp3",
     "durationSec": 204
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sangameshwara-pattadakal.jpg",
+    "color": "#5C3A2E",
+    "alt": "संगमेश्वर मंदिर (विजयेश्वर), पट्टदकल्लु",
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0)"
   }
 }

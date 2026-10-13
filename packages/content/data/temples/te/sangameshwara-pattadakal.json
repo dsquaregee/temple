@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/sangameshwara-pattadakal.mp3",
     "durationSec": 196
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sangameshwara-pattadakal.jpg",
+    "color": "#5C3A2E",
+    "alt": "సంగమేశ్వర ఆలయం (విజయేశ్వరుడు), పట్టడకల్లు",
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0)"
   }
 }

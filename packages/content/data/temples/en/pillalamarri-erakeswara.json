@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/pillalamarri-erakeswara.mp3",
     "durationSec": 215
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.jpg",
+    "color": "#5C3A2E",
+    "alt": "Erakeswara Temple, Pillalamarri",
+    "credit": "P. Madhusudan / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/pillalamarri-erakeswara.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.jpg",
+    "durationSec": 163,
+    "credit": "P. Madhusudan / Wikimedia Commons (CC0)"
   }
 }

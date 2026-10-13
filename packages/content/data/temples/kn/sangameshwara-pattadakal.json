@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/sangameshwara-pattadakal.mp3",
     "durationSec": 189
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sangameshwara-pattadakal.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಸಂಗಮೇಶ್ವರ ದೇವಾಲಯ (ವಿಜಯೇಶ್ವರ), ಪಟ್ಟದಕಲ್ಲು",
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0)"
   }
 }

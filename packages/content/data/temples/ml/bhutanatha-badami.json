@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/bhutanatha-badami.mp3",
     "durationSec": 200
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/bhutanatha-badami.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഭൂതനാഥ ക്ഷേത്രങ്ങൾ, ബാദാമി",
+    "credit": "Venkygrams / Wikimedia Commons (CC BY-SA 4.0) · Ravimgpm / Wikimedia Commons (CC BY-SA 4.0) · Manasi Deshpande / Wikimedia Commons (CC BY-SA 4.0) · Rahulpurushot / Wikimedia Commons (CC BY-SA 3.0) · Shreksha / Wikimedia Commons (CC BY-SA 4.0) · Jaisuvyas / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/bhutanatha-badami.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhutanatha-badami.jpg",
+    "durationSec": 157,
+    "credit": "Venkygrams / Wikimedia Commons (CC BY-SA 4.0) · Ravimgpm / Wikimedia Commons (CC BY-SA 4.0) · Manasi Deshpande / Wikimedia Commons (CC BY-SA 4.0) · Rahulpurushot / Wikimedia Commons (CC BY-SA 3.0) · Shreksha / Wikimedia Commons (CC BY-SA 4.0) · Jaisuvyas / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

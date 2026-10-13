@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/pillalamarri-erakeswara.mp3",
     "durationSec": 207
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.jpg",
+    "color": "#5C3A2E",
+    "alt": "എരകേശ്വര ക്ഷേത്രം, പിള്ളലമർറി",
+    "credit": "P. Madhusudan / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/pillalamarri-erakeswara.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.jpg",
+    "durationSec": 165,
+    "credit": "P. Madhusudan / Wikimedia Commons (CC0)"
   }
 }
