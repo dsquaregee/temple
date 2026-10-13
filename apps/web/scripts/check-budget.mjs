@@ -38,7 +38,10 @@ const BUDGET = {
   // approached again is to server-render only the first page of Discover cards
   // and let the client render the rest — not another bump. Large circuits are
   // already split into regional pages to stay well under this.
-  largestHtmlRawKB: 420, // current ~385 (Discover listing; catches full-prose regressions)
+  // Raised 420 → 600 KB (2026-10, owner request) at 206 temples (~413 KB raw,
+  // ~58 KB gzip on the largest locale), leaving room for ~70 more temples while
+  // the catalog expands (docs/research/03-catalog-expansion.md).
+  largestHtmlRawKB: 600, // current ~413 (Discover listing; catches full-prose regressions)
 };
 
 function walk(dir, test) {
