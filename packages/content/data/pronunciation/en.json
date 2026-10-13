@@ -1,5 +1,12 @@
 {
   "_about": "English-narration pronunciation lexicon. Each key is a word as spelled in the English content; its value is a phonetic respelling sent to text-to-speech in its place (audio only - the displayed text is unchanged). Plurals (+s) and possessives match automatically. Conventions: aa/ee/oo = long a/i/u; ay = long e (as in Ketu -> Kaytu); Tamil/Malayalam dental 'th' -> t (Thanjavur -> Tanjaavoor); Tamil zh -> l (as in Pazhani -> Palani); long compounds hyphenated at morpheme boundaries. Derived from the native-script forms (Tamil/Sanskrit) of each name. Add a word whenever narration mispronounces it, then regenerate English audio.",
+  "Agale": "Aagalay",
+  "Bhutanatha": "Bhoota-naata",
+  "Cholachagudda": "Cholachaguddha",
+  "Mallikarjuna": "Mallik-arjuna",
+  "Mulasthana": "Moola-sthaana",
+  "Pattadakal": "Pattada-kal",
+  "Shakambari": "Shaakambari",
   "words": {
     "Aazhi": "aazhi",
     "abhisheka": "abhi-shayka",
