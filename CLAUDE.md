@@ -20,7 +20,7 @@ Each gate requires owner sign-off before the next phase starts.
 |---|---|
 | 1. Research | ✅ Complete, gate passed 2026-07 |
 | 2. UX/Design | ✅ Complete, gate passed 2026-07 |
-| 3. Build | ✅ Complete, gate passed 2026-10-08 (both PWA + native; catalog since expanded to **191+ temples × 6 languages**, 17 circuits — see "Temple catalog" below) |
+| 3. Build | ✅ Complete, gate passed 2026-10-08 (both PWA + native; catalog since expanded to **206 temples × 6 languages**, 17 circuits — see "Temple catalog" below) |
 | 4. Test/Harden | 🔨 In progress (unit + content-invariant suite, translation QA, CSP hardening, per-page byte budget, Lighthouse CI all in place — see docs/testing.md) |
 | 5. Deploy | ✅ **Live on Cloudflare.** `temples.dsquaregee.com` is served by **Cloudflare Workers Static Assets** (Git-connected Workers Builds, no deploy secrets) with **media/audio on Cloudflare R2** (`media`/`audio.dsquaregee.com`, $0 egress) — verified end-to-end (single-valued cache headers, CSP/HSTS, R2 media HIT). **No Google in the serving path.** History: project migrated off the Google-locked `temple-502523` → `temples2` (`infra/migrate-project.mjs`; Firestore `temples2` db in `asia-south1`; all media regenerated — audio 101×6, heroes 92, AVIF/WebP/OG, narrated video 78×6), served from temples2.web.app, then **hosting moved to Cloudflare** and the domain cut over. Firebase Hosting deploy (`deploy.yml`) retired. **Off-Google backup**: weekly GCS→R2 mirror (`backup-media-r2.yml` → `temples2-media-backup`/`temples2-audio-backup`). **Firebase Hosting decommission (final step):** disable the stale `temples2.web.app` via `firebase-hosting-disable.yml`, and remove the `temples.dsquaregee.com` custom domain in the Firebase Console — the connected domain is what produces the `Google-Firebase` user-agent probe traffic (and a slice of 404s) in Cloudflare analytics; Console removal is the only way to stop it. Runbooks: **docs/deploy-cloudflare-pages.md**, **docs/migrate-project.md**. |
 
@@ -63,7 +63,7 @@ Each gate requires owner sign-off before the next phase starts.
 
 ## Temple catalog — launch core + full set
 
-**Shipped catalog: 191 temples × 6 locales, 17 circuits** (source of truth:
+**Shipped catalog: 206 temples × 6 locales, 17 circuits** — every circuit lists all of its traditional or curated member temples (audit: `docs/research/02-circuit-audit.md`) (source of truth:
 `packages/content/data`). The **Divya Desams circuit is complete** — all 106
 earthly shrines (108 minus the two celestial abodes; Irattai Tirupati's twin temples
 are two entries), grouped by the six traditional regions (`groups` in the circuit
