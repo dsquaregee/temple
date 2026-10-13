@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.jpg",
     "color": "#5C3A2E",
     "alt": "എരകേശ്വര ക്ഷേത്രം, പിള്ളലമർറി",
-    "credit": "P. Madhusudan / Wikimedia Commons (CC0)"
+    "credit": "P. Madhusudan / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.avif",
+      "webp": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/pillalamarri-erakeswara.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/pillalamarri-erakeswara.mp4",

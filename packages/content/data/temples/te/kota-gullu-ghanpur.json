@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",
     "color": "#5C3A2E",
     "alt": "కోట గుళ్ళు (ఘన్‌పూర్ ఆలయాలు)",
-    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kota-gullu-ghanpur.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/kota-gullu-ghanpur.mp4",

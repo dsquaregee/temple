@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kodungallur-bhagavathy.jpg",
     "color": "#5C3A2E",
     "alt": "Kodungallur Kurumba Bhagavathy Temple",
-    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kodungallur-bhagavathy.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kodungallur-bhagavathy.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kodungallur-bhagavathy.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/v4/kodungallur-bhagavathy.mp4",

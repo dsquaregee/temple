@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kodungallur-bhagavathy.jpg",
     "color": "#5C3A2E",
     "alt": "കൊടുങ്ങല്ലൂർ കുരുംബ ഭഗവതി ക്ഷേത്രം",
-    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kodungallur-bhagavathy.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kodungallur-bhagavathy.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kodungallur-bhagavathy.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/kodungallur-bhagavathy.mp4",

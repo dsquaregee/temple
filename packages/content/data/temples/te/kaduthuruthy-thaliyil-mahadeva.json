@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kaduthuruthy-thaliyil-mahadeva.jpg",
     "color": "#5C3A2E",
     "alt": "కడుత్తురుత్తి తళియిల్ మహాదేవ ఆలయం",
-    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kaduthuruthy-thaliyil-mahadeva.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kaduthuruthy-thaliyil-mahadeva.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kaduthuruthy-thaliyil-mahadeva.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/kaduthuruthy-thaliyil-mahadeva.mp4",

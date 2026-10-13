@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kachabeswarar-kanchipuram.jpg",
     "color": "#5C3A2E",
     "alt": "ಕಚ್ಛಪೇಶ್ವರರ್ ದೇವಾಲಯ, ಕಂಚೀಪುರಂ",
-    "credit": "Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
+    "credit": "Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kachabeswarar-kanchipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kachabeswarar-kanchipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kachabeswarar-kanchipuram.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/kn/kachabeswarar-kanchipuram.mp4",

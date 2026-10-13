@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.jpg",
     "color": "#5C3A2E",
     "alt": "ఆది కుంభేశ్వరర్ ఆలయం, కుంభకోణం",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/adi-kumbeswarar-kumbakonam.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/adi-kumbeswarar-kumbakonam.mp4",

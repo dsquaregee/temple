@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.jpg",
     "color": "#5C3A2E",
     "alt": "कम्पहरेश्वर मंदिर, तिरुबुवनम",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kampahareswarar-thirubuvanam.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/kampahareswarar-thirubuvanam.mp4",
