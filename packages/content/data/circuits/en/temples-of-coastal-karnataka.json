@@ -1,0 +1,20 @@
+{
+  "id": "temples-of-coastal-karnataka",
+  "locale": "en",
+  "name": "Temples of Coastal Karnataka and the Malnad",
+  "nativeName": "ಕರಾವಳಿ ಮತ್ತು ಮಲೆನಾಡಿನ ದೇವಾಲಯಗಳು",
+  "theme": "Great pilgrimage temples of the Karnataka coast and the Western Ghats, from Kateel and Udupi to Gokarna, Sringeri and Horanadu",
+  "region": "Karnataka (Dakshina Kannada, Udupi, Uttara Kannada, Chikkamagaluru)",
+  "description": "Between the Arabian Sea and the forested crest of the Western Ghats lies a dense chain of renowned temples. On the coast are Kateel, where the goddess Durgaparameshwari is worshipped on an islet in the Nandini river; Udupi, where the Krishna Matha keeps the tradition of Madhvacharya; Kollur, seat of the goddess Mookambika below the Kodachadri hills; Murudeshwar, on a headland above the sea; and Gokarna, home of the Atmalinga. Inland in the Ghats are Kukke Subramanya, the great serpent shrine; Dharmasthala, famed for its charity; Sringeri, the first matha of Adi Shankara on the Tunga; and Horanadu, where Annapoorneshwari feeds every visitor. Coastal roads and Ghat passes join them into a rewarding journey.",
+  "stops": [
+    "kateel-durgaparameshwari",
+    "udupi-krishna",
+    "kollur-mookambika",
+    "murudeshwar-shiva",
+    "gokarna-mahabaleshwara",
+    "kukke-subramanya",
+    "dharmasthala-manjunatha",
+    "sringeri-sharada",
+    "horanadu-annapoorneshwari"
+  ]
+}

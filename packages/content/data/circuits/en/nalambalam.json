@@ -1,0 +1,15 @@
+{
+  "id": "nalambalam",
+  "locale": "en",
+  "name": "Nalambalam — the Four Temples of Rama and His Brothers",
+  "nativeName": "നാലമ്പലം",
+  "theme": "Four temples of Rama, Bharata, Lakshmana and Shatrughna in Thrissur and Ernakulam, visited in a single day in the month of Karkidakam",
+  "region": "Kerala (Thrissur and Ernakulam)",
+  "description": "In the Malayalam month of Karkidakam (July–August), when the Ramayana is read aloud in Kerala homes and temples, pilgrims make the Nalambalam yatra: a visit on a single day to four temples dedicated to the four sons of Dasharatha. The customary order begins with Rama at Triprayar on the Theevra river, continues to Bharata at Koodalmanikyam in Irinjalakuda and Lakshmana at Thirumoozhikkulam on the Chalakudy river, and ends with Shatrughna at Payammal. Thirumoozhikkulam is also a Divya Desam sung by Nammalvar. Tradition holds that the four images were found together in the sea and installed by a local chieftain, and completing the round before midday is believed to be especially auspicious.",
+  "stops": [
+    "triprayar-rama",
+    "koodalmanikyam-irinjalakuda",
+    "lakshmana-perumal-thirumoozhikkulam",
+    "payammal-shatrughna"
+  ]
+}

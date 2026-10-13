@@ -1,0 +1,19 @@
+{
+  "id": "hampi-vijayanagara-temples",
+  "locale": "en",
+  "name": "Hampi — Temples of the Vijayanagara Capital",
+  "nativeName": "ಹಂಪಿ — ವಿಜಯನಗರದ ದೇವಾಲಯಗಳು",
+  "theme": "The great temples of Vijayanagara among the boulder hills of the Tungabhadra, a UNESCO World Heritage Site",
+  "region": "Karnataka (Vijayanagara district, on the Tungabhadra)",
+  "description": "Hampi was the capital of the Vijayanagara empire, the last great Hindu kingdom of the South, and its temples stand among granite boulder hills along the Tungabhadra. The living Virupaksha temple and the older shrines of Hemakuta Hill mark the sacred centre of Pampa Kshetra; the imperial builders of the 15th and 16th centuries added the Krishna, Achyutaraya and Vittala temples with their great chariot streets and bazaars, the Hazara Rama temple in the royal enclosure with its Ramayana friezes, and riverside shrines such as Kodandarama. On Malyavanta hill, tradition places Rama's stay during the rains before the search for Sita. The Group of Monuments at Hampi has been a UNESCO World Heritage Site since 1986.",
+  "stops": [
+    "virupaksha-hampi",
+    "hemakuta-hampi",
+    "krishna-hampi",
+    "achyutaraya-hampi",
+    "kodandarama-hampi",
+    "vittala-hampi",
+    "hazara-rama-hampi",
+    "malyavanta-raghunatha-hampi"
+  ]
+}

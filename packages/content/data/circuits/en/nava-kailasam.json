@@ -1,0 +1,20 @@
+{
+  "id": "nava-kailasam",
+  "locale": "en",
+  "name": "Nava Kailasam — the Nine Shiva Shrines of the Tamiraparani",
+  "nativeName": "நவ கைலாயம்",
+  "theme": "Nine Shiva temples along the Tamiraparani, each linked to one of the nine planets, founded in tradition by a disciple of the sage Agastya",
+  "region": "Tamil Nadu (Tirunelveli & Thoothukudi, along the Tamiraparani)",
+  "description": "The Nava Kailasam are nine temples of Shiva set along the Tamiraparani as it flows from the hills at Papanasam to the sea. The legend tells that the sage Romasa, a disciple of Agastya, floated nine lotuses on the river and installed a linga wherever each came ashore, so that every village became a Kailasa. Each shrine is linked to one of the nine planets: from Papanasam, for the Sun, downstream through Cheranmahadevi, Kodaganallur, Kunnathur, Murappanadu, Srivaikuntam, Thenthiruperai and Rajapathy to Senthapoomangalam near the coast. They are the Shaiva companions of the Nava Tirupati, nine Vishnu shrines on the same river, and many pilgrims combine the two rounds.",
+  "stops": [
+    "papanasanathar-papanasam",
+    "kailasanathar-cheranmahadevi",
+    "kailasanathar-kodaganallur",
+    "kothaparameswarar-kunnathur",
+    "kailasanathar-murappanadu",
+    "kailasanathar-srivaikuntam",
+    "kailasanathar-thenthiruperai",
+    "kailasanathar-rajapathy",
+    "kailasanathar-senthapoomangalam"
+  ]
+}
