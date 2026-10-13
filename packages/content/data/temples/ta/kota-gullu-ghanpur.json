@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/kota-gullu-ghanpur.mp3",
     "durationSec": 248
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",
+    "color": "#5C3A2E",
+    "alt": "கோட்ட குல்லு (கண்பூர் கோயில்கள்)",
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/kota-gullu-ghanpur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",
+    "durationSec": 234,
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }
 }

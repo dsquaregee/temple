@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/kota-gullu-ghanpur.mp3",
     "durationSec": 236
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",
+    "color": "#5C3A2E",
+    "alt": "കോട്ട ഗുല്ലു (ഘൻപൂർ ക്ഷേത്രങ്ങൾ)",
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/kota-gullu-ghanpur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",
+    "durationSec": 184,
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }
 }

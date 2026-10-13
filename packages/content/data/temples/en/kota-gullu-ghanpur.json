@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kota-gullu-ghanpur.mp3",
     "durationSec": 234
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kota Gullu (Ghanpur Temples)",
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kota-gullu-ghanpur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",
+    "durationSec": 181,
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }
 }

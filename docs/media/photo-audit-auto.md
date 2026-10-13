@@ -6,18 +6,11 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| adi-kumbeswarar-kumbakonam | 6 | ✅ included |
-| aiyarappar-thiruvaiyaru | 6 | ✅ included |
-| banashankari-badami | 6 | ✅ included |
-| bhutanatha-badami | 6 | ✅ included |
-| kachabeswarar-kanchipuram | 0 | ⚠️ skipped (no qualifying photo) |
-| kaduthuruthy-thaliyil-mahadeva | 0 | ⚠️ skipped (no qualifying photo) |
-| kampahareswarar-thirubuvanam | 0 | ⚠️ skipped (no qualifying photo) |
-| kodungallur-bhagavathy | 0 | ⚠️ skipped (no qualifying photo) |
-| kota-gullu-ghanpur | 0 | ⚠️ skipped (no qualifying photo) |
-| lad-khan-aihole | 6 | ✅ included |
-| mahakuta-temples | 0 | ⚠️ skipped (no qualifying photo) |
-| papanatha-pattadakal | 5 | ✅ included |
-| pillalamarri-erakeswara | 6 | ✅ included |
+| kachabeswarar-kanchipuram | 6 | ✅ included |
+| kaduthuruthy-thaliyil-mahadeva | 6 | ✅ included |
+| kampahareswarar-thirubuvanam | 6 | ✅ included |
+| kodungallur-bhagavathy | 6 | ✅ included |
+| kota-gullu-ghanpur | 6 | ✅ included |
+| mahakuta-temples | 6 | ✅ included |
 | sangameshwara-pattadakal | 1 | ◐ hero only (< 3 for video) |
 | sankaranarayanar-sankarankovil | 0 | ⚠️ skipped (no qualifying photo) |

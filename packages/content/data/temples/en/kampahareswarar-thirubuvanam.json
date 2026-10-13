@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kampahareswarar-thirubuvanam.mp3",
     "durationSec": 209
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kampahareswarar Temple, Thirubuvanam",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kampahareswarar-thirubuvanam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.jpg",
+    "durationSec": 154,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

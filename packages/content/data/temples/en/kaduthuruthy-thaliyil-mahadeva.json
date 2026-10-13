@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kaduthuruthy-thaliyil-mahadeva.mp3",
     "durationSec": 233
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kaduthuruthy-thaliyil-mahadeva.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kaduthuruthy Thaliyil Mahadeva Temple",
+    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kaduthuruthy-thaliyil-mahadeva.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kaduthuruthy-thaliyil-mahadeva.jpg",
+    "durationSec": 170,
+    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

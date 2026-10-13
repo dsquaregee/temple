@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/kota-gullu-ghanpur.mp3",
     "durationSec": 202
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",
+    "color": "#5C3A2E",
+    "alt": "कोटा गुल्लू (घनपुर मंदिर)",
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/kota-gullu-ghanpur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",
+    "durationSec": 190,
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }
 }

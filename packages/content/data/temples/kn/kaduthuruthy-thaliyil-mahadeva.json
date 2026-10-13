@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/kaduthuruthy-thaliyil-mahadeva.mp3",
     "durationSec": 191
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kaduthuruthy-thaliyil-mahadeva.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಕಡುತ್ತುರುತ್ತಿ ತಳಿಯಿಲ್ ಮಹಾದೇವ ದೇವಾಲಯ",
+    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/kaduthuruthy-thaliyil-mahadeva.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kaduthuruthy-thaliyil-mahadeva.jpg",
+    "durationSec": 200,
+    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

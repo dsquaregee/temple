@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/mahakuta-temples.mp3",
     "durationSec": 180
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahakuta-temples.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಮಹಾಕೂಟ ದೇವಾಲಯಗಳು (ಮಹಾಕೂಟೇಶ್ವರ), ಬಾದಾಮಿ ಬಳಿ",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Sudhir Herle / Wikimedia Commons (CC BY-SA 4.0) · Deepak Patil / Wikimedia Commons (CC BY-SA 3.0) · Eva Naudts / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/mahakuta-temples.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mahakuta-temples.jpg",
+    "durationSec": 195,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Sudhir Herle / Wikimedia Commons (CC BY-SA 4.0) · Deepak Patil / Wikimedia Commons (CC BY-SA 3.0) · Eva Naudts / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

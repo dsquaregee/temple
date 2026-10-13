@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/mahakuta-temples.mp3",
     "durationSec": 210
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahakuta-temples.jpg",
+    "color": "#5C3A2E",
+    "alt": "Mahakuta Temples (Mahakuteshwara), near Badami",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Sudhir Herle / Wikimedia Commons (CC BY-SA 4.0) · Deepak Patil / Wikimedia Commons (CC BY-SA 3.0) · Eva Naudts / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/mahakuta-temples.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mahakuta-temples.jpg",
+    "durationSec": 167,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Sudhir Herle / Wikimedia Commons (CC BY-SA 4.0) · Deepak Patil / Wikimedia Commons (CC BY-SA 3.0) · Eva Naudts / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

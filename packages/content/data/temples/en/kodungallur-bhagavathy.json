@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kodungallur-bhagavathy.mp3",
     "durationSec": 260
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kodungallur-bhagavathy.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kodungallur Kurumba Bhagavathy Temple",
+    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kodungallur-bhagavathy.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kodungallur-bhagavathy.jpg",
+    "durationSec": 189,
+    "credit": "Vis M / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
