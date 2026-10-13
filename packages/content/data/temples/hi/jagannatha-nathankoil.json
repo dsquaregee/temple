@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "नाथन कोविल कुंभकोणम् से कुछ किलोमीटर दूर है और स्थानीय सड़क से पहुँचा जा सकता है। कुंभकोणम् में निकटतम रेलवे स्टेशन है, जहाँ से तंजावुर, तिरुचिरापल्ली और चेन्नई की ओर गाड़ियाँ जाती हैं; तिरुचिरापल्ली निकटतम हवाई अड्डा है, लगभग 100 किमी दूर।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/jagannatha-nathankoil.mp3",
+    "durationSec": 161
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "जगन्नाथ पेरुमाळ मंदिर, नाथन कोविल",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/jagannatha-nathankoil.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/jagannatha-nathankoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
+    "durationSec": 142,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "Ahobilam lies in Nandyal district (formerly part of Kurnool district), reached by road via Allagadda; Nandyal is the nearest major railhead. Upper and Lower Ahobilam and the hill shrines are reached by local road transport and on foot; confirm routes locally."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/narasimha-ahobilam.mp3",
+    "durationSec": 217
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Ahobila Narasimha Temple, Ahobilam",
+    "credit": "Varunmydala / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar from Bangalore, India / Wikimedia Commons (CC BY-SA 2.0) · P. Madhusudan / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/narasimha-ahobilam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/narasimha-ahobilam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/narasimha-ahobilam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/narasimha-ahobilam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/narasimha-ahobilam.jpg",
+    "durationSec": 163,
+    "credit": "Varunmydala / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar from Bangalore, India / Wikimedia Commons (CC BY-SA 2.0) · P. Madhusudan / Wikimedia Commons (CC0)"
   }
 }

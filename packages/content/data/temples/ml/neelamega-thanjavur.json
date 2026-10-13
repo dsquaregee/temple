@@ -32,5 +32,26 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — തോളും മുട്ടും മറയ്ക്കണം; അകത്ത് പ്രവേശിക്കുന്നതിന് മുമ്പ് പാദരക്ഷകൾ അഴിക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി നിയന്ത്രിച്ചിരിക്കുന്നു; പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "മൂന്നു ശ്രീകോവിലുകളും തഞ്ചാവൂരിന്റെ പ്രാന്തപ്രദേശത്ത് വെണ്ണാറിന്റെ തീരത്താണ്; പട്ടണ കേന്ദ്രത്തിൽ നിന്ന് റോഡുമാർഗം ചെറിയ ദൂരം. തഞ്ചാവൂർ ജംഗ്ഷൻ ഏറ്റവും അടുത്ത റെയിൽവേ സ്റ്റേഷനാണ്; തിരുച്ചിറപ്പള്ളിയിൽ ഏറ്റവും അടുത്ത വിമാനത്താവളമുണ്ട്, റോഡുമാർഗം ഏകദേശം 60 കി.മീ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/neelamega-thanjavur.mp3",
+    "durationSec": 180
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",
+    "color": "#5C3A2E",
+    "alt": "തഞ്ചൈ മാമണി കോവിൽ (നീലമേഘ പെരുമാൾ ക്ഷേത്രം), തഞ്ചാവൂർ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/neelamega-thanjavur.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/neelamega-thanjavur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",
+    "durationSec": 137,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

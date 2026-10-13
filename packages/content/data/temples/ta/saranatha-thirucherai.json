@@ -32,5 +32,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது — தோள்களும் முழங்கால்களும் மறைக்கப்பட வேண்டும்; உள்ளே நுழைவதற்கு முன் காலணிகளைக் கழற்ற வேண்டும். அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "photography": "மூலஸ்தானத்திலும் அதைச் சுற்றியும் புகைப்படம் எடுப்பது கட்டுப்படுத்தப்பட்டுள்ளது; அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "gettingThere": "திருச்சேறை தமிழ்நாட்டின் காவிரி டெல்டாவில் கும்பகோணத்திலிருந்து சிறிது தூரத்தில் உள்ள கிராமம்; கும்பகோணம் அருகிலுள்ள பெரிய நகரமும் ரயில் நிலையமும்; திருச்சிராப்பள்ளி அருகிலுள்ள முக்கிய விமான நிலையம். கும்பகோணத்திலிருந்து சாலை வழியாகச் செல்லலாம்; வழியில் உள்ளூரில் திசையை உறுதிசெய்து கொள்ளுங்கள்."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/saranatha-thirucherai.mp3",
+    "durationSec": 185
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "color": "#5C3A2E",
+    "alt": "சாரநாதப் பெருமாள் கோயில், திருச்சேறை",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/saranatha-thirucherai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/saranatha-thirucherai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "durationSec": 177,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

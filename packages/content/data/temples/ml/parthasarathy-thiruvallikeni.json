@@ -32,5 +32,26 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — തോളും മുട്ടും മറയ്ക്കണം; അകത്ത് പ്രവേശിക്കുന്നതിന് മുമ്പ് പാദരക്ഷകൾ അഴിക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി നിയന്ത്രിച്ചിരിക്കുന്നു; പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "ചെന്നൈ നഗരമധ്യത്തിൽ തിരുവല്ലിക്കേണിയിൽ, മറീനയ്ക്ക് സമീപമുള്ള തേരുവീഥിയിൽ സ്ഥിതിചെയ്യുന്നു; ചെന്നൈ സെൻട്രൽ, എഗ്മോർ സ്റ്റേഷനുകളിൽ നിന്ന് നഗര റോഡ് വഴി എത്താം. ഏറ്റവും അടുത്ത വിമാനത്താവളം ചെന്നൈ അന്താരാഷ്ട്ര വിമാനത്താവളം."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/parthasarathy-thiruvallikeni.mp3",
+    "durationSec": 185
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",
+    "color": "#5C3A2E",
+    "alt": "പാർത്ഥസാരഥി പെരുമാൾ ക്ഷേത്രം, തിരുവല്ലിക്കേണി",
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.avif",
+      "webp": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/parthasarathy-thiruvallikeni.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/parthasarathy-thiruvallikeni.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",
+    "durationSec": 142,
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ತಲೈಚ್ಚಂಗಾಡು ಮಯಿಲಾಡುದುರೈ ಜಿಲ್ಲೆಯ ಕಾವೇರಿ ಮುಖಜ ಭೂಮಿಯಲ್ಲಿ ಅಕ್ಕೂರಿನ ಬಳಿ ಇದೆ; ಸೀರ್ಕಾಳಿ ಅಥವಾ ಮಯಿಲಾಡುದುರೈನಿಂದ ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು. ಚೆನ್ನೈ ಮಾರ್ಗದ ಸೀರ್ಕಾಳಿ ಮತ್ತು ಮಯಿಲಾಡುದುರೈ ಹತ್ತಿರದ ರೈಲು ನಿಲ್ದಾಣಗಳು; ಸುಮಾರು 160 ಕಿ.ಮೀ ದೂರದ ತಿರುಚಿರಾಪಳ್ಳಿ ಹತ್ತಿರದ ಪ್ರಮುಖ ವಿಮಾನ ನಿಲ್ದಾಣ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/nanmathiya-thalaichangadu.mp3",
+    "durationSec": 135
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",
+    "color": "#5C3A2E",
+    "alt": "ನಾಣ್ಮತಿಯ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಲೈಚ್ಚಂಗಾಡು",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.avif",
+      "webp": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/nanmathiya-thalaichangadu.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/nanmathiya-thalaichangadu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",
+    "durationSec": 138,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

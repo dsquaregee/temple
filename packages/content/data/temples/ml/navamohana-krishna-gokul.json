@@ -32,5 +32,26 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — തോളും മുട്ടും മറയ്ക്കണം; അകത്ത് പ്രവേശിക്കുന്നതിന് മുമ്പ് പാദരക്ഷകൾ അഴിക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി നിയന്ത്രിച്ചിരിക്കുന്നു; പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "ഗോകുൽ ഉത്തർപ്രദേശിലെ മഥുര ജില്ലയിൽ, മഥുരയ്ക്ക് തെക്കുകിഴക്ക് യമുനാതീരത്ത് ഏകദേശം 15 കി.മീ അകലെയാണ്. ഏറ്റവും അടുത്ത പ്രധാന റെയിൽവേ ജംഗ്ഷൻ മഥുര; അവിടെ നിന്ന് റോഡ് മാർഗം ഗ്രാമത്തിലെത്താം."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/navamohana-krishna-gokul.mp3",
+    "durationSec": 176
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "color": "#5C3A2E",
+    "alt": "നവമോഹന കൃഷ്ണ ക്ഷേത്രം, ഗോകുൽ (തിരുവായ്പ്പാടി)",
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.avif",
+      "webp": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/navamohana-krishna-gokul.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/navamohana-krishna-gokul.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "durationSec": 143,
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

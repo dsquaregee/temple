@@ -32,5 +32,26 @@
     "dressCode": "సంప్రదాయ దుస్తులు ఆశించబడతాయి: ఇక్కడ పాటించే కేరళ ఆచారం ప్రకారం పురుషులు చొక్కా తీసివేసి ధోతీలో ప్రవేశించమని కోరవచ్చు; స్త్రీలు చీర లేదా ఇతర సంప్రదాయ దుస్తులు ధరిస్తారు; పాదరక్షలు బయట వదలాలి. ప్రకటించిన నియమాలను, ఆలయ సిబ్బంది మార్గదర్శనాన్ని పాటించండి.",
     "photography": "గర్భాలయంలో, దాని చుట్టూ ఫోటోగ్రఫీ అనుమతించబడదు; ప్రకటించిన నియమాలను, ఆలయ సిబ్బంది మార్గదర్శనాన్ని పాటించండి.",
     "gettingThere": "తిరువట్టార్ కన్యాకుమారి జిల్లా కల్కుళం తాలూకాలో, మార్తాండం నుండి లోపలి వైపు ఉంది; మార్తాండం, కుళిత్తురై లేదా నాగర్‌కోయిల్ నుండి రహదారి ద్వారా చేరుకోవచ్చు. కుళిత్తురై, నాగర్‌కోయిల్‌లో రైల్వే స్టేషన్లు ఉన్నాయి; సమీప విమానాశ్రయం తిరువనంతపురం."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/adikesava-thiruvattar.mp3",
+    "durationSec": 183
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ఆదికేశవ పెరుమాళ్ ఆలయం, తిరువట్టార్",
+    "credit": "Manukrishnan80 / Wikimedia Commons (CC BY-SA 4.0) · Infocaster at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Vaikunda Raja / Wikimedia Commons (CC0) · Destination8infinity / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/adikesava-thiruvattar.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/adikesava-thiruvattar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.jpg",
+    "durationSec": 199,
+    "credit": "Manukrishnan80 / Wikimedia Commons (CC BY-SA 4.0) · Infocaster at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Vaikunda Raja / Wikimedia Commons (CC0) · Destination8infinity / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

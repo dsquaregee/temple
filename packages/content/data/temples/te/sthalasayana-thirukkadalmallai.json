@@ -32,5 +32,26 @@
     "dressCode": "సాధారణ సంప్రదాయ దుస్తులు ఆశించబడతాయి — భుజాలు, మోకాళ్లు కప్పి ఉంచాలి; లోపలికి ప్రవేశించే ముందు పాదరక్షలు తీసివేయాలి. ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "photography": "గర్భాలయంలో, దాని చుట్టూ ఫోటోగ్రఫీ నిషేధించబడింది; ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "gettingThere": "ఆలయం మామల్లపురంలో, చెన్నైకి దక్షిణంగా సుమారు 55 కి.మీ. దూరంలో తూర్పు తీర రహదారిపై ఉంది; చెన్నై లేదా చెంగల్పట్టు నుండి రహదారి ద్వారా చేరుకోవచ్చు. సమీప ప్రధాన రైల్వే జంక్షన్ చెంగల్పట్టు; సమీప విమానాశ్రయం చెన్నై."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/sthalasayana-thirukkadalmallai.mp3",
+    "durationSec": 172
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "color": "#5C3A2E",
+    "alt": "స్థలశయన పెరుమాళ్ ఆలయం, తిరుక్కడల్మల్లై",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sthalasayana-thirukkadalmallai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/sthalasayana-thirukkadalmallai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "durationSec": 186,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

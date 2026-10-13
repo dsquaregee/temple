@@ -32,5 +32,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது — தோள்களும் முழங்கால்களும் மறைக்கப்பட வேண்டும்; உள்ளே நுழைவதற்கு முன் காலணிகளைக் கழற்ற வேண்டும். அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "photography": "மூலஸ்தானத்திலும் அதைச் சுற்றியும் புகைப்படம் எடுப்பது கட்டுப்படுத்தப்பட்டுள்ளது; அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "gettingThere": "திருவெள்ளியங்குடி கும்பகோணத்திலிருந்து சுமார் 19 கி.மீ. தொலைவில் உள்ளது; டெல்டா கிராமங்கள் வழியாகச் சாலையில் செல்லலாம்; கும்பகோணம் அருகிலுள்ள பெரிய ரயில் நிலையம், திருச்சிராப்பள்ளி அருகிலுள்ள விமான நிலையம்."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/kolavilli-raman-thiruvelliyangudi.mp3",
+    "durationSec": 172
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "கோலவில்லி ராமர் கோயில், திருவெள்ளியங்குடி",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kolavilli-raman-thiruvelliyangudi.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/kolavilli-raman-thiruvelliyangudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",
+    "durationSec": 163,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

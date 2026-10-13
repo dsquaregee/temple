@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "The temple stands in central Madurai, south-west of the Meenakshi Amman temple and close to the Periyar bus stand, reachable on foot or by auto-rickshaw. Madurai Junction railway station is nearby, and Madurai Airport lies about 12 km south."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/koodal-azhagar-madurai.mp3",
+    "durationSec": 196
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",
+    "color": "#5C3A2E",
+    "alt": "Koodal Azhagar Temple, Madurai",
+    "credit": "Aditya Shree / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/koodal-azhagar-madurai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/koodal-azhagar-madurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",
+    "durationSec": 152,
+    "credit": "Aditya Shree / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

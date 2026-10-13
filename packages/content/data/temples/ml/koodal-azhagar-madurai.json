@@ -32,5 +32,26 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — തോളും മുട്ടും മറയ്ക്കണം; അകത്ത് പ്രവേശിക്കുന്നതിന് മുമ്പ് പാദരക്ഷകൾ അഴിക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി നിയന്ത്രിച്ചിരിക്കുന്നു; പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "ക്ഷേത്രം മധുര നഗരമധ്യത്തിൽ, മീനാക്ഷി അമ്മൻ ക്ഷേത്രത്തിന് തെക്കുപടിഞ്ഞാറായി, പെരിയാർ ബസ് സ്റ്റാൻഡിനടുത്ത് സ്ഥിതിചെയ്യുന്നു; നടന്നോ ഓട്ടോറിക്ഷയിലോ എത്തിച്ചേരാം. മധുര ജംഗ്ഷൻ റെയിൽവേ സ്റ്റേഷൻ സമീപത്താണ്; മധുര വിമാനത്താവളം തെക്കായി ഏകദേശം 12 കിലോമീറ്റർ അകലെയാണ്."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/koodal-azhagar-madurai.mp3",
+    "durationSec": 189
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",
+    "color": "#5C3A2E",
+    "alt": "കൂടൽ അഴകർ ക്ഷേത്രം, മധുര",
+    "credit": "Aditya Shree / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/koodal-azhagar-madurai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/koodal-azhagar-madurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",
+    "durationSec": 145,
+    "credit": "Aditya Shree / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

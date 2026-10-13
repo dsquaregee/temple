@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "तिरुवेक्का काँचीपुरम नगर के पूर्वी भाग चिन्न काँचीपुरम में है; काँचीपुरम में रेलवे स्टेशन है और चेन्नई से सड़क मार्ग से पहुँचा जा सकता है; चेन्नई अंतरराष्ट्रीय हवाई अड्डा निकटतम प्रमुख हवाई अड्डा है।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/yathothkari-thiruvekka.mp3",
+    "durationSec": 191
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.jpg",
+    "color": "#5C3A2E",
+    "alt": "यथोत्कारी पेरुमाळ मंदिर, तिरुवेक्का",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.avif",
+      "webp": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/yathothkari-thiruvekka.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/yathothkari-thiruvekka.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.jpg",
+    "durationSec": 170,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

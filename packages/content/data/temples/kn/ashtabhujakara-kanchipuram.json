@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ಇದು ಕಾಂಚೀಪುರಂ ಪಟ್ಟಣದೊಳಗೇ ಇದೆ; ಕಾಂಚೀಪುರಂನಲ್ಲಿ ರೈಲು ನಿಲ್ದಾಣವಿದೆ; ಚೆನ್ನೈನಿಂದ ರಸ್ತೆ ಮೂಲಕ (ಸುಮಾರು 70 ಕಿ.ಮೀ) ತಲುಪಬಹುದು; ಚೆನ್ನೈ ಹತ್ತಿರದ ಪ್ರಮುಖ ವಿಮಾನ ನಿಲ್ದಾಣ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/ashtabhujakara-kanchipuram.mp3",
+    "durationSec": 167
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಅಷ್ಟಭುಜ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ಕಾಂಚೀಪುರಂ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ashtabhujakara-kanchipuram.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/ashtabhujakara-kanchipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.jpg",
+    "durationSec": 167,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

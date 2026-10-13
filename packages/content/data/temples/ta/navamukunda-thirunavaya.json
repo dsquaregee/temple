@@ -32,5 +32,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது — தோள்களும் முழங்கால்களும் மறைக்கப்பட வேண்டும்; உள்ளே நுழைவதற்கு முன் காலணிகளைக் கழற்ற வேண்டும். அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "photography": "மூலஸ்தானத்திலும் அதைச் சுற்றியும் புகைப்படம் எடுப்பது கட்டுப்படுத்தப்பட்டுள்ளது; அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "gettingThere": "திருநாவாய் மலப்புரம் மாவட்டத்தில் பாரதப்புழையின் வடகரையில் உள்ளது. ஷொர்ணூர்–கோழிக்கோடு பாதையில் இதற்கே உரிய தொடருந்து நிலையம் உண்டு; திரூர், குட்டிப்புரம் சாலை வசதியுள்ள அருகிலுள்ள நகரங்கள்; ஆட்டோ, வாடகை வண்டி குறுகிய தொலைவுக்கு உதவும். அருகிலுள்ள விமான நிலையம் கோழிக்கோடு. கர்க்கடக வாவில் பெருங்கூட்டம் எதிர்பார்க்கலாம்."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/navamukunda-thirunavaya.mp3",
+    "durationSec": 188
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/navamukunda-thirunavaya.jpg",
+    "color": "#5C3A2E",
+    "alt": "நவமுகுந்தப் பெருமாள் கோயில், திருநாவாய்",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/navamukunda-thirunavaya.avif",
+      "webp": "https://media.dsquaregee.com/heroes/navamukunda-thirunavaya.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/navamukunda-thirunavaya.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/navamukunda-thirunavaya.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/navamukunda-thirunavaya.jpg",
+    "durationSec": 176,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

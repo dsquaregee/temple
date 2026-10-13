@@ -32,5 +32,26 @@
     "dressCode": "సాధారణ సంప్రదాయ దుస్తులు ఆశించబడతాయి — భుజాలు, మోకాళ్లు కప్పి ఉంచాలి; లోపలికి ప్రవేశించే ముందు పాదరక్షలు తీసివేయాలి. ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "photography": "గర్భాలయంలో, దాని చుట్టూ ఫోటోగ్రఫీ నిషేధించబడింది; ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "gettingThere": "గోకుల్ ఉత్తర ప్రదేశ్‌లోని మథుర జిల్లాలో, మథురకు ఆగ్నేయంగా యమునా తీరంలో సుమారు 15 కి.మీ దూరంలో ఉంది. సమీప ప్రధాన రైల్వే జంక్షన్ మథుర; అక్కడి నుండి రోడ్డు మార్గంలో గ్రామానికి చేరుకోవచ్చు."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/navamohana-krishna-gokul.mp3",
+    "durationSec": 154
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "color": "#5C3A2E",
+    "alt": "నవమోహన కృష్ణ ఆలయం, గోకుల్ (తిరువాయ్‌ప్పాడి)",
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.avif",
+      "webp": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/navamohana-krishna-gokul.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/navamohana-krishna-gokul.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "durationSec": 175,
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

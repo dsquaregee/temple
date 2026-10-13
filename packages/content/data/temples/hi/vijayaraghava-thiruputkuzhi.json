@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "तिरुपुट्कुऴि कांचीपुरम जिले का गाँव है, कांचीपुरम नगर से पश्चिम में लगभग 10 किमी दूर। कांचीपुरम निकटतम बड़ा नगर और रेलवे स्टेशन है; चेन्नई निकटतम प्रमुख हवाई अड्डा। ऑटो-रिक्शा और स्थानीय बसें गाँव को कांचीपुरम से जोड़ती हैं; मार्ग की स्थानीय रूप से पुष्टि कर लें।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/vijayaraghava-thiruputkuzhi.mp3",
+    "durationSec": 153
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.jpg",
+    "color": "#5C3A2E",
+    "alt": "विजयराघव पेरुमाळ मंदिर, तिरुपुट्कुऴि",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vijayaraghava-thiruputkuzhi.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/vijayaraghava-thiruputkuzhi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.jpg",
+    "durationSec": 136,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

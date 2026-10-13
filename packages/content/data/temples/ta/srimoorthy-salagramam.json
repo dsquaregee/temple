@@ -32,5 +32,26 @@
     "dressCode": "எளிமையான உடை எதிர்பார்க்கப்படுகிறது; உயரத்துக்கேற்ப சூடான அடுக்கு ஆடைகள் அணியுங்கள்; சந்நிதிக்குள் நுழையும் முன் காலணிகளைக் கழற்ற வேண்டும். அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "photography": "மூலஸ்தானத்திலும் அதைச் சுற்றியும் புகைப்படம் எடுப்பது கட்டுப்படுத்தப்பட்டுள்ளது; அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "gettingThere": "போக்கராவிலிருந்து ஜோம்சோமுக்கு விமானம் அல்லது பேனி வழியாகச் சாலை மூலம் செல்லுங்கள்; பின்னர் சில சமயம் முக்திநாத் என்றே அழைக்கப்படும் ராணிபௌவா ஊருக்குச் சாலை வழியாகச் சென்று, கோயிலுக்குச் சிறு மலையேற்றம் செய்ய வேண்டும். உயரத்துக்குப் படிப்படியாகப் பழகிக்கொள்ளத் திட்டமிடுங்கள்; சாலை, விமான நிலைமைகளை அங்கேயே உறுதிசெய்யுங்கள்."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/srimoorthy-salagramam.mp3",
+    "durationSec": 221
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/srimoorthy-salagramam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஸ்ரீமூர்த்தி பெருமாள் கோயில், சாளக்கிராமம் (முக்திநாத்)",
+    "credit": "Manjul bhattarai / Wikimedia Commons (CC BY-SA 4.0) · Sudeepacharya076 / Wikimedia Commons (CC BY-SA 4.0) · Prytomb / Wikimedia Commons (CC BY-SA 4.0) · Bijay Chaurasia / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/srimoorthy-salagramam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/srimoorthy-salagramam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/srimoorthy-salagramam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/srimoorthy-salagramam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srimoorthy-salagramam.jpg",
+    "durationSec": 212,
+    "credit": "Manjul bhattarai / Wikimedia Commons (CC BY-SA 4.0) · Sudeepacharya076 / Wikimedia Commons (CC BY-SA 4.0) · Prytomb / Wikimedia Commons (CC BY-SA 4.0) · Bijay Chaurasia / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

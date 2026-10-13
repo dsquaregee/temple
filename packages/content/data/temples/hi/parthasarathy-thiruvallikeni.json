@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "चेन्नई शहर के मध्य तिरुवल्लिकेणि में, मरीना के निकट रथ वीथी पर स्थित; चेन्नई सेंट्रल और एगमोर स्टेशनों से शहर की सड़कों द्वारा पहुँचा जा सकता है। निकटतम हवाई अड्डा चेन्नई अंतरराष्ट्रीय हवाई अड्डा है।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/parthasarathy-thiruvallikeni.mp3",
+    "durationSec": 170
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",
+    "color": "#5C3A2E",
+    "alt": "पार्थसारथी पेरुमाळ मंदिर, तिरुवल्लिकेणि",
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.avif",
+      "webp": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/parthasarathy-thiruvallikeni.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/parthasarathy-thiruvallikeni.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",
+    "durationSec": 152,
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

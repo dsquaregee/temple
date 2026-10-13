@@ -32,5 +32,26 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — തോളും മുട്ടും മറയ്ക്കണം; അകത്ത് പ്രവേശിക്കുന്നതിന് മുമ്പ് പാദരക്ഷകൾ അഴിക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി നിയന്ത്രിച്ചിരിക്കുന്നു; പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "ഒപ്പിലിയപ്പൻ ക്ഷേത്രം തഞ്ചാവൂർ ജില്ലയിൽ, കുംഭകോണത്തുനിന്ന് ഏകദേശം 7 കി.മീ. അകലെ തിരുനാഗേശ്വരത്തിനു തൊട്ടടുത്താണ്; ടൗൺ ബസ്, ഓട്ടോറിക്ഷ അല്ലെങ്കിൽ ടാക്സി വഴി എളുപ്പത്തിൽ എത്താം. കുംഭകോണത്താണ് ഏറ്റവും അടുത്ത റെയിൽവേ സ്റ്റേഷൻ; തിരുച്ചിറപ്പള്ളിയിൽ ഏറ്റവും അടുത്ത വിമാനത്താവളമുണ്ട്."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/oppiliappan-thiruvinnagar.mp3",
+    "durationSec": 196
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഒപ്പിലിയപ്പൻ ക്ഷേത്രം, തിരുവിണ്ണഗർ",
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0) · Arunasank / Wikimedia Commons (CC BY-SA 4.0) · sowrirajan s / Wikimedia Commons (CC BY 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/oppiliappan-thiruvinnagar.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/oppiliappan-thiruvinnagar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",
+    "durationSec": 149,
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0) · Arunasank / Wikimedia Commons (CC BY-SA 4.0) · sowrirajan s / Wikimedia Commons (CC BY 2.0)"
   }
 }

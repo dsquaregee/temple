@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "Uthamarkoil lies on the northern outskirts of Tiruchirappalli, about 4 km from Srirangam. Tiruchirappalli Junction and Tiruchirappalli International Airport are the nearest rail and air gateways; local buses and autos reach the temple by road."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/purushottama-uthamarkoil.mp3",
+    "durationSec": 193
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "Purushottama Perumal Temple, Uthamarkoil",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/purushottama-uthamarkoil.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/purushottama-uthamarkoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "durationSec": 148,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

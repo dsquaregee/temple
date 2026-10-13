@@ -32,5 +32,26 @@
     "dressCode": "Traditional dress is expected: by Kerala temple custom men usually enter bare-chested in a mundu or dhoti, and women in saree or other traditional dress; footwear is left outside. Follow posted rules and the guidance of temple staff.",
     "photography": "Photography is not permitted in and around the sanctum; follow posted rules and the guidance of temple staff.",
     "gettingThere": "The temple is in Thiruvalla town, Pathanamthitta district. Thiruvalla railway station lies on the Ernakulam–Kottayam–Kollam line, the town is on the Main Central (MC) Road, and Kochi and Thiruvananthapuram have the nearest airports."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/sreevallabha-thiruvalla.mp3",
+    "durationSec": 185
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sreevallabha-thiruvalla.jpg",
+    "color": "#5C3A2E",
+    "alt": "Sreevallabha Temple, Thiruvalla",
+    "credit": "Getpraveennair / Wikimedia Commons (CC BY-SA 4.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sreevallabha-thiruvalla.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sreevallabha-thiruvalla.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sreevallabha-thiruvalla.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/sreevallabha-thiruvalla.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sreevallabha-thiruvalla.jpg",
+    "durationSec": 139,
+    "credit": "Getpraveennair / Wikimedia Commons (CC BY-SA 4.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

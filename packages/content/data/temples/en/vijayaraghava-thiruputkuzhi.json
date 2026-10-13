@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "Thiruputkuzhi is a village in Kanchipuram district, roughly 10 km west of Kanchipuram town. Kanchipuram is the nearest large town and railhead; Chennai is the nearest major airport. Auto-rickshaws and local buses connect the village with Kanchipuram; confirm the route locally."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vijayaraghava-thiruputkuzhi.mp3",
+    "durationSec": 172
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Vijayaraghava Perumal Temple, Thiruputkuzhi",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vijayaraghava-thiruputkuzhi.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/vijayaraghava-thiruputkuzhi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.jpg",
+    "durationSec": 127,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

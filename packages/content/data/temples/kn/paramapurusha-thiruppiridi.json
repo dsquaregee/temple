@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಬೆಚ್ಚನೆಯ ಬಟ್ಟೆ ಒಯ್ದು ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನು ಪಾಲಿಸಿ.",
     "photography": "ಸನ್ನಿಧಿಗಳಲ್ಲಿ ಮತ್ತು ಅವುಗಳ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ಜೋಶಿಮಠ ಚಮೋಲಿ ಜಿಲ್ಲೆಯಲ್ಲಿ ಋಷಿಕೇಶ–ಬದರಿನಾಥ್ ಮಾರ್ಗದಲ್ಲಿದೆ; ಋಷಿಕೇಶದಿಂದ ಪರ್ವತ ರಸ್ತೆಯ ಮೂಲಕ ತಲುಪಬಹುದು. ಋತುವಿಗೆ ಅನುಗುಣವಾಗಿ ರಸ್ತೆಯ ಸ್ಥಿತಿ ಬದಲಾಗುತ್ತದೆ; ಪ್ರಯಾಣಕ್ಕೆ ಮುನ್ನ ಪರಿಶೀಲಿಸಿ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/paramapurusha-thiruppiridi.mp3",
+    "durationSec": 160
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಪರಮಪುರುಷ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಪ್ಪಿರಿದಿ (ಜೋಶಿಮಠ)",
+    "credit": "ArmouredCyborg / Wikimedia Commons (CC BY-SA 4.0) · Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · Goutam1962 / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/paramapurusha-thiruppiridi.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/paramapurusha-thiruppiridi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.jpg",
+    "durationSec": 164,
+    "credit": "ArmouredCyborg / Wikimedia Commons (CC BY-SA 4.0) · Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · Goutam1962 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

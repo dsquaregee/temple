@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "Alagar Koil is about 20 km north-east of Madurai by road, with frequent buses from the city. Madurai Junction is the nearest major railway station and Madurai Airport the nearest airport."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kallazhagar-alagarkoil.mp3",
+    "durationSec": 204
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kallazhagar-alagarkoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kallazhagar Temple, Alagar Koil",
+    "credit": "CXPathi / Wikimedia Commons (CC BY-SA 4.0) · சித்திரவீதிக்காரன் / Wikimedia Commons (CC BY 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kallazhagar-alagarkoil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kallazhagar-alagarkoil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kallazhagar-alagarkoil.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kallazhagar-alagarkoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kallazhagar-alagarkoil.jpg",
+    "durationSec": 158,
+    "credit": "CXPathi / Wikimedia Commons (CC BY-SA 4.0) · சித்திரவீதிக்காரன் / Wikimedia Commons (CC BY 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

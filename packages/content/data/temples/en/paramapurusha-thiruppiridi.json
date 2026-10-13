@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Carry warm layers and follow the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
     "gettingThere": "Joshimath lies in Chamoli district on the Rishikesh–Badrinath road, reached by mountain road from Rishikesh. Road conditions vary with the season, so check before travelling."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/paramapurusha-thiruppiridi.mp3",
+    "durationSec": 184
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Paramapurusha Perumal Temple, Thiruppiridi (Joshimath)",
+    "credit": "ArmouredCyborg / Wikimedia Commons (CC BY-SA 4.0) · Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · Goutam1962 / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/paramapurusha-thiruppiridi.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/paramapurusha-thiruppiridi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.jpg",
+    "durationSec": 140,
+    "credit": "ArmouredCyborg / Wikimedia Commons (CC BY-SA 4.0) · Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · Goutam1962 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

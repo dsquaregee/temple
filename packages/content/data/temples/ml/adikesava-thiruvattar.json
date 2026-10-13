@@ -32,5 +32,26 @@
     "dressCode": "പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു: ഇവിടെ പാലിക്കുന്ന കേരള ആചാരപ്രകാരം പുരുഷന്മാരോട് ഷർട്ട് ഊരി മുണ്ട് ധരിച്ച് പ്രവേശിക്കാൻ ആവശ്യപ്പെട്ടേക്കാം; സ്ത്രീകൾ സാരി അല്ലെങ്കിൽ മറ്റ് പരമ്പരാഗത വസ്ത്രം ധരിക്കുന്നു; പാദരക്ഷകൾ പുറത്ത് വയ്ക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും ക്ഷേത്ര ജീവനക്കാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി അനുവദനീയമല്ല; പ്രദർശിപ്പിച്ച നിയമങ്ങളും ക്ഷേത്ര ജീവനക്കാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "തിരുവട്ടാർ കന്യാകുമാരി ജില്ലയിലെ കൽക്കുളം താലൂക്കിൽ, മാർത്താണ്ഡത്തിൽ നിന്ന് ഉൾനാട്ടിലാണ്; മാർത്താണ്ഡം, കുഴിത്തുറ അല്ലെങ്കിൽ നാഗർകോവിൽ നിന്ന് റോഡ് മാർഗം എത്താം. കുഴിത്തുറയിലും നാഗർകോവിലിലും റെയിൽവേ സ്റ്റേഷനുകളുണ്ട്; സമീപ വിമാനത്താവളം തിരുവനന്തപുരം."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/adikesava-thiruvattar.mp3",
+    "durationSec": 205
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ആദികേശവ പെരുമാൾ ക്ഷേത്രം, തിരുവട്ടാർ",
+    "credit": "Manukrishnan80 / Wikimedia Commons (CC BY-SA 4.0) · Infocaster at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Vaikunda Raja / Wikimedia Commons (CC0) · Destination8infinity / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/adikesava-thiruvattar.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/adikesava-thiruvattar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.jpg",
+    "durationSec": 155,
+    "credit": "Manukrishnan80 / Wikimedia Commons (CC BY-SA 4.0) · Infocaster at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Vaikunda Raja / Wikimedia Commons (CC0) · Destination8infinity / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

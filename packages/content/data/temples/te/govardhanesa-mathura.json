@@ -32,5 +32,26 @@
     "dressCode": "సాధారణ సంప్రదాయ దుస్తులు ఆశించబడతాయి — భుజాలు, మోకాళ్లు కప్పి ఉంచాలి; లోపలికి ప్రవేశించే ముందు పాదరక్షలు తీసివేయాలి. ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "photography": "గర్భాలయంలో, దాని చుట్టూ ఫోటోగ్రఫీ నిషేధించబడింది; ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "gettingThere": "మథుర ఉత్తర ప్రదేశ్‌లో యమునా తీరంలో ఉంది; ప్రధాన రైల్వే జంక్షన్ ఉంది; ఢిల్లీ, ఆగ్రాలతో రోడ్డు, రైలు అనుసంధానాలు బాగున్నాయి. నగరం లోపల స్థానిక రవాణాతో కృష్ణ జన్మస్థాన సముదాయాన్ని చేరుకోవచ్చు. గోవర్ధనం సుమారు 20 కి.మీ దూరంలో ఉంది."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/govardhanesa-mathura.mp3",
+    "durationSec": 158
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.jpg",
+    "color": "#5C3A2E",
+    "alt": "గోవర్ధనేశ పెరుమాళ్ ఆలయం, మథుర (తిరు వడమథురై)",
+    "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0) · Wikimedia Commons / Wikimedia Commons (CC BY-SA 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.avif",
+      "webp": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/govardhanesa-mathura.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/govardhanesa-mathura.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.jpg",
+    "durationSec": 176,
+    "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0) · Wikimedia Commons / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

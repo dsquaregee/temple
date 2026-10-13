@@ -32,5 +32,26 @@
     "dressCode": "సంప్రదాయ దుస్తులు ఆశించబడతాయి: కేరళ ఆలయ ఆచారం ప్రకారం పురుషులు సాధారణంగా పై వస్త్రం లేకుండా ముండు లేదా ధోతీతో ప్రవేశిస్తారు; స్త్రీలు చీర లేదా ఇతర సంప్రదాయ దుస్తులు ధరిస్తారు; పాదరక్షలు బయట వదలాలి. ప్రకటించిన నియమాలను, ఆలయ సిబ్బంది మార్గదర్శనాన్ని పాటించండి.",
     "photography": "గర్భాలయంలో, దాని చుట్టూ ఫోటోగ్రఫీ అనుమతించబడదు; ప్రకటించిన నియమాలను, ఆలయ సిబ్బంది మార్గదర్శనాన్ని పాటించండి.",
     "gettingThere": "మూళిక్కుళం ఎర్నాకుళం జిల్లాలో చాలకుడి నది సమీపంలో ఉంది; ఆలువా లేదా అంగమాలి నుండి రహదారి ద్వారా చేరుకోవచ్చు. రెండు పట్టణాలలోనూ రైల్వే స్టేషన్లు ఉన్నాయి; నెడుంబస్సేరిలోని కొచ్చి అంతర్జాతీయ విమానాశ్రయం దగ్గరలోనే ఉంది."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/lakshmana-perumal-thirumoozhikkulam.mp3",
+    "durationSec": 164
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.jpg",
+    "color": "#5C3A2E",
+    "alt": "లక్ష్మణ పెరుమాళ్ ఆలయం, తిరుమూళిక్కుళం",
+    "credit": "Ranjithsiji / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/lakshmana-perumal-thirumoozhikkulam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/lakshmana-perumal-thirumoozhikkulam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.jpg",
+    "durationSec": 182,
+    "credit": "Ranjithsiji / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

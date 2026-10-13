@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "तिरुपुळ्ळभूतंगुडि तंजावुर ज़िले में स्वामिमलै के निकट एक गाँव है, जो कुंभकोणम् से सड़क मार्ग द्वारा लगभग 10 किमी दूर है। कुंभकोणम् में निकटतम रेलवे स्टेशन है; तिरुचिरापल्ली में निकटतम हवाई अड्डा है।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/valvil-raman-pullabhoothangudi.mp3",
+    "durationSec": 165
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/valvil-raman-pullabhoothangudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "वल्विल रामर मंदिर, तिरुपुळ्ळभूतंगुडि",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/valvil-raman-pullabhoothangudi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/valvil-raman-pullabhoothangudi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/valvil-raman-pullabhoothangudi.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/valvil-raman-pullabhoothangudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/valvil-raman-pullabhoothangudi.jpg",
+    "durationSec": 150,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ಚೆನ್ನೈ ನಗರದ ಮಧ್ಯದಲ್ಲಿ ತಿರುವಲ್ಲಿಕ್ಕೇಣಿಯಲ್ಲಿ, ಮರೀನಾ ಬಳಿಯ ರಥ ಬೀದಿಯಲ್ಲಿದೆ; ಚೆನ್ನೈ ಸೆಂಟ್ರಲ್ ಮತ್ತು ಎಗ್ಮೋರ್ ನಿಲ್ದಾಣಗಳಿಂದ ನಗರ ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು. ಸಮೀಪದ ವಿಮಾನ ನಿಲ್ದಾಣ ಚೆನ್ನೈ ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/parthasarathy-thiruvallikeni.mp3",
+    "durationSec": 163
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಪಾರ್ಥಸಾರಥಿ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುವಲ್ಲಿಕ್ಕೇಣಿ",
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.avif",
+      "webp": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/parthasarathy-thiruvallikeni.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/parthasarathy-thiruvallikeni.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",
+    "durationSec": 170,
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

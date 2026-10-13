@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ನಾಥನ್ ಕೋವಿಲ್ ಕುಂಭಕೋಣಂನಿಂದ ಕೆಲವು ಕಿಲೋಮೀಟರ್ ದೂರದಲ್ಲಿದೆ; ಸ್ಥಳೀಯ ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು. ಕುಂಭಕೋಣಂನಲ್ಲಿ ಹತ್ತಿರದ ರೈಲು ನಿಲ್ದಾಣವಿದೆ, ಅಲ್ಲಿಂದ ತಂಜಾವೂರು, ತಿರುಚಿರಾಪಳ್ಳಿ ಮತ್ತು ಚೆನ್ನೈ ಕಡೆಗೆ ರೈಲುಗಳಿವೆ; ತಿರುಚಿರಾಪಳ್ಳಿ ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ, ಸುಮಾರು 100 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದೆ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/jagannatha-nathankoil.mp3",
+    "durationSec": 161
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಜಗನ್ನಾಥ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ನಾಥನ್ ಕೋವಿಲ್",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/jagannatha-nathankoil.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/jagannatha-nathankoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
+    "durationSec": 165,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "సాధారణ సంప్రదాయ దుస్తులు ఆశించబడతాయి — భుజాలు, మోకాళ్లు కప్పి ఉంచాలి; లోపలికి ప్రవేశించే ముందు పాదరక్షలు తీసివేయాలి. ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "photography": "గర్భాలయంలో, దాని చుట్టూ ఫోటోగ్రఫీ నిషేధించబడింది; ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "gettingThere": "బద్రీనాథ్ ఉత్తరాఖండ్‌లోని చమోలీ జిల్లాలో అలకనంద ఒడ్డున ఉంది; రిషికేశ్ లేదా హరిద్వార్ నుండి దేవప్రయాగ, రుద్రప్రయాగ, జోషీమఠ్ మీదుగా రహదారి ద్వారా సుమారు 300 కి.మీ. సమీప రైల్వే స్టేషన్లు రిషికేశ్, హరిద్వార్; సమీప విమానాశ్రయం డెహ్రాడూన్‌లోని జాలీ గ్రాంట్. చెడు వాతావరణంలో పర్వత రహదారులు మూతపడవచ్చు; బయలుదేరే ముందు పరిస్థితిని తనిఖీ చేయండి."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/badrinarayan-badrinath.mp3",
+    "durationSec": 181
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.jpg",
+    "color": "#5C3A2E",
+    "alt": "బద్రీనారాయణ ఆలయం, బద్రీనాథ్",
+    "credit": "Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · AaS / Wikimedia Commons (CC BY-SA 4.0) · Abhilash Addanki / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.avif",
+      "webp": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/badrinarayan-badrinath.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/badrinarayan-badrinath.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.jpg",
+    "durationSec": 203,
+    "credit": "Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · AaS / Wikimedia Commons (CC BY-SA 4.0) · Abhilash Addanki / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

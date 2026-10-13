@@ -48,6 +48,19 @@ const UA = 'temple-app/1.0 (https://temples.dsquaregee.com; support@dsquaregee.c
 const SEARCH_FALLBACKS = {
   arunachaleswarar: ['Annamalaiyar Temple', 'Arunachalesvara Temple Tiruvannamalai'],
   jambukeswarar: ['Jambukeswarar Temple', 'Thiruvanaikaval temple'],
+  // Divya Desams (2026-10): the catalog's full names ("<Deity> Perumal Temple,
+  // <Place>") rarely match Commons titles, so each lists the short local names
+  // photographers use. Shrines housed inside a larger temple search the host.
+  ...JSON.parse(readFileSync(join(dirname(fileURLToPath(import.meta.url)), 'commons-search-fallbacks.json'), 'utf8')),
+};
+
+// Fallback queries are short and broad, so a hit must have one of the query's
+// distinctive words in its FILE TITLE (not just somewhere in its description) —
+// keeps a generic match (another temple in the same town) out of the hero.
+const GENERIC = new Set(['temple', 'perumal', 'kovil', 'koil', 'mandir', 'swamy', 'temple,', 'sri', 'the']);
+const titleMatches = (title, query) => {
+  const t = title.toLowerCase();
+  return query.toLowerCase().split(/\s+/).filter((w) => w.length >= 5 && !GENERIC.has(w)).some((w) => t.includes(w));
 };
 
 // Editorially curated photo sets (exact Commons titles, hero first). The
@@ -272,8 +285,9 @@ async function candidates(temple) {
     ...(SEARCH_FALLBACKS[temple.id] ?? []),
   ];
   const byTitle = new Map();
-  for (const query of queries) {
+  for (const [qi, query] of queries.entries()) {
     for (const c of await searchCommons(query)) {
+      if (qi > 0 && !titleMatches(c.title, query)) continue;
       if (!byTitle.has(c.title)) byTitle.set(c.title, c);
     }
     if (byTitle.size >= PHOTOS_PER) break; // enough — skip remaining fallbacks

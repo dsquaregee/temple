@@ -32,5 +32,26 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — തോളും മുട്ടും മറയ്ക്കണം; അകത്ത് പ്രവേശിക്കുന്നതിന് മുമ്പ് പാദരക്ഷകൾ അഴിക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി നിയന്ത്രിച്ചിരിക്കുന്നു; പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "തിരുപ്പുല്ലാണി രാമനാഥപുരം പട്ടണത്തിൽ നിന്ന് ഏകദേശം 10 കിലോമീറ്റർ അകലെയാണ്, റോഡ് മാർഗം എത്താം; രാമനാഥപുരത്ത് മധുര–രാമേശ്വരം പാതയിൽ റെയിൽവേ സ്റ്റേഷനുണ്ട്, സമീപ വിമാനത്താവളം മധുര. തീർത്ഥാടകർ പലപ്പോഴും സേതുകരൈയിലേക്കും രാമേശ്വരത്തേക്കും പോകുന്ന വഴിയിൽ ഇവിടം സന്ദർശിക്കുന്നു."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/adi-jagannatha-thiruppullani.mp3",
+    "durationSec": 194
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",
+    "color": "#5C3A2E",
+    "alt": "ആദി ജഗന്നാഥ പെരുമാൾ ക്ഷേത്രം, തിരുപ്പുല്ലാണി",
+    "credit": "Balajijagadesh / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Muralikrishna m / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.avif",
+      "webp": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/adi-jagannatha-thiruppullani.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/adi-jagannatha-thiruppullani.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",
+    "durationSec": 149,
+    "credit": "Balajijagadesh / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Muralikrishna m / Wikimedia Commons (CC BY 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — തോളും മുട്ടും മറയ്ക്കണം; അകത്ത് പ്രവേശിക്കുന്നതിന് മുമ്പ് പാദരക്ഷകൾ അഴിക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി നിയന്ത്രിച്ചിരിക്കുന്നു; പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "ഇത് കാഞ്ചീപുരം പട്ടണത്തിനുള്ളിൽ തന്നെയാണ്; കാഞ്ചീപുരത്ത് റെയിൽവേ സ്റ്റേഷനുണ്ട്; ചെന്നൈയിൽ നിന്ന് റോഡ് മാർഗം (ഏകദേശം 70 കി.മീ) എത്താം; ചെന്നൈയാണ് അടുത്തുള്ള പ്രധാന വിമാനത്താവളം."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/ashtabhujakara-kanchipuram.mp3",
+    "durationSec": 180
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "അഷ്ടഭുജ പെരുമാൾ ക്ഷേത്രം, കാഞ്ചീപുരം",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ashtabhujakara-kanchipuram.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/ashtabhujakara-kanchipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.jpg",
+    "durationSec": 138,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ಒಪ್ಪಿಲಿಯಪ್ಪನ್ ದೇವಾಲಯ ತಂಜಾವೂರು ಜಿಲ್ಲೆಯಲ್ಲಿ, ಕುಂಭಕೋಣಂನಿಂದ ಸುಮಾರು 7 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿ ತಿರುನಾಗೇಶ್ವರಂ ಪಕ್ಕದಲ್ಲಿದೆ; ಪಟ್ಟಣ ಬಸ್, ಆಟೋ ಅಥವಾ ಟ್ಯಾಕ್ಸಿ ಮೂಲಕ ಸುಲಭವಾಗಿ ತಲುಪಬಹುದು. ಕುಂಭಕೋಣಂನಲ್ಲಿ ಹತ್ತಿರದ ರೈಲು ನಿಲ್ದಾಣವಿದೆ; ತಿರುಚಿರಾಪಳ್ಳಿಯಲ್ಲಿ ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣವಿದೆ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/oppiliappan-thiruvinnagar.mp3",
+    "durationSec": 179
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಒಪ್ಪಿಲಿಯಪ್ಪನ್ ದೇವಾಲಯ, ತಿರುವಿಣ್ಣಗರ್",
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0) · Arunasank / Wikimedia Commons (CC BY-SA 4.0) · sowrirajan s / Wikimedia Commons (CC BY 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/oppiliappan-thiruvinnagar.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/oppiliappan-thiruvinnagar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",
+    "durationSec": 178,
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0) · Arunasank / Wikimedia Commons (CC BY-SA 4.0) · sowrirajan s / Wikimedia Commons (CC BY 2.0)"
   }
 }

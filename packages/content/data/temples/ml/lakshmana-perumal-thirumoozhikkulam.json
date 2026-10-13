@@ -32,5 +32,26 @@
     "dressCode": "പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു: കേരള ക്ഷേത്രാചാരപ്രകാരം പുരുഷന്മാർ സാധാരണയായി മേൽവസ്ത്രമില്ലാതെ മുണ്ടോ ധോത്തിയോ ധരിച്ച് പ്രവേശിക്കുന്നു; സ്ത്രീകൾ സാരി അല്ലെങ്കിൽ മറ്റ് പരമ്പരാഗത വസ്ത്രം ധരിക്കുന്നു; പാദരക്ഷകൾ പുറത്ത് വയ്ക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും ക്ഷേത്ര ജീവനക്കാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി അനുവദനീയമല്ല; പ്രദർശിപ്പിച്ച നിയമങ്ങളും ക്ഷേത്ര ജീവനക്കാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "മൂഴിക്കുളം എറണാകുളം ജില്ലയിൽ ചാലക്കുടിപ്പുഴയ്ക്കടുത്താണ്; ആലുവയിൽ നിന്നോ അങ്കമാലിയിൽ നിന്നോ റോഡ് മാർഗം എത്താം. ഇരു പട്ടണങ്ങളിലും റെയിൽവേ സ്റ്റേഷനുകളുണ്ട്; നെടുമ്പാശ്ശേരിയിലെ കൊച്ചി അന്താരാഷ്ട്ര വിമാനത്താവളം സമീപത്തുതന്നെയാണ്."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/lakshmana-perumal-thirumoozhikkulam.mp3",
+    "durationSec": 185
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ലക്ഷ്മണ പെരുമാൾ ക്ഷേത്രം, തിരുമൂഴിക്കുളം",
+    "credit": "Ranjithsiji / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/lakshmana-perumal-thirumoozhikkulam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/lakshmana-perumal-thirumoozhikkulam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.jpg",
+    "durationSec": 143,
+    "credit": "Ranjithsiji / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

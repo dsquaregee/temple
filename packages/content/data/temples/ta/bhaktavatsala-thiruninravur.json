@@ -32,5 +32,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது — தோள்களும் முழங்கால்களும் மறைக்கப்பட வேண்டும்; உள்ளே நுழைவதற்கு முன் காலணிகளைக் கழற்ற வேண்டும். அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "photography": "மூலஸ்தானத்திலும் அதைச் சுற்றியும் புகைப்படம் எடுப்பது கட்டுப்படுத்தப்பட்டுள்ளது; அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "gettingThere": "திருநின்றவூர் சென்னையின் மேற்குப் புறநகரில், ஆவடிக்கு அருகில், திருவள்ளூர் மாவட்டத்தில் உள்ளது; சென்னை சென்ட்ரல்–அரக்கோணம் புறநகர் ரயில் பாதையில் திருநின்றவூர் ரயில் நிலையம் உள்ளது. சென்னையிலிருந்து சாலை வழியாக அடையலாம்; அருகிலுள்ள விமான நிலையம் சென்னை."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/bhaktavatsala-thiruninravur.mp3",
+    "durationSec": 198
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.jpg",
+    "color": "#5C3A2E",
+    "alt": "பக்தவத்சல பெருமாள் கோயில், திருநின்றவூர்",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/bhaktavatsala-thiruninravur.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/bhaktavatsala-thiruninravur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.jpg",
+    "durationSec": 181,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

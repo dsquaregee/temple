@@ -32,5 +32,26 @@
     "dressCode": "సాధారణ సంప్రదాయ దుస్తులు ఆశించబడతాయి — భుజాలు, మోకాళ్లు కప్పి ఉంచాలి; లోపలికి ప్రవేశించే ముందు పాదరక్షలు తీసివేయాలి. ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "photography": "గర్భాలయంలో, దాని చుట్టూ ఫోటోగ్రఫీ నిషేధించబడింది; ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "gettingThere": "చెన్నై నగర మధ్యలో తిరువల్లిక్కేణిలో, మెరీనాకు సమీపంలోని రథ వీధిలో ఉంది; చెన్నై సెంట్రల్, ఎగ్మూర్ స్టేషన్ల నుండి నగర రహదారి ద్వారా చేరుకోవచ్చు. సమీప విమానాశ్రయం చెన్నై అంతర్జాతీయ విమానాశ్రయం."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/parthasarathy-thiruvallikeni.mp3",
+    "durationSec": 168
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",
+    "color": "#5C3A2E",
+    "alt": "పార్థసారథి పెరుమాళ్ ఆలయం, తిరువల్లిక్కేణి",
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.avif",
+      "webp": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/parthasarathy-thiruvallikeni.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/parthasarathy-thiruvallikeni.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",
+    "durationSec": 181,
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

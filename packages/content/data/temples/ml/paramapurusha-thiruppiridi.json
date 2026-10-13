@@ -32,5 +32,26 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — തോളും മുട്ടും മറയ്ക്കണം; അകത്ത് പ്രവേശിക്കുന്നതിന് മുമ്പ് പാദരക്ഷകൾ അഴിക്കണം. ചൂടുള്ള വസ്ത്രം കരുതി പൂജാരിമാരുടെ മാർഗനിർദേശം പാലിക്കുക.",
     "photography": "സന്നിധികളിലും അവയ്ക്ക് ചുറ്റും ഫോട്ടോഗ്രഫി നിയന്ത്രിച്ചിരിക്കുന്നു; പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "ജോഷിമഠ് ചമോലി ജില്ലയിൽ ഋഷികേശ്–ബദരിനാഥ് പാതയിലാണ്; ഋഷികേശിൽ നിന്ന് മലമ്പാതയിലൂടെ എത്താം. കാലത്തിനനുസരിച്ച് റോഡിന്റെ അവസ്ഥ മാറും; യാത്രയ്ക്ക് മുമ്പ് പരിശോധിക്കുക."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/paramapurusha-thiruppiridi.mp3",
+    "durationSec": 174
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.jpg",
+    "color": "#5C3A2E",
+    "alt": "പരമപുരുഷ പെരുമാൾ ക്ഷേത്രം, തിരുപ്പിരിതി (ജോഷിമഠ്)",
+    "credit": "ArmouredCyborg / Wikimedia Commons (CC BY-SA 4.0) · Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · Goutam1962 / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/paramapurusha-thiruppiridi.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/paramapurusha-thiruppiridi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.jpg",
+    "durationSec": 139,
+    "credit": "ArmouredCyborg / Wikimedia Commons (CC BY-SA 4.0) · Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · Goutam1962 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

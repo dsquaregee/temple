@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಸನ್ನಿಧಿಗಳಲ್ಲಿ ಮತ್ತು ಅವುಗಳ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ದೇವಾಲಯ ಕಾಂಚೀಪುರಂನ ಹಳೆಯ ಪಟ್ಟಣದಲ್ಲಿ (ಪೆರಿಯ ಕಾಂಚಿ) ಇದೆ; ಈಶಾನ್ಯಕ್ಕೆ ಸುಮಾರು 70 ಕಿ.ಮೀ. ದೂರದ ಚೆನ್ನೈನಿಂದ ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು; ಕಾಂಚೀಪುರಂ ಸಮೀಪದ ರೈಲು ನಿಲ್ದಾಣ, ಚೆನ್ನೈ ಸಮೀಪದ ಪ್ರಮುಖ ವಿಮಾನ ನಿಲ್ದಾಣ. ಆಟೋಗಳು ಮತ್ತು ಸ್ಥಳೀಯ ಬಸ್ಸುಗಳು ಪಟ್ಟಣದ ದಿವ್ಯ ದೇಶಗಳನ್ನು ಸಂಪರ್ಕಿಸುತ್ತವೆ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/ulagalantha-thiruooragam.mp3",
+    "durationSec": 173
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/ulagalantha-thiruooragam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಉಲಗಳಂತ ಪೆರುಮಾಳ್ ದೇವಾಲಯ (ತಿರೂರಗಂ), ಕಾಂಚೀಪುರಂ",
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ulagalantha-thiruooragam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ulagalantha-thiruooragam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ulagalantha-thiruooragam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/ulagalantha-thiruooragam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ulagalantha-thiruooragam.jpg",
+    "durationSec": 179,
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

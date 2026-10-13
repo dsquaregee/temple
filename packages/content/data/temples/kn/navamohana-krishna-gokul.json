@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ಗೋಕುಲ ಉತ್ತರ ಪ್ರದೇಶದ ಮಥುರಾ ಜಿಲ್ಲೆಯಲ್ಲಿ, ಮಥುರೆಯ ಆಗ್ನೇಯಕ್ಕೆ ಯಮುನಾ ತೀರದಲ್ಲಿ ಸುಮಾರು 15 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ. ಹತ್ತಿರದ ಪ್ರಮುಖ ರೈಲು ಜಂಕ್ಷನ್ ಮಥುರಾ; ಅಲ್ಲಿಂದ ರಸ್ತೆಯ ಮೂಲಕ ಗ್ರಾಮವನ್ನು ತಲುಪಬಹುದು."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/navamohana-krishna-gokul.mp3",
+    "durationSec": 152
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "color": "#5C3A2E",
+    "alt": "ನವಮೋಹನ ಕೃಷ್ಣ ದೇವಾಲಯ, ಗೋಕುಲ (ತಿರುವಾಯ್ಪ್ಪಾಡಿ)",
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.avif",
+      "webp": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/navamohana-krishna-gokul.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/navamohana-krishna-gokul.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "durationSec": 161,
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

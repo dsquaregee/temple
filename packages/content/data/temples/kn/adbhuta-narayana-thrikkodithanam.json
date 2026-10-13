@@ -32,5 +32,26 @@
     "dressCode": "ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ: ಕೇರಳ ದೇವಾಲಯ ಪದ್ಧತಿಯಂತೆ ಪುರುಷರು ಸಾಮಾನ್ಯವಾಗಿ ಮೇಲುಡುಗೆ ಇಲ್ಲದೆ ಮುಂಡು ಅಥವಾ ಧೋತಿಯಲ್ಲಿ, ಮಹಿಳೆಯರು ಸೀರೆ ಅಥವಾ ಇತರ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆಯಲ್ಲಿ ಪ್ರವೇಶಿಸುತ್ತಾರೆ; ಪಾದರಕ್ಷೆಗಳನ್ನು ಹೊರಗೆ ಬಿಡಲಾಗುತ್ತದೆ. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ದೇವಾಲಯದ ಸಿಬ್ಬಂದಿಯ ಸೂಚನೆಯನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣಕ್ಕೆ ಅನುಮತಿ ಇಲ್ಲ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಸಿಬ್ಬಂದಿ ಸೂಚನೆಯನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ತಿರುಕ್ಕೊಡಿತ್ತಾನಂ ಕೊಟ್ಟಾಯಂ ಜಿಲ್ಲೆಯಲ್ಲಿ ಚಂಗನಾಶ್ಶೇರಿಯಿಂದ ಪೂರ್ವಕ್ಕೆ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿದೆ. ಚಂಗನಾಶ್ಶೇರಿಯಲ್ಲಿ ಎರ್ನಾಕುಲಂ–ಕೊಟ್ಟಾಯಂ–ಕೊಲ್ಲಂ ಮಾರ್ಗದಲ್ಲಿ ರೈಲು ನಿಲ್ದಾಣವಿದೆ; ಕೊಟ್ಟಾಯಂ ಹತ್ತಿರದಲ್ಲಿದೆ; ಕೊಚ್ಚಿ ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/adbhuta-narayana-thrikkodithanam.mp3",
+    "durationSec": 151
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adbhuta-narayana-thrikkodithanam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಅದ್ಭುತ ನಾರಾಯಣ ದೇವಾಲಯ, ತಿರುಕ್ಕೊಡಿತ್ತಾನಂ",
+    "credit": "Kannanshanmugam,shanmugamstudio,Kollam / Wikimedia Commons (CC BY 3.0) · Anoopgnm / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/adbhuta-narayana-thrikkodithanam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/adbhuta-narayana-thrikkodithanam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/adbhuta-narayana-thrikkodithanam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/adbhuta-narayana-thrikkodithanam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adbhuta-narayana-thrikkodithanam.jpg",
+    "durationSec": 152,
+    "credit": "Kannanshanmugam,shanmugamstudio,Kollam / Wikimedia Commons (CC BY 3.0) · Anoopgnm / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

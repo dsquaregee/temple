@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ಉತ್ತಮರ್‌ಕೋಯಿಲ್ ತಿರುಚಿರಾಪಳ್ಳಿಯ ಉತ್ತರ ಅಂಚಿನಲ್ಲಿ, ಶ್ರೀರಂಗದಿಂದ ಸುಮಾರು 4 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದೆ. ತಿರುಚಿರಾಪಳ್ಳಿ ಜಂಕ್ಷನ್ ರೈಲು ನಿಲ್ದಾಣ ಮತ್ತು ತಿರುಚಿರಾಪಳ್ಳಿ ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ ಹತ್ತಿರದ ಪ್ರವೇಶದ್ವಾರಗಳು; ಸ್ಥಳೀಯ ಬಸ್ಸು ಮತ್ತು ಆಟೋಗಳ ಮೂಲಕ ರಸ್ತೆಯಲ್ಲಿ ದೇವಾಲಯವನ್ನು ತಲುಪಬಹುದು."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/purushottama-uthamarkoil.mp3",
+    "durationSec": 175
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಪುರುಷೋತ್ತಮ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ಉತ್ತಮರ್‌ಕೋಯಿಲ್",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/purushottama-uthamarkoil.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/purushottama-uthamarkoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "durationSec": 176,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

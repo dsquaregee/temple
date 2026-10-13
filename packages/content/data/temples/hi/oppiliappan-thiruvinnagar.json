@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "ओप्पिलियप्पन कोविल तंजावुर ज़िले में कुंभकोणम् से लगभग 7 किमी दूर तिरुनागेश्वरम् के समीप है और नगर बस, ऑटो-रिक्शा या टैक्सी से आसानी से पहुँचा जा सकता है। कुंभकोणम् में निकटतम रेलवे स्टेशन है; तिरुचिरापल्ली में निकटतम हवाई अड्डा है।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/oppiliappan-thiruvinnagar.mp3",
+    "durationSec": 179
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",
+    "color": "#5C3A2E",
+    "alt": "ओप्पिलियप्पन मंदिर, तिरुविण्णगर",
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0) · Arunasank / Wikimedia Commons (CC BY-SA 4.0) · sowrirajan s / Wikimedia Commons (CC BY 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/oppiliappan-thiruvinnagar.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/oppiliappan-thiruvinnagar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",
+    "durationSec": 162,
+    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0) · Arunasank / Wikimedia Commons (CC BY-SA 4.0) · sowrirajan s / Wikimedia Commons (CC BY 2.0)"
   }
 }

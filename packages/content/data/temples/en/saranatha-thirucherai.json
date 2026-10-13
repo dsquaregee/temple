@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "Thirucherai is a village a short drive from Kumbakonam in the Kaveri delta of Tamil Nadu; Kumbakonam is the nearest large town and railhead, and Tiruchirappalli is the nearest major airport. Reach it by road from Kumbakonam, and confirm local directions on the way."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/saranatha-thirucherai.mp3",
+    "durationSec": 183
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "color": "#5C3A2E",
+    "alt": "Saranatha Perumal Temple, Thirucherai",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/saranatha-thirucherai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/saranatha-thirucherai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "durationSec": 141,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

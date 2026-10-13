@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ತಿರುಚ್ಚೇರೈ ತಮಿಳುನಾಡಿನ ಕಾವೇರಿ ಡೆಲ್ಟಾದಲ್ಲಿ ಕುಂಭಕೋಣಂನಿಂದ ಸ್ವಲ್ಪ ದೂರದಲ್ಲಿರುವ ಗ್ರಾಮ; ಕುಂಭಕೋಣಂ ಹತ್ತಿರದ ದೊಡ್ಡ ಪಟ್ಟಣ ಮತ್ತು ರೈಲು ನಿಲ್ದಾಣ; ತಿರುಚಿರಾಪಳ್ಳಿ ಹತ್ತಿರದ ಪ್ರಮುಖ ವಿಮಾನ ನಿಲ್ದಾಣ. ಕುಂಭಕೋಣಂನಿಂದ ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು; ದಾರಿಯಲ್ಲಿ ಸ್ಥಳೀಯವಾಗಿ ಮಾರ್ಗವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/saranatha-thirucherai.mp3",
+    "durationSec": 165
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಸಾರನಾಥ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಚ್ಚೇರೈ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/saranatha-thirucherai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/saranatha-thirucherai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "durationSec": 169,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

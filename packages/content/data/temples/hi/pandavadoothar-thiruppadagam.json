@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "मंदिर कांचीपुरम में है; चेन्नई से उत्तर-पूर्व में लगभग 70 किमी दूर, सड़क मार्ग से पहुँचा जा सकता है। कांचीपुरम निकटतम रेलवे स्टेशन है और चेन्नई निकटतम प्रमुख हवाई अड्डा; ऑटो-रिक्शा और स्थानीय बसें नगर के मंदिरों को जोड़ती हैं।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/pandavadoothar-thiruppadagam.mp3",
+    "durationSec": 148
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",
+    "color": "#5C3A2E",
+    "alt": "पांडव तूतर पेरुमाळ मंदिर (तिरुप्पाडगम्), कांचीपुरम",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/pandavadoothar-thiruppadagam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/pandavadoothar-thiruppadagam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",
+    "durationSec": 139,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

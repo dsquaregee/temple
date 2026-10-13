@@ -32,5 +32,26 @@
     "dressCode": "ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ: ಕೇರಳ ದೇವಾಲಯ ಪದ್ಧತಿಯಂತೆ ಪುರುಷರು ಸಾಮಾನ್ಯವಾಗಿ ಮೇಲುಡುಪಿಲ್ಲದೆ ಮುಂಡು ಅಥವಾ ಧೋತಿಯಲ್ಲಿ ಪ್ರವೇಶಿಸುತ್ತಾರೆ; ಮಹಿಳೆಯರು ಸೀರೆ ಅಥವಾ ಇತರ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ಧರಿಸುತ್ತಾರೆ; ಪಾದರಕ್ಷೆಗಳನ್ನು ಹೊರಗೆ ಬಿಡಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ದೇವಾಲಯ ಸಿಬ್ಬಂದಿಯ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣಕ್ಕೆ ಅನುಮತಿ ಇಲ್ಲ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ದೇವಾಲಯ ಸಿಬ್ಬಂದಿಯ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ತ್ರಿಕ್ಕಾಕರ ಎರ್ನಾಕುಳಂ ಜಿಲ್ಲೆಯ ಕೊಚ್ಚಿಯಲ್ಲಿ, ಎಡಪ್ಪಳ್ಳಿ ಮತ್ತು ಕಾಕ್ಕನಾಡ್ ಬಳಿ ಇದೆ; ರಸ್ತೆ ಮತ್ತು ನಗರ ಬಸ್ ಮೂಲಕ ಸುಲಭವಾಗಿ ತಲುಪಬಹುದು. ಎರ್ನಾಕುಳಂ ಜಂಕ್ಷನ್ ಪ್ರಮುಖ ರೈಲು ನಿಲ್ದಾಣ; ನೆಡುಂಬಸ್ಸೇರಿಯ ಕೊಚ್ಚಿ ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ ಸುಮಾರು 20 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದೆ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/vamana-thrikkakara.mp3",
+    "durationSec": 169
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವಾಮನಮೂರ್ತಿ ದೇವಾಲಯ, ತ್ರಿಕ್ಕಾಕರ",
+    "credit": "Ranjithsiji / Wikimedia Commons (CC BY-SA 4.0) · Ranjithsiji / Wikimedia Commons (Public domain) · Ranjithsiji / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vamana-thrikkakara.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/vamana-thrikkakara.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.jpg",
+    "durationSec": 175,
+    "credit": "Ranjithsiji / Wikimedia Commons (CC BY-SA 4.0) · Ranjithsiji / Wikimedia Commons (Public domain) · Ranjithsiji / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

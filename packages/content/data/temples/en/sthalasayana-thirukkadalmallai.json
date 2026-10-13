@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "The temple is in Mamallapuram, on the East Coast Road about 55 km south of Chennai, reached by road from Chennai or Chengalpattu. The nearest major rail junction is Chengalpattu, and the nearest airport is Chennai."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/sthalasayana-thirukkadalmallai.mp3",
+    "durationSec": 198
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "color": "#5C3A2E",
+    "alt": "Sthalasayana Perumal Temple, Thirukkadalmallai",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sthalasayana-thirukkadalmallai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/sthalasayana-thirukkadalmallai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "durationSec": 152,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "సాధారణ సంప్రదాయ దుస్తులు ఆశించబడతాయి — భుజాలు, మోకాళ్లు కప్పి ఉంచాలి; లోపలికి ప్రవేశించే ముందు పాదరక్షలు తీసివేయాలి. ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "photography": "గర్భాలయంలో, దాని చుట్టూ ఫోటోగ్రఫీ నిషేధించబడింది; ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "gettingThere": "ఆలయం మదురై నడిబొడ్డున, మీనాక్షి అమ్మన్ ఆలయానికి నైరుతిలో, పెరియార్ బస్ స్టాండ్ సమీపంలో ఉంది; కాలినడకన లేదా ఆటో రిక్షాలో చేరుకోవచ్చు. మదురై జంక్షన్ రైల్వే స్టేషన్ దగ్గరలో ఉంది; మదురై విమానాశ్రయం దక్షిణాన సుమారు 12 కి.మీ. దూరంలో ఉంది."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/koodal-azhagar-madurai.mp3",
+    "durationSec": 174
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",
+    "color": "#5C3A2E",
+    "alt": "కూడల్ అఴగర్ ఆలయం, మదురై",
+    "credit": "Aditya Shree / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/koodal-azhagar-madurai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/koodal-azhagar-madurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",
+    "durationSec": 184,
+    "credit": "Aditya Shree / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

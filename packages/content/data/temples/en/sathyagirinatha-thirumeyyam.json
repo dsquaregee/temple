@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "Thirumayam lies on the Pudukkottai–Karaikudi road, about 20 km south of Pudukkottai, and has a railway station on the Tiruchirappalli–Karaikudi line; the nearest airport is Tiruchirappalli. The temple sits at the foot of the fort hill, a short walk from the town."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/sathyagirinatha-thirumeyyam.mp3",
+    "durationSec": 189
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Sathyamurthi Perumal Temple, Thirumayam",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sathyagirinatha-thirumeyyam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/sathyagirinatha-thirumeyyam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "durationSec": 142,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

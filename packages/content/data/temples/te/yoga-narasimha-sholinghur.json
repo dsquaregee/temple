@@ -32,5 +32,26 @@
     "dressCode": "సాధారణ సంప్రదాయ దుస్తులు ఆశించబడతాయి — భుజాలు, మోకాళ్లు కప్పి ఉంచాలి; పాదరక్షలను మెట్ల అడుగున వదలాలి. ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "photography": "గర్భాలయంలో, దాని చుట్టూ ఫోటోగ్రఫీ నిషేధించబడింది; ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "gettingThere": "శోళింగర్ రాణిపేట జిల్లాలో, అరక్కోణం నుండి సుమారు 25 కి.మీ. దూరంలో ఉంది; అరక్కోణం, రాణిపేట లేదా వేలూరు (కాట్పాడి) నుండి రహదారి ద్వారా చేరుకోవచ్చు; కొండ ఆలయం పట్టణానికి కొద్ది బయట ఉంది. సమీప ప్రధాన రైల్వే జంక్షన్లు అరక్కోణం, కాట్పాడి; సమీప విమానాశ్రయం చెన్నై."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/yoga-narasimha-sholinghur.mp3",
+    "durationSec": 167
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.jpg",
+    "color": "#5C3A2E",
+    "alt": "యోగ నరసింహ ఆలయం, శోళింగర్",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 4.0) · Raghavan2010 / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/yoga-narasimha-sholinghur.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/yoga-narasimha-sholinghur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.jpg",
+    "durationSec": 181,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 4.0) · Raghavan2010 / Wikimedia Commons (CC0)"
   }
 }

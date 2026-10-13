@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "चेन्नई के दक्षिण-पश्चिमी छोर पर, चेंगलपट्टू जिले में पल्लावरम के निकट तिरुनीर्मलै में स्थित; पल्लावरम और तांबरम से सड़क मार्ग द्वारा पहुँचा जा सकता है। मीनंबाक्कम का चेन्नई अंतरराष्ट्रीय हवाई अड्डा निकट है।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/neervannar-thiruneermalai.mp3",
+    "durationSec": 155
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.jpg",
+    "color": "#5C3A2E",
+    "alt": "नीर्वण्णार पेरुमाळ मंदिर, तिरुनीर्मलै",
+    "credit": "Jagadeesh. S / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/neervannar-thiruneermalai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/neervannar-thiruneermalai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.jpg",
+    "durationSec": 138,
+    "credit": "Jagadeesh. S / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

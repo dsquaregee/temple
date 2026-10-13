@@ -18,7 +18,9 @@
 // rejected mid-run), so bump again to push the new video narration to users.
 // v7: Cloudflare Web Analytics beacon added (+ CSP allowance), so purge pages
 // cached before it so returning visitors load the beacon too.
-const VERSION = 'v7';
+// v8: 90 new Divya Desams (audio, photos, videos, regional circuit pages) —
+// purge cached pages so returning visitors see the new media and maps.
+const VERSION = 'v8';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];

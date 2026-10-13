@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "उत्तमर्कोइल तिरुचिरापल्ली के उत्तरी छोर पर, श्रीरंगम से लगभग 4 किमी दूर है। तिरुचिरापल्ली जंक्शन रेलवे स्टेशन और तिरुचिरापल्ली अंतरराष्ट्रीय हवाई अड्डा निकटतम प्रवेश-द्वार हैं; स्थानीय बसों और ऑटो से सड़क मार्ग द्वारा मंदिर पहुँचा जा सकता है।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/purushottama-uthamarkoil.mp3",
+    "durationSec": 176
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "पुरुषोत्तम पेरुमाळ मंदिर, उत्तमर्कोइल",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/purushottama-uthamarkoil.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/purushottama-uthamarkoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "durationSec": 157,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

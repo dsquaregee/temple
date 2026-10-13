@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "At Thiruneermalai on the south-western edge of Chennai, near Pallavaram in Chengalpattu district; reached by road from Pallavaram and Tambaram. Chennai International Airport at Meenambakkam is close by."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/neervannar-thiruneermalai.mp3",
+    "durationSec": 168
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.jpg",
+    "color": "#5C3A2E",
+    "alt": "Neervannar Perumal Temple, Thiruneermalai",
+    "credit": "Jagadeesh. S / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/neervannar-thiruneermalai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/neervannar-thiruneermalai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.jpg",
+    "durationSec": 127,
+    "credit": "Jagadeesh. S / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

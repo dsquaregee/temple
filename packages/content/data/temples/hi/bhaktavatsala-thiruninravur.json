@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "तिरुनिन्रवूर तिरुवल्लूर ज़िले में, चेन्नई के पश्चिमी उपनगर में आवड़ी के निकट है; चेन्नई सेंट्रल–अरक्कोणम उपनगरीय मार्ग पर तिरुनिन्रवूर रेलवे स्टेशन है। चेन्नई से सड़क मार्ग से पहुँचा जा सकता है; निकटतम हवाई अड्डा चेन्नई है।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/bhaktavatsala-thiruninravur.mp3",
+    "durationSec": 175
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.jpg",
+    "color": "#5C3A2E",
+    "alt": "भक्तवत्सल पेरुमाळ मंदिर, तिरुनिन्रवूर",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/bhaktavatsala-thiruninravur.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/bhaktavatsala-thiruninravur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.jpg",
+    "durationSec": 158,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

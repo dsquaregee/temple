@@ -32,5 +32,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது — தோள்களும் முழங்கால்களும் மறைக்கப்பட வேண்டும்; உள்ளே நுழையும் முன் காலணிகளைக் கழற்ற வேண்டும். மலைப்பகுதிக்குக் குளிர் உடை எடுத்துச் செல்லுங்கள்; அர்ச்சகர்களின் வழிகாட்டுதலைப் பின்பற்றுங்கள்.",
     "photography": "மூலஸ்தானத்திலும் அதைச் சுற்றியும் புகைப்படம் எடுப்பது கட்டுப்படுத்தப்பட்டுள்ளது; அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "gettingThere": "தேவப்பிரயாகை ரிஷிகேஷ்–பத்ரிநாத் நெடுஞ்சாலையில் (தேசிய நெடுஞ்சாலை 7) ரிஷிகேஷிலிருந்து சுமார் 70 கி.மீ தொலைவில் உள்ளது. அருகிலுள்ள ரயில் நிலையம் ரிஷிகேஷ்; அருகிலுள்ள விமான நிலையம் டேராடூன் அருகிலுள்ள ஜாலி கிராண்ட். சங்கமத்துக்கு மேலுள்ள படிகள் வழியாகக் கோயிலை அடையலாம்."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/neelamega-devprayag.mp3",
+    "durationSec": 167
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/neelamega-devprayag.jpg",
+    "color": "#5C3A2E",
+    "alt": "நீலமேகப் பெருமாள் கோயில், தேவப்பிரயாகை",
+    "credit": "Ashishjalan8 / Wikimedia Commons (CC BY-SA 4.0) · Wilson44691 / Wikimedia Commons (Public domain) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/neelamega-devprayag.avif",
+      "webp": "https://media.dsquaregee.com/heroes/neelamega-devprayag.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/neelamega-devprayag.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/neelamega-devprayag.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/neelamega-devprayag.jpg",
+    "durationSec": 159,
+    "credit": "Ashishjalan8 / Wikimedia Commons (CC BY-SA 4.0) · Wilson44691 / Wikimedia Commons (Public domain) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

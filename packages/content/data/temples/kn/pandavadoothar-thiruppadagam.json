@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ದೇವಾಲಯ ಕಾಂಚೀಪುರಂನಲ್ಲಿದೆ; ಚೆನ್ನೈಯಿಂದ ಈಶಾನ್ಯಕ್ಕೆ ಸುಮಾರು 70 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿ, ರಸ್ತೆ ಮಾರ್ಗವಾಗಿ ತಲುಪಬಹುದು. ಕಾಂಚೀಪುರಂ ಸಮೀಪದ ರೈಲು ನಿಲ್ದಾಣ; ಚೆನ್ನೈ ಸಮೀಪದ ಪ್ರಮುಖ ವಿಮಾನ ನಿಲ್ದಾಣ; ಆಟೋಗಳು ಮತ್ತು ಸ್ಥಳೀಯ ಬಸ್ಸುಗಳು ಪಟ್ಟಣದ ದೇವಾಲಯಗಳನ್ನು ಸಂಪರ್ಕಿಸುತ್ತವೆ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/pandavadoothar-thiruppadagam.mp3",
+    "durationSec": 145
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಪಾಂಡವ ತೂತರ್ ಪೆರುಮಾಳ್ ದೇವಾಲಯ (ತಿರುಪ್ಪಾಡಗಂ), ಕಾಂಚೀಪುರಂ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/pandavadoothar-thiruppadagam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/pandavadoothar-thiruppadagam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",
+    "durationSec": 156,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

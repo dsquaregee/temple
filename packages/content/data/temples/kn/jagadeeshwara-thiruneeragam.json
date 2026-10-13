@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಸನ್ನಿಧಿಗಳಲ್ಲಿ ಮತ್ತು ಅವುಗಳ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ಇದು ಕಾಂಚೀಪುರಂನ ಹಳೆಯ ಪಟ್ಟಣದ (ಪೆರಿಯ ಕಾಂಚಿ) ಉಲಗಳಂತ ಪೆರುಮಾಳ್ ದೇವಾಲಯದೊಳಗಿರುವ ಸನ್ನಿಧಿ; ಆ ದೇವಾಲಯದ ದ್ವಾರದ ಮೂಲಕ ಪ್ರವೇಶಿಸಿ ತಿರುನೀರಗಂ ಎಲ್ಲಿ ಎಂದು ಕೇಳಿ. ಈಶಾನ್ಯಕ್ಕೆ ಸುಮಾರು 70 ಕಿ.ಮೀ. ದೂರದ ಚೆನ್ನೈ ಸಮೀಪದ ಪ್ರಮುಖ ವಿಮಾನ ನಿಲ್ದಾಣ; ಕಾಂಚೀಪುರಂ ಸಮೀಪದ ರೈಲು ನಿಲ್ದಾಣ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/jagadeeshwara-thiruneeragam.mp3",
+    "durationSec": 153
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jagadeeshwara-thiruneeragam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಜಗದೀಶ್ವರ ಪೆರುಮಾಳ್ ಸನ್ನಿಧಿ (ತಿರುನೀರಗಂ), ಕಾಂಚೀಪುರಂ",
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/jagadeeshwara-thiruneeragam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/jagadeeshwara-thiruneeragam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/jagadeeshwara-thiruneeragam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/jagadeeshwara-thiruneeragam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jagadeeshwara-thiruneeragam.jpg",
+    "durationSec": 160,
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது — தோள்களும் முழங்கால்களும் மறைக்கப்பட வேண்டும்; உள்ளே நுழைவதற்கு முன் காலணிகளைக் கழற்ற வேண்டும். அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "photography": "மூலஸ்தானத்திலும் அதைச் சுற்றியும் புகைப்படம் எடுப்பது கட்டுப்படுத்தப்பட்டுள்ளது; அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "gettingThere": "திருநாங்கூர் மயிலாடுதுறை மாவட்டத்தில், சீர்காழியிலிருந்து தென்கிழக்கே சாலை வழியாக ஏறத்தாழ 10 கி.மீ. தொலைவில் உள்ளது. சென்னை–மயிலாடுதுறை இருப்புப்பாதையில் உள்ள சீர்காழி அருகிலுள்ள நிலையம்; ஏறத்தாழ 160 கி.மீ. தொலைவிலுள்ள திருச்சிராப்பள்ளி அருகிலுள்ள பெரிய விமான நிலையம். சீர்காழியிலிருந்து ஆட்டோ, டாக்ஸி மூலம் ஊரை அடையலாம்; பதினொரு கோயில்களும் வயல்களிடையே ஒன்றுக்கொன்று அருகில் அமைந்துள்ளன."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/vaikuntanatha-vaikunta-vinnagaram.mp3",
+    "durationSec": 178
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "வைகுந்தநாத பெருமாள் கோயில், திருவைகுந்த விண்ணகரம்",
+    "credit": "Sathishkumar / Wikimedia Commons (CC BY-SA 3.0) · Sridhar.selvaraj / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaikuntanatha-vaikunta-vinnagaram.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/vaikuntanatha-vaikunta-vinnagaram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.jpg",
+    "durationSec": 171,
+    "credit": "Sathishkumar / Wikimedia Commons (CC BY-SA 3.0) · Sridhar.selvaraj / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

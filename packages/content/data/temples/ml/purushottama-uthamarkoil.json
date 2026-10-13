@@ -32,5 +32,26 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — തോളും മുട്ടും മറയ്ക്കണം; അകത്ത് പ്രവേശിക്കുന്നതിന് മുമ്പ് പാദരക്ഷകൾ അഴിക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി നിയന്ത്രിച്ചിരിക്കുന്നു; പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "ഉത്തമർകോയിൽ തിരുച്ചിറപ്പള്ളിയുടെ വടക്കൻ പ്രാന്തത്തിൽ, ശ്രീരംഗത്തുനിന്ന് ഏകദേശം 4 കി.മീ. അകലെയാണ്. തിരുച്ചിറപ്പള്ളി ജംക്ഷൻ റെയിൽവേ സ്റ്റേഷനും തിരുച്ചിറപ്പള്ളി അന്താരാഷ്ട്ര വിമാനത്താവളവും ഏറ്റവും അടുത്ത പ്രവേശന കവാടങ്ങളാണ്; പ്രാദേശിക ബസുകളിലും ഓട്ടോകളിലും റോഡ് മാർഗം ക്ഷേത്രത്തിലെത്താം."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/purushottama-uthamarkoil.mp3",
+    "durationSec": 187
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "പുരുഷോത്തമ പെരുമാൾ ക്ഷേത്രം, ഉത്തമർകോയിൽ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/purushottama-uthamarkoil.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/purushottama-uthamarkoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "durationSec": 144,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

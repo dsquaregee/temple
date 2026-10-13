@@ -32,5 +32,26 @@
     "dressCode": "సాధారణ సంప్రదాయ దుస్తులు ఆశించబడతాయి — భుజాలు, మోకాళ్లు కప్పి ఉంచాలి; లోపలికి ప్రవేశించే ముందు పాదరక్షలు తీసివేయాలి. ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "photography": "గర్భాలయంలో, దాని చుట్టూ ఫోటోగ్రఫీ నిషేధించబడింది; ప్రకటించిన నియమాలను, అర్చకుల మార్గదర్శనాన్ని పాటించండి.",
     "gettingThere": "తిరుచ్చేరై తమిళనాడులో కావేరి డెల్టాలో కుంభకోణం నుండి కొద్ది దూరంలో ఉన్న గ్రామం; కుంభకోణం సమీపంలోని పెద్ద పట్టణం, రైల్వే స్టేషన్; తిరుచిరాపల్లి సమీపంలోని ప్రధాన విమానాశ్రయం. కుంభకోణం నుండి రహదారి ద్వారా చేరుకోవచ్చు; దారిలో స్థానికంగా మార్గాన్ని నిర్ధారించుకోండి."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/saranatha-thirucherai.mp3",
+    "durationSec": 157
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "color": "#5C3A2E",
+    "alt": "సారనాథ పెరుమాళ్ ఆలయం, తిరుచ్చేరై",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/saranatha-thirucherai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/saranatha-thirucherai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "durationSec": 172,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

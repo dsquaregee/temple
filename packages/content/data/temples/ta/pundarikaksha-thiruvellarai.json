@@ -32,5 +32,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது — தோள்களும் முழங்கால்களும் மறைக்கப்பட வேண்டும்; உள்ளே நுழைவதற்கு முன் காலணிகளைக் கழற்ற வேண்டும். அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "photography": "மூலஸ்தானத்திலும் அதைச் சுற்றியும் புகைப்படம் எடுப்பது கட்டுப்படுத்தப்பட்டுள்ளது; அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "gettingThere": "திருவெள்ளறை திருச்சிராப்பள்ளியிலிருந்து சுமார் 22 கி.மீ. தொலைவில், மண்ணச்சநல்லூரைக் கடந்து துறையூர் சாலையில் உள்ளது. திருச்சிராப்பள்ளி சந்திப்பு ரயில் நிலையமும் திருச்சிராப்பள்ளி பன்னாட்டு விமான நிலையமும் அருகிலுள்ள நுழைவாயில்கள்; பேருந்துகளும் வாடகை வண்டிகளும் சாலைப் பயணத்துக்கு உதவும்."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/pundarikaksha-thiruvellarai.mp3",
+    "durationSec": 205
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.jpg",
+    "color": "#5C3A2E",
+    "alt": "புண்டரீகாட்சப் பெருமாள் கோயில், திருவெள்ளறை",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/pundarikaksha-thiruvellarai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/pundarikaksha-thiruvellarai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.jpg",
+    "durationSec": 194,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது — தோள்களும் முழங்கால்களும் மறைக்கப்பட வேண்டும்; உள்ளே நுழைவதற்கு முன் காலணிகளைக் கழற்ற வேண்டும். அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "photography": "மூலஸ்தானத்திலும் அதைச் சுற்றியும் புகைப்படம் எடுப்பது கட்டுப்படுத்தப்பட்டுள்ளது; அறிவிக்கப்பட்ட விதிகளையும் அர்ச்சகர்களின் வழிகாட்டுதலையும் பின்பற்றுங்கள்.",
     "gettingThere": "திருப்புல்லாணி ராமநாதபுரம் நகரிலிருந்து சுமார் 10 கி.மீ. தொலைவில் உள்ளது; சாலை வழியாக அடையலாம். மதுரை–ராமேசுவரம் இருப்புப் பாதையில் ராமநாதபுரம் ரயில் நிலையம் உள்ளது; அருகிலுள்ள விமான நிலையம் மதுரை. சேதுக்கரைக்கும் ராமேசுவரத்துக்கும் செல்லும் வழியில் யாத்திரிகர் பெரும்பாலும் இங்கே வருகின்றனர்."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/adi-jagannatha-thiruppullani.mp3",
+    "durationSec": 197
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",
+    "color": "#5C3A2E",
+    "alt": "ஆதி ஜெகந்நாதப் பெருமாள் கோயில், திருப்புல்லாணி",
+    "credit": "Balajijagadesh / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Muralikrishna m / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.avif",
+      "webp": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/adi-jagannatha-thiruppullani.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/adi-jagannatha-thiruppullani.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",
+    "durationSec": 184,
+    "credit": "Balajijagadesh / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Muralikrishna m / Wikimedia Commons (CC BY 4.0)"
   }
 }

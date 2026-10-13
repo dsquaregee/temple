@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಬೆಟ್ಟದ ಪ್ರದೇಶಕ್ಕೆ ಬೆಚ್ಚನೆಯ ಬಟ್ಟೆ ಒಯ್ಯಿರಿ; ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನು ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ದೇವಪ್ರಯಾಗ ಋಷಿಕೇಶ–ಬದರಿನಾಥ್ ಹೆದ್ದಾರಿಯಲ್ಲಿ (ರಾಷ್ಟ್ರೀಯ ಹೆದ್ದಾರಿ 7) ಋಷಿಕೇಶದಿಂದ ಸುಮಾರು 70 ಕಿ.ಮೀ ದೂರದಲ್ಲಿದೆ. ಹತ್ತಿರದ ರೈಲು ನಿಲ್ದಾಣ ಋಷಿಕೇಶ; ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ ಡೆಹ್ರಾಡೂನ್ ಬಳಿಯ ಜಾಲಿ ಗ್ರಾಂಟ್. ಸಂಗಮದ ಮೇಲಿನ ಮೆಟ್ಟಿಲುಗಳ ಮೂಲಕ ದೇವಾಲಯವನ್ನು ತಲುಪಬಹುದು."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/neelamega-devprayag.mp3",
+    "durationSec": 145
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/neelamega-devprayag.jpg",
+    "color": "#5C3A2E",
+    "alt": "ನೀಲಮೇಘ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ದೇವಪ್ರಯಾಗ",
+    "credit": "Ashishjalan8 / Wikimedia Commons (CC BY-SA 4.0) · Wilson44691 / Wikimedia Commons (Public domain) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/neelamega-devprayag.avif",
+      "webp": "https://media.dsquaregee.com/heroes/neelamega-devprayag.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/neelamega-devprayag.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/neelamega-devprayag.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/neelamega-devprayag.jpg",
+    "durationSec": 150,
+    "credit": "Ashishjalan8 / Wikimedia Commons (CC BY-SA 4.0) · Wilson44691 / Wikimedia Commons (Public domain) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "तिरुच्चेरै तमिलनाडु के कावेरी डेल्टा में कुंभकोणम से थोड़ी दूरी पर स्थित गाँव है; कुंभकोणम निकटतम बड़ा नगर और रेलवे स्टेशन है, और तिरुचिरापल्ली निकटतम प्रमुख हवाईअड्डा है। कुंभकोणम से सड़क मार्ग द्वारा पहुँचा जा सकता है; मार्ग में स्थानीय स्तर पर दिशा की पुष्टि कर लें।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/saranatha-thirucherai.mp3",
+    "durationSec": 167
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "color": "#5C3A2E",
+    "alt": "सारनाथ पेरुमाळ मंदिर, तिरुच्चेरै",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/saranatha-thirucherai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/saranatha-thirucherai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "durationSec": 153,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

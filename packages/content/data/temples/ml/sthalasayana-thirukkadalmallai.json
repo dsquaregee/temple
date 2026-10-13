@@ -32,5 +32,26 @@
     "dressCode": "ലളിതമായ പരമ്പരാഗത വസ്ത്രം പ്രതീക്ഷിക്കുന്നു — തോളും മുട്ടും മറയ്ക്കണം; അകത്ത് പ്രവേശിക്കുന്നതിന് മുമ്പ് പാദരക്ഷകൾ അഴിക്കണം. പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "photography": "ശ്രീകോവിലിലും അതിന് ചുറ്റും ഫോട്ടോഗ്രഫി നിയന്ത്രിച്ചിരിക്കുന്നു; പ്രദർശിപ്പിച്ച നിയമങ്ങളും പൂജാരിമാരുടെ മാർഗനിർദേശവും പാലിക്കുക.",
     "gettingThere": "ക്ഷേത്രം മാമല്ലപുരത്ത്, ചെന്നൈയ്ക്ക് ഏകദേശം 55 കിലോമീറ്റർ തെക്ക് ഈസ്റ്റ് കോസ്റ്റ് റോഡിൽ സ്ഥിതിചെയ്യുന്നു; ചെന്നൈയിൽ നിന്നോ ചെങ്കൽപട്ടിൽ നിന്നോ റോഡ് മാർഗം എത്താം. ഏറ്റവും അടുത്ത പ്രധാന റെയിൽ ജംഗ്ഷൻ ചെങ്കൽപട്ട്; ഏറ്റവും അടുത്ത വിമാനത്താവളം ചെന്നൈ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/sthalasayana-thirukkadalmallai.mp3",
+    "durationSec": 192
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "color": "#5C3A2E",
+    "alt": "സ്ഥലശയന പെരുമാൾ ക്ഷേത്രം, തിരുക്കടൽമല്ലൈ",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sthalasayana-thirukkadalmallai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/sthalasayana-thirukkadalmallai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "durationSec": 143,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

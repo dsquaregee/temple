@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
     "gettingThere": "This is a shrine inside the Ulagalantha Perumal Temple in the old town of Kanchipuram (Periya Kanchi); enter by that temple's gateway and ask for Thirukkarvanam in the second precinct. Chennai, about 70 km to the north-east, is the nearest major airport, and Kanchipuram town is the nearest railhead."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kalvar-thirukkarvanam.mp3",
+    "durationSec": 185
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kalvar-thirukkarvanam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kalvar Perumal Shrine (Thirukkarvanam), Kanchipuram",
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kalvar-thirukkarvanam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kalvar-thirukkarvanam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kalvar-thirukkarvanam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kalvar-thirukkarvanam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kalvar-thirukkarvanam.jpg",
+    "durationSec": 144,
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

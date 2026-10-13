@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ದೇವಾಲಯ ಮಾಮಲ್ಲಪುರಂನಲ್ಲಿ, ಚೆನ್ನೈಗೆ ದಕ್ಷಿಣಕ್ಕೆ ಸುಮಾರು 55 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿ ಪೂರ್ವ ಕರಾವಳಿ ರಸ್ತೆಯಲ್ಲಿದೆ; ಚೆನ್ನೈ ಅಥವಾ ಚೆಂಗಲ್ಪಟ್ಟಿನಿಂದ ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು. ಹತ್ತಿರದ ಪ್ರಮುಖ ರೈಲು ಜಂಕ್ಷನ್ ಚೆಂಗಲ್ಪಟ್ಟು; ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ ಚೆನ್ನೈ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/sthalasayana-thirukkadalmallai.mp3",
+    "durationSec": 171
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಸ್ಥಲಶಯನ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಕ್ಕಡಲ್ಮಲ್ಲೈ",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sthalasayana-thirukkadalmallai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/sthalasayana-thirukkadalmallai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "durationSec": 172,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

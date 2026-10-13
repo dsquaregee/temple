@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "द्वारका गुजरात के पश्चिमी तट पर गोमती की खाड़ी के पास, देवभूमि द्वारका जिले में स्थित है; सड़क और रेल मार्ग से पहुँचा जा सकता है। नगर में मंदिर गोमती घाट के ऊपर, सुदामा सेतु के समीप है।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/dwarakadhish-dwarka.mp3",
+    "durationSec": 168
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.jpg",
+    "color": "#5C3A2E",
+    "alt": "द्वारकाधीश मंदिर, द्वारका (तिरु द्वारका)",
+    "credit": "Sivaprasadsujatha / Wikimedia Commons (CC BY-SA 4.0) · Abhi1901 / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.avif",
+      "webp": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/dwarakadhish-dwarka.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/dwarakadhish-dwarka.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.jpg",
+    "durationSec": 150,
+    "credit": "Sivaprasadsujatha / Wikimedia Commons (CC BY-SA 4.0) · Abhi1901 / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

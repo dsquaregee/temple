@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ತಿರುಪ್ಪುಲ್ಲಾಣಿ ರಾಮನಾಥಪುರ ಪಟ್ಟಣದಿಂದ ಸುಮಾರು 10 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದ್ದು, ರಸ್ತೆ ಮೂಲಕ ತಲುಪಬಹುದು; ರಾಮನಾಥಪುರದಲ್ಲಿ ಮದುರೈ–ರಾಮೇಶ್ವರಂ ಮಾರ್ಗದ ರೈಲು ನಿಲ್ದಾಣವಿದೆ, ಸಮೀಪದ ವಿಮಾನ ನಿಲ್ದಾಣ ಮದುರೈ. ಯಾತ್ರಿಕರು ಸೇತುಕರೈ ಮತ್ತು ರಾಮೇಶ್ವರಕ್ಕೆ ಹೋಗುವ ದಾರಿಯಲ್ಲಿ ಇದನ್ನು ದರ್ಶಿಸುತ್ತಾರೆ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/adi-jagannatha-thiruppullani.mp3",
+    "durationSec": 177
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಆದಿ ಜಗನ್ನಾಥ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಪ್ಪುಲ್ಲಾಣಿ",
+    "credit": "Balajijagadesh / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Muralikrishna m / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.avif",
+      "webp": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/adi-jagannatha-thiruppullani.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/adi-jagannatha-thiruppullani.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",
+    "durationSec": 182,
+    "credit": "Balajijagadesh / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Muralikrishna m / Wikimedia Commons (CC BY 4.0)"
   }
 }

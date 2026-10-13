@@ -32,5 +32,26 @@
     "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
     "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
     "gettingThere": "Nathan Koil lies a few kilometres from Kumbakonam, reachable by local road; Kumbakonam has the nearest railway station, with trains towards Thanjavur, Tiruchirappalli and Chennai, and Tiruchirappalli is the nearest airport, about 100 km away."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/jagannatha-nathankoil.mp3",
+    "durationSec": 180
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "Jagannatha Perumal Temple, Nathan Koil",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/jagannatha-nathankoil.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/jagannatha-nathankoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
+    "durationSec": 135,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ — ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲುಗಳನ್ನು ಮುಚ್ಚಬೇಕು; ಒಳಗೆ ಪ್ರವೇಶಿಸುವ ಮುನ್ನ ಪಾದರಕ್ಷೆಗಳನ್ನು ತೆಗೆಯಬೇಕು. ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "photography": "ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಮತ್ತು ಅದರ ಸುತ್ತ ಛಾಯಾಗ್ರಹಣ ನಿರ್ಬಂಧಿತವಾಗಿದೆ; ಪ್ರಕಟಿತ ನಿಯಮಗಳನ್ನೂ ಅರ್ಚಕರ ಮಾರ್ಗದರ್ಶನವನ್ನೂ ಪಾಲಿಸಿ.",
     "gettingThere": "ದೇವಾಲಯ ಮದುರೈ ನಗರದ ಮಧ್ಯದಲ್ಲಿ, ಮೀನಾಕ್ಷಿ ಅಮ್ಮನ್ ದೇವಾಲಯದ ನೈಋತ್ಯಕ್ಕೆ, ಪೆರಿಯಾರ್ ಬಸ್ ನಿಲ್ದಾಣದ ಸಮೀಪದಲ್ಲಿದೆ; ನಡೆದು ಅಥವಾ ಆಟೋ ರಿಕ್ಷಾದಲ್ಲಿ ತಲುಪಬಹುದು. ಮದುರೈ ಜಂಕ್ಷನ್ ರೈಲ್ವೆ ನಿಲ್ದಾಣ ಹತ್ತಿರದಲ್ಲಿದೆ; ಮದುರೈ ವಿಮಾನ ನಿಲ್ದಾಣ ದಕ್ಷಿಣಕ್ಕೆ ಸುಮಾರು 12 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದೆ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/koodal-azhagar-madurai.mp3",
+    "durationSec": 171
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಕೂಡಲ್ ಅೞಗರ್ ದೇವಾಲಯ, ಮದುರೈ",
+    "credit": "Aditya Shree / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/koodal-azhagar-madurai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/koodal-azhagar-madurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",
+    "durationSec": 172,
+    "credit": "Aditya Shree / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -32,5 +32,26 @@
     "dressCode": "सादा पारंपरिक वस्त्र अपेक्षित है — कंधे और घुटने ढके हों; भीतर प्रवेश से पूर्व पादुकाएँ उतार दें। प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "photography": "गर्भगृह में और उसके आसपास छायाचित्रण प्रतिबंधित है; प्रदर्शित नियमों और पुजारियों के निर्देशों का पालन करें।",
     "gettingThere": "बद्रीनाथ उत्तराखंड के चमोली जिले में अलकनंदा के तट पर है; ऋषिकेश या हरिद्वार से देवप्रयाग, रुद्रप्रयाग और जोशीमठ होते हुए सड़क मार्ग से लगभग 300 किमी। निकटतम रेलवे स्टेशन ऋषिकेश और हरिद्वार हैं; निकटतम हवाई अड्डा देहरादून का जॉली ग्रांट है। खराब मौसम में पहाड़ी मार्ग बंद हो सकते हैं; निकलने से पहले स्थिति देख लें।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/badrinarayan-badrinath.mp3",
+    "durationSec": 185
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.jpg",
+    "color": "#5C3A2E",
+    "alt": "बद्रीनारायण मंदिर, बद्रीनाथ",
+    "credit": "Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · AaS / Wikimedia Commons (CC BY-SA 4.0) · Abhilash Addanki / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.avif",
+      "webp": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/badrinarayan-badrinath.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/badrinarayan-badrinath.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.jpg",
+    "durationSec": 168,
+    "credit": "Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · AaS / Wikimedia Commons (CC BY-SA 4.0) · Abhilash Addanki / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
