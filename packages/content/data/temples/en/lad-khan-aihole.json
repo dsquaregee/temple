@@ -1,0 +1,57 @@
+{
+  "id": "lad-khan-aihole",
+  "locale": "en",
+  "name": "Lad Khan Temple, Aihole",
+  "nativeName": "ಲಾಡ್ ಖಾನ್ ದೇವಾಲಯ, ಐಹೊಳೆ",
+  "deity": "Shiva, with a linga now in the sanctum; the original dedication is debated, with Vishnu or Surya proposed",
+  "tradition": "Shaivism",
+  "location": {
+    "city": "Aihole",
+    "state": "Karnataka",
+    "lat": 16.0199,
+    "lng": 75.8812
+  },
+  "period": "Early Chalukya, dated variously from the 5th to the 8th century CE",
+  "century": 5,
+  "dynasty": "Chalukya of Badami (early Chalukya)",
+  "style": "Early Chalukya, experimental pillared-hall form",
+  "unesco": false,
+  "circuits": [
+    "badami-chalukya-monuments"
+  ],
+  "summary": "One of the oldest temples at Aihole, the pillared Lad Khan hall wraps squares within squares around a small sanctum, with a rooftop shrine and stone lattices that mark an early, experimental stage of Chalukyan building.",
+  "sections": {
+    "history": "Lad Khan is one of the oldest standing temples at Aihole, inside the walled enclosure beside the Durga temple. Its date is genuinely debated: older accounts place it in the seventh or eighth century, while current scholarship leans towards about the fifth century, with the porch perhaps added not long afterwards. The name does not come from its builders; it recalls a man called Lad Khan who is said to have lived in the building in the nineteenth century, and accounts differ on whether he was a prince or a hermit. Some scholars suggest the shrine was first dedicated to Vishnu and later to the sun god Surya; today a Shiva linga stands in its sanctum. It is a protected monument, kept by the Archaeological Survey of India.",
+    "architecture": "Where later temples rise in towers, Lad Khan spreads out like an assembly hall. A deep porch with heavy square pillars leads into a sabha-mandapa whose pillars are set in two concentric squares, and beyond it a mukha-mandapa carried on twelve carved pillars; a small rectangular sanctum waits at the back. Large stone lattice windows let light into the hall, and low sloping roofs step down around a little shrine perched on the roof, which holds images of Vishnu, Surya and the Devi. Many architectural historians see in this low, broad form a stone echo of the timber village halls that came before.",
+    "legends": "Lad Khan’s stories belong to the building itself. Its name tells of a later occupant who made a home of the old hall, and the roof shrine, with its images of Vishnu, Surya and the Devi, hints at a long conversation between faiths under one roof. Aihole’s wider folklore is close at hand: tradition says the sage Parashurama washed his axe in the Malaprabha here and turned the river red, giving the town its name. No single legend is fixed to this temple; visitors are invited to read the puzzle of its dedication in the stone.",
+    "festivals": "Lad Khan is a protected monument rather than a temple with a daily round of worship, so it keeps no festival calendar of its own. Aihole’s living shrines and village fairs follow local custom, Maha Shivaratri being the observance most associated with a Shiva linga; confirm dates locally. The Chalukya monuments are also celebrated together in regional heritage festivals of music and dance.",
+    "experience": "Step into the porch and the hall opens around you in squares within squares, cool and dim after the Aihole sun. Light falls through the stone lattices in patterns that drift across the floor through the day. Look up to the little roof shrine, then walk on to the neighbouring Durga temple and the scattered shrines beyond. Early morning or late afternoon is gentler for the enclosure."
+  },
+  "visit": {
+    "timings": "A protected Archaeological Survey of India monument within the Aihole temple enclosure, open in daytime hours like the other ASI sites here; a ticket is required. Confirm current hours and fees locally.",
+    "dressCode": "No strict dress code applies, but modest dress is appropriate at a sacred site; comfortable footwear helps on the uneven ground.",
+    "photography": "Photography is generally allowed in the open monument; tripods or professional shoots may need permission from the site authorities.",
+    "gettingThere": "Aihole is in Bagalkot district, about 35 km from Badami and 15 km from Pattadakal by road; the nearest railheads are Badami and Bagalkot, and the nearest airport is Hubballi. The temple stands in the same walled enclosure as the Durga temple."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/lad-khan-aihole.mp3",
+    "durationSec": 222
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/lad-khan-aihole.jpg",
+    "color": "#5C3A2E",
+    "alt": "Lad Khan Temple, Aihole",
+    "credit": "MAHANTESH CHIKKADESAI / Wikimedia Commons (CC BY-SA 4.0) · Mashalti / Wikimedia Commons (CC BY-SA 3.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · Wikimedia Commons / Wikimedia Commons (CC0) · Kanad Sanyal / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/lad-khan-aihole.avif",
+      "webp": "https://media.dsquaregee.com/heroes/lad-khan-aihole.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/lad-khan-aihole.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/lad-khan-aihole.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/lad-khan-aihole.jpg",
+    "durationSec": 162,
+    "credit": "MAHANTESH CHIKKADESAI / Wikimedia Commons (CC BY-SA 4.0) · Mashalti / Wikimedia Commons (CC BY-SA 3.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · Wikimedia Commons / Wikimedia Commons (CC0) · Kanad Sanyal / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0)"
+  }
+}

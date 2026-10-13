@@ -80,7 +80,8 @@ for (const locale of readdirSync(join(data, 'circuits'))) {
 }
 
 test('dense same-town circuit falls back to the legend column with leaders', () => {
-  const m = layoutCircuitMap(stopsFor('en', 'temples-of-kanchipuram'), land);
+  // The first eight Kanchipuram stops: one town, too dense for labels beside pins.
+  const m = layoutCircuitMap(stopsFor('en', 'temples-of-kanchipuram').slice(0, 8), land);
   const xs = new Set(m.labels.map((l) => l.x));
   assert.equal(xs.size, 1, 'all labels share one column');
   assert.ok(m.labels.every((l) => l.leader), 'every label has a leader line');

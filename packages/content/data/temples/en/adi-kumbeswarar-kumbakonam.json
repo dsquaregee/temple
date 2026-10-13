@@ -1,0 +1,57 @@
+{
+  "id": "adi-kumbeswarar-kumbakonam",
+  "locale": "en",
+  "name": "Adi Kumbeswarar Temple, Kumbakonam",
+  "nativeName": "ஆதி கும்பேஸ்வரர் கோயில்",
+  "deity": "Shiva as Adi Kumbeswarar, worshipped as a lingam, with the goddess Mangalambigai Amman",
+  "tradition": "Shaivism",
+  "location": {
+    "city": "Kumbakonam",
+    "state": "Tamil Nadu",
+    "lat": 10.958,
+    "lng": 79.371
+  },
+  "period": "Chola-era foundation with Vijayanagara and Nayak additions; sung in the Tevaram (7th century)",
+  "century": 7,
+  "dynasty": "Chola, Vijayanagara and Thanjavur Nayak",
+  "style": "Dravidian",
+  "unesco": false,
+  "circuits": [
+    "kaveri-delta-temple-towns"
+  ],
+  "summary": "Adi Kumbeswarar is the principal Shiva temple of Kumbakonam, where tradition says the Lord entered the broken pot of creation and made it his lingam, and the town itself takes its name from that kumbha.",
+  "sections": {
+    "history": "Adi Kumbeswarar stands at the heart of Kumbakonam and is counted among its oldest and most important Shaiva shrines. The saints Appar and Sambandar sang its praises in the Tevaram, which makes it a Paadal Petra Sthalam and shows that devotion was rooted here by the seventh century. The present temple is generally credited to the Cholas, with later growth under the Vijayanagara rulers and the Nayaks of Thanjavur between the fifteenth and seventeenth centuries. It is also one of the twelve Shiva temples tied to the Mahamaham, the great bathing festival that comes to Kumbakonam once in twelve years, and its worship has always been bound up with the identity of the town.",
+    "architecture": "The complex covers roughly 2,800 square metres and is entered through four gopurams, the tallest being the eastern tower, which rises in eleven storeys to about 128 feet. Within, the Dravidian plan unfolds in successive courts and pillared corridors. A sixteen-pillared hall of the Vijayanagara period is the finest set piece, with the twenty-seven stars and twelve zodiac signs carved in a single stone. Shrines for the Lord and for Mangalambigai Amman anchor the worship, and the sculpted pillars reward a slow walk around the enclosure.",
+    "legends": "The sthala purana tells that when the universe dissolved, a pot of nectar holding the seeds of all creation floated across the waters and came to rest here. Shiva appeared as a hunter and pierced the pot with an arrow. The nectar and the seeds scattered, and one place where the nectar gathered is remembered as the Mahamaham tank. From the pieces of the pot the Lord is said to have formed a lingam and entered it, and so he is called Adi Kumbeswarar, the first Lord of the pot. The town, Kumbakonam, the corner of the kumbha, takes its name from the same event.",
+    "festivals": "The twelve-yearly Mahamaham, when pilgrims bathe in the great tank, is the high point of the town's sacred calendar, and Adi Kumbeswarar is among the Shiva temples whose deities take part. The annual Masi Magam recalls it. Maha Shivaratri, the monthly Pradosham, Navaratri and Karthigai Deepam are kept with special worship. Confirm dates locally.",
+    "experience": "Step in through the eastern gopuram and the noise of the market falls away. The enclosure is quiet and cool, its corridors lined with sculpted pillars. Seek out the sixteen-pillared hall and look up at the carved stars and zodiac signs before going to the sanctum, where the lingam is worshipped in lamplight. The Mangalambigai shrine nearby is a gentle counterpoint. Mornings are calm; evenings bring sung worship and the scent of camphor. Allow time for the Mahamaham tank and the town's other Shiva and Vishnu temples."
+  },
+  "visit": {
+    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
+    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
+    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
+    "gettingThere": "Kumbakonam is on the Chennai–Thanjavur railway line and is well connected by bus to Thanjavur, Tiruchirappalli, Chennai and Mayiladuthurai. The temple lies in the old town, a short auto-rickshaw ride from the railway station and bus stand. Tiruchirappalli International Airport, about 90 km away, is the nearest airport."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/adi-kumbeswarar-kumbakonam.mp3",
+    "durationSec": 223
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Adi Kumbeswarar Temple, Kumbakonam",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/adi-kumbeswarar-kumbakonam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/adi-kumbeswarar-kumbakonam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.jpg",
+    "durationSec": 168,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  }
+}
