@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/valvil-raman-pullabhoothangudi.mp3",
     "durationSec": 167
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/valvil-raman-pullabhoothangudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "వల్విల్ రామర్ ఆలయం, తిరుపుళ్ళంభూతంగుడి",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/valvil-raman-pullabhoothangudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/valvil-raman-pullabhoothangudi.jpg",
+    "durationSec": 176,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

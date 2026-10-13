@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/neelamega-thanjavur.mp3",
     "durationSec": 160
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",
+    "color": "#5C3A2E",
+    "alt": "तंजै मामणि कोविल (नीलमेघ पेरुमाळ मंदिर), तंजावुर",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/neelamega-thanjavur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",
+    "durationSec": 145,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

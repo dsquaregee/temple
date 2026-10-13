@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/neervannar-thiruneermalai.mp3",
     "durationSec": 167
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.jpg",
+    "color": "#5C3A2E",
+    "alt": "നീർവണ്ണർ പെരുമാൾ ക്ഷേത്രം, തിരുനീർമല",
+    "credit": "Jagadeesh. S / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/neervannar-thiruneermalai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.jpg",
+    "durationSec": 129,
+    "credit": "Jagadeesh. S / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

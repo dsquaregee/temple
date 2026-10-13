@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/annan-perumal-thiruvellakkulam.mp3",
     "durationSec": 203
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/annan-perumal-thiruvellakkulam.jpg",
+    "color": "#5C3A2E",
+    "alt": "അണ്ണൻ പെരുമാൾ ക്ഷേത്രം, തിരുവെള്ളക്കുളം (അണ്ണൻ കോയിൽ)",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/yoga-narasimha-sholinghur.mp3",
     "durationSec": 167
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಯೋಗ ನರಸಿಂಹ ದೇವಾಲಯ, ಶೋಳಿಂಗರ್",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 4.0) · Raghavan2010 / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/yoga-narasimha-sholinghur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.jpg",
+    "durationSec": 171,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 4.0) · Raghavan2010 / Wikimedia Commons (CC0)"
   }
 }

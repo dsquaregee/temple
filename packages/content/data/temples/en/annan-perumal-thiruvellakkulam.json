@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/annan-perumal-thiruvellakkulam.mp3",
     "durationSec": 197
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/annan-perumal-thiruvellakkulam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Annan Perumal Temple, Thiruvellakkulam (Annan Koil)",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

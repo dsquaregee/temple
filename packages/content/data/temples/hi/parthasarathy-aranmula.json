@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/parthasarathy-aranmula.mp3",
     "durationSec": 179
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.jpg",
+    "color": "#5C3A2E",
+    "alt": "पार्थसारथी पेरुमाळ मंदिर, आरन्मुळा",
+    "credit": "Alenalexp / Wikimedia Commons (CC BY-SA 4.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/parthasarathy-aranmula.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.jpg",
+    "durationSec": 160,
+    "credit": "Alenalexp / Wikimedia Commons (CC BY-SA 4.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

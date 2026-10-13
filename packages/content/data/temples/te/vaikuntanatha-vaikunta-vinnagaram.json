@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/vaikuntanatha-vaikunta-vinnagaram.mp3",
     "durationSec": 156
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "వైకుంఠనాథ పెరుమాళ్ ఆలయం, తిరువైకుంఠ విణ్ణగరం",
+    "credit": "Sathishkumar / Wikimedia Commons (CC BY-SA 3.0) · Sridhar.selvaraj / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/vaikuntanatha-vaikunta-vinnagaram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.jpg",
+    "durationSec": 173,
+    "credit": "Sathishkumar / Wikimedia Commons (CC BY-SA 3.0) · Sridhar.selvaraj / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

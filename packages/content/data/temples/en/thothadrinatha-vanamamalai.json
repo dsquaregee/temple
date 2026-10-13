@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thothadrinatha-vanamamalai.mp3",
     "durationSec": 179
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/thothadrinatha-vanamamalai.jpg",
+    "color": "#5C3A2E",
+    "alt": "Vanamamalai Perumal Temple, Nanguneri",
+    "credit": "PJeganathan / Wikimedia Commons (CC BY-SA 4.0) · Dr. Chinchu C. / Wikimedia Commons (CC BY 4.0) · Thatsalright (talk) / Wikimedia Commons (CC BY-SA 3.0) · Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Pastor Sam / Wikimedia Commons (CC BY 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/thothadrinatha-vanamamalai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thothadrinatha-vanamamalai.jpg",
+    "durationSec": 135,
+    "credit": "PJeganathan / Wikimedia Commons (CC BY-SA 4.0) · Dr. Chinchu C. / Wikimedia Commons (CC BY 4.0) · Thatsalright (talk) / Wikimedia Commons (CC BY-SA 3.0) · Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Pastor Sam / Wikimedia Commons (CC BY 3.0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/perarulalan-semponsei.mp3",
     "durationSec": 177
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/perarulalan-semponsei.jpg",
+    "color": "#5C3A2E",
+    "alt": "पेररुळाळन पेरुमाळ मंदिर, तिरुच्चेंपोन्चेय्",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

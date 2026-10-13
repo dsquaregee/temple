@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/jagadeeshwara-thiruneeragam.mp3",
     "durationSec": 170
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jagadeeshwara-thiruneeragam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ജഗദീശ്വര പെരുമാൾ സന്നിധി (തിരുനീരഗം), കാഞ്ചീപുരം",
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/jagadeeshwara-thiruneeragam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jagadeeshwara-thiruneeragam.jpg",
+    "durationSec": 134,
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

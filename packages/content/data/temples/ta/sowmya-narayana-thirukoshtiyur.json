@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/sowmya-narayana-thirukoshtiyur.mp3",
     "durationSec": 196
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sowmya-narayana-thirukoshtiyur.jpg",
+    "color": "#5C3A2E",
+    "alt": "சௌமிய நாராயணப் பெருமாள் கோயில், திருக்கோஷ்டியூர்",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/sowmya-narayana-thirukoshtiyur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sowmya-narayana-thirukoshtiyur.jpg",
+    "durationSec": 182,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

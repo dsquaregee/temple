@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/jagadeeshwara-thiruneeragam.mp3",
     "durationSec": 179
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jagadeeshwara-thiruneeragam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Jagadeeshwara Perumal Shrine (Thiruneeragam), Kanchipuram",
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/jagadeeshwara-thiruneeragam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jagadeeshwara-thiruneeragam.jpg",
+    "durationSec": 139,
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

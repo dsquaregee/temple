@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/navamohana-krishna-gokul.mp3",
     "durationSec": 152
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "color": "#5C3A2E",
+    "alt": "ನವಮೋಹನ ಕೃಷ್ಣ ದೇವಾಲಯ, ಗೋಕುಲ (ತಿರುವಾಯ್ಪ್ಪಾಡಿ)",
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/navamohana-krishna-gokul.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "durationSec": 161,
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

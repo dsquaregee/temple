@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/neelamega-thanjavur.mp3",
     "durationSec": 186
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Thanjai Mamani Koil (Neelamega Perumal Temple), Thanjavur",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/neelamega-thanjavur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",
+    "durationSec": 143,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

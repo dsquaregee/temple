@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/perarulalan-semponsei.mp3",
     "durationSec": 198
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/perarulalan-semponsei.jpg",
+    "color": "#5C3A2E",
+    "alt": "പേരരുളാളൻ പെരുമാൾ ക്ഷേത്രം, തിരുച്ചെമ്പൊൻചെയ്",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

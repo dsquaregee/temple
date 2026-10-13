@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/paramapurusha-thiruppiridi.mp3",
     "durationSec": 174
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.jpg",
+    "color": "#5C3A2E",
+    "alt": "പരമപുരുഷ പെരുമാൾ ക്ഷേത്രം, തിരുപ്പിരിതി (ജോഷിമഠ്)",
+    "credit": "ArmouredCyborg / Wikimedia Commons (CC BY-SA 4.0) · Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · Goutam1962 / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/paramapurusha-thiruppiridi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.jpg",
+    "durationSec": 139,
+    "credit": "ArmouredCyborg / Wikimedia Commons (CC BY-SA 4.0) · Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · Goutam1962 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

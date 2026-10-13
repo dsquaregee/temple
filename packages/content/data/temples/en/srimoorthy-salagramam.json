@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/srimoorthy-salagramam.mp3",
     "durationSec": 210
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/srimoorthy-salagramam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Srimoorthy Perumal Temple, Salagramam (Muktinath)",
+    "credit": "Manjul bhattarai / Wikimedia Commons (CC BY-SA 4.0) · Sudeepacharya076 / Wikimedia Commons (CC BY-SA 4.0) · Prytomb / Wikimedia Commons (CC BY-SA 4.0) · Bijay Chaurasia / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/srimoorthy-salagramam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srimoorthy-salagramam.jpg",
+    "durationSec": 161,
+    "credit": "Manjul bhattarai / Wikimedia Commons (CC BY-SA 4.0) · Sudeepacharya076 / Wikimedia Commons (CC BY-SA 4.0) · Prytomb / Wikimedia Commons (CC BY-SA 4.0) · Bijay Chaurasia / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

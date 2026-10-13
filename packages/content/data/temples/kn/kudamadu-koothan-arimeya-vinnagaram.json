@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/kudamadu-koothan-arimeya-vinnagaram.mp3",
     "durationSec": 164
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kudamadu-koothan-arimeya-vinnagaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಕುಡಮಾಡು ಕೂತ್ತನ್ ದೇವಾಲಯ, ತಿರುಅರಿಮೇಯ ವಿಣ್ಣಗರಂ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/kudamadu-koothan-arimeya-vinnagaram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kudamadu-koothan-arimeya-vinnagaram.jpg",
+    "durationSec": 167,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

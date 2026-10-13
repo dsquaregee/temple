@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/nanmathiya-thalaichangadu.mp3",
     "durationSec": 136
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",
+    "color": "#5C3A2E",
+    "alt": "नाण्मतिय पेरुमाळ मंदिर, तलैच्चंगाडु",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/nanmathiya-thalaichangadu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",
+    "durationSec": 128,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

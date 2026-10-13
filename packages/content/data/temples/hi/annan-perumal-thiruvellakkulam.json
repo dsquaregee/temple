@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/annan-perumal-thiruvellakkulam.mp3",
     "durationSec": 184
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/annan-perumal-thiruvellakkulam.jpg",
+    "color": "#5C3A2E",
+    "alt": "अण्णन पेरुमाळ मंदिर, तिरुवेळ्ळक्कुळम (अण्णन कोयिल)",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

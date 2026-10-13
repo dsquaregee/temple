@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/govardhanesa-mathura.mp3",
     "durationSec": 158
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಗೋವರ್ಧನೇಶ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ಮಥುರಾ (ತಿರು ವಡಮಥುರೈ)",
+    "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0) · Wikimedia Commons / Wikimedia Commons (CC BY-SA 2.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/govardhanesa-mathura.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.jpg",
+    "durationSec": 163,
+    "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0) · Wikimedia Commons / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

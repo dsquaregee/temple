@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/jagannatha-nathankoil.mp3",
     "durationSec": 161
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "जगन्नाथ पेरुमाळ मंदिर, नाथन कोविल",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/jagannatha-nathankoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
+    "durationSec": 142,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

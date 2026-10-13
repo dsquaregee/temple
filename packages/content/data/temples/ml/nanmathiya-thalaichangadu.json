@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/nanmathiya-thalaichangadu.mp3",
     "durationSec": 148
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",
+    "color": "#5C3A2E",
+    "alt": "നാൺമതിയ പെരുമാൾ ക്ഷേത്രം, തലൈച്ചങ്ങാട്",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/nanmathiya-thalaichangadu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",
+    "durationSec": 114,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

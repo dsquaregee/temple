@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/mayappiran-thiruppuliyur.mp3",
     "durationSec": 186
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mayappiran-thiruppuliyur.jpg",
+    "color": "#5C3A2E",
+    "alt": "மாயப்பிரான் பெருமாள் கோயில், திருப்புலியூர்",
+    "credit": "Dvellakat / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

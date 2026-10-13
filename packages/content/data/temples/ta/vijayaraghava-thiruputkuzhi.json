@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/vijayaraghava-thiruputkuzhi.mp3",
     "durationSec": 159
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.jpg",
+    "color": "#5C3A2E",
+    "alt": "விஜயராகவப் பெருமாள் கோயில், திருப்புட்குழி",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/vijayaraghava-thiruputkuzhi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.jpg",
+    "durationSec": 151,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

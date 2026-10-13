@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/sthalasayana-thirukkadalmallai.mp3",
     "durationSec": 171
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಸ್ಥಲಶಯನ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಕ್ಕಡಲ್ಮಲ್ಲೈ",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/sthalasayana-thirukkadalmallai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "durationSec": 172,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

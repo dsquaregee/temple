@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/navamohana-krishna-gokul.mp3",
     "durationSec": 180
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "color": "#5C3A2E",
+    "alt": "Navamohana Krishna Temple, Gokul (Thiruvaipadi)",
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/navamohana-krishna-gokul.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "durationSec": 143,
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

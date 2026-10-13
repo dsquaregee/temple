@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/mayappiran-thiruppuliyur.mp3",
     "durationSec": 171
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mayappiran-thiruppuliyur.jpg",
+    "color": "#5C3A2E",
+    "alt": "మాయప్పిరాన్ పెరుమాళ్ ఆలయం, తిరుప్పులియూర్",
+    "credit": "Dvellakat / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

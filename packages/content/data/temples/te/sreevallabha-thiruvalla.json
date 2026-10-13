@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/sreevallabha-thiruvalla.mp3",
     "durationSec": 162
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sreevallabha-thiruvalla.jpg",
+    "color": "#5C3A2E",
+    "alt": "శ్రీవల్లభ ఆలయం, తిరువల్లా",
+    "credit": "Getpraveennair / Wikimedia Commons (CC BY-SA 4.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/sreevallabha-thiruvalla.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sreevallabha-thiruvalla.jpg",
+    "durationSec": 176,
+    "credit": "Getpraveennair / Wikimedia Commons (CC BY-SA 4.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

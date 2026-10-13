@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/imayavarappan-thiruchenkundrur.mp3",
     "durationSec": 202
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/imayavarappan-thiruchenkundrur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Imayavarappan Perumal Temple, Thiruchenkundrur",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

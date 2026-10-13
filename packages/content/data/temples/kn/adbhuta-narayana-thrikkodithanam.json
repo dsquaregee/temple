@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/adbhuta-narayana-thrikkodithanam.mp3",
     "durationSec": 151
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adbhuta-narayana-thrikkodithanam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಅದ್ಭುತ ನಾರಾಯಣ ದೇವಾಲಯ, ತಿರುಕ್ಕೊಡಿತ್ತಾನಂ",
+    "credit": "Kannanshanmugam,shanmugamstudio,Kollam / Wikimedia Commons (CC BY 3.0) · Anoopgnm / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/adbhuta-narayana-thrikkodithanam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adbhuta-narayana-thrikkodithanam.jpg",
+    "durationSec": 152,
+    "credit": "Kannanshanmugam,shanmugamstudio,Kollam / Wikimedia Commons (CC BY 3.0) · Anoopgnm / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

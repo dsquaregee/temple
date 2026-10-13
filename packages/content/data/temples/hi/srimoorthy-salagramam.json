@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/srimoorthy-salagramam.mp3",
     "durationSec": 199
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/srimoorthy-salagramam.jpg",
+    "color": "#5C3A2E",
+    "alt": "श्रीमूर्ति पेरुमाळ मंदिर, सालग्रामम् (मुक्तिनाथ)",
+    "credit": "Manjul bhattarai / Wikimedia Commons (CC BY-SA 4.0) · Sudeepacharya076 / Wikimedia Commons (CC BY-SA 4.0) · Prytomb / Wikimedia Commons (CC BY-SA 4.0) · Bijay Chaurasia / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/srimoorthy-salagramam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srimoorthy-salagramam.jpg",
+    "durationSec": 183,
+    "credit": "Manjul bhattarai / Wikimedia Commons (CC BY-SA 4.0) · Sudeepacharya076 / Wikimedia Commons (CC BY-SA 4.0) · Prytomb / Wikimedia Commons (CC BY-SA 4.0) · Bijay Chaurasia / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

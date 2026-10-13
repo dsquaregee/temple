@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/pandavadoothar-thiruppadagam.mp3",
     "durationSec": 169
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",
+    "color": "#5C3A2E",
+    "alt": "பாண்டவ தூதப் பெருமாள் கோயில் (திருப்பாடகம்), காஞ்சிபுரம்",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/pandavadoothar-thiruppadagam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",
+    "durationSec": 160,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/adbhuta-narayana-thrikkodithanam.mp3",
     "durationSec": 147
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/adbhuta-narayana-thrikkodithanam.jpg",
+    "color": "#5C3A2E",
+    "alt": "అద్భుత నారాయణ ఆలయం, తిరుక్కొడిత్తానం",
+    "credit": "Kannanshanmugam,shanmugamstudio,Kollam / Wikimedia Commons (CC BY 3.0) · Anoopgnm / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/adbhuta-narayana-thrikkodithanam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adbhuta-narayana-thrikkodithanam.jpg",
+    "durationSec": 159,
+    "credit": "Kannanshanmugam,shanmugamstudio,Kollam / Wikimedia Commons (CC BY 3.0) · Anoopgnm / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

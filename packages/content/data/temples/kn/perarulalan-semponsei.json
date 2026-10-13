@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/perarulalan-semponsei.mp3",
     "durationSec": 179
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/perarulalan-semponsei.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಪೇರರುಳಾಳನ್ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಚ್ಚೆಂಪೊನ್ಚೆಯ್",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

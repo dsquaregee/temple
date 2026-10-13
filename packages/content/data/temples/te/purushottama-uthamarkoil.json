@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/purushottama-uthamarkoil.mp3",
     "durationSec": 172
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "పురుషోత్తమ పెరుమాళ్ ఆలయం, ఉత్తమర్‌కోయిల్",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/purushottama-uthamarkoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "durationSec": 184,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

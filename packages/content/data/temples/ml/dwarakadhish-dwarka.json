@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/dwarakadhish-dwarka.mp3",
     "durationSec": 179
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.jpg",
+    "color": "#5C3A2E",
+    "alt": "ദ്വാരകാധീശ ക്ഷേത്രം, ദ്വാരക (തിരു ദ്വാരക)",
+    "credit": "Sivaprasadsujatha / Wikimedia Commons (CC BY-SA 4.0) · Abhi1901 / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/dwarakadhish-dwarka.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.jpg",
+    "durationSec": 141,
+    "credit": "Sivaprasadsujatha / Wikimedia Commons (CC BY-SA 4.0) · Abhi1901 / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

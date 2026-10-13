@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/kamalanatha-thiruvanvandoor.mp3",
     "durationSec": 178
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kamalanatha-thiruvanvandoor.jpg",
+    "color": "#5C3A2E",
+    "alt": "కమలనాథ పెరుమాళ్ ఆలయం, తిరువన్వండూర్",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

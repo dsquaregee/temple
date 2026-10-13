@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/vaikunta-perumal-kanchipuram.mp3",
     "durationSec": 176
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "वैकुण्ठ पेरुमाळ मंदिर (तिरुपरमेश्वर विण्णगरम्), कांचीपुरम",
+    "credit": "Nandhinikandhasamy / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/vaikunta-perumal-kanchipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
+    "durationSec": 160,
+    "credit": "Nandhinikandhasamy / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

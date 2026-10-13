@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/bhaktavatsala-thiruninravur.mp3",
     "durationSec": 195
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഭക്തവത്സല പെരുമാൾ ക്ഷേത്രം, തിരുനിന്റവൂർ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/bhaktavatsala-thiruninravur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.jpg",
+    "durationSec": 140,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

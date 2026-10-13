@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/vaikunta-perumal-kanchipuram.mp3",
     "durationSec": 168
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "వైకుంఠ పెరుమాళ్ ఆలయం (తిరుపరమేశ్వర విణ్ణగరం), కాంచీపురం",
+    "credit": "Nandhinikandhasamy / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/vaikunta-perumal-kanchipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
+    "durationSec": 184,
+    "credit": "Nandhinikandhasamy / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

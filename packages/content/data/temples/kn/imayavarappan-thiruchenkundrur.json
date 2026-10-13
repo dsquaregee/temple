@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/imayavarappan-thiruchenkundrur.mp3",
     "durationSec": 174
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/imayavarappan-thiruchenkundrur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಇಮಯವರಪ್ಪನ್ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಚೆಂಗುನ್ನೂರ್",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

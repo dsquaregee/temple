@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/govardhanesa-mathura.mp3",
     "durationSec": 170
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഗോവർധനേശ പെരുമാൾ ക്ഷേത്രം, മഥുര (തിരു വടമഥുരൈ)",
+    "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0) · Wikimedia Commons / Wikimedia Commons (CC BY-SA 2.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/govardhanesa-mathura.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.jpg",
+    "durationSec": 137,
+    "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0) · Wikimedia Commons / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

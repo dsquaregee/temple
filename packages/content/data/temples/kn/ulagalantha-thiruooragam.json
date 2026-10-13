@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/ulagalantha-thiruooragam.mp3",
     "durationSec": 173
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/ulagalantha-thiruooragam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಉಲಗಳಂತ ಪೆರುಮಾಳ್ ದೇವಾಲಯ (ತಿರೂರಗಂ), ಕಾಂಚೀಪುರಂ",
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/ulagalantha-thiruooragam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ulagalantha-thiruooragam.jpg",
+    "durationSec": 179,
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

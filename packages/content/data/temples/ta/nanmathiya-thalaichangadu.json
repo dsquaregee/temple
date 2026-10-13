@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/nanmathiya-thalaichangadu.mp3",
     "durationSec": 154
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",
+    "color": "#5C3A2E",
+    "alt": "நாண்மதியப் பெருமாள் கோயில், தலைச்சங்காடு",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/nanmathiya-thalaichangadu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",
+    "durationSec": 144,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

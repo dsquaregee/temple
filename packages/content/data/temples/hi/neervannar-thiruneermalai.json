@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/neervannar-thiruneermalai.mp3",
     "durationSec": 155
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.jpg",
+    "color": "#5C3A2E",
+    "alt": "नीर्वण्णार पेरुमाळ मंदिर, तिरुनीर्मलै",
+    "credit": "Jagadeesh. S / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/neervannar-thiruneermalai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.jpg",
+    "durationSec": 138,
+    "credit": "Jagadeesh. S / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

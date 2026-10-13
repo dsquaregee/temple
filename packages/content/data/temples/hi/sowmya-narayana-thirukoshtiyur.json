@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/sowmya-narayana-thirukoshtiyur.mp3",
     "durationSec": 178
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sowmya-narayana-thirukoshtiyur.jpg",
+    "color": "#5C3A2E",
+    "alt": "सौम्य नारायण पेरुमाळ मंदिर, तिरुक्कोष्टियूर",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/sowmya-narayana-thirukoshtiyur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sowmya-narayana-thirukoshtiyur.jpg",
+    "durationSec": 160,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

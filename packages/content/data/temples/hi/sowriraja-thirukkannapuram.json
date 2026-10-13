@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/sowriraja-thirukkannapuram.mp3",
     "durationSec": 168
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sowriraja-thirukkannapuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "सौरिराज पेरुमाळ मंदिर, तिरुक्कण्णपुरम्",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/sowriraja-thirukkannapuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sowriraja-thirukkannapuram.jpg",
+    "durationSec": 148,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

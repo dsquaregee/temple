@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/jagannatha-nathankoil.mp3",
     "durationSec": 161
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಜಗನ್ನಾಥ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ನಾಥನ್ ಕೋವಿಲ್",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/jagannatha-nathankoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
+    "durationSec": 165,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

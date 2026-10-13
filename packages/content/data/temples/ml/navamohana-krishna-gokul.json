@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/navamohana-krishna-gokul.mp3",
     "durationSec": 176
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "color": "#5C3A2E",
+    "alt": "നവമോഹന കൃഷ്ണ ക്ഷേത്രം, ഗോകുൽ (തിരുവായ്പ്പാടി)",
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/navamohana-krishna-gokul.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",
+    "durationSec": 143,
+    "credit": "Shafiqul Islam Shiplu / Wikimedia Commons (CC BY-SA 4.0) · Arijul83 / Wikimedia Commons (CC BY-SA 4.0) · Biswajitpatra / Wikimedia Commons (CC BY-SA 4.0) · Avishekbiswas / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

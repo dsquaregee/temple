@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/sthalasayana-thirukkadalmallai.mp3",
     "durationSec": 172
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "color": "#5C3A2E",
+    "alt": "స్థలశయన పెరుమాళ్ ఆలయం, తిరుక్కడల్మల్లై",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/sthalasayana-thirukkadalmallai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "durationSec": 186,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

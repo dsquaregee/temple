@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/lakshmana-perumal-thirumoozhikkulam.mp3",
     "durationSec": 168
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಲಕ್ಷ್ಮಣ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಮೂೞಿಕ್ಕುಳಂ",
+    "credit": "Ranjithsiji / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/lakshmana-perumal-thirumoozhikkulam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.jpg",
+    "durationSec": 166,
+    "credit": "Ranjithsiji / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

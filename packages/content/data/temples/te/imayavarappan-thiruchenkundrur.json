@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/imayavarappan-thiruchenkundrur.mp3",
     "durationSec": 177
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/imayavarappan-thiruchenkundrur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ఇమయవరప్పన్ పెరుమాళ్ ఆలయం, తిరుచెంగున్నూర్",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

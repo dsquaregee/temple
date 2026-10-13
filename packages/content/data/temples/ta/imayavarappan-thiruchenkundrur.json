@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/imayavarappan-thiruchenkundrur.mp3",
     "durationSec": 196
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/imayavarappan-thiruchenkundrur.jpg",
+    "color": "#5C3A2E",
+    "alt": "இமயவரப்பன் பெருமாள் கோயில், திருச்செங்குன்றூர்",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

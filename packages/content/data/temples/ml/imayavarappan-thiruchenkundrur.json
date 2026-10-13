@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/imayavarappan-thiruchenkundrur.mp3",
     "durationSec": 193
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/imayavarappan-thiruchenkundrur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഇമയവരപ്പൻ പെരുമാൾ ക്ഷേത്രം, തിരുച്ചെങ്കുന്നൂർ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

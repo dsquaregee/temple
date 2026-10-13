@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/pandavadoothar-thiruppadagam.mp3",
     "durationSec": 148
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",
+    "color": "#5C3A2E",
+    "alt": "पांडव तूतर पेरुमाळ मंदिर (तिरुप्पाडगम्), कांचीपुरम",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/pandavadoothar-thiruppadagam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",
+    "durationSec": 139,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
