@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.jpg",
     "color": "#5C3A2E",
     "alt": "പാർത്ഥസാരഥി പെരുമാൾ ക്ഷേത്രം, ആറന്മുള",
-    "credit": "Alenalexp / Wikimedia Commons (CC BY-SA 4.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Alenalexp / Wikimedia Commons (CC BY-SA 4.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.avif",
+      "webp": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/parthasarathy-aranmula.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/parthasarathy-aranmula.mp4",

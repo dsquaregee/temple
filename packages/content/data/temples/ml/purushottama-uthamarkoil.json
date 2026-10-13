@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
     "color": "#5C3A2E",
     "alt": "പുരുഷോത്തമ പെരുമാൾ ക്ഷേത്രം, ഉത്തമർകോയിൽ",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/purushottama-uthamarkoil.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/purushottama-uthamarkoil.mp4",

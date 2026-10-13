@@ -41,6 +41,11 @@
     "src": "https://media.dsquaregee.com/heroes/govindaraja-chidambaram.jpg",
     "color": "#5C3A2E",
     "alt": "ഗോവിന്ദരാജ പെരുമാൾ ക്ഷേത്രം, ചിദംബരം",
-    "credit": "Raghavendran / Wikimedia Commons (Public domain)"
+    "credit": "Raghavendran / Wikimedia Commons (Public domain)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/govindaraja-chidambaram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/govindaraja-chidambaram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/govindaraja-chidambaram.jpg"
   }
 }

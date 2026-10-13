@@ -41,6 +41,11 @@
     "src": "https://media.dsquaregee.com/heroes/kamalanatha-thiruvanvandoor.jpg",
     "color": "#5C3A2E",
     "alt": "கமலநாதப் பெருமாள் கோயில், திருவன்வண்டூர்",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kamalanatha-thiruvanvandoor.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kamalanatha-thiruvanvandoor.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kamalanatha-thiruvanvandoor.jpg"
   }
 }

@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",
     "color": "#5C3A2E",
     "alt": "ಕೋಲ ವಲ್ವಿಲ್ಲಿ ರಾಮರ್ ದೇವಾಲಯ, ತಿರುವೆಳ್ಳಿಯಂಗುಡಿ",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kolavilli-raman-thiruvelliyangudi.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/kn/kolavilli-raman-thiruvelliyangudi.mp4",

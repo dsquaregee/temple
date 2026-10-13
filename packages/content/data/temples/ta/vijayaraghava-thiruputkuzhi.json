@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.jpg",
     "color": "#5C3A2E",
     "alt": "விஜயராகவப் பெருமாள் கோயில், திருப்புட்குழி",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vijayaraghava-thiruputkuzhi.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/vijayaraghava-thiruputkuzhi.mp4",

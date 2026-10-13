@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/nambi-thirukkurungudi.jpg",
     "color": "#5C3A2E",
     "alt": "அழகிய நம்பி கோயில், திருக்குறுங்குடி",
-    "credit": "Niranjan Ramamurthy / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Niranjan Ramamurthy / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/nambi-thirukkurungudi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/nambi-thirukkurungudi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/nambi-thirukkurungudi.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/nambi-thirukkurungudi.mp4",

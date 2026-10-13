@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/sowmya-narayana-thirukoshtiyur.jpg",
     "color": "#5C3A2E",
     "alt": "Sowmya Narayana Perumal Temple, Thirukoshtiyur",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sowmya-narayana-thirukoshtiyur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sowmya-narayana-thirukoshtiyur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sowmya-narayana-thirukoshtiyur.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/v4/sowmya-narayana-thirukoshtiyur.mp4",

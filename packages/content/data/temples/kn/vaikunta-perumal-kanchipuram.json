@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
     "color": "#5C3A2E",
     "alt": "ವೈಕುಂಠ ಪೆರುಮಾಳ್ ದೇವಾಲಯ (ತಿರುಪರಮೇಶ್ವರ ವಿಣ್ಣಗರಂ), ಕಾಂಚೀಪುರಂ",
-    "credit": "Nandhinikandhasamy / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Nandhinikandhasamy / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaikunta-perumal-kanchipuram.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/kn/vaikunta-perumal-kanchipuram.mp4",

@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",
     "color": "#5C3A2E",
     "alt": "पांडव तूतर पेरुमाळ मंदिर (तिरुप्पाडगम्), कांचीपुरम",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/pandavadoothar-thiruppadagam.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/pandavadoothar-thiruppadagam.mp4",

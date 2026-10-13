@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/trivikrama-thirukkovilur.jpg",
     "color": "#5C3A2E",
     "alt": "உலகளந்த பெருமாள் கோயில், திருக்கோவிலூர்",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/trivikrama-thirukkovilur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/trivikrama-thirukkovilur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/trivikrama-thirukkovilur.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/trivikrama-thirukkovilur.mp4",

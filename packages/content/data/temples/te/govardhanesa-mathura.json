@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.jpg",
     "color": "#5C3A2E",
     "alt": "గోవర్ధనేశ పెరుమాళ్ ఆలయం, మథుర (తిరు వడమథురై)",
-    "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0) · Wikimedia Commons / Wikimedia Commons (CC BY-SA 2.0)"
+    "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0) · Wikimedia Commons / Wikimedia Commons (CC BY-SA 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.avif",
+      "webp": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/govardhanesa-mathura.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/govardhanesa-mathura.mp4",

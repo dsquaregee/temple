@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",
     "color": "#5C3A2E",
     "alt": "तंजै मामणि कोविल (नीलमेघ पेरुमाळ मंदिर), तंजावुर",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/neelamega-thanjavur.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/neelamega-thanjavur.mp4",

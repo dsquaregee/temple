@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.jpg",
     "color": "#5C3A2E",
     "alt": "ಪುಂಡರೀಕಾಕ್ಷನ್ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುವೆಳ್ಳರೈ",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/pundarikaksha-thiruvellarai.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/kn/pundarikaksha-thiruvellarai.mp4",

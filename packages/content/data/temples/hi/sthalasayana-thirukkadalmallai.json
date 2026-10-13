@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
     "color": "#5C3A2E",
     "alt": "स्थलशयन पेरुमाळ मंदिर, तिरुक्कडल्मल्लै",
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sthalasayana-thirukkadalmallai.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/sthalasayana-thirukkadalmallai.mp4",

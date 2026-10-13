@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.jpg",
     "color": "#5C3A2E",
     "alt": "வாமனமூர்த்தி கோயில், திருக்காக்கரை",
-    "credit": "Ranjithsiji / Wikimedia Commons (CC BY-SA 4.0) · Ranjithsiji / Wikimedia Commons (Public domain) · Ranjithsiji / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "Ranjithsiji / Wikimedia Commons (CC BY-SA 4.0) · Ranjithsiji / Wikimedia Commons (Public domain) · Ranjithsiji / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vamana-thrikkakara.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/vamana-thrikkakara.mp4",

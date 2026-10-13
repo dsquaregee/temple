@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",
     "color": "#5C3A2E",
     "alt": "కూడల్ అఴగర్ ఆలయం, మదురై",
-    "credit": "Aditya Shree / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Aditya Shree / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/koodal-azhagar-madurai.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/koodal-azhagar-madurai.mp4",

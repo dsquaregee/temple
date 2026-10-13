@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/sowriraja-thirukkannapuram.jpg",
     "color": "#5C3A2E",
     "alt": "ಸೌರಿರಾಜ ಪೆರುಮಾಳ್ ದೇವಾಲಯ, ತಿರುಕ್ಕಣ್ಣಪುರಂ",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sowriraja-thirukkannapuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sowriraja-thirukkannapuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sowriraja-thirukkannapuram.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/kn/sowriraja-thirukkannapuram.mp4",

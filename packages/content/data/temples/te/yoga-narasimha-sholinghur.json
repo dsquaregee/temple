@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.jpg",
     "color": "#5C3A2E",
     "alt": "యోగ నరసింహ ఆలయం, శోళింగర్",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY 4.0) · Raghavan2010 / Wikimedia Commons (CC0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 4.0) · Raghavan2010 / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/yoga-narasimha-sholinghur.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/yoga-narasimha-sholinghur.mp4",

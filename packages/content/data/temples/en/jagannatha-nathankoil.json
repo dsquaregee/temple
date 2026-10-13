@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",
     "color": "#5C3A2E",
     "alt": "Jagannatha Perumal Temple, Nathan Koil",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.avif",
+      "webp": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/jagannatha-nathankoil.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/v4/jagannatha-nathankoil.mp4",
