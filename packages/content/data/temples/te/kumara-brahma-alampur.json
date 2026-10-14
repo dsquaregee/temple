@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/kumara-brahma-alampur.jpg",
     "color": "#5C3A2E",
     "alt": "కుమార బ్రహ్మ ఆలయం, అలంపూర్",
-    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kumara-brahma-alampur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kumara-brahma-alampur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kumara-brahma-alampur.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/kumara-brahma-alampur.mp4",

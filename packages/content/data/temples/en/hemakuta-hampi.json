@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/hemakuta-hampi.jpg",
     "color": "#5C3A2E",
     "alt": "Hemakuta Hill Temples, Hampi",
-    "credit": "Mrmanoj1312 / Wikimedia Commons (CC BY-SA 4.0) · Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Mrmanoj1312 / Wikimedia Commons (CC BY-SA 4.0) · Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/hemakuta-hampi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/hemakuta-hampi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/hemakuta-hampi.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/v4/hemakuta-hampi.mp4",

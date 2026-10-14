@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/payammal-shatrughna.jpg",
     "color": "#5C3A2E",
     "alt": "പായമ്മൽ ശത്രുഘ്ന ക്ഷേത്രം",
-    "credit": "Challiyan / Wikimedia Commons (CC BY-SA 3.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Challiyan / Wikimedia Commons (CC BY-SA 3.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/payammal-shatrughna.avif",
+      "webp": "https://media.dsquaregee.com/heroes/payammal-shatrughna.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/payammal-shatrughna.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/payammal-shatrughna.mp4",

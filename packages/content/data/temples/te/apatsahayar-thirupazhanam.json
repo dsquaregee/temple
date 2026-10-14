@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/apatsahayar-thirupazhanam.jpg",
     "color": "#5C3A2E",
     "alt": "ఆపత్సహాయర్ ఆలయం, తిరుప్పళనం",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/apatsahayar-thirupazhanam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/apatsahayar-thirupazhanam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/apatsahayar-thirupazhanam.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/apatsahayar-thirupazhanam.mp4",

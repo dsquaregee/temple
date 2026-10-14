@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.jpg",
     "color": "#5C3A2E",
     "alt": "गरुड़ ब्रह्म मंदिर, आलमपुर",
-    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/garuda-brahma-alampur.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/garuda-brahma-alampur.mp4",

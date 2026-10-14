@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/veerateeswarar-korukkai.jpg",
     "color": "#5C3A2E",
     "alt": "வீரட்டேஸ்வரர் கோயில், கொருக்கை (திருக்குறுக்கை)",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/veerateeswarar-korukkai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/veerateeswarar-korukkai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/veerateeswarar-korukkai.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/veerateeswarar-korukkai.mp4",

@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/vittala-hampi.jpg",
     "color": "#5C3A2E",
     "alt": "विजय विट्ठल मंदिर, हम्पी",
-    "credit": "Suraj S Rao / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Suraj S Rao / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vittala-hampi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vittala-hampi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vittala-hampi.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/vittala-hampi.mp4",
