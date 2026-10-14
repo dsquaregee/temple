@@ -98,7 +98,7 @@ For a locally coherent day-trip circuit, the first three suffice. Pillalamarri a
 | `vijayaraghava-thiruputkuzhi` | Thiruputkuzhi | Not in the city; leave out. |
 
 **Missing from the catalog entirely.**
-- **Kachabeswarar (Kachapeshwarar) Temple, Kanchipuram (NEW).** A Thevaram Paadal Petra Sthalam and one of the main Shiva temples of the city. It is the home of the Kanda Puranam tradition (Kachiyappa Sivachariyar).
+- **Kachabeswarar (Kachapeshwarar) Temple, Kanchipuram (NEW).** A Tevaram Vaippu Sthalam (mentioned by Appar; not one of the 276 Paadal Petra Sthalams, and distinct from the Kachabeswarar temple at Thirukachur sung by Sundarar) and one of the main Shiva temples of the city. It is the home of the Kanda Puranam tradition (Kachiyappa Sivachariyar).
 - **Kumarakottam Murugan Temple (NEW; tier-2).** The home of Kachiyappa's Kanda Puranam.
 - **Mukteswara and Matangeswara Pallava temples.** Minor Pallava shrines; leave out.
 - **Kanchi Kamakoti Peetham.** A matha, not a temple; leave out.
