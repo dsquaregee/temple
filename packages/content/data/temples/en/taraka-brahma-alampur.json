@@ -1,0 +1,57 @@
+{
+  "id": "taraka-brahma-alampur",
+  "locale": "en",
+  "name": "Taraka Brahma Temple, Alampur",
+  "nativeName": "తారక బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "Shiva, as Taraka Brahmeshwara",
+  "tradition": "Shaivism",
+  "location": {
+    "city": "Alampur",
+    "state": "Telangana",
+    "lat": 15.8786,
+    "lng": 78.1347
+  },
+  "period": "Early Chalukya, 7th century; the one Navabrahma shrine with a southern-style tower",
+  "century": 7,
+  "dynasty": "Chalukya of Badami",
+  "style": "Early Chalukya, southern (dravida) stepped tower",
+  "unesco": false,
+  "circuits": [
+    "alampur-navabrahma-temples"
+  ],
+  "summary": "The smallest of Alampur's Navabrahma temples, Taraka Brahma stands apart from its siblings — the only one of the nine crowned in the stepped southern manner, its stones bearing early Telugu and Kannada inscriptions.",
+  "sections": {
+    "history": "Taraka Brahma is one of the nine Navabrahma temples raised by the Early Chalukyas of Badami at Alampur, on the left bank of the Tungabhadra, and it is the smallest of them. Its stones carry early inscriptions in Telugu and Kannada, attributed to the seventh century — precious witnesses to the languages of the Deccan as they were first written in stone under the Chalukyas. The temple suffered badly in the raids that followed the fourteenth century: it is partly in ruins and its sanctum now holds no image. Later it was enclosed within the compound walls of an Islamic dargah, so that today it stands a little apart from the main run of temples, behind the site museum.",
+    "architecture": "Where its eight siblings raise curving northern towers, Taraka Brahma was crowned with a stepped, pyramidal tower of the southern order; the Archaeological Survey of India singles it out as the lone example of the kind in the group, with a prominent projecting frontal arch over the vestibule. Its plan is the simplest at Alampur — a sanctum, a vestibule and a porch, with no enclosed hall. Above the inner doorway sits a goddess, identified as Lakshmi, seated with her legs pendant, one of the few carvings to survive in place.",
+    "legends": "The Navabrahma names come from the tradition that Brahma did penance at Alampur in honour of Shiva, and that the Lord is remembered here in nine forms. 'Taraka' means the one who carries across — the deliverer who ferries the soul over the ocean of rebirth — and Shiva as Taraka Brahmeshwara is remembered in that saving role. The little temple's double inheritance, a southern tower among northern ones, is the story scholars tell of Alampur itself: a frontier where the builders of the Deccan set the two great languages of temple architecture side by side.",
+    "festivals": "Taraka Brahma is a protected monument rather than a place of daily worship, and keeps no festival of its own. The precinct around it fills at Maha Shivaratri, when pilgrims throng the Bala Brahma temple, and at Navaratri and Dasara for the goddess Jogulamba; quieter weekdays are best for studying this shrine. Confirm dates locally.",
+    "experience": "Taraka Brahma is easy to miss: look for it behind the site museum, inside the walled dargah compound at the edge of the main group. Its scale is intimate, and it repays standing back to see the stepped profile of its tower against the curving spires of its neighbours — the clearest lesson at Alampur in how differently north and south shaped a temple. Pair the visit with the museum, which keeps sculpture gathered from across the site."
+  },
+  "visit": {
+    "timings": "Open in daylight hours as an Archaeological Survey of India monument within the Navabrahma precinct; it is not a place of daily worship. Confirm current hours and any ticketing locally.",
+    "dressCode": "No strict dress code applies at the monument, but modest dress is appropriate in this sacred precinct, and footwear is removed at the active shrines nearby. Respect the neighbouring dargah compound.",
+    "photography": "Photography of the exterior is generally permitted; tripods or professional equipment may need permission from the Archaeological Survey of India. Follow the posted rules.",
+    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away. The temple lies behind the site museum, a short walk from the Bala Brahma and Jogulamba temples."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/taraka-brahma-alampur.mp3",
+    "durationSec": 214
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/taraka-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Taraka Brahma Temple, Alampur",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/taraka-brahma-alampur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/taraka-brahma-alampur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/taraka-brahma-alampur.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/taraka-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/taraka-brahma-alampur.jpg",
+    "durationSec": 159,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  }
+}

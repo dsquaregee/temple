@@ -1,0 +1,57 @@
+{
+  "id": "veerattaneswarar-thiruvathigai",
+  "locale": "en",
+  "name": "Veerattaneswarar Temple, Thiruvathigai",
+  "nativeName": "திருவதிகை வீரட்டானேஸ்வரர் கோயில்",
+  "deity": "Shiva as Veerattaneswarar, with the Goddess Thiripurasundari (Periyanayaki)",
+  "tradition": "Shaivism",
+  "location": {
+    "city": "Thiruvathigai (Panruti)",
+    "state": "Tamil Nadu",
+    "lat": 11.7683,
+    "lng": 79.5753
+  },
+  "period": "Paadal Petra Sthalam of the Nadu Nadu country, sung in the Tevaram (7th century); one of the Ashta Veerattanams",
+  "century": 7,
+  "dynasty": "Pallava and Chola, with later additions",
+  "style": "Dravidian",
+  "unesco": false,
+  "circuits": [
+    "ashta-veerattanam"
+  ],
+  "summary": "On the Kedilam river beside Panruti, Shiva as Veerattaneswarar honours his burning of the three flying cities — the Veerattanam where Appar was healed, returned to Shaivism and sang his first hymn.",
+  "sections": {
+    "history": "Thiruvathigai lies on the north bank of the Kedilam river, a short way from Panruti in Cuddalore district, and its temple to Shiva as Veerattaneswarar is one of the eight Ashta Veerattanams, the shrines that remember the Lord's heroic deeds. It also holds a singular place in Tamil Shaiva memory. Here, tradition holds, Appar — then a Jain monk named Dharmasenar — came in the grip of a crippling illness to his sister Thilagavathiyar, who served in this temple; healed by the sacred ash, he returned to the worship of Shiva and sang his first hymn on the spot. Appar's influence is remembered too in the turning of the Pallava king Mahendravarman I from Jainism to Shaivism. The saint left many hymns on this shrine, and it is counted among the Paadal Petra Sthalams of the Nadu Nadu country.",
+    "architecture": "The temple is one of the larger complexes of the region, entered through towered gateways in the Dravidian manner, with the sanctum of Veerattaneswarar at the heart of its courtyards. The goddess has her own shrine, whose brightly painted vimana is crowded with sculpted figures; among them Tripurantaka, the destroyer of the three cities, stands out with twelve arms. In the first precinct is a shrine to Thilagavathiyar, and a pillared hall is believed to have been raised at her wish, in thanksgiving for her brother's return.",
+    "legends": "The Veerattanam of Thiruvathigai remembers Tripura samhara. Three asura brothers ruled three flying cities of gold, silver and iron, and from them they harried heaven and earth. The gods fashioned a chariot for Shiva — the earth its body, the sun and moon its wheels, Brahma its charioteer, Mount Meru his bow — and he rode out against the cities. As they came into one line, the Tamil hymns say, he needed no arrow: he smiled, and the three cities burned. Thiruvathigai honours him as Tripurantaka, and the twelve-armed destroyer on the goddess's tower keeps the story before every pilgrim's eyes.",
+    "festivals": "The temple keeps the festivals of the Shaiva year — Maha Shivaratri, the fortnightly pradosham, and Arudra Darshan in Margazhi for the dancing Lord — and honours Appar on his guru puja, when the story of his healing here is retold. Annual festival processions carry the bronzes through the streets of Thiruvathigai; confirm dates locally.",
+    "experience": "Thiruvathigai is a place of return. Pilgrims come to the river town to stand where a doubting monk was healed and found his voice, and many recite Appar's first hymn before the sanctum. The shrine pairs naturally with Thirukkovilur, the Andhakasura Veerattanam to the west, and with the many Tevaram shrines of the Nadu Nadu country."
+  },
+  "visit": {
+    "timings": "Open daily in morning and evening sessions with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
+    "gettingThere": "Thiruvathigai adjoins Panruti in Cuddalore district, about 2 km from the town centre on the north bank of the Kedilam. Panruti has a railway station and good road links to Cuddalore, Villupuram and Puducherry; the nearest airports are at Puducherry and Chennai."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/veerattaneswarar-thiruvathigai.mp3",
+    "durationSec": 218
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/veerattaneswarar-thiruvathigai.jpg",
+    "color": "#5C3A2E",
+    "alt": "Veerattaneswarar Temple, Thiruvathigai",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/veerattaneswarar-thiruvathigai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/veerattaneswarar-thiruvathigai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/veerattaneswarar-thiruvathigai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/veerattaneswarar-thiruvathigai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/veerattaneswarar-thiruvathigai.jpg",
+    "durationSec": 162,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  }
+}

@@ -6,11 +6,19 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| kachabeswarar-kanchipuram | 6 | ✅ included |
-| kaduthuruthy-thaliyil-mahadeva | 6 | ✅ included |
-| kampahareswarar-thirubuvanam | 6 | ✅ included |
-| kodungallur-bhagavathy | 6 | ✅ included |
-| kota-gullu-ghanpur | 6 | ✅ included |
-| mahakuta-temples | 6 | ✅ included |
-| sangameshwara-pattadakal | 1 | ◐ hero only (< 3 for video) |
-| sankaranarayanar-sankarankovil | 0 | ⚠️ skipped (no qualifying photo) |
+| brahmasirakandeeswarar-thirukandiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| horanadu-annapoorneshwari | 6 | ✅ included |
+| kailasanathar-cheranmahadevi | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-kodaganallur | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-murappanadu | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-rajapathy | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-senthapoomangalam | 0 | ⚠️ skipped (no qualifying photo) |
+| kaleshwara-mukteswara-kaleshwaram | 1 | ◐ hero only (< 3 for video) |
+| kateel-durgaparameshwari | 3 | ✅ included |
+| kothaparameswarar-kunnathur | 0 | ⚠️ skipped (no qualifying photo) |
+| neyyadiappar-thillaisthanam | 0 | ⚠️ skipped (no qualifying photo) |
+| puruhutika-pithapuram | 4 | ✅ included |
+| pushpavananathar-thirupoonthuruthi | 0 | ⚠️ skipped (no qualifying photo) |
+| veerateeswarar-korukkai | 6 | ✅ included |
+| veerateeswarar-thirupariyalur | 0 | ⚠️ skipped (no qualifying photo) |
+| veerattaneswarar-thiruvathigai | 6 | ✅ included |

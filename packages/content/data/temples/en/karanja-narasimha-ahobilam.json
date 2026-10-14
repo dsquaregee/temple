@@ -1,0 +1,57 @@
+{
+  "id": "karanja-narasimha-ahobilam",
+  "locale": "en",
+  "name": "Karanja Narasimha Temple, Ahobilam",
+  "nativeName": "కారంజ నరసింహ ఆలయం, అహోబిలం",
+  "deity": "Vishnu as Karanja Narasimha, also called Sarnga Narasimha — tradition holds that he bears a bow here for Hanuman's sake",
+  "tradition": "Vaishnavism",
+  "location": {
+    "city": "Ahobilam",
+    "state": "Andhra Pradesh",
+    "lat": 15.1274,
+    "lng": 78.7278
+  },
+  "period": "One of the Nava Narasimha shrines of Ahobilam in the Nallamala hills of Andhra Pradesh",
+  "century": 15,
+  "dynasty": "Vijayanagara patronage",
+  "style": "Small Dravidian shrine",
+  "unesco": false,
+  "circuits": [
+    "ahobilam-nava-narasimha"
+  ],
+  "summary": "Beneath a karanja tree on the road to Upper Ahobilam, Karanja Narasimha keeps a tender story — the lion-lord who took up Rama's bow so that Hanuman, devoted wholly to Rama, would know him.",
+  "sections": {
+    "history": "Karanja Narasimha takes its name from the karanja tree, the Indian beech, beneath which the Lord is said to have revealed himself. Of the nine Narasimha shrines of Ahobilam it is among the easiest to reach, standing about a kilometre short of the Upper Ahobilam temple, close to the road that climbs from Lower Ahobilam into the Nallamala hills. The shrine belongs to the circle of worship maintained by the Ahobila Matha, and like the other hill shrines it is generally associated with the Vijayanagara centuries, when the temples of Ahobilam flourished under royal patronage.",
+    "architecture": "The temple is a small, simple shrine with a modest pillared front, set near the karanja tree that gives it its name. The image is unusual among the nine: Narasimha is seated beneath the hood of the serpent Adisesha, with a third eye upon his brow, and tradition describes him holding a bow — the Sarnga of Vishnu — which is why he is also called Sarnga Narasimha.",
+    "legends": "The sthala purana tells that Hanuman came here to meditate on Rama and, so wholly was his heart given to Rama, would not accept Narasimha as his Lord. Narasimha then appeared before him bearing Rama's bow, showing that the two are one. Another tradition tells that the sage Gobhila, cursed by Durvasa, was freed of the curse through worship at this spot. In the astrological reading of the nine shrines, Karanja Narasimha is linked with the Moon.",
+    "festivals": "Narasimha Jayanti and the annual Brahmotsavam of Ahobilam are the main occasions, and devotees of Hanuman remember the shrine's story with special affection. Confirm dates locally.",
+    "experience": "Because it lies near the road, Karanja Narasimha is a gentle stop for pilgrims who cannot manage the forest trails — a short walk brings you to the shrine. Pause beneath the tree before darshan; it is part of the story. Combine the visit with the Upper Ahobilam temple, a short distance further on."
+  },
+  "visit": {
+    "timings": "Worship is offered daily with morning and evening darshan and a midday closure. Confirm current timings locally.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "Reach Lower Ahobilam by road via Allagadda (Nandyal is the nearest major railhead). The shrine lies about a kilometre before the Upper Ahobilam temple, close to the road between Lower and Upper Ahobilam; local autos and jeeps stop here."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/karanja-narasimha-ahobilam.mp3",
+    "durationSec": 161
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/karanja-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Karanja Narasimha Temple, Ahobilam",
+    "credit": "Chaduvari / Wikimedia Commons (CC BY-SA 4.0) · Veera Narayana / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/karanja-narasimha-ahobilam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/karanja-narasimha-ahobilam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/karanja-narasimha-ahobilam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/karanja-narasimha-ahobilam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/karanja-narasimha-ahobilam.jpg",
+    "durationSec": 119,
+    "credit": "Chaduvari / Wikimedia Commons (CC BY-SA 4.0) · Veera Narayana / Wikimedia Commons (CC BY-SA 4.0)"
+  }
+}

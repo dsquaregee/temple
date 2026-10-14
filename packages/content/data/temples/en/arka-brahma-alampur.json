@@ -1,0 +1,57 @@
+{
+  "id": "arka-brahma-alampur",
+  "locale": "en",
+  "name": "Arka Brahma Temple, Alampur",
+  "nativeName": "అర్క బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "Shiva as Arka Brahmeshwara (linga)",
+  "tradition": "Shaivism",
+  "location": {
+    "city": "Alampur",
+    "state": "Telangana",
+    "lat": 15.8784,
+    "lng": 78.1354
+  },
+  "period": "One of the nine Navabrahma temples of Alampur; its pillar inscription of Vikramaditya I (654–681) is the earliest record of the group",
+  "century": 7,
+  "dynasty": "Chalukya (Badami)",
+  "style": "Early Chalukya, northern (rekha-nagara) temple form; now largely ruined",
+  "unesco": false,
+  "circuits": [
+    "alampur-navabrahma-temples"
+  ],
+  "summary": "Roofless and worn, the Arka Brahma temple at Alampur holds the oldest written witness of the Navabrahma group — a pillar inscription from the reign of the Chalukya king Vikramaditya I recording the setting up of a linga.",
+  "sections": {
+    "history": "Of all the Navabrahma temples, Arka Brahma carries the group's earliest dated record. A Sanskrit inscription on one of its pillars, from the reign of the Badami Chalukya king Vikramaditya I (654–681), refers to the installation of a linga in this temple's shrine of Mahadeva — a precious anchor for dating the Alampur temples, which the Archaeological Survey of India places from the middle of the seventh century. The building has suffered more than any of its neighbours: in the troubled centuries after the fourteenth, its roof was lost and most of its sculpture destroyed. It is no longer in worship and is protected by the ASI.",
+    "architecture": "What remains shows the plan shared across the group — an east-facing sanctum behind a hall, with a verandah, in the northern idiom that the Chalukya builders brought to the Tungabhadra. With the roof gone, the walls and pillars stand open to the sky, and the layout of hall and sanctum can be read at a glance. On the sanctum doorway, worn but still recognisable, are the river goddesses Ganga and Yamuna, the purifying guardians who flank the thresholds of so many Chalukya shrines.",
+    "legends": "Arka is a name of the sun, and also of the arka plant whose leaves and flowers are offered to Shiva. Like its eight companions, the temple honours the tradition that Brahma did penance at Alampur and worshipped Shiva here as Brahmeshwara. The inscription on its pillar adds a human story to the sacred one: the remembrance of a day, more than thirteen centuries ago, when a linga was consecrated in this very shrine.",
+    "festivals": "There is no festival at the ruined shrine itself. The living temples of the precinct — Bala Brahmeshwara and Jogulamba — keep the year's great days: Maha Shivaratri, and Navaratri and Dasara for the goddess. Confirm dates locally.",
+    "experience": "Arka Brahma is a temple for quiet contemplation rather than spectacle. Stand inside its open walls and look for the pillar that bears the inscription, then for the faint figures of Ganga and Yamuna at the doorway. Set between Kumara Brahma to the south and Vira Brahma to the north, it is best seen as part of a slow walk along this row of shrines opposite the site museum."
+  },
+  "visit": {
+    "timings": "The Navabrahma precinct is open to visitors through the day; as an ASI-protected site, hours and any entry charges for the precinct and museum should be confirmed locally.",
+    "dressCode": "Modest dress is appreciated across the precinct, which includes living shrines; take care on uneven ground among the ruins.",
+    "photography": "Photography is generally allowed at the monuments; tripods or professional shoots may need permission from the site authorities.",
+    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away; the temple stands within the Navabrahma precinct by the Tungabhadra, near the site museum."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/arka-brahma-alampur.mp3",
+    "durationSec": 184
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Arka Brahma Temple, Alampur",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/arka-brahma-alampur.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/arka-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.jpg",
+    "durationSec": 142,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  }
+}

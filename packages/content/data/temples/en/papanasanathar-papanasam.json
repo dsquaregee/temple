@@ -1,0 +1,57 @@
+{
+  "id": "papanasanathar-papanasam",
+  "locale": "en",
+  "name": "Papanasanathar Temple, Papanasam",
+  "nativeName": "பாபநாசநாதர் கோயில், பாபநாசம்",
+  "deity": "Shiva as Papanasanathar, with the Goddess Ulagammai",
+  "tradition": "Shaivism",
+  "location": {
+    "city": "Papanasam",
+    "state": "Tamil Nadu",
+    "lat": 8.7133,
+    "lng": 77.4058
+  },
+  "period": "First of the Nava Kailasam, the shrine of the Sun; a Pandya foundation enlarged under the Vijayanagara and Nayaka rulers",
+  "century": 12,
+  "dynasty": "Pandya, with Vijayanagara and Nayaka additions",
+  "style": "Dravidian",
+  "unesco": false,
+  "circuits": [
+    "nava-kailasam"
+  ],
+  "summary": "Where the Tamiraparani leaves the Western Ghats, Shiva as Papanasanathar — the lord who destroys sin — receives the first of the Nava Kailasam pilgrims, at the shrine linked to the Sun.",
+  "sections": {
+    "history": "Papanasam stands at the very head of the Tamiraparani's journey across the plains, where the river comes down from the Western Ghats past the Agasthiyar Falls and the town spreads along its bank in Tirunelveli district. The temple of Papanasanathar is the first of the Nava Kailasam, the nine Shiva shrines strung along the river to the sea, and the one linked with the Sun. Its foundation is credited to the Pandya kings of the south, and in the sixteenth century the rulers of Vijayanagara and their Nayaka governors enlarged it with halls and towers. For centuries it has drawn pilgrims who come first to bathe in the river and then to worship the lord whose very name promises release from sin.",
+    "architecture": "The temple is built in granite in the Dravidian manner and faces the river, entered through a rajagopuram of seven tiers. Within the enclosures stand the sanctum of Papanasanathar, worshipped as a lingam, and the separate shrine of the Goddess Ulagammai, the mother of the world, joined by pillared mandapas of the later Nayaka age. Steps lead down from the temple to the bathing ghat on the Tamiraparani, so that the sacred bath and the darshan form one continuous act of worship, with the forested slopes of the Ghats rising close behind.",
+    "legends": "The sthala purana tells that when Shiva and Parvati were wed on Kailasa, the whole world gathered in the north and the earth tilted under the weight. Shiva sent the sage Agastya south to restore its balance, promising him a vision of the divine wedding in the south; at Papanasam the lord appeared to Agastya and his wife Lopamudra in his bridal form. The Nava Kailasam tradition adds that Agastya's disciple, the sage Romasa, floated nine lotuses on the river and installed a lingam wherever each came ashore — and the first of them settled here. Another account says Indra was freed of his sin by bathing and worshipping here, giving the place its name.",
+    "festivals": "The great festival falls in the Tamil month of Chithirai, when the vision of the divine wedding granted to Agastya is celebrated at the start of the month and the lord is taken in procession over the following days. Thaipoosam brings crowds to bathe in the river, and Maha Shivaratri and the monthly pradosham are kept with devotion; the new-moon days, above all Aadi Amavasai, draw families to the ghat. Confirm dates locally.",
+    "experience": "Papanasam is a place where the river is as much a part of worship as the shrine: pilgrims bathe at the ghat, feed the fish that crowd the shallows, and climb to the temple with wet hair and the sound of water behind them. It is the natural starting point of the Nava Kailasam round, which follows the Tamiraparani downstream through eight more villages to the sea, and lies close to the Agasthiyar Falls and the Papanasam dam."
+  },
+  "visit": {
+    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Chithirai festival days, Thaipoosam and new-moon days are busiest. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance. Take care on the river steps, which can be slippery.",
+    "gettingThere": "Papanasam lies in Tirunelveli district at the foot of the Western Ghats, about 50–60 km west of Tirunelveli by road via Cheranmahadevi and Ambasamudram, and about 10 km beyond Ambasamudram. Ambasamudram is the nearest railway station on the Tirunelveli–Tenkasi line; Thoothukudi and Thiruvananthapuram are the nearest airports."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/papanasanathar-papanasam.mp3",
+    "durationSec": 229
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Papanasanathar Temple, Papanasam",
+    "credit": "Sukumaran sundar / Wikimedia Commons (CC BY-SA 3.0) · MaRISELVAM (talk) / Wikimedia Commons (CC BY 3.0) · Muthuraman99 / Wikimedia Commons (CC BY 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/papanasanathar-papanasam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/papanasanathar-papanasam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
+    "durationSec": 165,
+    "credit": "Sukumaran sundar / Wikimedia Commons (CC BY-SA 3.0) · MaRISELVAM (talk) / Wikimedia Commons (CC BY 3.0) · Muthuraman99 / Wikimedia Commons (CC BY 3.0)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kailasanathar-murappanadu",
+  "locale": "en",
+  "name": "Kailasanathar Temple, Murappanadu",
+  "nativeName": "கைலாசநாதர் கோயில், முறப்பநாடு",
+  "deity": "Shiva as Kailasanathar, with the Goddess Sivakami",
+  "tradition": "Shaivism",
+  "location": {
+    "city": "Murappanadu",
+    "state": "Tamil Nadu",
+    "lat": 8.723,
+    "lng": 77.833
+  },
+  "period": "Fifth of the Nava Kailasam, the shrine of Jupiter; an old riverbank temple renovated under the Vijayanagara rulers",
+  "century": 16,
+  "dynasty": "Vijayanagara",
+  "style": "Dravidian",
+  "unesco": false,
+  "circuits": [
+    "nava-kailasam"
+  ],
+  "summary": "Beside the Tamiraparani at Murappanadu, where the Tirunelveli–Thoothukudi highway crosses the river, Shiva as Kailasanathar keeps the fifth of the Nava Kailasam — the shrine of Guru, the planet Jupiter.",
+  "sections": {
+    "history": "Murappanadu is a village on the Tamiraparani in Thoothukudi district, some seventeen kilometres east of Tirunelveli on the national highway to Thoothukudi. Its Kailasanathar temple is the fifth of the Nava Kailasam and the shrine of Guru, the planet Jupiter, standing at the midpoint of the nine. Its beginnings are not recorded with certainty; local tradition credits a generous chieftain of the region with its founding, and it was renovated in the time of the Vijayanagara rulers, whose authority reached the far south in the sixteenth century. A local story holds that a Vijayanagara commander, Vittala Raya, worshipped Guru here before a campaign towards Travancore.",
+    "architecture": "The temple faces east towards the river, a compact Dravidian stone shrine with the sanctum of Kailasanathar and a separate shrine for the Goddess Sivakami, a single Nandi facing the lord. In its wall niches stands Dakshinamurthy, the form of Shiva as the silent teacher seated beneath the banyan — a figure especially honoured at a shrine of Guru, the planet of wisdom and the teacher among the grahas. Steps lead down from the temple to the Tamiraparani.",
+    "legends": "In the Nava Kailasam story, the fifth of the lotuses set afloat by Agastya's disciple Romasa came to rest here, midway between the hills and the sea. The village's own name carries two homely stories: one says a woman of Murappanadu once drove away a tiger with nothing but a muram, the winnowing fan of every Tamil kitchen; the other says the ground here was strewn with flat stones, murambu, and the name grew from them.",
+    "festivals": "As the shrine of Guru, the temple draws devotees on Thursdays and at the transit of Jupiter, Guru Peyarchi, when special worship is offered. Maha Shivaratri and the monthly pradosham are kept through the year. Confirm dates locally.",
+    "experience": "Murappanadu is the easiest of the nine to reach, right beside the highway bridge, and its quiet riverside temple is the turning point of the Nava Kailasam round: from here the circuit continues downstream towards Srivaikuntam, Thenthiruperai, Rajapathy and the sea."
+  },
+  "visit": {
+    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Thursdays and Guru Peyarchi days are busiest. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "Murappanadu lies in Thoothukudi district on the Tirunelveli–Thoothukudi national highway, about 17 km from Tirunelveli and roughly 40–45 km from Thoothukudi; buses between the two cities stop here. Tirunelveli is the nearest railway junction and Thoothukudi the nearest airport."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kailasanathar-murappanadu.mp3",
+    "durationSec": 176
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "kailasanathar-srivaikuntam",
+  "locale": "en",
+  "name": "Kailasanathar Temple, Srivaikuntam",
+  "nativeName": "கைலாசநாதர் கோயில், ஸ்ரீவைகுண்டம்",
+  "deity": "Shiva as Kailasanathar, with the Goddess Sivakami",
+  "tradition": "Shaivism",
+  "location": {
+    "city": "Srivaikuntam",
+    "state": "Tamil Nadu",
+    "lat": 8.636,
+    "lng": 77.915
+  },
+  "period": "Sixth of the Nava Kailasam, the shrine of Saturn; a Pandya foundation given its halls under the Vijayanagara and Nayaka rulers",
+  "century": 13,
+  "dynasty": "Pandya, with Vijayanagara and Nayaka additions",
+  "style": "Dravidian",
+  "unesco": false,
+  "circuits": [
+    "nava-kailasam"
+  ],
+  "summary": "In Srivaikuntam on the Tamiraparani, a short walk from the town's famous Vishnu temple, Shiva as Kailasanathar keeps the sixth of the Nava Kailasam — the shrine of Sani, the planet Saturn.",
+  "sections": {
+    "history": "Srivaikuntam, a river town in Thoothukudi district some thirty kilometres east of Tirunelveli, is known to most pilgrims for its Vaikuntanatha Perumal temple, one of the Nava Tirupati. Its Kailasanathar temple belongs to the parallel Shaiva round of the Nava Kailasam, in which it is the sixth shrine and the seat of Sani, the planet Saturn. Tradition credits its foundation to a Pandya king remembered as Chandrakula Pandya, around the thirteenth century. In the sixteenth century, when the Vijayanagara rulers and then the Nayakas held the far south, pillared halls and major shrines were added, giving the temple much of the form it has today.",
+    "architecture": "The temple is laid out in the Dravidian manner within three precincts, but it greets the visitor in an unusual way: instead of a soaring pyramidal gopuram, a flat, low gateway marks the entrance. The modest front hides a richer interior, where Pandya-period work meets the pillared halls of the Nayaka age. Kailasanathar and the Goddess Sivakami have their own shrines, and Saneeswaran, the lord of Saturn, has a separate sanctum of his own, the focus of the many who come here as a Sani sthalam.",
+    "legends": "In the Nava Kailasam story, the sixth of the lotuses set afloat on the Tamiraparani by Romasa, the disciple of Agastya, came to rest at Srivaikuntam, and a linga was consecrated where it stopped. The temple's most loved figure, though, is Bhootanathar, a form of Sastha whose wooden image stands here as the guardian of the shrine. He is believed to keep watch through the night, and it is said that in earlier times the temple staff would hand him the keys when the doors were closed at the end of the day.",
+    "festivals": "The annual Brahmotsavam falls in the Tamil month of Chithirai (April–May), when Bhootanathar receives the first honours of the festival. As the Sani shrine of the circuit, the temple is busiest on Saturdays and at Sani Peyarchi, the transit of Saturn. Maha Shivaratri and the monthly pradosham are also kept. Confirm dates locally.",
+    "experience": "Many pilgrims visit Srivaikuntam for its Perumal temple and pass this shrine by; those who step inside find the quiet contrast of a plain gateway opening onto old pillared halls. Pausing before Saneeswaran and the guardian Bhootanathar, then walking down to the river, makes the visit complete."
+  },
+  "visit": {
+    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Saturdays and Sani Peyarchi days are busiest. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "Srivaikuntam lies in Thoothukudi district on the Tirunelveli–Tiruchendur road, about 30 km east of Tirunelveli and a similar distance from Thoothukudi. The town has a station on the Tirunelveli–Tiruchendur railway line; Tirunelveli is the nearest major junction and Thoothukudi the nearest airport. The Kailasanathar temple is separate from the Vaikuntanatha Perumal temple in the same town."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kailasanathar-srivaikuntam.mp3",
+    "durationSec": 193
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kailasanathar-srivaikuntam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kailasanathar Temple, Srivaikuntam",
+    "credit": "Rk root / Wikimedia Commons (CC BY-SA 4.0) · Booradleyp1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kailasanathar-srivaikuntam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kailasanathar-srivaikuntam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kailasanathar-srivaikuntam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kailasanathar-srivaikuntam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kailasanathar-srivaikuntam.jpg",
+    "durationSec": 143,
+    "credit": "Rk root / Wikimedia Commons (CC BY-SA 4.0) · Booradleyp1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  }
+}

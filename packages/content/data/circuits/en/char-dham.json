@@ -1,0 +1,15 @@
+{
+  "id": "char-dham",
+  "locale": "en",
+  "name": "Char Dham — the Four Sacred Abodes",
+  "nativeName": "चार धाम",
+  "theme": "The four abodes at the four corners of India associated with Adi Shankara: Badrinath, Puri, Rameswaram and Dwarka",
+  "region": "Pan-India (Uttarakhand, Odisha, Tamil Nadu, Gujarat)",
+  "description": "The Char Dham are four great pilgrimage seats set at the four quarters of India: Badrinath in the Himalaya to the north, Puri on the Bay of Bengal to the east, Rameswaram on the island off the southern coast and Dwarka on the Arabian Sea to the west. Tradition associates the grouping with Adi Shankara, whose mathas stand near three of them, and a full circuit has long been held to be the pilgrimage of a lifetime, traditionally made clockwise from the north. Three of the four are Vishnu shrines, honouring Badrinarayan, Jagannath and Dwarkadhish, while Rameswaram enshrines the linga worshipped by Rama, so that the round unites Vaishnava and Shaiva devotion across the whole subcontinent.",
+  "stops": [
+    "badrinarayan-badrinath",
+    "jagannath-puri",
+    "ramanathaswamy-rameswaram",
+    "dwarakadhish-dwarka"
+  ]
+}

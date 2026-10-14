@@ -1,0 +1,57 @@
+{
+  "id": "triprayar-rama",
+  "locale": "en",
+  "name": "Triprayar Sree Rama Temple",
+  "nativeName": "തൃപ്രയാർ ശ്രീരാമസ്വാമി ക്ഷേത്രം",
+  "deity": "Vishnu as Rama, worshipped as Sree Ramaswamy, the four-armed Thriprayar Thevar",
+  "tradition": "Vaishnavism",
+  "location": {
+    "city": "Triprayar",
+    "state": "Kerala",
+    "lat": 10.4142,
+    "lng": 76.1155
+  },
+  "period": "Traditionally ancient; held by the Zamorins of Calicut and later the rulers of Cochin",
+  "century": 17,
+  "dynasty": "Kerala (Zamorin and Cochin patronage)",
+  "style": "Classical Kerala",
+  "unesco": false,
+  "circuits": [
+    "nalambalam"
+  ],
+  "summary": "On the bank of the Theevra river near the Kerala coast, Triprayar's four-armed Rama is the first temple of the Nalambalam pilgrimage and the presiding lord of the ancient Arattupuzha Pooram.",
+  "sections": {
+    "history": "Triprayar's beginnings belong to tradition rather than record. The image of Rama is said to have been worshipped by Krishna himself at Dwaraka; when that city sank beneath the sea, the waters carried it to the Kerala shore near Chettuva, where fishermen drew it up together with images of Rama's three brothers. The local chieftain Vakkayil Kaimal, guided by an astrological consultation, installed the four in separate shrines: Rama here at Triprayar, Bharata at Irinjalakuda, Lakshmana at Moozhikkulam and Shatrughna at Payammal — the four temples that make up the Nalambalam. In historical times the temple lay within the domain of the Zamorins of Calicut, passed through the hands of the Dutch and the Mysore sultans, and came at last to the rulers of Cochin. It is administered today by the Cochin Devaswom Board.",
+    "architecture": "Triprayar is built in the Kerala manner, low and enclosed beside the river. Its sanctum is a circular srikovil beneath a conical roof sheathed in copper, and the temple is celebrated above all for its woodwork: carvings on the sanctum walls tell episodes of the Ramayana, and the copper-roofed namaskara mandapam before the shrine carries twenty-four carved wooden panels, among them the nine planetary deities. Within, Rama stands four-armed, bearing the conch, the discus, the bow and a garland — a form that shows him at once as Vishnu and as the warrior-prince of the epic.",
+    "legends": "Devotion holds that the image shows Rama just after he slew the demon Khara in the Dandaka forest, so that a trace of fierce power still clings to the Lord here. Hanuman is believed to be present though no image of him stands in the temple, and tradition marks a spot in the precinct with his arrival bearing news of Sita. Chathan, a guardian spirit, is also bound up with the shrine, and the offering called Chathan Bhandaram is made to ward off evil influences. Most charming is Meenoottu, in which devotees feed the fish of the river beside the temple as an offering to Rama.",
+    "festivals": "Ekadashi in the Malayalam month of Vrishchikam (November–December) is Triprayar's own great day, when Rama goes out in stately procession with elephants. In Meenam (March–April), Thriprayar Thevar travels to the Arattupuzha Pooram, where he presides over the gathering of deities from the surrounding villages, one of the oldest temple festivals in Kerala. In Karkidakam (July–August) the Nalambalam pilgrimage begins here. Confirm dates locally.",
+    "experience": "Triprayar is a quiet, river-bound temple, and the slow curve of the Theevra past its walls sets the mood. In Karkidakam the precinct fills before dawn with Nalambalam pilgrims eager to begin their round, many reciting the Ramayana as they wait. At other times it is unhurried: pause at the water's edge, where families feed the fish, and look closely at the carved panels of the namaskara mandapam before moving on."
+  },
+  "visit": {
+    "timings": "Open daily from early morning with a midday closure, and again in the evening; hours are extended during Karkidakam for Nalambalam pilgrims. Confirm timings locally.",
+    "dressCode": "Traditional Kerala temple dress applies: men wear a mundu (dhoti) and remove their shirts before entering; women wear a saree, set-mundu or churidar. Entry is generally reserved for Hindus, per Kerala custom.",
+    "photography": "Photography is not permitted inside the temple; the riverside and outer surroundings may be photographed.",
+    "gettingThere": "Triprayar lies on the coastal highway (NH 66) in Thrissur district, about 25 km south-west of Thrissur, which has the nearest major railway station; Kochi international airport is roughly 60 km away by road. The Nalambalam round continues south to Irinjalakuda, about 20 km away."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/triprayar-rama.mp3",
+    "durationSec": 236
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/triprayar-rama.jpg",
+    "color": "#5C3A2E",
+    "alt": "Triprayar Sree Rama Temple",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/triprayar-rama.avif",
+      "webp": "https://media.dsquaregee.com/heroes/triprayar-rama.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/triprayar-rama.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/triprayar-rama.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/triprayar-rama.jpg",
+    "durationSec": 178,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  }
+}
