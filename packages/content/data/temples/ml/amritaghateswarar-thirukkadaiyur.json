@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/amritaghateswarar-thirukkadaiyur.mp3",
     "durationSec": 208
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/amritaghateswarar-thirukkadaiyur.jpg",
+    "color": "#5C3A2E",
+    "alt": "അമൃതഘടേശ്വര – അഭിരാമി ക്ഷേത്രം, തിരുക്കടയൂർ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Portvp / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/amritaghateswarar-thirukkadaiyur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/amritaghateswarar-thirukkadaiyur.jpg",
+    "durationSec": 161,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Portvp / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

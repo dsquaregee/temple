@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/payammal-shatrughna.mp3",
     "durationSec": 188
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/payammal-shatrughna.jpg",
+    "color": "#5C3A2E",
+    "alt": "पायम्मल शत्रुघ्न मंदिर",
+    "credit": "Challiyan / Wikimedia Commons (CC BY-SA 3.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/payammal-shatrughna.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/payammal-shatrughna.jpg",
+    "durationSec": 168,
+    "credit": "Challiyan / Wikimedia Commons (CC BY-SA 3.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

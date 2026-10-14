@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/vittala-hampi.mp3",
     "durationSec": 233
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vittala-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "விஜய விட்டலர் கோயில், ஹம்பி",
+    "credit": "Suraj S Rao / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/vittala-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vittala-hampi.jpg",
+    "durationSec": 221,
+    "credit": "Suraj S Rao / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

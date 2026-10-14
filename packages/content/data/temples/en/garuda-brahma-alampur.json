@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/garuda-brahma-alampur.mp3",
     "durationSec": 204
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Garuda Brahma Temple, Alampur",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/garuda-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.jpg",
+    "durationSec": 155,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

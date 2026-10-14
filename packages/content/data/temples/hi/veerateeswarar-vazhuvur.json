@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/veerateeswarar-vazhuvur.mp3",
     "durationSec": 183
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/veerateeswarar-vazhuvur.jpg",
+    "color": "#5C3A2E",
+    "alt": "वीरट्टेश्वर मंदिर, वळुवूर",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/veerateeswarar-vazhuvur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/veerateeswarar-vazhuvur.jpg",
+    "durationSec": 168,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

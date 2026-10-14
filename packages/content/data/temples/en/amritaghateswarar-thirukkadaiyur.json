@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/amritaghateswarar-thirukkadaiyur.mp3",
     "durationSec": 213
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/amritaghateswarar-thirukkadaiyur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Amritaghateswarar-Abirami Temple, Thirukkadaiyur",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Portvp / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/amritaghateswarar-thirukkadaiyur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/amritaghateswarar-thirukkadaiyur.jpg",
+    "durationSec": 165,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Portvp / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/veerateeswarar-thiruvirkudi.mp3",
     "durationSec": 173
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/veerateeswarar-thiruvirkudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವೀರಟ್ಟೇಶ್ವರ ದೇವಾಲಯ, ತಿರುವಿಱ್ಱುಕುಡಿ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/veerateeswarar-thiruvirkudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/veerateeswarar-thiruvirkudi.jpg",
+    "durationSec": 173,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

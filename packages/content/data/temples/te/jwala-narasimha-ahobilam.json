@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/jwala-narasimha-ahobilam.mp3",
     "durationSec": 161
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jwala-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "జ్వాలా నరసింహ ఆలయం, అహోబిలం",
+    "credit": "Varunmydala / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar from Bangalore, India / Wikimedia Commons (CC BY-SA 2.0) · Bharat Kumar Jonnalagadda @ Malkum / Wikimedia Commons (CC BY-SA 4.0) · Chaduvari / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/jwala-narasimha-ahobilam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jwala-narasimha-ahobilam.jpg",
+    "durationSec": 172,
+    "credit": "Varunmydala / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar from Bangalore, India / Wikimedia Commons (CC BY-SA 2.0) · Bharat Kumar Jonnalagadda @ Malkum / Wikimedia Commons (CC BY-SA 4.0) · Chaduvari / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

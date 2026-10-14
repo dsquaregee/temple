@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/triprayar-rama.mp3",
     "durationSec": 236
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/triprayar-rama.jpg",
+    "color": "#5C3A2E",
+    "alt": "Triprayar Sree Rama Temple",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/triprayar-rama.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/triprayar-rama.jpg",
+    "durationSec": 178,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

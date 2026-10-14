@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/chatravata-narasimha-ahobilam.mp3",
     "durationSec": 143
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/chatravata-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ഛത്രവട നരസിംഹ ക്ഷേത്രം, അഹോബിലം",
+    "credit": "Veera Narayana / Wikimedia Commons (CC BY 4.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/apatsahayar-thirupazhanam.mp3",
     "durationSec": 201
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/apatsahayar-thirupazhanam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ആപത്സഹായർ ക്ഷേത്രം, തിരുപ്പഴനം",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/apatsahayar-thirupazhanam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/apatsahayar-thirupazhanam.jpg",
+    "durationSec": 151,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

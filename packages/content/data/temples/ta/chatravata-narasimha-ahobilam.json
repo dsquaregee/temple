@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/chatravata-narasimha-ahobilam.mp3",
     "durationSec": 146
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/chatravata-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "சத்ரவட நரசிம்மர் கோயில், அகோபிலம்",
+    "credit": "Veera Narayana / Wikimedia Commons (CC BY 4.0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/yogananda-narasimha-ahobilam.mp3",
     "durationSec": 133
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yogananda-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "యోగానంద నరసింహ ఆలయం, అహోబిలం",
+    "credit": "Veera Narayana / Wikimedia Commons (CC BY 4.0) · Chaduvari / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/krishna-hampi.mp3",
     "durationSec": 248
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/krishna-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "கிருஷ்ணர் கோயில், ஹம்பி",
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0) · AmlanTheTramp (Amlan Chakraborty) / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/krishna-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/krishna-hampi.jpg",
+    "durationSec": 238,
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0) · AmlanTheTramp (Amlan Chakraborty) / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

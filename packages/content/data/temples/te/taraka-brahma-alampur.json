@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/taraka-brahma-alampur.mp3",
     "durationSec": 193
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/taraka-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "తారక బ్రహ్మ ఆలయం, అలంపూర్",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/taraka-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/taraka-brahma-alampur.jpg",
+    "durationSec": 209,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

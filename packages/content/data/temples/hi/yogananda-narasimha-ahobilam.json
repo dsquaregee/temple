@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/yogananda-narasimha-ahobilam.mp3",
     "durationSec": 135
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yogananda-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "योगानंद नरसिंह मंदिर, अहोबिलम्",
+    "credit": "Veera Narayana / Wikimedia Commons (CC BY 4.0) · Chaduvari / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

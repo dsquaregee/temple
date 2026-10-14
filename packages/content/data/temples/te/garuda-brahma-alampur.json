@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/garuda-brahma-alampur.mp3",
     "durationSec": 189
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "గరుడ బ్రహ్మ ఆలయం, అలంపూర్",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/garuda-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.jpg",
+    "durationSec": 203,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/vishwa-brahma-alampur.mp3",
     "durationSec": 173
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vishwa-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವಿಶ್ವ ಬ್ರಹ್ಮ ದೇವಾಲಯ, ಆಲಂಪುರ",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/vishwa-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vishwa-brahma-alampur.jpg",
+    "durationSec": 178,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

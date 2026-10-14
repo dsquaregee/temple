@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kodandarama-hampi.mp3",
     "durationSec": 218
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kodandarama-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kodandarama Temple, Hampi",
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · P. Madhusudan / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kodandarama-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kodandarama-hampi.jpg",
+    "durationSec": 156,
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · P. Madhusudan / Wikimedia Commons (CC0)"
   }
 }

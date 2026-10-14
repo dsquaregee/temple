@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/garuda-brahma-alampur.mp3",
     "durationSec": 193
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಗರುಡ ಬ್ರಹ್ಮ ದೇವಾಲಯ, ಆಲಂಪುರ",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/garuda-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.jpg",
+    "durationSec": 199,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

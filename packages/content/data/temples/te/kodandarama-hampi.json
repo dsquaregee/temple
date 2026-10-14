@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/kodandarama-hampi.mp3",
     "durationSec": 193
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kodandarama-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "కోదండరామ దేవాలయం, హంపి",
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · P. Madhusudan / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/kodandarama-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kodandarama-hampi.jpg",
+    "durationSec": 209,
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · P. Madhusudan / Wikimedia Commons (CC0)"
   }
 }

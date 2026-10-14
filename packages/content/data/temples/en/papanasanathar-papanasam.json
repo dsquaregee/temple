@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/papanasanathar-papanasam.mp3",
     "durationSec": 229
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Papanasanathar Temple, Papanasam",
+    "credit": "Sukumaran sundar / Wikimedia Commons (CC BY-SA 3.0) · MaRISELVAM (talk) / Wikimedia Commons (CC BY 3.0) · Muthuraman99 / Wikimedia Commons (CC BY 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/papanasanathar-papanasam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
+    "durationSec": 165,
+    "credit": "Sukumaran sundar / Wikimedia Commons (CC BY-SA 3.0) · MaRISELVAM (talk) / Wikimedia Commons (CC BY 3.0) · Muthuraman99 / Wikimedia Commons (CC BY 3.0)"
   }
 }

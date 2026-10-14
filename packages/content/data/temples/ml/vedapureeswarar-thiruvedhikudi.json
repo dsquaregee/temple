@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/vedapureeswarar-thiruvedhikudi.mp3",
     "durationSec": 176
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "വേദപുരീശ്വരർ ക്ഷേത്രം, തിരുവേദിക്കുടി",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/vedapureeswarar-thiruvedhikudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.jpg",
+    "durationSec": 129,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

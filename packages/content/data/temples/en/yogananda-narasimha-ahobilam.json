@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/yogananda-narasimha-ahobilam.mp3",
     "durationSec": 151
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yogananda-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Yogananda Narasimha Temple, Ahobilam",
+    "credit": "Veera Narayana / Wikimedia Commons (CC BY 4.0) · Chaduvari / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

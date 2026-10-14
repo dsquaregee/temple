@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/karanja-narasimha-ahobilam.mp3",
     "durationSec": 147
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/karanja-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "കാരഞ്ച നരസിംഹ ക്ഷേത്രം, അഹോബിലം",
+    "credit": "Chaduvari / Wikimedia Commons (CC BY-SA 4.0) · Veera Narayana / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/karanja-narasimha-ahobilam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/karanja-narasimha-ahobilam.jpg",
+    "durationSec": 113,
+    "credit": "Chaduvari / Wikimedia Commons (CC BY-SA 4.0) · Veera Narayana / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

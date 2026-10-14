@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/odhanavaneswarar-thiruchotruthurai.mp3",
     "durationSec": 164
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/odhanavaneswarar-thiruchotruthurai.jpg",
+    "color": "#5C3A2E",
+    "alt": "ओदनवनेश्वर मंदिर, तिरुच्चोट्रुत्तुरै",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/odhanavaneswarar-thiruchotruthurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/odhanavaneswarar-thiruchotruthurai.jpg",
+    "durationSec": 149,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

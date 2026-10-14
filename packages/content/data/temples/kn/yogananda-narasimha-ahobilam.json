@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/yogananda-narasimha-ahobilam.mp3",
     "durationSec": 131
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yogananda-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಯೋಗಾನಂದ ನರಸಿಂಹ ದೇವಾಲಯ, ಅಹೋಬಿಲಂ",
+    "credit": "Veera Narayana / Wikimedia Commons (CC BY 4.0) · Chaduvari / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

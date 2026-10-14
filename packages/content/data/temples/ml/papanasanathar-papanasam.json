@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/papanasanathar-papanasam.mp3",
     "durationSec": 209
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
+    "color": "#5C3A2E",
+    "alt": "പാപനാശനാഥർ ക്ഷേത്രം, പാപനാശം",
+    "credit": "Sukumaran sundar / Wikimedia Commons (CC BY-SA 3.0) · MaRISELVAM (talk) / Wikimedia Commons (CC BY 3.0) · Muthuraman99 / Wikimedia Commons (CC BY 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/papanasanathar-papanasam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
+    "durationSec": 161,
+    "credit": "Sukumaran sundar / Wikimedia Commons (CC BY-SA 3.0) · MaRISELVAM (talk) / Wikimedia Commons (CC BY 3.0) · Muthuraman99 / Wikimedia Commons (CC BY 3.0)"
   }
 }

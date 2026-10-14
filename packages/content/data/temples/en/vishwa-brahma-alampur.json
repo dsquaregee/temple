@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vishwa-brahma-alampur.mp3",
     "durationSec": 190
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vishwa-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Vishwa Brahma Temple, Alampur",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/vishwa-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vishwa-brahma-alampur.jpg",
+    "durationSec": 139,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

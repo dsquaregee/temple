@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/hemakuta-hampi.mp3",
     "durationSec": 209
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/hemakuta-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಹೇಮಕೂಟ ಬೆಟ್ಟದ ದೇವಾಲಯಗಳು, ಹಂಪೆ",
+    "credit": "Mrmanoj1312 / Wikimedia Commons (CC BY-SA 4.0) · Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/hemakuta-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/hemakuta-hampi.jpg",
+    "durationSec": 223,
+    "credit": "Mrmanoj1312 / Wikimedia Commons (CC BY-SA 4.0) · Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

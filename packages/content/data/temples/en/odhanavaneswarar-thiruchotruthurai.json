@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/odhanavaneswarar-thiruchotruthurai.mp3",
     "durationSec": 183
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/odhanavaneswarar-thiruchotruthurai.jpg",
+    "color": "#5C3A2E",
+    "alt": "Odhanavaneswarar Temple, Thiruchotruthurai",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/odhanavaneswarar-thiruchotruthurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/odhanavaneswarar-thiruchotruthurai.jpg",
+    "durationSec": 134,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

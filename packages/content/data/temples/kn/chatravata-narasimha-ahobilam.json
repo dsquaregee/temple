@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/chatravata-narasimha-ahobilam.mp3",
     "durationSec": 130
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/chatravata-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಛತ್ರವಟ ನರಸಿಂಹ ದೇವಾಲಯ, ಅಹೋಬಿಲಂ",
+    "credit": "Veera Narayana / Wikimedia Commons (CC BY 4.0)"
   }
 }

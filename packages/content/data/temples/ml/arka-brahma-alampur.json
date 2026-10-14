@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/arka-brahma-alampur.mp3",
     "durationSec": 189
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "അർക്ക ബ്രഹ്മ ക്ഷേത്രം, ആലംപൂർ",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/arka-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.jpg",
+    "durationSec": 148,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

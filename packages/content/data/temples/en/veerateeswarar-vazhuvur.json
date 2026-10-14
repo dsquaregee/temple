@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/veerateeswarar-vazhuvur.mp3",
     "durationSec": 201
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/veerateeswarar-vazhuvur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Veerateeswarar Temple, Vazhuvur",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/veerateeswarar-vazhuvur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/veerateeswarar-vazhuvur.jpg",
+    "durationSec": 151,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

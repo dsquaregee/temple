@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/apatsahayar-thirupazhanam.mp3",
     "durationSec": 177
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/apatsahayar-thirupazhanam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಆಪತ್ಸಹಾಯರ್ ದೇವಾಲಯ, ತಿರುಪ್ಪಳನಂ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/apatsahayar-thirupazhanam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/apatsahayar-thirupazhanam.jpg",
+    "durationSec": 185,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

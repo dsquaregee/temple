@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/malyavanta-raghunatha-hampi.mp3",
     "durationSec": 205
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/malyavanta-raghunatha-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "മാല്യവന്ത രഘുനാഥ ക്ഷേത്രം, ഹംപി",
+    "credit": "Rupeshsarkar / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/malyavanta-raghunatha-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/malyavanta-raghunatha-hampi.jpg",
+    "durationSec": 159,
+    "credit": "Rupeshsarkar / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

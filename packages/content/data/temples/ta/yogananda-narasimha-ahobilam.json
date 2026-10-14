@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/yogananda-narasimha-ahobilam.mp3",
     "durationSec": 145
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yogananda-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "யோகானந்த நரசிம்மர் கோயில், அகோபிலம்",
+    "credit": "Veera Narayana / Wikimedia Commons (CC BY 4.0) · Chaduvari / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/achyutaraya-hampi.mp3",
     "durationSec": 175
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/achyutaraya-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಅಚ್ಯುತರಾಯ ದೇವಾಲಯ, ಹಂಪೆ",
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/achyutaraya-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/achyutaraya-hampi.jpg",
+    "durationSec": 195,
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/arka-brahma-alampur.mp3",
     "durationSec": 168
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಅರ್ಕ ಬ್ರಹ್ಮ ದೇವಾಲಯ, ಆಲಂಪುರ",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/arka-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.jpg",
+    "durationSec": 181,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

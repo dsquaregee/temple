@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/padma-brahma-alampur.mp3",
     "durationSec": 189
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/padma-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಪದ್ಮ ಬ್ರಹ್ಮ ದೇವಾಲಯ, ಆಲಂಪುರ",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/padma-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/padma-brahma-alampur.jpg",
+    "durationSec": 194,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

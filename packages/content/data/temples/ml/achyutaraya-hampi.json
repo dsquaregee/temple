@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/achyutaraya-hampi.mp3",
     "durationSec": 200
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/achyutaraya-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "അച്യുതരായ ക്ഷേത്രം, ഹംപി",
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/achyutaraya-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/achyutaraya-hampi.jpg",
+    "durationSec": 160,
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/chatravata-narasimha-ahobilam.mp3",
     "durationSec": 132
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/chatravata-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ఛత్రవట నరసింహ ఆలయం, అహోబిలం",
+    "credit": "Veera Narayana / Wikimedia Commons (CC BY 4.0)"
   }
 }

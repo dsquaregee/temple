@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/vishwa-brahma-alampur.mp3",
     "durationSec": 171
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vishwa-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "विश्व ब्रह्म मंदिर, आलमपुर",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/vishwa-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vishwa-brahma-alampur.jpg",
+    "durationSec": 155,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

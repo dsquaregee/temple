@@ -37,5 +37,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/jogulamba-alampur.mp3",
     "durationSec": 190
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jogulamba-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "जोगुलांबा मंदिर, आलमपुर",
+    "credit": "A.Murali / Wikimedia Commons (CC0) · SSkavi / Wikimedia Commons (CC BY-SA 4.0) · Bmanohar goud / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/jogulamba-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jogulamba-alampur.jpg",
+    "durationSec": 171,
+    "credit": "A.Murali / Wikimedia Commons (CC0) · SSkavi / Wikimedia Commons (CC BY-SA 4.0) · Bmanohar goud / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

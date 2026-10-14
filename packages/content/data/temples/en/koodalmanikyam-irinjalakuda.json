@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/koodalmanikyam-irinjalakuda.mp3",
     "durationSec": 235
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/koodalmanikyam-irinjalakuda.jpg",
+    "color": "#5C3A2E",
+    "alt": "Koodalmanikyam Temple, Irinjalakuda",
+    "credit": "Pyngodan / Wikimedia Commons (CC BY 2.0) · Aruna at ml.wikipedia / Wikimedia Commons (CC BY-SA 3.0) · Anoop.p.1985 / Wikimedia Commons (Public domain)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/koodalmanikyam-irinjalakuda.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/koodalmanikyam-irinjalakuda.jpg",
+    "durationSec": 177,
+    "credit": "Pyngodan / Wikimedia Commons (CC BY 2.0) · Aruna at ml.wikipedia / Wikimedia Commons (CC BY-SA 3.0) · Anoop.p.1985 / Wikimedia Commons (Public domain)"
   }
 }

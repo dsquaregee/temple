@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/triprayar-rama.mp3",
     "durationSec": 234
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/triprayar-rama.jpg",
+    "color": "#5C3A2E",
+    "alt": "തൃപ്രയാർ ശ്രീരാമസ്വാമി ക്ഷേത്രം",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/triprayar-rama.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/triprayar-rama.jpg",
+    "durationSec": 177,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

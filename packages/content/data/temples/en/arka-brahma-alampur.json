@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/arka-brahma-alampur.mp3",
     "durationSec": 184
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Arka Brahma Temple, Alampur",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/arka-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.jpg",
+    "durationSec": 142,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

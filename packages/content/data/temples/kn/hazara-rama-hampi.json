@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/hazara-rama-hampi.mp3",
     "durationSec": 186
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/hazara-rama-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಹಜಾರ ರಾಮ ದೇವಾಲಯ, ಹಂಪೆ",
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/hazara-rama-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/hazara-rama-hampi.jpg",
+    "durationSec": 205,
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

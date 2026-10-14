@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/bala-brahma-alampur.mp3",
     "durationSec": 240
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/bala-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "பால பிரம்மா கோயில், ஆலம்பூர்",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/bala-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bala-brahma-alampur.jpg",
+    "durationSec": 230,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

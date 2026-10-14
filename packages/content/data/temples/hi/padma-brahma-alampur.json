@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/padma-brahma-alampur.mp3",
     "durationSec": 186
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/padma-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "पद्म ब्रह्म मंदिर, आलमपुर",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/padma-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/padma-brahma-alampur.jpg",
+    "durationSec": 169,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

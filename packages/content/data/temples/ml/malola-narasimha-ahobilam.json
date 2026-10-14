@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/malola-narasimha-ahobilam.mp3",
     "durationSec": 177
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/malola-narasimha-ahobilam.jpg",
+    "color": "#5C3A2E",
+    "alt": "മാലോല നരസിംഹ ക്ഷേത്രം, അഹോബിലം",
+    "credit": "Veera Narayana / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

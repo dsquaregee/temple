@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/vedapureeswarar-thiruvedhikudi.mp3",
     "durationSec": 179
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "வேதபுரீஸ்வரர் கோயில், திருவேதிகுடி",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/vedapureeswarar-thiruvedhikudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.jpg",
+    "durationSec": 166,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

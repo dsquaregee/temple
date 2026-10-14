@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/payammal-shatrughna.mp3",
     "durationSec": 197
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/payammal-shatrughna.jpg",
+    "color": "#5C3A2E",
+    "alt": "பாயம்மல் சத்ருக்னர் கோயில்",
+    "credit": "Challiyan / Wikimedia Commons (CC BY-SA 3.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/payammal-shatrughna.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/payammal-shatrughna.jpg",
+    "durationSec": 181,
+    "credit": "Challiyan / Wikimedia Commons (CC BY-SA 3.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
