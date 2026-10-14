@@ -34,14 +34,30 @@
     "brahmapureeswarar-thirukkuvalai",
     "vaimurnathar-thiruvaimur",
     "vedaranyeswarar-vedaranyam",
+    "ketheeswarar-mannar",
     "meenakshi-madurai",
     "appudaiyar-sellur",
     "thiruparankundram-murugan",
+    "edaganathar-thiruvedagam",
+    "kodunkundreesar-piranmalai",
+    "thiruthalinathar-thiruppathur",
+    "pazhampathinathar-thiruppunavayil",
     "ramanathaswamy-rameswaram",
+    "adhiratneswarar-thiruvadanai",
     "kaleeswarar-kalayarkoil",
+    "pushpavaneswarar-thirupuvanam",
+    "thirumeninathar-thiruchuzhi",
     "kutralanathar-courtallam",
     "nellaiappar-tirunelveli",
+    "anjaikalathappar-thiruvanchikulam",
+    "sangameswarar-bhavani",
+    "ardhanareeswarar-tiruchengode",
     "thirumuruganatheswarar-thirumuruganpoondi",
+    "magudeswarar-kodumudi",
+    "avinashilingeswarar-avinashi",
+    "vigirtheeswarar-venjamakoodal",
+    "theerthapureeswarar-thiruvattathurai",
+    "pralayakaleswarar-pennadam",
     "veerattaneswarar-thiruvathigai",
     "veerattaneswarar-thirukkovilur",
     "arunachaleswarar",
@@ -94,29 +110,57 @@
       ]
     },
     {
+      "id": "eezha-nadu",
+      "name": "Eezha Nadu (Sri Lanka)",
+      "stops": [
+        "ketheeswarar-mannar"
+      ]
+    },
+    {
       "id": "pandya-nadu",
       "name": "Pandya Nadu",
       "stops": [
         "meenakshi-madurai",
         "appudaiyar-sellur",
         "thiruparankundram-murugan",
+        "edaganathar-thiruvedagam",
+        "kodunkundreesar-piranmalai",
+        "thiruthalinathar-thiruppathur",
+        "pazhampathinathar-thiruppunavayil",
         "ramanathaswamy-rameswaram",
+        "adhiratneswarar-thiruvadanai",
         "kaleeswarar-kalayarkoil",
+        "pushpavaneswarar-thirupuvanam",
+        "thirumeninathar-thiruchuzhi",
         "kutralanathar-courtallam",
         "nellaiappar-tirunelveli"
+      ]
+    },
+    {
+      "id": "malai-nadu",
+      "name": "Malai Nadu",
+      "stops": [
+        "anjaikalathappar-thiruvanchikulam"
       ]
     },
     {
       "id": "kongu-nadu",
       "name": "Kongu Nadu",
       "stops": [
-        "thirumuruganatheswarar-thirumuruganpoondi"
+        "sangameswarar-bhavani",
+        "ardhanareeswarar-tiruchengode",
+        "thirumuruganatheswarar-thirumuruganpoondi",
+        "magudeswarar-kodumudi",
+        "avinashilingeswarar-avinashi",
+        "vigirtheeswarar-venjamakoodal"
       ]
     },
     {
       "id": "nadu-nadu",
       "name": "Nadu Nadu",
       "stops": [
+        "theerthapureeswarar-thiruvattathurai",
+        "pralayakaleswarar-pennadam",
         "veerattaneswarar-thiruvathigai",
         "veerattaneswarar-thirukkovilur",
         "arunachaleswarar"
