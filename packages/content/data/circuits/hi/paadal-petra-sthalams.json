@@ -1,0 +1,151 @@
+{
+  "id": "paadal-petra-sthalams",
+  "locale": "hi",
+  "name": "पाडल पेट्र स्थलम — तेवारम के 276 मंदिर",
+  "nativeName": "பாடல் பெற்ற தலங்கள்",
+  "theme": "अप्पर, संबंदर और सुंदरर के तेवारम भजनों में वंदित शिव के 276 मंदिर, तमिल देश के पारंपरिक क्षेत्रों और उससे आगे के अनुसार वर्गीकृत",
+  "region": "तमिलनाडु, पुदुच्चेरी, केरल, कर्नाटक, आंध्र प्रदेश, उत्तराखंड, तिब्बत और श्रीलंका",
+  "description": "पाडल पेट्र स्थलम — शाब्दिक अर्थ 'वे स्थान जिन्हें गीत प्राप्त हुआ' — तेवारम में वंदित शिव के मंदिर हैं। तेवारम तीन महान नायनार संतों — तिरुज्ञानसंबंदर, तिरुनावुक्करसर (अप्पर) और सुंदरर — के भजन हैं, जो 7वीं से 9वीं शताब्दी के बीच पूरे तमिल देश में एक तीर्थ से दूसरे तीर्थ तक गाते हुए चले। उनके भजन तमिल भक्ति के शैव धर्मग्रंथ-संग्रह तिरुमुरै के प्रथम सात ग्रंथों में संकलित किए गए, और उनके द्वारा नामित 276 मंदिर तमिल शैव परंपरा की महान तीर्थयात्रा बन गए — वैष्णवों के 108 दिव्य देशों के समकक्ष। परंपरा इन्हें क्षेत्रों के अनुसार वर्गीकृत करती है: सबसे अधिक मंदिर कावेरी के दोनों तटों पर बसे चोल नाडु में हैं; अन्य पांड्य नाडु, कोंगु नाडु, नडु नाडु और तोंडै नाडु में हैं; केरल में एक और तुळु तट पर एक, श्रीलंका में दो, और उत्तर में पाँच — श्रीशैलम से केदारनाथ तक, स्वयं कैलास सहित। इनमें से अनेक छोटे ग्रामीण मंदिर हैं जहाँ आज भी प्रतिदिन तेवारम का गान होता है; अन्य भारत के महान मंदिरों में गिने जाते हैं। नीचे दिए गए क्षेत्र चरणबद्ध रूप से ऐप में जोड़े जा रहे हैं, और प्रत्येक क्षेत्र मार्ग-मानचित्र के साथ अपने अलग पृष्ठ के रूप में खुलता है।",
+  "stops": [
+    "nataraja-chidambaram",
+    "thiruvenkadu-swetaranyeswarar",
+    "vaitheeswaran-koil",
+    "veerateeswarar-korukkai",
+    "kanjanur-agneeswarar",
+    "apatsahayar-thirupazhanam",
+    "aiyarappar-thiruvaiyaru",
+    "neyyadiappar-thillaisthanam",
+    "jambukeswarar",
+    "pushpavananathar-thirupoonthuruthi",
+    "brahmasirakandeeswarar-thirukandiyur",
+    "odhanavaneswarar-thiruchotruthurai",
+    "vedapureeswarar-thiruvedhikudi",
+    "adi-kumbeswarar-kumbakonam",
+    "thirunageswaram-naganathaswamy",
+    "thiruvidaimarudur-mahalingaswamy",
+    "veerateeswarar-thirupariyalur",
+    "amritaghateswarar-thirukkadaiyur",
+    "thirunallar-dharbaranyeswarar",
+    "veerateeswarar-thiruvirkudi",
+    "kayarohanaswamy-nagapattinam",
+    "thyagaraja-thiruvarur",
+    "alangudi-apatsahayesvarar",
+    "kannayiramudayar-thirukaravasal",
+    "brahmapureeswarar-thirukkuvalai",
+    "vaimurnathar-thiruvaimur",
+    "vedaranyeswarar-vedaranyam",
+    "meenakshi-madurai",
+    "appudaiyar-sellur",
+    "thiruparankundram-murugan",
+    "ramanathaswamy-rameswaram",
+    "kaleeswarar-kalayarkoil",
+    "kutralanathar-courtallam",
+    "nellaiappar-tirunelveli",
+    "thirumuruganatheswarar-thirumuruganpoondi",
+    "veerattaneswarar-thiruvathigai",
+    "veerattaneswarar-thirukkovilur",
+    "arunachaleswarar",
+    "ekambareswarar",
+    "thiruvalangadu-vadaranyeswarar",
+    "kapaleeshwarar-mylapore",
+    "srikalahasti",
+    "gokarna-mahabaleshwara",
+    "srisailam-mallikarjuna",
+    "kedarnath"
+  ],
+  "groups": [
+    {
+      "id": "chola-nadu-north",
+      "name": "चोल नाडु — कावेरी का उत्तरी तट",
+      "stops": [
+        "nataraja-chidambaram",
+        "thiruvenkadu-swetaranyeswarar",
+        "vaitheeswaran-koil",
+        "veerateeswarar-korukkai",
+        "kanjanur-agneeswarar",
+        "apatsahayar-thirupazhanam",
+        "aiyarappar-thiruvaiyaru",
+        "neyyadiappar-thillaisthanam",
+        "jambukeswarar"
+      ]
+    },
+    {
+      "id": "chola-nadu-south",
+      "name": "चोल नाडु — कावेरी का दक्षिणी तट",
+      "stops": [
+        "pushpavananathar-thirupoonthuruthi",
+        "brahmasirakandeeswarar-thirukandiyur",
+        "odhanavaneswarar-thiruchotruthurai",
+        "vedapureeswarar-thiruvedhikudi",
+        "adi-kumbeswarar-kumbakonam",
+        "thirunageswaram-naganathaswamy",
+        "thiruvidaimarudur-mahalingaswamy",
+        "veerateeswarar-thirupariyalur",
+        "amritaghateswarar-thirukkadaiyur",
+        "thirunallar-dharbaranyeswarar",
+        "veerateeswarar-thiruvirkudi",
+        "kayarohanaswamy-nagapattinam",
+        "thyagaraja-thiruvarur",
+        "alangudi-apatsahayesvarar",
+        "kannayiramudayar-thirukaravasal",
+        "brahmapureeswarar-thirukkuvalai",
+        "vaimurnathar-thiruvaimur",
+        "vedaranyeswarar-vedaranyam"
+      ]
+    },
+    {
+      "id": "pandya-nadu",
+      "name": "पांड्य नाडु",
+      "stops": [
+        "meenakshi-madurai",
+        "appudaiyar-sellur",
+        "thiruparankundram-murugan",
+        "ramanathaswamy-rameswaram",
+        "kaleeswarar-kalayarkoil",
+        "kutralanathar-courtallam",
+        "nellaiappar-tirunelveli"
+      ]
+    },
+    {
+      "id": "kongu-nadu",
+      "name": "कोंगु नाडु",
+      "stops": [
+        "thirumuruganatheswarar-thirumuruganpoondi"
+      ]
+    },
+    {
+      "id": "nadu-nadu",
+      "name": "नडु नाडु",
+      "stops": [
+        "veerattaneswarar-thiruvathigai",
+        "veerattaneswarar-thirukkovilur",
+        "arunachaleswarar"
+      ]
+    },
+    {
+      "id": "thondai-nadu",
+      "name": "तोंडै नाडु",
+      "stops": [
+        "ekambareswarar",
+        "thiruvalangadu-vadaranyeswarar",
+        "kapaleeshwarar-mylapore",
+        "srikalahasti"
+      ]
+    },
+    {
+      "id": "tulu-nadu",
+      "name": "तुलु नाडु",
+      "stops": [
+        "gokarna-mahabaleshwara"
+      ]
+    },
+    {
+      "id": "vada-nadu",
+      "name": "वड नाडु",
+      "stops": [
+        "srisailam-mallikarjuna",
+        "kedarnath"
+      ]
+    }
+  ]
+}

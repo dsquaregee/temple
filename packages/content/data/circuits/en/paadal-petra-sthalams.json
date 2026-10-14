@@ -6,5 +6,146 @@
   "theme": "The 276 temples of Shiva praised in the Tevaram hymns of Appar, Sambandar and Sundarar, grouped by the traditional regions of the Tamil country and beyond",
   "region": "Tamil Nadu, Puducherry, Kerala, Karnataka, Andhra Pradesh, Uttarakhand, Tibet and Sri Lanka",
   "description": "The Paadal Petra Sthalams — literally 'places that received a song' — are the temples of Shiva praised in the Tevaram, the hymns of the three great Nayanar saints: Thirugnana Sambandar, Thirunavukkarasar (Appar) and Sundarar, who sang their way from shrine to shrine across the Tamil country between the 7th and 9th centuries. Their hymns were gathered into the first seven books of the Tirumurai, the Shaiva canon of Tamil devotion, and the 276 temples they name became the great pilgrimage of Tamil Shaivism, the counterpart of the 108 Divya Desams of the Vaishnavas. Tradition groups them by region: by far the most stand in the Chola country on either bank of the Kaveri, with others in the Pandya, Kongu, Nadu and Thondai countries, one each in Kerala and on the Tulu coast, two in Sri Lanka and five in the north, from Srisailam to Kedarnath and Kailash itself. Many are small village temples where the hymns are still sung daily; others are among the great temples of India. The regions below are being added to the app in stages, and each region opens as its own page with a route map.",
-  "stops": []
+  "stops": [
+    "nataraja-chidambaram",
+    "thiruvenkadu-swetaranyeswarar",
+    "vaitheeswaran-koil",
+    "veerateeswarar-korukkai",
+    "kanjanur-agneeswarar",
+    "apatsahayar-thirupazhanam",
+    "aiyarappar-thiruvaiyaru",
+    "neyyadiappar-thillaisthanam",
+    "jambukeswarar",
+    "pushpavananathar-thirupoonthuruthi",
+    "brahmasirakandeeswarar-thirukandiyur",
+    "odhanavaneswarar-thiruchotruthurai",
+    "vedapureeswarar-thiruvedhikudi",
+    "adi-kumbeswarar-kumbakonam",
+    "thirunageswaram-naganathaswamy",
+    "thiruvidaimarudur-mahalingaswamy",
+    "veerateeswarar-thirupariyalur",
+    "amritaghateswarar-thirukkadaiyur",
+    "thirunallar-dharbaranyeswarar",
+    "veerateeswarar-thiruvirkudi",
+    "kayarohanaswamy-nagapattinam",
+    "thyagaraja-thiruvarur",
+    "alangudi-apatsahayesvarar",
+    "kannayiramudayar-thirukaravasal",
+    "brahmapureeswarar-thirukkuvalai",
+    "vaimurnathar-thiruvaimur",
+    "vedaranyeswarar-vedaranyam",
+    "meenakshi-madurai",
+    "appudaiyar-sellur",
+    "thiruparankundram-murugan",
+    "ramanathaswamy-rameswaram",
+    "kaleeswarar-kalayarkoil",
+    "kutralanathar-courtallam",
+    "nellaiappar-tirunelveli",
+    "thirumuruganatheswarar-thirumuruganpoondi",
+    "veerattaneswarar-thiruvathigai",
+    "veerattaneswarar-thirukkovilur",
+    "arunachaleswarar",
+    "ekambareswarar",
+    "thiruvalangadu-vadaranyeswarar",
+    "kapaleeshwarar-mylapore",
+    "srikalahasti",
+    "gokarna-mahabaleshwara",
+    "srisailam-mallikarjuna",
+    "kedarnath"
+  ],
+  "groups": [
+    {
+      "id": "chola-nadu-north",
+      "name": "Chola Nadu — north of the Kaveri",
+      "stops": [
+        "nataraja-chidambaram",
+        "thiruvenkadu-swetaranyeswarar",
+        "vaitheeswaran-koil",
+        "veerateeswarar-korukkai",
+        "kanjanur-agneeswarar",
+        "apatsahayar-thirupazhanam",
+        "aiyarappar-thiruvaiyaru",
+        "neyyadiappar-thillaisthanam",
+        "jambukeswarar"
+      ]
+    },
+    {
+      "id": "chola-nadu-south",
+      "name": "Chola Nadu — south of the Kaveri",
+      "stops": [
+        "pushpavananathar-thirupoonthuruthi",
+        "brahmasirakandeeswarar-thirukandiyur",
+        "odhanavaneswarar-thiruchotruthurai",
+        "vedapureeswarar-thiruvedhikudi",
+        "adi-kumbeswarar-kumbakonam",
+        "thirunageswaram-naganathaswamy",
+        "thiruvidaimarudur-mahalingaswamy",
+        "veerateeswarar-thirupariyalur",
+        "amritaghateswarar-thirukkadaiyur",
+        "thirunallar-dharbaranyeswarar",
+        "veerateeswarar-thiruvirkudi",
+        "kayarohanaswamy-nagapattinam",
+        "thyagaraja-thiruvarur",
+        "alangudi-apatsahayesvarar",
+        "kannayiramudayar-thirukaravasal",
+        "brahmapureeswarar-thirukkuvalai",
+        "vaimurnathar-thiruvaimur",
+        "vedaranyeswarar-vedaranyam"
+      ]
+    },
+    {
+      "id": "pandya-nadu",
+      "name": "Pandya Nadu",
+      "stops": [
+        "meenakshi-madurai",
+        "appudaiyar-sellur",
+        "thiruparankundram-murugan",
+        "ramanathaswamy-rameswaram",
+        "kaleeswarar-kalayarkoil",
+        "kutralanathar-courtallam",
+        "nellaiappar-tirunelveli"
+      ]
+    },
+    {
+      "id": "kongu-nadu",
+      "name": "Kongu Nadu",
+      "stops": [
+        "thirumuruganatheswarar-thirumuruganpoondi"
+      ]
+    },
+    {
+      "id": "nadu-nadu",
+      "name": "Nadu Nadu",
+      "stops": [
+        "veerattaneswarar-thiruvathigai",
+        "veerattaneswarar-thirukkovilur",
+        "arunachaleswarar"
+      ]
+    },
+    {
+      "id": "thondai-nadu",
+      "name": "Thondai Nadu",
+      "stops": [
+        "ekambareswarar",
+        "thiruvalangadu-vadaranyeswarar",
+        "kapaleeshwarar-mylapore",
+        "srikalahasti"
+      ]
+    },
+    {
+      "id": "tulu-nadu",
+      "name": "Tulu Nadu",
+      "stops": [
+        "gokarna-mahabaleshwara"
+      ]
+    },
+    {
+      "id": "vada-nadu",
+      "name": "Vada Nadu",
+      "stops": [
+        "srisailam-mallikarjuna",
+        "kedarnath"
+      ]
+    }
+  ]
 }

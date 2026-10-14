@@ -1,0 +1,151 @@
+{
+  "id": "paadal-petra-sthalams",
+  "locale": "te",
+  "name": "పాడల్ పెట్ర స్థలాలు — తేవారం కీర్తించిన 276 ఆలయాలు",
+  "nativeName": "பாடல் பெற்ற தலங்கள்",
+  "theme": "అప్పర్, సంబందర్, సుందరర్‌ల తేవారం కీర్తనలలో కీర్తించబడిన 276 శివాలయాలు; తమిళ దేశపు సంప్రదాయ ప్రాంతాల వారీగా, ఆవల ఉన్నవాటితో సహా వర్గీకరించబడ్డాయి",
+  "region": "తమిళనాడు, పుదుచ్చేరి, కేరళ, కర్ణాటక, ఆంధ్రప్రదేశ్, ఉత్తరాఖండ్, టిబెట్, శ్రీలంక",
+  "description": "పాడల్ పెట్ర స్థలాలు — అక్షరాలా 'పాట పొందిన స్థలాలు' — తేవారంలో కీర్తించబడిన శివాలయాలు. తేవారం ముగ్గురు మహా నాయన్మార్లైన తిరుజ్ఞానసంబందర్, తిరునావుక్కరసర్ (అప్పర్), సుందరర్‌ల కీర్తనలు; 7వ శతాబ్దం నుండి 9వ శతాబ్దం వరకు వారు తమిళ దేశమంతటా క్షేత్రం నుండి క్షేత్రానికి పాడుతూ సాగారు. వారి కీర్తనలు తమిళ భక్తికి చెందిన శైవ ప్రామాణిక గ్రంథ సంకలనమైన తిరుమురైలోని మొదటి ఏడు గ్రంథాలుగా సంకలనం చేయబడ్డాయి; వారు పేర్కొన్న 276 ఆలయాలు తమిళ శైవానికి మహా యాత్రగా నిలిచాయి — వైష్ణవుల 108 దివ్య దేశాలకు సమానంగా. సంప్రదాయం వీటిని ప్రాంతాల వారీగా వర్గీకరిస్తుంది: అత్యధిక భాగం కావేరి ఇరు తీరాలలోని చోళ నాడులో ఉన్నాయి; మిగిలినవి పాండ్య నాడు, కొంగు నాడు, నడు నాడు, తొండై నాడులలో ఉన్నాయి; కేరళలో ఒకటి, తుళు తీరంలో ఒకటి, శ్రీలంకలో రెండు, ఉత్తరాన ఐదు — శ్రీశైలం నుండి కేదార్‌నాథ్ వరకు, స్వయంగా కైలాసంతో సహా. వీటిలో అనేకం నేటికీ ప్రతిరోజూ తేవారం గానం చేయబడే చిన్న గ్రామ ఆలయాలు; మరికొన్ని భారతదేశపు మహా ఆలయాలలో ఉన్నాయి. కింద ఉన్న ప్రాంతాలు దశలవారీగా యాప్‌లో చేర్చబడుతున్నాయి; ప్రతి ప్రాంతం మార్గ పటంతో తన సొంత పేజీగా తెరుచుకుంటుంది.",
+  "stops": [
+    "nataraja-chidambaram",
+    "thiruvenkadu-swetaranyeswarar",
+    "vaitheeswaran-koil",
+    "veerateeswarar-korukkai",
+    "kanjanur-agneeswarar",
+    "apatsahayar-thirupazhanam",
+    "aiyarappar-thiruvaiyaru",
+    "neyyadiappar-thillaisthanam",
+    "jambukeswarar",
+    "pushpavananathar-thirupoonthuruthi",
+    "brahmasirakandeeswarar-thirukandiyur",
+    "odhanavaneswarar-thiruchotruthurai",
+    "vedapureeswarar-thiruvedhikudi",
+    "adi-kumbeswarar-kumbakonam",
+    "thirunageswaram-naganathaswamy",
+    "thiruvidaimarudur-mahalingaswamy",
+    "veerateeswarar-thirupariyalur",
+    "amritaghateswarar-thirukkadaiyur",
+    "thirunallar-dharbaranyeswarar",
+    "veerateeswarar-thiruvirkudi",
+    "kayarohanaswamy-nagapattinam",
+    "thyagaraja-thiruvarur",
+    "alangudi-apatsahayesvarar",
+    "kannayiramudayar-thirukaravasal",
+    "brahmapureeswarar-thirukkuvalai",
+    "vaimurnathar-thiruvaimur",
+    "vedaranyeswarar-vedaranyam",
+    "meenakshi-madurai",
+    "appudaiyar-sellur",
+    "thiruparankundram-murugan",
+    "ramanathaswamy-rameswaram",
+    "kaleeswarar-kalayarkoil",
+    "kutralanathar-courtallam",
+    "nellaiappar-tirunelveli",
+    "thirumuruganatheswarar-thirumuruganpoondi",
+    "veerattaneswarar-thiruvathigai",
+    "veerattaneswarar-thirukkovilur",
+    "arunachaleswarar",
+    "ekambareswarar",
+    "thiruvalangadu-vadaranyeswarar",
+    "kapaleeshwarar-mylapore",
+    "srikalahasti",
+    "gokarna-mahabaleshwara",
+    "srisailam-mallikarjuna",
+    "kedarnath"
+  ],
+  "groups": [
+    {
+      "id": "chola-nadu-north",
+      "name": "చోళ నాడు — కావేరి ఉత్తర తీరం",
+      "stops": [
+        "nataraja-chidambaram",
+        "thiruvenkadu-swetaranyeswarar",
+        "vaitheeswaran-koil",
+        "veerateeswarar-korukkai",
+        "kanjanur-agneeswarar",
+        "apatsahayar-thirupazhanam",
+        "aiyarappar-thiruvaiyaru",
+        "neyyadiappar-thillaisthanam",
+        "jambukeswarar"
+      ]
+    },
+    {
+      "id": "chola-nadu-south",
+      "name": "చోళ నాడు — కావేరి దక్షిణ తీరం",
+      "stops": [
+        "pushpavananathar-thirupoonthuruthi",
+        "brahmasirakandeeswarar-thirukandiyur",
+        "odhanavaneswarar-thiruchotruthurai",
+        "vedapureeswarar-thiruvedhikudi",
+        "adi-kumbeswarar-kumbakonam",
+        "thirunageswaram-naganathaswamy",
+        "thiruvidaimarudur-mahalingaswamy",
+        "veerateeswarar-thirupariyalur",
+        "amritaghateswarar-thirukkadaiyur",
+        "thirunallar-dharbaranyeswarar",
+        "veerateeswarar-thiruvirkudi",
+        "kayarohanaswamy-nagapattinam",
+        "thyagaraja-thiruvarur",
+        "alangudi-apatsahayesvarar",
+        "kannayiramudayar-thirukaravasal",
+        "brahmapureeswarar-thirukkuvalai",
+        "vaimurnathar-thiruvaimur",
+        "vedaranyeswarar-vedaranyam"
+      ]
+    },
+    {
+      "id": "pandya-nadu",
+      "name": "పాండ్య నాడు",
+      "stops": [
+        "meenakshi-madurai",
+        "appudaiyar-sellur",
+        "thiruparankundram-murugan",
+        "ramanathaswamy-rameswaram",
+        "kaleeswarar-kalayarkoil",
+        "kutralanathar-courtallam",
+        "nellaiappar-tirunelveli"
+      ]
+    },
+    {
+      "id": "kongu-nadu",
+      "name": "కొంగు నాడు",
+      "stops": [
+        "thirumuruganatheswarar-thirumuruganpoondi"
+      ]
+    },
+    {
+      "id": "nadu-nadu",
+      "name": "నడు నాడు",
+      "stops": [
+        "veerattaneswarar-thiruvathigai",
+        "veerattaneswarar-thirukkovilur",
+        "arunachaleswarar"
+      ]
+    },
+    {
+      "id": "thondai-nadu",
+      "name": "తొండై నాడు",
+      "stops": [
+        "ekambareswarar",
+        "thiruvalangadu-vadaranyeswarar",
+        "kapaleeshwarar-mylapore",
+        "srikalahasti"
+      ]
+    },
+    {
+      "id": "tulu-nadu",
+      "name": "తుళు నాడు",
+      "stops": [
+        "gokarna-mahabaleshwara"
+      ]
+    },
+    {
+      "id": "vada-nadu",
+      "name": "వడ నాడు",
+      "stops": [
+        "srisailam-mallikarjuna",
+        "kedarnath"
+      ]
+    }
+  ]
+}

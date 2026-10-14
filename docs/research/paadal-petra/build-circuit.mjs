@@ -27,7 +27,8 @@ const ORDER = ['chola-nadu-north', 'chola-nadu-south', 'eezha-nadu', 'pandya-nad
 
 const rows = fs.readFileSync('docs/research/paadal-petra/00-master-list.tsv', 'utf8').trim().split('\n').slice(1)
   .map((l) => l.split('\t')).map((c) => ({ no: +c[0], region: c[1], id: (c[8] || c[9]).replace(/\?$/, '') }));
-const have = (id) => fs.existsSync(`${D}/temples/en/${id}.json`);
+// A temple joins the circuit once all six locale files exist.
+const have = (id) => LOCALES.every((l) => fs.existsSync(`${D}/temples/${l}/${id}.json`));
 
 const groupsEn = [];
 for (const region of ORDER) {

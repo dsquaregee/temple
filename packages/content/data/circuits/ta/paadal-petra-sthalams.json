@@ -1,0 +1,151 @@
+{
+  "id": "paadal-petra-sthalams",
+  "locale": "ta",
+  "name": "பாடல் பெற்ற தலங்கள் — தேவாரத்தின் 276 கோயில்கள்",
+  "nativeName": "பாடல் பெற்ற தலங்கள்",
+  "theme": "அப்பர், சம்பந்தர், சுந்தரர் ஆகியோரின் தேவாரப் பாடல்களில் போற்றப்பட்ட 276 சிவன் கோயில்கள்; தமிழகத்தின் மரபு வழி நாடுகளின்படியும் அதற்கு அப்பாலும் வகைப்படுத்தப்பட்டவை",
+  "region": "தமிழ்நாடு, புதுச்சேரி, கேரளம், கர்நாடகம், ஆந்திரப் பிரதேசம், உத்தராகண்ட், திபெத், இலங்கை",
+  "description": "பாடல் பெற்ற தலங்கள் — அதாவது 'பாடல் பெற்ற இடங்கள்' — தேவாரத்தில் போற்றப்பட்ட சிவன் கோயில்கள். தேவாரம் என்பது மூன்று பெரும் நாயன்மார்களான திருஞானசம்பந்தர், திருநாவுக்கரசர் (அப்பர்), சுந்தரர் ஆகியோரின் பாடல்கள்; 7ஆம் நூற்றாண்டு முதல் 9ஆம் நூற்றாண்டு வரை அவர்கள் தமிழகம் எங்கும் தலம் தலமாகப் பாடிச் சென்றனர். அவர்களின் பாடல்கள் தமிழ்ச் சைவ பக்தியின் திருநூல் தொகுப்பான திருமுறையின் முதல் ஏழு நூல்களாகத் தொகுக்கப்பட்டன; அவர்கள் பெயரிட்ட 276 கோயில்களும் தமிழ்ச் சைவத்தின் பெரும் யாத்திரையாக ஆயின — வைணவர்களின் 108 திவ்ய தேசங்களுக்கு இணையாக. மரபு இவற்றை நாடுகளின்படி வகைப்படுத்துகிறது: மிகப் பெரும்பான்மை காவிரியின் இரு கரைகளிலும் உள்ள சோழ நாட்டில் அமைந்துள்ளன; மற்றவை பாண்டிய நாடு, கொங்கு நாடு, நடு நாடு, தொண்டை நாடு ஆகியவற்றில் உள்ளன; கேரளத்திலும் துளு கடற்கரையிலும் ஒவ்வொன்று, இலங்கையில் இரண்டு, வடக்கில் ஐந்து — ஸ்ரீசைலம் முதல் கேதார்நாத் வரை, திருக்கயிலாயம் உட்பட. பல கோயில்கள் இன்றும் தேவாரம் நாள்தோறும் ஓதப்படும் சிறிய ஊர்க் கோயில்கள்; மற்றவை இந்தியாவின் பெருங்கோயில்களில் சில. கீழே உள்ள நாடுகள் படிப்படியாகச் செயலியில் சேர்க்கப்பட்டு வருகின்றன; ஒவ்வொரு நாடும் வழித்தட வரைபடத்துடன் தனிப் பக்கமாகத் திறக்கும்.",
+  "stops": [
+    "nataraja-chidambaram",
+    "thiruvenkadu-swetaranyeswarar",
+    "vaitheeswaran-koil",
+    "veerateeswarar-korukkai",
+    "kanjanur-agneeswarar",
+    "apatsahayar-thirupazhanam",
+    "aiyarappar-thiruvaiyaru",
+    "neyyadiappar-thillaisthanam",
+    "jambukeswarar",
+    "pushpavananathar-thirupoonthuruthi",
+    "brahmasirakandeeswarar-thirukandiyur",
+    "odhanavaneswarar-thiruchotruthurai",
+    "vedapureeswarar-thiruvedhikudi",
+    "adi-kumbeswarar-kumbakonam",
+    "thirunageswaram-naganathaswamy",
+    "thiruvidaimarudur-mahalingaswamy",
+    "veerateeswarar-thirupariyalur",
+    "amritaghateswarar-thirukkadaiyur",
+    "thirunallar-dharbaranyeswarar",
+    "veerateeswarar-thiruvirkudi",
+    "kayarohanaswamy-nagapattinam",
+    "thyagaraja-thiruvarur",
+    "alangudi-apatsahayesvarar",
+    "kannayiramudayar-thirukaravasal",
+    "brahmapureeswarar-thirukkuvalai",
+    "vaimurnathar-thiruvaimur",
+    "vedaranyeswarar-vedaranyam",
+    "meenakshi-madurai",
+    "appudaiyar-sellur",
+    "thiruparankundram-murugan",
+    "ramanathaswamy-rameswaram",
+    "kaleeswarar-kalayarkoil",
+    "kutralanathar-courtallam",
+    "nellaiappar-tirunelveli",
+    "thirumuruganatheswarar-thirumuruganpoondi",
+    "veerattaneswarar-thiruvathigai",
+    "veerattaneswarar-thirukkovilur",
+    "arunachaleswarar",
+    "ekambareswarar",
+    "thiruvalangadu-vadaranyeswarar",
+    "kapaleeshwarar-mylapore",
+    "srikalahasti",
+    "gokarna-mahabaleshwara",
+    "srisailam-mallikarjuna",
+    "kedarnath"
+  ],
+  "groups": [
+    {
+      "id": "chola-nadu-north",
+      "name": "சோழ நாடு — காவிரி வடகரை",
+      "stops": [
+        "nataraja-chidambaram",
+        "thiruvenkadu-swetaranyeswarar",
+        "vaitheeswaran-koil",
+        "veerateeswarar-korukkai",
+        "kanjanur-agneeswarar",
+        "apatsahayar-thirupazhanam",
+        "aiyarappar-thiruvaiyaru",
+        "neyyadiappar-thillaisthanam",
+        "jambukeswarar"
+      ]
+    },
+    {
+      "id": "chola-nadu-south",
+      "name": "சோழ நாடு — காவிரி தென்கரை",
+      "stops": [
+        "pushpavananathar-thirupoonthuruthi",
+        "brahmasirakandeeswarar-thirukandiyur",
+        "odhanavaneswarar-thiruchotruthurai",
+        "vedapureeswarar-thiruvedhikudi",
+        "adi-kumbeswarar-kumbakonam",
+        "thirunageswaram-naganathaswamy",
+        "thiruvidaimarudur-mahalingaswamy",
+        "veerateeswarar-thirupariyalur",
+        "amritaghateswarar-thirukkadaiyur",
+        "thirunallar-dharbaranyeswarar",
+        "veerateeswarar-thiruvirkudi",
+        "kayarohanaswamy-nagapattinam",
+        "thyagaraja-thiruvarur",
+        "alangudi-apatsahayesvarar",
+        "kannayiramudayar-thirukaravasal",
+        "brahmapureeswarar-thirukkuvalai",
+        "vaimurnathar-thiruvaimur",
+        "vedaranyeswarar-vedaranyam"
+      ]
+    },
+    {
+      "id": "pandya-nadu",
+      "name": "பாண்டிய நாடு",
+      "stops": [
+        "meenakshi-madurai",
+        "appudaiyar-sellur",
+        "thiruparankundram-murugan",
+        "ramanathaswamy-rameswaram",
+        "kaleeswarar-kalayarkoil",
+        "kutralanathar-courtallam",
+        "nellaiappar-tirunelveli"
+      ]
+    },
+    {
+      "id": "kongu-nadu",
+      "name": "கொங்கு நாடு",
+      "stops": [
+        "thirumuruganatheswarar-thirumuruganpoondi"
+      ]
+    },
+    {
+      "id": "nadu-nadu",
+      "name": "நடு நாடு",
+      "stops": [
+        "veerattaneswarar-thiruvathigai",
+        "veerattaneswarar-thirukkovilur",
+        "arunachaleswarar"
+      ]
+    },
+    {
+      "id": "thondai-nadu",
+      "name": "தொண்டை நாடு",
+      "stops": [
+        "ekambareswarar",
+        "thiruvalangadu-vadaranyeswarar",
+        "kapaleeshwarar-mylapore",
+        "srikalahasti"
+      ]
+    },
+    {
+      "id": "tulu-nadu",
+      "name": "துளு நாடு",
+      "stops": [
+        "gokarna-mahabaleshwara"
+      ]
+    },
+    {
+      "id": "vada-nadu",
+      "name": "வட நாடு",
+      "stops": [
+        "srisailam-mallikarjuna",
+        "kedarnath"
+      ]
+    }
+  ]
+}
