@@ -5,7 +5,6 @@ import {
   ERAS,
   SORTS,
   filterTemples,
-  regionsOf,
   sortTemples,
   t,
   type Circuit,
@@ -31,9 +30,9 @@ const SORT_KEY = {
 } as const satisfies Record<SortKey, string>;
 
 // A single tappable filter option. Renders as a real <button> so the facets are
-// keyboard-operable; the SSG page still ships every temple in its initial
-// markup (all filters start "off"), so search-engine crawlers and no-JS clients
-// see the full catalog before this hydrates.
+// keyboard-operable. Each static Discover page server-renders one page of the
+// catalogue (all filters start "off"), and the pager links every page, so
+// search-engine crawlers and no-JS clients reach every temple.
 function FilterChip({
   active,
   onClick,
@@ -64,20 +63,44 @@ function Facet({ label, children }: { label: string; children: ReactNode }) {
   );
 }
 
-// Client-side search + faceted filtering for the Discover tab. All filtering is
-// in-memory over the already-loaded locale catalog — no network, instant, and
-// works offline once the shell is cached.
+// Client-side search + faceted filtering for the Discover tab. The page ships
+// only its own slice of cards (`initial`); the first time a visitor searches,
+// filters or re-sorts, the whole locale catalogue is fetched once
+// (/catalog/<locale>.json, card fields only) and all filtering then runs in
+// memory over it — instant, and offline once cached. Until it arrives, the
+// filters apply to the visible page so the UI never blocks.
 export function DiscoverExplorer({
   locale,
-  temples,
+  initial,
+  total,
+  regions,
   circuits,
+  pager,
 }: {
   locale: Locale;
-  temples: TempleCardData[];
+  initial: TempleCardData[];
+  total: number;
+  regions: string[];
   circuits: Pick<Circuit, 'id' | 'name'>[];
+  pager?: ReactNode;
 }) {
   const d = t(locale).discover;
-  const regions = useMemo(() => regionsOf(temples), [temples]);
+
+  const [catalog, setCatalog] = useState<TempleCardData[] | null>(null);
+  const catalogRequested = useRef(false);
+  const loadCatalog = useCallback(() => {
+    if (catalogRequested.current) return;
+    catalogRequested.current = true;
+    fetch(`/catalog/${locale}.json`)
+      .then((r) => (r.ok ? (r.json() as Promise<TempleCardData[]>) : null))
+      .then((data) => {
+        if (data) setCatalog(data);
+        else catalogRequested.current = false;
+      })
+      .catch(() => {
+        catalogRequested.current = false; // allow a later attempt after a transient failure
+      });
+  }, [locale]);
 
   const [query, setQuery] = useState('');
 
@@ -110,8 +133,9 @@ export function DiscoverExplorer({
     if (q) {
       setQuery(q);
       loadSearchIndex();
+      loadCatalog();
     }
-  }, [loadSearchIndex]);
+  }, [loadSearchIndex, loadCatalog]);
 
   const [circuit, setCircuit] = useState<string>('all');
   const [region, setRegion] = useState<string>('all');
@@ -122,10 +146,27 @@ export function DiscoverExplorer({
 
   const { ids: savedIds, ready: favReady } = useFavorites();
 
+  const filtersActive =
+    query.trim() !== '' ||
+    circuit !== 'all' ||
+    region !== 'all' ||
+    era !== 'all' ||
+    unescoOnly ||
+    savedOnly ||
+    sort !== 'featured';
+
+  // Any active filter or sort spans the whole catalogue (once loaded); with no
+  // filters the page shows its own static slice and the pager.
+  useEffect(() => {
+    if (filtersActive) loadCatalog();
+  }, [filtersActive, loadCatalog]);
+  const base = filtersActive && catalog ? catalog : initial;
+  const loading = filtersActive && !catalog;
+
   const results = useMemo(
     () =>
       sortTemples(
-        filterTemples(temples, {
+        filterTemples(base, {
           query,
           circuit,
           region,
@@ -137,17 +178,8 @@ export function DiscoverExplorer({
         sort,
         locale,
       ),
-    [temples, query, circuit, region, era, unescoOnly, savedOnly, savedIds, sort, locale, searchIndex],
+    [base, query, circuit, region, era, unescoOnly, savedOnly, savedIds, sort, locale, searchIndex],
   );
-
-  const filtersActive =
-    query.trim() !== '' ||
-    circuit !== 'all' ||
-    region !== 'all' ||
-    era !== 'all' ||
-    unescoOnly ||
-    savedOnly ||
-    sort !== 'featured';
 
   function reset() {
     setQuery('');
@@ -166,7 +198,10 @@ export function DiscoverExplorer({
         className="searchinput"
         placeholder={d.searchPlaceholder}
         value={query}
-        onFocus={loadSearchIndex}
+        onFocus={() => {
+          loadSearchIndex();
+          loadCatalog();
+        }}
         onChange={(e) => {
           loadSearchIndex();
           setQuery(e.target.value);
@@ -233,7 +268,8 @@ export function DiscoverExplorer({
           </FilterChip>
         )}
         <span className="results-count" aria-live="polite">
-          {results.length} {d.results}
+          {filtersActive ? results.length : total} {d.results}
+          {loading && <span className="muted"> · {d.loading}</span>}
         </span>
         {filtersActive && (
           <button type="button" className="clearbtn" onClick={reset}>
@@ -249,8 +285,10 @@ export function DiscoverExplorer({
           ))}
         </div>
       ) : (
-        <p className="empty">{d.none}</p>
+        <p className="empty">{loading ? d.loading : d.none}</p>
       )}
+
+      {!filtersActive && pager}
     </div>
   );
 }
