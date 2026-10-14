@@ -1,0 +1,23 @@
+{
+  "id": "jyotirlingas",
+  "locale": "en",
+  "name": "The Twelve Jyotirlingas — Shrines of Shiva as a Column of Light",
+  "nativeName": "द्वादश ज्योतिर्लिंग",
+  "theme": "The twelve shrines where Shiva is worshipped as a Jyotirlinga, a linga of light, named in the Dvadasha Jyotirlinga Stotram",
+  "region": "Pan-India (Gujarat, Andhra Pradesh, Madhya Pradesh, Jharkhand, Maharashtra, Tamil Nadu, Uttar Pradesh, Uttarakhand)",
+  "description": "The Jyotirlingas are twelve shrines where Shiva is worshipped as a jyotirlinga, a linga of light. The Shiva Purana tells how Brahma and Vishnu once disputed which of them was supreme, and Shiva appeared between them as an endless column of fire whose top and base neither could find; the twelve Jyotirlingas are honoured as places where that light is present. A short Sanskrit hymn, the Dvadasha Jyotirlinga Stotram, names them in a fixed order that this circuit follows: Somnath in Saurashtra, Mallikarjuna at Srisailam, Mahakaleshwar at Ujjain, Omkareshwar on the Narmada, Vaidyanath, Bhimashankar, Rameswaram at the bridge to Lanka, Nageshwar in the Daruka forest, Vishwanath at Varanasi, Trimbakeshwar at the source of the Godavari, Kedarnath in the Himalaya and Grishneshwar near Ellora. For a few of them other temples are also revered as the same Jyotirlinga, and the temple pages note these traditions. Two lie in the South — Srisailam and Rameswaram — and a pilgrimage to all twelve crosses the whole subcontinent.",
+  "stops": [
+    "somnath-prabhas-patan",
+    "srisailam-mallikarjuna",
+    "mahakaleshwar-ujjain",
+    "omkareshwar-mandhata",
+    "vaidyanath-deoghar",
+    "bhimashankar-pune",
+    "ramanathaswamy-rameswaram",
+    "nageshwar-dwarka",
+    "kashi-vishwanath-varanasi",
+    "trimbakeshwar-nashik",
+    "kedarnath",
+    "grishneshwar-ellora"
+  ]
+}
