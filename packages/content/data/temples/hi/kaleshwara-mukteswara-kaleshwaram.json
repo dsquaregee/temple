@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/kaleshwara-mukteswara-kaleshwaram.mp3",
     "durationSec": 196
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kaleshwara-mukteswara-kaleshwaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "कालेश्वर मुक्तेश्वर स्वामी मंदिर, कालेश्वरम",
+    "credit": "Torchtelangana / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kaleshwara-mukteswara-kaleshwaram.mp3",
     "durationSec": 224
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kaleshwara-mukteswara-kaleshwaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kaleshwara Mukteswara Swamy Temple, Kaleshwaram",
+    "credit": "Torchtelangana / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

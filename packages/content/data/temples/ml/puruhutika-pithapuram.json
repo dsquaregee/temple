@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/puruhutika-pithapuram.mp3",
     "durationSec": 207
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/puruhutika-pithapuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "പുരുഹൂതികാ ദേവി – കുക്കുടേശ്വര സ്വാമി ക്ഷേത്രം, പിഠാപുരം",
+    "credit": "Adityamadhav83 / Wikimedia Commons (CC BY 4.0) · GS Darshan / Wikimedia Commons (CC BY-SA 3.0) · PV Bhaskara / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/puruhutika-pithapuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/puruhutika-pithapuram.jpg",
+    "durationSec": 157,
+    "credit": "Adityamadhav83 / Wikimedia Commons (CC BY 4.0) · GS Darshan / Wikimedia Commons (CC BY-SA 3.0) · PV Bhaskara / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

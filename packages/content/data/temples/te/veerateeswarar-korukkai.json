@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/veerateeswarar-korukkai.mp3",
     "durationSec": 170
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/veerateeswarar-korukkai.jpg",
+    "color": "#5C3A2E",
+    "alt": "వీరట్టేశ్వర ఆలయం, కొరుక్కై (తిరుక్కురుక్కై)",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/veerateeswarar-korukkai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/veerateeswarar-korukkai.jpg",
+    "durationSec": 185,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

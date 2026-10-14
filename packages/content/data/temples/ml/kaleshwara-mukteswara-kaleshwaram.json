@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/kaleshwara-mukteswara-kaleshwaram.mp3",
     "durationSec": 215
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kaleshwara-mukteswara-kaleshwaram.jpg",
+    "color": "#5C3A2E",
+    "alt": "കാളേശ്വര മുക്തീശ്വര സ്വാമി ക്ഷേത്രം, കാളേശ്വരം",
+    "credit": "Torchtelangana / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

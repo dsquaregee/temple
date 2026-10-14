@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/puruhutika-pithapuram.mp3",
     "durationSec": 211
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/puruhutika-pithapuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "Puruhutika Devi and Kukkuteswara Swamy Temple, Pithapuram",
+    "credit": "Adityamadhav83 / Wikimedia Commons (CC BY 4.0) · GS Darshan / Wikimedia Commons (CC BY-SA 3.0) · PV Bhaskara / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/puruhutika-pithapuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/puruhutika-pithapuram.jpg",
+    "durationSec": 160,
+    "credit": "Adityamadhav83 / Wikimedia Commons (CC BY 4.0) · GS Darshan / Wikimedia Commons (CC BY-SA 3.0) · PV Bhaskara / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

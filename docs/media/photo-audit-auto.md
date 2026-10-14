@@ -6,58 +6,19 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| achyutaraya-hampi | 6 | ✅ included |
-| amritaghateswarar-thirukkadaiyur | 4 | ✅ included |
-| apatsahayar-thirupazhanam | 6 | ✅ included |
-| arka-brahma-alampur | 6 | ✅ included |
-| bala-brahma-alampur | 6 | ✅ included |
-| bhargava-narasimha-ahobilam | 0 | ⚠️ skipped (no qualifying photo) |
 | brahmasirakandeeswarar-thirukandiyur | 0 | ⚠️ skipped (no qualifying photo) |
-| chatravata-narasimha-ahobilam | 2 | ◐ hero only (< 3 for video) |
-| garuda-brahma-alampur | 6 | ✅ included |
-| hazara-rama-hampi | 6 | ✅ included |
-| hemakuta-hampi | 6 | ✅ included |
-| horanadu-annapoorneshwari | 0 | ⚠️ skipped (no qualifying photo) |
-| jagannath-puri | 6 | ⚠️ skipped (render/upload failed) |
-| jogulamba-alampur | 3 | ✅ included |
-| jwala-narasimha-ahobilam | 6 | ✅ included |
+| horanadu-annapoorneshwari | 6 | ✅ included |
 | kailasanathar-cheranmahadevi | 0 | ⚠️ skipped (no qualifying photo) |
 | kailasanathar-kodaganallur | 0 | ⚠️ skipped (no qualifying photo) |
 | kailasanathar-murappanadu | 0 | ⚠️ skipped (no qualifying photo) |
 | kailasanathar-rajapathy | 0 | ⚠️ skipped (no qualifying photo) |
 | kailasanathar-senthapoomangalam | 0 | ⚠️ skipped (no qualifying photo) |
-| kailasanathar-srivaikuntam | 6 | ✅ included |
-| kailasanathar-thenthiruperai | 0 | ⚠️ skipped (no qualifying photo) |
-| kaleshwara-mukteswara-kaleshwaram | 0 | ⚠️ skipped (no qualifying photo) |
-| karanja-narasimha-ahobilam | 4 | ✅ included |
-| kateel-durgaparameshwari | 0 | ⚠️ skipped (no qualifying photo) |
-| kodandarama-hampi | 6 | ✅ included |
-| koodalmanikyam-irinjalakuda | 3 | ✅ included |
+| kaleshwara-mukteswara-kaleshwaram | 1 | ◐ hero only (< 3 for video) |
+| kateel-durgaparameshwari | 3 | ✅ included |
 | kothaparameswarar-kunnathur | 0 | ⚠️ skipped (no qualifying photo) |
-| krishna-hampi | 6 | ✅ included |
-| kumara-brahma-alampur | 6 | ✅ included |
-| malola-narasimha-ahobilam | 1 | ◐ hero only (< 3 for video) |
-| malyavanta-raghunatha-hampi | 6 | ✅ included |
 | neyyadiappar-thillaisthanam | 0 | ⚠️ skipped (no qualifying photo) |
-| odhanavaneswarar-thiruchotruthurai | 6 | ✅ included |
-| padma-brahma-alampur | 6 | ✅ included |
-| papanasanathar-papanasam | 3 | ✅ included |
-| pavana-narasimha-ahobilam | 0 | ⚠️ skipped (no qualifying photo) |
-| payammal-shatrughna | 3 | ✅ included |
-| puruhutika-pithapuram | 0 | ⚠️ skipped (no qualifying photo) |
+| puruhutika-pithapuram | 4 | ✅ included |
 | pushpavananathar-thirupoonthuruthi | 0 | ⚠️ skipped (no qualifying photo) |
-| swarga-brahma-alampur | 0 | ⚠️ skipped (no qualifying photo) |
-| taraka-brahma-alampur | 6 | ✅ included |
-| triprayar-rama | 6 | ✅ included |
-| varaha-narasimha-ahobilam | 0 | ⚠️ skipped (no qualifying photo) |
-| vedapureeswarar-thiruvedhikudi | 6 | ✅ included |
-| veerateeswarar-korukkai | 0 | ⚠️ skipped (no qualifying photo) |
+| veerateeswarar-korukkai | 6 | ✅ included |
 | veerateeswarar-thirupariyalur | 0 | ⚠️ skipped (no qualifying photo) |
-| veerateeswarar-thiruvirkudi | 6 | ✅ included |
-| veerateeswarar-vazhuvur | 6 | ✅ included |
-| veerattaneswarar-thirukkovilur | 0 | ⚠️ skipped (no qualifying photo) |
-| veerattaneswarar-thiruvathigai | 0 | ⚠️ skipped (no qualifying photo) |
-| vira-brahma-alampur | 0 | ⚠️ skipped (no qualifying photo) |
-| vishwa-brahma-alampur | 5 | ✅ included |
-| vittala-hampi | 6 | ✅ included |
-| yogananda-narasimha-ahobilam | 2 | ◐ hero only (< 3 for video) |
+| veerattaneswarar-thiruvathigai | 6 | ✅ included |
