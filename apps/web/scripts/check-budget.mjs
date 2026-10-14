@@ -41,7 +41,11 @@ const BUDGET = {
   // Raised 420 → 600 KB (2026-10, owner request) at 206 temples (~413 KB raw,
   // ~58 KB gzip on the largest locale), leaving room for ~70 more temples while
   // the catalog expands (docs/research/03-catalog-expansion.md).
-  largestHtmlRawKB: 600, // current ~413 (Discover listing; catches full-prose regressions)
+  // 2026-10: Discover is now paginated (48 cards per static page; the full
+  // catalogue loads on demand from /catalog/<locale>.json), so page size no
+  // longer grows with the catalogue — the largest page is a grouped circuit
+  // overview (~300 KB).
+  largestHtmlRawKB: 600, // current ~300 (circuit overview; catches full-prose regressions)
 };
 
 function walk(dir, test) {

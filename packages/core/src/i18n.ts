@@ -27,6 +27,10 @@ export interface UiStrings {
     sortOldest: string;
     sortNewest: string;
     sortName: string;
+    page: string;
+    pagePrev: string;
+    pageNext: string;
+    loading: string;
   };
   listen: {
     nowPlaying: string;
@@ -100,6 +104,10 @@ export const strings: Record<Locale, UiStrings> = {
       sortOldest: 'Oldest first',
       sortNewest: 'Newest first',
       sortName: 'By name',
+      page: 'Page',
+      pagePrev: 'Previous',
+      pageNext: 'Next',
+      loading: 'Loading the full catalogue…',
     },
     listen: {
       nowPlaying: 'Now playing',
@@ -171,6 +179,10 @@ export const strings: Record<Locale, UiStrings> = {
       sortOldest: 'பழமையானவை முதலில்',
       sortNewest: 'புதியவை முதலில்',
       sortName: 'அகர வரிசை',
+      page: 'பக்கம்',
+      pagePrev: 'முந்தைய',
+      pageNext: 'அடுத்து',
+      loading: 'முழுப் பட்டியல் ஏற்றப்படுகிறது…',
     },
     listen: {
       nowPlaying: 'இப்போது ஒலிக்கிறது',
@@ -242,6 +254,10 @@ export const strings: Record<Locale, UiStrings> = {
       sortOldest: 'పురాతనమైనవి ముందు',
       sortNewest: 'కొత్తవి ముందు',
       sortName: 'అక్షర క్రమం',
+      page: 'పేజీ',
+      pagePrev: 'మునుపటి',
+      pageNext: 'తదుపరి',
+      loading: 'పూర్తి జాబితా లోడ్ అవుతోంది…',
     },
     listen: {
       nowPlaying: 'ఇప్పుడు వినిపిస్తోంది',
@@ -313,6 +329,10 @@ export const strings: Record<Locale, UiStrings> = {
       sortOldest: 'ಹಳೆಯವು ಮೊದಲು',
       sortNewest: 'ಹೊಸವು ಮೊದಲು',
       sortName: 'ಅಕ್ಷರ ಕ್ರಮ',
+      page: 'ಪುಟ',
+      pagePrev: 'ಹಿಂದಿನ',
+      pageNext: 'ಮುಂದಿನ',
+      loading: 'ಸಂಪೂರ್ಣ ಪಟ್ಟಿ ಲೋಡ್ ಆಗುತ್ತಿದೆ…',
     },
     listen: {
       nowPlaying: 'ಈಗ ಪ್ಲೇ ಆಗುತ್ತಿದೆ',
@@ -384,6 +404,10 @@ export const strings: Record<Locale, UiStrings> = {
       sortOldest: 'പഴയവ ആദ്യം',
       sortNewest: 'പുതിയവ ആദ്യം',
       sortName: 'പേരനുസരിച്ച്',
+      page: 'പേജ്',
+      pagePrev: 'മുമ്പത്തെ',
+      pageNext: 'അടുത്തത്',
+      loading: 'പൂർണ്ണ പട്ടിക ലോഡ് ചെയ്യുന്നു…',
     },
     listen: {
       nowPlaying: 'ഇപ്പോൾ കേൾക്കുന്നു',
@@ -455,6 +479,10 @@ export const strings: Record<Locale, UiStrings> = {
       sortOldest: 'सबसे पुराने पहले',
       sortNewest: 'सबसे नए पहले',
       sortName: 'नाम अनुसार',
+      page: 'पृष्ठ',
+      pagePrev: 'पिछला',
+      pageNext: 'अगला',
+      loading: 'पूरी सूची लोड हो रही है…',
     },
     listen: {
       nowPlaying: 'अभी चल रहा है',

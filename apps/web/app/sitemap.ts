@@ -1,3 +1,4 @@
+import { discoverPageCount } from '@/components/DiscoverListing';
 import type { MetadataRoute } from 'next';
 import { getCircuits, getTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
@@ -41,6 +42,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { suffix: 'temples/', changeFrequency: 'weekly' as const, priority: 0.7 },
     { suffix: 'yatra/', changeFrequency: 'monthly' as const, priority: 0.7 },
     { suffix: 'listen/', changeFrequency: 'monthly' as const, priority: 0.6 },
+    // Discover pages 2…N (same count in every locale).
+    ...Array.from({ length: discoverPageCount('en') - 1 }, (_, i) => ({
+      suffix: `temples/page/${i + 2}/`,
+      changeFrequency: 'weekly' as const,
+      priority: 0.4,
+    })),
   ];
   for (const tab of tabs) {
     const alternates = alternatesFor((l) => `${l}/${tab.suffix}`);

@@ -1095,3 +1095,48 @@ a {
   font-size: 11px;
   padding: 0 4px;
 }
+
+/* Discover pager — static links between catalogue pages (no JS needed). */
+.pager {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 24px 0 8px;
+}
+.pager__pages {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.pager__link,
+.pager__num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--touch);
+  min-width: var(--touch);
+  padding: 0 14px;
+  border-radius: var(--radius-pill);
+  background: var(--bg-sunken);
+  border: 1px solid var(--line);
+  color: var(--ink-body);
+  font-family: var(--font-ui);
+  font-size: 14px;
+  text-decoration: none;
+}
+.pager__num.is-current {
+  background: var(--accent-turmeric);
+  border-color: var(--accent-turmeric);
+  color: #17130f;
+  font-weight: 600;
+}
+.pager__link.is-disabled {
+  opacity: 0.45;
+}
+.pager__link:focus-visible,
+.pager__num:focus-visible {
+  outline: 2px solid var(--accent-turmeric);
+  outline-offset: 1px;
+}
