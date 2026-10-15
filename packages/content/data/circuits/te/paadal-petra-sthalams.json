@@ -34,6 +34,7 @@
     "brahmapureeswarar-thirukkuvalai",
     "vaimurnathar-thiruvaimur",
     "vedaranyeswarar-vedaranyam",
+    "koneswarar-trincomalee",
     "ketheeswarar-mannar",
     "meenakshi-madurai",
     "appudaiyar-sellur",
@@ -52,6 +53,7 @@
     "anjaikalathappar-thiruvanchikulam",
     "sangameswarar-bhavani",
     "ardhanareeswarar-tiruchengode",
+    "pasupatheeswarar-karur",
     "thirumuruganatheswarar-thirumuruganpoondi",
     "magudeswarar-kodumudi",
     "avinashilingeswarar-avinashi",
@@ -67,7 +69,8 @@
     "srikalahasti",
     "gokarna-mahabaleshwara",
     "srisailam-mallikarjuna",
-    "kedarnath"
+    "kedarnath",
+    "kailasanathar-mount-kailash"
   ],
   "groups": [
     {
@@ -113,6 +116,7 @@
       "id": "eezha-nadu",
       "name": "ఈళ నాడు (శ్రీలంక)",
       "stops": [
+        "koneswarar-trincomalee",
         "ketheeswarar-mannar"
       ]
     },
@@ -149,6 +153,7 @@
       "stops": [
         "sangameswarar-bhavani",
         "ardhanareeswarar-tiruchengode",
+        "pasupatheeswarar-karur",
         "thirumuruganatheswarar-thirumuruganpoondi",
         "magudeswarar-kodumudi",
         "avinashilingeswarar-avinashi",
@@ -188,7 +193,8 @@
       "name": "వడ నాడు",
       "stops": [
         "srisailam-mallikarjuna",
-        "kedarnath"
+        "kedarnath",
+        "kailasanathar-mount-kailash"
       ]
     }
   ]
