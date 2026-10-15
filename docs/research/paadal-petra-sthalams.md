@@ -13,13 +13,22 @@ re-add a temple the catalog already has.
 
 ---
 
-## ⚠️ Environment constraint discovered while compiling this (read first)
+## ✅ Status update — list verified; see `paadal-petra-sthalams-list.md`
+
+**The full 276 list is now compiled and committed** as `paadal-petra-sthalams-list.md`,
+region by region, via **WebSearch against shivatemples.com** (adopted as canonical per
+owner decision #1). Membership and towns are reliable; goddess/native-name columns are
+partially flagged and get verified per temple at content time. The environment constraint
+below explains the method (direct fetch is blocked; WebSearch is the working path).
+
+## ⚠️ Environment constraint (method note)
 
 The authoritative per-temple lists live on `shivatemples.com`, `tntemplesproject.in`
-and Wikipedia. **In the current cloud session, direct page fetch to those hosts is
-blocked** (the egress proxy returns 403 / DNS does not resolve for `en.wikipedia.org`,
-`ta.wikipedia.org`, `shivatemples.com`, `tntemplesproject.in`, `divinetraveller.net`).
-Only `WebSearch` (US-side search summaries) comes through.
+and Wikipedia. **In this cloud session, direct page fetch to those hosts is blocked**
+(the egress proxy returns 403 / DNS does not resolve). **`WebSearch` works, however** —
+its summaries return the authoritative per-region lists, which is how the list file was
+built. (For future runs that need direct fetch, the lever is the environment's network
+policy — see `read_documentation` → environment.network.)
 
 Consequence:
 - The **region structure and counts** below are confirmed from search summaries of the
@@ -73,11 +82,18 @@ Thondai Nadu or Vada Nadu; the Vada Nadu 5-vs-7 membership. Recommend adopting
 
 ## Already in the catalog (verified from repo content)
 
-**43 of the 276 are already shipped** (+1 borderline), verified against
-`packages/content/data/temples/en` — either they state "Paadal Petra Sthalam" / Tevaram
-in their own content, or they were confirmed individually by town + deity. These must
-**not** be rewritten; they only need to be added to the new circuit's `stops` (and their
-`circuits` field updated) when it is stood up.
+**41 of the 276 are already shipped** (+1 borderline), verified against
+`packages/content/data/temples/en` and cross-referenced to the canonical list. The full
+per-region in-catalog breakdown lives in `paadal-petra-sthalams-list.md` (each region's
+table names its shipped members with their canonical row number). These must **not** be
+rewritten; they only need to be added to the new circuit's `stops` (and their `circuits`
+field updated) when it is stood up.
+
+> **Correction (was 43 → now 41):** two temples that claim "Paadal Petra Sthalam" in
+> their catalog content — `keezhaperumpallam-naganathaswamy` (Ketu) and
+> `thingalur-kailasanathar` (Chandran) — are in fact **Vaippu Sthalams** (mentioned in
+> Appar's hymns but the deity is not named), *not* among the 276. Their content is wrong
+> and is listed under "Content corrections" below.
 
 > Note on method: a plain keyword scan both over- and under-counts. It wrongly flagged
 > `airavatesvara` (Darasuram) — a 12th-c. Chola temple that post-dates the Tevaram, so
@@ -86,51 +102,28 @@ in their own content, or they were confirmed individually by town + deity. These
 > pages never say "Tevaram" yet are genuine members. The set below is the reconciled,
 > individually-checked result.
 
-### Chola Nadu (29)
-`jambukeswarar` (Thiruvanaikaval) · `aiyarappar-thiruvaiyaru` · `apatsahayar-thirupazhanam` ·
-`odhanavaneswarar-thiruchotruthurai` · `vedapureeswarar-thiruvedhikudi` ·
-`brahmasirakandeeswarar-thirukandiyur` · `pushpavananathar-thirupoonthuruthi` ·
-`neyyadiappar-thillaisthanam` · `thingalur-kailasanathar` · `kanjanur-agneeswarar` ·
-`adi-kumbeswarar-kumbakonam` · `thiruvidaimarudur-mahalingaswamy` ·
-`thirunageswaram-naganathaswamy` · `thyagaraja-thiruvarur` · `alangudi-apatsahayesvarar` ·
-`brahmapureeswarar-thirukkuvalai` · `vaimurnathar-thiruvaimur` ·
-`kannayiramudayar-thirukaravasal` · `kayarohanaswamy-nagapattinam` ·
-`vedaranyeswarar-vedaranyam` · `keezhaperumpallam-naganathaswamy` ·
-`amritaghateswarar-thirukkadaiyur` · `thiruvenkadu-swetaranyeswarar` · `vaitheeswaran-koil` ·
-`veerateeswarar-korukkai` · `veerateeswarar-thiruvirkudi` · `veerateeswarar-thirupariyalur` ·
-`nataraja-chidambaram` · `thirunallar-dharbaranyeswarar`
+In-catalog members by region (full per-temple detail + canonical row numbers in
+`paadal-petra-sthalams-list.md`):
 
-(Several of these are the Navagraha temples — Suryanar aside, which is a separate shrine:
-Thingalur, Thirunageswaram, Alangudi, Kanjanur, Vaitheeswaran Koil, Thiruvenkadu,
-Keezhaperumpallam — already shipped as the `navagraha-temples` circuit.)
+| Region | In catalog |
+|---|---:|
+| Chola Nadu north | 9 |
+| Chola Nadu south | 18 |
+| Pandya Nadu | 4 (+1 borderline `thiruparankundram-murugan`) |
+| Nadu Nadu | 3 |
+| Thondai Nadu | 5 (incl. `srikalahasti`) |
+| Thulu Nadu | 1 (`gokarna-mahabaleshwara`) |
+| Vada Nadu | 1 (`srisailam-mallikarjuna`) |
+| **Total** | **41 (+1 borderline)** |
 
-### Pandya Nadu (4 + 1 borderline)
-`meenakshi-madurai` (Thiru Aalavai) · `kutralanathar-courtallam` · `nellaiappar-tirunelveli` ·
-`ramanathaswamy-rameswaram` · *borderline:* `thiruparankundram-murugan` (modelled as a
-Murugan temple in the catalog; traditionally counted among the Paadal Petra Sthalams for
-its Shiva shrine Parangirinathar — **owner decision** whether to list it on this circuit).
-
-### Nadu Nadu (3)
-`arunachaleswarar` (Thiruvannamalai) · `veerattaneswarar-thiruvathigai` (Panruti) ·
-`veerattaneswarar-thirukkovilur`
-
-### Thondai Nadu (5)
-`ekambareswarar` (Kanchipuram) · `kachabeswarar-kanchipuram` · `kapaleeshwarar-mylapore` ·
-`thiruvalangadu-vadaranyeswarar` · `srikalahasti`
-
-### Thulu Nadu (1)
-`gokarna-mahabaleshwara`
-
-### Vada Nadu (1)
-`srisailam-mallikarjuna`
-
-> Region assignment of the in-catalog set follows the research draft; the north-vs-south
-> Kaveri split and the Thondai-vs-Nadu-Nadu boundary are refined per temple at content
-> time against the chosen primary source.
+Seven of the in-catalog Chola temples are shipped Navagraha temples that are also Paadal
+Petra Sthalams (Thirunageswaram, Alangudi, Kanjanur, Vaitheeswaran Koil, Thiruvenkadu,
+plus Thirunallar). The other two Navagraha shrines in the catalog — Thingalur and
+Keezhaperumpallam — are **Vaippu Sthalams, not Paadal Petra** (see corrections below).
 
 ---
 
-## Remaining to write (target ≈ 233)
+## Remaining to write (target ≈ 234)
 
 | Region | Canonical | In catalog | **To write** |
 |---|---:|---:|---:|
@@ -145,7 +138,7 @@ its Shiva shrine Parangirinathar — **owner decision** whether to list it on th
 | Thulu Nadu | 1 | 1 | 0 |
 | Eezha Nadu | 2 | 0 | **2** |
 | Vada Nadu | 5–7 | 1 | **~6** |
-| **Total** | **276** | **43 (+1)** | **≈ 233** |
+| **Total** | **276** | **41 (+1)** | **≈ 234** |
 
 ---
 
@@ -212,32 +205,41 @@ group with the in-catalog members above, add `paadal-petra-sthalams` to each mem
 
 ---
 
-## Owner decisions needed
+## Owner decisions
 
-1. **Canonical source** — adopt shivatemples.com as the single source of truth for
-   membership/counts (resolves the boundary-case discrepancies)? (Recommended.)
-2. **Circuit visibility** — stand the circuit up now as a visibly-partial, "being
-   completed in waves" page seeded with the 43 shipped members, or hold it hidden until
-   it is substantially complete? (Divya Desams precedent = ship complete.)
-3. **Thiruparankundram** — list the Murugan-primary `thiruparankundram-murugan` on this
-   Shaiva circuit (traditionally counted) or leave it off?
-4. **Verification path** — resolve the blocked-network constraint (run in a
-   web-enabled environment, or paste the canonical per-region lists) so the Appendix A
-   draft can be promoted to an authoritative target list.
+1. **Canonical source — RESOLVED:** shivatemples.com adopted as the single source of
+   truth for membership/counts.
+2. **Circuit visibility — RESOLVED:** hold the circuit until it is **substantially
+   complete** (do not stand up a visibly-partial page). It will be instantiated during
+   the content run, not now.
+3. **Thiruparankundram — OPEN (deferred):** whether to list the Murugan-primary
+   `thiruparankundram-murugan` on this Shaiva circuit. Decide when the circuit is built;
+   it is flagged *borderline* in the list.
+4. **Verification path — RESOLVED:** done in-session via WebSearch (see status note at
+   top). The full list is committed in `paadal-petra-sthalams-list.md`. Goddess/native
+   columns still get per-temple verification at content time.
+
+## Content corrections (found during this audit)
+
+Two catalog temples assert "Paadal Petra Sthalam" in their content but are actually
+**Vaippu Sthalams** (praised by Appar without naming the deity → not among the 276):
+
+| Temple | Current (wrong) | Correct | Source |
+|---|---|---|---|
+| `keezhaperumpallam-naganathaswamy` (Ketu) | "one of the Paadal Petra Sthalams" | Vaippu Sthalam | Wikipedia: "no mention of the deity, not classified as Padal Petra" |
+| `thingalur-kailasanathar` (Chandran) | "a Paadal Petra Sthalam sung in the Tevaram" | Vaippu Sthalam (Tevaram) | tntemplesproject / temple guides |
+
+Fix = change the wording (×6 locales each) **and re-run narration** for those temples
+(the audio currently says "Paadal Petra"), per the CLAUDE.md audio pipeline. Because this
+touches content + media, it is flagged for the owner rather than done inline here. (A
+prior session corrected three other Vaippu temples; these two were missed.)
 
 ---
 
-## Appendix A — UNVERIFIED WORKING DRAFT of member names
+## The member list
 
-> **Do not ship from this without per-temple verification.** Compiled under the blocked-
-> network constraint above, from search summaries + model knowledge, by region. Counts
-> fall short of canonical where sources could not be reached (Chola north 27/63, Chola
-> south 51/128, Vada 4/7). Goddess names, district names (several districts were
-> recently reorganised), and north/south-bank classification are the least reliable
-> columns. In-catalog members are marked ✅. This appendix is a starting checklist for
-> the content run, nothing more.
-
-The draft region tables (Chola Nadu north, Chola Nadu south, Pandya, Nadu Nadu, Kongu,
-Thondai, Eezha, Thulu, Malai, Vada) are retained in the session working notes rather than
-committed here, to keep this document authoritative. Promote them into this appendix once
-verified against the canonical source. See "Verification path" above.
+The full region-by-region list of all 276 — **promoted from draft to a committed,
+WebSearch-verified reference** — is in **`paadal-petra-sthalams-list.md`**, with each
+region's shipped (in-catalog) members marked and the content target implied by the rest.
+Membership and towns are reliable; goddess/native-name columns carry per-row `?` flags
+and get verified per temple at content time.
