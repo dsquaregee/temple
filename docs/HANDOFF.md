@@ -47,7 +47,15 @@ conversation. Last updated: 2026-10-15.
   hit it, the reset is weekly — check current status before a big fan-out, and prefer
   **Sonnet** for research subagents (WebSearch compilation doesn't need Opus).
 
-## Wave C — exactly what to do next
+## Wave C — status & exactly what to do next
+
+**The content run has STARTED (does not wait for Oct 18 — that was only the prior
+session's weekly-Opus-limit reset, which does not block a fresh session).** First temple
+shipped as the reference implementation: **`avinashiappar-avinashi`** (Kongu Nadu) — full
+content in all 6 locales + `docs/research/paadal-petra/avinashiappar-avinashi.md`. **Mirror
+that temple's structure, depth, and tone** for the rest. Ships text-first (`circuits: []`,
+no audio/hero/video — the media run adds those later). Kongu Nadu: 1 of 7 done.
+
 
 Per `03-catalog-expansion.md` and the manifest, ship **region by region** (each region =
 one circuit `groups` entry + one Yatra page/map, exactly like the Divya Desams). Suggested
