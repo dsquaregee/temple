@@ -4,6 +4,10 @@ An app for devotees to find, learn, and experience the oldest temples of India,
 with a primary focus on South India. Highlights features, architecture, history,
 and benefits of each temple. Owner: dsquaregee (support@dsquaregee.com).
 
+> **Continuing this project (new session / shared conversation)?** Read
+> **`docs/HANDOFF.md`** first — it captures current state, environment gotchas, and the
+> next steps for the active workstream (Wave C — the Paadal Petra Sthalams).
+
 ## Product requirements (from owner)
 
 - PWA + native iOS and Android apps
@@ -75,6 +79,14 @@ Launch core — Great Living Chola Temples (UNESCO): brihadeeswarar,
 gangaikonda-cholapuram, airavatesvara. Pancha Bhoota Sthalams: ekambareswarar
 (earth), jambukeswarar (water), arunachaleswarar (fire), srikalahasti (air),
 nataraja-chidambaram (space). Plus: meenakshi-madurai, ramanathaswamy-rameswaram.
+
+**Wave C — Paadal Petra Sthalams (in progress, the flagship expansion).** The 276 Tevaram
+Shiva temples, Shaiva counterpart of the Divya Desams. **41 of 276 already in the catalog;
+~234 to write**, region by region (Chola 191 / Pandya 14 / Nadu Nadu 22 / Thondai 31 /
+Kongu 7 / + outlying). Verified full list: `docs/research/paadal-petra-sthalams-list.md`;
+plan, decisions & corrections: `docs/research/paadal-petra-sthalams.md`; operational
+handoff: `docs/HANDOFF.md`. The `paadal-petra-sthalams` circuit is deliberately **not
+created until substantially complete** (owner decision — avoid a partial Yatra page).
 
 ## Narration audio
 
