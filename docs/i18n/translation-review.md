@@ -10,10 +10,10 @@
 | Locale | Language | Target-script ratio | Errors | Warnings |
 |---|---|---|---|---|
 | `ta` | Tamil | 100.0% | 0 | 0 |
-| `te` | Telugu | 100.0% | 0 | 0 |
-| `kn` | Kannada | 100.0% | 0 | 0 |
-| `ml` | Malayalam | 100.0% | 0 | 0 |
-| `hi` | Hindi (Devanagari) | 100.0% | 0 | 0 |
+| `te` | Telugu | 100.0% | 0 | 1 |
+| `kn` | Kannada | 100.0% | 0 | 1 |
+| `ml` | Malayalam | 100.0% | 0 | 1 |
+| `hi` | Hindi (Devanagari) | 100.0% | 0 | 1 |
 
 (Target-script ratio = share of letters in the language's own script vs
 Latin. Below 100% is expected — proper nouns stay in Latin.)
@@ -24,7 +24,12 @@ _None._ Every prose field contains characters in its target script.
 
 ## Warnings (spot-check)
 
-_None._
+| Locale | File | Field | Note |
+|---|---|---|---|
+| `te` | temples/sathyagirinatha-thirumeyyam | `style` | much shorter than English (16% of source length — possible truncation) |
+| `kn` | temples/sathyagirinatha-thirumeyyam | `style` | much shorter than English (16% of source length — possible truncation) |
+| `ml` | temples/sathyagirinatha-thirumeyyam | `style` | much shorter than English (18% of source length — possible truncation) |
+| `hi` | temples/sathyagirinatha-thirumeyyam | `style` | much shorter than English (16% of source length — possible truncation) |
 
 ## Human reviewer checklist (per language)
 
