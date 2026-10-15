@@ -71,12 +71,15 @@ lands. Design (10 regional groups) is in the manifest. **Sub-split Chola Nadu so
 (~128) into sub-belts so no single regional page exceeds the 600 KB budget
 (`apps/web/scripts/check-budget.mjs`).
 
-### Open decisions to confirm with the owner
-- **Thiruparankundram** (`thiruparankundram-murugan`): Murugan-primary temple
-  traditionally counted among the Paadal Petra Sthalams — list it on the circuit or not?
-  (Flagged *borderline* in the list.)
-- **Far-north Vada Nadu shrines** (Kedarnath, Mount Kailash, etc.): go beyond the app's
-  South-India focus; need an explicit scope decision like the Jyotirlingas.
+### Scope decisions — RESOLVED (owner, 2026-10-15)
+- **Thiruparankundram** (`thiruparankundram-murugan`): **include** on the circuit (it is
+  canonically a Pandya Nadu member via its Shiva shrine Parangirinathar); page stays
+  Murugan-primary, carries `paadal-petra-sthalams` alongside its Arupadai-Veedu membership.
+- **Far-north Vada Nadu** (Kedarnath, Mount Kailash, Anekatangavadam, Indra Neela
+  Parvatham): **include**, mirroring how the Divya Desams circuit handles its northern
+  abodes. Present Mount Kailash reverently as the pilgrimage peak; Indra Neela Parvatham
+  is the one edge case (disputed location) — research carefully. Sequence Vada Nadu last.
+  Details in `paadal-petra-sthalams.md` → "Owner decisions".
 
 ## Follow-up: narration for the 2 corrected Vaippu temples
 

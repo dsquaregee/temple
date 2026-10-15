@@ -81,7 +81,7 @@ gangaikonda-cholapuram, airavatesvara. Pancha Bhoota Sthalams: ekambareswarar
 nataraja-chidambaram (space). Plus: meenakshi-madurai, ramanathaswamy-rameswaram.
 
 **Wave C — Paadal Petra Sthalams (in progress, the flagship expansion).** The 276 Tevaram
-Shiva temples, Shaiva counterpart of the Divya Desams. **41 of 276 already in the catalog;
+Shiva temples, Shaiva counterpart of the Divya Desams. **42 of 276 already in the catalog;
 ~234 to write**, region by region (Chola 191 / Pandya 14 / Nadu Nadu 22 / Thondai 31 /
 Kongu 7 / + outlying). Verified full list: `docs/research/paadal-petra-sthalams-list.md`;
 plan, decisions & corrections: `docs/research/paadal-petra-sthalams.md`; operational

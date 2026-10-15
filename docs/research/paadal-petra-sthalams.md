@@ -82,18 +82,19 @@ Thondai Nadu or Vada Nadu; the Vada Nadu 5-vs-7 membership. Recommend adopting
 
 ## Already in the catalog (verified from repo content)
 
-**41 of the 276 are already shipped** (+1 borderline), verified against
+**42 of the 276 are already shipped**, verified against
 `packages/content/data/temples/en` and cross-referenced to the canonical list. The full
 per-region in-catalog breakdown lives in `paadal-petra-sthalams-list.md` (each region's
 table names its shipped members with their canonical row number). These must **not** be
 rewritten; they only need to be added to the new circuit's `stops` (and their `circuits`
 field updated) when it is stood up.
 
-> **Correction (was 43 → now 41):** two temples that claim "Paadal Petra Sthalam" in
-> their catalog content — `keezhaperumpallam-naganathaswamy` (Ketu) and
-> `thingalur-kailasanathar` (Chandran) — are in fact **Vaippu Sthalams** (mentioned in
-> Appar's hymns but the deity is not named), *not* among the 276. Their content is wrong
-> and is listed under "Content corrections" below.
+> **Count notes:** two temples that claim "Paadal Petra Sthalam" in their catalog content
+> — `keezhaperumpallam-naganathaswamy` (Ketu) and `thingalur-kailasanathar` (Chandran) —
+> are in fact **Vaippu Sthalams** (mentioned in Appar's hymns but the deity is not named),
+> *not* among the 276 (so the raw 43 → 41; see "Content corrections"). With
+> `thiruparankundram-murugan` confirmed a member (owner decision), the in-catalog total is
+> **42**.
 
 > Note on method: a plain keyword scan both over- and under-counts. It wrongly flagged
 > `airavatesvara` (Darasuram) — a 12th-c. Chola temple that post-dates the Tevaram, so
@@ -109,12 +110,12 @@ In-catalog members by region (full per-temple detail + canonical row numbers in
 |---|---:|
 | Chola Nadu north | 9 |
 | Chola Nadu south | 18 |
-| Pandya Nadu | 4 (+1 borderline `thiruparankundram-murugan`) |
+| Pandya Nadu | 5 (incl. `thiruparankundram-murugan`) |
 | Nadu Nadu | 3 |
 | Thondai Nadu | 5 (incl. `srikalahasti`) |
 | Thulu Nadu | 1 (`gokarna-mahabaleshwara`) |
 | Vada Nadu | 1 (`srisailam-mallikarjuna`) |
-| **Total** | **41 (+1 borderline)** |
+| **Total** | **42** |
 
 Seven of the in-catalog Chola temples are shipped Navagraha temples that are also Paadal
 Petra Sthalams (Thirunageswaram, Alangudi, Kanjanur, Vaitheeswaran Koil, Thiruvenkadu,
@@ -130,7 +131,7 @@ Keezhaperumpallam — are **Vaippu Sthalams, not Paadal Petra** (see corrections
 | Chola Nadu (north) | 63 | — | — |
 | Chola Nadu (south) | 128 | — | — |
 | Chola Nadu (combined) | 191 | 29 | **~162** |
-| Pandya Nadu | 14 | 4 (+1) | **~9** |
+| Pandya Nadu | 14 | 5 | **~9** |
 | Nadu Nadu | 22 | 3 | **~19** |
 | Thondai Nadu | 31–32 | 5 | **~26** |
 | Kongu Nadu | 7 | 0 | **7** |
@@ -138,7 +139,7 @@ Keezhaperumpallam — are **Vaippu Sthalams, not Paadal Petra** (see corrections
 | Thulu Nadu | 1 | 1 | 0 |
 | Eezha Nadu | 2 | 0 | **2** |
 | Vada Nadu | 5–7 | 1 | **~6** |
-| **Total** | **276** | **41 (+1)** | **≈ 234** |
+| **Total** | **276** | **42** | **≈ 234** |
 
 ---
 
@@ -212,12 +213,23 @@ group with the in-catalog members above, add `paadal-petra-sthalams` to each mem
 2. **Circuit visibility — RESOLVED:** hold the circuit until it is **substantially
    complete** (do not stand up a visibly-partial page). It will be instantiated during
    the content run, not now.
-3. **Thiruparankundram — OPEN (deferred):** whether to list the Murugan-primary
-   `thiruparankundram-murugan` on this Shaiva circuit. Decide when the circuit is built;
-   it is flagged *borderline* in the list.
+3. **Thiruparankundram — RESOLVED: include.** `thiruparankundram-murugan` is canonically
+   one of the 14 Pandya Nadu Paadal Petra Sthalams (its Shiva shrine Parangirinathar is
+   the Tevaram-sung aspect). It will carry the `paadal-petra-sthalams` circuit in addition
+   to its Murugan/Arupadai-Veedu membership; the temple page stays Murugan-primary with a
+   one-line note on the Parangirinathar shrine. (Owner decision 2026-10-15.)
 4. **Verification path — RESOLVED:** done in-session via WebSearch (see status note at
    top). The full list is committed in `paadal-petra-sthalams-list.md`. Goddess/native
    columns still get per-temple verification at content time.
+5. **Far-north Vada Nadu scope — RESOLVED: include, mirroring the Divya Desams.** The
+   completed Divya Desams circuit already includes its northern/Nepal abodes (Badrinath,
+   Muktinath) and omits only the two purely celestial ones; the Shaiva flagship follows
+   the same rule. Include the earthly Vada Nadu members — Srisailam (shipped), Kedarnath
+   (high-value, also seeds a future Panch Kedar/Char Dham circuit), Mount Kailash and
+   Anekatangavadam/Gowrikund — presenting Mount Kailash reverently as the pilgrimage abode
+   (a peak, not a built temple to "visit"). **Indra Neela Parvatham** is the one edge case
+   (location disputed/obscure): research carefully and present honestly as "traditionally
+   identified with…". Sequence Vada Nadu last. (Owner decision 2026-10-15.)
 
 ## Content corrections (found during this audit)
 

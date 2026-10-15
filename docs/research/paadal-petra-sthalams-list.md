@@ -31,7 +31,7 @@ before the circuit is finalised.**
 
 ## In-catalog status
 
-**41 of these are already in the catalog** (+1 borderline), verified from repo content;
+**42 of these are already in the catalog**, verified from repo content;
 each region's shipped members are listed under its table. The rest are the content target.
 
 > **Two corrections found during this audit (NOT Paadal Petra Sthalams):**
@@ -261,9 +261,11 @@ In catalog (18): `pushpavananathar-thirupoonthuruthi` (#11) · `brahmasirakandee
 
 ## Pandya Nadu — 14
 
-In catalog (4 + 1 borderline): `meenakshi-madurai` (#1) · `ramanathaswamy-rameswaram` (#8) ·
-`kutralanathar-courtallam` (#13) · `nellaiappar-tirunelveli` (#14) · *borderline*
-`thiruparankundram-murugan` (#3, Murugan-primary; traditionally counted).
+In catalog (5): `meenakshi-madurai` (#1) · `thiruparankundram-murugan` (#3) ·
+`ramanathaswamy-rameswaram` (#8) · `kutralanathar-courtallam` (#13) ·
+`nellaiappar-tirunelveli` (#14). *(Thiruparankundram is a member — owner decision
+2026-10-15; its Shiva shrine Parangirinathar is the Tevaram-sung aspect, and it carries
+this circuit alongside its Murugan/Arupadai-Veedu membership.)*
 
 | # | Temple | Presiding Shiva deity | Goddess | Native Tamil name | Town/Village | District | State |
 |---|---|---|---|---|---|---|---|
@@ -393,9 +395,12 @@ In catalog: 0.
 
 ## Vada Nadu / North India — 5 (some sources 7)
 
-In catalog (1): `srisailam-mallikarjuna`. The far-north shrines (Kedarnath, Kailash, etc.)
-go beyond the app's South-India focus and need an explicit scope decision (like the
-Jyotirlingas).
+In catalog (1): `srisailam-mallikarjuna`. **Included** (owner decision 2026-10-15),
+mirroring how the Divya Desams circuit handles its northern abodes: ship the earthly
+members — Srisailam, Kedarnath, Mount Kailash (presented reverently as the pilgrimage
+peak, not a built temple to "visit"), Anekatangavadam/Gowrikund. **Indra Neela Parvatham**
+is the edge case — location disputed/obscure; research carefully and present as
+"traditionally identified with…". Sequence Vada Nadu last.
 
 | # | Temple | Presiding Shiva deity | Goddess | Native Tamil name | Town/Village | Area | State/Country |
 |---|---|---|---|---|---|---|---|
@@ -408,4 +413,4 @@ Jyotirlingas).
 ---
 
 **Regional totals:** 63 + 128 + 14 + 22 + 7 + 31(+1) + 1 + 1 + 2 + 5 = **275 (+1 with Srikalahasti counted in Thondai = 276 range).**
-**In catalog:** 41 (+1 borderline Thiruparankundram). **To write:** ~234.
+**In catalog:** 42 (incl. Thiruparankundram). **To write:** ~234.
