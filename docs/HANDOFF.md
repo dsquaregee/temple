@@ -49,12 +49,42 @@ conversation. Last updated: 2026-10-15.
 
 ## Wave C — status & exactly what to do next
 
-**The content run has STARTED (does not wait for Oct 18 — that was only the prior
-session's weekly-Opus-limit reset, which does not block a fresh session).** First temple
-shipped as the reference implementation: **`avinashiappar-avinashi`** (Kongu Nadu) — full
-content in all 6 locales + `docs/research/paadal-petra/avinashiappar-avinashi.md`. **Mirror
-that temple's structure, depth, and tone** for the rest. Ships text-first (`circuits: []`,
-no audio/hero/video — the media run adds those later). Kongu Nadu: 1 of 7 done.
+**The content run is IN PROGRESS.** Reference implementation every temple mirrors:
+**`avinashiappar-avinashi`** (all 6 locales + `docs/research/paadal-petra/avinashiappar-avinashi.md`).
+Temples ship text-first (`circuits: []`, no audio/hero/video — the media run adds those).
+
+**Progress (as of 2026-10-16, catalog 285×6, all validating):**
+- ✅ **Kongu Nadu** — complete (7/7), live.
+- ✅ **Pandya Nadu** — complete (14/14: 5 pre-existing + 9 new), live.
+- 🔨 **Nadu Nadu** — 8 of 19 new pushed; **11 still to write** (sivakozhundeesar-tirthanagiri,
+  neelakandeswarar-erukkattampuliyur, vennaiyappar-tirunelvennai, atulyanatheswarar-arakandanallur,
+  idaiyattrunathar-tiruvidaiyaru, kripapureeswarar-tiruvennainallur, sishtagurunathar-tiruthuraiyur,
+  vadukeeswarar-tiruvandarkoil, vamanapureeswarar-tirumanikuzhi, panankatteeswarar-panankattur,
+  azhagiyanathar-tiruvamathur). **Research NOTES still owed** for 8 pushed temples:
+  theerthapureeswarar-tiruvathurai, sudarkozhundeesar-pennadam, narthanavallabeswarar-koodalaiyathur,
+  mangalapureeswarar-tiruchopuram, bhaktajaneswarar-tirunavalur, vriddhagireeswarar-vriddhachalam,
+  padaleeswarar-tiruppathiripuliyur, mundeeswarar-tirumundeeswaram.
+- ⏳ **Thondai (27), outlying (7), Chola north (54), Chola south (110)** — not started.
+
+**Paadal Petra in catalog: 66 / 276.**
+
+**⏸ Paused on a rate limit:** the Sonnet subagent model hit a **session limit (resets
+~23:50 UTC 2026-10-16)**. A one-shot resume trigger (`trig_01LTgffEVYeGBQVLWdizL2Un`)
+fires into this session at **2026-10-16T23:55 UTC** to continue the waves automatically.
+If you're a human picking this up sooner and the limit has cleared, just resume per below.
+
+**How to run a wave:** spawn ~4 Sonnet subagents × ~4-5 temples each, lean prompt (WebSearch
+only; all 6 locales; nativeName Tamil-script identical across locales; circuits:[]; no media;
+research note with Sources + "Not verified"). **Check existing files first and skip temples
+already written.** After each wave: `content:validate` + `qa-translations`, commit + push the
+slice. Names/towns/deities are in `paadal-petra-sthalams-list.md`.
+
+**At the end:** create the `paadal-petra-sthalams` circuit (×6 locales, 10 regional groups,
+divya-desams model) seeded with ALL members, add the circuit to each member's `circuits`
+field (×6 locales); validate (groups partition stops in order; both sides agree). Sub-split
+Chola Nadu south if one regional page would exceed the 600 KB budget. Then refresh CLAUDE.md
+/ this file's counts, and flag: (a) narration/media regen for all new temples + the 2 Vaippu
+fixes; (b) a native-speaker editorial pass — all translations are AI-drafted.
 
 
 Per `03-catalog-expansion.md` and the manifest, ship **region by region** (each region =
