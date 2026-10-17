@@ -1,0 +1,23 @@
+# Sathyagireeswarar Temple, Tirucheygnalur / Senganur (sathyagireeswarar-tirucheygnalur)
+
+Region: Paadal Petra Sthalams — Chola Nadu (north of the Kaveri), Thanjavur district (village of Senganur, Thiruvidaimarudur taluk; also listed under Kumbakonam block / Tirupanandal post). Tradition: Shaivism.
+
+- Deity: Shiva as **Sathyagireeswarar** (also written Satyagireeswarar / Sakthigireeswarar; svayambhu linga); consort **Sakhi Devi (Sakhi Deviyammai / Saki Devi Ammai)** — one source notes this as the only place Parvati bears this name.
+- Tevaram name: **Tirucheygnalur** (Tiru-Seingyallur / Seignalur; modern Senganur / Chenganur). Sung by **Tirugnanasambandar** (1st Tirumurai; shivatemples.com lists "Sambandar - 1"). Also named in Sekkizhar's Periya Puranam. Hymns of Arunagirinathar also noted by Wikipedia.
+- Coordinates: **approximate ~11.015, 79.47** (area of Senganur, between Thiruvidaimarudur and Tirupanandal). No sourced temple coordinate found; one directory gave 11.119, 79.464 but that is ~19 km straight-line from Kumbakonam, inconsistent with the 16 km road distance cited, so it was not used. Refine against a mapping source.
+- Defining legend: birthplace of **Chandesvara Nayanar** (Visara Sarman), the 63-Nayanmar saint who becomes Chandikeswarar, enshrined at the north of the sanctum in every Shiva temple. Brahmin couple Echathathan and Pavithrai; boy master of the Vedas; stops a herdsman beating a calf and takes over the village cattle (cows as Kamadhenu); makes a sand linga on the bank of the Manni and bathes it with milk; father kicks the milk over; boy strikes with his staff, which becomes an axe (mazhu) and severs the father's legs; Shiva and Parvati appear, embrace him and make him Chandesa, chief of the Lord's servants. Secondary local legend: Murugan received the Sarvashankara weapon / Rudra Pasupata from Shiva here before defeating Surapadman; "Sei" read as Murugan, place-name Sei-nal-oor.
+- Architecture: east-facing **maadakkoil** on a high base, "as if on a hill" (tradition: a piece of Mount Meru fell here); two prakaras (upper and ground level); narrow sanctum doorway (said to be elephant-proof); goddess shrine unusually in the **outer prakara at ground level**; Bhairava shrine in the maha mandapam whose wall rings like bronze when tapped; Chandikeswarar shrine. Tank/waters: Manni river, Sathya Pushkarini, Kumara Theertham. Tradition ascribes the original brick temple to Kochengat Chola (one of the 70 maadakkoils); rebuilt in stone in the medieval Chola period; Vijayanagara-era expansion.
+- Festivals: Chandesvara Nayanar birthday (Thai, Uthiram star, Jan–Feb); Avani Vinayaka Chaturthi; Aippasi Skanda Shashti; Aippasi annabhishekam; Tirukarthikai; Masi Maha Shivaratri.
+- Access: ~16 km from Kumbakonam on the Chennai road (one directory gives 17.3 km); Kumbakonam is the practical railhead/bus hub (a directory lists Narasingampet as nearest railway); Tiruchirappalli is the nearest airport (~110 km, approximate, own estimate). Listed hours 7:00–9:00 a.m. and 5:30–7:00 p.m.; phone +91-435-2457 459; PIN 612504.
+- Seed corrections: Chandesar is described in sources as a **Brahmin boy** who took up cow-tending (not a cowherd by birth), and he cut his father's **legs** (plural, per Periya Puranam retellings) with an axe formed from the staff. Nearby **Tiru-Aappadi (Tiruvaippadi)** is the place associated with his attainment of liberation / grace; this note does not claim Aappadi as the site of the sand-linga scene.
+- **Not verified:** exact temple coordinate; construction dates and the Kochengat Chola attribution (tradition only, from temple blogs/Dinamalar); the Vijayanagara additions (blog); the father's later fate in the Periya Puranam (omitted from prose); whether Sambandar is the only Tevaram composer for this shrine (Wikipedia and shivatemples.com name only him); sthala vriksha; current timings (short hours reported); Tiruchirappalli distance; spelling of parents' names varies across sources (Echathathan / Eachadatta; Pavithrai).
+
+Sources:
+- https://en.wikipedia.org/wiki/Satyagireeswarar_Temple,_Senganur
+- https://temple.dinamalar.com/en/new_en.php?id=380
+- https://shivatemples.com/nofc/nc41.php
+- https://tntemplesproject.in/Sakti-Gireeswarar-Senganur-Thanjavur
+- https://www.dharisanam.com/temples/sri-sathiyagireeswarar-temple-at-thiru-seinjalur-seinganur
+- https://veludharan.blogspot.com/2020/11/sri-satyagireeswarar-temple-senganur.html
+- https://tamilnadu-favtourism.blogspot.com/2021/10/sathyagireeswarar-temple-senganur-temple.html
+- https://www.hindu-blog.com/2023/10/senganur-shiva-temple-story-sathyagireeswarar.html
