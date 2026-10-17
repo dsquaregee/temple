@@ -21,8 +21,8 @@ Kaveri (per shivatemples/Dinamalar).
   absolved. Name Aranya = forest (the area was once forest).
 - Architecture: no tall gopuram; understated entrance opening directly into a spacious outer
   prakaram; sanctum vimana of the **dwidala** type; Ambal shrine to the left of the main deity;
-  seven lingas in the temple, one with two banas (Dinamalar). Hall/maturity of present
-  structure undated.
+  seven lingas in the temple, one with two banas (Dinamalar). Date of the present
+  structure unknown.
 - Festivals: Maha Shivaratri (Feb–Mar); Aipasi Skanda Sashti (Oct–Nov); Arudra Darshan
   (Dec–Jan); Vinayaka Chaturthi (Aug–Sep); monthly Pradosham (generic).
 - Timings reported: ~8:00–11:00 and 18:00–19:30 (Dinamalar, TN Temples Project); shivatemples
