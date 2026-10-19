@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/pasupatheeswarar-karur.mp3",
     "durationSec": 257
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pasupatheeswarar-karur.jpg",
+    "color": "#5C3A2E",
+    "alt": "పశుపతీశ్వర ఆలయం, కరూర్",
+    "credit": "Balaji / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

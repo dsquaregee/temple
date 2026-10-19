@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/kedarnath.mp3",
     "durationSec": 192
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kedarnath.jpg",
+    "color": "#5C3A2E",
+    "alt": "కేదార్‌నాథ్ ఆలయం",
+    "credit": "Sarika Shirbhate / Wikimedia Commons (CC BY-SA 4.0) · Rohit Sharma / Wikimedia Commons (CC BY-SA 4.0) · Dolon Prova / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/kedarnath.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kedarnath.jpg",
+    "durationSec": 211,
+    "credit": "Sarika Shirbhate / Wikimedia Commons (CC BY-SA 4.0) · Rohit Sharma / Wikimedia Commons (CC BY-SA 4.0) · Dolon Prova / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

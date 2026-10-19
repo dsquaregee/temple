@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vilvanatheswarar-thiruvalam.mp3",
     "durationSec": 222
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Vilvanatheswarar Temple, Thiruvalam",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/vilvanatheswarar-thiruvalam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.jpg",
+    "durationSec": 161,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

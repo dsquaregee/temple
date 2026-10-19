@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/bhimashankar-pune.mp3",
     "durationSec": 202
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/bhimashankar-pune.jpg",
+    "color": "#5C3A2E",
+    "alt": "Bhimashankar Temple, Bhimashankar",
+    "credit": "Mechatron00 / Wikimedia Commons (CC BY-SA 4.0) · nikhil more / Wikimedia Commons (CC BY-SA 4.0) · Sumit Sarswat / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/bhimashankar-pune.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhimashankar-pune.jpg",
+    "durationSec": 151,
+    "credit": "Mechatron00 / Wikimedia Commons (CC BY-SA 4.0) · nikhil more / Wikimedia Commons (CC BY-SA 4.0) · Sumit Sarswat / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

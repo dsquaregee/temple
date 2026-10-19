@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/sangameswarar-bhavani.mp3",
     "durationSec": 234
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.jpg",
+    "color": "#5C3A2E",
+    "alt": "संगमेश्वरर मंदिर, भवानी",
+    "credit": "Shanze1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/sangameswarar-bhavani.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.jpg",
+    "durationSec": 214,
+    "credit": "Shanze1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

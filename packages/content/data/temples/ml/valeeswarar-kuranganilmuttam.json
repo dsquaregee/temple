@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/valeeswarar-kuranganilmuttam.mp3",
     "durationSec": 269
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.jpg",
+    "color": "#5C3A2E",
+    "alt": "വാലീശ്വരർ ക്ഷേത്രം, കുരങ്കണില്‍മുട്ടം",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/valeeswarar-kuranganilmuttam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.jpg",
+    "durationSec": 200,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

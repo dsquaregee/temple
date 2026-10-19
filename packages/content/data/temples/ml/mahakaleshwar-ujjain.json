@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/mahakaleshwar-ujjain.mp3",
     "durationSec": 213
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahakaleshwar-ujjain.jpg",
+    "color": "#5C3A2E",
+    "alt": "മഹാകാളേശ്വര ക്ഷേത്രം, ഉജ്ജയിനി",
+    "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0) · Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Shuchita Singh / Wikimedia Commons (CC BY-SA 4.0) · Ashverse / Wikimedia Commons (CC BY-SA 4.0) · Gyanendra_Singh_Chau… / Wikimedia Commons (CC BY 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/mahakaleshwar-ujjain.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mahakaleshwar-ujjain.jpg",
+    "durationSec": 171,
+    "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0) · Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Shuchita Singh / Wikimedia Commons (CC BY-SA 4.0) · Ashverse / Wikimedia Commons (CC BY-SA 4.0) · Gyanendra_Singh_Chau… / Wikimedia Commons (CC BY 3.0)"
   }
 }

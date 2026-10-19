@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/vedagiriswarar-thirukazhukundram.mp3",
     "durationSec": 293
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vedagiriswarar-thirukazhukundram.jpg",
+    "color": "#5C3A2E",
+    "alt": "வேதகிரீஸ்வரர் கோயில், திருக்கழுக்குன்றம்",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/vedagiriswarar-thirukazhukundram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedagiriswarar-thirukazhukundram.jpg",
+    "durationSec": 269,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

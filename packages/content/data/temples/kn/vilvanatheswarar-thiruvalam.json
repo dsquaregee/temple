@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/vilvanatheswarar-thiruvalam.mp3",
     "durationSec": 197
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.jpg",
+    "color": "#5C3A2E",
+    "alt": "ವಿಲ್ವನಾಥೀಶ್ವರರ್ ದೇವಾಲಯ, ತಿರುವಾಲಂ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/vilvanatheswarar-thiruvalam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.jpg",
+    "durationSec": 202,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

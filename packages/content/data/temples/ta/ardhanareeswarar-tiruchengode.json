@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/ardhanareeswarar-tiruchengode.mp3",
     "durationSec": 311
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/ardhanareeswarar-tiruchengode.jpg",
+    "color": "#5C3A2E",
+    "alt": "அர்த்தநாரீஸ்வரர் கோயில், திருச்செங்கோடு",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/ardhanareeswarar-tiruchengode.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ardhanareeswarar-tiruchengode.jpg",
+    "durationSec": 285,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

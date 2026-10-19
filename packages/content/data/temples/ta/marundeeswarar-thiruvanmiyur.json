@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/marundeeswarar-thiruvanmiyur.mp3",
     "durationSec": 306
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/marundeeswarar-thiruvanmiyur.jpg",
+    "color": "#5C3A2E",
+    "alt": "மருந்தீஸ்வரர் கோயில், திருவான்மியூர்",
+    "credit": "Sankar 1995 / Wikimedia Commons (CC BY-SA 4.0) · எஸ். பி. கிருஷ்ணமூர்த்தி / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

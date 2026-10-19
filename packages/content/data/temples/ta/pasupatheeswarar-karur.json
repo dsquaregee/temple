@@ -34,5 +34,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/pasupatheeswarar-karur.mp3",
     "durationSec": 292
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pasupatheeswarar-karur.jpg",
+    "color": "#5C3A2E",
+    "alt": "பசுபதீஸ்வரர் கோயில், கரூர்",
+    "credit": "Balaji / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

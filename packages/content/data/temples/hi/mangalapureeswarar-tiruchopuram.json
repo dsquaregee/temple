@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/mangalapureeswarar-tiruchopuram.mp3",
     "durationSec": 205
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mangalapureeswarar-tiruchopuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "मंगलपुरीश्वरर मंदिर, तिरुचोपुरम",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/mangalapureeswarar-tiruchopuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mangalapureeswarar-tiruchopuram.jpg",
+    "durationSec": 188,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

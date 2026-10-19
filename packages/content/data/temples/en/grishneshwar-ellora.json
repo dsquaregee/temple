@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/grishneshwar-ellora.mp3",
     "durationSec": 186
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/grishneshwar-ellora.jpg",
+    "color": "#5C3A2E",
+    "alt": "Grishneshwar Temple, Verul",
+    "credit": "Udaykumar PR / Wikimedia Commons (CC BY 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/grishneshwar-ellora.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/grishneshwar-ellora.jpg",
+    "durationSec": 138,
+    "credit": "Udaykumar PR / Wikimedia Commons (CC BY 3.0)"
   }
 }

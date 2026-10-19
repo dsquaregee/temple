@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/vaidyanath-deoghar.mp3",
     "durationSec": 192
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.jpg",
+    "color": "#5C3A2E",
+    "alt": "బైద్యనాథ ఆలయం, దేవ్‌ఘర్",
+    "credit": "Kishlay RF / Wikimedia Commons (CC BY-SA 3.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/vaidyanath-deoghar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.jpg",
+    "durationSec": 203,
+    "credit": "Kishlay RF / Wikimedia Commons (CC BY-SA 3.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }
 }

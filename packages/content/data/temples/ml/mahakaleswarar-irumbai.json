@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/mahakaleswarar-irumbai.mp3",
     "durationSec": 304
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.jpg",
+    "color": "#5C3A2E",
+    "alt": "മഹാകാലേശ്വരർ ക്ഷേത്രം, ഇരുമ്പൈ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/mahakaleswarar-irumbai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.jpg",
+    "durationSec": 223,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/trimbakeshwar-nashik.mp3",
     "durationSec": 209
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/trimbakeshwar-nashik.jpg",
+    "color": "#5C3A2E",
+    "alt": "ത്ര്യംബകേശ്വർ ക്ഷേത്രം, ത്ര്യംബക്",
+    "credit": "Abhideo21 / Wikimedia Commons (CC BY-SA 4.0) · Prashant Kharote / Wikimedia Commons (CC BY 4.0) · K.Venkataramana / Wikimedia Commons (CC0) · Prashant Kharote / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/trimbakeshwar-nashik.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/trimbakeshwar-nashik.jpg",
+    "durationSec": 161,
+    "credit": "Abhideo21 / Wikimedia Commons (CC BY-SA 4.0) · Prashant Kharote / Wikimedia Commons (CC BY 4.0) · K.Venkataramana / Wikimedia Commons (CC0) · Prashant Kharote / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

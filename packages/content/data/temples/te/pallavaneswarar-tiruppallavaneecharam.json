@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/pallavaneswarar-tiruppallavaneecharam.mp3",
     "durationSec": 237
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/pallavaneswarar-tiruppallavaneecharam.jpg",
+    "color": "#5C3A2E",
+    "alt": "పల్లవనేశ్వరర్ ఆలయం, పూంపుహార్",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/pallavaneswarar-tiruppallavaneecharam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pallavaneswarar-tiruppallavaneecharam.jpg",
+    "durationSec": 253,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

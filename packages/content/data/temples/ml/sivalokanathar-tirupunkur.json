@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/sivalokanathar-tirupunkur.mp3",
     "durationSec": 264
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sivalokanathar-tirupunkur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ശിവലോകനാഥർ ക്ഷേത്രം, തിരുപ്പുൻകൂർ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/sivalokanathar-tirupunkur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sivalokanathar-tirupunkur.jpg",
+    "durationSec": 197,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

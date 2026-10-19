@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/kachabeswarar-thirukachur.mp3",
     "durationSec": 281
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kachabeswarar-thirukachur.jpg",
+    "color": "#5C3A2E",
+    "alt": "कच्छपेश्वर मंदिर, तिरुक्कच्चूर",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/kachabeswarar-thirukachur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kachabeswarar-thirukachur.jpg",
+    "durationSec": 250,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

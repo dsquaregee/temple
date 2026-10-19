@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/vedapureeswarar-thiruverkadu.mp3",
     "durationSec": 246
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruverkadu.jpg",
+    "color": "#5C3A2E",
+    "alt": "వేదపురీశ్వరర్ ఆలయం, తిరువేఱ్కాడు",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/vedapureeswarar-thiruverkadu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruverkadu.jpg",
+    "durationSec": 270,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

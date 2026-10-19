@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/magudeswarar-kodumudi.mp3",
     "durationSec": 261
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/magudeswarar-kodumudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Magudeswarar Temple, Kodumudi",
+    "credit": "Dvellakat / Wikimedia Commons (CC BY-SA 4.0) · Booradleyp1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/magudeswarar-kodumudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/magudeswarar-kodumudi.jpg",
+    "durationSec": 201,
+    "credit": "Dvellakat / Wikimedia Commons (CC BY-SA 4.0) · Booradleyp1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

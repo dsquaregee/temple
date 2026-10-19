@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/kashi-vishwanath-varanasi.mp3",
     "durationSec": 207
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kashi-vishwanath-varanasi.jpg",
+    "color": "#5C3A2E",
+    "alt": "കാശി വിശ്വനാഥ ക്ഷേത്രം, വാരാണസി",
+    "credit": "Gannu03 / Wikimedia Commons (CC BY-SA 4.0) · Aliva Sahoo / Wikimedia Commons (CC BY-SA 3.0) · Immanuelle / Wikimedia Commons (CC BY 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/kashi-vishwanath-varanasi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kashi-vishwanath-varanasi.jpg",
+    "durationSec": 158,
+    "credit": "Gannu03 / Wikimedia Commons (CC BY-SA 4.0) · Aliva Sahoo / Wikimedia Commons (CC BY-SA 3.0) · Immanuelle / Wikimedia Commons (CC BY 4.0)"
   }
 }

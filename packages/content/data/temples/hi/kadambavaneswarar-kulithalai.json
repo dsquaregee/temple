@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/kadambavaneswarar-kulithalai.mp3",
     "durationSec": 192
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kadambavaneswarar-kulithalai.jpg",
+    "color": "#5C3A2E",
+    "alt": "कदंबवनेश्वर मंदिर, कुलितलै",
+    "credit": "பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/kadambavaneswarar-kulithalai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kadambavaneswarar-kulithalai.jpg",
+    "durationSec": 177,
+    "credit": "பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/vedapureeswarar-thiruverkadu.mp3",
     "durationSec": 307
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruverkadu.jpg",
+    "color": "#5C3A2E",
+    "alt": "വേദപുരീശ്വരർ ക്ഷേത്രം, തിരുവേർക്കാട്",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/vedapureeswarar-thiruverkadu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruverkadu.jpg",
+    "durationSec": 228,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

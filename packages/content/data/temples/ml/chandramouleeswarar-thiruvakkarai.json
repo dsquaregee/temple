@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/chandramouleeswarar-thiruvakkarai.mp3",
     "durationSec": 306
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/chandramouleeswarar-thiruvakkarai.jpg",
+    "color": "#5C3A2E",
+    "alt": "ചന്ദ്രമൗലീശ്വരർ ക്ഷേത്രം, തിരുവക്കരൈ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/chandramouleeswarar-thiruvakkarai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/chandramouleeswarar-thiruvakkarai.jpg",
+    "durationSec": 229,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 3.0)"
   }
 }
