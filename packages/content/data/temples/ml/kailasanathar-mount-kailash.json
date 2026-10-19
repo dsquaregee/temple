@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.jpg",
     "color": "#5C3A2E",
     "alt": "കൈലാസ പർവതം (തിരുക്കയിലൈ)",
-    "credit": "Sumitsurai / Wikimedia Commons (CC BY-SA 4.0) · Jean-Marie Hullot / Wikimedia Commons (CC BY-SA 4.0) · Kailash Rai sampangkai / Wikimedia Commons (CC0)"
+    "credit": "Sumitsurai / Wikimedia Commons (CC BY-SA 4.0) · Jean-Marie Hullot / Wikimedia Commons (CC BY-SA 4.0) · Kailash Rai sampangkai / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kailasanathar-mount-kailash.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/kailasanathar-mount-kailash.mp4",
