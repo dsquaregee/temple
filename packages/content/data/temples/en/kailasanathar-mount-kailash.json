@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kailasanathar-mount-kailash.mp3",
     "durationSec": 188
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.jpg",
+    "color": "#5C3A2E",
+    "alt": "Mount Kailash (Thirukkayilai)",
+    "credit": "Sumitsurai / Wikimedia Commons (CC BY-SA 4.0) · Jean-Marie Hullot / Wikimedia Commons (CC BY-SA 4.0) · Kailash Rai sampangkai / Wikimedia Commons (CC0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kailasanathar-mount-kailash.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.jpg",
+    "durationSec": 144,
+    "credit": "Sumitsurai / Wikimedia Commons (CC BY-SA 4.0) · Jean-Marie Hullot / Wikimedia Commons (CC BY-SA 4.0) · Kailash Rai sampangkai / Wikimedia Commons (CC0)"
   }
 }

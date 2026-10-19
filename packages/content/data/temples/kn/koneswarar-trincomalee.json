@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/koneswarar-trincomalee.mp3",
     "durationSec": 166
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/koneswarar-trincomalee.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಕೋಣೇಶ್ವರಂ ದೇವಾಲಯ, ಟ್ರಿಂಕೋಮಲಿ (ತಿರುಕ್ಕೋಣಮಲೈ)",
+    "credit": "J.Hamsalojan / Wikimedia Commons (CC BY-SA 4.0) · Dr.S.Rajivraja / Wikimedia Commons (CC BY-SA 4.0) · Alexey Komarov / Wikimedia Commons (CC BY 3.0) · Dulakshi / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/koneswarar-trincomalee.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/koneswarar-trincomalee.jpg",
+    "durationSec": 178,
+    "credit": "J.Hamsalojan / Wikimedia Commons (CC BY-SA 4.0) · Dr.S.Rajivraja / Wikimedia Commons (CC BY-SA 4.0) · Alexey Komarov / Wikimedia Commons (CC BY 3.0) · Dulakshi / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

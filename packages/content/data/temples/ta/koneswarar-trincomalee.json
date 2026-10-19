@@ -34,5 +34,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/koneswarar-trincomalee.mp3",
     "durationSec": 186
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/koneswarar-trincomalee.jpg",
+    "color": "#5C3A2E",
+    "alt": "கோணேஸ்வரம் கோயில், திருகோணமலை (திருக்கோணமலை)",
+    "credit": "J.Hamsalojan / Wikimedia Commons (CC BY-SA 4.0) · Dr.S.Rajivraja / Wikimedia Commons (CC BY-SA 4.0) · Alexey Komarov / Wikimedia Commons (CC BY 3.0) · Dulakshi / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/koneswarar-trincomalee.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/koneswarar-trincomalee.jpg",
+    "durationSec": 179,
+    "credit": "J.Hamsalojan / Wikimedia Commons (CC BY-SA 4.0) · Dr.S.Rajivraja / Wikimedia Commons (CC BY-SA 4.0) · Alexey Komarov / Wikimedia Commons (CC BY 3.0) · Dulakshi / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

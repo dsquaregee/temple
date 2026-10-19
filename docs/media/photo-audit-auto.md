@@ -6,8 +6,6 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
-| anekathangapatheswarar-gaurikund | 0 | ⚠️ skipped (no qualifying photo) |
-| kailasanathar-mount-kailash | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-mount-kailash | 6 | ✅ included |
 | ketheeswarar-mannar | 0 | ⚠️ skipped (no qualifying photo) |
-| koneswarar-trincomalee | 0 | ⚠️ skipped (no qualifying photo) |
-| neelachalanathar-indraneelaparuppatham | 0 | ⚠️ skipped (no qualifying photo) |
+| koneswarar-trincomalee | 6 | ✅ included |
