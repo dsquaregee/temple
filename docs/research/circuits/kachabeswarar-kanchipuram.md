@@ -4,7 +4,7 @@ Circuit: temples-of-kanchipuram. Tradition: Shaivism. (Distinct from Kachabeswar
 
 - Deity: Shiva as Kachabeswarar (self-manifested lingam); consort Sundarambikai (Sundarambika).
 - Coordinates: Wikipedia infobox (Karchapeswarar Temple) 12°50'17"N 79°42'04"E = 12.838, 79.701.
-- Paadal Petra Sthalam, sung by Sundarar (Tevaram).
+- Tevaram Vaippu Sthalam, mentioned by Appar; not one of the 276 Paadal Petra Sthalams. Sundarar's hymn belongs to Kachabeswarar, Thirukachur (near Singaperumalkoil), not to this temple.
 - Legend: Vishnu in tortoise (kurma, kachapa) form worshipped Shiva here.
 - Origins Pallava; Chola and later Vijayanagara/Nayak work; present masonry largely 16th c. (sources vary).
 - Located on West Raja Street, a short distance from the Kamakshi temple.
@@ -15,6 +15,7 @@ Circuit: temples-of-kanchipuram. Tradition: Shaivism. (Distinct from Kachabeswar
 
 Sources:
 - https://en.wikipedia.org/wiki/Karchapeswarar_Temple
+- https://en.wikipedia.org/wiki/Kachabeswarar_temple,_Thirukachur
 - https://yocee.in/?p=15579
 - https://wanderlog.com/place/details/5622/arulmigu-sri-kachabeswarar-temple
 - docs/research/02-circuit-audit.md
