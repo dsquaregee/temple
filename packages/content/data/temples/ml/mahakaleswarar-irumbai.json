@@ -30,5 +30,26 @@
     "dressCode": "എളിയ പരമ്പരാഗത വസ്ത്രധാരണം പ്രതീക്ഷിക്കുന്നു: പുരുഷന്മാർക്ക് മുണ്ടോ പാന്റ്സോ, സ്ത്രീകൾക്ക് സാരി, സൽവാർ കമ്മീസ് അല്ലെങ്കിൽ നീളമുള്ള പാവാട; തോളുകളും കാൽമുട്ടുകളും മൂടിയിരിക്കണം. പാദരക്ഷകൾ പ്രവേശനകവാടത്തിൽ ഉപേക്ഷിക്കണം.",
     "photography": "തമിഴ്‌നാട്ടിലെ ക്ഷേത്രനിയമങ്ങൾക്കനുസരിച്ച്, പുറത്തെ മുറ്റങ്ങളിൽ സാധാരണയായി ഫോട്ടോ എടുക്കാൻ അനുവാദമുണ്ട്, എന്നാൽ അകത്തെ ശ്രീകോവിലിനുള്ളിൽ നിരോധിച്ചിരിക്കുന്നു. ആചാരങ്ങളോ പൂജാരിമാരെയോ ചിത്രീകരിക്കുന്നതിനു മുമ്പ് ക്ഷേത്രജീവനക്കാരോട് ചോദിക്കുക.",
     "gettingThere": "ഇരുമ്പൈ വിഴുപ്പുരം ജില്ലയിലെ വാനൂർ താലൂക്കിലാണ്; കിളിയനൂർ വഴി പുതുച്ചേരി–തിണ്ടിവനം റോഡിൽ പുതുച്ചേരിയിൽ നിന്ന് ഏകദേശം 13 കിലോമീറ്റർ അകലെ, ഒരു ചെറിയ ശാഖാറോഡിലൂടെ ഇവിടെയെത്താം. റെയിൽവേ സ്റ്റേഷനുള്ള പുതുച്ചേരിയാണ് പ്രായോഗികമായ താവളം, ഏറ്റവും അടുത്ത വിമാനത്താവളം അതിനപ്പുറം കുറച്ചു ദൂരെ ചെന്നൈയിലാണ്; ഗ്രാമത്തിലേക്ക് പ്രാദേശിക ബസുകളും ടാക്സികളും സർവീസ് നടത്തുന്നു."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/mahakaleswarar-irumbai.mp3",
+    "durationSec": 304
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.jpg",
+    "color": "#5C3A2E",
+    "alt": "മഹാകാലേശ്വരർ ക്ഷേത്രം, ഇരുമ്പൈ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/mahakaleswarar-irumbai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/mahakaleswarar-irumbai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.jpg",
+    "durationSec": 223,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

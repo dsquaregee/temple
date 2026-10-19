@@ -33,10 +33,6 @@
     "photography": "ಗರ್ಭಗುಡಿಯ ಒಳಗೆ ಛಾಯಾಗ್ರಹಣ ಸಾಮಾನ್ಯವಾಗಿ ಅನುಮತಿಸಲ್ಪಡುವುದಿಲ್ಲ; ಯಾವುದೇ ಚಿತ್ರ ತೆಗೆಯುವ ಮೊದಲು ದೇವಾಲಯದ ಸಿಬ್ಬಂದಿಯನ್ನು ಕೇಳಿ.",
     "gettingThere": "ತಿಂಗಳೂರು ತಿರುವೈಯಾರು ಬಳಿ, ತಂಜಾವೂರು ಜಿಲ್ಲೆಯಲ್ಲಿ ತಂಜಾವೂರಿನಿಂದ ಸುಮಾರು 18 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದೆ. ಹತ್ತಿರದ ಕೇಂದ್ರಗಳು ತಿರುವೈಯಾರು ಮತ್ತು ತಂಜಾವೂರು; ಹತ್ತಿರದ ರೈಲು ನಿಲ್ದಾಣ ತಂಜಾವೂರು; ಹತ್ತಿರದ ವಿಮಾನ ನಿಲ್ದಾಣ ತಿರುಚಿರಾಪಳ್ಳಿ, ಸುಮಾರು 70 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿ."
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/kn/thingalur-kailasanathar.mp3",
-    "durationSec": 194
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thingalur-kailasanathar.jpg",
     "color": "#5C3A2E",
@@ -47,5 +43,9 @@
       "webp": "https://media.dsquaregee.com/heroes/thingalur-kailasanathar.webp"
     },
     "og": "https://media.dsquaregee.com/og/thingalur-kailasanathar.jpg"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/thingalur-kailasanathar.mp3",
+    "durationSec": 193
   }
 }

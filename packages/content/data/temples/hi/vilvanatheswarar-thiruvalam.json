@@ -30,5 +30,26 @@
     "dressCode": "साधारण पारंपरिक वस्त्र अपेक्षित हैं: पुरुषों के लिए धोती या पतलून, स्त्रियों के लिए साड़ी, सलवार कमीज़ या लंबी स्कर्ट, कंधे और घुटने ढके हुए। जूते-चप्पल प्रवेश स्थल पर उतारे जाते हैं।",
     "photography": "तमिलनाडु के मंदिर नियमों के अनुसार बाहरी प्रदक्षिणा-पथों और प्रांगणों में प्रायः फोटोग्राफी की अनुमति है, पर भीतरी गर्भगृह में वर्जित है। अनुष्ठानों या पुजारियों की फोटो लेने से पहले मंदिर कर्मचारियों से पूछ लें।",
     "gettingThere": "तिरुवालम वेल्लूर ज़िले का एक गाँव है, चेन्नई–कट्पाडी रेल मार्ग पर तिरुवालम रेलवे स्टेशन से लगभग 2 किमी दूर, और राणीपेट से लगभग 10 किमी दूर चेन्नई–बेंगलुरु राजमार्ग के निकट। वेल्लूर और कट्पाडी निकटतम बड़े केंद्र हैं, जहाँ से बसें बार-बार चलती हैं; दूरियों और संपर्क साधनों की स्थानीय रूप से पुष्टि कर लें।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/vilvanatheswarar-thiruvalam.mp3",
+    "durationSec": 206
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.jpg",
+    "color": "#5C3A2E",
+    "alt": "विल्वनाथीश्वरर मंदिर, तिरुवालम",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vilvanatheswarar-thiruvalam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/vilvanatheswarar-thiruvalam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.jpg",
+    "durationSec": 181,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -30,5 +30,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது: ஆண்களுக்கு வேட்டி அல்லது கால்சட்டை, பெண்களுக்கு புடவை, சல்வார் கமீஸ் அல்லது நீளமான பாவாடை; தோள்களும் முழங்கால்களும் மூடியிருக்க வேண்டும். காலணிகள் நுழைவாயில் நிலையங்களில் விடப்படுகின்றன.",
     "photography": "தமிழ்நாட்டுக் கோயில் விதிகளுக்கு ஏற்ப, வெளிப் பிரகாரங்களிலும் முற்றங்களிலும் பொதுவாகப் புகைப்படம் எடுக்க அனுமதி உண்டு; ஆனால் உள் கருவறையில் தடை. சடங்குகளையோ அர்ச்சகர்களையோ படமெடுக்கும் முன் கோயில் பணியாளரிடம் கேட்கவும்.",
     "gettingThere": "பவானி ஈரோட்டிலிருந்து சுமார் 15 கி.மீ. தொலைவில் உள்ளது; ஈரோடு சந்திப்பே அருகிலுள்ள முக்கிய ரயில் நிலையம். கோயில் பவானி பேருந்து நிலையத்திலிருந்து சுமார் 1 கி.மீ. தொலைவில் உள்ளது; ஈரோடு, சேலம், திருப்பூர், கோயம்புத்தூரிலிருந்து பேருந்துகள் உண்டு. பிராந்திய விமான நிலையத்தைக் கொண்ட கோயம்புத்தூர் சுமார் 95 முதல் 105 கி.மீ. தொலைவில் உள்ளது."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/sangameswarar-bhavani.mp3",
+    "durationSec": 258
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.jpg",
+    "color": "#5C3A2E",
+    "alt": "சங்கமேஸ்வரர் கோயில், பவானி",
+    "credit": "Shanze1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sangameswarar-bhavani.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/sangameswarar-bhavani.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.jpg",
+    "durationSec": 246,
+    "credit": "Shanze1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

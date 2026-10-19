@@ -30,5 +30,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது: ஆண்களுக்கு வேட்டி அல்லது கால்சட்டை, பெண்களுக்கு புடவை, சல்வார் கமீஸ் அல்லது நீளமான பாவாடை; தோள்களும் முழங்கால்களும் மூடியிருக்க வேண்டும். காலணிகள் நுழைவாயிலில் விடப்படுகின்றன.",
     "photography": "தமிழ்நாட்டுக் கோயில் விதிகளுக்கு ஏற்ப, வெளிப் பகுதிகளில் பொதுவாகப் புகைப்படம் எடுக்க அனுமதி உண்டு; ஆனால் உள் கருவறையில் தடை. சடங்குகள், சிற்பங்கள் அல்லது அர்ச்சகர்களைப் படமெடுக்கும் முன் கோயில் பணியாளரிடம் கேட்கவும்.",
     "gettingThere": "காஞ்சிபுரத்திற்குத் தெற்கே, பாலாற்றுச் சமவெளியில், மாமண்டூர் அருகே, தூசி (துசி) வழியாக அடையப்படும் ஒரு கிராமம் குரங்கணில்முட்டம். சுமார் 10–12 கி.மீ. தொலைவிலுள்ள காஞ்சிபுரமே அருகிலுள்ள பெரிய நகரமும் போக்குவரத்து மையமும்; ரயில், பேருந்து இணைப்புகள் உள்ளன. அருகிலுள்ள பெரிய விமான நிலையம் சென்னை. உள்ளூர்ப் பேருந்துகளும் சாலைப் போக்குவரத்தும் இப்பகுதிக்குச் செல்கின்றன; சிறு கிராமத் தலம் என்பதால், உள்ளூர் வழிகாட்டுதலுடன் சொந்த வாகனத்தில் செல்வதே எளிது."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/valeeswarar-kuranganilmuttam.mp3",
+    "durationSec": 251
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.jpg",
+    "color": "#5C3A2E",
+    "alt": "வாலீஸ்வரர் கோயில், குரங்கணில்முட்டம்",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/valeeswarar-kuranganilmuttam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/valeeswarar-kuranganilmuttam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.jpg",
+    "durationSec": 235,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

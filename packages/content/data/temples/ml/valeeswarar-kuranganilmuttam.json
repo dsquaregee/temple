@@ -30,5 +30,26 @@
     "dressCode": "ലളിതമായ പാരമ്പര്യ വസ്ത്രം പ്രതീക്ഷിക്കുന്നു: പുരുഷന്മാര്‍ക്ക് മുണ്ട് അല്ലെങ്കില്‍ ട്രൗസര്‍, സ്ത്രീകള്‍ക്ക് സാരി, സല്‍വാര്‍ കമീസ് അല്ലെങ്കില്‍ നീണ്ട പാവാട; തോളും മുട്ടും മറച്ചിരിക്കണം. പാദരക്ഷകള്‍ പ്രവേശന കവാടത്തില്‍ അഴിച്ചുവയ്ക്കുന്നു.",
     "photography": "തമിഴ്‌നാട് ക്ഷേത്ര നിയമങ്ങള്‍ക്കനുസൃതമായി പുറം ഭാഗങ്ങളില്‍ സാധാരണയായി ഫോട്ടോഗ്രാഫിക്ക് അനുമതിയുണ്ട്, എന്നാല്‍ അകത്തെ ഗര്‍ഭഗൃഹത്തില്‍ വിലക്കുണ്ട്. ചടങ്ങുകള്‍, ശില്‍പങ്ങള്‍ അല്ലെങ്കില്‍ പൂജാരിമാരെ ഫോട്ടോ എടുക്കുംമുമ്പ് ക്ഷേത്ര ജീവനക്കാരോട് ചോദിക്കുക.",
     "gettingThere": "കാഞ്ചീപുരത്തിന് തെക്ക്, പാലാറിന്റെ താഴ്‌വരയില്‍, മാമണ്ഡൂരിന് സമീപം, തൂസി (ദുസി) വഴി എത്തുന്ന ഗ്രാമമാണ് കുരങ്കണില്‍മുട്ടം. ഏകദേശം 10–12 കി.മീ. അകലെയുള്ള കാഞ്ചീപുരമാണ് ഏറ്റവും അടുത്ത വലിയ പട്ടണവും ഗതാഗത കേന്ദ്രവും; റെയില്‍, ബസ് ബന്ധങ്ങളുണ്ട്. ഏറ്റവും അടുത്ത വലിയ വിമാനത്താവളം ചെന്നൈ. പ്രാദേശിക ബസുകളും റോഡ് ഗതാഗതവും ഈ പ്രദേശത്തേക്കുണ്ട്; ചെറു ഗ്രാമക്ഷേത്രമായതിനാല്‍ പ്രാദേശിക മാര്‍ഗനിര്‍ദേശത്തോടെ സ്വന്തം വാഹനത്തില്‍ എത്തുന്നതാണ് എളുപ്പം."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ml/valeeswarar-kuranganilmuttam.mp3",
+    "durationSec": 269
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.jpg",
+    "color": "#5C3A2E",
+    "alt": "വാലീശ്വരർ ക്ഷേത്രം, കുരങ്കണില്‍മുട്ടം",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/valeeswarar-kuranganilmuttam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ml/valeeswarar-kuranganilmuttam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.jpg",
+    "durationSec": 200,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

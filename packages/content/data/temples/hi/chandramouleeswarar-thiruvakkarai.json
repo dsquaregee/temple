@@ -30,5 +30,26 @@
     "dressCode": "शालीन पारंपरिक वस्त्र अपेक्षित हैं: पुरुषों के लिए धोती या पतलून, महिलाओं के लिए साड़ी, सलवार कमीज़ या लंबी स्कर्ट, जिनमें कंधे और घुटने ढके हों। जूते-चप्पल प्रवेश द्वार के स्टैंड पर उतारे जाते हैं।",
     "photography": "तमिलनाडु के मंदिर नियमों के अनुसार, बाहरी गलियारों और प्रांगणों में फ़ोटोग्राफ़ी आम तौर पर अनुमत है, किंतु भीतरी गर्भगृह में निषिद्ध है। अनुष्ठानों या पुजारियों की तस्वीर लेने से पहले मंदिर के कर्मचारियों से पूछ लें।",
     "gettingThere": "तिरुवक्करै विल्लुपुरम ज़िले के वानूर तालुक में है, तिंडिवनम से लगभग 30 किमी और विल्लुपुरम से लगभग 29 किमी दूर, और ऑरोविल के पास पुदुच्चेरी से आसानी से पहुँचा जा सकता है। गाँव के लिए बसें और टैक्सियाँ उपलब्ध हैं, और मंदिर राष्ट्रीय जीवाश्म काष्ठ उद्यान के निकट, गाँव के केंद्र में स्थित है।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/hi/chandramouleeswarar-thiruvakkarai.mp3",
+    "durationSec": 275
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/chandramouleeswarar-thiruvakkarai.jpg",
+    "color": "#5C3A2E",
+    "alt": "चंद्रमौलीश्वर मंदिर, तिरुवक्करै",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/chandramouleeswarar-thiruvakkarai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/chandramouleeswarar-thiruvakkarai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/chandramouleeswarar-thiruvakkarai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/chandramouleeswarar-thiruvakkarai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/chandramouleeswarar-thiruvakkarai.jpg",
+    "durationSec": 244,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 3.0)"
   }
 }

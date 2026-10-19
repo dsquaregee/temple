@@ -30,5 +30,26 @@
     "dressCode": "ಸಾಂಪ್ರದಾಯಿಕ ಸಭ್ಯ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ: ಪುರುಷರಿಗೆ ಧೋತಿ ಅಥವಾ ಪ್ಯಾಂಟ್, ಮಹಿಳೆಯರಿಗೆ ಸೀರೆ, ಸಲ್ವಾರ್ ಕಮೀಜ್ ಅಥವಾ ಉದ್ದದ ಸ್ಕರ್ಟ್; ಭುಜಗಳು ಮತ್ತು ಮೊಣಕಾಲುಗಳು ಮುಚ್ಚಿರಬೇಕು. ಪಾದರಕ್ಷೆಗಳನ್ನು ಪ್ರವೇಶದ್ವಾರದ ಬಳಿಯ ಸ್ಟ್ಯಾಂಡ್‌ಗಳಲ್ಲಿ ಇಡಬೇಕು.",
     "photography": "ತಮಿಳುನಾಡಿನ ದೇವಾಲಯ ನಿಯಮಗಳಂತೆ ಹೊರ ಪ್ರಾಕಾರಗಳು ಮತ್ತು ಪ್ರಾಂಗಣಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಛಾಯಾಚಿತ್ರ ತೆಗೆಯಲು ಅನುಮತಿ ಇದೆ, ಆದರೆ ಒಳ ಗರ್ಭಗುಡಿಯಲ್ಲಿ ನಿಷೇಧ. ಆಚರಣೆಗಳನ್ನು ಅಥವಾ ಅರ್ಚಕರನ್ನು ಚಿತ್ರೀಕರಿಸುವ ಮೊದಲು ದೇವಾಲಯದ ಸಿಬ್ಬಂದಿಯನ್ನು ಕೇಳಿ.",
     "gettingThere": "ತ್ಯಾಗವಲ್ಲಿ ಎಂದೂ ಕರೆಯಲ್ಪಡುವ ತಿರುಚೋಪುರಂ, ಬಸ್ ನಿಲ್ದಾಣ ಮತ್ತು ಪ್ರದೇಶದ ಮುಖ್ಯ ರೈಲ್ವೆ ನಿಲ್ದಾಣ ಇರುವ ಸಮೀಪದ ದೊಡ್ಡ ಪಟ್ಟಣ ಕಡಲೂರಿನಿಂದ ಸುಮಾರು 18–20 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿದೆ. ಆಲಪಾಕ್ಕಂ ರೈಲ್ವೆ ನಿಲ್ದಾಣದಿಂದಲೂ ಒಂದು ಮಾರ್ಗವಿದೆ; ರೈಲು ಹಳಿ ದಾಟಿ ನೇರವಾಗಿ ಸುಮಾರು 3 ಕಿ.ಮೀ. ಸಾಗಿದರೆ ಗ್ರಾಮ ತಲುಪುತ್ತದೆ. ಸಮೀಪದ ಪ್ರಮುಖ ವಿಮಾನ ನಿಲ್ದಾಣ ಚೆನ್ನೈ; ರಸ್ತೆಯ ಮೂಲಕ ಕೆಲವು ಗಂಟೆಗಳ ಪ್ರಯಾಣ. ಗ್ರಾಮಕ್ಕೆ ಬಸ್ಸುಗಳು ವಿರಳವಾಗಿರಬಹುದು, ಆದ್ದರಿಂದ ಇತ್ತೀಚಿನ ಸಂಪರ್ಕವನ್ನು ಸ್ಥಳೀಯವಾಗಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/mangalapureeswarar-tiruchopuram.mp3",
+    "durationSec": 199
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mangalapureeswarar-tiruchopuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಮಂಗಳಪುರೀಶ್ವರರ್ ದೇವಾಲಯ, ತಿರುಚೋಪುರಂ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/mangalapureeswarar-tiruchopuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/mangalapureeswarar-tiruchopuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/mangalapureeswarar-tiruchopuram.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/mangalapureeswarar-tiruchopuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mangalapureeswarar-tiruchopuram.jpg",
+    "durationSec": 206,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -30,5 +30,26 @@
     "dressCode": "எளிமையான பாரம்பரிய உடை எதிர்பார்க்கப்படுகிறது: ஆண்களுக்கு வேட்டி அல்லது கால்சட்டை, பெண்களுக்கு புடவை, சல்வார் கமீஸ் அல்லது நீளமான பாவாடை; தோள்களும் முழங்கால்களும் மூடியிருக்க வேண்டும். காலணிகள் நுழைவாயிலில் விடப்படுகின்றன.",
     "photography": "தமிழ்நாட்டுக் கோயில் விதிகளுக்கு ஏற்ப, வெளி முற்றங்களில் பொதுவாகப் புகைப்படம் எடுக்க அனுமதி உண்டு; ஆனால் உள் கருவறையில் தடை. சடங்குகளையோ அர்ச்சகர்களையோ படமெடுக்கும் முன் கோயில் பணியாளரிடம் கேட்கவும்.",
     "gettingThere": "இரும்பை, விழுப்புரம் மாவட்டத்தின் வானூர் வட்டத்தில் உள்ளது; கிளியனூர் வழியாகப் புதுச்சேரி–திண்டிவனம் சாலையில் புதுச்சேரியிலிருந்து சுமார் 13 கி.மீ. தொலைவில், ஒரு கிளைச் சாலையால் அடையப்படுகிறது. ரயில் நிலையமும் அருகிலுள்ள வசதிகளும் கொண்ட புதுச்சேரி தங்குமிடமாகப் பயனுள்ளது; ஊருக்கு உள்ளூர் பேருந்துகளும் வாடகை வண்டிகளும் இயங்குகின்றன."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/ta/mahakaleswarar-irumbai.mp3",
+    "durationSec": 282
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.jpg",
+    "color": "#5C3A2E",
+    "alt": "மாகாளேஸ்வரர் கோயில், இரும்பை",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/mahakaleswarar-irumbai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/mahakaleswarar-irumbai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.jpg",
+    "durationSec": 256,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

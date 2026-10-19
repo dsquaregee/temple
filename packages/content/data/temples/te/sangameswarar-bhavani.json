@@ -30,5 +30,26 @@
     "dressCode": "సాంప్రదాయ, నిరాడంబర వస్త్రధారణ ఆశించబడుతుంది: పురుషులకు ధోవతి లేదా ప్యాంటు, స్త్రీలకు చీర, సల్వార్ కమీజ్ లేదా పొడవైన లంగా; భుజాలు, మోకాళ్లు కప్పబడి ఉండాలి. పాదరక్షలను ప్రవేశద్వారం వద్ద ఉన్న స్టాండ్లలో వదలాలి.",
     "photography": "తమిళనాడు ఆలయ నియమాల ప్రకారం, బయటి ప్రాకారాలు, ప్రాంగణాలలో సాధారణంగా ఫోటోలు తీయవచ్చు, కానీ అంతరాలయంలో నిషేధం. క్రతువులను లేదా అర్చకులను ఫోటో తీయడానికి ముందు ఆలయ సిబ్బందిని అడగండి.",
     "gettingThere": "భవాని ఈరోడ్ నుండి సుమారు 15 కి.మీ. దూరంలో ఉంది; ఈరోడ్ జంక్షన్ సమీపంలోని ప్రధాన రైల్వే స్టేషన్. ఆలయం భవాని బస్ స్టాండ్ నుండి సుమారు 1 కి.మీ. దూరంలో ఉంది; ఈరోడ్, సేలం, తిరుప్పూర్, కోయంబత్తూరు నుండి బస్సులు ఉన్నాయి. ప్రాంతీయ విమానాశ్రయం ఉన్న కోయంబత్తూరు సుమారు 95 నుండి 105 కి.మీ. దూరంలో ఉంది."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/sangameswarar-bhavani.mp3",
+    "durationSec": 228
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.jpg",
+    "color": "#5C3A2E",
+    "alt": "సంగమేశ్వరర్ ఆలయం, భవాని",
+    "credit": "Shanze1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sangameswarar-bhavani.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/sangameswarar-bhavani.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.jpg",
+    "durationSec": 250,
+    "credit": "Shanze1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

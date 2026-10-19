@@ -30,5 +30,26 @@
     "dressCode": "సాంప్రదాయ, నిరాడంబర వస్త్రధారణ ఆశించబడుతుంది: పురుషులకు ధోవతి లేదా ప్యాంటు, స్త్రీలకు చీర, సల్వార్ కమీజ్ లేదా పొడవైన లంగా; భుజాలు, మోకాళ్లు కప్పబడి ఉండాలి. పాదరక్షలను ప్రవేశద్వారం వద్ద ఉన్న స్టాండ్లలో వదలాలి.",
     "photography": "తమిళనాడు ఆలయ నియమాల ప్రకారం, బయటి ప్రాకారాలు, ప్రాంగణాలలో సాధారణంగా ఫోటోలు తీయవచ్చు, కానీ అంతరాలయంలో నిషేధం. క్రతువులను లేదా అర్చకులను ఫోటో తీయడానికి ముందు ఆలయ సిబ్బందిని అడగండి.",
     "gettingThere": "కొడుముడి తిరుచిరాపల్లి–కరూర్–కొడుముడి–ఈరోడ్ రహదారిపై ఉంది; ఈరోడ్ నుండి సుమారు 40 కి.మీ., కరూర్ నుండి సుమారు 25 కి.మీ. దూరంలో ఉంది. ఈరోడ్–తిరుచిరాపల్లి మార్గంలోని కొడుముడి రైల్వే స్టేషన్ ఆలయం నుండి సుమారు 2 కి.మీ. దూరంలో ఉంది. ఈరోడ్, కరూర్, కోయంబత్తూరు నుండి ఊరికి బస్సులు ఉన్నాయి; ప్రాంతీయ విమానాశ్రయం ఉన్న కోయంబత్తూరు సుమారు 100 కి.మీ. దూరంలో ఉంది."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/te/magudeswarar-kodumudi.mp3",
+    "durationSec": 237
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/magudeswarar-kodumudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "మగుడేశ్వరర్ ఆలయం, కొడుముడి",
+    "credit": "Dvellakat / Wikimedia Commons (CC BY-SA 4.0) · Booradleyp1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/magudeswarar-kodumudi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/magudeswarar-kodumudi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/magudeswarar-kodumudi.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/magudeswarar-kodumudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/magudeswarar-kodumudi.jpg",
+    "durationSec": 264,
+    "credit": "Dvellakat / Wikimedia Commons (CC BY-SA 4.0) · Booradleyp1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

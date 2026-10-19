@@ -128,6 +128,24 @@ the next media run rather than a standalone 2-temple pipeline. When you next run
 `audio.yml`/`media.yml`, ensure these two are re-rendered (resume off or targeted) and bump
 the SW `VERSION`. See `paadal-petra-sthalams.md` → "Content corrections".
 
+## Update 2026-10-19 — Jyotirlingas + reconciliation (branch `claude/intelligent-cori-2uwdlj`)
+
+- **The Twelve Jyotirlingas circuit** (`jyotirlingas`, stotram order) is added: 10 new temples
+  (`somnath-prabhas-patan`, `nageshwar-dwarka`, `mahakaleshwar-ujjain`, `omkareshwar-mandhata`,
+  `kedarnath`, `bhimashankar-pune`, `trimbakeshwar-nashik`, `grishneshwar-ellora`,
+  `kashi-vishwanath-varanasi`, `vaidyanath-deoghar`) × 6 locales, plus the existing Srisailam and
+  Rameswaram. Research notes in `docs/research/circuits/`. Their audio was rendered on 2026-10-15.
+- **`kedarnath` already exists** — use it as the Vada Nadu Paadal Petra member (add
+  `paadal-petra-sthalams` to its `circuits` when the circuit is created); do not write a second
+  Kedarnath entry.
+- **Third Vaippu correction:** `kachabeswarar-kanchipuram` (Karchapeswarar) was also mislabelled
+  as a Paadal Petra Sthalam sung by Sundarar; Sundarar's hymn is for the Kachabeswarar temple at
+  **Thirukachur** (a separate Thondai Nadu member). Text fixed in all 6 locales.
+- **Narration for all three Vaippu fixes** (Thingalur, Keezhaperumpallam, Kachabeswarar) is queued:
+  their `audio`/`video` fields were removed so the next `audio.yml`/`media.yml` run re-renders them.
+- A parallel branch had also written ~98 Paadal Petra temples under different ids; those were
+  **discarded** as duplicates of this main-line run (kept only at git tag `old-cori-pps` locally).
+
 ## Pointers
 
 | What | Where |

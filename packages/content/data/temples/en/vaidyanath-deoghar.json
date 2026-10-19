@@ -1,0 +1,57 @@
+{
+  "id": "vaidyanath-deoghar",
+  "locale": "en",
+  "name": "Baidyanath Temple, Deoghar",
+  "nativeName": "श्री बैद्यनाथ ज्योतिर्लिंग मंदिर",
+  "deity": "Shiva as Baidyanath (Vaidyanath), Lord of Physicians — one of the twelve Jyotirlingas, with the goddess honoured here as a Shakti Peetha",
+  "tradition": "Shaivism and Shaktism",
+  "location": {
+    "city": "Deoghar",
+    "state": "Jharkhand",
+    "lat": 24.4925,
+    "lng": 86.7
+  },
+  "period": "An ancient tirtha of eastern India; the front of the main temple attributed to Puran Mal of Gidhaur in 1596",
+  "century": 16,
+  "dynasty": "Puran Mal of Gidhaur (1596) and later patrons",
+  "style": "Nagara (eastern Indian)",
+  "unesco": false,
+  "circuits": [
+    "jyotirlingas"
+  ],
+  "summary": "At Deoghar, the abode of the gods, Shiva is worshipped as Baidyanath, the divine physician — one of the twelve Jyotirlingas, where each Shravan lakhs of pilgrims arrive on foot bearing Ganga water from Sultanganj.",
+  "sections": {
+    "history": "Deoghar, whose name means the abode of the gods, lies in the Santhal Pargana country of Jharkhand, and its temple of Baba Baidyanath is among the most visited shrines of eastern India. Baidyanath is honoured as one of the twelve Jyotirlingas named in the Dvadasha Jyotirlinga Stotram; Parli Vaijnath in Maharashtra is also revered by many as the Vaidyanath of the twelve, and both shrines are dear to their devotees. Deoghar is counted, too, among the Shakti Peethas, so that Shiva and the goddess are worshipped side by side. The builder of the main temple is not recorded, but a Sanskrit inscription credits Puran Mal, an ancestor of the rulers of Gidhaur, with work on its front portion in 1596.",
+    "architecture": "The main shrine is a tall, plain tower of the eastern Nagara kind, whitewashed and crowned not with a trident but with a panchashula, a five-pointed emblem that marks this temple. Around it a walled courtyard holds twenty-one further shrines, making twenty-two in all, among them the temple of Parvati. Long bands of red cloth are tied between the spires of Shiva's and Parvati's shrines as a sign of their union. The Jyotirlinga within is small, its top slightly broken, a mark the legend explains.",
+    "legends": "Ravana, it is told, performed severe penance to win Shiva, offering his heads one by one; the lord restored him as a physician heals, and so is called Vaidyanath. Granted the linga to carry to Lanka, Ravana was bound not to set it down on the way. At Deoghar he was compelled to stop and handed it to a cowherd, remembered as Baiju, who placed it on the ground, and there it stayed. Ravana's thumb, pressed in anger, is said to have left the mark on the linga.",
+    "festivals": "The Shravani Mela, through the month of Shravan in the monsoon, is the great season: saffron-clad kanwariyas collect Ganga water at Sultanganj in Bihar and walk about 105 km, calling \"Bol Bam\", to pour it on the Jyotirlinga. Maha Shivaratri is kept with night-long worship. Confirm dates locally.",
+    "experience": "In Shravan the road from Sultanganj becomes a river of pilgrims, and the temple town hums day and night. Outside the season, darshan is calmer, and pilgrims can walk the courtyard from shrine to shrine and see the red bands joining the spires. Many go on afterwards to the Basukinath temple, about 45 km away, to complete the pilgrimage."
+  },
+  "visit": {
+    "timings": "Open daily from early morning to night; during the Shravani Mela and on Maha Shivaratri special queue arrangements apply. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is not permitted inside the sanctum; follow the posted rules and staff guidance.",
+    "gettingThere": "Deoghar is reached by rail via Jasidih Junction on the Howrah–Delhi main line, about 7 km away, with a branch line to Baidyanath Dham station; Deoghar also has its own airport. Kanwariyas walk from Sultanganj in Bihar, about 105 km away."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vaidyanath-deoghar.mp3",
+    "durationSec": 195
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.jpg",
+    "color": "#5C3A2E",
+    "alt": "Baidyanath Temple, Deoghar",
+    "credit": "Kishlay RF / Wikimedia Commons (CC BY-SA 3.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaidyanath-deoghar.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/vaidyanath-deoghar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.jpg",
+    "durationSec": 153,
+    "credit": "Kishlay RF / Wikimedia Commons (CC BY-SA 3.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
+  }
+}

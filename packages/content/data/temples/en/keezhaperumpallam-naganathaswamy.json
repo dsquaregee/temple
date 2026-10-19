@@ -33,10 +33,6 @@
     "photography": "Photography inside the sanctum is generally not permitted; ask temple staff before taking any photographs.",
     "gettingThere": "Keezhaperumpallam lies near Poompuhar in Mayiladuthurai district, close to the coast, about 25 km from Sirkazhi. The nearest railhead is Sirkazhi, and Mayiladuthurai is a convenient hub; the nearest airport is Tiruchirappalli, about 170 km away."
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/keezhaperumpallam-naganathaswamy.mp3",
-    "durationSec": 233
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/keezhaperumpallam-naganathaswamy.jpg",
     "color": "#5C3A2E",
@@ -47,5 +43,9 @@
       "webp": "https://media.dsquaregee.com/heroes/keezhaperumpallam-naganathaswamy.webp"
     },
     "og": "https://media.dsquaregee.com/og/keezhaperumpallam-naganathaswamy.jpg"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/keezhaperumpallam-naganathaswamy.mp3",
+    "durationSec": 233
   }
 }

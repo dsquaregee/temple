@@ -30,5 +30,26 @@
     "dressCode": "ಸರಳ ಸಾಂಪ್ರದಾಯಿಕ ಉಡುಗೆ ನಿರೀಕ್ಷಿತ: ಪುರುಷರಿಗೆ ಧೋತಿ ಅಥವಾ ಪ್ಯಾಂಟ್, ಮಹಿಳೆಯರಿಗೆ ಸೀರೆ, ಸಲ್ವಾರ್ ಕಮೀಜ್ ಅಥವಾ ಉದ್ದ ಸ್ಕರ್ಟ್; ಹೆಗಲು ಮತ್ತು ಮೊಣಕಾಲು ಮುಚ್ಚಿರಬೇಕು. ಪಾದರಕ್ಷೆಗಳನ್ನು ಪ್ರವೇಶ ದ್ವಾರದಲ್ಲಿ ಬಿಡಲಾಗುತ್ತದೆ.",
     "photography": "ತಮಿಳುನಾಡಿನ ದೇವಾಲಯ ನಿಯಮಗಳಂತೆ ಹೊರ ಪ್ರಾಂಗಣಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಛಾಯಾಗ್ರಹಣಕ್ಕೆ ಅವಕಾಶವಿದೆ; ಆದರೆ ಒಳಗಿನ ಗರ್ಭಗುಡಿಯಲ್ಲಿ ನಿಷೇಧ. ಪೂಜೆಗಳನ್ನು ಅಥವಾ ಅರ್ಚಕರನ್ನು ಛಾಯಾಗ್ರಹಣ ಮಾಡುವ ಮೊದಲು ದೇವಾಲಯ ಸಿಬ್ಬಂದಿಯನ್ನು ಕೇಳಿ.",
     "gettingThere": "ಇರುಂಬೈ ವಿಳುಪ್ಪುರಂ ಜಿಲ್ಲೆಯ ವಾನೂರ್ ತಾಲೂಕಿನಲ್ಲಿದೆ; ಕಿಳಿಯನೂರ್ ಮೂಲಕ ಪುದುಚ್ಚೇರಿ–ತಿಂಡಿವನಂ ರಸ್ತೆಯಲ್ಲಿ ಪುದುಚ್ಚೇರಿಯಿಂದ ಸುಮಾರು 13 ಕಿ.ಮೀ. ದೂರದಲ್ಲಿ, ಒಂದು ಕವಲು ರಸ್ತೆಯ ಮೂಲಕ ತಲುಪಬಹುದು. ರೈಲು ನಿಲ್ದಾಣವಿರುವ ಪುದುಚ್ಚೇರಿ ತಂಗಲು ಅನುಕೂಲ; ಊರಿಗೆ ಸ್ಥಳೀಯ ಬಸ್‌ಗಳು ಮತ್ತು ಟ್ಯಾಕ್ಸಿಗಳು ಓಡುತ್ತವೆ."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/kn/mahakaleswarar-irumbai.mp3",
+    "durationSec": 251
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಮಾಕಾಳೇಶ್ವರರ್ ದೇವಾಲಯ, ಇರುಂಬೈ",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/mahakaleswarar-irumbai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/mahakaleswarar-irumbai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.jpg",
+    "durationSec": 255,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
