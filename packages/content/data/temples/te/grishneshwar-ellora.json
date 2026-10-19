@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/grishneshwar-ellora.jpg",
     "color": "#5C3A2E",
     "alt": "ఘృష్ణేశ్వర్ ఆలయం, వేరుళ్",
-    "credit": "Udaykumar PR / Wikimedia Commons (CC BY 3.0)"
+    "credit": "Udaykumar PR / Wikimedia Commons (CC BY 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/grishneshwar-ellora.avif",
+      "webp": "https://media.dsquaregee.com/heroes/grishneshwar-ellora.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/grishneshwar-ellora.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/te/grishneshwar-ellora.mp4",

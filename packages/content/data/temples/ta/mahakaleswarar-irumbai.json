@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.jpg",
     "color": "#5C3A2E",
     "alt": "மாகாளேஸ்வரர் கோயில், இரும்பை",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/mahakaleswarar-irumbai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/mahakaleswarar-irumbai.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/mahakaleswarar-irumbai.mp4",

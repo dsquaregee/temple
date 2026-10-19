@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/mangalapureeswarar-tiruchopuram.jpg",
     "color": "#5C3A2E",
     "alt": "Mangalapureeswarar Temple, Tiruchopuram",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/mangalapureeswarar-tiruchopuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/mangalapureeswarar-tiruchopuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/mangalapureeswarar-tiruchopuram.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/v4/mangalapureeswarar-tiruchopuram.mp4",

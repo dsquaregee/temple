@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.jpg",
     "color": "#5C3A2E",
     "alt": "विल्वनाथीश्वरर मंदिर, तिरुवालम",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vilvanatheswarar-thiruvalam.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/hi/vilvanatheswarar-thiruvalam.mp4",

@@ -39,6 +39,11 @@
     "src": "https://media.dsquaregee.com/heroes/pasupatheeswarar-karur.jpg",
     "color": "#5C3A2E",
     "alt": "பசுபதீஸ்வரர் கோயில், கரூர்",
-    "credit": "Balaji / Wikimedia Commons (CC BY-SA 3.0)"
+    "credit": "Balaji / Wikimedia Commons (CC BY-SA 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/pasupatheeswarar-karur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/pasupatheeswarar-karur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/pasupatheeswarar-karur.jpg"
   }
 }

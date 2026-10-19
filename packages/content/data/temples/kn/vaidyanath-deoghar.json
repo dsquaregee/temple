@@ -41,7 +41,12 @@
     "src": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.jpg",
     "color": "#5C3A2E",
     "alt": "ಬೈದ್ಯನಾಥ ದೇವಾಲಯ, ದೇವಘರ್",
-    "credit": "Kishlay RF / Wikimedia Commons (CC BY-SA 3.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
+    "credit": "Kishlay RF / Wikimedia Commons (CC BY-SA 3.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaidyanath-deoghar.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/kn/vaidyanath-deoghar.mp4",

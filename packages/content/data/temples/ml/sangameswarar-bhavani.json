@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.jpg",
     "color": "#5C3A2E",
     "alt": "സംഗമേശ്വരർ ക്ഷേത്രം, ഭവാനി",
-    "credit": "Shanze1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Shanze1 / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.avif",
+      "webp": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/sangameswarar-bhavani.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/sangameswarar-bhavani.mp4",

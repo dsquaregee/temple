@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/ardhanareeswarar-tiruchengode.jpg",
     "color": "#5C3A2E",
     "alt": "அர்த்தநாரீஸ்வரர் கோயில், திருச்செங்கோடு",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ardhanareeswarar-tiruchengode.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ardhanareeswarar-tiruchengode.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ardhanareeswarar-tiruchengode.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ta/ardhanareeswarar-tiruchengode.mp4",

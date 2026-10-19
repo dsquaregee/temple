@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/ardhanareeswarar-tiruchengode.jpg",
     "color": "#5C3A2E",
     "alt": "Ardhanareeswarar Temple, Tiruchengode",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ardhanareeswarar-tiruchengode.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ardhanareeswarar-tiruchengode.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ardhanareeswarar-tiruchengode.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/v4/ardhanareeswarar-tiruchengode.mp4",

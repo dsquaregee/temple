@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/chandramouleeswarar-thiruvakkarai.jpg",
     "color": "#5C3A2E",
     "alt": "Chandramouleeswarar Temple, Thiruvakkarai",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY 3.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/chandramouleeswarar-thiruvakkarai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/chandramouleeswarar-thiruvakkarai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/chandramouleeswarar-thiruvakkarai.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/en/v4/chandramouleeswarar-thiruvakkarai.mp4",

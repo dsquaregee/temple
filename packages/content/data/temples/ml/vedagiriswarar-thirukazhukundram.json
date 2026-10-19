@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/vedagiriswarar-thirukazhukundram.jpg",
     "color": "#5C3A2E",
     "alt": "വേദഗിരീശ്വരർ ക്ഷേത്രം, തിരുക്കഴുക്കുന്റം",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vedagiriswarar-thirukazhukundram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vedagiriswarar-thirukazhukundram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vedagiriswarar-thirukazhukundram.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/ml/vedagiriswarar-thirukazhukundram.mp4",

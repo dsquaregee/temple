@@ -39,7 +39,12 @@
     "src": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.jpg",
     "color": "#5C3A2E",
     "alt": "ವಾಲೀಶ್ವರರ್ ದೇವಾಲಯ, ಕುರಂಗಣಿಲ್ಮುಟ್ಟಂ",
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/valeeswarar-kuranganilmuttam.jpg"
   },
   "video": {
     "url": "https://media.dsquaregee.com/video/kn/valeeswarar-kuranganilmuttam.mp4",
