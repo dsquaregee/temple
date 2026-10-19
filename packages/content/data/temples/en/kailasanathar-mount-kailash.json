@@ -1,0 +1,55 @@
+{
+  "id": "kailasanathar-mount-kailash",
+  "locale": "en",
+  "name": "Mount Kailash (Thirukkayilai)",
+  "nativeName": "कैलाश पर्वत",
+  "deity": "Shiva as Kailasanathar, Lord of the mountain, with Parvati",
+  "tradition": "Shaivism",
+  "location": {
+    "city": "Mount Kailash",
+    "state": "Tibet Autonomous Region, China",
+    "lat": 31.0675,
+    "lng": 81.3119
+  },
+  "period": "The sacred mountain counted among the Paadal Petra Sthalams of Vada Nadu, sung by Appar (7th century) and Sundarar (8th century)",
+  "century": 7,
+  "dynasty": "No built shrine — the mountain itself is the abode",
+  "style": "Natural sacred mountain",
+  "unesco": false,
+  "circuits": [],
+  "summary": "Kailash, the Thirukkayilai of the Tevaram, is no temple of stone but the mountain-abode of Shiva itself — the far northern summit of the Paadal Petra Sthalams.",
+  "sections": {
+    "history": "Mount Kailash rises to about 6,600 metres in the far west of Tibet, with Lake Manasarovar spread below it to the south. In Shaiva devotion it is the abode of Shiva and Parvati, and the Tamil saints sang it as Thirukkayilai, the holy Kailash. It is counted among the 276 Paadal Petra Sthalams — the farthest of the five in Vada Nadu, the northern country, with Srisailam and the Himalayan shrines. Appar sang the Lord of Kayilai, and Sundarar's last hymn calls it Nodithanmalai. No temple stands on the mountain: here the sthalam is the peak itself, and by long custom of reverence its summit has never been climbed.",
+    "architecture": "There is no gopuram or sanctum at Kailash; the mountain is its own shrine. Its four great faces, sharply shaped and snow-streaked, give it the look of a vast natural vimana, and pilgrims read in it the form of a lingam rising from the plateau. Worship takes the form of the parikrama, a circuit of about 52 kilometres around the base, crossing the Dolma La pass at roughly 5,600 metres, with the waters of Manasarovar as its sacred tank.",
+    "legends": "The Periya Puranam tells that Appar, in his old age, set out on foot to behold Kailash and pressed on until his body failed; the Lord came to him as a sage, bade him bathe in a pool, and he rose from the tank at Thiruvaiyaru, where Kailash was revealed to him in vision. Of Sundarar it tells that at the end of his life Shiva sent a white elephant to bring him to the mountain, his friend Cheraman Perumal riding beside him. Karaikkal Ammaiyar, it is said, climbed Kailash on her hands, unwilling to set her feet upon the Lord's abode.",
+    "festivals": "In the Tamil country, Kailash is remembered in Aadi: Thiruvaiyaru celebrates Appar's vision of Kailash, and Shaiva temples keep Sundarar's guru puja, recalling his journey on the white elephant. At the mountain itself the pilgrimage season runs through the summer months, when the passes are open; confirm dates locally.",
+    "experience": "Kailash is a pilgrimage of endurance and wonder: days on the high plateau, the bath at Manasarovar and the long circuit of the mountain in thin air. The mountain is held sacred not only by Hindus but also by Buddhists, Jains and followers of the Bon tradition, and pilgrims of every faith walk the same path around it in reverence."
+  },
+  "visit": {
+    "timings": "There are no temple timings; the pilgrimage is possible only in the summer season, roughly June to September, when the routes are open. Confirm the current season, permits and arrangements well in advance.",
+    "dressCode": "Warm, layered clothing, sturdy walking shoes and protection from sun and wind are essential at this altitude. Dress modestly and follow the guidance of local authorities and guides at the sacred sites.",
+    "photography": "Photographing the mountain and the landscape is generally possible, but local regulations apply; respect pilgrims at prayer and ask before photographing people or monasteries.",
+    "gettingThere": "Indian pilgrims may join the Kailash Mansarovar Yatra organised by the Government of India through the Lipulekh pass in Uttarakhand or Nathu La in Sikkim; private tours travel via Nepal. Permits, medical fitness and acclimatisation are required."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/kailasanathar-mount-kailash.mp3",
+    "durationSec": 188
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.jpg",
+    "color": "#5C3A2E",
+    "alt": "Mount Kailash (Thirukkayilai)",
+    "credit": "Sumitsurai / Wikimedia Commons (CC BY-SA 4.0) · Jean-Marie Hullot / Wikimedia Commons (CC BY-SA 4.0) · Kailash Rai sampangkai / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kailasanathar-mount-kailash.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/kailasanathar-mount-kailash.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.jpg",
+    "durationSec": 144,
+    "credit": "Sumitsurai / Wikimedia Commons (CC BY-SA 4.0) · Jean-Marie Hullot / Wikimedia Commons (CC BY-SA 4.0) · Kailash Rai sampangkai / Wikimedia Commons (CC0)"
+  }
+}
