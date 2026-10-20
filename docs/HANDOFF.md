@@ -29,7 +29,10 @@ conversation. Last updated: 2026-10-20.
      word-vs-digit form, e.g. "7th"→"ഏഴാം"); the one real defect — a truncated `style` on
      `sathyagirinatha-thirumeyyam` (te/kn/ml/hi) — was fixed. What remains is a human
      native-speaker *fluency/register* sign-off: subjective, and auto-rewriting it unverified
-     would risk regressions, so it is a human gate, not an effort gap.
+     would risk regressions, so it is a human gate, not an effort gap. A fluency review of a
+     45-temple representative sample (×5 locales) was done 2026-10-20 — 19 minor issues fixed
+     (transliteration typos, a few mistranslations, gender agreement); drafts otherwise sound.
+     See the Translation QA pass in `docs/research/paadal-petra-sthalams.md`.
   2. **Coordinates — verified 2026-10-20.** The 36 flagged temples were re-checked; 10 were
      upgraded to precise sourced values, the other 26 have no precise temple coordinate
      published anywhere and remain honest town/village-level (adequate at circuit-map scale;

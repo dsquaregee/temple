@@ -109,9 +109,14 @@ native-script ratio, mirrored key structure, no empty strings, no length outlier
 numeric/factual audit across all 508×5 locales found **zero fact/date drift** (every
 en-vs-translation digit difference was a legitimate word-vs-digit form, e.g. "7th"→"ഏഴാം");
 the one real defect found — a truncated `style` field on `sathyagirinatha-thirumeyyam` in
-te/kn/ml/hi — was fixed. **Remaining:** a human native-speaker *fluency/register* sign-off
-(subjective; auto-rewriting unverified would risk regressions, so it is left as a human
-gate). The Vada Nadu member `kedarnath` is shared with the Jyotirlingas circuit.
+te/kn/ml/hi — was fixed. A **fluency review** then covered a 45-temple representative sample
+(name/deity/summary) in all five languages: ~23 minor issues surfaced (place-name
+transliteration typos, a few mistranslations, gender agreement, inconsistent Tamil-term
+transliteration) and 19 high-confidence ones were fixed with targeted edits; the drafts were
+otherwise sound. **Remaining:** a full human native-speaker pass over all Wave-C prose (the
+sample shows the quality is good; the full sign-off stays a human gate — see
+`docs/research/paadal-petra-sthalams.md`). The Vada Nadu member `kedarnath` is shared with
+the Jyotirlingas circuit.
 
 ## Narration audio
 
