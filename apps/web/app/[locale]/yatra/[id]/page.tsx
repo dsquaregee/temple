@@ -49,18 +49,23 @@ export default function CircuitDetail({
   // Large circuits (e.g. the Divya Desams) are split into regional pages.
   const groups = resolveGroups(circuit, stops);
 
-  // TouristTrip with the stops as an ordered itinerary of attractions — lets
-  // Google understand a circuit as a real multi-stop pilgrimage route.
-  const tripJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'TouristTrip',
-    name: circuit.name,
-    description: circuit.description,
-    url: absUrl(`${locale}/yatra/${circuit.id}/`),
-    itinerary: {
-      '@type': 'ItemList',
-      numberOfItems: stops.length,
-      itemListElement: stops.map((temple, index) => ({
+  // TouristTrip with an ordered itinerary — lets Google understand a circuit as
+  // a real multi-stop pilgrimage route. For a grouped circuit the itinerary
+  // lists the regions (each links to its own page, which carries the granular
+  // per-temple ItemList); inlining all stops here would duplicate that data and,
+  // on the largest circuits (275-stop Paadal Petra Sthalams), blow the per-page
+  // byte budget. Ungrouped circuits inline their stops as attractions.
+  const itineraryItems = groups
+    ? groups.map((g, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        item: {
+          '@type': 'TouristTrip',
+          name: g.name,
+          url: absUrl(`${locale}/yatra/${circuit.id}/${g.id}/`),
+        },
+      }))
+    : stops.map((temple, index) => ({
         '@type': 'ListItem',
         position: index + 1,
         item: {
@@ -74,7 +79,17 @@ export default function CircuitDetail({
             addressCountry: 'IN',
           },
         },
-      })),
+      }));
+  const tripJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'TouristTrip',
+    name: circuit.name,
+    description: circuit.description,
+    url: absUrl(`${locale}/yatra/${circuit.id}/`),
+    itinerary: {
+      '@type': 'ItemList',
+      numberOfItems: itineraryItems.length,
+      itemListElement: itineraryItems,
     },
   };
 

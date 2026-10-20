@@ -20,7 +20,7 @@
 // cached before it so returning visitors load the beacon too.
 // v8: 90 new Divya Desams (audio, photos, videos, regional circuit pages) —
 // purge cached pages so returning visitors see the new media and maps.
-const VERSION = 'v13';
+const VERSION = 'v14';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];
