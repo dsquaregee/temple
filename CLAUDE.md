@@ -98,9 +98,15 @@ landscape — hero needs ≥1 photo, video ≥3), so coverage is bounded by phot
 availability, not compute: **235 temples have a real hero photo, 207 have a video**; the
 rest render the honest placeholder gopuram SVG + an audio-only player (the designed D4
 fallback) and gain a photo/video automatically as qualifying CC images appear (see
-`docs/media/photo-audit-auto.md`). **Still pending (genuine follow-ups):** native-speaker
-QA of the AI-drafted ta/te/kn/ml/hi translations; a few approximate coordinates. The Vada
-Nadu member `kedarnath` is shared with the Jyotirlingas circuit.
+`docs/media/photo-audit-auto.md`) — this is the pipeline's **external ceiling** (all 508
+were audited; 273 have no qualifying CC photo), not unfinished effort. **Coordinates
+verified 2026-10-20** — the flagged temples were re-checked; 10 upgraded to precise sourced
+values, the other 26 remain honest town/village-level (no precise coordinate published;
+adequate at circuit-map scale) — see the coordinate-verification pass in
+`docs/research/paadal-petra-sthalams.md`. **Only remaining follow-up:** a human
+native-speaker fluency pass over the AI-drafted ta/te/kn/ml/hi translations (automated QA is
+already green: 100% script ratio, mirrored key structure, no empty strings). The Vada Nadu
+member `kedarnath` is shared with the Jyotirlingas circuit.
 
 ## Narration audio
 

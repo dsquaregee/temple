@@ -231,6 +231,26 @@ group with the in-catalog members above, add `paadal-petra-sthalams` to each mem
    (location disputed/obscure): research carefully and present honestly as "traditionally
    identified with…". Sequence Vada Nadu last. (Owner decision 2026-10-15.)
 
+## Coordinate verification pass (2026-10-20)
+
+The 36 Wave-C temples whose research notes flagged an **unsourced / town-level / derived**
+coordinate were re-checked against mapping sources (Wikipedia infoboxes, AroundUs) via
+WebSearch. Outcome:
+
+- **10 upgraded to precise sourced coordinates** (updated in all 6 locale JSONs): material
+  improvements `onakantheeswarar-kanchipuram`, `pasupatheeswarar-karur`,
+  `vilvanatheswarar-thiruvalam` (temple point, ~8 km better than the town value),
+  `sivalokanathar-tirupunkur`, `tarukavaneswarar-tirupparaithurai`; and 5 whose town-level
+  value was **confirmed** against a Wikipedia infobox and refined to its exact decimals
+  (`aadanainathar-tiruvadanai`, `mahakaleswarar-irumbai`, `thiruvalleeswarar-padi`,
+  `kalaiyarnathar-kalaiyarkoil`, `tirumeninathar-tiruchuli`).
+- **26 remain town/village-level** — no precise temple coordinate is published online (the
+  searches returned nothing better, or only arcminute-rounded values ≈ the current one).
+  These are **the honest best available** and are fully adequate at circuit-route-map scale
+  (regional maps spanning 100s of km; all pass `validate.mjs`'s 4–37 N / 66–98 E gate and
+  sit within a few km of their town). Not a blocker; refine opportunistically if a sourced
+  temple-level coordinate later appears.
+
 ## Content corrections (found during this audit)
 
 Two catalog temples assert "Paadal Petra Sthalam" in their content but are actually
