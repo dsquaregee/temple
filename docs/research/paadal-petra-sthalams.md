@@ -251,6 +251,34 @@ WebSearch. Outcome:
   sit within a few km of their town). Not a blocker; refine opportunistically if a sourced
   temple-level coordinate later appears.
 
+## Translation QA pass (2026-10-20)
+
+Two layers beyond the mechanical `qa-translations.mjs` (which is 0/0):
+
+1. **Numeric/factual audit** across all 508×5 locales — zero fact/date drift; the only
+   defect was a truncated `style` on `sathyagirinatha-thirumeyyam` (te/kn/ml/hi), fixed.
+2. **Fluency review** of a 45-temple representative sample (name/deity/summary) in ta/te/kn/
+   ml/hi via native-fluent review. ~23 minor issues surfaced; **19 fixed** with targeted
+   edits (nothing auto-rewritten wholesale):
+   - Place-name transliteration typos: `agneeswarar-tiruanniyur`, `gnanapureeswarar-mayanam`
+     (கூடவாசல்→குடவாசல்), `masilamaniswarar-tiruvaduthurai` (கூத்தனூர்→குத்தாலம், ta; கുത്താള→കുത്താല, ml).
+   - Mistranslations: te `pasupatheeswarar-karur` (సంత→సాధు "saint"), te
+     `pazhampathinathar-tiruppunavasal` (untranslated ఆవుడయార్→పీఠం "pedestal" + missing
+     epithet), ml `amravaneswarar-tirumaandurai` (reversed "deer blessed with a mango"), ml
+     `neenerinathar-thandalaicheri` (ഉറപ്പ്→അചഞ്ചലമായ നിഷ്ഠ "steadfast"), hi
+     `saaraparameswarar-tirucherai` (garbled नाडा→पूजा), hi `sargunalingeswarar-karukudi`
+     (mangled "lady of non-duality" gloss).
+   - Dropped fact: kn `bhaktajaneswarar-tirunavalur` (restored "mother").
+   - Transliteration/term consistency: kn ಪೆತ್ರ ಸ್ಥಲ→ಪೆಟ್ರ ಸ್ಥಳ, ಪತಿಕ→ಪದಿಗ; ml പെറ്റ→പെറ്റ്ര,
+     പതിഗ→പതിക; Hindi gender agreement (कोंपल/पादुका feminine).
+   - Deferred as low-confidence/subjective (no clear catalog-dominant form): ml
+     `saaraparameswarar` കുടവാസൽ↔കൂടവാസൽ, ml `uthvedeeswarar` plural, ml `jalanatheeswarar`
+     chillu encoding.
+
+   The sample shows the AI drafts are substantively sound. A **full human native-speaker
+   pass over all Wave-C prose remains the recommended sign-off** — it is a human gate, not an
+   effort gap (rewriting validated prose without a native speaker risks regressions).
+
 ## Content corrections (found during this audit)
 
 Two catalog temples assert "Paadal Petra Sthalam" in their content but are actually
