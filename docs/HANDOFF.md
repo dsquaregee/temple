@@ -3,7 +3,7 @@
 **Read this first if you're picking up a shared conversation or a fresh cloud session.**
 A cloud container is ephemeral: it starts with a clean checkout and no prior chat context,
 so everything needed to continue lives here and in the two Paadal Petra docs, not in the
-conversation. Last updated: 2026-10-15.
+conversation. Last updated: 2026-10-20.
 
 ## TL;DR — where things stand
 
@@ -14,13 +14,19 @@ conversation. Last updated: 2026-10-15.
   live** (275 stops, 10 regional groups, 6 locales). Catalog now **508 temples × 6 locales,
   31 circuits** (`node packages/content/scripts/validate.mjs`). Membership was reconciled
   strictly against the verified list; this fixed 3 prior-session duplicate temples.
-- **Remaining for Wave C (follow-up, not blocking the content/circuit deploy):**
-  1. **Narration media** — audio + video for the Wave-C temples (most of ~109 without an
-     `audio` field). Pages render a graceful "Listen coming soon" meanwhile. Run the media
-     pipeline per CLAUDE.md "Narration audio": `audio.yml` → `backup-media-r2.yml` →
-     `media.yml` → `backup-media-r2.yml` → bump `sw.js` VERSION.
-  2. **Native-speaker QA** of the AI-drafted ta/te/kn/ml/hi translations.
-  3. A few **approximate coordinates** (flagged per-temple in `docs/research/paadal-petra/`).
+- **✅ Media pipeline run & deployed (2026-10-20).** Narration **audio is complete for all
+  508 temples** (`audio.yml` → R2 sync). Hero photos + Ken Burns videos were rendered via
+  `media.yml` from qualifying Creative-Commons Wikimedia photos (gate: CC/PD, ≥2 MP,
+  landscape; hero ≥1 photo, video ≥3) and synced to R2 — **235 have a real hero, 207 a
+  video**; the rest use the honest placeholder gopuram SVG + audio-only player and fill in
+  as qualifying CC photos appear (`docs/media/photo-audit-auto.md`). SW bumped to **v14**;
+  deployed to Cloudflare (PR #74 content/circuit, PR #75 CI fixes + SW bump).
+- **Remaining for Wave C (follow-up, not blocking):**
+  1. **Native-speaker QA** of the AI-drafted ta/te/kn/ml/hi translations.
+  2. A few **approximate coordinates** (flagged per-temple in `docs/research/paadal-petra/`).
+  3. Hero/video coverage grows automatically as more qualifying CC photos become available
+     — re-run `media.yml` (resume=true) periodically; it skips temples that already have
+     media and picks up newly-photographed ones.
 - (Earlier state, for reference: this workstream began at 41 of 276 in the catalog.)
 - Everything for Wave C is planned and verified:
   - **`docs/research/paadal-petra-sthalams.md`** — the plan/manifest (decisions, counts,
@@ -57,6 +63,11 @@ conversation. Last updated: 2026-10-15.
   **Sonnet** for research subagents (WebSearch compilation doesn't need Opus).
 
 ## Wave C — status & exactly what to do next
+
+> **✅ SUPERSEDED — Wave C is complete and deployed (see the TL;DR at the top).** All 275
+> Paadal Petra Sthalams are in the catalog, the circuit is live, and audio narration is
+> done for all 508 temples. The section below is the historical in-progress log from the
+> content run and is kept only for provenance; its counts and "to-do" lists are stale.
 
 **The content run is IN PROGRESS.** Reference implementation every temple mirrors:
 **`avinashiappar-avinashi`** (all 6 locales + `docs/research/paadal-petra/avinashiappar-avinashi.md`).
