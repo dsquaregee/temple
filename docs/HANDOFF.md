@@ -21,12 +21,21 @@ conversation. Last updated: 2026-10-20.
   video**; the rest use the honest placeholder gopuram SVG + audio-only player and fill in
   as qualifying CC photos appear (`docs/media/photo-audit-auto.md`). SW bumped to **v14**;
   deployed to Cloudflare (PR #74 content/circuit, PR #75 CI fixes + SW bump).
-- **Remaining for Wave C (follow-up, not blocking):**
-  1. **Native-speaker QA** of the AI-drafted ta/te/kn/ml/hi translations.
-  2. A few **approximate coordinates** (flagged per-temple in `docs/research/paadal-petra/`).
-  3. Hero/video coverage grows automatically as more qualifying CC photos become available
-     — re-run `media.yml` (resume=true) periodically; it skips temples that already have
-     media and picks up newly-photographed ones.
+- **Remaining for Wave C — and why each is at its true floor:**
+  1. **Native-speaker QA** of the AI-drafted ta/te/kn/ml/hi translations. The *automated*
+     QA is green (`qa-translations.mjs`: 100% native-script ratio, English key-structure
+     mirrored, no empty strings). What's left is a human fluency/accuracy pass — genuinely
+     human-gated; not something more compute closes.
+  2. **Coordinates — verified 2026-10-20.** The 36 flagged temples were re-checked; 10 were
+     upgraded to precise sourced values, the other 26 have no precise temple coordinate
+     published anywhere and remain honest town/village-level (adequate at circuit-map scale;
+     all pass validation). See the coordinate-verification pass in
+     `docs/research/paadal-petra-sthalams.md`. Refine opportunistically only.
+  3. **Hero/video coverage is at its external ceiling.** `media.yml`'s photo audit attempted
+     **all 508** temples; 273 have no Creative-Commons/PD photo meeting the gate (≥2 MP,
+     landscape), so 235 heroes / 207 videos is the maximum the CC-sourced pipeline can
+     produce — re-running will not add more until new qualifying photos exist. Not an effort
+     gap (`docs/media/photo-audit-auto.md`).
 - (Earlier state, for reference: this workstream began at 41 of 276 in the catalog.)
 - Everything for Wave C is planned and verified:
   - **`docs/research/paadal-petra-sthalams.md`** — the plan/manifest (decisions, counts,
