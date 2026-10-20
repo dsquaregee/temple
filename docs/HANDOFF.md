@@ -22,10 +22,14 @@ conversation. Last updated: 2026-10-20.
   as qualifying CC photos appear (`docs/media/photo-audit-auto.md`). SW bumped to **v14**;
   deployed to Cloudflare (PR #74 content/circuit, PR #75 CI fixes + SW bump).
 - **Remaining for Wave C — and why each is at its true floor:**
-  1. **Native-speaker QA** of the AI-drafted ta/te/kn/ml/hi translations. The *automated*
-     QA is green (`qa-translations.mjs`: 100% native-script ratio, English key-structure
-     mirrored, no empty strings). What's left is a human fluency/accuracy pass — genuinely
-     human-gated; not something more compute closes.
+  1. **Translation QA — objective pass complete (2026-10-20), human fluency sign-off left.**
+     `qa-translations.mjs` is 0 errors / 0 warnings (100% native-script ratio, mirrored key
+     structure, no empty strings, no length outliers). A numeric/factual audit across all
+     508×5 locales found **zero fact/date drift** (every digit difference was a legitimate
+     word-vs-digit form, e.g. "7th"→"ഏഴാം"); the one real defect — a truncated `style` on
+     `sathyagirinatha-thirumeyyam` (te/kn/ml/hi) — was fixed. What remains is a human
+     native-speaker *fluency/register* sign-off: subjective, and auto-rewriting it unverified
+     would risk regressions, so it is a human gate, not an effort gap.
   2. **Coordinates — verified 2026-10-20.** The 36 flagged temples were re-checked; 10 were
      upgraded to precise sourced values, the other 26 have no precise temple coordinate
      published anywhere and remain honest town/village-level (adequate at circuit-map scale;

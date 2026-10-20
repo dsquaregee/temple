@@ -103,10 +103,15 @@ were audited; 273 have no qualifying CC photo), not unfinished effort. **Coordin
 verified 2026-10-20** — the flagged temples were re-checked; 10 upgraded to precise sourced
 values, the other 26 remain honest town/village-level (no precise coordinate published;
 adequate at circuit-map scale) — see the coordinate-verification pass in
-`docs/research/paadal-petra-sthalams.md`. **Only remaining follow-up:** a human
-native-speaker fluency pass over the AI-drafted ta/te/kn/ml/hi translations (automated QA is
-already green: 100% script ratio, mirrored key structure, no empty strings). The Vada Nadu
-member `kedarnath` is shared with the Jyotirlingas circuit.
+`docs/research/paadal-petra-sthalams.md`. **Translation QA (2026-10-20):** the *objective*
+pass is complete and clean — `qa-translations.mjs` is 0 errors / 0 warnings (100%
+native-script ratio, mirrored key structure, no empty strings, no length outliers), and a
+numeric/factual audit across all 508×5 locales found **zero fact/date drift** (every
+en-vs-translation digit difference was a legitimate word-vs-digit form, e.g. "7th"→"ഏഴാം");
+the one real defect found — a truncated `style` field on `sathyagirinatha-thirumeyyam` in
+te/kn/ml/hi — was fixed. **Remaining:** a human native-speaker *fluency/register* sign-off
+(subjective; auto-rewriting unverified would risk regressions, so it is left as a human
+gate). The Vada Nadu member `kedarnath` is shared with the Jyotirlingas circuit.
 
 ## Narration audio
 
