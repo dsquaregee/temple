@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/mayuranathar-mayiladuthurai.mp3",
     "durationSec": 154
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mayuranathar-mayiladuthurai.jpg",
+    "color": "#5C3A2E",
+    "alt": "మాయూరనాథస్వామి ఆలయం, మయిలాడుతురై",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/mayuranathar-mayiladuthurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mayuranathar-mayiladuthurai.jpg",
+    "durationSec": 172,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

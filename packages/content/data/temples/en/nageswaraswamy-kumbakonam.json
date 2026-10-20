@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/nageswaraswamy-kumbakonam.mp3",
     "durationSec": 192
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/nageswaraswamy-kumbakonam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Nageswaraswamy Temple, Kumbakonam",
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/nageswaraswamy-kumbakonam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/nageswaraswamy-kumbakonam.jpg",
+    "durationSec": 140,
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/thayumanavar-tiruchirappalli.mp3",
     "durationSec": 170
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/thayumanavar-tiruchirappalli.jpg",
+    "color": "#5C3A2E",
+    "alt": "तायुमानवर मंदिर, तिरुचिरापल्ली",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/thayumanavar-tiruchirappalli.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thayumanavar-tiruchirappalli.jpg",
+    "durationSec": 156,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

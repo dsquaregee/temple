@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/mayuranathar-mayiladuthurai.mp3",
     "durationSec": 178
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mayuranathar-mayiladuthurai.jpg",
+    "color": "#5C3A2E",
+    "alt": "மாயூரநாதசுவாமி கோயில், மயிலாடுதுறை",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/ta/mayuranathar-mayiladuthurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mayuranathar-mayiladuthurai.jpg",
+    "durationSec": 169,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

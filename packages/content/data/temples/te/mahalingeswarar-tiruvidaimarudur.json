@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/te/mahalingeswarar-tiruvidaimarudur.mp3",
     "durationSec": 198
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahalingeswarar-tiruvidaimarudur.jpg",
+    "color": "#5C3A2E",
+    "alt": "మహాలింగేశ్వరర్ ఆలయం, తిరువిడైమరుదూర్",
+    "credit": "Krishna Kumar S / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/te/mahalingeswarar-tiruvidaimarudur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mahalingeswarar-tiruvidaimarudur.jpg",
+    "durationSec": 216,
+    "credit": "Krishna Kumar S / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }
