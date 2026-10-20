@@ -91,10 +91,16 @@ route-map page per region). Membership was reconciled strictly against the verif
 removed in favour of their canonical ashta-veerattanam / sapta-vidanga ids). Verified full
 list: `docs/research/paadal-petra-sthalams-list.md`; plan/corrections:
 `docs/research/paadal-petra-sthalams.md`; per-temple notes: `docs/research/paadal-petra/`.
-**Still pending:** narration audio/video for the temples added in Wave C (pages render a
-graceful "Listen coming soon" until then); native-speaker QA of the AI-drafted
-translations; a few approximate coordinates. The Vada Nadu member `kedarnath` is shared
-with the Jyotirlingas circuit.
+**Media status (2026-10-20):** narration **audio is complete for all 508 temples**
+(`audio.yml` → R2); SW bumped to **v14**. Hero photos + Ken Burns videos are rendered
+from qualifying Creative-Commons Wikimedia photos (`media.yml`; gate: CC/PD, ≥2 MP,
+landscape — hero needs ≥1 photo, video ≥3), so coverage is bounded by photo
+availability, not compute: **235 temples have a real hero photo, 207 have a video**; the
+rest render the honest placeholder gopuram SVG + an audio-only player (the designed D4
+fallback) and gain a photo/video automatically as qualifying CC images appear (see
+`docs/media/photo-audit-auto.md`). **Still pending (genuine follow-ups):** native-speaker
+QA of the AI-drafted ta/te/kn/ml/hi translations; a few approximate coordinates. The Vada
+Nadu member `kedarnath` is shared with the Jyotirlingas circuit.
 
 ## Narration audio
 
