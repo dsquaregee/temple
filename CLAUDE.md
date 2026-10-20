@@ -24,7 +24,7 @@ Each gate requires owner sign-off before the next phase starts.
 |---|---|
 | 1. Research | ✅ Complete, gate passed 2026-07 |
 | 2. UX/Design | ✅ Complete, gate passed 2026-07 |
-| 3. Build | ✅ Complete, gate passed 2026-10-08 (both PWA + native; catalog since expanded to **394 temples × 6 languages**, 30 circuits — see "Temple catalog" below) |
+| 3. Build | ✅ Complete, gate passed 2026-10-08 (both PWA + native; catalog since expanded to **508 temples × 6 languages**, 31 circuits — see "Temple catalog" below) |
 | 4. Test/Harden | 🔨 In progress (unit + content-invariant suite, translation QA, CSP hardening, per-page byte budget, Lighthouse CI all in place — see docs/testing.md) |
 | 5. Deploy | ✅ **Live on Cloudflare.** `temples.dsquaregee.com` is served by **Cloudflare Workers Static Assets** (Git-connected Workers Builds, no deploy secrets) with **media/audio on Cloudflare R2** (`media`/`audio.dsquaregee.com`, $0 egress) — verified end-to-end (single-valued cache headers, CSP/HSTS, R2 media HIT). **No Google in the serving path.** History: project migrated off the Google-locked `temple-502523` → `temples2` (`infra/migrate-project.mjs`; Firestore `temples2` db in `asia-south1`; all media regenerated — audio 101×6, heroes 92, AVIF/WebP/OG, narrated video 78×6), served from temples2.web.app, then **hosting moved to Cloudflare** and the domain cut over. Firebase Hosting deploy (`deploy.yml`) retired. **Off-Google backup**: weekly GCS→R2 mirror (`backup-media-r2.yml` → `temples2-media-backup`/`temples2-audio-backup`). **Firebase Hosting decommission (final step):** disable the stale `temples2.web.app` via `firebase-hosting-disable.yml`, and remove the `temples.dsquaregee.com` custom domain in the Firebase Console — the connected domain is what produces the `Google-Firebase` user-agent probe traffic (and a slice of 404s) in Cloudflare analytics; Console removal is the only way to stop it. Runbooks: **docs/deploy-cloudflare-pages.md**, **docs/migrate-project.md**. |
 
@@ -67,7 +67,7 @@ Each gate requires owner sign-off before the next phase starts.
 
 ## Temple catalog — launch core + full set
 
-**Shipped catalog: 394 temples × 6 locales, 30 circuits** (Paadal Petra Sthalams in progress — see docs/HANDOFF.md) — every circuit lists all of its traditional or curated member temples (audit: `docs/research/02-circuit-audit.md`) (source of truth:
+**Shipped catalog: 508 temples × 6 locales, 31 circuits** — every circuit lists all of its traditional or curated member temples (audit: `docs/research/02-circuit-audit.md`) (source of truth:
 `packages/content/data`). The **Divya Desams circuit is complete** — all 106
 earthly shrines (108 minus the two celestial abodes; Irattai Tirupati's twin temples
 are two entries), grouped by the six traditional regions (`groups` in the circuit
@@ -80,13 +80,21 @@ gangaikonda-cholapuram, airavatesvara. Pancha Bhoota Sthalams: ekambareswarar
 (earth), jambukeswarar (water), arunachaleswarar (fire), srikalahasti (air),
 nataraja-chidambaram (space). Plus: meenakshi-madurai, ramanathaswamy-rameswaram.
 
-**Wave C — Paadal Petra Sthalams (in progress, the flagship expansion).** The 276 Tevaram
-Shiva temples, Shaiva counterpart of the Divya Desams. **42 of 276 already in the catalog;
-~234 to write**, region by region (Chola 191 / Pandya 14 / Nadu Nadu 22 / Thondai 31 /
-Kongu 7 / + outlying). Verified full list: `docs/research/paadal-petra-sthalams-list.md`;
-plan, decisions & corrections: `docs/research/paadal-petra-sthalams.md`; operational
-handoff: `docs/HANDOFF.md`. The `paadal-petra-sthalams` circuit is deliberately **not
-created until substantially complete** (owner decision — avoid a partial Yatra page).
+**Wave C — Paadal Petra Sthalams (✅ COMPLETE, the flagship expansion).** All **275** Tevaram
+Shiva temples (the canonical 276 less one boundary case) are now in the catalog, and the
+**`paadal-petra-sthalams` circuit is live** — 275 stops in 10 regional `groups`
+(Chola north 63 / Chola south 128 / Pandya 14 / Nadu Nadu 22 / Kongu 7 / Thondai 32 /
+Malai 1 / Thulu 1 / Eezha 2 / Vada 5), on the Divya Desams model (overview + one
+route-map page per region). Membership was reconciled strictly against the verified list
+(deity + Tevaram place), which surfaced and fixed **3 prior-session duplicates**
+(veeratteswarar-tiruvirkudi, kannayiranathar-tirukkaravasal, veerateswarar-parasalur →
+removed in favour of their canonical ashta-veerattanam / sapta-vidanga ids). Verified full
+list: `docs/research/paadal-petra-sthalams-list.md`; plan/corrections:
+`docs/research/paadal-petra-sthalams.md`; per-temple notes: `docs/research/paadal-petra/`.
+**Still pending:** narration audio/video for the temples added in Wave C (pages render a
+graceful "Listen coming soon" until then); native-speaker QA of the AI-drafted
+translations; a few approximate coordinates. The Vada Nadu member `kedarnath` is shared
+with the Jyotirlingas circuit.
 
 ## Narration audio
 

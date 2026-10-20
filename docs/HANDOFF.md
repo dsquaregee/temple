@@ -7,12 +7,21 @@ conversation. Last updated: 2026-10-15.
 
 ## TL;DR — where things stand
 
-- The app is **live on Cloudflare** (`temples.dsquaregee.com`), catalog **261 temples ×
-  6 locales, 29 circuits**, Phase 4 (Test/Harden) in progress. See `CLAUDE.md` for the
+- The app is **live on Cloudflare** (`temples.dsquaregee.com`). See `CLAUDE.md` for the
   full project memory — read it; it is the source of truth.
-- **Active workstream: Wave C — the Paadal Petra Sthalams** (the 276 Tevaram Shiva
-  temples, the Shaiva counterpart to the completed Divya Desams). This is the flagship
-  catalog expansion. **41 of 276 are already in the catalog; ~234 remain to write.**
+- **✅ Wave C — the Paadal Petra Sthalams — is CONTENT-COMPLETE (2026-10-20).** All **275**
+  Tevaram Shiva temples are in the catalog and the **`paadal-petra-sthalams` circuit is
+  live** (275 stops, 10 regional groups, 6 locales). Catalog now **508 temples × 6 locales,
+  31 circuits** (`node packages/content/scripts/validate.mjs`). Membership was reconciled
+  strictly against the verified list; this fixed 3 prior-session duplicate temples.
+- **Remaining for Wave C (follow-up, not blocking the content/circuit deploy):**
+  1. **Narration media** — audio + video for the Wave-C temples (most of ~109 without an
+     `audio` field). Pages render a graceful "Listen coming soon" meanwhile. Run the media
+     pipeline per CLAUDE.md "Narration audio": `audio.yml` → `backup-media-r2.yml` →
+     `media.yml` → `backup-media-r2.yml` → bump `sw.js` VERSION.
+  2. **Native-speaker QA** of the AI-drafted ta/te/kn/ml/hi translations.
+  3. A few **approximate coordinates** (flagged per-temple in `docs/research/paadal-petra/`).
+- (Earlier state, for reference: this workstream began at 41 of 276 in the catalog.)
 - Everything for Wave C is planned and verified:
   - **`docs/research/paadal-petra-sthalams.md`** — the plan/manifest (decisions, counts,
     batch order, circuit design, page-budget note, content corrections).
