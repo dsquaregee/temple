@@ -257,9 +257,33 @@ Two layers beyond the mechanical `qa-translations.mjs` (which is 0/0):
 
 1. **Numeric/factual audit** across all 508×5 locales — zero fact/date drift; the only
    defect was a truncated `style` on `sathyagirinatha-thirumeyyam` (te/kn/ml/hi), fixed.
-2. **Fluency review** of a 45-temple representative sample (name/deity/summary) in ta/te/kn/
-   ml/hi via native-fluent review. ~23 minor issues surfaced; **19 fixed** with targeted
-   edits (nothing auto-rewritten wholesale):
+2. **Comprehensive fluency review** of **all 237 Wave-C temples × 5 locales**
+   (name/deity/summary) via native-fluent review against the English source — a 45-temple
+   sample first, then the remaining 192 in four batches (PRs #80–#83). **~190 verified,
+   targeted edits** in total (nothing auto-rewritten wholesale); every semantic fix checked
+   against the English, and cross-locale agreement (the same point flagged independently in
+   3–5 languages) used to confirm the universal errors. Highlights:
+   - **Faithfulness / not-in-source:** caste claims removed where the English says only
+     "humble devotee" / "devout priest" (`sivalokanathar`, `satchinathar`); unsourced
+     "female devotee" corrected (`arunajadeswarar`, 4 locales; `ponvaithanathar`;
+     `arunajadeswarar`); an added "northwest of Chennai" removed (`thiripuranthakeswarar`,
+     all 5 locales).
+   - **Factual mistranslations:** wrong goddess name (`mullaivananathar`: Karpaga Nayaki →
+     Garbarakshambigai); Pranava→Prana deity name (`pranavanatheswarar`); "sang out in
+     protest" → familiarity/freely (`tirumuruganathaswamy`, 4 locales); "a lamp that would
+     not burn" → "extinguished torches" (`mahalakshminathar`, 4 locales); "humbling of
+     Mahabali" → "humility" (`vamanapureeswarar`, 4 locales); "celestial maidens" → plain
+     maidens (`kadambavaneswarar`, 4 locales); "vel is a lance" vs trident
+     (`vennailingeswarar`); "Swami Rock" → "Swamimalai"; "fine gold"; "both names mean the
+     sun"; bricks-to-gold miracle subject; Vishnu/discus tradition; Nethrambigai; etc.
+   - **Terminology / consistency:** Nayanmars vs the Nair-community term; "child-saint"
+     Sambandar as ascetic/renunciant; oleander not hibiscus; Chola (ചോള not ചോഴ); Kudavasal,
+     Kuthalam, Coromandel spellings; Paadal-Petra / pathigam / Nadu-Nadu transliteration;
+     Hindi gender agreement; a leftover editing artifact `—alla,` removed.
+   - **Catalog-wide script cleanup:** Tamil letters (ழ etc.) left untransliterated in
+     te/kn/ml/hi prose, remapped to each script's equivalent across 115 fields (photographer
+     credits and `nativeName` left verbatim).
+   The earlier 45-temple sample's **19 fixes** are included in the total:
    - Place-name transliteration typos: `agneeswarar-tiruanniyur`, `gnanapureeswarar-mayanam`
      (கூடவாசல்→குடவாசல்), `masilamaniswarar-tiruvaduthurai` (கூத்தனூர்→குத்தாலம், ta; கുത്താള→കുത്താല, ml).
    - Mistranslations: te `pasupatheeswarar-karur` (సంత→సాధు "saint"), te
