@@ -244,12 +244,15 @@ WebSearch. Outcome:
   value was **confirmed** against a Wikipedia infobox and refined to its exact decimals
   (`aadanainathar-tiruvadanai`, `mahakaleswarar-irumbai`, `thiruvalleeswarar-padi`,
   `kalaiyarnathar-kalaiyarkoil`, `tirumeninathar-tiruchuli`).
-- **26 remain town/village-level** — no precise temple coordinate is published online (the
-  searches returned nothing better, or only arcminute-rounded values ≈ the current one).
-  These are **the honest best available** and are fully adequate at circuit-route-map scale
-  (regional maps spanning 100s of km; all pass `validate.mjs`'s 4–37 N / 66–98 E gate and
-  sit within a few km of their town). Not a blocker; refine opportunistically if a sourced
-  temple-level coordinate later appears.
+- **26 remain town/village-level — verified exhausted (two search passes, 2026-10-21).**
+  No precise temple coordinate is published online. A first pass, then a second, deliberately
+  aggressive pass (Wikipedia, Wikimapia, OpenStreetMap/Nominatim, Dinamalar, shivatemples.com,
+  tntemplesproject.in, latlong.net), returned nothing better than the current values — only
+  arcminute-rounded infobox figures ≈ the current ones, or descriptive "N km from <town>"
+  text. These are **the honest best available** and fully adequate at circuit-route-map scale
+  (regional maps spanning 100s of km; all pass `validate.mjs`'s 4–37 N / 66–98 E gate and sit
+  within a few km of their village). This is a **data-availability floor, not a pending task**:
+  the coordinates will only improve if a sourced temple-level point is later published.
 
 ## Translation QA pass (2026-10-20)
 
