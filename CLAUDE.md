@@ -109,14 +109,21 @@ native-script ratio, mirrored key structure, no empty strings, no length outlier
 numeric/factual audit across all 508×5 locales found **zero fact/date drift** (every
 en-vs-translation digit difference was a legitimate word-vs-digit form, e.g. "7th"→"ഏഴാം");
 the one real defect found — a truncated `style` field on `sathyagirinatha-thirumeyyam` in
-te/kn/ml/hi — was fixed. A **fluency review** then covered a 45-temple representative sample
-(name/deity/summary) in all five languages: ~23 minor issues surfaced (place-name
-transliteration typos, a few mistranslations, gender agreement, inconsistent Tamil-term
-transliteration) and 19 high-confidence ones were fixed with targeted edits; the drafts were
-otherwise sound. **Remaining:** a full human native-speaker pass over all Wave-C prose (the
-sample shows the quality is good; the full sign-off stays a human gate — see
-`docs/research/paadal-petra-sthalams.md`). The Vada Nadu member `kedarnath` is shared with
-the Jyotirlingas circuit.
+te/kn/ml/hi — was fixed. A **comprehensive fluency review** then covered **all 237 Wave-C temples × 5 locales**
+(name/deity/summary) via native-fluent review against the English source, applied as
+**~190 verified targeted edits** (PRs #80–#83). It caught real defects: **caste claims not
+in the source removed** (e.g. `sivalokanathar`, `satchinathar`), **unsourced "female
+devotee" claims** corrected (`arunajadeswarar` ×4 locales), a **wrong goddess name**
+(`mullaivananathar`: Karpaga Nayaki → Garbarakshambigai), a **Pranava→Prana** deity-name
+error, "sang out in protest" mistranslated (`tirumuruganathaswamy` ×4), an added
+"northwest of Chennai" removed (`thiripuranthakeswarar` ×5), "celestial maidens" / "a lamp
+that would not burn" / "humbling of Mahabali" restored across locales, "vel is a lance not
+a trident", plus a **catalog-wide cleanup of Tamil-script letters** (ழ etc.) left in
+te/kn/ml/hi prose (115 fields). Cross-locale agreement (the same English point flagged
+independently in 3–5 languages) validated the universal errors. Details:
+`docs/research/paadal-petra-sthalams.md`. A final human native-speaker sign-off is still
+nominally the gate, but the AI drafts are now reviewed and clean. The Vada Nadu member
+`kedarnath` is shared with the Jyotirlingas circuit.
 
 ## Narration audio
 

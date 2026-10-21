@@ -27,12 +27,14 @@ conversation. Last updated: 2026-10-20.
      structure, no empty strings, no length outliers). A numeric/factual audit across all
      508×5 locales found **zero fact/date drift** (every digit difference was a legitimate
      word-vs-digit form, e.g. "7th"→"ഏഴാം"); the one real defect — a truncated `style` on
-     `sathyagirinatha-thirumeyyam` (te/kn/ml/hi) — was fixed. What remains is a human
-     native-speaker *fluency/register* sign-off: subjective, and auto-rewriting it unverified
-     would risk regressions, so it is a human gate, not an effort gap. A fluency review of a
-     45-temple representative sample (×5 locales) was done 2026-10-20 — 19 minor issues fixed
-     (transliteration typos, a few mistranslations, gender agreement); drafts otherwise sound.
-     See the Translation QA pass in `docs/research/paadal-petra-sthalams.md`.
+     `sathyagirinatha-thirumeyyam` (te/kn/ml/hi) — was fixed. A **comprehensive fluency review of all 237 Wave-C
+     temples × 5 locales** (name/deity/summary) was completed 2026-10-20/21 (PRs #80–#83,
+     ~190 verified targeted edits): removed caste claims and unsourced "female devotee"
+     claims not in the English, fixed a wrong goddess name, a Pranava→Prana deity error,
+     "protest" mistranslations, an added "northwest of Chennai", and a catalog-wide cleanup
+     of Tamil-script letters left in te/kn/ml/hi prose. The drafts are now reviewed and
+     clean; a human native-speaker sign-off remains the nominal final gate (not an effort
+     gap). See the Translation QA pass in `docs/research/paadal-petra-sthalams.md`.
   2. **Coordinates — verified 2026-10-20.** The 36 flagged temples were re-checked; 10 were
      upgraded to precise sourced values, the other 26 have no precise temple coordinate
      published anywhere and remain honest town/village-level (adequate at circuit-map scale;
