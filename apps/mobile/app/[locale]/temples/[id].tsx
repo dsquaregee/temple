@@ -128,35 +128,17 @@ export default function TempleDetailScreen() {
       <SectionHeading>{ui.labels.whyItMatters}</SectionHeading>
       <Lead>{temple.summary}</Lead>
 
+      <SectionHeading>{ui.visit.heading}</SectionHeading>
+      {visit.map((v) => (
+        <Tile key={v.k} label={v.k} value={v.v} />
+      ))}
+
       {sections.map((s) => (
         <View key={s.label}>
           <SectionHeading>{s.label}</SectionHeading>
           <Body>{s.body}</Body>
         </View>
       ))}
-
-      <SectionHeading>{ui.visit.heading}</SectionHeading>
-      {visit.map((v) => (
-        <Tile key={v.k} label={v.k} value={v.v} />
-      ))}
-
-      <View
-        style={{
-          borderColor: colors.line,
-          borderWidth: 0.5,
-          borderStyle: 'dashed',
-          borderRadius: 12,
-          padding: 16,
-          marginTop: 18,
-        }}
-      >
-        <Text style={{ color: colors.inkStrong, fontWeight: '600' }}>
-          {ui.labels.supportTemple}
-        </Text>
-        <Text style={{ color: colors.inkMuted, fontSize: 14, marginTop: 4 }}>
-          {ui.labels.supportNote}
-        </Text>
-      </View>
 
       {related.length > 0 && (
         <>
