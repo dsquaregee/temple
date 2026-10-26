@@ -191,13 +191,6 @@ export default function TempleDetail({
         <p className="lead">{temple.summary}</p>
       </section>
 
-      {sections.map((s) => (
-        <section className="section" key={s.key} aria-label={ui.sections[s.key]}>
-          <h2>{ui.sections[s.key]}</h2>
-          <p>{s.body}</p>
-        </section>
-      ))}
-
       <section className="section" aria-labelledby="visit-h">
         <h2 id="visit-h">{ui.visit.heading}</h2>
         <div className="tiles">
@@ -210,10 +203,12 @@ export default function TempleDetail({
         </div>
       </section>
 
-      <div className="callout">
-        <div className="k">{ui.labels.supportTemple}</div>
-        <div className="n">{ui.labels.supportNote}</div>
-      </div>
+      {sections.map((s) => (
+        <section className="section" key={s.key} aria-label={ui.sections[s.key]}>
+          <h2>{ui.sections[s.key]}</h2>
+          <p>{s.body}</p>
+        </section>
+      ))}
 
       {related.length > 0 && (
         <section className="section" aria-labelledby="related-h">
