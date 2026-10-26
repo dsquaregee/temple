@@ -3,7 +3,7 @@
 **Read this first if you're picking up a shared conversation or a fresh cloud session.**
 A cloud container is ephemeral: it starts with a clean checkout and no prior chat context,
 so everything needed to continue lives here and in the two Paadal Petra docs, not in the
-conversation. Last updated: 2026-10-20.
+conversation. Last updated: 2026-10-26.
 
 ## TL;DR — where things stand
 
@@ -32,9 +32,17 @@ conversation. Last updated: 2026-10-20.
      ~190 verified targeted edits): removed caste claims and unsourced "female devotee"
      claims not in the English, fixed a wrong goddess name, a Pranava→Prana deity error,
      "protest" mistranslations, an added "northwest of Chennai", and a catalog-wide cleanup
-     of Tamil-script letters left in te/kn/ml/hi prose. The drafts are now reviewed and
-     clean; a human native-speaker sign-off remains the nominal final gate (not an effort
-     gap). See the Translation QA pass in `docs/research/paadal-petra-sthalams.md`.
+     of Tamil-script letters left in te/kn/ml/hi prose. **Update 2026-10-26: the review was
+     then extended to the five long-form section fields** (history/architecture/legends/
+     festivals/experience) for **all 237 Wave-C temples × 5 locales**, run as 8 parallel
+     native-fluent batches (PRs #85–#91, ~340 further verified occurrence-checked edits):
+     Tevaram Nayanar saints mislabelled as sannyasin/sadhu/renunciant/"sant"/market-saint
+     corrected across ta/te/kn/ml; gendered pilgrim/devotee forms made neutral-honorific (ta);
+     Tamil month/star names restored over Sanskrit (kn); wrong goddess/place/demon names and
+     opposite-meaning mistranslations fixed; garbled/leaked-script words repaired. **Every
+     Wave-C field in every language is now AI-reviewed and clean.** `qa-translations.mjs`
+     stays 0/0 at 100%. A human native-speaker sign-off remains the nominal final gate (not
+     an effort gap). See the Translation QA pass in `docs/research/paadal-petra-sthalams.md`.
   2. **Coordinates — verified 2026-10-20.** The 36 flagged temples were re-checked; 10 were
      upgraded to precise sourced values, the other 26 have no precise temple coordinate
      published anywhere and remain honest town/village-level (adequate at circuit-map scale;
@@ -157,14 +165,15 @@ lands. Design (10 regional groups) is in the manifest. **Sub-split Chola Nadu so
   is the one edge case (disputed location) — research carefully. Sequence Vada Nadu last.
   Details in `paadal-petra-sthalams.md` → "Owner decisions".
 
-## Follow-up: narration for the 2 corrected Vaippu temples
+## Follow-up: narration for the corrected Vaippu temples — ✅ RESOLVED (verified 2026-10-26)
 
-`keezhaperumpallam-naganathaswamy` and `thingalur-kailasanathar` were mislabeled as Paadal
-Petra Sthalams; the **text is fixed** (→ "Vaippu Sthalam", all 6 locales, deployed). Their
-**narration audio still says "Paadal Petra"** and must be re-rendered. This was queued for
-the next media run rather than a standalone 2-temple pipeline. When you next run
-`audio.yml`/`media.yml`, ensure these two are re-rendered (resume off or targeted) and bump
-the SW `VERSION`. See `paadal-petra-sthalams.md` → "Content corrections".
+`keezhaperumpallam-naganathaswamy`, `thingalur-kailasanathar` and `kachabeswarar-kanchipuram`
+were mislabeled as Paadal Petra Sthalams; the **text was fixed** (→ "Vaippu Sthalam", all 6
+locales, deployed) and their `audio`/`video` fields removed so the next media run would
+re-render them. **Confirmed done:** all three now carry `audio` (v4 path) across all 6
+locales (Kachabeswarar also `video`), re-rendered from the corrected text — verified: none
+of the three contains any "Paadal Petra" string and all contain "Vaippu". No residual
+action. See `paadal-petra-sthalams.md` → "Content corrections".
 
 ## Update 2026-10-19 — Jyotirlingas + reconciliation (branch `claude/intelligent-cori-2uwdlj`)
 
