@@ -305,6 +305,30 @@ Two layers beyond the mechanical `qa-translations.mjs` (which is 0/0):
    The sample shows the AI drafts are substantively sound. A **full human native-speaker
    pass over all Wave-C prose remains the recommended sign-off** — it is a human gate, not an
    effort gap (rewriting validated prose without a native speaker risks regressions).
+3. **Section-prose fluency review (2026-10-26)** — the same native-fluent method extended from
+   name/deity/summary to the **five long-form section fields**
+   (history/architecture/legends/festivals/experience) for **all 237 Wave-C temples × 5
+   locales**, run as 8 parallel batches (≈29 temples each, PRs #85–#91). **~340 further
+   verified, occurrence-checked edits.** Recurring defect classes:
+   - **Sacred terminology:** Tevaram Nayanar poet-saints — above all the child-saint
+     Sambandar — mislabelled as sannyasin / sadhu / renunciant / "sant" (te సంత = market) /
+     market-saint, corrected to Nayanar/devotee/child-saint across ta/te/kn/ml; "Tamil
+     saints" → Nayanmars not sannyasins; double-plural நாயன்மார்மார் (reads as Nair) → நாயனார்மார்.
+   - **Gender register (ta):** masculine pilgrim/visitor/devotee forms (யாத்ரிகன்…வருகிறான்,
+     தரிசிப்பவன், பக்தன், நினைவுகூர்பவன்) made neutral-honorific (யாத்ரிகர்/யாத்ரிகர்கள், honorific verbs).
+   - **Tamil month/star names (kn):** Margashira→Margazhi, Krittika→Kiruthigai,
+     Kartika→Karthigai — Sanskrit forms restored to the catalog's Tamil convention.
+   - **Factual mistranslations:** goddess Karpaga Nayaki → Garbarakshambigai (ta); place
+     Koothanur → Kuthalam (ta), Tirukkadavur → Tirukkadaiyur (kn), Poonthottam name restored
+     (ml); demon Darukasura → Tarukasura (hi/te); Karaikkal Ammaiyar climbed Kailash *on her
+     hands*, not head (ta); "unhurried"→"without delay" (hi), "healing"→"diagnosis" (hi),
+     "heavenly voice"→"radio" வானொலி→அசரீரி (ta), "builders"→"teachers" (ta), "fragile"→"fine" (ta).
+   - **Garbled/leaked:** truncated month ഏപ്രി→ഏപ്രിൽ (ml); non-words for decads
+     పదికాలు/పతికాలు→పదిగాలు/పతిగం; மைய்யம்→மையம் typos (ta); leaked Devanagari श / Malayalam
+     letters inside te prose repaired; Tamil verb transliterated in kn prose rewritten.
+   `qa-translations.mjs` stays 0/0 at 100% script ratio; `validate.mjs` and the 260-test
+   suite stay green. The human native-speaker gate above is unchanged — these are reviewed,
+   verified AI drafts, now covering **every Wave-C field in every language**.
 
 ## Content corrections (found during this audit)
 
