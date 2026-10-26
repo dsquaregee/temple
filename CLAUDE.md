@@ -120,7 +120,18 @@ error, "sang out in protest" mistranslated (`tirumuruganathaswamy` ×4), an adde
 that would not burn" / "humbling of Mahabali" restored across locales, "vel is a lance not
 a trident", plus a **catalog-wide cleanup of Tamil-script letters** (ழ etc.) left in
 te/kn/ml/hi prose (115 fields). Cross-locale agreement (the same English point flagged
-independently in 3–5 languages) validated the universal errors. Details:
+independently in 3–5 languages) validated the universal errors. The **section prose**
+(history/architecture/legends/festivals/experience) was then reviewed to the same depth —
+**all 237 Wave-C temples × 5 locales × 5 section fields**, in 8 parallel native-fluent
+batches (PRs #85–#91), applying **~340 further verified edits**. Recurring defect classes
+caught and fixed: Tevaram Nayanar poet-saints (esp. the child-saint Sambandar) mislabelled
+as sannyasin/sadhu/renunciant/"sant"/market-saint across ta/te/kn/ml; gendered
+pilgrim/devotee forms made neutral-honorific (ta); Tamil month/star names (Margazhi,
+Karthigai, Kiruthigai) restored over Sanskrit forms (kn); wrong goddess/place/demon names
+(Garbarakshambigai, Kuthalam, Tarukasura not Darukasura); mistranslations
+("unhurried"→"without delay", "healing"→"diagnosis", "heavenly voice"→"radio",
+"builders"→"teachers", Karaikkal Ammaiyar climbed Kailash on her hands not head); garbled
+non-words and leaked foreign-script letters (Devanagari/Malayalam) repaired. Details:
 `docs/research/paadal-petra-sthalams.md`. A final human native-speaker sign-off is still
 nominally the gate, but the AI drafts are now reviewed and clean. The Vada Nadu member
 `kedarnath` is shared with the Jyotirlingas circuit.
