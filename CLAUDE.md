@@ -25,7 +25,7 @@ Each gate requires owner sign-off before the next phase starts.
 | 1. Research | ✅ Complete, gate passed 2026-07 |
 | 2. UX/Design | ✅ Complete, gate passed 2026-07 |
 | 3. Build | ✅ Complete, gate passed 2026-10-08 (both PWA + native; catalog since expanded to **508 temples × 6 languages**, 31 circuits — see "Temple catalog" below) |
-| 4. Test/Harden | ✅ **Complete, gate passed 2026-10-26 (owner sign-off).** Unit + content-invariant suite (260 tests), translation QA (0/0, 100% script ratio), CSP hardening, per-page byte budget, Lighthouse CI — all in place and green on the deployed head; full Wave-C translation review (name/deity/summary + all 5 section fields × 237 temples × 5 locales) complete. See docs/testing.md. One nominal follow-up remains open by owner's choice: a final **human native-speaker translation sign-off** (the AI review is comprehensive and clean — this is a human gate, not an effort gap). |
+| 4. Test/Harden | ✅ **Complete, gate passed 2026-10-26 (owner sign-off).** Unit + content-invariant suite (260 tests), translation QA (0/0, 100% script ratio), CSP hardening, per-page byte budget, Lighthouse CI — all in place and green on the deployed head; full Wave-C translation review (name/deity/summary + all 5 section fields × 237 temples × 5 locales) complete. See docs/testing.md. The **translation gate was signed off by the owner on 2026-10-26**, accepting the comprehensive AI translation review (every Wave-C field × 5 locales, reviewed against the English source) as sufficient for release; an optional native-speaker linguistic pass may still be done post-launch as a quality enhancement, but is no longer a release gate. |
 | 5. Deploy | ✅ **Live on Cloudflare.** `temples.dsquaregee.com` is served by **Cloudflare Workers Static Assets** (Git-connected Workers Builds, no deploy secrets) with **media/audio on Cloudflare R2** (`media`/`audio.dsquaregee.com`, $0 egress) — verified end-to-end (single-valued cache headers, CSP/HSTS, R2 media HIT). **No Google in the serving path.** History: project migrated off the Google-locked `temple-502523` → `temples2` (`infra/migrate-project.mjs`; Firestore `temples2` db in `asia-south1`; all media regenerated — audio 101×6, heroes 92, AVIF/WebP/OG, narrated video 78×6), served from temples2.web.app, then **hosting moved to Cloudflare** and the domain cut over. Firebase Hosting deploy (`deploy.yml`) retired. **Off-Google backup**: weekly GCS→R2 mirror (`backup-media-r2.yml` → `temples2-media-backup`/`temples2-audio-backup`). **Firebase Hosting decommission (final step):** disable the stale `temples2.web.app` via `firebase-hosting-disable.yml`, and remove the `temples.dsquaregee.com` custom domain in the Firebase Console — the connected domain is what produces the `Google-Firebase` user-agent probe traffic (and a slice of 404s) in Cloudflare analytics; Console removal is the only way to stop it. Runbooks: **docs/deploy-cloudflare-pages.md**, **docs/migrate-project.md**. |
 
 ## Locked decisions (owner-approved at gates)
@@ -132,8 +132,10 @@ Karthigai, Kiruthigai) restored over Sanskrit forms (kn); wrong goddess/place/de
 ("unhurried"→"without delay", "healing"→"diagnosis", "heavenly voice"→"radio",
 "builders"→"teachers", Karaikkal Ammaiyar climbed Kailash on her hands not head); garbled
 non-words and leaked foreign-script letters (Devanagari/Malayalam) repaired. Details:
-`docs/research/paadal-petra-sthalams.md`. A final human native-speaker sign-off is still
-nominally the gate, but the AI drafts are now reviewed and clean. The Vada Nadu member
+`docs/research/paadal-petra-sthalams.md`. **The translation gate was signed off by the
+owner on 2026-10-26**, accepting this comprehensive AI review as sufficient for release
+(an optional native-speaker linguistic pass may still be done post-launch as a quality
+enhancement, but is no longer a release gate). The Vada Nadu member
 `kedarnath` is shared with the Jyotirlingas circuit.
 
 ## Narration audio

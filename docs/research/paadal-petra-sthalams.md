@@ -302,9 +302,11 @@ Two layers beyond the mechanical `qa-translations.mjs` (which is 0/0):
      `saaraparameswarar` കുടവാസൽ↔കൂടവാസൽ, ml `uthvedeeswarar` plural, ml `jalanatheeswarar`
      chillu encoding.
 
-   The sample shows the AI drafts are substantively sound. A **full human native-speaker
-   pass over all Wave-C prose remains the recommended sign-off** — it is a human gate, not an
-   effort gap (rewriting validated prose without a native speaker risks regressions).
+   The sample shows the AI drafts are substantively sound. **Owner sign-off (2026-10-26):**
+   the owner reviewed this and accepted the comprehensive AI translation review as sufficient
+   for release — the translation gate is closed. An optional full native-speaker linguistic
+   pass may still be done post-launch as a quality enhancement (rewriting validated prose
+   without a native speaker risks regressions), but it is no longer a release gate.
 3. **Section-prose fluency review (2026-10-26)** — the same native-fluent method extended from
    name/deity/summary to the **five long-form section fields**
    (history/architecture/legends/festivals/experience) for **all 237 Wave-C temples × 5
