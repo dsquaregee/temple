@@ -1,0 +1,53 @@
+name: Production smoke test
+
+# Post-deploy health check against the LIVE Cloudflare site + R2 media.
+# Manual (workflow_dispatch) so it runs after a Cloudflare Workers Build has
+# had time to publish — the build is Git-connected and async, so running on
+# push would race it. GitHub runners have open internet, so this verifies the
+# real production surface that a sandboxed dev container cannot reach.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    name: Fetch live site + media
+    runs-on: ubuntu-latest
+    steps:
+      - name: Home page serves (200)
+        run: |
+          code=$(curl -sS -o /dev/null -w '%{http_code}' https://temples.dsquaregee.com/en/)
+          echo "home: HTTP $code"
+          test "$code" = "200"
+
+      - name: Temple page reflects current layout
+        run: |
+          page=$(curl -sS https://temples.dsquaregee.com/en/temples/brihadeeswarar/)
+          code=$(curl -sS -o /dev/null -w '%{http_code}' https://temples.dsquaregee.com/en/temples/brihadeeswarar/)
+          echo "temple page: HTTP $code"
+          test "$code" = "200"
+          # Planning section present…
+          echo "$page" | grep -q "Planning your darshan" \
+            && echo "✓ Planning section present" || { echo "✗ Planning missing"; exit 1; }
+          # …Support callout removed (this session's change)…
+          if echo "$page" | grep -q "Support this temple"; then
+            echo "✗ 'Support this temple' still present — layout change not yet deployed"; exit 1
+          else echo "✓ Support callout removed"; fi
+          # …and Planning appears above History (byte offset).
+          plan=$(echo "$page" | grep -bo "Planning your darshan" | head -1 | cut -d: -f1)
+          hist=$(echo "$page" | grep -bo ">History<" | head -1 | cut -d: -f1)
+          echo "offsets: planning=$plan history=$hist"
+          test -n "$plan" && test -n "$hist" && test "$plan" -lt "$hist" \
+            && echo "✓ Planning renders above History" || { echo "✗ order wrong"; exit 1; }
+
+      - name: R2 media serves (audio + hero, 200)
+        run: |
+          for url in \
+            https://audio.dsquaregee.com/audio/en/v4/brihadeeswarar.mp3 \
+            https://media.dsquaregee.com/heroes/brihadeeswarar.jpg; do
+            code=$(curl -sS -o /dev/null -w '%{http_code}' "$url")
+            echo "$url -> HTTP $code"
+            test "$code" = "200"
+          done
