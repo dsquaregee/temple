@@ -2,6 +2,7 @@ import { t, type Locale } from '@temple/core';
 import { LangSwitch } from './LangSwitch';
 import { TabBar } from './TabBar';
 import { SiteFooter } from './SiteFooter';
+import { InstallPrompt } from './InstallPrompt';
 
 type Tab = 'home' | 'discover' | 'yatra' | 'listen';
 
@@ -32,6 +33,7 @@ export function PageChrome({
         <SiteFooter locale={locale} />
       </div>
       <TabBar locale={locale} active={active} />
+      <InstallPrompt locale={locale} />
     </>
   );
 }

@@ -78,6 +78,13 @@ export interface UiStrings {
   };
   footer: { follow: string };
   music: { heading: string; cta: string };
+  install: {
+    title: string;
+    body: string;
+    action: string;
+    dismiss: string;
+    iosHint: string;
+  };
 }
 
 export const strings: Record<Locale, UiStrings> = {
@@ -155,6 +162,13 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'Follow' },
     music: { heading: 'Carnatic music', cta: 'Listen on YouTube' },
+    install: {
+      title: 'Install the app',
+      body: 'Add Temple to your home screen — free, works offline, no account.',
+      action: 'Install',
+      dismiss: 'Not now',
+      iosHint: 'Tap the Share icon, then “Add to Home Screen”.',
+    },
   },
   ta: {
     appName: 'கோயில்',
@@ -230,6 +244,13 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'பின்தொடருங்கள்' },
     music: { heading: 'கர்நாடக இசை', cta: 'YouTube-இல் கேளுங்கள்' },
+    install: {
+      title: 'செயலியை நிறுவுங்கள்',
+      body: 'கோயில் செயலியை உங்கள் முகப்புத் திரையில் சேர்க்கவும் — இலவசம், இணையம் இல்லாமலும் இயங்கும்.',
+      action: 'நிறுவு',
+      dismiss: 'இப்போது வேண்டாம்',
+      iosHint: 'பகிர் ஐகானைத் தட்டி, “முகப்புத் திரையில் சேர்” என்பதைத் தேர்ந்தெடுக்கவும்.',
+    },
   },
   te: {
     appName: 'ఆలయం',
@@ -305,6 +326,13 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'అనుసరించండి' },
     music: { heading: 'కర్ణాటక సంగీతం', cta: 'YouTubeలో వినండి' },
+    install: {
+      title: 'యాప్‌ను ఇన్‌స్టాల్ చేయండి',
+      body: 'ఆలయం యాప్‌ను మీ హోమ్ స్క్రీన్‌కు జోడించండి — ఉచితం, ఆఫ్‌లైన్‌లోనూ పనిచేస్తుంది.',
+      action: 'ఇన్‌స్టాల్ చేయి',
+      dismiss: 'ఇప్పుడు వద్దు',
+      iosHint: 'షేర్ చిహ్నాన్ని నొక్కి, “హోమ్ స్క్రీన్‌కు జోడించు” ఎంచుకోండి.',
+    },
   },
   kn: {
     appName: 'ದೇವಾಲಯ',
@@ -380,6 +408,13 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'ಅನುಸರಿಸಿ' },
     music: { heading: 'ಕರ್ನಾಟಕ ಸಂಗೀತ', cta: 'YouTube ನಲ್ಲಿ ಆಲಿಸಿ' },
+    install: {
+      title: 'ಆ್ಯಪ್ ಸ್ಥಾಪಿಸಿ',
+      body: 'ದೇವಾಲಯ ಆ್ಯಪ್ ಅನ್ನು ನಿಮ್ಮ ಮುಖಪುಟಕ್ಕೆ ಸೇರಿಸಿ — ಉಚಿತ, ಆಫ್‌ಲೈನ್‌ನಲ್ಲೂ ಕೆಲಸ ಮಾಡುತ್ತದೆ.',
+      action: 'ಸ್ಥಾಪಿಸಿ',
+      dismiss: 'ಈಗ ಬೇಡ',
+      iosHint: 'ಹಂಚಿಕೆ ಐಕಾನ್ ಒತ್ತಿ, “ಮುಖಪುಟಕ್ಕೆ ಸೇರಿಸಿ” ಆಯ್ಕೆಮಾಡಿ.',
+    },
   },
   ml: {
     appName: 'ക്ഷേത്രം',
@@ -455,6 +490,13 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'പിന്തുടരൂ' },
     music: { heading: 'കർണാടക സംഗീതം', cta: 'YouTube-ൽ കേൾക്കൂ' },
+    install: {
+      title: 'ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യൂ',
+      body: 'ക്ഷേത്രം ആപ്പ് നിങ്ങളുടെ ഹോം സ്ക്രീനിൽ ചേർക്കൂ — സൗജന്യം, ഓഫ്‌ലൈനിലും പ്രവർത്തിക്കും.',
+      action: 'ഇൻസ്റ്റാൾ ചെയ്യൂ',
+      dismiss: 'ഇപ്പോൾ വേണ്ട',
+      iosHint: 'ഷെയർ ഐക്കൺ അമർത്തി, “ഹോം സ്ക്രീനിൽ ചേർക്കുക” തിരഞ്ഞെടുക്കൂ.',
+    },
   },
   hi: {
     appName: 'मंदिर',
@@ -530,6 +572,13 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'फ़ॉलो करें' },
     music: { heading: 'कर्नाटक संगीत', cta: 'YouTube पर सुनें' },
+    install: {
+      title: 'ऐप इंस्टॉल करें',
+      body: 'मंदिर ऐप को अपनी होम स्क्रीन पर जोड़ें — निःशुल्क, ऑफ़लाइन भी चलता है।',
+      action: 'इंस्टॉल करें',
+      dismiss: 'अभी नहीं',
+      iosHint: 'शेयर आइकन दबाएँ, फिर “होम स्क्रीन पर जोड़ें” चुनें।',
+    },
   },
 };
 

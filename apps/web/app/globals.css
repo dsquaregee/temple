@@ -149,6 +149,68 @@ a {
   line-height: 1;
 }
 
+/* Install (PWA) banner ------------------------------------------------ */
+.installbar {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: calc(var(--touch) + env(safe-area-inset-bottom) + 10px);
+  z-index: 11;
+  width: calc(100% - 24px);
+  max-width: calc(var(--maxw) - 16px);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--accent-vermilion);
+  border-radius: var(--radius-card);
+  box-shadow: 0 6px 24px rgba(43, 33, 24, 0.18);
+}
+.installbar__text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+  flex: 1;
+}
+.installbar__title {
+  font-size: 14px;
+  color: var(--ink-strong);
+}
+.installbar__body {
+  font-size: 12.5px;
+  color: var(--ink-muted);
+  line-height: 1.35;
+}
+.installbar__actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+.installbar__cta {
+  min-height: 40px;
+  padding: 0 16px;
+  border: none;
+  border-radius: var(--radius-pill);
+  background: var(--accent-vermilion);
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
+.installbar__dismiss {
+  min-height: 40px;
+  padding: 0 10px;
+  border: none;
+  background: transparent;
+  color: var(--ink-muted);
+  font-size: 13px;
+  cursor: pointer;
+}
+
 /* Site footer (social) ------------------------------------------------ */
 .sitefooter {
   margin-top: 40px;
