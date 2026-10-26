@@ -41,8 +41,11 @@ conversation. Last updated: 2026-10-26.
      Tamil month/star names restored over Sanskrit (kn); wrong goddess/place/demon names and
      opposite-meaning mistranslations fixed; garbled/leaked-script words repaired. **Every
      Wave-C field in every language is now AI-reviewed and clean.** `qa-translations.mjs`
-     stays 0/0 at 100%. A human native-speaker sign-off remains the nominal final gate (not
-     an effort gap). See the Translation QA pass in `docs/research/paadal-petra-sthalams.md`.
+     stays 0/0 at 100%. **The translation gate was signed off by the owner on 2026-10-26**,
+     accepting the comprehensive AI review as sufficient for release (an optional
+     native-speaker linguistic pass may still be done post-launch as a quality enhancement,
+     but is no longer a release gate). See the Translation QA pass in
+     `docs/research/paadal-petra-sthalams.md`.
   2. **Coordinates — verified 2026-10-20.** The 36 flagged temples were re-checked; 10 were
      upgraded to precise sourced values, the other 26 have no precise temple coordinate
      published anywhere and remain honest town/village-level (adequate at circuit-map scale;
