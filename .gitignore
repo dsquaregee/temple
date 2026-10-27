@@ -14,6 +14,7 @@ build/
 packages/content/src/generated.ts
 apps/web/public/search/
 apps/web/public/offline/
+apps/web/public/geo/
 .media-tmp/
 .lighthouseci/
 # Store submission credentials for `eas submit` — never commit

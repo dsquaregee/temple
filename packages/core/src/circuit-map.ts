@@ -213,8 +213,15 @@ function niceKm(target: number): number {
   return steps.reduce((best, s) => (Math.abs(s - target) < Math.abs(best - target) ? s : best), 1);
 }
 
+// A geographic point. Matches the lat/lng shape used across the content schema
+// and the browser Geolocation API's `coords`.
+export interface LatLng {
+  lat: number;
+  lng: number;
+}
+
 // Great-circle distance in km.
-export function haversineKm(a: { lat: number; lng: number }, b: { lat: number; lng: number }): number {
+export function haversineKm(a: LatLng, b: LatLng): number {
   const rad = Math.PI / 180;
   const dLat = (b.lat - a.lat) * rad;
   const dLng = (b.lng - a.lng) * rad;

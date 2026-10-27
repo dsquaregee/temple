@@ -7,10 +7,11 @@
     "content:validate": "node packages/content/scripts/validate.mjs",
     "content:qa": "node packages/content/scripts/qa-translations.mjs",
     "content:search-index": "node packages/content/scripts/gen-search-index.mjs",
+    "content:coords": "node packages/content/scripts/gen-coords.mjs",
     "test": "node --test \"packages/**/test/*.test.ts\" \"apps/**/test/*.test.ts\"",
     "budget": "node apps/web/scripts/check-budget.mjs",
     "offline:manifests": "node apps/web/scripts/gen-offline-manifests.mjs",
-    "build:web": "pnpm content:generate && pnpm content:search-index && pnpm offline:manifests && pnpm --filter @temple/web build",
-    "dev:web": "pnpm content:generate && pnpm content:search-index && pnpm --filter @temple/web dev"
+    "build:web": "pnpm content:generate && pnpm content:search-index && pnpm content:coords && pnpm offline:manifests && pnpm --filter @temple/web build",
+    "dev:web": "pnpm content:generate && pnpm content:search-index && pnpm content:coords && pnpm --filter @temple/web dev"
   }
 }

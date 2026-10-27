@@ -6,9 +6,11 @@ import {
   SORTS,
   filterTemples,
   sortTemples,
+  haversineKm,
   t,
   type Circuit,
   type Era,
+  type LatLng,
   type Locale,
   type SortKey,
   type TempleCardData,
@@ -144,6 +146,54 @@ export function DiscoverExplorer({
   const [savedOnly, setSavedOnly] = useState(false);
   const [sort, setSort] = useState<SortKey>('featured');
 
+  // "Near me": once the visitor grants location, rank the catalogue by
+  // great-circle distance. Coordinates are locale-independent and fetched once
+  // (/geo/coords.json); the device location never leaves the browser.
+  const [coords, setCoords] = useState<Readonly<Record<string, [number, number]>> | null>(null);
+  const coordsRequested = useRef(false);
+  const loadCoords = useCallback(() => {
+    if (coordsRequested.current) return;
+    coordsRequested.current = true;
+    fetch('/geo/coords.json')
+      .then((r) => (r.ok ? (r.json() as Promise<Record<string, [number, number]>>) : null))
+      .then((data) => {
+        if (data) setCoords(data);
+        else coordsRequested.current = false;
+      })
+      .catch(() => {
+        coordsRequested.current = false;
+      });
+  }, []);
+  const [userLoc, setUserLoc] = useState<LatLng | null>(null);
+  const [nearby, setNearby] = useState(false);
+  const [geoStatus, setGeoStatus] = useState<'idle' | 'locating' | 'error'>('idle');
+
+  const locate = useCallback(() => {
+    if (nearby) {
+      setNearby(false);
+      return;
+    }
+    if (typeof navigator === 'undefined' || !('geolocation' in navigator)) {
+      setGeoStatus('error');
+      return;
+    }
+    setGeoStatus('locating');
+    loadCoords();
+    loadCatalog();
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        setUserLoc({ lat: pos.coords.latitude, lng: pos.coords.longitude });
+        setNearby(true);
+        setGeoStatus('idle');
+      },
+      () => {
+        setGeoStatus('error');
+        setNearby(false);
+      },
+      { enableHighAccuracy: false, timeout: 10000, maximumAge: 300000 },
+    );
+  }, [nearby, loadCoords, loadCatalog]);
+
   const { ids: savedIds, ready: favReady } = useFavorites();
 
   const filtersActive =
@@ -153,6 +203,7 @@ export function DiscoverExplorer({
     era !== 'all' ||
     unescoOnly ||
     savedOnly ||
+    nearby ||
     sort !== 'featured';
 
   // Any active filter or sort spans the whole catalogue (once loaded); with no
@@ -160,25 +211,56 @@ export function DiscoverExplorer({
   useEffect(() => {
     if (filtersActive) loadCatalog();
   }, [filtersActive, loadCatalog]);
+  // "Near me" also needs the catalogue (to rank every temple) and the coords.
+  useEffect(() => {
+    if (nearby) loadCoords();
+  }, [nearby, loadCoords]);
   const base = filtersActive && catalog ? catalog : initial;
-  const loading = filtersActive && !catalog;
+  const loading = (filtersActive && !catalog) || geoStatus === 'locating' || (nearby && !coords);
 
-  const results = useMemo(
+  const filtered = useMemo(
     () =>
-      sortTemples(
-        filterTemples(base, {
-          query,
-          circuit,
-          region,
-          era,
-          unescoOnly,
-          savedIds: savedOnly ? savedIds : null,
-          searchIndex,
-        }),
-        sort,
-        locale,
-      ),
-    [base, query, circuit, region, era, unescoOnly, savedOnly, savedIds, sort, locale, searchIndex],
+      filterTemples(base, {
+        query,
+        circuit,
+        region,
+        era,
+        unescoOnly,
+        savedIds: savedOnly ? savedIds : null,
+        searchIndex,
+      }),
+    [base, query, circuit, region, era, unescoOnly, savedOnly, savedIds, searchIndex],
+  );
+
+  const nearbyReady = nearby && userLoc !== null && coords !== null;
+
+  // Distance (km) from the device to each filtered temple, when "Near me" is on.
+  const distById = useMemo(() => {
+    if (!nearbyReady) return null;
+    const m: Record<string, number> = {};
+    for (const tp of filtered) {
+      const c = coords![tp.id];
+      if (c) m[tp.id] = haversineKm(userLoc!, { lat: c[0], lng: c[1] });
+    }
+    return m;
+  }, [nearbyReady, filtered, coords, userLoc]);
+
+  const results = useMemo(() => {
+    if (distById) {
+      return filtered
+        .filter((tp) => distById[tp.id] !== undefined)
+        .sort((a, b) => distById[a.id]! - distById[b.id]!);
+    }
+    return sortTemples(filtered, sort, locale);
+  }, [filtered, distById, sort, locale]);
+
+  const nf = useMemo(() => new Intl.NumberFormat(locale), [locale]);
+  const fmtKm = useCallback(
+    (km: number) => {
+      const v = km < 10 ? Math.round(km * 10) / 10 : Math.round(km);
+      return `${nf.format(v)} km ${d.away}`;
+    },
+    [nf, d.away],
   );
 
   function reset() {
@@ -189,6 +271,8 @@ export function DiscoverExplorer({
     setUnescoOnly(false);
     setSavedOnly(false);
     setSort('featured');
+    setNearby(false);
+    setGeoStatus('idle');
   }
 
   return (
@@ -259,6 +343,9 @@ export function DiscoverExplorer({
       </Facet>
 
       <div className="filterbar">
+        <FilterChip active={nearby} onClick={locate}>
+          📍 {d.nearMe}
+        </FilterChip>
         <FilterChip active={unescoOnly} onClick={() => setUnescoOnly((v) => !v)}>
           {d.unescoOnly}
         </FilterChip>
@@ -269,7 +356,10 @@ export function DiscoverExplorer({
         )}
         <span className="results-count" aria-live="polite">
           {filtersActive ? results.length : total} {d.results}
-          {loading && <span className="muted"> · {d.loading}</span>}
+          {loading && (
+            <span className="muted"> · {geoStatus === 'locating' ? d.locating : d.loading}</span>
+          )}
+          {geoStatus === 'error' && <span className="muted"> · {d.locationError}</span>}
         </span>
         {filtersActive && (
           <button type="button" className="clearbtn" onClick={reset}>
@@ -281,7 +371,12 @@ export function DiscoverExplorer({
       {results.length > 0 ? (
         <div className="grid">
           {results.map((tp) => (
-            <SavableTempleCard key={tp.id} locale={locale} temple={tp} />
+            <SavableTempleCard
+              key={tp.id}
+              locale={locale}
+              temple={tp}
+              badge={distById && distById[tp.id] !== undefined ? fmtKm(distById[tp.id]!) : undefined}
+            />
           ))}
         </div>
       ) : (
