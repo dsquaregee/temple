@@ -6,7 +6,7 @@ District/State: Kolhapur, Maharashtra. Tradition: Shaktism. Old name: Karaveera 
 - Goddess + Bhairava: Mahalakshmi, locally **Ambabai**. In the Peetha Nirnaya Tantra tradition quoted by
   greenmesg.org the Devi at Karavira is named *Mahishamardini* and the Bhairava *Krodhisa* (Krodhisha);
   used "Krodhisha" in the content. (Ashtadasha Shakti Peetha Stotram, attributed to Adi Shankaracharya:
-  "Kolhapure Mahalakshmi", the sixth/fifth-listed seat depending on the verse numbering; greenmesg cites verse 5.)
+  "Kolhapure Mahalakshmi"; greenmesg cites it as verse 5.)
 - Sati body-part tradition: **the (three) eyes** of Sati fell here (Wikipedia, "Three and a half Shakta pithas":
   "3 eyes"; daanyam.in: "eyes"). Content says "eyes" (no "three") as the safe common denominator.
 - Coordinates: **16.699, 74.222** (city-centre/old-city precision). Sources disagree: Wikipedia infobox
@@ -44,7 +44,7 @@ District/State: Kolhapur, Maharashtra. Tradition: Shaktism. Old name: Karaveera 
   Shilahara/Yadava involvement; Shesha/Sri Yantra associations; the identities of the three sanctums
   (commonly Mahalakshmi/Mahakali/Mahasaraswati -- not confirmed in searches, so not named in prose);
   sanctum orientation; official timings; official photography rule (only "generally restricted in sanctum"
-  from one source); Tripurari Purnima; whether the Stotram verse numbering is 5th or 6th; body-part count
+  from one source); Tripurari Purnima; body-part count
   ("three eyes" vs "eyes"). WebFetch was blocked; all facts are from search-result summaries.
 
 Sources:
