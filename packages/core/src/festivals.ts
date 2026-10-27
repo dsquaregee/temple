@@ -138,19 +138,24 @@ export function detectFestivals(enFestivalProse: string | undefined): string[] {
 // have no fixed Gregorian date and can vary by ±1 day with location, so these
 // are the India observance and MUST be refreshed periodically — when a festival
 // runs out of future dates it simply falls back to month-level display (no
-// fabricated date is ever shown). Verified 2026-10-27; extend from Drik Panchang.
+// fabricated date is ever shown). Verified/extended 2026-10-27 from Drik Panchang
+// (most festivals now carry dates through 2029; the three whose Gregorian date
+// Drik lists ambiguously — vaikunta-ekadashi, arudra-darshan, aadi-pooram — carry
+// only their confirmed dates and fall back to month-level afterwards). The
+// `refresh-festival-dates` routine re-checks these periodically; on refresh,
+// drop dates already in the past and append newly published years.
 export const FESTIVAL_DATES: Record<string, string[]> = {
-  'skanda-shashti': ['2026-11-15', '2027-11-04'],
-  'karthigai-deepam': ['2026-11-24', '2027-12-12'],
+  'skanda-shashti': ['2026-11-15', '2027-11-04', '2028-10-23'],
+  'karthigai-deepam': ['2026-11-24', '2027-12-12', '2028-11-30'],
   'vaikunta-ekadashi': ['2026-12-20'],
   'arudra-darshan': ['2026-12-24'],
-  'thai-poosam': ['2027-01-22', '2028-02-09'],
-  'masi-magam': ['2027-02-20', '2028-03-10'],
-  'maha-shivaratri': ['2027-03-06', '2028-02-23'],
-  'panguni-uthiram': ['2027-03-22'],
+  'thai-poosam': ['2027-01-22', '2028-02-09', '2029-01-29'],
+  'masi-magam': ['2027-02-20', '2028-03-10', '2029-02-28'],
+  'maha-shivaratri': ['2027-03-06', '2028-02-23', '2029-02-11'],
+  'panguni-uthiram': ['2027-03-22', '2028-04-08'],
   'aadi-pooram': ['2027-08-05'],
-  'vinayaka-chaturthi': ['2027-09-04', '2028-08-23'],
-  'navaratri': ['2027-09-30', '2028-09-19'],
+  'vinayaka-chaturthi': ['2027-09-04', '2028-08-23', '2029-09-11'],
+  'navaratri': ['2027-09-30', '2028-09-19', '2029-10-08'],
 };
 
 /** A Date as a local-time YYYY-MM-DD string. */
