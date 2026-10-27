@@ -13,6 +13,7 @@ build/
 .DS_Store
 packages/content/src/generated.ts
 apps/web/public/search/
+apps/web/public/offline/
 .media-tmp/
 .lighthouseci/
 # Store submission credentials for `eas submit` — never commit

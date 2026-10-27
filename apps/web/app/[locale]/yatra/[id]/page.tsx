@@ -8,6 +8,7 @@ import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
 import { CircuitMap } from '@/components/CircuitMap';
 import { resolveGroups, StopCards } from '@/components/CircuitStops';
+import { OfflineButton } from '@/components/OfflineButton';
 
 export const dynamicParams = false;
 
@@ -114,6 +115,14 @@ export default function CircuitDetail({
           {stops.length} {ui.labels.stops}
         </span>
         <span className="chip">{circuit.theme}</span>
+      </div>
+
+      <div className="actions">
+        <OfflineButton
+          locale={locale}
+          downloadKey={`circuit:${circuit.id}`}
+          manifest={`/offline/${locale}/${circuit.id}.json`}
+        />
       </div>
 
       {groups ? (

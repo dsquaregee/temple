@@ -18,6 +18,7 @@ import { absUrl, breadcrumbList } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
 import { SaveButton } from '@/components/SaveButton';
+import { OfflineButton } from '@/components/OfflineButton';
 import { SavableTempleCard } from '@/components/SavableTempleCard';
 import { TempleHero } from '@/components/TempleHero';
 import { AudioStory } from '@/components/AudioStory';
@@ -212,6 +213,15 @@ export default function TempleDetail({
 
       <div className="actions">
         <SaveButton locale={locale} id={temple.id} />
+        <OfflineButton
+          locale={locale}
+          downloadKey={`temple:${temple.id}`}
+          resources={[
+            `/${locale}/temples/${temple.id}/`,
+            ...(temple.audio?.storyUrl ? [temple.audio.storyUrl] : []),
+            ...(temple.hero?.src ? [temple.hero.src] : []),
+          ]}
+        />
       </div>
 
       <div className="orient">
