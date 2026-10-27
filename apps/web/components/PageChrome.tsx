@@ -4,7 +4,7 @@ import { TabBar } from './TabBar';
 import { SiteFooter } from './SiteFooter';
 import { InstallPrompt } from './InstallPrompt';
 
-type Tab = 'home' | 'discover' | 'yatra' | 'listen';
+type Tab = 'home' | 'discover' | 'yatra' | 'festivals' | 'listen';
 
 // Shared per-page frame: top bar (brand + language switch) and the bottom
 // tab bar. `pathSuffix` lets the language switch preserve the current content.
