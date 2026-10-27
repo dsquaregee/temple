@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/harsiddhi-ujjain.mp3",
     "durationSec": 250
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/harsiddhi-ujjain.jpg",
+    "color": "#5C3A2E",
+    "alt": "हरसिद्धि माता मंदिर, उज्जैन",
+    "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0) · Priyank.bh / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/harsiddhi-ujjain.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/harsiddhi-ujjain.jpg",
+    "durationSec": 224,
+    "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0) · Priyank.bh / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

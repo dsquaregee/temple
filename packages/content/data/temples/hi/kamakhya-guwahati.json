@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/hi/kamakhya-guwahati.mp3",
     "durationSec": 269
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kamakhya-guwahati.jpg",
+    "color": "#5C3A2E",
+    "alt": "कामाख्या मंदिर, गुवाहाटी",
+    "credit": "Deeporaj / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/hi/kamakhya-guwahati.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kamakhya-guwahati.jpg",
+    "durationSec": 250,
+    "credit": "Deeporaj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

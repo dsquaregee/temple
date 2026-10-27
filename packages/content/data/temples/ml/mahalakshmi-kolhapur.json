@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ml/mahalakshmi-kolhapur.mp3",
     "durationSec": 309
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahalakshmi-kolhapur.jpg",
+    "color": "#5C3A2E",
+    "alt": "മഹാലക്ഷ്മി ക്ഷേത്രം, കോലാപ്പൂർ (അംബാബായി)",
+    "credit": "आर्या जोशी / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -36,5 +36,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/ta/mahalakshmi-kolhapur.mp3",
     "durationSec": 311
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahalakshmi-kolhapur.jpg",
+    "color": "#5C3A2E",
+    "alt": "மகாலட்சுமி கோயில், கோலாப்பூர் (அம்பாபாய்)",
+    "credit": "आर्या जोशी / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

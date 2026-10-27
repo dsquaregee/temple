@@ -36,5 +36,17 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/kn/biraja-jajpur.mp3",
     "durationSec": 260
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/biraja-jajpur.jpg",
+    "color": "#5C3A2E",
+    "alt": "ಬಿರಜಾ ದೇವಾಲಯ, ಜಾಜ್‌ಪುರ",
+    "credit": "Pratap555 / Wikimedia Commons (CC BY-SA 4.0) · Krupasindhu Muduli / Wikimedia Commons (CC BY-SA 3.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/kn/biraja-jajpur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/biraja-jajpur.jpg",
+    "durationSec": 276,
+    "credit": "Pratap555 / Wikimedia Commons (CC BY-SA 4.0) · Krupasindhu Muduli / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }
