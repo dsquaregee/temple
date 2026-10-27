@@ -27,7 +27,10 @@
 // Discover search index now includes festival names — purge so returning
 // visitors get the new tab/pages and the updated /search/<locale>.json instead
 // of the stale-while-revalidate cached copies.
-const VERSION = 'v19';
+// v20: "Festivals this month" strip added to Home and the Festivals tab —
+// purge so returning visitors get the new home/festivals pages rather than the
+// stale-while-revalidate cached copies.
+const VERSION = 'v20';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];

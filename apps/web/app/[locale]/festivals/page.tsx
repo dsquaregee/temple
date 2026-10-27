@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
-import { t, type Locale } from '@temple/core';
+import { currentTamilMonthKey, t, type Locale } from '@temple/core';
 import { getFestivalCalendar } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { absUrl, breadcrumbList, collectionPage } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
+import { FestivalsNow } from '@/components/FestivalsNow';
 
 export const dynamicParams = false;
 
@@ -63,6 +64,21 @@ export default function FestivalCalendar({
       <section className="section">
         <p className="lead">{ui.festivals.intro}</p>
       </section>
+
+      <FestivalsNow
+        locale={locale}
+        months={calendar.map((m) => ({
+          key: m.month.key,
+          name: m.month.name,
+          gregorian: m.month.gregorian,
+          festivals: m.festivals.map((f) => ({
+            key: f.festival.key,
+            name: f.festival.name,
+            count: f.temples.length,
+          })),
+        }))}
+        initialMonthKey={currentTamilMonthKey(new Date())}
+      />
 
       {calendar.map((m) => (
         <section className="section" key={m.month.key} aria-label={m.month.name}>

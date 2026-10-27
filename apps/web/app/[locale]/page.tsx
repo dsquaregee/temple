@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
-import { epochDay, indexOfDay, t, type Locale } from '@temple/core';
-import { getCircuits, getTemples } from '@temple/content';
+import { currentTamilMonthKey, epochDay, indexOfDay, t, type Locale } from '@temple/core';
+import { getCircuits, getFestivalCalendar, getTemples } from '@temple/content';
+import { FestivalsNow } from '@/components/FestivalsNow';
 import { LOCALES } from '@/lib/locales';
 import { SITE_URL, SOCIAL } from '@/lib/site';
 import { absUrl } from '@/lib/jsonld';
@@ -44,6 +45,17 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
   const ui = t(locale);
   const temples = getTemples(locale);
   const circuits = getCircuits(locale);
+  // Compact festival-by-month summary for the "what's on now" strip.
+  const festivalMonths = getFestivalCalendar(locale).map((m) => ({
+    key: m.month.key,
+    name: m.month.name,
+    gregorian: m.month.gregorian,
+    festivals: m.festivals.map((f) => ({
+      key: f.festival.key,
+      name: f.festival.name,
+      count: f.temples.length,
+    })),
+  }));
   // Home shelf: the editorial launch core (see CLAUDE.md), in catalog order.
   const shelf = temples.filter((tp) => LAUNCH_CORE.has(tp.id));
 
@@ -104,9 +116,12 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
         initialIndex={initialIndex}
       />
 
-      <section className="section" aria-labelledby="festivals-h">
-        <h2 id="festivals-h">{ui.festivals.title}</h2>
-        <p className="lead">{ui.festivals.intro}</p>
+      <FestivalsNow
+        locale={locale}
+        months={festivalMonths}
+        initialMonthKey={currentTamilMonthKey(new Date())}
+      />
+      <section className="section">
         <a className="browse-all" href={`/${locale}/festivals/`}>
           {ui.festivals.title} →
         </a>
