@@ -1,5 +1,13 @@
 import type { Metadata } from 'next';
-import { currentTamilMonthKey, epochDay, indexOfDay, t, type Locale } from '@temple/core';
+import {
+  currentTamilMonthKey,
+  epochDay,
+  formatFestivalDate,
+  indexOfDay,
+  nextFestivalDate,
+  t,
+  type Locale,
+} from '@temple/core';
 import { getCircuits, getFestivalCalendar, getTemples } from '@temple/content';
 import { FestivalsNow } from '@/components/FestivalsNow';
 import { LOCALES } from '@/lib/locales';
@@ -50,11 +58,15 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
     key: m.month.key,
     name: m.month.name,
     gregorian: m.month.gregorian,
-    festivals: m.festivals.map((f) => ({
-      key: f.festival.key,
-      name: f.festival.name,
-      count: f.temples.length,
-    })),
+    festivals: m.festivals.map((f) => {
+      const d = nextFestivalDate(f.festival.key, new Date());
+      return {
+        key: f.festival.key,
+        name: f.festival.name,
+        count: f.temples.length,
+        ...(d ? { date: formatFestivalDate(d) } : {}),
+      };
+    }),
   }));
   // Home shelf: the editorial launch core (see CLAUDE.md), in catalog order.
   const shelf = temples.filter((tp) => LAUNCH_CORE.has(tp.id));

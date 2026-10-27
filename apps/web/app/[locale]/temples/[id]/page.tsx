@@ -1,10 +1,17 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { t, type Locale } from '@temple/core';
+import {
+  FESTIVAL_BY_KEY,
+  MONTH_BY_KEY,
+  nextFestivalDate,
+  t,
+  type Locale,
+} from '@temple/core';
 import {
   getCircuit,
   getTemple,
   getTemples,
+  festivalKeysForTemple,
 } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { absUrl, breadcrumbList } from '@/lib/jsonld';
@@ -131,6 +138,44 @@ export default function TempleDetail({
     })),
   };
 
+  // Event rich-result data: festivals this temple celebrates that have a known
+  // upcoming date (India observance, Drik Panchang). Each becomes a dated Event
+  // at the temple — "Maha Shivaratri at <Temple>, 6 Mar 2027". Festivals with no
+  // upcoming date are omitted (never faked).
+  const eventNodes = festivalKeysForTemple(temple.id)
+    .map((key) => {
+      const festival = FESTIVAL_BY_KEY[key];
+      const date = festival ? nextFestivalDate(key) : undefined;
+      if (!festival || !date) return null;
+      const month = MONTH_BY_KEY[festival.month];
+      return {
+        '@type': 'Event',
+        name: `${festival.name} at ${temple.name}`,
+        startDate: date,
+        eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+        eventStatus: 'https://schema.org/EventScheduled',
+        location: {
+          '@type': 'Place',
+          name: temple.name,
+          address: {
+            '@type': 'PostalAddress',
+            addressLocality: temple.location.city,
+            addressRegion: temple.location.state,
+            addressCountry: 'IN',
+          },
+        },
+        ...(temple.hero?.src ? { image: temple.hero.src } : {}),
+        url: absUrl(`${locale}/festivals/${festival.key}/`),
+        description: `${festival.name}${month ? ` (${month.name})` : ''} at ${temple.name}, ${temple.location.city}.`,
+        isAccessibleForFree: true,
+      };
+    })
+    .filter((e): e is NonNullable<typeof e> => Boolean(e));
+  const eventsJsonLd =
+    eventNodes.length > 0
+      ? { '@context': 'https://schema.org', '@graph': eventNodes }
+      : null;
+
   const sections: { key: keyof typeof ui.sections; body: string }[] = [
     { key: 'history', body: temple.sections.history },
     { key: 'architecture', body: temple.sections.architecture },
@@ -155,6 +200,7 @@ export default function TempleDetail({
       <JsonLd data={jsonLd} />
       <JsonLd data={breadcrumbs} />
       <JsonLd data={faqJsonLd} />
+      {eventsJsonLd && <JsonLd data={eventsJsonLd} />}
 
       <TempleHero
         temple={temple}

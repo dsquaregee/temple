@@ -132,3 +132,49 @@ export function detectFestivals(enFestivalProse: string | undefined): string[] {
     (f) => f.key
   );
 }
+
+// Observance dates (India / Tamil calendar) sourced from Drik Panchang
+// (drikpanchang.com), ascending ISO (YYYY-MM-DD). Lunar/solar-lunar festivals
+// have no fixed Gregorian date and can vary by ±1 day with location, so these
+// are the India observance and MUST be refreshed periodically — when a festival
+// runs out of future dates it simply falls back to month-level display (no
+// fabricated date is ever shown). Verified 2026-10-27; extend from Drik Panchang.
+export const FESTIVAL_DATES: Record<string, string[]> = {
+  'skanda-shashti': ['2026-11-15', '2027-11-04'],
+  'karthigai-deepam': ['2026-11-24', '2027-12-12'],
+  'vaikunta-ekadashi': ['2026-12-20'],
+  'arudra-darshan': ['2026-12-24'],
+  'thai-poosam': ['2027-01-22', '2028-02-09'],
+  'masi-magam': ['2027-02-20', '2028-03-10'],
+  'maha-shivaratri': ['2027-03-06', '2028-02-23'],
+  'panguni-uthiram': ['2027-03-22'],
+  'aadi-pooram': ['2027-08-05'],
+  'vinayaka-chaturthi': ['2027-09-04', '2028-08-23'],
+  'navaratri': ['2027-09-30', '2028-09-19'],
+};
+
+/** A Date as a local-time YYYY-MM-DD string. */
+export function toISODate(d: Date): string {
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, '0');
+  const day = String(d.getDate()).padStart(2, '0');
+  return `${y}-${m}-${day}`;
+}
+
+/** The next known observance date (ISO) for a festival on or after `from`. */
+export function nextFestivalDate(key: string, from: Date = new Date()): string | undefined {
+  const iso = toISODate(from);
+  return (FESTIVAL_DATES[key] ?? []).find((d) => d >= iso);
+}
+
+const SHORT_MONTHS = [
+  'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+  'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec',
+];
+
+/** Format an ISO date as "6 Mar 2027" (locale-independent, proper-noun style). */
+export function formatFestivalDate(iso: string): string {
+  const [y, m, d] = iso.split('-').map(Number);
+  if (!y || !m || !d) return iso;
+  return `${d} ${SHORT_MONTHS[m - 1]} ${y}`;
+}

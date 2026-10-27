@@ -1,5 +1,11 @@
 import type { Metadata } from 'next';
-import { currentTamilMonthKey, t, type Locale } from '@temple/core';
+import {
+  currentTamilMonthKey,
+  formatFestivalDate,
+  nextFestivalDate,
+  t,
+  type Locale,
+} from '@temple/core';
 import { getFestivalCalendar } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { absUrl, breadcrumbList, collectionPage } from '@/lib/jsonld';
@@ -71,11 +77,15 @@ export default function FestivalCalendar({
           key: m.month.key,
           name: m.month.name,
           gregorian: m.month.gregorian,
-          festivals: m.festivals.map((f) => ({
-            key: f.festival.key,
-            name: f.festival.name,
-            count: f.temples.length,
-          })),
+          festivals: m.festivals.map((f) => {
+            const d = nextFestivalDate(f.festival.key, new Date());
+            return {
+              key: f.festival.key,
+              name: f.festival.name,
+              count: f.temples.length,
+              ...(d ? { date: formatFestivalDate(d) } : {}),
+            };
+          }),
         }))}
         initialMonthKey={currentTamilMonthKey(new Date())}
       />

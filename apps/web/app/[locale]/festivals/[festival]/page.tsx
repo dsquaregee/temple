@@ -3,6 +3,8 @@ import { notFound } from 'next/navigation';
 import {
   FESTIVAL_BY_KEY,
   MONTH_BY_KEY,
+  formatFestivalDate,
+  nextFestivalDate,
   t,
   type Locale,
 } from '@temple/core';
@@ -60,6 +62,8 @@ export default function FestivalDetail({
   if (!month) notFound();
   const ui = t(locale);
   const temples = getFestivalTemples(locale, festival.key);
+  const upcomingIso = nextFestivalDate(festival.key, new Date());
+  const upcoming = upcomingIso ? formatFestivalDate(upcomingIso) : undefined;
 
   const breadcrumbs = breadcrumbList([
     { name: ui.tabs.home, path: `${locale}/` },
@@ -92,6 +96,7 @@ export default function FestivalDetail({
       </div>
 
       <div className="chips">
+        {upcoming && <span className="chip accent">{ui.festivals.comingUp}: {upcoming}</span>}
         <span className="chip">
           {temples.length} {ui.festivals.temples}
         </span>
