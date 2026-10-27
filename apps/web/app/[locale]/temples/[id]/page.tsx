@@ -115,6 +115,22 @@ export default function TempleDetail({
     { name: temple.name, path: `${locale}/temples/${temple.id}/` },
   ]);
 
+  // FAQPage from existing per-temple data — eligible for Google FAQ rich results
+  // and answers the questions people actually search for a temple.
+  const faqJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      { q: ui.faq.deityQ, a: temple.deity },
+      { q: ui.faq.festivalsQ, a: temple.sections.festivals },
+      { q: ui.faq.reachQ, a: temple.visit.gettingThere },
+    ].map(({ q, a }) => ({
+      '@type': 'Question',
+      name: q.replace('{name}', temple.name),
+      acceptedAnswer: { '@type': 'Answer', text: a },
+    })),
+  };
+
   const sections: { key: keyof typeof ui.sections; body: string }[] = [
     { key: 'history', body: temple.sections.history },
     { key: 'architecture', body: temple.sections.architecture },
@@ -138,6 +154,7 @@ export default function TempleDetail({
     >
       <JsonLd data={jsonLd} />
       <JsonLd data={breadcrumbs} />
+      <JsonLd data={faqJsonLd} />
 
       <TempleHero
         temple={temple}

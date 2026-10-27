@@ -78,6 +78,8 @@ export interface UiStrings {
   };
   footer: { follow: string };
   music: { heading: string; cta: string };
+  festivals: { title: string; intro: string; temples: string };
+  faq: { deityQ: string; festivalsQ: string; reachQ: string };
   install: {
     title: string;
     body: string;
@@ -162,6 +164,17 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'Follow' },
     music: { heading: 'Carnatic music', cta: 'Listen on YouTube' },
+    festivals: {
+      title: 'Festival Calendar',
+      intro:
+        'Major temple festivals through the Tamil year. Tap a festival to see every temple that celebrates it.',
+      temples: 'temples',
+    },
+    faq: {
+      deityQ: 'Which deity is worshipped at {name}?',
+      festivalsQ: 'What are the main festivals at {name}?',
+      reachQ: 'How do I get to {name}?',
+    },
     install: {
       title: 'Install the app',
       body: 'Add Temple to your home screen — free, works offline, no account.',
@@ -244,6 +257,17 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'பின்தொடருங்கள்' },
     music: { heading: 'கர்நாடக இசை', cta: 'YouTube-இல் கேளுங்கள்' },
+    festivals: {
+      title: 'திருவிழா நாட்காட்டி',
+      intro:
+        'தமிழ் ஆண்டு முழுவதும் முக்கியக் கோயில் திருவிழாக்கள். ஒரு திருவிழாவைத் தொட்டு அதைக் கொண்டாடும் அனைத்துக் கோயில்களையும் காணலாம்.',
+      temples: 'கோயில்கள்',
+    },
+    faq: {
+      deityQ: '{name} கோயிலில் வழிபடப்படும் தெய்வம் யார்?',
+      festivalsQ: '{name} கோயிலின் முக்கியத் திருவிழாக்கள் யாவை?',
+      reachQ: '{name} கோயிலை எவ்வாறு அடைவது?',
+    },
     install: {
       title: 'செயலியை நிறுவுங்கள்',
       body: 'கோயில் செயலியை உங்கள் முகப்புத் திரையில் சேர்க்கவும் — இலவசம், இணையம் இல்லாமலும் இயங்கும்.',
@@ -326,6 +350,17 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'అనుసరించండి' },
     music: { heading: 'కర్ణాటక సంగీతం', cta: 'YouTubeలో వినండి' },
+    festivals: {
+      title: 'పండుగల క్యాలెండర్',
+      intro:
+        'తమిళ సంవత్సరం అంతటా ప్రధాన ఆలయ పండుగలు. ఒక పండుగను తాకి దాన్ని జరుపుకునే అన్ని ఆలయాలను చూడండి.',
+      temples: 'ఆలయాలు',
+    },
+    faq: {
+      deityQ: '{name} ఆలయంలో ఆరాధించే దేవత ఎవరు?',
+      festivalsQ: '{name} ఆలయంలో ప్రధాన పండుగలు ఏవి?',
+      reachQ: '{name} ఆలయానికి ఎలా చేరుకోవాలి?',
+    },
     install: {
       title: 'యాప్‌ను ఇన్‌స్టాల్ చేయండి',
       body: 'ఆలయం యాప్‌ను మీ హోమ్ స్క్రీన్‌కు జోడించండి — ఉచితం, ఆఫ్‌లైన్‌లోనూ పనిచేస్తుంది.',
@@ -408,6 +443,17 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'ಅನುಸರಿಸಿ' },
     music: { heading: 'ಕರ್ನಾಟಕ ಸಂಗೀತ', cta: 'YouTube ನಲ್ಲಿ ಆಲಿಸಿ' },
+    festivals: {
+      title: 'ಹಬ್ಬಗಳ ಕ್ಯಾಲೆಂಡರ್',
+      intro:
+        'ತಮಿಳು ವರ್ಷದುದ್ದಕ್ಕೂ ಪ್ರಮುಖ ದೇವಾಲಯ ಹಬ್ಬಗಳು. ಒಂದು ಹಬ್ಬವನ್ನು ಮುಟ್ಟಿ ಅದನ್ನು ಆಚರಿಸುವ ಎಲ್ಲಾ ದೇವಾಲಯಗಳನ್ನು ನೋಡಿ.',
+      temples: 'ದೇವಾಲಯಗಳು',
+    },
+    faq: {
+      deityQ: '{name} ದೇವಾಲಯದ ಆರಾಧ್ಯ ದೇವತೆ ಯಾರು?',
+      festivalsQ: '{name} ದೇವಾಲಯದ ಪ್ರಮುಖ ಹಬ್ಬಗಳು ಯಾವುವು?',
+      reachQ: '{name} ದೇವಾಲಯವನ್ನು ಹೇಗೆ ತಲುಪುವುದು?',
+    },
     install: {
       title: 'ಆ್ಯಪ್ ಸ್ಥಾಪಿಸಿ',
       body: 'ದೇವಾಲಯ ಆ್ಯಪ್ ಅನ್ನು ನಿಮ್ಮ ಮುಖಪುಟಕ್ಕೆ ಸೇರಿಸಿ — ಉಚಿತ, ಆಫ್‌ಲೈನ್‌ನಲ್ಲೂ ಕೆಲಸ ಮಾಡುತ್ತದೆ.',
@@ -490,6 +536,17 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'പിന്തുടരൂ' },
     music: { heading: 'കർണാടക സംഗീതം', cta: 'YouTube-ൽ കേൾക്കൂ' },
+    festivals: {
+      title: 'ഉത്സവ കലണ്ടർ',
+      intro:
+        'തമിഴ് വർഷത്തിലുടനീളമുള്ള പ്രധാന ക്ഷേത്ര ഉത്സവങ്ങൾ. ഒരു ഉത്സവത്തിൽ തൊട്ട് അത് ആഘോഷിക്കുന്ന എല്ലാ ക്ഷേത്രങ്ങളും കാണുക.',
+      temples: 'ക്ഷേത്രങ്ങൾ',
+    },
+    faq: {
+      deityQ: '{name} ക്ഷേത്രത്തിലെ പ്രതിഷ്ഠ ആരാണ്?',
+      festivalsQ: '{name} ക്ഷേത്രത്തിലെ പ്രധാന ഉത്സവങ്ങൾ ഏതൊക്കെയാണ്?',
+      reachQ: '{name} ക്ഷേത്രത്തിൽ എങ്ങനെ എത്തിച്ചേരാം?',
+    },
     install: {
       title: 'ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യൂ',
       body: 'ക്ഷേത്രം ആപ്പ് നിങ്ങളുടെ ഹോം സ്ക്രീനിൽ ചേർക്കൂ — സൗജന്യം, ഓഫ്‌ലൈനിലും പ്രവർത്തിക്കും.',
@@ -572,6 +629,17 @@ export const strings: Record<Locale, UiStrings> = {
     },
     footer: { follow: 'फ़ॉलो करें' },
     music: { heading: 'कर्नाटक संगीत', cta: 'YouTube पर सुनें' },
+    festivals: {
+      title: 'उत्सव कैलेंडर',
+      intro:
+        'तमिल वर्ष भर के प्रमुख मंदिर उत्सव। किसी उत्सव पर टैप करके उसे मनाने वाले सभी मंदिर देखें।',
+      temples: 'मंदिर',
+    },
+    faq: {
+      deityQ: '{name} मंदिर में किस देवता की पूजा होती है?',
+      festivalsQ: '{name} मंदिर के प्रमुख उत्सव कौन-से हैं?',
+      reachQ: '{name} मंदिर तक कैसे पहुँचें?',
+    },
     install: {
       title: 'ऐप इंस्टॉल करें',
       body: 'मंदिर ऐप को अपनी होम स्क्रीन पर जोड़ें — निःशुल्क, ऑफ़लाइन भी चलता है।',
