@@ -24,7 +24,7 @@ Each gate requires owner sign-off before the next phase starts.
 |---|---|
 | 1. Research | ✅ Complete, gate passed 2026-07 |
 | 2. UX/Design | ✅ Complete, gate passed 2026-07 |
-| 3. Build | ✅ Complete, gate passed 2026-10-08 (both PWA + native; catalog since expanded to **508 temples × 6 languages**, 31 circuits — see "Temple catalog" below) |
+| 3. Build | ✅ Complete, gate passed 2026-10-08 (both PWA + native; catalog since expanded to **520 temples × 6 languages**, 32 circuits — see "Temple catalog" below) |
 | 4. Test/Harden | ✅ **Complete, gate passed 2026-10-26 (owner sign-off).** Unit + content-invariant suite (260 tests), translation QA (0/0, 100% script ratio), CSP hardening, per-page byte budget, Lighthouse CI — all in place and green on the deployed head; full Wave-C translation review (name/deity/summary + all 5 section fields × 237 temples × 5 locales) complete. See docs/testing.md. The **translation gate was signed off by the owner on 2026-10-26**, accepting the comprehensive AI translation review (every Wave-C field × 5 locales, reviewed against the English source) as sufficient for release; an optional native-speaker linguistic pass may still be done post-launch as a quality enhancement, but is no longer a release gate. |
 | 5. Deploy | ✅ **Live on Cloudflare.** `temples.dsquaregee.com` is served by **Cloudflare Workers Static Assets** (Git-connected Workers Builds, no deploy secrets) with **media/audio on Cloudflare R2** (`media`/`audio.dsquaregee.com`, $0 egress) — verified end-to-end (single-valued cache headers, CSP/HSTS, R2 media HIT). **No Google in the serving path.** History: project migrated off the Google-locked `temple-502523` → `temples2` (`infra/migrate-project.mjs`; Firestore `temples2` db in `asia-south1`; all media regenerated — audio 101×6, heroes 92, AVIF/WebP/OG, narrated video 78×6), served from temples2.web.app, then **hosting moved to Cloudflare** and the domain cut over. Firebase Hosting deploy (`deploy.yml`) retired. **Off-Google backup**: weekly GCS→R2 mirror (`backup-media-r2.yml` → `temples2-media-backup`/`temples2-audio-backup`). **Firebase Hosting decommission (final step):** disable the stale `temples2.web.app` via `firebase-hosting-disable.yml`, and remove the `temples.dsquaregee.com` custom domain in the Firebase Console — the connected domain is what produces the `Google-Firebase` user-agent probe traffic (and a slice of 404s) in Cloudflare analytics; Console removal is the only way to stop it. Runbooks: **docs/deploy-cloudflare-pages.md**, **docs/migrate-project.md**. |
 
@@ -67,7 +67,7 @@ Each gate requires owner sign-off before the next phase starts.
 
 ## Temple catalog — launch core + full set
 
-**Shipped catalog: 508 temples × 6 locales, 31 circuits** — every circuit lists all of its traditional or curated member temples (audit: `docs/research/02-circuit-audit.md`) (source of truth:
+**Shipped catalog: 520 temples × 6 locales, 32 circuits** — every circuit lists all of its traditional or curated member temples (audit: `docs/research/02-circuit-audit.md`) (source of truth:
 `packages/content/data`). The **Divya Desams circuit is complete** — all 106
 earthly shrines (108 minus the two celestial abodes; Irattai Tirupati's twin temples
 are two entries), grouped by the six traditional regions (`groups` in the circuit
@@ -91,8 +91,19 @@ route-map page per region). Membership was reconciled strictly against the verif
 removed in favour of their canonical ashta-veerattanam / sapta-vidanga ids). Verified full
 list: `docs/research/paadal-petra-sthalams-list.md`; plan/corrections:
 `docs/research/paadal-petra-sthalams.md`; per-temple notes: `docs/research/paadal-petra/`.
-**Media status (2026-10-20):** narration **audio is complete for all 508 temples**
-(`audio.yml` → R2); SW bumped to **v14**. Hero photos + Ken Burns videos are rendered
+**Ashtadasha (18) Maha Shakti Peethas (added 2026-10-27, a later session).** The
+`maha-shakti-peethas` circuit (32nd circuit) added **12 new temples** (Kamakhya, Kolhapur
+Mahalakshmi, Jwalamukhi, Vishalakshi, Biraja, Harsiddhi, Sharada Peeth, etc.; the other 6
+of the 18 were already in the catalog) — catalog now **520 temples × 6 locales, 32
+circuits**. Media completed for the 12: **narration audio in all 6 locales** (`audio.yml` →
+R2), and real hero/video where qualifying CC photos existed (kamakhya-guwahati,
+biraja-jajpur, harsiddhi-ujjain, sharada-peeth-kashmir got hero+video; mahalakshmi-kolhapur
+a hero; the other 7 use the placeholder). **SW bumped to v18.** A native-fluent translation
+review of the 12 × 5 locales × 8 fields (name/deity/summary + 5 sections) was done — 8
+verified fixes (Gorakhnath mislabelled as sannyasin/renunciant in ta+ml, gendered pilgrim,
+Beni→Veni Madhava, "Sharad"→"Sharadiya" Navratri, garbled "forested"); te/kn/hi clean.
+**Media status (2026-10-20):** narration **audio is complete for all 520 temples**
+(`audio.yml` → R2); SW bumped to **v18**. Hero photos + Ken Burns videos are rendered
 from qualifying Creative-Commons Wikimedia photos (`media.yml`; gate: CC/PD, ≥2 MP,
 landscape — hero needs ≥1 photo, video ≥3), so coverage is bounded by photo
 availability, not compute: **235 temples have a real hero photo, 207 have a video**; the
