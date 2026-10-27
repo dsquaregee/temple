@@ -1,21 +1,23 @@
 import { t, type Locale } from '@temple/core';
 
-type Tab = 'home' | 'discover' | 'yatra' | 'listen';
+type Tab = 'home' | 'discover' | 'yatra' | 'festivals' | 'listen';
 
 const GLYPHS: Record<Tab, string> = {
   home: '⌂',
   discover: '☖',
   yatra: '⟿',
+  festivals: '✦',
   listen: '♪',
 };
 
-// Server-rendered bottom navigation mirroring the 4-tab IA.
+// Server-rendered bottom navigation mirroring the tab IA.
 export function TabBar({ locale, active }: { locale: Locale; active: Tab }) {
   const ui = t(locale);
   const items: { key: Tab; href: string; label: string }[] = [
     { key: 'home', href: `/${locale}/`, label: ui.tabs.home },
     { key: 'discover', href: `/${locale}/temples/`, label: ui.tabs.discover },
     { key: 'yatra', href: `/${locale}/yatra/`, label: ui.tabs.yatra },
+    { key: 'festivals', href: `/${locale}/festivals/`, label: ui.tabs.festivals },
     { key: 'listen', href: `/${locale}/listen/`, label: ui.tabs.listen },
   ];
   return (

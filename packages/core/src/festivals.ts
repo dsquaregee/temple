@@ -69,7 +69,7 @@ export const FESTIVALS: Festival[] = [
   { key: 'skanda-shashti', name: 'Skanda Shashti', month: 'aippasi',
     patterns: ['skanda shashti', 'skanda sashti', 'kandha sashti', 'kanda sashti'] },
   { key: 'karthigai-deepam', name: 'Karthigai Deepam', month: 'karthigai',
-    patterns: ['karthigai deepam', 'karthigai deepam'] },
+    patterns: ['karthigai deepam'] },
   { key: 'arudra-darshan', name: 'Arudra Darshan', month: 'margazhi',
     patterns: ['arudra', 'thiruvathirai', 'arudhra'] },
   { key: 'vaikunta-ekadashi', name: 'Vaikunta Ekadashi', month: 'margazhi',

@@ -38,6 +38,22 @@ test('every festival matches at least one temple (no dead patterns)', () => {
   }
 });
 
+test('search-index festival list matches the core dictionary', async () => {
+  // gen-search-index.mjs inlines the festival patterns (it must stay node-20-safe,
+  // so it cannot import this TS module at build time). Guard the copies in sync.
+  const { FESTIVAL_SEARCH } = await import(
+    '../../content/scripts/gen-search-index.mjs'
+  );
+  assert.deepEqual(
+    FESTIVAL_SEARCH.map((f: { name: string; patterns: string[] }) => ({
+      name: f.name,
+      patterns: f.patterns,
+    })),
+    FESTIVALS.map((f) => ({ name: f.name, patterns: f.patterns })),
+    'FESTIVAL_SEARCH in gen-search-index.mjs is out of sync with FESTIVALS'
+  );
+});
+
 test('detectFestivals is case-insensitive and substring-based', () => {
   assert.deepEqual(detectFestivals('The temple celebrates MAHA SHIVARATRI each year.'), [
     'maha-shivaratri',

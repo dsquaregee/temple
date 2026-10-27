@@ -78,7 +78,7 @@ export default function FestivalDetail({
   return (
     <PageChrome
       locale={locale}
-      active="home"
+      active="festivals"
       pathSuffix={`festivals/${festival.key}/`}
     >
       <JsonLd data={listing} />

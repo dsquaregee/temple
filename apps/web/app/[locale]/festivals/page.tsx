@@ -53,7 +53,7 @@ export default function FestivalCalendar({
   });
 
   return (
-    <PageChrome locale={locale} active="home" pathSuffix="festivals/">
+    <PageChrome locale={locale} active="festivals" pathSuffix="festivals/">
       <JsonLd data={listing} />
       <JsonLd data={breadcrumbs} />
 

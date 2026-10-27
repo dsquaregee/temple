@@ -23,7 +23,11 @@
 // v18: 12 Maha Shakti Peethas added (audio ×6 locales for all, real hero/video
 // for the 5/4 with qualifying CC photos) — purge so returning visitors load the
 // new temples' media and the Shakti Peethas circuit pages.
-const VERSION = 'v18';
+// v19: Festival calendar shipped (new Festivals tab + /festivals/ pages) and the
+// Discover search index now includes festival names — purge so returning
+// visitors get the new tab/pages and the updated /search/<locale>.json instead
+// of the stale-while-revalidate cached copies.
+const VERSION = 'v19';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];
