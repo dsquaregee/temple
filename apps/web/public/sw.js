@@ -33,7 +33,9 @@
 // v21: festival observance dates (Drik Panchang) added — upcoming dates now show
 // on Home/Festivals and temple pages carry festival Event structured data. Purge
 // so returning visitors get the dated pages.
-const VERSION = 'v21';
+// v22: festival date table extended through 2029 (Drik Panchang) — purge so
+// returning visitors get the refreshed upcoming dates and Event data.
+const VERSION = 'v22';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];
