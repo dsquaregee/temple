@@ -43,6 +43,23 @@ function recentlyDismissed(): boolean {
   }
 }
 
+// One-time, PII-free install signal. Guards against double-counting, then fires a
+// same-origin GET with a query marker so the install shows in Cloudflare traffic
+// analytics (keepalive lets it complete during unload). No personal data.
+function markInstalled() {
+  try {
+    if (localStorage.getItem('temple.pwa.installed') === '1') return;
+    localStorage.setItem('temple.pwa.installed', '1');
+  } catch {
+    /* storage may be unavailable — fall through and still signal once */
+  }
+  try {
+    void fetch('/?event=pwa_install', { method: 'GET', mode: 'no-cors', keepalive: true });
+  } catch {
+    /* best-effort */
+  }
+}
+
 export function InstallPrompt({ locale }: { locale: Locale }) {
   const ui = t(locale).install;
   const [deferred, setDeferred] = useState<BeforeInstallPromptEvent | null>(null);
@@ -61,6 +78,7 @@ export function InstallPrompt({ locale }: { locale: Locale }) {
     const onInstalled = () => {
       setOpen(false);
       setDeferred(null);
+      markInstalled();
       try {
         localStorage.removeItem(DISMISS_KEY);
       } catch {
@@ -102,8 +120,10 @@ export function InstallPrompt({ locale }: { locale: Locale }) {
     try {
       await deferred.prompt();
       const choice = await deferred.userChoice;
-      if (choice.outcome === 'accepted') setOpen(false);
-      else dismiss();
+      if (choice.outcome === 'accepted') {
+        markInstalled();
+        setOpen(false);
+      } else dismiss();
     } catch {
       setOpen(false);
     }

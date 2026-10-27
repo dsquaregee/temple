@@ -2,7 +2,7 @@
   "name": "Temple — the great temples of South India",
   "short_name": "Temple",
   "description": "Find, learn, and experience the oldest temples of India.",
-  "start_url": "/",
+  "start_url": "/?pwa=1",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
