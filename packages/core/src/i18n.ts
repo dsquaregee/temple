@@ -31,6 +31,11 @@ export interface UiStrings {
     pagePrev: string;
     pageNext: string;
     loading: string;
+    nearMe: string;
+    locating: string;
+    locationError: string;
+    away: string;
+    nearestFirst: string;
   };
   listen: {
     nowPlaying: string;
@@ -118,6 +123,11 @@ export const strings: Record<Locale, UiStrings> = {
       pagePrev: 'Previous',
       pageNext: 'Next',
       loading: 'Loading the full catalogue…',
+      nearMe: 'Near me',
+      locating: 'Finding your location…',
+      locationError: 'Couldn’t get your location. Check location permission.',
+      away: 'away',
+      nearestFirst: 'Nearest first',
     },
     listen: {
       nowPlaying: 'Now playing',
@@ -219,6 +229,11 @@ export const strings: Record<Locale, UiStrings> = {
       pagePrev: 'முந்தைய',
       pageNext: 'அடுத்து',
       loading: 'முழுப் பட்டியல் ஏற்றப்படுகிறது…',
+      nearMe: 'அருகில் உள்ளவை',
+      locating: 'உங்கள் இருப்பிடம் கண்டறியப்படுகிறது…',
+      locationError: 'இருப்பிடத்தைப் பெற முடியவில்லை. அனுமதியைச் சரிபார்க்கவும்.',
+      away: 'தொலைவில்',
+      nearestFirst: 'அருகில் உள்ளவை முதலில்',
     },
     listen: {
       nowPlaying: 'இப்போது ஒலிக்கிறது',
@@ -320,6 +335,11 @@ export const strings: Record<Locale, UiStrings> = {
       pagePrev: 'మునుపటి',
       pageNext: 'తదుపరి',
       loading: 'పూర్తి జాబితా లోడ్ అవుతోంది…',
+      nearMe: 'నా దగ్గర',
+      locating: 'మీ స్థానాన్ని కనుగొంటోంది…',
+      locationError: 'మీ స్థానాన్ని పొందలేకపోయాం. అనుమతిని తనిఖీ చేయండి.',
+      away: 'దూరంలో',
+      nearestFirst: 'దగ్గరివి ముందుగా',
     },
     listen: {
       nowPlaying: 'ఇప్పుడు వినిపిస్తోంది',
@@ -421,6 +441,11 @@ export const strings: Record<Locale, UiStrings> = {
       pagePrev: 'ಹಿಂದಿನ',
       pageNext: 'ಮುಂದಿನ',
       loading: 'ಸಂಪೂರ್ಣ ಪಟ್ಟಿ ಲೋಡ್ ಆಗುತ್ತಿದೆ…',
+      nearMe: 'ನನ್ನ ಹತ್ತಿರ',
+      locating: 'ನಿಮ್ಮ ಸ್ಥಳವನ್ನು ಹುಡುಕಲಾಗುತ್ತಿದೆ…',
+      locationError: 'ನಿಮ್ಮ ಸ್ಥಳವನ್ನು ಪಡೆಯಲಾಗಲಿಲ್ಲ. ಅನುಮತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.',
+      away: 'ದೂರದಲ್ಲಿ',
+      nearestFirst: 'ಹತ್ತಿರದವು ಮೊದಲು',
     },
     listen: {
       nowPlaying: 'ಈಗ ಪ್ಲೇ ಆಗುತ್ತಿದೆ',
@@ -522,6 +547,11 @@ export const strings: Record<Locale, UiStrings> = {
       pagePrev: 'മുമ്പത്തെ',
       pageNext: 'അടുത്തത്',
       loading: 'പൂർണ്ണ പട്ടിക ലോഡ് ചെയ്യുന്നു…',
+      nearMe: 'എനിക്ക് സമീപം',
+      locating: 'നിങ്ങളുടെ സ്ഥാനം കണ്ടെത്തുന്നു…',
+      locationError: 'നിങ്ങളുടെ സ്ഥാനം ലഭിച്ചില്ല. അനുമതി പരിശോധിക്കുക.',
+      away: 'അകലെ',
+      nearestFirst: 'അടുത്തുള്ളവ ആദ്യം',
     },
     listen: {
       nowPlaying: 'ഇപ്പോൾ കേൾക്കുന്നു',
@@ -623,6 +653,11 @@ export const strings: Record<Locale, UiStrings> = {
       pagePrev: 'पिछला',
       pageNext: 'अगला',
       loading: 'पूरी सूची लोड हो रही है…',
+      nearMe: 'मेरे पास',
+      locating: 'आपका स्थान खोजा जा रहा है…',
+      locationError: 'आपका स्थान नहीं मिल सका। अनुमति जाँचें।',
+      away: 'दूर',
+      nearestFirst: 'निकटतम पहले',
     },
     listen: {
       nowPlaying: 'अभी चल रहा है',

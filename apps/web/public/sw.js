@@ -38,7 +38,10 @@
 // v23: scoped offline download (per-temple / per-circuit) — a persistent
 // `temple-offline` cache the user fills on demand; it survives version bumps and
 // is served first, including the cross-origin narration audio / hero media.
-const VERSION = 'v23';
+// v24: Discover "Near me" — ranks temples by distance from the device using a
+// new locale-independent /geo/coords.json. Purge so returning visitors get the
+// new Discover control and the coords file instead of the stale-cached pages.
+const VERSION = 'v24';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
