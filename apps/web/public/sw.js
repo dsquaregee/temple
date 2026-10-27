@@ -35,9 +35,19 @@
 // so returning visitors get the dated pages.
 // v22: festival date table extended through 2029 (Drik Panchang) — purge so
 // returning visitors get the refreshed upcoming dates and Event data.
-const VERSION = 'v22';
+// v23: scoped offline download (per-temple / per-circuit) — a persistent
+// `temple-offline` cache the user fills on demand; it survives version bumps and
+// is served first, including the cross-origin narration audio / hero media.
+const VERSION = 'v23';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
+// Version-INDEPENDENT: holds content the user explicitly downloaded for offline
+// use. Never purged on activate, so a bumped service worker can't wipe a
+// pilgrim's saved circuit. Managed from the page via the Cache API.
+const OFFLINE = 'temple-offline';
+// Cross-origin hosts that serve downloadable media (narration audio, hero
+// photos). Requests to these are served from the OFFLINE cache when present.
+const MEDIA_HOSTS = ['audio.dsquaregee.com', 'media.dsquaregee.com'];
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];
 
 self.addEventListener('install', (event) => {
@@ -53,7 +63,7 @@ self.addEventListener('activate', (event) => {
       .then((keys) =>
         Promise.all(
           keys
-            .filter((k) => k !== SHELL && k !== RUNTIME)
+            .filter((k) => k !== SHELL && k !== RUNTIME && k !== OFFLINE)
             .map((k) => caches.delete(k))
         )
       )
@@ -65,12 +75,30 @@ self.addEventListener('fetch', (event) => {
   const { request } = event;
   if (request.method !== 'GET') return;
   const url = new URL(request.url);
-  if (url.origin !== self.location.origin) return;
+  const sameOrigin = url.origin === self.location.origin;
+  const isMedia = MEDIA_HOSTS.includes(url.hostname);
+  if (!sameOrigin && !isMedia) return;
 
-  // Navigations → stale-while-revalidate.
+  // Downloaded cross-origin media (narration audio, hero photos): serve from the
+  // offline cache when it was explicitly downloaded, else go to the network.
+  if (isMedia) {
+    event.respondWith(
+      caches.open(OFFLINE).then(async (cache) => {
+        const hit = await cache.match(request, { ignoreVary: true });
+        return hit || fetch(request);
+      })
+    );
+    return;
+  }
+
+  // Navigations → offline download first, then stale-while-revalidate.
   if (request.mode === 'navigate') {
     event.respondWith(
-      caches.open(RUNTIME).then(async (cache) => {
+      (async () => {
+        const offline = await caches.open(OFFLINE);
+        const downloaded = await offline.match(request, { ignoreVary: true });
+        if (downloaded) return downloaded;
+        const cache = await caches.open(RUNTIME);
         const cached = await cache.match(request);
         const network = fetch(request)
           .then((res) => {
@@ -81,21 +109,25 @@ self.addEventListener('fetch', (event) => {
           // than a browser error. Precached in SHELL, so it's always available.
           .catch(() => cached || caches.match('/offline/'));
         return cached || network;
-      })
+      })()
     );
     return;
   }
 
-  // Static assets → cache-first.
+  // Same-origin static assets → offline download first, then cache-first.
   if (/\.(?:js|css|svg|png|jpg|jpeg|avif|webp|woff2?|json)$/.test(url.pathname)) {
     event.respondWith(
-      caches.open(RUNTIME).then(async (cache) => {
+      (async () => {
+        const offline = await caches.open(OFFLINE);
+        const downloaded = await offline.match(request, { ignoreVary: true });
+        if (downloaded) return downloaded;
+        const cache = await caches.open(RUNTIME);
         const cached = await cache.match(request);
         if (cached) return cached;
         const res = await fetch(request);
         if (res && res.ok) cache.put(request, res.clone());
         return res;
-      })
+      })()
     );
   }
 });

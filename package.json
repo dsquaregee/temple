@@ -9,7 +9,8 @@
     "content:search-index": "node packages/content/scripts/gen-search-index.mjs",
     "test": "node --test \"packages/**/test/*.test.ts\" \"apps/**/test/*.test.ts\"",
     "budget": "node apps/web/scripts/check-budget.mjs",
-    "build:web": "pnpm content:generate && pnpm content:search-index && pnpm --filter @temple/web build",
+    "offline:manifests": "node apps/web/scripts/gen-offline-manifests.mjs",
+    "build:web": "pnpm content:generate && pnpm content:search-index && pnpm offline:manifests && pnpm --filter @temple/web build",
     "dev:web": "pnpm content:generate && pnpm content:search-index && pnpm --filter @temple/web dev"
   }
 }

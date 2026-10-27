@@ -80,6 +80,7 @@ export interface UiStrings {
   music: { heading: string; cta: string };
   festivals: { title: string; intro: string; temples: string; thisMonth: string; comingUp: string };
   faq: { deityQ: string; festivalsQ: string; reachQ: string };
+  offline: { download: string; downloading: string; available: string; remove: string };
   install: {
     title: string;
     body: string;
@@ -177,6 +178,12 @@ export const strings: Record<Locale, UiStrings> = {
       festivalsQ: 'What are the main festivals at {name}?',
       reachQ: 'How do I get to {name}?',
     },
+    offline: {
+      download: 'Download for offline',
+      downloading: 'Downloading…',
+      available: 'Available offline',
+      remove: 'Remove download',
+    },
     install: {
       title: 'Install the app',
       body: 'Add Temple to your home screen — free, works offline, no account.',
@@ -271,6 +278,12 @@ export const strings: Record<Locale, UiStrings> = {
       deityQ: '{name} கோயிலில் வழிபடப்படும் தெய்வம் யார்?',
       festivalsQ: '{name} கோயிலின் முக்கியத் திருவிழாக்கள் யாவை?',
       reachQ: '{name} கோயிலை எவ்வாறு அடைவது?',
+    },
+    offline: {
+      download: 'ஆஃப்லைனில் பதிவிறக்கு',
+      downloading: 'பதிவிறக்குகிறது…',
+      available: 'ஆஃப்லைனில் உள்ளது',
+      remove: 'பதிவிறக்கத்தை நீக்கு',
     },
     install: {
       title: 'செயலியை நிறுவுங்கள்',
@@ -367,6 +380,12 @@ export const strings: Record<Locale, UiStrings> = {
       festivalsQ: '{name} ఆలయంలో ప్రధాన పండుగలు ఏవి?',
       reachQ: '{name} ఆలయానికి ఎలా చేరుకోవాలి?',
     },
+    offline: {
+      download: 'ఆఫ్‌లైన్‌లో డౌన్‌లోడ్ చేయండి',
+      downloading: 'డౌన్‌లోడ్ అవుతోంది…',
+      available: 'ఆఫ్‌లైన్‌లో అందుబాటులో ఉంది',
+      remove: 'డౌన్‌లోడ్‌ను తీసివేయి',
+    },
     install: {
       title: 'యాప్‌ను ఇన్‌స్టాల్ చేయండి',
       body: 'ఆలయం యాప్‌ను మీ హోమ్ స్క్రీన్‌కు జోడించండి — ఉచితం, ఆఫ్‌లైన్‌లోనూ పనిచేస్తుంది.',
@@ -461,6 +480,12 @@ export const strings: Record<Locale, UiStrings> = {
       deityQ: '{name} ದೇವಾಲಯದ ಆರಾಧ್ಯ ದೇವತೆ ಯಾರು?',
       festivalsQ: '{name} ದೇವಾಲಯದ ಪ್ರಮುಖ ಹಬ್ಬಗಳು ಯಾವುವು?',
       reachQ: '{name} ದೇವಾಲಯವನ್ನು ಹೇಗೆ ತಲುಪುವುದು?',
+    },
+    offline: {
+      download: 'ಆಫ್‌ಲೈನ್‌ಗಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ',
+      downloading: 'ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ…',
+      available: 'ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಲಭ್ಯವಿದೆ',
+      remove: 'ಡೌನ್‌ಲೋಡ್ ತೆಗೆದುಹಾಕಿ',
     },
     install: {
       title: 'ಆ್ಯಪ್ ಸ್ಥಾಪಿಸಿ',
@@ -557,6 +582,12 @@ export const strings: Record<Locale, UiStrings> = {
       festivalsQ: '{name} ക്ഷേത്രത്തിലെ പ്രധാന ഉത്സവങ്ങൾ ഏതൊക്കെയാണ്?',
       reachQ: '{name} ക്ഷേത്രത്തിൽ എങ്ങനെ എത്തിച്ചേരാം?',
     },
+    offline: {
+      download: 'ഓഫ്‌ലൈനായി ഡൗൺലോഡ് ചെയ്യുക',
+      downloading: 'ഡൗൺലോഡ് ചെയ്യുന്നു…',
+      available: 'ഓഫ്‌ലൈനിൽ ലഭ്യമാണ്',
+      remove: 'ഡൗൺലോഡ് നീക്കം ചെയ്യുക',
+    },
     install: {
       title: 'ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യൂ',
       body: 'ക്ഷേത്രം ആപ്പ് നിങ്ങളുടെ ഹോം സ്ക്രീനിൽ ചേർക്കൂ — സൗജന്യം, ഓഫ്‌ലൈനിലും പ്രവർത്തിക്കും.',
@@ -651,6 +682,12 @@ export const strings: Record<Locale, UiStrings> = {
       deityQ: '{name} मंदिर में किस देवता की पूजा होती है?',
       festivalsQ: '{name} मंदिर के प्रमुख उत्सव कौन-से हैं?',
       reachQ: '{name} मंदिर तक कैसे पहुँचें?',
+    },
+    offline: {
+      download: 'ऑफ़लाइन डाउनलोड करें',
+      downloading: 'डाउनलोड हो रहा है…',
+      available: 'ऑफ़लाइन उपलब्ध',
+      remove: 'डाउनलोड हटाएँ',
     },
     install: {
       title: 'ऐप इंस्टॉल करें',
