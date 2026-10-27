@@ -11,9 +11,13 @@ conversation. Last updated: 2026-10-26.
   full project memory — read it; it is the source of truth.
 - **✅ Wave C — the Paadal Petra Sthalams — is CONTENT-COMPLETE (2026-10-20).** All **275**
   Tevaram Shiva temples are in the catalog and the **`paadal-petra-sthalams` circuit is
-  live** (275 stops, 10 regional groups, 6 locales). Catalog now **508 temples × 6 locales,
-  31 circuits** (`node packages/content/scripts/validate.mjs`). Membership was reconciled
-  strictly against the verified list; this fixed 3 prior-session duplicate temples.
+  live** (275 stops, 10 regional groups, 6 locales). Catalog now **520 temples × 6 locales,
+  32 circuits** (`node packages/content/scripts/validate.mjs`) — including the **Ashtadasha
+  (18) Maha Shakti Peethas** circuit added 2026-10-27 (12 new temples: Kamakhya, Kolhapur,
+  Jwalamukhi, Vishalakshi, etc.), with audio complete in all 6 locales, hero/video where CC
+  photos qualified, a native-fluent translation review (8 fixes), and SW bumped to v18.
+  Membership was reconciled strictly against the verified list; this fixed 3 prior-session
+  duplicate temples.
 - **✅ Media pipeline run & deployed (2026-10-20).** Narration **audio is complete for all
   508 temples** (`audio.yml` → R2 sync). Hero photos + Ken Burns videos were rendered via
   `media.yml` from qualifying Creative-Commons Wikimedia photos (gate: CC/PD, ≥2 MP,
