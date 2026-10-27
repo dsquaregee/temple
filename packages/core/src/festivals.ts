@@ -38,6 +38,50 @@ export const MONTH_BY_KEY: Record<string, TamilMonth> = Object.fromEntries(
   TAMIL_MONTHS.map((m) => [m.key, m])
 );
 
+// Approximate Gregorian start of each Tamil solar month (the sun's entry into
+// each rasi / sankranti). These shift ±1 day year to year, which is fine for a
+// "what's on this month" surface — not for a precise single-day claim. Keyed by
+// month; [month-1..12, day].
+const MONTH_START: Record<string, [number, number]> = {
+  chithirai: [4, 14],
+  vaikasi: [5, 15],
+  aani: [6, 15],
+  aadi: [7, 16],
+  avani: [8, 17],
+  purattasi: [9, 17],
+  aippasi: [10, 18],
+  karthigai: [11, 16],
+  margazhi: [12, 16],
+  thai: [1, 14],
+  masi: [2, 13],
+  panguni: [3, 14],
+};
+
+// The Tamil month a Gregorian date falls in. Walks the 12 month-starts and
+// returns the last one on or before the date (wrapping through the year).
+export function currentTamilMonthKey(date: Date): string {
+  const md = (date.getMonth() + 1) * 100 + date.getDate();
+  let current = 'margazhi'; // the month spanning the Dec→Jan year boundary
+  let best = -1;
+  for (const m of TAMIL_MONTHS) {
+    const ms = MONTH_START[m.key];
+    if (!ms) continue;
+    const start = ms[0] * 100 + ms[1];
+    if (md >= start && start > best) {
+      best = start;
+      current = m.key;
+    }
+  }
+  return current;
+}
+
+/** The Tamil month after the given one, in calendar order. */
+export function nextTamilMonthKey(key: string): string {
+  const i = TAMIL_MONTHS.findIndex((m) => m.key === key);
+  const next = TAMIL_MONTHS[(i + 1) % TAMIL_MONTHS.length];
+  return next?.key ?? 'chithirai';
+}
+
 export interface Festival {
   key: string;
   /** Transliterated festival name, shown in every locale. */

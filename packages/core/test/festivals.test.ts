@@ -7,7 +7,9 @@ import {
   FESTIVALS,
   MONTH_BY_KEY,
   TAMIL_MONTHS,
+  currentTamilMonthKey,
   detectFestivals,
+  nextTamilMonthKey,
 } from '../src/festivals.ts';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..', '..', '..');
@@ -52,6 +54,20 @@ test('search-index festival list matches the core dictionary', async () => {
     FESTIVALS.map((f) => ({ name: f.name, patterns: f.patterns })),
     'FESTIVAL_SEARCH in gen-search-index.mjs is out of sync with FESTIVALS'
   );
+});
+
+test('currentTamilMonthKey maps Gregorian dates to the right Tamil month', () => {
+  // new Date(y, m0, d) uses local time, matching the function's getMonth/getDate.
+  assert.equal(currentTamilMonthKey(new Date(2026, 0, 20)), 'thai'); // after Jan 14
+  assert.equal(currentTamilMonthKey(new Date(2026, 0, 5)), 'margazhi'); // before Jan 14
+  assert.equal(currentTamilMonthKey(new Date(2026, 3, 20)), 'chithirai'); // after Apr 14
+  assert.equal(currentTamilMonthKey(new Date(2026, 10, 1)), 'aippasi'); // Nov 1, before Nov 16
+  assert.equal(currentTamilMonthKey(new Date(2026, 11, 20)), 'margazhi'); // after Dec 16
+});
+
+test('nextTamilMonthKey wraps in calendar order', () => {
+  assert.equal(nextTamilMonthKey('chithirai'), 'vaikasi');
+  assert.equal(nextTamilMonthKey('panguni'), 'chithirai');
 });
 
 test('detectFestivals is case-insensitive and substring-based', () => {

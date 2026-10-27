@@ -78,7 +78,7 @@ export interface UiStrings {
   };
   footer: { follow: string };
   music: { heading: string; cta: string };
-  festivals: { title: string; intro: string; temples: string };
+  festivals: { title: string; intro: string; temples: string; thisMonth: string; comingUp: string };
   faq: { deityQ: string; festivalsQ: string; reachQ: string };
   install: {
     title: string;
@@ -169,6 +169,8 @@ export const strings: Record<Locale, UiStrings> = {
       intro:
         'Major temple festivals through the Tamil year. Tap a festival to see every temple that celebrates it.',
       temples: 'temples',
+      thisMonth: 'This month',
+      comingUp: 'Coming up',
     },
     faq: {
       deityQ: 'Which deity is worshipped at {name}?',
@@ -262,6 +264,8 @@ export const strings: Record<Locale, UiStrings> = {
       intro:
         'தமிழ் ஆண்டு முழுவதும் முக்கியக் கோயில் திருவிழாக்கள். ஒரு திருவிழாவைத் தொட்டு அதைக் கொண்டாடும் அனைத்துக் கோயில்களையும் காணலாம்.',
       temples: 'கோயில்கள்',
+      thisMonth: 'இம்மாதம்',
+      comingUp: 'வரவிருப்பவை',
     },
     faq: {
       deityQ: '{name} கோயிலில் வழிபடப்படும் தெய்வம் யார்?',
@@ -355,6 +359,8 @@ export const strings: Record<Locale, UiStrings> = {
       intro:
         'తమిళ సంవత్సరం అంతటా ప్రధాన ఆలయ పండుగలు. ఒక పండుగను తాకి దాన్ని జరుపుకునే అన్ని ఆలయాలను చూడండి.',
       temples: 'ఆలయాలు',
+      thisMonth: 'ఈ నెల',
+      comingUp: 'రాబోయేవి',
     },
     faq: {
       deityQ: '{name} ఆలయంలో ఆరాధించే దేవత ఎవరు?',
@@ -448,6 +454,8 @@ export const strings: Record<Locale, UiStrings> = {
       intro:
         'ತಮಿಳು ವರ್ಷದುದ್ದಕ್ಕೂ ಪ್ರಮುಖ ದೇವಾಲಯ ಹಬ್ಬಗಳು. ಒಂದು ಹಬ್ಬವನ್ನು ಮುಟ್ಟಿ ಅದನ್ನು ಆಚರಿಸುವ ಎಲ್ಲಾ ದೇವಾಲಯಗಳನ್ನು ನೋಡಿ.',
       temples: 'ದೇವಾಲಯಗಳು',
+      thisMonth: 'ಈ ತಿಂಗಳು',
+      comingUp: 'ಮುಂಬರುವ',
     },
     faq: {
       deityQ: '{name} ದೇವಾಲಯದ ಆರಾಧ್ಯ ದೇವತೆ ಯಾರು?',
@@ -541,6 +549,8 @@ export const strings: Record<Locale, UiStrings> = {
       intro:
         'തമിഴ് വർഷത്തിലുടനീളമുള്ള പ്രധാന ക്ഷേത്ര ഉത്സവങ്ങൾ. ഒരു ഉത്സവത്തിൽ തൊട്ട് അത് ആഘോഷിക്കുന്ന എല്ലാ ക്ഷേത്രങ്ങളും കാണുക.',
       temples: 'ക്ഷേത്രങ്ങൾ',
+      thisMonth: 'ഈ മാസം',
+      comingUp: 'വരാനിരിക്കുന്നവ',
     },
     faq: {
       deityQ: '{name} ക്ഷേത്രത്തിലെ പ്രതിഷ്ഠ ആരാണ്?',
@@ -634,6 +644,8 @@ export const strings: Record<Locale, UiStrings> = {
       intro:
         'तमिल वर्ष भर के प्रमुख मंदिर उत्सव। किसी उत्सव पर टैप करके उसे मनाने वाले सभी मंदिर देखें।',
       temples: 'मंदिर',
+      thisMonth: 'इस माह',
+      comingUp: 'आगामी',
     },
     faq: {
       deityQ: '{name} मंदिर में किस देवता की पूजा होती है?',
