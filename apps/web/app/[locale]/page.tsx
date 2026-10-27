@@ -104,6 +104,14 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
         initialIndex={initialIndex}
       />
 
+      <section className="section" aria-labelledby="festivals-h">
+        <h2 id="festivals-h">{ui.festivals.title}</h2>
+        <p className="lead">{ui.festivals.intro}</p>
+        <a className="browse-all" href={`/${locale}/festivals/`}>
+          {ui.festivals.title} →
+        </a>
+      </section>
+
       <section className="section" aria-labelledby="circuits-h">
         <h2 id="circuits-h">{ui.labels.circuits}</h2>
         <div className="grid">

@@ -7,3 +7,4 @@ export * from './featured';
 export * from './listen';
 export * from './circuit-map';
 export * from './geo';
+export * from './festivals';

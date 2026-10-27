@@ -1,6 +1,6 @@
 import { discoverPageCount } from '@/components/DiscoverListing';
 import type { MetadataRoute } from 'next';
-import { getCircuits, getTemples } from '@temple/content';
+import { getCircuits, getFestivalCalendar, getTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
 import { SITE_URL } from '@/lib/site';
 
@@ -41,6 +41,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { suffix: '', changeFrequency: 'weekly' as const, priority: 0.9 },
     { suffix: 'temples/', changeFrequency: 'weekly' as const, priority: 0.7 },
     { suffix: 'yatra/', changeFrequency: 'monthly' as const, priority: 0.7 },
+    { suffix: 'festivals/', changeFrequency: 'monthly' as const, priority: 0.7 },
     { suffix: 'listen/', changeFrequency: 'monthly' as const, priority: 0.6 },
     // Discover pages 2…N (same count in every locale).
     ...Array.from({ length: discoverPageCount('en') - 1 }, (_, i) => ({
@@ -88,6 +89,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.7,
         alternates,
       });
+    }
+  }
+
+  // Per-festival pages (festival calendar → one page per festival).
+  for (const month of getFestivalCalendar('en')) {
+    for (const { festival } of month.festivals) {
+      const alternates = alternatesFor((l) => `${l}/festivals/${festival.key}/`);
+      for (const locale of LOCALES) {
+        entries.push({
+          url: abs(`${locale}/festivals/${festival.key}/`),
+          lastModified,
+          changeFrequency: 'monthly',
+          priority: 0.6,
+          alternates,
+        });
+      }
     }
   }
 
