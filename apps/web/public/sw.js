@@ -20,7 +20,10 @@
 // cached before it so returning visitors load the beacon too.
 // v8: 90 new Divya Desams (audio, photos, videos, regional circuit pages) —
 // purge cached pages so returning visitors see the new media and maps.
-const VERSION = 'v17';
+// v18: 12 Maha Shakti Peethas added (audio ×6 locales for all, real hero/video
+// for the 5/4 with qualifying CC photos) — purge so returning visitors load the
+// new temples' media and the Shakti Peethas circuit pages.
+const VERSION = 'v18';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];
