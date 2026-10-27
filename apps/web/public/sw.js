@@ -30,7 +30,10 @@
 // v20: "Festivals this month" strip added to Home and the Festivals tab —
 // purge so returning visitors get the new home/festivals pages rather than the
 // stale-while-revalidate cached copies.
-const VERSION = 'v20';
+// v21: festival observance dates (Drik Panchang) added — upcoming dates now show
+// on Home/Festivals and temple pages carry festival Event structured data. Purge
+// so returning visitors get the dated pages.
+const VERSION = 'v21';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 const PRECACHE = ['/', '/offline/', '/manifest.webmanifest', '/icon.svg'];

@@ -65,6 +65,12 @@ export function getFestivalCalendar(locale: Locale): FestivalCalendarMonth[] {
   return calendar;
 }
 
+/** Festival keys a temple celebrates (detected from its English prose). */
+export function festivalKeysForTemple(id: string): string[] {
+  const en = getTemple('en', id);
+  return en ? detectFestivals(en.sections?.festivals) : [];
+}
+
 /** The temples that celebrate a single festival, in the requested locale. */
 export function getFestivalTemples(locale: Locale, key: string): Temple[] {
   if (!FESTIVAL_BY_KEY[key]) return [];

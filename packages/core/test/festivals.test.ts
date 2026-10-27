@@ -5,10 +5,14 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
   FESTIVALS,
+  FESTIVAL_BY_KEY,
+  FESTIVAL_DATES,
   MONTH_BY_KEY,
   TAMIL_MONTHS,
   currentTamilMonthKey,
   detectFestivals,
+  formatFestivalDate,
+  nextFestivalDate,
   nextTamilMonthKey,
 } from '../src/festivals.ts';
 
@@ -68,6 +72,34 @@ test('currentTamilMonthKey maps Gregorian dates to the right Tamil month', () =>
 test('nextTamilMonthKey wraps in calendar order', () => {
   assert.equal(nextTamilMonthKey('chithirai'), 'vaikasi');
   assert.equal(nextTamilMonthKey('panguni'), 'chithirai');
+});
+
+test('FESTIVAL_DATES are valid, ascending ISO dates for known festivals', () => {
+  const iso = /^\d{4}-\d{2}-\d{2}$/;
+  for (const [key, dates] of Object.entries(FESTIVAL_DATES)) {
+    assert.ok(FESTIVAL_BY_KEY[key], `FESTIVAL_DATES has unknown festival ${key}`);
+    assert.ok(dates.length > 0, `${key} has no dates`);
+    for (const d of dates) {
+      assert.match(d, iso, `${key} has malformed date ${d}`);
+      assert.ok(!Number.isNaN(Date.parse(d)), `${key} has invalid date ${d}`);
+    }
+    const sorted = [...dates].sort();
+    assert.deepEqual(dates, sorted, `${key} dates are not ascending`);
+  }
+});
+
+test('nextFestivalDate returns the first date on or after the given day', () => {
+  // maha-shivaratri: ['2027-03-06', '2028-02-23']
+  assert.equal(nextFestivalDate('maha-shivaratri', new Date(2026, 0, 1)), '2027-03-06');
+  assert.equal(nextFestivalDate('maha-shivaratri', new Date(2027, 2, 6)), '2027-03-06'); // same day
+  assert.equal(nextFestivalDate('maha-shivaratri', new Date(2027, 2, 7)), '2028-02-23');
+  assert.equal(nextFestivalDate('maha-shivaratri', new Date(2030, 0, 1)), undefined); // all past
+  assert.equal(nextFestivalDate('no-such-festival', new Date(2026, 0, 1)), undefined);
+});
+
+test('formatFestivalDate renders a human, locale-independent date', () => {
+  assert.equal(formatFestivalDate('2027-03-06'), '6 Mar 2027');
+  assert.equal(formatFestivalDate('2026-11-24'), '24 Nov 2026');
 });
 
 test('detectFestivals is case-insensitive and substring-based', () => {

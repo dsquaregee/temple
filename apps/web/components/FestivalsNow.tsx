@@ -12,7 +12,7 @@ export interface MonthSummary {
   key: string;
   name: string;
   gregorian: string;
-  festivals: { key: string; name: string; count: number }[];
+  festivals: { key: string; name: string; count: number; date?: string }[];
 }
 
 // "What's on now": the festivals of the current Tamil month (or the next month
@@ -70,6 +70,7 @@ export function FestivalsNow({
           >
             <h3>{f.name}</h3>
             <div className="meta">
+              {f.date ? `${f.date} · ` : ''}
               {f.count} {ui.festivals.temples}
             </div>
           </a>
