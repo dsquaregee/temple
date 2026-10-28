@@ -159,156 +159,24 @@ export function DiscoverExplorer({
   }, []);
   const [userLoc, setUserLoc] = useState<LatLng | null>(null);
   const [nearby, setNearby] = useState(false);
-  const [geoStatus, setGeoStatus] = useState<'idle' | 'locating' | 'error'>('idle');
-  // When the visitor picks a city instead of sharing GPS, its name (for the
-  // "from <city>" note); empty when ranking from the device location.
+  // "Nearby" is city-based: the visitor picks the city they're travelling from
+  // and the catalogue is ranked by distance from there. No device geolocation,
+  // no permission prompts — so it works the same on every phone and browser.
   const [originCity, setOriginCity] = useState('');
-  // A short explainer shown before the browser's own permission prompt ("prime"),
-  // or actionable help when the browser has blocked location ("blocked").
-  const [geoPanel, setGeoPanel] = useState<'none' | 'prime' | 'blocked'>('none');
-  // Browser permission state, when the Permissions API is available (not Safari
-  // < 16): lets us skip the explainer when already granted and show the
-  // unblock-help when denied, instead of a silent failure.
-  const geoPerm = useRef<'granted' | 'prompt' | 'denied' | 'unknown'>('unknown');
-  useEffect(() => {
-    const perms = typeof navigator !== 'undefined' ? navigator.permissions : undefined;
-    if (!perms?.query) return;
-    perms
-      .query({ name: 'geolocation' as PermissionName })
-      .then((s) => {
-        geoPerm.current = s.state as typeof geoPerm.current;
-        s.onchange = () => {
-          geoPerm.current = s.state as typeof geoPerm.current;
-        };
-      })
-      .catch(() => {});
-  }, []);
 
-  // Whether the app is running as an installed PWA (standalone) — the unblock
-  // steps differ: an installed app has no address-bar lock icon, so location is
-  // re-enabled from the device's app settings, not the browser.
-  const [isStandalone, setIsStandalone] = useState(false);
-  useEffect(() => {
-    try {
-      const standalone =
-        window.matchMedia?.('(display-mode: standalone)').matches ||
-        // iOS Safari home-screen apps.
-        (navigator as unknown as { standalone?: boolean }).standalone === true;
-      setIsStandalone(!!standalone);
-    } catch {
-      /* ignore */
-    }
-  }, []);
-
-  // Deep link from the Home "Temples near you" shortcut: open the explainer so
-  // the visitor can grant location (or pick a city) with one tap.
-  useEffect(() => {
-    try {
-      if (new URLSearchParams(window.location.search).get('near') === '1') {
-        setGeoPanel('prime');
-      }
-    } catch {
-      /* ignore */
-    }
-  }, []);
-
-  // Last granted position, so a return visit shows nearby instantly with no spinner
-  // and no second prompt. Stored only on this device.
-  const GEO_KEY = 'temple:geo:v1';
-  const readCachedLoc = (): LatLng | null => {
-    try {
-      const raw = localStorage.getItem(GEO_KEY);
-      if (!raw) return null;
-      const o = JSON.parse(raw);
-      if (typeof o.lat === 'number' && typeof o.lng === 'number') return { lat: o.lat, lng: o.lng };
-    } catch {
-      /* ignore */
-    }
-    return null;
-  };
-
-  // Actually ask the browser for the device location (triggers the native prompt
-  // when permission is still "prompt"). Called from the explainer's button, or
-  // directly when permission is already granted.
-  const requestLocation = useCallback(() => {
-    setGeoPanel('none');
-    if (typeof navigator === 'undefined' || !('geolocation' in navigator)) {
-      setGeoStatus('error');
-      return;
-    }
-    setGeoStatus('locating');
-    loadCoords();
-    loadCatalog();
-    navigator.geolocation.getCurrentPosition(
-      (pos) => {
-        const loc = { lat: pos.coords.latitude, lng: pos.coords.longitude };
-        setUserLoc(loc);
-        setNearby(true);
-        setOriginCity('');
-        setGeoStatus('idle');
-        geoPerm.current = 'granted';
-        try {
-          localStorage.setItem(GEO_KEY, JSON.stringify({ ...loc, ts: Date.now() }));
-        } catch {
-          /* ignore */
-        }
-      },
-      (err) => {
-        setGeoStatus('error');
-        setNearby(false);
-        if (err && err.code === err.PERMISSION_DENIED) {
-          geoPerm.current = 'denied';
-          setGeoPanel('blocked');
-        }
-      },
-      { enableHighAccuracy: false, timeout: 10000, maximumAge: 300000 },
-    );
-  }, [loadCoords, loadCatalog]);
-
-  // The "Near me" chip entry point. Toggles off if on; otherwise routes through
-  // the explainer / unblock-help / cached-location fast paths.
-  const onNearMe = useCallback(() => {
-    if (nearby) {
-      setNearby(false);
-      setGeoPanel('none');
-      setOriginCity('');
-      return;
-    }
-    if (typeof navigator === 'undefined' || !('geolocation' in navigator)) {
-      setGeoStatus('error');
-      return;
-    }
-    if (geoPerm.current === 'denied') {
-      setGeoPanel('blocked');
-      return;
-    }
-    if (geoPerm.current === 'granted') {
-      // Show the last location instantly (if any), then refresh silently.
-      const cached = readCachedLoc();
-      if (cached) {
-        setUserLoc(cached);
-        setNearby(true);
-        loadCoords();
-        loadCatalog();
-      }
-      requestLocation();
-      return;
-    }
-    // "prompt" or unknown → explain first, so the native prompt isn't a surprise.
-    setGeoPanel('prime');
-  }, [nearby, requestLocation, loadCoords, loadCatalog]);
-
-  // Fallback: rank by distance from a chosen city instead of the device — for
-  // visitors who won't share GPS or whose browser blocks it. No prompt involved.
   const chooseCity = useCallback(
     (name: string) => {
       const city = ORIGIN_CITY_BY_NAME[name];
-      if (!city) return;
+      if (!city) {
+        // "" selected → clear the city ranking.
+        setNearby(false);
+        setOriginCity('');
+        setUserLoc(null);
+        return;
+      }
       setUserLoc({ lat: city.lat, lng: city.lng });
       setOriginCity(city.name);
       setNearby(true);
-      setGeoPanel('none');
-      setGeoStatus('idle');
       loadCoords();
       loadCatalog();
     },
@@ -337,7 +205,7 @@ export function DiscoverExplorer({
     if (nearby) loadCoords();
   }, [nearby, loadCoords]);
   const base = filtersActive && catalog ? catalog : initial;
-  const loading = (filtersActive && !catalog) || geoStatus === 'locating' || (nearby && !coords);
+  const loading = (filtersActive && !catalog) || (nearby && !coords);
 
   const filtered = useMemo(
     () =>
@@ -355,7 +223,7 @@ export function DiscoverExplorer({
 
   const nearbyReady = nearby && userLoc !== null && coords !== null;
 
-  // Distance (km) from the device to each filtered temple, when "Near me" is on.
+  // Distance (km) from the chosen city to each filtered temple, when a city is set.
   const distById = useMemo(() => {
     if (!nearbyReady) return null;
     const m: Record<string, number> = {};
@@ -393,9 +261,8 @@ export function DiscoverExplorer({
     setSavedOnly(false);
     setSort('featured');
     setNearby(false);
-    setGeoStatus('idle');
-    setGeoPanel('none');
     setOriginCity('');
+    setUserLoc(null);
   }
 
   // Labels for the collapsed accordion headers and the active-filter chips.
@@ -405,34 +272,28 @@ export function DiscoverExplorer({
   const anyFacetActive =
     circuit !== 'all' || region !== 'all' || era !== 'all' || unescoOnly || savedOnly || nearby;
 
-  // The zero-permission fallback: rank from a chosen city. Shared by both geo panels.
-  const citySelect = (
-    <label className="geopanel__city">
-      {d.orChooseCity}
-      <select value="" onChange={(e) => chooseCity(e.target.value)} aria-label={d.chooseCity}>
-        <option value="" disabled>
-          {d.chooseCity}
-        </option>
-        {ORIGIN_CITIES.map((c) => (
-          <option key={c.name} value={c.name}>
-            {c.name}
-          </option>
-        ))}
-      </select>
-    </label>
-  );
-
   return (
     <div className="discover">
-      <button
-        type="button"
-        className={nearby ? 'nearme-cta is-active' : 'nearme-cta'}
-        aria-pressed={nearby}
-        onClick={onNearMe}
-      >
-        <span aria-hidden="true">📍</span>{' '}
-        {nearby && originCity ? `${d.templesNearYou} · ${originCity}` : d.templesNearYou}
-      </button>
+      {/* Nearby, city-first: pick the city you're travelling from and temples
+          rank by distance. No location permission — works on every device. */}
+      <label className="nearcity">
+        <span className="nearcity__label">
+          <span aria-hidden="true">📍</span> {d.templesNearYou}
+        </span>
+        <select
+          className="nearcity__select"
+          value={originCity}
+          onChange={(e) => chooseCity(e.target.value)}
+          aria-label={d.templesNearYou}
+        >
+          <option value="">{d.chooseCity}</option>
+          {ORIGIN_CITIES.map((c) => (
+            <option key={c.name} value={c.name}>
+              {c.name}
+            </option>
+          ))}
+        </select>
+      </label>
 
       <input
         type="search"
@@ -450,54 +311,13 @@ export function DiscoverExplorer({
         aria-label={d.searchPlaceholder}
       />
 
-      {geoPanel === 'prime' && (
-        <div className="geopanel" role="group" aria-label={d.nearMe}>
-          <p className="geopanel__why">{d.nearMeWhy}</p>
-          <div className="geopanel__actions">
-            <button type="button" className="geobtn geobtn--primary" onClick={requestLocation}>
-              📍 {d.useMyLocation}
-            </button>
-            <button type="button" className="geobtn" onClick={() => setGeoPanel('none')}>
-              {d.notNow}
-            </button>
-          </div>
-          {citySelect}
-        </div>
-      )}
-
-      {geoPanel === 'blocked' && (
-        <div className="geopanel" role="group" aria-label={d.locationBlocked}>
-          <p className="geopanel__why">
-            <strong>{d.locationBlocked}</strong>
-          </p>
-          {/* Zero-permission path first — no settings hunt required. */}
-          {citySelect}
-          <p className="geopanel__steps muted">
-            {isStandalone ? d.locationBlockedHowApp : d.locationBlockedHow}
-          </p>
-          <div className="geopanel__actions">
-            <button type="button" className="geobtn geobtn--primary" onClick={requestLocation}>
-              {d.nearMe}
-            </button>
-            <button type="button" className="geobtn" onClick={() => setGeoPanel('none')}>
-              {d.notNow}
-            </button>
-          </div>
-        </div>
-      )}
-
       {/* Result count + sort + clear — always visible so the page leads with
           results, not a wall of filters. */}
       <div className="discover-controls">
         <span className="results-count" aria-live="polite">
           {filtersActive ? results.length : total} {d.results}
           {nearby && originCity && <span className="muted"> · {originCity}</span>}
-          {loading && (
-            <span className="muted"> · {geoStatus === 'locating' ? d.locating : d.loading}</span>
-          )}
-          {geoStatus === 'error' && geoPanel !== 'blocked' && (
-            <span className="muted"> · {d.locationError}</span>
-          )}
+          {loading && <span className="muted"> · {d.loading}</span>}
         </span>
         <label className="sortctl">
           <span className="sortctl__label">{d.sort}</span>
@@ -520,9 +340,13 @@ export function DiscoverExplorer({
           opening the panels below. */}
       {anyFacetActive && (
         <div className="activefilters">
-          {nearby && (
-            <button type="button" className="afchip" onClick={() => { setNearby(false); setOriginCity(''); }}>
-              📍 {originCity || d.nearMe} <span aria-hidden="true">✕</span>
+          {nearby && originCity && (
+            <button
+              type="button"
+              className="afchip"
+              onClick={() => { setNearby(false); setOriginCity(''); setUserLoc(null); }}
+            >
+              📍 {originCity} <span aria-hidden="true">✕</span>
             </button>
           )}
           {circuit !== 'all' && (

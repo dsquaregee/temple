@@ -58,7 +58,9 @@
 // no more "address-bar lock icon") — purge so visitors get the right steps.
 // v32: blocked-location help no longer claims one exact device path (varies by
 // phone/version); it points to the no-permission city picker — purge.
-const VERSION = 'v32';
+// v33: Nearby is now city-first (GPS/location-permission flow removed) — a single
+// "Temples near <city>" picker, no prompts. Purge for the new control.
+const VERSION = 'v33';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
