@@ -83,15 +83,25 @@ export default function TempleDetail({
   if (!temple) notFound();
   const ui = t(locale);
 
-  // Related: fellow stops on shared circuits, then others of the same dynasty.
+  // Related temples, ranked by how much they share with this one: the same deity
+  // (a devotee of Shiva/Murugan/Vishnu wants the next shrine to the same god),
+  // then shared pilgrimage circuits, then being in the same town/region, then the
+  // same dynasty. Scoring beats catalog order so the picks are genuinely relevant.
   const related = getTemples(locale)
     .filter((other) => other.id !== temple.id)
-    .filter(
-      (other) =>
-        other.circuits.some((c) => temple.circuits.includes(c)) ||
-        other.dynasty === temple.dynasty
-    )
-    .slice(0, 4);
+    .map((other) => {
+      let score = 0;
+      if (other.deity === temple.deity) score += 5;
+      score += other.circuits.filter((c) => temple.circuits.includes(c)).length * 3;
+      if (other.location.city === temple.location.city) score += 3;
+      else if (other.location.state === temple.location.state) score += 1;
+      if (other.dynasty === temple.dynasty) score += 1;
+      return { other, score };
+    })
+    .filter((x) => x.score > 0)
+    .sort((a, b) => b.score - a.score || a.other.name.localeCompare(b.other.name, locale))
+    .slice(0, 6)
+    .map((x) => x.other);
 
   const memberCircuits = temple.circuits
     .map((c) => getCircuit(locale, c))

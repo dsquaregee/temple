@@ -164,6 +164,7 @@ export function DiscoverExplorer({
   // no permission prompts — so it works the same on every phone and browser.
   const [originCity, setOriginCity] = useState('');
 
+  const CITY_KEY = 'temple:city:v1';
   const chooseCity = useCallback(
     (name: string) => {
       const city = ORIGIN_CITY_BY_NAME[name];
@@ -172,6 +173,11 @@ export function DiscoverExplorer({
         setNearby(false);
         setOriginCity('');
         setUserLoc(null);
+        try {
+          localStorage.removeItem(CITY_KEY);
+        } catch {
+          /* ignore */
+        }
         return;
       }
       setUserLoc({ lat: city.lat, lng: city.lng });
@@ -179,9 +185,26 @@ export function DiscoverExplorer({
       setNearby(true);
       loadCoords();
       loadCatalog();
+      try {
+        localStorage.setItem(CITY_KEY, city.name);
+      } catch {
+        /* ignore */
+      }
     },
     [loadCoords, loadCatalog],
   );
+
+  // Remember the last-picked city: a returning visitor lands straight on temples
+  // ranked from their city, no re-selection needed. Runs once after mount.
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem(CITY_KEY);
+      if (saved && ORIGIN_CITY_BY_NAME[saved]) chooseCity(saved);
+    } catch {
+      /* ignore */
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const { ids: savedIds, ready: favReady } = useFavorites();
 
