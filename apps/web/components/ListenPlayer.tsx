@@ -80,6 +80,46 @@ export function ListenPlayer({
     else el.pause();
   }, []);
 
+  // Lock-screen / background playback controls (Media Session API): shows the
+  // temple name + app art on the device's lock screen and media notification,
+  // and wires its play/pause/next/previous buttons to the playlist. Narration
+  // then behaves like a podcast — it keeps playing with the screen off. Degrades
+  // silently where unsupported.
+  useEffect(() => {
+    const ms = typeof navigator !== 'undefined' ? navigator.mediaSession : undefined;
+    if (!ms || !current) return;
+    try {
+      ms.metadata = new MediaMetadata({
+        title: current.name,
+        artist: current.nativeName,
+        album: ui.appName,
+        artwork: [
+          { src: '/icon-192.png', sizes: '192x192', type: 'image/png' },
+          { src: '/icon-512.png', sizes: '512x512', type: 'image/png' },
+        ],
+      });
+      ms.setActionHandler('play', () => toggle());
+      ms.setActionHandler('pause', () => toggle());
+      ms.setActionHandler('previoustrack', ready.length > 1 ? () => step(-1) : null);
+      ms.setActionHandler('nexttrack', ready.length > 1 ? () => step(1) : null);
+      ms.setActionHandler('seekto', (e) => {
+        const el = audioRef.current;
+        if (el && typeof e.seekTime === 'number') {
+          el.currentTime = e.seekTime;
+          setElapsed(e.seekTime);
+        }
+      });
+    } catch {
+      /* unsupported action / metadata — ignore */
+    }
+  }, [current?.id, ready.length, ui.appName, toggle, step]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Reflect play/pause state on the lock-screen control.
+  useEffect(() => {
+    const ms = typeof navigator !== 'undefined' ? navigator.mediaSession : undefined;
+    if (ms) ms.playbackState = playing ? 'playing' : 'paused';
+  }, [playing]);
+
   const onSeek = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
     const el = audioRef.current;
     if (!el) return;
@@ -199,7 +239,18 @@ export function ListenPlayer({
               onPlay={() => setPlaying(true)}
               onPause={() => setPlaying(false)}
               onTimeUpdate={(e) => setElapsed(e.currentTarget.currentTime)}
-              onLoadedMetadata={(e) => setDuration(e.currentTarget.duration)}
+              onLoadedMetadata={(e) => {
+                const dur = e.currentTarget.duration;
+                setDuration(dur);
+                const ms = typeof navigator !== 'undefined' ? navigator.mediaSession : undefined;
+                if (ms && Number.isFinite(dur) && dur > 0) {
+                  try {
+                    ms.setPositionState({ duration: dur, position: 0 });
+                  } catch {
+                    /* ignore */
+                  }
+                }
+              }}
               onEnded={() => step(1)}
             />
           </div>

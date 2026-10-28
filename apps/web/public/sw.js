@@ -60,7 +60,9 @@
 // phone/version); it points to the no-permission city picker — purge.
 // v33: Nearby is now city-first (GPS/location-permission flow removed) — a single
 // "Temples near <city>" picker, no prompts. Purge for the new control.
-const VERSION = 'v33';
+// v34: lock-screen / background audio controls on the Listen player (Media
+// Session API) — purge so returning visitors get the updated player.
+const VERSION = 'v34';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
