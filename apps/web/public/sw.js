@@ -46,7 +46,9 @@
 // page. Purge so returning visitors get the new pages and SW handlers.
 // v26: festival push reminders enabled (push Worker live) — the Festivals tab now
 // renders the "Remind me" opt-in. Purge so returning visitors get the toggle.
-const VERSION = 'v26';
+// v27: Discover "Near me" now shows a permission explainer + unblock help and
+// remembers the last location — purge so returning visitors get the new flow.
+const VERSION = 'v27';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
