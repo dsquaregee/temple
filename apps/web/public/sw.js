@@ -52,7 +52,9 @@
 // GPS is unavailable) — purge so returning visitors get it.
 // v29: "Near me" promoted to a prominent CTA on Home + top of Discover, and the
 // blocked-location help adapts to installed-app vs browser — purge for the new UI.
-const VERSION = 'v29';
+// v30: Discover filters redesigned as a collapsible accordion with removable
+// active-filter chips; blocked-location panel leads with the city picker — purge.
+const VERSION = 'v30';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

@@ -58,15 +58,6 @@ function FilterChip({
   );
 }
 
-function Facet({ label, children }: { label: string; children: ReactNode }) {
-  return (
-    <div className="facet">
-      <span className="facet__label">{label}</span>
-      {children}
-    </div>
-  );
-}
-
 // Client-side search + faceted filtering for the Discover tab. The page ships
 // only its own slice of cards (`initial`); the first time a visitor searches,
 // filters or re-sorts, the whole locale catalogue is fetched once
@@ -407,6 +398,30 @@ export function DiscoverExplorer({
     setOriginCity('');
   }
 
+  // Labels for the collapsed accordion headers and the active-filter chips.
+  const circuitName =
+    circuit === 'all' ? d.all : circuits.find((c) => c.id === circuit)?.name ?? d.all;
+  const eraLabel = era === 'all' ? d.all : d[ERA_KEY[era]];
+  const anyFacetActive =
+    circuit !== 'all' || region !== 'all' || era !== 'all' || unescoOnly || savedOnly || nearby;
+
+  // The zero-permission fallback: rank from a chosen city. Shared by both geo panels.
+  const citySelect = (
+    <label className="geopanel__city">
+      {d.orChooseCity}
+      <select value="" onChange={(e) => chooseCity(e.target.value)} aria-label={d.chooseCity}>
+        <option value="" disabled>
+          {d.chooseCity}
+        </option>
+        {ORIGIN_CITIES.map((c) => (
+          <option key={c.name} value={c.name}>
+            {c.name}
+          </option>
+        ))}
+      </select>
+    </label>
+  );
+
   return (
     <div className="discover">
       <button
@@ -435,81 +450,6 @@ export function DiscoverExplorer({
         aria-label={d.searchPlaceholder}
       />
 
-      {circuits.length > 0 && (
-        <Facet label={d.circuit}>
-          <FilterChip active={circuit === 'all'} onClick={() => setCircuit('all')}>
-            {d.all}
-          </FilterChip>
-          {circuits.map((c) => (
-            <FilterChip
-              key={c.id}
-              active={circuit === c.id}
-              onClick={() => setCircuit(c.id)}
-            >
-              {c.name}
-            </FilterChip>
-          ))}
-        </Facet>
-      )}
-
-      {regions.length > 1 && (
-        <Facet label={d.region}>
-          <FilterChip active={region === 'all'} onClick={() => setRegion('all')}>
-            {d.all}
-          </FilterChip>
-          {regions.map((r) => (
-            <FilterChip key={r} active={region === r} onClick={() => setRegion(r)}>
-              {r}
-            </FilterChip>
-          ))}
-        </Facet>
-      )}
-
-      <Facet label={d.era}>
-        <FilterChip active={era === 'all'} onClick={() => setEra('all')}>
-          {d.all}
-        </FilterChip>
-        {ERAS.map((e) => (
-          <FilterChip key={e} active={era === e} onClick={() => setEra(e)}>
-            {d[ERA_KEY[e]]}
-          </FilterChip>
-        ))}
-      </Facet>
-
-      <Facet label={d.sort}>
-        {SORTS.map((s) => (
-          <FilterChip key={s} active={sort === s} onClick={() => setSort(s)}>
-            {d[SORT_KEY[s]]}
-          </FilterChip>
-        ))}
-      </Facet>
-
-      <div className="filterbar">
-        <FilterChip active={unescoOnly} onClick={() => setUnescoOnly((v) => !v)}>
-          {d.unescoOnly}
-        </FilterChip>
-        {favReady && savedIds.length > 0 && (
-          <FilterChip active={savedOnly} onClick={() => setSavedOnly((v) => !v)}>
-            ★ {t(locale).favorites.saved}
-          </FilterChip>
-        )}
-        <span className="results-count" aria-live="polite">
-          {filtersActive ? results.length : total} {d.results}
-          {nearby && originCity && <span className="muted"> · {originCity}</span>}
-          {loading && (
-            <span className="muted"> · {geoStatus === 'locating' ? d.locating : d.loading}</span>
-          )}
-          {geoStatus === 'error' && geoPanel !== 'blocked' && (
-            <span className="muted"> · {d.locationError}</span>
-          )}
-        </span>
-        {filtersActive && (
-          <button type="button" className="clearbtn" onClick={reset}>
-            {d.clear}
-          </button>
-        )}
-      </div>
-
       {geoPanel === 'prime' && (
         <div className="geopanel" role="group" aria-label={d.nearMe}>
           <p className="geopanel__why">{d.nearMeWhy}</p>
@@ -521,31 +461,18 @@ export function DiscoverExplorer({
               {d.notNow}
             </button>
           </div>
-          <label className="geopanel__city">
-            {d.orChooseCity}
-            <select
-              value=""
-              onChange={(e) => chooseCity(e.target.value)}
-              aria-label={d.chooseCity}
-            >
-              <option value="" disabled>
-                {d.chooseCity}
-              </option>
-              {ORIGIN_CITIES.map((c) => (
-                <option key={c.name} value={c.name}>
-                  {c.name}
-                </option>
-              ))}
-            </select>
-          </label>
+          {citySelect}
         </div>
       )}
 
       {geoPanel === 'blocked' && (
-        <div className="geopanel" role="alert">
+        <div className="geopanel" role="group" aria-label={d.locationBlocked}>
           <p className="geopanel__why">
             <strong>{d.locationBlocked}</strong>
-            <br />
+          </p>
+          {/* Zero-permission path first — no settings hunt required. */}
+          {citySelect}
+          <p className="geopanel__steps muted">
             {isStandalone ? d.locationBlockedHowApp : d.locationBlockedHow}
           </p>
           <div className="geopanel__actions">
@@ -556,25 +483,156 @@ export function DiscoverExplorer({
               {d.notNow}
             </button>
           </div>
-          <label className="geopanel__city">
-            {d.orChooseCity}
-            <select
-              value=""
-              onChange={(e) => chooseCity(e.target.value)}
-              aria-label={d.chooseCity}
-            >
-              <option value="" disabled>
-                {d.chooseCity}
-              </option>
-              {ORIGIN_CITIES.map((c) => (
-                <option key={c.name} value={c.name}>
-                  {c.name}
-                </option>
-              ))}
-            </select>
-          </label>
         </div>
       )}
+
+      {/* Result count + sort + clear — always visible so the page leads with
+          results, not a wall of filters. */}
+      <div className="discover-controls">
+        <span className="results-count" aria-live="polite">
+          {filtersActive ? results.length : total} {d.results}
+          {nearby && originCity && <span className="muted"> · {originCity}</span>}
+          {loading && (
+            <span className="muted"> · {geoStatus === 'locating' ? d.locating : d.loading}</span>
+          )}
+          {geoStatus === 'error' && geoPanel !== 'blocked' && (
+            <span className="muted"> · {d.locationError}</span>
+          )}
+        </span>
+        <label className="sortctl">
+          <span className="sortctl__label">{d.sort}</span>
+          <select value={sort} onChange={(e) => setSort(e.target.value as SortKey)}>
+            {SORTS.map((s) => (
+              <option key={s} value={s}>
+                {d[SORT_KEY[s]]}
+              </option>
+            ))}
+          </select>
+        </label>
+        {filtersActive && (
+          <button type="button" className="clearbtn" onClick={reset}>
+            {d.clear}
+          </button>
+        )}
+      </div>
+
+      {/* Active filters as removable chips, so what's applied is visible without
+          opening the panels below. */}
+      {anyFacetActive && (
+        <div className="activefilters">
+          {nearby && (
+            <button type="button" className="afchip" onClick={() => { setNearby(false); setOriginCity(''); }}>
+              📍 {originCity || d.nearMe} <span aria-hidden="true">✕</span>
+            </button>
+          )}
+          {circuit !== 'all' && (
+            <button type="button" className="afchip" onClick={() => setCircuit('all')}>
+              {circuitName} <span aria-hidden="true">✕</span>
+            </button>
+          )}
+          {region !== 'all' && (
+            <button type="button" className="afchip" onClick={() => setRegion('all')}>
+              {region} <span aria-hidden="true">✕</span>
+            </button>
+          )}
+          {era !== 'all' && (
+            <button type="button" className="afchip" onClick={() => setEra('all')}>
+              {eraLabel} <span aria-hidden="true">✕</span>
+            </button>
+          )}
+          {unescoOnly && (
+            <button type="button" className="afchip" onClick={() => setUnescoOnly(false)}>
+              {d.unescoOnly} <span aria-hidden="true">✕</span>
+            </button>
+          )}
+          {savedOnly && (
+            <button type="button" className="afchip" onClick={() => setSavedOnly(false)}>
+              ★ {t(locale).favorites.saved} <span aria-hidden="true">✕</span>
+            </button>
+          )}
+        </div>
+      )}
+
+      {/* Collapsible facets — native <details>, keyboard-accessible, no-JS safe.
+          Collapsed by default so the long circuit/region lists don't bury the
+          results; each header shows the current selection. */}
+      <div className="facets">
+        {circuits.length > 0 && (
+          <details className="facetgroup">
+            <summary>
+              <span className="facetgroup__label">{d.circuit}</span>
+              <span className="facetgroup__value">{circuitName}</span>
+            </summary>
+            <div className="facetgroup__body">
+              <FilterChip active={circuit === 'all'} onClick={() => setCircuit('all')}>
+                {d.all}
+              </FilterChip>
+              {circuits.map((c) => (
+                <FilterChip key={c.id} active={circuit === c.id} onClick={() => setCircuit(c.id)}>
+                  {c.name}
+                </FilterChip>
+              ))}
+            </div>
+          </details>
+        )}
+
+        {regions.length > 1 && (
+          <details className="facetgroup">
+            <summary>
+              <span className="facetgroup__label">{d.region}</span>
+              <span className="facetgroup__value">{region === 'all' ? d.all : region}</span>
+            </summary>
+            <div className="facetgroup__body">
+              <FilterChip active={region === 'all'} onClick={() => setRegion('all')}>
+                {d.all}
+              </FilterChip>
+              {regions.map((r) => (
+                <FilterChip key={r} active={region === r} onClick={() => setRegion(r)}>
+                  {r}
+                </FilterChip>
+              ))}
+            </div>
+          </details>
+        )}
+
+        <details className="facetgroup">
+          <summary>
+            <span className="facetgroup__label">{d.era}</span>
+            <span className="facetgroup__value">{eraLabel}</span>
+          </summary>
+          <div className="facetgroup__body">
+            <FilterChip active={era === 'all'} onClick={() => setEra('all')}>
+              {d.all}
+            </FilterChip>
+            {ERAS.map((e) => (
+              <FilterChip key={e} active={era === e} onClick={() => setEra(e)}>
+                {d[ERA_KEY[e]]}
+              </FilterChip>
+            ))}
+          </div>
+        </details>
+
+        <details className="facetgroup">
+          <summary>
+            <span className="facetgroup__label">{d.unescoOnly}</span>
+            <span className="facetgroup__value">
+              {[unescoOnly ? d.unescoOnly : null, savedOnly ? t(locale).favorites.saved : null]
+                .filter(Boolean)
+                .join(', ') || d.all}
+            </span>
+          </summary>
+          <div className="facetgroup__body">
+            <FilterChip active={unescoOnly} onClick={() => setUnescoOnly((v) => !v)}>
+              {d.unescoOnly}
+            </FilterChip>
+            {favReady && savedIds.length > 0 && (
+              <FilterChip active={savedOnly} onClick={() => setSavedOnly((v) => !v)}>
+                ★ {t(locale).favorites.saved}
+              </FilterChip>
+            )}
+          </div>
+        </details>
+      </div>
 
       {results.length > 0 ? (
         <div className="grid">
