@@ -11,11 +11,11 @@
 // is a PUBLIC key and safe to ship; its private counterpart lives only as the
 // Worker secret VAPID_PRIVATE_D.
 export const PUSH = {
-  // Flip to true once the push Worker is live (see runbook).
-  enabled: false,
-  // The push Worker's base URL (no trailing slash). Default assumes the Worker
-  // is routed at push.dsquaregee.com; change if you use the workers.dev URL.
-  endpoint: 'https://push.dsquaregee.com',
+  // Live: the push Worker (infra/push-worker) is deployed with its KV namespace
+  // and VAPID secret set (2026-10-28).
+  enabled: true,
+  // The push Worker's base URL (no trailing slash) — the deployed workers.dev URL.
+  endpoint: 'https://temple-push.dsquaregee.workers.dev',
   // VAPID public key (P-256 uncompressed point, base64url). Generated 2026-10-28.
   vapidPublicKey: 'BD123nEay6oQMUxDt4KOyNlS8yNIbcNd47wfte25qqsAOK8MahPmjmiI6-etDCZe5aGEsWFWYo8i7CS47GokE0M',
 } as const;
