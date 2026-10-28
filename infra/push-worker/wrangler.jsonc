@@ -1,0 +1,33 @@
+{
+  // Festival-reminder push Worker. SEPARATE from the main `temple` static-assets
+  // site, so it can never break the site deploy. Deploy from this directory with
+  // `npx wrangler deploy` after creating the KV namespace and setting the VAPID
+  // secret — see docs/push-notifications.md.
+  "name": "temple-push",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-11-01",
+  // Daily check for festivals coming up within the lead window; sends at most one
+  // notification per festival (deduped in KV). 02:30 UTC ≈ 08:00 IST.
+  "triggers": {
+    "crons": ["30 2 * * *"]
+  },
+  "kv_namespaces": [
+    {
+      "binding": "SUBS",
+      // Replace with the id printed by:
+      //   npx wrangler kv namespace create SUBS
+      "id": "REPLACE_WITH_KV_NAMESPACE_ID"
+    }
+  ],
+  "vars": {
+    // VAPID public key (safe to ship). Must match apps/web/lib/push-config.ts.
+    "VAPID_PUBLIC": "BD123nEay6oQMUxDt4KOyNlS8yNIbcNd47wfte25qqsAOK8MahPmjmiI6-etDCZe5aGEsWFWYo8i7CS47GokE0M",
+    "VAPID_SUBJECT": "mailto:support@dsquaregee.com",
+    // Allowed browser origin for CORS on /subscribe (the live site).
+    "ALLOW_ORIGIN": "https://temples.dsquaregee.com",
+    // Notify this many days before a festival.
+    "LEAD_DAYS": "3"
+  }
+  // Secret (NOT in this file): set once with
+  //   npx wrangler secret put VAPID_PRIVATE_D
+}

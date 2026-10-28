@@ -9,6 +9,7 @@ import {
   FESTIVAL_DATES,
   MONTH_BY_KEY,
   TAMIL_MONTHS,
+  buildFestivalICS,
   currentTamilMonthKey,
   detectFestivals,
   formatFestivalDate,
@@ -108,4 +109,35 @@ test('detectFestivals is case-insensitive and substring-based', () => {
   ]);
   assert.deepEqual(detectFestivals(undefined), []);
   assert.deepEqual(detectFestivals('No known festival here.'), []);
+});
+
+test('buildFestivalICS produces a valid all-day VEVENT with an alarm', () => {
+  const ics = buildFestivalICS({
+    key: 'maha-shivaratri',
+    name: 'Maha Shivaratri',
+    iso: '2027-03-06',
+    url: 'https://temples.dsquaregee.com/en/festivals/maha-shivaratri/',
+    now: new Date('2026-10-28T00:00:00Z'),
+  });
+  assert.match(ics, /BEGIN:VCALENDAR/);
+  assert.match(ics, /END:VCALENDAR\r\n$/);
+  assert.match(ics, /DTSTART;VALUE=DATE:20270306/);
+  // All-day DTEND is exclusive — the day after.
+  assert.match(ics, /DTEND;VALUE=DATE:20270307/);
+  assert.match(ics, /SUMMARY:Maha Shivaratri/);
+  assert.match(ics, /BEGIN:VALARM[\s\S]*TRIGGER:-P1D[\s\S]*END:VALARM/);
+  assert.match(ics, /UID:maha-shivaratri-2027-03-06@/);
+  // CRLF line endings per RFC 5545.
+  assert.ok(ics.includes('\r\n'));
+});
+
+test('buildFestivalICS escapes text per RFC 5545', () => {
+  const ics = buildFestivalICS({
+    key: 'x',
+    name: 'A, B; C',
+    iso: '2027-01-01',
+    description: 'line1\nline2',
+  });
+  assert.ok(ics.includes('SUMMARY:A\\, B\\; C'), 'comma/semicolon escaped');
+  assert.ok(ics.includes('DESCRIPTION:line1\\nline2'), 'newline escaped');
 });

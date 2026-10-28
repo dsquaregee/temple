@@ -183,3 +183,97 @@ export function formatFestivalDate(iso: string): string {
   if (!y || !m || !d) return iso;
   return `${d} ${SHORT_MONTHS[m - 1]} ${y}`;
 }
+
+// --- Add-to-calendar (.ics) --------------------------------------------------
+// A downloadable iCalendar event for a festival's next observance, so a devotee
+// can drop it into their own calendar app (which then reminds them) — the
+// zero-backend reminder path, working on every platform. All-day event on the
+// observance date, with a one-day-before display alarm.
+
+// Escape a text value per RFC 5545 §3.3.11 (backslash, comma, semicolon, newline).
+function icsEscape(text: string): string {
+  return text
+    .replace(/\\/g, '\\\\')
+    .replace(/;/g, '\\;')
+    .replace(/,/g, '\\,')
+    .replace(/\r?\n/g, '\\n');
+}
+
+// Fold a content line to ≤75 octets per RFC 5545 §3.1 (continuations start with
+// a single space). Our values are short ASCII/transliterated, so byte ≈ char.
+function icsFold(line: string): string {
+  if (line.length <= 75) return line;
+  const parts: string[] = [];
+  let rest = line;
+  parts.push(rest.slice(0, 75));
+  rest = rest.slice(75);
+  while (rest.length > 74) {
+    parts.push(' ' + rest.slice(0, 74));
+    rest = rest.slice(74);
+  }
+  if (rest.length) parts.push(' ' + rest);
+  return parts.join('\r\n');
+}
+
+/** An ISO `YYYY-MM-DD` as the compact calendar date `YYYYMMDD`. */
+function icsDate(iso: string): string {
+  return iso.replace(/-/g, '');
+}
+
+/** The day after an ISO date, as `YYYYMMDD` (all-day DTEND is exclusive). */
+function icsNextDay(iso: string): string {
+  const [y, m, d] = iso.split('-').map(Number);
+  const dt = new Date(Date.UTC(y!, m! - 1, d! + 1));
+  return `${dt.getUTCFullYear()}${String(dt.getUTCMonth() + 1).padStart(2, '0')}${String(
+    dt.getUTCDate(),
+  ).padStart(2, '0')}`;
+}
+
+export interface FestivalICSInput {
+  key: string;
+  name: string;
+  /** Observance date, ISO `YYYY-MM-DD`. */
+  iso: string;
+  /** Absolute URL of the festival page (optional). */
+  url?: string;
+  /** Short description (optional). */
+  description?: string;
+  /** DTSTAMP source; defaults to now. */
+  now?: Date;
+}
+
+/**
+ * Build a single-event iCalendar (.ics) document for a festival observance.
+ * All-day, with a VALARM one day before. CRLF line endings per spec.
+ */
+export function buildFestivalICS(input: FestivalICSInput): string {
+  const { key, name, iso, url, description, now = new Date() } = input;
+  const stamp =
+    `${now.getUTCFullYear()}${String(now.getUTCMonth() + 1).padStart(2, '0')}` +
+    `${String(now.getUTCDate()).padStart(2, '0')}T` +
+    `${String(now.getUTCHours()).padStart(2, '0')}${String(now.getUTCMinutes()).padStart(2, '0')}` +
+    `${String(now.getUTCSeconds()).padStart(2, '0')}Z`;
+  const lines = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'PRODID:-//Temple//Festivals//EN',
+    'CALSCALE:GREGORIAN',
+    'METHOD:PUBLISH',
+    'BEGIN:VEVENT',
+    `UID:${key}-${iso}@temples.dsquaregee.com`,
+    `DTSTAMP:${stamp}`,
+    `DTSTART;VALUE=DATE:${icsDate(iso)}`,
+    `DTEND;VALUE=DATE:${icsNextDay(iso)}`,
+    `SUMMARY:${icsEscape(name)}`,
+    ...(description ? [`DESCRIPTION:${icsEscape(description)}`] : []),
+    ...(url ? [`URL:${icsEscape(url)}`] : []),
+    'BEGIN:VALARM',
+    'TRIGGER:-P1D',
+    'ACTION:DISPLAY',
+    `DESCRIPTION:${icsEscape(name)}`,
+    'END:VALARM',
+    'END:VEVENT',
+    'END:VCALENDAR',
+  ];
+  return lines.map(icsFold).join('\r\n') + '\r\n';
+}
