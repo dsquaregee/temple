@@ -616,6 +616,27 @@ a {
   outline: 2px solid var(--accent-turmeric);
   outline-offset: 1px;
 }
+.geopanel__city {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+.geopanel__city select {
+  min-height: var(--touch);
+  padding: 0 12px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--line);
+  background: var(--bg-base, var(--bg-raised));
+  color: var(--ink-body);
+  font-family: var(--font-ui);
+  font-size: 14px;
+}
 /* Compact variant floated over a Discover result card. */
 .cardwrap {
   position: relative;

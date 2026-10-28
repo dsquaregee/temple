@@ -48,7 +48,9 @@
 // renders the "Remind me" opt-in. Purge so returning visitors get the toggle.
 // v27: Discover "Near me" now shows a permission explainer + unblock help and
 // remembers the last location — purge so returning visitors get the new flow.
-const VERSION = 'v27';
+// v28: "Near me" adds a choose-a-city fallback (rank by distance from a city when
+// GPS is unavailable) — purge so returning visitors get it.
+const VERSION = 'v28';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

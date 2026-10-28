@@ -4,6 +4,8 @@ import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } fro
 import {
   ERAS,
   SORTS,
+  ORIGIN_CITIES,
+  ORIGIN_CITY_BY_NAME,
   filterTemples,
   sortTemples,
   haversineKm,
@@ -167,6 +169,9 @@ export function DiscoverExplorer({
   const [userLoc, setUserLoc] = useState<LatLng | null>(null);
   const [nearby, setNearby] = useState(false);
   const [geoStatus, setGeoStatus] = useState<'idle' | 'locating' | 'error'>('idle');
+  // When the visitor picks a city instead of sharing GPS, its name (for the
+  // "from <city>" note); empty when ranking from the device location.
+  const [originCity, setOriginCity] = useState('');
   // A short explainer shown before the browser's own permission prompt ("prime"),
   // or actionable help when the browser has blocked location ("blocked").
   const [geoPanel, setGeoPanel] = useState<'none' | 'prime' | 'blocked'>('none');
@@ -220,6 +225,7 @@ export function DiscoverExplorer({
         const loc = { lat: pos.coords.latitude, lng: pos.coords.longitude };
         setUserLoc(loc);
         setNearby(true);
+        setOriginCity('');
         setGeoStatus('idle');
         geoPerm.current = 'granted';
         try {
@@ -246,6 +252,7 @@ export function DiscoverExplorer({
     if (nearby) {
       setNearby(false);
       setGeoPanel('none');
+      setOriginCity('');
       return;
     }
     if (typeof navigator === 'undefined' || !('geolocation' in navigator)) {
@@ -271,6 +278,23 @@ export function DiscoverExplorer({
     // "prompt" or unknown → explain first, so the native prompt isn't a surprise.
     setGeoPanel('prime');
   }, [nearby, requestLocation, loadCoords, loadCatalog]);
+
+  // Fallback: rank by distance from a chosen city instead of the device — for
+  // visitors who won't share GPS or whose browser blocks it. No prompt involved.
+  const chooseCity = useCallback(
+    (name: string) => {
+      const city = ORIGIN_CITY_BY_NAME[name];
+      if (!city) return;
+      setUserLoc({ lat: city.lat, lng: city.lng });
+      setOriginCity(city.name);
+      setNearby(true);
+      setGeoPanel('none');
+      setGeoStatus('idle');
+      loadCoords();
+      loadCatalog();
+    },
+    [loadCoords, loadCatalog],
+  );
 
   const { ids: savedIds, ready: favReady } = useFavorites();
 
@@ -352,6 +376,7 @@ export function DiscoverExplorer({
     setNearby(false);
     setGeoStatus('idle');
     setGeoPanel('none');
+    setOriginCity('');
   }
 
   return (
@@ -435,6 +460,7 @@ export function DiscoverExplorer({
         )}
         <span className="results-count" aria-live="polite">
           {filtersActive ? results.length : total} {d.results}
+          {nearby && originCity && <span className="muted"> · {originCity}</span>}
           {loading && (
             <span className="muted"> · {geoStatus === 'locating' ? d.locating : d.loading}</span>
           )}
@@ -460,6 +486,23 @@ export function DiscoverExplorer({
               {d.notNow}
             </button>
           </div>
+          <label className="geopanel__city">
+            {d.orChooseCity}
+            <select
+              value=""
+              onChange={(e) => chooseCity(e.target.value)}
+              aria-label={d.chooseCity}
+            >
+              <option value="" disabled>
+                {d.chooseCity}
+              </option>
+              {ORIGIN_CITIES.map((c) => (
+                <option key={c.name} value={c.name}>
+                  {c.name}
+                </option>
+              ))}
+            </select>
+          </label>
         </div>
       )}
 
@@ -478,6 +521,23 @@ export function DiscoverExplorer({
               {d.notNow}
             </button>
           </div>
+          <label className="geopanel__city">
+            {d.orChooseCity}
+            <select
+              value=""
+              onChange={(e) => chooseCity(e.target.value)}
+              aria-label={d.chooseCity}
+            >
+              <option value="" disabled>
+                {d.chooseCity}
+              </option>
+              {ORIGIN_CITIES.map((c) => (
+                <option key={c.name} value={c.name}>
+                  {c.name}
+                </option>
+              ))}
+            </select>
+          </label>
         </div>
       )}
 
