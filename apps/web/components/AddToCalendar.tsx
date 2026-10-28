@@ -1,6 +1,7 @@
 'use client';
 
 import { buildFestivalICS, t, type Locale } from '@temple/core';
+import { track } from '@/lib/analytics';
 
 // "Add to calendar" — downloads a one-event .ics for a festival's next
 // observance, which the visitor's own calendar app then reminds them about. No
@@ -33,6 +34,7 @@ export function AddToCalendar({
     document.body.appendChild(a);
     a.click();
     a.remove();
+    track('festival_cal');
     // Revoke on the next tick so the download has started.
     setTimeout(() => URL.revokeObjectURL(href), 1000);
   }

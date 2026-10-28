@@ -66,7 +66,9 @@
 // returning visitors get them.
 // v36: Near-me adds more origin cities + remembers the last-picked city; related
 // temples are now ranked by deity/circuit/locality — purge for the new pages.
-const VERSION = 'v36';
+// v37: lightweight feature-usage beacons (nearby/listen/share/offline/remind/
+// calendar) to the app's own Worker — purge so returning visitors send them.
+const VERSION = 'v37';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

@@ -19,6 +19,7 @@ import {
 } from '@temple/core';
 import { SavableTempleCard } from './SavableTempleCard';
 import { useFavorites } from '@/lib/favorites';
+import { track } from '@/lib/analytics';
 
 const ERA_KEY = {
   early: 'eraEarly',
@@ -306,7 +307,10 @@ export function DiscoverExplorer({
         <select
           className="nearcity__select"
           value={originCity}
-          onChange={(e) => chooseCity(e.target.value)}
+          onChange={(e) => {
+            chooseCity(e.target.value);
+            if (e.target.value) track('nearby_city');
+          }}
           aria-label={d.templesNearYou}
         >
           <option value="">{d.chooseCity}</option>

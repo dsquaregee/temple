@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import { t, type Locale } from '@temple/core';
 import { PUSH, urlBase64ToUint8Array } from '@/lib/push-config';
+import { track } from '@/lib/analytics';
 
 type State = 'idle' | 'busy' | 'active' | 'error';
 
@@ -57,6 +58,7 @@ export function RemindMe({ locale }: { locale: Locale }) {
       // Remember the locale so the (payload-free) push notification is shown in
       // the right language and opens this locale's Festivals page.
       navigator.serviceWorker.controller?.postMessage({ type: 'push-locale', locale });
+      track('remind_enable');
       setState('active');
     } catch {
       setState('error');

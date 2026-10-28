@@ -12,6 +12,7 @@
 import FESTIVAL_DATES from './festival-dates.json';
 import { dueFestivals, isoDay, type FestivalDates } from './due.ts';
 import { vapidJwk, vapidAuthHeader } from './vapid.ts';
+import { isTrackable, totalKey, dayKey, TRACKABLE } from './stats.ts';
 
 interface Env {
   SUBS: KVNamespace;
@@ -76,6 +77,43 @@ async function handleUnsubscribe(req: Request, env: Env): Promise<Response> {
   if (!body.endpoint) return new Response('missing endpoint', { status: 400, headers: cors(env) });
   await env.SUBS.delete(SUB_PREFIX + (await sha256Hex(body.endpoint)));
   return new Response(JSON.stringify({ ok: true }), {
+    status: 200,
+    headers: { 'content-type': 'application/json', ...cors(env) },
+  });
+}
+
+// Record a feature-usage event (fire-and-forget beacon from the site). Silently
+// ignores anything not on the whitelist, so the store can only hold known counters.
+async function handleEvent(req: Request, env: Env): Promise<Response> {
+  let name: unknown;
+  try {
+    name = JSON.parse(await req.text())?.name;
+  } catch {
+    return new Response(null, { status: 204, headers: cors(env) });
+  }
+  if (!isTrackable(name)) return new Response(null, { status: 204, headers: cors(env) });
+  const day = isoDay(new Date());
+  for (const key of [totalKey(name), dayKey(name, day)]) {
+    const cur = Number(await env.SUBS.get(key)) || 0;
+    await env.SUBS.put(key, String(cur + 1));
+  }
+  return new Response(null, { status: 204, headers: cors(env) });
+}
+
+// Aggregate counts for the owner: per-event total + the last 14 days.
+async function handleStats(env: Env): Promise<Response> {
+  const today = Date.now();
+  const out: Record<string, { total: number; days: Record<string, number> }> = {};
+  for (const name of TRACKABLE) {
+    const total = Number(await env.SUBS.get(totalKey(name))) || 0;
+    const days: Record<string, number> = {};
+    for (let i = 0; i < 14; i++) {
+      const d = isoDay(new Date(today - i * 86400000));
+      days[d] = Number(await env.SUBS.get(dayKey(name, d))) || 0;
+    }
+    out[name] = { total, days };
+  }
+  return new Response(JSON.stringify(out, null, 2), {
     status: 200,
     headers: { 'content-type': 'application/json', ...cors(env) },
   });
@@ -148,6 +186,8 @@ export default {
     if (req.method === 'OPTIONS') return new Response(null, { status: 204, headers: cors(env) });
     if (req.method === 'POST' && url.pathname === '/subscribe') return handleSubscribe(req, env);
     if (req.method === 'POST' && url.pathname === '/unsubscribe') return handleUnsubscribe(req, env);
+    if (req.method === 'POST' && url.pathname === '/event') return handleEvent(req, env);
+    if (req.method === 'GET' && url.pathname === '/stats') return handleStats(env);
     if (url.pathname === '/health') return new Response('ok', { headers: cors(env) });
     return new Response('not found', { status: 404, headers: cors(env) });
   },
