@@ -714,6 +714,36 @@ a {
   outline: 2px solid var(--accent-turmeric);
   outline-offset: 2px;
 }
+/* City-first "Temples near you" control at the top of Discover. */
+.nearcity {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  margin-bottom: 12px;
+  padding: 10px 14px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--accent-turmeric);
+  background: color-mix(in srgb, var(--accent-turmeric) 12%, var(--bg-raised));
+}
+.nearcity__label {
+  font-family: var(--font-ui);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink-body);
+}
+.nearcity__select {
+  flex: 1 1 160px;
+  min-height: 40px;
+  padding: 0 12px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--line);
+  background: var(--bg-base, var(--bg-raised));
+  color: var(--ink-body);
+  font-family: var(--font-ui);
+  font-size: 15px;
+}
 /* "Near me" explainer / unblock-help panel, shown under the Discover filters. */
 .geopanel {
   margin: 10px 0 2px;
