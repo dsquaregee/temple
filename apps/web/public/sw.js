@@ -64,7 +64,9 @@
 // Session API) — purge so returning visitors get the updated player.
 // v35: Share buttons added to temple / circuit / festival pages — purge so
 // returning visitors get them.
-const VERSION = 'v35';
+// v36: Near-me adds more origin cities + remembers the last-picked city; related
+// temples are now ranked by deity/circuit/locality — purge for the new pages.
+const VERSION = 'v36';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
