@@ -62,7 +62,9 @@
 // "Temples near <city>" picker, no prompts. Purge for the new control.
 // v34: lock-screen / background audio controls on the Listen player (Media
 // Session API) — purge so returning visitors get the updated player.
-const VERSION = 'v34';
+// v35: Share buttons added to temple / circuit / festival pages — purge so
+// returning visitors get them.
+const VERSION = 'v35';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

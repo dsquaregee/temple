@@ -657,9 +657,10 @@ a {
   outline: 2px solid var(--accent-turmeric);
   outline-offset: 1px;
 }
-/* Add-to-calendar / Remind-me pills — same shape as Save/Offline. */
+/* Add-to-calendar / Remind-me / Share pills — same shape as Save/Offline. */
 .calbtn,
-.remindbtn {
+.remindbtn,
+.sharebtn {
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -679,7 +680,8 @@ a {
   color: #17130f;
 }
 .calbtn:focus-visible,
-.remindbtn:focus-visible {
+.remindbtn:focus-visible,
+.sharebtn:focus-visible {
   outline: 2px solid var(--accent-turmeric);
   outline-offset: 1px;
 }
