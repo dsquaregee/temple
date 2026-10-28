@@ -128,6 +128,12 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
         initialIndex={initialIndex}
       />
 
+      <section className="section">
+        <a className="nearme-cta" href={`/${locale}/temples/?near=1`}>
+          <span aria-hidden="true">📍</span> {ui.discover.templesNearYou}
+        </a>
+      </section>
+
       <FestivalsNow
         locale={locale}
         months={festivalMonths}

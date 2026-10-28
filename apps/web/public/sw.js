@@ -50,7 +50,9 @@
 // remembers the last location — purge so returning visitors get the new flow.
 // v28: "Near me" adds a choose-a-city fallback (rank by distance from a city when
 // GPS is unavailable) — purge so returning visitors get it.
-const VERSION = 'v28';
+// v29: "Near me" promoted to a prominent CTA on Home + top of Discover, and the
+// blocked-location help adapts to installed-app vs browser — purge for the new UI.
+const VERSION = 'v29';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

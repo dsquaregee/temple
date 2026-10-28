@@ -41,8 +41,10 @@ export interface UiStrings {
     notNow: string;
     locationBlocked: string;
     locationBlockedHow: string;
+    locationBlockedHowApp: string;
     orChooseCity: string;
     chooseCity: string;
+    templesNearYou: string;
   };
   listen: {
     nowPlaying: string;
@@ -152,8 +154,11 @@ export const strings: Record<Locale, UiStrings> = {
       locationBlocked: 'Location is turned off for this site.',
       locationBlockedHow:
         'Turn it on in your browser (tap the lock icon in the address bar → Location → Allow), then try again.',
+      locationBlockedHowApp:
+        'Open your device Settings → this app → Permissions → Location → Allow, then reopen the app.',
       orChooseCity: 'Or sort from a city:',
       chooseCity: 'Choose a city…',
+      templesNearYou: 'Temples near you',
     },
     listen: {
       nowPlaying: 'Now playing',
@@ -271,8 +276,11 @@ export const strings: Record<Locale, UiStrings> = {
       locationBlocked: 'இந்தத் தளத்திற்கு இருப்பிடம் முடக்கப்பட்டுள்ளது.',
       locationBlockedHow:
         'உலாவியில் அதை இயக்கவும் (முகவரிப் பட்டியில் உள்ள பூட்டு ஐகான் → இருப்பிடம் → அனுமதி), பின்னர் மீண்டும் முயற்சிக்கவும்.',
+      locationBlockedHowApp:
+        'உங்கள் சாதன அமைப்புகள் → இந்தச் செயலி → அனுமதிகள் → இருப்பிடம் → அனுமதி என்பதைத் திறந்து, செயலியை மீண்டும் திறக்கவும்.',
       orChooseCity: 'அல்லது ஒரு நகரத்திலிருந்து வரிசைப்படுத்து:',
       chooseCity: 'நகரத்தைத் தேர்ந்தெடு…',
+      templesNearYou: 'உங்களுக்கு அருகில் உள்ள கோயில்கள்',
     },
     listen: {
       nowPlaying: 'இப்போது ஒலிக்கிறது',
@@ -390,8 +398,11 @@ export const strings: Record<Locale, UiStrings> = {
       locationBlocked: 'ఈ సైట్‌కు స్థానం ఆఫ్ చేయబడింది.',
       locationBlockedHow:
         'మీ బ్రౌజర్‌లో దాన్ని ఆన్ చేయండి (చిరునామా బార్‌లోని లాక్ ఐకాన్ → స్థానం → అనుమతించు), ఆపై మళ్లీ ప్రయత్నించండి.',
+      locationBlockedHowApp:
+        'మీ పరికర సెట్టింగ్‌లు → ఈ యాప్ → అనుమతులు → స్థానం → అనుమతించు తెరిచి, యాప్‌ను మళ్లీ తెరవండి.',
       orChooseCity: 'లేదా ఒక నగరం నుండి క్రమబద్ధీకరించు:',
       chooseCity: 'నగరాన్ని ఎంచుకోండి…',
+      templesNearYou: 'మీ దగ్గరి ఆలయాలు',
     },
     listen: {
       nowPlaying: 'ఇప్పుడు వినిపిస్తోంది',
@@ -509,8 +520,11 @@ export const strings: Record<Locale, UiStrings> = {
       locationBlocked: 'ಈ ಸೈಟ್‌ಗೆ ಸ್ಥಳ ಆಫ್ ಆಗಿದೆ.',
       locationBlockedHow:
         'ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಅದನ್ನು ಆನ್ ಮಾಡಿ (ವಿಳಾಸ ಪಟ್ಟಿಯಲ್ಲಿರುವ ಲಾಕ್ ಐಕಾನ್ → ಸ್ಥಳ → ಅನುಮತಿಸಿ), ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.',
+      locationBlockedHowApp:
+        'ನಿಮ್ಮ ಸಾಧನ ಸೆಟ್ಟಿಂಗ್‌ಗಳು → ಈ ಆ್ಯಪ್ → ಅನುಮತಿಗಳು → ಸ್ಥಳ → ಅನುಮತಿಸಿ ತೆರೆದು, ಆ್ಯಪ್ ಅನ್ನು ಮತ್ತೆ ತೆರೆಯಿರಿ.',
       orChooseCity: 'ಅಥವಾ ಒಂದು ನಗರದಿಂದ ವಿಂಗಡಿಸಿ:',
       chooseCity: 'ನಗರವನ್ನು ಆಯ್ಕೆಮಾಡಿ…',
+      templesNearYou: 'ನಿಮ್ಮ ಸಮೀಪದ ದೇವಾಲಯಗಳು',
     },
     listen: {
       nowPlaying: 'ಈಗ ಪ್ಲೇ ಆಗುತ್ತಿದೆ',
@@ -628,8 +642,11 @@ export const strings: Record<Locale, UiStrings> = {
       locationBlocked: 'ഈ സൈറ്റിന് സ്ഥാനം ഓഫാണ്.',
       locationBlockedHow:
         'നിങ്ങളുടെ ബ്രൗസറിൽ ഇത് ഓണാക്കുക (വിലാസ ബാറിലെ ലോക്ക് ഐക്കൺ → സ്ഥാനം → അനുവദിക്കുക), എന്നിട്ട് വീണ്ടും ശ്രമിക്കുക.',
+      locationBlockedHowApp:
+        'നിങ്ങളുടെ ഉപകരണ ക്രമീകരണങ്ങൾ → ഈ ആപ്പ് → അനുമതികൾ → സ്ഥാനം → അനുവദിക്കുക തുറന്ന്, ആപ്പ് വീണ്ടും തുറക്കുക.',
       orChooseCity: 'അല്ലെങ്കിൽ ഒരു നഗരത്തിൽ നിന്ന് ക്രമീകരിക്കുക:',
       chooseCity: 'നഗരം തിരഞ്ഞെടുക്കുക…',
+      templesNearYou: 'നിങ്ങൾക്ക് സമീപമുള്ള ക്ഷേത്രങ്ങൾ',
     },
     listen: {
       nowPlaying: 'ഇപ്പോൾ കേൾക്കുന്നു',
@@ -747,8 +764,11 @@ export const strings: Record<Locale, UiStrings> = {
       locationBlocked: 'इस साइट के लिए स्थान बंद है।',
       locationBlockedHow:
         'इसे अपने ब्राउज़र में चालू करें (पता बार में लॉक आइकन → स्थान → अनुमति दें), फिर पुनः प्रयास करें।',
+      locationBlockedHowApp:
+        'अपने डिवाइस की सेटिंग्स → यह ऐप → अनुमतियाँ → स्थान → अनुमति दें खोलें, फिर ऐप दोबारा खोलें।',
       orChooseCity: 'या किसी शहर से क्रमबद्ध करें:',
       chooseCity: 'शहर चुनें…',
+      templesNearYou: 'आपके पास के मंदिर',
     },
     listen: {
       nowPlaying: 'अभी चल रहा है',

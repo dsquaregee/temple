@@ -193,6 +193,34 @@ export function DiscoverExplorer({
       .catch(() => {});
   }, []);
 
+  // Whether the app is running as an installed PWA (standalone) — the unblock
+  // steps differ: an installed app has no address-bar lock icon, so location is
+  // re-enabled from the device's app settings, not the browser.
+  const [isStandalone, setIsStandalone] = useState(false);
+  useEffect(() => {
+    try {
+      const standalone =
+        window.matchMedia?.('(display-mode: standalone)').matches ||
+        // iOS Safari home-screen apps.
+        (navigator as unknown as { standalone?: boolean }).standalone === true;
+      setIsStandalone(!!standalone);
+    } catch {
+      /* ignore */
+    }
+  }, []);
+
+  // Deep link from the Home "Temples near you" shortcut: open the explainer so
+  // the visitor can grant location (or pick a city) with one tap.
+  useEffect(() => {
+    try {
+      if (new URLSearchParams(window.location.search).get('near') === '1') {
+        setGeoPanel('prime');
+      }
+    } catch {
+      /* ignore */
+    }
+  }, []);
+
   // Last granted position, so a return visit shows nearby instantly with no spinner
   // and no second prompt. Stored only on this device.
   const GEO_KEY = 'temple:geo:v1';
@@ -381,6 +409,16 @@ export function DiscoverExplorer({
 
   return (
     <div className="discover">
+      <button
+        type="button"
+        className={nearby ? 'nearme-cta is-active' : 'nearme-cta'}
+        aria-pressed={nearby}
+        onClick={onNearMe}
+      >
+        <span aria-hidden="true">📍</span>{' '}
+        {nearby && originCity ? `${d.templesNearYou} · ${originCity}` : d.templesNearYou}
+      </button>
+
       <input
         type="search"
         className="searchinput"
@@ -447,9 +485,6 @@ export function DiscoverExplorer({
       </Facet>
 
       <div className="filterbar">
-        <FilterChip active={nearby} onClick={onNearMe}>
-          📍 {d.nearMe}
-        </FilterChip>
         <FilterChip active={unescoOnly} onClick={() => setUnescoOnly((v) => !v)}>
           {d.unescoOnly}
         </FilterChip>
@@ -511,7 +546,7 @@ export function DiscoverExplorer({
           <p className="geopanel__why">
             <strong>{d.locationBlocked}</strong>
             <br />
-            {d.locationBlockedHow}
+            {isStandalone ? d.locationBlockedHowApp : d.locationBlockedHow}
           </p>
           <div className="geopanel__actions">
             <button type="button" className="geobtn geobtn--primary" onClick={requestLocation}>
