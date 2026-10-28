@@ -14,6 +14,7 @@ import { absUrl, breadcrumbList, collectionPage } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
 import { AddToCalendar } from '@/components/AddToCalendar';
+import { ShareButton } from '@/components/ShareButton';
 
 export const dynamicParams = false;
 
@@ -103,8 +104,9 @@ export default function FestivalDetail({
         </span>
       </div>
 
-      {upcomingIso && (
-        <div className="actions">
+      <div className="actions">
+        <ShareButton locale={locale} title={festival.name} url={absUrl(`${locale}/festivals/${festival.key}/`)} />
+        {upcomingIso && (
           <AddToCalendar
             locale={locale}
             festivalKey={festival.key}
@@ -113,8 +115,8 @@ export default function FestivalDetail({
             url={absUrl(`${locale}/festivals/${festival.key}/`)}
             description={`${festival.name} — ${month.name} (${month.gregorian}). ${temples.length} ${ui.festivals.temples}.`}
           />
-        </div>
-      )}
+        )}
+      </div>
 
       <section className="section" aria-labelledby="temples-h">
         <h2 id="temples-h">{ui.festivals.temples}</h2>

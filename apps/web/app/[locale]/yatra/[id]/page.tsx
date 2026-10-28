@@ -9,6 +9,7 @@ import { JsonLd } from '@/components/JsonLd';
 import { CircuitMap } from '@/components/CircuitMap';
 import { resolveGroups, StopCards } from '@/components/CircuitStops';
 import { OfflineButton } from '@/components/OfflineButton';
+import { ShareButton } from '@/components/ShareButton';
 
 export const dynamicParams = false;
 
@@ -118,6 +119,7 @@ export default function CircuitDetail({
       </div>
 
       <div className="actions">
+        <ShareButton locale={locale} title={circuit.name} url={absUrl(`${locale}/yatra/${circuit.id}/`)} />
         <OfflineButton
           locale={locale}
           downloadKey={`circuit:${circuit.id}`}

@@ -19,6 +19,7 @@ import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
 import { SaveButton } from '@/components/SaveButton';
 import { OfflineButton } from '@/components/OfflineButton';
+import { ShareButton } from '@/components/ShareButton';
 import { SavableTempleCard } from '@/components/SavableTempleCard';
 import { TempleHero } from '@/components/TempleHero';
 import { AudioStory } from '@/components/AudioStory';
@@ -213,6 +214,7 @@ export default function TempleDetail({
 
       <div className="actions">
         <SaveButton locale={locale} id={temple.id} />
+        <ShareButton locale={locale} title={temple.name} url={absUrl(`${locale}/temples/${temple.id}/`)} />
         <OfflineButton
           locale={locale}
           downloadKey={`temple:${temple.id}`}

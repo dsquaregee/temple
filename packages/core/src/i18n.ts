@@ -83,6 +83,8 @@ export interface UiStrings {
     period: string;
     style: string;
     relatedTemples: string;
+    share: string;
+    shareCopied: string;
     whyItMatters: string;
     supportTemple: string;
     supportNote: string;
@@ -197,6 +199,8 @@ export const strings: Record<Locale, UiStrings> = {
       period: 'Period',
       style: 'Style',
       relatedTemples: 'Related temples',
+      share: 'Share',
+      shareCopied: 'Link copied',
       whyItMatters: 'Why this temple matters',
       supportTemple: 'Support this temple',
       supportNote: 'Donations go directly through the temple’s official channels.',
@@ -319,6 +323,8 @@ export const strings: Record<Locale, UiStrings> = {
       period: 'காலம்',
       style: 'பாணி',
       relatedTemples: 'தொடர்புடைய கோயில்கள்',
+      share: 'பகிர்',
+      shareCopied: 'இணைப்பு நகலெடுக்கப்பட்டது',
       whyItMatters: 'இக்கோயிலின் சிறப்பு',
       supportTemple: 'இக்கோயிலை ஆதரியுங்கள்',
       supportNote: 'நன்கொடைகள் கோயிலின் அதிகாரப்பூர்வ வழிகள் மூலமாக நேரடியாக செல்லும்.',
@@ -441,6 +447,8 @@ export const strings: Record<Locale, UiStrings> = {
       period: 'కాలం',
       style: 'శైలి',
       relatedTemples: 'సంబంధిత ఆలయాలు',
+      share: 'షేర్ చేయి',
+      shareCopied: 'లింక్ కాపీ చేయబడింది',
       whyItMatters: 'ఈ ఆలయ విశిష్టత',
       supportTemple: 'ఈ ఆలయాన్ని ఆదరించండి',
       supportNote: 'విరాళాలు ఆలయ అధికారిక మార్గాల ద్వారా నేరుగా వెళ్తాయి.',
@@ -563,6 +571,8 @@ export const strings: Record<Locale, UiStrings> = {
       period: 'ಕಾಲ',
       style: 'ಶೈಲಿ',
       relatedTemples: 'ಸಂಬಂಧಿತ ದೇವಾಲಯಗಳು',
+      share: 'ಹಂಚಿಕೊಳ್ಳಿ',
+      shareCopied: 'ಲಿಂಕ್ ನಕಲಿಸಲಾಗಿದೆ',
       whyItMatters: 'ಈ ದೇವಾಲಯದ ವಿಶೇಷತೆ',
       supportTemple: 'ಈ ದೇವಾಲಯವನ್ನು ಬೆಂಬಲಿಸಿ',
       supportNote: 'ದೇಣಿಗೆಗಳು ದೇವಾಲಯದ ಅಧಿಕೃತ ಮಾರ್ಗಗಳ ಮೂಲಕ ನೇರವಾಗಿ ಹೋಗುತ್ತವೆ.',
@@ -685,6 +695,8 @@ export const strings: Record<Locale, UiStrings> = {
       period: 'കാലഘട്ടം',
       style: 'ശൈലി',
       relatedTemples: 'ബന്ധപ്പെട്ട ക്ഷേത്രങ്ങൾ',
+      share: 'പങ്കിടുക',
+      shareCopied: 'ലിങ്ക് പകർത്തി',
       whyItMatters: 'ഈ ക്ഷേത്രത്തിന്റെ പ്രാധാന്യം',
       supportTemple: 'ഈ ക്ഷേത്രത്തെ പിന്തുണയ്ക്കുക',
       supportNote: 'സംഭാവനകൾ ക്ഷേത്രത്തിന്റെ ഔദ്യോഗിക മാർഗങ്ങളിലൂടെ നേരിട്ട് പോകുന്നു.',
@@ -807,6 +819,8 @@ export const strings: Record<Locale, UiStrings> = {
       period: 'काल',
       style: 'शैली',
       relatedTemples: 'संबंधित मंदिर',
+      share: 'साझा करें',
+      shareCopied: 'लिंक कॉपी हो गया',
       whyItMatters: 'इस मंदिर का महत्व',
       supportTemple: 'इस मंदिर का समर्थन करें',
       supportNote: 'दान सीधे मंदिर के आधिकारिक माध्यमों से जाता है।',
