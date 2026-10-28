@@ -54,7 +54,9 @@
 // blocked-location help adapts to installed-app vs browser — purge for the new UI.
 // v30: Discover filters redesigned as a collapsible accordion with removable
 // active-filter chips; blocked-location panel leads with the city picker — purge.
-const VERSION = 'v30';
+// v31: corrected the blocked-location browser help (Android/desktop accurate,
+// no more "address-bar lock icon") — purge so visitors get the right steps.
+const VERSION = 'v31';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
