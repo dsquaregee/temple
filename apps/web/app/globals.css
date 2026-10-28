@@ -546,6 +546,36 @@ a {
   outline: 2px solid var(--accent-turmeric);
   outline-offset: 1px;
 }
+/* Add-to-calendar / Remind-me pills — same shape as Save/Offline. */
+.calbtn,
+.remindbtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: var(--touch);
+  padding: 0 16px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--line);
+  background: var(--bg-raised);
+  color: var(--ink-body);
+  font-family: var(--font-ui);
+  font-size: 14px;
+  cursor: pointer;
+}
+.remindbtn.is-active {
+  background: var(--accent-turmeric);
+  border-color: var(--accent-turmeric);
+  color: #17130f;
+}
+.calbtn:focus-visible,
+.remindbtn:focus-visible {
+  outline: 2px solid var(--accent-turmeric);
+  outline-offset: 1px;
+}
+.remindbtn:disabled {
+  opacity: 0.7;
+  cursor: progress;
+}
 /* Compact variant floated over a Discover result card. */
 .cardwrap {
   position: relative;

@@ -12,6 +12,7 @@ import { absUrl, breadcrumbList, collectionPage } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
 import { FestivalsNow } from '@/components/FestivalsNow';
+import { RemindMe } from '@/components/RemindMe';
 
 export const dynamicParams = false;
 
@@ -69,6 +70,9 @@ export default function FestivalCalendar({
       </div>
       <section className="section">
         <p className="lead">{ui.festivals.intro}</p>
+        <div className="actions">
+          <RemindMe locale={locale} />
+        </div>
       </section>
 
       <FestivalsNow

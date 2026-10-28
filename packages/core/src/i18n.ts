@@ -83,7 +83,17 @@ export interface UiStrings {
   };
   footer: { follow: string };
   music: { heading: string; cta: string };
-  festivals: { title: string; intro: string; temples: string; thisMonth: string; comingUp: string };
+  festivals: {
+    title: string;
+    intro: string;
+    temples: string;
+    thisMonth: string;
+    comingUp: string;
+    addToCalendar: string;
+    remindMe: string;
+    remindActive: string;
+    remindError: string;
+  };
   faq: { deityQ: string; festivalsQ: string; reachQ: string };
   offline: { download: string; downloading: string; available: string; remove: string };
   install: {
@@ -182,6 +192,10 @@ export const strings: Record<Locale, UiStrings> = {
       temples: 'temples',
       thisMonth: 'This month',
       comingUp: 'Coming up',
+      addToCalendar: 'Add to calendar',
+      remindMe: 'Remind me',
+      remindActive: 'Reminders on',
+      remindError: 'Couldn’t enable reminders',
     },
     faq: {
       deityQ: 'Which deity is worshipped at {name}?',
@@ -288,6 +302,10 @@ export const strings: Record<Locale, UiStrings> = {
       temples: 'கோயில்கள்',
       thisMonth: 'இம்மாதம்',
       comingUp: 'வரவிருப்பவை',
+      addToCalendar: 'நாட்காட்டியில் சேர்',
+      remindMe: 'நினைவூட்டு',
+      remindActive: 'நினைவூட்டல்கள் இயக்கத்தில்',
+      remindError: 'நினைவூட்டல்களை இயக்க முடியவில்லை',
     },
     faq: {
       deityQ: '{name} கோயிலில் வழிபடப்படும் தெய்வம் யார்?',
@@ -394,6 +412,10 @@ export const strings: Record<Locale, UiStrings> = {
       temples: 'ఆలయాలు',
       thisMonth: 'ఈ నెల',
       comingUp: 'రాబోయేవి',
+      addToCalendar: 'క్యాలెండర్‌కు జోడించు',
+      remindMe: 'గుర్తు చేయి',
+      remindActive: 'రిమైండర్‌లు ఆన్‌లో ఉన్నాయి',
+      remindError: 'రిమైండర్‌లను ఆన్ చేయలేకపోయాం',
     },
     faq: {
       deityQ: '{name} ఆలయంలో ఆరాధించే దేవత ఎవరు?',
@@ -500,6 +522,10 @@ export const strings: Record<Locale, UiStrings> = {
       temples: 'ದೇವಾಲಯಗಳು',
       thisMonth: 'ಈ ತಿಂಗಳು',
       comingUp: 'ಮುಂಬರುವ',
+      addToCalendar: 'ಕ್ಯಾಲೆಂಡರ್‌ಗೆ ಸೇರಿಸಿ',
+      remindMe: 'ನೆನಪಿಸಿ',
+      remindActive: 'ಜ್ಞಾಪನೆಗಳು ಆನ್ ಆಗಿವೆ',
+      remindError: 'ಜ್ಞಾಪನೆಗಳನ್ನು ಆನ್ ಮಾಡಲಾಗಲಿಲ್ಲ',
     },
     faq: {
       deityQ: '{name} ದೇವಾಲಯದ ಆರಾಧ್ಯ ದೇವತೆ ಯಾರು?',
@@ -606,6 +632,10 @@ export const strings: Record<Locale, UiStrings> = {
       temples: 'ക്ഷേത്രങ്ങൾ',
       thisMonth: 'ഈ മാസം',
       comingUp: 'വരാനിരിക്കുന്നവ',
+      addToCalendar: 'കലണ്ടറിൽ ചേർക്കുക',
+      remindMe: 'ഓർമ്മിപ്പിക്കുക',
+      remindActive: 'ഓർമ്മപ്പെടുത്തലുകൾ ഓണാണ്',
+      remindError: 'ഓർമ്മപ്പെടുത്തലുകൾ ഓണാക്കാനായില്ല',
     },
     faq: {
       deityQ: '{name} ക്ഷേത്രത്തിലെ പ്രതിഷ്ഠ ആരാണ്?',
@@ -712,6 +742,10 @@ export const strings: Record<Locale, UiStrings> = {
       temples: 'मंदिर',
       thisMonth: 'इस माह',
       comingUp: 'आगामी',
+      addToCalendar: 'कैलेंडर में जोड़ें',
+      remindMe: 'याद दिलाएँ',
+      remindActive: 'रिमाइंडर चालू',
+      remindError: 'रिमाइंडर चालू नहीं हो सके',
     },
     faq: {
       deityQ: '{name} मंदिर में किस देवता की पूजा होती है?',

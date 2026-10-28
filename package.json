@@ -8,7 +8,7 @@
     "content:qa": "node packages/content/scripts/qa-translations.mjs",
     "content:search-index": "node packages/content/scripts/gen-search-index.mjs",
     "content:coords": "node packages/content/scripts/gen-coords.mjs",
-    "test": "node --test \"packages/**/test/*.test.ts\" \"apps/**/test/*.test.ts\"",
+    "test": "node --test \"packages/**/test/*.test.ts\" \"apps/**/test/*.test.ts\" \"infra/push-worker/test/*.test.ts\"",
     "budget": "node apps/web/scripts/check-budget.mjs",
     "offline:manifests": "node apps/web/scripts/gen-offline-manifests.mjs",
     "build:web": "pnpm content:generate && pnpm content:search-index && pnpm content:coords && pnpm offline:manifests && pnpm --filter @temple/web build",

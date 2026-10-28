@@ -13,6 +13,7 @@ import { LOCALES } from '@/lib/locales';
 import { absUrl, breadcrumbList, collectionPage } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
+import { AddToCalendar } from '@/components/AddToCalendar';
 
 export const dynamicParams = false;
 
@@ -101,6 +102,19 @@ export default function FestivalDetail({
           {temples.length} {ui.festivals.temples}
         </span>
       </div>
+
+      {upcomingIso && (
+        <div className="actions">
+          <AddToCalendar
+            locale={locale}
+            festivalKey={festival.key}
+            name={festival.name}
+            iso={upcomingIso}
+            url={absUrl(`${locale}/festivals/${festival.key}/`)}
+            description={`${festival.name} — ${month.name} (${month.gregorian}). ${temples.length} ${ui.festivals.temples}.`}
+          />
+        </div>
+      )}
 
       <section className="section" aria-labelledby="temples-h">
         <h2 id="temples-h">{ui.festivals.temples}</h2>

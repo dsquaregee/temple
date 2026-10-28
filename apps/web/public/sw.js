@@ -41,7 +41,10 @@
 // v24: Discover "Near me" — ranks temples by distance from the device using a
 // new locale-independent /geo/coords.json. Purge so returning visitors get the
 // new Discover control and the coords file instead of the stale-cached pages.
-const VERSION = 'v24';
+// v25: festival reminders — "Add to calendar" (.ics) on festival pages, and Web
+// Push handlers (push / notificationclick) so festival alerts open the Festivals
+// page. Purge so returning visitors get the new pages and SW handlers.
+const VERSION = 'v25';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
@@ -71,6 +74,79 @@ self.addEventListener('activate', (event) => {
         )
       )
       .then(() => self.clients.claim())
+  );
+});
+
+// --- Festival push reminders -------------------------------------------------
+// Payload-free Web Push: the push Worker sends a tickle near each festival; we
+// show a localized notification that opens the Festivals page. The locale is
+// remembered in a cache entry the opt-in writes (the push event carries no
+// data), defaulting to English.
+const PUSH_LOCALE_KEY = '/__push-locale';
+const PUSH_TEXT = {
+  en: { title: 'Temple festivals', body: 'An upcoming festival — tap for the dates.' },
+  ta: { title: 'கோயில் விழாக்கள்', body: 'வரவிருக்கும் விழா — தேதிகளைக் காண தட்டவும்.' },
+  te: { title: 'ఆలయ పండుగలు', body: 'రాబోయే పండుగ — తేదీల కోసం నొక్కండి.' },
+  kn: { title: 'ದೇವಾಲಯ ಹಬ್ಬಗಳು', body: 'ಮುಂಬರುವ ಹಬ್ಬ — ದಿನಾಂಕಗಳಿಗೆ ಟ್ಯಾಪ್ ಮಾಡಿ.' },
+  ml: { title: 'ക്ഷേത്ര ഉത്സവങ്ങൾ', body: 'വരാനിരിക്കുന്ന ഉത്സവം — തീയതികൾക്കായി ടാപ്പ് ചെയ്യുക.' },
+  hi: { title: 'मंदिर उत्सव', body: 'आगामी उत्सव — तिथियों के लिए टैप करें।' },
+};
+
+self.addEventListener('message', (event) => {
+  const data = event.data;
+  if (data && data.type === 'push-locale' && typeof data.locale === 'string') {
+    event.waitUntil(
+      caches
+        .open(OFFLINE)
+        .then((cache) => cache.put(PUSH_LOCALE_KEY, new Response(data.locale)))
+        .catch(() => {})
+    );
+  }
+});
+
+async function pushLocale() {
+  try {
+    const cache = await caches.open(OFFLINE);
+    const hit = await cache.match(PUSH_LOCALE_KEY);
+    if (hit) {
+      const loc = (await hit.text()).trim();
+      if (PUSH_TEXT[loc]) return loc;
+    }
+  } catch (_) {
+    /* fall through to default */
+  }
+  return 'en';
+}
+
+self.addEventListener('push', (event) => {
+  event.waitUntil(
+    (async () => {
+      const loc = await pushLocale();
+      const text = PUSH_TEXT[loc] || PUSH_TEXT.en;
+      await self.registration.showNotification(text.title, {
+        body: text.body,
+        icon: '/icon.svg',
+        badge: '/icon.svg',
+        tag: 'temple-festival',
+        data: { url: `/${loc}/festivals/` },
+      });
+    })()
+  );
+});
+
+self.addEventListener('notificationclick', (event) => {
+  event.notification.close();
+  const target = (event.notification.data && event.notification.data.url) || '/';
+  event.waitUntil(
+    self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then((clients) => {
+      for (const client of clients) {
+        if ('focus' in client) {
+          client.navigate(target).catch(() => {});
+          return client.focus();
+        }
+      }
+      return self.clients.openWindow(target);
+    })
   );
 });
 
