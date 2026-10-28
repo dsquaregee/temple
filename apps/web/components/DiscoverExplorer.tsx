@@ -167,12 +167,47 @@ export function DiscoverExplorer({
   const [userLoc, setUserLoc] = useState<LatLng | null>(null);
   const [nearby, setNearby] = useState(false);
   const [geoStatus, setGeoStatus] = useState<'idle' | 'locating' | 'error'>('idle');
+  // A short explainer shown before the browser's own permission prompt ("prime"),
+  // or actionable help when the browser has blocked location ("blocked").
+  const [geoPanel, setGeoPanel] = useState<'none' | 'prime' | 'blocked'>('none');
+  // Browser permission state, when the Permissions API is available (not Safari
+  // < 16): lets us skip the explainer when already granted and show the
+  // unblock-help when denied, instead of a silent failure.
+  const geoPerm = useRef<'granted' | 'prompt' | 'denied' | 'unknown'>('unknown');
+  useEffect(() => {
+    const perms = typeof navigator !== 'undefined' ? navigator.permissions : undefined;
+    if (!perms?.query) return;
+    perms
+      .query({ name: 'geolocation' as PermissionName })
+      .then((s) => {
+        geoPerm.current = s.state as typeof geoPerm.current;
+        s.onchange = () => {
+          geoPerm.current = s.state as typeof geoPerm.current;
+        };
+      })
+      .catch(() => {});
+  }, []);
 
-  const locate = useCallback(() => {
-    if (nearby) {
-      setNearby(false);
-      return;
+  // Last granted position, so a return visit shows nearby instantly with no spinner
+  // and no second prompt. Stored only on this device.
+  const GEO_KEY = 'temple:geo:v1';
+  const readCachedLoc = (): LatLng | null => {
+    try {
+      const raw = localStorage.getItem(GEO_KEY);
+      if (!raw) return null;
+      const o = JSON.parse(raw);
+      if (typeof o.lat === 'number' && typeof o.lng === 'number') return { lat: o.lat, lng: o.lng };
+    } catch {
+      /* ignore */
     }
+    return null;
+  };
+
+  // Actually ask the browser for the device location (triggers the native prompt
+  // when permission is still "prompt"). Called from the explainer's button, or
+  // directly when permission is already granted.
+  const requestLocation = useCallback(() => {
+    setGeoPanel('none');
     if (typeof navigator === 'undefined' || !('geolocation' in navigator)) {
       setGeoStatus('error');
       return;
@@ -182,17 +217,60 @@ export function DiscoverExplorer({
     loadCatalog();
     navigator.geolocation.getCurrentPosition(
       (pos) => {
-        setUserLoc({ lat: pos.coords.latitude, lng: pos.coords.longitude });
+        const loc = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+        setUserLoc(loc);
         setNearby(true);
         setGeoStatus('idle');
+        geoPerm.current = 'granted';
+        try {
+          localStorage.setItem(GEO_KEY, JSON.stringify({ ...loc, ts: Date.now() }));
+        } catch {
+          /* ignore */
+        }
       },
-      () => {
+      (err) => {
         setGeoStatus('error');
         setNearby(false);
+        if (err && err.code === err.PERMISSION_DENIED) {
+          geoPerm.current = 'denied';
+          setGeoPanel('blocked');
+        }
       },
       { enableHighAccuracy: false, timeout: 10000, maximumAge: 300000 },
     );
-  }, [nearby, loadCoords, loadCatalog]);
+  }, [loadCoords, loadCatalog]);
+
+  // The "Near me" chip entry point. Toggles off if on; otherwise routes through
+  // the explainer / unblock-help / cached-location fast paths.
+  const onNearMe = useCallback(() => {
+    if (nearby) {
+      setNearby(false);
+      setGeoPanel('none');
+      return;
+    }
+    if (typeof navigator === 'undefined' || !('geolocation' in navigator)) {
+      setGeoStatus('error');
+      return;
+    }
+    if (geoPerm.current === 'denied') {
+      setGeoPanel('blocked');
+      return;
+    }
+    if (geoPerm.current === 'granted') {
+      // Show the last location instantly (if any), then refresh silently.
+      const cached = readCachedLoc();
+      if (cached) {
+        setUserLoc(cached);
+        setNearby(true);
+        loadCoords();
+        loadCatalog();
+      }
+      requestLocation();
+      return;
+    }
+    // "prompt" or unknown → explain first, so the native prompt isn't a surprise.
+    setGeoPanel('prime');
+  }, [nearby, requestLocation, loadCoords, loadCatalog]);
 
   const { ids: savedIds, ready: favReady } = useFavorites();
 
@@ -273,6 +351,7 @@ export function DiscoverExplorer({
     setSort('featured');
     setNearby(false);
     setGeoStatus('idle');
+    setGeoPanel('none');
   }
 
   return (
@@ -343,7 +422,7 @@ export function DiscoverExplorer({
       </Facet>
 
       <div className="filterbar">
-        <FilterChip active={nearby} onClick={locate}>
+        <FilterChip active={nearby} onClick={onNearMe}>
           📍 {d.nearMe}
         </FilterChip>
         <FilterChip active={unescoOnly} onClick={() => setUnescoOnly((v) => !v)}>
@@ -359,7 +438,9 @@ export function DiscoverExplorer({
           {loading && (
             <span className="muted"> · {geoStatus === 'locating' ? d.locating : d.loading}</span>
           )}
-          {geoStatus === 'error' && <span className="muted"> · {d.locationError}</span>}
+          {geoStatus === 'error' && geoPanel !== 'blocked' && (
+            <span className="muted"> · {d.locationError}</span>
+          )}
         </span>
         {filtersActive && (
           <button type="button" className="clearbtn" onClick={reset}>
@@ -367,6 +448,38 @@ export function DiscoverExplorer({
           </button>
         )}
       </div>
+
+      {geoPanel === 'prime' && (
+        <div className="geopanel" role="group" aria-label={d.nearMe}>
+          <p className="geopanel__why">{d.nearMeWhy}</p>
+          <div className="geopanel__actions">
+            <button type="button" className="geobtn geobtn--primary" onClick={requestLocation}>
+              📍 {d.useMyLocation}
+            </button>
+            <button type="button" className="geobtn" onClick={() => setGeoPanel('none')}>
+              {d.notNow}
+            </button>
+          </div>
+        </div>
+      )}
+
+      {geoPanel === 'blocked' && (
+        <div className="geopanel" role="alert">
+          <p className="geopanel__why">
+            <strong>{d.locationBlocked}</strong>
+            <br />
+            {d.locationBlockedHow}
+          </p>
+          <div className="geopanel__actions">
+            <button type="button" className="geobtn geobtn--primary" onClick={requestLocation}>
+              {d.nearMe}
+            </button>
+            <button type="button" className="geobtn" onClick={() => setGeoPanel('none')}>
+              {d.notNow}
+            </button>
+          </div>
+        </div>
+      )}
 
       {results.length > 0 ? (
         <div className="grid">

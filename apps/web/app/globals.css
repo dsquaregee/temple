@@ -576,6 +576,46 @@ a {
   opacity: 0.7;
   cursor: progress;
 }
+/* "Near me" explainer / unblock-help panel, shown under the Discover filters. */
+.geopanel {
+  margin: 10px 0 2px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-card, 14px);
+  background: var(--bg-raised);
+}
+.geopanel__why {
+  margin: 0 0 12px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--ink-body);
+}
+.geopanel__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.geobtn {
+  min-height: var(--touch);
+  padding: 0 18px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--ink-body);
+  font-family: var(--font-ui);
+  font-size: 14px;
+  cursor: pointer;
+}
+.geobtn--primary {
+  background: var(--accent-turmeric);
+  border-color: var(--accent-turmeric);
+  color: #17130f;
+  font-weight: 600;
+}
+.geobtn:focus-visible {
+  outline: 2px solid var(--accent-turmeric);
+  outline-offset: 1px;
+}
 /* Compact variant floated over a Discover result card. */
 .cardwrap {
   position: relative;

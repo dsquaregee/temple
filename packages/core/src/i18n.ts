@@ -36,6 +36,11 @@ export interface UiStrings {
     locationError: string;
     away: string;
     nearestFirst: string;
+    nearMeWhy: string;
+    useMyLocation: string;
+    notNow: string;
+    locationBlocked: string;
+    locationBlockedHow: string;
   };
   listen: {
     nowPlaying: string;
@@ -138,6 +143,13 @@ export const strings: Record<Locale, UiStrings> = {
       locationError: 'Couldn’t get your location. Check location permission.',
       away: 'away',
       nearestFirst: 'Nearest first',
+      nearMeWhy:
+        'Sort temples by how close they are to you. Your location stays on your device — it’s never sent anywhere.',
+      useMyLocation: 'Use my location',
+      notNow: 'Not now',
+      locationBlocked: 'Location is turned off for this site.',
+      locationBlockedHow:
+        'Turn it on in your browser (tap the lock icon in the address bar → Location → Allow), then try again.',
     },
     listen: {
       nowPlaying: 'Now playing',
@@ -248,6 +260,13 @@ export const strings: Record<Locale, UiStrings> = {
       locationError: 'இருப்பிடத்தைப் பெற முடியவில்லை. அனுமதியைச் சரிபார்க்கவும்.',
       away: 'தொலைவில்',
       nearestFirst: 'அருகில் உள்ளவை முதலில்',
+      nearMeWhy:
+        'உங்களுக்கு அருகில் உள்ள கோயில்களைத் தூரத்தின் அடிப்படையில் வரிசைப்படுத்துங்கள். உங்கள் இருப்பிடம் உங்கள் சாதனத்திலேயே இருக்கும் — எங்கும் அனுப்பப்படாது.',
+      useMyLocation: 'என் இருப்பிடத்தைப் பயன்படுத்து',
+      notNow: 'இப்போது வேண்டாம்',
+      locationBlocked: 'இந்தத் தளத்திற்கு இருப்பிடம் முடக்கப்பட்டுள்ளது.',
+      locationBlockedHow:
+        'உலாவியில் அதை இயக்கவும் (முகவரிப் பட்டியில் உள்ள பூட்டு ஐகான் → இருப்பிடம் → அனுமதி), பின்னர் மீண்டும் முயற்சிக்கவும்.',
     },
     listen: {
       nowPlaying: 'இப்போது ஒலிக்கிறது',
@@ -358,6 +377,13 @@ export const strings: Record<Locale, UiStrings> = {
       locationError: 'మీ స్థానాన్ని పొందలేకపోయాం. అనుమతిని తనిఖీ చేయండి.',
       away: 'దూరంలో',
       nearestFirst: 'దగ్గరివి ముందుగా',
+      nearMeWhy:
+        'మీకు దగ్గరగా ఉన్న ఆలయాలను దూరం ఆధారంగా క్రమబద్ధీకరించండి. మీ స్థానం మీ పరికరంలోనే ఉంటుంది — ఎక్కడికీ పంపబడదు.',
+      useMyLocation: 'నా స్థానాన్ని ఉపయోగించు',
+      notNow: 'ఇప్పుడు వద్దు',
+      locationBlocked: 'ఈ సైట్‌కు స్థానం ఆఫ్ చేయబడింది.',
+      locationBlockedHow:
+        'మీ బ్రౌజర్‌లో దాన్ని ఆన్ చేయండి (చిరునామా బార్‌లోని లాక్ ఐకాన్ → స్థానం → అనుమతించు), ఆపై మళ్లీ ప్రయత్నించండి.',
     },
     listen: {
       nowPlaying: 'ఇప్పుడు వినిపిస్తోంది',
@@ -468,6 +494,13 @@ export const strings: Record<Locale, UiStrings> = {
       locationError: 'ನಿಮ್ಮ ಸ್ಥಳವನ್ನು ಪಡೆಯಲಾಗಲಿಲ್ಲ. ಅನುಮತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.',
       away: 'ದೂರದಲ್ಲಿ',
       nearestFirst: 'ಹತ್ತಿರದವು ಮೊದಲು',
+      nearMeWhy:
+        'ನಿಮಗೆ ಹತ್ತಿರವಿರುವ ದೇವಾಲಯಗಳನ್ನು ದೂರದ ಆಧಾರದ ಮೇಲೆ ವಿಂಗಡಿಸಿ. ನಿಮ್ಮ ಸ್ಥಳ ನಿಮ್ಮ ಸಾಧನದಲ್ಲೇ ಇರುತ್ತದೆ — ಎಲ್ಲಿಗೂ ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ.',
+      useMyLocation: 'ನನ್ನ ಸ್ಥಳವನ್ನು ಬಳಸಿ',
+      notNow: 'ಈಗ ಬೇಡ',
+      locationBlocked: 'ಈ ಸೈಟ್‌ಗೆ ಸ್ಥಳ ಆಫ್ ಆಗಿದೆ.',
+      locationBlockedHow:
+        'ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಅದನ್ನು ಆನ್ ಮಾಡಿ (ವಿಳಾಸ ಪಟ್ಟಿಯಲ್ಲಿರುವ ಲಾಕ್ ಐಕಾನ್ → ಸ್ಥಳ → ಅನುಮತಿಸಿ), ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.',
     },
     listen: {
       nowPlaying: 'ಈಗ ಪ್ಲೇ ಆಗುತ್ತಿದೆ',
@@ -578,6 +611,13 @@ export const strings: Record<Locale, UiStrings> = {
       locationError: 'നിങ്ങളുടെ സ്ഥാനം ലഭിച്ചില്ല. അനുമതി പരിശോധിക്കുക.',
       away: 'അകലെ',
       nearestFirst: 'അടുത്തുള്ളവ ആദ്യം',
+      nearMeWhy:
+        'നിങ്ങൾക്ക് അടുത്തുള്ള ക്ഷേത്രങ്ങളെ ദൂരം അനുസരിച്ച് ക്രമീകരിക്കുക. നിങ്ങളുടെ സ്ഥാനം നിങ്ങളുടെ ഉപകരണത്തിൽ തന്നെ തുടരും — എങ്ങോട്ടും അയയ്ക്കില്ല.',
+      useMyLocation: 'എന്റെ സ്ഥാനം ഉപയോഗിക്കുക',
+      notNow: 'ഇപ്പോൾ വേണ്ട',
+      locationBlocked: 'ഈ സൈറ്റിന് സ്ഥാനം ഓഫാണ്.',
+      locationBlockedHow:
+        'നിങ്ങളുടെ ബ്രൗസറിൽ ഇത് ഓണാക്കുക (വിലാസ ബാറിലെ ലോക്ക് ഐക്കൺ → സ്ഥാനം → അനുവദിക്കുക), എന്നിട്ട് വീണ്ടും ശ്രമിക്കുക.',
     },
     listen: {
       nowPlaying: 'ഇപ്പോൾ കേൾക്കുന്നു',
@@ -688,6 +728,13 @@ export const strings: Record<Locale, UiStrings> = {
       locationError: 'आपका स्थान नहीं मिल सका। अनुमति जाँचें।',
       away: 'दूर',
       nearestFirst: 'निकटतम पहले',
+      nearMeWhy:
+        'मंदिरों को आपसे दूरी के अनुसार क्रमबद्ध करें। आपका स्थान आपके डिवाइस पर ही रहता है — कहीं नहीं भेजा जाता।',
+      useMyLocation: 'मेरा स्थान उपयोग करें',
+      notNow: 'अभी नहीं',
+      locationBlocked: 'इस साइट के लिए स्थान बंद है।',
+      locationBlockedHow:
+        'इसे अपने ब्राउज़र में चालू करें (पता बार में लॉक आइकन → स्थान → अनुमति दें), फिर पुनः प्रयास करें।',
     },
     listen: {
       nowPlaying: 'अभी चल रहा है',
