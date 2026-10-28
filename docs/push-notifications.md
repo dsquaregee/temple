@@ -15,6 +15,11 @@ Two reminder paths ship with the festival calendar:
 
 ---
 
+> **Status (2026-10-28): LIVE.** The Worker is deployed with its KV namespace and
+> VAPID secret set, and the app points at `https://temple-push.dsquaregee.workers.dev`
+> (the workers.dev URL — we skipped the custom domain). `PUSH.enabled` is `true`.
+> The steps below document the setup for rebuilds / rotation.
+
 ## Web Push: one-time setup (≈5 minutes)
 
 The push backend is a **separate** Cloudflare Worker (`infra/push-worker/`). It is

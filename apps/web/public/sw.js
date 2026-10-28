@@ -44,7 +44,9 @@
 // v25: festival reminders — "Add to calendar" (.ics) on festival pages, and Web
 // Push handlers (push / notificationclick) so festival alerts open the Festivals
 // page. Purge so returning visitors get the new pages and SW handlers.
-const VERSION = 'v25';
+// v26: festival push reminders enabled (push Worker live) — the Festivals tab now
+// renders the "Remind me" opt-in. Purge so returning visitors get the toggle.
+const VERSION = 'v26';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
