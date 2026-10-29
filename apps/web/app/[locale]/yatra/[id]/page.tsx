@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { t, type Locale } from '@temple/core';
 import { getCircuit, getCircuitTemples, getCircuits } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
+import { pageAlternates } from '@/lib/seo';
 import { absUrl, breadcrumbList } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
@@ -29,12 +30,7 @@ export function generateMetadata({
   return {
     title: circuit.name,
     description: circuit.description,
-    alternates: {
-      canonical: `/${params.locale}/yatra/${circuit.id}/`,
-      languages: Object.fromEntries(
-        LOCALES.map((l) => [l, `/${l}/yatra/${circuit.id}/`])
-      ),
-    },
+    alternates: pageAlternates(params.locale, (l) => `/${l}/yatra/${circuit.id}/`),
   };
 }
 

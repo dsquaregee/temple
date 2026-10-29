@@ -68,7 +68,9 @@
 // temples are now ranked by deity/circuit/locality — purge for the new pages.
 // v37: lightweight feature-usage beacons (nearby/listen/share/offline/remind/
 // calendar) to the app's own Worker — purge so returning visitors send them.
-const VERSION = 'v37';
+// v38: SEO pass — x-default hreflang on every page, localized <html lang>,
+// Listen meta description, site-wide + fallback Open Graph, festival Event data.
+const VERSION = 'v38';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

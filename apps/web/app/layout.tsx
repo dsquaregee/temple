@@ -14,6 +14,25 @@ export const metadata: Metadata = {
   manifest: '/manifest.webmanifest',
   appleWebApp: { capable: true, statusBarStyle: 'default', title: 'Temple' },
   icons: { icon: '/icon.svg', apple: '/icon.svg' },
+  // Site-wide social defaults so shares of any page (home, circuits, festivals)
+  // render a card. Pages with a better image (e.g. a temple's hero OG) override
+  // `openGraph.images` in their own metadata. A per-page canonical URL is set via
+  // `alternates`, so OG `url` is intentionally left to Next's metadataBase.
+  openGraph: {
+    type: 'website',
+    siteName: 'Temple',
+    title: 'Temple — the great temples of South India',
+    description:
+      'Find, learn, and experience the oldest temples of India — history, architecture, legends, and darshan guidance in six languages.',
+    images: [{ url: '/icon-512.png', width: 512, height: 512, alt: 'Temple' }],
+  },
+  twitter: {
+    card: 'summary',
+    title: 'Temple — the great temples of South India',
+    description:
+      'Find, learn, and experience the oldest temples of India, in six languages.',
+    images: ['/icon-512.png'],
+  },
 };
 
 export const viewport: Viewport = {

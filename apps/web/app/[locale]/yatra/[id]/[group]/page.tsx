@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { t, type Locale } from '@temple/core';
 import { getCircuit, getCircuitTemples, getCircuits } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
+import { pageAlternates } from '@/lib/seo';
 import { absUrl, breadcrumbList } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
@@ -41,10 +42,7 @@ export function generateMetadata({
   return {
     title: `${r.group.name} — ${r.circuit.name}`,
     description: r.circuit.theme,
-    alternates: {
-      canonical: path(params.locale),
-      languages: Object.fromEntries(LOCALES.map((l) => [l, path(l)])),
-    },
+    alternates: pageAlternates(params.locale, path),
   };
 }
 

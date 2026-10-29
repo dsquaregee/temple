@@ -11,6 +11,7 @@ import {
 import { getCircuits, getFestivalCalendar, getTemples } from '@temple/content';
 import { FestivalsNow } from '@/components/FestivalsNow';
 import { LOCALES } from '@/lib/locales';
+import { pageAlternates } from '@/lib/seo';
 import { SITE_URL, SOCIAL } from '@/lib/site';
 import { absUrl } from '@/lib/jsonld';
 import { heroFor } from '@/lib/hero';
@@ -38,13 +39,10 @@ export function generateMetadata({
   params: { locale: Locale };
 }): Metadata {
   const ui = t(params.locale);
-  const langAlternates = Object.fromEntries(
-    LOCALES.map((l) => [l, `/${l}/`])
-  );
   return {
     title: `${ui.appName} — ${ui.tagline}`,
     description: ui.tagline,
-    alternates: { canonical: `/${params.locale}/`, languages: langAlternates },
+    alternates: pageAlternates(params.locale, (l) => `/${l}/`),
   };
 }
 

@@ -7,7 +7,7 @@
     "dev": "next dev",
     "gen:heroes": "node scripts/gen-heroes.mjs",
     "build": "next build",
-    "postbuild": "node scripts/csp-hashes.mjs",
+    "postbuild": "node scripts/csp-hashes.mjs && node scripts/fix-lang.mjs",
     "start": "next start",
     "typecheck": "tsc --noEmit"
   },

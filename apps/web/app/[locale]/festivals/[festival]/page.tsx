@@ -10,6 +10,7 @@ import {
 } from '@temple/core';
 import { getFestivalCalendar, getFestivalTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
+import { pageAlternates } from '@/lib/seo';
 import { absUrl, breadcrumbList, collectionPage } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
@@ -43,12 +44,7 @@ export function generateMetadata({
   return {
     title: `${festival.name} — ${ui.festivals.title}`,
     description: `${festival.name} (${month.name}, ${month.gregorian}) — ${count} ${ui.festivals.temples}.`,
-    alternates: {
-      canonical: `/${params.locale}/festivals/${festival.key}/`,
-      languages: Object.fromEntries(
-        LOCALES.map((l) => [l, `/${l}/festivals/${festival.key}/`])
-      ),
-    },
+    alternates: pageAlternates(params.locale, (l) => `/${l}/festivals/${festival.key}/`),
   };
 }
 
@@ -81,6 +77,37 @@ export default function FestivalDetail({
     })),
   });
 
+  // Event rich results: one dated Event per participating temple on the next
+  // observance. This is the page a festival query should land on, and the date is
+  // the verified Drik Panchang value. Capped so the largest festivals (100+
+  // temples) don't blow the per-page byte budget; omitted entirely when no
+  // upcoming date is known (never faked).
+  const eventsJsonLd = upcomingIso
+    ? {
+        '@context': 'https://schema.org',
+        '@graph': temples.slice(0, 25).map((tp) => ({
+          '@type': 'Event',
+          name: `${festival.name} at ${tp.name}`,
+          startDate: upcomingIso,
+          eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+          eventStatus: 'https://schema.org/EventScheduled',
+          location: {
+            '@type': 'Place',
+            name: tp.name,
+            address: {
+              '@type': 'PostalAddress',
+              addressLocality: tp.location.city,
+              addressRegion: tp.location.state,
+              addressCountry: 'IN',
+            },
+          },
+          url: absUrl(`${locale}/temples/${tp.id}/`),
+          description: `${festival.name} (${month.name}) at ${tp.name}, ${tp.location.city}.`,
+          isAccessibleForFree: true,
+        })),
+      }
+    : null;
+
   return (
     <PageChrome
       locale={locale}
@@ -89,6 +116,7 @@ export default function FestivalDetail({
     >
       <JsonLd data={listing} />
       <JsonLd data={breadcrumbs} />
+      {eventsJsonLd && <JsonLd data={eventsJsonLd} />}
 
       <div className="hero">
         <span className="eyebrow">
