@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { t, type Locale } from '@temple/core';
+import { track } from '@/lib/analytics';
 
 // Share the current page via the device's native share sheet (Web Share API) —
 // the way links spread on WhatsApp/Telegram. Falls back to copying the link to
@@ -25,6 +26,7 @@ export function ShareButton({
     if (typeof navigator !== 'undefined' && navigator.share) {
       try {
         await navigator.share({ title, url: shareUrl });
+        track('share');
         return;
       } catch {
         return; // user cancelled, or share failed — don't also copy
@@ -33,6 +35,7 @@ export function ShareButton({
     try {
       await navigator.clipboard.writeText(shareUrl);
       setCopied(true);
+      track('share');
       setTimeout(() => setCopied(false), 2000);
     } catch {
       /* clipboard blocked — nothing more we can do */

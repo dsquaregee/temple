@@ -2,6 +2,7 @@
 
 import { t, type Locale } from '@temple/core';
 import { useOffline } from '@/lib/offline';
+import { track } from '@/lib/analytics';
 
 // "Download for offline" toggle. Two sources of resources:
 //   • `resources` — an inline URL list (a single temple: page + audio + hero).
@@ -50,6 +51,7 @@ export function OfflineButton({
       }
     }
     await download(urls);
+    track('offline_download');
   }
 
   const label = busy

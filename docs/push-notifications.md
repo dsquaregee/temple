@@ -101,6 +101,21 @@ the site redeploy. The "Remind me" toggle now appears on the Festivals tab.
   it is installed. The `.ics` "Add to calendar" path has no such limit, which is
   why both ship.
 
+## Feature-usage analytics (same Worker)
+
+The Worker also keeps a tiny, privacy-light usage counter (no PII, no identifiers).
+The site beacons an event name to `POST /event` for a fixed whitelist
+(`nearby_city`, `listen_play`, `share`, `offline_download`, `remind_enable`,
+`festival_cal`) and the Worker increments per-event totals + per-day counts in KV.
+
+- **It activates on the next `wrangler deploy`** of the push Worker (same deploy
+  as any festival-date refresh). Until then the beacons simply 404, harmlessly.
+- **Read the numbers:** `curl https://temple-push.dsquaregee.workers.dev/stats`
+  → JSON of `{ <event>: { total, days: {<date>: n} } }` for the last 14 days.
+- Counters use read-modify-write (KV has no atomic increment), so under heavy
+  concurrency a few hits can be missed — fine for an approximate "which features
+  get used" signal.
+
 ## Keeping festival dates in sync
 
 The Worker ships its own `src/festival-dates.json` (it is deployed separately and

@@ -8,6 +8,7 @@ import {
   type Locale,
   type UiStrings,
 } from '@temple/core';
+import { track } from '@/lib/analytics';
 
 // The Listen tab as an in-place player. The narrated temples become a playlist:
 // tapping one starts playback in a sticky "now playing" bar without leaving the
@@ -44,6 +45,7 @@ export function ListenPlayer({
     setElapsed(0);
     setDuration(0);
     setIndex(i);
+    track('listen_play');
   }, []);
 
   const step = useCallback(
