@@ -1,0 +1,40 @@
+{
+  "id": "achyutaraya-hampi",
+  "locale": "or",
+  "nativeName": "ಅಚ್ಯುತರಾಯ ದೇವಾಲಯ, ಹಂಪೆ",
+  "location": {
+    "city": "Hampi",
+    "state": "Karnataka",
+    "lat": 15.3327,
+    "lng": 76.4701
+  },
+  "century": 16,
+  "unesco": true,
+  "circuits": [
+    "hampi-vijayanagara-temples"
+  ],
+  "sections": {
+    "history": "The temple was consecrated in 1534, in the reign of Achyuta Deva Raya, who succeeded his half-brother Krishnadevaraya in 1529. It was raised by a high officer of his court to Vishnu as Tiruvengalanatha, the Lord of the Venkata hill at Tirumala, whose shrine the Tuluva kings honoured with rich gifts — yet it has always been known by the king's name rather than the god's. It was among the last grand temple projects of the capital: barely three decades later, after the defeat of 1565, Vijayanagara was abandoned and worship here ceased. The ruined complex is now a protected monument within the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
+    "architecture": "The plan is the mature Vijayanagara temple-town in miniature: two concentric walled enclosures, each entered through a towered gateway on the north, with the sanctum and its pillared halls at the centre of the inner court and a kalyana mandapa, the hall of the divine marriage, in the outer court. Its pillars carry the rearing yalis and finely cut figures of the period. Leading north from the gateways runs a broad, long street lined with pillared pavilions — the old Sule Bazaar — which carried processions and trade towards the river.",
+    "legends": "The god here is the Venkateshwara of Tirumala, and the temple's chief story is that of his devotees at court, who carried the worship of the sacred hill to the heart of their capital. The setting has a Ramayana memory of its own: the temple lies in the valley between Gandhamadana and Matanga hills, and tradition links Matanga hill with the sage Matanga of the Ramayana, whose curse kept Vali away from the hills where his brother Sugriva took refuge.",
+    "festivals": "As a monument no longer in worship, the temple keeps no festival calendar. In its day the colonnaded street before it served the god's processions. Hampi comes alive during the Hampi Utsav, the state festival of music and dance staged among the ruins, usually in the cooler months; confirm dates locally.",
+    "experience": "Arrive on foot, as most visitors do — along the riverside path from the Kodandarama temple, or over the shoulder of Matanga hill from the end of Hampi Bazaar — and the temple appears suddenly in its quiet valley. Walk the length of the colonnaded street first to feel its scale, then pass through the two gateways into the courts. Late afternoon light on the hills makes the setting especially memorable."
+  },
+  "visit": {
+    "timings": "Open daily from sunrise to sunset as an ASI-protected monument. Confirm hours and any ticketing locally.",
+    "dressCode": "Modest dress is appreciated; sturdy shoes, water and sun protection help, as the approach paths are rocky.",
+    "photography": "Photography is generally allowed; tripods or professional shoots may need permission from the Archaeological Survey of India.",
+    "gettingThere": "The temple lies about 1 km east of the Virupaksha temple at Hampi, in Karnataka's Vijayanagara district, reached on foot from Hampi Bazaar or from the Kodandarama temple by the river. Hosapete (Hospet), about 13 km away, has the nearest railway station; the nearest airport is at Vidyanagar near Toranagallu, with larger airports at Hubballi and Bengaluru."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/achyutaraya-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Achyutaraya Temple, Hampi",
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/achyutaraya-hampi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/achyutaraya-hampi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/achyutaraya-hampi.jpg"
+  }
+}

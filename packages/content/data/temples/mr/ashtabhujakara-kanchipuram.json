@@ -1,0 +1,41 @@
+{
+  "id": "ashtabhujakara-kanchipuram",
+  "locale": "mr",
+  "nativeName": "அஷ்டபுஜப் பெருமாள் கோயில், திருவட்டபுயகரம், காஞ்சிபுரம்",
+  "location": {
+    "city": "Kanchipuram",
+    "state": "Tamil Nadu",
+    "lat": 12.823,
+    "lng": 79.711
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "divya-desams",
+    "temples-of-kanchipuram"
+  ],
+  "sections": {
+    "history": "Thiruvattabuyagaram — 'the sacred place of the eight arms' — is one of the 108 Divya Desams and one of the fourteen Divya Desams within Kanchipuram, the ancient capital of Thondai Nadu. It was sung by Pey Alvar, one of the three Mudhal Alvars, and by Thirumangai Alvar, whose pilgrim hymns gather in so many of Kanchi's Vishnu shrines. The Lord here is known by several names: Ashtabhuja Perumal for his eight arms, Adikesava Perumal, Chakradhar, and Gajendra Varadhan, the protector of the elephant. Among Kanchi's great temple cluster it is a smaller shrine, but its place in the Prabandham has kept it in the round of every Divya Desam pilgrim to the city.",
+    "architecture": "The temple follows the Dravidian plan of Kanchi's Vishnu shrines, entered through a gateway tower into a walled court, with the sanctum of the eight-armed Lord at the centre and the Goddess Alarmelmangai in her own shrine. The presiding image is the shrine's distinction: Vishnu shown with eight arms rather than the usual four, the form that gives the temple its name. Pillared halls open before the sanctum in the manner of the town's temples.",
+    "legends": "The sthala purana belongs to the great Kanchi cycle of Brahma's sacrifice. Saraswati, angered that Brahma had sided with Lakshmi, sent hostile forces to break up the sacrifice — in one telling a host of demons and then the fierce lion-bird Sharabha, in another a serpent. Vishnu rose to guard the rite, taking a form with eight arms, and drove them back. Another tradition links the shrine to Gajendra Moksha, the rescue of the elephant king from the crocodile — hence the name Gajendra Varadhan.",
+    "festivals": "The temple keeps the Vaishnava festival year of Kanchipuram — Vaikunta Ekadashi in Margazhi, the birth-stars of Pey Alvar and Thirumangai Alvar, and the annual festival of the presiding Lord, when the processional image comes out into the streets. Confirm festival dates locally.",
+    "experience": "Visit as part of a round of Kanchipuram's Divya Desams; the Azhagiya Singar temple of Thiruvelukkai lies close by. Pause before the eight-armed Lord and remember the legend of a sacrifice protected. A quieter shrine than the great temples of the town, it rewards a slow, attentive darshan."
+  },
+  "visit": {
+    "timings": "Open daily with morning and evening darshan sessions and a midday closure. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "It lies within Kanchipuram town, which has a railway station and is reached by road from Chennai (around 70 km); Chennai has the nearest major airport."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "Ashtabhuja Perumal Temple, Kanchipuram",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/ashtabhujakara-kanchipuram.jpg"
+  }
+}

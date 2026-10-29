@@ -1,0 +1,40 @@
+{
+  "id": "garuda-brahma-alampur",
+  "locale": "mr",
+  "nativeName": "గరుడ బ్రహ్మ ఆలయం, అలంపూర్",
+  "location": {
+    "city": "Alampur",
+    "state": "Telangana",
+    "lat": 15.8771,
+    "lng": 78.1356
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "alampur-navabrahma-temples"
+  ],
+  "sections": {
+    "history": "Garuda Brahma is one of the nine Navabrahma temples built at Alampur under the Early Chalukyas of Badami, and it stands just to the south of Bala Brahma, the group's living shrine. No foundation inscription for it is known, and it is generally dated to the seventh or eighth century, among the more developed temples of the group. Its name, like those of its siblings, comes from the tradition of Brahma's penance at Alampur, here joined to Garuda, whose figure appears over the sanctum door. It is protected today by the Archaeological Survey of India, and although some of its facade sculpture has been lost, its hall and carved pillars survive well.",
+    "architecture": "The temple is lifted on a raised platform and crowned by a curving northern tower. A small entrance porch opens into a large hall carried on eighteen pillars, round in section and banded with flowers and small human figures, and beyond it the sanctum is ringed by a passage for circumambulation. On the hall ceiling a seven-hooded naga coils around a lotus. The sanctum doorway shows Garuda with Ganga and Yamuna, and above it Brahma seated in penance; on the outer walls, arched torana motifs frame warriors, celestial musicians and serpent beings.",
+    "legends": "The Navabrahma tradition holds that Brahma worshipped Shiva at Alampur in nine forms, and this temple joins that memory to Garuda, the great eagle who carries Vishnu. It is a fitting meeting: over the doorway of a Shiva sanctum, Garuda keeps watch beside the river goddesses while Brahma sits above in penance, so that the three great gods are present together on one carved frame. The seven-hooded serpent on the ceiling recalls the nagas, Garuda's age-old adversaries, here coiled peacefully around a lotus.",
+    "festivals": "Garuda Brahma has no daily worship and no festival of its own; it is visited as part of the Navabrahma precinct. Pilgrims pass it in great numbers at Maha Shivaratri on their way to Bala Brahma next door, and again during Jogulamba's Navaratri and Dasara. Early mornings outside these festivals are the quietest. Confirm dates locally.",
+    "experience": "Climb the platform and pause in the porch before entering the hall: the eighteen pillars make a small forest of carved stone, and the serpent ceiling is best seen by standing at its centre and looking straight up. At the sanctum door, look for Garuda and for Brahma in penance above him. Bala Brahma is a few steps to the north, so the two are easily seen together."
+  },
+  "visit": {
+    "timings": "Open in daylight hours as an Archaeological Survey of India monument within the Navabrahma precinct; it is not a place of daily worship. Confirm current hours and any ticketing locally.",
+    "dressCode": "No strict dress code applies at the monument, but modest dress is appropriate in this sacred precinct, and footwear is removed at the active shrines nearby.",
+    "photography": "Photography of the exterior and the pillared hall is generally permitted; tripods or professional equipment may need permission from the Archaeological Survey of India. Follow the posted rules.",
+    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away. The temple stands immediately south of the Bala Brahma temple, close to the Jogulamba temple."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Garuda Brahma Temple, Alampur",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/garuda-brahma-alampur.jpg"
+  }
+}

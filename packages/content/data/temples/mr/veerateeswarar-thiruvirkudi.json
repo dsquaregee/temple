@@ -1,0 +1,41 @@
+{
+  "id": "veerateeswarar-thiruvirkudi",
+  "locale": "mr",
+  "nativeName": "திருவிற்குடி வீரட்டேஸ்வரர் கோயில்",
+  "location": {
+    "city": "Thiruvirkudi",
+    "state": "Tamil Nadu",
+    "lat": 10.8314,
+    "lng": 79.6636
+  },
+  "century": 7,
+  "unesco": false,
+  "circuits": [
+    "ashta-veerattanam",
+    "paadal-petra-sthalams"
+  ],
+  "sections": {
+    "history": "Thiruvirkudi, also called Virkudi, is a village about 10 km north of Tiruvarur in the heart of the Kaveri delta. Its temple to Shiva as Veerateeswarar is one of the eight Ashta Veerattanams, the one that remembers the Lord's victory over Jalandhara. Sambandar sang the Lord of Thiruvirkudi in the Tevaram, and the temple is counted among the Paadal Petra Sthalams of the Chola country. Its present masonry is assigned to the Chola period, with later expansion under the Thanjavur Nayaks. Small and rural, it has long kept its place on the pilgrim road of the eight Veerattanams, set among the fields and tanks of the delta.",
+    "architecture": "The temple is laid out in the Dravidian manner of the delta, with a gateway, an enclosing courtyard and the sanctum of Veerateeswarar, and the goddess Elavar Kuzhali in her own shrine. In the outer courtyard two small shrines carry the story of the place: one honours the Shiva whom Vishnu worshipped, and another marks the spot where, tradition holds, Brinda was restored to life as the tulasi plant.",
+    "legends": "Jalandhara, born of the fire of Shiva's own anger cast into the sea, grew into an asura king of terrible strength, shielded by the steadfast virtue of his wife Brinda. When he challenged the Lord himself, Shiva drew a wheel on the ground with his toe and bade the demon lift it; as Jalandhara raised it, the discus cut him down. Tradition here holds that Shiva later gave that discus to Vishnu, who worshipped him for it, and that Brinda was raised to life as the tulasi, dear to Vishnu ever after.",
+    "festivals": "The temple keeps the festivals of the Shaiva year — Maha Shivaratri, the fortnightly pradosham, Arudra Darshan in Margazhi and Karthigai Deepam — and its annual festival brings the processional bronzes out through the village streets, and the monthly cycle of worship continues quietly in every season. Confirm dates locally.",
+    "experience": "Thiruvirkudi is a still, green place, typical of the delta's village shrines. Pilgrims come to complete the eight Veerattanams, and many linger by the small tulasi shrine in the outer courtyard, where the stories of Shiva and Vishnu meet. Tiruvarur's great Thyagaraja temple is close by, and the road north leads on to Mayiladuthurai and the other Veerattanams."
+  },
+  "visit": {
+    "timings": "Open daily in morning and evening sessions with a midday closure, as at most village temples of the delta. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
+    "gettingThere": "Thiruvirkudi lies about 10 km north of Tiruvarur and is reached by road. Tiruvarur is the nearest railway junction; Tiruchirappalli is the nearest large airport."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/veerateeswarar-thiruvirkudi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Veerateeswarar Temple, Thiruvirkudi",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/veerateeswarar-thiruvirkudi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/veerateeswarar-thiruvirkudi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/veerateeswarar-thiruvirkudi.jpg"
+  }
+}

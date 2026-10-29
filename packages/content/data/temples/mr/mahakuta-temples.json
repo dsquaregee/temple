@@ -1,0 +1,40 @@
+{
+  "id": "mahakuta-temples",
+  "locale": "mr",
+  "nativeName": "ಮಹಾಕೂಟ ದೇವಾಲಯಗಳು (ಮಹಾಕೂಟೇಶ್ವರ)",
+  "location": {
+    "city": "Mahakuta",
+    "state": "Karnataka",
+    "lat": 15.9328,
+    "lng": 75.7217
+  },
+  "century": 7,
+  "unesco": false,
+  "circuits": [
+    "badami-chalukya-monuments"
+  ],
+  "sections": {
+    "history": "Mahakuta is a village about 15 km from Badami, where a cluster of early Chalukya temples, assigned to the sixth and seventh centuries, gathers around a sacred pool. The dating rests on the style, which is close to that of Aihole, and on inscriptions found here. A pillar inscription of about 595 to 602 CE, in Sanskrit written in the Kannada script, was recorded at Mahakuta; the pillar itself is now kept in Vijayapura, and its original position is uncertain. Another inscription, the Vinapoti, is cut into the porch of the Mahakuteshwara temple and is placed in the late seventh or early eighth century. The two largest shrines, Mahakuteshwara and Mallikarjuna, stand among a crowd of smaller ones, all dedicated to Shiva.",
+    "architecture": "Mahakuteshwara is the main shrine, a Dravida temple, and Mallikarjuna stands on the far side of the complex, also Dravida in form. Around them are many smaller shrines of the same early style. At the heart of the group lies the Vishnu Pushkarini, a large tank also called Kashi Tirtha, fed by a natural spring that flows within the complex. A small shrine at the centre of the tank houses a five-faced Shiva linga. The temples are set on either side of the water, so the group reads as a single composition of shrine, spring and stone.",
+    "legends": "Tradition attributes the pond to the sage Agastya, whose name clings to many waters of the Badami country. The tank is also called Kashi Tirtha, a name that echoes the sanctity of Kashi and brings it to this quiet valley. The five-faced linga that rises at its centre recalls Shiva’s five faces, the Panchamukha form. Beyond these traditions, Mahakuta’s own story is told by its inscriptions and by the long devotion that has kept its spring and shrines in use.",
+    "festivals": "Maha Shivaratri is the most important observance at Mahakuta, and village fairs gather around the shrines on festival days; confirm dates locally. The spring-fed tank is the centre of any gathering here, and the group is often included in the regional Chalukya heritage celebrations of the Badami area.",
+    "experience": "Arrive early, when the valley is still and the water of the Vishnu Pushkarini lies glassy. Walk the rim of the tank, find the small central shrine, then step into Mahakuteshwara to see the porch where the Vinapoti inscription is cut. The sound of flowing spring water and the drift of village life make this a more contemplative stop than the busier sites nearby. Many visitors combine it with Badami and Banashankari in a single day."
+  },
+  "visit": {
+    "timings": "The temples are open in daytime; the active shrines may keep their own worship hours. Confirm timings and any fees locally.",
+    "dressCode": "Modest dress is appropriate, and footwear is left outside the shrines; the stones around the tank can be wet and slippery.",
+    "photography": "Photography is generally fine around the tank and temple exteriors; ask before photographing inside shrines or worshippers.",
+    "gettingThere": "Mahakuta is in Bagalkot district, about 15 km from Badami by road, off the route between Badami and Pattadakal. Badami has the nearest railway station, and the nearest airport is Hubballi. Autos and taxis from Badami cover the short drive."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahakuta-temples.jpg",
+    "color": "#5C3A2E",
+    "alt": "Mahakuta Temples (Mahakuteshwara), near Badami",
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Sudhir Herle / Wikimedia Commons (CC BY-SA 4.0) · Deepak Patil / Wikimedia Commons (CC BY-SA 3.0) · Eva Naudts / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/mahakuta-temples.avif",
+      "webp": "https://media.dsquaregee.com/heroes/mahakuta-temples.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/mahakuta-temples.jpg"
+  }
+}

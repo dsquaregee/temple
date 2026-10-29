@@ -1,0 +1,40 @@
+{
+  "id": "vaikom-mahadeva",
+  "locale": "mr",
+  "nativeName": "വൈക്കം മഹാദേവ ക്ഷേത്രം",
+  "location": {
+    "city": "Vaikom, Kottayam district",
+    "state": "Kerala",
+    "lat": 9.748,
+    "lng": 76.393
+  },
+  "century": 11,
+  "unesco": false,
+  "circuits": [
+    "sacred-temples-of-kerala"
+  ],
+  "sections": {
+    "history": "Vaikom Mahadeva Temple is counted among the oldest living Shiva temples of Kerala, and generations of devotees have gathered at its precincts. Over the centuries it received support from local chieftains and regional rulers, who endowed lands and provided for its daily rites. In the twentieth century the temple's surroundings became the setting of the Vaikom Satyagraha of 1924 to 1925, a non-violent movement for the right of all communities to use the public roads around the temple. The campaign drew attention across India and is remembered as a landmark in the struggle against social exclusion. Today the shrine continues its unbroken rhythm of worship, and its long history is felt in the worn stone, the daily rituals, and the enduring devotion of pilgrims.",
+    "architecture": "The temple follows the traditional idiom of Kerala, arranged as a spacious walled complex entered through tall gateway structures. At its heart stands the srikovil, the sanctum housing the lingam, roofed in the layered manner characteristic of the region and set within a broad circumambulatory court. A koothambalam, the pillared theatre hall used for ritual performance, stands within the precincts, reflecting the close bond between temple and classical stage in Kerala. Sloping tiled roofs, timber detailing, and lamp-lined walls give the complex its distinctive coastal character. The extensive outer enclosures, tanks, and subsidiary shrines add to the sense of scale, while the measured proportions of the sanctum keep the focus on the presiding deity.",
+    "legends": "Vaikkathappan is worshipped in a manner unusual even among Shiva shrines: the same Lord is revered in three aspects through the day. In the morning he is contemplated as Dakshinamurthy, the serene teacher; at noon as Kirata, the hunter form; and in the evening he is worshipped together with Parvati as Uma-sametha, the householder Lord. Devotees thus experience three moods of a single deity within one day. Vaikom is further linked with two neighbouring shrines, Ettumanoor and Kaduthuruthy. Tradition holds that a pilgrim who worships at all three on the day of Vaikathashtami, completing the round before noon, gains merit equal to a pilgrimage to Kashi. These beliefs draw many worshippers who plan the circuit with care.",
+    "festivals": "The grand annual festival is Vaikathashtami, observed in the Malayalam month of Vrischikam, which falls around November and December. It unfolds over many days and culminates in the Ashtami darshan, regarded as the most auspicious moment for devotees. The days are marked by processions, ceremonial offerings, temple music, and large gatherings of pilgrims who arrive from across Kerala and beyond. Cultural and ritual performances fill the precincts, and the koothambalam and outer courts come alive with activity. Alongside Vaikathashtami, the temple observes the regular Shaiva occasions of the year, but it is this festival that most defines the shrine's calendar and its wider renown.",
+    "experience": "A visit to Vaikom unfolds slowly, in keeping with the rhythms of a traditional Kerala shrine. Pilgrims pass through the tall gateways into wide courts where oil lamps glow against dark timber and stone. The sense of antiquity is strong, felt in the worn thresholds and the steady round of daily worship. Many devotees time their darshan to encounter one of the three aspects of Vaikkathappan, returning through the day to receive the morning, noon, and evening forms. The nearness of the Vembanad backwaters lends the town a quiet, watery calm. Whether during the crowded days of Vaikathashtami or on an ordinary morning, the atmosphere is reverent and unhurried, inviting stillness and reflection."
+  },
+  "visit": {
+    "timings": "The temple generally opens in the early morning and again in the evening, with a midday closure, in the manner of Kerala Shiva temples. Ritual and darshan hours vary by season and festival, so please verify the current timings locally before travelling.",
+    "dressCode": "Traditional attire is expected. Following the custom of many Kerala temples, men are often required to remove upper garments and wear a mundu, while women dress modestly in a saree or similar. Please confirm the current requirements at the temple.",
+    "photography": "Photography is typically restricted within the temple precincts, especially near the sanctum. Devotees should seek permission and follow the instructions of temple staff.",
+    "gettingThere": "The temple is at Vaikom in Kottayam district, near the Vembanad backwaters. The nearest railheads are at Kottayam and Ernakulam, and the nearest airport is at Kochi. Vaikom is reachable by road and also by the region's backwater routes."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.jpg",
+    "color": "#5C3A2E",
+    "alt": "Vaikom Mahadeva Temple (Vaikkathappan)",
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaikom-mahadeva.jpg"
+  }
+}

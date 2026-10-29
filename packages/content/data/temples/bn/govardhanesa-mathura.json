@@ -1,0 +1,40 @@
+{
+  "id": "govardhanesa-mathura",
+  "locale": "bn",
+  "nativeName": "गोवर्धनेश मंदिर, मथुरा",
+  "location": {
+    "city": "Mathura (Thiru Vadamathurai)",
+    "state": "Uttar Pradesh",
+    "lat": 27.505,
+    "lng": 77.67
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "divya-desams"
+  ],
+  "sections": {
+    "history": "Thiru Vadamathurai is one of the 108 Divya Desams and belongs to Vada Nadu, the northern country. Five Alvars sang of it in the Nalayira Divya Prabandham: Periyalvar, Andal, Thondaradippodi Alvar, Thirumangai Alvar and Nammalvar. Andal's Thiruppavai opens its fifth verse with a praise of the lord of northern Mathura. The temple the Alvars knew does not survive as an identifiable structure, and the Sri Vaishnava tradition honours the Divya Desam as Mathura itself, together with Vrindavan and Govardhan. Pilgrim guides associate the shrine with Krishna's birthplace, the Sri Krishna Janmasthan complex, where devotees gather today. Mathura is also one of the seven Mukti Kshetras, the sacred cities of liberation.",
+    "architecture": "The Alvars' temple is lost, so the Divya Desam is experienced at Mathura itself, chiefly at the Krishna Janmasthan complex. It has three main parts: the Keshavdev temple, the Garbh Griha marking the birthplace, and the Bhagavata Bhavan of Radha and Krishna. The present temple was consecrated in 1958. Sri Vaishnava listings name the lord's vimana as the Govardhana Vimana and the sacred water as the Yamuna, which flows beside the city.",
+    "legends": "The name Govardhanesan recalls Krishna lifting Govardhan hill to shelter the cowherds from Indra's storm; the hill lies about 20 km from Mathura. The sthala purana also tells that Shatrughna, at Rama's bidding, slew the demon Lavanasura and founded Mathura on the Yamuna, long before Krishna was born here. Andal's Thiruppavai remembers the lord as the wonder-worker of northern Mathura.",
+    "festivals": "Krishna Janmashtami is the great festival of Mathura, and Vaikunta Ekadashi is kept by Sri Vaishnava pilgrims. The Holi season is celebrated across Braj with great joy. Confirm festival dates and darshan arrangements locally, as crowds are very large on festival days.",
+    "experience": "Plan to visit the Krishna Janmasthan complex and walk down to the Yamuna ghats, then, if time allows, travel on to Vrindavan and Govardhan, which the tradition treats together with Mathura. Expect crowds at the complex, and carry only what you need."
+  },
+  "visit": {
+    "timings": "The Janmasthan complex opens daily for morning and evening darshan, with a midday closure. Janmashtami and Holi are extremely busy. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "Mathura is on the Yamuna in Uttar Pradesh and has a major railway junction, with good road and rail links to Delhi and Agra. The Krishna Janmasthan complex is reached by local transport within the city. Govardhan lies about 20 km away."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.jpg",
+    "color": "#5C3A2E",
+    "alt": "Govardhanesa Perumal Temple, Mathura (Thiru Vadamathurai)",
+    "credit": "Diego Delso / Wikimedia Commons (CC BY-SA 4.0) · Wikimedia Commons / Wikimedia Commons (CC BY-SA 2.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.avif",
+      "webp": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/govardhanesa-mathura.jpg"
+  }
+}

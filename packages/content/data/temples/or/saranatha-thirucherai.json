@@ -1,0 +1,40 @@
+{
+  "id": "saranatha-thirucherai",
+  "locale": "or",
+  "nativeName": "சாரநாதப் பெருமாள் கோயில், திருச்சேறை",
+  "location": {
+    "city": "Thirucherai",
+    "state": "Tamil Nadu",
+    "lat": 10.8786,
+    "lng": 79.4542
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "divya-desams"
+  ],
+  "sections": {
+    "history": "Thirucherai lies in the Kaveri delta near Kumbakonam, between the Kudamurutti and Mudikondan rivers. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Chola Nadu; Thirumangai Alvar praised the Lord here in thirteen hymns, by one reckoning. A Chola-period inscription of the tenth century is among the early records of the shrine, and the Medieval Cholas, the Vijayanagara rulers and the Madurai Nayaks are each remembered as contributors to the temple. Today it is visited as part of the Kumbakonam round of Divya Desams.",
+    "architecture": "A five-tiered rajagopuram, said to rise about 120 feet, marks the entrance, and a second, three-tiered gopuram stands at the first precinct. The sanctum is crowned by the Sara Vimanam, and the sacred tank is the Sara Pushkarini. Together with the Lord Saranatha, the Goddess Saranayaki and the place itself, these make up the five Saras that give the shrine its title of Pancha Sara Kshetram.",
+    "legends": "Tradition tells that Kaveri, grieved that Ganga was held greater because Vishnu's foot touched her in the Vamana avatar, performed penance on the bank of the Sara Pushkarini. The Lord is said to have appeared before her as a child on her lap, and the temple keeps a shrine of Kaveri with the child, a rare sight in a Vishnu temple. Another tradition holds that Brahma shaped a pot from the earth of Thirucherai to keep the Vedas safe before the deluge, linking this shrine to the origin story of Kumbakonam.",
+    "festivals": "Thai Poosam is the great day, when the Lord with his consorts gives darshan as a child in Kaveri's arms, borne on a decorated chariot. Devotees hold that a bath in the Sara Pushkarini on Thai Poosam, in the year of Jupiter's conjunction, equals the Mahamaham bath at Kumbakonam. Other Vaishnava days follow the usual temple calendar.",
+    "experience": "A quiet village shrine in the Kaveri delta, rewarding for pilgrims on the Kumbakonam Divya Desam circuit. Look for the five-tiered gateway, the Sara Pushkarini and the shrine of Kaveri with the child. Thai Poosam is the most devout and busiest time; on other days the temple is calm and unhurried."
+  },
+  "visit": {
+    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "Thirucherai is a village a short drive from Kumbakonam in the Kaveri delta of Tamil Nadu; Kumbakonam is the nearest large town and railhead, and Tiruchirappalli is the nearest major airport. Reach it by road from Kumbakonam, and confirm local directions on the way."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",
+    "color": "#5C3A2E",
+    "alt": "Saranatha Perumal Temple, Thirucherai",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.avif",
+      "webp": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/saranatha-thirucherai.jpg"
+  }
+}

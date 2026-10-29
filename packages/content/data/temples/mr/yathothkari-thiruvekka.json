@@ -1,0 +1,41 @@
+{
+  "id": "yathothkari-thiruvekka",
+  "locale": "mr",
+  "nativeName": "யதோத்காரி பெருமாள் கோயில், திருவெஃகா",
+  "location": {
+    "city": "Kanchipuram",
+    "state": "Tamil Nadu",
+    "lat": 12.8242,
+    "lng": 79.7122
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "divya-desams",
+    "temples-of-kanchipuram"
+  ],
+  "sections": {
+    "history": "Thiruvekka stands in Chinna Kanchipuram, the eastern part of the temple town, and is one of the 108 Divya Desams of Thondai Nadu. The Alvar saints Poigai, Peyalvar, Thirumazhisai, Nammalvar and Thirumangai sang its lord in the Nalayira Divya Prabandham. The shrine is mentioned even in the Sangam text Perumpanatruppadai, and tradition credits its building to the Pallavas, with later contributions from the Medieval Cholas and the Vijayanagara kings. Three inscriptions on its walls record endowments: two of Kulothunga Chola I and one of Rajadhiraja Chola. Tradition also holds that Poigai Alvar, the first of the Alvars, was born in the temple's lotus tank, the Poigai Pushkarini, which lies outside the temple complex.",
+    "architecture": "A three-tiered rajagopuram opens the way into the temple, and the Vedasara Vimanam rises over the sanctum. Within, the lord lies on the serpent Adisesha facing west, in an unusual posture: his head rests on his left hand, the reverse of the customary reclining form, known as the maaru sayanam. The Goddess Komalavalli Thayar has her own shrine on the eastern side, facing the central sanctum. The Poigai Pushkarini, the lotus tank linked to the birth of Poigai Alvar, lies just outside the complex.",
+    "legends": "The sthala purana tells that Saraswati, slighted when Brahma began his sacrifice at Kanchi, came rushing as the river Vegavati to destroy it; Vishnu lay down across her path like a dam, and the name Vekka, Thiruvekka, is traced to this. A second story is the temple's best loved. The Pallava king banished Kanikannan, a disciple of Thirumazhisai Alvar; the Alvar left with him and asked the lord to roll up his serpent bed and follow, and the lord did. When the king repented, the Alvar bade the lord return, and he came back. Hence the name Yathothkari, or Sonna Vannam Seidha Perumal: the lord who did as he was told.",
+    "festivals": "The Brahmotsavam is celebrated in the Tamil month of Panguni, with processions of the lord through Kanchipuram. The birth star of Poigai Alvar, Thiruvonam in Aippasi, is kept as his special day, and Vaikunta Ekadashi draws devotees here as at other Divya Desams. Confirm dates locally.",
+    "experience": "Come for the unusual reclining form, head resting on the left hand, and for the story that makes the lord a servant of his devotee's word. Pause at the Poigai Pushkarini outside, tied to Poigai Alvar's birth, and read the Alvars' verses here if you can. The visit pairs naturally with the other Divya Desams of Kanchipuram."
+  },
+  "visit": {
+    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "Thiruvekka is in Chinna Kanchipuram, the eastern part of Kanchipuram town. Kanchipuram has a railway station and is reached by road from Chennai; Chennai International Airport is the nearest major airport."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.jpg",
+    "color": "#5C3A2E",
+    "alt": "Yathothkari Perumal Temple, Thiruvekka",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.avif",
+      "webp": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/yathothkari-thiruvekka.jpg"
+  }
+}

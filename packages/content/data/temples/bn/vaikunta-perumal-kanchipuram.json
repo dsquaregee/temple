@@ -1,0 +1,41 @@
+{
+  "id": "vaikunta-perumal-kanchipuram",
+  "locale": "bn",
+  "nativeName": "வைகுண்ட பெருமாள் கோயில் (திருப்பரமேச்சுர விண்ணகரம்), காஞ்சிபுரம்",
+  "location": {
+    "city": "Kanchipuram",
+    "state": "Tamil Nadu",
+    "lat": 12.8369,
+    "lng": 79.71
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "divya-desams",
+    "temples-of-kanchipuram"
+  ],
+  "sections": {
+    "history": "Known to the Alvars as Thiruparameswara Vinnagaram, this is one of the 108 Divya Desams in Thondai Nadu. It was built under the Pallava king Nandivarman II Pallavamalla, who reigned in the eighth century, and art historians place its construction around 770 to 775 CE; it is built of sandstone. Thirumangai Alvar sang it in ten verses of the Periya Thirumozhi, most likely in the same reign. Several of the verses carry the refrain of the Vinnagaram to which the Pallava king bowed in homage, and one recalls that the king, having defeated a Pandya, bowed to the Lord. The last verse promises that those who learn the ten will rule as kings.",
+    "architecture": "The glory of the temple is its vimana, which holds three sanctums stacked one above another: Vishnu seated at the ground level, reclining as Sheshashayee on the first floor, and standing at the top, a sanctum said to be opened only on Ekadashi. The vimana is larger than that of the earlier Kailasanatha temple in the same town. A raised verandah around it carries sculpted panels that tell the story of several Pallava reigns, making the walls a kind of stone chronicle.",
+    "legends": "The memory most closely tied to this shrine is historical as much as sacred. Thirumangai Alvar's hymn recalls a Pallava king who defeated a Pandya and then bowed before the Lord of Paramesvara Vinnagaram. Its refrain keeps that homage alive: the Vinnagaram to which the Pallava king bowed. The verses end with a blessing for those who learn them, and so the shrine joins royal devotion to the long Vaishnava tradition of singing the Lord's abodes.",
+    "festivals": "Vaikunta Ekadashi is the most significant day here, and it carries special meaning because the standing sanctum at the top of the vimana is said to be opened on Ekadashi. The Divya Prabandham verses, including Thirumangai Alvar's decad on this Vinnagaram, are recited on festival days. Confirm dates locally.",
+    "experience": "Walk slowly around the verandah and read the sculpted panels of the Pallava reigns before entering the sanctum. Look up at the three-storey vimana and imagine the three postures of Vishnu, one above another. Visitors who also see the Kailasanatha temple in the same town will notice that this vimana rises higher than that earlier Pallava work."
+  },
+  "visit": {
+    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "The temple stands in Kanchipuram town, reached by road from Chennai, about 70 km to the north-east. Kanchipuram is the nearest railhead and Chennai the nearest major airport; auto-rickshaws and local buses link the temples of the town."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
+    "color": "#5C3A2E",
+    "alt": "Vaikunta Perumal Temple (Thiruparameswara Vinnagaram), Kanchipuram",
+    "credit": "Nandhinikandhasamy / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vaikunta-perumal-kanchipuram.jpg"
+  }
+}

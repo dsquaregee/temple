@@ -1,0 +1,40 @@
+{
+  "id": "jagannath-puri",
+  "locale": "bn",
+  "nativeName": "ଶ୍ରୀ ଜଗନ୍ନାଥ ମନ୍ଦିର",
+  "location": {
+    "city": "Puri",
+    "state": "Odisha",
+    "lat": 19.8047,
+    "lng": 85.8183
+  },
+  "century": 12,
+  "unesco": false,
+  "circuits": [
+    "char-dham"
+  ],
+  "sections": {
+    "history": "The great temple of Jagannath at Puri, the Shree Mandira, rose in the twelfth century under Anantavarman Chodaganga Deva, founder of the Eastern Ganga line in Odisha, and was carried forward by his successors, notably Anangabhima Deva III, who honoured Jagannath as the true sovereign of the kingdom. Later Gajapati kings added halls and endowments, and the ruler of Puri still serves the deity as his first servant, sweeping the chariots with a golden broom at the Rath Yatra. The shrine is the eastern seat of the Char Dham, the four great pilgrimages linked by tradition to Adi Shankara, whose Govardhana Matha stands in the town. Within its walls the Vimala shrine is revered as a Shakti Peetha, and the vast temple kitchen sustains a daily life of worship that has continued for more than eight centuries.",
+    "architecture": "The temple is a masterpiece of the Kalinga style, its four structures set in a single line: the vimana, a curving rekha deula rising some sixty-five metres over the sanctum; the jagamohana, a pyramid-roofed assembly hall; the natamandapa for music and dance; and the bhogamandapa for offerings. The summit carries the Nila Chakra, an eight-spoked wheel, where a fresh flag is hoisted every day. Two walls enclose the complex — the outer Meghanada Pacheri and the inner Kurma Bheda — pierced by four gates, of which the eastern Singhadwara, guarded by lions and fronted by the Aruna Stambha, is the principal entrance.",
+    "legends": "The temple's story begins with King Indradyumna, who longed to see Nila Madhava, a form of Vishnu worshipped in secret by the forest chief Vishwavasu. His priest Vidyapati found the hidden shrine, but the deity vanished, and the king was told in a dream to seek a sacred log that would drift ashore at Puri. An aged carpenter — Vishwakarma, or the Lord himself, in tradition — agreed to carve the images behind closed doors on condition he was left undisturbed. When the anxious queen opened the doors too soon, he was gone, leaving the images in the form worshipped to this day.",
+    "festivals": "The Rath Yatra in Ashadha is Puri's defining festival: Jagannath, Balabhadra and Subhadra ride out on three towering wooden chariots — Nandighosa, Taladhwaja and Darpadalana — drawn by vast crowds to the Gundicha temple and back. It is preceded by the Snana Yatra bathing festival on the Jyeshtha full moon. Chandan Yatra and, in certain years, the Nabakalebara renewal of the wooden images are also great occasions; confirm dates locally.",
+    "experience": "Puri is a town shaped by its temple: the broad Bada Danda runs from the Singhadwara towards the Gundicha temple, pilgrims bathe in the sea at Swargadwar, and the Ananda Bazar within the complex offers Mahaprasad cooked in earthen pots. Devotees often watch for the daily flag-changing on the summit. The Sun Temple at Konark and the temples of Bhubaneswar lie within easy reach."
+  },
+  "visit": {
+    "timings": "Open daily from early morning until late at night, with closures during certain rituals; festival days, especially the Rath Yatra season, bring very large crowds. Confirm current timings before visiting.",
+    "dressCode": "Modest traditional dress is expected; footwear, leather items and mobile phones are left outside. By long-standing temple tradition, only Hindus are admitted inside; others may respectfully view the temple from outside and share the Rath Yatra, which takes place on the open road.",
+    "photography": "Cameras and mobile phones are not permitted inside the temple; photography of the exterior is possible from the street.",
+    "gettingThere": "Puri is on the Odisha coast and has its own railway station with direct trains from across India. The nearest airport is Biju Patnaik International Airport in Bhubaneswar, about 60 km away by road."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/jagannath-puri.jpg",
+    "color": "#5C3A2E",
+    "alt": "Jagannath Temple, Puri",
+    "credit": "Kalyanpuranand / Wikimedia Commons (CC BY-SA 4.0) · Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0) · Vinayaksusruthan / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/jagannath-puri.avif",
+      "webp": "https://media.dsquaregee.com/heroes/jagannath-puri.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/jagannath-puri.jpg"
+  }
+}

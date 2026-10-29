@@ -1,0 +1,40 @@
+{
+  "id": "kashi-vishwanath-varanasi",
+  "locale": "bn",
+  "nativeName": "श्री काशी विश्वनाथ मंदिर",
+  "location": {
+    "city": "Varanasi (Kashi)",
+    "state": "Uttar Pradesh",
+    "lat": 25.3108,
+    "lng": 83.0106
+  },
+  "century": 18,
+  "unesco": false,
+  "circuits": [
+    "jyotirlingas"
+  ],
+  "sections": {
+    "history": "Kashi, the city of light, has been sacred to Shiva since the earliest memory of Indian pilgrimage, and the Dvadasha Jyotirlinga Stotram names \"Vishvesha in Varanasi\" among the twelve Jyotirlingas. The Kashi Khanda of the Skanda Purana sings the glory of Vishveshwara and of the city he is said never to abandon. Over the centuries the shrine has been raised and renewed more than once. The present temple was built in 1780 by Ahilyabai Holkar, the queen of Indore, and in the 1830s Maharaja Ranjit Singh of Punjab gave gold to sheathe its spire and dome. In December 2021 the first phase of the Kashi Vishwanath Dham opened, a broad stone precinct joining the temple to the ghats of the Ganga.",
+    "architecture": "The temple is modest in size and rich in presence. Its Nagara spire and the dome beside it are plated in gold, the gleam that gives it the popular name of the Golden Temple of Varanasi. Within a small sanctum, the Jyotirlinga rests in a silver-lined altar, approached by a constant stream of devotees. Around the shrine, the Kashi Vishwanath Dham has opened wide paved courtyards, colonnades and pilgrim halls, so that the temple now looks down an open way to the river.",
+    "legends": "Kashi is called Avimukta, the place never forsaken, for tradition holds that Shiva never leaves it, even at the dissolution of the worlds, when he lifts the city on his trident. It is one of the seven cities that grant liberation, and devotees believe that Shiva himself whispers the saving word into the ear of those who die here. A Puranic story tells of a pillar of light without beginning or end that appeared before Brahma and Vishnu; Kashi honours Vishwanatha as that boundless radiance made present.",
+    "festivals": "Maha Shivaratri is the great night, with worship from dusk to dawn. The month of Shravan brings vast crowds, especially on Mondays. On Rangbhari Ekadashi, before Holi, devotees celebrate Shiva bringing Parvati home with colour, and on Dev Deepawali, at Kartik Purnima, the ghats glow with lamps. Confirm dates locally.",
+    "experience": "Daily worship begins with the Mangala aarti before dawn and closes with the Shayana aarti at night; the evening Saptarishi aarti is especially loved. Many pilgrims first bathe in the Ganga, then climb to the temple. Beside it stands the shrine of Annapurna, the goddess who feeds Kashi, and a short way off, at Mir Ghat, is Vishalakshi, honoured as a Shakti Peetha."
+  },
+  "visit": {
+    "timings": "Open daily from before dawn to late night, with aartis at set hours through the day. Shravan Mondays, Maha Shivaratri and festival days are extremely crowded. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. Follow the posted rules and staff guidance.",
+    "photography": "Mobile phones, cameras and bags are deposited before entry under security rules, and photography is not permitted inside the temple.",
+    "gettingThere": "The temple stands in the old city of Varanasi, close to the river ghats, and is reached on foot through the lanes or by the Kashi Vishwanath Dham entrances from the Ganga side. Varanasi Junction is about 5 km away, and Lal Bahadur Shastri International Airport at Babatpur about 25 km."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kashi-vishwanath-varanasi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kashi Vishwanath Temple, Varanasi",
+    "credit": "Gannu03 / Wikimedia Commons (CC BY-SA 4.0) · Aliva Sahoo / Wikimedia Commons (CC BY-SA 3.0) · Immanuelle / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kashi-vishwanath-varanasi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kashi-vishwanath-varanasi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kashi-vishwanath-varanasi.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "grishneshwar-ellora",
+  "locale": "mr",
+  "nativeName": "श्री घृष्णेश्वर ज्योतिर्लिंग मंदिर",
+  "location": {
+    "city": "Verul (Ellora)",
+    "state": "Maharashtra",
+    "lat": 20.025,
+    "lng": 75.1699
+  },
+  "century": 18,
+  "unesco": false,
+  "circuits": [
+    "jyotirlingas"
+  ],
+  "sections": {
+    "history": "Grishneshwar stands in the village of Verul, about a kilometre and a half from the rock-cut caves of Ellora and some 30 km from Chhatrapati Sambhajinagar. The Dvadasha Jyotirlinga Stotram closes its roll of the twelve Jyotirlingas with \"Ghushmesha in Shivalaya\", and this is the shrine it names. The temple was restored in the age of Maloji Bhosale, grandfather of Chhatrapati Shivaji, and an inscription within names members of the Bhosale family. Its present form is owed to Ahilyabai Holkar, the queen of Indore who renewed many of India's great shrines in the eighteenth century. The temple is protected by the Archaeological Survey of India and remains in full worship.",
+    "architecture": "The temple rises from a rectangular platform, its walls built of red basalt as far as the entablature and its spire of brick and stucco above. It belongs to the Nagara family with the touches of the Maratha builders: the stone is densely carved with deities, scenes and ornament, and a pillared hall leads to the sanctum, where the Jyotirlinga rests. Near the temple lies the Shivalaya tank, which tradition links with the shrine's legend.",
+    "legends": "The legend is of Ghushma, also called Kusuma, a devout woman who each day shaped one hundred and one lingas of clay, worshipped them and immersed them in a tank. Her son was killed by a jealous kinswoman and his body cast into that same water. Ghushma did not break her worship; as she went to immerse the lingas, the boy rose alive from the tank. Shiva appeared, and at Ghushma's plea forgave the one who had wronged her and remained here as Ghushmeshwar, lord of Ghushma.",
+    "festivals": "Maha Shivaratri is the chief festival, with worship through the night and long queues of pilgrims from across the Deccan. The Mondays of Shravan are kept with abhisheka and special decoration, and the month of Kartik brings lamps and further worship. Confirm dates locally.",
+    "experience": "Grishneshwar is an intimate shrine after the grandeur of Ellora, and many pilgrims visit both on the same day. By local custom, men remove their shirts or vests before entering the sanctum, and devotees can often offer worship close to the Jyotirlinga. Afterwards, a walk to the Shivalaya tank recalls Ghushma's daily offering."
+  },
+  "visit": {
+    "timings": "Open daily from early morning to night, with aartis through the day; Maha Shivaratri and Shravan Mondays are very busy. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. By custom, men remove shirts or vests before entering the sanctum; follow the posted rules and the priests' guidance.",
+    "photography": "Photography is not permitted inside the sanctum; follow the posted rules and staff guidance.",
+    "gettingThere": "Verul lies about 30 km north-west of Chhatrapati Sambhajinagar (formerly Aurangabad), on the road to the Ellora caves, which are about 1.5 km from the temple. Chhatrapati Sambhajinagar has the nearest railway station and airport."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/grishneshwar-ellora.jpg",
+    "color": "#5C3A2E",
+    "alt": "Grishneshwar Temple, Verul",
+    "credit": "Udaykumar PR / Wikimedia Commons (CC BY 3.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/grishneshwar-ellora.avif",
+      "webp": "https://media.dsquaregee.com/heroes/grishneshwar-ellora.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/grishneshwar-ellora.jpg"
+  }
+}

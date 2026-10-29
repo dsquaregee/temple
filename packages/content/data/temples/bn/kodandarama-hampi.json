@@ -1,0 +1,40 @@
+{
+  "id": "kodandarama-hampi",
+  "locale": "bn",
+  "nativeName": "ಕೋದಂಡರಾಮ ದೇವಾಲಯ, ಹಂಪೆ",
+  "location": {
+    "city": "Hampi",
+    "state": "Karnataka",
+    "lat": 15.336,
+    "lng": 76.4684
+  },
+  "century": 16,
+  "unesco": true,
+  "circuits": [
+    "hampi-vijayanagara-temples"
+  ],
+  "sections": {
+    "history": "Hampi's devotion to Rama is older than its empire, for the boulder country along the Tungabhadra has long been identified with Kishkindha, the monkey kingdom of the Ramayana. The Kodandarama shrine gathers that memory at the river's edge. Its images were carved directly into a great granite boulder, and a modest temple of pillared halls was built against the rock in the Vijayanagara period, when the riverbank between the Virupaksha bazaar and the Vittala temple was lined with shrines, ghats and pavilions. When the city fell in 1565 most of those temples went silent, but this one did not: worship continues here today, making Kodandarama one of the few living shrines among the ruins of the World Heritage site.",
+    "architecture": "The sanctum is the rock itself. On the face of a huge boulder, Rama with his bow, Sita and Lakshmana are carved in deep relief, and the shrine has been built around them so that the boulder forms its back wall. Before it stands a simple pillared hall in the Vijayanagara manner, open to the river breeze. A small monkey figure among the carvings is locally taken to be Sugriva rather than Hanuman. Below, the temple steps lead down to Chakratirtha, the deep pool where the river turns north, and on the rocks nearby stands the Yantrodharaka Hanuman shrine.",
+    "legends": "Local tradition holds that this is where Rama, having slain Vali, saw Sugriva crowned king of Kishkindha, keeping his promise to the exiled monkey prince. Some devotees go further and say that Sugriva himself carved the images on the boulder in gratitude. The bathing pool below the temple, Chakratirtha, is counted the holiest spot on the Tungabhadra at Hampi, and pilgrims bathe here before climbing to the shrine. For those walking the Ramayana trail through Hampi, Kodandarama is the place where the story of Kishkindha reaches its moment of restoration.",
+    "festivals": "As a living Rama shrine, the temple keeps the Vaishnava calendar: Rama Navami, the birthday of Rama, is the principal festival, and Hanuman Jayanti is customarily marked as well. On such days pilgrims come along the river path to the shrine, which is decked with flowers and lamps. Confirm dates locally.",
+    "experience": "The approach is part of the blessing. Walk east from the end of Hampi Bazaar along the riverside path, the green Tungabhadra on one side and towering boulders on the other, until the small temple appears above the water. Bathe or simply sit at Chakratirtha, where round coracles sometimes cross the dark pool, then climb to stand before the carved figures. Early morning, when the priest lights the lamps against the stone, is the most moving hour."
+  },
+  "visit": {
+    "timings": "A living temple, generally open from morning to evening with a midday break; confirm timings locally.",
+    "dressCode": "Modest dress is expected — shoulders and knees covered; footwear is removed before entering the shrine.",
+    "photography": "Photography of the riverside and exterior is generally fine; follow the priest's guidance about the sanctum.",
+    "gettingThere": "The temple is reached on foot along the riverside path from the eastern end of Hampi Bazaar, the same trail that continues to the Vittala temple. Hampi lies in Vijayanagara district, Karnataka; Hosapete (Hospet), about 13 km away, has the nearest railway station, and Bengaluru is roughly 340 km by road."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kodandarama-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kodandarama Temple, Hampi",
+    "credit": "iMahesh / Wikimedia Commons (CC BY-SA 4.0) · P. Madhusudan / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kodandarama-hampi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kodandarama-hampi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kodandarama-hampi.jpg"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kota-gullu-ghanpur",
+  "locale": "mr",
+  "nativeName": "కోట గుళ్ళు (ఘన్‌పూర్ ఆలయాలు)",
+  "location": {
+    "city": "Ghanpur, Jayashankar Bhupalpally district",
+    "state": "Telangana",
+    "lat": 18.311,
+    "lng": 79.872
+  },
+  "century": 13,
+  "unesco": false,
+  "circuits": [
+    "kakatiya-temples"
+  ],
+  "sections": {
+    "history": "Kota Gullu, \"the temples within the fort\", stands at the edge of Ghanpur village, about nine kilometres from the Ramappa Temple at Palampet. The group belongs to the reign of the Kakatiya king Ganapatideva. An inscription records that a chief named Ganapati Reddy installed the god Ganapateshwara here and endowed land in the cyclic year that corresponds to 1234–35 CE; he is identified as a son of Recherla Rudra, the patron associated with Ramappa. The temples were ringed by a stone enclosure, later reinforced with a mud rampart, and from this the local name derives. The complex suffered over the centuries and is now largely ruined, yet it remains one of the most important Kakatiya sites outside Warangal, and conservation work has been planned for it.",
+    "architecture": "The complex holds roughly twenty to twenty-two shrines within its enclosure. The main temple, the Ganapeswaralayam, faces east, and a pillared natya mandapa of about sixty columns on its south side is thought to have served as the principal entrance. The hall has the broad ranga mandapa and the carved eave brackets characteristic of the Kakatiya style, with composite yali figures and dancing women in the bracket sculpture. The porticos carry mythical animal forms such as the Gaja Kesari, a lion-like creature mounted on an elephant. Several shrines stand in broken form, and fallen sculpture still lies among the standing walls and pillars.",
+    "legends": "Kota Gullu has no single legend as famous as those of the great pilgrimage centres; its story is told mostly through its stones and its inscription. The slab that records Ganapati Reddy installing the god Ganapateshwara links the temple to the devotional world of the Recherla chiefs, who also stood behind Ramappa. Local tradition holds that the complex was once far more complete and magnificent, and visitors often speak of its fallen brackets and carved pillars as the work of the same guilds that raised Palampet. The name Ganapeswara itself honours both the king Ganapatideva and the lord Shiva.",
+    "festivals": "Kota Gullu is mainly visited as a heritage site rather than for a fixed festival calendar. Shiva worship in the Telugu country is marked by Maha Shivaratri, observed in February or March, and by the sacred month of Karthika in the autumn, and local devotees may gather at the site on such days. Confirm any observances and dates locally.",
+    "experience": "Kota Gullu rewards a patient visitor. Walking among the ruined shrines and scattered pillars, one sees how rich the complex once was, and the carved brackets and doorways still show the fine finish of Kakatiya stonework. It is quiet and uncrowded, a good counterpart to the busy and better preserved Ramappa Temple, which lies about nine kilometres away. Allow time to move slowly, watch your footing among the fallen stones, and treat the site with the respect due to a sacred place."
+  },
+  "visit": {
+    "timings": "Kota Gullu is a protected heritage site rather than a regularly ticketed shrine, and opening hours and access are not fixed. Please confirm access and any entry arrangements locally before travelling, and plan a daylight visit.",
+    "dressCode": "Modest traditional dress is appreciated, with shoulders and knees covered. The site is a place of worship, so please behave respectfully.",
+    "photography": "Photography of the ruins and carved stonework is generally welcome at a heritage site of this kind; follow any posted rules and the instructions of site staff, and do not climb on the structures.",
+    "gettingThere": "Kota Gullu is at Ghanpur in Mulugu mandal, Jayashankar Bhupalpally district, about nine kilometres north-west of the Ramappa Temple at Palampet. Warangal is the nearest major rail junction and Hyderabad the nearest airport; the site is reached by road."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kota Gullu (Ghanpur Temples)",
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kota-gullu-ghanpur.jpg"
+  }
+}

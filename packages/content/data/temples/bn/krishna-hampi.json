@@ -1,0 +1,40 @@
+{
+  "id": "krishna-hampi",
+  "locale": "bn",
+  "nativeName": "ಕೃಷ್ಣ ದೇವಾಲಯ, ಹಂಪೆ",
+  "location": {
+    "city": "Hampi",
+    "state": "Karnataka",
+    "lat": 15.3303,
+    "lng": 76.4605
+  },
+  "century": 16,
+  "unesco": true,
+  "circuits": [
+    "hampi-vijayanagara-temples"
+  ],
+  "sections": {
+    "history": "In 1513 the emperor Krishnadevaraya returned from a hard-won campaign against the hill fortress of Udayagiri, in present-day Andhra Pradesh, bringing with him an image of Balakrishna, the child Krishna, as the most honoured trophy of the war. To house it he built this temple on the southern flank of Hemakuta hill, and a stone inscription in old Kannada, set up in the complex, records the foundation. Around the shrine grew a whole quarter of the capital, known as Krishnapura, with its own chariot street and market. After Vijayanagara fell in 1565 worship ceased, and the image itself was later moved to the Government Museum in Chennai, where it can still be seen. The temple stands today as a protected monument within the Group of Monuments at Hampi, inscribed by UNESCO in 1986.",
+    "architecture": "The temple faces east and is entered through a tall gopuram whose granite base is richly carved, though its brick-and-plaster upper storeys have largely fallen. Within the walled court stand the main sanctum, its pillared halls and a group of subsidiary shrines. The carving rewards slow looking: panels of the ten avatars of Vishnu, episodes from the Ramayana and scenes from the childhood of Krishna run across the walls and pillars. Before the gateway a small pavilion holds a long stone trough, and nearby rises a granary. Opposite, the colonnaded bazaar runs east along the broad chariot street, with a large stepped tank and its central pavilion opening off it.",
+    "legends": "The temple's story is less a sthala purana than a tale of victory and devotion. Krishnadevaraya, a devotee of Vishnu and himself a poet in Telugu, saw the capture of Udayagiri as a gift of grace, and the child Krishna he carried home was installed with great ceremony. Tradition holds that the small stone trough before the gate received offerings of grain from worshippers. The emperor bore the god's name, and devotees have long read the shrine as his personal thanksgiving, set at the doorstep of Hemakuta and Virupaksha so that Krishna joined the older Shiva of Hampi in guarding the city.",
+    "festivals": "The shrine is no longer in worship, so no festivals are held at the temple itself. The broad car street before it was the route of the god's chariot in imperial days, and its width still recalls those processions. Nearby Virupaksha keeps Hampi's living calendar, and the annual Hampi Utsav brings music and dance to the ruins; confirm dates locally.",
+    "experience": "Approach along the old chariot street from the east, past the long lines of ruined shop pavilions, and the gopuram rises ahead as it did for pilgrims five centuries ago. Inside, the court is quiet and shaded, a place to trace the avatar panels pillar by pillar. Then walk to the great tank nearby and up the slope toward the two giant Ganeshas of Hemakuta and the monolithic Narasimha, all within a short stroll."
+  },
+  "visit": {
+    "timings": "The temple is a protected monument cared for by the Archaeological Survey of India and is generally open during daylight hours; there is no worship. Confirm access and any entry fee locally.",
+    "dressCode": "Modest dress is appreciated at this sacred site; comfortable footwear and sun protection help for walking among the ruins.",
+    "photography": "Photography is generally allowed; tripods, drones or professional shoots need permission from the site authorities.",
+    "gettingThere": "The temple stands beside the road from Kamalapura to Hampi Bazaar, just south of Hemakuta hill, in Vijayanagara district, Karnataka. Hosapete (Hospet), about 13 km away, has the nearest railway station; the nearest airports are at Toranagallu (Vidyanagar), Hubballi and Bengaluru, about 340 km away by road."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/krishna-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Krishna Temple, Hampi",
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0) · AmlanTheTramp (Amlan Chakraborty) / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/krishna-hampi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/krishna-hampi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/krishna-hampi.jpg"
+  }
+}

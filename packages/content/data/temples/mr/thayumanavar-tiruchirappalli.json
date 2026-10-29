@@ -1,0 +1,35 @@
+{
+  "id": "thayumanavar-tiruchirappalli",
+  "locale": "mr",
+  "nativeName": "தாயுமானவர் கோயில்",
+  "location": {
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "lat": 10.8297,
+    "lng": 78.6983
+  },
+  "century": 7,
+  "unesco": false,
+  "circuits": [
+    "paadal-petra-sthalams"
+  ],
+  "sections": {
+    "history": "The temple stands at the foot of the great rock of Tiruchirappalli, a landmark of the Kaveri country sung in the Tevaram, which makes it a Paadal Petra Sthalam of the Chola land south of the river. The hill was fortified by the Pallavas and later by the Pandyas, Vijayanagara governors and the Nayaks of Madurai, and the shrine of Thayumanavar at its base grew under their patronage into a large walled temple. The rock itself carries older rock-cut caves and inscriptions of Mahendravarman I. Worshipped here as Matrubhuteswarar, the Lord who took a mother's form, Thayumanavar has drawn devotees for well over a thousand years, and the temple remains one of the foremost Shaiva centres of the Tiruchirappalli region.",
+    "architecture": "The shrine sits at the base of the towering natural rock, so that the hill itself serves as the temple's backdrop and is revered as a southern Kailash, Dakshina Kailayam. The sanctum of Thayumanavar holds the Shiva linga, and the goddess Mattuvar Kuzhalammai has her own shrine. Pillared halls, a temple tank used for the float festival, and stepped approaches climb the rock past the cave shrines toward the Uchi Pillayar temple at the summit. Generations of patrons added mandapams and gopura gateways around the lower sanctum.",
+    "legends": "The temple's defining story tells of Rathnavathi, a devoted woman who, far from her mother, came to her time of childbirth with no one to help her. She prayed to the Lord of the hill, and Shiva is said to have come in the very form of her mother, tending her through the delivery before revealing himself. From this grace he is named Thayumanavar, the one who became mother, and Matrubhuteswarar in Sanskrit. The great rock is itself honoured as a fragment of Mount Kailash brought to the south.",
+    "festivals": "The temple's famous Theppa Thiruvizha, the float festival on the temple tank, is recorded as having been held since 1546 and remains its signature celebration. Maha Shivaratri, the Tamil month festivals, and the monthly Pradosham draw large crowds, and Thiruvadirai in Margazhi is kept with devotion. Festival dates follow the Tamil calendar, so confirm them locally.",
+    "experience": "A visit joins the sacred and the panoramic: pilgrims worship Thayumanavar and the goddess at the base, then many climb the rock-cut steps past the hill shrines to the summit for the view over Tiruchirappalli and the Kaveri. The lower temple keeps the calm of a very old sanctuary amid the busy city, and the story of the Lord who came as a mother gives the place a tenderness felt by families who pray here."
+  },
+  "visit": {
+    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
+    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
+    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
+    "gettingThere": "The temple is at the foot of the Rockfort in the heart of Tiruchirappalli (Trichy). Trichy Junction railway station is about 4 km away and Tiruchirappalli International Airport about 8 km; the hill and temple are well served by city buses and autos."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/thayumanavar-tiruchirappalli.jpg",
+    "color": "#5C3A2E",
+    "alt": "Thayumanavar Temple, Tiruchirappalli",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  }
+}

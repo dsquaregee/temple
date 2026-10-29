@@ -1,0 +1,35 @@
+{
+  "id": "nageswaraswamy-kumbakonam",
+  "locale": "mr",
+  "nativeName": "நாகேஸ்வரசுவாமி கோயில்",
+  "location": {
+    "city": "Kumbakonam",
+    "state": "Tamil Nadu",
+    "lat": 10.9602,
+    "lng": 79.3845
+  },
+  "century": 9,
+  "unesco": false,
+  "circuits": [
+    "paadal-petra-sthalams"
+  ],
+  "sections": {
+    "history": "The Nageswaraswamy temple stands in the heart of Kumbakonam and is counted among the Paadal Petra Sthalams, praised in the Tevaram hymns of Thirugnana Sambandar. It is one of the earliest and finest Chola temples of the town, built in the age of Aditya Chola I around the ninth century, and its sanctum walls carry some of the most admired sculpture of early Chola art. Later Chola and Nayak patrons added halls and shrines around the old core, but the vimana and its niche figures remain a touchstone for students of Tamil temple sculpture. The temple is also linked to the serpent kings, whose worship of Shiva here gives it its name.",
+    "architecture": "The temple is celebrated above all for the sculpture of its early Chola vimana, whose wall niches hold graceful, lifelike figures regarded among the masterpieces of the style. The sanctum enshrines the Shiva linga of Nageswaraswamy, with the goddess Periyanayaki in her own shrine. The structure is aligned so precisely that in the Tamil month of Chithirai the morning sun enters and falls upon the linga for several days, from which the temple is called Surya Kottam. Pillared halls and later gopurams surround the ancient sanctum.",
+    "legends": "The temple's name comes from the serpent kings of Hindu lore, Adisesha, Dakshan and Karkotaka, who are said to have worshipped Shiva here and won his grace, so that the Lord became Nageswara, the lord of serpents. The alignment that lets the sun touch the linga is honoured as Surya's own worship of Shiva, offered through his rays in the month of Chithirai.",
+    "festivals": "The Chithirai sunlight days, when the sun's rays reach the sanctum, are observed with special worship. Maha Shivaratri, the monthly Pradosham, and the Tamil month festivals are kept, and the temple shares in the great Mahamaham cycle for which Kumbakonam is renowned. Festival dates follow the Tamil calendar, so confirm them locally.",
+    "experience": "For many visitors Nageswaraswamy is as much a place to admire early Chola art as to worship: the vimana sculptures reward unhurried looking, and guides point out the famed niche figures. Set in the busy centre of Kumbakonam, the temple is easily combined with the town's other great shrines, and the Chithirai sunlight days draw those who wish to see the sun touch the linga."
+  },
+  "visit": {
+    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
+    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
+    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
+    "gettingThere": "The temple is in the centre of Kumbakonam in Thanjavur district, a short walk from the town's main shrines. Kumbakonam has its own railway station; Tiruchirappalli airport is about 90 km away. Buses and autos are plentiful."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/nageswaraswamy-kumbakonam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Nageswaraswamy Temple, Kumbakonam",
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kalvar-thirukkarvanam",
+  "locale": "bn",
+  "nativeName": "கள்வர் பெருமாள் கோயில் (திருக்கார்வானம்), காஞ்சிபுரம்",
+  "location": {
+    "city": "Kanchipuram",
+    "state": "Tamil Nadu",
+    "lat": 12.8392,
+    "lng": 79.705
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "divya-desams",
+    "temples-of-kanchipuram"
+  ],
+  "sections": {
+    "history": "Thirukkarvanam is not a temple of its own but a Divya Desam within the Ulagalantha Perumal Temple of Periya Kanchi, the same complex that holds Thiruooragam, Thiruneeragam and Thirukkaragam. The four are believed to have once been independent shrines, and a single verse of Thirumangai Alvar names them together. From the Alvar's pasurams in the Nalayira Divya Prabandham comes the picture the tradition keeps of this shrine: the Lord is Kalvar, standing, with Kamalavalli Nachiyar. The host temple is believed to be a Pallava foundation, with later additions by the Medieval Cholas, the Vijayanagara kings and the Nayaks, and is administered by the Tamil Nadu HR&CE Department. It is one of the 108 Divya Desams of Thondai Nadu.",
+    "architecture": "The shrine stands in the second precinct of the Ulagalantha Perumal complex. Kalvar Perumal is worshipped standing, with Kamalavalli Nachiyar, who is also known by the name Thamaraiyal, the lady of the lotus. His sanctum rises under the Pushkala Vimanam, and the sacred water is the Gowri Thadagam, also called Gowri Theertham. It is a modest sanctum within the larger walled complex, reached on the walk from the great Trivikrama sanctum.",
+    "legends": "Tradition connects this shrine with Parvati, called Gowri, who is said to have worshipped here, and the tank bears her name. The sthala purana tells that Parvati once saw Vishnu overhearing her conversation with Lakshmi, and called him Kalvan, the stealthy one, the thief. The name Kalvar is devotedly read as a name of love: the Lord who steals into the heart of the devotee unseen, and takes it.",
+    "festivals": "The shrine keeps the calendar of the Ulagalantha Perumal Temple: Vaikunta Ekadashi, the annual Brahmotsavam with processions through the streets of Kanchipuram, and the recitation of the Divya Prabandham in the month of Margazhi. Confirm dates locally.",
+    "experience": "Thirukkarvanam is a place to linger over its name. Find the standing Kalvar Perumal in the second precinct, and ask the priests to point out the Gowri Thadagam and to tell the story of Parvati's remark. Combine the visit with the other three Divya Desams of the complex to make one slow circuit through four abodes of Vishnu."
+  },
+  "visit": {
+    "timings": "The shrine opens with the Ulagalantha Perumal Temple: morning and evening darshan sessions with a midday closure. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
+    "gettingThere": "This is a shrine inside the Ulagalantha Perumal Temple in the old town of Kanchipuram (Periya Kanchi); enter by that temple's gateway and ask for Thirukkarvanam in the second precinct. Chennai, about 70 km to the north-east, is the nearest major airport, and Kanchipuram town is the nearest railhead."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kalvar-thirukkarvanam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kalvar Perumal Shrine (Thirukkarvanam), Kanchipuram",
+    "credit": "VasuVR / Wikimedia Commons (CC BY 4.0) · Luistxo / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kalvar-thirukkarvanam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kalvar-thirukkarvanam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kalvar-thirukkarvanam.jpg"
+  }
+}

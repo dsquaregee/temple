@@ -1,0 +1,42 @@
+{
+  "id": "parthasarathy-aranmula",
+  "locale": "mr",
+  "nativeName": "പാർത്ഥസാരഥി പെരുമാൾ ക്ഷേത്രം, ആറന്മുള",
+  "location": {
+    "city": "Aranmula",
+    "state": "Kerala",
+    "lat": 9.328,
+    "lng": 76.688
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "divya-desams",
+    "sacred-temples-of-kerala",
+    "pancha-pandava-temples"
+  ],
+  "sections": {
+    "history": "Aranmula, in Pathanamthitta district, sits on the river Pamba, and its temple is the Divya Desam that the Alvar hymns call Thiruvaranvilai. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and belongs to Malai Nadu, the Kerala country. Nammalvar was the Alvar who sang here, addressing the Lord as Thirukkuralappan. The presiding deity is worshipped locally as Parthasarathy, Krishna as the charioteer of Arjuna, and the Goddess is Padmasani Nachiyar. Among the Pandava-linked Vishnu temples of the Chengannur country, tradition attributes Aranmula to Arjuna. The village is also widely known for its Aranmula kannadi, the handmade metal mirrors that have made its name travel far beyond Kerala.",
+    "architecture": "The temple is built in the Kerala style, on the bank of the Pamba, and its outer wall is pierced by four gopurams over the entrances, so that the precinct opens to the four directions. The sanctum houses Parthasarathy with the Goddess Padmasani Nachiyar. The name of its vimana is not firmly recorded. The river bank itself is part of the temple’s character, and the ceremonies of the boats and the feasts are woven into the water’s edge.",
+    "legends": "The sthala purana tells that Arjuna first installed the image at Nilakkal, near Sabarimala, but the forest conditions there made daily worship hard. The image was therefore brought down the Pamba on a raft made of six bamboos, and the place where it came to rest took its name from that raft: Aranmula, “six bamboo stems”. The story links the shrine with Arjuna’s journey and with the river that gave it its home.",
+    "festivals": "Aranmula is best known for the Uthrattathi snake-boat regatta, the Aranmula Vallamkali, held in the Onam season and said to commemorate the installation of the deity. The temple also offers the Valla Sadya, the feasts given to the boat crews, and keeps the Onam celebrations. Vaikunta Ekadashi is observed as at other Vaishnava shrines. Dates vary yearly, so confirm locally.",
+    "experience": "Aranmula rewards a slower visit: walk the river bank, pass beneath the four gopurams and take darshan of Parthasarathy, with the legend of the six-bamboo raft in mind. If the Onam season fits your plans, the regatta is a memorable sight, though crowds are large. Pilgrims may also wish to see the village’s famous metal mirrors, a craft of Aranmula."
+  },
+  "visit": {
+    "timings": "Open daily with morning and evening darshan sessions, usually with a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "Aranmula is in Pathanamthitta district on the Pamba, a short road journey from Chengannur, which is the nearest railway station; autorickshaws, taxis and buses link the two. Kozhencherry and Pathanamthitta are nearby towns, and Thiruvananthapuram and Kochi are the usual airport gateways. During the boat-race season, expect heavy traffic and plan to arrive early."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.jpg",
+    "color": "#5C3A2E",
+    "alt": "Parthasarathy Perumal Temple, Aranmula",
+    "credit": "Alenalexp / Wikimedia Commons (CC BY-SA 4.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.avif",
+      "webp": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/parthasarathy-aranmula.jpg"
+  }
+}

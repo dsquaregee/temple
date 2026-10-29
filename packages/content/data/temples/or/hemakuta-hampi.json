@@ -1,0 +1,40 @@
+{
+  "id": "hemakuta-hampi",
+  "locale": "or",
+  "nativeName": "ಹೇಮಕೂಟ ಬೆಟ್ಟದ ದೇವಾಲಯಗಳು, ಹಂಪೆ",
+  "location": {
+    "city": "Hampi",
+    "state": "Karnataka",
+    "lat": 15.3343,
+    "lng": 76.4585
+  },
+  "century": 9,
+  "unesco": true,
+  "circuits": [
+    "hampi-vijayanagara-temples"
+  ],
+  "sections": {
+    "history": "Long before Hampi became an imperial capital, the low hill rising south of the Virupaksha temple was already holy ground. Many of the shrines on Hemakuta are dated to roughly the 9th to 14th centuries, before the founding of Vijayanagara in the 14th century; the earliest, with their stepped pyramidal roofs, are placed around the 9th–10th century. Others belong to the first phase of the new empire, when its founders were still building at this sacred heart. In older times the hill was enclosed by stone walls, and gateways and pavilions were added across it over the centuries. When the great city fell in 1565 these modest shrines survived largely intact, and today they form part of the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
+    "architecture": "Hemakuta is a gallery of the architecture that came before Vijayanagara. Its shrines are small and austere, built of granite blocks with roofs that rise in stepped, pyramidal tiers — so unlike the later towered style that visitors have often mistaken them for Jain temples. On the northern side stand trikuta temples, in which three shrines open at right angles onto a shared central hall, dedicated to Shiva. On the southern part of the hill is the Mula Virupaksha shrine, whose front hall has the plain, cubical pillars of the pre-Vijayanagara period. Down the slopes stand two colossal monolithic Ganeshas, Sasivekalu and Kadalekalu, each in its own pillared shrine.",
+    "legends": "Hemakuta is where Hampi's sacred story begins. The goddess Pampa, a local river-deity later identified with Parvati, longed to wed Shiva, who sat here in deep penance. To help her, Kama, the god of love, loosed his arrows and broke the god's meditation; in anger Shiva opened his third eye and burned him to ashes. Moved by the pleas of Kama's wife Rati, Shiva later restored him, though without a body. When Shiva at last agreed to marry Pampa, the sthala purana tells, gold rained down upon the hill — and so it was called Hemakuta, the golden peak.",
+    "festivals": "The Hemakuta shrines are protected monuments without regular worship. The divine marriage of Shiva and Pampa that the hill's legend anticipates is celebrated each year at the Virupaksha temple just below, together with its car festival and Maha Shivaratri. The annual Hampi Utsav also brings music and dance to the site; confirm dates locally.",
+    "experience": "Climb up from beside the Virupaksha temple onto the smooth granite and wander among the shrines at your own pace; there is no fixed route. The hill is Hampi's favourite place to watch the sun go down, when the great gopuram of Virupaksha below catches the last light and the boulder hills turn copper. On the way down, pause before the two giant Ganeshas on the slopes."
+  },
+  "visit": {
+    "timings": "An open hillside of protected monuments cared for by the Archaeological Survey of India, generally accessible during daylight hours; confirm access locally.",
+    "dressCode": "Modest dress is appreciated at this sacred site; wear sturdy footwear with good grip for the bare rock, and carry water and sun protection.",
+    "photography": "Photography is generally allowed; tripods, drones or professional shoots need permission from the site authorities.",
+    "gettingThere": "Hemakuta hill rises immediately south of the Virupaksha temple and Hampi Bazaar, with paths up from beside the temple and from the Krishna temple road. Hampi lies in Vijayanagara district, Karnataka; Hosapete (Hospet), about 13 km away, has the nearest railway station, and Bengaluru is roughly 340 km by road."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/hemakuta-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Hemakuta Hill Temples, Hampi",
+    "credit": "Mrmanoj1312 / Wikimedia Commons (CC BY-SA 4.0) · Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/hemakuta-hampi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/hemakuta-hampi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/hemakuta-hampi.jpg"
+  }
+}

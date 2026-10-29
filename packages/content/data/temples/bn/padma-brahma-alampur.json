@@ -1,0 +1,40 @@
+{
+  "id": "padma-brahma-alampur",
+  "locale": "bn",
+  "nativeName": "పద్మ బ్రహ్మ ఆలయం, అలంపూర్",
+  "location": {
+    "city": "Alampur",
+    "state": "Telangana",
+    "lat": 15.8779,
+    "lng": 78.1344
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "alampur-navabrahma-temples"
+  ],
+  "sections": {
+    "history": "Padma Brahma belongs to the Navabrahma group that the Early Chalukyas of Badami raised at Alampur, and on plan it is the largest of the nine, as the Archaeological Survey of India records. No foundation inscription for it is known, and it is usually placed among the later temples of the group, in the seventh to eighth century. Its story since has been one of loss: the curving tower that once rose over the sanctum has fallen, almost all of the sculpture on its facade has been destroyed or carried away, and the building stands today as a partly ruined shell — a measure of how much the precinct suffered in the troubled centuries that followed the fourteenth.",
+    "architecture": "The temple's plan closely follows that of the Vishwa Brahma, with a broad hall opening into the sanctum and a passage for circumambulation enclosing it. Its tower was of the curving northern kind, rising in storeys marked by ribbed amalaka stones at the corners, and survives only in ruin. The sanctum doorway still keeps its river goddesses, Ganga and Yamuna, at either side, and within, the linga is cut from stone polished to a mirror-like finish — the temple's most striking survival.",
+    "legends": "The name Padma Brahma joins the lotus to the creator: in Puranic imagery Brahma is born on a lotus rising from Vishnu's navel, and Alampur's tradition holds that Brahma did penance here and worshipped Shiva in nine forms, one of which this temple remembers. Where so much of the building has been lost, the polished linga gives the dim sanctum a quiet radiance, catching and returning the light of the doorway — a fitting image for a shrine named after the flower that opens to the sun.",
+    "festivals": "Padma Brahma is a protected monument without daily worship or a festival of its own. Visitors come in the greatest numbers at Maha Shivaratri and during Jogulamba's Navaratri and Dasara, when the whole precinct is alive; on ordinary days the temple is usually quiet. Confirm dates locally.",
+    "experience": "Approach Padma Brahma from Swarga Brahma, which stands just in front of it, and compare the two: one keeps its tower and its sculpture, the other chiefly its great plan. Inside, let your eyes adjust before looking at the linga, whose polish is best seen against the light from the door. The scale of the ruined hall gives a sense of how ambitious the Chalukyan builders at Alampur had become."
+  },
+  "visit": {
+    "timings": "Open in daylight hours as an Archaeological Survey of India monument within the Navabrahma precinct; it is not a place of daily worship. Confirm current hours and any ticketing locally.",
+    "dressCode": "No strict dress code applies at the monument, but modest dress is appropriate in this sacred precinct; remove footwear before stepping into the sanctum, and at the active shrines nearby.",
+    "photography": "Photography of the exterior is generally permitted; tripods or professional equipment may need permission from the Archaeological Survey of India. Take care on the uneven ruined floors.",
+    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away. The temple stands just behind the Swarga Brahma temple, a short walk from the Bala Brahma and Jogulamba temples."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/padma-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Padma Brahma Temple, Alampur",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/padma-brahma-alampur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/padma-brahma-alampur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/padma-brahma-alampur.jpg"
+  }
+}

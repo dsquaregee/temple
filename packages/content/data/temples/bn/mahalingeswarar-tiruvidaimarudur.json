@@ -1,0 +1,35 @@
+{
+  "id": "mahalingeswarar-tiruvidaimarudur",
+  "locale": "bn",
+  "nativeName": "திருவிடைமருதூர் மகாலிங்கேஸ்வரர் கோயில்",
+  "location": {
+    "city": "Tiruvidaimarudur, near Kumbakonam",
+    "state": "Tamil Nadu",
+    "lat": 10.9908,
+    "lng": 79.4486
+  },
+  "century": 9,
+  "unesco": false,
+  "circuits": [
+    "paadal-petra-sthalams"
+  ],
+  "sections": {
+    "history": "Tiruvidaimarudur has been a leading Shaiva centre since early medieval times, revered in the seventh-century Tevaram and enriched by successive dynasties. The oldest parts of the stone temple belong to the Chola period, from around the ninth century; the renowned second precinct was built in the Vijayanagara era, and the great gateway towers were raised up to the time of the Thanjavur Nayaks in the sixteenth century. Numerous inscriptions record the endowments of these rulers, marking the temple's standing across many centuries.",
+    "architecture": "The temple is one of the largest in the delta, laid out on a grand Dravidian plan with four gopurams and three broad concentric prakaras. The sanctum houses the lingam of Mahalingeswarar, worshipped as a form of radiant light. The goddess Brihatsundarakujambika has her own shrine, and the complex also holds a notable Mookambika shrine built in a northern style. The temple is famous for its many theerthams — some thirty-five sacred tanks are associated with it, of which Karunyamritha Tirtham is the best known.",
+    "legends": "The town's name Madhyarjuna — the central arjuna, or marudha — places it at the heart of a trio of Marudur temples, with Tiruppudaimarudur in the south and another in the north. The most celebrated legend is that of a Pandya king, often named Varaguna, who was pursued by the sin of a Brahmin's death and found release through the grace of the lord here, a story that made the temple a place of expiation and liberation. The sanctity of the marudha tree and of the many tirthas deepens its reputation as a kshetra of great purifying power.",
+    "festivals": "The temple keeps a full festival calendar, with the annual Brahmotsavam, Maha Shivaratri, the Margazhi observances and Pradosham drawing large crowds. Processions move along the broad streets that frame the complex, and the goddess's festivals are observed with their own grandeur. The scale of the temple allows for the great car festival and the many-day utsavams characteristic of the major delta shrines.",
+    "experience": "Entering Tiruvidaimarudur is to pass through gateway after gateway into widening courtyards, a progression that gives the pilgrimage a sense of depth and arrival. The vast prakaras, the light-filled sanctum of Mahalingeswarar and the many tirthas reward unhurried circumambulation. For devotees it is a temple of release and renewal, its antiquity and scale carrying a quiet authority."
+  },
+  "visit": {
+    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
+    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
+    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
+    "gettingThere": "Tiruvidaimarudur lies on the Kumbakonam–Mayiladuthurai route, about 8 km from Kumbakonam in Thanjavur district; it has its own railway station, and frequent buses and taxis connect it with Kumbakonam."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/mahalingeswarar-tiruvidaimarudur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Mahalingeswarar Temple, Tiruvidaimarudur",
+    "credit": "Krishna Kumar S / Wikimedia Commons (CC BY-SA 3.0)"
+  }
+}

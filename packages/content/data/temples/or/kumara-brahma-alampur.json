@@ -1,0 +1,40 @@
+{
+  "id": "kumara-brahma-alampur",
+  "locale": "or",
+  "nativeName": "కుమార బ్రహ్మ ఆలయం, అలంపూర్",
+  "location": {
+    "city": "Alampur",
+    "state": "Telangana",
+    "lat": 15.8781,
+    "lng": 78.1354
+  },
+  "century": 7,
+  "unesco": false,
+  "circuits": [
+    "alampur-navabrahma-temples"
+  ],
+  "sections": {
+    "history": "Alampur's nine Navabrahma temples are Shiva shrines, each named for a form of Brahma, raised by the Badami Chalukyas on the left bank of the Tungabhadra near its meeting with the Krishna; the standing temples are dated from the middle of the seventh century. Kumara Brahma, whose name means the youthful Brahma, is often placed among the earlier members of the group and is thought to belong to the time of Vikramaditya I, who ruled from about 655 to 681. Like most of its neighbours it no longer receives worship and is protected by the Archaeological Survey of India.",
+    "architecture": "The temple rises on a high platform and is one of only two in the group, with Swarga Brahma, to keep a pillared entrance porch before its main hall. Beyond the hall lies the sanctum, wrapped by an enclosed passage for circumambulation. Its roof sets it apart: where the other shrines carry the projecting antefix over the vestibule as part of the tower, Kumara Brahma is roofed flat. Inside, the pillars are carved with Gajalakshmi, Shiva with Uma, Kubera, elephants and swans, and riders on fabulous beasts, while Vishnu presides over the sanctum doorway amid floral garlands.",
+    "legends": "Tradition holds that Brahma, the creator, performed long penance at Alampur and worshipped Shiva here, and that the nine temples remember the forms in which he did so. Kumara, the youth, is the name given to this shrine — a reminder that the Navabrahma names are devotional titles of the one Shiva, worshipped as Brahmeshwara, the lord whom Brahma adored.",
+    "festivals": "As a protected monument, the temple has no festival of its own. The Alampur precinct comes alive at Maha Shivaratri, when devotees throng the living Bala Brahmeshwara shrine nearby, and at Navaratri and Dasara for the goddess Jogulamba; confirm dates locally.",
+    "experience": "Kumara Brahma stands directly across from the site museum, so it pairs naturally with an hour among the museum's sculptures and inscribed slabs. Step into the hall and let your eyes adjust: the pillar reliefs reward close looking, and the Vishnu on the doorway frames the dim sanctum. The neighbouring Arka, Vira and Vishwa Brahma temples lie a few steps to the north."
+  },
+  "visit": {
+    "timings": "The Navabrahma precinct is open to visitors through the day; as an ASI-protected site, hours and any entry charges for the precinct and museum should be confirmed locally.",
+    "dressCode": "Modest dress is appreciated across the precinct, which includes living shrines; remove footwear where asked.",
+    "photography": "Photography is generally allowed at the monuments; tripods or professional shoots may need permission from the site authorities.",
+    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away; the temple stands within the Navabrahma precinct by the Tungabhadra, opposite the site museum."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kumara-brahma-alampur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kumara Brahma Temple, Alampur",
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kumara-brahma-alampur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kumara-brahma-alampur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kumara-brahma-alampur.jpg"
+  }
+}

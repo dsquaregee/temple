@@ -1,0 +1,40 @@
+{
+  "id": "hazara-rama-hampi",
+  "locale": "or",
+  "nativeName": "ಹಜಾರ ರಾಮ ದೇವಾಲಯ, ಹಂಪೆ",
+  "location": {
+    "city": "Hampi",
+    "state": "Karnataka",
+    "lat": 15.3192,
+    "lng": 76.4683
+  },
+  "century": 15,
+  "unesco": true,
+  "circuits": [
+    "hampi-vijayanagara-temples"
+  ],
+  "sections": {
+    "history": "Inscriptions in the temple show that Devaraya I, who ruled Vijayanagara in the early 15th century, raised this shrine to Rama under the name Ramachandra. It stood at the very hinge of the royal centre, between the great platform of the Mahanavami festival, the palaces and the walled zenana, and it served as the private temple of the kings rather than a pilgrim shrine for the city. The open pillared porch before the hall may be a later addition of the 16th century. The popular name, Hazara Rama, means 'a thousand Ramas', for the countless reliefs of his story on its walls. Worship ended when the capital was abandoned after 1565; the temple is now a protected monument within the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
+    "architecture": "A modest shrine in scale, the temple is extraordinary for its carving. The outer face of its enclosure wall is banded with processions — elephants, horses led by grooms, marching soldiers and dancing women — that recall the royal pageantry of Mahanavami described by foreign visitors to the court. Inside, the walls of the temple and the enclosure unfold the Ramayana in long horizontal friezes. The hall before the sanctum stands on a raised base, its polished black-stone pillars carved with forms of Vishnu and other deities, in striking contrast to the pale granite around them.",
+    "legends": "The temple's legend is written on its walls. Read clockwise, in the direction of circumambulation, the friezes begin with King Dasharatha's sacrifice for sons and the birth of Rama and his brothers, and go on through the exile to the forest, the golden deer and the abduction of Sita, the alliance with Hanuman and the monkey host, and the war with Ravana. For the kings of Vijayanagara the story had a nearby setting: tradition places Kishkindha, the monkey kingdom of the Ramayana, among the boulder hills of Hampi itself.",
+    "festivals": "No longer in worship, the temple keeps no festival calendar of its own. Its friezes, though, are a carved record of Mahanavami, the great autumn festival of the Vijayanagara court. Hampi comes alive during the Hampi Utsav, the state festival of music and dance staged among the ruins, usually in the cooler months; confirm dates locally.",
+    "experience": "Walk the outer wall first, following the elephants and dancers in their endless procession, then step inside and trace the Ramayana panel by panel around the shrine. The black pillars of the hall reward a close look. The temple sits among the royal monuments, so it pairs naturally with the Mahanavami platform, the Lotus Mahal and the elephant stables in a single unhurried morning."
+  },
+  "visit": {
+    "timings": "Open daily from sunrise to sunset as an ASI-protected monument. Confirm hours and any ticketing locally.",
+    "dressCode": "Modest dress is appreciated; comfortable shoes, water and sun protection help, as the royal centre is open and exposed.",
+    "photography": "Photography is generally allowed; tripods or professional shoots may need permission from the Archaeological Survey of India.",
+    "gettingThere": "The temple stands in the royal centre of Hampi, about 3 km south of Hampi Bazaar by road, in Karnataka's Vijayanagara district. Hosapete (Hospet), about 13 km away, has the nearest railway station; the nearest airport is at Vidyanagar near Toranagallu, with larger airports at Hubballi and Bengaluru."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/hazara-rama-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Hazara Rama Temple, Hampi",
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/hazara-rama-hampi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/hazara-rama-hampi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/hazara-rama-hampi.jpg"
+  }
+}

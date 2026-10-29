@@ -1,0 +1,40 @@
+{
+  "id": "kampahareswarar-thirubuvanam",
+  "locale": "bn",
+  "nativeName": "கம்பஹரேஸ்வரர் கோயில்",
+  "location": {
+    "city": "Thirubuvanam",
+    "state": "Tamil Nadu",
+    "lat": 10.99,
+    "lng": 79.433
+  },
+  "century": 12,
+  "unesco": false,
+  "circuits": [
+    "kaveri-delta-temple-towns"
+  ],
+  "sections": {
+    "history": "Thirubuvanam, also written Tribhuvanam, lies a few kilometres from Kumbakonam, and its great Shiva temple is credited to the Chola king Kulottunga III, who ruled in the late twelfth and early thirteenth centuries. It is reckoned the last of the four great medieval Chola temples, after Thanjavur, Gangaikonda Cholapuram and Darasuram. A Sanskrit inscription is understood to say that it was raised on the advice of the king's preceptor, Someshvara, to mark a victory over the Pandyas, and it names the god there as Tribhuvana Viresvara. Worship has continued without a break, and the temple is the natural companion to Darasuram on a day among the Chola temples.",
+    "architecture": "The temple is notable for its tall vimana, which rises with a presence unusual even among the great towers of the Kaveri delta. The main shrine and the shrine of Sarabeswarar both stand on raised platforms within the Dravidian enclosure, and the walls carry the carved panels and fine finish of late Chola craft, close in spirit to Darasuram nearby. The Lord is enshrined on a circular pedestal in the sanctum, and a separate shrine is devoted to Sarabeswarar, the great winged form of Shiva.",
+    "legends": "Two traditions gather here. In one, a king was afflicted with trembling and haunting fear after a Brahmin was killed by mistake; wandering in distress, he found relief at Thirubuvanam, and in thanksgiving to Shiva as the remover of trembling, Kampahareswarar, a temple was raised. In the other, after Narasimha slew the demon Hiranyakashipu, his fury would not subside, and the devas turned to Shiva, who took the form of Sarabha, part lion-beast and part great bird, to calm him. It is this Sarabeswarar form that draws many devotees here.",
+    "festivals": "Maha Shivaratri, the monthly Pradosham, Navaratri and Karthigai Deepam are observed with special worship, and many devotees time their visits to the Sarabeswarar shrine on days they hold auspicious. As in the other Chola Shiva temples of the delta, the festival calendar follows the Tamil months. Confirm dates locally.",
+    "experience": "Allow time for a slow walk around the platform of the main shrine, where the late Chola workmanship rewards close looking, and for the quiet of the Sarabeswarar shrine. The temple stands in a village setting, away from the press of the larger Kumbakonam temples, and is seldom crowded. Many visitors combine it with Darasuram and Thiruvidaimarudur in a single day among the Chola temples, and the lanes around offer a pleasant glimpse of village life in the delta."
+  },
+  "visit": {
+    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
+    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
+    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
+    "gettingThere": "Thirubuvanam lies on the Kumbakonam–Mayiladuthurai road, a few kilometres from Kumbakonam, which has the nearest railway station and frequent buses. Autos and taxis from Kumbakonam make the short journey easily, and Darasuram and Thiruvidaimarudur are close by. Tiruchirappalli International Airport, about 100 km away, is the nearest airport."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.jpg",
+    "color": "#5C3A2E",
+    "alt": "Kampahareswarar Temple, Thirubuvanam",
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.avif",
+      "webp": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/kampahareswarar-thirubuvanam.jpg"
+  }
+}

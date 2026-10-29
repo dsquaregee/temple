@@ -1,0 +1,41 @@
+{
+  "id": "dwarakadhish-dwarka",
+  "locale": "mr",
+  "nativeName": "द्वारकाधीश मंदिर, द्वारका",
+  "location": {
+    "city": "Dwarka",
+    "state": "Gujarat",
+    "lat": 22.238,
+    "lng": 68.968
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "divya-desams",
+    "char-dham"
+  ],
+  "sections": {
+    "history": "Thiru Dwaraka is one of the 108 Divya Desams, counted among the northern abodes of Vada Nadu, and Sri Vaishnava lists name Periyalvar, Andal, Thirumangai Alvar and Nammalvar as among its singers. Dwarka is also one of the Char Dham and one of the seven Mukti Kshetras, and the western seat attributed to Adi Shankara, the Dwaraka Sharada Peetham, stands here. Archaeological findings suggest an original structure here no earlier than about 200 BCE, and the present Dwarkadhish temple, also called the Jagat Mandir, was rebuilt and enlarged in the fifteenth and sixteenth centuries. The Sri Vaishnava lists name the Divya Desam's lord Kalyana Narayanan, while Dwarka honours Krishna as Dwarakadhish, the king of Dwarka.",
+    "architecture": "The main shrine, the Jagat Mandir, is a five-storeyed building raised on seventy-two pillars, standing above the Gomti creek. Two gateways frame the pilgrim's passage: the Swarga Dwar, the entrance, and the Moksha Dwar, the exit from which steps lead down to the Gomti. A great flag flies from the spire and is widely described as changed several times a day. Close by, Sudama Setu crosses the Gomti, and Rukmini has her own temple outside the town.",
+    "legends": "Dwarka is remembered as the kingdom of Krishna, where he reigned as Dwarakadhish, the lord and king of Dwarka. The Sri Vaishnava tradition honours him here as Kalyana Narayanan, the auspicious Narayana of the Divya Desam, while the Alvars' hymns look to the western shore as one of the far northern abodes. The sea and the river meeting at the town, the Gomti Ghat, gives the pilgrimage its particular quiet.",
+    "festivals": "Krishna Janmashtami is the principal festival, and the Holi season, known as Phuldol, is celebrated with joy. Vaikunta Ekadashi is kept by Sri Vaishnava pilgrims. Crowds are very large on these days, so confirm dates and darshan arrangements locally.",
+    "experience": "Enter by the Swarga Dwar and leave by the Moksha Dwar, then go down to the Gomti Ghat; many pilgrims also cross Sudama Setu and visit Rukmini's temple outside the town. Allow time for the climb of steps within the complex, and visit early on festival days."
+  },
+  "visit": {
+    "timings": "The temple opens daily for morning and evening darshan, with a midday closure. Janmashtami and the Holi season are extremely busy. Confirm current timings locally before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "Dwarka lies on the Gomti creek on the western coast of Gujarat, in Devbhumi Dwarka district, and is reached by road and rail. Within town, the temple stands above the Gomti Ghat, close to Sudama Setu."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.jpg",
+    "color": "#5C3A2E",
+    "alt": "Dwarakadhish Temple, Dwarka (Thiru Dwaraka)",
+    "credit": "Sivaprasadsujatha / Wikimedia Commons (CC BY-SA 4.0) · Abhi1901 / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.avif",
+      "webp": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/dwarakadhish-dwarka.jpg"
+  }
+}

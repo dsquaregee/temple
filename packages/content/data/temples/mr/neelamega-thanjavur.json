@@ -1,0 +1,41 @@
+{
+  "id": "neelamega-thanjavur",
+  "locale": "mr",
+  "nativeName": "தஞ்சை மாமணிக் கோயில், தஞ்சாவூர்",
+  "location": {
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "lat": 10.8158,
+    "lng": 79.1386
+  },
+  "century": 8,
+  "unesco": false,
+  "circuits": [
+    "divya-desams",
+    "kaveri-delta-temple-towns"
+  ],
+  "sections": {
+    "history": "Thanjai Mamani Koil is one of the 108 Divya Desams and one of the shrines of Chola Nadu, and it is unusual among them: three neighbouring temples on the bank of the Vennaru, at the edge of Thanjavur, are counted together as a single sacred abode and are referred to together in the hymns. Three Alvars sang them — Thirumangai Alvar, Nammalvar and Bhoothathalvar — in five verses of the Nalayira Divya Prabandham, and the shrine is still called Thanjai Mamani Koil, the temple of the great jewel of Thanjai. The hymns place the shrine among the earliest sacred sites of the city whose name, tradition says, the lord himself bestowed.",
+    "architecture": "The three shrines stand close together on the river bank. In the first, Neelamega Perumal, the lord dark as a rain cloud, is seated facing east, with the Goddess Sengamalavalli in her own shrine; the temple also keeps shrines to Lakshmi Narasimha and Lakshmi Hayagriva, and a Yoga Narasimha in the front hall. The second is the small shrine of Manikundra Perumal with the Goddess Ambujavalli, and the third, Thanjai Yali Koil, enshrines Narasimha as Veera Narasimha.",
+    "legends": "The sthala purana tells that the sage Parasara did penance here, and that Neelamega Perumal and Sengamalavalli appeared before him. It tells too of the asura Thanjakan, who troubled the sages until Vishnu slew him; repenting at the last, he asked that the place bear his name — and so, tradition holds, it became Thanjai, Thanjavur. His companion, who took the form of an elephant, was overcome by the lord as Narasimha, remembered in the Thanjai Yali shrine.",
+    "festivals": "The temples keep the Vaishnava festivals of the year — Vaikunta Ekadashi foremost among them — together with the days of the Alvars whose hymns first sang these shrines. Processions pass between the three temples and along the Vennaru, joining the three shrines, as the hymns do, into one.",
+    "experience": "Most visitors to Thanjavur come for the great Chola temple of Shiva; few go on to the river bank where three Vishnu shrines make up a single Divya Desam. Allow time to visit all three, from Neelamega Perumal to Manikundra Perumal and the Narasimha shrine — together they are the jewel of Thanjai."
+  },
+  "visit": {
+    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the three shrines may keep different hours, and Vaikunta Ekadashi is busiest. Confirm current timings before visiting.",
+    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
+    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
+    "gettingThere": "The three shrines stand on the bank of the Vennaru on the outskirts of Thanjavur, a short road journey from the town centre. Thanjavur Junction is the nearest railway station, and Tiruchirappalli the nearest airport, about 60 km away by road."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",
+    "color": "#5C3A2E",
+    "alt": "Thanjai Mamani Koil (Neelamega Perumal Temple), Thanjavur",
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.avif",
+      "webp": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/neelamega-thanjavur.jpg"
+  }
+}

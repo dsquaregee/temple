@@ -1,0 +1,40 @@
+{
+  "id": "vittala-hampi",
+  "locale": "mr",
+  "nativeName": "ವಿಜಯ ವಿಠಲ ದೇವಾಲಯ, ಹಂಪೆ",
+  "location": {
+    "city": "Hampi",
+    "state": "Karnataka",
+    "lat": 15.342,
+    "lng": 76.4756
+  },
+  "century": 15,
+  "unesco": true,
+  "circuits": [
+    "hampi-vijayanagara-temples"
+  ],
+  "sections": {
+    "history": "The temple of Vijaya Vittala grew with the fortunes of Vijayanagara. Its core is generally placed in the 15th century, in the reign of Devaraya II, though its first patron is uncertain; the great expansion came in the early 16th century under the Tuluva kings. Some two dozen inscriptions dated between 1513 and 1564 record gifts and worship here. Krishnadevaraya built the hundred-pillared hall and gave vessels of gold and silver; two of his queens each raised a gateway, and a third gopura is credited to his successor Achyutaraya. After the defeat of 1565 the capital was abandoned and worship here fell silent. The temple is today a protected monument within the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
+    "architecture": "The complex is a walled court entered through towered gateways, with the shrine of Vittala at its centre and around it a goddess shrine, a kalyana mandapa for the divine marriage, and further pillared halls. The great maha mandapa before the sanctum rests on fifty-six carved pillars, many of them clusters of slender colonnettes that ring with musical notes when struck — now protected from touch. Facing it on the same axis stands the celebrated stone chariot, in truth a shrine of Garuda, Vishnu's eagle mount, shaped as a processional car with carved wheels; it is among the best-loved images of India and appears on the fifty-rupee note.",
+    "legends": "Vittala is the form of Vishnu beloved of the saint-poets of Pandharpur, and a popular story at Hampi tells that the Lord of Pandharpur came to see the magnificent temple raised for him — and, finding it too grand, returned to his humble home, so that the temple was never truly his. The inscriptions tell a different tale, recording decades of offerings and worship. The stone chariot carries its own small legend of motion: its stone wheels were once said to turn, as though Garuda's car might yet roll out in procession.",
+    "festivals": "As a monument no longer in worship, the Vittala temple keeps no festival calendar of its own. Hampi as a whole comes alive during the Hampi Utsav, the state festival of music and dance staged among the ruins, usually in the cooler months; confirm dates locally.",
+    "experience": "Come early, when the low sun warms the granite and the courtyard is still quiet. Electric shuttles carry visitors along the last stretch from the parking area, or you can walk the riverside path from Hampi Bazaar past ruined shrines and boulders. Circle the stone chariot slowly, then sit in the shade of the halls and look up at the carved brackets: rearing yalis, dancers and musicians caught in stone."
+  },
+  "visit": {
+    "timings": "Open daily from sunrise to sunset as an ASI-protected monument; an entry ticket is required. Confirm hours and ticketing locally.",
+    "dressCode": "Modest dress is appreciated; comfortable shoes, water and sun protection help, as the site is open and stony.",
+    "photography": "Photography is generally allowed; the musical pillars must not be touched, and tripods or professional shoots may need permission from the Archaeological Survey of India.",
+    "gettingThere": "The temple lies about 2.5 km north-east of Hampi Bazaar, near the Tungabhadra opposite Anegondi, in Karnataka's Vijayanagara district. Hosapete (Hospet), about 13 km from Hampi, has the nearest railway station; the nearest airport is at Vidyanagar near Toranagallu, with larger airports at Hubballi and Bengaluru."
+  },
+  "hero": {
+    "src": "https://media.dsquaregee.com/heroes/vittala-hampi.jpg",
+    "color": "#5C3A2E",
+    "alt": "Vijaya Vittala Temple, Hampi",
+    "credit": "Suraj S Rao / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)",
+    "sources": {
+      "avif": "https://media.dsquaregee.com/heroes/vittala-hampi.avif",
+      "webp": "https://media.dsquaregee.com/heroes/vittala-hampi.webp"
+    },
+    "og": "https://media.dsquaregee.com/og/vittala-hampi.jpg"
+  }
+}
