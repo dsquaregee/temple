@@ -8,6 +8,7 @@ import {
 } from '@temple/core';
 import { getFestivalCalendar } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
+import { pageAlternates } from '@/lib/seo';
 import { absUrl, breadcrumbList, collectionPage } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
@@ -29,10 +30,7 @@ export function generateMetadata({
   return {
     title: ui.festivals.title,
     description: ui.festivals.intro,
-    alternates: {
-      canonical: `/${params.locale}/festivals/`,
-      languages: Object.fromEntries(LOCALES.map((l) => [l, `/${l}/festivals/`])),
-    },
+    alternates: pageAlternates(params.locale, (l) => `/${l}/festivals/`),
   };
 }
 

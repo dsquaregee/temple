@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { t, type Locale } from '@temple/core';
 import { getCircuits } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
+import { pageAlternates } from '@/lib/seo';
 import { absUrl, breadcrumbList, collectionPage } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
@@ -20,10 +21,7 @@ export function generateMetadata({
   return {
     title: ui.tabs.yatra,
     description: `${ui.labels.circuits} — ${ui.tagline}`,
-    alternates: {
-      canonical: `/${params.locale}/yatra/`,
-      languages: Object.fromEntries(LOCALES.map((l) => [l, `/${l}/yatra/`])),
-    },
+    alternates: pageAlternates(params.locale, (l) => `/${l}/yatra/`),
   };
 }
 

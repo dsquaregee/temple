@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { t, type Locale } from '@temple/core';
 import { LOCALES } from '@/lib/locales';
+import { pageAlternates } from '@/lib/seo';
 import { DiscoverListing } from '@/components/DiscoverListing';
 
 export function generateStaticParams() {
@@ -16,10 +17,7 @@ export function generateMetadata({
   return {
     title: ui.tabs.discover,
     description: `${ui.labels.allTemples} — ${ui.tagline}`,
-    alternates: {
-      canonical: `/${params.locale}/temples/`,
-      languages: Object.fromEntries(LOCALES.map((l) => [l, `/${l}/temples/`])),
-    },
+    alternates: pageAlternates(params.locale, (l) => `/${l}/temples/`),
   };
 }
 

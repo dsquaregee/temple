@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { buildPlaylist, t, toListenItem, type Locale } from '@temple/core';
 import { getTemples } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
+import { pageAlternates } from '@/lib/seo';
 import { PageChrome } from '@/components/PageChrome';
 import { ListenPlayer } from '@/components/ListenPlayer';
 import { MusicCta } from '@/components/MusicCta';
@@ -19,10 +20,8 @@ export function generateMetadata({
   const ui = t(params.locale);
   return {
     title: ui.tabs.listen,
-    alternates: {
-      canonical: `/${params.locale}/listen/`,
-      languages: Object.fromEntries(LOCALES.map((l) => [l, `/${l}/listen/`])),
-    },
+    description: `${ui.tabs.listen} · ${ui.appName} — ${ui.tagline}`,
+    alternates: pageAlternates(params.locale, (l) => `/${l}/listen/`),
   };
 }
 

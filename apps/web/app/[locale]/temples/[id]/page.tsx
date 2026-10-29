@@ -14,6 +14,7 @@ import {
   festivalKeysForTemple,
 } from '@temple/content';
 import { LOCALES } from '@/lib/locales';
+import { pageAlternates } from '@/lib/seo';
 import { absUrl, breadcrumbList } from '@/lib/jsonld';
 import { PageChrome } from '@/components/PageChrome';
 import { JsonLd } from '@/components/JsonLd';
@@ -46,30 +47,21 @@ export function generateMetadata({
   return {
     title: temple.name,
     description: temple.summary,
-    alternates: {
-      canonical: `/${params.locale}/temples/${temple.id}/`,
-      languages: Object.fromEntries(
-        LOCALES.map((l) => [l, `/${l}/temples/${temple.id}/`])
-      ),
-    },
+    alternates: pageAlternates(params.locale, (l) => `/${l}/temples/${temple.id}/`),
+    // A page that sets `openGraph` replaces the root default wholesale, so set the
+    // image explicitly: the temple's own hero OG when it exists, else the site
+    // default — every temple gets a social card either way.
     openGraph: {
       title: temple.name,
       description: temple.summary,
       type: 'article',
-      ...(og
-        ? { images: [{ url: og, width: 1200, height: 630, alt: temple.name }] }
-        : {}),
+      images: og
+        ? [{ url: og, width: 1200, height: 630, alt: temple.name }]
+        : [{ url: '/icon-512.png', width: 512, height: 512, alt: temple.name }],
     },
-    ...(og
-      ? {
-          twitter: {
-            card: 'summary_large_image',
-            title: temple.name,
-            description: temple.summary,
-            images: [og],
-          },
-        }
-      : {}),
+    twitter: og
+      ? { card: 'summary_large_image', title: temple.name, description: temple.summary, images: [og] }
+      : { card: 'summary', title: temple.name, description: temple.summary, images: ['/icon-512.png'] },
   };
 }
 
