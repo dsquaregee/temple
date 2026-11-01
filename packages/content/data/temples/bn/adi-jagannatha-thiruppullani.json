@@ -1,18 +1,25 @@
 {
   "id": "adi-jagannatha-thiruppullani",
   "locale": "bn",
+  "name": "আদি জগন্নাথ পেরুমাল মন্দির, তিরুপ্পুল্লানি",
   "nativeName": "ஆதி ஜெகந்நாதப் பெருமாள் கோயில், திருப்புல்லாணி",
+  "deity": "আদি জগন্নাথ পেরুমাল রূপে বিষ্ণু, দেবী পদ্মাসিনী তায়ার-এর সঙ্গে — এবং দর্ভশয়ন রাম রূপে রাম, দর্ভঘাসের শয্যায় শায়িত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
     "city": "Thiruppullani",
     "state": "Tamil Nadu",
     "lat": 9.283,
     "lng": 78.824
   },
+  "period": "রামনাথপুরমের কাছে সমুদ্রতীরে পাণ্ড্য দেশের একটি দিব্য দেশম্, তিরুমঙ্গৈ আলবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে গীত",
   "century": 8,
+  "dynasty": "পাণ্ড্য, চোল ও সেতুপতি পৃষ্ঠপোষকতাসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "রামনাথপুরমের কাছে সমুদ্রতীরে, বিষ্ণু আদি জগন্নাথ পেরুমাল রূপে দাঁড়িয়ে থাকেন এবং রাম দর্ভঘাসের শয্যায় শায়িত হয়ে সমুদ্রের অপেক্ষায় থাকেন — তিরুমঙ্গৈ আলবার কর্তৃক গীত পাণ্ড্য দেশের একটি দিব্য দেশম্।",
   "sections": {
     "history": "Thiruppullani lies near the coast just outside Ramanathapuram, on the road of the Rama legend that runs to Sethu and Rameswaram. It is one of the 108 Divya Desams of Pandya Nadu, glorified by Thirumangai Alvar in twenty verses of his Periya Thirumozhi. Tradition places the temple's beginnings in the eighth century, and the shrine grew with gifts from the Medieval Cholas, the later Pandyas and the Sethupathi rulers of Ramnad, the hereditary guardians of the causeway country. A damaged inscription of the thirty-seventh year of Maravarman Sundara Pandya records an order of a minister named Arya Chakravarthy, and historians suggest that parts of the gopuram may owe something to the Jaffna kings who held Rameswaram as allies of the Pandyas.",
     "architecture": "The temple holds three great presences under their own vimanas. Adi Jagannatha Perumal, honoured as the Jagannatha of the south, stands beneath the Kalyana vimana with the Goddess Padmasini Thayar in her separate shrine. Darbhasayana Rama reclines on his grass bed under the Swastika vimana, and Pattabhi Rama, crowned after the victory, has his own sannidhi. Before the temple lies the Chakra Theertham, named for the Lord's discus, while the sea nearby is honoured as the Ratnakara theertham.",

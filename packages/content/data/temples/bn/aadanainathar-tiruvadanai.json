@@ -1,18 +1,25 @@
 {
   "id": "aadanainathar-tiruvadanai",
   "locale": "bn",
+  "name": "আদনৈনাথর মন্দির, তিরুবডনৈ",
   "nativeName": "ஆடானைநாதர் கோயில்",
+  "deity": "আদনৈনাথর (আদি রত্নেশ্বরর) রূপে শিব, দেবী স্নেহবল্লী-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
     "city": "Tiruvadanai",
     "state": "Tamil Nadu",
     "lat": 9.7833,
     "lng": 78.9194
   },
+  "period": "পাণ্ড্য দেশের প্রাচীন শৈব মন্দির, তেবারমে গীত (৭ম শতাব্দী); বর্তমান মন্দিরে ব্যাপক পরবর্তী সংস্কারের ছাপ",
   "century": 7,
+  "dynasty": "পাণ্ড্য দেশ; পরবর্তী সংস্কারের কৃতিত্ব সেতুপতিদের (ভাস্কর সেতুপতি)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "আদনৈনাথর, যিনি আদি রত্নেশ্বরর নামেও পরিচিত, হলেন পাণ্ড্য দেশের তিরুবডনৈর প্রভু, সম্বন্দরের স্তোত্রে প্রশংসিত এবং বরুণের পুনরুদ্ধারের জন্য স্মরণীয়, নয়-স্তরের গোপুরম ও প্রায় তিনশত স্তম্ভের একটি হলসহ এক বিশাল মন্দিরে।",
   "sections": {
     "history": "Tiruvadanai, in Ramanathapuram district, is the Tiruvadanai of the Tevaram, one of the fourteen Paadal Petra Sthalams of the Pandya country, sung in the hymn of Sambandar. Sources differ on its place in the sequence of Pandya shrines, but agree on its standing among the sung temples. The Lord is known as Aadanainathar and, in the Sanskrit form, Adhi Ratneswarar, the first jewel; the goddess is Snehavalli, called Anbayi Ammai in Tamil. The temple stands on a very large site of about ten acres, and major renovations are credited to Bhaskara Sethupathi of the Sethupathi line. We did not find detailed records of the beginnings of the present structures in the sources we could consult, so the temple is best understood as a Tevaram-era shrine kept in continuous worship and enlarged in later centuries.",
     "architecture": "The temple stands on about ten acres and is entered beneath a nine-tiered rajagopuram of roughly 130 feet, rich in stucco figures. Within is a pillared hall, the Chokkatanchari mandapam, with 291 carved pillars. The sanctum holds the linga of Aadanainathar, with the goddess Snehavalli worshipped as his consort. The sacred tank is the Surya Pushkarini, the temple's vilwa theertham, and the vilwa (bael) tree is the sacred tree. Several other sacred springs belong to the temple, named for Varuna, Vaaruni, Markandeya, Agastya and Kamadhenu.",

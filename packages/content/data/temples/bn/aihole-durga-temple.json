@@ -1,18 +1,25 @@
 {
   "id": "aihole-durga-temple",
   "locale": "bn",
+  "name": "আইহোলে দুর্গা মন্দির",
   "nativeName": "ಐಹೊಳೆ ದುರ್ಗ ದೇವಾಲಯ",
+  "deity": "মূলত একটি বিষ্ণু বা সূর্য মন্দির; আইহোলে গোষ্ঠীর অ্যাপসিডাল \"দুর্গা\" (দুর্গ) মন্দির",
+  "tradition": "আদি চালুক্য (শহর জুড়ে শৈব, বৈষ্ণব ও জৈন মন্দির)",
   "location": {
     "city": "Aihole",
     "state": "Karnataka",
     "lat": 16.0197,
     "lng": 75.8815
   },
+  "period": "৭ম–৮ম শতাব্দী খ্রিস্টাব্দ",
   "century": 7,
+  "dynasty": "বাদামির চালুক্য",
+  "style": "আদি চালুক্য, পরীক্ষামূলক",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "আইহোলে, যাকে ভারতীয় মন্দির স্থাপত্যের আঁতুড়ঘর বলা হয়, সেখানে অ্যাপসিডাল দুর্গা মন্দির হল এক শহরভর্তি আদি চালুক্য পরীক্ষা-নিরীক্ষার মধ্যে সবচেয়ে বিখ্যাত — একটি গোলাকার, স্তম্ভশোভিত মন্দির যেখানে দক্ষিণী মন্দির রূপ তখনও উদ্ভাবিত হচ্ছিল।",
   "sections": {
     "history": "Aihole, ancient Aryapura, was an early Chalukyan town where, from the sixth to the eighth centuries, builders tried out plan after plan in stone, earning the place its name as the cradle of Indian temple architecture. Scores of temples survive here, from the earliest halls to fully evolved shrines; the Meguti Jain temple carries a famous inscription of 634 CE by the poet Ravikirti, praising the emperor Pulakeshin II. The Durga temple, from the seventh or eighth century, is the best known — its very unconventionality a record of an age when the rules were still being written.",
     "architecture": "The Durga temple takes its name not from the goddess but from the durga, the fort beside which it stood. Its plan is apsidal, rounded at the rear like the back of an elephant, a form borrowed from earlier Buddhist chaitya halls and rarely tried for a Hindu shrine. A colonnaded verandah wraps the whole building, its pillars and niches carrying superb reliefs — Vishnu, Shiva, Durga, Harihara — and a curving tower rises behind. Around it the Aihole group ranges from the flat-roofed Lad Khan temple to the northern-towered shrines, a whole museum of early experiment in the open air.",

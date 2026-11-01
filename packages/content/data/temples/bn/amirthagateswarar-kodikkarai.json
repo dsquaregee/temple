@@ -1,18 +1,25 @@
 {
   "id": "amirthagateswarar-kodikkarai",
   "locale": "bn",
+  "name": "অমৃতঘটেশ্বরর (কোড়ি কুড়গর) মন্দির, কোড়িক্করৈ",
   "nativeName": "கோடிக்கரை கோடிக்குழகர் (அமிர்தகடேஸ்வரர்) கோயில்",
+  "deity": "অমৃতঘটেশ্বরর (কোড়ি কুড়গর, একটি স্বয়ম্ভু লিঙ্গ) রূপে শিব, দেবী অঞ্জনাক্ষী (মৈ তড়ঙ্গন্নি)-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্",
   "location": {
     "city": "Kodikkarai (Point Calimere)",
     "state": "Tamil Nadu",
     "lat": 10.2849,
     "lng": 79.8522
   },
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে গীত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কোড়িক্করৈতে — পয়েন্ট ক্যালিমেরে, যেখানে কাবেরী দেশ ভূমির দক্ষিণতম প্রান্তে সমুদ্রের সঙ্গে মেলে — শিব অমৃতঘটেশ্বরর রূপে সম্মানিত, কোড়ি কুড়গর, এক স্বয়ম্ভু লিঙ্গে পূজিত, দেবী অঞ্জনাক্ষীর সঙ্গে। সম্বন্দর ও সুন্দরর কর্তৃক গীত একটি পাডল পেট্র স্থলম্, এটি অমৃতম, মন্থিত সমুদ্রের সুধার সমুদ্রতীরবর্তী মন্দির।",
   "sections": {
     "history": "Kodikkarai — Point Calimere, the southern tip of the Kaveri delta where land meets sea — holds a Paadal Petra Sthalam, the Kodi Kuzhagar temple, hymned in the Tevaram by Tirugnana Sambandar and Sundarar. Believed first built by the Cholas, it carries several inscriptions of the Chola period. It stands in Nagapattinam district, by the Point Calimere wildlife sanctuary.",
     "architecture": "A Dravidian seaside temple, the shrine enshrines Amirthagateswarar — the Kodi Kuzhagar — worshipped in a swayambhu, self-manifest lingam, with the goddess Anjanakshi (Mai Thadanganni) in her own shrine, a Nandi and the parivara devatas. The Navagrahas here are set in a straight line rather than the usual grid. Because of its remote coastal setting, the temple opens only about an hour each morning and evening.",

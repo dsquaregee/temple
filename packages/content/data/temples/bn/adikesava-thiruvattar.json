@@ -1,19 +1,26 @@
 {
   "id": "adikesava-thiruvattar",
   "locale": "bn",
+  "name": "আদিকেশব পেরুমাল মন্দির, তিরুবাট্টার",
   "nativeName": "ஆதிகேசவப் பெருமாள் கோயில், திருவட்டாறு",
+  "deity": "আদিকেশব পেরুমাল রূপে বিষ্ণু, আদিশেষ সর্পের উপর শায়িত, দেবী মরকতবল্লী-র সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
     "city": "Thiruvattar, Kanyakumari district",
     "state": "Tamil Nadu",
     "lat": 8.3297,
     "lng": 77.2658
   },
+  "period": "কোথৈ ও পরলি নদী বেষ্টিত মলৈ নাড়ুর একটি দিব্য দেশম্, নম্মালবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে গীত",
   "century": 8,
+  "dynasty": "চোল, বেনাড় ও ত্রাবাঙ্কুর",
+  "style": "কেরল বৈশিষ্ট্যসহ দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-the-deep-south"
   ],
+  "summary": "যেখানে কোথৈ ও পরলি নদী এক উঁচু দ্বীপকে ঘিরে বাঁক নেয়, সেখানে বিষ্ণু আদিশেষ সর্পের উপর আদিকেশব পেরুমাল রূপে শায়িত — নম্মালবার কর্তৃক গীত একটি মলৈ নাড়ু দিব্য দেশম্, রূপে তিরুবনন্তপুরমের পদ্মনাভের সদৃশ।",
   "sections": {
     "history": "Thiruvattar — 'the place of the encircling river' — is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and is counted among the shrines of Malai Nadu, the Divya Desams of the Kerala country. Nammalvar sang its reclining lord. The temple's recorded history reaches back to an inscription of the Chola emperor Rajendra I on its bali stone, which names the deity as the god of Thiruvattar. In later centuries the rulers of Venad, forebears of the Travancore royal house, became its patrons: an inscription ascribes the single-stone mandapa to Veera Ravi Varma Kulasekhara, and in the late nineteenth century Moolam Thirunal Rama Varma of Travancore renewed the temple's flagstaff.",
     "architecture": "The temple stands on raised ground with the rivers curving around it, its granite sanctum roofed in copper in the manner of the Kerala country. Before the sanctum is the Ottakkal Mandapam, the hall associated with a single great stone, whose building is recorded in an inscription of the Venad kings. The reclining image is around 22 feet long — so long that, as at Thiruvananthapuram, it is seen in portions through the three doorways of the sanctum: face, body and feet. One hand hangs gently down while the other is raised in blessing, an uncommon pose.",

@@ -1,18 +1,25 @@
 {
   "id": "aadavalleeswarar-thalayalangadu",
   "locale": "bn",
+  "name": "নর্দনপুরীশ্বরর মন্দির, তিরুত্তলৈয়ালঙ্গাড়ু",
   "nativeName": "திருத்தலையாலங்காடு நர்த்தனபுரீஸ்வரர் (ஆடவல்லீஸ்வரர்) கோயில்",
+  "deity": "নর্দনপুরীশ্বরর (আডবল্লীশ্বরর, মহাজাগতিক নৃত্যে পারদর্শী প্রভু) রূপে শিব, দেবী বালাম্বিকৈ (তিরুমদন্তৈ অম্মৈ)-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্",
   "location": {
     "city": "Thalayalangadu, near Kudavasal",
     "state": "Tamil Nadu",
     "lat": 10.86,
     "lng": 79.6
   },
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে গীত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তলৈয়ালঙ্গাড়ু, তেবারমের তিরুত্তলৈয়ালঙ্গাড়ু, কুড়বাসলের কাছে, শিবকে নর্দনপুরীশ্বরর রূপে — অর্থাৎ আডবল্লীশ্বরর, মহাজাগতিক নৃত্যে পারদর্শী প্রভু — দেবী বালাম্বিকৈর সঙ্গে সম্মান করে। অপ্পর কর্তৃক গীত একটি পাডল পেট্র স্থলম্, এর নামই — 'নৃত্যের নগরীর প্রভু' — হৃদয়কে বিশ্বের নৃত্যকার শিব নটরাজের দিকে ফেরায়।",
   "sections": {
     "history": "Thalayalangadu, whose Tevaram name is Tiruthalaiyalankadu, lies about 15 km from Tiruvarur and some 8 km east of Kudavasal, in Tiruvarur district (Chimizhi post, via Sembangudi). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirunavukkarasar (Appar). The stone temple is of the Chola period and later, and the lord bears the dance-names Nardhanapureeswarar and Aadavalleeswarar.",
     "architecture": "A Dravidian delta temple, the shrine enshrines Nardhanapureeswarar — also Aadavallar — in the sanctum, with the goddess Balambikai, also called Tirumadanthai Ammai, in her own shrine, a Nandi and the parivara devatas. The sacred tank is the Sangu Theertham, and the sthala vriksham is recorded variously as the vilva or the pala tree.",

@@ -1,20 +1,27 @@
 {
   "id": "aiyarappar-thiruvaiyaru",
   "locale": "bn",
+  "name": "অয়্যারপ্পর মন্দির, তিরুবৈয়ারু",
   "nativeName": "ஐயாறப்பர் கோயில்",
+  "deity": "অয়্যারপ্পর (পঞ্চনদীশ্বরর) রূপে শিব, দেবী অরম বলর্ত্ত নায়কী (ধর্মসংবর্ধিনী)-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
     "city": "Thiruvaiyaru",
     "state": "Tamil Nadu",
     "lat": 10.879,
     "lng": 79.104
   },
+  "period": "কাবেরীর ধারে প্রাচীন শৈব মন্দির; চোল ও পরবর্তী সংযোজন; তেবারমে গীত (৭ম শতাব্দী)",
   "century": 7,
+  "dynasty": "চোল ও পরবর্তী পৃষ্ঠপোষক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "kaveri-delta-temple-towns",
     "saptha-sthanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "অয়্যারপ্পর হলেন কাবেরীর ধারে তিরুবৈয়ারুর মহৎ শিব মন্দির, সেই দক্ষিণ কৈলাসম যেখানে অপ্পর কৈলাসের দর্শন পেয়েছিলেন, সপ্ত স্থানম উৎসবের কেন্দ্র, এবং সন্ত-সুরকার ত্যাগরাজের নগর।",
   "sections": {
     "history": "Thiruvaiyaru, whose name is read as the town of the five rivers, has been a place of pilgrimage since at least the seventh century, when Appar, Sambandar and Sundarar sang of Aiyarappar in the Tevaram, making this a Paadal Petra Sthalam. The temple is rooted in the Chola country and its patrons, and over the centuries it grew into a large complex of about fifteen acres with five enclosures. Appar is believed to have been granted a vision of Kailasa here, which is why the shrine is called Dakshina Kailasam, the Kailasa of the South. In later times the town found a second renown as the home of the saint-composer Thyagaraja, whose music is remembered on the Kaveri bank nearby.",
     "architecture": "The complex is entered beneath a seven-tiered rajagopuram and is enclosed by five courts. Sacred tirthams, among them the Surya, Nandi, Samudra and Devamritha tanks, are associated with the temple, and the Kaveri itself is counted among its waters. Two sanctums stand at the heart of worship, one for Aiyarappar and one for the goddess Aram Valartha Nayaki, also known as Dharmasamvardhini, whose name speaks of virtue nurtured. Long Dravidian corridors, mandapas and carved pillars give the enclosure the unhurried air of a place built for processions.",

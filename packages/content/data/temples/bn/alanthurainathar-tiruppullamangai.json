@@ -1,18 +1,25 @@
 {
   "id": "alanthurainathar-tiruppullamangai",
   "locale": "bn",
+  "name": "অলন্দুরৈনাথর মন্দির, তিরুপ্পুল্লমঙ্গৈ",
   "nativeName": "திருப்புள்ளமங்கை ஆலந்துறைநாதர் (பிரம்மபுரீஸ்வரர்) கோயில்",
+  "deity": "অলন্দুরৈনাথর (ব্রহ্মপুরীশ্বরর) রূপে শিব, দেবী অল্লিয়ঙ্কোতৈ-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্",
   "location": {
     "city": "Pullamangai (Pasupathikoil), near Thanjavur",
     "state": "Tamil Nadu",
     "lat": 10.88,
     "lng": 79.27
   },
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে গীত); আদি চোল মন্দির, আনু. ১০ম শতাব্দী",
   "century": 10,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড় (আদি চোল)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "পুল্লমঙ্গৈ, তাঞ্জাবুরের কাছে কুড়মুরুট্টির ধারে, শিবকে অলন্দুরৈনাথর রূপে — ব্রহ্মপুরীশ্বরর — দেবী অল্লিয়ঙ্কোতৈর সঙ্গে সম্মান করে। তিরুজ্ঞান সম্বন্দর কর্তৃক গীত একটি পাডল পেট্র স্থলম্, এর আদি-চোল মন্দিরটি তার যুগের কিছু সূক্ষ্মতম ও মনোরম প্রস্তর ভাস্কর্যের জন্য পণ্ডিতদের মধ্যে বিখ্যাত।",
   "sections": {
     "history": "Pullamangai, at Pasupathikoil on the banks of the Kudamurutti near Thanjavur, is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. Its shrine is one of the celebrated early-Chola temples, of about the 10th century; historians rank its sculpture among the most remarkable of the early Chola age. The place was once a banyan forest by the riverbank, whence the name Alanthurai — 'the banyan ghat.'",
     "architecture": "A compact early-Chola temple of exquisite workmanship, the shrine enshrines Alanthurainathar — Brahmapureeswarar — in the sanctum, with the goddess Alliyankothai in her own shrine, a Nandi and the parivara devatas. Its vimana is covered with finely carved niches and miniature figures — dvarapalas, Ganesha, Durga, the dikpalas and narrative panels — whose delicacy has made the temple a touchstone for the study of early Chola art.",

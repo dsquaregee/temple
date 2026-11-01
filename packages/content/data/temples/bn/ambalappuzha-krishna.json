@@ -1,18 +1,25 @@
 {
   "id": "ambalappuzha-krishna",
   "locale": "bn",
+  "name": "অম্বলপ্পুড়া শ্রীকৃষ্ণ মন্দির",
   "nativeName": "അമ്പലപ്പുഴ ശ്രീകൃഷ്ണസ്വാമി ക്ഷേത്രം",
+  "deity": "শ্রীকৃষ্ণ, এখানে পার্থসারথি রূপে পূজিত, অর্জুনের সারথি, চাবুক ও শঙ্খ ধারণরত অবস্থায় দেখানো। ভক্তরা তাঁকে স্নেহভরে শিশু কৃষ্ণ, উন্নিক্কণ্ণন রূপে শ্রদ্ধা করেন।",
+  "tradition": "বৈষ্ণব",
   "location": {
     "city": "Ambalappuzha, Alappuzha district",
     "state": "Kerala",
     "lat": 9.383,
     "lng": 76.352
   },
+  "period": "১৫শ–১৬শ শতাব্দী",
   "century": 16,
+  "dynasty": "চেম্বকাসেরি (দেবনারায়ণ) শাসক",
+  "style": "কেরল মন্দির স্থাপত্য",
   "unesco": false,
   "circuits": [
     "sacred-temples-of-kerala"
   ],
+  "summary": "অম্বলপ্পুড়া শ্রীকৃষ্ণ মন্দির আলাপ্পুড়ার ব্যাকওয়াটার অঞ্চলে অবস্থিত এবং কেরলের অন্যতম প্রিয় কৃষ্ণ মন্দির। এটি সারা রাজ্যে তার দৈনিক দুধ-ও-চালের নৈবেদ্য, অম্বলপ্পুড়া পাল পায়সমের জন্য প্রসিদ্ধ। এখানে কৃষ্ণ পার্থসারথি রূপে সম্মানিত তবু কোমল শিশু উন্নিক্কণ্ণন রূপে প্রিয়।",
   "sections": {
     "history": "The temple is traditionally attributed to the rulers of Chembakassery, of the Devanarayana line, who governed this stretch of the Kerala coast around the fifteenth and sixteenth centuries. Under their patronage it grew into a major centre of Krishna worship in the region. A well-remembered tradition links Ambalappuzha to Guruvayur: during a period of danger in the region in the late eighteenth century, the idol of Guruvayurappan is held to have been kept here for safekeeping. The temple also became closely associated with performing arts, and the Ottamthullal form is remembered as having been introduced by the poet Kunchan Nambiar within its precincts, giving the shrine a lasting place in Kerala's cultural memory.",
     "architecture": "The temple follows the classical idiom of Kerala, built low and broad rather than towering. At its heart stands a square srikovil, the sanctum, crowned with gabled roofing sheathed in copper that sheds the heavy monsoon rain. Timber, laterite and tile define the surrounding structures, and carved woodwork frames the ritual spaces. A spacious temple tank lies within the complex, its still water mirroring the roofs and serving both purification and festival needs. The plan unfolds through concentric enclosures and pillared halls in the measured, restrained manner typical of the region, where devotional atmosphere is drawn from proportion, shade and the play of light rather than from ornament or scale.",

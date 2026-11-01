@@ -1,18 +1,25 @@
 {
   "id": "agastheeswarar-agasthiyampalli",
   "locale": "bn",
+  "name": "অগস্তীশ্বরর মন্দির, অগস্তিয়ম্পল্লি",
   "nativeName": "அகத்தியான்பள்ளி அகத்தீஸ்வரர் கோயில்",
+  "deity": "অগস্তীশ্বরর রূপে শিব, দেবী সৌন্দরনায়গী (ভাগম্প্রিয়া নায়গী)-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্",
   "location": {
     "city": "Agasthiyampalli, near Vedaranyam",
     "state": "Tamil Nadu",
     "lat": 10.355,
     "lng": 79.852
   },
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে গীত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "অগস্তিয়ম্পল্লি, সমুদ্রের কাছে বেদারণ্যমের কিছুটা দক্ষিণে, শিবকে অগস্তীশ্বরর রূপে দেবী সৌন্দরনায়গীর সঙ্গে সম্মান করে। তিরুজ্ঞান সম্বন্দর কর্তৃক গীত একটি পাডল পেট্র স্থলম্, মন্দিরটি ঋষি অগস্ত্যের সঙ্গে জড়িত, যিনি ঐতিহ্য অনুসারে এখানে শিবির স্থাপন করে শিবের বিবাহ দর্শন করেছিলেন এবং যাঁর অবস্থান থেকে গ্রামটি তার নাম নেয়।",
   "sections": {
     "history": "Agasthiyampalli lies a short distance south of Vedaranyam, on the way to Kodikkarai (Point Calimere), near the sea in Nagapattinam district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and locally called Agasthiyar Kovil for its link to the sage Agastya. The stone temple is of the Chola period and later. (Sources differ on the exact distance from Vedaranyam, about 2–3 km.)",
     "architecture": "A Dravidian coastal-delta temple, the shrine enshrines Agastheeswarar in the sanctum, with the goddess Soundaranayagi — also named Baagampriya Nayagi — in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram are typical of the Shiva temples of this low-lying southern tract near the coast.",

@@ -1,18 +1,25 @@
 {
   "id": "achyutaraya-hampi",
   "locale": "bn",
+  "name": "অচ্যুতরায় মন্দির, হম্পি",
   "nativeName": "ಅಚ್ಯುತರಾಯ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "তিরুবেঙ্গলনাথ রূপে বিষ্ণু, বেঙ্কট (তিরুমালা)-র প্রভু",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
     "city": "Hampi",
     "state": "Karnataka",
     "lat": 15.3327,
     "lng": 76.4701
   },
+  "period": "১৫৩৪ সালে নির্মিত, অচ্যুত দেব রায়ের রাজত্বকালে, বিজয়নগর রাজধানীর শেষ মহৎ মন্দিরগুলির অন্যতম",
   "century": 16,
+  "dynasty": "বিজয়নগর (তুলুব)",
+  "style": "দ্রাবিড়, বিজয়নগর পর্ব",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "মাতঙ্গ পাহাড়ের নিচে এক উপত্যকায় লুকানো, হম্পির তিরুবেঙ্গলনাথের প্রতি নিবেদিত অচ্যুতরায় মন্দির (১৫৩৪) এক বিশাল দ্বি-প্রাচীরবেষ্টিত প্রাঙ্গণ, যার প্রবেশ হয় এক দীর্ঘ স্তম্ভশোভিত পথ ধরে নেমে, যা একসময় তুঙ্গভদ্রা পর্যন্ত গিয়েছিল।",
   "sections": {
     "history": "The temple was consecrated in 1534, in the reign of Achyuta Deva Raya, who succeeded his half-brother Krishnadevaraya in 1529. It was raised by a high officer of his court to Vishnu as Tiruvengalanatha, the Lord of the Venkata hill at Tirumala, whose shrine the Tuluva kings honoured with rich gifts — yet it has always been known by the king's name rather than the god's. It was among the last grand temple projects of the capital: barely three decades later, after the defeat of 1565, Vijayanagara was abandoned and worship here ceased. The ruined complex is now a protected monument within the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
     "architecture": "The plan is the mature Vijayanagara temple-town in miniature: two concentric walled enclosures, each entered through a towered gateway on the north, with the sanctum and its pillared halls at the centre of the inner court and a kalyana mandapa, the hall of the divine marriage, in the outer court. Its pillars carry the rearing yalis and finely cut figures of the period. Leading north from the gateways runs a broad, long street lined with pillared pavilions — the old Sule Bazaar — which carried processions and trade towards the river.",

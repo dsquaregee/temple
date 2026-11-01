@@ -1,18 +1,25 @@
 {
   "id": "airavateswarar-tiruvethirkolpadi",
   "locale": "bn",
+  "name": "ঐরাবতেশ্বরর মন্দির, তিরুবেতির্কোল্পাড়ি",
   "nativeName": "ஐராவதேஸ்வரர் கோயில்",
+  "deity": "ঐরাবতেশ্বরর রূপে শিব, দেবী সুগন্ধ কুণ্ডলাম্বিকৈ (মলর্কুড়ল মাধম্মৈ)-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
     "city": "Ethirkolpadi",
     "state": "Tamil Nadu",
     "lat": 11.09,
     "lng": 79.58
   },
+  "period": "কাবেরীর উত্তরে চোল দেশের প্রাচীন শৈব মন্দির, সুন্দরর কর্তৃক তেবারমে গীত (৮ম শতাব্দী); মূলত চোল যুগে গঠিত কাঠামোগত মন্দির",
   "century": 8,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবেতির্কোল্পাড়ি, এতির্কোল্পাড়ি গ্রামে, হল সেই তেবারম মন্দির যার নাম এক অভ্যর্থনা থেকে: ঐতিহ্য বলে যে ঋষি ভরত এখানে দিব্য দম্পতিকে বরণ করেছিলেন, এবং ইন্দ্রের শ্বেত হাতি ঐরাবত এখানে শিবকে পূজা করেছিল, প্রভুকে ঐরাবতেশ্বরর নাম দিয়ে।",
   "sections": {
     "history": "Ethirkolpadi, also called Mela Tirumanancheri, lies north of the Kaveri in the Chola country, a few kilometres from Kuthalam in Mayiladuthurai district. In the Tevaram it is sung as Tiruvethirkolpadi by Sundarar, and it is counted among the Paadal Petra Sthalams of the northern bank. The Periya Puranam does not single the shrine out, yet the saint is remembered to have come here and praised the Lord in verse. The present temple was largely shaped in the Chola age, and about twenty-eight inscriptions of the eleventh and twelfth centuries are reported from its walls, though a shrine of this kind may well be older than its stone.",
     "architecture": "The temple faces west, unusual among Shiva temples, and is entered beneath a three-tiered rajagopuram. The inner plan follows the Dravidian pattern, with the sanctum, an antarala and an ardhamandapa in a line before the deity. In the sanctum Shiva is worshipped as Airavateswarar, while the goddess Sugandha Kundalambikai, known in Tamil as Malarkuzhal Madhammai, the lady of the fragrant flower-tresses, is honoured in her own shrine. The Chola inscriptions record gifts for the lamps and worship of the Lord, a reminder that the temple was long cared for as a living institution.",

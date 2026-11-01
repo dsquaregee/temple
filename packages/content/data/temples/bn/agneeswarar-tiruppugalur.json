@@ -1,18 +1,25 @@
 {
   "id": "agneeswarar-tiruppugalur",
   "locale": "bn",
+  "name": "অগ্নীশ্বরর মন্দির, তিরুপ্পুগলুর",
   "nativeName": "திருப்புகலூர் அக்னீஸ்வரர் கோயில்",
+  "deity": "অগ্নীশ্বরর (অগ্নিপুরীশ্বরর) রূপে শিব, দেবী করুন্দার্কুড়লি-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্",
   "location": {
     "city": "Tiruppugalur",
     "state": "Tamil Nadu",
     "lat": 10.87,
     "lng": 79.75
   },
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে গীত); বর্তমান চোল কাঠামোগত মন্দির, আনু. ১০ম শতাব্দী",
   "century": 10,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুপ্পুগলুর, নাগপট্টিনমের নিম্ন কাবেরী বদ্বীপে, শিবকে অগ্নীশ্বরর রূপে — অগ্নিপুরীশ্বরর — দেবী করুন্দার্কুড়লির সঙ্গে সম্মান করে। অপ্পর, সম্বন্দর ও সুন্দরর কর্তৃক গীত একটি পাডল পেট্র স্থলম্, এর নাম অগ্নিদেবের তপস্যার সঙ্গে জড়িত, যাঁর তীর্থকুণ্ড, অগ্নি তীর্থম, এখনও মন্দিরকে ঘিরে আছে।",
   "sections": {
     "history": "Tiruppugalur lies in Nagapattinam district, in the lower Kaveri delta. It is a Paadal Petra Sthalam, hymned in the Tevaram by Appar (Tirunavukkarasar), Sambandar and Sundarar, counted among the Shiva shrines on the southern bank of the Kaveri. The present stone temple is of the Chola period, about the 10th century. The complex holds two Paadal Petra shrines — Agneeswarar and Vardhamaneswarar.",
     "architecture": "A Dravidian delta temple, the shrine enshrines Agneeswarar — Agnipureeswarar — in the sanctum, with the goddess Karundharkuzhali (also Choolikambal) in her own shrine, a Nandi and the parivara devatas. A water body, the Agni Theertham, encircles the shrine. The walled courtyard keeps the form of the Shiva temples of the lower Nagapattinam delta, and the shrine of Vardhamaneswarar stands within the same sacred ground.",

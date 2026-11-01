@@ -1,19 +1,26 @@
 {
   "id": "adbhuta-narayana-thrikkodithanam",
   "locale": "bn",
+  "name": "অদ্ভুত নারায়ণ মন্দির, তৃক্কোড়িত্তানম",
   "nativeName": "തൃക്കൊടിത്താനം മഹാവിഷ്ണു ക്ഷേത്രം",
+  "deity": "অদ্ভুত নারায়ণ রূপে বিষ্ণু, 'বিস্ময়কর নারায়ণ', চতুর্ভুজ রূপে দণ্ডায়মান",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
     "city": "Thrikkodithanam, Kottayam district",
     "state": "Kerala",
     "lat": 9.438,
     "lng": 76.562
   },
+  "period": "মলৈ নাড়ুর একটি দিব্য দেশম্, নম্মালবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে গীত",
   "century": 8,
+  "dynasty": "চের পেরুমাল (পরবর্তী কেরল পৃষ্ঠপোষকসহ)",
+  "style": "কেরল",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "pancha-pandava-temples"
   ],
+  "summary": "চেঙ্গান্নুরের কাছে, বিষ্ণু তৃক্কোড়িত্তানমে অদ্ভুত নারায়ণ রূপে পূজিত হন — নম্মালবার কর্তৃক গীত একটি মলৈ নাড়ু দিব্য দেশম্, ঐতিহ্য অনুসারে পাণ্ডবদের কনিষ্ঠ সহদেব কর্তৃক প্রতিষ্ঠিত বলে ধরা হয়।",
   "sections": {
     "history": "Thrikkodithanam — Thirukkadithanam in the hymns — is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and a shrine of Malai Nadu praised by Nammalvar. It stands in the green country just east of Changanassery in Kottayam district. Its origins are placed by tradition in the age of the Chera Perumals. It is also one of five temples of the region that tradition links with the Pandava brothers.",
     "architecture": "The temple follows the Kerala manner: a sanctum (srikovil) beneath sloping roofs, enclosed by the nalambalam cloister, within a walled compound entered past the balikkal altar stone and the flagstaff. The four-armed image of Vishnu stands in the sanctum. The compound keeps the restrained timber-and-stone architecture shared by the other Pandava shrines of the region.",

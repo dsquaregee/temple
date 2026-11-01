@@ -1,19 +1,26 @@
 {
   "id": "adi-varaha-thirukkalvanur",
   "locale": "bn",
+  "name": "আদি বরাহ পেরুমাল মন্দির, তিরুক্কল্বনুর (কামাক্ষী অম্মন মন্দিরের অভ্যন্তরে)",
   "nativeName": "ஆதி வராகப் பெருமாள் சன்னதி, திருக்களவனூர்",
+  "deity": "আদি বরাহ রূপে বিষ্ণু, কল্বর পেরুমাল, দণ্ডায়মান, দেবী অঞ্জিলৈ বল্লী নাচিয়ার-এর সঙ্গে — কামাক্ষী অম্মন মন্দিরের ভিতরের একটি দিব্য দেশম্ মন্দির",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
     "city": "Kanchipuram",
     "state": "Tamil Nadu",
     "lat": 12.84,
     "lng": 79.7036
   },
+  "period": "তোণ্ডৈ নাড়ুর একটি দিব্য দেশম্, তিরুমঙ্গৈ আলবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে গীত",
   "century": 8,
+  "dynasty": "কাঞ্চি কামাক্ষী অম্মন মন্দিরের অভ্যন্তরস্থ একটি মন্দির",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "তিরুক্কল্বনুর কোনো আলাদা মন্দির নয়: এটি কাঞ্চিপুরমের কামাক্ষী অম্মন মন্দিরের ভিতরে আদি বরাহ, কল্বর পেরুমালের একটি ছোট বিষ্ণু মন্দির, এবং তিরুমঙ্গৈ আলবার কর্তৃক গীত একটি দিব্য দেশম্।",
   "sections": {
     "history": "Thirukkalvanur is unusual among the 108 Divya Desams of Thondai Nadu, because it is not a temple of its own. It is a Vishnu shrine inside the Kanchi Kamakshi Amman temple, set on the right side of the Goddess's sanctum, and pilgrims who come to the Kamakshi temple worship the lord here as well. Thirumangai Alvar sang the shrine in a single verse of the Nalayira Divya Prabandham, naming the place Thirukkalvanur. The lord is Adi Varaha, known locally as Kalvar or Kalvan Perumal, and his consort is Anjilai Valli Nachiyar. Devotional references name the Vamana Vimanam over his sanctum and the Nithya Pushkarini as his tank.",
     "architecture": "Because the shrine lies within the Kamakshi Amman temple, it shares that temple's gateways, courts and pillared halls rather than having its own. It is a small sanctum on the right of the Goddess's shrine, where Adi Varaha stands facing west with Anjilai Valli Nachiyar. Devotional references name the Vamana Vimanam as its vimana and the Nithya Pushkarini as its tank. The temple's priests or attendants can direct you to the shrine.",

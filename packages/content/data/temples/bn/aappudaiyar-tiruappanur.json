@@ -1,18 +1,25 @@
 {
   "id": "aappudaiyar-tiruappanur",
   "locale": "bn",
+  "name": "আপ্পুড়ৈয়ার মন্দির, তিরুঅপ্পনুর",
   "nativeName": "ஆப்புடையார் கோயில்",
+  "deity": "আপ্পুড়ৈয়ার (আপ্পনাথর) রূপে শিব, দেবী কুড়ল্বায়মোড়ি অম্মৈ-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
     "city": "Tiruappanur (Sellur), Madurai",
     "state": "Tamil Nadu",
     "lat": 9.944,
     "lng": 78.137
   },
+  "period": "পাণ্ড্য দেশের প্রাচীন শৈব মন্দির, তেবারমে গীত (৭ম শতাব্দী); পাণ্ড্য প্রতিষ্ঠা, পরবর্তী নায়ক সংযোজনসহ",
   "century": 7,
+  "dynasty": "পাণ্ড্য, পরবর্তী মাদুরৈ নায়ক পৃষ্ঠপোষকতাসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "আপ্পুড়ৈয়ার হলেন মাদুরৈর সেল্লুরে বৈগৈ নদীর উত্তর তীরের শিব মন্দির, তিরুজ্ঞান সম্বন্দর কর্তৃক তেবারমে গীত এবং আপ্পু-র কিংবদন্তির জন্য স্মরণীয় — সেই গোঁজ যা একটি লিঙ্গে পরিণত হয়ে এক পাণ্ড্য রাজাকে প্লাবিত নদী পার হতে সাহায্য করেছিল।",
   "sections": {
     "history": "Tiruappanur lies in Sellur, on the northern bank of the Vaigai, a few kilometres from the great Meenakshi temple of Madurai. Tradition counts it the second of the Tevaram shrines of the Pandya country praised in the hymns of Tirugnana Sambandar, which makes it a Paadal Petra Sthalam. The original temple is believed to have been raised by the Pandyas and later enlarged by the Nayak rulers of Madurai. The name of the place is explained by the story of the aappu, and the river that flows beside the shrine has long been honoured as its sacred water. Though the city has grown all around it, worship here has continued without a break. Detailed records of its foundation are scarce, so this account keeps to what tradition holds.",
     "architecture": "The temple faces east and is modest in scale beside the great monuments of old Madurai. Its plan follows the Somaskanda arrangement, with a shrine of Subrahmanya standing between the sanctum of Aappudaiyar and that of the goddess, and a Vinayaka beneath a sacred fig between them. The sanctum holds the Shiva linga, while Kuzhalvaimozhi Ammai is honoured in a shrine of her own. Accounts note that the Shiva sanctum has no towering gopuram of its own, and the Vaigai itself serves as the temple's sacred water. The sacred tree is the kondrai, the golden shower.",

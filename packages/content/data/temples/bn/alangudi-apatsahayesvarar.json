@@ -1,19 +1,26 @@
 {
   "id": "alangudi-apatsahayesvarar",
   "locale": "bn",
+  "name": "অলঙ্গুড়ি আপৎসহায়েশ্বরর মন্দির",
   "nativeName": "ஆலங்குடி அபத்சகாயேஸ்வரர் கோயில்",
+  "deity": "আপৎসহায়েশ্বরর রূপে শিব, দেবী এলবর্কুড়লি-র সঙ্গে; গুরু (বৃহস্পতি) দক্ষিণামূর্তি রূপে পূজিত",
+  "tradition": "শৈব; গুরু (বৃহস্পতি)-র জন্য একটি নবগ্রহ স্থলম্ এবং তেবারমের একটি পাডল পেট্র স্থলম্",
   "location": {
     "city": "Alangudi",
     "state": "Tamil Nadu",
     "lat": 10.603,
     "lng": 79.533
   },
+  "period": "চোল যুগ, পরবর্তী সংযোজনসহ",
   "century": 10,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "navagraha-temples",
     "paadal-petra-sthalams"
   ],
+  "summary": "গুরু (বৃহস্পতি)-র নবগ্রহ মন্দির, যেখানে শিব আপৎসহায়েশ্বরর রূপে পূজিত, সেই প্রভু যিনি বিপদে সাহায্যে আসেন। ভক্তরা জ্ঞান, বিবাহ, সন্তান ও গুরু দোষ থেকে মুক্তি প্রার্থনা করেন, বিশেষত মহৎ গুরু পেয়র্চি সংক্রমণের সময়ে।",
   "sections": {
     "history": "Alangudi is counted among the Paadal Petra Sthalams, the shrines hymned in the Tevaram by the Tamil Shaiva saints, which places its devotional standing well before the surviving stone structure. The temple as it stands is of the Chola period, raised in enduring granite and enlarged by later hands who added halls, gateways and subsidiary shrines. Over the centuries it grew into one of the principal Navagraha centres of the Kaveri delta, drawing pilgrims who make the circuit of the nine planetary temples. Here the planet honoured is Guru, or Brihaspati, the preceptor of the gods, and the sanctum of Shiva as the divine teacher Dakshinamurthy remains the heart of its worship.",
     "architecture": "Built in the Dravidian idiom of the Chola country, the temple presents a walled enclosure entered through a towered gateway, with the granite sanctum of Apatsahayesvarar at its core. Pillared halls lead the devotee inward past the shrine of the Goddess Elavarkuzhali and the much-revered niche of Dakshinamurthy, the southward-facing form of Shiva as Guru. Stone mandapas, a sacred tank tied to the temple's own legend, and later additions of successive periods frame the older core. The proportions are restrained and devotional rather than grand, in keeping with a temple whose fame rests on its planetary sanctity rather than monumental scale.",

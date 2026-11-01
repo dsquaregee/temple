@@ -1,18 +1,25 @@
 {
   "id": "abathsahayeswarar-thenkurangaduthurai",
   "locale": "bn",
+  "name": "আপৎসহায়েশ্বরর মন্দির, তেনকুরঙ্গাড়ুতুরৈ",
   "nativeName": "தென்குரங்காடுதுறை அபத்சகாயேஸ்வரர் கோயில்",
+  "deity": "আপৎসহায়েশ্বরর রূপে শিব, দেবী পবলক্কোড়ি অম্মৈ-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্",
   "location": {
     "city": "Thenkurangaduthurai, at Aduthurai",
     "state": "Tamil Nadu",
     "lat": 11.02,
     "lng": 79.48
   },
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে গীত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তেনকুরঙ্গাড়ুতুরৈ, কাবেরীর দক্ষিণ তীরে আড়ুতুরৈতে, শিবকে আপৎসহায়েশ্বরর রূপে — 'বিপদে সহায়' — দেবী পবলক্কোড়ি অম্মৈর সঙ্গে সম্মান করে। সম্বন্দর ও অপ্পর কর্তৃক গীত একটি পাডল পেট্র স্থলম্, এর উঁচু পাঁচ-স্তরের পশ্চিম গোপুরম কুম্বকোণমের কাছে বদ্বীপ অঞ্চলের উপর উঠে দাঁড়ায়।",
   "sections": {
     "history": "Thenkurangaduthurai, at Aduthurai in Thanjavur district, is a Paadal Petra Sthalam on the southern bank of the Kaveri, hymned in the Tevaram by Sambandar and Appar. The stone temple is of the Chola period and later; its western gopuram, the tallest, rises in five tiers to about 72 feet.",
     "architecture": "A Dravidian delta temple, the shrine enshrines Apathsahayeswarar in the sanctum, with the goddess Pavalakkodi Ammai (Prabhavalli) in her own shrine, a Nandi and the parivara devatas. The five-tiered western tower, about 72 feet, is the temple's landmark over the Aduthurai country.",

@@ -1,18 +1,25 @@
 {
   "id": "amaruviappan-therazhundur",
   "locale": "bn",
+  "name": "দেবাদিরাজন পেরুমাল মন্দির, তেরড়ুন্দুর",
   "nativeName": "தேவாதிராஜப் பெருமாள் கோயில், தேரழுந்தூர்",
+  "deity": "দেবাদিরাজন রূপে বিষ্ণু, দণ্ডায়মান, এবং উৎসব প্রভু অমরুবিয়প্পন রূপে গাভী ও বাছুরসহ, দেবী সেঙ্গমলবল্লী-র সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
     "city": "Therazhundur",
     "state": "Tamil Nadu",
     "lat": 11.0464,
     "lng": 79.5794
   },
+  "period": "কাবেরীর কাছে চোল দেশের একটি দিব্য দেশম্, তিরুমঙ্গৈ আলবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে গীত",
   "century": 8,
+  "dynasty": "চোল (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "মায়িলাডুতুরৈর কাছে তেরড়ুন্দুরে, বিষ্ণু দেবতাদের রাজা দেবাদিরাজন রূপে দাঁড়িয়ে থাকেন এবং গাভী ও বাছুরসহ গোপাল প্রভু অমরুবিয়প্পন রূপে বেরিয়ে আসেন — তিরুমঙ্গৈ আলবার কর্তৃক গীত একটি দিব্য দেশম্, এবং কম্বরের জন্মস্থান।",
   "sections": {
     "history": "Therazhundur, the Thiruvazhundur of the hymns, is one of the 108 Divya Desams and one of the shrines of Chola Nadu, a village near Kuthalam in the Mayiladuthurai country. Thirumangai Alvar sang its lord at length in the Periya Thirumozhi — tradition counts forty-five of his verses here, among the most he gave any shrine. Tradition holds that the temple was first raised by the early Chola king Karikala, and later centuries added to it. The village is honoured too as the birthplace of Kambar, the poet of the Tamil Ramayana, so that Therazhundur stands in the memory of Tamil devotion and Tamil letters alike.",
     "architecture": "Built in the Dravidian manner, the temple enshrines Devadirajan standing and facing east beneath the Garuda Vimanam; uniquely, Garuda stands beside the lord within the sanctum. The festival image, Amaruviappan, stands with his consorts and with a cow and calf at his side, and the Goddess Sengamalavalli has her own shrine. The Darshana Pushkarini lies before the temple, outside the main entrance.",

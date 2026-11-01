@@ -1,19 +1,26 @@
 {
   "id": "adi-kumbeswarar-kumbakonam",
   "locale": "bn",
+  "name": "আদি কুম্বেশ্বরর মন্দির, কুম্বকোণম",
   "nativeName": "ஆதி கும்பேஸ்வரர் கோயில்",
+  "deity": "আদি কুম্বেশ্বরর রূপে শিব, লিঙ্গ রূপে পূজিত, দেবী মঙ্গলাম্বিকৈ অম্মন-এর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
     "city": "Kumbakonam",
     "state": "Tamil Nadu",
     "lat": 10.958,
     "lng": 79.371
   },
+  "period": "চোল-যুগের প্রতিষ্ঠা, বিজয়নগর ও নায়ক সংযোজনসহ; তেবারমে গীত (৭ম শতাব্দী)",
   "century": 7,
+  "dynasty": "চোল, বিজয়নগর ও তাঞ্জাবুর নায়ক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "kaveri-delta-temple-towns",
     "paadal-petra-sthalams"
   ],
+  "summary": "আদি কুম্বেশ্বরর হলেন কুম্বকোণমের প্রধান শিব মন্দির, যেখানে ঐতিহ্য বলে যে প্রভু সৃষ্টির ভাঙা কলসে প্রবেশ করে তাকে তাঁর লিঙ্গ করেছিলেন, এবং শহরটি নিজেই সেই কুম্ভ থেকে নাম নিয়েছে।",
   "sections": {
     "history": "Adi Kumbeswarar stands at the heart of Kumbakonam and is counted among its oldest and most important Shaiva shrines. The saints Appar and Sambandar sang its praises in the Tevaram, which makes it a Paadal Petra Sthalam and shows that devotion was rooted here by the seventh century. The present temple is generally credited to the Cholas, with later growth under the Vijayanagara rulers and the Nayaks of Thanjavur between the fifteenth and seventeenth centuries. It is also one of the twelve Shiva temples tied to the Mahamaham, the great bathing festival that comes to Kumbakonam once in twelve years, and its worship has always been bound up with the identity of the town.",
     "architecture": "The complex covers roughly 2,800 square metres and is entered through four gopurams, the tallest being the eastern tower, which rises in eleven storeys to about 128 feet. Within, the Dravidian plan unfolds in successive courts and pillared corridors. A sixteen-pillared hall of the Vijayanagara period is the finest set piece, with the twenty-seven stars and twelve zodiac signs carved in a single stone. Shrines for the Lord and for Mangalambigai Amman anchor the worship, and the sculpted pillars reward a slow walk around the enclosure.",

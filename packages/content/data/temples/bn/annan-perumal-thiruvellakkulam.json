@@ -1,18 +1,25 @@
 {
   "id": "annan-perumal-thiruvellakkulam",
   "locale": "bn",
+  "name": "আণ্ণন পেরুমাল মন্দির, তিরুবেল্লক্কুলম (আণ্ণন কোয়িল)",
   "nativeName": "அண்ணன் பெருமாள் கோயில், திருவெள்ளக்குளம்",
+  "deity": "শ্রীনিবাস রূপে বিষ্ণু, আণ্ণন পেরুমাল নামে, অলর্মেল্মঙ্গৈ তায়ার (উৎসবর পদ্মাবতী)-র সঙ্গে এবং কুমুদবল্লী নাচিয়ারের একটি পৃথক মন্দিরসহ — তিরুবেল্লক্কুলম, \"তিরুনঙ্গুর গোষ্ঠীর তিরুপতি\"",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
     "city": "Annan Koil",
     "state": "Tamil Nadu",
     "lat": 11.19,
     "lng": 79.765
   },
+  "period": "চোল নাড়ুর একটি দিব্য দেশম্, এগারোটি তিরুনঙ্গুর মন্দিরের একটি, তিরুমঙ্গৈ আলবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে গীত",
   "century": 8,
+  "dynasty": "চোল দেশ (পরবর্তী শতাব্দীতে সংস্কারকৃত)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "সিরকাড়ির কাছে আণ্ণন কোয়িলে, শ্রীনিবাস আণ্ণন পেরুমাল রূপে পূজিত, তিরুমালার প্রভুর বড় ভাই — চোল নাড়ুর একটি দিব্য দেশম্ যেখানে তিরুমঙ্গৈ আলবার দশটি শ্লোক গেয়েছিলেন এবং কুমুদবল্লীর সঙ্গে সাক্ষাৎ করেছিলেন।",
   "sections": {
     "history": "Thiruvellakkulam, known today as Annan Koil, is one of the 108 Divya Desams and belongs to Chola Nadu. It is one of the eleven Vishnu shrines of Thirunangur near Sirkazhi. Its Lord is Srinivasa Perumal, called Annan Perumal, the elder brother of Thiruvenkatamudaiyan of Tirumala; pilgrims who cannot reach Tirupati have long held a visit here to be equal to it. Thirumangai Alvar devoted ten verses to the shrine, Periya Thirumozhi 4.7, and tradition says he addressed only two Perumals as 'Anna' — this Lord and the Lord of Tirupati. The architecture is classed as Chola, and the most recent consecration took place in October 2016. The hymns place its attestation in the eighth century.",
     "architecture": "The sanctum is crowned by the Tattvadyotaka vimana, and the temple belongs to the Chola architectural tradition, renewed at its latest kumbhabhishekam in October 2016. Alarmelmangai Thayar has her own shrine, and Kumudavalli Nachiyar is honoured in a separate shrine as well. The temple tank, from which the shrine takes its name, is the Swetha Pushkarini, the 'white tank' — Vellai Kulam in Tamil.",

@@ -1,19 +1,26 @@
 {
   "id": "adinathar-alvarthirunagari",
   "locale": "bn",
+  "name": "আদিনাথর পেরুমাল মন্দির, আলবার্তিরুনগরি",
   "nativeName": "ஆதிநாதர் பெருமாள் கோயில், ஆழ்வார்திருநகரி",
+  "deity": "আদিনাথর রূপে বিষ্ণু, দেবী আদিনাথবল্লী-র সঙ্গে — নব তিরুপতির মধ্যে বৃহস্পতি (গুরু)-র মন্দির, এবং নম্মালবারের জন্মস্থান",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
     "city": "Alvarthirunagari",
     "state": "Tamil Nadu",
     "lat": 8.605,
     "lng": 77.8
   },
+  "period": "তাম্রপর্ণী নদীর ধারে পাণ্ড্য দেশের একটি দিব্য দেশম্, নম্মালবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে গীত",
   "century": 8,
+  "dynasty": "পাণ্ড্য (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "তাম্রপর্ণীর ধারে আলবার্তিরুনগরিতে, বিষ্ণু আদিনাথর রূপে দাঁড়িয়ে থাকেন — নয়টি গ্রহ তিরুপতির মধ্যে বৃহস্পতির মন্দির, এবং আলবারদের মধ্যে অগ্রগণ্য নম্মালবারের জন্মস্থান, যিনি এই সমস্ত মন্দিরের স্তব গেয়েছিলেন।",
   "sections": {
     "history": "Alvarthirunagari — the sacred town of the Alvar — is the birthplace of Nammalvar, the greatest of the Alvar saints, and stands at the heart of the Nava Tirupati on the Tamiraparani; its lord is Adinathar, the primordial one. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of Jupiter, Guru; the old tamarind tree under which Nammalvar is said to have sat in silent meditation is revered here.",
     "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Adinathar, with the Goddess Adinathavalli; the shrine is the devotional centre of the nine. Pillared halls open before the sanctum, in the temple manner of the deep south.",

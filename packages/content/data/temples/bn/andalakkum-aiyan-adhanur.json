@@ -1,18 +1,25 @@
 {
   "id": "andalakkum-aiyan-adhanur",
   "locale": "bn",
+  "name": "আণ্ডলক্কুম অয়্যন মন্দির, তিরুআধনুর",
   "nativeName": "ஆண்டளக்கும் ஐயன் கோயில், திருவாதனூர்",
+  "deity": "আণ্ডলক্কুম অয়্যন রূপে বিষ্ণু, একটি মাপনপাত্রসহ শায়িত, দেবী ভার্গবী (রঙ্গনায়কী)-র সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
     "city": "Thiruaadhanur (Adhanur)",
     "state": "Tamil Nadu",
     "lat": 10.962,
     "lng": 79.315
   },
+  "period": "কাবেরী ও কোল্লিডমের মাঝে চোল দেশের একটি দিব্য দেশম্, তিরুমঙ্গৈ আলবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে গীত",
   "century": 8,
+  "dynasty": "চোল দেশ, পরবর্তী সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "স্বামিমলৈর কাছে তিরুআধনুরে, বিষ্ণু আণ্ডলক্কুম অয়্যন রূপে শায়িত, মাপনপাত্রসহ সেই প্রভু যিনি ঐতিহ্য অনুসারে তিরুমঙ্গৈ আলবারের মন্দির-নির্মাতাদের পারিশ্রমিক দিয়েছিলেন — একটি চোল নাড়ু দিব্য দেশম্।",
   "sections": {
     "history": "Thiruaadhanur is a village near Swamimalai, close to Kumbakonam, set in the rich country between the Kaveri and the Kollidam. Its temple is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Chola Nadu. The Lord here is Andalakkum Aiyan — 'the master who measures and rules' — with the Goddess Bhargavi, also called Ranganayaki. The shrine is bound up with Thirumangai Alvar, who sang it and whose great labour of renovating the Srirangam temple is remembered in the legend of this place. The village name itself is traced to Kamadhenu, the wish-granting cow: Thiru-aa-than-oor, 'the sacred place of the cow'.",
     "architecture": "The temple follows the Dravidian plan of the Kaveri delta, its sanctum crowned by the Pranava Vimana, named for the sacred syllable Om. Within, the Lord reclines facing east and is shown with a marakkal, the measuring vessel of the paddy country, which devotees read as a sign that he weighs the hearts of those who come to him. Kamadhenu and her calf Nandini are present in the sanctum, recalling the cow's penance, and the temple tank is the Surya Pushkarini.",

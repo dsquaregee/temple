@@ -1,18 +1,25 @@
 {
   "id": "adhimooleswarar-tiruppatrurai",
   "locale": "bn",
+  "name": "অধিমূলেশ্বরর মন্দির, তিরুপ্পাত্রুরৈ",
   "nativeName": "ஆதிமூலேஸ்வரர் கோயில்",
+  "deity": "অধিমূলেশ্বরর (মূলনাথর) রূপে শিব, দেবী নিত্যকল্যাণী-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
     "city": "Tiruppatrurai",
     "state": "Tamil Nadu",
     "lat": 10.8458,
     "lng": 78.7692
   },
+  "period": "কোল্লিডম নদীর ধারে প্রাচীন শৈব মন্দির, তেবারমে গীত (৭ম শতাব্দী); চোল যুগের কাঠামোগত মন্দির, পরবর্তী সংযোজনসহ",
   "century": 7,
+  "dynasty": "চোল (প্রথম পরান্তক ও পরবর্তী চোল রাজাদের শিলালিপি)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "অধিমূলেশ্বরর হলেন তিরুপ্পাত্রুরৈর তেবারম মন্দির, কোল্লিডমের ধারে দুধের নদীতীরের স্থান, যেখানে ঐতিহ্য বলে যে ঋষি মার্কণ্ডেয়র প্রার্থনার উত্তরে শিবলিঙ্গের উপর আপনা-আপনি দুধ উথলে উঠেছিল।",
   "sections": {
     "history": "Tiruppatrurai stands in the river country north of the Kaveri, on the banks of the Kollidam, a short way east of Tiruvanaikaval. It is one of the Paadal Petra Sthalams, the shrines hymned in the Tevaram by the Nayanar saints of the seventh century, and Sambandar is recorded as having sung here. The name is read as paal-thurai, the milk-place on the river bank, a memory of the miracle on which the shrine is founded. Stone inscriptions of the Chola age survive within the temple, among them records of Parantaka I and Vikrama Chola, including land grants that were cut afresh when the older engravings had worn away. The deity is called Adhimooleswarar, the Lord who is the primal root, and he has been worshipped here without interruption through the long centuries.",
     "architecture": "The temple is a compact, quiet Dravidian shrine of the Chola country. The sanctum faces east and holds a self-manifested Shiva linga, the Adhimooleswarar who gives the temple its name. The goddess Nithyakalyani, who is also remembered as Mekalambika and Mohanayaki, has her own shrine facing south, a direction devotees associate with gentleness toward the fear of death. Behind the sanctum, where Shiva temples usually place Lingodbhava, stands a shrine of Sankaranarayana, the joint form of Shiva and Vishnu. The inscribed stones of the Chola period line the walls, and the setting between two rivers gives the place an unhurried, green calm.",

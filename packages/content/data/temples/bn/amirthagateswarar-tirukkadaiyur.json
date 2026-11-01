@@ -1,18 +1,25 @@
 {
   "id": "amirthagateswarar-tirukkadaiyur",
   "locale": "bn",
+  "name": "অমৃতঘটেশ্বরর–অভিরামী মন্দির, তিরুক্কড়ৈয়ুর",
   "nativeName": "திருக்கடையூர் அமிர்தகடேஸ்வரர் - அபிராமி கோயில்",
+  "deity": "অমৃতঘটেশ্বরর (কালসংহারমূর্তি) রূপে শিব, দেবী অভিরামী-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্ এবং অষ্ট বীরট্টানমের একটি",
   "location": {
     "city": "Tirukkadaiyur, near Tharangambadi",
     "state": "Tamil Nadu",
     "lat": 11.0192,
     "lng": 79.8517
   },
+  "period": "তেবারম যুগ, চোল কাঠামো ও নায়ক সম্প্রসারণসহ",
   "century": 9,
+  "dynasty": "চোল, পরবর্তী তাঞ্জাবুর নায়কসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুক্কড়ৈয়ুরে, করমণ্ডল উপকূলের কাছে, শিব অমৃতঘটেশ্বরর রূপে — সুধার কলসের প্রভু — এবং কালসংহারমূর্তি রূপে পূজিত, কালের বিজেতা যিনি বালক-ভক্ত মার্কণ্ডেয়কে মৃত্যুদেব যমের হাত থেকে রক্ষা করেছিলেন। এটি একই সঙ্গে একটি পাডল পেট্র স্থলম্ এবং শিবের বীরোচিত কর্মের আটটি অষ্ট বীরট্টানম মন্দিরের একটি। সন্ত অভিরামী পট্টরের স্তোত্র অভিরামী অন্তাদির মাধ্যমে অমর হওয়া দেবী অভিরামী নিজস্ব ভক্তি টানেন, এবং মন্দিরটি ৬০তম- ও ৮০তম-জন্মদিনের দীর্ঘায়ু আচারের প্রধান স্থান।",
   "sections": {
     "history": "Tirukkadaiyur, about 21 km east of Mayiladuthurai near the old coastal town of Tharangambadi, is an ancient Shaiva site sung in the seventh-century Tevaram. The present masonry temple was raised during the Chola period, from around the ninth century, and greatly enlarged under the Thanjavur Nayaks, who added its tall towers and spacious halls. Its eastern gopuram rises eleven storeys, and the complex spreads across five courtyards — a scale that matches its standing as both a Tevaram sthalam and an Ashta Veerattanam shrine.",
     "architecture": "The temple is a large Dravidian complex of concentric prakaras, pillared mandapas and several gateway towers, the eastern one among the tallest in the region. The sanctum enshrines the lingam of Amritaghateswarar; a separate and much-visited shrine houses the goddess Abirami, and another honours Markandeya. The form of Shiva as Kalasamharamurti — foot raised against Yama — is a focus of worship, and devotees look for the marks said to have been left on the lingam by the god of death's noose.",

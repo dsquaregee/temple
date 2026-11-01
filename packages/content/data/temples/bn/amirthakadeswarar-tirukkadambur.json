@@ -1,18 +1,25 @@
 {
   "id": "amirthakadeswarar-tirukkadambur",
   "locale": "bn",
+  "name": "অমৃতকটেশ্বরর মন্দির, তিরুক্কডম্বুর",
   "nativeName": "அமிர்தகடேஸ்வரர் கோயில்",
+  "deity": "অমৃতকটেশ্বরর রূপে শিব, দেবী বিদ্যুজ্যোতি নায়কী-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
     "city": "Melakadambur",
     "state": "Tamil Nadu",
     "lat": 11.14,
     "lng": 79.31
   },
+  "period": "চোল নাড়ুর প্রাচীন শৈব মন্দির, তেবারমে গীত (৭ম শতাব্দী); বর্তমান গ্রানাইট করক্কোয়িল ১১১৩ খ্রিস্টাব্দে প্রথম কুলোত্তুঙ্গ চোলের অধীনে নির্মিত",
   "century": 12,
+  "dynasty": "চোল (প্রথম কুলোত্তুঙ্গ চোল)",
+  "style": "দ্রাবিড় (করক্কোয়িল, রথ-আকৃতির মন্দির)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "অমৃতকটেশ্বরর হলেন তেবারমে প্রশংসিত তিরুক্কডম্বুরের শিব মন্দির, মেলাকডম্বুরের করক্কোয়িল, যার গ্রানাইট গর্ভগৃহ ঘোড়ায় টানা এক প্রস্তর রথ রূপে নির্মিত, এবং যার প্রভু অমরত্বের সুধার এক বিন্দু থেকে তাঁর নাম নেন।",
   "sections": {
     "history": "Melakadambur lies in the southern reaches of the Kaveri delta, near Kattumannarkoil in Cuddalore district. In the Tevaram hymns of Appar and Sambandar the place is Tirukkadambur, and the temple is counted among the Paadal Petra Sthalams on the northern bank of the Kaveri. The old village later divided into Melakadambur and Keezhakadambur, so pilgrims take care to ask for the western one. The granite temple seen today is dated by inscriptions to the reign of Kulottunga Chola I, with a record from his forty-third year corresponding to 1113 CE, and it is thought to stand in place of a still earlier brick shrine. Worship has continued here without a break, long past the age of the kings who raised the stone.",
     "architecture": "This is a Karakkoil, a temple conceived as a chariot, and one of the very few that survive. The sanctum and its tower are shaped as a processional car, with a pair of horses carved as if drawing it forward on wheels, and the whole superstructure is cut from granite. Panels on the walls show Shiva in his many forms, scenes from the Ramayana and the life of Krishna, and the stories of the Nayanmar saints. Within the enclosure are separate shrines for the goddess Vidyujyothi Nayaki, for Murugan, and for Vinayaka, who is honoured here as Aaravara Vinayaka. The kadamba tree, from which the village takes its name, is the sacred tree of the temple.",

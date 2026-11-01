@@ -1,18 +1,25 @@
 {
   "id": "anekatangapadeswarar-kanchipuram",
   "locale": "bn",
+  "name": "অনেকতঙ্গপদেশ্বরর মন্দির, কাঞ্চিপুরম",
   "nativeName": "அனேகதங்காபதேஸ்வரர் கோயில்",
+  "deity": "অনেকতঙ্গপদেশ্বরর (অনেগবেশ্বরর) রূপে শিব, কাঞ্চিপুরম ঐতিহ্যে দেবী কামাক্ষীর সঙ্গে পূজিত",
+  "tradition": "শৈবধর্ম",
   "location": {
     "city": "Kanchipuram",
     "state": "Tamil Nadu",
     "lat": 12.835,
     "lng": 79.707
   },
+  "period": "তেবারমে গীত কাঞ্চিপুরমের প্রাচীন শিব মন্দির (৮ম শতাব্দী); পরবর্তী সংযোজনসহ কাঠামোগত মন্দির",
   "century": 8,
+  "dynasty": "মধ্যযুগীয় তামিল পৃষ্ঠপোষক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "অনেকতঙ্গপদেশ্বরর, তেবারমের তিরু অনেকতঙ্গবাদম, হল কাঞ্চিপুরমের প্রাচীন শিব মন্দিরগুলির একটি, যার কিংবদন্তি সর্বোপরি গণেশের সঙ্গে জড়িত, যিনি এখানে লিঙ্গ প্রতিষ্ঠা করে প্রভুকে পূজা করেছিলেন বলে বলা হয়।",
   "sections": {
     "history": "Among the Paadal Petra shrines of Kanchipuram stands the temple of Anekatangapadeswarar, sung in the Tevaram, where the place is named Tiru Anekatangavadam. By tradition the linga was established by Vinayaka — Ganesha, the son of Shiva — who worshipped the Lord here, and the shrine is linked as well to Kubera, the lord of wealth, counted among its devotees. The temple stands within the old city among its many sanctuaries, built in the Dravidian manner and kept in worship to the present day under the state endowments board.",
     "architecture": "The temple is built in the Dravidian style, its shrines set within a walled enclosure. It is entered from the north through a modest gopuram and from the east, where the Nandi and the balipeetha stand aligned with the gateway. The outer walls of the sanctum carry the attendant forms of a Shiva temple — Dakshinamurti, Vinayaka, Brahma, and the goddess Durga among them — set in their niches as the tradition prescribes. Following the Kanchipuram tradition, the Mother Goddess is worshipped as Kamakshi.",

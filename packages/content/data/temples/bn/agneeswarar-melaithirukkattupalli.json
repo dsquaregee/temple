@@ -1,18 +1,25 @@
 {
   "id": "agneeswarar-melaithirukkattupalli",
   "locale": "bn",
+  "name": "অগ্নীশ্বরর মন্দির, মেলৈ তিরুক্কাট্টুপল্লি",
   "nativeName": "அக்னீஸ்வரர் கோயில்",
+  "deity": "অগ্নীশ্বরর (তীয়ড়িঅপ্পর) রূপে শিব, দেবী সৌন্দর্যনায়কী (অড়গম্মৈ)-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
     "city": "Melai Tirukkattupalli",
     "state": "Tamil Nadu",
     "lat": 10.848,
     "lng": 78.956
   },
+  "period": "কাবেরী বদ্বীপের প্রাচীন শৈব মন্দির, সম্বন্দর ও অপ্পর কর্তৃক তেবারমে গীত (৭ম শতাব্দী); বর্তমান কাঠামো পরবর্তীকালের ও দৃঢ়ভাবে সময়-নির্ধারিত নয়",
   "century": 7,
+  "dynasty": "চোল দেশের মধ্যযুগীয় পৃষ্ঠপোষক (নির্দিষ্ট রাজবংশ দৃঢ়ভাবে উৎসায়িত নয়)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুড়মুরুট্টির দক্ষিণ তীরে মেলৈ তিরুক্কাট্টুপল্লির অগ্নীশ্বরর মন্দির হল একটি তেবারম মন্দির যেখানে অগ্নিদেব তাঁর বহন করা পাপ থেকে শুচি হয়েছিলেন বলে স্মরণ করা হয়, এবং যার গর্ভগৃহ প্রাঙ্গণের স্তরের নিচে অবস্থিত।",
   "sections": {
     "history": "Melai Tirukkattupalli lies on the southern bank of the Kudamurutti river in Thanjavur district, some fifteen to eighteen kilometres west of Thiruvaiyaru. The word melai, meaning western or upstream, distinguishes it from Keezhai Tirukkattuppalli, the sister shrine of the same name nearer the sea. Both Sambandar and Appar sang of Shiva in this place, which makes it a Paadal Petra Sthalam of the Chola country on the south bank of the Kaveri. Since the saints knew the shrine in the seventh century, its worship is clearly older than the stone that stands today. The present structure is later and cannot be firmly dated, and the temple has been reported to be under renovation in recent years, but through all of it the daily worship goes on.",
     "architecture": "The temple is entered beneath a five-tiered gopuram and is enclosed by three concentric corridors, which give it the layered calm of a traditional Chola-country shrine. Its most unusual feature lies within. The sanctum of Agneeswarar sits at a subterranean level, so that the worshipper descends to the Lord, and the Shiva linga is a self-manifested one, modest in size and crowned with a five-hooded serpent. The goddess Soundaryanayaki, also called Azhagammai, is honoured as the Lord's consort. The sacred Agni Teertham, once a tank and today remembered in the form of a well, is associated with the god of fire's own worship.",

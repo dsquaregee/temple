@@ -1,18 +1,25 @@
 {
   "id": "agneeswarar-tiruanniyur",
   "locale": "bn",
+  "name": "অগ্নীশ্বরর মন্দির, তিরুঅন্নিয়ুর",
   "nativeName": "திருஅன்னியூர் அக்னீஸ்வரர் கோயில்",
+  "deity": "অগ্নীশ্বরর রূপে শিব, দেবী (পার্বতী, কর্পগাম্বিকৈ নামেও পরিচিত)-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্",
   "location": {
     "city": "Tiruanniyur (Anniyur), Kudavasal taluk",
     "state": "Tamil Nadu",
     "lat": 10.86,
     "lng": 79.55
   },
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে গীত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুঅন্নিয়ুর, তিরুবারুর বদ্বীপের কুড়বাসল অঞ্চলে, শিবকে অগ্নীশ্বরর রূপে তাঁর পাশে দেবীর সঙ্গে সম্মান করে। তেবারমে শ্রদ্ধেয় একটি পাডল পেট্র স্থলম্, এটি দক্ষিণ কাবেরীর একটি নিরিবিলি মন্দির, এবং উত্তরের অপর তেবারম অন্নিয়ুরের সঙ্গে একে গুলিয়ে ফেলা উচিত নয়।",
   "sections": {
     "history": "Tiruanniyur lies in the Kudavasal taluk of Tiruvarur district, among the Shiva shrines of the southern bank of the Kaveri. It is a Paadal Petra Sthalam, revered in the Tevaram hymns. The stone temple is of the Chola period and later, keeping the form of the delta shrines. Two Tevaram temples bear the name Tiru-Anniyur; this is the Agneeswarar shrine of the south, distinct from the northern Anniyur dedicated to Aabathsahayeswarar.",
     "architecture": "A Dravidian delta temple, the shrine enshrines Agneeswarar in the sanctum, with the Goddess in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram are typical of the Shiva temples of the Kudavasal country.",

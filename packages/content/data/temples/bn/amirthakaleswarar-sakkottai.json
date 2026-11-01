@@ -1,18 +1,25 @@
 {
   "id": "amirthakaleswarar-sakkottai",
   "locale": "bn",
+  "name": "অমৃতকলশনাথর মন্দির, সক্কোট্টৈ",
   "nativeName": "சாக்கோட்டை அமிர்தகலசநாதர் கோயில்",
+  "deity": "অমৃতকলশনাথর (অমৃতকটেশ্বরর) রূপে শিব, দেবী অমৃতবল্লী-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্, সুন্দরর কর্তৃক গীত",
   "location": {
     "city": "Sakkottai, near Kumbakonam",
     "state": "Tamil Nadu",
     "lat": 10.9383,
     "lng": 79.4206
   },
+  "period": "তেবারম যুগ, চোল কাঠামো ও নায়ক সংযোজনসহ",
   "century": 9,
+  "dynasty": "চোল, পরবর্তী তাঞ্জাবুর নায়কসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "সক্কোট্টৈ, কুম্বকোণমের কাছে, শিবকে অমৃতকলশনাথর রূপে — সুধার কলসের প্রভু — দেবী অমৃতবল্লীর সঙ্গে সম্মান করে, একটি পাডল পেট্র স্থলম্ যার উপর সন্ত সুন্দরর দশটি শ্লোক গেয়েছিলেন। ঐতিহ্য বলে যে সৃষ্টির সারবস্তু এখানে এক কলস, কলয়মে, পৃথিবীতে এসেছিল, যা পুরনো গ্রামকে কলয়নল্লুর নাম দেয়; পরবর্তী নাম সক্কোট্টৈ সেই সময় থেকে বলে ধরা হয় যখন বৌদ্ধরা স্থানটি দখল করেছিলেন বলে বলা হয়। এটি তেষট্টি শৈব সন্তের একজন সাক্য নায়নারের সঙ্গেও জড়িত।",
   "sections": {
     "history": "Sakkottai is an old Shaiva village about four and a half kilometres from Kumbakonam, on the Kumbakonam–Needamangalam road, revered in the Tevaram, where the saint Sundarar sang ten verses on the lord. The present stone temple was built in the Chola period, around the ninth century, with later additions by the Thanjavur Nayaks. The village's layered names — Kalayanallur from a pot of nectar, Sakkottai from a Buddhist-era past — carry its long history in their syllables.",
     "architecture": "The temple follows the Dravidian plan, with a gopuram, prakara and the sanctum of Amirthakalasanathar, the lingam of the pot of nectar; the goddess Amirthavalli has her own shrine. Chola stonework and Nayak-period additions sit together in a compact delta temple whose scale suits its setting among the many shrines of the Kumbakonam country.",
