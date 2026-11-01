@@ -11,7 +11,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const outDir = join(dirname(fileURLToPath(import.meta.url)), '..', 'out');
-const LOCALES = ['ta', 'te', 'kn', 'ml', 'hi']; // en is the built-in default
+const LOCALES = ['ta', 'te', 'kn', 'ml', 'hi', 'bn', 'mr', 'or']; // en is the built-in default
 
 function walk(dir) {
   for (const name of readdirSync(dir)) {
