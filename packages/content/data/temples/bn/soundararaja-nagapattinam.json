@@ -1,29 +1,36 @@
 {
   "id": "soundararaja-nagapattinam",
   "locale": "bn",
+  "name": "সৌন্দররাজ পেরুমাল মন্দির, নাগাপট্টিনম",
   "nativeName": "சௌந்தரராஜப் பெருமாள் கோயில், நாகப்பட்டினம்",
+  "deity": "গদাধারী নীলমেঘ পেরুমাল রূপে বিষ্ণু, এবং উৎসবমূর্তি সৌন্দররাজন রূপে, দেবী সৌন্দর্যবল্লীর সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Nagapattinam",
-    "state": "Tamil Nadu",
+    "city": "নাগাপট্টিনম",
+    "state": "তামিলনাড়ু",
     "lat": 10.7606,
     "lng": 79.84
   },
+  "period": "চোল দেশের সমুদ্রতীরের এক দিব্যদেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক কীর্তিত",
   "century": 8,
+  "dynasty": "চোল (তাঞ্জাবুর নায়ক সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "নাগাপট্টিনমের পুরনো বন্দরে বিষ্ণু নীলমেঘ পেরুমাল রূপে দাঁড়িয়ে আছেন, বর্ষণমেঘের মতো শ্যামল সেই প্রভু, এবং সৌন্দররাজন রূপে শোভাযাত্রায় বের হন, সৌন্দর্যের রাজা — তিরুমঙ্গৈ আলবার কর্তৃক কীর্তিত এক দিব্যদেশম।",
   "sections": {
-    "history": "Thirunagai, the Nagapattinam of the Alvars, is one of the 108 Divya Desams and one of the shrines of Chola Nadu, the Kaveri delta country that runs down to the sea here. Thirumangai Alvar sang its lord in the Periya Thirumozhi, in verses where he takes the voice of a young woman lost in the beauty of the god and finds that beauty greater than that of the lords of other sacred places. Tradition credits the temple to the Medieval Cholas in the late eighth century, and the Nayaks of Thanjavur later added to it, so that the coastal town, long a port of many faiths, has kept its Vishnu shrine through more than a thousand years.",
-    "architecture": "A five-tiered rajagopuram rises over the entrance, and a granite wall encloses the shrines. In the sanctum Vishnu stands as Neelamega Perumal, a tall image holding the mace, facing east beneath the Soundarya Vimanam; the festival image is Soundararajan, and the Goddess Soundaryavalli has her own shrine, with Gajalakshmi as her festival form. The temple tank is the Sara Pushkarini, and pillared halls lead the devotee from the gateway to the sanctum.",
-    "legends": "The sthala purana tells that Adisesha, king of the Nagas and the serpent couch of Vishnu, worshipped the lord here, and local tradition holds that the town takes its name — Nagai, Nagapattinam — from him. The sages Markandeya and Dhruva, and Bhudevi the Earth Goddess, are also said to have received the darshan of the lord at this shrine, and his name, the king of beauty, recalls the form in which he appeared to them.",
-    "festivals": "The chariot festival in the Tamil month of Chittirai is the temple's greatest occasion, drawing the town into the streets. At Panguni Uthiram the celestial wedding of Soundararajan and Soundaryavalli is celebrated, and in Aadi the lord is brought to a hall to hear the hymns of Thirumangai Alvar. Vaikunta Ekadashi is kept with devotion.",
-    "experience": "The temple stands within the busy town, a short way from the harbour and the shore, and its quiet courts are a counterpoint to the bustle outside. Come to see the tall standing lord, then the festival Soundararajan, and read Thirumangai Alvar's verses on his beauty — this is a shrine whose very name is an invitation to look."
+    "history": "তিরুনাগৈ, আলবারদের নাগাপট্টিনম, ১০৮ দিব্যদেশমের একটি এবং চোল নাড়ুর পীঠগুলির একটি — কাবেরী বদ্বীপের সেই অঞ্চল যা এখানে সমুদ্র পর্যন্ত নেমে এসেছে। তিরুমঙ্গৈ আলবার পেরিয়া তিরুমোরিতে এর প্রভুকে কীর্তন করেছেন, যেসব পদে তিনি দেবতার সৌন্দর্যে আত্মহারা এক তরুণীর কণ্ঠ ধারণ করেন এবং সেই সৌন্দর্যকে অন্য পবিত্র স্থানের অধিপতিদের চেয়ে মহত্তর পান। পরম্পরা অষ্টম শতকের শেষভাগে মধ্যযুগীয় চোলদের এই মন্দির নির্মাণের কৃতিত্ব দেয়, এবং তাঞ্জাবুরের নায়করা পরে এতে সংযোজন করেন, যাতে বহু ধর্মের বন্দর এই উপকূলীয় শহর এক হাজার বছরেরও বেশি সময় ধরে তার বিষ্ণুপীঠ রক্ষা করেছে।",
+    "architecture": "প্রবেশপথের উপরে এক পঞ্চতলবিশিষ্ট রাজগোপুরম উঠেছে, এবং এক গ্রানাইট প্রাচীর পীঠগুলিকে ঘিরে রেখেছে। গর্ভগৃহে বিষ্ণু নীলমেঘ পেরুমাল রূপে দাঁড়িয়ে আছেন, গদাধারী এক উঁচু মূর্তি, সৌন্দর্য বিমানের নিচে পূর্বমুখী; উৎসবমূর্তি সৌন্দররাজন, এবং দেবী সৌন্দর্যবল্লীর নিজস্ব পীঠ আছে, গজলক্ষ্মী তাঁর উৎসবমূর্তি। মন্দিরের পুষ্করিণী সর পুষ্করিণী, এবং স্তম্ভমণ্ডপগুলি ভক্তকে তোরণ থেকে গর্ভগৃহ পর্যন্ত নিয়ে যায়।",
+    "legends": "স্থলপুরাণ বলে, নাগরাজ আদিশেষ, বিষ্ণুর সর্পশয্যা, এখানে প্রভুর আরাধনা করেছিলেন, এবং স্থানীয় পরম্পরা মানে যে শহরের নাম — নাগৈ, নাগাপট্টিনম — তাঁর থেকেই এসেছে। ঋষি মার্কণ্ডেয় ও ধ্রুব, এবং পৃথিবীদেবী ভূদেবীও এই পীঠে প্রভুর দর্শন পেয়েছিলেন বলে কথিত, এবং তাঁর নাম, সৌন্দর্যের রাজা, সেই রূপকে স্মরণ করায় যাতে তিনি তাঁদের কাছে আবির্ভূত হন।",
+    "festivals": "তামিল চিত্তিরৈ মাসে রথযাত্রা মন্দিরের সবচেয়ে বড় উপলক্ষ, যা গোটা শহরকে রাস্তায় টেনে আনে। পঙ্গুনি উত্তিরমে সৌন্দররাজন ও সৌন্দর্যবল্লীর দিব্যবিবাহ উদযাপিত হয়, এবং আড়ি মাসে প্রভুকে এক মণ্ডপে এনে তিরুমঙ্গৈ আলবারের স্তোত্র শোনানো হয়। বৈকুণ্ঠ একাদশী ভক্তিভরে পালিত হয়।",
+    "experience": "মন্দিরটি ব্যস্ত শহরের মধ্যে, বন্দর ও তীর থেকে অল্প দূরে, এবং এর শান্ত প্রাঙ্গণ বাইরের কোলাহলের বিপরীত সুর। উঁচু দণ্ডায়মান প্রভুকে দেখতে আসুন, তারপর উৎসবমূর্তি সৌন্দররাজনকে, এবং তিরুমঙ্গৈ আলবারের তাঁর সৌন্দর্য নিয়ে রচিত পদগুলি পড়ুন — এ এমন এক পীঠ যার নামই দেখবার আমন্ত্রণ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Chittirai chariot festival and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is in Nagapattinam town, on the coast of the Kaveri delta. Nagapattinam has a railway station with connections towards Thanjavur and Tiruchirappalli, and good road links with Thiruvarur, Karaikal and Velankanni; the nearest airport is Tiruchirappalli."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনকাল সহ খোলা থাকে, মধ্যাহ্নে বন্ধ থাকে; চিত্তিরৈ রথযাত্রা ও বৈকুণ্ঠ একাদশী সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময় যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার চারপাশে ছবি তোলা সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "মন্দিরটি কাবেরী বদ্বীপের উপকূলে নাগাপট্টিনম শহরে। নাগাপট্টিনমে রেলস্টেশন আছে যা তাঞ্জাবুর ও তিরুচিরাপল্লীর দিকে সংযুক্ত, এবং তিরুবারুর, কারাইকল ও ভেলানকান্নির সঙ্গে ভালো সড়ক সংযোগ রয়েছে; নিকটতম বিমানবন্দর তিরুচিরাপল্লী।"
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "vijayaraghava-thiruputkuzhi",
   "locale": "bn",
+  "name": "বিজয়রাঘব পেরুমাল মন্দির, তিরুপুট্কুলি",
   "nativeName": "விஜயராகவப் பெருமாள் கோயில், திருப்புட்குழி",
+  "deity": "বিষ্ণু বিজয়রাঘব পেরুমাল রূপে, দেবী মরকতবল্লী তায়ার সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruputkuzhi, Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "তিরুপুট্কুলি, কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.8725,
     "lng": 79.6189
   },
+  "period": "থোণ্ডৈ নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য, স্থানীয় বিবরণ অনুসারে (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "কাঞ্চিপুরমের পশ্চিমে তিরুপুট্কুলিতে বিষ্ণু বিজয়রাঘব পেরুমাল রূপে পূজিত হন, যেখানে রাম মহান পাখি জটায়ুর অন্ত্যেষ্টিক্রিয়া সম্পাদন করেছিলেন বলে স্মরণ করা হয়—থোণ্ডৈ নাড়ুর একটি দিব্য দেশম।",
   "sections": {
-    "history": "Thiruputkuzhi is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Thondai Nadu. Thirumangai Alvar praised the Lord of this village. The village lies in Kanchipuram district, to the west of Kanchipuram town. Local account holds that the present temple was built by the Pandya kings in the thirteenth century, though the sanctity of the place is far older in memory. The village is also remembered as the birthplace of Yadava Prakasa, the teacher under whom the young Ramanuja first studied. It is a temple in its own right, set in a village rather than within the town.",
-    "architecture": "The presiding Lord here is Vijayaraghava Perumal, Rama as the victorious one, and the Goddess is worshipped as Maragathavalli Thayar. The sacred water of the village is the Jatayu Tirtham, named for the bird whose story gives the place its name. It is a village temple, simple in setting, whose interest lies less in grandeur than in the story it keeps.",
-    "legends": "The name Thiruputkuzhi holds the legend in its syllables: pul, the bird, and kuzhi, the pit. In the Ramayana, Jatayu, the great bird, fought Ravana to save Sita and fell wounded. Rama, searching for Sita, found him dying and performed his last rites. The sthala purana places that act of mercy here, and the Jatayu Tirtham is held sacred in this memory. Tradition tells that Rama is worshipped here as Vijayaraghava, the victorious one.",
-    "festivals": "Vaikunta Ekadashi is the great day of the Vaishnava year at this Divya Desam, and the verses of the Divya Prabandham are recited on festival days. Devotees of Rama may also seek out the days sacred to him. Confirm dates locally.",
-    "experience": "A visit here is a pilgrimage into the Ramayana. Stand by the Jatayu Tirtham and recall the story of the bird who gave his life for Sita; then enter the shrine of the Lord who performed his last rites. The village is quiet, a short drive west of Kanchipuram, and it pairs naturally with a day among the Divya Desams of the town."
+    "history": "তিরুপুট্কুলি ১০৮টি দিব্য দেশমের অন্যতম, নালায়িরা দিব্য প্রবন্ধমে আলবারদের দ্বারা স্তুত বিষ্ণুর আবাস, এবং থোণ্ডৈ নাড়ুর অন্তর্গত। তিরুমঙ্গৈ আলবার এই গ্রামের প্রভুর প্রশংসা করেছিলেন। গ্রামটি কাঞ্চিপুরম জেলায়, কাঞ্চিপুরম শহরের পশ্চিমে অবস্থিত। স্থানীয় বিবরণ ধরে যে বর্তমান মন্দিরটি ত্রয়োদশ শতাব্দীতে পাণ্ড্য রাজারা নির্মাণ করেছিলেন, যদিও স্থানের পবিত্রতা স্মৃতিতে আরও প্রাচীন। গ্রামটি যাদব প্রকাশের জন্মস্থান হিসেবেও স্মরণীয়, যিনি সেই শিক্ষক যাঁর অধীনে তরুণ রামানুজ প্রথম অধ্যয়ন করেছিলেন। এটি নিজস্ব অধিকারে একটি মন্দির, শহরের মধ্যে নয় বরং একটি গ্রামে অবস্থিত।",
+    "architecture": "এখানকার অধিষ্ঠাতা প্রভু বিজয়রাঘব পেরুমাল, বিজয়ী রূপে রাম, এবং দেবী মরকতবল্লী তায়ার রূপে পূজিত হন। গ্রামের পবিত্র জল হল জটায়ু তীর্থম, সেই পাখির নামে নামাঙ্কিত যার কাহিনী স্থানটিকে নাম দিয়েছে। এটি একটি গ্রাম্য মন্দির, পরিবেশে সরল, যার আগ্রহ জাঁকজমকের চেয়ে বরং এটি যে কাহিনী রক্ষা করে তাতে নিহিত।",
+    "legends": "তিরুপুট্কুলি নামটি তার অক্ষরে কিংবদন্তি ধরে রাখে: পুল, পাখি, এবং কুলি, গর্ত। রামায়ণে জটায়ু, মহান পাখি, সীতাকে রক্ষা করতে রাবণের সঙ্গে যুদ্ধ করে আহত হয়ে পড়েছিল। রাম, সীতার সন্ধানে, তাকে মুমূর্ষু অবস্থায় পেয়ে তার অন্ত্যেষ্টিক্রিয়া সম্পাদন করেছিলেন। স্থলপুরাণ সেই করুণার কাজকে এখানে স্থাপন করে, এবং জটায়ু তীর্থম এই স্মৃতিতে পবিত্র বলে ধরা হয়। ঐতিহ্য বলে যে রাম এখানে বিজয়রাঘব, বিজয়ী রূপে পূজিত হন।",
+    "festivals": "বৈকুণ্ঠ একাদশী এই দিব্য দেশমে বৈষ্ণব বছরের মহান দিন, এবং উৎসবের দিনে দিব্য প্রবন্ধমের শ্লোক আবৃত্তি করা হয়। রামের ভক্তরা তাঁর পবিত্র দিনগুলিও খুঁজে নিতে পারেন। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "এখানে একটি পরিদর্শন রামায়ণের মধ্যে একটি তীর্থযাত্রা। জটায়ু তীর্থমের পাশে দাঁড়ান এবং সীতার জন্য প্রাণ উৎসর্গকারী পাখির কাহিনী স্মরণ করুন; তারপর সেই প্রভুর মন্দিরে প্রবেশ করুন যিনি তার অন্ত্যেষ্টিক্রিয়া সম্পাদন করেছিলেন। গ্রামটি শান্ত, কাঞ্চিপুরমের পশ্চিমে অল্প দূরত্বে, এবং এটি শহরের দিব্য দেশমগুলির মধ্যে একটি দিনের সঙ্গে স্বাভাবিকভাবে মিলে যায়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruputkuzhi is a village in Kanchipuram district, roughly 10 km west of Kanchipuram town. Kanchipuram is the nearest large town and railhead; Chennai is the nearest major airport. Auto-rickshaws and local buses connect the village with Kanchipuram; confirm the route locally."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন অধিবেশন এবং মধ্যাহ্ন বন্ধসহ খোলা থাকে; বৈকুণ্ঠ একাদশী ও উৎসবের দিনগুলি সবচেয়ে ব্যস্ত। পরিদর্শনের আগে বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতা খুলে রাখা হয়। পোস্ট করা নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ফটোগ্রাফি সীমাবদ্ধ; পোস্ট করা নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "তিরুপুট্কুলি কাঞ্চিপুরম জেলার একটি গ্রাম, কাঞ্চিপুরম শহরের পশ্চিমে প্রায় ১০ কিমি দূরে। কাঞ্চিপুরম নিকটতম বড় শহর ও রেলস্থল; চেন্নাই নিকটতম প্রধান বিমানবন্দর। অটোরিকশা ও স্থানীয় বাস গ্রামটিকে কাঞ্চিপুরমের সঙ্গে সংযুক্ত করে; পথটি স্থানীয়ভাবে নিশ্চিত করুন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.jpg",

@@ -1,30 +1,37 @@
 {
   "id": "pundarikaksha-thiruvellarai",
   "locale": "bn",
+  "name": "পুণ্ডরীকাক্ষন পেরুমাল মন্দির, তিরুবেল্লরৈ",
   "nativeName": "புண்டரீகாட்சப் பெருமாள் கோயில், திருவெள்ளறை",
+  "deity": "বিষ্ণু পুণ্ডরীকাক্ষন পেরুমাল রূপে, দণ্ডায়মান, দেবী পঙ্কজবল্লীর সঙ্গে—শ্বেত শিলার পাহাড়ে পদ্মনয়ন প্রভু",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruvellarai",
-    "state": "Tamil Nadu",
+    "city": "তিরুবেল্লরৈ",
+    "state": "তামিলনাড়ু",
     "lat": 10.956,
     "lng": 78.668
   },
+  "period": "চোল দেশের এক দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে পেরিয়ালবার ও তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পল্লব, পরবর্তী চোল, পাণ্ড্য, বিজয়নগর ও নায়ক সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "তিরুবেল্লরৈতে বিষ্ণু শ্বেত শিলার এক উঁচু জমিতে পঙ্কজবল্লীর সঙ্গে পদ্মনয়ন পুণ্ডরীকাক্ষন পেরুমাল রূপে দাঁড়িয়ে আছেন, এক পল্লব-যুগের দিব্য দেশমে যা পেরিয়ালবার ও তিরুমঙ্গৈ আলবার কর্তৃক স্তুত।",
   "sections": {
-    "history": "Thiruvellarai, about 22 km from Tiruchirappalli on the Thuraiyur road, is one of the 108 Divya Desams in Chola Nadu, sung by Periyalvar and Thirumangai Alvar in the Nalayira Divya Prabandham. Periyalvar devotes a full decad of the Periyalvar Tirumozhi to this Lord. Two rock-cut caves here carry three inscriptions: two of the Pallava king Nandivarman II and one of Dantivarman, placing the shrine firmly in the eighth and ninth centuries. The swastika-shaped tank outside the complex is recorded as the work of Kamban Araiyan, about 800 CE, in Dantivarman's reign. The medieval Cholas, later Pandyas, Vijayanagara rulers and Madurai Nayaks added to the temple in turn.",
-    "architecture": "The temple stands on an artificial rise of white rock, some fifteen metres high, from which the name Thiruvellarai — the white rock — is understood. Pundarikakshan stands facing east beneath the Vimalakruthi Vimanam, with Pankajavalli in her own shrine. The sanctum has two stepped entrances, the Uttarayana Vasal and the Dakshinayana Vasal, opened according to the sun's course. Pallava sculptures of Narasimha and Varaha survive, as do Vijayanagara and Nayak wall paintings in the main shrine. The rajagopuram was never completed.",
-    "legends": "Tradition credits the founding of the shrine to the king Sibi Chakravarti, and local belief holds it to be very ancient. The Lord is called Pundarikakshan, the lotus-eyed, and is known locally as Mayavan during the southward half of the sun's year and as Thai Matha Nayagan in the northward half. The two sanctum doors recall this turning of the year: devotees enter by the Dakshinayana door in the one season and the Uttarayana door in the other, as the pilgrimage of the sun is itself honoured.",
-    "festivals": "The Vaishnava year is kept here, with Vaikunta Ekadashi among its great days. The opening and shifting of the two sanctum entrances at the sun's turning, around Thai and again in the Tamil months of Aadi to Margazhi, is a distinctive observance of this temple. Confirm festival dates locally, as they follow the Tamil almanac.",
-    "experience": "The climb up the stone steps to the lotus-eyed Lord is part of the devotion. Walk slowly past the Pallava carvings and the faded paintings, notice the double sanctum entrance, and look down on the swastika-shaped tank. The temple is quiet, and a good half-day pilgrimage from Tiruchirappalli."
+    "history": "তিরুবেল্লরৈ, তিরুচিরাপল্লি থেকে তুরৈয়ুর পথে প্রায় ২২ কিমি দূরে, চোল নাড়ুর ১০৮টি দিব্য দেশমের একটি, নালায়ির দিব্য প্রবন্ধমে পেরিয়ালবার ও তিরুমঙ্গৈ আলবার কর্তৃক স্তুত। পেরিয়ালবার পেরিয়ালবার তিরুমোঝির এক সম্পূর্ণ দশক এই প্রভুকে উৎসর্গ করেন। এখানে দুটি শিলাখোদিত গুহায় তিনটি শিলালিপি আছে: দুটি পল্লব রাজা দ্বিতীয় নন্দিবর্মনের এবং একটি দন্তিবর্মনের, যা মন্দিরটিকে দৃঢ়ভাবে অষ্টম ও নবম শতকে স্থাপন করে। চত্বরের বাইরের স্বস্তিক-আকৃতির পুকুরটি প্রায় ৮০০ খ্রিস্টাব্দে দন্তিবর্মনের রাজত্বকালে কম্বন আরৈয়নের কাজ রূপে নথিভুক্ত। মধ্যযুগীয় চোল, পরবর্তী পাণ্ড্য, বিজয়নগর শাসক ও মাদুরাই নায়করা পালাক্রমে মন্দিরে সংযোজন করেন।",
+    "architecture": "মন্দিরটি শ্বেত শিলার এক কৃত্রিম উঁচু জমিতে, প্রায় পনেরো মিটার উঁচু, দাঁড়িয়ে আছে, যা থেকে তিরুবেল্লরৈ—শ্বেত শিলা—নামটি বোঝা যায়। পুণ্ডরীকাক্ষন বিমলাকৃতি বিমানমের নিচে পূর্বমুখী হয়ে দাঁড়িয়ে আছেন, পঙ্কজবল্লী তাঁর নিজস্ব মন্দিরে। গর্ভগৃহের দুটি সিঁড়িসহ প্রবেশপথ আছে, উত্তরায়ণ বাসল ও দক্ষিণায়ন বাসল, সূর্যের গতিপথ অনুসারে খোলা। নরসিংহ ও বরাহের পল্লব ভাস্কর্য টিকে আছে, যেমন প্রধান মন্দিরে বিজয়নগর ও নায়ক দেয়ালচিত্র। রাজগোপুরম কখনো সম্পূর্ণ হয়নি।",
+    "legends": "প্রথা মন্দিরটির প্রতিষ্ঠা রাজা শিবি চক্রবর্তীকে আরোপ করে, এবং স্থানীয় বিশ্বাস একে অতি প্রাচীন বলে মনে করে। প্রভুকে পুণ্ডরীকাক্ষন, পদ্মনয়ন, বলা হয়, এবং স্থানীয়ভাবে সূর্যবর্ষের দক্ষিণমুখী অর্ধে তাঁকে মায়বন এবং উত্তরমুখী অর্ধে থৈ মাতা নায়গন রূপে জানা হয়। গর্ভগৃহের দুটি দরজা বছরের এই পরিবর্তনের কথা স্মরণ করায়: ভক্তরা এক ঋতুতে দক্ষিণায়ন দরজা দিয়ে এবং অন্য ঋতুতে উত্তরায়ণ দরজা দিয়ে প্রবেশ করেন, যেন সূর্যের তীর্থযাত্রা নিজেই সম্মানিত হয়।",
+    "festivals": "বৈষ্ণব বর্ষ এখানে পালিত হয়, বৈকুণ্ঠ একাদশী এর মহান দিনগুলির মধ্যে একটি। সূর্যের পরিবর্তনকালে, থৈর কাছাকাছি এবং আবার তামিল মাস আডি থেকে মার্গঝির মধ্যে, গর্ভগৃহের দুটি প্রবেশপথের খোলা ও পরিবর্তন এই মন্দিরের এক স্বতন্ত্র পালন। উৎসবের তারিখ স্থানীয়ভাবে যাচাই করুন, কারণ সেগুলি তামিল পঞ্জিকা অনুসরণ করে।",
+    "experience": "পদ্মনয়ন প্রভুর কাছে পাথরের সিঁড়ি বেয়ে ওঠা ভক্তির অংশ। পল্লব খোদাই ও বিবর্ণ চিত্রের পাশ দিয়ে ধীরে হাঁটুন, দ্বিগুণ গর্ভগৃহ প্রবেশপথ লক্ষ্য করুন, এবং স্বস্তিক-আকৃতির পুকুরের দিকে নিচে তাকান। মন্দিরটি শান্ত, এবং তিরুচিরাপল্লি থেকে এক ভালো অর্ধদিবসের তীর্থযাত্রা।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is the busiest day. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvellarai is about 22 km from Tiruchirappalli, past Mannachanallur on the Thuraiyur road. Tiruchirappalli Junction and Tiruchirappalli International Airport are the nearest rail and air gateways; buses and taxis cover the road journey."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন সেশন ও দুপুরের বন্ধসহ খোলা; বৈকুণ্ঠ একাদশী সবচেয়ে ব্যস্ত দিন। দর্শনের আগে বর্তমান সময় যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খোলা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহের ভিতরে ও চারপাশে ছবি তোলা সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুবেল্লরৈ তিরুচিরাপল্লি থেকে প্রায় ২২ কিমি দূরে, তুরৈয়ুর পথে মান্নাচনল্লুর পেরিয়ে। তিরুচিরাপল্লি জংশন ও তিরুচিরাপল্লি আন্তর্জাতিক বিমানবন্দর নিকটতম রেল ও বিমান প্রবেশদ্বার; বাস ও ট্যাক্সি সড়কযাত্রা সম্পন্ন করে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.jpg",

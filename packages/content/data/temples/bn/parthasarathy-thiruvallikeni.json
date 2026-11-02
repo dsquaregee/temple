@@ -1,30 +1,37 @@
 {
   "id": "parthasarathy-thiruvallikeni",
   "locale": "bn",
+  "name": "পার্থসারথি পেরুমাল মন্দির, তিরুবল্লিক্কেণি",
   "nativeName": "பார்த்தசாரதி பெருமாள் கோயில், திருவல்லிக்கேணி",
+  "deity": "কৃষ্ণ পার্থসারথি রূপে বিষ্ণু, দেবী বেদবল্লী তায়ারের সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Triplicane, Chennai",
-    "state": "Tamil Nadu",
+    "city": "ত্রিপ্লিকেন, চেন্নাই",
+    "state": "তামিলনাড়ু",
     "lat": 13.0539,
     "lng": 80.277
   },
+  "period": "তোণ্ডৈ নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে পেয়ালবার, তিরুমঝিসৈ আলবার ও তিরুমঙ্গৈ আলবারের স্তুত",
   "century": 8,
+  "dynasty": "পল্লব (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "চেন্নাইয়ের ত্রিপ্লিকেনে কৃষ্ণ দাঁড়িয়ে আছেন পার্থসারথি রূপে, অর্জুনের সারথি—তোণ্ডৈ নাড়ুর একটি দিব্য দেশম যা তিন আলবারের স্তুত, যেখানে বিষ্ণুর পাঁচটি রূপ একসঙ্গে পূজিত হয়।",
   "sections": {
-    "history": "Thiruvallikeni, today's Triplicane, lies beside the Marina in Chennai, and its temple is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham. It belongs to Thondai Nadu, and three Alvars — Peyalvar, Thirumazhisai Alvar and Thirumangai Alvar — sang of the Lord here. The foundation is attributed to the Pallavas; accounts place the present temple in the eighth century, and an inscription of the Pallava king Dantivarman, who reigned into the ninth century, is preserved within it. Thirumangai Alvar's hymn describes the temple as it stood in Pallava times. One account dates the present shrine of Vedavalli Thayar to the later nineteenth century.",
-    "architecture": "The temple is approached from Car Street, the broad processional avenue that gives the quarter its character. Opposite the east entrance lies the Kairavini Pushkarini, the temple tank named for the kairavini, the lily, and said to contain five wells. Within the complex stand separate shrines for Vedavalli Thayar, Yoga Narasimha, Rama, Gajendra Varadaraja and Ranganatha, so that five forms of Vishnu are worshipped in one place. The Thayar's shrine runs parallel to the sanctum of the presiding Lord.",
-    "legends": "The Lord here is Parthasarathy, Krishna as the charioteer of Partha, or Arjuna, on the field of Kurukshetra. He is shown with a moustache, a rarity among images of Vishnu, and tradition holds that he carries only the conch, having raised no weapon in the war. The face of the processional image is said to bear the marks of arrows from that battle. Devotees come to the teacher of the Gita as he stands patiently among the houses of the city.",
-    "festivals": "The Chithirai Brahmotsavam is the great festival, and the temple car runs twice — once for Parthasarathy and once for Yoga Narasimha. The Masi Theppam, the float festival, carries the Lord across the Kairavini tank, and Vaikunta Ekadashi draws large crowds. Confirm dates locally.",
-    "experience": "A living city temple in the heart of Chennai, easily joined with a walk to the Marina. Take time to visit the several shrines in turn — Thayar, Yoga Narasimha, Rama, Varadaraja and Ranganatha — and to see the Kairavini tank opposite the east entrance. Festival days are crowded, so allow extra time."
+    "history": "তিরুবল্লিক্কেণি, আজকের ত্রিপ্লিকেন, চেন্নাইয়ে মেরিনার ধারে অবস্থিত, এবং এর মন্দির ১০৮ দিব্য দেশমের অন্যতম, নালায়িরা দিব্য প্রবন্ধমে আলবারদের স্তুত বিষ্ণুর ধামগুলির অন্যতম। এটি তোণ্ডৈ নাড়ুর অন্তর্গত, এবং তিন আলবার—পেয়ালবার, তিরুমঝিসৈ আলবার ও তিরুমঙ্গৈ আলবার—এখানে প্রভুর স্তুতি গেয়েছেন। প্রতিষ্ঠা পল্লবদের আরোপিত; বিবরণ অনুসারে বর্তমান মন্দিরটি অষ্টম শতকের, আর পল্লব রাজা দন্তিবর্মনের—যিনি নবম শতক পর্যন্ত রাজত্ব করেন—একটি শিলালিপি এর ভেতরে সংরক্ষিত। তিরুমঙ্গৈ আলবারের স্তোত্র পল্লব যুগে মন্দিরটির রূপ বর্ণনা করে। একটি বিবরণ অনুসারে বেদবল্লী তায়ারের বর্তমান মন্দির ঊনবিংশ শতকের শেষভাগের।",
+    "architecture": "মন্দিরে প্রবেশ ঘটে কার স্ট্রিট থেকে, সেই প্রশস্ত শোভাযাত্রা-পথ যা পাড়াটিকে চরিত্র দেয়। পূর্ব প্রবেশপথের উল্টোদিকে কৈরবিণী পুষ্করিণী, মন্দির পুকুর যা কৈরবিণী অর্থাৎ শাপলার নামে নামাঙ্কিত এবং যাতে পাঁচটি কূপ আছে বলে কথিত। পরিসরের মধ্যে বেদবল্লী তায়ার, যোগ নরসিংহ, রাম, গজেন্দ্র বরদরাজ ও রঙ্গনাথের জন্য পৃথক মন্দির দাঁড়িয়ে আছে, যাতে বিষ্ণুর পাঁচটি রূপ এক স্থানে পূজিত হয়। তায়ারের মন্দির অধিষ্ঠাতা প্রভুর গর্ভগৃহের সমান্তরালে চলে।",
+    "legends": "এখানকার প্রভু পার্থসারথি, কুরুক্ষেত্রের প্রান্তরে পার্থ অর্থাৎ অর্জুনের সারথিরূপে কৃষ্ণ। তাঁকে গোঁফ সহ দেখানো হয়, যা বিষ্ণুর মূর্তিগুলির মধ্যে বিরল, এবং ঐতিহ্য বলে যে তিনি কেবল শঙ্খ ধারণ করেন, যুদ্ধে কোনো অস্ত্র তোলেননি। শোভাযাত্রার মূর্তির মুখে সেই যুদ্ধের তিরের চিহ্ন বহন করে বলে কথিত। ভক্তরা গীতার শিক্ষকের কাছে আসেন, যিনি নগরীর গৃহগুলির মাঝে ধৈর্যসহকারে দাঁড়িয়ে আছেন।",
+    "festivals": "চিত্তিরৈ ব্রহ্মোৎসবম মহা উৎসব, এবং মন্দির রথ দুবার চলে—একবার পার্থসারথির জন্য ও একবার যোগ নরসিংহের জন্য। মাসি তেপ্পম, অর্থাৎ ভেলা-উৎসব, প্রভুকে কৈরবিণী পুকুরের ওপারে নিয়ে যায়, আর বৈকুণ্ঠ একাদশী বিপুল ভিড় টানে। স্থানীয়ভাবে তারিখ নিশ্চিত করুন।",
+    "experience": "চেন্নাইয়ের কেন্দ্রস্থলে এক জীবন্ত নগরমন্দির, যা মেরিনায় হাঁটার সঙ্গে সহজে যুক্ত করা যায়। একের পর এক কয়েকটি মন্দির দেখতে সময় নিন—তায়ার, যোগ নরসিংহ, রাম, বরদরাজ ও রঙ্গনাথ—এবং পূর্ব প্রবেশপথের উল্টোদিকে কৈরবিণী পুকুর দেখুন। উৎসবের দিনে ভিড় হয়, তাই অতিরিক্ত সময় রাখুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "In Triplicane, central Chennai, on Car Street near the Marina; reached by city road from Chennai Central and Egmore stations. Chennai International Airport is the nearest airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্ব ও মধ্যাহ্ন বিরতি সহ খোলা; উৎসবের দিন ও বৈকুণ্ঠ একাদশী সবচেয়ে ভিড়। যাওয়ার আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহের ভেতরে ও চারপাশে ছবি তোলা নিয়ন্ত্রিত; প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "কেন্দ্রীয় চেন্নাইয়ের ত্রিপ্লিকেনে, মেরিনার কাছে কার স্ট্রিটে; চেন্নাই সেন্ট্রাল ও এগমোর স্টেশন থেকে নগরসড়কে পৌঁছানো যায়। চেন্নাই আন্তর্জাতিক বিমানবন্দর নিকটতম বিমানবন্দর।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/parthasarathy-thiruvallikeni.jpg",

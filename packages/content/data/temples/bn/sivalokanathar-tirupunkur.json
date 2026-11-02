@@ -1,35 +1,42 @@
 {
   "id": "sivalokanathar-tirupunkur",
   "locale": "bn",
+  "name": "শিবলোকনাথর মন্দির, তিরুপ্পুঙ্কুর",
   "nativeName": "சிவலோகநாதர் கோயில்",
+  "deity": "শিব শিবলোকনাথর রূপে, দেবী সোক্কনায়কী (সৌন্দরনায়কী) সহ",
+  "tradition": "শৈব ধর্ম",
   "location": {
-    "city": "Tirupunkur",
-    "state": "Tamil Nadu",
+    "city": "তিরুপ্পুঙ্কুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.1883,
     "lng": 79.6761
   },
+  "period": "কাবেরী ব-দ্বীপের প্রাচীন শৈব মন্দির, সম্বন্দর, অপ্পর ও সুন্দরর-কর্তৃক তেবারমে গীত (সপ্তম শতক); বর্তমান কাঠামো পরবর্তী কালের, চোল যুগের সংস্কারের কথা জানা যায়",
   "century": 7,
+  "dynasty": "চোল অঞ্চলের মধ্যযুগীয় পৃষ্ঠপোষক (চোল যুগের সংস্কারের কথা জানা যায়, দৃঢ়ভাবে উৎসসিদ্ধ নয়)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "শিবলোকনাথর সেই মন্দির যেখানে, ঐতিহ্য বলে, বিশাল প্রস্তর নন্দী পাশে সরে গিয়েছিল যাতে বিনম্র ভক্ত নন্দনার অধিপতিকে দেখতে পারেন; তিন তেবারম সন্ত কর্তৃক গীত, এটি বৈথীশ্বরন কোইলের নিকটে ক্ষেতের মাঝে দাঁড়িয়ে আছে।",
   "sections": {
-    "history": "Tirupunkur lies among green paddy fields in Mayiladuthurai district, a few kilometres west of Vaitheeswaran Koil. All three great saints of the Tevaram, Sambandar, Appar and Sundarar, sang hymns here, which gives it a place of particular honour among the Paadal Petra Sthalams on the northern bank of the Kaveri. Its Lord is Sivalokanathar, the Lord of the world of Shiva, believed to have risen of himself from an anthill. A local tradition recalls that Sundarar, visiting in a season of drought, helped a king pray for rain; the rain came so abundantly that the saint was asked to hold it back, and a grant of twenty-four veli of land was then made to the temple. Renovation in the Chola age is reported, though the dates are not firmly known.",
-    "architecture": "A five-tiered rajagopuram marks the entrance, and the temple opens into a series of quiet enclosures. The Lord is a swayambhu linga, and the goddess Sokkanayaki is honoured in her own shrine on the left side of the temple, with a circumambulatory path of her own. Both the great outer Nandi and the small Nandi in the inner prakaram sit out of line with the sanctum, and the sacred bull is said to be shown with its tongue held within its mouth, unlike the Nandi of most Shiva temples. Within the precincts are shrines to Vinayaka, Subramanya and Surya and a rare panchamukha linga, and the temple tank, the Rishabha Theertham, lies close by.",
-    "legends": "The great story of Tirupunkur is that of Nandanar, one of the sixty-three Nayanmar saints. Born to humble labouring people and barred by the custom of his age from entering a temple, he loved Shiva with a burning devotion and longed to worship at Tirupunkur. Standing at the outer gate, he could see only the broad back of the stone Nandi that sat directly before the sanctum, hiding the Lord from his sight. In his sorrow he sang to Shiva, and the Lord bade Nandi to move aside. The bull shifted, the linga stood revealed, and Nandanar beheld the Lord face to face. The Nandi remains off-axis to this day. The temple tank is linked to him too, for he is said to have tended the sacred ground and dug the pool; another tradition says that Vinayaka dug it overnight, and Vinayaka is honoured here as Kinaru Vettiya Vinayakar, the Vinayaka who dug the well.",
-    "festivals": "A ten-day Brahmotsavam at Vaikasi Visakam in May or June is reported as the temple's major festival. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple, and Nandanar is remembered among the Nayanmar saints in the processions of the Tamil calendar. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Visit Tirupunkur for the Nandi. Stand at the threshold, where Nandanar stood, and notice how the great bull has turned aside to leave the sanctum open to every eye. The setting is simple and rural, with fields all around and a few visitors at any hour. Devotees pause at the tank, at the shrine of the goddess Sokkanayaki, and before the Vinayaka who dug the well. Many come with the thought that devotion, not birth, opens the door to the Lord, which is the lesson this small village keeps for pilgrims from every community."
+    "history": "তিরুপ্পুঙ্কুর ময়িলাডুতুরৈ জেলায় সবুজ ধানক্ষেতের মাঝে অবস্থিত, বৈথীশ্বরন কোইলের কয়েক কিলোমিটার পশ্চিমে। তেবারমের তিন মহান সন্ত, সম্বন্দর, অপ্পর ও সুন্দরর, এখানে স্তোত্র গেয়েছেন, যা একে কাবেরীর উত্তর তীরের পাডল পেট্র স্থলমগুলির মধ্যে বিশেষ সম্মানের স্থান দেয়। এর অধিপতি শিবলোকনাথর, শিবলোকের অধিপতি, যিনি একটি উইঢিবি থেকে স্বয়ং উদিত হয়েছিলেন বলে বিশ্বাস করা হয়। একটি স্থানীয় ঐতিহ্য স্মরণ করে যে সুন্দরর, খরার এক ঋতুতে পরিদর্শনের সময়, এক রাজাকে বৃষ্টির জন্য প্রার্থনা করতে সাহায্য করেছিলেন; বৃষ্টি এত প্রচুর পরিমাণে এসেছিল যে সন্তকে তা থামিয়ে রাখতে অনুরোধ করা হয়, এবং তখন মন্দিরকে চব্বিশ বেলি জমির অনুদান দেওয়া হয়। চোল যুগে সংস্কারের কথা জানা যায়, যদিও তারিখ দৃঢ়ভাবে জানা নেই।",
+    "architecture": "একটি পঞ্চস্তরীয় রাজগোপুরম প্রবেশপথ চিহ্নিত করে, এবং মন্দিরটি একের পর এক শান্ত প্রাঙ্গণে খুলে যায়। অধিপতি এক স্বয়ম্ভূ লিঙ্গ, এবং দেবী সোক্কনায়কী মন্দিরের বাঁদিকে তাঁর নিজস্ব মন্দিরে সম্মানিত, তাঁর নিজস্ব প্রদক্ষিণ-পথ সহ। বিশাল বাইরের নন্দী এবং ভেতরের প্রাকারমের ছোট নন্দী — দুইই গর্ভগৃহের সঙ্গে সারির বাইরে বসে আছে, এবং পবিত্র বৃষকে তার জিহ্বা মুখের ভেতরে ধরে রাখা অবস্থায় দেখানো হয় বলে কথিত, অধিকাংশ শিবমন্দিরের নন্দীর বিপরীতে। প্রাঙ্গণের ভেতরে বিনায়ক, সুব্রমণ্য ও সূর্যের মন্দির এবং একটি বিরল পঞ্চমুখ লিঙ্গ রয়েছে, এবং মন্দির-পুষ্করিণী, ঋষভ তীর্থম, কাছেই অবস্থিত।",
+    "legends": "তিরুপ্পুঙ্কুরের মহান কাহিনি নন্দনারের, তেষট্টি নায়নমার সন্তের একজন। বিনম্র শ্রমজীবী মানুষের ঘরে জন্ম এবং তাঁর যুগের প্রথা অনুসারে মন্দিরে প্রবেশে বাধিত, তিনি জ্বলন্ত ভক্তিতে শিবকে ভালোবাসতেন এবং তিরুপ্পুঙ্কুরে পূজা করতে আকুল ছিলেন। বাইরের দ্বারে দাঁড়িয়ে তিনি কেবল গর্ভগৃহের ঠিক সামনে বসা প্রস্তর নন্দীর প্রশস্ত পিঠ দেখতে পেতেন, যা অধিপতিকে তাঁর দৃষ্টি থেকে আড়াল করে রাখত। শোকে তিনি শিবের উদ্দেশে গান গাইলেন, এবং অধিপতি নন্দীকে পাশে সরতে আদেশ দিলেন। বৃষ সরে গেল, লিঙ্গ প্রকাশিত হলো, এবং নন্দনার অধিপতিকে মুখোমুখি দেখলেন। নন্দী আজও অক্ষ থেকে সরে আছে। মন্দির-পুষ্করিণীও তাঁর সঙ্গে যুক্ত, কারণ তিনি পবিত্র ভূমির পরিচর্যা করেছিলেন ও পুকুর খনন করেছিলেন বলে কথিত; আরেক ঐতিহ্য বলে যে বিনায়ক একরাতে এটি খনন করেছিলেন, এবং বিনায়ক এখানে কিণরু ভেট্টিয় বিনায়কর, কূপ-খননকারী বিনায়ক, রূপে সম্মানিত।",
+    "festivals": "মে বা জুনে বৈকাসি বিশাকমে একটি দশ দিনের ব্রহ্মোৎসবম মন্দিরের প্রধান উৎসব হিসেবে জানা যায়। প্রতিটি শিবমন্দিরের মতো মহাশিবরাত্রি ও মাসিক প্রদোষম পালিত হয়, এবং নন্দনার তামিল পঞ্জিকার শোভাযাত্রায় নায়নমার সন্তদের মধ্যে স্মরিত হন। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন, কারণ সেগুলি তামিল পঞ্জিকা অনুসরণ করে।",
+    "experience": "নন্দীর জন্য তিরুপ্পুঙ্কুরে যান। সেই দ্বারপ্রান্তে দাঁড়ান যেখানে নন্দনার দাঁড়িয়েছিলেন, এবং লক্ষ করুন কীভাবে বিশাল বৃষ পাশে সরে গিয়ে গর্ভগৃহকে প্রতিটি চোখের কাছে উন্মুক্ত রেখেছে। পরিবেশ সরল ও গ্রামীণ, চারপাশে ক্ষেত এবং যেকোনো সময় অল্প কিছু দর্শনার্থী। ভক্তরা পুষ্করিণীতে, দেবী সোক্কনায়কীর মন্দিরে এবং কূপ-খননকারী বিনায়কের সামনে থামেন। অনেকে এই ভাবনা নিয়ে আসেন যে ভক্তি, জন্ম নয়, অধিপতির দ্বার খুলে দেয়, যা এই ছোট গ্রাম প্রতিটি সম্প্রদায়ের তীর্থযাত্রীর জন্য রক্ষা করে।"
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again in the early evening, with a long midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the temple.",
-    "photography": "Photography is generally tolerated in the outer prakaram but not inside the sanctum, in keeping with Tamil Nadu temple custom. Ask the priest or temple staff before photographing rituals.",
-    "gettingThere": "Tirupunkur lies about 5 km west of Vaitheeswaran Koil, which has a railway station and is the usual base for visiting; Sirkazhi and Mayiladuthurai are nearby railway towns. Tiruchirappalli and Chennai are the main airports. Local buses serve Vaitheeswaran Koil, and an auto-rickshaw or taxi from there is the easiest way to reach the village."
+    "timings": "সাধারণত সকালে কয়েক ঘণ্টা এবং আবার সন্ধ্যার শুরুতে খোলা, দুপুরে দীর্ঘ বিরতি সহ; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢেকে। পাদুকা মন্দিরের বাইরে রেখে যেতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দির-প্রথা অনুসারে বাইরের প্রাকারমে ছবি তোলা সাধারণত সহ্য করা হয় কিন্তু গর্ভগৃহের ভেতরে নয়। আচার-অনুষ্ঠানের ছবি তোলার আগে পুরোহিত বা মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুপ্পুঙ্কুর বৈথীশ্বরন কোইলের প্রায় ৫ কিমি পশ্চিমে অবস্থিত, যেখানে একটি রেলস্টেশন রয়েছে এবং যা পরিদর্শনের জন্য সাধারণ ঘাঁটি; শিরকাঝি ও ময়িলাডুতুরৈ নিকটবর্তী রেলশহর। তিরুচিরাপল্লি ও চেন্নাই প্রধান বিমানবন্দর। স্থানীয় বাস বৈথীশ্বরন কোইল পর্যন্ত পরিষেবা দেয়, এবং সেখান থেকে একটি অটোরিকশা বা ট্যাক্সি গ্রামে পৌঁছানোর সবচেয়ে সহজ উপায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sivalokanathar-tirupunkur.jpg",
     "color": "#5C3A2E",
-    "alt": "Sivalokanathar Temple, Tirupunkur",
+    "alt": "শিবলোকনাথর মন্দির, তিরুপ্পুঙ্কুর",
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
       "avif": "https://media.dsquaregee.com/heroes/sivalokanathar-tirupunkur.avif",

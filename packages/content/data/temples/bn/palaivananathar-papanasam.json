@@ -1,29 +1,36 @@
 {
   "id": "palaivananathar-papanasam",
   "locale": "bn",
+  "name": "পালৈবননাথর মন্দির, পাপনাসম",
   "nativeName": "திருப்பாலைத்துறை பாலைவனநாதர் கோயில்",
+  "deity": "শিব পালৈবননাথর রূপে, দেবী ধবল বেন্নগৈ অম্মৈ সহ",
+  "tradition": "শৈব — একটি পাড়ল পেট্র স্থলম, তেবারমে বন্দিত",
   "location": {
-    "city": "Papanasam (Tiruppalaithurai)",
-    "state": "Tamil Nadu",
+    "city": "পাপনাসম (তিরুপ্পালৈত্তুরৈ)",
+    "state": "তামিলনাড়ু",
     "lat": 10.9272,
     "lng": 79.2706
   },
+  "period": "তেবারম যুগ, চোল কাঠামো ও পরবর্তী সংযোজনসহ",
   "century": 9,
+  "dynasty": "চোল, পরবর্তী বিজয়নগর/নায়ক সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "পাপনাসম, যার মন্দির-নাম তিরুপ্পালৈত্তুরৈ, শিবকে পালৈবননাথর — লৌহকাষ্ঠ বনের প্রভু — রূপে এবং দেবী ধবল বেন্নগৈ অম্মৈকে পূজা করে। তেবারমে বন্দিত এই পাড়ল পেট্র স্থলম কিংবদন্তিতে রামের সঙ্গে যুক্ত, যিনি রাবণ-বধের পাপ থেকে মুক্ত হতে এখানে পূজা করেছিলেন বলে কথিত আছে, এর থেকেই স্থানটির নাম পাপনাসম, 'পাপের বিনাশ'। এর পঞ্চস্তরীয় তোরণ ও বিজয়নগর যুগের বিশাল ইটের শস্যাগার একে বদ্বীপের উল্লেখযোগ্য মন্দিরগুলির মধ্যে স্থান দেয়।",
   "sections": {
-    "history": "Papanasam, whose historical temple name is Tiruppalaithurai, is an ancient Shaiva site on the southern bank of the Kaveri, hymned in the Tevaram and counted among the Paadal Petra Sthalams. The stone temple belongs to the Chola period with later additions, entered through a five-tiered gopuram. Within the complex stands a large brick granary of the Vijayanagara era, maintained as a protected monument — a reminder of the temple's role as a centre of the agrarian delta.",
-    "architecture": "The temple follows the Dravidian plan, entered through a five-tiered gopuram, with the sanctum of Palaivananathar and the shrine of the goddess Dhavala Vennagai Ammai. The name of the lord recalls a forest of palai, the iron-wood tree, that once stood here. The notable brick granary within the precinct, of the Vijayanagara period, is cared for by the state archaeology department and sets the temple apart among the delta shrines.",
-    "legends": "The town's name, Papanasam — 'the destruction of sin' — comes from the tradition that Rama worshipped Shiva here to be freed of the sin incurred in slaying Ravana, making and consecrating lingams at the nearby Ramalingaswami temple. Another story tells of the sages of the Tharuka forest who sent a tiger against Shiva, which he subdued and wore as a skin. Rama, Lakshmana, Sita, the sage Gautama and Arjuna are all remembered among the lord's worshippers here, giving Papanasam a rich weave of puranic association.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. Its association with Rama and the washing-away of sin draws pilgrims seeking expiation, and the temple shares in the wider sanctity of the Papanasam region on the Kaveri.",
-    "experience": "Papanasam offers the pilgrim a temple whose very name promises release from sin — the place where Rama is said to have cleansed himself before the lord. The darshan of Palaivananathar, the towering gateway and the ancient granary give the visit the feel of a long-settled sacred centre at the heart of the delta."
+    "history": "পাপনাসম, যার ঐতিহাসিক মন্দির-নাম তিরুপ্পালৈত্তুরৈ, কাবেরীর দক্ষিণ তীরে একটি প্রাচীন শৈব স্থান, তেবারমে বন্দিত এবং পাড়ল পেট্র স্থলমের অন্যতম গণ্য। পাথরের মন্দিরটি চোল যুগের, পরবর্তী সংযোজনসহ, একটি পঞ্চস্তরীয় গোপুরম দিয়ে প্রবেশ করা হয়। চত্বরের মধ্যে বিজয়নগর যুগের একটি বিশাল ইটের শস্যাগার দাঁড়িয়ে আছে, একটি সংরক্ষিত স্মৃতিস্তম্ভ হিসেবে রক্ষিত — কৃষিপ্রধান বদ্বীপের কেন্দ্র হিসেবে মন্দিরের ভূমিকার এক স্মারক।",
+    "architecture": "মন্দিরটি দ্রাবিড় পরিকল্পনা অনুসরণ করে, একটি পঞ্চস্তরীয় গোপুরম দিয়ে প্রবেশ করা হয়, পালৈবননাথরের গর্ভগৃহ ও দেবী ধবল বেন্নগৈ অম্মৈর মন্দিরসহ। প্রভুর নাম একদা এখানে দাঁড়িয়ে থাকা পালৈ, লৌহকাষ্ঠ বৃক্ষের বনকে স্মরণ করায়। চত্বরের মধ্যে বিজয়নগর যুগের উল্লেখযোগ্য ইটের শস্যাগারটি রাজ্য প্রত্নতত্ত্ব বিভাগ কর্তৃক রক্ষিত এবং মন্দিরটিকে বদ্বীপের মন্দিরগুলির মধ্যে স্বতন্ত্র করে তোলে।",
+    "legends": "শহরের নাম পাপনাসম — 'পাপের বিনাশ' — এসেছে সেই ঐতিহ্য থেকে যে রাম রাবণ-বধে অর্জিত পাপ থেকে মুক্ত হতে এখানে শিবের পূজা করেছিলেন, নিকটবর্তী রামলিঙ্গস্বামী মন্দিরে লিঙ্গ নির্মাণ ও প্রতিষ্ঠা করেছিলেন। আরেকটি কাহিনি তরুক বনের ঋষিদের কথা বলে, যাঁরা শিবের বিরুদ্ধে এক বাঘ পাঠিয়েছিলেন, যাকে তিনি বশীভূত করে চামড়ারূপে পরিধান করেছিলেন। রাম, লক্ষ্মণ, সীতা, ঋষি গৌতম ও অর্জুন — সকলেই এখানে প্রভুর উপাসকদের মধ্যে স্মরণীয়, যা পাপনাসমকে পৌরাণিক সংযোগের এক সমৃদ্ধ বুননে ভরিয়ে তোলে।",
+    "festivals": "মন্দিরে শৈব উৎসব-পঞ্জিকা পালিত হয় — মহা শিবরাত্রি, প্রদোষম, মার্গড়ি ঋতু ও বার্ষিক ব্রহ্মোৎসবম। রাম ও পাপ-ক্ষালনের সঙ্গে এর সংযোগ প্রায়শ্চিত্তপ্রার্থী তীর্থযাত্রীদের টানে, এবং মন্দিরটি কাবেরীর পাপনাসম অঞ্চলের ব্যাপক পবিত্রতার অংশীদার।",
+    "experience": "পাপনাসম তীর্থযাত্রীকে এমন এক মন্দির উপহার দেয় যার নামই পাপ থেকে মুক্তির প্রতিশ্রুতি দেয় — যেখানে রাম প্রভুর সম্মুখে নিজেকে শুদ্ধ করেছিলেন বলে কথিত আছে। পালৈবননাথরের দর্শন, উচ্চ তোরণ ও প্রাচীন শস্যাগার এই দর্শনকে বদ্বীপের কেন্দ্রে বহুকালের প্রতিষ্ঠিত এক পবিত্র কেন্দ্রের অনুভূতি দেয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Papanasam is a town in Thanjavur district, about 18 km from Kumbakonam and 30 km from Thanjavur; it has its own railway station and is well connected by bus."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; স্থানীয়ভাবে সময় নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকতে হবে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "সাধারণত বাইরের প্রাঙ্গণে ছবি তোলা অনুমোদিত, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "পাপনাসম তাঞ্জাবুর জেলার একটি শহর, কুম্বকোণম থেকে প্রায় ১৮ কিমি ও তাঞ্জাবুর থেকে ৩০ কিমি দূরে; এর নিজস্ব রেলস্টেশন আছে এবং বাসে ভালোভাবে সংযুক্ত।"
   }
 }

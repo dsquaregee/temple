@@ -1,29 +1,36 @@
 {
   "id": "neenerinathar-thandalaicheri",
   "locale": "bn",
+  "name": "নীণেরিনাথর মন্দির, তিরুত্তণ্ডলৈনীণেরি (তণ্ডলৈচেরি)",
   "nativeName": "திருத்தண்டலைநீள்நெறி நீணெறிநாதர் கோயில்",
+  "deity": "শিব নীণেরিনাথর রূপে, দেবী জ্ঞানাম্বিকৈ সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Thandalaicherry, near Thiruthuraipoondi",
-    "state": "Tamil Nadu",
+    "city": "তণ্ডলৈচেরি, তিরুত্তুরৈপূণ্ডির কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.56,
     "lng": 79.63
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তবগীত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তণ্ডলৈচেরি, তেবারমের তিরুত্তণ্ডলৈনীণেরি, তিরুত্তুরৈপূণ্ডির কাছে, শিবকে নীণেরিনাথর রূপে দেবী জ্ঞানাম্বিকৈর সঙ্গে সম্মান করে। তিরুজ্ঞান সম্বন্দর দ্বারা গীত এই পাডল পেট্র স্থলমটি তেষট্টি নায়নমারদের অন্যতম অরিবাত্তায় নায়নারের জন্মস্থান রূপে পূজিত, যাঁর শিবের উদ্দেশে অবিচল অন্ন নিবেদন শৈব কাহিনিগুলির মধ্যে সবচেয়ে মর্মস্পর্শীদের একটি।",
   "sections": {
-    "history": "Thandalaicherry, whose Tevaram name is Tiruthandalaineeneri, lies about 3–4 km north of Thiruthuraipoondi on the road toward Tiruvarur, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted among the Shiva shrines on the southern bank of the Kaveri. The village is cherished as the birthplace of Arivattaya Nayanar, one of the sixty-three Nayanmars. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Neenerinathar in the sanctum, with the goddess Gnanambikai — 'mother of wisdom' — in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the kurundham, and the sacred tank is the Omaka Theertham. The temple keeps the simple, well-ordered plan of the smaller Kaveri-bank sanctuaries.",
-    "legends": "The village is above all the birthplace of Arivattaya Nayanar, a devotee who prepared cooked rice each day as an offering and carried it to the lord. One day, worn by age and the long path, he stumbled and the offering spilled; in anguish that his service had failed, he raised his sickle to end his life — and Shiva, moved by his devotion, stayed his hand and received the offering, taking him into grace. The goddess Gnanambikai, mother of wisdom, presides beside Neenerinathar, keeping this a shrine of steadfast, selfless devotion.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), the festival of Arivattaya Nayanar, Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims honouring the sixty-three Nayanmars include Thandalaicherry among their stops.",
-    "experience": "At Thandalaicherry the pilgrim comes to the home of Arivattaya Nayanar, whose love fed the lord each day. Before Neenerinathar and Gnanambikai, beside the Omaka Theertham, the visitor feels the tenderness of a shrine where devotion was so steadfast that Shiva himself would not let it fail."
+    "history": "তণ্ডলৈচেরি, যার তেবারম নাম তিরুত্তণ্ডলৈনীণেরি, তিরুবারুরের পথে তিরুত্তুরৈপূণ্ডি থেকে প্রায় ৩–৪ কিমি উত্তরে, তিরুবারুর জেলায় অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুজ্ঞান সম্বন্দর দ্বারা গীত, কাবেরীর দক্ষিণ তীরের শিব মন্দিরগুলির মধ্যে গণ্য। গ্রামটি তেষট্টি নায়নমারদের অন্যতম অরিবাত্তায় নায়নারের জন্মস্থান রূপে পূজিত। প্রস্তর মন্দিরটি চোল যুগের ও পরবর্তী।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপীয় মন্দির, এর গর্ভগৃহে নীণেরিনাথর প্রতিষ্ঠিত, দেবী জ্ঞানাম্বিকৈ — 'জ্ঞানের জননী' — তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণ সহ। স্থল বৃক্ষ হলো কুরুন্দম, এবং পবিত্র পুষ্করিণী ওমক তীর্থম। মন্দিরটি কাবেরী-তীরের ছোট মন্দিরগুলির সরল, সুবিন্যস্ত পরিকল্পনা বজায় রাখে।",
+    "legends": "গ্রামটি সর্বোপরি অরিবাত্তায় নায়নারের জন্মস্থান, এক ভক্ত যিনি প্রতিদিন রান্না করা ভাত নিবেদন রূপে প্রস্তুত করে প্রভুর কাছে বহন করতেন। একদিন, বার্ধক্য ও দীর্ঘ পথে ক্লান্ত হয়ে, তিনি হোঁচট খান এবং নিবেদন পড়ে যায়; তাঁর সেবা ব্যর্থ হওয়ায় ব্যথিত হয়ে তিনি নিজের জীবন শেষ করতে কাস্তে তোলেন — আর শিব, তাঁর ভক্তিতে বিচলিত হয়ে, তাঁর হাত থামিয়ে নিবেদন গ্রহণ করেন এবং তাঁকে কৃপায় নেন। জ্ঞানের জননী দেবী জ্ঞানাম্বিকৈ নীণেরিনাথরের পাশে অধিষ্ঠিত, এটিকে অবিচল, নিঃস্বার্থ ভক্তির এক মন্দির করে রাখেন।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, অরিবাত্তায় নায়নারের উৎসব, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজা সহ পালিত হয়। তেষট্টি নায়নমারদের সম্মানকারী তীর্থযাত্রীরা তণ্ডলৈচেরিকে তাঁদের যাত্রাপথে অন্তর্ভুক্ত করেন।",
+    "experience": "তণ্ডলৈচেরিতে তীর্থযাত্রী অরিবাত্তায় নায়নারের গৃহে আসেন, যাঁর ভালোবাসা প্রতিদিন প্রভুকে অন্ন জুগিয়েছিল। নীণেরিনাথর ও জ্ঞানাম্বিকৈর সামনে, ওমক তীর্থমের পাশে, দর্শনার্থী এমন এক মন্দিরের কোমলতা অনুভব করেন যেখানে ভক্তি এতই অবিচল ছিল যে স্বয়ং শিব তা ব্যর্থ হতে দেননি।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thandalaicherry is about 3–4 km north of Thiruthuraipoondi on the road toward Tiruvarur, in Tiruvarur district (Velur post, PIN 614715). Thiruthuraipoondi is the nearest rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং পুনরায় বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "সাধারণত বাইরের প্রাঙ্গণে ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তণ্ডলৈচেরি তিরুবারুরের পথে তিরুত্তুরৈপূণ্ডি থেকে প্রায় ৩–৪ কিমি উত্তরে, তিরুবারুর জেলায় (ভেলূর পোস্ট, পিন ৬১৪৭১৫) অবস্থিত। তিরুত্তুরৈপূণ্ডি নিকটতম রেলস্টেশন, সেখান থেকে গ্রামে বাস ও ট্যাক্সি পাওয়া যায়।"
   }
 }

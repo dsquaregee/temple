@@ -1,31 +1,38 @@
 {
   "id": "narasimha-ahobilam",
   "locale": "bn",
+  "name": "অহোবিল নরসিংহ মন্দির, অহোবিলম",
   "nativeName": "అహోబిల నరసింహ ఆలయం, అహోబిలం",
+  "deity": "বিষ্ণু নরসিংহ রূপে, অহোবিল (উগ্র) নরসিংহ রূপে পূজিত — ঐতিহ্য বলে তিনি এখানে চেঞ্চু লক্ষ্মীকে বিবাহ করেছিলেন",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "অহোবিলম",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 15.1244,
     "lng": 78.7367
   },
+  "period": "বড নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তোত্রে বর্ণিত",
   "century": 8,
+  "dynasty": "বিজয়নগর পৃষ্ঠপোষকতা (সালুব ও তুলুব রাজবংশ)",
+  "style": "দ্রাবিড় মন্দিরসহ পাহাড়ি-পীঠ সংকুল",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "ahobilam-nava-narasimha"
   ],
+  "summary": "অন্ধ্রপ্রদেশের দুর্গম পাহাড়ে, অহোবিলম সিংহ-প্রভুর পর্বত-আবাস — তিরুমঙ্গৈ আলবার কর্তৃক সিঙ্গবেল কুন্দ্রম রূপে স্তোত্রে বর্ণিত একটি বড নাড়ু দিব্য দেশম, এবং নয়টি নরসিংহ পীঠের তীর্থযাত্রা।",
   "sections": {
-    "history": "Ahobilam lies in Nandyal district of Andhra Pradesh, where Thirumangai Alvar sang the lord of Singavel Kundram, the lion-hill, in a decad of ten verses in the Periya Thirumozhi. It is one of the 108 Divya Desams, the abodes of Vishnu praised by the Alvars in the Nalayira Divya Prabandham, and belongs to Vada Nadu, the northern region of the tradition. The Vijayanagara rulers patronised the shrines, first the Saluva dynasty in the fifteenth century and then the Tuluva dynasty in the sixteenth, and Krishnadevaraya is remembered as a visitor and benefactor. Ahobila Matha, the Sri Vaishnava monastic institution, took shape here in the medieval period. The story of the hills before the sixteenth century is largely obscure, and the Alvar's hymn remains the surest voice of their antiquity.",
-    "architecture": "Ahobilam is not a single temple but a pilgrimage of shrines scattered through the hills. The principal shrine is Upper Ahobilam, where Ahobila, or Ugra, Narasimha is worshipped, and around it the tradition counts the Nava Narasimha: Bhargava, Yogananda, Chatravata, Karanja, Pavana, Malola, Varaha (Kroda) and Jvala Narasimha. Below, in Lower Ahobilam, stands the Prahladavarada temple of Lakshmi Narasimha, regarded as a separate and later shrine. A crag called Ugra Stambham is pointed out as the pillar from which the Lord appeared. To reach the hill shrines is to climb, and the climb is part of the offering.",
-    "legends": "The sthala purana tells that Vishnu burst from a pillar as Narasimha, half man and half lion, to destroy the tyrant Hiranyakashipu and protect his young devotee Prahlada. Tradition holds that the watching gods cried 'Aho balam!' — 'what strength!' — and so the place took its name. The hill is also called Garudadri after the penance of Garuda, and tradition tells that Narasimha here wed Chenchu Lakshmi, a daughter of the forest-dwelling Chenchu people, so that the fierce lord of the hills is also the kinsman of the people who live in them.",
-    "festivals": "The shrines keep an annual Brahmotsavam, and Narasimha Jayanti is a day of special worship. After Sankranti, tradition has the Lord carried in procession to the Chenchu villages in the Paruveta festival, recalling his bond with the hill people. Vaikunta Ekadashi is observed as at other Divya Desams. Confirm dates locally.",
-    "experience": "Come prepared for a pilgrimage rather than a visit: the shrines are spread across forested hills, and the walk between them is long and often steep. Wear sturdy footwear for the paths, carry water, and allow more than a day if you hope to see several of the nine. Upper Ahobilam is the heart of the journey."
+    "history": "অহোবিলম অন্ধ্রপ্রদেশের নন্দ্যাল জেলায় অবস্থিত, যেখানে তিরুমঙ্গৈ আলবার সিঙ্গবেল কুন্দ্রম, সিংহ-পাহাড়ের প্রভুকে পেরিয় তিরুমোঝিতে দশটি পদের একটি দশকে স্তোত্রে বর্ণনা করেছিলেন। এটি ১০৮ দিব্য দেশমের একটি, নালায়িরা দিব্য প্রবন্ধমে আলবারদের দ্বারা প্রশংসিত বিষ্ণুর আবাস, এবং এটি বড নাড়ুর অন্তর্গত, ঐতিহ্যের উত্তরাঞ্চল। বিজয়নগরের শাসকরা পীঠগুলিকে পৃষ্ঠপোষকতা দিয়েছিলেন, প্রথমে পঞ্চদশ শতাব্দীতে সালুব রাজবংশ এবং পরে ষোড়শ শতাব্দীতে তুলুব রাজবংশ, এবং কৃষ্ণদেবরায়কে দর্শনার্থী ও হিতৈষী রূপে স্মরণ করা হয়। অহোবিল মঠ, শ্রীবৈষ্ণব সন্ন্যাসী প্রতিষ্ঠান, মধ্যযুগে এখানে গড়ে উঠেছিল। ষোড়শ শতাব্দীর আগে পাহাড়গুলির ইতিহাস অনেকটাই অস্পষ্ট, এবং আলবারের স্তোত্রই তাদের প্রাচীনত্বের সবচেয়ে নিশ্চিত কণ্ঠস্বর রয়ে গেছে।",
+    "architecture": "অহোবিলম একটি একক মন্দির নয়, বরং পাহাড়জুড়ে ছড়িয়ে থাকা পীঠের তীর্থযাত্রা। প্রধান পীঠ হল উচ্চ অহোবিলম, যেখানে অহোবিল, বা উগ্র, নরসিংহ পূজিত, এবং এর চারপাশে ঐতিহ্য নব নরসিংহ গণনা করে: ভার্গব, যোগানন্দ, ছত্রবট, করঞ্জ, পবন, মালোল, বরাহ (ক্রোড) ও জ্বালা নরসিংহ। নিচে, নিম্ন অহোবিলমে, লক্ষ্মী নরসিংহের প্রহ্লাদবরদ মন্দির দাঁড়িয়ে আছে, যা একটি পৃথক ও পরবর্তী পীঠ রূপে গণ্য। উগ্র স্তম্ভম নামে একটি শিলাখণ্ডকে সেই স্তম্ভ রূপে দেখানো হয় যেখান থেকে প্রভু আবির্ভূত হয়েছিলেন। পাহাড়ি পীঠগুলিতে পৌঁছানো মানে আরোহণ করা, এবং এই আরোহণ নিবেদনের অংশ।",
+    "legends": "স্থল পুরাণ বলে যে বিষ্ণু একটি স্তম্ভ থেকে নরসিংহ রূপে, অর্ধেক মানুষ ও অর্ধেক সিংহ, আবির্ভূত হয়ে অত্যাচারী হিরণ্যকশিপুকে বিনাশ করেছিলেন ও তাঁর তরুণ ভক্ত প্রহ্লাদকে রক্ষা করেছিলেন। ঐতিহ্য বলে যে অবলোকনকারী দেবতারা 'অহো বলম!' — 'কী শক্তি!' — বলে চিৎকার করেছিলেন, এবং তাই স্থানটি তার নাম পেয়েছিল। পাহাড়টি গরুড়ের তপস্যার পর গরুড়াদ্রি নামেও পরিচিত, এবং ঐতিহ্য বলে যে নরসিংহ এখানে চেঞ্চু লক্ষ্মীকে বিবাহ করেছিলেন, অরণ্যবাসী চেঞ্চু জনগোষ্ঠীর এক কন্যা, যাতে পাহাড়ের উগ্র প্রভু সেই মানুষদেরও আত্মীয় যাঁরা সেখানে বসবাস করেন।",
+    "festivals": "পীঠগুলি একটি বার্ষিক ব্রহ্মোৎসব পালন করে, এবং নরসিংহ জয়ন্তী একটি বিশেষ পূজার দিন। সংক্রান্তির পর, ঐতিহ্য অনুসারে প্রভুকে পরুবেট উৎসবে চেঞ্চু গ্রামগুলিতে শোভাযাত্রায় নিয়ে যাওয়া হয়, যা পাহাড়ি মানুষদের সঙ্গে তাঁর বন্ধন স্মরণ করায়। বৈকুণ্ঠ একাদশী অন্যান্য দিব্য দেশমের মতো পালিত হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "দর্শনের চেয়ে একটি তীর্থযাত্রার জন্য প্রস্তুত হয়ে আসুন: পীঠগুলি বনাচ্ছাদিত পাহাড়জুড়ে ছড়িয়ে আছে, এবং তাদের মধ্যবর্তী পথ দীর্ঘ ও প্রায়ই খাড়া। পথের জন্য মজবুত পাদুকা পরুন, জল সঙ্গে নিন, এবং নয়টির মধ্যে কয়েকটি দেখতে চাইলে একদিনের বেশি সময় রাখুন। উচ্চ অহোবিলম এই যাত্রার হৃদয়।"
   },
   "visit": {
-    "timings": "Shrines are open daily with morning and evening darshan sessions and a midday closure; festival days are busiest, and the hill shrines may be reached only in daylight. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Ahobilam lies in Nandyal district (formerly part of Kurnool district), reached by road via Allagadda; Nandyal is the nearest major railhead. Upper and Lower Ahobilam and the hill shrines are reached by local road transport and on foot; confirm routes locally."
+    "timings": "পীঠগুলি প্রতিদিন সকাল ও সন্ধ্যার দর্শন সময় ও দুপুরে বিরতিসহ খোলা; উৎসবের দিন সবচেয়ে ব্যস্ত, এবং পাহাড়ি পীঠগুলিতে কেবল দিনের আলোয় পৌঁছানো যায়। যাওয়ার আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখতে হয়। টাঙানো নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে ও চারপাশে আলোকচিত্র গ্রহণ সীমাবদ্ধ; টাঙানো নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "অহোবিলম নন্দ্যাল জেলায় (পূর্বে কুর্নুল জেলার অংশ) অবস্থিত, আল্লাগড্ডা হয়ে সড়কপথে পৌঁছানো যায়; নন্দ্যাল নিকটতম প্রধান রেলপথ। উচ্চ ও নিম্ন অহোবিলম এবং পাহাড়ি পীঠগুলিতে স্থানীয় সড়ক পরিবহন ও পায়ে হেঁটে পৌঁছানো যায়; পথ স্থানীয়ভাবে নিশ্চিত করুন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/narasimha-ahobilam.jpg",

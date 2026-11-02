@@ -1,29 +1,36 @@
 {
   "id": "vijayanathar-tiruvijayamangai",
   "locale": "bn",
+  "name": "বিজয়নাথর মন্দির, তিরুবিজয়মঙ্গৈ",
   "nativeName": "விஜயநாதர் கோயில்",
+  "deity": "শিব বিজয়নাথর (বিজয়নাথেশ্বরর) রূপে, দেবী মঙ্গলনায়কী (মঙ্গলাম্বিকৈ) সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tiruvijayamangai",
-    "state": "Tamil Nadu",
+    "city": "তিরুবিজয়মঙ্গৈ",
+    "state": "তামিলনাড়ু",
     "lat": 10.99,
     "lng": 79.27
   },
+  "period": "কাবেরীর উত্তর তীরে চোল নাড়ুর প্রাচীন শৈব মন্দির, তেবারমে স্তুত (সপ্তম শতাব্দী); মধ্যযুগীয় চোল রীতিতে নির্মিত একটি মন্দির",
   "century": 7,
+  "dynasty": "মধ্যযুগীয় চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবিজয়মঙ্গৈয়ের বিজয়নাথর মন্দির কাবেরীর উত্তর তীরের একটি তেবারম মন্দির, যা সেই স্থান হিসেবে স্মরণীয় যেখানে অর্জুন, যিনি বিজয় নামেও পরিচিত, শিবের কাছ থেকে পাশুপত অস্ত্র লাভ করেছিলেন।",
   "sections": {
-    "history": "Tiruvijayamangai lies in the Thanjavur district, in the old Chola heartland north of the Kaveri, where a long chain of Shiva shrines was sung by the Tevaram saints. This temple is one of them, praised in the hymns of Sambandar and Appar, which makes it a Paadal Petra Sthalam. The name carries the story: Vijaya is another name of Arjuna, the Pandava archer, and the Lord here is Vijayanathar, the master of his victory. The shrine is built in the manner of the medieval Chola temples and has been kept in worship by the village around it for many centuries, though no firm record of its founder or founding date has come down to us.",
-    "architecture": "This is a compact temple in the Chola manner, whose charm lies in its quiet scale rather than in monumental towers. The sanctum houses the Shiva linga, worshipped as self-manifested, and tradition points to a scar on its surface, the mark of Arjuna's blow in the encounter that gave the temple its name. The goddess Mangalanayaki is worshipped here as the Lord's consort. Close by lies the Arjuna Teertham, the sacred tank named for the hero whose penance is remembered here, where devotees bathe and sit in quiet before entering the shrine.",
-    "legends": "The legend of Tiruvijayamangai belongs to the Mahabharata. On Krishna's counsel, Arjuna came to this place to perform severe penance, seeking Shiva's grace and the divine weapon known as the Pashupatastra. While he sat in meditation, a demon named Mukasura came to disturb him, and Shiva appeared before the warrior in the guise of a hunter. A contest followed between the archer and the hunter. Pleased by Arjuna's courage, devotion and steadiness, the Lord revealed himself with the goddess and placed the Pashupatastra in his hands. Local belief holds that the scar of that encounter can still be seen on the linga, and from it the Lord takes the name Vijayanathar.",
-    "festivals": "The great festival of the temple is Maha Shivaratri, kept in the Tamil month of Masi (February to March), when the village gathers through the night for worship of Vijayanathar. The monthly Pradosham is observed here as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar and smaller village temples may keep a modest festival calendar.",
-    "experience": "Tiruvijayamangai rewards a quiet, unhurried visit. It is a village temple, far from the crowds of the larger Kaveri shrines, and the stillness of the surrounding fields is part of its charm. Begin at the Arjuna Teertham, then come to the sanctum of Vijayanathar and look for the mark on the linga that tradition ties to Arjuna's encounter, before turning to the goddess Mangalanayaki. Many devotees come to pray for success in their undertakings, as the Lord's name suggests, and the story of the archer who won grace through penance gives the visit a quiet encouragement of its own."
+    "history": "তিরুবিজয়মঙ্গৈ তাঞ্জাবুর জেলায় অবস্থিত, কাবেরীর উত্তরে প্রাচীন চোল হৃদয়ভূমিতে, যেখানে শিবমন্দিরের এক দীর্ঘ শৃঙ্খল তেবারম সন্তদের দ্বারা স্তুত হয়েছিল। এই মন্দির তাদের অন্যতম, সম্বন্দর ও অপ্পরের স্তোত্রে প্রশংসিত, যা একে একটি পাডল পেট্র স্থলম করে তোলে। নামটি কাহিনী বহন করে: বিজয় পাণ্ডব ধনুর্ধর অর্জুনের আরেক নাম, এবং এখানকার প্রভু বিজয়নাথর, তাঁর বিজয়ের অধীশ্বর। মন্দিরটি মধ্যযুগীয় চোল মন্দিরের রীতিতে নির্মিত এবং এর চারপাশের গ্রাম বহু শতাব্দী ধরে এতে পূজা অব্যাহত রেখেছে, যদিও এর প্রতিষ্ঠাতা বা প্রতিষ্ঠার তারিখ সম্পর্কে কোনো দৃঢ় নথি আমাদের কাছে আসেনি।",
+    "architecture": "এটি চোল রীতিতে নির্মিত একটি সংক্ষিপ্ত মন্দির, যার আকর্ষণ স্মারকসম গম্বুজের পরিবর্তে তার শান্ত আকারে নিহিত। গর্ভগৃহে স্বয়ং-প্রকট রূপে পূজিত শিব লিঙ্গ রয়েছে, এবং ঐতিহ্য এর পৃষ্ঠের একটি ক্ষত চিহ্নের দিকে ইঙ্গিত করে, মন্দিরকে নাম দেওয়া সেই সাক্ষাতে অর্জুনের আঘাতের চিহ্ন। দেবী মঙ্গলনায়কী এখানে প্রভুর সহধর্মিণী রূপে পূজিত হন। কাছেই অর্জুন তীর্থম রয়েছে, সেই বীরের নামে নামাঙ্কিত পবিত্র পুষ্করিণী যার তপস্যা এখানে স্মরণ করা হয়, যেখানে ভক্তরা মন্দিরে প্রবেশের আগে স্নান করে শান্তিতে বসেন।",
+    "legends": "তিরুবিজয়মঙ্গৈয়ের কিংবদন্তি মহাভারতের অন্তর্গত। কৃষ্ণের পরামর্শে অর্জুন শিবের কৃপা এবং পাশুপতাস্ত্র নামে পরিচিত দিব্য অস্ত্র কামনায় কঠোর তপস্যা করতে এই স্থানে এসেছিলেন। তিনি যখন ধ্যানে বসেছিলেন, মুকাসুর নামে এক অসুর তাঁকে বিঘ্নিত করতে এল, এবং শিব এক শিকারীর ছদ্মবেশে যোদ্ধার সম্মুখে আবির্ভূত হলেন। ধনুর্ধর ও শিকারীর মধ্যে এক প্রতিযোগিতা হল। অর্জুনের সাহস, ভক্তি ও স্থিরতায় প্রসন্ন হয়ে প্রভু দেবীর সঙ্গে নিজেকে প্রকাশ করলেন এবং পাশুপতাস্ত্র তাঁর হাতে তুলে দিলেন। স্থানীয় বিশ্বাস ধরে যে সেই সাক্ষাতের ক্ষত এখনও লিঙ্গের উপর দেখা যায়, এবং এর থেকেই প্রভু বিজয়নাথর নাম গ্রহণ করেন।",
+    "festivals": "মন্দিরের মহান উৎসব হল মহাশিবরাত্রি, তামিল মাস মাসিতে (ফেব্রুয়ারি থেকে মার্চ) পালিত, যখন গ্রাম বিজয়নাথরের পূজার জন্য সারারাত ধরে সমবেত হয়। মাসিক প্রদোষম এখানে প্রতিটি শিবমন্দিরের মতোই পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন, কারণ এগুলি তামিল পঞ্জিকা অনুসরণ করে এবং ছোট গ্রাম্য মন্দিরগুলি একটি শালীন উৎসব পঞ্জিকা রাখতে পারে।",
+    "experience": "তিরুবিজয়মঙ্গৈ এক শান্ত, অবিচলিত পরিদর্শনের পুরস্কার দেয়। এটি একটি গ্রাম্য মন্দির, বড় কাবেরী মন্দিরগুলির ভিড় থেকে দূরে, এবং চারপাশের মাঠের নিস্তব্ধতা এর আকর্ষণের অংশ। অর্জুন তীর্থম থেকে শুরু করুন, তারপর বিজয়নাথরের গর্ভগৃহে আসুন এবং দেবী মঙ্গলনায়কীর দিকে মুখ ফেরানোর আগে লিঙ্গের উপর ঐতিহ্যে অর্জুনের সাক্ষাতের সঙ্গে যুক্ত সেই চিহ্নটি খুঁজুন। অনেক ভক্ত তাদের কাজে সাফল্যের জন্য প্রার্থনা করতে আসেন, যেমন প্রভুর নাম ইঙ্গিত করে, এবং তপস্যার মাধ্যমে কৃপা লাভকারী ধনুর্ধরের কাহিনী পরিদর্শনকে নিজস্ব এক শান্ত উৎসাহ দেয়।"
   },
   "visit": {
-    "timings": "Typically open from about 8:00 a.m. to noon and again from about 5:00 p.m. to 7:00 p.m.; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple stands in the village of Tiruvijayamangai, now known as Govindaputhur, in the Kumbakonam area of Thanjavur district, roughly 11 to 13 km from Kumbakonam, which is the nearest railway station. Buses run toward the village, and visitors can alight at Govindaputhur, from where the temple is a short walk. Tiruchirappalli is the nearest major airport. Local auto-rickshaws or a hired car from Kumbakonam make the visit easiest, and the nearby Thiruvaikavur temple can be combined in the same day."
+    "timings": "সাধারণত সকাল প্রায় ৮:০০ টা থেকে দুপুর পর্যন্ত এবং আবার বিকেল প্রায় ৫:০০ টা থেকে ৭:০০ টা পর্যন্ত খোলা থাকে; স্থানীয়ভাবে সময় নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ, বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশপথে জুতা খুলে রাখা হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরের নিয়ম অনুসারে বাইরের করিডোর ও প্রাঙ্গণে সাধারণত ফটোগ্রাফির অনুমতি রয়েছে কিন্তু ভিতরের গর্ভগৃহে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি তিরুবিজয়মঙ্গৈ গ্রামে দাঁড়িয়ে আছে, যা এখন গোবিন্দপুথুর নামে পরিচিত, তাঞ্জাবুর জেলার কুম্বকোনম অঞ্চলে, কুম্বকোনম থেকে প্রায় ১১ থেকে ১৩ কিমি দূরে, যা নিকটতম রেল স্টেশন। গ্রামের দিকে বাস চলে, এবং পরিদর্শকরা গোবিন্দপুথুরে নামতে পারেন, সেখান থেকে মন্দিরে অল্প হাঁটা পথ। তিরুচিরাপল্লি নিকটতম প্রধান বিমানবন্দর। কুম্বকোনম থেকে স্থানীয় অটোরিকশা বা ভাড়া করা গাড়ি পরিদর্শনকে সহজতম করে, এবং কাছের তিরুবাইকাবুর মন্দির একই দিনে মিলিয়ে দেখা যেতে পারে।"
   }
 }

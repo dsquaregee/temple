@@ -1,30 +1,37 @@
 {
   "id": "pillalamarri-erakeswara",
   "locale": "bn",
+  "name": "এরকেশ্বর মন্দির, পিল্লালামার্রি",
   "nativeName": "పిల్లలమర్రి ఎరకేశ్వర ఆలయం",
+  "deity": "শিব, এরকেশ্বর রূপে পূজিত, পিল্লালামার্রির চারটি পুরোনো পাথরের মন্দিরের একটিতে।",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Pillalamarri, Suryapet district",
-    "state": "Telangana",
+    "city": "পিল্লালামার্রি, সূর্যপেট জেলা",
+    "state": "তেলেঙ্গানা",
     "lat": 17.1697,
     "lng": 79.5822
   },
+  "period": "কাকতীয় যুগ, প্রায় ১২০৮ খ্রিস্টাব্দ",
   "century": 13,
+  "dynasty": "কাকতীয়, তাঁদের সামন্ত রেচেরলা পরিবার কর্তৃক নির্মিত",
+  "style": "কাকতীয় মন্দির স্থাপত্য",
   "unesco": false,
   "circuits": [
     "kakatiya-temples"
   ],
+  "summary": "পিল্লালামার্রির এরকেশ্বর মন্দির, প্রায় ১২০৮ খ্রিস্টাব্দে রেচেরলা সর্দারদের এক নারী কর্তৃক নির্মিত, এমন এক গ্রামের সূক্ষ্মভাবে খোদাই করা শিবমন্দিরগুলির একটি যা একসময় তাঁদের ক্ষমতার আসন ছিল।",
   "sections": {
-    "history": "Pillalamarri, just outside Suryapet, was a seat of the Recherla chiefs, who served the Kakatiya kings as feudatories. The Erakeswara Temple is dated to about 1208 CE and is associated with Erakasani, the wife of the Recherla chief Beti Reddi, who is remembered as its patron. It stands in a group of four old stone temples in the village, from the late twelfth and early thirteenth centuries, which includes the Nameswara Temple of about 1202, raised by Namireddi on the bank of the Musi river, and a Trikuteswara shrine, the \"lord of three shrines\". The group is admired for its carved stonework, and Pillalamarri is one of the few places where the artistry of the Recherla court, which also produced Ramappa, can be seen at close hand.",
-    "architecture": "Erakeswara is a stone temple in the Kakatiya manner, standing in a village setting among its sister temples. The Shiva sanctum and its hall show the finish for which the Kakatiya sculptors are known, with carved pillars, doorways and eaves worked with careful detail. As in other Kakatiya temples, the design is a measured composition of sanctum, hall and porch rather than a towering monument. Compared with the great temples of Warangal, it is modest in scale, and its charm lies in the quality of its carving and its setting among neighbouring shrines of the same age.",
-    "legends": "Erakeswara is known more through its patronage than through a famous legend. The temple is linked to Erakasani, a woman of the Recherla family, whose gift of a Shiva temple stands as an example of women's patronage in the Kakatiya country. Local tradition honours the group of four temples as a single sacred precinct of the Recherla chiefs, who also stood behind the Ramappa Temple, and speaks of Pillalamarri as a place where their devotion to Shiva took its most refined stone form.",
-    "festivals": "Shiva worship in the Telugu country is marked by Maha Shivaratri, observed in February or March, by Mondays, and by the month of Karthika in the autumn, and local devotees may gather at the Pillalamarri temples on such days. Confirm any observances and dates locally.",
-    "experience": "Pillalamarri is a quiet, rewarding stop for those who enjoy the carved detail of Kakatiya stonework. Because the four old temples lie close together, a visit can take in the Erakeswara, Nameswara and Trikuteswara shrines in a single unhurried walk. The setting is a working village, so expect a peaceful and local atmosphere rather than crowds. It pairs naturally with Ramappa, Kota Gullu and the Warangal monuments, though it lies at some distance from them, near Suryapet on the road between Hyderabad and Vijayawada."
+    "history": "পিল্লালামার্রি, সূর্যপেটের ঠিক বাইরে, ছিল রেচেরলা সর্দারদের আসন, যাঁরা সামন্ত হিসেবে কাকতীয় রাজাদের সেবা করতেন। এরকেশ্বর মন্দিরটি প্রায় ১২০৮ খ্রিস্টাব্দের এবং রেচেরলা সর্দার বেটি রেড্ডির স্ত্রী এরকাসানির সঙ্গে যুক্ত, যিনি এর পৃষ্ঠপোষক রূপে স্মরিত। এটি গ্রামের দ্বাদশ শতকের শেষ ও ত্রয়োদশ শতকের শুরুর চারটি পুরোনো পাথরের মন্দিরের দলে দাঁড়িয়ে আছে, যার মধ্যে আছে প্রায় ১২০২ সালের নামেশ্বর মন্দির, যা নামিরেড্ডি মুসি নদীর তীরে গড়েছিলেন, এবং এক ত্রিকূটেশ্বর মন্দির, \"তিন মন্দিরের প্রভু\"। দলটি এর খোদাই করা প্রস্তরকর্মের জন্য প্রশংসিত, এবং পিল্লালামার্রি সেই অল্প কয়েকটি স্থানের একটি যেখানে রেচেরলা দরবারের শিল্পকর্ম, যা রামাপ্পাও তৈরি করেছিল, কাছ থেকে দেখা যায়।",
+    "architecture": "এরকেশ্বর কাকতীয় রীতিতে এক পাথরের মন্দির, এর সহোদর মন্দিরগুলির মাঝে এক গ্রাম্য পরিবেশে দাঁড়িয়ে। শিব গর্ভগৃহ ও এর মণ্ডপ সেই পরিমার্জন দেখায় যার জন্য কাকতীয় ভাস্কররা পরিচিত, খোদাই করা স্তম্ভ, দ্বার ও কার্নিশ সযত্ন বিশদে কাজ করা। অন্যান্য কাকতীয় মন্দিরের মতো, এর নকশা সুউচ্চ স্মারকের বদলে গর্ভগৃহ, মণ্ডপ ও বারান্দার এক পরিমিত রচনা। ওয়ারঙ্গলের বড় মন্দিরগুলির তুলনায় এটি আকারে বিনম্র, এবং এর মাধুর্য এর খোদাইয়ের গুণমানে ও একই যুগের প্রতিবেশী মন্দিরগুলির মাঝে এর অবস্থানে নিহিত।",
+    "legends": "এরকেশ্বর কোনো বিখ্যাত কিংবদন্তির চেয়ে বেশি তার পৃষ্ঠপোষকতার মাধ্যমে পরিচিত। মন্দিরটি রেচেরলা পরিবারের এক নারী এরকাসানির সঙ্গে যুক্ত, যাঁর শিবমন্দির দানের উপহার কাকতীয় দেশে নারীদের পৃষ্ঠপোষকতার এক দৃষ্টান্ত হয়ে দাঁড়িয়ে আছে। স্থানীয় প্রথা চারটি মন্দিরের দলকে রেচেরলা সর্দারদের এক একক পবিত্র প্রাঙ্গণ হিসেবে সম্মান করে, যাঁরা রামাপ্পা মন্দিরের পিছনেও ছিলেন, এবং পিল্লালামার্রির কথা বলে এমন এক স্থান হিসেবে যেখানে শিবের প্রতি তাঁদের ভক্তি তার সবচেয়ে পরিমার্জিত প্রস্তররূপ নিয়েছিল।",
+    "festivals": "তেলুগু দেশে শিবপূজা মহাশিবরাত্রি দ্বারা চিহ্নিত, যা ফেব্রুয়ারি বা মার্চে পালিত হয়, সোমবার দ্বারা, এবং শরতে কার্তিক মাস দ্বারা, এবং স্থানীয় ভক্তরা এমন দিনে পিল্লালামার্রির মন্দিরগুলিতে জমায়েত হতে পারেন। যে কোনো আচার ও তারিখ স্থানীয়ভাবে যাচাই করুন।",
+    "experience": "পিল্লালামার্রি তাঁদের জন্য এক শান্ত, ফলপ্রদ গন্তব্য যাঁরা কাকতীয় প্রস্তরকর্মের খোদাই করা বিশদ উপভোগ করেন। চারটি পুরোনো মন্দির কাছাকাছি থাকায়, এক দর্শনে একটি অবিচল হাঁটায় এরকেশ্বর, নামেশ্বর ও ত্রিকূটেশ্বর মন্দির দেখা যায়। পরিবেশটি এক কর্মময় গ্রাম, তাই ভিড়ের বদলে এক শান্তিপূর্ণ ও স্থানীয় আবহ আশা করুন। এটি রামাপ্পা, কোটা গুল্লু ও ওয়ারঙ্গল স্মারকগুলির সঙ্গে স্বাভাবিকভাবে যায়, যদিও সেগুলি থেকে কিছুটা দূরে, হায়দরাবাদ ও বিজয়ওয়াড়ার মধ্যকার পথে সূর্যপেটের কাছে অবস্থিত।"
   },
   "visit": {
-    "timings": "The temple is a place of worship and a protected heritage site, and opening hours are not fixed. Please confirm timings and access locally before travelling, and plan a daylight visit.",
-    "dressCode": "Modest traditional dress is appreciated, with shoulders and knees covered. Footwear is removed at the temple.",
-    "photography": "Photography of the exterior and carvings is generally acceptable; follow any posted rules and the instructions of temple staff, and avoid photographing worship without permission.",
-    "gettingThere": "Pillalamarri lies just outside Suryapet town in Suryapet district, on the Hyderabad–Vijayawada highway. Suryapet has rail and bus services, Hyderabad is the nearest major airport, and the temples are reached by road from Suryapet."
+    "timings": "মন্দিরটি এক উপাসনাস্থল ও এক সংরক্ষিত ঐতিহ্যস্থল, এবং খোলার সময় নির্দিষ্ট নয়। ভ্রমণের আগে সময় ও প্রবেশাধিকার স্থানীয়ভাবে যাচাই করুন, এবং দিনের আলোয় দর্শনের পরিকল্পনা করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক সমাদৃত, কাঁধ ও হাঁটু ঢাকা রেখে। জুতো মন্দিরে খোলা হয়।",
+    "photography": "বাইরের অংশ ও খোদাইয়ের ছবি তোলা সাধারণত গ্রহণযোগ্য; যে কোনো প্রদর্শিত নিয়ম ও মন্দির কর্মীদের নির্দেশ মেনে চলুন, এবং অনুমতি ছাড়া পূজার ছবি তোলা এড়িয়ে চলুন।",
+    "gettingThere": "পিল্লালামার্রি সূর্যপেট জেলার সূর্যপেট শহরের ঠিক বাইরে, হায়দরাবাদ–বিজয়ওয়াড়া মহাসড়কে অবস্থিত। সূর্যপেটে রেল ও বাস পরিষেবা আছে, হায়দরাবাদ নিকটতম প্রধান বিমানবন্দর, এবং মন্দিরগুলিতে সূর্যপেট থেকে সড়কপথে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.jpg",

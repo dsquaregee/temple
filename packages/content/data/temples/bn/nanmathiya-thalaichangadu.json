@@ -1,30 +1,37 @@
 {
   "id": "nanmathiya-thalaichangadu",
   "locale": "bn",
+  "name": "নাণমতিয় পেরুমাল মন্দির, তলৈচ্চঙ্গাড়ু",
   "nativeName": "நாண்மதியப் பெருமாள் கோயில், தலைச்சங்காடு",
+  "deity": "বিষ্ণু নাণমতিয় পেরুমাল রূপে, দণ্ডায়মান ও পূর্বমুখী, দেবী তলৈচ্চঙ্গ নাচিয়ার-সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thalaichangadu",
-    "state": "Tamil Nadu",
+    "city": "তলৈচ্চঙ্গাড়ু",
+    "state": "তামিলনাড়ু",
     "lat": 11.1297,
     "lng": 79.7853
   },
+  "period": "চোল অঞ্চলের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তোত্রে বর্ণিত",
   "century": 8,
+  "dynasty": "চোল অঞ্চল (পরবর্তী পৃষ্ঠপোষক)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "কাবেরী বদ্বীপের তলৈচ্চঙ্গাড়ুতে, বিষ্ণু নাণমতিয় পেরুমাল রূপে দণ্ডায়মান, সেই প্রভু যিনি চন্দ্রকে তার অভিশাপ থেকে মুক্তি দিয়েছিলেন — তিরুমঙ্গৈ আলবার কর্তৃক স্তোত্রে বর্ণিত একটি চোল-অঞ্চলের দিব্য দেশম।",
   "sections": {
-    "history": "Thalaichangadu, near Akkur in the Mayiladuthurai country of the Kaveri delta, holds Thalaichanga Nanmathiyam, one of the 108 Divya Desams — the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham — and part of Chola Nadu. Its mangalasasanam was offered by Thirumangai Alvar, the last great poet of the Alvar tradition. The presiding lord is Nanmathiya Perumal, with Thalaichanga Nachiyar, and the festival image is worshipped as Vensudar Perumal. The shrine's standing rests on the Alvar's hymns and the long devotion of the village. In the same village stands the Sangaranyeswarar shrine of Shiva, a separate temple praised in the Thevaram.",
-    "architecture": "The temple follows the Dravidian plan of the Chola country: a single-tiered gopuram marks the entrance, and the sanctum holds Nanmathiya Perumal standing and facing east. Tradition describes a crescent moon on the lord's head, the sign by which he is known. The Goddess has her own shrine as Thalaichanga Nachiyar, and the Chandra Pushkarini, the temple tank, lies in front of the temple.",
-    "legends": "The sthala purana tells of Chandra, the Moon, who was cursed by his guru Brihaspati to a wasting sickness. Seeking release, he and the devas worshipped Vishnu in this place, and the lord relieved him of the curse — hence the epithet Chandra Shaba Harar, and the tank that bears the Moon's name. The village name is also explained in tradition by the conch, sangu, and by an association with the first Tamil Sangam.",
-    "festivals": "The temple observes the Vaishnava calendar, above all Vaikunta Ekadashi, and keeps the days of Thirumangai Alvar, the poet-saint who sang this shrine. Local priests can say which are celebrated and when.",
-    "experience": "A quiet village shrine among the paddy fields, free of crowds. Stand before the east-facing lord, walk down to the Chandra Pushkarini, and pair the visit with the other Divya Desams near Sirkazhi, such as Thiruvali-Thirunagari and the Thirunangur group."
+    "history": "তলৈচ্চঙ্গাড়ু, কাবেরী বদ্বীপের ময়িলাড়ুতুরৈ অঞ্চলে আক্কুরের নিকটে, তলৈচ্চঙ্গ নাণমতিয়ম ধারণ করে, ১০৮ দিব্য দেশমের একটি — বিষ্ণুর সেই আবাস যা আলবার সন্তরা নালায়িরা দিব্য প্রবন্ধমে স্তোত্রে বর্ণনা করেছিলেন — এবং এটি চোল নাড়ুর অংশ। এর মঙ্গলাশাসনম নিবেদন করেছিলেন তিরুমঙ্গৈ আলবার, আলবার ঐতিহ্যের শেষ মহান কবি। অধিষ্ঠাতৃ প্রভু নাণমতিয় পেরুমাল, তলৈচ্চঙ্গ নাচিয়ার-সহ, এবং উৎসব মূর্তিটি ভেন্সুড়র পেরুমাল রূপে পূজিত। পীঠের মর্যাদা আলবারের স্তোত্র ও গ্রামের দীর্ঘ ভক্তির উপর নির্ভর করে। একই গ্রামে শিবের সঙ্গরণ্যেশ্বরর পীঠ দাঁড়িয়ে আছে, তেবারমে প্রশংসিত একটি পৃথক মন্দির।",
+    "architecture": "মন্দিরটি চোল অঞ্চলের দ্রাবিড় পরিকল্পনা অনুসরণ করে: একটি একতলা গোপুরম প্রবেশপথ চিহ্নিত করে, এবং গর্ভগৃহে নাণমতিয় পেরুমাল দণ্ডায়মান ও পূর্বমুখী। ঐতিহ্য প্রভুর মাথায় একটি অর্ধচন্দ্রের বর্ণনা দেয়, সেই চিহ্ন যার দ্বারা তিনি পরিচিত। দেবীর নিজস্ব পীঠ রয়েছে তলৈচ্চঙ্গ নাচিয়ার রূপে, এবং চন্দ্র পুষ্করিণী, মন্দিরের পুকুর, মন্দিরের সামনে অবস্থিত।",
+    "legends": "স্থল পুরাণ চন্দ্রের কথা বলে, যিনি তাঁর গুরু বৃহস্পতির দ্বারা ক্ষয়রোগে অভিশপ্ত হয়েছিলেন। মুক্তির সন্ধানে তিনি ও দেবতারা এই স্থানে বিষ্ণুর পূজা করেছিলেন, এবং প্রভু তাঁকে অভিশাপ থেকে মুক্ত করেছিলেন — তাই চন্দ্র শাপ হরর উপাধি, এবং চন্দ্রের নামবাহী পুকুর। গ্রামের নামও ঐতিহ্যে শঙ্খ, সঙ্গু, এবং প্রথম তামিল সঙ্গমের সঙ্গে সংযোগ দ্বারা ব্যাখ্যা করা হয়।",
+    "festivals": "মন্দিরটি বৈষ্ণব পঞ্জিকা পালন করে, সর্বোপরি বৈকুণ্ঠ একাদশী, এবং তিরুমঙ্গৈ আলবারের দিনগুলি রক্ষা করে, সেই কবি-সন্ত যিনি এই পীঠের উদ্দেশে গান গেয়েছিলেন। স্থানীয় পুরোহিতরা বলতে পারেন কোনগুলি পালিত হয় ও কখন।",
+    "experience": "ধানক্ষেতের মাঝে একটি শান্ত গ্রামীণ পীঠ, ভিড়মুক্ত। পূর্বমুখী প্রভুর সম্মুখে দাঁড়ান, চন্দ্র পুষ্করিণীর কাছে নেমে যান, এবং সিরকাঝির নিকটবর্তী অন্যান্য দিব্য দেশমের সঙ্গে দর্শন যুক্ত করুন, যেমন তিরুবালি-তিরুনগরী ও তিরুনঙ্গুর দল।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thalaichangadu lies in the Kaveri delta of Mayiladuthurai district, near Akkur, and is reached by road from Sirkazhi or Mayiladuthurai. The nearest railheads are Sirkazhi and Mayiladuthurai on the Chennai line; the nearest major airport is Tiruchirappalli, about 160 km away."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন সময় ও দুপুরে বিরতিসহ খোলা; যাওয়ার আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখতে হয়। টাঙানো নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে ও চারপাশে আলোকচিত্র গ্রহণ সীমাবদ্ধ; টাঙানো নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "তলৈচ্চঙ্গাড়ু ময়িলাড়ুতুরৈ জেলার কাবেরী বদ্বীপে, আক্কুরের নিকটে অবস্থিত, এবং সিরকাঝি বা ময়িলাড়ুতুরৈ থেকে সড়কপথে পৌঁছানো যায়। নিকটতম রেলপথ সিরকাঝি ও ময়িলাড়ুতুরৈ চেন্নাই লাইনে; নিকটতম প্রধান বিমানবন্দর তিরুচিরাপল্লী, প্রায় ১৬০ কিলোমিটার দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",

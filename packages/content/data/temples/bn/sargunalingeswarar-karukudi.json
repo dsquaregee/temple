@@ -1,29 +1,36 @@
 {
   "id": "sargunalingeswarar-karukudi",
   "locale": "bn",
+  "name": "সর্গুণলিঙ্গেশ্বর মন্দির, তিরুক্করুক্কুডি (মরুধনল্লুর)",
   "nativeName": "திருக்கருக்குடி சற்குணலிங்கேஸ்வரர் கோயில்",
+  "deity": "শিব সর্গুণলিঙ্গেশ্বর রূপে (করুকুডি নাথর), একটি স্বয়ম্ভূ বালুকা লিঙ্গ, দেবী অদ্বৈত নায়কী (সর্বালঙ্কার নায়কী) সহ",
+  "tradition": "শৈব — একটি পাডল পেত্র স্থলম",
   "location": {
-    "city": "Marudhanallur, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "মরুধনল্লুর, কুম্বকোণমের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9248,
     "lng": 79.4041
   },
+  "period": "তেবারম যুগ (৭ম শতকে কীর্তিত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণমের নিকটে তেবারমের তিরুক্করুক্কুডি, মরুধনল্লুর, শিবকে সর্গুণলিঙ্গেশ্বর রূপে সম্মান করে — বালুকার স্বয়ম্ভূ লিঙ্গ রূপে পূজিত — দেবী অদ্বৈত নায়কী, 'অদ্বৈতের দেবী,' সহ। তিরুজ্ঞান সম্বন্দর কর্তৃক কীর্তিত একটি পাডল পেত্র স্থলম, এটি কিংবদন্তির সম্পদ ধারণ করে: লঙ্কা অভিযানের আগে রামের উপাসনা, সর্গুণন নামের এক পাণ্ড্য রাজা, এবং এখানে স্বয়ং ব্রহ্মার উপাসনা।",
   "sections": {
-    "history": "Marudhanallur, whose Tevaram name is Tirukkarukkudi, lies about 5–6 km south of Kumbakonam, past Sakkottai on the way to Valangaiman, in Thanjavur district. It is a Paadal Petra Sthalam, hymned by Tirugnana Sambandar, counted among the Shiva shrines on the southern bank of the Kaveri. The stone temple is of the Chola period and later; its inscriptions are mostly illegible or lost, so its recorded history is slight, but its legends are rich.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Sargunalingeswarar — also called Karukudi Nathar and Brahmapureeswarar — in the sanctum, with the goddess Advaita Nayaki, also Sarvalankara Nayaki and Kalyani Ambica, in her own shrine. The presiding lingam is a swayambhu lingam of sand, a manal-lingam, which is bathed with special care; a Nandi and the parivara devatas complete the plan.",
-    "legends": "The temple keeps several legends. By one, Rama worshipped Shiva here before his march to Lanka, asking Hanuman to bring a lingam from the north — a motif that binds the place to the great Ramayana shrines. By another, a Pandyan king named Sargunan worshipped the lord here, giving the deity the name Sargunalingeswarar. Brahma too is said to have worshipped at this spot, whence the lord is also called Brahmapureeswarar. The sand lingam marks the lord as swayambhu, self-manifest, a form of special sanctity.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine near Kumbakonam. Pilgrims on the Paadal Petra trail of the southern Kaveri include Marudhanallur among their stops.",
-    "experience": "At Marudhanallur the pilgrim meets a self-manifest lord of sand, worshipped since the days of Rama and Brahma. Before Sargunalingeswarar and Advaita Nayaki — whose name itself speaks of the oneness beyond all duality — the visitor finds a quiet Kaveri-bank shrine whose layered legends reach from the Ramayana to the Tevaram."
+    "history": "মরুধনল্লুর, যার তেবারম নাম তিরুক্করুক্কুডি, কুম্বকোণম থেকে প্রায় ৫–৬ কিমি দক্ষিণে, সাক্কোট্টাই পেরিয়ে ভালঙ্গৈমানের পথে, থাঞ্জাভুর জেলায় অবস্থিত। এটি একটি পাডল পেত্র স্থলম, তিরুজ্ঞান সম্বন্দর কর্তৃক কীর্তিত, কাবেরীর দক্ষিণ তীরের শিব মন্দিরগুলির মধ্যে গণ্য। পাথরের মন্দিরটি চোল যুগের ও পরবর্তী; এর শিলালিপি অধিকাংশই অস্পষ্ট বা লুপ্ত, তাই এর নথিবদ্ধ ইতিহাস স্বল্প, কিন্তু এর কিংবদন্তি সমৃদ্ধ।",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, এটি গর্ভগৃহে সর্গুণলিঙ্গেশ্বরকে — করুকুডি নাথর ও ব্রহ্মপুরীশ্বর নামেও পরিচিত — এবং দেবী অদ্বৈত নায়কীকে, যিনি সর্বালঙ্কার নায়কী ও কল্যাণী অম্বিকাও, তাঁর নিজস্ব মন্দিরে প্রতিষ্ঠিত করে। প্রধান লিঙ্গ হল বালুকার একটি স্বয়ম্ভূ লিঙ্গ, একটি মনল-লিঙ্গম, যা বিশেষ যত্নে অভিষিক্ত হয়; একটি নন্দী ও পরিবার দেবতারা পরিকল্পনা সম্পূর্ণ করে।",
+    "legends": "মন্দিরটি কয়েকটি কিংবদন্তি ধারণ করে। একটিতে, রাম লঙ্কা অভিযানের আগে এখানে শিবের উপাসনা করেছিলেন, হনুমানকে উত্তর থেকে একটি লিঙ্গ আনতে অনুরোধ করে — একটি উপাদান যা স্থানটিকে মহান রামায়ণ মন্দিরগুলির সঙ্গে আবদ্ধ করে। অন্যটিতে, সর্গুণন নামের এক পাণ্ড্য রাজা এখানে প্রভুর উপাসনা করেন, দেবতাকে সর্গুণলিঙ্গেশ্বর নাম দিয়ে। ব্রহ্মাও এই স্থানে উপাসনা করেছিলেন বলে কথিত, যেখান থেকে প্রভুকে ব্রহ্মপুরীশ্বরও বলা হয়। বালুকা লিঙ্গ প্রভুকে স্বয়ম্ভূ, স্বপ্রকাশ, রূপে চিহ্নিত করে, বিশেষ পবিত্রতার এক রূপ।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি ও কার্তিকাইয়ের সোমবারগুলি পালন করে, প্রদোষ উপাসনা সহ, কুম্বকোণমের নিকটে এক গ্রাম্য মন্দিরের শান্ত পরিসরে। দক্ষিণ কাবেরীর পাডল পেত্র পথের তীর্থযাত্রীরা তাঁদের গন্তব্যের মধ্যে মরুধনল্লুরকে অন্তর্ভুক্ত করেন।",
+    "experience": "মরুধনল্লুরে তীর্থযাত্রী বালুকার এক স্বপ্রকাশ প্রভুর সাক্ষাৎ পান, রাম ও ব্রহ্মার যুগ থেকে পূজিত। সর্গুণলিঙ্গেশ্বর ও অদ্বৈত নায়কীর সম্মুখে — যাঁর নামই সমস্ত দ্বৈতের অতীত একত্বের কথা বলে — দর্শনার্থী এক শান্ত কাবেরী-তীরের মন্দির পান যার স্তরযুক্ত কিংবদন্তি রামায়ণ থেকে তেবারম পর্যন্ত বিস্তৃত।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Marudhanallur (Tirukkarukkudi) is about 5–6 km south of Kumbakonam, past Sakkottai on the way to Valangaiman, in Thanjavur district. Kumbakonam is the nearest major rail head, with frequent buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা অবস্থায়; প্রবেশদ্বারে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের করিডরে সাধারণত আলোকচিত্র গ্রহণের অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচারের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মরুধনল্লুর (তিরুক্করুক্কুডি) কুম্বকোণম থেকে প্রায় ৫–৬ কিমি দক্ষিণে, সাক্কোট্টাই পেরিয়ে ভালঙ্গৈমানের পথে, থাঞ্জাভুর জেলায়। কুম্বকোণম নিকটতম প্রধান রেলপথ, গ্রামে ঘনঘন বাস ও ট্যাক্সি সহ।"
   }
 }

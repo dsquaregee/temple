@@ -1,30 +1,37 @@
 {
   "id": "yoga-narasimha-sholinghur",
   "locale": "bn",
+  "name": "যোগ নরসিংহ মন্দির, সোলিঙ্গুর",
   "nativeName": "யோக நரசிம்மர் கோயில், சோளிங்கர்",
+  "deity": "বিষ্ণু যোগ নরসিংহ রূপে, যোগমুদ্রায় উপবিষ্ট, দেবী অমৃতবল্লী তায়ারসহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Sholinghur (Thirukkadigai), Ranipet",
-    "state": "Tamil Nadu",
+    "city": "সোলিঙ্গুর (তিরুক্কডিগৈ), রাণীপেট",
+    "state": "তামিলনাড়ু",
     "lat": 13.0885,
     "lng": 79.4184
   },
+  "period": "তোণ্ডৈ নাড়ুর একটি দিব্যদেশম, নালায়িরা দিব্য প্রবন্ধমে পেয়ালোয়ার ও তিরুমঙ্গৈ আলোয়ার কীর্তিত",
   "century": 8,
+  "dynasty": "মধ্যযুগীয় তামিল রাজ্য (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "সোলিঙ্গুরের যুগ্ম পাহাড়ে বিষ্ণু যোগবিশ্রামে যোগ নরসিংহ রূপে উপবিষ্ট — তিরুক্কডিগৈ, সেই দিব্যদেশম যেখানে এক ঘটিকার পূজাও পূর্ণ ফল বহন করে বলে ধরা হয়।",
   "sections": {
-    "history": "Sholinghur is the Thirukkadigai of the Alvars and the ancient Ghatikachalam, one of the 108 Divya Desams in Thondai Nadu, sung by Peyalvar and Thirumangai Alvar in the Nalayira Divya Prabandham. Tradition holds that Narasimha gave darshan here to the child Prahlada and the Saptarishis for the span of one ghatika, about twenty-four minutes, and so devotees believe that worship offered for even a ghatika here is fruitful. The acharyas remembered at the shrine include Nathamuni, Ramanuja and Manavala Mamunigal, who is believed to have expounded the Thiruppavai here at the request of his disciple Erumbiappan.",
-    "architecture": "The temple crowns Periya Malai, the larger of two hills, rising some 230 metres above the plain; Yoga Narasimha is enshrined seated in yogic posture, the sanctum facing east, with Amirthavalli Thayar in her own shrine. A long flight of steps, well over a thousand, climbs the hill. The smaller hill, Chinna Malai, about 105 metres high, carries the shrine of Yoga Anjaneya, facing the great hill across the valley. At the foot of the hills lies the tank known as Thakkan Kulam.",
-    "legends": "The sthala purana tells that the lord, in his Narasimha form, asked Anjaneya to help in slaying an asura, and then bade him remain on the smaller hill, seated in yogic posture, to grant boons to devotees — hence the second shrine. The name Ghatikachalam, the hill of the ghatika, recalls the brief span in which Narasimha gave darshan to Prahlada and the sages. A cherished tradition holds that in the month of Karthigai the lord, in yogic repose, opens his eyes.",
-    "festivals": "The month of Karthigai is the high season of the shrine, and its Sundays draw large numbers of pilgrims who climb the hill. Vaikunta Ekadashi and the Brahmotsavam are observed with processions, and the days of Peyalvar and Thirumangai Alvar are honoured. Confirm dates locally.",
-    "experience": "The pilgrim's day begins at the foot of the hills with the long ascent, the whole valley opening out below. At the top, Yoga Narasimha receives the visitor in stillness. Many then cross to Chinna Malai for Yoga Anjaneya. Wear sturdy footwear for the steps, start early, carry water, and leave time for an unhurried, quiet darshan."
+    "history": "সোলিঙ্গুর আলোয়ারদের তিরুক্কডিগৈ ও প্রাচীন ঘটিকাচলম, তোণ্ডৈ নাড়ুর ১০৮ দিব্যদেশমের একটি, নালায়িরা দিব্য প্রবন্ধমে পেয়ালোয়ার ও তিরুমঙ্গৈ আলোয়ার কীর্তিত। ঐতিহ্য বলে যে নরসিংহ এখানে শিশু প্রহ্লাদ ও সপ্তর্ষিকে এক ঘটিকার, প্রায় চব্বিশ মিনিটের, সময়ের জন্য দর্শন দিয়েছিলেন, তাই ভক্তরা বিশ্বাস করেন যে এখানে এক ঘটিকার পূজাও ফলপ্রসূ। তীর্থে স্মরিত আচার্যদের মধ্যে আছেন নাথমুনি, রামানুজ ও মণবাল মামুনিগল, যিনি তাঁর শিষ্য এরুম্বিয়াপ্পনের অনুরোধে এখানে তিরুপ্পাবৈ ব্যাখ্যা করেছিলেন বলে বিশ্বাস করা হয়।",
+    "architecture": "মন্দিরটি পেরিয়া মলৈ, দুই পাহাড়ের বড়টির, শিখরে অবস্থিত, যা সমতল থেকে প্রায় ২৩০ মিটার উঁচু; যোগ নরসিংহ যোগমুদ্রায় উপবিষ্ট প্রতিষ্ঠিত, গর্ভগৃহ পূর্বমুখী, অমৃতবল্লী তায়ার তাঁর নিজস্ব তীর্থে। এক হাজারেরও বেশি সিঁড়ির এক দীর্ঘ সারি পাহাড়ে উঠে গেছে। ছোট পাহাড়, চিন্ন মলৈ, প্রায় ১০৫ মিটার উঁচু, যোগ অঞ্জনেয়ের তীর্থ বহন করে, যা উপত্যকা জুড়ে বড় পাহাড়ের অভিমুখে। পাহাড়ের পাদদেশে তক্কন কুলম নামে পরিচিত পুকুর অবস্থিত।",
+    "legends": "স্থলপুরাণ বলে যে প্রভু, তাঁর নরসিংহ রূপে, এক অসুর বধে অঞ্জনেয়ের সাহায্য চেয়েছিলেন, এবং তারপর তাঁকে ছোট পাহাড়ে যোগমুদ্রায় উপবিষ্ট থেকে ভক্তদের বর দিতে বলেছিলেন — তাই দ্বিতীয় তীর্থ। ঘটিকাচলম নাম, ঘটিকার পাহাড়, সেই সংক্ষিপ্ত সময়ের স্মৃতি রাখে যখন নরসিংহ প্রহ্লাদ ও ঋষিদের দর্শন দিয়েছিলেন। একটি প্রিয় ঐতিহ্য বলে যে কার্তিগৈ মাসে প্রভু, যোগবিশ্রামে, তাঁর চোখ খোলেন।",
+    "festivals": "কার্তিগৈ মাস তীর্থের মূল ঋতু, এবং এর রবিবারগুলি বহু তীর্থযাত্রীকে আকর্ষণ করে যাঁরা পাহাড়ে ওঠেন। বৈকুণ্ঠ একাদশী ও ব্রহ্মোৎসব শোভাযাত্রাসহ পালিত হয়, এবং পেয়ালোয়ার ও তিরুমঙ্গৈ আলোয়ারের দিনগুলি সম্মানিত হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তীর্থযাত্রীর দিন শুরু হয় পাহাড়ের পাদদেশে দীর্ঘ আরোহণে, সমগ্র উপত্যকা নিচে উন্মোচিত হতে হতে। শিখরে যোগ নরসিংহ নিস্তব্ধতায় দর্শনার্থীকে গ্রহণ করেন। অনেকে তারপর যোগ অঞ্জনেয়ের জন্য চিন্ন মলৈতে পার হন। সিঁড়ির জন্য মজবুত পাদুকা পরুন, তাড়াতাড়ি শুরু করুন, জল সঙ্গে নিন, এবং এক অবিচল, শান্ত দর্শনের জন্য সময় রাখুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left at the foot of the steps. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Sholinghur is in Ranipet district, about 25 km from Arakkonam and reached by road from Arakkonam, Ranipet or Vellore (Katpadi); the hill temple lies just outside the town. The nearest major rail junctions are Arakkonam and Katpadi, and the nearest airport is Chennai."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন এবং মধ্যাহ্নে বিরতিসহ খোলা থাকে; উৎসবের দিন সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; সিঁড়ির পাদদেশে পাদুকা রেখে যেতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "সোলিঙ্গুর রাণীপেট জেলায় অবস্থিত, আরক্কোনম থেকে প্রায় ২৫ কিমি এবং আরক্কোনম, রাণীপেট বা ভেলোর (কাটপাড়ি) থেকে সড়কপথে পৌঁছনো যায়; পাহাড়ি মন্দিরটি শহরের ঠিক বাইরে অবস্থিত। নিকটতম প্রধান রেল সংযোগস্থল আরক্কোনম ও কাটপাড়ি, এবং নিকটতম বিমানবন্দর চেন্নাই।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.jpg",

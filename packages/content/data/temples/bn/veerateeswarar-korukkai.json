@@ -1,31 +1,38 @@
 {
   "id": "veerateeswarar-korukkai",
   "locale": "bn",
+  "name": "বীরট্টেশ্বর মন্দির, কোরুক্কৈ (তিরুক্কুরুক্কৈ)",
   "nativeName": "திருக்குறுக்கை வீரட்டேஸ்வரர் கோயில்",
+  "deity": "শিব বীরট্টেশ্বর (যোগেশ্বর) রূপে, দেবী জ্ঞানাম্বিকৈ সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Korukkai",
-    "state": "Tamil Nadu",
+    "city": "কোরুক্কৈ",
+    "state": "তামিলনাড়ু",
     "lat": 11.1553,
     "lng": 79.6119
   },
+  "period": "কাবেরীর উত্তর তীরে পাডল পেট্র স্থলম, অপ্পর কর্তৃক স্তবগীত (সপ্তম শতাব্দী); অষ্ট বীরট্টানমের অন্যতম",
   "century": 7,
+  "dynasty": "চোল দেশ, পরবর্তী সংযোজন সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "কোরুক্কৈতে — তেবারমের তিরুক্কুরুক্কৈ — মায়িলাডুতুরৈর নিকটে, শিব সেই মহান যোগী রূপে উপবিষ্ট যাঁর উন্মুক্ত নয়ন কামকে ভস্মে পরিণত করেছিল: কামনা দহনের বীরট্টানম।",
   "sections": {
-    "history": "Korukkai is a village in Mayiladuthurai district, about 12 km from Mayiladuthurai on the road towards Manalmedu, and it is the modern name of the Thirukkurukkai of the Tevaram hymns. Its temple to Shiva as Veerateeswarar is one of the eight Ashta Veerattanams, the one that remembers Kama dahana, the burning of the god of love. Appar sang the Lord of Thirukkurukkai, and the shrine is counted among the Paadal Petra Sthalams on the northern bank of the Kaveri. It is a separate temple from Vazhuvur, the Veerattanam of the elephant a short way to the south, though the two are sometimes confused in lists; the old Tamil verse that names all eight places Kama at Kurukkai and the elephant at Vazhuvur.",
-    "architecture": "The temple is a modest Dravidian shrine of the delta, approached past its tank, the Soola Gangai, which lies directly opposite the entrance. The base of the lingam is carved with a lotus. In the mahamandapa stand bronzes of Kamadahana Murthy, six-armed and bearing weapons, with images of Kama and his consort Rati; in the Kamadahana sabha the Lord is shown seated in yoga, one leg folded, with Sanaka and the other sage-sons of Brahma at his feet.",
-    "legends": "When the demon Tarakasura could be slain only by a son of Shiva, the gods sent Kama, the god of love, to turn the Lord from his deep meditation towards Parvati. Kama loosed his flower-arrows; Shiva opened his third eye, and Kama was burned to ashes. Rati's grief moved the Lord, and tradition says Kama was restored to life, unseen by all but her. A pit some two hundred metres from the temple, called the Vibhuti Kuttai — the pit of sacred ash — is held to be the very place where Kama was burned.",
-    "festivals": "The great observance is the Kamadahana festival, kept over about ten days with the temple's annual brahmotsavam and the procession of the Pancha Murthis, when the burning of Kama is remembered before the gathered village. Masi Magam is celebrated too, with the Shaiva festivals of the year; confirm dates locally.",
-    "experience": "Korukkai is a quiet village shrine, and its stillness suits the Lord it honours: Shiva as the yogi whose meditation desire could not break. Pilgrims stand before the six-armed Kamadahana Murthy, walk out to the Vibhuti Kuttai, and go on to the delta's other Veerattanams — Vazhuvur, Thirupariyalur and Thirukkadaiyur — all within an easy drive of Mayiladuthurai."
+    "history": "কোরুক্কৈ মায়িলাডুতুরৈ জেলার একটি গ্রাম, মায়িলাডুতুরৈ থেকে মানলমেডুমুখী রাস্তায় প্রায় ১২ কিমি দূরে, এবং এটি তেবারম স্তবের তিরুক্কুরুক্কৈর আধুনিক নাম। শিবকে বীরট্টেশ্বর রূপে উৎসর্গীকৃত এর মন্দির আটটি অষ্ট বীরট্টানমের অন্যতম, যেটি কাম দহন, প্রেমের দেবতার দহন স্মরণ করে। অপ্পর তিরুক্কুরুক্কৈর প্রভুর গান গেয়েছিলেন, এবং মন্দিরটি কাবেরীর উত্তর তীরের পাডল পেট্র স্থলমগুলির অন্তর্ভুক্ত। এটি ভাঝুবুর থেকে পৃথক একটি মন্দির, দক্ষিণে অল্প দূরে অবস্থিত হস্তীর বীরট্টানম, যদিও তালিকায় দুটি কখনও কখনও বিভ্রান্ত হয়; যে পুরানো তামিল শ্লোক আটটির নাম বলে তা কামকে কুরুক্কৈতে এবং হস্তীকে ভাঝুবুরে স্থাপন করে।",
+    "architecture": "মন্দিরটি ব-দ্বীপের একটি বিনম্র দ্রাবিড় মন্দির, এর পুষ্করিণী সূল গঙ্গৈ পেরিয়ে পৌঁছানো যায়, যা প্রবেশদ্বারের ঠিক বিপরীতে অবস্থিত। লিঙ্গের ভিত্তি পদ্মফুলে খোদিত। মহামণ্ডপে কামদহন মূর্তির ব্রোঞ্জ মূর্তি দাঁড়িয়ে আছে, ছয় বাহুবিশিষ্ট ও অস্ত্রধারী, কাম ও তাঁর সঙ্গিনী রতির মূর্তি সহ; কামদহন সভায় প্রভুকে যোগে উপবিষ্ট দেখানো হয়েছে, এক পা ভাঁজ করা, তাঁর পায়ের কাছে সনক ও ব্রহ্মার অন্যান্য ঋষি-পুত্রগণ সহ।",
+    "legends": "যখন দানব তারকাসুর কেবল শিবের পুত্র কর্তৃক বধ্য ছিল, তখন দেবগণ প্রেমের দেবতা কামকে পাঠালেন প্রভুকে তাঁর গভীর ধ্যান থেকে পার্বতীর দিকে ফেরাতে। কাম তাঁর পুষ্প-শর নিক্ষেপ করলেন; শিব তাঁর তৃতীয় নয়ন খুললেন, এবং কাম ভস্মে পরিণত হলেন। রতির শোক প্রভুকে বিচলিত করল, এবং প্রথা বলে কাম পুনর্জীবিত হলেন, রতি ব্যতীত কারও অদৃশ্য। মন্দির থেকে প্রায় দুইশো মিটার দূরে একটি গর্ত, যাকে বিভূতি কুট্টৈ — পবিত্র ভস্মের গর্ত — বলা হয়, সেই স্থান বলে গণ্য যেখানে কাম দগ্ধ হয়েছিলেন।",
+    "festivals": "মহান অনুষ্ঠান হল কামদহন উৎসব, মন্দিরের বার্ষিক ব্রহ্মোৎসবম এবং পঞ্চ মূর্তির শোভাযাত্রা সহ প্রায় দশ দিন ধরে পালিত হয়, যখন সমবেত গ্রামের সামনে কামের দহন স্মরণ করা হয়। মাসি মাগমও উদযাপিত হয়, বছরের শৈব উৎসবগুলির সঙ্গে; তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "কোরুক্কৈ একটি নিরিবিলি গ্রাম্য মন্দির, এবং এর নীরবতা সেই প্রভুর উপযুক্ত যাঁকে এটি সম্মান করে: শিব সেই যোগী রূপে যাঁর ধ্যান কামনা ভাঙতে পারেনি। তীর্থযাত্রীরা ছয়-বাহুবিশিষ্ট কামদহন মূর্তির সামনে দাঁড়ান, বিভূতি কুট্টৈ পর্যন্ত হেঁটে যান, এবং ব-দ্বীপের অন্যান্য বীরট্টানম — ভাঝুবুর, তিরুপরিয়ালুর ও তিরুক্কাডৈয়ুর — যেগুলি সবই মায়িলাডুতুরৈ থেকে সহজ গাড়ির দূরত্বে, সেখানে এগিয়ে যান।"
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure, as at most village temples of the delta. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Korukkai lies about 12 km from Mayiladuthurai on the Mayiladuthurai–Manalmedu bus route. Mayiladuthurai is a major railway junction; Tiruchirappalli is the nearest large airport, with Puducherry also within reach by road."
+    "timings": "ব-দ্বীপের অধিকাংশ গ্রাম্য মন্দিরের মতো, প্রতিদিন সকাল ও সন্ধ্যার সময়ে মধ্যাহ্নে বন্ধ সহ খোলা থাকে। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে বাইরে জুতো রেখে যেতে হয়। নির্দেশিত নিয়ম ও পুরোহিতদের পরামর্শ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে আলোকচিত্র তোলা অনুমোদিত নয়; বাইরের অলিন্দে ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন, বিশেষত আচার-অনুষ্ঠান ও উৎসবের ব্রোঞ্জ মূর্তির।",
+    "gettingThere": "কোরুক্কৈ মায়িলাডুতুরৈ–মানলমেডু বাস রুটে মায়িলাডুতুরৈ থেকে প্রায় ১২ কিমি দূরে অবস্থিত। মায়িলাডুতুরৈ একটি প্রধান রেল সংযোগস্থল; তিরুচিরাপল্লী নিকটতম বড় বিমানবন্দর, পুদুচেরীও সড়কপথে নাগালের মধ্যে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/veerateeswarar-korukkai.jpg",

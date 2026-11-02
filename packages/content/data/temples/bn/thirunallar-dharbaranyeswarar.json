@@ -1,32 +1,39 @@
 {
   "id": "thirunallar-dharbaranyeswarar",
   "locale": "bn",
+  "name": "তিরুনাল্লার দর্ভারণ্যেশ্বরর মন্দির",
   "nativeName": "திருநள்ளாறு தர்பாரண்யேஸ்வரர் கோயில்",
+  "deity": "শিব দর্ভারণ্যেশ্বরর রূপে, দেবী ভোগমর্থ পূণ মুলৈয়াল (প্রাণেশ্বরী)-র সঙ্গে; শনি ভগবান",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thirunallar",
-    "state": "Puducherry",
+    "city": "তিরুনাল্লার",
+    "state": "পুদুচেরি",
     "lat": 10.925,
     "lng": 79.789
   },
+  "period": "চোল যুগ",
   "century": 10,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "navagraha-temples",
     "sapta-vidanga-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "দক্ষিণ ভারতে শনির (শনিগ্রহ) প্রধান নবগ্রহ মন্দির, যেখানে শিব দর্ভারণ্যেশ্বরর রূপে পূজিত। ভক্তরা নল তীর্থমে স্নান করেন এবং শনির কষ্ট থেকে মুক্তির প্রার্থনা করেন।",
   "sections": {
-    "history": "Set in the darbha-grass forest that gives the place its name Dharbaranya, this stone temple grew under Chola patronage and is counted among the Paadal Petra Sthalams hymned in the Tevaram. Across the centuries it became the most revered Shani sthalam of the south, drawing pilgrims who seek relief from the planet's influence. While Shiva as Dharbaranyeswarar is the presiding lord, it is the shrine of Shani Bhagavan that has carried the temple's fame far beyond the region, sustained by an unbroken tradition of worship tied to the movements of Saturn.",
-    "architecture": "The temple follows the Dravidian idiom of the Chola builders, with a gateway tower rising over the entrance and enclosed prakaram courts around the sanctum. Within, the central shrine of Dharbaranyeswarar holds the Shiva linga, while the Goddess Praneswari is honoured in her own shrine. The shrine of Shani Bhagavan, set apart, is the focus of the crowds who circle it in prayer. Close to the temple lies the Nala Theertham, the sacred tank where pilgrims bathe before entering, its waters bound to the legend that gives the place its meaning.",
-    "legends": "The temple is inseparable from the story of King Nala. Afflicted through the long seven-and-a-half-year period of Shani, Nala lost his kingdom and wandered in misery, separated from his queen Damayanti. Coming at last to Thirunallar, he bathed in the Nala Theertham and worshipped Dharbaranyeswarar, and there Shani released him from his suffering and his fortunes were restored. From this the temple draws its enduring promise: that those burdened by Saturn may find here the ending of their trials, and so pilgrims retrace the king's path of bath and worship.",
-    "festivals": "The great festival is Shani Peyarchi, the transit of Saturn from one zodiac sign to the next roughly every two and a half years, when immense crowds gather and worship extends far into the day and night. Saturdays are sacred to Shani and draw steady streams of devotees, and Pradosham is observed with special care. Offerings to Shani include black or blue cloth and lamps of sesame oil, made by those seeking relief from the effects of Saturn, whether the seven-and-a-half-year cycle or its lesser periods.",
-    "experience": "A visit begins away from the sanctum, at the Nala Theertham, where pilgrims bathe before entering wet-haired to worship. Inside, the pace is set by the queue to the Shani shrine, where lamps of sesame oil are lit and black cloth offered in quiet, earnest prayer. On Saturdays and above all on Shani Peyarchi the temple fills to overflowing and the wait grows long, but the mood is one of hope and release rather than fear. Come early, keep patience with the crowds, and let the ritual bath and the circling of the shrine unfold in their own order."
+    "history": "যে দর্ভ-তৃণের অরণ্য থেকে এই স্থানের নাম দর্ভারণ্য, তার মধ্যে অবস্থিত এই প্রস্তরমন্দির চোল পৃষ্ঠপোষকতায় বিকশিত হয়েছিল এবং তেবারমে গীত পাডল পেট্র স্থলমগুলির অন্যতম বলে গণ্য। শতাব্দীর পর শতাব্দী ধরে এটি দক্ষিণের সর্বাধিক পূজিত শনি স্থলমে পরিণত হয়, যা গ্রহের প্রভাব থেকে মুক্তি কামনায় আসা তীর্থযাত্রীদের আকর্ষণ করে। শিব দর্ভারণ্যেশ্বরর রূপে অধিষ্ঠাতা দেবতা হলেও, শনি ভগবানের উপাসনাস্থলই মন্দিরের খ্যাতি অঞ্চলের বহু দূর পর্যন্ত বহন করেছে, শনির গতিবিধির সঙ্গে জড়িত এক অবিচ্ছিন্ন উপাসনা-ঐতিহ্যে টিকে থেকে।",
+    "architecture": "মন্দিরটি চোল নির্মাতাদের দ্রাবিড় শৈলী অনুসরণ করে, প্রবেশপথের উপরে উত্থিত গোপুরম ও গর্ভগৃহকে ঘিরে আবদ্ধ প্রাকারম প্রাঙ্গণসহ। ভিতরে দর্ভারণ্যেশ্বররের কেন্দ্রীয় উপাসনাস্থলে শিবলিঙ্গ অবস্থিত, আর দেবী প্রাণেশ্বরী তাঁর নিজস্ব উপাসনাস্থলে সম্মানিত। পৃথকভাবে স্থাপিত শনি ভগবানের উপাসনাস্থল সেই জনতার কেন্দ্র যারা প্রার্থনায় তাকে প্রদক্ষিণ করে। মন্দিরের কাছেই নল তীর্থম, সেই পবিত্র তীর্থ যেখানে তীর্থযাত্রীরা প্রবেশের আগে স্নান করেন, এর জল সেই কিংবদন্তির সঙ্গে আবদ্ধ যা স্থানটিকে অর্থ দেয়।",
+    "legends": "মন্দিরটি রাজা নলের কাহিনি থেকে অবিচ্ছেদ্য। শনির দীর্ঘ সাড়ে সাত বছরের দশায় পীড়িত নল রাজ্য হারান এবং রানি দময়ন্তী থেকে বিচ্ছিন্ন হয়ে দুর্দশায় ঘুরে বেড়ান। অবশেষে তিরুনাল্লারে এসে তিনি নল তীর্থমে স্নান করেন ও দর্ভারণ্যেশ্বররকে পূজা করেন, এবং সেখানে শনি তাঁকে কষ্ট থেকে মুক্ত করেন ও তাঁর সৌভাগ্য ফিরে আসে। এ থেকেই মন্দির তার চিরস্থায়ী প্রতিশ্রুতি লাভ করে: শনির ভারে ভারাক্রান্তরা এখানে তাদের পরীক্ষার অবসান পেতে পারেন, আর তাই তীর্থযাত্রীরা রাজার স্নান ও উপাসনার পথ পুনরায় অনুসরণ করেন।",
+    "festivals": "মহান উৎসব হলো শনি পেয়র্চি, অর্থাৎ প্রায় প্রতি আড়াই বছরে শনির এক রাশি থেকে পরের রাশিতে সংক্রমণ, যখন বিপুল জনসমাগম ঘটে এবং উপাসনা দিন-রাত গভীর পর্যন্ত চলে। শনিবার শনির কাছে পবিত্র এবং নিয়মিত ভক্তদল আকর্ষণ করে, আর প্রদোষম বিশেষ যত্নে পালিত হয়। শনির কাছে নিবেদনের মধ্যে থাকে কালো বা নীল বস্ত্র ও তিলের তেলের প্রদীপ, যা শনির প্রভাব—সাড়ে সাত বছরের চক্র হোক বা তার ছোটো দশা—থেকে মুক্তি কামনাকারীরা অর্পণ করেন।",
+    "experience": "দর্শন শুরু হয় গর্ভগৃহ থেকে দূরে, নল তীর্থমে, যেখানে তীর্থযাত্রীরা স্নান করে ভিজে চুলে প্রবেশ করে পূজা করেন। ভিতরে গতি নির্ধারণ করে শনি উপাসনাস্থলের সারি, যেখানে তিলের তেলের প্রদীপ জ্বালানো হয় ও কালো বস্ত্র নিবেদিত হয় নিস্তব্ধ, আন্তরিক প্রার্থনায়। শনিবার এবং সর্বোপরি শনি পেয়র্চির দিন মন্দির উপচে পড়ে এবং অপেক্ষা দীর্ঘ হয়, তবু পরিবেশ ভয়ের নয় বরং আশা ও মুক্তির। সকালে আসুন, ভিড়ের সঙ্গে ধৈর্য রাখুন, এবং আচারিক স্নান ও উপাসনাস্থল প্রদক্ষিণকে তাদের নিজস্ব ক্রমে উন্মোচিত হতে দিন।"
   },
   "visit": {
-    "timings": "Generally open about 6:00 am to 1:00 pm and 4:00 to 9:00 pm; hours are greatly extended and crowds very large on Saturdays and on Shani Peyarchi. Verify locally before visiting.",
-    "dressCode": "Modest traditional dress is expected. Since the ritual bath in the Nala Theertham precedes worship, carry a change of clothes.",
-    "photography": "Photography inside the sanctum is generally not permitted. Follow the instructions of temple staff.",
-    "gettingThere": "Thirunallar is in Karaikal district, Puducherry, about 5 km from Karaikal town, the nearest hub. Rail access is via Karaikal or Nagapattinam; the nearest airport is Tiruchirappalli, roughly 150 km away."
+    "timings": "সাধারণত সকাল ৬:০০টা থেকে দুপুর ১:০০টা এবং বিকাল ৪:০০টা থেকে রাত ৯:০০টা পর্যন্ত খোলা; শনিবার ও শনি পেয়র্চিতে সময় অনেক বাড়ানো হয় এবং ভিড় খুব বেশি হয়। দর্শনের আগে স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত। যেহেতু নল তীর্থমে আচারিক স্নান উপাসনার আগে হয়, তাই বদলানোর কাপড় সঙ্গে রাখুন।",
+    "photography": "গর্ভগৃহের ভিতরে সাধারণত ফটোগ্রাফির অনুমতি নেই। মন্দিরকর্মীদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "তিরুনাল্লার পুদুচেরির কারাইকল জেলায়, নিকটতম কেন্দ্র কারাইকল শহর থেকে প্রায় ৫ কিমি দূরে। রেলপথে প্রবেশ কারাইকল বা নাগাপট্টিনম হয়ে; নিকটতম বিমানবন্দর তিরুচিরাপল্লি, প্রায় ১৫০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thirunallar-dharbaranyeswarar.jpg",

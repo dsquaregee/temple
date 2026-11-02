@@ -1,29 +1,36 @@
 {
   "id": "pasupatheeswarar-avur",
   "locale": "bn",
+  "name": "পশুপতীশ্বরর মন্দির, আবুর",
   "nativeName": "ஆவூர் பசுபதீஸ்வரர் கோயில்",
+  "deity": "পশুপতীশ্বরর রূপে শিব, দেবী মঙ্গলনায়কী (পঙ্কজবল্লী)-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Avur, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "আবুর, কুম্বকোণমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.92,
     "lng": 79.3
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণমের কাছে আবুর শিবকে পশুপতীশ্বরর রূপে সম্মান করে দেবী মঙ্গলনায়কীর সঙ্গে। তিরুজ্ঞান সম্বন্দরের স্তুত একটি পাডল পেট্র স্থলম, এর নাম স্মরণ করায় সেই পূজা যা দিব্য গাভী কামধেনু এখানে তাঁর অভিশাপ থেকে মুক্ত হয়ে নিবেদন করেছিলেন।",
   "sections": {
-    "history": "Avur (Aavoor) lies about 12 km south-west of Kumbakonam, in Thanjavur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The stone temple is of the Chola period and later, among the Shiva shrines of the Kumbakonam country.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Pasupatheeswarar in the sanctum, with the goddesses Mangalanayaki and Pankajavalli in twin sanctums facing west, a Nandi and the parivara devatas. The walled courtyard and gopuram are typical of the Shiva temples near Kumbakonam.",
-    "legends": "The lord is worshipped as Pasupatheeswarar, 'lord of cattle,' for the celestial cow Kamadhenu, cursed by Brahma, is said to have come here, worshipped the lord, and been freed of her curse. The twin goddesses Mangalanayaki and Pankajavalli stand in their sanctums. The fuller sthala purana survives in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Kumbakonam country include Avur among their stops.",
-    "experience": "At Avur the pilgrim comes to the lord of cattle near Kumbakonam. Before Pasupatheeswarar and the twin goddesses, the visitor finds the quiet grace of a Tevaram temple of the delta, and the memory of Kamadhenu freed of her curse."
+    "history": "আবুর (আবুর) কুম্বকোণম থেকে প্রায় ১২ কিমি দক্ষিণ-পশ্চিমে, তাঞ্জাবুর জেলায় অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তিরুজ্ঞান সম্বন্দরের তেবারমে স্তুত। পাথরের মন্দিরটি চোল যুগ ও পরবর্তী কালের, কুম্বকোণম দেশের শিব তীর্থগুলির মধ্যে।",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, গর্ভগৃহে পশুপতীশ্বরর অধিষ্ঠিত, আর দেবী মঙ্গলনায়কী ও পঙ্কজবল্লী পশ্চিমমুখী যমজ গর্ভগৃহে, একটি নন্দী এবং পরিবার দেবতাগণ। প্রাচীরবেষ্টিত প্রাঙ্গণ ও গোপুরম কুম্বকোণমের কাছের শিবমন্দিরগুলির মতোই সাধারণ।",
+    "legends": "প্রভু পশুপতীশ্বরর, 'পশুর প্রভু' রূপে পূজিত, কারণ ব্রহ্মার দ্বারা অভিশপ্ত দিব্য গাভী কামধেনু এখানে এসে প্রভুর পূজা করে তাঁর অভিশাপ থেকে মুক্ত হয়েছিলেন বলে কথিত। যমজ দেবী মঙ্গলনায়কী ও পঙ্কজবল্লী তাঁদের গর্ভগৃহে দাঁড়িয়ে আছেন। পূর্ণাঙ্গ স্থলপুরাণ স্থানীয় ঐতিহ্য ও সম্বন্দরের স্তোত্রে টিকে আছে।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজা সহ পালিত হয়। কুম্বকোণম দেশের তীর্থযাত্রীরা আবুরকে তাঁদের বিরতিস্থলের মধ্যে রাখেন।",
+    "experience": "আবুরে তীর্থযাত্রী কুম্বকোণমের কাছে পশুর প্রভুর কাছে আসেন। পশুপতীশ্বরর ও যমজ দেবীদের সামনে, দর্শনার্থী ব-দ্বীপের এক তেবারম মন্দিরের নিস্তব্ধ কৃপা এবং অভিশাপ থেকে মুক্ত কামধেনুর স্মৃতি খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Avur lies about 12 km south-west of Kumbakonam, in Thanjavur district. Kumbakonam is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "সাধারণত বাইরের অলিন্দে ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "আবুর কুম্বকোণম থেকে প্রায় ১২ কিমি দক্ষিণ-পশ্চিমে, তাঞ্জাবুর জেলায় অবস্থিত। কুম্বকোণম নিকটতম শহর ও রেলস্টেশন, সেখান থেকে গ্রামে বাস ও ট্যাক্সি যায়।"
   }
 }

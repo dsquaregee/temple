@@ -1,30 +1,37 @@
 {
   "id": "pallavaneswarar-tiruppallavaneecharam",
   "locale": "bn",
+  "name": "পল্লবনেশ্বর মন্দির, পুম্পুহার",
   "nativeName": "பல்லவனேசுவரர் கோயில்",
+  "deity": "শিব পল্লবনেশ্বর রূপে, দেবী সৌন্দর্যনায়কী সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Poompuhar",
-    "state": "Tamil Nadu",
+    "city": "পুম্পুহার",
+    "state": "তামিলনাড়ু",
     "lat": 11.142,
     "lng": 79.851
   },
+  "period": "চোল বন্দর কাবেরীপুম্পট্টিনমের প্রাচীন শৈব মন্দির, তেবারমে বন্দিত (সপ্তম শতক); পরবর্তী সংযোজনসহ কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল দেশ; পরবর্তী তামিল পৃষ্ঠপোষক (নির্মাতারা দৃঢ়ভাবে সূত্রায়িত নন)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "পল্লবনেশ্বর প্রাচীন কাবেরীপুম্পট্টিনমের শিব মন্দির, তেবারমের তিরুপ্পল্লবনীচরম, কাবেরীর মোহনার নিকটে অবস্থিত এবং সন্ত-কবি পট্টিনাথরের জন্মস্থান হিসেবে স্মরণীয়।",
   "sections": {
-    "history": "Poompuhar, at the mouth of the Kaveri on the Bay of Bengal, was the great port of the early Cholas, known in the old literature as Kaveripoompattinam or Puhar. In the Tevaram hymns its Shiva temple is called Tiruppallavaneecharam, and the child-saint Sambandar sang its praise, which makes it a Paadal Petra Sthalam, counted as the tenth such shrine on the northern bank of the Kaveri. Tradition says a Pallava king worshipped here and found liberation, and from him the Lord took the name Pallavaneswarar. The temple is held to stand on the birthplace of the merchant-saint Pattinathar, so that the shrine has long been remembered as much for his renunciation as for the port that rose and fell around it.",
-    "architecture": "This is a modest, intimate temple facing east beneath a five-tiered rajagopuram, with a single enclosing prakaram and two corridors, and, unusually, no flagstaff. The linga in the sanctum is revered as self-manifested, and the goddess Soundaryanayaki, the beautiful one, has her own shrine. In the prakaram, Murugan stands with his consorts Valli and Deivanai, and the peacock that normally accompanies him is absent. The niches of the sanctum wall hold two forms of Durga, and Ganesha and Chandikeswara are also honoured. A separate shrine to Pattinathar faces north. The sea, which once lapped the old port at the temple's feet, now lies a few kilometres to the east.",
-    "legends": "Several traditions gather here. One tells that Kubera, lord of wealth, and the sage Kalava worshipped Shiva in this place, and that a Pallava king also prayed here and attained liberation. The best loved story is that of Pattinathar. Born in the port to a Shaiva couple, Sivanesar and Gnanakamalambikai, and named Tiruvenkadar, he grew into a wealthy sea-trader. When a chest he took to hold great treasure was opened, it contained only a cake of dung and husk, with a message that not even a broken needle follows one beyond death. Tiruvenkadar understood, gave up his wealth, and walked the roads of the Tamil country as the renunciant Pattinathar, finally attaining liberation at Tiruvottriyur.",
-    "festivals": "The temple's great festival honours the devotee rather than the deity: the twelve-day Pattinathar festival in the month of Aadi, in July or August, is the temple's principal celebration, and no separate Brahmotsavam is held for Shiva himself. Vaikasi Visakam in May or June is observed for Murugan. Maha Shivaratri and the monthly Pradosham are kept as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Poompuhar rewards a slow visit. Come first to the sanctum of Pallavaneswarar and then to the shrine of Soundaryanayaki, and take time in the prakaram to find the peacock-less Murugan and the two Durgas. Many devotees pause at the north-facing shrine of Pattinathar, whose verses on the brevity of worldly wealth seem well placed in this once-wealthy harbour town. Afterward, walk toward the coast where the Kaveri meets the sea, and imagine the ships that once crowded these quays. The temple itself is small and quiet, and rarely crowded outside festival days."
+    "history": "পুম্পুহার, বঙ্গোপসাগরে কাবেরীর মোহনায় অবস্থিত, আদি চোলদের মহান বন্দর ছিল, পুরনো সাহিত্যে কাবেরীপুম্পট্টিনম বা পুহার নামে পরিচিত। তেবারম স্তোত্রে এর শিব মন্দিরকে তিরুপ্পল্লবনীচরম বলা হয়েছে, এবং বালক-সন্ত সম্বন্দর এর প্রশংসা গেয়েছিলেন, যা একে একটি পাড়ল পেট্র স্থলম করে তোলে, কাবেরীর উত্তর তীরে এমন মন্দিরের মধ্যে দশম হিসেবে গণ্য। ঐতিহ্য বলে এক পল্লব রাজা এখানে পূজা করে মুক্তি পেয়েছিলেন, এবং তাঁর থেকেই প্রভু পল্লবনেশ্বর নাম নেন। মন্দিরটি বণিক-সন্ত পট্টিনাথরের জন্মস্থানে দাঁড়িয়ে আছে বলে মনে করা হয়, যাতে মন্দিরটি উত্থান ও পতনপ্রাপ্ত বন্দরের মতোই তাঁর বৈরাগ্যের জন্যও বহুকাল ধরে স্মরণীয়।",
+    "architecture": "এটি একটি বিনম্র, ঘনিষ্ঠ মন্দির, একটি পঞ্চস্তরীয় রাজগোপুরমের নিচে পূর্বমুখী, একটি মাত্র বেষ্টনকারী প্রাকারম ও দুটি করিডোরসহ, এবং অস্বাভাবিকভাবে, কোনো ধ্বজস্তম্ভ নেই। গর্ভগৃহের লিঙ্গটি স্বয়ম্ভূ হিসেবে পূজিত, এবং দেবী সৌন্দর্যনায়কী, সুন্দরীর, তাঁর নিজস্ব মন্দির রয়েছে। প্রাকারমে মুরুগান তাঁর পত্নী বল্লি ও দেইবানৈসহ দাঁড়িয়ে আছেন, এবং সাধারণত তাঁর সঙ্গী ময়ূরটি এখানে অনুপস্থিত। গর্ভগৃহের প্রাচীরের কুলুঙ্গিতে দুর্গার দুটি রূপ রয়েছে, এবং গণেশ ও চণ্ডিকেশ্বরও পূজিত। পট্টিনাথরের একটি পৃথক মন্দির উত্তরমুখী। যে সমুদ্র একদা মন্দিরের পায়ে পুরনো বন্দরকে ছুঁয়ে যেত, তা এখন পূর্বে কয়েক কিলোমিটার দূরে অবস্থিত।",
+    "legends": "এখানে একাধিক ঐতিহ্য একত্রিত হয়। একটি বলে যে সম্পদের প্রভু কুবের এবং ঋষি কলব এই স্থানে শিবের পূজা করেছিলেন, এবং এক পল্লব রাজাও এখানে প্রার্থনা করে মুক্তি লাভ করেছিলেন। সবচেয়ে প্রিয় কাহিনিটি পট্টিনাথরের। এই বন্দরে এক শৈব দম্পতি শিবনেসর ও জ্ঞানকমলাম্বিকৈর ঘরে জন্মগ্রহণ করে তিরুবেঙ্কাডর নাম পেয়ে তিনি এক ধনী সমুদ্র-বণিক হয়ে ওঠেন। যখন তিনি মহান ধনভাণ্ডার রাখতে নেওয়া একটি সিন্দুক খুললেন, তাতে কেবল একটি গোবর ও তুষের পিণ্ড ছিল, সঙ্গে এই বার্তা যে একটি ভাঙা সূচও মৃত্যুর পর কারও সঙ্গী হয় না। তিরুবেঙ্কাডর বুঝলেন, তাঁর সম্পদ ত্যাগ করলেন, এবং সন্ন্যাসী পট্টিনাথর রূপে তামিল দেশের পথে পথে বিচরণ করলেন, অবশেষে তিরুওত্রিয়ূরে মুক্তি লাভ করলেন।",
+    "festivals": "মন্দিরের মহান উৎসব দেবতার চেয়ে ভক্তকে সম্মান জানায়: আড়ি মাসে, জুলাই বা আগস্টে, বারো দিনের পট্টিনাথর উৎসব মন্দিরের প্রধান উদ্‌যাপন, এবং শিবের জন্য পৃথক কোনো ব্রহ্মোৎসবম হয় না। মে বা জুনে বৈকাসি বিসাকম মুরুগানের জন্য পালিত হয়। প্রতিটি শিব মন্দিরের মতো মহা শিবরাত্রি ও মাসিক প্রদোষম পালিত হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন, কারণ এগুলি তামিল পঞ্জিকা অনুসরণ করে।",
+    "experience": "পুম্পুহার ধীরগতির দর্শনের পুরস্কার দেয়। প্রথমে পল্লবনেশ্বরের গর্ভগৃহে এবং তারপর সৌন্দর্যনায়কীর মন্দিরে আসুন, এবং প্রাকারমে ময়ূরবিহীন মুরুগান ও দুই দুর্গাকে খুঁজে নিতে সময় নিন। অনেক ভক্ত পট্টিনাথরের উত্তরমুখী মন্দিরে থামেন, যাঁর পার্থিব সম্পদের ক্ষণস্থায়িত্ব নিয়ে রচিত পদ এই একদা-সমৃদ্ধ বন্দর-শহরে যথাযথ স্থানে বসানো মনে হয়। পরে, যেখানে কাবেরী সমুদ্রে মিলিত হয় সেই উপকূলের দিকে হাঁটুন, এবং কল্পনা করুন সেই জাহাজগুলির যা একদা এই ঘাটগুলিতে ভিড় করত। মন্দিরটি নিজে ছোট ও নিস্তব্ধ, এবং উৎসবের দিন ছাড়া বিরল ভিড়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to around midday and again from late afternoon until about half past seven in the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Poompuhar lies on the Coromandel coast, about 20 km from Sirkazhi and 24 km from Mayiladuthurai, which has the nearest main railway station. Regular buses connect Poompuhar with both towns, and the temple is in the town itself. The nearest airport listed is Tiruchirappalli, so most visitors travel on by road."
+    "timings": "সাধারণত ভোর থেকে প্রায় মধ্যাহ্ন এবং আবার বিকেল গড়িয়ে সন্ধ্যা প্রায় সাড়ে সাতটা পর্যন্ত খোলা থাকে; স্থানীয়ভাবে সময় নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশপথের স্থানে জুতো খুলে রাখা হয়।",
+    "photography": "তামিলনাড়ুর মন্দির-নিয়ম অনুসারে সাধারণত বাইরের করিডোর ও প্রাঙ্গণে ছবি তোলা অনুমোদিত, তবে ভিতরের গর্ভগৃহে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "পুম্পুহার করোমণ্ডল উপকূলে, সিরকড়ি থেকে প্রায় ২০ কিমি ও মায়িলাডুতুরৈ থেকে ২৪ কিমি দূরে, যেখানে নিকটতম প্রধান রেলস্টেশন রয়েছে। নিয়মিত বাস পুম্পুহারকে উভয় শহরের সঙ্গে সংযুক্ত করে, এবং মন্দিরটি শহরের মধ্যেই। তালিকাভুক্ত নিকটতম বিমানবন্দর তিরুচিরাপল্লি, তাই অধিকাংশ দর্শনার্থী সড়কপথে আসেন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/pallavaneswarar-tiruppallavaneecharam.jpg",
