@@ -1,29 +1,36 @@
 {
   "id": "ayavandeeswarar-tirusaathamangai",
   "locale": "bn",
+  "name": "অয়বন্দীশ্বরর মন্দির, তিরুচ্চাত্তমঙ্গৈ (সীয়াত্তমঙ্গৈ)",
   "nativeName": "திருச்சாத்தமங்கை அயவந்தீஸ்வரர் (அயவந்தி) கோயில்",
+  "deity": "শিব অয়বন্দীশ্বরর (অয়বন্তি) রূপে, দেবী মলর্ক্কণ্ণম্মৈ (উভয়-পুষ্প-বিলোচনী)-এর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্‌",
   "location": {
-    "city": "Seeyathamangai, near Nagapattinam",
-    "state": "Tamil Nadu",
+    "city": "সীয়াত্তমঙ্গৈ, নাগাপট্টিনমের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.83,
     "lng": 79.78
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল পাথরের মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "সীয়াত্তমঙ্গৈ, তেবারমের তিরুচ্চাত্তমঙ্গৈ, নাগাপট্টিনমের নিকটে, শিবকে অয়বন্দীশ্বরর রূপে সম্মান করে — মন্দিরটিকে নিজে অয়বন্তি বলা হয় — দেবী মলর্ক্কণ্ণম্মৈ, 'পুষ্পনয়না জননী'-র সঙ্গে। তিরুজ্ঞান সম্বন্দরের দ্বারা স্তুত একটি পাডল পেট্র স্থলম্‌, এটি নাগাপট্টিনম থেকে কুম্বকোণমের পথে নিম্ন কাবেরী দেশের একটি শান্ত ব-দ্বীপ মন্দির।",
   "sections": {
-    "history": "Tirusaathamangai, now the village of Seeyathamangai, lies about 13 km from Nagapattinam on the Nagapattinam–Nagore–Kumbakonam road, near the Nagapattinam–Tiruvarur boundary (one listing gives Nannilam taluk, Tiruvarur district). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The temple is locally known as Ayavanthi, and the stone shrine is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Ayavandeeswarar in the sanctum, with the goddess Malarkkannammai — also Irumalarkannammai, and in Sanskrit Ubaya-Pushpa-Vilochani, 'she of the two flower-eyes' — in her own shrine, a Nandi and the parivara devatas. The temple keeps the simple, well-ordered plan of the smaller Kaveri-country sanctuaries.",
-    "legends": "The goddess's names all turn on the beauty of her eyes: Malarkkannammai and Irumalarkannammai in Tamil, Ubaya-Pushpa-Vilochani in Sanskrit, each meaning 'she whose two eyes are like flowers.' This tender image is the devotional heart of the shrine. As with many smaller delta temples, the fuller sthala purana is preserved chiefly in the local tradition and in Sambandar's Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail between Nagapattinam and Kumbakonam include Seeyathamangai among their stops.",
-    "experience": "At Seeyathamangai the pilgrim comes to a gentle delta shrine, the Ayavanthi, loved above all for its flower-eyed goddess. Before Ayavandeeswarar and Malarkkannammai, the visitor finds the unhurried grace of a small Tevaram temple on the quiet road from Nagapattinam to the Kaveri country."
+    "history": "তিরুচ্চাত্তমঙ্গৈ, বর্তমানে সীয়াত্তমঙ্গৈ গ্রাম, নাগাপট্টিনম থেকে প্রায় ১৩ কিমি দূরে নাগাপট্টিনম–নাগোর–কুম্বকোণম্‌ সড়কের উপর, নাগাপট্টিনম–তিরুবারুর সীমানার কাছে অবস্থিত (একটি তালিকায় নান্নিলম্‌ তালুক, তিরুবারুর জেলা উল্লেখ করা হয়েছে)। এটি একটি পাডল পেট্র স্থলম্‌, তেবারমে তিরুজ্ঞান সম্বন্দরের দ্বারা স্তুত। মন্দিরটি স্থানীয়ভাবে অয়বন্তি নামে পরিচিত, এবং পাথরের মন্দিরটি চোল যুগের ও পরবর্তী।",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, এটি গর্ভগৃহে অয়বন্দীশ্বররকে প্রতিষ্ঠিত করে, দেবী মলর্ক্কণ্ণম্মৈ — ইরুমলর্ক্কণ্ণম্মৈ নামেও, এবং সংস্কৃতে উভয়-পুষ্প-বিলোচনী, 'যাঁর দুই পুষ্পনয়না' — তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণসহ। মন্দিরটি ছোট কাবেরী-দেশীয় অভয়ারণ্যগুলির সরল, সুবিন্যস্ত পরিকল্পনা রক্ষা করে।",
+    "legends": "দেবীর সমস্ত নামই তাঁর চোখের সৌন্দর্যকে ঘিরে: তামিলে মলর্ক্কণ্ণম্মৈ ও ইরুমলর্ক্কণ্ণম্মৈ, সংস্কৃতে উভয়-পুষ্প-বিলোচনী, প্রতিটির অর্থ 'যাঁর দুই চোখ ফুলের মতো'। এই কোমল চিত্রই মন্দিরের ভক্তির হৃদয়। বহু ছোট ব-দ্বীপ মন্দিরের মতো, পূর্ণাঙ্গ স্থলপুরাণ মূলত স্থানীয় ঐতিহ্যে ও সম্বন্দরের তেবারম শ্লোকে সংরক্ষিত।",
+    "festivals": "মন্দিরটি মাসিতে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈর সোমবারগুলি পালন করে, প্রদোষ পূজাসহ, একটি গ্রাম্য মন্দিরের শান্ত পরিসরে। নাগাপট্টিনম ও কুম্বকোণমের মধ্যে পাডল পেট্র পথের তীর্থযাত্রীরা সীয়াত্তমঙ্গৈকে তাঁদের বিরতির মধ্যে অন্তর্ভুক্ত করেন।",
+    "experience": "সীয়াত্তমঙ্গৈতে তীর্থযাত্রী একটি কোমল ব-দ্বীপ মন্দিরে আসেন, অয়বন্তি, সর্বোপরি তার পুষ্পনয়না দেবীর জন্য প্রিয়। অয়বন্দীশ্বরর ও মলর্ক্কণ্ণম্মৈর সামনে, দর্শনার্থী নাগাপট্টিনম থেকে কাবেরী দেশের শান্ত পথে একটি ছোট তেবারম মন্দিরের নিরুদ্বিগ্ন মাধুর্য খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Seeyathamangai is about 13 km from Nagapattinam on the Nagapattinam–Nagore–Kumbakonam road, near the Nagapattinam–Tiruvarur boundary (one listing gives Nannilam taluk). Nagapattinam is the nearest major rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশদ্বারে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের করিডরে সাধারণত আলোকচিত্র গ্রহণের অনুমতি থাকে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "সীয়াত্তমঙ্গৈ নাগাপট্টিনম থেকে প্রায় ১৩ কিমি দূরে নাগাপট্টিনম–নাগোর–কুম্বকোণম্‌ সড়কের উপর, নাগাপট্টিনম–তিরুবারুর সীমানার কাছে অবস্থিত (একটি তালিকায় নান্নিলম্‌ তালুক উল্লেখ করা হয়েছে)। নাগাপট্টিনম নিকটতম প্রধান রেলপ্রধান, গ্রামে বাস ও ট্যাক্সিসহ।"
   }
 }
