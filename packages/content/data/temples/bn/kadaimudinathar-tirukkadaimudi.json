@@ -1,29 +1,36 @@
 {
   "id": "kadaimudinathar-tirukkadaimudi",
   "locale": "bn",
+  "name": "কডৈমুডিনাথর মন্দির, তিরুক্কডৈমুডি",
   "nativeName": "கடைமுடிநாதர் கோயில்",
+  "deity": "কডৈমুডিনাথর (অন্থি সম্রক্ষণীশ্বর) রূপে শিব, দেবী অভিরামী (অভিরামবল্লী)-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Keezhaiyur",
-    "state": "Tamil Nadu",
+    "city": "কীঝৈয়ুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.07,
     "lng": 79.77
   },
+  "period": "চোল দেশের প্রাচীন শৈব মন্দির, তেবারমে (সপ্তম শতাব্দী) স্তুত; মধ্যযুগ ও পরবর্তী কালে রক্ষিত মন্দির",
   "century": 7,
+  "dynasty": "মধ্যযুগীয় চোল-দেশের পৃষ্ঠপোষক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কডৈমুডিনাথর হলেন তিরুক্কডৈমুডির শিব, কাবেরীর উত্তরে কীঝৈয়ুরের তেবারম মন্দির, ব্রহ্মার কিংবদন্তির জন্য স্মরণীয়, যিনি একটি কিলুবৈ গাছের নিচে একটি লিঙ্গের পূজা করে অভিশাপ থেকে মুক্তি পেয়েছিলেন।",
   "sections": {
-    "history": "Keezhaiyur lies in the Chola country north of the Kaveri, in the Mayiladuthurai region, and its Shiva temple is one of the Paadal Petra Sthalams, sung as Tirukkadaimudi in the Tevaram hymns of Sambandar. The village name is traced to the kiluvai tree beneath which Shiva is said to have appeared, in time softened from Kiluvaiyur to Keezhaiyur. The shrine's own name is explained in more than one way. Some read Kadaimudi as a softened Sadaimudi, the matted locks of Shiva, while the Lord's other name, Anthi Samrakshaneeswarar, speaks of the protector who keeps watch as the day ends. The temple has been tended through the medieval and later centuries; the founding patron is not firmly recorded.",
-    "architecture": "The sanctum of Kadaimudinathar faces west, a less common orientation among Shiva temples, and the goddess Abirami, also called Abhiramavalli, is likewise enshrined in a west-facing shrine of her own. Around the main sanctum are shrines to Nataraja, to Bhairava and to the Tevaram saints who carried the Shaiva faith into Tamil song. The plan follows the familiar Dravidian scheme of enclosure, sanctum and goddess shrine, kept up by the devotion of the village rather than by any royal monument. Finer details of its towers and halls were not verified.",
-    "legends": "The sthala purana tells of Brahma, cursed by Shiva for his pride, who came in search of release. Beneath a kiluvai tree he found a self-manifested lingam and worshipped it with devotion until the burden of the curse was lifted; the tree is said to have given the place its name. A second memory belongs to the sage Kanva, who worshipped the Lord here and bathed in the nearby Kaveri. The spot where he is remembered to have attained liberation is still called Kanva Mahan Thurai. Together the stories speak of a Lord who receives the proud once they bow, and who is found simply, beneath a tree, by those who seek him.",
-    "festivals": "The two principal festivals are Arudra Darisanam, honouring Nataraja in the month of Margazhi (December or January), and Karthikai Deepam, when lamps are lit in the month of Karthikai (November or December). Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Come to Keezhaiyur for the stillness of a Tevaram village rather than for crowds. The west-facing sanctum draws the devotee into a different rhythm of approach, and many pause at the shrines of Nataraja and Bhairava before turning to the goddess Abirami in her own west-facing sanctuary. Those who know the legend of Brahma often sit a while beneath the temple's trees, thinking of the kiluvai under which the Lord first revealed himself. The temple is a short way from the village bus stop, and the surrounding countryside near the Kaveri adds to the quiet."
+    "history": "কীঝৈয়ুর কাবেরীর উত্তরে চোল দেশে, ময়িলাডুতুরৈ অঞ্চলে অবস্থিত, এবং এর শিব মন্দির একটি পাডল পেট্র স্থলম, সম্বন্দরের তেবারম স্তোত্রে তিরুক্কডৈমুডি রূপে স্তুত। গ্রামের নাম সেই কিলুবৈ গাছ থেকে খুঁজে পাওয়া যায় যার নিচে শিব আবির্ভূত হয়েছিলেন বলে কথিত, কালক্রমে কিলুবৈয়ুর থেকে নরম হয়ে কীঝৈয়ুর হয়েছে। মন্দিরের নিজস্ব নাম একাধিকভাবে ব্যাখ্যাত। কেউ কেউ কডৈমুডিকে সডৈমুডির নরম রূপ হিসেবে পড়েন, শিবের জটাজূট, আর প্রভুর অন্য নাম অন্থি সম্রক্ষণীশ্বর সেই রক্ষকের কথা বলে যিনি দিন শেষ হওয়ার সময় পাহারা দেন। মন্দিরটি মধ্যযুগ ও পরবর্তী শতাব্দীজুড়ে পরিচর্যা পেয়েছে; প্রতিষ্ঠাতা পৃষ্ঠপোষক দৃঢ়ভাবে লিপিবদ্ধ নয়।",
+    "architecture": "কডৈমুডিনাথরের গর্ভগৃহ পশ্চিমমুখী, শিব মন্দিরগুলির মধ্যে একটি কম প্রচলিত অভিমুখ, এবং দেবী অভিরামী, যাঁকে অভিরামবল্লীও বলা হয়, একইভাবে তাঁর নিজস্ব একটি পশ্চিমমুখী মন্দিরে অধিষ্ঠিত। মূল গর্ভগৃহের চারপাশে নটরাজ, ভৈরব এবং শৈব ধর্মকে তামিল সংগীতে বহনকারী তেবারম সাধুগণের মন্দির রয়েছে। বিন্যাসটি প্রাঙ্গণ, গর্ভগৃহ ও দেবী মন্দিরের পরিচিত দ্রাবিড় রীতি অনুসরণ করে, যা কোনো রাজকীয় স্মারকের দ্বারা নয়, বরং গ্রামের ভক্তির দ্বারা রক্ষিত। এর চূড়া ও কক্ষের সূক্ষ্মতর বিবরণ যাচাই করা যায়নি।",
+    "legends": "স্থলপুরাণ ব্রহ্মার কথা বলে, যাঁকে তাঁর অহংকারের জন্য শিব অভিশাপ দিয়েছিলেন, যিনি মুক্তির অন্বেষণে এসেছিলেন। একটি কিলুবৈ গাছের নিচে তিনি একটি স্বয়ম্ভূ লিঙ্গ খুঁজে পান এবং ভক্তিসহকারে এর পূজা করেন যতক্ষণ না অভিশাপের ভার দূর হয়; গাছটিই স্থানটিকে এর নাম দিয়েছে বলে কথিত। একটি দ্বিতীয় স্মৃতি ঋষি কণ্বের, যিনি এখানে প্রভুর পূজা করেছিলেন ও কাছের কাবেরীতে স্নান করেছিলেন। যে স্থানে তিনি মুক্তি লাভ করেছিলেন বলে স্মরণীয়, তা আজও কণ্ব মহান থুরৈ নামে পরিচিত। একত্রে গল্পগুলি এমন এক প্রভুর কথা বলে যিনি অহংকারীকে নত হওয়ার পর গ্রহণ করেন, এবং যাঁকে সহজে, গাছের নিচে, অন্বেষণকারীরা খুঁজে পান।",
+    "festivals": "দুটি প্রধান উৎসব হল মার্গঝি (ডিসেম্বর বা জানুয়ারি) মাসে নটরাজকে সম্মানকারী আরুদ্র দরিসনম, এবং কার্তিকৈ (নভেম্বর বা ডিসেম্বর) মাসে যখন প্রদীপ জ্বালানো হয় সেই কার্তিকৈ দীপম। মহা শিবরাত্রি ও মাসিক প্রদোষম প্রতিটি শিব মন্দিরের মতোই পালিত হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করুন, কারণ এগুলি তামিল পঞ্জিকা অনুসরণ করে।",
+    "experience": "ভিড়ের জন্য নয়, বরং একটি তেবারম গ্রামের নিস্তব্ধতার জন্য কীঝৈয়ুরে আসুন। পশ্চিমমুখী গর্ভগৃহ ভক্তকে অভিগমনের এক ভিন্ন ছন্দে টেনে নেয়, এবং অনেকে নিজস্ব পশ্চিমমুখী অভয়ারণ্যে দেবী অভিরামীর দিকে ফেরার আগে নটরাজ ও ভৈরবের মন্দিরে থামেন। যাঁরা ব্রহ্মার কিংবদন্তি জানেন তাঁরা প্রায়ই মন্দিরের গাছের নিচে কিছুক্ষণ বসেন, সেই কিলুবৈয়ের কথা ভেবে যার তলায় প্রভু প্রথম আত্মপ্রকাশ করেছিলেন। মন্দিরটি গ্রামের বাসস্টপ থেকে অল্প পথে, এবং কাবেরীর কাছের চারপাশের গ্রামাঞ্চল নিস্তব্ধতা বাড়িয়ে তোলে।"
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again from late afternoon into the evening, with a midday break; published timings differ, so confirm locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Keezhaiyur is in Tharangambadi taluk, Mayiladuthurai district, and is reached by road from Mayiladuthurai or Sirkazhi; the temple stands about 2 km from the Keezhaiyur bus stop. Mayiladuthurai Junction is the nearest major railway station, and Tiruchirappalli is the nearest large airport, well over 100 km away. Hiring a car from Mayiladuthurai or Sirkazhi is the most convenient way to reach the village."
+    "timings": "সাধারণত সকালে কয়েক ঘণ্টা এবং আবার বিকেলের শেষ ভাগ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে, মধ্যাহ্নে বিরতি সহ; প্রকাশিত সময় ভিন্ন, তাই স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন পারম্পরিক পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা থাকবে। প্রবেশপথের বাইরে জুতো রেখে যেতে হবে।",
+    "photography": "তামিলনাড়ু মন্দিরের নিয়ম অনুসারে বাইরের অলিন্দ ও প্রাঙ্গণে সাধারণত আলোকচিত্রের অনুমতি আছে, তবে গর্ভগৃহের ভিতরে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কীঝৈয়ুর ময়িলাডুতুরৈ জেলার তারঙ্গম্বাডি তালুকে অবস্থিত, এবং ময়িলাডুতুরৈ বা সীর্কাঝি থেকে সড়কপথে পৌঁছানো যায়; মন্দিরটি কীঝৈয়ুর বাসস্টপ থেকে প্রায় ২ কিমি দূরে। ময়িলাডুতুরৈ জংশন নিকটতম বড় রেলস্টেশন, এবং তিরুচিরাপল্লি নিকটতম বড় বিমানবন্দর, ১০০ কিমিরও বেশি দূরে। ময়িলাডুতুরৈ বা সীর্কাঝি থেকে গাড়ি ভাড়া করা গ্রামে পৌঁছানোর সবচেয়ে সুবিধাজনক উপায়।"
   }
 }
