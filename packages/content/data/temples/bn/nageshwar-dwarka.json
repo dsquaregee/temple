@@ -1,29 +1,36 @@
 {
   "id": "nageshwar-dwarka",
   "locale": "bn",
+  "name": "নাগেশ্বর জ্যোতির্লিঙ্গ মন্দির, দ্বারকা",
   "nativeName": "श्री नागेश्वर ज्योतिर्लिंग मंदिर",
+  "deity": "শিব নাগেশ্বর রূপে, সর্পদের অধিপতি — দ্বাদশ জ্যোতির্লিঙ্গের অন্যতম",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Near Dwarka",
-    "state": "Gujarat",
+    "city": "দ্বারকার নিকটে",
+    "state": "গুজরাট",
     "lat": 22.336,
     "lng": 69.087
   },
+  "period": "পৌরাণিক ঐতিহ্যে দারুকাবনের একটি জ্যোতির্লিঙ্গ; বর্তমান মন্দিরটি বিংশ শতাব্দীর শেষভাগে পুনর্নির্মিত",
   "century": 20,
+  "dynasty": "ভক্তদের দ্বারা আধুনিক পুনর্নির্মাণ",
+  "style": "আধুনিক উত্তর ভারতীয় (নাগর-অনুপ্রাণিত)",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "দ্বারকা ও বেট দ্বারকার মধ্যবর্তী বায়ুবিক্ষুব্ধ উপকূলীয় পথে, নাগেশ্বর শিবকে সর্পদের অধিপতি রূপে সম্মান জানায়, দারুকাবনের সেই জ্যোতির্লিঙ্গ যেখানে, শিবপুরাণ বলে, তিনি তাঁর ভক্ত সুপ্রিয়াকে উদ্ধার করেছিলেন।",
   "sections": {
-    "history": "The Dvadasha Jyotirlinga Stotram names among the twelve Jyotirlingas \"Nagesha in Darukavana,\" the forest of Daruka, and a long tradition places that forest on the coast of Saurashtra near Dwarka, the city of Krishna. The shrine here stands on the flat, open land between Dwarka and the harbour for Bet Dwarka, and pilgrims to the Char Dham seat of Dwarka have long made it part of their round. The present temple is a modern building, rebuilt by devotees in the late twentieth century around the ancient linga. Devotion to Nageshwara is shared across India: Aundha Nagnath in Maharashtra and Jageshwar in Uttarakhand are also revered by many as the Nageshwar Jyotirlinga, and each is honoured by its own pilgrims.",
-    "architecture": "The temple is a modern structure in a North Indian manner, a pale spired shrine with a pillared hall that leads to the sanctum. The linga is of the stone known as Dwarka shila, marked with small natural discs like chakras, and is honoured as the Lord of Serpents, Shiva who wears the cobra as an ornament. Outside, the grounds are dominated by a great seated image of Shiva about twenty-five metres high, visible across the level countryside long before the temple itself comes into view.",
-    "legends": "The Shiva Purana tells of the demon Daruka, who ruled the forest that bore his name and terrorised the people around it. He seized a devout merchant named Supriya with his companions and held them captive. Unbroken, Supriya led his fellow prisoners in chanting the name of Shiva, and the Lord appeared in their midst, destroyed the demon and freed his devotees. At their prayer he remained in that place as Nageshwara, with the goddess as Nageshwari, to protect all who call on him.",
-    "festivals": "Maha Shivaratri is the great festival, with night-long worship and abhishekam of the linga. The month of Shravan, especially its Mondays, brings a steady stream of pilgrims, many of whom combine the visit with Dwarkadhish and Bet Dwarka. Confirm dates locally.",
-    "experience": "Most pilgrims reach Nageshwar on the road from Dwarka, the giant figure of Shiva rising first over the scrubland. Inside, the hall is quiet and plain, and the linga is bathed and garlanded through the day. Many offer abhishekam here, then continue to Gopi Talav and the boat crossing to Bet Dwarka, completing a day spent between the shrines of Shiva and Krishna."
+    "history": "দ্বাদশ জ্যোতির্লিঙ্গ স্তোত্রম দ্বাদশ জ্যোতির্লিঙ্গের মধ্যে \"দারুকাবনে নাগেশ\", অর্থাৎ দারুকের অরণ্যের নাম উল্লেখ করে, এবং একটি দীর্ঘ ঐতিহ্য সেই অরণ্যকে কৃষ্ণের নগরী দ্বারকার নিকটে সৌরাষ্ট্রের উপকূলে স্থাপন করে। এখানকার পীঠটি দ্বারকা ও বেট দ্বারকার বন্দরের মধ্যবর্তী সমতল, উন্মুক্ত ভূমিতে দাঁড়িয়ে আছে, এবং চার ধামের দ্বারকা পীঠে আসা তীর্থযাত্রীরা দীর্ঘকাল ধরে এটিকে তাঁদের পরিক্রমার অংশ করেছেন। বর্তমান মন্দিরটি একটি আধুনিক নির্মাণ, বিংশ শতাব্দীর শেষভাগে ভক্তদের দ্বারা প্রাচীন লিঙ্গকে ঘিরে পুনর্নির্মিত। নাগেশ্বরের প্রতি ভক্তি সমগ্র ভারতে ভাগ করে নেওয়া হয়: মহারাষ্ট্রের ঔন্ধা নাগনাথ এবং উত্তরাখণ্ডের জাগেশ্বরকেও বহু মানুষ নাগেশ্বর জ্যোতির্লিঙ্গ রূপে শ্রদ্ধা করেন, এবং প্রতিটি নিজ নিজ তীর্থযাত্রীদের দ্বারা সম্মানিত।",
+    "architecture": "মন্দিরটি উত্তর ভারতীয় রীতিতে একটি আধুনিক কাঠামো, একটি ফ্যাকাশে চূড়াযুক্ত পীঠ যার স্তম্ভযুক্ত মণ্ডপ গর্ভগৃহে নিয়ে যায়। লিঙ্গটি দ্বারকা শিলা নামে পরিচিত পাথরের, যাতে চক্রের মতো ছোট ছোট প্রাকৃতিক চাকতি অঙ্কিত, এবং এটি সর্পদের অধিপতি রূপে সম্মানিত, সেই শিব যিনি সাপকে অলঙ্কার রূপে ধারণ করেন। বাইরে, প্রাঙ্গণটি প্রায় পঁচিশ মিটার উঁচু শিবের এক বিশাল উপবিষ্ট মূর্তি দ্বারা অধিকৃত, যা মন্দিরটি দৃষ্টিগোচর হওয়ার অনেক আগেই সমতল গ্রামাঞ্চল জুড়ে দেখা যায়।",
+    "legends": "শিবপুরাণ দারুক নামক অসুরের কথা বলে, যে তার নামবাহী অরণ্য শাসন করত এবং তার চারপাশের মানুষদের আতঙ্কিত করত। সে সুপ্রিয় নামক এক ধর্মপরায়ণ বণিককে তার সঙ্গীদের সঙ্গে বন্দী করে রাখে। অবিচল থেকে, সুপ্রিয় তাঁর সহবন্দীদের শিবের নাম জপে নেতৃত্ব দেন, এবং প্রভু তাঁদের মধ্যে আবির্ভূত হয়ে অসুরকে বিনাশ করেন ও তাঁর ভক্তদের মুক্ত করেন। তাঁদের প্রার্থনায় তিনি সেই স্থানে নাগেশ্বর রূপে, দেবী নাগেশ্বরীর সঙ্গে, যাঁরা তাঁকে ডাকেন তাঁদের সকলকে রক্ষা করতে অবস্থান করেন।",
+    "festivals": "মহাশিবরাত্রি হল মহান উৎসব, যেখানে রাত্রিব্যাপী পূজা এবং লিঙ্গের অভিষেক হয়। শ্রাবণ মাস, বিশেষত এর সোমবারগুলি, তীর্থযাত্রীদের একটি অবিচ্ছিন্ন স্রোত নিয়ে আসে, যাঁদের অনেকে এই দর্শনকে দ্বারকাধীশ ও বেট দ্বারকার সঙ্গে যুক্ত করেন। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "অধিকাংশ তীর্থযাত্রী দ্বারকা থেকে পথ ধরে নাগেশ্বরে পৌঁছান, ঝোপঝাড়ের উপরে প্রথমে উঠে আসে শিবের বিশাল মূর্তি। ভিতরে মণ্ডপটি শান্ত ও সরল, এবং লিঙ্গটি সারাদিন ধরে স্নান করিয়ে মালা দিয়ে সাজানো হয়। অনেকে এখানে অভিষেক নিবেদন করেন, তারপর গোপী তালাভ ও বেট দ্বারকার নৌকা পারাপারের দিকে এগিয়ে যান, শিব ও কৃষ্ণের পীঠগুলির মধ্যে কাটানো একটি দিন সম্পূর্ণ করেন।"
   },
   "visit": {
-    "timings": "Open daily from early morning to evening, with a midday pause; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering.",
-    "photography": "Photography is generally not permitted inside the sanctum; the statue and grounds may usually be photographed. Follow posted rules and staff guidance.",
-    "gettingThere": "Nageshwar is about 16 km from Dwarka in Devbhumi Dwarka district, Gujarat, on the road towards Okha and Bet Dwarka. Dwarka has the nearest railway station; the nearest airports are Porbandar (about 100 km) and Jamnagar (about 130 km)."
+    "timings": "প্রতিদিন ভোর থেকে সন্ধ্যা পর্যন্ত খোলা, দুপুরে একটি বিরতিসহ; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে পাদুকা খুলে রাখতে হয়।",
+    "photography": "গর্ভগৃহের ভিতরে সাধারণত আলোকচিত্র গ্রহণ অনুমোদিত নয়; মূর্তি ও প্রাঙ্গণের ছবি সাধারণত তোলা যায়। টাঙানো নিয়ম ও কর্মীদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "নাগেশ্বর গুজরাটের দেবভূমি দ্বারকা জেলায় দ্বারকা থেকে প্রায় ১৬ কিলোমিটার দূরে, ওখা ও বেট দ্বারকার পথে। দ্বারকায় নিকটতম রেলস্টেশন রয়েছে; নিকটতম বিমানবন্দর পোরবন্দর (প্রায় ১০০ কিমি) এবং জামনগর (প্রায় ১৩০ কিমি)।"
   }
 }

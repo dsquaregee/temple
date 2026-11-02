@@ -1,33 +1,40 @@
 {
   "id": "simhachalam-narasimha",
   "locale": "bn",
+  "name": "সিংহাচলম মন্দির",
   "nativeName": "సింహాచలం వరాహ లక్ష్మీ నరసింహ స్వామి ఆలయం",
+  "deity": "বিষ্ণু বরাহ লক্ষ্মী নৃসিংহ রূপে",
+  "tradition": "বৈষ্ণব ধর্ম",
   "location": {
-    "city": "Visakhapatnam",
-    "state": "Andhra Pradesh",
+    "city": "বিশাখাপত্তনম",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 17.7665,
     "lng": 83.2506
   },
+  "period": "ত্রয়োদশ শতক (পূর্ব গঙ্গ), প্রাচীনতর ভিত্তির উপর",
   "century": 13,
+  "dynasty": "পূর্ব গঙ্গ, পূর্ববর্তী চোল যুগের দানসহ",
+  "style": "কলিঙ্গ ও দ্রাবিড়",
   "unesco": false,
   "circuits": [],
+  "summary": "বিশাখাপত্তনমের উপরে এক পাহাড়ে, সিংহাচলম বিষ্ণুকে বরাহ নৃসিংহের বিরল সম্মিলিত রূপে — বরাহ ও নরসিংহ একসঙ্গে — প্রতিষ্ঠিত করেছে, এমন এক দেবতা যিনি সারা বছর চন্দনলেপে আবৃত থাকেন, বছরে কেবল একটি দিনই তাঁর প্রকৃত রূপে প্রকাশিত হন।",
   "sections": {
-    "history": "Simhachalam’s inscriptions reach back to the eleventh century, and the temple as it stands was largely built and endowed under the Eastern Ganga kings of Kalinga in the thirteenth century, notably Narasimha Deva I, with gifts recorded from many later dynasties. Its position on a forested hill above the Bay of Bengal coast made it a great regional pilgrimage, and centuries of royal patronage left it richly endowed. The temple blends the Kalinga architecture of the east coast with southern Dravidian elements, a meeting of traditions fitting its border position.",
-    "architecture": "The hilltop temple is entered through a pillared complex culminating in the sanctum of Varaha Narasimha. Almost uniquely, the presiding image is kept permanently coated in a thick layer of sandalwood paste, giving it a smooth lingam-like shape, so that the god’s actual form — the boar-faced, lion-clawed deity — is unseen for all but one day of the year. A finely carved sixteen-pillared and a ninety-six-pillared mandapa, a stone chariot, and the shrine of the goddess complete a complex whose Kalinga-style tower rises above the wooded slope.",
-    "legends": "Simhachalam’s deity unites the two avatars by which Vishnu saved the boy-devotee Prahlada and his line: Varaha, the boar who lifted the earth, and Narasimha, the man-lion who tore apart the tyrant Hiranyakashipu. Tradition holds that after slaying the demon, the fierce Narasimha was cooled and calmed here, and that Prahlada himself first built the shrine; the perpetual coat of cooling sandal paste is offered, it is said, to soothe the still-fierce god. Only at the Chandanotsavam is the sandal removed and the true form shown.",
-    "festivals": "The great festival is Chandanotsavam on Akshaya Tritiya, in the month of Vaisakha, the one day each year when the sandal coating is removed and the god’s true form (nijaroopa darshanam) is revealed to immense crowds before being coated afresh. Narasimha Jayanti and Kalyanotsavam are also kept with grandeur. Through the rest of the year the god is worshipped in his sandal-smooth form, and the fresh, cool fragrance of sandalwood is inseparable from a visit to the hill.",
-    "experience": "The ascent to Simhachalam, by road or steps up the wooded hill, brings cooler air and the scent of sandalwood growing stronger toward the sanctum. Within, the sandal-coated deity is a smooth, gleaming presence rather than a defined figure, and pilgrims prize the smear of sacred sandal paste given as prasadam. On the single day of Chandanotsavam the crowds are vast and the darshan of the true form intensely moving; on ordinary days the hilltop keeps a green, fragrant calm above the busy port city below."
+    "history": "সিংহাচলমের শিলালিপি একাদশ শতক পর্যন্ত পৌঁছায়, এবং মন্দিরটি যেমন দাঁড়িয়ে আছে তা মূলত ত্রয়োদশ শতকে কলিঙ্গের পূর্ব গঙ্গ রাজাদের, বিশেষত প্রথম নরসিংহ দেবের, অধীনে নির্মিত ও দানে পরিপুষ্ট, পরবর্তী বহু রাজবংশের দান লিপিবদ্ধ সহ। বঙ্গোপসাগরের উপকূলের উপরে এক অরণ্যময় পাহাড়ে এর অবস্থান একে এক মহান আঞ্চলিক তীর্থে পরিণত করেছিল, এবং শতাব্দীজুড়ে রাজকীয় পৃষ্ঠপোষকতা একে সমৃদ্ধভাবে দানে পরিপুষ্ট করে রেখেছে। মন্দিরটি পূর্ব উপকূলের কলিঙ্গ স্থাপত্যকে দক্ষিণী দ্রাবিড় উপাদানের সঙ্গে মিশিয়ে দেয়, যা এর সীমান্তবর্তী অবস্থানের উপযোগী ঐতিহ্যের এক সম্মিলন।",
+    "architecture": "পাহাড়চূড়ার মন্দিরে প্রবেশ করতে হয় একটি স্তম্ভশোভিত প্রাঙ্গণ দিয়ে, যা বরাহ নৃসিংহের গর্ভগৃহে পরিসমাপ্ত হয়। প্রায় অনন্যভাবে, প্রধান মূর্তিটি স্থায়ীভাবে পুরু চন্দনলেপের আস্তরণে আবৃত রাখা হয়, যা একে মসৃণ লিঙ্গসদৃশ আকার দেয়, যাতে ঈশ্বরের প্রকৃত রূপ — বরাহমুখ, সিংহনখর দেবতা — বছরে একটি দিন ছাড়া অদৃশ্য থাকে। একটি সূক্ষ্মভাবে খোদিত ষোড়শ-স্তম্ভের ও ছিয়ানব্বই-স্তম্ভের মণ্ডপ, একটি প্রস্তর রথ এবং দেবীর মন্দির এই প্রাঙ্গণকে সম্পূর্ণ করে, যার কলিঙ্গ-রীতির চূড়া অরণ্যময় ঢালের উপরে উঠে দাঁড়ায়।",
+    "legends": "সিংহাচলমের দেবতা সেই দুটি অবতারকে একত্র করেন যার দ্বারা বিষ্ণু বালক-ভক্ত প্রহ্লাদ ও তাঁর বংশকে রক্ষা করেছিলেন: বরাহ, যে শূকর পৃথিবীকে উদ্ধার করেছিল, এবং নৃসিংহ, যে নরসিংহ অত্যাচারী হিরণ্যকশিপুকে বিদীর্ণ করেছিল। ঐতিহ্য বলে যে অসুর বধের পর উগ্র নৃসিংহকে এখানে শীতল ও শান্ত করা হয়েছিল, এবং স্বয়ং প্রহ্লাদই প্রথম এই মন্দির নির্মাণ করেছিলেন; শীতলকারী চন্দনলেপের চিরস্থায়ী আবরণ, কথিত আছে, এখনও-উগ্র দেবতাকে প্রশমিত করতে নিবেদিত হয়। কেবল চন্দনোৎসবমের সময়েই চন্দন অপসারণ করা হয় এবং প্রকৃত রূপ প্রদর্শিত হয়।",
+    "festivals": "মহান উৎসব হলো বৈশাখ মাসে অক্ষয় তৃতীয়ায় চন্দনোৎসবম, বছরে সেই একটি দিন যখন চন্দনের আবরণ অপসারণ করা হয় এবং ঈশ্বরের প্রকৃত রূপ (নিজরূপ দর্শনম) বিপুল জনতার সামনে প্রকাশিত হয়, পুনরায় লেপনের আগে। নৃসিংহ জয়ন্তী ও কল্যাণোৎসবমও মহাসমারোহে পালিত হয়। বছরের বাকি সময় ঈশ্বর তাঁর চন্দন-মসৃণ রূপে পূজিত হন, এবং চন্দনের সতেজ, শীতল সুবাস পাহাড়ে এক পরিদর্শনের অবিচ্ছেদ্য অঙ্গ।",
+    "experience": "সিংহাচলমে আরোহণ, সড়কপথে বা অরণ্যময় পাহাড়ে সিঁড়ি বেয়ে, শীতলতর বাতাস এবং গর্ভগৃহের দিকে ক্রমবর্ধমান চন্দনের সুবাস নিয়ে আসে। ভেতরে, চন্দন-লিপ্ত দেবতা এক সুনির্দিষ্ট আকৃতির চেয়ে বরং এক মসৃণ, উজ্জ্বল উপস্থিতি, এবং তীর্থযাত্রীরা প্রসাদ রূপে দেওয়া পবিত্র চন্দনলেপের প্রলেপকে মূল্যবান মনে করেন। চন্দনোৎসবমের একক দিনে জনতা বিপুল এবং প্রকৃত রূপের দর্শন গভীরভাবে হৃদয়স্পর্শী; সাধারণ দিনে পাহাড়চূড়া নিচে ব্যস্ত বন্দরনগরীর উপরে এক সবুজ, সুরভিত প্রশান্তি বজায় রাখে।"
   },
   "visit": {
-    "timings": "Generally open from around 7:00 am to 8:00 pm daily with several sevas; hours and access change greatly on Chandanotsavam and other festival days.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed at the temple.",
-    "photography": "Photography is generally not permitted inside the sanctum; follow posted rules and staff guidance.",
-    "gettingThere": "Simhachalam is about 16 km from Visakhapatnam city, which has a major railway junction and an airport; the hill temple is reached by road, with steps for those who wish to climb."
+    "timings": "সাধারণত প্রতিদিন সকাল প্রায় ৭টা থেকে রাত ৮টা পর্যন্ত খোলা, বিভিন্ন সেবা সহ; চন্দনোৎসবম ও অন্যান্য উৎসবের দিনে সময় ও প্রবেশাধিকার ব্যাপকভাবে পরিবর্তিত হয়।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢেকে; মন্দিরে পাদুকা খুলে রাখতে হয়।",
+    "photography": "গর্ভগৃহের ভেতরে ছবি তোলা সাধারণত অনুমোদিত নয়; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "সিংহাচলম বিশাখাপত্তনম শহর থেকে প্রায় ১৬ কিমি দূরে, যেখানে একটি প্রধান রেল সংযোগস্থল ও একটি বিমানবন্দর রয়েছে; পাহাড়ের মন্দিরে সড়কপথে পৌঁছানো যায়, এবং যাঁরা আরোহণ করতে চান তাঁদের জন্য সিঁড়ি রয়েছে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/simhachalam-narasimha.jpg",
     "color": "#5C3A2E",
-    "alt": "Simhachalam Temple",
+    "alt": "সিংহাচলম মন্দির",
     "credit": "Divyapentapalli777 / Wikimedia Commons (CC BY-SA 3.0) · Thesukantapal / Wikimedia Commons (CC BY-SA 4.0) · PVRMurty1944 / Wikimedia Commons (CC0) · Adityamadhav83 / Wikimedia Commons (CC BY-SA 3.0) · eclicks_by_bunny / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
       "avif": "https://media.dsquaregee.com/heroes/simhachalam-narasimha.avif",

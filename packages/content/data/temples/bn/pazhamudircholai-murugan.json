@@ -1,30 +1,37 @@
 {
   "id": "pazhamudircholai-murugan",
   "locale": "bn",
+  "name": "পঝমুদিরচোলৈ মুরুগন মন্দির",
   "nativeName": "பழமுதிர்ச்சோலை முருகன் கோயில்",
+  "deity": "মুরুগন, বল্লী ও দেইবানৈর সঙ্গে পূজিত",
+  "tradition": "কৌমারম, শৈব প্রথার অন্তর্গত মুরুগন পূজা",
   "location": {
-    "city": "Madurai",
-    "state": "Tamil Nadu",
+    "city": "মাদুরাই",
+    "state": "তামিলনাড়ু",
     "lat": 10.0847,
     "lng": 78.2161
   },
+  "period": "প্রাচীন বনকুঞ্জ মন্দির, সঙ্গম কবিতায় স্তুত",
   "century": 9,
+  "dynasty": "পাণ্ড্য ও পরবর্তী",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "arupadai-veedu"
   ],
+  "summary": "মুরুগনের ছয় আবাসের ষষ্ঠ ও শেষতম, পঝমুদিরচোলৈ মাদুরাইয়ের কাছে এক বনাবৃত পাহাড়ের শিখর—এক অরণ্যকুঞ্জ মন্দির যেখানে ভগবান তাঁর দুই পত্নী বল্লী ও দেইবানৈ উভয়ের সঙ্গে পূজিত হন।",
   "sections": {
-    "history": "Pazhamudircholai lies on Solaimalai, a wooded hill among the Alagar range northeast of Madurai, beside the Vaishnava shrine of Alagar. It is the abode with which the Sangam-era Tirumurugatruppadai, the ancient guide-poem to Murugan’s shrines, comes to its close, and it has been revered as the sixth and culminating abode since early times. A grove rather than a grand tower, it keeps something of the old forest sanctity of Murugan worship, close to the springs and greenery of the hill.",
-    "architecture": "True to its name — cholai, a grove; pazham, ripe fruit — the temple sits amid trees on the hillside, a modest shrine framed by forest rather than by soaring gopurams. Murugan is worshipped here with both Valli and Deivanai at his side, a rare completeness among the six abodes. Nearby lie the Noopura Ganga spring and the older Alagar temple below, so that a visit weaves together grove, water, and the green slopes of the Alagar hills.",
-    "legends": "Pazhamudircholai is bound to the beloved story of the poetess Avvaiyar. Resting beneath a fruit tree, she was asked by a cowherd boy whether she wanted “roasted” or “unroasted” fruit; puzzled, she found the boy playing with words on the ripe naval fruit, and realised she had been humbled in wit by Murugan himself in disguise. The tale, cherished across the Tamil land, marks this grove as the abode where the god teaches humility to the wise, and where devotion outreaches learning.",
-    "festivals": "Vaikasi Visakam, the god’s birth star, Skanda Sashti, and Thai Poosam draw pilgrims up the hill, and the temple shares in the festival life of the neighbouring Alagar shrine. As the closing abode of the Arupadai Veedu, it receives many who complete the six-temple pilgrimage here. Kavadi and abhishekam mark the season, and the grove fills with families who climb for darshan and linger by the spring.",
-    "experience": "Reaching Pazhamudircholai is a journey into green: the road climbs through the Alagar hills to a grove where birdsong and the rustle of leaves surround the shrine. After the grandeur of the other abodes, its forest simplicity is a quiet culmination — many who have travelled the six abodes feel the pilgrimage complete here, among trees and spring water. Pilgrims often pause at the Noopura Ganga and the Alagar temple below, so that the visit gathers the god of the hills, his consorts, and the living forest into one unhurried close."
+    "history": "পঝমুদিরচোলৈ অবস্থিত সোলৈমলৈ-তে, মাদুরাইয়ের উত্তর-পূর্বে অলগর পর্বতমালার এক বনাবৃত পাহাড়ে, অলগরের বৈষ্ণব মন্দিরের পাশে। এটি সেই আবাস যেখানে মুরুগনের মন্দিরের প্রাচীন পথনির্দেশিকা-কাব্য, সঙ্গম যুগের তিরুমুরুগাত্রুপ্পডৈ, তার সমাপ্তি ঘটায়, এবং প্রাচীন কাল থেকেই এটি ষষ্ঠ ও চূড়ান্ত আবাস রূপে পূজিত। এক বিশাল গোপুরের বদলে এক কুঞ্জ হওয়ায়, এটি মুরুগন পূজার পুরোনো অরণ্যপবিত্রতার কিছুটা রক্ষা করে, পাহাড়ের ঝরনা ও সবুজের কাছে।",
+    "architecture": "নামের প্রতি সত্য থেকে—চোলৈ, কুঞ্জ; পঝম, পাকা ফল—মন্দিরটি পাহাড়ের ঢালে গাছের মাঝে অবস্থিত, সুউচ্চ গোপুরের বদলে অরণ্য দ্বারা পরিবেষ্টিত এক বিনম্র মন্দির। এখানে মুরুগন বল্লী ও দেইবানৈ উভয়কে পাশে নিয়ে পূজিত হন, ছয় আবাসের মধ্যে এক বিরল পূর্ণতা। কাছেই রয়েছে নূপুর গঙ্গা ঝরনা ও নিচে পুরোনো অলগর মন্দির, যাতে এক দর্শন কুঞ্জ, জল ও অলগর পাহাড়ের সবুজ ঢালকে একসঙ্গে বুনে দেয়।",
+    "legends": "পঝমুদিরচোলৈ কবি অব্বৈয়ারের প্রিয় কাহিনির সঙ্গে জড়িত। এক ফলগাছের নিচে বিশ্রাম নেওয়ার সময় এক রাখাল বালক তাঁকে জিজ্ঞাসা করে তিনি \"সেঁকা\" না \"না-সেঁকা\" ফল চান; বিভ্রান্ত হয়ে তিনি দেখেন বালকটি পাকা নাভল ফল নিয়ে শব্দের খেলা করছে, এবং বুঝতে পারেন ছদ্মবেশে স্বয়ং মুরুগন তাঁর বুদ্ধিতে তাঁকে বিনম্র করেছেন। তামিল ভূমি জুড়ে প্রিয় এই কাহিনি এই কুঞ্জকে সেই আবাস রূপে চিহ্নিত করে যেখানে ভগবান জ্ঞানীদের বিনয় শেখান, এবং যেখানে ভক্তি বিদ্যাকে অতিক্রম করে।",
+    "festivals": "বৈকাসি বিশাকম, ভগবানের জন্মনক্ষত্র, স্কন্দ ষষ্ঠী, এবং থৈ পূসম তীর্থযাত্রীদের পাহাড়ে টেনে আনে, এবং মন্দিরটি প্রতিবেশী অলগর মন্দিরের উৎসব-জীবনে অংশ নেয়। অরুপডৈ বীডুর সমাপনী আবাস হিসেবে, এটি অনেককেই গ্রহণ করে যাঁরা এখানে ছয়-মন্দির তীর্থযাত্রা সম্পন্ন করেন। কাবডি ও অভিষেক ঋতুকে চিহ্নিত করে, এবং কুঞ্জ ভরে ওঠে সেই পরিবারগুলিতে যারা দর্শনের জন্য ওঠে ও ঝরনার পাশে বিলম্ব করে।",
+    "experience": "পঝমুদিরচোলৈ পৌঁছানো সবুজের মধ্যে এক যাত্রা: পথ অলগর পাহাড়ের মধ্য দিয়ে এক কুঞ্জে ওঠে যেখানে পাখির গান ও পাতার মর্মর মন্দিরকে ঘিরে থাকে। অন্য আবাসগুলির জাঁকজমকের পরে, এর অরণ্য-সরলতা এক শান্ত পরিণতি—অনেকেই যাঁরা ছয় আবাস ভ্রমণ করেছেন তাঁরা এখানে, গাছ ও ঝরনার জলের মাঝে, তীর্থযাত্রা সম্পূর্ণ অনুভব করেন। তীর্থযাত্রীরা প্রায়ই নূপুর গঙ্গা ও নিচের অলগর মন্দিরে থামেন, যাতে এই দর্শন পাহাড়ের ভগবান, তাঁর পত্নীগণ ও জীবন্ত অরণ্যকে এক অবিচল সমাপ্তিতে একত্র করে।"
   },
   "visit": {
-    "timings": "Generally open from around 6:00 am to 1:00 pm and 3:00 pm to 8:00 pm daily; hours may vary with the hill road and extend during festivals.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered. Footwear is left at the stands outside.",
-    "photography": "Photography is restricted around the sanctum; follow posted rules and staff guidance, especially during festivals.",
-    "gettingThere": "Pazhamudircholai is about 25 km northeast of Madurai on the Alagar hills, reached by road via Alagar Koyil; Madurai has the nearest railway junction and airport, and local buses serve the hill."
+    "timings": "সাধারণত প্রতিদিন সকাল প্রায় ৬:০০টা থেকে দুপুর ১:০০টা এবং বিকেল ৩:০০টা থেকে রাত ৮:০০টা পর্যন্ত খোলা; পাহাড়ি পথের সঙ্গে সময় বদলাতে পারে এবং উৎসবকালে বাড়তে পারে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি বা সালোয়ার কামিজ, কাঁধ ও হাঁটু ঢাকা। জুতো বাইরের স্ট্যান্ডে রাখা হয়।",
+    "photography": "গর্ভগৃহের চারপাশে ছবি তোলা সীমিত; বিশেষত উৎসবকালে প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "পঝমুদিরচোলৈ মাদুরাই থেকে অলগর পাহাড়ে প্রায় ২৫ কিমি উত্তর-পূর্বে, অলগর কোইল হয়ে সড়কপথে পৌঁছানো যায়; নিকটতম রেল জংশন ও বিমানবন্দর মাদুরাইয়ে, এবং স্থানীয় বাস পাহাড়ে যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/pazhamudircholai-murugan.jpg",

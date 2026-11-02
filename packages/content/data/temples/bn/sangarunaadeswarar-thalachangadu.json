@@ -1,29 +1,36 @@
 {
   "id": "sangarunaadeswarar-thalachangadu",
   "locale": "bn",
+  "name": "সঙ্করণ্যেশ্বর মন্দির, তিরুত্তলৈচ্চঙ্গাডু",
   "nativeName": "திருத்தலைச்சங்காடு சங்காரண்யேஸ்வரர் கோயில்",
+  "deity": "শিব সঙ্করণ্যেশ্বর রূপে (সোমাস্কন্দ রূপে), দেবী সৌন্দর নায়কী (বৃহৎ সুন্দরাম্বিকাই) সহ",
+  "tradition": "শৈব — একটি পাডল পেত্র স্থলম",
   "location": {
-    "city": "Thalaichangadu, near Poompuhar",
-    "state": "Tamil Nadu",
+    "city": "তলৈচ্চঙ্গাডু, পুম্পুহারের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 11.1244,
     "lng": 79.7944
   },
+  "period": "তেবারম যুগ (৭ম শতকে কীর্তিত); ঐতিহ্যগতভাবে কোচেঙ্গট চোল প্রতিষ্ঠিত, পরবর্তী চোল কাঠামো",
   "century": 7,
+  "dynasty": "চোল (ঐতিহ্যগতভাবে কোচেঙ্গট চোল)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ব-দ্বীপ উপকূলে পুম্পুহারের নিকটে তলৈচ্চঙ্গাডু শিবকে সঙ্করণ্যেশ্বর রূপে সম্মান করে, যিনি সোমাস্কন্দ রূপে পূজিত, দেবী সৌন্দর নায়কী সহ। তিরুজ্ঞান সম্বন্দরের দ্বারা কীর্তিত একটি পাডল পেত্র স্থলম, এর মহৎ কিংবদন্তি বলে যে বিষ্ণু এখানে শিবের উপাসনা করে তাঁর শঙ্খ পাঞ্চজন্য লাভ করেছিলেন — এমন এক কাহিনী যা স্থানটিকে 'শঙ্খের মস্তকের বন' নাম দিয়েছে এবং তার পবিত্র সঙ্গু তীর্থম কুণ্ডও দিয়েছে।",
   "sections": {
-    "history": "Thalaichangadu, in the Tharangambadi taluk near Poompuhar, is a Paadal Petra Sthalam of the Kaveri's southern bank, its Shiva hymned in the Tevaram by Tirugnana Sambandar; by one reckoning it is the shrine counted among those of the lower delta coast. Temple tradition ascribes its founding to the Chola king Kochengat Chola, with the stone structure of the Chola period and later. A Vishnu temple nearby, Thalai Sanga Nanmathiyam, is a Divya Desam, and the two shrines share a single sthala legend.",
-    "architecture": "The temple is a Dravidian coastal shrine with Sankaranyeswarar in the sanctum, worshipped in the Somaskanda form (Shiva with Uma and Skanda), and the goddess Soundara Nayaki — also called Bruhath Sundarambikai — in her own shrine. The sacred tank is the Sangu Theertham, 'the tank of the conch,' and the sthala vriksham is the purasu (flame-of-the-forest). A Nandi and the parivara devatas complete the plan.",
-    "legends": "The great legend of the place tells that Vishnu worshipped Shiva here with deep devotion, and that from this worship he received the Panchajanya, his divine conch (sangu). From the conch — sangu — and its head — talai — the village takes its name, Thalaichangadu, and its tank is the Sangu Theertham. The puranam is bound to that of the Valampuranathar temple at nearby Melaperumpallam, where the conch's turning is remembered, and to the Divya Desam of Thalai Sanga Nanmathiyam close by.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. As a coastal delta shrine linked to a Divya Desam, it draws both Shaiva and Vaishnava pilgrims who honour the legend of the conch.",
-    "experience": "Thalaichangadu offers the pilgrim a rare coastal shrine where the stories of Shiva and Vishnu meet. Before Sankaranyeswarar in his Somaskanda grace and Soundara Nayaki, beside the Sangu Theertham and within sight of the Divya Desam, the visitor stands at the 'forest of the conch,' where Vishnu is said to have won his Panchajanya — a place layered with the devotion of two great traditions."
+    "history": "পুম্পুহারের নিকটে তারঙ্গম্বাডি তালুকে অবস্থিত তলৈচ্চঙ্গাডু কাবেরীর দক্ষিণ তীরের একটি পাডল পেত্র স্থলম, এর শিব তিরুজ্ঞান সম্বন্দর কর্তৃক তেবারমে কীর্তিত; এক গণনা অনুসারে এটি নিম্ন ব-দ্বীপ উপকূলের মন্দিরগুলির মধ্যে গণ্য। মন্দিরের ঐতিহ্য এর প্রতিষ্ঠা চোল রাজা কোচেঙ্গট চোলকে আরোপ করে, পাথরের কাঠামো চোল যুগের ও পরবর্তী। নিকটবর্তী এক বিষ্ণু মন্দির, তলৈ সঙ্গ নান্মাতিয়ম, একটি দিব্য দেশম, এবং দুটি মন্দির একই স্থল-কিংবদন্তি ভাগ করে নেয়।",
+    "architecture": "মন্দিরটি একটি দ্রাবিড় উপকূলীয় মন্দির, গর্ভগৃহে সঙ্করণ্যেশ্বর সোমাস্কন্দ রূপে (উমা ও স্কন্দসহ শিব) পূজিত, এবং দেবী সৌন্দর নায়কী — যিনি বৃহৎ সুন্দরাম্বিকাই নামেও পরিচিত — তাঁর নিজস্ব মন্দিরে। পবিত্র কুণ্ড হল সঙ্গু তীর্থম, 'শঙ্খের কুণ্ড,' এবং স্থলবৃক্ষ হল পুরসু (পলাশ)। একটি নন্দী ও পরিবার দেবতারা পরিকল্পনা সম্পূর্ণ করে।",
+    "legends": "স্থানটির মহৎ কিংবদন্তি বলে যে বিষ্ণু এখানে গভীর ভক্তিতে শিবের উপাসনা করেছিলেন, এবং সেই উপাসনা থেকে তিনি তাঁর দিব্য শঙ্খ পাঞ্চজন্য (সঙ্গু) লাভ করেন। শঙ্খ — সঙ্গু — ও তার মস্তক — তলৈ — থেকে গ্রামটি তার নাম তলৈচ্চঙ্গাডু লাভ করে, এবং তার কুণ্ড হল সঙ্গু তীর্থম। পুরাণটি নিকটবর্তী মেলাপেরুম্পল্লমের বলম্পুরনাথর মন্দিরের পুরাণের সঙ্গে আবদ্ধ, যেখানে শঙ্খের ঘূর্ণন স্মরণ করা হয়, এবং নিকটবর্তী তলৈ সঙ্গ নান্মাতিয়ম দিব্য দেশমের সঙ্গেও।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি ও কার্তিকাইয়ের সোমবারগুলি পালন করে, প্রদোষ উপাসনা সহ। দিব্য দেশমের সঙ্গে সংযুক্ত একটি উপকূলীয় ব-দ্বীপ মন্দির হিসেবে এটি শৈব ও বৈষ্ণব উভয় তীর্থযাত্রীকে আকর্ষণ করে যাঁরা শঙ্খের কিংবদন্তিকে সম্মান করেন।",
+    "experience": "তলৈচ্চঙ্গাডু তীর্থযাত্রীকে এক বিরল উপকূলীয় মন্দির উপহার দেয় যেখানে শিব ও বিষ্ণুর কাহিনী মিলিত হয়। সঙ্করণ্যেশ্বরের সোমাস্কন্দ কৃপায় ও সৌন্দর নায়কীর সম্মুখে, সঙ্গু তীর্থমের পাশে ও দিব্য দেশমের দৃষ্টিসীমায়, দর্শনার্থী 'শঙ্খের বনে' দাঁড়ান, যেখানে বিষ্ণু তাঁর পাঞ্চজন্য জয় করেছিলেন বলে কথিত — দুই মহান ঐতিহ্যের ভক্তিতে স্তরযুক্ত এক স্থান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thalaichangadu is in Tharangambadi taluk, about 22 km from Mayiladuthurai and 16 km from Sirkazhi, near Poompuhar on the coast. Mayiladuthurai or Sirkazhi are the nearest rail heads, with buses and taxis to the village; the Thalai Sanga Nanmathiyam Divya Desam is less than a kilometre away."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা অবস্থায়; প্রবেশদ্বারে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের করিডরে সাধারণত আলোকচিত্র গ্রহণের অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচারের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তলৈচ্চঙ্গাডু তারঙ্গম্বাডি তালুকে, মায়িলাডুতুরাই থেকে প্রায় ২২ কিমি ও সিরকালি থেকে ১৬ কিমি দূরে, উপকূলে পুম্পুহারের নিকটে। মায়িলাডুতুরাই বা সিরকালি নিকটতম রেলপথ, গ্রামে যাওয়ার বাস ও ট্যাক্সি সহ; তলৈ সঙ্গ নান্মাতিয়ম দিব্য দেশম এক কিলোমিটারেরও কম দূরে।"
   }
 }

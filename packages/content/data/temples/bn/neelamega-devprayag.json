@@ -1,30 +1,37 @@
 {
   "id": "neelamega-devprayag",
   "locale": "bn",
+  "name": "নীলমেঘ পেরুমাল মন্দির, দেবপ্রয়াগ",
   "nativeName": "रघुनाथजी मंदिर, देवप्रयाग",
+  "deity": "বিষ্ণু নীলমেঘ পেরুমাল রূপে, দেবী পুণ্ডরীকবল্লী সহ — স্থানীয়ভাবে রঘুনাথজী, সীতা সহ রাম রূপে পূজিত",
+  "tradition": "বৈষ্ণব",
   "location": {
-    "city": "Devprayag",
-    "state": "Uttarakhand",
+    "city": "দেবপ্রয়াগ",
+    "state": "উত্তরাখণ্ড",
     "lat": 30.146,
     "lng": 78.598
   },
+  "period": "দেবপ্রয়াগ সঙ্গমে বড নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে পেরিয়ালবার দ্বারা গীত",
   "century": 8,
+  "dynasty": "গঢ়বাল অঞ্চল (সিন্ধিয়া যুগে পুনর্নির্মিত)",
+  "style": "উত্তর ভারতীয় নাগর",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "দেবপ্রয়াগে, যেখানে ভাগীরথী ও অলকানন্দা মিলে গঙ্গা হয়, সেখানে বিষ্ণু নীলমেঘ পেরুমাল ও রঘুনাথজী রূপে পূজিত — পেরিয়ালবার দ্বারা গীত উত্তরের একটি দিব্য দেশম।",
   "sections": {
-    "history": "Devprayag, in Uttarakhand's Tehri Garhwal district, is the sacred confluence where the Bhagirathi and the Alaknanda meet and the river takes the name Ganga. Here, in Vada Nadu, the northern country of the Divya Desams, stands one of the 108 abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham. Periyalvar praised it as Kandam Enum Kadinagar, the strong city called Kandam. Sri Vaishnavas honour the lord as Neelamegha Perumal with the Thayar Pundarikavalli, while the people of the hills know him as Raghunathji, Rama with Sita. Tradition credits the founding to Adi Shankara in the eighth century, and the present temple is said to have been rebuilt by Daulat Rao Scindia after earthquake damage.",
-    "architecture": "The stone temple stands above the confluence and is approached by a flight of steps from the water's edge. Its tall tower rises in the north Indian Nagara manner, a world away from the gateway towers of the southern Divya Desams. The sanctum's vimana is known as the Mangala Vimana, and the sacred water as the Mangala Theertham. The finest architecture here is the setting itself: two Himalayan rivers meeting below the hillside.",
-    "legends": "Tradition holds that Rama performed penance at this spot after the war in Lanka, which is why the lord is worshipped here as Raghunathji. The town is said to be named after the sage Deva Sharma, and the sangam itself, where two rivers become the Ganga, is held especially sacred. For Sri Vaishnavas this is the Divya Desam where Periyalvar's decad on Kandam is remembered, a rare northern voice in a Prabandham otherwise rooted in the Tamil country.",
-    "festivals": "Ram Navami is the great day here, with other festivals of Rama kept through the year, and Vaikunta Ekadashi is observed by Sri Vaishnava pilgrims. Bathing at the sangam is part of every visit. Confirm festival dates locally.",
-    "experience": "Allow time to descend the steps to the confluence, where the two rivers can be seen meeting, before climbing to the sanctum. Many pilgrims on the Badrinath road stop here. Expect mountain weather and keep to the quiet, devotional pace of the riverside."
+    "history": "উত্তরাখণ্ডের টিহরি গঢ়বাল জেলার দেবপ্রয়াগ সেই পবিত্র সঙ্গম যেখানে ভাগীরথী ও অলকানন্দা মিলিত হয় এবং নদী গঙ্গা নাম ধারণ করে। এখানে, দিব্য দেশমসমূহের উত্তরাঞ্চল বড নাড়ুতে, নালায়িরা দিব্য প্রবন্ধমে আলবারগণ দ্বারা গীত বিষ্ণুর ১০৮ ধামের একটি অবস্থিত। পেরিয়ালবার একে কণ্ডম এনুম কডিনগর, অর্থাৎ কণ্ডম নামের শক্তিশালী নগরী রূপে স্তব করেছেন। শ্রীবৈষ্ণবরা প্রভুকে নীলমেঘ পেরুমাল রূপে থায়ার পুণ্ডরীকবল্লীর সঙ্গে সম্মান করেন, আর পাহাড়ের মানুষ তাঁকে রঘুনাথজী, সীতা সহ রাম রূপে জানেন। ঐতিহ্য প্রতিষ্ঠার কৃতিত্ব অষ্টম শতাব্দীর আদি শঙ্করকে দেয়, এবং বর্তমান মন্দিরটি ভূমিকম্পে ক্ষতিগ্রস্ত হওয়ার পর দৌলত রাও সিন্ধিয়া কর্তৃক পুনর্নির্মিত বলে কথিত।",
+    "architecture": "প্রস্তর মন্দিরটি সঙ্গমের উপরে দাঁড়িয়ে আছে এবং জলের ধার থেকে একসারি সিঁড়ি বেয়ে পৌঁছানো যায়। এর উঁচু শিখর উত্তর ভারতীয় নাগর রীতিতে উঠে গেছে, দক্ষিণের দিব্য দেশমগুলির গোপুর থেকে সম্পূর্ণ ভিন্ন। গর্ভগৃহের বিমানটি মঙ্গল বিমান নামে পরিচিত এবং পবিত্র জল মঙ্গল তীর্থম। এখানে সর্বোৎকৃষ্ট স্থাপত্য হলো স্থানটি নিজেই: পাহাড়ের নিচে মিলিত হওয়া দুই হিমালয়ী নদী।",
+    "legends": "ঐতিহ্য বলে, লঙ্কায় যুদ্ধের পর রাম এই স্থানে তপস্যা করেছিলেন, সেজন্য এখানে প্রভু রঘুনাথজী রূপে পূজিত। শহরটি ঋষি দেব শর্মার নামে নামাঙ্কিত বলে কথিত, এবং সঙ্গম নিজে, যেখানে দুই নদী গঙ্গা হয়, বিশেষভাবে পবিত্র বলে গণ্য। শ্রীবৈষ্ণবদের কাছে এটি সেই দিব্য দেশম যেখানে পেরিয়ালবারের কণ্ডম সম্পর্কিত পদ স্মরণ করা হয়, এটি তামিল দেশে প্রোথিত প্রবন্ধমে এক বিরল উত্তরীয় কণ্ঠস্বর।",
+    "festivals": "রাম নবমী এখানে মহান দিন, সারা বছর রামের অন্যান্য উৎসব পালিত হয়, এবং শ্রীবৈষ্ণব তীর্থযাত্রীরা বৈকুণ্ঠ একাদশী পালন করেন। সঙ্গমে স্নান প্রতিটি দর্শনের অংশ। উৎসবের তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "গর্ভগৃহে ওঠার আগে সঙ্গমে নেমে যাওয়ার জন্য সময় রাখুন, যেখানে দুই নদীর মিলন দেখা যায়। বদ্রীনাথ পথের অনেক তীর্থযাত্রী এখানে থামেন। পাহাড়ি আবহাওয়ার জন্য প্রস্তুত থাকুন এবং নদীতীরের শান্ত, ভক্তিময় গতি বজায় রাখুন।"
   },
   "visit": {
-    "timings": "The temple opens daily for morning and evening darshan, with a midday closure. Ram Navami and the main pilgrimage season are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Carry warm clothing in the hills and follow the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Devprayag lies on the Rishikesh–Badrinath highway (NH 7), about 70 km from Rishikesh. The nearest railhead is Rishikesh, and the nearest airport is Jolly Grant near Dehradun; the temple is reached by steps above the confluence."
+    "timings": "মন্দিরটি প্রতিদিন সকাল ও সন্ধ্যার দর্শনের জন্য খোলে, দুপুরে বন্ধ থাকে। রাম নবমী ও প্রধান তীর্থযাত্রার মরসুম সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। পাহাড়ে গরম পোশাক সঙ্গে রাখুন এবং পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশেপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "দেবপ্রয়াগ ঋষিকেশ–বদ্রীনাথ মহাসড়কে (এনএইচ ৭), ঋষিকেশ থেকে প্রায় ৭০ কিমি দূরে। নিকটতম রেলস্টেশন ঋষিকেশ, এবং নিকটতম বিমানবন্দর দেরাদুনের কাছে জলি গ্রান্ট; মন্দিরে সঙ্গমের উপরে সিঁড়ি বেয়ে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/neelamega-devprayag.jpg",

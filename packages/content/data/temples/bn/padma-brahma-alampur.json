@@ -1,30 +1,37 @@
 {
   "id": "padma-brahma-alampur",
   "locale": "bn",
+  "name": "পদ্ম ব্রহ্ম মন্দির, অলমপুর",
   "nativeName": "పద్మ బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "শিব, পদ্ম ব্রহ্মেশ্বর রূপে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "অলমপুর",
+    "state": "তেলেঙ্গানা",
     "lat": 15.8779,
     "lng": 78.1344
   },
+  "period": "আদি চালুক্য, সপ্তম–অষ্টম শতক; নবব্রহ্ম গোষ্ঠীর বৃহত্তম পরিকল্পনা",
   "century": 8,
+  "dynasty": "বাদামির চালুক্য",
+  "style": "আদি চালুক্য, উত্তরী (রেখা-নাগর) চূড়া, বর্তমানে ধ্বংসপ্রাপ্ত",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "পদ্ম ব্রহ্ম, 'পদ্ম ব্রহ্মা', অলমপুরের সমস্ত নবব্রহ্ম মন্দিরের মধ্যে বৃহত্তম পরিকল্পনাবিশিষ্ট; এর চূড়া হারিয়ে গেছে, কিন্তু গর্ভগৃহে আজও একটি মসৃণ পাথরের লিঙ্গ রয়েছে যা স্বল্পালোকে দর্পণের মতো ঝলমল করে।",
   "sections": {
-    "history": "Padma Brahma belongs to the Navabrahma group that the Early Chalukyas of Badami raised at Alampur, and on plan it is the largest of the nine, as the Archaeological Survey of India records. No foundation inscription for it is known, and it is usually placed among the later temples of the group, in the seventh to eighth century. Its story since has been one of loss: the curving tower that once rose over the sanctum has fallen, almost all of the sculpture on its facade has been destroyed or carried away, and the building stands today as a partly ruined shell — a measure of how much the precinct suffered in the troubled centuries that followed the fourteenth.",
-    "architecture": "The temple's plan closely follows that of the Vishwa Brahma, with a broad hall opening into the sanctum and a passage for circumambulation enclosing it. Its tower was of the curving northern kind, rising in storeys marked by ribbed amalaka stones at the corners, and survives only in ruin. The sanctum doorway still keeps its river goddesses, Ganga and Yamuna, at either side, and within, the linga is cut from stone polished to a mirror-like finish — the temple's most striking survival.",
-    "legends": "The name Padma Brahma joins the lotus to the creator: in Puranic imagery Brahma is born on a lotus rising from Vishnu's navel, and Alampur's tradition holds that Brahma did penance here and worshipped Shiva in nine forms, one of which this temple remembers. Where so much of the building has been lost, the polished linga gives the dim sanctum a quiet radiance, catching and returning the light of the doorway — a fitting image for a shrine named after the flower that opens to the sun.",
-    "festivals": "Padma Brahma is a protected monument without daily worship or a festival of its own. Visitors come in the greatest numbers at Maha Shivaratri and during Jogulamba's Navaratri and Dasara, when the whole precinct is alive; on ordinary days the temple is usually quiet. Confirm dates locally.",
-    "experience": "Approach Padma Brahma from Swarga Brahma, which stands just in front of it, and compare the two: one keeps its tower and its sculpture, the other chiefly its great plan. Inside, let your eyes adjust before looking at the linga, whose polish is best seen against the light from the door. The scale of the ruined hall gives a sense of how ambitious the Chalukyan builders at Alampur had become."
+    "history": "পদ্ম ব্রহ্ম বাদামির আদি চালুক্যদের দ্বারা অলমপুরে নির্মিত নবব্রহ্ম গোষ্ঠীর অন্তর্গত, এবং পরিকল্পনায় এটি নয়টির মধ্যে বৃহত্তম, যেমন ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ উল্লেখ করেছে। এর কোনো প্রতিষ্ঠালিপি জানা নেই, এবং এটিকে সাধারণত গোষ্ঠীর পরবর্তী মন্দিরগুলির মধ্যে, সপ্তম থেকে অষ্টম শতকে স্থাপন করা হয়। তারপর থেকে এর কাহিনি কেবল ক্ষতির: গর্ভগৃহের উপর একদা উত্থিত বক্র চূড়াটি ভেঙে পড়েছে, এর সম্মুখভাগের প্রায় সমস্ত ভাস্কর্য ধ্বংস বা অপসারিত হয়েছে, এবং ভবনটি আজ আংশিক ধ্বংসাবশেষ হিসেবে দাঁড়িয়ে আছে — চতুর্দশ শতকের পরবর্তী বিশৃঙ্খল শতাব্দীগুলিতে এই চত্বর কতটা ক্ষতিগ্রস্ত হয়েছিল তার এক পরিমাপ।",
+    "architecture": "মন্দিরের পরিকল্পনা বিশ্ব ব্রহ্মের পরিকল্পনাকে ঘনিষ্ঠভাবে অনুসরণ করে, একটি প্রশস্ত মণ্ডপ গর্ভগৃহে উন্মুক্ত হয় এবং এটিকে ঘিরে প্রদক্ষিণের একটি পথ রয়েছে। এর চূড়া ছিল উত্তরী বক্র ধরনের, কোণে পাঁজরযুক্ত আমলক পাথর দিয়ে চিহ্নিত স্তরে উত্থিত, এবং এখন কেবল ধ্বংসাবশেষে টিকে আছে। গর্ভগৃহের দরজায় দুই পাশে নদী-দেবী গঙ্গা ও যমুনা আজও বিরাজমান, এবং ভিতরে, লিঙ্গটি দর্পণের মতো মসৃণ পাথর কেটে নির্মিত — মন্দিরের সবচেয়ে উল্লেখযোগ্য অবশেষ।",
+    "legends": "পদ্ম ব্রহ্ম নামটি পদ্মকে স্রষ্টার সঙ্গে যুক্ত করে: পৌরাণিক কল্পনায় ব্রহ্মা বিষ্ণুর নাভি থেকে উত্থিত পদ্মে জন্মগ্রহণ করেন, এবং অলমপুরের ঐতিহ্য মতে ব্রহ্মা এখানে তপস্যা করেছিলেন এবং নয়টি রূপে শিবের পূজা করেছিলেন, যার একটিকে এই মন্দির স্মরণ করে। যেখানে ভবনের এত অংশ হারিয়ে গেছে, সেখানে মসৃণ লিঙ্গটি ম্লান গর্ভগৃহকে এক শান্ত দীপ্তি দেয়, দরজার আলো ধরে রেখে তা প্রতিফলিত করে — সূর্যের দিকে উন্মুক্ত হওয়া পুষ্পের নামে নামাঙ্কিত এক মন্দিরের জন্য উপযুক্ত এক চিত্র।",
+    "festivals": "পদ্ম ব্রহ্ম একটি সংরক্ষিত স্মৃতিস্তম্ভ, যেখানে দৈনিক পূজা বা নিজস্ব কোনো উৎসব নেই। মহা শিবরাত্রি এবং জোগুলাম্বার নবরাত্রি ও দশরার সময় দর্শনার্থীরা সর্বাধিক সংখ্যায় আসেন, যখন সমগ্র চত্বর প্রাণবন্ত হয়ে ওঠে; সাধারণ দিনে মন্দিরটি সাধারণত নিস্তব্ধ থাকে। স্থানীয়ভাবে তারিখ নিশ্চিত করে নিন।",
+    "experience": "স্বর্গ ব্রহ্মের দিক থেকে পদ্ম ব্রহ্মের কাছে আসুন, যা এর ঠিক সামনে দাঁড়িয়ে আছে, এবং দুটির তুলনা করুন: একটি তার চূড়া ও ভাস্কর্য ধরে রেখেছে, অন্যটি মূলত তার বিশাল পরিকল্পনা। ভিতরে, লিঙ্গটি দেখার আগে চোখকে মানিয়ে নিতে দিন, যার মসৃণতা দরজা থেকে আসা আলোর বিপরীতে সবচেয়ে ভালো দেখা যায়। ধ্বংসপ্রাপ্ত মণ্ডপের বিশালতা অলমপুরের চালুক্য নির্মাতারা কতটা উচ্চাভিলাষী হয়ে উঠেছিলেন তার এক ধারণা দেয়।"
   },
   "visit": {
-    "timings": "Open in daylight hours as an Archaeological Survey of India monument within the Navabrahma precinct; it is not a place of daily worship. Confirm current hours and any ticketing locally.",
-    "dressCode": "No strict dress code applies at the monument, but modest dress is appropriate in this sacred precinct; remove footwear before stepping into the sanctum, and at the active shrines nearby.",
-    "photography": "Photography of the exterior is generally permitted; tripods or professional equipment may need permission from the Archaeological Survey of India. Take care on the uneven ruined floors.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away. The temple stands just behind the Swarga Brahma temple, a short walk from the Bala Brahma and Jogulamba temples."
+    "timings": "নবব্রহ্ম চত্বরের অন্তর্গত ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণের স্মৃতিস্তম্ভ হিসেবে দিনের আলোয় খোলা থাকে; এটি দৈনিক পূজার স্থান নয়। বর্তমান সময় ও টিকিটের ব্যবস্থা স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "স্মৃতিস্তম্ভে কোনো কঠোর পোশাকবিধি প্রযোজ্য নয়, তবে এই পবিত্র চত্বরে শালীন পোশাক উপযুক্ত; গর্ভগৃহে পা রাখার আগে এবং নিকটবর্তী সক্রিয় মন্দিরগুলিতে জুতো খুলে রাখুন।",
+    "photography": "বাইরের ছবি তোলা সাধারণত অনুমোদিত; ট্রাইপড বা পেশাদার সরঞ্জামের জন্য ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণের অনুমতির প্রয়োজন হতে পারে। অসমতল ধ্বংসাবশেষের মেঝেতে সাবধানে চলুন।",
+    "gettingThere": "অলমপুর জোগুলাম্বা গাদওয়াল জেলায়, কুর্নুল থেকে প্রায় ২৫ কিমি এবং হায়দরাবাদ থেকে প্রায় ২২০ কিমি দক্ষিণে, হায়দরাবাদ–বেঙ্গালুরু মহাসড়কের (জাতীয় সড়ক ৪৪) কাছেই অবস্থিত। হায়দরাবাদ–কুর্নুল রেলপথে অলমপুর রোড রেলস্টেশন প্রায় ৯ কিমি দূরে। মন্দিরটি স্বর্গ ব্রহ্ম মন্দিরের ঠিক পিছনে, বাল ব্রহ্ম ও জোগুলাম্বা মন্দির থেকে অল্প হাঁটা পথের দূরত্বে দাঁড়িয়ে আছে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/padma-brahma-alampur.jpg",
