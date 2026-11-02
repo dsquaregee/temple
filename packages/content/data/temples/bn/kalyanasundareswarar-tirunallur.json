@@ -1,29 +1,36 @@
 {
   "id": "kalyanasundareswarar-tirunallur",
   "locale": "bn",
+  "name": "কল্যাণসুন্দরেশ্বর মন্দির, তিরুনল্লুর",
   "nativeName": "திருநல்லூர் கல்யாணசுந்தரேஸ்வரர் கோயில்",
+  "deity": "শিব কল্যাণসুন্দরেশ্বর রূপে, দেবী গিরিসুন্দরীর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tirunallur (Nallur), near Papanasam",
-    "state": "Tamil Nadu",
+    "city": "তিরুনল্লুর (নল্লুর), পাপনাসমের নিকট",
+    "state": "তামিলনাড়ু",
     "lat": 10.93,
     "lng": 79.27
   },
+  "period": "তেবারম যুগ (৭ম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তাঞ্জাভুর ও কুম্বকোণমের মাঝে পাপনাসমের নিকটবর্তী তিরুনল্লুর শিবকে কল্যাণসুন্দরেশ্বর — শুভ বিবাহের প্রভু — রূপে সম্মান করে, দেবী গিরিসুন্দরীর সঙ্গে। সম্বন্দর ও অপ্পর কর্তৃক স্তুত এই পাডল পেট্র স্থলম অমরনীতি নায়নার ও ঋষি অগস্ত্যের সঙ্গে যুক্ত, এবং কাবেরীর দক্ষিণ তীরের ২০তম মন্দির হিসেবে গণ্য।",
   "sections": {
-    "history": "Tirunallur, also called Nallur, lies near Papanasam on the Thanjavur–Kumbakonam road, about 16 km from Kumbakonam, in Thanjavur district (Valangaiman taluk). It is a Paadal Petra Sthalam, hymned in the Tevaram by Sambandar and Appar, and counted the 20th shrine on the southern bank of the Kaveri. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Kalyanasundareswarar in the sanctum, with the goddess Girisundari — also Parvatasundari, Kalyanasundari — in her own shrine facing south, a Nandi and the parivara devatas. The walled courtyard and gopuram keep the form of the Shiva temples of the Papanasam country.",
-    "legends": "Shiva is praised here as Kalyanasundareswarar, 'the beautiful lord of the wedding,' with Girisundari, 'the mountain-born beauty,' beside him. The shrine is bound in Shaiva memory to Amaraneethi Nayanar, one of the sixty-three, and to sage Agastya's worship. As with many delta shrines, the fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October), Tiruvadhirai in Margazhi and the Mondays of Karthikai, with Pradosha worship. Devotees come to the lord of the auspicious wedding to pray for marriage and household welfare.",
-    "experience": "At Tirunallur the pilgrim comes to the lord of the auspicious wedding. Before Kalyanasundareswarar and Girisundari, in the Papanasam country between Thanjavur and Kumbakonam, the visitor finds the quiet grace of a Tevaram temple and the memory of Amaraneethi Nayanar's devotion."
+    "history": "তিরুনল্লুর, নল্লুর নামেও পরিচিত, তাঞ্জাভুর–কুম্বকোণম সড়কে পাপনাসমের নিকট অবস্থিত, কুম্বকোণম থেকে প্রায় ১৬ কিমি দূরে, তাঞ্জাভুর জেলায় (ভালঙ্গৈমান তালুক)। এটি একটি পাডল পেট্র স্থলম, তেবারমে সম্বন্দর ও অপ্পর কর্তৃক স্তুত, এবং কাবেরীর দক্ষিণ তীরের ২০তম মন্দির হিসেবে গণ্য। পাথরের মন্দিরটি চোল যুগের ও পরবর্তী।",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, গর্ভগৃহে কল্যাণসুন্দরেশ্বরকে প্রতিষ্ঠিত করে, দেবী গিরিসুন্দরী — পর্বতসুন্দরী, কল্যাণসুন্দরী নামেও — দক্ষিণমুখী তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাসহ। প্রাচীরঘেরা প্রাঙ্গণ ও গোপুরম পাপনাসম অঞ্চলের শিব মন্দিরগুলির রূপ বজায় রাখে।",
+    "legends": "শিব এখানে কল্যাণসুন্দরেশ্বর, 'বিবাহের সুন্দর প্রভু' রূপে বন্দিত, তাঁর পাশে গিরিসুন্দরী, 'পর্বতজাত সুন্দরী'। মন্দিরটি শৈব স্মৃতিতে অমরনীতি নায়নার, তেষট্টিজনের একজন, এবং ঋষি অগস্ত্যের পূজার সঙ্গে যুক্ত। অনেক ব-দ্বীপ মন্দিরের মতো, পূর্ণাঙ্গ স্থল পুরাণ স্থানীয় ঐতিহ্য ও তেবারম শ্লোকে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহা শিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি, মার্গজিতে তিরুবাদিরৈ এবং কার্তিকৈয়ের সোমবারগুলি পালন করে, প্রদোষ পূজাসহ। ভক্তরা বিবাহ ও গৃহস্থ কল্যাণের প্রার্থনায় শুভ বিবাহের প্রভুর কাছে আসেন।",
+    "experience": "তিরুনল্লুরে তীর্থযাত্রী শুভ বিবাহের প্রভুর কাছে আসেন। তাঞ্জাভুর ও কুম্বকোণমের মাঝে পাপনাসম অঞ্চলে, কল্যাণসুন্দরেশ্বর ও গিরিসুন্দরীর সম্মুখে, দর্শনার্থী এক তেবারম মন্দিরের শান্ত মাধুর্য ও অমরনীতি নায়নারের ভক্তির স্মৃতি খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirunallur (Nallur) lies near Papanasam on the Thanjavur–Kumbakonam road, about 16 km from Kumbakonam, in Thanjavur district. Papanasam and Kumbakonam are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং পুনরায় বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশদ্বারে জুতো খুলে রাখতে হয়।",
+    "photography": "বাইরের বারান্দায় সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুনল্লুর (নল্লুর) তাঞ্জাভুর–কুম্বকোণম সড়কে পাপনাসমের নিকট, কুম্বকোণম থেকে প্রায় ১৬ কিমি দূরে, তাঞ্জাভুর জেলায়। পাপনাসম ও কুম্বকোণম নিকটতম শহর ও রেলস্টেশন, গ্রামে যাওয়ার জন্য বাস ও ট্যাক্সিসহ।"
   }
 }

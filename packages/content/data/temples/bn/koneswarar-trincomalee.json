@@ -1,30 +1,37 @@
 {
   "id": "koneswarar-trincomalee",
   "locale": "bn",
+  "name": "কোণেশ্বরম মন্দির, ত্রিঙ্কোমালি (তিরুক্কোণমালাই)",
   "nativeName": "திருக்கோணமலை கோணேஸ்வரம் கோயில்",
+  "deity": "কোণেশ্বরর (কোণনাথর) রূপে শিব, দেবী মথুমাই আম্মাইয়ের সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Trincomalee",
-    "state": "Eastern Province, Sri Lanka",
+    "city": "ত্রিঙ্কোমালি",
+    "state": "পূর্বাঞ্চল প্রদেশ, শ্রীলঙ্কা",
     "lat": 8.5825,
     "lng": 81.2456
   },
+  "period": "স্বামী রক-এ ঈঝ নাড়ুর একটি পাডল পেট্র স্থলম, তেবারমে সম্বন্দর কর্তৃক স্তুত (সপ্তম শতক)",
   "century": 7,
+  "dynasty": "প্রাচীন মন্দির; বর্তমান মন্দিরটি বিংশ শতকে পুনর্নির্মিত",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ত্রিঙ্কোমালিতে ভারত মহাসাগরের উপরে স্বামী রক-এর উঁচুতে কোণেশ্বরম — সম্বন্দর কর্তৃক স্তুত তিরুক্কোণমালাই — শিবকে কোণেশ্বরর রূপে সম্মান করে, সমুদ্রতীরের পবিত্র পর্বতের প্রভু।",
   "sections": {
-    "history": "Koneswaram crowns Swami Rock, a sheer headland at Trincomalee on the east coast of Sri Lanka, and is the Thirukonamalai of the Tevaram. It is one of the 276 Paadal Petra Sthalams and one of the two shrines of Eezha Nadu, the island country, with Ketheeswaram near Mannar; Sambandar sang a pathigam to the Lord of the hill by the sea. Tradition places the shrine's beginnings far earlier still. The great temple, remembered for its many pillars, was destroyed by the Portuguese in the 1620s, and a fort rose on the headland from its stones. In 1950, workers digging a well unearthed images believed to come from the old temple, and the local Hindu community rebuilt the shrine, consecrating the present temple in 1963.",
-    "architecture": "The present temple is a modest Dravidian shrine set within the walls of Fort Frederick, at the very end of the promontory, with the ocean on three sides. Pillars and carved fragments of the old temple, recovered from the sea below the rock, have found their way back to the site. Beyond the shrine, the cliff edge looks out over the water, and a deep cleft in the rock nearby is pointed out by pilgrims as the mark of a legend.",
-    "legends": "The best-known story belongs to Ravana, the king of Lanka and a great devotee of Shiva. Tradition says that when his mother fell ill and could not come to worship here, Ravana tried to move the sacred hill and its shrine to her. Shiva pressed down, Ravana's sword fell, and the blade cut the cleft in the cliff still called Ravana Vettu, Ravana's cut. Humbled, the king worshipped the Lord he had tried to carry away.",
-    "festivals": "Maha Shivaratri is the great night of the year at Koneswaram, when devotees keep vigil on the headland. The temple's annual festival, the monthly Pradosham and the Shaiva festivals of the Tamil calendar are also kept with devotion; confirm dates locally.",
-    "experience": "The walk to Koneswaram passes through the old gateways of Fort Frederick and climbs to the tip of Swami Rock, where wind, sea and temple bells meet. Pilgrims offer worship to Koneswarar and Mathumai Ammai, then stand at the cliff edge looking out over the ocean. Ketheeswaram, the other Eezha Nadu shrine of the Tevaram, lies across the island near Mannar."
+    "history": "কোণেশ্বরম শ্রীলঙ্কার পূর্ব উপকূলে ত্রিঙ্কোমালিতে স্বামী রক নামক এক খাড়া অন্তরীপের শীর্ষে অবস্থিত, এবং এটি তেবারমের তিরুক্কোণমালাই। এটি ২৭৬টি পাডল পেট্র স্থলমের একটি এবং দ্বীপদেশ ঈঝ নাড়ুর দুটি মন্দিরের একটি, অপরটি মান্নারের কাছে কেথীশ্বরম; সম্বন্দর সমুদ্রতীরের পর্বতের প্রভুর উদ্দেশে একটি পতিকম গেয়েছিলেন। ঐতিহ্য মন্দিরের সূচনা আরও বহু পূর্বে স্থাপন করে। বহু স্তম্ভের জন্য স্মরণীয় মহান মন্দিরটি ১৬২০-এর দশকে পর্তুগিজদের দ্বারা ধ্বংস হয়, এবং এর পাথর থেকে অন্তরীপে একটি দুর্গ গড়ে ওঠে। ১৯৫০ সালে কূপ খননকারী শ্রমিকেরা পুরনো মন্দির থেকে আগত বলে বিশ্বাসকৃত মূর্তি উদ্ধার করে, এবং স্থানীয় হিন্দু সম্প্রদায় মন্দিরটি পুনর্নির্মাণ করে, ১৯৬৩ সালে বর্তমান মন্দিরটি প্রতিষ্ঠা করে।",
+    "architecture": "বর্তমান মন্দিরটি ফোর্ট ফ্রেডরিকের প্রাচীরের মধ্যে অন্তরীপের একেবারে প্রান্তে অবস্থিত একটি বিনম্র দ্রাবিড় মন্দির, তিন দিকে সমুদ্র। পাথরের নিচের সমুদ্র থেকে উদ্ধার করা পুরনো মন্দিরের স্তম্ভ ও খোদিত টুকরো আবার এই স্থানে ফিরে এসেছে। মন্দিরের বাইরে পাহাড়ের কিনারা জলের উপর দিয়ে তাকিয়ে থাকে, এবং কাছেই পাথরের এক গভীর ফাটলকে তীর্থযাত্রীরা এক কিংবদন্তির চিহ্ন হিসেবে দেখান।",
+    "legends": "সর্বাধিক পরিচিত কাহিনিটি লঙ্কারাজ ও শিবের মহান ভক্ত রাবণের। ঐতিহ্য বলে যে যখন তাঁর মা অসুস্থ হয়ে এখানে উপাসনায় আসতে পারেননি, রাবণ পবিত্র পর্বত ও তার মন্দির তাঁর কাছে নিয়ে যেতে চেষ্টা করেন। শিব তা চেপে ধরেন, রাবণের তরবারি পড়ে যায়, এবং ফলা পাহাড়ে সেই ফাটল কেটে ফেলে যা এখনও রাবণ ভেট্টু, রাবণের কাটা, নামে পরিচিত। অবনত হয়ে রাজা সেই প্রভুর উপাসনা করেন যাঁকে তিনি নিয়ে যেতে চেষ্টা করেছিলেন।",
+    "festivals": "মহাশিবরাত্রি কোণেশ্বরমে বছরের মহান রাত, যখন ভক্তরা অন্তরীপে রাত্রিজাগরণ করে। মন্দিরের বার্ষিক উৎসব, মাসিক প্রদোষম এবং তামিল পঞ্জিকার শৈব উৎসবগুলিও ভক্তিভরে পালিত হয়; তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "কোণেশ্বরমের পথ ফোর্ট ফ্রেডরিকের পুরনো তোরণগুলির মধ্য দিয়ে যায় এবং স্বামী রক-এর চূড়ায় ওঠে, যেখানে বাতাস, সমুদ্র ও মন্দিরের ঘণ্টা মিলিত হয়। তীর্থযাত্রীরা কোণেশ্বরর ও মথুমাই আম্মাইয়ের উপাসনা করে, তারপর পাহাড়ের কিনারায় দাঁড়িয়ে সমুদ্রের দিকে তাকিয়ে থাকে। তেবারমের অপর ঈঝ নাড়ু মন্দির কেথীশ্বরম দ্বীপের অপর প্রান্তে মান্নারের কাছে অবস্থিত।"
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure, with longer hours on festival days. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; men may be asked to remove shirts before entering the shrine, and footwear is left outside. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer areas and on Swami Rock, ask the temple staff before taking pictures, especially of rituals.",
-    "gettingThere": "Koneswaram stands at the end of Swami Rock inside Fort Frederick in Trincomalee town; the approach road passes through the fort gates. Trincomalee has a railway station with services from Colombo, and Bandaranaike International Airport near Colombo is the main international gateway, several hours away by road."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার কালে খোলা, মধ্যাহ্নে বন্ধ, উৎসবের দিনে দীর্ঘতর সময়। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য — কাঁধ ও হাঁটু ঢাকা; মন্দিরে প্রবেশের আগে পুরুষদের জামা খুলতে বলা হতে পারে, এবং পাদুকা বাইরে রেখে যাওয়া হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহের ভেতরে আলোকচিত্র গ্রহণ অনুমোদিত নয়; বাইরের অংশে ও স্বামী রক-এ ছবি তোলার আগে, বিশেষত আচার-অনুষ্ঠানের, মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কোণেশ্বরম ত্রিঙ্কোমালি শহরে ফোর্ট ফ্রেডরিকের ভেতরে স্বামী রক-এর প্রান্তে অবস্থিত; প্রবেশপথ দুর্গের তোরণের মধ্য দিয়ে যায়। ত্রিঙ্কোমালিতে কলম্বো থেকে রেল পরিষেবা সহ একটি রেলস্টেশন রয়েছে, এবং কলম্বোর কাছে বন্দরনায়েক আন্তর্জাতিক বিমানবন্দর প্রধান আন্তর্জাতিক প্রবেশদ্বার, সড়কপথে কয়েক ঘণ্টা দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/koneswarar-trincomalee.jpg",

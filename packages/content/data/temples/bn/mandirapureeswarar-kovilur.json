@@ -1,29 +1,36 @@
 {
   "id": "mandirapureeswarar-kovilur",
   "locale": "bn",
+  "name": "মন্দিরপুরীশ্বরর মন্দির, তিরুবুসাত্তানম্‌ (কোবিলুর)",
   "nativeName": "திருவுசாத்தானம் மந்திரபுரீஸ்வரர் கோயில்",
+  "deity": "শিব মন্দিরপুরীশ্বরর (যে প্রভু পরামর্শ দিয়েছিলেন) রূপে, দেবী পেরিয়নায়কী (বৃহন্নায়কী) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্‌",
   "location": {
-    "city": "Kovilur, near Muthupettai",
-    "state": "Tamil Nadu",
+    "city": "কোবিলুর, মুত্তুপেট্টৈর কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.43,
     "lng": 79.5
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল প্রস্তরমন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কোবিলুর, তেবারমের তিরুবুসাত্তানম্‌, দক্ষিণ বদ্বীপে মুত্তুপেট্টৈর কাছে, শিবকে মন্দিরপুরীশ্বরর রূপে সম্মান জানায় — পরামর্শের প্রভু — দেবী পেরিয়নায়কীর সঙ্গে। তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম্‌, এর নাম সেই ঐতিহ্যের স্মরণ করায় যে রাম লঙ্কার সেতু নির্মাণের আগে এখানে শিবের পরামর্শ চেয়েছিলেন।",
   "sections": {
-    "history": "Kovilur, whose Tevaram name is Tiruvusathanam (Tiru Usaatthanam), lies in the southern delta, about 3 km north of Muthupettai on the Muthupettai–Mannargudi road, some 22 km from Pattukottai (sources place it in Tiruvarur or Thanjavur district). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of the lower delta, the shrine enshrines Mandirapureeswarar in the sanctum, with the goddess Periyanayaki — also Brihannayaki, 'the great mother' — in her own shrine, a Nandi and the parivara devatas. The temple keeps the simple, well-ordered plan of the smaller delta sanctuaries.",
-    "legends": "The names of place and lord both turn on counsel. Tiru Usaatthanam means 'the holy place of consultation,' and Mandirapureeswarar is 'the lord of mandira, of counsel.' By tradition Rama came here before his campaign against Ravana and sought Shiva's counsel on building the great bridge, the Setu, to Lanka; the lord gave his blessing and advice, and so the place keeps the memory of that divine consultation. To worship here is held to bring wise counsel and right decision to the devotee.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail of the southern delta include Kovilur among their stops.",
-    "experience": "At Kovilur the pilgrim comes to a shrine of divine counsel, where Rama is said to have sought Shiva's advice before the bridge to Lanka. Before Mandirapureeswarar, lord of counsel, and the great mother Periyanayaki, the visitor brings the questions of the heart to a quiet Tevaram temple of the southern Kaveri country."
+    "history": "কোবিলুর, যার তেবারম নাম তিরুবুসাত্তানম্‌ (তিরু উসাত্তানম্‌), দক্ষিণ বদ্বীপে, মুত্তুপেট্টৈ–মন্নারগুড়ি সড়কে মুত্তুপেট্টৈর প্রায় ৩ কিমি উত্তরে, পট্টুকোট্টৈ থেকে প্রায় ২২ কিমি দূরে অবস্থিত (সূত্রসমূহ একে তিরুবারুর বা তাঞ্জাভুর জেলায় স্থাপন করে)। এটি একটি পাডল পেট্র স্থলম্‌, তেবারমে তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত। প্রস্তরমন্দিরটি চোল যুগ ও পরবর্তী সময়ের।",
+    "architecture": "নিম্ন বদ্বীপের একটি দ্রাবিড় মন্দির, এই মন্দিরে গর্ভগৃহে মন্দিরপুরীশ্বরর অধিষ্ঠিত, দেবী পেরিয়নায়কী — বৃহন্নায়কী, 'মহা জননী'ও — তাঁর নিজের মন্দিরে, একটি নন্দী এবং পরিবার দেবতাগণসহ। মন্দিরটি ছোট বদ্বীপ মন্দিরগুলির সরল, সুসংবদ্ধ পরিকল্পনা বজায় রাখে।",
+    "legends": "স্থান ও প্রভুর নাম উভয়ই পরামর্শের ওপর ঘোরে। তিরু উসাত্তানম্‌ মানে 'পরামর্শের পবিত্র স্থান,' এবং মন্দিরপুরীশ্বরর হলেন 'মন্দির-এর, পরামর্শের প্রভু।' ঐতিহ্য অনুসারে রাম রাবণের বিরুদ্ধে অভিযানের আগে এখানে এসেছিলেন এবং লঙ্কায় মহা সেতু, সেতু, নির্মাণ নিয়ে শিবের পরামর্শ চেয়েছিলেন; প্রভু তাঁর আশীর্বাদ ও উপদেশ দিয়েছিলেন, এবং তাই এই স্থান সেই দিব্য পরামর্শের স্মৃতি রাখে। এখানে পূজা করলে ভক্তের জন্য প্রজ্ঞাময় পরামর্শ ও সঠিক সিদ্ধান্ত আসে বলে বিশ্বাস করা হয়।",
+    "festivals": "মন্দির মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈর সোমবারগুলি, প্রদোষ পূজাসহ, এক গ্রামীণ মন্দিরের নিরিবিলি পরিসরে পালন করে। দক্ষিণ বদ্বীপের পাডল পেট্র পথের তীর্থযাত্রীরা কোবিলুরকে তাঁদের বিরতির অন্তর্ভুক্ত করেন।",
+    "experience": "কোবিলুরে তীর্থযাত্রী এক দিব্য পরামর্শের মন্দিরে আসেন, যেখানে রাম লঙ্কার সেতুর আগে শিবের উপদেশ চেয়েছিলেন বলে কথিত। পরামর্শের প্রভু মন্দিরপুরীশ্বরর ও মহা জননী পেরিয়নায়কীর সামনে দর্শনার্থী দক্ষিণ কাবেরী দেশের এক নিরিবিলি তেবারম মন্দিরে হৃদয়ের প্রশ্নগুলি নিয়ে আসেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kovilur is about 3 km north of Muthupettai on the Muthupettai–Mannargudi road, roughly 22 km from Pattukottai, in the southern Kaveri delta. Muthupettai and Pattukottai are the nearest towns, with buses and taxis to the village; Thanjavur and Thiruthuraipoondi are the nearest rail heads."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশদ্বারে জুতা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত আলোকচিত্র তোলার অনুমতি আছে তবে গর্ভগৃহের ভেতরে নয়; পূজার ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কোবিলুর মুত্তুপেট্টৈ–মন্নারগুড়ি সড়কে মুত্তুপেট্টৈর প্রায় ৩ কিমি উত্তরে, পট্টুকোট্টৈ থেকে প্রায় ২২ কিমি দূরে, দক্ষিণ কাবেরী বদ্বীপে। মুত্তুপেট্টৈ ও পট্টুকোট্টৈ নিকটতম শহর, গ্রামে বাস ও ট্যাক্সি সহ; তাঞ্জাভুর ও তিরুত্তুরৈপুণ্ডি নিকটতম রেলস্টেশন।"
   }
 }

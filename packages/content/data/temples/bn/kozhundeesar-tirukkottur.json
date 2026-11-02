@@ -1,29 +1,36 @@
 {
   "id": "kozhundeesar-tirukkottur",
   "locale": "bn",
+  "name": "কোঝুন্দীশ্বরর মন্দির, তিরুক্কোট্টুর",
   "nativeName": "திருக்கோட்டூர் கொழுந்தீஸ்வரர் கோயில்",
+  "deity": "কোঝুন্দীশ্বরর রূপে শিব, দেবী মধুরবাসনাম্বিকাইয়ের সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Kottur (Tirukkottur), near Mannargudi",
-    "state": "Tamil Nadu",
+    "city": "কোট্টুর (তিরুক্কোট্টুর), মান্নারগুড়ির কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.62,
     "lng": 79.5
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল স্থাপত্য মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুভারুর ব-দ্বীপে মান্নারগুড়ির কাছে কোট্টুর শিবকে কোঝুন্দীশ্বরর রূপে দেবী মধুরবাসনাম্বিকাইয়ের সঙ্গে সম্মান করে। তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম — কাবেরীর দক্ষিণ তীরের ১১১তম মন্দির — এটি এক গুরু-স্থলম হিসেবে শ্রদ্ধেয়, যেখানে প্রভু ও দেবী পরস্পরের মুখোমুখি।",
   "sections": {
-    "history": "Kottur, with the historical name Indirapuram, lies about 15 km from Mannargudi and 27 km from Tiruvarur, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and counted the 111th shrine on the southern bank of the Kaveri. Its inscriptions name Raja Raja Chola I, Rajadhiraja I and Kulothunga Chola III, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Kozhundeeswarar in the sanctum, with the goddess Madhuravasanaambikai — also Thenmozhippaavai — in her own shrine, a Nandi and the parivara devatas. The sanctums of Shiva and the goddess are set facing one another, an arrangement for which the temple is revered as a guru-sthalam. The walled courtyard keeps the form of the Shiva temples of the Tiruvarur delta.",
-    "legends": "The sthala legend recalls the demon Vritrasura and the vajra, the thunderbolt weapon made from the spine of the sage Dadichi, by which he was overcome. Shiva is worshipped here as Kozhundeeswarar, with the goddess Madhuravasanaambikai beside him; because the lord and the goddess face each other, the shrine is held a guru-sthalam. As with many delta shrines, the fuller sthala purana survives in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Mannargudi tract include Kottur among their stops, for the guru-sthalam's sake.",
-    "experience": "At Kottur the pilgrim comes to the guru-sthalam of the delta. Before Kozhundeeswarar and Madhuravasanaambikai — who face one another across the shrine — in the country near Mannargudi, the visitor finds the quiet grace of a Tevaram temple and the memory of Dadichi's gift that overcame Vritrasura."
+    "history": "কোট্টুর, ঐতিহাসিক নাম ইন্দিরাপুরম, তিরুভারুর জেলায় মান্নারগুড়ি থেকে প্রায় ১৫ কিমি এবং তিরুভারুর থেকে ২৭ কিমি দূরে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত, এবং কাবেরীর দক্ষিণ তীরের ১১১তম মন্দির হিসেবে গণ্য। এর শিলালিপি রাজ রাজ চোল প্রথম, রাজাধিরাজ প্রথম ও কুলোত্তুঙ্গ চোল তৃতীয়ের নাম উল্লেখ করে, এবং পাথরের মন্দিরটি চোল যুগের ও পরবর্তী।",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, যার গর্ভগৃহে কোঝুন্দীশ্বরর বিরাজমান, দেবী মধুরবাসনাম্বিকাই — থেন্মোঝিপ্পাবাই নামেও — তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণ সহ। শিব ও দেবীর গর্ভগৃহ পরস্পরের মুখোমুখি স্থাপিত, এক বিন্যাস যার জন্য মন্দিরটি গুরু-স্থলম হিসেবে শ্রদ্ধেয়। প্রাচীরবেষ্টিত উঠানটি তিরুভারুর ব-দ্বীপের শিবমন্দিরগুলির রূপ ধরে রাখে।",
+    "legends": "স্থল কিংবদন্তি অসুর বৃত্রাসুর এবং বজ্র, ঋষি দধীচির মেরুদণ্ড থেকে তৈরি বজ্রাস্ত্রের কথা স্মরণ করে, যা দিয়ে তিনি পরাজিত হন। শিব এখানে কোঝুন্দীশ্বরর রূপে পূজিত, পাশে দেবী মধুরবাসনাম্বিকাই; যেহেতু প্রভু ও দেবী পরস্পরের মুখোমুখি, মন্দিরটি গুরু-স্থলম হিসেবে গণ্য। বহু ব-দ্বীপ মন্দিরের মতো পূর্ণাঙ্গ স্থলপুরাণ স্থানীয় ঐতিহ্যে ও সম্বন্দরের শ্লোকে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি (ফেব্রুয়ারি–মার্চ) মাসে মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারসমূহ, প্রদোষ উপাসনা সহ পালন করে। মান্নারগুড়ি অঞ্চলের তীর্থযাত্রীরা গুরু-স্থলমের কারণে কোট্টুরকে তাঁদের দর্শনস্থলের মধ্যে অন্তর্ভুক্ত করেন।",
+    "experience": "কোট্টুরে তীর্থযাত্রী ব-দ্বীপের গুরু-স্থলমে আসেন। মান্নারগুড়ির কাছের দেশে কোঝুন্দীশ্বরর ও মধুরবাসনাম্বিকাইয়ের সামনে — যাঁরা গর্ভগৃহ জুড়ে পরস্পরের মুখোমুখি — দর্শনার্থী এক তেবারম মন্দিরের শান্ত মাধুর্য এবং দধীচির সেই দানের স্মৃতি খুঁজে পান যা বৃত্রাসুরকে পরাভূত করেছিল।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kottur lies about 15 km from Mannargudi and 27 km from Tiruvarur, in Tiruvarur district. Mannargudi and Tiruvarur are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য, কাঁধ ও হাঁটু ঢাকা; প্রবেশদ্বারে পাদুকা রেখে যাওয়া হয়।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত আলোকচিত্র গ্রহণ অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কোট্টুর তিরুভারুর জেলায় মান্নারগুড়ি থেকে প্রায় ১৫ কিমি এবং তিরুভারুর থেকে ২৭ কিমি দূরে অবস্থিত। মান্নারগুড়ি ও তিরুভারুর নিকটতম শহর ও রেলস্টেশন, গ্রাম পর্যন্ত বাস ও ট্যাক্সি সহ।"
   }
 }

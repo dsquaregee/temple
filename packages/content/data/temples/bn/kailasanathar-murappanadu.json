@@ -1,29 +1,36 @@
 {
   "id": "kailasanathar-murappanadu",
   "locale": "bn",
+  "name": "কৈলাসনাথর মন্দির, মুরপ্পনাড়ু",
   "nativeName": "கைலாசநாதர் கோயில், முறப்பநாடு",
+  "deity": "শিব কৈলাসনাথর রূপে, দেবী শিবকামী-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Murappanadu",
-    "state": "Tamil Nadu",
+    "city": "মুরপ্পনাড়ু",
+    "state": "তামিলনাড়ু",
     "lat": 8.723,
     "lng": 77.833
   },
+  "period": "নব কৈলাসমের পঞ্চমটি, বৃহস্পতির মন্দির; এক পুরনো নদীতীর মন্দির, বিজয়নগর শাসকদের অধীনে সংস্কারকৃত",
   "century": 16,
+  "dynasty": "বিজয়নগর",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "মুরপ্পনাড়ুতে তাম্রপর্ণীর তীরে, যেখানে তিরুনেলবেলি–তুতিকোরিন মহাসড়ক নদী অতিক্রম করে, শিব কৈলাসনাথর রূপে নব কৈলাসমের পঞ্চমটি—গুরু, বৃহস্পতি গ্রহের মন্দির রক্ষা করেন।",
   "sections": {
-    "history": "Murappanadu is a village on the Tamiraparani in Thoothukudi district, some seventeen kilometres east of Tirunelveli on the national highway to Thoothukudi. Its Kailasanathar temple is the fifth of the Nava Kailasam and the shrine of Guru, the planet Jupiter, standing at the midpoint of the nine. Its beginnings are not recorded with certainty; local tradition credits a generous chieftain of the region with its founding, and it was renovated in the time of the Vijayanagara rulers, whose authority reached the far south in the sixteenth century. A local story holds that a Vijayanagara commander, Vittala Raya, worshipped Guru here before a campaign towards Travancore.",
-    "architecture": "The temple faces east towards the river, a compact Dravidian stone shrine with the sanctum of Kailasanathar and a separate shrine for the Goddess Sivakami, a single Nandi facing the lord. In its wall niches stands Dakshinamurthy, the form of Shiva as the silent teacher seated beneath the banyan — a figure especially honoured at a shrine of Guru, the planet of wisdom and the teacher among the grahas. Steps lead down from the temple to the Tamiraparani.",
-    "legends": "In the Nava Kailasam story, the fifth of the lotuses set afloat by Agastya's disciple Romasa came to rest here, midway between the hills and the sea. The village's own name carries two homely stories: one says a woman of Murappanadu once drove away a tiger with nothing but a muram, the winnowing fan of every Tamil kitchen; the other says the ground here was strewn with flat stones, murambu, and the name grew from them.",
-    "festivals": "As the shrine of Guru, the temple draws devotees on Thursdays and at the transit of Jupiter, Guru Peyarchi, when special worship is offered. Maha Shivaratri and the monthly pradosham are kept through the year. Confirm dates locally.",
-    "experience": "Murappanadu is the easiest of the nine to reach, right beside the highway bridge, and its quiet riverside temple is the turning point of the Nava Kailasam round: from here the circuit continues downstream towards Srivaikuntam, Thenthiruperai, Rajapathy and the sea."
+    "history": "মুরপ্পনাড়ু তুতিকোরিন জেলায় তাম্রপর্ণীর তীরে এক গ্রাম, তিরুনেলবেলি থেকে তুতিকোরিনের জাতীয় মহাসড়কে প্রায় সতেরো কিলোমিটার পূর্বে। এর কৈলাসনাথর মন্দির নব কৈলাসমের পঞ্চমটি ও গুরু, বৃহস্পতি গ্রহের মন্দির, নয়ের মধ্যবিন্দুতে দণ্ডায়মান। এর সূচনা নিশ্চিতভাবে নথিবদ্ধ নয়; স্থানীয় ঐতিহ্য এর প্রতিষ্ঠার কৃতিত্ব অঞ্চলের এক উদার সর্দারকে দেয়, এবং এটি বিজয়নগর শাসকদের সময়ে সংস্কার করা হয়েছিল, যাদের কর্তৃত্ব ষোড়শ শতকে সুদূর দক্ষিণে পৌঁছেছিল। এক স্থানীয় কাহিনী বলে যে এক বিজয়নগর সেনাপতি, বিট্টল রায়, ত্রাবাঙ্কুরের দিকে এক অভিযানের আগে এখানে গুরুর পূজা করেছিলেন।",
+    "architecture": "মন্দিরটি নদীর দিকে পূর্বমুখী, কৈলাসনাথরের গর্ভগৃহ ও দেবী শিবকামীর জন্য এক পৃথক মন্দির সহ এক সুসংহত দ্রাবিড় পাথরের মন্দির, প্রভুর দিকে মুখ করা একটি নন্দী। এর প্রাচীর-কুলুঙ্গিতে দাঁড়িয়ে আছেন দক্ষিণামূর্তি, বটগাছের নিচে উপবিষ্ট নীরব গুরু রূপে শিব—গুরু, জ্ঞানের গ্রহ ও গ্রহদের মধ্যে শিক্ষকের মন্দিরে বিশেষভাবে সম্মানিত এক মূর্তি। মন্দির থেকে সিঁড়ি তাম্রপর্ণীতে নেমে গেছে।",
+    "legends": "নব কৈলাসম কাহিনীতে, অগস্ত্যের শিষ্য রোমশ কর্তৃক ভাসানো পঞ্চম পদ্মটি পাহাড় ও সমুদ্রের মাঝপথে এখানে এসে থেমেছিল। গ্রামের নিজস্ব নাম দুটি সরল কাহিনী বহন করে: একটি বলে মুরপ্পনাড়ুর এক নারী একদা শুধু এক মুরম, প্রতিটি তামিল রান্নাঘরের কুলো দিয়ে এক বাঘ তাড়িয়েছিলেন; অন্যটি বলে এখানকার মাটি সমতল পাথরে, মুরম্বুতে ছড়ানো ছিল, এবং নাম সেগুলি থেকে এসেছে।",
+    "festivals": "গুরুর মন্দির হিসেবে, মন্দিরটি বৃহস্পতিবার ও বৃহস্পতির সঞ্চার, গুরু পেয়র্চির সময় ভক্তদের আকর্ষণ করে, যখন বিশেষ উপাসনা অর্পিত হয়। মহা শিবরাত্রি ও মাসিক প্রদোষম সারা বছর ধরে পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "মুরপ্পনাড়ু নয়ের মধ্যে পৌঁছানোর সবচেয়ে সহজ, ঠিক মহাসড়ক সেতুর পাশে, এবং এর শান্ত নদীতীর মন্দির নব কৈলাসম চক্রের মোড়বিন্দু: এখান থেকে চক্র ভাটিতে শ্রীবৈকুণ্ঠম, তেন্তিরুপ্পেরৈ, রাজপতি ও সমুদ্রের দিকে এগিয়ে যায়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Thursdays and Guru Peyarchi days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Murappanadu lies in Thoothukudi district on the Tirunelveli–Thoothukudi national highway, about 17 km from Tirunelveli and roughly 40–45 km from Thoothukudi; buses between the two cities stop here. Tirunelveli is the nearest railway junction and Thoothukudi the nearest airport."
+    "timings": "সকাল ও সন্ধ্যার দর্শন সেশন ও দুপুরে বন্ধ রেখে প্রতিদিন খোলা; বৃহস্পতিবার ও গুরু পেয়র্চির দিন সবচেয়ে ব্যস্ত। পরিদর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খোলা। দক্ষিণের বহু মন্দিরের মতো পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সামনে ঊর্ধ্বাঙ্গের বস্ত্র খুলতে বলা হয়; প্রদর্শিত নিয়ম অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে ফটোগ্রাফি সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "মুরপ্পনাড়ু তুতিকোরিন জেলায় তিরুনেলবেলি–তুতিকোরিন জাতীয় মহাসড়কে, তিরুনেলবেলি থেকে প্রায় ১৭ কিমি ও তুতিকোরিন থেকে মোটামুটি ৪০–৪৫ কিমি দূরে; দুই শহরের মধ্যে বাস এখানে থামে। তিরুনেলবেলি নিকটতম রেল জংশন ও তুতিকোরিন নিকটতম বিমানবন্দর।"
   }
 }

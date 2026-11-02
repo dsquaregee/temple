@@ -1,29 +1,36 @@
 {
   "id": "koteeswarar-tirukkodikka",
   "locale": "bn",
+  "name": "কোটীশ্বরর মন্দির, তিরুক্কোড়িক্কা",
   "nativeName": "திருக்கொடிக்கா கோடீஸ்வரர் கோயில்",
+  "deity": "কোটীশ্বরর (তিরুক্কোটীশ্বরর) রূপে শিব, দেবী ত্রিপুরসুন্দরী (বডিবাম্বিকাই) সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thirukodikaval",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কোড়িকবল",
+    "state": "তামিলনাড়ু",
     "lat": 11.0495,
     "lng": 79.5128
   },
+  "period": "কাবেরীর উত্তর তীরে প্রাচীন শৈব মন্দির, তেবারমে স্তুত (সপ্তম শতক); চোল যুগে পুনর্নির্মিত পাথরের মন্দির",
   "century": 7,
+  "dynasty": "পল্লব যুগের উৎপত্তি; সেম্বিয়ান মহাদেবীর অধীনে চোল পুনর্নির্মাণ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কোটীশ্বরর তেবারমের তিরুক্কোড়িক্কা, কাবেরীর উত্তর তীরে অপ্পর ও সম্বন্দর কর্তৃক স্তুত এক শিবমন্দির, এখানে এক ঋষির অভিশাপ থেকে মুক্ত তিন কোটি দেবতার জন্য এবং যম ও চিত্রগুপ্তের মন্দিরের জন্য স্মরণীয়।",
   "sections": {
-    "history": "Thirukodikaval lies on the northern bank of the Kaveri in the Thiruvidaimarudur country of Thanjavur district, a quiet farming village whose shrine the Tevaram calls Tirukkodikka. It is a Paadal Petra Sthalam, praised by Appar in three decads and by Sambandar in one, and it belongs to the small family of Tevaram temples whose names end in the syllable 'kaa': Tiruvanaikka, Tirunellikka, Tirukolakka, Tirukurakka and Tirukkodikka. The oldest inscriptions here are traced to the Pallava king Nandivarman, around the middle of the eighth century. Tradition credits Sembiyan Mahadevi, the devout Chola queen and mother of Uttama Chola, with raising the present stone temple around 979 and with preserving its older records by having them engraved afresh on the new walls.",
-    "architecture": "The temple faces east, and a tall tower of five tiers is reported to mark its entrance. Within the walls the sanctum of Koteeswarar holds the Shiva linga, and the goddess Tripurasundari, here called Vadivambikai, is honoured in her own shrine. The inner corridor gathers many smaller sanctuaries: Karaiyerum Vinayaka, Subramanya, Gajalakshmi, Jyeshtha Devi, Kala Bhairava, Surya, Chandra, Sani and the sage Durvasa, along with Nataraja and the Seven Mothers. Yama and Chitragupta have shrines of their own, which is rare. The temple tank is the Sringodbhava Theertham, the Kaveri flows beside the village, and the sacred tree is the pirambu, the cane.",
-    "legends": "Tradition tells of three crore devas who fell under the curse of the sage Durvasa, whether for pride in the power of their mantras or for chanting them with faulty intonation. Advised to seek Shiva on the bank of the Kaveri, they worshipped at Tirukkodikka and were set free, and the Lord who released the crores of gods is remembered as Koteeswarar, 'the Lord of the crore'. A second story belongs to Yama, the god of death, and his scribe Chitragupta, who incurred Shiva's displeasure by overreaching at this holy place. After penance they bathed in the Sringodbhava Theertham on the day of Chitra Pournami and were relieved of the curse. Devotees therefore pray here to be freed from the fear of death.",
-    "festivals": "Chitra Pournami, the full moon of April or May, is the most characteristic day, when Yama and Chitragupta are remembered and the tank is honoured. Pradosham, Skanda Sashti, Maha Shivaratri and the Tuesday worship are kept as at other Shiva temples, and an Aippasi Brahmotsavam in October or November is also reported. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Thirukodikaval rewards a slow visit. Come to the east gate from the paddy fields and the river road, bow before the sanctum of Koteeswarar, and then seek out Vadivambikai in her shrine. Walk the inner corridor to find the small shrines of Gajalakshmi, the planets and the sage Durvasa, and pause at the shrines of Yama and Chitragupta, where many pilgrims pray for a life without fear. The village is far from any town's bustle, and the temple keeps the stillness of a riverside sanctuary that has been in worship for well over a thousand years."
+    "history": "তিরুক্কোড়িকবল তাঞ্জাবুর জেলার তিরুবিডাইমরুদুর অঞ্চলে কাবেরীর উত্তর তীরে অবস্থিত এক নিরিবিলি কৃষিগ্রাম, যার মন্দিরকে তেবারম তিরুক্কোড়িক্কা নামে ডাকে। এটি একটি পাডল পেট্র স্থলম, অপ্পর কর্তৃক তিন দশকে ও সম্বন্দর কর্তৃক একটিতে স্তুত, এবং এটি তেবারম মন্দিরগুলির সেই ছোট পরিবারের অন্তর্গত যাদের নাম 'কা' অক্ষরে শেষ হয়: তিরুবানাইক্কা, তিরুনেল্লিক্কা, তিরুকোলক্কা, তিরুকুরক্কা ও তিরুক্কোড়িক্কা। এখানকার প্রাচীনতম শিলালিপি পল্লব রাজা নন্দিবর্মনের সঙ্গে, প্রায় অষ্টম শতকের মধ্যভাগের। ঐতিহ্য ভক্তিমতী চোল রানি ও উত্তম চোলের মা সেম্বিয়ান মহাদেবীকে প্রায় ৯৭৯ সালে বর্তমান পাথরের মন্দির নির্মাণের এবং নতুন প্রাচীরে পুরনো নথি নতুন করে খোদাই করিয়ে সংরক্ষণের কৃতিত্ব দেয়।",
+    "architecture": "মন্দিরটি পূর্বমুখী, এবং পাঁচ স্তরের একটি উঁচু গোপুরম এর প্রবেশপথ চিহ্নিত করে বলে উল্লিখিত। প্রাচীরের ভেতরে কোটীশ্বররের গর্ভগৃহে শিবলিঙ্গ রয়েছে, এবং দেবী ত্রিপুরসুন্দরী, এখানে বডিবাম্বিকাই নামে, তাঁর নিজস্ব মন্দিরে সম্মানিত। ভেতরের প্রদক্ষিণপথ অনেক ছোট মন্দির একত্রিত করে: করাইয়েরুম বিনায়ক, সুব্রহ্মণ্য, গজলক্ষ্মী, জ্যেষ্ঠা দেবী, কাল ভৈরব, সূর্য, চন্দ্র, শনি ও ঋষি দুর্বাসা, নটরাজ ও সপ্তমাতৃকা সহ। যম ও চিত্রগুপ্তের নিজস্ব মন্দির রয়েছে, যা বিরল। মন্দিরের তীর্থটি শৃঙ্গোদ্ভব তীর্থম, কাবেরী গ্রামের পাশ দিয়ে প্রবাহিত, এবং পবিত্র বৃক্ষ হলো পিরম্বু, বেত।",
+    "legends": "ঐতিহ্য তিন কোটি দেবতার কথা বলে যাঁরা ঋষি দুর্বাসার অভিশাপে পড়েছিলেন, তা মন্ত্রের শক্তিতে অহংকারের জন্যই হোক বা ভুল উচ্চারণে সেগুলি জপ করার জন্য। কাবেরীর তীরে শিবের শরণাপন্ন হওয়ার পরামর্শ পেয়ে তাঁরা তিরুক্কোড়িক্কায় উপাসনা করেন ও মুক্তি পান, এবং যিনি কোটি দেবতাকে মুক্ত করেন সেই প্রভু কোটীশ্বরর, 'কোটির প্রভু' নামে স্মরণীয়। দ্বিতীয় কাহিনিটি মৃত্যুর দেবতা যম ও তাঁর লিপিকার চিত্রগুপ্তের, যাঁরা এই পবিত্র স্থানে সীমালঙ্ঘন করে শিবের অসন্তোষ ঘটিয়েছিলেন। তপস্যার পর তাঁরা চিত্রা পূর্ণিমার দিনে শৃঙ্গোদ্ভব তীর্থমে স্নান করেন ও অভিশাপ থেকে মুক্ত হন। তাই ভক্তরা এখানে মৃত্যুভয় থেকে মুক্তির জন্য প্রার্থনা করেন।",
+    "festivals": "চিত্রা পূর্ণিমা, এপ্রিল বা মে মাসের পূর্ণিমা, সবচেয়ে বৈশিষ্ট্যসূচক দিন, যখন যম ও চিত্রগুপ্তকে স্মরণ করা হয় এবং তীর্থকে সম্মান জানানো হয়। অন্যান্য শিবমন্দিরের মতো প্রদোষম, স্কন্দ ষষ্ঠী, মহাশিবরাত্রি ও মঙ্গলবারের উপাসনা পালিত হয়, এবং অক্টোবর বা নভেম্বরে একটি আইপ্পসি ব্রহ্মোৎসবমও উল্লিখিত। তারিখ তামিল পঞ্জিকা অনুসরণ করে বলে স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তিরুক্কোড়িকবল এক ধীর দর্শনকে পুরস্কৃত করে। ধানখেত ও নদীপথ থেকে পূর্ব দ্বারে এসে কোটীশ্বররের গর্ভগৃহের সামনে প্রণাম করুন, তারপর বডিবাম্বিকাইকে তাঁর মন্দিরে খুঁজে নিন। ভেতরের প্রদক্ষিণপথে হেঁটে গজলক্ষ্মী, গ্রহসমূহ ও ঋষি দুর্বাসার ছোট মন্দির খুঁজুন, এবং যম ও চিত্রগুপ্তের মন্দিরে থামুন, যেখানে বহু তীর্থযাত্রী ভয়হীন জীবনের প্রার্থনা করেন। গ্রামটি যেকোনো শহরের কোলাহল থেকে দূরে, এবং মন্দিরটি হাজার বছরেরও বেশি সময় ধরে পূজিত এক নদীতীরবর্তী আশ্রয়ের স্তব্ধতা ধরে রাখে।"
   },
   "visit": {
-    "timings": "Typically open in the morning from about 7:00 until midday and again from about 4:00 until 8:30 in the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thirukodikaval is about 19 km from Kumbakonam on the Kumbakonam–Mayiladuthurai road, reached through Kuthalam and Narasinganpettai; Aduthurai, close by, offers an alternative route. Kumbakonam is the main railway station and bus hub. Tiruchirappalli, with the nearest airport, is roughly 100 km away. The temple stands in the village itself, a short walk from where buses stop."
+    "timings": "সাধারণত সকাল প্রায় ৭:০০টা থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল প্রায় ৪:০০টা থেকে সন্ধ্যা ৮:৩০ পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য: পুরুষদের জন্য ধুতি বা ট্রাউজার, মহিলাদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশদ্বারের স্ট্যান্ডে পাদুকা রেখে যাওয়া হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে বাইরের প্রদক্ষিণপথ ও উঠানে সাধারণত আলোকচিত্র গ্রহণ অনুমোদিত কিন্তু ভেতরের গর্ভগৃহে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুক্কোড়িকবল কুম্বকোণম–ময়িলাড়ুথুরাই সড়কে কুম্বকোণম থেকে প্রায় ১৯ কিলোমিটার দূরে, কুথালম ও নরসিংহনপেট্টাইয়ের মধ্য দিয়ে পৌঁছানো যায়; কাছেই আডুথুরাই একটি বিকল্প পথ দেয়। কুম্বকোণম প্রধান রেলস্টেশন ও বাস কেন্দ্র। নিকটতম বিমানবন্দরসহ তিরুচিরাপল্লী প্রায় ১০০ কিলোমিটার দূরে। মন্দিরটি গ্রামেই অবস্থিত, বাস থামার স্থান থেকে অল্প হাঁটাপথ।"
   }
 }

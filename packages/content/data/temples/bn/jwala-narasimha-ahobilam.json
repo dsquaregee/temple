@@ -1,30 +1,37 @@
 {
   "id": "jwala-narasimha-ahobilam",
   "locale": "bn",
+  "name": "জ্বালা নরসিংহ মন্দির, অহোবিলম",
   "nativeName": "జ్వాలా నరసింహ ఆలయం, అహోబిలం",
+  "deity": "জ্বালা নরসিংহ রূপে বিষ্ণু — অষ্টভুজ, প্রজ্বলিত রূপ যা হিরণ্যকশিপুকে বিনাশ করে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "অহোবিলম",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 15.1255,
     "lng": 78.7447
   },
+  "period": "অন্ধ্রপ্রদেশের নাল্লামালা পাহাড়ে অহোবিলমের নব নরসিংহ মন্দিরগুলির একটি",
   "century": 15,
+  "dynasty": "বিজয়নগর পৃষ্ঠপোষকতা",
+  "style": "জীবন্ত শিলার গায়ে নির্মিত পাহাড়ি মন্দির",
   "unesco": false,
   "circuits": [
     "ahobilam-nava-narasimha"
   ],
+  "summary": "ঊর্ধ্ব অহোবিলমের উপরে অচলছায় মেরুর উঁচুতে জ্বালা নরসিংহ প্রভুকে তাঁর কাহিনির অগ্নিময় চরমমুহূর্তে দেখান — সেই অষ্টভুজ রূপ যা হিরণ্যকশিপুর অত্যাচারের অবসান ঘটায় — এক শিলা-খাঁজের নিচে।",
   "sections": {
-    "history": "Jwala Narasimha is the highest of the Nava Narasimha, the nine shrines of Narasimha that pilgrims trace through the Nallamala hills of Ahobilam in Nandyal district. Tradition counts it as the very spot where the Lord's wrath blazed brightest — jwala means flame — at the moment he destroyed Hiranyakashipu. The shrine stands on the hill called Achalachaya Meru, about four kilometres of climbing beyond the Upper Ahobilam temple, close to the gorge through which the Bhavanasini stream falls. It is cared for within the Ahobila Matha's worship of the nine forms, and its stone fabric is generally associated with the Vijayanagara centuries, when Ahobilam drew sustained royal patronage.",
-    "architecture": "The shrine is modest: a small pillared hall built against a natural overhang of rock, with the sanctum tucked into the cliff so that the mountain itself forms its roof. The image is the arresting part — an eight-armed Narasimha holding Hiranyakashipu across his lap and tearing him open, while his other arms bear the conch and discus. Below the shrine lies a small pool that tradition calls the Raktakundam.",
-    "legends": "The sthala purana tells that after slaying Hiranyakashipu the Lord washed his blood-stained hands in the little pool below the shrine, and tradition holds that its water still carries a reddish tinge. The Ugra Stambham, the split crag pointed out as the pillar from which Narasimha burst forth, rises on the ridge above, so the climb to Jwala brings the pilgrim close to the heart of the Ahobilam story. In the astrological reading of the nine shrines, Jwala is linked with Mars.",
-    "festivals": "Narasimha Jayanti, in the month of Vaishakha, is the great day for all nine shrines, and the annual Brahmotsavam of Ahobilam draws pilgrims up to the hill temples. Swati, the Lord's birth star, is marked with special worship. Confirm dates locally.",
-    "experience": "Jwala Narasimha is earned on foot. The path from Upper Ahobilam climbs steeply over rock and steps, passing Varaha Narasimha and crossing near the Bhavanasini falls; stretches are slippery after rain. Start early, carry water, and allow most of a morning for the round trip. Many pilgrims pause at the falls before the final ascent."
+    "history": "জ্বালা নরসিংহ নব নরসিংহের সর্বোচ্চ, নরসিংহের সেই নয়টি মন্দির যা তীর্থযাত্রীরা নন্দিয়াল জেলার অহোবিলমের নাল্লামালা পাহাড়ের মধ্য দিয়ে অনুসরণ করেন। পরম্পরা একে ঠিক সেই স্থান গণ্য করে যেখানে প্রভুর ক্রোধ উজ্জ্বলতমভাবে প্রজ্বলিত হয়েছিল — জ্বালা অর্থ অগ্নিশিখা — যে মুহূর্তে তিনি হিরণ্যকশিপুকে বিনাশ করেন। মন্দিরটি অচলছায় মেরু নামক পাহাড়ে অবস্থিত, ঊর্ধ্ব অহোবিলম মন্দির ছাড়িয়ে প্রায় চার কিলোমিটার আরোহণের পর, সেই গিরিসংকটের কাছে যার মধ্য দিয়ে ভবনাশিনী ধারা নেমে আসে। এটি নয়টি রূপের উপাসনায় অহোবিল মঠের তত্ত্বাবধানে রক্ষিত, এবং এর প্রস্তর-কাঠামো সাধারণত বিজয়নগর শতাব্দীগুলির সঙ্গে যুক্ত, যখন অহোবিলম নিরবচ্ছিন্ন রাজকীয় পৃষ্ঠপোষকতা পেয়েছিল।",
+    "architecture": "মন্দিরটি অনাড়ম্বর: শিলার একটি প্রাকৃতিক খাঁজের গায়ে নির্মিত একটি ছোট স্তম্ভযুক্ত মণ্ডপ, গর্ভগৃহটি শৈলগাত্রে এমনভাবে প্রোথিত যে পর্বত নিজেই এর ছাদ গঠন করে। মূর্তিটিই মর্মস্পর্শী অংশ — এক অষ্টভুজ নরসিংহ হিরণ্যকশিপুকে কোলের উপর ধরে তাঁকে বিদীর্ণ করছেন, আর তাঁর অন্য বাহুগুলি শঙ্খ ও চক্র ধারণ করে। মন্দিরের নিচে একটি ছোট কুণ্ড রয়েছে যাকে পরম্পরা রক্তকুণ্ডম বলে।",
+    "legends": "স্থলপুরাণ বলে, হিরণ্যকশিপুকে বধ করার পর প্রভু মন্দিরের নিচের ছোট কুণ্ডে তাঁর রক্তমাখা হাত ধুয়েছিলেন, এবং পরম্পরা বলে এর জল আজও এক রক্তাভ আভা বহন করে। উগ্র স্তম্ভম, সেই বিদীর্ণ শৈলচূড়া যাকে সেই স্তম্ভ রূপে দেখানো হয় যার থেকে নরসিংহ আবির্ভূত হয়েছিলেন, উপরের শৈলশিরায় ওঠে, তাই জ্বালার আরোহণ তীর্থযাত্রীকে অহোবিলম কাহিনির হৃদয়ের কাছে নিয়ে আসে। নয়টি মন্দিরের জ্যোতিষীয় পাঠে জ্বালা মঙ্গলের সঙ্গে যুক্ত।",
+    "festivals": "বৈশাখ মাসে নরসিংহ জয়ন্তী সব নয়টি মন্দিরের জন্য মহান দিন, এবং অহোবিলমের বার্ষিক ব্রহ্মোৎসবম তীর্থযাত্রীদের পাহাড়ি মন্দিরগুলিতে টেনে আনে। স্বাতী, প্রভুর জন্মনক্ষত্র, বিশেষ পূজায় চিহ্নিত হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "জ্বালা নরসিংহ পায়ে হেঁটেই অর্জন করতে হয়। ঊর্ধ্ব অহোবিলম থেকে পথটি শিলা ও সোপান পেরিয়ে খাড়াভাবে ওঠে, বরাহ নরসিংহ পেরিয়ে ও ভবনাশিনী জলপ্রপাতের কাছ দিয়ে; বৃষ্টির পর কিছু অংশ পিচ্ছিল হয়ে যায়। সকাল সকাল যাত্রা করুন, জল সঙ্গে নিন, এবং যাওয়া-আসার জন্য সকালের অধিকাংশ সময় রাখুন। অনেক তীর্থযাত্রী শেষ আরোহণের আগে জলপ্রপাতের কাছে থামেন।"
   },
   "visit": {
-    "timings": "Worship is offered daily, but the shrine is reached only on foot and should be visited in daylight; set out well before midday. Confirm current timings locally, especially in the monsoon.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Reach Lower Ahobilam by road via Allagadda (Nandyal is the nearest major railhead), then take local transport up to Upper Ahobilam. From there a steep trail of about four kilometres leads to the shrine; local guides are available."
+    "timings": "প্রতিদিন পূজা নিবেদিত হয়, তবে মন্দিরে কেবল পায়ে হেঁটে পৌঁছানো যায় এবং দিনের আলোয় দর্শন করা উচিত; মধ্যাহ্নের অনেক আগে যাত্রা করুন। বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত বর্ষাকালে।",
+    "dressCode": "শালীন পারম্পরিক পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে জুতো খুলে রাখতে হবে। নির্দেশাবলী ও পুরোহিতদের পরামর্শ মেনে চলুন।",
+    "photography": "গর্ভগৃহের ভিতরে ও আশেপাশে আলোকচিত্র গ্রহণ নিষিদ্ধ; নির্দেশাবলী ও পুরোহিতদের পরামর্শ মেনে চলুন।",
+    "gettingThere": "আল্লাগড্ডা হয়ে সড়কপথে নিম্ন অহোবিলমে পৌঁছান (নন্দিয়াল নিকটতম বড় রেলস্টেশন), তারপর স্থানীয় পরিবহনে ঊর্ধ্ব অহোবিলমে উঠুন। সেখান থেকে প্রায় চার কিলোমিটারের একটি খাড়া পথ মন্দিরে নিয়ে যায়; স্থানীয় পথপ্রদর্শক পাওয়া যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/jwala-narasimha-ahobilam.jpg",

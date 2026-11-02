@@ -1,29 +1,36 @@
 {
   "id": "kothaparameswarar-kunnathur",
   "locale": "bn",
+  "name": "কোথপরমেশ্বরর মন্দির, কুন্নত্তুর",
   "nativeName": "கோதபரமேசுவரர் கோயில், குன்னத்தூர்",
+  "deity": "কোথপরমেশ্বরর রূপে শিব, দেবী শিবকামীর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Kunnathur",
-    "state": "Tamil Nadu",
+    "city": "কুন্নত্তুর",
+    "state": "তামিলনাড়ু",
     "lat": 8.748,
     "lng": 77.676
   },
+  "period": "নব কৈলাসমের চতুর্থ, রাহুর মন্দির; শিলালিপি দেখায় মন্দিরটি ত্রয়োদশ শতকের মধ্যে প্রতিষ্ঠিত",
   "century": 13,
+  "dynasty": "পাণ্ড্য",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "তিরুনেলবেলির প্রান্তে কুন্নত্তুরে এক নিচু টিলার উপর কোথপরমেশ্বরর রূপে শিব — তাঁর লিঙ্গে এক সর্পের রূপ অঙ্কিত — নব কৈলাসমের চতুর্থ, রাহুর মন্দির রক্ষা করেন।",
   "sections": {
-    "history": "Kunnathur — the village of the hillock — lies on the north-western edge of Tirunelveli, close to Thiruvengadanathapuram, and is also known by its older name Chenkani. The temple of Kothaparameswarar here is the fourth of the Nava Kailasam and the shrine of Rahu, the shadow planet. Its inscriptions show it standing by the thirteenth century, and they name the place Chenkani in Keezh-vembu-nadu, a Vedic settlement called Navaninarayana-chaturvedimangalam. The same records tell of a Pandya king, Veera Pandya, who endowed the temple with money for its daily worship — a gift that set its rituals on a firm footing for generations.",
-    "architecture": "The temple is a small Dravidian stone shrine set on a gentle rise, which gives the village its name. Its great distinction lies within the sanctum: the lingam of Kothaparameswarar bears the figure of a serpent, a rare feature that devotees connect with Rahu, the serpent-bodied planet, and that makes this the Rahu shrine of the nine. The Goddess Sivakami has her own shrine within the enclosure.",
-    "legends": "In the Nava Kailasam story, the fourth of the nine lotuses floated down the Tamiraparani by the sage Romasa, disciple of Agastya, came to rest near this hillock, and here he installed the lingam. Local devotion links the serpent-marked lingam to Rahu, and the temple is sought out by those who wish to ease the afflictions astrologers attribute to Rahu and to the serpent powers. With the Vishnu temples of neighbouring Thiruvengadanathapuram, the locality is likened by devotees to the pairing of Kalahasti and Tirupati in the north.",
-    "festivals": "Maha Shivaratri and the monthly pradosham are kept with devotion, and the Rahu kalam each day — especially on Sundays and Tuesdays — draws devotees seeking relief from Rahu dosha. Confirm dates locally.",
-    "experience": "Kunnathur is the stop on the Nava Kailasam round closest to Tirunelveli town, and many pilgrims pair it with the Vishnu shrines of Thiruvengadanathapuram nearby. Its small hillside setting and the rare serpent-marked lingam give it a character of its own among the nine."
+    "history": "কুন্নত্তুর — টিলার গ্রাম — তিরুনেলবেলির উত্তর-পশ্চিম প্রান্তে, তিরুবেঙ্গডনাথপুরমের কাছে অবস্থিত, এবং এর পুরনো নাম চেঙ্গনি নামেও পরিচিত। এখানকার কোথপরমেশ্বরর মন্দির নব কৈলাসমের চতুর্থ এবং ছায়াগ্রহ রাহুর মন্দির। এর শিলালিপি দেখায় এটি ত্রয়োদশ শতকের মধ্যে প্রতিষ্ঠিত ছিল, এবং সেগুলি স্থানটিকে কীঝ-বেম্বু-নাড়ুতে চেঙ্গনি নামে নামাঙ্কিত করে, নবনিনারায়ণ-চতুর্বেদিমঙ্গলম নামক এক বৈদিক বসতি। একই নথি এক পাণ্ড্য রাজা বীর পাণ্ড্যের কথা বলে, যিনি দৈনিক উপাসনার জন্য মন্দিরকে অর্থ দান করেছিলেন — এক দান যা প্রজন্মের পর প্রজন্ম এর আচার-অনুষ্ঠানকে দৃঢ় ভিত্তিতে স্থাপন করেছিল।",
+    "architecture": "মন্দিরটি এক মৃদু উঁচু স্থানে স্থাপিত একটি ছোট দ্রাবিড় পাথরের মন্দির, যা গ্রামকে তার নাম দেয়। এর মহান স্বাতন্ত্র্য গর্ভগৃহের ভেতরে: কোথপরমেশ্বররের লিঙ্গ এক সর্পের মূর্তি বহন করে, এক বিরল বৈশিষ্ট্য যা ভক্তরা সর্পদেহী গ্রহ রাহুর সঙ্গে যুক্ত করেন, এবং যা একে নয়টির মধ্যে রাহুর মন্দির করে তোলে। দেবী শিবকামীর প্রাঙ্গণের মধ্যে নিজস্ব মন্দির রয়েছে।",
+    "legends": "নব কৈলাসমের কাহিনিতে, নয়টি পদ্মের চতুর্থটি অগস্ত্যের শিষ্য ঋষি রোমশ কর্তৃক তাম্রপর্ণী নদীতে ভেসে এসে এই টিলার কাছে থেমেছিল, এবং এখানে তিনি লিঙ্গটি প্রতিষ্ঠা করেন। স্থানীয় ভক্তি সর্প-চিহ্নিত লিঙ্গকে রাহুর সঙ্গে যুক্ত করে, এবং যাঁরা জ্যোতিষীদের মতে রাহু ও সর্পশক্তির দ্বারা আরোপিত পীড়া প্রশমিত করতে চান তাঁরা মন্দিরটি খুঁজে নেন। প্রতিবেশী তিরুবেঙ্গডনাথপুরমের বিষ্ণু মন্দিরগুলির সঙ্গে, স্থানটিকে ভক্তরা উত্তরের কালাহস্তি ও তিরুপতির জুড়ির সঙ্গে তুলনা করেন।",
+    "festivals": "মহাশিবরাত্রি ও মাসিক প্রদোষম ভক্তিভরে পালিত হয়, এবং প্রতিদিনের রাহু কালম — বিশেষত রবিবার ও মঙ্গলবারে — রাহু দোষ থেকে মুক্তি প্রার্থী ভক্তদের আকর্ষণ করে। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "কুন্নত্তুর তিরুনেলবেলি শহরের নিকটতম নব কৈলাসম পরিক্রমার দর্শনস্থল, এবং বহু তীর্থযাত্রী এটিকে কাছের তিরুবেঙ্গডনাথপুরমের বিষ্ণু মন্দিরের সঙ্গে জুড়ে দেন। এর ছোট পাহাড়ি অবস্থান এবং বিরল সর্প-চিহ্নিত লিঙ্গ নয়টির মধ্যে একে নিজস্ব এক চরিত্র দেয়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; special worship is offered during Rahu kalam. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kunnathur lies in Tirunelveli district near Thiruvengadanathapuram, about 11 km from Tirunelveli Junction; town buses and mini-buses run from Tirunelveli town. Tirunelveli is the nearest railway junction and Thoothukudi the nearest airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনকালে খোলা, মধ্যাহ্নে বন্ধ; রাহু কালমে বিশেষ উপাসনা দেওয়া হয়। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখুন। অনেক দক্ষিণী মন্দিরের মতো পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সামনে ঊর্ধ্বাঙ্গের বস্ত্র খুলতে বলা হয়; প্রদর্শিত নিয়ম মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে আলোকচিত্র গ্রহণ সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "কুন্নত্তুর তিরুনেলবেলি জেলায় তিরুবেঙ্গডনাথপুরমের কাছে, তিরুনেলবেলি জংশন থেকে প্রায় ১১ কিলোমিটার দূরে অবস্থিত; তিরুনেলবেলি শহর থেকে শহুরে বাস ও মিনিবাস চলে। তিরুনেলবেলি নিকটতম রেল জংশন এবং থুথুকুড়ি নিকটতম বিমানবন্দর।"
   }
 }

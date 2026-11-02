@@ -1,29 +1,36 @@
 {
   "id": "ketheeswarar-mannar",
   "locale": "bn",
+  "name": "তিরুকেতীশ্বরম মন্দির, মান্নার (মাতোট্টম)",
   "nativeName": "திருக்கேதீச்சரம்",
+  "deity": "শিব কেতীশ্বরর রূপে, দেবী গৌরীর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Mannar",
-    "state": "Northern Province, Sri Lanka",
+    "city": "মান্নার",
+    "state": "উত্তর প্রদেশ, শ্রীলঙ্কা",
     "lat": 8.9147,
     "lng": 79.9561
   },
+  "period": "মাতোট্টমের প্রাচীন বন্দরে ঈড় নাড়ুর একটি পাডল পেট্র স্থলম, তেবারমে (সপ্তম শতাব্দী) সম্বন্দর ও সুন্দরর কর্তৃক স্তবগীত",
   "century": 7,
+  "dynasty": "মাতোট্টমের প্রাচীন বন্দর-ক্ষেত্র, বিংশ শতাব্দীর গোড়ায় পুনর্নির্মিত",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "মাতোট্টমে পালাবি পুষ্করিণীর পাশে, মান্নার দ্বীপের ওপার জলে, শিব কেতীশ্বরর রূপে পূজিত, শ্রীলঙ্কার দুই তেবারম ক্ষেত্রের একটিতে।",
   "sections": {
-    "history": "Thiruketheeswaram stands at Mathottam, the Mantai of old, once a busy harbour on the north-western coast of Sri Lanka facing Mannar island. It is one of the 276 Paadal Petra Sthalams and one of only two in Eezha Nadu, the island's share of the Tevaram, the other being Koneswaram at Trincomalee. Thirugnana Sambandar and Sundarar both sang the Lord of Ketheeswaram, and Sundarar's verses dwell on the banks of the Palavi. The old shrine was destroyed in the late sixteenth century and worship there ceased for some three hundred years. In 1872 the Jaffna scholar Arumuka Navalar called on Shaivas to restore it; the site was traced in the 1890s and a new temple rose on the ancient ground in the early twentieth century.",
-    "architecture": "The present temple is a Dravidian shrine of the modern revival, raised on the site of the ancient one, with its sanctum for Ketheeswarar, a separate shrine for the Goddess and an enclosing prakaram. Its great sacred water is the Palavi tank, an ancient reservoir restored from ruin, whose name the Tevaram itself preserves. Near the temple lies the estuary of the Aruvi Aru, the river that once made Mathottam a port.",
-    "legends": "The name is explained through Ketu, the shadow planet of the navagrahas: tradition holds that Ketu performed penance at this spot and was granted the vision of Shiva and the Goddess, so that the place became Thiru-Ketu-Ishwaram. Another tradition links Mathottam with the Ramayana, saying that Mandodari, queen of Ravana, came from this port, and that her father Mayan, the celestial architect, first raised a shrine to Shiva here.",
-    "festivals": "Maha Shivaratri is the great night of Thiruketheeswaram, when pilgrims gather from across the island to keep vigil, and on the following morning bathe in the Palavi tank. The annual Mahotsavam closes with a theertham, the sacred bathing of the deity at the Palavi; confirm dates locally.",
-    "experience": "Thiruketheeswaram is a place of return: a shrine that was lost for centuries and restored by the devotion of the people who remembered it. Pilgrims bathe in the Palavi, worship Ketheeswarar and the Goddess, and recall that Sambandar and Sundarar sang this coast from across the sea, joining Mathottam to the Shaiva sacred geography of the Tamil land."
+    "history": "তিরুকেতীশ্বরম মাতোট্টমে, প্রাচীন মান্তৈতে, দণ্ডায়মান, একসময় মান্নার দ্বীপের দিকে মুখ করা শ্রীলঙ্কার উত্তর-পশ্চিম উপকূলের এক ব্যস্ত বন্দর। এটি ২৭৬টি পাডল পেট্র স্থলমের একটি এবং ঈড় নাড়ুর কেবল দুটির একটি, দ্বীপের তেবারমে অংশ, অপরটি ত্রিঙ্কোমালির কোণেশ্বরম। তিরুজ্ঞানসম্বন্দর ও সুন্দরর উভয়েই কেতীশ্বরমের ভগবানকে গেয়েছেন, এবং সুন্দররের স্তোত্র পালাবির তীরে অবস্থান করে। প্রাচীন ক্ষেত্রটি ষোড়শ শতাব্দীর শেষে ধ্বংস হয় এবং সেখানে প্রায় তিনশো বছর পূজা বন্ধ ছিল। ১৮৭২ সালে জাফনার পণ্ডিত আরুমুগ নাবলর শৈবদের এটি পুনরুদ্ধারের আহ্বান জানান; ১৮৯০-এর দশকে ক্ষেত্রটি চিহ্নিত করা হয় এবং বিংশ শতাব্দীর গোড়ায় প্রাচীন ভূমিতে একটি নতুন মন্দির উঠে দাঁড়ায়।",
+    "architecture": "বর্তমান মন্দিরটি আধুনিক পুনরুজ্জীবনের একটি দ্রাবিড় ক্ষেত্র, প্রাচীনটির স্থানে উত্থিত, কেতীশ্বররের জন্য গর্ভগৃহ, দেবীর জন্য একটি পৃথক মন্দির ও একটি পরিবেষ্টক প্রাকারসহ। এর মহান পবিত্র জল হল পালাবি পুষ্করিণী, ধ্বংস থেকে পুনরুদ্ধার করা একটি প্রাচীন জলাধার, যার নাম তেবারম নিজে সংরক্ষণ করে। মন্দিরের কাছেই অরুবি আরুর মোহনা, সেই নদী যা একসময় মাতোট্টমকে একটি বন্দর করেছিল।",
+    "legends": "নামটি নবগ্রহের ছায়াগ্রহ কেতুর মাধ্যমে ব্যাখ্যা করা হয়: ঐতিহ্য মানে কেতু এই স্থানে তপস্যা করে শিব ও দেবীর দর্শন লাভ করেন, যাতে স্থানটি তিরু-কেতু-ঈশ্বরম হয়ে ওঠে। অপর এক ঐতিহ্য মাতোট্টমকে রামায়ণের সঙ্গে যুক্ত করে, বলে যে রাবণের রানি মন্দোদরী এই বন্দর থেকে এসেছিলেন, এবং তাঁর পিতা ময়ন, দিব্য স্থপতি, এখানে প্রথম শিবের একটি মন্দির নির্মাণ করেন।",
+    "festivals": "মহাশিবরাত্রি তিরুকেতীশ্বরমের মহান রাত্রি, যখন তীর্থযাত্রীরা দ্বীপজুড়ে এসে জাগরণ করেন, এবং পরদিন সকালে পালাবি পুষ্করিণীতে স্নান করেন। বার্ষিক মহোৎসবম পালাবিতে একটি তীর্থম, দেবতার পবিত্র স্নান, দিয়ে শেষ হয়; তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "তিরুকেতীশ্বরম প্রত্যাবর্তনের স্থান: এক ক্ষেত্র যা শতাব্দীর জন্য হারিয়ে গিয়েছিল এবং যাঁরা তা স্মরণ করেছিলেন তাঁদের ভক্তিতে পুনরুদ্ধার হয়েছিল। তীর্থযাত্রীরা পালাবিতে স্নান করেন, কেতীশ্বরর ও দেবীকে পূজা করেন, এবং স্মরণ করেন যে সম্বন্দর ও সুন্দরর সমুদ্রপার থেকে এই উপকূলকে গেয়েছিলেন, মাতোট্টমকে তামিল ভূমির শৈব পবিত্র ভূগোলের সঙ্গে যুক্ত করে।"
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions, with extended hours on Maha Shivaratri and festival days. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — men often enter the inner shrine bare-chested, wearing a veshti; women in saree or other modest dress. Footwear is left outside.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer areas, ask the temple staff before taking pictures, especially during rituals and festivals.",
-    "gettingThere": "The temple lies on the mainland about 10 km from Mannar town, near the causeway to Mannar island, in Sri Lanka's Northern Province. Mannar has a railway station and bus links to Vavuniya, Anuradhapura and Jaffna; Colombo's international airport is the main gateway, several hours away by road."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার সময়ে খোলা, মহাশিবরাত্রি ও উৎসবের দিনে বর্ধিত সময়সহ। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — পুরুষেরা প্রায়ই অন্তর্মন্দিরে উদোম গায়ে বেষ্টি পরে প্রবেশ করেন; নারীরা শাড়ি বা অন্য শালীন পোশাকে। পাদুকা বাইরে রেখে যেতে হয়।",
+    "photography": "গর্ভগৃহের ভিতরে আলোকচিত্র গ্রহণের অনুমতি নেই; বাইরের অংশে, বিশেষত আচার ও উৎসবের সময়, ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি মূল ভূখণ্ডে মান্নার নগর থেকে প্রায় ১০ কিমি দূরে, মান্নার দ্বীপের সেতুর কাছে, শ্রীলঙ্কার উত্তর প্রদেশে অবস্থিত। মান্নারে একটি রেলস্টেশন এবং ভাবুনিয়া, অনুরাধাপুর ও জাফনার সঙ্গে বাস সংযোগ আছে; কলম্বোর আন্তর্জাতিক বিমানবন্দর মূল প্রবেশদ্বার, সড়কপথে কয়েক ঘণ্টা দূরে।"
   }
 }

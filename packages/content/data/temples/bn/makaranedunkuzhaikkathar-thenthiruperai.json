@@ -1,30 +1,37 @@
 {
   "id": "makaranedunkuzhaikkathar-thenthiruperai",
   "locale": "bn",
+  "name": "মকর নেডুঙ্কুড়ৈক্কাতর মন্দির, তেন্‌তিরুপ্পেরৈ",
   "nativeName": "மகர நெடுங்குழைக்காதர் கோயில், தென்திருப்பேரை",
+  "deity": "বিষ্ণু মকর নেডুঙ্কুড়ৈক্কাতর রূপে, দেবী কুড়ৈক্কাতুবল্লি সহ — নব তিরুপতির মধ্যে শুক্র গ্রহের মন্দির",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thenthiruperai",
-    "state": "Tamil Nadu",
+    "city": "তেন্‌তিরুপ্পেরৈ",
+    "state": "তামিলনাড়ু",
     "lat": 8.6032,
     "lng": 77.986
   },
+  "period": "তাম্রপর্ণী তীরের পাণ্ড্য দেশের একটি দিব্যদেশম্‌, নালায়িরা দিব্যপ্রবন্ধমে নম্মাড়্‌বার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "তাম্রপর্ণী তীরে তেন্‌তিরুপ্পেরৈতে বিষ্ণু দাঁড়িয়ে আছেন মকর নেডুঙ্কুড়ৈক্কাতর রূপে, লম্বা মাছ-আকৃতির কর্ণকুণ্ডলের প্রভু — নয়টি গ্রহ তিরুপতির মধ্যে শুক্রের মন্দির, নম্মাড়্‌বার কর্তৃক স্তুত একটি দিব্যদেশম্‌।",
   "sections": {
-    "history": "Thenthiruperai lies among the Tirupati villages on the Tamiraparani, and its lord is Makara Nedunkuzhaikkathar, named for the great makara (fish-form) earrings he wears. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of Venus, Shukra.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Makara Nedunkuzhaikkathar, with the Goddess Kuzhaikkathuvalli. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Thenthiruperai the planet is Venus, Shukra.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of Venus, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "তেন্‌তিরুপ্পেরৈ তাম্রপর্ণী তীরের তিরুপতি গ্রামগুলির মধ্যে অবস্থিত, এবং এর প্রভু মকর নেডুঙ্কুড়ৈক্কাতর, তিনি যে মহা মকর (মাছ-রূপী) কর্ণকুণ্ডল পরেন তার নামে নামাঙ্কিত। এটি ১০৮টি দিব্যদেশমের একটি, নালায়িরা দিব্যপ্রবন্ধমে আড়্‌বার সন্তদের দ্বারা স্তুত বিষ্ণুর ধাম, এবং নব তিরুপতির একটি — তাম্রপর্ণীর নয়টি মন্দির, যার প্রতিটি বৈষ্ণবদের কাছে এক গ্রহের মন্দির রূপে গণ্য। নব তিরুপতির মধ্যে এটি শুক্র গ্রহের মন্দির রূপে সম্মানিত।",
+    "architecture": "পাণ্ড্য দেশ ও তার পরবর্তী পৃষ্ঠপোষকদের দ্রাবিড় রীতিতে নির্মিত, মন্দিরে একটি তোরণ দিয়ে প্রবেশ করা যায় এবং অধিষ্ঠাতা বিষ্ণুর গর্ভগৃহ ঘিরে সংকলিত, দেবী তাঁর নিজের মন্দিরে। এখানে প্রভু মকর নেডুঙ্কুড়ৈক্কাতর রূপে পূজিত হন, দেবী কুড়ৈক্কাতুবল্লির সঙ্গে। গর্ভগৃহের সামনে স্তম্ভযুক্ত মণ্ডপ খোলে, সুদূর দক্ষিণের মন্দিররীতিতে।",
+    "legends": "নব তিরুপতি একসঙ্গে বৈষ্ণবদের নয়টি গ্রহ মন্দির রূপে পূজিত হয়: যেখানে কাবেরীর শৈব ঐতিহ্য নয়টি পৃথক নবগ্রহ মন্দির রাখে, এখানে নয়টি গ্রহ তাম্রপর্ণীর বিষ্ণুর নয়টি ধামজুড়ে সম্মানিত, সবগুলিই নম্মাড়্‌বার, আড়্‌বারদের শ্রেষ্ঠ, কর্তৃক স্তুত, যাঁর নিজের জন্মস্থান এগুলির মধ্যে আড়্‌বারতিরুনগরী। তেন্‌তিরুপ্পেরৈতে গ্রহটি শুক্র।",
+    "festivals": "মন্দির মহৎ বৈষ্ণব উৎসবগুলি রাখে — বৈকুণ্ঠ একাদশী, গরুড় সেবৈ যখন নয়টি একটি একক আবর্তনে পূজিত হয়, এবং নম্মাড়্‌বার ও আড়্‌বারদের দিনগুলি — নদীতীরের গ্রামগুলির মধ্য দিয়ে শোভাযাত্রাসহ। তাম্রপর্ণীর নিজস্ব উৎসবগুলি চারপাশের দেশকে টেনে আনে।",
+    "experience": "নয়টির মধ্যে এক নিরিবিলি নদীতীরের দিব্যদেশম্‌, সেই তীর্থযাত্রীর জন্য পুরস্কারময় যিনি তাম্রপর্ণী ধরে এক তিরুপতি থেকে পরেরটিতে যান। শুক্রের মন্দির রূপে, এটি নব তিরুপতির সেই একক তীর্থযাত্রায় স্থান নেয় যা নয়টি গ্রহকে বিষ্ণুর ধামগুলিতে সমবেত করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন পর্বসহ এবং দুপুরে বন্ধসহ খোলা থাকে; গরুড় সেবৈ ও বৈকুণ্ঠ একাদশীর দিনগুলি সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময় নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতা খুলে রাখা। টাঙানো নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার চারপাশে আলোকচিত্র তোলা সীমিত; টাঙানো নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "এটি তিরুনেলবেলি–তুতুকুড়ি দেশে তাম্রপর্ণী তীরে, তিরুনেলবেলি–তিরুচেন্দুর পথে অবস্থিত, তিরুনেলবেলি থেকে সড়কপথে পৌঁছানো যায়; নয়টি তিরুপতি গ্রাম নদী ধরে কাছাকাছি অবস্থিত।"
   }
 }

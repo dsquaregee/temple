@@ -1,31 +1,38 @@
 {
   "id": "jagadeeshwara-thiruneeragam",
   "locale": "bn",
+  "name": "জগদীশ্বর পেরুমাল মন্দির (তিরুনীরগম), কাঞ্চিপুরম",
   "nativeName": "ஜகதீசுவரப் பெருமாள் கோயில் (திருநீரகம்), காஞ்சிபுரம்",
+  "deity": "জগদীশ্বর পেরুমাল রূপে বিষ্ণু, দেবী নীলমঙ্গৈবল্লী তায়ারের সঙ্গে — তিরুনীরগমের দিব্য দেশম, উলগলন্দ পেরুমাল মন্দিরের অভ্যন্তরে অবস্থিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.8392,
     "lng": 79.705
   },
+  "period": "তোণ্ডৈ নাড়ুর একটি দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পল্লব (আশ্রয়দানকারী মন্দির, চোল, বিজয়নগর ও নায়ক সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "তিরুনীরগম কাঞ্চিপুরমের একক উলগলন্দ পেরুমাল প্রাঙ্গণের অভ্যন্তরে থাকা চারটি দিব্য দেশমের একটি, যেখানে বিষ্ণু জগদীশ্বর পেরুমাল রূপে পূজিত, তিরুমঙ্গৈ আলবার কর্তৃক এক স্তোত্রে স্তুত।",
   "sections": {
-    "history": "Thiruneeragam is not a temple of its own but a Divya Desam housed within the Ulagalantha Perumal Temple of Periya Kanchi, the same complex that holds Thiruooragam, Thirukkaragam and Thirukkarvanam. The four are believed to have once been independent shrines, brought together in this complex, and a single verse of Thirumangai Alvar names them all. Of the shrine itself, the Alvar's hymn is the firm testimony; one pasuram is credited to it in the Nalayira Divya Prabandham. The host temple is believed to be a Pallava foundation, enlarged by the Cholas, the Vijayanagara kings and the Nayaks, and administered today by the Tamil Nadu HR&CE Department. It is one of the 108 Divya Desams of Thondai Nadu.",
-    "architecture": "The shrine sits within the walls of the Ulagalantha Perumal complex, with its own sanctum under the Jagadeeshwara Vimanam. Its sacred water is the Akrura Theertham. There is no fixed moolavar image here; it is the utsavar, the processional image, that is worshipped as Jagadeeshwara Perumal, with Nilamangaivalli Thayar as his consort. The Akrura of the Puranas is named as the devotee who beheld the Lord here.",
-    "legends": "The name Thiruneeragam carries the word neer, water, and devotional readers take it as a picture of the Lord himself: like water, giving itself equally to every being that comes to it. The sthala purana names Akrura, the devotee of Krishna, as the one who saw the Lord at this place, and the tank still bears his name. With Thiruooragam, Thirukkaragam and Thirukkarvanam it forms the four Divya Desams that tradition keeps within the one complex.",
-    "festivals": "Thiruneeragam shares the calendar of the Ulagalantha Perumal Temple: Vaikunta Ekadashi, the annual Brahmotsavam and the recitation of the Divya Prabandham in the month of Margazhi. Confirm dates locally.",
-    "experience": "A small and easily missed sanctum, best visited as part of the whole circuit of the complex. Seek it out after Thiruooragam, and ask the priests to show the Akrura Theertham and the utsavar of Jagadeeshwara Perumal. Pause here with the Alvar's single verse in mind; it is a place for quiet, not spectacle."
+    "history": "তিরুনীরগম কোনো নিজস্ব মন্দির নয়, বরং পেরিয় কাঞ্চির উলগলন্দ পেরুমাল মন্দিরের অভ্যন্তরে অবস্থিত একটি দিব্য দেশম — সেই একই প্রাঙ্গণ যেখানে তিরুঊরগম, তিরুক্কারগম ও তিরুক্কারবনমও রয়েছে। মনে করা হয় চারটি একসময় স্বতন্ত্র মন্দির ছিল, যা এই প্রাঙ্গণে একত্রিত হয়েছে, এবং তিরুমঙ্গৈ আলবারের একটি একক পদে এগুলির সকলের নাম রয়েছে। এই মন্দিরটির ক্ষেত্রে আলবারের স্তোত্রই দৃঢ় সাক্ষ্য; নালায়ির দিব্য প্রবন্ধমে এর নামে একটি পাসুরম রয়েছে। আশ্রয়দানকারী মন্দিরটিকে পল্লব নির্মাণ বলে মনে করা হয়, যা চোল, বিজয়নগর রাজা ও নায়কদের দ্বারা সম্প্রসারিত এবং আজ তামিলনাড়ু এইচআর অ্যান্ড সিই দপ্তর কর্তৃক পরিচালিত। এটি তোণ্ডৈ নাড়ুর ১০৮টি দিব্য দেশমের একটি।",
+    "architecture": "মন্দিরটি উলগলন্দ পেরুমাল প্রাঙ্গণের প্রাচীরের ভিতরে অবস্থিত, জগদীশ্বর বিমানমের নিচে এর নিজস্ব গর্ভগৃহ সহ। এর পবিত্র জল অক্রূর তীর্থম। এখানে কোনো স্থায়ী মূলবর মূর্তি নেই; উৎসবর অর্থাৎ শোভাযাত্রার মূর্তিটিই জগদীশ্বর পেরুমাল রূপে পূজিত, নীলমঙ্গৈবল্লী তায়ার তাঁর সহধর্মিণী রূপে। পুরাণের অক্রূরকে সেই ভক্ত বলা হয় যিনি এখানে প্রভুর দর্শন পেয়েছিলেন।",
+    "legends": "তিরুনীরগম নামটিতে নীর অর্থাৎ জল শব্দটি রয়েছে, এবং ভক্তিপ্রবণ পাঠকরা একে প্রভুরই প্রতিচ্ছবি রূপে গ্রহণ করেন: জলের মতো, যে তাঁর কাছে আসা প্রতিটি প্রাণীকে সমানভাবে নিজেকে বিলিয়ে দেন। স্থলপুরাণ কৃষ্ণভক্ত অক্রূরকে সেই ব্যক্তি বলে নির্দেশ করে যিনি এই স্থানে প্রভুর দর্শন পেয়েছিলেন, এবং তীর্থকুণ্ড আজও তাঁর নাম বহন করে। তিরুঊরগম, তিরুক্কারগম ও তিরুক্কারবনমের সঙ্গে এটি সেই চারটি দিব্য দেশম গঠন করে যা পরম্পরা এক প্রাঙ্গণের মধ্যে রক্ষা করে।",
+    "festivals": "তিরুনীরগম উলগলন্দ পেরুমাল মন্দিরের পঞ্জিকা ভাগ করে নেয়: বৈকুণ্ঠ একাদশী, বার্ষিক ব্রহ্মোৎসবম এবং মার্গঝি মাসে দিব্য প্রবন্ধম পাঠ। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "একটি ছোট ও সহজে দৃষ্টি এড়িয়ে যাওয়া গর্ভগৃহ, যা সম্পূর্ণ প্রাঙ্গণের পরিক্রমার অংশ হিসেবে দর্শন করাই সর্বোত্তম। তিরুঊরগমের পরে এটি খুঁজে নিন, এবং পুরোহিতদের অক্রূর তীর্থম ও জগদীশ্বর পেরুমালের উৎসবর দেখাতে বলুন। আলবারের একক পদটি মনে রেখে এখানে থামুন; এটি নিস্তব্ধতার স্থান, জাঁকজমকের নয়।"
   },
   "visit": {
-    "timings": "The shrine opens with the Ulagalantha Perumal Temple: morning and evening darshan sessions with a midday closure. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
-    "gettingThere": "This is a shrine inside the Ulagalantha Perumal Temple in the old town of Kanchipuram (Periya Kanchi); enter by that temple's gateway and ask for Thiruneeragam. Chennai, about 70 km to the north-east, is the nearest major airport, and Kanchipuram town is the nearest railhead."
+    "timings": "মন্দিরটি উলগলন্দ পেরুমাল মন্দিরের সঙ্গে খোলে: মধ্যাহ্নে বন্ধ রেখে সকাল ও সন্ধ্যার দর্শন-পর্ব। ভ্রমণের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন পারম্পরিক পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে জুতো খুলে রাখতে হবে। নির্দেশাবলী ও পুরোহিতদের পরামর্শ মেনে চলুন।",
+    "photography": "গর্ভগৃহসমূহের ভিতরে ও আশেপাশে আলোকচিত্র গ্রহণ নিষিদ্ধ; নির্দেশাবলী ও পুরোহিতদের পরামর্শ মেনে চলুন।",
+    "gettingThere": "এটি কাঞ্চিপুরমের পুরোনো শহরে (পেরিয় কাঞ্চি) উলগলন্দ পেরুমাল মন্দিরের ভিতরের একটি মন্দির; সেই মন্দিরের তোরণ দিয়ে প্রবেশ করে তিরুনীরগমের কথা জিজ্ঞাসা করুন। উত্তর-পূর্বে প্রায় ৭০ কিমি দূরে চেন্নাই নিকটতম বড় বিমানবন্দর, এবং কাঞ্চিপুরম শহর নিকটতম রেলস্টেশন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/jagadeeshwara-thiruneeragam.jpg",

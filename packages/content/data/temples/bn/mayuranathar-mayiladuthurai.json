@@ -1,30 +1,37 @@
 {
   "id": "mayuranathar-mayiladuthurai",
   "locale": "bn",
+  "name": "ময়ূরনাথস্বামী মন্দির, ময়িলাড়ুতুরাই",
   "nativeName": "மாயூரநாதசுவாமி கோயில்",
+  "deity": "শিব ময়ূরনাথর রূপে, দেবী অভয়াম্বিকাইয়ের সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "ময়িলাড়ুতুরাই",
+    "state": "তামিলনাড়ু",
     "lat": 11.0956,
     "lng": 79.6561
   },
+  "period": "কাবেরীর তীরে মহান শৈব মন্দির, তেবারমে স্তুত (সপ্তম শতাব্দী), চোল ও পরবর্তী কাজ সহ",
   "century": 7,
+  "dynasty": "চোল ও পরবর্তী তামিল পৃষ্ঠপোষকগণ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ময়িলাড়ুতুরাইয়ে কাবেরীর তীরে শিব ময়ূরনাথর, যা এখানে পার্বতীর ময়ূরী (ময়িল) রূপে পূজার জন্য নামাঙ্কিত; শহর ও মন্দির তাঁর তপস্যার নৃত্য থেকে তাদের নাম পায়।",
   "sections": {
-    "history": "Mayiladuthurai, the town where the peahen danced, is a great Shaiva centre on the north bank of the Kaveri, and its Mayuranathaswami temple is a Paadal Petra Sthalam praised by Appar and Thirugnana Sambandar, counted among the shrines sung on the southern side of the river's course. Chola inscriptions call the deity Thirumayiladuthurai Udaiyar, and the temple was built and enriched in stone by the Cholas and their successors, with later addition by the Nayaks and others. In the fifteenth century the poet Arunagirinathar praised it in his Tirupugazh. The temple is administered by the Thiruvavaduthurai Adheenam and remains one of the foremost temples of the delta.",
-    "architecture": "The temple is a large Dravidian complex entered through a towering rajagopuram, with spacious prakara courtyards, pillared halls and a temple tank. The sanctum enshrines the Shiva linga of Mayuranathar, and the goddess Abhayambikai has her own shrine. Around the courtyards stand the shrines of the parivara deities and the saints, and the riverside ghats of the Kaveri lie close by, used for the great bathing festivals. The scale and the layered additions mark it as one of the major temples of the Kaveri country.",
-    "legends": "The temple's name comes from Parvati. In the legend she once slighted Shiva, or playfully covered his eyes, and was asked to do penance; taking the form of a peahen, mayil, she worshipped Shiva on the bank of the Kaveri here and danced before him, and the Lord in turn is said to have danced the Gowri Thandava for her. From her worship as the peahen the Lord became Mayuranathar and the town Mayiladuthurai, the place where the peahen danced, and Parvati won back her union with Shiva.",
-    "festivals": "The temple is renowned for Tula Snanam, the sacred bathing in the Kaveri in the Tamil month of Aippasi (Tula), when great crowds gather at the river ghats, a festival for which Mayiladuthurai is especially famous. Maha Shivaratri, the monthly Pradosham, and the car festival are also observed. Festival dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Mayuranathaswami is a busy, living temple at the heart of its town, and a visit often joins the temple to the Kaveri ghats a short walk away, where pilgrims bathe, especially in the Tula month. Within the walls the great halls and the shrines of Mayuranathar and Abhayambikai reward an unhurried round, and the story of the peahen's dance gives the place its gentle name and spirit."
+    "history": "ময়িলাড়ুতুরাই, যে শহরে ময়ূরী নেচেছিল, কাবেরীর উত্তর তীরে একটি মহান শৈব কেন্দ্র, এবং এর ময়ূরনাথস্বামী মন্দির একটি পাডল পেট্র স্থলম, আপ্পার ও তিরুজ্ঞান সম্বন্দরের দ্বারা প্রশংসিত, নদীর গতিপথের দক্ষিণ পাশে স্তুত ক্ষেত্রগুলির মধ্যে গণ্য। চোল শিলালিপিতে দেবতাকে তিরুময়িলাড়ুতুরাই উদৈয়ার বলা হয়, এবং মন্দিরটি চোল ও তাঁদের উত্তরসূরিদের দ্বারা পাথরে নির্মিত ও সমৃদ্ধ করা হয়, নায়ক ও অন্যান্যদের পরবর্তী সংযোজন সহ। পঞ্চদশ শতাব্দীতে কবি অরুণগিরিনাথর তাঁর তিরুপ্পুগঝে একে প্রশংসা করেছিলেন। মন্দিরটি তিরুবাবাড়ুতুরাই আধীনমের দ্বারা পরিচালিত এবং ব-দ্বীপের অগ্রগণ্য মন্দিরগুলির একটি হিসেবে রয়ে গেছে।",
+    "architecture": "মন্দিরটি একটি বড় দ্রাবিড় প্রাঙ্গণ, একটি উঁচু রাজগোপুরম দিয়ে প্রবেশ করে, প্রশস্ত প্রাকার প্রাঙ্গণ, স্তম্ভযুক্ত হল ও একটি মন্দির-পুষ্করিণী সহ। গর্ভগৃহে ময়ূরনাথরের শিবলিঙ্গ প্রতিষ্ঠিত, এবং দেবী অভয়াম্বিকাইয়ের নিজস্ব মন্দির রয়েছে। প্রাঙ্গণের চারপাশে পরিবার-দেবতা ও সন্তদের মন্দির দাঁড়িয়ে আছে, এবং কাবেরীর নদীতীরের ঘাটগুলি কাছেই, মহান স্নান-উৎসবে ব্যবহৃত হয়। এর বিশালতা ও স্তরবদ্ধ সংযোজন একে কাবেরী দেশের প্রধান মন্দিরগুলির একটি হিসেবে চিহ্নিত করে।",
+    "legends": "মন্দিরের নাম পার্বতীর কাছ থেকে আসে। কিংবদন্তিতে তিনি একবার শিবকে অবজ্ঞা করেছিলেন, বা খেলাচ্ছলে তাঁর চোখ ঢেকে দিয়েছিলেন, এবং তাঁকে তপস্যা করতে বলা হয়েছিল; ময়ূরী, ময়িল, রূপ ধরে তিনি এখানে কাবেরীর তীরে শিবপূজা করেছিলেন ও তাঁর সামনে নেচেছিলেন, এবং প্রভুও পালা করে তাঁর জন্য গৌরী তাণ্ডব নেচেছিলেন বলা হয়। ময়ূরী রূপে তাঁর পূজা থেকে প্রভু হন ময়ূরনাথর ও শহর ময়িলাড়ুতুরাই, যে স্থানে ময়ূরী নেচেছিল, এবং পার্বতী শিবের সঙ্গে তাঁর মিলন ফিরে পেয়েছিলেন।",
+    "festivals": "মন্দিরটি তুলা স্নানম—তামিল মাস আইপ্পসি (তুলা)-তে কাবেরীতে পবিত্র স্নান—এর জন্য বিখ্যাত, যখন নদীতীরের ঘাটে বিপুল জনতা জড়ো হয়, একটি উৎসব যার জন্য ময়িলাড়ুতুরাই বিশেষভাবে প্রসিদ্ধ। মহা শিবরাত্রি, মাসিক প্রদোষম ও রথযাত্রাও পালিত হয়। উৎসবের তারিখ তামিল পঞ্জিকা অনুসরণ করে, তাই সেগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "ময়ূরনাথস্বামী তার শহরের কেন্দ্রে একটি ব্যস্ত, জীবন্ত মন্দির, এবং একটি ভ্রমণ প্রায়ই মন্দিরকে অল্প দূরের কাবেরী ঘাটের সঙ্গে যুক্ত করে, যেখানে তীর্থযাত্রীরা স্নান করেন, বিশেষত তুলা মাসে। প্রাচীরের ভেতরে মহান হল এবং ময়ূরনাথর ও অভয়াম্বিকাইয়ের মন্দিরগুলি এক অবকাশহীন প্রদক্ষিণের পুরস্কার দেয়, এবং ময়ূরীর নৃত্যের কাহিনি স্থানটিকে এর কোমল নাম ও প্রাণ দেয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Mayiladuthurai is a major town on the Kaveri in Mayiladuthurai district, with its own railway junction on the Chennai–Thanjavur line. Tiruchirappalli airport is about 110 km away. The temple is in the heart of town, within walking distance of the bus stand and railway station."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; জুতো প্রবেশদ্বারে রাখা হয়।",
+    "photography": "বাইরের গলিপথে সাধারণত ফটোগ্রাফির অনুমতি থাকলেও গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "ময়িলাড়ুতুরাই ময়িলাড়ুতুরাই জেলায় কাবেরীর তীরে একটি প্রধান শহর, চেন্নাই–তাঞ্জাভুর লাইনে এর নিজস্ব রেল জংশন সহ। তিরুচিরাপল্লি বিমানবন্দর প্রায় ১১০ কিমি দূরে। মন্দিরটি শহরের কেন্দ্রে, বাস স্ট্যান্ড ও রেলস্টেশন থেকে হাঁটার দূরত্বে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/mayuranathar-mayiladuthurai.jpg",

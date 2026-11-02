@@ -1,29 +1,36 @@
 {
   "id": "loganatha-thirukkannangudi",
   "locale": "bn",
+  "name": "লোকনাথ পেরুমাল মন্দির, তিরুক্কণ্ণঙ্গুডি",
   "nativeName": "லோகநாதப் பெருமாள் கோயில், திருக்கண்ணங்குடி",
+  "deity": "বিষ্ণু লোকনাথ পেরুমাল রূপে, দেবী লোকনায়কির সঙ্গে; উৎসব-মূর্তি অরবিন্দবল্লীর সঙ্গে দামোদর নারায়ণ পেরুমাল",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirukkannangudi",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কণ্ণঙ্গুডি",
+    "state": "তামিলনাড়ু",
     "lat": 10.7566,
     "lng": 79.7635
   },
+  "period": "চোল দেশের একটি দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক গীত",
   "century": 8,
+  "dynasty": "মধ্যযুগীয় চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "সিক্কলের কাছে তিরুক্কণ্ণঙ্গুডিতে বিষ্ণু লোকনাথ, জগতের প্রভু, সেই চিরজীবী মগিঝ গাছের পাশে যেখানে কৃষ্ণকে বাঁধা হয়েছিল বলে কথিত — তিরুমঙ্গৈ আলবার কর্তৃক গীত চোল নাড়ুর একটি দিব্য দেশম।",
   "sections": {
-    "history": "Thirukkannangudi lies about two kilometres from Sikkal, off the Tiruvarur–Nagapattinam highway in the Kaveri delta. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Chola Nadu. Thirumangai Alvar praised the Lord here in ten hymns of the Periya Thirumozhi. The temple is generally held to have been built by the Medieval Cholas in the late ninth century, though one account places it in the eighth. It is counted among the Pancha Krishnaranya Kshetrams, the five sacred groves of Krishna.",
-    "architecture": "The temple faces east and is entered through a five-tiered rajagopuram. The sanctum is crowned by the Utpala Vimanam, and the sacred tank is the Shravana Theertham, also called the Nithya Pushkarini in one temple listing. Behind the temple stands the sthala vriksham, a Magizha tree, said never to die. The presiding Lord is Loganatha Perumal with the Goddess Loganayagi, and the festival image is Damodara Narayana Perumal with Aravindavalli.",
-    "legends": "The sthala purana tells of the sage Vasishta, who worshipped a butter image of Krishna that did not melt. Krishna came to him as a child and swallowed it, and Vasishta followed him to this place, where, by the power of devotion, the child was bound to the Magizha tree. The festival image shows Krishna so bound by a rope, as Damodara. Tradition adds that Thirumangai Alvar, tired and thirsty, rested under the Magizha tree and was given food and water by the Lord, who appeared with conch and discus and then vanished.",
-    "festivals": "The temple keeps the Vaishnava calendar, with Vaikunta Ekadashi among its observances; confirm specific festival dates locally. The festival image of Damodara, bound to the Magizha tree with a rope, is the heart of the shrine's devotion, and it is this form that devotees remember in the temple's days of worship.",
-    "experience": "A quiet, devotional Divya Desam close to Sikkal, rewarding for pilgrims tracing Thirumangai Alvar's hymns through the delta. Look for the Magizha tree behind the temple and for the festival image of Krishna bound as Damodara. Early visits are calm; confirm timings locally before you go."
+    "history": "তিরুক্কণ্ণঙ্গুডি সিক্কল থেকে প্রায় দুই কিলোমিটার দূরে, কাবেরী ব-দ্বীপের তিরুবারুর–নাগাপট্টিনম মহাসড়ক থেকে অল্প দূরে অবস্থিত। এটি ১০৮টি দিব্য দেশমের একটি, আলবারদের দ্বারা নালায়ির দিব্য প্রবন্ধমে গীত বিষ্ণুর আবাসগুলির একটি, এবং চোল নাড়ুর অন্তর্গত। তিরুমঙ্গৈ আলবার এখানকার প্রভুকে পেরিয় তিরুমোঝির দশটি স্তোত্রে প্রশংসা করেছেন। মন্দিরটি সাধারণত নবম শতাব্দীর শেষভাগে মধ্যযুগীয় চোলদের দ্বারা নির্মিত বলে ধরা হয়, যদিও একটি বিবরণ এটিকে অষ্টম শতাব্দীতে স্থাপন করে। এটি পঞ্চ কৃষ্ণারণ্য ক্ষেত্রমের মধ্যে গণ্য, কৃষ্ণের পাঁচটি পবিত্র বন।",
+    "architecture": "মন্দিরটি পূর্বমুখী এবং একটি পঞ্চস্তরীয় রাজগোপুরমের মধ্য দিয়ে প্রবেশ করা যায়। গর্ভগৃহ উৎপল বিমানম দ্বারা শোভিত, এবং পবিত্র পুষ্করিণী হল শ্রবণ তীর্থম, একটি মন্দির-তালিকায় নিত্য পুষ্করিণী নামেও পরিচিত। মন্দিরের পেছনে দাঁড়িয়ে স্থল বৃক্ষম, একটি মগিঝ গাছ, যা কখনও মরে না বলে কথিত। অধিষ্ঠাতা প্রভু লোকনাথ পেরুমাল দেবী লোকনায়কির সঙ্গে, এবং উৎসব-মূর্তি অরবিন্দবল্লীর সঙ্গে দামোদর নারায়ণ পেরুমাল।",
+    "legends": "স্থল পুরাণ ঋষি বশিষ্ঠের কথা বলে, যিনি কৃষ্ণের একটি মাখন-মূর্তি পূজা করতেন যা গলত না। কৃষ্ণ তাঁর কাছে একটি শিশু রূপে এসে এটি গিলে ফেললেন, এবং বশিষ্ঠ তাঁকে এই স্থানে অনুসরণ করলেন, যেখানে ভক্তির শক্তিতে শিশুটি মগিঝ গাছে বাঁধা পড়ল। উৎসব-মূর্তি কৃষ্ণকে এভাবে দড়িতে বাঁধা দেখায়, দামোদর রূপে। ঐতিহ্য আরও বলে যে তিরুমঙ্গৈ আলবার, ক্লান্ত ও তৃষ্ণার্ত, মগিঝ গাছের নিচে বিশ্রাম নিয়েছিলেন এবং প্রভু তাঁকে খাদ্য ও জল দিয়েছিলেন, যিনি শঙ্খ ও চক্র নিয়ে আবির্ভূত হয়ে তারপর অন্তর্হিত হলেন।",
+    "festivals": "মন্দিরটি বৈষ্ণব পঞ্জিকা পালন করে, বৈকুণ্ঠ একাদশী তার আচারগুলির মধ্যে; নির্দিষ্ট উৎসবের তারিখ স্থানীয়ভাবে নিশ্চিত করুন। দামোদরের উৎসব-মূর্তি, মগিঝ গাছে দড়ি দিয়ে বাঁধা, মন্দিরের ভক্তির হৃদয়, এবং এই রূপটিই ভক্তরা মন্দিরের পূজার দিনগুলিতে স্মরণ করেন।",
+    "experience": "সিক্কলের কাছে একটি শান্ত, ভক্তিমূলক দিব্য দেশম, ব-দ্বীপ জুড়ে তিরুমঙ্গৈ আলবারের স্তোত্র অনুসরণকারী তীর্থযাত্রীদের জন্য ফলপ্রদ। মন্দিরের পেছনে মগিঝ গাছ ও দামোদর রূপে বাঁধা কৃষ্ণের উৎসব-মূর্তি খুঁজুন। সকালের দর্শন শান্ত; যাওয়ার আগে স্থানীয়ভাবে সময় নিশ্চিত করুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is about two kilometres from Sikkal, off the Tiruvarur–Nagapattinam highway, in the Nagapattinam district of Tamil Nadu. Nagapattinam and Tiruvarur are the nearest larger towns with railheads, and Tiruchirappalli is the nearest major airport. Reach it by road, and confirm local directions on arrival."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন অধিবেশন ও মধ্যাহ্ন বিরতি সহ খোলা; উৎসবের দিন সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "মন্দিরটি তামিলনাড়ুর নাগাপট্টিনম জেলায় সিক্কল থেকে প্রায় দুই কিলোমিটার দূরে, তিরুবারুর–নাগাপট্টিনম মহাসড়ক থেকে অল্প দূরে। নাগাপট্টিনম ও তিরুবারুর রেলহেড সহ নিকটতম বড় শহর, এবং তিরুচিরাপল্লী নিকটতম প্রধান বিমানবন্দর। সড়কপথে পৌঁছান, এবং পৌঁছে স্থানীয় নির্দেশনা নিশ্চিত করুন।"
   }
 }

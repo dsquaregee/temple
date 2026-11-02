@@ -1,29 +1,36 @@
 {
   "id": "jagadeeswarar-tiruppereyil",
   "locale": "bn",
+  "name": "জগদীশ্বর মন্দির, তিরুপ্পেরেয়িল (ওগৈ পেরায়ুর)",
   "nativeName": "திருப்பேரெயில் ஜகதீஸ்வரர் கோயில்",
+  "deity": "জগদীশ্বর রূপে শিব (বিশ্বের অধীশ্বর), দেবী জগন নায়কী (পেন্নামির্ত নায়কী)-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Ogai Perayur, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "ওগৈ পেরায়ুর, তিরুবারুরের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.8,
     "lng": 79.53
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তুত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারুরের কাছে তেবারমের তিরুপ্পেরেয়িল, বর্তমান ওগৈ পেরায়ুর, শিবকে জগদীশ্বর — বিশ্বের অধীশ্বর — রূপে এবং দেবী জগন নায়কীকে সম্মান করে। আপ্পর কর্তৃক স্তুত এই পাডল পেট্র স্থলম আদি চোল যুগের একটি সুরক্ষিত স্থান (পেরেয়িল, ‘মহা প্রাকার’) রূপে স্মরণীয়, যখন তিরুবারুর ছিল সাম্রাজ্যের এক আসন।",
   "sections": {
-    "history": "Tiruppereyil, now the village of Ogai Perayur, lies about 13 km from Tiruvarur and some 21 km from Mannargudi, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirunavukkarasar (Appar). The name Pereyil, 'the great rampart,' recalls a tradition that the place was a fort in the early Chola age, when Tiruvarur was a seat of the Chola power. The stone temple is of the Chola period and later; little of its fuller sthala purana survives.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Jagadeeswarar — 'lord of the universe' — in the sanctum, with the goddess Jagan Nayaki, also called Pennamirtha Nayaki, in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the narthai (citron) tree, and the sacred tank is the Agni Theertham.",
-    "legends": "The lord's name Jagadeeswarar, 'the ruler of the world,' and the goddess Jagan Nayaki, 'the lady of the world,' make this a shrine of the universal sovereignty of Shiva and Devi. The goddess is also praised as Pennamirtha Nayaki, 'she who is the nectar among women.' Little of the older sthala purana is recorded, so the shrine's devotion is carried chiefly by its names and by Appar's Tevaram verses.",
-    "festivals": "The temple keeps Margazhi Tiruvadhirai in Margazhi (December–January), Maha Shivaratri in Masi (February–March) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail near Tiruvarur include Ogai Perayur among their stops.",
-    "experience": "At Ogai Perayur the pilgrim comes to the shrine of the lord and lady of the universe, in a village that remembers an old rampart of the Chola age. Before Jagadeeswarar and Jagan Nayaki, beside the Agni Theertham, the visitor finds the universal sovereignty of Shiva kept in a quiet Tevaram temple of the Tiruvarur country."
+    "history": "তিরুপ্পেরেয়িল, বর্তমানে ওগৈ পেরায়ুর গ্রাম, তিরুবারুর জেলায় তিরুবারুর থেকে প্রায় ১৩ কিমি এবং মান্নারগুডি থেকে প্রায় ২১ কিমি দূরে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তিরুনাবুক্করসর (আপ্পর) কর্তৃক তেবারমে স্তুত। পেরেয়িল নাম, ‘মহা প্রাকার’, সেই পরম্পরা স্মরণ করায় যে এই স্থানটি আদি চোল যুগে একটি দুর্গ ছিল, যখন তিরুবারুর চোল শক্তির এক আসন ছিল। প্রস্তরনির্মিত মন্দিরটি চোল পর্বের ও পরবর্তী সময়ের; এর পূর্ণ স্থলপুরাণের সামান্যই টিকে আছে।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এই মন্দিরের গর্ভগৃহে জগদীশ্বর — ‘বিশ্বের অধীশ্বর’ — অধিষ্ঠিত, দেবী জগন নায়কী, যাঁকে পেন্নামির্ত নায়কীও বলা হয়, তাঁর নিজস্ব মন্দিরে, এবং একটি নন্দী ও পরিবার দেবতাগণ। স্থল বৃক্ষ হল নার্থৈ (লেবু) গাছ, এবং পবিত্র তীর্থকুণ্ড অগ্নি তীর্থম।",
+    "legends": "প্রভুর নাম জগদীশ্বর, ‘জগতের শাসক’, এবং দেবী জগন নায়কী, ‘জগতের অধীশ্বরী’, একে শিব ও দেবীর বিশ্বজনীন সার্বভৌমত্বের মন্দির করে তোলে। দেবীকে পেন্নামির্ত নায়কী, ‘নারীকুলের মধ্যে অমৃতস্বরূপা’ রূপেও স্তুত করা হয়। প্রাচীন স্থলপুরাণের সামান্যই লিপিবদ্ধ, তাই মন্দিরের ভক্তি মূলত এর নামগুলি ও আপ্পরের তেবারম পদের মাধ্যমে বাহিত হয়।",
+    "festivals": "মন্দিরটি মার্গঝিতে (ডিসেম্বর–জানুয়ারি) মার্গঝি তিরুবাদিরৈ, মাসিতে (ফেব্রুয়ারি–মার্চ) মহা শিবরাত্রি এবং কার্তিকৈয়ের সোমবারগুলি প্রদোষ পূজা সহ একটি গ্রাম্য মন্দিরের শান্ত পরিসরে পালন করে। তিরুবারুরের কাছে পাডল পেট্র পথের তীর্থযাত্রীরা তাঁদের বিরামস্থলের মধ্যে ওগৈ পেরায়ুরকে অন্তর্ভুক্ত করেন।",
+    "experience": "ওগৈ পেরায়ুরে তীর্থযাত্রী এমন এক গ্রামে বিশ্বের অধীশ্বর ও অধীশ্বরীর মন্দিরে আসেন, যে গ্রাম চোল যুগের একটি পুরোনো প্রাকার স্মরণ করে। অগ্নি তীর্থমের পাশে জগদীশ্বর ও জগন নায়কীর সামনে দর্শনার্থী তিরুবারুর অঞ্চলের একটি শান্ত তেবারম মন্দিরে রক্ষিত শিবের বিশ্বজনীন সার্বভৌমত্বের সাক্ষাৎ পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Ogai Perayur (Tiruppereyil) is about 13 km from Tiruvarur and 21 km from Mannargudi, in Tiruvarur district. Tiruvarur is the nearest rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেলের শেষ ভাগ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন পারম্পরিক পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে জুতো রেখে যেতে হবে।",
+    "photography": "বাইরের অলিন্দে সাধারণত আলোকচিত্র গ্রহণের অনুমতি আছে, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "ওগৈ পেরায়ুর (তিরুপ্পেরেয়িল) তিরুবারুর জেলায় তিরুবারুর থেকে প্রায় ১৩ কিমি ও মান্নারগুডি থেকে ২১ কিমি দূরে। তিরুবারুর নিকটতম রেলস্টেশন, সেখান থেকে গ্রামে বাস ও ট্যাক্সি চলে।"
   }
 }

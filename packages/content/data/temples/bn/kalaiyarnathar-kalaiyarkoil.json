@@ -1,29 +1,36 @@
 {
   "id": "kalaiyarnathar-kalaiyarkoil",
   "locale": "bn",
+  "name": "কালৈয়াপ্পর মন্দির, কালৈয়ারকোইল",
   "nativeName": "காளையார் கோயில்",
+  "deity": "শিব কালৈয়াপ্পর (স্বর্ণকালীশ্বর) রূপে, দেবী সর্ণবল্লী (সৌন্দরনায়কী)-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Kalaiyarkoil",
-    "state": "Tamil Nadu",
+    "city": "কালৈয়ারকোইল",
+    "state": "তামিলনাড়ু",
     "lat": 9.8458,
     "lng": 78.6314
   },
+  "period": "পাণ্ড্য দেশের এক প্রাচীন শৈব মন্দির, তেবারমের তিরুক্কানপ্পের (৮ম শতক); পাণ্ড্য ও পরবর্তী মরুদু পাণ্ড্যার যুগের গোপুরম ও সংস্কার",
   "century": 8,
+  "dynasty": "পাণ্ড্য উৎপত্তি, পরবর্তীকালে শিবগঙ্গৈ-র মরুদু পাণ্ড্যার শাসকদের দ্বারা সংস্কার",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কালৈয়ারকোইলের কালৈয়াপ্পর মন্দির, তেবারমের তিরুক্কানপ্পের, পাণ্ড্য দেশের এক শিব মন্দির যার এক সুউচ্চ নয়-স্তর গোপুরমের নিচে তিনটি গর্ভগৃহ, এবং যারা একে সংস্কার করেছিলেন সেই মরুদু পাণ্ড্যার ভাইদের জন্যও স্মরণীয়।",
   "sections": {
-    "history": "Kalaiyarkoil in Sivagangai district is the Tirukkanapper of the Tevaram, and its Shiva temple is a Paadal Petra Sthalam of the Pandya country. The place is also named Tirukkanapper in the Sangam anthology Purananuru, which shows how old the name is. Tradition recalls a visit by the saint Sundarar to the shrine. In the late eighteenth century the town was the seat of the Marudhu Pandiyar brothers, Periya Marudhu and Chinna Marudhu, who ruled the Sivagangai country and resisted the British. They are remembered for renewing the temple within their fort and raising a lofty gopuram for it, and a memorial to them stands on the street facing the main tower.",
-    "architecture": "Two east-facing gopurams rise over the temple: a nine-tiered tower of about 150 to 157 feet, among the tallest in Tamil Nadu, and a smaller five-tiered one. Sources differ on who built which, crediting the Marudhu brothers, the Pandya king Sundara Pandiyan, or both, so the attribution is best held as traditional. Within two prakarams stand three separate sanctums: Swarnakaleeswarar at the centre, Someswarar on the right and Sundareswarar on the left. The goddess Sornavalli, known also as Soundaranayaki, has her own shrine. Tradition says that from the top of the great tower the gopuram of the Meenakshi temple at Madurai could once be seen.",
-    "legends": "The name Swarnakaleeswarar, the Lord of gold, recalls the tale of a Pandya king who had no child. His queen, to console herself, fashioned the image of a child in gold. The king is said to have later raised the temple around that sacred spot in remembrance of these events. The tale is told as tradition, and its details vary from one telling to another. Later memory has joined the temple to the Marudhu Pandiyars, whose renewal of it is recalled in the town to this day.",
-    "festivals": "The main festival of the Lord falls in the Tamil month of Thai, in January or February, when the chariot festival is held on the Poosam star. Someswarar's Brahmotsavam is celebrated in the month of Vaikasi, in May or June, and Aadi Pooram, in July or August, is observed for the goddess Swarnavalli. Each year on 27 October the town keeps Marudhu Pandiyar Guru Pooja in honour of the Marudhu brothers. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Kalaiyarkoil rewards a patient visit. The great nine-tiered tower announces the temple from a distance, and the street before it holds the memorial of the Marudhu brothers. Pass beneath the gopuram and visit the three sanctums in turn, beginning with Swarnakaleeswarar at the centre. Offer your respects to the goddess Sornavalli in her shrine, then walk the prakarams slowly, thinking of the kings and saints who have passed here. The festival months bring the largest crowds, and the quieter hours outside them suit a calm darshan."
+    "history": "শিবগঙ্গৈ জেলার কালৈয়ারকোইল তেবারমের তিরুক্কানপ্পের, এবং এর শিব মন্দির পাণ্ড্য দেশের এক পাডল পেট্র স্থলম। স্থানটি সঙ্গম সংকলন পুরনানুরুতেও তিরুক্কানপ্পের নামে অভিহিত, যা দেখায় নামটি কত পুরনো। ঐতিহ্য সাধক সুন্দররের মন্দির পরিদর্শন স্মরণ করে। অষ্টাদশ শতকের শেষে শহরটি ছিল মরুদু পাণ্ড্যার ভাইদের, পেরিয় মরুদু ও চিন্ন মরুদু-র আসন, যারা শিবগঙ্গৈ দেশ শাসন করতেন ও ব্রিটিশদের প্রতিরোধ করেছিলেন। তারা তাদের দুর্গের মধ্যে মন্দির সংস্কারের ও এর জন্য এক সুউচ্চ গোপুরম গড়ার জন্য স্মরণীয়, এবং প্রধান গোপুরমের মুখোমুখি রাস্তায় তাদের এক স্মারক দণ্ডায়মান।",
+    "architecture": "মন্দিরের উপর দুটি পূর্বমুখী গোপুরম ওঠে: প্রায় ১৫০ থেকে ১৫৭ ফুটের এক নয়-স্তর গোপুরম, তামিলনাড়ুর সর্বোচ্চগুলির মধ্যে একটি, এবং এক ছোট পাঁচ-স্তর গোপুরম। সূত্রভেদে কে কোনটি নির্মাণ করেছিলেন তা ভিন্ন, কৃতিত্ব দেওয়া হয় মরুদু ভাইদের, পাণ্ড্য রাজা সুন্দর পাণ্ডিয়নকে, বা উভয়কে, তাই আরোপণ ঐতিহ্যগত হিসেবে ধরাই শ্রেয়। দুটি প্রাকারমের মধ্যে তিনটি পৃথক গর্ভগৃহ দণ্ডায়মান: কেন্দ্রে স্বর্ণকালীশ্বর, ডানদিকে সোমেশ্বর ও বাঁদিকে সুন্দরেশ্বর। দেবী সর্ণবল্লী, সৌন্দরনায়কী নামেও পরিচিত, তাঁর নিজস্ব মন্দির আছে। ঐতিহ্য বলে যে মহান গোপুরমের চূড়া থেকে একদা মাদুরাইয়ের মীনাক্ষী মন্দিরের গোপুরম দেখা যেত।",
+    "legends": "স্বর্ণকালীশ্বর নামটি, স্বর্ণের প্রভু, এক পাণ্ড্য রাজার কাহিনী স্মরণ করে যার কোনো সন্তান ছিল না। তাঁর রানি, নিজেকে সান্ত্বনা দিতে, সোনায় এক শিশুর মূর্তি গড়েছিলেন। রাজা পরে এই ঘটনার স্মরণে সেই পবিত্র স্থানের চারপাশে মন্দির গড়েছিলেন বলে কথিত। কাহিনীটি ঐতিহ্য হিসেবে বলা হয়, এবং এর বিবরণ এক বর্ণনা থেকে অন্যটিতে ভিন্ন হয়। পরবর্তী স্মৃতি মন্দিরকে মরুদু পাণ্ড্যারদের সঙ্গে যুক্ত করেছে, যাদের সংস্কার শহরে আজও স্মরণ করা হয়।",
+    "festivals": "প্রভুর প্রধান উৎসব তামিল মাস তৈ-তে, জানুয়ারি বা ফেব্রুয়ারিতে পড়ে, যখন পূসম নক্ষত্রে রথোৎসব অনুষ্ঠিত হয়। সোমেশ্বরের ব্রহ্মোৎসবম বৈকাসি মাসে, মে বা জুনে উদযাপিত হয়, এবং আড়ি পূরম, জুলাই বা আগস্টে, দেবী স্বর্ণবল্লীর জন্য পালিত হয়। প্রতি বছর ২৭ অক্টোবর শহর মরুদু ভাইদের সম্মানে মরুদু পাণ্ড্যার গুরু পূজা পালন করে। মহা শিবরাত্রি ও মাসিক প্রদোষম প্রতিটি শিব মন্দিরের মতো পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন, কারণ এগুলি তামিল পঞ্জিকা অনুসরণ করে।",
+    "experience": "কালৈয়ারকোইল এক ধৈর্যশীল পরিদর্শন পুরস্কৃত করে। মহান নয়-স্তর গোপুরম দূর থেকে মন্দির ঘোষণা করে, এবং এর সামনের রাস্তায় মরুদু ভাইদের স্মারক রয়েছে। গোপুরমের নিচ দিয়ে যান এবং তিনটি গর্ভগৃহ পালাক্রমে পরিদর্শন করুন, কেন্দ্রে স্বর্ণকালীশ্বর দিয়ে শুরু করে। দেবী সর্ণবল্লীকে তাঁর মন্দিরে শ্রদ্ধা জানান, তারপর প্রাকারমগুলি ধীরে ধীরে হাঁটুন, এখানে যাওয়া রাজা ও সাধকদের কথা ভাবতে ভাবতে। উৎসবের মাসগুলি সবচেয়ে বড় ভিড় আনে, এবং তার বাইরের শান্ততর সময় এক নিরুদ্বিগ্ন দর্শনের উপযোগী।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Kalaiyarkoil is a town in Sivagangai district, reached by road from Sivagangai, Madurai and Karaikudi. Madurai has the nearest major airport, and Madurai, Sivagangai and Karaikudi all have railway stations. Buses serve the town, and the tall gopuram is easy to spot on arrival. Confirm routes and distances locally before travelling."
+    "timings": "সাধারণত সকালে ও আবার শেষ বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা, দুপুরে বিরতি সহ; বিশেষত উৎসবের দিনে সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা রেখে। প্রবেশদ্বারের স্ট্যান্ডে পাদুকা রেখে দেওয়া হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে বাইরের করিডোর ও প্রাঙ্গণে সাধারণত ফটোগ্রাফির অনুমতি আছে, কিন্তু অন্তঃগর্ভগৃহের ভিতরে নিষিদ্ধ। পূজা বা পুরোহিতদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কালৈয়ারকোইল শিবগঙ্গৈ জেলার এক শহর, শিবগঙ্গৈ, মাদুরাই ও কারাইকুডি থেকে সড়কপথে পৌঁছানো যায়। মাদুরাইয়ে নিকটতম প্রধান বিমানবন্দর, এবং মাদুরাই, শিবগঙ্গৈ ও কারাইকুডি সবকটিতেই রেলস্টেশন আছে। বাস শহরে চলে, এবং পৌঁছানোর সময় সুউচ্চ গোপুরম সহজে চোখে পড়ে। ভ্রমণের আগে পথ ও দূরত্ব স্থানীয়ভাবে নিশ্চিত করে নিন।"
   }
 }

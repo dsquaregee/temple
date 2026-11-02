@@ -1,32 +1,39 @@
 {
   "id": "kutralanathar-courtallam",
   "locale": "bn",
+  "name": "কুত্রালনাথর মন্দির, কুত্রালম",
   "nativeName": "குற்றாலநாதர் கோயில், குற்றாலம்",
+  "deity": "শিব কুত্রালনাথর (ত্রিকূটেশ্বর) রূপে, দেবী কুঝল্বাইমোঝির সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Courtallam",
-    "state": "Tamil Nadu",
+    "city": "কুত্রালম",
+    "state": "তামিলনাড়ু",
     "lat": 8.9349,
     "lng": 77.2758
   },
+  "period": "পাণ্ড্য দেশের প্রাচীন পাডল পেট্র স্থলম; চিত্র সভৈ ও তার পরবর্তী যুগের ম্যুরাল",
   "century": 7,
+  "dynasty": "পাণ্ড্য ও নায়ক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "pancha-sabhai-sthalams",
     "temples-of-the-deep-south",
     "paadal-petra-sthalams"
   ],
+  "summary": "পশ্চিমঘাটের পাদদেশে কুত্রালমে, তার ঝরনার জন্য বিখ্যাত, শিব কুত্রালনাথর রূপে দাঁড়িয়ে; কাছেই ওঠে চিত্র সভৈ, পাঁচ সভার চিত্র-মণ্ডপ, যার দেয়াল দেবতা ও কাহিনির আঁকা ছবিতে ঢাকা — যে মণ্ডপে শিবের নৃত্য চিত্রের মধ্য দিয়ে সম্মানিত।",
   "sections": {
-    "history": "Courtallam — Kutralam in Tamil — lies in the far south of Tamil Nadu, near Tenkasi, where the Western Ghats fall away in a chain of waterfalls. Its temple to Shiva as Kutralanathar, also honoured as Thirikooteswarar of the three peaks, is a Paadal Petra Sthalam, sung by the child-saint Sambandar and the other Nayanmars, with a history reaching into Pandya antiquity and its later halls and paintings raised under the Nayaka patrons of the south. The hill town has long drawn pilgrims and seekers of health to its sacred falls, and the temple is the still centre of that older devotion.",
-    "architecture": "The temple of Kutralanathar is built in the Dravidian manner, its sanctum holding a lingam of unusual, softened form that the legends explain. Set apart, a short way from the main shrine, stands the Chitra Sabhai — the picture hall — whose interior walls and wooden ceiling are covered with mural paintings of gods, saints and sacred story. It is this painted hall that gives Courtallam its place among the five sabhas of the dancing Shiva, the others being the halls of gold, silver, copper and jewel; here the cosmic dance is honoured not in metal but in image and colour.",
-    "legends": "The name Kutralam is drawn from a legend of the sage Agastya, who came south bearing the will of Shiva. Finding a standing image of Vishnu where he wished to worship the lord, the sage is said to have embraced it, and the form shrank and yielded into a lingam of Shiva — kutral, the curtailing — so that the shrine took the name Kutralam and the lingam kept its unusual shape. As the Chitra Sabhai, the picture hall, Courtallam completes the five sabhas of Shiva's dance, its painted walls answering the golden hall of Chidambaram at the other end of the Tamil country.",
-    "festivals": "The great season at Courtallam is the saaral, the months when the south-west rains swell the falls and pilgrims come to bathe in the sacred waters before worship. The temple keeps the festivals of Shiva through the year — Aadi and the Tamil new year, the car festival through the hill town, and the Shivaratri night — and the painted Chitra Sabhai is opened for the special worship of the dancing lord.",
-    "experience": "Courtallam joins the devotion of the temple to the beauty of the Ghats: the roar of the falls, the cool of the hills, and the quiet painted hall of the dance. It sits about 5 km from Tenkasi in the deep south, within reach of Tirunelveli and the far-southern shrines, and its Chitra Sabhai closes the circle of the five sabhas that begins with the golden hall of Chidambaram."
+    "history": "কুত্রালম — তামিলে কুত্রালম — তামিলনাড়ুর সুদূর দক্ষিণে, তেনকাশির কাছে অবস্থিত, যেখানে পশ্চিমঘাট একটি ঝরনার শৃঙ্খলে নেমে আসে। শিবকে কুত্রালনাথর রূপে এর মন্দির, তিন শিখরের ত্রিকূটেশ্বর রূপেও সম্মানিত, একটি পাডল পেট্র স্থলম, শিশু-সন্ত সম্বন্দর ও অন্য নায়নমারদের দ্বারা গীত, যার ইতিহাস পাণ্ড্য প্রাচীনত্বে পৌঁছায় এবং যার পরবর্তী মণ্ডপ ও চিত্র দক্ষিণের নায়ক পৃষ্ঠপোষকদের অধীনে নির্মিত। পাহাড়ি শহরটি দীর্ঘকাল ধরে তার পবিত্র ঝরনায় তীর্থযাত্রী ও স্বাস্থ্য-অন্বেষীদের টেনেছে, এবং মন্দিরটি সেই প্রাচীনতর ভক্তির নিস্তব্ধ কেন্দ্র।",
+    "architecture": "কুত্রালনাথরের মন্দির দ্রাবিড় রীতিতে নির্মিত, যার গর্ভগৃহে একটি অস্বাভাবিক, কোমল আকৃতির লিঙ্গ যা কিংবদন্তি ব্যাখ্যা করে। পৃথকভাবে, মূল মন্দির থেকে অল্প দূরে, দাঁড়িয়ে আছে চিত্র সভৈ — চিত্র-মণ্ডপ — যার অভ্যন্তরীণ দেয়াল ও কাঠের সিলিং দেবতা, সন্ত ও পবিত্র কাহিনির ম্যুরাল চিত্রে ঢাকা। এই আঁকা মণ্ডপই কুত্রালমকে নৃত্যরত শিবের পাঁচ সভার মধ্যে স্থান দেয়, বাকিগুলি হল সোনা, রুপো, তামা ও মণির মণ্ডপ; এখানে বিশ্বজনীন নৃত্য ধাতুতে নয়, বরং চিত্র ও রঙে সম্মানিত।",
+    "legends": "কুত্রালম নামটি ঋষি অগস্ত্যের একটি কিংবদন্তি থেকে আসে, যিনি শিবের ইচ্ছা বহন করে দক্ষিণে এসেছিলেন। যেখানে তিনি প্রভুর পূজা করতে চেয়েছিলেন সেখানে বিষ্ণুর একটি দণ্ডায়মান মূর্তি পেয়ে ঋষি একে আলিঙ্গন করেছিলেন বলে কথিত, এবং রূপটি সঙ্কুচিত হয়ে একটি শিবলিঙ্গে পরিণত হয় — কুত্রল, সঙ্কোচন — যাতে মন্দিরটি কুত্রালম নাম পায় ও লিঙ্গটি তার অস্বাভাবিক আকৃতি রাখে। চিত্র সভৈ, চিত্র-মণ্ডপ রূপে, কুত্রালম শিবের নৃত্যের পাঁচ সভা সম্পূর্ণ করে, তার আঁকা দেয়াল তামিল দেশের অপর প্রান্তের চিদম্বরমের স্বর্ণমণ্ডপের প্রতিধ্বনি তোলে।",
+    "festivals": "কুত্রালমে মহান ঋতু হল সারল, সেই মাসগুলি যখন দক্ষিণ-পশ্চিম বৃষ্টি ঝরনা স্ফীত করে এবং তীর্থযাত্রীরা পূজার আগে পবিত্র জলে স্নান করতে আসেন। মন্দিরটি সারা বছর ধরে শিবের উৎসব পালন করে — আডি ও তামিল নববর্ষ, পাহাড়ি শহরজুড়ে রথযাত্রা, এবং শিবরাত্রির রাত্রি — এবং আঁকা চিত্র সভৈ নৃত্যরত প্রভুর বিশেষ পূজার জন্য খোলা হয়।",
+    "experience": "কুত্রালম মন্দিরের ভক্তিকে ঘাটের সৌন্দর্যের সঙ্গে যুক্ত করে: ঝরনার গর্জন, পাহাড়ের শীতলতা, এবং নৃত্যের নিস্তব্ধ আঁকা মণ্ডপ। এটি সুদূর দক্ষিণে তেনকাশি থেকে প্রায় ৫ কিলোমিটার দূরে অবস্থিত, তিরুনেলবেলি ও সুদূর-দক্ষিণের মন্দিরগুলির নাগালের মধ্যে, এবং এর চিত্র সভৈ সেই পাঁচ সভার বৃত্ত সম্পূর্ণ করে যা চিদম্বরমের স্বর্ণমণ্ডপ দিয়ে শুরু হয়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the falls season (roughly the south-west monsoon months) and festival days are busiest. The Chitra Sabhai keeps its own worship hours. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum, and the murals of the Chitra Sabhai are protected; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Courtallam lies in Tenkasi district at the foot of the Western Ghats, about 5 km from Tenkasi and roughly 60 km from Tirunelveli, well connected by road; Tenkasi is the nearest major rail head."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন অধিবেশন ও মধ্যাহ্ন বিরতি সহ খোলা; ঝরনার ঋতু (মোটামুটি দক্ষিণ-পশ্চিম মৌসুমি মাস) ও উৎসবের দিন সবচেয়ে ব্যস্ত। চিত্র সভৈর নিজস্ব পূজার সময় আছে। যাওয়ার আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখুন। অনেক দক্ষিণী মন্দিরের মতো পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সামনে ঊর্ধ্বাঙ্গের বস্ত্র খুলতে বলা হয়; প্রদর্শিত নিয়ম অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ফটোগ্রাফি নিষিদ্ধ, এবং চিত্র সভৈর ম্যুরাল সংরক্ষিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "কুত্রালম তেনকাশি জেলায় পশ্চিমঘাটের পাদদেশে, তেনকাশি থেকে প্রায় ৫ কিলোমিটার ও তিরুনেলবেলি থেকে মোটামুটি ৬০ কিলোমিটার দূরে, সড়কপথে ভালোভাবে সংযুক্ত; তেনকাশি নিকটতম প্রধান রেলহেড।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kutralanathar-courtallam.jpg",

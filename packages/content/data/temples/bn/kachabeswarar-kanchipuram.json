@@ -1,30 +1,37 @@
 {
   "id": "kachabeswarar-kanchipuram",
   "locale": "bn",
+  "name": "কচবেশ্বর মন্দির, কাঞ্চিপুরম",
   "nativeName": "கச்சபேஸ்வரர் கோயில்",
+  "deity": "কচবেশ্বর (কচপেশ্বর) রূপে শিব, একটি স্বয়ম্ভূ লিঙ্গ, দেবী সুন্দরাম্বিকৈয়ের সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.838,
     "lng": 79.701
   },
+  "period": "পল্লব উৎস সহ প্রাচীন শৈব মন্দির এবং পরবর্তী চোল, বিজয়নগর ও নায়ক কাজ; তেবারমে (সপ্তম শতাব্দী) উল্লিখিত",
   "century": 7,
+  "dynasty": "পল্লব, চোল, বিজয়নগর ও নায়ক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "temples-of-kanchipuram"
   ],
+  "summary": "কচবেশ্বর পুরোনো কাঞ্চিপুরমের একটি শিব মন্দির, তেবারমে উল্লিখিত, যেখানে বিষ্ণু কূর্মরূপে পূজা করেছিলেন বলে কথিত, এবং তামিল কন্দ পুরাণমের রচয়িতা কচ্চিয়প্প শিবাচার্যিয়ারের জন্য স্মরণীয় একটি মন্দির।",
   "sections": {
-    "history": "Kachabeswarar is one of the old Shiva temples of Shiva Kanchi, a short walk from the Kamakshi temple. Appar mentions it in the Tevaram, which makes it a Vaippu Sthalam of the seventh century or earlier; it should not be confused with the Kachabeswarar temple at Thirukachur, which Sundarar sang. Tradition places its beginnings in Pallava times, when Kanchipuram was the dynastic capital; the Cholas are linked to its early masonry, and the present stonework is largely of the Vijayanagara and Nayak periods around the sixteenth century. The temple holds a place in Tamil letters as well: Kachiyappa Sivachariyar, remembered as the author of the Kanda Puranam, the Tamil telling of the story of Murugan, is associated with this temple and with the nearby Kumarakottam shrine.",
-    "architecture": "The temple is a compact Dravidian complex of walled courts and shrines. Beyond the main sanctum of Kachabeswarar and the shrine of the goddess stand shrines of Thyagarajar and Sundarar, a hall of the sixty-three Nayanmars, and separate sanctums for Durga, Dattatreya and Adi Sankara. Sculpted pillars and corridors reflect the later Vijayanagara and Nayak additions, and the deity's name, drawn from the Sanskrit word for tortoise, ties the whole temple to its legend.",
-    "legends": "The sthala purana holds that Vishnu, in his tortoise form of Kurma, worshipped Shiva at this spot, and that the Lord took the name Kachabeswarar, Lord of the Tortoise, in remembrance. The tale joins the two great traditions of Kanchipuram, a city sacred to both Shiva and Vishnu, and shows this shrine as a place where each honours the other.",
-    "festivals": "The Chithirai Brahmotsavam in April or May, when the festival deities are carried in procession through the streets of Kanchipuram, and Chitra Pournami on the full moon of the same month are the main annual observances. Maha Shivaratri, the monthly Pradosham and Karthigai Deepam are also kept with special worship. Confirm dates locally.",
-    "experience": "The temple sits among the busy streets near the Kamakshi temple, and a pause here is a quieter counterpoint to the larger shrines of Kanchipuram. Look for the shrine of Sundarar and the hall of the Nayanmars, and spend a moment at the sanctum of the Lord of the Tortoise. Because the great temples of the city lie close together, many pilgrims combine Kachabeswarar with Ekambareswarar, Kamakshi and the Vishnu shrines in a single day, on foot or by auto."
+    "history": "কচবেশ্বর শিব কাঞ্চির পুরোনো শিব মন্দিরগুলির একটি, কামাক্ষী মন্দির থেকে অল্প হাঁটাপথে। আপ্পর একে তেবারমে উল্লেখ করেন, যা একে সপ্তম শতাব্দী বা তার পূর্বের একটি বৈপ্পু স্থলম করে তোলে; এটিকে তিরুকচুরের কচবেশ্বর মন্দিরের সঙ্গে গুলিয়ে ফেলা উচিত নয়, যেটি সুন্দরার গেয়েছিলেন। পরম্পরা এর সূচনা পল্লব যুগে স্থাপন করে, যখন কাঞ্চিপুরম ছিল রাজবংশীয় রাজধানী; চোলরা এর প্রাথমিক স্থাপত্যের সঙ্গে যুক্ত, এবং বর্তমান পাথরের কাজ মূলত ষোড়শ শতাব্দীর আশেপাশে বিজয়নগর ও নায়ক পর্বের। মন্দিরটি তামিল সাহিত্যেও একটি স্থান ধারণ করে: কচ্চিয়প্প শিবাচার্যিয়ার, মুরুগনের কাহিনির তামিল রূপ কন্দ পুরাণমের রচয়িতা রূপে স্মরণীয়, এই মন্দির ও নিকটবর্তী কুমারকোট্টম মন্দিরের সঙ্গে যুক্ত।",
+    "architecture": "মন্দিরটি প্রাচীরবেষ্টিত প্রাঙ্গণ ও মন্দিরের একটি সংহত দ্রাবিড় প্রাঙ্গণ। কচবেশ্বরের মূল গর্ভগৃহ ও দেবীর মন্দির ছাড়াও ত্যাগরাজর ও সুন্দরারের মন্দির, তেষট্টি নায়নারের একটি কক্ষ, এবং দুর্গা, দত্তাত্রেয় ও আদি শঙ্করের পৃথক গর্ভগৃহ রয়েছে। খোদাইকৃত স্তম্ভ ও অলিন্দ পরবর্তী বিজয়নগর ও নায়ক সংযোজনের প্রতিফলন ঘটায়, এবং দেবতার নাম, সংস্কৃত কূর্ম শব্দ থেকে গৃহীত, সমগ্র মন্দিরকে এর কিংবদন্তির সঙ্গে বেঁধে রাখে।",
+    "legends": "স্থলপুরাণ বলে, বিষ্ণু তাঁর কূর্মরূপে এই স্থানে শিবের পূজা করেছিলেন, এবং প্রভু সেই স্মরণে কচবেশ্বর, কূর্মের অধীশ্বর, নাম গ্রহণ করেন। কাহিনিটি কাঞ্চিপুরমের দুই মহান পরম্পরাকে যুক্ত করে, এক নগর যা শিব ও বিষ্ণু উভয়ের কাছে পবিত্র, এবং এই মন্দিরকে এমন এক স্থান রূপে দেখায় যেখানে একে অপরকে সম্মান করেন।",
+    "festivals": "এপ্রিল বা মে মাসে চিত্তিরৈ ব্রহ্মোৎসবম, যখন উৎসব দেবতাদের কাঞ্চিপুরমের পথে শোভাযাত্রায় বহন করা হয়, এবং একই মাসের পূর্ণিমায় চিত্র পৌর্ণমী প্রধান বার্ষিক পর্ব। মহা শিবরাত্রি, মাসিক প্রদোষম ও কার্তিকৈ দীপমও বিশেষ পূজায় পালিত হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "মন্দিরটি কামাক্ষী মন্দিরের কাছে ব্যস্ত পথের মাঝে অবস্থিত, এবং এখানে একটি বিরতি কাঞ্চিপুরমের বড় মন্দিরগুলির এক শান্ত বিপরীত সুর। সুন্দরারের মন্দির ও নায়নারদের কক্ষ খুঁজুন, এবং কূর্মের অধীশ্বরের গর্ভগৃহে একটি মুহূর্ত কাটান। যেহেতু নগরের মহান মন্দিরগুলি কাছাকাছি, অনেক তীর্থযাত্রী একদিনেই পায়ে হেঁটে বা অটোতে কচবেশ্বরকে একাম্বরেশ্বর, কামাক্ষী ও বিষ্ণু মন্দিরগুলির সঙ্গে মিলিয়ে নেন।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple is on West Raja Street in the heart of Kanchipuram, a short distance from the Kamakshi temple and within walking distance of several of the city's major shrines. Kanchipuram railway station and the bus stand are a short auto ride away, and the city is linked by road to Chennai, Chengalpattu, Vellore and Arakkonam. Chennai International Airport, roughly 70 km away, is the nearest airport."
+    "timings": "সাধারণত সকালে এবং আবার বিকেলের শেষ ভাগ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে, মধ্যাহ্নে বিরতি সহ; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন পারম্পরিক পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা থাকবে। প্রবেশপথের স্ট্যান্ডে জুতো রেখে যেতে হবে।",
+    "photography": "তামিলনাড়ু মন্দিরের নিয়ম অনুসারে বাইরের অলিন্দ ও প্রাঙ্গণে সাধারণত আলোকচিত্রের অনুমতি আছে, তবে গর্ভগৃহের ভিতরে কঠোরভাবে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি কাঞ্চিপুরমের কেন্দ্রস্থলে ওয়েস্ট রাজা স্ট্রিটে, কামাক্ষী মন্দির থেকে অল্প দূরত্বে এবং নগরের কয়েকটি প্রধান মন্দিরের হাঁটাপথের মধ্যে। কাঞ্চিপুরম রেলস্টেশন ও বাস স্ট্যান্ড অল্প অটো-পথ দূরে, এবং নগরটি সড়কপথে চেন্নাই, চেঙ্গলপট্টু, ভেলোর ও আরাক্কোণমের সঙ্গে যুক্ত। প্রায় ৭০ কিমি দূরে চেন্নাই আন্তর্জাতিক বিমানবন্দর নিকটতম বিমানবন্দর।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kachabeswarar-kanchipuram.jpg",

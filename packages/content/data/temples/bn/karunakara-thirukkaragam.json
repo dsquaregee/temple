@@ -1,31 +1,38 @@
 {
   "id": "karunakara-thirukkaragam",
   "locale": "bn",
+  "name": "করুণাকর পেরুমাল মন্দির (তিরুক্কারগম), কাঞ্চিপুরম",
   "nativeName": "கருணாகரப் பெருமாள் கோயில் (திருக்காரகம்), காஞ்சிபுரம்",
+  "deity": "বিষ্ণু করুণাকর পেরুমাল রূপে, দেবী পদ্মমণি নাচ্চিয়ারের সঙ্গে — তিরুক্কারগমের দিব্য দেশম, উলগলন্দ পেরুমাল মন্দিরের অভ্যন্তরে অবস্থিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.8392,
     "lng": 79.705
   },
+  "period": "থোণ্ডৈ নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আড়বার কর্তৃক স্তবগীত",
   "century": 8,
+  "dynasty": "পল্লব (আশ্রয়ী মন্দির, চোল, বিজয়নগর ও নায়ক সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "তিরুক্কারগম কাঞ্চিপুরমের উলগলন্দ পেরুমাল প্রাঙ্গণের অভ্যন্তরস্থ চারটি দিব্য দেশমের একটি, যেখানে তৃতীয় প্রাকারে বিষ্ণু করুণাকর—করুণাময় ভগবান—রূপে পূজিত, তিরুমঙ্গৈ আড়বার কর্তৃক স্তবগীত।",
   "sections": {
-    "history": "Thirukkaragam is not a temple apart but a Divya Desam within the Ulagalantha Perumal Temple of Periya Kanchi, the same complex that holds Thiruooragam, Thiruneeragam and Thirukkarvanam. The four are believed to have once been independent shrines, and a single verse of Thirumangai Alvar names them together; Thirumangai Alvar is the Alvar who sang this shrine in the Nalayira Divya Prabandham. The host temple is believed to be a Pallava foundation, with later additions by the Medieval Cholas, the Vijayanagara kings and the Nayaks, and is administered by the Tamil Nadu HR&CE Department. As one of the 108 Divya Desams, Thirukkaragam belongs to Thondai Nadu, the Tamil country around Kanchipuram.",
-    "architecture": "The shrine stands in the third precinct, or prakaram, of the Ulagalantha Perumal complex, beyond the main sanctum of Trivikrama. Karunakara Perumal is worshipped seated on Adisesha, with Padmamani Nachiyar, also called Ramamani Thayar, as his consort. The sanctum rises under the Vamana Vimanam, and its sacred water is the Agraya Theertham. The setting is a small, quiet sanctum within the larger walled complex.",
-    "legends": "The sthala purana tells of the sage Garga, who performed penance at this place and obtained knowledge; the spot was called Garagaham after him, and in time Kaaragam, from which the name Thirukkaragam is held to come. The Lord who appeared to the sage is honoured here as Karunakara, the compassionate one, whose mercy answers the patient devotion of the sage and of every pilgrim who follows him.",
-    "festivals": "The shrine keeps the calendar of the Ulagalantha Perumal Temple: Vaikunta Ekadashi, the annual Brahmotsavam with processions through the streets of Kanchipuram, and the recitation of the Divya Prabandham in the month of Margazhi. Confirm dates locally.",
-    "experience": "Thirukkaragam rewards the pilgrim who goes beyond the great sanctum of Trivikrama and walks on to the third precinct. Look for the seated Karunakara Perumal with Padmamani Nachiyar, and ask the priests about the Agraya Theertham and the legend of the sage Garga. Visit it with the other three Divya Desams of the complex to complete a single, unhurried circuit."
+    "history": "তিরুক্কারগম কোনো পৃথক মন্দির নয়, বরং পেরিয় কাঞ্চির উলগলন্দ পেরুমাল মন্দিরের অভ্যন্তরস্থ একটি দিব্য দেশম, সেই একই প্রাঙ্গণ যা তিরুউরগম, তিরুনীরগম ও তিরুক্কার্বনমকে ধারণ করে। মনে করা হয় চারটি একসময় স্বাধীন মন্দির ছিল, এবং তিরুমঙ্গৈ আড়বারের একটিই স্তোত্র এদের একত্রে নাম উল্লেখ করে; তিরুমঙ্গৈ আড়বারই সেই আড়বার যিনি নালায়িরা দিব্য প্রবন্ধমে এই মন্দির স্তবগীত করেছেন। আশ্রয়ী মন্দিরটি একটি পল্লব প্রতিষ্ঠান বলে মনে করা হয়, মধ্যযুগীয় চোল, বিজয়নগর রাজা ও নায়কদের পরবর্তী সংযোজনসহ, এবং এটি তামিলনাড়ু এইচআর অ্যান্ড সিই বিভাগ কর্তৃক পরিচালিত। ১০৮টি দিব্য দেশমের একটি রূপে তিরুক্কারগম থোণ্ডৈ নাড়ু, কাঞ্চিপুরমের চারপাশের তামিল অঞ্চলের অন্তর্গত।",
+    "architecture": "মন্দিরটি উলগলন্দ পেরুমাল প্রাঙ্গণের তৃতীয় প্রাকারে, ত্রিবিক্রমের মূল গর্ভগৃহের অতিক্রমে অবস্থিত। করুণাকর পেরুমাল আদিশেষের উপর উপবিষ্ট রূপে পূজিত, পদ্মমণি নাচ্চিয়ার—যাঁকে রামমণি থায়ারও বলা হয়—তাঁর সহধর্মিণী রূপে। গর্ভগৃহটি বামন বিমানমের নিচে উত্থিত, এবং এর পবিত্র জল হল অগ্রয় তীর্থম। পরিবেশটি বৃহত্তর প্রাচীরঘেরা প্রাঙ্গণের মধ্যে একটি ছোট, শান্ত গর্ভগৃহ।",
+    "legends": "স্থলপুরাণ ঋষি গর্গের কথা বলে, যিনি এই স্থানে তপস্যা করে জ্ঞান লাভ করেন; স্থানটি তাঁর নামানুসারে গর্গাহম এবং কালক্রমে কারগম নামে অভিহিত হয়, যা থেকে তিরুক্কারগম নাম এসেছে বলে মানা হয়। যে ভগবান ঋষির সম্মুখে আবির্ভূত হন তিনি এখানে করুণাকর, করুণাময়, রূপে সম্মানিত, যাঁর করুণা ঋষির এবং তাঁর অনুসরণকারী প্রতিটি তীর্থযাত্রীর ধৈর্যশীল ভক্তির উত্তর দেয়।",
+    "festivals": "মন্দিরটি উলগলন্দ পেরুমাল মন্দিরের পঞ্জিকা পালন করে: বৈকুণ্ঠ একাদশী, কাঞ্চিপুরমের রাস্তায় শোভাযাত্রাসহ বার্ষিক ব্রহ্মোৎসবম, এবং মার্গড়ি মাসে দিব্য প্রবন্ধম পাঠ। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "তিরুক্কারগম সেই তীর্থযাত্রীকে পুরস্কৃত করে যিনি ত্রিবিক্রমের মহান গর্ভগৃহ অতিক্রম করে তৃতীয় প্রাকার পর্যন্ত এগিয়ে যান। পদ্মমণি নাচ্চিয়ারের সঙ্গে উপবিষ্ট করুণাকর পেরুমালকে খুঁজে নিন, এবং পুরোহিতদের কাছে অগ্রয় তীর্থম ও ঋষি গর্গের কিংবদন্তি সম্পর্কে জিজ্ঞাসা করুন। একটি একক, অবিচ্ছিন্ন পরিক্রমা সম্পূর্ণ করতে প্রাঙ্গণের অন্য তিনটি দিব্য দেশমের সঙ্গে এটি দর্শন করুন।"
   },
   "visit": {
-    "timings": "The shrine opens with the Ulagalantha Perumal Temple: morning and evening darshan sessions with a midday closure. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
-    "gettingThere": "This is a shrine inside the Ulagalantha Perumal Temple in the old town of Kanchipuram (Periya Kanchi); enter by that temple's gateway and ask for Thirukkaragam in the third precinct. Chennai, about 70 km to the north-east, is the nearest major airport, and Kanchipuram town is the nearest railhead."
+    "timings": "মন্দিরটি উলগলন্দ পেরুমাল মন্দিরের সঙ্গে খোলে: সকাল ও সন্ধ্যার দর্শন সময় এবং মধ্যাহ্নে বিরতি। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে পাদুকা খুলে রাখতে হয়। নির্দেশিকা ও পুরোহিতদের পরামর্শ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে আলোকচিত্র গ্রহণ সীমিত; নির্দেশিকা ও পুরোহিতদের পরামর্শ অনুসরণ করুন।",
+    "gettingThere": "এটি কাঞ্চিপুরমের পুরাতন নগরীর (পেরিয় কাঞ্চি) উলগলন্দ পেরুমাল মন্দিরের অভ্যন্তরস্থ একটি মন্দির; সেই মন্দিরের তোরণ দিয়ে প্রবেশ করুন এবং তৃতীয় প্রাকারে তিরুক্কারগমের খোঁজ করুন। উত্তর-পূর্বে প্রায় ৭০ কিমি দূরে চেন্নাই নিকটতম প্রধান বিমানবন্দর, এবং কাঞ্চিপুরম নগর নিকটতম রেলস্টেশন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/karunakara-thirukkaragam.jpg",

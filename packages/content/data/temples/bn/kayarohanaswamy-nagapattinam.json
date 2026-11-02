@@ -1,31 +1,38 @@
 {
   "id": "kayarohanaswamy-nagapattinam",
   "locale": "bn",
+  "name": "কায়ারোহণস্বামী মন্দির, নাগপট্টিনম",
   "nativeName": "காயாரோகணசுவாமி கோயில், நாகப்பட்டினம்",
+  "deity": "শিব কায়ারোহণস্বামী রূপে, ত্যাগরাজ উৎসবমূর্তি নগর বিডঙ্গর ও দেবী নীলায়তাক্ষীর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Nagapattinam",
-    "state": "Tamil Nadu",
+    "city": "নাগপট্টিনম",
+    "state": "তামিলনাড়ু",
     "lat": 10.766,
     "lng": 79.8449
   },
+  "period": "তেবারমে স্তবগীত একটি পাডল পেট্র স্থলম; প্রস্তরনির্মিত মন্দিরটি চোল যুগের",
   "century": 9,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "sapta-vidanga-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "করমণ্ডল উপকূলের প্রাচীন বন্দর-নগর নাগপট্টিনমে শিব কায়ারোহণস্বামী রূপে দণ্ডায়মান, এবং মন্দিরের ত্যাগরাজ—নগর বিডঙ্গর—কাবেরী বদ্বীপের সপ্ত নৃত্যরত বিডঙ্গের একটি, যাঁর শোভাযাত্রা উন্মত্ত নটনমে দোলে বলে কথিত।",
   "sections": {
-    "history": "Nagapattinam, an ancient port on the Coromandel coast at the seaward edge of the Kaveri delta, holds the temple of Shiva as Kayarohanaswamy, with the Goddess Neelayadakshi. It is a Paadal Petra Sthalam, sung by the Nayanmar saints, its stone shrines of the Chola age when Nagapattinam was a great harbour of the eastern trade. The temple is one of the Sapta Vidanga Sthalams, the seven shrines of the dancing Thyagaraja of the delta, and here the Thyagaraja is honoured as Nagara Vidangar.",
-    "architecture": "Built in the Dravidian manner, the temple gathers around the sanctum of Kayarohanaswamy, with the Goddess Neelayadakshi in her own shrine and, as at every Vidanga temple, the Somaskanda form of Thyagaraja — Shiva with Uma and the child Skanda — worshipped as the processional lord. Pillared halls and a gateway tower open before the sanctum, in the manner of the great delta temples raised and endowed under the Cholas.",
-    "legends": "The Sapta Vidanga temples share a single legend: the uncarved images of Thyagaraja, the Vidangas, are said to have been given by the lord to the kings of old and worshipped in the Somaskanda form, each moving in its own dance when carried in procession. At Nagapattinam the Thyagaraja is Nagara Vidangar, and his procession is held to move in the Unmatta Natanam, one of the seven dances of the delta shrines that together make up the tradition of the dancing Thyagaraja.",
-    "festivals": "The temple keeps the festivals of Shiva and of Thyagaraja through the year, with the procession of the Vidangar the heart of its celebration, alongside the car festival through the port town and the days sacred to the Nayanmar saints. Coastal festivals and the Panguni and Aadi observances fill the shrine with lamps and song.",
-    "experience": "Nagapattinam rewards the pilgrim with a seaward Shiva temple and one of the seven dancing Thyagarajas, in a town whose harbour once reached across the eastern seas. It sits on the coast within easy reach of the delta temple towns, and joins the other Vidanga shrines — from Thiruvarur inland to Vedaranyam at the river's mouth — into the single pilgrimage of the seven dances."
+    "history": "নাগপট্টিনম, করমণ্ডল উপকূলে কাবেরী বদ্বীপের সমুদ্রপ্রান্তে একটি প্রাচীন বন্দর, শিবের কায়ারোহণস্বামী রূপের মন্দির ধারণ করে, দেবী নীলায়তাক্ষীর সঙ্গে। এটি একটি পাডল পেট্র স্থলম, নায়নমার সন্তদের কর্তৃক স্তবগীত, এর প্রস্তরমন্দির চোল যুগের যখন নাগপট্টিনম পূর্বদেশীয় বাণিজ্যের একটি মহান বন্দর ছিল। মন্দিরটি সপ্ত বিডঙ্গ স্থলমের একটি, বদ্বীপের নৃত্যরত ত্যাগরাজের সপ্ত ক্ষেত্রের অন্যতম, এবং এখানে ত্যাগরাজ নগর বিডঙ্গর রূপে সম্মানিত।",
+    "architecture": "দ্রাবিড় রীতিতে নির্মিত, মন্দিরটি কায়ারোহণস্বামীর গর্ভগৃহকে কেন্দ্র করে গড়ে উঠেছে, দেবী নীলায়তাক্ষী তাঁর নিজস্ব মন্দিরে এবং, প্রতিটি বিডঙ্গ মন্দিরের মতো, ত্যাগরাজের সোমস্কন্দ রূপ—উমা ও শিশু স্কন্দসহ শিব—উৎসবমূর্তি রূপে পূজিত। চোলদের অধীনে নির্মিত ও প্রদত্ত মহান বদ্বীপমন্দিরগুলির রীতিতে স্তম্ভশোভিত মণ্ডপ ও একটি তোরণ-মিনার গর্ভগৃহের সম্মুখে খোলে।",
+    "legends": "সপ্ত বিডঙ্গ মন্দির একটি অভিন্ন কিংবদন্তি ভাগ করে নেয়: ত্যাগরাজের অখোদিত মূর্তিগুলি, বিডঙ্গগণ, কথিত আছে ভগবান কর্তৃক প্রাচীন রাজাদের প্রদত্ত এবং সোমস্কন্দ রূপে পূজিত, শোভাযাত্রায় বাহিত হলে প্রত্যেকে নিজস্ব নৃত্যে দোলে। নাগপট্টিনমে ত্যাগরাজ নগর বিডঙ্গর, এবং তাঁর শোভাযাত্রা উন্মত্ত নটনমে দোলে বলে মানা হয়, বদ্বীপ ক্ষেত্রের সপ্ত নৃত্যের একটি যা একত্রে নৃত্যরত ত্যাগরাজের ঐতিহ্য গঠন করে।",
+    "festivals": "মন্দিরটি সারা বছর শিব ও ত্যাগরাজের উৎসব পালন করে, বিডঙ্গরের শোভাযাত্রা এর উদযাপনের কেন্দ্রস্থল, বন্দর-নগরের মধ্য দিয়ে রথোৎসব ও নায়নমার সন্তদের উদ্দেশে পবিত্র দিনগুলির পাশাপাশি। উপকূলীয় উৎসব এবং পঙ্গুনি ও আডি পালন ক্ষেত্রটিকে প্রদীপ ও গানে ভরিয়ে তোলে।",
+    "experience": "নাগপট্টিনম তীর্থযাত্রীকে একটি সমুদ্রমুখী শিবমন্দির ও সপ্ত নৃত্যরত ত্যাগরাজের একটি দিয়ে পুরস্কৃত করে, এমন এক নগরে যার বন্দর একদা পূর্বসমুদ্র জুড়ে প্রসারিত ছিল। এটি উপকূলে অবস্থিত, বদ্বীপের মন্দির-নগরগুলির সহজ নাগালে, এবং অন্যান্য বিডঙ্গ ক্ষেত্রগুলিকে—অভ্যন্তরের তিরুভারুর থেকে নদীমুখের বেদারণ্যম পর্যন্ত—সপ্ত নৃত্যের একক তীর্থযাত্রায় যুক্ত করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and processions are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Nagapattinam is a coastal district town at the seaward edge of the Kaveri delta, well connected by road and rail; it lies within easy reach of Thiruvarur and the other delta temple towns."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন সময় ও মধ্যাহ্নে বিরতিসহ খোলা; উৎসবের দিন ও শোভাযাত্রা সর্বাধিক ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে পাদুকা খুলে রাখতে হয়। বহু দক্ষিণী ক্ষেত্রের মতো, পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সম্মুখে ঊর্ধ্বাঙ্গের বস্ত্র খুলতে বলা হয়; নির্দেশিকা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে আলোকচিত্র গ্রহণ সীমিত; নির্দেশিকা ও পুরোহিতদের পরামর্শ অনুসরণ করুন।",
+    "gettingThere": "নাগপট্টিনম কাবেরী বদ্বীপের সমুদ্রপ্রান্তে একটি উপকূলীয় জেলা-নগর, সড়ক ও রেলপথে সুসংযুক্ত; এটি তিরুভারুর ও অন্যান্য বদ্বীপ মন্দির-নগরগুলির সহজ নাগালে অবস্থিত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kayarohanaswamy-nagapattinam.jpg",

@@ -1,31 +1,38 @@
 {
   "id": "kedarnath",
   "locale": "bn",
+  "name": "কেদারনাথ মন্দির",
   "nativeName": "श्री केदारनाथ धाम",
+  "deity": "শিব কেদারনাথ রূপে, কেদারের অধীশ্বর — দ্বাদশ জ্যোতির্লিঙ্গের উচ্চতম",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Kedarnath",
-    "state": "Uttarakhand",
+    "city": "কেদারনাথ",
+    "state": "উত্তরাখণ্ড",
     "lat": 30.7352,
     "lng": 79.0669
   },
+  "period": "একটি প্রাচীন হিমালয়ী ক্ষেত্র; ঐতিহ্য এর পুনরুজ্জীবনের কৃতিত্ব অষ্টম শতাব্দীর আদি শঙ্করকে দেয়",
   "century": 8,
+  "dynasty": "ঐতিহ্যগতভাবে পাণ্ডব ও আদি শঙ্করের সঙ্গে সংযুক্ত",
+  "style": "হিমালয়ী প্রস্তরমন্দির (নাগর)",
   "unesco": false,
   "circuits": [
     "jyotirlingas",
     "paadal-petra-sthalams"
   ],
+  "summary": "গাড়োয়াল হিমালয়ে মন্দাকিনী উপত্যকার শীর্ষে উচ্চে অবস্থিত কেদারনাথ দ্বাদশ জ্যোতির্লিঙ্গের উচ্চতম, পঞ্চ কেদারের প্রথম এবং ছোটা চার ধামের একটি — কেবল গ্রীষ্মের মাসগুলিতেই খোলা।",
   "sections": {
-    "history": "The Dvadasha Jyotirlinga Stotram honours \"Kedara on the slopes of the Himalaya,\" and Kedarnath, at about 3,580 metres, is the highest of the twelve Jyotirlingas. Tradition holds that the Pandavas first built a shrine here and that Adi Shankara revived the temple in the 8th century; a memorial to the teacher stands behind it. Its worship is led by a Rawal, the chief priest, drawn by long custom from the Veerashaiva community of Karnataka. Kedarnath is also the first of the five Panch Kedar shrines and one of the four Chota Char Dham of Uttarakhand. In June 2013 flash floods swept through the valley, devastating the town and taking thousands of lives; the temple itself withstood the waters and has since welcomed pilgrims again.",
-    "architecture": "The temple is built of massive grey stone slabs set on a broad platform, its plain, sturdy walls and pyramidal roof made to endure Himalayan snow. A stone Nandi faces the entrance, and the pillared hall within is carved with images of the Pandavas, Kunti and Krishna. In the sanctum the linga is a natural, irregular rock, revered as the hump of Shiva in the form of a bull. Behind the temple rests a great boulder, the Bhim Shila, which lodged there in 2013 and turned the floodwaters aside.",
-    "legends": "After the Kurukshetra war, the Pandavas sought Shiva to be cleansed of the sin of killing their kin. Unwilling to meet them, Shiva hid among the herds of the Himalaya as a bull. Bhima recognised him, and as the bull sank into the ground he caught hold of its hump. That hump remained at Kedarnath, while, it is said, the arms appeared at Tungnath, the face at Rudranath, the navel at Madhyamaheshwar and the matted hair at Kalpeshwar — the five shrines of the Panch Kedar.",
-    "festivals": "The doors open each spring, around Akshaya Tritiya, on a date announced at Maha Shivaratri, and close on Bhai Dooj after Diwali. In winter the festival image is carried in a palanquin procession to the Omkareshwar temple at Ukhimath, where worship continues until the temple reopens. Shravan is a season of special devotion. Confirm dates locally.",
-    "experience": "The last stretch to Kedarnath is made on foot, by pony or by helicopter, the path climbing beside the roaring Mandakini toward a ring of snow peaks. Arriving at the temple, with the white bulk of the Kedarnath range behind it, is for many the culmination of a lifetime's wish. Evening aarti in the thin, cold air is unforgettable; go slowly and allow time to acclimatise."
+    "history": "দ্বাদশ জ্যোতির্লিঙ্গ স্তোত্রম \"হিমালয়ের ঢালে কেদার\"-কে সম্মান জানায়, এবং প্রায় ৩,৫৮০ মিটার উচ্চতায় অবস্থিত কেদারনাথ দ্বাদশ জ্যোতির্লিঙ্গের উচ্চতম। ঐতিহ্য মানে পাণ্ডবগণ এখানে প্রথম একটি ক্ষেত্র নির্মাণ করেন এবং অষ্টম শতাব্দীতে আদি শঙ্কর মন্দিরটি পুনরুজ্জীবিত করেন; এর পশ্চাতে সেই আচার্যের একটি সমাধি দণ্ডায়মান। এর পূজা পরিচালনা করেন একজন রাওয়াল, প্রধান পুরোহিত, যিনি দীর্ঘ প্রথা অনুসারে কর্ণাটকের বীরশৈব সম্প্রদায় থেকে আসেন। কেদারনাথ পঞ্চ কেদারের পাঁচ ক্ষেত্রের প্রথম এবং উত্তরাখণ্ডের চার ছোটা চার ধামের একটি। ২০১৩ সালের জুন মাসে হড়কা বন্যা উপত্যকার মধ্য দিয়ে বয়ে যায়, নগরটি বিধ্বস্ত করে ও হাজার হাজার প্রাণ কেড়ে নেয়; মন্দিরটি নিজে জল সহ্য করে দাঁড়িয়ে থাকে এবং তারপর থেকে আবার তীর্থযাত্রীদের স্বাগত জানিয়ে আসছে।",
+    "architecture": "মন্দিরটি একটি প্রশস্ত বেদির উপর স্থাপিত বিশাল ধূসর প্রস্তরখণ্ড দিয়ে নির্মিত, এর সরল, দৃঢ় প্রাচীর ও পিরামিডাকার ছাদ হিমালয়ের তুষার সহ্য করার জন্য তৈরি। একটি প্রস্তর নন্দী প্রবেশপথের সম্মুখে, এবং ভিতরের স্তম্ভশোভিত কক্ষ পাণ্ডবগণ, কুন্তী ও কৃষ্ণের মূর্তিতে খোদিত। গর্ভগৃহে লিঙ্গটি একটি স্বাভাবিক, অসম পাথর, বৃষরূপী শিবের ককুদ রূপে পূজিত। মন্দিরের পিছনে বিশ্রাম করছে এক বিশাল শিলা, ভীম শিলা, যা ২০১৩ সালে সেখানে আটকে গিয়ে বন্যার জল অন্যদিকে ফিরিয়ে দিয়েছিল।",
+    "legends": "কুরুক্ষেত্র যুদ্ধের পর পাণ্ডবগণ স্বজনহত্যার পাপ থেকে মুক্ত হতে শিবকে খুঁজেছিলেন। তাঁদের সঙ্গে দেখা করতে অনিচ্ছুক শিব হিমালয়ের গোপালের মধ্যে বৃষরূপে লুকিয়েছিলেন। ভীম তাঁকে চিনতে পারেন, এবং বৃষটি মাটিতে ডুবে যেতে থাকলে তিনি তার ককুদ ধরে ফেলেন। সেই ককুদ কেদারনাথে থেকে যায়, আর, কথিত আছে, বাহু তুঙ্গনাথে, মুখ রুদ্রনাথে, নাভি মধ্যমহেশ্বরে এবং জটা কল্পেশ্বরে আবির্ভূত হয় — পঞ্চ কেদারের পাঁচ ক্ষেত্র।",
+    "festivals": "প্রতি বসন্তে, অক্ষয় তৃতীয়ার কাছাকাছি, মহাশিবরাত্রিতে ঘোষিত একটি তারিখে দ্বার খোলে, এবং দীপাবলির পর ভাইদুজে বন্ধ হয়। শীতকালে উৎসবমূর্তি একটি পালকি শোভাযাত্রায় উখিমঠের ওঁকারেশ্বর মন্দিরে নিয়ে যাওয়া হয়, যেখানে মন্দির পুনরায় খোলা পর্যন্ত পূজা চলে। শ্রাবণ বিশেষ ভক্তির মরসুম। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "কেদারনাথের শেষ পর্যায় পায়ে হেঁটে, টাট্টুঘোড়ায় বা হেলিকপ্টারে অতিক্রম করা হয়, পথটি গর্জনশীল মন্দাকিনীর পাশ দিয়ে তুষারশৃঙ্গের বলয়ের দিকে ওঠে। কেদারনাথ পর্বতমালার শুভ্র বিশালতা পশ্চাতে নিয়ে মন্দিরে পৌঁছানো বহু মানুষের কাছে জীবনব্যাপী আকাঙ্ক্ষার পরিণতি। পাতলা, শীতল বাতাসে সান্ধ্য আরতি অবিস্মরণীয়; ধীরে এগিয়ে চলুন এবং অভ্যস্ত হওয়ার জন্য সময় রাখুন।"
   },
   "visit": {
-    "timings": "Open only from spring to early winter (roughly April–May to October–November); during the season darshan runs from early morning into the evening. Confirm opening and closing dates and daily timings locally.",
-    "dressCode": "Modest dress is expected, with warm layers essential at this altitude; footwear is removed before entering.",
-    "photography": "Photography is not permitted inside the temple; follow posted rules and staff guidance.",
-    "gettingThere": "Road access ends at Gaurikund (via Sonprayag) in Rudraprayag district, Uttarakhand, from where a steep trek of about 16–18 km leads to the temple; ponies, palanquins and helicopter services from the valley below are available. The nearest railway station is Rishikesh and the nearest airport is Jolly Grant, Dehradun. Pilgrim registration for the Char Dham yatra is required."
+    "timings": "কেবল বসন্ত থেকে শীতের শুরু পর্যন্ত খোলা (মোটামুটি এপ্রিল–মে থেকে অক্টোবর–নভেম্বর); মরসুমে দর্শন ভোর থেকে সন্ধ্যা পর্যন্ত চলে। খোলা ও বন্ধের তারিখ এবং দৈনিক সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন পোশাক প্রত্যাশিত, এই উচ্চতায় উষ্ণ স্তরবিশিষ্ট পোশাক অপরিহার্য; প্রবেশের আগে পাদুকা খুলে রাখতে হয়।",
+    "photography": "মন্দিরের ভিতরে আলোকচিত্র গ্রহণের অনুমতি নেই; নির্দেশিকা ও কর্মীদের পরামর্শ অনুসরণ করুন।",
+    "gettingThere": "সড়কপথ উত্তরাখণ্ডের রুদ্রপ্রয়াগ জেলায় গৌরীকুণ্ডে (সোনপ্রয়াগ হয়ে) শেষ হয়, যেখান থেকে প্রায় ১৬–১৮ কিমি খাড়া পায়ে চলা পথ মন্দিরে পৌঁছায়; নিচের উপত্যকা থেকে টাট্টুঘোড়া, পালকি ও হেলিকপ্টার পরিষেবা পাওয়া যায়। নিকটতম রেলস্টেশন ঋষিকেশ এবং নিকটতম বিমানবন্দর দেরাদুনের জলি গ্রান্ট। চার ধাম যাত্রার জন্য তীর্থযাত্রী নিবন্ধন আবশ্যক।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kedarnath.jpg",

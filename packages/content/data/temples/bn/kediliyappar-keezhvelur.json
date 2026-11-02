@@ -1,29 +1,36 @@
 {
   "id": "kediliyappar-keezhvelur",
   "locale": "bn",
+  "name": "কেডিলিয়প্পর মন্দির, কীড়্‌ভেলূর",
   "nativeName": "திருக்கீழ்வேளூர் கேடிலியப்பர் கோயில்",
+  "deity": "শিব কেডিলিয়প্পর (অক্ষয়লিঙ্গেশ্বরর) রূপে, দেবী বনমুলৈ অম্মানের সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, একটি কোচেঙ্গট চোল মাডকোইল",
   "location": {
-    "city": "Keezhvelur, near Nagapattinam",
-    "state": "Tamil Nadu",
+    "city": "কীড়্‌ভেলূর, নাগপট্টিনমের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.7006,
     "lng": 79.7756
   },
+  "period": "তেবারম যুগ; ঐতিহ্যগতভাবে একটি কোচেঙ্গট চোল প্রতিষ্ঠান",
   "century": 9,
+  "dynasty": "চোল (ঐতিহ্যগতভাবে কোচেঙ্গট চোল)",
+  "style": "দ্রাবিড় (মাডকোইল, উচ্চস্থ ধরন)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "নাগপট্টিনমের নিকটে কীড়্‌ভেলূর শিবকে কেডিলিয়প্পর—যাঁকে অক্ষয়লিঙ্গেশ্বররও বলা হয়—রূপে সম্মান জানায়, দেবী বনমুলৈ অম্মানের সঙ্গে, সম্বন্দর ও অপ্পর কর্তৃক স্তবগীত একটি পাডল পেট্র স্থলম। চোল রাজা কোচেঙ্গট চোলের প্রতি ঐতিহ্যগতভাবে আরোপিত উচ্চস্থ মন্দিরগুলির একটি মাডকোইল রূপে নির্মিত, এটি সাত-স্তরবিশিষ্ট রাজগোপুরমসহ পরিপার্শ্বের ঊর্ধ্বে উত্থিত। এর স্থলবৃক্ষ হল ইলন্দৈ, কুল, যা অমৃতের এক বিন্দু থেকে উদ্ভূত বলে কথিত।",
   "sections": {
-    "history": "Keezhvelur, whose historical name is Thirukeezhvelur, is an ancient Shaiva site near Nagapattinam, revered in the seventh-century Tevaram by both Sambandar and Appar. The temple is a Maadakovil — one of the raised temples traditionally attributed to the early Chola king Kochengat Chola, built high so that an elephant could not enter the sanctum. The present fabric, altered and renovated over centuries, is held to be at least a thousand years old; its antiquity rests on its Tevaram standing and its sculptures.",
-    "architecture": "As a Maadakovil, the temple sits on an elevated base, its sanctum reached by a flight of steps — a form distinctive to the Kochengat Chola foundations. The east-facing rajagopuram rises seven tiers, with the Saravana Theertham opposite. The sanctum enshrines Kediliappar, Akshayalingeswarar, and the goddess Vanamulai Amman has her own shrine. The temple's Nataraja is shown with the right foot raised, a rare posture said to be the form the lord revealed to the sage Agastya.",
-    "legends": "The sthala-purana traces the temple to the churning of the ocean of milk: a drop of the amrita, the nectar of immortality, is said to have fallen here and grown into a forest of ilanthai, the jujube, which became the temple's sacred tree. The raised Maadakovil form is explained by the devotion of Kochengat Chola, who in tradition built such temples so tall that elephants could not disturb the worship. The right-foot-raised Nataraja recalls the grace shown to Agastya, for whom the lord reversed his dancing posture.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi observances and the annual Brahmotsavam — with Arudra Darshan honouring the special Nataraja held in particular regard. The elevated sanctum gives the festival processions and the climb to darshan a distinctive character.",
-    "experience": "Climbing to the raised sanctum of a Maadakovil is itself part of the pilgrimage at Keezhvelur, lifting the devotee above the surrounding fields toward the lord. The seven-tiered tower, the jujube tree of the nectar legend and the rare right-footed Nataraja give the temple a quiet distinction, and the darshan of Kediliappar — the 'faultless lord' — carries a sense of completeness and grace."
+    "history": "কীড়্‌ভেলূর, যার ঐতিহাসিক নাম তিরুক্কীড়্‌ভেলূর, নাগপট্টিনমের নিকটে একটি প্রাচীন শৈব ক্ষেত্র, সপ্তম শতাব্দীর তেবারমে সম্বন্দর ও অপ্পর উভয়ের কর্তৃক শ্রদ্ধিত। মন্দিরটি একটি মাডকোইল—আদি চোল রাজা কোচেঙ্গট চোলের প্রতি ঐতিহ্যগতভাবে আরোপিত উচ্চস্থ মন্দিরগুলির একটি, এত উঁচুতে নির্মিত যাতে হাতি গর্ভগৃহে প্রবেশ করতে না পারে। বর্তমান কাঠামো, শতাব্দীজুড়ে পরিবর্তিত ও সংস্কৃত, অন্তত এক হাজার বছর পুরানো বলে মানা হয়; এর প্রাচীনত্ব তার তেবারম মর্যাদা ও ভাস্কর্যের উপর নির্ভর করে।",
+    "architecture": "মাডকোইল রূপে মন্দিরটি একটি উঁচু ভিতের উপর অবস্থিত, এর গর্ভগৃহে একটি সিঁড়ির ধাপ বেয়ে পৌঁছানো যায়—এক রূপ যা কোচেঙ্গট চোল প্রতিষ্ঠানগুলির স্বতন্ত্র। পূর্বমুখী রাজগোপুরম সাত স্তর উঠে গেছে, বিপরীতে সরবণ তীর্থমসহ। গর্ভগৃহে কেডিলিয়প্পর, অক্ষয়লিঙ্গেশ্বরর, অধিষ্ঠিত, এবং দেবী বনমুলৈ অম্মানের নিজস্ব মন্দির আছে। মন্দিরের নটরাজ ডান পা উত্থিত রূপে প্রদর্শিত, এক বিরল ভঙ্গি যা ঋষি অগস্ত্যের কাছে ভগবানের প্রকাশিত রূপ বলে কথিত।",
+    "legends": "স্থলপুরাণ মন্দিরটিকে ক্ষীরসমুদ্র মন্থনের সঙ্গে যুক্ত করে: অমৃতের এক বিন্দু এখানে পড়ে ইলন্দৈ, কুল, এক অরণ্যে পরিণত হয় বলে কথিত, যা মন্দিরের পবিত্র বৃক্ষ হয়ে ওঠে। উচ্চস্থ মাডকোইল রূপ কোচেঙ্গট চোলের ভক্তি দিয়ে ব্যাখ্যা করা হয়, যিনি ঐতিহ্যে এমন উঁচু মন্দির নির্মাণ করেছিলেন যাতে হাতি পূজায় বিঘ্ন ঘটাতে না পারে। ডান-পা-উত্থিত নটরাজ অগস্ত্যের প্রতি প্রদর্শিত অনুগ্রহ স্মরণ করায়, যাঁর জন্য ভগবান তাঁর নৃত্যভঙ্গি উলটে দিয়েছিলেন।",
+    "festivals": "মন্দিরটি শৈব উৎসব-পঞ্জিকা পালন করে—মহাশিবরাত্রি, প্রদোষম, মার্গড়ির পালন ও বার্ষিক ব্রহ্মোৎসবম—আরুদ্র দর্শন বিশেষ মর্যাদায় রক্ষিত সেই বিশেষ নটরাজকে সম্মান জানায়। উচ্চস্থ গর্ভগৃহ উৎসবের শোভাযাত্রা ও দর্শনের আরোহণকে এক স্বতন্ত্র বৈশিষ্ট্য দেয়।",
+    "experience": "একটি মাডকোইলের উচ্চস্থ গর্ভগৃহে আরোহণ নিজেই কীড়্‌ভেলূরে তীর্থযাত্রার অঙ্গ, যা ভক্তকে চারপাশের ক্ষেত থেকে ভগবানের দিকে ঊর্ধ্বে তুলে ধরে। সাত-স্তরবিশিষ্ট মিনার, অমৃত-কিংবদন্তির কুলগাছ ও বিরল ডান-পা নটরাজ মন্দিরকে এক শান্ত স্বাতন্ত্র্য দেয়, এবং কেডিলিয়প্পর—'নিখুঁত ভগবান'—এর দর্শন এক পূর্ণতা ও অনুগ্রহের অনুভূতি বহন করে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Keezhvelur is in Nagapattinam district, about 10 km from Nagapattinam and near Tiruvarur; the nearest rail heads are Nagapattinam and Tiruvarur, with local buses and taxis to the town."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং পুনরায় বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত আলোকচিত্র গ্রহণের অনুমতি আছে, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কীড়্‌ভেলূর নাগপট্টিনম জেলায়, নাগপট্টিনম থেকে প্রায় ১০ কিমি দূরে এবং তিরুভারুরের কাছে অবস্থিত; নিকটতম রেলস্টেশন নাগপট্টিনম ও তিরুভারুর, নগরে স্থানীয় বাস ও ট্যাক্সি চলাচল করে।"
   }
 }

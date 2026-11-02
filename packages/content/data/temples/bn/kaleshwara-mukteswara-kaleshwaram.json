@@ -1,30 +1,37 @@
 {
   "id": "kaleshwara-mukteswara-kaleshwaram",
   "locale": "bn",
+  "name": "কালেশ্বর মুক্তেশ্বর স্বামী মন্দির, কালেশ্বরম",
   "nativeName": "శ్రీ కాళేశ్వర ముక్తీశ్వర స్వామి ఆలయం",
+  "deity": "শিব মুক্তেশ্বর রূপে এবং যম কালেশ্বর রূপে — একক পীঠে দুটি লিঙ্গ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Kaleshwaram",
-    "state": "Telangana",
+    "city": "কালেশ্বরম",
+    "state": "তেলেঙ্গানা",
     "lat": 18.8119,
     "lng": 79.9039
   },
+  "period": "ঐতিহ্যগতভাবে প্রাচীন; ত্রিলিঙ্গ দেশমের তিনটি মন্দিরের একটি",
   "century": 12,
+  "dynasty": "কাকতীয়-যুগের পাথরের মন্দির, পরবর্তী সংযোজনসহ",
+  "style": "কাকতীয়-রীতির পাথরের মন্দির",
   "unesco": false,
   "circuits": [
     "trilinga-kshetras"
   ],
+  "summary": "গোদাবরী ও প্রাণহিতার সঙ্গমে, শিব ও যম একক পীঠে দুটি লিঙ্গ — মুক্তেশ্বর ও কালেশ্বর — রূপে বিরাজমান, সেই তিনটি মন্দিরের একটিতে যা ঐতিহ্য অনুসারে তেলুগু ভূমির সীমা নির্ধারণ করত।",
   "sections": {
-    "history": "Kaleshwaram stands on the bank of the Godavari where the Pranahita joins it, in the Jayashankar Bhupalpally district of northern Telangana. It is counted among the three great Shiva shrines — with Srisailam and Draksharamam — that tradition says marked the bounds of the Trilinga Desham, the 'land of three lingas' from which the name of the Telugu country is often derived. The temple is a modest stone shrine built in the manner of the Kakatiya period, and the Kakatiyas fortified this river crossing between the twelfth and fourteenth centuries. Its sanctity, however, is older than any building: pilgrims have long come to bathe at the confluence, which is revered as the Dakshina Triveni, before seeking the unusual double darshan of Kaleshwara and Mukteswara.",
-    "architecture": "The temple's heart is its sanctum, where two lingas rise side by side from a single pedestal — Mukteswara, Shiva the liberator, and Kaleshwara, a linga for Yama, the lord of time and death. Such a pairing is rarely seen elsewhere. The Mukteswara linga carries an opening that devotees say never fills however much water is poured in, and local belief holds that it leads by hidden ways to the river. The shrine is built of plain dressed stone in the Kakatiya manner, within an enclosure that also houses subsidiary shrines, and steps lead down from the temple to the bathing ghats at the confluence.",
-    "legends": "The pairing of the two lingas is the shrine's central teaching: Yama, who ends every life, is worshipped beside Shiva, who grants release from the cycle of birth and death, and pilgrims honour Ganesha first, then Kaleshwara, then Mukteswara. The confluence is called the Dakshina Triveni, for the Godavari and Pranahita are said to be joined by a third, unseen river, the Antarvahini Saraswati. A local story tells of a devout merchant who bathed the linga with pot after pot of milk, and the milk is said to have flowed out into the confluence below.",
-    "festivals": "Maha Shivaratri draws the largest crowds, and the month of Karthika brings a steady stream of pilgrims for the river bath and lamp worship. Kaleshwaram is also a major centre of the Pushkaralu, the twelve-yearly river festivals of the Godavari, the Pranahita and the Saraswati, when bathers fill the ghats at the confluence. Confirm dates locally.",
-    "experience": "A visit begins at the river: pilgrims bathe at the confluence, then climb to the temple to worship Ganesha, Kaleshwara and Mukteswara in turn. The setting is quiet and rural, with wide views over the joined rivers, and the village fills with life on festival days. Kaleshwaram pairs naturally with the Kakatiya temples of Warangal and Palampet on a journey through northern Telangana."
+    "history": "কালেশ্বরম গোদাবরীর তীরে দাঁড়িয়ে আছে যেখানে প্রাণহিতা তার সঙ্গে মিলিত হয়, উত্তর তেলেঙ্গানার জয়শঙ্কর ভূপালপল্লী জেলায়। এটি তিনটি মহান শিব মন্দিরের অন্যতম — শ্রীশৈলম ও দ্রাক্ষারামমের সঙ্গে — যা ঐতিহ্য অনুসারে ত্রিলিঙ্গ দেশমের সীমা চিহ্নিত করত, সেই 'তিন লিঙ্গের ভূমি' যা থেকে তেলুগু দেশের নামটি প্রায়শই উদ্ভূত বলে ধরা হয়। মন্দিরটি কাকতীয় যুগের রীতিতে নির্মিত এক সাদামাটা পাথরের মন্দির, এবং কাকতীয়রা দ্বাদশ থেকে চতুর্দশ শতকের মধ্যে এই নদীপার দুর্গ করেছিলেন। তবে এর পবিত্রতা যেকোনো নির্মাণের চেয়ে প্রাচীন: তীর্থযাত্রীরা দীর্ঘকাল ধরে এই সঙ্গমে স্নান করতে আসেন, যা দক্ষিণ ত্রিবেণী রূপে পূজিত, তারপর কালেশ্বর ও মুক্তেশ্বরের অসাধারণ দ্বৈত দর্শন প্রার্থনা করেন।",
+    "architecture": "মন্দিরের কেন্দ্র তার গর্ভগৃহ, যেখানে একক পীঠ থেকে দুটি লিঙ্গ পাশাপাশি উত্থিত — মুক্তেশ্বর, মুক্তিদাতা শিব, এবং কালেশ্বর, কাল ও মৃত্যুর প্রভু যমের জন্য একটি লিঙ্গ। এমন জোড় অন্যত্র কদাচিৎ দেখা যায়। মুক্তেশ্বর লিঙ্গে একটি ছিদ্র আছে যা ভক্তরা বলেন যত জলই ঢালা হোক কখনো ভরে না, এবং স্থানীয় বিশ্বাস হলো এটি গুপ্ত পথে নদীর সঙ্গে যুক্ত। মন্দিরটি কাকতীয় রীতিতে সাদামাটা তরাশা পাথরে নির্মিত, এক প্রাঙ্গণের মধ্যে যেখানে উপমন্দিরও আছে, এবং মন্দির থেকে সিঁড়ি নেমে গেছে সঙ্গমের স্নানঘাটে।",
+    "legends": "দুটি লিঙ্গের জোড় এই মন্দিরের কেন্দ্রীয় শিক্ষা: যম, যিনি প্রতিটি জীবন শেষ করেন, পূজিত হন শিবের পাশে, যিনি জন্ম-মৃত্যুর চক্র থেকে মুক্তি দেন, এবং তীর্থযাত্রীরা প্রথমে গণেশকে, তারপর কালেশ্বরকে, তারপর মুক্তেশ্বরকে সম্মান করেন। সঙ্গমটি দক্ষিণ ত্রিবেণী নামে পরিচিত, কারণ বলা হয় গোদাবরী ও প্রাণহিতা তৃতীয় এক অদৃশ্য নদী, অন্তর্বাহিনী সরস্বতী দ্বারা যুক্ত। এক স্থানীয় কাহিনী বলে এক ভক্ত বণিকের কথা যিনি কলসির পর কলসি দুধ দিয়ে লিঙ্গ স্নান করিয়েছিলেন, এবং বলা হয় সেই দুধ নিচের সঙ্গমে প্রবাহিত হয়েছিল।",
+    "festivals": "মহা শিবরাত্রি সবচেয়ে বড় ভিড় টানে, এবং কার্তিক মাসে নদীস্নান ও প্রদীপ পূজার জন্য তীর্থযাত্রীদের স্থির স্রোত আসে। কালেশ্বরম পুষ্করালুরও এক প্রধান কেন্দ্র, গোদাবরী, প্রাণহিতা ও সরস্বতীর দ্বাদশ-বার্ষিক নদী উৎসব, যখন স্নানার্থীরা সঙ্গমের ঘাট ভরিয়ে তোলেন। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "যাত্রা নদীতে শুরু হয়: তীর্থযাত্রীরা সঙ্গমে স্নান করেন, তারপর মন্দিরে উঠে পর্যায়ক্রমে গণেশ, কালেশ্বর ও মুক্তেশ্বরের পূজা করেন। পরিবেশ শান্ত ও গ্রাম্য, মিলিত নদীগুলির উপর প্রশস্ত দৃশ্যসহ, এবং উৎসবের দিনে গ্রামটি প্রাণে ভরে ওঠে। উত্তর তেলেঙ্গানা ভ্রমণে কালেশ্বরম স্বাভাবিকভাবেই ওয়ারাঙ্গল ও পালামপেটের কাকতীয় মন্দিরগুলির সঙ্গে যুক্ত হয়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure; Shivaratri, Karthika and the Pushkaralu years bring heavy crowds. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected; footwear is removed before entering. Many pilgrims bathe at the confluence first — take care at the river, especially in the monsoon.",
-    "photography": "Photography is not permitted in the sanctum; follow the posted rules and the priests' guidance elsewhere.",
-    "gettingThere": "Kaleshwaram is in Jayashankar Bhupalpally district, about 60 km from Manthani, 125 km from Karimnagar and 277 km by road from Hyderabad, whose airport is the nearest; buses run from Karimnagar, Manthani and Bhupalpally."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন এবং দুপুরে বন্ধসহ খোলা; শিবরাত্রি, কার্তিক ও পুষ্করালু বছরগুলিতে প্রচণ্ড ভিড় হয়। যাওয়ার আগে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত; প্রবেশের আগে জুতো খুলে রাখতে হয়। বহু তীর্থযাত্রী প্রথমে সঙ্গমে স্নান করেন — নদীতে সাবধান থাকুন, বিশেষত বর্ষায়।",
+    "photography": "গর্ভগৃহে ছবি তোলা অনুমোদিত নয়; অন্যত্র প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "কালেশ্বরম জয়শঙ্কর ভূপালপল্লী জেলায়, মন্থনী থেকে প্রায় ৬০ কিমি, করিমনগর থেকে ১২৫ কিমি এবং হায়দ্রাবাদ থেকে সড়কপথে ২৭৭ কিমি, যার বিমানবন্দর নিকটতম; করিমনগর, মন্থনী ও ভূপালপল্লী থেকে বাস চলে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kaleshwara-mukteswara-kaleshwaram.jpg",
