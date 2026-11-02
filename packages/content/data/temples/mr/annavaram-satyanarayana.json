@@ -1,28 +1,35 @@
 {
   "id": "annavaram-satyanarayana",
   "locale": "mr",
+  "name": "श्री वीर वेंकट सत्यनारायण स्वामी मंदिर, अन्नवरम",
   "nativeName": "శ్రీ వీర వేంకట సత్యనారాయణ స్వామి ఆలయం, అన్నవరం",
+  "deity": "रत्नगिरी टेकडीवर अनंतलक्ष्मीसह श्री सत्यनारायण स्वामीच्या रूपातील विष्णू",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Annavaram",
-    "state": "Andhra Pradesh",
+    "city": "अन्नवरम",
+    "state": "आंध्र प्रदेश",
     "lat": 17.2833,
     "lng": 82.4083
   },
+  "period": "पंपा नदीकाठी वसलेले सत्यनारायणाचे टेकडीवरील देवस्थान, जे विशेषतः सत्यनारायण व्रतासाठी प्रसिद्ध आहे",
   "century": 19,
+  "dynasty": "स्थानिक राजाश्रय; सध्याचे मंदिर आधुनिक काळात उभारले गेले",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [],
+  "summary": "पंपा नदीवरील रत्नगिरी टेकडीवर विष्णूची अनंतलक्ष्मीसह सत्यनारायण म्हणून पूजा केली जाते — हे सत्यनारायण व्रताचे महान स्थान आहे, असंख्य तेलुगू घरांमध्ये पाळले जाणारे सत्याचे व्रत.",
   "sections": {
-    "history": "Annavaram crowns the Ratnagiri hill by the Pampa river in the Godavari country of Andhra Pradesh. Here Vishnu is worshipped as Sri Veera Venkata Satyanarayana, the lord of truth, with his consort Anantalakshmi; it is among the most visited temples of coastal Andhra, sought above all by families keeping the Satyanarayana Vratam.",
-    "architecture": "The temple stands atop the hill in the Dravidian manner, its main shrine laid out as a cosmic diagram — a two-tiered structure with the presiding deity above and the Yantra of worship below, echoing the form of a great mandala. The hill is reached by road and by steps, with the Pampa winding below.",
-    "legends": "Satyanarayana is the form of Vishnu whose story is read at the Vratam — the vow by which a family, rich or poor, honours the lord of truth with a simple offering and the reading of his tale. The temple is held to grant the fruit of this vow, and pilgrims come to perform it before the god himself.",
-    "festivals": "Every day sees families performing the Satyanarayana Vratam, and full-moon days and Kalyanotsavam draw the greatest crowds. The god's own wedding festival and the Prabhala and hill festivals fill the year.",
-    "experience": "Annavaram is a temple of the household vow made pilgrimage — to climb the Ratnagiri and keep the Satyanarayana Vratam before the lord is, for many Telugu families, a once-in-a-lifetime fulfilment."
+    "history": "आंध्र प्रदेशातील गोदावरी प्रदेशात पंपा नदीकाठी असलेल्या रत्नगिरी टेकडीच्या माथ्यावर अन्नवरम वसलेले आहे. येथे विष्णूची श्री वीर वेंकट सत्यनारायण म्हणजे सत्याचा स्वामी या रूपात, त्यांची पत्नी अनंतलक्ष्मीसह पूजा केली जाते; किनारी आंध्रातील सर्वाधिक दर्शन घेतल्या जाणाऱ्या मंदिरांपैकी हे एक असून, विशेषतः सत्यनारायण व्रत पाळणाऱ्या कुटुंबांना याचे मोठे आकर्षण आहे.",
+    "architecture": "मंदिर द्रविड पद्धतीने टेकडीच्या माथ्यावर उभे असून, त्याचे मुख्य गर्भगृह एका विश्वचित्राप्रमाणे — दुमजली रचनेत — मांडलेले आहे, वरच्या मजल्यावर मुख्य देवता आणि खालच्या मजल्यावर पूजेचे यंत्र, जे एका महान मंडलाच्या रूपाची आठवण करून देते. टेकडीवर रस्त्याने व पायऱ्यांनी पोहोचता येते, आणि खाली पंपा नदी वळणे घेत वाहते.",
+    "legends": "सत्यनारायण हे विष्णूचे ते रूप आहे ज्याची कथा व्रतप्रसंगी वाचली जाते — हे ते व्रत आहे ज्याद्वारे गरीब असो वा श्रीमंत कोणतेही कुटुंब, साध्या नैवेद्याने आणि कथेच्या वाचनाने सत्याच्या स्वामीचा सन्मान करते. हे मंदिर या व्रताचे फळ देणारे मानले जाते, आणि भाविक स्वतः देवासमोर ते व्रत करण्यासाठी येतात.",
+    "festivals": "दररोज कुटुंबे सत्यनारायण व्रत करताना दिसतात, आणि पौर्णिमेचे दिवस व कल्याणोत्सव सर्वाधिक गर्दी खेचतात. देवाचा स्वतःचा विवाहोत्सव आणि प्रभला व टेकडीवरील उत्सव वर्षभर भरत असतात.",
+    "experience": "अन्नवरम हे घरगुती व्रताचे तीर्थयात्रेत रूपांतर झालेले मंदिर आहे — रत्नगिरीवर चढून देवासमोर सत्यनारायण व्रत पाळणे हे अनेक तेलुगू कुटुंबांसाठी आयुष्यातून एकदाच घडणारी पूर्णता असते."
   },
   "visit": {
-    "timings": "Open daily from early morning to night with darshan and Vratam sessions; full-moon days and Kalyanotsavam are busiest, and the Vratam is best booked ahead. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Annavaram lies in Kakinada district of Andhra Pradesh, on the Chennai–Howrah route; it has its own railway station, and the hilltop is reached by road and by steps."
+    "timings": "दररोज पहाटेपासून रात्रीपर्यंत दर्शन व व्रताच्या सत्रांसह उघडे असते; पौर्णिमेचे दिवस व कल्याणोत्सव सर्वाधिक गर्दीचे असतात, आणि व्रत आधी नोंदवून ठेवणे उत्तम. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "अन्नवरम आंध्र प्रदेशातील काकिनाडा जिल्ह्यात, चेन्नई–हावडा मार्गावर आहे; त्याचे स्वतःचे रेल्वे स्थानक असून टेकडीच्या माथ्यावर रस्त्याने व पायऱ्यांनी पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/annavaram-satyanarayana.jpg",

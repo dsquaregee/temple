@@ -1,30 +1,37 @@
 {
   "id": "hemakuta-hampi",
   "locale": "mr",
+  "name": "हेमकूट टेकडीवरील मंदिरे, हंपी",
   "nativeName": "ಹೇಮಕೂಟ ಬೆಟ್ಟದ ದೇವಾಲಯಗಳು, ಹಂಪೆ",
+  "deity": "लहान गर्भगृहांच्या समूहात लिंगरूपात प्रतिष्ठित शिव, ज्यांत मूल विरूपाक्ष गर्भगृहाचाही समावेश आहे",
+  "tradition": "शैव परंपरा",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "हंपी",
+    "state": "कर्नाटक",
     "lat": 15.3343,
     "lng": 76.4585
   },
+  "period": "सुमारे ९व्या–१४व्या शतकातील गर्भगृहे, ज्यांतील अनेक विजयनगर साम्राज्याहून प्राचीन आहेत; एक संरक्षित स्मारक-समूह",
   "century": 9,
+  "dynasty": "विजयनगरपूर्व आणि आरंभीचे विजयनगर",
+  "style": "पायऱ्यांच्या शिखरांसह आरंभीची दख्खनी ग्रॅनाइट गर्भगृहे, त्रिकूट (तीन गर्भगृहांची) मंदिरांसह",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "विरूपाक्ष मंदिराच्या वरच्या ग्रॅनाइट टेकडीवर विजयनगर साम्राज्याहूनही प्राचीन अशी डझनावारी लहान, साधी गर्भगृहे देवी पंपेशी विवाहापूर्वी शिवाने केलेल्या तपश्चर्येची स्मृती जपतात — हंपीची सर्वांत प्राचीन पवित्र भूमी.",
   "sections": {
-    "history": "Long before Hampi became an imperial capital, the low hill rising south of the Virupaksha temple was already holy ground. Many of the shrines on Hemakuta are dated to roughly the 9th to 14th centuries, before the founding of Vijayanagara in the 14th century; the earliest, with their stepped pyramidal roofs, are placed around the 9th–10th century. Others belong to the first phase of the new empire, when its founders were still building at this sacred heart. In older times the hill was enclosed by stone walls, and gateways and pavilions were added across it over the centuries. When the great city fell in 1565 these modest shrines survived largely intact, and today they form part of the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
-    "architecture": "Hemakuta is a gallery of the architecture that came before Vijayanagara. Its shrines are small and austere, built of granite blocks with roofs that rise in stepped, pyramidal tiers — so unlike the later towered style that visitors have often mistaken them for Jain temples. On the northern side stand trikuta temples, in which three shrines open at right angles onto a shared central hall, dedicated to Shiva. On the southern part of the hill is the Mula Virupaksha shrine, whose front hall has the plain, cubical pillars of the pre-Vijayanagara period. Down the slopes stand two colossal monolithic Ganeshas, Sasivekalu and Kadalekalu, each in its own pillared shrine.",
-    "legends": "Hemakuta is where Hampi's sacred story begins. The goddess Pampa, a local river-deity later identified with Parvati, longed to wed Shiva, who sat here in deep penance. To help her, Kama, the god of love, loosed his arrows and broke the god's meditation; in anger Shiva opened his third eye and burned him to ashes. Moved by the pleas of Kama's wife Rati, Shiva later restored him, though without a body. When Shiva at last agreed to marry Pampa, the sthala purana tells, gold rained down upon the hill — and so it was called Hemakuta, the golden peak.",
-    "festivals": "The Hemakuta shrines are protected monuments without regular worship. The divine marriage of Shiva and Pampa that the hill's legend anticipates is celebrated each year at the Virupaksha temple just below, together with its car festival and Maha Shivaratri. The annual Hampi Utsav also brings music and dance to the site; confirm dates locally.",
-    "experience": "Climb up from beside the Virupaksha temple onto the smooth granite and wander among the shrines at your own pace; there is no fixed route. The hill is Hampi's favourite place to watch the sun go down, when the great gopuram of Virupaksha below catches the last light and the boulder hills turn copper. On the way down, pause before the two giant Ganeshas on the slopes."
+    "history": "हंपी साम्राज्याची राजधानी होण्याच्या फार आधीपासून, विरूपाक्ष मंदिराच्या दक्षिणेस उठणारी ही सखल टेकडी पवित्र भूमी होती. हेमकूटावरील अनेक गर्भगृहे साधारण ९व्या ते १४व्या शतकातील मानली जातात, म्हणजे १४व्या शतकात विजयनगराच्या स्थापनेच्या आधीची; पायऱ्यांच्या शिखरांसह असलेली सर्वांत प्राचीन गर्भगृहे सुमारे ९व्या–१०व्या शतकातील मानली जातात. इतर काही नव्या साम्राज्याच्या पहिल्या टप्प्यातील आहेत, जेव्हा त्याचे संस्थापक याच पवित्र केंद्रात बांधकाम करत होते. प्राचीन काळी टेकडी दगडी भिंतींनी वेढलेली होती, आणि शतकानुशतके तिच्यावर प्रवेशद्वारे व मंडप जोडले गेले. १५६५ मध्ये या महानगराच्या पतनाच्या वेळी ही साधी गर्भगृहे बहुतांशी अबाधित राहिली, आणि आज ती १९८६ पासून युनेस्को जागतिक वारसा स्थळ असलेल्या हंपीच्या स्मारक-समूहाचा भाग आहेत.",
+    "architecture": "हेमकूट म्हणजे विजयनगरपूर्व काळातील वास्तुकलेची एक दालनमाला आहे. येथील गर्भगृहे लहान आणि साधी आहेत, ग्रॅनाइटच्या ठोकळ्यांनी बांधलेली, ज्यांची शिखरे पायऱ्यांच्या पिरॅमिडप्रमाणे वर उठतात — नंतरच्या मनोरायुक्त शैलीहून इतकी भिन्न की दर्शकांनी त्यांना अनेकदा जैन मंदिरे समजले आहे. उत्तरेकडे त्रिकूट मंदिरे आहेत, ज्यांत तीन गर्भगृहे काटकोनात एका समाईक मध्यवर्ती सभामंडपाकडे उघडतात, आणि ती शिवाला समर्पित आहेत. टेकडीच्या दक्षिण भागात मूल विरूपाक्ष गर्भगृह आहे, ज्याच्या अग्रमंडपात विजयनगरपूर्व काळातील साधे, घनाकृती स्तंभ आहेत. उतारांवर ससिवेकालु आणि कडलेकालु नावाचे दोन विशाल एकसंध गणेश प्रत्येकाच्या स्वतःच्या स्तंभयुक्त गर्भगृहात विराजमान आहेत.",
+    "legends": "हंपीची पवित्र कथा हेमकूटापासूनच सुरू होते. स्थानिक नदी-देवी पंपा, जिला पुढे पार्वती म्हणून ओळखले गेले, तिला येथे गहन तपश्चर्येत बसलेल्या शिवाशी विवाह करण्याची इच्छा होती. तिच्या साहाय्यासाठी प्रेमाचा देव कामदेव याने बाण सोडून शिवाचे ध्यान भंग केले; क्रोधाने शिवाने तिसरा नेत्र उघडून त्याला भस्म केले. कामदेवाची पत्नी रती हिच्या विनवणीने द्रवून शिवाने पुढे त्याला पुनरुज्जीवित केले, परंतु देहविरहित. अखेरीस जेव्हा शिव पंपेशी विवाहास तयार झाले, तेव्हा स्थलपुराणानुसार टेकडीवर सुवर्णाचा वर्षाव झाला — आणि म्हणून तिचे नाव हेमकूट, म्हणजे सुवर्णशिखर पडले.",
+    "festivals": "हेमकूटावरील गर्भगृहे नियमित पूजेविना असलेली संरक्षित स्मारके आहेत. टेकडीची कथा जो शिव-पंपा दिव्य विवाह सूचित करते, तो दरवर्षी खालच्या विरूपाक्ष मंदिरात त्याच्या रथोत्सवासह आणि महाशिवरात्रीसह साजरा होतो. वार्षिक हंपी उत्सवही या स्थळी संगीत व नृत्य आणतो; तारखा स्थानिक पातळीवर निश्चित करून घ्या.",
+    "experience": "विरूपाक्ष मंदिराच्या बाजूने गुळगुळीत ग्रॅनाइटवर चढा आणि आपल्या गतीने गर्भगृहांमध्ये फिरा; कोणताही ठरावीक मार्ग नाही. सूर्यास्त पाहण्यासाठी ही टेकडी हंपीतील सर्वांत आवडते ठिकाण आहे, जेव्हा खालचे विरूपाक्षाचे विशाल गोपुर शेवटचा प्रकाश झेलते आणि शिळांनी भरलेल्या टेकड्या तांब्यासारख्या होतात. उतरताना उतारांवरील दोन विशाल गणेशांसमोर काही क्षण थांबा."
   },
   "visit": {
-    "timings": "An open hillside of protected monuments cared for by the Archaeological Survey of India, generally accessible during daylight hours; confirm access locally.",
-    "dressCode": "Modest dress is appreciated at this sacred site; wear sturdy footwear with good grip for the bare rock, and carry water and sun protection.",
-    "photography": "Photography is generally allowed; tripods, drones or professional shoots need permission from the site authorities.",
-    "gettingThere": "Hemakuta hill rises immediately south of the Virupaksha temple and Hampi Bazaar, with paths up from beside the temple and from the Krishna temple road. Hampi lies in Vijayanagara district, Karnataka; Hosapete (Hospet), about 13 km away, has the nearest railway station, and Bengaluru is roughly 340 km by road."
+    "timings": "भारतीय पुरातत्व सर्वेक्षणाच्या देखरेखीखालील संरक्षित स्मारकांनी भरलेली खुली टेकडी, साधारणतः दिवसाउजेडी प्रवेशयोग्य; प्रवेशाबाबत स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "या पवित्र स्थळी साधा पेहराव योग्य मानला जातो; उघड्या खडकावर चांगली पकड असलेले मजबूत पादत्राणे घाला, आणि पाणी व उन्हापासून संरक्षण सोबत ठेवा.",
+    "photography": "छायाचित्रण सामान्यतः अनुमत आहे; ट्रायपॉड, ड्रोन किंवा व्यावसायिक चित्रीकरणासाठी स्थळ-प्राधिकरणाची परवानगी आवश्यक आहे.",
+    "gettingThere": "हेमकूट टेकडी विरूपाक्ष मंदिर व हंपी बाजाराच्या अगदी दक्षिणेस उठते; मंदिराच्या बाजूने आणि कृष्ण मंदिराच्या रस्त्यावरून वर जाण्याचे मार्ग आहेत. हंपी कर्नाटकातील विजयनगर जिल्ह्यात आहे; सुमारे १३ किमी अंतरावरील होसपेट (होसपेटे) येथे जवळचे रेल्वे स्थानक आहे, आणि बेंगळुरू रस्त्याने सुमारे ३४० किमी आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/hemakuta-hampi.jpg",

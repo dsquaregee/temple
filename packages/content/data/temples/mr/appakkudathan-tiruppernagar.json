@@ -1,31 +1,38 @@
 {
   "id": "appakkudathan-tiruppernagar",
   "locale": "mr",
+  "name": "अप्पक्कुडत्तान पेरुमाळ मंदिर, कोविलडी",
   "nativeName": "அப்பக்குடத்தான் பெருமாள் கோயில், கோவிலடி",
+  "deity": "अप्पल रंगनाथ (अप्पक्कुडत्तान) रूपातील विष्णू, आडवे पहुडलेले व अप्पमचे भांडे धरलेले, देवी कमलावल्लीसह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Koviladi",
-    "state": "Tamil Nadu",
+    "city": "कोविलडी",
+    "state": "तमिळनाडू",
     "lat": 10.859,
     "lng": 78.876
   },
+  "period": "चोलकालीन प्राचीनतेचे एक दिव्यदेशम, आळवारांनी नालायिर दिव्य प्रबंधममध्ये गायलेले",
   "century": 8,
+  "dynasty": "चोल",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "pancharanga-kshetrams",
     "divya-desams"
   ],
+  "summary": "श्रीरंगमच्या खालच्या बाजूला कावेरीवर कोविलडी येथे विष्णू अप्पक्कुडत्तान — अप्पमचे भांडे धरणारा स्वामी — म्हणून आडवे पहुडलेले आहेत; हे आळवारांनी गायलेले दिव्यदेशम असून, जिथे दररोज रात्री स्वामीला गोड अप्पमचा नैवेद्य दाखवला जातो असे एकमेव देवस्थान. नदीवरील पाच रंगनाथ देवस्थानांपैकी हे एक आहे.",
   "sections": {
-    "history": "The temple stands at Koviladi — Tiruppernagar of the old Chola country — on the bank of the Kaveri a short way below Srirangam, whose great temple the Vaishnavas call simply the Kovil; the name Koviladi marks the village that lies downstream of it. Dedicated to Vishnu as Appakkudathaan, it is a Divya Desam, one of the 108 abodes sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the five Pancharanga Kshetrams strung along the river. Its stone shrines are of Chola antiquity, carried forward by the patrons of the later centuries.",
-    "architecture": "Built in the Dravidian manner, the temple opens through a gateway tower to the sanctum of the reclining lord, worshipped here as Appala Ranganatha, with the Goddess Kamalavalli in her own shrine. The presiding image is shown holding a pot of appam, the sweet that gives the lord his name of Appakkudathaan — a form found at no other Divya Desam — and the pillared halls before the sanctum carry the marks of the temple's long Chola descent.",
-    "legends": "The temple's story tells of a king — remembered as Upamanyu — who, hunting, killed a brahmin by mistake and, stricken with grief, renounced his throne and wandered until he reached Tiruppernagar. There an old man begged of him a pot of neyyappam, saying only that could satisfy his hunger; the king filled the pot, and the old man revealed himself as Vishnu. From that day the lord is called Appakkudathaan, he of the pot of appam, and to this day sweet appam is offered to him each night — an offering unique among the Divya Desams.",
-    "festivals": "The temple keeps the Vaishnava festivals of the year — Vaikunta Ekadashi, the Brahmotsavam, and the days sacred to the Alvars whose hymns first sang this shrine — with processions along the river village. The nightly offering of appam is itself a daily rite that pilgrims come to witness, and the car festival draws the surrounding delta country.",
-    "experience": "Koviladi is a quiet river shrine within easy reach of Srirangam and Tiruchirappalli, rewarding for the pilgrim who follows the Kaveri from one Ranganatha to the next. Its nightly pot of appam and its place among both the Divya Desams and the five Rangas make it a small but singular link in the long chain of the reclining lord."
+    "history": "हे मंदिर कोविलडी — जुन्या चोल प्रदेशातील तिरुप्पेर्नगर — येथे, श्रीरंगमच्या थोड्या खालच्या बाजूला कावेरीच्या तीरावर उभे आहे; श्रीरंगमच्या महान मंदिराला वैष्णव केवळ 'कोविल' असे म्हणतात, आणि कोविलडी हे नाव त्याच्या खालच्या प्रवाहात वसलेल्या गावाला दर्शवते. अप्पक्कुडत्तान रूपातील विष्णूला समर्पित हे एक दिव्यदेशम आहे — आळवार संतांनी नालायिर दिव्य प्रबंधममध्ये गायलेल्या १०८ निवासांपैकी एक, आणि नदीकाठी गुंफलेल्या पाच पंचरंग क्षेत्रांपैकी एक. त्याची दगडी देवस्थाने चोलकालीन प्राचीन असून, पुढील शतकांतील राजाश्रयदात्यांनी ती पुढे नेली.",
+    "architecture": "द्रविड पद्धतीने बांधलेले हे मंदिर एका प्रवेशगोपुरातून पहुडलेल्या स्वामीच्या — येथे अप्पल रंगनाथ म्हणून पूजल्या जाणाऱ्या — गर्भगृहाकडे उघडते, आणि देवी कमलावल्ली तिच्या स्वतःच्या देवस्थानात आहे. मुख्य मूर्ती अप्पमचे भांडे धरलेली दाखवली जाते, जो गोड पदार्थ स्वामीला अप्पक्कुडत्तान हे नाव देतो — हे रूप अन्य कोणत्याही दिव्यदेशमात आढळत नाही — आणि गर्भगृहासमोरील स्तंभयुक्त मंडप मंदिराच्या दीर्घ चोल वारशाच्या खुणा वागवतात.",
+    "legends": "मंदिराची कथा एका राजाची — ज्याला उपमन्यू म्हणून स्मरतात — सांगते, जो शिकारीत चुकून एका ब्राह्मणाचा वध करतो आणि दुःखाने व्याकूळ होऊन सिंहासनाचा त्याग करून भटकत तिरुप्पेर्नगरला पोहोचतो. तेथे एका वृद्धाने त्याच्याकडे नेय्याप्पमचे भांडे मागितले, एवढेच सांगून की तेच त्याची भूक भागवू शकेल; राजाने भांडे भरले, आणि त्या वृद्धाने स्वतःला विष्णू म्हणून प्रकट केले. त्या दिवसापासून स्वामीला अप्पक्कुडत्तान — अप्पमचे भांडे धारण करणारा — असे म्हणतात, आणि आजही दररोज रात्री त्याला गोड अप्पमचा नैवेद्य दाखवला जातो — दिव्यदेशमांमध्ये हा नैवेद्य अनन्य आहे.",
+    "festivals": "मंदिर वर्षातील वैष्णव उत्सव पाळते — वैकुंठ एकादशी, ब्रह्मोत्सव, आणि ज्या आळवारांच्या स्तोत्रांनी हे देवस्थान प्रथम गायले त्यांचे पवित्र दिवस — नदीकाठच्या गावातून मिरवणुकांसह. अप्पमचा रात्रीचा नैवेद्य हा स्वतः एक दैनंदिन विधी आहे जो पाहण्यासाठी भाविक येतात, आणि रथोत्सव आसपासच्या त्रिभुज प्रदेशातील लोकांना खेचतो.",
+    "experience": "कोविलडी हे श्रीरंगम व तिरुचिरापल्लीच्या सहज आवाक्यातील एक शांत नदीकाठचे देवस्थान आहे, जे एका रंगनाथाकडून दुसऱ्याकडे कावेरीचा मागोवा घेणाऱ्या भाविकाला समाधान देते. त्याचा रात्रीचा अप्पमचा घडा आणि दिव्यदेशम व पाच रंग या दोन्हींत त्याचे स्थान, त्याला पहुडलेल्या स्वामीच्या लांब शृंखलेतील एक लहान पण अद्वितीय दुवा बनवते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the nightly appam offering and Vaikunta Ekadashi are especially sought. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Koviladi lies on the Kaveri about 16 km from Tiruchirappalli on the road toward Thanjavur, easily reached by road from Srirangam."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शन सत्रांसह आणि मध्यान्ही बंदीसह उघडे असते; अप्पमचा रात्रीचा नैवेद्य व वैकुंठ एकादशी विशेष मागणीचे आहेत. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "कोविलडी तिरुचिरापल्लीपासून तंजावूरच्या दिशेने कावेरीवर सुमारे १६ किमी अंतरावर आहे, श्रीरंगमहून रस्त्याने सहज पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.jpg",

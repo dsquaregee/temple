@@ -1,29 +1,36 @@
 {
   "id": "araneriyappar-tiruvarur-araneri",
   "locale": "bn",
+  "name": "আরনেরিয়প্পর (অচলেশ্বরর) মন্দির, তিরুবারুর আরনেরি",
   "nativeName": "திருவாரூர் அரநெறி அச்சலேஸ்வரர் கோயில்",
+  "deity": "দেবী বণ্ডারকুঝলীর সঙ্গে আরনেরিয়প্পর (অচলেশ্বরর) রূপে শিব",
+  "tradition": "শৈব — এক পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruvarur Araneri",
-    "state": "Tamil Nadu",
+    "city": "তিরুবারুর আরনেরি",
+    "state": "তামিলনাড়ু",
     "lat": 10.772,
     "lng": 79.636
   },
+  "period": "তেবারম যুগ (৭ম শতকে স্তুত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারুরের মহান ত্যাগরাজ মন্দিরের ভিতরে, তার দক্ষিণ-পূর্ব কোণে, আরনেরি মন্দিরটি দাঁড়িয়ে আছে, যেখানে শিবকে দেবী বণ্ডারকুঝলীর সঙ্গে আরনেরিয়প্পর — অচলেশ্বরর — রূপে সম্মান জানানো হয়। আপ্পরের দ্বারা স্তুত এক পাডল পেট্র স্থলম, এটি নমিনন্দি অডিগলের কাহিনি রক্ষা করে, যিনি জল দিয়ে মন্দিরের প্রদীপ জ্বালিয়েছিলেন।",
   "sections": {
-    "history": "The Araneri Achaleswarar shrine stands within the great Thyagaraja temple complex at Tiruvarur, in the Agni (south-eastern) quarter of the complex, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Appar (Tirunavukkarasar), counted among the Shiva shrines on the southern bank of the Kaveri. The place is known as Arur Araneri; the stone shrine is of the Chola period and later.",
-    "architecture": "A Dravidian shrine set within the Tiruvarur temple complex, it enshrines Araneriyappar — Achaleswarar — in its sanctum, with the goddess Vandarkuzhali (Achaleswari) in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the pathiri, and the temple tank is the Sangu Theertham. The shrine keeps the form of the older Shiva sannidhis of the great Tiruvarur temple.",
-    "legends": "The shrine is bound to Naminandi Adigal, one of the sixty-three Nayanmars: when the lamps of the temple went out for lack of oil, he prayed, and by the lord's grace lit them with water drawn from the temple tank — a sign that devotion, not substance, kindles the lamp. Shiva is worshipped here as Araneriyappar, the lord of the righteous path (aram), and as Achaleswarar, the unmoving lord, with Vandarkuzhali beside him.",
-    "festivals": "The shrine observes Tiruvadhirai in Margazhi (December–January), Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Devotees come to pray for the removal of obstacles in marriage and for the boon of a child.",
-    "experience": "At the Araneri shrine the pilgrim steps aside from the great halls of Tiruvarur into a quieter sanctum. Before Araneriyappar and Vandarkuzhali, by the Sangu Theertham, the visitor finds the grace of a Tevaram shrine within the temple of Tyagaraja, and the memory of the lamp that devotion lit with water."
+    "history": "আরনেরি অচলেশ্বরর মন্দিরটি তিরুবারুর জেলার তিরুবারুরে মহান ত্যাগরাজ মন্দির চত্বরের ভিতরে, চত্বরের অগ্নি (দক্ষিণ-পূর্ব) কোণে দাঁড়িয়ে আছে। এটি এক পাডল পেট্র স্থলম, আপ্পর (তিরুনাবুক্করসর) কর্তৃক তেবারমে স্তুত, কাবেরীর দক্ষিণ তীরের শিব মন্দিরগুলির মধ্যে গণ্য। স্থানটি আরুর আরনেরি নামে পরিচিত; পাথরের মন্দিরটি চোল যুগের ও পরবর্তীকালের।",
+    "architecture": "তিরুবারুর মন্দির চত্বরের ভিতরে স্থাপিত এক দ্রাবিড় মন্দির, এটি তার গর্ভগৃহে আরনেরিয়প্পর — অচলেশ্বরর — কে প্রতিষ্ঠিত করে, দেবী বণ্ডারকুঝলী (অচলেশ্বরী) তাঁর নিজস্ব মন্দিরে, এক নন্দী ও পরিবার দেবতাদের সঙ্গে। স্থল বৃক্ষম হল পাতিরি, এবং মন্দিরের তীর্থ হল শঙ্খ তীর্থম। মন্দিরটি মহান তিরুবারুর মন্দিরের প্রাচীনতর শিব সন্নিধিগুলির রূপ ধরে রাখে।",
+    "legends": "মন্দিরটি নমিনন্দি অডিগলের সঙ্গে আবদ্ধ, তেষট্টি নায়নমারের একজন: যখন তেল না থাকায় মন্দিরের প্রদীপ নিভে গেল, তিনি প্রার্থনা করলেন, এবং প্রভুর কৃপায় মন্দিরের তীর্থ থেকে তোলা জল দিয়ে প্রদীপ জ্বালালেন — এই চিহ্ন যে ভক্তিই, উপাদান নয়, প্রদীপ জ্বালায়। শিবকে এখানে আরনেরিয়প্পর রূপে পূজা করা হয়, ধর্মপথের (অরম) প্রভু, এবং অচলেশ্বরর রূপে, অচল প্রভু, বণ্ডারকুঝলী তাঁর পাশে।",
+    "festivals": "মন্দিরটি মার্গঝিতে (ডিসেম্বর–জানুয়ারি) তিরুবাদিরৈ, মাসিতে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি পালন করে, প্রদোষ পূজা সহ। ভক্তরা বিবাহের বাধা দূর ও সন্তানলাভের বরের জন্য প্রার্থনা করতে আসেন।",
+    "experience": "আরনেরি মন্দিরে তীর্থযাত্রী তিরুবারুরের মহান শালা থেকে সরে এসে এক শান্ত গর্ভগৃহে প্রবেশ করেন। শঙ্খ তীর্থমের ধারে আরনেরিয়প্পর ও বণ্ডারকুঝলীর সামনে দর্শনার্থী ত্যাগরাজের মন্দিরের ভিতরে এক তেবারম মন্দিরের কৃপা পান, এবং ভক্তি যে প্রদীপ জল দিয়ে জ্বালিয়েছিল তার স্মৃতি।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "The Araneri shrine is within the Thyagaraja temple complex at the heart of Tiruvarur town, in Tiruvarur district. Tiruvarur is the nearest rail head, well connected by road, with the temple a short walk from the town centre."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং পুনরায় অপরাহ্ন শেষ থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশদ্বারে পাদুকা রেখে যেতে হয়।",
+    "photography": "বহিঃকরিডোরে সাধারণত ফটোগ্রাফির অনুমতি থাকলেও গর্ভগৃহের ভিতরে নয়; আচারের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "আরনেরি মন্দিরটি তিরুবারুর জেলার তিরুবারুর শহরের কেন্দ্রস্থলে ত্যাগরাজ মন্দির চত্বরের ভিতরে। তিরুবারুর নিকটতম রেলস্টেশন, সড়কপথে ভালোভাবে সংযুক্ত, মন্দিরটি শহরের কেন্দ্র থেকে অল্প হাঁটাপথ।"
   }
 }

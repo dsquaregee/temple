@@ -1,30 +1,37 @@
 {
   "id": "suchindram-thanumalayan",
   "locale": "bn",
+  "name": "তাণুমালয়ন মন্দির, সুচীন্দ্রম",
   "nativeName": "தாணுமாலயன் கோயில், சுசீந்திரம்",
+  "deity": "ত্রিমূর্তি স্থানুমালয়ন রূপে — শিব, বিষ্ণু ও ব্রহ্মা একটিমাত্র লিঙ্গে একত্রে পূজিত",
+  "tradition": "স্মার্ত ধর্ম (ত্রিমূর্তি)",
   "location": {
-    "city": "Suchindram",
-    "state": "Tamil Nadu",
+    "city": "সুচীন্দ্রম",
+    "state": "তামিলনাড়ু",
     "lat": 8.1499,
     "lng": 77.4676
   },
+  "period": "প্রাচীন উৎপত্তি; বিশাল গোপুরম, মণ্ডপ ও সঙ্গীতস্তম্ভগুলি নায়ক আমলে বিস্তারিত",
   "century": 17,
+  "dynasty": "প্রাচীন উৎপত্তি; চোল, বিজয়নগর ও নায়ক বিস্তার",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "temples-of-the-deep-south"
   ],
+  "summary": "ভারতের দক্ষিণতম প্রান্তের কাছে সুচীন্দ্রমে এক বিরল মহিমা প্রতিষ্ঠিত — তিন মহাদেব শিব, বিষ্ণু ও ব্রহ্মা স্থানুমালয়ন রূপে একটিমাত্র লিঙ্গে একত্রে পূজিত — একটি মন্দির যা তার সুউচ্চ গোপুরম, সঙ্গীতমুখর প্রস্তরস্তম্ভ এবং হনুমানের এক বিরাট মূর্তির জন্য বিখ্যাত।",
   "sections": {
-    "history": "The Thanumalayan temple at Suchindram, in the far south of Tamil Nadu near Nagercoil, is one of the region's great shrines. Its worship is ancient, and the temple as it stands was raised over long centuries — with Chola and Vijayanagara foundations and its most celebrated structures, the great gateway tower and the sculptured halls, elaborated under the Nayaks. Long administered from Travancore, the temple sits amid the paddy country of the deep south. Its very name reflects its unique character: Sthanu (Shiva), Mal (Vishnu) and Ayan (Brahma) united in one — Sthanumalayan.",
-    "architecture": "The temple is entered beneath a soaring white gateway tower, a landmark of the southern plain, and opens into a sequence of pillared halls worked in the mature Dravidian manner. Its most famous feature is the set of musical pillars, slender colonnettes carved from single blocks of stone that ring with musical notes when struck — among the most celebrated of their kind. The alankara mandapa carries some of the finest sculpture in the south, and a great image of Hanuman, carved from a single stone and standing some six metres tall, is a focus of devotion. At the heart of it all is the sanctum of the lingam worshipped as the three gods in one.",
-    "legends": "The name Suchindram is traditionally explained as the place where Indra, king of the gods, was purified — suchi meaning pure — of a curse, and by tradition Indra is said to worship here in the night. The temple's central mystery is its enshrinement of the Trimurti in one form: Shiva, Vishnu and Brahma, the powers of creation, preservation and dissolution, honoured together in a single lingam as Sthanumalayan, a rare theological vision made stone. Around this the temple gathers the legends of the south, of the goddess and of the gods who share the one sanctum.",
-    "festivals": "The temple's calendar is rich with festivals, chief among them the car festival, when the great temple car is drawn through Suchindram, and the Margazhi and Navaratri observances. Music has a special place here, fitting for the temple of the singing pillars, and festival nights fill the pillared halls with lamps and crowds. The teppam, or float festival, is held on the temple tank.",
-    "experience": "Suchindram rewards the unhurried visitor: the ring of the musical pillars, the sculpture of the halls, the towering white gopuram and the giant Hanuman give the temple a character all its own, and its unique Trimurti sanctum sets it apart among the shrines of the south. It lies a short journey from Nagercoil and from Kanyakumari at the land's end, with which it is naturally joined into a pilgrimage of the deep south."
+    "history": "নাগরকোইলের কাছে তামিলনাড়ুর সুদূর দক্ষিণে সুচীন্দ্রমের তাণুমালয়ন মন্দির এই অঞ্চলের অন্যতম মহান তীর্থ। এর পূজা প্রাচীন, এবং বর্তমান মন্দিরটি দীর্ঘ শতাব্দী ধরে গড়ে উঠেছে — চোল ও বিজয়নগর ভিত্তির উপরে, আর এর সবচেয়ে প্রসিদ্ধ অংশ, বিশাল গোপুর ও ভাস্কর্যখচিত মণ্ডপগুলি নায়ক আমলে বিস্তারিত হয়। দীর্ঘকাল ত্রাবাঙ্কুর থেকে পরিচালিত এই মন্দিরটি সুদূর দক্ষিণের ধানভূমির মাঝে অবস্থিত। এর নামই এর অনন্য চরিত্র প্রকাশ করে: স্থানু (শিব), মাল (বিষ্ণু) ও অয়ন (ব্রহ্মা) একত্রে মিলিত — স্থানুমালয়ন।",
+    "architecture": "মন্দিরে প্রবেশ করতে হয় এক সুউচ্চ শ্বেত গোপুরের নিচ দিয়ে, যা দক্ষিণ সমতলের এক দিকচিহ্ন, এবং তা খুলে যায় পরিণত দ্রাবিড় রীতিতে নির্মিত স্তম্ভশোভিত মণ্ডপের ধারায়। এর সবচেয়ে বিখ্যাত বৈশিষ্ট্য হলো সঙ্গীতস্তম্ভের সারি, একটিমাত্র প্রস্তরখণ্ড থেকে খোদিত সরু স্তম্ভিকা যা আঘাত করলে সঙ্গীতস্বরে বেজে ওঠে — এ ধরনের মধ্যে সর্বাধিক প্রসিদ্ধ। অলংকার মণ্ডপে দক্ষিণের শ্রেষ্ঠ ভাস্কর্যের কিছু রয়েছে, এবং একটিমাত্র প্রস্তর থেকে খোদিত প্রায় ছয় মিটার উঁচু হনুমানের এক বিশাল মূর্তি ভক্তির কেন্দ্র। এর সবকিছুর কেন্দ্রে রয়েছে সেই লিঙ্গের গর্ভগৃহ যা তিন দেবতারূপে একত্রে পূজিত।",
+    "legends": "সুচীন্দ্রম নামটি ঐতিহ্যগতভাবে ব্যাখ্যা করা হয় সেই স্থান হিসেবে যেখানে দেবরাজ ইন্দ্র এক অভিশাপ থেকে শুচি হয়েছিলেন — শুচি অর্থ পবিত্র — এবং ঐতিহ্য অনুসারে ইন্দ্র এখানে রাত্রিকালে পূজা করেন বলা হয়। মন্দিরের কেন্দ্রীয় রহস্য হলো এক রূপে ত্রিমূর্তির প্রতিষ্ঠা: শিব, বিষ্ণু ও ব্রহ্মা, সৃষ্টি, স্থিতি ও লয়ের শক্তি, স্থানুমালয়ন রূপে একটিমাত্র লিঙ্গে একত্রে সম্মানিত, এক বিরল ধর্মতাত্ত্বিক দর্শন যা প্রস্তরে মূর্ত। এরই চারপাশে মন্দির দক্ষিণের নানা কিংবদন্তি, দেবী ও এক গর্ভগৃহ ভাগ করা দেবতাদের কাহিনি একত্র করে।",
+    "festivals": "মন্দিরের পঞ্জিকা উৎসবে সমৃদ্ধ, তার মধ্যে প্রধান রথোৎসব, যখন বিশাল মন্দিররথ সুচীন্দ্রমের মধ্য দিয়ে টানা হয়, এবং মার্গழி ও নবরাত্রির অনুষ্ঠান। এখানে সঙ্গীতের এক বিশেষ স্থান আছে, যা সঙ্গীতস্তম্ভের মন্দিরের পক্ষে উপযুক্ত, এবং উৎসবের রাত্রিগুলি স্তম্ভশোভিত মণ্ডপকে প্রদীপ ও ভক্তের ভিড়ে ভরিয়ে তোলে। মন্দিরের পুষ্করিণীতে তেপ্পম বা ভেলা উৎসব অনুষ্ঠিত হয়।",
+    "experience": "সুচীন্দ্রম অবসরপ্রিয় তীর্থযাত্রীকে পুরস্কৃত করে: সঙ্গীতস্তম্ভের ঝঙ্কার, মণ্ডপের ভাস্কর্য, সুউচ্চ শ্বেত গোপুরম ও বিশাল হনুমান মন্দিরকে একান্ত নিজস্ব এক চরিত্র দেয়, আর এর অনন্য ত্রিমূর্তি গর্ভগৃহ দক্ষিণের তীর্থগুলির মধ্যে একে আলাদা করে রাখে। এটি নাগরকোইল থেকে এবং ভূমির শেষপ্রান্তে কন্যাকুমারী থেকে অল্প পথের দূরত্বে, যার সঙ্গে এটি স্বাভাবিকভাবেই সুদূর দক্ষিণের এক তীর্থযাত্রায় যুক্ত।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before entering the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Suchindram is in Kanyakumari district at the southern end of Tamil Nadu, about 7 km from Nagercoil and a short journey from Kanyakumari, well connected by road."
+    "timings": "সকালে ও সন্ধ্যায় দর্শনকালসহ প্রতিদিন খোলা, মধ্যাহ্নে দীর্ঘ বিরতি থাকে; উৎসবের দিনগুলিতে সবচেয়ে ভিড়। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। বহু দক্ষিণী তীর্থের মতো এখানেও পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহে প্রবেশের আগে ঊর্ধ্বাঙ্গের বস্ত্র খুলে রাখতে বলা হয়; প্রদর্শিত নিয়ম মেনে চলুন।",
+    "photography": "বিশেষত গর্ভগৃহ ও তার চারপাশে আলোকচিত্র গ্রহণ নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা মেনে চলুন।",
+    "gettingThere": "সুচীন্দ্রম তামিলনাড়ুর দক্ষিণ প্রান্তে কন্যাকুমারী জেলায়, নাগরকোইল থেকে প্রায় ৭ কিমি এবং কন্যাকুমারী থেকে অল্প পথের দূরত্বে, সড়কপথে ভালোভাবে যুক্ত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",

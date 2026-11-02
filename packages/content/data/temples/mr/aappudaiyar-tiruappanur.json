@@ -1,29 +1,36 @@
 {
   "id": "aappudaiyar-tiruappanur",
   "locale": "mr",
+  "name": "आप्पुडैयार मंदिर, तिरुअप्पनूर",
   "nativeName": "ஆப்புடையார் கோயில்",
+  "deity": "आप्पुडैयार (आप्पनाथर) रूपात शिव, देवी कुळल्वायमोळि अम्मैसह",
+  "tradition": "शैव मत",
   "location": {
-    "city": "Tiruappanur (Sellur), Madurai",
-    "state": "Tamil Nadu",
+    "city": "तिरुअप्पनूर (सेल्लूर), मदुरै",
+    "state": "तमिळनाडू",
     "lat": 9.944,
     "lng": 78.137
   },
+  "period": "पांड्य देशाचे प्राचीन शैव तीर्थ, तेवारममध्ये गायिले गेलेले (७वे शतक); पांड्य स्थापना, नंतरच्या नायक विस्तारांसह",
   "century": 7,
+  "dynasty": "पांड्य, नंतरच्या मदुरै नायक आश्रयासह",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "आप्पुडैयार हे मदुरैतील सेल्लूर येथे वैगईच्या उत्तर तीरावरील शिव मंदिर आहे, जे तिरुज्ञान संबंदरांनी तेवारममध्ये गायिले आणि पूर आलेली नदी ओलांडण्यास पांड्य राजाला मदत करण्यासाठी लिंग बनलेल्या आप्पु—कीलचा—च्या कथेसाठी स्मरणात आहे.",
   "sections": {
-    "history": "Tiruappanur lies in Sellur, on the northern bank of the Vaigai, a few kilometres from the great Meenakshi temple of Madurai. Tradition counts it the second of the Tevaram shrines of the Pandya country praised in the hymns of Tirugnana Sambandar, which makes it a Paadal Petra Sthalam. The original temple is believed to have been raised by the Pandyas and later enlarged by the Nayak rulers of Madurai. The name of the place is explained by the story of the aappu, and the river that flows beside the shrine has long been honoured as its sacred water. Though the city has grown all around it, worship here has continued without a break. Detailed records of its foundation are scarce, so this account keeps to what tradition holds.",
-    "architecture": "The temple faces east and is modest in scale beside the great monuments of old Madurai. Its plan follows the Somaskanda arrangement, with a shrine of Subrahmanya standing between the sanctum of Aappudaiyar and that of the goddess, and a Vinayaka beneath a sacred fig between them. The sanctum holds the Shiva linga, while Kuzhalvaimozhi Ammai is honoured in a shrine of her own. Accounts note that the Shiva sanctum has no towering gopuram of its own, and the Vaigai itself serves as the temple's sacred water. The sacred tree is the kondrai, the golden shower.",
-    "legends": "The temple takes its name from the aappu, the wedge. A Pandya king, called Solandhagan in some tellings, set out to worship at the Meenakshi temple but found the Vaigai in flood and could not cross. A wedge lying on the bank is said to have become a Shiva linga and shown him the way, and so the Lord is honoured here as Aappudaiyar. Another telling remembers him as Annavinodhar, the Lord who in a time of famine turned river sand into rice. Both stories run on one thread, the compassion of a Lord who gives what is needed at the moment of need.",
-    "festivals": "On Panguni Uthiram, in March or April, the images of Meenakshi and Sundareswarar are brought across the river from the Madurai temple to Tiruappanur, a festival that binds the two sanctuaries together. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple, and the Tamil-month festivals of the Madurai region are kept here with devotion. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Come to the bank of the Vaigai from the bustle of Madurai and give this shrine an unhurried visit. Stand first before Aappudaiyar and recall the old story of the river that could not be crossed, then turn to Kuzhalvaimozhi Ammai in her own shrine. Bow to Vinayaka beneath the fig and to the shrine of Subrahmanya between the two sanctums, and sit for a while near the river. If you come on Panguni Uthiram, the meeting of the deities of the two great temples brings a particular fulfilment."
+    "history": "तिरुअप्पनूर हे सेल्लूरमध्ये, वैगईच्या उत्तर तीरावर, मदुरैच्या महान मीनाक्षी मंदिरापासून काही किलोमीटर अंतरावर आहे. परंपरेनुसार तिरुज्ञान संबंदरांच्या स्तोत्रांत स्तुत केलेल्या पांड्य देशातील तेवारम तीर्थांपैकी हे दुसरे गणले जाते, जे त्याला पादल पेट्र स्थलम् बनवते. मूळ मंदिर पांड्यांनी उभारले आणि नंतर मदुरैच्या नायक राज्यकर्त्यांनी विस्तारले असे मानले जाते. स्थानाचे नाव आप्पुच्या कथेवरून स्पष्ट होते, आणि तीर्थाशेजारून वाहणारी नदी फार पूर्वीपासून त्याचे पवित्र जल म्हणून सन्मानित आहे. नगर सभोवती वाढले असले, तरी येथील उपासना अखंड राहिली आहे. त्याच्या स्थापनेचे तपशीलवार अभिलेख दुर्मिळ आहेत, म्हणून हे वर्णन परंपरेने जे मानले आहे त्यापुरते राहते.",
+    "architecture": "मंदिर पूर्वाभिमुख आहे आणि जुन्या मदुरैच्या महान वास्तूंशेजारी आकाराने लहान आहे. त्याची रचना सोमस्कंद मांडणीनुसार आहे, ज्यात आप्पुडैयार आणि देवी यांच्या गर्भगृहांदरम्यान सुब्रह्मण्याचे देवालय आहे, आणि त्यांच्यामध्ये एका पवित्र पिंपळाखाली विनायक आहे. गर्भगृहात शिवलिंग आहे, तर कुळल्वायमोळि अम्मै तिच्या स्वतंत्र देवालयात पूजिली जाते. नोंदींनुसार शिव गर्भगृहाला स्वतःचे उंच गोपुरम नाही, आणि वैगई नदी हीच मंदिराचे पवित्र जल आहे. पवित्र वृक्ष कोंड्रै—सुवर्ण वर्षा—आहे.",
+    "legends": "मंदिराला त्याचे नाव आप्पु—कीलेवरून—मिळाले. काही कथांत सोलंधगन म्हटलेला एक पांड्य राजा मीनाक्षी मंदिरात उपासनेसाठी निघाला, पण वैगई पुरात सापडली व तो ओलांडू शकला नाही. काठावर पडलेली एक कील शिवलिंग बनली आणि तिने त्याला मार्ग दाखवला असे सांगितले जाते, म्हणूनच प्रभू येथे आप्पुडैयार म्हणून सन्मानित आहे. दुसरी कथा त्याला अन्नविनोदर—दुष्काळाच्या काळात नदीवाळूचे तांदूळ करणारा प्रभू—म्हणून स्मरते. दोन्ही कथा एकाच सूत्रावर चालतात: गरजेच्या क्षणी जे आवश्यक आहे ते देणाऱ्या प्रभूची करुणा.",
+    "festivals": "पंगुनि उत्तिरमला, मार्च किंवा एप्रिलमध्ये, मदुरै मंदिरातून मीनाक्षी व सुंदरेश्वराच्या मूर्ती नदी ओलांडून तिरुअप्पनूरला आणल्या जातात, हा उत्सव दोन्ही देवस्थानांना एकत्र बांधतो. प्रत्येक शिव मंदिराप्रमाणे महाशिवरात्री आणि मासिक प्रदोष पाळले जातात, आणि मदुरै प्रदेशातील तमिळ-मासिक उत्सव येथे भक्तीने पाळले जातात. तारखा स्थानिक पातळीवर पुष्टी करून घ्या, कारण त्या तमिळ पंचांगानुसार असतात.",
+    "experience": "मदुरैच्या गजबजाटातून वैगईच्या काठी या आणि या तीर्थाला निवांत भेट द्या. प्रथम आप्पुडैयारसमोर उभे राहा आणि ओलांडता न येणाऱ्या नदीची जुनी कथा स्मरा, नंतर कुळल्वायमोळि अम्मैकडे तिच्या स्वतंत्र देवालयात वळा. पिंपळाखालील विनायकाला आणि दोन गर्भगृहांदरम्यानच्या सुब्रह्मण्याच्या देवालयाला नमन करा, आणि नदीकाठी क्षणभर बसा. जर तुम्ही पंगुनि उत्तिरमला आलात, तर दोन महान मंदिरांच्या देवतांचे मीलन विशेष परिपूर्ती आणते."
   },
   "visit": {
-    "timings": "Typically open in the morning (roughly 6:00 to 11:30) and again from late afternoon into the evening (roughly 4:30 to 8:00), with a midday break; listings vary, so confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tiruappanur is in Sellur, on the north bank of the Vaigai in Madurai, about 5 km from the Meenakshi temple. City buses 17, 17A and 17C from Periyar bus stand pass the temple; get down at the Tiruvaappudaiyar Kovil stop. The Simmakkal stop on the other side of the river is also close. Madurai Junction railway station and Madurai airport serve the city."
+    "timings": "सामान्यतः सकाळी (सुमारे ६:०० ते ११:३०) आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत (सुमारे ४:३० ते ८:००) उघडे असते, दुपारी विश्रांती असते; नोंदी वेगवेगळ्या असतात, म्हणून विशेषतः उत्सवांच्या दिवशी वेळा स्थानिक पातळीवर पुष्टी करून घ्या.",
+    "dressCode": "शालीन पारंपरिक वेश अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पँट, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब घागरा, खांदे व गुडघे झाकलेले. पादत्राणे प्रवेशद्वारी ठेवली जातात.",
+    "photography": "बाहेरील प्रदक्षिणामार्ग व प्रांगणांत छायाचित्रण सामान्यतः अनुमत आहे, परंतु तमिळनाडूच्या मंदिर नियमांनुसार आतील गर्भगृहात निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुअप्पनूर हे मदुरैत वैगईच्या उत्तर तीरावरील सेल्लूरमध्ये, मीनाक्षी मंदिरापासून सुमारे ५ किमी अंतरावर आहे. पेरियार बस स्थानकावरून १७, १७ए आणि १७सी या शहर बसगाड्या मंदिरावरून जातात; तिरुवाप्पुडैयार कोविल थांब्यावर उतरा. नदीच्या पलीकडील सिम्मक्कल थांबाही जवळ आहे. मदुरै जंक्शन रेल्वे स्थानक व मदुरै विमानतळ शहराला सेवा देतात."
   }
 }

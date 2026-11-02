@@ -1,30 +1,37 @@
 {
   "id": "neyyadiappar-thillaisthanam",
   "locale": "bn",
+  "name": "নেয়্যাডিয়প্পর মন্দির, তিল্লৈস্থানম",
   "nativeName": "நெய்யாடியப்பர் கோயில், தில்லைஸ்தானம்",
+  "deity": "শিব, নেয়্যাডিয়প্পর রূপে, এক স্বয়ম্ভূ লিঙ্গ, দেবী বালাম্বিকৈ (ইলমঙ্গৈ অম্মৈ) সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thillaisthanam",
-    "state": "Tamil Nadu",
+    "city": "তিল্লৈস্থানম",
+    "state": "তামিলনাড়ু",
     "lat": 10.88,
     "lng": 79.088
   },
+  "period": "তিরুবৈয়ারুর সপ্ত স্থানমের সপ্তম ও শেষ মন্দির; তেবারমে স্তুত (সপ্তম শতক), নবম শতকের শিলালিপি সহ",
   "century": 7,
+  "dynasty": "পল্লব ও চোল, পাণ্ড্য ও অন্যান্য শাসকদের দান সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "saptha-sthanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরীর তীরে তিল্লৈস্থানমে শিব নেয়্যাডিয়প্পর, ঘৃতে স্নাত প্রভু, এবং তাঁর মন্দির সেই সাতটি মন্দিরের শেষ যেখানে সপ্ত স্থানম শোভাযাত্রা তিরুবৈয়ারুর দিকে ফিরে যাওয়ার আগে যায়।",
   "sections": {
-    "history": "Thillaisthanam lies on the northern bank of the Kaveri, about two kilometres west of Thiruvaiyaru on the road towards Thirukattupalli. Its old name was Thiruneithanam, the sacred place of ghee, and the present name is read as a softening of Thiru-nei-sthanam. Appar and Sambandar sang of its lord, making it a Paadal Petra Sthalam of the Kaveri's north bank. Its inscriptions reach far back: the earliest is dated to 862 CE, and a record of the Pallava king Nandivarman III gives sixty kalanju of gold for lamps. The stone temple is attributed to the age of the Chola king Aditya I, and Chola, Pandya, Chera and Irukkuvel rulers all added gifts.",
-    "architecture": "An east-facing rajagopuram opens onto a broad first enclosure, and the sanctum holds a swayambhu lingam, revered as having arisen of itself rather than being carved and installed. The goddess Balambigai, known in Tamil as Ilamangai Ammai, the young lady, has her own shrine. The Kaveri, flowing close by, serves as the temple's sacred water, and the inscribed courses on the walls quietly record more than eleven centuries of devotion.",
-    "legends": "The sthala purana tells of a cow that went each day to one spot and let her milk flow there, and the milk turned to ghee. A king, hearing of the wonder, had the ground dug up and found a lingam that had appeared of itself. Because the lord was then bathed in ghee, he came to be called Neyyadiappar, from nei, the Tamil word for ghee. The practice continues to this day: the lingam is anointed with ghee and then with warm water.",
-    "festivals": "Thillaisthanam is the seventh and last temple of the Saptha Sthanam festival in Chithirai (April–May); here the procession completes its round of the villages before turning back towards Thiruvaiyaru, and the temple stays open late into the night as the palanquins arrive. Tradition holds that the village sent ghee for Nandi's wedding. Maha Shivaratri in Masi (February–March) and Thiruvathirai in Margazhi (December–January) are also kept with devotion. Confirm dates locally.",
-    "experience": "Come early to see the ghee abhishekam, the rite that gives the temple its name, and then walk down to the Kaveri, which flows past the village. Thillaisthanam is the nearest of the Saptha Sthanam temples to Thiruvaiyaru, so it pairs easily with a visit to Aiyarappar. On the festival night the riverside village fills with pilgrims waiting to greet the palanquins."
+    "history": "তিল্লৈস্থানম কাবেরীর উত্তর তীরে, তিরুবৈয়ারু থেকে প্রায় দুই কিলোমিটার পশ্চিমে তিরুকট্টুপল্লির পথে অবস্থিত। এর পুরনো নাম ছিল তিরুনেইত্তানম, ঘৃতের পবিত্র স্থান, এবং বর্তমান নামটি তিরু-নেই-স্থানমের কোমলীকৃত রূপ বলে পড়া হয়। আপ্পর ও সম্বন্দর এর প্রভুর স্তুতি করেছিলেন, যা একে কাবেরীর উত্তর তীরের এক পাডল পেট্র স্থলম্ করেছে। এর শিলালিপি বহু প্রাচীনে পৌঁছায়: প্রাচীনতমটি ৮৬২ খ্রিস্টাব্দের, এবং পল্লব রাজা তৃতীয় নন্দিবর্মনের একটি নথি প্রদীপের জন্য ষাট কলঞ্জু স্বর্ণ দান করে। পাথরের মন্দিরটি চোল রাজা প্রথম আদিত্যের যুগের বলে অভিহিত, এবং চোল, পাণ্ড্য, চের ও ইরুক্কুবেল শাসকেরা সবাই দান যোগ করেছিলেন।",
+    "architecture": "পূর্বমুখী এক রাজগোপুরম একটি প্রশস্ত প্রথম প্রাঙ্গণে খোলে, এবং গর্ভগৃহে রয়েছে এক স্বয়ম্ভূ লিঙ্গ, যা খোদাই করে প্রতিষ্ঠিত নয় বরং স্বয়ং উদ্ভূত বলে শ্রদ্ধেয়। দেবী বালাম্বিকৈ, তামিলে ইলমঙ্গৈ অম্মৈ—তরুণী—নামে পরিচিত, তাঁর নিজস্ব মন্দির রয়েছে। কাছ দিয়ে বহমান কাবেরী মন্দিরের পবিত্র জলরূপে কাজ করে, এবং প্রাচীরে খোদিত লিপিসমূহ নীরবে এগারো শতকেরও বেশি ভক্তির ইতিহাস লিপিবদ্ধ করে।",
+    "legends": "স্থলপুরাণ এক গাভীর কথা বলে যে প্রতিদিন একটি স্থানে গিয়ে তার দুধ ঝরিয়ে দিত, এবং সেই দুধ ঘৃতে পরিণত হত। এক রাজা, এই বিস্ময়ের কথা শুনে, মাটি খুঁড়িয়ে স্বয়ং-উদ্ভূত এক লিঙ্গ খুঁজে পান। যেহেতু প্রভুকে তখন ঘৃতে স্নান করানো হয়েছিল, তিনি নেয়্যাডিয়প্পর নামে পরিচিত হন, নেই থেকে, যা ঘৃতের তামিল শব্দ। প্রথাটি আজও চলছে: লিঙ্গকে ঘৃত এবং তারপর উষ্ণ জল দিয়ে অভিষিক্ত করা হয়।",
+    "festivals": "তিল্লৈস্থানম চিত্তিরৈ মাসের (এপ্রিল–মে) সপ্ত স্থানম উৎসবের সপ্তম ও শেষ মন্দির; এখানে শোভাযাত্রা তিরুবৈয়ারুর দিকে ফেরার আগে গ্রামগুলির পরিক্রমা সম্পূর্ণ করে, এবং পালকি এলে মন্দির রাত অবধি খোলা থাকে। প্রথা বলে গ্রামটি নন্দীর বিবাহের জন্য ঘৃত পাঠিয়েছিল। মাসি মাসের (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি ও মার্গঝি মাসের (ডিসেম্বর–জানুয়ারি) তিরুবাদিরৈও ভক্তিভরে পালিত হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "ঘৃত অভিষেকম দেখতে ভোরে আসুন, সেই আচার যা মন্দিরকে তার নাম দিয়েছে, এবং তারপর গ্রামের পাশ দিয়ে বহমান কাবেরীর তীরে হেঁটে যান। তিল্লৈস্থানম সপ্ত স্থানম মন্দিরগুলির মধ্যে তিরুবৈয়ারুর সবচেয়ে নিকটবর্তী, তাই এটি আইয়ারপ্পর দর্শনের সঙ্গে সহজেই মিলে যায়। উৎসবের রাতে নদীতীরের গ্রাম পালকি অভ্যর্থনার অপেক্ষায় তীর্থযাত্রীতে ভরে ওঠে।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thillaisthanam is about 2 km west of Thiruvaiyaru on the road to Thirukattupalli, and around 15 km from Thanjavur; local buses, autos and taxis come from Thiruvaiyaru. Thanjavur is the nearest major railway station, and Tiruchirappalli International Airport, about 60 km away, is the nearest airport."
+    "timings": "সাধারণত সকালে ও আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে, মধ্যাহ্নে বিরতি সহ; সময়সূচি স্থানীয়ভাবে, বিশেষত উৎসবের দিনে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের ধুতি বা ট্রাউজার, নারীদের শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশপথের স্ট্যান্ডে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের করিডর ও প্রাঙ্গণে সাধারণত ফটোগ্রাফির অনুমতি আছে কিন্তু ভেতরের গর্ভগৃহে তামিলনাড়ুর মন্দির-নিয়ম অনুসারে কঠোরভাবে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিল্লৈস্থানম তিরুবৈয়ারু থেকে প্রায় ২ কিমি পশ্চিমে তিরুকট্টুপল্লির পথে, এবং তাঞ্জাবুর থেকে প্রায় ১৫ কিমি দূরে; তিরুবৈয়ারু থেকে স্থানীয় বাস, অটো ও ট্যাক্সি আসে। তাঞ্জাবুর নিকটতম প্রধান রেলস্টেশন, এবং প্রায় ৬০ কিমি দূরের তিরুচিরাপল্লি আন্তর্জাতিক বিমানবন্দর নিকটতম বিমানবন্দর।"
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "mathimutheeswarar-sedalur",
   "locale": "mr",
+  "name": "मधि-मुक्तीश्वरर मंदिर, सेतलापती (तिरुत्तिलदैपती)",
   "nativeName": "திருத்திலதைப்பதி மதிமுக்தீஸ்வரர் கோயில்",
+  "deity": "मधि-मुक्तीश्वरर (मुक्तीश्वरर, मुक्तीचे प्रभू) रूपातील शिव, पोर्कोडि नायकी (स्वर्णवल्ली, मरगतवल्ली) देवीसह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम्",
   "location": {
-    "city": "Sethalapathy, via Poonthottam",
-    "state": "Tamil Nadu",
+    "city": "सेतलापती, पूंथोट्टममार्गे",
+    "state": "तमिळनाडू",
     "lat": 10.9439,
     "lng": 79.6357
   },
+  "period": "तेवारम युग (७व्या शतकात गायिलेले); नंतरचे चोळकालीन रचनात्मक मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कावेरी त्रिभुज प्रदेशातील पूंथोट्टमजवळचे, तेवारमचे तिरुत्तिलदैपती असलेले सेतलापती येथे शिवाची पूजा मधि-मुक्तीश्वरर — मुक्तीचे प्रभू — या रूपात स्वर्णवल्ली म्हणूनही ओळखल्या जाणाऱ्या पोर्कोडि नायकी देवीसह होते. तिरुज्ञान संबंदरने गायिलेले हे पाडल पेट्र स्थलम् कावेरीच्या दक्षिण तीरावरील एक लहानसे देवस्थान असून त्याच्या नावातच मुक्तीचे अभिवचन आहे.",
   "sections": {
-    "history": "Sethalapathy, the Tiruthiladaipathi of the Tevaram hymns, lies near Poonthottam, about 25 km from Mayiladuthurai, in Tiruvarur district on the southern bank of the Kaveri (older listings place it in Nagapattinam). It is a Paadal Petra Sthalam, hymned by Tirugnana Sambandar in the second Thirumurai. The stone temple is of the Chola period and later, standing over a site held sacred since the age of the Tevaram saints; by local account the temple received land from a king remembered in its history.",
-    "architecture": "A Dravidian delta shrine of modest scale, the temple enshrines Mathi-Muktheeswarar — Muktheeswarar, the lord of liberation — in the sanctum, with the goddess Porkodi Nayaki, also called Swarnavalli and Maragathavalli, in her own shrine, a Nandi and the parivara devatas. The temple keeps the simple, well-ordered plan of the smaller Kaveri-bank sanctuaries.",
-    "legends": "The lord's name Muktheeswarar — 'the lord of mukti, of release' — carries the central promise of the place: that worship here grants liberation. The goddess's names, Porkodi Nayaki and Swarnavalli, both mean 'the golden creeper,' a graceful image of Devi. The sthala tradition, like that of many smaller delta shrines, is preserved chiefly in local memory and the verses of Sambandar, and the village name is linked to the offering of tila (sesame) in the ancestral rites that the delta's rivers invite.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail of the southern Kaveri include Sethalapathy among their stops.",
-    "experience": "At Sethalapathy the pilgrim comes to a small shrine whose name itself speaks of liberation. Before Mathi-Muktheeswarar and the golden-creeper goddess Porkodi Nayaki, the visitor finds the unhurried grace of a delta sanctuary that has kept the Tevaram's promise of mukti alive on the southern bank of the Kaveri."
+    "history": "तेवारम स्तोत्रांचे तिरुत्तिलदैपती असलेले सेतलापती, मयिलाडुतुरैपासून सुमारे २५ किमी अंतरावर, कावेरीच्या दक्षिण तीरावर तिरुवारूर जिल्ह्यात पूंथोट्टमजवळ वसलेले आहे (जुन्या याद्या याला नागपट्टिनममध्ये दर्शवतात). हे पाडल पेट्र स्थलम् असून तिरुज्ञान संबंदरने दुसऱ्या तिरुमुरैमध्ये याची स्तुती केली आहे. दगडी मंदिर चोळकाळ व नंतरचे असून तेवारम संतांच्या काळापासून पवित्र मानल्या जाणाऱ्या स्थळावर उभे आहे; स्थानिक कथेनुसार मंदिराला त्याच्या इतिहासात स्मरल्या जाणाऱ्या एका राजाकडून जमीन मिळाली.",
+    "architecture": "माफक आकाराचे हे द्राविड त्रिभुज-प्रदेशीय देवस्थान गर्भगृहात मधि-मुक्तीश्वरर — मुक्तीचे प्रभू मुक्तीश्वरर — यांना सामावते, तर स्वर्णवल्ली व मरगतवल्ली म्हणूनही ओळखल्या जाणाऱ्या पोर्कोडि नायकी देवीचे स्वतंत्र मंदिर, नंदी आणि परिवार देवता आहेत. मंदिराने कावेरीतीरावरील लहान देवस्थानांचा साधा, सुव्यवस्थित आराखडा जपला आहे.",
+    "legends": "प्रभूचे मुक्तीश्वरर — 'मुक्तीचे, सुटकेचे प्रभू' — हे नाव या स्थळाचे मध्यवर्ती अभिवचन धारण करते: येथील पूजा मुक्ती देते. देवीची पोर्कोडि नायकी व स्वर्णवल्ली ही दोन्ही नावे 'सुवर्ण वेल' असा अर्थ देतात, देवीची एक सुंदर प्रतिमा. अनेक लहान त्रिभुज-देवस्थानांप्रमाणे येथील स्थल परंपरा मुख्यतः स्थानिक स्मृतीत व संबंदरच्या पद्यांत जपली आहे, आणि गावाचे नाव त्रिभुज प्रदेशातील नद्या जिला आमंत्रण देतात त्या पितृकार्यांतील तिल (तीळ) अर्पणाशी जोडलेले आहे.",
+    "festivals": "मंदिर मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्री आणि कार्तिकैतील सोमवार, प्रदोष पूजेसह, एका गावदेवस्थानाच्या शांत प्रमाणात पाळते. दक्षिण कावेरीच्या पाडल पेट्र मार्गावरील यात्रेकरू सेतलापतीचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "सेतलापती येथे यात्रेकरू अशा एका लहानशा देवस्थानापाशी येतो ज्याचे नावच मुक्तीबद्दल बोलते. मधि-मुक्तीश्वरर आणि सुवर्ण-वेल देवी पोर्कोडि नायकी यांच्यासमोर, कावेरीच्या दक्षिण तीरावर तेवारमचे मुक्तीचे अभिवचन जिवंत ठेवणाऱ्या त्रिभुज-देवस्थानाची निवांत शोभा भेट देणाऱ्याला अनुभवास येते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sethalapathy is near Poonthottam, about 3 km away, on the Tiruvarur–Mayiladuthurai road, roughly 25 km from Mayiladuthurai (PIN 609503). Mayiladuthurai and Tiruvarur are the nearest rail heads, with buses via Poonthottam and local taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वारावर ठेवावीत.",
+    "photography": "बाहेरील मार्गांमध्ये सामान्यतः छायाचित्रणास परवानगी आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "सेतलापती हे तिरुवारूर–मयिलाडुतुरै रस्त्यावर पूंथोट्टमपासून सुमारे ३ किमी अंतरावर, मयिलाडुतुरैपासून अंदाजे २५ किमी (पिन ६०९५०३) आहे. मयिलाडुतुरै व तिरुवारूर ही जवळची रेल्वे स्थानके असून पूंथोट्टममार्गे बस व गावापर्यंत स्थानिक टॅक्सी उपलब्ध आहेत."
   }
 }

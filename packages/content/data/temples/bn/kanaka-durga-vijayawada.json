@@ -1,28 +1,35 @@
 {
   "id": "kanaka-durga-vijayawada",
   "locale": "bn",
+  "name": "কনক দুর্গা মন্দির, ইন্দ্রকীলাদ্রি",
   "nativeName": "కనక దుర్గ ఆలయం, ఇంద్రకీలాద్రి",
+  "deity": "দেবী কনক দুর্গা রূপে, মহিষাসুরমর্দিনী — মহিষদানব-বধকারিণী, পাহাড়ে স্বয়ম্ভূ",
+  "tradition": "শাক্তধর্ম",
   "location": {
-    "city": "Vijayawada",
-    "state": "Andhra Pradesh",
+    "city": "বিজয়ওয়াড়া",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 16.5175,
     "lng": 80.6086
   },
+  "period": "কৃষ্ণার উপরে ইন্দ্রকীলাদ্রিতে একটি স্বয়ম্ভূ দেবী মন্দির, প্রাচীন ঐতিহ্যের এবং এর দশরার জন্য খ্যাত",
   "century": 9,
+  "dynasty": "শতাব্দীজুড়ে কৃষ্ণা দেশের শাসকদের দ্বারা পৃষ্ঠপোষিত",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [],
+  "summary": "বিজয়ওয়াড়ায় কৃষ্ণার উপরে ইন্দ্রকীলাদ্রি পাহাড়ে দেবী কনক দুর্গা রূপে দাঁড়িয়ে আছেন, মহিষাসুরের স্বর্ণবর্ণা বধকারিণী, স্বয়ম্ভূ ও চিরজাগ্রত। তাঁর দশরা দক্ষিণের সবচেয়ে মহান দেবী উৎসবগুলির একটি।",
   "sections": {
-    "history": "Kanaka Durga crowns the Indrakeeladri hill in the heart of Vijayawada, looking down on the Krishna river as it broadens toward the delta. The Goddess here is held to be swayambhu — self-manifested — and is worshipped as Kanaka Durga, the golden Durga, in her form as Mahishasuramardini, the slayer of the buffalo-demon Mahishasura. One of the most revered Devi shrines of Andhra, it has been sustained and enlarged by the rulers and devotees of the Krishna country across the centuries.",
-    "architecture": "The temple sits atop the rocky Indrakeeladri, reached by long flights of steps and a ghat road, in the Dravidian manner of the Telugu country. Within the sanctum the Goddess stands with many arms, bearing her weapons and spearing the demon beneath her lion. Tradition holds that Adi Shankara installed the Sri Chakra here, and the hilltop setting above the river gives the shrine its commanding presence.",
-    "legends": "Two legends bind the hill. Here, it is said, Arjuna performed his great penance to Shiva and received the Pashupatastra — the reason the hill is called Indrakeela. And here the Goddess, invoked by the gods, slew Mahishasura, the buffalo-demon whom no man or god could kill, taking her place upon the hill as its ever-watchful guardian. She is worshipped as the victory of the divine feminine over unconquerable evil.",
-    "festivals": "Dasara — the nine nights of Navaratri — is the temple's great season, when the Goddess is adorned each day in a different form, from Bala Tripura Sundari to Durga and Mahishasuramardini, and immense crowds climb the hill. The float festival on the Krishna, Sakambari, and the river's Pushkaram draw pilgrims through the year.",
-    "experience": "To climb Indrakeeladri for the darshan of Kanaka Durga, with the Krishna spread out below, is one of the defining pilgrimages of Andhra — most of all in the Dasara nights, when the whole hill is lit and the Goddess is revealed in a new form with each dawn."
+    "history": "কনক দুর্গা বিজয়ওয়াড়ার কেন্দ্রস্থলে ইন্দ্রকীলাদ্রি পাহাড়ের শিখরে অধিষ্ঠিত, কৃষ্ণা নদীর দিকে তাকিয়ে যখন তা বদ্বীপের দিকে প্রশস্ত হয়। এখানে দেবীকে স্বয়ম্ভূ — স্বয়ং-প্রকটিত — বলে ধরা হয়, এবং কনক দুর্গা, স্বর্ণবর্ণা দুর্গা রূপে পূজিত হন, মহিষাসুরমর্দিনী, মহিষদানব মহিষাসুরের বধকারিণী রূপে। অন্ধ্রের সবচেয়ে শ্রদ্ধেয় দেবী মন্দিরগুলির একটি, শতাব্দীজুড়ে কৃষ্ণা দেশের শাসক ও ভক্তদের দ্বারা এটি রক্ষিত ও বর্ধিত হয়েছে।",
+    "architecture": "মন্দিরটি পাথুরে ইন্দ্রকীলাদ্রির চূড়ায় বসে আছে, তেলুগু দেশের দ্রাবিড় রীতিতে, দীর্ঘ সিঁড়ির সারি ও একটি ঘাট সড়ক দিয়ে পৌঁছানো যায়। গর্ভগৃহের মধ্যে দেবী বহু বাহু নিয়ে দাঁড়িয়ে আছেন, তাঁর অস্ত্র ধারণ করে ও তাঁর সিংহের নিচে দানবকে বর্শাবিদ্ধ করে। ঐতিহ্য বলে আদি শঙ্কর এখানে শ্রীচক্র স্থাপন করেছিলেন, এবং নদীর উপরে পাহাড়চূড়ার অবস্থান মন্দিরকে এর আধিপত্যপূর্ণ উপস্থিতি দেয়।",
+    "legends": "দুটি কিংবদন্তি পাহাড়কে বাঁধে। এখানে, কথিত আছে, অর্জুন শিবের উদ্দেশে তাঁর মহান তপস্যা করে পাশুপতাস্ত্র লাভ করেছিলেন — সেই কারণে পাহাড়কে ইন্দ্রকীল বলা হয়। এবং এখানে দেবী, দেবতাদের দ্বারা আহূত হয়ে, মহিষাসুরকে বধ করেছিলেন, সেই মহিষদানব যাকে কোনও মানুষ বা দেবতা বধ করতে পারেনি, পাহাড়ের চিরজাগ্রত রক্ষিকা হিসেবে এর উপর স্থান নিয়ে। তিনি অজেয় অশুভের উপর দিব্য নারীশক্তির বিজয় হিসেবে পূজিত হন।",
+    "festivals": "দশরা — নবরাত্রির নয় রাত — মন্দিরের মহান ঋতু, যখন দেবী প্রতিদিন এক ভিন্ন রূপে সজ্জিত হন, বালা ত্রিপুর সুন্দরী থেকে দুর্গা ও মহিষাসুরমর্দিনী পর্যন্ত, এবং বিপুল জনতা পাহাড়ে ওঠে। কৃষ্ণায় তেপ্পোৎসবম, শাকম্ভরী, এবং নদীর পুষ্করম বছরজুড়ে তীর্থযাত্রী আকর্ষণ করে।",
+    "experience": "কৃষ্ণা নিচে ছড়ানো অবস্থায় কনক দুর্গার দর্শনের জন্য ইন্দ্রকীলাদ্রিতে ওঠা অন্ধ্রের অন্যতম সংজ্ঞায়ক তীর্থযাত্রা — সর্বোপরি দশরার রাতে, যখন সমগ্র পাহাড় আলোকিত হয় এবং প্রতি ভোরে দেবী এক নতুন রূপে প্রকাশিত হন।"
   },
   "visit": {
-    "timings": "Open daily from early morning to night with paid and free darshan queues; Dasara (Navaratri) is by far the busiest, when the goddess is adorned in a different form each day. Confirm current timings and festival arrangements before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple crowns Indrakeeladri hill in the heart of Vijayawada, on the Krishna river in Andhra Pradesh; the city is a major road and rail junction, with steps and a ghat road up the hill and an airport nearby."
+    "timings": "প্রতিদিন ভোর থেকে রাত পর্যন্ত সশুল্ক ও বিনামূল্যের দর্শন সারি সহ খোলা থাকে; দশরা (নবরাত্রি) সবচেয়ে ব্যস্ত, যখন দেবী প্রতিদিন এক ভিন্ন রূপে সজ্জিত হন। সফরের আগে বর্তমান সময় ও উৎসবের ব্যবস্থা নিশ্চিত করুন।",
+    "dressCode": "সংযত ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভেতরে ও চারপাশে ফটোগ্রাফি সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "মন্দিরটি অন্ধ্রপ্রদেশে কৃষ্ণা নদীর ধারে বিজয়ওয়াড়ার কেন্দ্রস্থলে ইন্দ্রকীলাদ্রি পাহাড়ের চূড়ায় অবস্থিত; শহরটি একটি প্রধান সড়ক ও রেল সংযোগস্থল, পাহাড়ে ওঠার সিঁড়ি ও ঘাট সড়ক এবং কাছে একটি বিমানবন্দর সহ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kanaka-durga-vijayawada.jpg",
