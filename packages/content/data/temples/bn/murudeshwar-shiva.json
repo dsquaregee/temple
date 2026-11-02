@@ -1,30 +1,37 @@
 {
   "id": "murudeshwar-shiva",
   "locale": "bn",
+  "name": "মুরুডেশ্বর মন্দির",
   "nativeName": "ಮುರುಡೇಶ್ವರ ದೇವಸ್ಥಾನ",
+  "deity": "আরব সাগরের উপরে এক অন্তরীপে মুরুডেশ্বর রূপে শিব",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Murudeshwar",
-    "state": "Karnataka",
+    "city": "মুরুডেশ্বর",
+    "state": "কর্ণাটক",
     "lat": 14.0943,
     "lng": 74.4843
   },
+  "period": "গোকর্ণের আত্মলিঙ্গের সঙ্গে যুক্ত একটি উপকূলীয় শিবমন্দির, তার সুউচ্চ মূর্তি ও গোপুরের জন্য বিখ্যাত",
   "century": 16,
+  "dynasty": "প্রাচীন স্থান, তার বিশাল গোপুর ও মূর্তি আধুনিক পৃষ্ঠপোষকদের দ্বারা নির্মিত",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "temples-of-coastal-karnataka"
   ],
+  "summary": "আরব সাগরে মাথা তোলা এক পাথুরে অন্তরীপে, এক বিশাল উপবিষ্ট মূর্তি ও কুড়ি তলা উঁচু গোপুরের নিচে শিব মুরুডেশ্বর রূপে পূজিত হন — উপকূলের অন্যতম চমকপ্রদ দৃশ্য।",
   "sections": {
-    "history": "Murudeshwar stands on the Kanduka hill, a headland reaching into the Arabian Sea in Uttara Kannada. The shrine is bound to the legend of the Atma Linga of nearby Gokarna, and in modern times has been raised into one of the coast's grandest temple complexes.",
-    "architecture": "The temple is crowned by a Raja Gopura of some twenty storeys, among the tallest in India, and beside it rises a vast seated statue of Shiva overlooking the sea. The setting — sea on three sides, sky above — is the temple's signature.",
-    "legends": "By tradition the demon Ravana carried off the Atma Linga of Shiva, and was tricked by Ganesha into setting it down at Gokarna, where it fixed forever. The cloth that had covered the linga is said to have fallen at this place, which took the name Mrideshwara, or Murudeshwara.",
-    "festivals": "Maha Shivaratri is the great night here, drawing crowds to the sea-girt hill. Kartika and the temple's own car festival fill the year with worship beside the waves.",
-    "experience": "Few Indian temples sit so dramatically on the sea; pilgrims come for darshan of Murudeshwara and to stand beneath the great statue with the Arabian Sea spread on every side."
+    "history": "মুরুডেশ্বর দাঁড়িয়ে আছে কণ্ডুক পাহাড়ের উপর, উত্তর কন্নড়ে আরব সাগরে বিস্তৃত এক অন্তরীপে। এই মন্দিরটি নিকটবর্তী গোকর্ণের আত্মলিঙ্গের কিংবদন্তির সঙ্গে বাঁধা, এবং আধুনিক কালে একে উপকূলের অন্যতম জমকালো মন্দিরপ্রাঙ্গণে উন্নীত করা হয়েছে।",
+    "architecture": "মন্দিরটির শীর্ষে রয়েছে প্রায় কুড়ি তলা উঁচু এক রাজগোপুর, ভারতের উচ্চতমগুলির অন্যতম, এবং তার পাশেই সমুদ্রের দিকে মুখ করে উঠে দাঁড়িয়ে আছে শিবের এক বিশাল উপবিষ্ট মূর্তি। এর অবস্থান — তিন দিকে সমুদ্র, উপরে আকাশ — এই মন্দিরের স্বাক্ষর।",
+    "legends": "প্রথা অনুসারে অসুর রাবণ শিবের আত্মলিঙ্গ বহন করে নিয়ে যাচ্ছিল, এবং গণেশের ছলনায় তা গোকর্ণে রেখে ফেলে, যেখানে তা চিরকালের জন্য স্থির হয়ে যায়। লিঙ্গটি যে বস্ত্রে আবৃত ছিল, তা এই স্থানে পড়ে গিয়েছিল বলে বলা হয়, এবং স্থানটি মৃদেশ্বর বা মুরুডেশ্বর নাম ধারণ করে।",
+    "festivals": "মহাশিবরাত্রি এখানে মহান রাত্রি, সমুদ্রবেষ্টিত পাহাড়ে ভক্তদের ভিড় টানে। কার্তিক এবং মন্দিরের নিজস্ব রথোৎসব তরঙ্গের পাশে উপাসনায় বছরটি ভরিয়ে তোলে।",
+    "experience": "অল্প কয়েকটি ভারতীয় মন্দিরই সমুদ্রের উপর এমন নাটকীয়ভাবে অবস্থিত; তীর্থযাত্রীরা আসেন মুরুডেশ্বরের দর্শনের জন্য এবং চারদিকে বিস্তৃত আরব সাগরের মাঝে বিশাল মূর্তির নিচে দাঁড়ানোর জন্য।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday break; Maha Shivaratri is busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Murudeshwar lies on the coast of Uttara Kannada in Karnataka, on the Konkan railway line and the coastal highway between Mangaluru and Karwar, with its own railway station."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন এবং দুপুরে বিরতি দিয়ে খোলা; মহাশিবরাত্রিতে সবচেয়ে ভিড়। যাওয়ার আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলতে হবে। টাঙানো নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে আলোকচিত্র গ্রহণ সীমিত; টাঙানো নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "মুরুডেশ্বর কর্ণাটকের উত্তর কন্নড় উপকূলে, কোঙ্কণ রেলপথে এবং মঙ্গালুরু ও কারওয়ারের মধ্যবর্তী উপকূলীয় মহাসড়কে অবস্থিত, এর নিজস্ব রেলস্টেশন রয়েছে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/murudeshwar-shiva.jpg",
