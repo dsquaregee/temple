@@ -1,29 +1,36 @@
 {
   "id": "deivanayaka-thevanarthogai",
   "locale": "bn",
+  "name": "দৈবনায়ক পেরুমাল মন্দির, তিরুত্তেবনার্তোগই",
   "nativeName": "தெய்வநாயக பெருமாள் கோயில், திருத்தேவனார்தொகை",
+  "deity": "দণ্ডায়মান রূপে বিষ্ণু দৈবনায়ক পেরুমাল রূপে, দেবী কদল্‌মগল নাচিয়ারের সঙ্গে — মাধব পেরুমাল মন্দির নামেও পরিচিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirunangur",
-    "state": "Tamil Nadu",
+    "city": "তিরুনাঙ্গুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.1775,
     "lng": 79.7792
   },
+  "period": "চোল নাড়ুর একটি দিব্য দেশম এবং এগারোটি তিরুনাঙ্গুর তিরুপতির অন্যতম, নালায়ির দিব্য প্রবন্ধমে তিরুমঙ্গই আলবার দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "আলবার যুগের চোল দেশ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "তিরুনাঙ্গুরের কাছে কীঝ়চালই গ্রামে, তিরুত্তেবনার্তোগইয়ে বিষ্ণু পূর্বমুখে দৈবনায়ক পেরুমাল রূপে কদল্‌মগল নাচিয়ারের সঙ্গে দণ্ডায়মান — \"দেবতাদের সমাবেশ\", তিরুমঙ্গই আলবার দ্বারা স্তুত।",
   "sections": {
-    "history": "Thiruthevanarthogai lies in the hamlet of Keezhchalai beside Thirunangur, near Sirkazhi, in Chola Nadu, and is also called the Madhava Perumal temple after its festival image. It is one of the 108 Divya Desams sung by the Alvars in the Nalayira Divya Prabandham, and one of the eleven Thirunangur Tirupathis hymned by Thirumangai Alvar. The presiding Lord is Deivanayaka Perumal, standing and facing east, with the Goddess Kadalmagal Nachiyar; the utsavars are Madhava Perumal and Madhava Nayaki. No inscription or royal patron is firmly recorded, so its age rests on the Alvar's hymns, placed between the seventh and ninth centuries.",
-    "architecture": "A fairly small Dravidian temple, entered through a three-tiered gopuram. The vimana over the sanctum is of the Sopana type. Within, Deivanayaka Perumal stands facing east, with Kadalmagal Nachiyar as his consort, while the processional images of Madhava Perumal and Madhava Nayaki are the forms taken out on festival days. Its modest scale suits the quiet hamlet around it and the unhurried pace of a village pilgrimage.",
-    "legends": "The name Devanar Thogai means the gathering of the devas. Tradition connects it with the Goddess, who is called Kadalmagal, the daughter of the ocean, because she is held to have been born of the sea; all the devas, the story says, were present at the churning of the ocean, and so the place is remembered as their assembly. The Lord here is thus Deivanayakan, the chief of the gods, standing among them.",
-    "festivals": "The temple joins the Garuda Sevai on the day after Thai Amavasai (January–February), when its utsavar, Madhava Perumal, is taken on a Garuda vahana to Thirumanimadam to meet the other lords of Thirunangur. The Thirumangai Alvar Mangalasasana Utsavam recalls the hymns. Tradition holds that seeing all eleven together equals visiting each one.",
-    "experience": "A small hamlet shrine that rewards a slow visit: stand before the east-facing Lord, then ask to see the festival images of Madhava Perumal and his consort. Keezhchalai lies close to Thirunangur, about 10 km by road from Sirkazhi, and is easily combined with the other Tirupathis in a day."
+    "history": "তিরুত্তেবনার্তোগই অবস্থিত চোল নাড়ুতে, সিরকাঝ়ির কাছে তিরুনাঙ্গুরের পাশে কীঝ়চালই গ্রামে, এবং এর উৎসব মূর্তির নামানুসারে এটিকে মাধব পেরুমাল মন্দিরও বলা হয়। এটি নালায়ির দিব্য প্রবন্ধমে আলবারদের দ্বারা স্তুত ১০৮টি দিব্য দেশমের অন্যতম, এবং তিরুমঙ্গই আলবার দ্বারা স্তুত এগারোটি তিরুনাঙ্গুর তিরুপতির অন্যতম। অধিষ্ঠাতৃ দেবতা দৈবনায়ক পেরুমাল, দণ্ডায়মান ও পূর্বমুখী, দেবী কদল্‌মগল নাচিয়ারের সঙ্গে; উৎসবরগণ হলেন মাধব পেরুমাল ও মাধব নায়কী। কোনো শিলালিপি বা রাজকীয় পৃষ্ঠপোষকের দৃঢ় প্রমাণ নেই, তাই এর প্রাচীনত্ব নির্ভর করে আলবারের স্তোত্রের উপর, যা সপ্তম থেকে নবম শতাব্দীর মধ্যে স্থাপিত।",
+    "architecture": "একটি মাঝারি ছোট দ্রাবিড় মন্দির, যার প্রবেশপথ তিনতলা গোপুরমের মধ্য দিয়ে। গর্ভগৃহের উপরের বিমানটি সোপান ধরনের। ভিতরে দৈবনায়ক পেরুমাল পূর্বমুখে দণ্ডায়মান, তাঁর সহধর্মিণী কদল্‌মগল নাচিয়ার সঙ্গে, আর মাধব পেরুমাল ও মাধব নায়কীর শোভাযাত্রার মূর্তিগুলি উৎসবের দিনে বাইরে বার করা হয়। এর বিনম্র পরিসর চারপাশের নিস্তব্ধ গ্রাম এবং গ্রাম্য তীর্থযাত্রার শান্ত গতির সঙ্গে মানানসই।",
+    "legends": "দেবনার তোগই নামের অর্থ দেবতাদের সমাবেশ। ঐতিহ্য একে দেবীর সঙ্গে যুক্ত করে, যাঁকে কদল্‌মগল, সমুদ্রের কন্যা বলা হয়, কারণ তিনি সমুদ্র থেকে জন্মেছেন বলে ধরা হয়; গল্প বলে, সমুদ্রমন্থনের সময় সমস্ত দেবতা উপস্থিত ছিলেন, তাই এই স্থানটি তাঁদের সভা রূপে স্মরণীয়। এখানকার প্রভু তাই দৈবনায়কন, দেবতাদের প্রধান, তাঁদের মাঝে দণ্ডায়মান।",
+    "festivals": "তৈ অমাবাস্যার (জানুয়ারি–ফেব্রুয়ারি) পরদিন মন্দিরটি গরুড় সেবায় যোগ দেয়, যখন এর উৎসবর মাধব পেরুমালকে গরুড় বাহনে তিরুমণিমডমে নিয়ে গিয়ে তিরুনাঙ্গুরের অন্যান্য প্রভুদের সঙ্গে মিলিত করা হয়। তিরুমঙ্গই আলবার মঙ্গলাশাসন উৎসবমে স্তোত্রগুলি স্মরণ করা হয়। ঐতিহ্য বলে, এগারোটিকে একসঙ্গে দর্শন করলে প্রত্যেকটিকে পৃথকভাবে দর্শন করার সমান পুণ্য হয়।",
+    "experience": "একটি ছোট গ্রাম্য মন্দির যা ধীরস্থির ভ্রমণে পুরস্কৃত করে: পূর্বমুখী প্রভুর সামনে দাঁড়ান, তারপর মাধব পেরুমাল ও তাঁর সহধর্মিণীর উৎসব মূর্তি দর্শনের অনুরোধ করুন। কীঝ়চালই তিরুনাঙ্গুরের কাছে, সিরকাঝ়ি থেকে প্রায় ১০ কিমি সড়কপথে, এবং একদিনেই অন্যান্য তিরুপতির সঙ্গে সহজে যুক্ত করা যায়।"
   },
   "visit": {
-    "timings": "Darshan is generally held in morning and evening sessions with a midday break; the Garuda Sevai day is by far the busiest. Confirm timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirunangur lies about 10 km by road south-east of Sirkazhi (Sirkali) in Mayiladuthurai district. Sirkazhi, on the Chennai–Mayiladuthurai railway line, is the nearest station, and Tiruchirappalli, about 160 km away, the nearest major airport. Auto-rickshaws and taxis from Sirkazhi reach the village; the eleven shrines lie among paddy fields close to one another."
+    "timings": "সাধারণত সকাল ও সন্ধ্যার দর্শন সময়ে মধ্যাহ্নের বিরতিসহ পরিচালিত হয়; গরুড় সেবার দিনটি সর্বাধিক ব্যস্ত। যাওয়ার আগে স্থানীয়ভাবে সময় যাচাই করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "তিরুনাঙ্গুর মায়িলাড়ুতুরই জেলার সিরকাঝ়ি (সিরকালি) থেকে সড়কপথে প্রায় ১০ কিমি দক্ষিণ-পূর্বে অবস্থিত। চেন্নাই–মায়িলাড়ুতুরই রেলপথে সিরকাঝ়ি নিকটতম স্টেশন, এবং প্রায় ১৬০ কিমি দূরে তিরুচিরাপল্লি নিকটতম বড় বিমানবন্দর। সিরকাঝ়ি থেকে অটোরিকশা ও ট্যাক্সি গ্রামে পৌঁছায়; এগারোটি মন্দির ধানখেতের মাঝে একে অপরের কাছাকাছি অবস্থিত।"
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "gopalakrishna-kavalampadi",
   "locale": "bn",
+  "name": "গোপালকৃষ্ণ পেরুমাল মন্দির, তিরুক্কাবলম্পাড়ি",
   "nativeName": "கோபாலகிருஷ்ணப் பெருமாள் கோயில், திருக்காவளம்பாடி",
+  "deity": "বিষ্ণু গোপালকৃষ্ণন রূপে, রুক্মিণী ও সত্যভামা সহ; ঠায়ার মাধবরল মঙ্গৈ (সেঙ্গমল নাচিয়ার) নামেও আহূত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirukkavalampadi (Thirunangur)",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কাবলম্পাড়ি (তিরুনাঙ্গুর)",
+    "state": "তামিলনাড়ু",
     "lat": 11.1806,
     "lng": 79.7836
   },
+  "period": "চোল দেশের একটি দিব্যদেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত তিরুনাঙ্গুরের এগারোটি মন্দিরের অন্যতম",
   "century": 8,
+  "dynasty": "চোল দেশ (পরবর্তী পৃষ্ঠপোষক)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "তিরুনাঙ্গুরের তিরুক্কাবলম্পাড়িতে বিষ্ণু গোপালকৃষ্ণন রূপে পূজিত, সেই প্রভু যিনি পারিজাত পৃথিবীতে এনেছিলেন — তিরুনাঙ্গুরের এগারোটি দিব্যদেশমের অন্যতম, তিরুমঙ্গৈ আলবার কর্তৃক স্তুত।",
   "sections": {
-    "history": "Thirukkavalampadi is one of the eleven Thirunangur Tirupathis, a cluster of Vishnu temples in and around Thirunangur village in Sirkazhi taluk, about 10 km by road south-south-east of Sirkazhi. Each of the eleven is one of the 108 Divya Desams — the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham — in Chola Nadu, and all were sung by Thirumangai Alvar in the Periya Thirumozhi. The presiding lord here is Gopalakrishnan, Krishna, with Rukmini and Satyabhama; sources also name the Thayar as Madavaral Mangai or Sengamala Nachiyar. Its age rests on the Alvar's hymns.",
-    "architecture": "The temple follows the Dravidian plan of the Chola country, with the lord enshrined as Gopalakrishnan beside his consorts Rukmini and Satyabhama. The shrine's identity is bound to its legend of the Parijata, which gives the village its name.",
-    "legends": "The sthala purana links the name to the Parijata, the flowering tree of Indra's garden. Satyabhama longed for it; Indra refused, and Krishna laid waste the garden — kavalam, from the word for a garden — and brought the Parijata to earth, hence Thirukkavalampadi. Another reading takes kavalam to mean an elephant and padi a grazing ground. The eleven Thirunangur temples share a legend: when Shiva's grief became a wild dance, he multiplied into eleven Rudras, and Vishnu, at his request, appeared in eleven forms, each enshrined in a separate temple.",
-    "festivals": "The great occasion is the Thirumangai Alvar Mangalasasana Utsavam in the month of Thai (January–February). On or around the day after Thai Amavasai, the eleven festival images come on Garuda vahanas to Thirunangur, to the Manimadam temple, a Garuda Sevai at which seeing all eleven together is held equal to visiting each.",
-    "experience": "A village shrine set in the paddy country east of Sirkazhi, best visited as part of the Thirunangur circuit of eleven. Pilgrims often time the journey for the Garuda Sevai of Thai, when the eleven lords gather; at other times ask the priests about the Parijata legend and the Alvar's hymns."
+    "history": "তিরুক্কাবলম্পাড়ি হল এগারোটি তিরুনাঙ্গুর তিরুপতির অন্যতম, সিরকালি তালুকের তিরুনাঙ্গুর গ্রাম ও তার আশপাশের একগুচ্ছ বিষ্ণুমন্দির, সিরকালি থেকে সড়কপথে প্রায় ১০ কিমি দক্ষিণ-দক্ষিণ-পূর্বে। এগারোটির প্রত্যেকটি ১০৮টি দিব্যদেশমের একটি — নালায়িরা দিব্য প্রবন্ধমে আলবার সন্তদের দ্বারা স্তুত বিষ্ণুর ধামসমূহ — চোল নাড়ুতে, এবং সবগুলিই পেরিয় তিরুমলিতে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত। এখানকার প্রধান প্রভু গোপালকৃষ্ণন, কৃষ্ণ, রুক্মিণী ও সত্যভামা সহ; সূত্রগুলি ঠায়ারকে মাধবরল মঙ্গৈ বা সেঙ্গমল নাচিয়ার নামেও উল্লেখ করে। এর প্রাচীনত্ব আলবারের স্তোত্রের উপর নির্ভর করে।",
+    "architecture": "মন্দিরটি চোল দেশের দ্রাবিড় পরিকল্পনা অনুসরণ করে, প্রভু গোপালকৃষ্ণন রূপে তাঁর সঙ্গিনী রুক্মিণী ও সত্যভামার পাশে প্রতিষ্ঠিত। মন্দিরের পরিচয় পারিজাতের কিংবদন্তির সঙ্গে বাঁধা, যা গ্রামটিকে তার নাম দেয়।",
+    "legends": "স্থল পুরাণ নামটিকে পারিজাতের সঙ্গে যুক্ত করে, ইন্দ্রের বাগানের পুষ্পবৃক্ষ। সত্যভামা তার আকাঙ্ক্ষা করেন; ইন্দ্র প্রত্যাখ্যান করেন, এবং কৃষ্ণ বাগানটি ধ্বংস করেন — কাবলম, বাগানের শব্দ থেকে — এবং পারিজাত পৃথিবীতে আনেন, তাই তিরুক্কাবলম্পাড়ি। অন্য ব্যাখ্যায় কাবলম অর্থ হাতি ও পাড়ি অর্থ চারণভূমি। এগারোটি তিরুনাঙ্গুর মন্দির একটি কিংবদন্তি ভাগ করে নেয়: যখন শিবের শোক এক উন্মত্ত নৃত্যে পরিণত হল, তিনি এগারো রুদ্রে বিভক্ত হলেন, এবং বিষ্ণু, তাঁর অনুরোধে, এগারো রূপে আবির্ভূত হলেন, প্রতিটি একটি পৃথক মন্দিরে প্রতিষ্ঠিত।",
+    "festivals": "মহান উপলক্ষ হল তৈ মাসে (জানুয়ারি–ফেব্রুয়ারি) তিরুমঙ্গৈ আলবার মঙ্গলাসাসন উৎসবম। তৈ অমাবস্যার পরদিন বা তার কাছাকাছি, এগারোটি উৎসবমূর্তি গরুড় বাহনে তিরুনাঙ্গুরের মণিমাডম মন্দিরে আসে, একটি গরুড় সেবৈ যেখানে এগারোটিকে একসঙ্গে দেখা প্রত্যেকটি দর্শনের সমান বলে ধরা হয়।",
+    "experience": "সিরকালির পূর্বে ধানক্ষেতের মধ্যে অবস্থিত এক গ্রাম্য মন্দির, এগারোটি তিরুনাঙ্গুর যাত্রার অংশ হিসেবে দর্শন করাই শ্রেয়। তীর্থযাত্রীরা প্রায়ই তৈ মাসের গরুড় সেবৈর জন্য যাত্রার সময় স্থির করেন, যখন এগারো প্রভু সমবেত হন; অন্য সময়ে পুরোহিতদের কাছে পারিজাত কিংবদন্তি ও আলবারের স্তোত্র সম্পর্কে জিজ্ঞাসা করুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukkavalampadi is in the Thirunangur group, about 10 km by road south-east of Sirkazhi in Mayiladuthurai district. The nearest railhead is Sirkazhi, on the Chennai–Mayiladuthurai line; the nearest major airport is Tiruchirappalli, about 160 km away."
+    "timings": "সকাল ও সন্ধ্যার দর্শন-পর্বসহ প্রতিদিন খোলা এবং মধ্যাহ্নে বন্ধ; যাওয়ার আগে স্থানীয়ভাবে বর্তমান সময়সূচি যাচাই করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খোলা। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুক্কাবলম্পাড়ি তিরুনাঙ্গুর দলে, মায়িলাডুতুরৈ জেলার সিরকালি থেকে সড়কপথে প্রায় ১০ কিমি দক্ষিণ-পূর্বে। নিকটতম রেলস্থান সিরকালি, চেন্নাই–মায়িলাডুতুরৈ রেলপথে; নিকটতম প্রধান বিমানবন্দর তিরুচিরাপল্লী, প্রায় ১৬০ কিমি দূরে।"
   }
 }

@@ -1,31 +1,38 @@
 {
   "id": "brahmasirakandeeswarar-thirukandiyur",
   "locale": "bn",
+  "name": "ব্রহ্মসিরকণ্ডীশ্বরর মন্দির, তিরুক্কণ্ডিয়ূর",
   "nativeName": "பிரம்மசிரகண்டீஸ்வரர் கோயில், திருக்கண்டியூர்",
+  "deity": "ব্রহ্মসিরকণ্ডীশ্বরর (বীরট্টানেশ্বরর) রূপে শিব, দেবী মঙ্গলনায়কীর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thirukandiyur",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কণ্ডিয়ূর",
+    "state": "তামিলনাড়ু",
     "lat": 10.86,
     "lng": 79.108
   },
+  "period": "সপ্ত স্থানমের পঞ্চম মন্দির ও অষ্ট বীরট্টানমের একটি; তেবারমে গীত (সপ্তম শতাব্দী), দশম শতাব্দীর চোল শিলালিপি-সহ",
   "century": 7,
+  "dynasty": "চোল, পরবর্তী নায়ক ও মারাঠা পৃষ্ঠপোষকতা-সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "saptha-sthanam",
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুক্কণ্ডিয়ূরে শিব সেই বীরট্টানেশ্বরর যিনি ব্রহ্মার অহংকার দমন করতে তাঁর পঞ্চম মস্তক ছেদন করেছিলেন: আটটি অষ্ট বীরট্টানমের একটি, এবং সপ্ত স্থানম শোভাযাত্রার পঞ্চম মন্দির।",
   "sections": {
-    "history": "Thirukandiyur lies on the road between Thanjavur and Thiruvaiyaru, a few kilometres south of Thiruvaiyaru, and it is home to two temples bound by one story: this Shiva shrine and, a short walk away, the Vishnu temple of Hara Saba Vimochana Perumal, a Divya Desam. Appar and Sambandar sang of the lord here, so the Shiva temple is a Paadal Petra Sthalam. An inscription of the Chola king Uttama Chola on the north wall of the central shrine shows that the temple was already receiving royal gifts in the tenth century, and later Chola, Thanjavur Nayak and Maratha rulers added endowments of their own.",
-    "architecture": "The temple is a Chola stone shrine enclosed by later walls and mandapams, with the sanctum of Brahma Sirakandeeswarar at its heart and a separate shrine for the goddess Mangalanayaki. Unusually for a Shiva temple, images of Brahma and Saraswati stand within the complex, outside the main sanctum; tradition says they were brought here when an older Brahma temple nearby fell into ruin. Brahma is seated with palms joined in prayer, holding a flower and a rudraksha rosary, as though still seeking pardon.",
-    "legends": "The sthala purana tells that Brahma, proud of his five heads, was once mistaken for Shiva and accepted an honour that was not his. To humble that pride, Shiva struck off his fifth head, a deed counted among the eight heroic acts remembered at the Ashta Veerattanams, and it gives the lord his name: Brahma Sirakandeeswarar, the lord who severed Brahma's head. The skull clung to Shiva's hand until it fell away at Thirukandiyur, and the nearby Vishnu temple tells the same story from its own side.",
-    "festivals": "In the Saptha Sthanam festival of Chithirai (April–May), Thirukandiyur is the fifth temple on the route, after Thiruvedhikudi, and its deities join the procession in their own glass palanquin. Tradition holds that the village provided ornaments for Nandi's wedding. Maha Shivaratri and the monthly Pradosham are kept through the year. Confirm dates locally.",
-    "experience": "Thirukandiyur rewards a visit to both its temples. Come first to Brahma Sirakandeeswarar, pause before the rare images of Brahma and Saraswati, and then walk the few hundred metres to the Vishnu temple, where the story of the severed head finds its ending. Pilgrims on the round of the eight Veerattanams come here too, and because it stands on the main road it is the easiest of the seven Saptha Sthanam temples to reach."
+    "history": "তিরুক্কণ্ডিয়ূর তাঞ্জাভূর ও তিরুবৈয়ারুর মধ্যবর্তী সড়কে, তিরুবৈয়ারুর কয়েক কিলোমিটার দক্ষিণে অবস্থিত, এবং এখানে একটি কাহিনিতে বাঁধা দুটি মন্দির আছে: এই শিব মন্দির এবং অল্প দূরে বিষ্ণুর মন্দির হর সভা বিমোচন পেরুমাল, একটি দিব্য দেশম। অপ্পর ও সম্বন্দর এখানকার প্রভুর স্তুতি গেয়েছিলেন, তাই শিব মন্দিরটি একটি পাডল পেট্র স্থলম। কেন্দ্রীয় মন্দিরের উত্তর দেওয়ালে চোল রাজা উত্তম চোলের একটি শিলালিপি দেখায় যে মন্দিরটি দশম শতাব্দীতেই রাজকীয় দান পেয়ে আসছিল, এবং পরবর্তী চোল, তাঞ্জাভূর নায়ক ও মারাঠা শাসকরা নিজেদের দান যোগ করেছিলেন।",
+    "architecture": "মন্দিরটি একটি চোল পাথরের মন্দির, যা পরবর্তী প্রাচীর ও মণ্ডপ দ্বারা ঘেরা, এর কেন্দ্রে ব্রহ্মসিরকণ্ডীশ্বররের গর্ভগৃহ এবং দেবী মঙ্গলনায়কীর জন্য একটি পৃথক মন্দির। একটি শিব মন্দিরের পক্ষে অস্বাভাবিকভাবে, ব্রহ্মা ও সরস্বতীর মূর্তি মূল গর্ভগৃহের বাইরে চত্বরের ভিতরে দাঁড়িয়ে আছে; প্রথা বলে কাছের একটি পুরনো ব্রহ্মা মন্দির জীর্ণ হয়ে পড়লে এগুলি এখানে আনা হয়েছিল। ব্রহ্মা করজোড়ে প্রার্থনারত অবস্থায় উপবিষ্ট, হাতে একটি ফুল ও একটি রুদ্রাক্ষের মালা, যেন এখনও ক্ষমা প্রার্থনা করছেন।",
+    "legends": "স্থল পুরাণ বলে যে ব্রহ্মা, তাঁর পাঁচটি মস্তকের জন্য গর্বিত, একবার শিব বলে ভুল হওয়ায় এমন সম্মান গ্রহণ করেছিলেন যা তাঁর প্রাপ্য ছিল না। সেই অহংকার দমন করতে শিব তাঁর পঞ্চম মস্তক ছেদন করেন, যে কাজ অষ্ট বীরট্টানমে স্মরিত আটটি বীরকীর্তির মধ্যে গণ্য, এবং এটিই প্রভুকে তাঁর নাম দেয়: ব্রহ্মসিরকণ্ডীশ্বরর, সেই প্রভু যিনি ব্রহ্মার মস্তক ছেদন করেছিলেন। কপালটি শিবের হাতে লেগে ছিল যতক্ষণ না তিরুক্কণ্ডিয়ূরে তা খসে পড়ে, এবং কাছের বিষ্ণু মন্দির একই কাহিনি নিজের দিক থেকে বলে।",
+    "festivals": "চিত্তিরৈ (এপ্রিল–মে) মাসের সপ্ত স্থানম উৎসবে তিরুক্কণ্ডিয়ূর তিরুবেদিকুড়ির পরে পথের পঞ্চম মন্দির, এবং এর দেবতারা নিজেদের কাচের পালকিতে শোভাযাত্রায় যোগ দেন। প্রথা মতে গ্রামটি নন্দীর বিবাহের জন্য অলংকার জুগিয়েছিল। মহাশিবরাত্রি ও মাসিক প্রদোষম সারা বছর পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "তিরুক্কণ্ডিয়ূর উভয় মন্দিরে দর্শনের জন্য পরিতৃপ্তিদায়ক। প্রথমে ব্রহ্মসিরকণ্ডীশ্বররের কাছে আসুন, ব্রহ্মা ও সরস্বতীর দুর্লভ মূর্তিগুলির সামনে একটু থামুন, তারপর কয়েকশো মিটার হেঁটে বিষ্ণু মন্দিরে যান, যেখানে ছিন্ন মস্তকের কাহিনি তার পরিসমাপ্তি পায়। আটটি বীরট্টানমের পরিক্রমায় তীর্থযাত্রীরাও এখানে আসেন, এবং এটি মূল সড়কে অবস্থিত বলে সাতটি সপ্ত স্থানম মন্দিরের মধ্যে সবচেয়ে সহজে পৌঁছানো যায়।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thirukandiyur is on the Thanjavur–Thiruvaiyaru road, about 3 km south of Thiruvaiyaru and roughly 10 km from Thanjavur, and town buses between the two stop here. Thanjavur is the nearest major railway station, and Tiruchirappalli International Airport, around 60 km away, is the nearest airport. The Hara Saba Vimochana Perumal temple is a short walk away."
+    "timings": "সাধারণত সকালে এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত, দুপুরে বিরতি দিয়ে খোলা থাকে; সময়সূচি স্থানীয়ভাবে, বিশেষত উৎসবের দিনে, নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা থাকা উচিত। প্রবেশপথের কাউন্টারে জুতো রেখে দিতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে বাইরের প্রদক্ষিণপথ ও প্রাঙ্গণে সাধারণত ছবি তোলার অনুমতি আছে, তবে ভিতরের গর্ভগৃহে কঠোরভাবে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুক্কণ্ডিয়ূর তাঞ্জাভূর–তিরুবৈয়ারু সড়কে, তিরুবৈয়ারুর প্রায় ৩ কিমি দক্ষিণে এবং তাঞ্জাভূর থেকে প্রায় ১০ কিমি দূরে অবস্থিত, এবং দুই শহরের মধ্যে চলা শহর-বাসগুলি এখানে থামে। তাঞ্জাভূর নিকটতম প্রধান রেলস্টেশন, এবং প্রায় ৬০ কিমি দূরের তিরুচিরাপল্লি আন্তর্জাতিক বিমানবন্দর নিকটতম বিমানবন্দর। হর সভা বিমোচন পেরুমাল মন্দির অল্প দূরে হাঁটাপথে।"
   }
 }

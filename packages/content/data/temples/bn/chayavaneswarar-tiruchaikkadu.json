@@ -1,29 +1,36 @@
 {
   "id": "chayavaneswarar-tiruchaikkadu",
   "locale": "bn",
+  "name": "ছায়াবনেশ্বরর মন্দির, তিরুচ্চায়ক্কাড়ু",
   "nativeName": "திருச்சாய்க்காடு சாயாவனேஸ்வரர் கோயில்",
+  "deity": "ছায়াবনেশ্বরর (সায়বনেশ্বরর) রূপে শিব, দেবী কুয়িলিনুম নন্মোড়ি অম্মাইয়ের সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Sayavanam",
-    "state": "Tamil Nadu",
+    "city": "সায়বনম",
+    "state": "তামিলনাড়ু",
     "lat": 11.13056,
     "lng": 79.79
   },
+  "period": "কাবেরীর সমুদ্রে মিলনস্থলের কাছে প্রাচীন শৈব মন্দির, তেবারমে গীত (সপ্তম শতাব্দী); মধ্যযুগীয় চোল কালের কাঠামোগত মন্দির, পরবর্তী মারাঠা সংযোজন-সহ",
   "century": 7,
+  "dynasty": "মধ্যযুগীয় চোল, পরবর্তী মারাঠা সংযোজন-সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "সায়বনমের ছায়াবনেশ্বরর মন্দির, তেবারমের তিরুচ্চায়ক্কাড়ু, পূম্পুহারের কাছে একটি উপকূলীয় কুঞ্জে দাঁড়িয়ে আছে এবং সেই দেবীর কাহিনি ধরে রাখে যাঁর কণ্ঠস্বর, কোকিলের চেয়েও মধুর, দেবরাজকে সমগ্র মন্দির বয়ে নিয়ে যাওয়া থেকে থামিয়ে দিয়েছিল।",
   "sections": {
-    "history": "Sayavanam lies in the old Chola country on the northern bank of the Kaveri, a short distance from Poompuhar where the river reaches the sea. In the Tevaram hymns the place is called Tiruchaikkadu, and both Sambandar and Appar sang its Lord, which makes the temple a Paadal Petra Sthalam. The name remembers a forest of saya grass, the korai reed of the Tamil country, that once covered the land. Tradition counts Sayavanam among the six Kaveri shrines held equal to Kasi, together with Tiruvaiyaru, Mayiladuthurai, Tiruvidaimarudur, Tiruvenkadu and Tiruvanchiyam. The present stone temple belongs to the medieval Chola period, with covered halls added later under the Marathas; local tradition credits the early Chola king Kochengat Chola with the first foundation.",
-    "architecture": "The temple faces east beneath a three-tiered rajagopuram, and above the sanctum rises a vimana that is described as octagonal in plan, a form less often seen in the Chola country. Within the sanctum stands the linga of Chayavaneswarar, and the goddess Kuyilinum Nanmozhi Ammai is honoured in her own shrine. The corridors and mandapas around the courtyard are largely the work of the later Maratha period. In the outer circuit are a shrine to the Nayanar saint Iyarpagai and his wife and a shrine to the three great Tevaram saints. Murugan is shown here with bow and arrow rather than the usual spear. The temple has two sacred waters, the Kaveri itself and the Airavata Teertham.",
-    "legends": "The great legend of Sayavanam concerns Indra, king of the gods. His mother Aditi had come down to earth to worship Chayavaneswarar and did not return. Searching for her, Indra found her at the temple and, resolved to uproot the whole temple and carry it away to his own realm on his white elephant Airavata. As the great beast began to dig in its tusks, the goddess spoke, and her voice was sweeter than the song of the nightingale; from this she is called Kuyilinum Nanmozhi Ammai, the mother whose words are sweeter than the kuyil's. Shiva then appeared before Indra and told him to give up his plan. The pool made where the elephant's tusks struck the earth is the Airavata Teertham.",
-    "festivals": "The temple keeps the yearly cycle of Shaiva worship. Maha Shivaratri is observed with night-long worship, and the monthly Pradosham draws devotees at dusk, the hour dear to Shiva. The temple's utsavams follow the Tamil calendar, and the tradition of bathing in the Kaveri and the Airavata Teertham gives particular meaning to the days of festival. Specific festival dates and processions are not recorded in the sources we could verify, so please confirm them locally.",
-    "experience": "Sayavanam is a place for unhurried pilgrimage. Approach the east gate, pass beneath the gopuram, and stand before Chayavaneswarar before turning to the goddess whose name speaks of a sweet voice. Walk the outer circuit to see the shrines of Iyarpagai Nayanar and of the three saints, and look at Murugan with his bow. Many pilgrims visit the Airavata Teertham and pause to remember Indra's attempt and the Lord's gentle refusal. The temple lies only a few kilometres from Poompuhar and the sea, so it is easily visited together with the shrines of that coast, and the setting among fields and coconut groves has a calm of its own."
+    "history": "সায়বনম পুরনো চোল অঞ্চলে কাবেরীর উত্তর তীরে, পূম্পুহার থেকে অল্প দূরে অবস্থিত, যেখানে নদী সমুদ্রে পৌঁছায়। তেবারম স্তোত্রে স্থানটিকে তিরুচ্চায়ক্কাড়ু বলা হয়েছে, এবং সম্বন্দর ও অপ্পর উভয়েই এর প্রভুর স্তুতি গেয়েছিলেন, যা মন্দিরটিকে একটি পাডল পেট্র স্থলম করে তোলে। নামটি সায়া ঘাসের একটি অরণ্যের স্মৃতি বহন করে, তামিল অঞ্চলের কোরৈ নলখাগড়া, যা একসময় ভূমি ঢেকে রেখেছিল। প্রথা সায়বনমকে কাশীর সমতুল্য ছয়টি কাবেরী মন্দিরের মধ্যে গণ্য করে, তিরুবৈয়ারু, ময়িলাড়ুতুরাই, তিরুবিডৈমরুদূর, তিরুবেঙ্কাড়ু ও তিরুবাঞ্চিয়মের সঙ্গে। বর্তমান পাথরের মন্দিরটি মধ্যযুগীয় চোল কালের, পরবর্তীকালে মারাঠাদের অধীনে ঢাকা মণ্ডপ যোগ হয়েছিল; স্থানীয় প্রথা আদি চোল রাজা কোচেঙ্গত চোলকে প্রথম প্রতিষ্ঠার কৃতিত্ব দেয়।",
+    "architecture": "মন্দিরটি তিন স্তরবিশিষ্ট রাজগোপুরমের নিচে পূর্বমুখী, এবং গর্ভগৃহের উপরে একটি বিমান ওঠে যা পরিকল্পনায় অষ্টভুজাকার বলে বর্ণিত, চোল অঞ্চলে কম দেখা যায় এমন একটি রূপ। গর্ভগৃহের ভিতরে ছায়াবনেশ্বররের লিঙ্গ দাঁড়িয়ে আছে, এবং দেবী কুয়িলিনুম নন্মোড়ি অম্মাই তাঁর নিজের মন্দিরে সম্মানিত। প্রাঙ্গণের চারপাশের প্রদক্ষিণপথ ও মণ্ডপগুলি মূলত পরবর্তী মারাঠা কালের কাজ। বাইরের পরিক্রমায় নায়ন্মার সন্ত ইয়র্পগৈ ও তাঁর স্ত্রীর একটি মন্দির এবং তিন মহান তেবারম সন্তের একটি মন্দির আছে। এখানে মুরুগনকে স্বাভাবিক বর্শার বদলে ধনুর্বাণ-সহ দেখানো হয়েছে। মন্দিরের দুটি পবিত্র জলাশয় আছে, কাবেরী নিজে এবং ঐরাবত তীর্থম।",
+    "legends": "সায়বনমের মহান কিংবদন্তি দেবরাজ ইন্দ্রকে নিয়ে। তাঁর মাতা অদিতি ছায়াবনেশ্বরকে পূজা করতে পৃথিবীতে নেমে এসেছিলেন এবং ফেরেননি। তাঁর খোঁজে ইন্দ্র মন্দিরে তাঁকে খুঁজে পেয়ে সমগ্র মন্দির উপড়ে তাঁর শ্বেত হস্তী ঐরাবতের উপর নিজের রাজ্যে বয়ে নিয়ে যাওয়ার সংকল্প করেন। মহান প্রাণীটি যখন তার দাঁত মাটিতে গেঁথতে শুরু করল, দেবী কথা বললেন, এবং তাঁর কণ্ঠস্বর ছিল কোকিলের গানের চেয়েও মধুর; এ থেকেই তাঁকে কুয়িলিনুম নন্মোড়ি অম্মাই বলা হয়, সেই মাতা যাঁর বাণী কুয়িলের চেয়েও মধুর। তখন শিব ইন্দ্রের সম্মুখে আবির্ভূত হয়ে তাঁকে তাঁর পরিকল্পনা ত্যাগ করতে বলেন। হস্তীর দাঁত যেখানে মাটিতে আঘাত করেছিল সেখানে সৃষ্ট জলাশয়টি হল ঐরাবত তীর্থম।",
+    "festivals": "মন্দির শৈব পূজার বার্ষিক চক্র পালন করে। মহাশিবরাত্রি সারারাত পূজায় পালিত হয়, এবং মাসিক প্রদোষম সন্ধ্যায় ভক্তদের টানে, শিবের প্রিয় প্রহর। মন্দিরের উৎসবগুলি তামিল পঞ্জিকা অনুসরণ করে, এবং কাবেরী ও ঐরাবত তীর্থমে স্নানের প্রথা উৎসবের দিনগুলিকে বিশেষ অর্থ দেয়। আমরা যাচাই করতে পেরেছি এমন সূত্রে নির্দিষ্ট উৎসবের তারিখ ও শোভাযাত্রা লিপিবদ্ধ নেই, তাই দয়া করে স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "সায়বনম অবকাশে তীর্থযাত্রার স্থান। পূর্বদিকের তোরণের কাছে যান, গোপুরমের নিচ দিয়ে পেরিয়ে ছায়াবনেশ্বররের সম্মুখে দাঁড়ান, তারপর সেই দেবীর দিকে ফিরুন যাঁর নাম মধুর কণ্ঠের কথা বলে। বাইরের পরিক্রমা হেঁটে ইয়র্পগৈ নায়নার ও তিন সন্তের মন্দির দেখুন, এবং ধনুর্বাণ-সহ মুরুগনকে দেখুন। অনেক তীর্থযাত্রী ঐরাবত তীর্থমে যান এবং ইন্দ্রের চেষ্টা ও প্রভুর কোমল প্রত্যাখ্যান স্মরণ করতে থামেন। মন্দিরটি পূম্পুহার ও সমুদ্র থেকে মাত্র কয়েক কিলোমিটার দূরে, তাই সেই উপকূলের মন্দিরগুলির সঙ্গে একে সহজে দর্শন করা যায়, এবং মাঠ ও নারকেল কুঞ্জের মধ্যে এর পরিবেশের নিজস্ব এক প্রশান্তি আছে।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but not inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask the priest before photographing rituals or worshippers.",
-    "gettingThere": "Sayavanam is about 17 km from Sirkazhi and about 20 km from Mayiladuthurai, both of which have railway stations, and roughly 2 km from the coast and the Poompuhar estuary. Buses run along the Sirkazhi to Poompuhar road. Tiruchirappalli is the nearest major airport, a long road journey away, so most pilgrims arrive by road or rail via Sirkazhi or Mayiladuthurai."
+    "timings": "সাধারণত সকালে এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত, দুপুরে বিরতি দিয়ে খোলা থাকে; সময়সূচি স্থানীয়ভাবে, বিশেষত উৎসবের দিনে, নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা থাকা উচিত। প্রবেশপথের বাইরে জুতো রেখে দিতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে বাইরের প্রদক্ষিণপথ ও প্রাঙ্গণে সাধারণত ছবি তোলার অনুমতি আছে, তবে ভিতরের গর্ভগৃহে নয়। আচার-অনুষ্ঠান বা ভক্তদের ছবি তোলার আগে পুরোহিতকে জিজ্ঞাসা করুন।",
+    "gettingThere": "সায়বনম সীর্কড়ি থেকে প্রায় ১৭ কিমি এবং ময়িলাড়ুতুরাই থেকে প্রায় ২০ কিমি দূরে, উভয়েরই রেলস্টেশন আছে, এবং উপকূল ও পূম্পুহার মোহনা থেকে প্রায় ২ কিমি দূরে। সীর্কড়ি থেকে পূম্পুহার সড়ক ধরে বাস চলাচল করে। তিরুচিরাপল্লি নিকটতম প্রধান বিমানবন্দর, দীর্ঘ সড়কপথ দূরে, তাই অধিকাংশ তীর্থযাত্রী সীর্কড়ি বা ময়িলাড়ুতুরাই হয়ে সড়ক বা রেলপথে আসেন।"
   }
 }

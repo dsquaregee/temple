@@ -1,29 +1,36 @@
 {
   "id": "dhenupureeswarar-patteeswaram",
   "locale": "bn",
+  "name": "ধেনুপুরীশ্বরর মন্দির, পট্টীশ্বরম",
   "nativeName": "தேனுபுரீஸ்வரர் கோயில்",
+  "deity": "শিব ধেনুপুরীশ্বরর রূপে, দেবী জ্ঞানাম্বিকৈ সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Patteeswaram",
-    "state": "Tamil Nadu",
+    "city": "পট্টীশ্বরম",
+    "state": "তামিলনাড়ু",
     "lat": 10.9436,
     "lng": 79.3348
   },
+  "period": "কুম্বকোণম অঞ্চলের প্রাচীন শৈব মন্দির, তেবারমে স্তুত (সপ্তম শতাব্দী), চোল ও পরবর্তী স্থাপত্যকর্মসহ",
   "century": 7,
+  "dynasty": "চোল ও পরবর্তী তামিল পৃষ্ঠপোষকগণ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণমের কাছে পট্টীশ্বরমে শিব ধেনুপুরীশ্বরর, কামধেনুর বাছুর পট্টির দ্বারা পূজিত, যে গ্রামকে তার নাম দিয়েছিল; মন্দিরটি তার মহিমান্বিত দণ্ডায়মান দুর্গা মন্দিরের জন্যও সমান খ্যাত।",
   "sections": {
-    "history": "Patteeswaram is an old Shaiva village in the fertile Kaveri delta south-west of Kumbakonam, and its temple is a Paadal Petra Sthalam praised in the hymns of Thirugnana Sambandar. The town takes its name from Patti, the calf of the divine cow Kamadhenu, whose worship of the Lord here is remembered in the sthala purana. Enlarged in stone under the Cholas and their successors, the temple grew into a substantial complex with a tall gopuram and spacious courtyards. It is counted among the temples associated with the Kumbakonam Mahamaham cluster and has remained a living centre of Shiva and Devi worship through the centuries.",
-    "architecture": "The temple is entered through a towering gopuram and spreads across broad prakara courtyards in the Dravidian manner. The sanctum houses the Shiva linga of Dhenupureeswarar, with the goddess Gnanambikai in her own shrine. The temple is above all celebrated for its shrine of Durga, where the goddess stands in a graceful eight-armed form, flanked by guardians, and is worshipped as one of the most beautiful Durga images of the delta. Pillared halls, a temple tank, and sculpted mandapams complete the complex.",
-    "legends": "The sthala purana tells that Kamadhenu, the celestial wish-granting cow, had daughters, and that her calf Patti came to this place to worship Shiva. Fashioning a linga of sand on the bank, Patti bathed it in her own milk, and the Lord accepted that devotion and stayed in the linga; from Patti the village became Patteeswaram and the Lord Patteeswarar, also Dhenupureeswarar, the Lord of the cow's town. Tradition also holds that Parvati did penance here, served by Patti, before her union with Shiva.",
-    "festivals": "Maha Shivaratri, the Tamil month festivals, and the Durga-centred observances of the Navaratri season are kept with special fervour, given the fame of the standing Durga shrine. The monthly Pradosham and the car festival draw devotees from across the delta, and the Kumbakonam Mahamaham cycle is observed. Festival dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Pilgrims come to Patteeswaram as much for the goddess as for the Lord: many enter first to the celebrated standing Durga, then worship Dhenupureeswarar and Gnanambikai in the main shrines. The temple keeps the unhurried air of a delta village sanctuary, close to Kumbakonam and Swamimalai, and is often included in a day of temple visits around the Mahamaham town."
+    "history": "পট্টীশ্বরম কুম্বকোণমের দক্ষিণ-পশ্চিমে উর্বর কাবেরী ব-দ্বীপের একটি পুরনো শৈব গ্রাম, এবং এর মন্দির তিরুজ্ঞান সম্বন্দরের স্তোত্রে বন্দিত একটি পাদল পেত্র স্থলম। নগরটির নাম এসেছে পট্টি, দিব্য গাভী কামধেনুর বাছুর থেকে, যার এখানে প্রভুর উপাসনা স্থলপুরাণে স্মরণীয়। চোল ও তাঁদের উত্তরসূরিদের অধীনে পাথরে সম্প্রসারিত হয়ে মন্দিরটি একটি উঁচু গোপুরম ও প্রশস্ত প্রাঙ্গণসহ একটি বড় প্রাঙ্গণে পরিণত হয়। এটি কুম্বকোণম মহামঘম গুচ্ছের সঙ্গে যুক্ত মন্দিরগুলির মধ্যে গণ্য এবং শতাব্দীর পর শতাব্দী ধরে শিব ও দেবী উপাসনার জীবন্ত কেন্দ্র রয়ে গেছে।",
+    "architecture": "মন্দিরের প্রবেশপথ একটি উঁচু গোপুরমের মধ্য দিয়ে এবং দ্রাবিড় রীতিতে বিস্তৃত প্রাকার প্রাঙ্গণে ছড়িয়ে আছে। গর্ভগৃহে ধেনুপুরীশ্বররের শিবলিঙ্গ, দেবী জ্ঞানাম্বিকৈ তাঁর নিজস্ব মন্দিরে। মন্দিরটি সবচেয়ে বেশি খ্যাত তার দুর্গা মন্দিরের জন্য, যেখানে দেবী একটি অপূর্ব অষ্টভুজ রূপে দণ্ডায়মান, দুই পাশে রক্ষকসহ, এবং ব-দ্বীপের অন্যতম সুন্দর দুর্গামূর্তি রূপে পূজিত। স্তম্ভশোভিত মণ্ডপ, একটি মন্দির জলাশয় ও খোদাই করা মণ্ডপম প্রাঙ্গণটি সম্পূর্ণ করে।",
+    "legends": "স্থলপুরাণ বলে, দিব্য কামনাপূরণকারী গাভী কামধেনুর কন্যা ছিল, এবং তার বাছুর পট্টি এই স্থানে শিবের উপাসনা করতে এসেছিল। তীরে বালির একটি লিঙ্গ গড়ে পট্টি নিজের দুধে তা স্নান করায়, এবং প্রভু সেই ভক্তি গ্রহণ করে লিঙ্গে অবস্থান করলেন; পট্টি থেকে গ্রামটি পট্টীশ্বরম এবং প্রভু পট্টীশ্বরর, আবার ধেনুপুরীশ্বরর, গাভীর নগরের প্রভু হলেন। ঐতিহ্য আরও বলে যে পার্বতী শিবের সঙ্গে মিলনের আগে এখানে পট্টির সেবায় তপস্যা করেছিলেন।",
+    "festivals": "মহা শিবরাত্রি, তামিল মাসের উৎসব এবং নবরাত্রি ঋতুর দুর্গাকেন্দ্রিক আচার দণ্ডায়মান দুর্গা মন্দিরের খ্যাতির কারণে বিশেষ ভক্তিতে পালিত হয়। মাসিক প্রদোষম ও রথোৎসব ব-দ্বীপ জুড়ে ভক্ত টানে, এবং কুম্বকোণম মহামঘম চক্র পালিত হয়। উৎসবের তারিখ তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে যাচাই করুন।",
+    "experience": "তীর্থযাত্রীরা পট্টীশ্বরমে প্রভুর মতোই দেবীর জন্য আসেন: অনেকে প্রথমে বিখ্যাত দণ্ডায়মান দুর্গায় প্রবেশ করেন, তারপর মূল মন্দিরে ধেনুপুরীশ্বরর ও জ্ঞানাম্বিকৈর উপাসনা করেন। মন্দিরটি কুম্বকোণম ও স্বামিমালইয়ের কাছে একটি ব-দ্বীপ গ্রামের নিরুদ্বিগ্ন পরিবেশ রাখে, এবং প্রায়ই মহামঘম নগরের চারপাশে একদিনের মন্দির দর্শনে অন্তর্ভুক্ত করা হয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Patteeswaram lies about 9 km south-west of Kumbakonam and about 3 km south-east of Swamimalai in Thanjavur district. Kumbakonam is the nearest major railway station; Tiruchirappalli airport is about 90 km away. Local buses and autos run from Kumbakonam."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত ছবি তোলা যায়, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "পট্টীশ্বরম থাঞ্জাভুর জেলায় কুম্বকোণম থেকে প্রায় ৯ কিমি দক্ষিণ-পশ্চিমে এবং স্বামিমালই থেকে প্রায় ৩ কিমি দক্ষিণ-পূর্বে অবস্থিত। কুম্বকোণম নিকটতম বড় রেলস্টেশন; তিরুচিরাপল্লি বিমানবন্দর প্রায় ৯০ কিমি দূরে। কুম্বকোণম থেকে স্থানীয় বাস ও অটো চলে।"
   }
 }

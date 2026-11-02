@@ -1,28 +1,35 @@
 {
   "id": "bhadrachalam-rama",
   "locale": "bn",
+  "name": "শ্রী সীতা রামচন্দ্রস্বামী মন্দির, ভদ্রাচলম",
   "nativeName": "శ్రీ సీతా రామచంద్రస్వామి ఆలయం, భద్రాచలం",
+  "deity": "রাম বৈকুণ্ঠ রাম রূপে, সীতা ও লক্ষ্মণ-সহ, গোদাবরীর উপরে ভদ্র পাহাড়ে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Bhadrachalam",
-    "state": "Telangana",
+    "city": "ভদ্রাচলম",
+    "state": "তেলেঙ্গানা",
     "lat": 17.6688,
     "lng": 80.8889
   },
+  "period": "গোদাবরীর তীরে একটি রাম মন্দির, ভক্ত ভক্ত রামদাসু কর্তৃক নির্মিত, শ্রীরাম নবমীর বিবাহের জন্য প্রসিদ্ধ",
   "century": 17,
+  "dynasty": "কাঞ্চর্ল গোপান্না (ভক্ত রামদাসু) কর্তৃক ১৭শ শতাব্দীতে নির্মিত",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [],
+  "summary": "গোদাবরীর উপরে ভদ্র পাহাড়ে রাম সীতা ও লক্ষ্মণ-সহ পূজিত, ভক্ত রামদাসু কর্তৃক নির্মিত এক মন্দিরে—যেখানে প্রতি শ্রীরাম নবমীতে রাম ও সীতার দিব্য বিবাহ বিপুল জনসমক্ষে সম্পন্ন হয়।",
   "sections": {
-    "history": "Bhadrachalam stands on the Godavari in Telangana, on the hill named for Bhadra, a devotee who longed to bear Rama. The temple as it stands was built in the 17th century by Kancherla Gopanna — Bhakta Ramadasu — a revenue officer who used state funds for the shrine, was imprisoned, and whose songs to Rama remain beloved across the Telugu country.",
-    "architecture": "The temple rises on the hill above the river in the Dravidian manner, its sanctum holding Rama as Vaikunta Rama with Sita on his lap and Lakshmana at his side. The riverside setting and the hill of Bhadra frame the shrine.",
-    "legends": "Tradition tells that Bhadra, a devotee, prayed to carry Rama on his head; Rama, returning from the forest, is said to have appeared to him here as Vaikunta Rama. Ramadasu's imprisonment and release — by, it is sung, the intervention of Rama and Lakshmana themselves — is the temple's most cherished story.",
-    "festivals": "Sri Rama Navami is the supreme festival, when the Kalyanam — the wedding of Rama and Sita — is celebrated on a grand scale, drawing pilgrims from across the Telugus. The pearls and gifts sent for the wedding are a tradition of the day.",
-    "experience": "Bhadrachalam is the heart of Rama devotion in the Telugu land; to be present at the Sri Rama Navami Kalyanam, sung in Ramadasu's own verses, is among the great experiences of the region's faith."
+    "history": "ভদ্রাচলম তেলেঙ্গানায় গোদাবরীর তীরে অবস্থিত, ভদ্রের নামাঙ্কিত পাহাড়ে, যিনি ছিলেন এক ভক্ত যিনি রামকে বহন করার আকাঙ্ক্ষা করেছিলেন। বর্তমান মন্দিরটি ১৭শ শতাব্দীতে কাঞ্চর্ল গোপান্না—ভক্ত রামদাসু—কর্তৃক নির্মিত, যিনি একজন রাজস্ব কর্মকর্তা ছিলেন যিনি মন্দিরের জন্য রাজকোষের অর্থ ব্যবহার করেন, কারারুদ্ধ হন, এবং যাঁর রামের উদ্দেশে গানগুলি তেলুগু দেশ জুড়ে এখনও প্রিয়।",
+    "architecture": "মন্দিরটি দ্রাবিড় রীতিতে নদীর উপরে পাহাড়ে উঠেছে, এর গর্ভগৃহে রাম বৈকুণ্ঠ রাম রূপে, কোলে সীতা ও পাশে লক্ষ্মণ-সহ প্রতিষ্ঠিত। নদীতীরবর্তী পরিবেশ এবং ভদ্র পাহাড় মন্দিরটিকে আবৃত করে।",
+    "legends": "পরম্পরা বলে, ভদ্র, একজন ভক্ত, রামকে তাঁর মাথায় বহন করার জন্য প্রার্থনা করেছিলেন; রাম, অরণ্য থেকে ফেরার পথে, কথিত আছেন এখানে তাঁর কাছে বৈকুণ্ঠ রাম রূপে আবির্ভূত হয়েছিলেন। রামদাসুর কারাবাস ও মুক্তি—যা, গানে বলা হয়, স্বয়ং রাম ও লক্ষ্মণের হস্তক্ষেপে—মন্দিরের সর্বাধিক প্রিয় কাহিনি।",
+    "festivals": "শ্রীরাম নবমী সর্বোচ্চ উৎসব, যখন কল্যাণম—রাম ও সীতার বিবাহ—বিশাল পরিসরে উদযাপিত হয়, তেলুগুদের সর্বত্র থেকে তীর্থযাত্রী টেনে। বিবাহের জন্য পাঠানো মুক্তা ও উপহার দিনটির একটি পরম্পরা।",
+    "experience": "ভদ্রাচলম তেলুগু ভূমিতে রাম-ভক্তির হৃদয়; শ্রীরাম নবমীর কল্যাণমে উপস্থিত থাকা, যা রামদাসুর নিজস্ব পদে গীত হয়, অঞ্চলের বিশ্বাসের মহান অভিজ্ঞতাগুলির একটি।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday break; Sri Rama Navami is by far the busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Bhadrachalam lies on the Godavari in Bhadradri Kothagudem district of Telangana, reached by road from Hyderabad and Vijayawada, with the nearest railhead at Bhadrachalam Road (Kothagudem)."
+    "timings": "প্রতিদিন সকালে ও সন্ধ্যায় দর্শন-সহ খোলা এবং মধ্যাহ্নে বিরতি; শ্রীরাম নবমী অনেক দূর পর্যন্ত সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময় নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে আলোকচিত্র তোলা সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "ভদ্রাচলম তেলেঙ্গানার ভদ্রাদ্রি কোঠাগুডেম জেলায় গোদাবরীর তীরে অবস্থিত, হায়দ্রাবাদ ও বিজয়ওয়াড়া থেকে সড়কপথে পৌঁছানো যায়, নিকটতম রেলমাথা ভদ্রাচলম রোড (কোঠাগুডেম)।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",

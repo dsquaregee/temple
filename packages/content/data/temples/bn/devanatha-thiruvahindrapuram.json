@@ -1,29 +1,36 @@
 {
   "id": "devanatha-thiruvahindrapuram",
   "locale": "bn",
+  "name": "দেবনাথ পেরুমাল মন্দির, তিরুবহীন্দ্রপুরম",
   "nativeName": "தேவநாத பெருமாள் கோயில், திருவஹீந்திரபுரம்",
+  "deity": "দণ্ডায়মান রূপে বিষ্ণু দেবনাথ পেরুমাল রূপে, দেবী হেমাম্বুজবল্লী (বৈকুণ্ঠনায়কী) সঙ্গে; উৎসব মূর্তি মূবরগিয় ওরুবন, 'যিনি তিনজনই এক'",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruvahindrapuram, Cuddalore",
-    "state": "Tamil Nadu",
+    "city": "তিরুবহীন্দ্রপুরম, কুড্ডালোর",
+    "state": "তামিলনাড়ু",
     "lat": 11.7447,
     "lng": 79.7089
   },
+  "period": "কেডিলম নদীর ধারে নাড়ু নাড়ুর একটি দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে তিরুমঙ্গই আলবার দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "মধ্যযুগীয় চোল, পরবর্তী পাণ্ড্য সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "কুড্ডালোরের কাছে কেডিলমের ধারে বিষ্ণু দেবনাথ পেরুমাল, দেবতাদের প্রভু রূপে দণ্ডায়মান — তিরুমঙ্গই আলবার দ্বারা স্তুত একটি দিব্য দেশম, এবং সেই নগর যেখানে বেদান্ত দেশিক বাস করতেন, উপাসনা করতেন ও হয়গ্রীবকে লাভ করেছিলেন।",
   "sections": {
-    "history": "Thiruvahindrapuram, near Cuddalore on the banks of the Kedilam, is one of the 108 Divya Desams and belongs to Nadu Nadu, the 'middle country' between the Chola and Pallava lands. Thirumangai Alvar sang ten verses on its lord in the Periya Thirumozhi, hailing Devanatha as the one godhead who is Brahma, Vishnu and Shiva together. The temple is held to have been built under the Medieval Cholas and enlarged by the Pandyas. Inscriptions of Rajaraja I on the ardhamandapa name the place Thiru-ayindapuram and record a village given to the temple, and an eleventh-century record notes a land gift by his chief queen, Trilokamadevi. The town is dear to Sri Vaishnavas above all as the home of Vedanta Desika, who spent some of the most eventful years of his life here; his house and the well he dug still stand.",
-    "architecture": "A five-tiered rajagopuram, about eighteen metres high, opens on three prakarams around the east-facing sanctum. The vimana above it is likened to the Suddha Satva vimana of Vaikuntha and bears figures facing the four quarters — Vishnu to the east, Dakshinamurthy to the south, Narasimha to the west and Brahma to the north. The Goddess Hemambujavalli has her own shrine. Beside the temple rises the small Aushadagiri hill, crowned by a shrine to Hayagriva, said to be the only historic hilltop Hayagriva shrine in South India.",
-    "legends": "The sthala purana tells that Adisesha, the serpent on whom Vishnu rests, planned and founded this town — hence Ahindrapuram, the city of the serpent-lord. Once, when the Lord thirsted, Garuda ploughed the earth with his beak to bring a stream, while Adisesha cut his own channel and returned first; the Lord drank from Adisesha's water. To console Garuda, it is said, the Lord's ritual bath is still drawn from Garuda's stream and his offerings from the Sesha Theertham. Tradition holds that on the Aushadagiri Vedanta Desika worshipped Garuda and received the grace of Hayagriva.",
-    "festivals": "The ten-day Brahmotsavam in Chittirai (April–May) is the high point, with Garuda Seva on the fifth day and the Theerthavari on the ninth drawing great crowds. Vedanta Desika's birth-star is celebrated in Purattasi. Vaikunta Ekadashi, Adi Pooram and the Masi Magam sea bath at Devanampattinam complete the year.",
-    "experience": "Come for darshan of Devanatha, then climb the steps of the Aushadagiri to the Hayagriva shrine, a place students visit to pray for learning. In the village, ask for Desikan Tirumaligai, the house of Vedanta Desika, and his well. Mornings beside the Kedilam are quiet and unhurried, a contrast to the festival crowds of Chittirai."
+    "history": "কেডিলমের তীরে কুড্ডালোরের কাছে তিরুবহীন্দ্রপুরম ১০৮টি দিব্য দেশমের অন্যতম এবং চোল ও পল্লব ভূমির মাঝের 'মধ্য দেশ' নাড়ু নাড়ুর অন্তর্গত। তিরুমঙ্গই আলবার পেরিয় তিরুমোঝ়িতে এর প্রভুর বিষয়ে দশটি স্তোত্র গেয়েছেন, দেবনাথকে সেই একক ঈশ্বর রূপে বন্দনা করেছেন যিনি একসঙ্গে ব্রহ্মা, বিষ্ণু ও শিব। মন্দিরটি মধ্যযুগীয় চোলদের অধীনে নির্মিত ও পাণ্ড্যদের দ্বারা সম্প্রসারিত বলে ধরা হয়। অর্ধমণ্ডপের উপর রাজরাজ প্রথমের শিলালিপি স্থানটিকে তিরু-অয়িন্দপুরম নামে অভিহিত করে এবং মন্দিরে দান করা একটি গ্রামের উল্লেখ করে, আর একাদশ শতাব্দীর এক নথিতে তাঁর প্রধান মহিষী ত্রিলোকমাদেবীর একটি ভূমিদানের উল্লেখ আছে। শ্রীবৈষ্ণবদের কাছে নগরটি সর্বাধিক প্রিয় বেদান্ত দেশিকের আবাস রূপে, যিনি এখানে তাঁর জীবনের কয়েকটি সবচেয়ে ঘটনাবহুল বছর কাটিয়েছিলেন; তাঁর বাড়ি ও খনন করা কূপ আজও বিদ্যমান।",
+    "architecture": "প্রায় আঠারো মিটার উঁচু একটি পাঁচতলা রাজগোপুরম পূর্বমুখী গর্ভগৃহের চারপাশে তিনটি প্রাকারমে খুলে যায়। এর উপরের বিমানটিকে বৈকুণ্ঠের শুদ্ধ সত্ত্ব বিমানের সঙ্গে তুলনা করা হয় এবং এতে চার দিকে মুখ করা মূর্তি রয়েছে — পূর্বে বিষ্ণু, দক্ষিণে দক্ষিণামূর্তি, পশ্চিমে নৃসিংহ ও উত্তরে ব্রহ্মা। দেবী হেমাম্বুজবল্লীর নিজস্ব মন্দির আছে। মন্দিরের পাশে ছোট ঔষধগিরি পাহাড় উঠে গেছে, যার চূড়ায় হয়গ্রীবের একটি মন্দির, যা দক্ষিণ ভারতের একমাত্র ঐতিহাসিক পাহাড়চূড়ার হয়গ্রীব মন্দির বলে কথিত।",
+    "legends": "স্থলপুরাণ বলে, আদিশেষ, যে সর্পের উপর বিষ্ণু শয়ন করেন, এই নগর পরিকল্পনা ও স্থাপন করেছিলেন — তাই অহীন্দ্রপুরম, সর্পরাজের নগর। একবার প্রভু যখন তৃষ্ণার্ত হন, গরুড় তাঁর চঞ্চু দিয়ে পৃথিবী চষে একটি স্রোত আনেন, আর আদিশেষ নিজের পথ কেটে প্রথমে ফিরে আসেন; প্রভু আদিশেষের জল পান করেন। গরুড়কে সান্ত্বনা দিতে, বলা হয়, প্রভুর অভিষেকের জল আজও গরুড়ের স্রোত থেকে এবং তাঁর নৈবেদ্য শেষ তীর্থম থেকে নেওয়া হয়। ঐতিহ্য বলে, ঔষধগিরিতে বেদান্ত দেশিক গরুড়ের উপাসনা করেন এবং হয়গ্রীবের কৃপা লাভ করেন।",
+    "festivals": "চিত্তিরৈ মাসের (এপ্রিল–মে) দশদিনব্যাপী ব্রহ্মোৎসবম সর্বোচ্চ মুহূর্ত, পঞ্চম দিনে গরুড় সেবা ও নবম দিনে তীর্থবারী বিশাল জনসমাগম টানে। বেদান্ত দেশিকের জন্মনক্ষত্র পুরট্টাসিতে উদযাপিত হয়। বৈকুণ্ঠ একাদশী, আড়ি পূরম এবং দেবনামপট্টিনমে মাসি মঘম সমুদ্রস্নান বছরটি সম্পূর্ণ করে।",
+    "experience": "দেবনাথের দর্শনে আসুন, তারপর ঔষধগিরির সিঁড়ি বেয়ে হয়গ্রীব মন্দিরে উঠুন, যেখানে ছাত্ররা বিদ্যার জন্য প্রার্থনা করতে আসে। গ্রামে বেদান্ত দেশিকের বাড়ি দেশিকন তিরুমালিগই ও তাঁর কূপের খোঁজ নিন। কেডিলমের ধারে সকালবেলা শান্ত ও নিরুদ্বিগ্ন, চিত্তিরৈয়ের উৎসবের ভিড়ের বিপরীত।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Brahmotsavam days, Vaikunta Ekadashi and weekends are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is a short drive from Cuddalore town, which has railway stations and road links along the East Coast Road; Puducherry lies about an hour north, and Chennai has the nearest major airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন সময়ে মধ্যাহ্নের বিরতিসহ খোলা থাকে; ব্রহ্মোৎসবমের দিন, বৈকুণ্ঠ একাদশী ও সপ্তাহান্ত সর্বাধিক ব্যস্ত। যাওয়ার আগে বর্তমান সময় স্থানীয়ভাবে যাচাই করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "মন্দিরটি কুড্ডালোর শহর থেকে অল্প দূরত্বে, যেখানে রেলস্টেশন ও ইস্ট কোস্ট রোড বরাবর সড়কসংযোগ আছে; পুদুচেরি প্রায় এক ঘণ্টা উত্তরে, এবং নিকটতম বড় বিমানবন্দর চেন্নাইয়ে।"
   }
 }

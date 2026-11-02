@@ -1,30 +1,37 @@
 {
   "id": "arka-brahma-alampur",
   "locale": "bn",
+  "name": "অর্ক ব্রহ্মা মন্দির, আলমপুর",
   "nativeName": "అర్క బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "শিব অর্ক ব্রহ্মেশ্বর (লিঙ্গ) রূপে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "আলমপুর",
+    "state": "তেলেঙ্গানা",
     "lat": 15.8784,
     "lng": 78.1354
   },
+  "period": "আলমপুরের নয়টি নবব্রহ্মা মন্দিরের একটি; প্রথম বিক্রমাদিত্যের (৬৫৪–৬৮১) স্তম্ভ শিলালিপি এই গোষ্ঠীর প্রাচীনতম নথি",
   "century": 7,
+  "dynasty": "চালুক্য (বাদামি)",
+  "style": "আদি চালুক্য, উত্তরীয় (রেখা-নাগর) মন্দির রূপ; বর্তমানে মূলত ধ্বংসপ্রাপ্ত",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "ছাদহীন ও জীর্ণ, আলমপুরের অর্ক ব্রহ্মা মন্দির নবব্রহ্মা গোষ্ঠীর প্রাচীনতম লিখিত সাক্ষ্য ধারণ করে — চালুক্য রাজা প্রথম বিক্রমাদিত্যের রাজত্বকালের একটি স্তম্ভ শিলালিপি যা একটি লিঙ্গ স্থাপনের কথা নথিভুক্ত করে।",
   "sections": {
-    "history": "Of all the Navabrahma temples, Arka Brahma carries the group's earliest dated record. A Sanskrit inscription on one of its pillars, from the reign of the Badami Chalukya king Vikramaditya I (654–681), refers to the installation of a linga in this temple's shrine of Mahadeva — a precious anchor for dating the Alampur temples, which the Archaeological Survey of India places from the middle of the seventh century. The building has suffered more than any of its neighbours: in the troubled centuries after the fourteenth, its roof was lost and most of its sculpture destroyed. It is no longer in worship and is protected by the ASI.",
-    "architecture": "What remains shows the plan shared across the group — an east-facing sanctum behind a hall, with a verandah, in the northern idiom that the Chalukya builders brought to the Tungabhadra. With the roof gone, the walls and pillars stand open to the sky, and the layout of hall and sanctum can be read at a glance. On the sanctum doorway, worn but still recognisable, are the river goddesses Ganga and Yamuna, the purifying guardians who flank the thresholds of so many Chalukya shrines.",
-    "legends": "Arka is a name of the sun, and also of the arka plant whose leaves and flowers are offered to Shiva. Like its eight companions, the temple honours the tradition that Brahma did penance at Alampur and worshipped Shiva here as Brahmeshwara. The inscription on its pillar adds a human story to the sacred one: the remembrance of a day, more than thirteen centuries ago, when a linga was consecrated in this very shrine.",
-    "festivals": "There is no festival at the ruined shrine itself. The living temples of the precinct — Bala Brahmeshwara and Jogulamba — keep the year's great days: Maha Shivaratri, and Navaratri and Dasara for the goddess. Confirm dates locally.",
-    "experience": "Arka Brahma is a temple for quiet contemplation rather than spectacle. Stand inside its open walls and look for the pillar that bears the inscription, then for the faint figures of Ganga and Yamuna at the doorway. Set between Kumara Brahma to the south and Vira Brahma to the north, it is best seen as part of a slow walk along this row of shrines opposite the site museum."
+    "history": "সমস্ত নবব্রহ্মা মন্দিরের মধ্যে অর্ক ব্রহ্মা এই গোষ্ঠীর প্রাচীনতম তারিখযুক্ত নথি বহন করে। এর একটি স্তম্ভে উৎকীর্ণ একটি সংস্কৃত শিলালিপি, বাদামি চালুক্য রাজা প্রথম বিক্রমাদিত্যের (৬৫৪–৬৮১) রাজত্বকালের, এই মন্দিরের মহাদেবের গর্ভগৃহে একটি লিঙ্গ স্থাপনের উল্লেখ করে — আলমপুর মন্দিরগুলির সময়নির্ধারণের জন্য এক মূল্যবান অবলম্বন, যেগুলিকে ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ সপ্তম শতকের মধ্যভাগ থেকে স্থাপন করে। ভবনটি তার প্রতিবেশীদের চেয়ে বেশি ক্ষতিগ্রস্ত হয়েছে: চতুর্দশ শতকের পরবর্তী সংকটময় শতাব্দীগুলিতে এর ছাদ হারিয়ে যায় এবং অধিকাংশ ভাস্কর্য ধ্বংস হয়। এটি আর পূজায় নেই এবং ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ দ্বারা সংরক্ষিত।",
+    "architecture": "যা অবশিষ্ট আছে তা গোষ্ঠীজুড়ে ভাগ করা পরিকল্পনা দেখায় — একটি হলের পিছনে পূর্বমুখী গর্ভগৃহ, একটি বারান্দাসহ, সেই উত্তরীয় রীতিতে যা চালুক্য নির্মাতারা তুঙ্গভদ্রায় নিয়ে এসেছিলেন। ছাদ চলে যাওয়ায় দেয়াল ও স্তম্ভগুলি খোলা আকাশের নিচে দাঁড়িয়ে আছে, এবং হল ও গর্ভগৃহের বিন্যাস এক নজরেই পড়া যায়। গর্ভগৃহের দরজায়, জীর্ণ হলেও এখনও চেনা যায়, নদীদেবী গঙ্গা ও যমুনা, সেই পবিত্রকারী রক্ষক যাঁরা এত চালুক্য মন্দিরের দ্বারের দুই পাশে থাকেন।",
+    "legends": "অর্ক সূর্যের একটি নাম, এবং সেই অর্ক উদ্ভিদেরও যার পাতা ও ফুল শিবকে অর্পণ করা হয়। তার আটটি সঙ্গীর মতো মন্দিরটিও সেই ঐতিহ্যকে সম্মান করে যে ব্রহ্মা আলমপুরে তপস্যা করেছিলেন এবং এখানে ব্রহ্মেশ্বর রূপে শিবের পূজা করেছিলেন। এর স্তম্ভের শিলালিপি পবিত্র কাহিনির সঙ্গে একটি মানবিক কাহিনি যোগ করে: তেরো শতকেরও বেশি আগের একটি দিনের স্মৃতি, যখন এই গর্ভগৃহেই একটি লিঙ্গ প্রতিষ্ঠিত হয়েছিল।",
+    "festivals": "ধ্বংসপ্রাপ্ত মন্দিরটিতে নিজে কোনো উৎসব নেই। প্রাঙ্গণের জীবন্ত মন্দিরগুলি — বাল ব্রহ্মেশ্বর ও যোগুলাম্বা — বছরের মহান দিনগুলি পালন করে: মহাশিবরাত্রি, এবং দেবীর জন্য নবরাত্রি ও দশরা। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "অর্ক ব্রহ্মা জাঁকজমকের চেয়ে নীরব ধ্যানের জন্য একটি মন্দির। এর খোলা দেয়ালের ভিতরে দাঁড়ান এবং সেই স্তম্ভটি খুঁজুন যা শিলালিপি বহন করে, তারপর দরজায় গঙ্গা ও যমুনার ক্ষীণ মূর্তিগুলি খুঁজুন। দক্ষিণে কুমার ব্রহ্মা ও উত্তরে বীর ব্রহ্মার মাঝে অবস্থিত, এটি স্থল-জাদুঘরের বিপরীতে এই মন্দিরসারির ধীর একটি পদচারণার অংশ হিসেবে দেখাই সর্বোত্তম।"
   },
   "visit": {
-    "timings": "The Navabrahma precinct is open to visitors through the day; as an ASI-protected site, hours and any entry charges for the precinct and museum should be confirmed locally.",
-    "dressCode": "Modest dress is appreciated across the precinct, which includes living shrines; take care on uneven ground among the ruins.",
-    "photography": "Photography is generally allowed at the monuments; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away; the temple stands within the Navabrahma precinct by the Tungabhadra, near the site museum."
+    "timings": "নবব্রহ্মা প্রাঙ্গণ সারাদিন দর্শনার্থীদের জন্য খোলা থাকে; একটি প্রত্নতাত্ত্বিক সর্বেক্ষণ-সংরক্ষিত স্থান হওয়ায় প্রাঙ্গণ ও জাদুঘরের সময় এবং কোনো প্রবেশমূল্য স্থানীয়ভাবে নিশ্চিত করে নেওয়া উচিত।",
+    "dressCode": "সমগ্র প্রাঙ্গণে শালীন পোশাক সমাদৃত, যার মধ্যে জীবন্ত মন্দিরও রয়েছে; ধ্বংসাবশেষের মধ্যে অসমতল জমিতে সাবধানে চলুন।",
+    "photography": "স্মৃতিস্তম্ভগুলিতে সাধারণত আলোকচিত্র গ্রহণের অনুমতি থাকে; ট্রাইপড বা পেশাদার চিত্রগ্রহণের জন্য স্থল কর্তৃপক্ষের অনুমতি প্রয়োজন হতে পারে।",
+    "gettingThere": "আলমপুর যোগুলাম্বা গাদওয়াল জেলায়, কুর্নুল থেকে প্রায় ২৫ কিমি এবং হায়দ্রাবাদের প্রায় ২২০ কিমি দক্ষিণে, হায়দ্রাবাদ–বেঙ্গালুরু মহাসড়কের (জাতীয় সড়ক ৪৪) পাশেই অবস্থিত। হায়দ্রাবাদ–কুর্নুল রেলপথে আলমপুর রোড রেল স্টেশন প্রায় ৯ কিমি দূরে; মন্দিরটি তুঙ্গভদ্রার ধারে নবব্রহ্মা প্রাঙ্গণের মধ্যে, স্থল-জাদুঘরের কাছে অবস্থিত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/arka-brahma-alampur.jpg",

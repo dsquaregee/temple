@@ -1,17 +1,17 @@
 {
   "id": "agneeswarar-tiruanniyur",
   "locale": "bn",
-  "name": "অগ্নীশ্বরর মন্দির, তিরুঅন্নিয়ুর",
+  "name": "অগ্নীশ্বর মন্দির, তিরুঅন্নিয়ূর",
   "nativeName": "திருஅன்னியூர் அக்னீஸ்வரர் கோயில்",
-  "deity": "অগ্নীশ্বরর রূপে শিব, দেবী (পার্বতী, কর্পগাম্বিকৈ নামেও পরিচিত)-র সঙ্গে",
-  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্",
+  "deity": "অগ্নীশ্বর রূপে শিব, দেবীর (পার্বতী, যিনি কর্পগাম্বিকাই নামেও পরিচিত) সঙ্গে",
+  "tradition": "শৈবধর্ম — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruanniyur (Anniyur), Kudavasal taluk",
-    "state": "Tamil Nadu",
+    "city": "তিরুঅন্নিয়ূর (অন্নিয়ূর), কুডভাসল তালুক",
+    "state": "তামিলনাড়ু",
     "lat": 10.86,
     "lng": 79.55
   },
-  "period": "তেবারম যুগ (৭ম শতাব্দীতে গীত); পরবর্তী চোল কাঠামোগত মন্দির",
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে স্তবগান); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
   "dynasty": "চোল",
   "style": "দ্রাবিড়",
@@ -19,18 +19,18 @@
   "circuits": [
     "paadal-petra-sthalams"
   ],
-  "summary": "তিরুঅন্নিয়ুর, তিরুবারুর বদ্বীপের কুড়বাসল অঞ্চলে, শিবকে অগ্নীশ্বরর রূপে তাঁর পাশে দেবীর সঙ্গে সম্মান করে। তেবারমে শ্রদ্ধেয় একটি পাডল পেট্র স্থলম্, এটি দক্ষিণ কাবেরীর একটি নিরিবিলি মন্দির, এবং উত্তরের অপর তেবারম অন্নিয়ুরের সঙ্গে একে গুলিয়ে ফেলা উচিত নয়।",
+  "summary": "তিরুভারুর বদ্বীপের কুডভাসল অঞ্চলে অবস্থিত তিরুঅন্নিয়ূরে শিবকে অগ্নীশ্বর রূপে তাঁর পাশে দেবীর সঙ্গে পূজা করা হয়। তেবারমে শ্রদ্ধেয় একটি পাডল পেট্র স্থলম, এটি দক্ষিণ কাবেরীর এক শান্ত মন্দির, এবং একে উত্তরের অপর তেবারম অন্নিয়ূরের সঙ্গে গুলিয়ে ফেলা উচিত নয়।",
   "sections": {
-    "history": "Tiruanniyur lies in the Kudavasal taluk of Tiruvarur district, among the Shiva shrines of the southern bank of the Kaveri. It is a Paadal Petra Sthalam, revered in the Tevaram hymns. The stone temple is of the Chola period and later, keeping the form of the delta shrines. Two Tevaram temples bear the name Tiru-Anniyur; this is the Agneeswarar shrine of the south, distinct from the northern Anniyur dedicated to Aabathsahayeswarar.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Agneeswarar in the sanctum, with the Goddess in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram are typical of the Shiva temples of the Kudavasal country.",
-    "legends": "Shiva is worshipped here as Agneeswarar, the name recalling the devotion of Agni, the god of fire, among the delta shrines. The Goddess stands beside him; local tradition also gives her the name Karpagambikai, though the sources vary. As with many delta shrines, the fuller sthala purana survives chiefly in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims of the Kudavasal country include Tiruanniyur among their stops.",
-    "experience": "At Tiruanniyur the pilgrim comes to a quiet shrine of the fire-god's lord. Before Agneeswarar and the Goddess, in the green Kudavasal country of the Tiruvarur delta, the visitor finds the unhurried grace of a Tevaram temple of the southern Kaveri."
+    "history": "তিরুঅন্নিয়ূর তিরুভারুর জেলার কুডভাসল তালুকে, কাবেরীর দক্ষিণ তীরের শিবমন্দিরগুলির মধ্যে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারম স্তোত্রে শ্রদ্ধেয়। পাথরের মন্দিরটি চোল যুগের ও পরবর্তীকালের, বদ্বীপের মন্দিরগুলির রূপ রক্ষা করে। তিরু-অন্নিয়ূর নামে দুটি তেবারম মন্দির আছে; এটি দক্ষিণের অগ্নীশ্বর মন্দির, অবভৎসহায়েশ্বরকে উৎসর্গীকৃত উত্তরের অন্নিয়ূর থেকে পৃথক।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, যার গর্ভগৃহে অগ্নীশ্বর প্রতিষ্ঠিত, এবং দেবী তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও প্রাকারের চারপাশে পরিবার দেবতাগণ বিরাজমান। প্রাচীরঘেরা প্রাঙ্গণ ও সাধারণ গোপুরম কুডভাসল অঞ্চলের শিবমন্দিরগুলির বৈশিষ্ট্যপূর্ণ।",
+    "legends": "এখানে শিবকে অগ্নীশ্বর রূপে পূজা করা হয়, যে নাম বদ্বীপের মন্দিরগুলির মধ্যে অগ্নিদেবের ভক্তিকে স্মরণ করায়। দেবী তাঁর পাশে দাঁড়িয়ে আছেন; স্থানীয় প্রথা তাঁকে কর্পগাম্বিকাই নামও দেয়, যদিও সূত্রে ভিন্নতা আছে। অনেক বদ্বীপ মন্দিরের মতোই, পূর্ণাঙ্গ স্থলপুরাণ মূলত স্থানীয় প্রথায় ও তেবারম পদগুলিতে টিকে আছে।",
+    "festivals": "মন্দিরে একটি গ্রামমন্দিরের শান্ত মাত্রায় মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজাসহ পালিত হয়। কুডভাসল অঞ্চলের তীর্থযাত্রীরা তাঁদের গন্তব্যগুলির মধ্যে তিরুঅন্নিয়ূরকে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুঅন্নিয়ূরে তীর্থযাত্রী অগ্নিদেবের প্রভুর এক শান্ত মন্দিরে আসেন। অগ্নীশ্বর ও দেবীর সম্মুখে, তিরুভারুর বদ্বীপের সবুজ কুডভাসল অঞ্চলে, দর্শনার্থী দক্ষিণ কাবেরীর এক তেবারম মন্দিরের নিরবচ্ছিন্ন প্রসন্নতা খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruanniyur lies in the Kudavasal taluk of Tiruvarur district, in the southern Kaveri delta. Kudavasal and Tiruvarur are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং পুনরায় বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের অলিন্দে সাধারণত আলোকচিত্র তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুঅন্নিয়ূর তিরুভারুর জেলার কুডভাসল তালুকে, দক্ষিণ কাবেরী বদ্বীপে অবস্থিত। কুডভাসল ও তিরুভারুর নিকটতম শহর ও রেলপথ, যেখান থেকে গ্রামে বাস ও ট্যাক্সি চলে।"
   }
 }

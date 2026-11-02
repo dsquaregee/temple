@@ -1,30 +1,37 @@
 {
   "id": "harasaba-vimochana-thirukkandiyur",
   "locale": "bn",
+  "name": "হরসাভ বিমোচন পেরুমাল মন্দির, তিরুক্কণ্ডিয়ূর",
   "nativeName": "ஹரசாப விமோசனப் பெருமாள் கோயில், திருக்கண்டியூர்",
+  "deity": "বিষ্ণু হরসাভ বিমোচন পেরুমাল রূপে, দণ্ডায়মান, দেবী কমলাবল্লী নাচিয়ার সহ — সেই প্রভু যিনি শিবকে এক অভিশাপ থেকে মুক্ত করেছিলেন",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirukkandiyur",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কণ্ডিয়ূর",
+    "state": "তামিলনাড়ু",
     "lat": 10.86,
     "lng": 79.108
   },
+  "period": "চোল দেশের একটি দিব্যদেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "চোল, পরবর্তী বিজয়নগর ও নায়ক সংযোজন সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "তিরুবৈয়ারুর নিকটবর্তী তিরুক্কণ্ডিয়ূরে বিষ্ণু হরসাভ বিমোচন পেরুমাল রূপে দণ্ডায়মান, যিনি শিবকে ব্রহ্মার কপালের অভিশাপ থেকে মুক্ত করেছিলেন — তিরুমঙ্গৈ আলবার কর্তৃক স্তুত এক চোল-দেশীয় দিব্যদেশম।",
   "sections": {
-    "history": "Thirukkandiyur, in the Thanjavur district near Thiruvaiyaru, is one of the 108 Divya Desams in Chola Nadu, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham. Thirumangai Alvar honours the Lord here in a single pasuram. The temple is attributed to the medieval Cholas, around the later eighth century, and received additions under the Vijayanagara rulers and the Madurai Nayaks. It is remembered as a Trimurti kshetram, and tradition holds that the Lord appeared visibly to the sage Agastya here. Close by, a few hundred metres away, stands the Shiva temple of Brahmasirakandeeswarar, so that the two great traditions share the village.",
-    "architecture": "The sanctum stands under the Kamalakruthi Vimanam, the lotus-shaped vimana, and Hara Saabha Vimochana Perumal stands facing east. His consort, Kamalavalli Nachiyar, has her own shrine. The temple tank is the Kapala Moksha Pushkarini, also called the Kamala Theertham, whose name recalls the legend of the skull. The temple follows the Dravidian manner of the Chola country, with later Vijayanagara and Nayak work in its halls and enclosures.",
-    "legends": "The sthala purana tells that Shiva once severed one of Brahma's five heads, and the skull clung to his hand as a curse that no pilgrimage could remove. Coming to Thirukkandiyur, he worshipped Vishnu and the Goddess Kamalavalli, and the skull fell away from his hand. The Lord is therefore called Hara Saabha Vimochana, the one who released Hara from the curse, and the tank is the Kapala Moksha Pushkarini, the tank of the skull's release. The nearby Shiva temple remembers the same story from the other side.",
-    "festivals": "The temple keeps the Brahmotsavam in the month of Panguni, March–April, and the Pavitrotsavam in Aippasi. Vaikunta Ekadashi and the lamp festival of Karthigai Deepam are also observed. Processions and special worship mark these days. Confirm dates locally, as they follow the Tamil almanac.",
-    "experience": "A quiet village Divya Desam where the pilgrim can walk between a Vishnu temple and a Shiva temple that share one legend. Pause at the Kapala Moksha Pushkarini and look up at the lotus-shaped vimana. It fits easily into a day among the temples of Thiruvaiyaru and Thanjavur."
+    "history": "তাঞ্জাবুর জেলার তিরুবৈয়ারুর নিকটবর্তী তিরুক্কণ্ডিয়ূর চোল নাড়ুর ১০৮টি দিব্যদেশমের অন্যতম, নালায়িরা দিব্য প্রবন্ধমে আলবারদের দ্বারা স্তুত বিষ্ণুর ধামসমূহ। তিরুমঙ্গৈ আলবার এখানে প্রভুকে একটি পাসুরমে সম্মান জানান। মন্দিরটি মধ্যযুগীয় চোলদের দ্বারা, প্রায় অষ্টম শতকের শেষভাগে, নির্মিত বলে ধরা হয়, এবং বিজয়নগর শাসক ও মাদুরৈ নায়কদের অধীনে সংযোজন লাভ করে। এটি একটি ত্রিমূর্তি ক্ষেত্রম হিসেবে স্মরণীয়, এবং প্রথা মানে যে প্রভু এখানে ঋষি অগস্ত্যের কাছে দৃশ্যমানভাবে আবির্ভূত হন। কাছেই, কয়েকশো মিটার দূরে, ব্রহ্মশিরকণ্ডীশ্বররের শিবমন্দির দাঁড়িয়ে, যাতে দুই মহান ঐতিহ্য গ্রামটি ভাগ করে নেয়।",
+    "architecture": "গর্ভগৃহ কমলাকৃতি বিমানমের নিচে দাঁড়িয়ে, পদ্ম-আকৃতির বিমান, এবং হরসাভ বিমোচন পেরুমাল পূর্বমুখী হয়ে দণ্ডায়মান। তাঁর সঙ্গিনী কমলাবল্লী নাচিয়ারের নিজস্ব মন্দির আছে। মন্দির-পুকুর কপাল মোক্ষ পুষ্করিণী, কমল তীর্থমও বলা হয়, যার নাম কপালের কিংবদন্তি স্মরণ করায়। মন্দিরটি চোল দেশের দ্রাবিড় রীতি অনুসরণ করে, তার কক্ষ ও প্রাঙ্গণে পরবর্তী বিজয়নগর ও নায়ক কাজ সহ।",
+    "legends": "স্থল পুরাণ বলে যে শিব একবার ব্রহ্মার পাঁচটি মাথার একটি ছিন্ন করেন, এবং কপালটি এক অভিশাপরূপে তাঁর হাতে লেগে থাকে যা কোনো তীর্থযাত্রাতেই দূর হত না। তিরুক্কণ্ডিয়ূরে এসে তিনি বিষ্ণু ও দেবী কমলাবল্লীর পূজা করলেন, এবং কপালটি তাঁর হাত থেকে খসে পড়ল। তাই প্রভুকে হরসাভ বিমোচন বলা হয়, যিনি হরকে অভিশাপ থেকে মুক্ত করেছিলেন, এবং পুকুরটি কপাল মোক্ষ পুষ্করিণী, কপাল-মুক্তির পুকুর। নিকটবর্তী শিবমন্দির একই কাহিনী অপর দিক থেকে স্মরণ করে।",
+    "festivals": "মন্দিরটি পঙ্গুনি মাসে, মার্চ–এপ্রিল, ব্রহ্মোৎসবম এবং ঐপ্পসিতে পবিত্রোৎসবম পালন করে। বৈকুণ্ঠ একাদশী ও কার্তিগৈ দীপমের প্রদীপ উৎসবও পালিত হয়। শোভাযাত্রা ও বিশেষ পূজা এই দিনগুলিকে চিহ্নিত করে। তারিখ স্থানীয়ভাবে যাচাই করে নিন, কারণ এগুলি তামিল পঞ্জিকা অনুসরণ করে।",
+    "experience": "এক শান্ত গ্রাম্য দিব্যদেশম যেখানে তীর্থযাত্রী একটি বিষ্ণুমন্দির ও একটি শিবমন্দিরের মধ্যে হাঁটতে পারেন যারা একটি কিংবদন্তি ভাগ করে। কপাল মোক্ষ পুষ্করিণীতে থামুন এবং পদ্ম-আকৃতির বিমানের দিকে তাকান। এটি তিরুবৈয়ারু ও তাঞ্জাবুরের মন্দিরগুলির মধ্যে একটি দিনে সহজেই মেলে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is the busiest day. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukkandiyur lies near Thiruvaiyaru, on the road between Thanjavur and Thiruvaiyaru in Thanjavur district. Thanjavur Junction is the nearest major railway station, and Tiruchirappalli International Airport the nearest airport; buses and taxis serve the last stretch by road."
+    "timings": "সকাল ও সন্ধ্যার দর্শন-পর্বসহ প্রতিদিন খোলা এবং মধ্যাহ্নে বন্ধ; বৈকুণ্ঠ একাদশী সবচেয়ে ব্যস্ত দিন। যাওয়ার আগে বর্তমান সময়সূচি যাচাই করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খোলা। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুক্কণ্ডিয়ূর তিরুবৈয়ারুর নিকটে, তাঞ্জাবুর জেলায় তাঞ্জাবুর ও তিরুবৈয়ারুর মধ্যবর্তী সড়কে অবস্থিত। তাঞ্জাবুর জংশন নিকটতম প্রধান রেলস্থান, এবং তিরুচিরাপল্লী আন্তর্জাতিক বিমানবন্দর নিকটতম বিমানবন্দর; শেষ পথটুকু সড়কপথে বাস ও ট্যাক্সি পরিষেবা দেয়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/harasaba-vimochana-thirukkandiyur.jpg",

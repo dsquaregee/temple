@@ -1,30 +1,37 @@
 {
   "id": "bala-brahma-alampur",
   "locale": "bn",
+  "name": "বাল ব্রহ্ম মন্দির, আলমপুর",
   "nativeName": "బాల బ్రహ్మేశ్వర ఆలయం, అలంపూర్",
+  "deity": "শিব, বাল ব্রহ্মেশ্বর রূপে পূজিত",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "আলমপুর",
+    "state": "তেলেঙ্গানা",
     "lat": 15.8775,
     "lng": 78.1357
   },
+  "period": "আদি চালুক্য, ৭ম শতাব্দীর শেষভাগ; নবব্রহ্ম মন্দিরগুলির মধ্যে একমাত্র এখনও নিত্যপূজায় থাকা মন্দির",
   "century": 7,
+  "dynasty": "বাদামির চালুক্য",
+  "style": "আদি চালুক্য, উত্তরী (রেখা-নাগর) চূড়া",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "আলমপুরের নয়টি নবব্রহ্ম মন্দিরের মধ্যে বৃহত্তম এবং একমাত্র এখনও নিত্যপূজায় থাকা মন্দির, বাল ব্রহ্ম শিবকে বাল ব্রহ্মেশ্বর রূপে রক্ষা করে—আর ছয় শতাব্দী ধরে এটি তার প্রাচীরের ভেতরে দেবী জোগুলাম্বাকে আশ্রয় দিয়েছিল।",
   "sections": {
-    "history": "Bala Brahma is the principal temple of the Navabrahma group, the nine Early Chalukya shrines raised on the Tungabhadra at Alampur in the seventh and eighth centuries, and it is the only one of them in which worship has never ceased. It is generally placed in the later seventh century. A Sanskrit inscription on one of its pillars, cut in the reign of the Chalukya king Vijayaditya (696–733), celebrates his father Vinayaditya's victory over the lord of the northern country and the seizure of the royal insignia of the kings of Malwa and Lata. The temple's later story is bound to the goddess: when the Jogulamba shrine was destroyed in 1390, her image was carried here for safety, and she was worshipped within these walls until her own temple was rebuilt beside it in 2005.",
-    "architecture": "The largest temple of the group and the most complete as a working shrine, Bala Brahma is built of the local sandstone, with a curving northern-style tower over the sanctum. A porch and a broad pillared hall lead to the sanctum, which is ringed by an inner passage for circumambulation, and a pillared verandah wraps the whole building so that devotees can make a second, outer round. Perforated stone windows filter light into the hall. Inside, carvings of Mahishasuramardini, the Seven Mothers, Indra and Agni line the hall, and a large dancing Shiva spreads across the ceiling; many of the outer niches now stand empty.",
-    "legends": "Alampur's temple names recall a tradition that Brahma performed penance here and worshipped Shiva, who is remembered in nine forms across the group; Bala Brahma, 'the youthful Brahma', is the foremost of them. Devotees say the linga in the sanctum bears the shape of a bull's hoof-print, a sign of Nandi's presence. The temple's deepest story, though, is one of shelter: for more than six hundred years it kept the goddess Jogulamba safe after her shrine was lost, and Shiva here is still worshipped as her consort, Bala Brahmeshwara.",
-    "festivals": "Maha Shivaratri is the temple's great night, its vigil and abhishekam drawing pilgrims from Telangana, Andhra Pradesh and Karnataka. Because Bala Brahmeshwara is worshipped as Jogulamba's consort, the temple shares in her Navaratri and Dasara celebrations and her annual Brahmotsavam, while Mondays and the month of Kartika bring steady crowds. Confirm dates locally.",
-    "experience": "Most pilgrims come to Bala Brahma straight from the Jogulamba temple a few steps away, completing the paired darshan of the goddess and her lord. After the sanctum, walk the outer verandah slowly and look up at the dancing Shiva on the hall ceiling. The other Navabrahma temples are only a short stroll across the lawns — Garuda Brahma just to the south, Swarga Brahma behind — and the river ghats lie close by."
+    "history": "বাল ব্রহ্ম হলো নবব্রহ্ম গোষ্ঠীর প্রধান মন্দির—সপ্তম ও অষ্টম শতাব্দীতে আলমপুরে তুঙ্গভদ্রার তীরে উত্থিত নয়টি আদি চালুক্য মন্দির, আর এটিই সেগুলির একমাত্র যাতে পূজা কখনও থামেনি। এটিকে সাধারণত সপ্তম শতাব্দীর শেষভাগে স্থাপন করা হয়। এর একটি স্তম্ভে উৎকীর্ণ একটি সংস্কৃত শিলালিপি, চালুক্য রাজা বিজয়াদিত্যের (৬৯৬–৭৩৩) রাজত্বকালে খোদিত, তাঁর পিতা বিনয়াদিত্যের উত্তরের দেশের অধিপতির উপর বিজয় এবং মালব ও লাটের রাজাদের রাজচিহ্ন অধিকারের কথা উদযাপন করে। মন্দিরের পরবর্তী কাহিনি দেবীর সঙ্গে বাঁধা: ১৩৯০ সালে জোগুলাম্বার মন্দির ধ্বংস হলে তাঁর মূর্তি নিরাপত্তার জন্য এখানে বহন করে আনা হয়, এবং ২০০৫ সালে এর পাশে তাঁর নিজস্ব মন্দির পুনর্নির্মিত না হওয়া পর্যন্ত তিনি এই প্রাচীরের ভেতরে পূজিত হন।",
+    "architecture": "গোষ্ঠীর বৃহত্তম মন্দির এবং একটি কর্মরত মন্দির হিসেবে সর্বাধিক সম্পূর্ণ, বাল ব্রহ্ম স্থানীয় বেলেপাথরে নির্মিত, গর্ভগৃহের উপরে একটি বক্র উত্তরী-ধাঁচের চূড়া-সহ। একটি মণ্ডপ এবং একটি প্রশস্ত স্তম্ভশোভিত কক্ষ গর্ভগৃহে নিয়ে যায়, যা প্রদক্ষিণের জন্য একটি অভ্যন্তরীণ পথ দিয়ে বেষ্টিত, আর একটি স্তম্ভশোভিত বারান্দা সমগ্র দালানটি জড়িয়ে রাখে যাতে ভক্তেরা দ্বিতীয়, বাইরের প্রদক্ষিণ করতে পারেন। ছিদ্রযুক্ত পাথরের জানালা কক্ষে আলো ছেঁকে দেয়। ভেতরে মহিষাসুরমর্দিনী, সপ্তমাতৃকা, ইন্দ্র ও অগ্নির খোদাই কক্ষকে সারিবদ্ধ করে, আর একটি বৃহৎ নৃত্যরত শিব ছাদ জুড়ে বিস্তৃত; বাইরের অনেক কুলুঙ্গি এখন শূন্য দাঁড়িয়ে।",
+    "legends": "আলমপুরের মন্দিরের নামগুলি এমন এক পরম্পরা স্মরণ করায় যে ব্রহ্মা এখানে তপস্যা করেছিলেন এবং শিবের পূজা করেছিলেন, যিনি গোষ্ঠী জুড়ে নয়টি রূপে স্মরিত; বাল ব্রহ্ম, 'তরুণ ব্রহ্মা', তাঁদের মধ্যে প্রধান। ভক্তেরা বলেন গর্ভগৃহের লিঙ্গ একটি ষাঁড়ের খুরের ছাপের আকৃতি বহন করে, নন্দীর উপস্থিতির এক চিহ্ন। মন্দিরের গভীরতম কাহিনি অবশ্য আশ্রয়ের: এটি তার মন্দির হারানোর পর ছয়শতেরও বেশি বছর ধরে দেবী জোগুলাম্বাকে নিরাপদ রেখেছিল, আর এখানে শিব এখনও তাঁর পতি, বাল ব্রহ্মেশ্বর রূপে পূজিত।",
+    "festivals": "মহাশিবরাত্রি মন্দিরের মহারাত্রি, এর জাগরণ ও অভিষেক তেলেঙ্গানা, অন্ধ্রপ্রদেশ ও কর্ণাটক থেকে তীর্থযাত্রী টানে। যেহেতু বাল ব্রহ্মেশ্বর জোগুলাম্বার পতি রূপে পূজিত, মন্দির তাঁর নবরাত্রি ও দশেরা উদযাপন এবং তাঁর বার্ষিক ব্রহ্মোৎসবে অংশ নেয়, আর সোমবার ও কার্তিক মাস স্থির জনসমাগম নিয়ে আসে। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "অধিকাংশ তীর্থযাত্রী কয়েক পা দূরে জোগুলাম্বা মন্দির থেকে সরাসরি বাল ব্রহ্মে আসেন, দেবী ও তাঁর প্রভুর যুগ্ম দর্শন সম্পন্ন করে। গর্ভগৃহের পর বাইরের বারান্দা ধীরে ধীরে হাঁটুন এবং কক্ষের ছাদে নৃত্যরত শিবের দিকে উপরে তাকান। অন্য নবব্রহ্ম মন্দিরগুলি সবুজ চত্বর পেরিয়ে অল্প হাঁটা দূরত্বে—গরুড় ব্রহ্ম ঠিক দক্ষিণে, স্বর্গ ব্রহ্ম পেছনে—আর নদীর ঘাট কাছেই অবস্থিত।"
   },
   "visit": {
-    "timings": "Open daily for darshan in the morning and evening, with a midday closure; Maha Shivaratri, Navaratri and Mondays are the busiest times. Confirm current timings locally.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. As a living shrine, respectful conduct is asked of all visitors.",
-    "photography": "Photography is not permitted in the sanctum; follow the posted rules and the priests' guidance. The surrounding Navabrahma monuments are protected by the Archaeological Survey of India and have their own rules.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away, with local transport to the riverside precinct, where the temple stands beside the Jogulamba temple."
+    "timings": "প্রতিদিন সকালে ও সন্ধ্যায় দর্শনের জন্য খোলা, মধ্যাহ্নে বন্ধ থাকে; মহাশিবরাত্রি, নবরাত্রি ও সোমবার সবচেয়ে ব্যস্ত সময়। বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো বাইরে রেখে যেতে হয়। জীবন্ত মন্দির হওয়ায় সকল দর্শনার্থীর কাছে সম্মানজনক আচরণ কাম্য।",
+    "photography": "গর্ভগৃহে আলোকচিত্র তোলার অনুমতি নেই; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন। চারপাশের নবব্রহ্ম স্মারকগুলি ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ দ্বারা সংরক্ষিত এবং তাদের নিজস্ব নিয়ম আছে।",
+    "gettingThere": "আলমপুর জোগুলাম্বা গাদওয়াল জেলায়, কুর্নুল থেকে প্রায় ২৫ কিমি এবং হায়দ্রাবাদ থেকে প্রায় ২২০ কিমি দক্ষিণে, হায়দ্রাবাদ–বেঙ্গালুরু মহাসড়কের (NH 44) ঠিক পাশে। হায়দ্রাবাদ–কুর্নুল লাইনের আলমপুর রোড রেলস্টেশন প্রায় ৯ কিমি দূরে, নদীতীরবর্তী এলাকায় স্থানীয় পরিবহণ-সহ, যেখানে মন্দিরটি জোগুলাম্বা মন্দিরের পাশে দাঁড়িয়ে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/bala-brahma-alampur.jpg",

@@ -1,30 +1,37 @@
 {
   "id": "bhutanatha-badami",
   "locale": "bn",
+  "name": "ভূতনাথ মন্দিরসমূহ, বাদামি",
   "nativeName": "ಭೂತನಾಥ ದೇವಾಲಯಗಳು, ಬಾದಾಮಿ",
+  "deity": "শিব ভূতনাথ রূপে, প্রাণীসমূহের প্রভু",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Badami",
-    "state": "Karnataka",
+    "city": "বাদামি",
+    "state": "কর্ণাটক",
     "lat": 15.9208,
     "lng": 75.6878
   },
+  "period": "আদি চালুক্য, ৭ম–৮ম শতাব্দী, ১২শ শতাব্দী পর্যন্ত পরবর্তী সংযোজন-সহ",
   "century": 7,
+  "dynasty": "বাদামি চালুক্য, পরবর্তী কল্যাণী চালুক্য সংযোজন-সহ",
+  "style": "আদি চালুক্য দ্রাবিড়, একটি পরবর্তী নাগর গোষ্ঠী-সহ",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "বাদামিতে অগস্ত্য হ্রদের পূর্ব তীরে ভূতনাথ মন্দিরগুলি স্থির জলে নিজেদের প্রতিবিম্বিত করে, একটি চালুক্য শিবমন্দির যা সপ্তম শতাব্দীতে শুরু হয়ে এক পরবর্তী রাজবংশ দ্বারা সম্পন্ন হয়।",
   "sections": {
-    "history": "On the east bank of Agastya Lake, below the red sandstone cliffs of Badami, stands the Bhutanatha group, the town’s great lakeside shrine to Shiva as Bhutanatha, lord of beings. The main temple belongs to the seventh and eighth centuries: the inner shrine and hall are the work of the Badami Chalukyas, while the outer hall facing the water was completed in the eleventh century under the Kalyani Chalukyas, so the building records a conversation across centuries. A second cluster, the North Bhutanatha or Mallikarjuna group on the opposite bank, is later still, of the eleventh and twelfth centuries, and in the northern style. Together they make one of the most picturesque corners of Chalukyan Badami.",
-    "architecture": "The main Bhutanatha temple is Dravida in form, its sanctum crowned by a three-tiered tower, with carved heads of kinnaras and gandharvas, the celestial musicians, along its walls. An inner hall leads to the shrine, and the later outer hall opens towards the lake, so the whole building seems to step down to the water. Stone ghats wrap the shore of Agastya Lake in flights of steps, and across the water the North Bhutanatha group rises in the northern style, its curving towers a contrast to the Dravida tower on the eastern bank.",
-    "legends": "Agastya Lake takes its name from the sage Agastya, and tradition links him with Badami, anciently called Vatapi, through the tale of the demon brothers Vatapi and Ilvala, who tricked sages into eating Vatapi in the guise of a meal. Agastya is said to have digested the demon and ended the trick for good. Local belief holds that the lake’s waters carry healing power, and the shrine of Bhutanatha, lord of spirits and beings, stands at its very edge, where pilgrims have long come to the shore.",
-    "festivals": "As in Shiva temples across Karnataka, Maha Shivaratri is the most important observance at Bhutanatha, and the lake edge is lively on festival days. Local fairs and the regional Chalukya heritage festivals of music and dance also draw people to the water. Confirm dates locally.",
-    "experience": "Walk down to Agastya Lake at the quiet ends of the day and the Bhutanatha temples sit golden above their own reflection, the cliffs rising behind. Spend time with the carved faces of kinnaras and gandharvas on the walls, step through the hall to the sanctum, then follow the ghats round the water. The shore is also the town’s washing place and meeting place, so the scene is lived-in as well as ancient."
+    "history": "অগস্ত্য হ্রদের পূর্ব তীরে, বাদামির লাল বেলেপাথরের পাহাড়ের নিচে, দাঁড়িয়ে আছে ভূতনাথ গোষ্ঠী, শিবকে ভূতনাথ, প্রাণীসমূহের প্রভু রূপে উৎসর্গীকৃত শহরের মহান হ্রদতীরবর্তী মন্দির। মূল মন্দিরটি সপ্তম ও অষ্টম শতাব্দীর: অভ্যন্তরীণ মন্দির ও কক্ষ বাদামি চালুক্যদের কাজ, আর জলের দিকে মুখ করা বাইরের কক্ষটি একাদশ শতাব্দীতে কল্যাণী চালুক্যদের অধীনে সম্পন্ন হয়, তাই দালানটি শতাব্দী জুড়ে এক কথোপকথন লিপিবদ্ধ করে। একটি দ্বিতীয় গুচ্ছ, উত্তর ভূতনাথ বা মল্লিকার্জুন গোষ্ঠী বিপরীত তীরে, আরও পরবর্তী, একাদশ ও দ্বাদশ শতাব্দীর, এবং উত্তরী ধাঁচে। একত্রে তারা চালুক্য বাদামির সর্বাধিক চিত্রময় কোণগুলির একটি গঠন করে।",
+    "architecture": "মূল ভূতনাথ মন্দিরটি রূপে দ্রাবিড়, এর গর্ভগৃহ একটি ত্রিতল চূড়ায় শীর্ষিত, এর দেয়াল বরাবর কিন্নর ও গন্ধর্ব, স্বর্গীয় সঙ্গীতজ্ঞদের খোদিত মাথা-সহ। একটি অভ্যন্তরীণ কক্ষ মন্দিরে নিয়ে যায়, আর পরবর্তী বাইরের কক্ষটি হ্রদের দিকে খোলে, যাতে সমগ্র দালানটি যেন জলের দিকে নেমে যায়। পাথরের ঘাট অগস্ত্য হ্রদের তীর ধাপের সারিতে জড়িয়ে রাখে, আর জলের ওপারে উত্তর ভূতনাথ গোষ্ঠী উত্তরী ধাঁচে উঠেছে, এর বক্র চূড়াগুলি পূর্ব তীরের দ্রাবিড় চূড়ার সঙ্গে এক বৈসাদৃশ্য।",
+    "legends": "অগস্ত্য হ্রদ ঋষি অগস্ত্যের নাম গ্রহণ করে, আর পরম্পরা তাঁকে বাদামির সঙ্গে যুক্ত করে, প্রাচীনকালে যাকে বাতাপি বলা হত, অসুর ভ্রাতা বাতাপি ও ইল্বলের কাহিনির মাধ্যমে, যাঁরা ঋষিদের একটি আহারের ছদ্মবেশে বাতাপিকে খাইয়ে প্রতারণা করতেন। অগস্ত্য কথিত আছেন অসুরকে হজম করে প্রতারণার চিরতরে অবসান ঘটিয়েছিলেন। স্থানীয় বিশ্বাস ধরে যে হ্রদের জল আরোগ্যশক্তি বহন করে, আর ভূতনাথের মন্দির, আত্মা ও প্রাণীসমূহের প্রভু, এর একেবারে কিনারায় দাঁড়িয়ে, যেখানে তীর্থযাত্রীরা দীর্ঘকাল ধরে তীরে এসেছেন।",
+    "festivals": "কর্ণাটক জুড়ে শিবমন্দিরের মতোই, মহাশিবরাত্রি ভূতনাথে সর্বাধিক গুরুত্বপূর্ণ অনুষ্ঠান, আর উৎসবের দিনে হ্রদের তীর প্রাণবন্ত থাকে। স্থানীয় মেলা এবং সঙ্গীত ও নৃত্যের আঞ্চলিক চালুক্য ঐতিহ্য উৎসবও মানুষকে জলের কাছে টানে। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "দিনের শান্ত প্রান্তে অগস্ত্য হ্রদে নেমে যান আর ভূতনাথ মন্দিরগুলি তাদের নিজস্ব প্রতিবিম্বের উপরে সোনালি হয়ে বসে থাকে, পেছনে পাহাড় উঠছে। দেয়ালে কিন্নর ও গন্ধর্বদের খোদিত মুখগুলির সঙ্গে সময় কাটান, কক্ষ দিয়ে গর্ভগৃহে পৌঁছান, তারপর জলের চারপাশে ঘাট অনুসরণ করুন। তীরটি শহরের ধোয়ার জায়গা ও মিলনস্থলও, তাই দৃশ্যটি প্রাচীন যতটা, ততটাই জীবনঘন।"
   },
   "visit": {
-    "timings": "The lakeside temples are open to visitors during the day; the site is outdoors and the shrine keeps its own worship hours. Confirm timings and any ticket requirement locally.",
-    "dressCode": "Modest dress is appropriate, and footwear is left outside the shrine; steps and ghats can be slippery near the water.",
-    "photography": "Photography is generally welcome around the lake and the temple exterior; ask before photographing inside the shrine or worshippers.",
-    "gettingThere": "Badami is in Bagalkot district; the Bhutanatha temples stand on the eastern shore of Agastya Lake, a short walk or auto ride from the town centre. Badami has the nearest railway station, and the nearest airport is Hubballi."
+    "timings": "হ্রদতীরবর্তী মন্দিরগুলি দিনভর দর্শনার্থীদের জন্য খোলা; স্থানটি উন্মুক্ত আর মন্দির নিজস্ব পূজার সময় রাখে। সময় ও কোনো টিকিটের প্রয়োজন স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন পোশাক উপযুক্ত, আর জুতো মন্দিরের বাইরে রেখে যেতে হয়; জলের কাছে ধাপ ও ঘাট পিচ্ছিল হতে পারে।",
+    "photography": "হ্রদ ও মন্দিরের বহির্ভাগের চারপাশে আলোকচিত্র তোলা সাধারণত স্বাগত; মন্দিরের ভেতরে বা উপাসকদের ছবি তোলার আগে জিজ্ঞাসা করুন।",
+    "gettingThere": "বাদামি বাগালকোট জেলায়; ভূতনাথ মন্দিরগুলি অগস্ত্য হ্রদের পূর্ব তীরে, শহরের কেন্দ্র থেকে অল্প হাঁটা বা অটো-যাত্রা দূরত্বে দাঁড়িয়ে। বাদামিতে নিকটতম রেলস্টেশন, আর নিকটতম বিমানবন্দর হুব্বল্লি।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/bhutanatha-badami.jpg",

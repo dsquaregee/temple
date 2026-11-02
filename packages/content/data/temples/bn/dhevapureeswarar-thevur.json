@@ -1,29 +1,36 @@
 {
   "id": "dhevapureeswarar-thevur",
   "locale": "bn",
+  "name": "দেব পুরীশ্বরর মন্দির, তেবুর",
   "nativeName": "தேவூர் தேவபுரீஸ்வரர் கோயில்",
+  "deity": "শিব দেব পুরীশ্বরর (ধেবপুরীশ্বরর, কথলিবনেসর) রূপে, দেবী মধুরভাষিণী (তেন্‌মোঝ়িয়াল) সঙ্গে",
+  "tradition": "শৈব — একটি পাদল পেত্র স্থলম",
   "location": {
-    "city": "Thevur, near Kizhvelur",
-    "state": "Tamil Nadu",
+    "city": "তেবুর, কিঝ়বেলুরের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.7259,
     "lng": 79.7314
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তুত); পরবর্তী চোল স্থাপত্য মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "নিম্ন কাবেরী ব-দ্বীপে কিঝ়বেলুরের কাছে তেবুর শিবকে দেব পুরীশ্বরর — দেবতাদের নগরের প্রভু — রূপে সম্মান করে, দেবী মধুরভাষিণী, 'মধুরভাষিণী,' সঙ্গে। তিরুজ্ঞান সম্বন্দর দ্বারা স্তুত একটি পাদল পেত্র স্থলম, এর নাম সেই কিংবদন্তি স্মরণ করায় যে দেবতারা নিজেরাই এখানে একটি গুরুতর পাপ থেকে মুক্ত হতে শিবের উপাসনা করেছিলেন।",
   "sections": {
-    "history": "Thevur (also Devur), near Kizhvelur in the lower Kaveri delta, lies about 16 km from Nagapattinam, 4 km south of Kizhvelur on the Nagapattinam–Tiruvarur road (sources place it in Tiruvarur district, some in Nagapattinam). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The village takes its name — 'the town of the devas' — from the sthala legend of the gods worshipping here, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Deva Pureeswarar — also Devaguru Nathar and Kathalivanesar, 'lord of the plantain forest' — in the sanctum, with the goddess Madhurabashini, also Thenmozhiyaal, 'she of the sweet, honeyed words,' in her own shrine, with a Nandi and the parivara devatas.",
-    "legends": "The sthala purana tells that the devas came to this place to worship Shiva and so be freed from the sin incurred in the slaying of an asura — in some tellings Vritra (Vruddhasura) — a deed that had stained even the gods. By their worship here they were cleansed, and from their presence the town is called Thevur, the city of the devas, and the lord Deva Pureeswarar. The name Kathalivanesar recalls a grove of plantain (kathali) that once stood here.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail near Kizhvelur include Thevur among their stops.",
-    "experience": "At Thevur the pilgrim stands where even the gods once came to be made clean. Before Deva Pureeswarar and the sweet-spoken Madhurabashini, the visitor finds a quiet delta shrine whose very name holds the memory of the devas' own worship — a small temple with a sky-wide legend."
+    "history": "নিম্ন কাবেরী ব-দ্বীপে কিঝ়বেলুরের কাছে তেবুর (আবার দেবুর) নাগপট্টিনম থেকে প্রায় ১৬ কিমি, নাগপট্টিনম–তিরুবারুর সড়কে কিঝ়বেলুরের ৪ কিমি দক্ষিণে অবস্থিত (সূত্র অনুযায়ী এটি তিরুবারুর জেলায়, কিছু সূত্রে নাগপট্টিনমে)। এটি একটি পাদল পেত্র স্থলম, তিরুজ্ঞান সম্বন্দরের দ্বারা তেবারমে স্তুত। এখানে দেবতাদের উপাসনার স্থল কিংবদন্তি থেকে গ্রামটি তার নাম — 'দেবতাদের নগর' — পেয়েছে, এবং পাথরের মন্দিরটি চোল যুগ ও পরবর্তী সময়ের।",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, গর্ভগৃহে দেব পুরীশ্বরর — আবার দেবগুরু নাথর ও কথলিবনেসর, 'কদলি বনের প্রভু' — অধিষ্ঠিত, দেবী মধুরভাষিণী, আবার তেন্‌মোঝ়িয়াল, 'মধুর কথার অধিকারিণী,' তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাদের সঙ্গে।",
+    "legends": "স্থলপুরাণ বলে, দেবতারা এই স্থানে শিবের উপাসনা করতে এসেছিলেন যাতে একটি অসুর বধে অর্জিত পাপ — কিছু বর্ণনায় বৃত্র (বৃদ্ধাসুর) — থেকে মুক্ত হতে পারেন, যে কর্ম দেবতাদেরও কলঙ্কিত করেছিল। এখানে উপাসনার মাধ্যমে তাঁরা শুদ্ধ হন, এবং তাঁদের উপস্থিতি থেকে নগরটিকে তেবুর, দেবতাদের নগর, এবং প্রভুকে দেব পুরীশ্বরর বলা হয়। কথলিবনেসর নামটি একসময় এখানে বিদ্যমান কদলি (কলা) কুঞ্জের স্মৃতি বহন করে।",
+    "festivals": "মন্দিরটি একটি গ্রাম্য মন্দিরের নিস্তব্ধ পরিসরে মাসি (ফেব্রুয়ারি–মার্চ) মাসে মহা শিবরাত্রি, পুরট্টাসি (সেপ্টেম্বর–অক্টোবর) মাসে নবরাত্রি এবং কার্তিকৈর সোমবারগুলি, প্রদোষ উপাসনাসহ পালন করে। কিঝ়বেলুরের কাছে পাদল পেত্র পথের তীর্থযাত্রীরা তেবুরকে তাঁদের বিরামস্থলের মধ্যে অন্তর্ভুক্ত করেন।",
+    "experience": "তেবুরে তীর্থযাত্রী সেই স্থানে দাঁড়ান যেখানে একসময় দেবতারাও শুদ্ধ হতে এসেছিলেন। দেব পুরীশ্বরর ও মধুরভাষিণী মধুরভাষিণীর সামনে দর্শনার্থী একটি নিস্তব্ধ ব-দ্বীপ মন্দির পান, যার নামেই দেবতাদের নিজস্ব উপাসনার স্মৃতি নিহিত — আকাশসমান কিংবদন্তিসমেত একটি ছোট মন্দির।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thevur is about 16 km from Nagapattinam, 4 km south of Kizhvelur on the Nagapattinam–Tiruvarur road. Nagapattinam is the nearest major rail head, with buses via Kizhvelur and local taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত ছবি তোলা যায়, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তেবুর নাগপট্টিনম থেকে প্রায় ১৬ কিমি, নাগপট্টিনম–তিরুবারুর সড়কে কিঝ়বেলুরের ৪ কিমি দক্ষিণে অবস্থিত। নাগপট্টিনম নিকটতম বড় রেলপথ, কিঝ়বেলুর হয়ে বাস ও গ্রামে স্থানীয় ট্যাক্সিসহ।"
   }
 }
