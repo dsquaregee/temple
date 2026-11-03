@@ -1,29 +1,36 @@
 {
   "id": "avinashiappar-avinashi",
   "locale": "mr",
+  "name": "अविनाशियप्पर मंदिर, अविनाशी",
   "nativeName": "அவிநாசியப்பர் கோயில்",
+  "deity": "करुणाम्बिकै देवीसह अविनाशियप्पर (अविनासिलिंगेश्वरर) रूपातील शिव",
+  "tradition": "शैव",
   "location": {
-    "city": "Avinashi",
-    "state": "Tamil Nadu",
+    "city": "अविनाशी",
+    "state": "तमिळनाडू",
     "lat": 11.192,
     "lng": 77.268
   },
+  "period": "कोंगु प्रांतातील प्राचीन शैव मंदिर, तेवारम्‌मध्ये गायिलेले (८वे शतक); मध्ययुगीन व नंतरच्या वाढीसह संरचनात्मक मंदिर",
   "century": 8,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (कोंगु चोळ व नंतरचे)",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "अविनाशियप्पर हे तेवारम्‌मध्ये गौरविलेले कोंगु प्रांताचे अग्रगण्य शिवमंदिर आहे, स्तोत्रांतील तिरुप्पुक्कोळियूर, जे मुख्यतः मगरीच्या जबड्यातून परत आणलेल्या बालकाच्या सुंदररच्या चमत्कारासाठी स्मरणात आहे.",
   "sections": {
-    "history": "Avinashi, in the Kongu country west of the Kaveri plains, is among the oldest living shrines of the region. In the Tevaram hymns the town is called Thiruppukkoliyur, and tradition honours it as the foremost of the Kongu Nadu temples sung by the saints, which makes it a Paadal Petra Sthalam. Its fame rests above all on the saint Sundarar, who is said to have passed through on his way to Thiruvanchikulam and, by the power of his hymn, to have drawn a long-lost child back from the waters. The name Avinashi is read as the imperishable, and the shrine has carried that sense of permanence across the centuries, raised and enlarged in stone by the medieval patrons of the Tamil country and kept in worship ever since.",
-    "architecture": "The temple faces east beneath a seven-tiered rajagopuram that rises close to a hundred feet above the Kongu plain. Before it stands a tall lamp-pillar, a deepasthambam carved from a single stone, a feature unusual among the temples of this region. Within the roughly one-and-a-half-acre enclosure the sanctum of Avinashiappar holds the Shiva linga, while the goddess Karunambikai, the mother of compassion, is honoured in her own east-facing shrine beneath a five-tiered gopuram. On the bank of the temple tank stands a shrine to Sundarar, and the base of the flagstaff carries in relief the scene for which the temple is best loved.",
-    "legends": "The great legend of Avinashi is Sundarar's. Passing through the town, the saint heard from one house the sounds of a wedding and from another the weeping of a household in grief. He learned that two boys had once gone to bathe in the temple tank, and that a crocodile had seized one of them; the family of the lost boy mourned while the other was being married. Moved, Sundarar stood at the water's edge and sang a decad of verses to Avinashiappar. As the hymn reached its fourth verse the crocodile rose and gave up the child unharmed, grown to the age he would have been, and the two boys were wed together. From this the temple keeps the memory of a Lord who makes whole what was lost, and the tank with the saint's shrine beside it is honoured to this day.",
-    "festivals": "The temple's signature festival is the Mudalai Vaai Pillai Utsavam, the child from the crocodile's mouth, held at Panguni Uthiram in March or April, when Sundarar's miracle is recalled with great feeling. The Chithirai car festival draws the deities out in procession through the town, and the procession of the sixty-three Nayanmar saints is kept with devotion. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Avinashi rewards an unhurried visit. Enter beneath the tall eastern gopuram, pause before the single-stone lamp-pillar, and come to the sanctum of Avinashiappar before turning to the compassionate goddess Karunambikai in her own shrine. Many devotees walk to the temple tank and the shrine of Sundarar on its bank, where the story of the restored child feels close at hand, and families who come to pray for their children hold the place especially dear. The town sits on the busy Coimbatore road, but within the walls the temple keeps the quiet of a very old sanctuary."
+    "history": "कावेरी मैदानांच्या पश्चिमेकडील कोंगु प्रांतातील अविनाशी हे या प्रदेशातील सर्वात जुन्या जिवंत मंदिरांपैकी एक आहे. तेवारम् स्तोत्रांत या गावाला तिरुप्पुक्कोळियूर म्हणतात, आणि परंपरा त्याला संतांनी गायिलेल्या कोंगु नाडू मंदिरांचे अग्रगण्य मानून गौरविते, ज्यामुळे ते एक पाडल पेट्र स्थलम् ठरते. त्याची कीर्ती मुख्यतः संत सुंदररवर अवलंबून आहे, जो तिरुवंचिकुळमकडे जाताना येथून गेला आणि आपल्या स्तोत्राच्या सामर्थ्याने एका बहुकाळापासून हरवलेल्या बालकाला पाण्यातून परत आणला असे सांगतात. अविनाशी या नावाचा अर्थ अविनाशी, म्हणजे अविनष्ट असा होतो, आणि हे मंदिर शतकानुशतके ती स्थायित्वाची भावना राखून आहे, तमिळ प्रांताच्या मध्ययुगीन आश्रयदात्यांनी दगडात उभारले व विस्तारले आणि तेव्हापासून पूजेत राखले.",
+    "architecture": "हे मंदिर पूर्वाभिमुख असून, कोंगु मैदानाच्या वर जवळजवळ शंभर फूट उंच सात-स्तरीय राजगोपुराखाली आहे. त्यासमोर एका अखंड दगडातून कोरलेला उंच दीपस्तंभ उभा आहे, जे या प्रदेशातील मंदिरांत असामान्य वैशिष्ट्य आहे. सुमारे दीड एकराच्या आवारात अविनाशियप्परच्या गर्भगृहात शिवलिंग विराजमान आहे, तर करुणाम्बिकै देवी, करुणेची माता, पाच-स्तरीय गोपुराखाली आपल्या स्वतंत्र पूर्वाभिमुख मंदिरात पूजिली जाते. मंदिर तलावाच्या काठावर सुंदररला समर्पित एक गाभारा आहे, आणि ध्वजस्तंभाच्या पायथ्यावर ज्या दृश्यासाठी हे मंदिर सर्वाधिक प्रिय आहे ते शिल्पांकित आहे.",
+    "legends": "अविनाशीची महान आख्यायिका सुंदररची आहे. गावातून जात असता या संताला एका घरातून विवाहाचे आवाज व दुसऱ्या घरातून शोकाकुल कुटुंबाचे रडणे ऐकू आले. त्याला कळले की एकदा दोन मुले मंदिर तलावात स्नानास गेली होती आणि एका मगरीने त्यांपैकी एकाला पकडले होते; हरवलेल्या मुलाचे कुटुंब शोक करत होते तर दुसऱ्याचा विवाह होत होता. द्रवून सुंदरर पाण्याच्या काठी उभा राहिला व त्याने अविनाशियप्परला दहा श्लोकांचे स्तोत्र गायले. जेव्हा स्तोत्र त्याच्या चौथ्या श्लोकापर्यंत पोहोचले तेव्हा मगर वर आली व तिने ते बालक निरोगी, त्याच्या त्या वेळच्या वयाचे होऊन, परत दिले, आणि दोन्ही मुलांचे एकत्र विवाह झाले. यावरूनच हे मंदिर जे हरवले ते पुन्हा पूर्ण करणाऱ्या स्वामीचे स्मरण राखते, आणि संताच्या गाभाऱ्यासह तो तलाव आजही गौरविला जातो.",
+    "festivals": "मंदिराचा खास उत्सव मुदलै वाई पिळ्ळै उत्सवम्, म्हणजे मगरीच्या जबड्यातील बालक, मार्च किंवा एप्रिलमधील पंगुनी उत्तिरम् येथे होतो, जेव्हा सुंदररच्या चमत्काराचे मोठ्या भावनेने स्मरण होते. चित्तिरै रथोत्सव देवतांना गावातून मिरवणुकीने बाहेर काढतो, आणि त्रेसष्ट नायन्मार संतांची मिरवणूक भक्तीने पाळली जाते. प्रत्येक शिवमंदिराप्रमाणे महाशिवरात्री व मासिक प्रदोष पाळले जातात. तारखा तमिळ दिनदर्शिकेनुसार असल्याने त्या स्थानिक पातळीवर निश्चित करा.",
+    "experience": "अविनाशी निवांत भेटीचे फळ देते. उंच पूर्व गोपुराखालून आत या, अखंड दगडाच्या दीपस्तंभासमोर थांबा, आणि करुणामयी देवी करुणाम्बिकैकडे वळण्यापूर्वी अविनाशियप्परच्या गर्भगृही या. अनेक भक्त मंदिर तलावापर्यंत व त्याच्या काठावरील सुंदररच्या गाभाऱ्यापर्यंत चालत जातात, जेथे परत मिळालेल्या बालकाची कथा जवळ भासते, आणि आपल्या मुलांसाठी प्रार्थना करायला येणारी कुटुंबे हे स्थळ विशेष प्रिय मानतात. गाव गजबजलेल्या कोयम्बतूर रस्त्यावर वसले आहे, पण भिंतींच्या आत मंदिर एका अतिशय जुन्या अभयारण्याची शांतता राखते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Avinashi stands on the Coimbatore–Tiruppur–Erode road, about 13 km from Tiruppur, which is the nearest railway station. Coimbatore, with the region's international airport, is around 35 km away. Frequent buses serve the town, and the temple is at its centre, a short walk from the bus stand."
+    "timings": "साधारणतः सकाळी व पुन्हा उत्तरार्धपासून संध्याकाळपर्यंत, मध्यान्ही विश्रांतीसह उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर निश्चित करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पँट, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे व गुडघे झाकलेले. पादत्राणे प्रवेशद्वाराजवळील कक्षात ठेवावीत.",
+    "photography": "तमिळनाडू मंदिर नियमांनुसार बाहेरील प्रदक्षिणामार्ग व प्रांगणांत छायाचित्रणास साधारणतः परवानगी असते, पण आतील गर्भगृहात निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "अविनाशी कोयम्बतूर–तिरुप्पूर–इरोड रस्त्यावर, तिरुप्पूरपासून सुमारे १३ कि.मी. अंतरावर उभे आहे, जे जवळचे रेल्वेस्थानक आहे. प्रदेशाचे आंतरराष्ट्रीय विमानतळ असलेले कोयम्बतूर सुमारे ३५ कि.मी. अंतरावर आहे. वारंवार बस गावाला सेवा देतात, आणि मंदिर त्याच्या केंद्री, बसस्थानकापासून थोड्या अंतरावर आहे."
   }
 }

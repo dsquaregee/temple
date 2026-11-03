@@ -1,30 +1,37 @@
 {
   "id": "thingalur-kailasanathar",
   "locale": "bn",
+  "name": "তিঙ্গালুর কৈলাসনাথর মন্দির",
   "nativeName": "திங்களூர் கைலாசநாதர் கோயில்",
+  "deity": "শিব, কৈলাসনাথর রূপে, দেবী পেরিয়নায়কীর সঙ্গে; চন্দ্র, চাঁদের জন্য একটি পৃথক মন্দির",
+  "tradition": "শৈব; তেবারমে স্তুত একটি নবগ্রহ স্থলম ও বৈপ্পু স্থলম",
   "location": {
-    "city": "Thingalur (near Thiruvaiyaru)",
-    "state": "Tamil Nadu",
+    "city": "তিঙ্গালুর (তিরুবৈয়ারুর কাছে)",
+    "state": "তামিলনাড়ু",
     "lat": 10.902,
     "lng": 79.152
   },
+  "period": "অন্তত সপ্তম শতক থেকে পবিত্রতা; চোল যুগের প্রস্তরমন্দির",
   "century": 9,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "navagraha-temples"
   ],
+  "summary": "তিরুবৈয়ারুর কাছে তিঙ্গালুরে শিব কৈলাসনাথর রূপে পূজিত এবং চন্দ্রদেব তাঁর নিজস্ব মন্দির রক্ষা করেন। এটি চাঁদের জন্য নবগ্রহ মন্দির, যেখানে ভক্তরা প্রশান্ত মন ও চন্দ্র দোষ থেকে মুক্তির জন্য প্রার্থনা করেন।",
   "sections": {
-    "history": "The name Thingalur carries the word for the Moon, and the town's sanctity reaches back to the age of the Nayanar saints, for it was sung in the Tevaram hymns and counts among the Vaippu Sthalams. That places its worship at least in the seventh century, though the granite temple that stands today took its lasting form under the Cholas. Thingalur is closely tied to Appudi Adigal, a devout Nayanar who so revered the saint Appar, or Tirunavukkarasar, that he named his family, his children and even his wells after him. The story of his son and of the grace shown by Appar is remembered here, binding the temple to the living tradition of Tamil bhakti.",
-    "architecture": "The temple follows the Dravidian pattern of the Chola country, built in enduring granite with a modest gateway leading to the sanctum of Kailasanathar. Within the walled precinct the shrine of the Goddess Periyanayaki stands apart, and the Moon god Chandra is honoured in his own separate shrine, which draws the special devotion of those who come for the Navagraha pilgrimage. Pillared halls, a circumambulatory path around the central sanctum, and the quiet proportions of a village temple give the place an unhurried, contemplative air rather than the grandeur of the great royal shrines.",
-    "legends": "The temple's chief legend belongs to Chandra, the Moon. Burdened by a curse that had dimmed his light, the Moon god is said to have come to Thingalur and worshipped Shiva here, and by that grace he was freed of the curse and regained his waxing brightness. For this reason the town is honoured as the Navagraha Sthalam of the Moon, and pilgrims come to seek relief from Chandra dosha, a settled and peaceful mind, and cures for ailments held to be governed by the Moon. Woven alongside is the memory of Appudi Adigal, whose unwavering love for the saint Appar is recalled in the devotional lore of the place.",
-    "festivals": "Worship here follows the rhythms sacred to Shiva and to the Moon. Pradosham is observed with special care, and Sivaratri draws devotees for night-long prayer. Mondays, the day of the Moon, are kept for Chandra worship, and on full-moon days a special abhishekam is offered to the Moon god. Through the year these observances keep the twin devotions of the temple, to Kailasanathar and to Chandra, gently alive.",
-    "experience": "Set among the paddy fields near Thiruvaiyaru, Thingalur rewards the unhurried visitor. Step in during the calm of morning or the lamp-lit evening, offer prayers first at the sanctum of Kailasanathar and the Goddess, then turn to the shrine of Chandra to seek a quiet mind. The temple is small and unhurried, and time spent in its cool granite halls, especially on a Monday or a full-moon evening, carries the gentle, restorative feeling that devotees associate with the Moon."
+    "history": "তিঙ্গালুর নামটি চাঁদের শব্দ বহন করে, এবং শহরের পবিত্রতা নায়নার সন্তদের যুগ পর্যন্ত পৌঁছায়, কারণ এটি তেবারম স্তোত্রে স্তুত এবং বৈপ্পু স্থলমগুলির মধ্যে গণিত। এটি এর পূজাকে অন্তত সপ্তম শতকে স্থাপন করে, যদিও আজ যে গ্রানাইট মন্দিরটি দাঁড়িয়ে আছে তা চোলদের অধীনে তার স্থায়ী রূপ পায়। তিঙ্গালুর অপ্পুডি অডিগলের সঙ্গে ঘনিষ্ঠভাবে যুক্ত, একজন ভক্ত নায়নার, যিনি সন্ত অপ্পর তথা তিরুনাভুক্করসরকে এতটাই শ্রদ্ধা করতেন যে তিনি নিজের পরিবার, সন্তান এমনকি কুয়োগুলিরও নাম তাঁর নামে রেখেছিলেন। তাঁর পুত্রের কাহিনি এবং অপ্পরের দেখানো কৃপা এখানে স্মরিত, যা মন্দিরটিকে তামিল ভক্তির জীবন্ত ঐতিহ্যের সঙ্গে বাঁধে।",
+    "architecture": "মন্দিরটি চোল দেশের দ্রাবিড় রীতি অনুসরণ করে, স্থায়ী গ্রানাইটে নির্মিত, কৈলাসনাথরের গর্ভগৃহের দিকে নিয়ে যাওয়া একটি বিনম্র তোরণ সহ। প্রাচীরঘেরা চত্বরের মধ্যে দেবী পেরিয়নায়কীর মন্দির পৃথকভাবে দাঁড়িয়ে আছে, এবং চন্দ্রদেব তাঁর নিজস্ব পৃথক মন্দিরে সম্মানিত, যা নবগ্রহ তীর্থযাত্রায় আসা ভক্তদের বিশেষ ভক্তি আকর্ষণ করে। স্তম্ভযুক্ত মণ্ডপ, কেন্দ্রীয় গর্ভগৃহের চারপাশে একটি প্রদক্ষিণপথ, এবং একটি গ্রামীণ মন্দিরের শান্ত অনুপাত স্থানটিকে বড় রাজকীয় মন্দিরের জাঁকজমকের বদলে এক নিরুদ্বিগ্ন, ধ্যানমগ্ন আবহ দেয়।",
+    "legends": "মন্দিরের প্রধান কিংবদন্তি চন্দ্র, চাঁদের। একটি অভিশাপে ভারাক্রান্ত যা তাঁর আলো মলিন করে দিয়েছিল, চন্দ্রদেব তিঙ্গালুরে এসে এখানে শিবের পূজা করেছিলেন বলে কথিত, এবং সেই কৃপায় তিনি অভিশাপ থেকে মুক্ত হন ও তাঁর বর্ধমান উজ্জ্বলতা ফিরে পান। এই কারণে শহরটি চাঁদের নবগ্রহ স্থলম রূপে সম্মানিত, এবং তীর্থযাত্রীরা চন্দ্র দোষ থেকে মুক্তি, একটি স্থির ও শান্ত মন, এবং চাঁদের দ্বারা নিয়ন্ত্রিত বলে বিবেচিত রোগের নিরাময় খুঁজতে আসেন। এর সঙ্গে বোনা আছে অপ্পুডি অডিগলের স্মৃতি, যাঁর সন্ত অপ্পরের প্রতি অবিচল প্রেম এই স্থানের ভক্তিকাহিনিতে স্মরিত হয়।",
+    "festivals": "এখানে পূজা শিব ও চাঁদের পবিত্র ছন্দ অনুসরণ করে। প্রদোষম বিশেষ যত্নে পালিত হয়, এবং শিবরাত্রি রাত্রিব্যাপী প্রার্থনার জন্য ভক্তদের টেনে আনে। সোমবার, চাঁদের দিন, চন্দ্র পূজার জন্য রাখা হয়, এবং পূর্ণিমার দিনে চন্দ্রদেবকে একটি বিশেষ অভিষেক নিবেদন করা হয়। সারা বছর এই আচার মন্দিরের দ্বৈত ভক্তি — কৈলাসনাথর ও চন্দ্রের প্রতি — কোমলভাবে জাগিয়ে রাখে।",
+    "experience": "তিরুবৈয়ারুর কাছে ধানখেতের মাঝে অবস্থিত তিঙ্গালুর নিরুদ্বিগ্ন দর্শনার্থীকে পুরস্কৃত করে। সকালের প্রশান্তি বা প্রদীপ-আলোকিত সন্ধ্যায় ভিতরে প্রবেশ করুন, প্রথমে কৈলাসনাথর ও দেবীর গর্ভগৃহে প্রার্থনা নিবেদন করুন, তারপর একটি শান্ত মন প্রার্থনার জন্য চন্দ্রের মন্দিরের দিকে ফিরুন। মন্দিরটি ছোট ও নিরুদ্বিগ্ন, এবং এর শীতল গ্রানাইট মণ্ডপে কাটানো সময়, বিশেষত সোমবার বা পূর্ণিমার সন্ধ্যায়, সেই কোমল, পুনরুজ্জীবক অনুভূতি বহন করে যা ভক্তরা চাঁদের সঙ্গে যুক্ত করেন।"
   },
   "visit": {
-    "timings": "Generally open about 7:00 am to 12:00 noon and 4:00 to 8:00 pm; please verify locally, as timings may change on festival days.",
-    "dressCode": "Modest, traditional dress is expected; dress respectfully as at any active temple.",
-    "photography": "Photography inside the sanctum is generally not permitted; ask temple staff before taking any pictures.",
-    "gettingThere": "Thingalur lies near Thiruvaiyaru, about 18 km from Thanjavur in Thanjavur district. The nearest hubs are Thiruvaiyaru and Thanjavur; the nearest railhead is Thanjavur, and the nearest airport is Tiruchirappalli, about 70 km away."
+    "timings": "সাধারণত সকাল ৭:০০ থেকে দুপুর ১২:০০ এবং বিকেল ৪:০০ থেকে রাত ৮:০০ পর্যন্ত খোলা; অনুগ্রহ করে স্থানীয়ভাবে যাচাই করুন, কারণ উৎসবের দিনে সময় বদলাতে পারে।",
+    "dressCode": "শালীন, ঐতিহ্যবাহী পোশাক প্রত্যাশিত; যেকোনো সক্রিয় মন্দিরের মতোই সম্মানজনকভাবে পোশাক পরুন।",
+    "photography": "গর্ভগৃহের ভিতরে ছবি তোলা সাধারণত অনুমোদিত নয়; কোনো ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিঙ্গালুর তিরুবৈয়ারুর কাছে, তাঞ্জাভূর জেলায় তাঞ্জাভূর থেকে প্রায় ১৮ কিমি দূরে অবস্থিত। নিকটতম কেন্দ্র তিরুবৈয়ারু ও তাঞ্জাভূর; নিকটতম রেলস্টেশন তাঞ্জাভূর, এবং নিকটতম বিমানবন্দর তিরুচিরাপল্লি, প্রায় ৭০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thingalur-kailasanathar.jpg",

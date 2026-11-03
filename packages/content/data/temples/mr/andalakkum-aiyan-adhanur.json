@@ -1,29 +1,36 @@
 {
   "id": "andalakkum-aiyan-adhanur",
   "locale": "mr",
+  "name": "आंडळक्कुम ऐयन मंदिर, तिरुआदनूर",
   "nativeName": "ஆண்டளக்கும் ஐயன் கோயில், திருவாதனூர்",
+  "deity": "आंडळक्कुम ऐयन रूपातील विष्णू, मापाचे पात्र घेऊन शयन करणारे, देवी भार्गवी (रंगनायकी) यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruaadhanur (Adhanur)",
-    "state": "Tamil Nadu",
+    "city": "तिरुआदनूर (आदनूर)",
+    "state": "तमिळनाडू",
     "lat": 10.962,
     "lng": 79.315
   },
+  "period": "कावेरी व कोल्लिडम यांच्यामधील चोळ प्रदेशाचे एक दिव्य देसम, नालायिर दिव्य प्रबंधममध्ये तिरुमंगै आळवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "चोळ प्रदेश, नंतरच्या भरांसह",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "स्वामिमलैजवळील तिरुआदनूर येथे, विष्णू आंडळक्कुम ऐयन म्हणून शयन करतात, मापाचे पात्र घेतलेले स्वामी, ज्यांनी परंपरेनुसार तिरुमंगै आळवारच्या मंदिर-कारागिरांना मोबदला दिला — चोळ नाडूचे एक दिव्य देसम.",
   "sections": {
-    "history": "Thiruaadhanur is a village near Swamimalai, close to Kumbakonam, set in the rich country between the Kaveri and the Kollidam. Its temple is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Chola Nadu. The Lord here is Andalakkum Aiyan — 'the master who measures and rules' — with the Goddess Bhargavi, also called Ranganayaki. The shrine is bound up with Thirumangai Alvar, who sang it and whose great labour of renovating the Srirangam temple is remembered in the legend of this place. The village name itself is traced to Kamadhenu, the wish-granting cow: Thiru-aa-than-oor, 'the sacred place of the cow'.",
-    "architecture": "The temple follows the Dravidian plan of the Kaveri delta, its sanctum crowned by the Pranava Vimana, named for the sacred syllable Om. Within, the Lord reclines facing east and is shown with a marakkal, the measuring vessel of the paddy country, which devotees read as a sign that he weighs the hearts of those who come to him. Kamadhenu and her calf Nandini are present in the sanctum, recalling the cow's penance, and the temple tank is the Surya Pushkarini.",
-    "legends": "Tradition holds that Kamadhenu performed penance here and was blessed with the Lord's darshan. The best-loved story, however, belongs to Thirumangai Alvar. Renovating the Srirangam temple, he ran short of money to pay his workers, and on the bank of the Kollidam he met a merchant who had no coins — only a marakkal. The merchant measured out sand to the labourers, promising it would turn to gold for those who had truly worked; for the idle it stayed sand. Devotees believe the merchant was the Lord himself, and so he is Andalakkum Aiyan.",
-    "festivals": "A ten-day Brahmotsavam is celebrated around May–June, and Vaikunta Ekadashi in Margazhi (December–January) is observed as at every Sri Vaishnava shrine. Between festivals the temple is quiet, and the legend of the measured sand is the story pilgrims carry home. Confirm festival dates with the temple each year.",
-    "experience": "Look closely at the sanctum: the reclining Lord with his measuring vessel, and Kamadhenu with her calf beside him, make this one of the most distinctive images among the Kaveri Divya Desams. It is a modest village temple, unhurried outside festival days. Thiruaadhanur pairs naturally with Thirupullabhoothangudi and with the Murugan temple of Swamimalai, all within a short drive of Kumbakonam."
+    "history": "कुंभकोणमजवळील स्वामिमलैच्या निकट, कावेरी व कोल्लिडम यांच्यामधील समृद्ध प्रदेशात तिरुआदनूर हे गाव वसलेले आहे. त्याचे मंदिर १०८ दिव्य देसमांपैकी एक आहे, आळवारांनी नालायिर दिव्य प्रबंधममध्ये गायिलेली विष्णूची धामे, आणि ते चोळ नाडूचे आहे. येथील स्वामी आंडळक्कुम ऐयन — 'जे मोजतात आणि राज्य करतात तो स्वामी' — देवी भार्गवी, जिला रंगनायकी असेही म्हणतात, यांच्यासह आहेत. हे मंदिर तिरुमंगै आळवारशी निगडित आहे, ज्यांनी ते गायिले आणि ज्यांचे श्रीरंगम मंदिराच्या जीर्णोद्धाराचे महान कार्य या स्थानाच्या आख्यायिकेत स्मरले जाते. गावाचे नाव स्वतःच इच्छापूर्ती करणारी गाय कामधेनूशी जोडले जाते: तिरु-आ-तन-ऊर, 'गायीचे पवित्र स्थान'.",
+    "architecture": "मंदिर कावेरी त्रिभुज प्रदेशाच्या द्राविड आराखड्याचे अनुसरण करते, त्याचे गर्भगृह ॐ या पवित्र अक्षरावरून नाव पडलेल्या प्रणव विमानाने शोभलेले आहे. आत, स्वामी पूर्वाभिमुख शयन करतात आणि त्यांना भातप्रदेशाचे मापाचे पात्र मरक्कल घेऊन दाखवले आहे, जे भक्त येणाऱ्यांची मने तोलणारे चिन्ह म्हणून वाचतात. कामधेनू आणि तिचे वासरू नंदिनी गर्भगृहात उपस्थित आहेत, गायीच्या तपश्चर्येचे स्मरण करून देत, आणि मंदिर तळे सूर्य पुष्करिणी आहे.",
+    "legends": "परंपरा सांगते की कामधेनूने येथे तप केले आणि स्वामींच्या दर्शनाचे वरदान तिला लाभले. परंतु सर्वाधिक प्रिय कथा तिरुमंगै आळवारची आहे. श्रीरंगम मंदिराचा जीर्णोद्धार करताना, आपल्या कामगारांना पैसे देण्यास त्यांच्याकडे पैसे कमी पडले, आणि कोल्लिडमच्या काठी त्यांना एक व्यापारी भेटला ज्याच्याकडे नाणी नव्हती — फक्त एक मरक्कल. व्यापाऱ्याने कामगारांना वाळू मोजून दिली, आणि ज्यांनी खरोखर काम केले त्यांच्यासाठी ती सोने होईल असे वचन दिले; आळशींसाठी ती वाळूच राहिली. भक्तांचा विश्वास आहे की तो व्यापारी स्वतः स्वामीच होते, आणि म्हणून ते आंडळक्कुम ऐयन आहेत.",
+    "festivals": "मे–जूनच्या सुमारास दहा-दिवसीय ब्रह्मोत्सवम साजरा होतो, आणि मार्गळी (डिसेंबर–जानेवारी) मधील वैकुंठ एकादशी प्रत्येक श्रीवैष्णव मंदिराप्रमाणे पाळली जाते. उत्सवांदरम्यान मंदिर शांत असते, आणि मोजलेल्या वाळूची आख्यायिका हीच कथा यात्रेकरू घरी नेतात. उत्सवाच्या तिथी दरवर्षी मंदिराकडून तपासून घ्याव्यात.",
+    "experience": "गर्भगृह नीट पाहा: मापाच्या पात्रासह शयन करणारे स्वामी, आणि त्यांच्या बाजूला वासरासह कामधेनू, हे कावेरी दिव्य देसमांतील सर्वात वैशिष्ट्यपूर्ण प्रतिमांपैकी एक बनवतात. हे एक साधे गावातील मंदिर आहे, उत्सवाच्या दिवसांखेरीज संथ. तिरुआदनूर नैसर्गिकरीत्या तिरुपुल्लभूतंगुडी आणि स्वामिमलैच्या मुरुगन मंदिराशी जोडले जाते, जी सर्व कुंभकोणमपासून थोड्या अंतरावर आहेत."
   },
   "visit": {
-    "timings": "Open daily for morning and evening darshan, with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is removed before entering. Follow posted rules and the guidance of the priests.",
-    "photography": "Photography is restricted in and around the sanctum; follow posted rules and the guidance of the priests.",
-    "gettingThere": "Thiruaadhanur (Adhanur) is a village near Swamimalai in Thanjavur district, a short drive from Kumbakonam by road. Kumbakonam has the nearest railway station; Tiruchirappalli has the nearest airport."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शनासाठी दुपारी बंदीसह उघडे असते; उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "साधी पारंपरिक वेशभूषा अपेक्षित आहे — खांदे व गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढली जातात. लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुआदनूर (आदनूर) हे तंजावूर जिल्ह्यातील स्वामिमलैजवळील गाव आहे, कुंभकोणमपासून रस्त्याने थोड्या अंतरावर. कुंभकोणममध्ये सर्वात जवळचे रेल्वेस्थानक आहे; तिरुचिरापल्लीमध्ये सर्वात जवळचे विमानतळ आहे."
   }
 }

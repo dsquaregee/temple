@@ -1,29 +1,36 @@
 {
   "id": "kadaimudinathar-tirukkadaimudi",
   "locale": "mr",
+  "name": "कडैमुडिनाथर मंदिर, तिरुक्कडैमुडी",
   "nativeName": "கடைமுடிநாதர் கோயில்",
+  "deity": "शिव हे कडैमुडिनाथर (अंथि संरक्षणीश्वर) रूपात, सोबत देवी अभिरामी (अभिरामवल्ली)",
+  "tradition": "शैव",
   "location": {
-    "city": "Keezhaiyur",
-    "state": "Tamil Nadu",
+    "city": "कीळैयूर",
+    "state": "तमिळनाडू",
     "lat": 11.07,
     "lng": 79.77
   },
+  "period": "चोल प्रदेशातील प्राचीन शैव मंदिर, तेवारममध्ये गायलेले (७वे शतक); मध्ययुगीन व नंतरच्या काळात जतन केलेले मंदिर",
   "century": 7,
+  "dynasty": "मध्ययुगीन चोल-प्रदेशातील आश्रयदाते",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कडैमुडिनाथर हे तिरुक्कडैमुडीचे शिव आहेत, कावेरीच्या उत्तरेला कीळैयूर येथील तेवारम मंदिर, जे ब्रह्मदेवाच्या आख्यायिकेसाठी स्मरले जाते—ज्यांनी एका किळुवै वृक्षाखालील लिंगाची पूजा करून शापातून मुक्ती मिळवली.",
   "sections": {
-    "history": "Keezhaiyur lies in the Chola country north of the Kaveri, in the Mayiladuthurai region, and its Shiva temple is one of the Paadal Petra Sthalams, sung as Tirukkadaimudi in the Tevaram hymns of Sambandar. The village name is traced to the kiluvai tree beneath which Shiva is said to have appeared, in time softened from Kiluvaiyur to Keezhaiyur. The shrine's own name is explained in more than one way. Some read Kadaimudi as a softened Sadaimudi, the matted locks of Shiva, while the Lord's other name, Anthi Samrakshaneeswarar, speaks of the protector who keeps watch as the day ends. The temple has been tended through the medieval and later centuries; the founding patron is not firmly recorded.",
-    "architecture": "The sanctum of Kadaimudinathar faces west, a less common orientation among Shiva temples, and the goddess Abirami, also called Abhiramavalli, is likewise enshrined in a west-facing shrine of her own. Around the main sanctum are shrines to Nataraja, to Bhairava and to the Tevaram saints who carried the Shaiva faith into Tamil song. The plan follows the familiar Dravidian scheme of enclosure, sanctum and goddess shrine, kept up by the devotion of the village rather than by any royal monument. Finer details of its towers and halls were not verified.",
-    "legends": "The sthala purana tells of Brahma, cursed by Shiva for his pride, who came in search of release. Beneath a kiluvai tree he found a self-manifested lingam and worshipped it with devotion until the burden of the curse was lifted; the tree is said to have given the place its name. A second memory belongs to the sage Kanva, who worshipped the Lord here and bathed in the nearby Kaveri. The spot where he is remembered to have attained liberation is still called Kanva Mahan Thurai. Together the stories speak of a Lord who receives the proud once they bow, and who is found simply, beneath a tree, by those who seek him.",
-    "festivals": "The two principal festivals are Arudra Darisanam, honouring Nataraja in the month of Margazhi (December or January), and Karthikai Deepam, when lamps are lit in the month of Karthikai (November or December). Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Come to Keezhaiyur for the stillness of a Tevaram village rather than for crowds. The west-facing sanctum draws the devotee into a different rhythm of approach, and many pause at the shrines of Nataraja and Bhairava before turning to the goddess Abirami in her own west-facing sanctuary. Those who know the legend of Brahma often sit a while beneath the temple's trees, thinking of the kiluvai under which the Lord first revealed himself. The temple is a short way from the village bus stop, and the surrounding countryside near the Kaveri adds to the quiet."
+    "history": "कीळैयूर हे कावेरीच्या उत्तरेला चोल प्रदेशात, मयिलाडुतुरै भागात वसले आहे, आणि त्याचे शिव मंदिर हे पाडल पेट्र स्थलमांपैकी एक आहे, जे संबंदर यांच्या तेवारम स्तोत्रांत तिरुक्कडैमुडी म्हणून गायले गेले. गावाचे नाव किळुवै वृक्षावरून आले, ज्याखाली शिव प्रकट झाले असे म्हटले जाते, आणि काळानुसार किळुवैयूरचे कीळैयूर झाले. मंदिराच्या स्वतःच्या नावाचे एकाहून अधिक अर्थ सांगितले जातात. काही जण कडैमुडी म्हणजे सडैमुडीचे मृदू रूप—शिवाच्या जटा—असे वाचतात, तर परमेश्वराचे दुसरे नाव, अंथि संरक्षणीश्वर, दिवस संपताना रक्षण करणाऱ्या पालकाचे सूचन करते. मध्ययुगीन व नंतरच्या शतकांत मंदिराची काळजी घेतली गेली आहे; आरंभीचा आश्रयदाता नीटपणे नोंदलेला नाही.",
+    "architecture": "कडैमुडिनाथराचा गाभारा पश्चिमाभिमुख आहे, जे शिव मंदिरांत कमी आढळणारे अभिमुख आहे, आणि अभिरामवल्ली म्हणूनही ओळखली जाणारी देवी अभिरामी हीसुद्धा तिच्या स्वतंत्र पश्चिमाभिमुख गाभाऱ्यात स्थापित आहे. मुख्य गाभाऱ्याभोवती नटराज, भैरव, आणि शैव धर्म तमिळ गीतात घेऊन गेलेल्या तेवारम संतांचे गाभारे आहेत. रचना द्राविड परिचित पद्धतीनुसार—तटबंदी, गाभारा व देवी गाभारा—आहे, जी कुठल्या राजेशाही स्मारकामुळे नव्हे तर गावाच्या भक्तीमुळे जपली गेली. त्याच्या शिखरांचे व मंडपांचे बारकावे पडताळले गेले नाहीत.",
+    "legends": "स्थल पुराणात ब्रह्मदेवाची कथा आहे, ज्यांना त्यांच्या गर्वामुळे शिवाने शाप दिला होता, आणि जे मुक्तीच्या शोधात इथे आले. एका किळुवै वृक्षाखाली त्यांना एक स्वयंभू लिंग सापडले व त्यांनी शापाचे ओझे दूर होईपर्यंत भक्तीने त्याची पूजा केली; त्या वृक्षामुळेच या स्थानाला नाव मिळाले असे म्हटले जाते. दुसरी स्मृती कण्व ऋषींची आहे, ज्यांनी इथे परमेश्वराची पूजा केली व जवळच्या कावेरीत स्नान केले. ते जिथे मुक्ती पावले असे स्मरले जाते त्या ठिकाणाला आजही कण्व महान तुरै म्हणतात. दोन्ही कथा नतमस्तक होणाऱ्या गर्विष्ठांचा स्वीकार करणाऱ्या, आणि शोधणाऱ्यांना वृक्षाखाली साधेपणाने सापडणाऱ्या परमेश्वराचे दर्शन घडवतात.",
+    "festivals": "दोन प्रमुख उत्सव म्हणजे मार्गळी महिन्यातील (डिसेंबर किंवा जानेवारी) नटराजाचा सन्मान करणारा आरुद्र दर्शनम, आणि कार्तिक महिन्यात (नोव्हेंबर किंवा डिसेंबर) दिवे लावले जाणारा कार्तिक दीपम. प्रत्येक शिव मंदिराप्रमाणे महाशिवरात्री व मासिक प्रदोष पाळले जातात. तारखा तमिळ पंचांगानुसार असल्याने स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "गर्दीसाठी नव्हे तर एका तेवारम गावाच्या शांततेसाठी कीळैयूरला या. पश्चिमाभिमुख गाभारा भक्ताला दर्शनाच्या वेगळ्या लयीत घेऊन जातो, आणि अनेक जण देवी अभिरामीकडे तिच्या स्वतंत्र पश्चिमाभिमुख गाभाऱ्यात वळण्यापूर्वी नटराज व भैरवाच्या गाभाऱ्यांपाशी थांबतात. ब्रह्मदेवाची आख्यायिका जाणणारे अनेक जण मंदिराच्या वृक्षांखाली काही वेळ बसतात, ज्या किळुवैखाली परमेश्वर प्रथम प्रकट झाले त्याचे स्मरण करत. मंदिर गावाच्या बसथांब्यापासून थोड्या अंतरावर आहे, आणि कावेरीजवळचा परिसर या शांततेत भर घालतो."
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again from late afternoon into the evening, with a midday break; published timings differ, so confirm locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Keezhaiyur is in Tharangambadi taluk, Mayiladuthurai district, and is reached by road from Mayiladuthurai or Sirkazhi; the temple stands about 2 km from the Keezhaiyur bus stop. Mayiladuthurai Junction is the nearest major railway station, and Tiruchirappalli is the nearest large airport, well over 100 km away. Hiring a car from Mayiladuthurai or Sirkazhi is the most convenient way to reach the village."
+    "timings": "सहसा सकाळी काही तास व पुन्हा दुपारनंतर संध्याकाळपर्यंत उघडे असते, मध्यान्ही विश्रांती असते; प्रसिद्ध वेळा वेगवेगळ्या असतात, त्यामुळे विशेषतः उत्सवाच्या दिवशी स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पँट, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे व गुडघे झाकलेले. पादत्राणे प्रवेशद्वाराबाहेर ठेवावीत.",
+    "photography": "बाह्य दालनांत व प्रांगणांत छायाचित्रणास सहसा परवानगी असते, परंतु तमिळनाडूच्या मंदिर नियमांनुसार गाभाऱ्याच्या आत ते प्रतिबंधित आहे. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "कीळैयूर तरंगंबाडी तालुक्यात, मयिलाडुतुरै जिल्ह्यात आहे, आणि मयिलाडुतुरै किंवा सिरकाळीपासून रस्त्याने गाठता येते; मंदिर कीळैयूर बसथांब्यापासून सुमारे २ किमी अंतरावर आहे. मयिलाडुतुरै जंक्शन हे सर्वांत जवळचे प्रमुख रेल्वे स्थानक आहे, आणि तिरुच्चिरापल्ली हे सर्वांत जवळचे मोठे विमानतळ असून ते १०० किमीहून बरेच दूर आहे. मयिलाडुतुरै किंवा सिरकाळीहून कार घेणे हा गावात पोहोचण्याचा सर्वांत सोयीचा मार्ग आहे."
   }
 }

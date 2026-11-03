@@ -1,29 +1,36 @@
 {
   "id": "kalaiyarnathar-kalaiyarkoil",
   "locale": "mr",
+  "name": "कळैयप्पर मंदिर, कळैयारकोइल",
   "nativeName": "காளையார் கோயில்",
+  "deity": "शिव कळैयप्पर (स्वर्णकालीश्वरर) रूपात, देवी सोर्णवल्ली (सौंदरनायकी) सह",
+  "tradition": "शैव",
   "location": {
-    "city": "Kalaiyarkoil",
-    "state": "Tamil Nadu",
+    "city": "कळैयारकोइल",
+    "state": "तमिळनाडू",
     "lat": 9.8458,
     "lng": 78.6314
   },
+  "period": "पांड्य देशातील प्राचीन शैव स्थान, तेवारम्‌चे तिरुक्कणप्पेर (८वे शतक); पांड्य व नंतरच्या मरुदु पांड्यर काळातील गोपुरे आणि जीर्णोद्धार",
   "century": 8,
+  "dynasty": "पांड्य मूळ, शिवगंगैच्या मरुदु पांड्यर राज्यकर्त्यांकडून नंतरचा जीर्णोद्धार",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कळैयारकोइल येथील कळैयप्पर मंदिर, तेवारम्‌चे तिरुक्कणप्पेर, हे पांड्य देशातील शिव स्थान असून उंच नऊ-स्तरीय गोपुराखाली तीन गाभारे असलेले आहे, आणि त्याचा जीर्णोद्धार करणाऱ्या मरुदु पांड्यर बंधूंसाठीही स्मरणीय आहे.",
   "sections": {
-    "history": "Kalaiyarkoil in Sivagangai district is the Tirukkanapper of the Tevaram, and its Shiva temple is a Paadal Petra Sthalam of the Pandya country. The place is also named Tirukkanapper in the Sangam anthology Purananuru, which shows how old the name is. Tradition recalls a visit by the saint Sundarar to the shrine. In the late eighteenth century the town was the seat of the Marudhu Pandiyar brothers, Periya Marudhu and Chinna Marudhu, who ruled the Sivagangai country and resisted the British. They are remembered for renewing the temple within their fort and raising a lofty gopuram for it, and a memorial to them stands on the street facing the main tower.",
-    "architecture": "Two east-facing gopurams rise over the temple: a nine-tiered tower of about 150 to 157 feet, among the tallest in Tamil Nadu, and a smaller five-tiered one. Sources differ on who built which, crediting the Marudhu brothers, the Pandya king Sundara Pandiyan, or both, so the attribution is best held as traditional. Within two prakarams stand three separate sanctums: Swarnakaleeswarar at the centre, Someswarar on the right and Sundareswarar on the left. The goddess Sornavalli, known also as Soundaranayaki, has her own shrine. Tradition says that from the top of the great tower the gopuram of the Meenakshi temple at Madurai could once be seen.",
-    "legends": "The name Swarnakaleeswarar, the Lord of gold, recalls the tale of a Pandya king who had no child. His queen, to console herself, fashioned the image of a child in gold. The king is said to have later raised the temple around that sacred spot in remembrance of these events. The tale is told as tradition, and its details vary from one telling to another. Later memory has joined the temple to the Marudhu Pandiyars, whose renewal of it is recalled in the town to this day.",
-    "festivals": "The main festival of the Lord falls in the Tamil month of Thai, in January or February, when the chariot festival is held on the Poosam star. Someswarar's Brahmotsavam is celebrated in the month of Vaikasi, in May or June, and Aadi Pooram, in July or August, is observed for the goddess Swarnavalli. Each year on 27 October the town keeps Marudhu Pandiyar Guru Pooja in honour of the Marudhu brothers. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Kalaiyarkoil rewards a patient visit. The great nine-tiered tower announces the temple from a distance, and the street before it holds the memorial of the Marudhu brothers. Pass beneath the gopuram and visit the three sanctums in turn, beginning with Swarnakaleeswarar at the centre. Offer your respects to the goddess Sornavalli in her shrine, then walk the prakarams slowly, thinking of the kings and saints who have passed here. The festival months bring the largest crowds, and the quieter hours outside them suit a calm darshan."
+    "history": "शिवगंगै जिल्ह्यातील कळैयारकोइल हे तेवारम्‌चे तिरुक्कणप्पेर आहे, आणि येथील शिव मंदिर हे पांड्य देशातील पाडल पेट्र स्थलम् आहे. संगम काव्यसंग्रह पुरनानूरु‌मध्येही या स्थानाचे नाव तिरुक्कणप्पेर असे आले आहे, जे या नावाची प्राचीनता दाखवते. परंपरेनुसार संत सुंदरर यांनी या स्थानाला भेट दिली. अठराव्या शतकाच्या उत्तरार्धात हे शहर मरुदु पांड्यर बंधूंचे — पेरिय मरुदु आणि चिन्न मरुदु — ठिकाण होते, ज्यांनी शिवगंगै प्रदेशावर राज्य केले आणि ब्रिटिशांना विरोध केला. आपल्या किल्ल्यातील मंदिराचा जीर्णोद्धार करून त्यासाठी उंच गोपुर उभारल्याबद्दल त्यांचे स्मरण केले जाते, आणि मुख्य गोपुरासमोरच्या रस्त्यावर त्यांचे स्मारक आहे.",
+    "architecture": "मंदिरावर पूर्वाभिमुख दोन गोपुरे उभी आहेत: सुमारे १५० ते १५७ फूट उंचीचे नऊ-स्तरीय गोपुर, जे तमिळनाडूतील सर्वांत उंच गोपुरांपैकी एक आहे, आणि एक लहान पाच-स्तरीय गोपुर. कोणते कोणी बांधले याविषयी स्रोत भिन्न आहेत, काही मरुदु बंधूंना, काही पांड्य राजा सुंदर पांड्यन यांना, तर काही दोघांनाही श्रेय देतात, त्यामुळे हे श्रेय पारंपरिक म्हणूनच मानावे. दोन प्राकारांत तीन स्वतंत्र गाभारे आहेत: मध्यभागी स्वर्णकालीश्वरर, उजवीकडे सोमेश्वरर आणि डावीकडे सुंदरेश्वरर. देवी सोर्णवल्ली, जिला सौंदरनायकी असेही म्हणतात, तिचा स्वतंत्र गाभारा आहे. परंपरेनुसार या मोठ्या गोपुराच्या शिखरावरून मदुराईच्या मीनाक्षी मंदिराचे गोपुर एकेकाळी दिसत असे.",
+    "legends": "स्वर्णकालीश्वरर, सुवर्णाचा स्वामी, या नावामागे अपत्यहीन पांड्य राजाची कथा आहे. त्याची राणी आपल्या सांत्वनासाठी सुवर्णात एका बालकाची मूर्ती घडवते. या घटनांच्या स्मरणार्थ राजाने नंतर त्या पवित्र स्थळी मंदिर उभारले असे सांगितले जाते. ही कथा परंपरेने सांगितली जाते, आणि तिचे तपशील एका कथनातून दुसऱ्यात बदलतात. नंतरच्या स्मरणाने हे मंदिर मरुदु पांड्यरांशी जोडले आहे, ज्यांचा जीर्णोद्धार आजही शहरात स्मरला जातो.",
+    "festivals": "देवाचा मुख्य उत्सव तमिळ थै महिन्यात, जानेवारी किंवा फेब्रुवारीमध्ये येतो, जेव्हा पूसम नक्षत्रावर रथोत्सव होतो. सोमेश्वररांचा ब्रह्मोत्सव वैकासि महिन्यात, मे किंवा जूनमध्ये साजरा होतो, आणि देवी स्वर्णवल्लीसाठी आडि पूरम्, जुलै किंवा ऑगस्टमध्ये पाळला जातो. दरवर्षी २७ ऑक्टोबरला शहर मरुदु बंधूंच्या सन्मानार्थ मरुदु पांड्यर गुरुपूजा पाळते. प्रत्येक शिव मंदिराप्रमाणे महाशिवरात्री व मासिक प्रदोषम् पाळले जातात. तारखा तमिळ पंचांगाप्रमाणे असल्याने स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "कळैयारकोइल संयमी भेटीचे फळ देते. मोठे नऊ-स्तरीय गोपुर दुरूनच मंदिराची घोषणा करते, आणि समोरच्या रस्त्यावर मरुदु बंधूंचे स्मारक आहे. गोपुराखालून जाऊन मध्यभागी स्वर्णकालीश्वररापासून सुरुवात करत तिन्ही गाभाऱ्यांचे क्रमाने दर्शन घ्या. देवी सोर्णवल्लीला तिच्या गाभाऱ्यात नमस्कार करा, मग येथून गेलेल्या राजांचा व संतांचा विचार करत प्राकारांतून हळूहळू फेरी घाला. उत्सव महिन्यांत सर्वाधिक गर्दी असते, आणि त्यापलीकडचे शांत तास शांत दर्शनासाठी योग्य असतात."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Kalaiyarkoil is a town in Sivagangai district, reached by road from Sivagangai, Madurai and Karaikudi. Madurai has the nearest major airport, and Madurai, Sivagangai and Karaikudi all have railway stations. Buses serve the town, and the tall gopuram is easy to spot on arrival. Confirm routes and distances locally before travelling."
+    "timings": "सामान्यतः सकाळी आणि पुन्हा उत्तर-दुपारपासून संध्याकाळपर्यंत उघडे, दुपारी विश्रांती; विशेषतः उत्सवाच्या दिवशी स्थानिक पातळीवर वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे व गुडघे झाकलेले. प्रवेशद्वाराजवळ पादत्राणे ठेवली जातात.",
+    "photography": "तमिळनाडू मंदिर नियमांनुसार बाहेरील ओवऱ्या व अंगणांत छायाचित्रणास सामान्यतः परवानगी आहे पण गाभाऱ्यात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "कळैयारकोइल हे शिवगंगै जिल्ह्यातील शहर आहे, शिवगंगै, मदुराई आणि कारैकुडीहून रस्त्याने पोहोचता येते. मदुराईला सर्वांत जवळचे मोठे विमानतळ आहे, आणि मदुराई, शिवगंगै व कारैकुडी येथे रेल्वे स्थानके आहेत. शहराला बससेवा आहे, आणि आगमनावर उंच गोपुर सहज दिसते. प्रवासापूर्वी मार्ग व अंतरे स्थानिक पातळीवर तपासून घ्या."
   }
 }

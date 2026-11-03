@@ -1,29 +1,36 @@
 {
   "id": "adhimooleswarar-tiruppatrurai",
   "locale": "mr",
+  "name": "आदिमूलेश्वरर मंदिर, तिरुप्पात्रुरै",
   "nativeName": "ஆதிமூலேஸ்வரர் கோயில்",
+  "deity": "शिव आदिमूलेश्वरर (मूलनाथर) रूपात, देवी नित्यकल्याणी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tiruppatrurai",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पात्रुरै",
+    "state": "तमिळनाडू",
     "lat": 10.8458,
     "lng": 78.7692
   },
+  "period": "कोळ्ळिडम् काठचे प्राचीन शैव मंदिर, तेवारम्मध्ये (७वे शतक) गायिलेले; चोळ कालखंडातील संरचनात्मक मंदिर व नंतरच्या भरांसह",
   "century": 7,
+  "dynasty": "चोळ (पहिल्या परांतकाचे व नंतरच्या चोळ राजांचे शिलालेख)",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "आदिमूलेश्वरर हे तिरुप्पात्रुरैचे तेवारम् मंदिर आहे — कोळ्ळिडम् काठचे दुधाचे ठिकाण, जेथे परंपरेनुसार मार्कंडेय ऋषींच्या प्रार्थनेला उत्तर देण्यासाठी शिवलिंगावर आपोआप दूध पाझरले.",
   "sections": {
-    "history": "Tiruppatrurai stands in the river country north of the Kaveri, on the banks of the Kollidam, a short way east of Tiruvanaikaval. It is one of the Paadal Petra Sthalams, the shrines hymned in the Tevaram by the Nayanar saints of the seventh century, and Sambandar is recorded as having sung here. The name is read as paal-thurai, the milk-place on the river bank, a memory of the miracle on which the shrine is founded. Stone inscriptions of the Chola age survive within the temple, among them records of Parantaka I and Vikrama Chola, including land grants that were cut afresh when the older engravings had worn away. The deity is called Adhimooleswarar, the Lord who is the primal root, and he has been worshipped here without interruption through the long centuries.",
-    "architecture": "The temple is a compact, quiet Dravidian shrine of the Chola country. The sanctum faces east and holds a self-manifested Shiva linga, the Adhimooleswarar who gives the temple its name. The goddess Nithyakalyani, who is also remembered as Mekalambika and Mohanayaki, has her own shrine facing south, a direction devotees associate with gentleness toward the fear of death. Behind the sanctum, where Shiva temples usually place Lingodbhava, stands a shrine of Sankaranarayana, the joint form of Shiva and Vishnu. The inscribed stones of the Chola period line the walls, and the setting between two rivers gives the place an unhurried, green calm.",
-    "legends": "Two stories gather here. In the first, a Chola king hunting in the riverside country chased a bird that vanished into a bush. He loosed an arrow after it and the arrow struck an anthill, from which milk began to flow. That night Shiva appeared to him in a dream and told him that he dwelt in the anthill, and the king raised a temple on the spot. The place took the name Pattrurai from the milk. In the second, the sage Markandeya, bound by a short life, came here to pray for more. There was no water at hand to bathe the linga, and milk rose from the head of the linga itself and anointed it. In both tellings, Shiva is the Lord who answers need before it is spoken.",
-    "festivals": "Maha Shivaratri in the month of Masi, in February or March, is kept with night-long worship, and Tirukarthikai in November or December fills the temple with lamps. Arudra Darshan in Margazhi honours Shiva as the cosmic dancer, and the annual Brahmotsavam draws devotees from the surrounding villages. A special worship is offered to the goddess Nithyakalyani on every full-moon day, and Pradosham is observed each month. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Tiruppatrurai is a place for slow, quiet pilgrimage. It sits away from the highway, so the visit begins with a drive or ride through fields and village lanes toward the Kollidam. Come first to the sanctum of Adhimooleswarar and let the story of the flowing milk settle, then walk to the southward shrine of Nithyakalyani, and finish at the small shrine of Sankaranarayana behind the sanctum. Devotees who come on full-moon days find the goddess worshipped with special care. Few other visitors come, and the temple keeps the stillness of a riverside sanctuary."
+    "history": "तिरुप्पात्रुरै हे कावेरीच्या उत्तरेकडील नदी-प्रदेशात, कोळ्ळिडम्च्या काठावर, तिरुवानैक्कावलच्या थोड्या पूर्वेस आहे. तेवारम्मध्ये सातव्या शतकातील नायनार संतांनी गायिलेल्या मंदिरांपैकी — पाडल पेट्र स्थलम्पैकी — ते एक असून, येथे संबंदराने गायल्याची नोंद आहे. याचे नाव पाल-तुरै, नदीकाठचे दुधाचे ठिकाण असे वाचले जाते, ज्या चमत्कारावर मंदिराचा पाया आहे त्याची स्मृती. मंदिरात चोळ कालखंडातील दगडी शिलालेख टिकून आहेत, त्यांत पहिला परांतक व विक्रम चोळ यांच्या नोंदी असून, जुन्या कोरीव नोंदी झिजल्यावर पुन्हा कोरलेली भूदानेही आहेत. स्वामीला आदिमूलेश्वरर — जो आदि-मूळ स्वामी आहे असे — म्हणतात, आणि अनेक शतके येथे अखंड पूजा होत आली आहे.",
+    "architecture": "हे चोळ प्रदेशातील एक आटोपशीर, शांत द्राविड मंदिर आहे. गर्भगृह पूर्वाभिमुख असून त्यात स्वयंभू शिवलिंग — मंदिराला नाव देणारा आदिमूलेश्वरर — आहे. देवी नित्यकल्याणी, जिला मेकलांबिका व मोहनायकी असेही स्मरले जाते, तिचे स्वतःचे दक्षिणाभिमुख मंदिर आहे, जी दिशा भक्त मृत्यूच्या भयाविषयीच्या सौम्यतेशी जोडतात. गर्भगृहामागे, जेथे शिव मंदिरे सहसा लिंगोद्भव ठेवतात, तेथे शंकरनारायण — शिव व विष्णूचे संयुक्त रूप — यांचे मंदिर आहे. चोळ कालखंडातील कोरीव शिळा भिंतींना लागून आहेत, आणि दोन नद्यांमधील स्थानामुळे या जागेला एक निवांत, हिरवीगार शांतता लाभते.",
+    "legends": "येथे दोन कथा एकत्र येतात. पहिल्यात, नदीकाठच्या प्रदेशात शिकार करणाऱ्या एका चोळ राजाने एका पक्ष्याचा पाठलाग केला जो झुडपात अदृश्य झाला. त्याने त्यामागे बाण सोडला आणि तो बाण एका वारुळावर लागला, ज्यातून दूध वाहू लागले. त्या रात्री शिव त्याला स्वप्नात दिसले व सांगितले की तो वारुळात वास करतो, आणि राजाने त्या जागी मंदिर उभारले. दुधावरून त्या जागेला पात्रुरै हे नाव पडले. दुसऱ्यात, अल्पायुषी असलेला मार्कंडेय ऋषी अधिक आयुष्यासाठी प्रार्थना करण्यास येथे आला. लिंगाला अभिषेक करण्यासाठी जवळ पाणी नव्हते, आणि लिंगाच्या मस्तकातून दूध उठले व त्याने लिंगाला अभिषेक केला. दोन्ही कथांत, शिव हा गरज बोलून दाखवण्याआधीच तिला उत्तर देणारा स्वामी आहे.",
+    "festivals": "मासी महिन्यातील महाशिवरात्री, फेब्रुवारी किंवा मार्चमध्ये, रात्रभर पूजेसह पाळली जाते, आणि नोव्हेंबर किंवा डिसेंबरमधील तिरुकार्तिगै मंदिर दिव्यांनी भरून टाकते. मार्गझी महिन्यातील आरुद्र दर्शन शिवाला विश्वनर्तक म्हणून गौरवते, आणि वार्षिक ब्रह्मोत्सवम् आसपासच्या गावांतील भक्तांना आकर्षित करतो. प्रत्येक पौर्णिमेला देवी नित्यकल्याणीला विशेष पूजा अर्पण केली जाते, आणि दर महिन्याला प्रदोषम् पाळला जातो. तारखा तमिळ पंचांगाचे अनुसरण करतात, म्हणून त्या स्थानिक पातळीवर निश्चित करून घ्या.",
+    "experience": "तिरुप्पात्रुरै हे संथ, शांत तीर्थयात्रेचे ठिकाण आहे. ते महामार्गापासून दूर असल्याने भेटीची सुरुवात शेते व गावातील रस्त्यांतून कोळ्ळिडम्कडे प्रवासाने होते. प्रथम आदिमूलेश्वररच्या गर्भगृहात या व वाहणाऱ्या दुधाची कथा मनात स्थिरावू द्या, मग नित्यकल्याणीच्या दक्षिणाभिमुख मंदिराकडे चाला, आणि गर्भगृहामागील शंकरनारायणाच्या छोट्या मंदिरात शेवट करा. पौर्णिमेला येणाऱ्या भक्तांना देवीची विशेष काळजीपूर्वक पूजा होताना दिसते. इतर फारच थोडे भेट देणारे येतात, आणि मंदिर नदीकाठच्या एका आश्रयस्थानाची स्तब्धता जपते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the temple.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple is about 9 km east of Tiruvanaikaval, near Panayapuram, on the Kollidam bank in Tiruchirappalli district. Tiruchirappalli Junction is the main railway station, and Tiruchirappalli has the nearest airport. Public transport to the village is limited, so an auto-rickshaw, taxi or private vehicle from Tiruvanaikaval or Tiruchirappalli is the practical way to reach it."
+    "timings": "सामान्यतः सकाळी व पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले असते, दुपारी विश्रांतीसह; वेळा स्थानिक पातळीवर, विशेषतः उत्सवाच्या दिवशी, निश्चित करून घ्या.",
+    "dressCode": "साधे पारंपरिक वस्त्र अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पँट, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे व गुडघे झाकलेले. पादत्राणे मंदिराबाहेर ठेवली जातात.",
+    "photography": "तमिळनाडू मंदिर नियमांनुसार बाहेरील प्रदक्षिणामार्गात व प्रांगणांत सामान्यतः छायाचित्रणास परवानगी असते, परंतु आतील गर्भगृहात नाही. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "हे मंदिर तिरुचिरापल्ली जिल्ह्यात कोळ्ळिडम् काठावर, पणैयपुरमजवळ, तिरुवानैक्कावलपासून सुमारे ९ किमी पूर्वेस आहे. तिरुचिरापल्ली जंक्शन हे मुख्य रेल्वे स्थानक आहे, आणि तिरुचिरापल्ली येथे सर्वांत जवळचे विमानतळ आहे. गावापर्यंत सार्वजनिक वाहतूक मर्यादित असल्याने, तिरुवानैक्कावल किंवा तिरुचिरापल्लीहून ऑटोरिक्षा, टॅक्सी किंवा खासगी वाहन हा व्यवहार्य मार्ग आहे."
   }
 }

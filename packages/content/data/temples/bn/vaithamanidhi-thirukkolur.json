@@ -1,31 +1,38 @@
 {
   "id": "vaithamanidhi-thirukkolur",
   "locale": "bn",
+  "name": "বৈত্তমানিধি পেরুমাল মন্দির, তিরুক্কোলূর",
   "nativeName": "வைத்தமாநிதி பெருமாள் கோயில், திருக்கோளூர்",
+  "deity": "বিষ্ণু বৈত্তমানিধি পেরুমাল রূপে, দেবী কুমুদবল্লী সহ — নব তিরুপতির মধ্যে মঙ্গল (অঙ্গারক) গ্রহের মন্দির",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirukkolur",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কোলূর",
+    "state": "তামিলনাড়ু",
     "lat": 8.6,
     "lng": 77.83
   },
+  "period": "তাম্রপর্ণীর তীরে পাণ্ড্য অঞ্চলের একটি দিব্য দেশম, নাম্মালবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "তাম্রপর্ণীর তীরে তিরুক্কোলূরে বিষ্ণু বৈত্তমানিধি পেরুমাল রূপে বিরাজমান, সেই প্রভু যিনি স্বয়ং গচ্ছিত ধনভাণ্ডার—নয় গ্রহ-তিরুপতির মধ্যে মঙ্গল গ্রহের মন্দির, নাম্মালবার কর্তৃক স্তুত একটি দিব্য দেশম।",
   "sections": {
-    "history": "Thirukkolur lies on the Tamiraparani near Alvarthirunagari, and is remembered as the home of Madhurakavi Alvar; its lord is Vaithamanidhi Perumal, honoured as the imperishable wealth entrusted to the devotee. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of Mars, Angaraka.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Vaithamanidhi Perumal, with the Goddess Kumudavalli. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Thirukkolur the planet is Mars, Angaraka.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of Mars, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "তিরুক্কোলূর আলবারতিরুনগরীর নিকটে তাম্রপর্ণীর তীরে অবস্থিত, এবং মধুরকবি আলবারের আবাস হিসেবে স্মরণীয়; এর প্রভু বৈত্তমানিধি পেরুমাল, ভক্তের কাছে গচ্ছিত অবিনশ্বর ধন রূপে সম্মানিত। এটি ১০৮টি দিব্য দেশমের অন্যতম, আলবার সন্তরা নালায়িরা দিব্য প্রবন্ধমে যে বিষ্ণুর আবাসগুলি স্তুত করেছেন তার একটি, এবং নব তিরুপতির অন্যতম—তাম্রপর্ণীর নয়টি মন্দির, প্রতিটিই বৈষ্ণবদের কাছে একটি গ্রহ-মন্দির রূপে গণ্য। নব তিরুপতির মধ্যে এটি মঙ্গল, অঙ্গারকের মন্দির রূপে সম্মানিত।",
+    "architecture": "পাণ্ড্য অঞ্চলের ও তার পরবর্তী পৃষ্ঠপোষকদের দ্রাবিড় রীতিতে নির্মিত, মন্দিরে একটি তোরণ-চূড়া দিয়ে প্রবেশ করে অধিষ্ঠাতা বিষ্ণুর গর্ভগৃহকে কেন্দ্র করে সমবেত হয়, দেবী তাঁর নিজস্ব মন্দিরে। এখানে প্রভু বৈত্তমানিধি পেরুমাল রূপে, দেবী কুমুদবল্লী সহ পূজিত। দক্ষিণের মন্দির-রীতিতে গর্ভগৃহের সামনে স্তম্ভযুক্ত মণ্ডপ খোলে।",
+    "legends": "নব তিরুপতি একসঙ্গে বৈষ্ণবদের নয় গ্রহ-মন্দির রূপে পূজিত হয়: যেখানে কাবেরীর শৈব ঐতিহ্য নয়টি পৃথক নবগ্রহ মন্দির রাখে, সেখানে এখানে নয় গ্রহ তাম্রপর্ণীর নয়টি বিষ্ণু-আবাসে সম্মানিত, সবই নাম্মালবার কর্তৃক স্তুত, আলবারদের অগ্রগণ্য, যাঁর নিজের জন্মস্থান এর মধ্যেই আলবারতিরুনগরী। তিরুক্কোলূরে গ্রহটি মঙ্গল, অঙ্গারক।",
+    "festivals": "মন্দিরে মহৎ বৈষ্ণব উৎসব পালিত হয়—বৈকুণ্ঠ একাদশী, গরুড় সেবাই যখন নয়টিকে এক পরিক্রমায় পূজা করা হয়, এবং নাম্মালবার ও আলবারদের দিনগুলি—নদীতীরের গ্রামগুলির মধ্যে দিয়ে শোভাযাত্রা সহ। তাম্রপর্ণীর নিজস্ব উৎসবগুলি আশেপাশের অঞ্চলকে আকৃষ্ট করে।",
+    "experience": "নয়টির মধ্যে একটি শান্ত নদীতীরবর্তী দিব্য দেশম, যে তীর্থযাত্রী এক তিরুপতি থেকে পরেরটি পর্যন্ত তাম্রপর্ণী অনুসরণ করেন তাঁর জন্য ফলপ্রদ। মঙ্গলের মন্দির রূপে এটি নব তিরুপতির একক তীর্থযাত্রায় স্থান পায়, যা নয় গ্রহকে বিষ্ণুর আবাসে সমবেত করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনকালে এবং দুপুরে বন্ধ থাকার সময়সহ খোলা থাকে; গরুড় সেবাই ও বৈকুণ্ঠ একাদশীর দিন সবচেয়ে ভিড় হয়। যাওয়ার আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহের ভিতরে ও চারপাশে আলোকচিত্র তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "এটি তিরুনেলবেলি–তুতিকোরিন অঞ্চলে তাম্রপর্ণীর তীরে, তিরুনেলবেলি–তিরুচেন্দুর পথে অবস্থিত, তিরুনেলবেলি থেকে সড়কপথে পৌঁছানো যায়; নয়টি তিরুপতি গ্রাম নদীর ধারে কাছাকাছি অবস্থিত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaithamanidhi-thirukkolur.jpg",

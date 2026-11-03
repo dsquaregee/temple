@@ -1,29 +1,36 @@
 {
   "id": "pathanjali-vilamal",
   "locale": "bn",
+  "name": "পতঞ্জলি মনোহরর মন্দির, তিরুবিলামর (বিলামল)",
   "nativeName": "திருவிளமர் பதஞ்சலி மனோகரர் கோயில்",
+  "deity": "শিব পতঞ্জলি মনোহরর রূপে (যিনি ঋষি পতঞ্জলিকে মুগ্ধ করেছিলেন), দেবী মধুরভাষিণীর (তেনমোড়ি অম্মৈ) সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Vilamal, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "বিলামল, তিরুবারুরের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.78,
     "lng": 79.63
   },
+  "period": "তেবারম যুগ (৭ম শতকে স্তুত); পরবর্তী চোল নির্মিত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "বিলামল, তেবারমের তিরুবিলামর, তিরুবারুরের নিকটে ওডম্বোক্কির তীরে অবস্থিত, শিবকে পতঞ্জলি মনোহরর রূপে — যে প্রভু ঋষি পতঞ্জলিকে মুগ্ধ করেছিলেন — দেবী মধুরভাষিণী, 'মধুর বাণীময়ী', সহ সম্মান জানায়। তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত এই পাডল পেট্র স্থলম তিরুবারুর দেশের একটি শান্ত মন্দির, যার নাম যোগের মহান ঋষিকে স্মরণ করায়।",
   "sections": {
-    "history": "Vilamal, whose Tevaram name is Tiruvilamar, lies on the banks of the Odampokki river very close to Tiruvarur (sources give 1–3 km) in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The sacred tank is the Agni Teertham, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Pathanjali Manoharar in the sanctum, with the goddess Madhurabhashini — also Thenmozhi Ammai, and in another reckoning Yazhinum Menmozhiyaal, 'she whose words are softer than the lute' — in her own, south-facing shrine, a Nandi and the parivara devatas. The Agni Teertham lies within the temple's sacred geography.",
-    "legends": "The lord's name Pathanjali Manoharar — 'he who captivated Patanjali' — joins the shrine to the great sage Patanjali, author of the Yoga Sutras, who in Shaiva tradition witnessed Shiva's cosmic dance and is counted among his devotees. Here the lord is remembered as the one whose grace charmed the heart of the yogi. The goddess's names, all turning on the sweetness of her speech, give the shrine its gentle devotional note; the fuller sthala purana is preserved in the local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a shrine near Tiruvarur. Pilgrims on the Paadal Petra trail around Tiruvarur include Vilamal among their stops.",
-    "experience": "At Vilamal the pilgrim finds a quiet shrine by the Odampokki, close to great Tiruvarur, loved for its tie to the sage Patanjali. Before Pathanjali Manoharar and the sweet-spoken Madhurabhashini, the visitor touches the memory of yoga's great sage in a small Tevaram temple of the delta."
+    "history": "বিলামল, যার তেবারম নাম তিরুবিলামর, তিরুবারুর জেলায় তিরুবারুরের খুব কাছে (সূত্র অনুসারে ১–৩ কিমি) ওডম্বোক্কি নদীর তীরে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত। পবিত্র পুষ্করিণী অগ্নি তীর্থম, এবং পাথরের মন্দিরটি চোল যুগ ও তার পরবর্তী সময়ের।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এই উপাসনালয় গর্ভগৃহে পতঞ্জলি মনোহররকে প্রতিষ্ঠিত করে, এবং দেবী মধুরভাষিণী — তেনমোড়ি অম্মৈ, এবং অন্য হিসেবে যাড়িনুম মেনমোড়িয়াল, 'যাঁর বাণী বীণার চেয়েও কোমল' — তাঁর নিজস্ব দক্ষিণমুখী মন্দিরে, একটি নন্দী এবং পরিবার দেবতাগণ সহ অবস্থান করেন। অগ্নি তীর্থম মন্দিরের পবিত্র ভূগোলের অন্তর্ভুক্ত।",
+    "legends": "প্রভুর নাম পতঞ্জলি মনোহরর — 'যিনি পতঞ্জলিকে মোহিত করেছিলেন' — এই উপাসনালয়কে যোগসূত্রের রচয়িতা মহান ঋষি পতঞ্জলির সঙ্গে যুক্ত করে, যিনি শৈব ঐতিহ্যে শিবের মহাজাগতিক নৃত্য প্রত্যক্ষ করেছিলেন এবং তাঁর ভক্তদের মধ্যে গণ্য হন। এখানে প্রভু সেই রূপে স্মরণীয় যাঁর কৃপা যোগীর হৃদয় মুগ্ধ করেছিল। দেবীর নামগুলি, সকলই তাঁর বাণীর মাধুর্য ঘিরে, মন্দিরকে এর কোমল ভক্তিসুর দেয়; সম্পূর্ণ স্থল পুরাণ স্থানীয় ঐতিহ্যে ও সম্বন্দরের শ্লোকে সংরক্ষিত।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজা সহ পালন করে — তিরুবারুরের নিকটবর্তী একটি উপাসনালয়ের শান্ত পরিসরে। তিরুবারুরের চারপাশে পাডল পেট্র পথের তীর্থযাত্রীরা বিলামলকে তাঁদের বিরামস্থলের মধ্যে অন্তর্ভুক্ত করেন।",
+    "experience": "বিলামলে তীর্থযাত্রী ওডম্বোক্কির ধারে একটি শান্ত উপাসনালয় খুঁজে পান, মহান তিরুবারুরের কাছে, ঋষি পতঞ্জলির সঙ্গে সম্পর্কের জন্য প্রিয়। পতঞ্জলি মনোহরর ও মধুরভাষিণীর সামনে দর্শনার্থী বদ্বীপের একটি ছোট তেবারম মন্দিরে যোগের মহান ঋষির স্মৃতি স্পর্শ করেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Vilamal is 1–3 km from Tiruvarur town, on the banks of the Odampokki river, in Tiruvarur district. Tiruvarur has its own railway station and bus stand, with local autos and buses reaching the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; স্থানীয়ভাবে সময় নিশ্চিত করে নিন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশদ্বারে জুতা খুলে রাখুন।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত ফটোগ্রাফি অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "বিলামল তিরুবারুর শহর থেকে ১–৩ কিমি দূরে, ওডম্বোক্কি নদীর তীরে, তিরুবারুর জেলায় অবস্থিত। তিরুবারুরের নিজস্ব রেলস্টেশন ও বাসস্ট্যান্ড আছে, স্থানীয় অটো ও বাস গ্রামে পৌঁছায়।"
   }
 }

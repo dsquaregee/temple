@@ -1,31 +1,38 @@
 {
   "id": "thiruchendur-murugan",
   "locale": "bn",
+  "name": "তিরুচেন্দুর মুরুগন মন্দির",
   "nativeName": "திருச்செந்தூர் முருகன் கோயில்",
+  "deity": "মুরুগন, সুব্রহ্মণ্য (সেন্তিলনাথন) রূপে পূজিত",
+  "tradition": "কৌমারম, শৈব ঐতিহ্যের মধ্যে মুরুগনের উপাসনা",
   "location": {
-    "city": "Thiruchendur",
-    "state": "Tamil Nadu",
+    "city": "তিরুচেন্দুর",
+    "state": "তামিলনাড়ু",
     "lat": 8.4956,
     "lng": 78.1206
   },
+  "period": "প্রাচীন মন্দির, সঙ্গম কাব্যে স্তুত; প্রস্তরমন্দির মধ্যযুগীয় ও পরবর্তী",
   "century": 9,
+  "dynasty": "পান্ড্য, নায়ক ও পরবর্তী",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "arupadai-veedu",
     "temples-of-the-deep-south"
   ],
+  "summary": "বঙ্গোপসাগরের তীরে দাঁড়িয়ে তিরুচেন্দুর মুরুগনের ছয় আবাসের দ্বিতীয় এবং পাহাড়ে অবস্থিত নয় এমন কেবল দুটির একটি — সেই সমুদ্রতীরবর্তী রণক্ষেত্র যেখানে দেবতা অসুর সুরপদ্মনকে পরাভূত করেছিলেন বলে কথিত।",
   "sections": {
-    "history": "Thiruchendur is among the oldest of Murugan’s shrines, invoked in the Sangam-era Tirumurugatruppadai and celebrated by the Tamil hymnists. Facing the sea, the temple grew under Pandya and Nayak patronage, its towering gopuram and pillared halls added over successive centuries. It endured coastal storms and a period of disruption in the colonial era, when tradition holds that its bronze festival images were hidden in the sea and later recovered. Continuously worshipped, it remains one of the foremost pilgrimage centres of the far south.",
-    "architecture": "Unlike the hill abodes, Thiruchendur rises directly beside the ocean, its nine-tiered gopuram a landmark for miles along the flat coast. The sanctum, cut partly into the rock, enshrines Subramanya as Senthilnathan; long corridors and mandapas lead from the sea-facing entrance inward. A short walk away, the Nazhi Kinaru — a freshwater well sunk into the sea sand — yields sweet water within sight of the surf, a wonder pilgrims never fail to visit. The sound of the waves is a constant presence within the temple’s outer courts.",
-    "legends": "Thiruchendur is bound to the Soorasamharam, the climax of the Skanda Purana narrative in which Murugan, leading the celestial armies, destroys the asura Surapadman here on the shore. When the asura, defeated, took the form of a great tree, the god split it with his lance; from it rose the peacock that became his mount and the rooster of his banner. The temple marks this victory of light over darkness, and the shore itself is remembered as the ground on which it was won.",
-    "festivals": "Skanda Sashti, in the Tamil month of Aippasi, is Thiruchendur’s supreme festival: six days of observance culminating in the Soorasamharam, when the defeat of Surapadman is enacted before immense crowds on the shore. Thai Poosam, Vaikasi Visakam, and the float festival are also kept with grandeur. Devotees bathe in the sea before darshan, and the Kanda Sashti Kavacham, a beloved Tamil hymn to Murugan, is chanted through the season across Tamil homes and this shore alike.",
-    "experience": "Few temple approaches are as striking as Thiruchendur’s: the great gopuram rising against sky and sea, the wind carrying salt and the roar of the surf. Pilgrims bathe in the ocean, then move through cool stone corridors toward the rock-cut sanctum. A visit to the Nazhi Kinaru, drawing sweet water steps from the salt sea, is part of the pilgrimage, as is a quiet moment on the shore where the god’s victory is remembered. At dawn and dusk the light off the water fills the courts, and the sea’s voice never leaves the prayers."
+    "history": "তিরুচেন্দুর মুরুগনের প্রাচীনতম মন্দিরগুলির অন্যতম, সঙ্গম-যুগের তিরুমুরুগাত্রুপ্পডৈয়ে আহূত এবং তামিল স্তোত্রকারদের দ্বারা প্রশংসিত। সমুদ্রমুখী এই মন্দির পান্ড্য ও নায়ক পৃষ্ঠপোষকতায় বেড়ে ওঠে, এর সুউচ্চ গোপুরম ও স্তম্ভযুক্ত মণ্ডপ পরপর শতাব্দীজুড়ে যুক্ত হয়েছে। এটি উপকূলীয় ঝড় এবং ঔপনিবেশিক যুগের এক বিপর্যয়ের কাল সহ্য করেছে, যখন প্রথা বলে এর ব্রোঞ্জ উৎসবমূর্তিগুলি সমুদ্রে লুকিয়ে রাখা হয়েছিল ও পরে উদ্ধার করা হয়। অবিচ্ছিন্নভাবে পূজিত, এটি সুদূর দক্ষিণের অন্যতম প্রধান তীর্থকেন্দ্র রয়ে গেছে।",
+    "architecture": "পাহাড়ি আবাসগুলির বিপরীতে তিরুচেন্দুর সরাসরি মহাসাগরের পাশে উঠেছে, এর নয়স্তরবিশিষ্ট গোপুরম সমতল উপকূল জুড়ে বহু মাইল দূর থেকে দৃশ্যমান একটি স্থানচিহ্ন। গর্ভগৃহ, আংশিকভাবে পাথরে খোদিত, সুব্রহ্মণ্যকে সেন্তিলনাথন রূপে প্রতিষ্ঠিত করে; দীর্ঘ বারান্দা ও মণ্ডপ সমুদ্রমুখী প্রবেশপথ থেকে ভিতরের দিকে নিয়ে যায়। অল্প দূরে নাজি কিনারু — সমুদ্রবালিতে খনন করা একটি স্বাদু জলের কুয়ো — ঢেউয়ের দৃষ্টিসীমার মধ্যেই মিষ্টি জল দেয়, এক বিস্ময় যা তীর্থযাত্রীরা কখনো দর্শন করতে ভোলেন না। মন্দিরের বাইরের চত্বরে ঢেউয়ের শব্দ এক নিরন্তর উপস্থিতি।",
+    "legends": "তিরুচেন্দুর সূরসংহারমের সঙ্গে বাঁধা, স্কন্দ পুরাণ আখ্যানের চরম মুহূর্ত যেখানে মুরুগন, দেবসেনার নেতৃত্ব দিয়ে, এখানে তীরে অসুর সুরপদ্মনকে বিনাশ করেন। পরাজিত অসুর যখন একটি বিশাল বৃক্ষের রূপ নিল, দেবতা তাঁর বর্শা দিয়ে তা বিদীর্ণ করলেন; তা থেকে উঠে এল সেই ময়ূর যা তাঁর বাহন হল এবং তাঁর পতাকার মোরগ। মন্দিরটি অন্ধকারের উপর আলোর এই বিজয় চিহ্নিত করে, এবং তীরটিই সেই ভূমি রূপে স্মরিত যেখানে তা অর্জিত হয়েছিল।",
+    "festivals": "তামিল মাস আইপ্পসির স্কন্দ ষষ্ঠী তিরুচেন্দুরের পরম উৎসব: ছয়দিনের আচার যা সূরসংহারমে পরিণতি পায়, যখন সুরপদ্মনের পরাজয় তীরে বিশাল জনসমাগমের সামনে অভিনীত হয়। তৈ পূসম, বৈকাসি বিসাকম ও ভেলা উৎসবও জাঁকজমকে পালিত হয়। ভক্তরা দর্শনের আগে সমুদ্রে স্নান করেন, এবং কন্দ ষষ্ঠী কবচম, মুরুগনের উদ্দেশে একটি প্রিয় তামিল স্তোত্র, এই ঋতুজুড়ে তামিল গৃহে ও এই তীরে একইভাবে উচ্চারিত হয়।",
+    "experience": "তিরুচেন্দুরের মতো মর্মস্পর্শী মন্দির-প্রবেশ অল্পই আছে: আকাশ ও সমুদ্রের বিপরীতে উঠে যাওয়া মহান গোপুরম, নোনা বাতাস ও ঢেউয়ের গর্জন। তীর্থযাত্রীরা মহাসাগরে স্নান করেন, তারপর শীতল প্রস্তর-বারান্দার মধ্য দিয়ে পাথর-খোদিত গর্ভগৃহের দিকে এগোন। নাজি কিনারু দর্শন, নোনা সমুদ্রের কয়েক পা দূরে মিষ্টি জল তুলে, তীর্থযাত্রার অংশ, যেমন তীরে একটি শান্ত মুহূর্ত যেখানে দেবতার বিজয় স্মরিত হয়। ভোর ও গোধূলিতে জলের উপরের আলো চত্বর ভরিয়ে তোলে, এবং সমুদ্রের কণ্ঠ কখনো প্রার্থনা ছেড়ে যায় না।"
   },
   "visit": {
-    "timings": "Generally open from around 5:00 am to 9:00 pm daily, with pujas through the day; hours extend during Skanda Sashti and other festivals.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered. Footwear is left at the stands outside.",
-    "photography": "Photography is not permitted inside the sanctum; follow posted rules and staff guidance, particularly during festivals.",
-    "gettingThere": "Thiruchendur is in Thoothukudi district on the coast, about 40 km from Tuticorin and 60 km from Tirunelveli, both rail-connected; the nearest airports are Tuticorin and Madurai. It has its own railway station and frequent buses."
+    "timings": "সাধারণত প্রতিদিন প্রায় সকাল ৫:০০ থেকে রাত ৯:০০ পর্যন্ত খোলা, সারাদিন পূজা সহ; স্কন্দ ষষ্ঠী ও অন্যান্য উৎসবের সময় সময়সীমা বাড়ানো হয়।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি বা সালোয়ার কামিজ, কাঁধ ও হাঁটু ঢাকা। বাইরের স্ট্যান্ডে জুতো রেখে দেওয়া হয়।",
+    "photography": "গর্ভগৃহের ভিতরে ছবি তোলা অনুমোদিত নয়; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ অনুসরণ করুন, বিশেষত উৎসবের সময়।",
+    "gettingThere": "তিরুচেন্দুর থুথুক্কুড়ি জেলায় উপকূলে অবস্থিত, তুতিকোরিন থেকে প্রায় ৪০ কিমি ও তিরুনেলবেলি থেকে ৬০ কিমি দূরে, দুটিই রেলসংযুক্ত; নিকটতম বিমানবন্দর তুতিকোরিন ও মাদুরাই। এর নিজস্ব রেলস্টেশন ও ঘনঘন বাস আছে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thiruchendur-murugan.jpg",

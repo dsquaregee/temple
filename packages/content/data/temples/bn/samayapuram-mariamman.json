@@ -1,28 +1,35 @@
 {
   "id": "samayapuram-mariamman",
   "locale": "bn",
+  "name": "অরুল্মিগু সময়পুরম মারিয়াম্মন মন্দির",
   "nativeName": "அருள்மிகு சமயபுரம் மாரியம்மன் கோயில்",
+  "deity": "দেবী মারিয়াম্মন রূপে, স্বাস্থ্য ও বৃষ্টির দাত্রী",
+  "tradition": "শাক্তধর্ম (মারিয়াম্মন উপাসনা)",
   "location": {
-    "city": "Samayapuram",
-    "state": "Tamil Nadu",
+    "city": "সময়পুরম",
+    "state": "তামিলনাড়ু",
     "lat": 10.928,
     "lng": 78.741
   },
+  "period": "তিরুচিরাপল্লির কাছে কাবেরীর ধারে এক মহান মারিয়াম্মন মন্দির, আরোগ্য ও মানতের জন্য অভিলষিত",
   "century": 17,
+  "dynasty": "বিজয়নগর ও নায়ক যুগের প্রতিষ্ঠা",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [],
+  "summary": "তিরুচিরাপল্লির কাছে কাবেরীর ধারে দেবীকে সময়পুরম মারিয়াম্মন রূপে পূজা করা হয় — সেই মাতা যাঁকে স্বাস্থ্যের জন্য এবং মানত পূরণের জন্য অভিলাষ করা হয়, তামিলদেশের সর্বাধিক দর্শিত অম্মন মন্দিরগুলির অন্যতম।",
   "sections": {
-    "history": "Samayapuram stands a little north of Tiruchirapalli, near the Kaveri. Here the Goddess is worshipped as Mariamman, the folk mother associated with health, rain, and the curing of disease. Grown from the Vijayanagara and Nayak period, it is among the wealthiest and most visited temples in Tamil Nadu, drawing crowds for its vows and healing.",
-    "architecture": "The temple is built in the Dravidian manner around the shrine of the Goddess, who is worshipped in a form of raw power rather than gentle grace. Its precincts fill with devotees fulfilling vows, and its festival processions are among the largest in the region.",
-    "legends": "Mariamman is the mother of the village and the fields, sought especially against the pox and fevers, and Samayapuram's Goddess is held to be swift to answer such prayers. Devotees make offerings of many kinds — rolling around the shrine, carrying fire-pots, shaving the head — in fulfilment of vows made in distress.",
-    "festivals": "The Chithirai Thiruvizha is the great festival, when the Goddess is drawn in procession and vast crowds come from across the Tamil country. Fridays and the Tamil month of Aadi are especially thronged.",
-    "experience": "Samayapuram is a temple of the vow and its fulfilment — a place of intense, direct devotion, where the mother is petitioned in trouble and thanked in relief, amid some of the largest crowds of the Kaveri country."
+    "history": "সময়পুরম তিরুচিরাপল্লির সামান্য উত্তরে, কাবেরীর কাছে অবস্থিত। এখানে দেবীকে মারিয়াম্মন রূপে পূজা করা হয়, সেই লোকমাতা যিনি স্বাস্থ্য, বৃষ্টি ও রোগনিরাময়ের সঙ্গে যুক্ত। বিজয়নগর ও নায়ক যুগ থেকে গড়ে ওঠা এই মন্দির তামিলনাড়ুর সবচেয়ে সমৃদ্ধ ও বহুদর্শিত মন্দিরগুলির অন্যতম, যা তার মানত ও আরোগ্যের জন্য জনসমাগম টানে।",
+    "architecture": "মন্দিরটি দেবীর গর্ভগৃহকে ঘিরে দ্রাবিড় রীতিতে নির্মিত, যিনি মৃদু করুণার চেয়ে কাঁচা শক্তির রূপে পূজিত। তার প্রাঙ্গণ মানত পূরণকারী ভক্তে পূর্ণ হয়, এবং তার উৎসবের শোভাযাত্রা এই অঞ্চলের বৃহত্তমগুলির অন্যতম।",
+    "legends": "মারিয়াম্মন গ্রাম ও খেতের মাতা, বিশেষত বসন্ত ও জ্বরের বিরুদ্ধে অভিলষিত, এবং সময়পুরমের দেবীকে এমন প্রার্থনার দ্রুত উত্তরদাত্রী বলে মনে করা হয়। ভক্তরা নানাবিধ নৈবেদ্য দেন — মন্দিরের চারপাশে গড়াগড়ি দেওয়া, অগ্নিকলস বহন করা, মাথা মুণ্ডন করা — বিপদের সময় নেওয়া মানত পূরণে।",
+    "festivals": "চিত্তিরৈ তিরুবিড়া হল মহা উৎসব, যখন দেবীকে শোভাযাত্রায় বের করা হয় এবং তামিলদেশের সর্বত্র থেকে বিপুল জনতা আসে। শুক্রবার ও তামিল আড়ি মাস বিশেষভাবে ভিড়াক্রান্ত থাকে।",
+    "experience": "সময়পুরম হল মানত ও তার পূরণের মন্দির — তীব্র, প্রত্যক্ষ ভক্তির স্থান, যেখানে বিপদে মাতার কাছে প্রার্থনা করা হয় এবং স্বস্তিতে তাঁকে ধন্যবাদ দেওয়া হয়, কাবেরীদেশের কিছু বৃহত্তম জনসমাগমের মাঝে।"
   },
   "visit": {
-    "timings": "Open daily from early morning to night; Fridays, the month of Aadi, and the Chithirai festival are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Samayapuram lies on the Tiruchirapalli–Chennai road a little north of Tiruchirapalli in Tamil Nadu, easily reached by road, with Tiruchirapalli the nearest major rail and air hub."
+    "timings": "প্রতিদিন ভোর থেকে রাত পর্যন্ত খোলা; শুক্রবার, আড়ি মাস ও চিত্তিরৈ উৎসব সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ছবি তোলা নিয়ন্ত্রিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "সময়পুরম তামিলনাড়ুতে তিরুচিরাপল্লির সামান্য উত্তরে তিরুচিরাপল্লি–চেন্নাই সড়কের উপর অবস্থিত, সড়কপথে সহজে পৌঁছানো যায়, তিরুচিরাপল্লি নিকটতম প্রধান রেল ও বিমান কেন্দ্র।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/samayapuram-mariamman.jpg",

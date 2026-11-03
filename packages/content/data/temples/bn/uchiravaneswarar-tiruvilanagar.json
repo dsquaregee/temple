@@ -1,29 +1,36 @@
 {
   "id": "uchiravaneswarar-tiruvilanagar",
   "locale": "bn",
+  "name": "উচ্চিরবনেশ্বরর মন্দির, তিরুবিলনগর",
   "nativeName": "திருவிளநகர் உச்சிரவனேஸ்வரர் கோயில்",
+  "deity": "শিব উচ্চিরবনেশ্বরর (বিড়ার্কাট্টু নাথর, তুরৈ কাট্টুম বল্লালর) রূপে, দেবী বেয়ুরু তোড়ি অম্মৈ-সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruvilanagar, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "তিরুবিলনগর, মায়িলাড়ুতুরৈর নিকট",
+    "state": "তামিলনাড়ু",
     "lat": 11.08,
     "lng": 79.72
   },
+  "period": "তেবারম যুগ (৭ম শতকে গীত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "মায়িলাড়ুতুরৈর নিকট তিরুবিলনগর শিবকে উচ্চিরবনেশ্বরর রূপে পূজা করে — যিনি বিড়ার্কাট্টু নাথর, নলখাগড়া বনের প্রভু-ও বটে — দেবী বেয়ুরু তোড়ি অম্মৈ-সহ। তিরুজ্ঞান সম্বন্দর কর্তৃক তেবারমে গীত একটি পাডল পেট্র স্থলম, এটি কাবেরীর দক্ষিণতীরের শিবমন্দিরগুলির মধ্যে স্থান পায়। মন্দিরের নাম একসময় এখানে ঘন হয়ে জন্মানো বিড়াল নলখাগড়ার স্মৃতি বহন করে, প্রভু পূজিত হন ভক্তদের 'ঘাট দেখানো' প্রভু রূপে।",
   "sections": {
-    "history": "Tiruvilanagar, near Mayiladuthurai, is a Paadal Petra Sthalam of the Kaveri's southern bank, its Shiva hymned in the Tevaram by Tirugnana Sambandar. Older directories place it in Nagapattinam district; after the district reorganisation it falls within Mayiladuthurai district. The stone temple belongs to the Chola period and after, raised over the ancient sacred site that the saint's hymns had already made famous.",
-    "architecture": "A Dravidian delta shrine, the temple enshrines Uchiravaneswarar in the sanctum, with the goddess Veyuru Tholi Ammai in her own shrine, a Nandi, and the customary parivara devatas. The sthala vriksham is the vizhal, the reed or spear-grass; the Sanskrit uchira gives the lord the name Uchiravaneswarar, and in Tamil he is Vizharkaattu Nathar, lord of the reed forest. The temple is grouped among the Mayiladuthurai Pancha Dakshinamurti sthalams.",
-    "legends": "The sthala purana recalls a time when vizhal reeds grew thick over this ground, within which the lingam was found and worshipped — hence the lord's names Uchiravaneswarar and Vizharkaattu Nathar. He is also praised as Thurai Kattum Vallalar, the generous one who 'shows the ford,' guiding his devotees across the waters of samsara. As with the smaller delta shrines, the fuller sthala legends are preserved chiefly in the local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October), and the Mondays of Karthikai, with the regular Pradosha worship. These are kept at the modest scale of a village shrine, visited by pilgrims following the Paadal Petra trail of the southern Kaveri.",
-    "experience": "Tiruvilanagar offers the pilgrim a quiet Tevaram shrine amid the reed-country of the delta. Before Uchiravaneswarar and Veyuru Tholi Ammai, the visitor meets the 'lord who shows the ford' — a small temple whose ancient name and surviving worship carry the memory of the reed forest in which it first rose."
+    "history": "মায়িলাড়ুতুরৈর নিকট তিরুবিলনগর কাবেরীর দক্ষিণতীরের একটি পাডল পেট্র স্থলম, যার শিবকে তিরুজ্ঞান সম্বন্দর তেবারমে স্তুতি করেছেন। পুরোনো তালিকাগুলি একে নাগাপট্টিনম জেলায় রাখে; জেলা পুনর্গঠনের পর এটি মায়িলাড়ুতুরৈ জেলার অন্তর্ভুক্ত। পাথরের মন্দিরটি চোল যুগ ও পরবর্তীকালের, সেই প্রাচীন পবিত্র স্থানের উপরে নির্মিত যা সন্তের স্তোত্র ইতিমধ্যে বিখ্যাত করে তুলেছিল।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এতে গর্ভগৃহে উচ্চিরবনেশ্বরর অধিষ্ঠিত, দেবী বেয়ুরু তোড়ি অম্মৈ তাঁর নিজস্ব মন্দিরে, একটি নন্দী, এবং প্রথাগত পরিবার দেবতাগণ। স্থলবৃক্ষ বিড়াল, নলখাগড়া বা বর্শা-তৃণ; সংস্কৃত উচ্চির থেকে প্রভুর নাম উচ্চিরবনেশ্বরর, আর তামিলে তিনি বিড়ার্কাট্টু নাথর, নলখাগড়া বনের প্রভু। মন্দিরটি মায়িলাড়ুতুরৈ পঞ্চ দক্ষিণামূর্তি স্থলমের মধ্যে গণ্য।",
+    "legends": "স্থলপুরাণ এমন এক কালের স্মৃতি রাখে যখন এই ভূমির উপর বিড়াল নলখাগড়া ঘন হয়ে জন্মাত, যার মধ্যে লিঙ্গটি পাওয়া গিয়ে পূজিত হয়েছিল — এই থেকেই প্রভুর নাম উচ্চিরবনেশ্বরর ও বিড়ার্কাট্টু নাথর। তিনি তুরৈ কাট্টুম বল্লালর নামেও প্রশংসিত, সেই উদার প্রভু যিনি 'ঘাট দেখান,' সংসারের জলধারা পার করে ভক্তদের পথ দেখান। ছোট বদ্বীপ মন্দিরগুলির মতোই, পূর্ণাঙ্গ স্থল-কিংবদন্তিগুলি মূলত স্থানীয় প্রথা ও তেবারম পদের মধ্যে সংরক্ষিত।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি, এবং কার্তিকৈর সোমবারগুলি পালন করে, নিয়মিত প্রদোষ পূজা-সহ। এগুলি একটি গ্রাম্য মন্দিরের পরিমিত পরিসরে পালিত হয়, দক্ষিণ কাবেরীর পাডল পেট্র পথ অনুসরণকারী তীর্থযাত্রীদের দ্বারা পরিদৃষ্ট।",
+    "experience": "তিরুবিলনগর তীর্থযাত্রীকে বদ্বীপের নলখাগড়া-দেশের মাঝে একটি নিরিবিলি তেবারম মন্দির উপহার দেয়। উচ্চিরবনেশ্বরর ও বেয়ুরু তোড়ি অম্মৈর সম্মুখে দর্শনার্থী সেই 'ঘাট দেখানো প্রভুর' সাক্ষাৎ পান — একটি ছোট মন্দির যার প্রাচীন নাম ও টিকে থাকা উপাসনা সেই নলখাগড়া বনের স্মৃতি বহন করে যার মধ্যে এটি প্রথম গড়ে উঠেছিল।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvilanagar (Arupathi post, PIN 609309) is about 7–11 km from Mayiladuthurai on the Mayiladuthurai–Tarangambadi road. Mayiladuthurai is the nearest rail head, with buses toward Tarangambadi passing nearby."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে যাচাই করুন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশদ্বারে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের বারান্দায় সাধারণত আলোকচিত্র গ্রহণ অনুমোদিত, তবে গর্ভগৃহের ভেতরে নয়; পূজার ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবিলনগর (আরুপতি পোস্ট, পিন ৬০৯৩০৯) মায়িলাড়ুতুরৈ থেকে মায়িলাড়ুতুরৈ–তরঙ্গম্বাড়ি সড়কে প্রায় ৭–১১ কিমি দূরে। মায়িলাড়ুতুরৈ নিকটতম রেলপ্রান্ত, তরঙ্গম্বাড়ির দিকে যাওয়া বাসগুলি কাছ দিয়ে যায়।"
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "deepaprakasa-thiruthanka",
   "locale": "mr",
+  "name": "दीपप्रकाश पेरुमाळ मंदिर, तूप्पुळ",
   "nativeName": "தீபப்பிரகாசர் கோயில், திருத்தண்கா (தூப்புல்)",
+  "deity": "विष्णू दीपप्रकाश रूपात — विळक्कोळी पेरुमाळ, दिव्याच्या तेजाचे स्वामी — देवी मरगतवल्ली यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thoopul, Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "तूप्पुळ, कांचीपुरम्",
+    "state": "तमिळनाडू",
     "lat": 12.824,
     "lng": 79.706
   },
+  "period": "कांचीपुरममधील थोंडई नाडूचे एक दिव्य देशम्, नालायिर दिव्य प्रबंधम् मध्ये स्तुत; वेदांत देशिक यांचे जन्मस्थान",
   "century": 8,
+  "dynasty": "थोंडई प्रदेश (कांचीपुरम्), नंतरच्या भरांसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "कांचीपुरममधील तूप्पुळ येथे विष्णू दीपप्रकाश रूपात — दिव्याच्या तेजाचे स्वामी — प्रकाशमान होतात; हे थोंडई नाडूचे एक दिव्य देशम् आणि महान आचार्य वेदांत देशिक यांचे जन्मस्थान, ज्यांचे मंदिर आत स्थित आहे.",
   "sections": {
-    "history": "Thiruthanka, the Divya Desam at Thoopul in Kanchipuram, is one of the 108 Divya Desams and one of the fourteen in the city, in the heart of Thondai Nadu. Its Lord is Deepaprakasa — in Tamil, Vilakkoli Perumal, the radiance of the lamp — and the shrine is praised in the Nalayira Divya Prabandham; tradition credits its hymn to Thirumangai Alvar. Thoopul holds a further, special honour: it is the birthplace of Vedanta Desika, the poet-philosopher born here in 1268 who became one of the foremost teachers of Sri Vaishnavism, so that he is remembered as Thoopul Vedanta Desikan. A shrine to Desika stands within the temple, and devotees of his lineage come here as to a home.",
-    "architecture": "A compact temple in the Dravidian manner of Kanchipuram, entered through a gateway tower into a court that gathers three centres of devotion: the sanctum of Deepaprakasa, the shrine of the Goddess Maragathavalli, and the shrine of Vedanta Desika, honoured within the temple of his birthplace. Pillared halls lead to the sanctum, where lamps fittingly frame the Lord whose very name is light.",
-    "legends": "The Lord's name tells his story: Deepaprakasa, the light of the lamp. Kanchi's sthala tradition, as commonly told, sets the shrine in the cycle of Brahma's great sacrifice — when darkness was sent to engulf the world and halt the rite, Vishnu shone forth as a radiant lamp and the sacrifice went on. For devotees the image also carries a second light: that of Vedanta Desika, born beside this temple, whose teaching lit the path of the tradition.",
-    "festivals": "The birth-star of Vedanta Desika in the month of Purattasi (September–October) is the season of greatest devotion at his birthplace. The temple also keeps the Vaishnava year of Kanchipuram — Vaikunta Ekadashi in Margazhi and the annual festival of the presiding Lord. Confirm festival dates locally.",
-    "experience": "Come to light a lamp before Vilakkoli Perumal, the Lord of light, and then stand before Vedanta Desika in the place where he was born. Students and followers of Desika's teaching make this a quiet pilgrimage of gratitude. It fits naturally into a day among Kanchipuram's many Divya Desams."
+    "history": "तूप्पुळ, कांचीपुरम् येथील दिव्य देशम् थिरुत्तंका, हे १०८ दिव्य देशमांपैकी एक आणि शहरातील चौदांपैकी एक आहे, थोंडई नाडूच्या हृदयस्थानी. येथील स्वामी दीपप्रकाश आहेत — तमिळमध्ये विळक्कोळी पेरुमाळ, दिव्याचे तेज — आणि हे मंदिर नालायिर दिव्य प्रबंधम् मध्ये स्तुत आहे; परंपरेनुसार त्याचे स्तोत्र थिरुमंगै आळवार यांना श्रेय दिले जाते. तूप्पुळला आणखी एक विशेष सन्मान लाभला आहे: हे वेदांत देशिक यांचे जन्मस्थान आहे, १२६८ मध्ये येथे जन्मलेले कवी-तत्त्वज्ञ जे श्री वैष्णव धर्माच्या अग्रगण्य आचार्यांपैकी एक बनले, म्हणून त्यांना तूप्पुळ वेदांत देशिकन् म्हणून स्मरले जाते. मंदिरात देशिक यांचे एक मंदिर आहे, आणि त्यांच्या परंपरेचे भक्त येथे आपल्या घरी आल्यासारखे येतात.",
+    "architecture": "कांचीपुरमच्या द्रविड शैलीतील एक छोटेसे मंदिर, गोपुर द्वारातून प्रवेश करून एका प्रांगणात पोहोचते जे भक्तीची तीन केंद्रे एकत्र आणते: दीपप्रकाश यांचे गर्भगृह, देवी मरगतवल्ली यांचे मंदिर, आणि वेदांत देशिक यांचे मंदिर, त्यांच्या जन्मस्थानाच्या मंदिरात सन्मानित. स्तंभयुक्त मंडप गर्भगृहाकडे नेतात, जिथे दिवे योग्यरीत्या त्या स्वामींना प्रकाशित करतात ज्यांचे नावच प्रकाश आहे.",
+    "legends": "स्वामींचे नावच त्यांची कथा सांगते: दीपप्रकाश, दिव्याचा प्रकाश. कांचीची स्थल परंपरा, सामान्यतः सांगितल्याप्रमाणे, हे मंदिर ब्रह्मदेवाच्या महायज्ञाच्या चक्रात ठेवते — जेव्हा जगाला गिळंकृत करण्यासाठी आणि यज्ञ थांबवण्यासाठी अंधार पाठवला गेला, तेव्हा विष्णू एका तेजस्वी दिव्यासारखे प्रकाशित झाले आणि यज्ञ पुढे चालू राहिला. भक्तांसाठी ही मूर्ती दुसराही एक प्रकाश धारण करते: वेदांत देशिक यांचा, जे या मंदिराशेजारी जन्मले, ज्यांच्या शिकवणीने परंपरेचा मार्ग उजळला.",
+    "festivals": "पुरट्टासि महिन्यातील (सप्टेंबर–ऑक्टोबर) वेदांत देशिक यांचा जन्मनक्षत्र हा त्यांच्या जन्मस्थानी सर्वाधिक भक्तीचा काळ असतो. मंदिर कांचीपुरमचे वैष्णव वर्षही पाळते — मार्गळी महिन्यातील वैकुंठ एकादशी आणि प्रमुख स्वामींचा वार्षिक उत्सव. उत्सवाच्या तारखा स्थानिक पातळीवर निश्चित करा.",
+    "experience": "दिव्याचे स्वामी विळक्कोळी पेरुमाळ यांच्यापुढे दिवा लावण्यासाठी या, आणि मग वेदांत देशिक ज्या ठिकाणी जन्मले त्या ठिकाणी त्यांच्यापुढे उभे राहा. देशिक यांच्या शिकवणीचे विद्यार्थी व अनुयायी हे कृतज्ञतेचे एक शांत तीर्थाटन करतात. कांचीपुरमच्या अनेक दिव्य देशमांमध्ये हा दिवस सहज सामावून जातो."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Purattasi festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies within Kanchipuram town, which has a railway station and is reached by road from Chennai (around 70 km); Chennai has the nearest major airport."
+    "timings": "सकाळ व संध्याकाळच्या दर्शन सत्रांसह दररोज उघडे, दुपारी बंद; पुरट्टासि उत्सवाचे दिवस सर्वाधिक गर्दीचे. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर निश्चित करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेल्या नियमांचे व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रण मर्यादित आहे; लावलेल्या नियमांचे व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "हे कांचीपुरम शहरात स्थित आहे, जिथे रेल्वे स्थानक आहे आणि चेन्नईहून (सुमारे ७० किमी) रस्त्याने पोहोचता येते; सर्वात जवळचे मोठे विमानतळ चेन्नई येथे आहे."
   }
 }
