@@ -1,29 +1,36 @@
 {
   "id": "vanchinathar-srivanchiyam",
   "locale": "bn",
+  "name": "বাঞ্চিনাথর মন্দির, শ্রীবাঞ্চিয়ম",
   "nativeName": "திருவாஞ்சியம் வாஞ்சிநாதர் கோயில்",
+  "deity": "বাঞ্চিনাথর রূপে শিব, দেবী মঙ্গলাম্বিকৈ সহ",
+  "tradition": "শৈব — একটি পাডল পেত্র স্থলম, তেবারমে কীর্তিত",
   "location": {
-    "city": "Srivanchiyam, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "শ্রীবাঞ্চিয়ম, তিরুভারুরের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.7328,
     "lng": 79.6322
   },
+  "period": "তেবারম যুগ, চোল-যুগের কাঠামোসহ",
   "century": 9,
+  "dynasty": "চোল (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুভারুরের কাছে শ্রীবাঞ্চিয়ম সেই অল্প কয়েকটি মন্দিরের একটি যেখানে মৃত্যুর দেবতা যমের নিজস্ব একটি মন্দির ও পূজায় একটি কেন্দ্রীয় স্থান আছে। এখানে শিব বাঞ্চিনাথর রূপে প্রতিষ্ঠিত, তেবারমে কীর্তিত একটি পাডল পেত্র স্থলম, দেবী মঙ্গলাম্বিকৈ সহ। ঐতিহ্য অনুসারে যম নিজে এখানে তপস্যা করেছিলেন এবং ভগবান বর দিয়েছিলেন যে এই ক্ষেত্রে যাঁরা মারা যান তাঁরা মৃত্যুভয় ও পুনর্জন্মের চক্র থেকে মুক্ত হবেন — যা শ্রীবাঞ্চিয়মকে প্রয়াতদের জন্য ক্রিয়াকর্মের এক শ্রদ্ধেয় স্থান করে তোলে।",
   "sections": {
-    "history": "Srivanchiyam is an ancient Shaiva village-temple in the Tiruvarur country, counted among the Paadal Petra Sthalams and hymned in the Tevaram. The stone temple reflects Chola-period building with later additions; the sanctum enshrines a lingam worshipped as Vanchinathar. What sets the temple apart in the long Tevaram tradition is the prominence given to Yama, whose shrine and role in worship are unusual among Shiva temples and have shaped the kshetra's special association with death and release.",
-    "architecture": "The temple is laid out on the Dravidian plan with a gopuram, pillared halls and the sanctum of Vanchinathar, with the goddess Mangalambikai in her own shrine. Its distinctive feature is the shrine of Yama, given a place of honour rarely seen elsewhere. Within the complex is the sacred tank known as Gupta Ganga, 'the hidden Ganga,' which tradition holds to carry the secret presence of the river goddess, and which pilgrims revere for its purifying waters.",
-    "legends": "The temple's defining tradition concerns Yama, the god of death. By one account Yama performed penance here to be freed from a curse, and Shiva, pleased, granted that those who end their lives at this kshetra be released from the terror of death and from the cycle of rebirth. The sthala-purana also tells of Surya regaining his lost radiance here after the episode of Daksha's sacrifice, and of the Ganga leaving a portion of her power in the Gupta Ganga tank. These stories together mark Srivanchiyam as a place of purification and peaceful passage.",
-    "festivals": "The most prominent festival is Masi Magam, in the Tamil month of Masi, when the processional image of the lord is carried through the streets on the mount of Yama — a usage found at few other temples. The Shaiva observances of Maha Shivaratri and Pradosham are also kept, and the temple is much visited for rites performed on behalf of ancestors and the recently departed.",
-    "experience": "Srivanchiyam carries a quiet gravity drawn from its association with death and liberation. Families come to perform rites for the departed and to pray at the rare shrine of Yama, bathing in the Gupta Ganga before worship. For many it is a place that turns the fear of mortality toward the hope of release, and the temple holds that solemn consolation at its heart."
+    "history": "শ্রীবাঞ্চিয়ম তিরুভারুর অঞ্চলের একটি প্রাচীন শৈব গ্রামীণ মন্দির, পাডল পেত্র স্থলমের মধ্যে গণ্য এবং তেবারমে স্তোত্রে কীর্তিত। পাথরের মন্দিরটি চোল-যুগের নির্মাণ প্রতিফলিত করে, পরবর্তী সংযোজনসহ; গর্ভগৃহে বাঞ্চিনাথর রূপে পূজিত একটি লিঙ্গ প্রতিষ্ঠিত। দীর্ঘ তেবারম ঐতিহ্যে যা মন্দিরটিকে স্বতন্ত্র করে তা হল যমকে দেওয়া প্রাধান্য, যাঁর মন্দির ও পূজায় ভূমিকা শিবমন্দিরগুলির মধ্যে অস্বাভাবিক এবং ক্ষেত্রটির মৃত্যু ও মুক্তির সঙ্গে বিশেষ সম্পর্ক গড়ে দিয়েছে।",
+    "architecture": "মন্দিরটি দ্রাবিড় পরিকল্পনায় বিন্যস্ত, একটি গোপুর, স্তম্ভযুক্ত হলঘর ও বাঞ্চিনাথরের গর্ভগৃহসহ, দেবী মঙ্গলাম্বিকৈ তাঁর নিজের মন্দিরে। এর স্বতন্ত্র বৈশিষ্ট্য হল যমের মন্দির, যাকে অন্যত্র বিরল এক সম্মানের স্থান দেওয়া হয়েছে। প্রাঙ্গণের মধ্যে রয়েছে গুপ্ত গঙ্গা নামে পরিচিত পবিত্র পুষ্করিণী, 'লুকানো গঙ্গা', যা ঐতিহ্য অনুসারে নদী-দেবীর গুপ্ত উপস্থিতি বহন করে, এবং যার পবিত্রকারী জলকে তীর্থযাত্রীরা শ্রদ্ধা করে।",
+    "legends": "মন্দিরের বিশিষ্ট ঐতিহ্য মৃত্যুর দেবতা যমকে নিয়ে। একটি বিবরণ অনুসারে যম এখানে একটি অভিশাপ থেকে মুক্তি পেতে তপস্যা করেছিলেন, এবং সন্তুষ্ট শিব বর দিয়েছিলেন যে এই ক্ষেত্রে যাঁরা জীবনের সমাপ্তি ঘটান তাঁরা মৃত্যুভয় ও পুনর্জন্মের চক্র থেকে মুক্ত হবেন। স্থল-পুরাণ আরও বলে দক্ষযজ্ঞের ঘটনার পর সূর্য এখানে তাঁর হারানো দীপ্তি পুনরুদ্ধার করার কথা, এবং গঙ্গা তাঁর শক্তির একটি অংশ গুপ্ত গঙ্গা পুষ্করিণীতে রেখে যাওয়ার কথা। এই কাহিনিগুলি একসঙ্গে শ্রীবাঞ্চিয়মকে পবিত্রকরণ ও শান্তিপূর্ণ উত্তরণের স্থান হিসেবে চিহ্নিত করে।",
+    "festivals": "সবচেয়ে বিশিষ্ট উৎসব মাসি মাগম, তামিল মাস মাসিতে, যখন ভগবানের শোভাযাত্রার মূর্তিকে যমের বাহনে বসিয়ে রাস্তায় নেওয়া হয় — এমন প্রথা অল্প কয়েকটি মন্দিরেই দেখা যায়। মহা শিবরাত্রি ও প্রদোষমের শৈব আচারও পালিত হয়, এবং পূর্বপুরুষ ও সদ্যপ্রয়াতদের জন্য ক্রিয়াকর্ম সম্পাদনের জন্য মন্দিরটিতে প্রচুর দর্শন হয়।",
+    "experience": "শ্রীবাঞ্চিয়ম মৃত্যু ও মুক্তির সঙ্গে এর সম্পর্ক থেকে উৎসারিত এক নিরিবিলি গাম্ভীর্য বহন করে। পরিবারগুলি প্রয়াতদের জন্য ক্রিয়াকর্ম করতে এবং যমের বিরল মন্দিরে প্রার্থনা করতে আসে, পূজার আগে গুপ্ত গঙ্গায় স্নান করে। অনেকের কাছে এটি এমন এক স্থান যা মর্ত্যতার ভয়কে মুক্তির আশার দিকে ফেরায়, এবং মন্দিরটি তার হৃদয়ে সেই গম্ভীর সান্ত্বনা ধারণ করে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Srivanchiyam is in Tiruvarur district, about 18 km from Tiruvarur and close to Nannilam; the nearest rail heads are Tiruvarur and Nannilam, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো রাখা হয়।",
+    "photography": "বাইরের প্রদক্ষিণ-পথে সাধারণত ফটোগ্রাফির অনুমতি থাকলেও গর্ভগৃহের ভিতরে নয়; আচারের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "শ্রীবাঞ্চিয়ম তিরুভারুর জেলায়, তিরুভারুর থেকে প্রায় ১৮ কিমি দূরে এবং নান্নিলমের কাছে; নিকটতম রেলস্টেশন তিরুভারুর ও নান্নিলম, গ্রামে স্থানীয় বাস ও ট্যাক্সিসহ।"
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "vilvanatheswarar-thiruvalam",
   "locale": "bn",
+  "name": "বিল্বনাথেশ্বরর মন্দির, তিরুবালম",
   "nativeName": "வில்வநாதீஸ்வரர் கோயில்",
+  "deity": "শিব বিল্বনাথেশ্বরর রূপে, দেবী বল্লী নায়কী সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thiruvalam",
-    "state": "Tamil Nadu",
+    "city": "তিরুবালম",
+    "state": "তামিলনাড়ু",
     "lat": 12.9839,
     "lng": 79.2667
   },
+  "period": "থোণ্ডৈ নাড়ুর প্রাচীন শৈব মন্দির, তেবারমে স্তুত; অষ্টম শতাব্দীর পল্লব শিলালিপি ও পরবর্তী সংযোজনসহ কাঠামোগত মন্দির",
   "century": 8,
+  "dynasty": "পল্লব (দ্বিতীয় নন্দিবর্মন যুগ) এবং পরবর্তী তামিল পৃষ্ঠপোষকগণ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "বিল্বনাথেশ্বরর থোণ্ডৈ অঞ্চলের তিরুবালমের শিবমন্দির, একটি পাডল পেট্র স্থলম যা ঐতিহ্যে এক প্রাচীন বিল্ব বনে স্বয়ং-গঠিত লিঙ্গের চারপাশে গড়ে উঠেছে বলে স্মরণীয়, এবং তেবারম গায়কদের নাম উল্লেখকারী কিছু প্রাচীনতম শিলালিপির জন্য পরিচিত।",
   "sections": {
-    "history": "Thiruvalam, called Thiruvallam in the Tevaram, stands in the Thondai country near Vellore, on the plain watered by the Ponnai river. The presiding Lord is praised in the hymns of the child-saint Sambandar, which makes it a Paadal Petra Sthalam, one of the temples sung by the Tamil Shaiva saints. The shrine is valued by historians for its stone record: its north wall carries one of the earliest inscriptions to name the singers of the Tevaram, and the temple preserves grants from the 8th-century Pallava king Nandivarman II and from later dynasties. Raised and enlarged in stone across the centuries, it has been kept in worship without a break.",
-    "architecture": "Built in the Dravidian manner and entered through a gopuram, the temple holds the Shiva linga as Vilvanatheswarar in its sanctum, believed to have arisen of itself from a termite mound. The goddess Valli Nayaki is honoured in her own shrine. The outer faces of the sanctum carry the koshta murtis, the attendant forms of Vinayaka, Dakshinamurti, Vishnu and Brahma, set as guardians of the directions. The temple's sacred tree is the bilva, the leaf dear to Shiva, and sources differ on the exact number of gopuram tiers and the size of the enclosure.",
-    "legends": "Tradition remembers the place as a forest of bilva trees, where a cow of its own accord would daily shed its milk over an anthill; the mound was found to hold a linga, and the temple grew around it. A second story tells of a devotee troubled by a giant who seized the water he drew each day; he prayed to the Lord of Thiruvalam, and Shiva sent his bull Nandi to stand guard over him. Told as local tradition rather than firm history, these tales carry the shrine's sense of a sanctuary raised where the sacred first showed itself.",
-    "festivals": "The temple keeps the festivals common to the great Shiva shrines, with a car festival and street processions drawing the deities through the village, and Maha Shivaratri and the monthly Pradosham observed with devotion. Dates follow the Tamil calendar, so confirm them locally; a visit near a festival finds the old shrine at its most alive.",
-    "experience": "Thiruvalam rewards a slow visit. Come to the sanctum of Vilvanatheswarar, turn to the goddess Valli Nayaki in her shrine, and look to the sculpted guardian forms on the sanctum walls. Those drawn to history will want to read the early inscriptions on the temple's stone, among the oldest to name the Tevaram saints, a reminder that the hymns sung here were already old when the walls were carved. The river plain spreads beyond the walls, and within them the temple keeps the quiet of a very old sanctuary."
+    "history": "তিরুবালম, তেবারমে তিরুবাল্লম নামে কথিত, থোণ্ডৈ অঞ্চলে ভেল্লোরের কাছে, পোন্নৈ নদী দ্বারা সেচিত সমভূমিতে দাঁড়িয়ে আছে। অধিষ্ঠাতা প্রভু বালক-সন্ত সম্বন্দরের স্তোত্রে প্রশংসিত, যা একে একটি পাডল পেট্র স্থলম, তামিল শৈব সন্তদের দ্বারা স্তুত মন্দিরগুলির অন্যতম করে তোলে। মন্দিরটি ঐতিহাসিকদের কাছে তার শিলালিপির জন্য মূল্যবান: এর উত্তর দেয়াল তেবারম গায়কদের নাম উল্লেখকারী প্রাচীনতম শিলালিপিগুলির একটি বহন করে, এবং মন্দিরটি অষ্টম শতাব্দীর পল্লব রাজা দ্বিতীয় নন্দিবর্মন ও পরবর্তী রাজবংশগুলির দান সংরক্ষণ করে। শতাব্দীজুড়ে পাথরে নির্মিত ও সম্প্রসারিত এই মন্দিরে নিরবচ্ছিন্নভাবে পূজা অব্যাহত রয়েছে।",
+    "architecture": "দ্রাবিড় রীতিতে নির্মিত এবং একটি গোপুরমের মধ্য দিয়ে প্রবেশ করা এই মন্দির তার গর্ভগৃহে বিল্বনাথেশ্বরর রূপে শিব লিঙ্গ ধারণ করে, যা একটি উই-ঢিবি থেকে স্বয়ং উদ্ভূত হয়েছে বলে বিশ্বাস করা হয়। দেবী বল্লী নায়কী তাঁর নিজস্ব মন্দিরে সম্মানিত হন। গর্ভগৃহের বাইরের মুখগুলি কোষ্ঠ মূর্তি বহন করে, বিনায়ক, দক্ষিণামূর্তি, বিষ্ণু ও ব্রহ্মার পরিচারক রূপ, দিকসমূহের অভিভাবক হিসেবে স্থাপিত। মন্দিরের পবিত্র বৃক্ষ হল বিল্ব, শিবের প্রিয় পাতা, এবং গোপুরমের স্তর সংখ্যা ও প্রাঙ্গণের আকার সম্পর্কে উৎসগুলি ভিন্নমত পোষণ করে।",
+    "legends": "ঐতিহ্য স্থানটিকে বিল্ব বৃক্ষের একটি বন হিসেবে স্মরণ করে, যেখানে একটি গাভী নিজ থেকে প্রতিদিন একটি পিঁপড়ের ঢিবির উপর দুধ ঝরাত; ঢিবিটি একটি লিঙ্গ ধারণ করে বলে আবিষ্কৃত হয়েছিল, এবং মন্দির তার চারপাশে গড়ে উঠেছিল। দ্বিতীয় একটি কাহিনী এক ভক্তের, যিনি এক দৈত্যের দ্বারা বিরক্ত হয়েছিলেন যে প্রতিদিন তার তোলা জল কেড়ে নিত; তিনি তিরুবালমের প্রভুর কাছে প্রার্থনা করলেন, এবং শিব তাঁর বৃষ নন্দীকে তাকে পাহারা দিতে পাঠালেন। দৃঢ় ইতিহাসের পরিবর্তে স্থানীয় ঐতিহ্য হিসেবে কথিত, এই কাহিনীগুলি মন্দিরের সেই অনুভূতি বহন করে যেখানে পবিত্র প্রথম নিজেকে প্রকাশ করেছিল সেখানে একটি তীর্থ গড়ে উঠেছিল।",
+    "festivals": "মন্দিরটি মহান শিবমন্দিরগুলির সাধারণ উৎসব পালন করে, একটি রথযাত্রা ও রাস্তার শোভাযাত্রার সঙ্গে দেবতাদের গ্রামের মধ্য দিয়ে নিয়ে যাওয়া হয়, এবং মহাশিবরাত্রি ও মাসিক প্রদোষম ভক্তির সঙ্গে পালিত হয়। তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন; উৎসবের কাছাকাছি একটি পরিদর্শন প্রাচীন মন্দিরকে সবচেয়ে প্রাণবন্ত অবস্থায় খুঁজে পায়।",
+    "experience": "তিরুবালম এক ধীর পরিদর্শনের পুরস্কার দেয়। বিল্বনাথেশ্বররের গর্ভগৃহে আসুন, দেবী বল্লী নায়কীর দিকে তাঁর মন্দিরে মুখ ফেরান, এবং গর্ভগৃহের দেয়ালে ভাস্কর্যিত অভিভাবক রূপগুলির দিকে তাকান। যাঁরা ইতিহাসের প্রতি আকৃষ্ট তাঁরা মন্দিরের পাথরে প্রাচীন শিলালিপি পড়তে চাইবেন, যা তেবারম সন্তদের নাম উল্লেখকারী প্রাচীনতমগুলির অন্যতম, এই স্মারক যে এখানে গাওয়া স্তোত্রগুলি দেয়াল খোদাই করার সময়ই পুরানো ছিল। নদী-সমভূমি দেয়ালের বাইরে ছড়িয়ে আছে, এবং এর ভিতরে মন্দির এক অতি প্রাচীন তীর্থের নিস্তব্ধতা বজায় রাখে।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thiruvalam is a village in Vellore district, about 2 km from Tiruvalam railway station on the Chennai–Katpadi line, and close to the Chennai–Bangalore highway roughly 10 km from Ranipet. Vellore and Katpadi are the nearest large centres, with frequent buses; confirm distances and connections locally."
+    "timings": "সাধারণত সকালে এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে, মধ্যাহ্ন বিরতিসহ; স্থানীয়ভাবে সময় নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ, বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশপথে জুতা খুলে রাখা হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরের নিয়ম অনুসারে বাইরের করিডোর ও প্রাঙ্গণে সাধারণত ফটোগ্রাফির অনুমতি রয়েছে কিন্তু ভিতরের গর্ভগৃহে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবালম ভেল্লোর জেলার একটি গ্রাম, চেন্নাই–কাটপাডি লাইনের তিরুবালম রেল স্টেশন থেকে প্রায় ২ কিমি দূরে, এবং চেন্নাই–বেঙ্গালুরু মহাসড়কের কাছে রাণীপেট থেকে প্রায় ১০ কিমি দূরে। ভেল্লোর ও কাটপাডি নিকটতম বড় কেন্দ্র, ঘন ঘন বাসসহ; দূরত্ব ও সংযোগ স্থানীয়ভাবে নিশ্চিত করুন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.jpg",

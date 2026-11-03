@@ -1,30 +1,37 @@
 {
   "id": "sowriraja-thirukkannapuram",
   "locale": "bn",
+  "name": "সৌরিরাজ পেরুমাল মন্দির, তিরুক্কণ্ণপুরম",
   "nativeName": "சௌரிராஜப் பெருமாள் கோயில், திருக்கண்ணபுரம்",
+  "deity": "নীলমেঘ পেরুমাল রূপে বিষ্ণু, শোভাযাত্রায় সৌরিরাজ পেরুমাল রূপে পূজিত, দেবী কণ্ণপুর নায়কীর সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirukkannapuram",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কণ্ণপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 10.8683,
     "lng": 79.7042
   },
+  "period": "চোল দেশের এক দিব্যদেশম, নালায়িরা দিব্য প্রবন্ধমে পাঁচজন আলবার কর্তৃক কীর্তিত",
   "century": 8,
+  "dynasty": "চোল (তাঞ্জাবুর নায়ক সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "তিরুক্কণ্ণপুরমে শ্যামমেঘ প্রভু নীলমেঘ সৌরিরাজ রূপে সম্মানিত, কেশরাশির প্রভু — চোল নাড়ুর এক দিব্যদেশম যা পাঁচজন আলবার, তাঁদের মধ্যে পেরিয়ালবার, আণ্ডাল ও তিরুমঙ্গৈ, কীর্তন করেছেন।",
   "sections": {
-    "history": "Thirukkannapuram lies in the Kaveri delta of the Nagapattinam country and is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham. It belongs to Chola Nadu and was hymned by five Alvars: Thirumangai, Nammalvar, Kulasekara, Andal and Periyalvar, who describes the shrine as enduring even through the deluge. The temple is believed to have been built by the Cholas, with later additions by the Thanjavur Nayaks. The sthala purana adds that a king raised it with the help of Vishwakarma. It is counted among the Pancha Krishnaranya Kshetrams.",
-    "architecture": "A granite wall encloses the shrines and three of the temple's seven bodies of water, among them the Nitya Pushkarini and the Ananda Saras. The sanctum faces east, where the Lord stands as Neelamegha Perumal, the dark-blue cloud, with the Goddess Kannapura Nayaki in her own shrine. The festival image, Sowriraja Perumal, is the form carried in procession.",
-    "legends": "The name Sowriraja carries a story of the hair. Tradition tells of Ranga Bhattar, a poor priest, who once offered a garland a second time. The visiting king found a hair in it, and the priest answered that it was the Lord's own. The Lord is then said to have appeared with thick tresses, and sowri, hair, became part of his name. Another tradition recalls Vibhishana, who longed to see the Lord walk: on every Amavasya the Lord is brought out to give him darshan, in the Nadai Azhagu Sevai.",
-    "festivals": "The Brahmotsavam is the great festival, when the festival image is adorned with hair in the procession in remembrance of the sowri legend. A chariot festival is held in Vaikasi, and Masi Magam is observed in the month of Masi. On every Amavasya the Lord is brought out for Vibhishana's darshan, and pongal is offered at the last puja of the day.",
-    "experience": "A deeply devotional shrine, rich in the voices of five Alvars and in its local stories. Spend time at the east-facing sanctum and the tanks within the granite wall, and if you can, come on an Amavasya to see the Lord brought out. Brahmotsavam days are the most crowded; confirm festival dates locally."
+    "history": "তিরুক্কণ্ণপুরম নাগাপট্টিনম অঞ্চলের কাবেরী বদ্বীপে অবস্থিত এবং ১০৮ দিব্যদেশমের একটি, বিষ্ণুর সেই আবাসগুলি যা আলবারেরা নালায়িরা দিব্য প্রবন্ধমে কীর্তন করেছেন। এটি চোল নাড়ুর অন্তর্গত এবং পাঁচজন আলবার কর্তৃক কীর্তিত: তিরুমঙ্গৈ, নম্মালবার, কুলশেখর, আণ্ডাল ও পেরিয়ালবার, যিনি পীঠটিকে মহাপ্রলয়েও টিকে থাকা বলে বর্ণনা করেন। মন্দিরটি চোলদের দ্বারা নির্মিত বলে মনে করা হয়, তাঞ্জাবুর নায়কদের পরবর্তী সংযোজন সহ। স্থলপুরাণ যোগ করে যে এক রাজা বিশ্বকর্মার সাহায্যে এটি নির্মাণ করেছিলেন। এটি পঞ্চ কৃষ্ণারণ্য ক্ষেত্রমের অন্যতম গণ্য হয়।",
+    "architecture": "এক গ্রানাইট প্রাচীর পীঠগুলি এবং মন্দিরের সাতটি জলাশয়ের তিনটি ঘিরে রেখেছে, তাদের মধ্যে নিত্য পুষ্করিণী ও আনন্দ সরস। গর্ভগৃহ পূর্বমুখী, যেখানে প্রভু নীলমেঘ পেরুমাল রূপে দাঁড়িয়ে আছেন, শ্যামনীল মেঘ, দেবী কণ্ণপুর নায়কী তাঁর নিজস্ব পীঠে। উৎসবমূর্তি, সৌরিরাজ পেরুমাল, শোভাযাত্রায় বাহিত রূপ।",
+    "legends": "সৌরিরাজ নামটি কেশ সংক্রান্ত এক কাহিনি বহন করে। পরম্পরা বলে রঙ্গ ভট্টরের কথা, এক দরিদ্র পুরোহিত, যিনি একবার একটি মালা দ্বিতীয়বার নিবেদন করেন। পরিদর্শনকারী রাজা তাতে একটি চুল পান, এবং পুরোহিত উত্তর দেন যে তা প্রভুর নিজের। তখন প্রভু ঘন কেশরাশি নিয়ে আবির্ভূত হন বলে কথিত, এবং সৌরি অর্থাৎ কেশ তাঁর নামের অংশ হয়। আরেক পরম্পরা বিভীষণকে স্মরণ করায়, যিনি প্রভুকে হাঁটতে দেখতে আকুল ছিলেন: প্রতি অমাবস্যায় প্রভুকে তাঁকে দর্শন দিতে বের করা হয়, নাডৈ অরহু সেবৈতে।",
+    "festivals": "ব্রহ্মোৎসব মহান উৎসব, যখন সৌরি কিংবদন্তির স্মরণে শোভাযাত্রায় উৎসবমূর্তিকে কেশে সাজানো হয়। বৈকাশি মাসে এক রথযাত্রা হয়, এবং মাসি মাসে মাসি মাগম পালিত হয়। প্রতি অমাবস্যায় বিভীষণের দর্শনের জন্য প্রভুকে বের করা হয়, এবং দিনের শেষ পূজায় পোঙ্গল নিবেদিত হয়।",
+    "experience": "এক গভীর ভক্তিময় পীঠ, পাঁচ আলবারের কণ্ঠে ও তার স্থানীয় কাহিনিতে সমৃদ্ধ। পূর্বমুখী গর্ভগৃহে ও গ্রানাইট প্রাচীরের মধ্যের পুষ্করিণীগুলিতে সময় কাটান, এবং সম্ভব হলে অমাবস্যায় আসুন প্রভুকে বের করা দেখতে। ব্রহ্মোৎসবের দিনগুলি সবচেয়ে ভিড়; উৎসবের তারিখ স্থানীয়ভাবে যাচাই করুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukkannapuram lies in the Nagapattinam district of Tamil Nadu, in the Kaveri delta. Tiruvarur and Nagapattinam are the nearest larger towns with railheads, and Tiruchirappalli is the nearest major airport. Reach it by road, and confirm local directions on the way."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনকাল সহ খোলা থাকে, মধ্যাহ্নে বন্ধ থাকে; উৎসবের দিনগুলি সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময় যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার চারপাশে ছবি তোলা সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "তিরুক্কণ্ণপুরম তামিলনাড়ুর নাগাপট্টিনম জেলায়, কাবেরী বদ্বীপে অবস্থিত। তিরুবারুর ও নাগাপট্টিনম নিকটতম বড় শহর যেখানে রেলহেড আছে, এবং তিরুচিরাপল্লী নিকটতম প্রধান বিমানবন্দর। সড়কপথে পৌঁছান, এবং পথে স্থানীয় দিকনির্দেশনা যাচাই করুন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sowriraja-thirukkannapuram.jpg",
