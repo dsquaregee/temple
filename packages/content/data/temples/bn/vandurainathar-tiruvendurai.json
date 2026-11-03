@@ -1,29 +1,36 @@
 {
   "id": "vandurainathar-tiruvendurai",
   "locale": "bn",
+  "name": "বন্দুরৈনাথর মন্দির, তিরুবেন্দুরৈ",
   "nativeName": "திருவெந்துறை வந்துறைநாதர் கோயில்",
+  "deity": "শিব বন্দুরৈনাথর (ব্রহ্মপুরীশ্বরর) রূপে, দেবী বেল নেদুঙ্গণ্ণির সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Cherivadi Vaikal (Tiruvendurai), near Mannargudi",
-    "state": "Tamil Nadu",
+    "city": "চেরিবাডি বৈকাল (তিরুবেন্দুরৈ), মান্নারগুডির নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.6,
     "lng": 79.52
   },
+  "period": "তেবারম যুগ (৭ম শতকে স্তোত্রে বর্ণিত); পরবর্তী চোল স্থাপত্যের মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "মান্নারগুডির নিকট চেরিবাডি বৈকালে অবস্থিত তিরুবেন্দুরৈ শিবকে বন্দুরৈনাথর — ব্রহ্মপুরীশ্বরর — রূপে পূজা করে, দেবী বেল নেদুঙ্গণ্ণির সঙ্গে। তিরুজ্ঞান সম্বন্দরের স্তোত্রে বর্ণিত এই পাডল পেট্র স্থলমটি তিরুবারুর বদ্বীপের একটি নিভৃত মন্দির, যা ঋষি ভৃঙ্গীর কাহিনির সঙ্গে জড়িত।",
   "sections": {
-    "history": "Tiruvendurai, at Cherivadi Vaikal about 10 km from Mannargudi on the road to Thiruthuraipoondi, is a Paadal Petra Sthalam hymned in the Tevaram by Tirugnana Sambandar, in Tiruvarur district. Its historical name is Tiruventhurai; the stone temple is of the Chola period and later, keeping the form of the Shiva shrines of the Tiruvarur delta.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vandurainathar — also Vanduthurainathar, Brahmapureeswarar, Pramareswarar — in the sanctum, with the goddess Vel Nedunganni (also named Sathyadayi) in her own shrine, a Nandi and the parivara devatas about the prakara. An Ardhanariswarar figure appears in the local tradition. The walled courtyard keeps the form of the delta temples.",
-    "legends": "The sthala legend tells of the sage Bringhi, who in his devotion wished to circle only Shiva, and took the form of a bee (bhringa) to pass between the lord and the goddess; angered, Parvati did penance, and the lord granted her his half as Ardhanariswarar. Shiva is worshipped here as Vandurainathar — Brahmapureeswarar — with Vel Nedunganni beside him. As with many delta shrines, the fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims of the Mannargudi–Thiruthuraipoondi tract include Tiruvendurai among their stops.",
-    "experience": "At Tiruvendurai the pilgrim comes to a quiet shrine of the Tiruvarur delta. Before Vandurainathar and Vel Nedunganni, the visitor finds the unhurried grace of a Tevaram temple, and the memory of the bee-sage Bringhi and the lord's gift of his half to the goddess."
+    "history": "তিরুথুরৈপুণ্ডির পথে মান্নারগুডি থেকে প্রায় ১০ কিলোমিটার দূরে চেরিবাডি বৈকালে অবস্থিত তিরুবেন্দুরৈ, তিরুবারুর জেলায়, তিরুজ্ঞান সম্বন্দরের তেবারম স্তোত্রে বর্ণিত একটি পাডল পেট্র স্থলম। এর ঐতিহাসিক নাম তিরুবেন্থুরৈ; পাথরের মন্দিরটি চোল যুগ ও তার পরবর্তী কালের, তিরুবারুর বদ্বীপের শিব মন্দিরগুলির আদল রক্ষা করে।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, যার গর্ভগৃহে বন্দুরৈনাথর — বন্দুথুরৈনাথর, ব্রহ্মপুরীশ্বরর, প্রমারেশ্বরর নামেও পরিচিত — প্রতিষ্ঠিত, এবং দেবী বেল নেদুঙ্গণ্ণি (সত্যদায়ী নামেও পরিচিত) তাঁর নিজস্ব গর্ভগৃহে, একটি নন্দী এবং প্রাকারের চারপাশে পরিবার দেবতাগণ। স্থানীয় ঐতিহ্যে অর্ধনারীশ্বরর মূর্তিরও উল্লেখ আছে। প্রাচীরঘেরা প্রাঙ্গণটি বদ্বীপ মন্দিরের আদল রক্ষা করে।",
+    "legends": "স্থল-কাহিনি ঋষি ভৃঙ্গীর কথা বলে, যিনি তাঁর ভক্তিতে কেবল শিবকেই প্রদক্ষিণ করতে চেয়েছিলেন এবং প্রভু ও দেবীর মধ্য দিয়ে যাওয়ার জন্য ভ্রমরের (ভৃঙ্গ) রূপ ধারণ করেছিলেন; ক্রুদ্ধ হয়ে পার্বতী তপস্যা করেন, এবং প্রভু তাঁকে অর্ধনারীশ্বরর রূপে নিজের অর্ধেক দান করেন। এখানে শিব বন্দুরৈনাথর — ব্রহ্মপুরীশ্বরর — রূপে পূজিত হন, পাশে বেল নেদুঙ্গণ্ণির সঙ্গে। অনেক বদ্বীপ মন্দিরের মতোই, পূর্ণাঙ্গ স্থল-পুরাণ স্থানীয় ঐতিহ্যে ও তেবারম পদগুলিতে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি পালন করে, প্রদোষ পূজার সঙ্গে, একটি গ্রামীণ মন্দিরের শান্ত পরিসরে। মান্নারগুডি–তিরুথুরৈপুণ্ডি অঞ্চলের তীর্থযাত্রীরা তাঁদের যাত্রাপথে তিরুবেন্দুরৈকে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুবেন্দুরৈতে তীর্থযাত্রী তিরুবারুর বদ্বীপের একটি নিভৃত মন্দিরে আসেন। বন্দুরৈনাথর ও বেল নেদুঙ্গণ্ণির সম্মুখে দর্শনার্থী একটি তেবারম মন্দিরের ধীরস্থির মাধুর্য খুঁজে পান, এবং সঙ্গে ভ্রমর-ঋষি ভৃঙ্গীর স্মৃতি ও দেবীকে প্রভুর নিজের অর্ধেক দানের কথা।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvendurai is at Cherivadi Vaikal, about 10 km from Mannargudi on the road to Thiruthuraipoondi, in Tiruvarur district. Mannargudi and Thiruthuraipoondi are the nearest towns, with buses and taxis to the village; Tiruvarur is the nearest rail head."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "বাইরের অলিন্দে সাধারণত ছবি তোলা অনুমোদিত, তবে গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের অনুমতি নিন।",
+    "gettingThere": "তিরুবেন্দুরৈ চেরিবাডি বৈকালে, তিরুথুরৈপুণ্ডির পথে মান্নারগুডি থেকে প্রায় ১০ কিলোমিটার দূরে, তিরুবারুর জেলায় অবস্থিত। মান্নারগুডি ও তিরুথুরৈপুণ্ডি নিকটতম শহর, গ্রামে পৌঁছানোর জন্য বাস ও ট্যাক্সি রয়েছে; তিরুবারুর নিকটতম রেলস্টেশন।"
   }
 }
