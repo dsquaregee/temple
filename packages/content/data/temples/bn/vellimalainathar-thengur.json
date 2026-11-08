@@ -1,29 +1,40 @@
 {
   "id": "vellimalainathar-thengur",
   "locale": "bn",
+  "name": "ভেল্লিমলৈনাথর মন্দির, তিরুতেঙ্গুর",
   "nativeName": "திருத்தெங்கூர் வெள்ளிமலைநாதர் கோயில்",
+  "deity": "ভেল্লিমলৈনাথর (রৌপ্যগ্রহ শুক্র কর্তৃক পূজিত) রূপে শিব, দেবী পেরিয়নায়কীর (বৃহন্নায়কী) সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruthengur (Thiruthangur), near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "তিরুতেঙ্গুর (তিরুতাঙ্গুর), তিরুবারুরের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.6487,
     "lng": 79.6258
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারুরের কাছে তিরুতেঙ্গুর শিবকে ভেল্লিমলৈনাথর রূপে—রৌপ্যের গ্রহ শুক্র কর্তৃক পূজিত প্রভু—দেবী পেরিয়নায়কীর সঙ্গে সম্মান জানায়। তিরুজ্ঞান সম্বন্দরের স্তোত্রে স্তুত একটি পাডল পেট্র স্থলম, এর কিংবদন্তি বলে শুক্রাচার্য এখানে পূজা করে তাঁর হারানো দৃষ্টি ফিরে পান, এবং নয় গ্রহ প্রত্যেকে একটি করে লিঙ্গ স্থাপন করেন, যা প্রভুকে তাঁর 'রৌপ্য পর্বত' নামটি দেয়।",
   "sections": {
-    "history": "Tiruthengur, often written Thiruthangur, lies about 18 km from Tiruvarur (some 22 km from Mannargudi) in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The lord here is Vellimalainathar, 'lord of the silver mountain,' and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vellimalainathar in the sanctum, with the goddess Periyanayaki — also Brihannayaki, 'the great mother' — in her own shrine, a Nandi and the parivara devatas. The temple is known for its association with the Navagrahas, the nine planets, each said to have installed a lingam here.",
-    "legends": "The sthala legend tells that Sukracharya, the guru of the asuras and lord of the planet Sukra (Venus), lost one of his eyes and came here to worship Shiva; by his devotion he regained his sight. Because Sukra is called Velli, 'silver,' the lord who granted him grace is named Vellimalainathar, 'lord of the silver mountain.' Tradition also holds that each of the nine planets installed a lingam here, making the shrine a place of Navagraha worship, and it is sought for relief from the afflictions of Sukra.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, along with special observance on the days of Sukra (Friday). Pilgrims seeking the grace of the planets and the Paadal Petra temples near Tiruvarur include Tiruthengur among their stops.",
-    "experience": "At Tiruthengur the pilgrim comes to a shrine of planetary grace, where Sukra regained his sight and the nine planets worshipped. Before Vellimalainathar, lord of the silver mountain, and the great mother Periyanayaki, the visitor seeks the clear sight of body and soul in a quiet Tevaram temple of the Tiruvarur country."
+    "history": "তিরুতেঙ্গুর, প্রায়ই তিরুতাঙ্গুর বলে লেখা হয়, তিরুবারুর জেলায় তিরুবারুর থেকে প্রায় ১৮ কিমি (মান্নারগুডি থেকে প্রায় ২২ কিমি) দূরে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তিরুজ্ঞান সম্বন্দর কর্তৃক তেবারমে স্তুত। এখানকার প্রভু ভেল্লিমলৈনাথর, 'রৌপ্য পর্বতের প্রভু', এবং পাথরের মন্দিরটি চোল যুগের ও পরবর্তী সময়ের।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এই তীর্থে গর্ভগৃহে ভেল্লিমলৈনাথর অধিষ্ঠিত, দেবী পেরিয়নায়কী—যিনি বৃহন্নায়কী, 'মহান মাতা'ও—তাঁর নিজস্ব মন্দিরে, একটি নন্দী এবং পরিবার দেবতারা। মন্দিরটি নবগ্রহ, অর্থাৎ নয় গ্রহের সঙ্গে সংযোগের জন্য পরিচিত, যাঁদের প্রত্যেকে এখানে একটি করে লিঙ্গ স্থাপন করেছিলেন বলে কথিত।",
+    "legends": "স্থল কিংবদন্তি বলে, অসুরদের গুরু ও শুক্র গ্রহের (ভেনাস) অধিপতি শুক্রাচার্য তাঁর একটি চোখ হারিয়ে এখানে শিবের পূজা করতে আসেন; তাঁর ভক্তিতে তিনি দৃষ্টি ফিরে পান। যেহেতু শুক্রকে ভেল্লি, অর্থাৎ 'রৌপ্য' বলা হয়, সেই কারণে যে প্রভু তাঁকে কৃপা দিয়েছিলেন তাঁর নাম ভেল্লিমলৈনাথর, 'রৌপ্য পর্বতের প্রভু'। ঐতিহ্য এও বলে যে নয় গ্রহের প্রত্যেকে এখানে একটি করে লিঙ্গ স্থাপন করেছিলেন, যা তীর্থটিকে নবগ্রহ পূজার স্থান করে তোলে, এবং এখানে শুক্রের পীড়া থেকে মুক্তির জন্য আসা হয়।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈ মাসের সোমবারগুলি পালিত হয়, প্রদোষ পূজা সহ, সেই সঙ্গে শুক্রের দিনগুলিতে (শুক্রবার) বিশেষ পালন। গ্রহদের কৃপা প্রার্থী তীর্থযাত্রীরা এবং তিরুবারুরের কাছের পাডল পেট্র মন্দিরগুলি দর্শনকারীরা তাঁদের যাত্রাপথে তিরুতেঙ্গুরকে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুতেঙ্গুরে তীর্থযাত্রী আসেন গ্রহদের কৃপার এক তীর্থে, যেখানে শুক্র তাঁর দৃষ্টি ফিরে পেয়েছিলেন এবং নয় গ্রহ পূজা করেছিলেন। রৌপ্য পর্বতের প্রভু ভেল্লিমলৈনাথর এবং মহান মাতা পেরিয়নায়কীর সামনে দর্শনার্থী তিরুবারুর অঞ্চলের এক নিরিবিলি তেবারম মন্দিরে দেহ ও আত্মার স্বচ্ছ দৃষ্টি প্রার্থনা করেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruthengur is about 18 km from Tiruvarur and 22 km from Mannargudi, in Tiruvarur district. Tiruvarur is the nearest rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত ও আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "সাধারণত বাইরের অলিন্দে ছবি তোলা অনুমোদিত, কিন্তু গর্ভগৃহের ভেতরে নয়; আচার ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুতেঙ্গুর তিরুবারুর জেলায় তিরুবারুর থেকে প্রায় ১৮ কিমি ও মান্নারগুডি থেকে ২২ কিমি দূরে। তিরুবারুর নিকটতম রেলস্টেশন, গ্রাম পর্যন্ত বাস ও ট্যাক্সি রয়েছে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vellimalainathar-thengur.mp3",
+    "durationSec": 172
   }
 }

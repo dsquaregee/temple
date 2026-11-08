@@ -1,29 +1,40 @@
 {
   "id": "velvidainathar-tirukkurukavur",
   "locale": "bn",
+  "name": "ভেল্বিডৈ নাথর মন্দির, তিরুক্কুরুকাবুর",
   "nativeName": "வெள்ளடைநாதர் கோயில்",
+  "deity": "ভেল্বিডৈ নাথর (ভেল্লডৈ নাথর) রূপে শিব, দেবী কাবিয়ঙ্কণ্ণির সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tirukkurukavur",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কুরুকাবুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.232,
     "lng": 79.789
   },
+  "period": "চোল নাড়ুর প্রাচীন শৈব তীর্থ, তেবারমে স্তুত (সপ্তম শতক); উত্তম চোলের অধীনে দশম শতকের শেষভাগে পাথরে পুনর্নির্মিত",
   "century": 7,
+  "dynasty": "আদি চোল; উত্তম চোলের অধীনে পুনর্নির্মিত, পরবর্তী চোল শিলালিপি সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ভেল্বিডৈ নাথর হলেন তেবারমের তিরুক্কুরুকাবুর ভেল্লডৈ, চোল নাড়ুর এক ছোট তীর্থ, যা সেই বৃদ্ধের জন্য স্মরণীয় যিনি বালক-সন্ত সম্বন্দরকে দই-ভাত খাইয়েছিলেন, এবং এর দুধসাদা কূপের জন্য, যা বছরে একবারই খোলা হয়।",
   "sections": {
-    "history": "Tirukkurukavur, a quiet village a few kilometres from Sirkazhi, is sung in the Tevaram as Tirukkurukavur Velladai by both Sambandar and Sundarar, which makes it a Paadal Petra Sthalam, counted as the thirteenth such shrine on the northern bank of the Kaveri. Tradition places an early Chola temple here by the seventh century, the age of the hymns. Inscriptions from the reigns of Rajendra Chola, Kulottunga Chola I and Vikrama Chola show that worship continued through the great Chola centuries, and the stone temple that stands today is held to have been raised in the late tenth century under Uttama Chola. The place has carried several old names, among them Rishabhapuram and Vishnupuram, each recalling a story told of this shrine.",
-    "architecture": "This is a small village temple in the Chola manner, built of stone around a single sanctum in which Shiva is worshipped as Velvidai Nathar, also called Velladai Nathar, the Lord of the White Bull. The goddess Kaviyankanni, also known as Neelotpala Visalakshi, has her own shrine facing south. Shrines to Ganesha, Durga and Murugan with his consorts Valli and Deivanai stand within the enclosure. The sacred tree is the bilva. Before the temple lies a tank and, within the precincts, the well called Paal Kinaru, the milk well, the most singular feature of the place. The temple was last consecrated in 1986.",
-    "legends": "Three stories are told here. In the first, Vishnu took the form of a white bull, a vellai edabam, and worshipped Shiva in this place, hence the name Velvidai and the old names Rishabhapuram and Vishnupuram. In the second, the young Sambandar, travelling weary and hungry, was received by an old man who gave him and his companions curd rice and a place to rest; when the saint woke, the house and its host were gone, and he understood the Lord himself had fed him. From this the place was once called Dadyonnapuram, the town of curd rice. In the third, Sambandar, wishing to bathe at Kashi to cleanse himself of the harm his debates had brought, was directed here, where Shiva is said to have brought the Ganga into the well. Sundarar is also said to have sung his hymn after the Lord's grace here.",
-    "festivals": "On the new moon of the Tamil month of Thai, in January or February, the water of the milk well is said to turn white, and the well, kept closed for the rest of the year, is opened for bathing; the image of Sambandar is brought in procession from the temple at Sirkazhi for the Theerthavari rite. On the full moon of Chithirai, in April or May, curd rice is offered to all who come, in memory of the old man's meal, and devotees believe that prayer here keeps a household free from want of food. Thai Poosam, Skanda Sashti, Maha Shivaratri and the monthly Pradosham are also observed. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Tirukkurukavur is a place for a slow visit by those who enjoy small village shrines. The temple lies about a kilometre from the main road, among fields, and is usually very quiet. Come first to the sanctum of Velvidai Nathar, then to the south-facing shrine of Kaviyankanni, and ask the priests about the milk well and the old man with the curd rice. Many pilgrims time their visit for the Chithirai full moon, when the meal of curd rice is shared again as it was in Sambandar's story. Combine the visit with nearby Paadal Petra temples such as Tirumullaivasal and the great shrine at Sirkazhi."
+    "history": "তিরুক্কুরুকাবুর, সীর্কাড়ি থেকে কয়েক কিলোমিটার দূরে একটি নিরিবিলি গ্রাম, তেবারমে সম্বন্দর ও সুন্দরর উভয়ের দ্বারাই তিরুক্কুরুকাবুর ভেল্লডৈ নামে স্তুত, যা একে একটি পাডল পেট্র স্থলম করে তোলে, কাবেরীর উত্তর তীরে এমন ত্রয়োদশতম তীর্থ বলে গণ্য। ঐতিহ্য এখানে স্তোত্রের যুগ সপ্তম শতকের মধ্যেই একটি আদি চোল মন্দির স্থাপন করে। রাজেন্দ্র চোল, প্রথম কুলোত্তুঙ্গ চোল ও বিক্রম চোলের রাজত্বকালের শিলালিপি দেখায় যে মহান চোল শতাব্দীগুলি জুড়ে পূজা অব্যাহত ছিল, এবং আজ যে পাথরের মন্দিরটি দাঁড়িয়ে আছে তা দশম শতকের শেষভাগে উত্তম চোলের অধীনে নির্মিত বলে গণ্য। এই স্থানটি কয়েকটি পুরনো নাম বহন করেছে, তার মধ্যে ঋষভপুরম ও বিষ্ণুপুরম, প্রতিটি এই তীর্থের একটি করে কাহিনি স্মরণ করায়।",
+    "architecture": "এটি চোল রীতিতে একটি ছোট গ্রাম-মন্দির, একটি একক গর্ভগৃহকে ঘিরে পাথরে নির্মিত, যেখানে শিব ভেল্বিডৈ নাথর রূপে পূজিত, যাঁকে ভেল্লডৈ নাথর, অর্থাৎ শ্বেত বৃষের প্রভুও বলা হয়। দেবী কাবিয়ঙ্কণ্ণি, যিনি নীলোৎপল বিশালাক্ষী নামেও পরিচিত, তাঁর নিজস্ব দক্ষিণমুখী মন্দির রয়েছে। প্রাঙ্গণের মধ্যে গণেশ, দুর্গা এবং তাঁর সহধর্মিণী বল্লী ও দেইবানৈ সহ মুরুগনের মন্দির রয়েছে। স্থলবৃক্ষ হল বিল্ব। মন্দিরের সামনে একটি পুষ্করিণী রয়েছে এবং প্রাঙ্গণের ভেতরে পাল কিনারু নামে কূপটি, দুধের কূপ, এই স্থানের সবচেয়ে অনন্য বৈশিষ্ট্য। মন্দিরটি সর্বশেষ ১৯৮৬ সালে কুম্ভাভিষিক্ত হয়েছিল।",
+    "legends": "এখানে তিনটি কাহিনি বলা হয়। প্রথমটিতে, বিষ্ণু একটি শ্বেত বৃষ, অর্থাৎ ভেল্লৈ এডবমের রূপ ধারণ করে এই স্থানে শিবের পূজা করেছিলেন, সেই কারণেই ভেল্বিডৈ নাম এবং পুরনো নাম ঋষভপুরম ও বিষ্ণুপুরম। দ্বিতীয়টিতে, তরুণ সম্বন্দর ক্লান্ত ও ক্ষুধার্ত হয়ে ভ্রমণকালে এক বৃদ্ধের কাছে অভ্যর্থিত হন, যিনি তাঁকে ও তাঁর সঙ্গীদের দই-ভাত ও বিশ্রামের স্থান দেন; সন্ত যখন জাগলেন, তখন বাড়ি ও তার গৃহকর্তা অদৃশ্য, এবং তিনি বুঝলেন স্বয়ং প্রভুই তাঁকে খাইয়েছেন। এর থেকে স্থানটি একসময় দধ্যোন্নপুরম, অর্থাৎ দই-ভাতের নগর বলে পরিচিত ছিল। তৃতীয়টিতে, সম্বন্দর তাঁর বিতর্কে আনা ক্ষতি থেকে নিজেকে শুদ্ধ করতে কাশীতে স্নান করতে চেয়ে এখানে পথনির্দেশিত হন, যেখানে শিব কূপে গঙ্গা এনেছিলেন বলে কথিত। সুন্দররও এখানে প্রভুর কৃপা লাভের পর তাঁর স্তোত্র গেয়েছিলেন বলে কথিত।",
+    "festivals": "তামিল তৈ মাসের অমাবস্যায়, জানুয়ারি বা ফেব্রুয়ারিতে, দুধের কূপের জল সাদা হয়ে যায় বলে কথিত, এবং বছরের বাকি সময় বন্ধ রাখা কূপটি স্নানের জন্য খোলা হয়; তীর্থবারি আচারের জন্য সীর্কাড়ির মন্দির থেকে সম্বন্দরের মূর্তি শোভাযাত্রায় আনা হয়। চিত্তিরৈ মাসের পূর্ণিমায়, এপ্রিল বা মে মাসে, সেই বৃদ্ধের আহারের স্মরণে আগত সকলকে দই-ভাত নিবেদন করা হয়, এবং ভক্তরা বিশ্বাস করেন এখানে প্রার্থনা করলে কোনো সংসার খাদ্যের অভাব থেকে মুক্ত থাকে। তৈ পূসম, স্কন্দ ষষ্ঠী, মহাশিবরাত্রি ও মাসিক প্রদোষমও পালিত হয়। তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তিরুক্কুরুকাবুর তাঁদের জন্য একটি ধীরস্থির দর্শনের স্থান যাঁরা ছোট গ্রাম-তীর্থ ভালোবাসেন। মন্দিরটি প্রধান সড়ক থেকে প্রায় এক কিলোমিটার দূরে, মাঠের মাঝে, এবং সাধারণত খুবই নিরিবিলি। প্রথমে ভেল্বিডৈ নাথরের গর্ভগৃহে আসুন, তারপর কাবিয়ঙ্কণ্ণির দক্ষিণমুখী মন্দিরে, এবং পুরোহিতদের দুধের কূপ ও দই-ভাতসহ সেই বৃদ্ধের কথা জিজ্ঞাসা করুন। অনেক তীর্থযাত্রী চিত্তিরৈ পূর্ণিমার জন্য তাঁদের দর্শনের সময় বেছে নেন, যখন সম্বন্দরের কাহিনির মতোই আবার দই-ভাতের আহার ভাগ করে নেওয়া হয়। তিরুমুল্লৈবাসল ও সীর্কাড়ির মহান তীর্থের মতো কাছের পাডল পেট্র মন্দিরগুলির সঙ্গে দর্শনটি মিলিয়ে নিন।"
   },
   "visit": {
-    "timings": "Typically open only for a short window in the morning, and sometimes again in the early evening; since the priest often keeps limited hours, confirm timings locally before you travel.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tirukkurukavur is about 6 km from Sirkazhi, which has the nearest railway station, and about 25 km from both Mayiladuthurai and Chidambaram. On the Sirkazhi to Tirumullaivasal bus route, get down at Vadagal; the temple is about 1 km off the main road. Local transport from Sirkazhi is the easiest way to reach it, and the nearest airport listed is Tiruchirappalli."
+    "timings": "সাধারণত কেবল সকালে অল্প সময়ের জন্য খোলা থাকে, এবং কখনো কখনো আবার সন্ধ্যার শুরুতে; যেহেতু পুরোহিত প্রায়ই সীমিত সময় রাখেন, যাত্রার আগে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা রেখে। প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরবিধি অনুসারে সাধারণত বাইরের অলিন্দ ও প্রাঙ্গণে ছবি তোলা অনুমোদিত, কিন্তু ভেতরের গর্ভগৃহে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুক্কুরুকাবুর সীর্কাড়ি থেকে প্রায় ৬ কিমি দূরে, যেখানে নিকটতম রেলস্টেশন রয়েছে, এবং ময়িলাড়ুতুরৈ ও চিদম্বরম উভয় থেকেই প্রায় ২৫ কিমি দূরে। সীর্কাড়ি থেকে তিরুমুল্লৈবাসল বাস রুটে বডগলে নামুন; মন্দিরটি প্রধান সড়ক থেকে প্রায় ১ কিমি দূরে। সীর্কাড়ি থেকে স্থানীয় পরিবহনই এখানে পৌঁছানোর সহজতম উপায়, এবং তালিকাভুক্ত নিকটতম বিমানবন্দর তিরুচিরাপল্লি।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/velvidainathar-tirukkurukavur.mp3",
+    "durationSec": 280
   }
 }
