@@ -1,29 +1,40 @@
 {
   "id": "somarama-bhimavaram",
   "locale": "bn",
+  "name": "সোমারামম (সোমেশ্বর মন্দির)",
   "nativeName": "సోమారామం",
+  "deity": "এখানে শিব সোমেশ্বর স্বামী রূপে পূজিত হন, এমন এক লিঙ্গ রূপে যা চাঁদের দশা অনুসারে রং বদলায় বলে কথিত। দেবী শ্রী রাজরাজেশ্বরী রূপে পূজিত, এবং এই স্থানে অন্নপূর্ণাও সম্মানিত হন।",
+  "tradition": "শৈব",
   "location": {
-    "city": "Gunupudi, Bhimavaram (West Godavari district)",
-    "state": "Andhra Pradesh",
+    "city": "গুনুপুডি, ভীমবরম (পশ্চিম গোদাবরী জেলা)",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 16.5449,
     "lng": 81.5212
   },
+  "period": "পূর্ব চালুক্য যুগ (প্রায় দশম শতক)",
   "century": 10,
+  "dynasty": "পূর্ব চালুক্য",
+  "style": "পরবর্তী সংযোজন সহ দ্রাবিড় মন্দির স্থাপত্য",
   "unesco": false,
   "circuits": [
     "pancharama-kshetras"
   ],
+  "summary": "ভীমবরমের প্রান্তে গুনুপুডিতে অবস্থিত সোমারামম হল পাঁচটি পঞ্চারাম ক্ষেত্রের একটি, গোদাবরী-কৃষ্ণা বদ্বীপ জুড়ে পূজিত একদল শৈব তীর্থ। এর প্রধান দেবতা সোমেশ্বর স্বামী, এমন এক লিঙ্গ রূপে পূজিত যা চান্দ্র মাস জুড়ে রং বদলায় বলে কথিত। শিব গর্ভগৃহের উপরে বিষ্ণুর একটি অসাধারণ ঊর্ধ্ব গর্ভগৃহ মন্দিরটিকে স্বতন্ত্র করে তোলে।",
   "sections": {
-    "history": "Somarama is counted among the Pancharama Kshetras, five ancient Shaiva centres of the Andhra coastal region whose linked traditions place them within a shared body of legend. The present temple at Gunupudi is generally associated with the patronage of the Eastern Chalukyas, a dynasty active in the region around the tenth century, and building activity is often linked with a ruler remembered as Chalukya Bhima. Like many long-worshipped sites, the structure reflects successive phases of care and addition by later patrons and communities. Over the centuries it has remained a living place of worship rather than a monument, drawing pilgrims who travel the circuit of the five shrines and local devotees who observe its seasonal festivals.",
-    "architecture": "The temple is arranged around the sanctum of Someswara Swamy, above which rises a distinctive upper shrine dedicated to Vishnu as Janardana Swamy, a vertical pairing of Shiva and Vishnu that is rarely seen and gives the building much of its character. The plan follows the broad conventions of southern temple design, with a pillared hall leading toward the inner sanctum and a gopura marking the entrance. A large temple tank associated with the site, known as the Chandra Pushkarini, lies nearby and features in ritual and legend. Stone and masonry work from different periods can be read across the complex, testifying to the long span over which the temple has been maintained and enlarged.",
-    "legends": "The temple's name recalls Chandra, the moon god also called Soma, who in the Pancharama tradition is said to have installed and worshipped the lingam here, an act that gives Somarama its name. The lingam's reputed change of colour through the lunar month, paler around the full moon and darker toward the new moon, is understood as an echo of this bond with the moon. The wider legend traces the five lingams of the Pancharama shrines to a single great lingam associated with the story of Tarakasura, which is said to have broken into pieces that came to rest at five places. Each fragment was then established and worshipped by a different divine figure, Somarama being the share linked with Soma.",
-    "festivals": "Maha Shivaratri is the temple's principal festival, observed with night-long worship and a Kalyanotsavam that ceremonially celebrates the marriage of the deities. The month of Karthika, sacred to Shiva, brings sustained observance with lamp offerings and larger gatherings, and the Navaratri season devoted to the goddess is marked with special worship of Sri Rajarajeswari. On these occasions the temple and its tank draw pilgrims from the surrounding delta towns as well as those completing the wider Pancharama circuit. Dates follow the traditional lunar calendar and shift from year to year, so devotees planning to attend are advised to confirm the schedule locally.",
-    "experience": "A visit to Somarama tends to be unhurried. The temple sits at Gunupudi on the edge of Bhimavaram, close enough to the town's daily life yet set within its own quiet precinct beside the temple tank. Many devotees pause first at the tank before entering, then move through the pillared hall toward the sanctum, where the lingam's association with the changing moon lends the darshan a particular resonance for those who visit across different phases of the lunar month. The glance upward to the Vishnu shrine is part of what regular visitors describe. Mornings and festival evenings are the busiest and most atmospheric times, while ordinary afternoons offer a calmer, more contemplative visit."
+    "history": "সোমারামম পঞ্চারাম ক্ষেত্রগুলির মধ্যে গণ্য, অন্ধ্র উপকূল অঞ্চলের পাঁচটি প্রাচীন শৈব কেন্দ্র, যাদের পরস্পর-সংযুক্ত ঐতিহ্য তাদের এক অভিন্ন কিংবদন্তিমণ্ডলের মধ্যে স্থাপন করে। গুনুপুডিতে বর্তমান মন্দিরটি সাধারণত পূর্ব চালুক্যদের পৃষ্ঠপোষকতার সঙ্গে যুক্ত করা হয়, এক রাজবংশ যারা প্রায় দশম শতকে এই অঞ্চলে সক্রিয় ছিল, এবং নির্মাণকাজ প্রায়ই চালুক্য ভীম নামে স্মরণীয় এক শাসকের সঙ্গে যুক্ত করা হয়। বহু দীর্ঘ-পূজিত স্থানের মতোই, গঠনটি পরবর্তী পৃষ্ঠপোষক ও সম্প্রদায়ের ক্রমিক যত্ন ও সংযোজনের পর্যায়গুলি প্রতিফলিত করে। শতাব্দীর পর শতাব্দী ধরে এটি একটি স্মারকের বদলে একটি জীবন্ত পূজাস্থল হয়ে রয়ে গেছে, যা পাঁচটি তীর্থের পরিক্রমায় ভ্রমণকারী তীর্থযাত্রী এবং এর ঋতুভিত্তিক উৎসব পালনকারী স্থানীয় ভক্তদের আকৃষ্ট করে।",
+    "architecture": "মন্দিরটি সোমেশ্বর স্বামীর গর্ভগৃহকে ঘিরে সাজানো, যার উপরে জনার্দন স্বামী রূপে বিষ্ণুকে উৎসর্গীকৃত একটি স্বতন্ত্র ঊর্ধ্ব গর্ভগৃহ উঠে গেছে, শিব ও বিষ্ণুর এক উল্লম্ব যুগ্মবিন্যাস যা বিরলভাবে দেখা যায় এবং ভবনটিকে এর অনেকখানি চরিত্র দেয়। পরিকল্পনাটি দক্ষিণী মন্দির নকশার বিস্তৃত রীতি অনুসরণ করে, একটি স্তম্ভশোভিত মণ্ডপ অন্তর্গর্ভগৃহের দিকে নিয়ে যায় এবং একটি গোপুর প্রবেশপথ চিহ্নিত করে। এই স্থানের সঙ্গে যুক্ত একটি বড় মন্দির পুষ্করিণী, যা চন্দ্র পুষ্করিণী নামে পরিচিত, কাছেই অবস্থিত এবং আচার ও কিংবদন্তিতে স্থান পায়। বিভিন্ন যুগের পাথর ও গাঁথনির কাজ পরিসর জুড়ে পড়া যায়, যা দীর্ঘ কালপর্বের সাক্ষ্য দেয় যে সময় ধরে মন্দিরটি রক্ষণাবেক্ষণ ও সম্প্রসারণ করা হয়েছে।",
+    "legends": "মন্দিরের নামটি চন্দ্রের—সোম নামেও পরিচিত চন্দ্রদেবের—স্মরণ করায়, যিনি পঞ্চারাম ঐতিহ্যে এখানে লিঙ্গটি প্রতিষ্ঠা ও পূজা করেছিলেন বলে কথিত, এক কাজ যা সোমারামমকে তার নাম দেয়। চান্দ্র মাস জুড়ে লিঙ্গের বর্ণ বদলের খ্যাতি, পূর্ণিমার কাছে ফ্যাকাশে ও অমাবস্যার দিকে গাঢ়তর, চাঁদের সঙ্গে এই বন্ধনের এক প্রতিধ্বনি হিসেবে বোঝা হয়। বৃহত্তর কিংবদন্তিটি পঞ্চারাম তীর্থগুলির পাঁচটি লিঙ্গকে তারকাসুরের কাহিনির সঙ্গে যুক্ত একটি একক মহান লিঙ্গের সূত্রে ধরে, যা টুকরো টুকরো হয়ে ভেঙে পাঁচটি স্থানে এসে স্থির হয়েছিল বলে কথিত। প্রতিটি খণ্ড তখন একজন ভিন্ন দিব্য ব্যক্তিত্ব কর্তৃক প্রতিষ্ঠিত ও পূজিত হয়, সোমারামম হল সোমের সঙ্গে যুক্ত অংশ।",
+    "festivals": "মহাশিবরাত্রি মন্দিরের প্রধান উৎসব, রাত্রিব্যাপী পূজা এবং একটি কল্যাণোৎসব সহকারে পালিত, যা আনুষ্ঠানিকভাবে দেবতাদের বিবাহ উদযাপন করে। কার্তিক মাস, শিবের পবিত্র, প্রদীপ নিবেদন ও বৃহত্তর সমাগমসহ নিরবচ্ছিন্ন পালন নিয়ে আসে, এবং দেবীকে উৎসর্গীকৃত নবরাত্রি ঋতু শ্রী রাজরাজেশ্বরীর বিশেষ পূজা দিয়ে চিহ্নিত হয়। এই উপলক্ষগুলিতে মন্দির ও এর পুষ্করিণী আশপাশের বদ্বীপ শহরগুলি থেকে এবং বৃহত্তর পঞ্চারাম পরিক্রমা সম্পন্নকারীদের মধ্য থেকে তীর্থযাত্রীদের আকৃষ্ট করে। তারিখগুলি ঐতিহ্যবাহী চান্দ্র পঞ্জিকা অনুসরণ করে এবং বছরে বছরে পাল্টায়, তাই যোগ দিতে পরিকল্পনা করা ভক্তদের স্থানীয়ভাবে সূচি নিশ্চিত করার পরামর্শ দেওয়া হয়।",
+    "experience": "সোমারামম দর্শন সাধারণত নিরিবিলি হয়ে থাকে। মন্দিরটি ভীমবরমের প্রান্তে গুনুপুডিতে অবস্থিত, শহরের দৈনন্দিন জীবনের যথেষ্ট কাছে, তবু মন্দির পুষ্করিণীর পাশে এর নিজস্ব শান্ত পরিসরের মধ্যে স্থাপিত। বহু ভক্ত ভেতরে ঢোকার আগে প্রথমে পুষ্করিণীর কাছে থামেন, তারপর স্তম্ভশোভিত মণ্ডপের মধ্য দিয়ে গর্ভগৃহের দিকে এগোন, যেখানে পরিবর্তনশীল চাঁদের সঙ্গে লিঙ্গের সংযোগ চান্দ্র মাসের বিভিন্ন দশায় আসা দর্শনার্থীদের জন্য দর্শনে এক বিশেষ অনুরণন যোগ করে। বিষ্ণু গর্ভগৃহের দিকে উপরে তাকানো সেই অভিজ্ঞতার অংশ যা নিয়মিত দর্শনার্থীরা বর্ণনা করেন। সকাল ও উৎসবের সন্ধ্যা সবচেয়ে ব্যস্ত ও ভাবগম্ভীর সময়, আর সাধারণ অপরাহ্ণ একটি শান্ততর, ধ্যানমগ্নতর দর্শন দেয়।"
   },
   "visit": {
-    "timings": "The temple generally opens in the early morning and again in the evening, with a midday break, following the customary pattern for temples in the region. Exact hours vary by day and season and around festivals, so it is best to verify the current timings locally before travelling.",
-    "dressCode": "Modest, traditional dress is expected, as at other temples in the region. Visitors typically remove footwear before entering the inner areas; covering the shoulders and legs is appreciated.",
-    "photography": "Photography rules vary and are often restricted within the sanctum and inner shrines. Look for posted signs and ask temple staff before taking photographs, particularly near the deities.",
-    "gettingThere": "The temple is at Gunupudi in Bhimavaram, West Godavari district. Bhimavaram is well connected by rail and road, and the town is easily reached from across the delta; the nearest airports are at Rajahmundry and Vijayawada."
+    "timings": "মন্দিরটি সাধারণত ভোরে ও আবার সন্ধ্যায় খোলে, মধ্যাহ্নে একটি বিরতি সহ, এই অঞ্চলের মন্দিরগুলির প্রথাগত ধরন অনুসরণ করে। সঠিক সময় দিন, ঋতু ও উৎসবের সময় ভিন্ন হয়, তাই ভ্রমণের আগে বর্তমান সময়সূচি স্থানীয়ভাবে যাচাই করা ভালো।",
+    "dressCode": "অঞ্চলের অন্য মন্দিরগুলির মতোই বিনম্র, ঐতিহ্যবাহী পোশাক প্রত্যাশিত। দর্শনার্থীরা সাধারণত অন্তঃস্থ অংশে ঢোকার আগে জুতো খুলে রাখেন; কাঁধ ও পা ঢেকে রাখা সমাদৃত।",
+    "photography": "ছবি তোলার নিয়ম ভিন্ন হয় এবং প্রায়ই গর্ভগৃহ ও অন্তঃস্থ তীর্থগুলির ভেতরে সীমিত থাকে। টাঙানো সঙ্কেত খুঁজুন এবং ছবি তোলার আগে, বিশেষত দেবতাদের কাছে, মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি পশ্চিম গোদাবরী জেলার ভীমবরমে গুনুপুডিতে অবস্থিত। ভীমবরম রেল ও সড়কপথে ভালোভাবে সংযুক্ত, এবং শহরটি বদ্বীপের সর্বত্র থেকে সহজে পৌঁছানো যায়; নিকটতম বিমানবন্দরগুলি রাজামুন্দ্রি ও বিজয়ওয়াড়ায়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/somarama-bhimavaram.mp3",
+    "durationSec": 299
   }
 }
