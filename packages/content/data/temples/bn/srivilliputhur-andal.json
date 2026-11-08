@@ -1,30 +1,41 @@
 {
   "id": "srivilliputhur-andal",
   "locale": "bn",
+  "name": "শ্রীবিল্লিপুত্তূর আণ্ডাল মন্দির (বটপত্রশায়ী)",
   "nativeName": "ஸ்ரீவில்லிபுத்தூர் ஆண்டாள் கோயில் (வடபத்ரசாயி)",
+  "deity": "বটপত্রশায়ী রূপে বিষ্ণু, বটপাতার উপর শয়ান, এবং আণ্ডাল (কোদৈ নাচ্চিয়ার)—আলবার সন্তদের মধ্যে একমাত্র নারী—সহ",
+  "tradition": "বৈষ্ণবধর্ম (শ্রীবৈষ্ণব)",
   "location": {
-    "city": "Srivilliputhur",
-    "state": "Tamil Nadu",
+    "city": "শ্রীবিল্লিপুত্তূর",
+    "state": "তামিলনাড়ু",
     "lat": 9.5125,
     "lng": 77.6295
   },
+  "period": "পাণ্ড্য দেশের একটি দিব্য দেশম, এবং আণ্ডালের তীর্থ, যাঁর তিরুপ্পাবৈ তামিল মাস মার্গঝি জুড়ে গীত হয়",
   "century": 9,
+  "dynasty": "পাণ্ড্য, পরবর্তী নায়ক পৃষ্ঠপোষকতা সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "শ্রীবিল্লিপুত্তূরে বিষ্ণু বটপত্রশায়ী রূপে শয়ান, আণ্ডালের তীর্থের পাশে—সেই বালিকা-সন্ত, যিনি তাঁকে নিজের বর রূপে ভালোবেসেছিলেন। এর উচ্চ রাজগোপুরম তামিলনাড়ুর প্রতীক, এবং এর তিরুপ্পাবৈ গোটা মার্গঝি মাস জুড়ে গীত হয়।",
   "sections": {
-    "history": "Srivilliputhur, in the Pandya country of southern Tamil Nadu, is honoured as the home of Andal — Kodhai, the only woman among the twelve Alvar saints. Tradition holds that Periyalvar, her foster father, found her as an infant beneath a tulsi plant in the temple garden, and that she grew up loving Vishnu so wholly that she wore the garlands meant for him and would take no other bridegroom. The temple is a Divya Desam, one of the 108 abodes of Vishnu sung by the Alvars, and its presiding lord is Vatapatrasayi, worshipped alongside Andal in her own celebrated shrine.",
-    "architecture": "Built in the Dravidian manner and enlarged under later patrons, the temple is crowned by a soaring eleven-tiered rajagopuram, one of the tallest in the land — so emblematic that it is the official emblem of the Government of Tamil Nadu. Within, the lord Vatapatrasayi reclines upon the serpent, while Andal is enshrined in her adjoining temple; pillared halls and painted ceilings carry the devotional art of the deep south.",
-    "legends": "Andal's love is the temple's living legend: she is said to have offered Vishnu garlands she had first worn herself, and her Thiruppavai and Nachiyar Tirumozhi remain among the most beloved of Tamil devotional poems. In the end, tradition tells, she was united with Ranganatha of Srirangam and merged into the lord — the only Alvar, and the only woman, to be so wedded to the divine. Her festival marriage to Ranganatha is re-enacted here each year.",
-    "festivals": "The month of Margazhi belongs to Andal, when her Thiruppavai is chanted daily in homes and temples across the Tamil country. Aadi Pooram, celebrating her appearance, and the festival of her wedding to Ranganatha draw great crowds, with processions through the temple town beneath its great tower.",
-    "experience": "To stand before Andal's shrine is to enter one of the most intimate devotions in the Tamil tradition — a saint who is also a bride. Pilgrims come for the Thiruppavai season and for the sight of the rajagopuram rising over the town, a landmark carried on the emblem of the state itself."
+    "history": "দক্ষিণ তামিলনাড়ুর পাণ্ড্য দেশে অবস্থিত শ্রীবিল্লিপুত্তূর আণ্ডালের গৃহ রূপে সম্মানিত—কোদৈ, বারোজন আলবার সন্তের মধ্যে একমাত্র নারী। ঐতিহ্য বলে, তাঁর পালক পিতা পেরিয়ালবার তাঁকে শিশু অবস্থায় মন্দির উদ্যানে একটি তুলসী গাছের নিচে খুঁজে পান, এবং তিনি বিষ্ণুকে এমন সম্পূর্ণভাবে ভালোবেসে বড় হন যে তাঁর জন্য রাখা মালা নিজে পরতেন এবং অন্য কোনো বর গ্রহণ করতেন না। মন্দিরটি একটি দিব্য দেশম, আলবারদের গীত বিষ্ণুর ১০৮টি আবাসের একটি, এবং এর অধিষ্ঠাতা প্রভু বটপত্রশায়ী, আণ্ডালের নিজের প্রসিদ্ধ তীর্থের সঙ্গে পূজিত।",
+    "architecture": "দ্রাবিড় রীতিতে নির্মিত ও পরবর্তী পৃষ্ঠপোষকদের দ্বারা বর্ধিত এই মন্দির শীর্ষে ধারণ করে এক উত্তুঙ্গ এগারো-স্তরের রাজগোপুরম, দেশের অন্যতম উচ্চ—এত প্রতীকী যে এটি তামিলনাড়ু সরকারের সরকারি প্রতীক। ভেতরে প্রভু বটপত্রশায়ী সর্পের উপর শয়ান, আর আণ্ডাল তাঁর সংলগ্ন মন্দিরে অধিষ্ঠিত; স্তম্ভশোভিত মণ্ডপ ও চিত্রিত ছাদ সুদূর দক্ষিণের ভক্তিশিল্প বহন করে।",
+    "legends": "আণ্ডালের প্রেম মন্দিরের জীবন্ত কিংবদন্তি: বলা হয়, তিনি বিষ্ণুকে সেই মালা নিবেদন করতেন যা তিনি আগে নিজে পরেছিলেন, এবং তাঁর তিরুপ্পাবৈ ও নাচ্চিয়ার তিরুমোঝি আজও তামিল ভক্তিকাব্যের মধ্যে সর্বাধিক প্রিয়। পরিশেষে, ঐতিহ্য বলে, তিনি শ্রীরঙ্গমের রঙ্গনাথের সঙ্গে মিলিত হয়ে প্রভুতে বিলীন হন—একমাত্র আলবার, এবং একমাত্র নারী, যিনি এভাবে দিব্যের সঙ্গে পরিণীত হন। রঙ্গনাথের সঙ্গে তাঁর উৎসব-বিবাহ এখানে প্রতি বছর পুনরভিনীত হয়।",
+    "festivals": "মার্গঝি মাস আণ্ডালের, যখন তাঁর তিরুপ্পাবৈ তামিল দেশ জুড়ে ঘরে ঘরে ও মন্দিরে প্রতিদিন পাঠ করা হয়। তাঁর আবির্ভাব উদ্‌যাপনকারী আদি পূরম এবং রঙ্গনাথের সঙ্গে তাঁর বিবাহোৎসব বিপুল জনসমাগম টানে, মহান গোপুরের নিচে মন্দির-নগরী জুড়ে শোভাযাত্রা সহ।",
+    "experience": "আণ্ডালের তীর্থের সামনে দাঁড়ানো মানে তামিল ঐতিহ্যের অন্যতম ঘনিষ্ঠ ভক্তিতে প্রবেশ করা—এক সন্ত, যিনি একাধারে বধূও। তীর্থযাত্রীরা আসেন তিরুপ্পাবৈ-এর ঋতুর জন্য এবং নগরীর উপর উত্থিত রাজগোপুরম দর্শনের জন্য, যা স্বয়ং রাজ্যের প্রতীকে বাহিত এক ল্যান্ডমার্ক।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Margazhi month and Aadi Pooram are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Srivilliputhur lies in Virudhunagar district of southern Tamil Nadu, off the Madurai–Sivakasi road, reachable by road and rail; Madurai is the nearest major hub and airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বে খোলা, মধ্যাহ্নে বিরতি সহ; মার্গঝি মাস ও আদি পূরম সবচেয়ে ব্যস্ত সময়। দর্শনের আগে বর্তমান সময় নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে ছবি তোলায় নিষেধাজ্ঞা রয়েছে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "শ্রীবিল্লিপুত্তূর দক্ষিণ তামিলনাড়ুর বিরুধুনগর জেলায়, মাদুরাই–শিবকাশি সড়কের ধারে অবস্থিত, সড়ক ও রেলপথে পৌঁছানো যায়; মাদুরাই নিকটতম বড় কেন্দ্র ও বিমানবন্দর।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/srivilliputhur-andal.mp3",
+    "durationSec": 179
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.webp"
     },
     "og": "https://media.dsquaregee.com/og/srivilliputhur-andal.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/srivilliputhur-andal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
+    "durationSec": 132,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

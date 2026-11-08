@@ -1,35 +1,52 @@
 {
   "id": "thayumanavar-tiruchirappalli",
   "locale": "bn",
+  "name": "তায়ুমানবর মন্দির, তিরুচিরাপল্লি",
   "nativeName": "தாயுமானவர் கோயில்",
+  "deity": "তায়ুমানবর (মাত্রুভূতেশ্বরর) রূপে শিব, দেবী মত্তুবর কুড়লম্মৈর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tiruchirappalli",
-    "state": "Tamil Nadu",
+    "city": "তিরুচিরাপল্লি",
+    "state": "তামিলনাড়ু",
     "lat": 10.8297,
     "lng": 78.6983
   },
+  "period": "তিরুচিরাপল্লি পাহাড়ের উপর শিলাখোদিত ও গঠনমূলক শৈব তীর্থ, তেবারমে স্তুত (সপ্তম শতক), পল্লব, পাণ্ড্য ও পরবর্তী সংযোজন সহ",
   "century": 7,
+  "dynasty": "পল্লব, পাণ্ড্য ও পরবর্তী তামিল রাজবংশ",
+  "style": "দ্রাবিড় (শিলাখোদিত ও গঠনমূলক)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুচিরাপল্লির বিশাল শিলার পাদদেশে শিব তায়ুমানবর—'যিনি মা হয়েছিলেন'—রূপে পূজিত, সেই ঐতিহ্যের জন্য যে তিনি প্রসবকালে এক ভক্তের কাছে মায়ের রূপে এসেছিলেন; পাহাড়টিকে দক্ষিণের কৈলাস রূপে শ্রদ্ধা করা হয়।",
   "sections": {
-    "history": "The temple stands at the foot of the great rock of Tiruchirappalli, a landmark of the Kaveri country sung in the Tevaram, which makes it a Paadal Petra Sthalam of the Chola land south of the river. The hill was fortified by the Pallavas and later by the Pandyas, Vijayanagara governors and the Nayaks of Madurai, and the shrine of Thayumanavar at its base grew under their patronage into a large walled temple. The rock itself carries older rock-cut caves and inscriptions of Mahendravarman I. Worshipped here as Matrubhuteswarar, the Lord who took a mother's form, Thayumanavar has drawn devotees for well over a thousand years, and the temple remains one of the foremost Shaiva centres of the Tiruchirappalli region.",
-    "architecture": "The shrine sits at the base of the towering natural rock, so that the hill itself serves as the temple's backdrop and is revered as a southern Kailash, Dakshina Kailayam. The sanctum of Thayumanavar holds the Shiva linga, and the goddess Mattuvar Kuzhalammai has her own shrine. Pillared halls, a temple tank used for the float festival, and stepped approaches climb the rock past the cave shrines toward the Uchi Pillayar temple at the summit. Generations of patrons added mandapams and gopura gateways around the lower sanctum.",
-    "legends": "The temple's defining story tells of Rathnavathi, a devoted woman who, far from her mother, came to her time of childbirth with no one to help her. She prayed to the Lord of the hill, and Shiva is said to have come in the very form of her mother, tending her through the delivery before revealing himself. From this grace he is named Thayumanavar, the one who became mother, and Matrubhuteswarar in Sanskrit. The great rock is itself honoured as a fragment of Mount Kailash brought to the south.",
-    "festivals": "The temple's famous Theppa Thiruvizha, the float festival on the temple tank, is recorded as having been held since 1546 and remains its signature celebration. Maha Shivaratri, the Tamil month festivals, and the monthly Pradosham draw large crowds, and Thiruvadirai in Margazhi is kept with devotion. Festival dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "A visit joins the sacred and the panoramic: pilgrims worship Thayumanavar and the goddess at the base, then many climb the rock-cut steps past the hill shrines to the summit for the view over Tiruchirappalli and the Kaveri. The lower temple keeps the calm of a very old sanctuary amid the busy city, and the story of the Lord who came as a mother gives the place a tenderness felt by families who pray here."
+    "history": "মন্দিরটি তিরুচিরাপল্লির বিশাল শিলার পাদদেশে দাঁড়িয়ে আছে, যা কাবেরী দেশের এক নিদর্শন ও তেবারমে স্তুত, এর ফলে এটি নদীর দক্ষিণের চোল দেশের একটি পাডল পেট্র স্থলম। পাহাড়টি পল্লবরা এবং পরে পাণ্ড্য, বিজয়নগর শাসক ও মাদুরাইয়ের নায়করা দুর্গে পরিণত করেন, আর এর পাদদেশের তায়ুমানবরের তীর্থ তাঁদের পৃষ্ঠপোষকতায় এক বিশাল প্রাচীরবেষ্টিত মন্দিরে বেড়ে ওঠে। শিলাটি নিজেই প্রথম মহেন্দ্রবর্মনের প্রাচীন শিলাখোদিত গুহা ও শিলালিপি বহন করে। এখানে মাত্রুভূতেশ্বরর—যে প্রভু মায়ের রূপ ধারণ করেছিলেন—রূপে পূজিত তায়ুমানবর হাজার বছরেরও বেশি সময় ধরে ভক্তদের আকৃষ্ট করে এসেছেন, এবং মন্দিরটি তিরুচিরাপল্লি অঞ্চলের অন্যতম প্রধান শৈব কেন্দ্র হিসেবে রয়ে গেছে।",
+    "architecture": "তীর্থটি সুউচ্চ প্রাকৃতিক শিলার পাদদেশে অবস্থিত, যাতে পাহাড়টি নিজেই মন্দিরের পটভূমি হিসেবে কাজ করে এবং দক্ষিণের কৈলাস, দক্ষিণ কৈলায়ম রূপে শ্রদ্ধিত। তায়ুমানবরের গর্ভগৃহে শিবলিঙ্গ অধিষ্ঠিত, আর দেবী মত্তুবর কুড়লম্মৈর নিজস্ব সন্নিধি রয়েছে। স্তম্ভশোভিত মণ্ডপ, ভেলা উৎসবে ব্যবহৃত একটি মন্দির পুষ্করিণী, এবং সোপানবিশিষ্ট পথ গুহা-তীর্থ পেরিয়ে শিখরের উচ্চি পিল্লৈয়ার মন্দিরের দিকে উঠে যায়। পৃষ্ঠপোষকদের বংশপরম্পরা নিম্ন গর্ভগৃহের চারপাশে মণ্ডপ ও গোপুরম প্রবেশদ্বার যোগ করেছে।",
+    "legends": "মন্দিরের প্রধান কাহিনিটি রত্নাবতীর কথা বলে, এক ভক্ত নারী, যিনি তাঁর মায়ের থেকে দূরে থাকাকালীন প্রসবের সময়ে এলেন, সাহায্য করার কেউ ছিল না। তিনি পাহাড়ের প্রভুর কাছে প্রার্থনা করেন, আর শিব তাঁর মায়েরই রূপে এসে প্রসবের মধ্য দিয়ে তাঁকে সেবা করে নিজের পরিচয় প্রকাশ করেন বলে কথিত। এই কৃপা থেকেই তাঁর নাম তায়ুমানবর, যিনি মা হয়েছিলেন, এবং সংস্কৃতে মাত্রুভূতেশ্বরর। বিশাল শিলাটিকে নিজেই কৈলাস পর্বতের একটি খণ্ড বলে সম্মান করা হয়, যা দক্ষিণে আনা হয়েছিল।",
+    "festivals": "মন্দিরের বিখ্যাত তেপ্প তিরুবিড়া, মন্দির পুষ্করিণীতে ভেলা উৎসব, ১৫৪৬ সাল থেকে অনুষ্ঠিত হয়ে আসছে বলে নথিবদ্ধ এবং এর স্বাক্ষরস্বরূপ উদ্‌যাপন হয়ে রয়েছে। মহাশিবরাত্রি, তামিল মাসের উৎসব ও মাসিক প্রদোষম বিশাল জনসমাগম টানে, আর মার্গলিতে তিরুবাদিরৈ ভক্তির সঙ্গে পালিত হয়। উৎসবের তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "একটি দর্শন পবিত্র ও বিস্তীর্ণ দৃশ্যকে মিলিয়ে দেয়: তীর্থযাত্রীরা পাদদেশে তায়ুমানবর ও দেবীর পূজা করেন, তারপর অনেকে পাহাড়ের তীর্থগুলি পেরিয়ে শিলাখোদিত সিঁড়ি বেয়ে শিখরে ওঠেন তিরুচিরাপল্লি ও কাবেরীর উপর দৃশ্য দেখতে। ব্যস্ত শহরের মাঝে নিম্ন মন্দিরটি এক অতি প্রাচীন তীর্থের শান্তি ধরে রাখে, আর যে প্রভু মায়ের রূপে এসেছিলেন তাঁর কাহিনি এখানে প্রার্থনা করা পরিবারগুলির অনুভূত এক কোমলতা স্থানটিকে দেয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "The temple is at the foot of the Rockfort in the heart of Tiruchirappalli (Trichy). Trichy Junction railway station is about 4 km away and Tiruchirappalli International Airport about 8 km; the hill and temple are well served by city buses and autos."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত ও আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "বাইরের অলিন্দে সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নিষিদ্ধ; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি তিরুচিরাপল্লি (ট্রিচি)-র কেন্দ্রস্থলে রকফোর্টের পাদদেশে অবস্থিত। ট্রিচি জংশন রেলস্টেশন প্রায় ৪ কিমি দূরে এবং তিরুচিরাপল্লি আন্তর্জাতিক বিমানবন্দর প্রায় ৮ কিমি; পাহাড় ও মন্দির শহর-বাস ও অটোয় সুবিধাজনকভাবে পৌঁছানো যায়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thayumanavar-tiruchirappalli.mp3",
+    "durationSec": 215
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thayumanavar-tiruchirappalli.jpg",
     "color": "#5C3A2E",
     "alt": "Thayumanavar Temple, Tiruchirappalli",
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/thayumanavar-tiruchirappalli.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thayumanavar-tiruchirappalli.jpg",
+    "durationSec": 158,
     "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

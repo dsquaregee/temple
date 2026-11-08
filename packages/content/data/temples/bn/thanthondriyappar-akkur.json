@@ -1,29 +1,40 @@
 {
   "id": "thanthondriyappar-akkur",
   "locale": "bn",
+  "name": "তানতোন্দ্রিয়প্পর মন্দির, আক্কুর",
   "nativeName": "திருஆக்கூர் தான்தோன்றியப்பர் கோயில்",
+  "deity": "তানতোন্দ্রিয়প্পর (স্বয়ম্ভূ প্রভু) রূপে শিব, দেবী বাল্‌নেডুঙ্কণ্ণির সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, একটি মাডা কোয়িল",
   "location": {
-    "city": "Akkur, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "আক্কুর, ময়িলাড়ুতুরৈ-এর কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 11.0825,
     "lng": 79.7814
   },
+  "period": "তেবারম যুগ; ঐতিহ্য অনুসারে কোচেঙ্গট চোলের একটি মাডা কোয়িল",
   "century": 9,
+  "dynasty": "চোল (ঐতিহ্য অনুসারে কোচেঙ্গট চোল)",
+  "style": "দ্রাবিড় (মাডা কোয়িল, উঁচু ধরনের)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ময়িলাড়ুতুরৈ-এর পূর্বে অবস্থিত আক্কুর শিবকে তানতোন্দ্রিয়প্পর—স্বয়ম্ভূ প্রভু—রূপে পূজা করে, যাঁর লিঙ্গ একটি মন্দির পুষ্করিণী খননের সময় স্বয়ংক্রিয়ভাবে উঠে এসেছিল বলে কথিত। সম্বন্দর ও অপ্পর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম, এটি স্তোত্রে তোন-তোন্দ্রি মাডম নামে পরিচিত এবং একটি উঁচু মাডা কোয়িল রূপে নির্মিত, ঐতিহ্য অনুসারে চোল রাজা কোচেঙ্গট চোলের নির্মিতগুলির একটি। গ্রামটি আবার ত্রেষট্টি শৈব সাধকের অন্যতম সিরপ্পুলি নায়নারের জন্মস্থানও।",
   "sections": {
-    "history": "Akkur, east of Mayiladuthurai on the road toward Tharangambadi, is an ancient Shaiva village hymned in the seventh-century Tevaram by Sambandar and Appar and counted among the Paadal Petra Sthalams, where it is named Thon-Thondri Maadam. The temple was built as a Maada Kovil — a raised temple of the type traditionally ascribed to the early Chola king Kochengat Chola — and the village holds the added honour of being the birthplace of Sirappuli Nayanar, one of the sixty-three Shaiva saints.",
-    "architecture": "As a Maada Kovil the temple sits on an elevated base, reached by steps, in the manner of the Kochengat Chola foundations built high so that an elephant could not enter the sanctum. The sanctum enshrines the self-manifested lingam of Thanthondriappar, and the goddess Valnedunkanni has her own shrine. The temple's Murugan, praised by the saint-poet Arunagirinathar in his Tiruppugazh, adds to the devotional draw of the raised village shrine.",
-    "legends": "The name Thanthondriappar — 'the lord who appeared of himself' — comes from the tradition that the lingam rose on its own as a tank was being dug before the temple. A second story tells of a Chola king, in some tellings Kochengat Chola, afflicted with a disease no physician could cure; Shiva came to him in a dream and bade him feed a thousand people for forty-eight days, and on fulfilling this the king was healed and raised the Maada Kovil here. The village's honour as the birthplace of Sirappuli Nayanar binds it further into the story of the Shaiva saints.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam — and the day of Sirappuli Nayanar is observed with special honour as the saint's native place. The raised sanctum gives the festival processions their own character among the delta villages.",
-    "experience": "Climbing to the elevated sanctum of a Maada Kovil is part of the pilgrimage at Akkur, and the darshan of the self-manifested Thanthondriappar carries the sense of a lord who came forth of his own will. The village's link to Sirappuli Nayanar and to the healing of a king gives this quiet shrine a depth beyond its modest size."
+    "history": "ময়িলাড়ুতুরৈ থেকে তারঙ্গম্বাডির দিকে যাওয়া পথে এর পূর্বে অবস্থিত আক্কুর একটি প্রাচীন শৈব গ্রাম, সপ্তম শতকের তেবারমে সম্বন্দর ও অপ্পর কর্তৃক স্তুত এবং পাডল পেট্র স্থলমগুলির মধ্যে গণ্য, যেখানে এর নাম তোন-তোন্দ্রি মাডম। মন্দিরটি একটি মাডা কোয়িল রূপে নির্মিত হয়েছিল—এক উঁচু ধরনের মন্দির যা ঐতিহ্য অনুসারে আদি চোল রাজা কোচেঙ্গট চোলের নামে আরোপিত—এবং গ্রামটি ত্রেষট্টি শৈব সাধকের অন্যতম সিরপ্পুলি নায়নারের জন্মস্থান হওয়ার অতিরিক্ত সম্মান বহন করে।",
+    "architecture": "মাডা কোয়িল হওয়ায় মন্দিরটি একটি উঁচু ভিতের উপরে অবস্থিত, সিঁড়ি দিয়ে পৌঁছানো যায়, কোচেঙ্গট চোলের নির্মাণগুলির ধাঁচে, যেগুলি এত উঁচুতে গড়া যে হাতি গর্ভগৃহে ঢুকতে পারে না। গর্ভগৃহে তানতোন্দ্রিয়প্পরের স্বয়ম্ভূ লিঙ্গ অধিষ্ঠিত, আর দেবী বাল্‌নেডুঙ্কণ্ণির নিজস্ব সন্নিধি রয়েছে। সাধক-কবি অরুণগিরিনাথর তাঁর তিরুপ্পুগলে এই মন্দিরের মুরুগনকে স্তুত করেছেন, যা উঁচু গ্রাম-তীর্থের ভক্তি-আকর্ষণে যোগ দেয়।",
+    "legends": "তানতোন্দ্রিয়প্পর নামটি—'যে প্রভু নিজে থেকে আবির্ভূত হয়েছিলেন'—সেই ঐতিহ্য থেকে এসেছে যে মন্দিরের আগে একটি পুষ্করিণী খননের সময় লিঙ্গটি স্বয়ংক্রিয়ভাবে উঠে এসেছিল। দ্বিতীয় একটি কাহিনিতে এক চোল রাজার কথা বলা হয়, কোনো কোনো বর্ণনায় কোচেঙ্গট চোল, যিনি এমন এক রোগে আক্রান্ত হন যা কোনো চিকিৎসক সারাতে পারেননি; শিব তাঁকে স্বপ্নে এসে আটচল্লিশ দিন ধরে এক হাজার মানুষকে খাওয়াতে বলেন, আর তা পূরণ করলে রাজা আরোগ্য লাভ করেন এবং এখানে মাডা কোয়িল নির্মাণ করেন। সিরপ্পুলি নায়নারের জন্মস্থান হওয়ার সম্মান গ্রামটিকে শৈব সাধকদের কাহিনির সঙ্গে আরও গভীরভাবে বেঁধে রাখে।",
+    "festivals": "মন্দিরটি শৈব উৎসব পঞ্জিকা পালন করে—মহাশিবরাত্রি, প্রদোষম, মার্গলি ঋতু ও বার্ষিক ব্রহ্মোৎসবম—এবং সিরপ্পুলি নায়নারের জন্মস্থান হিসেবে সাধকের দিনটি বিশেষ সম্মানের সঙ্গে পালিত হয়। উঁচু গর্ভগৃহ ব-দ্বীপের গ্রামগুলির মধ্যে উৎসব শোভাযাত্রাকে এক নিজস্ব বৈশিষ্ট্য দেয়।",
+    "experience": "মাডা কোয়িলের উঁচু গর্ভগৃহে উঠে যাওয়া আক্কুরে তীর্থযাত্রার একটি অংশ, আর স্বয়ম্ভূ তানতোন্দ্রিয়প্পরের দর্শন এমন এক প্রভুর অনুভূতি বহন করে যিনি নিজের ইচ্ছায় আবির্ভূত হয়েছিলেন। সিরপ্পুলি নায়নারের সঙ্গে ও এক রাজার আরোগ্যের সঙ্গে গ্রামের সংযোগ এই নিরিবিলি তীর্থকে তার বিনম্র আকারের ঊর্ধ্বে এক গভীরতা দেয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Akkur (Tiru-Aakkur) is about 16 km east of Mayiladuthurai on the Mayiladuthurai–Tharangambadi road, Mayiladuthurai district; the nearest rail head is Mayiladuthurai, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত ও আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "বাইরের অলিন্দে সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নিষিদ্ধ; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "আক্কুর (তিরু-আক্কুর) ময়িলাড়ুতুরৈ–তারঙ্গম্বাডি সড়কে ময়িলাড়ুতুরৈ থেকে প্রায় ১৬ কিমি পূর্বে, ময়িলাড়ুতুরৈ জেলায় অবস্থিত; নিকটতম রেলপথ ময়িলাড়ুতুরৈ, আর গ্রামে পৌঁছানোর জন্য স্থানীয় বাস ও ট্যাক্সি রয়েছে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thanthondriyappar-akkur.mp3",
+    "durationSec": 204
   }
 }
