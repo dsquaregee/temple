@@ -1,30 +1,41 @@
 {
   "id": "payammal-shatrughna",
   "locale": "bn",
+  "name": "পায়াম্মল শত্রুঘ্ন মন্দির",
   "nativeName": "പായമ്മൽ ശത്രുഘ്ന ക്ഷേത്രം",
+  "deity": "শত্রুঘ্ন, রামের কনিষ্ঠতম ভ্রাতা, শত্রুঘ্নস্বামী রূপে পূজিত এবং বিষ্ণুর সুদর্শন চক্রের মূর্ত রূপ হিসেবে শ্রদ্ধেয়",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Payammal",
-    "state": "Kerala",
+    "city": "পায়াম্মল",
+    "state": "কেরালা",
     "lat": 10.3119,
     "lng": 76.1892
   },
+  "period": "ঐতিহ্য অনুসারে প্রাচীন; অষ্টাদশ শতকের শেষে মহীশূরের আক্রমণে ক্ষতিগ্রস্ত এবং গ্রামবাসীর দ্বারা পুনরুদ্ধার",
   "century": 18,
+  "dynasty": "কেরালা (গ্রাম পৃষ্ঠপোষকতা)",
+  "style": "ধ্রুপদী কেরালা",
   "unesco": false,
   "circuits": [
     "nalambalam"
   ],
+  "summary": "ইরিঞ্জালকুড়ার দক্ষিণের নিরিবিলি পল্লি-অঞ্চলে পায়াম্মলের শত্রুঘ্নের ছোট মন্দিরটি নালাম্বলম তীর্থযাত্রা সম্পূর্ণ করে—রামের কনিষ্ঠতম ভ্রাতার এক পল্লি দেবালয়, যাঁকে প্রভুর নিজস্ব চক্র বলে গণ্য করা হয়।",
   "sections": {
-    "history": "Payammal is the last and smallest of the four Nalambalam temples. In tradition its image of Shatrughna — youngest of Dasharatha's four sons and twin of Lakshmana — was one of the four found in the sea and installed by the chieftain Vakkayil Kaimal, Shatrughna's being given to Payammal. Its later story is one of loss and recovery. The temple declined amid struggles between local powers and was damaged during the Mysore invasions under Tipu Sultan in the late 18th century; tradition holds that the original panchaloha image was hidden in the temple pond for safety and never found again. The people of the village restored the shrine, and a granite image of Shatrughna now stands in the sanctum.",
-    "architecture": "Payammal is a modest Kerala village temple, its square sanctum set within a walled precinct in rural surroundings. There is no great tower or grand hall; the shrine's character lies in its simplicity. Close by lies the temple pond, the very waters that tradition says hold the lost metal image to this day. Within, Shatrughna stands in the granite image installed after the temple's restoration, honoured with the daily worship of a Vishnu shrine in the Kerala manner.",
-    "legends": "Shatrughna is revered here as an incarnation of the Sudarshana chakra, the blazing discus of Vishnu. His name means 'slayer of enemies', and devotees come to him to overcome adversity. The chief offering is the Sudarshana Pushpanjali, a flower worship made for victory over enemies and for prosperity, and some devotees offer a small Sudarshana chakra itself. It is also believed that the pilgrim should, where possible, attend the night puja here, to receive the Lord's protection in full.",
-    "festivals": "The temple's annual festival begins on the Pooyam asterism in Kumbham (February–March) and runs for five days. Its busiest season, though, is Karkidakam (July–August), when Nalambalam pilgrims arrive to complete their round with Shatrughna, many hurrying to finish all four temples before midday. Confirm dates locally.",
-    "experience": "After the crowds of Triprayar and Irinjalakuda, Payammal feels like a homecoming — a small shrine on a quiet village road where the Nalambalam pilgrimage comes gently to rest. In Karkidakam the lanes fill with buses and families completing the round; outside that season the temple is peaceful, and its simple courtyard invites a few minutes of stillness before the journey home."
+    "history": "পায়াম্মল চারটি নালাম্বলম মন্দিরের মধ্যে সর্বশেষ ও ক্ষুদ্রতম। ঐতিহ্য অনুসারে শত্রুঘ্নের—দশরথের চার পুত্রের কনিষ্ঠতম ও লক্ষ্মণের যমজ—এই বিগ্রহটি সমুদ্রে পাওয়া চারটি বিগ্রহের একটি, যা সর্দার বক্কায়িল কৈমাল প্রতিষ্ঠা করেছিলেন, আর শত্রুঘ্নেরটি পায়াম্মলকে দেওয়া হয়। এর পরবর্তী কাহিনি ক্ষতি ও পুনরুদ্ধারের। স্থানীয় শক্তিগুলির দ্বন্দ্বের মধ্যে মন্দিরটি ক্ষয়ে যায় এবং অষ্টাদশ শতকের শেষে টিপু সুলতানের নেতৃত্বে মহীশূরের আক্রমণে ক্ষতিগ্রস্ত হয়; ঐতিহ্য বলে যে মূল পঞ্চলোহ বিগ্রহটি নিরাপত্তার জন্য মন্দির পুষ্করিণীতে লুকিয়ে রাখা হয়েছিল এবং আর কখনও পাওয়া যায়নি। গ্রামের মানুষ দেবালয়টি পুনরুদ্ধার করেন, এবং এখন গর্ভগৃহে শত্রুঘ্নের একটি গ্রানাইট বিগ্রহ অধিষ্ঠিত।",
+    "architecture": "পায়াম্মল একটি বিনম্র কেরালা পল্লি-মন্দির, এর বর্গাকার গর্ভগৃহটি পল্লি পরিবেশে একটি প্রাচীরঘেরা পরিসরের মধ্যে অবস্থিত। কোনো বিশাল শিখর বা জমকালো মণ্ডপ নেই; দেবালয়টির বৈশিষ্ট্য নিহিত এর সরলতায়। কাছেই রয়েছে মন্দির পুষ্করিণী, সেই জলই যা ঐতিহ্য অনুসারে হারিয়ে যাওয়া ধাতব বিগ্রহটিকে আজও ধরে রেখেছে। ভেতরে, মন্দিরের পুনরুদ্ধারের পর প্রতিষ্ঠিত গ্রানাইট বিগ্রহে শত্রুঘ্ন দাঁড়িয়ে আছেন, কেরালা রীতিতে একটি বিষ্ণু দেবালয়ের প্রাত্যহিক পূজায় সম্মানিত।",
+    "legends": "শত্রুঘ্ন এখানে সুদর্শন চক্রের—বিষ্ণুর জ্বলন্ত চক্রের—অবতার রূপে শ্রদ্ধেয়। তাঁর নামের অর্থ 'শত্রুনাশক', এবং ভক্তরা প্রতিকূলতা জয় করতে তাঁর কাছে আসেন। প্রধান নিবেদন হল সুদর্শন পুষ্পাঞ্জলি, শত্রুর উপর বিজয় ও সমৃদ্ধির জন্য করা পুষ্পপূজা, আর কিছু ভক্ত একটি ছোট সুদর্শন চক্রও নিবেদন করেন। এও বিশ্বাস করা হয় যে তীর্থযাত্রীর, যেখানে সম্ভব, এখানে রাত্রির পূজায় উপস্থিত থাকা উচিত, যাতে প্রভুর সম্পূর্ণ রক্ষা লাভ করা যায়।",
+    "festivals": "মন্দিরের বার্ষিক উৎসব কুম্ভম মাসে (ফেব্রুয়ারি–মার্চ) পূয়ম নক্ষত্রে শুরু হয়ে পাঁচ দিন চলে। তবে এর সবচেয়ে ব্যস্ত মরশুম কর্কিডকম (জুলাই–আগস্ট), যখন নালাম্বলম তীর্থযাত্রীরা শত্রুঘ্নের দর্শনে তাঁদের চক্র সম্পূর্ণ করতে আসেন, অনেকে দুপুরের আগেই চারটি মন্দির শেষ করতে তাড়াহুড়ো করেন। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "ত্রিপ্রয়ার ও ইরিঞ্জালকুড়ার ভিড়ের পর পায়াম্মলকে যেন বাড়ি ফেরার মতো মনে হয়—এক নিরিবিলি পল্লি-পথে একটি ছোট দেবালয় যেখানে নালাম্বলম তীর্থযাত্রা মৃদুভাবে বিশ্রামে আসে। কর্কিডকমে পথঘাট বাস ও চক্র সম্পূর্ণকারী পরিবারে ভরে ওঠে; সেই মরশুমের বাইরে মন্দিরটি শান্ত, এবং এর সরল প্রাঙ্গণ বাড়ি ফেরার যাত্রার আগে কয়েক মুহূর্তের স্থিরতার আমন্ত্রণ জানায়।"
   },
   "visit": {
-    "timings": "Open in the early morning and again in the evening, with longer hours during Karkidakam for Nalambalam pilgrims. Confirm timings locally.",
-    "dressCode": "Traditional Kerala temple dress applies: men wear a mundu (dhoti) and remove their shirts before entering; women wear a saree, set-mundu or churidar. Entry is generally reserved for Hindus, per Kerala custom.",
-    "photography": "Photography is not permitted inside the temple; the outer surroundings may be photographed.",
-    "gettingThere": "Payammal is about 5 km south of Irinjalakuda in Thrissur district: turn off the Irinjalakuda–Kodungallur road at Arippalam and continue about 2 km. Irinjalakuda railway station, at Kallettumkara, is the nearest railhead, and Kochi international airport is roughly 40 km away by road. Nalambalam pilgrims usually arrive here last, after Moozhikkulam."
+    "timings": "ভোরবেলা ও আবার সন্ধ্যায় খোলা, কর্কিডকমে নালাম্বলম তীর্থযাত্রীদের জন্য দীর্ঘতর সময় সহ। সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "ঐতিহ্যবাহী কেরালা মন্দির পোশাক প্রযোজ্য: পুরুষরা মুন্ডু (ধুতি) পরেন এবং প্রবেশের আগে জামা খুলে রাখেন; নারীরা শাড়ি, সেট-মুন্ডু বা চুড়িদার পরেন। কেরালা প্রথা অনুসারে প্রবেশ সাধারণত হিন্দুদের জন্য সংরক্ষিত।",
+    "photography": "মন্দিরের ভেতরে ছবি তোলা অনুমোদিত নয়; বাইরের পরিবেশের ছবি তোলা যেতে পারে।",
+    "gettingThere": "পায়াম্মল ত্রিশূর জেলায় ইরিঞ্জালকুড়া থেকে প্রায় ৫ কিমি দক্ষিণে: ইরিঞ্জালকুড়া–কোডুঙ্গল্লুর সড়ক থেকে আরিপ্পালমে বাঁক নিয়ে প্রায় ২ কিমি এগিয়ে যান। কল্লেট্টুংকারায় ইরিঞ্জালকুড়া রেলস্টেশন নিকটতম রেলমাথা, এবং কোচি আন্তর্জাতিক বিমানবন্দর সড়কপথে প্রায় ৪০ কিমি দূরে। নালাম্বলম তীর্থযাত্রীরা সাধারণত মুঝিক্কুলমের পর সবশেষে এখানে আসেন।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/payammal-shatrughna.mp3",
+    "durationSec": 200
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/payammal-shatrughna.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/payammal-shatrughna.webp"
     },
     "og": "https://media.dsquaregee.com/og/payammal-shatrughna.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/payammal-shatrughna.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/payammal-shatrughna.jpg",
+    "durationSec": 149,
+    "credit": "Challiyan / Wikimedia Commons (CC BY-SA 3.0) · Dvellakat / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
