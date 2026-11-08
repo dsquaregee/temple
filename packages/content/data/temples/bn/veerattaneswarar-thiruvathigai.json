@@ -1,31 +1,38 @@
 {
   "id": "veerattaneswarar-thiruvathigai",
   "locale": "bn",
+  "name": "বীরট্টানেশ্বরর মন্দির, তিরুবদিগৈ",
   "nativeName": "திருவதிகை வீரட்டானேஸ்வரர் கோயில்",
+  "deity": "শিব বীরট্টানেশ্বরর রূপে, দেবী ত্রিপুরসুন্দরী (পেরিয়নায়কী) সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thiruvathigai (Panruti)",
-    "state": "Tamil Nadu",
+    "city": "তিরুবদিগৈ (পানরুতি)",
+    "state": "তামিলনাড়ু",
     "lat": 11.7683,
     "lng": 79.5753
   },
+  "period": "নাড়ু নাড়ু দেশের পাডল পেট্র স্থলম, তেবারমে স্তুত (৭ম শতাব্দী); অষ্ট বীরট্টানমের অন্যতম",
   "century": 7,
+  "dynasty": "পল্লব ও চোল, পরবর্তী সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "পানরুতির পাশে কেড়িলম নদীর তীরে শিব বীরট্টানেশ্বরর রূপে তিনটি উড়ন্ত নগরী দহন করার কীর্তি সম্মান করেন—সেই বীরট্টানম যেখানে অপ্পর আরোগ্য লাভ করেন, শৈবধর্মে ফিরে আসেন এবং তাঁর প্রথম স্তোত্র গেয়েছিলেন।",
   "sections": {
-    "history": "Thiruvathigai lies on the north bank of the Kedilam river, a short way from Panruti in Cuddalore district, and its temple to Shiva as Veerattaneswarar is one of the eight Ashta Veerattanams, the shrines that remember the Lord's heroic deeds. It also holds a singular place in Tamil Shaiva memory. Here, tradition holds, Appar — then a Jain monk named Dharmasenar — came in the grip of a crippling illness to his sister Thilagavathiyar, who served in this temple; healed by the sacred ash, he returned to the worship of Shiva and sang his first hymn on the spot. Appar's influence is remembered too in the turning of the Pallava king Mahendravarman I from Jainism to Shaivism. The saint left many hymns on this shrine, and it is counted among the Paadal Petra Sthalams of the Nadu Nadu country.",
-    "architecture": "The temple is one of the larger complexes of the region, entered through towered gateways in the Dravidian manner, with the sanctum of Veerattaneswarar at the heart of its courtyards. The goddess has her own shrine, whose brightly painted vimana is crowded with sculpted figures; among them Tripurantaka, the destroyer of the three cities, stands out with twelve arms. In the first precinct is a shrine to Thilagavathiyar, and a pillared hall is believed to have been raised at her wish, in thanksgiving for her brother's return.",
-    "legends": "The Veerattanam of Thiruvathigai remembers Tripura samhara. Three asura brothers ruled three flying cities of gold, silver and iron, and from them they harried heaven and earth. The gods fashioned a chariot for Shiva — the earth its body, the sun and moon its wheels, Brahma its charioteer, Mount Meru his bow — and he rode out against the cities. As they came into one line, the Tamil hymns say, he needed no arrow: he smiled, and the three cities burned. Thiruvathigai honours him as Tripurantaka, and the twelve-armed destroyer on the goddess's tower keeps the story before every pilgrim's eyes.",
-    "festivals": "The temple keeps the festivals of the Shaiva year — Maha Shivaratri, the fortnightly pradosham, and Arudra Darshan in Margazhi for the dancing Lord — and honours Appar on his guru puja, when the story of his healing here is retold. Annual festival processions carry the bronzes through the streets of Thiruvathigai; confirm dates locally.",
-    "experience": "Thiruvathigai is a place of return. Pilgrims come to the river town to stand where a doubting monk was healed and found his voice, and many recite Appar's first hymn before the sanctum. The shrine pairs naturally with Thirukkovilur, the Andhakasura Veerattanam to the west, and with the many Tevaram shrines of the Nadu Nadu country."
+    "history": "তিরুবদিগৈ কেড়িলম নদীর উত্তর তীরে, কুড্ডালোর জেলায় পানরুতি থেকে অল্প পথ দূরে অবস্থিত, এবং শিব বীরট্টানেশ্বররের এর মন্দিরটি আটটি অষ্ট বীরট্টানমের অন্যতম, সেই মন্দিরসমূহ যা প্রভুর বীরকীর্তি স্মরণ করে। এটি তামিল শৈব স্মৃতিতে এক অনন্য স্থানও ধারণ করে। এখানে, পরম্পরা বলে, অপ্পর—তখন ধর্মসেনর নামে এক জৈন সন্ন্যাসী—এক পঙ্গুকারী রোগের কবলে তাঁর বোন তিলগবতিয়ারের কাছে আসেন, যিনি এই মন্দিরে সেবারত ছিলেন; পবিত্র ভস্মে আরোগ্য লাভ করে তিনি শিবের পূজায় ফিরে আসেন এবং সেই স্থানেই তাঁর প্রথম স্তোত্র গেয়েছিলেন। পল্লব রাজা প্রথম মহেন্দ্রবর্মনের জৈনধর্ম থেকে শৈবধর্মে ফেরার ক্ষেত্রেও অপ্পরের প্রভাব স্মরিত হয়। সন্ত এই মন্দিরে বহু স্তোত্র রেখে গেছেন, এবং এটি নাড়ু নাড়ু দেশের পাডল পেট্র স্থলমের মধ্যে গণ্য।",
+    "architecture": "মন্দিরটি অঞ্চলের বৃহত্তর সংকুলগুলির অন্যতম, দ্রাবিড় রীতিতে স্তম্ভযুক্ত প্রবেশদ্বার দিয়ে প্রবেশ করা হয়, এর প্রাঙ্গণের হৃদয়ে বীরট্টানেশ্বররের গর্ভগৃহ। দেবীর নিজস্ব মন্দির রয়েছে, যার উজ্জ্বল রঙিন বিমান ভাস্কর্যমূর্তিতে পরিপূর্ণ; তাদের মধ্যে ত্রিপুরান্তক, তিন নগরীর বিনাশক, বারো বাহুতে সমুজ্জ্বল। প্রথম প্রাঙ্গণে তিলগবতিয়ারের একটি মন্দির রয়েছে, এবং একটি স্তম্ভযুক্ত হল তাঁর ইচ্ছায় তাঁর ভাইয়ের প্রত্যাবর্তনের কৃতজ্ঞতায় নির্মিত বলে বিশ্বাস করা হয়।",
+    "legends": "তিরুবদিগৈয়ের বীরট্টানম ত্রিপুর সংহার স্মরণ করে। তিন অসুর ভ্রাতা স্বর্ণ, রৌপ্য ও লৌহের তিন উড়ন্ত নগরী শাসন করত, এবং সেখান থেকে তারা স্বর্গ ও পৃথিবী উৎপীড়ন করত। দেবতারা শিবের জন্য একটি রথ তৈরি করেন—পৃথিবী তার দেহ, সূর্য ও চন্দ্র তার চক্র, ব্রহ্মা তার সারথি, মেরুপর্বত তাঁর ধনুক—এবং তিনি নগরীগুলির বিরুদ্ধে যাত্রা করেন। তামিল স্তোত্র বলে, যখন তারা এক সরলরেখায় এল, তাঁর কোনো তীরের প্রয়োজন হল না: তিনি হাসলেন, এবং তিন নগরী দগ্ধ হল। তিরুবদিগৈ তাঁকে ত্রিপুরান্তক রূপে সম্মান করে, এবং দেবীর স্তম্ভে বারো-বাহু বিনাশক প্রতিটি তীর্থযাত্রীর চোখের সামনে কাহিনিটি রাখে।",
+    "festivals": "মন্দিরটি শৈব বছরের উৎসবগুলি পালন করে—মহাশিবরাত্রি, পাক্ষিক প্রদোষম, এবং নৃত্যরত প্রভুর জন্য মার্গড়িতে আরুদ্র দর্শন—এবং গুরুপূজায় অপ্পরকে সম্মান করে, যখন এখানে তাঁর আরোগ্যলাভের কাহিনি পুনরায় বলা হয়। বার্ষিক উৎসবের শোভাযাত্রা তিরুবদিগৈয়ের পথে কাঁসার মূর্তি বহন করে; তারিখগুলি স্থানীয়ভাবে যাচাই করুন।",
+    "experience": "তিরুবদিগৈ প্রত্যাবর্তনের এক স্থান। তীর্থযাত্রীরা সেই নদীনগরে আসেন যেখানে এক সংশয়ী সন্ন্যাসী আরোগ্য লাভ করে তাঁর কণ্ঠ ফিরে পেয়েছিলেন, এবং অনেকে গর্ভগৃহের সম্মুখে অপ্পরের প্রথম স্তোত্র আবৃত্তি করেন। মন্দিরটি স্বাভাবিকভাবেই পশ্চিমে অন্ধকাসুর বীরট্টানম তিরুক্কোবিলুরের সঙ্গে, এবং নাড়ু নাড়ু দেশের বহু তেবারম মন্দিরের সঙ্গে জোড় বাঁধে।"
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Thiruvathigai adjoins Panruti in Cuddalore district, about 2 km from the town centre on the north bank of the Kedilam. Panruti has a railway station and good road links to Cuddalore, Villupuram and Puducherry; the nearest airports are at Puducherry and Chennai."
+    "timings": "প্রতিদিন মধ্যাহ্নে বন্ধ রেখে সকাল ও সন্ধ্যার পর্বে খোলা থাকে; উৎসবের দিন সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে বাইরে পাদুকা রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে ফটোগ্রাফি অনুমোদিত নয়; বাইরের করিডোরে ছবি তোলার আগে, বিশেষত আচার ও উৎসবের কাঁসার মূর্তির, মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবদিগৈ কুড্ডালোর জেলায় পানরুতির সংলগ্ন, কেড়িলমের উত্তর তীরে শহরকেন্দ্র থেকে প্রায় ২ কিমি দূরে। পানরুতিতে একটি রেলস্টেশন এবং কুড্ডালোর, বিল্লুপুরম ও পুদুচেরির সঙ্গে ভালো সড়ক সংযোগ রয়েছে; নিকটতম বিমানবন্দর পুদুচেরি ও চেন্নাইয়ে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/veerattaneswarar-thiruvathigai.jpg",

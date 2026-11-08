@@ -1,29 +1,36 @@
 {
   "id": "satchinathar-avalivanallur",
   "locale": "bn",
+  "name": "সাট্চিনাথর মন্দির, অবলিবণল্লুর",
   "nativeName": "அவளிவணல்லூர் சாட்சிநாதர் கோயில்",
+  "deity": "শিব সাট্চিনাথর রূপে (সাক্ষী প্রভু), দেবী সৌন্দরনায়কী সহ",
+  "tradition": "শৈব — একটি পাডল পেত্র স্থলম ও একটি পঞ্চ অরণ্য স্থলম",
   "location": {
-    "city": "Avalivanallur, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "অবলিবণল্লুর, কুম্বকোণমের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9289,
     "lng": 79.4511
   },
+  "period": "তেবারম যুগ, চোল-যুগের কাঠামো সহ",
   "century": 9,
+  "dynasty": "চোল (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণমের নিকটে অবলিবণল্লুর শিবকে সাট্চিনাথর রূপে সম্মান করে — সেই প্রভু যিনি নিজেই সাক্ষী দাঁড়িয়েছিলেন। ঐতিহ্য বলে, কাশী থেকে ফেরা এক ভক্ত পুরোহিত তাঁর রোগজীর্ণ স্ত্রীকে তাঁর সুস্থ বোনের পাশে চিনতে পারেননি, এবং প্রভু সত্য সাক্ষ্য দিতে আবির্ভূত হন, সাট্চিনাথর নাম গ্রহণ করে, 'সাট্চি' অর্থ সাক্ষী। সম্বন্দর ও সুন্দরর কর্তৃক কীর্তিত একটি পাডল পেত্র স্থলম, এটি কুম্বকোণমের নিকটে পাঁচ বনমন্দিরের পঞ্চ অরণ্য স্থলমের একটিও, একদা পারিজাত বৃক্ষের বনে অবস্থিত।",
   "sections": {
-    "history": "Avalivanallur is an ancient Shaiva village near Kumbakonam, hymned in the seventh-century Tevaram by Sambandar and Sundarar and counted among the Paadal Petra Sthalams. It belongs also to the Pancha Aranya Sthalams — the five 'forest' temples near Kumbakonam, this one once set in the Pathiri Vanam, a forest of trumpet-flower trees. The stone temple is of the Chola period with later additions; its enduring renown is for the tender legend that gives the lord his name.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Satchinathar, with the goddess Soundaranayaki in her own shrine. As one of the Pancha Aranya temples, it shares in a circuit of five forest shrines that pilgrims visit together. The trumpet-flower tree of its old forest setting is remembered as the sthala vriksham, linking the quiet village temple to its wooded past.",
-    "legends": "The defining legend explains the name Satchinathar, the witness lord. A devout priest married and then set out on pilgrimage to Kashi. In his absence his wife fell ill, and her sister came to nurse her; when the priest returned he found two women — one wasted by sickness, the other healthy and resembling his wife — and could not tell which was his own. The lord himself then appeared as witness to affirm the wife's word, and from this act of divine testimony takes the name Satchinathar. The story has made the temple a place associated with truth, trust and the vindication of the faithful.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. Pilgrims undertaking the Pancha Aranya circuit of the five forest temples include Avalivanallur among their stops, so the temple shares in that group pilgrimage as well as its own local observances.",
-    "experience": "Avalivanallur offers the pilgrim a tender, human story at the heart of its worship — a god who stood as witness for a wronged and unrecognised wife. The darshan of Satchinathar carries this sense of a lord who vindicates the truthful, and completing the Pancha Aranya circuit gives the visit the added depth of a wider forest pilgrimage."
+    "history": "অবলিবণল্লুর কুম্বকোণমের নিকটে একটি প্রাচীন শৈব গ্রাম, সপ্তম শতকের তেবারমে সম্বন্দর ও সুন্দরর কর্তৃক কীর্তিত এবং পাডল পেত্র স্থলমের মধ্যে গণ্য। এটি পঞ্চ অরণ্য স্থলমেরও অন্তর্ভুক্ত — কুম্বকোণমের নিকটে পাঁচ 'বন' মন্দির, এটি একদা পাঠিরি বনমে, পারিজাত বৃক্ষের বনে অবস্থিত ছিল। পাথরের মন্দিরটি চোল যুগের পরবর্তী সংযোজন সহ; এর স্থায়ী খ্যাতি সেই কোমল কিংবদন্তির জন্য যা প্রভুকে তাঁর নাম দেয়।",
+    "architecture": "মন্দিরটি গোপুরম, প্রাকার ও সাট্চিনাথরের গর্ভগৃহ সহ দ্রাবিড় পরিকল্পনা অনুসরণ করে, দেবী সৌন্দরনায়কী তাঁর নিজস্ব মন্দিরে। পঞ্চ অরণ্য মন্দিরগুলির একটি হিসেবে এটি পাঁচ বনমন্দিরের এক পরিক্রমায় অংশ নেয় যা তীর্থযাত্রীরা একসঙ্গে পরিদর্শন করেন। এর প্রাচীন বন-পরিবেশের পারিজাত বৃক্ষ স্থলবৃক্ষ হিসেবে স্মরিত, শান্ত গ্রাম্য মন্দিরটিকে তার বনময় অতীতের সঙ্গে যুক্ত করে।",
+    "legends": "নির্ধারক কিংবদন্তি সাট্চিনাথর, সাক্ষী প্রভু, নামটি ব্যাখ্যা করে। এক ভক্ত পুরোহিত বিবাহ করে কাশী তীর্থযাত্রায় যান। তাঁর অনুপস্থিতিতে তাঁর স্ত্রী অসুস্থ হয়ে পড়েন, এবং তাঁর বোন তাঁর সেবায় আসেন; পুরোহিত ফিরে এসে দুই নারী দেখলেন — একজন রোগে জীর্ণ, অন্যজন সুস্থ ও তাঁর স্ত্রীর অনুরূপ — এবং বলতে পারলেন না কে তাঁর নিজের। তখন প্রভু স্বয়ং সাক্ষীরূপে আবির্ভূত হয়ে স্ত্রীর কথা সত্য বলে নিশ্চিত করেন, এবং এই দিব্য সাক্ষ্যের কাজ থেকে সাট্চিনাথর নাম নেয়। কাহিনীটি মন্দিরকে সত্য, বিশ্বাস ও বিশ্বস্তদের ন্যায়বিচারের সঙ্গে সংযুক্ত এক স্থান করে তুলেছে।",
+    "festivals": "মন্দিরটি শৈব উৎসব পঞ্জিকা পালন করে — মহাশিবরাত্রি, প্রদোষম, মার্গলি ঋতু ও বার্ষিক ব্রহ্মোৎসব। পাঁচ বনমন্দিরের পঞ্চ অরণ্য পরিক্রমায় তীর্থযাত্রীরা তাঁদের গন্তব্যের মধ্যে অবলিবণল্লুরকে অন্তর্ভুক্ত করেন, তাই মন্দিরটি তার নিজস্ব স্থানীয় অনুষ্ঠানের পাশাপাশি সেই দলগত তীর্থযাত্রায়ও অংশ নেয়।",
+    "experience": "অবলিবণল্লুর তীর্থযাত্রীকে তার উপাসনার হৃদয়ে এক কোমল, মানবিক কাহিনী উপহার দেয় — এক দেবতা যিনি এক অন্যায়প্রাপ্ত ও অচেনা স্ত্রীর জন্য সাক্ষী দাঁড়িয়েছিলেন। সাট্চিনাথরের দর্শন এক প্রভুর এই অনুভূতি বহন করে যিনি সত্যবাদীদের ন্যায়বিচার করেন, এবং পঞ্চ অরণ্য পরিক্রমা সম্পূর্ণ করা পরিদর্শনে এক বৃহত্তর বন-তীর্থযাত্রার অতিরিক্ত গভীরতা যোগ করে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Avalivanallur is in Tiruvarur district near Kumbakonam, roughly 15 km away; Kumbakonam is the nearest rail head and town, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা অবস্থায়; প্রবেশদ্বারে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের করিডরে সাধারণত আলোকচিত্র গ্রহণের অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচারের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "অবলিবণল্লুর তিরুবারুর জেলায় কুম্বকোণমের নিকটে, প্রায় ১৫ কিমি দূরে; কুম্বকোণম নিকটতম রেলপথ ও নগর, গ্রামে স্থানীয় বাস ও ট্যাক্সি সহ।"
   }
 }

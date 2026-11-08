@@ -1,30 +1,37 @@
 {
   "id": "banashankari-badami",
   "locale": "bn",
+  "name": "বনশঙ্করী মন্দির, চোলাচগুড্ডা",
   "nativeName": "ಬನಶಂಕರಿ ದೇವಾಲಯ, ಚೋಳಚಗುಡ್ಡ",
+  "deity": "বনশঙ্করী, শাকম্ভরী রূপেও পূজিত, পার্বতীর একটি রূপ",
+  "tradition": "শাক্তধর্ম",
   "location": {
-    "city": "Cholachagudda",
-    "state": "Karnataka",
+    "city": "চোলাচগুড্ডা",
+    "state": "কর্ণাটক",
     "lat": 15.8872,
     "lng": 75.705
   },
+  "period": "পরম্পরা অনুসারে চালুক্য-যুগের উৎপত্তি; বর্তমান মন্দির ১৮শ শতাব্দীর",
   "century": 7,
+  "dynasty": "বাদামি চালুক্য উৎপত্তি (পরম্পরা অনুসারে); বর্তমান দালান মারাঠা যুগের",
+  "style": "দ্রাবিড়, পাথরের প্রাচীরযুক্ত মন্দির-পুষ্করিণী ও স্তম্ভশোভিত প্রদক্ষিণ-পথ-সহ",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "বাদামির কাছে পুরনো তিলকারণ্য অরণ্যে বনশঙ্করী মন্দির দেবীকে সিংহবাহিনী শাকম্ভরী রূপে সম্মান করে—চালুক্য দেশের একটি জীবন্ত শাক্ত মন্দির, একটি বিশাল পাথরের পুষ্করিণী ও একটি প্রসিদ্ধ বার্ষিক মেলা-সহ।",
   "sections": {
-    "history": "Banashankari is a living temple at Cholachagudda, about 5 km from Badami, in the old Tilakaranya forest; her name joins vana, forest, with Shankari, the consort of Shiva. Popular belief credits the Badami Chalukyas of the seventh century with the original shrine, and some historians think the site older still, with one suggesting an earlier temple of Rashtrakuta times. The building seen today dates from the eighteenth century, raised, according to the historian Sheelkant Pattar, in 1750 by the Maratha chieftain Parashuram Agale. The goddess is revered as a family deity by many households across Karnataka, and the temple has drawn pilgrims for centuries.",
-    "architecture": "In the sanctum stands a black stone image of the goddess, eight-armed and fierce, seated on a lion and trampling a demon underfoot. Beside the temple lies its great tank, known as Haridra Tirtha or Harishchandra Tirtha, a stone-walled square of some 360 feet a side, with pillared mantapas on three sides. A pillared cloister is built around the water, so that the tank and the temple form a single walled world. The mix of temple, cloister and tank is typical of the Chalukya country’s sacred landscape, where shrine and water are never far apart.",
-    "legends": "The Skanda Purana and the Padma Purana tell of the demon Durgamasura, who tormented the region until the gods begged for help. The goddess came to earth as Shakambari and, after a fierce battle, slew him. Her name carries a second story: when famine gripped the world, she is said to have nourished the starving with green vegetables and fruit from her own being, which is why Shakambari means the one who bears greens. The forest setting in which she is worshipped, Tilakaranya, gives her the name Banashankari, the goddess of the forest.",
-    "festivals": "The Banashankari Jatre is the great festival, beginning on the full moon of the Kannada month of Pushya, in January or February, and lasting ten to twelve days, with the temple car procession, the rathotsava, as its centrepiece. During Navaratri the goddess is adorned in different ornaments and sarees for nine days. Crowds are largest at these times; confirm dates locally.",
-    "experience": "Arrive in the morning, when the courtyard is busy with families bringing offerings of coconuts and flowers. After darshan, walk the cloister around the tank and watch its stone steps catch the light. On festival days the lanes of Cholachagudda fill with devotees and traders, while on ordinary days the temple is calm. It makes a fitting living counterpart to the ancient stone monuments of Badami, Mahakuta and Pattadakal."
+    "history": "বনশঙ্করী চোলাচগুড্ডায় একটি জীবন্ত মন্দির, বাদামি থেকে প্রায় ৫ কিমি দূরে, পুরনো তিলকারণ্য অরণ্যে; তাঁর নাম বন, অর্থাৎ অরণ্য, এবং শঙ্করী, শিবের পত্নী, একত্র করে। জনবিশ্বাস সপ্তম শতাব্দীর বাদামি চালুক্যদের মূল মন্দিরের কৃতিত্ব দেয়, আর কিছু ইতিহাসবিদ স্থানটিকে আরও প্রাচীন মনে করেন, একজন রাষ্ট্রকূট যুগের একটি পূর্ববর্তী মন্দিরের ইঙ্গিত দেন। আজ যা দেখা যায় সেই দালানটি অষ্টাদশ শতাব্দীর, ইতিহাসবিদ শীলকান্ত পট্টরের মতে ১৭৫০ সালে মারাঠা সর্দার পরশুরাম আগালে দ্বারা উত্থিত। দেবী কর্ণাটক জুড়ে বহু পরিবার কর্তৃক কুলদেবী রূপে শ্রদ্ধিত, আর মন্দির শতাব্দী ধরে তীর্থযাত্রী টেনে এসেছে।",
+    "architecture": "গর্ভগৃহে দাঁড়িয়ে আছে দেবীর একটি কালো পাথরের মূর্তি, অষ্টভুজা ও উগ্রা, একটি সিংহের উপর উপবিষ্ট এবং পায়ের নিচে একটি অসুরকে মর্দন করছেন। মন্দিরের পাশে অবস্থিত এর বিশাল পুষ্করিণী, যা হরিদ্রা তীর্থ বা হরিশ্চন্দ্র তীর্থ নামে পরিচিত, প্রতিটি দিকে প্রায় ৩৬০ ফুট একটি পাথরের প্রাচীরযুক্ত চতুষ্কোণ, তিন দিকে স্তম্ভশোভিত মণ্ডপ-সহ। জলের চারপাশে একটি স্তম্ভশোভিত প্রদক্ষিণ-পথ নির্মিত, যাতে পুষ্করিণী ও মন্দির একটি একক প্রাচীরবেষ্টিত জগৎ গঠন করে। মন্দির, প্রদক্ষিণ-পথ ও পুষ্করিণীর এই সংমিশ্রণ চালুক্য দেশের পবিত্র ভূদৃশ্যের বৈশিষ্ট্য, যেখানে মন্দির ও জল কখনও দূরে নয়।",
+    "legends": "স্কন্দপুরাণ ও পদ্মপুরাণ দুর্গমাসুর নামক এক অসুরের কথা বলে, যে দেবতারা সাহায্য প্রার্থনা না করা পর্যন্ত অঞ্চলটিকে যন্ত্রণা দিত। দেবী শাকম্ভরী রূপে পৃথিবীতে এসে এক তীব্র যুদ্ধের পর তাঁকে বধ করেন। তাঁর নাম একটি দ্বিতীয় কাহিনি বহন করে: যখন দুর্ভিক্ষ বিশ্বকে গ্রাস করে, তিনি কথিত আছেন নিজ সত্তা থেকে সবুজ শাকসবজি ও ফল দিয়ে অনাহারীদের পুষ্ট করেছিলেন, তাই শাকম্ভরী অর্থ যিনি শাক বহন করেন। যে অরণ্য-পরিবেশে তিনি পূজিত, তিলকারণ্য, তাঁকে বনশঙ্করী নাম দেয়, অরণ্যের দেবী।",
+    "festivals": "বনশঙ্করী জাত্রে হলো মহান উৎসব, কন্নড় পৌষ মাসের পূর্ণিমায় শুরু হয়, জানুয়ারি বা ফেব্রুয়ারিতে, এবং দশ থেকে বারো দিন স্থায়ী হয়, মন্দিরের রথ শোভাযাত্রা, রথোৎসব, এর কেন্দ্রবিন্দু হিসেবে। নবরাত্রির সময় দেবীকে নয় দিন ভিন্ন ভিন্ন অলঙ্কার ও শাড়িতে সাজানো হয়। এই সময়গুলিতে জনসমাগম সর্বাধিক; তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "সকালে আসুন, যখন প্রাঙ্গণ নারকেল ও ফুলের নৈবেদ্য নিয়ে আসা পরিবারে ব্যস্ত থাকে। দর্শনের পর পুষ্করিণীর চারপাশের প্রদক্ষিণ-পথ হাঁটুন এবং এর পাথরের ধাপে আলোর খেলা দেখুন। উৎসবের দিনে চোলাচগুড্ডার গলিগুলি ভক্ত ও ব্যবসায়ীতে ভরে ওঠে, আর সাধারণ দিনে মন্দির শান্ত থাকে। এটি বাদামি, মহাকূট ও পট্টডকলের প্রাচীন পাথরের স্মারকগুলির একটি সুপ্রযুক্ত জীবন্ত প্রতিরূপ গঠন করে।"
   },
   "visit": {
-    "timings": "A living temple with daily worship, with hours that are longer around the Jatre and Navaratri. Confirm timings locally.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is left outside the temple.",
-    "photography": "Photography is usually restricted inside the sanctum; ask at the temple before taking photographs of the deity or of worshippers.",
-    "gettingThere": "Cholachagudda is in Bagalkot district, about 5 km from Badami by road; autos and taxis from Badami cover the short drive. Badami has the nearest railway station, and the nearest airport is Hubballi."
+    "timings": "নিত্যপূজা-সহ একটি জীবন্ত মন্দির, জাত্রে ও নবরাত্রির সময় দীর্ঘতর সময়সহ। সময় স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; জুতো মন্দিরের বাইরে রেখে যেতে হয়।",
+    "photography": "গর্ভগৃহের ভেতরে আলোকচিত্র তোলা সাধারণত সীমিত; দেবতা বা উপাসকদের ছবি তোলার আগে মন্দিরে জিজ্ঞাসা করুন।",
+    "gettingThere": "চোলাচগুড্ডা বাগালকোট জেলায়, বাদামি থেকে সড়কপথে প্রায় ৫ কিমি দূরে; বাদামি থেকে অটো ও ট্যাক্সি এই সংক্ষিপ্ত পথ পাড়ি দেয়। বাদামিতে নিকটতম রেলস্টেশন, আর নিকটতম বিমানবন্দর হুব্বল্লি।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/banashankari-badami.jpg",

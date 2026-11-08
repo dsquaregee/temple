@@ -1,29 +1,36 @@
 {
   "id": "neelakandeswarar-tiruneelakudi",
   "locale": "bn",
+  "name": "নীলকণ্ঠেশ্বরর মন্দির, তিরুনীলক্কুডি",
   "nativeName": "திருநீலக்குடி நீலகண்டேஸ்வரர் கோயில்",
+  "deity": "শিব নীলকণ্ঠেশ্বরর (চোঝীশ্বরমুদৈয়ার) রূপে, দেবী ওপ্পিলামুলৈয়াল (অনুপমস্থানী) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruneelakudi, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "তিরুনীলক্কুডি, কুম্বকোণমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.98,
     "lng": 79.48
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তবগীত); আদি চোল যুগের কাঠামোগত মন্দির, পরবর্তী সংযোজন সহ",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণমের কাছে নাত্তারু নদীর উত্তর তীরে অবস্থিত তিরুনীলক্কুডি শিবকে নীলকণ্ঠেশ্বরর রূপে দেবী ওপ্পিলামুলৈয়ালের সঙ্গে পূজা করে। অপ্পর ও সম্বন্দরের স্তবে গীত এই পাডল পেট্র স্থলমটি রাহু গ্রহের পরিহার ক্ষেত্র রূপে পূজিত, যেখানে ভক্তেরা রাহুর অশুভ প্রভাব থেকে মুক্তির প্রার্থনা করেন।",
   "sections": {
-    "history": "Tiruneelakudi lies on the northern bank of the Nattaru river, about 13–15 km from Kumbakonam on the Kumbakonam–Karaikal road, in Thanjavur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Appar (Tirunavukkarasar) and Sambandar. The structural temple is of the early Chola period, with later additions by the Pandyas and Vijayanagara rulers.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Neelakandeswarar — locally also Chozheeswaramudaiyar — in the sanctum, with the goddess Oppilamulaiyal (Anupamasthani) in her own shrine, a Nandi and the parivara devatas. The Navagraha shrine stands in the north-eastern corner, and devotees perform remedial worship to the lord for relief from the planet Rahu.",
-    "legends": "Shiva is praised here as Neelakandeswarar, the blue-throated lord who drank the halahala poison of the churned ocean; the goddess is Oppilamulaiyal, 'she beyond compare.' The shrine is counted among the places of parihara for Rahu, one of the shadow planets, and the lord is besought here to turn aside the planet's adverse aspect. The fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, and special worship on the days reckoned auspicious for Rahu parihara. Pilgrims of the Kumbakonam country include Tiruneelakudi among their stops.",
-    "experience": "At Tiruneelakudi the pilgrim comes to the blue-throated lord's shrine by the Nattaru. Before Neelakandeswarar and Oppilamulaiyal, the visitor finds the quiet grace of a Tevaram temple of the Kumbakonam delta, and the hope of the Rahu parihara for which the shrine is sought."
+    "history": "তিরুনীলক্কুডি নাত্তারু নদীর উত্তর তীরে, কুম্বকোণম–কারৈকাল সড়কে কুম্বকোণম থেকে প্রায় ১৩–১৫ কিমি দূরে, তাঞ্জাভূর জেলায় অবস্থিত। এটি একটি পাডল পেট্র স্থলম, যা তেবারমে অপ্পর (তিরুনাবুক্করসর) ও সম্বন্দর স্তবে গেয়েছেন। কাঠামোগত মন্দিরটি আদি চোল যুগের, পরবর্তীকালে পাণ্ড্য ও বিজয়নগর শাসকদের সংযোজন সহ।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপীয় মন্দির, এর গর্ভগৃহে নীলকণ্ঠেশ্বরর — স্থানীয়ভাবে চোঝীশ্বরমুদৈয়ার — প্রতিষ্ঠিত, দেবী ওপ্পিলামুলৈয়াল (অনুপমস্থানী) তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণ সহ। নবগ্রহ মন্দিরটি উত্তর-পূর্ব কোণে অবস্থিত, এবং ভক্তেরা রাহু গ্রহ থেকে মুক্তির জন্য প্রভুর উদ্দেশে প্রতিকারমূলক পূজা করেন।",
+    "legends": "এখানে শিব নীলকণ্ঠেশ্বরর রূপে স্তুত, সেই নীলকণ্ঠ প্রভু যিনি মন্থিত সমুদ্রের হলাহল বিষ পান করেছিলেন; দেবী ওপ্পিলামুলৈয়াল, 'অতুলনীয়া'। এই মন্দিরটি ছায়া গ্রহসমূহের অন্যতম রাহুর পরিহার স্থানগুলির মধ্যে গণ্য, এবং এখানে প্রভুর কাছে গ্রহের অশুভ প্রভাব প্রশমনের প্রার্থনা করা হয়। পূর্ণতর স্থল পুরাণ স্থানীয় ঐতিহ্যে ও তেবারম পদগুলিতে টিকে আছে।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজা সহ পালিত হয়, এবং রাহু পরিহারের জন্য শুভ বলে গণ্য দিনগুলিতে বিশেষ পূজা হয়। কুম্বকোণম অঞ্চলের তীর্থযাত্রীরা তাঁদের যাত্রাপথে তিরুনীলক্কুডিকে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুনীলক্কুডিতে তীর্থযাত্রী নাত্তারু নদীর ধারে নীলকণ্ঠ প্রভুর মন্দিরে আসেন। নীলকণ্ঠেশ্বরর ও ওপ্পিলামুলৈয়ালের সামনে দর্শনার্থী কুম্বকোণম বদ্বীপের একটি তেবারম মন্দিরের শান্ত কৃপা এবং যে রাহু পরিহারের জন্য মন্দিরটি খোঁজা হয় তার আশা খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruneelakudi lies about 13–15 km from Kumbakonam on the Kumbakonam–Karaikal road, on the northern bank of the Nattaru, in Thanjavur district. Kumbakonam is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং পুনরায় বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "সাধারণত বাইরের প্রাঙ্গণে ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুনীলক্কুডি কুম্বকোণম–কারৈকাল সড়কে কুম্বকোণম থেকে প্রায় ১৩–১৫ কিমি দূরে, নাত্তারু নদীর উত্তর তীরে, তাঞ্জাভূর জেলায় অবস্থিত। কুম্বকোণম নিকটতম শহর ও রেলস্টেশন, সেখান থেকে গ্রামে বাস ও ট্যাক্সি পাওয়া যায়।"
   }
 }

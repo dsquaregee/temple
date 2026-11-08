@@ -1,29 +1,40 @@
 {
   "id": "vennailingeswarar-sikkal",
   "locale": "bn",
+  "name": "নবনীতেশ্বরর মন্দির, সিক্কল",
   "nativeName": "சிக்கல் நவநீதேஸ்வரர் (வெண்ணெய்லிங்கேஸ்வரர்) கோயில்",
+  "deity": "নবনীতেশ্বরর (বেণ্ণৈলিঙ্গেশ্বরর, মাখনের লিঙ্গ) রূপে শিব, দেবী বেলনেডুঙ্গকন্নীর সঙ্গে",
+  "tradition": "শৈবধর্ম — একটি পাডল পেট্র স্থলম, তেবারমে স্তুত; ভেতরে সিঙ্গারবেলন মুরুগনের মন্দির",
   "location": {
-    "city": "Sikkal, near Nagapattinam",
-    "state": "Tamil Nadu",
+    "city": "সিক্কল, নাগাপট্টিনমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.7958,
     "lng": 79.8089
   },
+  "period": "তেবারম যুগ, চোল-যুগের গঠন সহ",
   "century": 7,
+  "dynasty": "চোল (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "নাগাপট্টিনমের কাছে সিক্কল শিবকে নবনীতেশ্বরর—মাখনের লিঙ্গের প্রভু—রূপে পূজা করে, এটি তেবারমে স্তুত একটি পাডল পেট্র স্থলম, দেবী বেলনেডুঙ্গকন্নীর সঙ্গে। একই মন্দিরের ভেতরে দাঁড়িয়ে আছে সিঙ্গারবেলন, অর্থাৎ মুরুগনের প্রসিদ্ধ মন্দির, যেখানে ঐতিহ্য অনুসারে অসুর সুরপদ্মনকে বধ করতে যাত্রা করার আগে দেবী তাঁর পুত্রকে তাঁর বল্লম, অর্থাৎ বেল তুলে দিয়েছিলেন। মাখন-কোমল লিঙ্গ ও যোদ্ধা-দেবতার বেল—এই যুগল উপস্থিতি সিক্কলকে তার নিজস্ব এক ভক্তিভাব দেয়।",
   "sections": {
-    "history": "Sikkal is an old Shaiva temple near Nagapattinam, hymned in the seventh-century Tevaram and counted among the Paadal Petra Sthalams of the southern Kaveri country. The stone temple carries Chola-period building with later additions. Over time the shrine of Murugan as Singaravelan grew to share the temple's fame equally with the Shiva sanctum, so that Sikkal is today a destination for devotees of both the lord of the butter lingam and the warrior-god of the vel.",
-    "architecture": "The complex follows the Dravidian plan, with the sanctum of Navaneetheswarar and the separate, celebrated shrine of Singaravelan Murugan within the same premises; the goddess Velnedungkanni has her own shrine. The lingam is revered as being soft as butter, giving the lord his name of Navaneetheswarar, the butter-lord. The Murugan shrine, with its bronze processional images, is the focus of the temple's most famous festival days.",
-    "legends": "The sthala-purana tells that the lingam here was fashioned from butter drawn from the milk of Kamadhenu by the sage Vasishta, so that the lord is the Navaneetheswarar, lord of butter. The temple's most celebrated tradition belongs to Murugan: it was here, the accounts say, that the goddess handed her son the vel, the divine lance, as he took up the command of the gods' army and set out to destroy the demon Surapadman, whom he vanquished at Tiruchendur the next day. The very name Sikkal is explained as 'the tangled place,' from obstacles overcome in the temple's making.",
-    "festivals": "The great festival of Sikkal is tied to Skanda Shashti in the Tamil month of Aippasi. On the day before Surasamharam, the image of Singaravelan receives the vel from the goddess — a moment awaited by vast crowds, when the bronze image is said to perspire with the intensity of the occasion. The Shaiva observances of Maha Shivaratri and Pradosham are also kept at the Navaneetheswarar sanctum.",
-    "experience": "Sikkal offers the pilgrim two devotions in one temple — the gentle grace of the butter lingam and the martial splendour of Singaravelan. On the vel-giving day the atmosphere is electric, the crowds immense; on ordinary days the temple is a calm place where the two currents of Shaiva worship, the contemplative and the heroic, meet."
+    "history": "সিক্কল নাগাপট্টিনমের কাছে একটি প্রাচীন শৈব মন্দির, সপ্তম শতকের তেবারমে স্তুত এবং দক্ষিণ কাবেরী দেশের পাডল পেট্র স্থলমগুলির অন্যতম বলে গণ্য। পাথরের এই মন্দিরে চোল-যুগের নির্মাণ ও পরবর্তী সংযোজন রয়েছে। সময়ের সঙ্গে সিঙ্গারবেলন রূপে মুরুগনের মন্দিরের খ্যাতি বেড়ে শিব গর্ভগৃহের সমান হয়ে ওঠে, তাই আজ সিক্কল মাখনের লিঙ্গের প্রভু ও বেলের যোদ্ধা-দেবতা—উভয়ের ভক্তদেরই তীর্থস্থান।",
+    "architecture": "পরিসরটি দ্রাবিড় পরিকল্পনা অনুসরণ করে, একই চত্বরে নবনীতেশ্বররের গর্ভগৃহ এবং সিঙ্গারবেলন মুরুগনের পৃথক ও খ্যাত মন্দির রয়েছে; দেবী বেলনেডুঙ্গকন্নীর নিজস্ব মন্দির আছে। লিঙ্গটি মাখনের মতো কোমল বলে পূজিত, যা থেকে প্রভু নবনীতেশ্বরর, অর্থাৎ মাখন-প্রভু নাম পেয়েছেন। ব্রোঞ্জের শোভাযাত্রা-মূর্তি সহ মুরুগন মন্দিরই মন্দিরের সবচেয়ে প্রসিদ্ধ উৎসব-দিনগুলির কেন্দ্রবিন্দু।",
+    "legends": "স্থল-পুরাণ বলে যে এখানকার লিঙ্গটি ঋষি বশিষ্ঠ কামধেনুর দুধ থেকে তোলা মাখন দিয়ে গড়েছিলেন, তাই প্রভু নবনীতেশ্বরর, মাখনের প্রভু। মন্দিরের সবচেয়ে খ্যাত ঐতিহ্যটি মুরুগনের: কাহিনি অনুসারে এখানেই দেবী তাঁর পুত্রকে বেল, অর্থাৎ দিব্য বল্লম তুলে দিয়েছিলেন, যখন তিনি দেবসেনার নেতৃত্ব গ্রহণ করে অসুর সুরপদ্মনকে বধ করতে যাত্রা করেন, যাকে তিনি পরদিন তিরুচেন্দুরে পরাস্ত করেন। সিক্কল নামটিরও ব্যাখ্যা দেওয়া হয় 'জট পাকানো স্থান' বলে, মন্দির নির্মাণের সময় পেরোনো বাধা থেকে।",
+    "festivals": "সিক্কলের মহা উৎসবটি তামিল আইপ্পাসি মাসের স্কন্দ ষষ্ঠীর সঙ্গে যুক্ত। সুরসংহারমের আগের দিন সিঙ্গারবেলনের মূর্তি দেবীর কাছ থেকে বেল গ্রহণ করে—এক মুহূর্ত যার জন্য বিশাল জনসমাগম অপেক্ষা করে, যখন বলা হয় ব্রোঞ্জের মূর্তি সেই অনুষ্ঠানের তীব্রতায় ঘেমে ওঠে। নবনীতেশ্বরর গর্ভগৃহে মহাশিবরাত্রি ও প্রদোষমের শৈব আচারও পালিত হয়।",
+    "experience": "সিক্কল তীর্থযাত্রীকে একই মন্দিরে দুটি ভক্তি দেয়—মাখনের লিঙ্গের কোমল কৃপা এবং সিঙ্গারবেলনের রণবৈভব। বেল-প্রদানের দিনে আবহ বিদ্যুৎময়, জনসমাগম বিপুল; সাধারণ দিনে মন্দিরটি এক শান্ত স্থান, যেখানে শৈব পূজার দুই ধারা—ধ্যানমগ্ন ও বীরত্বপূর্ণ—মিলিত হয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sikkal is about 7 km from Nagapattinam and near Tiruvarur; the nearest rail heads are Nagapattinam and Tiruvarur, with frequent buses and taxis to the temple."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত ও আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "সিক্কল নাগাপট্টিনম থেকে প্রায় ৭ কিমি দূরে এবং তিরুবারুরের কাছে; নিকটতম রেলস্টেশন নাগাপট্টিনম ও তিরুবারুর, মন্দির পর্যন্ত ঘন ঘন বাস ও ট্যাক্সি পাওয়া যায়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vennailingeswarar-sikkal.mp3",
+    "durationSec": 209
   }
 }

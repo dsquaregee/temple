@@ -1,32 +1,39 @@
 {
   "id": "ranganathaswamy-srirangam",
   "locale": "bn",
+  "name": "রঙ্গনাথস্বামী মন্দির, শ্রীরঙ্গম",
   "nativeName": "அரங்கநாதர் கோயில், ஸ்ரீரங்கம்",
+  "deity": "বিষ্ণু রঙ্গনাথ রূপে, আদিশেষ সর্পের ওপর শায়িত, দেবী রঙ্গনায়কী (লক্ষ্মী) সহ",
+  "tradition": "বৈষ্ণবধর্ম (শ্রীবৈষ্ণব)",
   "location": {
-    "city": "Srirangam, Tiruchirappalli",
-    "state": "Tamil Nadu",
+    "city": "শ্রীরঙ্গম, তিরুচিরাপল্লি",
+    "state": "তামিলনাড়ু",
     "lat": 10.8624,
     "lng": 78.689
   },
+  "period": "চোল থেকে নায়ক যুগ জুড়ে সম্প্রসারিত; মূল গর্ভগৃহ প্রাচীন",
   "century": 10,
+  "dynasty": "চোল, পাণ্ড্য, হোয়সল, বিজয়নগর, নায়ক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "kaveri-delta-temple-towns",
     "pancharanga-kshetrams"
   ],
+  "summary": "বিশ্বের বৃহত্তম সচল হিন্দু মন্দির, কাবেরীর এক দ্বীপে সাতটি কেন্দ্রাভিমুখ প্রাঙ্গণে মোড়া—১০৮ দিব্য দেশমের অগ্রগণ্য, যেখানে বিষ্ণু শহরের একেবারে অন্তরে রঙ্গনাথ রূপে শায়িত।",
   "sections": {
-    "history": "Srirangam is revered as the first and foremost of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar poet-saints, and is called Bhuloka Vaikuntham — 'Vaikuntha on earth'. Its origins are lost in antiquity, but the temple as we see it grew over a thousand years of royal patronage: the Cholas, Pandyas, Hoysalas, the Vijayanagara emperors and the Madurai Nayaks each added enclosures, halls and towers. The philosopher Ramanuja, the great systematiser of Sri Vaishnavism, lived and taught here in the eleventh and twelfth centuries, and the temple remains the spiritual centre of the tradition. Its history also carries scars — the shrine was sacked during the Delhi Sultanate incursions of the early fourteenth century, when devotees are said to have spirited the processional deity away for decades before its triumphant return. Through every upheaval, daily worship has continued, and Srirangam is today as much a living town as a temple.",
-    "architecture": "Srirangam is built as a mandala of seven concentric rectangular enclosures — prakarams — one within another, pierced by twenty-one gopurams, so that entering the temple is a slow passage from the bustle of the outer streets toward the stillness of the golden-vimana sanctum at the centre. The southern Rajagopuram, completed in 1987, rises around 72 metres and is among the tallest temple towers in the world, yet it crowns a plan whose bones are medieval. Within are some of the finest halls in South India, above all the 'thousand-pillared' mandapa and the Sheshagiri Rayar mandapa with its rearing warrior-horse piers of the Nayak period. The reclining Ranganatha lies within the innermost sanctum beneath a vimana plated in gold. The scale is civic rather than merely architectural: markets, homes and mathas fill the outer prakarams, so the temple is a walled sacred city.",
-    "legends": "The sthala purana tells that the reclining image of Ranganatha was worshipped by Rama himself and given to the Ikshvaku kings, then carried south, where it chose to remain on the island of Srirangam facing south toward Lanka. For Sri Vaishnavas the temple is inseparable from the Alvars, whose Tamil hymns, the Nalayira Divya Prabandham, are recited here, and from Ramanuja, whose preserved form is venerated within. The most beloved festival legend is that of Vaikuntha Ekadashi, when the Paramapada Vasal — the 'gateway to the supreme abode' — is opened once a year and the faithful pass through in the belief that to do so is to glimpse liberation.",
-    "festivals": "Srirangam's calendar is vast, but its summit is the twenty-one-day Vaikuntha Ekadashi festival in the Tamil month of Margazhi (December–January), when Ranganatha in his jewelled armour processes through the thousand-pillared hall and the Paramapada Vasal is thrown open to enormous crowds. The Brahmotsavam, the float festival on the temple tank, and the Adi Brahmotsavam are all celebrated with processions of the utsava deities. The recitation of the Divya Prabandham during the Adhyayana Utsavam is central to the temple's devotional life.",
-    "experience": "Srirangam is entered, not merely visited. Walk inward through the prakarams and feel the noise of the bazaar give way to sanctity gate by gate; non-Hindus may go as far as the golden vimana's outer viewing point though not into the innermost sanctum. Look for the Nayak horse-pillars, rest in the great halls, and time a visit if you can to an evening when the deity is brought out in procession. The temple sits on an island between the Kaveri and its tributary the Kollidam, a short drive from Tiruchirappalli, and pairs naturally with the nearby Jambukeswarar temple, one of the Pancha Bhoota Sthalams."
+    "history": "শ্রীরঙ্গম ১০৮ দিব্য দেশমের—আলবার কবি-সন্তদের গীত বিষ্ণুর আবাসগুলির—প্রথম ও অগ্রগণ্য রূপে পূজিত, এবং একে বলা হয় ভূলোক বৈকুণ্ঠম—'পৃথিবীতে বৈকুণ্ঠ'। এর উৎপত্তি প্রাচীনত্বে হারিয়ে গেছে, কিন্তু আমরা আজ যে মন্দির দেখি তা হাজার বছরের রাজকীয় পৃষ্ঠপোষকতায় বেড়েছে: চোল, পাণ্ড্য, হোয়সল, বিজয়নগর সম্রাট ও মাদুরাই নায়করা প্রত্যেকে প্রাঙ্গণ, মণ্ডপ ও চূড়া যোগ করেছেন। দার্শনিক রামানুজ, শ্রীবৈষ্ণবধর্মের মহান সংগঠক, একাদশ ও দ্বাদশ শতাব্দীতে এখানে বাস ও শিক্ষাদান করেছিলেন, এবং মন্দির আজও এই পরম্পরার আধ্যাত্মিক কেন্দ্র। এর ইতিহাসে ক্ষতচিহ্নও আছে—চতুর্দশ শতাব্দীর গোড়ায় দিল্লি সুলতানির আক্রমণে মন্দির লুণ্ঠিত হয়, যখন ভক্তরা শোভাযাত্রার দেবমূর্তিকে কয়েক দশকের জন্য সরিয়ে নিয়ে গিয়েছিলেন বলা হয়, এর বিজয়ী প্রত্যাবর্তনের আগে। প্রতিটি বিপর্যয়ের মধ্যেও নিত্য পূজা চলেছে, এবং শ্রীরঙ্গম আজ যতটা মন্দির ততটাই এক জীবন্ত শহর।",
+    "architecture": "শ্রীরঙ্গম সাতটি কেন্দ্রাভিমুখ আয়তাকার প্রাঙ্গণের—প্রাকারের—এক মণ্ডল রূপে নির্মিত, একটির ভিতরে আরেকটি, একুশটি গোপুরমে ভেদ করা, যাতে মন্দিরে প্রবেশ হয়ে ওঠে বাইরের রাস্তার কোলাহল থেকে কেন্দ্রের স্বর্ণ-বিমান গর্ভগৃহের স্তব্ধতার দিকে এক ধীর যাত্রা। দক্ষিণের রাজগোপুরম, ১৯৮৭ সালে সম্পন্ন, প্রায় ৭২ মিটার উঠে এবং বিশ্বের অন্যতম উঁচু মন্দির-চূড়া, তবু এটি এমন এক পরিকল্পনাকে মুকুটিত করে যার কাঠামো মধ্যযুগীয়। ভিতরে দক্ষিণ ভারতের কয়েকটি শ্রেষ্ঠ মণ্ডপ, সর্বোপরি 'সহস্র-স্তম্ভ' মণ্ডপ এবং নায়ক যুগের উদ্ধত যোদ্ধা-অশ্ব স্তম্ভসহ শেষগিরি রায়র মণ্ডপ। শায়িত রঙ্গনাথ স্বর্ণমণ্ডিত বিমানের নিচে অন্তর্গর্ভগৃহে শায়িত। স্কেলটি কেবল স্থাপত্যিক নয়, নাগরিক: বাজার, বাসস্থান ও মঠ বাইরের প্রাকারগুলি ভরে রাখে, তাই মন্দির এক প্রাচীরঘেরা পবিত্র নগর।",
+    "legends": "স্থল-পুরাণ বলে যে রঙ্গনাথের শায়িত মূর্তি স্বয়ং রাম পূজা করতেন এবং ইক্ষ্বাকু রাজাদের দিয়েছিলেন, পরে তা দক্ষিণে বহন করা হয়, যেখানে এটি লঙ্কার দিকে দক্ষিণমুখী হয়ে শ্রীরঙ্গমের দ্বীপে থেকে যেতে বেছে নিয়েছিল। শ্রীবৈষ্ণবদের কাছে মন্দির আলবারদের থেকে অবিচ্ছেদ্য, যাঁদের তামিল স্তব, নালায়িরা দিব্য প্রবন্ধম, এখানে আবৃত্তি হয়, এবং রামানুজের থেকেও, যাঁর সংরক্ষিত রূপ এখানে পূজিত। সবচেয়ে প্রিয় উৎসব-কিংবদন্তি বৈকুণ্ঠ একাদশীর, যখন পরমপদ বাসল—'পরম আবাসের দ্বার'—বছরে একবার খোলা হয় এবং বিশ্বাসীরা এই বিশ্বাসে এর মধ্য দিয়ে যান যে এমনটা করা মুক্তির ঝলক দেখা।",
+    "festivals": "শ্রীরঙ্গমের পঞ্জিকা বিশাল, কিন্তু এর শিখর একুশ দিনের বৈকুণ্ঠ একাদশী উৎসব তামিল মার্গড়ি মাসে (ডিসেম্বর–জানুয়ারি), যখন রঙ্গনাথ তাঁর রত্নখচিত বর্মে সহস্র-স্তম্ভ মণ্ডপ দিয়ে শোভাযাত্রা করেন এবং পরমপদ বাসল প্রকাণ্ড জনতার জন্য খুলে দেওয়া হয়। ব্রহ্মোৎসবম, মন্দির-পুষ্করিণীতে ভেলা-উৎসব, এবং আদি ব্রহ্মোৎসবম—সবই উৎসব-দেবমূর্তির শোভাযাত্রাসহ উদযাপিত। অধ্যয়ন উৎসবের সময় দিব্য প্রবন্ধম আবৃত্তি মন্দিরের ভক্তিজীবনের কেন্দ্রবিন্দু।",
+    "experience": "শ্রীরঙ্গমে প্রবেশ করা হয়, কেবল দর্শন নয়। প্রাকারগুলির ভিতর দিয়ে এগিয়ে যান এবং অনুভব করুন বাজারের কোলাহল কীভাবে দ্বার-ধরে-দ্বার পবিত্রতায় স্থান ছেড়ে দেয়; অ-হিন্দুরা স্বর্ণ-বিমানের বাইরের দর্শন-বিন্দু পর্যন্ত যেতে পারেন, তবে অন্তর্গর্ভগৃহে নয়। নায়ক অশ্ব-স্তম্ভগুলি খুঁজুন, মহান মণ্ডপে বিশ্রাম নিন, এবং সম্ভব হলে এমন এক সন্ধ্যায় ভ্রমণ করুন যখন দেবতাকে শোভাযাত্রায় বের করা হয়। মন্দিরটি কাবেরী ও তার উপনদী কোল্লিডমের মাঝে এক দ্বীপে অবস্থিত, তিরুচিরাপল্লি থেকে অল্প পথ, এবং এটি কাছের জম্বুকেশ্বরর মন্দির, পঞ্চভূত স্থলমের একটি, এর সঙ্গে স্বাভাবিকভাবে জোড়ে।"
   },
   "visit": {
-    "timings": "Open daily from very early morning to around 9 pm, with a midday closure; the sanctum follows set darshan hours. Festival days draw immense crowds — go early.",
-    "dressCode": "Traditional modest dress is expected — men often in dhoti, women in saree or salwar; shoulders and knees covered, footwear left outside. Inner enclosures are open to Hindu worshippers.",
-    "photography": "Photography is restricted, especially near and within the sanctum; mobile phones and cameras may be limited in the inner prakarams. Follow posted rules and staff guidance.",
-    "gettingThere": "Srirangam is about 10 km from Tiruchirappalli (Trichy) city centre in Tamil Nadu; Trichy has the nearest railway junction and an airport, and the temple town is well served by local transport."
+    "timings": "প্রতিদিন খুব ভোর থেকে প্রায় রাত ৯টা পর্যন্ত খোলা, দুপুরে বিরতিসহ; গর্ভগৃহ নির্দিষ্ট দর্শন-সময় অনুসরণ করে। উৎসবের দিনে প্রচণ্ড ভিড় হয়—তাড়াতাড়ি যান।",
+    "dressCode": "পরম্পরাগত বিনম্র পোশাক প্রত্যাশিত—পুরুষরা প্রায়ই ধুতি, নারীরা শাড়ি বা সালোয়ারে; কাঁধ ও হাঁটু ঢাকা, জুতো বাইরে রাখা। ভিতরের প্রাঙ্গণ হিন্দু উপাসকদের জন্য উন্মুক্ত।",
+    "photography": "আলোকচিত্র সীমিত, বিশেষত গর্ভগৃহের কাছে ও ভিতরে; ভিতরের প্রাকারে মোবাইল ফোন ও ক্যামেরা সীমিত থাকতে পারে। টাঙানো নিয়ম ও কর্মীদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "শ্রীরঙ্গম তামিলনাড়ুর তিরুচিরাপল্লি (ত্রিচি) শহরকেন্দ্র থেকে প্রায় ১০ কিমি দূরে; ত্রিচিতে নিকটতম রেল-সংযোগস্থল ও একটি বিমানবন্দর রয়েছে, এবং মন্দির-শহর স্থানীয় পরিবহনে ভালোভাবে সংযুক্ত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/ranganathaswamy-srirangam.jpg",

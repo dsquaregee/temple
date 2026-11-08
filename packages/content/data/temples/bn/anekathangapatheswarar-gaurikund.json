@@ -1,29 +1,36 @@
 {
   "id": "anekathangapatheswarar-gaurikund",
   "locale": "bn",
+  "name": "অনেকতঙ্গাপতম, গৌরীকুণ্ড",
   "nativeName": "अनेकतंगापतम्, गौरीकुंड",
+  "deity": "শিব অনেকতঙ্গাপতেশ্বর রূপে, দেবী গৌরীর সঙ্গে",
+  "tradition": "শৈব ধর্ম",
   "location": {
-    "city": "Gaurikund",
-    "state": "Uttarakhand",
+    "city": "গৌরীকুণ্ড",
+    "state": "উত্তরাখণ্ড",
     "lat": 30.6333,
     "lng": 79.0167
   },
+  "period": "বড নাড়ুর একটি হিমালয়ীয় পাডল পেট্র স্থলম, তেবারমে সম্বন্দর কর্তৃক স্তোত্রগীত (সপ্তম শতাব্দী); ঐতিহ্য অনুসারে কেদারনাথ পথের গৌরীকুণ্ডের সঙ্গে চিহ্নিত",
   "century": 7,
+  "dynasty": "কেদারনাথ পথের হিমালয়ীয় তীর্থ-বিরতি; তেবারম-যুগের কোনো কাঠামো নথিভুক্ত নেই",
+  "style": "হিমালয়ীয় মন্দির (ঐতিহ্যগত পরিচয়)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "অনেকতঙ্গাপতম, সম্বন্দর কর্তৃক স্তোত্রগীত তেবারমের একটি উত্তরাঞ্চলীয় মন্দির, ঐতিহ্য অনুসারে গৌরীকুণ্ডের সঙ্গে চিহ্নিত, যেখানে দেবী কেদারনাথের পথে তপস্যা করেছিলেন বলে কথিত।",
   "sections": {
-    "history": "Anekathangapatham is one of the 276 Paadal Petra Sthalams and one of the five in Vada Nadu, the northern country of the Tevaram. Thirugnana Sambandar sang its Lord, and tradition holds that he did so from Srikalahasti, as he sang the other shrines of the far north. The Tevaram knows two places of this name: the other, Kachchi Anekathangapatham at Kanchipuram, was sung by Sundarar. The northern one is identified by tradition with Gaurikund in Rudraprayag district, the last road-head below Kedarnath, at about 1,980 metres in the valley of the Mandakini.",
-    "architecture": "Gaurikund is a small pilgrim settlement on the Kedarnath path rather than a temple town, and no Tevaram-age structure survives here. Its shrine to Gauri, the Goddess as the ascetic bride of Shiva, stands beside the place of the hot spring that gave the village its name; the great floods of 2013 swept much of the old kund away, though warm water still flows at the spot. The Mandakini runs below.",
-    "legends": "Local tradition holds that Parvati performed her long penance here to win Shiva as her husband, and that their marriage was celebrated at nearby Triyuginarayan. The Tevaram name is often read as the place of the elephant, anekatham being an old Tamil word for the elephant, and Gaurikund's own tradition links the Goddess with the birth of the elephant-headed Ganesha, whom she set to guard her as she bathed.",
-    "festivals": "The shrine follows the Kedarnath season: the valley fills with pilgrims from the opening of the Kedarnath temple in spring until it closes for winter. Maha Shivaratri and the Sambandar guru puja are times to recall the Tevaram shrine in Tamil temples; confirm dates locally.",
-    "experience": "For most pilgrims, Gaurikund is the threshold of the climb to Kedarnath, where they bathe, worship the Goddess and set out on foot. A Tamil Shaiva pilgrim pauses here also for Sambandar's sake, honouring Anekathangapatham before walking up the valley to Kedarnath, another northern shrine of the Tevaram."
+    "history": "অনেকতঙ্গাপতম ২৭৬টি পাডল পেট্র স্থলমের একটি এবং তেবারমের উত্তরাঞ্চল বড নাড়ুর পাঁচটির একটি। তিরুজ্ঞান সম্বন্দর এর প্রভুকে স্তোত্রগীত করেছিলেন, এবং ঐতিহ্য বলে যে তিনি শ্রীকালহস্তি থেকে তা করেছিলেন, যেভাবে তিনি সুদূর উত্তরের অন্য মন্দিরগুলি গেয়েছিলেন। তেবারম এই নামের দুটি স্থান জানে: অন্যটি, কাঞ্চিপুরমের কচ্চি অনেকতঙ্গাপতম, সুন্দরর কর্তৃক স্তোত্রগীত। উত্তরেরটি ঐতিহ্য অনুসারে রুদ্রপ্রয়াগ জেলার গৌরীকুণ্ডের সঙ্গে চিহ্নিত, কেদারনাথের নিচের শেষ সড়ক-মাথা, মন্দাকিনীর উপত্যকায় প্রায় ১,৯৮০ মিটার উচ্চতায়।",
+    "architecture": "গৌরীকুণ্ড একটি মন্দির-শহরের পরিবর্তে কেদারনাথ পথের একটি ছোট তীর্থ বসতি, এবং এখানে তেবারম-যুগের কোনো কাঠামো টিকে নেই। গৌরীর প্রতি এর মন্দির, শিবের তপস্বিনী বধূ রূপে দেবী, সেই উষ্ণ প্রস্রবণের স্থানের পাশে দাঁড়িয়ে আছে যা গ্রামকে এর নাম দিয়েছিল; ২০১৩ সালের মহা বন্যা পুরনো কুণ্ডের বেশিরভাগ ভাসিয়ে নিয়ে যায়, যদিও এখনও সেই স্থানে উষ্ণ জল প্রবাহিত হয়। মন্দাকিনী নিচে প্রবাহিত হয়।",
+    "legends": "স্থানীয় ঐতিহ্য বলে যে পার্বতী শিবকে স্বামীরূপে লাভের জন্য এখানে তাঁর দীর্ঘ তপস্যা করেছিলেন, এবং তাঁদের বিবাহ কাছের ত্রিযুগীনারায়ণে উদযাপিত হয়েছিল। তেবারম নামটি প্রায়ই হাতির স্থান হিসেবে পঠিত, অনেকতম হাতির জন্য একটি পুরনো তামিল শব্দ হওয়ায়, এবং গৌরীকুণ্ডের নিজস্ব ঐতিহ্য দেবীকে হস্তিমুণ্ড গণেশের জন্মের সঙ্গে যুক্ত করে, যাঁকে তিনি স্নানের সময় পাহারা দিতে নিযুক্ত করেছিলেন।",
+    "festivals": "মন্দিরটি কেদারনাথ মরসুম অনুসরণ করে: বসন্তে কেদারনাথ মন্দির খোলা থেকে শীতের জন্য বন্ধ হওয়া পর্যন্ত উপত্যকা তীর্থযাত্রীতে ভরে ওঠে। মহাশিবরাত্রি ও সম্বন্দর গুরু পূজা তামিল মন্দিরগুলিতে এই তেবারম মন্দির স্মরণের সময়; তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "অধিকাংশ তীর্থযাত্রীর কাছে গৌরীকুণ্ড কেদারনাথের দিকে আরোহণের প্রবেশদ্বার, যেখানে তাঁরা স্নান করেন, দেবীকে পূজা করেন এবং পায়ে হেঁটে রওনা হন। একজন তামিল শৈব তীর্থযাত্রী এখানে সম্বন্দরের খাতিরেও থামেন, উপত্যকা বেয়ে কেদারনাথ, তেবারমের আরেকটি উত্তরাঞ্চলীয় মন্দিরের দিকে হেঁটে ওঠার আগে অনেকতঙ্গাপতমকে সম্মান জানিয়ে।"
   },
   "visit": {
-    "timings": "The Gauri shrine is open during the Kedarnath pilgrimage season, roughly from late April or May to October or November, from morning until evening. Confirm current timings and the season locally before travelling.",
-    "dressCode": "Modest dress is expected at the shrines; warm, layered clothing and sturdy walking shoes are essential in the mountains. Footwear is left outside the temple.",
-    "photography": "Photography is generally allowed outdoors along the pilgrim route; ask before photographing inside shrines or during worship.",
-    "gettingThere": "Vehicles stop at Sonprayag, a few kilometres below, from where shuttles run to Gaurikund; the trek to Kedarnath starts here. Rishikesh and Haridwar are the nearest major railheads, and Dehradun's Jolly Grant airport is the nearest airport, followed by a long road journey via Rudraprayag."
+    "timings": "গৌরী মন্দির কেদারনাথ তীর্থ মরসুমে খোলা থাকে, মোটামুটি এপ্রিলের শেষ বা মে থেকে অক্টোবর বা নভেম্বর পর্যন্ত, সকাল থেকে সন্ধ্যা পর্যন্ত। যাত্রার আগে বর্তমান সময়সূচি ও মরসুম স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "মন্দিরগুলিতে শালীন পোশাক প্রত্যাশিত; পাহাড়ে উষ্ণ, স্তরবিন্যস্ত পোশাক ও মজবুত হাঁটার জুতা অপরিহার্য। মন্দিরের বাইরে পাদুকা রেখে যেতে হয়।",
+    "photography": "তীর্থপথ বরাবর বাইরে সাধারণত ছবি তোলার অনুমতি আছে; মন্দিরের ভিতরে বা পূজার সময় ছবি তোলার আগে জিজ্ঞাসা করুন।",
+    "gettingThere": "গাড়ি সোনপ্রয়াগে থামে, কয়েক কিলোমিটার নিচে, যেখান থেকে গৌরীকুণ্ড পর্যন্ত শাটল চলে; কেদারনাথের ট্রেক এখান থেকে শুরু হয়। ঋষিকেশ ও হরিদ্বার নিকটতম প্রধান রেলস্টেশন, এবং দেরাদুনের জলি গ্রান্ট বিমানবন্দর নিকটতম বিমানবন্দর, এরপর রুদ্রপ্রয়াগ হয়ে একটি দীর্ঘ সড়ক যাত্রা।"
   }
 }

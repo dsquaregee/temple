@@ -1,30 +1,37 @@
 {
   "id": "paramapurusha-thiruppiridi",
   "locale": "bn",
+  "name": "পরমপুরুষ পেরুমাল মন্দির, তিরুপ্পিরিডি (জোশীমঠ)",
   "nativeName": "परमपुरुष मंदिर, जोशीमठ",
+  "deity": "বিষ্ণু পরমপুরুষন রূপে, দেবী পরিমলবল্লীর সঙ্গে — জোশীমঠে নরসিংহ ও বাসুদেব মন্দিরে পূজিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Joshimath (Thiruppiridi)",
-    "state": "Uttarakhand",
+    "city": "জোশীমঠ (তিরুপ্পিরিডি)",
+    "state": "উত্তরাখণ্ড",
     "lat": 30.555,
     "lng": 79.565
   },
+  "period": "বড় নাডুর একটি দিব্য দেশম, ঐতিহ্যগতভাবে জোশীমঠের সঙ্গে চিহ্নিত এবং নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "গঢ়ওয়াল হিমালয় (আদি শঙ্কর ঐতিহ্য)",
+  "style": "হিমালয়ীয়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "গঢ়ওয়াল হিমালয়ের উঁচুতে অবস্থিত জোশীমঠকে ঐতিহ্য তিরুপ্পিরিডি হিসেবে চিহ্নিত করে, যেখানে তিরুমঙ্গৈ আলবারের একটি দশপদী স্তোত্রে বিষ্ণু পরমপুরুষন রূপে প্রশংসিত হন।",
   "sections": {
-    "history": "Thiruppiridi is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Vada Nadu, the northern country. Thirumangai Alvar praised it in a decad of the Periya Thirumozhi, where the lord is Paramapurushan and the Thayar is Parimalavalli. The tradition identifies Thiruppiridi with Joshimath, or Jyotirmath, in Chamoli district, about 1,890 metres up on the road to Badrinath, and pilgrims worship there at the Narasimha and Vasudeva shrines. Joshimath is held by tradition to be one of the four mathas founded by Adi Shankara, and its Narasimha temple is likewise credited to him.",
-    "architecture": "The shrines of Joshimath are mountain temples of the Garhwal Himalaya, set on the slopes above the Alaknanda valley. For Thiruppiridi, the Sri Vaishnava tradition names the sanctum's vimana as the Govardhana Vimana and the sacred water as the Indra Theertham. Pilgrims here worship at the Narasimha shrine and at the Vasudeva shrine. The setting, cool air, snow peaks and the sound of the river below, is the real architecture of this northernmost approach to Badrinath.",
-    "legends": "The Prabandham names the lord of Thiruppiridi as Paramapurushan, the Supreme Person, and the tradition places his abode in the Himalaya. Joshimath is also remembered as the place where Adi Shankara established one of his four mathas. Vaishnava pilgrims worship here at the Narasimha and Vasudeva shrines before the road climbs on towards Badrinath, and Thirumangai Alvar's decad is remembered here as the hymn of Thiruppiridi.",
-    "festivals": "Pilgrims keep the great days of Vishnu here, such as Vaikunta Ekadashi and Narasimha Jayanti. The temples are busiest in the Badrinath yatra months, and the valley is snowbound in winter. Festival customs follow the Himalayan pilgrimage calendar, so confirm dates locally.",
-    "experience": "Joshimath is the traditional resting place on the Badrinath road, and a visit here is best taken slowly: the climb, the cold, and the quiet of the sanctums are all part of the pilgrimage. The place is honoured as Thiruppiridi by the Sri Vaishnava tradition, so Sri Vaishnava pilgrims remember Thirumangai Alvar's decad here. Carry warm clothing."
+    "history": "তিরুপ্পিরিডি হল ১০৮টি দিব্য দেশমের একটি — নালায়িরা দিব্য প্রবন্ধমে আলবারগণ কর্তৃক স্তুত বিষ্ণুর আবাসসমূহের একটি — এবং এটি উত্তরের দেশ বড় নাডুর অন্তর্গত। তিরুমঙ্গৈ আলবার পেরিয়া তিরুমোড়ির একটি দশপদীতে একে স্তুতি করেছেন, যেখানে প্রভু পরমপুরুষন এবং তায়ার পরিমলবল্লী। ঐতিহ্য তিরুপ্পিরিডিকে চামোলি জেলার জোশীমঠ বা জ্যোতির্মঠের সঙ্গে চিহ্নিত করে, যা বদ্রীনাথের পথে প্রায় ১,৮৯০ মিটার উঁচুতে অবস্থিত, এবং তীর্থযাত্রীরা সেখানে নরসিংহ ও বাসুদেব মন্দিরে পূজা করেন। ঐতিহ্য অনুসারে জোশীমঠ আদি শঙ্কর প্রতিষ্ঠিত চারটি মঠের একটি, এবং এর নরসিংহ মন্দিরও তাঁরই কীর্তি বলে গণ্য হয়।",
+    "architecture": "জোশীমঠের মন্দিরগুলি গঢ়ওয়াল হিমালয়ের পর্বত মন্দির, অলকানন্দা উপত্যকার উপরের ঢালে অবস্থিত। তিরুপ্পিরিডির জন্য শ্রীবৈষ্ণব ঐতিহ্য গর্ভগৃহের বিমানকে গোবর্ধন বিমান এবং পবিত্র জলকে ইন্দ্র তীর্থম নামে চিহ্নিত করে। এখানে তীর্থযাত্রীরা নরসিংহ মন্দিরে ও বাসুদেব মন্দিরে পূজা করেন। পারিপার্শ্বিকতা — শীতল বাতাস, তুষারশৃঙ্গ এবং নিচে নদীর কলধ্বনি — বদ্রীনাথের এই উত্তরতম প্রবেশপথের প্রকৃত স্থাপত্য।",
+    "legends": "প্রবন্ধম তিরুপ্পিরিডির প্রভুকে পরমপুরুষন, পরম পুরুষ, নামে অভিহিত করে, এবং ঐতিহ্য তাঁর আবাস হিমালয়ে স্থাপন করে। জোশীমঠ সেই স্থান হিসেবেও স্মরণীয় যেখানে আদি শঙ্কর তাঁর চারটি মঠের একটি প্রতিষ্ঠা করেছিলেন। বৈষ্ণব তীর্থযাত্রীরা বদ্রীনাথের দিকে পথ আরোহণের আগে এখানে নরসিংহ ও বাসুদেব মন্দিরে পূজা করেন, এবং তিরুমঙ্গৈ আলবারের দশপদী এখানে তিরুপ্পিরিডির স্তোত্র হিসেবে স্মরণ করা হয়।",
+    "festivals": "তীর্থযাত্রীরা এখানে বিষ্ণুর মহান দিনগুলি পালন করেন, যেমন বৈকুণ্ঠ একাদশী ও নরসিংহ জয়ন্তী। বদ্রীনাথ যাত্রার মাসগুলিতে মন্দিরগুলি সবচেয়ে ব্যস্ত থাকে, এবং শীতকালে উপত্যকা তুষারে ঢাকা থাকে। উৎসবের রীতিনীতি হিমালয়ীয় তীর্থ পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে তারিখ নিশ্চিত করে নিন।",
+    "experience": "জোশীমঠ বদ্রীনাথ পথের ঐতিহ্যবাহী বিশ্রামস্থল, এবং এখানে ভ্রমণ ধীরেসুস্থে করাই সবচেয়ে ভালো: আরোহণ, শীত এবং গর্ভগৃহের নীরবতা — সবই তীর্থযাত্রার অংশ। স্থানটি শ্রীবৈষ্ণব ঐতিহ্যে তিরুপ্পিরিডি হিসেবে সম্মানিত, তাই শ্রীবৈষ্ণব তীর্থযাত্রীরা এখানে তিরুমঙ্গৈ আলবারের দশপদী স্মরণ করেন। গরম পোশাক সঙ্গে নিন।"
   },
   "visit": {
-    "timings": "The temples open for morning and evening worship, with a midday closure. Timings change with the season and with snow, so confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Carry warm layers and follow the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Joshimath lies in Chamoli district on the Rishikesh–Badrinath road, reached by mountain road from Rishikesh. Road conditions vary with the season, so check before travelling."
+    "timings": "মন্দিরগুলি সকাল ও সন্ধ্যার পূজার জন্য খোলা থাকে, মধ্যাহ্নে বন্ধ থাকে। ঋতু ও তুষারের সঙ্গে সময় বদলায়, তাই যাওয়ার আগে স্থানীয়ভাবে বর্তমান সময় নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতা খুলে রাখুন। গরম কাপড় সঙ্গে রাখুন এবং পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "জোশীমঠ চামোলি জেলায় ঋষিকেশ–বদ্রীনাথ সড়কে অবস্থিত, ঋষিকেশ থেকে পর্বতপথে পৌঁছানো যায়। সড়কের অবস্থা ঋতুভেদে বদলায়, তাই ভ্রমণের আগে যাচাই করে নিন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.jpg",

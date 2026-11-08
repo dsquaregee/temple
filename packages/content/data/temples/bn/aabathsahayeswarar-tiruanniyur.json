@@ -1,29 +1,36 @@
 {
   "id": "aabathsahayeswarar-tiruanniyur",
   "locale": "bn",
+  "name": "আপৎসহায়েশ্বরর মন্দির, তিরুঅন্নিয়ুর",
   "nativeName": "ஆபத்சகாயேஸ்வரர் கோயில்",
+  "deity": "আপৎসহায়েশ্বরর (অগ্নিপুরীশ্বরর) রূপে শিব, দেবী পেরিয়া নায়কীর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Ponnur (Tiruanniyur)",
-    "state": "Tamil Nadu",
+    "city": "পোন্নুর (তিরুঅন্নিয়ুর)",
+    "state": "তামিলনাড়ু",
     "lat": 11.13,
     "lng": 79.585
   },
+  "period": "চোল নাড়ুর প্রাচীন শৈব তীর্থ, তেবারমে স্তুত (সপ্তম শতক); মধ্যযুগীয় উৎসের ছোট গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "মধ্যযুগীয় তামিল পৃষ্ঠপোষক (চোল-যুগ ও পরবর্তী)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "আপৎসহায়েশ্বরর হলেন তিরুঅন্নিয়ুরের—আজকের ময়িলাড়ুতুরৈ-এর কাছে পোন্নুরের—ছোট তেবারম তীর্থ, যেখানে শিব বিপদের কালে সাহায্যে আসা প্রভু, এবং যেখানে অগ্নিদেব কৃপা লাভ করেছিলেন বলে স্মরণ করা হয়।",
   "sections": {
-    "history": "Tiruanniyur, today the village of Ponnur, lies a few kilometres from Mayiladuthurai on the northern bank of the Kaveri, in the old Chola country. It is a Paadal Petra Sthalam, sung in the Tevaram hymns of Sambandar and Appar (Tirunavukkarasar), and is reckoned the twenty-second Shiva shrine of the Kaveri's northern bank praised in the hymns. Older names such as Bhaskara Kshetram are remembered for the place. The shrine is modest in scale, small and without a tower, yet its worship is old, and the self-manifested linga of Aabathsahayeswarar, the Lord who comes to help in times of danger, has drawn devotees in trouble through the centuries.",
-    "architecture": "The temple is a small east-facing sanctuary on the northern side of the village, and it has no gopuram. In its place the entrance carries a graceful sculpture of Shiva and Parvati. Within, a Nandi mandapa topped by a small decorated vimana stands before the sanctum, which holds the swayambhu linga of Aabathsahayeswarar, while the goddess Periya Nayaki is honoured in the temple as the Lord's consort. Directly opposite the entrance lies the temple tank, known as the Agni Theertham and also as the Varuna Theertham. Temple listings record the sacred tree as the lemon. The scale is intimate, and the beauty lies in its simplicity.",
-    "legends": "The temple holds several traditions of rescue. In the best known, Agni, the god of fire, was punished by Shiva's attendant Veerabhadra for having joined Daksha's sacrifice; he made a tank here, worshipped the Lord, and was redeemed, which is why the Lord is also praised as Agnipureeswarar and the tank is called the Agni Theertham. Another tells of King Harishchandra, afflicted with leprosy, who bathed in the tank and offered curd rice to the Lord and was cured. A third recalls Rati, who came to Tiruanniyur to plead for her husband Manmatha, and Shiva relented and restored him. From these the Lord is known as Aabathsahayeswarar, the helper in peril. These are the temple's traditions rather than documented history.",
-    "festivals": "On Vaikasi Vishakam (May–June) devotees offer curd rice to the Lord, a worship held to relieve the obstacles that trouble a life. In the Tamil month of Panguni (March–April) the sun's rays are said to fall upon the linga for several days, though the exact dates are reported differently and should be confirmed locally. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Dates follow the Tamil calendar.",
-    "experience": "Tiruanniyur is a place for a quiet pause rather than a grand pilgrimage. Pass the sculpture of Shiva and Parvati at the entrance, stand before the Nandi mandapa, and come to the sanctum of Aabathsahayeswarar, then to the goddess Periya Nayaki. The tank opposite the gate invites a moment by the water where Agni is remembered. Those who carry some worry, illness or obstacle come here with particular faith in the Lord who helps in need. The village is a short bus ride from Mayiladuthurai, and the temple keeps the stillness of a small Chola-country sanctuary among fields."
+    "history": "তিরুঅন্নিয়ুর, আজকের পোন্নুর গ্রাম, কাবেরীর উত্তর তীরে পুরনো চোল দেশে ময়িলাড়ুতুরৈ থেকে কয়েক কিলোমিটার দূরে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, সম্বন্দর ও অপ্পর (তিরুনাবুক্করসর)-এর তেবারম স্তোত্রে স্তুত, এবং স্তোত্রে প্রশংসিত কাবেরীর উত্তর তীরের বাইশতম শিব তীর্থ বলে গণ্য। ভাস্কর ক্ষেত্রম-এর মতো প্রাচীন নামও এই স্থানের জন্য স্মরণ করা হয়। তীর্থটি আকারে বিনম্র, ছোট ও গোপুরহীন, তবু এর পূজা প্রাচীন, এবং আপৎসহায়েশ্বররের—বিপদের কালে সাহায্যে আসা প্রভুর—স্বয়ম্ভূ লিঙ্গ শতাব্দীর পর শতাব্দী ধরে সংকটে পড়া ভক্তদের আকৃষ্ট করেছে।",
+    "architecture": "মন্দিরটি গ্রামের উত্তর দিকে একটি ছোট পূর্বমুখী গর্ভগৃহ, এবং এর কোনো গোপুরম নেই। তার বদলে প্রবেশপথে শিব ও পার্বতীর একটি সুন্দর ভাস্কর্য রয়েছে। ভেতরে, গর্ভগৃহের সামনে একটি ছোট অলঙ্কৃত বিমান-শীর্ষ নন্দী মণ্ডপ দাঁড়িয়ে আছে, যেখানে আপৎসহায়েশ্বররের স্বয়ম্ভূ লিঙ্গ অধিষ্ঠিত, আর দেবী পেরিয়া নায়কী মন্দিরে প্রভুর সহধর্মিণী রূপে পূজিত। প্রবেশপথের ঠিক সামনে রয়েছে মন্দির পুষ্করিণী, যা অগ্নি তীর্থম এবং বরুণ তীর্থম নামেও পরিচিত। মন্দিরের তালিকায় স্থলবৃক্ষ হিসেবে লেবুগাছের উল্লেখ রয়েছে। পরিসর ঘনিষ্ঠ, এবং সৌন্দর্য নিহিত এর সরলতায়।",
+    "legends": "মন্দিরে উদ্ধারের কয়েকটি কাহিনি প্রচলিত। সবচেয়ে প্রসিদ্ধটিতে, অগ্নিদেব দক্ষযজ্ঞে যোগ দেওয়ার জন্য শিবের অনুচর বীরভদ্র কর্তৃক দণ্ডিত হয়েছিলেন; তিনি এখানে একটি পুষ্করিণী তৈরি করে প্রভুর পূজা করেন ও উদ্ধার পান, সেই কারণেই প্রভুকে অগ্নিপুরীশ্বরর নামেও স্তুত করা হয় এবং পুষ্করিণীটি অগ্নি তীর্থম নামে পরিচিত। আরেকটিতে বলা হয় রাজা হরিশ্চন্দ্রের কথা, যিনি কুষ্ঠরোগে আক্রান্ত হয়ে এই পুষ্করিণীতে স্নান করে প্রভুকে দই-ভাত নিবেদন করে আরোগ্য লাভ করেন। তৃতীয়টি রতির কথা স্মরণ করে, যিনি তাঁর স্বামী মন্মথের জন্য প্রার্থনা করতে তিরুঅন্নিয়ুরে এসেছিলেন, আর শিব প্রসন্ন হয়ে তাঁকে পুনরুজ্জীবিত করেন। এর থেকেই প্রভু আপৎসহায়েশ্বরর, বিপদের সহায়ক নামে পরিচিত। এগুলি মন্দিরের ঐতিহ্য, নথিবদ্ধ ইতিহাস নয়।",
+    "festivals": "বৈকাসি বিশাখমে (মে–জুন) ভক্তরা প্রভুকে দই-ভাত নিবেদন করেন, যা জীবনকে পীড়িত করা বাধা দূর করার জন্য করা পূজা। তামিল পাঙ্গুনি মাসে (মার্চ–এপ্রিল) কয়েক দিন সূর্যের রশ্মি লিঙ্গের উপর পড়ে বলে কথিত, যদিও সঠিক তারিখগুলি নানাভাবে জানানো হয় এবং স্থানীয়ভাবে নিশ্চিত করা উচিত। প্রতিটি শিবমন্দিরের মতোই মহাশিবরাত্রি ও মাসিক প্রদোষম পালিত হয়। তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে।",
+    "experience": "তিরুঅন্নিয়ুর বিশাল তীর্থযাত্রার চেয়ে একটি নিরিবিলি বিরতির স্থান। প্রবেশপথে শিব ও পার্বতীর ভাস্কর্য পেরিয়ে, নন্দী মণ্ডপের সামনে দাঁড়িয়ে আপৎসহায়েশ্বররের গর্ভগৃহে আসুন, তারপর দেবী পেরিয়া নায়কীর কাছে। ফটকের বিপরীতে পুষ্করিণীটি জলের ধারে এক মুহূর্তের জন্য আমন্ত্রণ জানায়, যেখানে অগ্নিদেবকে স্মরণ করা হয়। যাঁরা কোনো দুশ্চিন্তা, অসুখ বা বাধা বয়ে চলেছেন তাঁরা বিশেষ আস্থা নিয়ে প্রয়োজনে সাহায্যকারী প্রভুর কাছে এখানে আসেন। গ্রামটি ময়িলাড়ুতুরৈ থেকে স্বল্প বাসযাত্রার দূরত্বে, এবং মন্দিরটি মাঠের মাঝে এক ছোট চোল-দেশীয় তীর্থের নিস্তব্ধতা ধরে রাখে।"
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again in the evening, with a long midday break; published timings vary, so confirm locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance.",
-    "photography": "Photography is generally permitted in the outer areas but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Ponnur is roughly 5 to 8 km from Mayiladuthurai (sources differ), reached by town buses heading toward Namashivayapuram and Pandur, which pass through the village; the temple is an easy walk from the stop. Mayiladuthurai Junction is the nearest major railway station, and the nearest large airports, Tiruchirappalli and Chennai, are several hours away. The Tevaram shrine of Tiruneedur lies nearby and is easily combined in one visit."
+    "timings": "সাধারণত সকালে কয়েক ঘণ্টা ও আবার সন্ধ্যায় খোলা থাকে, মধ্যাহ্নে দীর্ঘ বিরতি সহ; প্রকাশিত সময় ভিন্ন হয়, তাই বিশেষত উৎসবের দিনে স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা রেখে। প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরবিধি অনুসারে সাধারণত বাইরের অংশে ছবি তোলা অনুমোদিত কিন্তু ভেতরের গর্ভগৃহে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "পোন্নুর ময়িলাড়ুতুরৈ থেকে প্রায় ৫ থেকে ৮ কিমি দূরে (সূত্র ভিন্ন), নমশিবায়পুরম ও পান্দুরের দিকে যাওয়া শহর-বাসে পৌঁছানো যায়, যেগুলি গ্রামের মধ্য দিয়ে যায়; স্টপ থেকে মন্দির সহজ হাঁটার পথ। ময়িলাড়ুতুরৈ জংশন নিকটতম বড় রেলস্টেশন, আর নিকটতম বড় বিমানবন্দর তিরুচিরাপল্লি ও চেন্নাই কয়েক ঘণ্টা দূরে। তিরুনীডুর-এর তেবারম তীর্থ কাছেই এবং এক যাত্রায় সহজে যুক্ত করা যায়।"
   }
 }

@@ -1,30 +1,41 @@
 {
   "id": "venkateswara-tirumala",
   "locale": "bn",
+  "name": "বেঙ্কটেশ্বর মন্দির, তিরুমালা",
   "nativeName": "వేంకటేశ్వర ఆలయం, తిరుమల",
+  "deity": "বেঙ্কটেশ্বর (বালাজি, শ্রীনিবাস) রূপে বিষ্ণু, সপ্ত পর্বতের প্রভু",
+  "tradition": "বৈষ্ণবধর্ম (শ্রীবৈষ্ণব)",
   "location": {
-    "city": "Tirumala, Tirupati",
-    "state": "Andhra Pradesh",
+    "city": "তিরুমালা, তিরুপতি",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 13.6833,
     "lng": 79.3474
   },
+  "period": "প্রাচীন প্রতিষ্ঠা; বিজয়নগরের অধীনে ব্যাপকভাবে সম্প্রসারিত",
   "century": 9,
+  "dynasty": "পল্লব, চোল, পাণ্ড্য, বিজয়নগর",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "তিরুমালা পর্বতমালার সপ্তম শৃঙ্গে দাঁড়িয়ে আছে পৃথিবীর সর্বাধিক দর্শিত ও সর্বাধিক ঐশ্বর্যমণ্ডিত মন্দির, যেখানে বেঙ্কটেশ্বর রূপে বিষ্ণু স্বর্ণমণ্ডিত আনন্দ নিলয়ম চূড়ার নিচে বছরে লক্ষ লক্ষ তীর্থযাত্রীকে গ্রহণ করেন।",
   "sections": {
-    "history": "The hill shrine of Venkateswara is among the most ancient living temples of the south, with inscriptions attesting royal gifts from the Pallava, Chola and Pandya periods onward. Its golden age came under the Vijayanagara emperors, above all Krishnadevaraya, whose endowments and visits in the sixteenth century made Tirumala the wealthiest pilgrimage centre in India — a status it has never lost. Revered as a Divya Desam and identified with the Kali-yuga form of Vishnu who remains accessible to all who climb the hills, the temple has been administered since 1933 by the Tirumala Tirupati Devasthanams, which today manages one of the largest religious institutions in the world. Generations of devotees have offered their hair, their savings and their vows here, and the unbroken flow of pilgrimage is itself the temple's living history.",
-    "architecture": "The temple crowns Venkatadri, the seventh peak of the Tirumala range, and is built in the Dravidian manner around a modest but intensely sacred sanctum. Over the garbhagriha rises the Ananda Nilayam vimana, its gilded copper crowning the deity below. Pilgrims pass through successive gateways and halls — the Tirumamani mandapa, the golden entrance — in a tightly managed flow that channels vast crowds toward a few seconds of darshan before the standing image of Venkateswara, dark and richly adorned, one hand pointing to his feet as refuge. Compared with the sprawling temple-cities of the plains, Tirumala's power lies less in monumental scale than in its setting among forested hills and in the sheer density of devotion concentrated on a single doorway.",
-    "legends": "The sthala purana relates that Vishnu descended to the seven hills as Srinivasa and, to marry the local princess Padmavati, borrowed a vast sum from Kubera, the lord of wealth; devotees' offerings at Tirumala are understood as helping repay that eternal debt, which is why the hundi here overflows. He is Venkateswara, 'the lord who destroys sins', and Balaji to his countless devotees. The custom of tonsure — offering one's hair — is tied to a legend of the goddess and expresses the surrender of ego, while the temple's famous laddu prasadam, prepared in the Potu kitchen, is carried home across the world as a token of the hill lord's grace.",
-    "festivals": "The nine-day Brahmotsavam in the month of Purattasi (September–October) is the great annual festival, when the processional deity is drawn around the hill in a series of splendid vahanas, culminating in the Garuda Seva that draws the largest crowds of the year. Vaikuntha Ekadashi, Rathasaptami, and the daily sequence of sevas — from the pre-dawn Suprabhatam that wakes the lord to the night's Ekanta Seva — structure a ritual life of extraordinary continuity and detail.",
-    "experience": "A visit to Tirumala is a pilgrimage in the full sense: many devotees still climb the stone steps of the Alipiri path up the hills, and the darshan itself, however brief, is the culmination of long queues managed through the TTD's token system. Plan ahead, book a darshan slot, and allow time for the whole ritual arc — the hair offering, the laddu, the walk among the shrines. The town of Tirupati at the foot of the hills is the transport base; the hills above are cool, green and, for believers, charged with presence."
+    "history": "বেঙ্কটেশ্বরের এই পার্বত্য তীর্থ দক্ষিণের প্রাচীনতম জীবন্ত মন্দিরগুলির অন্যতম, যেখানকার শিলালিপি পল্লব, চোল ও পাণ্ড্য যুগ থেকে রাজকীয় দানের সাক্ষ্য বহন করে। এর স্বর্ণযুগ আসে বিজয়নগরের সম্রাটদের অধীনে, সর্বোপরি কৃষ্ণদেবরায়ের, যাঁর ষোড়শ শতকের দান ও সফর তিরুমালাকে ভারতের সবচেয়ে সমৃদ্ধ তীর্থকেন্দ্র করে তোলে—এমন মর্যাদা যা এটি কখনো হারায়নি। দিব্য দেশম রূপে পূজিত এবং পর্বত আরোহণকারী সকলের কাছে সুলভ থাকা বিষ্ণুর কলিযুগের রূপের সঙ্গে অভিন্ন বলে গণ্য, মন্দিরটি ১৯৩৩ সাল থেকে তিরুমালা তিরুপতি দেবস্থানম দ্বারা পরিচালিত, যা আজ পৃথিবীর বৃহত্তম ধর্মীয় প্রতিষ্ঠানগুলির একটি পরিচালনা করে। প্রজন্মের পর প্রজন্ম ভক্ত এখানে তাঁদের কেশ, তাঁদের সঞ্চয় ও তাঁদের মানত নিবেদন করেছেন, এবং তীর্থযাত্রার এই অবিচ্ছিন্ন প্রবাহই মন্দিরের জীবন্ত ইতিহাস।",
+    "architecture": "মন্দিরটি তিরুমালা পর্বতমালার সপ্তম শৃঙ্গ বেঙ্কটাদ্রিকে মুকুটিত করে, এবং একটি বিনম্র অথচ গভীরভাবে পবিত্র গর্ভগৃহকে ঘিরে দ্রাবিড় রীতিতে নির্মিত। গর্ভগৃহের উপরে উঠে গেছে আনন্দ নিলয়ম বিমান, যার স্বর্ণমণ্ডিত তামা নিচের দেবতাকে মুকুটিত করে। তীর্থযাত্রীরা পরপর তোরণ ও মণ্ডপের মধ্য দিয়ে—তিরুমামণি মণ্ডপ, স্বর্ণ প্রবেশদ্বার—এক কঠোরভাবে নিয়ন্ত্রিত প্রবাহে এগিয়ে যান, যা বিপুল জনসমাগমকে বেঙ্কটেশ্বরের দণ্ডায়মান মূর্তির সামনে কয়েক সেকেন্ডের দর্শনের দিকে পরিচালিত করে—শ্যামবর্ণ ও সমৃদ্ধভাবে অলঙ্কৃত, এক হাত আশ্রয়স্বরূপ তাঁর চরণের দিকে নির্দেশ করে। সমতলের বিস্তৃত মন্দির-নগরীগুলির তুলনায় তিরুমালার শক্তি স্মারক আকারে নয়, বরং অরণ্যাবৃত পর্বতের মাঝে এর অবস্থানে এবং একটিমাত্র দ্বারে কেন্দ্রীভূত ভক্তির নিবিড়তায় নিহিত।",
+    "legends": "স্থল পুরাণ বলে, বিষ্ণু শ্রীনিবাস রূপে সপ্ত পর্বতে অবতরণ করেন এবং স্থানীয় রাজকুমারী পদ্মাবতীকে বিবাহ করতে ধনের অধিপতি কুবেরের কাছ থেকে বিপুল অর্থ ধার করেন; তিরুমালায় ভক্তদের নিবেদন সেই চিরন্তন ঋণ পরিশোধে সহায়ক বলে বোঝা হয়, এই কারণেই এখানে হুন্ডি উপচে পড়ে। তিনি বেঙ্কটেশ্বর, 'যে প্রভু পাপ বিনাশ করেন', এবং তাঁর অগণিত ভক্তের কাছে বালাজি। মুণ্ডনের—নিজের কেশ নিবেদনের—প্রথা দেবীর এক কিংবদন্তির সঙ্গে যুক্ত এবং অহংকারের আত্মসমর্পণ প্রকাশ করে, আর মন্দিরের বিখ্যাত লাড্ডু প্রসাদম, পোটু রন্ধনশালায় প্রস্তুত, পর্বত-প্রভুর কৃপার নিদর্শন রূপে বিশ্বজুড়ে ঘরে বয়ে নিয়ে যাওয়া হয়।",
+    "festivals": "পুরট্টাসি মাসের (সেপ্টেম্বর–অক্টোবর) নয় দিনের ব্রহ্মোৎসবম হল মহান বার্ষিক উৎসব, যখন উৎসবমূর্তিকে একের পর এক জমকালো বাহনে পর্বতের চারপাশে টেনে নিয়ে যাওয়া হয়, যা বছরের সর্ববৃহৎ জনসমাগম টেনে আনা গরুড় সেবায় চূড়ান্ত রূপ নেয়। বৈকুণ্ঠ একাদশী, রথসপ্তমী, এবং প্রতিদিনের সেবাক্রম—প্রভুকে জাগানো ভোরের সুপ্রভাতম থেকে রাতের একান্ত সেবা পর্যন্ত—অসামান্য ধারাবাহিকতা ও সূক্ষ্মতাসম্পন্ন এক আচারজীবন গড়ে তোলে।",
+    "experience": "তিরুমালায় দর্শন পূর্ণ অর্থে এক তীর্থযাত্রা: বহু ভক্ত আজও পর্বতে ওঠার আলিপিরি পথের পাথরের সিঁড়ি বেয়ে ওঠেন, এবং দর্শন নিজেই, যত সংক্ষিপ্তই হোক, টিটিডির টোকেন ব্যবস্থার মাধ্যমে পরিচালিত দীর্ঘ লাইনের চূড়ান্ত পরিণতি। আগে থেকে পরিকল্পনা করুন, একটি দর্শনের সময় বুক করুন, এবং সম্পূর্ণ আচারক্রমের জন্য সময় রাখুন—কেশ নিবেদন, লাড্ডু, মন্দিরগুলির মধ্যে হাঁটা। পর্বতের পাদদেশে তিরুপতি শহর পরিবহনের ভিত্তি; উপরের পর্বত শীতল, সবুজ এবং বিশ্বাসীদের কাছে উপস্থিতিতে পরিপূর্ণ।"
   },
   "visit": {
-    "timings": "Darshan runs from the pre-dawn Suprabhatam through the day into the night, with the sanctum following the TTD seva schedule. Waiting times vary from a couple of hours to many; booked-darshan tokens are strongly advised.",
-    "dressCode": "Traditional dress is required — men in dhoti/kurta or formal wear, women in saree or salwar-kameez; the temple observes practices for Hindu worshippers and asks pilgrims to declare their faith at entry.",
-    "photography": "Photography and phones are not permitted inside the temple and are deposited before entry; the sanctum is a strict no-photography zone.",
-    "gettingThere": "Tirumala sits above Tirupati in Andhra Pradesh; Tirupati has a railway station and airport, and the hills are reached by ghat road or on foot via the Alipiri and Srivari Mettu step paths."
+    "timings": "দর্শন ভোরের সুপ্রভাতম থেকে সারাদিন ধরে রাত পর্যন্ত চলে, গর্ভগৃহ টিটিডির সেবাসূচি অনুসরণ করে। অপেক্ষার সময় কয়েক ঘণ্টা থেকে বহু ঘণ্টা পর্যন্ত ভিন্ন হয়; বুক করা দর্শন টোকেন দৃঢ়ভাবে পরামর্শ দেওয়া হয়।",
+    "dressCode": "ঐতিহ্যবাহী পোশাক আবশ্যক—পুরুষদের ধুতি/কুর্তা বা আনুষ্ঠানিক পোশাকে, নারীদের শাড়ি বা সালোয়ার-কামিজে; মন্দিরটি হিন্দু উপাসকদের জন্য প্রথা পালন করে এবং তীর্থযাত্রীদের প্রবেশের সময় তাঁদের বিশ্বাস ঘোষণা করতে বলে।",
+    "photography": "মন্দিরের ভেতরে ছবি তোলা ও ফোন অনুমোদিত নয় এবং প্রবেশের আগে জমা রাখতে হয়; গর্ভগৃহ কঠোরভাবে ছবি-নিষিদ্ধ অঞ্চল।",
+    "gettingThere": "তিরুমালা অন্ধ্রপ্রদেশে তিরুপতির উপরে অবস্থিত; তিরুপতিতে একটি রেলস্টেশন ও বিমানবন্দর রয়েছে, এবং পর্বতে ঘাট সড়কপথে বা আলিপিরি ও শ্রীবারি মেট্টু সিঁড়িপথ ধরে পায়ে হেঁটে পৌঁছানো যায়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/venkateswara-tirumala.mp3",
+    "durationSec": 268
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.webp"
     },
     "og": "https://media.dsquaregee.com/og/venkateswara-tirumala.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/venkateswara-tirumala.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.jpg",
+    "durationSec": 205,
+    "credit": "Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0) · vijay chennupati from sydney, australia / Wikimedia Commons (CC BY 2.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

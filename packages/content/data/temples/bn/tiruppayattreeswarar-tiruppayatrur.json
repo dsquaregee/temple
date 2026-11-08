@@ -1,29 +1,36 @@
 {
   "id": "tiruppayattreeswarar-tiruppayatrur",
   "locale": "bn",
+  "name": "পয়ত্রুনাথর মন্দির, তিরুপ্পয়ত্রুর (তিরুপয়ত্তঙ্গুডি)",
   "nativeName": "திருப்பயற்றூர் பயற்றுநாதர் கோயில்",
+  "deity": "পয়ত্রুনাথর রূপে শিব, দেবী কবিয়ঙ্কণ্ণি অম্মৈ (নেত্রাম্বিগৈ) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tirupayathangudi, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "তিরুপয়ত্তঙ্গুডি, তিরুবারুরের নিকট",
+    "state": "তামিলনাড়ু",
     "lat": 10.8,
     "lng": 79.73
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তোত্রে বন্দিত); পরবর্তীকালে চোল স্থাপত্যের মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুপয়ত্তঙ্গুডি, তেবারমের তিরুপ্পয়ত্রুর, তিরুবারুরের নিকটে আরসিলার ও বেট্টারু নদীর মাঝে অবস্থিত, শিবকে পয়ত্রুনাথর রূপে পূজা করে, সঙ্গে থাকেন দেবী কবিয়ঙ্কণ্ণি অম্মৈ, যিনি নেত্রাম্বিগৈ নামেও পরিচিত। অপ্পর কর্তৃক বন্দিত এই পাডল পেট্র স্থলমটি বিশেষভাবে তাঁদের কাছে পূজ্য যাঁরা চোখের ব্যাধি থেকে মুক্তি চান, যাঁরা করুণা তীর্থমে স্নান করে চক্ষুরূপা দেবী ও তাঁর প্রভুর আরাধনা করেন।",
   "sections": {
-    "history": "Tirupayathangudi, whose Tevaram name is Tiruppayatrur, lies near Tiruvarur (about 14–15 km, by way of Surakkudi) in Nagapattinam district, set between the Arasilar and Vettaru rivers and some 15 km from the coast. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirunavukkarasar (Appar). The stone temple belongs to the Chola period and later, standing over the far older sacred site the saint had already made famous.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Payatrunathar in the sanctum, with the goddess Kaviyangkanni Ammai — also called Nethrambigai, 'the goddess of the eye' — in her own shrine, a Nandi and the parivara devatas. The sacred tank is the Karuna Theertham, 'the tank of grace,' whose waters are central to the healing tradition of the place.",
-    "legends": "The temple is above all a place of healing for the eyes. Devotees who suffer from diseases of the eye come to bathe in the Karuna Theertham and to worship Nethrambigai, whose very name joins the goddess to the eye (netra), and her lord Payatrunathar; by this grace relief is sought and, by long tradition, found. The fuller sthala purana, like those of many smaller delta shrines, is preserved chiefly in local memory and the Tevaram verses of Appar.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Devotees seeking relief from eye ailments visit through the year, and pilgrims on the Paadal Petra trail near Tiruvarur include Tirupayathangudi among their stops.",
-    "experience": "At Tirupayathangudi the pilgrim comes to a shrine of gentle, specific grace — the lord and goddess who heal the eyes. Before Payatrunathar and Nethrambigai, beside the Karuna Theertham, the visitor feels the tender compassion of a delta temple to which the troubled have long come for sight and solace, carrying the hope of the goddess of the eye."
+    "history": "তিরুপয়ত্তঙ্গুডি, যার তেবারম নাম তিরুপ্পয়ত্রুর, নাগপট্টিনম জেলার তিরুবারুরের নিকটে (সুরক্কুডি হয়ে প্রায় ১৪–১৫ কিমি) অবস্থিত, আরসিলার ও বেট্টারু নদীর মাঝে এবং উপকূল থেকে প্রায় ১৫ কিমি দূরে। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুনাবুক্করসর (অপ্পর) কর্তৃক বন্দিত। পাথরের মন্দিরটি চোল যুগ ও তার পরবর্তীকালের, যা সেই বহু প্রাচীন পবিত্র স্থানের উপর নির্মিত যাকে সন্ত আগেই খ্যাতিমান করে তুলেছিলেন।",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, এর গর্ভগৃহে পয়ত্রুনাথর অধিষ্ঠিত, এবং দেবী কবিয়ঙ্কণ্ণি অম্মৈ — যিনি নেত্রাম্বিগৈ, 'চক্ষুর দেবী' নামেও অভিহিত — তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণ সহ বিরাজমান। পবিত্র পুষ্করিণী হল করুণা তীর্থম, 'অনুগ্রহের তীর্থ,' যার জল এই স্থানের আরোগ্য-ঐতিহ্যের কেন্দ্রবিন্দু।",
+    "legends": "এই মন্দির সর্বোপরি চোখের আরোগ্যের স্থান। যাঁরা চোখের রোগে ভোগেন তাঁরা করুণা তীর্থমে স্নান করতে ও নেত্রাম্বিগৈর আরাধনা করতে আসেন, যাঁর নামই দেবীকে চক্ষুর (নেত্র) সঙ্গে যুক্ত করে, এবং তাঁর প্রভু পয়ত্রুনাথরের আরাধনা করেন; এই অনুগ্রহে মুক্তি প্রার্থিত হয় এবং দীর্ঘ ঐতিহ্য অনুসারে লব্ধও হয়। অনেক ছোট ব-দ্বীপ মন্দিরের মতোই এর পূর্ণতর স্থল পুরাণ মূলত স্থানীয় স্মৃতি ও অপ্পরের তেবারম শ্লোকে সংরক্ষিত।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈয়ের সোমবারগুলি, প্রদোষ পূজা সহ পালিত হয়। চোখের ব্যাধি থেকে মুক্তিপ্রার্থী ভক্তরা সারা বছর আসেন, এবং তিরুবারুরের নিকটবর্তী পাডল পেট্র পথের তীর্থযাত্রীরা তিরুপয়ত্তঙ্গুডিকে তাঁদের বিরতিস্থলের অন্যতম করেন।",
+    "experience": "তিরুপয়ত্তঙ্গুডিতে তীর্থযাত্রী এক কোমল, সুনির্দিষ্ট অনুগ্রহের মন্দিরে আসেন — যে প্রভু ও দেবী চোখ আরোগ্য করেন। করুণা তীর্থমের পাশে পয়ত্রুনাথর ও নেত্রাম্বিগৈর সম্মুখে, দর্শনার্থী এমন এক ব-দ্বীপ মন্দিরের কোমল করুণা অনুভব করেন যেখানে বিপন্ন মানুষ বহুকাল ধরে দৃষ্টি ও সান্ত্বনার জন্য এসেছেন, চক্ষুর দেবীর প্রতি আশা বুকে নিয়ে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirupayathangudi is near Tiruvarur (about 14–15 km, via Surakkudi), between the Arasilar and Vettaru rivers, in Nagapattinam district (via Kangalancheri, PIN 610101). Tiruvarur and Nagapattinam are the nearest rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে পাদুকা খুলে রাখতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত ছবি তোলা অনুমোদিত, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুপয়ত্তঙ্গুডি তিরুবারুরের নিকটে (সুরক্কুডি হয়ে প্রায় ১৪–১৫ কিমি), আরসিলার ও বেট্টারু নদীর মাঝে, নাগপট্টিনম জেলায় (কঙ্গলঞ্চেরি হয়ে, পিন ৬১০১০১) অবস্থিত। তিরুবারুর ও নাগপট্টিনম নিকটতম রেলপথ, গ্রামে পৌঁছাতে বাস ও ট্যাক্সি রয়েছে।"
   }
 }

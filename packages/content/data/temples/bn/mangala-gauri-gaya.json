@@ -1,29 +1,36 @@
 {
   "id": "mangala-gauri-gaya",
   "locale": "bn",
+  "name": "মঙ্গলা গৌরী মন্দির, গয়া",
   "nativeName": "मंगला गौरी मंदिर",
+  "deity": "দেবী মঙ্গলা গৌরী রূপে, শুভ গৌরী, পুষ্টির রক্ষয়িত্রী",
+  "tradition": "শাক্তধর্ম",
   "location": {
-    "city": "Gaya",
-    "state": "Bihar",
+    "city": "গয়া",
+    "state": "বিহার",
     "lat": 24.775,
     "lng": 85.002
   },
+  "period": "অষ্টাদশ শক্তিপীঠ স্তোত্রে নামাঙ্কিত প্রাচীন শক্তিমন্দির; বর্তমান মন্দির ঐতিহ্যানুসারে পঞ্চদশ শতকের",
   "century": 15,
+  "dynasty": "স্থানীয় পৃষ্ঠপোষকতা; নির্মাতারা নিশ্চিতভাবে নথিভুক্ত নন",
+  "style": "গয়া অঞ্চলের উত্তর ভারতীয় পর্বত মন্দির, গর্ভগৃহের সামনে একটি ছোট হলসহ",
   "unesco": false,
   "circuits": [
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "মঙ্গলা গৌরী গয়ায়, পিতৃপুরুষের অনুষ্ঠানের নগরীতে, এক ছোট পাহাড়কে মুকুটিত করেন সেই শক্তিপীঠ রূপে যেখানে সতীর স্তন স্মরণীয় এবং দেবী পুষ্টি ও সৌভাগ্যদাত্রী রূপে সম্মানিত।",
   "sections": {
-    "history": "Mangala Gauri stands on a hill above the Falgu river at Gaya, which the tradition also knows as Bhasmakut. The Ashtadasha Shakti Peetha stotram, traditionally ascribed to Adi Shankara, names the place in the line Gayayam Mangala Gauri and counts it among the eighteen great seats of the Goddess, and tradition holds that here the breast of Sati fell to earth. The shrine is said to be mentioned in several Puranas, among them the Padma, Vayu, Agni, Devi Bhagavata and Markandeya. The temple that visitors see today is generally dated to the fifteenth century, with one source giving the year 1459, though the builders are not firmly recorded. For all that, the hill has been a place of pilgrimage for as long as Gaya has drawn visitors who come to honour their ancestors.",
-    "architecture": "The temple faces east from the summit of Mangalagauri hill and is reached by a flight of steps, with a motorable road as well. A small pillared hall stands before the sanctum, which holds the symbol of the Goddess rather than a portrait; tradition describes it as two rounded stones recalling the breasts of Sati, and some finely carved ancient reliefs are said to survive within. The compound shelters other shrines, among them Shiva, Durga, Dakshina Kali, Mahishasuramardini, Ganesha and Hanuman. From the open courtyard the view runs across the town and down to the bed of the Falgu, a reminder of why the hill was chosen for devotion.",
-    "legends": "The story belongs to Sati. When she gave up her life at her father Daksha's sacrifice and Shiva carried her body across the land in grief, Vishnu's discus parted the body so that his sorrow might ease, and the pieces fell in many places that became Shakti Peethas. At Gaya, tradition says, her breast fell. The breast is the sign of the mother who feeds, and so this Goddess is honoured as the one who nourishes and bestows well-being, the meaning of her name Mangala. The peetha also sits within the sacred geography of Gaya, a city of the Falgu river and the Akshayavat, where, in the old telling, Sita's blessing made rites for the departed endure.",
-    "festivals": "The Navratri seasons, especially Chaitra in March or April, bring the largest crowds. In the month of Shravana, women keep the Mangala Gauri vrat on Tuesdays, fasting and offering bangles, fruit and sweets to the Goddess for the welfare of their families. Gaya itself fills with pilgrims during Pitru Paksha in the autumn, when families come from across India to perform shraddha for their ancestors, and many take the opportunity to climb the hill and seek the Goddess. Confirm dates locally, as they follow the lunar calendar.",
-    "experience": "Mangala Gauri rewards a slow climb. Take the steps up the hill in the early morning, when the air is cooler and the town below is still quiet, and enter the small hall before the sanctum. Devotees offer flowers, sweets and bangles, and sit awhile in the courtyard with the view of the Falgu. Many visitors come as part of a pilgrimage to Gaya for ancestral rites and feel the visit as a gesture of thanks to the Mother who is also the giver of nourishment. On Tuesdays in Shravana the shrine is crowded with women, so a weekday outside the festival season is calmer."
+    "history": "মঙ্গলা গৌরী গয়ায় ফল্গু নদীর ওপরে এক পাহাড়ে দাঁড়িয়ে, যাকে ঐতিহ্য ভস্মকূটও বলে জানে। অষ্টাদশ শক্তিপীঠ স্তোত্র, প্রথাগতভাবে আদি শঙ্করের বলে কথিত, 'গয়ায়াম্‌ মঙ্গলা গৌরী' পঙ্‌ক্তিতে স্থানটির নাম করে এবং একে দেবীর আঠারোটি মহান পীঠের মধ্যে গণ্য করে, এবং ঐতিহ্য বলে যে এখানে সতীর স্তন পৃথিবীতে পতিত হয়েছিল। মন্দিরটি একাধিক পুরাণে উল্লিখিত বলে কথিত, যার মধ্যে পদ্ম, বায়ু, অগ্নি, দেবী ভাগবত ও মার্কণ্ডেয় রয়েছে। আজ দর্শনার্থীরা যে মন্দির দেখেন তা সাধারণত পঞ্চদশ শতকের বলে নির্ধারিত, এক সূত্র ১৪৫৯ সাল দেয়, যদিও নির্মাতারা নিশ্চিতভাবে নথিভুক্ত নন। তবুও গয়া যতদিন ধরে পিতৃপুরুষদের সম্মান জানাতে আসা দর্শনার্থীদের টেনে এনেছে, এই পাহাড় ততদিন ধরে এক তীর্থস্থান।",
+    "architecture": "মন্দিরটি মঙ্গলাগৌরী পাহাড়ের শিখর থেকে পূর্বমুখী এবং একটি সিঁড়ির সারি দিয়ে পৌঁছানো যায়, সঙ্গে একটি যানবাহনযোগ্য সড়কও রয়েছে। গর্ভগৃহের সামনে একটি ছোট স্তম্ভযুক্ত হল দাঁড়িয়ে, যেখানে দেবীর প্রতিকৃতির পরিবর্তে তাঁর প্রতীক রয়েছে; ঐতিহ্য একে সতীর স্তনের স্মারক দুটি গোলাকার প্রস্তর রূপে বর্ণনা করে, এবং এর ভেতরে কিছু সূক্ষ্মভাবে খোদিত প্রাচীন উৎকীর্ণ টিকে আছে বলে কথিত। প্রাঙ্গণ অন্যান্য মন্দিরকে আশ্রয় দেয়, যার মধ্যে শিব, দুর্গা, দক্ষিণা কালী, মহিষাসুরমর্দিনী, গণেশ ও হনুমান রয়েছে। খোলা প্রাঙ্গণ থেকে দৃশ্য শহরজুড়ে এবং নিচে ফল্গুর তলদেশ পর্যন্ত চলে, কেন এই পাহাড় ভক্তির জন্য বেছে নেওয়া হয়েছিল তার এক স্মারক।",
+    "legends": "কাহিনিটি সতীর। তিনি যখন তাঁর পিতা দক্ষের যজ্ঞে প্রাণত্যাগ করলেন এবং শিব শোকে তাঁর দেহ দেশজুড়ে বহন করলেন, বিষ্ণুর চক্র দেহটিকে খণ্ডিত করল যাতে তাঁর শোক কমে, এবং খণ্ডগুলি বহু স্থানে পতিত হল যা শক্তিপীঠে পরিণত হল। গয়ায়, ঐতিহ্য বলে, তাঁর স্তন পতিত হয়েছিল। স্তন সেই জননীর চিহ্ন যিনি পালন করেন, এবং তাই এই দেবী সেই রূপে সম্মানিত যিনি পুষ্টি দেন ও কল্যাণ বর্ষণ করেন, তাঁর নাম মঙ্গলার অর্থ। পীঠটি গয়ার পবিত্র ভূগোলের মধ্যেও অবস্থিত, ফল্গু নদী ও অক্ষয়বটের এক নগরী, যেখানে পুরনো বর্ণনায় সীতার আশীর্বাদে প্রয়াতদের জন্য অনুষ্ঠান স্থায়ী হয়েছিল।",
+    "festivals": "নবরাত্রি ঋতু, বিশেষত মার্চ বা এপ্রিলে চৈত্র, সবচেয়ে বড় জনসমাগম আনে। শ্রাবণ মাসে নারীরা মঙ্গলবারে মঙ্গলা গৌরী ব্রত পালন করেন, উপবাস করে এবং পরিবারের কল্যাণের জন্য দেবীকে চুড়ি, ফল ও মিষ্টি নিবেদন করেন। গয়া নিজে শরতে পিতৃপক্ষের সময় তীর্থযাত্রীতে ভরে ওঠে, যখন পরিবারগুলি সমগ্র ভারত থেকে পিতৃপুরুষদের শ্রাদ্ধ করতে আসে, এবং অনেকে সুযোগ নিয়ে পাহাড়ে উঠে দেবীর দর্শন করেন। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন, কারণ এগুলি চান্দ্র পঞ্জিকা অনুসরণ করে।",
+    "experience": "মঙ্গলা গৌরী এক ধীর আরোহণের পুরস্কার দেয়। ভোরে পাহাড়ের সিঁড়ি বেয়ে উঠুন, যখন বাতাস শীতল ও নিচের শহর তখনও নিস্তব্ধ, এবং গর্ভগৃহের সামনে ছোট হলটিতে প্রবেশ করুন। ভক্তেরা ফুল, মিষ্টি ও চুড়ি নিবেদন করেন, এবং ফল্গুর দৃশ্যসহ প্রাঙ্গণে কিছুক্ষণ বসেন। অনেক দর্শনার্থী পিতৃপুরুষের অনুষ্ঠানের জন্য গয়া তীর্থযাত্রার অংশ হিসেবে আসেন এবং এই দর্শনকে সেই মাতার প্রতি কৃতজ্ঞতার অঙ্গভঙ্গি রূপে অনুভব করেন যিনি পুষ্টিদাত্রীও। শ্রাবণের মঙ্গলবারগুলিতে মন্দিরটি নারীতে পূর্ণ থাকে, তাই উৎসব ঋতুর বাইরে কোনো সপ্তাহের দিন শান্ত।"
   },
   "visit": {
-    "timings": "Typically open daily from early morning, around 6 am, until about 8 pm; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered. Footwear is left outside before climbing to the shrine.",
-    "photography": "Photography is generally permitted in the courtyard and on the hill but not inside the sanctum. Ask temple staff before photographing rituals, priests or other devotees.",
-    "gettingThere": "The temple is on Mangalagauri hill in Gaya, Bihar, close to the Falgu river and the town centre. Gaya Junction is the main railway station, and Gaya International Airport is the nearest airport. Taxis and local transport serve the hill, which has a motorable road as well as a flight of steps."
+    "timings": "সাধারণত প্রতিদিন ভোরে, প্রায় সকাল ৬টা থেকে, রাত ৮টা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা। মন্দিরে ওঠার আগে বাইরে জুতা রেখে যেতে হয়।",
+    "photography": "প্রাঙ্গণে ও পাহাড়ে সাধারণত আলোকচিত্র তোলার অনুমতি আছে তবে গর্ভগৃহের ভেতরে নয়। পূজা, পুরোহিত বা অন্য ভক্তদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি বিহারের গয়ায় মঙ্গলাগৌরী পাহাড়ে, ফল্গু নদী ও শহরকেন্দ্রের কাছে অবস্থিত। গয়া জংশন প্রধান রেলস্টেশন, এবং গয়া আন্তর্জাতিক বিমানবন্দর নিকটতম বিমানবন্দর। ট্যাক্সি ও স্থানীয় যানবাহন পাহাড়ে চলে, যেখানে একটি সিঁড়ির সারির পাশাপাশি একটি যানবাহনযোগ্য সড়কও রয়েছে।"
   }
 }

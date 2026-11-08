@@ -1,30 +1,37 @@
 {
   "id": "deepaprakasa-thiruthanka",
   "locale": "bn",
+  "name": "দীপপ্রকাশ পেরুমাল মন্দির, তূপ্পুল",
   "nativeName": "தீபப்பிரகாசர் கோயில், திருத்தண்கா (தூப்புல்)",
+  "deity": "দীপপ্রকাশ রূপে বিষ্ণু — বিলক্কোলি পেরুমাল, প্রদীপের দীপ্তির প্রভু — দেবী মরগতবল্লীর সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thoopul, Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "তূপ্পুল, কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.824,
     "lng": 79.706
   },
+  "period": "কাঞ্চিপুরমের তোণ্ডৈ নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে প্রশংসিত; বেদান্ত দেশিকের জন্মস্থান",
   "century": 8,
+  "dynasty": "তোণ্ডৈ অঞ্চল (কাঞ্চিপুরম), পরবর্তী সংযোজন-সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "কাঞ্চিপুরমের তূপ্পুলে বিষ্ণু দীপপ্রকাশ রূপে উদ্ভাসিত হন, প্রদীপের দীপ্তির প্রভু — তোণ্ডৈ নাড়ুর একটি দিব্য দেশম এবং মহান আচার্য বেদান্ত দেশিকের জন্মস্থান, যাঁর মন্দির এর ভিতরে দাঁড়িয়ে আছে।",
   "sections": {
-    "history": "Thiruthanka, the Divya Desam at Thoopul in Kanchipuram, is one of the 108 Divya Desams and one of the fourteen in the city, in the heart of Thondai Nadu. Its Lord is Deepaprakasa — in Tamil, Vilakkoli Perumal, the radiance of the lamp — and the shrine is praised in the Nalayira Divya Prabandham; tradition credits its hymn to Thirumangai Alvar. Thoopul holds a further, special honour: it is the birthplace of Vedanta Desika, the poet-philosopher born here in 1268 who became one of the foremost teachers of Sri Vaishnavism, so that he is remembered as Thoopul Vedanta Desikan. A shrine to Desika stands within the temple, and devotees of his lineage come here as to a home.",
-    "architecture": "A compact temple in the Dravidian manner of Kanchipuram, entered through a gateway tower into a court that gathers three centres of devotion: the sanctum of Deepaprakasa, the shrine of the Goddess Maragathavalli, and the shrine of Vedanta Desika, honoured within the temple of his birthplace. Pillared halls lead to the sanctum, where lamps fittingly frame the Lord whose very name is light.",
-    "legends": "The Lord's name tells his story: Deepaprakasa, the light of the lamp. Kanchi's sthala tradition, as commonly told, sets the shrine in the cycle of Brahma's great sacrifice — when darkness was sent to engulf the world and halt the rite, Vishnu shone forth as a radiant lamp and the sacrifice went on. For devotees the image also carries a second light: that of Vedanta Desika, born beside this temple, whose teaching lit the path of the tradition.",
-    "festivals": "The birth-star of Vedanta Desika in the month of Purattasi (September–October) is the season of greatest devotion at his birthplace. The temple also keeps the Vaishnava year of Kanchipuram — Vaikunta Ekadashi in Margazhi and the annual festival of the presiding Lord. Confirm festival dates locally.",
-    "experience": "Come to light a lamp before Vilakkoli Perumal, the Lord of light, and then stand before Vedanta Desika in the place where he was born. Students and followers of Desika's teaching make this a quiet pilgrimage of gratitude. It fits naturally into a day among Kanchipuram's many Divya Desams."
+    "history": "তিরুত্তঙ্কা, কাঞ্চিপুরমের তূপ্পুলে অবস্থিত দিব্য দেশম, ১০৮টি দিব্য দেশমের একটি এবং শহরের চোদ্দটির মধ্যে একটি, তোণ্ডৈ নাড়ুর কেন্দ্রে। এর প্রভু দীপপ্রকাশ — তামিলে বিলক্কোলি পেরুমাল, প্রদীপের দীপ্তি — এবং মন্দিরটি নালায়িরা দিব্য প্রবন্ধমে প্রশংসিত; প্রথা এর স্তোত্রের কৃতিত্ব তিরুমঙ্গৈ আড়বারকে দেয়। তূপ্পুল আরও একটি বিশেষ সম্মান ধারণ করে: এটি বেদান্ত দেশিকের জন্মস্থান, সেই কবি-দার্শনিক যিনি ১২৬৮ সালে এখানে জন্মগ্রহণ করে শ্রীবৈষ্ণবধর্মের অন্যতম প্রধান শিক্ষক হয়ে ওঠেন, যাতে তিনি তূপ্পুল বেদান্ত দেশিকন রূপে স্মরিত হন। দেশিকের একটি মন্দির মন্দিরের ভিতরে দাঁড়িয়ে আছে, এবং তাঁর পরম্পরার ভক্তরা এখানে যেন নিজের ঘরে আসেন।",
+    "architecture": "কাঞ্চিপুরমের দ্রাবিড় রীতিতে একটি সুসংহত মন্দির, একটি তোরণ-চূড়া দিয়ে একটি প্রাঙ্গণে প্রবেশ করা যায় যা ভক্তির তিনটি কেন্দ্র একত্র করে: দীপপ্রকাশের গর্ভগৃহ, দেবী মরগতবল্লীর মন্দির, এবং বেদান্ত দেশিকের মন্দির, তাঁর জন্মস্থানের মন্দিরের ভিতরে সম্মানিত। স্তম্ভযুক্ত মণ্ডপ গর্ভগৃহের দিকে নিয়ে যায়, যেখানে প্রদীপ যথোচিতভাবে সেই প্রভুকে ঘিরে রাখে যাঁর নামই আলো।",
+    "legends": "প্রভুর নাম তাঁর কাহিনি বলে: দীপপ্রকাশ, প্রদীপের আলো। কাঞ্চির স্থল প্রথা, সচরাচর যেভাবে বলা হয়, মন্দিরটিকে ব্রহ্মার মহাযজ্ঞের চক্রে স্থাপন করে — যখন অন্ধকার জগৎকে গ্রাস করতে এবং যজ্ঞ থামাতে প্রেরিত হয়েছিল, বিষ্ণু একটি দীপ্তিময় প্রদীপ রূপে উদ্ভাসিত হন এবং যজ্ঞ এগিয়ে যায়। ভক্তদের কাছে মূর্তিটি দ্বিতীয় একটি আলোও বহন করে: বেদান্ত দেশিকের, যিনি এই মন্দিরের পাশে জন্মগ্রহণ করে তাঁর শিক্ষা দিয়ে প্রথার পথ আলোকিত করেছিলেন।",
+    "festivals": "পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) বেদান্ত দেশিকের জন্মনক্ষত্র তাঁর জন্মস্থানে সর্বাধিক ভক্তির ঋতু। মন্দির কাঞ্চিপুরমের বৈষ্ণব বছরও পালন করে — মার্গড়িতে বৈকুণ্ঠ একাদশী এবং অধিষ্ঠাতা প্রভুর বার্ষিক উৎসব। উৎসবের তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "আলোর প্রভু বিলক্কোলি পেরুমালের সম্মুখে একটি প্রদীপ জ্বালাতে আসুন, এবং তারপর বেদান্ত দেশিক যেখানে জন্মেছিলেন সেই স্থানে তাঁর সম্মুখে দাঁড়ান। দেশিকের শিক্ষার ছাত্র ও অনুসারীরা একে কৃতজ্ঞতার এক শান্ত তীর্থযাত্রা করে তোলেন। এটি কাঞ্চিপুরমের বহু দিব্য দেশমের মধ্যে একটি দিনে স্বাভাবিকভাবে মিশে যায়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Purattasi festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies within Kanchipuram town, which has a railway station and is reached by road from Chennai (around 70 km); Chennai has the nearest major airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বে এবং দুপুরে বন্ধ রেখে খোলা থাকে; পুরট্টাসি উৎসবের দিনে সবচেয়ে বেশি ভিড় হয়। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে ও আশেপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "এটি কাঞ্চিপুরম শহরের মধ্যে অবস্থিত, যেখানে একটি রেলস্টেশন আছে এবং চেন্নাই থেকে সড়কপথে (প্রায় ৭০ কিমি) পৌঁছানো যায়; চেন্নাইয়ে নিকটতম প্রধান বিমানবন্দর।"
   }
 }

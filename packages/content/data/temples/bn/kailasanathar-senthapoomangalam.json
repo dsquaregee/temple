@@ -1,29 +1,36 @@
 {
   "id": "kailasanathar-senthapoomangalam",
   "locale": "bn",
+  "name": "কৈলাসনাথর মন্দির, সেন্তপূমঙ্গলম",
   "nativeName": "கைலாசநாதர் கோயில், சேர்ந்தபூமங்கலம்",
+  "deity": "শিব কৈলাসনাথর রূপে, দেবী সৌন্দর নায়কী-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Senthapoomangalam",
-    "state": "Tamil Nadu",
+    "city": "সেন্তপূমঙ্গলম",
+    "state": "তামিলনাড়ু",
     "lat": 8.611,
     "lng": 78.101
   },
+  "period": "নব কৈলাসমের নবম ও শেষটি, শুক্রের মন্দির; তাম্রপর্ণীর মোহনার কাছে এক পাণ্ড্য যুগের মন্দির",
   "century": 13,
+  "dynasty": "পাণ্ড্য",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "আতুরের কাছে, যেখানে তাম্রপর্ণী সমুদ্রে তার যাত্রা শেষ করে, শিব কৈলাসনাথর রূপে সেন্তপূমঙ্গলমে নব কৈলাসমের নবম ও শেষটি রক্ষা করেন—শুক্রন, শুক্র গ্রহের মন্দির।",
   "sections": {
-    "history": "Senthapoomangalam, also written Serndhapoomangalam, is a village about two kilometres east of Athur on the Thoothukudi–Tiruchendur road, close to the point where the Tamiraparani, having risen in the Pothigai hills, meets the sea at Punnakayal. Its Kailasanathar temple closes the Nava Kailasam as the ninth shrine and the seat of Sukran, the planet Venus. Who built it is not certain. The temple has separate shrines for Chokkanathar and Meenakshi, the deities of Madurai, which has led to the suggestion that it was raised by a Madurai Pandya — a Kulasekhara Pandya, or Maravarman Sundara Pandya I in the thirteenth century.",
-    "architecture": "The temple is entered by two gateways rather than one, an unusual plan for a village shrine. Within are the sanctum of Kailasanathar and the shrine of the Goddess Soundara Nayaki, along with the Madurai pair of Chokkanathar and Meenakshi in their own shrines. A Navagraha mandapam honours the nine planets, Sukran foremost among them here. The temple tank is the Thamira Pushkarani, and the vilvam, the bael tree sacred to Shiva, is the sthala vriksham.",
-    "legends": "In the Nava Kailasam story, Romasa, the disciple of Agastya, set nine lotuses afloat on the Tamiraparani, and the ninth and last drifted almost to the sea before it came to rest here, completing the chain of nine shrines. The village's name is popularly read as a memory of that moment — serndha poo, \"where the flower arrived\". As the shrine of Sukran, the planet of beauty, comfort and harmony in marriage, it is visited by those seeking relief from an afflicted Venus in their horoscopes.",
-    "festivals": "Devotees offer white cloth and white lotuses to Sukran in the Navagraha mandapam, especially on Fridays, the day of Venus. Special worship is held on the new-moon days of the Tamil months of Aadi and Thai, on the monthly pradosham and on Maha Shivaratri. Confirm dates locally.",
-    "experience": "Reaching Senthapoomangalam means reaching the end of the river's pilgrimage: the Tamiraparani that began the circuit at Papanasam in the hills is here broad and slow, a few kilometres from the sea. Many pilgrims time their round so that this last shrine, with its offering of white lotuses, closes the journey."
+    "history": "সেন্তপূমঙ্গলম, সেরন্দপূমঙ্গলমও লেখা হয়, তুতিকোরিন–তিরুচেন্দুর সড়কে আতুরের প্রায় দুই কিলোমিটার পূর্বে এক গ্রাম, যে বিন্দুর কাছে পোতিগৈ পাহাড়ে উৎপন্ন তাম্রপর্ণী পুন্নাকায়লে সমুদ্রে মেশে, তার কাছে। এর কৈলাসনাথর মন্দির নব কৈলাসমকে নবম মন্দির ও শুক্রন, শুক্র গ্রহের আসন হিসেবে সমাপ্ত করে। কে এটি নির্মাণ করেছিলেন তা নিশ্চিত নয়। মন্দিরে মাদুরাইয়ের দেবতা চোক্কনাথর ও মীনাক্ষীর পৃথক মন্দির আছে, যা পরামর্শ দিয়েছে যে এটি এক মাদুরাই পাণ্ড্য—এক কুলশেখর পাণ্ড্য, বা ত্রয়োদশ শতকে প্রথম মারবর্মন সুন্দর পাণ্ড্য—কর্তৃক নির্মিত হয়েছিল।",
+    "architecture": "মন্দিরে একটির বদলে দুটি দ্বার দিয়ে প্রবেশ করা হয়, এক গ্রাম মন্দিরের জন্য এক অস্বাভাবিক পরিকল্পনা। ভিতরে কৈলাসনাথরের গর্ভগৃহ ও দেবী সৌন্দর নায়কীর মন্দির, সেইসঙ্গে মাদুরাই যুগল চোক্কনাথর ও মীনাক্ষী তাদের নিজস্ব মন্দিরে। এক নবগ্রহ মণ্ডপম নয় গ্রহকে সম্মান করে, এখানে শুক্রন তাদের মধ্যে অগ্রগণ্য। মন্দির পুষ্করিণী হল তাম্র পুষ্করিণী, এবং বিল্ব, শিবের উদ্দেশে পবিত্র বেল গাছ, হল স্থল বৃক্ষ।",
+    "legends": "নব কৈলাসম কাহিনীতে, অগস্ত্যের শিষ্য রোমশ তাম্রপর্ণীতে নয়টি পদ্ম ভাসিয়েছিলেন, এবং নবম ও শেষটি এখানে থামার আগে প্রায় সমুদ্র পর্যন্ত ভেসে গিয়েছিল, নয়টি মন্দিরের শৃঙ্খল সম্পূর্ণ করে। গ্রামের নাম জনপ্রিয়ভাবে সেই মুহূর্তের স্মৃতি হিসেবে পড়া হয়—সেরন্দ পূ, \"যেখানে ফুল এসে পৌঁছেছিল\"। শুক্রন, সৌন্দর্য, স্বাচ্ছন্দ্য ও বিবাহে সামঞ্জস্যের গ্রহের মন্দির হিসেবে, একে তাদের কোষ্ঠীতে পীড়িত শুক্র থেকে মুক্তি প্রার্থীরা পরিদর্শন করেন।",
+    "festivals": "ভক্তরা নবগ্রহ মণ্ডপমে শুক্রনকে শ্বেত বস্ত্র ও শ্বেত পদ্ম নিবেদন করেন, বিশেষত শুক্রবার, শুক্রের দিনে। তামিল মাস আড়ি ও তৈ-র অমাবস্যার দিনে, মাসিক প্রদোষমে ও মহা শিবরাত্রিতে বিশেষ উপাসনা অনুষ্ঠিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "সেন্তপূমঙ্গলমে পৌঁছানো মানে নদীর তীর্থের শেষে পৌঁছানো: যে তাম্রপর্ণী পাহাড়ে পাপনাসমে চক্র শুরু করেছিল তা এখানে প্রশস্ত ও মন্থর, সমুদ্র থেকে কয়েক কিলোমিটার দূরে। বহু তীর্থযাত্রী তাদের চক্র এমনভাবে সময় করেন যাতে এই শেষ মন্দির, শ্বেত পদ্মের নিবেদন সহ, যাত্রা সমাপ্ত করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Fridays are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Senthapoomangalam lies in Thoothukudi district about 2 km east of Athur on the Thoothukudi–Tiruchendur road, roughly 30 km south of Thoothukudi and a short drive north of Tiruchendur. Buses on that road stop at Athur. Tiruchendur and Thoothukudi have the nearest railway stations, and Thoothukudi the nearest airport."
+    "timings": "সকাল ও সন্ধ্যার দর্শন সেশন ও দুপুরে বন্ধ রেখে প্রতিদিন খোলা; শুক্রবার সবচেয়ে ব্যস্ত। পরিদর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খোলা। দক্ষিণের বহু মন্দিরের মতো পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সামনে ঊর্ধ্বাঙ্গের বস্ত্র খুলতে বলা হয়; প্রদর্শিত নিয়ম অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে ফটোগ্রাফি সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "সেন্তপূমঙ্গলম তুতিকোরিন জেলায় তুতিকোরিন–তিরুচেন্দুর সড়কে আতুরের প্রায় ২ কিমি পূর্বে, তুতিকোরিন থেকে মোটামুটি ৩০ কিমি দক্ষিণে ও তিরুচেন্দুরের অল্প উত্তরে অবস্থিত। সেই সড়কের বাস আতুরে থামে। তিরুচেন্দুর ও তুতিকোরিনে নিকটতম রেলস্টেশন, এবং তুতিকোরিন নিকটতম বিমানবন্দর।"
   }
 }

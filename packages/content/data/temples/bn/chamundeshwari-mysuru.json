@@ -1,31 +1,38 @@
 {
   "id": "chamundeshwari-mysuru",
   "locale": "bn",
+  "name": "চামুণ্ডেশ্বরী মন্দির, মহীশূর",
   "nativeName": "ಚಾಮುಂಡೇಶ್ವರಿ ದೇವಸ್ಥಾನ, ಮೈಸೂರು",
+  "deity": "দেবী চামুণ্ডেশ্বরী রূপে (দুর্গা, মহিষাসুর বধকারিণী)",
+  "tradition": "শাক্তধর্ম",
   "location": {
-    "city": "Mysuru",
-    "state": "Karnataka",
+    "city": "মহীশূর",
+    "state": "কর্ণাটক",
     "lat": 12.2724,
     "lng": 76.6737
   },
+  "period": "হোয়সল-যুগের উৎপত্তি; বিজয়নগর রাজা ও মহীশূরের ওয়াদিয়ারদের দ্বারা বিকশিত",
   "century": 12,
+  "dynasty": "হোয়সল, বিজয়নগর ও ওয়াদিয়ার",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "shakti-peethas-of-the-south",
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "মহীশূরের উপরে চামুণ্ডি পাহাড়ের শীর্ষে দেবী চামুণ্ডেশ্বরীর — মহিষাসুর বধকারিণী দুর্গার — এই মন্দিরটি একটি শক্তিপীঠ এবং পুরনো মহীশূর রাজপরিবারের ইষ্টদেবী।",
   "sections": {
-    "history": "The Chamundeshwari temple rises on the Chamundi Hill overlooking Mysuru, on a site sacred since early times and counted among the Shakti Peethas. The shrine grew from Hoysala-era origins and was enriched by the Vijayanagara kings, but it is above all bound to the Wadiyars of Mysore, who took Chamundeshwari as their family deity; the great seven-tiered gateway tower was raised by Krishnaraja Wadiyar III in the early nineteenth century. The goddess gives the city and region their identity, and her hill has drawn pilgrims up its long stair for centuries.",
-    "architecture": "The temple stands atop the Chamundi Hill, reached by road or by a stone stairway of around a thousand steps, along which pilgrims pause at the great monolithic Nandi carved partway up the slope. Its tall Dravidian gopuram, seven tiers high and richly figured, is the Wadiyar addition that crowns the approach. Within, the goddess Chamundeshwari is enshrined as the slayer of Mahishasura, and near the summit a large statue of the buffalo-demon recalls the myth that names the city. From the hilltop the whole of Mysuru and its palace spread out below.",
-    "legends": "Chamundeshwari is the form of Durga who destroyed the buffalo-demon Mahishasura after he had won a boon of near-invincibility and terrorised the worlds; from Mahisha the city takes its name, Mahishuru, Mysuru. As Chamunda, she is also remembered for slaying the demons Chanda and Munda, from whom her name derives. The hill is honoured as the ground of the goddess’s victory, and her triumph over the buffalo-demon is the very heart of the great autumn festival that the region keeps in her name.",
-    "festivals": "The Navaratri and Dasara festival is Chamundeshwari’s supreme occasion and the grandest festival of Karnataka — the historic Mysore Dasara, in which the goddess is honoured over ten days culminating in Vijayadashami, with the famous royal procession in the city below. The goddess is carried in procession and worshipped through the nights of Navaratri, and the hill is thronged. Ashada and Friday worship dear to the Devi, and the annual rituals of the former royal house, mark the temple’s year.",
-    "experience": "Whether climbed by the thousand steps or reached by the winding road, the Chamundi Hill rewards the ascent with cool air, the great Nandi along the way, and a wide view over Mysuru. At the summit the queue moves toward the goddess through the shadow of the tall gopuram, and the sense of standing at the region’s guardian shrine is strong, especially during Dasara when hill and city alike are alight. On ordinary mornings the hilltop is calm and green, the city a quiet spread below, the goddess close at hand."
+    "history": "চামুণ্ডেশ্বরী মন্দির মহীশূরের উপরে চামুণ্ডি পাহাড়ে উঠে দাঁড়িয়েছে, এমন একটি স্থানে যা প্রাচীনকাল থেকে পবিত্র এবং শক্তিপীঠগুলির মধ্যে গণ্য। মন্দিরটি হোয়সল-যুগের উৎপত্তি থেকে বিকশিত হয়ে বিজয়নগর রাজাদের দ্বারা সমৃদ্ধ হয়েছিল, তবে এটি সর্বোপরি মহীশূরের ওয়াদিয়ারদের সঙ্গে বাঁধা, যাঁরা চামুণ্ডেশ্বরীকে তাঁদের কুলদেবী রূপে গ্রহণ করেছিলেন; বিশাল সাত স্তরবিশিষ্ট তোরণ-চূড়াটি ঊনবিংশ শতাব্দীর গোড়ায় তৃতীয় কৃষ্ণরাজ ওয়াদিয়ার নির্মাণ করেছিলেন। দেবী শহর ও অঞ্চলকে তাদের পরিচয় দেন, এবং তাঁর পাহাড় শতাব্দী ধরে তীর্থযাত্রীদের তার দীর্ঘ সিঁড়ি বেয়ে টেনে এনেছে।",
+    "architecture": "মন্দিরটি চামুণ্ডি পাহাড়ের চূড়ায় দাঁড়িয়ে আছে, সড়কপথে বা প্রায় এক হাজার ধাপের একটি পাথরের সিঁড়ি বেয়ে পৌঁছানো যায়, যে পথে তীর্থযাত্রীরা ঢালের মাঝপথে খোদিত বিশাল একশিলা নন্দীর কাছে থামেন। এর উঁচু দ্রাবিড় গোপুরম, সাত স্তর উঁচু ও সমৃদ্ধভাবে মূর্তিখচিত, ওয়াদিয়ারের সংযোজন যা প্রবেশপথকে অলংকৃত করে। ভিতরে দেবী চামুণ্ডেশ্বরী মহিষাসুর বধকারিণী রূপে প্রতিষ্ঠিত, এবং শিখরের কাছে মহিষাসুরের একটি বিশাল মূর্তি সেই পুরাণকথা স্মরণ করায় যা শহরের নামকরণ করে। পাহাড়ের চূড়া থেকে সমগ্র মহীশূর ও তার প্রাসাদ নিচে বিস্তৃত দেখা যায়।",
+    "legends": "চামুণ্ডেশ্বরী হলেন দুর্গার সেই রূপ যিনি মহিষাসুরকে ধ্বংস করেছিলেন, যে এক প্রায়-অজেয়তার বর লাভ করে জগৎকে ত্রাসিত করেছিল; মহিষ থেকেই শহরটি তার নাম পায়, মহিষূর, মহীশূর। চামুণ্ডা রূপে তিনি চণ্ড ও মুণ্ড নামের অসুরদের বধের জন্যও স্মরিত, যাদের থেকে তাঁর নাম উদ্ভূত। পাহাড়টি দেবীর বিজয়ভূমি হিসেবে সম্মানিত, এবং মহিষাসুরের উপর তাঁর জয়ই সেই মহান শরৎ উৎসবের মর্মকেন্দ্র যা অঞ্চলটি তাঁর নামে পালন করে।",
+    "festivals": "নবরাত্রি ও দশেরা উৎসব চামুণ্ডেশ্বরীর সর্বোচ্চ উপলক্ষ এবং কর্ণাটকের সবচেয়ে জমকালো উৎসব — ঐতিহাসিক মহীশূর দশেরা, যেখানে দেবী দশ দিন ধরে সম্মানিত হন এবং বিজয়াদশমীতে এর পরিসমাপ্তি ঘটে, নিচের শহরে বিখ্যাত রাজকীয় শোভাযাত্রা-সহ। নবরাত্রির রাতগুলিতে দেবীকে শোভাযাত্রায় বহন করে পূজা করা হয়, এবং পাহাড় জনাকীর্ণ হয়ে ওঠে। দেবীর প্রিয় আষাঢ় ও শুক্রবারের পূজা, এবং সাবেক রাজপরিবারের বার্ষিক আচার, মন্দিরের বছরকে চিহ্নিত করে।",
+    "experience": "হাজার ধাপ বেয়ে উঠুন বা আঁকাবাঁকা সড়কে পৌঁছান, চামুণ্ডি পাহাড় আরোহণকে শীতল বাতাস, পথের ধারে বিশাল নন্দী এবং মহীশূরের উপর বিস্তৃত দৃশ্য দিয়ে পুরস্কৃত করে। চূড়ায় সারি উঁচু গোপুরমের ছায়ার মধ্য দিয়ে দেবীর দিকে এগোয়, এবং অঞ্চলের রক্ষাকর্ত্রী মন্দিরে দাঁড়ানোর অনুভূতি প্রবল, বিশেষত দশেরার সময় যখন পাহাড় ও শহর উভয়ই আলোকিত। সাধারণ সকালে পাহাড়ের চূড়া শান্ত ও সবুজ, শহর নিচে নিস্তব্ধভাবে বিস্তৃত, দেবী নিকটে।"
   },
   "visit": {
-    "timings": "Generally open from around 7:30 am to 2:00 pm and 3:30 pm to 9:00 pm daily, with a break; hours extend greatly during Navaratri and Dasara.",
-    "dressCode": "Modest traditional dress is appreciated, with shoulders and knees covered; footwear is removed at the temple.",
-    "photography": "Photography is generally not permitted inside the sanctum; follow posted rules and staff guidance.",
-    "gettingThere": "Chamundi Hill is about 13 km from central Mysuru, reached by road or the stone stairway; Mysuru has a railway junction and an airport, and Bengaluru’s larger airport is about 170 km away."
+    "timings": "সাধারণত প্রতিদিন সকাল প্রায় ৭:৩০ থেকে দুপুর ২:০০ এবং বিকেল ৩:৩০ থেকে রাত ৯:০০ পর্যন্ত, একটি বিরতি-সহ খোলা থাকে; নবরাত্রি ও দশেরার সময় সময়সীমা অনেকটা বাড়ানো হয়।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক সমাদৃত, কাঁধ ও হাঁটু ঢাকা থাকা উচিত; মন্দিরে জুতো খুলে রাখতে হয়।",
+    "photography": "গর্ভগৃহের ভিতরে সাধারণত ছবি তোলার অনুমতি নেই; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "চামুণ্ডি পাহাড় মহীশূরের কেন্দ্র থেকে প্রায় ১৩ কিমি দূরে, সড়কপথে বা পাথরের সিঁড়ি বেয়ে পৌঁছানো যায়; মহীশূরে একটি রেল জংশন ও একটি বিমানবন্দর আছে, এবং বেঙ্গালুরুর বৃহত্তর বিমানবন্দর প্রায় ১৭০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/chamundeshwari-mysuru.jpg",

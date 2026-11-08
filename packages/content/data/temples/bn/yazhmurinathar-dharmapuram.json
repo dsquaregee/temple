@@ -1,29 +1,36 @@
 {
   "id": "yazhmurinathar-dharmapuram",
   "locale": "bn",
+  "name": "যাল়মূরিনাথর মন্দির, তরুমপুরম",
   "nativeName": "தருமபுரம் யாழ்மூரிநாதர் கோயில்",
+  "deity": "শিব যাল়মূরিনাথর রূপে (যাল়ের প্রভু)",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, তিরুজ্ঞানসম্বন্দর কীর্তিত",
   "location": {
-    "city": "Dharmapuram, near Karaikal",
-    "state": "Puducherry (Karaikal region)",
+    "city": "তরুমপুরম, কারাইকলের নিকটে",
+    "state": "পুদুচেরি (কারাইকল অঞ্চল)",
     "lat": 10.9167,
     "lng": 79.8333
   },
+  "period": "তেবারম যুগ, চোল-যুগের গঠনসহ",
   "century": 7,
+  "dynasty": "চোল (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কারাইকলের নিকটে তরুমপুরম শিবকে যাল়মূরিনাথর রূপে সম্মান করে — যাল়ের প্রভু, প্রাচীন তামিল বীণা। তিরুজ্ঞান সম্বন্দর কীর্তিত একটি পাডল পেট্র স্থলম, মন্দিরটি তিরু নীলকণ্ঠ যাল়পাণরের স্মৃতি বহন করে, সেই মহান যাল়-বাদক যাঁর পরিবার এখান থেকে এসেছিল এবং যিনি সম্বন্দরের স্তোত্রে সুর দিয়েছিলেন। বিখ্যাত যাল় মুরি পতিগম — সেই স্তোত্র এত সুন্দর যে বাদক তার সঙ্গে মিলাতে না পেরে বীণা ভেঙে ফেলতে চেয়েছিলেন — এই তীর্থকে তামিল শৈব ভক্তির অন্যতম মর্মস্পর্শী পর্বের সঙ্গে বেঁধে রাখে।",
   "sections": {
-    "history": "Dharmapuram, near Karaikal in the Kaveri delta, is an ancient Shaiva village hymned in the seventh-century Tevaram by Sambandar and counted among the Paadal Petra Sthalams. The stone temple is of the Chola period with later additions. Its great distinction is its link to Tiru Neelakanta Yazhpanar, one of the sixty-three Nayanmars and the foremost yazh-player of the Tevaram age, whose family belonged to this place and who travelled with Sambandar, rendering the saint's hymns on his lute.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Yazhmoorinathar. Its iconography and tradition keep alive the music of the yazh and the memory of Yazhpanar, so that the shrine is cherished as much by lovers of Tamil music and the Tevaram as by local devotees. The name of the lord, Yazhmoorinathar, keeps the instrument at the heart of the temple's identity.",
-    "legends": "The temple's defining tradition is the Yazh Muri Pathigam. Tiru Neelakanta Yazhpanar accompanied Sambandar on his yazh; but when Sambandar sang a hymn on Ganesha whose depth the yazh could not fully capture, the player, unwilling to offer anything less than the hymn deserved, resolved to break his beloved instrument — and was gently stopped, the saint affirming that his music was worthy. A second tradition ties the lord's name to Yama, who worshipped here after the Markandeya episode and was told his curse would in time be lifted; and another recalls Yudhishtira worshipping here in the Pandavas' exile.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. The association with Yazhpanar gives the days honouring the Nayanmars a special resonance, and the temple is remembered wherever the story of the yazh and the Tevaram is told.",
-    "experience": "Dharmapuram offers the pilgrim a temple bound to music and devotion — the place of the great yazh-player who would break his lute rather than fall short of a hymn. The darshan of Yazhmoorinathar carries this sense of art offered wholly to the divine, and for lovers of the Tevaram it is a shrine of particular tenderness."
+    "history": "কাবেরী ব-দ্বীপে কারাইকলের নিকটে তরুমপুরম এক প্রাচীন শৈব গ্রাম, সপ্তম শতকের তেবারমে সম্বন্দর কীর্তিত এবং পাডল পেট্র স্থলমগুলির অন্যতম। প্রস্তর মন্দিরটি চোল-যুগের, পরবর্তী সংযোজনসহ। এর মহৎ বৈশিষ্ট্য তিরু নীলকণ্ঠ যাল়পাণরের সঙ্গে এর সংযোগ, যিনি তেষট্টি নায়নমারের একজন এবং তেবারম যুগের শ্রেষ্ঠ যাল়-বাদক, যাঁর পরিবার এই স্থানের অন্তর্গত এবং যিনি সম্বন্দরের সঙ্গে ভ্রমণ করে সন্তের স্তোত্র তাঁর বীণায় বাজাতেন।",
+    "architecture": "মন্দিরটি দ্রাবিড় পরিকল্পনা অনুসরণ করে গোপুরম, প্রাকার ও যাল়মূরিনাথরের গর্ভগৃহসহ। এর মূর্তিতত্ত্ব ও ঐতিহ্য যাল়ের সংগীত এবং যাল়পাণরের স্মৃতি জীবিত রাখে, তাই তীর্থটি স্থানীয় ভক্তদের মতোই তামিল সংগীত ও তেবারমের প্রেমিকদের কাছেও সমাদৃত। প্রভুর নাম যাল়মূরিনাথর যন্ত্রটিকে মন্দিরের পরিচয়ের কেন্দ্রে রাখে।",
+    "legends": "মন্দিরের সংজ্ঞায়ক ঐতিহ্য যাল় মুরি পতিগম। তিরু নীলকণ্ঠ যাল়পাণর তাঁর যাল়ে সম্বন্দরের সঙ্গে সঙ্গত করতেন; কিন্তু যখন সম্বন্দর গণেশের উপর এমন এক স্তোত্র গাইলেন যার গভীরতা যাল় সম্পূর্ণ ধরতে পারল না, বাদক, স্তোত্রের যোগ্য কিছুর কম অর্পণে অনিচ্ছুক হয়ে, তাঁর প্রিয় যন্ত্র ভেঙে ফেলার সংকল্প করলেন — এবং আলতো করে থামানো হল, সন্ত নিশ্চিত করলেন যে তাঁর সংগীত যোগ্য। দ্বিতীয় ঐতিহ্য প্রভুর নামকে যমের সঙ্গে বাঁধে, যিনি মার্কণ্ডেয় পর্বের পর এখানে পূজা করেছিলেন এবং তাঁকে বলা হয়েছিল যে তাঁর অভিশাপ সময়ে মুক্ত হবে; এবং আর একটি ঐতিহ্য পাণ্ডবদের বনবাসে যুধিষ্ঠিরের এখানে পূজার স্মৃতি রাখে।",
+    "festivals": "মন্দিরটি শৈব উৎসব পঞ্জিকা পালন করে — মহাশিবরাত্রি, প্রদোষম, মার্গল়ি ঋতু ও বার্ষিক ব্রহ্মোৎসব। যাল়পাণরের সঙ্গে সংযোগ নায়নমারদের সম্মানার্থ দিনগুলিকে এক বিশেষ অনুরণন দেয়, এবং যেখানেই যাল় ও তেবারমের কাহিনি বলা হয় সেখানেই মন্দিরটি স্মরিত হয়।",
+    "experience": "তরুমপুরম তীর্থযাত্রীকে সংগীত ও ভক্তিতে বাঁধা এক মন্দির দেয় — সেই মহান যাল়-বাদকের স্থান যিনি স্তোত্রের কম না করে বরং তাঁর বীণা ভেঙে ফেলতেন। যাল়মূরিনাথরের দর্শন ঐশীর প্রতি সম্পূর্ণ অর্পিত শিল্পের এই অনুভূতি বহন করে, এবং তেবারমের প্রেমিকদের কাছে এটি বিশেষ কোমলতার এক তীর্থ।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Dharmapuram is near Karaikal (Puducherry), close to the Nagapattinam/Mayiladuthurai border, roughly 5-6 km from Karaikal town; the nearest rail heads are Karaikal and Nagore, with local buses and taxis to the temple."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার অপরাহ্ন থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের বারান্দায় সাধারণত ফটোগ্রাফির অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তরুমপুরম কারাইকলের (পুদুচেরি) নিকটে, নাগপট্টিনম/ময়িলাড়ুতুরৈ সীমান্তের কাছে, কারাইকল শহর থেকে আনুমানিক ৫-৬ কিমি; নিকটতম রেলপথ কারাইকল ও নাগোর, মন্দিরে স্থানীয় বাস ও ট্যাক্সিসহ।"
   }
 }

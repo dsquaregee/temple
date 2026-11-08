@@ -1,30 +1,37 @@
 {
   "id": "sringeri-sharada",
   "locale": "bn",
+  "name": "শারদাম্বা মন্দির, শৃঙ্গেরি",
   "nativeName": "ಶಾರದಾಂಬಾ ದೇವಸ್ಥಾನ, ಶೃಂಗೇರಿ",
+  "deity": "দেবী শারদাম্বা, শারদা (সরস্বতী)-র রূপ, বিদ্যা ও প্রজ্ঞার দাত্রী",
+  "tradition": "অদ্বৈত (স্মার্ত), প্রবল শাক্ত কেন্দ্রভাব সহ — দক্ষিণাম্নায় শারদা পীঠম",
   "location": {
-    "city": "Sringeri",
-    "state": "Karnataka",
+    "city": "শৃঙ্গেরি",
+    "state": "কর্ণাটক",
     "lat": 13.4177,
     "lng": 75.2529
   },
+  "period": "অষ্টম শতকে আদি শঙ্করাচার্য কর্তৃক প্রতিষ্ঠিত; বিদ্যাশঙ্কর মন্দির চতুর্দশ শতকে নির্মিত",
   "century": 8,
+  "dynasty": "আদি শঙ্কর কর্তৃক প্রতিষ্ঠিত; বিজয়নগর পৃষ্ঠপোষকতায় বিকশিত",
+  "style": "দ্রাবিড়, বিদ্যাশঙ্কর মন্দিরে হোয়সল ও দ্রাবিড় রীতির মিশ্রণ সহ",
   "unesco": false,
   "circuits": [
     "temples-of-coastal-karnataka"
   ],
+  "summary": "তুঙ্গা নদীর তীরে দেবী শারদা সেই দক্ষিণ আসনে অধিষ্ঠান করেন যা প্রথা অনুসারে স্বয়ং আদি শঙ্কর প্রতিষ্ঠা করেছিলেন — এমন এক মন্দির-নগর যা একাধারে বিদ্যার পীঠ ও অদ্বৈত আচার্যদের এক অবিচ্ছিন্ন পরম্পরার শীর্ষ।",
   "sections": {
-    "history": "Sringeri is revered as the first of the four cardinal seats — the amnaya peethams — that Adi Shankaracharya is said to have established in the eighth century to guard the teaching of Advaita, the philosophy of non-duality. Set on the banks of the Tunga in the Western Ghats, it became the Dakshinamnaya, the southern seat, and the head of a lineage of Jagadgurus that continues unbroken to the present. Tradition holds that Shankara installed here an image of Sharada, the goddess of learning, and appointed his disciple as the first pontiff. Over the centuries Sringeri drew the patronage of the Vijayanagara empire — whose very founding sages, Vidyaranya among them, are tied to this seat — and grew into one of the foremost centres of Sanskrit learning and Vedic scholarship in India, a role it holds to this day.",
-    "architecture": "Two temples define Sringeri. The Sharadamba temple enshrines the goddess Sharada, worshipped as the giver of knowledge; the sandalwood image that tradition attributes to Shankara was in later centuries replaced by a golden image, set in a shrine of quiet dignity beside the river. Close by stands the Vidyashankara temple, one of the most remarkable monuments of southern India, built in the fourteenth century under Vijayanagara. It fuses the Hoysala and Dravidian styles, and its hall is carried on twelve carved pillars — the raashi stambhas — arranged so that the rising sun falls on the pillar of the zodiac sign of each month, a feat of astronomical design worked into sacred stone. Together the shrines, the ghats descending to the Tunga, and the surrounding matha make Sringeri a temple town shaped equally by worship and by learning.",
-    "legends": "The founding legend of Sringeri is among the gentlest in Indian tradition. Adi Shankara, wandering in search of a place to establish his seat, is said to have come upon a cobra spreading its hood to shelter a frog in labour from the midday sun on the bank of the Tunga. Reading in this the natural harmony of the place — where even sworn enemies set enmity aside — he chose it for his southern seat. The name Sringeri is linked to the nearby hill of the sage Rishyashringa. The Tunga's waters are held so pure that a saying couples them with the Ganga's for bathing; and the goddess Sharada, seated with her book and her vina, makes the town a place pilgrims come to seek not wealth but wisdom, blessing children at the start of their learning.",
-    "festivals": "Navaratri is the supreme festival of Sringeri, when the goddess Sharada is worshipped through nine nights with music, procession, and scholarly assembly, culminating on Vijayadashami — an especially auspicious day here for beginning a child's education. Shankara Jayanti, marking the birth of Adi Shankara, is central to the seat's calendar, as are the Rathotsava car festival and Vasantotsava in spring. Throughout the year the daily worship of Sharada and the teaching and debate of the matha carry on, so that the festivals crown a life of continuous learning rather than interrupting it.",
-    "experience": "Sringeri rewards an unhurried visit. The setting in the wooded Western Ghats, the Tunga flowing clear past the ghats where tame fish gather, and the calm of the matha give the town an atmosphere of study and repose. Take darshan of Sharadamba, seek out the Vidyashankara temple and stand among its zodiac pillars, and sit a while by the river. Sringeri pairs naturally with the temple towns and coffee country of Chikkamagaluru district, and lies within reach of Udupi and the Karnataka coast, making it a fitting stop on a journey through the sacred and scholarly heart of the region."
+    "history": "শৃঙ্গেরি সেই চারটি প্রধান আসন — আম্নায় পীঠম — এর প্রথম রূপে পূজিত, যা আদি শঙ্করাচার্য অদ্বৈত, অদ্বৈতবাদের দর্শনের শিক্ষা রক্ষার জন্য অষ্টম শতকে প্রতিষ্ঠা করেছিলেন বলে কথিত। পশ্চিমঘাটে তুঙ্গার তীরে অবস্থিত, এটি হয়ে ওঠে দক্ষিণাম্নায়, দক্ষিণের আসন, এবং জগদ্গুরুদের এক পরম্পরার শীর্ষ যা আজ পর্যন্ত অবিচ্ছিন্নভাবে চলছে। প্রথা বলে, শঙ্কর এখানে বিদ্যার দেবী শারদার এক মূর্তি প্রতিষ্ঠা করেছিলেন এবং তাঁর শিষ্যকে প্রথম পীঠাধিপতি নিযুক্ত করেছিলেন। শতাব্দীর পর শতাব্দী ধরে শৃঙ্গেরি বিজয়নগর সাম্রাজ্যের পৃষ্ঠপোষকতা লাভ করে — যার প্রতিষ্ঠাতা ঋষিগণ, যাঁদের মধ্যে বিদ্যারণ্য অন্যতম, এই আসনের সঙ্গে যুক্ত — এবং ভারতের সংস্কৃত শিক্ষা ও বৈদিক পাণ্ডিত্যের অন্যতম অগ্রণী কেন্দ্রে পরিণত হয়, যে ভূমিকা আজও অটুট।",
+    "architecture": "দুটি মন্দির শৃঙ্গেরিকে সংজ্ঞায়িত করে। শারদাম্বা মন্দিরে জ্ঞানদাত্রী দেবী শারদা প্রতিষ্ঠিত; শঙ্করের কৃতিত্বে আরোপিত চন্দনকাঠের মূর্তিটি পরবর্তী শতাব্দীগুলিতে এক স্বর্ণমূর্তি দ্বারা প্রতিস্থাপিত হয়, যা নদীর ধারে শান্ত মর্যাদার এক পীঠে স্থাপিত। কাছেই দাঁড়িয়ে আছে বিদ্যাশঙ্কর মন্দির, দক্ষিণ ভারতের অন্যতম অসাধারণ স্মারক, বিজয়নগরের অধীনে চতুর্দশ শতকে নির্মিত। এটি হোয়সল ও দ্রাবিড় রীতিকে মিশ্রিত করে, এবং এর মণ্ডপ বারোটি খোদিত স্তম্ভের — রাশিস্তম্ভ — উপর ধৃত, এমনভাবে বিন্যস্ত যে উদীয়মান সূর্য প্রতি মাসের রাশিচিহ্নের স্তম্ভে পড়ে, এক জ্যোতির্বৈজ্ঞানিক নকশার কীর্তি যা পবিত্র পাথরে খোদিত। মন্দিরগুলি, তুঙ্গায় নামা ঘাট, এবং চারপাশের মঠ একসঙ্গে শৃঙ্গেরিকে এমন এক মন্দির-নগর করে তোলে যা সমানভাবে উপাসনা ও বিদ্যা দ্বারা গঠিত।",
+    "legends": "শৃঙ্গেরির প্রতিষ্ঠা-কিংবদন্তি ভারতীয় প্রথার অন্যতম কোমল। আদি শঙ্কর, তাঁর আসন প্রতিষ্ঠার স্থান খুঁজে ঘুরতে ঘুরতে, তুঙ্গার তীরে মধ্যাহ্নের রোদ থেকে প্রসবযন্ত্রণায় কাতর এক ব্যাঙকে আশ্রয় দিতে ফণা মেলে থাকা এক গোখরোকে দেখেছিলেন বলে কথিত। এতে স্থানের স্বাভাবিক সম্প্রীতি পাঠ করে — যেখানে পরম শত্রুরাও বৈরিতা ভুলে যায় — তিনি এটিকে তাঁর দক্ষিণের আসন হিসেবে বেছে নেন। শৃঙ্গেরি নামটি কাছের ঋষি ঋষ্যশৃঙ্গের পাহাড়ের সঙ্গে যুক্ত। তুঙ্গার জল এত বিশুদ্ধ গণ্য হয় যে এক প্রবাদ স্নানের জন্য একে গঙ্গার সঙ্গে যুক্ত করে; এবং পুস্তক ও বীণাসহ উপবিষ্ট দেবী শারদা এই নগরকে এমন এক স্থান করে তোলেন যেখানে তীর্থযাত্রীরা ধন নয়, বরং প্রজ্ঞা খুঁজতে আসেন, শিশুদের বিদ্যার সূচনায় আশীর্বাদ করে।",
+    "festivals": "নবরাত্রি শৃঙ্গেরির পরম উৎসব, যখন দেবী শারদা নয় রাত্রি ধরে সংগীত, শোভাযাত্রা ও পণ্ডিতসভা সহকারে পূজিত হন, বিজয়াদশমীতে পরিসমাপ্ত — এখানে শিশুর বিদ্যারম্ভের জন্য এক বিশেষ শুভ দিন। শঙ্কর জয়ন্তী, আদি শঙ্করের জন্ম উদযাপন করে, আসনের পঞ্জিকার কেন্দ্রীয়, যেমন রথোৎসব রথযাত্রা ও বসন্তে বসন্তোৎসব। সারা বছর ধরে শারদার দৈনিক উপাসনা এবং মঠের শিক্ষা ও তর্ক চলতে থাকে, যাতে উৎসবগুলি নিরন্তর বিদ্যার এক জীবনে বিঘ্ন না ঘটিয়ে বরং তার মুকুট হয়ে ওঠে।",
+    "experience": "শৃঙ্গেরি এক অবিচল সফরকে পুরস্কৃত করে। বনাকীর্ণ পশ্চিমঘাটে এর অবস্থান, ঘাটের পাশ দিয়ে স্বচ্ছ বয়ে চলা তুঙ্গা যেখানে পোষ-মানা মাছ জড়ো হয়, এবং মঠের প্রশান্তি নগরকে অধ্যয়ন ও বিশ্রামের এক আবহ দেয়। শারদাম্বার দর্শন নিন, বিদ্যাশঙ্কর মন্দির খুঁজে নিন ও তার রাশিস্তম্ভের মাঝে দাঁড়ান, এবং নদীর ধারে কিছুক্ষণ বসুন। শৃঙ্গেরি স্বাভাবিকভাবেই চিক্কমগলুরু জেলার মন্দির-নগর ও কফি-অঞ্চলের সঙ্গে মিলে যায়, এবং উডুপি ও কর্ণাটকের উপকূলের নাগালের মধ্যে, যা একে এই অঞ্চলের পবিত্র ও পাণ্ডিত্যময় হৃদয়ের মধ্য দিয়ে এক যাত্রার উপযুক্ত বিরতি করে তোলে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and worship sessions and a midday break; Navaratri and other festival days draw large crowds. Confirm current timings before travelling.",
-    "dressCode": "Modest, traditional dress is expected — shoulders and knees covered; remove footwear before entry. As a living seat of worship and learning, respectful conduct is asked of all visitors.",
-    "photography": "Photography is restricted within the shrines; follow posted rules and the instructions of temple staff, particularly around the sanctums.",
-    "gettingThere": "Sringeri is in the Western Ghats of Chikkamagaluru district, Karnataka, reached by road from Chikkamagaluru, Mangaluru, and Udupi; the nearest airport is at Mangaluru, and the nearest major railheads are on the coast and at Shivamogga. The temples lie together on the bank of the Tunga in the heart of the town."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন ও উপাসনা-অধিবেশন এবং মধ্যাহ্নে বিরতির সঙ্গে খোলা থাকে; নবরাত্রি ও অন্যান্য উৎসবের দিনগুলিতে প্রচুর ভিড় হয়। যাত্রার আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "বিনয়ী, ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলুন। উপাসনা ও বিদ্যার এক জীবন্ত আসন হিসেবে সকল দর্শনার্থীর কাছ থেকে শ্রদ্ধাশীল আচরণ প্রার্থিত।",
+    "photography": "মন্দিরগুলির অভ্যন্তরে আলোকচিত্র গ্রহণ সীমিত; প্রদর্শিত নিয়ম ও মন্দিরকর্মীদের নির্দেশ অনুসরণ করুন, বিশেষত গর্ভগৃহের চারপাশে।",
+    "gettingThere": "শৃঙ্গেরি কর্ণাটকের চিক্কমগলুরু জেলার পশ্চিমঘাটে, চিক্কমগলুরু, মাঙ্গালুরু ও উডুপি থেকে সড়কপথে পৌঁছানো যায়; নিকটতম বিমানবন্দর মাঙ্গালুরুতে, এবং নিকটতম প্রধান রেলস্টেশনগুলি উপকূলে ও শিবমোগ্গায়। মন্দিরগুলি নগরের কেন্দ্রে তুঙ্গার তীরে একত্রে অবস্থিত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sringeri-sharada.jpg",

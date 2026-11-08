@@ -1,35 +1,42 @@
 {
   "id": "trivikrama-thirukkovilur",
   "locale": "bn",
+  "name": "উলগলন্দ পেরুমাল মন্দির, তিরুক্কোইলুর",
   "nativeName": "உலகளந்த பெருமாள் கோயில், திருக்கோவிலூர்",
+  "deity": "বিষ্ণু উলগলন্দ পেরুমাল (ত্রিবিক্রম) রূপে, যিনি ত্রিভুবন মেপেছিলেন, দেবী পূঙ্গোদৈ (পুষ্পাবল্লী)-সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Tirukoilur",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কোইলুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.967,
     "lng": 79.202
   },
+  "period": "পেন্নৈ নদীতীরে নাড়ু নাড়ুর একটি দিব্যদেশম্, নালায়ির দিব্য প্রবন্ধম্-এ মুদল আলবার ও তিরুমঙ্গৈ আলবার কর্তৃক গীত",
   "century": 8,
+  "dynasty": "মধ্যযুগীয় চোল, বিজয়নগর ও মাদুরৈ নায়ক সংযোজন-সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "পেন্নৈ নদীতীরে তিরুক্কোইলুরে বিষ্ণু ত্রিবিক্রম রূপে দণ্ডায়মান, যিনি ত্রিভুবন মেপেছিলেন — এই সেই দিব্যদেশম্ যেখানে প্রথা অনুসারে এক বৃষ্টিমুখর রাতে প্রথম তিন আলবার মিলিত হয়েছিলেন এবং প্রবন্ধম্-এর সূচনা হয়েছিল।",
   "sections": {
-    "history": "Tirukoilur, on the Thenpennai river, is one of the 108 Divya Desams and among the most revered shrines of Nadu Nadu. Its place in Sri Vaishnava memory is unique: tradition holds that here the Lord revealed himself to Poigai, Bhoothath and Pey Alvar — the Mudhal Alvars, the first three of the twelve — and that here they sang the three Thiruvandhadhis that open the Nalayira Divya Prabandham. Thirumangai Alvar later praised the same Lord. The temple as it stands is believed to have been built by the Medieval Cholas, and the Vijayanagara kings and the Madurai Nayaks added to it in later centuries. Worship has continued through all these eras, and the town remains a centre of pilgrimage.",
-    "architecture": "The temple is announced from afar by its rajagopuram, which rises about 59 metres (192 feet) and is counted among the tallest temple towers in Tamil Nadu — by Wikipedia's reckoning the third tallest. Beyond it lie the enclosures and pillared halls of the Dravidian plan, with the sanctum of Trivikrama at the centre and the Goddess Poongothai in her own shrine. The presiding image shows the Lord in his giant striding form, one foot lifted to measure the heavens.",
-    "legends": "Two stories meet here. The first is that of Vamana: Vishnu came as a dwarf to King Mahabali, asked for three paces of land, and grew into Trivikrama, measuring earth and sky in two strides. The second belongs to the Alvars. On a night of storm, the sthala tradition tells, Poigai Alvar sheltered in a narrow passage, and Bhoothath and Pey Alvar came in after him, until the three stood pressed together — and felt a fourth among them. Poigai lit a lamp of verse with the earth as its bowl and the sea as its oil, Bhoothath with love as the lamp, and Pey Alvar beheld the Lord.",
-    "festivals": "The Brahmotsavam in Panguni (March–April) is the temple's principal festival, with the processional deity carried through the town on its vahanas. An Andal utsavam is also kept, and Vaikunta Ekadashi and the Alvars' birth-stars are observed with particular devotion in this, the Alvars' own meeting place.",
-    "experience": "Approach on foot to feel the great tower grow overhead, then stand before Trivikrama and recall the three Alvars who, tradition says, met here in the dark and found the Lord among them. Reciting a verse of the Mudhal Thiruvandhadhi here is a quiet devotion many pilgrims keep. The Pennai and the old town around the temple reward an unhurried walk."
+    "history": "তেন্পেন্নৈ নদীতীরে অবস্থিত তিরুক্কোইলুর ১০৮টি দিব্যদেশমের অন্যতম এবং নাড়ু নাড়ুর সর্বাধিক পূজিত মন্দিরগুলির একটি। শ্রীবৈষ্ণব স্মৃতিতে এর স্থান অনন্য: প্রথা অনুসারে এখানেই প্রভু পোইগৈ, ভূতত্ ও পেয় আলবার — মুদল আলবার, বারো জনের প্রথম তিন জন — এর কাছে আত্মপ্রকাশ করেছিলেন, এবং এখানেই তাঁরা নালায়ির দিব্য প্রবন্ধম্-এর সূচনাকারী তিনটি তিরুবন্দাদি রচনা করেছিলেন। পরবর্তীকালে তিরুমঙ্গৈ আলবারও সেই একই প্রভুর স্তুতি করেন। বর্তমান মন্দিরটি মধ্যযুগীয় চোলরা নির্মাণ করেছিলেন বলে বিশ্বাস, এবং পরবর্তী শতাব্দীগুলিতে বিজয়নগর রাজারা ও মাদুরৈ নায়করা এতে সংযোজন করেন। এই সমস্ত যুগ জুড়ে উপাসনা অব্যাহত থেকেছে, এবং নগরীটি তীর্থযাত্রার কেন্দ্র হিসেবে রয়ে গেছে।",
+    "architecture": "মন্দিরটি দূর থেকেই তার রাজগোপুরম দ্বারা জানান দেয়, যা প্রায় ৫৯ মিটার (১৯২ ফুট) উঁচু এবং তামিলনাড়ুর উচ্চতম মন্দির-গোপুরমগুলির অন্যতম বলে গণ্য — উইকিপিডিয়ার হিসেবে তৃতীয় উচ্চতম। তার পরে রয়েছে দ্রাবিড় পরিকল্পনার প্রাঙ্গণ ও স্তম্ভশোভিত মণ্ডপ, কেন্দ্রে ত্রিবিক্রমের গর্ভগৃহ এবং নিজস্ব মন্দিরে দেবী পূঙ্গোদৈ। মূলমূর্তিতে প্রভুকে তাঁর বিশাল পদক্ষেপরত রূপে দেখানো হয়েছে, এক পা উত্তোলিত করে স্বর্গ মাপছেন।",
+    "legends": "এখানে দুটি কাহিনি মিলিত হয়। প্রথমটি বামনের: বিষ্ণু বামন রূপে রাজা মহাবলির কাছে এসে তিন পা জমি প্রার্থনা করেন, এবং ত্রিবিক্রমে বর্ধিত হয়ে দুই পদক্ষেপে পৃথিবী ও আকাশ মেপে ফেলেন। দ্বিতীয়টি আলবারদের। স্থলপ্রথা অনুসারে, এক ঝড়ের রাতে পোইগৈ আলবার একটি সংকীর্ণ পথে আশ্রয় নিয়েছিলেন, এরপর ভূতত্ ও পেয় আলবার সেখানে এলেন, যতক্ষণ না তিন জন পরস্পর সংলগ্ন হয়ে দাঁড়ালেন — এবং তাঁদের মধ্যে চতুর্থ এক জনের উপস্থিতি অনুভব করলেন। পোইগৈ পৃথিবীকে পাত্র ও সমুদ্রকে তেল করে পদ্যের প্রদীপ জ্বালালেন, ভূতত্ ভালোবাসাকে প্রদীপ করে, আর পেয় আলবার প্রভুকে প্রত্যক্ষ করলেন।",
+    "festivals": "পঙ্গুনি মাসের (মার্চ–এপ্রিল) ব্রহ্মোৎসবম্ মন্দিরের প্রধান উৎসব, যখন উৎসবমূর্তিকে বিভিন্ন বাহনে চড়িয়ে নগরীতে পরিক্রমা করানো হয়। একটি আণ্ডাল উৎসবমও পালিত হয়, এবং বৈকুণ্ঠ একাদশী ও আলবারদের জন্মনক্ষত্র এই আলবারদেরই মিলনস্থলে বিশেষ ভক্তিভরে পালন করা হয়।",
+    "experience": "পায়ে হেঁটে এগিয়ে এসে মাথার উপরে মহাগোপুরম বেড়ে উঠতে অনুভব করুন, তারপর ত্রিবিক্রমের সম্মুখে দাঁড়িয়ে সেই তিন আলবারকে স্মরণ করুন যাঁরা, প্রথা অনুসারে, এই অন্ধকারে এখানে মিলিত হয়ে তাঁদের মধ্যে প্রভুকে পেয়েছিলেন। এখানে মুদল তিরুবন্দাদির একটি পদ পাঠ করা অনেক তীর্থযাত্রীর রক্ষিত এক শান্ত ভক্তি। পেন্নৈ নদী ও মন্দির ঘিরে থাকা পুরোনো নগরী ধীরস্থির ভ্রমণকে পুরস্কৃত করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Panguni Brahmotsavam and Vaikunta Ekadashi are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Tirukoilur has a railway station on the Villupuram–Katpadi line and is linked by road to Villupuram and Tiruvannamalai; Chennai has the nearest major airport, a few hours away by road."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বে খোলা থাকে, মধ্যাহ্নে বন্ধ; পঙ্গুনি ব্রহ্মোৎসবম্ ও বৈকুণ্ঠ একাদশীতে সর্বাধিক ভিড় হয়। যাওয়ার আগে স্থানীয়ভাবে বর্তমান সময়সূচি যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে আলোকচিত্র গ্রহণ নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুক্কোইলুরে ভিল্লুপুরম–কাট্পাড়ি রেলপথে একটি রেলস্টেশন রয়েছে এবং এটি সড়কপথে ভিল্লুপুরম ও তিরুবণ্ণামলৈর সঙ্গে যুক্ত; নিকটতম বড় বিমানবন্দর চেন্নাই, সড়কপথে কয়েক ঘণ্টা দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/trivikrama-thirukkovilur.jpg",
     "color": "#5C3A2E",
-    "alt": "Ulagalantha Perumal Temple, Tirukoilur",
+    "alt": "উলগলন্দ পেরুমাল মন্দির, তিরুক্কোইলুর",
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
       "avif": "https://media.dsquaregee.com/heroes/trivikrama-thirukkovilur.avif",

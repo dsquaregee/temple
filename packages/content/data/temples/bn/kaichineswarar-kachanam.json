@@ -1,29 +1,36 @@
 {
   "id": "kaichineswarar-kachanam",
   "locale": "bn",
+  "name": "কৈচিনেশ্বর মন্দির, তিরুক্কৈচিনম (কাচনম)",
   "nativeName": "திருக்கைச்சினம் கைச்சினேஸ்வரர் கோயில்",
+  "deity": "শিব কৈচিনেশ্বর (কৈচিন নাথর, এক স্বয়ম্ভূ লিঙ্গ) রূপে, দেবী পাল্বলৈ নায়কী-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Kachanam, near Thiruthuraipoondi",
-    "state": "Tamil Nadu",
+    "city": "কাচনম, তিরুত্তুরৈপূণ্ডির কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.6245,
     "lng": 79.6677
   },
+  "period": "তেবারম যুগ (স্তুত ৭ম শতক); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কাচনম, তেবারমের তিরুক্কৈচিনম, তিরুত্তুরৈপূণ্ডির কাছে, শিবকে কৈচিনেশ্বর রূপে—এক স্বয়ম্ভূ লিঙ্গে পূজিত—দেবী পাল্বলৈ নায়কী-র সঙ্গে সম্মান করে। তিরুজ্ঞান সম্বন্দর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম, এটি কাবেরীর দক্ষিণ তীরে নিম্ন বদ্বীপের এক শান্ত মন্দির।",
   "sections": {
-    "history": "Kachanam, whose Tevaram name is Tirukkaichinam, lies about 18 km from Tiruvarur and 9 km from Thiruthuraipoondi, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted among the Shiva shrines on the southern bank of the Kaveri. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Kaichineswarar — also Kaichina Nathar — in the sanctum, worshipped in a swayambhu, self-manifest lingam, with the goddess Palvalai Nayaki in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the kongu ilavam (silk-cotton), and the sacred tank is the Indira (Vajra) Theertham.",
-    "legends": "The lord is a swayambhu, self-manifest from the earth, worshipped as Kaichineswarar; the sacred tank's name, Indira or Vajra Theertham, links the place to Indra, who by tradition worshipped here. The goddess Palvalai Nayaki stands beside him. As with many smaller delta shrines, the fuller sthala purana survives chiefly in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail of the southern delta include Kachanam among their stops.",
-    "experience": "At Kachanam the pilgrim comes to a quiet shrine of the self-manifest lord. Before Kaichineswarar and Palvalai Nayaki, beside the Indira Theertham, the visitor finds the unhurried grace of a Tevaram temple of the southern Kaveri country, firm in the lingam that rose of itself from the earth."
+    "history": "কাচনম, যার তেবারম নাম তিরুক্কৈচিনম, তিরুবারুর থেকে প্রায় ১৮ কিমি ও তিরুত্তুরৈপূণ্ডি থেকে ৯ কিমি দূরে, তিরুবারুর জেলায় অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুজ্ঞান সম্বন্দর কর্তৃক স্তুত, কাবেরীর দক্ষিণ তীরের শিব মন্দিরগুলির অন্যতম বলে গণ্য। পাথরের মন্দিরটি চোল যুগ ও পরবর্তীকালের।",
+    "architecture": "এক দ্রাবিড় বদ্বীপ মন্দির, এই মন্দির গর্ভগৃহে কৈচিনেশ্বর—কৈচিন নাথরও—কে প্রতিষ্ঠিত করে, এক স্বয়ম্ভূ লিঙ্গে পূজিত, দেবী পাল্বলৈ নায়কী তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণসহ। স্থল বৃক্ষ হল কোঙ্গু ইলবম (শিমুল), এবং পবিত্র পুষ্করিণী হল ইন্দিরা (বজ্র) তীর্থম।",
+    "legends": "প্রভু স্বয়ম্ভূ, ভূমি থেকে স্বয়ং-প্রকট, কৈচিনেশ্বর রূপে পূজিত; পবিত্র পুষ্করিণীর নাম, ইন্দিরা বা বজ্র তীর্থম, স্থানটিকে ইন্দ্রের সঙ্গে যুক্ত করে, যিনি ঐতিহ্য অনুসারে এখানে পূজা করেছিলেন। দেবী পাল্বলৈ নায়কী তাঁর পাশে দণ্ডায়মান। বহু ছোট বদ্বীপ মন্দিরের মতো, পূর্ণাঙ্গ স্থল পুরাণ প্রধানত স্থানীয় ঐতিহ্য ও সম্বন্দরের শ্লোকে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহা শিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ উপাসনাসহ পালন করে, এক গ্রাম মন্দিরের শান্ত পরিসরে। দক্ষিণ বদ্বীপের পাডল পেট্র পথের তীর্থযাত্রীরা তাদের বিরতিস্থলের মধ্যে কাচনমকে অন্তর্ভুক্ত করেন।",
+    "experience": "কাচনমে তীর্থযাত্রী স্বয়ম্ভূ প্রভুর এক শান্ত মন্দিরে আসেন। ইন্দিরা তীর্থমের পাশে, কৈচিনেশ্বর ও পাল্বলৈ নায়কী-র সামনে, দর্শনার্থী দক্ষিণ কাবেরী দেশের এক তেবারম মন্দিরের নিরুদ্বিগ্ন করুণা খুঁজে পান, ভূমি থেকে স্বয়ং উত্থিত লিঙ্গে দৃঢ়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kachanam is about 18 km from Tiruvarur and 9 km from Thiruthuraipoondi, in Tiruvarur district. Tiruvarur and Thiruthuraipoondi are the nearest rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত ও আবার শেষ বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; বিশেষত উৎসবের দিনে সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশদ্বারে পাদুকা রেখে দেওয়া হয়।",
+    "photography": "বাইরের করিডোরে সাধারণত ফটোগ্রাফির অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; পূজার ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কাচনম তিরুবারুর থেকে প্রায় ১৮ কিমি ও তিরুত্তুরৈপূণ্ডি থেকে ৯ কিমি দূরে, তিরুবারুর জেলায় অবস্থিত। তিরুবারুর ও তিরুত্তুরৈপূণ্ডি নিকটতম রেলহেড, গ্রাম পর্যন্ত বাস ও ট্যাক্সি সহ।"
   }
 }

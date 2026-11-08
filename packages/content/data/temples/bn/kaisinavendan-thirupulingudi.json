@@ -1,30 +1,37 @@
 {
   "id": "kaisinavendan-thirupulingudi",
   "locale": "bn",
+  "name": "কৈসিন বেন্দন পেরুমাল মন্দির, তিরুপ্পুলিঙ্গুডি",
   "nativeName": "கைசினவேந்தன் பெருமாள் கோயில், திருப்புளிங்குடி",
+  "deity": "বিষ্ণু কৈসিন বেন্দন (ভূমিপালন) রূপে, শয়ান—নব তিরুপতির মধ্যে বুধের (বুধ) মন্দির",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirupulingudi",
-    "state": "Tamil Nadu",
+    "city": "তিরুপ্পুলিঙ্গুডি",
+    "state": "তামিলনাড়ু",
     "lat": 8.6,
     "lng": 77.8
   },
+  "period": "তাম্রপর্ণীর তীরে পাণ্ড্য দেশের এক দিব্য দেশম, নম্মালবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "তাম্রপর্ণীর তীরে তিরুপ্পুলিঙ্গুডিতে, বিষ্ণু কৈসিন বেন্দন, পৃথিবীর রক্ষক রূপে শয়ন করেন—নয় গ্রহ তিরুপতির মধ্যে বুধের মন্দির, নম্মালবার কর্তৃক স্তুত এক দিব্য দেশম।",
   "sections": {
-    "history": "Thirupulingudi lies on the south bank of the Tamiraparani among the Tirupati villages, and its lord is Kaisina Vendan, worshipped in the reclining posture as Bhoomipalan, the protector of the earth. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of Mercury, Budha.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Kaisina Vendan in the reclining form, with the Goddess in her own shrine. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Thirupulingudi the planet is Mercury, Budha.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of Mercury, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "তিরুপ্পুলিঙ্গুডি তিরুপতি গ্রামগুলির মধ্যে তাম্রপর্ণীর দক্ষিণ তীরে অবস্থিত, এবং এর প্রভু কৈসিন বেন্দন, শয়ান ভঙ্গিতে ভূমিপালন, পৃথিবীর রক্ষক রূপে পূজিত। এটি ১০৮টি দিব্য দেশমের একটি, আলবার সাধকগণ কর্তৃক নালায়িরা দিব্য প্রবন্ধমে স্তুত বিষ্ণুর আবাস, এবং নব তিরুপতির একটি—তাম্রপর্ণীর নয়টি মন্দির, প্রতিটি বৈষ্ণবদের এক গ্রহ-মন্দির হিসেবে ধরা। নব তিরুপতির মধ্যে এটি বুধ, বুধনের মন্দির হিসেবে সম্মানিত।",
+    "architecture": "পাণ্ড্য দেশ ও এর পরবর্তী পৃষ্ঠপোষকদের দ্রাবিড় রীতিতে নির্মিত, মন্দিরে এক দ্বারস্তম্ভের মধ্য দিয়ে প্রবেশ করা হয় এবং এটি অধিষ্ঠাতা বিষ্ণুর গর্ভগৃহের চারপাশে জড়ো, দেবী তাঁর নিজস্ব মন্দিরে। এখানে প্রভু কৈসিন বেন্দন রূপে শয়ান ভঙ্গিতে পূজিত, দেবী তাঁর নিজস্ব মন্দিরে। গর্ভগৃহের সামনে স্তম্ভিত হল খোলে, সুদূর দক্ষিণের মন্দির রীতিতে।",
+    "legends": "নব তিরুপতিকে একত্রে বৈষ্ণবদের নয় গ্রহ-মন্দির হিসেবে পূজা করা হয়: যেখানে কাবেরীর শৈব ঐতিহ্য নয়টি পৃথক নবগ্রহ মন্দির রাখে, এখানে নয় গ্রহকে তাম্রপর্ণীর তীরে বিষ্ণুর নয়টি আবাস জুড়ে সম্মান করা হয়, সবই নম্মালবার কর্তৃক স্তুত, আলবারদের মধ্যে অগ্রগণ্য, যাঁর নিজের জন্মস্থান তাদের মধ্যে অলওয়ারতিরুনগরী। তিরুপ্পুলিঙ্গুডিতে গ্রহ হল বুধ, বুধন।",
+    "festivals": "মন্দিরটি মহান বৈষ্ণব উৎসবগুলি পালন করে—বৈকুণ্ঠ একাদশী, গরুড় সেবৈ যখন নয়টিকে একটিমাত্র চক্রে পূজা করা হয়, এবং নম্মালবার ও আলবারদের দিন—নদীতীরের গ্রামগুলির মধ্য দিয়ে শোভাযাত্রাসহ। তাম্রপর্ণীর নিজস্ব উৎসবগুলি আশপাশের দেশকে টানে।",
+    "experience": "নয়ের মধ্যে এক শান্ত নদীতীরের দিব্য দেশম, সেই তীর্থযাত্রীর জন্য পুরস্কৃত যিনি তাম্রপর্ণী ধরে এক তিরুপতি থেকে পরেরটিতে যান। বুধের মন্দির হিসেবে, এটি নব তিরুপতির একক তীর্থে তার স্থান নেয় যা নয় গ্রহকে বিষ্ণুর আবাসগুলিতে জড়ো করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "সকাল ও সন্ধ্যার দর্শন সেশন ও দুপুরে বন্ধ রেখে প্রতিদিন খোলা; গরুড় সেবৈ ও বৈকুণ্ঠ একাদশীর দিন সবচেয়ে ব্যস্ত। পরিদর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খোলা। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে ফটোগ্রাফি সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "এটি তিরুনেলবেলি–তুতিকোরিন দেশে তাম্রপর্ণীর তীরে, তিরুনেলবেলি–তিরুচেন্দুর পথে অবস্থিত, তিরুনেলবেলি থেকে সড়কপথে পৌঁছানো যায়; নয় তিরুপতি গ্রাম নদী ধরে কাছাকাছি অবস্থিত।"
   }
 }

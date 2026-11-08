@@ -1,29 +1,36 @@
 {
   "id": "karaveeranathar-karaiyur",
   "locale": "bn",
+  "name": "করবীরনাথর মন্দির, তিরুক্করবীরম",
   "nativeName": "திருக்கரவீரம் கரவீரநாதர் கோயில்",
+  "deity": "শিব করবীরনাথর (ব্রহ্মপুরীশ্বর) রূপে, দেবী প্রত্যক্ষ নায়কীর (করবীর নায়কী) সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Karaveeram, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "করবীরম, তিরুভারুরের নিকট",
+    "state": "তামিলনাড়ু",
     "lat": 10.8088,
     "lng": 79.5805
   },
+  "period": "তেবারম যুগ (৭ম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণম সড়কে তিরুভারুরের নিকট করবীরম শিবকে করবীরনাথর — ব্রহ্মপুরীশ্বরও — রূপে সম্মান করে, দেবী প্রত্যক্ষ নায়কীর সঙ্গে। তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত এই পাডল পেট্র স্থলম তার নাম গ্রহণ করে করবীরম, অর্থাৎ করবী (অরলি) থেকে, এর স্থল বৃক্ষ, যার মধ্যে ঋষি গৌতম তাঁর ভক্তিতে বিলীন হয়েছিলেন বলে কথিত।",
   "sections": {
-    "history": "Karaveeram, whose Tevaram name is Tirukkaraveeram, lies about 7–10 km west of Tiruvarur on the road to Kumbakonam, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The stone temple is of the Chola period and later, and the lord is known here both as Karaveeranathar and as Brahmapureeswarar.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Karaveeranathar in the sanctum, with the goddess Pratyaksha Nayagi — also Prathyaksha Minnammai and Karaveera Nayagi — in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the karaveeram, the oleander (pon-arali or sevvarali), from which the place takes its name.",
-    "legends": "The name Karaveeram belongs to the sthala vriksham, the oleander tree, and the sthala purana tells that the sage Gautama worshipped Shiva here so deeply that he merged into the karaveeram tree — so the lord is called Karaveeranathar, lord of the oleander. The goddess's name Pratyaksha Nayagi, 'she who appears before the devotee,' marks a place where the divine is felt as present and near. The name Brahmapureeswarar recalls Brahma's own worship in the Shaiva lore of the delta.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail between Tiruvarur and Kumbakonam include Karaveeram among their stops.",
-    "experience": "At Karaveeram the pilgrim finds a quiet oleander-named shrine of the Tiruvarur country. Before Karaveeranathar and Pratyaksha Nayagi, 'she who appears,' the visitor remembers the sage who merged into the sacred tree, and feels the nearness of the divine in a small Tevaram temple of the delta."
+    "history": "করবীরম, যার তেবারম নাম তিরুক্করবীরম, তিরুভারুর থেকে প্রায় ৭–১০ কিমি পশ্চিমে কুম্বকোণমের পথে, তিরুভারুর জেলায় অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত। পাথরের মন্দিরটি চোল যুগের ও পরবর্তী, এবং প্রভু এখানে করবীরনাথর ও ব্রহ্মপুরীশ্বর উভয় নামে পরিচিত।",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, গর্ভগৃহে করবীরনাথরকে প্রতিষ্ঠিত করে, দেবী প্রত্যক্ষ নায়কী — প্রত্যক্ষ মিন্নম্মৈ ও করবীর নায়কীও — তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাসহ। স্থল বৃক্ষ হলো করবীরম, অরলি (পোন্-অরলি বা সেব্বরলি), যা থেকে স্থানটি তার নাম পায়।",
+    "legends": "করবীরম নামটি স্থল বৃক্ষ, অরলি গাছের, এবং স্থল পুরাণ বলে ঋষি গৌতম এখানে শিবের এতই গভীর পূজা করেছিলেন যে তিনি করবীরম গাছে বিলীন হয়ে যান — তাই প্রভুকে করবীরনাথর, অরলির প্রভু বলা হয়। দেবীর নাম প্রত্যক্ষ নায়কী, 'যিনি ভক্তের সম্মুখে আবির্ভূত হন,' এমন এক স্থান চিহ্নিত করে যেখানে দিব্য উপস্থিত ও নিকট অনুভূত হয়। ব্রহ্মপুরীশ্বর নামটি ব-দ্বীপের শৈব কাহিনীতে ব্রহ্মার নিজ পূজা স্মরণ করায়।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহা শিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈয়ের সোমবারগুলি পালন করে, প্রদোষ পূজাসহ, এক গ্রাম্য মন্দিরের শান্ত পরিসরে। তিরুভারুর ও কুম্বকোণমের মাঝে পাডল পেট্র পথের তীর্থযাত্রীরা করবীরমকে তাঁদের বিরতির অন্তর্ভুক্ত করেন।",
+    "experience": "করবীরমে তীর্থযাত্রী তিরুভারুর অঞ্চলের এক শান্ত অরলি-নামাঙ্কিত মন্দির খুঁজে পান। করবীরনাথর ও প্রত্যক্ষ নায়কী, 'যিনি আবির্ভূত হন,' এর সম্মুখে দর্শনার্থী সেই ঋষিকে স্মরণ করেন যিনি পবিত্র গাছে বিলীন হয়েছিলেন, এবং ব-দ্বীপের এক ছোট তেবারম মন্দিরে দিব্যের নৈকট্য অনুভব করেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Karaveeram is about 7–10 km west of Tiruvarur on the Tiruvarur–Kumbakonam road, in Tiruvarur district. Tiruvarur is the nearest rail head, with buses toward Kumbakonam and local taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং পুনরায় বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশদ্বারে জুতো খুলে রাখতে হয়।",
+    "photography": "বাইরের বারান্দায় সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "করবীরম তিরুভারুর–কুম্বকোণম সড়কে তিরুভারুর থেকে প্রায় ৭–১০ কিমি পশ্চিমে, তিরুভারুর জেলায়। তিরুভারুর নিকটতম রেলস্টেশন, কুম্বকোণমের দিকে বাস ও গ্রামে যাওয়ার স্থানীয় ট্যাক্সিসহ।"
   }
 }

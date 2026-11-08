@@ -1,30 +1,37 @@
 {
   "id": "devapiran-tholaivillimangalam",
   "locale": "bn",
+  "name": "দেবপিরান পেরুমাল মন্দির, তোলৈবিল্লিমঙ্গলম",
   "nativeName": "தேவபிரான் பெருமாள் கோயில், தொலைவில்லிமங்கலம்",
+  "deity": "দেবতাদের প্রভু রূপে বিষ্ণু দেবপিরান — নব তিরুপতির মধ্যে রাহুর মন্দির, যুগল ইরট্টৈ তিরুপতির একটি",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Tholaivillimangalam",
-    "state": "Tamil Nadu",
+    "city": "তোলৈবিল্লিমঙ্গলম",
+    "state": "তামিলনাড়ু",
     "lat": 8.611,
     "lng": 77.821
   },
+  "period": "তামিরপরণী নদীর ধারে পাণ্ড্য দেশের একটি দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে নম্মালবার দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "তামিরপরণীর ধারে তোলৈবিল্লিমঙ্গলমে বিষ্ণু দেবপিরান, দেবতাদের প্রভু রূপে দণ্ডায়মান — যুগল ইরট্টৈ তিরুপতির একটি এবং নয়টি গ্রহ তিরুপতির মধ্যে রাহুর মন্দির, নম্মালবার দ্বারা স্তুত একটি দিব্য দেশম।",
   "sections": {
-    "history": "Tholaivillimangalam holds the Irattai Tirupati, the twin temples, of which this is the shrine of Devapiran, the lord of the gods, on the Tamiraparani. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of Rahu, the other of the two shadow-planets whose paired shrines stand together here.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Devapiran, with the Goddess in her own shrine; this and the neighbouring Aravindalochanar shrine form the twin Irattai Tirupati. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Tholaivillimangalam the two shadow-planets are honoured in twin shrines: this, Devapiran, is held as the shrine of Rahu, beside Aravindalochanar for Ketu.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of Rahu, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "তোলৈবিল্লিমঙ্গলমে রয়েছে ইরট্টৈ তিরুপতি, যুগল মন্দির, যার মধ্যে এটি দেবপিরান, দেবতাদের প্রভুর মন্দির, তামিরপরণীর ধারে। এটি নালায়ির দিব্য প্রবন্ধমে আলবার সন্তদের দ্বারা স্তুত বিষ্ণুর ১০৮টি দিব্য দেশমের অন্যতম, এবং নব তিরুপতির একটি — তামিরপরণীর নয়টি মন্দির, প্রতিটিকে বৈষ্ণবদের একটি গ্রহ-মন্দির রূপে ধরা হয়। নব তিরুপতির মধ্যে এটি রাহুর মন্দির রূপে সম্মানিত, দুই ছায়াগ্রহের অপরটি, যাদের যুগল মন্দির এখানে একসঙ্গে অবস্থিত।",
+    "architecture": "পাণ্ড্য দেশ ও তার পরবর্তী পৃষ্ঠপোষকদের দ্রাবিড় রীতিতে নির্মিত, মন্দিরের প্রবেশ একটি তোরণ গোপুরমের মধ্য দিয়ে এবং অধিষ্ঠাতৃ বিষ্ণুর গর্ভগৃহের চারপাশে কেন্দ্রীভূত, দেবী তাঁর নিজস্ব মন্দিরে। এখানে প্রভু দেবপিরান রূপে পূজিত, দেবী নিজস্ব মন্দিরে; এটি এবং প্রতিবেশী অরবিন্দলোচনর মন্দির মিলে যুগল ইরট্টৈ তিরুপতি গঠন করে। গভীর দক্ষিণের মন্দির রীতিতে গর্ভগৃহের সামনে স্তম্ভশোভিত মণ্ডপ খুলে যায়।",
+    "legends": "নব তিরুপতি একসঙ্গে বৈষ্ণবদের নয়টি গ্রহ-মন্দির রূপে পূজিত: যেখানে কাবেরীর শৈব ঐতিহ্য নয়টি পৃথক নবগ্রহ মন্দির রাখে, সেখানে এখানে নয়টি গ্রহকে তামিরপরণীর বিষ্ণুর নয়টি আবাসে সম্মান করা হয়, সবই নম্মালবার, আলবারদের মধ্যে অগ্রগণ্য, দ্বারা স্তুত, যাঁর নিজের জন্মস্থান এদের মধ্যে আলবারতিরুনগরি। তোলৈবিল্লিমঙ্গলমে দুই ছায়াগ্রহ যুগল মন্দিরে সম্মানিত: এটি, দেবপিরান, রাহুর মন্দির রূপে ধরা হয়, কেতুর জন্য অরবিন্দলোচনরের পাশে।",
+    "festivals": "মন্দিরটি মহান বৈষ্ণব উৎসবগুলি পালন করে — বৈকুণ্ঠ একাদশী, গরুড় সেবা যখন নয়টিকে একটি পরিক্রমায় পূজা করা হয়, এবং নম্মালবার ও আলবারদের দিনগুলি — নদীতীরবর্তী গ্রামগুলির মধ্য দিয়ে শোভাযাত্রাসহ। তামিরপরণীর নিজস্ব উৎসবগুলি চারপাশের অঞ্চলকে টানে।",
+    "experience": "নয়টির মধ্যে একটি নিস্তব্ধ নদীতীরবর্তী দিব্য দেশম, সেই তীর্থযাত্রীর জন্য ফলদায়ক যিনি এক তিরুপতি থেকে অন্য তিরুপতিতে তামিরপরণীকে অনুসরণ করেন। রাহুর মন্দির রূপে, এটি নব তিরুপতির একক তীর্থযাত্রায় স্থান নেয় যা নয়টি গ্রহকে বিষ্ণুর আবাসে একত্র করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন সময়ে মধ্যাহ্নের বিরতিসহ খোলা থাকে; গরুড় সেবা ও বৈকুণ্ঠ একাদশীর দিন সর্বাধিক ব্যস্ত। যাওয়ার আগে বর্তমান সময় যাচাই করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "এটি তামিরপরণীর ধারে তিরুনেলবেলি–তুতুকুড়ি অঞ্চলে, তিরুনেলবেলি–তিরুচেন্দুর পথে অবস্থিত, তিরুনেলবেলি থেকে সড়কপথে পৌঁছানো যায়; নয়টি তিরুপতি গ্রাম নদীর ধারে কাছাকাছি অবস্থিত।"
   }
 }

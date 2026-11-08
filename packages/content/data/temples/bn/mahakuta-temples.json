@@ -1,30 +1,37 @@
 {
   "id": "mahakuta-temples",
   "locale": "bn",
+  "name": "মহাকূট মন্দিরসমূহ (মহাকূটেশ্বর), বাদামির কাছে",
   "nativeName": "ಮಹಾಕೂಟ ದೇವಾಲಯಗಳು (ಮಹಾಕೂಟೇಶ್ವರ)",
+  "deity": "শিব মহাকূটেশ্বর রূপে, মল্লিকার্জুন মন্দির ও বহু ছোট মন্দিরসহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Mahakuta",
-    "state": "Karnataka",
+    "city": "মহাকূট",
+    "state": "কর্ণাটক",
     "lat": 15.9328,
     "lng": 75.7217
   },
+  "period": "আদি চালুক্য, ষষ্ঠ–সপ্তম শতক খ্রিস্টাব্দ, বারান্দায় একটি পরবর্তী শিলালিপিসহ",
   "century": 7,
+  "dynasty": "বাদামির চালুক্য",
+  "style": "আদি চালুক্য দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "বাদামি সড়কের ধারে এক নিরিবিলি উপত্যকায় প্রস্রবণ-পুষ্ট এক জলাশয় ঘিরে অবস্থিত, মহাকূটেশ্বর ও মল্লিকার্জুনকে কেন্দ্রে রেখে আদি চালুক্য শিবমন্দিরের মহাকূট সমষ্টি এ অঞ্চলের সবচেয়ে শান্ত স্থানগুলির একটি।",
   "sections": {
-    "history": "Mahakuta is a village about 15 km from Badami, where a cluster of early Chalukya temples, assigned to the sixth and seventh centuries, gathers around a sacred pool. The dating rests on the style, which is close to that of Aihole, and on inscriptions found here. A pillar inscription of about 595 to 602 CE, in Sanskrit written in the Kannada script, was recorded at Mahakuta; the pillar itself is now kept in Vijayapura, and its original position is uncertain. Another inscription, the Vinapoti, is cut into the porch of the Mahakuteshwara temple and is placed in the late seventh or early eighth century. The two largest shrines, Mahakuteshwara and Mallikarjuna, stand among a crowd of smaller ones, all dedicated to Shiva.",
-    "architecture": "Mahakuteshwara is the main shrine, a Dravida temple, and Mallikarjuna stands on the far side of the complex, also Dravida in form. Around them are many smaller shrines of the same early style. At the heart of the group lies the Vishnu Pushkarini, a large tank also called Kashi Tirtha, fed by a natural spring that flows within the complex. A small shrine at the centre of the tank houses a five-faced Shiva linga. The temples are set on either side of the water, so the group reads as a single composition of shrine, spring and stone.",
-    "legends": "Tradition attributes the pond to the sage Agastya, whose name clings to many waters of the Badami country. The tank is also called Kashi Tirtha, a name that echoes the sanctity of Kashi and brings it to this quiet valley. The five-faced linga that rises at its centre recalls Shiva’s five faces, the Panchamukha form. Beyond these traditions, Mahakuta’s own story is told by its inscriptions and by the long devotion that has kept its spring and shrines in use.",
-    "festivals": "Maha Shivaratri is the most important observance at Mahakuta, and village fairs gather around the shrines on festival days; confirm dates locally. The spring-fed tank is the centre of any gathering here, and the group is often included in the regional Chalukya heritage celebrations of the Badami area.",
-    "experience": "Arrive early, when the valley is still and the water of the Vishnu Pushkarini lies glassy. Walk the rim of the tank, find the small central shrine, then step into Mahakuteshwara to see the porch where the Vinapoti inscription is cut. The sound of flowing spring water and the drift of village life make this a more contemplative stop than the busier sites nearby. Many visitors combine it with Badami and Banashankari in a single day."
+    "history": "মহাকূট বাদামি থেকে প্রায় ১৫ কিমি দূরে একটি গ্রাম, যেখানে ষষ্ঠ ও সপ্তম শতকে নির্ধারিত আদি চালুক্য মন্দিরের একটি গুচ্ছ এক পবিত্র জলাশয় ঘিরে সমবেত। কালনির্ণয় নির্ভর করে শৈলীর ওপর, যা আইহোলের কাছাকাছি, এবং এখানে পাওয়া শিলালিপির ওপর। প্রায় ৫৯৫ থেকে ৬০২ খ্রিস্টাব্দের এক স্তম্ভলিপি, সংস্কৃতে কন্নড় লিপিতে লিখিত, মহাকূটে নথিভুক্ত হয়েছিল; স্তম্ভটি নিজে এখন বিজয়পুরায় রক্ষিত, এবং এর মূল অবস্থান অনিশ্চিত। আরেকটি শিলালিপি, বিনপোটি, মহাকূটেশ্বর মন্দিরের বারান্দায় খোদিত এবং সপ্তম শতকের শেষ বা অষ্টম শতকের শুরুতে স্থাপিত। দুটি বৃহত্তম মন্দির, মহাকূটেশ্বর ও মল্লিকার্জুন, বহু ছোট মন্দিরের ভিড়ের মধ্যে দাঁড়িয়ে, সবগুলিই শিবকে উৎসর্গীকৃত।",
+    "architecture": "মহাকূটেশ্বর প্রধান মন্দির, একটি দ্রাবিড় মন্দির, এবং মল্লিকার্জুন সমষ্টির অপর প্রান্তে দাঁড়িয়ে, তাও দ্রাবিড় রূপে। এগুলির চারপাশে একই আদি শৈলীর বহু ছোট মন্দির রয়েছে। সমষ্টির কেন্দ্রে রয়েছে বিষ্ণু পুষ্করিণী, একটি বড় জলাশয় যাকে কাশী তীর্থও বলা হয়, সমষ্টির ভেতরে প্রবাহিত এক প্রাকৃতিক প্রস্রবণ দ্বারা পুষ্ট। জলাশয়ের কেন্দ্রে একটি ছোট মন্দিরে পঞ্চমুখী শিবলিঙ্গ রয়েছে। মন্দিরগুলি জলের দুই পাশে স্থাপিত, তাই সমষ্টিটি মন্দির, প্রস্রবণ ও প্রস্তরের এক একক রচনা হিসেবে পঠিত হয়।",
+    "legends": "ঐতিহ্য জলাশয়টিকে ঋষি অগস্ত্যের সঙ্গে যুক্ত করে, যাঁর নাম বাদামি দেশের বহু জলরাশির সঙ্গে জড়িয়ে আছে। জলাশয়টিকে কাশী তীর্থও বলা হয়, এমন এক নাম যা কাশীর পবিত্রতার প্রতিধ্বনি তুলে তা এই নিরিবিলি উপত্যকায় নিয়ে আসে। এর কেন্দ্রে ওঠা পঞ্চমুখী লিঙ্গ শিবের পাঁচ মুখ, পঞ্চমুখ রূপের স্মরণ করায়। এই ঐতিহ্যের বাইরে মহাকূটের নিজস্ব কাহিনি বলে তার শিলালিপি এবং সেই দীর্ঘ ভক্তি যা তার প্রস্রবণ ও মন্দিরগুলিকে পূজায় রেখেছে।",
+    "festivals": "মহাশিবরাত্রি মহাকূটের সবচেয়ে গুরুত্বপূর্ণ পালন, এবং উৎসবের দিনে মন্দিরগুলি ঘিরে গ্রামীণ মেলা জমে; তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন। প্রস্রবণ-পুষ্ট জলাশয় এখানকার যেকোনো সমাবেশের কেন্দ্র, এবং সমষ্টিটি প্রায়শই বাদামি অঞ্চলের আঞ্চলিক চালুক্য ঐতিহ্য উদযাপনে অন্তর্ভুক্ত হয়।",
+    "experience": "ভোরে পৌঁছান, যখন উপত্যকা নিস্তব্ধ এবং বিষ্ণু পুষ্করিণীর জল স্বচ্ছ হয়ে থাকে। জলাশয়ের কিনারা ধরে হাঁটুন, ছোট কেন্দ্রীয় মন্দিরটি খুঁজে নিন, তারপর মহাকূটেশ্বরে প্রবেশ করুন সেই বারান্দা দেখতে যেখানে বিনপোটি শিলালিপি খোদিত। প্রবাহিত প্রস্রবণের জলের শব্দ এবং গ্রামীণ জীবনের ভাসমানতা একে কাছের ব্যস্ত স্থানগুলির চেয়ে বেশি ধ্যানমগ্ন এক বিরতি করে তোলে। অনেক দর্শনার্থী একে বাদামি ও বনশঙ্করীর সঙ্গে একই দিনে মিলিয়ে নেন।"
   },
   "visit": {
-    "timings": "The temples are open in daytime; the active shrines may keep their own worship hours. Confirm timings and any fees locally.",
-    "dressCode": "Modest dress is appropriate, and footwear is left outside the shrines; the stones around the tank can be wet and slippery.",
-    "photography": "Photography is generally fine around the tank and temple exteriors; ask before photographing inside shrines or worshippers.",
-    "gettingThere": "Mahakuta is in Bagalkot district, about 15 km from Badami by road, off the route between Badami and Pattadakal. Badami has the nearest railway station, and the nearest airport is Hubballi. Autos and taxis from Badami cover the short drive."
+    "timings": "মন্দিরগুলি দিনের বেলা খোলা থাকে; সক্রিয় মন্দিরগুলি তাদের নিজস্ব পূজার সময় রাখতে পারে। সময় ও যেকোনো ফি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন পোশাক উপযুক্ত, এবং মন্দিরের বাইরে জুতা রেখে যেতে হয়; জলাশয়ের চারপাশের পাথর ভেজা ও পিচ্ছিল হতে পারে।",
+    "photography": "জলাশয় ও মন্দিরের বাইরের অংশে সাধারণত আলোকচিত্র তোলা চলে; মন্দিরের ভেতরে বা উপাসকদের ছবি তোলার আগে জিজ্ঞাসা করুন।",
+    "gettingThere": "মহাকূট বাগলকোট জেলায়, বাদামি থেকে সড়কপথে প্রায় ১৫ কিমি দূরে, বাদামি ও পট্টডকলের মধ্যবর্তী পথের ধারে। বাদামিতে নিকটতম রেলস্টেশন রয়েছে, এবং নিকটতম বিমানবন্দর হুব্বল্লি। বাদামি থেকে অটো ও ট্যাক্সি অল্প পথটি পার করে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/mahakuta-temples.jpg",

@@ -1,29 +1,36 @@
 {
   "id": "siddhanatheswarar-nachiyar",
   "locale": "bn",
+  "name": "সিদ্ধ নাথেশ্বরর মন্দির, তিরুনরৈয়ূর (নাচিয়ার কোইল)",
   "nativeName": "திருநறையூர் சித்தநாதேஸ்வரர் கோயில்",
+  "deity": "শিব সিদ্ধ নাথেশ্বরর (সিদ্ধনাথেশ্বরর) রূপে, দেবী সৌন্দরা নায়কী (অঝগাম্বিকৈ) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tirunaraiyur, near Nachiyar Koil",
-    "state": "Tamil Nadu",
+    "city": "তিরুনরৈয়ূর, নাচিয়ার কোইলের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9185,
     "lng": 79.448
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তোত্রগীত); পরবর্তী চোল যুগের নির্মিত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণমের নিকটে বিখ্যাত নাচিয়ার কোইলের পাশে অবস্থিত তিরুনরৈয়ূর শিবকে সিদ্ধ নাথেশ্বরর — সিদ্ধদের অধিপতি — রূপে, দেবী সৌন্দরা নায়কী সহ সম্মান জানায়। সম্বন্দর ও সুন্দরর-কর্তৃক স্তোত্রগীত একটি পাডল পেট্র স্থলম, এর কিংবদন্তি একে পাশের বৈষ্ণব মন্দিরের সঙ্গে যুক্ত করে: এখানে ঋষি মেধাবী এই কামনায় তপস্যা করেছিলেন যেন লক্ষ্মী তাঁর কন্যা রূপে জন্ম নেন, এবং সেই কামনা পূর্ণ হয় নাচিয়ার কোইলের দেবী নাচিয়ার রূপে।",
   "sections": {
-    "history": "Tirunaraiyur, whose historical name is Tirunaraiyur Chittechuram, lies about 8–10 km from Kumbakonam on the road to Tiruvarur, in Thanjavur district, right beside the celebrated Nachiyar Koil (the Divya Desam of Srinivasa Perumal and the goddess Nachiyar), scarcely a kilometre away. It is a Paadal Petra Sthalam, hymned by Tirugnana Sambandar and Sundarar. The Shiva and Vishnu shrines of Narayur share a single sthala story, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of the delta, the shrine enshrines Siddha Natheswarar in the sanctum, with the goddess Soundara Nayaki — also Azhagambikai — in her own shrine, a Nandi and the parivara devatas. The lord's name Siddha Natheswarar, 'lord of the siddhas,' recalls the siddha associations of the place, including the healing of Gorakkar; the oil of the lord's abhishekam is held to cure disease.",
-    "legends": "The great legend joins Shiva to the Vishnu temple next door. The sage Medhavi did penance here with a rare wish — that Mahalakshmi, consort of Vishnu, be born as his daughter — and Shiva conveyed the wish to Vishnu, so that Lakshmi was born as Vanjulavalli and became the Nachiyar of Nachiyar Koil. A siddha legend tells that Gorakkar, afflicted by a skin disease born of a curse, was cured by applying the oil used in the lord's abhishekam — hence Siddha Natheswarar. The place is also called Narapuram, for one Naran, cursed by Durvasa, who worshipped here.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims visiting the Nachiyar Koil Divya Desam very often cross to Siddha Natheswarar, honouring the shared story of Shiva and the birth of the goddess.",
-    "experience": "At Tirunaraiyur the pilgrim stands where Shaiva and Vaishnava devotion meet. Before Siddha Natheswarar, lord of the siddhas, and Soundara Nayaki, and within walking distance of the Nachiyar Koil, the visitor remembers the sage who wished Lakshmi for a daughter and the healing oil of the siddhas — a shrine whose grace reaches across two great traditions."
+    "history": "তিরুনরৈয়ূর, যার ঐতিহাসিক নাম তিরুনরৈয়ূর চিত্তেচ্চুরম, থাঞ্জাবুর জেলায় কুম্বকোণম থেকে তিরুবারুর যাওয়ার পথে প্রায় ৮–১০ কিমি দূরে, বিখ্যাত নাচিয়ার কোইলের (শ্রীনিবাস পেরুমাল ও দেবী নাচিয়ারের দিব্য দেশম) ঠিক পাশে, এক কিলোমিটারেরও কম দূরে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তিরুজ্ঞান সম্বন্দর ও সুন্দরর-কর্তৃক স্তোত্রগীত। নরৈয়ূরের শিব ও বিষ্ণু মন্দির একটিই স্থল-কাহিনি ভাগ করে নেয়, এবং পাথরের মন্দিরটি চোল যুগ ও পরবর্তী কালের।",
+    "architecture": "ব-দ্বীপের একটি দ্রাবিড় মন্দির, গর্ভগৃহে সিদ্ধ নাথেশ্বরর প্রতিষ্ঠিত, দেবী সৌন্দরা নায়কী — অঝগাম্বিকৈও — তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার-দেবতাগণ সহ। অধিপতির নাম সিদ্ধ নাথেশ্বরর, 'সিদ্ধদের অধিপতি,' স্থানটির সিদ্ধ-সংযোগ স্মরণ করায়, যার মধ্যে রয়েছে গোরক্করের আরোগ্যলাভ; অধিপতির অভিষেকের তেল রোগ নিরাময় করে বলে বিশ্বাস করা হয়।",
+    "legends": "মহান কিংবদন্তি শিবকে পাশের বিষ্ণু মন্দিরের সঙ্গে যুক্ত করে। ঋষি মেধাবী এখানে এক বিরল কামনায় তপস্যা করেছিলেন — যেন বিষ্ণুর পত্নী মহালক্ষ্মী তাঁর কন্যা রূপে জন্ম নেন — এবং শিব সেই কামনা বিষ্ণুর কাছে পৌঁছে দেন, যাতে লক্ষ্মী বঞ্জুলাবল্লী রূপে জন্ম নিয়ে নাচিয়ার কোইলের নাচিয়ার হন। একটি সিদ্ধ কিংবদন্তি বলে যে গোরক্কর, এক অভিশাপ থেকে জন্মানো চর্মরোগে আক্রান্ত, অধিপতির অভিষেকে ব্যবহৃত তেল প্রয়োগ করে আরোগ্য লাভ করেন — তাই সিদ্ধ নাথেশ্বরর। স্থানটিকে নরপুরমও বলা হয়, এক নরনের নামে, যিনি দুর্বাসার অভিশাপে অভিশপ্ত হয়ে এখানে পূজা করেছিলেন।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্ত্তিকৈয়ের সোমবারগুলি প্রদোষ পূজা সহ পালিত হয়। নাচিয়ার কোইল দিব্য দেশমে আগত তীর্থযাত্রীরা প্রায়ই সিদ্ধ নাথেশ্বররে পার হয়ে আসেন, শিব ও দেবীর জন্মের ভাগ করা কাহিনিকে সম্মান জানাতে।",
+    "experience": "তিরুনরৈয়ূরে তীর্থযাত্রী সেখানে দাঁড়ান যেখানে শৈব ও বৈষ্ণব ভক্তি মিলিত হয়। সিদ্ধদের অধিপতি সিদ্ধ নাথেশ্বরর ও সৌন্দরা নায়কীর সামনে, এবং নাচিয়ার কোইল থেকে হাঁটা-দূরত্বের মধ্যে, দর্শক সেই ঋষিকে স্মরণ করেন যিনি লক্ষ্মীকে কন্যা রূপে কামনা করেছিলেন এবং সিদ্ধদের নিরাময়ী তেলকে — এমন এক মন্দির যার কৃপা দুটি মহান ঐতিহ্য জুড়ে ছড়িয়ে পড়ে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirunaraiyur is about 8–10 km from Kumbakonam on the road to Tiruvarur, right beside the Nachiyar Koil (less than 1 km), in Thanjavur district. Kumbakonam is the nearest major rail head, with frequent buses and taxis to Nachiyar Koil and the temple."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢেকে; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রাঙ্গণে ছবি তোলা সাধারণত অনুমোদিত, তবে গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুনরৈয়ূর থাঞ্জাবুর জেলায় কুম্বকোণম থেকে তিরুবারুর যাওয়ার পথে প্রায় ৮–১০ কিমি দূরে, নাচিয়ার কোইলের (১ কিমিরও কম) ঠিক পাশে অবস্থিত। কুম্বকোণম নিকটতম প্রধান রেলস্টেশন, সেখান থেকে নাচিয়ার কোইল ও মন্দির পর্যন্ত নিয়মিত বাস ও ট্যাক্সি রয়েছে।"
   }
 }

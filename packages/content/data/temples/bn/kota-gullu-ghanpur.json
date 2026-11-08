@@ -1,30 +1,37 @@
 {
   "id": "kota-gullu-ghanpur",
   "locale": "bn",
+  "name": "কোটা গুল্লু (ঘনপুর মন্দিরসমূহ)",
   "nativeName": "కోట గుళ్ళు (ఘన్‌పూర్ ఆలయాలు)",
+  "deity": "শিব, এখানে প্রাচীরবেষ্টিত মন্দিরগুচ্ছের প্রধান মন্দিরে গণপেশ্বর রূপে পূজিত।",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Ghanpur, Jayashankar Bhupalpally district",
-    "state": "Telangana",
+    "city": "ঘনপুর, জয়শঙ্কর ভূপালপল্লী জেলা",
+    "state": "তেলেঙ্গানা",
     "lat": 18.311,
     "lng": 79.872
   },
+  "period": "কাকতীয় যুগ; প্রধান মন্দিরটি শিলালিপি অনুসারে প্রায় ১২৩৪–৩৫ খ্রিস্টাব্দের",
   "century": 13,
+  "dynasty": "কাকতীয়, গণপতিদেবের অধীনে, রেচার্ল সর্দার গণপতি রেড্ডি সহ",
+  "style": "কাকতীয় মন্দির স্থাপত্য",
   "unesco": false,
   "circuits": [
     "kakatiya-temples"
   ],
+  "summary": "কোটা গুল্লু ঘনপুরের কাছে প্রায় কুড়িটি কাকতীয় মন্দিরের এক প্রাচীরবেষ্টিত গুচ্ছ, যার কেন্দ্রে প্রায় ১২৩৪ খ্রিস্টাব্দের গণপেশ্বর মন্দির, এখন অনেকাংশে ধ্বংসপ্রাপ্ত কিন্তু খোদিত পাথরে সমৃদ্ধ।",
   "sections": {
-    "history": "Kota Gullu, \"the temples within the fort\", stands at the edge of Ghanpur village, about nine kilometres from the Ramappa Temple at Palampet. The group belongs to the reign of the Kakatiya king Ganapatideva. An inscription records that a chief named Ganapati Reddy installed the god Ganapateshwara here and endowed land in the cyclic year that corresponds to 1234–35 CE; he is identified as a son of Recherla Rudra, the patron associated with Ramappa. The temples were ringed by a stone enclosure, later reinforced with a mud rampart, and from this the local name derives. The complex suffered over the centuries and is now largely ruined, yet it remains one of the most important Kakatiya sites outside Warangal, and conservation work has been planned for it.",
-    "architecture": "The complex holds roughly twenty to twenty-two shrines within its enclosure. The main temple, the Ganapeswaralayam, faces east, and a pillared natya mandapa of about sixty columns on its south side is thought to have served as the principal entrance. The hall has the broad ranga mandapa and the carved eave brackets characteristic of the Kakatiya style, with composite yali figures and dancing women in the bracket sculpture. The porticos carry mythical animal forms such as the Gaja Kesari, a lion-like creature mounted on an elephant. Several shrines stand in broken form, and fallen sculpture still lies among the standing walls and pillars.",
-    "legends": "Kota Gullu has no single legend as famous as those of the great pilgrimage centres; its story is told mostly through its stones and its inscription. The slab that records Ganapati Reddy installing the god Ganapateshwara links the temple to the devotional world of the Recherla chiefs, who also stood behind Ramappa. Local tradition holds that the complex was once far more complete and magnificent, and visitors often speak of its fallen brackets and carved pillars as the work of the same guilds that raised Palampet. The name Ganapeswara itself honours both the king Ganapatideva and the lord Shiva.",
-    "festivals": "Kota Gullu is mainly visited as a heritage site rather than for a fixed festival calendar. Shiva worship in the Telugu country is marked by Maha Shivaratri, observed in February or March, and by the sacred month of Karthika in the autumn, and local devotees may gather at the site on such days. Confirm any observances and dates locally.",
-    "experience": "Kota Gullu rewards a patient visitor. Walking among the ruined shrines and scattered pillars, one sees how rich the complex once was, and the carved brackets and doorways still show the fine finish of Kakatiya stonework. It is quiet and uncrowded, a good counterpart to the busy and better preserved Ramappa Temple, which lies about nine kilometres away. Allow time to move slowly, watch your footing among the fallen stones, and treat the site with the respect due to a sacred place."
+    "history": "কোটা গুল্লু, \"দুর্গের মধ্যেকার মন্দিরসমূহ\", ঘনপুর গ্রামের প্রান্তে, পালামপেটের রামপ্পা মন্দির থেকে প্রায় নয় কিলোমিটার দূরে অবস্থিত। গুচ্ছটি কাকতীয় রাজা গণপতিদেবের রাজত্বের। একটি শিলালিপি নথিবদ্ধ করে যে গণপতি রেড্ডি নামক এক সর্দার এখানে গণপতেশ্বর দেবকে প্রতিষ্ঠা করেন এবং ১২৩৪–৩৫ খ্রিস্টাব্দের সঙ্গে সঙ্গতিপূর্ণ চক্রবর্ষে ভূমিদান করেন; তিনি রামপ্পার সঙ্গে জড়িত পৃষ্ঠপোষক রেচার্ল রুদ্রের পুত্র হিসেবে চিহ্নিত। মন্দিরগুলি একটি পাথরের প্রাচীরে ঘেরা ছিল, পরে একটি মাটির প্রাচীর দিয়ে শক্তিশালী করা হয়, এবং এ থেকেই স্থানীয় নাম এসেছে। সংকুলটি শতাব্দীর পর শতাব্দী ধরে ক্ষতিগ্রস্ত হয় এবং এখন অনেকাংশে ধ্বংসপ্রাপ্ত, তবুও এটি ওয়ারঙ্গলের বাইরে অন্যতম গুরুত্বপূর্ণ কাকতীয় স্থান, এবং এর জন্য সংরক্ষণ কাজের পরিকল্পনা করা হয়েছে।",
+    "architecture": "সংকুলটির প্রাচীরের মধ্যে প্রায় কুড়ি থেকে বাইশটি মন্দির রয়েছে। প্রধান মন্দির, গণপেশ্বরালয়ম, পূর্বমুখী, এবং এর দক্ষিণ দিকে প্রায় ষাটটি স্তম্ভবিশিষ্ট একটি নাট্য মণ্ডপ প্রধান প্রবেশপথ হিসেবে কাজ করত বলে মনে করা হয়। কক্ষটিতে কাকতীয় রীতির বৈশিষ্ট্যসূচক বিস্তৃত রঙ্গ মণ্ডপ ও খোদিত ছাজ্জার বন্ধনী রয়েছে, বন্ধনী ভাস্কর্যে মিশ্র যালি মূর্তি ও নৃত্যরতা নারী সহ। বারান্দাগুলি গজ কেসরীর মতো পৌরাণিক পশুরূপ বহন করে, হাতির উপর আরোহিত সিংহসদৃশ এক প্রাণী। বেশ কয়েকটি মন্দির ভাঙা অবস্থায় দাঁড়িয়ে আছে, এবং দণ্ডায়মান প্রাচীর ও স্তম্ভের মাঝে পতিত ভাস্কর্য এখনও পড়ে আছে।",
+    "legends": "মহান তীর্থকেন্দ্রগুলির মতো কোটা গুল্লুর কোনো একক বিখ্যাত কিংবদন্তি নেই; এর কাহিনি মূলত এর পাথর ও শিলালিপির মাধ্যমে বলা হয়। যে ফলকে গণপতি রেড্ডির গণপতেশ্বর দেব প্রতিষ্ঠার কথা লেখা আছে তা মন্দিরটিকে রেচার্ল সর্দারদের ভক্তিজগতের সঙ্গে যুক্ত করে, যাঁরা রামপ্পার পেছনেও ছিলেন। স্থানীয় ঐতিহ্য বলে যে সংকুলটি একসময় আরও সম্পূর্ণ ও জমকালো ছিল, এবং দর্শনার্থীরা প্রায়ই এর পতিত বন্ধনী ও খোদিত স্তম্ভকে সেই একই শিল্পীগোষ্ঠীর কাজ বলে উল্লেখ করেন যারা পালামপেট নির্মাণ করেছিল। গণপেশ্বর নামটিই রাজা গণপতিদেব ও প্রভু শিব উভয়কে সম্মান করে।",
+    "festivals": "কোটা গুল্লু মূলত একটি নির্দিষ্ট উৎসব পঞ্জিকার জন্য নয়, একটি ঐতিহ্যস্থান হিসেবে দর্শন করা হয়। তেলুগু দেশে শিব উপাসনা ফেব্রুয়ারি বা মার্চে পালিত মহাশিবরাত্রি এবং শরৎকালের পবিত্র কার্তিক মাসে চিহ্নিত হয়, এবং স্থানীয় ভক্তরা এমন দিনগুলিতে স্থানে সমবেত হতে পারেন। যেকোনো অনুষ্ঠান ও তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "কোটা গুল্লু এক ধৈর্যশীল দর্শনার্থীকে পুরস্কৃত করে। ধ্বংসপ্রাপ্ত মন্দির ও ছড়ানো স্তম্ভের মধ্যে হাঁটতে হাঁটতে বোঝা যায় সংকুলটি একসময় কত সমৃদ্ধ ছিল, এবং খোদিত বন্ধনী ও দরজা এখনও কাকতীয় পাথরশিল্পের সূক্ষ্ম পরিসমাপ্তি দেখায়। এটি শান্ত ও জনবিরল, প্রায় নয় কিলোমিটার দূরে অবস্থিত ব্যস্ত ও সুসংরক্ষিত রামপ্পা মন্দিরের এক ভালো পরিপূরক। ধীরে চলার জন্য সময় রাখুন, পতিত পাথরের মাঝে পা ফেলে সতর্ক থাকুন, এবং স্থানটিকে এক পবিত্র স্থানের প্রাপ্য শ্রদ্ধায় গণ্য করুন।"
   },
   "visit": {
-    "timings": "Kota Gullu is a protected heritage site rather than a regularly ticketed shrine, and opening hours and access are not fixed. Please confirm access and any entry arrangements locally before travelling, and plan a daylight visit.",
-    "dressCode": "Modest traditional dress is appreciated, with shoulders and knees covered. The site is a place of worship, so please behave respectfully.",
-    "photography": "Photography of the ruins and carved stonework is generally welcome at a heritage site of this kind; follow any posted rules and the instructions of site staff, and do not climb on the structures.",
-    "gettingThere": "Kota Gullu is at Ghanpur in Mulugu mandal, Jayashankar Bhupalpally district, about nine kilometres north-west of the Ramappa Temple at Palampet. Warangal is the nearest major rail junction and Hyderabad the nearest airport; the site is reached by road."
+    "timings": "কোটা গুল্লু একটি নিয়মিত টিকিটযুক্ত মন্দির নয়, একটি সংরক্ষিত ঐতিহ্যস্থান, এবং খোলার সময় ও প্রবেশ নির্দিষ্ট নয়। ভ্রমণের আগে প্রবেশ ও যেকোনো প্রবেশ ব্যবস্থা স্থানীয়ভাবে নিশ্চিত করুন, এবং দিনের আলোয় দর্শনের পরিকল্পনা করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য, কাঁধ ও হাঁটু ঢাকা। স্থানটি একটি উপাসনাস্থল, তাই শ্রদ্ধাসহকারে আচরণ করুন।",
+    "photography": "এ ধরনের ঐতিহ্যস্থানে ধ্বংসাবশেষ ও খোদিত পাথরশিল্পের আলোকচিত্র গ্রহণ সাধারণত স্বাগত; যেকোনো প্রদর্শিত নিয়ম ও স্থান কর্মীদের নির্দেশ মেনে চলুন, এবং কাঠামোর উপর উঠবেন না।",
+    "gettingThere": "কোটা গুল্লু জয়শঙ্কর ভূপালপল্লী জেলার মুলুগু মণ্ডলে ঘনপুরে, পালামপেটের রামপ্পা মন্দির থেকে প্রায় নয় কিলোমিটার উত্তর-পশ্চিমে অবস্থিত। ওয়ারঙ্গল নিকটতম প্রধান রেল জংশন এবং হায়দ্রাবাদ নিকটতম বিমানবন্দর; স্থানটি সড়কপথে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",

@@ -1,30 +1,41 @@
 {
   "id": "vaikuntanatha-vaikunta-vinnagaram",
   "locale": "bn",
+  "name": "বৈকুণ্ঠনাথ পেরুমাল মন্দির, তিরুবৈকুণ্ঠ বিণ্ণগরম",
   "nativeName": "வைகுந்தநாத பெருமாள் கோயில், திருவைகுந்த விண்ணகரம்",
+  "deity": "বৈকুণ্ঠনাথ পেরুমাল রূপে বিষ্ণু, দেবী বৈকুণ্ঠবল্লীর সঙ্গে—তিরুনঙ্গুর দিব্য দেশমগুলির মধ্যে বৈকুণ্ঠের প্রভু",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirunangur",
-    "state": "Tamil Nadu",
+    "city": "তিরুনঙ্গুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.1775,
     "lng": 79.7792
   },
+  "period": "চোল নাড়ুর একটি দিব্য দেশম এবং এগারোটি তিরুনঙ্গুর তিরুপতির অন্যতম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "আলবার যুগের চোল দেশ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "তিরুনঙ্গুরের তিরুবৈকুণ্ঠ বিণ্ণগরমে বিষ্ণু বৈকুণ্ঠনাথ, বৈকুণ্ঠের প্রভু রূপে বৈকুণ্ঠবল্লীর সঙ্গে পূজিত—বিণ্ণগরম, স্বর্গীয় আবাস নামধারী ছয়টি দিব্য দেশমের একটি।",
   "sections": {
-    "history": "Thiruvaikunta Vinnagaram stands in Thirunangur near Sirkazhi, in Chola Nadu. It is one of the 108 Divya Desams sung by the Alvars in the Nalayira Divya Prabandham, and one of the eleven Thirunangur Tirupathis hymned by Thirumangai Alvar. Its name places it among the six Divya Desams called Vinnagaram, the heavenly abode of Vishnu, and here the Lord is Vaikuntanatha, master of Vaikuntha itself, with the Goddess Vaikuntavalli. Tradition holds that the sage Uthanga and King Uparicharavasu worshipped here. No inscription or royal patron is firmly recorded in the sources, so the shrine's age rests on the Alvar's hymns, placed between the seventh and ninth centuries.",
-    "architecture": "A compact Dravidian temple of a single shrine within a single prakaram, with a Garuda mandapa standing on the axis before the sanctum. The vimana above is named Ananta Satya Vardhaka. The Lord is shown with Sridevi, Bhudevi, Niladevi and Adishesha about him, as in Vaikuntha. Two sacred waters lie north of the temple: the Lakshmi Pushkarini and the Viraja Theertham.",
-    "legends": "The sthala purana tells of King Swetaketu, of the line of Rama, who reached a realm resembling Vaikuntha and took it for the true Vaikuntha; hunger made him realise his mistake. The tale is told to explain why the Lord came to dwell at this place as Vaikuntanatha. Tradition also remembers the sage Uthanga and King Uparicharavasu as worshippers here.",
-    "festivals": "Like the other Thirunangur shrines, this temple takes part in the Garuda Sevai on or around the day after Thai Amavasai (January–February), when its utsavar is carried on a Garuda vahana to Thirumanimadam, and in the Mangalasasana Utsavam that commemorates Thirumangai Alvar's hymns. Tradition holds that seeing all eleven lords together equals visiting each.",
-    "experience": "Come for the stillness of a one-shrine temple: pause at the Garuda mandapa, look for the Lord with his consorts and Adishesha, and walk to the two tanks on the north side. It makes a thoughtful stop for those who like the story of Swetaketu, and sits easily in a day among the other Thirunangur shrines."
+    "history": "তিরুবৈকুণ্ঠ বিণ্ণগরম চোল নাড়ুতে শীরকাড়ির কাছে তিরুনঙ্গুরে অবস্থিত। এটি নালায়িরা দিব্য প্রবন্ধমে আলবারদের স্তুত ১০৮টি দিব্য দেশমের অন্যতম, এবং তিরুমঙ্গৈ আলবার কর্তৃক স্তুত এগারোটি তিরুনঙ্গুর তিরুপতির একটি। এর নাম একে বিণ্ণগরম নামধারী ছয়টি দিব্য দেশমের মধ্যে স্থান দেয়, বিষ্ণুর স্বর্গীয় আবাস, এবং এখানে প্রভু বৈকুণ্ঠনাথ, স্বয়ং বৈকুণ্ঠের অধিপতি, দেবী বৈকুণ্ঠবল্লীর সঙ্গে। ঐতিহ্য বলে যে ঋষি উথঙ্গ ও রাজা উপরিচরবসু এখানে পূজা করেছিলেন। সূত্রে কোনো শিলালিপি বা রাজকীয় পৃষ্ঠপোষক দৃঢ়ভাবে নথিবদ্ধ নেই, তাই তীর্থের কাল আলবারের স্তোত্রের উপর নির্ভর করে, যা সপ্তম ও নবম শতকের মধ্যে স্থাপিত।",
+    "architecture": "একটি একক প্রাকারের মধ্যে একক গর্ভগৃহের একটি সুসংহত দ্রাবিড় মন্দির, গর্ভগৃহের সামনে অক্ষ বরাবর দাঁড়িয়ে একটি গরুড় মণ্ডপ। উপরের বিমানের নাম অনন্ত সত্য বর্ধক। প্রভুকে বৈকুণ্ঠের মতোই শ্রীদেবী, ভূদেবী, নীলাদেবী ও আদিশেষ পরিবৃত অবস্থায় দেখানো হয়। মন্দিরের উত্তরে দুটি পবিত্র জল: লক্ষ্মী পুষ্করিণী ও বিরজা তীর্থম।",
+    "legends": "স্থল পুরাণ রামের বংশের রাজা শ্বেতকেতুর কথা বলে, যিনি বৈকুণ্ঠসদৃশ এক লোকে পৌঁছে সেটিকেই প্রকৃত বৈকুণ্ঠ বলে মনে করেন; ক্ষুধা তাঁকে তাঁর ভুল উপলব্ধি করায়। এই কাহিনি ব্যাখ্যা করে কেন প্রভু এই স্থানে বৈকুণ্ঠনাথ রূপে বাস করতে এলেন। ঐতিহ্য ঋষি উথঙ্গ ও রাজা উপরিচরবসুকেও এখানকার পূজকরূপে স্মরণ করে।",
+    "festivals": "অন্যান্য তিরুনঙ্গুর তীর্থের মতোই এই মন্দির তৈ অমাবস্যার (জানুয়ারি–ফেব্রুয়ারি) পরদিন বা তার কাছাকাছি অনুষ্ঠিত গরুড় সেবৈতে অংশ নেয়, যখন এর উৎসবমূর্তিকে গরুড় বাহনে তিরুমণিমাডমে বহন করা হয়, এবং তিরুমঙ্গৈ আলবারের স্তোত্র স্মরণকারী মঙ্গলাশাসন উৎসবমে অংশ নেয়। ঐতিহ্য বলে যে এগারোটি প্রভুকে একত্রে দর্শন প্রতিটিতে পৃথকভাবে যাওয়ার সমান।",
+    "experience": "এক-গর্ভগৃহ মন্দিরের স্থিরতার জন্য আসুন: গরুড় মণ্ডপে একটু থামুন, প্রভুকে তাঁর সহধর্মিণীদের ও আদিশেষের সঙ্গে খুঁজুন, এবং উত্তর দিকে দুটি পুষ্করিণীর কাছে হেঁটে যান। যাঁরা শ্বেতকেতুর কাহিনি ভালোবাসেন তাঁদের জন্য এটি এক মননশীল বিরতির স্থান, এবং অন্যান্য তিরুনঙ্গুর তীর্থের মধ্যে একদিনের যাত্রায় সহজেই মিশে যায়।"
   },
   "visit": {
-    "timings": "Darshan is generally held in morning and evening sessions with a midday break; the Garuda Sevai day is by far the busiest. Confirm timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirunangur lies about 10 km by road south-east of Sirkazhi (Sirkali) in Mayiladuthurai district. Sirkazhi, on the Chennai–Mayiladuthurai railway line, is the nearest station, and Tiruchirappalli, about 160 km away, the nearest major airport. Auto-rickshaws and taxis from Sirkazhi reach the village; the eleven shrines lie among paddy fields close to one another."
+    "timings": "দর্শন সাধারণত সকাল ও সন্ধ্যার পর্বে মধ্যাহ্নে বিরতি সহ অনুষ্ঠিত হয়; গরুড় সেবৈর দিন সবচেয়ে ব্যস্ত। ভ্রমণের আগে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহে ও তার চারপাশে ছবি তোলায় নিষেধাজ্ঞা আছে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুনঙ্গুর ময়িলাড়ুতুরৈ জেলার শীরকাড়ি (শীরকালি) থেকে সড়কপথে দক্ষিণ-পূর্বে প্রায় ১০ কিমি দূরে। শীরকাড়ি, চেন্নাই–ময়িলাড়ুতুরৈ রেলপথে, নিকটতম স্টেশন, আর তিরুচিরাপল্লি, প্রায় ১৬০ কিমি দূরে, নিকটতম বড় বিমানবন্দর। শীরকাড়ি থেকে অটোরিকশা ও ট্যাক্সি গ্রামে পৌঁছায়; এগারোটি তীর্থ ধানখেতের মাঝে একে অপরের কাছাকাছি অবস্থিত।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vaikuntanatha-vaikunta-vinnagaram.mp3",
+    "durationSec": 178
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.webp"
     },
     "og": "https://media.dsquaregee.com/og/vaikuntanatha-vaikunta-vinnagaram.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/vaikuntanatha-vaikunta-vinnagaram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.jpg",
+    "durationSec": 143,
+    "credit": "Sathishkumar / Wikimedia Commons (CC BY-SA 3.0) · Sridhar.selvaraj / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

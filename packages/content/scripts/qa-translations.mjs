@@ -20,6 +20,7 @@ const SCRIPTS = {
   kn: { name: 'Kannada', re: /[ಀ-೿]/g },
   ml: { name: 'Malayalam', re: /[ഀ-ൿ]/g },
   hi: { name: 'Hindi (Devanagari)', re: /[ऀ-ॿ]/g },
+  bn: { name: 'Bengali', re: /[ঀ-৿]/g },
 };
 const LOCALES = Object.keys(SCRIPTS);
 

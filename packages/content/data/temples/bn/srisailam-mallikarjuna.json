@@ -1,14 +1,20 @@
 {
   "id": "srisailam-mallikarjuna",
   "locale": "bn",
+  "name": "শ্রীশৈলম মল্লিকার্জুন মন্দির",
   "nativeName": "శ్రీశైలం మల్లికార్జున స్వామి ఆలయం",
+  "deity": "মল্লিকার্জুন (একটি জ্যোতির্লিঙ্গ) রূপে শিব, দেবী ভ্রমরাম্বার (একটি শক্তিপীঠ) সঙ্গে",
+  "tradition": "শৈবধর্ম ও শাক্তধর্ম",
   "location": {
-    "city": "Srisailam",
-    "state": "Andhra Pradesh",
+    "city": "শ্রীশৈলম",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 16.0733,
     "lng": 78.8681
   },
+  "period": "প্রাচীন তীর্থ; রেড্ডি ও বিজয়নগর রাজাদের অধীনে বিকশিত",
   "century": 14,
+  "dynasty": "রেড্ডি, বিজয়নগর ও পরবর্তী",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "trilinga-kshetras",
@@ -17,18 +23,23 @@
     "paadal-petra-sthalams",
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "কৃষ্ণা নদীর উপরে অরণ্যাবৃত নাল্লামালা পাহাড়ে উঁচুতে অবস্থিত, শ্রীশৈলম ভারতীয় তীর্থগুলির মধ্যে বিরল এই অর্থে যে এটি একাধারে মল্লিকার্জুন রূপে শিবের একটি জ্যোতির্লিঙ্গ এবং ভ্রমরাম্বা রূপে দেবীর একটি শক্তিপীঠ—ভক্তির দুই মহান ধারারই এক শীর্ষ।",
   "sections": {
-    "history": "Srisailam has been sacred for well over a thousand years, praised by saints and poets and honoured in the Shaiva and Shakta scriptures alike. Set deep in the Nallamala forest above the gorge of the Krishna, its remoteness only deepened its sanctity. The fortified walls, gateways, and pillared halls that shape the temple today were largely raised under the Reddy kings and the Vijayanagara emperors, who counted Srisailam among the foremost pilgrimages of the Deccan; the great teacher Adi Shankara is traditionally said to have worshipped here.",
-    "architecture": "The temple stands within a large fortified enclosure whose stone walls carry long friezes of carved reliefs — processions, myths, and figures — among the finest such sculpted walls in the south. Within, the Mallikarjuna shrine holds the Jyotirlinga, and a separate shrine enshrines the goddess Bhramaramba, \"she of the bees,\" so that Shiva and Shakti are worshipped together at one site. Gateway towers, mandapas, and later additions cluster within the walls, high above the river that has now been dammed into a great reservoir below.",
-    "legends": "Srisailam’s legend tells of Shiva and Parvati following their son Kartikeya, who had withdrawn in a sulk to a far hill; unable to bear the separation, the divine parents came to dwell on this mountain to be near him, taking the forms of Mallikarjuna and Bhramaramba. The name joins mallika, jasmine, with Arjuna, and the goddess Bhramaramba is remembered for taking the form of a bee, bhramara, to destroy a demon. As one of the twelve Jyotirlingas and one of the eighteen Shakti Peethas, the hill gathers two of the greatest pilgrimage traditions into a single ascent.",
-    "festivals": "Maha Shivaratri is Srisailam’s supreme festival, drawing immense crowds through the night, and the Brahmotsavam that surrounds it fills days with processions and temple cars. Ugadi, the Telugu new year, and the Navaratri worship of Bhramaramba are kept with special grandeur. Kumbham and Dasara bring further celebration, and pilgrims come year-round to a shrine that unites the vows of both Shaivas and devotees of the goddess.",
-    "experience": "The road to Srisailam winds up through the Nallamala forest, and arrival at the hilltop temple carries the sense of a hard-won pilgrimage. Within the fortified walls, the long sculpted friezes reward slow walking, relief after relief emerging in the light, before darshan of the Jyotirlinga and the goddess. The forest air, the distant gleam of the dammed Krishna, and the knowledge of standing at once in a Jyotirlinga and a Shakti Peetha give the place a rare gravity; many pilgrims complete both shrines before descending through the hills."
+    "history": "শ্রীশৈলম হাজার বছরেরও বেশি সময় ধরে পবিত্র, সন্ত ও কবিদের দ্বারা প্রশংসিত এবং শৈব ও শাক্ত শাস্ত্রে সমানভাবে সম্মানিত। কৃষ্ণার গিরিখাতের উপরে নাল্লামালা অরণ্যের গভীরে অবস্থিত, এর দুর্গমতা কেবল এর পবিত্রতাকে আরও গভীর করেছে। দুর্গপ্রাচীর, তোরণ ও স্তম্ভশোভিত মণ্ডপ যা আজ মন্দিরকে রূপ দেয় তা মূলত রেড্ডি রাজা ও বিজয়নগর সম্রাটদের অধীনে নির্মিত হয়েছিল, যাঁরা শ্রীশৈলমকে দাক্ষিণাত্যের অগ্রগণ্য তীর্থগুলির মধ্যে গণ্য করতেন; মহান আচার্য আদি শঙ্কর ঐতিহ্যগতভাবে এখানে পূজা করেছিলেন বলে কথিত।",
+    "architecture": "মন্দিরটি একটি বড় দুর্গবেষ্টিত পরিসরের মধ্যে দাঁড়িয়ে আছে যার পাথরের দেয়ালগুলি খোদাই করা উৎকীর্ণচিত্রের দীর্ঘ সারি বহন করে—শোভাযাত্রা, পুরাণকথা ও মূর্তি—দক্ষিণের এমন খোদিত দেয়ালগুলির মধ্যে শ্রেষ্ঠতমদের অন্যতম। ভেতরে, মল্লিকার্জুন তীর্থ জ্যোতির্লিঙ্গটি ধারণ করে, এবং একটি পৃথক তীর্থ দেবী ভ্রমরাম্বা, 'মৌমাছিদের দেবী'কে প্রতিষ্ঠিত করে, যাতে শিব ও শক্তি একই স্থানে একসঙ্গে পূজিত হন। তোরণ, মণ্ডপ ও পরবর্তী সংযোজন দেয়ালের মধ্যে ঘনবদ্ধ হয়ে আছে, নদীর অনেক উঁচুতে, যা এখন নিচে এক বিশাল জলাধারে বাঁধা হয়েছে।",
+    "legends": "শ্রীশৈলমের কিংবদন্তি বলে শিব ও পার্বতীর কথা, যাঁরা তাঁদের পুত্র কার্তিকেয়ের অনুসরণ করেছিলেন, যিনি অভিমান করে এক দূরবর্তী পাহাড়ে সরে গিয়েছিলেন; বিচ্ছেদ সহ্য করতে না পেরে, দিব্য পিতামাতা তাঁর কাছে থাকতে এই পর্বতে বাস করতে এসেছিলেন, মল্লিকার্জুন ও ভ্রমরাম্বার রূপ ধারণ করে। নামটি মল্লিকা, জুঁইফুল, এবং অর্জুনকে যুক্ত করে, আর দেবী ভ্রমরাম্বা এক অসুরকে বধ করতে ভ্রমর, মৌমাছির, রূপ ধারণ করার জন্য স্মরণীয়। বারোটি জ্যোতির্লিঙ্গের একটি এবং আঠারোটি শক্তিপীঠের একটি হিসেবে, এই পাহাড় দুটি মহত্তম তীর্থ ঐতিহ্যকে একটিমাত্র আরোহণে সমবেত করে।",
+    "festivals": "মহাশিবরাত্রি শ্রীশৈলমের সর্বোচ্চ উৎসব, রাতভর বিপুল জনসমাগম টানে, এবং এর ঘিরে থাকা ব্রহ্মোৎসব শোভাযাত্রা ও রথে দিনগুলি ভরিয়ে তোলে। উগাদি, তেলুগু নববর্ষ, এবং ভ্রমরাম্বার নবরাত্রি পূজা বিশেষ জাঁকজমকে পালিত হয়। কুম্ভম ও দশরা আরও উদযাপন নিয়ে আসে, এবং তীর্থযাত্রীরা সারা বছর ধরে এমন এক তীর্থে আসেন যা শৈব ও দেবীভক্ত উভয়ের ব্রতকে একত্র করে।",
+    "experience": "শ্রীশৈলমের পথ নাল্লামালা অরণ্যের মধ্য দিয়ে উপরে বাঁক নিয়ে ওঠে, এবং পাহাড়চূড়ার মন্দিরে পৌঁছানো এক কষ্টার্জিত তীর্থযাত্রার অনুভূতি বহন করে। দুর্গপ্রাচীরের ভেতরে, দীর্ঘ খোদিত উৎকীর্ণচিত্রগুলি ধীরে হাঁটাকে পুরস্কৃত করে, আলোয় একের পর এক উৎকীর্ণচিত্র ফুটে ওঠে, জ্যোতির্লিঙ্গ ও দেবীর দর্শনের আগে। অরণ্যের বাতাস, বাঁধা কৃষ্ণার দূরবর্তী ঝিলিক, এবং একাধারে একটি জ্যোতির্লিঙ্গ ও একটি শক্তিপীঠে দাঁড়িয়ে থাকার জ্ঞান এই স্থানকে এক বিরল গাম্ভীর্য দেয়; বহু তীর্থযাত্রী পাহাড় বেয়ে নামার আগে উভয় তীর্থ সম্পন্ন করেন।"
   },
   "visit": {
-    "timings": "Generally open from around 4:30 am to 10:00 pm daily, with several pujas; hours extend greatly during Maha Shivaratri and Brahmotsavam.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered; footwear is removed at the temple.",
-    "photography": "Photography is generally not permitted inside the sanctums; follow posted rules and staff guidance.",
-    "gettingThere": "Srisailam is in Nandyal district, about 180 km from Kurnool and 210 km from Hyderabad, reached by road through the Nallamala hills; the nearest airport is Hyderabad."
+    "timings": "সাধারণত প্রতিদিন প্রায় ভোর ৪:৩০ থেকে রাত ১০:০০ পর্যন্ত খোলা, কয়েকটি পূজা সহ; মহাশিবরাত্রি ও ব্রহ্মোৎসবের সময় সময় অনেকখানি বেড়ে যায়।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি বা সালোয়ার কামিজ, কাঁধ ও হাঁটু ঢাকা রেখে; মন্দিরে জুতো খুলে রাখা হয়।",
+    "photography": "গর্ভগৃহগুলির ভেতরে সাধারণত ছবি তোলা অনুমোদিত নয়; টাঙানো নিয়ম ও কর্মীদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "শ্রীশৈলম নন্দ্যাল জেলায়, কুর্নুল থেকে প্রায় ১৮০ কিমি এবং হায়দরাবাদ থেকে ২১০ কিমি দূরে, নাল্লামালা পাহাড়ের মধ্য দিয়ে সড়কপথে পৌঁছানো যায়; নিকটতম বিমানবন্দর হায়দরাবাদ।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/srisailam-mallikarjuna.mp3",
+    "durationSec": 224
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.jpg",
@@ -40,5 +51,11 @@
       "webp": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.webp"
     },
     "og": "https://media.dsquaregee.com/og/srisailam-mallikarjuna.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/srisailam-mallikarjuna.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.jpg",
+    "durationSec": 162,
+    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)"
   }
 }

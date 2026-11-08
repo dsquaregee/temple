@@ -7,6 +7,7 @@ import {
   layoutCircuitMap, shortName, wrapText, clipRing, smoothPath, drivingOrder, haversineKm, separateDots,
   LABEL_LIMIT, DOT_R, type MapStop,
 } from '../src/circuit-map.ts';
+import { LOCALES } from '../src/types.ts';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..', '..', '..');
 const data = join(root, 'packages', 'content', 'data');
@@ -64,7 +65,8 @@ function checkLayout(stops: MapStop[], offset: number) {
   assert.match(m.routePath, /^M[\d.-]+ [\d.-]+( C[\d. -]+)*$/);
 }
 
-for (const locale of readdirSync(join(data, 'circuits'))) {
+// Only the shipped locales (in LOCALES); not-yet-launched stub dirs are dormant.
+for (const locale of readdirSync(join(data, 'circuits')).filter((l) => (LOCALES as readonly string[]).includes(l))) {
   for (const file of readdirSync(join(data, 'circuits', locale))) {
     const id = file.replace(/\.json$/, '');
     test(`route map layout: ${locale}/${id}`, () => {

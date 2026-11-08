@@ -1,31 +1,38 @@
 {
   "id": "kalvar-thirukkarvanam",
   "locale": "bn",
+  "name": "কল্বর পেরুমাল মন্দির (তিরুক্কার্বানম), কাঞ্চিপুরম",
   "nativeName": "கள்வர் பெருமாள் கோயில் (திருக்கார்வானம்), காஞ்சிபுரம்",
+  "deity": "বিষ্ণু কল্বর পেরুমাল রূপে, দণ্ডায়মান, দেবী কমলবল্লী নাচিয়ারের সঙ্গে — তিরুক্কার্বানমের দিব্য দেশম, উলগলন্ত পেরুমাল মন্দিরের ভেতরে অবস্থিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.8392,
     "lng": 79.705
   },
+  "period": "থোণ্ডৈ নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পল্লব (আশ্রয়দাতা মন্দির, চোল, বিজয়নগর ও নায়ক সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "তিরুক্কার্বানম কাঞ্চিপুরমের উলগলন্ত পেরুমাল প্রাঙ্গণের ভেতরকার চারটি দিব্য দেশমের একটি, যেখানে বিষ্ণু দ্বিতীয় প্রাঙ্গণে কল্বর, গুপ্তচারী প্রভু রূপে দাঁড়িয়ে আছেন, তিরুমঙ্গৈ আলবার কর্তৃক স্তুত।",
   "sections": {
-    "history": "Thirukkarvanam is not a temple of its own but a Divya Desam within the Ulagalantha Perumal Temple of Periya Kanchi, the same complex that holds Thiruooragam, Thiruneeragam and Thirukkaragam. The four are believed to have once been independent shrines, and a single verse of Thirumangai Alvar names them together. From the Alvar's pasurams in the Nalayira Divya Prabandham comes the picture the tradition keeps of this shrine: the Lord is Kalvar, standing, with Kamalavalli Nachiyar. The host temple is believed to be a Pallava foundation, with later additions by the Medieval Cholas, the Vijayanagara kings and the Nayaks, and is administered by the Tamil Nadu HR&CE Department. It is one of the 108 Divya Desams of Thondai Nadu.",
-    "architecture": "The shrine stands in the second precinct of the Ulagalantha Perumal complex. Kalvar Perumal is worshipped standing, with Kamalavalli Nachiyar, who is also known by the name Thamaraiyal, the lady of the lotus. His sanctum rises under the Pushkala Vimanam, and the sacred water is the Gowri Thadagam, also called Gowri Theertham. It is a modest sanctum within the larger walled complex, reached on the walk from the great Trivikrama sanctum.",
-    "legends": "Tradition connects this shrine with Parvati, called Gowri, who is said to have worshipped here, and the tank bears her name. The sthala purana tells that Parvati once saw Vishnu overhearing her conversation with Lakshmi, and called him Kalvan, the stealthy one, the thief. The name Kalvar is devotedly read as a name of love: the Lord who steals into the heart of the devotee unseen, and takes it.",
-    "festivals": "The shrine keeps the calendar of the Ulagalantha Perumal Temple: Vaikunta Ekadashi, the annual Brahmotsavam with processions through the streets of Kanchipuram, and the recitation of the Divya Prabandham in the month of Margazhi. Confirm dates locally.",
-    "experience": "Thirukkarvanam is a place to linger over its name. Find the standing Kalvar Perumal in the second precinct, and ask the priests to point out the Gowri Thadagam and to tell the story of Parvati's remark. Combine the visit with the other three Divya Desams of the complex to make one slow circuit through four abodes of Vishnu."
+    "history": "তিরুক্কার্বানম স্বতন্ত্র কোনো মন্দির নয় বরং পেরিয় কাঞ্চির উলগলন্ত পেরুমাল মন্দিরের ভেতরকার একটি দিব্য দেশম, সেই একই প্রাঙ্গণ যা তিরুউরগম, তিরুনীরগম ও তিরুক্করগমকে ধারণ করে। মনে করা হয় এই চারটি একদা স্বতন্ত্র মন্দির ছিল, এবং তিরুমঙ্গৈ আলবারের একটি একক শ্লোক এগুলিকে একসঙ্গে নামোল্লেখ করে। নালায়িরা দিব্য প্রবন্ধমে আলবারের পাসুরম থেকেই এই মন্দির সম্পর্কে ঐতিহ্যের ধারণা: প্রভু কল্বর, দণ্ডায়মান, কমলবল্লী নাচিয়ারের সঙ্গে। আশ্রয়দাতা মন্দিরটি পল্লব প্রতিষ্ঠান বলে বিশ্বাস করা হয়, পরবর্তীতে মধ্যযুগীয় চোল, বিজয়নগর রাজা ও নায়কদের সংযোজনসহ, এবং তামিলনাড়ু এইচআর অ্যান্ড সিই দপ্তর কর্তৃক পরিচালিত। এটি থোণ্ডৈ নাড়ুর ১০৮টি দিব্য দেশমের একটি।",
+    "architecture": "মন্দিরটি উলগলন্ত পেরুমাল প্রাঙ্গণের দ্বিতীয় প্রাঙ্গণে অবস্থিত। কল্বর পেরুমাল দণ্ডায়মান রূপে পূজিত, কমলবল্লী নাচিয়ারের সঙ্গে, যিনি থামরৈয়াল, পদ্মের দেবী নামেও পরিচিত। তাঁর গর্ভগৃহ পুষ্কল বিমানমের নিচে উত্থিত, এবং পবিত্র জল হলো গৌরী থড়গম, গৌরী তীর্থম নামেও পরিচিত। এটি বৃহত্তর প্রাচীরঘেরা প্রাঙ্গণের মধ্যে একটি সাদামাটা গর্ভগৃহ, মহান ত্রিবিক্রম গর্ভগৃহ থেকে হেঁটে পৌঁছানো যায়।",
+    "legends": "ঐতিহ্য এই মন্দিরকে পার্বতীর সঙ্গে যুক্ত করে, যাঁকে গৌরী বলা হয়, যিনি এখানে পূজা করেছিলেন বলে কথিত, এবং পুকুরটি তাঁর নাম বহন করে। স্থল পুরাণ বলে পার্বতী একবার দেখেন বিষ্ণু লক্ষ্মীর সঙ্গে তাঁর কথোপকথন আড়ি পেতে শুনছেন, এবং তাঁকে কল্বন, গুপ্তচারী, চোর বলে ডাকেন। কল্বর নামটি ভক্তিভরে প্রেমের নাম হিসেবে পড়া হয়: সেই প্রভু যিনি অদৃশ্যভাবে ভক্তের হৃদয়ে প্রবেশ করেন, এবং তা হরণ করেন।",
+    "festivals": "মন্দিরটি উলগলন্ত পেরুমাল মন্দিরের পঞ্জিকা পালন করে: বৈকুণ্ঠ একাদশী, কাঞ্চিপুরমের পথে পথে শোভাযাত্রাসহ বার্ষিক ব্রহ্মোৎসবম, এবং মার্গজি মাসে দিব্য প্রবন্ধমের পাঠ। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "তিরুক্কার্বানম এমন এক স্থান যেখানে তার নাম নিয়ে সময় কাটানো যায়। দ্বিতীয় প্রাঙ্গণে দণ্ডায়মান কল্বর পেরুমালকে খুঁজে নিন, এবং পুরোহিতদের অনুরোধ করুন গৌরী থড়গম দেখিয়ে দিতে ও পার্বতীর মন্তব্যের কাহিনী বলতে। প্রাঙ্গণের অন্য তিনটি দিব্য দেশমের সঙ্গে দর্শনটি যুক্ত করে বিষ্ণুর চারটি আবাসের মধ্য দিয়ে এক ধীর পরিক্রমা করুন।"
   },
   "visit": {
-    "timings": "The shrine opens with the Ulagalantha Perumal Temple: morning and evening darshan sessions with a midday closure. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
-    "gettingThere": "This is a shrine inside the Ulagalantha Perumal Temple in the old town of Kanchipuram (Periya Kanchi); enter by that temple's gateway and ask for Thirukkarvanam in the second precinct. Chennai, about 70 km to the north-east, is the nearest major airport, and Kanchipuram town is the nearest railhead."
+    "timings": "মন্দিরটি উলগলন্ত পেরুমাল মন্দিরের সঙ্গে খোলে: সকাল ও সন্ধ্যার দর্শন সময় এবং দুপুরে বন্ধ। যাওয়ার আগে স্থানীয়ভাবে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলায় বিধিনিষেধ আছে; প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "এটি কাঞ্চিপুরমের পুরনো শহরে (পেরিয় কাঞ্চি) উলগলন্ত পেরুমাল মন্দিরের ভেতরকার একটি মন্দির; সেই মন্দিরের তোরণ দিয়ে প্রবেশ করুন এবং দ্বিতীয় প্রাঙ্গণে তিরুক্কার্বানমের কথা জিজ্ঞাসা করুন। উত্তর-পূর্বে প্রায় ৭০ কিমি দূরের চেন্নাই নিকটতম প্রধান বিমানবন্দর, এবং কাঞ্চিপুরম শহর নিকটতম রেলস্টেশন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kalvar-thirukkarvanam.jpg",

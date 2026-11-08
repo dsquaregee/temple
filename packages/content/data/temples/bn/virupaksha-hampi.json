@@ -1,30 +1,41 @@
 {
   "id": "virupaksha-hampi",
   "locale": "bn",
+  "name": "বিরূপাক্ষ মন্দির, হাম্পি",
   "nativeName": "ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "শিব, বিরূপাক্ষ (পম্পাপতি) রূপে পূজিত, নদী-দেবী পম্পার প্রভু",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "হাম্পি",
+    "state": "কর্ণাটক",
     "lat": 15.335,
     "lng": 76.4599
   },
+  "period": "সপ্তম শতকের মধ্যে উৎপত্তি; বিজয়নগর সাম্রাজ্যের অধীনে ১৪শ–১৬শ শতকে বর্তমান জাঁকজমকে উন্নীত",
   "century": 15,
+  "dynasty": "বিজয়নগর",
+  "style": "দ্রাবিড়, বিজয়নগর পর্ব",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "তুঙ্গভদ্রার পাথরছড়ানো তীরে, যেখানে বিজয়নগরের সম্রাটরা একদা দক্ষিণের সবচেয়ে সমৃদ্ধ রাজ্য শাসন করতেন, সেখানে বিরূপাক্ষ মন্দির আজও তার প্রদীপ জ্বালিয়ে রাখে—চারপাশের অন্তর্হিত নগরীর চেয়েও প্রাচীন এক তীর্থ, এবং হাম্পির সেই একমাত্র মহামন্দির যেখানে পূজা কখনও থামেনি।",
   "sections": {
-    "history": "Virupaksha is older than the empire that made it famous. A shrine to Shiva as Pampapati stood on this bend of the Tungabhadra by at least the 7th century, long before Hampi became a capital. Its greatness came with the Vijayanagara empire, founded in the 14th century, whose kings took Virupaksha as their tutelary deity and signed their royal grants in his name. Under the emperors — above all Krishnadevaraya, whose reign began in 1509 — the modest shrine grew into a vast complex, its towering eastern gateway and pillared halls raised to match the ambition of a court that ruled almost the whole of South India. In 1565 the city fell to the armies of the Deccan sultanates and was abandoned to ruin; its palaces and markets are today the deserted stones that spread for miles. Yet Virupaksha alone was never forsaken. Worship continued through the centuries of desolation, and the temple remains a living shrine at the heart of a World Heritage landscape, inscribed by UNESCO in 1986 as part of the Group of Monuments at Hampi.",
-    "architecture": "The temple announces itself from far off by its great eastern gopuram, a nine-storeyed tower rising close to fifty metres above the bazaar street that runs toward it. Passing beneath it, the pilgrim crosses successive courtyards to inner gateways and at last to the sanctum of Virupaksha. The most admired addition is the ranga mandapa, the great pillared hall built by Krishnadevaraya around 1510 to mark his coronation, its columns carved with rearing yalis and its ceiling painted with scenes of the gods and of the sage Vidyaranya borne in procession. A celebrated curiosity survives in a chamber behind the sanctum: through a small opening, the tall gopuram casts an inverted image of itself upon the inner wall — a pinhole-camera effect that has drawn wonder for centuries. Around the temple, the Vijayanagara manner shows everywhere in the composite pillars, the animal brackets, and the ordered progression from bright outer court to dark, ancient shrine.",
-    "legends": "The temple's story is bound to the goddess Pampa, an ancient local river-deity identified with Parvati, from whom the Tungabhadra's older name Pampa and the very name Hampi derive. Devotion holds that Pampa performed austerities on this spot to win Shiva, who as Virupaksha — the lord 'of the many forms' or 'the oblique-eyed' — took her as his bride; the temple thus marks a divine marriage still celebrated here each year. The place is woven, too, into the world of the Ramayana: the surrounding country is identified with Kishkindha, the realm of the monkey king Sugriva and of Hanuman, and pilgrims point to nearby hills and the Pampa Sarovar as sites of that epic. When Vijayanagara's founders sought to build their capital, tradition credits the sage Vidyaranya with guiding them — and it is his festival image that the painted ceiling of the great hall still honours.",
-    "festivals": "As a living temple, Virupaksha keeps a full Shaiva calendar, and its festivals fill the long bazaar street with crowds as they must have in imperial days. The greatest is the annual car festival, when Virupaksha and Pampa are drawn through the town in a towering wooden chariot to the pull of thousands of hands. The divine marriage of the god and goddess is celebrated with special splendour each spring, and Maha Shivaratri brings night-long worship. The temple elephant, long a beloved fixture of the courtyard, blesses pilgrims at the gate. Through every festival the sense persists that this is not a monument revived for visitors but a shrine whose worship has simply never been interrupted.",
-    "experience": "Hampi is one of the most extraordinary landscapes in India — a sea of golden granite boulders along a green river, scattered for miles with the ruins of a lost imperial city — and Virupaksha is its living heart. Walk up the old bazaar street toward the great tower at dawn, when the light is soft and the temple elephant is being bathed at the river ghats below. Within, the courts are cool and worn smooth by centuries of feet; seek out the chamber where the gopuram hangs upside down on the wall. Then give the rest of a day, or several, to the ruins around it — the Vittala temple with its stone chariot, the royal enclosure, the riverside shrines — for Virupaksha is best understood as the one flame still burning in a city the world let go."
+    "history": "যে সাম্রাজ্য একে খ্যাতি দিয়েছিল, বিরূপাক্ষ তার চেয়েও প্রাচীন। অন্তত সপ্তম শতকের মধ্যেই পম্পাপতি রূপে শিবের একটি তীর্থ তুঙ্গভদ্রার এই বাঁকে দাঁড়িয়ে ছিল, হাম্পি রাজধানী হওয়ার বহু আগে। এর মহত্ত্ব এসেছিল চতুর্দশ শতকে প্রতিষ্ঠিত বিজয়নগর সাম্রাজ্যের সঙ্গে, যার রাজারা বিরূপাক্ষকে তাঁদের ইষ্টদেবতা রূপে গ্রহণ করেছিলেন এবং তাঁর নামে তাঁদের রাজকীয় দানপত্র স্বাক্ষর করতেন। সম্রাটদের অধীনে—সর্বোপরি কৃষ্ণদেবরায়, যাঁর রাজত্ব শুরু হয় ১৫০৯ সালে—বিনম্র তীর্থটি এক বিশাল পরিসরে পরিণত হয়, যার উচ্চ পূর্ব তোরণ ও স্তম্ভিত মণ্ডপ প্রায় সমগ্র দক্ষিণ ভারত শাসনকারী এক রাজসভার উচ্চাকাঙ্ক্ষার সঙ্গে মিল রেখে নির্মিত হয়েছিল। ১৫৬৫ সালে নগরীটি দাক্ষিণাত্যের সুলতানদের সেনাবাহিনীর কাছে পতিত হয় এবং ধ্বংসের মধ্যে পরিত্যক্ত হয়; এর প্রাসাদ ও হাটবাজার আজ মাইলের পর মাইল ছড়ানো নির্জন পাথর। তবু কেবল বিরূপাক্ষই কখনও পরিত্যক্ত হয়নি। জনশূন্যতার শতাব্দীজুড়ে পূজা চলেছে, এবং মন্দিরটি এক বিশ্ব-ঐতিহ্য ভূদৃশ্যের কেন্দ্রে এক জীবন্ত তীর্থ হয়ে রয়েছে, যা ১৯৮৬ সালে হাম্পির স্মারকসমূহের দলের অংশ হিসেবে ইউনেস্কো কর্তৃক তালিকাভুক্ত হয়েছিল।",
+    "architecture": "মন্দিরটি বহুদূর থেকে তার বিশাল পূর্ব গোপুরম দিয়ে নিজের উপস্থিতি জানান দেয়, এক নয়তলা তোরণ যা তার দিকে চলা হাটের রাস্তার উপরে প্রায় পঞ্চাশ মিটার উঁচুতে ওঠে। এর নিচ দিয়ে গিয়ে তীর্থযাত্রী একের পর এক প্রাঙ্গণ পেরিয়ে ভেতরের তোরণে এবং অবশেষে বিরূপাক্ষের গর্ভগৃহে পৌঁছায়। সবচেয়ে প্রশংসিত সংযোজন হল রঙ্গ মণ্ডপ, কৃষ্ণদেবরায় তাঁর রাজ্যাভিষেক স্মরণে প্রায় ১৫১০ সালে নির্মিত মহা স্তম্ভিত মণ্ডপ, যার স্তম্ভে খোদিত উত্থিত যালি এবং ছাদে অঙ্কিত দেবতাদের ও শোভাযাত্রায় বাহিত ঋষি বিদ্যারণ্যের দৃশ্য। গর্ভগৃহের পেছনের একটি কক্ষে এক খ্যাত কৌতূহল টিকে আছে: একটি ছোট ছিদ্র দিয়ে উঁচু গোপুরম ভেতরের দেয়ালে নিজের এক উল্টানো প্রতিবিম্ব ফেলে—এক পিনহোল-ক্যামেরার প্রভাব যা শতাব্দীর পর শতাব্দী বিস্ময় জাগিয়েছে। মন্দিরের চারপাশে যৌগিক স্তম্ভে, পশু-বন্ধনীতে, এবং উজ্জ্বল বাইরের প্রাঙ্গণ থেকে অন্ধকার, প্রাচীন গর্ভগৃহে সুশৃঙ্খল অগ্রগমনে বিজয়নগর রীতি সর্বত্র প্রকাশ পায়।",
+    "legends": "মন্দিরের কাহিনি দেবী পম্পার সঙ্গে আবদ্ধ, এক প্রাচীন স্থানীয় নদী-দেবী যিনি পার্বতীর সঙ্গে অভিন্ন, যাঁর থেকে তুঙ্গভদ্রার পুরনো নাম পম্পা এবং হাম্পি নামটিই উদ্ভূত। ভক্তি মানে যে পম্পা শিবকে লাভ করতে এই স্থানে তপস্যা করেছিলেন, এবং শিব বিরূপাক্ষ রূপে—'বহু রূপের' বা 'তির্যকাক্ষ' প্রভু—তাঁকে বধূরূপে গ্রহণ করেন; মন্দিরটি তাই এক দিব্য বিবাহ চিহ্নিত করে যা আজও এখানে প্রতি বছর উদযাপিত হয়। স্থানটি রামায়ণের জগতেও বোনা: চারপাশের অঞ্চলকে কিষ্কিন্ধা বলে চিহ্নিত করা হয়, বানররাজ সুগ্রীব ও হনুমানের রাজ্য, এবং তীর্থযাত্রীরা কাছের পাহাড় ও পম্পা সরোবরকে সেই মহাকাব্যের স্থান বলে নির্দেশ করেন। বিজয়নগরের প্রতিষ্ঠাতারা যখন তাঁদের রাজধানী গড়তে চেয়েছিলেন, ঐতিহ্য তাঁদের পথ দেখানোর কৃতিত্ব ঋষি বিদ্যারণ্যকে দেয়—এবং তাঁরই উৎসব-মূর্তিকে মহা মণ্ডপের অঙ্কিত ছাদ আজও সম্মান জানায়।",
+    "festivals": "জীবন্ত মন্দির হিসেবে বিরূপাক্ষ এক পূর্ণ শৈব পঞ্জিকা পালন করে, এবং এর উৎসব দীর্ঘ হাটের রাস্তাকে জনসমাগমে পূর্ণ করে, যেমন সাম্রাজ্যের দিনে হত। সর্ববৃহৎ হল বার্ষিক রথযাত্রা উৎসব, যখন বিরূপাক্ষ ও পম্পাকে হাজার হাতের টানে এক উঁচু কাঠের রথে নগরীর মধ্য দিয়ে টানা হয়। দেব ও দেবীর দিব্য বিবাহ প্রতি বসন্তে বিশেষ জাঁকজমকে উদযাপিত হয়, এবং মহাশিবরাত্রি রাত্রিব্যাপী পূজা নিয়ে আসে। মন্দিরের হাতি, বহুকাল ধরে প্রাঙ্গণের এক প্রিয় উপস্থিতি, তোরণে তীর্থযাত্রীদের আশীর্বাদ করে। প্রতিটি উৎসবজুড়ে এই অনুভূতি টিকে থাকে যে এটি দর্শনার্থীদের জন্য পুনরুজ্জীবিত কোনো স্মারক নয়, বরং এমন এক তীর্থ যার পূজা কেবল কখনও ব্যাহত হয়নি।",
+    "experience": "হাম্পি ভারতের সবচেয়ে অসাধারণ ভূদৃশ্যগুলির একটি—এক সবুজ নদীর ধারে সোনালি গ্রানাইট পাথরের সমুদ্র, মাইলের পর মাইল এক হারানো সাম্রাজ্যিক নগরীর ধ্বংসাবশেষে ছড়ানো—এবং বিরূপাক্ষ তার জীবন্ত হৃদয়। ভোরবেলা পুরনো হাটের রাস্তা ধরে বিশাল তোরণের দিকে হেঁটে যান, যখন আলো কোমল এবং নিচের নদী-ঘাটে মন্দিরের হাতিকে স্নান করানো হচ্ছে। ভেতরে, প্রাঙ্গণগুলি শীতল এবং শতাব্দীর পদচারণায় মসৃণ হয়ে গেছে; সেই কক্ষটি খুঁজে নিন যেখানে গোপুরম দেয়ালে উল্টো হয়ে ঝোলে। তারপর চারপাশের ধ্বংসাবশেষের জন্য একটি দিন, বা কয়েক দিন সময় রাখুন—পাথরের রথসহ বিট্ঠল মন্দির, রাজকীয় পরিসর, নদীতীরের তীর্থগুলি—কারণ বিরূপাক্ষকে সবচেয়ে ভালোভাবে বোঝা যায় এক নগরীর একমাত্র এখনও জ্বলন্ত শিখা হিসেবে, যে নগরীকে পৃথিবী হাতছাড়া হতে দিয়েছিল।"
   },
   "visit": {
-    "timings": "Open daily, roughly from dawn to around 6 pm with a midday break; the main worship is offered morning and evening. Early morning at the river ghats below the temple is the finest hour.",
-    "dressCode": "Modest dress is expected in this living temple — shoulders and knees covered; footwear is removed before entering the shrine.",
-    "photography": "Photography is generally permitted in the outer courts and across the wider Hampi site; photography inside the sanctum is restricted, and a small camera fee may apply. Follow posted signs and the priests' guidance.",
-    "gettingThere": "Hampi lies in Karnataka's Ballari (Bellary) district, beside the village of Hampi and the town of Hospet (Hosapete), about 13 km away, which has the nearest railway station and hotels. It is roughly 340 km north of Bengaluru. The Virupaksha temple stands at the head of the old bazaar, the natural starting point for exploring the ruins."
+    "timings": "প্রতিদিন খোলা, মোটামুটি ভোর থেকে সন্ধ্যা ৬টা পর্যন্ত, মধ্যাহ্নে বিরতি সহ; প্রধান পূজা সকাল ও সন্ধ্যায় নিবেদিত হয়। মন্দিরের নিচে নদী-ঘাটে ভোরবেলাই শ্রেষ্ঠ সময়।",
+    "dressCode": "এই জীবন্ত মন্দিরে বিনম্র পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা রেখে; তীর্থে ঢোকার আগে জুতো খুলে রাখা হয়।",
+    "photography": "বাইরের প্রাঙ্গণে ও বৃহত্তর হাম্পি স্থলজুড়ে সাধারণত ছবি তোলা অনুমোদিত; গর্ভগৃহের ভেতরে ছবি তোলা সীমিত, এবং সামান্য ক্যামেরা ফি লাগতে পারে। লাগানো নির্দেশ ও পুরোহিতদের পরামর্শ অনুসরণ করুন।",
+    "gettingThere": "হাম্পি কর্ণাটকের বাল্লারি (বেল্লারি) জেলায়, হাম্পি গ্রাম ও হোসপেট (হোসপেটে) শহরের পাশে, যা প্রায় ১৩ কিমি দূরে এবং যেখানে নিকটতম রেলস্টেশন ও হোটেল রয়েছে। এটি বেঙ্গালুরু থেকে উত্তরে মোটামুটি ৩৪০ কিমি দূরে। বিরূপাক্ষ মন্দির পুরনো হাটের মাথায় দাঁড়িয়ে আছে, ধ্বংসাবশেষ অন্বেষণের স্বাভাবিক সূচনাবিন্দু।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/virupaksha-hampi.mp3",
+    "durationSec": 357
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/virupaksha-hampi.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/virupaksha-hampi.webp"
     },
     "og": "https://media.dsquaregee.com/og/virupaksha-hampi.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/virupaksha-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/virupaksha-hampi.jpg",
+    "durationSec": 263,
+    "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

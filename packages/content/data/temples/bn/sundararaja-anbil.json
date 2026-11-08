@@ -1,29 +1,36 @@
 {
   "id": "sundararaja-anbil",
   "locale": "bn",
+  "name": "সুন্দররাজ পেরুমাল মন্দির, অনবিল",
   "nativeName": "சுந்தரராஜப் பெருமாள் கோயில், அன்பில்",
+  "deity": "বিষ্ণু সুন্দররাজ পেরুমাল (বডিবঝগিয় নম্বি) রূপে, শয়ান অবস্থায়, দেবী অঝগিয়বল্লী সহ — কোল্লিডম তীরের সুদর্শন প্রভু",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Anbil",
-    "state": "Tamil Nadu",
+    "city": "অনবিল",
+    "state": "তামিলনাড়ু",
     "lat": 10.868,
     "lng": 78.882
   },
+  "period": "চোল অঞ্চলের এক দিব্যদেশম, নালায়ির দিব্য প্রবন্ধমে তিরুমঝিসৈ আঝ্বারের স্তুত",
   "century": 8,
+  "dynasty": "চোল (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "অনবিলে কোল্লিডমের তীরে বিষ্ণু সুন্দররাজ পেরুমাল রূপে শয়ান, সুদর্শন বডিবঝগিয় নম্বি, অঝগিয়বল্লী থায়ার সহ — তিরুমঝিসৈ আঝ্বারের স্তুত এক চোল অঞ্চলের দিব্যদেশম।",
   "sections": {
-    "history": "Anbil lies on the northern bank of the Kollidam, east of Lalgudi in the Tiruchirappalli district, and the place is also remembered by the old names Mandukapuri and Brahmapuri. It is one of the 108 Divya Desams in Chola Nadu, sung by Thirumazhisai Alvar in the Nalayira Divya Prabandham. The temple is believed to have been raised by the Cholas in the later eighth century, and the Anbil copper plates preserve the memory of Chola generosity to the village. Anbil was also the home of Aniruddha Brahmarayar, the minister of the Chola king Sundara Chola. The temple is administered today by the Tamil Nadu Hindu Religious and Charitable Endowments Department.",
-    "architecture": "The sanctum stands under the Tharaka Vimanam, and the temple tank is the Manduka Theertham, named for the frog (manduka) of the old place name. Sundararaja Perumal reclines in bhujanga sayanam, with his two consorts holding his feet in such a way that the feet are hidden from view — a rare detail in the iconography of the reclining Lord. Azhagiyavalli Thayar has her own shrine. The temple follows the Dravidian manner of the Chola country.",
-    "legends": "The sthala purana tells that Brahma, proud of his power of creation, was cursed by Vishnu to be born on earth. Repenting, he came to Anbil, prayed to the Lord here and was relieved of the curse; hence the place is called Brahmapuri. The Lord is known as Vadivazhagiya Nambi, the one of beautiful form, a name that gives the temple its tender character.",
-    "festivals": "The best-known festival is the Theerthavari of the month of Masi, in February–March, when the Lord is taken in procession to the water. Vaikunta Ekadashi is also observed with devotion. Confirm festival dates locally, as they follow the Tamil almanac.",
-    "experience": "A tranquil riverside Divya Desam away from the busier shrines of the Cauvery delta. Look for the hidden feet of the reclining Lord, walk around the Manduka Theertham, and pause to remember that this is the land of Aniruddha Brahmarayar. It combines well with a visit to Srirangam or Lalgudi."
+    "history": "অনবিল কোল্লিডমের উত্তর তীরে, তিরুচিরাপল্লী জেলায় লালগুড়ির পূর্বে অবস্থিত, এবং স্থানটি মণ্ডুকপুরী ও ব্রহ্মপুরী পুরনো নামেও স্মরিত। এটি চোল নাডুর ১০৮টি দিব্যদেশমের একটি, নালায়ির দিব্য প্রবন্ধমে তিরুমঝিসৈ আঝ্বারের স্তুত। মন্দিরটি অষ্টম শতাব্দীর শেষভাগে চোলদের দ্বারা নির্মিত বলে মনে করা হয়, এবং অনবিল তাম্রশাসন গ্রামটির প্রতি চোল দানশীলতার স্মৃতি রক্ষা করে। অনবিল ছিল চোল রাজা সুন্দর চোলের মন্ত্রী অনিরুদ্ধ ব্রহ্মরায়রেরও আবাস। মন্দিরটি আজ তামিলনাড়ু হিন্দু ধর্মীয় ও দাতব্য ন্যাস বিভাগ কর্তৃক পরিচালিত।",
+    "architecture": "গর্ভগৃহটি তারক বিমানমের নিচে অবস্থিত, এবং মন্দিরের পুষ্করিণী হলো মণ্ডুক তীর্থম, পুরনো স্থাননামের ব্যাঙের (মণ্ডুক) নামে নামাঙ্কিত। সুন্দররাজ পেরুমাল ভুজঙ্গ শয়নমে শয়ান, তাঁর দুই পত্নী তাঁর চরণ এমনভাবে ধরে আছেন যে চরণ দৃষ্টির অগোচরে থাকে — শয়ান প্রভুর মূর্তিবিদ্যায় এক বিরল বৈশিষ্ট্য। অঝগিয়বল্লী থায়ারের নিজস্ব তীর্থ আছে। মন্দিরটি চোল অঞ্চলের দ্রাবিড় রীতি অনুসরণ করে।",
+    "legends": "স্থলপুরাণ বলে যে ব্রহ্মা, তাঁর সৃষ্টিশক্তিতে গর্বিত হয়ে, বিষ্ণু কর্তৃক পৃথিবীতে জন্মগ্রহণের অভিশাপ পান। অনুতপ্ত হয়ে তিনি অনবিলে আসেন, এখানকার প্রভুর কাছে প্রার্থনা করেন এবং অভিশাপ থেকে মুক্তি পান; তাই স্থানটিকে ব্রহ্মপুরী বলা হয়। প্রভু বডিবঝগিয় নম্বি নামে পরিচিত, সুন্দর রূপের অধিকারী, এমন এক নাম যা মন্দিরকে এক কোমল চরিত্র দেয়।",
+    "festivals": "সবচেয়ে সুপরিচিত উৎসব হলো মাসি মাসের (ফেব্রুয়ারি–মার্চ) তীর্থবারি, যখন প্রভুকে শোভাযাত্রায় জলের কাছে নিয়ে যাওয়া হয়। বৈকুণ্ঠ একাদশীও ভক্তিভরে পালিত হয়। উৎসবের তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন, কারণ তা তামিল পঞ্জিকা অনুসরণ করে।",
+    "experience": "কাবেরী ব-দ্বীপের ব্যস্ততর তীর্থগুলির থেকে দূরে এক শান্ত নদীতীরবর্তী দিব্যদেশম। শয়ান প্রভুর লুকানো চরণের খোঁজ করুন, মণ্ডুক তীর্থমের চারপাশে হাঁটুন, এবং থামুন এই স্মরণে যে এটি অনিরুদ্ধ ব্রহ্মরায়রের ভূমি। এটি শ্রীরঙ্গম বা লালগুড়ি ভ্রমণের সঙ্গে ভালোভাবে মেলে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is the busiest day. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Anbil lies on the northern bank of the Kollidam, east of Lalgudi, roughly 30 km from Tiruchirappalli. Tiruchirappalli Junction (and Lalgudi station on the line nearby) and Tiruchirappalli International Airport are the nearest gateways; the last stretch is by road, and local buses and taxis serve the village."
+    "timings": "সকালে ও সন্ধ্যায় দর্শনকালসহ প্রতিদিন খোলা, মধ্যাহ্নে বিরতি থাকে; বৈকুণ্ঠ একাদশী সবচেয়ে ব্যস্ত দিন। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে আলোকচিত্র গ্রহণ নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা মেনে চলুন।",
+    "gettingThere": "অনবিল কোল্লিডমের উত্তর তীরে, লালগুড়ির পূর্বে, তিরুচিরাপল্লী থেকে প্রায় ৩০ কিমি দূরে অবস্থিত। তিরুচিরাপল্লী জংশন (এবং কাছের লাইনে লালগুড়ি স্টেশন) ও তিরুচিরাপল্লী আন্তর্জাতিক বিমানবন্দর নিকটতম প্রবেশদ্বার; শেষ অংশ সড়কপথে, এবং স্থানীয় বাস ও ট্যাক্সি গ্রামে পৌঁছে দেয়।"
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "onakantheeswarar-kanchipuram",
   "locale": "bn",
+  "name": "ওণকান্তীশ্বরর মন্দির, কাঞ্চিপুরম",
   "nativeName": "ஓணகாந்தீஸ்வரர் கோயில்",
+  "deity": "শিব ওণ কান্তীশ্বরর রূপে, কাঞ্চিপুরম ঐতিহ্যে দেবী কামাক্ষীর সঙ্গে পূজিত",
+  "tradition": "শৈব",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.8506,
     "lng": 79.6942
   },
+  "period": "কাঞ্চিপুরমের প্রাচীন শিব মন্দির, তেবারমে গীত (অষ্টম শতাব্দী); কাঠামোগত মন্দির পরবর্তী সংযোজন সহ",
   "century": 8,
+  "dynasty": "মধ্যযুগীয় তামিল পৃষ্ঠপোষক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ওণ কান্তীশ্বরর, তেবারমের তিরু ওণকান্তন থলি, কাঞ্চিপুরমের প্রাচীন শিব মন্দিরগুলির একটি, এর প্রাচীরের মধ্যে তিনটি লিঙ্গের জন্য এবং ওণন ও কান্তন নামের দুই ভক্তের জন্য পরিচিত, যাঁদের নাম এটি বহন করে।",
   "sections": {
-    "history": "Within the sacred city of Kanchipuram stands the shrine of Ona Kantheeswarar, sung by the saints and so a Paadal Petra Sthalam; in the hymns it is called Tiru Onakanthan Thali. The temple takes its name from two figures of its legend, Onan and Kaanthan, remembered in tradition as commanders of the army of the asura king Banasura, who are said to have worshipped the Lord here and given the shrine its enduring name. The temple stands in the Panjupettai quarter of the city, its shrines raised on an elevated platform, and it is kept in worship under the state endowments board, one of the smaller Tevaram shrines of a city dense with ancient sanctuaries.",
-    "architecture": "The temple is entered beneath a small three-tiered rajagopuram, and its shrines stand together on a raised structure. Its distinctive feature is the presence of three Shiva lingas, each in its own sanctum — two held in tradition to be the lingas worshipped by Onan and Kaanthan, with a third associated with the temple's legend. The presiding linga is honoured as swayambhu, self-manifested, and behind it the Lord and the goddess are shown together in the posture of their sacred marriage, the tirumana kolam. In keeping with the Kanchipuram tradition, the Mother Goddess is worshipped as Kamakshi.",
-    "legends": "The legend of the shrine turns on its two namesakes, Onan and Kaanthan, commanders in the service of the asura king Banasura. Drawn to devotion, they are said to have obtained a linga and worshipped Shiva at this spot, and from their names the Lord came to be called Ona Kantheeswarar and the shrine Tiru Onakanthan Thali. The three lingas of the temple are read in tradition as the signs of this devotion, and the shrine keeps the memory of those who turned from their former nature to the worship of the Lord. Accounts of the legend differ in their details from source to source.",
-    "festivals": "The temple observes the festivals of the Shaiva year — Maha Shivaratri, the monthly Pradosham, and the days sacred to Shiva — in the manner of Kanchipuram's older shrines. As the dates follow the Tamil calendar, it is best to confirm them locally before a visit.",
-    "experience": "Ona Kantheeswarar is one of the smaller, quieter Tevaram shrines of Kanchipuram, and a visit here has the feeling of coming upon an old sanctuary tucked within the living city. Come before the three lingas within their sanctums, pause at the sacred-marriage image behind the Lord, and let the shrine take its place in a wider round of the city's Paadal Petra temples."
+    "history": "কাঞ্চিপুরমের পবিত্র নগরীর মধ্যে ওণ কান্তীশ্বররের মন্দির দাঁড়িয়ে, সন্তদের দ্বারা গীত এবং তাই একটি পাডল পেট্র স্থলম; স্তবগুলিতে একে তিরু ওণকান্তন থলি বলা হয়। মন্দিরটি তার কিংবদন্তির দুই চরিত্র ওণন ও কান্তনের নাম থেকে নাম নেয়, যাঁরা ঐতিহ্যে অসুর রাজা বাণাসুরের সেনাপতি রূপে স্মরণীয়, যাঁরা এখানে প্রভুর পূজা করেছিলেন বলে কথিত এবং মন্দিরকে এর চিরন্তন নাম দিয়েছিলেন। মন্দিরটি নগরীর পাঞ্জুপেট্টৈ পাড়ায় অবস্থিত, এর মন্দিরগুলি এক উঁচু বেদিতে স্থাপিত, এবং এটি রাজ্যের দান পরিষদের অধীনে পূজায় রক্ষিত, প্রাচীন মন্দিরে ঠাসা এক নগরীর ছোট তেবারম মন্দিরগুলির একটি।",
+    "architecture": "মন্দিরে একটি ছোট তিনতলা রাজগোপুরের নিচ দিয়ে প্রবেশ করা হয়, এবং এর মন্দিরগুলি একটি উঁচু কাঠামোর উপর একত্রে দাঁড়িয়ে। এর স্বতন্ত্র বৈশিষ্ট্য হলো তিনটি শিবলিঙ্গের উপস্থিতি, প্রতিটি নিজস্ব গর্ভগৃহে — দুটি ঐতিহ্যে ওণন ও কান্তনের পূজিত লিঙ্গ বলে ধরা হয়, তৃতীয়টি মন্দিরের কিংবদন্তির সঙ্গে যুক্ত। প্রধান লিঙ্গটি স্বয়ম্ভূ, আত্মপ্রকাশিত রূপে সম্মানিত, এবং তার পিছনে প্রভু ও দেবী তাঁদের পবিত্র বিবাহের ভঙ্গিতে, তিরুমণ কোলম রূপে একত্রে দেখানো হয়েছে। কাঞ্চিপুরম ঐতিহ্য অনুসারে, জগন্মাতা কামাক্ষী রূপে পূজিত।",
+    "legends": "মন্দিরের কিংবদন্তি এর দুই নামধারী ওণন ও কান্তনকে কেন্দ্র করে, অসুর রাজা বাণাসুরের সেবায় সেনাপতি। ভক্তিতে আকৃষ্ট হয়ে, তাঁরা একটি লিঙ্গ লাভ করে এই স্থানে শিবের পূজা করেছিলেন বলে কথিত, এবং তাঁদের নাম থেকে প্রভু ওণ কান্তীশ্বরর এবং মন্দির তিরু ওণকান্তন থলি নামে পরিচিত হন। মন্দিরের তিনটি লিঙ্গ ঐতিহ্যে এই ভক্তির চিহ্ন রূপে পঠিত, এবং মন্দিরটি সেইসব জনের স্মৃতি রাখে যাঁরা তাঁদের পূর্বপ্রকৃতি থেকে ফিরে প্রভুর পূজায় এসেছিলেন। কিংবদন্তির বিবরণ সূত্রভেদে বিশদে ভিন্ন হয়।",
+    "festivals": "মন্দিরে শৈব বছরের উৎসব — মহাশিবরাত্রি, মাসিক প্রদোষম, এবং শিবের উদ্দেশে পবিত্র দিনগুলি — কাঞ্চিপুরমের প্রাচীনতর মন্দিরগুলির রীতিতে পালিত হয়। যেহেতু তারিখ তামিল পঞ্জিকা অনুসরণ করে, দর্শনের আগে স্থানীয়ভাবে নিশ্চিত করা ভালো।",
+    "experience": "ওণ কান্তীশ্বরর কাঞ্চিপুরমের ছোট, শান্ততর তেবারম মন্দিরগুলির একটি, এবং এখানে দর্শন জীবন্ত নগরীর মধ্যে এক প্রাচীন আশ্রয়ে এসে পড়ার অনুভূতি দেয়। গর্ভগৃহগুলির মধ্যে তিনটি লিঙ্গের সামনে আসুন, প্রভুর পিছনে পবিত্র-বিবাহ মূর্তির কাছে থামুন, এবং মন্দিরটিকে নগরীর পাডল পেট্র মন্দিরগুলির বৃহত্তর পরিক্রমায় স্থান দিন।"
   },
   "visit": {
-    "timings": "Typically open for limited hours in the morning and again in the evening, with a long midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple stands in the Panjupettai area of Kanchipuram. The town is well served by rail and road, about 75 km from Chennai, whose international airport is the nearest; local buses and autos reach the quarter. Ask locally for the Onakanthan Thali shrine, as Kanchipuram holds many temples of similar name."
+    "timings": "সাধারণত সকালে ও পুনরায় সন্ধ্যায় সীমিত সময়ের জন্য খোলা, দুপুরে দীর্ঘ বিরতি সহ; সময় স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশপথের স্থানে জুতো খুলে রাখতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরের নিয়ম অনুসারে বাইরের প্রাঙ্গণ ও চত্বরে সাধারণত ছবি তোলা অনুমোদিত কিন্তু ভিতরের গর্ভগৃহে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি কাঞ্চিপুরমের পাঞ্জুপেট্টৈ এলাকায় দাঁড়িয়ে। শহরটি রেল ও সড়কপথে সুসংযুক্ত, চেন্নাই থেকে প্রায় ৭৫ কিমি দূরে, যার আন্তর্জাতিক বিমানবন্দর নিকটতম; স্থানীয় বাস ও অটো পাড়ায় পৌঁছায়। ওণকান্তন থলি মন্দিরের জন্য স্থানীয়ভাবে জিজ্ঞাসা করুন, কারণ কাঞ্চিপুরমে অনুরূপ নামের অনেক মন্দির আছে।"
   }
 }

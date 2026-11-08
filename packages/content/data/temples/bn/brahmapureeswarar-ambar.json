@@ -1,29 +1,36 @@
 {
   "id": "brahmapureeswarar-ambar",
   "locale": "bn",
+  "name": "ব্রহ্মপুরীশ্বরর মন্দির, অম্বর পেরুন্তিরুক্কোইল",
   "nativeName": "அம்பர் பெருந்திருக்கோயில் பிரம்மபுரீஸ்வரர் கோயில்",
+  "deity": "ব্রহ্মপুরীশ্বরর রূপে শিব, দেবী পূঙ্গুড়লাম্মাইয়ের সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Ambar (Ambal) Perunthirukoil",
-    "state": "Tamil Nadu",
+    "city": "অম্বর (অম্বল) পেরুন্তিরুক্কোইল",
+    "state": "তামিলনাড়ু",
     "lat": 10.88,
     "lng": 79.55
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তোত্রে বন্দিত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারুর বদ্বীপে অবস্থিত অম্বর পেরুন্তিরুক্কোইল শিবকে ব্রহ্মপুরীশ্বরর রূপে এবং দেবী পূঙ্গুড়লাম্মাইকে সম্মান জানায়। তিরুগ্ঞানসম্বন্দরের স্তোত্রে বন্দিত এই পাডল পেট্র স্থলমটি সেই স্থান হিসেবে স্মরণীয়, যেখানে ব্রহ্মা হংসের রূপ ধরে এর পবিত্র কূপে স্নান করে অভিশাপ থেকে মুক্তি পেয়েছিলেন।",
   "sections": {
-    "history": "Ambar Perunthirukoil, at the place called Ambal (Ambar) in Tiruvarur district, is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. It stands about 2 km west of the Ambar Makaalam temple, a separate Paadal Petra Sthalam of the same town. Counted among the Maadakoil temples attributed to Kochengat Chola, its stone shrine is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple with a three-tiered rajagopuram, the shrine enshrines Brahmapureeswarar in the sanctum, with the goddess Poonguzhalammai — also Sugandhakunthalambikai — in her own shrine, a Nandi and the parivara devatas within its walled enclosures. The form is that of the Maadakoil-style Shiva temples of the Tiruvarur delta.",
-    "legends": "The lord is worshipped as Brahmapureeswarar, the lord of Brahma's city: by tradition Brahma, having taken the form of a swan, bathed in the sacred well here and worshipped the lingam beside it, and was thereby relieved of a curse and restored to his own form. The goddess Poonguzhalammai stands beside him. The fuller sthala purana survives in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Tiruvarur delta include Ambar Perunthirukoil, with its neighbouring Ambar Makaalam, among their stops.",
-    "experience": "At Ambar Perunthirukoil the pilgrim comes to the lord of Brahma's city. Before Brahmapureeswarar and Poonguzhalammai, within the Maadakoil walls of the Tiruvarur delta, the visitor finds the quiet grace of a Tevaram temple and the memory of Brahma freed of his curse at the sacred well."
+    "history": "তিরুবারুর জেলার অম্বল (অম্বর) নামক স্থানে অবস্থিত অম্বর পেরুন্তিরুক্কোইল একটি পাডল পেট্র স্থলম, যা তিরুগ্ঞানসম্বন্দর তেবারমে স্তোত্রে বন্দিত করেছিলেন। এটি একই শহরের একটি পৃথক পাডল পেট্র স্থলম অম্বর মকালম মন্দির থেকে প্রায় ২ কিমি পশ্চিমে দাঁড়িয়ে আছে। কোচেঙ্গত চোলকে আরোপিত মাডকোইল মন্দিরগুলির মধ্যে গণ্য এই মন্দিরের পাথরের গর্ভগৃহ চোল যুগ ও পরবর্তীকালের।",
+    "architecture": "তিন স্তরবিশিষ্ট রাজগোপুরমযুক্ত একটি দ্রাবিড় বদ্বীপ মন্দির, যার গর্ভগৃহে ব্রহ্মপুরীশ্বরর প্রতিষ্ঠিত, এবং দেবী পূঙ্গুড়লাম্মাই — যিনি সুগন্ধকুন্তলাম্বিকাই নামেও পরিচিত — তাঁর নিজের মন্দিরে, সেই সঙ্গে প্রাচীরঘেরা চত্বরের ভিতরে একটি নন্দী ও পরিবার দেবতাগণ। এর রূপ তিরুবারুর বদ্বীপের মাডকোইল-ধারার শিব মন্দিরগুলির অনুরূপ।",
+    "legends": "প্রভু ব্রহ্মপুরীশ্বরর রূপে পূজিত হন, অর্থাৎ ব্রহ্মার নগরীর অধিপতি: প্রথা অনুসারে ব্রহ্মা হংসের রূপ ধারণ করে এখানকার পবিত্র কূপে স্নান করে তার পাশে লিঙ্গকে পূজা করেছিলেন, এবং তার ফলে অভিশাপ থেকে মুক্ত হয়ে নিজের রূপ ফিরে পেয়েছিলেন। দেবী পূঙ্গুড়লাম্মাই তাঁর পাশে দাঁড়িয়ে আছেন। সম্পূর্ণ স্থল পুরাণ স্থানীয় প্রথা ও সম্বন্দরের স্তোত্রে টিকে আছে।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকাইয়ের সোমবারগুলি প্রদোষ পূজার সঙ্গে পালিত হয়। তিরুবারুর বদ্বীপের তীর্থযাত্রীরা তাঁদের যাত্রাপথে প্রতিবেশী অম্বর মকালম-সহ অম্বর পেরুন্তিরুক্কোইলকে অন্তর্ভুক্ত করেন।",
+    "experience": "অম্বর পেরুন্তিরুক্কোইলে তীর্থযাত্রী ব্রহ্মার নগরীর অধিপতির কাছে আসেন। তিরুবারুর বদ্বীপের মাডকোইল প্রাচীরের ভিতরে ব্রহ্মপুরীশ্বরর ও পূঙ্গুড়লাম্মাইয়ের সম্মুখে দর্শনার্থী একটি তেবারম মন্দিরের শান্ত কৃপা এবং পবিত্র কূপে ব্রহ্মার অভিশাপমুক্তির স্মৃতি খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Ambar Perunthirukoil lies at Ambal (Ambar), in Tiruvarur district, about 2 km west of the Ambar Makaalam temple. Nannilam and Tiruvarur are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে, বিশেষত উৎসবের দিনে, নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকা উচিত; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত ছবি তোলার অনুমতি আছে, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "অম্বর পেরুন্তিরুক্কোইল তিরুবারুর জেলার অম্বল (অম্বর)-এ, অম্বর মকালম মন্দির থেকে প্রায় ২ কিমি পশ্চিমে অবস্থিত। নন্নিলম ও তিরুবারুর নিকটতম শহর ও রেলস্টেশন, যেখান থেকে গ্রামে বাস ও ট্যাক্সি পাওয়া যায়।"
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "kateel-durgaparameshwari",
   "locale": "bn",
+  "name": "শ্রী দুর্গাপরমেশ্বরী মন্দির, কটীল",
   "nativeName": "ಶ್ರೀ ದುರ್ಗಾಪರಮೇಶ್ವರಿ ದೇವಸ್ಥಾನ, ಕಟೀಲು",
+  "deity": "দেবী দুর্গাপরমেশ্বরী রূপে, নন্দিনী নদীতে স্বয়ম্ভূ",
+  "tradition": "শাক্তধর্ম",
   "location": {
-    "city": "Kateel",
-    "state": "Karnataka",
+    "city": "কটীল",
+    "state": "কর্ণাটক",
     "lat": 13.0438,
     "lng": 74.8701
   },
+  "period": "ঐতিহ্যগতভাবে প্রাচীন; এর প্রসিদ্ধ যক্ষগান দল ঊনবিংশ শতাব্দীর মধ্যভাগের",
   "century": 19,
+  "dynasty": "তুলু নাড়ুর মন্দির ঐতিহ্য",
+  "style": "উপকূলীয় কর্ণাটক (তুলুনাড়ু)",
   "unesco": false,
   "circuits": [
     "temples-of-coastal-karnataka"
   ],
+  "summary": "নন্দিনী নদীর মাঝখানে একটি ছোট দ্বীপে দুর্গাপরমেশ্বরী সেখানে পূজিত যেখানে ঐতিহ্য বলে তিনি মৌমাছির ঝাঁক রূপে এক অসুরকে বিনাশ করে লিঙ্গরূপে উত্থিত হন — তুলু নাড়ুর একটি প্রিয় ক্ষেত্র ও প্রসিদ্ধ যক্ষগান দলের আবাস।",
   "sections": {
-    "history": "Kateel lies inland from Mangaluru in the green, river-laced country of Tulu Nadu, and its temple is among the most visited goddess shrines of coastal Karnataka. What sets it apart is its setting: the sanctum stands on a rocky islet in the middle of the Nandini, joined to the bank by a small bridge, so that the river flows around the goddess on every side. The temple is the patron of one of the best-known Yakshagana traditions of the coast; since the mid-nineteenth century its troupes, the Kateel melas, have performed the night-long dance-drama as an offering to the goddess, carrying her name to villages across the region.",
-    "architecture": "The temple is laid out on the islet with a large pillared mantapa, an antarala and the garbhagriha, whose sloping roofs follow the Kerala manner common to the shrines of Tulu Nadu. The goddess is worshipped in a self-manifested form that rose from the riverbed, and devotees note that the sanctum is always damp and the kumkum given as prasada stays moist — a sign, they say, of the river's own devotion. A recently built entrance welcomes pilgrims from the bank, and the sound and sight of the Nandini are never far away.",
-    "legends": "The temple's story, told in the local Kshetra Purana, begins in a time of drought, when the sage Jabali sought Nandini, daughter of the divine cow Kamadhenu, for a sacrifice to bring rain. When she refused, he cursed her to flow on earth as a river, and the Goddess promised to be born from her waters. Later the demon Arunasura, protected by a boon from death by any two- or four-legged creature, was destroyed when the Goddess became a swarm of bees — Bhramari — and stung him to death. She then appeared as a linga in the middle of the Nandini.",
-    "festivals": "Navaratri is celebrated with special worship and the temple stays open late. The annual jatre in April includes the striking Thoothedhara ritual, in which two groups of devotees throw bundles of burning palm fronds at one another before the goddess. The Yakshagana season, from late autumn to early summer, fills the nights with performances by the temple's melas. Confirm dates locally.",
-    "experience": "Crossing the short bridge to the islet, with the river running below, is part of the darshan. Pilgrims often stay for the free meal served as prasada and, in the season, for a night of Yakshagana. Kateel is easily combined with Udupi, Dharmasthala, Kollur and the other temples of the coast."
+    "history": "কটীল মঙ্গলুরু থেকে অভ্যন্তরে তুলু নাড়ুর সবুজ, নদীবিধৌত অঞ্চলে অবস্থিত, এবং এর মন্দির উপকূলীয় কর্ণাটকের সর্বাধিক দর্শিত দেবীক্ষেত্রগুলির একটি। যা একে স্বতন্ত্র করে তা হল এর অবস্থান: গর্ভগৃহটি নন্দিনীর মাঝখানে একটি পাথুরে দ্বীপে দাঁড়িয়ে, একটি ছোট সেতু দিয়ে তীরের সঙ্গে যুক্ত, যাতে নদী দেবীর চারপাশে সব দিকে প্রবাহিত হয়। মন্দিরটি উপকূলের সর্বাধিক পরিচিত যক্ষগান ঐতিহ্যগুলির একটির পৃষ্ঠপোষক; ঊনবিংশ শতাব্দীর মধ্যভাগ থেকে এর দল, কটীল মেলাগণ, দেবীর উদ্দেশে নৈবেদ্য রূপে রাত্রিব্যাপী নৃত্যনাট্য পরিবেশন করে আসছে, এর নাম অঞ্চলের গ্রামে গ্রামে বহন করে।",
+    "architecture": "মন্দিরটি দ্বীপের উপর একটি বৃহৎ স্তম্ভশোভিত মণ্ডপ, একটি অন্তরাল ও গর্ভগৃহসহ বিন্যস্ত, যার ঢালু ছাদ তুলু নাড়ুর ক্ষেত্রগুলিতে প্রচলিত কেরল রীতি অনুসরণ করে। দেবী নদীতল থেকে উত্থিত এক স্বয়ম্ভূ রূপে পূজিত, এবং ভক্তেরা লক্ষ্য করেন যে গর্ভগৃহ সর্বদা আর্দ্র থাকে এবং প্রসাদরূপে প্রদত্ত কুমকুম ভিজে থাকে — এটি, তাঁরা বলেন, নদীরই ভক্তির চিহ্ন। সম্প্রতি নির্মিত একটি প্রবেশদ্বার তীর থেকে তীর্থযাত্রীদের স্বাগত জানায়, এবং নন্দিনীর শব্দ ও দৃশ্য কখনও দূরে নয়।",
+    "legends": "মন্দিরের কাহিনি, স্থানীয় ক্ষেত্রপুরাণে বর্ণিত, শুরু হয় এক দুর্ভিক্ষের কালে, যখন ঋষি জাবালি বৃষ্টি আনার যজ্ঞের জন্য দিব্য গাভী কামধেনুর কন্যা নন্দিনীকে চেয়েছিলেন। তিনি অস্বীকার করলে ঋষি তাঁকে পৃথিবীতে নদী রূপে প্রবাহিত হওয়ার অভিশাপ দেন, এবং দেবী তাঁর জল থেকে জন্ম নেওয়ার প্রতিশ্রুতি দেন। পরে অরুণাসুর নামক অসুর, যে দ্বিপদ বা চতুষ্পদ কোনো প্রাণীর হাতে মৃত্যুর বিরুদ্ধে বরপ্রাপ্ত ছিল, বিনষ্ট হয় যখন দেবী মৌমাছির ঝাঁক—ভ্রমরী—রূপ ধারণ করে তাকে দংশন করে বধ করেন। তারপর তিনি নন্দিনীর মাঝখানে লিঙ্গ রূপে আবির্ভূত হন।",
+    "festivals": "নবরাত্রি বিশেষ পূজাসহ পালিত হয় এবং মন্দির গভীর রাত পর্যন্ত খোলা থাকে। এপ্রিলের বার্ষিক জাত্রেতে অন্তর্ভুক্ত রয়েছে অসাধারণ থূথেধর আচার, যেখানে দুই দল ভক্ত দেবীর সম্মুখে একে অপরের দিকে জ্বলন্ত তালপাতার আঁটি নিক্ষেপ করেন। হেমন্তের শেষ থেকে গ্রীষ্মের শুরু পর্যন্ত যক্ষগানের মরসুম মন্দিরের মেলাগণের পরিবেশনায় রাত্রিগুলি ভরিয়ে তোলে। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "নিচে নদী বইতে বইতে দ্বীপে যাওয়ার ছোট সেতু পার হওয়া দর্শনেরই অঙ্গ। তীর্থযাত্রীরা প্রায়ই প্রসাদরূপে পরিবেশিত নিখরচায় ভোজের জন্য থাকেন এবং, মরসুমে, এক রাত্রির যক্ষগানের জন্য। কটীল সহজেই উডুপি, ধর্মস্থল, কোল্লুর ও উপকূলের অন্যান্য মন্দিরের সঙ্গে যুক্ত করা যায়।"
   },
   "visit": {
-    "timings": "Open daily from early morning to night, with a midday break; Fridays, Navaratri and the annual jatre are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted in the sanctum; follow the posted rules elsewhere in the temple.",
-    "gettingThere": "Kateel is about 29 km from Mangaluru by road and a short drive from Mangaluru International Airport at Bajpe; Mangaluru is the nearest major railhead, and buses run regularly from the city."
+    "timings": "প্রতিদিন ভোর থেকে রাত পর্যন্ত খোলা, মধ্যাহ্নে বিরতিসহ; শুক্রবার, নবরাত্রি ও বার্ষিক জাত্রে সর্বাধিক ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে পাদুকা খুলে রাখতে হয়। নির্দেশিকা ও পুরোহিতদের পরামর্শ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে আলোকচিত্র গ্রহণের অনুমতি নেই; মন্দিরের অন্যত্র নির্দেশিকা অনুসরণ করুন।",
+    "gettingThere": "কটীল মঙ্গলুরু থেকে সড়কপথে প্রায় ২৯ কিমি দূরে এবং বাজপের মঙ্গলুরু আন্তর্জাতিক বিমানবন্দর থেকে অল্প দূরত্বে; মঙ্গলুরু নিকটতম প্রধান রেলস্টেশন, এবং নগর থেকে নিয়মিত বাস চলাচল করে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kateel-durgaparameshwari.jpg",

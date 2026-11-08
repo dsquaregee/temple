@@ -1,29 +1,36 @@
 {
   "id": "oondreeswarar-tiruvenpakkam",
   "locale": "bn",
+  "name": "ঊন্ড্রীশ্বরর মন্দির, তিরুবেণ্পাক্কম",
   "nativeName": "ஊன்றீஸ்வரர் கோயில்",
+  "deity": "শিব ঊন্ড্রীশ্বরর রূপে, দেবী মিন্নোলি অম্মনের সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tiruvenpakkam (Poondi)",
-    "state": "Tamil Nadu",
+    "city": "তিরুবেণ্পাক্কম (পূণ্ডি)",
+    "state": "তামিলনাড়ু",
     "lat": 13.208,
     "lng": 79.879
   },
+  "period": "তোণ্ডৈ দেশের প্রাচীন শৈব পীঠ, তেবারমে বন্দিত (৮ম শতক); মূল চোল-যুগের পরিসর, বর্তমান গাঁথনি ১৬শ শতকের, ১৯৪২ সালে পূণ্ডিতে পুনর্নির্মিত",
   "century": 8,
+  "dynasty": "মূলত চোল পৃষ্ঠপোষক; বর্তমান কাঠামো ১৬শ শতকের, ১৯৪২ সালে স্থানান্তরিত",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ঊন্ড্রীশ্বরর তোণ্ডৈ দেশের একটি শিব মন্দির যা তেবারমে প্রশংসিত, সর্বোপরি সেই লাঠির জন্য স্মরণীয় যা প্রভু অন্ধ সন্ত সুন্দররকে দিয়েছিলেন, এবং দেবী মিন্নোলির জন্য যিনি তাঁর পথ আলোকিত করতে বিদ্যুৎচমকের মতো আবির্ভূত হয়েছিলেন।",
   "sections": {
-    "history": "Tiruvenpakkam lies in the Tondai country of northern Tamil Nadu, in the Tiruvallur district. It is counted among the Paadal Petra Sthalams, the Shiva shrines sung by the Tevaram saints, and its hymn is remembered as Sundarar's, which carries the shrine's fame back to the age of the Nayanmar saints. The old town, known in the hymns as Tiruvenpakkam and remembered also as Pazhampathi, stood by the waters of the Kuchasthalai. Tradition holds that the original complex was raised in the Chola age, while the masonry temple that followed is placed in the sixteenth century. When the Poondi reservoir was built across the river, the temple was moved in 1942 to its present site on the northern bank at Poondi, and it is carried in worship there to this day.",
-    "architecture": "The temple faces east in the Dravidian manner, a modest walled shrine rather than a towering complex, standing now on the northern bank of the Poondi reservoir. In the sanctum Shiva is worshipped as Oondreeswarar in the form of the linga. Before the sanctum stands Nandi, the sacred bull, whose image here is shown with a broken horn in memory of the temple's great legend. The goddess Minnoli Amman, whose name is read as the mother of lightning, is enshrined in her own shrine within the walls. Because the present structure was raised in the sixteenth century and rebuilt again on its move in 1942, much of the fabric is later work, though the sanctity and the story it keeps reach back to the Tevaram age.",
-    "legends": "The defining story of Tiruvenpakkam is Sundarar's. The saint, having lost his sight, came to this place and sang to the Lord for his vision. Shiva gave him a staff, an oondru-kol, to lean on as he walked, and from this gift the Lord is called Oondreeswarar. Still unable to see, and not knowing whose hand had given him the staff, the saint cast it aside in his distress, and it struck the horn of Nandi, which the temple's bull bears broken to this day. As Sundarar set out again, the goddess, who had been kept from walking at his side, sent before him a flash of lightning to show the way, and from this she is honoured as Minnoli, the lightning mother. By tradition the saint's sight was restored to him afterward at Kanchipuram and at Tiruvarur. These accounts are carried in the temple's Sthala Purana and in the lives of the saints.",
-    "festivals": "Maha Shivaratri, the great night of Shiva, falls in the Tamil month of Masi (February–March) and is the foremost observance. In Aipasi (October–November) the temple keeps Annabhishekam, when the linga is adorned with cooked rice, and in the month of Karthikai (November–December) the festival of lights, Tirukarthikai, is kept. An annual Brahmotsavam is also observed. Because the dates follow the Tamil calendar and local custom, confirm them with the temple before a visit.",
-    "experience": "Tiruvenpakkam rewards an unhurried visit as a quiet country shrine on the bank of the Poondi reservoir, away from the crowds of the larger pilgrim centres. Enter through the eastern gateway, come before the linga of Oondreeswarar in the sanctum, and pause before the Nandi with its broken horn, where the story of Sundarar and his staff feels close at hand. Turn then to the goddess Minnoli in her own shrine, remembered for the lightning that lit the blind saint's path. The open water and fields around the temple lend the place a stillness in keeping with its long history."
+    "history": "তিরুবেণ্পাক্কম উত্তর তামিলনাড়ুর তোণ্ডৈ দেশে, তিরুবাল্লুর জেলায় অবস্থিত। এটি পাডল পেট্র স্থলমগুলির মধ্যে গণ্য, তেবারম সন্তদের কর্তৃক বন্দিত শিব পীঠসমূহ, এবং এর স্তোত্র সুন্দররের বলে স্মরণ করা হয়, যা পীঠের খ্যাতিকে নায়নমার সন্তদের যুগে ফিরিয়ে নিয়ে যায়। পুরনো শহর, স্তোত্রে তিরুবেণ্পাক্কম নামে পরিচিত এবং পঝম্পতি নামেও স্মরণীয়, কুচস্থলৈর জলের পাশে দাঁড়িয়ে ছিল। ঐতিহ্য ধরে যে মূল পরিসর চোল যুগে নির্মিত হয়েছিল, আর পরবর্তী গাঁথনির মন্দিরটি ষোড়শ শতকে স্থাপিত। যখন নদীর ওপারে পূণ্ডি জলাধার নির্মিত হয়, তখন ১৯৪২ সালে মন্দিরটি পূণ্ডিতে উত্তর তীরে এর বর্তমান স্থানে সরানো হয়, এবং আজও সেখানে পূজায় রক্ষিত।",
+    "architecture": "মন্দিরটি দ্রাবিড় রীতিতে পূর্বমুখী, একটি উঁচু পরিসরের বদলে একটি বিনয়ী প্রাচীরবেষ্টিত পীঠ, এখন পূণ্ডি জলাধারের উত্তর তীরে দাঁড়িয়ে। গর্ভগৃহে শিব ঊন্ড্রীশ্বরর রূপে লিঙ্গের আকারে পূজিত হন। গর্ভগৃহের সম্মুখে দাঁড়িয়ে আছে নন্দী, পবিত্র বৃষ, যার মূর্তি এখানে মন্দিরের মহান কিংবদন্তির স্মৃতিতে ভাঙা শিং সহ দেখানো হয়েছে। দেবী মিন্নোলি অম্মন, যাঁর নাম বিদ্যুতের মাতা রূপে পড়া হয়, প্রাচীরের মধ্যে তাঁর নিজস্ব পীঠে প্রতিষ্ঠিত। যেহেতু বর্তমান কাঠামো ষোড়শ শতকে নির্মিত হয়েছিল এবং ১৯৪২ সালে স্থানান্তরের সময় আবার পুনর্নির্মিত হয়েছিল, তাই বেশিরভাগ গাঁথনিই পরবর্তীকালের কাজ, যদিও এর পবিত্রতা ও এটি যে কাহিনি রক্ষা করে তা তেবারম যুগ পর্যন্ত পৌঁছায়।",
+    "legends": "তিরুবেণ্পাক্কমের সংজ্ঞায়ক কাহিনি সুন্দররের। সন্ত, দৃষ্টি হারিয়ে, এই স্থানে এসেছিলেন এবং তাঁর দৃষ্টির জন্য প্রভুর উদ্দেশে গেয়েছিলেন। শিব তাঁকে হাঁটার সময় ভর দেওয়ার জন্য একটি লাঠি, একটি ঊন্ড্রু-কোল, দিয়েছিলেন, এবং এই উপহার থেকে প্রভু ঊন্ড্রীশ্বরর নামে অভিহিত। তখনও দেখতে না পেরে, এবং কার হাত লাঠি দিয়েছে তা না জেনে, সন্ত তাঁর যন্ত্রণায় এটি ছুঁড়ে ফেলেছিলেন, এবং এটি নন্দীর শিংয়ে আঘাত করেছিল, যা মন্দিরের বৃষ আজও ভাঙা অবস্থায় বহন করে। সুন্দরর আবার যাত্রা শুরু করলে, দেবী, যাঁকে তাঁর পাশে হাঁটতে বাধা দেওয়া হয়েছিল, পথ দেখাতে তাঁর সামনে একটি বিদ্যুৎচমক পাঠিয়েছিলেন, এবং এই থেকে তিনি মিন্নোলি, বিদ্যুৎ-মাতা, রূপে সম্মানিত। ঐতিহ্য অনুসারে সন্তের দৃষ্টি পরে কাঞ্চীপুরম ও তিরুবারুরে তাঁকে ফিরিয়ে দেওয়া হয়েছিল। এই বিবরণগুলি মন্দিরের স্থল পুরাণে ও সন্তদের জীবনীতে বাহিত হয়।",
+    "festivals": "মহাশিবরাত্রি, শিবের মহান রাত্রি, তামিল মাস মাসিতে (ফেব্রুয়ারি–মার্চ) পড়ে এবং এটি প্রধান পালন। ঐপসিতে (অক্টোবর–নভেম্বর) মন্দির অন্নাভিষেকম পালন করে, যখন লিঙ্গকে সিদ্ধ ভাত দিয়ে সজ্জিত করা হয়, এবং কার্তিকৈ মাসে (নভেম্বর–ডিসেম্বর) আলোর উৎসব তিরুকার্তিকৈ পালিত হয়। একটি বার্ষিক ব্রহ্মোৎসবমও পালিত হয়। যেহেতু তারিখ তামিল পঞ্জিকা ও স্থানীয় প্রথা অনুসরণ করে, ভ্রমণের আগে মন্দিরের সঙ্গে তা নিশ্চিত করে নিন।",
+    "experience": "তিরুবেণ্পাক্কম বৃহত্তর তীর্থকেন্দ্রের ভিড় থেকে দূরে, পূণ্ডি জলাধারের তীরে একটি শান্ত গ্রাম্য পীঠ রূপে অবিচল পরিদর্শনের পুরস্কার দেয়। পূর্বমুখী তোরণ দিয়ে প্রবেশ করুন, গর্ভগৃহে ঊন্ড্রীশ্বররের লিঙ্গের সম্মুখে আসুন, এবং ভাঙা শিং সহ নন্দীর সামনে থামুন, যেখানে সুন্দরর ও তাঁর লাঠির কাহিনি কাছেই অনুভূত হয়। তারপর দেবী মিন্নোলির দিকে ফিরুন তাঁর নিজস্ব পীঠে, অন্ধ সন্তের পথ আলোকিত করা বিদ্যুতের জন্য স্মরণীয়। মন্দিরের চারপাশের খোলা জল ও মাঠ এর দীর্ঘ ইতিহাসের সঙ্গে সামঞ্জস্যপূর্ণ একটি স্থিরতা স্থানটিকে দেয়।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple stands at Poondi, on the northern bank of the Poondi reservoir, on the Tiruvallur–Tiruttani road about 11 km from Tiruvallur, which is the nearest railway junction. Chennai, with the region's international airport, is around 60 km away. Buses along the Tiruvallur–Tiruttani road serve Poondi."
+    "timings": "সাধারণত সকালে এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে, দুপুরে বিরতি থাকে; স্থানীয়ভাবে সময়সূচি নিশ্চিত করে নিন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা থাকবে। প্রবেশপথে জুতা খুলে রাখা হয়।",
+    "photography": "তামিলনাড়ু মন্দিরের নিয়ম অনুসারে বাইরের প্রাঙ্গণ ও চত্বরে সাধারণত আলোকচিত্র তোলার অনুমতি আছে কিন্তু ভিতরের গর্ভগৃহে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি পূণ্ডিতে, পূণ্ডি জলাধারের উত্তর তীরে, তিরুবাল্লুর–তিরুত্তণি সড়কে তিরুবাল্লুর থেকে প্রায় ১১ কিমি দূরে দাঁড়িয়ে আছে, যা নিকটতম রেল জংশন। চেন্নাই, এই অঞ্চলের আন্তর্জাতিক বিমানবন্দর সহ, প্রায় ৬০ কিমি দূরে। তিরুবাল্লুর–তিরুত্তণি সড়ক ধরে বাস পূণ্ডিতে চলে।"
   }
 }

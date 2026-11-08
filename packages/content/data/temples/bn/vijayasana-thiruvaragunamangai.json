@@ -1,31 +1,38 @@
 {
   "id": "vijayasana-thiruvaragunamangai",
   "locale": "bn",
+  "name": "বিজয়াসন পেরুমাল মন্দির, তিরুবরগুণমঙ্গৈ",
   "nativeName": "விஜயாசன பெருமாள் கோயில், திருவரகுணமங்கை",
+  "deity": "বিষ্ণু বিজয়াসন পেরুমাল রূপে, দেবী বরগুণবল্লী সহ—নব তিরুপতির মধ্যে চন্দ্রের (চন্দ্র) মন্দির",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruvaragunamangai",
-    "state": "Tamil Nadu",
+    "city": "তিরুবরগুণমঙ্গৈ",
+    "state": "তামিলনাড়ু",
     "lat": 8.62,
     "lng": 77.86
   },
+  "period": "তাম্রপর্ণীর তীরে পাণ্ড্য অঞ্চলের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে নম্মালবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "নথম নামেও পরিচিত তিরুবরগুণমঙ্গৈতে বিষ্ণু বিজয়াসন পেরুমাল রূপে পূজিত হন—নয়টি গ্রহ-তিরুপতির মধ্যে চন্দ্র, তাম্রপর্ণীর একটি দিব্য দেশম যা নম্মালবার কর্তৃক স্তুত।",
   "sections": {
-    "history": "Thiruvaragunamangai — the village of Natham — lies among the paddy country on the Tamiraparani, near Srivaikuntam, and its lord is Vijayasana Perumal, seated in grace. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of the Moon, Chandra.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Vijayasana Perumal, with the Goddess Varagunavalli. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Thiruvaragunamangai the planet is the Moon, Chandra.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of the Moon, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "তিরুবরগুণমঙ্গৈ—নথম গ্রাম—শ্রীবৈকুণ্ঠমের কাছে তাম্রপর্ণীর ধানভূমির মাঝে অবস্থিত, এবং এর প্রভু বিজয়াসন পেরুমাল, কৃপায় আসীন। এটি ১০৮টি দিব্য দেশমের অন্যতম, নালায়িরা দিব্য প্রবন্ধমে আলবার সন্তদের দ্বারা স্তুত বিষ্ণুর আবাস, এবং নব তিরুপতির অন্যতম—তাম্রপর্ণীর নয়টি মন্দির, প্রতিটি বৈষ্ণবদের একটি গ্রহ-মন্দির হিসেবে ধরা হয়। নব তিরুপতির মধ্যে এটি চন্দ্রের, চন্দ্রের মন্দির হিসেবে সম্মানিত।",
+    "architecture": "পাণ্ড্য অঞ্চল ও তার পরবর্তী পৃষ্ঠপোষকদের দ্রাবিড় রীতিতে নির্মিত, মন্দিরটি একটি তোরণ-গম্বুজের মধ্য দিয়ে প্রবেশ করা হয় এবং অধিষ্ঠাতা বিষ্ণুর গর্ভগৃহকে কেন্দ্র করে সমবেত, দেবী তাঁর নিজস্ব মন্দিরে। এখানে প্রভু বিজয়াসন পেরুমাল রূপে পূজিত হন, দেবী বরগুণবল্লী সহ। গর্ভগৃহের সম্মুখে স্তম্ভযুক্ত মণ্ডপ খুলে যায়, গভীর দক্ষিণের মন্দির রীতিতে।",
+    "legends": "নব তিরুপতি একসঙ্গে বৈষ্ণবদের নয়টি গ্রহ-মন্দির হিসেবে পূজিত হয়: যেখানে কাবেরীর শৈব ঐতিহ্য নয়টি পৃথক নবগ্রহ মন্দির রাখে, এখানে নয়টি গ্রহ তাম্রপর্ণীর নয়টি বিষ্ণু আবাস জুড়ে সম্মানিত হয়, সবই নম্মালবার কর্তৃক স্তুত, আলবারদের অগ্রগণ্য, যাঁর নিজের জন্মস্থান তাদের মধ্যে আলবারতিরুনগরী। তিরুবরগুণমঙ্গৈতে গ্রহটি হল চন্দ্র, চন্দ্র।",
+    "festivals": "মন্দিরটি মহান বৈষ্ণব উৎসবগুলি পালন করে—বৈকুণ্ঠ একাদশী, গরুড় সেবৈ যখন নয়টিকে একটি একক চক্রে পূজা করা হয়, এবং নম্মালবার ও আলবারদের দিন—নদীতীরবর্তী গ্রামগুলির মধ্য দিয়ে শোভাযাত্রাসহ। তাম্রপর্ণীর নিজস্ব উৎসবগুলি চারপাশের অঞ্চলকে আকর্ষণ করে।",
+    "experience": "নয়টির মধ্যে একটি শান্ত নদীতীরবর্তী দিব্য দেশম, সেই তীর্থযাত্রীর জন্য পুরস্কারদায়ী যিনি তাম্রপর্ণী অনুসরণ করে এক তিরুপতি থেকে পরবর্তীতে যান। চন্দ্রের মন্দির হিসেবে, এটি নব তিরুপতির একক তীর্থযাত্রায় তার স্থান গ্রহণ করে যা নয়টি গ্রহকে বিষ্ণুর আবাসে একত্রিত করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন অধিবেশন এবং মধ্যাহ্ন বন্ধসহ খোলা থাকে; গরুড় সেবৈ ও বৈকুণ্ঠ একাদশীর দিনগুলি সবচেয়ে ব্যস্ত। পরিদর্শনের আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতা খুলে রাখা হয়। পোস্ট করা নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ফটোগ্রাফি সীমাবদ্ধ; পোস্ট করা নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "এটি তাম্রপর্ণীর তীরে তিরুনেলবেলি–থুথুকুডি অঞ্চলে, তিরুনেলবেলি–তিরুচেন্দুর পথে অবস্থিত, তিরুনেলবেলি থেকে সড়কপথে পৌঁছানো যায়; নয়টি তিরুপতি গ্রাম নদীর ধারে একে অপরের কাছাকাছি অবস্থিত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vijayasana-thiruvaragunamangai.jpg",

@@ -1,30 +1,37 @@
 {
   "id": "pavalavannar-kanchipuram",
   "locale": "bn",
+  "name": "পবলবণ্ণর পেরুমাল মন্দির (তিরুপ্পবলবণ্ণম), কাঞ্চিপুরম",
   "nativeName": "பவளவண்ணப் பெருமாள் கோயில் (திருப்பவளவண்ணம்), காஞ்சிபுரம்",
+  "deity": "বিষ্ণু পবলবণ্ণর রূপে, প্রবাল-বর্ণের প্রভু, দেবী পবলবল্লী তায়ারের সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.8444,
     "lng": 79.7044
   },
+  "period": "তোণ্ডৈ নাডুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "তোণ্ডৈ নাডু মন্দির ঐতিহ্য",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "কাঞ্চিপুরমের তিরুপ্পবলবণ্ণমে বিষ্ণু পবলবণ্ণর রূপে, প্রবাল-বর্ণের প্রভু, পবলবল্লী তায়ারের সঙ্গে পূজিত হন — তিরুমঙ্গৈ আলবার কর্তৃক স্তুত তোণ্ডৈ নাডুর একটি দিব্য দেশম।",
   "sections": {
-    "history": "Thiruppavalavannam is one of the 108 Divya Desams, the abodes of Vishnu praised by the Alvars in the Nalayira Divya Prabandham, and it belongs to Thondai Nadu. Thirumangai Alvar sang the Lord of this shrine, and the tradition holds that Peyalvar and Thirumazhisai Alvar, too, celebrated the different forms of God worshipped within this temple. It stands in Kanchipuram, the ancient temple city, where a pilgrim can walk from one Divya Desam to the next. The name itself carries the devotion: Pavalavannar means the one whose hue is that of red coral, the colour in which the devotees have long seen their Lord.",
-    "architecture": "The sanctum houses Pavalavannar, and the Goddess is honoured as Pavalavalli Thayar, whose shrine stands in the outer prakaram together with that of Andal. North of the flagstaff are separate shrines for the Alvars, a reminder that this is a temple of the Divya Prabandham as much as of the image. The pillared courts and processional paths follow the familiar Dravidian plan of the Vaishnava temples of Kanchipuram.",
-    "legends": "The sthala purana tells of the sage Bhrigu, who set out to learn which of the three great deities, Brahma, Vishnu or Shiva, was supreme, and tested each in turn. At this place Vishnu appeared before the sage as Pavalavannar, the coral-hued Lord. The shrine therefore remembers a story of humility and patience: the Lord who receives the sage's test with grace, and shows his form to the seeker who has come in search of truth.",
-    "festivals": "Vaikunta Ekadashi is the great day of the Vaishnava year here, as at every Divya Desam, and the verses of the Divya Prabandham are recited on festival days, including those of Thirumangai Alvar. The temple also takes part in the festival life of Kanchipuram. Confirm dates locally.",
-    "experience": "A quiet, devotional visit rewards those who go slowly: the coral-hued Lord in the sanctum, the shrine of Pavalavalli Thayar and Andal in the outer prakaram, and the Alvars north of the flagstaff. Many pilgrims pair it with the nearby Pachaivannar shrine, the emerald-hued Lord, so that the two colours of Vishnu are seen on the same walk. Combine it with other Divya Desams of Kanchipuram."
+    "history": "তিরুপ্পবলবণ্ণম হল ১০৮টি দিব্য দেশমের একটি — নালায়িরা দিব্য প্রবন্ধমে আলবারগণ কর্তৃক প্রশংসিত বিষ্ণুর আবাসসমূহের একটি — এবং এটি তোণ্ডৈ নাডুর অন্তর্গত। তিরুমঙ্গৈ আলবার এই মন্দিরের প্রভুকে স্তুতি করেছেন, এবং ঐতিহ্য বলে যে পেয়ালবার ও তিরুমড়িশৈ আলবারও এই মন্দিরের মধ্যে পূজিত ঈশ্বরের বিভিন্ন রূপের বন্দনা করেছেন। এটি কাঞ্চিপুরমে অবস্থিত, সেই প্রাচীন মন্দির নগরী, যেখানে এক তীর্থযাত্রী এক দিব্য দেশম থেকে পরেরটিতে হেঁটে যেতে পারেন। নামটিই ভক্তি বহন করে: পবলবণ্ণর মানে যাঁর বর্ণ লাল প্রবালের মতো, সেই রং যাতে ভক্তরা বহুকাল ধরে তাঁদের প্রভুকে দেখে এসেছেন।",
+    "architecture": "গর্ভগৃহে পবলবণ্ণর বিরাজ করেন, এবং দেবী পবলবল্লী তায়ার রূপে সম্মানিত, যাঁর মন্দির বহিঃপ্রাকারে আণ্ডালের মন্দিরের সঙ্গে অবস্থিত। ধ্বজস্তম্ভের উত্তরে আলবারদের জন্য পৃথক মন্দির রয়েছে, যা স্মরণ করায় যে এটি মূর্তির মতোই দিব্য প্রবন্ধমেরও একটি মন্দির। স্তম্ভশোভিত প্রাঙ্গণ ও শোভাযাত্রার পথগুলি কাঞ্চিপুরমের বৈষ্ণব মন্দিরের পরিচিত দ্রাবিড় পরিকল্পনা অনুসরণ করে।",
+    "legends": "স্থল পুরাণ ঋষি ভৃগুর কথা বলে, যিনি ব্রহ্মা, বিষ্ণু ও শিব — এই তিন মহান দেবতার মধ্যে কে শ্রেষ্ঠ তা জানতে বেরিয়েছিলেন এবং প্রত্যেককে পর্যায়ক্রমে পরীক্ষা করেছিলেন। এই স্থানে বিষ্ণু ঋষির সামনে পবলবণ্ণর, প্রবাল-বর্ণের প্রভু, রূপে আবির্ভূত হন। তাই মন্দিরটি বিনয় ও ধৈর্যের এক কাহিনি স্মরণ করে: যে প্রভু ঋষির পরীক্ষা কৃপাভরে গ্রহণ করেন এবং সত্যের সন্ধানে আসা অন্বেষীকে তাঁর রূপ দেখান।",
+    "festivals": "প্রতিটি দিব্য দেশমের মতো এখানেও বৈকুণ্ঠ একাদশী বৈষ্ণব বর্ষের মহান দিন, এবং উৎসবের দিনে দিব্য প্রবন্ধমের শ্লোক পাঠ করা হয়, তিরুমঙ্গৈ আলবারের শ্লোকসহ। মন্দিরটি কাঞ্চিপুরমের উৎসবজীবনেও অংশ নেয়। স্থানীয়ভাবে তারিখ নিশ্চিত করে নিন।",
+    "experience": "যাঁরা ধীরে যান তাঁদের জন্য এক শান্ত, ভক্তিময় ভ্রমণ পুরস্কৃত করে: গর্ভগৃহে প্রবাল-বর্ণের প্রভু, বহিঃপ্রাকারে পবলবল্লী তায়ার ও আণ্ডালের মন্দির, এবং ধ্বজস্তম্ভের উত্তরে আলবারগণ। অনেক তীর্থযাত্রী এটিকে নিকটবর্তী পচ্চৈবণ্ণর মন্দির, পান্না-বর্ণের প্রভুর সঙ্গে জুড়ে দেন, যাতে বিষ্ণুর দুই রং একই পথচলায় দেখা যায়। কাঞ্চিপুরমের অন্যান্য দিব্য দেশমের সঙ্গে একে মিলিয়ে দেখুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple stands in Kanchipuram, about 1.5 km from Kanchipuram railway station and about 2.5 km from the bus stand, so auto-rickshaws or a short walk suffice. Chennai, about 70 km to the north-east, is the nearest major airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনকালে খোলা, মধ্যাহ্নে বন্ধ; বৈকুণ্ঠ একাদশী ও উৎসবের দিনগুলি সবচেয়ে ব্যস্ত। যাওয়ার আগে স্থানীয়ভাবে বর্তমান সময় নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতা খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "মন্দিরটি কাঞ্চিপুরমে অবস্থিত, কাঞ্চিপুরম রেলস্টেশন থেকে প্রায় ১.৫ কিমি এবং বাসস্ট্যান্ড থেকে প্রায় ২.৫ কিমি দূরে, তাই অটোরিকশা বা অল্প হাঁটাই যথেষ্ট। উত্তর-পূর্বে প্রায় ৭০ কিমি দূরে চেন্নাই নিকটতম বড় বিমানবন্দর।"
   }
 }

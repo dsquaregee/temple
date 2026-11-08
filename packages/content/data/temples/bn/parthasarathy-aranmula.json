@@ -1,32 +1,39 @@
 {
   "id": "parthasarathy-aranmula",
   "locale": "bn",
+  "name": "পার্থসারথি পেরুমাল মন্দির, আরন্মুলা",
   "nativeName": "പാർത്ഥസാരഥി പെരുമാൾ ക്ഷേത്രം, ആറന്മുള",
+  "deity": "পার্থসারথি রূপে কৃষ্ণ, অর্জুনের সারথি (নাম্মালবারের স্তোত্রের তিরুক্কুরলপ্পন), দেবী পদ্মাসনী নাচিয়ারের সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Aranmula",
-    "state": "Kerala",
+    "city": "আরন্মুলা",
+    "state": "কেরালা",
     "lat": 9.328,
     "lng": 76.688
   },
+  "period": "পম্পা নদীর তীরে মালৈ নাড়ু (কেরালা)-র একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে নাম্মালবারের স্তুত",
   "century": 8,
+  "dynasty": "পম্পার তীরে প্রাচীন মালৈ নাড়ু তীর্থ",
+  "style": "কেরালা মন্দির রীতি",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "sacred-temples-of-kerala",
     "pancha-pandava-temples"
   ],
+  "summary": "আরন্মুলায় পম্পার তীরে কৃষ্ণ পূজিত হন পার্থসারথি রূপে, অর্জুনের সারথি—নাম্মালবারের স্তুত একটি মালৈ নাড়ু দিব্য দেশম, যা ছয় বাঁশের ভেলার ঐতিহ্য ও ওনমের নৌকাবাইচের জন্য প্রসিদ্ধ।",
   "sections": {
-    "history": "Aranmula, in Pathanamthitta district, sits on the river Pamba, and its temple is the Divya Desam that the Alvar hymns call Thiruvaranvilai. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and belongs to Malai Nadu, the Kerala country. Nammalvar was the Alvar who sang here, addressing the Lord as Thirukkuralappan. The presiding deity is worshipped locally as Parthasarathy, Krishna as the charioteer of Arjuna, and the Goddess is Padmasani Nachiyar. Among the Pandava-linked Vishnu temples of the Chengannur country, tradition attributes Aranmula to Arjuna. The village is also widely known for its Aranmula kannadi, the handmade metal mirrors that have made its name travel far beyond Kerala.",
-    "architecture": "The temple is built in the Kerala style, on the bank of the Pamba, and its outer wall is pierced by four gopurams over the entrances, so that the precinct opens to the four directions. The sanctum houses Parthasarathy with the Goddess Padmasani Nachiyar. The name of its vimana is not firmly recorded. The river bank itself is part of the temple’s character, and the ceremonies of the boats and the feasts are woven into the water’s edge.",
-    "legends": "The sthala purana tells that Arjuna first installed the image at Nilakkal, near Sabarimala, but the forest conditions there made daily worship hard. The image was therefore brought down the Pamba on a raft made of six bamboos, and the place where it came to rest took its name from that raft: Aranmula, “six bamboo stems”. The story links the shrine with Arjuna’s journey and with the river that gave it its home.",
-    "festivals": "Aranmula is best known for the Uthrattathi snake-boat regatta, the Aranmula Vallamkali, held in the Onam season and said to commemorate the installation of the deity. The temple also offers the Valla Sadya, the feasts given to the boat crews, and keeps the Onam celebrations. Vaikunta Ekadashi is observed as at other Vaishnava shrines. Dates vary yearly, so confirm locally.",
-    "experience": "Aranmula rewards a slower visit: walk the river bank, pass beneath the four gopurams and take darshan of Parthasarathy, with the legend of the six-bamboo raft in mind. If the Onam season fits your plans, the regatta is a memorable sight, though crowds are large. Pilgrims may also wish to see the village’s famous metal mirrors, a craft of Aranmula."
+    "history": "আরন্মুলা, পাথানামথিট্টা জেলায়, পম্পা নদীর ধারে অবস্থিত, এবং এর মন্দির সেই দিব্য দেশম যাকে আলবার স্তোত্রে তিরুবারন্বিলৈ বলা হয়। এটি ১০৮ দিব্য দেশমের অন্যতম, নালায়িরা দিব্য প্রবন্ধমে আলবার সাধকদের স্তুত বিষ্ণুর ধামগুলির অন্যতম, এবং মালৈ নাড়ু, অর্থাৎ কেরালা দেশের অন্তর্গত। নাম্মালবার এখানে গান গেয়েছিলেন, প্রভুকে তিরুক্কুরলপ্পন সম্বোধন করে। অধিষ্ঠাতা দেবতা স্থানীয়ভাবে পার্থসারথি রূপে পূজিত, অর্জুনের সারথি কৃষ্ণ, এবং দেবী পদ্মাসনী নাচিয়ার। চেঙ্গন্নুর দেশের পাণ্ডব-সংযুক্ত বিষ্ণুমন্দিরগুলির মধ্যে ঐতিহ্য আরন্মুলাকে অর্জুনের সঙ্গে যুক্ত করে। গ্রামটি তার আরন্মুলা কণ্ণাড়ি, অর্থাৎ হাতে তৈরি ধাতব আয়নার জন্যও বহুল পরিচিত, যা এর নাম কেরালার বহু বাইরে পৌঁছে দিয়েছে।",
+    "architecture": "মন্দিরটি কেরালা রীতিতে পম্পার তীরে নির্মিত, এবং এর বহিঃপ্রাচীর প্রবেশপথের উপর চারটি গোপুরমে বিদ্ধ, যাতে পরিসর চার দিকেই উন্মুক্ত। গর্ভগৃহে পার্থসারথি দেবী পদ্মাসনী নাচিয়ারের সঙ্গে অধিষ্ঠিত। এর বিমানের নাম সুনিশ্চিতভাবে নথিভুক্ত নেই। নদীর তীর নিজেই মন্দিরের চরিত্রের অংশ, এবং নৌকার আচার ও ভোজন-পর্ব জলধারার কিনারায় বোনা।",
+    "legends": "স্থলপুরাণ বলে যে অর্জুন প্রথমে শবরীমালার কাছে নীলক্কলে মূর্তিটি স্থাপন করেছিলেন, কিন্তু সেখানে অরণ্যের পরিবেশে দৈনিক পূজা কঠিন হয়ে পড়ে। তাই মূর্তিটি ছয় বাঁশের তৈরি একটি ভেলায় পম্পা দিয়ে নামিয়ে আনা হয়, আর যে স্থানে এটি বিশ্রাম পায় তা সেই ভেলা থেকে নাম নেয়: আরন্মুলা, 'ছয় বাঁশের কাণ্ড'। কাহিনিটি তীর্থকে অর্জুনের যাত্রার সঙ্গে এবং যে নদী এটিকে আশ্রয় দিয়েছিল তার সঙ্গে যুক্ত করে।",
+    "festivals": "আরন্মুলা সবচেয়ে বেশি পরিচিত উত্রট্টাতি নৌকাবাইচ, অর্থাৎ আরন্মুলা ভল্লমকলির জন্য, যা ওনম মরসুমে অনুষ্ঠিত হয় ও দেবতা স্থাপনের স্মরণে বলে কথিত। মন্দির ভল্ল সদ্যও প্রদান করে, যা নৌকার মাঝিদের দেওয়া ভোজ, এবং ওনম উৎসব পালন করে। বৈকুণ্ঠ একাদশী অন্যান্য বৈষ্ণব তীর্থের মতোই পালিত হয়। তারিখ বছরে বছরে বদলায়, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "আরন্মুলা ধীর ভ্রমণকে পুরস্কৃত করে: নদীর তীরে হাঁটুন, চারটি গোপুরমের নিচে দিয়ে যান এবং ছয় বাঁশের ভেলার কাহিনি মনে রেখে পার্থসারথির দর্শন নিন। ওনম মরসুম যদি আপনার পরিকল্পনার সঙ্গে মেলে, তবে নৌকাবাইচ এক স্মরণীয় দৃশ্য, যদিও ভিড় বিপুল। তীর্থযাত্রীরা গ্রামের প্রসিদ্ধ ধাতব আয়না, আরন্মুলার এক শিল্পও দেখতে চাইতে পারেন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions, usually with a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Aranmula is in Pathanamthitta district on the Pamba, a short road journey from Chengannur, which is the nearest railway station; autorickshaws, taxis and buses link the two. Kozhencherry and Pathanamthitta are nearby towns, and Thiruvananthapuram and Kochi are the usual airport gateways. During the boat-race season, expect heavy traffic and plan to arrive early."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্ব সহ খোলা, সাধারণত মধ্যাহ্ন বিরতি সহ; উৎসবের দিনে সবচেয়ে ভিড়। যাওয়ার আগে স্থানীয়ভাবে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহের ভেতরে ও চারপাশে ছবি তোলা নিয়ন্ত্রিত; প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "আরন্মুলা পাথানামথিট্টা জেলায় পম্পার তীরে, চেঙ্গন্নুর থেকে স্বল্প সড়কপথের দূরত্বে, যা নিকটতম রেলস্টেশন; অটোরিকশা, ট্যাক্সি ও বাস দুটিকে যুক্ত করে। কোঝেঞ্চেরি ও পাথানামথিট্টা কাছের শহর, আর তিরুবনন্তপুরম ও কোচি সাধারণ বিমানবন্দর প্রবেশদ্বার। নৌকাবাইচ মরসুমে প্রচণ্ড যানজট আশা করুন ও আগেভাগে পৌঁছানোর পরিকল্পনা করুন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.jpg",

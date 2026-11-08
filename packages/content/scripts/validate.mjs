@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 
 const root = dirname(fileURLToPath(import.meta.url));
 const dataDir = join(root, '..', 'data');
-const LOCALES = ['en', 'ta', 'te', 'kn', 'ml', 'hi'];
+const LOCALES = ['en', 'ta', 'te', 'kn', 'ml', 'hi', 'bn'];
 
 const errors = [];
 
@@ -24,6 +24,10 @@ function load(kind) {
   const byLocale = {};
   const kindDir = join(dataDir, kind);
   for (const locale of readdirSync(kindDir).sort()) {
+    // Only validate locales that are actually shipped (in LOCALES). Content
+    // dirs for not-yet-launched locales (machine-bootstrap stubs awaiting
+    // translation) are left dormant on disk and skipped until wired in.
+    if (!LOCALES.includes(locale)) continue;
     byLocale[locale] = {};
     for (const file of readdirSync(join(kindDir, locale)).sort()) {
       if (!file.endsWith('.json')) continue;

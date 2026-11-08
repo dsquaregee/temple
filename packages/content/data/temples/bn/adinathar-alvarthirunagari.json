@@ -1,30 +1,37 @@
 {
   "id": "adinathar-alvarthirunagari",
   "locale": "bn",
+  "name": "আদিনাথর পেরুমাল মন্দির, আলবারতিরুনগরি",
   "nativeName": "ஆதிநாதர் பெருமாள் கோயில், ஆழ்வார்திருநகரி",
+  "deity": "আদিনাথর রূপে বিষ্ণু, দেবী আদিনাথবল্লী-র সঙ্গে—নব তিরুপতির মধ্যে বৃহস্পতি (গুরু)-র তীর্থ, এবং নম্মালবারের জন্মস্থান",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Alvarthirunagari",
-    "state": "Tamil Nadu",
+    "city": "আলবারতিরুনগরি",
+    "state": "তামিলনাড়ু",
     "lat": 8.605,
     "lng": 77.8
   },
+  "period": "তাম্রপর্ণীর তীরে পাণ্ড্য দেশের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে নম্মালবার-স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "তাম্রপর্ণীর তীরে আলবারতিরুনগরিতে বিষ্ণু আদিনাথর রূপে দাঁড়িয়ে আছেন—নয়টি গ্রহ-তিরুপতির মধ্যে বৃহস্পতির তীর্থ, এবং আলবারদের শ্রেষ্ঠ নম্মালবারের জন্মস্থান, যিনি এই সমস্ত তীর্থের স্তুতি গেয়েছিলেন।",
   "sections": {
-    "history": "Alvarthirunagari — the sacred town of the Alvar — is the birthplace of Nammalvar, the greatest of the Alvar saints, and stands at the heart of the Nava Tirupati on the Tamiraparani; its lord is Adinathar, the primordial one. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of Jupiter, Guru; the old tamarind tree under which Nammalvar is said to have sat in silent meditation is revered here.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Adinathar, with the Goddess Adinathavalli; the shrine is the devotional centre of the nine. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Alvarthirunagari the planet is Jupiter, Guru. It is told that Nammalvar, born here, sat in wordless meditation beneath a tamarind tree until Madhurakavi Alvar drew forth his song — the Tiruvaymoli that hymns these very shrines.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of Jupiter, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "আলবারতিরুনগরি—আলবারের পবিত্র নগর—হল আলবার সন্তদের শ্রেষ্ঠ নম্মালবারের জন্মস্থান, এবং তাম্রপর্ণীর তীরে নব তিরুপতির কেন্দ্রে দাঁড়িয়ে আছে; এর প্রভু আদিনাথর, আদিপুরুষ। এটি ১০৮টি দিব্য দেশমের একটি, নালায়িরা দিব্য প্রবন্ধমে আলবার সন্তদের গাওয়া বিষ্ণুর আবাসগুলির মধ্যে, এবং নব তিরুপতির একটি—তাম্রপর্ণীর নয়টি মন্দির, প্রতিটিকে বৈষ্ণবদের একটি গ্রহ-তীর্থ হিসেবে ধরা হয়। নব তিরুপতির মধ্যে একে বৃহস্পতি, গুরুর তীর্থ হিসেবে সম্মান করা হয়; যে পুরনো তেঁতুল গাছের নিচে নম্মালবার নীরব ধ্যানে বসেছিলেন বলে কথিত, তা এখানে পূজিত।",
+    "architecture": "পাণ্ড্য দেশ ও এর পরবর্তী পৃষ্ঠপোষকদের দ্রাবিড় রীতিতে নির্মিত, মন্দিরটিতে একটি গোপুর ফটক দিয়ে প্রবেশ করা হয় এবং অধিষ্ঠাতা বিষ্ণুর গর্ভগৃহের চারপাশে জড়ো, দেবী তাঁর নিজস্ব গর্ভগৃহে। এখানে প্রভু আদিনাথর রূপে, দেবী আদিনাথবল্লী-র সঙ্গে পূজিত; গর্ভগৃহটি নয়টির ভক্তিকেন্দ্র। গর্ভগৃহের সামনে স্তম্ভশোভিত মণ্ডপ উন্মোচিত হয়, দক্ষিণের গভীর মন্দির-রীতিতে।",
+    "legends": "নব তিরুপতি একসঙ্গে বৈষ্ণবদের নয়টি গ্রহ-তীর্থ হিসেবে পূজিত: যেখানে কাবেরীর শৈব ঐতিহ্য নয়টি পৃথক নবগ্রহ মন্দির রাখে, সেখানে এখানে নয়টি গ্রহ তাম্রপর্ণীর তীরে বিষ্ণুর নয়টি আবাস জুড়ে সম্মানিত, সবই নম্মালবার—আলবারদের শ্রেষ্ঠ—কর্তৃক স্তুত, যাঁর নিজের জন্মস্থান এদের মধ্যে আলবারতিরুনগরি। আলবারতিরুনগরিতে গ্রহটি বৃহস্পতি, গুরু। কথিত আছে যে এখানে জন্মানো নম্মালবার একটি তেঁতুল গাছের নিচে নির্বাক ধ্যানে বসেছিলেন যতক্ষণ না মধুরকবি আলবার তাঁর গান টেনে বের করলেন—তিরুবায়মোড়ি, যা এই তীর্থগুলিরই স্তুতি গায়।",
+    "festivals": "মন্দিরটি মহান বৈষ্ণব উৎসবগুলি—বৈকুণ্ঠ একাদশী, গরুড় সেবৈ যখন নয়টিকে এক পরিক্রমায় পূজা করা হয়, এবং নম্মালবার ও আলবারদের দিনগুলি—রক্ষা করে, নদীতীরের গ্রামগুলির মধ্য দিয়ে শোভাযাত্রাসহ। তাম্রপর্ণীর নিজস্ব উৎসবগুলি আশপাশের দেশকে আকৃষ্ট করে।",
+    "experience": "নয়টির মধ্যে একটি নিরিবিলি নদীতীর দিব্য দেশম, যে তীর্থযাত্রীর জন্য পুরস্কারজনক যিনি তাম্রপর্ণী ধরে এক তিরুপতি থেকে পরেরটিতে যান। বৃহস্পতির তীর্থ হিসেবে, এটি নব তিরুপতির একক তীর্থযাত্রায় স্থান নেয় যা নয়টি গ্রহকে বিষ্ণুর আবাসে জড়ো করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্ব ও মধ্যাহ্নে বন্ধ থাকে; গরুড় সেবৈ ও বৈকুণ্ঠ একাদশীর দিনে সবচেয়ে ভিড়। পরিদর্শনের আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ছবি তোলা সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "এটি তিরুনেলবেলি–তুতুকুড়ি দেশে তাম্রপর্ণীর তীরে, তিরুনেলবেলি–তিরুচেন্দুর পথে অবস্থিত, তিরুনেলবেলি থেকে সড়কপথে পৌঁছানো যায়; নয়টি তিরুপতি গ্রাম নদী বরাবর কাছাকাছি অবস্থিত।"
   }
 }

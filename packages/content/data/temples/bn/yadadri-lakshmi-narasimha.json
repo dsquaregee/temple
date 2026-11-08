@@ -1,28 +1,35 @@
 {
   "id": "yadadri-lakshmi-narasimha",
   "locale": "bn",
+  "name": "শ্রী লক্ষ্মী নরসিংহ স্বামী মন্দির, যাদাদ্রি",
   "nativeName": "శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం, యాదాద్రి",
+  "deity": "বিষ্ণু লক্ষ্মী নরসিংহ রূপে, পাহাড়ের উপর তাঁর পাঁচটি রূপে (পঞ্চ নরসিংহ) পূজিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Yadagirigutta",
-    "state": "Telangana",
+    "city": "যাদাগিরিগুট্টা",
+    "state": "তেলেঙ্গানা",
     "lat": 17.596,
     "lng": 78.949
   },
+  "period": "তেলেঙ্গানায় নরসিংহের একটি পাহাড়ি তীর্থ, ঋষি যাদর্ষির আসন, সম্প্রতি প্রস্তরে বিশাল আকারে পুনর্নির্মিত",
   "century": 12,
+  "dynasty": "প্রাচীন ঐতিহ্য, আমাদেরই সময়ে কৃষ্ণ প্রস্তরে পুনর্নির্মিত",
+  "style": "দ্রাবিড় (কাকতীয় প্রভাবযুক্ত)",
   "unesco": false,
   "circuits": [],
+  "summary": "যাদাদ্রি পাহাড়ে বিষ্ণু পাঁচটি রূপে লক্ষ্মী নরসিংহ রূপে পূজিত, এমন এক তীর্থে যা ঋষি যাদর্ষির তপস্যায় লব্ধ বলে কথিত এবং আমাদের সময়ে কালো প্রস্তরের এক বিশাল মন্দিররূপে পুনর্জন্ম লাভ করেছে।",
   "sections": {
-    "history": "Yadadri, or Yadagirigutta, crowns a hill in Telangana. Tradition holds that the sage Yadarshi, son of Rishyasringa, did penance here and was granted the vision of Narasimha in five forms; the god stayed on the hill as Lakshmi Narasimha. In recent years the temple has been rebuilt on a grand scale in black Krishna stone.",
-    "architecture": "The reborn temple rises in the Dravidian manner in dark stone, with towered gateways and carved halls, gathered around the cave-like sanctum where the five forms of Narasimha are worshipped. The hilltop setting and the black-stone mass give it a stern, ancient grandeur.",
-    "legends": "The five forms — Jwala, Yogananda, Gandabherunda, Ugra, and Lakshmi Narasimha — are held to have revealed themselves to Yadarshi in a cave on the hill. Narasimha, the man-lion who tore apart the demon Hiranyakashipu to save the child Prahlada, is here the fierce yet grace-giving lord of the hill.",
-    "festivals": "Brahmotsavam and the days of Narasimha, above all Narasimha Jayanti, fill the hill with pilgrims. The temple is also sought for the rites that calm the fierce aspect of the god and heal affliction.",
-    "experience": "Yadadri joins the awe of a hill-shrine of the fierce Narasimha with the freshness of a temple newly raised in stone — a pilgrimage both ancient in spirit and new to the eye."
+    "history": "যাদাদ্রি, বা যাদাগিরিগুট্টা, তেলেঙ্গানার এক পাহাড়ের শিখরে অবস্থিত। ঐতিহ্য বলে যে ঋষ্যশৃঙ্গের পুত্র ঋষি যাদর্ষি এখানে তপস্যা করেছিলেন এবং পাঁচ রূপে নরসিংহের দর্শন লাভ করেছিলেন; দেবতা লক্ষ্মী নরসিংহ রূপে এই পাহাড়েই থেকে গেলেন। সাম্প্রতিক বছরগুলিতে মন্দিরটি কালো কৃষ্ণ প্রস্তরে বিশাল আকারে পুনর্নির্মিত হয়েছে।",
+    "architecture": "পুনর্জাত মন্দিরটি গাঢ় প্রস্তরে দ্রাবিড় রীতিতে উত্থিত, উচ্চ গোপুরদ্বার ও খোদিত মণ্ডপসহ, যা গুহাসদৃশ গর্ভগৃহকে ঘিরে রয়েছে যেখানে নরসিংহের পাঁচ রূপ পূজিত হয়। পাহাড়চূড়ার অবস্থান ও কালো প্রস্তরের পিণ্ড একে এক কঠোর, প্রাচীন মহিমা দেয়।",
+    "legends": "পাঁচ রূপ — জ্বালা, যোগানন্দ, গণ্ডভেরুণ্ড, উগ্র ও লক্ষ্মী নরসিংহ — পাহাড়ের এক গুহায় যাদর্ষির কাছে আত্মপ্রকাশ করেছিলেন বলে ধরা হয়। নরসিংহ, সেই নরসিংহ যিনি দানব হিরণ্যকশিপুকে বিদীর্ণ করে শিশু প্রহ্লাদকে রক্ষা করেছিলেন, এখানে পাহাড়ের সেই উগ্র অথচ কৃপাদাতা প্রভু।",
+    "festivals": "ব্রহ্মোৎসব এবং নরসিংহের দিনগুলি, সর্বোপরি নরসিংহ জয়ন্তী, পাহাড়কে তীর্থযাত্রীতে পূর্ণ করে। দেবতার উগ্র রূপকে শান্ত করা ও কষ্ট নিরাময়ের আচারের জন্যও মন্দিরটি সন্ধান করা হয়।",
+    "experience": "যাদাদ্রি উগ্র নরসিংহের এক পাহাড়ি তীর্থের বিস্ময়কে প্রস্তরে নবনির্মিত এক মন্দিরের সতেজতার সঙ্গে মিলিত করে — এমন এক তীর্থযাত্রা যা আত্মায় প্রাচীন অথচ চোখে নতুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday break; Narasimha Jayanti and Brahmotsavam are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Yadadri lies in Yadadri Bhuvanagiri district of Telangana, reached by road from Hyderabad, with the nearest railhead at Raigir/Bhongir."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন এবং মধ্যাহ্নে বিরতিসহ খোলা থাকে; নরসিংহ জয়ন্তী ও ব্রহ্মোৎসব সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "যাদাদ্রি তেলেঙ্গানার যাদাদ্রি ভুবনগিরি জেলায় অবস্থিত, হায়দরাবাদ থেকে সড়কপথে পৌঁছনো যায়, নিকটতম রেলপথ রাইগির/ভোঙ্গির।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.jpg",

@@ -1,29 +1,36 @@
 {
   "id": "manathunainathar-valivalam",
   "locale": "bn",
+  "name": "মনত্তুণৈনাথর মন্দির, তিরুবলিবলম্‌",
   "nativeName": "திருவலிவலம் மனத்துணைநாதர் கோயில்",
+  "deity": "শিব মনত্তুণৈনাথর (হৃদয় কমল নাথর, হৃদয়ের সঙ্গী) রূপে, দেবী মাড়ৈ ওণ্‌কণ্ণি (মধ্যযাধাক্ষী) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্‌",
   "location": {
-    "city": "Valivalam, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "বলিবলম্‌, তিরুবারুরের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.75,
     "lng": 79.75
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল প্রস্তরমন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারুরের কাছে বলিবলম্‌ শিবকে মনত্তুণৈনাথর রূপে সম্মান জানায় — হৃদয়ের সঙ্গী — দেবী মাড়ৈ ওণ্‌কণ্ণির সঙ্গে। তিন মহান সন্ত সম্বন্দর, অপ্পর ও সুন্দরর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম্‌, এর নামটিই এমন এক প্রভুর প্রতিশ্রুতি দেয় যিনি মনের গভীরে ভক্তের পাশে দাঁড়ান।",
   "sections": {
-    "history": "Valivalam lies about 18–19 km from Tiruvarur, near Tirukaravasal, in Nagapattinam district. It is a Paadal Petra Sthalam, hymned in the Tevaram by all three of the great saints — Tirugnana Sambandar, Appar and Sundarar. The stone temple is of the Chola period and later; the lord here is Manathunainathar, also called Hrudaya Kamala Nathar, 'lord of the lotus of the heart.'",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Manathunainathar in the sanctum, with the goddess Maazhai Onkanni — also called Madhyayadhakshi and Valaiyangkanni — in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the punnai (laurel), and the sacred tank is the Sankara (Chakkara) Theertham.",
-    "legends": "The lord's names carry the shrine's whole meaning: Manathunainathar is 'the lord who is the companion of the mind,' and Hrudaya Kamala Nathar 'the lord of the heart's lotus' — the Shiva who dwells within and stands beside the devotee in every trouble of the heart. That all three Tevaram saints sang here marks the place as dear to the Shaiva tradition. The fuller sthala purana, as with many delta shrines, is carried chiefly in the Tevaram verses and local memory.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail near Tiruvarur include Valivalam among their stops.",
-    "experience": "At Valivalam the pilgrim comes to the lord who is the heart's own companion. Before Manathunainathar and Maazhai Onkanni, the visitor brings the burdens of the mind to a Tevaram temple sung by all three saints, and feels the nearness of a Shiva who steadies the heart from within."
+    "history": "বলিবলম্‌ তিরুবারুর থেকে প্রায় ১৮–১৯ কিমি দূরে, তিরুকারবাসলের কাছে, নাগপট্টিনম জেলায় অবস্থিত। এটি একটি পাডল পেট্র স্থলম্‌, তেবারমে তিন মহান সন্ত — তিরুগ্ঞান সম্বন্দর, অপ্পর ও সুন্দরর — কর্তৃক স্তুত। প্রস্তরমন্দিরটি চোল যুগ ও পরবর্তী সময়ের; এখানকার প্রভু মনত্তুণৈনাথর, হৃদয় কমল নাথর নামেও পরিচিত, 'হৃদয়ের পদ্মের প্রভু।'",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এই মন্দিরে গর্ভগৃহে মনত্তুণৈনাথর অধিষ্ঠিত, দেবী মাড়ৈ ওণ্‌কণ্ণি — মধ্যযাধাক্ষী ও বলৈয়ঙ্কণ্ণি নামেও পরিচিত — তাঁর নিজের মন্দিরে, একটি নন্দী এবং পরিবার দেবতাগণসহ। স্থল বৃক্ষ হল পুন্নৈ (লরেল), এবং পবিত্র জলাশয় হল শঙ্কর (চক্কর) তীর্থম্‌।",
+    "legends": "প্রভুর নামগুলি মন্দিরের সমগ্র অর্থ বহন করে: মনত্তুণৈনাথর হলেন 'সেই প্রভু যিনি মনের সঙ্গী,' এবং হৃদয় কমল নাথর 'হৃদয়ের পদ্মের প্রভু' — সেই শিব যিনি ভেতরে বাস করেন এবং হৃদয়ের প্রতিটি সংকটে ভক্তের পাশে দাঁড়ান। তিন তেবারম সন্তই এখানে গেয়েছিলেন, যা এই স্থানকে শৈব ঐতিহ্যের কাছে প্রিয় রূপে চিহ্নিত করে। পূর্ণতর স্থলপুরাণ, বহু বদ্বীপ মন্দিরের মতো, মূলত তেবারম পদে ও স্থানীয় স্মৃতিতে বহন করা হয়।",
+    "festivals": "মন্দির মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈর সোমবারগুলি, প্রদোষ পূজাসহ, এক গ্রামীণ মন্দিরের নিরিবিলি পরিসরে পালন করে। তিরুবারুরের কাছে পাডল পেট্র পথের তীর্থযাত্রীরা বলিবলম্‌কে তাঁদের বিরতির অন্তর্ভুক্ত করেন।",
+    "experience": "বলিবলমে তীর্থযাত্রী সেই প্রভুর কাছে আসেন যিনি হৃদয়ের নিজস্ব সঙ্গী। মনত্তুণৈনাথর ও মাড়ৈ ওণ্‌কণ্ণির সামনে দর্শনার্থী তিন সন্ত কর্তৃক স্তুত এক তেবারম মন্দিরে মনের বোঝা নিয়ে আসেন, এবং এমন এক শিবের নৈকট্য অনুভব করেন যিনি ভেতর থেকে হৃদয়কে স্থির করেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Valivalam is about 18–19 km from Tiruvarur, near Tirukaravasal, in Nagapattinam district. Tiruvarur and Nagapattinam are the nearest rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশদ্বারে জুতা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত আলোকচিত্র তোলার অনুমতি আছে তবে গর্ভগৃহের ভেতরে নয়; পূজার ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "বলিবলম্‌ তিরুবারুর থেকে প্রায় ১৮–১৯ কিমি দূরে, তিরুকারবাসলের কাছে, নাগপট্টিনম জেলায়। তিরুবারুর ও নাগপট্টিনম নিকটতম রেলস্টেশন, গ্রামে বাস ও ট্যাক্সি সহ।"
   }
 }

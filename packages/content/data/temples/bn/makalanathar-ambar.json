@@ -1,29 +1,36 @@
 {
   "id": "makalanathar-ambar",
   "locale": "bn",
+  "name": "মহাকালনাথর মন্দির, অম্বর মাকালম্‌",
   "nativeName": "அம்பர் மாகாளம் மாகாளநாதர் கோயில்",
+  "deity": "শিব মহাকালনাথর (মাকালনাথর) রূপে, দেবী পচ্চৈয়াম্বিকৈ (ভক্ষায়াম্বিকৈও) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্‌",
   "location": {
-    "city": "Ambar Makalam, via Poonthottam",
-    "state": "Tamil Nadu",
+    "city": "অম্বর মাকালম্‌, পুন্তোট্টম হয়ে",
+    "state": "তামিলনাড়ু",
     "lat": 10.97,
     "lng": 79.56
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল প্রস্তরমন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরী বদ্বীপে পুন্তোট্টমের কাছে অম্বর মাকালম্‌ শিবকে মহাকালনাথর রূপে সম্মান জানায় — মহাকালের অধীশ্বর, কাল ও মৃত্যুর মহান জয়ী — দেবী পচ্চৈয়াম্বিকৈর সঙ্গে। তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম্‌, এটি দেশের মাত্র তিনটি মন্দিরের একটি যা পবিত্র নাম 'মাকালম্‌' বহন করে, উজ্জয়িনী ও ইরুম্বৈর পাশাপাশি, যা এই ছোট বদ্বীপ মন্দিরকে এক বিরল মর্যাদার স্থান করে তোলে।",
   "sections": {
-    "history": "Ambar Makalam, also called Thirumakalam, lies about 3 km from Poonthottam on the Tiruvarur–Mayiladuthurai road, in Tiruvarur district, on the southern bank of the Kaveri. It is a Paadal Petra Sthalam hymned in the Tevaram by Tirugnana Sambandar. By tradition only three temples carry the name Makalam — the famous Mahakaleshwar of Ujjain, the shrine at Irumbai near Pondicherry, and Ambar Makalam — which places this modest village temple in exalted company. The stone temple is of the Chola period and later. The village of Ambar also holds the Brahmapureeswarar temple, another Paadal Petra Sthalam.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Mahakalanathar in the sanctum, with the goddess Pachaiyambikai — also recorded as Bhakshayambikai and Rajamathangi — in her own shrine, a Nandi, and the parivara devatas. As the name Mahakala suggests, the lord is worshipped here in his aspect as the conqueror of time and death, and Devi is venerated in her powerful Shakti form.",
-    "legends": "The name Mahakala, 'the great time,' belongs to Shiva as lord over kaala — time itself, and so over death — the same aspect honoured at the great Mahakaleshwar of Ujjain. Tradition links the three Makalam shrines as a set, so that the pilgrim who reaches Ambar Makalam stands at the southern member of a rare and powerful trio. The goddess's fierce protective names, Bhakshayambikai and Rajamathangi, mark her Shakti grace at this place.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, honouring the Mahakala aspect especially on nights of Shivaratri. Pilgrims seeking the rare Makalam shrines and the Paadal Petra temples of the delta come to Ambar.",
-    "experience": "At Ambar Makalam the pilgrim meets Shiva in his most awe-inspiring aspect, Mahakala, the lord of time and death, in a quiet village shrine that shares its sacred name with distant Ujjain. Before Mahakalanathar and Pachaiyambikai, the visitor feels the gravity of a small temple that carries a great name — one of only three Makalams, kept alive on the southern bank of the Kaveri."
+    "history": "অম্বর মাকালম্‌, তিরুমাকালম্‌ নামেও পরিচিত, তিরুবারুর–মাইলাডুতুরৈ সড়কে পুন্তোট্টম থেকে প্রায় ৩ কিমি দূরে, তিরুবারুর জেলায়, কাবেরীর দক্ষিণ তীরে অবস্থিত। এটি তেবারমে তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম্‌। ঐতিহ্য অনুসারে কেবল তিনটি মন্দির মাকালম্‌ নাম বহন করে — উজ্জয়িনীর প্রসিদ্ধ মহাকালেশ্বর, পুদুচেরির কাছে ইরুম্বৈর মন্দির, এবং অম্বর মাকালম্‌ — যা এই বিনম্র গ্রামীণ মন্দিরকে উচ্চ সঙ্গে স্থাপন করে। প্রস্তরমন্দিরটি চোল যুগ ও পরবর্তী সময়ের। অম্বর গ্রামে ব্রহ্মপুরীশ্বরর মন্দিরও রয়েছে, আরেকটি পাডল পেট্র স্থলম্‌।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এই মন্দিরে গর্ভগৃহে মহাকালনাথর অধিষ্ঠিত, দেবী পচ্চৈয়াম্বিকৈ — ভক্ষায়াম্বিকৈ ও রাজমাতঙ্গী নামেও নথিভুক্ত — তাঁর নিজের মন্দিরে, একটি নন্দী এবং পরিবার দেবতাগণসহ। মহাকাল নাম যেমন বোঝায়, প্রভু এখানে কাল ও মৃত্যুর জয়ী রূপে পূজিত হন, এবং দেবী তাঁর শক্তিশালী শক্তিরূপে শ্রদ্ধিত।",
+    "legends": "মহাকাল নাম, 'মহান কাল', শিবের, যিনি কাল — স্বয়ং সময়ের — এবং তাই মৃত্যুরও অধীশ্বর — উজ্জয়িনীর মহান মহাকালেশ্বরে সম্মানিত সেই একই রূপ। ঐতিহ্য তিনটি মাকালম্‌ মন্দিরকে একটি সমষ্টি রূপে যুক্ত করে, যাতে যে তীর্থযাত্রী অম্বর মাকালমে পৌঁছান তিনি এক বিরল ও শক্তিশালী ত্রয়ীর দক্ষিণ সদস্যের সামনে দাঁড়ান। দেবীর উগ্র রক্ষাকারী নাম ভক্ষায়াম্বিকৈ ও রাজমাতঙ্গী এই স্থানে তাঁর শক্তিকৃপা চিহ্নিত করে।",
+    "festivals": "মন্দির মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈর সোমবারগুলি, প্রদোষ পূজাসহ পালন করে, বিশেষত শিবরাত্রির রাতে মহাকাল রূপকে সম্মান জানিয়ে। যে তীর্থযাত্রীরা বিরল মাকালম্‌ মন্দির ও বদ্বীপের পাডল পেট্র মন্দিরগুলি খোঁজেন তাঁরা অম্বরে আসেন।",
+    "experience": "অম্বর মাকালমে তীর্থযাত্রী শিবকে তাঁর সবচেয়ে বিস্ময়-জাগানো রূপে, মহাকাল, কাল ও মৃত্যুর অধীশ্বর রূপে, এক নিরিবিলি গ্রামীণ মন্দিরে দেখা পান যা দূরবর্তী উজ্জয়িনীর সঙ্গে তার পবিত্র নাম ভাগ করে নেয়। মহাকালনাথর ও পচ্চৈয়াম্বিকৈর সামনে দর্শনার্থী এক ছোট মন্দিরের গুরুত্ব অনুভব করেন যা এক মহান নাম বহন করে — মাত্র তিনটি মাকালমের একটি, কাবেরীর দক্ষিণ তীরে জীবিত রক্ষিত।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Ambar Makalam is about 3 km from Poonthottam on the Tiruvarur–Mayiladuthurai road, around 21 km from Tiruvarur and 25 km from Mayiladuthurai. Tiruvarur and Mayiladuthurai are the nearest rail heads, with buses via Poonthottam and local taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশদ্বারে জুতা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত আলোকচিত্র তোলার অনুমতি আছে তবে গর্ভগৃহের ভেতরে নয়; পূজার ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "অম্বর মাকালম্‌ তিরুবারুর–মাইলাডুতুরৈ সড়কে পুন্তোট্টম থেকে প্রায় ৩ কিমি, তিরুবারুর থেকে প্রায় ২১ কিমি এবং মাইলাডুতুরৈ থেকে ২৫ কিমি দূরে। তিরুবারুর ও মাইলাডুতুরৈ নিকটতম রেলস্টেশন, পুন্তোট্টম হয়ে বাস এবং গ্রামে স্থানীয় ট্যাক্সি সহ।"
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "meghanathaswamy-tirumeeyachur",
   "locale": "bn",
+  "name": "মেঘনাথস্বামী মন্দির, তিরুমীয়াচ্চুর",
   "nativeName": "திருமீயச்சூர் மேகநாதர் கோயில்",
+  "deity": "শিব মেঘনাথস্বামী (মেগনাথর) রূপে, দেবী ললিতাম্বিকাইয়ের সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, তিরুজ্ঞানসম্বন্দরের দ্বারা স্তুত",
   "location": {
-    "city": "Tirumeeyachur, near Peralam",
-    "state": "Tamil Nadu",
+    "city": "তিরুমীয়াচ্চুর, পেরালমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9322,
     "lng": 79.6256
   },
+  "period": "তেবারম যুগ; প্রধান ক্ষেত্র আনুমানিক দশম শতাব্দীর শেষে",
   "century": 10,
+  "dynasty": "চোল (সেম্বিয়ান মহাদেবী যুগ; ঐতিহ্যগতভাবে কোচেঙ্গট চোল)",
+  "style": "দ্রাবিড় (গজপৃষ্ঠ / মাডকোভিল বিমান)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরীর ধারে পেরালমের কাছে তিরুমীয়াচ্চুর সর্বোপরি তার দেবী ললিতাম্বিকাই এবং ললিতা সহস্রনাম—দিব্য জননীর সহস্র নাম—এই ক্ষেত্রের সঙ্গে আবদ্ধ এই ঐতিহ্যের জন্য পূজিত। শিব এখানে মেঘনাথস্বামী রূপে পূজিত, তিরুজ্ঞান সম্বন্দরের দ্বারা স্তুত একটি পাডল পেট্র স্থলম, যেখানে দেবী ভক্তির কেন্দ্রে। একটি উঁচু মাডকোভিল হিসেবে হস্তিপৃষ্ঠের বিমান সহ নির্মিত, মন্দিরটি ব-দ্বীপে দেবী-পূজার একটি প্রধান কেন্দ্র।",
   "sections": {
-    "history": "Tirumeeyachur is an ancient Shaiva centre near Peralam in the Tiruvarur country, on the banks of the Kaveri, revered in the seventh-century Tevaram by Sambandar. By tradition it is one of the raised Maadakovils ascribed to the early Chola king Kochengat Chola; scholars date the present main shrine to about the last quarter of the tenth century, in the time of the great Chola patron Sembiyan Mahadevi, whose era left fine sculpture at the temple. Its enduring fame, however, is as a seat of the goddess and of the Lalita Sahasranama.",
-    "architecture": "The temple is built as a Maadakovil on an elevated base, its vimana in the Gajaprishta form — curved like the back of an elephant. The sanctum enshrines Meghanathaswamy, but the devotional focus is the shrine of the goddess Lalithambikai, which holds a celebrated Chola-period panel of Shiva appeasing Parvati (Gangadhara). The complex also contains the separate Paadal Petra shrine of Sakalabhuvaneswarar, the Ilankoil, in its northern prakara.",
-    "legends": "The temple's great tradition is the Lalita Sahasranama, the thousand names of the Divine Mother. In the much-told account, when Parvati was displeased, the ashta vachinees — eight personifications of speech — soothed her by reciting her thousand names, and from this arose the Sahasranama; the sages Agastya and Hayagriva are also said to have received the hymn in connection with this shrine. Other traditions make Tirumeeyachur the birthplace of Garuda, tell of Yama worshipping here for longevity, and of Indra regaining his lost powers before the lord and the goddess.",
-    "festivals": "Festivals centred on the goddess are the heart of the calendar, with Navaratri and the Tamil month of Aadi drawing large gatherings of Devi devotees, and recitations of the Lalita Sahasranama especially cherished here. The Shaiva observances of Maha Shivaratri and Pradosham are also kept at the Meghanathaswamy sanctum, and the goddess's Fridays are particularly busy.",
-    "experience": "For devotees of the Divine Mother, Tirumeeyachur is a place of special pull, tied as it is to the Lalita Sahasranama. Pilgrims come above all for the darshan of Lalithambikai, chanting her thousand names, and the elevated Maadakovil, the elephant-backed vimana and the fine Chola sculpture reward the eye as the goddess rewards the heart."
+    "history": "তিরুমীয়াচ্চুর তিরুভারুর অঞ্চলে পেরালমের কাছে কাবেরীর তীরে একটি প্রাচীন শৈব কেন্দ্র, সপ্তম শতাব্দীর তেবারমে সম্বন্দরের দ্বারা পূজিত। ঐতিহ্য অনুসারে এটি আদি চোল রাজা কোচেঙ্গট চোলের নির্মিত উঁচু মাডকোভিলগুলির একটি; পণ্ডিতরা বর্তমান প্রধান ক্ষেত্রটিকে দশম শতাব্দীর শেষ পাদে, মহান চোল পৃষ্ঠপোষক সেম্বিয়ান মহাদেবীর সময়ে তারিখযুক্ত করেন, যাঁর যুগ মন্দিরে সূক্ষ্ম ভাস্কর্য রেখে গেছে। তবে এর স্থায়ী খ্যাতি দেবীর ও ললিতা সহস্রনামের আসন হিসেবে।",
+    "architecture": "মন্দিরটি একটি উঁচু ভিতের উপর একটি মাডকোভিল হিসেবে নির্মিত, এর বিমান গজপৃষ্ঠ রূপে—হাতির পিঠের মতো বাঁকানো। গর্ভগৃহে মেঘনাথস্বামী প্রতিষ্ঠিত, কিন্তু ভক্তির কেন্দ্র দেবী ললিতাম্বিকাইয়ের মন্দির, যা শিবের পার্বতীকে সান্ত্বনার (গঙ্গাধর) একটি প্রসিদ্ধ চোল যুগের ফলক ধারণ করে। প্রাঙ্গণে উত্তর প্রাকারে সকলভুবনেশ্বরর, ইলঙ্কোইল, এর পৃথক পাডল পেট্র ক্ষেত্রও আছে।",
+    "legends": "মন্দিরের মহান ঐতিহ্য হলো ললিতা সহস্রনাম, দিব্য জননীর সহস্র নাম। বহু-কথিত বিবরণে, যখন পার্বতী অসন্তুষ্ট ছিলেন, তখন অষ্ট বচিনী—বাক্যের আটটি মূর্তরূপ—তাঁর সহস্র নাম আবৃত্তি করে তাঁকে শান্ত করেছিলেন, এবং এ থেকেই সহস্রনাম উদ্ভূত হয়; ঋষি অগস্ত্য ও হয়গ্রীবও এই ক্ষেত্রের সঙ্গে সংযোগে এই স্তোত্র পেয়েছিলেন বলা হয়। অন্যান্য ঐতিহ্য তিরুমীয়াচ্চুরকে গরুড়ের জন্মস্থান করে, যমের এখানে দীর্ঘায়ুর জন্য পূজা করার কথা বলে, এবং ইন্দ্রের প্রভু ও দেবীর সামনে তাঁর হারানো শক্তি ফিরে পাওয়ার কথা বলে।",
+    "festivals": "দেবী-কেন্দ্রিক উৎসব পঞ্জিকার হৃদয়, নবরাত্রি ও তামিল মাস আড়ি দেবী-ভক্তদের বড় সমাবেশ আনে, এবং ললিতা সহস্রনাম আবৃত্তি এখানে বিশেষভাবে সমাদৃত। মহা শিবরাত্রি ও প্রদোষমের শৈব পালনও মেঘনাথস্বামী গর্ভগৃহে রাখা হয়, এবং দেবীর শুক্রবারগুলি বিশেষভাবে ব্যস্ত।",
+    "experience": "দিব্য জননীর ভক্তদের কাছে তিরুমীয়াচ্চুর এক বিশেষ আকর্ষণের স্থান, ললিতা সহস্রনামের সঙ্গে আবদ্ধ হওয়ায়। তীর্থযাত্রীরা সর্বোপরি ললিতাম্বিকাইয়ের দর্শনের জন্য আসেন, তাঁর সহস্র নাম জপ করেন, এবং উঁচু মাডকোভিল, হস্তিপৃষ্ঠের বিমান ও সূক্ষ্ম চোল ভাস্কর্য চোখকে ততটাই পুরস্কৃত করে যতটা দেবী হৃদয়কে করেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirumeeyachur is about 2 km from Peralam and near Nannilam in Tiruvarur district, roughly 15 km from Mayiladuthurai; the nearest rail heads are Peralam and Mayiladuthurai, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; জুতো প্রবেশদ্বারে রাখা হয়।",
+    "photography": "বাইরের গলিপথে সাধারণত ফটোগ্রাফির অনুমতি থাকলেও গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুমীয়াচ্চুর পেরালম থেকে প্রায় ২ কিমি দূরে এবং তিরুভারুর জেলার নন্নিলমের কাছে, ময়িলাড়ুতুরাই থেকে মোটামুটি ১৫ কিমি দূরে; নিকটতম রেলপথ হলো পেরালম ও ময়িলাড়ুতুরাই, গ্রামে পৌঁছানোর জন্য স্থানীয় বাস ও ট্যাক্সি রয়েছে।"
   }
 }

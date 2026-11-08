@@ -1,32 +1,39 @@
 {
   "id": "nellaiappar-tirunelveli",
   "locale": "bn",
+  "name": "নেল্লৈয়প্পর মন্দির, তিরুনেলবেলি",
   "nativeName": "நெல்லையப்பர் கோயில், திருநெல்வேலி",
+  "deity": "শিব নেল্লৈয়প্পর, ধানের রক্ষক রূপে, দেবী কান্তিমতী সহ",
+  "tradition": "শৈব",
   "location": {
-    "city": "Tirunelveli",
-    "state": "Tamil Nadu",
+    "city": "তিরুনেলবেলি",
+    "state": "তামিলনাড়ু",
     "lat": 8.7286,
     "lng": 77.7038
   },
+  "period": "পাণ্ড্য ও চোল উৎপত্তি; মহান মণ্ডপ ও সংগীতস্তম্ভ নায়কদের অধীনে সংযোজিত",
   "century": 9,
+  "dynasty": "পাণ্ড্য ও চোল উৎপত্তি, নায়ক সংযোজন",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "temples-of-the-deep-south",
     "pancha-sabhai-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "তাম্রপর্ণী নদীর ধারে তিরুনেলবেলির প্রাচীন শহরে, শিব নেল্লৈয়প্পর ও দেবী কান্তিমতীর যুগল মন্দির একসারি হল দিয়ে যুক্ত হয়ে দাঁড়িয়ে — এক মহান শৈব মন্দির, যা সংগীতধ্বনিকারী প্রস্তরস্তম্ভ এবং যে তাম্র হলে শিব নৃত্য করেছিলেন বলে কথিত তার জন্য বিখ্যাত।",
   "sections": {
-    "history": "The Nellaiappar temple stands at Tirunelveli, an ancient town on the banks of the Tamiraparani in the far south of Tamil Nadu. It is a Paadal Petra Sthalam, sung in the Tevaram hymns of the Nayanmar saints, with origins under the Pandyas and Cholas and its great mandapas and towers raised in the later centuries under Nayaka rule. The temple is really two — the shrine of Shiva as Nellaiappar and, beside it, the shrine of the Goddess Kanthimathi — joined into a single vast complex, at the devotional heart of a town whose name itself recalls the lord who guarded a devotee's paddy.",
-    "architecture": "The complex is entered through tall gopurams and unfolds through pillared halls of the mature Dravidian manner, the twin temples of Nellaiappar and Kanthimathi linked by the Sangili Mandapam, the 'chain hall'. Its most celebrated feature is the group of musical pillars — clusters of slender stone columns, carved from single blocks, that sound different musical notes when struck. Tirunelveli is honoured as the Tamira Sabhai, the copper hall, one of the five sabhas where Shiva is said to have danced his cosmic dance, and the temple holds a golden-lily tank and richly sculptured mandapas among the finest of the Nayaka age.",
-    "legends": "The name Nellaiappar — the lord of the nel, the paddy — comes from a beloved legend: a devotee had spread his harvested paddy to dry when the rains threatened, and the lord held back the downpour, sheltering the grain, so that he became known as the guardian of the paddy, Venuvananathar of the bamboo forest. The Goddess Kanthimathi shines beside him as the light of the shrine. Tirunelveli's place among the five dance-halls, as the copper sabha, sets its worship within the great tradition of Shiva Nataraja, whose foremost hall is the golden one at Chidambaram.",
-    "festivals": "The temple's year is marked by the Aadi and the Brahmotsavam festivals, the float festival on the golden-lily tank, and the Arudra Darshan sacred to Shiva as the dancer. The car festival draws great crowds through the streets of the old town. Music has a natural home here, in the temple of the singing pillars, and festival days fill the long halls with lamps, song and pilgrims.",
-    "experience": "Nellaiappar rewards the visitor who lingers among its halls: the ring of the musical pillars, the sculptured mandapas, the twin sanctums of god and goddess joined by the chain hall, and the river town around it. Tirunelveli sits in the deep south of Tamil Nadu, an easy journey from Thiruchendur on the coast and from the land's end at Kanyakumari, and joins them into a single pilgrimage of the far south."
+    "history": "নেল্লৈয়প্পর মন্দির তিরুনেলবেলিতে অবস্থিত, তামিলনাড়ুর সুদূর দক্ষিণে তাম্রপর্ণীর তীরে এক প্রাচীন শহর। এটি একটি পাডল পেট্র স্থলম, নায়নমার সন্তদের তেবারম স্তবে গীত, পাণ্ড্য ও চোলদের অধীনে উৎপত্তি এবং পরবর্তী শতাব্দীতে নায়ক শাসনে এর মহান মণ্ডপ ও শিখর নির্মিত। মন্দিরটি আসলে দুটি — শিবের নেল্লৈয়প্পর রূপের মন্দির এবং তার পাশে দেবী কান্তিমতীর মন্দির — একটিমাত্র বিশাল সমুচ্চয়ে যুক্ত, এমন এক শহরের ভক্তিময় হৃদয়ে যার নাম স্বয়ং সেই প্রভুকে স্মরণ করায় যিনি এক ভক্তের ধান রক্ষা করেছিলেন।",
+    "architecture": "সমুচ্চয়টিতে উঁচু গোপুর দিয়ে প্রবেশ করা হয় এবং পরিণত দ্রাবিড় রীতির স্তম্ভিত হলগুলির মধ্য দিয়ে বিস্তৃত হয়, নেল্লৈয়প্পর ও কান্তিমতীর যুগল মন্দির সঙ্গিলি মণ্ডপম, 'শৃঙ্খল হল' দিয়ে যুক্ত। এর সবচেয়ে বিখ্যাত বৈশিষ্ট্য হলো সংগীতস্তম্ভের দল — একক পাথর থেকে খোদাই করা সরু প্রস্তরস্তম্ভের গুচ্ছ, যা আঘাত করলে ভিন্ন ভিন্ন সংগীতের সুর বাজে। তিরুনেলবেলি তাম্র সভৈ, তাম্র হল রূপে সম্মানিত, সেই পাঁচটি সভার একটি যেখানে শিব তাঁর মহাজাগতিক নৃত্য করেছিলেন বলে কথিত, এবং মন্দিরে একটি স্বর্ণ-পদ্ম পুষ্করিণী ও নায়ক যুগের সর্বোৎকৃষ্টদের মধ্যে গণ্য সমৃদ্ধ খোদাইকৃত মণ্ডপ রয়েছে।",
+    "legends": "নেল্লৈয়প্পর নাম — নেল-এর, ধানের, প্রভু — এসেছে এক প্রিয় কিংবদন্তি থেকে: এক ভক্ত তাঁর কাটা ধান শুকোতে ছড়িয়ে দিয়েছিলেন যখন বৃষ্টির ভয় দেখা দেয়, আর প্রভু বর্ষণ রুখে ধান রক্ষা করেন, এভাবে তিনি ধানের রক্ষক, বাঁশবনের ভেণুবননাথর রূপে পরিচিত হন। দেবী কান্তিমতী তাঁর পাশে মন্দিরের জ্যোতি রূপে উজ্জ্বল। পাঁচটি নৃত্য-হলের মধ্যে তিরুনেলবেলির স্থান, তাম্র সভা রূপে, এর পূজাকে শিব নটরাজের মহান ঐতিহ্যের মধ্যে স্থাপন করে, যাঁর প্রধান হলটি চিদম্বরমের স্বর্ণ হল।",
+    "festivals": "মন্দিরের বছর আদি ও ব্রহ্মোৎসব উৎসব, স্বর্ণ-পদ্ম পুষ্করিণীতে ভেলা উৎসব, এবং নৃত্যকার শিবের উদ্দেশে পবিত্র আরুদ্র দর্শন দ্বারা চিহ্নিত। রথযাত্রা প্রাচীন শহরের রাস্তায় বিপুল জনসমাগম টানে। সংগীতধ্বনিকারী স্তম্ভের মন্দিরে সংগীতের স্বাভাবিক গৃহ, এবং উৎসবের দিনে দীর্ঘ হলগুলি প্রদীপ, গান ও তীর্থযাত্রীতে ভরে ওঠে।",
+    "experience": "নেল্লৈয়প্পর সেই দর্শনার্থীকে পুরস্কৃত করে যিনি এর হলগুলির মধ্যে বিলম্ব করেন: সংগীতস্তম্ভের ধ্বনি, খোদাইকৃত মণ্ডপ, শৃঙ্খল হল দিয়ে যুক্ত দেব ও দেবীর যুগল গর্ভগৃহ, এবং চারপাশের নদীতীরের শহর। তিরুনেলবেলি তামিলনাড়ুর সুদূর দক্ষিণে অবস্থিত, উপকূলের তিরুচেন্দূর এবং ভূমির শেষ সীমা কন্যাকুমারী থেকে সহজ যাত্রাপথে, এবং সেগুলিকে সুদূর দক্ষিণের একটিমাত্র তীর্থযাত্রায় মিলিয়ে দেয়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before entering the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Tirunelveli is a major town in the deep south of Tamil Nadu, well connected by road and rail; it lies about 60 km from Thiruchendur and within easy reach of Kanyakumari and the far south."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনের সময় ও দুপুরে দীর্ঘ বন্ধ থাকার সঙ্গে খোলা; উৎসবের দিন সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। অনেক দক্ষিণী মন্দিরের মতোই গর্ভগৃহে প্রবেশের আগে পুরুষদের ঐতিহ্যগতভাবে ঊর্ধ্বাঙ্গের বস্ত্র খুলতে বলা হয়; প্রদর্শিত নিয়ম মেনে চলুন।",
+    "photography": "ছবি তোলা সীমিত, বিশেষত গর্ভগৃহে ও তার আশেপাশে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুনেলবেলি তামিলনাড়ুর সুদূর দক্ষিণের একটি প্রধান শহর, সড়ক ও রেলপথে সুসংযুক্ত; এটি তিরুচেন্দূর থেকে প্রায় ৬০ কিমি দূরে এবং কন্যাকুমারী ও সুদূর দক্ষিণের সহজ নাগালে অবস্থিত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/nellaiappar-tirunelveli.jpg",

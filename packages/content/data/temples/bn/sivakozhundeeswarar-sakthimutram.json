@@ -1,29 +1,36 @@
 {
   "id": "sivakozhundeeswarar-sakthimutram",
   "locale": "bn",
+  "name": "শিবক্কোঝুন্দীশ্বরর মন্দির, তিরুচ্চত্তিমুত্রম",
   "nativeName": "திருச்சத்திமுற்றம் சிவக்கொழுந்தீஸ்வரர் கோயில்",
+  "deity": "শিব শিবক্কোঝুন্দীশ্বরর (শিবের কোমল অঙ্কুর) রূপে, দেবী পেরিয়নায়কী সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, অপ্পর-কর্তৃক গীত",
   "location": {
-    "city": "Tiruchattimutram, near Patteeswaram",
-    "state": "Tamil Nadu",
+    "city": "তিরুচ্চত্তিমুত্রম, পট্টীশ্বরমের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9333,
     "lng": 79.36
   },
+  "period": "তেবারম যুগ; প্রথম রাজ রাজ চোলের অধীনে পাথরে পুনর্নির্মিত",
   "century": 9,
+  "dynasty": "চোল (প্রথম রাজ রাজ থেকে)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরী অঞ্চলে পট্টীশ্বরমের নিকটে তিরুচ্চত্তিমুত্রম শিবকে শিবক্কোঝুন্দীশ্বরর — শিবের কোমল সবুজ অঙ্কুর — রূপে, দেবী পেরিয়নায়কী সহ সম্মান জানায়। অপ্পর-কর্তৃক গীত একটি পাডল পেট্র স্থলম, মন্দিরটি সেই ঐতিহ্য রক্ষা করে যে পার্বতী এখানে কঠোর তপস্যা করেছিলেন, এক পায়ে দাঁড়িয়ে ও লিঙ্গকে আলিঙ্গন করে, দেখাতে যে প্রেমময় ভক্তিই কৃপার পথ। ভক্তরা বিবাহের প্রার্থনা নিয়ে আসেন, এবং প্রথম রাজ রাজ চোলের অধীনে পাথরে পুনর্নির্মিত এই মন্দির পরপর রাজবংশের শিলালিপি বহন করে।",
   "sections": {
-    "history": "Tiruchattimutram, also spelt Tirusakthimuttram, is an ancient Shaiva village near Patteeswaram, some seven to eight kilometres from Kumbakonam on the banks of a Kaveri branch. Hymned in the Tevaram by Appar and counted among the Paadal Petra Sthalams, the shrine was first built in brick and later rebuilt in granite under Raja Raja Chola I; inscriptions of Raja Raja I, Kulothunga III and the Vijayanagara kings survive on its walls, marking a span of patronage across centuries.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Sivakozhundeeswarar; the goddess Periyanayaki has her own shrine. The lingam is revered as the one the goddess embraced in her penance, a motif the temple shares with the great shrine at Kanchipuram. The granite fabric of the Raja Raja period and its inscriptions make the temple a quiet record of Chola building beside the Kaveri.",
-    "legends": "The defining tradition is Parvati's penance. By one account the goddess, to demonstrate that loving devotion is the sure path to grace, did severe tapas here — standing on one foot and embracing the lingam, as she did at Kanchipuram. Pleased, Shiva granted her his grace. From this the lord takes the tender name Sivakozhundeeswarar, the green sprout of Shiva, and the temple is believed to bless devotees who pray here for marriage and a worthy partner.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. The goddess's penance legend gives particular meaning to the festivals of Parvati, and the shrine draws those praying for marriage, especially on the goddess's days.",
-    "experience": "Tiruchattimutram offers the pilgrim a temple where the goddess herself is the model devotee — she who stood on one foot and embraced the lord. The darshan of Sivakozhundeeswarar, the tender sprout of Shiva, and the shrine's association with marriage give the quiet delta temple a gentle, hopeful draw, close to the great centres around Kumbakonam."
+    "history": "তিরুচ্চত্তিমুত্রম, তিরুসক্তিমুত্রম বানানেও লিখিত, পট্টীশ্বরমের নিকটে একটি প্রাচীন শৈব গ্রাম, কুম্বকোণম থেকে প্রায় সাত-আট কিলোমিটার দূরে কাবেরীর এক শাখার তীরে। অপ্পর-কর্তৃক তেবারমে স্তোত্রগীত এবং পাডল পেট্র স্থলমের মধ্যে গণ্য, মন্দিরটি প্রথমে ইটে নির্মিত এবং পরে প্রথম রাজ রাজ চোলের অধীনে গ্রানাইটে পুনর্নির্মিত হয়; প্রথম রাজ রাজ, তৃতীয় কুলোত্তুঙ্গ ও বিজয়নগর রাজাদের শিলালিপি এর দেয়ালে টিকে আছে, যা শতাব্দীজুড়ে পৃষ্ঠপোষকতার ব্যাপ্তি চিহ্নিত করে।",
+    "architecture": "মন্দিরটি গোপুরম, প্রাকার ও শিবক্কোঝুন্দীশ্বররের গর্ভগৃহ সহ দ্রাবিড় পরিকল্পনা অনুসরণ করে; দেবী পেরিয়নায়কীর নিজস্ব মন্দির রয়েছে। লিঙ্গটিকে সেই লিঙ্গ রূপে শ্রদ্ধা করা হয় যা দেবী তাঁর তপস্যায় আলিঙ্গন করেছিলেন, একটি রূপক যা মন্দিরটি কাঞ্চীপুরমের মহান মন্দিরের সঙ্গে ভাগ করে নেয়। রাজ রাজ যুগের গ্রানাইট কাঠামো ও এর শিলালিপি মন্দিরটিকে কাবেরীর পাশে চোল নির্মাণের এক নীরব নথিতে পরিণত করে।",
+    "legends": "নির্ণায়ক ঐতিহ্য পার্বতীর তপস্যা। এক বর্ণনা অনুসারে দেবী, প্রেমময় ভক্তিই কৃপার সুনিশ্চিত পথ তা দেখাতে, এখানে কঠোর তপস্যা করেছিলেন — এক পায়ে দাঁড়িয়ে ও লিঙ্গ আলিঙ্গন করে, যেমনটি তিনি কাঞ্চীপুরমে করেছিলেন। প্রসন্ন হয়ে শিব তাঁকে কৃপা দান করেন। এ থেকে অধিপতি কোমল নাম শিবক্কোঝুন্দীশ্বরর, শিবের সবুজ অঙ্কুর, গ্রহণ করেন, এবং মন্দিরটি সেই ভক্তদের আশীর্বাদ করে বলে বিশ্বাস করা হয় যাঁরা এখানে বিবাহ ও এক যোগ্য সঙ্গীর জন্য প্রার্থনা করেন।",
+    "festivals": "মন্দির শৈব উৎসব-পঞ্জিকা রক্ষা করে — মহাশিবরাত্রি, প্রদোষম, মার্গঝি ঋতু ও বার্ষিক ব্রহ্মোৎসবম। দেবীর তপস্যার কিংবদন্তি পার্বতীর উৎসবগুলিকে বিশেষ অর্থ দেয়, এবং মন্দিরটি বিবাহের প্রার্থনাকারীদের, বিশেষত দেবীর দিনগুলিতে, আকর্ষণ করে।",
+    "experience": "তিরুচ্চত্তিমুত্রম তীর্থযাত্রীকে এমন এক মন্দির দেয় যেখানে দেবী স্বয়ং আদর্শ ভক্ত — তিনিই যিনি এক পায়ে দাঁড়িয়ে অধিপতিকে আলিঙ্গন করেছিলেন। শিবের কোমল অঙ্কুর শিবক্কোঝুন্দীশ্বররের দর্শন এবং মন্দিরের বিবাহের সঙ্গে সংযোগ কুম্বকোণমের মহান কেন্দ্রগুলির কাছে এই শান্ত ব-দ্বীপ মন্দিরকে এক কোমল, আশাব্যঞ্জক আকর্ষণ দেয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruchattimutram is near Patteeswaram in Thanjavur district, about 7-8 km from Kumbakonam; Kumbakonam is the nearest rail head, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢেকে; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রাঙ্গণে ছবি তোলা সাধারণত অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুচ্চত্তিমুত্রম থাঞ্জাবুর জেলায় পট্টীশ্বরমের নিকটে, কুম্বকোণম থেকে প্রায় ৭-৮ কিমি দূরে; কুম্বকোণম নিকটতম রেলস্টেশন, সেখান থেকে গ্রামে স্থানীয় বাস ও ট্যাক্সি রয়েছে।"
   }
 }

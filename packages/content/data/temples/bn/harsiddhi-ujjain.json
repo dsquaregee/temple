@@ -1,30 +1,37 @@
 {
   "id": "harsiddhi-ujjain",
   "locale": "bn",
+  "name": "হরসিদ্ধি মাতা মন্দির, উজ্জয়িনী",
   "nativeName": "श्री हरसिद्धि माता मंदिर",
+  "deity": "দেবী হরসিদ্ধি, মহাকালী ও মঙ্গলচণ্ডিকা রূপে পূজিত, উজ্জয়িনীর শক্তি",
+  "tradition": "শাক্তধর্ম",
   "location": {
-    "city": "Ujjain",
-    "state": "Madhya Pradesh",
+    "city": "উজ্জয়িনী",
+    "state": "মধ্যপ্রদেশ",
     "lat": 23.182,
     "lng": 75.767
   },
+  "period": "অবন্তীর প্রাচীন শক্তিপীঠ, আঠারোটি মহাশক্তিপীঠের অন্যতম, প্রথা অনুসারে রাজা বিক্রমাদিত্যের সঙ্গে যুক্ত; বর্তমান মন্দিরটি মারাঠা-যুগের পুনর্নির্মাণ",
   "century": 18,
+  "dynasty": "মারাঠা-যুগের পুনর্নির্মাণ; প্রথা কিংবদন্তি বিক্রমাদিত্যকে কৃতিত্ব দেয়",
+  "style": "মালওয়া অঞ্চলের মারাঠা-প্রভাবিত মন্দির স্থাপত্য",
   "unesco": false,
   "circuits": [
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "হরসিদ্ধি মাতা উজ্জয়িনীর রক্ষাকর্ত্রী দেবী, আঠারোটি মহাশক্তিপীঠের মধ্যে মহাকালী রূপে স্তুত এবং রাজা বিক্রমাদিত্যের কুলদেবী হিসেবে স্মরণীয়, তাঁর যুগল দীপস্তম্ভ প্রতি সন্ধ্যায় মহাকালেশ্বর জ্যোতির্লিঙ্গ থেকে অল্প দূরে জ্বলে ওঠে।",
   "sections": {
-    "history": "Ujjain, the ancient Avanti on the banks of the Shipra, has been a great city of pilgrimage for well over two thousand years, and within it the shrine of Harsiddhi is counted among the most revered seats of the Mother. In the stotram attributed to Adi Shankara, which names the eighteen Maha Shakti Peethas, Ujjain's verse begins with the invocation of Mahakali. Local tradition holds that the goddess here is Harsiddhi, also called Mangalachandika, and that she was the family deity of the legendary king Vikramaditya, who is said to have brought her worship to his capital. The temple seen today was reconstructed in the Maratha period, but the sanctity of the place is far older, and the shrine has remained in unbroken worship beside the Rudra Sagar tank.",
-    "architecture": "The temple is built in the Maratha manner, with four entrances facing the four directions and the principal gateway to the east. Its most memorable feature stands just outside the sanctum: two tall lamp pillars, the deep-stambhs, their stone shafts studded with rows of small recesses for oil lamps, which are regarded as fine examples of Maratha craftsmanship and are traditionally credited to Vikramaditya. In the sanctum the goddess is worshipped together with the forms of Annapurna, Mahalakshmi and Mahasaraswati, and a Sri Yantra shrine is honoured within the complex. The carved pillars of the assembly hall are said to preserve older work, lending the compact precinct a quiet depth.",
-    "legends": "According to the old tale told in the Puranas, Sati gave up her life at her father Daksha's sacrifice, and a grief-stricken Shiva wandered the earth carrying her body. To end his sorrow, Vishnu scattered her form across the land, and wherever a part fell, a Shakti Peetha was born. At Ujjain, local tradition says her elbow fell, though some lists of the peethas name another limb for this city. A second great story belongs to Vikramaditya, who is remembered as the most devoted of the goddess's worshippers. In the tradition he offered his own head to Harsiddhi, and she restored it each time, until the final offering, which she did not return, marking the end of his rule. The lamp pillars are held to be his gift to the Mother.",
-    "festivals": "Navratri is the heart of the temple's year, kept in both Chaitra in March or April and Ashwin in September or October. During these nine nights the two lamp pillars are lit from base to crown, and the whole precinct glows with a golden light that draws pilgrims from across Madhya Pradesh. Even on ordinary days the evening aarti is accompanied by the lighting of the lamps, and the morning aarti opens the day with devotion. Confirm dates and aarti times locally, as they follow the Hindu calendar and change during festivals.",
-    "experience": "Harsiddhi is most rewarding in the early evening. Walk the short lane from the Mahakaleshwar temple, pass beneath the gateway, and stand before the two great lamp pillars as the first flames are lit and climb upward in the dusk. Then enter for darshan of the goddess, whom devotees approach for protection, strength and the fulfilment of vows. The precinct is small and often crowded, especially in Navratri, but the glow of the lamps and the sound of the aarti bring a feeling of warm and living devotion that visitors carry away long after."
+    "history": "শিপ্রা তীরের প্রাচীন অবন্তী, উজ্জয়িনী, দুই হাজার বছরেরও বেশি সময় ধরে তীর্থের এক মহান নগরী, এবং এর মধ্যে হরসিদ্ধির মন্দির মায়ের সবচেয়ে শ্রদ্ধেয় আসনগুলির মধ্যে গণ্য। আদি শঙ্করকে আরোপিত স্তোত্রে, যা আঠারোটি মহাশক্তিপীঠের নাম উল্লেখ করে, উজ্জয়িনীর শ্লোক মহাকালীর আহ্বান দিয়ে শুরু হয়। স্থানীয় প্রথা মানে যে এখানকার দেবী হরসিদ্ধি, মঙ্গলচণ্ডিকাও বলা হয়, এবং তিনি কিংবদন্তি রাজা বিক্রমাদিত্যের কুলদেবী ছিলেন, যিনি তাঁর পূজা নিজ রাজধানীতে এনেছিলেন বলে কথিত। আজ যে মন্দির দেখা যায় তা মারাঠা যুগে পুনর্নির্মিত, কিন্তু স্থানটির পবিত্রতা অনেক প্রাচীন, এবং মন্দিরটি রুদ্র সাগর পুকুরের পাশে অবিচ্ছিন্ন পূজায় রয়ে গেছে।",
+    "architecture": "মন্দিরটি মারাঠা রীতিতে নির্মিত, চার দিকে মুখ করা চারটি প্রবেশপথ ও প্রধান তোরণটি পূর্ব দিকে। এর সবচেয়ে স্মরণীয় বৈশিষ্ট্য দাঁড়িয়ে গর্ভগৃহের ঠিক বাইরে: দুটি উঁচু দীপস্তম্ভ, যাদের প্রস্তর দণ্ড তেলের প্রদীপের জন্য সারি সারি ছোট কুলুঙ্গিতে খচিত, যা মারাঠা শিল্পকলার উৎকৃষ্ট উদাহরণ বলে গণ্য এবং প্রথাগতভাবে বিক্রমাদিত্যকে কৃতিত্ব দেওয়া হয়। গর্ভগৃহে দেবীকে অন্নপূর্ণা, মহালক্ষ্মী ও মহাসরস্বতীর রূপের সঙ্গে পূজা করা হয়, এবং সমুচ্চয়ের মধ্যে একটি শ্রীযন্ত্র মন্দির সম্মানিত। সভাকক্ষের খোদিত স্তম্ভগুলি প্রাচীনতর কাজ সংরক্ষণ করে বলে কথিত, যা সংহত প্রাঙ্গণটিকে এক শান্ত গভীরতা দেয়।",
+    "legends": "পুরাণে বর্ণিত পুরনো কাহিনী অনুসারে, সতী তাঁর পিতা দক্ষের যজ্ঞে প্রাণত্যাগ করেন, এবং শোকার্ত শিব তাঁর দেহ বহন করে পৃথিবী পরিক্রমা করেন। তাঁর শোক নিবারণ করতে বিষ্ণু তাঁর দেহ ভূমিতে ছড়িয়ে দেন, এবং যেখানে একটি অংশ পড়ল, সেখানে একটি শক্তিপীঠ জন্ম নিল। উজ্জয়িনীতে, স্থানীয় প্রথা বলে তাঁর কনুই পড়েছিল, যদিও পীঠের কিছু তালিকা এই নগরীর জন্য অন্য অঙ্গ উল্লেখ করে। দ্বিতীয় এক মহান কাহিনী বিক্রমাদিত্যের, যিনি দেবীর ভক্তদের মধ্যে সর্বাধিক নিবেদিত বলে স্মরণীয়। প্রথায় তিনি হরসিদ্ধিকে নিজের মস্তক অর্পণ করতেন, এবং তিনি প্রতিবার তা ফিরিয়ে দিতেন, শেষ অর্পণ পর্যন্ত, যা তিনি ফিরিয়ে দেননি, তাঁর রাজত্বের অবসান চিহ্নিত করে। দীপস্তম্ভগুলি মায়ের উদ্দেশে তাঁর উপহার বলে ধরা হয়।",
+    "festivals": "নবরাত্রি মন্দিরের বছরের হৃদয়, চৈত্রে মার্চ বা এপ্রিলে এবং আশ্বিনে সেপ্টেম্বর বা অক্টোবরে উভয়েই পালিত। এই নয় রাতে দুটি দীপস্তম্ভ ভিত্তি থেকে শীর্ষ পর্যন্ত জ্বালানো হয়, এবং সমগ্র প্রাঙ্গণ এক সোনালি আলোয় উজ্জ্বল হয়ে ওঠে যা মধ্যপ্রদেশের নানা প্রান্ত থেকে তীর্থযাত্রীদের টানে। সাধারণ দিনেও সন্ধ্যার আরতির সঙ্গে প্রদীপ জ্বালানো হয়, এবং প্রভাতের আরতি ভক্তি দিয়ে দিন শুরু করে। তারিখ ও আরতির সময় স্থানীয়ভাবে যাচাই করে নিন, কারণ সেগুলি হিন্দু পঞ্জিকা অনুসরণ করে এবং উৎসবের সময় বদলায়।",
+    "experience": "সন্ধ্যার শুরুতে হরসিদ্ধি সবচেয়ে ফলপ্রদ। মহাকালেশ্বর মন্দির থেকে ছোট গলিটি হেঁটে যান, তোরণের নিচে দিয়ে যান, এবং গোধূলিতে প্রথম শিখা জ্বলে উপরের দিকে ওঠার সময় দুটি মহান দীপস্তম্ভের সম্মুখে দাঁড়ান। তারপর দেবীর দর্শনের জন্য প্রবেশ করুন, যাঁর কাছে ভক্তরা রক্ষা, শক্তি ও মানত পূরণের জন্য আসেন। প্রাঙ্গণটি ছোট ও প্রায়ই ভিড়পূর্ণ, বিশেষত নবরাত্রিতে, কিন্তু প্রদীপের দীপ্তি ও আরতির ধ্বনি এক উষ্ণ ও জীবন্ত ভক্তির অনুভূতি আনে যা দর্শনার্থীরা বহুদিন বয়ে নিয়ে যান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to evening, with morning aarti around 7 to 8 AM and evening aarti with the lighting of the lamp pillars around 6 to 7 PM; hours are longer during Navratri. Confirm timings locally.",
-    "dressCode": "Modest traditional attire is expected: dhotis, kurta-pyjamas or trousers for men, sarees, salwar kameez or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the courtyard and around the lamp pillars but not inside the sanctum. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple stands beside the Rudra Sagar tank in the old city of Ujjain, a short walk from the Mahakaleshwar Jyotirlinga. Ujjain Junction is the nearest railway station, and the city is linked by road with Indore, whose airport is around 55 km away. Auto-rickshaws and e-rickshaws run from the station and bus stand to the temple lanes."
+    "timings": "সাধারণত ভোর থেকে সন্ধ্যা পর্যন্ত খোলা, প্রভাতের আরতি প্রায় সকাল ৭ থেকে ৮টায় এবং দীপস্তম্ভ জ্বালানোসহ সন্ধ্যার আরতি প্রায় সন্ধ্যা ৬ থেকে ৭টায়; নবরাত্রিতে সময় দীর্ঘতর। স্থানীয়ভাবে সময়সূচি যাচাই করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি, কুর্তা-পায়জামা বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশপথের স্ট্যান্ডে জুতো রেখে যেতে হয়।",
+    "photography": "প্রাঙ্গণ ও দীপস্তম্ভের চারপাশে সাধারণত ফটোগ্রাফির অনুমতি আছে কিন্তু গর্ভগৃহের ভেতরে নয়। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি উজ্জয়িনীর পুরনো শহরে রুদ্র সাগর পুকুরের পাশে, মহাকালেশ্বর জ্যোতির্লিঙ্গ থেকে অল্প দূরে দাঁড়িয়ে। উজ্জয়িনী জংশন নিকটতম রেলস্থান, এবং নগরীটি ইন্দোরের সঙ্গে সড়কপথে যুক্ত, যার বিমানবন্দর প্রায় ৫৫ কিমি দূরে। স্টেশন ও বাসস্ট্যান্ড থেকে অটোরিকশা ও ই-রিকশা মন্দিরের গলি পর্যন্ত চলে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/harsiddhi-ujjain.jpg",

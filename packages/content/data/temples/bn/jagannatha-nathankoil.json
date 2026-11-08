@@ -1,30 +1,37 @@
 {
   "id": "jagannatha-nathankoil",
   "locale": "bn",
+  "name": "জগন্নাথ পেরুমাল মন্দির, নাথন কোইল",
   "nativeName": "ஜகந்நாதப் பெருமாள் கோயில், நாதன் கோயில்",
+  "deity": "উপবিষ্ট জগন্নাথন রূপে বিষ্ণু, দেবী শেণ্বগবল্লীর সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Nathan Koil, Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "নাথন কোইল, কুম্বকোণম",
+    "state": "তামিলনাড়ু",
     "lat": 10.934,
     "lng": 79.348
   },
+  "period": "কুম্বকোণমের কাছে চোল দেশের একটি দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পল্লব–চোল দেশ (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "কুম্বকোণমের কাছে নন্দিপুর বিণ্ণগরমে — যে স্থানে নন্দী অভিশাপমুক্ত হয়েছিলেন — বিষ্ণু জগন্নাথন রূপে, জগতের অধীশ্বর, দেবী শেণ্বগবল্লীর সঙ্গে উপবিষ্ট: তিরুমঙ্গৈ আলবার কর্তৃক স্তুত একটি দিব্য দেশম।",
   "sections": {
-    "history": "Thiru Nandipura Vinnagaram, known today simply as Nathan Koil, the temple of the lord, is one of the 108 Divya Desams and one of the shrines of Chola Nadu, set in the Kaveri country close to Kumbakonam. Thirumangai Alvar sang it in ten verses of the Nalayira Divya Prabandham, naming it the Vinnagaram, the heavenly city, of Nandipuram. Tradition holds that its foundations are ancient: one account credits a Pallava king, Nandivarman, with the shrine, another remembers the righteous King Sibi in its story. Whatever its first builders, the Alvar's hymns place it among the honoured Vishnu shrines of the delta by the age of the Alvars.",
-    "architecture": "A five-tiered rajagopuram opens on to the temple, and within, Vishnu is seated as Jagannathan beneath the Mandara Vimanam, with the Goddess Shenbagavalli in her own shrine. The temple tank is the Nandi Theertham — for in this place the shrines and waters alike carry the name of Nandi, whose story gave the village its name. Built in the Dravidian manner of the delta, the temple is compact and quiet.",
-    "legends": "The sthala purana tells that Nandi, the bull who carries Shiva, once failed to honour the guardians of Vishnu's door, and they cursed him to suffer a burning heat. Shiva sent him to do penance to Vishnu in the Shenbagaranyam, the forest of shenbagam flowers, where Lakshmi too had done penance to win her place on the lord's chest — and so she is Shenbagavalli. Here Vishnu freed Nandi, and the place became Nandipuram.",
-    "festivals": "The temple keeps the Vaishnava festivals of the year, with Vaikunta Ekadashi foremost, and honours the days of Thirumangai Alvar, whose ten verses are its glory. Festival processions carry Jagannathan and Shenbagavalli through the village streets around the Nandi Theertham, and the villagers gather on the tank's steps to watch.",
-    "experience": "A small, peaceful shrine just outside the bustle of Kumbakonam, Nathan Koil rewards the pilgrim with a rare meeting of traditions: a Vishnu temple named for Nandi, the devotee of Shiva. Combine it with the many Divya Desams of the Kumbakonam country, and pause by the tank that keeps his name."
+    "history": "তিরু নন্দিপুর বিণ্ণগরম, আজ শুধুই নাথন কোইল অর্থাৎ প্রভুর মন্দির নামে পরিচিত, ১০৮টি দিব্য দেশমের একটি এবং চোল নাড়ুর অন্যতম মন্দির, কুম্বকোণমের কাছে কাবেরী অঞ্চলে অবস্থিত। তিরুমঙ্গৈ আলবার নালায়ির দিব্য প্রবন্ধমের দশটি পদে এর স্তুতি করেছেন, একে নন্দিপুরমের বিণ্ণগরম অর্থাৎ স্বর্গীয় নগরী নামে অভিহিত করেছেন। পরম্পরা বলে এর ভিত্তি প্রাচীন: একটি কাহিনি মন্দিরটির কৃতিত্ব দেয় পল্লব রাজা নন্দিবর্মনকে, অন্যটি এর কাহিনিতে ধর্মপরায়ণ রাজা শিবিকে স্মরণ করে। যে-ই এর প্রথম নির্মাতা হোন, আলবারের স্তোত্রগুলি একে আলবারদের যুগে বদ্বীপের সম্মানিত বিষ্ণু মন্দিরগুলির মধ্যে স্থান দেয়।",
+    "architecture": "একটি পঞ্চতল রাজগোপুরম মন্দিরের দিকে উন্মুক্ত, এবং ভিতরে বিষ্ণু মন্দার বিমানমের নিচে জগন্নাথন রূপে উপবিষ্ট, দেবী শেণ্বগবল্লী তাঁর নিজস্ব মন্দিরে। মন্দিরের তীর্থকুণ্ড নন্দী তীর্থম — কারণ এই স্থানে মন্দির ও জলরাশি উভয়ই নন্দীর নাম বহন করে, যাঁর কাহিনি গ্রামটিকে এর নাম দিয়েছে। বদ্বীপের দ্রাবিড় রীতিতে নির্মিত মন্দিরটি সংহত ও শান্ত।",
+    "legends": "স্থলপুরাণ বলে, শিববাহী বৃষ নন্দী একবার বিষ্ণুর দ্বারের রক্ষকদের যথোচিত সম্মান করতে ব্যর্থ হন, এবং তাঁরা তাঁকে দাহকর উত্তাপে ভোগার অভিশাপ দেন। শিব তাঁকে শেণ্বগারণ্যমে — শেণ্বগম ফুলের বনে — বিষ্ণুর উদ্দেশে তপস্যা করতে পাঠান, যেখানে লক্ষ্মীও প্রভুর বক্ষে স্থান পাওয়ার জন্য তপস্যা করেছিলেন — আর তাই তিনি শেণ্বগবল্লী। এখানে বিষ্ণু নন্দীকে মুক্ত করেন, এবং স্থানটি নন্দিপুরম হয়ে ওঠে।",
+    "festivals": "মন্দিরটি বছরের বৈষ্ণব উৎসবগুলি পালন করে, বৈকুণ্ঠ একাদশী সর্বাগ্রে, এবং তিরুমঙ্গৈ আলবারের দিনগুলি সম্মান করে, যাঁর দশটি পদই এর গৌরব। উৎসব-শোভাযাত্রা জগন্নাথন ও শেণ্বগবল্লীকে নন্দী তীর্থমকে ঘিরে গ্রামের পথে বহন করে, এবং গ্রামবাসীরা তীর্থকুণ্ডের সোপানে জড়ো হয়ে দেখেন।",
+    "experience": "কুম্বকোণমের কোলাহলের ঠিক বাইরে একটি ছোট, শান্ত মন্দির, নাথন কোইল তীর্থযাত্রীকে পরম্পরার এক বিরল সম্মিলন উপহার দেয়: শিবভক্ত নন্দীর নামে নামাঙ্কিত একটি বিষ্ণু মন্দির। কুম্বকোণম অঞ্চলের বহু দিব্য দেশমের সঙ্গে একে মিলিয়ে দেখুন, এবং তাঁর নাম রক্ষাকারী তীর্থকুণ্ডের পাশে থামুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Nathan Koil lies a few kilometres from Kumbakonam, reachable by local road; Kumbakonam has the nearest railway station, with trains towards Thanjavur, Tiruchirappalli and Chennai, and Tiruchirappalli is the nearest airport, about 100 km away."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বে খোলা থাকে, মধ্যাহ্নে বন্ধ থাকে; বৈকুণ্ঠ একাদশীতে সর্বাধিক ভিড় হয়। ভ্রমণের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন পারম্পরিক পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে জুতো খুলে রাখতে হবে। নির্দেশাবলী ও পুরোহিতদের পরামর্শ মেনে চলুন।",
+    "photography": "গর্ভগৃহের ভিতরে ও আশেপাশে আলোকচিত্র গ্রহণ নিষিদ্ধ; নির্দেশাবলী ও পুরোহিতদের পরামর্শ মেনে চলুন।",
+    "gettingThere": "নাথন কোইল কুম্বকোণম থেকে কয়েক কিলোমিটার দূরে, স্থানীয় সড়কপথে পৌঁছানো যায়; কুম্বকোণমে নিকটতম রেলস্টেশন রয়েছে, যেখান থেকে তাঞ্জাভুর, তিরুচিরাপল্লি ও চেন্নাইয়ের দিকে ট্রেন চলে, এবং তিরুচিরাপল্লি নিকটতম বিমানবন্দর, প্রায় ১০০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/jagannatha-nathankoil.jpg",

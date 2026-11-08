@@ -1,30 +1,37 @@
 {
   "id": "parimala-ranganatha-tiruindalur",
   "locale": "bn",
+  "name": "পরিমল রঙ্গনাথ পেরুমাল মন্দির, তিরুইন্দলুর",
   "nativeName": "பரிமள ரங்கநாதர் கோயில், திருஇந்தளூர்",
+  "deity": "পরিমল রঙ্গনাথ, সুগন্ধময় রঙ্গনাথ, শয়ানরূপে বিষ্ণু, দেবী পরিমল রঙ্গনায়কীর সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Tiruindalur",
-    "state": "Tamil Nadu",
+    "city": "তিরুইন্দলুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.103,
     "lng": 79.652
   },
+  "period": "কাবেরী ব-দ্বীপে চোল প্রাচীনত্বের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে আলবারদের দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "pancharanga-kshetrams",
     "divya-desams"
   ],
+  "summary": "ময়িলাড়ুতুরৈ-এর কাছে কাবেরী ব-দ্বীপের তিরুইন্দলুরে বিষ্ণু পরিমল রঙ্গনাথ, সুগন্ধময় রঙ্গনাথ রূপে শয়ান। আলবারদের স্তুত একটি দিব্য দেশম এবং নদীর পাঁচ রঙ্গনাথ তীর্থের অন্যতম, এর সবুজ-পাথরের শয়ান প্রভু গভীর ব-দ্বীপের পাঁচটির মধ্যে শেষ।",
   "sections": {
-    "history": "Tiruindalur lies in the Kaveri delta near Mayiladuthurai, and its temple is dedicated to Vishnu as Parimala Ranganatha, the fragrant Ranganatha. It is a Divya Desam, one of the 108 abodes sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the five Pancharanga Kshetrams of the river. The name Tiruindalur is drawn from Indu, the moon, for whom the lord is said to have appeared here; the shrine is of Chola antiquity, deep in the temple country of the delta.",
-    "architecture": "Built in the Dravidian manner, the temple gathers around the sanctum of the reclining lord, whose image — some twelve feet in length and carved of green stone — lies facing east upon the serpent, with the Goddess Parimala Ranganayaki in her own shrine. Pillared halls and a gateway tower open before the sanctum, in the mature delta manner of the Chola and later ages.",
-    "legends": "The lord is called Parimala Ranganatha — the fragrant Ranganatha — for the fragrance he is said to have imparted to the Vedas when he recovered them from the demons Madhu and Kaitabha in his fish incarnation. Here too he is said to have appeared for Chandra, the moon, to lift a curse, giving the place its name of Tiruindalur. And it is told that when the saint Thirumangai Alvar sang before the closed doors of the shrine, they opened only when, in feigned despair, he offered the temple back to the lord — a tale the devout recall at the threshold.",
-    "festivals": "The temple keeps the Vaishnava calendar — Vaikunta Ekadashi, the Brahmotsavam, and the days of the Alvars — with processions through the delta town. The car festival and the float festival draw the surrounding country, and the days of the Pancharanga pilgrimage bring devotees following the river to its shrines.",
-    "experience": "Tiruindalur rewards the pilgrim who reaches the deep delta with the fragrant lord upon his green-stone couch and the memory of Thirumangai Alvar at the door. It lies close to Mayiladuthurai among the temple towns of the Kaveri, and it closes the pilgrimage of the five Rangas that begins far upstream at Srirangapatna in the Karnataka uplands."
+    "history": "তিরুইন্দলুর কাবেরী ব-দ্বীপে ময়িলাড়ুতুরৈ-এর কাছে অবস্থিত, এবং এর মন্দির বিষ্ণুকে পরিমল রঙ্গনাথ, সুগন্ধময় রঙ্গনাথ রূপে উৎসর্গীকৃত। এটি একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে আলবার সাধকদের স্তুত ১০৮ ধামের অন্যতম, এবং নদীর পাঁচ পঞ্চরঙ্গ ক্ষেত্রমের অন্যতম। তিরুইন্দলুর নামটি ইন্দু, অর্থাৎ চন্দ্র থেকে এসেছে, যাঁর জন্য প্রভু এখানে আবির্ভূত হয়েছিলেন বলে কথিত; তীর্থটি চোল প্রাচীনত্বের, ব-দ্বীপের মন্দির-দেশের গভীরে।",
+    "architecture": "দ্রাবিড় রীতিতে নির্মিত, মন্দিরটি শয়ান প্রভুর গর্ভগৃহকে ঘিরে গড়ে উঠেছে, যাঁর মূর্তি—প্রায় বারো ফুট দীর্ঘ ও সবুজ পাথরে খোদিত—সর্পের উপর পূর্বমুখী শয়ান, আর দেবী পরিমল রঙ্গনায়কী তাঁর নিজস্ব মন্দিরে। স্তম্ভিত মণ্ডপ ও এক গোপুর-শীর্ষ গর্ভগৃহের সামনে উন্মুক্ত হয়, চোল ও পরবর্তী যুগের পরিণত ব-দ্বীপ রীতিতে।",
+    "legends": "প্রভুকে পরিমল রঙ্গনাথ—সুগন্ধময় রঙ্গনাথ—বলা হয় সেই সুগন্ধের জন্য যা তিনি তাঁর মৎস্য অবতারে মধু ও কৈটভ অসুরের কাছ থেকে বেদ উদ্ধার করার সময় বেদসমূহে সঞ্চারিত করেছিলেন বলে কথিত। এখানেও তিনি চন্দ্রের জন্য আবির্ভূত হয়ে এক অভিশাপ দূর করেছিলেন বলে কথিত, যা থেকে স্থানটি তিরুইন্দলুর নাম পায়। আর কথিত আছে যে সাধক তিরুমঙ্গৈ আলবার যখন মন্দিরের বন্ধ দ্বারের সামনে গান গাইলেন, তা তখনই খুলেছিল যখন তিনি ছলনাময় হতাশায় মন্দিরটিকে প্রভুর হাতেই ফিরিয়ে দিয়েছিলেন—এক কাহিনি যা ভক্তরা দ্বারপ্রান্তে স্মরণ করেন।",
+    "festivals": "মন্দির বৈষ্ণব পঞ্জিকা অনুসরণ করে—বৈকুণ্ঠ একাদশী, ব্রহ্মোৎসবম এবং আলবারদের দিনগুলি—ব-দ্বীপের নগরীর মধ্য দিয়ে শোভাযাত্রা সহ। রথযাত্রা ও ভেলা-উৎসব চারপাশের অঞ্চল থেকে ভক্ত টানে, এবং পঞ্চরঙ্গ তীর্থযাত্রার দিনগুলি নদী অনুসরণ করে এর তীর্থগুলিতে আসা ভক্তদের নিয়ে আসে।",
+    "experience": "তিরুইন্দলুর সেই তীর্থযাত্রীকে পুরস্কৃত করে যিনি গভীর ব-দ্বীপে পৌঁছান—সবুজ-পাথরের শয্যায় সুগন্ধময় প্রভু এবং দ্বারে তিরুমঙ্গৈ আলবারের স্মৃতি দিয়ে। এটি কাবেরীর মন্দির-নগরীগুলির মাঝে ময়িলাড়ুতুরৈ-এর কাছে অবস্থিত, এবং এটি সেই পাঁচ রঙ্গের তীর্থযাত্রা সম্পূর্ণ করে যা বহু দূরে কর্ণাটকের উচ্চভূমিতে শ্রীরঙ্গপট্টনমে শুরু হয়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and the Brahmotsavam days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Tiruindalur lies near Mayiladuthurai in the Kaveri delta, well connected by road and rail; Mayiladuthurai is the nearest major town and rail head."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্ব ও মধ্যাহ্ন বিরতি সহ খোলা; বৈকুণ্ঠ একাদশী ও ব্রহ্মোৎসবমের দিনগুলি সবচেয়ে ভিড়। যাওয়ার আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহের ভেতরে ও চারপাশে ছবি তোলা নিয়ন্ত্রিত; প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুইন্দলুর কাবেরী ব-দ্বীপে ময়িলাড়ুতুরৈ-এর কাছে অবস্থিত, সড়ক ও রেলপথে সুসংযুক্ত; ময়িলাড়ুতুরৈ নিকটতম বড় শহর ও রেলস্টেশন।"
   }
 }

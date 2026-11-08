@@ -1,30 +1,37 @@
 {
   "id": "mahakaleshwar-ujjain",
   "locale": "bn",
+  "name": "মহাকালেশ্বর মন্দির, উজ্জয়িনী",
   "nativeName": "श्री महाकालेश्वर ज्योतिर्लिंग मंदिर",
+  "deity": "শিব মহাকাল রূপে, কালের অধীশ্বর — এক স্বয়ম্ভূ, দক্ষিণমুখী জ্যোতির্লিঙ্গ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Ujjain",
-    "state": "Madhya Pradesh",
+    "city": "উজ্জয়িনী",
+    "state": "মধ্যপ্রদেশ",
     "lat": 23.1828,
     "lng": 75.7683
   },
+  "period": "শিপ্রা তীরের প্রাচীন অবন্তিকার মন্দির, কালিদাস কর্তৃক প্রশংসিত; বর্তমান মন্দির ১৭৩০-এর দশকে নির্মিত",
   "century": 5,
+  "dynasty": "পরমার ও তার আগের; মারাঠাদের (শিন্দে/সিন্ধিয়া) অধীনে পুনর্নির্মিত",
+  "style": "মারাঠা যুগের নাগর, তিন স্তরে",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "প্রাচীন নগরী উজ্জয়িনীতে শিপ্রার তীরে শিব মহাকাল রূপে, কালের অধীশ্বর রূপে বিরাজ করেন — এক স্বয়ম্ভূ জ্যোতির্লিঙ্গ, দক্ষিণমুখী, প্রতিদিন ভোরের আগে ভস্ম আরতি দিয়ে পূজিত।",
   "sections": {
-    "history": "Ujjain, the Avantika of old, is one of the seven sacred cities of India, and the Dvadasha Jyotirlinga Stotram names \"Mahakala in Ujjayini\" among the twelve Jyotirlingas. The poet Kalidasa wrote of the shrine of Mahakala and its evening worship, and the temple flourished under the Paramara kings. In the raid of the Delhi sultan Iltutmish in 1234–35 it was laid waste; tradition holds that the linga was kept safe in the temple tank, Koti Tirtha. The present temple was raised around 1734 under the Maratha commander Ranoji Shinde, whose diwan Ramchandra Baba Shenvi carried out the work, and the Scindia rulers of Gwalior long remained its patrons. In 2022 the broad Shri Mahakal Lok precinct was opened around the temple.",
-    "architecture": "The temple rises in three storeys above a deep sanctum. On the lowest level, reached by steps below the courtyard, is Mahakaleshwar himself; above him is a shrine of Omkareshwar, and at the top a shrine of Nagachandreshwar, Shiva and Parvati seated on a many-hooded serpent, opened to devotees only on Nag Panchami. The linga faces south, the direction of Yama, so Mahakala is worshipped as Dakshinamurti, master of death and time. The Koti Tirtha tank lies within the precinct, ringed by smaller shrines.",
-    "legends": "The Shiva Purana tells that the demon Dushana, armed with a boon of Brahma, tormented the devout of Avantika and above all the family of the Brahmin Vedapriya, who kept up their worship of an earthen linga. As the demon advanced, the ground split open and Shiva burst forth as Mahakala, reducing him to ash with a single roar. At the devotees' plea he remained in that place as a Jyotirlinga, guardian of the city. Another story tells of King Chandrasena and a cowherd boy, Shrikar, whose simple devotion was rewarded with Shiva's presence.",
-    "festivals": "Each day begins with the Bhasma Aarti before dawn, when the linga is worshipped with sacred ash. Maha Shivaratri is preceded by nine days of festival worship, and on Mondays through Shravan and Bhadrapada the festival image of Mahakal is borne in a palanquin through the city in the Sawari procession. Once every twelve years the Simhastha Kumbh Mela gathers millions on the Shipra. Confirm dates locally.",
-    "experience": "The Bhasma Aarti is the experience most pilgrims seek: the hush before dawn, the bells and drums, and the linga dressed in ash as the chants rise. It must be booked in advance and carries its own dress rules. Later in the day, darshan moves through the long queues of the Mahakal Lok, and the ghats of the Shipra and the Harsiddhi temple are a short walk away."
+    "history": "উজ্জয়িনী, পুরাকালের অবন্তিকা, ভারতের সাতটি পবিত্র নগরীর অন্যতম, এবং দ্বাদশ জ্যোতির্লিঙ্গ স্তোত্র বারো জ্যোতির্লিঙ্গের মধ্যে \"উজ্জয়িনীতে মহাকাল\"-এর নাম করে। কবি কালিদাস মহাকালের মন্দির ও তার সান্ধ্য পূজার কথা লিখেছিলেন, এবং মন্দির পরমার রাজাদের অধীনে সমৃদ্ধ হয়েছিল। দিল্লির সুলতান ইলতুৎমিশের ১২৩৪–৩৫ সালের আক্রমণে এটি বিধ্বস্ত হয়; ঐতিহ্য বলে যে লিঙ্গটি মন্দিরের জলাশয় কোটি তীর্থে নিরাপদে রাখা হয়েছিল। বর্তমান মন্দির প্রায় ১৭৩৪ সালে মারাঠা সেনাপতি রাণোজি শিন্দের অধীনে নির্মিত হয়, যাঁর দিওয়ান রামচন্দ্র বাবা শেনভি কাজটি সম্পন্ন করেন, এবং গোয়ালিয়রের সিন্ধিয়া শাসকেরা দীর্ঘকাল এর পৃষ্ঠপোষক ছিলেন। ২০২২ সালে মন্দিরের চারপাশে বিস্তৃত শ্রী মহাকাল লোক প্রাঙ্গণ উন্মুক্ত হয়।",
+    "architecture": "মন্দির এক গভীর গর্ভগৃহের ওপর তিন তলা জুড়ে উঠে দাঁড়ায়। সবচেয়ে নিচের স্তরে, প্রাঙ্গণের নিচে সিঁড়ি দিয়ে পৌঁছানো যায়, রয়েছেন স্বয়ং মহাকালেশ্বর; তাঁর ওপরে ওঙ্কারেশ্বরের একটি মন্দির, এবং সবচেয়ে ওপরে নাগচন্দ্রেশ্বরের একটি মন্দির, বহুফণা সর্পের ওপর উপবিষ্ট শিব ও পার্বতী, যা কেবল নাগ পঞ্চমীতে ভক্তদের জন্য খোলা হয়। লিঙ্গটি দক্ষিণমুখী, যমের দিক, তাই মহাকাল দক্ষিণামূর্তি রূপে পূজিত হন, মৃত্যু ও কালের অধীশ্বর। কোটি তীর্থ জলাশয় প্রাঙ্গণের ভেতরে রয়েছে, ছোট ছোট মন্দির দ্বারা পরিবেষ্টিত।",
+    "legends": "শিবপুরাণ বলে যে দৈত্য দূষণ, ব্রহ্মার বরে সজ্জিত, অবন্তিকার ভক্তদের এবং সর্বোপরি ব্রাহ্মণ বেদপ্রিয়ের পরিবারকে, যাঁরা এক মৃন্ময় লিঙ্গের পূজা বজায় রেখেছিলেন, তাঁদের নির্যাতন করত। দৈত্য যখন এগিয়ে এল, ভূমি ফেটে গেল এবং শিব মহাকাল রূপে আবির্ভূত হলেন, একটিমাত্র গর্জনে তাকে ভস্মে পরিণত করলেন। ভক্তদের অনুরোধে তিনি সেই স্থানে জ্যোতির্লিঙ্গ রূপে রয়ে গেলেন, নগরীর রক্ষক। আরেক কাহিনি রাজা চন্দ্রসেন ও এক গোপবালক শ্রীকরের কথা বলে, যার সরল ভক্তি শিবের উপস্থিতিতে পুরস্কৃত হয়েছিল।",
+    "festivals": "প্রতিটি দিন শুরু হয় ভোরের আগে ভস্ম আরতি দিয়ে, যখন লিঙ্গটি পবিত্র ভস্ম দিয়ে পূজিত হয়। মহাশিবরাত্রির আগে নয় দিনের উৎসব পূজা হয়, এবং শ্রাবণ ও ভাদ্রপদ জুড়ে সোমবারে মহাকালের উৎসবমূর্তি সওয়ারি শোভাযাত্রায় পালকিতে নগরীর মধ্য দিয়ে বহন করা হয়। প্রতি বারো বছরে একবার সিংহস্থ কুম্ভমেলা শিপ্রার তীরে লক্ষ লক্ষ মানুষকে জড়ো করে। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "ভস্ম আরতিই সেই অভিজ্ঞতা যা অধিকাংশ তীর্থযাত্রী খোঁজেন: ভোরের আগের নিস্তব্ধতা, ঘণ্টা ও ঢাকের বাদ্য, এবং মন্ত্র উচ্চারিত হতে থাকলে ভস্মে সজ্জিত লিঙ্গ। এটি আগে থেকে বুক করতে হয় এবং এর নিজস্ব পোশাকবিধি রয়েছে। দিনের পরবর্তী সময়ে মহাকাল লোকের দীর্ঘ সারির মধ্য দিয়ে দর্শন চলে, এবং শিপ্রার ঘাট ও হরসিদ্ধি মন্দির অল্প পথ দূরে।"
   },
   "visit": {
-    "timings": "Open daily from before dawn until late night, beginning with the Bhasma Aarti; confirm timings and aarti booking locally, as arrangements change on festival days.",
-    "dressCode": "Modest traditional dress is expected; for the Bhasma Aarti, men are asked to wear a dhoti and women a saree. Footwear is removed before entering.",
-    "photography": "Photography is not permitted in the sanctum; follow posted rules and staff guidance in the corridor and courtyards.",
-    "gettingThere": "The temple is in the old city of Ujjain, Madhya Pradesh, about 2 km from Ujjain Junction railway station. The nearest airport is Indore, about 55 km away by road."
+    "timings": "প্রতিদিন ভোরের আগে থেকে গভীর রাত পর্যন্ত খোলা, ভস্ম আরতি দিয়ে শুরু; সময় ও আরতির বুকিং স্থানীয়ভাবে নিশ্চিত করে নিন, কারণ উৎসবের দিনে ব্যবস্থা বদলে যায়।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত; ভস্ম আরতির জন্য পুরুষদের ধুতি ও নারীদের শাড়ি পরতে বলা হয়। প্রবেশের আগে জুতা খুলে রাখা হয়।",
+    "photography": "গর্ভগৃহে আলোকচিত্র তোলার অনুমতি নেই; প্রদক্ষিণপথ ও প্রাঙ্গণে টাঙানো নিয়ম ও কর্মীদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "মন্দিরটি মধ্যপ্রদেশের উজ্জয়িনীর পুরনো শহরে, উজ্জয়িনী জংশন রেলস্টেশন থেকে প্রায় ২ কিমি দূরে। নিকটতম বিমানবন্দর ইন্দোর, সড়কপথে প্রায় ৫৫ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/mahakaleshwar-ujjain.jpg",

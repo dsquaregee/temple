@@ -1,31 +1,38 @@
 {
   "id": "brahmapureeswarar-thirukkuvalai",
   "locale": "bn",
+  "name": "ব্রহ্মপুরীশ্বরর মন্দির, তিরুক্কুবলৈ",
   "nativeName": "பிரம்மபுரீஸ்வரர் கோயில், திருக்குவளை",
+  "deity": "ব্রহ্মপুরীশ্বরর রূপে শিব, ত্যাগরাজ শোভাযাত্রার দেবতা অবনি বিডঙ্গরের সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thirukkuvalai",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কুবলৈ",
+    "state": "তামিলনাড়ু",
     "lat": 10.71,
     "lng": 79.68
   },
+  "period": "তেবারমে গীত একটি পাডল পেট্র স্থলম; চোল যুগের পাথরের মন্দির",
   "century": 9,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "sapta-vidanga-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরী বদ্বীপের তিরুক্কুবলৈতে শিব ব্রহ্মপুরীশ্বরর রূপে বিরাজমান, এবং এই মন্দিরের ত্যাগরাজ — অবনি বিডঙ্গর — বদ্বীপের সাতজন নৃত্যরত ত্যাগরাজের একজন, যাঁর শোভাযাত্রা ভৃঙ্গ নটনম রূপে চলে বলে কথিত।",
   "sections": {
-    "history": "Thirukkuvalai lies among the paddy country of the Kaveri delta, in the Nagapattinam–Thiruvarur region. Its temple to Shiva as Brahmapureeswarar is a Paadal Petra Sthalam sung in the Tevaram, its stone shrines of the Chola age. The temple is one of the Sapta Vidanga Sthalams, and its Thyagaraja is honoured as Avani Vidangar, one of the seven Vidangas of the dancing tradition of the delta.",
-    "architecture": "Built in the Dravidian manner, the temple gathers around the sanctum of Brahmapureeswarar, with the Somaskanda Thyagaraja — Shiva with Uma and the child Skanda — worshipped as the uncarved Vidanga and carried as the processional lord. Pillared halls and a gateway tower open before the sanctum in the delta manner of the Chola and later centuries.",
-    "legends": "The Sapta Vidanga temples share the legend of the uncarved Thyagaraja images, worshipped in the Somaskanda form and each moving in its own dance when carried in procession. At Thirukkuvalai the Thyagaraja is Avani Vidangar, and his procession is said to move in the Bhringa Natanam, the dance likened to the hovering of a bee.",
-    "festivals": "The temple keeps the festivals of Shiva and the processions of the Vidangar through the year, with the days of the Nayanmar saints observed in the village shrine, and the procession of the dancing Thyagaraja at the heart of its celebration.",
-    "experience": "Thirukkuvalai is a quiet delta temple among the seven dancing Thyagarajas, rewarding for the pilgrim who follows the Vidanga shrines through the paddy country. It joins the other six — from Thiruvarur to Vedaranyam — into the single pilgrimage of the seven dances."
+    "history": "তিরুক্কুবলৈ কাবেরী বদ্বীপের ধানখেতের মধ্যে, নাগপট্টিনম–তিরুবারুর অঞ্চলে অবস্থিত। শিবকে ব্রহ্মপুরীশ্বরর রূপে সমর্পিত এর মন্দিরটি তেবারমে গীত একটি পাডল পেট্র স্থলম, এর পাথরের মন্দিরগুলি চোল যুগের। মন্দিরটি সপ্ত বিডঙ্গ স্থলমগুলির একটি, এবং এর ত্যাগরাজ অবনি বিডঙ্গর রূপে সম্মানিত, বদ্বীপের নৃত্য-প্রথার সাতটি বিডঙ্গের একজন।",
+    "architecture": "দ্রাবিড় রীতিতে নির্মিত, মন্দিরটি ব্রহ্মপুরীশ্বররের গর্ভগৃহকে কেন্দ্র করে গড়ে উঠেছে, যেখানে সোমস্কন্দ ত্যাগরাজ — উমা ও শিশু স্কন্দসহ শিব — অখোদিত বিডঙ্গ রূপে পূজিত এবং শোভাযাত্রার প্রভু হিসেবে বাহিত হন। চোল ও পরবর্তী শতাব্দীগুলির বদ্বীপ-রীতিতে গর্ভগৃহের সামনে স্তম্ভযুক্ত মণ্ডপ ও একটি তোরণ-গোপুরম খোলে।",
+    "legends": "সপ্ত বিডঙ্গ মন্দিরগুলি অখোদিত ত্যাগরাজ মূর্তিগুলির কিংবদন্তি ভাগ করে নেয়, যেগুলি সোমস্কন্দ রূপে পূজিত এবং শোভাযাত্রায় বাহিত হলে প্রতিটি নিজস্ব নৃত্যে চলে। তিরুক্কুবলৈতে ত্যাগরাজ হলেন অবনি বিডঙ্গর, এবং তাঁর শোভাযাত্রা ভৃঙ্গ নটনম রূপে চলে বলে কথিত, সেই নৃত্য যা ভ্রমরের উড়ানের সঙ্গে তুলনীয়।",
+    "festivals": "মন্দিরে সারা বছর শিবের উৎসব ও বিডঙ্গরের শোভাযাত্রা পালিত হয়, গ্রামের মন্দিরে নায়ন্মার সন্তদের দিনগুলি পালিত হয়, এবং নৃত্যরত ত্যাগরাজের শোভাযাত্রা এর উদযাপনের কেন্দ্রে থাকে।",
+    "experience": "তিরুক্কুবলৈ সাতজন নৃত্যরত ত্যাগরাজের মধ্যে একটি শান্ত বদ্বীপ মন্দির, যে তীর্থযাত্রী ধানখেতের মধ্য দিয়ে বিডঙ্গ মন্দিরগুলি অনুসরণ করেন তাঁর জন্য পরিতৃপ্তিদায়ক। এটি অন্য ছয়টির সঙ্গে — তিরুবারুর থেকে বেদারণ্যম পর্যন্ত — সাতটি নৃত্যের একক তীর্থযাত্রায় যুক্ত হয়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and processions are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukkuvalai lies in the Kaveri delta in the Nagapattinam–Thiruvarur region, reached by road from the surrounding delta towns."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বে এবং দুপুরে বন্ধ রেখে খোলা থাকে; উৎসবের দিন ও শোভাযাত্রায় সবচেয়ে বেশি ভিড় হয়। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। বহু দক্ষিণী মন্দিরের মতো পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সামনে ঊর্ধ্বাঙ্গের বস্ত্র খুলে রাখতে বলা হয়; প্রদর্শিত নিয়ম অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে ও আশেপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "তিরুক্কুবলৈ নাগপট্টিনম–তিরুবারুর অঞ্চলে কাবেরী বদ্বীপে অবস্থিত, আশেপাশের বদ্বীপ শহরগুলি থেকে সড়কপথে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/brahmapureeswarar-thirukkuvalai.jpg",

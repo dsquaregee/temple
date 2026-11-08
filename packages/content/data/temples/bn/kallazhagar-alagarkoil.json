@@ -1,30 +1,37 @@
 {
   "id": "kallazhagar-alagarkoil",
   "locale": "bn",
+  "name": "কল্লাজগর মন্দির, অলগর কোইল",
   "nativeName": "கள்ளழகர் கோயில், அழகர்கோவில்",
+  "deity": "বিষ্ণু সুন্দররাজ পেরুমাল রূপে, কল্লাজগর নামে পূজিত, দণ্ডায়মান, দেবী সুন্দরবল্লী তায়ারের সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Alagar Koil, Madurai",
-    "state": "Tamil Nadu",
+    "city": "অলগর কোইল, মাদুরাই",
+    "state": "তামিলনাড়ু",
     "lat": 10.0741,
     "lng": 78.2144
   },
+  "period": "অলগর পাহাড়ের পাদদেশে পাণ্ড্য দেশের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে একাধিক আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য, মাদুরাই নায়ক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "অরণ্যময় অলগর পাহাড়ের পাদদেশে, বিষ্ণু দাঁড়িয়ে আছেন কল্লাজগর রূপে, তিরুমালিরুনচোলৈয়ের সুন্দর প্রভু, যিনি প্রতি চিত্তিরৈ মাসে বৈগৈ নদীতে নেমে আসেন সমগ্র মাদুরাইয়ের অভ্যর্থনায়।",
   "sections": {
-    "history": "Known to the Alvars as Thirumaliruncholai, the 'great dark grove', Alagar Koil lies about twenty kilometres north-east of Madurai where the Alagar hills meet the plain. It is one of the 108 Divya Desams of the Pandya country, and few are so richly sung: Nammalvar gave it three decads of his Tiruvaimozhi, Thirumangai Alvar more than thirty verses, and Periyalvar, Andal, Bhoothathalvar and Peyalvar all praise the hill and its lord. The Pandyas were early patrons, and Jatavarman Sundara Pandya in the thirteenth century is remembered for covering the sanctum tower in gold. The Madurai Nayaks shaped the festival life that defines the temple today: under Thirumalai Nayak, in 1653, part of the Chithirai rites was moved to a mandapam he built at Vandiyur on the Vaigai.",
-    "architecture": "The walled temple covers about two acres beneath the wooded slope, entered through a five-tiered gopuram. Over the sanctum rises the Somachandra vimana, whose gold covering is credited to the Pandya kings. The halls are rich in Nayak-period carving, above all the kalyana mandapam, whose pillars carry the lively sculpture of that age. Above the temple, a path climbs the hill to the spring of Noopura Gangai, the sacred water of the shrine, said to flow from the anklet of the lord.",
-    "legends": "The best-loved story is that of the sage Manduka, cursed to live as a frog, whom Azhagar releases by descending from his hill to the banks of the Vaigai — the legend re-enacted each year in the Chithirai festival. Devotees also cherish the bond between this lord and Andal, who longed for Azhagar in her verses; tradition holds that she vowed him a hundred pots of butter and sweet rice, an offering Ramanuja is said to have fulfilled on her behalf centuries later.",
-    "festivals": "The Chithirai festival (April–May) is among the great sights of Tamil Nadu. Kallazhagar sets out in procession from Alagar Koil, is greeted by Madurai in the Ethir Sevai, and on the full moon steps into the Vaigai on a golden horse before lakhs of devotees, as the city celebrates the Meenakshi wedding. Vaikunta Ekadashi is also kept with devotion.",
-    "experience": "Come early, when mist still clings to the Alagar hills and monkeys patrol the outer walls. After darshan of the standing lord, many pilgrims climb on to Noopura Gangai for its spring water, passing the Murugan shrine of Pazhamudircholai on the same hill. Visiting in Chithirai is unforgettable but crowded; at other times the temple is calm and green."
+    "history": "আলবারদের কাছে তিরুমালিরুনচোলৈ, অর্থাৎ 'মহান অন্ধকার কুঞ্জ' নামে পরিচিত, অলগর কোইল মাদুরাই থেকে প্রায় বিশ কিলোমিটার উত্তর-পূর্বে অবস্থিত যেখানে অলগর পাহাড় সমতলের সঙ্গে মিলিত হয়। এটি পাণ্ড্য দেশের ১০৮টি দিব্য দেশমের একটি, এবং খুব কমই এত সমৃদ্ধভাবে স্তুত: নম্মালবার তাঁর তিরুবাইমোজির তিনটি দশক এটিকে উৎসর্গ করেন, তিরুমঙ্গৈ আলবার ত্রিশটিরও বেশি শ্লোক, এবং পেরিয়ালবার, আণ্ডাল, ভূতত্তালবার ও পেয়ালবার সকলেই পাহাড় ও তার প্রভুর প্রশংসা করেন। পাণ্ড্যরা ছিলেন প্রাথমিক পৃষ্ঠপোষক, এবং ত্রয়োদশ শতকে জটাবর্মন সুন্দর পাণ্ড্য গর্ভগৃহের চূড়া স্বর্ণে আচ্ছাদিত করার জন্য স্মরণীয়। মাদুরাই নায়করা আজকের মন্দিরকে সংজ্ঞায়িতকারী উৎসবজীবন গড়ে তোলেন: তিরুমালৈ নায়কের অধীনে, ১৬৫৩ সালে, চিত্তিরৈ আচারের অংশ বৈগৈ নদীর তীরে বান্ডিয়ুরে তাঁর নির্মিত এক মণ্ডপমে স্থানান্তরিত হয়।",
+    "architecture": "প্রাচীরঘেরা মন্দিরটি অরণ্যময় ঢালের নিচে প্রায় দুই একর জুড়ে বিস্তৃত, পাঁচ-তলা গোপুরমের মধ্য দিয়ে প্রবেশ। গর্ভগৃহের উপর উত্থিত সোমচন্দ্র বিমানম, যার স্বর্ণ আচ্ছাদন পাণ্ড্য রাজাদের কৃতিত্ব। মণ্ডপগুলি নায়ক-যুগের কারুকার্যে সমৃদ্ধ, সর্বোপরি কল্যাণ মণ্ডপম, যার স্তম্ভগুলিতে সেই যুগের প্রাণবন্ত ভাস্কর্য। মন্দিরের উপরে একটি পথ পাহাড় বেয়ে উঠে গেছে নূপুর গঙ্গৈ নামক ঝর্ণায়, মন্দিরের পবিত্র জল, যা বলা হয় প্রভুর নূপুর থেকে প্রবাহিত।",
+    "legends": "সবচেয়ে প্রিয় কাহিনীটি ঋষি মণ্ডুকের, যিনি ব্যাঙ রূপে বাঁচার অভিশাপ পান, যাঁকে অজগর তাঁর পাহাড় থেকে বৈগৈ নদীর তীরে অবতীর্ণ হয়ে মুক্ত করেন — এই কিংবদন্তি প্রতি বছর চিত্তিরৈ উৎসবে পুনরভিনীত হয়। ভক্তরা এই প্রভু ও আণ্ডালের মধ্যকার বন্ধনও লালন করেন, যিনি তাঁর শ্লোকে অজগরের জন্য আকুল ছিলেন; ঐতিহ্য বলে তিনি তাঁকে একশো কলসি মাখন ও মিষ্টান্ন উৎসর্গের মানত করেছিলেন, যা শতাব্দী পরে রামানুজ তাঁর হয়ে পূরণ করেছিলেন বলে কথিত।",
+    "festivals": "চিত্তিরৈ উৎসব (এপ্রিল–মে) তামিলনাড়ুর মহান দৃশ্যগুলির অন্যতম। কল্লাজগর অলগর কোইল থেকে শোভাযাত্রায় বেরিয়ে পড়েন, এতির সেবৈতে মাদুরাই তাঁকে অভ্যর্থনা জানায়, এবং পূর্ণিমায় লক্ষ লক্ষ ভক্তের সম্মুখে এক স্বর্ণ অশ্বে চড়ে বৈগৈ নদীতে নামেন, যখন শহর মীনাক্ষীর বিবাহ উদযাপন করে। বৈকুণ্ঠ একাদশীও ভক্তিভরে পালিত হয়।",
+    "experience": "ভোরে আসুন, যখন কুয়াশা এখনো অলগর পাহাড় আঁকড়ে থাকে এবং বানরেরা বাইরের প্রাচীরে টহল দেয়। দণ্ডায়মান প্রভুর দর্শনের পর বহু তীর্থযাত্রী নূপুর গঙ্গৈতে তার ঝর্ণার জলের জন্য উঠে যান, একই পাহাড়ে পজমুদিরচোলৈয়ের মুরুগন মন্দির পেরিয়ে। চিত্তিরৈতে দর্শন অবিস্মরণীয় কিন্তু ভিড়ভরা; অন্য সময়ে মন্দিরটি শান্ত ও সবুজ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Chithirai festival and Vaikunta Ekadashi days are extremely crowded. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Alagar Koil is about 20 km north-east of Madurai by road, with frequent buses from the city. Madurai Junction is the nearest major railway station and Madurai Airport the nearest airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন সময় এবং দুপুরে বন্ধসহ খোলা; চিত্তিরৈ উৎসব ও বৈকুণ্ঠ একাদশীর দিনে অত্যন্ত ভিড় হয়। যাওয়ার আগে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলায় বিধিনিষেধ আছে; প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "অলগর কোইল মাদুরাই থেকে সড়কপথে প্রায় ২০ কিমি উত্তর-পূর্বে, শহর থেকে নিয়মিত বাসসহ। মাদুরাই জংশন নিকটতম প্রধান রেলস্টেশন ও মাদুরাই বিমানবন্দর নিকটতম বিমানবন্দর।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kallazhagar-alagarkoil.jpg",

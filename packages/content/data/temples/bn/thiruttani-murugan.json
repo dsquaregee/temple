@@ -1,30 +1,37 @@
 {
   "id": "thiruttani-murugan",
   "locale": "bn",
+  "name": "তিরুত্তণি মুরুগান মন্দির",
   "nativeName": "திருத்தணி முருகன் கோயில்",
+  "deity": "মুরুগান, সুব্রহ্মণ্য রূপে পূজিত",
+  "tradition": "কৌমারম, শৈব ঐতিহ্যের মধ্যে মুরুগানের উপাসনা",
   "location": {
-    "city": "Thiruttani",
-    "state": "Tamil Nadu",
+    "city": "তিরুত্তণি",
+    "state": "তামিলনাড়ু",
     "lat": 13.1766,
     "lng": 79.6119
   },
+  "period": "আদি-মধ্যযুগীয় পাহাড়ি মন্দির, পরবর্তী শতাব্দীতে সম্প্রসারিত",
   "century": 9,
+  "dynasty": "পল্লব, চোল ও পরবর্তী",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "arupadai-veedu"
   ],
+  "summary": "মুরুগানের ছয় আবাসের পঞ্চম, তামিলনাড়ুর সুদূর উত্তরে এক নিচু পাহাড়ের উপর অবস্থিত তিরুত্তণি হলো সেই স্থান যেখানে ঐতিহ্য বলে যুদ্ধের পর যোদ্ধা-দেবতার ক্রোধ শান্ত হয়েছিল — ৩৬৫টি সিঁড়ি বেয়ে পৌঁছানো এক শান্তির মন্দির।",
   "sections": {
-    "history": "Set on a hill in the north of the Tamil country near the Andhra border, Thiruttani has been a Murugan shrine since early times, developed across the Pallava and Chola periods and cherished by the Tamil hymnists. The saint-poet Arunagirinathar sang its praises in the Thiruppugazh, and in later centuries the composer Muthuswami Dikshitar was associated with the temple, so that Thiruttani holds a place in Tamil devotion and in the Carnatic musical tradition alike.",
-    "architecture": "The temple crowns a small hill reached by 365 steps, one for each day of the year, a climb that is itself a daily offering for many. The hilltop sanctum enshrines Subramanya with his consorts, and pillared halls and shrines cluster within the walls. The setting is open and airy, the plains of the northern Tamil country spreading below, and the modest scale of the complex lends it an intimacy that its great festival crowds only heighten.",
-    "legends": "Thiruttani takes its name and its character from peace. After the fierce war against the asuras, the god is said to have come here and let his anger subside — thani, to cool or settle — so that this is the abode of the pacified warrior. It is also honoured as a place linked to his union with Valli, the hunter’s daughter, whom he wooed away from the hills; and here the boy-god of victory is worshipped in his gentler aspect, granting calm to those who climb to him.",
-    "festivals": "The temple is famous for its New Year observance, when at the turn of the year vast crowds climb the 365 steps through the night to greet the first dawn before the god. Skanda Sashti, Vaikasi Visakam, and Thai Poosam are kept with processions and abhishekam, and the recitation of Arunagirinathar’s Thiruppugazh is especially dear here. Devotees carry milk and kavadi up the steps in fulfilment of vows through the festival season.",
-    "experience": "The climb of 365 steps sets the rhythm of a Thiruttani visit — an ascent counted in days, taken slowly, with the plains opening wider at each turn. At the top the air moves freely and the sanctum is calm, in keeping with the god’s peace that the place remembers. Many come at the New Year to begin the year at the god’s feet; others come on quiet mornings when only the wind and the bells are heard. The descent, with the whole country spread below, leaves visitors unhurried and settled."
+    "history": "অন্ধ্র সীমান্তের কাছে তামিল দেশের উত্তরে এক পাহাড়ের উপর অবস্থিত, তিরুত্তণি আদিকাল থেকে মুরুগানের উপাসনাস্থল, পল্লব ও চোল যুগ জুড়ে বিকশিত এবং তামিল স্তোত্রকারদের প্রিয়। সাধক-কবি অরুণগিরিনাথর তিরুপ্পুগলে এর প্রশংসা গেয়েছিলেন, এবং পরবর্তী শতাব্দীতে সুরকার মুত্তুস্বামী দীক্ষিতর মন্দিরের সঙ্গে সংশ্লিষ্ট ছিলেন, যাতে তিরুত্তণি তামিল ভক্তি ও কর্ণাটকী সংগীত-ঐতিহ্য উভয়েই স্থান পায়।",
+    "architecture": "মন্দিরটি ৩৬৫টি সিঁড়ি বেয়ে পৌঁছানো এক ছোটো পাহাড়কে মুকুট পরায়, বছরের প্রতিটি দিনের জন্য একটি করে, যে আরোহণ অনেকের কাছে নিজেই একটি দৈনিক নিবেদন। পাহাড়চূড়ার গর্ভগৃহে সুব্রহ্মণ্য তাঁর দুই পত্নীসহ অধিষ্ঠিত, আর প্রাচীরের মধ্যে স্তম্ভশোভিত মণ্ডপ ও উপাসনাস্থল সমবেত। পরিবেশটি খোলামেলা ও মুক্ত বাতাসময়, উত্তর তামিল দেশের সমভূমি নিচে বিস্তৃত, এবং সমুচ্চয়ের বিনম্র আয়তন এতে এক ঘনিষ্ঠতা এনে দেয় যা এর মহান উৎসব-জনতা কেবল আরও বাড়িয়ে তোলে।",
+    "legends": "তিরুত্তণি তার নাম ও চরিত্র শান্তি থেকে পায়। অসুরদের বিরুদ্ধে প্রচণ্ড যুদ্ধের পর দেবতা নাকি এখানে এসে তাঁর ক্রোধ প্রশমিত হতে দিয়েছিলেন — তণি, অর্থাৎ শীতল হওয়া বা স্থির হওয়া — যাতে এটি প্রশান্ত যোদ্ধার আবাস। এটি তাঁর সঙ্গে বল্লীর, শিকারীর কন্যার, মিলনের সঙ্গে যুক্ত স্থান হিসেবেও সম্মানিত, যাঁকে তিনি পাহাড় থেকে প্রণয়ে জয় করেছিলেন; আর এখানে বিজয়ের বালক-দেবতা তাঁর কোমলতর রূপে পূজিত হন, যারা তাঁর কাছে উঠে আসে তাদের প্রশান্তি দান করেন।",
+    "festivals": "মন্দিরটি তার নববর্ষ পালনের জন্য প্রসিদ্ধ, যখন বছরের সন্ধিক্ষণে বিপুল জনতা রাতভর ৩৬৫টি সিঁড়ি বেয়ে ওঠে দেবতার সম্মুখে প্রথম ঊষাকে অভ্যর্থনা জানাতে। স্কন্দ ষষ্ঠী, বৈকাসি বিশাকম ও থাই পূসম শোভাযাত্রা ও অভিষেকসহ পালিত হয়, এবং অরুণগিরিনাথরের তিরুপ্পুগল পাঠ এখানে বিশেষ প্রিয়। উৎসবকালে ভক্তরা মানত পূরণে দুধ ও কাভাড়ি নিয়ে সিঁড়ি বেয়ে ওঠেন।",
+    "experience": "৩৬৫টি সিঁড়ির আরোহণ তিরুত্তণি দর্শনের ছন্দ নির্ধারণ করে — দিনের হিসেবে গোনা এক আরোহণ, ধীরে ধীরে নেওয়া, প্রতিটি বাঁকে সমভূমি আরও প্রশস্ত হয়ে খোলে। শীর্ষে বাতাস অবাধে বয়, এবং গর্ভগৃহ প্রশান্ত, দেবতার সেই শান্তির সঙ্গে সামঞ্জস্যপূর্ণ যা স্থানটি স্মরণ করে। অনেকে নববর্ষে আসেন দেবতার চরণে বছর শুরু করতে; অন্যরা আসেন নিস্তব্ধ সকালে যখন কেবল বাতাস ও ঘণ্টাধ্বনি শোনা যায়। নিচে পুরো দেশ বিস্তৃত থাকা অবস্থায় অবতরণ দর্শনার্থীদের অনুদ্বিগ্ন ও স্থিত রেখে যায়।"
   },
   "visit": {
-    "timings": "Generally open from around 5:30 am to 9:00 pm daily, with abhishekams through the day; hours extend greatly at the New Year and during festivals.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered. Footwear is left at the foot of the hill.",
-    "photography": "Photography is restricted around the sanctum; follow posted rules and staff guidance, especially during festivals.",
-    "gettingThere": "Thiruttani is in Tiruvallur district, about 85 km from Chennai and close to the Andhra border; it has its own railway station on the Chennai–Renigunta line, and Chennai airport is the nearest."
+    "timings": "সাধারণত প্রতিদিন সকাল প্রায় ৫:৩০টা থেকে রাত ৯:০০টা পর্যন্ত খোলা, দিনভর অভিষেকসহ; নববর্ষে ও উৎসবকালে সময় অনেক বাড়ানো হয়।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি বা সালোয়ার কামিজ, কাঁধ ও হাঁটু ঢাকা। পাদুকা পাহাড়ের পাদদেশে রেখে যেতে হয়।",
+    "photography": "গর্ভগৃহের চারপাশে ফটোগ্রাফি সীমিত; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ অনুসরণ করুন, বিশেষত উৎসবের সময়।",
+    "gettingThere": "তিরুত্তণি তিরুবল্লুর জেলায়, চেন্নাই থেকে প্রায় ৮৫ কিমি দূরে এবং অন্ধ্র সীমান্তের কাছে; চেন্নাই–রেনিগুন্টা লাইনে এর নিজস্ব রেলস্টেশন রয়েছে, এবং চেন্নাই বিমানবন্দর নিকটতম।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thiruttani-murugan.jpg",

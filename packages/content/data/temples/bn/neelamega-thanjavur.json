@@ -1,31 +1,38 @@
 {
   "id": "neelamega-thanjavur",
   "locale": "bn",
+  "name": "তাঞ্জৈ মামণি কোইল (নীলমেঘ পেরুমাল মন্দির), তাঞ্জাভূর",
   "nativeName": "தஞ்சை மாமணிக் கோயில், தஞ்சாவூர்",
+  "deity": "বিষ্ণু উপবিষ্ট নীলমেঘ পেরুমাল রূপে, দেবী সেঙ্গমলবল্লী সহ — মাণিকুন্দ্র পেরুমাল ও নরসিংহের সঙ্গে, এক দিব্য দেশমের তিনটি মন্দির",
+  "tradition": "বৈষ্ণব",
   "location": {
-    "city": "Thanjavur",
-    "state": "Tamil Nadu",
+    "city": "তাঞ্জাভূর",
+    "state": "তামিলনাড়ু",
     "lat": 10.8158,
     "lng": 79.1386
   },
+  "period": "ভেন্নারুর তীরে চোল দেশের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার, নম্মালবার ও ভূতত্তালবার দ্বারা গীত",
   "century": 8,
+  "dynasty": "চোল দেশ (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "kaveri-delta-temple-towns"
   ],
+  "summary": "তাঞ্জাভূরের প্রান্তে ভেন্নারুর তীরে তিনটি পার্শ্ববর্তী মন্দির — নীলমেঘ পেরুমাল, মাণিকুন্দ্র পেরুমাল ও তাঞ্জৈ যালির নরসিংহ — একত্রে একটিমাত্র দিব্য দেশম, তাঞ্জৈ মামণি কোইল রূপে সম্মানিত।",
   "sections": {
-    "history": "Thanjai Mamani Koil is one of the 108 Divya Desams and one of the shrines of Chola Nadu, and it is unusual among them: three neighbouring temples on the bank of the Vennaru, at the edge of Thanjavur, are counted together as a single sacred abode and are referred to together in the hymns. Three Alvars sang them — Thirumangai Alvar, Nammalvar and Bhoothathalvar — in five verses of the Nalayira Divya Prabandham, and the shrine is still called Thanjai Mamani Koil, the temple of the great jewel of Thanjai. The hymns place the shrine among the earliest sacred sites of the city whose name, tradition says, the lord himself bestowed.",
-    "architecture": "The three shrines stand close together on the river bank. In the first, Neelamega Perumal, the lord dark as a rain cloud, is seated facing east, with the Goddess Sengamalavalli in her own shrine; the temple also keeps shrines to Lakshmi Narasimha and Lakshmi Hayagriva, and a Yoga Narasimha in the front hall. The second is the small shrine of Manikundra Perumal with the Goddess Ambujavalli, and the third, Thanjai Yali Koil, enshrines Narasimha as Veera Narasimha.",
-    "legends": "The sthala purana tells that the sage Parasara did penance here, and that Neelamega Perumal and Sengamalavalli appeared before him. It tells too of the asura Thanjakan, who troubled the sages until Vishnu slew him; repenting at the last, he asked that the place bear his name — and so, tradition holds, it became Thanjai, Thanjavur. His companion, who took the form of an elephant, was overcome by the lord as Narasimha, remembered in the Thanjai Yali shrine.",
-    "festivals": "The temples keep the Vaishnava festivals of the year — Vaikunta Ekadashi foremost among them — together with the days of the Alvars whose hymns first sang these shrines. Processions pass between the three temples and along the Vennaru, joining the three shrines, as the hymns do, into one.",
-    "experience": "Most visitors to Thanjavur come for the great Chola temple of Shiva; few go on to the river bank where three Vishnu shrines make up a single Divya Desam. Allow time to visit all three, from Neelamega Perumal to Manikundra Perumal and the Narasimha shrine — together they are the jewel of Thanjai."
+    "history": "তাঞ্জৈ মামণি কোইল ১০৮টি দিব্য দেশমের একটি এবং চোল নাড়ুর অন্যতম মন্দির, এবং এদের মধ্যে অস্বাভাবিক: তাঞ্জাভূরের প্রান্তে ভেন্নারুর তীরে তিনটি পার্শ্ববর্তী মন্দির একত্রে একটিমাত্র পবিত্র ধাম রূপে গণ্য এবং স্তবগুলিতে একত্রে উল্লিখিত। তিনজন আলবার — তিরুমঙ্গৈ আলবার, নম্মালবার ও ভূতত্তালবার — নালায়িরা দিব্য প্রবন্ধমের পাঁচটি পদে এদের স্তব করেছেন, এবং মন্দিরটি আজও তাঞ্জৈ মামণি কোইল, তাঞ্জৈয়ের মহামণির মন্দির নামে পরিচিত। স্তবগুলি এই মন্দিরকে সেই নগরীর প্রাচীনতম পবিত্র স্থানগুলির মধ্যে স্থাপন করে, যার নাম, ঐতিহ্য বলে, স্বয়ং প্রভুই দিয়েছিলেন।",
+    "architecture": "তিনটি মন্দির নদীতীরে কাছাকাছি দাঁড়িয়ে আছে। প্রথমটিতে নীলমেঘ পেরুমাল, বর্ষা-মেঘের মতো শ্যাম প্রভু, পূর্বমুখী উপবিষ্ট, দেবী সেঙ্গমলবল্লী তাঁর নিজস্ব মন্দিরে; মন্দিরে লক্ষ্মী নরসিংহ ও লক্ষ্মী হয়গ্রীবের মন্দির এবং সম্মুখ মণ্ডপে একটি যোগ নরসিংহও রয়েছে। দ্বিতীয়টি দেবী অম্বুজবল্লী সহ মাণিকুন্দ্র পেরুমালের ছোট মন্দির, এবং তৃতীয়টি, তাঞ্জৈ যালি কোইল, নরসিংহকে বীর নরসিংহ রূপে প্রতিষ্ঠিত করেছে।",
+    "legends": "স্থল পুরাণ বলে, ঋষি পরাশর এখানে তপস্যা করেছিলেন, এবং নীলমেঘ পেরুমাল ও সেঙ্গমলবল্লী তাঁর সামনে আবির্ভূত হন। এটি আরও বলে অসুর তাঞ্জকনের কথা, যে ঋষিদের উৎপীড়ন করত যতক্ষণ না বিষ্ণু তাকে বধ করেন; শেষে অনুতপ্ত হয়ে সে প্রার্থনা করে যেন স্থানটি তার নাম বহন করে — আর তাই, ঐতিহ্য বলে, এটি হলো তাঞ্জৈ, তাঞ্জাভূর। তার সঙ্গী, যে হাতির রূপ নিয়েছিল, প্রভু নরসিংহ রূপে পরাভূত করেন, যা তাঞ্জৈ যালি মন্দিরে স্মরণীয়।",
+    "festivals": "মন্দিরগুলি বছরের বৈষ্ণব উৎসব পালন করে — বৈকুণ্ঠ একাদশী তাদের মধ্যে প্রধান — এবং সেই আলবারদের দিনগুলিও যাঁদের স্তব প্রথম এই মন্দিরগুলিকে গেয়েছিল। শোভাযাত্রা তিনটি মন্দিরের মধ্যে ও ভেন্নারুর ধারে চলে, তিনটি মন্দিরকে, স্তবগুলির মতোই, একত্রে মিলিয়ে দেয়।",
+    "experience": "তাঞ্জাভূরের অধিকাংশ দর্শনার্থী শিবের মহান চোল মন্দিরে আসেন; অল্পই নদীতীরে যান যেখানে তিনটি বিষ্ণু মন্দির একটিমাত্র দিব্য দেশম গঠন করে। নীলমেঘ পেরুমাল থেকে মাণিকুন্দ্র পেরুমাল ও নরসিংহ মন্দির — তিনটিই দেখার জন্য সময় রাখুন; একত্রে তারাই তাঞ্জৈয়ের মণি।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the three shrines may keep different hours, and Vaikunta Ekadashi is busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The three shrines stand on the bank of the Vennaru on the outskirts of Thanjavur, a short road journey from the town centre. Thanjavur Junction is the nearest railway station, and Tiruchirappalli the nearest airport, about 60 km away by road."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনের সময় ও দুপুরে বন্ধ থাকার সঙ্গে খোলা; তিনটি মন্দিরের সময় ভিন্ন হতে পারে, এবং বৈকুণ্ঠ একাদশী সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহে ও তার আশেপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিনটি মন্দির তাঞ্জাভূরের উপকণ্ঠে ভেন্নারুর তীরে দাঁড়িয়ে আছে, শহরের কেন্দ্র থেকে স্বল্প সড়কপথে। তাঞ্জাভূর জংশন নিকটতম রেলস্টেশন, এবং তিরুচিরাপল্লী নিকটতম বিমানবন্দর, সড়কপথে প্রায় ৬০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",

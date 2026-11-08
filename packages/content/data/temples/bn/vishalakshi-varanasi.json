@@ -1,29 +1,40 @@
 {
   "id": "vishalakshi-varanasi",
   "locale": "bn",
+  "name": "বিশালাক্ষী মন্দির, বারাণসী",
   "nativeName": "विशालाक्षी मंदिर",
+  "deity": "বিশালাক্ষী (বিশালাক্ষ্মী) রূপে দেবী, বিশাল-নয়না দেবী, কাল ভৈরব তাঁর রক্ষক রূপে",
+  "tradition": "শাক্তধর্ম",
   "location": {
-    "city": "Varanasi (Kashi)",
-    "state": "Uttar Pradesh",
+    "city": "বারাণসী (কাশী)",
+    "state": "উত্তরপ্রদেশ",
     "lat": 25.309,
     "lng": 83.011
   },
+  "period": "কাশীর প্রাচীন দেবী-পীঠ, আঠারোটি মহা শক্তিপীঠের একটি; বর্তমান মন্দিরটি ১৮৯৩ সালে সম্পূর্ণ হয়",
   "century": 19,
+  "dynasty": "তামিলনাড়ুর নাগরথার (নাট্টুকোট্টৈ চেট্টিয়ার) বণিক পৃষ্ঠপোষক",
+  "style": "উত্তর ভারতীয় হাভেলি-রীতির মন্দির, ছোট দ্রাবিড় গোপুরম সহ",
   "unesco": false,
   "circuits": [
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "বিশালাক্ষী কাশীর বিশাল-নয়না মাতা, অষ্টাদশ শক্তিপীঠ স্তোত্রে \"বারাণস্যাং বিশালাক্ষী\" রূপে নামাঙ্কিত, যেখানে ঐতিহ্য বলে মণিকর্ণিকার কাছে সতীর কানের দুল বা চোখ পড়েছিল; মির ঘাটে তাঁর মন্দির তামিল নাগরথার ভক্তরা পুনর্নির্মাণ করেছিলেন।",
   "sections": {
-    "history": "Kashi is the city of Shiva, yet its tradition holds that the Mother is never absent from it, and Vishalakshi is her seat here. The Ashtadasha Shakti Peetha stotram, attributed to Adi Shankara, names the goddess of this city in the line \"Varanasyam Vishalakshi\", which places the shrine among the eighteen Maha Shakti Peethas. The Kashi Khanda of the Skanda Purana praises her greatness and counts her among the Nava Gauri, the nine goddesses of the city's own pilgrimage. The present temple at Mir Ghat was completed in 1893, rebuilt and maintained since the nineteenth century by the Nagarathar community of Tamil Nadu, whose devotion to Kashi has long linked the far south with the banks of the Ganga.",
-    "architecture": "The temple lies in the lanes above Mir Ghat, close to the old Dharmakupa well and a short walk from Manikarnika, and it is reached through a narrow passage rather than a grand forecourt. Its form recalls a Varanasi haveli, with an enclosed court and a compact sanctum, yet the hand of its southern patrons shows in a modest Dravidian gopuram and in Tamil inscriptions. The sanctum is said to hold two images of the goddess in dark stone: the older Adi Vishalakshi, and a larger image, dressed in jewels and flowers, set up when Tamil devotees renovated the shrine.",
-    "legends": "The pilgrim's story begins with Sati, who gave up her life at her father Daksha's sacrifice. Shiva, in grief, carried her body across the land, and as it was divided, every place where a part fell became a seat of the Mother. In Kashi tradition says it was the jewel of her ear-ornament that fell beside Manikarnika, which gave the ghat its name; another account holds that it was her eye, and the name Vishalakshi, the wide-eyed, is read in that light. Kashi has a second tale, told in the Skanda Purana. The sage Vyasa, finding that no household in the city offered him food, spoke a curse against it, and the goddess came to him as a housewife and fed him. Devotees remember here a Mother who nourishes the hungry.",
-    "festivals": "Kajali Teej, kept in the dark fortnight of Bhadrapada (August to September), is regarded as the temple's principal festival, when women gather to sing and pray for the well-being of their families. Chaitra Navratri (March or April) and Sharad Navratri (September or October) are observed for nine days in honour of the goddess in her many forms, and the temple is one of the stations of Kashi's Nava Gauri pilgrimage. Dates follow the Hindu lunar calendar, so confirm them locally.",
-    "experience": "Reach Vishalakshi on foot, as Kashi intends, by threading the old lanes toward the river and leaving the bustle of the ghats for the shrine's enclosed court. Pause at the threshold, then come before the goddess for darshan. Many pilgrims pair the visit with a walk to nearby Manikarnika and a prayer at Kashi Vishwanath, so that the Mother and the Lord of Kashi are honoured together. The southern inscriptions and the gopuram are a gentle reminder of how far the devotion of this shrine has travelled to reach the Ganga."
+    "history": "কাশী শিবের নগরী, তবু এর ঐতিহ্য মানে যে মাতা কখনও এখান থেকে অনুপস্থিত নন, এবং বিশালাক্ষী এখানে তাঁর পীঠ। আদি শঙ্করের রচিত বলে কথিত অষ্টাদশ শক্তিপীঠ স্তোত্র এই নগরীর দেবীকে \"বারাণস্যাং বিশালাক্ষী\" পঙ্‌ক্তিতে নামাঙ্কিত করে, যা মন্দিরটিকে আঠারোটি মহা শক্তিপীঠের মধ্যে স্থান দেয়। স্কন্দপুরাণের কাশী খণ্ড তাঁর মহিমার প্রশংসা করে এবং তাঁকে নব গৌরী, নগরীর নিজস্ব তীর্থযাত্রার নয়জন দেবীর, মধ্যে গণ্য করে। মির ঘাটে বর্তমান মন্দিরটি ১৮৯৩ সালে সম্পূর্ণ হয়, ঊনবিংশ শতক থেকে তামিলনাড়ুর নাগরথার সম্প্রদায় এটি পুনর্নির্মাণ ও রক্ষণাবেক্ষণ করে আসছে, যাদের কাশীর প্রতি ভক্তি বহুকাল ধরে সুদূর দক্ষিণকে গঙ্গার তীরের সঙ্গে যুক্ত করেছে।",
+    "architecture": "মন্দিরটি মির ঘাটের উপরের গলিতে, পুরনো ধর্মকূপ কুয়োর কাছে এবং মণিকর্ণিকা থেকে অল্প হাঁটাপথ দূরে অবস্থিত, এবং কোনো বিশাল সম্মুখ-প্রাঙ্গণের বদলে একটি সরু পথ দিয়ে পৌঁছানো যায়। এর রূপ বারাণসীর হাভেলির কথা স্মরণ করায়, একটি আবদ্ধ প্রাঙ্গণ ও একটি ঘনসন্নিবিষ্ট গর্ভগৃহ সহ, তবু এর দক্ষিণী পৃষ্ঠপোষকদের হাত একটি বিনম্র দ্রাবিড় গোপুরমে ও তামিল শিলালিপিতে প্রকাশ পায়। বলা হয় গর্ভগৃহে গাঢ় পাথরে দেবীর দুটি মূর্তি আছে: প্রাচীনতর আদি বিশালাক্ষী, এবং অলঙ্কার ও ফুলে সজ্জিত একটি বৃহত্তর মূর্তি, যা তামিল ভক্তরা মন্দির সংস্কারের সময় স্থাপন করেছিলেন।",
+    "legends": "তীর্থযাত্রীর কাহিনি শুরু হয় সতীকে দিয়ে, যিনি তাঁর পিতা দক্ষের যজ্ঞে প্রাণ ত্যাগ করেন। শিব, শোকে, তাঁর দেহ দেশজুড়ে বহন করেন, এবং তা যখন বিভক্ত হল, যেখানে যেখানে একটি অংশ পড়ল সেই প্রতিটি স্থান মাতার এক পীঠ হয়ে উঠল। কাশীতে ঐতিহ্য বলে যে তাঁর কর্ণ-অলঙ্কারের রত্নটি মণিকর্ণিকার পাশে পড়েছিল, যা থেকে ঘাটটি তার নাম পেয়েছে; অন্য এক কাহিনি মানে যে তা ছিল তাঁর চোখ, এবং বিশালাক্ষী নামটি, বিশাল-নয়না, সেই আলোকেই পড়া হয়। কাশীর একটি দ্বিতীয় কাহিনিও আছে, স্কন্দপুরাণে বর্ণিত। ঋষি ব্যাস, নগরীর কোনো গৃহস্থ তাঁকে খাদ্য না দেওয়ায়, এর বিরুদ্ধে অভিশাপ উচ্চারণ করেন, এবং দেবী এক গৃহিণীর রূপে তাঁর কাছে এসে তাঁকে খাওয়ান। ভক্তরা এখানে এক মাতাকে স্মরণ করেন যিনি ক্ষুধার্তকে পোষণ করেন।",
+    "festivals": "ভাদ্রপদের কৃষ্ণপক্ষে (আগস্ট থেকে সেপ্টেম্বর) পালিত কাজলী তীজ মন্দিরের প্রধান উৎসব বলে গণ্য, যখন নারীরা একত্র হয়ে তাঁদের পরিবারের মঙ্গল কামনায় গান করেন ও প্রার্থনা করেন। চৈত্র নবরাত্রি (মার্চ বা এপ্রিল) ও শারদ নবরাত্রি (সেপ্টেম্বর বা অক্টোবর) দেবীর তাঁর বহু রূপে সম্মানে নয় দিন ধরে পালিত হয়, এবং মন্দিরটি কাশীর নব গৌরী তীর্থযাত্রার অন্যতম কেন্দ্র। তারিখগুলি হিন্দু চান্দ্র পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "কাশী যেমন চায়, তেমনই পায়ে হেঁটে বিশালাক্ষীতে পৌঁছান, নদীর দিকে পুরনো গলি পেরিয়ে এবং ঘাটের কোলাহল ছেড়ে তীর্থের আবদ্ধ প্রাঙ্গণে। দ্বারপ্রান্তে থমকে দাঁড়ান, তারপর দর্শনের জন্য দেবীর সামনে আসুন। অনেক তীর্থযাত্রী এই দর্শনের সঙ্গে কাছের মণিকর্ণিকায় হাঁটা ও কাশী বিশ্বনাথে প্রার্থনা যুক্ত করেন, যাতে মাতা ও কাশীর প্রভু একসঙ্গে সম্মানিত হন। দক্ষিণী শিলালিপি ও গোপুরম এক কোমল স্মারক যে এই তীর্থের ভক্তি গঙ্গায় পৌঁছাতে কত দূর যাত্রা করেছে।"
   },
   "visit": {
-    "timings": "Typically open from early morning, around 5:00 to 6:00, until late evening, around 9:00 to 10:00, though listed hours vary; confirm timings locally, especially during Navratri.",
-    "dressCode": "Modest traditional attire is recommended: sarees, salwar kameez, or kurta with trousers or dhoti, with shoulders and knees covered. Footwear is left outside, and it is wise to carry little in the crowded lanes.",
-    "photography": "Photography rules are set by the temple and may change. It is customary not to photograph the sanctum or the image of the goddess, so ask the temple staff before using a camera or phone.",
-    "gettingThere": "The temple is at Mir Ghat in the old city, near Manikarnika Ghat and the Kashi Vishwanath area. Varanasi Junction railway station is about 4.5 km away and Lal Bahadur Shastri International Airport about 25 km. Vehicles cannot easily enter the lanes near the ghats, so take an auto or cycle rickshaw as far as the road allows and walk the last stretch."
+    "timings": "সাধারণত ভোরবেলা, প্রায় ৫টা থেকে ৬টার দিকে, খুলে যায় এবং গভীর সন্ধ্যা, প্রায় ৯টা থেকে ১০টা পর্যন্ত খোলা থাকে, যদিও তালিকাভুক্ত সময় ভিন্ন হয়; বিশেষত নবরাত্রির সময় স্থানীয়ভাবে সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক সুপারিশ করা হয়: শাড়ি, সালোয়ার কামিজ, বা ট্রাউজার কিংবা ধুতির সঙ্গে কুর্তা, কাঁধ ও হাঁটু ঢাকা রেখে। জুতো বাইরে রাখা হয়, আর ভিড়ের গলিতে অল্প জিনিস বহন করাই বিবেচনার কাজ।",
+    "photography": "ছবি তোলার নিয়ম মন্দির নির্ধারণ করে এবং তা বদলাতে পারে। গর্ভগৃহ বা দেবীর মূর্তির ছবি না তোলাই প্রথা, তাই ক্যামেরা বা ফোন ব্যবহারের আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি পুরনো শহরের মির ঘাটে, মণিকর্ণিকা ঘাট ও কাশী বিশ্বনাথ এলাকার কাছে। বারাণসী জংশন রেলস্টেশন প্রায় ৪.৫ কিমি দূরে এবং লাল বাহাদুর শাস্ত্রী আন্তর্জাতিক বিমানবন্দর প্রায় ২৫ কিমি। ঘাটের কাছের গলিতে যানবাহন সহজে ঢুকতে পারে না, তাই যতদূর রাস্তা অনুমতি দেয় ততদূর অটো বা সাইকেল রিকশা নিন এবং শেষ অংশটুকু হেঁটে যান।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vishalakshi-varanasi.mp3",
+    "durationSec": 252
   }
 }

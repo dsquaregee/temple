@@ -1,29 +1,36 @@
 {
   "id": "ponvaithanathar-tiruchittremam",
   "locale": "bn",
+  "name": "পনবৈতনাথর মন্দির, তিরুচ্চিত্রেমম",
   "nativeName": "திருச்சிற்றேமம் பொன்வைத்தநாதர் கோயில்",
+  "deity": "শিব পনবৈতনাথর রূপে, দেবী অখিলাণ্ডেশ্বরীর সঙ্গে",
+  "tradition": "শৈব—এক পাডল পেট্র স্থলম",
   "location": {
-    "city": "Sitthaimur, near Aalathampadi",
-    "state": "Tamil Nadu",
+    "city": "সিত্তৈমুর, আলাত্তম্বাড়ির কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.64,
     "lng": 79.63
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুচ্চিত্রেমম, তিরুবারুর ও তিরুতুরৈপূণ্ডির মধ্যে সিত্তৈমুরে, শিবকে পনবৈতনাথর রূপে দেবী অখিলাণ্ডেশ্বরীর সঙ্গে সম্মান করে। অপ্পর ও সুন্দর কর্তৃক স্তুত এক পাডল পেট্র স্থলম, কাবেরীর দক্ষিণ তীরের ১০৬তম মন্দির রূপে গণিত, এর নাম সেই প্রভুর কিংবদন্তি রক্ষা করে যিনি এক ভক্তের স্ত্রীর জন্য প্রতিদিন এক স্বর্ণমুদ্রা রেখে যেতেন।",
   "sections": {
-    "history": "Tiruchittremam, at Sitthaimur near Aalathampadi, between Thiruvarur and Thiruthuraipoondi, is a Paadal Petra Sthalam hymned in the Tevaram by Appar and Sundarar, and reckoned the 106th shrine on the southern bank of the Kaveri. The stone temple is of the Chola period and later. (Sources differ on district: Wikipedia places it in Tiruvarur, the TN Temples Project in Nagapattinam.)",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Ponvaithanathar in the sanctum, with the goddess Akhilandeswari in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram keep the form of the Shiva temples of the lower Tiruvarur delta.",
-    "legends": "The name Ponvaithanathar, 'the lord who set down gold,' comes from the sthala legend: in the absence of a devotee named Sankaran, the lord provided for his wife, leaving a gold coin for her each day at nearby Ponnirai — pon-vaitha-nathar. Shiva is worshipped here with the goddess Akhilandeswari, 'mistress of all the worlds.' As with many delta shrines, the fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Thiruvarur–Thiruthuraipoondi stretch of the Paadal Petra trail include Tiruchittremam among their stops.",
-    "experience": "At Tiruchittremam the pilgrim comes to the lord who set down gold. Before Ponvaithanathar and Akhilandeswari, in the lower Tiruvarur delta, the visitor finds the quiet grace of a Tevaram temple, and the memory of the lord's daily gift to a devotee's household."
+    "history": "তিরুচ্চিত্রেমম, তিরুবারুর ও তিরুতুরৈপূণ্ডির মধ্যে আলাত্তম্বাড়ির কাছে সিত্তৈমুরে, তেবারমে অপ্পর ও সুন্দর কর্তৃক স্তুত এক পাডল পেট্র স্থলম, এবং কাবেরীর দক্ষিণ তীরের ১০৬তম মন্দির রূপে গণিত। পাথরের মন্দিরটি চোল যুগের ও পরবর্তী। (জেলা নিয়ে সূত্রগুলি ভিন্ন: উইকিপিডিয়া এটিকে তিরুবারুরে রাখে, টিএন টেম্পলস প্রজেক্ট নাগাপট্টিনমে।)",
+    "architecture": "এক দ্রাবিড় বদ্বীপ মন্দির, গর্ভগৃহে পনবৈতনাথরকে প্রতিষ্ঠিত করে, দেবী অখিলাণ্ডেশ্বরীকে তাঁর নিজস্ব মন্দিরে, এক নন্দী ও প্রাকারের চারপাশে পরিবার দেবতাদের সঙ্গে। প্রাচীরবেষ্টিত প্রাঙ্গণ ও বিনম্র গোপুরম নিম্ন তিরুবারুর বদ্বীপের শিবমন্দিরগুলির রূপ রক্ষা করে।",
+    "legends": "পনবৈতনাথর নাম, 'যে প্রভু সোনা রেখেছিলেন,' আসে স্থল-কিংবদন্তি থেকে: সঙ্করন নামে এক ভক্তের অনুপস্থিতিতে প্রভু তাঁর স্ত্রীর জন্য প্রতিদিন কাছের পন্নিরৈতে এক স্বর্ণমুদ্রা রেখে তার দেখভাল করতেন—পন-বৈত-নাথর। এখানে শিব দেবী অখিলাণ্ডেশ্বরী, 'সকল জগতের অধীশ্বরী'র সঙ্গে পূজিত হন। অনেক বদ্বীপ মন্দিরের মতো, পূর্ণতর স্থলপুরাণ স্থানীয় প্রথা ও তেবারম পদে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসিতে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈর সোমবারগুলি পালন করে, প্রদোষ পূজাসহ, এক গ্রাম্য মন্দিরের শান্ত পরিসরে। তিরুবারুর–তিরুতুরৈপূণ্ডি অংশের পাডল পেট্র পথের তীর্থযাত্রীরা তাঁদের থামার জায়গাগুলির মধ্যে তিরুচ্চিত্রেমমকে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুচ্চিত্রেমমে তীর্থযাত্রী সেই প্রভুর কাছে আসেন যিনি সোনা রেখেছিলেন। নিম্ন তিরুবারুর বদ্বীপে পনবৈতনাথর ও অখিলাণ্ডেশ্বরীর সামনে, দর্শনার্থী এক তেবারম মন্দিরের শান্ত অনুগ্রহ খুঁজে পান, এবং এক ভক্তের সংসারে প্রভুর প্রতিদিনের উপহারের স্মৃতি।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruchittremam is at Sitthaimur, near Aalathampadi between Thiruvarur and Thiruthuraipoondi, in the Tiruvarur delta. Thiruvarur and Thiruthuraipoondi are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; জুতো প্রবেশদ্বারে রাখা হয়।",
+    "photography": "বাইরের করিডরে সাধারণত ছবি তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচারের ছবি তোলার আগে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুচ্চিত্রেমম সিত্তৈমুরে, তিরুবারুর বদ্বীপের তিরুবারুর ও তিরুতুরৈপূণ্ডির মধ্যে আলাত্তম্বাড়ির কাছে অবস্থিত। তিরুবারুর ও তিরুতুরৈপূণ্ডি নিকটতম শহর ও রেলস্টেশন, গ্রামে বাস ও ট্যাক্সিসহ।"
   }
 }

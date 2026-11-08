@@ -1,29 +1,36 @@
 {
   "id": "naduthariyappar-kandrapur",
   "locale": "bn",
+  "name": "নাড়ুতড়িয়াপ্পর মন্দির, তিরুকন্দ্রপুর (কন্রাপ্পুর)",
   "nativeName": "திருக்கன்றாப்பூர் நடுதறியப்பர் கோயில்",
+  "deity": "শিব নাড়ুতড়িয়াপ্পর রূপে, দেবী শ্রীবল্লী নায়কী (মাতুমৈ নায়কী)-সহ",
+  "tradition": "শৈব — একটি পাদল পেট্র স্থলম",
   "location": {
-    "city": "Kanrappur, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "কন্রাপ্পুর, তিরুভারুরের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.6792,
     "lng": 79.6898
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তোত্রে বর্ণিত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কন্রাপ্পুর, তেবারমের তিরুকন্দ্রপুর, তিরুভারুরের নিকটে, শিবকে নাড়ুতড়িয়াপ্পর রূপে দেবী শ্রীবল্লী নায়কীর সঙ্গে পূজা করে। আপ্পর কর্তৃক স্তোত্রে বর্ণিত এই পাদল পেট্র স্থলম তিরুভারুর অঞ্চলের একটি শান্ত পীঠ, যার নাম সেই স্বয়ম্ভূ লিঙ্গের কিংবদন্তির সঙ্গে জড়িত যা ভাঙা যায়নি।",
   "sections": {
-    "history": "Kanrappur, whose Tevaram name is Tirukandrapur, lies about 16–17 km from Tiruvarur in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirunavukkarasar (Appar). The spelling of the place varies across sources — Kanrappur, Kandrapur, Tirukkanraappur — and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Naduthariyappar in the sanctum, with the goddess Srivalli Nayaki — also called Maathumai Nayaki and Madhumai Ammai — in her own shrine, a Nandi and the parivara devatas. The temple keeps the simple, well-ordered plan of the smaller Kaveri-country sanctuaries.",
-    "legends": "The lord's name Naduthariyappar (also Naduturaippar) is linked to a legend in which the swayambhu lingam, self-manifest from the earth, could not be cut or broken — when one tried to strike it with an axe, the lord stood firm and unharmed, and the place took its name from that steadfastness. The goddess's names, Srivalli Nayaki and Maathumai Nayaki, carry her gracious presence beside him. As with many smaller delta shrines, the fuller sthala purana survives chiefly in local tradition and Appar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail near Tiruvarur include Kanrappur among their stops.",
-    "experience": "At Kanrappur the pilgrim comes to a quiet shrine of the self-manifest lord who could not be broken. Before Naduthariyappar and Srivalli Nayaki, the visitor finds the steadfast grace of a Tevaram temple of the Tiruvarur country, firm as the lingam that rose from the earth."
+    "history": "কন্রাপ্পুর, যার তেবারম নাম তিরুকন্দ্রপুর, তিরুভারুর জেলায় তিরুভারুর থেকে প্রায় ১৬–১৭ কিলোমিটার দূরে অবস্থিত। এটি একটি পাদল পেট্র স্থলম, তিরুনাভুক্করাসর (আপ্পর) কর্তৃক তেবারমে স্তোত্রে বর্ণিত। স্থানটির বানান বিভিন্ন উৎসে পৃথক — কন্রাপ্পুর, কন্দ্রপুর, তিরুক্কন্রাপ্পুর — এবং পাথরের মন্দিরটি চোল যুগের ও পরবর্তীকালের।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এই পীঠের গর্ভগৃহে নাড়ুতড়িয়াপ্পর বিরাজমান, দেবী শ্রীবল্লী নায়কী — যিনি মাতুমৈ নায়কী ও মধুমৈ অম্মৈ নামেও পরিচিত — তাঁর নিজস্ব গুহ্যালয়ে, একটি নন্দী এবং পরিবার দেবতাদের সঙ্গে। মন্দিরটি কাবেরী অঞ্চলের ছোট পীঠগুলির সরল, সুবিন্যস্ত পরিকল্পনা রক্ষা করে।",
+    "legends": "প্রভুর নাম নাড়ুতড়িয়াপ্পর (নাড়ুতুড়ৈপ্পর নামেও) একটি কিংবদন্তির সঙ্গে জড়িত, যেখানে পৃথিবী থেকে স্বয়ম্ভূ হয়ে ওঠা লিঙ্গটি কাটা বা ভাঙা যায়নি — যখন কেউ কুঠার দিয়ে আঘাত করতে চেয়েছিল, প্রভু অটল ও অক্ষত থেকেছিলেন, এবং সেই দৃঢ়তা থেকেই স্থানটি তার নাম পেয়েছিল। দেবীর নাম, শ্রীবল্লী নায়কী ও মাতুমৈ নায়কী, তাঁর পাশে তাঁর করুণাময় উপস্থিতি বহন করে। বহু ছোট বদ্বীপ পীঠের মতো, পূর্ণাঙ্গ স্থল পুরাণ প্রধানত স্থানীয় ঐতিহ্যে ও আপ্পরের পদে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজার সঙ্গে একটি গ্রামীণ পীঠের শান্ত পরিসরে পালন করে। তিরুভারুরের নিকটে পাদল পেট্র পথের তীর্থযাত্রীরা তাঁদের গন্তব্যের মধ্যে কন্রাপ্পুরকে অন্তর্ভুক্ত করেন।",
+    "experience": "কন্রাপ্পুরে তীর্থযাত্রী সেই স্বয়ম্ভূ প্রভুর শান্ত পীঠে আসেন, যাঁকে ভাঙা যায়নি। নাড়ুতড়িয়াপ্পর ও শ্রীবল্লী নায়কীর সম্মুখে দর্শনার্থী তিরুভারুর অঞ্চলের একটি তেবারম মন্দিরের অটল করুণা খুঁজে পান, পৃথিবী থেকে উত্থিত লিঙ্গের মতোই দৃঢ়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kanrappur is about 16–17 km from Tiruvarur, in Tiruvarur district. Tiruvarur is the nearest rail head, with town buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা খুলে রাখতে হয়।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত আলোকচিত্র গ্রহণ অনুমোদিত, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কন্রাপ্পুর তিরুভারুর জেলায় তিরুভারুর থেকে প্রায় ১৬–১৭ কিলোমিটার দূরে। তিরুভারুর নিকটতম রেলপথ, যেখান থেকে শহুরে বাস ও ট্যাক্সি গ্রামে পৌঁছায়।"
   }
 }

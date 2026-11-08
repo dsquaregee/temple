@@ -1,29 +1,36 @@
 {
   "id": "kripapureeswarar-tiruvennainallur",
   "locale": "bn",
+  "name": "কৃপাপুরীশ্বরর মন্দির, তিরুভেন্নাইনল্লুর",
   "nativeName": "கிருபாபுரீஸ்வரர் கோயில்",
+  "deity": "কৃপাপুরীশ্বরর (অরুট্কোণ্ডনাথর) রূপে শিব, দেবী মঙ্গলাম্বিকাইয়ের সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tiruvennainallur",
-    "state": "Tamil Nadu",
+    "city": "তিরুভেন্নাইনল্লুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.86,
     "lng": 79.366
   },
+  "period": "তেবারমে স্তুত প্রাচীন শৈব মন্দির (অষ্টম শতক); বর্তমান কাঠামো চোল যুগের, পরবর্তী সংযোজনসহ",
   "century": 8,
+  "dynasty": "চোল ও পরবর্তী পৃষ্ঠপোষক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুভেন্নাইনল্লুর সেই মন্দির যেখানে, ঐতিহ্য অনুসারে, শিব সাধক সুন্দরের বিবাহ থামিয়ে তাঁকে নিজের বলে দাবি করেছিলেন এবং এখানে তাঁর প্রথম তেবারম স্তোত্র গ্রহণ করেছিলেন — অরুট্কোণ্ডনাথরের মন্দির, সেই প্রভু যিনি কৃপায় তাঁর ভক্তদের গ্রহণ করেন।",
   "sections": {
-    "history": "Tiruvennainallur stands in the old Nadu Nadu country, between the Chola and Thondai lands, and has been a place of Shaiva pilgrimage since the age of the Nayanar saints, who sang of it in the Tevaram and made it a Paadal Petra Sthalam. Its fame is inseparable from the saint Sundarar, for it was here that his life as a poet of god began. The present stone temple is held to be the work of the Cholas, with a renovation remembered in the reign of Uttama Chola in the late tenth century, and it has been kept in worship through the centuries since. The town's name, read as the town of butter, carries its own old story of the goddess's devotion.",
-    "architecture": "The temple is a Dravidian complex entered from the east, its sanctum holding the linga of Kripapureeswarar, with the goddess Mangalambigai in her own shrine. The most revered object in the temple is a pair of padukas, the sacred footwear that the Lord is said to have left behind when he vanished here, and these are honoured in their own place. Mandapas and corridors in the Chola manner surround the sanctum, and the temple tank and the shrine of Sundarar keep the memory of the saint close to the heart of the worship.",
-    "legends": "The great legend of Tiruvennainallur is the taking of Sundarar. On the saint's wedding day, as Nambi Arooran prepared to marry, an old brahmin broke into the ceremony and claimed the bridegroom as his hereditary bondsman, showing a palm-leaf deed to prove it. The matter was carried to the village assembly here at Tiruvennainallur, where the deed was read and found true; and the old man, revealing himself as Shiva, led Sundarar to this temple and vanished near the sanctum, leaving only his footwear behind. Taken thus by grace, Sundarar broke into song, and his first words — calling the Lord the madman who wears the crescent moon — became the opening of his Tevaram. From this the Lord is praised as Arutkondanathar, he who stopped the wedding and claimed the devotee as his own.",
-    "festivals": "The festival dearest to the temple is the Aadi Swathi in July or August, a two-day celebration of Sundarar on his star. The ten-day Panguni Uthiram in March or April, with its flag-hoisting and float festival, is the great annual event, and the Margazhi Tiruvadhirai in December or January, the Aavani butter-offering, and Skanda Sashti are all kept with devotion. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Come to Tiruvennainallur for the nearness of a story, not for grandeur. Enter from the east to the sanctum of Kripapureeswarar, pause before the goddess Mangalambigai, and seek out the padukas that the devout believe the Lord left when he claimed Sundarar here. Many who visit carry in mind the image of the saint, stopped on his wedding day and led to god, and the temple rewards those who come to stand quietly where that turning is remembered. The town is unhurried, and an early morning or a lamplit evening suits it best."
+    "history": "তিরুভেন্নাইনল্লুর চোল ও থোণ্ডাই দেশের মাঝে পুরনো নাড়ু নাড়ু অঞ্চলে অবস্থিত, এবং নায়নার সাধকদের যুগ থেকে এক শৈব তীর্থস্থান, যাঁরা তেবারমে এর স্তুতি গেয়ে একে একটি পাডল পেট্র স্থলম করেছিলেন। এর খ্যাতি সাধক সুন্দরের সঙ্গে অবিচ্ছেদ্য, কারণ এখানেই ঈশ্বরের কবি হিসেবে তাঁর জীবন শুরু হয়েছিল। বর্তমান পাথরের মন্দিরটি চোলদের কাজ বলে গণ্য, দশম শতকের শেষে উত্তম চোলের রাজত্বে এক সংস্কারের স্মৃতিসহ, এবং শতাব্দীর পর শতাব্দী ধরে এটি পূজিত। শহরের নাম, মাখনের শহর হিসেবে পঠিত, দেবীর ভক্তির নিজস্ব এক পুরনো কাহিনি বহন করে।",
+    "architecture": "মন্দিরটি পূর্ব থেকে প্রবেশ্য একটি দ্রাবিড় সংকুল, যার গর্ভগৃহে কৃপাপুরীশ্বররের লিঙ্গ রয়েছে, দেবী মঙ্গলাম্বিকাই তাঁর নিজস্ব মন্দিরে। মন্দিরের সবচেয়ে শ্রদ্ধেয় বস্তু হলো এক জোড়া পাদুকা, সেই পবিত্র পাদুকা যা প্রভু এখানে অন্তর্হিত হওয়ার সময় রেখে গিয়েছিলেন বলে কথিত, এবং এগুলি তাদের নিজস্ব স্থানে সম্মানিত। চোল রীতির মণ্ডপ ও প্রদক্ষিণপথ গর্ভগৃহকে ঘিরে আছে, এবং মন্দিরের তীর্থ ও সুন্দরের মন্দির উপাসনার হৃদয়ের কাছে সাধকের স্মৃতি ধরে রাখে।",
+    "legends": "তিরুভেন্নাইনল্লুরের মহান কিংবদন্তি সুন্দরের গ্রহণ। সাধকের বিবাহের দিনে, নাম্বি আরূরন যখন বিবাহের প্রস্তুতি নিচ্ছিলেন, এক বৃদ্ধ ব্রাহ্মণ অনুষ্ঠানে ঢুকে বরকে নিজের বংশানুক্রমিক দাস বলে দাবি করেন, প্রমাণস্বরূপ এক তালপাতার দলিল দেখিয়ে। বিষয়টি এখানে তিরুভেন্নাইনল্লুরে গ্রাম্য সভায় নেওয়া হয়, যেখানে দলিল পড়া হয় ও সত্য প্রমাণিত হয়; এবং বৃদ্ধ, নিজেকে শিব হিসেবে প্রকাশ করে, সুন্দরকে এই মন্দিরে নিয়ে গিয়ে গর্ভগৃহের কাছে অন্তর্হিত হন, কেবল তাঁর পাদুকা রেখে। কৃপায় এভাবে গৃহীত হয়ে সুন্দর গানে ফেটে পড়েন, এবং তাঁর প্রথম কথা — প্রভুকে অর্ধচন্দ্রধারী উন্মাদ বলে — তাঁর তেবারমের সূচনা হয়ে ওঠে। এ থেকে প্রভু অরুট্কোণ্ডনাথর রূপে স্তুত, যিনি বিবাহ থামিয়ে ভক্তকে নিজের বলে দাবি করেছিলেন।",
+    "festivals": "মন্দিরের প্রিয়তম উৎসব জুলাই বা আগস্টে আডি স্বাতি, সুন্দরের নক্ষত্রে তাঁর দুদিনব্যাপী উদযাপন। মার্চ বা এপ্রিলে দশদিনব্যাপী পঙ্গুনি উত্তিরম, এর ধ্বজারোহণ ও ভেলা উৎসবসহ, মহান বার্ষিক অনুষ্ঠান, এবং ডিসেম্বর বা জানুয়ারিতে মার্গঝি তিরুবাদিরাই, আবনি মাখন-নিবেদন ও স্কন্দ ষষ্ঠী সবই ভক্তিভরে পালিত হয়। মহাশিবরাত্রি ও মাসিক প্রদোষম প্রতিটি শিবমন্দিরের মতো পালিত হয়। তারিখ তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তিরুভেন্নাইনল্লুরে আসুন এক কাহিনির নৈকট্যের জন্য, জাঁকজমকের জন্য নয়। পূর্ব থেকে কৃপাপুরীশ্বররের গর্ভগৃহে প্রবেশ করুন, দেবী মঙ্গলাম্বিকাইয়ের সামনে থামুন, এবং সেই পাদুকা খুঁজে নিন যা ভক্তরা বিশ্বাস করেন প্রভু এখানে সুন্দরকে দাবি করার সময় রেখে গিয়েছিলেন। যাঁরা দর্শন করেন তাঁদের অনেকে মনে রাখেন সেই সাধকের ছবি, বিবাহের দিনে থামানো ও ঈশ্বরের দিকে পরিচালিত, এবং মন্দিরটি তাঁদের পুরস্কৃত করে যাঁরা সেই পরিবর্তন স্মরণ করা স্থানে নীরবে দাঁড়াতে আসেন। শহরটি নিরুদ্বিগ্ন, এবং ভোর বা দীপালোকিত সন্ধ্যা এতে সবচেয়ে মানানসই।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tiruvennainallur lies in Villupuram district, reached by road from Villupuram and Tirukkovilur; Villupuram is the nearest major railway junction, and Puducherry and Tiruchirappalli are the nearest airports. Buses serve the town, and the temple stands at its centre."
+    "timings": "সাধারণত সকালে এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা, মধ্যাহ্নে বিরতিসহ; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য: পুরুষদের জন্য ধুতি বা ট্রাউজার, মহিলাদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশদ্বারের স্ট্যান্ডে পাদুকা রেখে যাওয়া হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে বাইরের প্রদক্ষিণপথ ও উঠানে সাধারণত আলোকচিত্র গ্রহণ অনুমোদিত কিন্তু ভেতরের গর্ভগৃহে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুভেন্নাইনল্লুর ভিলুপুরম জেলায়, ভিলুপুরম ও তিরুক্কোবিলুর থেকে সড়কপথে পৌঁছানো যায়; ভিলুপুরম নিকটতম প্রধান রেল জংশন, এবং পুদুচেরি ও তিরুচিরাপল্লী নিকটতম বিমানবন্দর। বাস শহরে পরিষেবা দেয়, এবং মন্দিরটি এর কেন্দ্রে অবস্থিত।"
   }
 }

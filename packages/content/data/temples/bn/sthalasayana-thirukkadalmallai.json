@@ -1,30 +1,41 @@
 {
   "id": "sthalasayana-thirukkadalmallai",
   "locale": "bn",
+  "name": "স্থলশয়ন পেরুমাল মন্দির, তিরুক্কডল্মল্লৈ",
   "nativeName": "ஸ்தலசயன பெருமாள் கோயில், திருக்கடல்மல்லை",
+  "deity": "স্থলশয়ন পেরুমাল রূপে বিষ্ণু, উন্মুক্ত ভূমির উপর শয়ান, দেবী নীলমঙ্গৈ তায়ার সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirukkadalmallai (Mamallapuram)",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কডল্মল্লৈ (মামল্লপুরম)",
+    "state": "তামিলনাড়ু",
     "lat": 12.6167,
     "lng": 80.1986
   },
+  "period": "তোণ্ডৈ নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার ও ভূতত্তালবার কর্তৃক গীত",
   "century": 8,
+  "dynasty": "পল্লব সূত্রপাত, পরবর্তী চোল, বিজয়নগর ও নায়ক সংযোজন সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "সমুদ্রতীরবর্তী নগর মামল্লপুরমে বিষ্ণু স্থলশয়ন পেরুমাল রূপে সরাসরি ভূমির উপর বিশ্রাম করেন—তোণ্ডৈ নাড়ুর এক জীবন্ত দিব্য দেশম এবং ভূতত্তালবারের কথিত জন্মস্থান।",
   "sections": {
-    "history": "Thirukkadalmallai is the old Tamil name of Mamallapuram, and this is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham; it belongs to Thondai Nadu. Thirumangai Alvar offered twenty-six pasurams here and Bhoothathalvar one, twenty-seven in all, and the shrine is believed to be the birthplace of Bhoothathalvar, whose own small shrine stands near the tank opposite the temple. The temple is believed to have been raised by the Pallavas, with later contributions from the medieval Cholas, the Vijayanagara kings and the Madurai Nayaks. It is a living place of worship in the town, distinct from the famed UNESCO-inscribed monuments of Mamallapuram.",
-    "architecture": "Built in the Dravidian tradition and added to by successive dynasties, the temple is entered through a gateway and gathers around the sanctum of Sthalasayana Perumal, with the Goddess Nilamangai Thayar worshipped as his consort. In the sanctum the sage Pundarika is shown standing beside the lord. Opposite the temple lies its sacred tank, the Pundarika Pushkarini, named for the sage, and near it stands the shrine of Bhoothathalvar. The deity's posture, reclining on the ground rather than on the serpent Adishesha, is the shrine's distinguishing feature.",
-    "legends": "The sthala purana tells of the sage Pundarika, who gathered lotuses to offer to Vishnu reposing on the Milk Ocean and, in his devotion, set about emptying the sea to reach him. Vishnu came to him as an old man and sent the sage off to fetch food. When Pundarika returned, he found the lord reclining on the bare ground, and so he is worshipped here as Sthalasayana — he who lies upon the earth. The name Thirukkadalmallai is remembered as recalling the sea and this tale.",
-    "festivals": "Vaikunta Ekadashi is the great observance of the year, when devotees gather before dawn for the opening of the northern gateway. The birth-star festival of Bhoothathalvar is celebrated with special worship at the temple and at his shrine by the tank. Confirm festival dates locally.",
-    "experience": "Few Divya Desams sit so close to the sea. Come to see Vishnu at rest upon the earth itself, then walk to the Pundarika Pushkarini and the small shrine of Bhoothathalvar opposite. The lord's humble posture invites quiet, unhurried darshan, and the temple stands apart from the sightseeing crowds elsewhere in the town."
+    "history": "তিরুক্কডল্মল্লৈ মামল্লপুরমের পুরনো তামিল নাম, এবং এটি ১০৮টি দিব্য দেশমের একটি, নালায়িরা দিব্য প্রবন্ধমে আলবার সন্তদের গীত বিষ্ণুর আবাস; এটি তোণ্ডৈ নাড়ুর অন্তর্গত। তিরুমঙ্গৈ আলবার এখানে ছাব্বিশটি পাশুরম এবং ভূতত্তালবার একটি, মোট সাতাশটি নিবেদন করেন, এবং তীর্থটি ভূতত্তালবারের জন্মস্থান বলে বিশ্বাস করা হয়, যাঁর নিজের ছোট তীর্থটি মন্দিরের বিপরীতে পুষ্করিণীর কাছে দাঁড়িয়ে আছে। মন্দিরটি পল্লবদের দ্বারা নির্মিত বলে বিশ্বাস করা হয়, পরবর্তীকালে মধ্যযুগীয় চোল, বিজয়নগর রাজা ও মাদুরাই নায়কদের অবদান সহ। এটি নগরের এক জীবন্ত উপাসনাস্থল, মামল্লপুরমের প্রসিদ্ধ ইউনেস্কো-তালিকাভুক্ত স্মারকগুলি থেকে স্বতন্ত্র।",
+    "architecture": "দ্রাবিড় ঐতিহ্যে নির্মিত ও পরপর রাজবংশের সংযোজনে সমৃদ্ধ এই মন্দিরে প্রবেশ হয় একটি তোরণ দিয়ে, এবং তা স্থলশয়ন পেরুমালের গর্ভগৃহকে ঘিরে গড়ে ওঠে, যেখানে দেবী নীলমঙ্গৈ তায়ার তাঁর সহধর্মিণী রূপে পূজিত। গর্ভগৃহে ঋষি পুণ্ডরীককে প্রভুর পাশে দণ্ডায়মান দেখানো হয়েছে। মন্দিরের বিপরীতে রয়েছে এর পবিত্র পুষ্করিণী, পুণ্ডরীক পুষ্করিণী, ঋষির নামে নামাঙ্কিত, এবং তার কাছে ভূতত্তালবারের তীর্থ। প্রভুর ভঙ্গি—সর্প আদিশেষের উপর নয়, বরং ভূমির উপর শয়ান—এই তীর্থের স্বতন্ত্র বৈশিষ্ট্য।",
+    "legends": "স্থলপুরাণ বলে ঋষি পুণ্ডরীকের কথা, যিনি ক্ষীরসাগরে শয়ান বিষ্ণুকে নিবেদনের জন্য পদ্ম সংগ্রহ করতেন এবং তাঁর ভক্তিতে প্রভুর কাছে পৌঁছাতে সমুদ্র নিঃশেষ করতে লাগলেন। বিষ্ণু এক বৃদ্ধের রূপে তাঁর কাছে এসে ঋষিকে খাদ্য আনতে পাঠান। পুণ্ডরীক ফিরে এসে দেখেন প্রভু উন্মুক্ত ভূমির উপর শয়ান, এবং তাই তিনি এখানে স্থলশয়ন রূপে পূজিত—যিনি ভূমির উপর শয়ন করেন। তিরুক্কডল্মল্লৈ নামটি সমুদ্র ও এই কাহিনির স্মারক বলে স্মরণ করা হয়।",
+    "festivals": "বৈকুণ্ঠ একাদশী বছরের মহান অনুষ্ঠান, যখন ভক্তরা উত্তর তোরণ উন্মোচনের জন্য ভোরের আগে সমবেত হন। ভূতত্তালবারের জন্মনক্ষত্র উৎসব মন্দিরে ও পুষ্করিণীর ধারে তাঁর তীর্থে বিশেষ পূজায় উদ্‌যাপিত হয়। উৎসবের তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "অল্প কয়েকটি দিব্য দেশম সমুদ্রের এত কাছে অবস্থিত। আসুন ভূমির উপরেই বিশ্রামরত বিষ্ণুকে দেখতে, তারপর হেঁটে যান পুণ্ডরীক পুষ্করিণী ও বিপরীতের ভূতত্তালবারের ছোট তীর্থে। প্রভুর বিনম্র ভঙ্গি নিরিবিলি, ধীরস্থির দর্শনের আমন্ত্রণ জানায়, এবং মন্দিরটি নগরের অন্যত্র ভ্রমণকারী ভিড় থেকে পৃথক হয়ে দাঁড়িয়ে আছে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is in Mamallapuram, on the East Coast Road about 55 km south of Chennai, reached by road from Chennai or Chengalpattu. The nearest major rail junction is Chengalpattu, and the nearest airport is Chennai."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বে খোলা, মধ্যাহ্নে বিরতি সহ; উৎসবের দিনগুলি সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে ছবি তোলায় নিষেধাজ্ঞা রয়েছে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "মন্দিরটি মামল্লপুরমে, পূর্ব উপকূল সড়কে চেন্নাই থেকে প্রায় ৫৫ কিমি দক্ষিণে, চেন্নাই বা চেঙ্গলপট্টু থেকে সড়কপথে পৌঁছানো যায়। নিকটতম বড় রেল জংশন চেঙ্গলপট্টু, এবং নিকটতম বিমানবন্দর চেন্নাই।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/sthalasayana-thirukkadalmallai.mp3",
+    "durationSec": 198
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.webp"
     },
     "og": "https://media.dsquaregee.com/og/sthalasayana-thirukkadalmallai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/sthalasayana-thirukkadalmallai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "durationSec": 152,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

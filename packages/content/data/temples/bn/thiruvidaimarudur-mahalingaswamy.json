@@ -1,30 +1,37 @@
 {
   "id": "thiruvidaimarudur-mahalingaswamy",
   "locale": "bn",
+  "name": "মহালিঙ্গস্বামী মন্দির, তিরুবিডৈমরুদূর",
   "nativeName": "மகாலிங்கசுவாமி கோயில், திருவிடைமருதூர்",
+  "deity": "শিব মহালিঙ্গস্বামী (মধ্যার্জুন) রূপে, ব-দ্বীপের মন্দিরগুলির কেন্দ্রে অবস্থিত মহান লিঙ্গ",
+  "tradition": "শৈবধর্ম (তেবারমের একটি পাডল পেট্র স্থলম)",
   "location": {
-    "city": "Thiruvidaimarudur",
-    "state": "Tamil Nadu",
+    "city": "তিরুবিডৈমরুদূর",
+    "state": "তামিলনাড়ু",
     "lat": 10.998,
     "lng": 79.451
   },
+  "period": "কাবেরী ব-দ্বীপের একটি মহান চোল শিব মন্দির, তেবারমে কীর্তিত, যা এই অঞ্চলের মন্দিরগুলির কেন্দ্র ধরা হয়",
   "century": 10,
+  "dynasty": "চোল, পরবর্তী সংযোজন সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "kaveri-delta-temple-towns"
   ],
+  "summary": "কাবেরী ব-দ্বীপে শিব এখানে মহালিঙ্গস্বামী রূপে পূজিত হন — মধ্যার্জুন, ব-দ্বীপের শিব মন্দিরগুলির কেন্দ্রে অবস্থিত মহান লিঙ্গ — একটি বিশাল চোল মন্দিরে, যা তেবারমের সন্তরা কীর্তন করেছেন।",
   "sections": {
-    "history": "Thiruvidaimarudur lies in the Kaveri delta near Kumbakonam, its great temple grown from Chola foundations and sung in the Tevaram, the Tamil hymns of the Nayanmar saints. The lord here is Mahalingaswamy, and the place is Madhyarjuna, held to stand at the centre of the delta's Shiva temples, with Tiruvarur and others as its limbs.",
-    "architecture": "The temple spreads in the Dravidian manner through wide enclosures and pillared halls beneath towered gateways, one of the larger shrines of the delta. Its corridors carry Chola and later work, and the great linga is worshipped at its heart.",
-    "legends": "Madhyarjuna — the 'middle arjuna' — is held to be the centre of a group of Shiva temples of the delta, so that a pilgrimage here is a pilgrimage to the heart of the region's Shaiva faith. The temple is sung by the Tevaram saints, marking it a Paadal Petra Sthalam, a shrine hymned by the earliest Tamil devotees of Shiva.",
-    "festivals": "Maha Shivaratri and the temple's own festivals of the Nayanmar draw pilgrims through the year, with the great car festivals among the delta's grandest. The days of the Tevaram saints are kept with recitation of the hymns.",
-    "experience": "To worship at Thiruvidaimarudur is to stand at the traditional centre of the Kaveri delta's Shiva temples — a vast, hymn-sung shrine at the heart of one of India's densest landscapes of devotion."
+    "history": "তিরুবিডৈমরুদূর কুম্বকোণমের কাছে কাবেরী ব-দ্বীপে অবস্থিত, যার মহান মন্দিরটি চোল ভিত্তির উপর গড়ে উঠেছে এবং তেবারমে, অর্থাৎ নায়ন্মার সন্তদের তামিল স্তোত্রে কীর্তিত হয়েছে। এখানকার প্রভু মহালিঙ্গস্বামী, এবং এই স্থান মধ্যার্জুন, যা ব-দ্বীপের শিব মন্দিরগুলির কেন্দ্রে অবস্থিত বলে ধরা হয়, তিরুবারূর ও অন্যান্য মন্দির তার অঙ্গস্বরূপ।",
+    "architecture": "মন্দিরটি দ্রাবিড় রীতিতে প্রশস্ত প্রাকার ও স্তম্ভশোভিত মণ্ডপের মধ্য দিয়ে, উঁচু গোপুরমের নিচে বিস্তৃত, যা ব-দ্বীপের বৃহত্তর মন্দিরগুলির একটি। এর অলিন্দে চোল ও পরবর্তী কালের কারুকাজ রয়েছে, এবং এর কেন্দ্রে মহান লিঙ্গ পূজিত হয়।",
+    "legends": "মধ্যার্জুন — 'মধ্যবর্তী অর্জুন' — ব-দ্বীপের একদল শিব মন্দিরের কেন্দ্র বলে গণ্য হয়, তাই এখানে তীর্থযাত্রা মানে এই অঞ্চলের শৈব বিশ্বাসের হৃদয়ে তীর্থযাত্রা। মন্দিরটি তেবারমের সন্তদের দ্বারা কীর্তিত, যা একে একটি পাডল পেট্র স্থলম করে তোলে — শিবের প্রাচীনতম তামিল ভক্তদের দ্বারা স্তুত একটি মন্দির।",
+    "festivals": "মহাশিবরাত্রি এবং মন্দিরের নিজস্ব নায়ন্মার উৎসবগুলি বছরজুড়ে তীর্থযাত্রীদের আকর্ষণ করে, এবং এর বিশাল রথযাত্রা ব-দ্বীপের অন্যতম জমকালো। তেবারম সন্তদের দিবসগুলি স্তোত্র পাঠের মধ্য দিয়ে পালিত হয়।",
+    "experience": "তিরুবিডৈমরুদূরে পূজা করা মানে কাবেরী ব-দ্বীপের শিব মন্দিরগুলির ঐতিহ্যবাহী কেন্দ্রে দাঁড়ানো — ভারতের অন্যতম ঘন ভক্তিভূমির হৃদয়ে একটি বিশাল, স্তোত্র-কীর্তিত মন্দির।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening worship and a midday break; Maha Shivaratri and the car festival are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvidaimarudur lies near Kumbakonam in the Kaveri delta of Tamil Nadu, reached by road from Kumbakonam and Thanjavur, with its own railway station on the line through Kumbakonam."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার পূজা এবং মধ্যাহ্নে বিরতি সহ খোলা থাকে; মহাশিবরাত্রি ও রথযাত্রায় সবচেয়ে বেশি ভিড় হয়। যাওয়ার আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ফটোগ্রাফি সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "তিরুবিডৈমরুদূর তামিলনাড়ুর কাবেরী ব-দ্বীপে কুম্বকোণমের কাছে অবস্থিত, কুম্বকোণম ও তাঞ্জাবুর থেকে সড়কপথে পৌঁছানো যায়, এবং কুম্বকোণম হয়ে চলা রেলপথে এর নিজস্ব স্টেশন আছে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thiruvidaimarudur-mahalingaswamy.jpg",

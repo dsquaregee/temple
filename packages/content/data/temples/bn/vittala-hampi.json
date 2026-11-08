@@ -1,30 +1,37 @@
 {
   "id": "vittala-hampi",
   "locale": "bn",
+  "name": "বিজয় বিট্ঠল মন্দির, হাম্পি",
   "nativeName": "ವಿಜಯ ವಿಠಲ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "বিজয় বিট্ঠল রূপে বিষ্ণু, পন্ধরপুরে পূজিত ভগবানের রূপ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "হাম্পি",
+    "state": "কর্ণাটক",
     "lat": 15.342,
     "lng": 76.4756
   },
+  "period": "মূল অংশ পঞ্চদশ শতাব্দীর; ষোড়শ শতাব্দীতে কৃষ্ণদেবরায় ও তাঁর উত্তরসূরিদের অধীনে ব্যাপকভাবে সম্প্রসারিত",
   "century": 15,
+  "dynasty": "বিজয়নগর (সঙ্গম ও তুলুব)",
+  "style": "দ্রাবিড়, বিজয়নগর পর্ব",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "হাম্পিতে তুঙ্গভদ্রার কাছে অবস্থিত বিজয় বিট্ঠল মন্দির বিজয়নগর শিল্পের শীর্ষবিন্দু — বিষ্ণুর এক রাজকীয় মন্দির, যা তার গরুড়ের পাথুরে রথ এবং বিশাল সভাগৃহের সঙ্গীতমুখর স্তম্ভের জন্য বিখ্যাত।",
   "sections": {
-    "history": "The temple of Vijaya Vittala grew with the fortunes of Vijayanagara. Its core is generally placed in the 15th century, in the reign of Devaraya II, though its first patron is uncertain; the great expansion came in the early 16th century under the Tuluva kings. Some two dozen inscriptions dated between 1513 and 1564 record gifts and worship here. Krishnadevaraya built the hundred-pillared hall and gave vessels of gold and silver; two of his queens each raised a gateway, and a third gopura is credited to his successor Achyutaraya. After the defeat of 1565 the capital was abandoned and worship here fell silent. The temple is today a protected monument within the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
-    "architecture": "The complex is a walled court entered through towered gateways, with the shrine of Vittala at its centre and around it a goddess shrine, a kalyana mandapa for the divine marriage, and further pillared halls. The great maha mandapa before the sanctum rests on fifty-six carved pillars, many of them clusters of slender colonnettes that ring with musical notes when struck — now protected from touch. Facing it on the same axis stands the celebrated stone chariot, in truth a shrine of Garuda, Vishnu's eagle mount, shaped as a processional car with carved wheels; it is among the best-loved images of India and appears on the fifty-rupee note.",
-    "legends": "Vittala is the form of Vishnu beloved of the saint-poets of Pandharpur, and a popular story at Hampi tells that the Lord of Pandharpur came to see the magnificent temple raised for him — and, finding it too grand, returned to his humble home, so that the temple was never truly his. The inscriptions tell a different tale, recording decades of offerings and worship. The stone chariot carries its own small legend of motion: its stone wheels were once said to turn, as though Garuda's car might yet roll out in procession.",
-    "festivals": "As a monument no longer in worship, the Vittala temple keeps no festival calendar of its own. Hampi as a whole comes alive during the Hampi Utsav, the state festival of music and dance staged among the ruins, usually in the cooler months; confirm dates locally.",
-    "experience": "Come early, when the low sun warms the granite and the courtyard is still quiet. Electric shuttles carry visitors along the last stretch from the parking area, or you can walk the riverside path from Hampi Bazaar past ruined shrines and boulders. Circle the stone chariot slowly, then sit in the shade of the halls and look up at the carved brackets: rearing yalis, dancers and musicians caught in stone."
+    "history": "বিজয় বিট্ঠল মন্দির বিজয়নগরের সৌভাগ্যের সঙ্গে বেড়ে উঠেছিল। এর মূল অংশ সাধারণত দ্বিতীয় দেবরায়ের রাজত্বকালে পঞ্চদশ শতাব্দীতে স্থাপিত বলে ধরা হয়, যদিও এর প্রথম পৃষ্ঠপোষক অনিশ্চিত; মহা সম্প্রসারণ ঘটে ষোড়শ শতাব্দীর গোড়ায় তুলুব রাজাদের অধীনে। ১৫১৩ থেকে ১৫৬৪ সালের মধ্যে তারিখাঙ্কিত প্রায় দুই ডজন শিলালিপি এখানকার দান ও পূজার নথি রাখে। কৃষ্ণদেবরায় শত-স্তম্ভের সভাগৃহ নির্মাণ করেন এবং সোনা ও রুপোর পাত্র দান করেন; তাঁর দুই রানি প্রত্যেকে একটি করে তোরণ গড়েন, আর তৃতীয় একটি গোপুরম তাঁর উত্তরসূরি অচ্যুতরায়ের কৃতিত্ব বলে ধরা হয়। ১৫৬৫ সালের পরাজয়ের পর রাজধানী পরিত্যক্ত হয় এবং এখানকার পূজা স্তব্ধ হয়ে যায়। মন্দিরটি আজ হাম্পির স্মারকসমূহের দলভুক্ত এক সংরক্ষিত স্মারক, যা ১৯৮৬ সাল থেকে ইউনেস্কো বিশ্ব ঐতিহ্যক্ষেত্র।",
+    "architecture": "প্রাঙ্গণটি একটি প্রাচীরবেষ্টিত চত্বর, যেখানে তোরণযুক্ত গোপুরমের মধ্য দিয়ে প্রবেশ করা যায়, মাঝখানে বিট্ঠলের মন্দির এবং তার চারপাশে একটি দেবী-মন্দির, দিব্য বিবাহের জন্য একটি কল্যাণ মণ্ডপ এবং আরও স্তম্ভিত সভাগৃহ। গর্ভগৃহের সামনে বিশাল মহা মণ্ডপটি ছাপ্পান্নটি খোদিত স্তম্ভের উপর স্থাপিত, যার অনেকগুলিই সরু উপস্তম্ভের গুচ্ছ, আঘাত করলে সঙ্গীতের সুর বাজে — এখন স্পর্শ থেকে সুরক্ষিত। একই অক্ষে এর সামনে দাঁড়িয়ে আছে প্রসিদ্ধ পাথুরে রথ, যা প্রকৃতপক্ষে বিষ্ণুর বাহন গরুড়ের এক মন্দির, খোদিত চাকা-সহ শোভাযাত্রার রথের আকারে গড়া; এটি ভারতের সর্বাধিক প্রিয় প্রতিমাগুলির অন্যতম এবং পঞ্চাশ টাকার নোটে স্থান পেয়েছে।",
+    "legends": "বিট্ঠল হলেন বিষ্ণুর সেই রূপ, যিনি পন্ধরপুরের সন্ত-কবিদের প্রিয়, এবং হাম্পির একটি জনপ্রিয় কাহিনি বলে যে পন্ধরপুরের ভগবান তাঁর জন্য নির্মিত এই মহিমময় মন্দির দেখতে এসেছিলেন — আর তা অতি জাঁকজমকপূর্ণ মনে হওয়ায় তিনি নিজের বিনম্র আবাসে ফিরে যান, তাই মন্দিরটি কখনোই প্রকৃতপক্ষে তাঁর হয়ে ওঠেনি। শিলালিপি অবশ্য ভিন্ন কথা বলে, দশকের পর দশক নৈবেদ্য ও পূজার নথি রেখে। পাথুরে রথটি নিজের গতির ছোট্ট এক কিংবদন্তি বহন করে: একসময় বলা হত এর পাথুরে চাকাগুলি ঘুরত, যেন গরুড়ের রথ এখনও শোভাযাত্রায় গড়িয়ে যেতে পারে।",
+    "festivals": "আর পূজিত না হওয়া এক স্মারক হিসেবে বিট্ঠল মন্দিরের নিজস্ব কোনো উৎসব-পঞ্জিকা নেই। সমগ্র হাম্পি প্রাণবন্ত হয়ে ওঠে হাম্পি উৎসবের সময়, সঙ্গীত ও নৃত্যের এই রাজ্য-উৎসব ধ্বংসাবশেষের মধ্যে অনুষ্ঠিত হয়, সাধারণত শীতল মাসগুলিতে; তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "ভোরে আসুন, যখন নিচু সূর্য গ্রানাইটকে উষ্ণ করে এবং চত্বর তখনও নিস্তব্ধ। পার্কিং এলাকা থেকে শেষ অংশটুকু বৈদ্যুতিক শাটল দর্শনার্থীদের নিয়ে যায়, অথবা আপনি হাম্পি বাজার থেকে ভাঙা মন্দির ও পাথরের চাঁই পেরিয়ে নদীতীরের পথ ধরে হেঁটে যেতে পারেন। পাথুরে রথটি ধীরে প্রদক্ষিণ করুন, তারপর সভাগৃহের ছায়ায় বসে খোদিত বন্ধনীগুলির দিকে উপরে তাকান: পাথরে ধরা রুখে দাঁড়ানো যালি, নর্তক-নর্তকী ও বাদ্যকারেরা।"
   },
   "visit": {
-    "timings": "Open daily from sunrise to sunset as an ASI-protected monument; an entry ticket is required. Confirm hours and ticketing locally.",
-    "dressCode": "Modest dress is appreciated; comfortable shoes, water and sun protection help, as the site is open and stony.",
-    "photography": "Photography is generally allowed; the musical pillars must not be touched, and tripods or professional shoots may need permission from the Archaeological Survey of India.",
-    "gettingThere": "The temple lies about 2.5 km north-east of Hampi Bazaar, near the Tungabhadra opposite Anegondi, in Karnataka's Vijayanagara district. Hosapete (Hospet), about 13 km from Hampi, has the nearest railway station; the nearest airport is at Vidyanagar near Toranagallu, with larger airports at Hubballi and Bengaluru."
+    "timings": "ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ-সংরক্ষিত স্মারক হিসেবে প্রতিদিন সূর্যোদয় থেকে সূর্যাস্ত পর্যন্ত খোলা; প্রবেশের জন্য টিকিট প্রয়োজন। সময় ও টিকিট স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন পোশাক সমাদৃত; আরামদায়ক জুতো, জল ও রোদ থেকে রক্ষার ব্যবস্থা সহায়ক, কারণ স্থানটি খোলা ও পাথুরে।",
+    "photography": "সাধারণত আলোকচিত্র তোলার অনুমতি আছে; সঙ্গীতমুখর স্তম্ভগুলি স্পর্শ করা যাবে না, এবং ট্রাইপড বা পেশাদার চিত্রগ্রহণের জন্য ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণের অনুমতি লাগতে পারে।",
+    "gettingThere": "মন্দিরটি হাম্পি বাজার থেকে প্রায় ২.৫ কিমি উত্তর-পূর্বে, তুঙ্গভদ্রার ধারে আনেগোন্দির বিপরীতে, কর্ণাটকের বিজয়নগর জেলায় অবস্থিত। হাম্পি থেকে প্রায় ১৩ কিমি দূরের হোসপেটে (হসপেট) নিকটতম রেলস্টেশন; নিকটতম বিমানবন্দর তোরণগল্লুর কাছে বিদ্যানগরে, আর বৃহত্তর বিমানবন্দর হুব্বল্লি ও বেঙ্গালুরুতে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vittala-hampi.jpg",

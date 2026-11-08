@@ -1,28 +1,35 @@
 {
   "id": "basara-saraswati",
   "locale": "bn",
+  "name": "শ্রী জ্ঞান সরস্বতী মন্দির, বাসর",
   "nativeName": "శ్రీ జ్ఞాన సరస్వతి ఆలయం, బాసర",
+  "deity": "দেবী সরস্বতী জ্ঞান সরস্বতী রূপে, বিদ্যাদাত্রী, লক্ষ্মী ও কালী-সহ",
+  "tradition": "শাক্তধর্ম, বিদ্যার দেবী সরস্বতীর উপাসনা",
   "location": {
-    "city": "Basara",
-    "state": "Telangana",
+    "city": "বাসর",
+    "state": "তেলেঙ্গানা",
     "lat": 18.879,
     "lng": 77.943
   },
+  "period": "গোদাবরীর তীরে একটি বিরল সরস্বতী মন্দির, শিশুর প্রথম পাঠের (অক্ষরাভ্যাসম) জন্য প্রার্থিত",
   "century": 10,
+  "dynasty": "গোদাবরীর তীরে প্রাচীন পরম্পরা",
+  "style": "দক্ষিণ ভারতীয়",
   "unesco": false,
   "circuits": [],
+  "summary": "বাসরে গোদাবরীর তীরে সরস্বতী জ্ঞান সরস্বতী রূপে পূজিত, জ্ঞানদাত্রী—ভারতের কয়েকটি মহান সরস্বতী মন্দিরের একটি, যেখানে শিশুদের অক্ষরাভ্যাসমের জন্য, তাদের প্রথম অক্ষর লেখার জন্য নিয়ে আসা হয়।",
   "sections": {
-    "history": "Basara stands on the banks of the Godavari in Telangana, home to one of India's rare temples to Saraswati, the goddess of learning, here called Gnana Saraswati. Tradition ties the place to the sage Vyasa; the very name Basara is said to derive from Vyasara, the abode of Vyasa.",
-    "architecture": "The temple sits by the river in the South Indian manner, its sanctum holding the goddess Saraswati, with shrines to Lakshmi and Kali nearby, so that the three great goddesses are honoured together. The riverside ghats are part of the pilgrimage.",
-    "legends": "It is said that Vyasa, after the great war, came here seeking peace and made three handfuls of sand into the images of Saraswati, Lakshmi, and Kali — knowledge, wealth, and power. From his penance the place took its name, and the goddess of learning made it her home.",
-    "festivals": "Vasant Panchami and the Navaratri days are the great festivals of the goddess of learning. Through the year families arrive for the Aksharabhyasam, when a child first traces letters in the goddess's presence to begin its education.",
-    "experience": "Basara is above all a temple of beginnings — of children brought to write their first letters before Saraswati — a quiet, riverside pilgrimage bound to the hope of learning and wisdom."
+    "history": "বাসর তেলেঙ্গানায় গোদাবরীর তীরে অবস্থিত, বিদ্যার দেবী সরস্বতীর ভারতের বিরল মন্দিরগুলির একটির আবাস, এখানে যাঁকে জ্ঞান সরস্বতী বলা হয়। পরম্পরা স্থানটিকে ঋষি ব্যাসের সঙ্গে যুক্ত করে; বাসর নামটি স্বয়ং ব্যাসার, অর্থাৎ ব্যাসের আবাস, থেকে উদ্ভূত বলে কথিত।",
+    "architecture": "মন্দিরটি দক্ষিণ ভারতীয় রীতিতে নদীর পাশে অবস্থিত, এর গর্ভগৃহে দেবী সরস্বতী প্রতিষ্ঠিত, কাছেই লক্ষ্মী ও কালীর মন্দির-সহ, যাতে তিন মহান দেবী একত্রে সম্মানিত হন। নদীতীরবর্তী ঘাটগুলি তীর্থযাত্রার অংশ।",
+    "legends": "কথিত আছে, ব্যাস, মহাযুদ্ধের পর, এখানে শান্তির খোঁজে এসেছিলেন এবং তিন মুঠো বালিকে সরস্বতী, লক্ষ্মী ও কালী—জ্ঞান, সম্পদ ও শক্তির—মূর্তিতে পরিণত করেছিলেন। তাঁর তপস্যা থেকে স্থানটি তার নাম গ্রহণ করে, এবং বিদ্যার দেবী এটিকে তাঁর আবাস করেন।",
+    "festivals": "বসন্ত পঞ্চমী ও নবরাত্রির দিনগুলি বিদ্যার দেবীর মহান উৎসব। সারা বছর পরিবারগুলি অক্ষরাভ্যাসমের জন্য আসে, যখন একটি শিশু তার শিক্ষা শুরু করতে দেবীর উপস্থিতিতে প্রথম অক্ষর অঙ্কন করে।",
+    "experience": "বাসর সর্বোপরি সূচনার এক মন্দির—সরস্বতীর সামনে প্রথম অক্ষর লিখতে নিয়ে আসা শিশুদের—বিদ্যা ও প্রজ্ঞার আশায় বাঁধা একটি নিরিবিলি, নদীতীরবর্তী তীর্থ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening worship and a midday break; Vasant Panchami is busiest, and Aksharabhyasam is performed through the day. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Basara lies on the Godavari in Nirmal district of Telangana, near the Maharashtra border; it has its own railway station on the Secunderabad–Manmad line and is reached by road from Nizamabad."
+    "timings": "প্রতিদিন সকালে ও সন্ধ্যায় পূজা-সহ খোলা এবং মধ্যাহ্নে বিরতি; বসন্ত পঞ্চমী সবচেয়ে ব্যস্ত, আর অক্ষরাভ্যাসম সারা দিন ধরে সম্পন্ন হয়। দর্শনের আগে বর্তমান সময় নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে আলোকচিত্র তোলা সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "বাসর তেলেঙ্গানার নির্মল জেলায় গোদাবরীর তীরে, মহারাষ্ট্র সীমান্তের কাছে অবস্থিত; সেকেন্দ্রাবাদ–মানমাড লাইনে এর নিজস্ব রেলস্টেশন আছে এবং নিজামাবাদ থেকে সড়কপথে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/basara-saraswati.jpg",

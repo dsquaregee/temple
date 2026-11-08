@@ -1,29 +1,36 @@
 {
   "id": "ganapatheeswarar-tiruchengattankudi",
   "locale": "bn",
+  "name": "গণপতীশ্বরর মন্দির, তিরুচ্চেঙ্গাট্টঙ্গুড়ি",
   "nativeName": "திருச்செங்காட்டங்குடி கணபதீஸ்வரர் கோயில்",
+  "deity": "শিব গণপতীশ্বরর (উত্তীরপশুপতীশ্বরর) রূপে, দেবী বাট তিরুক্কুলল নায়কী সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, সিরুত্তোণ্ড নায়নারের জন্মস্থান",
   "location": {
-    "city": "Tiruchengattangudi, near Tirumarugal",
-    "state": "Tamil Nadu",
+    "city": "তিরুচ্চেঙ্গাট্টঙ্গুড়ি, তিরুমরুগলের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.8056,
     "lng": 79.6472
   },
+  "period": "তেবারম যুগ, চোল-যুগীয় কাঠামো সহ",
   "century": 7,
+  "dynasty": "পল্লব যুগের উৎপত্তি, চোল কাঠামো",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারুর দেশের তিরুচ্চেঙ্গাট্টঙ্গুড়ি হল সিরুত্তোণ্ড নায়নারের জন্মস্থান, তেষট্টিজন শৈব সন্তের অন্যতম, এবং তাঁর ভক্তির মর্মভেদী কাহিনীর পটভূমি। এখানে শিব গণপতীশ্বরর নামে পূজিত, যাঁকে উত্তীরপশুপতীশ্বররও বলা হয়, তেবারমে স্তুত একটি পাডল পেট্র স্থলম। গ্রামটি বাটাপি গণপতির মন্দিরের জন্যও সমানভাবে খ্যাত, যে গণেশমূর্তি পল্লবদের চালুক্য অভিযানের সঙ্গে প্রথাগতভাবে যুক্ত, এবং মন্দিরটি সন্ত ও গজবদন দেবতার এই দুই ধারাকে একত্রে ধারণ করে।",
   "sections": {
-    "history": "Tiruchengattangudi is an old Shaiva village near Tirumarugal, revered in the seventh-century Tevaram and counted among the Paadal Petra Sthalams on the southern bank of the Kaveri. Its deepest fame comes from the Pallava age, as the home of Siruthonda Nayanar — identified in tradition with Paranjothi, a commander of the Pallava king Narasimhavarman I. The temple of Shiva and the nearby shrine of Vatapi Ganapati together make the village a living memorial to that era of saint and conquest.",
-    "architecture": "The temple is a Dravidian complex with a gopuram, pillared halls and the sanctum of Ganapatheeswarar, with a separate shrine for the goddess Vaata Thirukkuzhal Nayaki. A famed sculptural panel within the temple depicts the story of Siruthonda Nayanar, and the celebrated image of Vatapi Ganapati is enshrined here. The stonework reflects Chola-period building over earlier foundations, and the village retains the atmosphere of a place shaped by a single, powerful legend.",
-    "legends": "The central story is that of Siruthonda Nayanar and his son Seeralan. A Shaiva ascetic, in truth Shiva himself, came as a guest and asked to be fed the flesh of the family's only son. Siruthonda and his wife, in the extremity of their devotion, consented; and when the meal was prepared the guest revealed himself as the lord, restored the boy to life and raised Siruthonda to the ranks of the Nayanmars. The sthala-purana also tells that Ganesha worshipped Shiva here to atone for slaying the demon Gajamukhasura, and that the lord appeared as a lingam at the spot — the place name recalling the blood-reddened ground of that combat.",
-    "festivals": "The temple observes the Shaiva festivals and holds the memory of Siruthonda Nayanar in special honour, with observances tied to the saint. Vinayaka Chaturthi is naturally significant given the village's association with Vatapi Ganapati, and the annual festival draws devotees who know the Periyapuranam story and come to stand where it is set.",
-    "experience": "Tiruchengattangudi is a place where devotion is remembered at its most unflinching. Pilgrims come for darshan of Ganapatheeswarar and of Vatapi Ganapati, and to see the panel of Siruthonda's trial — a story that asks what faith can demand and what grace can restore. The village has the grave, reflective air of a shrine that keeps one of the hardest tales in the Shaiva tradition."
+    "history": "তিরুচ্চেঙ্গাট্টঙ্গুড়ি তিরুমরুগলের নিকটবর্তী একটি প্রাচীন শৈব গ্রাম, সপ্তম শতকের তেবারমে শ্রদ্ধেয় এবং কাবেরীর দক্ষিণ তীরের পাডল পেট্র স্থলমের অন্যতম। এর গভীরতম খ্যাতি পল্লব যুগ থেকে, সিরুত্তোণ্ড নায়নারের বাসস্থান হিসেবে — প্রথায় যাঁকে পরঞ্জ্যোতি, পল্লব রাজা প্রথম নরসিংহবর্মনের সেনাপতির সঙ্গে অভিন্ন বলে ধরা হয়। শিবের মন্দির ও নিকটবর্তী বাটাপি গণপতির মন্দির মিলিয়ে গ্রামটিকে সন্ত ও বিজয়ের সেই যুগের একটি জীবন্ত স্মারক করে তোলে।",
+    "architecture": "মন্দিরটি একটি দ্রাবিড় সমুচ্চয়, যেখানে রয়েছে গোপুরম, স্তম্ভযুক্ত মণ্ডপ এবং গণপতীশ্বররের গর্ভগৃহ, দেবী বাট তিরুক্কুলল নায়কীর জন্য পৃথক মন্দির সহ। মন্দিরের ভেতরে একটি বিখ্যাত ভাস্কর্য-ফলক সিরুত্তোণ্ড নায়নারের কাহিনী চিত্রিত করে, এবং বাটাপি গণপতির খ্যাতনামা মূর্তি এখানে প্রতিষ্ঠিত। পাথরের কাজ আগের ভিত্তির উপর চোল-যুগীয় নির্মাণের প্রতিফলন ঘটায়, এবং গ্রামটি একটি একক, শক্তিশালী কিংবদন্তিতে গড়ে ওঠা স্থানের পরিবেশ ধরে রাখে।",
+    "legends": "কেন্দ্রীয় কাহিনীটি হল সিরুত্তোণ্ড নায়নার ও তাঁর পুত্র সীরালনের। এক শৈব সন্ন্যাসী, প্রকৃতপক্ষে স্বয়ং শিব, অতিথিরূপে এসে পরিবারের একমাত্র পুত্রের মাংস খেতে চাইলেন। সিরুত্তোণ্ড ও তাঁর স্ত্রী, তাঁদের ভক্তির চরম সীমায়, সম্মত হলেন; এবং খাবার প্রস্তুত হলে অতিথি নিজেকে প্রভুরূপে প্রকাশ করলেন, বালকটিকে পুনর্জীবিত করলেন এবং সিরুত্তোণ্ডকে নায়নমারদের সারিতে উন্নীত করলেন। স্থল পুরাণ এও বলে যে গণেশ এখানে শিবের পূজা করেছিলেন অসুর গজমুখাসুর বধের প্রায়শ্চিত্তস্বরূপ, এবং প্রভু সেই স্থানে লিঙ্গরূপে আবির্ভূত হন — স্থাননামটি সেই যুদ্ধের রক্তরঞ্জিত ভূমির স্মৃতি বহন করে।",
+    "festivals": "মন্দিরটি শৈব উৎসব পালন করে এবং সিরুত্তোণ্ড নায়নারের স্মৃতিকে বিশেষ সম্মানে রাখে, সন্তের সঙ্গে যুক্ত আচার-অনুষ্ঠান সহ। বাটাপি গণপতির সঙ্গে গ্রামের সংযোগের কারণে বিনায়ক চতুর্থী স্বাভাবিকভাবেই তাৎপর্যপূর্ণ, এবং বার্ষিক উৎসব সেই ভক্তদের টানে যাঁরা পেরিয়পুরাণমের কাহিনী জানেন এবং যেখানে তা ঘটেছিল সেখানে দাঁড়াতে আসেন।",
+    "experience": "তিরুচ্চেঙ্গাট্টঙ্গুড়ি এমন একটি স্থান যেখানে ভক্তি তার সবচেয়ে অবিচল রূপে স্মরণীয়। তীর্থযাত্রীরা গণপতীশ্বরর ও বাটাপি গণপতির দর্শনের জন্য আসেন, এবং সিরুত্তোণ্ডের পরীক্ষার ফলক দেখতে — এমন এক কাহিনী যা প্রশ্ন করে বিশ্বাস কী দাবি করতে পারে আর কৃপা কী ফিরিয়ে দিতে পারে। গ্রামটিতে শৈব প্রথার সবচেয়ে কঠিন কাহিনীগুলির একটিকে ধারণ করা মন্দিরের গভীর, চিন্তামগ্ন আবহ রয়েছে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruchengattangudi is near Tirumarugal in Tiruvarur district, roughly 20 km from both Tiruvarur and Nagapattinam; the nearest rail heads are Tiruvarur and Nagapattinam, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেল শেষে সন্ধ্যা পর্যন্ত খোলা; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময়সূচি যাচাই করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত ফটোগ্রাফির অনুমতি আছে কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুচ্চেঙ্গাট্টঙ্গুড়ি তিরুবারুর জেলার তিরুমরুগলের নিকটে, তিরুবারুর ও নাগাপট্টিনম উভয় থেকে প্রায় ২০ কিমি দূরে; নিকটতম রেলস্থান তিরুবারুর ও নাগাপট্টিনম, গ্রামে পৌঁছাতে স্থানীয় বাস ও ট্যাক্সি রয়েছে।"
   }
 }

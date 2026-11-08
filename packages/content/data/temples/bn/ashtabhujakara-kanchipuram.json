@@ -1,31 +1,38 @@
 {
   "id": "ashtabhujakara-kanchipuram",
   "locale": "bn",
+  "name": "অষ্টভুজ পেরুমাল মন্দির, কাঞ্চীপুরম",
   "nativeName": "அஷ்டபுஜப் பெருமாள் கோயில், திருவட்டபுயகரம், காஞ்சிபுரம்",
+  "deity": "বিষ্ণু অষ্টভুজ পেরুমাল, অষ্টবাহু অধিপতি রূপে, অধিকেশব পেরুমাল ও গজেন্দ্র বরদন নামেও অভিহিত, দেবী অলর্মেলমঙ্গৈ (পদ্মাসনী)-এর সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চীপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.823,
     "lng": 79.711
   },
+  "period": "কাঞ্চীপুরমে থোণ্ডৈ নাড়ুর একটি দিব্যদেশম্‌, নালায়িরা দিব্য প্রবন্ধমে পেয় আলবার ও তিরুমঙ্গৈ আলবারের দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "থোণ্ডৈ দেশ (কাঞ্চীপুরম), পরবর্তী সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "কাঞ্চীপুরমে বিষ্ণু অষ্টভুজ পেরুমাল রূপে পূজিত হন, সেই অষ্টবাহু অধিপতি যিনি ব্রহ্মার যজ্ঞ রক্ষা করতে উঠে দাঁড়িয়েছিলেন — থোণ্ডৈ নাড়ুর একটি দিব্যদেশম্‌, পেয় আলবার ও তিরুমঙ্গৈ আলবারের দ্বারা স্তুত।",
   "sections": {
-    "history": "Thiruvattabuyagaram — 'the sacred place of the eight arms' — is one of the 108 Divya Desams and one of the fourteen Divya Desams within Kanchipuram, the ancient capital of Thondai Nadu. It was sung by Pey Alvar, one of the three Mudhal Alvars, and by Thirumangai Alvar, whose pilgrim hymns gather in so many of Kanchi's Vishnu shrines. The Lord here is known by several names: Ashtabhuja Perumal for his eight arms, Adikesava Perumal, Chakradhar, and Gajendra Varadhan, the protector of the elephant. Among Kanchi's great temple cluster it is a smaller shrine, but its place in the Prabandham has kept it in the round of every Divya Desam pilgrim to the city.",
-    "architecture": "The temple follows the Dravidian plan of Kanchi's Vishnu shrines, entered through a gateway tower into a walled court, with the sanctum of the eight-armed Lord at the centre and the Goddess Alarmelmangai in her own shrine. The presiding image is the shrine's distinction: Vishnu shown with eight arms rather than the usual four, the form that gives the temple its name. Pillared halls open before the sanctum in the manner of the town's temples.",
-    "legends": "The sthala purana belongs to the great Kanchi cycle of Brahma's sacrifice. Saraswati, angered that Brahma had sided with Lakshmi, sent hostile forces to break up the sacrifice — in one telling a host of demons and then the fierce lion-bird Sharabha, in another a serpent. Vishnu rose to guard the rite, taking a form with eight arms, and drove them back. Another tradition links the shrine to Gajendra Moksha, the rescue of the elephant king from the crocodile — hence the name Gajendra Varadhan.",
-    "festivals": "The temple keeps the Vaishnava festival year of Kanchipuram — Vaikunta Ekadashi in Margazhi, the birth-stars of Pey Alvar and Thirumangai Alvar, and the annual festival of the presiding Lord, when the processional image comes out into the streets. Confirm festival dates locally.",
-    "experience": "Visit as part of a round of Kanchipuram's Divya Desams; the Azhagiya Singar temple of Thiruvelukkai lies close by. Pause before the eight-armed Lord and remember the legend of a sacrifice protected. A quieter shrine than the great temples of the town, it rewards a slow, attentive darshan."
+    "history": "তিরুবট্টবুয়গরম্‌ — 'অষ্ট বাহুর পবিত্র স্থান' — ১০৮টি দিব্যদেশমের একটি এবং থোণ্ডৈ নাড়ুর প্রাচীন রাজধানী কাঞ্চীপুরমের মধ্যেকার চৌদ্দটি দিব্যদেশমের একটি। এটি তিন মুদল আলবারের একজন পেয় আলবার, এবং তিরুমঙ্গৈ আলবারের দ্বারা স্তুত, যাঁর তীর্থযাত্রার স্তোত্র কাঞ্চীর এত বিষ্ণু মন্দিরে জড়ো হয়। এখানে অধিপতি একাধিক নামে পরিচিত: তাঁর আট বাহুর জন্য অষ্টভুজ পেরুমাল, অধিকেশব পেরুমাল, চক্রধর, এবং গজেন্দ্র বরদন, হাতির রক্ষক। কাঞ্চীর বিশাল মন্দির-গুচ্ছের মধ্যে এটি একটি ছোট মন্দির, কিন্তু প্রবন্ধমে এর স্থান একে শহরে আসা প্রতিটি দিব্যদেশম্‌ তীর্থযাত্রীর পরিক্রমায় রেখেছে।",
+    "architecture": "মন্দিরটি কাঞ্চীর বিষ্ণু মন্দিরগুলির দ্রাবিড় পরিকল্পনা অনুসরণ করে, একটি গোপুরমের মধ্য দিয়ে একটি প্রাচীরবেষ্টিত প্রাঙ্গণে প্রবেশ করা হয়, কেন্দ্রে অষ্টবাহু অধিপতির গর্ভগৃহ এবং দেবী অলর্মেলমঙ্গৈ তাঁর নিজস্ব মন্দিরে। প্রধান মূর্তিটিই মন্দিরের বৈশিষ্ট্য: বিষ্ণু সাধারণ চার বাহুর পরিবর্তে আট বাহুসহ প্রদর্শিত, সেই রূপ যা মন্দিরটিকে তার নাম দেয়। গর্ভগৃহের সামনে শহরের মন্দিরগুলির রীতিতে স্তম্ভবিশিষ্ট মণ্ডপ খোলে।",
+    "legends": "স্থলপুরাণ ব্রহ্মার যজ্ঞের মহান কাঞ্চী চক্রের অন্তর্গত। সরস্বতী, ব্রহ্মা লক্ষ্মীর পক্ষ নেওয়ায় ক্রুদ্ধ হয়ে, যজ্ঞ ভণ্ডুল করতে বৈরী শক্তি পাঠালেন — এক বর্ণনায় অসুরদের একটি দল এবং তারপর উগ্র সিংহ-পক্ষী শরভ, অন্যটিতে একটি সর্প। বিষ্ণু যজ্ঞ রক্ষা করতে উঠে দাঁড়ালেন, আট বাহুসহ একটি রূপ ধারণ করলেন, এবং তাদের পিছু হটিয়ে দিলেন। অন্য একটি ঐতিহ্য মন্দিরটিকে গজেন্দ্র মোক্ষ, অর্থাৎ কুমিরের কবল থেকে হস্তিরাজের উদ্ধারের সঙ্গে যুক্ত করে — তাই গজেন্দ্র বরদন নাম।",
+    "festivals": "মন্দিরটি কাঞ্চীপুরমের বৈষ্ণব উৎসব-বছর পালন করে — মার্গঝিতে বৈকুণ্ঠ একাদশী, পেয় আলবার ও তিরুমঙ্গৈ আলবারের জন্মনক্ষত্র, এবং প্রধান অধিপতির বার্ষিক উৎসব, যখন শোভাযাত্রার মূর্তি রাস্তায় বের হয়। উৎসবের তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "কাঞ্চীপুরমের দিব্যদেশমগুলির একটি পরিক্রমার অংশ হিসেবে দর্শন করুন; তিরুবেলুক্কৈর অঝগিয় সিঙ্গর মন্দির কাছেই অবস্থিত। অষ্টবাহু অধিপতির সামনে থামুন এবং এক রক্ষিত যজ্ঞের কিংবদন্তি স্মরণ করুন। শহরের বিশাল মন্দিরগুলির চেয়ে শান্ত একটি মন্দির, এটি একটি ধীর, মনোযোগী দর্শনের পুরস্কার দেয়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies within Kanchipuram town, which has a railway station and is reached by road from Chennai (around 70 km); Chennai has the nearest major airport."
+    "timings": "সকাল ও সন্ধ্যার দর্শনকালসহ প্রতিদিন খোলা থাকে, মধ্যাহ্নে বন্ধ। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে আলোকচিত্র গ্রহণ সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "এটি কাঞ্চীপুরম শহরের মধ্যে অবস্থিত, যেখানে একটি রেল স্টেশন রয়েছে এবং চেন্নৈ থেকে সড়কপথে (প্রায় ৭০ কিমি) পৌঁছানো যায়; নিকটতম প্রধান বিমানবন্দর চেন্নৈতে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.jpg",

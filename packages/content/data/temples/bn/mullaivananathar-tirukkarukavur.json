@@ -1,29 +1,36 @@
 {
   "id": "mullaivananathar-tirukkarukavur",
   "locale": "bn",
+  "name": "মুল্লৈবননাথর মন্দির, তিরুক্করুকাবুর",
   "nativeName": "திருக்கருகாவூர் முல்லைவனநாதர் கோயில்",
+  "deity": "শিব মুল্লৈবননাথর রূপে, দেবী গর্ভরক্ষাম্বিকাইয়ের সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, তেবারমে স্তুত",
   "location": {
-    "city": "Tirukkarukavur, near Papanasam",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্করুকাবুর, পাপনাসমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9372,
     "lng": 79.2706
   },
+  "period": "তেবারম যুগ, চোল যুগের কাঠামো সহ",
   "century": 7,
+  "dynasty": "চোল (পরবর্তী অবদান সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরী ব-দ্বীপে তিরুক্করুকাবুরে শিব মুল্লৈবননাথর রূপে পূজিত, সুগন্ধি জুঁইয়ের এক বনের প্রভু। মন্দিরটি সর্বোপরি তার দেবী গর্ভরক্ষাম্বিকাই—'যিনি গর্ভ রক্ষা করেন'—এর জন্য প্রসিদ্ধ, যাঁর কাছে তামিলনাড়ুজুড়ে গর্ভবতী মায়েরা নিরাপদ গর্ভাবস্থা ও সুস্থ সন্তানের জন্য ফেরেন। তেবারমে স্তুত একটি পাডল পেট্র স্থলম, এটি এক কোমল মানবিক উদ্বেগকে শৈব সন্তদের গভীর ভক্তিপ্রবাহের সঙ্গে যুক্ত করে।",
   "sections": {
-    "history": "Tirukkarukavur is an ancient Shaiva village-shrine in the fertile Kaveri delta near Papanasam, counted among the Paadal Petra Sthalams sung by the Tevaram saints in the seventh century. The present granite structure reflects Chola-period building and later renovation, while the sanctity of the site is far older, rooted in the Tevaram tradition. The temple's fame has grown steadily in modern times as word of the goddess's grace toward expectant mothers has spread well beyond the delta.",
-    "architecture": "The temple follows a compact Dravidian plan with a gopuram gateway, a pillared hall and the twin sanctums of Mullaivananathar and the goddess. Garbarakshambigai's shrine is the devotional centre, and the ghee and gingelly-oil offerings made there have left the walls dark and fragrant over generations. The lingam of Mullaivananathar is said to have risen amid a grove of jasmine, which gives the lord his name.",
-    "legends": "The best-known legend concerns Vedhika, the devoted wife of the sage Nidhruva. While her husband was away, a short-tempered visiting sage, angered at a delay, is said to have cursed her unborn child. Vedhika took refuge with the goddess here, who gathered the child into her own protection and kept the pregnancy safe until a healthy birth — earning the name Garbarakshambigai, guardian of the womb. From this story flows the enduring practice of expectant mothers praying here and receiving consecrated ghee and castor oil as her blessing.",
-    "festivals": "Monthly new-moon and Pradosha observances draw steady crowds, and the Tamil months bring the goddess's own festivals. Many families return after a safe delivery to give thanks, so the temple sees a continuous rhythm of vows made and vows fulfilled rather than a single great annual gathering. Mondays and the goddess's special days are the busiest.",
-    "experience": "The temple keeps the hushed, intimate feel of a delta village shrine. Pilgrims come with a particular prayer rather than as sightseers, and the air carries the scent of jasmine and lamp-oil. Receiving the consecrated ghee from the goddess's shrine, many visitors describe a quiet reassurance that is the temple's real gift."
+    "history": "তিরুক্করুকাবুর পাপনাসমের কাছে উর্বর কাবেরী ব-দ্বীপে একটি প্রাচীন শৈব গ্রাম-ক্ষেত্র, সপ্তম শতাব্দীতে তেবারম সন্তদের দ্বারা স্তুত পাডল পেট্র স্থলমগুলির মধ্যে গণ্য। বর্তমান গ্রানাইট কাঠামো চোল যুগের নির্মাণ ও পরবর্তী সংস্কার প্রতিফলিত করে, যদিও স্থানটির পবিত্রতা অনেক পুরনো, তেবারম ঐতিহ্যে প্রোথিত। গর্ভবতী মায়েদের প্রতি দেবীর কৃপার কথা ব-দ্বীপের বহু বাইরে ছড়িয়ে পড়ায় আধুনিক কালে মন্দিরের খ্যাতি ক্রমাগত বেড়েছে।",
+    "architecture": "মন্দিরটি একটি গোপুরম তোরণ, একটি স্তম্ভযুক্ত হল এবং মুল্লৈবননাথর ও দেবীর যুগল গর্ভগৃহ সহ একটি সংহত দ্রাবিড় পরিকল্পনা অনুসরণ করে। গর্ভরক্ষাম্বিকাইয়ের মন্দির ভক্তির কেন্দ্র, এবং সেখানে নিবেদিত ঘি ও তিলতেলের নৈবেদ্য প্রজন্মের পর প্রজন্ম ধরে দেয়ালকে কালো ও সুগন্ধি করে তুলেছে। মুল্লৈবননাথরের লিঙ্গ জুঁইয়ের একটি কুঞ্জের মধ্যে উত্থিত হয়েছিল বলা হয়, যা প্রভুকে তাঁর নাম দেয়।",
+    "legends": "সবচেয়ে পরিচিত কিংবদন্তি বেধিকাকে নিয়ে, ঋষি নিধ্রুবের ভক্তিমতী স্ত্রী। তাঁর স্বামী দূরে থাকাকালীন, এক ক্রোধী আগন্তুক ঋষি, বিলম্বে রুষ্ট হয়ে, তাঁর অজাত সন্তানকে অভিশাপ দিয়েছিলেন বলা হয়। বেধিকা এখানকার দেবীর কাছে আশ্রয় নিলেন, যিনি সন্তানটিকে তাঁর নিজের সুরক্ষায় নিলেন এবং সুস্থ জন্ম না হওয়া পর্যন্ত গর্ভাবস্থা নিরাপদ রাখলেন—গর্ভরক্ষাম্বিকাই, গর্ভের রক্ষাকর্ত্রী, এই নাম অর্জন করলেন। এই কাহিনি থেকেই প্রবাহিত হয় গর্ভবতী মায়েদের এখানে প্রার্থনা করা ও তাঁর আশীর্বাদ রূপে নিবেদিত ঘি ও রেড়ির তেল গ্রহণের চিরস্থায়ী প্রথা।",
+    "festivals": "মাসিক অমাবস্যা ও প্রদোষ পালন নিয়মিত ভিড় টানে, এবং তামিল মাসগুলি দেবীর নিজস্ব উৎসব আনে। অনেক পরিবার নিরাপদ প্রসবের পর কৃতজ্ঞতা জানাতে ফিরে আসেন, তাই মন্দির একটি একক মহান বার্ষিক সমাবেশের চেয়ে বরং মানত করা ও মানত পূরণের অবিচ্ছিন্ন ছন্দ দেখে। সোমবার ও দেবীর বিশেষ দিনগুলি সবচেয়ে ব্যস্ত।",
+    "experience": "মন্দিরটি একটি ব-দ্বীপ গ্রামের ক্ষেত্রের নিস্তব্ধ, অন্তরঙ্গ অনুভূতি রক্ষা করে। তীর্থযাত্রীরা পর্যটকের মতো নয় বরং একটি বিশেষ প্রার্থনা নিয়ে আসেন, এবং বাতাসে জুঁই ও প্রদীপ-তেলের সুবাস বয়। দেবীর মন্দির থেকে নিবেদিত ঘি গ্রহণ করে অনেক দর্শনার্থী এক শান্ত আশ্বাসের কথা বলেন যা মন্দিরের প্রকৃত উপহার।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkarukavur is about 10 km from Papanasam and roughly 25 km from Kumbakonam in Thanjavur district; the nearest major rail hubs are Kumbakonam and Thanjavur, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; জুতো প্রবেশদ্বারে রাখা হয়।",
+    "photography": "বাইরের গলিপথে সাধারণত ফটোগ্রাফির অনুমতি থাকলেও গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুক্করুকাবুর তাঞ্জাভুর জেলায় পাপনাসম থেকে প্রায় ১০ কিমি এবং কুম্বকোণম থেকে মোটামুটি ২৫ কিমি দূরে; নিকটতম বড় রেল কেন্দ্র হলো কুম্বকোণম ও তাঞ্জাভুর, গ্রামে পৌঁছানোর জন্য স্থানীয় বাস ও ট্যাক্সি রয়েছে।"
   }
 }

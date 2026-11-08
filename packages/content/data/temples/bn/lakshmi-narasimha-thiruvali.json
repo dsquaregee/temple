@@ -1,30 +1,37 @@
 {
   "id": "lakshmi-narasimha-thiruvali",
   "locale": "bn",
+  "name": "লক্ষ্মী নরসিংহ পেরুমাল মন্দির, তিরুবালি",
   "nativeName": "அழகிய சிங்கர் கோயில், திருவாலி–திருநகரி",
+  "deity": "বিষ্ণু তিরুবালিতে অঝগিয়সিঙ্গর (লক্ষ্মী নরসিংহ) রূপে, পাশে উপবিষ্ট লক্ষ্মীর সঙ্গে, এবং তিরুনগরিতে বেদরাজন রূপে উৎসব-মূর্তি কল্যাণ রঙ্গনাথর সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruvali (with Thirunagari), near Sirkazhi",
-    "state": "Tamil Nadu",
+    "city": "তিরুবালি (তিরুনগরি সহ), সিরকাঝির কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 11.2036,
     "lng": 79.7744
   },
+  "period": "চোল দেশের একটি দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক একত্রে গীত দুটি পার্শ্ববর্তী মন্দির",
   "century": 8,
+  "dynasty": "চোল দেশ (পরবর্তী পৃষ্ঠপোষক)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "সিরকাঝির কাছে, তিরুবালি ও তিরুনগরির যুগ্ম মন্দির একটি দিব্য দেশম গঠন করে, যেখানে নরসিংহ অঝগিয়সিঙ্গর রূপে সম্মানিত — তিরুমঙ্গৈ আলবারের স্বদেশ, যিনি এদের একত্রে গেয়েছেন।",
   "sections": {
-    "history": "Thiruvali and Thirunagari are two neighbouring villages near Sirkazhi, in the Mayiladuthurai country, and their two temples are counted together as a single Divya Desam — one of the 108 abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham — in Chola Nadu. Thirumangai Alvar praised the pair together, in 41 pasurams. Thirunagari is held to be his home country, and tradition says that his consort Kumudavalli was raised there. At Thiruvali the presiding lord is Azhagiyasingar, Lakshmi Narasimha, with the Goddess as Poornavalli, also named Amruthagadavalli. At Thirunagari stands the Vedarajan temple, whose festival image is Kalyana Ranganathar. Its antiquity is carried by the Alvar's hymns.",
-    "architecture": "The Thiruvali temple is a Dravidian shrine of the Chola country, with the Ilakshmi Pushkarini as its tank. Its sanctum is unusual among Narasimha temples: the Goddess Lakshmi is seated on the lord's right side. A south-facing shrine of Thirumangai Alvar stands outside the temple walls. At Thirunagari, the Vedarajan temple has its own shrine of the Alvar, facing north, in a raised enclosure.",
-    "legends": "Tradition tells that Narasimha appeared to Thirumangai Alvar at Thiruvali, and the shrine remembers that meeting. A second legend binds the two temples: Lakshmi is said to have left Vaikuntha and hidden herself in a lotus bud in the tank at Thirunagari. The two villages are thus held to be one story told in two places. Tradition also remembers Thirunagari as the place where Kumudavalli, the Alvar's consort, grew up.",
-    "festivals": "The most prominent festival is the Thirumangai Alvar Utsavam in the month of Thai (January–February), when the Alvar is honoured at both temples. A Garuda Sevai is also observed in January. The temples keep four daily rituals and three yearly festivals.",
-    "experience": "Plan to visit both temples, close together, since they are one Divya Desam. At Thiruvali look for Lakshmi seated beside Narasimha; at Thirunagari seek out the Alvar's shrine and the Vedarajan sanctum. The visit pairs well with the nearby Sirkazhi temples."
+    "history": "তিরুবালি ও তিরুনগরি সিরকাঝির কাছে মায়িলাডুথুরৈ দেশে দুটি পার্শ্ববর্তী গ্রাম, এবং তাদের দুটি মন্দির একত্রে একটি একক দিব্য দেশম হিসেবে গণ্য — আলবার সন্তদের দ্বারা নালায়ির দিব্য প্রবন্ধমে গীত ১০৮টি বিষ্ণু-আবাসের একটি — চোল নাড়ুতে। তিরুমঙ্গৈ আলবার যুগলটিকে একত্রে ৪১টি পাশুরমে প্রশংসা করেছেন। তিরুনগরি তাঁর স্বদেশ বলে ধরা হয়, এবং ঐতিহ্য বলে তাঁর সঙ্গিনী কুমুদবল্লী সেখানে বড় হয়েছিলেন। তিরুবালিতে অধিষ্ঠাতা প্রভু অঝগিয়সিঙ্গর, লক্ষ্মী নরসিংহ, দেবী পূর্ণবল্লীর সঙ্গে, যিনি অমৃতগডবল্লী নামেও পরিচিত। তিরুনগরিতে দাঁড়িয়ে বেদরাজন মন্দির, যার উৎসব-মূর্তি কল্যাণ রঙ্গনাথর। এর প্রাচীনত্ব আলবারের স্তোত্র বহন করে।",
+    "architecture": "তিরুবালি মন্দির চোল দেশের একটি দ্রাবিড় মন্দির, ইলক্ষ্মী পুষ্করিণী তার পুষ্করিণী হিসেবে। এর গর্ভগৃহ নরসিংহ মন্দিরগুলির মধ্যে অস্বাভাবিক: দেবী লক্ষ্মী প্রভুর ডান পাশে উপবিষ্টা। তিরুমঙ্গৈ আলবারের একটি দক্ষিণমুখী মন্দির মন্দির-প্রাচীরের বাইরে দাঁড়িয়ে। তিরুনগরিতে বেদরাজন মন্দিরে আলবারের নিজস্ব মন্দির আছে, উত্তরমুখী, একটি উঁচু ঘেরে।",
+    "legends": "ঐতিহ্য বলে যে নরসিংহ তিরুবালিতে তিরুমঙ্গৈ আলবারের কাছে আবির্ভূত হয়েছিলেন, এবং মন্দিরটি সেই সাক্ষাৎ স্মরণ করে। একটি দ্বিতীয় কিংবদন্তি দুটি মন্দিরকে বাঁধে: লক্ষ্মী বৈকুণ্ঠ ত্যাগ করে তিরুনগরির পুষ্করিণীতে একটি পদ্মকুঁড়ির মধ্যে নিজেকে লুকিয়ে রেখেছিলেন বলে কথিত। তাই দুটি গ্রামকে দুই স্থানে বলা একটি কাহিনি বলে ধরা হয়। ঐতিহ্য আরও তিরুনগরিকে সেই স্থান হিসেবে স্মরণ করে যেখানে আলবারের সঙ্গিনী কুমুদবল্লী বড় হয়েছিলেন।",
+    "festivals": "সবচেয়ে উল্লেখযোগ্য উৎসব হল তৈ মাসের (জানুয়ারি–ফেব্রুয়ারি) তিরুমঙ্গৈ আলবার উৎসবম, যখন উভয় মন্দিরে আলবার সম্মানিত হন। জানুয়ারিতে একটি গরুড় সেবৈও পালিত হয়। মন্দিরগুলি চারটি দৈনিক রীতি ও তিনটি বার্ষিক উৎসব পালন করে।",
+    "experience": "উভয় মন্দির দর্শনের পরিকল্পনা করুন, যা কাছাকাছি, কারণ তারা একটি দিব্য দেশম। তিরুবালিতে নরসিংহের পাশে উপবিষ্ট লক্ষ্মীকে খুঁজুন; তিরুনগরিতে আলবারের মন্দির ও বেদরাজন গর্ভগৃহ খুঁজে নিন। দর্শনটি কাছের সিরকাঝির মন্দিরগুলির সঙ্গে ভালো মেলে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvali and Thirunagari lie close together near Sirkazhi in Mayiladuthurai district, reached by road from Sirkazhi. Sirkazhi, on the Chennai–Mayiladuthurai rail line, is the nearest station; the nearest major airport is Tiruchirappalli, about 160 km away."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন অধিবেশন ও মধ্যাহ্ন বিরতি সহ খোলা; যাওয়ার আগে বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "তিরুবালি ও তিরুনগরি মায়িলাডুথুরৈ জেলায় সিরকাঝির কাছে পরস্পরের নিকটে অবস্থিত, সিরকাঝি থেকে সড়কপথে পৌঁছানো যায়। চেন্নাই–মায়িলাডুথুরৈ রেলপথে সিরকাঝি নিকটতম স্টেশন; নিকটতম প্রধান বিমানবন্দর তিরুচিরাপল্লী, প্রায় ১৬০ কিলোমিটার দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/lakshmi-narasimha-thiruvali.jpg",

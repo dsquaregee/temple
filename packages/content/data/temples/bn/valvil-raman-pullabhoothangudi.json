@@ -1,30 +1,37 @@
 {
   "id": "valvil-raman-pullabhoothangudi",
   "locale": "bn",
+  "name": "ভল্বিল রামর মন্দির, তিরুপ্পুল্লভূতঙ্গুডি",
   "nativeName": "வல்வில் ராமர் கோயில், திருப்புள்ளம்பூதங்குடி",
+  "deity": "বিষ্ণু ভল্বিল রামর রূপে — পরাক্রমী ধনুর্ধারী রাম — শয়ানরূপে, দেবী পোত্রামরৈয়াল সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirupullabhoothangudi",
-    "state": "Tamil Nadu",
+    "city": "তিরুপ্পুল্লভূতঙ্গুডি",
+    "state": "তামিলনাড়ু",
     "lat": 10.971,
     "lng": 79.303
   },
+  "period": "কুম্বকোণমের কাছে চোল অঞ্চলের একটি দিব্যদেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আৎবার কর্তৃক কীর্তিত",
   "century": 8,
+  "dynasty": "মধ্যযুগীয় চোল, পরবর্তী সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "কুম্বকোণমের কাছে তিরুপ্পুল্লভূতঙ্গুডিতে রাম ভল্বিল রামর রূপে শয়ান, যেখানে ঐতিহ্য অনুসারে তিনি ঈগল জটায়ুর অন্ত্যেষ্টিক্রিয়া সম্পন্ন করেছিলেন — তিরুমঙ্গৈ আৎবার কর্তৃক কীর্তিত চোল নাড়ুর একটি দিব্যদেশম।",
   "sections": {
-    "history": "Thirupullabhoothangudi is a small village near Swamimalai, a short distance from Kumbakonam, and its temple is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham. It belongs to Chola Nadu, the Kaveri country so densely sown with Vaishnava shrines. Here Vishnu is worshipped as Valvil Ramar — Rama of the strong bow — with the Goddess Potramaraiyal, 'she of the golden lotus'. Thirumangai Alvar sang the shrine in his Periya Thirumozhi, recalling the story that gives the village its name. The temple is believed to have been built by the Medieval Cholas, with additions by later rulers.",
-    "architecture": "The temple is laid out in the Dravidian manner of the Chola delta, its sanctum crowned by the Shobhana Vimana. Within, Rama lies in the bhujanga sayanam posture, reclining and facing east — a form so unusual that devotees speak of this as the one Perumal temple where Rama is seen at rest rather than standing with his bow. The Goddess has her own shrine; the temple tank, the Jatayu Theertham, is named for the bird-king of the legend, and the punnai is the sacred tree.",
-    "legends": "The sthala purana follows the Ramayana. After the eagle-king Jatayu fell fighting Ravana to save Sita, Rama and Lakshmana found him dying, and Rama himself performed his funeral rites here, honouring the bird as a father. The village name is linked to the episode — 'pul' is the Tamil word for bird. As Sita was not with him then, tradition says, the Goddess Lakshmi rose from the golden lotus of the temple tank to stand beside Rama for the rites, and so she is worshipped as Potramaraiyal.",
-    "festivals": "Vaikunta Ekadashi in Margazhi (December–January) and Rama Navami in spring are natural occasions for a visit to this shrine of Rama. Festival days follow the Sri Vaishnava calendar and shift from year to year, so check with the temple before planning a visit.",
-    "experience": "This is an intimate temple, and the reclining Rama is its revelation: come expecting the archer and find instead a lord at rest. Spend a moment at the Jatayu Theertham, where a story of loyalty unto death is remembered. Thirupullabhoothangudi lies close to the Divya Desam of Thiruaadhanur and to Swamimalai, so the three are easily visited together from Kumbakonam."
+    "history": "তিরুপ্পুল্লভূতঙ্গুডি স্বামিমালৈর কাছের একটি ছোট গ্রাম, কুম্বকোণম থেকে অল্প দূরে, এবং এর মন্দিরটি ১০৮টি দিব্যদেশমের একটি, নালায়িরা দিব্য প্রবন্ধমে আৎবারদের কর্তৃক কীর্তিত বিষ্ণুর আবাসস্থলসমূহের একটি। এটি চোল নাড়ুর অন্তর্গত, কাবেরী অঞ্চল, যা বৈষ্ণব মন্দিরে এত নিবিড়ভাবে পরিপূর্ণ। এখানে বিষ্ণুকে ভল্বিল রামর রূপে পূজা করা হয় — দৃঢ় ধনুর্ধারী রাম — দেবী পোত্রামরৈয়াল সহ, 'সুবর্ণ পদ্মের অধিকারিণী'। তিরুমঙ্গৈ আৎবার তাঁর পেরিয় তিরুমৌৎবিতে এই মন্দিরটি গেয়েছিলেন, গ্রামটিকে নাম দেওয়া সেই কাহিনি স্মরণ করে। মন্দিরটি মধ্যযুগীয় চোলদের দ্বারা নির্মিত বলে বিশ্বাস করা হয়, পরবর্তী শাসকদের সংযোজনসহ।",
+    "architecture": "মন্দিরটি চোল ব-দ্বীপের দ্রাবিড় রীতিতে বিন্যস্ত, এর গর্ভগৃহ শোভন বিমানে মুকুটিত। ভিতরে রাম ভুজঙ্গ শয়নম ভঙ্গিতে শয়ান, পূর্বমুখী হয়ে বিশ্রামরত — একটি রূপ এত অস্বাভাবিক যে ভক্তরা একে সেই একমাত্র পেরুমাল মন্দির বলেন যেখানে রামকে ধনুক হাতে দাঁড়িয়ে থাকার বদলে বিশ্রামে দেখা যায়। দেবীর নিজের মন্দির আছে; মন্দির-পুষ্করিণী, জটায়ু তীর্থম, কিংবদন্তির পক্ষী-রাজের নামে নামাঙ্কিত, এবং পুন্নৈ হল পবিত্র বৃক্ষ।",
+    "legends": "স্থল-পুরাণ রামায়ণ অনুসরণ করে। সীতাকে রক্ষা করতে রাবণের সঙ্গে যুদ্ধ করে ঈগল-রাজ জটায়ু পতিত হওয়ার পর রাম ও লক্ষ্মণ তাঁকে মুমূর্ষু অবস্থায় পান, এবং রাম নিজে এখানে তাঁর অন্ত্যেষ্টিক্রিয়া সম্পন্ন করেন, পক্ষীটিকে পিতার মতো সম্মান দিয়ে। গ্রামের নামটি এই ঘটনার সঙ্গে যুক্ত — 'পুল' হল পাখির তামিল শব্দ। সীতা তখন তাঁর সঙ্গে ছিলেন না বলে, ঐতিহ্য বলে, দেবী লক্ষ্মী ক্রিয়াকর্মের জন্য রামের পাশে দাঁড়াতে মন্দির-পুষ্করিণীর সুবর্ণ পদ্ম থেকে উদিত হন, এবং সেইজন্য তাঁকে পোত্রামরৈয়াল রূপে পূজা করা হয়।",
+    "festivals": "মার্গৈৎবিতে (ডিসেম্বর–জানুয়ারি) বৈকুণ্ঠ একাদশী এবং বসন্তে রাম নবমী হল রামের এই মন্দিরে দর্শনের স্বাভাবিক উপলক্ষ। উৎসবের দিনগুলি শ্রী বৈষ্ণব পঞ্জিকা অনুসরণ করে এবং বছরে বছরে বদলায়, তাই দর্শনের পরিকল্পনার আগে মন্দিরে খোঁজ নিন।",
+    "experience": "এটি একটি অন্তরঙ্গ মন্দির, এবং শয়ান রাম এর উদ্ঘাটন: ধনুর্ধারীর প্রত্যাশায় আসুন এবং বিশ্রামরত এক ভগবানকে খুঁজে পান। জটায়ু তীর্থমে একটি মুহূর্ত কাটান, যেখানে মৃত্যুপর্যন্ত আনুগত্যের এক কাহিনি স্মরণ করা হয়। তিরুপ্পুল্লভূতঙ্গুডি তিরুআধনূরের দিব্যদেশম এবং স্বামিমালৈর কাছে, তাই কুম্বকোণম থেকে তিনটিই সহজে একসঙ্গে দর্শন করা যায়।"
   },
   "visit": {
-    "timings": "Open daily for morning and evening darshan, with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is removed before entering. Follow posted rules and the guidance of the priests.",
-    "photography": "Photography is restricted in and around the sanctum; follow posted rules and the guidance of the priests.",
-    "gettingThere": "Thirupullabhoothangudi is a village near Swamimalai in Thanjavur district, about 10 km from Kumbakonam by road. Kumbakonam has the nearest railway station; Tiruchirappalli has the nearest airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনের জন্য খোলা, মধ্যাহ্নে বন্ধের সঙ্গে; উৎসবের দিন সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ফটোগ্রাফি নিয়ন্ত্রিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুপ্পুল্লভূতঙ্গুডি তাঞ্জাবুর জেলায় স্বামিমালৈর কাছের একটি গ্রাম, কুম্বকোণম থেকে সড়কপথে প্রায় ১০ কিমি। নিকটতম রেলস্টেশন কুম্বকোণম; নিকটতম বিমানবন্দর তিরুচিরাপল্লী।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/valvil-raman-pullabhoothangudi.jpg",

@@ -1,29 +1,36 @@
 {
   "id": "abhimukteswarar-tirupperuvelur",
   "locale": "bn",
+  "name": "অভিমুক্তেশ্বরর মন্দির, তিরুপ্পেরুবেলুর",
   "nativeName": "திருப்பெருவேளூர் அபிமுக்தீஸ்வரர் கோயில்",
+  "deity": "অভিমুক্তেশ্বরর (প্রিয়নাথর) রূপে শিব, দেবী ভাগম্প্রিয়াল-এর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tirupperuvelur (Manakkal Ayyampettai)",
-    "state": "Tamil Nadu",
+    "city": "তিরুপ্পেরুবেলুর (মানক্কল আইয়াম্পেট্টৈ)",
+    "state": "তামিলনাড়ু",
     "lat": 10.82,
     "lng": 79.56
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুপ্পেরুবেলুর, তিরুবারুরের কাছে মানক্কল আইয়াম্পেট্টৈ-তে, শিবকে অভিমুক্তেশ্বরর—প্রিয়নাথর—রূপে দেবী ভাগম্প্রিয়াল-এর সঙ্গে সম্মান করে। তিরুজ্ঞান সম্বন্দর ও অপ্পর-স্তুত একটি পাডল পেট্র স্থলম, এটি তিরুবারুর বদ্বীপের একটি নিরিবিলি তীর্থ।",
   "sections": {
-    "history": "Tirupperuvelur, at Manakkal Ayyampettai about 10 km from Tiruvarur and 30 km from Kumbakonam, is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar and Appar (Tirunavukkarasar). Its historical name is Tirupperuvelur; it stands among the Shiva shrines of the Tiruvarur delta, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Abhimukteswarar — also Avimukteswarar, Priyanathar — in the sanctum, with the goddess Baagampriyal (also named Niraikonda Nayaki) in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram keep the form of the Shiva temples of the Tiruvarur country.",
-    "legends": "Shiva is worshipped here as Abhimukteswarar — Avimukteswarar, 'the never-forsaking lord' — and as Priyanathar, 'the beloved lord'; the goddess is Baagampriyal, who shares the lord's half. As with many delta shrines, the fuller sthala purana survives chiefly in local tradition and the Tevaram verses of Sambandar and Appar.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims of the Tiruvarur delta include Tirupperuvelur among their stops.",
-    "experience": "At Tirupperuvelur the pilgrim comes to a quiet shrine of the never-forsaking lord. Before Abhimukteswarar and Baagampriyal, in the green Tiruvarur country, the visitor finds the unhurried grace of a Tevaram temple of the delta."
+    "history": "তিরুপ্পেরুবেলুর, তিরুবারুর থেকে প্রায় ১০ কিমি এবং কুম্বকোনম থেকে ৩০ কিমি দূরে মানক্কল আইয়াম্পেট্টৈ-তে, একটি পাডল পেট্র স্থলম, তিরুজ্ঞান সম্বন্দর ও অপ্পর (তিরুনাবুক্করসর) কর্তৃক তেবারমে স্তুত। এর ঐতিহাসিক নাম তিরুপ্পেরুবেলুর; এটি তিরুবারুর বদ্বীপের শিব তীর্থগুলির মধ্যে স্থান পায়, এবং পাথরের মন্দিরটি চোল যুগ ও পরবর্তী সময়ের।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এই তীর্থে গর্ভগৃহে অভিমুক্তেশ্বরর—যিনি অবিমুক্তেশ্বরর, প্রিয়নাথরও—অধিষ্ঠিত, দেবী ভাগম্প্রিয়াল (নিরৈকোণ্ড নায়কী নামেও) তাঁর নিজস্ব গর্ভগৃহে, একটি নন্দী ও প্রাকারের চারপাশে পরিবার দেবতাদের সঙ্গে। প্রাচীরঘেরা প্রাঙ্গণ ও বিনম্র গোপুর তিরুবারুর দেশের শিবমন্দিরগুলির রূপ ধরে রাখে।",
+    "legends": "এখানে শিব অভিমুক্তেশ্বরর—অবিমুক্তেশ্বরর, 'কখনো পরিত্যাগ না করা প্রভু'—এবং প্রিয়নাথর, 'প্রিয় প্রভু'—রূপে পূজিত; দেবী ভাগম্প্রিয়াল, যিনি প্রভুর অর্ধাঙ্গ ভাগ করেন। অনেক বদ্বীপ তীর্থের মতোই, বিস্তারিত স্থল পুরাণ মূলত স্থানীয় ঐতিহ্যে এবং সম্বন্দর ও অপ্পরের তেবারম পদে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি মাসে মহাশিবরাত্রি (ফেব্রুয়ারি–মার্চ), পুরট্টাসি মাসে নবরাত্রি (সেপ্টেম্বর–অক্টোবর) ও কার্তিকৈ-এর সোমবারগুলি, প্রদোষ পূজা সহ, একটি গ্রাম্য তীর্থের নিরিবিলি পরিসরে পালন করে। তিরুবারুর বদ্বীপের তীর্থযাত্রীরা তাঁদের বিরতিস্থলের মধ্যে তিরুপ্পেরুবেলুরকে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুপ্পেরুবেলুরে তীর্থযাত্রী কখনো পরিত্যাগ না করা প্রভুর এক নিরিবিলি তীর্থে আসেন। সবুজ তিরুবারুর দেশে অভিমুক্তেশ্বরর ও ভাগম্প্রিয়াল-এর সামনে, পরিদর্শক বদ্বীপের এক তেবারম মন্দিরের তাড়াহুড়োহীন কৃপা খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirupperuvelur is at Manakkal Ayyampettai, about 10 km from Tiruvarur and 30 km from Kumbakonam, in Tiruvarur district. Tiruvarur is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার অপরাহ্ণ থেকে সন্ধ্যা পর্যন্ত খোলা; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "সাধারণত বাইরের বারান্দায় ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুপ্পেরুবেলুর মানক্কল আইয়াম্পেট্টৈ-তে, তিরুবারুর থেকে প্রায় ১০ কিমি এবং কুম্বকোনম থেকে ৩০ কিমি দূরে, তিরুবারুর জেলায়। তিরুবারুর নিকটতম শহর ও রেলস্টেশন, গ্রামে বাস ও ট্যাক্সি সহ।"
   }
 }

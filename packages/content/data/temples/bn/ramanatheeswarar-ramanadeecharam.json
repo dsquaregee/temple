@@ -1,29 +1,36 @@
 {
   "id": "ramanatheeswarar-ramanadeecharam",
   "locale": "bn",
+  "name": "রামনাথীশ্বরর মন্দির, রামনাদীচারম",
   "nativeName": "இராமநாதீச்சரம் ராமநாதேஸ்வரர் கோயில்",
+  "deity": "শিব রামনাথেশ্বরর (রামলিঙ্গেশ্বরর) রূপে, দেবী সরিবর কুড়লি সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Ramanadeecharam, at Thirukkannapuram near Nannilam",
-    "state": "Tamil Nadu",
+    "city": "রামনাদীচারম, নান্নিলমের কাছে তিরুক্কণ্ণপুরমে",
+    "state": "তামিলনাড়ু",
     "lat": 10.85,
     "lng": 79.68
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তবগান); পরবর্তী চোল সৌধ-মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "রামনাদীচারম, নান্নিলমের কাছে তিরুক্কণ্ণপুরমের এক ছোট মন্দির, শিবকে রামনাথেশ্বরর—রামলিঙ্গেশ্বরর—রূপে সম্মান জানায়, দেবী সরিবর কুড়লি সহ। তিরুজ্ঞান সম্বন্দর কর্তৃক স্তবগীত একটি পাডল পেট্র স্থলম, এটি কাবেরীর দক্ষিণ তীরে নিজের নিভৃত স্থান ধরে রাখে, সেই মহান মন্দিরগুলি থেকে দূরে যারা এর প্রভুর নাম ভাগ করে নেয়।",
   "sections": {
-    "history": "Ramanadeecharam, whose historical name is Tiruramanatheechuram, lies at Thirukkannapuram, about 10 km from Nannilam and some 3 km from Thiruchengattangudi, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted among the Shiva shrines on the southern bank of the Kaveri. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Ramanatheswarar — also Ramalingeswarar — in the sanctum, with the goddess Sarivar Kuzhali (also Soodikaambal) in her own shrine, a Nandi and the parivara devatas. The walled courtyard and modest gopuram keep the form of the Shiva temples of the Nannilam delta.",
-    "legends": "Shiva is worshipped here as Ramanatheswarar, the Ramalingeswarar, 'the lord of Rama's linga.' The goddess is Sarivar Kuzhali. This is a small, separate shrine, not to be confused with the great jyotirlinga of Ramanathaswamy at Rameswaram, nor with the Vishnu Divya Desam Sowriraja temple that shares the village of Thirukkannapuram; here the Tevaram praise is Sambandar's alone. As with many delta shrines, the fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Nannilam stretch of the Paadal Petra temples include Ramanadeecharam among their stops.",
-    "experience": "At Ramanadeecharam the pilgrim comes to a small shrine of the Ramalingeswarar. Before Ramanatheswarar and Sarivar Kuzhali, in the green Nannilam delta, the visitor finds the unhurried grace of a Tevaram temple, far from the crowds of the great shrines that share its lord's name."
+    "history": "রামনাদীচারম, যার ঐতিহাসিক নাম তিরুরামনাথীচুরম, অবস্থিত তিরুক্কণ্ণপুরমে, নান্নিলম থেকে প্রায় ১০ কিমি এবং তিরুচেঙ্গাট্টাংগুডি থেকে প্রায় ৩ কিমি দূরে, তিরুবারুর জেলায়। এটি একটি পাডল পেট্র স্থলম, তিরুজ্ঞান সম্বন্দর কর্তৃক তেবারমে স্তবগীত, কাবেরীর দক্ষিণ তীরের শিব-মন্দিরগুলির মধ্যে গণিত। পাথরের মন্দিরটি চোল যুগের ও তৎপরবর্তী।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ-মন্দির, এই পীঠ গর্ভগৃহে রামনাথেশ্বররকে—রামলিঙ্গেশ্বররকেও—প্রতিষ্ঠিত করে, দেবী সরিবর কুড়লি (সূডিকাম্বালও) তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার-দেবতাসহ। প্রাচীরঘেরা প্রাঙ্গণ ও বিনম্র গোপুরম নান্নিলম বদ্বীপের শিব-মন্দিরগুলির রূপ ধরে রাখে।",
+    "legends": "এখানে শিব পূজিত হন রামনাথেশ্বরর, রামলিঙ্গেশ্বরর, অর্থাৎ 'রামের লিঙ্গের প্রভু' রূপে। দেবী হলেন সরিবর কুড়লি। এটি একটি ছোট, পৃথক মন্দির, রামেশ্বরমের রামনাথস্বামীর মহান জ্যোতির্লিঙ্গের সঙ্গে গুলিয়ে ফেলা উচিত নয়, তিরুক্কণ্ণপুরম গ্রাম ভাগ করে নেওয়া বিষ্ণুর দিব্য দেশম সৌরিরাজ মন্দিরের সঙ্গেও নয়; এখানে তেবারম-স্তব কেবল সম্বন্দরের। বহু বদ্বীপ-মন্দিরের মতোই, পূর্ণতর স্থল-পুরাণ স্থানীয় পরম্পরায় ও তেবারম শ্লোকে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি, এবং কার্তিকের সোমবারগুলি প্রদোষ পূজাসহ পালন করে, এক গ্রাম-মন্দিরের নিভৃত মাত্রায়। পাডল পেট্র মন্দিরের নান্নিলম অংশে তীর্থযাত্রীরা তাঁদের বিরতিস্থানের মধ্যে রামনাদীচারমকে রাখেন।",
+    "experience": "রামনাদীচারমে তীর্থযাত্রী আসেন রামলিঙ্গেশ্বররের এক ছোট মন্দিরে। সবুজ নান্নিলম বদ্বীপে রামনাথেশ্বরর ও সরিবর কুড়লির সামনে, দর্শনার্থী এক তেবারম মন্দিরের অবিচলিত শান্ত মাধুর্য খুঁজে পান, সেই মহান মন্দিরগুলির ভিড় থেকে দূরে যারা এর প্রভুর নাম ভাগ করে নেয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Ramanadeecharam is at Thirukkannapuram, about 10 km from Nannilam and 3 km from Thiruchengattangudi, in Tiruvarur district. Nannilam and Tiruvarur are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময় স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "বিনম্র পরম্পরাগত পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; জুতো প্রবেশপথে রাখা হয়।",
+    "photography": "বাইরের করিডরে সাধারণত আলোকচিত্র অনুমোদিত কিন্তু গর্ভগৃহের ভিতরে নয়; আচার আলোকচিত্রের আগে মন্দিরকর্মীদের জিজ্ঞেস করুন।",
+    "gettingThere": "রামনাদীচারম তিরুক্কণ্ণপুরমে অবস্থিত, নান্নিলম থেকে প্রায় ১০ কিমি এবং তিরুচেঙ্গাট্টাংগুডি থেকে ৩ কিমি দূরে, তিরুবারুর জেলায়। নান্নিলম ও তিরুবারুর নিকটতম শহর ও রেলস্টেশন, গ্রামে বাস ও ট্যাক্সি পাওয়া যায়।"
   }
 }

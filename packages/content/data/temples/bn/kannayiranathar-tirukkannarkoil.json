@@ -1,29 +1,36 @@
 {
   "id": "kannayiranathar-tirukkannarkoil",
   "locale": "bn",
+  "name": "কণ্ণায়িরনাথর মন্দির, তিরুক্কণ্ণারকোইল",
   "nativeName": "திருக்கண்ணார்கோயில் கண்ணாயிரநாதர் கோயில்",
+  "deity": "শিব কণ্ণায়িরনাথর (কণ্ণায়িরম উডৈয়ার) রূপে, দেবী মুরুগু বলর কোথৈ নায়কীর (কোথৈ নায়কী) সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Kurumanakkudi, near Vaitheeswaran Koil",
-    "state": "Tamil Nadu",
+    "city": "কুরুমানাক্কুড়ি, বৈথীশ্বরন কোইলের নিকট",
+    "state": "তামিলনাড়ু",
     "lat": 11.17,
     "lng": 79.73
   },
+  "period": "তেবারম যুগ (৭ম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুরুমানাক্কুড়ি, তিরুক্কণ্ণারকোইল বা কণ্ণারকোভিল নামেও পরিচিত, মায়িলাডুতুরৈ অঞ্চলে বৈথীশ্বরন কোইলের নিকট, শিবকে কণ্ণায়িরনাথর — কণ্ণায়িরম উডৈয়ার — রূপে সম্মান করে, দেবী মুরুগু বলর কোথৈ নায়কীর সঙ্গে। তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত এই পাডল পেট্র স্থলম উত্তর কাবেরী ব-দ্বীপের এক শান্ত মন্দির।",
   "sections": {
-    "history": "Kurumanakkudi — Tirukkannarkoil, also Kannarkovil — lies about 5 km from Vaitheeswaran Koil and 8 km from Sirkazhi, in Tarangambadi taluk of Mayiladuthurai district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted among the Shiva shrines on the northern bank of the Kaveri. The stone temple is of the Chola period and later. (Older listings give the district as Nagapattinam, from which Mayiladuthurai was later carved out.)",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Kannayiranathar — Kannayiram Udayar — in the sanctum, with the goddess Murugu Valar Kothai Nayaki (also Kothai Nayaki, Sugandha Kundalambikai) in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram are typical of the Shiva temples of the northern delta near Sirkazhi.",
-    "legends": "Shiva is worshipped here as Kannayiranathar — Kannayiram Udayar, 'the lord of the thousand eyes' — a name that echoes the story of Indra of the thousand eyes, who by tradition worshipped at the delta shrines. The goddess is praised as Murugu Valar Kothai Nayaki, 'she whose garland breathes fragrance,' and as Sugandha Kundalambikai. As with many smaller delta shrines, the fuller sthala purana survives chiefly in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Vaitheeswaran Koil–Sirkazhi stretch of the northern Kaveri include Tirukkannarkoil among their stops.",
-    "experience": "At Tirukkannarkoil the pilgrim comes to a quiet shrine of the thousand-eyed lord. Before Kannayiranathar and Murugu Valar Kothai Nayaki, in the green country near Vaitheeswaran Koil, the visitor finds the unhurried grace of a Tevaram temple of the northern Kaveri delta."
+    "history": "কুরুমানাক্কুড়ি — তিরুক্কণ্ণারকোইল, কণ্ণারকোভিলও — বৈথীশ্বরন কোইল থেকে প্রায় ৫ কিমি এবং সিরকাজি থেকে ৮ কিমি দূরে, মায়িলাডুতুরৈ জেলার তারঙ্গম্বাড়ি তালুকে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত, কাবেরীর উত্তর তীরের শিব মন্দিরগুলির মধ্যে গণ্য। পাথরের মন্দিরটি চোল যুগের ও পরবর্তী। (পুরনো তালিকায় জেলা নাগাপট্টিনম হিসেবে উল্লেখ, যা থেকে মায়িলাডুতুরৈ পরে গঠিত হয়েছিল।)",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, গর্ভগৃহে কণ্ণায়িরনাথর — কণ্ণায়িরম উডৈয়ার — কে প্রতিষ্ঠিত করে, দেবী মুরুগু বলর কোথৈ নায়কী (কোথৈ নায়কী, সুগন্ধ কুণ্ডলাম্বিকৈও) তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও প্রাকার ঘিরে পরিবার দেবতাসহ। প্রাচীরঘেরা প্রাঙ্গণ ও সাদামাটা গোপুরম সিরকাজির নিকট উত্তর ব-দ্বীপের শিব মন্দিরগুলির বৈশিষ্ট্যসূচক।",
+    "legends": "শিব এখানে কণ্ণায়িরনাথর — কণ্ণায়িরম উডৈয়ার, 'সহস্র চক্ষুর প্রভু' — রূপে পূজিত, এক নাম যা সহস্রচক্ষু ইন্দ্রের কাহিনী প্রতিধ্বনিত করে, যিনি ঐতিহ্য অনুসারে ব-দ্বীপ মন্দিরগুলিতে পূজা করেছিলেন। দেবী মুরুগু বলর কোথৈ নায়কী, 'যাঁর মালা সুগন্ধ নিঃশ্বাস ফেলে,' এবং সুগন্ধ কুণ্ডলাম্বিকৈ রূপে বন্দিত। বহু ছোট ব-দ্বীপ মন্দিরের মতো, পূর্ণাঙ্গ স্থল পুরাণ মূলত স্থানীয় ঐতিহ্য ও সম্বন্দরের শ্লোকে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহা শিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈয়ের সোমবারগুলি পালন করে, প্রদোষ পূজাসহ, এক গ্রাম্য মন্দিরের শান্ত পরিসরে। উত্তর কাবেরীর বৈথীশ্বরন কোইল–সিরকাজি পথের তীর্থযাত্রীরা তিরুক্কণ্ণারকোইলকে তাঁদের বিরতির অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুক্কণ্ণারকোইলে তীর্থযাত্রী সহস্রচক্ষু প্রভুর এক শান্ত মন্দিরে আসেন। বৈথীশ্বরন কোইলের নিকট সবুজ অঞ্চলে কণ্ণায়িরনাথর ও মুরুগু বলর কোথৈ নায়কীর সম্মুখে, দর্শনার্থী উত্তর কাবেরী ব-দ্বীপের এক তেবারম মন্দিরের ধীর মাধুর্য খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kurumanakkudi (Tirukkannarkoil) lies about 5 km from Vaitheeswaran Koil and 8 km from Sirkazhi, in Tarangambadi taluk of Mayiladuthurai district; a signposted branch road off the Vaitheeswarankoil–Mayiladuthurai route leads to it. Vaitheeswaran Koil and Sirkazhi are the nearest rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং পুনরায় বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশদ্বারে জুতো খুলে রাখতে হয়।",
+    "photography": "বাইরের বারান্দায় সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কুরুমানাক্কুড়ি (তিরুক্কণ্ণারকোইল) বৈথীশ্বরন কোইল থেকে প্রায় ৫ কিমি এবং সিরকাজি থেকে ৮ কিমি দূরে, মায়িলাডুতুরৈ জেলার তারঙ্গম্বাড়ি তালুকে; বৈথীশ্বরনকোইল–মায়িলাডুতুরৈ পথ থেকে একটি নির্দেশিকাযুক্ত শাখা সড়ক এতে পৌঁছায়। বৈথীশ্বরন কোইল ও সিরকাজি নিকটতম রেলস্টেশন, গ্রামে যাওয়ার জন্য বাস ও ট্যাক্সিসহ।"
   }
 }

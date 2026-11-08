@@ -1,30 +1,37 @@
 {
   "id": "vamana-thrikkakara",
   "locale": "bn",
+  "name": "বামনমূর্তি মন্দির, তৃক্কাক্কর",
   "nativeName": "തൃക്കാക്കര വാമനമൂർത്തി ക്ഷേത്രം",
+  "deity": "বিষ্ণু বামন রূপে, বামন অবতার — স্তোত্রে তিরুক্কাট্করৈর 'আপ্পন' — শ্রী বৈষ্ণব ঐতিহ্যে দেবী পেরুঞ্চেল্বনায়কী সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thrikkakara, Kochi",
-    "state": "Kerala",
+    "city": "তৃক্কাক্কর, কোচি",
+    "state": "কেরালা",
     "lat": 10.034,
     "lng": 76.329
   },
+  "period": "মলৈ নাড়ুর একটি দিব্যদেশম, নালায়িরা দিব্য প্রবন্ধমে নম্মাৎবার কর্তৃক কীর্তিত এবং ওণমের আবাসস্থল রূপে স্মরণীয়",
   "century": 8,
+  "dynasty": "চের পেরুমাল (১০ম–১৩শ শতাব্দীর শিলালিপি)",
+  "style": "কেরালা",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "কোচির তৃক্কাক্করে বিষ্ণুকে বামন রূপে পূজা করা হয়, সেই বামন যিনি রাজা মহাবলিকে বিনীত করেছিলেন — নম্মাৎবার কর্তৃক কীর্তিত মলৈ নাড়ুর একটি দিব্যদেশম, এবং কেরালার ওণম উৎসবের সঙ্গে সবচেয়ে ঘনিষ্ঠভাবে যুক্ত মন্দির।",
   "sections": {
-    "history": "Thrikkakara, now within the city of Kochi, is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and is counted among the shrines of Malai Nadu; Nammalvar sang its lord as the Appan of Thirukkatkarai. It is one of the few temples in India whose presiding deity is Vamana, the dwarf avatara. Around eighteen stone inscriptions from the tenth to the thirteenth centuries, the age of the Chera Perumals, have been found here, and they tell of chieftains gathering at Thrikkakara to honour the king during Onam — then a festival of many days. The shrine itself may well be older than its earliest records.",
-    "architecture": "The temple is built in the Kerala manner: a sanctum (srikovil) beneath sloping roofs, enclosed by the nalambalam cloister, with a tall flagstaff on the approach and a broad compound where the Onam crowds gather. Close by stands a shrine of Shiva. The old stone inscriptions, cut in the Vattezhuthu script of medieval Kerala, are a quiet treasure of the precinct and one of the region's important records of the Chera age.",
-    "legends": "The puranas tell how the generous asura king Mahabali, ruler of the three worlds, was approached by Vamana, a dwarf brahmin boy, who asked for three paces of land. When the gift was granted, Vamana grew to cosmic size, measuring earth and sky in two strides, and for the third Mahabali offered his own head. Kerala tradition places Mahabali's realm at Thrikkakara and holds that the beloved king was granted leave to visit his people once a year — the homecoming that Onam celebrates. Tradition reads the name itself as 'the place of the sacred foot'.",
-    "festivals": "Onam is the temple's great festival: a ten-day utsavam in the Malayalam month of Chingam (August–September) that begins on Atham and culminates on Thiruvonam, with the flag hoisted, the lord taken in procession and the whole town in celebration. Households across Kerala lay their Onam floral carpets in the same ten-day rhythm. Vaikunta Ekadashi is also observed.",
-    "experience": "Visit during Onam to see Thrikkakara at its most joyful, when the temple becomes the heart of Kerala's harvest festival — or come on an ordinary morning for quiet darshan. In this place the story honours both the god and the king he humbled: Onam is a festival of Mahabali's homecoming as much as of Vamana's grace. Pause by the Shiva shrine and the old inscribed stones."
+    "history": "তৃক্কাক্কর, এখন কোচি শহরের অন্তর্গত, ১০৮টি দিব্যদেশমের একটি, নালায়িরা দিব্য প্রবন্ধমে আৎবারদের কর্তৃক কীর্তিত বিষ্ণুর আবাসস্থলসমূহের একটি, এবং মলৈ নাড়ুর মন্দিরগুলির মধ্যে গণ্য; নম্মাৎবার এর ভগবানকে তিরুক্কাট্করৈর আপ্পন রূপে গেয়েছিলেন। এটি ভারতের সেই অল্প কয়েকটি মন্দিরের একটি যেখানে অধিষ্ঠাত্রী দেবতা বামন, বামন অবতার। এখানে দশম থেকে ত্রয়োদশ শতাব্দীর, চের পেরুমালদের যুগের, প্রায় আঠারোটি প্রস্তর-শিলালিপি পাওয়া গেছে, এবং সেগুলি বলে যে ওণমের সময় রাজাকে সম্মান জানাতে সর্দাররা তৃক্কাক্করে জড়ো হতেন — তখন এটি ছিল বহুদিনের একটি উৎসব। মন্দিরটি নিজে এর প্রাচীনতম নথির চেয়েও পুরনো হতে পারে।",
+    "architecture": "মন্দিরটি কেরালা রীতিতে নির্মিত: ঢালু ছাদের নিচে একটি গর্ভগৃহ (শ্রীকোবিল), নালম্বলম প্রদক্ষিণ-পথে ঘেরা, প্রবেশপথে একটি উঁচু ধ্বজস্তম্ভ এবং একটি প্রশস্ত প্রাঙ্গণ যেখানে ওণমের জনসমাগম হয়। কাছেই একটি শিবমন্দির দাঁড়িয়ে আছে। মধ্যযুগীয় কেরালার বট্টেৎবুত্তু লিপিতে খোদাই করা পুরনো প্রস্তর-শিলালিপিগুলি প্রাঙ্গণের এক নিরিবিলি সম্পদ এবং চের যুগের অঞ্চলটির গুরুত্বপূর্ণ নথিগুলির একটি।",
+    "legends": "পুরাণে বলা হয় কীভাবে উদার অসুর-রাজা মহাবলি, ত্রিলোকের অধিপতি, বামনের কাছে এলেন, এক বামন ব্রাহ্মণ বালকের রূপে, যিনি তিন পা জমি চাইলেন। দান মঞ্জুর হলে বামন বিশ্বজনীন আকারে বেড়ে উঠলেন, দুই পদক্ষেপে পৃথিবী ও আকাশ পরিমাপ করলেন, এবং তৃতীয়টির জন্য মহাবলি নিজের মাথা অর্পণ করলেন। কেরালার ঐতিহ্য মহাবলির রাজ্যকে তৃক্কাক্করে স্থাপন করে এবং মানে যে প্রিয় রাজাকে বছরে একবার তাঁর প্রজাদের দেখতে আসার অনুমতি দেওয়া হয়েছিল — সেই প্রত্যাবর্তনই ওণম উদযাপন করে। ঐতিহ্য নামটিকেই পড়ে 'পবিত্র পদের স্থান' হিসেবে।",
+    "festivals": "ওণম মন্দিরের মহা উৎসব: মালয়ালম মাস চিঙ্গমে (আগস্ট–সেপ্টেম্বর) একটি দশদিনব্যাপী উৎসবম যা আতমে শুরু হয় এবং তিরুওণমে পরিণতি পায়, ধ্বজা উত্তোলন করা হয়, ভগবানকে শোভাযাত্রায় নেওয়া হয় এবং সমগ্র শহর উদযাপনে মাতে। কেরালা জুড়ে পরিবারগুলি একই দশদিনের ছন্দে তাদের ওণম ফুলের আলপনা সাজায়। বৈকুণ্ঠ একাদশীও পালিত হয়।",
+    "experience": "ওণমের সময় দর্শন করুন তৃক্কাক্করকে এর সবচেয়ে আনন্দময় রূপে দেখতে, যখন মন্দিরটি কেরালার ফসল-উৎসবের হৃদয় হয়ে ওঠে — অথবা শান্ত দর্শনের জন্য একটি সাধারণ সকালে আসুন। এই স্থানে কাহিনি ভগবান ও যে রাজাকে তিনি বিনীত করেছিলেন, উভয়কেই সম্মান করে: ওণম যতটা বামনের কৃপার উৎসব, ততটাই মহাবলির প্রত্যাবর্তনের উৎসব। শিবমন্দির ও পুরনো খোদিত পাথরগুলির পাশে কিছুক্ষণ থামুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure, following the temple's own schedule; festival days are crowded. Confirm current timings locally before you visit.",
-    "dressCode": "Traditional dress is expected: by Kerala temple custom men usually enter bare-chested in a mundu or dhoti, and women in saree or other traditional dress; footwear is left outside. Follow posted rules and the guidance of temple staff.",
-    "photography": "Photography is not permitted in and around the sanctum; follow posted rules and the guidance of temple staff.",
-    "gettingThere": "Thrikkakara is in Kochi, Ernakulam district, close to Edappally and Kakkanad, and is easily reached by road and city bus. Ernakulam Junction is the main railway station, and Cochin International Airport at Nedumbassery is about 20 km away."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন এবং মধ্যাহ্নে বন্ধের সঙ্গে খোলা, মন্দিরের নিজস্ব সূচি অনুসরণ করে; উৎসবের দিন ভিড় হয়। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "ঐতিহ্যবাহী পোশাক প্রত্যাশিত: কেরালা মন্দির-রীতি অনুসারে পুরুষরা সাধারণত মুণ্ডু বা ধুতি পরে খালি গায়ে প্রবেশ করেন, এবং নারীরা শাড়ি বা অন্য ঐতিহ্যবাহী পোশাকে; জুতো বাইরে রাখা হয়। প্রদর্শিত নিয়ম ও মন্দিরকর্মীদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ফটোগ্রাফির অনুমতি নেই; প্রদর্শিত নিয়ম ও মন্দিরকর্মীদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তৃক্কাক্কর কোচিতে, এর্ণাকুলম জেলায়, এডাপ্পল্লী ও কাক্কানাডের কাছে, এবং সড়ক ও শহরের বাসে সহজে পৌঁছানো যায়। এর্ণাকুলম জংশন প্রধান রেলস্টেশন, এবং নেডুম্বাসেরির কোচিন আন্তর্জাতিক বিমানবন্দর প্রায় ২০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.jpg",

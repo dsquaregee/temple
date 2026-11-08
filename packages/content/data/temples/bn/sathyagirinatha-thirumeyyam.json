@@ -1,30 +1,37 @@
 {
   "id": "sathyagirinatha-thirumeyyam",
   "locale": "bn",
+  "name": "সত্যমূর্তি পেরুমাল মন্দির, তিরুমায়াম",
   "nativeName": "சத்தியமூர்த்தி பெருமாள் கோயில், திருமெய்யம்",
+  "deity": "বিষ্ণু সত্যমূর্তি পেরুমাল রূপে (সত্যগিরি নাথন), দেবী উয়্যবন্ধ নাচিয়ার সহ — এবং, শিলা-কর্তিত গুহায়, অদিশেষ সর্পের উপর শয়ান",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirumayam",
-    "state": "Tamil Nadu",
+    "city": "তিরুমায়াম",
+    "state": "তামিলনাড়ু",
     "lat": 10.247,
     "lng": 78.752
   },
+  "period": "পাণ্ড্য দেশের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক কীর্তিত",
   "century": 8,
+  "dynasty": "মুত্তরৈয়ার গুহা গর্ভগৃহ, পরবর্তী পাণ্ড্য হল সহ",
+  "style": "দ্রাবিড় মণ্ডপসহ শিলা-কর্তিত গুহা গর্ভগৃহ",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "তিরুমায়ামের দুর্গ-পাহাড়ের নিচে বিষ্ণু সত্যমূর্তি পেরুমাল রূপে তাঁর মন্দিরের পাশে এক শিলা-কর্তিত গুহায় অদিশেষের উপর শয়ান — তিরুমঙ্গৈ আলবার কর্তৃক কীর্তিত পাণ্ড্য দেশের একটি দিব্য দেশম।",
   "sections": {
-    "history": "Thirumayam, the Thiru-Meyyam or \"sacred hill of truth\" of the Alvars, rises in the Pudukkottai country, and its Vishnu shrine is cut into the southern face of the hill. It is one of the 108 Divya Desams, counted among the abodes of Pandya Nadu, and was sung by Thirumangai Alvar in the Nalayira Divya Prabandham. Scholars place the cave temple in the closing decades of the seventh century and associate it with the Muttaraiyar chiefs: an inscription records its renovation and an endowment by Perumbidugu Perundevi, mother of a Muttaraiyar vassal of the Pallava king Nandivarman II. Pillared halls were added before the cave, mostly in the later Pandya period, and the hill above carries the walls of Thirumayam Fort.",
-    "architecture": "The heart of the temple is a rock-cut cave on the south side of Satyagiri hill. Its great relief shows Vishnu reclining on the coiled serpent Adisesha, carved in the living rock and some fifteen feet long with the Goddess at his chest. Sathyamurthi Perumal is enshrined beneath a single-storeyed Dravidian vimana, and the Goddess Uyyavandha Nachiyar has her separate sannidhi. Later Pandya mandapas lead in to the cave. A Shiva cave of the Pandya period lies beside it on the same hill.",
-    "legends": "The sthala purana tells that the sage Satya performed penance at this hill, and that Vishnu, pleased, revealed himself here as the embodiment of truth — Sathyamurthi, Lord of Satyagiri. Tradition holds that for the sage the Lord turned the river into the temple tank, the rock into the sacred Meyyam hill and a banyan into the holy fig, so that the whole place became his abode. The name Thirumayam itself is remembered as a softening of Thiru-Meyyam, the hill of truth.",
-    "festivals": "The temple keeps the great Vaishnava calendar — Vaikunta Ekadashi, the processions of Sathyamurthi Perumal and the Goddess on their festival vehicles, and the days of the Alvars, Thirumangai Alvar above all. Festival dates follow the Tamil calendar; confirm them locally.",
-    "experience": "A rare Divya Desam where the pilgrim stands before the living rock: the reclining Lord in the cave and Sathyamurthi Perumal in his shrine are worshipped within a few steps of each other. Many combine the visit with the Shiva cave beside it and a climb to the fort ramparts above."
+    "history": "তিরুমায়াম, আলবারদের তিরু-মেয়াম বা \"সত্যের পবিত্র পাহাড়\", পুদুক্কোট্টৈ দেশে উঠেছে, এবং এর বিষ্ণু মন্দির পাহাড়ের দক্ষিণ মুখে কর্তিত। এটি ১০৮টি দিব্য দেশমের একটি, পাণ্ড্য নাড়ুর আবাসগুলির মধ্যে গণ্য, এবং তিরুমঙ্গৈ আলবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে কীর্তিত। পণ্ডিতরা গুহা মন্দিরটিকে সপ্তম শতকের শেষ দশকগুলিতে স্থাপন করেন এবং এটিকে মুত্তরৈয়ার সর্দারদের সঙ্গে যুক্ত করেন: একটি শিলালিপি পল্লব রাজা দ্বিতীয় নন্দিবর্মনের এক মুত্তরৈয়ার সামন্তের মাতা পেরুম্বিডুগু পেরুন্দেবী কর্তৃক এর সংস্কার ও এক দান নথিবদ্ধ করে। গুহার সম্মুখে স্তম্ভযুক্ত হল যোগ করা হয়েছিল, অধিকাংশই পরবর্তী পাণ্ড্য যুগে, এবং উপরের পাহাড় তিরুমায়াম দুর্গের প্রাচীর বহন করে।",
+    "architecture": "মন্দিরের হৃদয় সত্যগিরি পাহাড়ের দক্ষিণ পাশে একটি শিলা-কর্তিত গুহা। এর বিশাল ভাস্কর্য দেখায় বিষ্ণু কুণ্ডলীকৃত অদিশেষ সর্পের উপর শয়ান, জীবন্ত শিলায় খোদিত এবং প্রায় পনেরো ফুট লম্বা, দেবী তাঁর বক্ষে। সত্যমূর্তি পেরুমাল একটি একতলা দ্রাবিড় বিমানের নিচে প্রতিষ্ঠিত, এবং দেবী উয়্যবন্ধ নাচিয়ারের নিজস্ব সন্নিধি আছে। পরবর্তী পাণ্ড্য মণ্ডপ গুহায় প্রবেশপথ নির্দেশ করে। একই পাহাড়ে এর পাশে পাণ্ড্য যুগের একটি শিব গুহা অবস্থিত।",
+    "legends": "স্থলপুরাণ বলে যে ঋষি সত্য এই পাহাড়ে তপস্যা করেছিলেন, এবং বিষ্ণু, সন্তুষ্ট হয়ে, এখানে সত্যের মূর্তরূপে নিজেকে প্রকাশ করলেন — সত্যমূর্তি, সত্যগিরির প্রভু। ঐতিহ্য বলে যে ঋষির জন্য প্রভু নদীকে মন্দির কুণ্ডে, শিলাকে পবিত্র মেয়াম পাহাড়ে এবং এক বটগাছকে পবিত্র অশ্বত্থে পরিণত করলেন, যাতে সমগ্র স্থানটি তাঁর আবাস হয়ে ওঠে। তিরুমায়াম নামটি স্বয়ং তিরু-মেয়াম, সত্যের পাহাড়, এর কোমল রূপ বলে স্মরিত।",
+    "festivals": "মন্দিরটি মহান বৈষ্ণব পঞ্জিকা পালন করে — বৈকুণ্ঠ একাদশী, উৎসব বাহনে সত্যমূর্তি পেরুমাল ও দেবীর শোভাযাত্রা, এবং আলবারদের দিনসমূহ, সর্বোপরি তিরুমঙ্গৈ আলবারের। উৎসবের তারিখ তামিল পঞ্জিকা অনুসরণ করে; স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "একটি বিরল দিব্য দেশম যেখানে তীর্থযাত্রী জীবন্ত শিলার সম্মুখে দাঁড়ান: গুহার শয়ান প্রভু ও তাঁর মন্দিরের সত্যমূর্তি পেরুমাল পরস্পর থেকে কয়েক পদের মধ্যে পূজিত। অনেকে এর পাশের শিব গুহা ও উপরের দুর্গ প্রাচীরে আরোহণের সঙ্গে পরিদর্শন মিলিত করেন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirumayam lies on the Pudukkottai–Karaikudi road, about 20 km south of Pudukkottai, and has a railway station on the Tiruchirappalli–Karaikudi line; the nearest airport is Tiruchirappalli. The temple sits at the foot of the fort hill, a short walk from the town."
+    "timings": "সকাল ও সন্ধ্যার দর্শন অধিবেশন ও দুপুরে বন্ধের সঙ্গে প্রতিদিন খোলা; বৈকুণ্ঠ একাদশী ও উৎসবের দিন ব্যস্ততম। পরিদর্শনের আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রদর্শিত বিধি ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার চারপাশে আলোকচিত্র গ্রহণ সীমাবদ্ধ; প্রদর্শিত বিধি ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "তিরুমায়াম পুদুক্কোট্টৈ–কারৈকুডি সড়কে, পুদুক্কোট্টৈ থেকে প্রায় ২০ কিমি দক্ষিণে, এবং তিরুচিরাপল্লি–কারৈকুডি লাইনে একটি রেলস্টেশন আছে; নিকটতম বিমানবন্দর তিরুচিরাপল্লি। মন্দিরটি দুর্গ-পাহাড়ের পাদদেশে, নগর থেকে অল্প হাঁটাপথে অবস্থিত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",

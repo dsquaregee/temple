@@ -1,29 +1,40 @@
 {
   "id": "varadaraja-thirumanikkoodam",
   "locale": "bn",
+  "name": "বরদরাজ পেরুমাল মন্দির, তিরুমণিক্কূডম",
   "nativeName": "வரதராஜப் பெருமாள் கோயில், திருமணிக்கூடம்",
+  "deity": "বরদরাজ পেরুমাল (মণিক্কূড নায়কন) রূপে বিষ্ণু, তিরুমামগল নাচিয়ার (শ্রীদেবী) ও ভূদেবীর সঙ্গে—তিরুমণিক্কূডম, এগারোটি তিরুনঙ্গুর দিব্য দেশমের একটি",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirunangur",
-    "state": "Tamil Nadu",
+    "city": "তিরুনঙ্গুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.1794,
     "lng": 79.7881
   },
+  "period": "চোল নাড়ুর একটি দিব্য দেশম, এগারোটি তিরুনঙ্গুর তীর্থের একটি, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "চোল দেশ (পরবর্তী শতাব্দীতে সংস্কারকৃত)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "শীরকাড়ির কাছে তিরুনঙ্গুরে বিষ্ণু পূর্বমুখী হয়ে বরদরাজ পেরুমাল, তিরুমণিক্কূডমের মণিক্কূড নায়কন রূপে দণ্ডায়মান—চোল নাড়ুর একটি দিব্য দেশম, তিরুমঙ্গৈ আলবার কর্তৃক স্তুত, চন্দ্র পুষ্করিণীর পাশে।",
   "sections": {
-    "history": "Thirumanikkoodam is one of the 108 Divya Desams and lies in Chola Nadu, the Kaveri delta country. It is one of the eleven Vishnu shrines of Thirunangur, a cluster of villages east of Sirkazhi, each sung by Thirumangai Alvar in the Nalayira Divya Prabandham. Here the Lord is Varadaraja Perumal, also called Manikkooda Nayakan, standing in the nindra thirukkolam and facing east, with Thirumamagal Nachiyar and Bhudevi at his side. The name joins mani, a gem, with koodam, a peak or hall. The firm witness to the shrine is the Alvar's hymn, placed in the eighth century.",
-    "architecture": "The sanctum is crowned by the Kanaka vimana, and within it Varadaraja stands facing east in the standing posture. The tank belonging to the shrine is the Chandra Pushkarini, named for the Moon. It is a village temple of the Dravidian tradition, modest in scale. Thirumamagal Nachiyar and Bhudevi are worshipped beside the Lord, so that darshan here is of Varadaraja together with both his consorts.",
-    "legends": "Tradition holds that Chandra, the Moon, was blessed here by the Lord, which is why the tank is called the Chandra Pushkarini. A related telling belongs to all of Thirunangur: when Shiva danced at nearby Nangur, Surya and Chandra, frightened, are said to have hidden in two tanks of their own making — the Surya Pushkarini at Thiruthetriyambalam and the Chandra Pushkarini here. The wider sthala purana says that Vishnu took eleven forms at Shiva's request, and each is worshipped in its own Thirunangur shrine.",
-    "festivals": "Varadaraja Perumal takes part in the Thirunangur Garuda Sevai, held in the Tamil month of Thai on the day after Thai Amavasai, when the utsavars of the eleven shrines are carried on Garuda vahanams to Thirumanimadam. The Thirumangai Alvar mangalasasana utsavam, also in Thai, is the principal celebration. Confirm dates locally each year.",
-    "experience": "A small village shrine among the paddy fields, best visited as one stop in the round of the eleven Thirunangur Divya Desams. Look for the standing, east-facing Varadaraja and the consorts beside him, and ask after the Chandra Pushkarini. Visiting several of the eleven on one day, or timing the trip for the Thai Garuda Sevai, rewards the pilgrim most."
+    "history": "তিরুমণিক্কূডম ১০৮টি দিব্য দেশমের একটি এবং চোল নাড়ুতে, কাবেরী ব-দ্বীপ অঞ্চলে অবস্থিত। এটি তিরুনঙ্গুরের এগারোটি বিষ্ণু তীর্থের একটি, শীরকাড়ির পূর্বে একগুচ্ছ গ্রাম, প্রতিটি নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত। এখানে প্রভু বরদরাজ পেরুমাল, যাঁকে মণিক্কূড নায়কনও বলা হয়, নিন্দ্র তিরুক্কোলমে দণ্ডায়মান এবং পূর্বমুখী, তাঁর পাশে তিরুমামগল নাচিয়ার ও ভূদেবী। নামটি মণি, এক রত্ন, এবং কূডম, এক শিখর বা মণ্ডপকে যুক্ত করে। তীর্থের দৃঢ় সাক্ষ্য আলবারের স্তোত্র, যা অষ্টম শতকে স্থাপিত।",
+    "architecture": "গর্ভগৃহ কনক বিমানে শোভিত, এবং তার মধ্যে বরদরাজ পূর্বমুখী হয়ে দণ্ডায়মান ভঙ্গিতে দাঁড়িয়ে আছেন। তীর্থের পুষ্করিণী হল চন্দ্র পুষ্করিণী, চন্দ্রের নামে নামাঙ্কিত। এটি দ্রাবিড় ঐতিহ্যের একটি গ্রাম্য মন্দির, আকারে বিনম্র। তিরুমামগল নাচিয়ার ও ভূদেবী প্রভুর পাশে পূজিত হন, তাই এখানে দর্শন বরদরাজের—তাঁর দুই সহধর্মিণীর সঙ্গে।",
+    "legends": "ঐতিহ্য বলে যে চন্দ্র, চাঁদ, এখানে প্রভুর আশীর্বাদ পেয়েছিলেন, সেই কারণেই পুষ্করিণীটিকে চন্দ্র পুষ্করিণী বলা হয়। সম্পর্কিত একটি কাহিনি সমগ্র তিরুনঙ্গুরের: যখন শিব কাছের নঙ্গুরে নৃত্য করেছিলেন, সূর্য ও চন্দ্র ভীত হয়ে নিজেদের তৈরি দুটি পুষ্করিণীতে লুকিয়েছিলেন বলে কথিত—তিরুত্তেট্রিয়াম্বলমে সূর্য পুষ্করিণী এবং এখানে চন্দ্র পুষ্করিণী। ব্যাপকতর স্থল পুরাণ বলে যে বিষ্ণু শিবের অনুরোধে এগারোটি রূপ ধারণ করেছিলেন, এবং প্রতিটি তার নিজস্ব তিরুনঙ্গুর তীর্থে পূজিত।",
+    "festivals": "বরদরাজ পেরুমাল তিরুনঙ্গুর গরুড় সেবৈতে অংশ নেন, তামিল তৈ মাসে তৈ অমাবস্যার পরদিন অনুষ্ঠিত, যখন এগারোটি তীর্থের উৎসবমূর্তিগুলিকে গরুড় বাহনে তিরুমণিমাডমে বহন করা হয়। তিরুমঙ্গৈ আলবার মঙ্গলাশাসন উৎসবম, এটিও তৈ মাসে, প্রধান উদ্‌যাপন। প্রতি বছর তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "ধানখেতের মাঝে এক ছোট গ্রাম্য তীর্থ, এগারোটি তিরুনঙ্গুর দিব্য দেশম পরিক্রমার এক বিরতি হিসেবে দর্শন করাই শ্রেয়। দণ্ডায়মান, পূর্বমুখী বরদরাজ ও তাঁর পাশের সহধর্মিণীদের খুঁজুন, এবং চন্দ্র পুষ্করিণীর খোঁজ নিন। একদিনে এগারোটির কয়েকটি দর্শন করা, বা তৈ গরুড় সেবৈর জন্য যাত্রার সময় বেছে নেওয়া, তীর্থযাত্রীকে সবচেয়ে বেশি পুরস্কৃত করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Thai Garuda Sevai is the busiest day. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirunangur lies about 8 km east of Sirkazhi, on the road towards Thiruvenkadu in Mayiladuthurai district. Sirkazhi has a railway station on the Chennai–Chidambaram–Mayiladuthurai line; the major airports are Tiruchirappalli and Chennai. Hire a vehicle or autorickshaw in Sirkazhi, since the eleven shrines lie close together."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বে এবং মধ্যাহ্নে বন্ধ রেখে খোলা থাকে; তৈ গরুড় সেবৈ সবচেয়ে ব্যস্ত দিন। ভ্রমণের আগে বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহে ও তার চারপাশে ছবি তোলায় নিষেধাজ্ঞা আছে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুনঙ্গুর ময়িলাড়ুতুরৈ জেলার শীরকাড়ি থেকে পূর্বে প্রায় ৮ কিমি দূরে, তিরুবেঙ্কাড়ুর দিকে যাওয়া পথে। শীরকাড়িতে চেন্নাই–চিদম্বরম–ময়িলাড়ুতুরৈ রেলপথে একটি রেলস্টেশন আছে; বড় বিমানবন্দরগুলি তিরুচিরাপল্লি ও চেন্নাই। শীরকাড়িতে একটি গাড়ি বা অটোরিকশা ভাড়া করুন, যেহেতু এগারোটি তীর্থ কাছাকাছি অবস্থিত।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/varadaraja-thirumanikkoodam.mp3",
+    "durationSec": 187
   }
 }

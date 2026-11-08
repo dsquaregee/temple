@@ -1,30 +1,37 @@
 {
   "id": "govindaraja-chidambaram",
   "locale": "bn",
+  "name": "গোবিন্দরাজ পেরুমাল মন্দির, চিদম্বরম",
   "nativeName": "கோவிந்தராஜப் பெருமாள் கோயில், சிதம்பரம்",
+  "deity": "বিষ্ণু গোবিন্দরাজ পেরুমাল রূপে, শায়িত, দেবী পুণ্ডরীকবল্লী ঠায়ার সহ — তিল্লৈ নটরাজ মন্দিরের অভ্যন্তরে তিরুচিত্রকূডমের দিব্যদেশম",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Chidambaram",
-    "state": "Tamil Nadu",
+    "city": "চিদম্বরম",
+    "state": "তামিলনাড়ু",
     "lat": 11.3994,
     "lng": 79.6933
   },
+  "period": "চোল দেশের একটি দিব্যদেশম, নালায়িরা দিব্য প্রবন্ধমে কুলশেখর আলবার ও তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "প্রথা অনুসারে পল্লব উৎপত্তি; চোল-যুগ ও নায়ক-যুগের সংস্কার",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "চিদম্বরমের মহান নটরাজ মন্দিরের অভ্যন্তরে বিষ্ণু তিরুচিত্রকূডমে গোবিন্দরাজ পেরুমাল রূপে শায়িত — কুলশেখর আলবার ও তিরুমঙ্গৈ আলবার কর্তৃক স্তুত একটি দিব্যদেশম।",
   "sections": {
-    "history": "Thiruchitrakoodam is not a separate temple but a shrine of Vishnu within the Thillai Nataraja temple complex at Chidambaram, and it is one of the 108 Divya Desams — the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham — in Chola Nadu. Kulasekhara Alvar and Thirumangai Alvar offered their mangalasasanam here. One temple-history source attributes the installation of the image to the Pallava king Nandivarman, in the eighth century. Tradition adds that in the twelfth century, under Kulothunga Chola II, the image was removed and its festival image carried to Tirupati, where Govindaraja is still worshipped; the shrine was reinstated in the mid-sixteenth century under Krishnappa Nayak. The present structure is largely of the twelfth and thirteenth centuries, with later additions, though sources differ.",
-    "architecture": "The shrine stands inside the precincts of the Nataraja temple, in the Dravidian manner, with Govindaraja Perumal reclining in the sanctum and the Goddess Pundarikavalli Thayar enshrined separately. The temple tank is known as the Pundarika Pushkarini. Much of the fabric is of the twelfth and thirteenth centuries, with later additions, in keeping with the style of the surrounding complex.",
-    "legends": "Tradition says Govindaraja reclines facing the shrine of Nataraja, for he is held to have witnessed — and judged — the dance contest between Shiva and Parvati. The verses of Kulasekhara Alvar on Thillai Chitrakoodam are remembered for recounting the story of Rama, so that the shrine holds a place in the Vaishnava memory of the Ramayana as well as in Shaiva Chidambaram.",
-    "festivals": "The best-known observance is the ten-day Chithirai Vasantha Utsavam, held in April–May. The festival of Gajendra Moksham, recalling the elephant freed by Vishnu, is also kept. Vaikunta Ekadashi and the days of the Alvars follow the wider Vaishnava calendar. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Visitors come for the Nataraja temple and find here a quiet Vishnu shrine in the same precincts — a rare meeting of Shaiva and Vaishnava devotion. Look for the reclining lord turned toward Nataraja, and ask the priests about the Pundarika Pushkarini and local darshan arrangements."
+    "history": "তিরুচিত্রকূডম কোনো পৃথক মন্দির নয় বরং চিদম্বরমের তিল্লৈ নটরাজ মন্দির সমুচ্চয়ের অভ্যন্তরে বিষ্ণুর একটি মন্দির, এবং এটি ১০৮টি দিব্যদেশমের একটি — নালায়িরা দিব্য প্রবন্ধমে আলবার সন্তদের দ্বারা স্তুত বিষ্ণুর ধামসমূহ — চোল নাড়ুতে। কুলশেখর আলবার ও তিরুমঙ্গৈ আলবার এখানে তাঁদের মঙ্গলাসাসনম অর্পণ করেন। এক মন্দির-ইতিহাস সূত্র মূর্তি প্রতিষ্ঠার কৃতিত্ব অষ্টম শতকের পল্লব রাজা নন্দিবর্মনকে দেয়। প্রথা যোগ করে যে দ্বাদশ শতকে দ্বিতীয় কুলোত্তুঙ্গ চোলের অধীনে মূর্তিটি সরিয়ে তার উৎসবমূর্তি তিরুপতিতে নিয়ে যাওয়া হয়, যেখানে গোবিন্দরাজ এখনও পূজিত; ষোড়শ শতকের মধ্যভাগে কৃষ্ণপ্প নায়কের অধীনে মন্দিরটি পুনঃপ্রতিষ্ঠিত হয়। বর্তমান কাঠামো মূলত দ্বাদশ ও ত্রয়োদশ শতকের, পরবর্তী সংযোজন সহ, যদিও সূত্রগুলি ভিন্নমত পোষণ করে।",
+    "architecture": "মন্দিরটি নটরাজ মন্দিরের সীমানার ভেতরে দ্রাবিড় রীতিতে দাঁড়িয়ে, গোবিন্দরাজ পেরুমাল গর্ভগৃহে শায়িত এবং দেবী পুণ্ডরীকবল্লী ঠায়ার পৃথকভাবে প্রতিষ্ঠিত। মন্দির-পুকুর পুণ্ডরীক পুষ্করিণী নামে পরিচিত। কাঠামোর বেশিরভাগই দ্বাদশ ও ত্রয়োদশ শতকের, পরবর্তী সংযোজন সহ, চারপাশের সমুচ্চয়ের রীতির সঙ্গে সামঞ্জস্য রেখে।",
+    "legends": "প্রথা বলে গোবিন্দরাজ নটরাজের মন্দিরের দিকে মুখ করে শায়িত, কারণ তিনি শিব ও পার্বতীর নৃত্য-প্রতিযোগিতা প্রত্যক্ষ করেছিলেন — এবং বিচার করেছিলেন বলে ধরা হয়। তিল্লৈ চিত্রকূডম সম্পর্কে কুলশেখর আলবারের শ্লোকগুলি রামের কাহিনী বর্ণনার জন্য স্মরণীয়, যাতে মন্দিরটি শৈব চিদম্বরমের পাশাপাশি রামায়ণের বৈষ্ণব স্মৃতিতেও স্থান ধরে রাখে।",
+    "festivals": "সর্বাধিক পরিচিত অনুষ্ঠান হল এপ্রিল–মে মাসে অনুষ্ঠিত দশদিনব্যাপী চিত্তিরৈ বসন্ত উৎসবম। গজেন্দ্র মোক্ষমের উৎসব, বিষ্ণু কর্তৃক মুক্ত গজরাজের স্মরণে, এটিও পালিত হয়। বৈকুণ্ঠ একাদশী ও আলবারদের দিনগুলি বৃহত্তর বৈষ্ণব পঞ্জিকা অনুসরণ করে। তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে যাচাই করে নিন।",
+    "experience": "দর্শনার্থীরা নটরাজ মন্দিরের জন্য আসেন এবং একই সীমানায় এক শান্ত বিষ্ণুমন্দির পান — শৈব ও বৈষ্ণব ভক্তির এক দুর্লভ মিলন। নটরাজের দিকে ফেরানো শায়িত প্রভুকে খুঁজুন, এবং পুরোহিতদের কাছে পুণ্ডরীক পুষ্করিণী ও স্থানীয় দর্শনের ব্যবস্থা সম্পর্কে জিজ্ঞাসা করুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The shrine lies inside the Thillai Nataraja temple complex in Chidambaram, which is on the Chennai–Thanjavur rail line, about 230 km south of Chennai, with regular trains and buses. Puducherry, roughly 65 km north, is the most convenient airport."
+    "timings": "সকাল ও সন্ধ্যার দর্শন-পর্বসহ প্রতিদিন খোলা এবং মধ্যাহ্নে বন্ধ; যাওয়ার আগে স্থানীয়ভাবে বর্তমান সময়সূচি যাচাই করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খোলা। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "মন্দিরটি চিদম্বরমের তিল্লৈ নটরাজ মন্দির সমুচ্চয়ের ভেতরে অবস্থিত, যা চেন্নাই–তাঞ্জাবুর রেলপথে, চেন্নাই থেকে প্রায় ২৩০ কিমি দক্ষিণে, নিয়মিত ট্রেন ও বাস সহ। প্রায় ৬৫ কিমি উত্তরের পুদুচেরি সবচেয়ে সুবিধাজনক বিমানবন্দর।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/govindaraja-chidambaram.jpg",

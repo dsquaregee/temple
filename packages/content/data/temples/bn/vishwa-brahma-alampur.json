@@ -1,30 +1,37 @@
 {
   "id": "vishwa-brahma-alampur",
   "locale": "bn",
+  "name": "বিশ্ব ব্রহ্ম মন্দির, আলমপুর",
   "nativeName": "విశ్వ బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "বিশ্ব ব্রহ্মেশ্বর রূপে শিব (লিঙ্গ)",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "আলমপুর",
+    "state": "তেলেঙ্গানা",
     "lat": 15.879,
     "lng": 78.1353
   },
+  "period": "আলমপুরের নয়টি নবব্রহ্ম মন্দিরের অন্যতম, বাদামি চালুক্য যুগের (সপ্তম–অষ্টম শতাব্দী)",
   "century": 8,
+  "dynasty": "চালুক্য (বাদামি)",
+  "style": "আদি চালুক্য, উত্তরী (রেখা-নাগর) মন্দির রীতি",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "আলমপুর প্রাঙ্গণের উত্তর কোণে অবস্থিত বিশ্ব ব্রহ্ম মন্দিরটি বাল ব্রহ্মের পর নবব্রহ্ম স্মারকগুলির মধ্যে সর্বোত্তম সংরক্ষিত, যার দেওয়াল ও দ্বারদেশ পরিশীলিত আদি চালুক্য ভাস্কর্যের এক সংগ্রহশালা।",
   "sections": {
-    "history": "Vishwa Brahma — Brahma as lord of the universe — is one of the nine Shiva temples built at Alampur by the Badami Chalukyas between the seventh and eighth centuries, and the most complete of them after the still-worshipped Bala Brahma. It stands in the northern corner of the precinct beside Vira Brahma, across from the site museum. Though it no longer receives worship and many of its carved faces were struck away in later centuries of conflict, enough survives to make it a favourite of scholars of early Deccan art. It is protected by the Archaeological Survey of India.",
-    "architecture": "The plan closely follows that of Swarga Brahma, without the entrance porch: a broad hall on carved pillars leads to a sanctum ringed by an enclosed circumambulatory passage, and above rises a curving northern-style tower capped by its amalaka, itself finely worked. Writers have compared the temple with the Galaganatha at Pattadakal. The sanctum doorway shows Gajalakshmi above and the river goddesses Ganga and Yamuna on their crocodile and tortoise; the hall's pillars bear flowing floral designs, and the outer niches are crowned with kirtimukha masks.",
-    "legends": "Sculpture tells this temple's stories. On the back of the sanctum the king Bhagiratha stands in austere penance to bring the Ganga down from heaven to earth. Elsewhere are Dakshinamurti, Shiva as the teacher, seated with one knee raised; Trivikrama, Vishnu taking his three world-spanning strides; and a boyish Kartikeya holding his peacock standard — among the finest images of the Alampur school. All are gathered under the name Vishwa, the universe, given to the Shiva whom tradition says Brahma worshipped at Alampur.",
-    "festivals": "As a monument, Vishwa Brahma keeps no festival of its own; Maha Shivaratri at the living Bala Brahmeshwara shrine and Navaratri and Dasara for the goddess Jogulamba bring the precinct its great crowds. Confirm dates locally.",
-    "experience": "Allow time for a slow circuit of the outer walls: Bhagiratha's penance at the rear, the niche figures, and the kirtimukha crowns are best seen in the low light of morning or late afternoon. Then study the doorway, where Ganga and Yamuna ride their mounts. Vira Brahma stands next door, and the museum opposite holds sculpture from across the group."
+    "history": "বিশ্ব ব্রহ্ম — বিশ্বের অধীশ্বর রূপে ব্রহ্ম — সেই নয়টি শিবমন্দিরের অন্যতম, যেগুলি সপ্তম ও অষ্টম শতাব্দীর মধ্যে বাদামি চালুক্যরা আলমপুরে নির্মাণ করেন, এবং এখনও পূজিত বাল ব্রহ্মের পর এগুলির মধ্যে এটিই সর্বাধিক সম্পূর্ণ। এটি প্রাঙ্গণের উত্তর কোণে বীর ব্রহ্মের পাশে, স্থল-সংগ্রহশালার বিপরীতে দাঁড়িয়ে আছে। যদিও এটি আর পূজা পায় না এবং পরবর্তী শতাব্দীগুলির সংঘাতে এর বহু খোদিত মুখ বিনষ্ট হয়েছে, তবু যা টিকে আছে তা একে আদি দাক্ষিণাত্য শিল্পের পণ্ডিতদের প্রিয় করে তুলেছে। এটি ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণের সংরক্ষণে রয়েছে।",
+    "architecture": "এর পরিকল্পনা স্বর্গ ব্রহ্মের ঘনিষ্ঠভাবে অনুসরণ করে, তবে প্রবেশ-মণ্ডপ ছাড়াই: খোদিত স্তম্ভের উপর স্থাপিত একটি প্রশস্ত সভাগৃহ এমন এক গর্ভগৃহে নিয়ে যায়, যার চারপাশে একটি আবদ্ধ প্রদক্ষিণ-পথ ঘিরে আছে, আর উপরে উঠে গেছে এক বক্র উত্তরী-রীতির শিখর, যার শীর্ষে সূক্ষ্মভাবে গড়া আমলক। লেখকগণ এই মন্দিরটিকে পট্টডকলের গলগনাথের সঙ্গে তুলনা করেছেন। গর্ভগৃহের দ্বারদেশে উপরে গজলক্ষ্মী এবং নিম্নে নদী-দেবী গঙ্গা ও যমুনা তাঁদের কুমির ও কচ্ছপের উপর দেখা যায়; সভাগৃহের স্তম্ভগুলিতে প্রবহমান পুষ্পনকশা, আর বাইরের কুলুঙ্গিগুলি কীর্তিমুখ মুখোশে শোভিত।",
+    "legends": "ভাস্কর্যই এই মন্দিরের কাহিনি বলে। গর্ভগৃহের পশ্চাতে রাজা ভগীরথ স্বর্গ থেকে পৃথিবীতে গঙ্গাকে আনতে কঠোর তপস্যায় দাঁড়িয়ে আছেন। অন্যত্র আছেন দক্ষিণামূর্তি, গুরুরূপী শিব, এক জানু উত্থিত করে উপবিষ্ট; ত্রিবিক্রম, তিন পদক্ষেপে ত্রিভুবন ব্যাপ্ত করা বিষ্ণু; এবং তাঁর ময়ূরধ্বজ হাতে কিশোর কার্তিকেয় — আলমপুর ঘরানার শ্রেষ্ঠতম প্রতিমাগুলির অন্যতম। এরা সকলেই বিশ্ব নামের অধীনে সমবেত, বিশ্বলোক, যে নাম সেই শিবকে দেওয়া হয়েছে যাঁকে ঐতিহ্য অনুসারে ব্রহ্ম আলমপুরে পূজা করেছিলেন।",
+    "festivals": "স্মারক হিসেবে বিশ্ব ব্রহ্মের নিজস্ব কোনো উৎসব নেই; জীবন্ত বাল ব্রহ্মেশ্বর মন্দিরে মহাশিবরাত্রি এবং দেবী জোগুলাম্বার জন্য নবরাত্রি ও দশরা প্রাঙ্গণে বিপুল জনসমাগম ঘটায়। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "বাইরের দেওয়ালগুলির চারপাশে ধীরে প্রদক্ষিণের জন্য সময় রাখুন: পিছনে ভগীরথের তপস্যা, কুলুঙ্গির মূর্তিগুলি এবং কীর্তিমুখের শীর্ষগুলি সকালের বা বিকেলের শেষভাগের মৃদু আলোয় সবচেয়ে ভালো দেখা যায়। তারপর দ্বারদেশটি নিরীক্ষণ করুন, যেখানে গঙ্গা ও যমুনা তাঁদের বাহনে আসীন। পাশেই দাঁড়িয়ে বীর ব্রহ্ম, আর বিপরীতের সংগ্রহশালায় সমগ্র দলের ভাস্কর্য সংরক্ষিত আছে।"
   },
   "visit": {
-    "timings": "The Navabrahma precinct is open to visitors through the day; as an ASI-protected site, hours and any entry charges for the precinct and museum should be confirmed locally.",
-    "dressCode": "Modest dress is appreciated across the precinct, which includes living shrines; remove footwear where asked.",
-    "photography": "Photography is generally allowed at the monuments; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away; the temple stands in the northern corner of the Navabrahma precinct by the Tungabhadra, opposite the site museum."
+    "timings": "নবব্রহ্ম প্রাঙ্গণটি দিনভর দর্শনার্থীদের জন্য খোলা থাকে; ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ-সংরক্ষিত স্থান হওয়ায় প্রাঙ্গণ ও সংগ্রহশালার সময় ও কোনো প্রবেশমূল্য স্থানীয়ভাবে নিশ্চিত করে নেওয়া উচিত।",
+    "dressCode": "প্রাঙ্গণ জুড়ে শালীন পোশাক সমাদৃত, কারণ এখানে জীবন্ত মন্দিরও রয়েছে; বলা হলে পাদুকা খুলে রাখুন।",
+    "photography": "স্মারকগুলিতে সাধারণত আলোকচিত্র তোলার অনুমতি আছে; ট্রাইপড বা পেশাদার চিত্রগ্রহণের জন্য স্থান-কর্তৃপক্ষের অনুমতি লাগতে পারে।",
+    "gettingThere": "আলমপুর জোগুলাম্বা গাদওয়াল জেলায় অবস্থিত, কুর্নুল থেকে প্রায় ২৫ কিমি এবং হায়দরাবাদ থেকে দক্ষিণে প্রায় ২২০ কিমি দূরে, হায়দরাবাদ–বেঙ্গালুরু মহাসড়কের (জাতীয় সড়ক ৪৪) ঠিক পাশে। হায়দরাবাদ–কুর্নুল লাইনের আলমপুর রোড রেলস্টেশন প্রায় ৯ কিমি দূরে; মন্দিরটি তুঙ্গভদ্রার ধারে নবব্রহ্ম প্রাঙ্গণের উত্তর কোণে, স্থল-সংগ্রহশালার বিপরীতে দাঁড়িয়ে আছে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vishwa-brahma-alampur.jpg",

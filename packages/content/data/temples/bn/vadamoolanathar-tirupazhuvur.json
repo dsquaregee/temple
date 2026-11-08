@@ -1,29 +1,36 @@
 {
   "id": "vadamoolanathar-tirupazhuvur",
   "locale": "bn",
+  "name": "বড়মূলনাথর মন্দির, তিরুপড়ুবুর",
   "nativeName": "வடமூலநாதர் கோயில்",
+  "deity": "শিব বড়মূলনাথর (আলন্তুরৈয়ার) রূপে, দেবী অরুন্তবনায়কী সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Keezhapaluvur",
-    "state": "Tamil Nadu",
+    "city": "কীড়পালুবুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.0418,
     "lng": 79.0682
   },
+  "period": "পালুবেট্টরৈয়ার দেশের প্রাচীন শৈব মন্দির, সম্বন্দর কর্তৃক তেবারমে স্তুত (সপ্তম শতক); চোল যুগে প্রস্তরে পুনর্নির্মিত ইটের মন্দির",
   "century": 7,
+  "dynasty": "প্রারম্ভিক চোল (প্রথম পরান্তক ও উত্তম চোল), পালুবেট্টরৈয়ার সর্দারদের সঙ্গে",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "বড়মূলনাথর, যিনি আলন্তুরৈয়ার নামেও পরিচিত, তেবারমের তিরুপড়ুবুর, পালুবেট্টরৈয়ার সর্দারদের পুরনো দেশে কীড়পালুবুরে অবস্থিত এক চোল যুগের শিব মন্দির, সম্বন্দর কর্তৃক স্তুত এবং পরশুরাম ও দেবীর তপস্যার সঙ্গে বাঁধা।",
   "sections": {
-    "history": "Keezhapaluvur, about twelve kilometres south of Ariyalur, is the Tirupazhuvur of the Tevaram, a Paadal Petra Sthalam praised in the hymns of the child-saint Sambandar. The village belonged to the old Paluvettaraiyar country, where the chieftains of that line made their seat, and the temple carries the stamp of that age. The original brick shrine was rebuilt in stone in the Chola period, in the days of Parantaka I and Uttama Chola, and some twenty-three inscriptions, most of them Chola, survive on its walls. Sambandar's hymn shows that the shrine was already ancient in the seventh century.",
-    "architecture": "The temple faces east beneath a three-tiered rajagopuram and is enclosed by two corridors, or prakarams. The sanctum of Alanthuraiyar, whose vimana is described as eight-faced, holds the Shiva linga, and the goddess Arunthavanayagi is worshipped in her own shrine. Among the sculptures on the sanctum walls a Gajasamharamurti panel, Shiva as the conqueror of the elephant demon, is noted. Two sacred waters belong to the temple, the Brahma Tirtham and the Parasurama Tirtham, and its sacred tree is the banyan, the pazhu or aal, from which the village and the Lord's name Alanthuraiyar are said to be drawn.",
-    "legends": "The name of the village is traced to the banyan: the place was once a forest of banyan trees, and the Lord who sits on its shore is Alanthuraiyar. Tradition says that Parasurama came here to be freed of the sin of killing his mother at his father Jamadagni's command, and found release, which is why the Lord is sought for relief from the heavy sin of brahmahatti. The goddess is Arunthavanayagi, the lady of austere penance, recalling the penance of Parvati at this place; a local telling adds that she covered Shiva's eyes in play and then did penance to atone for it, and that the Lord came to take her as his consort. Devotees also pray here for separated partners to be reunited.",
-    "festivals": "The annual festival is the Panguni Brahmotsavam, in March or April, when the Lord is carried in procession each day on a different vahana. On the third day he is said to visit Melapazhuvur to give darshan to the sage Jamadagni and to return to his temple at night. Tradition also holds that on the eighteenth day of Panguni the sun worships the Lord, its rays falling upon him. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Keezhapaluvur suits a quiet, unhurried visit. Enter beneath the three-tiered eastern gopuram, walk the two corridors, and come before Alanthuraiyar before turning to Arunthavanayagi in her own shrine. Look for the Gajasamharamurti on the sanctum wall, and sit awhile by the tank named for Parasurama. Devotees come to be freed of the burden of grievous sin and to pray for the reunion of separated partners; the village, once the seat of chieftains, now keeps the calm of a country shrine."
+    "history": "আরিয়ালুর থেকে প্রায় বারো কিলোমিটার দক্ষিণে কীড়পালুবুর হল তেবারমের তিরুপড়ুবুর, বালক-সাধক সম্বন্দরের স্তোত্রে স্তুত এক পাডল পেট্র স্থলম্‌। গ্রামটি পুরনো পালুবেট্টরৈয়ার দেশের অন্তর্গত ছিল, যেখানে সেই বংশের সর্দাররা তাঁদের আসন গেড়েছিলেন, এবং মন্দির সেই যুগের ছাপ বহন করে। মূল ইটের মন্দিরটি চোল যুগে, প্রথম পরান্তক ও উত্তম চোলের দিনে, প্রস্তরে পুনর্নির্মিত হয়, এবং এর দেয়ালে প্রায় তেইশটি শিলালিপি, যার অধিকাংশই চোল, টিকে আছে। সম্বন্দরের স্তোত্র দেখায় যে সপ্তম শতকেই মন্দিরটি ইতিমধ্যে প্রাচীন ছিল।",
+    "architecture": "মন্দিরটি এক ত্রিস্তরীয় রাজগোপুরমের নিচে পূর্বমুখী এবং দুটি বারান্দা, বা প্রাকারম, দ্বারা ঘেরা। আলন্তুরৈয়ারের গর্ভগৃহ, যার বিমান অষ্টমুখী বলে বর্ণিত, শিবলিঙ্গ ধারণ করে, এবং দেবী অরুন্তবনায়কী তাঁর নিজস্ব মন্দিরে পূজিত। গর্ভগৃহের দেয়ালের ভাস্কর্যগুলির মধ্যে একটি গজসংহারমূর্তি ফলক, গজাসুরের বিজয়ী রূপে শিব, উল্লেখযোগ্য। মন্দিরের দুটি পবিত্র জলাধার আছে, ব্রহ্মতীর্থ ও পরশুরাম তীর্থ, এবং এর পবিত্র বৃক্ষ বট, অর্থাৎ পড়ু বা আল, যা থেকে গ্রাম ও ভগবানের নাম আলন্তুরৈয়ার এসেছে বলে কথিত।",
+    "legends": "গ্রামের নাম বটবৃক্ষ থেকে এসেছে বলে ধরা হয়: স্থানটি একসময় ছিল বটগাছের বন, এবং যে ভগবান তার তীরে বসেন তিনি আলন্তুরৈয়ার। পরম্পরা বলে যে পরশুরাম তাঁর পিতা জমদগ্নির আদেশে মাতৃহত্যার পাপ থেকে মুক্ত হতে এখানে আসেন এবং মুক্তি পান, এই কারণেই ব্রহ্মহত্যার ভারী পাপ থেকে উদ্ধার পেতে ভগবানের কাছে প্রার্থনা করা হয়। দেবী অরুন্তবনায়কী, কঠোর তপস্যার দেবী, এই স্থানে পার্বতীর তপস্যার স্মৃতি বহন করেন; এক স্থানীয় কথা যোগ করে যে তিনি খেলাচ্ছলে শিবের চোখ ঢেকে দেন এবং তারপর তার প্রায়শ্চিত্তে তপস্যা করেন, এবং ভগবান তাঁকে তাঁর সহধর্মিণী রূপে গ্রহণ করতে আসেন। ভক্তরা এখানে বিচ্ছিন্ন সঙ্গীদের পুনর্মিলনের জন্যও প্রার্থনা করেন।",
+    "festivals": "বার্ষিক উৎসব হল পঙ্গুনি ব্রহ্মোৎসবম্‌, মার্চ বা এপ্রিলে, যখন ভগবান প্রতিদিন ভিন্ন বাহনে শোভাযাত্রায় বাহিত হন। তৃতীয় দিনে তিনি মেলাপড়ুবুরে গিয়ে ঋষি জমদগ্নিকে দর্শন দেন এবং রাতে নিজ মন্দিরে ফেরেন বলে কথিত। পরম্পরা আরও বলে যে পঙ্গুনির আঠারো তম দিনে সূর্য ভগবানকে পূজা করেন, তার রশ্মি তাঁর উপর পড়ে। প্রতিটি শিব মন্দিরের মতো মহা শিবরাত্রি ও মাসিক প্রদোষম্‌ পালিত হয়। তারিখ স্থানীয়ভাবে যাচাই করুন, কারণ তা তামিল পঞ্জিকা অনুসরণ করে।",
+    "experience": "কীড়পালুবুর এক শান্ত, ধীরস্থির দর্শনের উপযোগী। ত্রিস্তরীয় পূর্বদিকের গোপুরমের নিচ দিয়ে ঢুকুন, দুটি বারান্দা পরিক্রমা করুন, এবং অরুন্তবনায়কীর দিকে তাঁর নিজস্ব মন্দিরে ফেরার আগে আলন্তুরৈয়ারের সামনে আসুন। গর্ভগৃহের দেয়ালে গজসংহারমূর্তি খুঁজুন, এবং পরশুরামের নামাঙ্কিত জলাধারের পাশে কিছুক্ষণ বসুন। ভক্তরা গুরুতর পাপের ভার থেকে মুক্ত হতে এবং বিচ্ছিন্ন সঙ্গীদের পুনর্মিলনের প্রার্থনায় আসেন; গ্রামটি, একসময় সর্দারদের আসন, এখন এক গ্রামীণ মন্দিরের শান্তি ধরে রাখে।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a break at midday; confirm timings locally, especially during the Panguni Brahmotsavam.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men; sarees, salwar kameez or long skirts for women, with shoulders and knees covered. Footwear is left outside the entrance.",
-    "photography": "Photography is generally allowed in the outer courtyards but not inside the sanctum, in keeping with Tamil Nadu temple practice. Please ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Keezhapaluvur lies about 12 km south of Ariyalur on the Ariyalur–Tiruvaiyaru road, reached by regular buses and taxis from Ariyalur. Ariyalur is the nearest railway town, and Tiruchirappalli, with the region's airport, is the nearest major air and rail hub. Confirm the last stretch of the journey locally."
+    "timings": "সাধারণত সকালে এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা, মধ্যাহ্নে বিরতি সহ; বিশেষত পঙ্গুনি ব্রহ্মোৎসবমের সময় স্থানীয়ভাবে সময় যাচাই করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার; নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা ঘাগরা, কাঁধ ও হাঁটু ঢাকা রেখে। জুতো প্রবেশদ্বারের বাইরে রেখে যেতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দির প্রথা অনুসারে ছবি তোলা সাধারণত বাইরের অঙ্গনে অনুমোদিত কিন্তু গর্ভগৃহের ভিতরে নয়। পূজা বা পুরোহিতদের ছবি তোলার আগে অনুগ্রহ করে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কীড়পালুবুর আরিয়ালুর–তিরুবৈয়ারু পথে আরিয়ালুর থেকে প্রায় ১২ কিমি দক্ষিণে অবস্থিত, আরিয়ালুর থেকে নিয়মিত বাস ও ট্যাক্সিতে পৌঁছানো যায়। আরিয়ালুর নিকটতম রেলশহর, এবং এই অঞ্চলের বিমানবন্দর সহ তিরুচিরাপল্লি নিকটতম প্রধান আকাশ ও রেল কেন্দ্র। যাত্রার শেষ অংশ স্থানীয়ভাবে যাচাই করে নিন।"
   }
 }

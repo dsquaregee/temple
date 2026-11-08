@@ -1,29 +1,36 @@
 {
   "id": "swarnapureeswarar-sembanarkoil",
   "locale": "bn",
+  "name": "স্বর্ণপুরীশ্বর মন্দির, সেম্পোনারকোইল",
   "nativeName": "செம்பொன்னார்கோயில் சுவர்ணபுரீஸ்வரர் கோயில்",
+  "deity": "শিব, স্বর্ণপুরীশ্বর রূপে (সোনালি আভার অধীশ্বর)",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, সম্বন্দর ও আপ্পর কর্তৃক গীত",
   "location": {
-    "city": "Semponarkoil, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "সেম্পোনারকোইল, মায়িলাদুতুরৈয়ের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 11.1233,
     "lng": 79.72
   },
+  "period": "তেবারম যুগ; প্রথম আদিত্য চোলের অধীনে সংস্কার, পরবর্তী শিলালিপি",
   "century": 9,
+  "dynasty": "চোল (প্রথম আদিত্য থেকে)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "সেম্পোনারকোইল, মায়িলাদুতুরৈয়ের কাছে, শিবকে স্বর্ণপুরীশ্বর রূপে—সোনালি আভার অধীশ্বর—সম্মান জানায়, যাঁর স্বয়ম্ভূ রূপটি সোনার মতো ঝলমল করত বলে কথিত। সম্বন্দর ও আপ্পর কর্তৃক গীত একটি পাডল পেট্র স্থলম, স্থানটি দিব্য কিংবদন্তিতে সমৃদ্ধ: এটি লক্ষ্মীপুরী নামে স্মরণীয়, যেখানে মহালক্ষ্মী তপস্যা করেছিলেন; ইন্দিরাপুরী নামে, যেখানে ইন্দ্র বজ্র লাভ করেছিলেন; এবং সেই মন্দির যেখানে দক্ষের যজ্ঞের আগে দাক্ষায়ণী প্রভুর আরাধনা করেছিলেন। এর নামটিই, তিরুচেম্পোনপল্লি, খাঁটি সোনার কথা বলে।",
   "sections": {
-    "history": "Semponarkoil, also called Tiruchemponpalli, is an ancient Shaiva village near Mayiladuthurai, hymned in the seventh-century Tevaram by Sambandar and Appar and counted among the Paadal Petra Sthalams. The temple's art and inscriptions carry its history: an image of Jyeshta Devi in a niche points to renovation in the time of Aditya Chola I, while inscriptions record the reigns of Kulothunga Chola III, Rajadhiraja I and, much later, Serfoji of Thanjavur — a span of patronage across many centuries.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Swarnapureeswarar, a self-manifested lingam said to have shone like gold. Chola-period sculpture, including the Jyeshta Devi image that helps date the renovation, and inscriptions on its walls make the temple a record in stone of successive dynasties. The several sacred names of the place — Lakshmipuri, Indirapuri, Kandapuri — are each tied to a divine worshipper remembered here.",
-    "legends": "Many gods are said to have worshipped at Semponarkoil. Mahalakshmi did penance to Shiva here to win Vishnu as her lord, so the place was called Lakshmipuri. Indra worshipped the lord to obtain the vajra with which to slay the demon Vruddhasura, giving the name Indirapuri; and Murugan worshipped here before destroying Tharakasura, giving Kandapuri. The temple is also remembered as the place where Dakshayani, Shiva's consort, worshipped him before going, uninvited and against his wish, to her father Daksha's sacrifice. The golden sheen of the self-manifested lingam gives the lord the name Swarnapureeswarar.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. The temple's many divine associations — with Lakshmi, Indra, Murugan and Dakshayani — lend their own colour to its observances, and the proximity to the great temple centres around Mayiladuthurai draws pilgrims on the wider delta circuit.",
-    "experience": "Semponarkoil rewards the pilgrim with a temple whose every name tells of a god who came to worship here, and whose golden lord is set in finely carved Chola stone. The darshan of Swarnapureeswarar, amid inscriptions and sculpture spanning many reigns, gives the visit the depth of a place long cherished across the ages."
+    "history": "সেম্পোনারকোইল, যাকে তিরুচেম্পোনপল্লিও বলা হয়, মায়িলাদুতুরৈয়ের কাছে একটি প্রাচীন শৈব গ্রাম, সপ্তম শতকের তেবারমে সম্বন্দর ও আপ্পর কর্তৃক স্তুত এবং পাডল পেট্র স্থলমগুলির মধ্যে গণ্য। মন্দিরের শিল্প ও শিলালিপি এর ইতিহাস বহন করে: একটি কুলুঙ্গিতে জ্যেষ্ঠা দেবীর মূর্তি প্রথম আদিত্য চোলের সময়ে সংস্কারের দিকে ইঙ্গিত করে, আর শিলালিপিগুলি তৃতীয় কুলোত্তুঙ্গ চোল, প্রথম রাজাধিরাজ এবং অনেক পরে তাঞ্জোরের সরফোজির রাজত্বকাল লিপিবদ্ধ করে—বহু শতাব্দী জুড়ে পৃষ্ঠপোষকতার এক বিস্তার।",
+    "architecture": "মন্দিরটি দ্রাবিড় পরিকল্পনা অনুসরণ করে, একটি গোপুরম, প্রাকার এবং স্বর্ণপুরীশ্বরের গর্ভগৃহ সহ, যেখানে একটি স্বয়ম্ভূ লিঙ্গ সোনার মতো ঝলমল করত বলে কথিত। চোল যুগের ভাস্কর্য, যার মধ্যে জ্যেষ্ঠা দেবীর মূর্তি সংস্কারের কাল নির্ণয়ে সাহায্য করে, এবং এর দেয়ালের শিলালিপি মন্দিরটিকে পরপর রাজবংশের এক প্রস্তরলিপি করে তোলে। স্থানের নানা পবিত্র নাম—লক্ষ্মীপুরী, ইন্দিরাপুরী, কন্দপুরী—প্রতিটিই এখানে স্মরিত এক দিব্য উপাসকের সঙ্গে বাঁধা।",
+    "legends": "বলা হয় বহু দেবতা সেম্পোনারকোইলে আরাধনা করেছিলেন। মহালক্ষ্মী বিষ্ণুকে স্বামীরূপে পাওয়ার জন্য এখানে শিবের উদ্দেশে তপস্যা করেছিলেন, তাই স্থানটির নাম হয় লক্ষ্মীপুরী। ইন্দ্র বৃদ্ধাসুর নামক দানবকে বধ করার বজ্র লাভের জন্য প্রভুর আরাধনা করেছিলেন, যা দেয় ইন্দিরাপুরী নাম; আর মুরুগান তারকাসুর বিনাশের আগে এখানে আরাধনা করেছিলেন, যা দেয় কন্দপুরী নাম। মন্দিরটি সেই স্থান হিসেবেও স্মরণীয় যেখানে শিবের সহধর্মিণী দাক্ষায়ণী তাঁর পিতা দক্ষের যজ্ঞে অনাহূত ও তাঁর ইচ্ছার বিরুদ্ধে যাওয়ার আগে তাঁর আরাধনা করেছিলেন। স্বয়ম্ভূ লিঙ্গের সোনালি দ্যুতি প্রভুকে স্বর্ণপুরীশ্বর নাম দেয়।",
+    "festivals": "মন্দিরটি শৈব উৎসব পঞ্জিকা পালন করে—মহাশিবরাত্রি, প্রদোষম, মার্গশীর্ষ ঋতু এবং বার্ষিক ব্রহ্মোৎসবম। মন্দিরের বহু দিব্য সংযোগ—লক্ষ্মী, ইন্দ্র, মুরুগান ও দাক্ষায়ণীর সঙ্গে—এর আচারানুষ্ঠানে নিজস্ব বর্ণ যোগ করে, আর মায়িলাদুতুরৈয়ের চারপাশের মহান মন্দিরকেন্দ্রগুলির নৈকট্য বৃহত্তর বদ্বীপ পথের তীর্থযাত্রীদের টানে।",
+    "experience": "সেম্পোনারকোইল তীর্থযাত্রীকে এমন একটি মন্দির দিয়ে পুরস্কৃত করে যার প্রতিটি নাম এক দেবতার কথা বলে যিনি এখানে আরাধনা করতে এসেছিলেন, আর যার সোনালি প্রভু সূক্ষ্মভাবে খোদাই করা চোল পাথরে অধিষ্ঠিত। বহু রাজত্ব জুড়ে বিস্তৃত শিলালিপি ও ভাস্কর্যের মাঝে স্বর্ণপুরীশ্বরের দর্শন ভ্রমণকে যুগ যুগ ধরে লালিত এক স্থানের গভীরতা দেয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Semponarkoil is near Mayiladuthurai (and Sembanarkoil town) in the Nagapattinam/Mayiladuthurai delta, roughly 15 km from Mayiladuthurai; the nearest rail heads are Mayiladuthurai and Sirkazhi, with local buses and taxis to the temple."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার অপরাহ্ন থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশপথে পাদুকা রেখে যাওয়া হয়।",
+    "photography": "বাইরের গলিপথে সাধারণত আলোকচিত্রগ্রহণ অনুমোদিত কিন্তু গর্ভগৃহের ভিতরে নয়; আচারানুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "সেম্পোনারকোইল মায়িলাদুতুরৈয়ের কাছে (এবং সেম্বানারকোইল শহরের কাছে) নাগাপট্টিনম/মায়িলাদুতুরৈ বদ্বীপে, মায়িলাদুতুরৈ থেকে প্রায় ১৫ কিমি দূরে; নিকটতম রেলপথ মায়িলাদুতুরৈ ও সিরকাড়ি, মন্দিরে স্থানীয় বাস ও ট্যাক্সি রয়েছে।"
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "manikkavannar-tirumarugal",
   "locale": "bn",
+  "name": "মাণিক্কবণ্ণর মন্দির, তিরুমারুগল",
   "nativeName": "திருமருகல் மாணிக்கவண்ணர் (ரத்னகிரீஸ்வரர்) கோயில்",
+  "deity": "শিব মাণিক্কবণ্ণর (রত্নগিরীশ্বরর) রূপে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, তেবারমে স্তুত",
   "location": {
-    "city": "Tirumarugal, near Nannilam",
-    "state": "Tamil Nadu",
+    "city": "তিরুমারুগল, নন্নিলমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.8422,
     "lng": 79.6281
   },
+  "period": "তেবারম যুগ, চোল যুগের কাঠামো সহ",
   "century": 9,
+  "dynasty": "চোল (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "নন্নিলমের কাছে তিরুমারুগল তেবারম যুগের সবচেয়ে কোমল অলৌকিক ঘটনাগুলির একটির ক্ষেত্র: এখানে শিশু-সন্ত তিরুজ্ঞান সম্বন্দর গান গেয়ে সর্পদষ্ট এক বরকে জীবনে ফিরিয়ে এনেছিলেন এবং তরুণ দম্পতির বিবাহ দেখেছিলেন বলা হয়, যেখানে স্বয়ং শিব সাক্ষী ছিলেন। প্রভু এখানে মাণিক্কবণ্ণর—মণির আভাযুক্ত একজন—রূপে পূজিত, যিনি রত্নগিরীশ্বরর নামেও পরিচিত, একটি স্বয়ম্ভূ লিঙ্গ সহ পাডল পেট্র স্থলম, এবং কাছের বিনায়ক, যিনি বিষ নিবারণে সাহায্য করেছিলেন, বিটম-তীর্থ বিনায়কর রূপে সম্মানিত।",
   "sections": {
-    "history": "Tirumarugal is an ancient Shaiva village in the Nannilam country, revered in the seventh-century Tevaram and counted among the Paadal Petra Sthalams. The lingam is held to be self-manifested, and the sthala vriksham is the marugal tree that gives the place its name. The stone temple is of the Chola period with later additions; its fame, however, rests chiefly on the great Tevaram miracle that unfolded here, which has kept the village in devotional memory for well over a thousand years.",
-    "architecture": "The temple follows the Dravidian plan, with a gopuram, prakara and the sanctum of Manikkavannar — Ratnagireeswarar — housing the self-manifested lingam. Within the complex stands the shrine of Vitam-teertha Vinayakar, the Ganesha tied to the poison-removing miracle, whose name carries 'vitam,' poison. The marugal (sthala) tree and the temple tank complete a compact, atmospheric village shrine shaped by a single tender story.",
-    "legends": "The legend of Tirumarugal is beloved across the Tamil country. A young couple, in love against their families' wishes, were to be wed, but the bridegroom died of a snakebite. The child-saint Sambandar, moved by the grief, sang a Tevaram hymn to Shiva, and the young man rose alive; the marriage was then solemnised, with the lord himself as witness when doubt was cast on the union. The nearby Vinayaka, said to have aided in drawing out the poison, is honoured as Vitam-teertha Vinayakar. The story makes Tirumarugal a place devotees associate with healing, marriage and the undoing of grief.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi observances and the annual Brahmotsavam. The association with Sambandar's miracle gives the days honouring the saint a special warmth, and couples and families come with prayers for marriage, for children and for relief from the fear of snakebite and poison.",
-    "experience": "Tirumarugal is a quiet village temple whose power is the tenderness of its story. Pilgrims come knowing the tale of the revived bridegroom and the witnessing lord, and the darshan of Manikkavannar carries the sense of a grace that answers love and grief alike. For many it is a place of hope at the thresholds of life — marriage, healing, and new beginnings."
+    "history": "তিরুমারুগল নন্নিলম অঞ্চলের একটি প্রাচীন শৈব গ্রাম, সপ্তম শতাব্দীর তেবারমে পূজিত এবং পাডল পেট্র স্থলমগুলির মধ্যে গণ্য। লিঙ্গটি স্বয়ম্ভূ বলে ধরা হয়, এবং স্থলবৃক্ষম হলো মারুগল গাছ যা স্থানটিকে তার নাম দেয়। পাথরের মন্দিরটি চোল যুগের, পরবর্তী সংযোজন সহ; তবে এর খ্যাতি প্রধানত নির্ভর করে সেই মহান তেবারম অলৌকিক ঘটনার উপর যা এখানে ঘটেছিল, যা গ্রামটিকে হাজার বছরেরও বেশি সময় ধরে ভক্তিময় স্মৃতিতে রেখে দিয়েছে।",
+    "architecture": "মন্দিরটি দ্রাবিড় পরিকল্পনা অনুসরণ করে, একটি গোপুরম, প্রাকার এবং মাণিক্কবণ্ণর—রত্নগিরীশ্বরর—এর গর্ভগৃহ সহ, যা স্বয়ম্ভূ লিঙ্গকে ধারণ করে। প্রাঙ্গণের মধ্যে রয়েছে বিটম-তীর্থ বিনায়করের মন্দির, বিষ-নিবারণ অলৌকিক ঘটনার সঙ্গে যুক্ত সেই গণেশ, যাঁর নামে 'বিটম', অর্থাৎ বিষ, রয়েছে। মারুগল (স্থল) বৃক্ষ ও মন্দির-পুষ্করিণী একটি সংহত, ভাবগম্ভীর গ্রামীণ ক্ষেত্রকে সম্পূর্ণ করে, যা একটি কোমল কাহিনি দিয়ে গঠিত।",
+    "legends": "তিরুমারুগলের কিংবদন্তি সমগ্র তামিল দেশে প্রিয়। এক তরুণ দম্পতি, পরিবারের ইচ্ছার বিরুদ্ধে প্রেমে, বিবাহ করতে যাচ্ছিলেন, কিন্তু বর সর্পদংশনে মারা যান। শিশু-সন্ত সম্বন্দর, শোকে অভিভূত হয়ে, শিবের উদ্দেশে একটি তেবারম স্তোত্র গেয়েছিলেন, এবং তরুণটি জীবিত উঠে দাঁড়ান; তখন বিবাহ সম্পন্ন হয়, আর যখন এই মিলন নিয়ে সন্দেহ জাগে তখন স্বয়ং প্রভু সাক্ষী হন। কাছের বিনায়ক, যিনি বিষ টেনে বের করতে সাহায্য করেছিলেন বলা হয়, বিটম-তীর্থ বিনায়কর রূপে সম্মানিত। এই কাহিনি তিরুমারুগলকে এমন এক স্থান করে তোলে যা ভক্তরা আরোগ্য, বিবাহ ও শোকমোচনের সঙ্গে যুক্ত করেন।",
+    "festivals": "মন্দিরটি শৈব উৎসব পঞ্জিকা পালন করে—মহা শিবরাত্রি, প্রদোষম, মার্গঝি পালন ও বার্ষিক ব্রহ্মোৎসবম। সম্বন্দরের অলৌকিক ঘটনার সঙ্গে সম্পর্ক সন্তের সম্মানার্থ দিনগুলিতে বিশেষ উষ্ণতা দেয়, এবং দম্পতি ও পরিবারগুলি বিবাহের, সন্তানের এবং সর্পদংশন ও বিষের ভয় থেকে মুক্তির প্রার্থনা নিয়ে আসেন।",
+    "experience": "তিরুমারুগল একটি শান্ত গ্রামীণ মন্দির যার শক্তি তার কাহিনির কোমলতায়। তীর্থযাত্রীরা পুনর্জীবিত বর ও সাক্ষী প্রভুর কাহিনি জেনে আসেন, এবং মাণিক্কবণ্ণরের দর্শন এমন এক কৃপার অনুভূতি বহন করে যা প্রেম ও শোক উভয়েরই উত্তর দেয়। অনেকের কাছে এটি জীবনের দোরগোড়ায়—বিবাহ, আরোগ্য ও নতুন সূচনার—আশার স্থান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirumarugal is in the Nannilam area (Tiruvarur/Nagapattinam district), about 6-7 km from Tiruppugalur and roughly 20 km from Tiruvarur; the nearest rail heads are Nannilam and Tiruvarur, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; জুতো প্রবেশদ্বারে রাখা হয়।",
+    "photography": "বাইরের গলিপথে সাধারণত ফটোগ্রাফির অনুমতি থাকলেও গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুমারুগল নন্নিলম অঞ্চলে (তিরুভারুর/নাগাপট্টিনম জেলা) অবস্থিত, তিরুপ্পুগলুর থেকে প্রায় ৬-৭ কিমি এবং তিরুভারুর থেকে মোটামুটি ২০ কিমি দূরে; নিকটতম রেলপথ হলো নন্নিলম ও তিরুভারুর, গ্রামে পৌঁছানোর জন্য স্থানীয় বাস ও ট্যাক্সি রয়েছে।"
   }
 }

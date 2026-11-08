@@ -1,29 +1,36 @@
 {
   "id": "manikandeswarar-tirumalpur",
   "locale": "bn",
+  "name": "মাণিকণ্ডেশ্বরর মন্দির, তিরুমালপুর",
   "nativeName": "மாணிக்கண்டேஸ்வரர் கோயில்",
+  "deity": "শিব মাণিকণ্ডেশ্বরর (মালবনঙ্গীশ্বরর) রূপে, দেবী করুণাই নায়কী (অঞ্জনাক্ষী) সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tirumalpur",
-    "state": "Tamil Nadu",
+    "city": "তিরুমালপুর",
+    "state": "তামিলনাড়ু",
     "lat": 12.957,
     "lng": 79.674
   },
+  "period": "তোণ্ডাই নাড়ুর প্রাচীন শৈব ক্ষেত্র, তেবারমে স্তুত (সপ্তম শতাব্দী); চোল যুগ ও পরবর্তীকালের কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল ও পরবর্তী তামিল পৃষ্ঠপোষকগণ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "মাণিকণ্ডেশ্বরর হলেন তোণ্ডাই অঞ্চলের তিরুমালপুরের শিবমন্দির, একটি পাডল পেট্র স্থলম, যা বিষ্ণুর এখানে শিবপূজা এবং দেবী পার্বতীর নদীতীরে প্রায়শ্চিত্তে স্থাপিত বালির লিঙ্গের ঐতিহ্যের জন্য স্মরণীয়।",
   "sections": {
-    "history": "Tirumalpur, known in older usage as Tirumarperu, stands in the Thondai country in what is now Ranipet district. The presiding Lord is praised in the Tevaram, where the hymns of the saints Appar and Sambandar name the shrine, which counts it among the Paadal Petra Sthalams, the temples sung by the Tamil Shaiva saints. The town's name is read as linked to Tirumal, the name of Vishnu, from a tradition that remembers his worship of Shiva here. The present stone temple belongs to the Chola period and later, raised and enlarged by the patrons of the Tamil country and kept in worship ever since.",
-    "architecture": "Built in the Dravidian manner and entered beneath a rajagopuram, the temple holds the Shiva linga as Manikandeswarar, who is also called Maalvanangeeswarar, the Lord worshipped by Vishnu. The goddess Karunai Nayaki, also named Anjanakshi, is honoured in her own shrine. Within the enclosure lies the temple tank, remembered as Chakra Theertham, and tradition keeps here a venerated linga of sand on the river bank, covered with a sheath of copper when it is bathed so that the sand may not be disturbed. Sources leave the finer measures of the temple unrecorded, so they are kept general here.",
-    "legends": "Two stories gather at Tirumalpur. In the first, Vishnu is said to have worshipped Shiva here and to have had his discus, the Sudarshana chakra, restored to its edge, and from his name, Tirumal, the town is called. In the second, the goddess Parvati, in play, covered Shiva's eyes with her hands and so plunged the worlds into darkness; to atone she shaped a linga of sand on the bank of the river and worshipped it, and that sand linga is venerated to this day and shielded by a copper cover during its ablutions. Both are told as the temple's sacred tradition.",
-    "festivals": "The temple keeps the festivals common to the great Shiva shrines, with a car festival and street processions drawing the deities through the town, and Maha Shivaratri and the monthly Pradosham observed with devotion. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Tirumalpur rewards an unhurried visit. Come to the sanctum of Manikandeswarar, turn to the compassionate goddess Karunai Nayaki in her own shrine, and walk to the temple tank remembered as Chakra Theertham. Devotees hold dear the tradition of the sand linga and the stories of Vishnu's and Parvati's worship, which give the old shrine its particular feeling of a place where the gods themselves came to pray. The town lies on the plain near Arakkonam, but within the walls the temple keeps the quiet of a very old sanctuary."
+    "history": "তিরুমালপুর, পুরনো ব্যবহারে তিরুমারপেরু নামে পরিচিত, বর্তমান রাণিপেট জেলার তোণ্ডাই অঞ্চলে অবস্থিত। অধিষ্ঠাতা প্রভুকে তেবারমে স্তুতি করা হয়েছে, যেখানে সন্ত আপ্পার ও সম্বন্দরের স্তোত্রে এই ক্ষেত্রের উল্লেখ আছে, যা একে পাডল পেট্র স্থলম—তামিল শৈব সন্তদের দ্বারা স্তুত মন্দিরগুলির—মধ্যে গণ্য করে। শহরের নামটি তিরুমাল, বিষ্ণুর নামের সঙ্গে যুক্ত বলে পড়া হয়, এই ঐতিহ্য থেকে যা স্মরণ করে যে তিনি এখানে শিবপূজা করেছিলেন। বর্তমান পাথরের মন্দিরটি চোল যুগ ও পরবর্তীকালের, তামিল দেশের পৃষ্ঠপোষকদের দ্বারা নির্মিত ও সম্প্রসারিত এবং তদবধি পূজায় রক্ষিত।",
+    "architecture": "দ্রাবিড় রীতিতে নির্মিত এবং একটি রাজগোপুরমের নিচে প্রবেশ করে, মন্দিরটি মাণিকণ্ডেশ্বরর রূপে শিবলিঙ্গ ধারণ করে, যিনি মালবনঙ্গীশ্বরর—বিষ্ণুর দ্বারা পূজিত প্রভু—নামেও পরিচিত। দেবী করুণাই নায়কী, অঞ্জনাক্ষী নামেও অভিহিত, তাঁর নিজস্ব মন্দিরে সম্মানিত। প্রাঙ্গণের মধ্যে রয়েছে মন্দির-পুষ্করিণী, চক্র তীর্থম নামে স্মরণীয়, এবং ঐতিহ্য এখানে নদীতীরে একটি পূজিত বালির লিঙ্গ রক্ষা করে, যা স্নান করানোর সময় তামার আবরণে ঢাকা থাকে যাতে বালি বিচলিত না হয়। সূত্রগুলি মন্দিরের সূক্ষ্মতর পরিমাপ অলিখিত রাখে, তাই সেগুলি এখানে সাধারণভাবে রাখা হয়েছে।",
+    "legends": "তিরুমালপুরে দুটি কাহিনি একত্রিত হয়। প্রথমটিতে, বিষ্ণু এখানে শিবপূজা করেছিলেন বলা হয় এবং তাঁর চক্র, সুদর্শন চক্র, তার ধার ফিরে পেয়েছিল, আর তাঁর নাম তিরুমাল থেকেই শহরটির নামকরণ হয়। দ্বিতীয়টিতে, দেবী পার্বতী খেলাচ্ছলে তাঁর হাত দিয়ে শিবের চোখ ঢেকে দিয়েছিলেন এবং এভাবে জগৎকে অন্ধকারে ডুবিয়ে দেন; প্রায়শ্চিত্ত করতে তিনি নদীতীরে বালির একটি লিঙ্গ গড়ে তা পূজা করেন, এবং সেই বালির লিঙ্গ আজও পূজিত ও স্নানের সময় তামার আবরণে রক্ষিত। দুটোই মন্দিরের পবিত্র ঐতিহ্য রূপে বলা হয়।",
+    "festivals": "মন্দিরটি মহান শিবক্ষেত্রগুলির সাধারণ উৎসব পালন করে, একটি রথযাত্রা ও পথ-শোভাযাত্রায় দেবতাদের শহরের মধ্য দিয়ে বহন করা হয়, এবং মহা শিবরাত্রি ও প্রতি মাসের প্রদোষম ভক্তি সহকারে পালিত হয়। তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই সেগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তিরুমালপুর এক অবকাশহীন ভ্রমণের পুরস্কার দেয়। মাণিকণ্ডেশ্বররের গর্ভগৃহে আসুন, করুণাময়ী দেবী করুণাই নায়কীর দিকে তাঁর নিজস্ব মন্দিরে ফিরুন, এবং চক্র তীর্থম নামে স্মরণীয় মন্দির-পুষ্করিণীতে হাঁটুন। ভক্তরা বালির লিঙ্গের ঐতিহ্য এবং বিষ্ণু ও পার্বতীর পূজার কাহিনিকে প্রিয় মনে করেন, যা এই প্রাচীন ক্ষেত্রকে এমন এক স্থানের বিশেষ অনুভূতি দেয় যেখানে দেবতারা স্বয়ং প্রার্থনা করতে এসেছিলেন। শহরটি আরাক্কোনমের কাছে সমতলে অবস্থিত, কিন্তু প্রাচীরের ভেতরে মন্দিরটি অতি প্রাচীন এক ক্ষেত্রের নীরবতা রক্ষা করে।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tirumalpur is in Ranipet district, in the Arakkonam taluk, with its own station on the Chennai suburban railway line and about 8 km from Thakkolam. Arakkonam and Kanchipuram are the nearest large centres, with frequent buses, and Chennai is the nearest airport. Confirm distances and connections locally."
+    "timings": "সাধারণত সকালে এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে, মধ্যাহ্নে বিরতি সহ; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। জুতো প্রবেশদ্বারের স্ট্যান্ডে রাখা হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে বাইরের গলিপথ ও প্রাঙ্গণে সাধারণত ফটোগ্রাফির অনুমতি থাকলেও অভ্যন্তরীণ গর্ভগৃহের ভিতরে তা নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুমালপুর রাণিপেট জেলার আরাক্কোনম তালুকে অবস্থিত, চেন্নাই শহরতলি রেললাইনে এর নিজস্ব স্টেশন আছে এবং থাক্কোলম থেকে প্রায় ৮ কিমি দূরে। আরাক্কোনম ও কাঞ্চিপুরম নিকটতম বড় কেন্দ্র, যেখানে ঘন ঘন বাস চলে, আর চেন্নাই নিকটতম বিমানবন্দর। দূরত্ব ও সংযোগ স্থানীয়ভাবে নিশ্চিত করুন।"
   }
 }

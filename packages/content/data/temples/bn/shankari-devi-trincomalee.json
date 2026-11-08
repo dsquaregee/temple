@@ -1,29 +1,40 @@
 {
   "id": "shankari-devi-trincomalee",
   "locale": "bn",
+  "name": "শঙ্করী দেবী মন্দির, ত্রিঙ্কোমালি",
   "nativeName": "சங்கரி தேவி கோயில்",
+  "deity": "শঙ্করী দেবী (ইন্দ্রাক্ষী) রূপে দেবী, লঙ্কার শক্তিপীঠ",
+  "tradition": "শাক্তধর্ম",
   "location": {
-    "city": "Trincomalee",
-    "state": "Eastern Province, Sri Lanka",
+    "city": "ত্রিঙ্কোমালি",
+    "state": "পূর্ব প্রদেশ, শ্রীলঙ্কা",
     "lat": 8.5825,
     "lng": 81.2456
   },
+  "period": "আদি শঙ্করের নামে প্রচলিত স্তোত্রে আঠারোটি মহা শক্তিপীঠের মধ্যে প্রথমে নামাঙ্কিত (অষ্টম শতক); ঐতিহাসিক মন্দিরটি সপ্তদশ শতকে ধ্বংস হয়, এবং বিংশ শতক থেকে কোনেশ্বরমে দেবী পুনরায় পূজিত",
   "century": 8,
+  "dynasty": "প্রাচীন ঐতিহ্য; কোনেশ্বরম প্রাঙ্গণের তামিল হিন্দু পৃষ্ঠপোষকতা; আধুনিক পুনর্নির্মাণ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "আঠারোটি মহা শক্তিপীঠের মধ্যে প্রথম, শঙ্করী দেবী হলেন লঙ্কার দেবী, কোনেশ্বরম মন্দিরের পাশে স্বামী রকে পূজিত, যেখানে পর্তুগিজদের দ্বারা ভাঙা একটি আসন ত্রিঙ্কোমালির সমুদ্রের উপরে আবার পূজিত হয়।",
   "sections": {
-    "history": "Shankari Devi is named first in the Ashtadasha Shakti Peetha Stotram, the hymn ascribed to Adi Shankara that lists eighteen great seats of the Goddess and opens with the words Lankayam Shankari Devi, meaning in Lanka, Shankari Devi. Tradition places her seat on Swami Rock at Trincomalee, on the same headland as the Koneswaram temple of Shiva, and pilgrims have long visited the two together as Shakti and Shiva. The historic shrine did not survive the colonial age. Portuguese forces under Constantino de Sá de Noronha pulled down the temples of the rock in the early seventeenth century, with sources giving 1622 or 1624, and the stone went into Fort Frederick. Worship was revived in the twentieth century, and the Goddess is honoured today in a rebuilt shrine beside Koneswaram.",
-    "architecture": "Swami Rock is a headland that ends in a sheer cliff, falling some 120 metres to the sea, and the shrine of the Goddess stands within the same sacred precinct as Koneswaram, reached through the gates of Fort Frederick. What worshippers see today is a modern reconstruction in the Dravidian manner of the island's Tamil Hindu temples, with a sanctum for the Goddess and a gateway and sculpted ornament in the familiar southern style. Little of the original medieval stonework is known to remain in place. What endures is the setting itself: the rock, the salt wind and the long view over Trincomalee's great natural harbour.",
-    "legends": "In the Puranic story Sati, daughter of Daksha, gives up her life at her father's sacrifice after he insults Shiva. Shiva wanders the world carrying her body in his grief, and Vishnu's discus divides it so that its parts fall in sacred places, each afterwards worshipped as a Shakti Peetha. Lists commonly say that at Trincomalee it was the groin of Sati that fell, while a verse of the Pitha Nirnaya names the anklet for the seat in Lanka, giving the Goddess there as Indrakshi and the Bhairava as Rakshaseshwara. This is why the same seat is remembered as both Shankari and Indrakshi, and why other places in Sri Lanka, such as Nainativu in the north, also appear in the tradition. Local belief further links Swami Rock with Ravana, the devout king of Lanka who worshipped Shiva.",
-    "festivals": "Navaratri, the nine nights of the Goddess in autumn and closing with Vijayadashami, is the natural season of devotion to Shankari Devi, and Fridays are dear to her devotees. As part of the Koneswaram precinct the shrine also shares in Maha Shivaratri and in the festivals of the Tamil calendar kept on the rock. Specific observances at the Goddess's own shrine are not firmly documented, and dates follow the Tamil calendar, so confirm locally.",
-    "experience": "The visit is as much a climb to a headland as to a shrine. Pass through the fort gates, walk out along Swami Rock with the sea falling away on either side, and come to the Goddess after greeting Shiva at Koneswaram, as pilgrims have long done. Many devotees recite the opening line of the stotram, Lankayam Shankari Devi, at her threshold. Knowing how much was lost here gives the quiet shrine a particular tenderness, and the open sky and sea make it easy to understand why this was chosen as the first seat of the Goddess."
+    "history": "অষ্টাদশ শক্তিপীঠ স্তোত্রে শঙ্করী দেবীর নাম প্রথমে উচ্চারিত হয়; আদি শঙ্করের নামে প্রচলিত এই স্তোত্র দেবীর আঠারোটি মহাপীঠের তালিকা দেয় এবং শুরু হয় \"লঙ্কায়াং শঙ্করী দেবী\" কথায়, অর্থাৎ লঙ্কায় শঙ্করী দেবী। ঐতিহ্য তাঁর আসনকে ত্রিঙ্কোমালির স্বামী রকে স্থাপন করে, শিবের কোনেশ্বরম মন্দিরের একই অন্তরীপে, এবং তীর্থযাত্রীরা দীর্ঘকাল শক্তি ও শিবকে একসঙ্গে দর্শন করতে এসেছেন। ঐতিহাসিক মন্দিরটি ঔপনিবেশিক যুগে টেকেনি। কোনস্তান্তিনো দে সা দে নরোনহার নেতৃত্বে পর্তুগিজ বাহিনী সপ্তদশ শতকের গোড়ায় এই শৈলের মন্দিরগুলি ভেঙে ফেলে—সূত্রে ১৬২২ বা ১৬২৪ সালের উল্লেখ আছে—এবং পাথর ফোর্ট ফ্রেডরিকের নির্মাণে লাগে। বিংশ শতকে পূজা পুনরুজ্জীবিত হয়, এবং আজ কোনেশ্বরমের পাশে একটি পুনর্নির্মিত মন্দিরে দেবী পূজিত।",
+    "architecture": "স্বামী রক একটি অন্তরীপ, যার শেষ প্রান্তে খাড়া পাহাড় সমুদ্রে প্রায় ১২০ মিটার নেমে গেছে, এবং দেবীর মন্দিরটি কোনেশ্বরমের সঙ্গে একই পবিত্র প্রাঙ্গণে অবস্থিত, যেখানে ফোর্ট ফ্রেডরিকের ফটক দিয়ে পৌঁছানো যায়। ভক্তরা আজ যা দেখেন তা দ্বীপের তামিল হিন্দু মন্দিরগুলির দ্রাবিড় রীতিতে একটি আধুনিক পুনর্নির্মাণ, দেবীর গর্ভগৃহ এবং পরিচিত দক্ষিণী শৈলীর একটি তোরণ ও ভাস্কর্যময় অলঙ্করণ সহ। মূল মধ্যযুগীয় পাথরের কাজের সামান্যই যথাস্থানে টিকে আছে বলে জানা যায়। যা স্থায়ী, তা হল স্থানটি নিজেই: শৈল, লবণাক্ত বাতাস, এবং ত্রিঙ্কোমালির বিশাল প্রাকৃতিক পোতাশ্রয়ের উপর দীর্ঘ দৃশ্য।",
+    "legends": "পৌরাণিক কাহিনিতে দক্ষের কন্যা সতী তাঁর পিতা শিবকে অপমান করার পর তাঁর যজ্ঞে প্রাণত্যাগ করেন। শিব শোকে দেহ বহন করে পৃথিবী পরিক্রমা করেন, এবং বিষ্ণুর চক্র তাঁর দেহ খণ্ড খণ্ড করে, যাতে সেই অংশগুলি পবিত্র স্থানে পড়ে, প্রতিটি পরে শক্তিপীঠ রূপে পূজিত হয়। তালিকায় সাধারণত বলা হয় যে ত্রিঙ্কোমালিতে সতীর ঊরুসন্ধি পড়েছিল, যদিও পীঠ নির্ণয়ের একটি শ্লোক লঙ্কার আসনের জন্য নূপুরের নাম করে, সেখানকার দেবীকে ইন্দ্রাক্ষী এবং ভৈরবকে রক্ষসেশ্বর বলে। এই কারণেই একই আসন শঙ্করী ও ইন্দ্রাক্ষী উভয় নামে স্মরণ করা হয়, এবং এই কারণেই শ্রীলঙ্কার অন্যান্য স্থান, যেমন উত্তরের নৈনতিবুও এই ঐতিহ্যে দেখা যায়। স্থানীয় বিশ্বাস স্বামী রককে রাবণের সঙ্গেও যুক্ত করে, যিনি ছিলেন শিবের ভক্ত লঙ্কাধিপতি।",
+    "festivals": "নবরাত্রি, শরতে দেবীর নয় রাত্রি যা বিজয়াদশমীতে সমাপ্ত হয়, শঙ্করী দেবীর প্রতি ভক্তির স্বাভাবিক কাল, এবং শুক্রবার তাঁর ভক্তদের প্রিয়। কোনেশ্বরম প্রাঙ্গণের অংশ হিসেবে এই মন্দির মহাশিবরাত্রি ও শৈলে পালিত তামিল পঞ্জিকার উৎসবগুলিরও ভাগীদার। দেবীর নিজস্ব মন্দিরে বিশেষ আচারাদি দৃঢ়ভাবে নথিবদ্ধ নয়, এবং তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "এই দর্শন যতটা একটি মন্দিরে, ততটাই একটি অন্তরীপে আরোহণ। ফোর্টের ফটক পেরিয়ে স্বামী রকের ধারে হেঁটে যান, দুপাশে সমুদ্র নেমে যাচ্ছে, এবং তীর্থযাত্রীরা দীর্ঘকাল যেমন করেছেন তেমনই কোনেশ্বরমে শিবকে প্রণাম জানিয়ে দেবীর কাছে আসুন। বহু ভক্ত তাঁর দ্বারে স্তোত্রের প্রথম চরণ, \"লঙ্কায়াং শঙ্করী দেবী\", পাঠ করেন। এখানে কত কিছু হারিয়ে গেছে তা জানলে এই নিস্তব্ধ মন্দিরে এক বিশেষ কোমলতা আসে, এবং উন্মুক্ত আকাশ ও সমুদ্র দেখলে সহজে বোঝা যায় কেন একে দেবীর প্রথম আসন হিসেবে বেছে নেওয়া হয়েছিল।"
   },
   "visit": {
-    "timings": "Fort Frederick, through which the rock is reached, is reported open from early morning to late evening, and the shrines keep the usual morning and evening worship with a midday pause. Confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered. Men may be asked to remove shirts before entering the shrine, and footwear is left outside. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum. The approach passes through an army-managed fort, so follow posted signs, and ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The shrine is on Swami Rock inside Fort Frederick in Trincomalee town, less than 3 km from Trincomalee railway station, which has services from Colombo. Colombo lies roughly 260 km away by road, and Bandaranaike International Airport near Colombo is the main international gateway. Foreign visitors are usually asked to buy a ticket at the counter by the car park before the fort."
+    "timings": "যে ফোর্ট ফ্রেডরিকের মধ্য দিয়ে শৈলে পৌঁছানো যায়, তা ভোর থেকে সন্ধ্যা পর্যন্ত খোলা থাকে বলে জানা যায়, এবং মন্দিরগুলি মধ্যাহ্নের বিরতি সহ সাধারণ সকাল ও সন্ধ্যার পূজা বজায় রাখে। বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে। পুরুষদের মন্দিরে প্রবেশের আগে জামা খুলতে বলা হতে পারে, এবং জুতো বাইরে রাখতে হয়। প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভেতরে ছবি তোলা অনুমোদিত নয়। প্রবেশপথ একটি সেনাবাহিনী-পরিচালিত ফোর্টের মধ্য দিয়ে যায়, তাই প্রকাশিত নির্দেশ অনুসরণ করুন, এবং আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি ত্রিঙ্কোমালি শহরের ফোর্ট ফ্রেডরিকের ভেতরে স্বামী রকে অবস্থিত, ত্রিঙ্কোমালি রেলস্টেশন থেকে ৩ কিমিরও কম দূরে, যেখানে কলম্বো থেকে পরিষেবা আছে। সড়কপথে কলম্বো প্রায় ২৬০ কিমি দূরে, এবং কলম্বোর কাছে বন্দরনায়েকে আন্তর্জাতিক বিমানবন্দর প্রধান আন্তর্জাতিক প্রবেশদ্বার। বিদেশি দর্শনার্থীদের সাধারণত ফোর্টে ঢোকার আগে গাড়ি রাখার জায়গার পাশের কাউন্টার থেকে টিকিট কিনতে বলা হয়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/shankari-devi-trincomalee.mp3",
+    "durationSec": 263
   }
 }

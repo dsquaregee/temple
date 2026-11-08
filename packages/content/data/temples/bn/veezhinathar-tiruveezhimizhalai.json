@@ -1,29 +1,40 @@
 {
   "id": "veezhinathar-tiruveezhimizhalai",
   "locale": "bn",
+  "name": "বীড়িনাথর মন্দির, তিরুবীড়িমিড়লৈ",
   "nativeName": "திருவீழிமிழலை வீழிநாதர் கோயில்",
+  "deity": "বীড়িনাথর রূপে শিব, দেবী সুন্দরকুচাম্বিকৈর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, তেবারমে স্তুত",
   "location": {
-    "city": "Tiruveezhimizhalai, near Needamangalam",
-    "state": "Tamil Nadu",
+    "city": "তিরুবীড়িমিড়লৈ, নীডামঙ্গলমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.8003,
     "lng": 79.5186
   },
+  "period": "তেবারম যুগ, চোল-যুগের কাঠামো সহ",
   "century": 7,
+  "dynasty": "চোল (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারুর অঞ্চলের তিরুবীড়িমিড়লৈ সর্বোপরি করুণার এক বিখ্যাত অলৌকিক ঘটনার জন্য স্মরণীয়। যখন দেশে এক তীব্র দুর্ভিক্ষ নেমে এল, সন্ত তিরুজ্ঞান সম্বন্দর ও তিরুনাবুক্করসর (অপ্পর) প্রভু বীড়িনাথরের কাছে প্রার্থনা করলেন, এবং শিব প্রতিদিন সকালে তাঁদের একটি করে স্বর্ণমুদ্রা—পডিকাসু—দান করতেন, যা দিয়ে তাঁরা অনাহারক্লিষ্ট মানুষদের খাওয়াতেন। তেবারমে স্তুত একটি পাডল পেট্র স্থলম, এই মন্দির দিব্য কৃপা ও মানবিক দানশীলতার একটিমাত্র কাহিনিকেই তার চিরন্তন হৃদয় করে তুলেছে।",
   "sections": {
-    "history": "Tiruveezhimizhalai is an ancient Shaiva village-temple in the delta country near Needamangalam, counted among the Paadal Petra Sthalams and hymned by Sambandar, Appar and Sundarar. The stone temple carries Chola-period workmanship with later additions, but its fame rests less on its fabric than on the events of the Tevaram age, when the two great saints are said to have sheltered here during a famine and fed the people by the lord's gift.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, pillared halls and a sanctum enshrining the lingam of Veezhinathar; the goddess Sundarakuchambikai has her own shrine. Within the complex, tradition points to the seats where the two saints are said to have received their daily gold coin — one near the maha-mandapam and another toward the western side — so that the great famine miracle is tied to specific places a pilgrim can still stand before.",
-    "legends": "The defining legend is the famine of the Tevaram age. With the land starving and the saints without means, Sambandar and Appar prayed to Veezhinathar, and each was granted a gold coin — the padikasu — every morning. One telling adds that the coins given to the younger Sambandar were of lower value than Appar's, and that Sambandar sang a hymn appealing to the lord, after which the coins were made equal. Unable to bear the people's suffering, the saints set up feeding houses and distributed food until the famine passed.",
-    "festivals": "The temple observes the Shaiva festivals — Maha Shivaratri, the Margazhi hymn-singing, Pradosham and the annual Brahmotsavam. The memory of the padikasu miracle gives the temple a special association with annadanam, the giving of food, and acts of charity are considered especially fitting here.",
-    "experience": "Tiruveezhimizhalai is a quiet delta temple whose power lies in its story. Pilgrims come knowing the tale of the gold coins and the fed multitude, and standing at the saints' seats they feel the nearness of a grace that answered hunger with generosity. It is a place that joins devotion to the simple, human act of feeding others."
+    "history": "তিরুবীড়িমিড়লৈ নীডামঙ্গলমের কাছে বদ্বীপ অঞ্চলের একটি প্রাচীন শৈব গ্রাম-মন্দির, পাডল পেট্র স্থলমগুলির অন্যতম বলে গণ্য এবং সম্বন্দর, অপ্পর ও সুন্দররের স্তোত্রে স্তুত। পাথরের মন্দিরটি পরবর্তী সংযোজন সহ চোল-যুগের কারুকাজ বহন করে, তবে এর খ্যাতি গঠনের চেয়ে বরং তেবারম যুগের ঘটনাবলীর উপর নির্ভর করে, যখন দুই মহান সন্ত এক দুর্ভিক্ষের সময় এখানে আশ্রয় নিয়েছিলেন এবং প্রভুর দানে মানুষদের খাইয়েছিলেন বলে কথিত।",
+    "architecture": "মন্দিরটি একটি গোপুরম, স্তম্ভশোভিত মণ্ডপ এবং বীড়িনাথরের লিঙ্গ অধিষ্ঠিত একটি গর্ভগৃহ সহ দ্রাবিড় পরিকল্পনা অনুসরণ করে; দেবী সুন্দরকুচাম্বিকৈর নিজস্ব মন্দির রয়েছে। প্রাঙ্গণের মধ্যে, ঐতিহ্য সেই আসনগুলির দিকে ইঙ্গিত করে যেখানে দুই সন্ত প্রতিদিনের স্বর্ণমুদ্রা পেতেন বলে কথিত—একটি মহা-মণ্ডপমের কাছে ও আরেকটি পশ্চিম দিকে—যাতে মহা দুর্ভিক্ষের অলৌকিক ঘটনা এমন নির্দিষ্ট স্থানগুলির সঙ্গে যুক্ত যেগুলির সামনে তীর্থযাত্রী আজও দাঁড়াতে পারেন।",
+    "legends": "সংজ্ঞাদায়ী কিংবদন্তিটি হল তেবারম যুগের দুর্ভিক্ষ। দেশ অনাহারে এবং সন্তরা উপায়হীন, সম্বন্দর ও অপ্পর বীড়িনাথরের কাছে প্রার্থনা করলেন, এবং প্রত্যেককে প্রতিদিন সকালে একটি করে স্বর্ণমুদ্রা—পডিকাসু—দান করা হল। একটি বিবরণ যোগ করে যে কনিষ্ঠ সম্বন্দরকে দেওয়া মুদ্রাগুলি অপ্পরের মুদ্রার চেয়ে কম মূল্যের ছিল, এবং সম্বন্দর প্রভুর কাছে আবেদন জানিয়ে একটি স্তোত্র গাইলেন, যার পর মুদ্রাগুলি সমান করা হল। মানুষের দুর্দশা সইতে না পেরে সন্তরা অন্নসত্র স্থাপন করলেন এবং দুর্ভিক্ষ কেটে না যাওয়া পর্যন্ত খাবার বিতরণ করলেন।",
+    "festivals": "মন্দিরে শৈব উৎসবগুলি পালিত হয়—মহাশিবরাত্রি, মার্গড়ি মাসের স্তোত্রগান, প্রদোষম এবং বার্ষিক ব্রহ্মোৎসবম। পডিকাসু অলৌকিক ঘটনার স্মৃতি মন্দিরটিকে অন্নদানম, অর্থাৎ খাদ্যদানের সঙ্গে এক বিশেষ সংযোগ দেয়, এবং দানশীলতার কাজ এখানে বিশেষভাবে উপযুক্ত বলে গণ্য।",
+    "experience": "তিরুবীড়িমিড়লৈ একটি নিরিবিলি বদ্বীপ মন্দির, যার শক্তি নিহিত তার কাহিনিতে। তীর্থযাত্রীরা স্বর্ণমুদ্রা ও খাওয়ানো জনসমুদ্রের গল্প জেনে আসেন, এবং সন্তদের আসনে দাঁড়িয়ে তাঁরা এমন এক কৃপার নৈকট্য অনুভব করেন যা ক্ষুধার উত্তর দিয়েছিল উদারতায়। এটি এমন এক স্থান যা ভক্তিকে অন্যকে খাওয়ানোর সরল, মানবিক কাজের সঙ্গে যুক্ত করে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruveezhimizhalai is near Needamangalam in Tiruvarur district, roughly 20 km from Tiruvarur and about 15 km from Kumbakonam; the nearest rail heads are Needamangalam and Kumbakonam, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত ও আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "সাধারণত বাইরের অলিন্দে ছবি তোলা অনুমোদিত, কিন্তু গর্ভগৃহের ভেতরে নয়; আচার ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবীড়িমিড়লৈ তিরুবারুর জেলার নীডামঙ্গলমের কাছে, তিরুবারুর থেকে প্রায় ২০ কিমি ও কুম্বকোণম থেকে প্রায় ১৫ কিমি দূরে; নিকটতম রেলস্টেশন নীডামঙ্গলম ও কুম্বকোণম, গ্রাম পর্যন্ত বাস ও ট্যাক্সি রয়েছে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/veezhinathar-tiruveezhimizhalai.mp3",
+    "durationSec": 197
   }
 }

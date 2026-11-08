@@ -1,30 +1,37 @@
 {
   "id": "kailasanathar-mount-kailash",
   "locale": "bn",
+  "name": "কৈলাস পর্বত (তিরুক্কৈলৈ)",
   "nativeName": "कैलाश पर्वत",
+  "deity": "শিব কৈলাসনাথর রূপে, পর্বতের প্রভু, পার্বতীর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Mount Kailash",
-    "state": "Tibet Autonomous Region, China",
+    "city": "কৈলাস পর্বত",
+    "state": "তিব্বত স্বায়ত্তশাসিত অঞ্চল, চীন",
     "lat": 31.0675,
     "lng": 81.3119
   },
+  "period": "বড় নাড়ুর পাডল পেট্র স্থলমগুলির মধ্যে গণ্য পবিত্র পর্বত, আপ্পর (৭ম শতক) ও সুন্দরর (৮ম শতক) কর্তৃক স্তুত",
   "century": 7,
+  "dynasty": "কোনো নির্মিত মন্দির নেই—পর্বত স্বয়ং আবাস",
+  "style": "প্রাকৃতিক পবিত্র পর্বত",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কৈলাস, তেবারমের তিরুক্কৈলৈ, পাথরের কোনো মন্দির নয় বরং স্বয়ং শিবের পর্বত-আবাস—পাডল পেট্র স্থলমগুলির সুদূর উত্তরের শিখর।",
   "sections": {
-    "history": "Mount Kailash rises to about 6,600 metres in the far west of Tibet, with Lake Manasarovar spread below it to the south. In Shaiva devotion it is the abode of Shiva and Parvati, and the Tamil saints sang it as Thirukkayilai, the holy Kailash. It is counted among the 276 Paadal Petra Sthalams — the farthest of the five in Vada Nadu, the northern country, with Srisailam and the Himalayan shrines. Appar sang the Lord of Kayilai, and Sundarar's last hymn calls it Nodithanmalai. No temple stands on the mountain: here the sthalam is the peak itself, and by long custom of reverence its summit has never been climbed.",
-    "architecture": "There is no gopuram or sanctum at Kailash; the mountain is its own shrine. Its four great faces, sharply shaped and snow-streaked, give it the look of a vast natural vimana, and pilgrims read in it the form of a lingam rising from the plateau. Worship takes the form of the parikrama, a circuit of about 52 kilometres around the base, crossing the Dolma La pass at roughly 5,600 metres, with the waters of Manasarovar as its sacred tank.",
-    "legends": "The Periya Puranam tells that Appar, in his old age, set out on foot to behold Kailash and pressed on until his body failed; the Lord came to him as a sage, bade him bathe in a pool, and he rose from the tank at Thiruvaiyaru, where Kailash was revealed to him in vision. Of Sundarar it tells that at the end of his life Shiva sent a white elephant to bring him to the mountain, his friend Cheraman Perumal riding beside him. Karaikkal Ammaiyar, it is said, climbed Kailash on her hands, unwilling to set her feet upon the Lord's abode.",
-    "festivals": "In the Tamil country, Kailash is remembered in Aadi: Thiruvaiyaru celebrates Appar's vision of Kailash, and Shaiva temples keep Sundarar's guru puja, recalling his journey on the white elephant. At the mountain itself the pilgrimage season runs through the summer months, when the passes are open; confirm dates locally.",
-    "experience": "Kailash is a pilgrimage of endurance and wonder: days on the high plateau, the bath at Manasarovar and the long circuit of the mountain in thin air. The mountain is held sacred not only by Hindus but also by Buddhists, Jains and followers of the Bon tradition, and pilgrims of every faith walk the same path around it in reverence."
+    "history": "কৈলাস পর্বত তিব্বতের সুদূর পশ্চিমে প্রায় ৬,৬০০ মিটার উঁচুতে উঠে গেছে, এর দক্ষিণে নিচে মানস সরোবর ছড়িয়ে আছে। শৈব ভক্তিতে এটি শিব ও পার্বতীর আবাস, এবং তামিল সাধকগণ একে তিরুক্কৈলৈ, পবিত্র কৈলাস রূপে স্তুতি করেছেন। এটি ২৭৬টি পাডল পেট্র স্থলমের মধ্যে গণ্য—বড় নাড়ু, উত্তর দেশের পাঁচটির মধ্যে সবচেয়ে দূরের, শ্রীশৈলম ও হিমালয়ের মন্দিরগুলির সঙ্গে। আপ্পর কৈলৈ-র প্রভুকে স্তুতি করেছেন, এবং সুন্দররের শেষ স্তোত্র একে নোডিত্তান্মলৈ বলে। পর্বতে কোনো মন্দির দাঁড়িয়ে নেই: এখানে স্থলম স্বয়ং শিখর, এবং শ্রদ্ধার দীর্ঘ প্রথায় এর শিখরে কখনও আরোহণ করা হয়নি।",
+    "architecture": "কৈলাসে কোনো গোপুরম বা গর্ভগৃহ নেই; পর্বত স্বয়ং এর মন্দির। এর চারটি মহান মুখ, তীক্ষ্ণভাবে আকৃতি ও তুষাররেখাঙ্কিত, একে এক বিশাল প্রাকৃতিক বিমানের রূপ দেয়, এবং তীর্থযাত্রীরা এর মধ্যে মালভূমি থেকে উত্থিত এক লিঙ্গের আকার পাঠ করেন। উপাসনা পরিক্রমার রূপ নেয়, পর্বতের ভিত্তির চারপাশে প্রায় ৫২ কিলোমিটারের এক চক্র, মোটামুটি ৫,৬০০ মিটারে ডলমা লা গিরিপথ অতিক্রম করে, এর পবিত্র পুষ্করিণী হিসেবে মানস সরোবরের জল সহ।",
+    "legends": "পেরিয় পুরাণম বলে যে আপ্পর, তাঁর বৃদ্ধ বয়সে, কৈলাস দর্শনের জন্য পদব্রজে রওনা হন এবং শরীর অক্ষম হওয়া পর্যন্ত এগিয়ে যান; প্রভু তাঁর কাছে এক ঋষি রূপে এলেন, তাঁকে এক জলাশয়ে স্নান করতে বললেন, এবং তিনি তিরুবৈয়ারুর পুষ্করিণী থেকে উঠে এলেন, যেখানে কৈলাস তাঁর কাছে দর্শনে প্রকট হয়েছিল। সুন্দরর সম্পর্কে এটি বলে যে তাঁর জীবনের শেষে শিব তাঁকে পর্বতে আনতে এক শ্বেত হস্তী পাঠান, তাঁর বন্ধু সেরমান পেরুমাল পাশে আরোহণ করে। কারৈক্কাল অম্মৈয়ার, কথিত আছে, প্রভুর আবাসে পা রাখতে অনিচ্ছুক হয়ে, হাতের উপর ভর দিয়ে কৈলাসে আরোহণ করেন।",
+    "festivals": "তামিল দেশে কৈলাস আড়ি মাসে স্মরণ করা হয়: তিরুবৈয়ারু আপ্পরের কৈলাস দর্শন উদযাপন করে, এবং শৈব মন্দিরগুলি সুন্দররের গুরু পূজা পালন করে, শ্বেত হস্তীতে তাঁর যাত্রা স্মরণ করে। পর্বতেই তীর্থ মরশুম গ্রীষ্মের মাসগুলি জুড়ে চলে, যখন গিরিপথগুলি খোলা থাকে; তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "কৈলাস সহনশীলতা ও বিস্ময়ের এক তীর্থ: উঁচু মালভূমিতে দিনের পর দিন, মানস সরোবরে স্নান এবং পাতলা বাতাসে পর্বতের দীর্ঘ পরিক্রমা। পর্বতটি কেবল হিন্দুদের নয় বরং বৌদ্ধ, জৈন ও বন ঐতিহ্যের অনুসারীদের কাছেও পবিত্র, এবং প্রতিটি ধর্মের তীর্থযাত্রীরা শ্রদ্ধায় এর চারপাশে একই পথ হাঁটেন।"
   },
   "visit": {
-    "timings": "There are no temple timings; the pilgrimage is possible only in the summer season, roughly June to September, when the routes are open. Confirm the current season, permits and arrangements well in advance.",
-    "dressCode": "Warm, layered clothing, sturdy walking shoes and protection from sun and wind are essential at this altitude. Dress modestly and follow the guidance of local authorities and guides at the sacred sites.",
-    "photography": "Photographing the mountain and the landscape is generally possible, but local regulations apply; respect pilgrims at prayer and ask before photographing people or monasteries.",
-    "gettingThere": "Indian pilgrims may join the Kailash Mansarovar Yatra organised by the Government of India through the Lipulekh pass in Uttarakhand or Nathu La in Sikkim; private tours travel via Nepal. Permits, medical fitness and acclimatisation are required."
+    "timings": "কোনো মন্দির সময়সূচি নেই; তীর্থ কেবল গ্রীষ্ম মরশুমে, মোটামুটি জুন থেকে সেপ্টেম্বর, সম্ভব, যখন পথগুলি খোলা থাকে। বর্তমান মরশুম, অনুমতি ও ব্যবস্থা অনেক আগে থেকে নিশ্চিত করে নিন।",
+    "dressCode": "এই উচ্চতায় উষ্ণ, স্তরযুক্ত পোশাক, মজবুত হাঁটার জুতা এবং সূর্য ও বাতাস থেকে সুরক্ষা অপরিহার্য। বিনম্রভাবে পোশাক পরুন এবং পবিত্র স্থানগুলিতে স্থানীয় কর্তৃপক্ষ ও গাইডদের নির্দেশ অনুসরণ করুন।",
+    "photography": "পর্বত ও প্রাকৃতিক দৃশ্যের ফটোগ্রাফি সাধারণত সম্ভব, কিন্তু স্থানীয় বিধি প্রযোজ্য; প্রার্থনারত তীর্থযাত্রীদের সম্মান করুন এবং মানুষ বা মঠের ছবি তোলার আগে জিজ্ঞাসা করুন।",
+    "gettingThere": "ভারতীয় তীর্থযাত্রীরা ভারত সরকার আয়োজিত কৈলাস মানসরোবর যাত্রায় উত্তরাখণ্ডের লিপুলেখ গিরিপথ বা সিকিমের নাথু লা দিয়ে যোগ দিতে পারেন; বেসরকারি ভ্রমণ নেপাল হয়ে যায়। অনুমতি, চিকিৎসাগত সুস্থতা ও উচ্চতার সঙ্গে অভ্যস্ততা প্রয়োজন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.jpg",

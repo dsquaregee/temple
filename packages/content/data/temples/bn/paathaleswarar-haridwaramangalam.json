@@ -1,29 +1,36 @@
 {
   "id": "paathaleswarar-haridwaramangalam",
   "locale": "bn",
+  "name": "পাতালেশ্বর মন্দির, হরিদ্বারমঙ্গলম (তিরুঅরদৈপেরুম্পাড়ি)",
   "nativeName": "திருஅரதைப்பெரும்பாழி பாதாளேஸ்வரர் கோயில்",
+  "deity": "পাতালেশ্বর রূপে শিব (পাতালের অধিপতি), দেবী অলঙ্কারবল্লীর সঙ্গে",
+  "tradition": "শৈব — একটি পাদল পেত্র স্থলম (একটি পঞ্চ অরণ্য ক্ষেত্রম)",
   "location": {
-    "city": "Haridwaramangalam, near Alangudi",
-    "state": "Tamil Nadu",
+    "city": "হরিদ্বারমঙ্গলম, অলঙ্গুড়ির নিকট",
+    "state": "তামিলনাড়ু",
     "lat": 10.8317,
     "lng": 79.3508
   },
+  "period": "তেবারম যুগ (৭ম শতকে স্তবগীত); পরবর্তীকালে চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "হরিদ্বারমঙ্গলম, তেবারমের তিরুঅরদৈপেরুম্পাড়ি, অলঙ্গুড়ির নিকটে, শিবকে পাতালেশ্বর — পাতালের অধিপতি — রূপে পূজা করে, দেবী অলঙ্কারবল্লীর সঙ্গে। তিরুজ্ঞান সম্বন্দরের স্তবে প্রশংসিত একটি পাদল পেত্র স্থলম ও পঞ্চ অরণ্য বনমন্দিরগুলির একটি, এর কৌতুকপূর্ণ কিংবদন্তি বলে শিব তাঁর বিবাহের আগে পাতালে লুকিয়েছিলেন, এবং বিষ্ণু তাঁকে খুঁজতে পাতালে একটি দ্বার খুলেছিলেন — যা থেকে শহরটি তার নাম পায়।",
   "sections": {
-    "history": "Haridwaramangalam, whose Tevaram name is Tiruaradaiperumpazhi, lies about 10 km west of Alangudi in the Valangaiman taluk of Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and is also counted among the Pancha Aranya Kshetrams, the five forest shrines of the Kumbakonam country, as the Vanni vanam. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Paathaleswarar — 'lord of Patala, the netherworld' — in the sanctum, with the goddess Alankaravalli in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the vanni (shami) tree, which gives the place its forest name. The temple is revered as a rina-vimochana sthalam, a place where worship is held to free devotees from debts.",
-    "legends": "The playful sthala legend tells that just before his wedding with Parvati, Shiva went into hiding underground, in Patala, in sport. The gods searched for the vanished bridegroom, and Vishnu — Hari — opened a door, a dwara, into the underworld to find him. From this deed the town takes its name, Haridwaramangalam, 'the auspicious place of Hari's door,' and the lord is called Paathaleswarar, lord of the netherworld. As a Pancha Aranya shrine of the vanni forest and a rina-vimochana sthalam, it is sought for relief from debts and burdens.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Devotees seeking release from debts, and pilgrims making the round of the Pancha Aranya forests, include Haridwaramangalam among their stops.",
-    "experience": "At Haridwaramangalam the pilgrim comes to a shrine of hidden grace, where Shiva once vanished into the earth in play and Vishnu opened a door to find him. Before Paathaleswarar and Alankaravalli, beneath the vanni of the forest shrine, the visitor feels the lightness of a divine game and the hope of release from every burden."
+    "history": "হরিদ্বারমঙ্গলম, যার তেবারম নাম তিরুঅরদৈপেরুম্পাড়ি, তিরুবারুর জেলার বলঙ্গাইমান তালুকে অলঙ্গুড়ির প্রায় ১০ কিমি পশ্চিমে অবস্থিত। এটি একটি পাদল পেত্র স্থলম, তিরুজ্ঞান সম্বন্দর কর্তৃক তেবারমে স্তবগীত, এবং এটি পঞ্চ অরণ্য ক্ষেত্রমগুলির — কুম্বকোণম অঞ্চলের পাঁচটি বনমন্দিরের — মধ্যে বন্নি বনম রূপে গণ্য। পাথরের মন্দিরটি চোল যুগের ও তার পরবর্তীকালের।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এই উপাসনালয়ের গর্ভগৃহে পাতালেশ্বর — ‘পাতাল লোকের অধিপতি’ — অধিষ্ঠিত, দেবী অলঙ্কারবল্লী নিজ উপাসনালয়ে, সঙ্গে একটি নন্দী ও পরিবার দেবতাগণ। স্থল বৃক্ষ হল বন্নি (শমী) গাছ, যা স্থানটিকে তার বন-নাম দেয়। মন্দিরটি একটি ঋণ-বিমোচন স্থলম রূপে শ্রদ্ধেয়, যেখানে ভক্তদের ঋণমুক্তির জন্য পূজা অনুষ্ঠিত হয়।",
+    "legends": "কৌতুকপূর্ণ স্থল কিংবদন্তি বলে, পার্বতীর সঙ্গে বিবাহের ঠিক আগে শিব খেলাচ্ছলে মাটির নিচে, পাতালে, লুকিয়ে পড়েন। দেবতারা অন্তর্হিত বরকে খুঁজলেন, এবং বিষ্ণু — হরি — তাঁকে খুঁজতে পাতালে একটি দ্বার, একটি দ্বার, খুললেন। এই কাজ থেকে শহরটি তার নাম পায়, হরিদ্বারমঙ্গলম, ‘হরির দ্বারের শুভ স্থান,’ এবং প্রভু পাতালেশ্বর, পাতালের অধিপতি, নামে অভিহিত হন। বন্নি বনের একটি পঞ্চ অরণ্য মন্দির ও একটি ঋণ-বিমোচন স্থলম রূপে, এটি ঋণ ও ভার থেকে মুক্তির জন্য প্রার্থিত।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহা শিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি পালন করে, সঙ্গে প্রদোষ পূজা। ঋণমুক্তি প্রার্থী ভক্তরা, এবং পঞ্চ অরণ্য বনগুলি পরিক্রমাকারী তীর্থযাত্রীরা হরিদ্বারমঙ্গলমকে তাঁদের যাত্রাবিন্দুগুলির মধ্যে অন্তর্ভুক্ত করেন।",
+    "experience": "হরিদ্বারমঙ্গলমে তীর্থযাত্রী এমন এক গুপ্ত কৃপার মন্দিরে আসেন, যেখানে শিব একদা খেলাচ্ছলে মাটিতে অন্তর্হিত হয়েছিলেন এবং বিষ্ণু তাঁকে খুঁজতে একটি দ্বার খুলেছিলেন। পাতালেশ্বর ও অলঙ্কারবল্লীর সম্মুখে, বনমন্দিরের বন্নি গাছের নিচে, দর্শনার্থী এক দৈব লীলার লঘুতা এবং সকল ভার থেকে মুক্তির আশা অনুভব করেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Haridwaramangalam is about 10 km west of Alangudi, in the Valangaiman taluk of Tiruvarur district (PIN 612802). Kumbakonam and Valangaiman are the nearest rail heads, with buses via Alangudi and local taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেলের শেষভাগ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; জুতা প্রবেশপথে রেখে যেতে হয়।",
+    "photography": "বাইরের বারান্দায় সাধারণত ফটোগ্রাফির অনুমতি রয়েছে, কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "হরিদ্বারমঙ্গলম তিরুবারুর জেলার বলঙ্গাইমান তালুকে অলঙ্গুড়ির প্রায় ১০ কিমি পশ্চিমে (পিন ৬১২৮০২)। কুম্বকোণম ও বলঙ্গাইমান নিকটতম রেলপথ, অলঙ্গুড়ি হয়ে বাস এবং গ্রামে স্থানীয় ট্যাক্সি রয়েছে।"
   }
 }

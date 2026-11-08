@@ -1,29 +1,40 @@
 {
   "id": "saaraparameswarar-tirucherai",
   "locale": "bn",
+  "name": "সার পরমেশ্বরর মন্দির, তিরুচ্চেরৈ",
   "nativeName": "திருச்சேறை சாரா பரமேஸ்வரர் கோயில்",
+  "deity": "সার পরমেশ্বরর (জ্ঞানপরমেশ্বরর) রূপে শিব, দেবী জ্ঞানবল্লীর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tirucherai, near Kudavasal",
-    "state": "Tamil Nadu",
+    "city": "তিরুচ্চেরৈ, কুড়বাসলের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.87,
     "lng": 79.47
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণম দেশে কুড়বাসলের কাছে তিরুচ্চেরৈ শিবকে সার পরমেশ্বরর—জ্ঞানপরমেশ্বরর—রূপে সম্মান করে, দেবী জ্ঞানবল্লীর সঙ্গে। সম্বন্দর ও অপ্পর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম, কাবেরীর দক্ষিণ তীরের ৯৫তম তীর্থ, এটি ঋষি মার্কণ্ডেয়ের সঙ্গে যুক্ত এবং ঋণমুক্তির জন্য প্রার্থিত।",
   "sections": {
-    "history": "Tirucherai lies near Kudavasal, in Thanjavur district (some sources Tiruvarur), in the Kumbakonam country. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar and Appar, and counted the 95th shrine on the southern bank of the Kaveri. The stone temple is of the Chola period and later. (The Shiva temple here is distinct from the Saranatha Perumal Vishnu Divya Desam of the same town.)",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Saara Parameswarar — Gnanaparameswarar, also Senneriyappar — in the sanctum, with the goddess Gnanavalli (Gnanambikai) in her own shrine, a Nandi and the parivara devatas. Near the Vinayakar stands a separate lingam, the Rnavimochana Lingeswarar, installed by sage Markandeya, worshipped for release from debt.",
-    "legends": "The sage Markandeya, by tradition, felt his past karmas lifted on coming here, and installed the Rnavimochana Lingeswarar — 'the lord who looses debt' — beside the Vinayakar; the shrine is especially sought by those seeking relief from debt. Shiva is worshipped as Saara Parameswarar, 'the supreme essence,' with Gnanavalli, 'she of wisdom,' beside him. The fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), the Annabishekam in Aippasi (October–November), Tiruvadhirai in Margazhi (December–January), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Devotees come especially to pray for release from debt.",
-    "experience": "At Tirucherai the pilgrim comes to the lord of the supreme essence. Before Saara Parameswarar and Gnanavalli, and the Rnavimochana lingam of Markandeya, the visitor finds the quiet grace of a Tevaram temple of the Kumbakonam delta, and the hope of release from the burden of debt."
+    "history": "তিরুচ্চেরৈ কুম্বকোণম দেশে, তাঞ্জাভুর জেলায় (কিছু সূত্রে তিরুবারুর) কুড়বাসলের কাছে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুজ্ঞান সম্বন্দর ও অপ্পর কর্তৃক স্তুত, এবং কাবেরীর দক্ষিণ তীরের ৯৫তম তীর্থ বলে গণ্য। পাথরের মন্দিরটি চোল যুগের ও পরবর্তী কালের। (এখানকার শিবমন্দির একই শহরের সারনাথ পেরুমাল বিষ্ণু দিব্যদেশম থেকে পৃথক।)",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, এর গর্ভগৃহে সার পরমেশ্বরর—জ্ঞানপরমেশ্বরর, সেন্নেরিয়াপ্পর নামেও—অধিষ্ঠিত, দেবী জ্ঞানবল্লী (জ্ঞানাম্বিকৈ) নিজ মন্দিরে, এক নন্দী ও পরিবার দেবতাগণের সঙ্গে। বিনায়করের কাছে একটি পৃথক লিঙ্গ দাঁড়িয়ে আছে, ঋণবিমোচন লিঙ্গেশ্বরর, ঋষি মার্কণ্ডেয় কর্তৃক স্থাপিত, ঋণমুক্তির জন্য পূজিত।",
+    "legends": "ঐতিহ্য অনুসারে ঋষি মার্কণ্ডেয় এখানে এসে তাঁর অতীত কর্মভার লাঘব হয়েছে বলে অনুভব করেন, এবং বিনায়করের পাশে ঋণবিমোচন লিঙ্গেশ্বরর—'যে প্রভু ঋণ মুক্ত করেন'—স্থাপন করেন; যাঁরা ঋণ থেকে মুক্তি খোঁজেন তাঁদের দ্বারা এই তীর্থ বিশেষভাবে প্রার্থিত। শিব সার পরমেশ্বরর, 'পরম সার' রূপে পূজিত, তাঁর পাশে জ্ঞানবল্লী, 'জ্ঞানের দেবী'। পূর্ণতর স্থল পুরাণ স্থানীয় ঐতিহ্যে ও তেবারম স্তোত্রে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, ঐপ্পসিতে (অক্টোবর–নভেম্বর) অন্নাভিষেকম, মার্গঝিতে (ডিসেম্বর–জানুয়ারি) তিরুবাদিরৈ, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈর সোমবারগুলি প্রদোষ পূজার সঙ্গে পালন করে। ভক্তরা বিশেষভাবে ঋণমুক্তির জন্য প্রার্থনা করতে আসেন।",
+    "experience": "তিরুচ্চেরৈতে তীর্থযাত্রী পরম সারের প্রভুর কাছে আসেন। সার পরমেশ্বরর ও জ্ঞানবল্লী, এবং মার্কণ্ডেয়ের ঋণবিমোচন লিঙ্গের সামনে, দর্শনার্থী কুম্বকোণম ব-দ্বীপের এক তেবারম মন্দিরের নিরিবিলি কৃপা, এবং ঋণের ভার থেকে মুক্তির আশা খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirucherai lies near Kudavasal, roughly midway between Kumbakonam and Nannilam, in Thanjavur district. Kumbakonam is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত ও আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; প্রকাশিত সময় বিশেষত উৎসবের দিনে স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "সাধারণত বাইরের অলিন্দে ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুচ্চেরৈ কুড়বাসলের কাছে, তাঞ্জাভুর জেলায় কুম্বকোণম ও নন্নিলমের মোটামুটি মাঝামাঝি অবস্থিত। কুম্বকোণম নিকটতম শহর ও রেলস্টেশন, সেখান থেকে গ্রাম পর্যন্ত বাস ও ট্যাক্সি রয়েছে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/saaraparameswarar-tirucherai.mp3",
+    "durationSec": 165
   }
 }

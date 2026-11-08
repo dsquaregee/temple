@@ -1,30 +1,37 @@
 {
   "id": "badami-cave-temples",
   "locale": "bn",
+  "name": "বাদামি গুহা মন্দির",
   "nativeName": "ಬಾದಾಮಿ ಗುಹಾ ದೇವಾಲಯಗಳು",
+  "deity": "শিব, বিষ্ণু ও জৈন তীর্থঙ্কর, চারটি শিলা-খোদিত গুহা জুড়ে",
+  "tradition": "শৈব, বৈষ্ণব ও জৈন (আদি চালুক্য)",
   "location": {
-    "city": "Badami",
-    "state": "Karnataka",
+    "city": "বাদামি",
+    "state": "কর্ণাটক",
     "lat": 15.9179,
     "lng": 75.6841
   },
+  "period": "খ্রিস্টীয় ৬ষ্ঠ শতাব্দী (গুহা ৩ খ্রিস্টাব্দ ৫৭৮-এ তারিখাঙ্কিত)",
   "century": 6,
+  "dynasty": "বাদামির চালুক্য",
+  "style": "আদি চালুক্য (বাদামি চালুক্য), শিলা-খোদিত",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "আদি চালুক্য রাজধানী বাদামিতে একটি হ্রদের উপরে লাল বেলেপাথরের পাহাড়ে খোদিত চারটি শিলা-খোদিত গুহা—শৈব, বৈষ্ণব ও জৈন—দাক্ষিণাত্যের গুহা-স্থাপত্যের সর্বপ্রাচীন ও সর্বাধিক নিপুণ সমাহারগুলির একটি গঠন করে।",
   "sections": {
-    "history": "Badami, ancient Vatapi, was the capital of the early Chalukyas who rose to power in the Deccan in the sixth century. Above the town, on a sandstone hill overlooking the Agastya lake, their sculptors cut a series of temple-caves in the later sixth century; an inscription in the third cave records its dedication in 578 CE by Mangalesha, brother of the reigning king. From this capital the Chalukyas would contest the Deccan with the Pallavas of Kanchi, and here, at Badami and nearby Aihole and Pattadakal, they laid the foundations of southern temple architecture.",
-    "architecture": "Four caves ascend the cliff face. The first, Shaiva, is famous for an eighteen-armed Nataraja striking dance poses beside a doorkeeper and Ardhanarishvara; the second and third are Vaishnava, the third — the grandest — holding towering reliefs of Vishnu as Trivikrama, Varaha, and Narasimha under a pillared verandah of astonishing finish; the fourth is Jain, with Tirthankaras and a seated Mahavira. Each cave is a pillared hall driven into the living rock, its ceilings carved with medallions and its brackets with amorous couples, the red stone glowing warm above the green water below.",
-    "legends": "Vatapi lives in legend as the demon of the Mahabharata tale, one of two asura brothers who preyed on travelling sages until the sage Agastya swallowed and digested him — and the lake below the caves bears Agastya’s name in memory. The caves themselves gather the great gods across their four halls: Shiva dancing the origin of the dance, Vishnu striding across the worlds, and the serene Tirthankaras of the Jains, so that the cliff holds three streams of Indian devotion carved side by side in a single sweep of rock.",
-    "festivals": "Badami is today cherished as much as a heritage site as a living shrine, and its rhythms follow the visitors who come year-round to the caves and the Bhutanatha temples across the lake. The annual Banashankari fair at the nearby Banashankari temple, in the month of Pushya, draws great crowds to the region, and cultural festivals staged among the Chalukyan monuments celebrate the classical arts against this ancient backdrop.",
-    "experience": "Climbing the cut steps from the town, a visitor rises past cave after cave, each opening a cool pillared hall in the cliff with the great gods emerging from shadow. From the verandahs the view falls away to the Agastya lake, the Bhutanatha shrines at its edge, and the sandstone bluffs opposite honeycombed with more carvings. The red rock, the green water, and the sheer age of the place — fourteen centuries of worship and wonder — make Badami one of the most atmospheric of all Deccan sites, best seen in the low gold light of early morning or evening."
+    "history": "বাদামি, প্রাচীন বাতাপি, ছিল সেই আদি চালুক্যদের রাজধানী যাঁরা ষষ্ঠ শতাব্দীতে দাক্ষিণাত্যে ক্ষমতায় আসেন। শহরের উপরে, অগস্ত্য হ্রদের দিকে মুখ করা এক বেলেপাথরের পাহাড়ে, তাঁদের ভাস্কররা ষষ্ঠ শতাব্দীর শেষভাগে একগুচ্ছ মন্দির-গুহা খোদাই করেন; তৃতীয় গুহার একটি শিলালিপি খ্রিস্টাব্দ ৫৭৮-এ শাসনরত রাজার ভ্রাতা মঙ্গলেশ কর্তৃক এর উৎসর্গ লিপিবদ্ধ করে। এই রাজধানী থেকে চালুক্যরা কাঞ্চির পল্লবদের সঙ্গে দাক্ষিণাত্যের জন্য প্রতিদ্বন্দ্বিতা করবেন, আর এখানেই, বাদামি এবং নিকটবর্তী আইহোলে ও পট্টডকলে, তাঁরা দক্ষিণ ভারতীয় মন্দির-স্থাপত্যের ভিত্তি স্থাপন করেন।",
+    "architecture": "চারটি গুহা পাহাড়ের গা বেয়ে উপরে ওঠে। প্রথমটি, শৈব, একটি দ্বারপাল ও অর্ধনারীশ্বরের পাশে নৃত্যভঙ্গিতে অষ্টাদশভুজ নটরাজের জন্য বিখ্যাত; দ্বিতীয় ও তৃতীয়টি বৈষ্ণব, তৃতীয়টি—সর্বাধিক মহিমান্বিত—একটি স্তম্ভশোভিত বারান্দার নিচে বিস্ময়কর নিপুণতায় বিষ্ণুর ত্রিবিক্রম, বরাহ ও নৃসিংহ রূপে উচ্চ উচ্চ উৎকীর্ণচিত্র ধারণ করে; চতুর্থটি জৈন, তীর্থঙ্কর ও উপবিষ্ট মহাবীর-সহ। প্রতিটি গুহা জীবন্ত শিলার মধ্যে প্রবিষ্ট একটি স্তম্ভশোভিত কক্ষ, এর ছাদ পদক-নকশায় খোদিত ও এর ব্র্যাকেটগুলি অনুরাগী যুগল দিয়ে খোদিত, নিচে সবুজ জলের উপরে লাল পাথর উষ্ণ আভায় উজ্জ্বল।",
+    "legends": "বাতাপি কিংবদন্তিতে বেঁচে আছে মহাভারতের সেই অসুর রূপে, দুই অসুর ভ্রাতার একজন যাঁরা পথিক ঋষিদের শিকার করতেন যতক্ষণ না ঋষি অগস্ত্য তাঁকে গিলে হজম করেন—আর গুহার নিচের হ্রদটি সেই স্মৃতিতে অগস্ত্যের নাম বহন করে। গুহাগুলি স্বয়ং তাদের চারটি কক্ষ জুড়ে মহান দেবতাদের একত্র করে: শিব নৃত্যের উৎস নৃত্য করছেন, বিষ্ণু লোকসমূহ অতিক্রম করে পদক্ষেপ ফেলছেন, এবং জৈনদের প্রশান্ত তীর্থঙ্কর, যাতে পাহাড়টি একই শিলার বিস্তারে পাশাপাশি খোদিত ভারতীয় ভক্তির তিন ধারা ধারণ করে।",
+    "festivals": "বাদামি আজ জীবন্ত মন্দির যতটা, ততটাই একটি ঐতিহ্যস্থল হিসেবে সমাদৃত, আর এর ছন্দ অনুসরণ করে সেই দর্শনার্থীদের যাঁরা সারা বছর গুহা এবং হ্রদের ওপারে ভূতনাথ মন্দিরগুলি দেখতে আসেন। নিকটবর্তী বনশঙ্করী মন্দিরে পৌষ মাসে বার্ষিক বনশঙ্করী মেলা অঞ্চলে বিপুল জনসমাগম টানে, আর চালুক্য স্মারকগুলির মাঝে আয়োজিত সাংস্কৃতিক উৎসবগুলি এই প্রাচীন পটভূমিতে শাস্ত্রীয় শিল্পকলা উদযাপন করে।",
+    "experience": "শহর থেকে খোদিত ধাপ বেয়ে উঠে একজন দর্শনার্থী একটির পর একটি গুহা অতিক্রম করেন, প্রতিটি পাহাড়ে একটি শীতল স্তম্ভশোভিত কক্ষ খুলে দেয় যেখানে মহান দেবতারা ছায়া থেকে আবির্ভূত হন। বারান্দা থেকে দৃষ্টি নেমে যায় অগস্ত্য হ্রদে, এর কিনারায় ভূতনাথ মন্দিরগুলিতে, এবং আরও খোদাইয়ে মৌচাকের মতো ছিদ্রময় সামনের বেলেপাথরের খাড়া পাহাড়ে। লাল পাথর, সবুজ জল আর স্থানটির নিছক প্রাচীনত্ব—চৌদ্দ শতাব্দীর উপাসনা ও বিস্ময়—বাদামিকে সমস্ত দাক্ষিণাত্য স্থানের মধ্যে সর্বাধিক ভাবগম্ভীরগুলির একটি করে তোলে, যা ভোর বা সন্ধ্যার নিচু সোনালি আলোয় সর্বোত্তম দেখা যায়।"
   },
   "visit": {
-    "timings": "The caves are generally open from around 9:00 am to 5:30 pm daily; the site is managed by the Archaeological Survey of India and a ticket is required.",
-    "dressCode": "Modest dress is appreciated; sturdy footwear helps on the cut stone steps, which can be steep and warm underfoot.",
-    "photography": "Photography is generally allowed across the caves; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Badami is in Bagalkot district, connected by road and rail; it has its own railway station, and the nearest airports are Hubballi (about 105 km) and Belagavi. Aihole and Pattadakal lie a short drive away."
+    "timings": "গুহাগুলি সাধারণত প্রতিদিন সকাল প্রায় ৯টা থেকে বিকেল ৫টা ৩০ মিনিট পর্যন্ত খোলা থাকে; স্থানটি ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ দ্বারা পরিচালিত এবং টিকিট প্রয়োজন।",
+    "dressCode": "শালীন পোশাক প্রশংসিত; খোদিত পাথরের ধাপে মজবুত জুতো সহায়ক, যা খাড়া ও পায়ের নিচে উষ্ণ হতে পারে।",
+    "photography": "গুহাগুলি জুড়ে সাধারণত আলোকচিত্র তোলার অনুমতি আছে; ট্রাইপড বা পেশাদার চিত্রগ্রহণের জন্য স্থানীয় কর্তৃপক্ষের অনুমতি লাগতে পারে।",
+    "gettingThere": "বাদামি বাগালকোট জেলায়, সড়ক ও রেলপথে সংযুক্ত; এর নিজস্ব রেলস্টেশন আছে, আর নিকটতম বিমানবন্দর হুব্বল্লি (প্রায় ১০৫ কিমি) ও বেলাগাবি। আইহোলে ও পট্টডকল অল্প দূরত্বে গাড়িতে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/badami-cave-temples.jpg",

@@ -1,30 +1,37 @@
 {
   "id": "krishna-hampi",
   "locale": "bn",
+  "name": "কৃষ্ণ মন্দির, হাম্পি",
   "nativeName": "ಕೃಷ್ಣ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "বালকৃষ্ণ রূপে কৃষ্ণ, শিশু কৃষ্ণ (মূল মূর্তিটি এখন চেন্নাইয়ের সরকারি জাদুঘরে রক্ষিত)",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "হাম্পি",
+    "state": "কর্ণাটক",
     "lat": 15.3303,
     "lng": 76.4605
   },
+  "period": "কৃষ্ণদেবরায় কর্তৃক ১৫১৩ খ্রিস্টাব্দে তাঁর উদয়গিরি অভিযান স্মরণে প্রতিষ্ঠিত; বিজয়নগর রাজধানীর একটি সংরক্ষিত স্মৃতিস্তম্ভ",
   "century": 16,
+  "dynasty": "বিজয়নগর (তুলুব বংশ, কৃষ্ণদেবরায়)",
+  "style": "দ্রাবিড়, বিজয়নগর পর্ব",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "কৃষ্ণদেবরায় কর্তৃক ১৫১৩ সালে উদয়গিরিতে জয় করা এক শিশু-কৃষ্ণ মূর্তি রাখার জন্য নির্মিত, এই মন্দির ছিল এক পরিকল্পিত মন্দির-শহরের হৃদয়, নিজস্ব রথ-রাস্তা, বাজার ও সোপানযুক্ত জলাশয় সহ।",
   "sections": {
-    "history": "In 1513 the emperor Krishnadevaraya returned from a hard-won campaign against the hill fortress of Udayagiri, in present-day Andhra Pradesh, bringing with him an image of Balakrishna, the child Krishna, as the most honoured trophy of the war. To house it he built this temple on the southern flank of Hemakuta hill, and a stone inscription in old Kannada, set up in the complex, records the foundation. Around the shrine grew a whole quarter of the capital, known as Krishnapura, with its own chariot street and market. After Vijayanagara fell in 1565 worship ceased, and the image itself was later moved to the Government Museum in Chennai, where it can still be seen. The temple stands today as a protected monument within the Group of Monuments at Hampi, inscribed by UNESCO in 1986.",
-    "architecture": "The temple faces east and is entered through a tall gopuram whose granite base is richly carved, though its brick-and-plaster upper storeys have largely fallen. Within the walled court stand the main sanctum, its pillared halls and a group of subsidiary shrines. The carving rewards slow looking: panels of the ten avatars of Vishnu, episodes from the Ramayana and scenes from the childhood of Krishna run across the walls and pillars. Before the gateway a small pavilion holds a long stone trough, and nearby rises a granary. Opposite, the colonnaded bazaar runs east along the broad chariot street, with a large stepped tank and its central pavilion opening off it.",
-    "legends": "The temple's story is less a sthala purana than a tale of victory and devotion. Krishnadevaraya, a devotee of Vishnu and himself a poet in Telugu, saw the capture of Udayagiri as a gift of grace, and the child Krishna he carried home was installed with great ceremony. Tradition holds that the small stone trough before the gate received offerings of grain from worshippers. The emperor bore the god's name, and devotees have long read the shrine as his personal thanksgiving, set at the doorstep of Hemakuta and Virupaksha so that Krishna joined the older Shiva of Hampi in guarding the city.",
-    "festivals": "The shrine is no longer in worship, so no festivals are held at the temple itself. The broad car street before it was the route of the god's chariot in imperial days, and its width still recalls those processions. Nearby Virupaksha keeps Hampi's living calendar, and the annual Hampi Utsav brings music and dance to the ruins; confirm dates locally.",
-    "experience": "Approach along the old chariot street from the east, past the long lines of ruined shop pavilions, and the gopuram rises ahead as it did for pilgrims five centuries ago. Inside, the court is quiet and shaded, a place to trace the avatar panels pillar by pillar. Then walk to the great tank nearby and up the slope toward the two giant Ganeshas of Hemakuta and the monolithic Narasimha, all within a short stroll."
+    "history": "১৫১৩ সালে সম্রাট কৃষ্ণদেবরায় বর্তমান অন্ধ্রপ্রদেশের উদয়গিরি পাহাড়ি দুর্গের বিরুদ্ধে এক কঠিন-অর্জিত অভিযান থেকে ফিরে আসেন, সঙ্গে নিয়ে আসেন বালকৃষ্ণ, শিশু কৃষ্ণের এক মূর্তি, যুদ্ধের সবচেয়ে সম্মানিত বিজয়-চিহ্ন হিসেবে। তা রাখার জন্য তিনি হেমকূট পাহাড়ের দক্ষিণ পার্শ্বে এই মন্দির নির্মাণ করেন, এবং সংকুলে স্থাপিত পুরনো কন্নড়ে এক পাথরের শিলালিপি এর প্রতিষ্ঠা নথিবদ্ধ করে। মন্দিরের চারপাশে রাজধানীর একটি সম্পূর্ণ পাড়া গড়ে ওঠে, কৃষ্ণপুর নামে পরিচিত, নিজস্ব রথ-রাস্তা ও বাজার সহ। ১৫৬৫ সালে বিজয়নগরের পতনের পর উপাসনা বন্ধ হয়, এবং মূর্তিটি পরে চেন্নাইয়ের সরকারি জাদুঘরে স্থানান্তরিত হয়, যেখানে তা এখনও দেখা যায়। মন্দিরটি আজ হাম্পির স্মৃতিস্তম্ভ গোষ্ঠীর মধ্যে এক সংরক্ষিত স্মৃতিস্তম্ভ হিসেবে দাঁড়িয়ে আছে, যা ১৯৮৬ সালে ইউনেস্কো দ্বারা তালিকাভুক্ত।",
+    "architecture": "মন্দিরটি পূর্বমুখী এবং এক উঁচু গোপুরমের মধ্য দিয়ে প্রবেশ্য, যার গ্রানাইট ভিত্তি সমৃদ্ধভাবে খোদিত, যদিও এর ইট-ও-প্লাস্টারের উপরের তলগুলি অনেকাংশে ধসে পড়েছে। প্রাচীরবেষ্টিত প্রাঙ্গণে প্রধান গর্ভগৃহ, এর স্তম্ভযুক্ত কক্ষ ও একদল উপমন্দির দাঁড়িয়ে আছে। খোদাইকর্ম ধীর পর্যবেক্ষণকে পুরস্কৃত করে: বিষ্ণুর দশ অবতারের ফলক, রামায়ণের পর্ব এবং কৃষ্ণের শৈশবের দৃশ্য প্রাচীর ও স্তম্ভ জুড়ে বিস্তৃত। তোরণের সামনে একটি ছোট মণ্ডপে একটি লম্বা পাথরের চৌবাচ্চা রয়েছে, এবং কাছেই একটি শস্যাগার উঠে গেছে। বিপরীতে, স্তম্ভশ্রেণীযুক্ত বাজার প্রশস্ত রথ-রাস্তা ধরে পূর্ব দিকে চলে গেছে, এর থেকে এক বিশাল সোপানযুক্ত জলাশয় ও এর কেন্দ্রীয় মণ্ডপ খোলে।",
+    "legends": "মন্দিরের কাহিনি স্থলপুরাণের চেয়ে বরং বিজয় ও ভক্তির এক আখ্যান। বিষ্ণুর ভক্ত এবং নিজে তেলুগুতে কবি কৃষ্ণদেবরায় উদয়গিরি অধিকারকে কৃপার দান হিসেবে দেখেছিলেন, এবং তিনি যে শিশু কৃষ্ণকে বাড়ি নিয়ে এসেছিলেন তা মহা সমারোহে প্রতিষ্ঠিত হয়। ঐতিহ্য বলে যে দ্বারের সামনের ছোট পাথরের চৌবাচ্চা উপাসকদের শস্য নিবেদন গ্রহণ করত। সম্রাট ঈশ্বরের নাম বহন করতেন, এবং ভক্তরা দীর্ঘকাল মন্দিরটিকে তাঁর ব্যক্তিগত কৃতজ্ঞতাজ্ঞাপন হিসেবে পড়েছেন, হেমকূট ও বিরূপাক্ষের দোরগোড়ায় স্থাপিত যাতে কৃষ্ণ হাম্পির প্রাচীন শিবের সঙ্গে শহর রক্ষায় যুক্ত হন।",
+    "festivals": "মন্দিরটি আর পূজিত নয়, তাই মন্দিরে কোনো উৎসব অনুষ্ঠিত হয় না। এর সামনের প্রশস্ত রথ-রাস্তা সাম্রাজ্যিক দিনে ঈশ্বরের রথের পথ ছিল, এবং এর প্রশস্ততা এখনও সেই শোভাযাত্রার স্মৃতি জাগায়। কাছের বিরূপাক্ষ হাম্পির জীবন্ত পঞ্জিকা ধরে রাখে, এবং বার্ষিক হাম্পি উৎসব ধ্বংসাবশেষে সঙ্গীত ও নৃত্য আনে; তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "পূর্ব থেকে পুরনো রথ-রাস্তা ধরে, ধ্বংসপ্রাপ্ত দোকান-মণ্ডপের দীর্ঘ সারি পেরিয়ে এগিয়ে আসুন, এবং গোপুরম সামনে উঠে আসে যেমন পাঁচ শতাব্দী আগে তীর্থযাত্রীদের জন্য উঠত। ভেতরে প্রাঙ্গণ শান্ত ও ছায়াঘেরা, স্তম্ভের পর স্তম্ভ অবতার-ফলক অনুসরণ করার এক স্থান। তারপর কাছের বিশাল জলাশয়ে হাঁটুন এবং হেমকূটের দুই বিশাল গণেশ ও একশিলা নরসিংহের দিকে ঢাল বেয়ে উঠুন, সবই অল্প হাঁটাপথের মধ্যে।"
   },
   "visit": {
-    "timings": "The temple is a protected monument cared for by the Archaeological Survey of India and is generally open during daylight hours; there is no worship. Confirm access and any entry fee locally.",
-    "dressCode": "Modest dress is appreciated at this sacred site; comfortable footwear and sun protection help for walking among the ruins.",
-    "photography": "Photography is generally allowed; tripods, drones or professional shoots need permission from the site authorities.",
-    "gettingThere": "The temple stands beside the road from Kamalapura to Hampi Bazaar, just south of Hemakuta hill, in Vijayanagara district, Karnataka. Hosapete (Hospet), about 13 km away, has the nearest railway station; the nearest airports are at Toranagallu (Vidyanagar), Hubballi and Bengaluru, about 340 km away by road."
+    "timings": "মন্দিরটি ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ দ্বারা রক্ষিত এক সংরক্ষিত স্মৃতিস্তম্ভ এবং সাধারণত দিনের আলোয় খোলা থাকে; কোনো উপাসনা হয় না। প্রবেশ ও যেকোনো প্রবেশমূল্য স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "এই পবিত্র স্থানে শালীন পোশাক কাম্য; ধ্বংসাবশেষের মধ্যে হাঁটার জন্য আরামদায়ক পাদুকা ও রোদ থেকে সুরক্ষা সহায়ক।",
+    "photography": "আলোকচিত্র গ্রহণ সাধারণত অনুমোদিত; ট্রাইপড, ড্রোন বা পেশাদার শুটিংয়ের জন্য স্থান কর্তৃপক্ষের অনুমতি প্রয়োজন।",
+    "gettingThere": "মন্দিরটি কর্ণাটকের বিজয়নগর জেলায় হেমকূট পাহাড়ের ঠিক দক্ষিণে, কমলাপুর থেকে হাম্পি বাজারের পথের ধারে অবস্থিত। হোসপেটে (হসপেট), প্রায় ১৩ কিলোমিটার দূরে, নিকটতম রেলস্টেশন রয়েছে; নিকটতম বিমানবন্দর তোরণগল্লু (বিদ্যানগর), হুব্বল্লি ও বেঙ্গালুরু, সড়কপথে প্রায় ৩৪০ কিলোমিটার দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/krishna-hampi.jpg",

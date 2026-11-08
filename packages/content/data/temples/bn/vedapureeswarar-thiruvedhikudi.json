@@ -1,30 +1,41 @@
 {
   "id": "vedapureeswarar-thiruvedhikudi",
   "locale": "bn",
+  "name": "বেদপুরীশ্বরর মন্দির, তিরুবেদিকুডি",
   "nativeName": "வேதபுரீஸ்வரர் கோயில், திருவேதிகுடி",
+  "deity": "বেদপুরীশ্বরর (ভাড়ৈমাড়ুনাথর) রূপে শিব, দেবী মঙ্গৈয়র্করসীর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thiruvedhikudi",
-    "state": "Tamil Nadu",
+    "city": "তিরুবেদিকুডি",
+    "state": "তামিলনাড়ু",
     "lat": 10.856,
     "lng": 79.137
   },
+  "period": "তিরুবৈয়ারুর সপ্ত স্থানমের চতুর্থ তীর্থ; নবম শতকের চোল পাথরের কাজ, তেবারমে স্তুত (সপ্তম শতক)",
   "century": 7,
+  "dynasty": "চোল, তাঞ্জাবুর নায়ক যুগ পর্যন্ত গোপুরম যুক্ত হয়েছে",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "saptha-sthanam"
   ],
+  "summary": "তিরুবেদিকুডিতে শিব হলেন বেদের প্রভু, আর এক গণেশ তাঁর মাথা হেলিয়ে বেদপাঠ শোনেন; বলে কথিত, এই গ্রামই নন্দীর বিবাহের জন্য বৈদিক পুরোহিতদের পাঠিয়েছিল।",
   "sections": {
-    "history": "Thiruvedhikudi is a small village south of the Kaveri, a few kilometres from Thiruvaiyaru, whose very name ties it to the Vedas. Appar and Sambandar sang of its lord, and the temple is a Paadal Petra Sthalam of the Tevaram. The oldest masonry of the present shrine dates from the Chola period of the ninth century, and gopurams and outer structures were added over the following centuries, up to the time of the Thanjavur Nayaks. The temple is cared for today by the Hindu Religious and Charitable Endowments Department of Tamil Nadu.",
-    "architecture": "The Vedas are written into the building itself. Four Nandis are placed on the outer wall and on the vimana over the sanctum, one facing each of the four directions, and they are read as the four Vedas keeping watch over the lord. In the maha mandapam sits Veda Vinayakar, a Ganesha whose head is tilted to one side as though listening to Vedic recitation. The goddess Mangayarkarasi has a separate shrine in the outer courtyard, approached through a Vasantha mandapam.",
-    "legends": "Tradition holds that Brahma, Surya and Kubera each worshipped the lord here and were blessed, and the village is remembered as a place of Brahma's worship. The temple story also links it with the Vedas restored to the world after Vishnu, taking the horse-headed form of Hayagriva, recovered them from the demon who had carried them off beneath the ocean. The lord's other name, Vazhaimadunathar, is tied in local tradition to a sacred pool and the banana plant.",
-    "festivals": "In the Saptha Sthanam festival of Chithirai (April–May), the procession reaches Thiruvedhikudi after Thiruchotruthurai. Tradition holds that the village, true to its name, sent the Vedic priests who chanted at Nandi's wedding. The temple is also regarded as a place to pray for a good marriage. Maha Shivaratri and the monthly Pradosham are observed. Confirm dates locally.",
-    "experience": "Pause in the maha mandapam before Veda Vinayakar and notice the tilt of his head, then walk around the sanctum to find the Nandis facing the four quarters. Families come here to pray for an auspicious marriage, often going on to the goddess Mangayarkarasi in her own shrine. The village is quiet, and the temple combines well with Thiruchotruthurai and Thirukandiyur."
+    "history": "তিরুবেদিকুডি কাবেরীর দক্ষিণে একটি ছোট গ্রাম, তিরুবৈয়ারু থেকে কয়েক কিলোমিটার দূরে, যার নামটিই একে বেদের সঙ্গে যুক্ত করে। অপ্পর ও সম্বন্দর এর প্রভুর স্তুতি গেয়েছেন, এবং মন্দিরটি তেবারমের একটি পাডল পেট্র স্থলম। বর্তমান তীর্থের প্রাচীনতম গাঁথনি নবম শতকের চোল যুগের, আর পরবর্তী শতাব্দীগুলিতে তাঞ্জাবুর নায়কদের সময় পর্যন্ত গোপুরম ও বাইরের কাঠামো যুক্ত হয়েছে। মন্দিরটি আজ তামিলনাড়ুর হিন্দু ধর্মীয় ও দানশীল তহবিল বিভাগ দ্বারা পরিচর্যিত।",
+    "architecture": "বেদ যেন ভবনটির মধ্যেই লিখিত। বাইরের প্রাচীরে ও গর্ভগৃহের উপরের বিমানে চারটি নন্দী স্থাপিত, প্রতিটি চার দিকের একটির দিকে মুখ করা, এবং এগুলিকে প্রভুর উপর পাহারারত চার বেদ বলে পড়া হয়। মহা মণ্ডপমে অধিষ্ঠিত বেদ বিনায়কর, এমন এক গণেশ যাঁর মাথা একদিকে হেলানো, যেন বেদপাঠ শুনছেন। দেবী মঙ্গৈয়র্করসীর বাইরের প্রাঙ্গণে একটি পৃথক মন্দির রয়েছে, যেখানে একটি বসন্ত মণ্ডপমের মধ্য দিয়ে যাওয়া যায়।",
+    "legends": "ঐতিহ্য বলে, ব্রহ্মা, সূর্য ও কুবের প্রত্যেকে এখানে প্রভুর পূজা করে কৃপা লাভ করেছিলেন, এবং গ্রামটি ব্রহ্মার পূজার স্থান বলে স্মরণ করা হয়। মন্দিরের কাহিনি একে সেই বেদের সঙ্গেও যুক্ত করে যা বিষ্ণু হয়গ্রীবের অশ্বমুখ রূপ ধারণ করে সমুদ্রের নিচে বেদ বয়ে নিয়ে যাওয়া অসুরের কাছ থেকে উদ্ধার করার পর জগতে পুনঃপ্রতিষ্ঠিত হয়। প্রভুর অপর নাম ভাড়ৈমাড়ুনাথর স্থানীয় ঐতিহ্যে একটি পবিত্র পুষ্করিণী ও কলাগাছের সঙ্গে যুক্ত।",
+    "festivals": "চিত্তিরৈ মাসের (এপ্রিল–মে) সপ্ত স্থানম উৎসবে শোভাযাত্রা তিরুচোত্রুতুরৈ-এর পর তিরুবেদিকুডিতে পৌঁছায়। ঐতিহ্য বলে, গ্রামটি তার নামের প্রতি সত্য থেকে সেই বৈদিক পুরোহিতদের পাঠিয়েছিল যাঁরা নন্দীর বিবাহে পাঠ করেছিলেন। মন্দিরটি সুবিবাহের জন্য প্রার্থনার স্থান বলেও গণ্য। মহাশিবরাত্রি ও মাসিক প্রদোষম পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "মহা মণ্ডপমে বেদ বিনায়করের সামনে একটু থামুন এবং তাঁর মাথার হেলানো ভঙ্গি লক্ষ্য করুন, তারপর গর্ভগৃহের চারপাশে ঘুরে চার দিকে মুখ করা নন্দীদের খুঁজে নিন। পরিবারগুলি এখানে শুভ বিবাহের প্রার্থনা করতে আসে, প্রায়ই এরপর দেবী মঙ্গৈয়র্করসীর নিজস্ব মন্দিরে যায়। গ্রামটি নিরিবিলি, এবং মন্দিরটি তিরুচোত্রুতুরৈ ও তিরুকণ্ডিয়ুরের সঙ্গে ভালোভাবে মিলিয়ে দেখা যায়।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thiruvedhikudi lies on the southern side of the Kaveri, about 7 km by road from Thiruvaiyaru and roughly 10 km north of Thanjavur; local buses, autos and taxis serve it from both towns. Thanjavur is the nearest major railway station, and Tiruchirappalli International Airport, about 60 km away, is the nearest airport."
+    "timings": "সাধারণত সকালে ও আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে, মধ্যাহ্নে একটি বিরতি সহ; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা রেখে। প্রবেশপথের স্ট্যান্ডে জুতো রেখে যেতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরবিধি অনুসারে সাধারণত বাইরের অলিন্দ ও প্রাঙ্গণে ছবি তোলা অনুমোদিত, কিন্তু ভেতরের গর্ভগৃহে কঠোরভাবে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবেদিকুডি কাবেরীর দক্ষিণ দিকে অবস্থিত, তিরুবৈয়ারু থেকে সড়কপথে প্রায় ৭ কিমি ও তাঞ্জাবুরের প্রায় ১০ কিমি উত্তরে; উভয় শহর থেকেই স্থানীয় বাস, অটো ও ট্যাক্সি এখানে চলাচল করে। তাঞ্জাবুর নিকটতম বড় রেলস্টেশন, এবং প্রায় ৬০ কিমি দূরে তিরুচিরাপল্লি আন্তর্জাতিক বিমানবন্দর নিকটতম বিমানবন্দর।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vedapureeswarar-thiruvedhikudi.mp3",
+    "durationSec": 188
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.webp"
     },
     "og": "https://media.dsquaregee.com/og/vedapureeswarar-thiruvedhikudi.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/vedapureeswarar-thiruvedhikudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.jpg",
+    "durationSec": 134,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

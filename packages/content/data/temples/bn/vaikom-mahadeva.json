@@ -1,30 +1,41 @@
 {
   "id": "vaikom-mahadeva",
   "locale": "bn",
+  "name": "বৈক্কম মহাদেব মন্দির (বৈক্কাত্তাপ্পন)",
   "nativeName": "വൈക്കം മഹാദേവ ക്ഷേത്രം",
+  "deity": "শিব, এখানে বৈক্কাত্তাপ্পন রূপে পূজিত এবং এক উঁচু লিঙ্গ রূপে অধিষ্ঠিত। তিনি বৈক্কম শহরের করুণাময় প্রভু রূপে পূজিত হন।",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Vaikom, Kottayam district",
-    "state": "Kerala",
+    "city": "বৈক্কম, কোট্টায়ম জেলা",
+    "state": "কেরালা",
     "lat": 9.748,
     "lng": 76.393
   },
+  "period": "প্রাচীন উৎস; কেরালার পুরনো জীবন্ত শিবমন্দিরগুলির অন্যতম",
   "century": 11,
+  "dynasty": "কেরালা উপকূলের স্থানীয় সর্দার ও আঞ্চলিক শাসকদের দ্বারা শতাব্দীজুড়ে পৃষ্ঠপোষিত",
+  "style": "ঐতিহ্যবাহী কেরালা মন্দির স্থাপত্য",
   "unesco": false,
   "circuits": [
     "sacred-temples-of-kerala"
   ],
+  "summary": "বৈক্কম মহাদেব মন্দির কেরালার প্রাচীনতম ও সর্বাধিক পূজিত শিব তীর্থগুলির একটি, কোট্টায়ম জেলায় ভেম্বানাড়ু ব্যাকওয়াটারের কাছে অবস্থিত। অধিষ্ঠাতৃ দেবতা, বৈক্কাত্তাপ্পন রূপে পূজিত, দিনভর তিনটি স্বতন্ত্র রূপে সম্মানিত হন। মন্দিরটি ১৯২০-এর দশকের বৈক্কম সত্যাগ্রহের জন্যও স্মরণীয়।",
   "sections": {
-    "history": "Vaikom Mahadeva Temple is counted among the oldest living Shiva temples of Kerala, and generations of devotees have gathered at its precincts. Over the centuries it received support from local chieftains and regional rulers, who endowed lands and provided for its daily rites. In the twentieth century the temple's surroundings became the setting of the Vaikom Satyagraha of 1924 to 1925, a non-violent movement for the right of all communities to use the public roads around the temple. The campaign drew attention across India and is remembered as a landmark in the struggle against social exclusion. Today the shrine continues its unbroken rhythm of worship, and its long history is felt in the worn stone, the daily rituals, and the enduring devotion of pilgrims.",
-    "architecture": "The temple follows the traditional idiom of Kerala, arranged as a spacious walled complex entered through tall gateway structures. At its heart stands the srikovil, the sanctum housing the lingam, roofed in the layered manner characteristic of the region and set within a broad circumambulatory court. A koothambalam, the pillared theatre hall used for ritual performance, stands within the precincts, reflecting the close bond between temple and classical stage in Kerala. Sloping tiled roofs, timber detailing, and lamp-lined walls give the complex its distinctive coastal character. The extensive outer enclosures, tanks, and subsidiary shrines add to the sense of scale, while the measured proportions of the sanctum keep the focus on the presiding deity.",
-    "legends": "Vaikkathappan is worshipped in a manner unusual even among Shiva shrines: the same Lord is revered in three aspects through the day. In the morning he is contemplated as Dakshinamurthy, the serene teacher; at noon as Kirata, the hunter form; and in the evening he is worshipped together with Parvati as Uma-sametha, the householder Lord. Devotees thus experience three moods of a single deity within one day. Vaikom is further linked with two neighbouring shrines, Ettumanoor and Kaduthuruthy. Tradition holds that a pilgrim who worships at all three on the day of Vaikathashtami, completing the round before noon, gains merit equal to a pilgrimage to Kashi. These beliefs draw many worshippers who plan the circuit with care.",
-    "festivals": "The grand annual festival is Vaikathashtami, observed in the Malayalam month of Vrischikam, which falls around November and December. It unfolds over many days and culminates in the Ashtami darshan, regarded as the most auspicious moment for devotees. The days are marked by processions, ceremonial offerings, temple music, and large gatherings of pilgrims who arrive from across Kerala and beyond. Cultural and ritual performances fill the precincts, and the koothambalam and outer courts come alive with activity. Alongside Vaikathashtami, the temple observes the regular Shaiva occasions of the year, but it is this festival that most defines the shrine's calendar and its wider renown.",
-    "experience": "A visit to Vaikom unfolds slowly, in keeping with the rhythms of a traditional Kerala shrine. Pilgrims pass through the tall gateways into wide courts where oil lamps glow against dark timber and stone. The sense of antiquity is strong, felt in the worn thresholds and the steady round of daily worship. Many devotees time their darshan to encounter one of the three aspects of Vaikkathappan, returning through the day to receive the morning, noon, and evening forms. The nearness of the Vembanad backwaters lends the town a quiet, watery calm. Whether during the crowded days of Vaikathashtami or on an ordinary morning, the atmosphere is reverent and unhurried, inviting stillness and reflection."
+    "history": "বৈক্কম মহাদেব মন্দির কেরালার প্রাচীনতম জীবন্ত শিবমন্দিরগুলির অন্যতম বলে গণ্য, এবং প্রজন্মের পর প্রজন্ম ভক্ত এর প্রাঙ্গণে সমবেত হয়েছেন। শতাব্দীজুড়ে এটি স্থানীয় সর্দার ও আঞ্চলিক শাসকদের সহায়তা পেয়েছে, যাঁরা ভূমি দান করেছেন ও এর নিত্য আচারের ব্যবস্থা করেছেন। বিংশ শতকে মন্দিরের পরিবেশ ১৯২৪ থেকে ১৯২৫ সালের বৈক্কম সত্যাগ্রহের পটভূমি হয়ে ওঠে, যা মন্দিরের চারপাশের সর্বজনীন পথ সব সম্প্রদায়ের ব্যবহারের অধিকারের জন্য এক অহিংস আন্দোলন। এই অভিযান সারা ভারতের দৃষ্টি আকর্ষণ করেছিল এবং সামাজিক বর্জনের বিরুদ্ধে সংগ্রামে এক মাইলফলক রূপে স্মরণীয়। আজও এই তীর্থ তার অবিচ্ছিন্ন পূজার ছন্দ বজায় রেখেছে, এবং এর দীর্ঘ ইতিহাস ক্ষয়ে যাওয়া পাথরে, নিত্য আচারে ও তীর্থযাত্রীদের অটুট ভক্তিতে অনুভূত হয়।",
+    "architecture": "মন্দিরটি কেরালার ঐতিহ্যবাহী রীতি অনুসরণ করে, উঁচু তোরণ-কাঠামোর মধ্য দিয়ে প্রবেশ করা এক প্রশস্ত প্রাচীরবেষ্টিত প্রাঙ্গণরূপে বিন্যস্ত। এর কেন্দ্রে দাঁড়িয়ে আছে শ্রীকোবিল, লিঙ্গ অধিষ্ঠিত গর্ভগৃহ, যা এই অঞ্চলের বৈশিষ্ট্যসূচক স্তরবিন্যস্ত ধরনে ছাদযুক্ত এবং এক প্রশস্ত প্রদক্ষিণ-প্রাঙ্গণের মধ্যে স্থাপিত। প্রাঙ্গণের ভেতরে দাঁড়িয়ে আছে একটি কূত্তাম্বলম, আচার-পরিবেশনায় ব্যবহৃত স্তম্ভযুক্ত নাট্যশালা, যা কেরালায় মন্দির ও শাস্ত্রীয় মঞ্চের ঘনিষ্ঠ বন্ধনের পরিচায়ক। ঢালু টালির ছাদ, কাঠের কারুকাজ ও প্রদীপ-সজ্জিত দেয়াল এই প্রাঙ্গণকে তার স্বতন্ত্র উপকূলীয় চরিত্র দেয়। বিস্তৃত বাইরের আবরণ, পুষ্করিণী ও উপদেবতার মন্দিরগুলি পরিসরের বিশালতা বাড়ায়, আর গর্ভগৃহের সুপরিমিত অনুপাত অধিষ্ঠাতৃ দেবতার উপরেই দৃষ্টি কেন্দ্রীভূত রাখে।",
+    "legends": "শিব তীর্থগুলির মধ্যেও অস্বাভাবিক এক রীতিতে বৈক্কাত্তাপ্পন পূজিত হন: একই প্রভু দিনভর তিনটি রূপে পূজিত হন। সকালে তাঁকে দক্ষিণামূর্তি, প্রশান্ত শিক্ষক রূপে ধ্যান করা হয়; মধ্যাহ্নে কিরাত, শিকারি রূপে; এবং সন্ধ্যায় পার্বতীর সঙ্গে উমা-সমেত, গৃহস্থ প্রভু রূপে পূজিত হন। এভাবে ভক্তরা একদিনের মধ্যেই এক দেবতার তিন ভাব অনুভব করেন। বৈক্কম আরও দুই প্রতিবেশী তীর্থ—এট্টুমানূর ও কাডুত্তুরুত্তি—এর সঙ্গে যুক্ত। ঐতিহ্য বলে, যে তীর্থযাত্রী বৈক্কাত্তাষ্টমীর দিনে তিনটিতেই পূজা করেন, মধ্যাহ্নের আগে এই পরিক্রমা সম্পূর্ণ করে, তিনি কাশী তীর্থযাত্রার সমান পুণ্য লাভ করেন। এই বিশ্বাস বহু ভক্তকে আকৃষ্ট করে, যাঁরা যত্ন নিয়ে এই পরিক্রমার পরিকল্পনা করেন।",
+    "festivals": "প্রধান বার্ষিক উৎসব বৈক্কাত্তাষ্টমী, মালয়ালম বৃশ্চিকম মাসে পালিত, যা প্রায় নভেম্বর ও ডিসেম্বরে পড়ে। এটি বহু দিন ধরে বিস্তৃত হয় এবং অষ্টমী দর্শনে পরিণতি পায়, যা ভক্তদের কাছে সবচেয়ে শুভ মুহূর্ত বলে গণ্য। এই দিনগুলি শোভাযাত্রা, আনুষ্ঠানিক নিবেদন, মন্দির সঙ্গীত এবং কেরালা ও তার বাইরে থেকে আসা তীর্থযাত্রীদের বিশাল সমাগমে চিহ্নিত। সাংস্কৃতিক ও আচার-পরিবেশনায় প্রাঙ্গণ পূর্ণ হয়, এবং কূত্তাম্বলম ও বাইরের প্রাঙ্গণ কর্মচাঞ্চল্যে জীবন্ত হয়ে ওঠে। বৈক্কাত্তাষ্টমীর পাশাপাশি মন্দির বছরের নিয়মিত শৈব অনুষ্ঠানগুলিও পালন করে, তবে এই উৎসবই তীর্থের পঞ্জিকা ও ব্যাপক খ্যাতিকে সবচেয়ে বেশি সংজ্ঞায়িত করে।",
+    "experience": "বৈক্কমে এক ভ্রমণ ধীরে ধীরে উন্মোচিত হয়, ঐতিহ্যবাহী কেরালা তীর্থের ছন্দের সঙ্গে সঙ্গতি রেখে। তীর্থযাত্রীরা উঁচু তোরণের মধ্য দিয়ে প্রশস্ত প্রাঙ্গণে প্রবেশ করেন, যেখানে তেলের প্রদীপ কালো কাঠ ও পাথরের বিপরীতে জ্বলে। প্রাচীনতার অনুভূতি প্রবল, ক্ষয়ে যাওয়া দোরগোড়ায় ও নিত্য পূজার নিরবচ্ছিন্ন পরিক্রমায় তা অনুভূত হয়। বহু ভক্ত তাঁদের দর্শনের সময় এমনভাবে বেছে নেন যাতে বৈক্কাত্তাপ্পনের তিন রূপের একটির মুখোমুখি হতে পারেন, দিনভর ফিরে এসে সকাল, মধ্যাহ্ন ও সন্ধ্যার রূপ গ্রহণ করেন। ভেম্বানাড়ু ব্যাকওয়াটারের নৈকট্য শহরটিকে এক নিরিবিলি, জলময় প্রশান্তি দেয়। বৈক্কাত্তাষ্টমীর ভিড়ভরা দিনেই হোক বা সাধারণ কোনো সকালে, পরিবেশ শ্রদ্ধাপূর্ণ ও শান্ত, স্থিরতা ও মননে আমন্ত্রণ জানায়।"
   },
   "visit": {
-    "timings": "The temple generally opens in the early morning and again in the evening, with a midday closure, in the manner of Kerala Shiva temples. Ritual and darshan hours vary by season and festival, so please verify the current timings locally before travelling.",
-    "dressCode": "Traditional attire is expected. Following the custom of many Kerala temples, men are often required to remove upper garments and wear a mundu, while women dress modestly in a saree or similar. Please confirm the current requirements at the temple.",
-    "photography": "Photography is typically restricted within the temple precincts, especially near the sanctum. Devotees should seek permission and follow the instructions of temple staff.",
-    "gettingThere": "The temple is at Vaikom in Kottayam district, near the Vembanad backwaters. The nearest railheads are at Kottayam and Ernakulam, and the nearest airport is at Kochi. Vaikom is reachable by road and also by the region's backwater routes."
+    "timings": "মন্দিরটি সাধারণত ভোরে ও আবার সন্ধ্যায় খোলে, মধ্যাহ্নে বন্ধ থাকে, কেরালার শিবমন্দিরের রীতি অনুসারে। আচার ও দর্শনের সময় ঋতু ও উৎসব অনুযায়ী ভিন্ন হয়, তাই ভ্রমণের আগে বর্তমান সময় স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "ঐতিহ্যবাহী পোশাক প্রত্যাশিত। বহু কেরালা মন্দিরের প্রথা অনুসারে, পুরুষদের প্রায়ই ঊর্ধ্বাঙ্গের বস্ত্র খুলে মুণ্ডু পরতে হয়, আর নারীরা শাড়ি বা অনুরূপ বিনম্র পোশাক পরেন। মন্দিরে বর্তমান বিধি নিশ্চিত করুন।",
+    "photography": "মন্দির প্রাঙ্গণে, বিশেষত গর্ভগৃহের কাছে, সাধারণত ছবি তোলায় নিষেধাজ্ঞা থাকে। ভক্তদের অনুমতি নেওয়া ও মন্দির কর্মীদের নির্দেশ মেনে চলা উচিত।",
+    "gettingThere": "মন্দিরটি কোট্টায়ম জেলার বৈক্কমে, ভেম্বানাড়ু ব্যাকওয়াটারের কাছে অবস্থিত। নিকটতম রেলস্টেশন কোট্টায়ম ও এর্নাকুলামে, আর নিকটতম বিমানবন্দর কোচিতে। বৈক্কমে সড়কপথে এবং এই অঞ্চলের ব্যাকওয়াটার পথেও পৌঁছানো যায়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vaikom-mahadeva.mp3",
+    "durationSec": 308
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.webp"
     },
     "og": "https://media.dsquaregee.com/og/vaikom-mahadeva.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/vaikom-mahadeva.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaikom-mahadeva.jpg",
+    "durationSec": 222,
+    "credit": "Vijayanrajapuram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

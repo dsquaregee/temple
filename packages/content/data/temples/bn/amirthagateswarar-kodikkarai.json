@@ -1,29 +1,36 @@
 {
   "id": "amirthagateswarar-kodikkarai",
   "locale": "bn",
+  "name": "অমৃতগটেশ্বর (কোডি কুড়গর) মন্দির, কোডিক্কারাই",
   "nativeName": "கோடிக்கரை கோடிக்குழகர் (அமிர்தகடேஸ்வரர்) கோயில்",
+  "deity": "শিব অমৃতগটেশ্বর রূপে (কোডি কুড়গর, একটি স্বয়ম্ভু লিঙ্গ), দেবী অঞ্জনাক্ষীর (মাই তডঙ্গণ্ণি) সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Kodikkarai (Point Calimere)",
-    "state": "Tamil Nadu",
+    "city": "কোডিক্কারাই (পয়েন্ট ক্যালিমিয়ার)",
+    "state": "তামিলনাড়ু",
     "lat": 10.2849,
     "lng": 79.8522
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তোত্রগীত); পরবর্তীকালে চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কোডিক্কারাইয়ে — পয়েন্ট ক্যালিমিয়ার, যেখানে কাবেরী অঞ্চল ভূমির দক্ষিণতম প্রান্তে সমুদ্রের সঙ্গে মিশেছে — শিবকে অমৃতগটেশ্বর, কোডি কুড়গর রূপে পূজা করা হয়, যিনি এক স্বয়ম্ভু লিঙ্গে দেবী অঞ্জনাক্ষীর সঙ্গে অধিষ্ঠিত। সম্বন্দর ও সুন্দরর কর্তৃক স্তোত্রগীত এই পাডল পেট্র স্থলমটি মন্থিত সমুদ্রের অমৃতের সমুদ্রতীরবর্তী মন্দির।",
   "sections": {
-    "history": "Kodikkarai — Point Calimere, the southern tip of the Kaveri delta where land meets sea — holds a Paadal Petra Sthalam, the Kodi Kuzhagar temple, hymned in the Tevaram by Tirugnana Sambandar and Sundarar. Believed first built by the Cholas, it carries several inscriptions of the Chola period. It stands in Nagapattinam district, by the Point Calimere wildlife sanctuary.",
-    "architecture": "A Dravidian seaside temple, the shrine enshrines Amirthagateswarar — the Kodi Kuzhagar — worshipped in a swayambhu, self-manifest lingam, with the goddess Anjanakshi (Mai Thadanganni) in her own shrine, a Nandi and the parivara devatas. The Navagrahas here are set in a straight line rather than the usual grid. Because of its remote coastal setting, the temple opens only about an hour each morning and evening.",
-    "legends": "The sthala legend tells of the churning of the milky ocean: the amritam, the nectar, was being borne in a pot (kudam) by Vayu, the wind, when the asuras raised a storm; a little of the nectar spilled here and took the form of a lingam. From that pot of nectar the lord is Amirthagateswarar — amrita-ghata, 'the nectar-pot lord' — and in Tamil Kodi Kuzhagar, the fair one of the land's end. The goddess Anjanakshi stands beside him.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a remote coastal shrine. Pilgrims on the Vedaranyam–Kodikkarai stretch of the Paadal Petra trail reach Point Calimere at the land's southern end.",
-    "experience": "At Kodikkarai the pilgrim comes to the land's end, where the delta runs out into the sea. Before Amirthagateswarar and Anjanakshi — the nectar-pot lord of the churned ocean — with the sanctuary's birds and the salt wind near, the visitor finds, in the hour the doors stand open, the far, unhurried grace of a Tevaram temple at the southern tip of the Tamil country."
+    "history": "কোডিক্কারাই — পয়েন্ট ক্যালিমিয়ার, কাবেরী বদ্বীপের দক্ষিণতম প্রান্ত যেখানে ভূমি সমুদ্রের সঙ্গে মিশেছে — ধারণ করে একটি পাডল পেট্র স্থলম, কোডি কুড়গর মন্দির, যা তিরুজ্ঞান সম্বন্দর ও সুন্দরর কর্তৃক তেবারমে স্তোত্রগীত। মনে করা হয় এটি প্রথম চোলরা নির্মাণ করেছিলেন, এবং এতে চোল যুগের বেশ কয়েকটি শিলালিপি রয়েছে। এটি নাগপট্টিনম জেলায়, পয়েন্ট ক্যালিমিয়ার বন্যপ্রাণী অভয়ারণ্যের পাশে অবস্থিত।",
+    "architecture": "একটি দ্রাবিড় সমুদ্রতীরবর্তী মন্দির, এই গর্ভগৃহে অমৃতগটেশ্বর — কোডি কুড়গর — এক স্বয়ম্ভু, স্বয়ংপ্রকাশিত লিঙ্গে পূজিত হন, দেবী অঞ্জনাক্ষী (মাই তডঙ্গণ্ণি) তাঁর নিজস্ব মন্দিরে, একটি নন্দী এবং পরিবার দেবতাদের সঙ্গে। এখানে নবগ্রহ সাধারণ জালিকার পরিবর্তে সরলরেখায় স্থাপিত। প্রত্যন্ত উপকূলবর্তী অবস্থানের কারণে মন্দিরটি প্রতিদিন সকালে ও সন্ধ্যায় কেবল প্রায় এক ঘণ্টা করে খোলা থাকে।",
+    "legends": "স্থল-কিংবদন্তি ক্ষীরসাগর মন্থনের কথা বলে: অমৃত, যখন বায়ু একটি কলসে (কুডম) বহন করছিলেন, তখন অসুরেরা ঝড় তুললেন; সামান্য অমৃত এখানে ছলকে পড়ে এবং লিঙ্গের রূপ ধারণ করে। সেই অমৃতের কলস থেকেই প্রভু অমৃতগটেশ্বর — অমৃত-ঘট, 'অমৃত-কলসের প্রভু' — এবং তামিলে কোডি কুড়গর, ভূমির প্রান্তের সুন্দর প্রভু। দেবী অঞ্জনাক্ষী তাঁর পাশে দণ্ডায়মান।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজার সঙ্গে পালিত হয়, একটি প্রত্যন্ত উপকূলবর্তী মন্দিরের নিরিবিলি মাত্রায়। পাডল পেট্র পথের বেদারণ্যম–কোডিক্কারাই অংশের তীর্থযাত্রীরা ভূমির দক্ষিণ প্রান্তে পয়েন্ট ক্যালিমিয়ারে পৌঁছান।",
+    "experience": "কোডিক্কারাইয়ে তীর্থযাত্রী ভূমির প্রান্তে আসেন, যেখানে বদ্বীপ সমুদ্রে বিলীন হয়। অমৃতগটেশ্বর ও অঞ্জনাক্ষীর সম্মুখে — মন্থিত সমুদ্রের অমৃত-কলসের প্রভু — অভয়ারণ্যের পাখি ও নোনা হাওয়া কাছে নিয়ে, দরজা খোলা থাকার সেই এক ঘণ্টায় দর্শনার্থী তামিল দেশের দক্ষিণতম প্রান্তে এক তেবারম মন্দিরের দূরবর্তী, অবিচল কৃপা খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kodikkarai (Point Calimere) is the land's southern tip, about 11 km beyond Vedaranyam, in Nagapattinam district, by the Point Calimere wildlife sanctuary. Vedaranyam is the nearest town, with buses and taxis to the point; Nagapattinam and Tiruvarur are the nearest rail heads. The temple opens only about an hour each morning and evening."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা; বিশেষত উৎসবের দিনে সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত ছবি তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কোডিক্কারাই (পয়েন্ট ক্যালিমিয়ার) ভূমির দক্ষিণতম প্রান্ত, বেদারণ্যম থেকে প্রায় ১১ কিমি দূরে, নাগপট্টিনম জেলায়, পয়েন্ট ক্যালিমিয়ার বন্যপ্রাণী অভয়ারণ্যের পাশে। বেদারণ্যম নিকটতম শহর, প্রান্ত পর্যন্ত বাস ও ট্যাক্সি রয়েছে; নাগপট্টিনম ও তিরুভারুর নিকটতম রেলস্টেশন। মন্দিরটি প্রতিদিন সকালে ও সন্ধ্যায় কেবল প্রায় এক ঘণ্টা খোলা থাকে।"
   }
 }

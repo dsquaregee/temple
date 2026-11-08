@@ -1,32 +1,39 @@
 {
   "id": "thirunageswaram-naganathaswamy",
   "locale": "bn",
+  "name": "তিরুনাগেশ্বরম নাগনাথস্বামী মন্দির",
   "nativeName": "திருநாகேஸ்வரம் நாகநாதசுவாமி கோயில்",
+  "deity": "শিব নাগনাথস্বামী রূপে, দেবী গিরিগুজাম্বিকার সঙ্গে; রাহুর উপাসনাস্থলই প্রধান আকর্ষণ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thirunageswaram",
-    "state": "Tamil Nadu",
+    "city": "তিরুনাগেশ্বরম",
+    "state": "তামিলনাড়ু",
     "lat": 10.964,
     "lng": 79.446
   },
+  "period": "চোল যুগ, দশম শতকের গোড়ার দিক",
   "century": 10,
+  "dynasty": "আদি চোল (আদিত্য চোলকে কৃতিত্ব দেওয়া হয়)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "navagraha-temples",
     "kaveri-delta-temple-towns",
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোনমের কাছে এই চোল-যুগের শিবমন্দির রাহুর নবগ্রহ স্থলম। ভক্তরা প্রতিদিনের রাহু কালম অভিষেকের জন্য সমবেত হন, যেখানে রাহুর উপর ঢালা দুধ প্রবাহিত হওয়ার সময় নীলাভ আভা ধারণ করে বলে বহুল পরিচিত।",
   "sections": {
-    "history": "Sung in the Tevaram hymns, Thirunageswaram counts among the Paadal Petra Sthalams venerated by the Nayanmars. The grand stone temple is attributed to the early Cholas, with Aditya Chola named in tradition as its patron, and it grew across later centuries into an expansive complex. Its name, Naga-natha or Lord of serpents, recalls the belief that serpents worshipped Shiva at this spot. Over generations the temple became one of the most visited of the nine Navagraha shrines, drawing pilgrims who come specifically to propitiate Rahu, the ascending lunar node.",
-    "architecture": "Built in the Dravidian idiom, the temple presents a stone layout of gateway towers, pillared halls and several sacred tanks, its walls and mandapas carrying the fine sculpture characteristic of Chola workmanship. The sanctum enshrines Naganathaswamy, while the Goddess Girigujambika has her own shrine within the enclosure. The Rahu shrine, set apart for the planet honoured here, is the focus of daily worship and is arranged so that crowds can witness the abhishekam. Subsidiary shrines, corridors and tanks frame a spacious complex shaped by successive additions of the Chola age and after.",
-    "legends": "The temple's central story concerns the serpents, the nagas, who are said to have worshipped Shiva here, giving the Lord the name Naganathaswamy. As one of the nine planetary temples, this is the abode of Rahu, the shadow planet and ascending lunar node. Devotees carrying Rahu dosha, naga dosha, or obstacles to marriage and childbirth come to seek relief. The best-known marvel is witnessed during Rahu Kalam: as milk is poured over the Rahu idol in abhishekam, it is widely observed to turn a bluish hue while it flows, a sight that draws steady crowds.",
-    "festivals": "Rahu Kalam pujas are performed every day and are especially thronged on Sundays, when the milk abhishekam to Rahu becomes the heart of worship. Pradosham is observed through the lunar fortnights, and the annual Brahmotsavam fills the temple with processions and ceremony. Around these occasions the streets near the temple take on a festive character, with the Rahu abhishekam remaining the observance most associated with Thirunageswaram.",
-    "experience": "Most visitors time their arrival to Rahu Kalam to see the milk abhishekam over the Rahu idol and to offer their own prayers against Rahu dosha. The mood is devotional and busy rather than quiet; expect queues at the Rahu shrine, especially on Sundays. Walking the pillared halls and pausing at the sacred tanks offers calmer moments away from the crowd. Priests guide the specific rituals of propitiation, and many pilgrims fold this stop into a wider circuit of the nine Navagraha temples around Kumbakonam."
+    "history": "তেবারম স্তোত্রে গীত, তিরুনাগেশ্বরম নায়নমারদের দ্বারা পূজিত পাডল পেট্র স্থলমগুলির অন্যতম। এই বিশাল প্রস্তরমন্দিরটি আদি চোলদের কৃতিত্ব হিসেবে গণ্য, ঐতিহ্যে আদিত্য চোলকে এর পৃষ্ঠপোষক বলা হয়, এবং পরবর্তী শতাব্দীগুলিতে এটি এক সুবিস্তৃত সমুচ্চয়ে পরিণত হয়। এর নাম নাগ-নাথ অর্থাৎ সর্পদের অধীশ্বর, যা এই স্থানে সর্পেরা শিবকে পূজা করেছিল এই বিশ্বাসের স্মৃতি বহন করে। প্রজন্মের পর প্রজন্ম ধরে মন্দিরটি নয়টি নবগ্রহ স্থলের মধ্যে সবচেয়ে বেশি পরিদর্শিত একটিতে পরিণত হয়েছে, বিশেষত আরোহী চন্দ্রবিন্দু রাহুকে প্রসন্ন করতে আসা তীর্থযাত্রীদের আকর্ষণ করে।",
+    "architecture": "দ্রাবিড় শৈলীতে নির্মিত, মন্দিরটিতে রয়েছে প্রবেশদ্বারের গোপুরম, স্তম্ভশোভিত মণ্ডপ ও একাধিক পবিত্র তীর্থের প্রস্তর-বিন্যাস, এর দেয়াল ও মণ্ডপে চোল শিল্পকর্মের বৈশিষ্ট্যপূর্ণ সূক্ষ্ম ভাস্কর্য। গর্ভগৃহে নাগনাথস্বামী প্রতিষ্ঠিত, আর দেবী গিরিগুজাম্বিকার পৃথক উপাসনাস্থল রয়েছে প্রাঙ্গণের মধ্যে। যে গ্রহের সম্মান এখানে করা হয় সেই রাহুর জন্য পৃথকভাবে স্থাপিত মন্দিরটি প্রতিদিনের পূজার কেন্দ্র এবং এমনভাবে সাজানো যাতে জনতা অভিষেক প্রত্যক্ষ করতে পারে। উপমন্দির, করিডর ও তীর্থগুলি চোল যুগ ও তার পরের ধারাবাহিক সংযোজনে গঠিত এক সুপ্রশস্ত সমুচ্চয়কে ঘিরে রাখে।",
+    "legends": "মন্দিরের কেন্দ্রীয় কাহিনি নাগ অর্থাৎ সর্পদের নিয়ে, যারা এখানে শিবকে পূজা করেছিল বলে কথিত আছে, যার ফলে ভগবান নাগনাথস্বামী নাম পান। নয়টি গ্রহমন্দিরের অন্যতম হিসেবে এটি রাহুর আবাস, যিনি ছায়াগ্রহ ও আরোহী চন্দ্রবিন্দু। রাহু দোষ, নাগ দোষ, অথবা বিবাহ ও সন্তানলাভে বাধাগ্রস্ত ভক্তরা মুক্তি কামনায় এখানে আসেন। সর্বাধিক পরিচিত বিস্ময়টি রাহু কালমের সময় দেখা যায়: অভিষেকে রাহুর মূর্তির উপর দুধ ঢালার সময় প্রবাহিত হওয়ার মুহূর্তে তা নীলাভ রঙ ধারণ করে বলে বহুল পরিচিত, এই দৃশ্য নিয়মিত জনসমাগম ঘটায়।",
+    "festivals": "রাহু কালম পূজা প্রতিদিন অনুষ্ঠিত হয় এবং রবিবারে বিশেষভাবে জনাকীর্ণ হয়, যখন রাহুর দুগ্ধ অভিষেকই উপাসনার কেন্দ্রবিন্দু হয়ে ওঠে। চান্দ্র পক্ষ জুড়ে প্রদোষম পালিত হয়, আর বার্ষিক ব্রহ্মোৎসব মন্দিরকে শোভাযাত্রা ও অনুষ্ঠানে পূর্ণ করে। এই উপলক্ষগুলিকে ঘিরে মন্দিরের কাছের রাস্তাগুলি উৎসবমুখর রূপ নেয়, আর রাহু অভিষেক তিরুনাগেশ্বরমের সঙ্গে সর্বাধিক সংশ্লিষ্ট আচার হিসেবে থেকে যায়।",
+    "experience": "অধিকাংশ দর্শনার্থী রাহু কালমের সময় পৌঁছানোর সময় স্থির করেন, যাতে রাহুর মূর্তির উপর দুগ্ধ অভিষেক দেখতে পারেন এবং রাহু দোষের বিরুদ্ধে নিজেদের প্রার্থনা নিবেদন করতে পারেন। পরিবেশ নিস্তব্ধ নয় বরং ভক্তিপূর্ণ ও ব্যস্ত; রাহু উপাসনাস্থলে, বিশেষত রবিবারে, দীর্ঘ সারির আশা রাখুন। স্তম্ভশোভিত মণ্ডপে হাঁটা এবং পবিত্র তীর্থের ধারে একটু থামা ভিড় থেকে দূরে কিছু শান্ত মুহূর্ত এনে দেয়। পুরোহিতরা প্রসন্ন করার নির্দিষ্ট আচারে পথ দেখান, আর বহু তীর্থযাত্রী এই যাত্রাকে কুম্বকোনমের আশেপাশের নয়টি নবগ্রহ মন্দিরের বৃহত্তর পরিক্রমার অংশ করে নেন।"
   },
   "visit": {
-    "timings": "Open roughly 6:00 am to 1:00 pm and 4:00 to 8:30 pm; verify locally as hours shift with festivals. Crowded during Rahu Kalam each day.",
-    "dressCode": "Modest traditional dress is expected.",
-    "photography": "Photography inside the sanctum is generally not permitted.",
-    "gettingThere": "Thirunageswaram lies about 6 km from Kumbakonam in Thanjavur district. The nearest hub is Kumbakonam; rail access is via Kumbakonam or Thirunageswaram station. The nearest airport is Tiruchirappalli, about 90 km away."
+    "timings": "সাধারণত সকাল ৬:০০টা থেকে দুপুর ১:০০টা এবং বিকাল ৪:০০টা থেকে রাত ৮:৩০টা পর্যন্ত খোলা; উৎসবের সঙ্গে সময় বদলায় বলে স্থানীয়ভাবে যাচাই করুন। প্রতিদিন রাহু কালমের সময় ভিড় হয়।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত।",
+    "photography": "গর্ভগৃহের ভিতরে সাধারণত ফটোগ্রাফির অনুমতি নেই।",
+    "gettingThere": "তিরুনাগেশ্বরম তাঞ্জাবুর জেলায় কুম্বকোনম থেকে প্রায় ৬ কিমি দূরে অবস্থিত। নিকটতম কেন্দ্র কুম্বকোনম; রেলপথে প্রবেশ কুম্বকোনম বা তিরুনাগেশ্বরম স্টেশন হয়ে। নিকটতম বিমানবন্দর তিরুচিরাপল্লি, প্রায় ৯০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thirunageswaram-naganathaswamy.jpg",

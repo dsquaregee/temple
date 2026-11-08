@@ -1,29 +1,36 @@
 {
   "id": "bhaktavatsala-thirukkannamangai",
   "locale": "bn",
+  "name": "ভক্তবৎসল পেরুমাল মন্দির, তিরুক্কণ্ণমঙ্গৈ",
   "nativeName": "பக்தவத்சல பெருமாள் கோயில், திருக்கண்ணமங்கை",
+  "deity": "বিষ্ণু পেরুম্পুরক্কডল রূপে, শোভাযাত্রায় ভক্তবৎসল পেরুমাল রূপে পূজিত, দেবী কণ্ণমঙ্গৈ নায়গী-সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thirukkannamangai",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কণ্ণমঙ্গৈ",
+    "state": "তামিলনাড়ু",
     "lat": 10.7994,
     "lng": 79.5869
   },
+  "period": "চোল দেশের একটি দিব্যদেশম, নালায়িরা দিব্যপ্রবন্ধমে তিরুমঙ্গাই আলবার দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "মধ্যযুগীয় চোল (থাঞ্জাভুর নায়ক সংস্কার-সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "তিরুবারুরের কাছে তিরুক্কণ্ণমঙ্গৈতে বিষ্ণু হলেন ভক্তবৎসল, সেই প্রভু যিনি তাঁর ভক্তদের ভালোবাসেন—চোল নাড়ুর একটি দিব্যদেশম, তিরুমঙ্গাই আলবার দ্বারা স্তুত, যেখানে পরম্পরা বলে দেবতারা মৌমাছি হয়ে উপাসনা করতে এসেছিলেন।",
   "sections": {
-    "history": "Thirukkannamangai lies about six kilometres from Tiruvarur on the road to Kumbakonam. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Chola Nadu, where Thirumangai Alvar hymned the Lord. The temple is believed to have been begun by the Medieval Cholas in the late ninth century, and three inscriptions of the Chola period are recorded here. The Thanjavur Nayaks of the seventeenth century are remembered for later additions and renovation. It is counted among the Pancha Krishnaranya Kshetrams, the five sacred groves of Krishna.",
-    "architecture": "A five-tiered rajagopuram opens the temple, and the sanctum is crowned by the Utpala Vimanam. The sacred tank is the Darshana Pushkarini, described as one of the largest temple tanks in the state. The presiding Lord is known as Perumpurakkadal, the great ocean outside, while the festival image bears the name Bhaktavatsalan, with Abhishekavalli as the festival image of the Goddess, who is honoured as Kannamangai Nayagi in her own shrine.",
-    "legends": "Tradition holds that Lakshmi was wedded to Vishnu at this place. The devas who witnessed the wedding, the sthala purana tells, took the form of bees and built a hive beside the Thayar shrine, on its northern side, so that they might stay and worship every day. The bees are said never to harm devotees, who may see the hive near the Goddess's shrine.",
-    "festivals": "The Brahmotsavam is held in the month of Chithirai, April–May, beginning ten days after Chitra Pournami and including a chariot festival. Vaikunta Ekadashi is kept with devotion, and the temple follows six daily rituals and three yearly festivals in the Vaishnava tradition.",
-    "experience": "A peaceful village Divya Desam within easy reach of Tiruvarur, rewarding for pilgrims who follow Thirumangai Alvar's hymns across the delta. Walk beside the broad Darshana Pushkarini, then look for the hive near the Thayar shrine. The Chithirai Brahmotsavam is the most festive time; other days are calm."
+    "history": "তিরুক্কণ্ণমঙ্গৈ তিরুবারুর থেকে কুম্বকোণমের পথে প্রায় ছয় কিলোমিটার দূরে অবস্থিত। এটি ১০৮টি দিব্যদেশমের একটি, আলবারদের দ্বারা নালায়িরা দিব্যপ্রবন্ধমে স্তুত বিষ্ণুর আবাসসমূহ, এবং চোল নাড়ুর অন্তর্গত, যেখানে তিরুমঙ্গাই আলবার প্রভুকে স্তুত করেছেন। মন্দিরটি মধ্যযুগীয় চোলদের দ্বারা নবম শতাব্দীর শেষভাগে শুরু হয়েছিল বলে বিশ্বাস করা হয়, এবং এখানে চোল যুগের তিনটি শিলালিপি লিপিবদ্ধ আছে। সপ্তদশ শতাব্দীর থাঞ্জাভুর নায়কদের পরবর্তী সংযোজন ও সংস্কারের জন্য স্মরণ করা হয়। এটি পঞ্চ কৃষ্ণারণ্য ক্ষেত্রের অন্তর্ভুক্ত, কৃষ্ণের পাঁচটি পবিত্র অরণ্য।",
+    "architecture": "একটি পঞ্চতল রাজগোপুরম মন্দিরটি উন্মুক্ত করে, এবং গর্ভগৃহটি উৎপল বিমানমে শীর্ষিত। পবিত্র পুষ্করিণীটি দর্শন পুষ্করিণী, যা রাজ্যের বৃহত্তম মন্দির-পুষ্করিণীগুলির একটি বলে বর্ণিত। অধিষ্ঠাতা প্রভু পেরুম্পুরক্কডল নামে পরিচিত, অর্থাৎ বাইরের মহাসাগর, আর উৎসব-মূর্তি ভক্তবৎসলন নাম বহন করে, দেবীর উৎসব-মূর্তি রূপে অভিষেকবল্লী-সহ, যিনি তাঁর নিজস্ব মন্দিরে কণ্ণমঙ্গৈ নায়গী রূপে সম্মানিত।",
+    "legends": "পরম্পরা বলে, এই স্থানে লক্ষ্মী বিষ্ণুর সঙ্গে বিবাহবন্ধনে আবদ্ধ হয়েছিলেন। স্থলপুরাণ বলে, যে দেবতারা বিবাহ প্রত্যক্ষ করেছিলেন তাঁরা মৌমাছির রূপ ধারণ করে থায়ার মন্দিরের পাশে, এর উত্তর দিকে, একটি মৌচাক তৈরি করেন, যাতে তাঁরা থেকে প্রতিদিন উপাসনা করতে পারেন। মৌমাছিরা কথিত আছে কখনও ভক্তদের ক্ষতি করে না, যাঁরা দেবীর মন্দিরের কাছে মৌচাকটি দেখতে পারেন।",
+    "festivals": "ব্রহ্মোৎসব চিত্তিরৈ মাসে, এপ্রিল–মে-তে, চিত্রা পৌর্ণমীর দশ দিন পরে শুরু হয়ে একটি রথোৎসব-সহ অনুষ্ঠিত হয়। বৈকুণ্ঠ একাদশী ভক্তিসহকারে পালিত হয়, আর মন্দির বৈষ্ণব পরম্পরায় ছয়টি দৈনিক আচার ও তিনটি বার্ষিক উৎসব অনুসরণ করে।",
+    "experience": "তিরুবারুরের সহজ নাগালের মধ্যে একটি শান্ত গ্রামীণ দিব্যদেশম, সেই তীর্থযাত্রীদের জন্য ফলপ্রদ যাঁরা ব-দ্বীপ জুড়ে তিরুমঙ্গাই আলবারের স্তোত্র অনুসরণ করেন। প্রশস্ত দর্শন পুষ্করিণীর পাশে হাঁটুন, তারপর থায়ার মন্দিরের কাছে মৌচাকটি খুঁজুন। চিত্তিরৈ ব্রহ্মোৎসব সবচেয়ে উৎসবমুখর সময়; অন্য দিনগুলি শান্ত।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is about six kilometres from Tiruvarur on the Tiruvarur–Kumbakonam road in Tamil Nadu. Tiruvarur is the nearest town and railhead, and Tiruchirappalli is the nearest major airport. Reach it by road from Tiruvarur, and confirm local directions on arrival."
+    "timings": "প্রতিদিন সকালে ও সন্ধ্যায় দর্শন-পর্ব-সহ খোলা এবং মধ্যাহ্নে বন্ধ; উৎসবের দিনগুলি সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময় নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে আলোকচিত্র তোলা সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "মন্দিরটি তামিলনাড়ুতে তিরুবারুর–কুম্বকোণম সড়কে তিরুবারুর থেকে প্রায় ছয় কিলোমিটার দূরে। তিরুবারুর নিকটতম শহর ও রেলমাথা, আর তিরুচিরাপল্লি নিকটতম বড় বিমানবন্দর। তিরুবারুর থেকে সড়কপথে পৌঁছান, আর পৌঁছে স্থানীয় দিকনির্দেশ নিশ্চিত করে নিন।"
   }
 }

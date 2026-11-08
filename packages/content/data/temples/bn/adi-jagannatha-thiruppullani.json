@@ -1,30 +1,37 @@
 {
   "id": "adi-jagannatha-thiruppullani",
   "locale": "bn",
+  "name": "আদি জগন্নাথ পেরুমাল মন্দির, তিরুপ্পুল্লানি",
   "nativeName": "ஆதி ஜெகந்நாதப் பெருமாள் கோயில், திருப்புல்லாணி",
+  "deity": "আদি জগন্নাথ পেরুমাল রূপে বিষ্ণু, দেবী পদ্মাসিনী তায়ার-এর সঙ্গে—এবং দর্ভশয়ন রাম রূপে রাম, দর্ভঘাসের শয্যায় শায়িত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruppullani",
-    "state": "Tamil Nadu",
+    "city": "তিরুপ্পুল্লানি",
+    "state": "তামিলনাড়ু",
     "lat": 9.283,
     "lng": 78.824
   },
+  "period": "রামনাথপুরমে সমুদ্রের কাছে পাণ্ড্য দেশের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার-স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য, চোল ও সেতুপতি পৃষ্ঠপোষকতা সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "রামনাথপুরমে সমুদ্রের কাছে, বিষ্ণু আদি জগন্নাথ পেরুমাল রূপে দাঁড়িয়ে আছেন আর রাম তাঁর দর্ভঘাসের শয্যায় শায়িত, সমুদ্রের অপেক্ষায়—তিরুমঙ্গৈ আলবার-স্তুত পাণ্ড্য দেশের একটি দিব্য দেশম।",
   "sections": {
-    "history": "Thiruppullani lies near the coast just outside Ramanathapuram, on the road of the Rama legend that runs to Sethu and Rameswaram. It is one of the 108 Divya Desams of Pandya Nadu, glorified by Thirumangai Alvar in twenty verses of his Periya Thirumozhi. Tradition places the temple's beginnings in the eighth century, and the shrine grew with gifts from the Medieval Cholas, the later Pandyas and the Sethupathi rulers of Ramnad, the hereditary guardians of the causeway country. A damaged inscription of the thirty-seventh year of Maravarman Sundara Pandya records an order of a minister named Arya Chakravarthy, and historians suggest that parts of the gopuram may owe something to the Jaffna kings who held Rameswaram as allies of the Pandyas.",
-    "architecture": "The temple holds three great presences under their own vimanas. Adi Jagannatha Perumal, honoured as the Jagannatha of the south, stands beneath the Kalyana vimana with the Goddess Padmasini Thayar in her separate shrine. Darbhasayana Rama reclines on his grass bed under the Swastika vimana, and Pattabhi Rama, crowned after the victory, has his own sannidhi. Before the temple lies the Chakra Theertham, named for the Lord's discus, while the sea nearby is honoured as the Ratnakara theertham.",
-    "legends": "The name is read as Thiru-pul-anai, the sacred bed of grass. The sthala purana tells that the sages Pullar, Galavar and Kanvar did penance in a forest of darbha here, and Vishnu appeared to them first as a sacred fig and then as Adi Jagannatha. In the Ramayana tradition, Rama lay on darbha grass at this shore for three days, beseeching the sea-king for passage to Lanka; when the ocean gave no answer he took up his bow, and the sea-king came to him in surrender. Tradition also holds that King Dasaratha prayed here for sons.",
-    "festivals": "The Brahmotsavam is celebrated in the Tamil month of Panguni, and the birth festival of Rama in Chithirai draws pilgrims on the Rameswaram route. Vaikunta Ekadashi and the processions of Darbhasayana Rama and Adi Jagannatha keep the year; confirm festival dates locally.",
-    "experience": "Many pilgrims to Rameswaram stop here first, to stand before the Rama who lay waiting on the shore before the bridge was built. The darbha-bed form, the crowned Rama and the Lord of the south together make this a Divya Desam where the Ramayana feels close at hand."
+    "history": "তিরুপ্পুল্লানি রামনাথপুরমের ঠিক বাইরে উপকূলের কাছে, সেতু ও রামেশ্বরম পর্যন্ত চলা রাম কিংবদন্তির পথে অবস্থিত। এটি পাণ্ড্য নাড়ুর ১০৮টি দিব্য দেশমের একটি, তিরুমঙ্গৈ আলবার তাঁর পেরিয় তিরুমোড়ির কুড়িটি পদে একে মহিমান্বিত করেছেন। ঐতিহ্য মন্দিরের সূচনা অষ্টম শতকে স্থাপন করে, এবং তীর্থটি মধ্যযুগীয় চোল, পরবর্তী পাণ্ড্য ও রামনাড়ের সেতুপতি শাসক—সেতুবন্ধ দেশের বংশানুক্রমিক রক্ষক—দের উপহারে বেড়ে ওঠে। মারবর্মন সুন্দর পাণ্ড্যের সাঁইত্রিশতম বর্ষের একটি ক্ষতিগ্রস্ত শিলালিপি আর্য চক্রবর্তী নামে এক মন্ত্রীর আদেশ নথিভুক্ত করে, এবং ঐতিহাসিকরা মনে করেন গোপুরমের কিছু অংশ হয়তো সেই জাফনা রাজাদের কাছে কিছু ঋণী, যাঁরা পাণ্ড্যদের মিত্র হিসেবে রামেশ্বরম অধিকার করেছিলেন।",
+    "architecture": "মন্দিরটি তাদের নিজস্ব বিমানের নিচে তিনটি মহান উপস্থিতি ধারণ করে। দক্ষিণের জগন্নাথ রূপে সম্মানিত আদি জগন্নাথ পেরুমাল কল্যাণ বিমানের নিচে দাঁড়িয়ে আছেন, দেবী পদ্মাসিনী তায়ার তাঁর পৃথক গর্ভগৃহে। দর্ভশয়ন রাম স্বস্তিক বিমানের নিচে তাঁর ঘাসের শয্যায় শায়িত, এবং বিজয়ের পর অভিষিক্ত পট্টাভি রামের নিজস্ব সন্নিধি আছে। মন্দিরের সামনে রয়েছে চক্র তীর্থম, প্রভুর চক্রের নামে নামাঙ্কিত, আর কাছের সমুদ্র রত্নাকর তীর্থম রূপে সম্মানিত।",
+    "legends": "নামটি তিরু-পুল-অনৈ, দর্ভঘাসের পবিত্র শয্যা হিসেবে পড়া হয়। স্থল পুরাণ বলে যে ঋষি পুল্লার, গালবার ও কণ্বর এখানে দর্ভের এক অরণ্যে তপস্যা করেছিলেন, এবং বিষ্ণু তাঁদের সামনে প্রথমে একটি পবিত্র অশ্বত্থ এবং পরে আদি জগন্নাথ রূপে আবির্ভূত হন। রামায়ণ ঐতিহ্যে, রাম এই উপকূলে তিন দিন দর্ভঘাসে শুয়ে লঙ্কায় পথের জন্য সমুদ্ররাজের কাছে অনুনয় করেছিলেন; সমুদ্র কোনো উত্তর না দিলে তিনি তাঁর ধনুক তুলে নেন, আর সমুদ্ররাজ আত্মসমর্পণে তাঁর কাছে আসেন। ঐতিহ্য আরও বলে যে রাজা দশরথ পুত্রলাভের জন্য এখানে প্রার্থনা করেছিলেন।",
+    "festivals": "তামিল পাঙ্গুনি মাসে ব্রহ্মোৎসবম উদযাপিত হয়, এবং চিত্তিরৈ মাসে রামের জন্মোৎসব রামেশ্বরম পথের তীর্থযাত্রীদের আকৃষ্ট করে। বৈকুণ্ঠ একাদশী এবং দর্ভশয়ন রাম ও আদি জগন্নাথের শোভাযাত্রা বছর জুড়ে চলে; উৎসবের তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "রামেশ্বরমের অনেক তীর্থযাত্রী প্রথমে এখানে থামেন, সেতু নির্মিত হওয়ার আগে উপকূলে অপেক্ষারত সেই রামের সামনে দাঁড়াতে। দর্ভ-শয্যার রূপ, অভিষিক্ত রাম ও দক্ষিণের প্রভু একসঙ্গে একে এমন এক দিব্য দেশম করে যেখানে রামায়ণকে খুব কাছে অনুভব হয়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Panguni Brahmotsavam, the Rama festival and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruppullani is about 10 km from Ramanathapuram town, reached by road; Ramanathapuram has a railway station on the Madurai–Rameswaram line, and the nearest airport is Madurai. Pilgrims often visit on the way to Sethukarai and Rameswaram."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্ব ও মধ্যাহ্নে বন্ধ থাকে; পাঙ্গুনি ব্রহ্মোৎসবম, রাম উৎসব ও বৈকুণ্ঠ একাদশীতে সবচেয়ে ভিড়। পরিদর্শনের আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ছবি তোলা সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "তিরুপ্পুল্লানি রামনাথপুরম শহর থেকে প্রায় ১০ কিমি দূরে, সড়কপথে পৌঁছানো যায়; রামনাথপুরমে মাদুরৈ–রামেশ্বরম লাইনে একটি রেলস্টেশন আছে, আর নিকটতম বিমানবন্দর মাদুরৈ। তীর্থযাত্রীরা প্রায়ই সেতুকরৈ ও রামেশ্বরম যাওয়ার পথে পরিদর্শন করেন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",

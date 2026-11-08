@@ -1,29 +1,36 @@
 {
   "id": "abathsahayeswarar-thenkurangaduthurai",
   "locale": "bn",
+  "name": "অপৎসহায়েশ্বরর মন্দির, তেনকুরঙ্গাড়ুতুরৈ",
   "nativeName": "தென்குரங்காடுதுறை அபத்சகாயேஸ்வரர் கோயில்",
+  "deity": "অপৎসহায়েশ্বরর রূপে শিব, দেবী পবলক্কোডি আম্মৈ-এর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Thenkurangaduthurai, at Aduthurai",
-    "state": "Tamil Nadu",
+    "city": "তেনকুরঙ্গাড়ুতুরৈ, আড়ুতুরৈ-তে",
+    "state": "তামিলনাড়ু",
     "lat": 11.02,
     "lng": 79.48
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তেনকুরঙ্গাড়ুতুরৈ, কাবেরীর দক্ষিণ তীরে আড়ুতুরৈ-তে, শিবকে অপৎসহায়েশ্বরর—'বিপদের সহায়ক'—রূপে দেবী পবলক্কোডি আম্মৈ-এর সঙ্গে সম্মান করে। সম্বন্দর ও অপ্পর-স্তুত একটি পাডল পেট্র স্থলম, এর উঁচু পাঁচ তলা পশ্চিম গোপুর কুম্বকোনমের কাছে বদ্বীপ দেশের উপর উঠে দাঁড়ায়।",
   "sections": {
-    "history": "Thenkurangaduthurai, at Aduthurai in Thanjavur district, is a Paadal Petra Sthalam on the southern bank of the Kaveri, hymned in the Tevaram by Sambandar and Appar. The stone temple is of the Chola period and later; its western gopuram, the tallest, rises in five tiers to about 72 feet.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Apathsahayeswarar in the sanctum, with the goddess Pavalakkodi Ammai (Prabhavalli) in her own shrine, a Nandi and the parivara devatas. The five-tiered western tower, about 72 feet, is the temple's landmark over the Aduthurai country.",
-    "legends": "The lord is worshipped as Apathsahayeswarar, 'the help in adversity,' the one who comes to the aid of those in distress; the goddess is Pavalakkodi Ammai, 'the coral creeper.' As with the delta shrines, the fuller sthala purana survives in local tradition and the Tevaram verses of Sambandar and Appar.",
-    "festivals": "The temple observes the Aippasi Annabishekam (October–November) as its most prominent festival, besides Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship.",
-    "experience": "At Thenkurangaduthurai the pilgrim comes to the help in adversity. Before Apathsahayeswarar and Pavalakkodi Ammai, beneath the tall western tower by the Kaveri's bank, the visitor finds the unhurried grace of a Tevaram temple of the Aduthurai delta."
+    "history": "তাঞ্জাভুর জেলার আড়ুতুরৈ-তে তেনকুরঙ্গাড়ুতুরৈ হল কাবেরীর দক্ষিণ তীরের একটি পাডল পেট্র স্থলম, সম্বন্দর ও অপ্পর কর্তৃক তেবারমে স্তুত। পাথরের মন্দিরটি চোল যুগ ও পরবর্তী সময়ের; এর পশ্চিম গোপুরম, সবচেয়ে উঁচু, পাঁচ তলায় প্রায় ৭২ ফুট উঁচু।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এই তীর্থে গর্ভগৃহে অপৎসহায়েশ্বরর অধিষ্ঠিত, দেবী পবলক্কোডি আম্মৈ (প্রভাবল্লী) তাঁর নিজস্ব গর্ভগৃহে, একটি নন্দী ও পরিবার দেবতাদের সঙ্গে। প্রায় ৭২ ফুট উঁচু পাঁচ তলা পশ্চিম গোপুর আড়ুতুরৈ দেশের উপর মন্দিরের ল্যান্ডমার্ক।",
+    "legends": "প্রভু অপৎসহায়েশ্বরর—'বিপদের সহায়ক'—রূপে পূজিত, যিনি দুর্দশাগ্রস্তদের সাহায্যে আসেন; দেবী পবলক্কোডি আম্মৈ, 'প্রবাল লতা'। বদ্বীপ তীর্থগুলির মতোই, বিস্তারিত স্থল পুরাণ স্থানীয় ঐতিহ্যে এবং সম্বন্দর ও অপ্পরের তেবারম পদে টিকে আছে।",
+    "festivals": "মন্দিরটি ঐপ্পাসি অন্নাভিষেকম (অক্টোবর–নভেম্বর) এর সবচেয়ে বিশিষ্ট উৎসব হিসেবে পালন করে, এছাড়া মাসি মাসে মহাশিবরাত্রি (ফেব্রুয়ারি–মার্চ), পুরট্টাসি মাসে নবরাত্রি (সেপ্টেম্বর–অক্টোবর) ও কার্তিকৈ-এর সোমবারগুলি, প্রদোষ পূজা সহ।",
+    "experience": "তেনকুরঙ্গাড়ুতুরৈতে তীর্থযাত্রী বিপদের সহায়কের কাছে আসেন। কাবেরীর তীরে উঁচু পশ্চিম গোপুরের নিচে অপৎসহায়েশ্বরর ও পবলক্কোডি আম্মৈ-এর সামনে, পরিদর্শক আড়ুতুরৈ বদ্বীপের এক তেবারম মন্দিরের তাড়াহুড়োহীন কৃপা খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thenkurangaduthurai is at Aduthurai, in Thanjavur district, near the Kumbakonam–Mayiladuthurai road. Aduthurai and Kumbakonam are the nearest towns and rail heads, with buses and taxis to the temple."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার অপরাহ্ণ থেকে সন্ধ্যা পর্যন্ত খোলা; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "সাধারণত বাইরের বারান্দায় ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তেনকুরঙ্গাড়ুতুরৈ তাঞ্জাভুর জেলার আড়ুতুরৈ-তে, কুম্বকোনম–ময়িলাড়ুতুরৈ রাস্তার কাছে। আড়ুতুরৈ ও কুম্বকোনম নিকটতম শহর ও রেলস্টেশন, মন্দিরে বাস ও ট্যাক্সি সহ।"
   }
 }

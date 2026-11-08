@@ -1,30 +1,37 @@
 {
   "id": "dharmasthala-manjunatha",
   "locale": "bn",
+  "name": "শ্রী মঞ্জুনাথ মন্দির, ধর্মস্থল",
   "nativeName": "ಶ್ರೀ ಮಂಜುನಾಥ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಧರ್ಮಸ್ಥಳ",
+  "deity": "শিব মঞ্জুনাথ রূপে, রক্ষক ধর্ম দৈবদের সঙ্গে পূজিত",
+  "tradition": "শৈবধর্ম, বিরল রূপে একটি জৈন রক্ষণাবেক্ষক পরিবার ও বৈষ্ণব (মাধ্ব) পুরোহিতদের দ্বারা রক্ষিত",
   "location": {
-    "city": "Dharmasthala",
-    "state": "Karnataka",
+    "city": "ধর্মস্থল",
+    "state": "কর্ণাটক",
     "lat": 12.949,
     "lng": 75.3785
   },
+  "period": "নেত্রাবতীর ধারে ধর্মের একটি জীবন্ত আসন, আন্তঃধর্মীয় রক্ষণাবেক্ষণ ও বিশাল অন্নদানের জন্য খ্যাত",
   "century": 13,
+  "dynasty": "মাধ্ব নির্দেশনায় হেগ্গড়ে পরিবারের দ্বারা রক্ষিত",
+  "style": "উপকূলীয় কর্ণাটক (তুলুনাড়ু)",
   "unesco": false,
   "circuits": [
     "temples-of-coastal-karnataka"
   ],
+  "summary": "ধর্মস্থলে শিব মঞ্জুনাথ রূপে এমন এক মন্দিরে পূজিত যা আর কোনোটির মতো নয় — একটি জৈন পরিবার দ্বারা রক্ষিত, বৈষ্ণব পুরোহিতদের দ্বারা সেবিত, এবং ধর্ম দৈবদের দ্বারা প্রহরিত, যেখানে ধর্ম ও দান জীবন্ত বিশ্বাস।",
   "sections": {
-    "history": "Dharmasthala, on the Netravati river in Dakshina Kannada, has for some eight centuries been a seat of dharma kept by the Heggade family, who are Jain by faith. Here Shiva is worshipped as Manjunatha, his linga said to have been brought and consecrated with the guidance of the Vaishnava saint Vadiraja Tirtha, so that the temple is served by Madhva Brahmin priests — a rare harmony of three traditions under one roof.",
-    "architecture": "The temple sits in the coastal Karnataka manner amid the greenery of the Western Ghats, gathered around the Manjunatha linga, with shrines to the guardian daivas nearby. Its fame is less in ornament than in scale of service: a kitchen that feeds tens of thousands of pilgrims free each day.",
-    "legends": "Tradition tells that the Dharma Daivas — guardian spirits of righteousness — came to the home of the Heggades and asked them to devote their house to dharma. They did so, and the god Annappa is said to have brought the linga of Manjunatha; from that time the family have been custodians, and the head of the house is honoured as the Dharmadhikari, the upholder of dharma.",
-    "festivals": "The great festival is the Laksha Deepotsava, the offering of a hundred thousand lamps, when the town fills with pilgrims. Through the year the temple keeps its daily worship and its unbroken annadana — the free feeding that is its defining vow.",
-    "experience": "Dharmasthala is sought as much for its spirit of charity and justice as for darshan; pilgrims come to eat at its hall, to seek fair judgement, and to see a shrine where three faiths keep one god together."
+    "history": "দক্ষিণ কন্নড়ের নেত্রাবতী নদীর ধারে ধর্মস্থল প্রায় আট শতাব্দী ধরে ধর্মের একটি আসন, যা জৈন ধর্মাবলম্বী হেগ্গড়ে পরিবারের দ্বারা রক্ষিত। এখানে শিব মঞ্জুনাথ রূপে পূজিত, তাঁর লিঙ্গ বৈষ্ণব সন্ত বাদিরাজ তীর্থের নির্দেশনায় আনা ও প্রতিষ্ঠিত বলে কথিত, যার ফলে মন্দিরটি মাধ্ব ব্রাহ্মণ পুরোহিতদের দ্বারা সেবিত — এক ছাদের নিচে তিনটি ঐতিহ্যের এক বিরল সম্প্রীতি।",
+    "architecture": "মন্দিরটি পশ্চিমঘাটের সবুজের মাঝে উপকূলীয় কর্ণাটক রীতিতে অবস্থিত, মঞ্জুনাথ লিঙ্গকে কেন্দ্র করে, কাছেই রক্ষক দৈবদের মন্দির। এর খ্যাতি অলংকারে কম, সেবার পরিসরে বেশি: একটি রান্নাঘর যা প্রতিদিন হাজার হাজার তীর্থযাত্রীকে বিনামূল্যে খাওয়ায়।",
+    "legends": "ঐতিহ্য বলে, ধর্ম দৈবগণ — ধর্মের রক্ষক আত্মা — হেগ্গড়েদের গৃহে এসে তাঁদের বাড়ি ধর্মে উৎসর্গ করতে অনুরোধ করেন। তাঁরা তা করলেন, এবং দেবতা অন্নপ্প মঞ্জুনাথের লিঙ্গ এনেছিলেন বলে কথিত; সেই সময় থেকে পরিবারটি রক্ষণাবেক্ষক, এবং গৃহকর্তা ধর্মাধিকারী, ধর্মের ধারক রূপে সম্মানিত।",
+    "festivals": "মহান উৎসব লক্ষ দীপোৎসব, এক লক্ষ প্রদীপের নিবেদন, যখন নগরটি তীর্থযাত্রীতে ভরে ওঠে। সারা বছর মন্দিরটি দৈনিক পূজা ও অবিচ্ছিন্ন অন্নদান পালন করে — সেই বিনামূল্যে খাওয়ানো যা এর সংজ্ঞায়ক ব্রত।",
+    "experience": "ধর্মস্থলকে দর্শনের মতোই এর দান ও ন্যায়ের চেতনার জন্য খোঁজা হয়; তীর্থযাত্রীরা আসেন এর ভোজনকক্ষে খেতে, ন্যায্য বিচার চাইতে, এবং এমন এক মন্দির দেখতে যেখানে তিনটি বিশ্বাস একসঙ্গে এক দেবতাকে রাখে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening worship and a midday break; annadana is served through the day. The Laksha Deepotsava is busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Dharmasthala lies in Dakshina Kannada, in the Western Ghats on the Netravati; it is reached by road from Mangaluru and from Bengaluru via Hassan, the nearest railhead being Mangaluru."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার পূজায় মধ্যাহ্নের বিরতিসহ খোলা থাকে; সারাদিন অন্নদান চলে। লক্ষ দীপোৎসব সর্বাধিক ব্যস্ত। যাওয়ার আগে বর্তমান সময় যাচাই করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "ধর্মস্থল দক্ষিণ কন্নড়ে, নেত্রাবতীর ধারে পশ্চিমঘাটে অবস্থিত; এটি মাঙ্গালুরু থেকে এবং হাসান হয়ে বেঙ্গালুরু থেকে সড়কপথে পৌঁছানো যায়, নিকটতম রেলপথ মাঙ্গালুরু।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/dharmasthala-manjunatha.jpg",

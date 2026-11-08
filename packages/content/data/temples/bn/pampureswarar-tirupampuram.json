@@ -1,29 +1,36 @@
 {
   "id": "pampureswarar-tirupampuram",
   "locale": "bn",
+  "name": "শেষপুরীশ্বর মন্দির, তিরুপাম্পুরম",
   "nativeName": "திருப்பாம்புரம் சேஷபுரீஸ்வரர் கோயில்",
+  "deity": "শিব শেষপুরীশ্বর (পাম্পুরনাথর, সর্পদের প্রভু) রূপে",
+  "tradition": "শৈব — একটি পাড়ল পেট্র স্থলম, সম্বন্দর, অপ্পর ও সুন্দরর কর্তৃক বন্দিত",
   "location": {
-    "city": "Tirupampuram, near Kuthalam",
-    "state": "Tamil Nadu",
+    "city": "তিরুপাম্পুরম, কুড়লমের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9025,
     "lng": 79.63
   },
+  "period": "তেবারম যুগ, চোল যুগের কাঠামোসহ",
   "century": 9,
+  "dynasty": "চোল (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুড়লমের নিকটে তিরুপাম্পুরম একটি পাড়ল পেট্র স্থলম যেখানে শিবকে শেষপুরীশ্বর — পাম্পুরনাথর, সর্পদের প্রভু — রূপে পূজা করা হয়, এবং যা রাহু–কেতু ও নাগ-দোষ প্রতিকারের কেন্দ্র হিসেবে বিখ্যাত। ঐতিহ্য অনুসারে, শিব যখন সর্পজাতিকে তাদের অহংকারের জন্য অভিশাপ দেন, তখন নাগেরা — যাদের মধ্যে আদিশেষ, রাহু ও কেতু ছিলেন — মহা শিবরাত্রিতে এখানে তাঁর পূজা করে মুক্তি পান। সম্বন্দর, অপ্পর ও সুন্দরর কর্তৃক বন্দিত, এটি একদিনের তীর্থপথের চারটি নাগ মন্দিরের তৃতীয়।",
   "sections": {
-    "history": "Tirupampuram, near Kuthalam in the Kaveri delta, is an ancient Shaiva village hymned in the seventh-century Tevaram by all three principal saints — Sambandar, Appar and Sundarar — and counted among the Paadal Petra Sthalams. Its historical names, Paampuram and Seshapuri, carry its deep association with the serpents, the nagas, and the stone temple of the Chola period has become, in modern times, a much-sought centre for remedies against serpent-related afflictions.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Seshapureeswarar. Its devotional life centres on the nagas: the shrines and images connected with Adisesha, Rahu and Ketu are the focus of the special worship for which the temple is known. The serpent motif runs through its iconography, marking it among the delta temples where naga-worship is pre-eminent.",
-    "legends": "The great legend of Tirupampuram concerns the pride of the serpents. In one telling, as Ganesha worshipped Shiva on Mount Kailasa, the serpent coiled about the lord's neck wrongly took the worship as its own and grew arrogant; angered, Shiva cursed the whole serpent race to lose its powers. The nagas, pleading that all should not suffer for one, were told to worship him on the night of Maha Shivaratri, and Adisesha led them — to Kumbakonam, Tirunageswaram, Nagore and finally Tirupampuram — until their curse was lifted. From this the temple became a powerful centre for Rahu–Ketu and naga-dosha remedies, sought by those facing such doshas or childlessness.",
-    "festivals": "Maha Shivaratri is the temple's foremost festival, carrying the memory of the night the serpents were redeemed, and it draws great crowds. The regular Shaiva observances of Pradosham and the Margazhi season are kept, and devotees often make a same-day circuit of the four Naga temples, of which Tirupampuram is the third. Special worship for Rahu and Ketu is offered through the year.",
-    "experience": "Tirupampuram draws pilgrims who come with a particular prayer — for relief from naga-dosha, for Rahu–Ketu remedies, for children. The darshan of Seshapureeswarar, the lord of the serpents, carries the sense of a grace that lifted an ancient curse, and for many the temple is a place of hope at a difficult turn of life."
+    "history": "কাবেরী বদ্বীপে কুড়লমের নিকটে তিরুপাম্পুরম একটি প্রাচীন শৈব গ্রাম, সপ্তম শতকের তেবারমে তিন প্রধান সন্ত — সম্বন্দর, অপ্পর ও সুন্দরর — সকলের দ্বারা বন্দিত এবং পাড়ল পেট্র স্থলমের অন্যতম গণ্য। এর ঐতিহাসিক নাম পাম্পুরম ও শেষপুরী সর্পদের, নাগেদের, সঙ্গে এর গভীর সংযোগ বহন করে, এবং চোল যুগের পাথরের মন্দিরটি আধুনিক কালে সর্প-সম্পর্কিত বাধার প্রতিকারের এক বহু-অভিলষিত কেন্দ্রে পরিণত হয়েছে।",
+    "architecture": "মন্দিরটি গোপুরম, প্রাকার ও শেষপুরীশ্বরের গর্ভগৃহসহ দ্রাবিড় পরিকল্পনা অনুসরণ করে। এর ভক্তিজীবন নাগেদের ঘিরে আবর্তিত হয়: আদিশেষ, রাহু ও কেতুর সঙ্গে সংযুক্ত মন্দির ও মূর্তিগুলিই সেই বিশেষ পূজার কেন্দ্র যার জন্য মন্দিরটি পরিচিত। এর মূর্তিশিল্পে সর্প-মোটিফ ছড়িয়ে আছে, যা একে বদ্বীপের সেই মন্দিরগুলির মধ্যে চিহ্নিত করে যেখানে নাগ-পূজা প্রধান।",
+    "legends": "তিরুপাম্পুরমের মহান কিংবদন্তি সর্পদের অহংকার সম্পর্কিত। এক কাহিনিতে, গণেশ যখন কৈলাস পর্বতে শিবের পূজা করছিলেন, তখন প্রভুর গলায় জড়ানো সর্প ভুলভাবে সেই পূজা নিজের বলে ধরে নিয়ে অহংকারী হয়ে ওঠে; ক্রুদ্ধ হয়ে শিব সমগ্র সর্পজাতিকে তাদের শক্তি হারানোর অভিশাপ দেন। নাগেরা, একজনের জন্য সকলের ভোগা উচিত নয় বলে অনুনয় করলে, তাদের মহা শিবরাত্রির রাতে তাঁর পূজা করতে বলা হয়, এবং আদিশেষ তাদের নেতৃত্ব দেন — কুম্বকোণম, তিরুনাগেশ্বরম, নাগোর এবং অবশেষে তিরুপাম্পুরম পর্যন্ত — যতক্ষণ না তাদের অভিশাপ দূর হয়। এর থেকে মন্দিরটি রাহু–কেতু ও নাগ-দোষ প্রতিকারের এক শক্তিশালী কেন্দ্রে পরিণত হয়, যা এমন দোষ বা অপুত্রকতার সম্মুখীন ব্যক্তিরা খোঁজেন।",
+    "festivals": "মহা শিবরাত্রি মন্দিরের প্রধান উৎসব, যে রাতে সর্পেরা মুক্তি পেয়েছিল সেই স্মৃতি বহন করে, এবং এটি বিপুল জনসমাগম টানে। প্রদোষম ও মার্গড়ি ঋতুর নিয়মিত শৈব আচার পালিত হয়, এবং ভক্তরা প্রায়শ চারটি নাগ মন্দিরের একদিনের তীর্থপথ করেন, যার মধ্যে তিরুপাম্পুরম তৃতীয়। রাহু ও কেতুর জন্য বিশেষ পূজা সারা বছর অর্পিত হয়।",
+    "experience": "তিরুপাম্পুরম এমন তীর্থযাত্রীদের টানে যাঁরা এক বিশেষ প্রার্থনা নিয়ে আসেন — নাগ-দোষ থেকে মুক্তির জন্য, রাহু–কেতু প্রতিকারের জন্য, সন্তানের জন্য। সর্পদের প্রভু শেষপুরীশ্বরের দর্শন এমন এক কৃপার অনুভূতি বহন করে যা এক প্রাচীন অভিশাপ দূর করেছিল, এবং অনেকের কাছে মন্দিরটি জীবনের কঠিন মোড়ে এক আশার স্থান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirupampuram is in Tiruvarur district near Kuthalam, roughly 15 km from Mayiladuthurai; the nearest rail heads are Kuthalam and Mayiladuthurai, with local buses and taxis to the village. It is often visited with the other three Naga temples (Kumbakonam, Tirunageswaram, Nagore)."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; স্থানীয়ভাবে সময় নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকতে হবে; প্রবেশপথে জুতো খুলে রাখা হয়।",
+    "photography": "সাধারণত বাইরের প্রাঙ্গণে ছবি তোলা অনুমোদিত, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুপাম্পুরম তিরুবারুর জেলায় কুড়লমের নিকটে, মায়িলাডুতুরৈ থেকে প্রায় ১৫ কিমি দূরে; নিকটতম রেলস্টেশন কুড়লম ও মায়িলাডুতুরৈ, সেখান থেকে গ্রামে স্থানীয় বাস ও ট্যাক্সি পাওয়া যায়। এটি প্রায়শ অন্য তিনটি নাগ মন্দিরের (কুম্বকোণম, তিরুনাগেশ্বরম, নাগোর) সঙ্গে দর্শন করা হয়।"
   }
 }
