@@ -1,29 +1,40 @@
 {
   "id": "panankatteeswarar-tiruppanangadu",
   "locale": "bn",
+  "name": "পনঙ্কাট্টীশ্বরর (তলপুরীশ্বরর) মন্দির, তিরুপ্পনঙ্গাড়ু",
   "nativeName": "திருப்பனங்காடு தலபுரீஸ்வரர் கோயில்",
+  "deity": "পনঙ্কাট্টীশ্বরর (তলপুরীশ্বরর) রূপে শিব, দেবী কিরুবানায়কীর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruppanangadu, near Cheyyar",
-    "state": "Tamil Nadu",
+    "city": "তিরুপ্পনঙ্গাড়ু, চেয়ারের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 12.7,
     "lng": 79.55
   },
+  "period": "তেবারম যুগ (সপ্তম–অষ্টম শতকে স্তুত); পরবর্তী গঠনমূলক মন্দির",
   "century": 8,
+  "dynasty": "পল্লব ও চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তোন্ডাই দেশে চেয়ারের কাছে তিরুপ্পনঙ্গাড়ু শিবকে পনঙ্কাট্টীশ্বরর—তলপুরীশ্বরর—রূপে সম্মান জানায়, দেবী কিরুবানায়কীর সঙ্গে। সুন্দররের স্তুত একটি পাডল পেট্র স্থলম, এর নাম 'তালগাছের বন' ঋষি অগস্ত্য ও তালফলের কিংবদন্তির সঙ্গে যুক্ত, এবং তাঁর প্রতিষ্ঠিত লিঙ্গ থেকে পূজা শুরু হয়।",
   "sections": {
-    "history": "Tiruppanangadu lies about 16 km from Kanchipuram, near Cheyyar, in Tiruvannamalai district, in the old Thondai country. It is a Paadal Petra Sthalam, sung in the Tevaram by Sundarar. The name means 'the forest of palms,' and the sthala vriksham is the palm tree. The structural temple carries Pallava and later work, in the Dravidian form of the Thondai Nadu shrines.",
-    "architecture": "A Dravidian temple of the Thondai country, the shrine enshrines Panankatteeswarar — Talapurisvarar, the lord of the palm-forest — and a second form, Kirubapurisvarar, with the goddesses Kirubanayaki and Amirtavalli, a Nandi and the parivara devatas. The sthala vriksham is the palm. Worship begins at the lingam consecrated by sage Agastya, followed by the lingam of his disciple Pulasthyar.",
-    "legends": "The name Tiruppanangadu, 'the holy forest of palms,' is tied to a legend of sage Agastya and the palm fruit; by tradition he consecrated a lingam here, and his disciple Pulasthyar another, so that worship begins at Agastya's and passes to Pulasthyar's. Shiva is worshipped as Panankatteeswarar — Talapurisvarar — with the goddess Kirubanayaki. (This is a distinct shrine from Puravar Panankattur in Villupuram, another Paadal Petra Sthalam.)",
-    "festivals": "The temple holds its Brahmotsavam in Masi (February–March), the Annabishegam in Aippasi (October–November) and the Arudra Darshan in Margazhi (December–January), besides Maha Shivaratri and Pradosha worship. Pilgrims of the Thondai country include Tiruppanangadu among their stops.",
-    "experience": "At Tiruppanangadu the pilgrim comes to the lord of the palm-forest. Before Panankatteeswarar and Kirubanayaki, beginning at the lingam of Agastya, the visitor finds the unhurried grace of a Tevaram temple of the Thondai country, among the palms that give the place its name."
+    "history": "তিরুপ্পনঙ্গাড়ু কাঞ্চিপুরম থেকে প্রায় ১৬ কিমি দূরে, চেয়ারের কাছে, তিরুবণ্ণামলৈ জেলায়, পুরনো তোন্ডাই দেশে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, সুন্দরর কর্তৃক তেবারমে স্তুত। নামের অর্থ 'তালগাছের বন,' এবং স্থলবৃক্ষ হল তালগাছ। গঠনমূলক মন্দিরটি তোন্ডাই নাড়ুর তীর্থগুলির দ্রাবিড় রীতিতে পল্লব ও পরবর্তী নির্মাণকাজ বহন করে।",
+    "architecture": "তোন্ডাই দেশের একটি দ্রাবিড় মন্দির, এই তীর্থ প্রতিষ্ঠিত করেছে পনঙ্কাট্টীশ্বররকে—তলপুরীশ্বরর, তালবনের প্রভু—এবং আরেকটি রূপ, কিরুবপুরীশ্বররকে, দেবী কিরুবানায়কী ও অমৃতবল্লী, একটি নন্দী ও পরিবার দেবতাদের সঙ্গে। স্থলবৃক্ষ হল তাল। পূজা শুরু হয় ঋষি অগস্ত্য কর্তৃক প্রতিষ্ঠিত লিঙ্গ থেকে, তারপর তাঁর শিষ্য পুলস্ত্যরের লিঙ্গে।",
+    "legends": "তিরুপ্পনঙ্গাড়ু নামটি, 'তালগাছের পবিত্র বন,' ঋষি অগস্ত্য ও তালফলের একটি কিংবদন্তির সঙ্গে যুক্ত; ঐতিহ্য অনুসারে তিনি এখানে একটি লিঙ্গ প্রতিষ্ঠা করেন, আর তাঁর শিষ্য পুলস্ত্যর আরেকটি, যাতে পূজা শুরু হয় অগস্ত্যের লিঙ্গ থেকে ও পুলস্ত্যরের লিঙ্গে এগিয়ে যায়। শিব পনঙ্কাট্টীশ্বরর—তলপুরীশ্বরর—রূপে পূজিত, দেবী কিরুবানায়কীর সঙ্গে। (এটি বিল্লুপুরমের পুরবর পনঙ্কাট্টুর থেকে একটি স্বতন্ত্র তীর্থ, যা আরেকটি পাডল পেট্র স্থলম।)",
+    "festivals": "মন্দিরটি তার ব্রহ্মোৎসবম পালন করে মাসি মাসে (ফেব্রুয়ারি–মার্চ), অন্নাভিষেকম আইপ্পসিতে (অক্টোবর–নভেম্বর) এবং আরুদ্রা দর্শন মার্গঝিতে (ডিসেম্বর–জানুয়ারি), এছাড়া মহাশিবরাত্রি ও প্রদোষ পূজা। তোন্ডাই দেশের তীর্থযাত্রীরা তাঁদের গন্তব্যের মধ্যে তিরুপ্পনঙ্গাড়ুকে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুপ্পনঙ্গাড়ুতে তীর্থযাত্রী তালবনের প্রভুর কাছে আসেন। পনঙ্কাট্টীশ্বরর ও কিরুবানায়কীর সামনে, অগস্ত্যের লিঙ্গ থেকে শুরু করে, দর্শনার্থী তোন্ডাই দেশের এক তেবারম মন্দিরের নিরুদ্বিগ্ন কৃপা খুঁজে পান, সেই তালগাছগুলির মাঝে যা স্থানটিকে এর নাম দেয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruppanangadu lies about 16 km from Kanchipuram, near Cheyyar, in Tiruvannamalai district. Kanchipuram and Cheyyar are the nearest towns, with buses and taxis to the village; Kanchipuram is the nearest rail head."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত ও আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "সাধারণত বাইরের করিডোরে ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুপ্পনঙ্গাড়ু কাঞ্চিপুরম থেকে প্রায় ১৬ কিমি দূরে, চেয়ারের কাছে, তিরুবণ্ণামলৈ জেলায় অবস্থিত। কাঞ্চিপুরম ও চেয়ার নিকটতম শহর, গ্রামে বাস ও ট্যাক্সি চলে; কাঞ্চিপুরম নিকটতম রেলস্টেশন।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/panankatteeswarar-tiruppanangadu.mp3",
+    "durationSec": 165
   }
 }
