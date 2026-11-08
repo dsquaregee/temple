@@ -1,31 +1,42 @@
 {
   "id": "varadaraja-perumal-kanchipuram",
   "locale": "bn",
+  "name": "বরদরাজ পেরুমাল মন্দির, কাঞ্চীপুরম",
   "nativeName": "வரதராஜ பெருமாள் கோயில், காஞ்சிபுரம்",
+  "deity": "বরদরাজ রূপে বিষ্ণু, বরপ্রদায়ী রাজা, হস্তগিরি পাহাড়ে দণ্ডায়মান",
+  "tradition": "বৈষ্ণবধর্ম (শ্রী বৈষ্ণব)",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চীপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.8195,
     "lng": 79.7284
   },
+  "period": "পল্লব ও চোল উৎস; বিশাল মণ্ডপগুলি বিজয়নগরের অধীনে বিস্তারিত",
   "century": 14,
+  "dynasty": "চোল উৎস, বিজয়নগর বিস্তার",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "কাঞ্চীপুরমের বিষ্ণু অঞ্চলে বরদরাজ পেরুমাল হস্তগিরি ছোট পাহাড় থেকে বরপ্রদায়ী প্রভু রূপে অধিষ্ঠান করেন—দক্ষিণের বিষ্ণুর অগ্রগণ্য আবাসগুলির একটি, তার বিজয়নগর যুগের শত-স্তম্ভের মণ্ডপ ও সেই অঞ্জিরকাঠের মূর্তির জন্য প্রসিদ্ধ, যা চল্লিশ বছরে একবার মন্দির পুষ্করিণী থেকে উঠে আসে।",
   "sections": {
-    "history": "The Varadaraja Perumal temple is the great Vishnu shrine of Kanchipuram, standing in the eastern part of the city long known as Vishnu Kanchi. It is counted among the 108 Divya Desams sung by the Alvar poet-saints, and tradition ranks it with Srirangam and Tirumala among the holiest Vaishnava shrines of the south. Its origins reach into the Pallava age, and it grew under Chola patronage before the Vijayanagara emperors raised its most celebrated structures in the fourteenth to sixteenth centuries. The temple is bound to the memory of Ramanuja, the eleventh-century teacher of Vishishtadvaita, who lived and worshipped in Kanchipuram, and it remains one of the living centres of Sri Vaishnava devotion.",
-    "architecture": "The temple is built on and around Hastagiri, the small 'elephant hill', with the sanctum of Varadaraja raised upon it and reached by a flight of steps. The vast walled complex is entered through towering gopurams and encloses the temple tank, the Ananta Saras. Its supreme artistic treasure is the hundred-pillared marriage hall of the Vijayanagara period, whose piers are carved with rearing horses and warriors and chained stone rings cut from single blocks — among the finest sculpture of that age in the Tamil country. On the ceiling near the sanctum are the famous gold and silver lizards that pilgrims reach up to touch. Everything is worked in the mature Dravidian manner of pillared halls, sculptured mandapas and elemental stone.",
-    "legends": "The temple's founding legend tells that Brahma performed a great horse sacrifice, the Ashwamedha, on this spot to bring Vishnu before him, and that the lord appeared as Varadaraja, the giver of boons, rising from the sacrificial fire on the hill of Hastagiri. The original image of the deity was carved from the wood of the sacred fig, the athi tree, and is called Athi Varadar. For its protection this fig-wood form is kept submerged in the temple tank and is brought out for worship only once in forty years, an event that draws immense crowds; the stone Varadaraja receives the daily worship in the meantime. The name Varada means simply 'the one who grants' — the god who answers the devotee's every prayer.",
-    "festivals": "The temple's calendar turns on the Brahmotsavam in the Tamil month of Vaikasi, when Varadaraja is carried in procession on a succession of great vehicles, including the garuda vahana that draws the largest gathering. Vaikunta Ekadasi in the cool season, the float festival on the Ananta Saras, and the observances of the Sri Vaishnava tradition fill the year. Rarest of all is the once-in-forty-years descent, when the Athi Varadar is lifted from the tank and displayed for weeks and the whole city turns out to see the fig-wood lord.",
-    "experience": "A visit to Varadaraja completes the pilgrim's Kanchipuram, joining the great Shiva and Goddess temples of the city with its foremost abode of Vishnu. The climb to the hilltop sanctum, the shaded immensity of the hundred-pillared hall and the search for the little lizards on the ceiling make the temple a place to linger. Kanchipuram, famed also for its silk, lies an easy journey inland from Chennai and pairs naturally with the coastal Pallava monuments of Mahabalipuram."
+    "history": "বরদরাজ পেরুমাল মন্দির কাঞ্চীপুরমের মহান বিষ্ণু তীর্থ, শহরের পূর্বাংশে দাঁড়িয়ে যা দীর্ঘকাল বিষ্ণু কাঞ্চি নামে পরিচিত। এটি আলবার কবি-সন্তদের স্তুত ১০৮টি দিব্য দেশমের অন্যতম বলে গণ্য, এবং ঐতিহ্য একে শ্রীরঙ্গম ও তিরুমালার সঙ্গে দক্ষিণের পবিত্রতম বৈষ্ণব তীর্থগুলির সারিতে স্থান দেয়। এর উৎস পল্লব যুগ পর্যন্ত পৌঁছায়, এবং এটি চোল পৃষ্ঠপোষকতায় বিস্তার লাভ করে, তারপর বিজয়নগর সম্রাটরা চতুর্দশ থেকে ষোড়শ শতকে এর সর্বাধিক খ্যাত কাঠামোগুলি নির্মাণ করেন। মন্দিরটি রামানুজের স্মৃতির সঙ্গে বাঁধা, একাদশ শতকের বিশিষ্টাদ্বৈতের আচার্য, যিনি কাঞ্চীপুরমে বাস করে পূজা করতেন, এবং এটি শ্রী বৈষ্ণব ভক্তির জীবন্ত কেন্দ্রগুলির একটি হয়ে রয়েছে।",
+    "architecture": "মন্দিরটি হস্তগিরি, ছোট 'হস্তিপর্বত', এর উপরে ও চারপাশে নির্মিত, বরদরাজের গর্ভগৃহ এর উপরে উত্থিত এবং সিঁড়ির পথে পৌঁছানো যায়। বিশাল প্রাচীরবেষ্টিত প্রাঙ্গণে উঁচু গোপুরমের মধ্য দিয়ে প্রবেশ করা হয় এবং এর মধ্যে রয়েছে মন্দির পুষ্করিণী, অনন্ত সরস। এর শ্রেষ্ঠ শিল্পসম্পদ বিজয়নগর যুগের শত-স্তম্ভের বিবাহ মণ্ডপ, যার স্তম্ভে খোদিত আছে পিছনপায়ে দণ্ডায়মান ঘোড়া ও যোদ্ধা এবং একক প্রস্তরখণ্ড থেকে কাটা শৃঙ্খলিত পাথরের বলয়—তামিল দেশে সেই যুগের সূক্ষ্মতম ভাস্কর্যের অন্যতম। গর্ভগৃহের কাছে ছাদে রয়েছে বিখ্যাত সোনা ও রূপার টিকটিকি, যা তীর্থযাত্রীরা হাত বাড়িয়ে স্পর্শ করেন। সবকিছুই স্তম্ভযুক্ত মণ্ডপ, ভাস্কর্যখচিত মণ্ডপ ও মৌলিক পাথরের পরিণত দ্রাবিড় রীতিতে গড়া।",
+    "legends": "মন্দিরের প্রতিষ্ঠা-কাহিনি বলে যে ব্রহ্মা বিষ্ণুকে তাঁর সামনে আনতে এই স্থানে এক মহান অশ্বমেধ যজ্ঞ করেছিলেন, এবং প্রভু হস্তগিরি পাহাড়ে যজ্ঞের অগ্নি থেকে উত্থিত হয়ে বরদরাজ, বরদাতা রূপে আবির্ভূত হন। দেবতার মূল মূর্তি পবিত্র অঞ্জির, অত্তি বৃক্ষের কাঠ থেকে খোদিত, এবং একে অত্তি বরদর বলা হয়। এর রক্ষার জন্য এই অঞ্জিরকাঠের মূর্তি মন্দির পুষ্করিণীতে নিমজ্জিত রাখা হয় এবং চল্লিশ বছরে একবার মাত্র পূজার জন্য বাইরে আনা হয়, এমন এক ঘটনা যা বিপুল জনসমাগম টানে; এর মধ্যবর্তী সময়ে পাথরের বরদরাজ নিত্য পূজা পান। বরদ নামের অর্থ সহজভাবে 'যিনি প্রদান করেন'—সেই দেবতা যিনি ভক্তের প্রতিটি প্রার্থনার উত্তর দেন।",
+    "festivals": "মন্দিরের পঞ্জিকা আবর্তিত হয় তামিল বৈকাসি মাসের ব্রহ্মোৎসবমকে ঘিরে, যখন বরদরাজকে পরপর একাধিক মহান বাহনে শোভাযাত্রায় বহন করা হয়, যার মধ্যে রয়েছে গরুড় বাহন যা বৃহত্তম জনসমাগম টানে। শীতল ঋতুর বৈকুণ্ঠ একাদশী, অনন্ত সরসের ভেলা উৎসব, এবং শ্রী বৈষ্ণব ঐতিহ্যের অনুষ্ঠানগুলি বছরকে পূর্ণ করে। সবচেয়ে বিরল হল চল্লিশ বছরে একবারের অবতরণ, যখন অত্তি বরদরকে পুষ্করিণী থেকে তুলে কয়েক সপ্তাহ ধরে প্রদর্শন করা হয় এবং সমগ্র শহর অঞ্জিরকাঠের প্রভুকে দেখতে বেরিয়ে আসে।",
+    "experience": "বরদরাজে এক ভ্রমণ তীর্থযাত্রীর কাঞ্চীপুরমকে সম্পূর্ণ করে, শহরের মহান শিব ও দেবী মন্দিরগুলিকে এর অগ্রগণ্য বিষ্ণু আবাসের সঙ্গে যুক্ত করে। পাহাড়চূড়ার গর্ভগৃহে আরোহণ, শত-স্তম্ভের মণ্ডপের ছায়াঘন বিশালতা এবং ছাদে ছোট টিকটিকিগুলির খোঁজ মন্দিরটিকে বিলম্ব করার মতো এক স্থান করে তোলে। কাঞ্চীপুরম, যা রেশমের জন্যও প্রসিদ্ধ, চেন্নাই থেকে সহজ অভ্যন্তরীণ যাত্রাপথে অবস্থিত এবং মহাবলিপুরমের উপকূলীয় পল্লব স্মারকগুলির সঙ্গে স্বাভাবিকভাবে মিলে যায়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. As a living temple, respectful conduct is asked of all visitors.",
-    "photography": "Photography is restricted, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kanchipuram is in Tamil Nadu, about 75 km from Chennai and well connected by road and rail; the temple is in the eastern Vishnu Kanchi quarter and easily reached by local transport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বে এবং দীর্ঘ মধ্যাহ্ন বিরতি সহ খোলা থাকে; উৎসবের দিনে সবচেয়ে বেশি ভিড় হয়। ভ্রমণের আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। একটি জীবন্ত মন্দির হিসেবে সব দর্শনার্থীর কাছে শ্রদ্ধাপূর্ণ আচরণ প্রত্যাশিত।",
+    "photography": "ছবি তোলায় নিষেধাজ্ঞা আছে, বিশেষত গর্ভগৃহে ও তার চারপাশে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "কাঞ্চীপুরম তামিলনাড়ুতে, চেন্নাই থেকে প্রায় ৭৫ কিমি দূরে এবং সড়ক ও রেলপথে সুসংযুক্ত; মন্দিরটি পূর্বের বিষ্ণু কাঞ্চি অঞ্চলে অবস্থিত এবং স্থানীয় পরিবহনে সহজে পৌঁছানো যায়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/varadaraja-perumal-kanchipuram.mp3",
+    "durationSec": 271
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.jpg",
@@ -37,5 +48,11 @@
       "webp": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.webp"
     },
     "og": "https://media.dsquaregee.com/og/varadaraja-perumal-kanchipuram.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/varadaraja-perumal-kanchipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.jpg",
+    "durationSec": 204,
+    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Women's Dairy 1989 / Wikimedia Commons (CC BY-SA 4.0) · Vetrivelrameshbabu / Wikimedia Commons (CC BY-SA 4.0) · Lodo from Moscow, Russia / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

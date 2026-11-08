@@ -1,29 +1,40 @@
 {
   "id": "vilvavananathar-tiruvaikavur",
   "locale": "bn",
+  "name": "বিল্ববননাথর মন্দির, তিরুবৈকাবুর",
   "nativeName": "வில்வவனநாதர் கோயில்",
+  "deity": "বিল্ববননাথর (বিল্ববনেশ্বরর) রূপে শিব, দেবী বলৈক্কৈ নায়কী (সর্বজন রক্ষকী)-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tiruvaikavur",
-    "state": "Tamil Nadu",
+    "city": "তিরুবৈকাবুর",
+    "state": "তামিলনাড়ু",
     "lat": 10.9942,
     "lng": 79.2864
   },
+  "period": "কাবেরীর উত্তর তীরে চোল নাড়ুর প্রাচীন শৈব তীর্থ, তেবারমে স্তুত (সপ্তম শতক); চোল-যুগের মন্দির, পরবর্তী সংযোজন সহ",
   "century": 7,
+  "dynasty": "চোল যুগ (ঐতিহ্য অনুসারে চোলরা)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবৈকাবুরের বিল্ববননাথর মন্দির, বিল্ব বনের প্রভু, কুম্বকোণমের কাছে একটি তেবারম তীর্থ, যা ঐতিহ্যে সেই স্থান বলে সম্মানিত যেখানে মহাশিবরাত্রির আচার শুরু হয়েছিল, যখন এক শিকারির বিল্ব গাছে কাটানো রাত তাকে যমের হাত থেকে মুক্তি দিয়েছিল।",
   "sections": {
-    "history": "Tiruvaikavur, also spoken of as Vaigavur, lies in the Thanjavur district a short way north of Kumbakonam, in the old Chola country on the northern bank of the Kaveri. The temple is praised in the Tevaram hymns of the Nayanar saints, which makes it a Paadal Petra Sthalam, and tradition places the building in the Chola age. The Lord is called Vilvavananathar, master of the forest of the vilva, the tree whose trifoliate leaves are most dear to Shiva; a local account holds that Shiva himself arose here as a vilva tree in a great deluge. Above all, the village remembers itself as the place where the observance of Maha Shivaratri was first kept.",
-    "architecture": "A rajagopuram rises over the entrance of this Dravidian temple, and the Shiva linga of Vilvavananathar is worshipped in the sanctum, with the goddess Valaikkai Nayaki honoured as his consort. The temple tank, the Yama Theertham, lies directly across from the main gateway, and tradition holds that Yama himself dug it. A curious feature recalls the temple's legend: the Nandi, the sacred bull, is said to face the entrance gate instead of the sanctum, in the belief that it keeps Yama from coming in. Dakshinamurthy, the Lord as teacher, is described here in an unusual standing posture with a staff.",
-    "legends": "A hunter once chased a deer into the hermitage of a sage who was worshipping a Shiva linga. The sage refused to hand over the deer, and when the hunter would not give up, he took the form of a tiger to frighten him; in another telling it was Shiva himself who became the tiger. The hunter fled up a nearby tree, which was a vilva, and, to keep himself awake through the night with the tiger waiting below, he plucked its leaves and let them fall. Beneath the tree stood a linga, and the leaves fell upon it. It was the night of Maha Shivaratri, so the hunter had worshipped Shiva all night without knowing it. When Yama came for him the next day, Nandi and Shiva's guardians, with Dakshinamurthy, drove Yama out of the temple. From this the temple is remembered as the origin of Shivaratri, and the tank is called after Yama.",
-    "festivals": "Maha Shivaratri, kept in the Tamil month of Masi (February to March), is by far the greatest festival of Tiruvaikavur, and is reported to draw vast crowds of devotees, some say as many as two lakh. The celebration runs over two days, closing with the Theerthavari on the new moon day, and a night procession on a palm-leaf cart is part of it. Masi Magam and Panguni Uthiram are also observed, and Vaikasi Visakam, Adipooram and Navaratri are named among the temple's notable occasions. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Come to Tiruvaikavur with the hunter's story in mind. Enter beneath the gateway tower, notice that the Nandi looks outward toward the entrance, and then come to the sanctum of the Lord of the Vilva Forest and to the goddess Valaikkai Nayaki. The Yama Theertham across from the gate is a quiet place to pause, and the temple is remembered as a place of protection from Yama's fear. On ordinary days the village is calm, among the fields near Kumbakonam; on Shivaratri night it fills with devotees keeping vigil, which is the best time to feel what the temple's legend has meant to the countryside for centuries."
+    "history": "তিরুবৈকাবুর, যাকে বৈগাবুর নামেও বলা হয়, তাঞ্জাভুর জেলায় কুম্বকোণমের কিছুটা উত্তরে, কাবেরীর উত্তর তীরে পুরনো চোল দেশে অবস্থিত। মন্দিরটি নায়নার সাধুদের তেবারম স্তোত্রে প্রশংসিত, যা একে একটি পাডল পেট্র স্থলম করে তোলে, এবং ঐতিহ্য নির্মাণটিকে চোল যুগে স্থাপন করে। প্রভুকে বলা হয় বিল্ববননাথর, বিল্ব বনের অধিপতি—সেই গাছ যার ত্রিপত্র পাতা শিবের সবচেয়ে প্রিয়; একটি স্থানীয় কাহিনি বলে যে এক মহাপ্লাবনে শিব স্বয়ং এখানে বিল্ব গাছ রূপে উদিত হয়েছিলেন। সর্বোপরি, গ্রামটি নিজেকে সেই স্থান বলে স্মরণ করে যেখানে মহাশিবরাত্রির আচার প্রথম পালিত হয়েছিল।",
+    "architecture": "এই দ্রাবিড় মন্দিরের প্রবেশপথে একটি রাজগোপুরম উঠেছে, এবং গর্ভগৃহে বিল্ববননাথরের শিবলিঙ্গ পূজিত হয়, দেবী বলৈক্কৈ নায়কী তাঁর সহধর্মিণী রূপে সম্মানিত। মন্দির পুষ্করিণী, যম তীর্থম, প্রধান তোরণের ঠিক বিপরীতে অবস্থিত, এবং ঐতিহ্য বলে যে যম স্বয়ং এটি খনন করেছিলেন। মন্দিরের কিংবদন্তিকে স্মরণ করিয়ে দেয় এক কৌতূহলজনক বৈশিষ্ট্য: নন্দী, পবিত্র বৃষ, গর্ভগৃহের বদলে প্রবেশ-তোরণের দিকে মুখ করে আছে বলে কথিত, এই বিশ্বাসে যে তা যমকে ভেতরে আসতে বাধা দেয়। দক্ষিণামূর্তি, শিক্ষক রূপে প্রভু, এখানে এক অস্বাভাবিক দণ্ডধারী দণ্ডায়মান ভঙ্গিতে বর্ণিত।",
+    "legends": "এক শিকারি একবার একটি হরিণকে তাড়া করে এক ঋষির আশ্রমে ঢোকে, যিনি একটি শিবলিঙ্গের পূজা করছিলেন। ঋষি হরিণটি দিতে অস্বীকার করেন, আর শিকারি যখন ছাড়ল না, তখন তিনি তাকে ভয় দেখাতে বাঘের রূপ নিলেন; অন্য এক কথনে শিব স্বয়ং বাঘ হয়েছিলেন। শিকারি কাছের একটি গাছে উঠে পালায়, যা ছিল একটি বিল্ব গাছ, এবং নিচে বাঘের অপেক্ষার মধ্যে সারারাত জেগে থাকতে সে পাতা ছিঁড়ে ফেলতে লাগল। গাছের নিচে ছিল একটি লিঙ্গ, আর পাতাগুলি তার উপর পড়ল। সেটি ছিল মহাশিবরাত্রির রাত, তাই না জেনেই শিকারি সারারাত শিবের পূজা করেছিল। পরদিন যখন যম তার জন্য এল, নন্দী ও শিবের রক্ষীরা, দক্ষিণামূর্তির সঙ্গে, যমকে মন্দির থেকে তাড়িয়ে দিল। এর থেকেই মন্দিরটি শিবরাত্রির উৎপত্তিস্থল বলে স্মরণ করা হয়, এবং পুষ্করিণীটি যমের নামে অভিহিত।",
+    "festivals": "তামিল মাসি মাসে (ফেব্রুয়ারি থেকে মার্চ) পালিত মহাশিবরাত্রি তিরুবৈকাবুরের সর্ববৃহৎ উৎসব, এবং বলা হয় এটি বিপুল ভক্তসমাগম টানে, কেউ কেউ বলেন দুই লক্ষ পর্যন্ত। উদযাপন দুই দিন ধরে চলে, অমাবস্যার দিনে তীর্থবারির মধ্য দিয়ে শেষ হয়, এবং একটি তালপাতার রথে রাত্রিকালীন শোভাযাত্রা এর অংশ। মাসি মাগম ও পাঙ্গুনি উত্তিরমও পালিত হয়, আর বৈকাসি বিশাখম, আদিপূরম ও নবরাত্রি মন্দিরের উল্লেখযোগ্য অনুষ্ঠানের মধ্যে গণ্য। তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "শিকারির কাহিনি মনে রেখে তিরুবৈকাবুরে আসুন। তোরণ-শীর্ষের নিচে প্রবেশ করুন, লক্ষ্য করুন নন্দী বাইরে প্রবেশপথের দিকে তাকিয়ে আছে, তারপর বিল্ব বনের প্রভুর গর্ভগৃহে ও দেবী বলৈক্কৈ নায়কীর কাছে আসুন। তোরণের বিপরীতে যম তীর্থম থমকে দাঁড়ানোর এক নিরিবিলি স্থান, এবং মন্দিরটি যমের ভয় থেকে সুরক্ষার স্থান বলে স্মরণ করা হয়। সাধারণ দিনে গ্রামটি কুম্বকোণমের কাছে মাঠের মাঝে শান্ত; শিবরাত্রির রাতে এটি জাগরণরত ভক্তে ভরে ওঠে, যা মন্দিরের কিংবদন্তি শতাব্দীর পর শতাব্দী ধরে গ্রামাঞ্চলের কাছে কী অর্থ বহন করেছে তা অনুভব করার শ্রেষ্ঠ সময়।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days such as Maha Shivaratri.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tiruvaikavur lies in the Kumbakonam area of Thanjavur district, about 17 km by road from Kumbakonam, which is the nearest railway station; Swamimalai is about 7 km away and Thanjavur about 45 km. Buses and local auto-rickshaws serve the village, and a hired car from Kumbakonam is the easiest way to reach it. Tiruchirappalli is the nearest major airport. The nearby Vijayanathar temple at Tiruvijayamangai can be visited on the same day."
+    "timings": "সাধারণত সকালে ও আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে, মধ্যাহ্নে বিরতি সহ; বিশেষত মহাশিবরাত্রির মতো উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা রেখে। প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরবিধি অনুসারে সাধারণত বাইরের অংশ ও প্রাঙ্গণে ছবি তোলা অনুমোদিত কিন্তু ভেতরের গর্ভগৃহে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবৈকাবুর তাঞ্জাভুর জেলার কুম্বকোণম অঞ্চলে, কুম্বকোণম থেকে সড়কপথে প্রায় ১৭ কিমি দূরে, যা নিকটতম রেলস্টেশন; স্বামিমালৈ প্রায় ৭ কিমি দূরে এবং তাঞ্জাভুর প্রায় ৪৫ কিমি। বাস ও স্থানীয় অটোরিকশা গ্রামে চলে, আর কুম্বকোণম থেকে ভাড়া করা গাড়িই পৌঁছানোর সহজতম উপায়। তিরুচিরাপল্লি নিকটতম বড় বিমানবন্দর। কাছের তিরুবিজয়মঙ্গৈ-এর বিজয়নাথর মন্দির একই দিনে দেখা যায়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vilvavananathar-tiruvaikavur.mp3",
+    "durationSec": 271
   }
 }

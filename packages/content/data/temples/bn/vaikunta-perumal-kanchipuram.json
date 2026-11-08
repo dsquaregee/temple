@@ -1,31 +1,42 @@
 {
   "id": "vaikunta-perumal-kanchipuram",
   "locale": "bn",
+  "name": "বৈকুণ্ঠ পেরুমাল মন্দির (তিরুপ্পরমেশ্বর বিণ্ণগরম), কাঞ্চীপুরম",
   "nativeName": "வைகுண்ட பெருமாள் கோயில் (திருப்பரமேச்சுர விண்ணகரம்), காஞ்சிபுரம்",
+  "deity": "বৈকুণ্ঠ পেরুমাল রূপে বিষ্ণু, দেবী বৈকুণ্ঠবল্লী তায়ারের সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চীপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.8369,
     "lng": 79.71
   },
+  "period": "থোণ্ডৈ নাড়ুর একটি দিব্য দেশম, তিরুমঙ্গৈ আলবার কর্তৃক স্তুত এবং পল্লব যুগে নির্মিত",
   "century": 8,
+  "dynasty": "পল্লব (দ্বিতীয় নন্দিবর্মন পল্লবমল্ল)",
+  "style": "পল্লব দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "কাঞ্চীপুরমে বৈকুণ্ঠ পেরুমালের পল্লব শিল্পকীর্তি তিন তলা গর্ভগৃহে উঠে গেছে—উপবিষ্ট, শয়ান ও দণ্ডায়মান বিষ্ণু—থোণ্ডৈ নাড়ুর একটি দিব্য দেশম, তিরুমঙ্গৈ আলবার কর্তৃক স্তুত।",
   "sections": {
-    "history": "Known to the Alvars as Thiruparameswara Vinnagaram, this is one of the 108 Divya Desams in Thondai Nadu. It was built under the Pallava king Nandivarman II Pallavamalla, who reigned in the eighth century, and art historians place its construction around 770 to 775 CE; it is built of sandstone. Thirumangai Alvar sang it in ten verses of the Periya Thirumozhi, most likely in the same reign. Several of the verses carry the refrain of the Vinnagaram to which the Pallava king bowed in homage, and one recalls that the king, having defeated a Pandya, bowed to the Lord. The last verse promises that those who learn the ten will rule as kings.",
-    "architecture": "The glory of the temple is its vimana, which holds three sanctums stacked one above another: Vishnu seated at the ground level, reclining as Sheshashayee on the first floor, and standing at the top, a sanctum said to be opened only on Ekadashi. The vimana is larger than that of the earlier Kailasanatha temple in the same town. A raised verandah around it carries sculpted panels that tell the story of several Pallava reigns, making the walls a kind of stone chronicle.",
-    "legends": "The memory most closely tied to this shrine is historical as much as sacred. Thirumangai Alvar's hymn recalls a Pallava king who defeated a Pandya and then bowed before the Lord of Paramesvara Vinnagaram. Its refrain keeps that homage alive: the Vinnagaram to which the Pallava king bowed. The verses end with a blessing for those who learn them, and so the shrine joins royal devotion to the long Vaishnava tradition of singing the Lord's abodes.",
-    "festivals": "Vaikunta Ekadashi is the most significant day here, and it carries special meaning because the standing sanctum at the top of the vimana is said to be opened on Ekadashi. The Divya Prabandham verses, including Thirumangai Alvar's decad on this Vinnagaram, are recited on festival days. Confirm dates locally.",
-    "experience": "Walk slowly around the verandah and read the sculpted panels of the Pallava reigns before entering the sanctum. Look up at the three-storey vimana and imagine the three postures of Vishnu, one above another. Visitors who also see the Kailasanatha temple in the same town will notice that this vimana rises higher than that earlier Pallava work."
+    "history": "আলবারদের কাছে তিরুপ্পরমেশ্বর বিণ্ণগরম নামে পরিচিত এই তীর্থ থোণ্ডৈ নাড়ুর ১০৮টি দিব্য দেশমের অন্যতম। এটি পল্লব রাজা দ্বিতীয় নন্দিবর্মন পল্লবমল্লের অধীনে নির্মিত, যিনি অষ্টম শতকে রাজত্ব করেন, এবং শিল্প-ইতিহাসবিদরা এর নির্মাণকাল প্রায় ৭৭০ থেকে ৭৭৫ খ্রিস্টাব্দে স্থাপন করেন; এটি বেলেপাথরে নির্মিত। তিরুমঙ্গৈ আলবার পেরিয় তিরুমোড়ির দশটি পদে এটি স্তুত করেছেন, সম্ভবত একই রাজত্বকালে। কয়েকটি পদে সেই বিণ্ণগরমের ধুয়া রয়েছে যার কাছে পল্লব রাজা শ্রদ্ধায় নত হয়েছিলেন, এবং একটি পদ স্মরণ করে যে রাজা এক পাণ্ড্যকে পরাজিত করে প্রভুর কাছে নত হয়েছিলেন। শেষ পদটি প্রতিশ্রুতি দেয় যে যাঁরা এই দশটি পদ শিখবেন তাঁরা রাজার মতো রাজত্ব করবেন।",
+    "architecture": "মন্দিরের গৌরব এর বিমান, যা একটির উপর একটি সাজানো তিনটি গর্ভগৃহ ধারণ করে: ভূমিতলে উপবিষ্ট বিষ্ণু, প্রথম তলায় শেষশায়ী রূপে শয়ান, এবং সবার উপরে দণ্ডায়মান—এমন এক গর্ভগৃহ যা কেবল একাদশীতেই খোলা হয় বলে কথিত। এই বিমান একই শহরের পূর্ববর্তী কৈলাসনাথ মন্দিরের বিমানের চেয়ে বৃহত্তর। এর চারপাশে এক উঁচু বারান্দা বহন করে ভাস্কর্যখচিত ফলক, যা কয়েকটি পল্লব রাজত্বের কাহিনি বলে, এবং দেয়ালগুলিকে এক ধরনের প্রস্তরলিপিবদ্ধ ইতিহাসে পরিণত করে।",
+    "legends": "এই তীর্থের সঙ্গে সবচেয়ে ঘনিষ্ঠভাবে যুক্ত স্মৃতি পবিত্র হওয়ার মতোই ঐতিহাসিক। তিরুমঙ্গৈ আলবারের স্তোত্র এক পল্লব রাজার কথা স্মরণ করে, যিনি এক পাণ্ড্যকে পরাজিত করে পরমেশ্বর বিণ্ণগরমের প্রভুর সামনে নত হয়েছিলেন। এর ধুয়া সেই শ্রদ্ধাকে জীবন্ত রাখে: সেই বিণ্ণগরম যার কাছে পল্লব রাজা নত হয়েছিলেন। পদগুলি সেই ভক্তদের জন্য আশীর্বাদে শেষ হয় যাঁরা এগুলি শেখেন, এবং এভাবে এই তীর্থ রাজকীয় ভক্তিকে প্রভুর আবাস স্তুতির দীর্ঘ বৈষ্ণব ঐতিহ্যের সঙ্গে যুক্ত করে।",
+    "festivals": "বৈকুণ্ঠ একাদশী এখানে সবচেয়ে তাৎপর্যপূর্ণ দিন, এবং এর বিশেষ অর্থ আছে কারণ বিমানের শীর্ষে দণ্ডায়মান গর্ভগৃহ একাদশীতে খোলা হয় বলে কথিত। উৎসবের দিনে দিব্য প্রবন্ধমের পদ, তিরুমঙ্গৈ আলবারের এই বিণ্ণগরম বিষয়ক দশ পদ সহ, পাঠ করা হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "গর্ভগৃহে প্রবেশের আগে বারান্দা ধরে ধীরে ধীরে ঘুরে পল্লব রাজত্বের ভাস্কর্যখচিত ফলকগুলি পড়ুন। তিন তলা বিমানের দিকে উপরে তাকিয়ে বিষ্ণুর তিনটি ভঙ্গি, একটির উপর একটি, কল্পনা করুন। যাঁরা একই শহরের কৈলাসনাথ মন্দিরও দেখেন তাঁরা লক্ষ্য করবেন যে এই বিমান সেই পূর্ববর্তী পল্লব কীর্তির চেয়ে উঁচুতে উঠেছে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple stands in Kanchipuram town, reached by road from Chennai, about 70 km to the north-east. Kanchipuram is the nearest railhead and Chennai the nearest major airport; auto-rickshaws and local buses link the temples of the town."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বে এবং মধ্যাহ্নে বন্ধ রেখে খোলা থাকে; বৈকুণ্ঠ একাদশী ও উৎসবের দিনে সবচেয়ে বেশি ভিড় হয়। ভ্রমণের আগে বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহে ও তার চারপাশে ছবি তোলায় নিষেধাজ্ঞা আছে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "মন্দিরটি কাঞ্চীপুরম শহরে অবস্থিত, চেন্নাই থেকে উত্তর-পূর্বে প্রায় ৭০ কিমি দূরে সড়কপথে পৌঁছানো যায়। কাঞ্চীপুরম নিকটতম রেলস্টেশন ও চেন্নাই নিকটতম বড় বিমানবন্দর; অটোরিকশা ও স্থানীয় বাস শহরের মন্দিরগুলিকে যুক্ত করে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vaikunta-perumal-kanchipuram.mp3",
+    "durationSec": 191
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
@@ -37,5 +48,11 @@
       "webp": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.webp"
     },
     "og": "https://media.dsquaregee.com/og/vaikunta-perumal-kanchipuram.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/vaikunta-perumal-kanchipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
+    "durationSec": 148,
+    "credit": "Nandhinikandhasamy / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
