@@ -1,29 +1,40 @@
 {
   "id": "pushpavananathar-poovanur",
   "locale": "bn",
+  "name": "পুষ্পবননাথর মন্দির, পূবনুর",
   "nativeName": "பூவனூர் புஷ்பவனநாதர் கோயில்",
+  "deity": "পুষ্পবননাথর (চতুরঙ্গ বল্লভ নাথর) রূপে শিব, দেবী কর্পগবল্লির সঙ্গে",
+  "tradition": "শৈব—একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Poovanur, near Needamangalam",
-    "state": "Tamil Nadu",
+    "city": "পূবনুর, নীডামঙ্গলমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.8,
     "lng": 79.44
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারুর ব-দ্বীপে কুম্বকোণম ও মান্নারগুড়ির মাঝে অবস্থিত পূবনুর শিবকে পুষ্পবননাথর—চতুরঙ্গ বল্লভ নাথর—রূপে দেবী কর্পগবল্লির সঙ্গে সম্মান জানায়। অপ্পর ও সম্বন্দরের স্তুত একটি পাডল পেট্র স্থলম, এটি 'পুষ্পবনের' দেবালয়, যেখানে প্রভু ও উমা স্থিত হওয়ার জন্য একটি ফুলেভরা স্থান বেছে নিয়েছিলেন বলে কথিত।",
   "sections": {
-    "history": "Poovanur lies between Kumbakonam and Mannargudi, near Needamangalam, on the northern bank of the Kaveri country, in Tiruvarur district. It is a Paadal Petra Sthalam, praised in the Tevaram by Tirunavukkarasar (Appar) and Sambandar. The stone temple is of the Chola period and later, keeping the form of the Shiva shrines of the Tiruvarur delta.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Pushpavananathar — also called Chaturanga Vallabha Nathar — in the sanctum, with the goddess Karpagavalli (also named Rajarajeswari) in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram are typical of the Shiva temples of the lower Kaveri near Needamangalam.",
-    "legends": "The name Pushpavananathar, 'the lord of the flower-forest,' is bound to the legend that Shiva and Uma chose this flowering grove as the spot to settle, so that the place became Poovanur, the 'town of the flower-forest.' The lord is also praised as Chaturanga Vallabha Nathar. The goddess Karpagavalli stands beside him. As with many delta shrines, the fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims of the Kumbakonam–Mannargudi stretch include Poovanur among their stops.",
-    "experience": "At Poovanur the pilgrim comes to the lord of the flower-forest. Before Pushpavananathar and Karpagavalli, in the green delta between Kumbakonam and Mannargudi, the visitor finds the unhurried grace of a Tevaram temple, and the memory of the flowering grove the lord and Uma chose."
+    "history": "পূবনুর কুম্বকোণম ও মান্নারগুড়ির মাঝে, নীডামঙ্গলমের কাছে, কাবেরী দেশের উত্তর তীরে, তিরুবারুর জেলায় অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তিরুনাবুক্করসর (অপ্পর) ও সম্বন্দরের তেবারমে প্রশংসিত। পাথরের মন্দিরটি চোল যুগের ও পরবর্তীকালের, তিরুবারুর ব-দ্বীপের শিব দেবালয়গুলির রূপ ধরে রেখেছে।",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপীয় মন্দির, দেবালয়টি গর্ভগৃহে পুষ্পবননাথরকে—যাঁকে চতুরঙ্গ বল্লভ নাথরও বলা হয়—প্রতিষ্ঠিত করে, দেবী কর্পগবল্লি (রাজরাজেশ্বরী নামেও অভিহিত) তাঁর নিজস্ব দেবালয়ে, এবং প্রাকারের চারপাশে একটি নন্দী ও পরিবার দেবতারা। প্রাচীরঘেরা প্রাঙ্গণ ও বিনম্র গোপুরম নীডামঙ্গলমের কাছে নিম্ন কাবেরীর শিবমন্দিরগুলির জন্য সাধারণ বৈশিষ্ট্য।",
+    "legends": "পুষ্পবননাথর নামটি, 'পুষ্পবনের প্রভু', সেই কিংবদন্তির সঙ্গে আবদ্ধ যে শিব ও উমা এই ফুলেভরা উপবনটিকে স্থিত হওয়ার স্থান হিসেবে বেছে নিয়েছিলেন, যাতে স্থানটি পূবনুর, 'পুষ্পবনের নগর' হয়ে উঠল। প্রভু চতুরঙ্গ বল্লভ নাথর নামেও প্রশংসিত। দেবী কর্পগবল্লি তাঁর পাশে দণ্ডায়মান। বহু ব-দ্বীপীয় দেবালয়ের মতোই, পূর্ণতর স্থলপুরাণ স্থানীয় ঐতিহ্য ও তেবারম শ্লোকে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈ-এর সোমবারগুলি, প্রদোষ পূজা সহ, একটি পল্লি দেবালয়ের নিরিবিলি মাত্রায় পালন করে। কুম্বকোণম–মান্নারগুড়ি অঞ্চলের তীর্থযাত্রীরা তাঁদের বিরতির মধ্যে পূবনুরকে অন্তর্ভুক্ত করেন।",
+    "experience": "পূবনুরে তীর্থযাত্রী পুষ্পবনের প্রভুর কাছে আসেন। কুম্বকোণম ও মান্নারগুড়ির মাঝে সবুজ ব-দ্বীপে পুষ্পবননাথর ও কর্পগবল্লির সামনে, দর্শনার্থী এক তেবারম মন্দিরের ধীরস্থির কৃপা খুঁজে পান, এবং সেই ফুলেভরা উপবনের স্মৃতি যা প্রভু ও উমা বেছে নিয়েছিলেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Poovanur lies between Kumbakonam and Mannargudi, near Needamangalam, in Tiruvarur district. Needamangalam and Mannargudi are the nearest towns, with buses and taxis to the village; Tiruvarur and Kumbakonam are the nearest rail heads."
+    "timings": "সাধারণত ভোরবেলা থেকে মধ্যাহ্ন পর্যন্ত এবং আবার পড়ন্ত বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের অলিন্দে সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "পূবনুর কুম্বকোণম ও মান্নারগুড়ির মাঝে, নীডামঙ্গলমের কাছে, তিরুবারুর জেলায় অবস্থিত। নীডামঙ্গলম ও মান্নারগুড়ি নিকটতম শহর, গ্রামে বাস ও ট্যাক্সি সহ; তিরুবারুর ও কুম্বকোণম নিকটতম রেলমাথা।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/pushpavananathar-poovanur.mp3",
+    "durationSec": 159
   }
 }

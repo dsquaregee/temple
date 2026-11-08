@@ -1,29 +1,40 @@
 {
   "id": "raghunayaka-ayodhya",
   "locale": "bn",
+  "name": "রঘুনায়ক পেরুমাল মন্দির (অম্মাজি মন্দির), অযোধ্যা",
   "nativeName": "रघुनायक मंदिर (अम्माजी मंदिर), अयोध्या",
+  "deity": "রাম রূপে বিষ্ণু, রঘুনায়ক (চক্রবর্তী তিরুমগন) রূপে পূজিত, সীতা পিরাট্টির সঙ্গে — অম্মাজি মন্দিরে শ্রীবৈষ্ণব দিব্যদেশম পূজা",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Ayodhya",
-    "state": "Uttar Pradesh",
+    "city": "অযোধ্যা",
+    "state": "উত্তরপ্রদেশ",
     "lat": 26.799,
     "lng": 82.204
   },
+  "period": "বড নাড়ুর একটি দিব্যদেশম, নালায়িরা দিব্যপ্রবন্ধমে পাঁচজন আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "শ্রীবৈষ্ণব ঐতিহ্য (অম্মাজি মন্দির ১৯০৪ সালে প্রতিষ্ঠিত)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "অযোধ্যায়, রামের নগরীতে, শ্রীবৈষ্ণব ঐতিহ্য পাঁচজন আলবার কর্তৃক স্তুত রঘুনায়ক, চক্রবর্তী তিরুমগনকে সম্মান করে — একটি বড নাড়ু দিব্যদেশম, অম্মাজি মন্দিরে পূজিত।",
   "sections": {
-    "history": "Thiru Ayodhi, Ayodhya, is one of the 108 Divya Desams, the abodes of Vishnu praised by the Alvars in the Nalayira Divya Prabandham, and belongs to Vada Nadu, the northern region of the tradition. Thirteen verses sing its lord: six by Periyalvar, four by Kulasekara Alvar, and one each by Nammalvar, Thondaradippodi Alvar and Thirumangai Alvar. For South Indian pilgrims in the Sri Vaishnava tradition, worship of the Divya Desam lord is offered at the Ammaji Mandir. It was founded in 1904 by Yogi Parthasarathy Iyengar, and after his death his wife, Yogi Singammal, called Ammaji, completed it and organised its daily worship and festivals, which gave the temple the name by which it is known. The Alvars' verses, not any one building, are the oldest witness to this Divya Desam.",
-    "architecture": "The Ammaji Mandir is built in the Dravidian style, a South Indian temple in the north, and the Pushkala Vimana is named as the vimana of this Divya Desam. Its sacred water, the theertham, is the river Sarayu. The temple holds images of Rama, Sita and Ranganatha, along with a processional image linked to the Divya Desam of Darbhasayanam at Thiruppullani in Tamil Nadu. Shrines of Nammalvar, Thirumangai Alvar, Ramanuja (Udayavar) and Manavala Mamunigal stand within, gathering the Sri Vaishnava lineage under one roof.",
-    "legends": "Ayodhya is held by tradition to be the capital of Rama and the Ikshvaku kings, and the city where the Ramayana unfolds. The Alvars sang it as the home of the lord they call Raghunayaka and Chakravarthi Thirumagan, the son of the emperor Dasharatha. Periyalvar, who sang six of its thirteen verses, and Kulasekara Alvar, who sang four, loved Rama with a particular tenderness. The Sarayu, flowing by the city, is the river of its tradition, and pilgrims bathe in it with devotion.",
-    "festivals": "The principal festival is Sri Rama Navami, celebrated at the Ammaji Mandir as a utsavam over five days with worship and processions. The Sri Vaishnava calendar's festivals, among them Vaikunta Ekadashi and the days of the Alvars and acharyas, are observed as at other Divya Desams. Confirm dates locally.",
-    "experience": "A quiet corner of devotion for the Sri Vaishnava pilgrim, where Tamil verses of the Alvars are remembered beside the Sarayu in the heart of the north. Sit before the images of Rama, Sita and Ranganatha, then visit the shrines of the Alvars and acharyas. Arrive in the morning, when the city is calmer, and keep time for a walk to the river."
+    "history": "তিরু অযোধি, অযোধ্যা, নালায়িরা দিব্যপ্রবন্ধমে আলবারদের দ্বারা প্রশংসিত বিষ্ণুর ১০৮টি দিব্যদেশম—বাসস্থানের—একটি, এবং ঐতিহ্যের উত্তরাঞ্চল বড নাড়ুর অন্তর্গত। তেরোটি স্তোত্র এর প্রভুর স্তুতি গায়: পেরিয়ালবারের ছয়টি, কুলশেখর আলবারের চারটি, এবং নম্মালবার, তোণ্ডরডিপ্পোডি আলবার ও তিরুমঙ্গৈ আলবারের একটি করে। শ্রীবৈষ্ণব ঐতিহ্যের দক্ষিণ ভারতীয় তীর্থযাত্রীদের জন্য দিব্যদেশমের প্রভুর পূজা অম্মাজি মন্দিরে নিবেদিত হয়। এটি ১৯০৪ সালে যোগী পার্থসারথি আয়েঙ্গার কর্তৃক প্রতিষ্ঠিত হয়, এবং তাঁর মৃত্যুর পর তাঁর স্ত্রী, অম্মাজি নামে পরিচিত যোগী সিঙ্গম্মাল, তা সম্পূর্ণ করেন এবং এর দৈনিক পূজা ও উৎসবের ব্যবস্থা করেন, যা থেকে মন্দিরটি তার পরিচিত নাম লাভ করে। আলবারদের স্তোত্র, কোনো একটি ভবন নয়, এই দিব্যদেশমের প্রাচীনতম সাক্ষী।",
+    "architecture": "অম্মাজি মন্দির দ্রাবিড় শৈলীতে নির্মিত, উত্তরে একটি দক্ষিণ ভারতীয় মন্দির, এবং পুষ্কল বিমানকে এই দিব্যদেশমের বিমান বলে নামকরণ করা হয়েছে। এর পবিত্র জল, তীর্থম, হল সরয়ূ নদী। মন্দিরটিতে রাম, সীতা ও রঙ্গনাথের মূর্তি রয়েছে, সঙ্গে তামিলনাড়ুর তিরুপ্পুল্লানির দর্ভশয়নম দিব্যদেশমের সঙ্গে যুক্ত একটি উৎসব মূর্তি। নম্মালবার, তিরুমঙ্গৈ আলবার, রামানুজ (উদয়বার) ও মণবাল মামুনিগলের মন্দির এর মধ্যে রয়েছে, এক ছাদের নিচে শ্রীবৈষ্ণব পরম্পরাকে একত্রিত করে।",
+    "legends": "ঐতিহ্য অনুসারে অযোধ্যা রাম ও ইক্ষ্বাকু রাজাদের রাজধানী, এবং যে নগরীতে রামায়ণ উন্মোচিত হয়। আলবাররা একে সেই প্রভুর বাসস্থান বলে গেয়েছেন যাঁকে তাঁরা রঘুনায়ক ও চক্রবর্তী তিরুমগন, সম্রাট দশরথের পুত্র বলে ডাকেন। পেরিয়ালবার, যিনি এর তেরোটি স্তোত্রের ছয়টি গেয়েছিলেন, এবং কুলশেখর আলবার, যিনি চারটি গেয়েছিলেন, বিশেষ কোমলতায় রামকে ভালোবাসতেন। নগরীর পাশ দিয়ে বয়ে চলা সরয়ূ এর ঐতিহ্যের নদী, এবং তীর্থযাত্রীরা ভক্তিভরে তাতে স্নান করেন।",
+    "festivals": "প্রধান উৎসব হল শ্রীরাম নবমী, অম্মাজি মন্দিরে পাঁচ দিন ধরে পূজা ও শোভাযাত্রার সঙ্গে একটি উৎসবম রূপে উদযাপিত। শ্রীবৈষ্ণব পঞ্জিকার উৎসবসমূহ, যার মধ্যে বৈকুণ্ঠ একাদশী এবং আলবার ও আচার্যদের দিন রয়েছে, অন্যান্য দিব্যদেশমের মতোই পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "শ্রীবৈষ্ণব তীর্থযাত্রীর জন্য ভক্তির এক নিরিবিলি কোণ, যেখানে উত্তরের হৃদয়ে সরয়ূর ধারে আলবারদের তামিল স্তোত্র স্মরণ করা হয়। রাম, সীতা ও রঙ্গনাথের মূর্তির সামনে বসুন, তারপর আলবার ও আচার্যদের মন্দির দর্শন করুন। সকালে পৌঁছান, যখন নগরী শান্ত থাকে, এবং নদীর ধারে হাঁটার জন্য সময় রাখুন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Rama Navami and Vaikunta Ekadashi are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Ayodhya is in Uttar Pradesh on the Sarayu, with its own railway station and road links to Lucknow and Gorakhpur; the airport at Ayodhya serves the city. The Ammaji Mandir lies within the city; ask locally for the temple of the South Indian Sri Vaishnava tradition."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন পর্বের সঙ্গে খোলা থাকে এবং মধ্যাহ্নে বন্ধ থাকে; রাম নবমী ও বৈকুণ্ঠ একাদশীতে সবচেয়ে ভিড় হয়। দর্শনের আগে বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলা সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "অযোধ্যা উত্তরপ্রদেশে সরয়ূর তীরে অবস্থিত, নিজস্ব রেলস্টেশন এবং লখনউ ও গোরখপুরের সঙ্গে সড়ক সংযোগ সহ; অযোধ্যার বিমানবন্দর নগরীর সেবা করে। অম্মাজি মন্দির নগরীর মধ্যে অবস্থিত; দক্ষিণ ভারতীয় শ্রীবৈষ্ণব ঐতিহ্যের মন্দিরের জন্য স্থানীয়ভাবে জিজ্ঞাসা করুন।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/raghunayaka-ayodhya.mp3",
+    "durationSec": 205
   }
 }
