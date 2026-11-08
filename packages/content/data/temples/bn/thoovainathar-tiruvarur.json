@@ -1,29 +1,40 @@
 {
   "id": "thoovainathar-tiruvarur",
   "locale": "bn",
+  "name": "তূবৈনাথর মন্দির, আরূর পরবৈয়ুণমণ্ডলি",
   "nativeName": "ஆரூர் பரவையுண்மண்டளி தூவைநாதர் கோயில்",
+  "deity": "তূবৈনাথর রূপে শিব, দেবী পঞ্চিন মেন্নাড়িয়াল (মৃদুপাদ নায়কী)-এর সঙ্গে",
+  "tradition": "শৈবধর্ম — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruvarur (East Street)",
-    "state": "Tamil Nadu",
+    "city": "তিরুবারূর (পূর্ব রাস্তা)",
+    "state": "তামিলনাড়ু",
     "lat": 10.773,
     "lng": 79.64
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারূরের পূর্ব রাস্তায়, সেই মহান মন্দিরনগরীর ভেতরেই দাঁড়িয়ে আছে তূবৈনাথর—একটি পাডল পেট্র স্থলম, যার ঐতিহাসিক নাম আরূর পরবৈয়ুণমণ্ডলি সন্ত সুন্দররের পত্নী পরবৈয়ের ভবনকে স্মরণ করায়। এখানে শিব তূবৈনাথর রূপে দেবী পঞ্চিন মেন্নাড়িয়াল, 'যাঁর পা তুলোর মতো কোমল', তাঁর সঙ্গে পূজিত, এবং তীর্থটি তিরুজ্ঞান সম্বন্দরের তেবারমে স্তুত।",
   "sections": {
-    "history": "Thoovainathar stands on the East Street of Tiruvarur, within the great temple town that is the heart of the Kaveri delta's Shaiva tradition. Its historical name is Arur Paravaiyunmandali — 'Arur, the mansion-quarter of Paravai' — recalling Paravai Nachiyar, the wife of the saint Sundarar, who lived in Tiruvarur. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted among the shrines of the southern Kaveri. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of the town, the shrine enshrines Thoovainathar in the sanctum, with the goddess Panchin Mennadiyal — in Sanskrit Mridupada Nayaki, 'she whose feet are soft as cotton' — in her own shrine, a Nandi and the parivara devatas. Though modest beside the vast Thyagaraja temple nearby, it keeps its own place in the sacred map of Tiruvarur.",
-    "legends": "The historical name joins the shrine to the story of Sundarar and Paravai Nachiyar, his first wife, whose home was in Tiruvarur — a story in which, by the tradition of the town, Shiva himself walked as a messenger between the saint and his beloved. The goddess's tender name, Panchin Mennadiyal, 'she of the cotton-soft feet,' belongs to the gentle grace of Devi. As one shrine within the great Tiruvarur, its own sthala purana is woven into the larger lore of the town.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims to the great temples of Tiruvarur, following the Paadal Petra trail, include Thoovainathar among the shrines of the town.",
-    "experience": "At Thoovainathar the pilgrim finds a quieter shrine within the great Tiruvarur, rich in the memory of Sundarar and Paravai. Before Thoovainathar and the cotton-soft-footed Panchin Mennadiyal, the visitor touches a corner of the town's vast Shaiva story, where even the smaller temples carry a famous name."
+    "history": "তূবৈনাথর তিরুবারূরের পূর্ব রাস্তায় দাঁড়িয়ে আছে, সেই মহান মন্দিরনগরীর ভেতরে যা কাবেরী বদ্বীপের শৈব ঐতিহ্যের হৃদয়। এর ঐতিহাসিক নাম আরূর পরবৈয়ুণমণ্ডলি—'আরূর, পরবৈয়ের ভবনপাড়া'—যা পরবৈ নাচিয়ারকে স্মরণ করায়, সন্ত সুন্দররের পত্নী, যিনি তিরুবারূরে বাস করতেন। এটি একটি পাডল পেট্র স্থলম, তিরুজ্ঞান সম্বন্দরের তেবারমে স্তুত, দক্ষিণ কাবেরীর তীর্থগুলির মধ্যে গণ্য। প্রস্তরমন্দিরটি চোল যুগের ও পরবর্তী কালের।",
+    "architecture": "নগরের একটি দ্রাবিড় মন্দির, যার গর্ভগৃহে তূবৈনাথর অধিষ্ঠিত, দেবী পঞ্চিন মেন্নাড়িয়াল—সংস্কৃতে মৃদুপাদ নায়কী, 'যাঁর পা তুলোর মতো কোমল'—তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাদের সঙ্গে। কাছের বিশাল ত্যাগরাজ মন্দিরের পাশে বিনম্র হলেও, এটি তিরুবারূরের পবিত্র মানচিত্রে নিজের স্থান বজায় রাখে।",
+    "legends": "ঐতিহাসিক নামটি তীর্থটিকে সুন্দরর ও পরবৈ নাচিয়ার, তাঁর প্রথম পত্নীর কাহিনির সঙ্গে যুক্ত করে, যাঁর গৃহ ছিল তিরুবারূরে—এমন এক কাহিনি যেখানে, নগরের ঐতিহ্য অনুসারে, শিব স্বয়ং সন্ত ও তাঁর প্রিয়তমার মধ্যে দূত হয়ে হেঁটেছিলেন। দেবীর কোমল নাম, পঞ্চিন মেন্নাড়িয়াল, 'তুলো-কোমল পায়ের অধিকারিণী,' দেবীর স্নিগ্ধ কৃপার পরিচায়ক। মহান তিরুবারূরের মধ্যে একটি তীর্থ রূপে, এর নিজস্ব স্থলপুরাণ নগরের বৃহত্তর কাহিনির সঙ্গে গ্রথিত।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজাসহ পালন করে। পাডল পেট্র পথ অনুসরণকারী তিরুবারূরের মহান মন্দিরগুলির তীর্থযাত্রীরা তূবৈনাথরকে নগরের তীর্থগুলির মধ্যে অন্তর্ভুক্ত করেন।",
+    "experience": "তূবৈনাথরে তীর্থযাত্রী মহান তিরুবারূরের মধ্যে একটি নিরিবিলি তীর্থ খুঁজে পান, সুন্দরর ও পরবৈয়ের স্মৃতিতে সমৃদ্ধ। তূবৈনাথর ও তুলো-কোমল পায়ের পঞ্চিন মেন্নাড়িয়ালের সামনে দর্শনার্থী নগরের বিশাল শৈব কাহিনির এক কোণ স্পর্শ করেন, যেখানে ছোট মন্দিরগুলিও এক বিখ্যাত নাম বহন করে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thoovainathar is on the East Street of Tiruvarur town, within easy reach of the great Thyagaraja temple. Tiruvarur has its own railway station and bus stand; the shrine is a short walk or auto ride within the town."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; স্থানীয়ভাবে সময় নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো রেখে আসা হয়।",
+    "photography": "বাইরের বারান্দায় সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তূবৈনাথর তিরুবারূর নগরের পূর্ব রাস্তায়, বিশাল ত্যাগরাজ মন্দিরের সহজ নাগালে অবস্থিত। তিরুবারূরের নিজস্ব রেলস্টেশন ও বাসস্ট্যান্ড আছে; তীর্থটি নগরের মধ্যে অল্প হাঁটা বা অটো-যাত্রার দূরত্বে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thoovainathar-tiruvarur.mp3",
+    "durationSec": 182
   }
 }
