@@ -1,30 +1,41 @@
 {
   "id": "thothadrinatha-vanamamalai",
   "locale": "bn",
+  "name": "বানমামলৈ পেরুমাল মন্দির, নাঙ্গুনেরি",
   "nativeName": "வானமாமலை பெருமாள் கோயில், நாங்குநேரி",
+  "deity": "বানমামলৈ পেরুমাল (তোথাদ্রিনাথন) রূপে বিষ্ণু, শ্রীদেবী ও ভূদেবীর সঙ্গে উপবিষ্ট, দেবী সিরিবরমঙ্গৈ নাচিয়ারের সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Nanguneri",
-    "state": "Tamil Nadu",
+    "city": "নাঙ্গুনেরি",
+    "state": "তামিলনাড়ু",
     "lat": 8.492,
     "lng": 77.657
   },
+  "period": "পাণ্ড্য দেশের সিরিবরমঙ্গৈ-এ একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে নম্মালবার-এর দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "ত্রয়োদশ শতকের শিলালিপি, পরবর্তী সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "নাঙ্গুনেরিতে, আলবারদের সিরিবরমঙ্গৈ-এ, বিষ্ণু তাঁর দুই সহধর্মিণীর সঙ্গে বানমামলৈ পেরুমাল রূপে সিংহাসনে উপবিষ্ট এবং প্রতিদিন তেলে স্নান করানো হয়—পাণ্ড্য দেশের একটি দিব্য দেশম ও বানমামলৈ মঠের আসন।",
   "sections": {
-    "history": "Nanguneri, remembered in the hymns as Sirivaramangai, lies on the old road south from Tirunelveli towards Kanyakumari. It is one of the 108 Divya Desams of Pandya Nadu, sung by Nammalvar in his Thiruvaimozhi. The temple carries many inscriptions, the earliest of them from 1236 CE, and records of 1794 CE note a grant of lands to its mutt by the Nawab of the Carnatic. Nanguneri is the seat of the Vanamamalai Mutt, one of the principal Sri Vaishnava monasteries of the south, whose first Jeeyar was a foremost disciple of Manavala Mamunigal; the Jeeyars of the mutt have long been closely bound to the temple's worship.",
-    "architecture": "The sanctum is crowned by the Nandavardhana vimana. Within, Vanamamalai Perumal sits enthroned beneath the hoods of Adisesha, with Sridevi and Bhudevi seated on either side, so that the Lord appears as if holding court — a durbar form treasured by devotees. The Goddess Sirivaramangai Nachiyar has her separate shrine. The temple tank is the Chetruttamarai Theertham, and within the temple is the oil well, the Ennai Kinaru, into which the oil of the daily ablution is gathered.",
-    "legends": "Local tradition tells of a childless king who prayed to Vishnu and was led to Nanguneri. When he dug the earth here, blood welled up from the ground; he was told to bathe the Lord in oil every day, and the flow ceased. Blessed in time with children, the king raised the temple. The daily oil ablution continues, and the oil, gathered in the temple well, is given as prasadam and is deeply cherished by devotees.",
-    "festivals": "The chariot festival in the Tamil month of Chithirai is the temple's grandest celebration, among about a dozen annual festivals. Vaikunta Ekadashi and the days of Nammalvar are observed with devotion, with processions of the Lord and his consorts through Nanguneri. Confirm festival dates locally.",
-    "experience": "A Divya Desam with a living monastic tradition beside it: pilgrims come for the enthroned Lord and his consorts, and to receive the sacred oil. A short drive west brings one to Thirukkurungudi below the hills, and the two Divya Desams are often visited together."
+    "history": "নাঙ্গুনেরি, স্তোত্রে সিরিবরমঙ্গৈ নামে স্মরিত, তিরুনেলবেলি থেকে কন্যাকুমারীর দিকে দক্ষিণমুখী পুরনো পথে অবস্থিত। এটি পাণ্ড্য নাড়ুর ১০৮টি দিব্য দেশমের অন্যতম, নম্মালবারের তিরুবাইমোষিতে স্তুত। মন্দিরটি বহু শিলালিপি বহন করে, যার মধ্যে প্রাচীনতমটি ১২৩৬ খ্রিস্টাব্দের, এবং ১৭৯৪ খ্রিস্টাব্দের নথিতে কর্ণাটকের নবাবের কর্তৃক এর মঠে ভূমিদানের উল্লেখ আছে। নাঙ্গুনেরি বানমামলৈ মঠের আসন, দক্ষিণের অন্যতম প্রধান শ্রীবৈষ্ণব মঠ, যার প্রথম জীয়র ছিলেন মণবাল মামুনিগলের এক অগ্রগণ্য শিষ্য; মঠের জীয়রগণ বহুকাল ধরে মন্দিরের পূজার সঙ্গে ঘনিষ্ঠভাবে যুক্ত।",
+    "architecture": "গর্ভগৃহের শিখরে নন্দবর্ধন বিমান। ভেতরে, বানমামলৈ পেরুমাল আদিশেষের ফণার নিচে সিংহাসনে উপবিষ্ট, উভয় পাশে শ্রীদেবী ও ভূদেবী বসে আছেন, যেন প্রভু দরবার পরিচালনা করছেন—ভক্তদের কাছে এক মূল্যবান দরবার রূপ। দেবী সিরিবরমঙ্গৈ নাচিয়ারের পৃথক মন্দির আছে। মন্দির পুষ্করিণীটি চেট্রুত্তামরৈ তীর্থম, এবং মন্দিরের ভেতরে তেলের কূপ, এন্নৈ কিণরু, যেখানে প্রতিদিনের অভিষেকের তেল সংগৃহীত হয়।",
+    "legends": "স্থানীয় ঐতিহ্যে এক নিঃসন্তান রাজার কথা বলা হয়, যিনি বিষ্ণুর কাছে প্রার্থনা করে নাঙ্গুনেরিতে পথপ্রাপ্ত হন। যখন তিনি এখানে মাটি খুঁড়লেন, ভূমি থেকে রক্ত উঠে এল; তাঁকে বলা হলো প্রতিদিন প্রভুকে তেলে স্নান করাতে, আর তাতে প্রবাহ থেমে গেল। কালক্রমে সন্তানলাভে আশীর্বাদধন্য হয়ে রাজা মন্দির নির্মাণ করেন। প্রতিদিনের তেল-অভিষেক আজও চলে, এবং মন্দিরের কূপে সংগৃহীত সেই তেল প্রসাদ রূপে দেওয়া হয় এবং ভক্তদের কাছে গভীরভাবে সমাদৃত।",
+    "festivals": "তামিল চিত্তিরৈ মাসের রথযাত্রা মন্দিরের সবচেয়ে জাঁকালো উৎসব, বার্ষিক প্রায় এক ডজন উৎসবের অন্যতম। বৈকুণ্ঠ একাদশী ও নম্মালবারের দিনগুলি ভক্তিসহকারে পালিত হয়, নাঙ্গুনেরির মধ্য দিয়ে প্রভু ও তাঁর সহধর্মিণীদের শোভাযাত্রাসহ। উৎসবের তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "পাশে এক জীবন্ত মঠ-ঐতিহ্যসহ একটি দিব্য দেশম: তীর্থযাত্রীরা সিংহাসনে উপবিষ্ট প্রভু ও তাঁর সহধর্মিণীদের দর্শনে এবং পবিত্র তেল গ্রহণ করতে আসেন। পশ্চিমে স্বল্প গাড়িযাত্রায় পাহাড়ের নিচে তিরুক্কুরুঙ্গুডিতে পৌঁছানো যায়, এবং এই দুই দিব্য দেশম প্রায়ই একসঙ্গে দর্শন করা হয়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Chithirai chariot festival and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Nanguneri is about 30 km south of Tirunelveli on the national highway to Kanyakumari and is reached easily by bus or car; it has a small railway station, with Tirunelveli the main junction. The nearest airports are Thoothukudi and Thiruvananthapuram."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বসহ এবং মধ্যাহ্নে বন্ধ রেখে খোলা; চিত্তিরৈ রথযাত্রা ও বৈকুণ্ঠ একাদশী সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখা। প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভেতরে ও চারপাশে ছবি তোলা সীমিত; প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "নাঙ্গুনেরি তিরুনেলবেলি থেকে প্রায় ৩০ কিমি দক্ষিণে কন্যাকুমারীগামী জাতীয় সড়কের উপর অবস্থিত এবং বাস বা গাড়িতে সহজে পৌঁছানো যায়; এর একটি ছোট রেলস্টেশন আছে, তিরুনেলবেলি প্রধান জংশন। নিকটতম বিমানবন্দর তূত্তুক্কুডি ও তিরুবনন্তপুরম।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thothadrinatha-vanamamalai.mp3",
+    "durationSec": 179
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thothadrinatha-vanamamalai.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/thothadrinatha-vanamamalai.webp"
     },
     "og": "https://media.dsquaregee.com/og/thothadrinatha-vanamamalai.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/thothadrinatha-vanamamalai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thothadrinatha-vanamamalai.jpg",
+    "durationSec": 135,
+    "credit": "PJeganathan / Wikimedia Commons (CC BY-SA 4.0) · Dr. Chinchu C. / Wikimedia Commons (CC BY 4.0) · Thatsalright (talk) / Wikimedia Commons (CC BY-SA 3.0) · Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Pastor Sam / Wikimedia Commons (CC BY 3.0)"
   }
 }

@@ -1,29 +1,40 @@
 {
   "id": "uthvedeeswarar-kuthalam",
   "locale": "bn",
+  "name": "উত্বেদীশ্বরর মন্দির, তিরুত্তুরুত্তি (কুথালম)",
   "nativeName": "திருத்துருத்தி உத்வேதீஸ்வரர் கோயில்",
+  "deity": "উত্বেদীশ্বরর (এছাড়া বেদসুবরর, সোন্নবররিবর) রূপে শিব, দেবী অমৃত মুগিলাম্বিকৈর সঙ্গে",
+  "tradition": "শৈব—একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Kuthalam, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "কুথালম, ময়িলাড়ুতুরৈর কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 11.1,
     "lng": 79.55
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুথালমে, ঐতিহাসিকভাবে তিরুত্তুরুত্তি, ময়িলাড়ুতুরৈর কাছে, শিব উত্বেদীশ্বরর রূপে পূজিত—এছাড়া বেদসুবরর ও সোন্নবররিবর—দেবী অমৃত মুগিলাম্বিকৈর সঙ্গে। অপ্পর, সম্বন্দর ও সুন্দরর কর্তৃক তেবারমে স্তুত একটি পাডল পেট্র স্থলম, এটি কাবেরীর দক্ষিণ তীরের শিব তীর্থগুলির মধ্যে গণ্য। এর কিংবদন্তিতে বলা হয় এক ঋষির যজ্ঞাগ্নি থেকে জন্মানো দেবীর কথা, যিনি নদীতে একটি লিঙ্গ পূজা করেছিলেন, এবং এই স্থানে রেখে যাওয়া শিবের পাদুকার কথা।",
   "sections": {
-    "history": "Kuthalam, bearing the Tevaram name Tiruthuruthi, is an ancient Shaiva town near Mayiladuthurai on the road to Kumbakonam. It is a Paadal Petra Sthalam, sung by the three great Tevaram saints — Tirunavukkarasar (Appar), Tirugnana Sambandar and Sundarar — and is reckoned among the shrines on the southern bank of the Kaveri. The structural temple that stands today belongs to the Chola period and later, built in stone over the far older sacred site hymned by the saints.",
-    "architecture": "The temple is a modest delta shrine of Dravidian form, with the sanctum of Uthvedeeswarar, a Nandi, the goddess Amirtha Mughizhambikai in her own shrine, and the usual parivara devatas. The sthala vriksham is the Uddhala tree. A set of the lord's Padukas — sandals said to have been left here by Shiva — is venerated by devotees. The Manjalaru, a branch of the Kaveri, waters this part of the delta.",
-    "legends": "The sthala purana tells of the sage Bharathama performing penance, from whose sacrificial fire the Goddess was born as a maiden. She worshipped a Shiva lingam set in the Kaveri, and the lord emerged from the linga and took her hand. From this grace the deity is praised as Uthvedeeswarar and the goddess as Amirtha Mughizhambikai. The name Sonnavararivar, 'he who knows what is spoken,' belongs to the lord's listening grace, and the revered Padukas mark his presence at this spot.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Panguni Uthiram in Panguni (March–April), and the Mondays of Karthikai, along with the regular Pradosha worship. These are observed at the quiet scale of a delta town shrine, drawing pilgrims who follow the Paadal Petra trail along the southern Kaveri.",
-    "experience": "A visit to Kuthalam joins the pilgrim to one of the lesser-trodden Tevaram shrines of the Kaveri's southern bank. Before Uthvedeeswarar and Amirtha Mughizhambikai, amid the memory of the goddess born of fire and the lord's own sandals, the devotee finds the unhurried devotion of a delta town that has kept its ancient hymns alive."
+    "history": "কুথালম, তেবারম নাম তিরুত্তুরুত্তি বহনকারী, কুম্বকোণমের পথে ময়িলাড়ুতুরৈর কাছে একটি প্রাচীন শৈব শহর। এটি একটি পাডল পেট্র স্থলম, তিন মহান তেবারম সন্ত—তিরুনাবুক্করসর (অপ্পর), তিরুজ্ঞান সম্বন্দর ও সুন্দরর—কর্তৃক স্তুত, এবং কাবেরীর দক্ষিণ তীরের তীর্থগুলির মধ্যে গণ্য। আজ যে গঠনমূলক মন্দিরটি দাঁড়িয়ে আছে তা চোল যুগ ও পরবর্তীকালের, সন্তদের স্তুত বহু প্রাচীন পবিত্র স্থানের উপর পাথরে নির্মিত।",
+    "architecture": "মন্দিরটি দ্রাবিড় রূপের একটি বিনম্র ব-দ্বীপীয় তীর্থ, উত্বেদীশ্বররের গর্ভগৃহ, একটি নন্দী, নিজস্ব গর্ভগৃহে দেবী অমৃত মুগিলাম্বিকৈ এবং সাধারণ পরিবার দেবতা সহ। স্থলবৃক্ষ হল উদ্ধাল গাছ। প্রভুর এক জোড়া পাদুকা—যা শিব এখানে রেখে গিয়েছিলেন বলে কথিত—ভক্তদের দ্বারা পূজিত। মঞ্জলারু, কাবেরীর একটি শাখা, ব-দ্বীপের এই অংশে জল সিঞ্চন করে।",
+    "legends": "স্থলপুরাণে বলা হয় ঋষি ভারতমের তপস্যার কথা, যাঁর যজ্ঞাগ্নি থেকে দেবী এক কুমারী রূপে জন্ম নেন। তিনি কাবেরীতে স্থাপিত একটি শিবলিঙ্গ পূজা করেন, এবং প্রভু লিঙ্গ থেকে আবির্ভূত হয়ে তাঁর হাত গ্রহণ করেন। এই কৃপা থেকে দেবতা উত্বেদীশ্বরর এবং দেবী অমৃত মুগিলাম্বিকৈ রূপে প্রশংসিত। সোন্নবররিবর নামটি, 'যিনি যা কথিত হয় তা জানেন,' প্রভুর শ্রবণকৃপার, আর পূজিত পাদুকা এই স্থানে তাঁর উপস্থিতি চিহ্নিত করে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পাঙ্গুনি মাসে (মার্চ–এপ্রিল) পাঙ্গুনি উত্তিরম, এবং কার্তিকৈর সোমবারগুলি, নিয়মিত প্রদোষ পূজার সঙ্গে পালন করে। এগুলি একটি ব-দ্বীপ শহরের তীর্থের নিরিবিলি পরিসরে পালিত হয়, যা কাবেরীর দক্ষিণে পাডল পেট্র পথ অনুসরণকারী তীর্থযাত্রীদের আকৃষ্ট করে।",
+    "experience": "কুথালম পরিদর্শন তীর্থযাত্রীকে কাবেরীর দক্ষিণ তীরের কম-মাড়ানো তেবারম তীর্থগুলির একটির সঙ্গে যুক্ত করে। উত্বেদীশ্বরর ও অমৃত মুগিলাম্বিকৈর সম্মুখে, অগ্নি থেকে জন্মানো দেবীর ও প্রভুর নিজস্ব পাদুকার স্মৃতির মাঝে, ভক্ত সেই ব-দ্বীপ শহরের অত্বরিত ভক্তি খুঁজে পান যা তার প্রাচীন স্তোত্রগুলিকে জীবন্ত রেখেছে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kuthalam is about 9 km from Mayiladuthurai on the Mayiladuthurai–Kumbakonam road, roughly 1 km from the Kuthalam bus stand. Mayiladuthurai is the nearest major rail head, with frequent buses and taxis to Kuthalam."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরবিধি অনুসারে সাধারণত বাইরের অংশে ছবি তোলা অনুমোদিত কিন্তু ভেতরের গর্ভগৃহে নিষিদ্ধ; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কুথালম ময়িলাড়ুতুরৈ–কুম্বকোণম রাস্তায় ময়িলাড়ুতুরৈ থেকে প্রায় ৯ কিমি দূরে, কুথালম বাস স্ট্যান্ড থেকে প্রায় ১ কিমি। ময়িলাড়ুতুরৈ নিকটতম বড় রেলস্টেশন, কুথালমে ঘনঘন বাস ও ট্যাক্সি সহ।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/uthvedeeswarar-kuthalam.mp3",
+    "durationSec": 195
   }
 }

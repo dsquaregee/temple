@@ -1,29 +1,40 @@
 {
   "id": "umamaheswarar-konerirajapuram",
   "locale": "bn",
+  "name": "উমামহেশ্বরর মন্দির, কোনেরিরাজপুরম",
   "nativeName": "உமாமகேஸ்வரர் கோயில்",
+  "deity": "উমামহেশ্বরর রূপে শিব, দেবী মঙ্গলনায়কীর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Konerirajapuram",
-    "state": "Tamil Nadu",
+    "city": "কোনেরিরাজপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 11.0167,
     "lng": 79.6
   },
+  "period": "কাবেরী ব-দ্বীপের মহান চোল মন্দির, তেবারমে স্তুত, দশম শতকে সেম্বিয়ন মহাদেবীর পৃষ্ঠপোষকতায় পাথরে পুনর্নির্মিত",
   "century": 10,
+  "dynasty": "চোল (সেম্বিয়ন মহাদেবী কর্তৃক পুনর্নির্মিত)",
+  "style": "দ্রাবিড় (চোল)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কোনেরিরাজপুরমে, তেবারমের তিরুনল্লমে, শিব উমামহেশ্বরর রূপে বিরাজমান এক মন্দিরে, যা চোল রানি সেম্বিয়ন মহাদেবী পুনর্নির্মাণ করেছিলেন এবং যা সর্ববৃহৎ ও সূক্ষ্মতম চোল ব্রোঞ্জ নটরাজমূর্তিগুলির একটিকে ধারণের জন্য প্রসিদ্ধ।",
   "sections": {
-    "history": "Konerirajapuram, called Tirunallam in the Tevaram, is a Shaiva village of the Kaveri delta and a Paadal Petra Sthalam praised by Appar and Thirugnana Sambandar. Its great temple was rebuilt in stone in the tenth century under Sembiyan Mahadevi, the Chola queen whose patronage transformed many delta shrines from brick to stone and left some of the finest work of the age. The Lord is worshipped as Umamaheswarar and the goddess as Mangalanayaki. The temple is renowned among art historians for its sculpture and bronzes, and stands as a monument of the mature early Chola style as much as a living shrine.",
-    "architecture": "The temple is a classic Chola structure of the tenth century, its sanctum and vimana carrying the restrained, elegant sculpture of the Sembiyan Mahadevi period. The sanctum enshrines the Shiva linga of Umamaheswarar, with the goddess Mangalanayaki in her own shrine. Its most celebrated treasure is a colossal bronze Nataraja, among the largest and finest of all Chola bronzes, housed in a separate enclosure built so that the image cannot be removed without dismantling the structure. Pillared halls and niche figures complete a temple prized for its art.",
-    "legends": "As Tirunallam the place is praised in the Tevaram, and tradition honours it among the shrines that the saints sang on their pilgrimages through the delta. The temple's identity, however, rests above all on the devotion of Sembiyan Mahadevi, whose rebuilding in stone is remembered as an act of piety, and on the great Nataraja, before whom generations have worshipped the dancing Lord in bronze.",
-    "festivals": "Arudra Darshan in the Tamil month of Margazhi, the festival of Nataraja's cosmic dance, is kept with special devotion given the temple's famous bronze. Maha Shivaratri, the monthly Pradosham, and the Tamil month festivals are also observed. Festival dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Konerirajapuram rewards those who come for Chola art as much as for worship: the great bronze Nataraja in its own enclosure is one of the sights of the delta, and the sculpture of the Sembiyan Mahadevi temple repays a slow round. Set in a quiet village near Kuthalam, it is often visited with the other Tevaram shrines of the Kumbakonam–Mayiladuthurai belt."
+    "history": "কোনেরিরাজপুরম, তেবারমে যার নাম তিরুনল্লম, কাবেরী ব-দ্বীপের একটি শৈব গ্রাম এবং একটি পাডল পেট্র স্থলম, অপ্পর ও তিরুজ্ঞান সম্বন্দর কর্তৃক প্রশংসিত। এর মহান মন্দিরটি দশম শতকে সেম্বিয়ন মহাদেবীর পৃষ্ঠপোষকতায় পাথরে পুনর্নির্মিত হয়, সেই চোল রানি যাঁর পৃষ্ঠপোষকতা ব-দ্বীপের বহু তীর্থকে ইট থেকে পাথরে রূপান্তরিত করেছিল এবং যুগের কিছু সূক্ষ্মতম কাজ রেখে গিয়েছিল। প্রভু উমামহেশ্বরর রূপে এবং দেবী মঙ্গলনায়কী রূপে পূজিত। মন্দিরটি শিল্প ইতিহাসবিদদের মধ্যে এর ভাস্কর্য ও ব্রোঞ্জের জন্য প্রসিদ্ধ, এবং একটি জীবন্ত তীর্থ হওয়ার পাশাপাশি পরিণত আদি-চোল শৈলীর এক নিদর্শন রূপে দাঁড়িয়ে আছে।",
+    "architecture": "মন্দিরটি দশম শতকের একটি ধ্রুপদী চোল স্থাপনা, এর গর্ভগৃহ ও বিমান সেম্বিয়ন মহাদেবী যুগের সংযত, মার্জিত ভাস্কর্য বহন করে। গর্ভগৃহে উমামহেশ্বররের শিবলিঙ্গ অধিষ্ঠিত, আর দেবী মঙ্গলনায়কী তাঁর নিজস্ব গর্ভগৃহে। এর সবচেয়ে প্রসিদ্ধ সম্পদ হল একটি বিশাল ব্রোঞ্জ নটরাজ, সমস্ত চোল ব্রোঞ্জের মধ্যে সর্ববৃহৎ ও সূক্ষ্মতমগুলির একটি, একটি পৃথক আবরণে এমনভাবে স্থাপিত যে কাঠামো ভেঙে ফেলা ছাড়া মূর্তিটি সরানো যায় না। স্তম্ভশোভিত মণ্ডপ ও কুলুঙ্গির মূর্তি শিল্পের জন্য মূল্যবান এই মন্দিরকে সম্পূর্ণ করে।",
+    "legends": "তিরুনল্লম রূপে স্থানটি তেবারমে প্রশংসিত, এবং ঐতিহ্য একে সেইসব তীর্থের মধ্যে সম্মানিত করে যেগুলি সন্তগণ ব-দ্বীপ দিয়ে তীর্থযাত্রায় গান গেয়েছিলেন। তবে মন্দিরের পরিচয় সর্বোপরি নির্ভর করে সেম্বিয়ন মহাদেবীর ভক্তির উপর, যাঁর পাথরে পুনর্নির্মাণ এক ধর্মকর্ম রূপে স্মরণীয়, এবং সেই মহান নটরাজের উপর, যাঁর সম্মুখে প্রজন্মের পর প্রজন্ম ব্রোঞ্জে নৃত্যরত প্রভুকে পূজা করেছে।",
+    "festivals": "তামিল মার্গাজি মাসে আরুদ্রা দর্শন, নটরাজের মহাজাগতিক নৃত্যের উৎসব, মন্দিরের প্রসিদ্ধ ব্রোঞ্জের কারণে বিশেষ ভক্তিতে পালিত হয়। মহাশিবরাত্রি, মাসিক প্রদোষম এবং তামিল মাসের উৎসবগুলিও পালিত হয়। উৎসবের তারিখ তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "কোনেরিরাজপুরম তাঁদের পুরস্কৃত করে যাঁরা পূজার মতোই চোল শিল্পের জন্যও আসেন: নিজস্ব আবরণে সেই মহান ব্রোঞ্জ নটরাজ ব-দ্বীপের অন্যতম দর্শনীয়, এবং সেম্বিয়ন মহাদেবী মন্দিরের ভাস্কর্য ধীর পরিক্রমার যোগ্য। কুথালমের কাছে এক নিরিবিলি গ্রামে অবস্থিত, এটি প্রায়শই কুম্বকোণম–ময়িলাড়ুতুরৈ অঞ্চলের অন্যান্য তেবারম তীর্থের সঙ্গে পরিদর্শন করা হয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Konerirajapuram is near Kuthalam in Mayiladuthurai district, within reach of Kumbakonam and Mayiladuthurai. Kumbakonam and Mayiladuthurai are the nearest railheads; Tiruchirappalli airport is about 100 km away. Local buses and autos reach the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরবিধি অনুসারে সাধারণত বাইরের অংশে ছবি তোলা অনুমোদিত কিন্তু ভেতরের গর্ভগৃহে নিষিদ্ধ; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কোনেরিরাজপুরম ময়িলাড়ুতুরৈ জেলার কুথালমের কাছে, কুম্বকোণম ও ময়িলাড়ুতুরৈ থেকে নাগালের মধ্যে। কুম্বকোণম ও ময়িলাড়ুতুরৈ নিকটতম রেলস্টেশন; তিরুচিরাপল্লি বিমানবন্দর প্রায় ১০০ কিমি দূরে। স্থানীয় বাস ও অটো গ্রামে পৌঁছায়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/umamaheswarar-konerirajapuram.mp3",
+    "durationSec": 190
   }
 }
