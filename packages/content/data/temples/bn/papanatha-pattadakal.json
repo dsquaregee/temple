@@ -1,30 +1,41 @@
 {
   "id": "papanatha-pattadakal",
   "locale": "bn",
+  "name": "পাপনাথ মন্দির, পট্টদকল্লু",
   "nativeName": "ಪಾಪನಾಥ ದೇವಾಲಯ, ಪಟ್ಟದಕಲ್ಲು",
+  "deity": "শিব, প্রাচীনকালে মূলস্থান মহাদেব নামে পরিচিত",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Pattadakal",
-    "state": "Karnataka",
+    "city": "পট্টদকল্লু",
+    "state": "কর্ণাটক",
     "lat": 15.9479,
     "lng": 75.8172
   },
+  "period": "চালুক্য, আনুমানিক ৬৮০ খ্রিস্টাব্দ থেকে অষ্টম শতক পর্যন্ত কালনির্ণীত",
   "century": 8,
+  "dynasty": "বাদামির চালুক্য",
+  "style": "নাগর ও দ্রাবিড় শৈলীর সম্মিলন, আদি চালুক্য",
   "unesco": true,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "মূল পট্টদকল্লু গুচ্ছ থেকে পৃথক অবস্থানে দাঁড়িয়ে পাপনাথ একটি আদি চালুক্য শিবমন্দির, যা উত্তরের বক্রাকার শিখরকে দক্ষিণের রূপের সঙ্গে যুক্ত করেছে; এর দেয়ালে রামায়ণ ও মহাভারতের দৃশ্য খোদিত।",
   "sections": {
-    "history": "Papanatha is one of the nine Shaiva temples of the Pattadakal group, a UNESCO World Heritage Site since 1987, and it stands set apart towards the village, close to its old wall. Its date is debated: one record places it about 680 CE, others give the eighth century, and some connect it with the age of Vijayaditya Satyashraya. An eleventh-century inscription found near it calls the temple Mulasthana Mahadeva, a name that means roughly the original seat of the great god, and Papanatha is the name by which it is known today. It is a protected monument of the Archaeological Survey of India, and it is the temple where Pattadakal’s northern and southern traditions meet most closely.",
-    "architecture": "Papanatha is among the most elaborate temples at Pattadakal, and it mixes northern and southern traditions. Its main sanctuary is crowned by a northern-style curving tower, while a smaller portion towards the east carries miniature Dravida shrines. A pillared hall, including a dancing hall known as a natya mandapa, leads towards the sanctum. The outer walls carry relief panels of scenes from the Ramayana and the Mahabharata, friezes that make it one of the finest narrative temples of the Chalukya school. The Archaeological Survey of India groups it with the Nagara-style temples of Pattadakal.",
-    "legends": "Pattadakal’s temples are read as stories as much as buildings, and nowhere more than at Papanatha, whose walls are a stone telling of the epics. Episodes of the Ramayana and the Mahabharata unfold in panels, so a slow circuit of the temple becomes a recital in carved form. Its earlier name, Mulasthana Mahadeva, points to older sacred ground at this spot. No single founding legend is attached to it; the great epics themselves are its stories.",
-    "festivals": "Papanatha is a protected monument rather than a temple with a daily round of worship, so it keeps no festival calendar of its own. Maha Shivaratri is the observance most associated with Shiva temples in the region; confirm dates locally. Pattadakal is also known for an annual dance festival staged among its monuments, worth checking when planning a visit.",
-    "experience": "Come to Papanatha after the main enclosure and take it slowly. Start with the tower, whose curve is unlike the stepped towers around it, then walk the outer walls with the epics in mind, matching panels to the stories you know. In low morning or late afternoon light the reliefs stand out clearly. The temple sits a little apart from the crowds, near the village edge, and is often quiet."
+    "history": "পাপনাথ পট্টদকল্লু গুচ্ছের নয়টি শৈব মন্দিরের একটি, ১৯৮৭ সাল থেকে একটি ইউনেস্কো বিশ্ব ঐতিহ্যক্ষেত্র, এবং এটি গ্রামের দিকে এর পুরোনো প্রাচীরের কাছে পৃথকভাবে দাঁড়িয়ে আছে। এর কালনির্ণয় নিয়ে বিতর্ক রয়েছে: একটি নথি একে আনুমানিক ৬৮০ খ্রিস্টাব্দে স্থাপন করে, অন্যগুলি অষ্টম শতক নির্দেশ করে, আর কেউ কেউ একে বিজয়াদিত্য সত্যাশ্রয়ের যুগের সঙ্গে যুক্ত করে। এর কাছে পাওয়া একাদশ শতকের একটি শিলালিপি মন্দিরটিকে মূলস্থান মহাদেব নামে অভিহিত করে, যার অর্থ মোটামুটি মহান দেবতার আদি আসন, আর পাপনাথ হল সেই নাম যাতে এটি আজ পরিচিত। এটি ভারতীয় পুরাতত্ত্ব সর্বেক্ষণের একটি সংরক্ষিত স্মারক, এবং এটি সেই মন্দির যেখানে পট্টদকল্লুর উত্তর ও দক্ষিণ ঐতিহ্য সবচেয়ে নিবিড়ভাবে মিলিত হয়।",
+    "architecture": "পাপনাথ পট্টদকল্লুর সবচেয়ে অলঙ্কৃত মন্দিরগুলির অন্যতম, এবং এটি উত্তর ও দক্ষিণের ঐতিহ্য মিশিয়ে দেয়। এর মূল গর্ভগৃহ একটি উত্তর-শৈলীর বক্রাকার শিখরে মুকুটায়িত, আর পূর্ব দিকের একটি ছোট অংশে ক্ষুদ্রাকৃতির দ্রাবিড় দেবালয় রয়েছে। স্তম্ভশোভিত একটি মণ্ডপ, যার মধ্যে নাট্য মণ্ডপ নামে পরিচিত একটি নৃত্যশালা আছে, গর্ভগৃহের দিকে নিয়ে যায়। বাইরের দেয়ালে রামায়ণ ও মহাভারতের দৃশ্যের উৎকীর্ণ ফলক রয়েছে—এমন কারুকার্যময় সারি যা একে চালুক্য ঘরানার অন্যতম শ্রেষ্ঠ আখ্যানমূলক মন্দিরে পরিণত করেছে। ভারতীয় পুরাতত্ত্ব সর্বেক্ষণ একে পট্টদকল্লুর নাগর-শৈলীর মন্দিরগুলির সঙ্গে শ্রেণিবদ্ধ করে।",
+    "legends": "পট্টদকল্লুর মন্দিরগুলিকে অট্টালিকার মতোই কাহিনি হিসেবেও পাঠ করা হয়, আর পাপনাথের চেয়ে বেশি কোথাও নয়, যার দেয়াল মহাকাব্যের এক পাথরে রচিত কথন। রামায়ণ ও মহাভারতের পর্বগুলি ফলকে ফলকে উন্মোচিত হয়, তাই মন্দিরটির চারপাশে ধীরে প্রদক্ষিণ হয়ে ওঠে কারুকার্যে গাঁথা এক আবৃত্তি। এর পূর্বতন নাম, মূলস্থান মহাদেব, এই স্থানের প্রাচীনতর পবিত্র ভূমির দিকে নির্দেশ করে। একে ঘিরে কোনো একক প্রতিষ্ঠা-কিংবদন্তি নেই; মহাকাব্যগুলিই এর কাহিনি।",
+    "festivals": "পাপনাথ প্রাত্যহিক পূজাচক্রের মন্দির নয়, বরং একটি সংরক্ষিত স্মারক, তাই এর নিজস্ব কোনো উৎসব-পঞ্জিকা নেই। এই অঞ্চলের শিবমন্দিরগুলির সঙ্গে সবচেয়ে বেশি যুক্ত পালনটি হল মহাশিবরাত্রি; তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন। পট্টদকল্লু তার স্মারকগুলির মাঝে অনুষ্ঠিত একটি বার্ষিক নৃত্যোৎসবের জন্যও পরিচিত, যা ভ্রমণ পরিকল্পনার সময় দেখে নেওয়ার যোগ্য।",
+    "experience": "মূল প্রাঙ্গণ দেখার পর পাপনাথে আসুন এবং ধীরেসুস্থে উপভোগ করুন। শিখর দিয়ে শুরু করুন, যার বক্রতা চারপাশের ধাপবিশিষ্ট শিখরগুলির থেকে আলাদা, তারপর মহাকাব্যগুলি মনে রেখে বাইরের দেয়ালের পাশ দিয়ে হাঁটুন, জানা কাহিনির সঙ্গে ফলকগুলি মিলিয়ে নিন। ভোরের নিচু আলোয় বা পড়ন্ত বিকেলে কারুকার্য স্পষ্ট হয়ে ফুটে ওঠে। মন্দিরটি ভিড় থেকে কিছুটা দূরে, গ্রামের প্রান্তের কাছে অবস্থিত, এবং প্রায়ই নিরিবিলি থাকে।"
   },
   "visit": {
-    "timings": "Open daily in daytime hours as an Archaeological Survey of India monument and UNESCO site; a single ticket admits visitors to the Pattadakal complex. Confirm current hours and fees locally.",
-    "dressCode": "No strict dress code applies, but modest dress is appropriate given the sacred character of the site; comfortable footwear helps for walking between monuments.",
-    "photography": "Photography is generally permitted across the open-air site; tripods or professional equipment may require permission.",
-    "gettingThere": "Pattadakal is in Karnataka’s Bagalkot district, about 22 km from Badami, which has the nearest railway station, and around 130 km from Hubballi, the nearest airport. It is usually visited together with Badami and Aihole. Papanatha stands a short walk from the main temple group, towards the village."
+    "timings": "ভারতীয় পুরাতত্ত্ব সর্বেক্ষণের স্মারক ও ইউনেস্কো ক্ষেত্র হিসেবে প্রতিদিন দিনের বেলায় খোলা; একটি একক টিকিটে দর্শনার্থীরা পট্টদকল্লু সমুচ্চয়ে প্রবেশ করতে পারেন। বর্তমান সময়সূচি ও মূল্য স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "কোনো কঠোর পোশাকবিধি প্রযোজ্য নয়, তবে স্থানটির পবিত্র চরিত্রের বিবেচনায় বিনম্র পোশাক সমীচীন; স্মারকগুলির মাঝে হাঁটার জন্য আরামদায়ক পাদুকা সহায়ক।",
+    "photography": "উন্মুক্ত এই ক্ষেত্র জুড়ে সাধারণত ছবি তোলা অনুমোদিত; ট্রাইপড বা পেশাদার সরঞ্জামের জন্য অনুমতি লাগতে পারে।",
+    "gettingThere": "পট্টদকল্লু কর্ণাটকের বাগলকোট জেলায়, বাদামি থেকে প্রায় ২২ কিমি দূরে, যেখানে নিকটতম রেলস্টেশন আছে, এবং হুব্বল্লি থেকে প্রায় ১৩০ কিমি দূরে, যা নিকটতম বিমানবন্দর। সাধারণত বাদামি ও ঐহোলের সঙ্গে একসঙ্গে এটি দেখা হয়। পাপনাথ মূল মন্দির গুচ্ছ থেকে স্বল্প হাঁটাপথে, গ্রামের দিকে অবস্থিত।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/papanatha-pattadakal.mp3",
+    "durationSec": 209
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/papanatha-pattadakal.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/papanatha-pattadakal.webp"
     },
     "og": "https://media.dsquaregee.com/og/papanatha-pattadakal.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/papanatha-pattadakal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/papanatha-pattadakal.jpg",
+    "durationSec": 155,
+    "credit": "Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Ganesh.Subramaniam85 / Wikimedia Commons (CC BY-SA 4.0) · Ms Sarah Welch / Wikimedia Commons (CC BY-SA 4.0) · Dineshkannambadi at English Wikipedia 23:09, 1 August 2008 (UTC / Wikimedia Commons (CC BY-SA 3.0) · Meesanjay / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }
