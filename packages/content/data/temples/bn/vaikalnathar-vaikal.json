@@ -1,29 +1,40 @@
 {
   "id": "vaikalnathar-vaikal",
   "locale": "bn",
+  "name": "বৈগলনাথর মন্দির, তিরুবৈগল মাডকোইল",
   "nativeName": "திருவைகல் மாடக்கோயில் ஷேண்பகாரண்யேஸ்வரர் கோயில்",
+  "deity": "বৈগলনাথর (শেণবগ অরণ্যেশ্বরর) রূপে শিব, দেবী কোম্বিয়াল কোথৈর সঙ্গে",
+  "tradition": "শৈব—একটি পাডল পেট্র স্থলম, একটি মাডকোইল",
   "location": {
-    "city": "Vaikal, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "বৈগল, কুম্বকোণমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.95,
     "lng": 79.4833
   },
+  "period": "তেবারম যুগ; ঐতিহ্যগতভাবে একটি কোচেঙ্গট চোল মাডকোইল",
   "century": 9,
+  "dynasty": "চোল (ঐতিহ্যগতভাবে কোচেঙ্গট চোল)",
+  "style": "দ্রাবিড় (মাডকোইল, উচ্চস্থিত ধরন)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণমের কাছে বৈগল শিবকে বৈগলনাথর রূপে সম্মান করে—এছাড়া শেণবগ অরণ্যেশ্বরর, চম্পক বনের প্রভু—দেবী কোম্বিয়াল কোথৈর সঙ্গে। তেবারমে স্তুত একটি পাডল পেট্র স্থলম, এর ঐতিহাসিক নাম তিরুবৈগল মাডকোইল, কারণ এটি একটি উচ্চস্থিত মাডকোইল রূপে নির্মিত, ঐতিহ্য অনুসারে চোল রাজা কোচেঙ্গট চোলের নির্মিতগুলির একটি। 'মুক্কণ ক্ষেত্রম' রূপে পূজিত, ত্রিনয়ন প্রভুর স্থান, এটি কাবেরী দেশের একটি ছোট কিন্তু শ্রদ্ধেয় তীর্থ।",
   "sections": {
-    "history": "Vaikal, near Kumbakonam, is an ancient Shaiva village hymned in the Tevaram and counted among the Paadal Petra Sthalams — by one reckoning the thirty-third shrine on the southern bank of the Kaveri. Its historical name, Tiruvaikal Madakoil, marks it as a Maada Kovil, a raised temple traditionally ascribed to the Chola king Kochengat Chola. The village name Vaikal is explained as a form of 'vai-kurugal,' referring to a small mound. In recent times the small shrine has needed care, a single devoted priest keeping its worship alive.",
-    "architecture": "As a Maada Kovil the temple sits on an elevated base, in the manner of the Kochengat Chola foundations built high so that an elephant could not enter the sanctum. The sanctum enshrines Vaigalnathar, also known as Shenbaga Aranyeswarar, lord of the champak forest; the goddess is Kombial Kothai. The temple is grouped locally with the Viswanathar and Brahmapureeswarar shrines of the area and revered as a mukkan kshetram.",
-    "legends": "The lord's name Shenbaga Aranyeswarar recalls a forest of shenbagam, the fragrant champak, that once stood here, within which the lingam is said to have been worshipped. The village's reverence as a mukkan kshetram, a 'place of the three eyes,' keeps the three-eyed form of Shiva at the heart of its devotion. As with many smaller delta shrines, the fuller sthala-purana is less widely recorded than those of the great temples nearby.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Aippasi Annabhishekam (October–November), at the quiet scale of a village shrine. Devotees who seek out the lesser-known Paadal Petra temples of the delta include Vaikal among their stops.",
-    "experience": "Vaikal offers the pilgrim the plain, unhurried devotion of a small Maada Kovil with a venerable Tevaram name. Climbing to the raised sanctum of Vaigalnathar, amid the memory of a champak forest, the visitor meets a shrine whose quiet survival is itself part of its grace — one of the delta's smaller treasures, kept alive by faithful hands."
+    "history": "কুম্বকোণমের কাছে বৈগল একটি প্রাচীন শৈব গ্রাম, তেবারমে স্তুত এবং পাডল পেট্র স্থলমগুলির মধ্যে গণ্য—এক হিসাব অনুসারে কাবেরীর দক্ষিণ তীরের তেত্রিশতম তীর্থ। এর ঐতিহাসিক নাম, তিরুবৈগল মাডকোইল, একে একটি মাডকোইল রূপে চিহ্নিত করে, একটি উচ্চস্থিত মন্দির যা ঐতিহ্যগতভাবে চোল রাজা কোচেঙ্গট চোলের নামে আরোপিত। গ্রামের নাম বৈগল ব্যাখ্যা করা হয় 'বৈ-কুরুগল'-এর একটি রূপ রূপে, যা একটি ছোট ঢিবিকে নির্দেশ করে। সাম্প্রতিক কালে এই ছোট তীর্থটির যত্ন প্রয়োজন হয়েছে, একজন নিবেদিত পুরোহিত এর পূজা জীবন্ত রেখেছেন।",
+    "architecture": "একটি মাডকোইল রূপে মন্দিরটি একটি উচ্চস্থিত ভিত্তির উপর বসে, কোচেঙ্গট চোলের ভিত্তিগুলির ধরনে উঁচু করে নির্মিত যাতে কোনো হাতি গর্ভগৃহে প্রবেশ করতে না পারে। গর্ভগৃহে অধিষ্ঠিত বৈগলনাথর, শেণবগ অরণ্যেশ্বরর নামেও পরিচিত, চম্পক বনের প্রভু; দেবী কোম্বিয়াল কোথৈ। মন্দিরটি স্থানীয়ভাবে অঞ্চলের বিশ্বনাথর ও ব্রহ্মপুরীশ্বরর তীর্থের সঙ্গে দলবদ্ধ এবং একটি মুক্কণ ক্ষেত্রম রূপে পূজিত।",
+    "legends": "প্রভুর নাম শেণবগ অরণ্যেশ্বরর স্মরণ করায় শেণবগমের—সুগন্ধি চম্পকের—একটি বনের কথা, যা একসময় এখানে ছিল, যার মধ্যে লিঙ্গটি পূজিত হত বলে কথিত। একটি মুক্কণ ক্ষেত্রম, 'ত্রিনয়নের স্থান' রূপে গ্রামের শ্রদ্ধা শিবের ত্রিনয়ন রূপকে এর ভক্তির কেন্দ্রে রাখে। অনেক ছোট ব-দ্বীপ তীর্থের মতো, পূর্ণাঙ্গ স্থলপুরাণ কাছের মহান মন্দিরগুলির তুলনায় কম ব্যাপকভাবে নথিবদ্ধ।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং আইপ্পাসি অন্নাভিষেকম (অক্টোবর–নভেম্বর) পালন করে, একটি গ্রামীণ তীর্থের নিরিবিলি পরিসরে। যে ভক্তরা ব-দ্বীপের কম-পরিচিত পাডল পেট্র মন্দিরগুলি খুঁজে বের করেন তাঁরা তাঁদের বিরতিস্থলের মধ্যে বৈগলকে অন্তর্ভুক্ত করেন।",
+    "experience": "বৈগল তীর্থযাত্রীকে একটি শ্রদ্ধেয় তেবারম নাম বহনকারী ছোট মাডকোইলের সরল, অত্বরিত ভক্তি প্রদান করে। বৈগলনাথরের উচ্চস্থিত গর্ভগৃহে আরোহণ করে, একটি চম্পক বনের স্মৃতির মাঝে, দর্শনার্থী এমন একটি তীর্থের সাক্ষাৎ পান যার নিরিবিলি টিকে থাকা নিজেই এর কৃপার অংশ—ব-দ্বীপের ছোট সম্পদগুলির একটি, বিশ্বস্ত হাতে জীবন্ত রাখা।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Vaikal is near Kumbakonam (sources also list it under Nagapattinam district), about 12 km from Kumbakonam; Kumbakonam is the nearest rail head, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরবিধি অনুসারে সাধারণত বাইরের অংশে ছবি তোলা অনুমোদিত কিন্তু ভেতরের গর্ভগৃহে নিষিদ্ধ; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "বৈগল কুম্বকোণমের কাছে (সূত্রে একে নাগাপট্টিনম জেলার অধীনেও তালিকাভুক্ত করা হয়), কুম্বকোণম থেকে প্রায় ১২ কিমি দূরে; কুম্বকোণম নিকটতম রেলস্টেশন, গ্রামে স্থানীয় বাস ও ট্যাক্সি সহ।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vaikalnathar-vaikal.mp3",
+    "durationSec": 196
   }
 }

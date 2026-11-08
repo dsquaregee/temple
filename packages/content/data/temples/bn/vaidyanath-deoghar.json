@@ -1,30 +1,41 @@
 {
   "id": "vaidyanath-deoghar",
   "locale": "bn",
+  "name": "বৈদ্যনাথ মন্দির, দেওঘর",
   "nativeName": "श्री बैद्यनाथ ज्योतिर्लिंग मंदिर",
+  "deity": "বৈদ্যনাথ (বৈদ্যনাথ), চিকিৎসকদের প্রভু রূপে শিব—বারোটি জ্যোতির্লিঙ্গের একটি, এখানে দেবী একটি শক্তিপীঠ রূপে সম্মানিত",
+  "tradition": "শৈবধর্ম ও শাক্তধর্ম",
   "location": {
-    "city": "Deoghar",
-    "state": "Jharkhand",
+    "city": "দেওঘর",
+    "state": "ঝাড়খণ্ড",
     "lat": 24.4925,
     "lng": 86.7
   },
+  "period": "পূর্ব ভারতের একটি প্রাচীন তীর্থ; মূল মন্দিরের সম্মুখভাগ ১৫৯৬ সালে গিধৌরের পূরণ মলের কৃতিত্ব বলে গণ্য",
   "century": 16,
+  "dynasty": "গিধৌরের পূরণ মল (১৫৯৬) ও পরবর্তী পৃষ্ঠপোষকগণ",
+  "style": "নাগর (পূর্ব ভারতীয়)",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "দেবতাদের আবাস দেওঘরে শিব বৈদ্যনাথ রূপে পূজিত, সেই দিব্য চিকিৎসক—বারোটি জ্যোতির্লিঙ্গের একটি, যেখানে প্রতি শ্রাবণে লক্ষ লক্ষ তীর্থযাত্রী সুলতানগঞ্জ থেকে গঙ্গাজল বয়ে পায়ে হেঁটে আসেন।",
   "sections": {
-    "history": "Deoghar, whose name means the abode of the gods, lies in the Santhal Pargana country of Jharkhand, and its temple of Baba Baidyanath is among the most visited shrines of eastern India. Baidyanath is honoured as one of the twelve Jyotirlingas named in the Dvadasha Jyotirlinga Stotram; Parli Vaijnath in Maharashtra is also revered by many as the Vaidyanath of the twelve, and both shrines are dear to their devotees. Deoghar is counted, too, among the Shakti Peethas, so that Shiva and the goddess are worshipped side by side. The builder of the main temple is not recorded, but a Sanskrit inscription credits Puran Mal, an ancestor of the rulers of Gidhaur, with work on its front portion in 1596.",
-    "architecture": "The main shrine is a tall, plain tower of the eastern Nagara kind, whitewashed and crowned not with a trident but with a panchashula, a five-pointed emblem that marks this temple. Around it a walled courtyard holds twenty-one further shrines, making twenty-two in all, among them the temple of Parvati. Long bands of red cloth are tied between the spires of Shiva's and Parvati's shrines as a sign of their union. The Jyotirlinga within is small, its top slightly broken, a mark the legend explains.",
-    "legends": "Ravana, it is told, performed severe penance to win Shiva, offering his heads one by one; the lord restored him as a physician heals, and so is called Vaidyanath. Granted the linga to carry to Lanka, Ravana was bound not to set it down on the way. At Deoghar he was compelled to stop and handed it to a cowherd, remembered as Baiju, who placed it on the ground, and there it stayed. Ravana's thumb, pressed in anger, is said to have left the mark on the linga.",
-    "festivals": "The Shravani Mela, through the month of Shravan in the monsoon, is the great season: saffron-clad kanwariyas collect Ganga water at Sultanganj in Bihar and walk about 105 km, calling \"Bol Bam\", to pour it on the Jyotirlinga. Maha Shivaratri is kept with night-long worship. Confirm dates locally.",
-    "experience": "In Shravan the road from Sultanganj becomes a river of pilgrims, and the temple town hums day and night. Outside the season, darshan is calmer, and pilgrims can walk the courtyard from shrine to shrine and see the red bands joining the spires. Many go on afterwards to the Basukinath temple, about 45 km away, to complete the pilgrimage."
+    "history": "দেওঘর, যার নামের অর্থ দেবতাদের আবাস, ঝাড়খণ্ডের সাঁওতাল পরগনা অঞ্চলে অবস্থিত, এবং বাবা বৈদ্যনাথের মন্দির পূর্ব ভারতের সবচেয়ে বেশি পরিদর্শিত তীর্থগুলির একটি। দ্বাদশ জ্যোতির্লিঙ্গ স্তোত্রমে নামাঙ্কিত বারোটি জ্যোতির্লিঙ্গের একটি রূপে বৈদ্যনাথ সম্মানিত; মহারাষ্ট্রের পারলি বৈজনাথও বহু মানুষের কাছে বারোটির বৈদ্যনাথ রূপে পূজিত, এবং উভয় তীর্থই তাদের ভক্তদের প্রিয়। দেওঘর শক্তিপীঠগুলির মধ্যেও গণ্য, যাতে শিব ও দেবী পাশাপাশি পূজিত হন। মূল মন্দিরের নির্মাতা নথিবদ্ধ নেই, তবে একটি সংস্কৃত শিলালিপি ১৫৯৬ সালে এর সম্মুখভাগের কাজের জন্য গিধৌরের শাসকদের পূর্বপুরুষ পূরণ মলকে কৃতিত্ব দেয়।",
+    "architecture": "মূল তীর্থটি পূর্ব নাগর ধরনের একটি উঁচু, সাদাসিধা চূড়া, চুনকাম করা এবং ত্রিশূলে নয় বরং পঞ্চশূলে—একটি পাঁচ-কোণবিশিষ্ট প্রতীকে—শোভিত, যা এই মন্দিরকে চিহ্নিত করে। এর চারপাশে একটি প্রাচীরঘেরা প্রাঙ্গণে আরও একুশটি তীর্থ রয়েছে, সর্বমোট বাইশটি, যার মধ্যে পার্বতীর মন্দির। শিব ও পার্বতীর তীর্থের চূড়ার মধ্যে লম্বা লাল কাপড়ের ফিতা বাঁধা হয় তাঁদের মিলনের চিহ্ন রূপে। ভেতরের জ্যোতির্লিঙ্গ ছোট, এর শীর্ষ কিছুটা ভাঙা, যে চিহ্ন কিংবদন্তি ব্যাখ্যা করে।",
+    "legends": "কথিত আছে, রাবণ শিবকে লাভ করতে কঠোর তপস্যা করেছিলেন, একে একে তাঁর মস্তক নিবেদন করে; প্রভু তাঁকে পুনরুদ্ধার করেন যেমন চিকিৎসক আরোগ্য করেন, আর তাই তিনি বৈদ্যনাথ নামে পরিচিত। লঙ্কায় বহনের জন্য লিঙ্গ পেয়ে, রাবণ পথে তা নামিয়ে না রাখতে বাধ্য ছিলেন। দেওঘরে তিনি থামতে বাধ্য হন এবং এক গোপালককে তা দিয়ে দেন, যিনি বৈজু নামে স্মরণীয়, যিনি তা মাটিতে রাখেন, এবং সেখানেই তা স্থির হয়ে যায়। রাবণের বুড়ো আঙুল, ক্রোধে চেপে ধরা, লিঙ্গে চিহ্ন রেখে গেছে বলে কথিত।",
+    "festivals": "শ্রাবণী মেলা, বর্ষায় শ্রাবণ মাস জুড়ে, মহান ঋতু: গেরুয়াধারী কানওয়ারিয়ারা বিহারের সুলতানগঞ্জে গঙ্গাজল সংগ্রহ করেন এবং প্রায় ১০৫ কিমি হেঁটে, 'বোল বম' বলে ডাকতে ডাকতে, জ্যোতির্লিঙ্গে তা ঢালেন। মহাশিবরাত্রি রাত্রিব্যাপী পূজায় পালিত হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "শ্রাবণে সুলতানগঞ্জ থেকে রাস্তা তীর্থযাত্রীদের এক নদীতে পরিণত হয়, এবং মন্দির-শহর দিনরাত সরগরম থাকে। ঋতুর বাইরে দর্শন শান্ততর, এবং তীর্থযাত্রীরা প্রাঙ্গণে তীর্থ থেকে তীর্থে হাঁটতে পারেন ও চূড়া জোড়া লাল ফিতা দেখতে পারেন। অনেকে পরে প্রায় ৪৫ কিমি দূরের বাসুকিনাথ মন্দিরে তীর্থযাত্রা সম্পূর্ণ করতে যান।"
   },
   "visit": {
-    "timings": "Open daily from early morning to night; during the Shravani Mela and on Maha Shivaratri special queue arrangements apply. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; follow the posted rules and staff guidance.",
-    "gettingThere": "Deoghar is reached by rail via Jasidih Junction on the Howrah–Delhi main line, about 7 km away, with a branch line to Baidyanath Dham station; Deoghar also has its own airport. Kanwariyas walk from Sultanganj in Bihar, about 105 km away."
+    "timings": "প্রতিদিন ভোর থেকে রাত পর্যন্ত খোলা থাকে; শ্রাবণী মেলার সময় ও মহাশিবরাত্রিতে বিশেষ সারিবদ্ধ ব্যবস্থা প্রযোজ্য। যাওয়ার আগে বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভেতরে ছবি তোলা অনুমোদিত নয়; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "দেওঘরে পৌঁছানো যায় হাওড়া–দিল্লি মূল লাইনের জসিডি জংশন হয়ে রেলপথে, প্রায় ৭ কিমি দূরে, বৈদ্যনাথ ধাম স্টেশন পর্যন্ত একটি শাখা লাইন সহ; দেওঘরের নিজস্ব বিমানবন্দরও আছে। কানওয়ারিয়ারা বিহারের সুলতানগঞ্জ থেকে প্রায় ১০৫ কিমি হেঁটে আসেন।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vaidyanath-deoghar.mp3",
+    "durationSec": 195
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.webp"
     },
     "og": "https://media.dsquaregee.com/og/vaidyanath-deoghar.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/vaidyanath-deoghar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.jpg",
+    "durationSec": 153,
+    "credit": "Kishlay RF / Wikimedia Commons (CC BY-SA 3.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }
 }
