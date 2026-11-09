@@ -1,29 +1,36 @@
 {
   "id": "pasupatheeswarar-tirukkondeeswaram",
   "locale": "mr",
+  "name": "पशुपतीश्वरर मंदिर, तिरुक्कोंडीश्वरम",
   "nativeName": "திருக்கொண்டீஸ்வரம் பசுபதீஸ்வரர் கோயில்",
+  "deity": "पशुपतीश्वरर (जुरहरेश्वरर) रूपातील शिव, देवी शांतनायकी यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळ",
   "location": {
-    "city": "Tirukkondeeswaram, near Nannilam",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कोंडीश्वरम, नन्निलमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.88003,
     "lng": 79.62923
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "नन्निलमजवळ मुडिकोंडान नदीच्या दक्षिण काठावरील तिरुक्कोंडीश्वरम येथे शिवाची पशुपतीश्वरर म्हणून, देवी शांतनायकीसह, पूजा होते. अप्परांनी गायिलेले हे पाडल पेट्र स्थळ कामधेनूच्या पूजेशी जोडलेले आहे — ज्यामुळे प्रभू पशुपतीश्वरर आहेत — आणि अगस्त्य ऋषींशीही, ज्यांचा ताप शिवाने येथे बरा केला, म्हणून ते जुरहरेश्वररही आहेत.",
   "sections": {
-    "history": "Tirukkondeeswaram lies about 17 km north of Tiruvarur, on the southern bank of the Mudikondan river, with Nannilam (another Paadal Petra Sthalam) about 2.5 km to the west, in Tiruvarur district. Listed in the Tevaram as Tirukkondeechuram, it is a Paadal Petra Sthalam whose hymns are attributed to Appar (Tirunavukkarasar). The area was once a forest of bilva trees, Vilvaranyam; the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Pasupatheeswarar in the sanctum, with the goddess Shanthanayaki in her own shrine, a Nandi and the parivara devatas about the prakara. The lingam is said to bear the mark of a cow's horn, from the sthala legend. The temple keeps the form of the Shiva shrines of the Nannilam delta.",
-    "legends": "In the sthala purana, Parvati was cursed to take the form of Kamadhenu, the celestial cow; her horns struck the buried lingam, and she poured her milk over it to staunch the hurt — a scar from the horn is said to be visible still. Because the divine cow (pasu) worshipped here, Shiva is Pasupateeswarar, 'the lord of cattle.' When sage Agastya came with a high fever, the lord cured it unasked, and so is also called Jurahareswarar, 'remover of fever.' The goddess Shanthanayaki stands beside him.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims on the Nannilam stretch of the Paadal Petra temples include Tirukkondeeswaram among their stops.",
-    "experience": "At Tirukkondeeswaram the pilgrim comes to the lord of cattle by the Mudikondan. Before Pasupatheeswarar and Shanthanayaki, the visitor finds the quiet grace of a Tevaram temple of the Nannilam delta, and the memory of Kamadhenu's worship and the fever Shiva turned aside for Agastya."
+    "history": "तिरुक्कोंडीश्वरम तिरुवारूरच्या उत्तरेस सुमारे १७ किमी अंतरावर, मुडिकोंडान नदीच्या दक्षिण काठावर आहे; तिरुवारूर जिल्ह्यात पश्चिमेस सुमारे अडीच किमीवर नन्निलम (आणखी एक पाडल पेट्र स्थळ) आहे. तेवारममध्ये तिरुक्कोंडीचुरम म्हणून नोंदलेले हे पाडल पेट्र स्थळ आहे, ज्याची स्तोत्रे अप्परांची (तिरुनावुक्करसर) मानली जातात. हा परिसर एकेकाळी बिल्ववृक्षांचे वन, विल्वारण्यम, होता; दगडी मंदिर चोळ काळाचे व नंतरचे आहे.",
+    "architecture": "हे द्रविड शैलीचे त्रिभुज-प्रदेशातील मंदिर आहे; गर्भगृहात पशुपतीश्वरर विराजमान आहेत, देवी शांतनायकी स्वतःच्या गर्भगृहात आहे, आणि प्राकाराभोवती नंदी व परिवार देवता आहेत. स्थलकथेनुसार लिंगावर गायीच्या शिंगाचा व्रण असल्याचे सांगितले जाते. हे मंदिर नन्निलम त्रिभुज-प्रदेशातील शिवमंदिरांचे स्वरूप जपते.",
+    "legends": "स्थलपुराणानुसार, पार्वतीला शाप मिळून तिला दिव्य गाय कामधेनूचे रूप घ्यावे लागले; तिच्या शिंगांनी गाडलेल्या लिंगाला धक्का लागला, आणि ती दुखापत शांत करण्यासाठी तिने त्यावर आपले दूध ओतले — शिंगाचा व्रण आजही दिसतो असे सांगितले जाते. दिव्य गायीने (पशु) येथे पूजा केल्यामुळे शिव पशुपतीश्वरर, म्हणजे 'गुरांचे स्वामी', आहेत. अगस्त्य ऋषी तीव्र तापाने येथे आले तेव्हा प्रभूने न मागता तो बरा केला, म्हणून त्यांना जुरहरेश्वरर, म्हणजे 'तापाचे हरण करणारे', असेही म्हणतात. देवी शांतनायकी त्यांच्या शेजारी उभी आहे.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्र आणि कार्तिगैच्या सोमवारी प्रदोष पूजेसह साजरे केले जाते. नन्निलम परिसरातील पाडल पेट्र मंदिरांच्या यात्रेतील यात्रेकरू तिरुक्कोंडीश्वरमचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "तिरुक्कोंडीश्वरममध्ये यात्रेकरू मुडिकोंडानच्या काठी गुरांच्या स्वामीकडे येतो. पशुपतीश्वरर आणि शांतनायकीसमोर अभ्यागताला नन्निलम त्रिभुज-प्रदेशातील तेवारम मंदिराची शांत कृपा, कामधेनूच्या पूजेची स्मृती आणि अगस्त्यांसाठी शिवाने दूर केलेल्या तापाची आठवण भेटते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkondeeswaram lies about 17 km north of Tiruvarur, on the southern bank of the Mudikondan, with Nannilam about 2.5 km west, in Tiruvarur district. Nannilam and Tiruvarur are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर तपासून घ्या, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे व गुडघे झाकलेले; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाह्य ओवऱ्यांमध्ये छायाचित्रण साधारणपणे चालते, पण गर्भगृहात नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुक्कोंडीश्वरम तिरुवारूर जिल्ह्यात, तिरुवारूरच्या उत्तरेस सुमारे १७ किमी अंतरावर, मुडिकोंडानच्या दक्षिण काठावर आहे; पश्चिमेस सुमारे अडीच किमीवर नन्निलम आहे. नन्निलम आणि तिरुवारूर ही जवळची शहरे व रेल्वे स्थानके असून, गावापर्यंत बस व टॅक्सी जातात."
   }
 }

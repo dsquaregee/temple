@@ -1,30 +1,37 @@
 {
   "id": "pavalavannar-kanchipuram",
   "locale": "mr",
+  "name": "पवळवण्णर पेरुमाळ मंदिर (तिरुप्पवळवण्णम), कांचीपुरम",
   "nativeName": "பவளவண்ணப் பெருமாள் கோயில் (திருப்பவளவண்ணம்), காஞ்சிபுரம்",
+  "deity": "पवळवण्णर, प्रवाळवर्णी प्रभू, रूपातील विष्णू, देवी पवळवल्ली तायार यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.8444,
     "lng": 79.7044
   },
+  "period": "तोंडै नाडूमधील एक दिव्य देशम, नालायिर दिव्य प्रबंधमध्ये तिरुमंगै आळवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "तोंडै नाडूची मंदिर-परंपरा",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "कांचीपुरममधील तिरुप्पवळवण्णम येथे विष्णूची पवळवण्णर, प्रवाळवर्णी प्रभू, म्हणून देवी पवळवल्ली तायार हिच्यासह पूजा होते — तिरुमंगै आळवार यांनी गायिलेला तोंडै नाडूमधील एक दिव्य देशम.",
   "sections": {
-    "history": "Thiruppavalavannam is one of the 108 Divya Desams, the abodes of Vishnu praised by the Alvars in the Nalayira Divya Prabandham, and it belongs to Thondai Nadu. Thirumangai Alvar sang the Lord of this shrine, and the tradition holds that Peyalvar and Thirumazhisai Alvar, too, celebrated the different forms of God worshipped within this temple. It stands in Kanchipuram, the ancient temple city, where a pilgrim can walk from one Divya Desam to the next. The name itself carries the devotion: Pavalavannar means the one whose hue is that of red coral, the colour in which the devotees have long seen their Lord.",
-    "architecture": "The sanctum houses Pavalavannar, and the Goddess is honoured as Pavalavalli Thayar, whose shrine stands in the outer prakaram together with that of Andal. North of the flagstaff are separate shrines for the Alvars, a reminder that this is a temple of the Divya Prabandham as much as of the image. The pillared courts and processional paths follow the familiar Dravidian plan of the Vaishnava temples of Kanchipuram.",
-    "legends": "The sthala purana tells of the sage Bhrigu, who set out to learn which of the three great deities, Brahma, Vishnu or Shiva, was supreme, and tested each in turn. At this place Vishnu appeared before the sage as Pavalavannar, the coral-hued Lord. The shrine therefore remembers a story of humility and patience: the Lord who receives the sage's test with grace, and shows his form to the seeker who has come in search of truth.",
-    "festivals": "Vaikunta Ekadashi is the great day of the Vaishnava year here, as at every Divya Desam, and the verses of the Divya Prabandham are recited on festival days, including those of Thirumangai Alvar. The temple also takes part in the festival life of Kanchipuram. Confirm dates locally.",
-    "experience": "A quiet, devotional visit rewards those who go slowly: the coral-hued Lord in the sanctum, the shrine of Pavalavalli Thayar and Andal in the outer prakaram, and the Alvars north of the flagstaff. Many pilgrims pair it with the nearby Pachaivannar shrine, the emerald-hued Lord, so that the two colours of Vishnu are seen on the same walk. Combine it with other Divya Desams of Kanchipuram."
+    "history": "तिरुप्पवळवण्णम हे १०८ दिव्य देशमांपैकी एक आहे, म्हणजे नालायिर दिव्य प्रबंधमध्ये आळवारांनी स्तुती केलेल्या विष्णूच्या निवासांपैकी, आणि ते तोंडै नाडूचे आहे. तिरुमंगै आळवार यांनी या मंदिराच्या प्रभूचे गायन केले, आणि पेयाळवार व तिरुमळिसै आळवार यांनीही या मंदिरात पूजल्या जाणाऱ्या देवाच्या विविध रूपांचा गौरव केला, अशी परंपरा आहे. हे प्राचीन मंदिरनगर कांचीपुरममध्ये आहे, जेथे यात्रेकरू एका दिव्य देशमातून दुसऱ्याकडे चालत जाऊ शकतो. नावातच भक्ती सामावलेली आहे: पवळवण्णर म्हणजे ज्याचा वर्ण लाल प्रवाळाचा आहे तो, ज्या रंगात भक्तांनी दीर्घकाळ आपल्या प्रभूला पाहिले आहे.",
+    "architecture": "गर्भगृहात पवळवण्णर विराजमान आहेत, आणि देवीची पूजा पवळवल्ली तायार म्हणून होते, जिचे गर्भगृह बाह्य प्राकारात आंडाळच्या गर्भगृहासह आहे. ध्वजस्तंभाच्या उत्तरेस आळवारांसाठी स्वतंत्र गर्भगृहे आहेत, जे आठवण करून देतात की हे मंदिर मूर्तीइतकेच दिव्य प्रबंधाचेही मंदिर आहे. स्तंभयुक्त प्रांगणे आणि प्रदक्षिणामार्ग कांचीपुरमच्या वैष्णव मंदिरांच्या परिचित द्रविड आराखड्याचे अनुसरण करतात.",
+    "legends": "स्थलपुराण भृगू ऋषींची कथा सांगते, जे ब्रह्मा, विष्णू आणि शिव या तीन महान देवतांपैकी श्रेष्ठ कोण हे शोधण्यास निघाले आणि प्रत्येकाची परीक्षा घेतली. या स्थानी विष्णू ऋषींसमोर पवळवण्णर, प्रवाळवर्णी प्रभू, म्हणून प्रकट झाले. म्हणून हे मंदिर नम्रता आणि संयमाची कथा स्मरते: जो प्रभू ऋषींची परीक्षा कृपेने स्वीकारतो, आणि सत्याच्या शोधात आलेल्या साधकाला आपले रूप दाखवतो.",
+    "festivals": "प्रत्येक दिव्य देशमाप्रमाणे येथेही वैकुंठ एकादशी हा वैष्णव वर्षातील महान दिवस आहे, आणि उत्सवाच्या दिवशी, तिरुमंगै आळवारांच्या दिवसांसह, दिव्य प्रबंधातील ओवी म्हटल्या जातात. मंदिर कांचीपुरमच्या उत्सव-जीवनातही सहभागी होते. तारखा स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "शांत, भक्तिमय भेट सावकाश जाणाऱ्यांना पुरस्कृत करते: गर्भगृहातील प्रवाळवर्णी प्रभू, बाह्य प्राकारातील पवळवल्ली तायार आणि आंडाळ यांचे गर्भगृह, आणि ध्वजस्तंभाच्या उत्तरेकडील आळवार. अनेक यात्रेकरू जवळच्या पच्चैवण्णर, म्हणजे पाचूवर्णी प्रभू, यांच्या मंदिरासह ही भेट जोडतात, म्हणजे एकाच फेरीत विष्णूचे दोन्ही रंग दिसतात. कांचीपुरमच्या इतर दिव्य देशमांसह ही भेट जोडा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple stands in Kanchipuram, about 1.5 km from Kanchipuram railway station and about 2.5 km from the bus stand, so auto-rickshaws or a short walk suffice. Chennai, about 70 km to the north-east, is the nearest major airport."
+    "timings": "दररोज उघडे असते; सकाळी व संध्याकाळी दर्शनाची सत्रे असतात आणि दुपारी बंद असते; वैकुंठ एकादशी आणि उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "मंदिर कांचीपुरममध्ये, कांचीपुरम रेल्वे स्थानकापासून सुमारे दीड किमी आणि बस स्थानकापासून सुमारे अडीच किमी अंतरावर आहे, त्यामुळे रिक्षा किंवा थोडी पायपीट पुरेशी आहे. ईशान्येस सुमारे ७० किमीवरील चेन्नई हे सर्वांत जवळचे मोठे विमानतळ आहे."
   }
 }
