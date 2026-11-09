@@ -1,29 +1,40 @@
 {
   "id": "agneeswarar-tirukkollikadu",
   "locale": "mr",
+  "name": "अग्नीश्वरर मंदिर, तिरुक्कोळ्ळिक्काडु",
   "nativeName": "திருக்கொள்ளிக்காடு அக்னீஸ்வரர் கோயில்",
+  "deity": "अग्नीश्वरर रूपातील शिव, देवी पंजिन मेल्लडि अम्मै (मृदुपाद नायकी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Tirukkollikadu, near Thiruthuraipoondi",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कोळ्ळिक्काडु, तिरुतुरैप्पूंडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.62,
     "lng": 79.72
   },
+  "period": "तेवारम काळ (सातव्या शतकात स्तुती केलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "खालच्या तिरुवारूर त्रिभुज-प्रदेशातील तिरुतुरैप्पूंडीजवळ असलेल्या तिरुक्कोळ्ळिक्काडु येथे शिवाची अग्नीश्वरर रूपात, देवी पंजिन मेल्लडि अम्मैसह, पूजा केली जाते. तिरुज्ञान संबंधर यांनी स्तुती केलेले हे पाडल पेट्र स्थळम् — कावेरीच्या दक्षिण काठावरील ११५ वे मंदिर — अग्निदेव अग्नीच्या पूजेशी निगडित आहे, ज्यावरून स्वामींना हे नाव मिळाले.",
   "sections": {
-    "history": "Tirukkollikadu lies about 18 km from Thiruthuraipoondi (and some 18–25 km from Tiruvarur), in Tiruvarur district. It is a Paadal Petra Sthalam (No. 115 on the southern bank of the Kaveri), hymned in the Tevaram by Tirugnana Sambandar. The stone temple is of the Chola period and later, keeping the form of the Shiva shrines of the lower delta.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Agneeswarar in the sanctum, with the goddess Panjin Melladi Ammai — 'she of feet soft as cotton,' also named Mridupada Nayaki — in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram keep the form of the Shiva temples of the lower Tiruvarur delta.",
-    "legends": "Shiva is worshipped here as Agneeswarar, 'the lord of Agni,' from the worship offered by Agni, the fire-god, who by tradition did penance here; the lord's name recalls that devotion. The goddess is Panjin Melladi Ammai, whose feet are soft as cotton (panju). As with many delta shrines, the fuller sthala purana survives in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims of the Thiruthuraipoondi tract include Tirukkollikadu among their stops.",
-    "experience": "At Tirukkollikadu the pilgrim comes to the lord of the fire-god's worship. Before Agneeswarar and Panjin Melladi Ammai, in the lower Tiruvarur delta, the visitor finds the unhurried grace of a Tevaram temple, firm in the devotion of Agni that gives the lord his name."
+    "history": "तिरुक्कोळ्ळिक्काडु तिरुवारूर जिल्ह्यात तिरुतुरैप्पूंडीपासून सुमारे १८ कि.मी. (आणि तिरुवारूरपासून सुमारे १८–२५ कि.मी.) अंतरावर आहे. हे पाडल पेट्र स्थळम् (कावेरीच्या दक्षिण काठावरील क्र. ११५) असून तिरुज्ञान संबंधर यांनी तेवारममध्ये त्याची स्तुती केली आहे. येथील दगडी मंदिर चोळ काळातील व त्यानंतरचे असून खालच्या त्रिभुज-प्रदेशातील शिव मंदिरांचे स्वरूप जपून आहे.",
+    "architecture": "हे द्रविड शैलीतील त्रिभुज-प्रदेशातील मंदिर आहे; गर्भगृहात अग्नीश्वरर विराजमान आहेत, तर देवी पंजिन मेल्लडि अम्मै — 'कापसासारखी मृदू पावले असलेली', मृदुपाद नायकी नावानेही ओळखली जाणारी — आपल्या स्वतंत्र मंदिरात आहे; प्राकाराभोवती नंदी व परिवार देवता आहेत. तटबंदीयुक्त प्रांगण आणि साधे गोपुर खालच्या तिरुवारूर त्रिभुज-प्रदेशातील शिव मंदिरांचे स्वरूप जपतात.",
+    "legends": "येथे शिवाची अग्नीश्वरर, 'अग्नीचा स्वामी' म्हणून पूजा होते; परंपरेनुसार अग्निदेवाने येथे तपश्चर्या करून केलेल्या पूजेमुळे स्वामींचे नाव त्या भक्तीचे स्मरण करून देते. देवी पंजिन मेल्लडि अम्मै आहे, जिची पावले कापसासारखी (पंजु) मृदू आहेत. त्रिभुज-प्रदेशातील अनेक मंदिरांप्रमाणेच येथेही सविस्तर स्थलपुराण स्थानिक परंपरेत आणि संबंधरांच्या पदांत टिकून आहे.",
+    "festivals": "मंदिरात माघ (फेब्रुवारी–मार्च) महिन्यातील महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यातील नवरात्री आणि कार्तिगैच्या सोमवारी प्रदोष पूजेसह उत्सव साजरे होतात, गावातील लहानशा मंदिराच्या शांत स्वरूपात. तिरुतुरैप्पूंडी भागातील यात्रेकरू तिरुक्कोळ्ळिक्काडुचा आपल्या थांब्यांमध्ये समावेश करतात.",
+    "experience": "तिरुक्कोळ्ळिक्काडु येथे यात्रेकरू अग्निदेवाच्या पूजेच्या स्वामींसमोर येतो. खालच्या तिरुवारूर त्रिभुज-प्रदेशात, अग्नीश्वरर आणि पंजिन मेल्लडि अम्मैसमोर, अभ्यागताला तेवारम मंदिराची निवांत कृपा लाभते, जे स्वामींना नाव देणाऱ्या अग्नीच्या भक्तीत दृढ आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkollikadu lies about 18 km from Thiruthuraipoondi in Tiruvarur district. Thiruthuraipoondi and Tiruvarur are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटे ते दुपारपर्यंत आणि पुन्हा सायंकाळी उशिरापासून रात्रीपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणामार्गात छायाचित्रणास सामान्यतः परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुक्कोळ्ळिक्काडु तिरुवारूर जिल्ह्यात तिरुतुरैप्पूंडीपासून सुमारे १८ कि.मी. अंतरावर आहे. तिरुतुरैप्पूंडी आणि तिरुवारूर ही जवळची शहरे व रेल्वे स्थानके आहेत; गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/agneeswarar-tirukkollikadu.mp3",
+    "durationSec": 152
   }
 }
