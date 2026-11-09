@@ -1,29 +1,36 @@
 {
   "id": "siddhanatheswarar-nachiyar",
   "locale": "mr",
+  "name": "सिद्धनाथेश्वर मंदिर, तिरुनरैयूर (नाचियार कोविल)",
   "nativeName": "திருநறையூர் சித்தநாதேஸ்வரர் கோயில்",
+  "deity": "सिद्धनाथेश्वर (सिद्धनाथेश्वरर) रूपातील शिव, देवी सौंदरनायकी (अळगांबिकै) सह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम",
   "location": {
-    "city": "Tirunaraiyur, near Nachiyar Koil",
-    "state": "Tamil Nadu",
+    "city": "तिरुनरैयूर, नाचियार कोविलजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9185,
     "lng": 79.448
   },
+  "period": "तेवारम काळ (७ व्या शतकात स्तुत); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमजवळील प्रसिद्ध नाचियार कोविलच्या शेजारी असलेले तिरुनरैयूर शिवाला सिद्धनाथेश्वर — सिद्धांचा स्वामी — म्हणून, देवी सौंदरनायकीसह, पूजते. संबंध आणि सुंदर यांनी गायलेले हे पाडल पेट्र स्थळम असून त्याची कथा शेजारच्या वैष्णव मंदिराशी जोडलेली आहे: येथे मेधावी ऋषींनी लक्ष्मीने आपली कन्या म्हणून जन्म घ्यावा या इच्छेसाठी तप केले, आणि ती इच्छा नाचियार कोविलची देवी नाचियार म्हणून पूर्ण झाली.",
   "sections": {
-    "history": "Tirunaraiyur, whose historical name is Tirunaraiyur Chittechuram, lies about 8–10 km from Kumbakonam on the road to Tiruvarur, in Thanjavur district, right beside the celebrated Nachiyar Koil (the Divya Desam of Srinivasa Perumal and the goddess Nachiyar), scarcely a kilometre away. It is a Paadal Petra Sthalam, hymned by Tirugnana Sambandar and Sundarar. The Shiva and Vishnu shrines of Narayur share a single sthala story, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of the delta, the shrine enshrines Siddha Natheswarar in the sanctum, with the goddess Soundara Nayaki — also Azhagambikai — in her own shrine, a Nandi and the parivara devatas. The lord's name Siddha Natheswarar, 'lord of the siddhas,' recalls the siddha associations of the place, including the healing of Gorakkar; the oil of the lord's abhishekam is held to cure disease.",
-    "legends": "The great legend joins Shiva to the Vishnu temple next door. The sage Medhavi did penance here with a rare wish — that Mahalakshmi, consort of Vishnu, be born as his daughter — and Shiva conveyed the wish to Vishnu, so that Lakshmi was born as Vanjulavalli and became the Nachiyar of Nachiyar Koil. A siddha legend tells that Gorakkar, afflicted by a skin disease born of a curse, was cured by applying the oil used in the lord's abhishekam — hence Siddha Natheswarar. The place is also called Narapuram, for one Naran, cursed by Durvasa, who worshipped here.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims visiting the Nachiyar Koil Divya Desam very often cross to Siddha Natheswarar, honouring the shared story of Shiva and the birth of the goddess.",
-    "experience": "At Tirunaraiyur the pilgrim stands where Shaiva and Vaishnava devotion meet. Before Siddha Natheswarar, lord of the siddhas, and Soundara Nayaki, and within walking distance of the Nachiyar Koil, the visitor remembers the sage who wished Lakshmi for a daughter and the healing oil of the siddhas — a shrine whose grace reaches across two great traditions."
+    "history": "तिरुनरैयूरचे ऐतिहासिक नाव तिरुनरैयूर चित्तेचुरम आहे; ते तंजावर जिल्ह्यात, कुंभकोणमपासून तिरुवारूरच्या रस्त्यावर सुमारे ८–१० किमीवर, प्रसिद्ध नाचियार कोविलच्या (श्रीनिवास पेरुमाळ आणि देवी नाचियार यांचे दिव्य देशम) अगदी शेजारी, जेमतेम एक किलोमीटरवर आहे. हे तिरुज्ञान संबंधर आणि सुंदरर यांनी गायलेले पाडल पेट्र स्थळम आहे. नारैयूरमधील शिव आणि विष्णू मंदिरे एकाच स्थलकथेत सामायिक आहेत, आणि दगडी मंदिर चोळ काळातील व त्यानंतरचे आहे.",
+    "architecture": "हे डेल्टा प्रदेशातील द्रविड शैलीचे मंदिर आहे; गर्भगृहात सिद्धनाथेश्वराची स्थापना आहे, देवी सौंदरनायकी — अळगांबिकै म्हणूनही ओळखली जाणारी — तिच्या स्वतंत्र मंदिरात आहे, तसेच नंदी आणि परिवार देवता आहेत. प्रभूचे नाव सिद्धनाथेश्वर, \"सिद्धांचा स्वामी\", या स्थळाच्या सिद्धपरंपरेची आठवण करून देते, ज्यात गोरक्करांच्या रोगमुक्तीचाही समावेश आहे; प्रभूच्या अभिषेकाचे तेल रोग बरा करते असे मानले जाते.",
+    "legends": "प्रमुख कथा शिवाला शेजारच्या विष्णू मंदिराशी जोडते. मेधावी ऋषींनी येथे एका दुर्मिळ इच्छेसाठी तप केले — की विष्णूची पत्नी महालक्ष्मीने त्यांची कन्या म्हणून जन्म घ्यावा — आणि शिवाने ही इच्छा विष्णूपर्यंत पोहोचवली, त्यामुळे लक्ष्मीने वंजुळवल्ली म्हणून जन्म घेतला आणि ती नाचियार कोविलची नाचियार झाली. एक सिद्धकथा सांगते की शापामुळे झालेल्या त्वचारोगाने पीडित गोरक्करांनी प्रभूच्या अभिषेकात वापरलेले तेल लावले आणि ते बरे झाले — म्हणून सिद्धनाथेश्वर. हे स्थळ नरपुरम असेही ओळखले जाते, कारण दुर्वासाने शाप दिलेला नरन नावाचा एक जण येथे पूजा करीत असे.",
+    "festivals": "मंदिरात माशी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्र, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यात नवरात्र आणि कार्तिकाचे सोमवार प्रदोष पूजेसह साजरे केले जातात. नाचियार कोविल दिव्य देशमला भेट देणारे यात्रेकरू शिव आणि देवीच्या जन्माच्या सामायिक कथेचा आदर करीत अनेकदा सिद्धनाथेश्वराच्या दर्शनालाही जातात.",
+    "experience": "तिरुनरैयूर येथे यात्रेकरू शैव आणि वैष्णव भक्तीचा संगम होतो त्या ठिकाणी उभा असतो. सिद्धांचा स्वामी सिद्धनाथेश्वर आणि सौंदरनायकीसमोर, आणि नाचियार कोविलपासून चालत जाण्याच्या अंतरावर, पाहुण्याला लक्ष्मीला कन्या म्हणून इच्छिणाऱ्या ऋषींची आणि सिद्धांच्या उपचारी तेलाची आठवण होते — हे असे मंदिर आहे ज्याची कृपा दोन महान परंपरांपर्यंत पोहोचते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirunaraiyur is about 8–10 km from Kumbakonam on the road to Tiruvarur, right beside the Nachiyar Koil (less than 1 km), in Thanjavur district. Kumbakonam is the nearest major rail head, with frequent buses and taxis to Nachiyar Koil and the temple."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि पुन्हा संध्याकाळच्या उत्तरार्धापासून रात्रीपर्यंत खुले असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर पडताळून घ्या.",
+    "dressCode": "खांदे आणि गुडघे झाकलेला साधा पारंपरिक पोशाख अपेक्षित आहे; पादत्राणे प्रवेशद्वारावर ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गात छायाचित्रणाला साधारणपणे परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुनरैयूर तंजावर जिल्ह्यात, कुंभकोणमपासून तिरुवारूरच्या रस्त्यावर सुमारे ८–१० किमीवर, नाचियार कोविलच्या अगदी शेजारी (१ किमीपेक्षा कमी) आहे. कुंभकोणम हे सर्वात जवळचे प्रमुख रेल्वे स्थानक आहे; तेथून नाचियार कोविल आणि मंदिरासाठी वारंवार बस आणि टॅक्सी मिळतात."
   }
 }

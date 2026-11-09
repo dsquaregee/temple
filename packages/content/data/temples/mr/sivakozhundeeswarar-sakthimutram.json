@@ -1,29 +1,36 @@
 {
   "id": "sivakozhundeeswarar-sakthimutram",
   "locale": "mr",
+  "name": "शिवकोळुंदीश्वर मंदिर, तिरुचत्तिमुट्रम",
   "nativeName": "திருச்சத்திமுற்றம் சிவக்கொழுந்தீஸ்வரர் கோயில்",
+  "deity": "शिवकोळुंदीश्वर (शिवाचा कोवळा अंकुर) रूपातील शिव, देवी पेरियनायकी सह",
+  "tradition": "शैव — अप्पर यांनी गायलेले पाडल पेट्र स्थळम",
   "location": {
-    "city": "Tiruchattimutram, near Patteeswaram",
-    "state": "Tamil Nadu",
+    "city": "तिरुचत्तिमुट्रम, पट्टीश्वरमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9333,
     "lng": 79.36
   },
+  "period": "तेवारम काळ; पहिल्या राजराजा चोळाच्या काळात दगडात पुनर्बांधणी",
   "century": 9,
+  "dynasty": "चोळ (पहिल्या राजराजापासून)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कावेरी प्रदेशातील पट्टीश्वरमजवळचे तिरुचत्तिमुट्रम शिवाला शिवकोळुंदीश्वर — शिवाचा कोवळा हिरवा अंकुर — म्हणून, देवी पेरियनायकीसह, पूजते. अप्पर यांनी गायलेल्या या पाडल पेट्र स्थळमची परंपरा आहे की पार्वतीने येथे एका पायावर उभे राहून आणि लिंगाला आलिंगन देऊन कठोर तप केले, हे दाखवण्यासाठी की प्रेमळ भक्ती हाच कृपेचा मार्ग आहे. भक्त विवाहासाठी प्रार्थना घेऊन येतात, आणि पहिल्या राजराजा चोळाच्या काळात दगडात पुनर्बांधलेल्या या मंदिरात क्रमाक्रमाने आलेल्या राजवंशांचे शिलालेख आहेत.",
   "sections": {
-    "history": "Tiruchattimutram, also spelt Tirusakthimuttram, is an ancient Shaiva village near Patteeswaram, some seven to eight kilometres from Kumbakonam on the banks of a Kaveri branch. Hymned in the Tevaram by Appar and counted among the Paadal Petra Sthalams, the shrine was first built in brick and later rebuilt in granite under Raja Raja Chola I; inscriptions of Raja Raja I, Kulothunga III and the Vijayanagara kings survive on its walls, marking a span of patronage across centuries.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Sivakozhundeeswarar; the goddess Periyanayaki has her own shrine. The lingam is revered as the one the goddess embraced in her penance, a motif the temple shares with the great shrine at Kanchipuram. The granite fabric of the Raja Raja period and its inscriptions make the temple a quiet record of Chola building beside the Kaveri.",
-    "legends": "The defining tradition is Parvati's penance. By one account the goddess, to demonstrate that loving devotion is the sure path to grace, did severe tapas here — standing on one foot and embracing the lingam, as she did at Kanchipuram. Pleased, Shiva granted her his grace. From this the lord takes the tender name Sivakozhundeeswarar, the green sprout of Shiva, and the temple is believed to bless devotees who pray here for marriage and a worthy partner.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. The goddess's penance legend gives particular meaning to the festivals of Parvati, and the shrine draws those praying for marriage, especially on the goddess's days.",
-    "experience": "Tiruchattimutram offers the pilgrim a temple where the goddess herself is the model devotee — she who stood on one foot and embraced the lord. The darshan of Sivakozhundeeswarar, the tender sprout of Shiva, and the shrine's association with marriage give the quiet delta temple a gentle, hopeful draw, close to the great centres around Kumbakonam."
+    "history": "तिरुचत्तिमुट्रम, तिरुसक्तिमुत्तम असेही लिहिले जाते, हे पट्टीश्वरमजवळचे प्राचीन शैव गाव आहे, कुंभकोणमपासून सुमारे सात-आठ किलोमीटरवर कावेरीच्या एका फाट्याच्या काठावर. तेवारममध्ये अप्पर यांनी गायलेले आणि पाडल पेट्र स्थळमांमध्ये गणले जाणारे हे मंदिर प्रथम विटांनी बांधले गेले आणि नंतर पहिल्या राजराजा चोळाच्या काळात ग्रॅनाइटमध्ये पुन्हा बांधले गेले; पहिला राजराजा, तिसरा कुलोत्तुंग आणि विजयनगरचे राजे यांचे शिलालेख त्याच्या भिंतींवर टिकून आहेत, जे शतकानुशतकांच्या आश्रयाचा काळ दर्शवतात.",
+    "architecture": "मंदिर द्रविड आराखड्याचे पालन करते — गोपुर, प्राकार आणि शिवकोळुंदीश्वराचे गर्भगृह; देवी पेरियनायकीचे स्वतंत्र मंदिर आहे. देवीने तपात आलिंगन दिलेले लिंग हेच मानून त्याची पूजा केली जाते; हा आशय मंदिर कांचीपुरमच्या महान मंदिराशी सामायिक करते. राजराजाच्या काळातील ग्रॅनाइटची बांधणी आणि त्याचे शिलालेख या मंदिराला कावेरीकाठी चोळ बांधकामाची एक शांत नोंद बनवतात.",
+    "legends": "मूलभूत परंपरा पार्वतीच्या तपाची आहे. एका कथनानुसार, प्रेमळ भक्ती हाच निश्चित कृपेचा मार्ग आहे हे दाखवण्यासाठी देवीने येथे कठोर तप केले — कांचीपुरमप्रमाणेच एका पायावर उभे राहून आणि लिंगाला आलिंगन देऊन. प्रसन्न होऊन शिवाने तिला आपली कृपा दिली. यावरून प्रभूला शिवकोळुंदीश्वर — शिवाचा हिरवा अंकुर — हे कोमल नाव मिळाले, आणि येथे प्रार्थना करणाऱ्या भक्तांना विवाहासाठी आणि योग्य जोडीदारासाठी हे मंदिर आशीर्वाद देते असे मानले जाते.",
+    "festivals": "मंदिरात शैव उत्सव दिनदर्शिका पाळली जाते — महाशिवरात्र, प्रदोष, मार्गळी काळ आणि वार्षिक ब्रह्मोत्सव. देवीच्या तपाची कथा पार्वतीच्या उत्सवांना विशेष अर्थ देते, आणि विशेषतः देवीच्या दिवशी विवाहासाठी प्रार्थना करणारे भक्त या मंदिराकडे येतात.",
+    "experience": "तिरुचत्तिमुट्रम यात्रेकरूला असे मंदिर देते जेथे देवी स्वतःच आदर्श भक्त आहे — जिने एका पायावर उभे राहून प्रभूला आलिंगन दिले. शिवाचा कोवळा अंकुर असलेल्या शिवकोळुंदीश्वराचे दर्शन आणि विवाहाशी असलेला या मंदिराचा संबंध या शांत डेल्टा मंदिराला एक सौम्य, आशादायी आकर्षण देतात, जे कुंभकोणमभोवतालच्या महान केंद्रांच्या जवळ आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruchattimutram is near Patteeswaram in Thanjavur district, about 7-8 km from Kumbakonam; Kumbakonam is the nearest rail head, with local buses and taxis to the village."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि पुन्हा संध्याकाळच्या उत्तरार्धापासून रात्रीपर्यंत खुले असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर पडताळून घ्या.",
+    "dressCode": "खांदे आणि गुडघे झाकलेला साधा पारंपरिक पोशाख अपेक्षित आहे; पादत्राणे प्रवेशद्वारावर ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गात छायाचित्रणाला साधारणपणे परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुचत्तिमुट्रम तंजावर जिल्ह्यात पट्टीश्वरमजवळ, कुंभकोणमपासून सुमारे ७-८ किमीवर आहे; कुंभकोणम हे सर्वात जवळचे रेल्वे स्थानक आहे, तेथून गावासाठी स्थानिक बस आणि टॅक्सी मिळतात."
   }
 }
