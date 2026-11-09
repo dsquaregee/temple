@@ -1,30 +1,37 @@
 {
   "id": "kampahareswarar-thirubuvanam",
   "locale": "mr",
+  "name": "कंपहरेश्वर मंदिर, तिरुबुवनम",
   "nativeName": "கம்பஹரேஸ்வரர் கோயில்",
+  "deity": "कंपहरेश्वर (तिरुभुवन वीरेश्वर) रूपातील शिव, शरभेश्वरांच्या स्वतंत्र गर्भगृहासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thirubuvanam",
-    "state": "Tamil Nadu",
+    "city": "तिरुबुवनम",
+    "state": "तमिळनाडू",
     "lat": 10.99,
     "lng": 79.433
   },
+  "period": "बाराव्या शतकाच्या उत्तरार्धातील आणि तेराव्या शतकाच्या आरंभीचे उत्तरकालीन चोळ मंदिर",
   "century": 12,
+  "dynasty": "उत्तरकालीन चोळ (तिसरे कुलोत्तुंग)",
+  "style": "द्रविड (उत्तरकालीन चोळ)",
   "unesco": false,
   "circuits": [
     "kaveri-delta-temple-towns"
   ],
+  "summary": "तिरुबुवनम येथील कंपहरेश्वर हे मध्ययुगीन चोळांचे अखेरचे महान मंदिर आहे, जे तिसऱ्या कुलोत्तुंगांनी दारासुरमचे भावसाथी म्हणून उभारले, आणि शरभेश्वरांच्या गर्भगृहासाठी प्रसिद्ध आहे.",
   "sections": {
-    "history": "Thirubuvanam, also written Tribhuvanam, lies a few kilometres from Kumbakonam, and its great Shiva temple is credited to the Chola king Kulottunga III, who ruled in the late twelfth and early thirteenth centuries. It is reckoned the last of the four great medieval Chola temples, after Thanjavur, Gangaikonda Cholapuram and Darasuram. A Sanskrit inscription is understood to say that it was raised on the advice of the king's preceptor, Someshvara, to mark a victory over the Pandyas, and it names the god there as Tribhuvana Viresvara. Worship has continued without a break, and the temple is the natural companion to Darasuram on a day among the Chola temples.",
-    "architecture": "The temple is notable for its tall vimana, which rises with a presence unusual even among the great towers of the Kaveri delta. The main shrine and the shrine of Sarabeswarar both stand on raised platforms within the Dravidian enclosure, and the walls carry the carved panels and fine finish of late Chola craft, close in spirit to Darasuram nearby. The Lord is enshrined on a circular pedestal in the sanctum, and a separate shrine is devoted to Sarabeswarar, the great winged form of Shiva.",
-    "legends": "Two traditions gather here. In one, a king was afflicted with trembling and haunting fear after a Brahmin was killed by mistake; wandering in distress, he found relief at Thirubuvanam, and in thanksgiving to Shiva as the remover of trembling, Kampahareswarar, a temple was raised. In the other, after Narasimha slew the demon Hiranyakashipu, his fury would not subside, and the devas turned to Shiva, who took the form of Sarabha, part lion-beast and part great bird, to calm him. It is this Sarabeswarar form that draws many devotees here.",
-    "festivals": "Maha Shivaratri, the monthly Pradosham, Navaratri and Karthigai Deepam are observed with special worship, and many devotees time their visits to the Sarabeswarar shrine on days they hold auspicious. As in the other Chola Shiva temples of the delta, the festival calendar follows the Tamil months. Confirm dates locally.",
-    "experience": "Allow time for a slow walk around the platform of the main shrine, where the late Chola workmanship rewards close looking, and for the quiet of the Sarabeswarar shrine. The temple stands in a village setting, away from the press of the larger Kumbakonam temples, and is seldom crowded. Many visitors combine it with Darasuram and Thiruvidaimarudur in a single day among the Chola temples, and the lanes around offer a pleasant glimpse of village life in the delta."
+    "history": "तिरुबुवनम, ज्याला त्रिभुवनमही लिहितात, कुंभकोणमपासून काही किलोमीटर अंतरावर आहे, आणि त्याचे महान शिवमंदिर बाराव्या शतकाच्या उत्तरार्धात आणि तेराव्या शतकाच्या आरंभी राज्य करणाऱ्या चोळ राजा तिसरे कुलोत्तुंग यांच्याकडे श्रेय दिले जाते. तंजावूर, गंगैकोंड चोलपुरम आणि दारासुरम यांच्यानंतर मध्ययुगीन चार महान चोळ मंदिरांपैकी हे अखेरचे मानले जाते. एका संस्कृत शिलालेखाचा अर्थ असा लावला जातो की राजाचे गुरू सोमेश्वर यांच्या सल्ल्यानुसार पांड्यांवरील विजयाच्या स्मरणार्थ ते उभारले गेले, आणि तो तेथील देवाचे नाव त्रिभुवन वीरेश्वर असे नमूद करतो. पूजा अखंड चालू राहिली आहे, आणि चोळ मंदिरांतील एका दिवसाच्या भेटीत हे मंदिर दारासुरमचे स्वाभाविक सोबती आहे.",
+    "architecture": "हे मंदिर त्याच्या उंच विमानासाठी उल्लेखनीय आहे, जे कावेरी त्रिभुज-प्रदेशातील महान मनोऱ्यांमध्येही असामान्य अशा रुबाबाने उठते. मुख्य गर्भगृह आणि शरभेश्वरांचे गर्भगृह दोन्ही द्रविड आवारात उंच अधिष्ठानांवर उभे आहेत, आणि भिंतींवर उत्तरकालीन चोळ कारागिरीचे कोरीव फलक आणि सुबक कलाकुसर आहे, जी जवळच्या दारासुरमच्या भावाच्या जवळची आहे. गर्भगृहात प्रभू वर्तुळाकार पीठावर प्रतिष्ठापित आहेत, आणि शिवाचे महान पंखधारी रूप, शरभेश्वर, यांना स्वतंत्र गर्भगृह समर्पित आहे.",
+    "legends": "येथे दोन परंपरा एकवटतात. एकीनुसार, चुकून एका ब्राह्मणाची हत्या झाल्यानंतर एका राजाला कंपाने आणि झपाटणाऱ्या भीतीने ग्रासले; व्याकूळ होऊन भटकत असताना त्याला तिरुबुवनम येथे आराम मिळाला, आणि कंप दूर करणाऱ्या शिवाप्रती, कंपहरेश्वराप्रती, कृतज्ञता म्हणून मंदिर उभारले गेले. दुसऱ्या परंपरेनुसार, नरसिंहाने हिरण्यकशिपू दैत्याचा वध केल्यानंतर त्याचा क्रोध शमला नाही, आणि देव शिवाकडे वळले, ज्यांनी त्याला शांत करण्यासाठी शरभाचे रूप, अंशतः सिंह-पशू आणि अंशतः महान पक्षी, धारण केले. हेच शरभेश्वर रूप अनेक भक्तांना येथे आकर्षित करते.",
+    "festivals": "महाशिवरात्री, मासिक प्रदोष, नवरात्र आणि कार्तिगै दीपम् विशेष पूजेसह पाळले जातात, आणि अनेक भक्त आपल्या मते शुभ दिवशी शरभेश्वर गर्भगृहाला भेट देण्याची वेळ साधतात. त्रिभुज-प्रदेशातील इतर चोळ शिवमंदिरांप्रमाणे उत्सवपंचांग तमिळ महिन्यांनुसार चालते. तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "मुख्य गर्भगृहाच्या अधिष्ठानाभोवती सावकाश फेरी मारण्यास वेळ द्या, जेथे उत्तरकालीन चोळ कारागिरी बारकाईने पाहणाऱ्याला पुरस्कृत करते, आणि शरभेश्वर गर्भगृहाच्या शांततेसाठीही. मंदिर गावच्या परिसरात, कुंभकोणमच्या मोठ्या मंदिरांच्या गर्दीपासून दूर आहे, आणि क्वचितच गजबजलेले असते. अनेक अभ्यागत चोळ मंदिरांच्या एका दिवसात दारासुरम आणि तिरुविडैमरुदूर यांच्यासह ते जोडतात, आणि आजूबाजूच्या गल्ल्या त्रिभुज-प्रदेशातील गावजीवनाची सुखद झलक देतात."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thirubuvanam lies on the Kumbakonam–Mayiladuthurai road, a few kilometres from Kumbakonam, which has the nearest railway station and frequent buses. Autos and taxis from Kumbakonam make the short journey easily, and Darasuram and Thiruvidaimarudur are close by. Tiruchirappalli International Airport, about 100 km away, is the nearest airport."
+    "timings": "सामान्यतः सकाळी आणि पुन्हा दुपारी उशिरा ते संध्याकाळपर्यंत उघडे असते, मध्ये दुपारची विश्रांती असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडू मंदिरांच्या नियमांनुसार बाह्य प्रदक्षिणा मार्ग आणि प्रांगणांत छायाचित्रण सामान्यतः मान्य आहे, परंतु आतल्या गर्भगृहात कडकपणे निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुबुवनम कुंभकोणम–मयिलादुतुरै मार्गावर, कुंभकोणमपासून काही किलोमीटर अंतरावर आहे; कुंभकोणममध्ये जवळचे रेल्वे स्थानक आणि वारंवार बस आहेत. कुंभकोणमहून ऑटो आणि टॅक्सी हा लहान प्रवास सहज करतात, आणि दारासुरम व तिरुविडैमरुदूर जवळच आहेत. सुमारे १०० कि.मी. अंतरावरील तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ हे जवळचे विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.jpg",

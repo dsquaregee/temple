@@ -1,29 +1,36 @@
 {
   "id": "kalyanasundareswarar-tiruvelvikudi",
   "locale": "mr",
+  "name": "कल्याणसुंदरेश्वर मंदिर, तिरुवेळ्विकुडी",
   "nativeName": "கல்யாணசுந்தரேஸ்வரர் கோயில்",
+  "deity": "कल्याणसुंदरेश्वर रूपातील शिव, देवी परिमळ सुगंध नायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tiruvelvikudi",
-    "state": "Tamil Nadu",
+    "city": "तिरुवेळ्विकुडी",
+    "state": "तमिळनाडू",
     "lat": 11.0868,
     "lng": 79.5689
   },
+  "period": "कावेरीच्या उत्तरेकडील चोळ प्रदेशातील प्राचीन शैव क्षेत्र, तेवारममध्ये गायिलेले (सातवे शतक); आरंभीच्या चोळ काळातील मूळ आणि नंतरच्या चोळकालीन भरीसह दगडी मंदिर",
   "century": 7,
+  "dynasty": "आरंभीचे चोळ, नंतरच्या चोळ आश्रयासह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवेळ्विकुडी हे तेवारम क्षेत्र आहे जेथे, परंपरेनुसार, दिव्य विवाहाचे पवित्र विधी पार पडले; येथे शिवाची सुंदर वर कल्याणसुंदरेश्वर म्हणून पूजा होते, आणि सुखी विवाहासाठी प्रार्थना करणाऱ्यांना हे मंदिर दीर्घकाळ आकर्षित करत आले आहे.",
   "sections": {
-    "history": "Tiruvelvikudi lies north of the Kaveri in the Chola country, a short distance from Kuthalam in present-day Mayiladuthurai district. In the Tevaram it was sung by two of the three great saints, Sambandar and Sundarar, one hymn each, which makes it a Paadal Petra Sthalam. The name joins velvi, the sacrificial rite, with kudi, a settlement: the place of the sacred rites. Tradition holds that the ceremonies before the divine wedding of Shiva and Parvati were performed here. The superstructure is regarded as early Chola in origin, and inscriptions of the age of Parantaka Chola, Sembiyan Mahadevi and Rajaraja Chola are reported from the temple, though the age of the first structure is not firmly known.",
-    "architecture": "The temple faces east and is entered through a three-tiered gopuram, with two enclosing prakaras around the sanctum in the Dravidian manner. In the sanctum Shiva is worshipped as a self-manifested linga, Kalyanasundareswarar, the beautiful bridegroom, while the goddess Parimala Sugantha Nayaki, the fragrant lady, is honoured in her own shrine. The sacred tank, the Kauthuka Bandhana Theertham, lies opposite the entrance gateway, so the pilgrim meets water before the deity. Because the marriage rites are held to have been completed in this tradition, the temple is said to have no separate shrine of the nine planets, a quiet mark of its character as a place of auspicious union.",
-    "legends": "The legend of Tiruvelvikudi belongs to the story of the divine wedding. When Parvati, said to have been born as the daughter of the sage Bharata at nearby Kuthalam, won Shiva as her bridegroom, the sacrificial rites that sanctify a marriage were performed here, with Brahma as the chief priest. The sacred thread was tied on the goddess in the ritual called Kauthuka Bandhana, and from this the place is also known as Kauthuka Bandhana Sthalam. Most accounts place the wedding itself at nearby Tirumanancheri, though a local tradition holds that it took place here. A second memory belongs to Sundarar, who is said to have bathed in the temple's Agni Theertham and been relieved of his affliction before singing his hymn to the Lord.",
-    "festivals": "Maha Shivaratri in February or March and Panguni Uthiram in March or April are the principal festivals; Panguni Uthiram, the traditional day of the divine wedding, is kept here with special devotion. The monthly Pradosham is observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Tiruvelvikudi is a quiet village shrine, and it rewards a slow visit. Pause at the tank opposite the gateway, enter beneath the gopuram, and stand before Kalyanasundareswarar before turning to the goddess in her own shrine. The temple is regarded as a place of prayer for those whose marriage has been delayed, and families often come here on behalf of a son or daughter. Fields and village lanes surround the temple, and the stillness within its walls suits the thoughtful mood of the place."
+    "history": "तिरुवेळ्विकुडी कावेरीच्या उत्तरेस, चोळ प्रदेशात, सध्याच्या मयिलादुतुरै जिल्ह्यातील कुतालमपासून थोड्या अंतरावर आहे. तेवारममध्ये तीन महान संतांपैकी दोघांनी — संबंधर आणि सुंदरर यांनी — प्रत्येकी एका पदात याची स्तुती गायली, त्यामुळे हे पाडल पेट्र स्थलम् ठरते. नावात वेळ्वी, म्हणजे यज्ञविधी, आणि कुडी, म्हणजे वसाहत, हे जोडलेले आहेत: पवित्र विधींचे स्थान. परंपरा सांगते की शिव-पार्वतीच्या दिव्य विवाहापूर्वीचे विधी येथे पार पडले. वरची रचना आरंभीच्या चोळ काळातील मानली जाते, आणि परांतक चोळ, सेंबियन महादेवी व राजराज चोळ यांच्या काळातील शिलालेख मंदिरातून नोंदवले गेले आहेत, तरीही पहिल्या बांधकामाचे वय नेमके ज्ञात नाही.",
+    "architecture": "मंदिर पूर्वाभिमुख असून तीन मजली गोपुरातून प्रवेश होतो; द्रविड पद्धतीने गर्भगृहाभोवती दोन वेढणारे प्राकार आहेत. गर्भगृहात शिवाची स्वयंभू लिंग, कल्याणसुंदरेश्वर — सुंदर वर — म्हणून पूजा होते, तर देवी परिमळ सुगंध नायकी, सुगंधी देवी, स्वतःच्या गर्भगृहात पूजिल्या जातात. कौतुक बंधन तीर्थम् हे पवित्र तळे प्रवेशद्वारासमोर आहे, त्यामुळे यात्रेकरूला देवतेपूर्वी जलाचे दर्शन घडते. या परंपरेत विवाहविधी पूर्ण झाले असे मानले जात असल्याने, मंदिरात नवग्रहांचे स्वतंत्र गर्भगृह नाही असे सांगितले जाते — मंगल मीलनाचे स्थान म्हणून त्याच्या स्वरूपाची ही एक शांत खूण आहे.",
+    "legends": "तिरुवेळ्विकुडीची कथा दिव्य विवाहाच्या कथेचा भाग आहे. जवळच्या कुतालम येथे भरत ऋषींची कन्या म्हणून जन्मली असे मानल्या जाणाऱ्या पार्वतीने शिवाला वर म्हणून मिळवले, तेव्हा विवाहाला पावित्र्य देणारे यज्ञविधी येथे पार पडले, आणि ब्रह्मदेव प्रमुख पुरोहित होते. कौतुक बंधन नावाच्या विधीत देवीला पवित्र सूत्र बांधले गेले, आणि यावरून हे स्थान कौतुक बंधन स्थलम् म्हणूनही ओळखले जाते. बहुतेक कथा प्रत्यक्ष विवाह जवळच्या तिरुमणंचेरी येथे झाल्याचे सांगतात, परंतु एका स्थानिक परंपरेनुसार तो येथेच झाला. दुसरी स्मृती सुंदररांशी जोडलेली आहे; मंदिराच्या अग्नि तीर्थात स्नान केल्यावर त्यांचा रोग दूर झाला आणि मग त्यांनी प्रभूची आपली स्तुतिपदे गायली असे सांगितले जाते.",
+    "festivals": "फेब्रुवारी किंवा मार्चमधील महाशिवरात्री आणि मार्च किंवा एप्रिलमधील पंगुनि उत्तिरम् हे प्रमुख उत्सव आहेत; दिव्य विवाहाचा पारंपरिक दिवस असलेला पंगुनि उत्तिरम् येथे विशेष भक्तीने साजरा होतो. प्रत्येक शिवमंदिराप्रमाणे मासिक प्रदोषही पाळला जातो. तारखा तमिळ पंचांगानुसार असल्याने स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुवेळ्विकुडी हे शांत गावातील मंदिर असून निवांत भेटीचे चीज करते. प्रवेशद्वारासमोरील तळ्याजवळ थांबा, गोपुराखालून आत जा, आणि कल्याणसुंदरेश्वरांसमोर उभे राहिल्यानंतर स्वतंत्र गर्भगृहातील देवीकडे वळा. ज्यांचा विवाह लांबला आहे त्यांच्यासाठी हे प्रार्थनेचे स्थान मानले जाते, आणि कुटुंबे अनेकदा मुलगा किंवा मुलीच्या वतीने येथे येतात. मंदिराभोवती शेते आणि गावच्या गल्ल्या आहेत, आणि त्याच्या भिंतींमधील स्तब्धता या स्थानाच्या चिंतनशील भावाला साजेशी आहे."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tiruvelvikudi is about 3 km from Kuthalam, on the Mayiladuthurai–Kumbakonam road, and local buses and autos serve the route. Mayiladuthurai is the nearest major railway station, with Kumbakonam also within easy reach by road. Tiruchirappalli has the nearest major airport, a few hours away by road."
+    "timings": "सामान्यतः सकाळी आणि पुन्हा दुपारी उशिरा ते संध्याकाळपर्यंत उघडे असते, मध्ये दुपारचा विश्रांतीकाळ असतो; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडू मंदिरांच्या नियमांनुसार बाह्य प्रदक्षिणा मार्ग आणि प्रांगणांत छायाचित्रण सामान्यतः मान्य आहे, परंतु आतल्या गर्भगृहात निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुवेळ्विकुडी कुतालमपासून सुमारे ३ कि.मी. अंतरावर, मयिलादुतुरै–कुंभकोणम मार्गावर आहे; स्थानिक बस आणि ऑटो या मार्गावर धावतात. मयिलादुतुरै हे जवळचे प्रमुख रेल्वे स्थानक आहे, तर कुंभकोणमही रस्त्याने सहज जवळ आहे. तिरुचिरापल्लीत जवळचे प्रमुख विमानतळ असून तेथून रस्त्याने काही तासांचा प्रवास आहे."
   }
 }
