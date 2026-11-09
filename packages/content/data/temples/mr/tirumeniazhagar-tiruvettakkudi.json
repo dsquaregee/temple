@@ -1,29 +1,36 @@
 {
   "id": "tirumeniazhagar-tiruvettakkudi",
   "locale": "mr",
+  "name": "तिरुमेनियळगर मंदिर, तिरुवेट्टक्कुडी",
   "nativeName": "திருவெட்டக்குடி திருமேனியழகர் கோயில்",
+  "deity": "शिव तिरुमेनियळगर (सुंदरेश्वर) रूपात, देवी सौंदरनायकी (सांतनायकी) यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थलम",
   "location": {
-    "city": "Tiruvettakkudi, near Karaikal",
-    "state": "Puducherry (Karaikal)",
+    "city": "तिरुवेट्टक्कुडी, कारैकलजवळ",
+    "state": "पुदुच्चेरी (कारैकल)",
     "lat": 10.95,
     "lng": 79.8
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायलेले); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कारैकलजवळील तिरुवेट्टक्कुडी येथे शिवाचा तिरुमेनियळगर — सुंदरेश्वर, 'सुंदर देहाचा प्रभू' — म्हणून, देवी सौंदरनायकीसह, गौरव होतो. तिरुज्ञान संबंधरांनी गायलेले हे पाडल पेट्र स्थलम अर्जुनाच्या तपश्चर्येच्या कथेशी बांधलेले आहे, जेव्हा शिव शिकारी, वेदन, रूपात आला, आणि त्यावरून या स्थळाला नाव मिळाले.",
   "sections": {
-    "history": "Tiruvettakkudi lies near Karaikal, reached by the Karaikal–Poraiyar road about 3 km to Varichakudi, then a branch road marked by an ornamental arch. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, in the Karaikal territory of Puducherry (within the Kaveri delta of the Chola country). The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Tirumeniazhagar — also Sundareswarar — in the sanctum, with the goddess Soundaranayagi (also Santhanayagi) in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram keep the form of the Shiva temples of the Karaikal delta.",
-    "legends": "The sthala purana ties the name Tiru-Vetta-Kudi to Arjuna's penance: to win the Pashupata weapon, Arjuna did tapas, and Shiva came to him as a hunter, a Vedan, testing him before granting his grace. From that form of the lord as the hunter the place takes its name. Shiva is worshipped here as Tirumeniazhagar, the beautiful-bodied lord, with Soundaranayagi beside him.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a delta village shrine. Pilgrims of the Karaikal country include Tiruvettakkudi among their stops.",
-    "experience": "At Tiruvettakkudi the pilgrim comes to the shrine of the beautiful-bodied lord. Before Tirumeniazhagar and Soundaranayagi, in the green Karaikal delta, the visitor finds the unhurried grace of a Tevaram temple, and the memory of the hunter-lord who tested Arjuna and gave him his grace."
+    "history": "तिरुवेट्टक्कुडी कारैकलजवळ आहे; कारैकल–पोरैयार मार्गावर सुमारे ३ कि.मी. अंतरावरील वरिचक्कुडीपर्यंत जाऊन, सुशोभित कमानीने खूण केलेल्या फाट्याच्या रस्त्याने तेथे पोहोचता येते. हे पाडल पेट्र स्थलम असून तिरुज्ञान संबंधरांनी तेवारममध्ये गायलेले आहे; ते पुदुच्चेरीच्या कारैकल प्रदेशात (चोळ भूमीच्या कावेरी त्रिभुज-प्रदेशात) आहे. दगडी मंदिर चोळकाळातील आणि त्यानंतरचे आहे.",
+    "architecture": "हे द्रविड शैलीतील त्रिभुज-प्रदेशातील मंदिर असून गर्भगृहात तिरुमेनियळगर — म्हणजेच सुंदरेश्वर — प्रतिष्ठित आहेत; देवी सौंदरनायकी (सांतनायकी) आपल्या स्वतंत्र गर्भगृहात आहेत, आणि प्राकाराभोवती नंदी व परिवार देवता आहेत. तटबंदीचे प्रांगण आणि साधे गोपुर कारैकल त्रिभुज-प्रदेशातील शिवमंदिरांचे स्वरूप जपतात.",
+    "legends": "स्थलपुराण तिरु-वेट्ट-कुडी या नावाला अर्जुनाच्या तपश्चर्येशी जोडते: पाशुपत अस्त्र मिळवण्यासाठी अर्जुनाने तप केले, आणि शिव शिकारी, वेदन, रूपात त्याच्याकडे आला, कृपा देण्यापूर्वी त्याची परीक्षा घेत. प्रभूच्या शिकारी रूपावरून या स्थळाला नाव मिळाले. येथे शिवाची पूजा तिरुमेनियळगर, सुंदर देहाचे प्रभू, म्हणून होते आणि त्यांच्या शेजारी सौंदरनायकी आहेत.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्र आणि कार्तिगैचे सोमवार, प्रदोष पूजेसह, त्रिभुज-प्रदेशातील गावाच्या मंदिराला साजेशा शांत प्रमाणात पाळले जातात. कारैकल प्रदेशातील यात्रेकरू तिरुवेट्टक्कुडीचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "तिरुवेट्टक्कुडी येथे यात्रेकरू सुंदर देहाच्या प्रभूच्या गर्भगृहाकडे येतो. हिरव्यागार कारैकल त्रिभुज-प्रदेशात, तिरुमेनियळगर आणि सौंदरनायकी यांच्यासमोर, अभ्यागताला तेवारम मंदिराची निवांत कृपा आणि अर्जुनाची परीक्षा घेऊन त्याला कृपा देणाऱ्या शिकारी-प्रभूची स्मृती लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvettakkudi lies near Karaikal, about 3 km along the Karaikal–Poraiyar road to Varichakudi, then a signposted branch road. Karaikal is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "साधारणतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; प्रवेशद्वाराजवळ पादत्राणे काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणामार्गात छायाचित्रण साधारणतः मान्य आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुवेट्टक्कुडी कारैकलजवळ आहे; कारैकल–पोरैयार मार्गावर वरिचक्कुडीपर्यंत सुमारे ३ कि.मी., नंतर फलक असलेला फाट्याचा रस्ता. कारैकल हे जवळचे शहर व रेल्वेस्थानक असून गावाला बस आणि टॅक्सी जातात."
   }
 }
