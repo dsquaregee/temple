@@ -1,30 +1,37 @@
 {
   "id": "chottanikkara-bhagavathy",
   "locale": "mr",
+  "name": "चोट्टानिक्कर भगवती मंदिर (श्री राजराजेश्वरी)",
   "nativeName": "ചോറ്റാനിക്കര ഭഗവതി ക്ഷേത്രം",
+  "deity": "मुख्य देवी श्री भगवती असून तिची श्री राजराजेश्वरी म्हणून पूजा होते; ती आदिपराशक्ती, म्हणजे जगन्माता, हिचे रूप आहे. भक्त तिला प्रेमाने चोट्टानिक्कर अम्मा म्हणतात.",
+  "tradition": "शाक्त (देवीपूजा)",
   "location": {
-    "city": "Chottanikkara, Ernakulam district",
-    "state": "Kerala",
+    "city": "चोट्टानिक्कर, एर्नाकुलम जिल्हा",
+    "state": "केरळ",
     "lat": 9.947,
     "lng": 76.39
   },
+  "period": "मध्ययुगीन; परंपरेने प्राचीन मानले जाते",
   "century": 12,
+  "dynasty": "केरळच्या प्रादेशिक राज्यकर्त्यांचा आश्रय",
+  "style": "केरळ मंदिर स्थापत्य",
   "unesco": false,
   "circuits": [
     "sacred-temples-of-kerala"
   ],
+  "summary": "कोचीजवळील चोट्टानिक्कर भगवती मंदिर हे केरळमधील जगन्मातेच्या सर्वाधिक पूजनीय तीर्थांपैकी एक आहे. येथे देवीची श्री राजराजेश्वरी म्हणून उपासना होते, आणि दुःखी जन सांत्वनासाठी येतात असे स्थान म्हणून हे मंदिर संपूर्ण प्रदेशात प्रसिद्ध आहे.",
   "sections": {
-    "history": "Chottanikkara has been a living centre of Devi worship for many centuries, and tradition holds the site to be far older than surviving records can confirm. Over generations it grew from a local shrine into one of Kerala's foremost goddess temples, sustained by the devotion of ordinary pilgrims and the patronage of regional rulers who endowed its rituals and upkeep. The temple's enduring fame rests less on royal monuments than on the continuity of daily worship and the accounts of devotees who found relief here. Its two shrines, the upper Melkavu and the lower Keezhkavu, together shaped a distinctive tradition of worship that has drawn seekers from far beyond the surrounding villages.",
-    "architecture": "The temple follows the characteristic idiom of Kerala sacred architecture, with a sanctum crowned by a sloping tiled roof designed for the heavy monsoon and finished in traditional woodwork. The complex centres on two shrines: the upper Melkavu, dedicated to Sri Rajarajeswari, and the lower Keezhkavu, associated with Bhadrakali, set a short distance apart. Timber columns, carved brackets and copper-clad roofing reflect the region's building conventions, while the surrounding walls and lamp-lined pathways frame the ritual space. The layout is unassuming rather than monumental, its atmosphere shaped by oil lamps, the murmur of chanting and the ordered rhythm of daily rites rather than by ornament alone.",
-    "legends": "Chottanikkara is celebrated in tradition as a refuge for those troubled in mind and spirit. A distinctive practice marks the Devi's presence through the day: she is revered in the morning as Saraswati, robed in white; at noon as Bhadrakali, or Lakshmi, in crimson; and in the evening as Durga, in blue. The lower Keezhkavu shrine is bound to accounts of devotees seeking release from affliction, and its evening Guruthi observance is closely linked to this belief. Many stories passed down among pilgrims tell of relief found after prayer here, and it is this reputation, more than any single episode, that has made the goddess of Chottanikkara so widely invoked.",
-    "festivals": "The foremost festival is Makam Thozhal, observed on the Makam star in the Malayalam month of Kumbham, when the Devi is believed to grant a specially auspicious darshan and vast crowds gather for the sight. The annual festival week is celebrated with processions, traditional music and ritual offerings, drawing devotees from across Kerala and beyond. Navaratri, sacred to the Mother Goddess, is another season of particular significance, marked by special worship over its nine nights. Throughout the year the daily rites, including the evening observances at the Keezhkavu, sustain the temple's rhythm between these larger occasions.",
-    "experience": "A visit to Chottanikkara is shaped by the quiet intensity of a working Devi temple rather than by spectacle. Pilgrims move between the upper and lower shrines, many arriving with private burdens they hope to set down before the goddess. Mornings carry the freshness of the first worship, while evenings, lit by rows of oil lamps and marked by the Keezhkavu observances, hold a gravity of their own. The changing adornment of the Devi through the day gives each visit a different mood. Amid the sound of bells and chanting, the experience is less about grandeur and more about the sense of nearness to a mother figure that draws people back."
+    "history": "चोट्टानिक्कर अनेक शतके देवीपूजेचे जिवंत केंद्र राहिले आहे, आणि उपलब्ध नोंदी जे सिद्ध करू शकतात त्यापेक्षा हे स्थान खूप जुने असल्याचे परंपरा मानते. पिढ्यानपिढ्या ते एका स्थानिक देवस्थानापासून केरळमधील अग्रगण्य देवी मंदिरांपैकी एक बनले; सामान्य यात्रेकरूंच्या भक्तीने आणि विधी व देखभालीसाठी दान देणाऱ्या प्रादेशिक राज्यकर्त्यांच्या आश्रयाने ते टिकून राहिले. मंदिराची चिरस्थायी कीर्ती राजेशाही वास्तूंवर नव्हे तर दैनंदिन उपासनेच्या सातत्यावर आणि येथे आराम मिळालेल्या भक्तांच्या अनुभवांवर आधारित आहे. वरचे मेलकावू आणि खालचे कीळकावू ही त्याची दोन तीर्थे मिळून उपासनेची एक वेगळी परंपरा घडली आहे, जिने आसपासच्या गावांपलीकडून साधकांना आकर्षित केले आहे.",
+    "architecture": "मंदिर केरळच्या पवित्र स्थापत्याच्या वैशिष्ट्यपूर्ण शैलीचे अनुसरण करते; गर्भगृहावर जोरदार पावसाळ्यासाठी रचलेले उताराचे कौलारू छप्पर असून पारंपरिक लाकडी कामाने ते सजले आहे. संकुल दोन तीर्थांभोवती केंद्रित आहे: श्री राजराजेश्वरीला समर्पित वरचे मेलकावू आणि भद्रकालीशी संबंधित खालचे कीळकावू, जे थोड्या अंतरावर आहेत. लाकडी खांब, कोरीव टेकू आणि तांब्याने मढवलेले छप्पर प्रदेशाच्या बांधकाम परंपरा दर्शवतात, तर आजूबाजूच्या भिंती आणि दिव्यांनी उजळलेले मार्ग विधींच्या जागेला चौकट देतात. रचना भव्यतेपेक्षा साधेपणाची आहे; तिचे वातावरण केवळ अलंकारांनी नव्हे तर तेलाच्या दिव्यांनी, मंत्रोच्चारांच्या गुंजनाने आणि दैनंदिन विधींच्या शिस्तबद्ध लयीने घडते.",
+    "legends": "चोट्टानिक्कर परंपरेत मन आणि आत्म्याने व्याकूळ झालेल्यांसाठी आश्रयस्थान म्हणून गौरविले जाते. दिवसभर देवीच्या उपस्थितीची एक विशिष्ट प्रथा आहे: सकाळी ती श्वेत वस्त्रातील सरस्वती म्हणून, दुपारी किरमिजी वस्त्रातील भद्रकाली किंवा लक्ष्मी म्हणून, आणि संध्याकाळी निळ्या वस्त्रातील दुर्गा म्हणून पूजली जाते. खालचे कीळकावू तीर्थ पीडेतून मुक्ती मागणाऱ्या भक्तांच्या कथांशी जोडलेले आहे, आणि त्याचा संध्याकाळचा गुरुती विधी या श्रद्धेशी निकटचा संबंधित आहे. यात्रेकरूंमध्ये पिढ्यानपिढ्या चालत आलेल्या अनेक कथा येथे प्रार्थनेनंतर मिळालेल्या आरामाबद्दल सांगतात, आणि कोणत्याही एका प्रसंगापेक्षा याच लौकिकामुळे चोट्टानिक्करची देवी इतक्या व्यापक प्रमाणात स्मरली जाते.",
+    "festivals": "सर्वांत प्रमुख उत्सव म्हणजे मकम तोऴल, जो मल्याळम कुंभम महिन्यातील मकम नक्षत्रावर साजरा होतो; तेव्हा देवी विशेष शुभ दर्शन देते अशी श्रद्धा आहे आणि त्या दर्शनासाठी प्रचंड जनसमुदाय जमतो. वार्षिक उत्सव सप्ताह मिरवणुका, पारंपरिक संगीत आणि विधीपूर्वक अर्पणांसह साजरा होतो आणि केरळभरातून तसेच बाहेरूनही भक्त येतात. जगन्मातेला पवित्र असलेला नवरात्र हा आणखी एक विशेष महत्त्वाचा काळ असून नऊ रात्री विशेष पूजेने चिन्हांकित होतो. वर्षभर कीळकावू येथील संध्याकाळच्या विधींसह दैनंदिन विधी या मोठ्या प्रसंगांदरम्यान मंदिराची लय टिकवतात.",
+    "experience": "चोट्टानिक्करची भेट देखाव्याऐवजी कार्यरत देवी मंदिराच्या शांत तीव्रतेने आकार घेते. यात्रेकरू वरच्या आणि खालच्या तीर्थांमध्ये फिरतात; अनेक जण आपले खासगी ओझे देवीसमोर उतरवण्याच्या आशेने येतात. सकाळी पहिल्या पूजेचा ताजेपणा असतो, तर संध्याकाळ, तेलाच्या दिव्यांच्या रांगांनी उजळलेली आणि कीळकावू विधींनी चिन्हांकित, स्वतःचे गांभीर्य घेऊन येते. दिवसभर देवीच्या बदलत्या शृंगारामुळे प्रत्येक भेटीला वेगळा भाव लाभतो. घंटानाद आणि मंत्रोच्चारांच्या मध्यात हा अनुभव भव्यतेबद्दल कमी आणि लोकांना पुन्हा पुन्हा खेचणाऱ्या मातृस्वरूपाच्या सान्निध्याच्या जाणिवेबद्दल अधिक आहे."
   },
   "visit": {
-    "timings": "The temple generally opens in the early morning and again in the evening, following Kerala temple custom, with a midday break. Exact hours and puja times vary by season and festival, so please verify locally before travelling.",
-    "dressCode": "Traditional, modest dress is expected. Men commonly wear a mundu and women a saree or comparable attire, in keeping with Kerala temple convention.",
-    "photography": "Photography is typically restricted inside the shrines and around the sanctum. Please follow posted notices and the instructions of temple staff.",
-    "gettingThere": "Chottanikkara lies near Kochi in Ernakulam district. The nearest major railhead is Ernakulam, and the nearest airport is Kochi (Nedumbassery); the temple is well connected by road."
+    "timings": "केरळ मंदिरांच्या प्रथेनुसार मंदिर साधारणतः पहाटे आणि पुन्हा संध्याकाळी उघडते, दुपारी विश्रांतीचा वेळ असतो. नेमक्या वेळा आणि पूजेच्या वेळा ऋतू आणि उत्सवानुसार बदलतात, त्यामुळे प्रवासापूर्वी कृपया स्थानिक पातळीवर खात्री करा.",
+    "dressCode": "पारंपरिक, साधे पोशाख अपेक्षित आहेत. केरळ मंदिरांच्या प्रथेनुसार पुरुष सामान्यतः मुंडू आणि महिला साडी किंवा तत्सम पोशाख परिधान करतात.",
+    "photography": "तीर्थांच्या आत आणि गर्भगृहाभोवती छायाचित्रणावर सामान्यतः निर्बंध असतात. कृपया लावलेल्या सूचना आणि मंदिर कर्मचाऱ्यांच्या सूचनांचे पालन करा.",
+    "gettingThere": "चोट्टानिक्कर एर्नाकुलम जिल्ह्यात कोचीजवळ आहे. जवळचे मोठे रेल्वे स्थानक एर्नाकुलम असून जवळचे विमानतळ कोची (नेडुम्बाशेरी) आहे; मंदिर रस्त्याने उत्तम प्रकारे जोडलेले आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/chottanikkara-bhagavathy.jpg",

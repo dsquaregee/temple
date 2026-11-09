@@ -1,29 +1,36 @@
 {
   "id": "dayanidheeswarar-tiruvadakurangaduthurai",
   "locale": "mr",
+  "name": "दयानिधीश्वरर मंदिर, तिरुवडकुरंगाडुतुरै",
   "nativeName": "தயாநிதீசுவரர் கோயில்",
+  "deity": "दयानिधीश्वरर (वालीश्वरर असेही) रूपातील शिव, देवी जटामकुट नायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tiruvadakurangaduthurai (Aduthurai)",
-    "state": "Tamil Nadu",
+    "city": "तिरुवडकुरंगाडुतुरै (आडुतुरै)",
+    "state": "तमिळनाडू",
     "lat": 10.922,
     "lng": 79.197
   },
+  "period": "कावेरीच्या उत्तर तीरावरील प्राचीन शैव तीर्थ, तेवारममध्ये स्तुतिगान (सातवे शतक); पहिली वास्तू परंपरेने पल्लव काळापर्यंत नेली जाते, पांड्य आणि चोळ आश्रयदात्यांनी पुनर्बांधणी केली",
   "century": 7,
+  "dynasty": "पल्लव मूळ; पांड्य आणि चोळ आश्रयदात्यांनी पुनर्बांधणी केली",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "करुणेचा खजिना असलेले प्रभू दयानिधीश्वरर यांची पूजा कावेरीच्या उत्तर तीरावरील तेवारममधील तिरुवडकुरंगाडुतुरै येथे होते; परंपरा सांगते की रामायणातील वानरवीर वाली आणि हनुमान येथे प्रार्थना करण्यासाठी आले.",
   "sections": {
-    "history": "On the northern bank of the Kaveri, in the delta country near Thiruvaiyaru, stands Tiruvadakurangaduthurai, praised by the child-saint Sambandar in the Tevaram and so counted a Paadal Petra Sthalam. The name can be read as the northern riverside of the monkeys, and it sets this shrine apart from Thenkurangaduthurai, its namesake on the southern bank, whose monkey tradition is a different story. Local tradition traces a first structure to the Pallava age, later rebuilt by Pandya and Chola patrons, and inscriptions of the Chola period are found within the temple. The village is today often called Aduthurai Perumal Koil, a name that helps travellers tell it from the other Aduthurai near Kumbakonam.",
-    "architecture": "The temple faces east beneath a five-tiered gateway tower. The main shrine is laid out in three parts: the sanctum, an ardha mandapa before it, and a long maha mandapa that receives the devotee. Above the sanctum rises a three-tiered vimana, described in local accounts as nagara in its form and crowned by a vesara-style crown. The goddess Jata Makuta Nayaki, whose name speaks of the crowned and matted locks, is honoured in a separate sanctum of her own. Among the carvings is a bas-relief of Vali worshipping Shiva, which gives the temple its second name, Valeeswarar.",
-    "legends": "The temple keeps two Ramayana memories. In one, Rama, Hanuman and their companions were journeying south when they came to this bank of the Kaveri, which served as a crossing. To make the river passage safe, Hanuman prayed to Shiva here and set up the lingam known as Dayanidhi, the Lord of compassion. A second telling says Hanuman came to atone for having harmed the lingam of sand that Sita had made at Rameswaram. The other legend is Vali's. All his might was said to lie in his tail, and when it was wounded as he struck at Ravana, the strength left it. Vali came here and worshipped Shiva until his power was restored, and so the Lord is also remembered as Valinathar.",
-    "festivals": "The goddess Jata Makuta Nayaki receives special adornment and worship on every full-moon day, when devotees gather in good numbers. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple, and the Tamil-month festivals are kept in the manner of the Kaveri delta. Dates follow the Tamil calendar, so confirm them locally before travelling.",
-    "experience": "Tiruvadakurangaduthurai is a quiet, unhurried temple set among the green fields of the Kaveri delta. Enter beneath the five-tiered gateway, walk the long mandapa to the sanctum of Dayanidheeswarar, and look for the small relief of Vali at prayer before going on to the goddess in her own shrine. Devotees come in particular to ask for strength restored after illness or setback, in the spirit of the Vali story, and many time their visit for a full-moon evening. The temple is best combined with the other Tevaram shrines around Thiruvaiyaru."
+    "history": "कावेरीच्या उत्तर तीरावर, तिरुवैयारूजवळील डेल्टा प्रदेशात तिरुवडकुरंगाडुतुरै वसले आहे; बालसंत संबंदर यांनी तेवारममध्ये त्याची स्तुती केली आणि म्हणून त्याची गणना पाडल पेट्र स्थलममध्ये होते. नावाचा अर्थ वानरांचा उत्तर नदीकिनारा असा लावता येतो, आणि त्यामुळे हे तीर्थ दक्षिण तीरावरील त्याच्या नामसदृश तेनकुरंगाडुतुरैपासून वेगळे ठरते, जिची वानर परंपरा वेगळी कथा आहे. स्थानिक परंपरा पहिली वास्तू पल्लव काळात उभी राहिल्याचे सांगते, जी नंतर पांड्य आणि चोळ आश्रयदात्यांनी पुन्हा बांधली, आणि मंदिरात चोळकालीन शिलालेख आढळतात. या गावाला आज बहुधा आडुतुरै पेरुमाळ कोविल म्हटले जाते, हे नाव प्रवाशांना कुंभकोणमजवळच्या दुसऱ्या आडुतुरैपासून वेगळे ओळखण्यास मदत करते.",
+    "architecture": "मंदिर पूर्वाभिमुख असून पाच मजली गोपुराखाली आहे. मुख्य तीर्थ तीन भागांत रचलेले आहे: गर्भगृह, त्यापुढे अर्धमंडप आणि भक्ताचे स्वागत करणारा लांब महामंडप. गर्भगृहावर तीन मजली विमान उभे आहे, ज्याचे स्थानिक वर्णनांत नागर स्वरूपाचे असे वर्णन केले जाते आणि त्यावर वेसर शैलीचा मुकुट आहे. देवी जटामकुट नायकी, जिचे नाव मुकुटधारी जटांकडे निर्देश करते, तिची स्वतंत्र गर्भगृहात पूजा होते. कोरीव कामांमध्ये वाली शिवाची पूजा करत असल्याचे उठावशिल्प आहे, जे मंदिराला त्याचे दुसरे नाव, वालीश्वरर, देते.",
+    "legends": "मंदिरात रामायणाच्या दोन स्मृती जपल्या आहेत. एकीत राम, हनुमान आणि त्यांचे साथीदार दक्षिणेकडे प्रवास करत असताना कावेरीच्या या तीरावर आले, जो नदी ओलांडण्याचा मार्ग होता. नदी पार करणे सुरक्षित व्हावे म्हणून हनुमानाने येथे शिवाची प्रार्थना केली आणि दयानिधी म्हणून ओळखले जाणारे लिंग स्थापन केले. दुसऱ्या कथनानुसार, रामेश्वरम येथे सीतेने केलेल्या वाळूच्या लिंगाला हानी पोहोचवल्याबद्दल प्रायश्चित्त करण्यासाठी हनुमान आला. दुसरी कथा वालीची आहे. त्याचे सर्व बळ त्याच्या शेपटीत असल्याचे सांगितले जाई, आणि रावणावर प्रहार करताना ती जखमी झाली तेव्हा तिचे बळ गेले. वाली येथे आला आणि त्याचे सामर्थ्य परत मिळेपर्यंत त्याने शिवाची उपासना केली, आणि म्हणून प्रभू वालीनाथर म्हणूनही स्मरले जातात.",
+    "festivals": "प्रत्येक पौर्णिमेच्या दिवशी देवी जटामकुट नायकीला विशेष शृंगार आणि पूजा मिळते, तेव्हा भक्त चांगल्या संख्येने जमतात. प्रत्येक शिवमंदिराप्रमाणे येथेही महाशिवरात्री आणि मासिक प्रदोषम पाळले जातात, आणि तमिळ महिन्यांचे उत्सव कावेरी डेल्टाच्या पद्धतीने साजरे होतात. तारखा तमिळ कालगणनेनुसार असतात, म्हणून प्रवासापूर्वी त्या स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुवडकुरंगाडुतुरै हे कावेरी डेल्टाच्या हिरव्यागार शेतांमध्ये वसलेले शांत, घाई नसलेले मंदिर आहे. पाच मजली गोपुराखालून आत या, लांब मंडपातून दयानिधीश्वररांच्या गर्भगृहापर्यंत चालत जा, आणि स्वतंत्र मंदिरातील देवीकडे जाण्यापूर्वी प्रार्थना करणाऱ्या वालीचे लहानसे उठावशिल्प शोधा. वालीच्या कथेच्या भावनेनुसार आजारपण किंवा अपयशानंतर परत मिळालेल्या बळाची याचना करण्यासाठी भक्त विशेषतः येतात, आणि अनेक जण पौर्णिमेच्या संध्याकाळी भेट देण्याचे नियोजन करतात. हे मंदिर तिरुवैयारूभोवतीच्या इतर तेवारम तीर्थांसह पाहणे सर्वांत योग्य ठरते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple lies in the Kaveri delta of Thanjavur district, on the northern bank of the river near Thiruvaiyaru. Thanjavur and Kumbakonam are the nearest large towns with railway stations, and Tiruchirappalli has the nearest airport. Local buses and autorickshaws reach the village from Thiruvaiyaru; ask for Aduthurai Perumal Koil to avoid confusion with the other Aduthurai near Kumbakonam."
+    "timings": "सामान्यतः सकाळी आणि पुन्हा उत्तर दुपारपासून संध्याकाळपर्यंत उघडे असते, दुपारी विश्रांतीचा वेळ असतो; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधे पारंपरिक पोशाख अपेक्षित आहेत: पुरुषांसाठी धोतर किंवा पायजमा-पँट, महिलांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वारापाशीच्या स्टँडमध्ये ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिर नियमांनुसार बाहेरील प्रदक्षिणा मार्ग आणि प्रांगणांत छायाचित्रणास साधारणतः परवानगी आहे, परंतु आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "मंदिर तंजावर जिल्ह्यातील कावेरी डेल्टात, तिरुवैयारूजवळ नदीच्या उत्तर तीरावर आहे. तंजावर आणि कुंभकोणम ही रेल्वे स्थानके असलेली जवळची मोठी शहरे असून तिरुचिरापल्लीत जवळचे विमानतळ आहे. स्थानिक बस आणि ऑटोरिक्षा तिरुवैयारूहून गावात पोहोचतात; कुंभकोणमजवळच्या दुसऱ्या आडुतुरैशी गोंधळ टाळण्यासाठी आडुतुरै पेरुमाळ कोविल असे विचारावे."
   }
 }
