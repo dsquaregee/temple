@@ -1,30 +1,37 @@
 {
   "id": "thayumanavar-tiruchirappalli",
   "locale": "mr",
+  "name": "तायुमानवर मंदिर, तिरुचिरापल्ली",
   "nativeName": "தாயுமானவர் கோயில்",
+  "deity": "तायुमानवर (मातृभूतेश्वर) रूपातील शिव, देवी मट्टुवार कुळलम्मै यांच्यासह",
+  "tradition": "शैव पंथ",
   "location": {
-    "city": "Tiruchirappalli",
-    "state": "Tamil Nadu",
+    "city": "तिरुचिरापल्ली",
+    "state": "तमिळनाडू",
     "lat": 10.8297,
     "lng": 78.6983
   },
+  "period": "तिरुचिरापल्लीच्या टेकडीवरील कातळात कोरलेले आणि बांधीव शैव मंदिर, तेवारममध्ये गायिलेले (सातवे शतक), पल्लव, पांड्य आणि नंतरच्या भरांसह",
   "century": 7,
+  "dynasty": "पल्लव, पांड्य आणि नंतरचे तमिळ राजवंश",
+  "style": "द्रविड (कातळात कोरलेले आणि बांधीव)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुचिरापल्लीच्या विशाल कातळाच्या पायथ्याशी शिवाची तायुमानवर, 'माता बनलेला', म्हणून पूजा होते; प्रसूतीवेळी एका भक्ताकडे तो मातेच्या रूपात आला या परंपरेमुळे हे नाव; टेकडी दक्षिण कैलास म्हणून पूजनीय आहे.",
   "sections": {
-    "history": "The temple stands at the foot of the great rock of Tiruchirappalli, a landmark of the Kaveri country sung in the Tevaram, which makes it a Paadal Petra Sthalam of the Chola land south of the river. The hill was fortified by the Pallavas and later by the Pandyas, Vijayanagara governors and the Nayaks of Madurai, and the shrine of Thayumanavar at its base grew under their patronage into a large walled temple. The rock itself carries older rock-cut caves and inscriptions of Mahendravarman I. Worshipped here as Matrubhuteswarar, the Lord who took a mother's form, Thayumanavar has drawn devotees for well over a thousand years, and the temple remains one of the foremost Shaiva centres of the Tiruchirappalli region.",
-    "architecture": "The shrine sits at the base of the towering natural rock, so that the hill itself serves as the temple's backdrop and is revered as a southern Kailash, Dakshina Kailayam. The sanctum of Thayumanavar holds the Shiva linga, and the goddess Mattuvar Kuzhalammai has her own shrine. Pillared halls, a temple tank used for the float festival, and stepped approaches climb the rock past the cave shrines toward the Uchi Pillayar temple at the summit. Generations of patrons added mandapams and gopura gateways around the lower sanctum.",
-    "legends": "The temple's defining story tells of Rathnavathi, a devoted woman who, far from her mother, came to her time of childbirth with no one to help her. She prayed to the Lord of the hill, and Shiva is said to have come in the very form of her mother, tending her through the delivery before revealing himself. From this grace he is named Thayumanavar, the one who became mother, and Matrubhuteswarar in Sanskrit. The great rock is itself honoured as a fragment of Mount Kailash brought to the south.",
-    "festivals": "The temple's famous Theppa Thiruvizha, the float festival on the temple tank, is recorded as having been held since 1546 and remains its signature celebration. Maha Shivaratri, the Tamil month festivals, and the monthly Pradosham draw large crowds, and Thiruvadirai in Margazhi is kept with devotion. Festival dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "A visit joins the sacred and the panoramic: pilgrims worship Thayumanavar and the goddess at the base, then many climb the rock-cut steps past the hill shrines to the summit for the view over Tiruchirappalli and the Kaveri. The lower temple keeps the calm of a very old sanctuary amid the busy city, and the story of the Lord who came as a mother gives the place a tenderness felt by families who pray here."
+    "history": "हे मंदिर तिरुचिरापल्लीच्या विशाल कातळाच्या पायथ्याशी उभे आहे; तेवारममध्ये गायिलेला हा कावेरी प्रदेशातील खुणेचा बिंदू असल्याने नदीच्या दक्षिणेकडील चोळ भूमीतील हे पाडल पेट्र स्थळम आहे. टेकडीला पल्लवांनी आणि नंतर पांड्य, विजयनगरचे शासक आणि मदुरैचे नायक यांनी तटबंदी केली, आणि पायथ्याचे तायुमानवर मंदिर त्यांच्या आश्रयाखाली एका मोठ्या तटबंदीयुक्त मंदिरात वाढले. कातळावर पहिले महेंद्रवर्मन यांच्या काळातील जुन्या कोरीव गुंफा आणि शिलालेख आहेत. येथे मातृभूतेश्वर, म्हणजे मातेचे रूप घेणारे प्रभू, म्हणून पूजले जाणारे तायुमानवर हजारभर वर्षांहून अधिक काळ भक्तांना आकर्षित करीत आले आहेत, आणि हे मंदिर तिरुचिरापल्ली प्रदेशातील अग्रगण्य शैव केंद्रांपैकी एक आहे.",
+    "architecture": "हे मंदिर उत्तुंग नैसर्गिक कातळाच्या पायथ्याशी वसले आहे, त्यामुळे टेकडी स्वतःच मंदिराची पार्श्वभूमी ठरते आणि दक्षिण कैलास, दक्षिण कैलायम, म्हणून पूजनीय आहे. तायुमानवरांच्या गर्भगृहात शिवलिंग आहे, आणि देवी मट्टुवार कुळलम्मै हिचे स्वतंत्र मंदिर आहे. स्तंभयुक्त मंडप, तराफा-उत्सवासाठी वापरला जाणारा मंदिर तलाव, आणि पायऱ्यांचे मार्ग गुंफा-मंदिरांना ओलांडून शिखरावरील उच्ची पिळ्ळैयार मंदिरापर्यंत कातळावर चढत जातात. पिढ्यानपिढ्यांच्या आश्रयदात्यांनी खालच्या गर्भगृहाभोवती मंडप आणि गोपुर-प्रवेशद्वारे जोडली.",
+    "legends": "मंदिराची निर्णायक कथा रत्नावतीची आहे, एक भक्त स्त्री, जिला आपल्या मातेपासून दूर असताना प्रसूतीची वेळ आली आणि मदतीला कोणीही नव्हते. तिने टेकडीच्या प्रभूची प्रार्थना केली, आणि शिव तिच्या मातेच्याच रूपात आला व प्रसूतीदरम्यान तिची शुश्रूषा करून नंतर स्वतःचे रूप प्रकट केले असे सांगितले जाते. या कृपेमुळे त्याला तायुमानवर, माता बनलेला, आणि संस्कृतमध्ये मातृभूतेश्वर म्हणतात. विशाल कातळ स्वतः दक्षिणेत आणलेल्या कैलास पर्वताचा एक अंश म्हणून पूजनीय आहे.",
+    "festivals": "मंदिराचा प्रसिद्ध तेप्पा तिरुविळा, मंदिर तलावावरील तराफा-उत्सव, १५४६ पासून साजरा होत असल्याची नोंद आहे आणि तो आजही त्याचा मुख्य उत्सव आहे. महाशिवरात्री, तमिळ महिन्यांचे उत्सव आणि मासिक प्रदोषम यांना मोठी गर्दी होते, आणि मार्गळीतील तिरुवादिरै भक्तिभावाने साजरी होते. उत्सवांच्या तारखा तमिळ पंचांगानुसार ठरतात, त्यामुळे स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "भेट पवित्रता आणि विस्तीर्ण दृश्य यांचा संगम घडवते: यात्रेकरू पायथ्याशी तायुमानवर आणि देवीची पूजा करतात, आणि अनेक जण टेकडीवरील मंदिरांना ओलांडून कातळात कोरलेल्या पायऱ्या चढून शिखरावर जातात, जेथून तिरुचिरापल्ली आणि कावेरीचे दृश्य दिसते. गजबजलेल्या शहरातही खालचे मंदिर अतिप्राचीन पवित्रस्थळाची शांतता राखते, आणि मातेच्या रूपात आलेल्या प्रभूची कथा येथे प्रार्थना करणाऱ्या कुटुंबांना जाणवणारी हळुवारता या स्थळाला देते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "The temple is at the foot of the Rockfort in the heart of Tiruchirappalli (Trichy). Trichy Junction railway station is about 4 km away and Tiruchirappalli International Airport about 8 km; the hill and temple are well served by city buses and autos."
+    "timings": "साधारणपणे पहाटेपासून मध्यान्हापर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्या, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराशी ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत छायाचित्रणास साधारणपणे परवानगी असते, पण गर्भगृहात नाही; धार्मिक विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "हे मंदिर तिरुचिरापल्ली (त्रिची) शहराच्या मध्यभागी रॉकफोर्टच्या पायथ्याशी आहे. त्रिची जंक्शन रेल्वे स्थानक सुमारे ४ किमी, आणि तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ सुमारे ८ किमी अंतरावर आहे; टेकडी आणि मंदिरापर्यंत शहर बस आणि ऑटो चांगल्या प्रकारे उपलब्ध आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thayumanavar-tiruchirappalli.jpg",

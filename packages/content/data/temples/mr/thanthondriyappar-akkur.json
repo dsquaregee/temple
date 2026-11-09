@@ -1,29 +1,36 @@
 {
   "id": "thanthondriyappar-akkur",
   "locale": "mr",
+  "name": "तान्तोन्ड्रियप्पर मंदिर, आक्कूर",
   "nativeName": "திருஆக்கூர் தான்தோன்றியப்பர் கோயில்",
+  "deity": "तान्तोन्ड्रियप्पर (स्वयंभू प्रभू) रूपातील शिव, देवी वाळ्नेडुंकण्णी यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम, एक माडा कोविल",
   "location": {
-    "city": "Akkur, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "आक्कूर, मयिलादुथुरैजवळ",
+    "state": "तमिळनाडू",
     "lat": 11.0825,
     "lng": 79.7814
   },
+  "period": "तेवारम काळ; परंपरेनुसार कोचेंगट चोळांचे माडा कोविल",
   "century": 9,
+  "dynasty": "चोळ (परंपरेनुसार कोचेंगट चोळ)",
+  "style": "द्रविड (माडा कोविल, उंच प्रकार)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मयिलादुथुरैच्या पूर्वेस असलेले आक्कूर शिवाला तान्तोन्ड्रियप्पर — स्वयंभू प्रभू — म्हणून पूजते; मंदिराचा तलाव खणत असताना त्याचे लिंग आपोआप प्रकट झाले असे सांगितले जाते. संबंदर आणि अप्पर यांनी गायिलेले हे पाडल पेट्र स्थळम स्तोत्रांत तोन-तोन्ड्री माडम या नावाने ओळखले जाते आणि ते उंच माडा कोविल म्हणून बांधले गेले, परंपरेनुसार चोळ राजा कोचेंगट चोळ यांच्या मंदिरांपैकी एक. हे गाव त्रेसष्ट शैव संतांपैकी एक असलेल्या सिरप्पुली नायनार यांचे जन्मस्थानही आहे.",
   "sections": {
-    "history": "Akkur, east of Mayiladuthurai on the road toward Tharangambadi, is an ancient Shaiva village hymned in the seventh-century Tevaram by Sambandar and Appar and counted among the Paadal Petra Sthalams, where it is named Thon-Thondri Maadam. The temple was built as a Maada Kovil — a raised temple of the type traditionally ascribed to the early Chola king Kochengat Chola — and the village holds the added honour of being the birthplace of Sirappuli Nayanar, one of the sixty-three Shaiva saints.",
-    "architecture": "As a Maada Kovil the temple sits on an elevated base, reached by steps, in the manner of the Kochengat Chola foundations built high so that an elephant could not enter the sanctum. The sanctum enshrines the self-manifested lingam of Thanthondriappar, and the goddess Valnedunkanni has her own shrine. The temple's Murugan, praised by the saint-poet Arunagirinathar in his Tiruppugazh, adds to the devotional draw of the raised village shrine.",
-    "legends": "The name Thanthondriappar — 'the lord who appeared of himself' — comes from the tradition that the lingam rose on its own as a tank was being dug before the temple. A second story tells of a Chola king, in some tellings Kochengat Chola, afflicted with a disease no physician could cure; Shiva came to him in a dream and bade him feed a thousand people for forty-eight days, and on fulfilling this the king was healed and raised the Maada Kovil here. The village's honour as the birthplace of Sirappuli Nayanar binds it further into the story of the Shaiva saints.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam — and the day of Sirappuli Nayanar is observed with special honour as the saint's native place. The raised sanctum gives the festival processions their own character among the delta villages.",
-    "experience": "Climbing to the elevated sanctum of a Maada Kovil is part of the pilgrimage at Akkur, and the darshan of the self-manifested Thanthondriappar carries the sense of a lord who came forth of his own will. The village's link to Sirappuli Nayanar and to the healing of a king gives this quiet shrine a depth beyond its modest size."
+    "history": "मयिलादुथुरैच्या पूर्वेस, तरंगंबाडीच्या दिशेने जाणाऱ्या रस्त्यावरील आक्कूर हे संबंदर आणि अप्पर यांनी सातव्या शतकातील तेवारमध्ये गायिलेले प्राचीन शैव गाव असून पाडल पेट्र स्थळांत गणले जाते; तेथे त्याचे नाव तोन-तोन्ड्री माडम असे आहे. हे मंदिर माडा कोविल म्हणून बांधले गेले — परंपरेने सुरुवातीचा चोळ राजा कोचेंगट चोळ याच्याकडे ज्या प्रकारच्या मंदिरांचे श्रेय दिले जाते, तशा उंच मंदिराचा प्रकार — आणि गाव हे त्रेसष्ट शैव संतांपैकी एक सिरप्पुली नायनार यांचे जन्मस्थान असण्याचा अतिरिक्त मानही बाळगते.",
+    "architecture": "माडा कोविल असल्याने हे मंदिर उंच पायावर उभे आहे, तेथे पायऱ्यांनी जावे लागते; हत्तीला गर्भगृहात प्रवेश करता येऊ नये म्हणून उंच बांधलेल्या कोचेंगट चोळांच्या मंदिरांच्या पद्धतीप्रमाणे. गर्भगृहात तान्तोन्ड्रियप्परांचे स्वयंभू लिंग आहे, आणि देवी वाळ्नेडुंकण्णी हिचे स्वतंत्र मंदिर आहे. संतकवी अरुणगिरिनाथर यांनी आपल्या तिरुप्पुगळ्मध्ये स्तुती केलेला या मंदिरातील मुरुगन उंच गावमंदिराच्या भक्तिआकर्षणात भर घालतो.",
+    "legends": "तान्तोन्ड्रियप्पर — 'स्वतःहून प्रकटलेले प्रभू' — हे नाव या परंपरेवरून आले आहे की मंदिरासमोर तलाव खणत असताना लिंग आपोआप वर आले. दुसरी कथा एका चोळ राजाची सांगते, काही कथनांत कोचेंगट चोळ, जो कोणत्याही वैद्याला बरा करता न येणाऱ्या रोगाने पीडित होता; शिवाने स्वप्नात येऊन त्याला अठ्ठेचाळीस दिवस हजार लोकांना अन्नदान करण्यास सांगितले, आणि ते पूर्ण केल्यावर राजा बरा झाला व त्याने येथे माडा कोविल उभारले. सिरप्पुली नायनार यांचे जन्मस्थान असण्याचा गावाचा मान त्याला शैव संतांच्या कथेशी अधिकच जोडतो.",
+    "festivals": "मंदिरात शैव उत्सवपंचांग पाळले जाते — महाशिवरात्री, प्रदोषम, मार्गळी हंगाम आणि वार्षिक ब्रह्मोत्सवम — आणि संतांचे जन्मस्थान म्हणून सिरप्पुली नायनार यांचा दिवस विशेष आदराने साजरा केला जातो. उंच गर्भगृहामुळे उत्सवमिरवणुकींना त्रिभुज-प्रदेशातील गावांमध्ये आगळे स्वरूप लाभते.",
+    "experience": "माडा कोविलच्या उंच गर्भगृहापर्यंत चढून जाणे हा आक्कूरच्या यात्रेचा भाग आहे, आणि स्वयंभू तान्तोन्ड्रियप्परांचे दर्शन स्वतःच्या इच्छेने प्रकटलेल्या प्रभूची जाणीव देते. गावाचा सिरप्पुली नायनारांशी आणि एका राजाच्या आरोग्यप्राप्तीशी असलेला संबंध या शांत मंदिराला त्याच्या लहान आकारापलीकडची खोली देतो."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Akkur (Tiru-Aakkur) is about 16 km east of Mayiladuthurai on the Mayiladuthurai–Tharangambadi road, Mayiladuthurai district; the nearest rail head is Mayiladuthurai, with local buses and taxis to the village."
+    "timings": "साधारणपणे पहाटेपासून मध्यान्हापर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्या, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराशी ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत छायाचित्रणास साधारणपणे परवानगी असते, पण गर्भगृहात नाही; धार्मिक विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "आक्कूर (तिरु-आक्कूर) मयिलादुथुरै जिल्ह्यात, मयिलादुथुरै–तरंगंबाडी रस्त्यावर, मयिलादुथुरैच्या पूर्वेस सुमारे १६ किमी अंतरावर आहे; जवळचे रेल्वे स्थानक मयिलादुथुरै आहे, तेथून गावापर्यंत स्थानिक बस आणि टॅक्सी मिळतात."
   }
 }

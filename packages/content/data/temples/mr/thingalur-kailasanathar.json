@@ -1,30 +1,37 @@
 {
   "id": "thingalur-kailasanathar",
   "locale": "mr",
+  "name": "तिंगळूर कैलासनाथर मंदिर",
   "nativeName": "திங்களூர் கைலாசநாதர் கோயில்",
+  "deity": "कैलासनाथर रूपातील शिव, देवी पेरियनायकी यांच्यासह; चंद्र, म्हणजे चंद्रदेवासाठी स्वतंत्र मंदिर",
+  "tradition": "शैव; नवग्रह स्थळम आणि तेवारममध्ये गायिलेले वैप्पु स्थळम",
   "location": {
-    "city": "Thingalur (near Thiruvaiyaru)",
-    "state": "Tamil Nadu",
+    "city": "तिंगळूर (तिरुवैयारूजवळ)",
+    "state": "तमिळनाडू",
     "lat": 10.902,
     "lng": 79.152
   },
+  "period": "किमान सातव्या शतकापासूनचे पावित्र्य; चोळकालीन दगडी मंदिर",
   "century": 9,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "navagraha-temples"
   ],
+  "summary": "तिरुवैयारूजवळील तिंगळूर येथे शिवाची कैलासनाथर म्हणून पूजा होते आणि चंद्रदेवाचे स्वतःचे मंदिर आहे. हे चंद्राचे नवग्रह मंदिर आहे, जेथे भक्त शांत मनासाठी आणि चंद्र दोषातून मुक्ततेसाठी प्रार्थना करतात.",
   "sections": {
-    "history": "The name Thingalur carries the word for the Moon, and the town's sanctity reaches back to the age of the Nayanar saints, for it was sung in the Tevaram hymns and counts among the Vaippu Sthalams. That places its worship at least in the seventh century, though the granite temple that stands today took its lasting form under the Cholas. Thingalur is closely tied to Appudi Adigal, a devout Nayanar who so revered the saint Appar, or Tirunavukkarasar, that he named his family, his children and even his wells after him. The story of his son and of the grace shown by Appar is remembered here, binding the temple to the living tradition of Tamil bhakti.",
-    "architecture": "The temple follows the Dravidian pattern of the Chola country, built in enduring granite with a modest gateway leading to the sanctum of Kailasanathar. Within the walled precinct the shrine of the Goddess Periyanayaki stands apart, and the Moon god Chandra is honoured in his own separate shrine, which draws the special devotion of those who come for the Navagraha pilgrimage. Pillared halls, a circumambulatory path around the central sanctum, and the quiet proportions of a village temple give the place an unhurried, contemplative air rather than the grandeur of the great royal shrines.",
-    "legends": "The temple's chief legend belongs to Chandra, the Moon. Burdened by a curse that had dimmed his light, the Moon god is said to have come to Thingalur and worshipped Shiva here, and by that grace he was freed of the curse and regained his waxing brightness. For this reason the town is honoured as the Navagraha Sthalam of the Moon, and pilgrims come to seek relief from Chandra dosha, a settled and peaceful mind, and cures for ailments held to be governed by the Moon. Woven alongside is the memory of Appudi Adigal, whose unwavering love for the saint Appar is recalled in the devotional lore of the place.",
-    "festivals": "Worship here follows the rhythms sacred to Shiva and to the Moon. Pradosham is observed with special care, and Sivaratri draws devotees for night-long prayer. Mondays, the day of the Moon, are kept for Chandra worship, and on full-moon days a special abhishekam is offered to the Moon god. Through the year these observances keep the twin devotions of the temple, to Kailasanathar and to Chandra, gently alive.",
-    "experience": "Set among the paddy fields near Thiruvaiyaru, Thingalur rewards the unhurried visitor. Step in during the calm of morning or the lamp-lit evening, offer prayers first at the sanctum of Kailasanathar and the Goddess, then turn to the shrine of Chandra to seek a quiet mind. The temple is small and unhurried, and time spent in its cool granite halls, especially on a Monday or a full-moon evening, carries the gentle, restorative feeling that devotees associate with the Moon."
+    "history": "तिंगळूर या नावात चंद्रासाठीचा शब्द आहे, आणि गावाचे पावित्र्य नायनार संतांच्या काळापर्यंत जाते, कारण ते तेवारम स्तोत्रांत गायिले गेले आहे आणि वैप्पु स्थळांत गणले जाते. यावरून तेथील पूजा किमान सातव्या शतकातील ठरते, तरी आज उभे असलेले ग्रॅनाइटचे मंदिर चोळांच्या काळात कायमस्वरूपी रूपाला आले. तिंगळूर अप्पुडी अडिगळ यांच्याशी घट्ट जोडलेले आहे; ते एक निष्ठावान नायनार होते, ज्यांनी संत अप्पर, म्हणजे तिरुनावुक्करसर, यांचा इतका आदर केला की त्यांनी आपले कुटुंब, आपली मुले आणि आपल्या विहिरींनाही त्यांचे नाव दिले. त्यांच्या मुलाची आणि अप्परांनी दाखवलेल्या कृपेची कथा येथे स्मरली जाते, आणि ती मंदिराला तमिळ भक्तीच्या जिवंत परंपरेशी जोडते.",
+    "architecture": "हे मंदिर चोळ प्रदेशाच्या द्रविड आकृतिबंधाचे अनुसरण करते, टिकाऊ ग्रॅनाइटमध्ये बांधलेले, कैलासनाथरांच्या गर्भगृहाकडे नेणाऱ्या साध्या प्रवेशद्वारासह. तटबंदीयुक्त परिसरात देवी पेरियनायकी हिचे मंदिर वेगळे उभे आहे, आणि चंद्रदेवाचा स्वतंत्र मंदिरात सन्मान केला जातो; नवग्रह यात्रेसाठी येणाऱ्यांची त्याला विशेष भक्ती लाभते. स्तंभयुक्त मंडप, मुख्य गर्भगृहाभोवतीचा प्रदक्षिणा-मार्ग आणि गावातील मंदिराचे शांत प्रमाण या स्थळाला महान राजमंदिरांच्या भव्यतेऐवजी घाई-गडबडीविरहित, चिंतनशील वातावरण देतात.",
+    "legends": "मंदिराची प्रमुख आख्यायिका चंद्राशी निगडित आहे. आपला प्रकाश मंदावणाऱ्या शापाने ग्रस्त झालेला चंद्रदेव तिंगळूर येथे येऊन येथे शिवाची पूजा केली असे सांगितले जाते, आणि त्या कृपेमुळे तो शापमुक्त झाला व त्याची वाढती तेजस्विता त्याला परत मिळाली. म्हणूनच गावाचा चंद्राचे नवग्रह स्थळम म्हणून सन्मान केला जातो, आणि यात्रेकरू चंद्र दोषातून मुक्तता, स्थिर आणि शांत मन, आणि चंद्राच्या अधिपत्याखाली मानल्या जाणाऱ्या व्याधींवरील उपायांसाठी येथे येतात. यासोबतच अप्पुडी अडिगळ यांची आठवण गुंफलेली आहे, ज्यांचे संत अप्परांवरील अढळ प्रेम येथील भक्तिपरंपरेत स्मरले जाते.",
+    "festivals": "येथील पूजा शिवाला आणि चंद्राला पवित्र असलेल्या लयींचे अनुसरण करते. प्रदोषम विशेष काळजीने पाळला जातो, आणि शिवरात्रीला भक्त रात्रभर प्रार्थनेसाठी येतात. चंद्राचा वार असलेला सोमवार चंद्रपूजेसाठी राखलेला असतो, आणि पौर्णिमेच्या दिवशी चंद्रदेवाला विशेष अभिषेक केला जातो. वर्षभर हे पाळले जाणारे विधी कैलासनाथर आणि चंद्र या मंदिराच्या दोन्ही भक्तींना हळुवारपणे जिवंत ठेवतात.",
+    "experience": "तिरुवैयारूजवळच्या भातशेतांमध्ये वसलेले तिंगळूर घाई न करणाऱ्या अभ्यागताला समाधान देते. सकाळच्या शांततेत किंवा दिव्यांनी उजळलेल्या संध्याकाळी आत जा, आधी कैलासनाथर आणि देवीच्या गर्भगृहात प्रार्थना करा, मग शांत मनासाठी चंद्राच्या मंदिराकडे वळा. मंदिर लहान आणि घाई-गडबडीविरहित आहे, आणि त्याच्या थंड ग्रॅनाइट मंडपात घालवलेला वेळ, विशेषतः सोमवारी किंवा पौर्णिमेच्या संध्याकाळी, भक्त चंद्राशी जोडतात त्या सौम्य, उल्हसित करणाऱ्या अनुभूतीने भरलेला असतो."
   },
   "visit": {
-    "timings": "Generally open about 7:00 am to 12:00 noon and 4:00 to 8:00 pm; please verify locally, as timings may change on festival days.",
-    "dressCode": "Modest, traditional dress is expected; dress respectfully as at any active temple.",
-    "photography": "Photography inside the sanctum is generally not permitted; ask temple staff before taking any pictures.",
-    "gettingThere": "Thingalur lies near Thiruvaiyaru, about 18 km from Thanjavur in Thanjavur district. The nearest hubs are Thiruvaiyaru and Thanjavur; the nearest railhead is Thanjavur, and the nearest airport is Tiruchirappalli, about 70 km away."
+    "timings": "साधारणपणे सकाळी ७:०० ते दुपारी १२:०० आणि संध्याकाळी ४:०० ते ८:०० पर्यंत उघडे असते; कृपया स्थानिक पातळीवर खात्री करा, कारण उत्सवाच्या दिवशी वेळा बदलू शकतात.",
+    "dressCode": "नम्र, पारंपरिक पोशाख अपेक्षित आहे; कोणत्याही कार्यरत मंदिराप्रमाणे आदरपूर्वक पोशाख करा.",
+    "photography": "गर्भगृहाच्या आत छायाचित्रणास साधारणपणे परवानगी नाही; कोणतीही छायाचित्रे घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिंगळूर तंजावर जिल्ह्यात, तंजावूरपासून सुमारे १८ किमी अंतरावर, तिरुवैयारूजवळ आहे. जवळची केंद्रे तिरुवैयारू आणि तंजावूर आहेत; जवळचे रेल्वे स्थानक तंजावूर आहे, आणि जवळचे विमानतळ तिरुचिरापल्ली, सुमारे ७० किमी अंतरावर, आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thingalur-kailasanathar.jpg",
