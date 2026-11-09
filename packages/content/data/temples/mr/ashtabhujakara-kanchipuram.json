@@ -1,31 +1,38 @@
 {
   "id": "ashtabhujakara-kanchipuram",
   "locale": "mr",
+  "name": "अष्टभुज पेरुमाळ मंदिर, कांचीपुरम",
   "nativeName": "அஷ்டபுஜப் பெருமாள் கோயில், திருவட்டபுயகரம், காஞ்சிபுரம்",
+  "deity": "विष्णू अष्टभुज पेरुमाळ, म्हणजे अष्टभुजाधारी भगवान, यांच्या रूपात — आदिकेशव पेरुमाळ आणि गजेंद्र वरदन या नावांनीही ओळखले जाणारे — देवी अलर्मेल मंगई (पद्मासनी) यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.823,
     "lng": 79.711
   },
+  "period": "कांचीपुरममधील तोंडई नाडूचे एक दिव्य देशम; नालायिर दिव्य प्रबंधमध्ये पेय आळवार आणि तिरुमंगै आळवार यांनी गायलेले",
   "century": 8,
+  "dynasty": "तोंडई प्रदेश (कांचीपुरम), नंतरच्या भरांसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "कांचीपुरममध्ये विष्णूची पूजा अष्टभुज पेरुमाळ म्हणून होते — ब्रह्मदेवाच्या यज्ञाचे रक्षण करण्यासाठी उभे राहिलेले आठ भुजांचे भगवान; पेय आळवार आणि तिरुमंगै आळवार यांनी गायलेले तोंडई नाडूचे एक दिव्य देशम.",
   "sections": {
-    "history": "Thiruvattabuyagaram — 'the sacred place of the eight arms' — is one of the 108 Divya Desams and one of the fourteen Divya Desams within Kanchipuram, the ancient capital of Thondai Nadu. It was sung by Pey Alvar, one of the three Mudhal Alvars, and by Thirumangai Alvar, whose pilgrim hymns gather in so many of Kanchi's Vishnu shrines. The Lord here is known by several names: Ashtabhuja Perumal for his eight arms, Adikesava Perumal, Chakradhar, and Gajendra Varadhan, the protector of the elephant. Among Kanchi's great temple cluster it is a smaller shrine, but its place in the Prabandham has kept it in the round of every Divya Desam pilgrim to the city.",
-    "architecture": "The temple follows the Dravidian plan of Kanchi's Vishnu shrines, entered through a gateway tower into a walled court, with the sanctum of the eight-armed Lord at the centre and the Goddess Alarmelmangai in her own shrine. The presiding image is the shrine's distinction: Vishnu shown with eight arms rather than the usual four, the form that gives the temple its name. Pillared halls open before the sanctum in the manner of the town's temples.",
-    "legends": "The sthala purana belongs to the great Kanchi cycle of Brahma's sacrifice. Saraswati, angered that Brahma had sided with Lakshmi, sent hostile forces to break up the sacrifice — in one telling a host of demons and then the fierce lion-bird Sharabha, in another a serpent. Vishnu rose to guard the rite, taking a form with eight arms, and drove them back. Another tradition links the shrine to Gajendra Moksha, the rescue of the elephant king from the crocodile — hence the name Gajendra Varadhan.",
-    "festivals": "The temple keeps the Vaishnava festival year of Kanchipuram — Vaikunta Ekadashi in Margazhi, the birth-stars of Pey Alvar and Thirumangai Alvar, and the annual festival of the presiding Lord, when the processional image comes out into the streets. Confirm festival dates locally.",
-    "experience": "Visit as part of a round of Kanchipuram's Divya Desams; the Azhagiya Singar temple of Thiruvelukkai lies close by. Pause before the eight-armed Lord and remember the legend of a sacrifice protected. A quieter shrine than the great temples of the town, it rewards a slow, attentive darshan."
+    "history": "तिरुवट्टबुयगरम — 'आठ भुजांचे पवित्र स्थान' — हे १०८ दिव्य देशमांपैकी एक असून तोंडई नाडूची प्राचीन राजधानी कांचीपुरममधील चौदा दिव्य देशमांपैकी एक आहे. तीन मुदल आळवारांपैकी एक पेय आळवार आणि तिरुमंगै आळवार, ज्यांची तीर्थयात्रा-स्तोत्रे कांचीच्या अनेक विष्णू मंदिरांमध्ये एकत्र येतात, यांनी या स्थानाचे गायन केले. येथील भगवान अनेक नावांनी ओळखले जातात: आठ भुजांमुळे अष्टभुज पेरुमाळ, आदिकेशव पेरुमाळ, चक्रधर आणि हत्तीचे रक्षक गजेंद्र वरदन. कांचीच्या मंदिरसमूहात हे तुलनेने लहान मंदिर आहे, परंतु प्रबंधममधील स्थानामुळे नगराच्या प्रत्येक दिव्य देशम यात्रेकरूच्या फेरीत त्याला स्थान राहिले आहे.",
+    "architecture": "हे मंदिर कांचीच्या विष्णू मंदिरांच्या द्रविड आराखड्याचे पालन करते; गोपुराच्या प्रवेशद्वारातून तटबंदी असलेल्या प्रांगणात प्रवेश होतो, मध्यभागी अष्टभुज भगवानांचा गाभारा आणि देवी अलर्मेल मंगई यांचे स्वतंत्र मंदिर आहे. मुख्य मूर्ती हे या मंदिराचे वैशिष्ट्य आहे: नेहमीच्या चार भुजांऐवजी आठ भुजांसह दाखवलेले विष्णू, ज्या रूपावरून मंदिराला नाव मिळाले. नगरातील इतर मंदिरांप्रमाणे गाभाऱ्यासमोर स्तंभयुक्त मंडप उघडतात.",
+    "legends": "स्थलपुराण ब्रह्मदेवाच्या यज्ञाच्या कांचीतील महान कथाचक्राशी संबंधित आहे. ब्रह्मदेवाने लक्ष्मीची बाजू घेतल्याने रागावलेल्या सरस्वतीने यज्ञ उधळण्यासाठी शत्रुसैन्ये पाठवली — एका कथनानुसार असुरांची टोळी आणि नंतर भयंकर सिंह-पक्षी शरभ, तर दुसऱ्या कथनानुसार एक सर्प. विष्णू यज्ञाच्या रक्षणासाठी उभे राहिले, त्यांनी आठ भुजांचे रूप घेतले आणि त्या शक्तींना मागे हटवले. आणखी एक परंपरा या मंदिराला गजेंद्र मोक्षाशी जोडते — मगरीच्या तावडीतून गजराजाची सुटका — म्हणूनच गजेंद्र वरदन हे नाव.",
+    "festivals": "हे मंदिर कांचीपुरमचे वैष्णव उत्सववर्ष पाळते — मार्गळी महिन्यातील वैकुंठ एकादशी, पेय आळवार आणि तिरुमंगै आळवार यांची जन्मनक्षत्रे, आणि मुख्य भगवानांचा वार्षिक उत्सव, ज्यावेळी उत्सवमूर्ती रस्त्यांवर येते. उत्सवाच्या तारखा स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "experience": "कांचीपुरमच्या दिव्य देशमांच्या फेरीचा भाग म्हणून येथे भेट द्यावी; तिरुवेळुक्कैचे अळगिय सिंगर मंदिर जवळच आहे. अष्टभुज भगवानांसमोर थांबून रक्षण केलेल्या यज्ञाची कथा स्मरावी. नगरातील मोठ्या मंदिरांपेक्षा हे शांत मंदिर असून सावकाश, लक्षपूर्वक दर्शन घेणाऱ्यांना ते समाधान देते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies within Kanchipuram town, which has a railway station and is reached by road from Chennai (around 70 km); Chennai has the nearest major airport."
+    "timings": "दररोज उघडे; सकाळ आणि सायंकाळी दर्शनाची सत्रे असून दुपारी बंद असते. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "dressCode": "माफक पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गाभाऱ्यात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "हे कांचीपुरम नगरातच आहे; येथे रेल्वे स्थानक असून चेन्नईहून (सुमारे ७० किमी) रस्त्याने पोहोचता येते; चेन्नई येथे सर्वांत जवळचे मोठे विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.jpg",

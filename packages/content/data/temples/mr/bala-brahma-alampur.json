@@ -1,30 +1,37 @@
 {
   "id": "bala-brahma-alampur",
   "locale": "mr",
+  "name": "बाल ब्रह्म मंदिर, आलमपूर",
   "nativeName": "బాల బ్రహ్మేశ్వర ఆలయం, అలంపూర్",
+  "deity": "शिव, बाल ब्रह्मेश्वर म्हणून पूजले जाणारे",
+  "tradition": "शैव",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "आलमपूर",
+    "state": "तेलंगणा",
     "lat": 15.8775,
     "lng": 78.1357
   },
+  "period": "आरंभिक चालुक्य, सातव्या शतकाचा उत्तरार्ध; अजूनही दैनंदिन पूजेत असलेले एकमेव नवब्रह्म मंदिर",
   "century": 7,
+  "dynasty": "बदामीचे चालुक्य",
+  "style": "आरंभिक चालुक्य, उत्तरी (रेखा-नागर) शिखर",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "आलमपूरच्या नऊ नवब्रह्म मंदिरांपैकी सर्वांत मोठे आणि अजूनही दैनंदिन पूजेत असलेले एकमेव, बाल ब्रह्म शिवाला बाल ब्रह्मेश्वर म्हणून जपते — आणि सहा शतके त्याने आपल्या भिंतींत देवी जोगुळांबेला आश्रय दिला.",
   "sections": {
-    "history": "Bala Brahma is the principal temple of the Navabrahma group, the nine Early Chalukya shrines raised on the Tungabhadra at Alampur in the seventh and eighth centuries, and it is the only one of them in which worship has never ceased. It is generally placed in the later seventh century. A Sanskrit inscription on one of its pillars, cut in the reign of the Chalukya king Vijayaditya (696–733), celebrates his father Vinayaditya's victory over the lord of the northern country and the seizure of the royal insignia of the kings of Malwa and Lata. The temple's later story is bound to the goddess: when the Jogulamba shrine was destroyed in 1390, her image was carried here for safety, and she was worshipped within these walls until her own temple was rebuilt beside it in 2005.",
-    "architecture": "The largest temple of the group and the most complete as a working shrine, Bala Brahma is built of the local sandstone, with a curving northern-style tower over the sanctum. A porch and a broad pillared hall lead to the sanctum, which is ringed by an inner passage for circumambulation, and a pillared verandah wraps the whole building so that devotees can make a second, outer round. Perforated stone windows filter light into the hall. Inside, carvings of Mahishasuramardini, the Seven Mothers, Indra and Agni line the hall, and a large dancing Shiva spreads across the ceiling; many of the outer niches now stand empty.",
-    "legends": "Alampur's temple names recall a tradition that Brahma performed penance here and worshipped Shiva, who is remembered in nine forms across the group; Bala Brahma, 'the youthful Brahma', is the foremost of them. Devotees say the linga in the sanctum bears the shape of a bull's hoof-print, a sign of Nandi's presence. The temple's deepest story, though, is one of shelter: for more than six hundred years it kept the goddess Jogulamba safe after her shrine was lost, and Shiva here is still worshipped as her consort, Bala Brahmeshwara.",
-    "festivals": "Maha Shivaratri is the temple's great night, its vigil and abhishekam drawing pilgrims from Telangana, Andhra Pradesh and Karnataka. Because Bala Brahmeshwara is worshipped as Jogulamba's consort, the temple shares in her Navaratri and Dasara celebrations and her annual Brahmotsavam, while Mondays and the month of Kartika bring steady crowds. Confirm dates locally.",
-    "experience": "Most pilgrims come to Bala Brahma straight from the Jogulamba temple a few steps away, completing the paired darshan of the goddess and her lord. After the sanctum, walk the outer verandah slowly and look up at the dancing Shiva on the hall ceiling. The other Navabrahma temples are only a short stroll across the lawns — Garuda Brahma just to the south, Swarga Brahma behind — and the river ghats lie close by."
+    "history": "बाल ब्रह्म हे नवब्रह्म समूहाचे मुख्य मंदिर आहे — आलमपूर येथे तुंगभद्रेकाठी सातव्या आणि आठव्या शतकांत उभारलेली नऊ आरंभिक चालुक्य मंदिरे — आणि त्यांपैकी हे असे एकमेव आहे ज्यात पूजा कधीच थांबली नाही. साधारणपणे ते सातव्या शतकाच्या उत्तरार्धातील मानले जाते. त्याच्या एका स्तंभावरील संस्कृत शिलालेख, चालुक्य राजा विजयादित्य (६९६–७३३) याच्या कारकिर्दीत कोरलेला, त्याचे वडील विनयादित्य यांनी उत्तरेकडील प्रदेशाच्या स्वामीवर मिळवलेल्या विजयाचा आणि माळवा व लाटाच्या राजांची राजचिन्हे हस्तगत केल्याचा गौरव करतो. मंदिराची पुढील कथा देवीशी जोडलेली आहे: १३९० मध्ये जोगुळांबा मंदिराचा विध्वंस झाल्यावर तिची मूर्ती सुरक्षिततेसाठी येथे आणली गेली, आणि २००५ मध्ये तिचे स्वतःचे मंदिर याच्या शेजारी पुन्हा बांधले जाईपर्यंत तिची पूजा या भिंतींमध्ये होत राहिली.",
+    "architecture": "समूहातील सर्वांत मोठे आणि कार्यरत मंदिर म्हणून सर्वांत पूर्ण असलेले बाल ब्रह्म स्थानिक वाळूखडकाने बांधलेले असून गाभाऱ्यावर वळणदार उत्तरी शैलीचे शिखर आहे. ओसरी आणि रुंद स्तंभयुक्त सभामंडप गाभाऱ्याकडे नेतात; गाभाऱ्याभोवती प्रदक्षिणेसाठी आतील मार्ग आहे, आणि स्तंभयुक्त व्हरांडा संपूर्ण वास्तूला वेढतो, जेणेकरून भक्त दुसरी, बाह्य प्रदक्षिणा करू शकतात. छिद्रयुक्त दगडी खिडक्या सभामंडपात प्रकाश गाळून आणतात. आत महिषासुरमर्दिनी, सप्तमातृका, इंद्र आणि अग्नी यांची शिल्पे सभामंडपात रांगेने आहेत, आणि छतावर मोठा नृत्य करणारा शिव पसरलेला आहे; बाहेरील अनेक कोनाडे आता रिकामे आहेत.",
+    "legends": "आलमपूरच्या मंदिरांची नावे एका परंपरेचे स्मरण करतात की ब्रह्मदेवाने येथे तपश्चर्या करून शिवाची पूजा केली, जो या समूहात नऊ रूपांत स्मरला जातो; बाल ब्रह्म, 'तरुण ब्रह्मा', त्यांपैकी अग्रगण्य आहे. भक्त सांगतात की गाभाऱ्यातील लिंगावर बैलाच्या खुराच्या ठशाचा आकार आहे, जे नंदीच्या उपस्थितीचे चिन्ह आहे. तरीही मंदिराची सर्वांत खोल कथा आश्रयाची आहे: सहाशेहून अधिक वर्षे तिने देवी जोगुळांबेचे मंदिर गमावल्यानंतर तिला सुरक्षित ठेवले, आणि येथील शिव अजूनही तिचा पती, बाल ब्रह्मेश्वर, म्हणून पूजले जातात.",
+    "festivals": "महाशिवरात्र ही मंदिराची महान रात्र आहे; तिचा जागर आणि अभिषेक तेलंगणा, आंध्र प्रदेश आणि कर्नाटकातून यात्रेकरूंना खेचतो. बाल ब्रह्मेश्वराची पूजा जोगुळांबेचे पती म्हणून होत असल्याने मंदिर तिच्या नवरात्र आणि दसरा उत्सवांत आणि तिच्या वार्षिक ब्रह्मोत्सवात सहभागी होते, तर सोमवार आणि कार्तिक महिना सातत्याने गर्दी आणतात. तारखा स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "experience": "बहुतेक यात्रेकरू काही पावलांवर असलेल्या जोगुळांबा मंदिरातून थेट बाल ब्रह्माकडे येतात आणि देवी व तिच्या पतीचे जोडदर्शन पूर्ण करतात. गाभाऱ्यानंतर बाह्य व्हरांड्यातून सावकाश चालावे आणि सभामंडपाच्या छतावरील नृत्य करणाऱ्या शिवाकडे वर पाहावे. इतर नवब्रह्म मंदिरे हिरवळीपलीकडे थोड्या फेरफटक्याच्या अंतरावर आहेत — गरुड ब्रह्म अगदी दक्षिणेला, स्वर्ग ब्रह्म मागे — आणि नदीचे घाट जवळच आहेत."
   },
   "visit": {
-    "timings": "Open daily for darshan in the morning and evening, with a midday closure; Maha Shivaratri, Navaratri and Mondays are the busiest times. Confirm current timings locally.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. As a living shrine, respectful conduct is asked of all visitors.",
-    "photography": "Photography is not permitted in the sanctum; follow the posted rules and the priests' guidance. The surrounding Navabrahma monuments are protected by the Archaeological Survey of India and have their own rules.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away, with local transport to the riverside precinct, where the temple stands beside the Jogulamba temple."
+    "timings": "दररोज सकाळी आणि सायंकाळी दर्शनासाठी उघडे असते, दुपारी बंद असते; महाशिवरात्र, नवरात्र आणि सोमवार हे सर्वाधिक गर्दीचे काळ आहेत. सध्याच्या वेळा स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "dressCode": "माफक पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे बाहेर ठेवावीत. जिवंत मंदिर असल्याने सर्व अभ्यागतांकडून आदरयुक्त वर्तनाची अपेक्षा आहे.",
+    "photography": "गाभाऱ्यात छायाचित्रणास परवानगी नाही; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे. आजूबाजूची नवब्रह्म स्मारके भारतीय पुरातत्त्व सर्वेक्षणाद्वारे संरक्षित असून त्यांचे स्वतःचे नियम आहेत.",
+    "gettingThere": "आलमपूर जोगुळांबा गडवाल जिल्ह्यात, कुर्नूलपासून सुमारे २५ किमी आणि हैदराबादच्या दक्षिणेला सुमारे २२० किमी, हैदराबाद–बेंगळुरू महामार्गाला (एनएच ४४) लागून आहे. हैदराबाद–कुर्नूल मार्गावरील आलमपूर रोड रेल्वे स्थानक सुमारे ९ किमी दूर आहे; तेथून स्थानिक वाहतुकीने नदीकाठच्या परिसरात पोहोचता येते, जेथे मंदिर जोगुळांबा मंदिराच्या शेजारी उभे आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/bala-brahma-alampur.jpg",
