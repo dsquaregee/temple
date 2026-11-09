@@ -1,30 +1,37 @@
 {
   "id": "thiruvidaimarudur-mahalingaswamy",
   "locale": "mr",
+  "name": "महालिंगस्वामी मंदिर, तिरुविडैमरुदूर",
   "nativeName": "மகாலிங்கசுவாமி கோயில், திருவிடைமருதூர்",
+  "deity": "महालिंगस्वामी (मध्यार्जुन) रूपातील शिव, त्रिभुज प्रदेशातील मंदिरांच्या केंद्रस्थानी असलेले महालिंग",
+  "tradition": "शैव (तेवारम्मधील पाडल पेत्र स्थळ)",
   "location": {
-    "city": "Thiruvidaimarudur",
-    "state": "Tamil Nadu",
+    "city": "तिरुविडैमरुदूर",
+    "state": "तमिळनाडू",
     "lat": 10.998,
     "lng": 79.451
   },
+  "period": "कावेरी त्रिभुज प्रदेशातील महान चोळ शिवमंदिर, तेवारम्मध्ये गायलेले, प्रदेशातील मंदिरांचे केंद्र मानलेले",
   "century": 10,
+  "dynasty": "चोळ, नंतरच्या भरीसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "kaveri-delta-temple-towns"
   ],
+  "summary": "कावेरी त्रिभुज प्रदेशात शिव महालिंगस्वामी — मध्यार्जुन, त्रिभुज प्रदेशातील शिवमंदिरांच्या केंद्रस्थानी असलेले महालिंग — म्हणून पूजले जातात, तेवारम् संतांनी गायलेल्या विशाल चोळ मंदिरात.",
   "sections": {
-    "history": "Thiruvidaimarudur lies in the Kaveri delta near Kumbakonam, its great temple grown from Chola foundations and sung in the Tevaram, the Tamil hymns of the Nayanmar saints. The lord here is Mahalingaswamy, and the place is Madhyarjuna, held to stand at the centre of the delta's Shiva temples, with Tiruvarur and others as its limbs.",
-    "architecture": "The temple spreads in the Dravidian manner through wide enclosures and pillared halls beneath towered gateways, one of the larger shrines of the delta. Its corridors carry Chola and later work, and the great linga is worshipped at its heart.",
-    "legends": "Madhyarjuna — the 'middle arjuna' — is held to be the centre of a group of Shiva temples of the delta, so that a pilgrimage here is a pilgrimage to the heart of the region's Shaiva faith. The temple is sung by the Tevaram saints, marking it a Paadal Petra Sthalam, a shrine hymned by the earliest Tamil devotees of Shiva.",
-    "festivals": "Maha Shivaratri and the temple's own festivals of the Nayanmar draw pilgrims through the year, with the great car festivals among the delta's grandest. The days of the Tevaram saints are kept with recitation of the hymns.",
-    "experience": "To worship at Thiruvidaimarudur is to stand at the traditional centre of the Kaveri delta's Shiva temples — a vast, hymn-sung shrine at the heart of one of India's densest landscapes of devotion."
+    "history": "तिरुविडैमरुदूर कुंभकोणमजवळ कावेरी त्रिभुज प्रदेशात आहे; त्याचे महान मंदिर चोळांच्या पायावर वाढले आणि नायनमार संतांच्या तमिळ स्तोत्रसंग्रह तेवारम्मध्ये गायले गेले आहे. येथील प्रभू महालिंगस्वामी आहेत, आणि हे स्थळ मध्यार्जुन आहे, जे त्रिभुज प्रदेशातील शिवमंदिरांच्या केंद्रस्थानी मानले जाते; तिरुवारूर आणि इतर त्याचे अवयव मानले जातात.",
+    "architecture": "मंदिर द्रविड पद्धतीने रुंद आवारांतून आणि शिखरयुक्त प्रवेशद्वारांखालील स्तंभयुक्त सभागृहांतून पसरलेले आहे, त्रिभुज प्रदेशातील मोठ्या मंदिरांपैकी एक. त्याच्या प्रदक्षिणा-मार्गांत चोळ आणि नंतरचे बांधकाम दिसते, आणि त्याच्या हृदयस्थानी महालिंगाची पूजा होते.",
+    "legends": "मध्यार्जुन — 'मधला अर्जुन' — हे त्रिभुज प्रदेशातील शिवमंदिरांच्या समूहाचे केंद्र मानले जाते, म्हणून येथील यात्रा म्हणजे प्रदेशाच्या शैव श्रद्धेच्या हृदयाची यात्रा. मंदिर तेवारम् संतांनी गायले आहे, म्हणून ते पाडल पेत्र स्थळ आहे — शिवाचे सर्वांत प्राचीन तमिळ भक्तांनी स्तुती केलेले क्षेत्र.",
+    "festivals": "महाशिवरात्र आणि नायनमारांचे मंदिराचे स्वतःचे उत्सव वर्षभर यात्रेकरूंना आकर्षित करतात; त्रिभुज प्रदेशातील सर्वांत भव्य उत्सवांत रथोत्सव गणले जातात. तेवारम् संतांचे दिवस स्तोत्रपठणाने पाळले जातात.",
+    "experience": "तिरुविडैमरुदूर येथे उपासना करणे म्हणजे कावेरी त्रिभुज प्रदेशातील शिवमंदिरांच्या पारंपरिक केंद्रस्थानी उभे राहणे — भारतातील भक्तीच्या सर्वांत दाट प्रदेशांपैकी एकाच्या हृदयातील विशाल, स्तोत्रांनी गायलेले मंदिर."
   },
   "visit": {
-    "timings": "Open daily with morning and evening worship and a midday break; Maha Shivaratri and the car festival are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvidaimarudur lies near Kumbakonam in the Kaveri delta of Tamil Nadu, reached by road from Kumbakonam and Thanjavur, with its own railway station on the line through Kumbakonam."
+    "timings": "दररोज सकाळ-संध्याकाळच्या उपासनेसह उघडे असते आणि दुपारी विश्रांतीचा काळ असतो; महाशिवरात्र आणि रथोत्सवात सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढलेली. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आजूबाजूला छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुविडैमरुदूर तमिळनाडूतील कावेरी त्रिभुज प्रदेशात कुंभकोणमजवळ आहे; कुंभकोणम आणि तंजावूर येथून रस्त्याने पोहोचता येते, आणि कुंभकोणममार्गे जाणाऱ्या मार्गावर त्याचे स्वतःचे रेल्वे स्थानक आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thiruvidaimarudur-mahalingaswamy.jpg",
