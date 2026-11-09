@@ -1,30 +1,37 @@
 {
   "id": "somnath-prabhas-patan",
   "locale": "mr",
+  "name": "सोमनाथ मंदिर, प्रभास पाटण",
   "nativeName": "श्री सोमनाथ ज्योतिर्लिंग मंदिर",
+  "deity": "शिव सोमनाथ रूपात, चंद्राचा स्वामी — बारा ज्योतिर्लिंगांपैकी पहिले",
+  "tradition": "शैव संप्रदाय",
   "location": {
-    "city": "Prabhas Patan (Somnath)",
-    "state": "Gujarat",
+    "city": "प्रभास पाटण (सोमनाथ)",
+    "state": "गुजरात",
     "lat": 20.888,
     "lng": 70.4014
   },
+  "period": "सौराष्ट्र किनाऱ्यावरील प्रभासाचे प्राचीन तीर्थ; अनेकदा पुनर्बांधणी, सध्याचे मंदिर १९५१ मध्ये प्रतिष्ठापित",
   "century": 11,
+  "dynasty": "चौलुक्य (सोळंकी) आणि नंतरचे; सध्याचे मंदिर श्री सोमनाथ ट्रस्टद्वारे",
+  "style": "मारू-गुर्जर (चालुक्य किंवा सोळंकी शैली)",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "अरबी समुद्राच्या किनाऱ्यावरील प्रभास पाटण येथे सोमनाथ हे चंद्राच्या स्वामी शिवाचे — बारा ज्योतिर्लिंगांपैकी पहिल्या — स्थान आहे; हजार वर्षांत पुन्हा पुन्हा उभारले गेलेले देवालय.",
   "sections": {
-    "history": "Prabhasa, where three rivers meet the sea on the Saurashtra coast, has been a place of pilgrimage since epic times, and the Dvadasha Jyotirlinga Stotram opens its roll of the twelve Jyotirlingas with \"Somanatha in Saurashtra.\" The temple's story is one of repeated loss and renewal. It was sacked by Mahmud of Ghazni in 1025–26, rebuilt by the Chaulukya (Solanki) kings of Gujarat — among them Kumarapala in the 12th century — and damaged and raised again more than once in the centuries that followed. In 1783 Ahilyabai Holkar built a separate Shiva temple close by, where worship continued. After Independence a public trust undertook a complete rebuilding on the ancient site, and the Jyotirlinga was consecrated by President Rajendra Prasad on 11 May 1951.",
-    "architecture": "The present temple, designed by the master builder Prabhashankar Sompura, revives the Maru-Gurjara manner of the old Solanki temples of Gujarat. Its plan, called Kailash Mahameru Prasad, runs from the sanctum through an assembly hall to a dance pavilion, every surface worked in carved sandstone. The shikhara rises about fifty metres and is crowned by a kalasha said to weigh ten tonnes. On the sea wall stands the Baan Stambh, an arrow pillar whose inscription holds that no land lies between this shore and the South Pole along its line.",
-    "legends": "The name means Lord of Soma, the Moon. The Puranas tell that Chandra married the twenty-seven daughters of Daksha but loved only Rohini, and the slighted father cursed him to waste away. Fading, the Moon came to Prabhasa and worshipped Shiva, who softened the curse so that Chandra would wane and wax in turn — the rhythm of every lunar month. Here, it is said, Shiva remained as Somanatha. Prabhasa is also linked with the last days of Krishna, whose departure from the world tradition places at nearby Bhalka Tirtha.",
-    "festivals": "Maha Shivaratri brings the largest crowds, with worship through the night. The month of Shravan is especially sacred, its Mondays drawing pilgrims from across Gujarat and beyond. A large fair gathers on the shore at Kartik Purnima, and the Triveni Sangam fills with bathers on auspicious days. Confirm dates locally.",
-    "experience": "Somnath is best seen as the sun goes down, when the evening aarti sounds within and the sandstone spire glows against the sea. Walk out to the Baan Stambh to hear the waves on the wall, then visit the Ahilyabai temple, the Triveni Sangam and Bhalka Tirtha nearby. An evening light-and-sound presentation retells the temple's long history."
+    "history": "सौराष्ट्राच्या किनाऱ्यावर, जिथे तीन नद्या समुद्राला मिळतात, तो प्रभास महाकाव्यांच्या काळापासून तीर्थक्षेत्र आहे, आणि द्वादश ज्योतिर्लिंग स्तोत्र बारा ज्योतिर्लिंगांची यादी \"सौराष्ट्रे सोमनाथं\" या शब्दांनी सुरू करते. या मंदिराची कहाणी वारंवार झालेल्या हानीची आणि पुनर्निर्मितीची आहे. १०२५–२६ मध्ये महमूद गझनवीने ते लुटले, गुजरातच्या चौलुक्य (सोळंकी) राजांनी — त्यांपैकी १२व्या शतकात कुमारपालाने — ते पुन्हा बांधले, आणि त्यानंतरच्या शतकांत ते एकापेक्षा जास्त वेळा उद्ध्वस्त होऊन पुन्हा उभारले गेले. १७८३ मध्ये अहिल्याबाई होळकर यांनी जवळच स्वतंत्र शिवमंदिर बांधले, जिथे उपासना सुरू राहिली. स्वातंत्र्यानंतर एका सार्वजनिक ट्रस्टने प्राचीन जागेवरच संपूर्ण पुनर्बांधणी हाती घेतली, आणि ११ मे १९५१ रोजी राष्ट्रपती राजेंद्र प्रसाद यांच्या हस्ते ज्योतिर्लिंगाची प्रतिष्ठापना झाली.",
+    "architecture": "सध्याचे मंदिर, प्रमुख स्थपती प्रभाशंकर सोमपुरा यांनी रेखाटलेले, गुजरातमधील जुन्या सोळंकी मंदिरांच्या मारू-गुर्जर शैलीला पुनरुज्जीवित करते. 'कैलास महामेरू प्रासाद' नावाची त्याची रचना गर्भगृहापासून सभामंडपातून नृत्यमंडपापर्यंत जाते, आणि प्रत्येक पृष्ठभाग कोरीव वाळूखडकात घडवलेला आहे. शिखर सुमारे पन्नास मीटर उंच आहे आणि त्यावर दहा टन वजनाचा असल्याचे सांगितले जाणारे कलश आहे. समुद्र-भिंतीवर बाण स्तंभ उभा आहे; त्यावरील शिलालेखानुसार या किनाऱ्यापासून दक्षिण ध्रुवापर्यंत त्या रेषेत कुठेही भूमी नाही.",
+    "legends": "नावाचा अर्थ सोमाचा, म्हणजे चंद्राचा, स्वामी. पुराणे सांगतात की चंद्राने दक्षाच्या सत्तावीस कन्यांशी विवाह केला, पण तो फक्त रोहिणीवर प्रेम करी; अपमानित पित्याने त्याला क्षीण होण्याचा शाप दिला. क्षीण होत जाणारा चंद्र प्रभासात आला आणि त्याने शिवाची आराधना केली; शिवाने शाप सौम्य केला, ज्यामुळे चंद्र आळीपाळीने क्षीण होतो आणि वाढतो — प्रत्येक चांद्रमासाची हीच लय. येथेच, असे सांगितले जाते, शिव सोमनाथ रूपात राहिला. प्रभास हे कृष्णाच्या अखेरच्या दिवसांशीही जोडलेले आहे; त्याचे इहलोकातून प्रयाण परंपरा जवळच्या भालका तीर्थाशी जोडते.",
+    "festivals": "महाशिवरात्रीला सर्वाधिक गर्दी होते, आणि रात्रभर पूजा चालते. श्रावण महिना विशेष पवित्र मानला जातो; त्यातील सोमवारी गुजरातभरातून आणि त्यापलीकडूनही यात्रेकरू येतात. कार्तिक पौर्णिमेला किनाऱ्यावर मोठी जत्रा भरते, आणि शुभ दिवशी त्रिवेणी संगम स्नानार्थींनी भरून जातो. तारखा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "experience": "सोमनाथ सूर्यास्ताच्या वेळी सर्वोत्तम दिसते, जेव्हा आत सायंकाळची आरती निनादते आणि वाळूखडकाचे शिखर समुद्राच्या पार्श्वभूमीवर उजळते. बाण स्तंभापर्यंत चालत जा आणि भिंतीवर आदळणाऱ्या लाटांचा आवाज ऐका; मग जवळचे अहिल्याबाई मंदिर, त्रिवेणी संगम आणि भालका तीर्थ पाहा. सायंकाळचा ध्वनी-प्रकाश कार्यक्रम मंदिराचा दीर्घ इतिहास पुन्हा सांगतो."
   },
   "visit": {
-    "timings": "Open daily from early morning to night, with aartis at dawn, midday and evening; confirm timings locally, as hours extend at Maha Shivaratri and in Shravan.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering.",
-    "photography": "Mobile phones, cameras and bags are deposited at the entrance under security rules, and photography is not permitted inside the temple; follow posted rules and staff guidance.",
-    "gettingThere": "Somnath is about 6 km from Veraval in Gir Somnath district, Gujarat, and is served by Somnath and Veraval railway stations. The nearest airports are Diu (about 85 km) and Rajkot (about 190 km); Ahmedabad is about 400 km away by road."
+    "timings": "दररोज पहाटेपासून रात्रीपर्यंत खुले; पहाटे, मध्यान्ही आणि सायंकाळी आरती होते; महाशिवरात्री आणि श्रावणात वेळा वाढतात, त्यामुळे वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "पारंपरिक, सभ्य पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत.",
+    "photography": "सुरक्षा नियमांनुसार मोबाइल फोन, कॅमेरे आणि पिशव्या प्रवेशद्वारी जमा कराव्या लागतात, आणि मंदिरात आत छायाचित्रणास परवानगी नाही; लावलेले नियम आणि कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "सोमनाथ गुजरातमधील गीर सोमनाथ जिल्ह्यात, वेरावळपासून सुमारे ६ किमी अंतरावर आहे, आणि सोमनाथ व वेरावळ रेल्वे स्थानकांद्वारे जोडलेले आहे. सर्वात जवळची विमानतळे दीव (सुमारे ८५ किमी) आणि राजकोट (सुमारे १९० किमी) येथे आहेत; अहमदाबाद रस्त्याने सुमारे ४०० किमी दूर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/somnath-prabhas-patan.jpg",
