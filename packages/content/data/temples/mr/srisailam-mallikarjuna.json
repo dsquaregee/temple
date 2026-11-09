@@ -1,14 +1,20 @@
 {
   "id": "srisailam-mallikarjuna",
   "locale": "mr",
+  "name": "श्रीशैलम मल्लिकार्जुन मंदिर",
   "nativeName": "శ్రీశైలం మల్లికార్జున స్వామి ఆలయం",
+  "deity": "मल्लिकार्जुन (ज्योतिर्लिंग) रूपातील शिव, देवी भ्रमराम्बा (शक्तिपीठ) यांच्यासह",
+  "tradition": "शैव व शाक्त",
   "location": {
-    "city": "Srisailam",
-    "state": "Andhra Pradesh",
+    "city": "श्रीशैलम",
+    "state": "आंध्र प्रदेश",
     "lat": 16.0733,
     "lng": 78.8681
   },
+  "period": "प्राचीन क्षेत्र; रेड्डी व विजयनगरच्या राजांच्या काळात विकसित",
   "century": 14,
+  "dynasty": "रेड्डी, विजयनगर आणि नंतरचे",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "trilinga-kshetras",
@@ -17,18 +23,19 @@
     "paadal-petra-sthalams",
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "कृष्णा नदीच्या वरील घनदाट नल्लमल्ला टेकड्यांत उंचावर वसलेले श्रीशैलम भारतीय तीर्थक्षेत्रांत दुर्मिळ आहे — ते मल्लिकार्जुन रूपातील शिवाचे ज्योतिर्लिंग आणि भ्रमराम्बा रूपातील देवीचे शक्तिपीठ अशा दोन्ही रूपांत आहे; भक्तीच्या दोन्ही महान प्रवाहांचे शिखर.",
   "sections": {
-    "history": "Srisailam has been sacred for well over a thousand years, praised by saints and poets and honoured in the Shaiva and Shakta scriptures alike. Set deep in the Nallamala forest above the gorge of the Krishna, its remoteness only deepened its sanctity. The fortified walls, gateways, and pillared halls that shape the temple today were largely raised under the Reddy kings and the Vijayanagara emperors, who counted Srisailam among the foremost pilgrimages of the Deccan; the great teacher Adi Shankara is traditionally said to have worshipped here.",
-    "architecture": "The temple stands within a large fortified enclosure whose stone walls carry long friezes of carved reliefs — processions, myths, and figures — among the finest such sculpted walls in the south. Within, the Mallikarjuna shrine holds the Jyotirlinga, and a separate shrine enshrines the goddess Bhramaramba, \"she of the bees,\" so that Shiva and Shakti are worshipped together at one site. Gateway towers, mandapas, and later additions cluster within the walls, high above the river that has now been dammed into a great reservoir below.",
-    "legends": "Srisailam’s legend tells of Shiva and Parvati following their son Kartikeya, who had withdrawn in a sulk to a far hill; unable to bear the separation, the divine parents came to dwell on this mountain to be near him, taking the forms of Mallikarjuna and Bhramaramba. The name joins mallika, jasmine, with Arjuna, and the goddess Bhramaramba is remembered for taking the form of a bee, bhramara, to destroy a demon. As one of the twelve Jyotirlingas and one of the eighteen Shakti Peethas, the hill gathers two of the greatest pilgrimage traditions into a single ascent.",
-    "festivals": "Maha Shivaratri is Srisailam’s supreme festival, drawing immense crowds through the night, and the Brahmotsavam that surrounds it fills days with processions and temple cars. Ugadi, the Telugu new year, and the Navaratri worship of Bhramaramba are kept with special grandeur. Kumbham and Dasara bring further celebration, and pilgrims come year-round to a shrine that unites the vows of both Shaivas and devotees of the goddess.",
-    "experience": "The road to Srisailam winds up through the Nallamala forest, and arrival at the hilltop temple carries the sense of a hard-won pilgrimage. Within the fortified walls, the long sculpted friezes reward slow walking, relief after relief emerging in the light, before darshan of the Jyotirlinga and the goddess. The forest air, the distant gleam of the dammed Krishna, and the knowledge of standing at once in a Jyotirlinga and a Shakti Peetha give the place a rare gravity; many pilgrims complete both shrines before descending through the hills."
+    "history": "श्रीशैलम हजार वर्षांहून अधिक काळ पवित्र आहे; संत व कवींनी त्याची स्तुती केली आहे आणि शैव व शाक्त शास्त्रांमध्ये त्याचा समान सन्मान केला आहे. कृष्णेच्या दरीच्या वर नल्लमल्ला जंगलात खोलवर वसलेल्या या स्थानाचा दुर्गमपणा त्याचे पावित्र्य अधिकच गहिरे करत गेला. आज मंदिराला आकार देणाऱ्या तटबंदी, प्रवेशद्वारे व स्तंभयुक्त सभागृहांची उभारणी मुख्यतः रेड्डी राजांनी आणि विजयनगरच्या सम्राटांनी केली, ज्यांनी श्रीशैलमला दख्खनच्या अग्रगण्य तीर्थक्षेत्रांत गणले; महान आचार्य आदि शंकरांनी येथे पूजा केली असे परंपरेने सांगितले जाते.",
+    "architecture": "मंदिर एका मोठ्या तटबंदीयुक्त प्रांगणात उभे आहे, ज्याच्या दगडी भिंतींवर कोरीव उठावशिल्पांचे लांब पट्टे आहेत — मिरवणुका, पुराणकथा आणि आकृती — दक्षिणेतील अशा शिल्पांकित भिंतींपैकी सर्वोत्तम. आत मल्लिकार्जुन गर्भगृहात ज्योतिर्लिंग आहे, आणि एका स्वतंत्र गर्भगृहात 'भुंग्यांची देवी' भ्रमराम्बा विराजमान आहे, त्यामुळे शिव आणि शक्ती एकाच स्थानी एकत्र पूजले जातात. प्रवेशगोपुरे, मंडप आणि नंतरची भर तटबंदीच्या आत एकवटलेली आहे, आणि खाली आता धरण बांधून मोठ्या जलाशयात रूपांतरित झालेली नदी आहे.",
+    "legends": "श्रीशैलमची आख्यायिका सांगते की शिव आणि पार्वती आपला पुत्र कार्तिकेय याच्या मागे गेले, जो रुसून दूरच्या टेकडीवर निघून गेला होता; वियोग सहन न झाल्याने दैवी माता-पिता त्याच्या जवळ राहण्यासाठी या पर्वतावर येऊन मल्लिकार्जुन आणि भ्रमराम्बा या रूपांत वसले. 'मल्लिका' म्हणजे जाई आणि 'अर्जुन' यांना जोडून हे नाव बनले आहे, आणि देवी भ्रमराम्बा एका राक्षसाचा नाश करण्यासाठी भ्रमर, म्हणजे भुंग्याचे रूप घेतल्याबद्दल स्मरली जाते. बारा ज्योतिर्लिंगांपैकी एक आणि अठरा शक्तिपीठांपैकी एक असल्याने ही टेकडी दोन महान तीर्थपरंपरांना एकाच चढाईत एकत्र आणते.",
+    "festivals": "महाशिवरात्री हा श्रीशैलमचा सर्वोच्च उत्सव आहे, जो रात्रभर प्रचंड गर्दी खेचतो, आणि त्याभोवतीचा ब्रह्मोत्सव अनेक दिवस मिरवणुका व मंदिर-रथांनी भरून टाकतो. तेलुगू नववर्ष उगादी आणि भ्रमराम्बेची नवरात्र पूजा विशेष थाटाने साजरी होते. कुंभम आणि दसरा आणखी उत्सव आणतात, आणि शैवांच्या तसेच देवीभक्तांच्या व्रतांना एकत्र आणणाऱ्या या क्षेत्रात यात्रेकरू वर्षभर येतात.",
+    "experience": "श्रीशैलमकडे जाणारा रस्ता नल्लमल्ला जंगलातून वळणे घेत वर चढतो, आणि टेकडीवरील मंदिरात पोहोचल्यावर कष्टाने मिळवलेल्या यात्रेची जाणीव होते. तटबंदीच्या आत, लांब शिल्पांकित पट्टे हळू चालण्याला फळ देतात — ज्योतिर्लिंग आणि देवीच्या दर्शनापूर्वी प्रकाशात एकामागून एक उठावशिल्प उलगडत जाते. जंगलातील हवा, धरण बांधलेल्या कृष्णेची दूरवरची चमक, आणि एकाच वेळी ज्योतिर्लिंग आणि शक्तिपीठात उभे असल्याची जाणीव या स्थानाला दुर्मिळ गांभीर्य देते; अनेक यात्रेकरू टेकड्यांतून उतरण्यापूर्वी दोन्ही मंदिरांचे दर्शन पूर्ण करतात."
   },
   "visit": {
-    "timings": "Generally open from around 4:30 am to 10:00 pm daily, with several pujas; hours extend greatly during Maha Shivaratri and Brahmotsavam.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered; footwear is removed at the temple.",
-    "photography": "Photography is generally not permitted inside the sanctums; follow posted rules and staff guidance.",
-    "gettingThere": "Srisailam is in Nandyal district, about 180 km from Kurnool and 210 km from Hyderabad, reached by road through the Nallamala hills; the nearest airport is Hyderabad."
+    "timings": "साधारणपणे दररोज पहाटे सुमारे ४:३० ते रात्री १०:०० पर्यंत उघडे, अनेक पूजांसह; महाशिवरात्री व ब्रह्मोत्सवात वेळा मोठ्या प्रमाणात वाढतात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी किंवा सलवार कमीज, खांदे व गुडघे झाकलेले; मंदिरात पादत्राणे काढावीत.",
+    "photography": "गर्भगृहांच्या आत सामान्यतः छायाचित्रणास परवानगी नाही; लावलेले नियम व कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "श्रीशैलम नांद्याळ जिल्ह्यात आहे, कर्नूलपासून सुमारे १८० कि.मी. आणि हैदराबादपासून सुमारे २१० कि.मी. अंतरावर; नल्लमल्ला टेकड्यांतून रस्त्याने पोहोचता येते; जवळचे विमानतळ हैदराबाद आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.jpg",
