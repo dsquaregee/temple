@@ -1,30 +1,41 @@
 {
   "id": "adi-jagannatha-thiruppullani",
   "locale": "mr",
+  "name": "आदि जगन्नाथ पेरुमाळ मंदिर, तिरुप्पुल्लाणी",
   "nativeName": "ஆதி ஜெகந்நாதப் பெருமாள் கோயில், திருப்புல்லாணி",
+  "deity": "आदि जगन्नाथ पेरुमाळ रूपातील विष्णू, देवी पद्मासिनी थायार यांच्यासह — आणि दर्भाच्या शय्येवर पहुडलेले दर्भशयन राम",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruppullani",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पुल्लाणी",
+    "state": "तमिळनाडू",
     "lat": 9.283,
     "lng": 78.824
   },
+  "period": "रामनाथपुरमजवळ समुद्रकिनारी असलेले पांड्य प्रदेशातील एक दिव्य देशम, ज्याचे गायन तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधममध्ये केले आहे",
   "century": 8,
+  "dynasty": "पांड्य, चोळ आणि सेतुपती यांच्या आश्रयासह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "रामनाथपुरमजवळ समुद्रकिनारी विष्णू आदि जगन्नाथ पेरुमाळ रूपात उभे आहेत आणि राम सागराची प्रतीक्षा करत आपल्या दर्भशय्येवर पहुडले आहेत — तिरुमंगै आळवारांनी गायिलेले पांड्य प्रदेशातील एक दिव्य देशम.",
   "sections": {
-    "history": "Thiruppullani lies near the coast just outside Ramanathapuram, on the road of the Rama legend that runs to Sethu and Rameswaram. It is one of the 108 Divya Desams of Pandya Nadu, glorified by Thirumangai Alvar in twenty verses of his Periya Thirumozhi. Tradition places the temple's beginnings in the eighth century, and the shrine grew with gifts from the Medieval Cholas, the later Pandyas and the Sethupathi rulers of Ramnad, the hereditary guardians of the causeway country. A damaged inscription of the thirty-seventh year of Maravarman Sundara Pandya records an order of a minister named Arya Chakravarthy, and historians suggest that parts of the gopuram may owe something to the Jaffna kings who held Rameswaram as allies of the Pandyas.",
-    "architecture": "The temple holds three great presences under their own vimanas. Adi Jagannatha Perumal, honoured as the Jagannatha of the south, stands beneath the Kalyana vimana with the Goddess Padmasini Thayar in her separate shrine. Darbhasayana Rama reclines on his grass bed under the Swastika vimana, and Pattabhi Rama, crowned after the victory, has his own sannidhi. Before the temple lies the Chakra Theertham, named for the Lord's discus, while the sea nearby is honoured as the Ratnakara theertham.",
-    "legends": "The name is read as Thiru-pul-anai, the sacred bed of grass. The sthala purana tells that the sages Pullar, Galavar and Kanvar did penance in a forest of darbha here, and Vishnu appeared to them first as a sacred fig and then as Adi Jagannatha. In the Ramayana tradition, Rama lay on darbha grass at this shore for three days, beseeching the sea-king for passage to Lanka; when the ocean gave no answer he took up his bow, and the sea-king came to him in surrender. Tradition also holds that King Dasaratha prayed here for sons.",
-    "festivals": "The Brahmotsavam is celebrated in the Tamil month of Panguni, and the birth festival of Rama in Chithirai draws pilgrims on the Rameswaram route. Vaikunta Ekadashi and the processions of Darbhasayana Rama and Adi Jagannatha keep the year; confirm festival dates locally.",
-    "experience": "Many pilgrims to Rameswaram stop here first, to stand before the Rama who lay waiting on the shore before the bridge was built. The darbha-bed form, the crowned Rama and the Lord of the south together make this a Divya Desam where the Ramayana feels close at hand."
+    "history": "तिरुप्पुल्लाणी रामनाथपुरमच्या अगदी बाहेर किनार्‍याजवळ वसलेले आहे; सेतू आणि रामेश्वरमपर्यंत जाणार्‍या रामकथेच्या मार्गावर ते आहे. पांड्य नाडूतील १०८ दिव्य देशमांपैकी हे एक असून तिरुमंगै आळवारांनी आपल्या पेरिय तिरुमोळी ग्रंथातील वीस पदांत त्याचा गौरव केला आहे. परंपरेनुसार या मंदिराची सुरुवात आठव्या शतकात झाली, आणि मध्ययुगीन चोळ, नंतरचे पांड्य तसेच सेतू प्रदेशाचे पिढीजात रक्षक असलेले रामनादचे सेतुपती राजे यांच्या दानांनी हे देवस्थान वाढत गेले. मारवर्मन सुंदर पांड्य यांच्या सदतिसाव्या राज्यवर्षातील एक भग्न शिलालेख आर्य चक्रवर्ती नावाच्या मंत्र्याचा आदेश नोंदवतो, आणि इतिहासकारांच्या मते, पांड्यांचे मित्र म्हणून रामेश्वरम ताब्यात ठेवणार्‍या जाफनाच्या राजांचेही गोपुराच्या काही भागांत काही योगदान असू शकते.",
+    "architecture": "या मंदिरात तीन महान दैवी स्वरूपे आपापल्या विमानांखाली विराजमान आहेत. दक्षिणेचे जगन्नाथ म्हणून पूजिले जाणारे आदि जगन्नाथ पेरुमाळ कल्याण विमानाखाली उभे आहेत, आणि देवी पद्मासिनी थायार आपल्या स्वतंत्र गाभार्‍यात आहेत. दर्भशयन राम स्वस्तिक विमानाखाली दर्भाच्या शय्येवर पहुडले आहेत, आणि विजयानंतर राज्याभिषेक झालेल्या पट्टाभिराम यांचे स्वतःचे सन्निधी आहे. मंदिरासमोर भगवंताच्या सुदर्शन चक्रावरून नाव मिळालेले चक्र तीर्थम आहे, तर जवळचा समुद्र रत्नाकर तीर्थम म्हणून पूजनीय आहे.",
+    "legends": "या नावाचा अर्थ तिरु-पुल-अणै, म्हणजे गवताची पवित्र शय्या, असा घेतला जातो. स्थलपुराणानुसार पुल्लर, गालवर आणि कण्वर हे ऋषी येथील दर्भाच्या वनात तपश्चर्या करत होते, आणि विष्णू त्यांना प्रथम पवित्र अश्वत्थ वृक्षाच्या रूपात आणि नंतर आदि जगन्नाथ रूपात प्रकट झाले. रामायण परंपरेनुसार लंकेला जाण्यासाठी मार्ग मागत राम या किनार्‍यावर तीन दिवस दर्भाच्या गवतावर पहुडले आणि सागरराजाची विनवणी करत राहिले; समुद्राने उत्तर दिले नाही तेव्हा त्यांनी धनुष्य उचलले, आणि सागरराज शरण येऊन त्यांच्यासमोर आला. राजा दशरथाने पुत्रप्राप्तीसाठी येथे प्रार्थना केली, अशीही परंपरा आहे.",
+    "festivals": "तमिळ पंगुनी महिन्यात ब्रह्मोत्सव साजरा होतो, आणि चैत्र (चित्तिरै) महिन्यातील रामजन्मोत्सव रामेश्वरम मार्गावरील यात्रेकरूंना आकर्षित करतो. वैकुंठ एकादशी तसेच दर्भशयन राम आणि आदि जगन्नाथ यांच्या मिरवणुका वर्षभराचा क्रम राखतात; उत्सवांच्या तारखा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "experience": "रामेश्वरमला जाणारे अनेक यात्रेकरू प्रथम येथे थांबतात, सेतू बांधला जाण्यापूर्वी किनार्‍यावर प्रतीक्षेत पहुडलेल्या रामासमोर उभे राहण्यासाठी. दर्भशय्येवरील रूप, राज्याभिषिक्त राम आणि दक्षिणेचा प्रभू — या तिघांमुळे हे असे दिव्य देशम बनते जेथे रामायण अगदी जवळ आल्यासारखे वाटते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Panguni Brahmotsavam, the Rama festival and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruppullani is about 10 km from Ramanathapuram town, reached by road; Ramanathapuram has a railway station on the Madurai–Rameswaram line, and the nearest airport is Madurai. Pilgrims often visit on the way to Sethukarai and Rameswaram."
+    "timings": "दररोज सकाळ आणि संध्याकाळी दर्शनाची सत्रे असतात आणि दुपारी मंदिर बंद असते; पंगुनी ब्रह्मोत्सव, रामोत्सव आणि वैकुंठ एकादशीला सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा तपासून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजार्‍यांचे मार्गदर्शन पाळावे.",
+    "photography": "गाभार्‍यात आणि त्याच्या आसपास छायाचित्रण प्रतिबंधित आहे; लावलेले नियम आणि पुजार्‍यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुप्पुल्लाणी रामनाथपुरम शहरापासून सुमारे १० किमी अंतरावर असून रस्त्याने पोहोचता येते; रामनाथपुरममध्ये मदुराई–रामेश्वरम मार्गावरील रेल्वेस्थानक आहे, आणि जवळचे विमानतळ मदुराई येथे आहे. यात्रेकरू अनेकदा सेतुकराई आणि रामेश्वरमकडे जाताना येथे भेट देतात."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/adi-jagannatha-thiruppullani.mp3",
+    "durationSec": 196
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.webp"
     },
     "og": "https://media.dsquaregee.com/og/adi-jagannatha-thiruppullani.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/adi-jagannatha-thiruppullani.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adi-jagannatha-thiruppullani.jpg",
+    "durationSec": 148,
+    "credit": "Balajijagadesh / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Muralikrishna m / Wikimedia Commons (CC BY 4.0)"
   }
 }

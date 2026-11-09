@@ -1,30 +1,41 @@
 {
   "id": "adi-varaha-thirukkalvanur",
   "locale": "mr",
+  "name": "आदि वराह पेरुमाळ सन्निधी, तिरुक्कळवनूर (कामाक्षी अम्मन मंदिराच्या परिसरात)",
   "nativeName": "ஆதி வராகப் பெருமாள் சன்னதி, திருக்களவனூர்",
+  "deity": "आदि वराह रूपातील विष्णू, कळवर पेरुमाळ, उभ्या स्वरूपात, देवी अंजिलै वल्ली नाच्चियार यांच्यासह — कामाक्षी अम्मन मंदिराच्या परिसरातील एक दिव्य देशम सन्निधी",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.84,
     "lng": 79.7036
   },
+  "period": "तोंडै नाडूतील एक दिव्य देशम, ज्याचे गायन तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधममध्ये केले आहे",
   "century": 8,
+  "dynasty": "कांची कामाक्षी अम्मन मंदिराच्या परिसरातील एक सन्निधी",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "तिरुक्कळवनूर हे स्वतंत्र मंदिर नाही: ते कांचीपुरम येथील कामाक्षी अम्मन मंदिराच्या परिसरातील आदि वराह, म्हणजे कळवर पेरुमाळ, यांचे लहानसे विष्णू सन्निधी आहे, आणि तिरुमंगै आळवारांनी गायिलेले दिव्य देशम आहे.",
   "sections": {
-    "history": "Thirukkalvanur is unusual among the 108 Divya Desams of Thondai Nadu, because it is not a temple of its own. It is a Vishnu shrine inside the Kanchi Kamakshi Amman temple, set on the right side of the Goddess's sanctum, and pilgrims who come to the Kamakshi temple worship the lord here as well. Thirumangai Alvar sang the shrine in a single verse of the Nalayira Divya Prabandham, naming the place Thirukkalvanur. The lord is Adi Varaha, known locally as Kalvar or Kalvan Perumal, and his consort is Anjilai Valli Nachiyar. Devotional references name the Vamana Vimanam over his sanctum and the Nithya Pushkarini as his tank.",
-    "architecture": "Because the shrine lies within the Kamakshi Amman temple, it shares that temple's gateways, courts and pillared halls rather than having its own. It is a small sanctum on the right of the Goddess's shrine, where Adi Varaha stands facing west with Anjilai Valli Nachiyar. Devotional references name the Vamana Vimanam as its vimana and the Nithya Pushkarini as its tank. The temple's priests or attendants can direct you to the shrine.",
-    "legends": "The name comes from the Tamil kalvan, a thief, and tradition tells the story in more than one way. In one, Lakshmi fondly called the lord Kalva when he came to her secretly. In another, Vishnu hid behind a pillar to overhear a conversation between Kamakshi and Lakshmi, and Kamakshi noticed him there. The versions differ, but each makes the lord a gentle thief of hearts, quietly present beside the Goddess of Kanchi.",
-    "festivals": "The shrine shares in the life of the Kamakshi Amman temple around it, whose festivals draw crowds through the year. Vaikunta Ekadashi is the customary observance at Divya Desams; confirm dates, and what is observed here, locally.",
-    "experience": "Visit it as part of a darshan at the Kamakshi Amman temple: after seeing the Goddess, look for the Vishnu shrine on the right side of her sanctum. It is small and quiet, and the playful story of the lord who hid behind a pillar gives it its charm. Pilgrims of the Divya Desams count it among Kanchipuram's shrines of the lord."
+    "history": "तोंडै नाडूतील १०८ दिव्य देशमांमध्ये तिरुक्कळवनूर वेगळे आहे, कारण ते स्वतंत्र मंदिर नाही. ते कांची कामाक्षी अम्मन मंदिरातील देवीच्या गाभार्‍याच्या उजव्या बाजूस असलेले विष्णू सन्निधी आहे, आणि कामाक्षी मंदिरात येणारे यात्रेकरू येथेही प्रभूंचे पूजन करतात. तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधममधील एका पदात या स्थानाचे गायन केले असून त्याचे नाव तिरुक्कळवनूर असे दिले आहे. येथील प्रभू आदि वराह असून स्थानिक पातळीवर त्यांना कळवर किंवा कळवन पेरुमाळ म्हणतात, आणि त्यांच्या अर्धांगिनी अंजिलै वल्ली नाच्चियार आहेत. भक्तिपर संदर्भांत त्यांच्या गाभार्‍यावरील विमानाचे नाव वामन विमानम आणि त्यांच्या तीर्थाचे नाव नित्य पुष्करिणी असे दिलेले आहे.",
+    "architecture": "हे सन्निधी कामाक्षी अम्मन मंदिराच्या परिसरातच असल्यामुळे त्याचे स्वतःचे नसून त्या मंदिराचेच प्रवेशद्वार, प्रांगणे आणि स्तंभयुक्त मंडप ते वापरते. देवीच्या गाभार्‍याच्या उजवीकडे असलेला हा लहानसा गाभारा आहे, जेथे आदि वराह अंजिलै वल्ली नाच्चियार यांच्यासह पश्चिमाभिमुख उभे आहेत. भक्तिपर संदर्भांत वामन विमानम हे त्याचे विमान आणि नित्य पुष्करिणी हे त्याचे तीर्थ असल्याचे सांगितले आहे. मंदिराचे पुजारी किंवा सेवक तुम्हाला सन्निधीकडे जाण्याचा मार्ग दाखवू शकतात.",
+    "legends": "हे नाव तमिळ 'कळवन', म्हणजे चोर, यावरून आले आहे, आणि परंपरा ही कथा एकापेक्षा अधिक प्रकारे सांगते. एका कथेत, प्रभू लक्ष्मीकडे गुपचूप आले तेव्हा लक्ष्मीने प्रेमाने त्यांना 'कळवा' म्हटले. दुसर्‍या कथेत, कामाक्षी आणि लक्ष्मी यांचे संभाषण ऐकण्यासाठी विष्णू एका स्तंभाआड लपले, आणि कामाक्षीने त्यांना तेथे पाहिले. आवृत्त्या वेगवेगळ्या असल्या तरी प्रत्येक कथा प्रभूंना हृदये चोरणारा सौम्य चोर बनवते, जो कांचीच्या देवीच्या शेजारी शांतपणे विराजमान आहे.",
+    "festivals": "हे सन्निधी भोवतालच्या कामाक्षी अम्मन मंदिराच्या जीवनात सहभागी असते, ज्या मंदिराचे उत्सव वर्षभर गर्दी खेचतात. दिव्य देशमांमध्ये वैकुंठ एकादशी हा नेहमीचा पाळला जाणारा उत्सव आहे; तारखा आणि येथे काय पाळले जाते हे स्थानिक पातळीवर तपासून घ्यावे.",
+    "experience": "कामाक्षी अम्मन मंदिरातील दर्शनाचा भाग म्हणून याला भेट द्या: देवीचे दर्शन घेतल्यानंतर तिच्या गाभार्‍याच्या उजव्या बाजूला असलेले विष्णू सन्निधी शोधा. ते लहान आणि शांत आहे, आणि स्तंभाआड लपलेल्या प्रभूंची खेळकर कथा त्याला विशेष आकर्षण देते. दिव्य देशमांचे यात्रेकरू याची गणना कांचीपुरमच्या प्रभूंच्या मंदिरांमध्ये करतात."
   },
   "visit": {
-    "timings": "Darshan is through the Kamakshi Amman temple, so its daily schedule applies. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The shrine lies inside the Kamakshi Amman temple in Kanchipuram town. Kanchipuram has a railway station and is reached by road from Chennai; Chennai International Airport is the nearest major airport. Enter by the Kamakshi temple and ask for the Vishnu shrine."
+    "timings": "दर्शन कामाक्षी अम्मन मंदिरातून होते, त्यामुळे त्या मंदिराचे दैनंदिन वेळापत्रक लागू असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजार्‍यांचे मार्गदर्शन पाळावे.",
+    "photography": "गाभार्‍यात आणि त्याच्या आसपास छायाचित्रण प्रतिबंधित आहे; लावलेले नियम आणि पुजार्‍यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "हे सन्निधी कांचीपुरम शहरातील कामाक्षी अम्मन मंदिराच्या आत आहे. कांचीपुरममध्ये रेल्वेस्थानक असून चेन्नईहून रस्त्याने पोहोचता येते; चेन्नई आंतरराष्ट्रीय विमानतळ हे जवळचे प्रमुख विमानतळ आहे. कामाक्षी मंदिरातून प्रवेश करा आणि विष्णू सन्निधीबद्दल विचारा."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/adi-varaha-thirukkalvanur.mp3",
+    "durationSec": 178
   }
 }
