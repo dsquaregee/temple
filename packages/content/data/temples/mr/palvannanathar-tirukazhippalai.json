@@ -1,29 +1,36 @@
 {
   "id": "palvannanathar-tirukazhippalai",
   "locale": "mr",
+  "name": "पाल्वण्णनाथर मंदिर, तिरुकळिप्पालै",
   "nativeName": "பால்வண்ணநாதர் கோயில்",
+  "deity": "पाल्वण्णनाथर (पौल्वण्णनाथर), दुधासारख्या शुभ्र वर्णाचा प्रभू, या रूपातील शिव, देवी वेदनायकी यांच्यासह",
+  "tradition": "शैव पंथ",
   "location": {
-    "city": "Tirukazhippalai (Sivapuri)",
-    "state": "Tamil Nadu",
+    "city": "तिरुकळिप्पालै (शिवपुरी)",
+    "state": "तमिळनाडू",
     "lat": 11.371,
     "lng": 79.714
   },
+  "period": "कोल्लिडमच्या उत्तर काठावरील प्राचीन शैव मंदिर, तेवारममध्ये गायलेले (सातवे शतक); सध्याचे मंदिर स्थलांतरित, नंतरची वास्तू आहे",
   "century": 7,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "पाल्वण्णनाथर हे तिरुकळिप्पालैचे शिवमंदिर आहे, ज्याची संबंधर, अप्पर आणि सुंदरर यांनी तेवारममध्ये स्तुती केली आहे; येथे प्रभूची दुधासारखा शुभ्र म्हणून पूजा होते, एका ऋषींच्या जखमी लिंगावर दिव्य गाय कामधेनूने दुधाची धार दिल्याच्या स्मरणार्थ.",
   "sections": {
-    "history": "Tirukazhippalai is a Shaiva shrine of the Chola country, set on the northern bank of the Kollidam, the river that carries the waters of the Kaveri down to the sea near Chidambaram. It is a Paadal Petra Sthalam, praised in the Tevaram by Sambandar, Appar and Sundarar, and the later poet Arunagirinathar also remembered it in verse. The first temple stood close to the riverbank, and tradition holds that floods damaged it. Palvannanathar and the attendant deities were then established in a new temple at Sivapuri, beside Tirunelvoyal and within easy reach of Chidambaram. The worship that began in the old sanctuary has continued unbroken in the new one.",
-    "architecture": "The temple is modest in scale, a compact complex of about an acre enclosed by concentric rectangular walls and entered beneath a three-tiered rajagopuram. The sanctum holds the Shiva linga of Palvannanathar, while the goddess Vedanayaki is honoured in her own shrine beside the mandapam, facing south. Around the prakaram stand shrines to Surya, Vinayaka, Subramanya, Vishnu, Mahalakshmi, the Navagrahas and Chandra, and a Kala Bhairava whose image is said to resemble the Bhairava of Varanasi, so that the temple is also known as a place of Bhairava worship. The vilva is the sacred tree, and the Kollidam itself serves as the temple's holy water.",
-    "legends": "The Lord's name tells the story. The sage Kapilar, in a forest on the river's edge, shaped a lingam from white sand and set it up for worship. A king's horse passing that way struck it with its hoof and left a mark. Coming back to worship, the sage found the wound and, thinking the lingam unfit, began to fashion another. Then Shiva and Parvati appeared and stayed his hand. They told him that the sand of the place was white because the celestial cow Kamadhenu had once poured her milk over all of it, and that the lingam, touched by that milk, was already made holy. The Lord took the name Palvannanathar, the Lord of the milk-white hue. Devotees say that the milk offered over the image in worship is drawn into it. Tellers differ on the fate of the marked lingam, but not on the meaning: what has been hallowed is not diminished by a wound.",
-    "festivals": "The principal festival is the Brahmotsavam in the Tamil month of Vaikasi (May–June), when the deities are borne out in procession and the town gathers for the days of worship. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple, and devotees of Kala Bhairava keep the shrine with special attention on his sacred days. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Tirukazhippalai is a quiet temple, best approached without hurry. Pause beneath the gopuram, come to the sanctum of Palvannanathar, and let the story of the milk-white Lord settle before turning to Vedanayaki in her south-facing shrine. Many devotees bring milk for the Lord's abhishekam, a gesture that carries the whole meaning of the place. Take time too at the Kala Bhairava shrine in the prakaram. Because the temple stands beside Tirunelvoyal, near Chidambaram, it pairs naturally with a visit to the nearby sung shrines of the area."
+    "history": "तिरुकळिप्पालै हे चोळ प्रदेशातील शैव मंदिर आहे, कोल्लिडमच्या उत्तर काठावर वसलेले — ही नदी कावेरीचे पाणी चिदंबरमजवळ समुद्राकडे वाहून नेते. हे पाडल पेट्र स्थळम असून तेवारममध्ये संबंधर, अप्पर आणि सुंदरर यांनी त्याची स्तुती केली आहे, आणि नंतरचे कवी अरुणगिरिनाथर यांनीही त्याचे काव्यात स्मरण केले. पहिले मंदिर नदीकाठाजवळ उभे होते, आणि परंपरा सांगते की पुराने त्याचे नुकसान केले. त्यानंतर पाल्वण्णनाथर आणि सहचर देवतांची प्रतिष्ठापना शिवपुरी येथे नव्या मंदिरात झाली, तिरुनेल्वोयलच्या शेजारी आणि चिदंबरमपासून सहज पोहोचण्याच्या अंतरावर. जुन्या मंदिरात सुरू झालेली पूजा नव्या मंदिरात अखंड चालू राहिली आहे.",
+    "architecture": "मंदिर लहान प्रमाणाचे असून सुमारे एक एकरचे संक्षिप्त संकुल आहे, एकात एक आयताकृती भिंतींनी वेढलेले आणि तीन मजली राजगोपुराखालून प्रवेश असलेले. गर्भगृहात पाल्वण्णनाथरांचे शिवलिंग आहे, तर देवी वेदनायकीचा मंडपाशेजारी दक्षिणाभिमुख स्वतंत्र मंदिरात सन्मान होतो. प्राकाराभोवती सूर्य, विनायक, सुब्रमण्य, विष्णू, महालक्ष्मी, नवग्रह आणि चंद्र यांची मंदिरे आहेत, तसेच काल भैरवाची मूर्ती, जी वाराणसीच्या भैरवासारखी असल्याचे सांगितले जाते, त्यामुळे हे मंदिर भैरव उपासनेचे स्थान म्हणूनही ओळखले जाते. बिल्व हा पवित्र वृक्ष आहे, आणि कोल्लिडम नदीच स्वतः मंदिराचे पवित्र जल आहे.",
+    "legends": "प्रभूचे नावच कथा सांगते. नदीकाठच्या वनात ऋषी कपिलर यांनी पांढऱ्या वाळूचे लिंग घडवून पूजेसाठी स्थापले. त्या वाटेने जाणाऱ्या एका राजाच्या घोड्याने ते आपल्या खुराने ठोकले आणि त्यावर खूण उमटली. पूजेसाठी परतलेल्या ऋषींनी जखम पाहिली आणि लिंग अयोग्य ठरले असे वाटून दुसरे घडवण्यास सुरुवात केली. तेव्हा शिव आणि पार्वती प्रकटले आणि त्यांनी त्यांचा हात थांबवला. त्यांनी सांगितले की या स्थानाची वाळू पांढरी आहे, कारण दिव्य गाय कामधेनूने एकेकाळी तिच्यावर सर्वत्र आपले दूध ओतले होते, आणि त्या दुधाने स्पर्शित झालेले लिंग आधीच पवित्र झाले आहे. प्रभूने पाल्वण्णनाथर, दुधासारख्या शुभ्र वर्णाचा प्रभू, हे नाव धारण केले. भक्त सांगतात की पूजेत मूर्तीवर अर्पण केलेले दूध तिच्यात शोषले जाते. खूण पडलेल्या लिंगाच्या भवितव्याबद्दल कथाकारांत मतभेद आहेत, पण अर्थाबद्दल नाहीत: जे पवित्र झाले आहे ते जखमेने कमी होत नाही.",
+    "festivals": "मुख्य उत्सव तमिळ वैकासी महिन्यातील (मे–जून) ब्रह्मोत्सव आहे, जेव्हा देवता मिरवणुकीत बाहेर नेल्या जातात आणि गाव पूजेच्या दिवसांसाठी एकत्र येते. महाशिवरात्री आणि मासिक प्रदोषम प्रत्येक शिवमंदिराप्रमाणे पाळले जातात, आणि काल भैरवाचे भक्त त्याच्या पवित्र दिवशी मंदिरात विशेष लक्ष देतात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात, कारण त्या तमिळ दिनदर्शिकेनुसार असतात.",
+    "experience": "तिरुकळिप्पालै हे शांत मंदिर आहे, घाई न करता जाणे उत्तम. गोपुराखाली थांबावे, पाल्वण्णनाथरांच्या गर्भगृहात यावे, आणि दुधासारख्या शुभ्र प्रभूची कथा मनात रुजू द्यावी, मग दक्षिणाभिमुख मंदिरातील वेदनायकीकडे वळावे. अनेक भक्त प्रभूच्या अभिषेकासाठी दूध आणतात, एक कृती जी स्थानाचा संपूर्ण अर्थ वाहते. प्राकारातील काल भैरव मंदिरातही वेळ द्यावा. मंदिर चिदंबरमजवळ तिरुनेल्वोयलच्या शेजारी असल्यामुळे परिसरातील जवळच्या गायलेल्या मंदिरांच्या भेटीशी ते सहज जोडले जाते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday closure; hours vary on festival days, so confirm locally.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered: dhoti or trousers for men; saree, salwar kameez or a long skirt for women. Footwear is removed before entering the temple.",
-    "photography": "Photography is usually allowed in the outer courtyards but not within the sanctum. Please ask the temple staff before photographing priests or rituals.",
-    "gettingThere": "The temple stands at Sivapuri, beside Tirunelvoyal, about 4 km from the Chidambaram bus stand on the Kavarapattu route, in Cuddalore district. Chidambaram has the nearest railway station and is well served by buses from Chennai, Puducherry and Kumbakonam. Chennai is the principal airport, a little over 200 km away by road."
+    "timings": "सामान्यतः सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते, दुपारी बंद असते; उत्सवाच्या दिवशी वेळा बदलतात, म्हणून स्थानिक पातळीवर खात्री करावी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे व गुडघे झाकलेले असावेत: पुरुषांसाठी धोतर किंवा पायजमा; स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट. मंदिरात प्रवेश करण्यापूर्वी पादत्राणे काढावीत.",
+    "photography": "बाह्य प्रांगणांत सामान्यतः छायाचित्रणास परवानगी असते, परंतु गर्भगृहात नाही. पुरोहित किंवा विधींचे छायाचित्रण करण्यापूर्वी कृपया मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "मंदिर शिवपुरी येथे, तिरुनेल्वोयलच्या शेजारी, कडलूर जिल्ह्यात, कावरपट्टू मार्गावर चिदंबरम बस स्थानकापासून सुमारे ४ कि.मी. अंतरावर आहे. चिदंबरम येथे जवळचे रेल्वे स्थानक असून चेन्नई, पुदुच्चेरी आणि कुंभकोणमहून बसने उत्तम जोडलेले आहे. चेन्नई हा मुख्य विमानतळ रस्त्याने दोनशे कि.मी.हून थोडा अधिक अंतरावर आहे."
   }
 }
