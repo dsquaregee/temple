@@ -1,29 +1,36 @@
 {
   "id": "pasupatheeswarar-avur",
   "locale": "mr",
+  "name": "पशुपतीश्वरर मंदिर, आवूर",
   "nativeName": "ஆவூர் பசுபதீஸ்வரர் கோயில்",
+  "deity": "पशुपतीश्वरर रूपातील शिव, देवी मंगलनायकी (पंकजवल्ली) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम",
   "location": {
-    "city": "Avur, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "आवूर, कुंभकोणमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.92,
     "lng": 79.3
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमजवळील आवूर शिवाला पशुपतीश्वरर म्हणून देवी मंगलनायकीसह पूजते. तिरुग्नान संबंदर यांनी गायिलेल्या या पाडल पेट्र स्थलमाचे नाव येथे शापमुक्त झालेल्या दिव्य गाय कामधेनूने केलेल्या उपासनेचे स्मरण करते.",
   "sections": {
-    "history": "Avur (Aavoor) lies about 12 km south-west of Kumbakonam, in Thanjavur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The stone temple is of the Chola period and later, among the Shiva shrines of the Kumbakonam country.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Pasupatheeswarar in the sanctum, with the goddesses Mangalanayaki and Pankajavalli in twin sanctums facing west, a Nandi and the parivara devatas. The walled courtyard and gopuram are typical of the Shiva temples near Kumbakonam.",
-    "legends": "The lord is worshipped as Pasupatheeswarar, 'lord of cattle,' for the celestial cow Kamadhenu, cursed by Brahma, is said to have come here, worshipped the lord, and been freed of her curse. The twin goddesses Mangalanayaki and Pankajavalli stand in their sanctums. The fuller sthala purana survives in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Kumbakonam country include Avur among their stops.",
-    "experience": "At Avur the pilgrim comes to the lord of cattle near Kumbakonam. Before Pasupatheeswarar and the twin goddesses, the visitor finds the quiet grace of a Tevaram temple of the delta, and the memory of Kamadhenu freed of her curse."
+    "history": "आवूर (आवूर) कुंभकोणमच्या नैऋत्येस सुमारे १२ किमी अंतरावर, तंजावूर जिल्ह्यात आहे. हे एक पाडल पेट्र स्थलम आहे, ज्याचे तेवारममध्ये तिरुग्नान संबंदर यांनी गायन केले आहे. हे दगडी मंदिर चोळ काळातील आणि त्यानंतरचे आहे, कुंभकोणम प्रदेशातील शिव मंदिरांपैकी एक.",
+    "architecture": "त्रिभुज प्रदेशातील एक द्रविड मंदिर; गर्भगृहात पशुपतीश्वरर विराजमान आहेत, आणि देवी मंगलनायकी व पंकजवल्ली पश्चिमाभिमुख जुळ्या गर्भगृहांमध्ये आहेत, तसेच एक नंदी आणि परिवार देवता आहेत. तटबंदीयुक्त प्रांगण आणि गोपुर कुंभकोणमजवळील शिव मंदिरांसाठी वैशिष्ट्यपूर्ण आहेत.",
+    "legends": "भगवंताची पशुपतीश्वरर, 'गुरांचा स्वामी', म्हणून पूजा केली जाते, कारण ब्रह्मदेवाने शाप दिलेली दिव्य गाय कामधेनू येथे आली, तिने भगवंताची पूजा केली आणि ती शापमुक्त झाली असे सांगितले जाते. जुळ्या देवी मंगलनायकी आणि पंकजवल्ली आपापल्या गर्भगृहांमध्ये विराजमान आहेत. अधिक सविस्तर स्थलपुराण स्थानिक परंपरेत आणि संबंदर यांच्या श्लोकांत टिकून आहे.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मधील नवरात्र आणि कार्तिकैचे सोमवार, प्रदोष पूजेसह, साजरे केले जातात. कुंभकोणम प्रदेशातील यात्रेकरू आवूरला आपल्या थांब्यांमध्ये समाविष्ट करतात.",
+    "experience": "आवूर येथे यात्रेकरू कुंभकोणमजवळील गुरांच्या स्वामीकडे येतो. पशुपतीश्वरर आणि जुळ्या देवींसमोर, भेट देणाऱ्याला त्रिभुज प्रदेशातील तेवारम मंदिराची शांत कृपा आणि शापमुक्त झालेल्या कामधेनूचे स्मरण लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Avur lies about 12 km south-west of Kumbakonam, in Thanjavur district. Kumbakonam is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "साधारणतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वारावर ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा मार्गांमध्ये छायाचित्रणाला सामान्यतः परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "आवूर कुंभकोणमच्या नैऋत्येस सुमारे १२ किमी अंतरावर, तंजावूर जिल्ह्यात आहे. कुंभकोणम हे जवळचे शहर आणि रेल्वे स्थानक आहे, तेथून गावापर्यंत बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

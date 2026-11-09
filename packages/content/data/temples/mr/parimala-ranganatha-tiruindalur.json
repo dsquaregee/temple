@@ -1,30 +1,37 @@
 {
   "id": "parimala-ranganatha-tiruindalur",
   "locale": "mr",
+  "name": "परिमळ रंगनाथ पेरुमाळ मंदिर, तिरुइंदळूर",
   "nativeName": "பரிமள ரங்கநாதர் கோயில், திருஇந்தளூர்",
+  "deity": "शयनमुद्रेतील परिमळ रंगनाथ, म्हणजे सुगंधी रंगनाथ, रूपातील विष्णू, देवी परिमळ रंगनायकी यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Tiruindalur",
-    "state": "Tamil Nadu",
+    "city": "तिरुइंदळूर",
+    "state": "तमिळनाडू",
     "lat": 11.103,
     "lng": 79.652
   },
+  "period": "कावेरी त्रिभुज प्रदेशातील चोळकालीन प्राचीन दिव्यदेशम, नालायिर दिव्य प्रबंधममध्ये आळवारांनी गायिलेले",
   "century": 8,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "pancharanga-kshetrams",
     "divya-desams"
   ],
+  "summary": "मयिलादुतुरैजवळ कावेरी त्रिभुज प्रदेशातील तिरुइंदळूर येथे विष्णू परिमळ रंगनाथ, म्हणजे सुगंधी रंगनाथ, म्हणून शयन करतात. आळवारांनी गायिलेले दिव्यदेशम आणि नदीवरील पाच रंगनाथ मंदिरांपैकी एक असलेल्या या मंदिरातील हिरव्या दगडाचा शयन करणारा भगवान हा खोल त्रिभुज प्रदेशातील पाचांपैकी शेवटचा आहे.",
   "sections": {
-    "history": "Tiruindalur lies in the Kaveri delta near Mayiladuthurai, and its temple is dedicated to Vishnu as Parimala Ranganatha, the fragrant Ranganatha. It is a Divya Desam, one of the 108 abodes sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the five Pancharanga Kshetrams of the river. The name Tiruindalur is drawn from Indu, the moon, for whom the lord is said to have appeared here; the shrine is of Chola antiquity, deep in the temple country of the delta.",
-    "architecture": "Built in the Dravidian manner, the temple gathers around the sanctum of the reclining lord, whose image — some twelve feet in length and carved of green stone — lies facing east upon the serpent, with the Goddess Parimala Ranganayaki in her own shrine. Pillared halls and a gateway tower open before the sanctum, in the mature delta manner of the Chola and later ages.",
-    "legends": "The lord is called Parimala Ranganatha — the fragrant Ranganatha — for the fragrance he is said to have imparted to the Vedas when he recovered them from the demons Madhu and Kaitabha in his fish incarnation. Here too he is said to have appeared for Chandra, the moon, to lift a curse, giving the place its name of Tiruindalur. And it is told that when the saint Thirumangai Alvar sang before the closed doors of the shrine, they opened only when, in feigned despair, he offered the temple back to the lord — a tale the devout recall at the threshold.",
-    "festivals": "The temple keeps the Vaishnava calendar — Vaikunta Ekadashi, the Brahmotsavam, and the days of the Alvars — with processions through the delta town. The car festival and the float festival draw the surrounding country, and the days of the Pancharanga pilgrimage bring devotees following the river to its shrines.",
-    "experience": "Tiruindalur rewards the pilgrim who reaches the deep delta with the fragrant lord upon his green-stone couch and the memory of Thirumangai Alvar at the door. It lies close to Mayiladuthurai among the temple towns of the Kaveri, and it closes the pilgrimage of the five Rangas that begins far upstream at Srirangapatna in the Karnataka uplands."
+    "history": "तिरुइंदळूर कावेरी त्रिभुज प्रदेशात मयिलादुतुरैजवळ आहे, आणि त्याचे मंदिर परिमळ रंगनाथ, म्हणजे सुगंधी रंगनाथ, रूपातील विष्णूंना समर्पित आहे. हे एक दिव्यदेशम आहे, नालायिर दिव्य प्रबंधममध्ये आळवार संतांनी गायिलेल्या १०८ निवासस्थानांपैकी एक, आणि नदीवरील पाच पंचरंग क्षेत्रांपैकी एक. तिरुइंदळूर हे नाव इंदू, म्हणजे चंद्र, यावरून आले आहे, ज्याच्यासाठी भगवान येथे प्रकट झाले असे सांगितले जाते; हे मंदिर चोळकालीन प्राचीन असून त्रिभुज प्रदेशातील मंदिरभूमीच्या अगदी आत वसलेले आहे.",
+    "architecture": "द्रविड शैलीत बांधलेले हे मंदिर शयन करणाऱ्या भगवंताच्या गर्भगृहाभोवती वसले आहे; त्यांची मूर्ती — सुमारे बारा फूट लांब आणि हिरव्या दगडात कोरलेली — पूर्वेकडे तोंड करून शेषनागावर पहुडलेली आहे, आणि देवी परिमळ रंगनायकी तिच्या स्वतंत्र मंदिरात आहे. गर्भगृहासमोर स्तंभयुक्त मंडप आणि गोपुर उघडतात, चोळ आणि त्यानंतरच्या काळातील प्रगल्भ त्रिभुज प्रदेशीय शैलीत.",
+    "legends": "भगवंताला परिमळ रंगनाथ — सुगंधी रंगनाथ — म्हटले जाते, कारण मत्स्यावतारात मधु आणि कैटभ या दैत्यांपासून वेद परत मिळवताना त्यांनी वेदांना सुगंध प्रदान केला असे सांगितले जाते. येथेच चंद्राचा शाप दूर करण्यासाठी ते प्रकट झाले असेही सांगितले जाते, आणि त्यावरून या स्थानाला तिरुइंदळूर हे नाव मिळाले. आणि अशी कथा सांगितली जाते की संत तिरुमंगई आळवार यांनी मंदिराच्या बंद दारांसमोर गायन केले तेव्हा, खोट्या निराशेने त्यांनी मंदिर भगवंताला परत अर्पण करण्याचे म्हटल्यावरच ती उघडली — ही कथा भाविक उंबरठ्यावर आठवतात.",
+    "festivals": "मंदिरात वैष्णव दिनदर्शिका पाळली जाते — वैकुंठ एकादशी, ब्रह्मोत्सवम आणि आळवारांचे दिवस — आणि त्रिभुज प्रदेशातील गावातून मिरवणुका निघतात. रथोत्सव आणि तेप्पोत्सव आसपासच्या प्रदेशातील लोकांना आकर्षित करतात, आणि पंचरंग यात्रेचे दिवस नदीच्या बाजूने तिच्या मंदिरांकडे जाणाऱ्या भाविकांना घेऊन येतात.",
+    "experience": "खोल त्रिभुज प्रदेशात पोहोचणाऱ्या यात्रेकरूला तिरुइंदळूर हिरव्या दगडाच्या शय्येवरील सुगंधी भगवंताचे दर्शन आणि दारावरील तिरुमंगई आळवार यांचे स्मरण देऊन समृद्ध करते. ते मयिलादुतुरैजवळ कावेरीच्या मंदिरनगरांमध्ये आहे, आणि कर्नाटकातील उंच प्रदेशातील श्रीरंगपट्टण येथे खूप वरच्या भागात सुरू होणारी पाच रंगांची यात्रा ते पूर्ण करते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and the Brahmotsavam days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Tiruindalur lies near Mayiladuthurai in the Kaveri delta, well connected by road and rail; Mayiladuthurai is the nearest major town and rail head."
+    "timings": "दररोज सकाळी आणि संध्याकाळी दर्शन सत्रांसह उघडे असते, दुपारी बंद असते; वैकुंठ एकादशी आणि ब्रह्मोत्सवमचे दिवस सर्वाधिक गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुइंदळूर कावेरी त्रिभुज प्रदेशात मयिलादुतुरैजवळ असून रस्ते आणि रेल्वेने चांगले जोडलेले आहे; मयिलादुतुरै हे जवळचे प्रमुख शहर आणि रेल्वे स्थानक आहे."
   }
 }
