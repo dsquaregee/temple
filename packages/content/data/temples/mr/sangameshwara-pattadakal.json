@@ -1,30 +1,37 @@
 {
   "id": "sangameshwara-pattadakal",
   "locale": "mr",
+  "name": "संगमेश्वर मंदिर (विजयेश्वर), पट्टदकल",
   "nativeName": "ಸಂಗಮೇಶ್ವರ ದೇವಾಲಯ, ಪಟ್ಟದಕಲ್ಲು",
+  "deity": "शिव विजयेश्वर रूपात, आज संगमेश्वर म्हणून ओळखले जाणारे",
+  "tradition": "शैव",
   "location": {
-    "city": "Pattadakal",
-    "state": "Karnataka",
+    "city": "पट्टदकल",
+    "state": "कर्नाटक",
     "lat": 15.95,
     "lng": 75.816
   },
+  "period": "चालुक्य, विजयादित्य सत्याश्रय याची कारकीर्द, इ.स. सुमारे ६९६–७३३",
   "century": 8,
+  "dynasty": "बदामीचे चालुक्य (विजयादित्य)",
+  "style": "द्रविड, प्रारंभिक चालुक्य",
   "unesco": true,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "पट्टदकल येथील सर्वांत प्राचीन मंदिर, चालुक्य राजा विजयादित्य याने शिवासाठी विजयेश्वर रूपात बांधलेले संगमेश्वर हे युनेस्को यादीतील प्रारंभिक द्रविड मंदिर आहे, जे त्याच्या निर्मात्याच्या मृत्यूसमयी अपूर्ण राहिले.",
   "sections": {
-    "history": "Pattadakal, on the banks of the Malaprabha, was where Chalukya kings were crowned, and its monuments were inscribed as a UNESCO World Heritage Site in 1987. Sangameshwara is the oldest of them, commissioned by Vijayaditya Satyashraya, who ruled from about 696 to 733 CE. He is said to have installed a Shiva linga named Vijayeshvara after himself, and the temple carries that name beside its present one. Sources differ on the exact years, one placing the start around 720 CE. It was left unfinished at his death, and work went on only intermittently in later centuries. A Kannada inscription tablet of 1162 CE stands at the temple, a reminder of how long it has been in use. It sits between the Galaganatha and Virupaksha temples.",
-    "architecture": "Sangameshwara is a Dravida temple with a square sanctum, an antechamber and a large pillared hall of about twenty pillars, now partly ruined, with the remains of a Nandi mandapa in front. The Archaeological Survey of India notes that it stands nearer to the Pallava form than its younger neighbours, lacking the projecting sukanasika on the front of the tower. Its tower is an early experiment in a design that the builders of Virupaksha and Mallikarjuna would later refine. Seen beside them, Sangameshwara is the rehearsal, plain and weighty, for the fuller statements that followed.",
-    "legends": "No single legend is tied to Sangameshwara; its story is a royal one. A king set his own word for victory, vijaya, into the name of the god he installed, Vijayeshvara, lord of victory. The unfinished stones add their own note: even great kings leave work for those who come after. Pattadakal itself carries the memory of coronations, its name pointing to the stone of crowning, and the temple stands as a quiet witness to the dynasty that ruled from here.",
-    "festivals": "Sangameshwara is a protected monument rather than a temple with a daily round of worship, so it keeps no festival calendar of its own. Maha Shivaratri is the observance most associated with Shiva temples in the region; confirm dates locally. Pattadakal is also known for its annual dance festival staged among the monuments, which is worth checking for when planning a visit.",
-    "experience": "Walk to Sangameshwara from the Virupaksha enclosure and the difference is immediate: older, plainer, more sober. Stand before the broad, partly ruined hall and look up at the tower, then circle the walls where the stone changes from finished to unfinished. The Malaprabha flows close by, and late afternoon light turns the sandstone gold. It rewards anyone who enjoys seeing a great tradition at the moment it was still finding its form."
+    "history": "मलप्रभेच्या काठावरील पट्टदकल हे ठिकाण चालुक्य राजांचे राज्याभिषेक होण्याचे स्थान होते, आणि तेथील वास्तूंना १९८७ मध्ये युनेस्को जागतिक वारसा स्थळ म्हणून मान्यता मिळाली. संगमेश्वर त्यांपैकी सर्वांत प्राचीन आहे, इ.स. सुमारे ६९६ ते ७३३ पर्यंत राज्य करणाऱ्या विजयादित्य सत्याश्रयाने ते बांधवून घेतले. त्याने स्वतःच्या नावावरून विजयेश्वर नावाचे शिवलिंग स्थापन केले असे सांगितले जाते, आणि मंदिर त्याच्या सध्याच्या नावासोबत हे नावही धारण करते. नेमक्या वर्षांबाबत स्रोतांमध्ये मतभेद आहेत, एका मतानुसार सुरुवात इ.स. ७२० च्या सुमारास झाली. त्याच्या मृत्यूसमयी ते अपूर्ण राहिले, आणि पुढील शतकांमध्ये काम केवळ अधूनमधून चालू राहिले. मंदिरात इ.स. ११६२ चा कन्नड शिलालेख फलक आहे, जो ते किती दीर्घकाळ वापरात आहे याची आठवण करून देतो. ते गळगनाथ आणि विरूपाक्ष मंदिरांच्या मध्ये आहे.",
+    "architecture": "संगमेश्वर हे द्रविड मंदिर असून त्याला चौरस गर्भगृह, अंतराळ आणि सुमारे वीस स्तंभांचा मोठा स्तंभयुक्त सभामंडप आहे, जो आता काही प्रमाणात भग्न झाला आहे, आणि समोर नंदी मंडपाचे अवशेष आहेत. भारतीय पुरातत्त्व सर्वेक्षण नमूद करते की शिखराच्या दर्शनी भागावर पुढे आलेला सुकनासिका नसल्यामुळे ते आपल्या नव्या शेजाऱ्यांपेक्षा पल्लव रूपाच्या अधिक जवळ आहे. त्याचे शिखर हा एका अशा रचनेचा प्रारंभिक प्रयोग आहे, जिला पुढे विरूपाक्ष आणि मल्लिकार्जुन यांच्या निर्मात्यांनी परिष्कृत केले. त्यांच्या शेजारी पाहिले असता संगमेश्वर हा पुढे आलेल्या अधिक परिपूर्ण अभिव्यक्तींचा साधा, भारदस्त सराव वाटतो.",
+    "legends": "संगमेश्वराशी कोणतीही एक दंतकथा जोडलेली नाही; त्याची कथा राजाची आहे. एका राजाने विजयासाठीचा स्वतःचा शब्द, विजय, आपण स्थापन केलेल्या देवाच्या नावात घातला — विजयेश्वर, विजयाचा स्वामी. अपूर्ण दगड आपली स्वतःची नोंद जोडतात: महान राजेसुद्धा पुढे येणाऱ्यांसाठी काम मागे ठेवतात. पट्टदकल स्वतः राज्याभिषेकांची स्मृती वागवते, त्याचे नाव राज्याभिषेकाच्या शिळेकडे निर्देश करते, आणि येथून राज्य करणाऱ्या घराण्याचा मंदिर हा एक शांत साक्षीदार म्हणून उभा आहे.",
+    "festivals": "संगमेश्वर हे संरक्षित स्मारक आहे, दैनंदिन पूजेचे मंदिर नाही, म्हणून त्याची स्वतःची उत्सव दिनदर्शिका नाही. महाशिवरात्र हा प्रदेशातील शिवमंदिरांशी सर्वाधिक निगडित उत्सव आहे; तारखा स्थानिक पातळीवर तपासाव्यात. पट्टदकल हे स्मारकांमध्ये आयोजित होणाऱ्या वार्षिक नृत्य महोत्सवासाठीही प्रसिद्ध आहे, जो भेटीचे नियोजन करताना पाहण्यासारखा आहे.",
+    "experience": "विरूपाक्षाच्या आवारातून संगमेश्वराकडे चालत गेल्यास फरक लगेच जाणवतो: अधिक जुने, अधिक साधे, अधिक गंभीर. रुंद, अंशतः भग्न सभामंडपासमोर उभे राहून शिखराकडे पाहा, मग भिंतींभोवती फिरा, जेथे दगड पूर्ण झालेल्यातून अपूर्णाकडे बदलतो. मलप्रभा जवळच वाहते, आणि सायंकाळचा प्रकाश वालुकाश्माला सोनेरी करतो. एखादी महान परंपरा आपले रूप शोधत असतानाचा क्षण पाहण्यात रस असणाऱ्या प्रत्येकासाठी हे स्थान फलदायी ठरते."
   },
   "visit": {
-    "timings": "Open daily in daytime hours as an Archaeological Survey of India monument and UNESCO site; a single ticket admits visitors to the Pattadakal complex. Confirm current hours and fees locally.",
-    "dressCode": "No strict dress code applies, but modest dress is appropriate given the sacred character of the site; comfortable footwear helps for walking the open complex.",
-    "photography": "Photography is generally permitted across the open-air site; tripods or professional equipment may require permission.",
-    "gettingThere": "Pattadakal is in Karnataka’s Bagalkot district, about 22 km from Badami, which has the nearest railway station, and around 130 km from Hubballi, the nearest airport. It is usually visited together with Badami and Aihole. Sangameshwara stands inside the Pattadakal monument complex."
+    "timings": "भारतीय पुरातत्त्व सर्वेक्षणाचे स्मारक आणि युनेस्को स्थळ म्हणून दिवसाच्या वेळेत दररोज खुले; एकाच तिकिटावर पट्टदकल संकुलात प्रवेश मिळतो. सध्याच्या वेळा आणि शुल्क स्थानिक पातळीवर खात्री करून घ्यावे.",
+    "dressCode": "कोणताही कडक पोशाख नियम नाही, परंतु स्थळाचे पावित्र्य लक्षात घेता साधा पोशाख योग्य आहे; खुल्या संकुलात चालण्यासाठी आरामदायी पादत्राणे उपयुक्त ठरतात.",
+    "photography": "खुल्या हवेतील स्थळात छायाचित्रणास सामान्यतः परवानगी आहे; ट्रायपॉड किंवा व्यावसायिक उपकरणांसाठी परवानगी लागू शकते.",
+    "gettingThere": "पट्टदकल कर्नाटकातील बागलकोट जिल्ह्यात आहे, जवळचे रेल्वे स्थानक असलेल्या बदामीपासून सुमारे २२ किमी, आणि जवळचा विमानतळ असलेल्या हुब्बळ्ळीपासून सुमारे १३० किमी. ते सहसा बदामी आणि ऐहोळे यांच्यासह पाहिले जाते. संगमेश्वर पट्टदकल स्मारक संकुलाच्या आत आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sangameshwara-pattadakal.jpg",

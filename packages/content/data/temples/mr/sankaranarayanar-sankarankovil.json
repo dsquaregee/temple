@@ -1,29 +1,36 @@
 {
   "id": "sankaranarayanar-sankarankovil",
   "locale": "mr",
+  "name": "शंकरनारायणर मंदिर, शंकरनकोविल",
   "nativeName": "சங்கரநாராயணர் கோயில்",
+  "deity": "शंकरनारायणर, शिव आणि विष्णू यांचे संयुक्त रूप (हरिहर), शंकर लिंग स्वामी आणि देवी गोमती अम्मन यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Sankarankovil",
-    "state": "Tamil Nadu",
+    "city": "शंकरनकोविल",
+    "state": "तमिळनाडू",
     "lat": 9.172,
     "lng": 77.542
   },
+  "period": "पांड्य स्थापना, परंपरेनुसार १० व्या शतकातील, नंतरच्या नायक भरीसह",
   "century": 10,
+  "dynasty": "पांड्य, नंतरच्या नायक भरीसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "temples-of-the-deep-south"
   ],
+  "summary": "शंकरनारायणर हे शंकरनकोविल येथील हरिहर मंदिर आहे, जेथे शिव आणि विष्णू एकच रूप म्हणून पूजले जातात आणि जेथे, परंपरा सांगते, गोमती अम्मनच्या तपश्चर्येमुळे प्रभू त्या संयुक्त रूपात तिच्याकडे आला.",
   "sections": {
-    "history": "Sankarankovil, in the Tenkasi country of the deep south, takes its name from the temple. Local tradition credits it to the Pandya king Ukkira Pandiyan and places the foundation around the tenth century; later patrons, including the Nayaks, enlarged it and raised its nine-tiered rajagopuram. It is a rare shrine devoted to the oneness of Shiva and Vishnu, drawing Shaiva and Vaishnava devotees alike, and it stands among the principal temples of the Tirunelveli region, a place where two great streams of devotion meet in a single sanctum.",
-    "architecture": "The nine-tier rajagopuram rises over the entrance, and the complex holds three principal sanctums: those of Sankara Linga Swami, the Shiva form, of Gomathi Amman, and of Sankaranarayanar. Before the Amman shrine is a Sri Chakra peetham. A sacred tank, the Nagasunai, is said to have been dug by the two serpent kings of the legend. Dravidian corridors and pillared halls surround the shrines, in the long, unhurried manner of the southern temples.",
-    "legends": "The sthala purana tells that two serpent kings, Sankan, a devotee of Shiva, and Padman, a devotee of Vishnu, quarrelled over which god was greater. Gomathi, the goddess here, undertook penance in the punnai forest, asking to see the Lord in a form that joins both. Shiva appeared as Sankaranarayanar, half Shiva and half Vishnu, on the Uthiradam star in the month of Adi, and the dispute ended. The tale teaches that the two are one.",
-    "festivals": "The Aadi Thapasu festival, in July or August, commemorates Gomathi's penance and the appearance of the Lord as Sankaranarayanar, and is the temple's greatest celebration, drawing devotees from across the region. Maha Shivaratri, the monthly Pradosham and the festivals of both Shiva and Vishnu are kept through the year. Confirm dates locally.",
-    "experience": "Enter beneath the rajagopuram and go first to the sanctum of Sankaranarayanar, where a single image honours Shiva and Vishnu together. Devotees receive a pinch of sacred ant-hill earth as prasad, and many sit in prayer before the Sri Chakra in Gomathi Amman's shrine. Walk the corridors and the Nagasunai tank at an easy pace. The town is lively on festival days and quiet on others, and the temple rewards those who come in the cool of the morning."
+    "history": "दक्षिणेकडील खोल भागातील तेनकासी प्रदेशातील शंकरनकोविलला मंदिरावरूनच नाव मिळाले आहे. स्थानिक परंपरा त्याचे श्रेय पांड्य राजा उक्किर पांडियनला देते आणि स्थापना सुमारे दहाव्या शतकात मानते; नंतरच्या आश्रयदात्यांनी, नायकांसह, ते विस्तारले आणि त्याचे नऊ मजली राजगोपुरम उभारले. शिव आणि विष्णू यांच्या एकत्वाला समर्पित असे हे दुर्मिळ मंदिर आहे, जे शैव आणि वैष्णव अशा दोन्ही भाविकांना आकर्षित करते, आणि ते तिरुनेलवेली प्रदेशातील प्रमुख मंदिरांमध्ये गणले जाते — भक्तीच्या दोन महान प्रवाहांचा एकाच गर्भगृहात संगम होणारे स्थान.",
+    "architecture": "नऊ मजली राजगोपुरम प्रवेशद्वारावर उंच उभे आहे, आणि संकुलात तीन प्रमुख गर्भगृहे आहेत: शिवरूप शंकर लिंग स्वामी, गोमती अम्मन आणि शंकरनारायणर यांची. अम्मनच्या मंदिरासमोर श्रीचक्र पीठ आहे. नागसुनै नावाचा पवित्र तलाव दंतकथेतील दोन सर्पराजांनी खोदला असे सांगितले जाते. द्रविड प्रदाक्षिणा मार्ग आणि स्तंभयुक्त सभामंडप दक्षिणेकडील मंदिरांच्या दीर्घ, संथ शैलीत गर्भगृहांना वेढून आहेत.",
+    "legends": "स्थलपुराण सांगते की दोन सर्पराजे, शिवभक्त शंकन आणि विष्णुभक्त पद्मन, यांच्यात कोणता देव श्रेष्ठ यावरून वाद झाला. येथील देवी गोमतीने पुन्नै वनात तपश्चर्या केली, आणि दोघांना जोडणाऱ्या रूपात प्रभूला पाहण्याची विनंती केली. शिव शंकरनारायणर म्हणून प्रकट झाला, अर्धा शिव आणि अर्धा विष्णू, आडी महिन्यातील उत्तिराडम् नक्षत्रावर, आणि वाद संपला. कथा शिकवते की दोघे एकच आहेत.",
+    "festivals": "आडी तपसु उत्सव, जुलै किंवा ऑगस्टमध्ये, गोमतीच्या तपश्चर्येचे आणि प्रभू शंकरनारायणर म्हणून प्रकट होण्याचे स्मरण करतो, आणि हा मंदिराचा सर्वांत मोठा सोहळा आहे, जो प्रदेशभरातून भाविकांना आकर्षित करतो. महाशिवरात्र, मासिक प्रदोष आणि शिव आणि विष्णू दोघांचे उत्सव वर्षभर पाळले जातात. तारखा स्थानिक पातळीवर तपासाव्यात.",
+    "experience": "राजगोपुराखालून प्रवेश करा आणि प्रथम शंकरनारायणराच्या गर्भगृहात जा, जेथे एकच मूर्ती शिव आणि विष्णू दोघांचा एकत्र सन्मान करते. भाविकांना प्रसाद म्हणून वारुळाच्या पवित्र मातीची चिमूट मिळते, आणि अनेकजण गोमती अम्मनच्या मंदिरात श्रीचक्रासमोर प्रार्थनेत बसतात. प्रदक्षिणा मार्गांवर आणि नागसुनै तलावाभोवती सावकाश फिरा. उत्सवाच्या दिवशी शहर उत्साही असते आणि इतर दिवशी शांत, आणि सकाळच्या थंडाव्यात येणाऱ्यांना मंदिर फलदायी ठरते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Sankarankovil lies in Tenkasi district, roughly 50 km from Tirunelveli, and is served by buses from Tirunelveli, Madurai, Tenkasi and Rajapalayam. Tirunelveli Junction is the nearest major railhead. Thoothukudi Airport and Madurai Airport are the nearest airports, roughly 90 km and 140 km away. The temple stands in the centre of the town, and autos are easily found."
+    "timings": "साधारणपणे सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले, मध्यान्हाला विश्रांतीसह; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-विजार, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे प्रवेशद्वारावरील स्टँडजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा मार्ग आणि अंगणांमध्ये छायाचित्रणास सामान्यतः परवानगी आहे, परंतु तमिळनाडूतील मंदिर नियमांनुसार आतील गर्भगृहात काटेकोरपणे मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "शंकरनकोविल तेनकासी जिल्ह्यात, तिरुनेलवेलीपासून सुमारे ५० किमी आहे, आणि तिरुनेलवेली, मदुरै, तेनकासी आणि राजपालयम् येथून बसने जोडलेले आहे. तिरुनेलवेली जंक्शन हे जवळचे मोठे रेल्वे स्थानक आहे. तुतुकुडी विमानतळ आणि मदुरै विमानतळ ही जवळची विमानतळे आहेत, सुमारे ९० किमी आणि १४० किमी दूर. मंदिर शहराच्या मध्यभागी आहे, आणि रिक्षा सहज मिळतात."
   }
 }
