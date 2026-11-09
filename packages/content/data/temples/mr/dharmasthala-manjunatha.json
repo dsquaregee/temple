@@ -1,30 +1,37 @@
 {
   "id": "dharmasthala-manjunatha",
   "locale": "mr",
+  "name": "श्री मंजुनाथ मंदिर, धर्मस्थळ",
   "nativeName": "ಶ್ರೀ ಮಂಜುನಾಥ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಧರ್ಮಸ್ಥಳ",
+  "deity": "मंजुनाथ रूपातील शिव, रक्षक धर्म दैवांसह पूजिले जाणारे",
+  "tradition": "शैव धर्म — जैन विश्वस्त कुटुंबाकडे आणि वैष्णव (माध्व) पुजाऱ्यांकडे असलेले अनोखे स्थान",
   "location": {
-    "city": "Dharmasthala",
-    "state": "Karnataka",
+    "city": "धर्मस्थळ",
+    "state": "कर्नाटक",
     "lat": 12.949,
     "lng": 75.3785
   },
+  "period": "नेत्रावती नदीकाठचे धर्माचे जिवंत पीठ, विविध धर्मीयांच्या सहविश्वस्ततेसाठी आणि विशाल मोफत अन्नदानासाठी प्रसिद्ध",
   "century": 13,
+  "dynasty": "माध्व मार्गदर्शनाखाली हेग्गडे कुटुंबाकडे",
+  "style": "किनारी कर्नाटक (तुळुनाडू)",
   "unesco": false,
   "circuits": [
     "temples-of-coastal-karnataka"
   ],
+  "summary": "धर्मस्थळ येथे शिवाची मंजुनाथ रूपात पूजा होते, आणि हे मंदिर इतर कोणत्याही मंदिरासारखे नाही — जैन कुटुंबाकडे त्याची देखभाल, वैष्णव पुजाऱ्यांकडून सेवा आणि धर्म दैवांचे संरक्षण; येथे धर्म आणि दान हाच जिवंत विश्वास आहे.",
   "sections": {
-    "history": "Dharmasthala, on the Netravati river in Dakshina Kannada, has for some eight centuries been a seat of dharma kept by the Heggade family, who are Jain by faith. Here Shiva is worshipped as Manjunatha, his linga said to have been brought and consecrated with the guidance of the Vaishnava saint Vadiraja Tirtha, so that the temple is served by Madhva Brahmin priests — a rare harmony of three traditions under one roof.",
-    "architecture": "The temple sits in the coastal Karnataka manner amid the greenery of the Western Ghats, gathered around the Manjunatha linga, with shrines to the guardian daivas nearby. Its fame is less in ornament than in scale of service: a kitchen that feeds tens of thousands of pilgrims free each day.",
-    "legends": "Tradition tells that the Dharma Daivas — guardian spirits of righteousness — came to the home of the Heggades and asked them to devote their house to dharma. They did so, and the god Annappa is said to have brought the linga of Manjunatha; from that time the family have been custodians, and the head of the house is honoured as the Dharmadhikari, the upholder of dharma.",
-    "festivals": "The great festival is the Laksha Deepotsava, the offering of a hundred thousand lamps, when the town fills with pilgrims. Through the year the temple keeps its daily worship and its unbroken annadana — the free feeding that is its defining vow.",
-    "experience": "Dharmasthala is sought as much for its spirit of charity and justice as for darshan; pilgrims come to eat at its hall, to seek fair judgement, and to see a shrine where three faiths keep one god together."
+    "history": "दक्षिण कन्नड जिल्ह्यातील नेत्रावती नदीकाठचे धर्मस्थळ हे सुमारे आठ शतके हेग्गडे कुटुंबाकडे असलेले धर्माचे पीठ आहे; हे कुटुंब श्रद्धेने जैन आहे. येथे शिवाची मंजुनाथ रूपात पूजा होते; त्याचे लिंग वैष्णव संत वादिराज तीर्थ यांच्या मार्गदर्शनाने आणून प्रतिष्ठापिले गेले असे म्हटले जाते, म्हणून मंदिराची सेवा माध्व ब्राह्मण पुजारी करतात — एका छताखाली तीन परंपरांचा दुर्मिळ सुसंवाद.",
+    "architecture": "पश्चिम घाटाच्या हिरवाईत, किनारी कर्नाटकाच्या शैलीतील हे मंदिर मंजुनाथ लिंगाभोवती वसले आहे; जवळच रक्षक दैवांची देवळे आहेत. त्याची कीर्ती अलंकरणापेक्षा सेवेच्या व्याप्तीत अधिक आहे: येथील स्वयंपाकघरात दररोज हजारो यात्रेकरूंना मोफत भोजन दिले जाते.",
+    "legends": "परंपरा सांगते की धर्म दैव — धर्माचे रक्षक आत्मे — हेग्गडे कुटुंबाच्या घरी आले आणि त्यांनी त्यांना आपले घर धर्मासाठी समर्पित करण्यास सांगितले. त्यांनी तसे केले, आणि अण्णप्पा देवाने मंजुनाथाचे लिंग आणले असे म्हटले जाते; तेव्हापासून हे कुटुंब विश्वस्त आहे, आणि घराच्या प्रमुखाला धर्माधिकारी, म्हणजे धर्माचा रक्षक, म्हणून सन्मानले जाते.",
+    "festivals": "लक्षदीपोत्सव, म्हणजे लाखभर दिव्यांचे अर्पण, हा प्रमुख उत्सव असून तेव्हा गाव यात्रेकरूंनी भरून जाते. वर्षभर मंदिरात दैनंदिन पूजा आणि अखंड अन्नदान चालते — हेच येथील मुख्य व्रत आहे.",
+    "experience": "धर्मस्थळाकडे जितके दर्शनासाठी तितकेच तेथील दानशीलतेच्या आणि न्यायाच्या भावनेसाठी लोक येतात; यात्रेकरू येथील भोजनगृहात जेवायला, न्याय्य निवाडा मागायला आणि तीन धर्म एकत्र एकाच देवाची सेवा करतात ते देवस्थान पाहायला येतात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening worship and a midday break; annadana is served through the day. The Laksha Deepotsava is busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Dharmasthala lies in Dakshina Kannada, in the Western Ghats on the Netravati; it is reached by road from Mangaluru and from Bengaluru via Hassan, the nearest railhead being Mangaluru."
+    "timings": "दररोज सकाळ-संध्याकाळच्या पूजेसह खुले, दुपारी विश्रांती; अन्नदान दिवसभर चालते. लक्षदीपोत्सवात सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "धर्मस्थळ दक्षिण कन्नडमध्ये, पश्चिम घाटात नेत्रावतीच्या काठी आहे; मंगळुरू येथून आणि बेंगळुरूहून हासनमार्गे रस्त्याने जाता येते; सर्वांत जवळचे रेल्वेस्थानक मंगळुरू आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/dharmasthala-manjunatha.jpg",
