@@ -1,31 +1,38 @@
 {
   "id": "kedarnath",
   "locale": "mr",
+  "name": "केदारनाथ मंदिर",
   "nativeName": "श्री केदारनाथ धाम",
+  "deity": "केदारनाथ रूपातील शिव, केदाराचा स्वामी — बारा ज्योतिर्लिंगांतील सर्वांत उंचावरील",
+  "tradition": "शैव",
   "location": {
-    "city": "Kedarnath",
-    "state": "Uttarakhand",
+    "city": "केदारनाथ",
+    "state": "उत्तराखंड",
     "lat": 30.7352,
     "lng": 79.0669
   },
+  "period": "एक प्राचीन हिमालयीन देवस्थान; परंपरा त्याच्या जीर्णोद्धाराचे श्रेय आठव्या शतकात आदि शंकराचार्यांना देते",
   "century": 8,
+  "dynasty": "परंपरेनुसार पांडव आणि आदि शंकराचार्य यांच्याशी संबंधित",
+  "style": "हिमालयीन दगडी मंदिर (नागर)",
   "unesco": false,
   "circuits": [
     "jyotirlingas",
     "paadal-petra-sthalams"
   ],
+  "summary": "गढवाल हिमालयात मंदाकिनी खोऱ्याच्या शिरोभागी वसलेले केदारनाथ हे बारा ज्योतिर्लिंगांतील सर्वांत उंच, पंच केदारांतील पहिले आणि छोटा चार धामांपैकी एक आहे — केवळ उन्हाळ्याच्या महिन्यांतच खुले.",
   "sections": {
-    "history": "The Dvadasha Jyotirlinga Stotram honours \"Kedara on the slopes of the Himalaya,\" and Kedarnath, at about 3,580 metres, is the highest of the twelve Jyotirlingas. Tradition holds that the Pandavas first built a shrine here and that Adi Shankara revived the temple in the 8th century; a memorial to the teacher stands behind it. Its worship is led by a Rawal, the chief priest, drawn by long custom from the Veerashaiva community of Karnataka. Kedarnath is also the first of the five Panch Kedar shrines and one of the four Chota Char Dham of Uttarakhand. In June 2013 flash floods swept through the valley, devastating the town and taking thousands of lives; the temple itself withstood the waters and has since welcomed pilgrims again.",
-    "architecture": "The temple is built of massive grey stone slabs set on a broad platform, its plain, sturdy walls and pyramidal roof made to endure Himalayan snow. A stone Nandi faces the entrance, and the pillared hall within is carved with images of the Pandavas, Kunti and Krishna. In the sanctum the linga is a natural, irregular rock, revered as the hump of Shiva in the form of a bull. Behind the temple rests a great boulder, the Bhim Shila, which lodged there in 2013 and turned the floodwaters aside.",
-    "legends": "After the Kurukshetra war, the Pandavas sought Shiva to be cleansed of the sin of killing their kin. Unwilling to meet them, Shiva hid among the herds of the Himalaya as a bull. Bhima recognised him, and as the bull sank into the ground he caught hold of its hump. That hump remained at Kedarnath, while, it is said, the arms appeared at Tungnath, the face at Rudranath, the navel at Madhyamaheshwar and the matted hair at Kalpeshwar — the five shrines of the Panch Kedar.",
-    "festivals": "The doors open each spring, around Akshaya Tritiya, on a date announced at Maha Shivaratri, and close on Bhai Dooj after Diwali. In winter the festival image is carried in a palanquin procession to the Omkareshwar temple at Ukhimath, where worship continues until the temple reopens. Shravan is a season of special devotion. Confirm dates locally.",
-    "experience": "The last stretch to Kedarnath is made on foot, by pony or by helicopter, the path climbing beside the roaring Mandakini toward a ring of snow peaks. Arriving at the temple, with the white bulk of the Kedarnath range behind it, is for many the culmination of a lifetime's wish. Evening aarti in the thin, cold air is unforgettable; go slowly and allow time to acclimatise."
+    "history": "द्वादश ज्योतिर्लिंग स्तोत्र \"हिमालयाच्या उतारावरील केदार\" याचा गौरव करते, आणि सुमारे ३,५८० मीटर उंचीवरील केदारनाथ हे बारा ज्योतिर्लिंगांतील सर्वांत उंच आहे. परंपरा सांगते की पांडवांनी येथे प्रथम देवालय बांधले आणि आदि शंकराचार्यांनी आठव्या शतकात मंदिराचा जीर्णोद्धार केला; त्या आचार्यांचे स्मारक मंदिराच्या मागे आहे. तेथील पूजेचे नेतृत्व रावल, म्हणजे मुख्य पुजारी, करतात; दीर्घ रूढीनुसार ते कर्नाटकातील वीरशैव समाजातून येतात. केदारनाथ हे पाच पंच केदार देवस्थानांपैकी पहिले आणि उत्तराखंडच्या चार छोटा चार धामांपैकी एक आहे. जून २०१३ मध्ये अचानक आलेल्या पुराने खोऱ्यात थैमान घातले, नगराचा विध्वंस केला आणि हजारो जीव घेतले; मंदिर स्वतः त्या पाण्यापुढे टिकून राहिले आणि तेव्हापासून पुन्हा यात्रेकरूंचे स्वागत करत आहे.",
+    "architecture": "मंदिर रुंद चौथऱ्यावर बसवलेल्या प्रचंड राखाडी दगडी पाषाणांनी बांधलेले आहे; त्याच्या साध्या, भक्कम भिंती आणि पिरॅमिडसारखे छप्पर हिमालयातील बर्फ सहन करण्यासाठी घडवलेले आहे. प्रवेशद्वारासमोर दगडी नंदी आहे, आणि आतील स्तंभयुक्त सभामंडपात पांडव, कुंती आणि कृष्ण यांच्या प्रतिमा कोरलेल्या आहेत. गर्भगृहात लिंग हा नैसर्गिक, अनियमित आकाराचा खडक आहे; वृषभ रूपातील शिवाचा कूबड म्हणून त्याची पूजा होते. मंदिराच्या मागे भीम शिला नावाचा मोठा शिलाखंड विसावलेला आहे, जो २०१३ मध्ये तेथे अडकला आणि त्याने पुराचे पाणी वळवले.",
+    "legends": "कुरुक्षेत्र युद्धानंतर पांडवांनी आपल्या आप्तांच्या वधाच्या पापातून शुद्ध होण्यासाठी शिवाचा शोध घेतला. त्यांना भेटण्यास अनिच्छुक असलेला शिव वृषभ रूपात हिमालयातील गुरांच्या कळपांमध्ये लपला. भीमाने त्याला ओळखले, आणि वृषभ जमिनीत शिरू लागताच त्याने त्याचा कूबड धरला. तो कूबड केदारनाथला राहिला, तर, असे म्हटले जाते, बाहू तुंगनाथ येथे, मुख रुद्रनाथ येथे, नाभी मध्यमहेश्वर येथे आणि जटा कल्पेश्वर येथे प्रकट झाल्या — ही पंच केदारांची पाच देवस्थाने.",
+    "festivals": "दरवर्षी वसंत ऋतूत, अक्षय्य तृतीयेच्या सुमारास, महाशिवरात्रीला जाहीर केलेल्या तारखेला दरवाजे उघडतात, आणि दिवाळीनंतर भाऊबीजेला बंद होतात. हिवाळ्यात उत्सवमूर्तीची पालखी मिरवणुकीने उखीमठ येथील ओंकारेश्वर मंदिरात नेली जाते, जेथे मंदिर पुन्हा उघडेपर्यंत पूजा चालते. श्रावण हा विशेष भक्तीचा काळ असतो. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "केदारनाथचा शेवटचा टप्पा पायी, घोड्यावरून किंवा हेलिकॉप्टरने पार केला जातो; वाट गर्जणाऱ्या मंदाकिनीच्या कडेने बर्फाच्छादित शिखरांच्या वर्तुळाकडे चढत जाते. मंदिराच्या मागे केदारनाथ पर्वतरांगेची धवल विशालता असताना तेथे पोहोचणे हे अनेकांसाठी आयुष्यभराच्या इच्छेची परिपूर्ती असते. विरळ, थंड हवेतील सायंकाळची आरती अविस्मरणीय असते; हळूहळू जावे आणि हवामानाशी जुळवून घेण्यासाठी वेळ ठेवावा."
   },
   "visit": {
-    "timings": "Open only from spring to early winter (roughly April–May to October–November); during the season darshan runs from early morning into the evening. Confirm opening and closing dates and daily timings locally.",
-    "dressCode": "Modest dress is expected, with warm layers essential at this altitude; footwear is removed before entering.",
-    "photography": "Photography is not permitted inside the temple; follow posted rules and staff guidance.",
-    "gettingThere": "Road access ends at Gaurikund (via Sonprayag) in Rudraprayag district, Uttarakhand, from where a steep trek of about 16–18 km leads to the temple; ponies, palanquins and helicopter services from the valley below are available. The nearest railway station is Rishikesh and the nearest airport is Jolly Grant, Dehradun. Pilgrim registration for the Char Dham yatra is required."
+    "timings": "केवळ वसंत ऋतूपासून हिवाळ्याच्या सुरुवातीपर्यंत (साधारण एप्रिल-मे ते ऑक्टोबर-नोव्हेंबर) खुले; हंगामात दर्शन पहाटेपासून सायंकाळपर्यंत चालते. उघडण्याच्या आणि बंद होण्याच्या तारखा व दैनंदिन वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पोशाख अपेक्षित आहे; या उंचीवर उबदार कपड्यांचे थर अत्यावश्यक आहेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत.",
+    "photography": "मंदिरात आत छायाचित्रणास परवानगी नाही; लावलेले नियम आणि कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "रस्ता उत्तराखंडच्या रुद्रप्रयाग जिल्ह्यातील गौरीकुंडपर्यंत (सोनप्रयागमार्गे) संपतो; तेथून सुमारे १६–१८ किमीची चढणीची पायपीट मंदिरापर्यंत नेते; खालच्या खोऱ्यातून घोडे, पालख्या आणि हेलिकॉप्टर सेवा उपलब्ध आहेत. जवळचे रेल्वेस्थानक ऋषिकेश आणि जवळचा विमानतळ जॉली ग्रँट, डेहराडून आहे. चार धाम यात्रेसाठी यात्रेकरूंची नोंदणी आवश्यक आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kedarnath.jpg",

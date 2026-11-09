@@ -1,29 +1,36 @@
 {
   "id": "ketheeswarar-mannar",
   "locale": "mr",
+  "name": "तिरुकेतीश्वरम मंदिर, मन्नार (मातोट्टम)",
   "nativeName": "திருக்கேதீச்சரம்",
+  "deity": "केतीश्वरर रूपातील शिव, देवी गौरी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Mannar",
-    "state": "Northern Province, Sri Lanka",
+    "city": "मन्नार",
+    "state": "उत्तर प्रांत, श्रीलंका",
     "lat": 8.9147,
     "lng": 79.9561
   },
+  "period": "मातोट्टमच्या प्राचीन बंदरातील ईळ नाडूचे पाडल पेट्र स्थलम, तेवारममध्ये संबंधर आणि सुंदरर यांनी गायिलेले (सातवे शतक)",
   "century": 7,
+  "dynasty": "मातोट्टमचे प्राचीन बंदर-देवस्थान, विसाव्या शतकाच्या सुरुवातीला पुन्हा बांधलेले",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मन्नार बेटाच्या पलीकडे जलाच्या काठावरील मातोट्टम येथे, पालावी तलावाकाठी, श्रीलंकेतील तेवारमच्या दोन देवस्थानांपैकी एकात शिव केतीश्वरर म्हणून पूजला जातो.",
   "sections": {
-    "history": "Thiruketheeswaram stands at Mathottam, the Mantai of old, once a busy harbour on the north-western coast of Sri Lanka facing Mannar island. It is one of the 276 Paadal Petra Sthalams and one of only two in Eezha Nadu, the island's share of the Tevaram, the other being Koneswaram at Trincomalee. Thirugnana Sambandar and Sundarar both sang the Lord of Ketheeswaram, and Sundarar's verses dwell on the banks of the Palavi. The old shrine was destroyed in the late sixteenth century and worship there ceased for some three hundred years. In 1872 the Jaffna scholar Arumuka Navalar called on Shaivas to restore it; the site was traced in the 1890s and a new temple rose on the ancient ground in the early twentieth century.",
-    "architecture": "The present temple is a Dravidian shrine of the modern revival, raised on the site of the ancient one, with its sanctum for Ketheeswarar, a separate shrine for the Goddess and an enclosing prakaram. Its great sacred water is the Palavi tank, an ancient reservoir restored from ruin, whose name the Tevaram itself preserves. Near the temple lies the estuary of the Aruvi Aru, the river that once made Mathottam a port.",
-    "legends": "The name is explained through Ketu, the shadow planet of the navagrahas: tradition holds that Ketu performed penance at this spot and was granted the vision of Shiva and the Goddess, so that the place became Thiru-Ketu-Ishwaram. Another tradition links Mathottam with the Ramayana, saying that Mandodari, queen of Ravana, came from this port, and that her father Mayan, the celestial architect, first raised a shrine to Shiva here.",
-    "festivals": "Maha Shivaratri is the great night of Thiruketheeswaram, when pilgrims gather from across the island to keep vigil, and on the following morning bathe in the Palavi tank. The annual Mahotsavam closes with a theertham, the sacred bathing of the deity at the Palavi; confirm dates locally.",
-    "experience": "Thiruketheeswaram is a place of return: a shrine that was lost for centuries and restored by the devotion of the people who remembered it. Pilgrims bathe in the Palavi, worship Ketheeswarar and the Goddess, and recall that Sambandar and Sundarar sang this coast from across the sea, joining Mathottam to the Shaiva sacred geography of the Tamil land."
+    "history": "तिरुकेतीश्वरम मातोट्टम येथे आहे, म्हणजे पूर्वीचे मांताई, जे एकेकाळी श्रीलंकेच्या वायव्य किनाऱ्यावर मन्नार बेटासमोरचे गजबजलेले बंदर होते. हे २७६ पाडल पेट्र स्थलमांपैकी एक आहे आणि ईळ नाडूमधील केवळ दोनांपैकी एक — तेवारममधील बेटाचा वाटा — दुसरे त्रिंकोमाली येथील कोनेश्वरम. तिरुग्नान संबंधर आणि सुंदरर या दोघांनी केतीश्वरमच्या प्रभूचे गायन केले, आणि सुंदररांचे श्लोक पालावीच्या काठांवर रेंगाळतात. जुने देवस्थान सोळाव्या शतकाच्या उत्तरार्धात उद्ध्वस्त झाले आणि तेथील पूजा सुमारे तीनशे वर्षे थांबली. १८७२ मध्ये जाफनाचे विद्वान आरुमुग नावलर यांनी शैवांना ते पुनर्स्थापित करण्याचे आवाहन केले; १८९० च्या दशकात त्या जागेचा शोध लागला आणि विसाव्या शतकाच्या सुरुवातीला प्राचीन भूमीवर नवे मंदिर उभे राहिले.",
+    "architecture": "सध्याचे मंदिर आधुनिक पुनरुज्जीवनाचे द्रविड देवालय असून प्राचीन मंदिराच्या जागी उभारलेले आहे; त्यात केतीश्वररांचे गर्भगृह, देवीचे स्वतंत्र देवालय आणि वेढणारा प्राकार आहे. त्याचे महान पवित्र जलाशय पालावी तलाव आहे, हा एक प्राचीन जलाशय असून अवशेषांतून पुनर्स्थापित केला आहे; त्याचे नाव तेवारम स्वतः जपते. मंदिराजवळ अरुवी आरूचे मुख आहे, ज्या नदीने एकेकाळी मातोट्टमला बंदर बनवले.",
+    "legends": "नावाचा अर्थ केतूच्या संदर्भातून सांगितला जातो, नवग्रहांतील छाया ग्रह: परंपरा सांगते की केतूने या ठिकाणी तप केले आणि त्याला शिव आणि देवीचे दर्शन लाभले, त्यामुळे हे स्थान तिरु-केतु-ईश्वरम झाले. दुसरी परंपरा मातोट्टमला रामायणाशी जोडते; ती सांगते की रावणाची राणी मंदोदरी या बंदरातून आली, आणि तिचे पिता मयन, दिव्य शिल्पकार, यांनी येथे शिवाचे पहिले देवालय उभारले.",
+    "festivals": "महाशिवरात्र ही तिरुकेतीश्वरमची महान रात्र असते, जेव्हा यात्रेकरू जागरणासाठी बेटाच्या कानाकोपऱ्यांतून जमतात, आणि पुढच्या सकाळी पालावी तलावात स्नान करतात. वार्षिक महोत्सवाचा समारोप तीर्थमने होतो, म्हणजे पालावी येथे देवतेचे पवित्र स्नान; तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुकेतीश्वरम हे परतण्याचे स्थान आहे: शतकानुशतके हरवलेले आणि ज्यांनी ते स्मरणात ठेवले त्या लोकांच्या भक्तीने पुनर्स्थापित झालेले देवस्थान. यात्रेकरू पालावीत स्नान करतात, केतीश्वरर आणि देवीची पूजा करतात, आणि स्मरण करतात की संबंधर आणि सुंदररांनी समुद्रापलीकडून हा किनारा गायिला, आणि मातोट्टमला तमिळ भूमीच्या शैव पवित्र भूगोलाशी जोडले."
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions, with extended hours on Maha Shivaratri and festival days. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — men often enter the inner shrine bare-chested, wearing a veshti; women in saree or other modest dress. Footwear is left outside.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer areas, ask the temple staff before taking pictures, especially during rituals and festivals.",
-    "gettingThere": "The temple lies on the mainland about 10 km from Mannar town, near the causeway to Mannar island, in Sri Lanka's Northern Province. Mannar has a railway station and bus links to Vavuniya, Anuradhapura and Jaffna; Colombo's international airport is the main gateway, several hours away by road."
+    "timings": "दररोज सकाळ-संध्याकाळच्या सत्रांत खुले; महाशिवरात्र आणि सणांच्या दिवशी वेळ वाढवलेली असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधे पारंपरिक पोशाख अपेक्षित आहेत — पुरुष अनेकदा वेष्टी नेसून उघड्या अंगाने आतील देवालयात प्रवेश करतात; स्त्रिया साडी किंवा इतर साधा पोशाख परिधान करतात. पादत्राणे बाहेर ठेवावीत.",
+    "photography": "गर्भगृहात छायाचित्रणास परवानगी नाही; बाहेरील भागांत छायाचित्रे घेण्यापूर्वी, विशेषतः विधी आणि उत्सवांच्या वेळी, मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "मंदिर मुख्य भूमीवर, मन्नार शहरापासून सुमारे १० किमी, मन्नार बेटाकडे जाणाऱ्या सेतूमार्गाजवळ, श्रीलंकेच्या उत्तर प्रांतात आहे. मन्नारला रेल्वेस्थानक आहे आणि वव्हुनिया, अनुराधपुरा व जाफनाकडे बस जोडणी आहे; कोलंबोचा आंतरराष्ट्रीय विमानतळ हे मुख्य प्रवेशद्वार असून रस्त्याने काही तास अंतरावर आहे."
   }
 }
