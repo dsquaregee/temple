@@ -1,30 +1,37 @@
 {
   "id": "pundarikaksha-thiruvellarai",
   "locale": "mr",
+  "name": "पुंडरीकाक्षन पेरुमाळ मंदिर, तिरुवेळ्ळरै",
   "nativeName": "புண்டரீகாட்சப் பெருமாள் கோயில், திருவெள்ளறை",
+  "deity": "पुंडरीकाक्षन पेरुमाळ रूपातील विष्णू, उभ्या स्वरूपात, देवी पंकजवल्ली यांच्यासह — श्वेत शिळेच्या टेकडीवरील कमलनयन प्रभू",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruvellarai",
-    "state": "Tamil Nadu",
+    "city": "तिरुवेळ्ळरै",
+    "state": "तमिळनाडू",
     "lat": 10.956,
     "lng": 78.668
   },
+  "period": "चोळ प्रदेशातील दिव्य देशम्, नालायिर दिव्य प्रबंधमध्ये पेरियाळवार आणि तिरुमंगै आळवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "पल्लव, नंतरच्या चोळ, पांड्य, विजयनगर व नायक यांच्या भरींसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुवेळ्ळरै येथे पेरियाळवार आणि तिरुमंगै आळवार यांनी गायिलेल्या पल्लवकालीन दिव्य देशम्मध्ये, श्वेत शिळेच्या उंचवट्यावर विष्णू कमलनयन पुंडरीकाक्षन पेरुमाळ म्हणून पंकजवल्लीसह उभे आहेत.",
   "sections": {
-    "history": "Thiruvellarai, about 22 km from Tiruchirappalli on the Thuraiyur road, is one of the 108 Divya Desams in Chola Nadu, sung by Periyalvar and Thirumangai Alvar in the Nalayira Divya Prabandham. Periyalvar devotes a full decad of the Periyalvar Tirumozhi to this Lord. Two rock-cut caves here carry three inscriptions: two of the Pallava king Nandivarman II and one of Dantivarman, placing the shrine firmly in the eighth and ninth centuries. The swastika-shaped tank outside the complex is recorded as the work of Kamban Araiyan, about 800 CE, in Dantivarman's reign. The medieval Cholas, later Pandyas, Vijayanagara rulers and Madurai Nayaks added to the temple in turn.",
-    "architecture": "The temple stands on an artificial rise of white rock, some fifteen metres high, from which the name Thiruvellarai — the white rock — is understood. Pundarikakshan stands facing east beneath the Vimalakruthi Vimanam, with Pankajavalli in her own shrine. The sanctum has two stepped entrances, the Uttarayana Vasal and the Dakshinayana Vasal, opened according to the sun's course. Pallava sculptures of Narasimha and Varaha survive, as do Vijayanagara and Nayak wall paintings in the main shrine. The rajagopuram was never completed.",
-    "legends": "Tradition credits the founding of the shrine to the king Sibi Chakravarti, and local belief holds it to be very ancient. The Lord is called Pundarikakshan, the lotus-eyed, and is known locally as Mayavan during the southward half of the sun's year and as Thai Matha Nayagan in the northward half. The two sanctum doors recall this turning of the year: devotees enter by the Dakshinayana door in the one season and the Uttarayana door in the other, as the pilgrimage of the sun is itself honoured.",
-    "festivals": "The Vaishnava year is kept here, with Vaikunta Ekadashi among its great days. The opening and shifting of the two sanctum entrances at the sun's turning, around Thai and again in the Tamil months of Aadi to Margazhi, is a distinctive observance of this temple. Confirm festival dates locally, as they follow the Tamil almanac.",
-    "experience": "The climb up the stone steps to the lotus-eyed Lord is part of the devotion. Walk slowly past the Pallava carvings and the faded paintings, notice the double sanctum entrance, and look down on the swastika-shaped tank. The temple is quiet, and a good half-day pilgrimage from Tiruchirappalli."
+    "history": "तिरुचिरापल्लीपासून तुरैयूर मार्गावर सुमारे २२ किमी अंतरावरील तिरुवेळ्ळरै हे चोळ नाडूतील १०८ दिव्य देशम्पैकी एक असून नालायिर दिव्य प्रबंधमध्ये पेरियाळवार आणि तिरुमंगै आळवार यांनी ते गायिले आहे. पेरियाळवार तिरुमोळीतील एक संपूर्ण दशक पेरियाळवारांनी या प्रभूला वाहिले आहे. येथील दोन खडकात कोरलेल्या गुहांवर तीन शिलालेख आहेत : दोन पल्लव राजा दुसरा नंदिवर्मन याचे आणि एक दंतिवर्मनचे, जे हे मंदिर आठव्या व नवव्या शतकांत निश्चितपणे ठेवतात. संकुलाबाहेरील स्वस्तिकाकार तलाव दंतिवर्मनच्या कारकिर्दीत, सुमारे इसवी सन ८०० मध्ये, कंबन अरैयन याने केलेले काम म्हणून नोंदलेला आहे. मध्ययुगीन चोळ, नंतरचे पांड्य, विजयनगरचे राज्यकर्ते आणि मदुराईचे नायक यांनी क्रमाने मंदिरात भर घातली.",
+    "architecture": "मंदिर श्वेत शिळेच्या सुमारे पंधरा मीटर उंच कृत्रिम उंचवट्यावर उभे आहे, ज्यावरून तिरुवेळ्ळरै — श्वेत शिळा — हे नाव आले असे समजले जाते. पुंडरीकाक्षन पूर्वाभिमुख उभे असून विमलकृति विमानाखाली आहेत, आणि पंकजवल्ली तिच्या स्वतंत्र गर्भगृहात आहे. गर्भगृहाला दोन पायऱ्यांचे प्रवेशद्वार आहेत, उत्तरायण वासल आणि दक्षिणायन वासल, जे सूर्याच्या मार्गानुसार उघडले जातात. नरसिंह आणि वराह यांची पल्लवकालीन शिल्पे टिकून आहेत, तसेच मुख्य गर्भगृहात विजयनगर आणि नायककालीन भित्तिचित्रे आहेत. राजगोपुर कधीच पूर्ण झाले नाही.",
+    "legends": "परंपरा या मंदिराच्या स्थापनेचे श्रेय राजा शिबी चक्रवर्ती याला देते, आणि स्थानिक श्रद्धा याला अतिप्राचीन मानते. प्रभूला पुंडरीकाक्षन, म्हणजे कमलनयन, म्हटले जाते, आणि सूर्याच्या वर्षाच्या दक्षिणायन अर्ध्यात स्थानिक लोक त्याला मायवन आणि उत्तरायण अर्ध्यात थै माथ नायगन म्हणून ओळखतात. गर्भगृहाची दोन द्वारे वर्षाच्या या वळणाचे स्मरण करतात : भक्त एका ऋतूत दक्षिणायन द्वारातून आणि दुसऱ्या ऋतूत उत्तरायण द्वारातून प्रवेश करतात, कारण सूर्याच्या यात्रेचाही येथे गौरव केला जातो.",
+    "festivals": "येथे वैष्णव वर्ष पाळले जाते, ज्यातील वैकुंठ एकादशी हा एक मोठा दिवस आहे. सूर्याच्या वळणाच्या वेळी, थै महिन्याभोवती आणि पुन्हा आडि ते मार्गळी या तमिळ महिन्यांत, दोन गर्भगृह-द्वारे उघडणे व बदलणे हे या मंदिराचे विशिष्ट आचरण आहे. उत्सवाच्या तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात, कारण त्या तमिळ पंचांगानुसार चालतात.",
+    "experience": "कमलनयन प्रभूपर्यंत दगडी पायऱ्या चढणे हा भक्तीचा भाग आहे. पल्लव कोरीवकामांजवळून आणि फिकट झालेल्या चित्रांजवळून सावकाश चाला, दुहेरी गर्भगृह-द्वार पाहा, आणि स्वस्तिकाकार तलावाकडे वरून नजर टाका. मंदिर शांत असून तिरुचिरापल्लीहून अर्ध्या दिवसाची उत्तम यात्रा आहे."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is the busiest day. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvellarai is about 22 km from Tiruchirappalli, past Mannachanallur on the Thuraiyur road. Tiruchirappalli Junction and Tiruchirappalli International Airport are the nearest rail and air gateways; buses and taxis cover the road journey."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शन-सत्रांसह आणि मध्यान्हीच्या बंदीसह उघडे असते; वैकुंठ एकादशी हा सर्वांत गर्दीचा दिवस असतो. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुवेळ्ळरै तिरुचिरापल्लीपासून सुमारे २२ किमी, मण्णच्चनल्लूरच्या पुढे तुरैयूर मार्गावर आहे. तिरुचिरापल्ली जंक्शन आणि तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ ही जवळची रेल्वे व हवाई प्रवेशद्वारे आहेत; रस्त्याच्या प्रवासासाठी बस आणि टॅक्सी उपलब्ध आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/pundarikaksha-thiruvellarai.jpg",
