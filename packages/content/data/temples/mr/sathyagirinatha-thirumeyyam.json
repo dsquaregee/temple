@@ -1,30 +1,37 @@
 {
   "id": "sathyagirinatha-thirumeyyam",
   "locale": "mr",
+  "name": "सत्यमूर्ती पेरुमाळ मंदिर, तिरुमयम",
   "nativeName": "சத்தியமூர்த்தி பெருமாள் கோயில், திருமெய்யம்",
+  "deity": "सत्यमूर्ती पेरुमाळ (सत्यगिरीनाथ) रूपातील विष्णू, देवी उय्यवंद नाचियार यांच्यासह — आणि खडकात कोरलेल्या गुहेत आदिशेषावर शयन करणारे",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirumayam",
-    "state": "Tamil Nadu",
+    "city": "तिरुमयम",
+    "state": "तमिळनाडू",
     "lat": 10.247,
     "lng": 78.752
   },
+  "period": "पांड्य प्रदेशातील एक दिव्य देसम, नालायिर दिव्य प्रबंधमध्ये तिरुमंगै आळवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "मुत्तरैयर कालीन गुहा-गर्भगृह, नंतरच्या पांड्य काळातील मंडपांसह",
+  "style": "द्रविड मंडपांसह खडकात कोरलेले गुहा-गर्भगृह",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुमयमच्या किल्ल्याच्या टेकडीखाली, सत्यमूर्ती पेरुमाळ रूपातील त्याच्या मंदिराशेजारी खडकात कोरलेल्या गुहेत विष्णू आदिशेषावर शयन करतात — तिरुमंगै आळवार यांनी गायिलेले पांड्य प्रदेशातील एक दिव्य देसम.",
   "sections": {
-    "history": "Thirumayam, the Thiru-Meyyam or \"sacred hill of truth\" of the Alvars, rises in the Pudukkottai country, and its Vishnu shrine is cut into the southern face of the hill. It is one of the 108 Divya Desams, counted among the abodes of Pandya Nadu, and was sung by Thirumangai Alvar in the Nalayira Divya Prabandham. Scholars place the cave temple in the closing decades of the seventh century and associate it with the Muttaraiyar chiefs: an inscription records its renovation and an endowment by Perumbidugu Perundevi, mother of a Muttaraiyar vassal of the Pallava king Nandivarman II. Pillared halls were added before the cave, mostly in the later Pandya period, and the hill above carries the walls of Thirumayam Fort.",
-    "architecture": "The heart of the temple is a rock-cut cave on the south side of Satyagiri hill. Its great relief shows Vishnu reclining on the coiled serpent Adisesha, carved in the living rock and some fifteen feet long with the Goddess at his chest. Sathyamurthi Perumal is enshrined beneath a single-storeyed Dravidian vimana, and the Goddess Uyyavandha Nachiyar has her separate sannidhi. Later Pandya mandapas lead in to the cave. A Shiva cave of the Pandya period lies beside it on the same hill.",
-    "legends": "The sthala purana tells that the sage Satya performed penance at this hill, and that Vishnu, pleased, revealed himself here as the embodiment of truth — Sathyamurthi, Lord of Satyagiri. Tradition holds that for the sage the Lord turned the river into the temple tank, the rock into the sacred Meyyam hill and a banyan into the holy fig, so that the whole place became his abode. The name Thirumayam itself is remembered as a softening of Thiru-Meyyam, the hill of truth.",
-    "festivals": "The temple keeps the great Vaishnava calendar — Vaikunta Ekadashi, the processions of Sathyamurthi Perumal and the Goddess on their festival vehicles, and the days of the Alvars, Thirumangai Alvar above all. Festival dates follow the Tamil calendar; confirm them locally.",
-    "experience": "A rare Divya Desam where the pilgrim stands before the living rock: the reclining Lord in the cave and Sathyamurthi Perumal in his shrine are worshipped within a few steps of each other. Many combine the visit with the Shiva cave beside it and a climb to the fort ramparts above."
+    "history": "आळवारांचे थिरु-मेय्यम म्हणजे \"सत्याची पवित्र टेकडी\" असलेले तिरुमयम पुदुक्कोट्टै प्रदेशात वसले आहे, आणि तेथील विष्णू मंदिर टेकडीच्या दक्षिणेकडील उतारात कोरलेले आहे. ते १०८ दिव्य देसमांपैकी एक असून पांड्य नाडूतील स्थानांमध्ये गणले जाते, आणि नालायिर दिव्य प्रबंधमध्ये तिरुमंगै आळवार यांनी त्याचे गायन केले आहे. अभ्यासक या गुहा-मंदिराचा काळ सातव्या शतकाच्या अखेरच्या दशकांत ठरवतात आणि ते मुत्तरैयर सरदारांशी जोडतात: एका शिलालेखात पल्लव राजा दुसरा नंदिवर्मन याच्या मुत्तरैयर सामंताची माता पेरुम्बिडुगु पेरुंदेवी हिने केलेला जीर्णोद्धार आणि दिलेले दान नोंदलेले आहे. गुहेसमोर स्तंभयुक्त सभामंडप, बहुतांशी नंतरच्या पांड्य काळात, जोडले गेले, आणि वरील टेकडीवर तिरुमयम किल्ल्याच्या तटबंदी आहेत.",
+    "architecture": "मंदिराचा गाभा सत्यगिरी टेकडीच्या दक्षिण बाजूची खडकात कोरलेली गुहा आहे. तिच्यातील भव्य उठावशिल्पात विष्णू वेटोळे घातलेल्या आदिशेषावर शयन करताना दिसतात; ते जिवंत खडकात कोरलेले असून सुमारे पंधरा फूट लांब आहे आणि देवी त्यांच्या वक्षःस्थळी आहे. सत्यमूर्ती पेरुमाळ एकमजली द्रविड विमानाखाली प्रतिष्ठित आहेत, आणि देवी उय्यवंद नाचियार हिचे स्वतंत्र सन्निधी आहे. नंतरच्या पांड्य काळातील मंडप गुहेकडे नेतात. त्याच टेकडीवर, गुहेशेजारी, पांड्य काळातील एक शिव-गुहा आहे.",
+    "legends": "स्थळपुराणानुसार सत्य नावाच्या ऋषींनी या टेकडीवर तपश्चर्या केली, आणि प्रसन्न होऊन विष्णूंनी सत्याचे मूर्तिमंत रूप म्हणून — सत्यमूर्ती, सत्यगिरीचे स्वामी — येथे प्रकट झाले. परंपरा सांगते की त्या ऋषींसाठी प्रभूंनी नदीचे रूपांतर मंदिराच्या तलावात, खडकाचे पवित्र मेय्यम टेकडीत आणि वडाचे पवित्र अश्वत्थात केले, जेणेकरून संपूर्ण स्थान त्यांचे निवासस्थान बनले. तिरुमयम हे नाव स्वतः थिरु-मेय्यम, म्हणजे सत्याची टेकडी, याचा मृदू झालेला रूप म्हणून स्मरले जाते.",
+    "festivals": "मंदिर वैष्णव पंचांगातील मोठे उत्सव साजरे करते — वैकुंठ एकादशी, सत्यमूर्ती पेरुमाळ आणि देवी यांच्या उत्सव वाहनांवरील मिरवणुका, आणि आळवारांचे दिवस, विशेषतः तिरुमंगै आळवार यांचे. उत्सवांच्या तारखा तमिळ पंचांगानुसार ठरतात; त्या स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "हा एक दुर्मीळ दिव्य देसम आहे जेथे भाविक जिवंत खडकासमोर उभा राहतो: गुहेतील शयन करणारे प्रभू आणि मंदिरातील सत्यमूर्ती पेरुमाळ यांचे पूजन काही पावलांच्या अंतरावरच होते. अनेक जण या भेटीला शेजारच्या शिव-गुहेची आणि वरील किल्ल्याच्या तटबंदीपर्यंतच्या चढाईची जोड देतात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirumayam lies on the Pudukkottai–Karaikudi road, about 20 km south of Pudukkottai, and has a railway station on the Tiruchirappalli–Karaikudi line; the nearest airport is Tiruchirappalli. The temple sits at the foot of the fort hill, a short walk from the town."
+    "timings": "मंदिर दररोज उघडे असते; सकाळ आणि संध्याकाळी दर्शनाचे सत्र असून दुपारी बंद असते; वैकुंठ एकादशी आणि उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुमयम पुदुक्कोट्टै–कारैक्कुडी मार्गावर, पुदुक्कोट्टैच्या सुमारे २० किमी दक्षिणेस आहे, आणि तिरुचिरापल्ली–कारैक्कुडी मार्गावर तेथे रेल्वे स्थानक आहे; सर्वात जवळचे विमानतळ तिरुचिरापल्ली आहे. मंदिर किल्ल्याच्या टेकडीच्या पायथ्याशी, गावापासून थोड्या चालण्याच्या अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",

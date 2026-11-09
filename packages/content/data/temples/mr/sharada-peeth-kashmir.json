@@ -1,30 +1,37 @@
 {
   "id": "sharada-peeth-kashmir",
   "locale": "mr",
+  "name": "शारदा पीठ, नीलम खोरे",
   "nativeName": "शारदा पीठ",
+  "deity": "शारदा (सरस्वती) रूपातील देवी, विद्या आणि वाणीची देवी, काश्मीरची सरस्वती",
+  "tradition": "शाक्त",
   "location": {
-    "city": "Sharda, Neelum Valley",
-    "state": "Azad Jammu and Kashmir (Pakistan-administered Kashmir)",
+    "city": "शारदा, नीलम खोरे",
+    "state": "आझाद जम्मू आणि काश्मीर (पाकिस्तान-प्रशासित काश्मीर)",
     "lat": 34.792,
     "lng": 74.19
   },
+  "period": "प्राचीन मंदिर आणि विद्यापीठ, नीलमत पुराणात आणि कल्हणाने उद्धृत केलेले; आज अवशेष",
   "century": 8,
+  "dynasty": "परंपरेने कार्कोट काळाशी (ललितादित्य मुक्तापीड, आठवे शतक) जोडलेले; निश्चितपणे सिद्ध नाही",
+  "style": "काश्मिरी मंदिर स्थापत्य; उंच अधिष्ठानावरील दगडी अवशिष्ट मंदिर",
   "unesco": false,
   "circuits": [
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "नीलम खोऱ्यातील शारदा पीठ हे काश्मीरची सरस्वती शारदा हिचे प्राचीन आसन आहे, जेथे परंपरा सतीचा उजवा हात असल्याचे सांगते आणि जे नावाने शारदा लिपीशी जोडलेले आहे; ते पाकिस्तान-प्रशासित काश्मीरमध्ये अवशेषरूपात उभे आहे, भारतीय यात्रेकरूंच्या आवाक्याबाहेर.",
   "sections": {
-    "history": "In the line \"Kashmireshu Saraswati\" of the Ashtadasha Shakti Peetha stotram, the Mother of learning is named as the goddess of Kashmir, and Sharada Peeth in the Neelum Valley is held to be her seat. The Nilamata Purana is cited as the earliest text to speak of it, and the chronicler Kalhana mentions the shrine in the Rajatarangini. From about the sixth to the twelfth century it is remembered as a celebrated temple and centre of learning, and the Sharada script of Kashmir is bound to it in name and tradition. Some attribute the building to Lalitaditya Muktapida in the eighth century, though no firm evidence settles it. Aurel Stein visited in 1892. Kashmiri Pandits count it among their three holiest sites, with Martand and Amarnath, and today it is a ruin.",
-    "architecture": "What survives is a ruined stone temple on a raised plinth, on the slope above the river. A broad stone stair climbs to it from the west, and the entrance is a gateway with the double porch typical of Kashmiri architecture. Within a surrounding quadrangle stands a square sanctum with a west-facing door and plain stone columns, parts of which still rose to a considerable height when Stein recorded them. The 2005 earthquake and long neglect have since taken their toll. Measurements quoted in different accounts vary, and the original roof and inner details are only partly known.",
-    "legends": "Tradition holds that when the body of Sati was divided, her right hand fell in this valley, and the stotram names the seat as Kashmireshu Saraswati. Another memory is of the sage Shandilya, who is said to have performed penance at Sharada Vana beside the upper Kishenganga and to have been granted a vision of the goddess as Sharada; the shrine is placed where mountain streams meet. Tradition also says that Adi Shankara came here and received the goddess's blessing. Whatever the telling, the place has long stood for the Mother as the giver of knowledge, and for a Kashmir that honoured the learned.",
-    "festivals": "Kashmiri Pandits once made an annual pilgrimage here in the bright fortnight of Bhadrapada, though accounts name different days. Since 1947 pilgrims from India have been unable to reach the site. A Sharada Devi temple was opened at Teetwal in Kupwara district, near the Line of Control, on 22 March 2023, built by the Save Sharda Committee, and devotees now gather there to keep the goddess's memory. Confirm all dates and arrangements locally.",
-    "experience": "Sharada Peeth cannot at present be visited from India. It lies across the Line of Control in Pakistan-administered Kashmir, and Indian pilgrims have had no access since 1947. In 2023 the Indian government spoke of a corridor on the Kartarpur model, but none has opened, and the Teetwal crossing has been closed since 2019. Devotees therefore turn to the Sharada Devi temple at Teetwal, which keeps the goddess's memory for Kashmiri Pandits. For a visitor on the Pakistani side the ruin is a place of memory rather than of daily worship, and it deserves quiet and respect."
+    "history": "अष्टादश शक्तिपीठ स्तोत्रातील \"काश्मीरेषु सरस्वती\" या ओळीत विद्येच्या मातेचे काश्मीरची देवी म्हणून नाव आहे, आणि नीलम खोऱ्यातील शारदा पीठ हे तिचे आसन मानले जाते. नीलमत पुराण हा त्याबद्दल बोलणारा सर्वांत प्राचीन ग्रंथ म्हणून उद्धृत केला जातो, आणि इतिहासकार कल्हण राजतरंगिणीत या मंदिराचा उल्लेख करतो. सुमारे सहाव्या ते बाराव्या शतकापर्यंत ते प्रसिद्ध मंदिर आणि विद्याकेंद्र म्हणून स्मरले जाते, आणि काश्मीरची शारदा लिपी नाव आणि परंपरेने त्याच्याशी बांधलेली आहे. काही जण या वास्तूचे श्रेय आठव्या शतकातील ललितादित्य मुक्तापीडाला देतात, तरी कोणताही निश्चित पुरावा हे सिद्ध करत नाही. ऑरेल स्टाईन यांनी १८९२ मध्ये भेट दिली. काश्मिरी पंडित याला मार्तंड आणि अमरनाथ यांच्यासह आपल्या तीन सर्वांत पवित्र स्थळांमध्ये गणतात, आणि आज ते अवशेष आहे.",
+    "architecture": "जे टिकले आहे ते नदीवरील उतारावर, उंच अधिष्ठानावर उभे असलेले दगडी मंदिराचे अवशेष आहे. पश्चिमेकडून रुंद दगडी जिना त्याकडे चढतो, आणि प्रवेश हा काश्मिरी स्थापत्याचे वैशिष्ट्य असलेल्या दुहेरी ओसरीचे प्रवेशद्वार आहे. भोवतालच्या चौकोनी प्रांगणात पश्चिमाभिमुख दार आणि साधे दगडी स्तंभ असलेले चौरस गर्भगृह उभे आहे; स्टाईन यांनी नोंद केली तेव्हा त्याचे काही भाग अजूनही बऱ्यापैकी उंच होते. २००५ च्या भूकंपाने आणि दीर्घ दुर्लक्षाने त्यानंतर नुकसान केले आहे. वेगवेगळ्या वृत्तान्तांतील मापे भिन्न आहेत, आणि मूळ छप्पर व आतील तपशील केवळ अंशतः ज्ञात आहेत.",
+    "legends": "परंपरा सांगते की सतीच्या देहाचे विभाजन झाले तेव्हा तिचा उजवा हात या खोऱ्यात पडला, आणि स्तोत्र या आसनाला काश्मीरेषु सरस्वती असे नाव देते. आणखी एक स्मृती शांडिल्य ऋषींची आहे, ज्यांनी वरच्या किशनगंगेशेजारी शारदा वनात तपश्चर्या केली आणि त्यांना शारदा रूपात देवीचे दर्शन लाभले असे सांगितले जाते; देवस्थान डोंगरी प्रवाह एकत्र येतात त्या ठिकाणी असल्याचे मानले जाते. परंपरा असेही सांगते की आदि शंकराचार्य येथे आले आणि त्यांना देवीचा आशीर्वाद लाभला. कथन कोणतेही असो, हे स्थान ज्ञानदात्री माता आणि विद्वानांचा सन्मान करणाऱ्या काश्मीरचे प्रतीक म्हणून दीर्घकाळ उभे राहिले आहे.",
+    "festivals": "काश्मिरी पंडित पूर्वी भाद्रपदाच्या शुक्ल पक्षात येथे वार्षिक यात्रा करत, तरी वृत्तान्त वेगवेगळे दिवस सांगतात. १९४७ पासून भारतातील यात्रेकरूंना या स्थळापर्यंत पोहोचता आलेले नाही. नियंत्रण रेषेजवळील कुपवाडा जिल्ह्यातील तीतवाल येथे सेव्ह शारदा समितीने बांधलेले शारदा देवी मंदिर २२ मार्च २०२३ रोजी खुले करण्यात आले, आणि भक्त आता देवीचे स्मरण जपण्यासाठी तेथे एकत्र येतात. सर्व तारखा आणि व्यवस्था स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "शारदा पीठाला सध्या भारतातून भेट देता येत नाही. ते नियंत्रण रेषेपलीकडे पाकिस्तान-प्रशासित काश्मीरमध्ये आहे, आणि भारतीय यात्रेकरूंना १९४७ पासून प्रवेश नाही. २०२३ मध्ये भारत सरकारने करतारपूर पद्धतीच्या मार्गिकेबद्दल बोलले, पण ती खुली झालेली नाही, आणि तीतवाल मार्ग २०१९ पासून बंद आहे. म्हणून भक्त तीतवाल येथील शारदा देवी मंदिराकडे वळतात, जे काश्मिरी पंडितांसाठी देवीची स्मृती जपते. पाकिस्तानी बाजूच्या पर्यटकासाठी हे अवशेष रोजच्या उपासनेचे नव्हे तर स्मृतीचे स्थान आहे, आणि ते शांतता व आदराला पात्र आहे."
   },
   "visit": {
-    "timings": "The ruin keeps no regular temple hours or daily worship, and access varies with the political situation, so check current official advisories. The Sharada Devi temple at Teetwal, on the Indian side, keeps its own hours; confirm locally.",
-    "dressCode": "Modest clothing with shoulders and knees covered is appropriate at this sacred site and at the Teetwal temple. In the Neelum Valley, dress conservatively and follow local custom.",
-    "photography": "No rules are published for the ruin; treat it as a sacred and protected heritage site and photograph respectfully. Near the Line of Control, including at Teetwal, security personnel may restrict photography, so ask before taking pictures.",
-    "gettingThere": "The ruins stand in the village of Sharda on the Neelum River in Pakistan-administered Azad Kashmir, approached by the Neelum Valley road, and entry conditions and permissions for visitors are not verified, so consult official travel advisories. The site cannot be visited from India: pilgrims have had no access since 1947, and the Teetwal crossing in Kupwara district has been closed since 2019. The Teetwal temple can be reached by road from Srinagar via Kupwara, subject to local permissions."
+    "timings": "अवशेषांना नियमित मंदिराच्या वेळा किंवा दैनंदिन पूजा नाही, आणि प्रवेश राजकीय परिस्थितीनुसार बदलतो, म्हणून सध्याचे अधिकृत सूचना-पत्र तपासावे. भारतीय बाजूचे तीतवाल येथील शारदा देवी मंदिर आपल्या स्वतःच्या वेळा पाळते; स्थानिक पातळीवर खात्री करावी.",
+    "dressCode": "या पवित्र स्थळी आणि तीतवाल मंदिरात खांदे आणि गुडघे झाकलेले साधे कपडे योग्य आहेत. नीलम खोऱ्यात पारंपरिक पद्धतीचे कपडे घालावेत आणि स्थानिक रीतिरिवाज पाळावेत.",
+    "photography": "अवशेषांसाठी कोणतेही नियम प्रकाशित केलेले नाहीत; त्याला पवित्र आणि संरक्षित वारसा स्थळ मानून आदराने छायाचित्रण करावे. नियंत्रण रेषेजवळ, तीतवालसह, सुरक्षा कर्मचारी छायाचित्रणावर निर्बंध घालू शकतात, म्हणून चित्रे काढण्यापूर्वी विचारावे.",
+    "gettingThere": "अवशेष पाकिस्तान-प्रशासित आझाद काश्मीरमधील नीलम नदीकाठच्या शारदा गावात आहेत, नीलम खोऱ्यातील रस्त्याने पोहोचता येते; पर्यटकांसाठी प्रवेशाच्या अटी आणि परवानग्या पडताळलेल्या नाहीत, म्हणून अधिकृत प्रवास सूचना-पत्रांचा सल्ला घ्यावा. हे स्थळ भारतातून पाहता येत नाही: यात्रेकरूंना १९४७ पासून प्रवेश नाही, आणि कुपवाडा जिल्ह्यातील तीतवाल मार्ग २०१९ पासून बंद आहे. तीतवाल मंदिरापर्यंत श्रीनगरहून कुपवाडामार्गे रस्त्याने पोहोचता येते, स्थानिक परवानग्यांच्या अधीन."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sharada-peeth-kashmir.jpg",
