@@ -1,29 +1,36 @@
 {
   "id": "satchinathar-avalivanallur",
   "locale": "mr",
+  "name": "साच्चिनाथर मंदिर, अवळिवणल्लूर",
   "nativeName": "அவளிவணல்லூர் சாட்சிநாதர் கோயில்",
+  "deity": "साच्चिनाथर (साक्षी प्रभू) रूपातील शिव, देवी सौंदरनायकी यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम आणि पंच आरण्य स्थलम",
   "location": {
-    "city": "Avalivanallur, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "अवळिवणल्लूर, कुंभकोणमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9289,
     "lng": 79.4511
   },
+  "period": "तेवारम काळ, चोळकालीन रचनेसह",
   "century": 9,
+  "dynasty": "चोळ (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमजवळील अवळिवणल्लूर येथे शिव साच्चिनाथर — स्वतः साक्षीला उभे राहिलेले प्रभू — म्हणून पूजले जातात. परंपरेनुसार, काशीहून परतणारा एक निष्ठावान पुजारी आजाराने क्षीण झालेल्या आपल्या पत्नीला तिच्या निरोगी बहिणीच्या शेजारी ओळखू शकला नाही, आणि सत्याची साक्ष देण्यासाठी प्रभू प्रकट झाले, म्हणून त्यांना साच्चिनाथर हे नाव मिळाले — 'साच्ची' म्हणजे साक्षी. संबंदर आणि सुंदरर यांनी गायिलेले हे पाडल पेट्र स्थलम कुंभकोणमजवळील पाच अरण्य मंदिरांपैकी, म्हणजे पंच आरण्य स्थलमांपैकी, एक आहे, जे एकेकाळी पाडल वृक्षांच्या वनराईत वसले होते.",
   "sections": {
-    "history": "Avalivanallur is an ancient Shaiva village near Kumbakonam, hymned in the seventh-century Tevaram by Sambandar and Sundarar and counted among the Paadal Petra Sthalams. It belongs also to the Pancha Aranya Sthalams — the five 'forest' temples near Kumbakonam, this one once set in the Pathiri Vanam, a forest of trumpet-flower trees. The stone temple is of the Chola period with later additions; its enduring renown is for the tender legend that gives the lord his name.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Satchinathar, with the goddess Soundaranayaki in her own shrine. As one of the Pancha Aranya temples, it shares in a circuit of five forest shrines that pilgrims visit together. The trumpet-flower tree of its old forest setting is remembered as the sthala vriksham, linking the quiet village temple to its wooded past.",
-    "legends": "The defining legend explains the name Satchinathar, the witness lord. A devout priest married and then set out on pilgrimage to Kashi. In his absence his wife fell ill, and her sister came to nurse her; when the priest returned he found two women — one wasted by sickness, the other healthy and resembling his wife — and could not tell which was his own. The lord himself then appeared as witness to affirm the wife's word, and from this act of divine testimony takes the name Satchinathar. The story has made the temple a place associated with truth, trust and the vindication of the faithful.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. Pilgrims undertaking the Pancha Aranya circuit of the five forest temples include Avalivanallur among their stops, so the temple shares in that group pilgrimage as well as its own local observances.",
-    "experience": "Avalivanallur offers the pilgrim a tender, human story at the heart of its worship — a god who stood as witness for a wronged and unrecognised wife. The darshan of Satchinathar carries this sense of a lord who vindicates the truthful, and completing the Pancha Aranya circuit gives the visit the added depth of a wider forest pilgrimage."
+    "history": "अवळिवणल्लूर हे कुंभकोणमजवळील प्राचीन शैव गाव आहे; सातव्या शतकातील तेवारममध्ये संबंदर आणि सुंदरर यांनी त्याची स्तुती केली असून ते पाडल पेट्र स्थलमांत गणले जाते. ते पंच आरण्य स्थलमांतही मोडते — कुंभकोणमजवळील पाच 'वन' मंदिरे — आणि हे मंदिर एकेकाळी पाडल वृक्षांच्या वनात, म्हणजे पाथिरी वनात, वसले होते. दगडी मंदिर चोळकाळातील असून नंतरच्या भरांसह आहे; त्याची चिरस्थायी कीर्ती प्रभूला नाव देणाऱ्या हळुवार आख्यायिकेमुळे आहे.",
+    "architecture": "मंदिर द्रविड आराखड्याचे अनुसरण करते — गोपुर, प्राकार आणि साच्चिनाथराचे गर्भगृह, आणि देवी सौंदरनायकी स्वतःच्या मंदिरात आहे. पंच आरण्य मंदिरांपैकी एक असल्याने ते पाच वन-मंदिरांच्या त्या मालिकेत सामील आहे जिला यात्रेकरू एकत्र भेट देतात. त्याच्या जुन्या वनपरिसरातील पाडल वृक्ष स्थळ-वृक्ष म्हणून स्मरला जातो, आणि शांत ग्रामीण मंदिराला त्याच्या वनमय भूतकाळाशी जोडतो.",
+    "legends": "निर्णायक आख्यायिका साच्चिनाथर, म्हणजे साक्षी प्रभू, या नावाचे स्पष्टीकरण देते. एका निष्ठावान पुजाऱ्याने विवाह केला आणि मग काशीच्या यात्रेला निघाला. त्याच्या अनुपस्थितीत त्याची पत्नी आजारी पडली, आणि तिची बहीण तिची शुश्रूषा करण्यास आली; पुजारी परतला तेव्हा त्याला दोन स्त्रिया दिसल्या — एक आजाराने क्षीण झालेली, दुसरी निरोगी आणि त्याच्या पत्नीसारखी दिसणारी — आणि त्याला आपली स्वतःची पत्नी कोणती हे ओळखता आले नाही. तेव्हा प्रभू स्वतः साक्षी म्हणून प्रकट झाले आणि त्यांनी पत्नीच्या शब्दाला पुष्टी दिली, आणि दैवी साक्षीच्या या कृतीमुळे त्यांना साच्चिनाथर हे नाव मिळाले. या कथेमुळे मंदिर सत्य, विश्वास आणि निष्ठावंतांच्या निर्दोषत्वाच्या सिद्धतेशी निगडित ठिकाण झाले आहे.",
+    "festivals": "मंदिरात शैव उत्सव-पंचांग — महाशिवरात्री, प्रदोषम, मार्गळी हंगाम आणि वार्षिक ब्रह्मोत्सवम — पाळले जाते. पाच वन-मंदिरांच्या पंच आरण्य मार्गाची यात्रा करणारे यात्रेकरू अवळिवणल्लूरचा आपल्या थांब्यांत समावेश करतात, त्यामुळे मंदिर त्या सामूहिक यात्रेतही आणि स्वतःच्या स्थानिक व्रतांतही सहभागी होते.",
+    "experience": "अवळिवणल्लूर यात्रेकरूला आपल्या पूजेच्या केंद्रस्थानी एक हळुवार, मानवी कथा देते — अन्याय झालेल्या आणि न ओळखल्या गेलेल्या पत्नीसाठी साक्षी म्हणून उभा राहिलेला देव. साच्चिनाथराच्या दर्शनात सत्यवादींना न्याय देणाऱ्या प्रभूची जाणीव असते, आणि पंच आरण्य मार्ग पूर्ण केल्याने भेटीला व्यापक वन-यात्रेची अधिक खोली लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Avalivanallur is in Tiruvarur district near Kumbakonam, roughly 15 km away; Kumbakonam is the nearest rail head and town, with local buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा-मार्गांत छायाचित्रण साधारणतः परवानगीयोग्य आहे, परंतु गर्भगृहाच्या आत नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "अवळिवणल्लूर कुंभकोणमजवळ, सुमारे १५ किमी अंतरावर, तिरुवारूर जिल्ह्यात आहे; कुंभकोणम हे सर्वांत जवळचे रेल्वे स्थानक व शहर असून गावाकडे स्थानिक बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

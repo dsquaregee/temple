@@ -1,29 +1,36 @@
 {
   "id": "sarpapureeswarar-mannargudi",
   "locale": "mr",
+  "name": "सर्पपुरीश्वर मंदिर, पामणी (मन्नारगुडी)",
   "nativeName": "பாமணி சர்ப்பபுரீஸ்வரர் (நாகநாதர்) கோயில்",
+  "deity": "सर्पपुरीश्वर (नागनाथर) रूपातील शिव, देवी अमृत नायकी यांच्यासह",
+  "tradition": "शैव — तेवारममध्ये गायिलेले एक पाडल पेट्र स्थलम",
   "location": {
-    "city": "Paamani, near Mannargudi",
-    "state": "Tamil Nadu",
+    "city": "पामणी, मन्नारगुडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.6889,
     "lng": 79.4542
   },
+  "period": "तेवारम काळ, चोळकालीन रचनेसह",
   "century": 9,
+  "dynasty": "चोळ (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मन्नारगुडीच्या थोडे उत्तरेस, आता पामणी म्हटल्या जाणाऱ्या गावात, एक पाडल पेट्र स्थलम उभे आहे, जेथे शिव सर्पपुरीश्वर, म्हणजेच नागनाथर — सर्पनगरीचे स्वामी — म्हणून, देवी अमृत नायकी यांच्यासह पूजले जातात. याचे ऐतिहासिक नाव तिरुप्पाधालीश्वरम असून बालसंत तिरुज्ञान संबंदर यांच्या एका स्तोत्रात त्याची स्तुती केली गेली आहे. प्राचीन नाव असलेले हे साधे त्रिभुज-प्रदेशातील मंदिर महान तेवारम भूमीचे एक शांत सदस्य आहे.",
   "sections": {
-    "history": "The temple at Paamani, about three and a half kilometres north of Mannargudi, is an ancient Shaiva site whose historical name is Tiruppaadhaleeswaram. It is counted among the Paadal Petra Sthalams, the shrines praised in the Tevaram, with a hymn attributed to Tirugnana Sambandar. The present stone fabric belongs broadly to the Chola period and later renovation; like many smaller delta temples, its documented history is slight, and its standing rests chiefly on its place in the Tevaram canon.",
-    "architecture": "The temple follows the Dravidian plan, with a gopuram, a modest prakara and the sanctum of Sarpapureeswarar, the lingam worshipped as Naganathar. The goddess Amirtha Nayaki has her own shrine. As a village temple it keeps the quiet, intimate scale typical of the lesser-known Paadal Petra shrines, without the towering gateways of the great delta centres.",
-    "legends": "The names Sarpapureeswarar and Naganathar connect the lord to the serpents, nagas, who in the Shaiva tradition are devotees of Shiva and whose worship is associated with relief from the afflictions ascribed to the naga-dosha. Devotees accordingly come here with prayers concerning serpent-related doshas and for general well-being. The detailed sthala-purana of this small shrine is less widely recorded than those of the larger temples nearby.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham and the Margazhi observances — at the quieter scale of a village shrine. Pradosham, especially, draws devotees given the temple's serpent associations, and local observances mark the Tamil months.",
-    "experience": "Paamani offers the pilgrim the unhurried devotion of a small delta temple with a venerable name. Away from the crowds of the famous centres, the darshan of Sarpapureeswarar is a quiet one, and the temple rewards those who seek out the lesser-known shrines of the Tevaram with the sense of an old sanctity carefully kept."
+    "history": "पामणी येथील मंदिर, मन्नारगुडीच्या सुमारे साडेतीन किलोमीटर उत्तरेस, एक प्राचीन शैव स्थळ आहे, ज्याचे ऐतिहासिक नाव तिरुप्पाधालीश्वरम आहे. तिरुज्ञान संबंदर यांच्या नावे असलेल्या स्तोत्रासह ते पाडल पेट्र स्थलमांत गणले जाते — तेवारममध्ये स्तुती केलेली मंदिरे. सध्याची दगडी रचना साधारणतः चोळकाळातील आणि नंतरच्या जीर्णोद्धाराची आहे; अनेक लहान त्रिभुज-प्रदेशातील मंदिरांप्रमाणे त्याचा नोंदलेला इतिहास अल्प आहे, आणि त्याची प्रतिष्ठा प्रामुख्याने तेवारम संग्रहातील त्याच्या स्थानावर आधारलेली आहे.",
+    "architecture": "मंदिर द्रविड आराखड्याचे अनुसरण करते — गोपुर, साधा प्राकार आणि सर्पपुरीश्वराचे गर्भगृह, ज्यातील लिंगाची नागनाथर म्हणून पूजा होते. देवी अमृत नायकीचे स्वतःचे मंदिर आहे. ग्रामीण मंदिर असल्याने ते कमी प्रसिद्ध पाडल पेट्र मंदिरांचे शांत, जिव्हाळ्याचे प्रमाण राखते, त्रिभुज-प्रदेशातील मोठ्या केंद्रांच्या उत्तुंग प्रवेशद्वारांविना.",
+    "legends": "सर्पपुरीश्वर आणि नागनाथर ही नावे प्रभूला सर्पांशी, म्हणजे नागांशी, जोडतात, जे शैव परंपरेत शिवाचे भक्त आहेत आणि ज्यांची पूजा नाग-दोषाला कारणीभूत मानल्या जाणाऱ्या पीडांपासून सुटकेशी निगडित आहे. त्यामुळे भक्त सर्प-संबंधित दोषांविषयीच्या प्रार्थनांसह आणि सर्वसाधारण कल्याणासाठी येथे येतात. या लहान मंदिराचे सविस्तर स्थळ-पुराण जवळच्या मोठ्या मंदिरांच्या तुलनेत कमी व्यापकपणे नोंदलेले आहे.",
+    "festivals": "मंदिरात शैव उत्सव-पंचांग — महाशिवरात्री, प्रदोषम आणि मार्गळी महिन्यातील व्रते — ग्रामीण मंदिराच्या अधिक शांत प्रमाणात पाळले जाते. मंदिराच्या सर्प-संबंधांमुळे विशेषतः प्रदोषम भक्तांना आकर्षित करतो, आणि स्थानिक व्रते तमिळ महिन्यांना चिन्हांकित करतात.",
+    "experience": "पामणी यात्रेकरूला प्राचीन नाव असलेल्या लहान त्रिभुज-प्रदेशातील मंदिराची निवांत भक्ती देते. प्रसिद्ध केंद्रांच्या गर्दीपासून दूर, सर्पपुरीश्वराचे दर्शन शांत असते, आणि तेवारममधील कमी ज्ञात मंदिरे शोधणाऱ्यांना हे मंदिर काळजीपूर्वक जपलेल्या प्राचीन पावित्र्याच्या अनुभूतीने समाधान देते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Paamani is about 3.5 km north of Mannargudi in Tiruvarur district; Mannargudi is the nearest rail head and town, with local buses and autos to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा-मार्गांत छायाचित्रण साधारणतः परवानगीयोग्य आहे, परंतु गर्भगृहाच्या आत नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "पामणी तिरुवारूर जिल्ह्यात मन्नारगुडीच्या सुमारे ३.५ किमी उत्तरेस आहे; मन्नारगुडी हे सर्वांत जवळचे रेल्वे स्थानक व शहर असून गावाकडे स्थानिक बस आणि रिक्षा उपलब्ध आहेत."
   }
 }

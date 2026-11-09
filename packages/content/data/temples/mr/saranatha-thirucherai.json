@@ -1,30 +1,37 @@
 {
   "id": "saranatha-thirucherai",
   "locale": "mr",
+  "name": "सारनाथ पेरुमाळ मंदिर, तिरुचेरै",
   "nativeName": "சாரநாதப் பெருமாள் கோயில், திருச்சேறை",
+  "deity": "सारनाथ पेरुमाळ रूपातील विष्णू, देवी सारनायकी ठायार यांच्यासह — परंपरेनुसार पाच सहचारिणींसह पूजिले जाणारे",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Thirucherai",
-    "state": "Tamil Nadu",
+    "city": "तिरुचेरै",
+    "state": "तमिळनाडू",
     "lat": 10.8786,
     "lng": 79.4542
   },
+  "period": "चोळ प्रदेशातील एक दिव्य देश, तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधात गायिलेले",
   "century": 8,
+  "dynasty": "चोळ (विजयनगर व नायक काळातील भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "कुंभकोणमजवळील तिरुचेरै येथे सार पुष्करिणीच्या काठी विष्णू सारनाथ पेरुमाळ रूपात पूजिले जातात, जेथे परंपरेनुसार स्वतः कावेरीने तपश्चर्या केली — चोळ नाडूमधील, तिरुमंगै आळवारांनी गायिलेला एक दिव्य देश.",
   "sections": {
-    "history": "Thirucherai lies in the Kaveri delta near Kumbakonam, between the Kudamurutti and Mudikondan rivers. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Chola Nadu; Thirumangai Alvar praised the Lord here in thirteen hymns, by one reckoning. A Chola-period inscription of the tenth century is among the early records of the shrine, and the Medieval Cholas, the Vijayanagara rulers and the Madurai Nayaks are each remembered as contributors to the temple. Today it is visited as part of the Kumbakonam round of Divya Desams.",
-    "architecture": "A five-tiered rajagopuram, said to rise about 120 feet, marks the entrance, and a second, three-tiered gopuram stands at the first precinct. The sanctum is crowned by the Sara Vimanam, and the sacred tank is the Sara Pushkarini. Together with the Lord Saranatha, the Goddess Saranayaki and the place itself, these make up the five Saras that give the shrine its title of Pancha Sara Kshetram.",
-    "legends": "Tradition tells that Kaveri, grieved that Ganga was held greater because Vishnu's foot touched her in the Vamana avatar, performed penance on the bank of the Sara Pushkarini. The Lord is said to have appeared before her as a child on her lap, and the temple keeps a shrine of Kaveri with the child, a rare sight in a Vishnu temple. Another tradition holds that Brahma shaped a pot from the earth of Thirucherai to keep the Vedas safe before the deluge, linking this shrine to the origin story of Kumbakonam.",
-    "festivals": "Thai Poosam is the great day, when the Lord with his consorts gives darshan as a child in Kaveri's arms, borne on a decorated chariot. Devotees hold that a bath in the Sara Pushkarini on Thai Poosam, in the year of Jupiter's conjunction, equals the Mahamaham bath at Kumbakonam. Other Vaishnava days follow the usual temple calendar.",
-    "experience": "A quiet village shrine in the Kaveri delta, rewarding for pilgrims on the Kumbakonam Divya Desam circuit. Look for the five-tiered gateway, the Sara Pushkarini and the shrine of Kaveri with the child. Thai Poosam is the most devout and busiest time; on other days the temple is calm and unhurried."
+    "history": "तिरुचेरै हे कुंभकोणमजवळ कावेरीच्या त्रिभुज-प्रदेशात, कुडमुरुट्टी आणि मुडिकोंडान नद्यांच्या दरम्यान वसले आहे. हे १०८ दिव्य देशांपैकी एक आहे — नालायिर दिव्य प्रबंधात आळवारांनी गायिलेली विष्णूची निवासस्थाने — आणि ते चोळ नाडूमध्ये मोडते; एका गणनेनुसार तिरुमंगै आळवारांनी येथील प्रभूची तेरा स्तोत्रांत स्तुती केली. दहाव्या शतकातील चोळकालीन शिलालेख हा या मंदिराच्या सुरुवातीच्या नोंदींपैकी एक आहे, आणि मध्ययुगीन चोळ, विजयनगरचे राज्यकर्ते व मदुराईचे नायक यांपैकी प्रत्येकाचे मंदिरासाठी योगदान स्मरले जाते. आज कुंभकोणमच्या दिव्य देश-फेरीचा भाग म्हणून येथे भेट दिली जाते.",
+    "architecture": "पाच मजली राजगोपुर, जे सुमारे १२० फूट उंच असल्याचे सांगितले जाते, प्रवेशद्वार दर्शवते, आणि पहिल्या प्रांगणावर तीन मजली दुसरे गोपुर उभे आहे. गर्भगृहावर सार विमान शोभते, आणि पवित्र तीर्थ म्हणजे सार पुष्करिणी. प्रभू सारनाथ, देवी सारनायकी आणि हे स्थळ — या सर्वांच्या मिळून होणाऱ्या पाच सारांमुळे या क्षेत्राला पंच सार क्षेत्र ही उपाधी लाभली आहे.",
+    "legends": "परंपरा सांगते की वामन अवतारात विष्णूच्या चरणाचा स्पर्श गंगेला झाला म्हणून गंगा श्रेष्ठ मानली गेली, याचे दुःख झालेल्या कावेरीने सार पुष्करिणीच्या काठी तपश्चर्या केली. प्रभू तिच्या मांडीवर बालरूपात प्रकट झाले असे म्हटले जाते, आणि मंदिरात बालकासह कावेरीचे मंदिर आहे — विष्णू मंदिरात दुर्मिळ असलेले दृश्य. आणखी एका परंपरेनुसार, प्रलयापूर्वी वेदांचे रक्षण करण्यासाठी ब्रह्मदेवांनी तिरुचेरैच्या मातीपासून एक घट घडवला, आणि अशा प्रकारे हे क्षेत्र कुंभकोणमच्या उगमकथेशी जोडले जाते.",
+    "festivals": "थाई पूसम हा मोठा दिवस, जेव्हा प्रभू आपल्या सहचारिणींसह कावेरीच्या कुशीतील बालरूपात, सजवलेल्या रथातून भक्तांना दर्शन देतात. गुरूच्या संयोगाच्या वर्षी थाई पूसमच्या दिवशी सार पुष्करिणीत केलेले स्नान कुंभकोणमच्या महामहम स्नानाच्या बरोबरीचे मानले जाते, असा भक्तांचा विश्वास आहे. इतर वैष्णव दिवस नेहमीच्या मंदिर-पंचांगानुसार येतात.",
+    "experience": "कावेरीच्या त्रिभुज-प्रदेशातील एक शांत ग्रामीण मंदिर, कुंभकोणमच्या दिव्य देश-फेरीवरील यात्रेकरूंसाठी समाधान देणारे. पाच मजली प्रवेशद्वार, सार पुष्करिणी आणि बालकासह कावेरीचे मंदिर अवश्य पाहावे. थाई पूसम हा सर्वांत भक्तिमय आणि सर्वाधिक गर्दीचा काळ; इतर दिवशी मंदिर शांत आणि निवांत असते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirucherai is a village a short drive from Kumbakonam in the Kaveri delta of Tamil Nadu; Kumbakonam is the nearest large town and railhead, and Tiruchirappalli is the nearest major airport. Reach it by road from Kumbakonam, and confirm local directions on the way."
+    "timings": "दररोज सकाळ-संध्याकाळच्या दर्शन-सत्रांसह उघडे असते आणि मध्यान्हीला बंद राहते; उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळांची खात्री करून घ्यावी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेल्या नियमांचे आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करावे.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेल्या नियमांचे आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करावे.",
+    "gettingThere": "तिरुचेरै हे तमिळनाडूतील कावेरी त्रिभुज-प्रदेशात कुंभकोणमपासून थोड्या अंतरावरील गाव आहे; कुंभकोणम हे सर्वांत जवळचे मोठे शहर व रेल्वे स्थानक आहे, आणि तिरुचिरापल्ली हे सर्वांत जवळचे प्रमुख विमानतळ आहे. कुंभकोणमहून रस्त्याने तेथे पोहोचता येते, आणि वाटेत स्थानिक दिशा-निर्देशांची खात्री करून घ्यावी."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/saranatha-thirucherai.jpg",

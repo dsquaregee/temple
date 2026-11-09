@@ -1,31 +1,38 @@
 {
   "id": "sarangapani-kumbakonam",
   "locale": "mr",
+  "name": "सारंगपाणी मंदिर, कुंभकोणम",
   "nativeName": "சாரங்கபாணி கோயில், கும்பகோணம்",
+  "deity": "सारंगपाणी रूपातील विष्णू — सारंग धनुष्य धारण करणारे, अरवमुदन रूपात शयन केलेले",
+  "tradition": "वैष्णव संप्रदाय (श्रीवैष्णव)",
   "location": {
-    "city": "Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "कुंभकोणम",
+    "state": "तमिळनाडू",
     "lat": 10.9616,
     "lng": 79.3775
   },
+  "period": "चोळकालीन मूळ; उत्तरकालीन नायक राजवटीत उभारलेले उत्तुंग प्रवेशद्वार",
   "century": 13,
+  "dynasty": "चोळ मूळ, नायकांची भर",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "kaveri-delta-temple-towns"
   ],
+  "summary": "कुंभकोणम या मंदिर-नगरीत विष्णू वैकुंठातून एका शिलामय रथातून उतरतात: सारंगपाणींचे गर्भगृह घोडे व हत्ती ओढत असलेल्या भव्य रथाच्या रूपात कोरलेले आहे, आणि दक्षिणेतील सर्वांत उंच मंदिर-प्रवेशद्वारांपैकी एकाच्या खालून त्यात प्रवेश होतो — विष्णूच्या अग्रगण्य निवासस्थानांत गणला जाणारा एक दिव्य देश.",
   "sections": {
-    "history": "The Sarangapani temple is the greatest Vishnu shrine of Kumbakonam, the ancient Chola temple-town on the Kaveri once called Kudanthai. It is a Divya Desam sung by the Alvars as Thirukudanthai, and tradition sets it among the highest Vaishnava temples of the south, in the company of Srirangam and Tirumala. The temple grew from Chola foundations, and its soaring main gateway was raised in the later centuries under Nayaka patronage. Kumbakonam itself is a dense knot of temples on the river, and Sarangapani stands at its Vaishnava heart, its worship carried by an unbroken Sri Vaishnava tradition and the hymns of the Alvar poet-saints.",
-    "architecture": "The sanctum is the temple's marvel: it is shaped as a vast chariot, a ratha, complete with great stone wheels and drawn by carved horses and elephants, so that the shrine itself becomes the celestial vehicle in which Vishnu is said to have descended to earth. Within it the lord reclines as Aravamudan, 'the insatiable nectar'. The complex is entered from the south beneath an immense eleven-tiered rajagopuram, among the tallest in the Tamil country, and it has two ceremonial gateways — a northern and a southern — used in the two halves of the solar year, marking the sun's northward and southward courses. The golden-lotus tank, the Potramarai, lies within, and pillared halls and sculptured mandapas fill the enclosures in the mature Dravidian manner.",
-    "legends": "The temple's legend tells of the sage Hema Rishi, who did penance on the bank of the golden-lotus tank longing for the Goddess as his daughter. Lakshmi rose from the tank as Komalavalli, and Vishnu came down from Vaikuntha in his chariot to Kumbakonam to wed her — the very descent that the chariot-shaped sanctum commemorates. As Sarangapani he bears the Sarnga, the divine bow, and as Aravamudan he is the nectar of which the devotee can never have enough, a name given by the Alvar Nammalvar in his rapture before the reclining lord. The two gateways and the sun's turning are woven into the same story of the god who comes to earth to answer love.",
-    "festivals": "The great festival is the Brahmotsavam in the Tamil spring, when Sarangapani is drawn through Kumbakonam on towering temple cars; the chariot festival is among the most spectacular of the delta. Vaikunta Ekadasi, the float festival on the Potramarai tank, and the observances of the Sri Vaishnava calendar mark the year. Kumbakonam's town-wide Mahamaham, held once in twelve years when many rivers are believed to meet in its great tank, fills every shrine of the town, Sarangapani among them, with vast crowds of pilgrims.",
-    "experience": "Sarangapani is the heart of a temple-town made for unhurried pilgrimage: Kumbakonam packs many great shrines within a short walk, and the delta around it holds the Chola masterpieces of Darasuram and Gangaikonda Cholapuram and, a little further, island Srirangam. Standing before the chariot-sanctum, with its stone wheels and straining horses, one feels the temple as a vehicle in motion rather than a building at rest. The town is reached easily by road and rail from Thanjavur and Tiruchirapalli, at the green centre of the Kaveri country."
+    "history": "सारंगपाणी मंदिर हे कुंभकोणमचे सर्वांत मोठे विष्णू मंदिर आहे; कुंभकोणम हे कावेरीकाठचे प्राचीन चोळकालीन मंदिर-नगर, जे पूर्वी कुडंदै म्हणून ओळखले जाई. आळवारांनी तिरुकुडंदै नावाने गायिलेला हा दिव्य देश आहे, आणि परंपरा त्याला श्रीरंगम व तिरुमला यांच्या बरोबरीने दक्षिणेतील सर्वोच्च वैष्णव मंदिरांत गणते. मंदिर चोळकालीन पायावर विकसित झाले, आणि त्याचे उत्तुंग मुख्य प्रवेशद्वार नंतरच्या शतकांत नायकांच्या आश्रयाखाली उभारले गेले. कुंभकोणम हे स्वतः नदीकाठी मंदिरांचे दाट जाळे आहे, आणि सारंगपाणी त्याच्या वैष्णव हृदयस्थानी उभे आहे; अखंड श्रीवैष्णव परंपरा आणि आळवार संत-कवींची स्तोत्रे यांनी येथील पूजा पुढे चालवली आहे.",
+    "architecture": "गर्भगृह हे मंदिराचे आश्चर्य आहे: ते एखाद्या विशाल रथाच्या, म्हणजे रथाच्या आकारात घडवलेले आहे — भव्य शिलाचक्रांसह, आणि कोरलेले घोडे व हत्ती ते ओढत आहेत — त्यामुळे विष्णू ज्या दिव्य वाहनातून पृथ्वीवर उतरले असे म्हटले जाते, तेच वाहन हे मंदिर बनते. त्याच्या आत प्रभू अरवमुदन, 'अतृप्त अमृत', या रूपात शयन करतात. संकुलात दक्षिणेकडून एका प्रचंड अकरा मजली राजगोपुराखालून प्रवेश होतो, जे तमिळ प्रदेशातील सर्वांत उंच गोपुरांपैकी एक आहे, आणि त्याला दोन औपचारिक प्रवेशद्वारे आहेत — एक उत्तरेकडील आणि एक दक्षिणेकडील — जी सौर वर्षाच्या दोन अर्ध्या भागांत वापरली जातात आणि सूर्याच्या उत्तरायण व दक्षिणायन गतीचे द्योतक आहेत. सुवर्णकमल तीर्थ, पोट्रामरै, आतच आहे, आणि स्तंभयुक्त सभागृहे व शिल्पांकित मंडप परिपक्व द्रविड शैलीत प्रांगणे व्यापतात.",
+    "legends": "मंदिराची आख्यायिका हेम ऋषींची सांगते, ज्यांनी सुवर्णकमल तीर्थाच्या काठी देवीला आपली कन्या म्हणून मिळावे या ओढीने तपश्चर्या केली. लक्ष्मी त्या तीर्थातून कोमलवल्ली रूपात प्रकट झाली, आणि विष्णू तिच्याशी विवाह करण्यासाठी आपल्या रथातून वैकुंठातून कुंभकोणमला उतरले — रथाकृती गर्भगृह नेमक्या याच अवतरणाचे स्मरण करते. सारंगपाणी म्हणून ते दिव्य धनुष्य सारंग धारण करतात, आणि अरवमुदन म्हणून ते असे अमृत आहेत ज्याने भक्ताचे कधीही समाधान होत नाही; शयन केलेल्या प्रभूसमोर नम्मळवार आळवारांना झालेल्या परमानंदातून हे नाव मिळाले. दोन प्रवेशद्वारे आणि सूर्याचे वळणे हीच कथा विणतात — प्रेमाला प्रतिसाद देण्यासाठी पृथ्वीवर येणाऱ्या देवाची कथा.",
+    "festivals": "मुख्य उत्सव तमिळ वसंत ऋतूतील ब्रह्मोत्सवम होय, जेव्हा सारंगपाणींना उत्तुंग मंदिर-रथांवरून कुंभकोणमभर ओढले जाते; हा रथोत्सव त्रिभुज-प्रदेशातील सर्वांत नेत्रदीपक उत्सवांपैकी एक आहे. वैकुंठ एकादशी, पोट्रामरै तीर्थावरील तराफा-उत्सव आणि श्रीवैष्णव पंचांगातील व्रते वर्षभर चालतात. कुंभकोणमचा सर्व नगरभर साजरा होणारा महामहम, जो बारा वर्षांतून एकदा येतो आणि तेव्हा अनेक नद्या त्याच्या महान तीर्थात एकत्र येतात असे मानले जाते, नगरातील प्रत्येक मंदिर — सारंगपाणीसह — यात्रेकरूंच्या अफाट गर्दीने भरून टाकतो.",
+    "experience": "सारंगपाणी हे निवांत यात्रेसाठी बनलेल्या मंदिर-नगरीचे हृदय आहे: कुंभकोणममध्ये अनेक महान मंदिरे थोड्याच चालण्याच्या अंतरावर एकवटली आहेत, आणि भोवतालच्या त्रिभुज-प्रदेशात दारासुरम व गंगैकोंडचोलपुरम येथील चोळ कलाकृती आणि थोडे पुढे बेटावरील श्रीरंगम आहे. शिलाचक्रे आणि ताणलेले घोडे असलेल्या रथ-गर्भगृहासमोर उभे राहिले की मंदिर एखाद्या स्थिर इमारतीसारखे नव्हे, तर गतिमान वाहनासारखे जाणवते. कावेरी प्रदेशाच्या हिरव्यागार केंद्रस्थानी असलेल्या या नगरीला तंजावूर व तिरुचिरापल्लीहून रस्त्याने आणि रेल्वेने सहज पोहोचता येते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. As a living temple, respectful conduct is asked of all visitors.",
-    "photography": "Photography is restricted, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kumbakonam is in Tamil Nadu's Thanjavur district, well connected by road and rail; it lies about 40 km from Thanjavur and Tiruchirapalli, at the centre of the Kaveri delta's temple country."
+    "timings": "दररोज सकाळ-संध्याकाळच्या दर्शन-सत्रांसह उघडे असते आणि मध्यान्हीला दीर्घ काळ बंद राहते; उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळांची खात्री करून घ्यावी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. जिवंत मंदिर असल्याने सर्व अभ्यागतांकडून आदरयुक्त वर्तनाची अपेक्षा आहे.",
+    "photography": "छायाचित्रणावर निर्बंध आहेत, विशेषतः गर्भगृहात आणि त्याच्या परिसरात; लावलेल्या नियमांचे आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करावे.",
+    "gettingThere": "कुंभकोणम तमिळनाडूच्या तंजावूर जिल्ह्यात असून रस्ते व रेल्वेने चांगले जोडलेले आहे; ते तंजावूर आणि तिरुचिरापल्लीपासून सुमारे ४० किमी अंतरावर, कावेरी त्रिभुज-प्रदेशाच्या मंदिर-प्रदेशाच्या केंद्रस्थानी आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sarangapani-kumbakonam.jpg",
