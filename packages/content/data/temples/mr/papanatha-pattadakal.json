@@ -1,30 +1,37 @@
 {
   "id": "papanatha-pattadakal",
   "locale": "mr",
+  "name": "पापनाथ मंदिर, पट्टदकल",
   "nativeName": "ಪಾಪನಾಥ ದೇವಾಲಯ, ಪಟ್ಟದಕಲ್ಲು",
+  "deity": "शिव, प्राचीन काळी मूलस्थान महादेव म्हणून ओळखले जाणारे",
+  "tradition": "शैव धर्म",
   "location": {
-    "city": "Pattadakal",
-    "state": "Karnataka",
+    "city": "पट्टदकल",
+    "state": "कर्नाटक",
     "lat": 15.9479,
     "lng": 75.8172
   },
+  "period": "चालुक्य, सुमारे इसवी सन ६८० पासून आठव्या शतकापर्यंत कालनिर्णय",
   "century": 8,
+  "dynasty": "बदामीचे चालुक्य",
+  "style": "नागर आणि द्रविड यांचा संगम, आरंभीची चालुक्य शैली",
   "unesco": true,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "पट्टदकलच्या मुख्य समूहापासून वेगळे उभे असलेले पापनाथ हे आरंभीच्या चालुक्य काळातील शिवमंदिर आहे; त्यात उत्तरेकडील वक्र शिखर दक्षिणेकडील रूपांशी जोडलेले आहे, आणि त्याच्या भिंतींवर रामायण आणि महाभारतातील प्रसंग कोरलेले आहेत.",
   "sections": {
-    "history": "Papanatha is one of the nine Shaiva temples of the Pattadakal group, a UNESCO World Heritage Site since 1987, and it stands set apart towards the village, close to its old wall. Its date is debated: one record places it about 680 CE, others give the eighth century, and some connect it with the age of Vijayaditya Satyashraya. An eleventh-century inscription found near it calls the temple Mulasthana Mahadeva, a name that means roughly the original seat of the great god, and Papanatha is the name by which it is known today. It is a protected monument of the Archaeological Survey of India, and it is the temple where Pattadakal’s northern and southern traditions meet most closely.",
-    "architecture": "Papanatha is among the most elaborate temples at Pattadakal, and it mixes northern and southern traditions. Its main sanctuary is crowned by a northern-style curving tower, while a smaller portion towards the east carries miniature Dravida shrines. A pillared hall, including a dancing hall known as a natya mandapa, leads towards the sanctum. The outer walls carry relief panels of scenes from the Ramayana and the Mahabharata, friezes that make it one of the finest narrative temples of the Chalukya school. The Archaeological Survey of India groups it with the Nagara-style temples of Pattadakal.",
-    "legends": "Pattadakal’s temples are read as stories as much as buildings, and nowhere more than at Papanatha, whose walls are a stone telling of the epics. Episodes of the Ramayana and the Mahabharata unfold in panels, so a slow circuit of the temple becomes a recital in carved form. Its earlier name, Mulasthana Mahadeva, points to older sacred ground at this spot. No single founding legend is attached to it; the great epics themselves are its stories.",
-    "festivals": "Papanatha is a protected monument rather than a temple with a daily round of worship, so it keeps no festival calendar of its own. Maha Shivaratri is the observance most associated with Shiva temples in the region; confirm dates locally. Pattadakal is also known for an annual dance festival staged among its monuments, worth checking when planning a visit.",
-    "experience": "Come to Papanatha after the main enclosure and take it slowly. Start with the tower, whose curve is unlike the stepped towers around it, then walk the outer walls with the epics in mind, matching panels to the stories you know. In low morning or late afternoon light the reliefs stand out clearly. The temple sits a little apart from the crowds, near the village edge, and is often quiet."
+    "history": "पापनाथ हे पट्टदकल समूहातील नऊ शैव मंदिरांपैकी एक आहे — १९८७ पासून युनेस्को जागतिक वारसा स्थळ — आणि ते गावाच्या दिशेने, त्याच्या जुन्या तटाजवळ, वेगळे उभे आहे. त्याचा कालखंड वादग्रस्त आहे: एका नोंदीनुसार ते इसवी सन ६८० च्या सुमारास, इतरांनुसार आठव्या शतकातील, आणि काही जण ते विजयादित्य सत्याश्रयाच्या काळाशी जोडतात. त्याच्या जवळ सापडलेल्या अकराव्या शतकातील शिलालेखात या मंदिराला मूलस्थान महादेव म्हटले आहे, ज्याचा ढोबळ अर्थ महादेवाचे मूळ स्थान असा आहे, आणि आज ते पापनाथ या नावाने ओळखले जाते. हे भारतीय पुरातत्त्व सर्वेक्षणाचे संरक्षित स्मारक आहे, आणि पट्टदकलच्या उत्तरेकडील आणि दक्षिणेकडील परंपरा सर्वाधिक जवळून जिथे भेटतात ते हे मंदिर आहे.",
+    "architecture": "पापनाथ हे पट्टदकलमधील सर्वांत अलंकृत मंदिरांपैकी एक असून त्यात उत्तरेकडील आणि दक्षिणेकडील परंपरांचे मिश्रण आहे. त्याच्या मुख्य गर्भगृहावर उत्तरेकडील शैलीचे वक्र शिखर आहे, तर पूर्वेकडील लहान भागावर लघु द्रविड देवळ्या आहेत. स्तंभयुक्त सभामंडप, ज्यात नाट्य मंडप म्हणून ओळखला जाणारा नृत्यमंडप आहे, गर्भगृहाकडे नेतो. बाह्य भिंतींवर रामायण आणि महाभारतातील प्रसंगांचे उठावशिल्प फलक आहेत; या शिल्पपट्टांमुळे ते चालुक्य शैलीतील कथाप्रधान मंदिरांपैकी सर्वोत्कृष्ट मानले जाते. भारतीय पुरातत्त्व सर्वेक्षण त्याला पट्टदकलमधील नागर शैलीच्या मंदिरांमध्ये गणते.",
+    "legends": "पट्टदकलची मंदिरे इमारतींइतकीच कथांच्या रूपातही वाचली जातात, आणि पापनाथाइतकी कुठेच नाही, ज्याच्या भिंती म्हणजे महाकाव्यांचे दगडातील कथन आहेत. रामायण आणि महाभारतातील प्रसंग फलकांमध्ये उलगडतात, त्यामुळे मंदिराची संथ प्रदक्षिणा म्हणजे कोरीव रूपातील पठणच ठरते. त्याचे आधीचे नाव, मूलस्थान महादेव, या ठिकाणी अधिक जुन्या पवित्र भूमीकडे निर्देश करते. त्याला कोणतीही एकच स्थापनाकथा जोडलेली नाही; महान महाकाव्येच त्याच्या कथा आहेत.",
+    "festivals": "पापनाथ हे दैनंदिन उपासना चालणाऱ्या मंदिरापेक्षा संरक्षित स्मारक आहे, त्यामुळे त्याचे स्वतःचे उत्सव दिनदर्शिका नाही. महाशिवरात्री हा या प्रदेशातील शिवमंदिरांशी सर्वाधिक निगडित असलेला विधी आहे; तिथी स्थानिक पातळीवर खात्री करून घ्या. पट्टदकल हे आपल्या स्मारकांमध्ये आयोजित होणाऱ्या वार्षिक नृत्य महोत्सवासाठीही प्रसिद्ध आहे; भेटीचे नियोजन करताना तो पाहून घेण्यासारखा आहे.",
+    "experience": "मुख्य प्रांगणानंतर पापनाथाकडे या आणि सावकाश पहा. शिखरापासून सुरुवात करा, ज्याची वक्रता आजूबाजूच्या पायरीदार शिखरांपेक्षा वेगळी आहे; मग महाकाव्ये मनात ठेवून बाह्य भिंतींवरून फिरा, आणि फलकांना तुम्हाला ज्ञात असलेल्या कथांशी जुळवा. सकाळच्या किंवा उशिरा दुपारच्या कोवळ्या प्रकाशात उठावशिल्पे स्पष्ट उठून दिसतात. हे मंदिर गर्दीपासून थोडे दूर, गावाच्या काठाजवळ आहे, आणि अनेकदा शांत असते."
   },
   "visit": {
-    "timings": "Open daily in daytime hours as an Archaeological Survey of India monument and UNESCO site; a single ticket admits visitors to the Pattadakal complex. Confirm current hours and fees locally.",
-    "dressCode": "No strict dress code applies, but modest dress is appropriate given the sacred character of the site; comfortable footwear helps for walking between monuments.",
-    "photography": "Photography is generally permitted across the open-air site; tripods or professional equipment may require permission.",
-    "gettingThere": "Pattadakal is in Karnataka’s Bagalkot district, about 22 km from Badami, which has the nearest railway station, and around 130 km from Hubballi, the nearest airport. It is usually visited together with Badami and Aihole. Papanatha stands a short walk from the main temple group, towards the village."
+    "timings": "भारतीय पुरातत्त्व सर्वेक्षणाचे स्मारक आणि युनेस्को स्थळ म्हणून दररोज दिवसाच्या वेळेत खुले असते; एकाच तिकिटावर पट्टदकल संकुलात प्रवेश मिळतो. सध्याच्या वेळा आणि शुल्क स्थानिक पातळीवर निश्चित करून घ्या.",
+    "dressCode": "कडक पोशाख नियम नाही, परंतु स्थळाच्या पवित्र स्वरूपामुळे साधा पोशाख योग्य ठरतो; स्मारकांमधून चालण्यासाठी आरामदायी पादत्राणे उपयुक्त ठरतात.",
+    "photography": "खुल्या आकाशाखालील या स्थळी सर्वत्र सामान्यतः छायाचित्रणास परवानगी आहे; तिपाई किंवा व्यावसायिक उपकरणांसाठी परवानगी लागू शकते.",
+    "gettingThere": "पट्टदकल कर्नाटकातील बागलकोट जिल्ह्यात, बदामीपासून सुमारे २२ किमी अंतरावर आहे — बदामी येथे जवळचे रेल्वे स्थानक आहे — आणि जवळचे विमानतळ असलेल्या हुबळीपासून सुमारे १३० किमी अंतरावर आहे. बदामी आणि ऐहोळे यांच्यासह येथे सहसा भेट दिली जाते. पापनाथ मुख्य मंदिर समूहापासून गावाच्या दिशेने थोड्या चालण्याच्या अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/papanatha-pattadakal.jpg",
