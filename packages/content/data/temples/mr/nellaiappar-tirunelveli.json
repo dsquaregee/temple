@@ -1,32 +1,39 @@
 {
   "id": "nellaiappar-tirunelveli",
   "locale": "mr",
+  "name": "नेल्लैयप्पर मंदिर, तिरुनेलवेली",
   "nativeName": "நெல்லையப்பர் கோயில், திருநெல்வேலி",
+  "deity": "भाताचे रक्षक नेल्लैयप्पर रूपातील शिव, देवी कांतिमती यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tirunelveli",
-    "state": "Tamil Nadu",
+    "city": "तिरुनेलवेली",
+    "state": "तमिळनाडू",
     "lat": 8.7286,
     "lng": 77.7038
   },
+  "period": "पांड्य आणि चोळ मूळ; नायकांच्या काळात महान सभामंडप आणि संगीतमय स्तंभ जोडले गेले",
   "century": 9,
+  "dynasty": "पांड्य आणि चोळ मूळ, नायक भर",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "temples-of-the-deep-south",
     "pancha-sabhai-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "ताम्रपर्णी नदीकाठच्या तिरुनेलवेलीच्या जुन्या शहरात, शिवाचे नेल्लैयप्पर आणि देवी कांतिमती यांची जुळी मंदिरे सभामंडपांच्या साखळीने जोडलेली उभी आहेत — संगीताने निनादणाऱ्या दगडी स्तंभांसाठी आणि शिवाने जेथे नृत्य केले असे सांगितले जाते त्या ताम्रसभेसाठी प्रसिद्ध असलेले एक महान शैव गर्भगृह.",
   "sections": {
-    "history": "The Nellaiappar temple stands at Tirunelveli, an ancient town on the banks of the Tamiraparani in the far south of Tamil Nadu. It is a Paadal Petra Sthalam, sung in the Tevaram hymns of the Nayanmar saints, with origins under the Pandyas and Cholas and its great mandapas and towers raised in the later centuries under Nayaka rule. The temple is really two — the shrine of Shiva as Nellaiappar and, beside it, the shrine of the Goddess Kanthimathi — joined into a single vast complex, at the devotional heart of a town whose name itself recalls the lord who guarded a devotee's paddy.",
-    "architecture": "The complex is entered through tall gopurams and unfolds through pillared halls of the mature Dravidian manner, the twin temples of Nellaiappar and Kanthimathi linked by the Sangili Mandapam, the 'chain hall'. Its most celebrated feature is the group of musical pillars — clusters of slender stone columns, carved from single blocks, that sound different musical notes when struck. Tirunelveli is honoured as the Tamira Sabhai, the copper hall, one of the five sabhas where Shiva is said to have danced his cosmic dance, and the temple holds a golden-lily tank and richly sculptured mandapas among the finest of the Nayaka age.",
-    "legends": "The name Nellaiappar — the lord of the nel, the paddy — comes from a beloved legend: a devotee had spread his harvested paddy to dry when the rains threatened, and the lord held back the downpour, sheltering the grain, so that he became known as the guardian of the paddy, Venuvananathar of the bamboo forest. The Goddess Kanthimathi shines beside him as the light of the shrine. Tirunelveli's place among the five dance-halls, as the copper sabha, sets its worship within the great tradition of Shiva Nataraja, whose foremost hall is the golden one at Chidambaram.",
-    "festivals": "The temple's year is marked by the Aadi and the Brahmotsavam festivals, the float festival on the golden-lily tank, and the Arudra Darshan sacred to Shiva as the dancer. The car festival draws great crowds through the streets of the old town. Music has a natural home here, in the temple of the singing pillars, and festival days fill the long halls with lamps, song and pilgrims.",
-    "experience": "Nellaiappar rewards the visitor who lingers among its halls: the ring of the musical pillars, the sculptured mandapas, the twin sanctums of god and goddess joined by the chain hall, and the river town around it. Tirunelveli sits in the deep south of Tamil Nadu, an easy journey from Thiruchendur on the coast and from the land's end at Kanyakumari, and joins them into a single pilgrimage of the far south."
+    "history": "नेल्लैयप्पर मंदिर तमिळनाडूच्या अगदी दक्षिणेकडील ताम्रपर्णी नदीकाठी वसलेल्या तिरुनेलवेली या प्राचीन शहरात आहे. हे एक पाडल पेट्र स्थळ आहे, ज्याचे नायन्मार संतांच्या तेवारम स्तोत्रांत गायन झाले आहे; त्याचे मूळ पांड्य व चोळांच्या काळात असून, त्याचे महान मंडप आणि मनोरे नंतरच्या शतकांत नायकांच्या राजवटीत उभारले गेले. मंदिर प्रत्यक्षात दोन आहे — शिवाचे नेल्लैयप्पर गर्भगृह आणि त्याच्या शेजारी देवी कांतिमतीचे गर्भगृह — जे एकाच विशाल संकुलात जोडले गेले आहे, आणि ज्या शहराचे नाव स्वतःच भक्ताच्या भाताचे रक्षण करणाऱ्या प्रभूंचे स्मरण करते, त्याच्या भक्तिमय केंद्रस्थानी आहे.",
+    "architecture": "संकुलात उंच गोपुरांतून प्रवेश होतो आणि ते प्रगल्भ द्रविड शैलीतील स्तंभयुक्त सभागृहांतून उलगडते; नेल्लैयप्पर आणि कांतिमती ही जुळी मंदिरे संगिली मंडपम्, म्हणजे 'साखळी सभागृह', याने जोडलेली आहेत. त्याचे सर्वाधिक प्रसिद्ध वैशिष्ट्य म्हणजे संगीतमय स्तंभांचा समूह — एकेका दगडी खंडातून कोरलेल्या सडपातळ स्तंभांचे गुच्छ, जे आघात केल्यावर वेगवेगळे संगीतस्वर काढतात. तिरुनेलवेलीला ताम्र सभा, म्हणजे तांब्याचे सभागृह, म्हणून गौरवले जाते — ज्या पाच सभांमध्ये शिवाने आपले वैश्विक नृत्य केले असे सांगितले जाते त्यांपैकी एक — आणि मंदिरात सुवर्ण-कमळ तलाव आणि नायक काळातील सर्वोत्तमांमध्ये गणले जाणारे समृद्ध शिल्पांकित मंडप आहेत.",
+    "legends": "नेल्लैयप्पर — नेल, म्हणजे भाताचे, स्वामी — हे नाव एका प्रिय कथेतून आले आहे: पावसाची चाहूल लागली असता एका भक्ताने आपले कापलेले भात वाळवण्यासाठी पसरले होते, तेव्हा प्रभूंनी धुवाधार पाऊस रोखून धान्याला आश्रय दिला, आणि म्हणून ते भाताचे रक्षक, बांबूवनाचे वेणुवननाथर, म्हणून ओळखले गेले. देवी कांतिमती त्यांच्या शेजारी गर्भगृहाचा प्रकाश म्हणून तेजाने उजळते. ताम्र सभा म्हणून पाच नृत्यसभांमध्ये तिरुनेलवेलीचे स्थान येथील पूजेला शिव नटराजाच्या महान परंपरेत गुंफते, ज्यांची प्रमुख सभा चिदंबरम येथील सुवर्ण सभा आहे.",
+    "festivals": "मंदिराचे वर्ष आडी आणि ब्रह्मोत्सव उत्सवांनी, सुवर्ण-कमळ तलावावरील तराफा उत्सवाने, आणि नर्तक रूपातील शिवाला समर्पित आर्द्रा दर्शनाने चिन्हांकित होते. रथोत्सव जुन्या शहराच्या रस्त्यांवर प्रचंड गर्दी खेचतो. गाणाऱ्या स्तंभांच्या या मंदिरात संगीताला नैसर्गिक घर आहे, आणि उत्सवाचे दिवस लांब सभागृहांना दिवे, गायन आणि यात्रेकरूंनी भरतात.",
+    "experience": "नेल्लैयप्पर सभामंडपांत रेंगाळणाऱ्या अभ्यागताला समृद्ध अनुभव देते: संगीतमय स्तंभांचा नाद, शिल्पांकित मंडप, साखळी सभागृहाने जोडलेली देव-देवींची जुळी गर्भगृहे, आणि भोवतालचे नदीकाठचे शहर. तिरुनेलवेली तमिळनाडूच्या अगदी दक्षिणेस आहे, किनाऱ्यावरील तिरुचेंदूर आणि भूमीच्या टोकावरील कन्याकुमारी येथून सहज प्रवासाच्या अंतरावर, आणि त्यांना एकाच दक्षिणेकडील यात्रेत जोडते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before entering the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Tirunelveli is a major town in the deep south of Tamil Nadu, well connected by road and rail; it lies about 60 km from Thiruchendur and within easy reach of Kanyakumari and the far south."
+    "timings": "सकाळ व संध्याकाळच्या दर्शन सत्रांसह दररोज उघडे, दुपारी दीर्घ काळ बंद; उत्सवाच्या दिवशी सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळांची खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. अनेक दक्षिणेकडील गर्भगृहांप्रमाणे, पुरुषांना गर्भगृहात प्रवेश करण्यापूर्वी वरचे वस्त्र काढण्यास पारंपरिक रीतीने सांगितले जाते; लावलेल्या नियमांचे पालन करा.",
+    "photography": "छायाचित्रणावर निर्बंध आहेत, विशेषतः गर्भगृहात व त्याच्या आजूबाजूला; लावलेले नियम आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "तिरुनेलवेली हे तमिळनाडूच्या अगदी दक्षिणेतील एक मोठे शहर असून रस्ता आणि रेल्वेने उत्तम जोडलेले आहे; ते तिरुचेंदूरपासून सुमारे ६० कि.मी. अंतरावर आहे आणि कन्याकुमारी व दक्षिणेकडील टोकापर्यंत सहज पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/nellaiappar-tirunelveli.jpg",

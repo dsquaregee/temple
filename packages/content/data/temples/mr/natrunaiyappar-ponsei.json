@@ -1,29 +1,36 @@
 {
   "id": "natrunaiyappar-ponsei",
   "locale": "mr",
+  "name": "नट्रुणैयप्पर मंदिर, तिरुनणिपळ्ळी (पोन्सै)",
   "nativeName": "திருநனிபள்ளி நற்றுணையப்பர் கோயில்",
+  "deity": "शिव नट्रुणैयप्पर (‘उत्तम सोबती’) रूपात, देवी मलैयान मदंताई सह",
+  "tradition": "शैव — पाडल पेट्र स्थळ",
   "location": {
-    "city": "Ponsei (Tirunanipalli), near Sembanarkoil",
-    "state": "Tamil Nadu",
+    "city": "पोन्सै (तिरुनणिपळ्ळी), सेंबनारकोईलजवळ",
+    "state": "तमिळनाडू",
     "lat": 11.1307,
     "lng": 79.7596
   },
+  "period": "तेवारम काळ (सातव्या शतकात स्तुतिगान); नंतरचे चोळ काळातील संरचनात्मक मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "सेंबनारकोईलजवळील पोन्सै, ज्याचे तेवारममधील नाव तिरुनणिपळ्ळी, येथे शिवाची नट्रुणैयप्पर — ‘उत्तम सोबती’ — म्हणून पूजा होते; देवी मलैयान मदंताई. अप्पर, संबंदर आणि सुंदरर या तिन्ही महान संतांनी गायिलेले हे पाडल पेट्र स्थळ तिरुज्ञान संबंदरांची माता भगवती यांचे जन्मस्थान म्हणून पूज्य आहे, आणि बालसंताच्या स्तोत्राने येथील ओसाड शेते हिरवीगार झाली अशी आठवण जपते.",
   "sections": {
-    "history": "Ponsei, known in the Tevaram as Tirunanipalli, lies near Sembanarkoil in the Kaveri delta (sources place it in Mayiladuthurai district, older ones in Nagapattinam). It is a Paadal Petra Sthalam hymned by all three of the great Tevaram saints — Appar, Sambandar and Sundarar. The temple tradition holds Tirunanipalli to be the birthplace of Bhagavati, the devoted mother of the child-saint Tirugnana Sambandar, which gives the shrine a special tenderness in Shaiva memory. The stone temple belongs to the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Natrunaiyappar in the sanctum, with the goddess Malayaan Madanthai; a second form of the goddess, Parvatharaja Puthri, is also honoured here in the local tradition. A Nandi, the parivara devatas and a temple tank complete the simple plan. The temple is cared for at the scale of a village shrine of some antiquity.",
-    "legends": "The lord's name Natrunaiyappar — 'the father who is the good companion' — expresses his nearness to those who turn to him. By tradition the child Sambandar, passing this way, sang a pathikam here, and his hymn is said to have turned the barren, parched fields of Tirunanipalli into fertile land. The village is also remembered as the birthplace of Bhagavati Ammai, Sambandar's mother, binding the temple to the great saint's own story.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), the festival of Tirugnana Sambandar, and the regular Pradosha and Karthikai observances, at the quiet scale of a delta village. Devotees who follow the Paadal Petra trail and the trail of Sambandar's life include Tirunanipalli among their stops.",
-    "experience": "To come to Ponsei is to stand at a shrine woven into the life of the child-saint Sambandar. Before Natrunaiyappar, the 'good companion,' and Malayaan Madanthai, the pilgrim feels the gentle grace of a temple that remembers a hymn turning barren earth green — a small delta sanctuary rich in the memory of devotion."
+    "history": "पोन्सै, तेवारममध्ये तिरुनणिपळ्ळी या नावाने ओळखले जाते, कावेरी त्रिभुज प्रदेशात सेंबनारकोईलजवळ वसले आहे (काही स्रोत ते मयिलादुतुरै जिल्ह्यात दाखवतात, जुने स्रोत नागपट्टिनम जिल्ह्यात). अप्पर, संबंदर आणि सुंदरर या तिन्ही महान तेवारम संतांनी गायिलेले हे पाडल पेट्र स्थळ आहे. मंदिर-परंपरेनुसार तिरुनणिपळ्ळी हे बालसंत तिरुज्ञान संबंदरांची भक्तिमती माता भगवती यांचे जन्मस्थान आहे, ज्यामुळे शैव स्मृतीत या क्षेत्राला एक विशेष हळुवारपणा लाभला आहे. हे दगडी मंदिर चोळ काळातील आणि त्यानंतरचे आहे.",
+    "architecture": "द्रविड शैलीतील हे त्रिभुज प्रदेशातील मंदिर आहे; गर्भगृहात नट्रुणैयप्पर विराजमान आहेत, सोबत देवी मलैयान मदंताई; स्थानिक परंपरेनुसार देवीचे दुसरे रूप, पर्वतराजपुत्री, येथे पूजले जाते. नंदी, परिवार देवता आणि मंदिर-तलाव यांनी ही साधी रचना पूर्ण होते. काही प्राचीनत्व लाभलेल्या गावातील देवळाच्या प्रमाणात या मंदिराची निगा राखली जाते.",
+    "legends": "नट्रुणैयप्पर — ‘उत्तम सोबती असलेला पिता’ — हे प्रभूचे नाव त्याच्याकडे वळणाऱ्यांशी असलेली त्याची जवळीक व्यक्त करते. परंपरेनुसार बालक संबंदर या मार्गाने जात असता त्यांनी येथे एक पदिकम गायिले, आणि त्यांच्या स्तोत्राने तिरुनणिपळ्ळीची ओसाड, रुक्ष शेते सुपीक भूमीत रूपांतरित झाली असे सांगितले जाते. संबंदरांची माता भगवती अम्मै यांचे जन्मस्थान म्हणूनही हे गाव स्मरले जाते, आणि त्यामुळे मंदिर महान संतांच्या स्वतःच्या कथेशी जोडले जाते.",
+    "festivals": "मंदिरात माशी (फेब्रुवारी–मार्च) महिन्यातील महाशिवरात्री, तिरुज्ञान संबंदरांचा उत्सव, तसेच नियमित प्रदोष आणि कार्तिगै पाळले जातात — त्रिभुज प्रदेशातील गावाच्या शांत प्रमाणात. पाडल पेट्र मार्गाचे आणि संबंदरांच्या जीवनमार्गाचे अनुसरण करणारे भाविक तिरुनणिपळ्ळीचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "पोन्सैला येणे म्हणजे बालसंत संबंदरांच्या जीवनात गुंफलेल्या क्षेत्रात उभे राहणे. ‘उत्तम सोबती’ नट्रुणैयप्पर आणि मलैयान मदंताई यांच्यासमोर, एका स्तोत्राने ओसाड भूमी हिरवीगार झाल्याची आठवण जपणाऱ्या देवळाची सौम्य कृपा यात्रेकरूला जाणवते — भक्तीच्या स्मृतींनी समृद्ध असे एक लहानसे त्रिभुज प्रदेशातील अभयारण्य."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Ponsei (Tirunanipalli) is about 4 km from Sembanarkoil and roughly 13 km from Mayiladuthurai, in the Kaveri delta. Mayiladuthurai is the nearest rail head, with buses and taxis via Sembanarkoil to the village."
+    "timings": "सहसा पहाटेपासून दुपारपर्यंत आणि पुन्हा दुपारी उशिरापासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा-मार्गांत छायाचित्रणास साधारणतः परवानगी असते, पण गर्भगृहाच्या आत नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "पोन्सै (तिरुनणिपळ्ळी) कावेरी त्रिभुज प्रदेशात सेंबनारकोईलपासून सुमारे ४ किमी आणि मयिलादुतुरैपासून अंदाजे १३ किमी अंतरावर आहे. मयिलादुतुरै हे सर्वांत जवळचे रेल्वेस्थानक आहे; तेथून सेंबनारकोईलमार्गे गावापर्यंत बस व टॅक्सी उपलब्ध असतात."
   }
 }

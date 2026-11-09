@@ -1,29 +1,36 @@
 {
   "id": "neelakandeswarar-tirumannippadikkarai",
   "locale": "mr",
+  "name": "नीलकंठेश्वर मंदिर, तिरुमण्णिप्पडिक्करै",
   "nativeName": "நீலகண்டேஸ்வரர் கோயில்",
+  "deity": "शिव नीलकंठेश्वर (पडिक्करै नाथर) रूपात, देवी अमृतवल्लीसह",
+  "tradition": "शैव संप्रदाय",
   "location": {
-    "city": "Tirumannippadikkarai (Iluppaipattu)",
-    "state": "Tamil Nadu",
+    "city": "तिरुमण्णिप्पडिक्करै (इलुप्पैपट्टू)",
+    "state": "तमिळनाडू",
     "lat": 11.19,
     "lng": 79.59
   },
+  "period": "कोल्लिडमवरील प्राचीन शैव क्षेत्र, तेवारममध्ये गायिलेले (सातवे शतक); मध्ययुगीन व नंतरच्या भरीसह संरचनात्मक मंदिर",
   "century": 7,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (चोळ आणि नंतरचे)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुमण्णिप्पडिक्करैचे नीलकंठेश्वर — आता इलुप्पैपट्टू म्हटले जाणारे गाव — हे सुंदररांनी गायिलेले कोल्लिडमवरील पाडल पेट्र स्थळ आहे, जिथे परंपरा सांगते की पांडवांनी पाच लिंगांची उपासना केली आणि देवीने विषारी डोहाचे अमृतात रूपांतर केले.",
   "sections": {
-    "history": "Tirumannippadikkarai, known today by the village name Iluppaipattu, lies on the southern bank of the Kollidam in the Chola country north of the Kaveri. Its old name carries the memory of the Manni, the river that once flowed here: Padikkarai means the bank or landing, and the shrine is spoken of as Pazha Mannippadikkarai, the old bank of the Manni. The saint Sundarar sang a hymn to the Lord of this place in the seventh-century Tevaram, which makes it a Paadal Petra Sthalam. The present temple is a structural shrine shaped by the medieval patrons of the Tamil country and kept in worship ever since, though the founding dynasty is not firmly recorded.",
-    "architecture": "The temple stands in a quiet village setting near the Kollidam, entered through an eastern gateway into a modest Dravidian enclosure. Its most distinctive feature is the number of its shrines. Beyond the sanctum of Neelakandeswarar, where the Lord is worshipped as a linga, there are separate sanctums for Padikkarai Nathar and for three further lingas, so that five lingas are honoured within the complex, each in its own shrine. The goddess Amirthavalli has her own shrine, and the sacred tank, the Brahma Theertham, lies close to the temple. Local sources differ on small details of the gateway and the arrangement of the shrines, so the visitor is best served by walking the whole enclosure.",
-    "legends": "The legend of Tirumannippadikkarai belongs to the Pandavas. In their years of exile the five brothers came to this place and found no lingas to worship. They lit lamps with the oil of the iluppai, the mahua tree that gives the village its name, and meditated on the Lord, and in answer to their prayer Shiva gave each of them darshan as a linga, so that five lingas stand here today. A second tradition tells that Duryodhana poisoned the temple tank to harm the brothers. The goddess is said to have drawn the venom out and filled the water with nectar, and the Lord, as Neelakanta, the blue-throated one, is remembered as the one who swallows poison for the sake of his devotees. The pool has long been called the poison pond, and the goddess is honoured here as Amirthavalli, the vine of nectar.",
-    "festivals": "The principal festival is the ten-day Chithirai Brahmotsavam in April and May, when the deities are carried in procession through the village. Maha Shivaratri in February or March is kept with night-long worship, and Tirukarthikai in November or December fills the temple with lamps. Monthly Pradosham is observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Tirumannippadikkarai rewards a patient visit to a village temple far from the pilgrim crowds. Come first to the sanctum of Neelakandeswarar, then walk from shrine to shrine to greet the five lingas the Pandavas are said to have worshipped, and pause at the goddess Amirthavalli and beside the old tank of the poison and the nectar. Devotees come for health and for the long life of those they love, and women in particular hold the goddess dear. The road runs through quiet fields along the Kollidam, and within the walls the temple keeps the stillness of a very old sanctuary."
+    "history": "तिरुमण्णिप्पडिक्करै, आज इलुप्पैपट्टू या गावाच्या नावाने ओळखले जाते, कावेरीच्या उत्तरेकडील चोळ प्रदेशात कोल्लिडमच्या दक्षिण तीरावर वसले आहे. त्याच्या जुन्या नावात येथे एकेकाळी वाहणाऱ्या मण्णी नदीची स्मृती आहे: पडिक्करै म्हणजे काठ किंवा धक्का, आणि हे क्षेत्र पळ मण्णिप्पडिक्करै, म्हणजे मण्णीचा जुना काठ, असे म्हटले जाते. संत सुंदररांनी सातव्या शतकातील तेवारममध्ये या स्थानाच्या प्रभूसाठी एक स्तोत्र गायिले, ज्यामुळे ते पाडल पेट्र स्थळ ठरते. सध्याचे मंदिर तमिळ प्रदेशातील मध्ययुगीन आश्रयदात्यांनी घडवलेले संरचनात्मक क्षेत्र आहे आणि तेव्हापासून पूजेत राहिले आहे, जरी संस्थापक राजवंश निश्चितपणे नोंदलेला नाही.",
+    "architecture": "मंदिर कोल्लिडमजवळच्या शांत गावाच्या परिसरात उभे आहे, पूर्वेकडील प्रवेशद्वारातून एका साध्या द्रविड आवारात प्रवेश होतो. त्याचे सर्वांत वैशिष्ट्यपूर्ण अंग म्हणजे त्यातील मंदिरांची संख्या. नीलकंठेश्वरांच्या गर्भगृहापलीकडे, जिथे प्रभूची लिंगरूपात पूजा होते, पडिक्करै नाथर आणि आणखी तीन लिंगांसाठी स्वतंत्र गर्भगृहे आहेत, त्यामुळे संकुलात पाच लिंगांचा सन्मान होतो, प्रत्येक आपल्या स्वतःच्या मंदिरात. देवी अमृतवल्ली यांचे स्वतःचे मंदिर आहे, आणि पवित्र तलाव ब्रह्म तीर्थम् मंदिराजवळ आहे. प्रवेशद्वारातील आणि मंदिरांच्या मांडणीतील लहान तपशिलांबाबत स्थानिक स्रोतांत भिन्नता आहे, म्हणून अभ्यागताने संपूर्ण आवारात फिरून पाहणे उत्तम.",
+    "legends": "तिरुमण्णिप्पडिक्करैची कथा पांडवांशी निगडित आहे. वनवासाच्या वर्षांत पाच भाऊ या ठिकाणी आले आणि त्यांना पूजेसाठी लिंगे आढळली नाहीत. गावाला नाव देणाऱ्या इलुप्पै, म्हणजे मोहाच्या झाडाच्या तेलाने त्यांनी दिवे लावले आणि प्रभूचे ध्यान केले, आणि त्यांच्या प्रार्थनेला उत्तर म्हणून शिवाने प्रत्येकाला लिंगरूपात दर्शन दिले, म्हणून आज येथे पाच लिंगे उभी आहेत. दुसरी परंपरा सांगते की दुर्योधनाने भावांना हानी पोहोचवण्यासाठी मंदिराच्या तलावात विष घातले. देवीने ते विष काढून घेतले आणि पाणी अमृताने भरले असे सांगितले जाते, आणि प्रभू नीलकंठ, निळ्या कंठाचा, आपल्या भक्तांसाठी विष प्राशन करणारा म्हणून स्मरला जातो. त्या डोहाला फार पूर्वीपासून विषाचा डोह म्हटले जाते, आणि देवीचा येथे अमृतवल्ली, अमृताची वेल, म्हणून सन्मान होतो.",
+    "festivals": "मुख्य उत्सव एप्रिल–मे मधील दहा दिवसांचा चित्तिरै ब्रह्मोत्सव आहे, जेव्हा देवतांची गावातून मिरवणूक निघते. फेब्रुवारी किंवा मार्चमधील महाशिवरात्री रात्रभराच्या उपासनेने साजरी होते, आणि नोव्हेंबर किंवा डिसेंबरमधील तिरुकार्तिगै मंदिराला दिव्यांनी उजळून टाकते. प्रत्येक शिव मंदिराप्रमाणे मासिक प्रदोषम पाळला जातो. तारखा तमिळ पंचांगानुसार असल्याने स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुमण्णिप्पडिक्करै यात्रेकरूंच्या गर्दीपासून दूरच्या गावातील मंदिराची धीराने केलेली भेट सार्थ ठरवते. प्रथम नीलकंठेश्वरांच्या गर्भगृहात या, मग पांडवांनी पूजिल्याचे सांगितले जाणाऱ्या पाच लिंगांना अभिवादन करण्यासाठी एका मंदिरातून दुसऱ्याकडे चाला, आणि देवी अमृतवल्लीपाशी तसेच विष आणि अमृताच्या जुन्या तलावाकाठी थांबा. भाविक आरोग्यासाठी आणि आपल्या प्रियजनांच्या दीर्घायुष्यासाठी येतात, आणि विशेषतः स्त्रियांना देवी प्रिय आहे. वाट कोल्लिडमकाठच्या शांत शेतांतून जाते, आणि भिंतींच्या आत मंदिर अत्यंत प्राचीन अभयारण्याची निश्चलता राखते."
   },
   "visit": {
-    "timings": "Typically open in the morning from about 6:00 or 7:00 until late morning, and again from the afternoon until about 8:00 pm; sources differ slightly, so confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The village, known locally as Iluppaipattu (Eluppaippattu), lies on the southern bank of the Kollidam in Mayiladuthurai district, about 18 km from Mayiladuthurai and some 22 km from Sirkazhi. Mayiladuthurai Junction is the nearest major railway station, and buses run from Mayiladuthurai and Vaitheeswaran Koil. Ask for Eluppaippattu when seeking directions. Tiruchirappalli is the nearest major airport."
+    "timings": "सहसा सकाळी सुमारे ६:०० किंवा ७:०० पासून सकाळच्या उत्तरार्धापर्यंत, आणि पुन्हा दुपारपासून सुमारे रात्री ८:०० पर्यंत उघडे; स्रोतांत थोडी भिन्नता आहे, म्हणून विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा-मार्ग व अंगणांत छायाचित्रणास साधारणतः परवानगी असते, परंतु तमिळनाडूतील मंदिर नियमांनुसार आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "स्थानिक भाषेत इलुप्पैपट्टू (एलुप्पैप्पट्टू) म्हणून ओळखले जाणारे हे गाव मयिलादुतुरै जिल्ह्यात कोल्लिडमच्या दक्षिण तीरावर, मयिलादुतुरैपासून सुमारे १८ किमी आणि सिरकाळीपासून सुमारे २२ किमी अंतरावर आहे. मयिलादुतुरै जंक्शन हे सर्वांत जवळचे प्रमुख रेल्वे स्थानक आहे, आणि मयिलादुतुरै व वैद्येश्वरन कोविलहून बस धावतात. दिशा विचारताना एलुप्पैप्पट्टू असे विचारावे. तिरुचिरापल्ली हे सर्वांत जवळचे प्रमुख विमानतळ आहे."
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "nilathingal-thundathan-kanchipuram",
   "locale": "mr",
+  "name": "निलातिंगळ तुंडत्तान पेरुमाळ मंदिर (तिरु निलातिंगळ तुंडम), कांचीपुरम",
   "nativeName": "நிலாத்திங்கள் துண்டப் பெருமாள் கோயில் (திருநிலாத்திங்கள் துண்டம்), காஞ்சிபுரம்",
+  "deity": "निलातिंगळ तुंडत्तान पेरुमाळ या रूपातील विष्णू, \"चंद्रप्रकाशाच्या खंडाचा स्वामी\" — तिरु निलातिंगळ तुंडम हे दिव्य देशम, शैव एकंबरेश्वर मंदिराच्या आवारातील विष्णू मंदिर",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.8475,
     "lng": 79.6997
   },
+  "period": "तोंडै नाडूमधील एक दिव्य देशम, तिरुमंगै आळवार यांनी नालायिर दिव्य प्रबंधममध्ये गायिलेले",
   "century": 8,
+  "dynasty": "एकंबरेश्वर मंदिराच्या आत (विजयनगर काळातील प्रवेशद्वारासह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "तिरु निलातिंगळ तुंडम हे कांचीपुरमच्या भव्य शैव एकंबरेश्वर मंदिराच्या आत असलेले एक लहान विष्णू मंदिर आहे; तिरुमंगै आळवार यांनी गायिलेल्या या दिव्य देशमात देव चंद्राच्या शीतल प्रकाशाचा रक्षक आहे.",
   "sections": {
-    "history": "Thiru Nilathingal Thundam is not a separate temple but a Vishnu shrine inside the Ekambareswarar Temple of Kanchipuram, the Shaiva temple of the earth element among the Pancha Bhoota Sthalams. It is one of the 108 Divya Desams of Thondai Nadu, sung by Thirumangai Alvar in the Nalayira Divya Prabandham, with one pasuram credited to it. The shrine lies in the first precinct around the main sanctum, to the south-west. Its Vishnu stands within a temple whose eleven-tiered rayagopuram was raised under the Vijayanagara king Krishnadevaraya in 1509. That a Divya Desam sits inside a Shiva temple is a mark of the old Kanchi, where Shaiva and Vaishnava devotion share the same ground.",
-    "architecture": "The shrine is a modest sanctum set in the first prakaram of the Ekambareswarar complex, under the Purusha Sukta Vimanam, with the Chandra Pushkarini as its sacred tank. There is no separate shrine for the Goddess, who is named Nilathingal Thunda Nayagi, and no separate festival image: the shrine is a quiet one within the grand temple, whose towering gopuram and pillared halls surround it.",
-    "legends": "The name means the Lord of the moonlight piece, and is linked with the cool rays of the Moon. One tradition tells that Parvati performed penance at Kanchi to win Shiva; Vishnu is said to have taken the crescent from Shiva's head and let its cool rays fall upon the mango tree and upon Parvati, easing her austerity. Another telling has Vishnu shielding her sand lingam from the flood of the Ganga. In either account the Lord of Nilathingal Thundam is the gentle helper of the goddess's devotion.",
-    "festivals": "The shrine is observed within the calendar of the Ekambareswarar Temple, whose great festival is the Panguni Uthiram Brahmotsavam; the Vaishnava days of Vaikunta Ekadashi and the Margazhi recitations are honoured here as well. Confirm dates locally.",
-    "experience": "Come to Ekambareswarar first, and walk the first precinct to the south-west to find the small Vishnu sanctum, a rare Divya Desam inside a Shiva temple. Ask the priests to point the way. Pause at this meeting of two traditions, then continue to the nearby Vaishnava Divya Desams of Kanchipuram to complete the pilgrimage."
+    "history": "तिरु निलातिंगळ तुंडम हे स्वतंत्र मंदिर नसून कांचीपुरमच्या एकंबरेश्वर मंदिरातील विष्णू मंदिर आहे; पंचभूत स्थळांपैकी पृथ्वीतत्त्वाचे ते शैव मंदिर आहे. तोंडै नाडूमधील १०८ दिव्य देशमांपैकी हे एक असून, तिरुमंगै आळवार यांनी नालायिर दिव्य प्रबंधममध्ये ते गायिले आहे; त्यासाठी एक पासुरम नोंदवलेले आहे. हे मंदिर मुख्य गर्भगृहाभोवतीच्या पहिल्या प्राकारात, नैऋत्य दिशेला आहे. येथील विष्णू अशा मंदिरात उभा आहे ज्याचे अकरा मजली राजगोपुर १५०९ मध्ये विजयनगरचा राजा कृष्णदेवराय याच्या काळात उभारले गेले. शिवमंदिरात दिव्य देशम असणे हे जुन्या कांचीचे वैशिष्ट्य आहे, जेथे शैव आणि वैष्णव भक्ती एकाच भूमीवर नांदतात.",
+    "architecture": "हे मंदिर एकंबरेश्वर संकुलाच्या पहिल्या प्राकारात वसलेले एक साधे गर्भगृह आहे; त्यावर पुरुषसूक्त विमान आहे आणि चंद्र पुष्करिणी हे त्याचे पवित्र तळे आहे. देवीसाठी, जिचे नाव निलातिंगळ तुंडा नायकी आहे, स्वतंत्र मंदिर नाही, आणि स्वतंत्र उत्सवमूर्तीही नाही; हे भव्य मंदिराच्या आत असलेले एक शांत स्थान आहे, ज्याभोवती उंच गोपुर आणि स्तंभयुक्त मंडप उभे आहेत.",
+    "legends": "या नावाचा अर्थ चंद्रप्रकाशाच्या खंडाचा स्वामी असा आहे, आणि ते चंद्राच्या शीतल किरणांशी जोडलेले आहे. एका परंपरेनुसार, पार्वतीने शिवाला प्राप्त करण्यासाठी कांचीत तपस्या केली; विष्णूने शिवाच्या मस्तकावरील चंद्रकोर घेऊन तिच्या शीतल किरणांना आंब्याच्या झाडावर आणि पार्वतीवर पडू दिले, आणि तिच्या तपाला दिलासा दिला असे म्हटले जाते. दुसऱ्या कथनात विष्णू गंगेच्या पुरापासून तिच्या वाळूच्या लिंगाचे रक्षण करतो. कोणत्याही कथनात, निलातिंगळ तुंडमचा देव हा देवीच्या भक्तीचा सौम्य सहायक आहे.",
+    "festivals": "हे मंदिर एकंबरेश्वर मंदिराच्या दिनदर्शिकेनुसार पाळले जाते; त्याचा मोठा उत्सव पंगुनी उत्तिरम ब्रह्मोत्सव आहे; वैकुंठ एकादशी आणि मार्गळीतील पठनाचे वैष्णव दिवसही येथे आदराने पाळले जातात. तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "आधी एकंबरेश्वर मंदिरात या, आणि पहिल्या प्राकारात नैऋत्येकडे चालत जाऊन लहान विष्णू गर्भगृह शोधा; शिवमंदिरातील हे एक दुर्मिळ दिव्य देशम आहे. वाट दाखवण्यासाठी पुजाऱ्यांना विचारा. दोन परंपरांच्या या संगमावर क्षणभर थांबा, आणि नंतर यात्रा पूर्ण करण्यासाठी कांचीपुरममधील जवळच्या वैष्णव दिव्य देशमांकडे जा."
   },
   "visit": {
-    "timings": "The shrine opens with the Ekambareswarar Temple: morning and evening sessions with a midday closure. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
-    "gettingThere": "This is a shrine inside the Ekambareswarar Temple in Kanchipuram; enter by the great rayagopuram and ask for the Nilathingal Thundam sanctum in the first precinct. Chennai, about 70 km to the north-east, is the nearest major airport, and Kanchipuram town is the nearest railhead."
+    "timings": "हे मंदिर एकंबरेश्वर मंदिराबरोबरच उघडते: सकाळ आणि संध्याकाळचे सत्र, मध्ये दुपारी बंद. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहांमध्ये आणि त्यांच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "हे कांचीपुरममधील एकंबरेश्वर मंदिराच्या आतील मंदिर आहे; भव्य राजगोपुरातून प्रवेश करा आणि पहिल्या प्राकारातील निलातिंगळ तुंडम गर्भगृहाबद्दल विचारा. ईशान्येला सुमारे ७० किमी अंतरावरील चेन्नई हा जवळचा प्रमुख विमानतळ आहे, आणि कांचीपुरम शहर हे जवळचे रेल्वे स्थानक आहे."
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "neervannar-thiruneermalai",
   "locale": "mr",
+  "name": "नीर्वण्णर पेरुमाळ मंदिर, तिरुनीर्मलै",
   "nativeName": "நீர்வண்ணப் பெருமாள் கோயில், திருநீர்மலை",
+  "deity": "नीर्वण्णर पेरुमाळ रूपातील विष्णू, देवी अणिमामलर मंगै थायार यांच्यासह — आणि डोंगरमाथ्यावर रंगनाथ, शांत नरसिंह आणि उलगळंद पेरुमाळ",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruneermalai, Chennai",
-    "state": "Tamil Nadu",
+    "city": "तिरुनीर्मलै, चेन्नई",
+    "state": "तमिळनाडू",
     "lat": 12.9636,
     "lng": 80.1147
   },
+  "period": "तोंडै नाडूचे एक दिव्य देशम, नालायिर दिव्य प्रबंधात तिरुमंगै आळ्वार आणि भूतत्ताळ्वार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "पल्लवकालीन आळ्वार परंपरा (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "चेन्नईच्या नैर्ऋत्येकडील खडकाळ टेकडीवर, 'पवित्र जलाचा डोंगर' असलेल्या तिरुनीर्मलै या दिव्य देशममध्ये विष्णू चार मुद्रांमध्ये — उभे, शयन, आसनस्थ आणि पाऊल उचललेले — पूजले जातात.",
   "sections": {
-    "history": "Thiruneermalai, on the south-western edge of Chennai near Pallavaram, is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Thondai Nadu. Thirumangai Alvar and Bhoothathalvar sang of the Lord here, which places the shrine within the age of the early Alvar hymns. The place is really two temples in one sacred hill: a shrine at the foot, where Neervannar Perumal stands with Animamalar Mangai Thayar, and a second temple on the summit. Pilgrims have long climbed between the two, taking in the Lord in each of his postures.",
-    "architecture": "Two temples share the rock. At the foot of the hill stand Neervannar Perumal, the shrines of Kalyana Rama and of Andal. A long flight of steps leads to the hilltop temple, where Ranganatha reclines beneath the Ranga Vimana with Ranganayaki Thayar, Shanta Narasimha is seated, and Ulagalanda Perumal strides forward as Trivikrama. The hilltop shrine faces east. Four sacred tanks are named — Kshira, Karunya, Svarna and Siddha Pushkarini.",
-    "legends": "The name Thiruneermalai means the hill of holy water. Tradition tells that Thirumangai Alvar came here to worship, but the hill was ringed by floodwater and he could not cross. He waited for months until the waters drew back, and only then received the vision of the Lord on the hill. The place thus remembers a devotee's patience, and the Lord who is dark as water, Neervannar, waits at its foot.",
-    "festivals": "Vaikunta Ekadashi is observed here, and the temple keeps an annual Brahmotsavam with processions of the Lord from the foot of the hill. The days of the Alvars are honoured in the customary Vaishnava manner. Confirm dates locally.",
-    "experience": "Few Divya Desams offer four postures of Vishnu in a single visit. Begin at the foot of the hill, then make the long climb to the summit, where the three forms of the hilltop temple wait; wear comfortable footwear for the steps. The climb is rewarded with a wide view over the surrounding country."
+    "history": "चेन्नईच्या नैर्ऋत्य सीमेवर पल्लवरमजवळील तिरुनीर्मलै हे आळ्वारांनी नालायिर दिव्य प्रबंधात गायिलेल्या विष्णूच्या १०८ निवासस्थानांपैकी, म्हणजे दिव्य देशमांपैकी, एक असून तोंडै नाडूचे आहे. तिरुमंगै आळ्वार आणि भूतत्ताळ्वार यांनी येथे प्रभूंचे गायन केले, ज्यामुळे हे गर्भगृह आळ्वारांच्या आरंभिक स्तोत्रांच्या काळातील ठरते. हे स्थान प्रत्यक्षात एकाच पवित्र टेकडीवरील दोन मंदिरे आहे: पायथ्याशी एक गर्भगृह, जेथे नीर्वण्णर पेरुमाळ अणिमामलर मंगै थायारसह उभे आहेत, आणि माथ्यावर दुसरे मंदिर. यात्रेकरू दीर्घकाळापासून दोहोंमध्ये चढ-उतार करतात आणि प्रभूंच्या प्रत्येक मुद्रेचे दर्शन घेतात.",
+    "architecture": "दोन मंदिरे खडक सामायिक करतात. टेकडीच्या पायथ्याशी नीर्वण्णर पेरुमाळ, कल्याण राम आणि आंडाळ यांची गर्भगृहे आहेत. पायऱ्यांची लांब मालिका डोंगरमाथ्यावरील मंदिराकडे नेते, जेथे रंगनायकी थायारसह रंग विमानाखाली रंगनाथ शयन करतात, शांत नरसिंह आसनस्थ आहेत, आणि उलगळंद पेरुमाळ त्रिविक्रमाच्या रूपात पाऊल पुढे टाकतात. माथ्यावरील गर्भगृह पूर्वाभिमुख आहे. चार पवित्र तलाव नावाने ओळखले जातात — क्षीर, कारुण्य, स्वर्ण आणि सिद्ध पुष्करिणी.",
+    "legends": "तिरुनीर्मलै नावाचा अर्थ पवित्र जलाचा डोंगर. परंपरा सांगते की तिरुमंगै आळ्वार येथे दर्शनासाठी आले, पण डोंगराला पुराच्या पाण्याने वेढले असल्याने त्यांना पार करता आले नाही. पाणी ओसरेपर्यंत ते महिनोन्महिने थांबले, आणि तेव्हाच त्यांना डोंगरावर प्रभूंचे दर्शन झाले. अशा प्रकारे हे स्थान एका भक्ताच्या संयमाचे स्मरण करते, आणि पाण्यासारखे सावळे प्रभू, नीर्वण्णर, त्याच्या पायथ्याशी वाट पाहतात.",
+    "festivals": "येथे वैकुंठ एकादशी पाळली जाते, आणि मंदिरात वार्षिक ब्रह्मोत्सव होतो, ज्यात प्रभूंच्या मिरवणुका टेकडीच्या पायथ्यापासून निघतात. आळ्वारांच्या दिवसांचा गौरव प्रचलित वैष्णव पद्धतीने केला जातो. तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "फार थोडी दिव्य देशमे एकाच भेटीत विष्णूच्या चार मुद्रा देतात. टेकडीच्या पायथ्यापासून सुरुवात करा, मग माथ्यापर्यंत लांब चढाई करा, जेथे माथ्यावरील मंदिराची तीन रूपे वाट पाहतात; पायऱ्यांसाठी आरामदायी पादत्राणे घाला. चढाईचे फळ म्हणून आजूबाजूच्या प्रदेशाचे विस्तीर्ण दृश्य लाभते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "At Thiruneermalai on the south-western edge of Chennai, near Pallavaram in Chengalpattu district; reached by road from Pallavaram and Tambaram. Chennai International Airport at Meenambakkam is close by."
+    "timings": "सकाळ व संध्याकाळच्या दर्शन सत्रांसह दररोज उघडे, दुपारी काही काळ बंद; उत्सवाचे दिवस आणि वैकुंठ एकादशीला सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळांची खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात व त्याच्या आजूबाजूला छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "तिरुनीर्मलै चेन्नईच्या नैर्ऋत्य सीमेवर, चेंगलपट्टू जिल्ह्यातील पल्लवरमजवळ आहे; पल्लवरम आणि तांबरम येथून रस्त्याने पोहोचता येते. मीनंबाक्कम येथील चेन्नई आंतरराष्ट्रीय विमानतळ जवळच आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.jpg",

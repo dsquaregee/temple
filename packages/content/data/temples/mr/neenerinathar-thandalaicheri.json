@@ -1,29 +1,36 @@
 {
   "id": "neenerinathar-thandalaicheri",
   "locale": "mr",
+  "name": "नीनेरिनाथर मंदिर, तिरुत्तंडलैनीणेरी (तंडलैचेरी)",
   "nativeName": "திருத்தண்டலைநீள்நெறி நீணெறிநாதர் கோயில்",
+  "deity": "नीनेरिनाथर रूपातील शिव, देवी ज्ञानांबिका यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळ",
   "location": {
-    "city": "Thandalaicherry, near Thiruthuraipoondi",
-    "state": "Tamil Nadu",
+    "city": "तंडलैचेरी, तिरुत्तुरैपूंडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.56,
     "lng": 79.63
   },
+  "period": "तेवारम काळ (७व्या शतकात गायिलेले); नंतरचे चोळ रचनात्मक मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तेवारममधील तिरुत्तंडलैनीणेरी असलेले तंडलैचेरी, तिरुत्तुरैपूंडीजवळ, शिवाचा नीनेरिनाथर रूपात आणि देवी ज्ञानांबिकेसह गौरव करते. तिरुज्ञान संबंधर यांनी गायिलेले हे पाडल पेट्र स्थळ, त्रेसष्ट नायन्मारांपैकी एक असलेल्या अरिवाट्टाय नायनार यांचे जन्मस्थान म्हणून पूज्य आहे, ज्यांनी शिवाला अखंडपणे अर्पण केलेले अन्न ही शैव कथांमधील सर्वांत हृदयस्पर्शी कथांपैकी एक आहे.",
   "sections": {
-    "history": "Thandalaicherry, whose Tevaram name is Tiruthandalaineeneri, lies about 3–4 km north of Thiruthuraipoondi on the road toward Tiruvarur, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted among the Shiva shrines on the southern bank of the Kaveri. The village is cherished as the birthplace of Arivattaya Nayanar, one of the sixty-three Nayanmars. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Neenerinathar in the sanctum, with the goddess Gnanambikai — 'mother of wisdom' — in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the kurundham, and the sacred tank is the Omaka Theertham. The temple keeps the simple, well-ordered plan of the smaller Kaveri-bank sanctuaries.",
-    "legends": "The village is above all the birthplace of Arivattaya Nayanar, a devotee who prepared cooked rice each day as an offering and carried it to the lord. One day, worn by age and the long path, he stumbled and the offering spilled; in anguish that his service had failed, he raised his sickle to end his life — and Shiva, moved by his devotion, stayed his hand and received the offering, taking him into grace. The goddess Gnanambikai, mother of wisdom, presides beside Neenerinathar, keeping this a shrine of steadfast, selfless devotion.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), the festival of Arivattaya Nayanar, Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims honouring the sixty-three Nayanmars include Thandalaicherry among their stops.",
-    "experience": "At Thandalaicherry the pilgrim comes to the home of Arivattaya Nayanar, whose love fed the lord each day. Before Neenerinathar and Gnanambikai, beside the Omaka Theertham, the visitor feels the tenderness of a shrine where devotion was so steadfast that Shiva himself would not let it fail."
+    "history": "तंडलैचेरी, ज्याचे तेवारमकालीन नाव तिरुत्तंडलैनीणेरी आहे, तिरुवारूर जिल्ह्यात तिरुत्तुरैपूंडीच्या सुमारे ३–४ कि.मी. उत्तरेस तिरुवारूरच्या दिशेने जाणाऱ्या रस्त्यावर आहे. हे एक पाडल पेट्र स्थळ आहे, ज्याचे तेवारममध्ये तिरुज्ञान संबंधर यांनी गायन केले, आणि कावेरीच्या दक्षिण तीरावरील शिव गर्भगृहांमध्ये त्याची गणना होते. हे गाव त्रेसष्ट नायन्मारांपैकी एक असलेल्या अरिवाट्टाय नायनार यांचे जन्मस्थान म्हणून प्रिय आहे. दगडी मंदिर चोळ काळातील आणि त्यानंतरचे आहे.",
+    "architecture": "द्रविड शैलीचे त्रिभुज-प्रदेशातील मंदिर असून, गर्भगृहात नीनेरिनाथर प्रतिष्ठित आहेत, आणि देवी ज्ञानांबिका — 'ज्ञानाची माता' — स्वतःच्या गर्भगृहात आहेत; तसेच नंदी आणि परिवार देवता आहेत. स्थलवृक्ष कुरुंदम आहे, आणि पवित्र तलाव ओमक तीर्थम आहे. मंदिर कावेरीकाठच्या लहान गर्भगृहांची साधी, सुव्यवस्थित रचना राखते.",
+    "legends": "हे गाव सर्वांत आधी अरिवाट्टाय नायनार यांचे जन्मस्थान आहे, जे भक्त दररोज शिजवलेला भात अर्पण म्हणून तयार करून प्रभूंकडे नेत असत. एके दिवशी वय आणि लांबच्या वाटेने थकलेले असताना ते अडखळले आणि अर्पण सांडले; आपली सेवा अपुरी राहिल्याच्या वेदनेने त्यांनी स्वतःचे जीवन संपवण्यासाठी विळा उगारला — आणि शिवाने, त्यांच्या भक्तीने द्रवून, त्यांचा हात थांबवला आणि अर्पण स्वीकारले, व त्यांना कृपेत सामावून घेतले. ज्ञानाची माता देवी ज्ञानांबिका नीनेरिनाथरांच्या शेजारी विराजमान आहे, आणि हे गर्भगृह अखंड, निःस्वार्थ भक्तीचे स्थान राहिले आहे.",
+    "festivals": "मंदिरात माशी (फेब्रुवारी–मार्च) मधील महाशिवरात्री, अरिवाट्टाय नायनार यांचा उत्सव, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मधील नवरात्री आणि कार्तिगैचे सोमवार प्रदोष पूजेसह पाळले जातात. त्रेसष्ट नायन्मारांना आदरांजली वाहणारे यात्रेकरू तंडलैचेरीचा आपल्या थांब्यांमध्ये समावेश करतात.",
+    "experience": "तंडलैचेरी येथे यात्रेकरू अरिवाट्टाय नायनार यांच्या घरी येतो, ज्यांच्या प्रेमाने दररोज प्रभूंना अन्न दिले. ओमक तीर्थमच्या काठी नीनेरिनाथर आणि ज्ञानांबिकेसमोर उभे राहताना, ज्या गर्भगृहात भक्ती इतकी अखंड होती की स्वतः शिवाने ती अपयशी होऊ दिली नाही, तेथील कोमलता अभ्यागताला जाणवते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thandalaicherry is about 3–4 km north of Thiruthuraipoondi on the road toward Tiruvarur, in Tiruvarur district (Velur post, PIN 614715). Thiruthuraipoondi is the nearest rail head, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे; वेळांची स्थानिक पातळीवर खात्री करून घ्या, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गात छायाचित्रण सामान्यतः परवानगीयोग्य आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तंडलैचेरी तिरुवारूर जिल्ह्यात, तिरुत्तुरैपूंडीच्या सुमारे ३–४ कि.मी. उत्तरेस, तिरुवारूरच्या दिशेने जाणाऱ्या रस्त्यावर आहे (वेलूर टपाल कार्यालय, पिन ६१४७१५). तिरुत्तुरैपूंडी हे जवळचे रेल्वे स्थानक असून गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
   }
 }

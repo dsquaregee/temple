@@ -1,30 +1,37 @@
 {
   "id": "navamohana-krishna-gokul",
   "locale": "mr",
+  "name": "नवमोहन कृष्ण मंदिर, गोकुळ (तिरुवैपाडी)",
   "nativeName": "नवमोहन कृष्ण मंदिर, गोकुल",
+  "deity": "विष्णू नवमोहन कृष्ण रूपात, रुक्मिणी व सत्यभामा यांच्यासह — उभ्या मुद्रेत; प्रभू नंदगोपनांना प्रकट झाले असे सांगितले जाते",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Gokul (Thiruvaipadi)",
-    "state": "Uttar Pradesh",
+    "city": "गोकुळ (तिरुवैपाडी)",
+    "state": "उत्तर प्रदेश",
     "lat": 27.45,
     "lng": 77.717
   },
+  "period": "यमुनेकाठचे वडनाडूमधील दिव्य देश, नालायिर दिव्य प्रबंधममध्ये पेरियाळवार, आंडाळ आणि तिरुमंगै आळवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "ब्रज परंपरा (सध्याचे मंदिर नंतरच्या काळातील)",
+  "style": "उत्तर भारतीय",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "कृष्णाच्या बालपणाचे गोपग्राम असलेल्या यमुनेकाठच्या गोकुळात विष्णूची नवमोहन कृष्ण म्हणून पूजा होते — तिरुवैपाडी, पेरियाळवार, आंडाळ आणि तिरुमंगै आळवार यांच्या २२ पासुरमांचा दिव्य देश.",
   "sections": {
-    "history": "Gokul, about 15 km south-east of Mathura on the Yamuna, is the Thiruvaipadi of the Alvars, one of the 108 Divya Desams and a place of Vada Nadu, the northern country. Three Alvars sang it in the Nalayira Divya Prabandham, together offering 22 pasurams: Periyalvar ten, Andal five and Thirumangai Alvar seven. The temple the Alvars praised, and its images, no longer exist, and the present temple is of a later date. Sri Vaishnavas worship the lord here as Navamohana Krishna, standing with Rukmini and Satyabhama, and remember that he appeared to Nandagopan. A separate shrine at Purana Gokul nearby is associated with Nandagopa, Yashoda and Balarama.",
-    "architecture": "The present temple at Gokul is of a later date than the Alvars' time, and the sanctum is remembered through the tradition's names: the vimana is the Hemakoota Vimana, and the sacred water is the Yamuna, with a tank to the west of the temple running parallel to the river. The lord stands as Navamohana Krishna with Rukmini and Satyabhama. The riverside village, quiet and low-built, is part of the shrine's character.",
-    "legends": "Gokul, called Ayarpadi in the Tamil of the Alvars, is the cowherd settlement where Vasudeva carried the newborn Krishna across the Yamuna to Nanda and Yashoda. Here Krishna's childhood unfolded: the butter stolen from the pots and the demoness Putana who came to harm the child. Periyalvar's verses on Krishna's infancy are set in Ayarpadi, and it was in the manner of a mother singing to her child that he praised the lord. Nandagopan is remembered as the one to whom the lord appeared.",
-    "festivals": "Krishna Janmashtami and Nandotsav, the festival of Nanda's joy on the day after, are the great days at Gokul, kept with song and processions through the village. Sri Vaishnava pilgrims also observe Vaikunta Ekadashi. Confirm festival dates and arrangements locally.",
-    "experience": "Gokul is a village visit rather than a grand temple tour: walk its lanes, sit by the Yamuna and recall Periyalvar's verses on the child Krishna. If time allows, visit the shrine of Nandagopa, Yashoda and Balarama at Purana Gokul, and continue to Mathura nearby."
+    "history": "यमुनेवरील मथुरेच्या सुमारे १५ किमी आग्नेयेस असलेले गोकुळ हे आळवारांचे तिरुवैपाडी आहे — १०८ दिव्य देशांपैकी एक आणि उत्तरेकडील प्रदेश वडनाडूमधील क्षेत्र. तीन आळवारांनी नालायिर दिव्य प्रबंधममध्ये त्याचे गायन केले असून एकूण २२ पासुरम अर्पण केले आहेत: पेरियाळवार दहा, आंडाळ पाच आणि तिरुमंगै आळवार सात. आळवारांनी स्तुती केलेले मंदिर आणि त्याच्या मूर्ती आज अस्तित्वात नाहीत; सध्याचे मंदिर नंतरच्या काळातील आहे. श्रीवैष्णव येथे प्रभूची नवमोहन कृष्ण म्हणून पूजा करतात — रुक्मिणी व सत्यभामा यांच्यासह उभे — आणि तो नंदगोपनांना प्रकट झाला असे स्मरतात. जवळील पुराण गोकुळ येथील वेगळे मंदिर नंदगोप, यशोदा आणि बलराम यांच्याशी निगडित आहे.",
+    "architecture": "गोकुळातील सध्याचे मंदिर आळवारांच्या काळानंतरचे आहे, आणि गर्भगृह परंपरेतील नावांतून स्मरले जाते: विमान हेमकूट विमान आहे, पवित्र जल यमुना आहे, आणि मंदिराच्या पश्चिमेस नदीला समांतर असा तलाव आहे. प्रभू नवमोहन कृष्ण म्हणून रुक्मिणी व सत्यभामा यांच्यासह उभे आहेत. नदीकाठचे, शांत आणि बैठ्या बांधणीचे गाव हा या क्षेत्राच्या स्वभावाचा भाग आहे.",
+    "legends": "गोकुळ, आळवारांच्या तमिळमध्ये आयर्पाडी म्हणून ओळखले जाणारे, हे ते गोपवस्ती आहे जेथे वसुदेवांनी नवजात कृष्णाला यमुना ओलांडून नंद व यशोदेकडे नेले. येथेच कृष्णाचे बालपण उलगडले: मडक्यांतून चोरलेले लोणी आणि बालकाला हानी पोहोचवायला आलेली राक्षसी पूतना. कृष्णाच्या बाललीलांवरील पेरियाळवारांची पदे आयर्पाडीत रचलेली आहेत, आणि बाळाला गाऊन दाखवणाऱ्या मातेच्या भावनेनेच त्यांनी प्रभूची स्तुती केली. नंदगोपन हे ज्यांना प्रभू प्रकट झाले ते म्हणून स्मरले जातात.",
+    "festivals": "कृष्ण जन्माष्टमी आणि नंदोत्सव — दुसऱ्या दिवशी साजरा होणारा नंदाच्या आनंदाचा उत्सव — हे गोकुळातील महान दिवस आहेत; गाणी आणि गावातून निघणाऱ्या मिरवणुकांनी ते साजरे होतात. श्रीवैष्णव यात्रेकरू वैकुंठ एकादशीही पाळतात. उत्सवांच्या तारखा व व्यवस्था स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "गोकुळ म्हणजे भव्य मंदिर-दर्शन नव्हे तर गावाची भेट आहे: तेथील गल्ल्यांतून फिरा, यमुनेकाठी बसा आणि बाल कृष्णावरील पेरियाळवारांच्या पदांचे स्मरण करा. वेळ असल्यास पुराण गोकुळातील नंदगोप, यशोदा आणि बलराम यांच्या मंदिरास भेट द्या आणि जवळच्या मथुरेकडे पुढे जा."
   },
   "visit": {
-    "timings": "The temple opens daily for morning and evening darshan, with a midday closure. Janmashtami and Nandotsav are extremely busy. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Gokul lies on the Yamuna about 15 km south-east of Mathura, in Mathura district, Uttar Pradesh. Mathura is the nearest major railway junction, and the village is reached from there by road."
+    "timings": "मंदिर दररोज सकाळ व संध्याकाळच्या दर्शनासाठी उघडते, दुपारी बंद असते. जन्माष्टमी व नंदोत्सवाला अत्यंत गर्दी असते. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात व त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "गोकुळ यमुनेकाठी, उत्तर प्रदेशातील मथुरा जिल्ह्यात, मथुरेच्या सुमारे १५ किमी आग्नेयेस आहे. मथुरा हे सर्वांत जवळचे प्रमुख रेल्वे जंक्शन आहे, आणि तेथून गावाला रस्त्याने जाता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",

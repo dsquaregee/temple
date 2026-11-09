@@ -1,29 +1,36 @@
 {
   "id": "nellivananathar-tirunellikka",
   "locale": "mr",
+  "name": "नेल्लिवननाथर मंदिर, तिरुनेल्लिक्का",
   "nativeName": "திருநெல்லிக்கா நெல்லிவனநாதர் கோயில்",
+  "deity": "नेल्लिवननाथर (अमलवनेश्वर, आवळ्याच्या वनाचे स्वामी) रूपातील शिव, देवी मंगलनायकी (अमलकेश्वरी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळ",
   "location": {
-    "city": "Tirunellikka, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "तिरुनेल्लिक्का, तिरुवारूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.69,
     "lng": 79.7
   },
+  "period": "तेवारम काळ (७व्या शतकात गायिलेले); नंतरचे चोळ रचनात्मक मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूरजवळील तिरुनेल्लिक्का शिवाचा नेल्लिवननाथर — आवळ्याच्या (नेल्लि) वनाचे स्वामी — म्हणून आणि देवी मंगलनायकीसह गौरव करते. तिरुज्ञान संबंधर यांनी गायिलेल्या या पाडल पेट्र स्थळाची कथा सांगते की दुर्वासांनी शाप दिल्याने स्वर्गीय वृक्ष येथे नेल्लि झाडे म्हणून जन्मले, आणि पवित्र आवळ्याचा गौरव करण्यासाठी शिव त्यांच्यामध्ये स्वयंभू लिंग म्हणून राहिले.",
   "sections": {
-    "history": "Tirunellikka lies about 17 km from Tiruvarur (some 23 km from Mannargudi) in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted as the shrine on the southern bank of the Kaveri. The lord here is Nellivananathar, 'lord of the gooseberry forest,' and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Nellivananathar — in Sanskrit Amlavaneswarar — in the sanctum, with the goddess Mangalanayaki, also called Amlakeswari, in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the nelli (amla, the Indian gooseberry), the fruit dear to Shiva, and the sacred tanks are the Brahma and Surya theerthams.",
-    "legends": "The sthala purana tells that trees of the Devaloka were cursed by the sage Durvasa to be born on earth as nelli (gooseberry) trees, and here they stood as a grove; honouring the sacred nelli, Shiva remained among them as a swayambhu, self-manifest, lingam. By tradition Durvasa, famed for his anger, also worshipped here and was blessed to overcome his wrath. So the shrine joins the humble, healing gooseberry to the grace that calms even the fiercest temper.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail near Tiruvarur include Tirunellikka among their stops.",
-    "experience": "At Tirunellikka the pilgrim comes to a gooseberry-forest shrine where the self-manifest lord honours the humble, healing fruit. Before Nellivananathar and Mangalanayaki, amid the memory of celestial trees and the calming of Durvasa's anger, the visitor finds the quiet, restoring grace of a Tevaram temple of the Tiruvarur country."
+    "history": "तिरुनेल्लिक्का तिरुवारूर जिल्ह्यात तिरुवारूरपासून सुमारे १७ कि.मी. (मन्नारगुडीपासून सुमारे २३ कि.मी.) अंतरावर आहे. हे एक पाडल पेट्र स्थळ आहे, ज्याचे तेवारममध्ये तिरुज्ञान संबंधर यांनी गायन केले, आणि कावेरीच्या दक्षिण तीरावरील गर्भगृह म्हणून त्याची गणना होते. येथील प्रभू नेल्लिवननाथर, 'आवळ्याच्या वनाचे स्वामी' आहेत, आणि दगडी मंदिर चोळ काळातील आणि त्यानंतरचे आहे.",
+    "architecture": "द्रविड शैलीचे त्रिभुज-प्रदेशातील मंदिर असून, गर्भगृहात नेल्लिवननाथर — संस्कृतमध्ये अमलवनेश्वर — प्रतिष्ठित आहेत, आणि देवी मंगलनायकी, जिला अमलकेश्वरीही म्हणतात, स्वतःच्या गर्भगृहात आहे; तसेच नंदी आणि परिवार देवता आहेत. स्थलवृक्ष नेल्लि (आमला, भारतीय आवळा) आहे, शिवाला प्रिय असलेले फळ, आणि पवित्र तलाव ब्रह्म आणि सूर्य तीर्थम् आहेत.",
+    "legends": "स्थलपुराण सांगते की देवलोकातील वृक्षांना ऋषी दुर्वासांनी पृथ्वीवर नेल्लि (आवळा) झाडे म्हणून जन्म घेण्याचा शाप दिला, आणि ती येथे वन म्हणून उभी राहिली; पवित्र नेल्लिचा गौरव करण्यासाठी शिव त्यांच्यामध्ये स्वयंभू, म्हणजे स्वतः प्रकट झालेल्या, लिंगाच्या रूपात राहिले. परंपरेनुसार रागासाठी प्रसिद्ध असलेल्या दुर्वासांनी येथे पूजा केली आणि आपल्या क्रोधावर विजय मिळवण्याचा आशीर्वाद त्यांना लाभला. अशा प्रकारे हे गर्भगृह नम्र, आरोग्यदायी आवळ्याला अत्यंत उग्र स्वभावालाही शांत करणाऱ्या कृपेशी जोडते.",
+    "festivals": "मंदिरात माशी (फेब्रुवारी–मार्च) मधील महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मधील नवरात्री आणि कार्तिगैचे सोमवार प्रदोष पूजेसह, खेडेगावातील गर्भगृहाच्या शांत प्रमाणात पाळले जातात. तिरुवारूरजवळील पाडल पेट्र मार्गावरील यात्रेकरू तिरुनेल्लिक्काचा आपल्या थांब्यांमध्ये समावेश करतात.",
+    "experience": "तिरुनेल्लिक्का येथे यात्रेकरू आवळ्याच्या वनातील अशा गर्भगृहात येतो जेथे स्वयंभू प्रभू नम्र, आरोग्यदायी फळाचा गौरव करतात. नेल्लिवननाथर आणि मंगलनायकीसमोर, स्वर्गीय वृक्षांच्या स्मृतीत आणि दुर्वासांच्या क्रोधाच्या शमनात, अभ्यागताला तिरुवारूर प्रदेशातील तेवारम मंदिराची शांत, पुनरुज्जीवन करणारी कृपा लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirunellikka is about 17 km from Tiruvarur and 23 km from Mannargudi, in Tiruvarur district (PIN 610205). Tiruvarur is the nearest rail head, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे; वेळांची स्थानिक पातळीवर खात्री करून घ्या, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गात छायाचित्रण सामान्यतः परवानगीयोग्य आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुनेल्लिक्का तिरुवारूर जिल्ह्यात तिरुवारूरपासून सुमारे १७ कि.मी. आणि मन्नारगुडीपासून २३ कि.मी. अंतरावर आहे (पिन ६१०२०५). तिरुवारूर हे जवळचे रेल्वे स्थानक असून गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
   }
 }
