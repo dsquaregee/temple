@@ -1,30 +1,37 @@
 {
   "id": "mahakuta-temples",
   "locale": "mr",
+  "name": "महाकूट मंदिरे (महाकूटेश्वर), बदामीजवळ",
   "nativeName": "ಮಹಾಕೂಟ ದೇವಾಲಯಗಳು (ಮಹಾಕೂಟೇಶ್ವರ)",
+  "deity": "महाकूटेश्वर रूपातील शिव, मल्लिकार्जुन मंदिर आणि अनेक लहान मंदिरांसह",
+  "tradition": "शैव मत",
   "location": {
-    "city": "Mahakuta",
-    "state": "Karnataka",
+    "city": "महाकूट",
+    "state": "कर्नाटक",
     "lat": 15.9328,
     "lng": 75.7217
   },
+  "period": "प्रारंभिक चालुक्य, इसवी सन सहावे–सातवे शतक, मंडपातील नंतरच्या शिलालेखासह",
   "century": 7,
+  "dynasty": "बदामीचे चालुक्य",
+  "style": "प्रारंभिक चालुक्य द्रविड",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "बदामी रस्त्यापासून दूर असलेल्या शांत खोऱ्यात, झऱ्याने भरणाऱ्या तळ्याभोवती वसलेला महाकूट हा प्रारंभिक चालुक्य शिवमंदिरांचा समूह — ज्याच्या मध्यभागी महाकूटेश्वर आणि मल्लिकार्जुन आहेत — प्रदेशातील सर्वांत शांत स्थळांपैकी एक आहे.",
   "sections": {
-    "history": "Mahakuta is a village about 15 km from Badami, where a cluster of early Chalukya temples, assigned to the sixth and seventh centuries, gathers around a sacred pool. The dating rests on the style, which is close to that of Aihole, and on inscriptions found here. A pillar inscription of about 595 to 602 CE, in Sanskrit written in the Kannada script, was recorded at Mahakuta; the pillar itself is now kept in Vijayapura, and its original position is uncertain. Another inscription, the Vinapoti, is cut into the porch of the Mahakuteshwara temple and is placed in the late seventh or early eighth century. The two largest shrines, Mahakuteshwara and Mallikarjuna, stand among a crowd of smaller ones, all dedicated to Shiva.",
-    "architecture": "Mahakuteshwara is the main shrine, a Dravida temple, and Mallikarjuna stands on the far side of the complex, also Dravida in form. Around them are many smaller shrines of the same early style. At the heart of the group lies the Vishnu Pushkarini, a large tank also called Kashi Tirtha, fed by a natural spring that flows within the complex. A small shrine at the centre of the tank houses a five-faced Shiva linga. The temples are set on either side of the water, so the group reads as a single composition of shrine, spring and stone.",
-    "legends": "Tradition attributes the pond to the sage Agastya, whose name clings to many waters of the Badami country. The tank is also called Kashi Tirtha, a name that echoes the sanctity of Kashi and brings it to this quiet valley. The five-faced linga that rises at its centre recalls Shiva’s five faces, the Panchamukha form. Beyond these traditions, Mahakuta’s own story is told by its inscriptions and by the long devotion that has kept its spring and shrines in use.",
-    "festivals": "Maha Shivaratri is the most important observance at Mahakuta, and village fairs gather around the shrines on festival days; confirm dates locally. The spring-fed tank is the centre of any gathering here, and the group is often included in the regional Chalukya heritage celebrations of the Badami area.",
-    "experience": "Arrive early, when the valley is still and the water of the Vishnu Pushkarini lies glassy. Walk the rim of the tank, find the small central shrine, then step into Mahakuteshwara to see the porch where the Vinapoti inscription is cut. The sound of flowing spring water and the drift of village life make this a more contemplative stop than the busier sites nearby. Many visitors combine it with Badami and Banashankari in a single day."
+    "history": "महाकूट हे बदामीपासून सुमारे १५ किमी अंतरावरील गाव आहे, जेथे सहाव्या आणि सातव्या शतकातील मानल्या जाणाऱ्या प्रारंभिक चालुक्य मंदिरांचा समूह एका पवित्र कुंडाभोवती एकत्र आला आहे. कालनिर्णय शैलीवर आधारित आहे, जी ऐहोळेच्या शैलीच्या जवळ आहे, आणि येथे सापडलेल्या शिलालेखांवरही. सुमारे इसवी सन ५९५ ते ६०२ मधील, कन्नड लिपीत लिहिलेल्या संस्कृतातील एक स्तंभलेख महाकूट येथे नोंदवला गेला; तो स्तंभ आता विजयपुरा येथे ठेवला आहे आणि त्याचे मूळ स्थान अनिश्चित आहे. विनापोटी हा आणखी एक शिलालेख महाकूटेश्वर मंदिराच्या मंडपात कोरलेला असून सातव्या शतकाच्या उत्तरार्धातील किंवा आठव्या शतकाच्या सुरुवातीचा मानला जातो. दोन सर्वांत मोठी मंदिरे, महाकूटेश्वर आणि मल्लिकार्जुन, अनेक लहान मंदिरांच्या गर्दीत उभी आहेत; ती सर्व शिवाला समर्पित आहेत.",
+    "architecture": "महाकूटेश्वर हे मुख्य मंदिर असून द्रविड प्रकारचे आहे, आणि मल्लिकार्जुन संकुलाच्या दुसऱ्या बाजूला उभे आहे, तेही द्रविड स्वरूपाचे. त्यांच्याभोवती त्याच प्रारंभिक शैलीची अनेक लहान मंदिरे आहेत. समूहाच्या मध्यभागी विष्णू पुष्करिणी हे मोठे तळे आहे, ज्याला काशी तीर्थ असेही म्हणतात; ते संकुलात वाहणाऱ्या नैसर्गिक झऱ्याने भरते. तळ्याच्या मध्यभागी असलेल्या एका लहान मंदिरात पंचमुखी शिवलिंग आहे. मंदिरे पाण्याच्या दोन्ही बाजूंना वसलेली असल्याने हा समूह मंदिर, झरा आणि दगड यांची एकच रचना म्हणून दिसतो.",
+    "legends": "परंपरा हे तळे अगस्त्य ऋषींच्या नावे सांगते, ज्यांचे नाव बदामी प्रदेशातील अनेक जलाशयांना चिकटलेले आहे. तळ्याला काशी तीर्थ असेही म्हणतात, हे नाव काशीच्या पावित्र्याचा प्रतिध्वनी करते आणि ते या शांत खोऱ्यात आणते. त्याच्या मध्यभागी उगवणारे पंचमुखी लिंग शिवाच्या पाच मुखांचे, पंचमुख रूपाचे, स्मरण करवते. या परंपरांपलीकडे, महाकूटाची स्वतःची कथा त्याचे शिलालेख आणि त्याचा झरा व मंदिरे वापरात ठेवणारी दीर्घकालीन भक्ती सांगतात.",
+    "festivals": "महाशिवरात्री हे महाकूट येथील सर्वात महत्त्वाचे पर्व आहे, आणि उत्सवाच्या दिवशी मंदिरांभोवती गावच्या जत्रा भरतात; तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात. झऱ्याने भरणारे तळे येथील प्रत्येक मेळाव्याचे केंद्र असते, आणि हा समूह बदामी परिसरातील प्रादेशिक चालुक्य वारसा उत्सवांमध्येही अनेकदा समाविष्ट केला जातो.",
+    "experience": "लवकर या, जेव्हा खोरे अजून शांत असते आणि विष्णू पुष्करिणीचे पाणी आरशासारखे स्थिर असते. तळ्याच्या काठाने चाला, मध्यभागीचे लहान मंदिर शोधा, मग महाकूटेश्वरात पाऊल टाका आणि विनापोटी शिलालेख कोरलेला मंडप पाहा. वाहत्या झऱ्याचा आवाज आणि गावच्या जीवनाचा संथ प्रवाह यांमुळे हे जवळच्या अधिक गजबजलेल्या स्थळांपेक्षा अधिक चिंतनशील थांबा ठरतो. अनेक पर्यटक हे बदामी आणि बनशंकरीसह एकाच दिवसात पाहतात."
   },
   "visit": {
-    "timings": "The temples are open in daytime; the active shrines may keep their own worship hours. Confirm timings and any fees locally.",
-    "dressCode": "Modest dress is appropriate, and footwear is left outside the shrines; the stones around the tank can be wet and slippery.",
-    "photography": "Photography is generally fine around the tank and temple exteriors; ask before photographing inside shrines or worshippers.",
-    "gettingThere": "Mahakuta is in Bagalkot district, about 15 km from Badami by road, off the route between Badami and Pattadakal. Badami has the nearest railway station, and the nearest airport is Hubballi. Autos and taxis from Badami cover the short drive."
+    "timings": "मंदिरे दिवसा खुली असतात; कार्यरत मंदिरांच्या उपासनेच्या वेळा स्वतंत्र असू शकतात. वेळा आणि कोणतेही शुल्क स्थानिक पातळीवर खात्री करून घ्यावे.",
+    "dressCode": "सभ्य पोशाख योग्य आहे, आणि पादत्राणे मंदिरांबाहेर काढली जातात; तळ्याभोवतीचे दगड ओले आणि निसरडे असू शकतात.",
+    "photography": "तळ्याभोवती आणि मंदिरांच्या बाह्य भागात छायाचित्रणास सहसा हरकत नसते; मंदिरांच्या आत किंवा भाविकांचे छायाचित्रण करण्यापूर्वी विचारावे.",
+    "gettingThere": "महाकूट बागलकोट जिल्ह्यात असून बदामीपासून रस्त्याने सुमारे १५ किमी अंतरावर, बदामी आणि पट्टदकल यांच्यामधील मार्गापासून थोडे आत आहे. सर्वात जवळचे रेल्वे स्थानक बदामी येथे आहे, आणि सर्वात जवळचे विमानतळ हुबळी आहे. बदामीहून रिक्षा आणि टॅक्सी या लहानशा प्रवासाला उपलब्ध असतात."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/mahakuta-temples.jpg",

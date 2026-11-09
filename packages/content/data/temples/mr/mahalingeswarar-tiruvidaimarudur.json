@@ -1,30 +1,37 @@
 {
   "id": "mahalingeswarar-tiruvidaimarudur",
   "locale": "mr",
+  "name": "महालिंगेश्वर मंदिर, तिरुविदैमरुदूर",
   "nativeName": "திருவிடைமருதூர் மகாலிங்கேஸ்வரர் கோயில்",
+  "deity": "महालिंगेश्वर (तेजोमय ज्योतिर्मय लिंग) रूपातील शिव, देवी बृहत्सुंदरकुजांबिकेसह",
+  "tradition": "शैव — पाडल पेट्र स्थळ, मरुदूरमधील मध्यवर्ती मंदिर",
   "location": {
-    "city": "Tiruvidaimarudur, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "तिरुविदैमरुदूर, कुंभकोणमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9908,
     "lng": 79.4486
   },
+  "period": "तेवारम काळ; चोळ, विजयनगर व नायक कालखंडांसह",
   "century": 9,
+  "dynasty": "चोळ, तसेच विजयनगर व तंजावूरचे नायक",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमपासून थोड्या अंतरावरील तिरुविदैमरुदूर हे कावेरी त्रिभुज-प्रदेशातील एक महान शिवमंदिर आहे. येथे शिवाची पूजा महालिंगेश्वर रूपात होते — शुद्ध प्रकाशाचे रूप मानले जाणारे लिंग — आणि पवित्र मरुद वृक्षावरून नाव मिळालेल्या तीन 'मरुदूर' मंदिरांपैकी मध्यवर्ती म्हणून हे नगर मध्यार्जुन नावाने ओळखले जाते. तेवारममध्ये गायिलेले पाडल पेट्र स्थळ असलेले हे उंच प्रवेशद्वारे, रुंद प्रदक्षिणा-मार्ग आणि अनेक पवित्र तळ्यांनी युक्त असे विशाल तटबंदीयुक्त मंदिर-संकुल आहे; तमिळ प्रदेशातील अत्यंत महत्त्वाच्या शैव केंद्रांमध्ये ते फार पूर्वीपासून गणले जाते.",
   "sections": {
-    "history": "Tiruvidaimarudur has been a leading Shaiva centre since early medieval times, revered in the seventh-century Tevaram and enriched by successive dynasties. The oldest parts of the stone temple belong to the Chola period, from around the ninth century; the renowned second precinct was built in the Vijayanagara era, and the great gateway towers were raised up to the time of the Thanjavur Nayaks in the sixteenth century. Numerous inscriptions record the endowments of these rulers, marking the temple's standing across many centuries.",
-    "architecture": "The temple is one of the largest in the delta, laid out on a grand Dravidian plan with four gopurams and three broad concentric prakaras. The sanctum houses the lingam of Mahalingeswarar, worshipped as a form of radiant light. The goddess Brihatsundarakujambika has her own shrine, and the complex also holds a notable Mookambika shrine built in a northern style. The temple is famous for its many theerthams — some thirty-five sacred tanks are associated with it, of which Karunyamritha Tirtham is the best known.",
-    "legends": "The town's name Madhyarjuna — the central arjuna, or marudha — places it at the heart of a trio of Marudur temples, with Tiruppudaimarudur in the south and another in the north. The most celebrated legend is that of a Pandya king, often named Varaguna, who was pursued by the sin of a Brahmin's death and found release through the grace of the lord here, a story that made the temple a place of expiation and liberation. The sanctity of the marudha tree and of the many tirthas deepens its reputation as a kshetra of great purifying power.",
-    "festivals": "The temple keeps a full festival calendar, with the annual Brahmotsavam, Maha Shivaratri, the Margazhi observances and Pradosham drawing large crowds. Processions move along the broad streets that frame the complex, and the goddess's festivals are observed with their own grandeur. The scale of the temple allows for the great car festival and the many-day utsavams characteristic of the major delta shrines.",
-    "experience": "Entering Tiruvidaimarudur is to pass through gateway after gateway into widening courtyards, a progression that gives the pilgrimage a sense of depth and arrival. The vast prakaras, the light-filled sanctum of Mahalingeswarar and the many tirthas reward unhurried circumambulation. For devotees it is a temple of release and renewal, its antiquity and scale carrying a quiet authority."
+    "history": "तिरुविदैमरुदूर हे प्रारंभिक मध्ययुगापासून एक प्रमुख शैव केंद्र आहे; सातव्या शतकातील तेवारममध्ये त्याचा गौरव झाला आणि पुढील राजवंशांनी त्याला समृद्ध केले. दगडी मंदिराचे सर्वांत जुने भाग इसवी सनाच्या सुमारे नवव्या शतकातील चोळ काळातील आहेत; प्रसिद्ध दुसरे प्राकार विजयनगर काळात बांधले गेले, आणि भव्य गोपुरे सोळाव्या शतकातील तंजावूरच्या नायकांच्या काळापर्यंत उभारली गेली. अनेक शिलालेखांत या राजांनी दिलेल्या दानांची नोंद आहे, जी अनेक शतके मंदिराचे स्थान अधोरेखित करतात.",
+    "architecture": "हे मंदिर त्रिभुज-प्रदेशातील सर्वांत मोठ्या मंदिरांपैकी एक असून भव्य द्रविड आराखड्यावर चार गोपुरे आणि तीन रुंद संकेंद्री प्राकारांसह रचलेले आहे. गर्भगृहात महालिंगेश्वराचे लिंग आहे, ज्याची पूजा तेजोमय प्रकाशाचे रूप म्हणून केली जाते. देवी बृहत्सुंदरकुजांबिकेचे स्वतंत्र मंदिर आहे, आणि संकुलात उत्तरेकडील शैलीत बांधलेले एक उल्लेखनीय मूकांबिका मंदिरही आहे. हे मंदिर आपल्या अनेक तीर्थांसाठी प्रसिद्ध आहे — सुमारे पस्तीस पवित्र तळी त्याच्याशी निगडित आहेत, त्यांपैकी कारुण्यामृत तीर्थ सर्वांत प्रसिद्ध आहे.",
+    "legends": "गावाचे नाव मध्यार्जुन — म्हणजे मध्यवर्ती अर्जुन, अर्थात मरुद — हे त्याला मरुदूर मंदिरांच्या त्रिकुटाच्या केंद्रस्थानी ठेवते; दक्षिणेस तिरुप्पुडैमरुदूर आणि उत्तरेस आणखी एक. सर्वांत प्रसिद्ध कथा एका पांड्य राजाची आहे, ज्याला अनेकदा वरगुण म्हटले जाते; ब्राह्मणहत्येच्या पापाने त्याचा पाठलाग केला आणि येथील प्रभूच्या कृपेने त्याला मुक्ती मिळाली; या कथेमुळे हे मंदिर प्रायश्चित्त व मोक्षाचे स्थान बनले. मरुद वृक्षाचे आणि अनेक तीर्थांचे पावित्र्य हे अत्यंत शुद्धिकारक सामर्थ्याचे क्षेत्र म्हणून त्याची कीर्ती अधिकच वाढवते.",
+    "festivals": "मंदिरात उत्सवांचे पूर्ण वार्षिक वेळापत्रक पाळले जाते; वार्षिक ब्रह्मोत्सव, महाशिवरात्र, मार्गळी महिन्यातील व्रते आणि प्रदोषम यांसाठी मोठी गर्दी जमते. संकुलाला वेढणाऱ्या रुंद रस्त्यांवरून मिरवणुका निघतात, आणि देवीचे उत्सव स्वतःच्या वैभवाने साजरे होतात. मंदिराच्या विशालतेमुळे येथे भव्य रथोत्सव आणि त्रिभुज-प्रदेशातील प्रमुख मंदिरांचे वैशिष्ट्य असलेले अनेक दिवसांचे उत्सव शक्य होतात.",
+    "experience": "तिरुविदैमरुदूरमध्ये प्रवेश करणे म्हणजे एकामागून एक प्रवेशद्वारांतून विस्तारत जाणाऱ्या अंगणांत शिरणे होय; या क्रमामुळे तीर्थयात्रेला खोली व पोहोचल्याची भावना मिळते. विशाल प्राकार, महालिंगेश्वराचे प्रकाशमय गर्भगृह आणि अनेक तीर्थे यांच्याभोवती निवांतपणे केलेली प्रदक्षिणा समाधान देते. भाविकांसाठी हे मुक्ती व नवचैतन्याचे मंदिर आहे, ज्याची प्राचीनता व भव्यता एक शांत अधिकार बाळगते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvidaimarudur lies on the Kumbakonam–Mayiladuthurai route, about 8 km from Kumbakonam in Thanjavur district; it has its own railway station, and frequent buses and taxis connect it with Kumbakonam."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत छायाचित्रणास सामान्यतः परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुविदैमरुदूर कुंभकोणम–मयिलादुतुरै मार्गावर, तंजावूर जिल्ह्यात कुंभकोणमपासून सुमारे ८ कि.मी. अंतरावर आहे; येथे स्वतःचे रेल्वे स्थानक आहे, आणि वारंवार धावणाऱ्या बस व टॅक्सी त्याला कुंभकोणमशी जोडतात."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/mahalingeswarar-tiruvidaimarudur.jpg",

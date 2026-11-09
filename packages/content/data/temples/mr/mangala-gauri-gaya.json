@@ -1,29 +1,36 @@
 {
   "id": "mangala-gauri-gaya",
   "locale": "mr",
+  "name": "मंगला गौरी मंदिर, गया",
   "nativeName": "मंगला गौरी मंदिर",
+  "deity": "मंगला गौरी रूपातील देवी — मंगलमय गौरी, पोषणाची रक्षक",
+  "tradition": "शाक्त",
   "location": {
-    "city": "Gaya",
-    "state": "Bihar",
+    "city": "गया",
+    "state": "बिहार",
     "lat": 24.775,
     "lng": 85.002
   },
+  "period": "अष्टादश शक्तिपीठ स्तोत्रात उल्लेखिलेले प्राचीन शक्तिस्थान; सध्याचे मंदिर परंपरेनुसार पंधराव्या शतकातील मानले जाते",
   "century": 15,
+  "dynasty": "स्थानिक आश्रय; बांधणाऱ्यांविषयी ठोस नोंदी नाहीत",
+  "style": "गया प्रदेशातील उत्तर भारतीय डोंगरी मंदिर; गर्भगृहासमोर लहानसा सभामंडप",
   "unesco": false,
   "circuits": [
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "गया — पितृकर्मांच्या नगरीतील एका लहानशा टेकडीवर मंगला गौरी विराजमान आहे; येथे सतीचे स्तन पडल्याचे स्मरण केले जाते आणि देवीला पोषण व सौभाग्य देणारी माता म्हणून पूजिले जाते.",
   "sections": {
-    "history": "Mangala Gauri stands on a hill above the Falgu river at Gaya, which the tradition also knows as Bhasmakut. The Ashtadasha Shakti Peetha stotram, traditionally ascribed to Adi Shankara, names the place in the line Gayayam Mangala Gauri and counts it among the eighteen great seats of the Goddess, and tradition holds that here the breast of Sati fell to earth. The shrine is said to be mentioned in several Puranas, among them the Padma, Vayu, Agni, Devi Bhagavata and Markandeya. The temple that visitors see today is generally dated to the fifteenth century, with one source giving the year 1459, though the builders are not firmly recorded. For all that, the hill has been a place of pilgrimage for as long as Gaya has drawn visitors who come to honour their ancestors.",
-    "architecture": "The temple faces east from the summit of Mangalagauri hill and is reached by a flight of steps, with a motorable road as well. A small pillared hall stands before the sanctum, which holds the symbol of the Goddess rather than a portrait; tradition describes it as two rounded stones recalling the breasts of Sati, and some finely carved ancient reliefs are said to survive within. The compound shelters other shrines, among them Shiva, Durga, Dakshina Kali, Mahishasuramardini, Ganesha and Hanuman. From the open courtyard the view runs across the town and down to the bed of the Falgu, a reminder of why the hill was chosen for devotion.",
-    "legends": "The story belongs to Sati. When she gave up her life at her father Daksha's sacrifice and Shiva carried her body across the land in grief, Vishnu's discus parted the body so that his sorrow might ease, and the pieces fell in many places that became Shakti Peethas. At Gaya, tradition says, her breast fell. The breast is the sign of the mother who feeds, and so this Goddess is honoured as the one who nourishes and bestows well-being, the meaning of her name Mangala. The peetha also sits within the sacred geography of Gaya, a city of the Falgu river and the Akshayavat, where, in the old telling, Sita's blessing made rites for the departed endure.",
-    "festivals": "The Navratri seasons, especially Chaitra in March or April, bring the largest crowds. In the month of Shravana, women keep the Mangala Gauri vrat on Tuesdays, fasting and offering bangles, fruit and sweets to the Goddess for the welfare of their families. Gaya itself fills with pilgrims during Pitru Paksha in the autumn, when families come from across India to perform shraddha for their ancestors, and many take the opportunity to climb the hill and seek the Goddess. Confirm dates locally, as they follow the lunar calendar.",
-    "experience": "Mangala Gauri rewards a slow climb. Take the steps up the hill in the early morning, when the air is cooler and the town below is still quiet, and enter the small hall before the sanctum. Devotees offer flowers, sweets and bangles, and sit awhile in the courtyard with the view of the Falgu. Many visitors come as part of a pilgrimage to Gaya for ancestral rites and feel the visit as a gesture of thanks to the Mother who is also the giver of nourishment. On Tuesdays in Shravana the shrine is crowded with women, so a weekday outside the festival season is calmer."
+    "history": "मंगला गौरी गयेतील फल्गू नदीच्या वरच्या एका टेकडीवर वसली आहे; परंपरा या टेकडीला भस्मकूट असेही म्हणते. आदि शंकराचार्यांच्या नावे परंपरेने सांगितल्या जाणाऱ्या अष्टादश शक्तिपीठ स्तोत्रात “गयायां मंगला गौरी” या ओळीत या स्थानाचे नाव येते आणि देवीच्या अठरा महान पीठांत त्याची गणना होते; येथे सतीचे स्तन पृथ्वीवर पडले, अशी परंपरा सांगते. पद्म, वायू, अग्नी, देवीभागवत आणि मार्कंडेय अशा अनेक पुराणांत या मंदिराचा उल्लेख असल्याचे म्हटले जाते. आज दिसणारे मंदिर साधारणपणे पंधराव्या शतकातील मानले जाते; एका स्रोताने १४५९ हे वर्ष दिले आहे, तरी बांधणाऱ्यांच्या नोंदी निश्चित नाहीत. असे असले तरी, पूर्वजांचा सन्मान करण्यासाठी येणाऱ्या यात्रेकरूंना गया जोपर्यंत आकर्षित करत आले आहे, तोपर्यंत ही टेकडी तीर्थस्थान राहिली आहे.",
+    "architecture": "मंदिर मंगलागौरी टेकडीच्या शिखरावर पूर्वाभिमुख आहे; तेथे पायऱ्यांनी चढून जावे लागते आणि वाहनांसाठी रस्ताही आहे. गर्भगृहासमोर एक लहानसा स्तंभयुक्त मंडप आहे; गर्भगृहात देवीची मूर्ती नसून तिचे प्रतीक आहे — परंपरा त्याचे वर्णन सतीच्या स्तनांची आठवण करून देणारे दोन गोल पाषाण असे करते, आणि आत काही सुरेख कोरीव प्राचीन शिल्पपट्ट टिकून असल्याचे म्हटले जाते. परिसरात शिव, दुर्गा, दक्षिणकाली, महिषासुरमर्दिनी, गणेश आणि हनुमान यांसारखी इतर देवस्थानेही आहेत. खुल्या अंगणातून नजर शहरावरून फल्गूच्या पात्रापर्यंत जाते — भक्तीसाठी ही टेकडी का निवडली गेली, याची ती आठवण करून देते.",
+    "legends": "ही कथा सतीची आहे. वडील दक्षांच्या यज्ञात तिने प्राणत्याग केला, तेव्हा शोकाकुल शिव तिचे शरीर घेऊन सर्वत्र फिरले; त्यांचे दुःख हलके व्हावे म्हणून विष्णूच्या चक्राने शरीराचे विभाग केले आणि ते अनेक ठिकाणी पडले, तीच शक्तिपीठे झाली. गयेत, परंपरा सांगते, तिचे स्तन पडले. स्तन हे पोषण करणाऱ्या मातेचे चिन्ह आहे, म्हणून ही देवी पोषण करणारी आणि कल्याण देणारी म्हणून पूजिली जाते — तिच्या मंगला या नावाचा हाच अर्थ. हे पीठ गयेच्या पवित्र भूगोलातही येते — फल्गू नदी आणि अक्षयवट यांचे नगर, जेथे, जुन्या कथेनुसार, सीतेच्या आशीर्वादाने दिवंगतांसाठीचे विधी अक्षय झाले.",
+    "festivals": "नवरात्रीचे काळ, विशेषतः मार्च किंवा एप्रिलमधील चैत्र नवरात्र, सर्वाधिक गर्दी घेऊन येतात. श्रावण महिन्यात स्त्रिया मंगळवारी मंगला गौरी व्रत करतात — कुटुंबाच्या कल्याणासाठी उपवास करून देवीला बांगड्या, फळे आणि मिठाई अर्पण करतात. शरद ऋतूतील पितृपक्षात गया यात्रेकरूंनी भरून जाते; देशभरातून कुटुंबे पूर्वजांसाठी श्राद्ध करण्यास येतात आणि अनेक जण या संधीचा लाभ घेऊन टेकडी चढून देवीचे दर्शन घेतात. तारखा चांद्र दिनदर्शिकेनुसार ठरतात, म्हणून स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "मंगला गौरी हळूहळू चढून जाणाऱ्याला फळ देते. पहाटे, हवा थंड असताना आणि खालचे शहर अजून शांत असताना, टेकडीच्या पायऱ्या चढा आणि गर्भगृहासमोरच्या लहान मंडपात प्रवेश करा. भक्त फुले, मिठाई आणि बांगड्या अर्पण करतात आणि फल्गूच्या दृश्यासह अंगणात काही वेळ बसतात. अनेक यात्रेकरू गयेतील पितृकर्मांच्या यात्रेचा भाग म्हणून येतात आणि ही भेट पोषण देणाऱ्या मातेप्रती कृतज्ञतेची कृती म्हणून अनुभवतात. श्रावणातील मंगळवारी मंदिर स्त्रियांनी भरून जाते, म्हणून उत्सवकाळाबाहेरचा एखादा आठवड्याचा दिवस अधिक शांत असतो."
   },
   "visit": {
-    "timings": "Typically open daily from early morning, around 6 am, until about 8 pm; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered. Footwear is left outside before climbing to the shrine.",
-    "photography": "Photography is generally permitted in the courtyard and on the hill but not inside the sanctum. Ask temple staff before photographing rituals, priests or other devotees.",
-    "gettingThere": "The temple is on Mangalagauri hill in Gaya, Bihar, close to the Falgu river and the town centre. Gaya Junction is the main railway station, and Gaya International Airport is the nearest airport. Taxis and local transport serve the hill, which has a motorable road as well as a flight of steps."
+    "timings": "साधारणपणे दररोज पहाटेपासून, सुमारे सकाळी ६ वाजल्यापासून रात्री सुमारे ८ वाजेपर्यंत उघडे; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "सभ्य, पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत. देवस्थानावर चढण्यापूर्वी पादत्राणे बाहेर ठेवली जातात.",
+    "photography": "अंगणात आणि टेकडीवर छायाचित्रण सहसा चालते, पण गर्भगृहात नाही. विधी, पुजारी किंवा इतर भाविकांचे छायाचित्र काढण्यापूर्वी मंदिरातील कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "मंदिर बिहारमधील गया येथे मंगलागौरी टेकडीवर, फल्गू नदीजवळ आणि शहराच्या मध्यभागाजवळ आहे. गया जंक्शन हे मुख्य रेल्वे स्थानक आहे आणि गया आंतरराष्ट्रीय विमानतळ हा सर्वात जवळचा विमानतळ आहे. टेकडीसाठी टॅक्सी आणि स्थानिक वाहतूक उपलब्ध आहे; तेथे पायऱ्यांबरोबरच वाहनांसाठी रस्ताही आहे."
   }
 }

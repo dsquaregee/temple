@@ -1,30 +1,37 @@
 {
   "id": "madhuvaneswarar-nannilam",
   "locale": "mr",
+  "name": "मधुवनेश्वरर मंदिर, नन्निलम",
   "nativeName": "நன்னிலம் மதுவனேஸ்வரர் கோயில்",
+  "deity": "मधुवनेश्वरर (मधुवनाचा — मधाच्या वनाचा — स्वामी) रूपातील शिव, देवी मधुवन नायकी यांच्यासह",
+  "tradition": "शैव — अप्पर यांनी स्तुती केलेले आणि सुंदरर यांनी गायलेले पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Nannilam",
-    "state": "Tamil Nadu",
+    "city": "नन्निलम",
+    "state": "तमिळनाडू",
     "lat": 10.8631,
     "lng": 79.6042
   },
+  "period": "तेवारम काळ; परंपरेनुसार कोचेंगट चोळ यांनी बांधलेले माडकोविल",
   "century": 9,
+  "dynasty": "चोळ (परंपरेनुसार कोचेंगट चोळ)",
+  "style": "द्रविड (माडकोविल, उंच अधिष्ठानाचा प्रकार)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "नन्निलम येथे शिवाची मधुवनेश्वरर — मधाच्या वनाचा स्वामी — म्हणून, देवी मधुवन नायकी यांच्यासह पूजा केली जाते. हे अप्पर यांनी गौरविलेले आणि सुंदरर यांनी नऊ पदांत गायलेले पाडल पेट्र स्थळम् आहे; सुंदररांनी नन्निलमच्या या महान मंदिराचा त्याच्या नावानिशी उल्लेख केला. मधु वृक्षांच्या एकेकाळच्या वनात प्रकट झालेले स्वयंभू लिंग असलेले हे मंदिर, परंपरेनुसार चोळ राजा कोचेंगट चोळ यांनी बांधलेल्या उंच माडकोविलांपैकी एक मानले जाते, आणि दंतकथेत ते देवांचे आश्रयस्थान म्हणून स्मरले जाते.",
   "sections": {
-    "history": "Nannilam, a town in the delta country, is an ancient Shaiva site hymned in the seventh-century Tevaram — praised by Appar and sung by Sundarar in nine verses, whose closing lines name the Chola king as its builder. The temple is held to be one of the raised Maada Kovils traditionally ascribed to Kochengat Chola, built high so that an elephant could not enter the sanctum. Sundarar's name for it, Nannilathu Perunkovil, the great temple of Nannilam, marks its standing in the delta.",
-    "architecture": "As a Maada Kovil the temple sits on an elevated base in the manner of the Kochengat Chola foundations. The sanctum enshrines the self-manifested lingam of Madhuvaneswarar; the goddess Madhuvana Nayaki has her own shrine. The temple's name, from a forest of madhu trees, and its honey-bee legend give its iconography and worship a distinctive flavour among the delta shrines.",
-    "legends": "The name Madhuvaneswarar comes from a forest of madhu trees that once surrounded the shrine. One tradition tells that in the Dvapara age, when the asura Vrithrasura tormented the gods, they prayed to Shiva, who turned the Devas into honeybees and let them dwell in the sanctum to worship the lingam — from which the lord takes the name of the honey-forest. Another account calls the place Devaranyam, the gods' forest, where the Devas sheltered from the asura Jalandhara, whom Shiva vanquished at nearby Virkudi. The self-manifested lingam and the god's own name keep these stories alive.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. Its standing as the 'great temple of Nannilam' and its Maada Kovil form give the festivals of the delta town a focus here, and Sundarar's hymn is cherished in the temple's tradition.",
-    "experience": "Nannilam offers the pilgrim a raised temple with a gentle legend at its heart — gods made into bees to worship the lingam in a forest of honey. Climbing to the elevated sanctum of Madhuvaneswarar, and standing before a self-manifested lord sung by Appar and Sundarar, the visitor meets a shrine whose sweetness is woven into its very name."
+    "history": "नन्निलम हे त्रिभुज प्रदेशातील एक नगर असून सातव्या शतकातील तेवारमात गौरविलेले प्राचीन शैव स्थळ आहे — अप्पर यांनी त्याची स्तुती केली आणि सुंदररांनी नऊ पदांत ते गायले; त्यांच्या समारोपाच्या ओळींत चोळ राजाचे त्याचा निर्माता म्हणून नाव आहे. हे मंदिर परंपरेने कोचेंगट चोळ यांच्याकडे श्रेय दिल्या जाणाऱ्या उंच माडकोविलांपैकी एक मानले जाते; हत्तीला गर्भगृहात प्रवेश करता येऊ नये म्हणून ते उंच बांधले गेले. सुंदररांनी त्याला दिलेले नाव — नन्निलत्तु पेरुंकोविल, म्हणजे नन्निलमचे महान मंदिर — त्रिभुज प्रदेशातील त्याचे स्थान दर्शवते.",
+    "architecture": "माडकोविल असल्यामुळे हे मंदिर कोचेंगट चोळांच्या प्रतिष्ठापनांच्या पद्धतीप्रमाणे उंच अधिष्ठानावर उभे आहे. गर्भगृहात मधुवनेश्वररांचे स्वयंभू लिंग प्रतिष्ठित आहे; देवी मधुवन नायकी यांचे स्वतंत्र मंदिर आहे. मधु वृक्षांच्या वनावरून पडलेले मंदिराचे नाव आणि त्याची मधमाश्यांची दंतकथा, यांमुळे त्रिभुज प्रदेशातील इतर मंदिरांमध्ये येथील प्रतिमाशास्त्राला आणि उपासनेला एक वेगळी चव मिळते.",
+    "legends": "मधुवनेश्वरर हे नाव मंदिराभोवती एकेकाळी असलेल्या मधु वृक्षांच्या वनावरून आले आहे. एका परंपरेनुसार द्वापार युगात वृत्रासुर असुर देवांना पीडत असताना त्यांनी शिवाची प्रार्थना केली; शिवांनी देवांना मधमाश्या बनवले आणि लिंगाची पूजा करण्यासाठी त्यांना गर्भगृहात राहू दिले — यावरून प्रभूला मधाच्या वनाचे नाव मिळाले. दुसऱ्या कथेत या स्थळाला देवारण्यम्, म्हणजे देवांचे वन, म्हटले आहे; जालंधर असुरापासून रक्षण मिळवण्यासाठी देवांनी येथे आश्रय घेतला, आणि शिवांनी त्याचा जवळच विरकुडी येथे पराभव केला. स्वयंभू लिंग आणि देवाचे स्वतःचे नाव या कथा जिवंत ठेवतात.",
+    "festivals": "मंदिरात शैव उत्सवपंचांग पाळले जाते — महाशिवरात्री, प्रदोषम्, मार्गळी हंगाम आणि वार्षिक ब्रह्मोत्सवम्. 'नन्निलमचे महान मंदिर' हे त्याचे स्थान आणि माडकोविल स्वरूप यांमुळे या त्रिभुज नगरातील उत्सवांना येथे केंद्र लाभते, आणि मंदिराच्या परंपरेत सुंदररांचे पदगान प्रिय मानले जाते.",
+    "experience": "नन्निलम यात्रेकरूंना एक उंच मंदिर देते, ज्याच्या मध्यभागी एक मधुर दंतकथा आहे — मधाच्या वनात लिंगाची पूजा करण्यासाठी देवांना मधमाश्या बनवले गेले. मधुवनेश्वररांच्या उंच गर्भगृहावर चढून, अप्पर आणि सुंदरर यांनी गायलेल्या स्वयंभू प्रभूसमोर उभे राहिले की, ज्याच्या नावातच गोडवा विणलेला आहे अशा मंदिराची भेट घडते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Nannilam is a town in Tiruvarur district, about 17 km from Tiruvarur; it has its own railway station and is well connected by bus from Tiruvarur, Nagapattinam and Kumbakonam."
+    "timings": "सहसा पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा मार्गांत छायाचित्रणास सहसा परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "नन्निलम हे तिरुवारूर जिल्ह्यातील एक नगर असून तिरुवारूरपासून सुमारे १७ किमी अंतरावर आहे; येथे स्वतःचे रेल्वे स्थानक आहे आणि तिरुवारूर, नागपट्टिणम आणि कुंभकोणम येथून बसने चांगले जोडलेले आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/madhuvaneswarar-nannilam.jpg",

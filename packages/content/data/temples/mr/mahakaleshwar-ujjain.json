@@ -1,30 +1,37 @@
 {
   "id": "mahakaleshwar-ujjain",
   "locale": "mr",
+  "name": "महाकालेश्वर मंदिर, उज्जैन",
   "nativeName": "श्री महाकालेश्वर ज्योतिर्लिंग मंदिर",
+  "deity": "महाकाल, कालाचा स्वामी, रूपातील शिव — स्वयंभू, दक्षिणाभिमुख ज्योतिर्लिंग",
+  "tradition": "शैव मत",
   "location": {
-    "city": "Ujjain",
-    "state": "Madhya Pradesh",
+    "city": "उज्जैन",
+    "state": "मध्य प्रदेश",
     "lat": 23.1828,
     "lng": 75.7683
   },
+  "period": "कालिदासाने गौरविलेले अवंतिकेतील प्राचीन मंदिर; सध्याचे मंदिर १७३० च्या दशकात बांधलेले",
   "century": 5,
+  "dynasty": "परमार आणि त्यापूर्वीचे; मराठ्यांच्या (शिंदे/सिंधिया) काळात पुनर्बांधणी",
+  "style": "मराठा काळातील नागर शैली, तीन स्तरांवर",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "शिप्रेकाठच्या उज्जैन या प्राचीन नगरीत शिव महाकाल, कालाचा स्वामी, म्हणून राज्य करतो — हे दक्षिणाभिमुख स्वयंभू ज्योतिर्लिंग असून रोज पहाटेपूर्वी भस्म आरतीने त्याचा सन्मान केला जातो.",
   "sections": {
-    "history": "Ujjain, the Avantika of old, is one of the seven sacred cities of India, and the Dvadasha Jyotirlinga Stotram names \"Mahakala in Ujjayini\" among the twelve Jyotirlingas. The poet Kalidasa wrote of the shrine of Mahakala and its evening worship, and the temple flourished under the Paramara kings. In the raid of the Delhi sultan Iltutmish in 1234–35 it was laid waste; tradition holds that the linga was kept safe in the temple tank, Koti Tirtha. The present temple was raised around 1734 under the Maratha commander Ranoji Shinde, whose diwan Ramchandra Baba Shenvi carried out the work, and the Scindia rulers of Gwalior long remained its patrons. In 2022 the broad Shri Mahakal Lok precinct was opened around the temple.",
-    "architecture": "The temple rises in three storeys above a deep sanctum. On the lowest level, reached by steps below the courtyard, is Mahakaleshwar himself; above him is a shrine of Omkareshwar, and at the top a shrine of Nagachandreshwar, Shiva and Parvati seated on a many-hooded serpent, opened to devotees only on Nag Panchami. The linga faces south, the direction of Yama, so Mahakala is worshipped as Dakshinamurti, master of death and time. The Koti Tirtha tank lies within the precinct, ringed by smaller shrines.",
-    "legends": "The Shiva Purana tells that the demon Dushana, armed with a boon of Brahma, tormented the devout of Avantika and above all the family of the Brahmin Vedapriya, who kept up their worship of an earthen linga. As the demon advanced, the ground split open and Shiva burst forth as Mahakala, reducing him to ash with a single roar. At the devotees' plea he remained in that place as a Jyotirlinga, guardian of the city. Another story tells of King Chandrasena and a cowherd boy, Shrikar, whose simple devotion was rewarded with Shiva's presence.",
-    "festivals": "Each day begins with the Bhasma Aarti before dawn, when the linga is worshipped with sacred ash. Maha Shivaratri is preceded by nine days of festival worship, and on Mondays through Shravan and Bhadrapada the festival image of Mahakal is borne in a palanquin through the city in the Sawari procession. Once every twelve years the Simhastha Kumbh Mela gathers millions on the Shipra. Confirm dates locally.",
-    "experience": "The Bhasma Aarti is the experience most pilgrims seek: the hush before dawn, the bells and drums, and the linga dressed in ash as the chants rise. It must be booked in advance and carries its own dress rules. Later in the day, darshan moves through the long queues of the Mahakal Lok, and the ghats of the Shipra and the Harsiddhi temple are a short walk away."
+    "history": "उज्जैन, पूर्वीची अवंतिका, हे भारतातील सात पवित्र नगरींपैकी एक आहे, आणि द्वादश ज्योतिर्लिंग स्तोत्रात 'उज्जयिनीतील महाकाल' बारा ज्योतिर्लिंगांमध्ये गणला आहे. कवी कालिदासाने महाकालाच्या मंदिराबद्दल आणि तेथील सायंकाळच्या उपासनेबद्दल लिहिले, आणि परमार राजांच्या काळात हे मंदिर भरभराटीस आले. दिल्लीचा सुलतान इल्तुतमिश याच्या १२३४–३५ मधील स्वारीत ते उद्ध्वस्त झाले; परंपरा सांगते की लिंग मंदिराच्या कुंडात, कोटी तीर्थात, सुरक्षित ठेवले गेले. सध्याचे मंदिर सुमारे १७३४ मध्ये मराठा सेनापती रानोजी शिंदे यांच्या काळात उभारले गेले; त्यांचे दिवाण रामचंद्र बाबा शेणवी यांनी हे काम केले, आणि ग्वाल्हेरचे सिंधिया राज्यकर्ते दीर्घकाळ त्याचे आश्रयदाते राहिले. २०२२ मध्ये मंदिराभोवती विशाल श्री महाकाल लोक परिसर खुला करण्यात आला.",
+    "architecture": "मंदिर खोल गर्भगृहाच्या वर तीन मजल्यांत उभे आहे. सर्वात खालच्या स्तरावर, प्रांगणाखाली पायऱ्यांनी उतरून पोहोचता येते, तेथे स्वतः महाकालेश्वर आहेत; त्यांच्यावर ओंकारेश्वराचे मंदिर आहे, आणि सर्वात वर नागचंद्रेश्वराचे मंदिर आहे — अनेक फण्यांच्या सर्पावर बसलेले शिव-पार्वती — जे भक्तांसाठी केवळ नागपंचमीला उघडले जाते. लिंग दक्षिणाभिमुख आहे, ही यमाची दिशा; म्हणून महाकालाची उपासना दक्षिणामूर्ती, मृत्यू आणि कालाचा स्वामी, म्हणून केली जाते. कोटी तीर्थ कुंड परिसरातच असून लहान मंदिरांनी वेढलेले आहे.",
+    "legends": "शिवपुराण सांगते की ब्रह्मदेवाच्या वराने सज्ज असलेल्या दूषण दैत्याने अवंतिकेतील भाविकांना, आणि विशेषतः मातीच्या लिंगाची उपासना चालू ठेवणाऱ्या वेदप्रिय ब्राह्मणाच्या कुटुंबाला, छळले. दैत्य पुढे सरकत असताना जमीन दुभंगली आणि शिव महाकाल रूपात प्रकटले, आणि एका गर्जनेने त्यांनी त्याची राख केली. भक्तांच्या विनवणीवरून ते नगराचे रक्षक म्हणून ज्योतिर्लिंग रूपात त्याच ठिकाणी राहिले. आणखी एक कथा राजा चंद्रसेन आणि श्रीकर नावाच्या गोपबालकाची आहे, ज्याच्या साध्या भक्तीला शिवाच्या सान्निध्याचे फळ मिळाले.",
+    "festivals": "प्रत्येक दिवसाची सुरुवात पहाटेपूर्वीच्या भस्म आरतीने होते, ज्यात लिंगाची पवित्र भस्माने पूजा केली जाते. महाशिवरात्रीपूर्वी नऊ दिवस उत्सवपूजा चालते, आणि श्रावण व भाद्रपदातील सोमवारी महाकालाची उत्सवमूर्ती पालखीतून नगरात सवारी मिरवणुकीत नेली जाते. दर बारा वर्षांनी सिंहस्थ कुंभमेळा शिप्रेकाठी लाखो भाविकांना एकत्र आणतो. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "भस्म आरती हा बहुतेक यात्रेकरू शोधत असलेला अनुभव आहे: पहाटेपूर्वीची शांतता, घंटा आणि ढोल, आणि मंत्रघोष उंचावत असताना भस्माने सजलेले लिंग. त्यासाठी आधीच नोंदणी करावी लागते आणि त्याचे स्वतःचे पोशाख नियम आहेत. दिवसा नंतर, दर्शन महाकाल लोकच्या लांब रांगांतून पुढे सरकते, आणि शिप्रेचे घाट आणि हरसिद्धी मंदिर थोड्या अंतरावर आहेत."
   },
   "visit": {
-    "timings": "Open daily from before dawn until late night, beginning with the Bhasma Aarti; confirm timings and aarti booking locally, as arrangements change on festival days.",
-    "dressCode": "Modest traditional dress is expected; for the Bhasma Aarti, men are asked to wear a dhoti and women a saree. Footwear is removed before entering.",
-    "photography": "Photography is not permitted in the sanctum; follow posted rules and staff guidance in the corridor and courtyards.",
-    "gettingThere": "The temple is in the old city of Ujjain, Madhya Pradesh, about 2 km from Ujjain Junction railway station. The nearest airport is Indore, about 55 km away by road."
+    "timings": "भस्म आरतीपासून सुरू होऊन, रोज पहाटेपूर्वीपासून उशिरा रात्रीपर्यंत खुले असते; उत्सवाच्या दिवशी व्यवस्था बदलत असल्याने वेळा आणि आरतीची नोंदणी स्थानिक पातळीवर खात्री करून घ्यावी.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे; भस्म आरतीसाठी पुरुषांनी धोतर आणि स्त्रियांनी साडी नेसणे अपेक्षित आहे. प्रवेशापूर्वी पादत्राणे काढावीत.",
+    "photography": "गर्भगृहात छायाचित्रणास परवानगी नाही; मार्गिका आणि प्रांगणांत लावलेले नियम आणि कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "मंदिर मध्य प्रदेशातील उज्जैनच्या जुन्या नगरात असून उज्जैन जंक्शन रेल्वे स्थानकापासून सुमारे २ किमी आहे. सर्वात जवळचे विमानतळ इंदूर असून रस्त्याने सुमारे ५५ किमी दूर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/mahakaleshwar-ujjain.jpg",

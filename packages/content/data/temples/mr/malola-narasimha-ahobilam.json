@@ -1,30 +1,37 @@
 {
   "id": "malola-narasimha-ahobilam",
   "locale": "mr",
+  "name": "मालोल नरसिंह मंदिर, अहोबिलम",
   "nativeName": "మాలోల నరసింహ ఆలయం, అహోబిలం",
+  "deity": "मालोल नरसिंह रूपातील विष्णू — मांडीवर लक्ष्मीसह विराजमान, 'लक्ष्मीप्रिय' प्रभू",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "अहोबिलम",
+    "state": "आंध्र प्रदेश",
     "lat": 15.133,
     "lng": 78.742
   },
+  "period": "आंध्र प्रदेशातील नल्लमला टेकड्यांतील अहोबिलमच्या नव नरसिंह मंदिरांपैकी एक",
   "century": 15,
+  "dynasty": "विजयनगरचा आश्रय",
+  "style": "लहान द्रविड शैलीतील टेकडीवरील मंदिर",
   "unesco": false,
   "circuits": [
     "ahobilam-nava-narasimha"
   ],
+  "summary": "ऊर्ध्व अहोबिलमच्या वरील वेदाद्री टेकडीवर मालोल नरसिंह हे सिंहरूपी प्रभूचे सौम्य रूप आहे — मांडीवर लक्ष्मीसह विराजमान, मा म्हणजे लक्ष्मीला प्रिय असलेला, ज्याची उत्सवमूर्ती अहोबिल मठाच्या जीयरांसोबत प्रवास करते.",
   "sections": {
-    "history": "Malola Narasimha is one of the Nava Narasimha of Ahobilam, set on the Vedadri, or Vedachala, hill about two kilometres from the Upper Ahobilam temple; the shrine is also known as Markanda Lakshmi Kshetra. Its fame reaches far beyond the hill. Tradition in the Ahobila Matha holds that its founder, Adivan Satakopa Jeeyar, who lived in the late fourteenth and fifteenth centuries, received the festival image of Malola Narasimha here as the deity he was to carry. Ever since, the utsava murti of Malola has accompanied the matha's pontiffs, the Azhagiya Singars, on their journeys across India — so this small hill shrine is the home of a Lord who travels.",
-    "architecture": "The temple is a small stone shrine on a shelf of the hill, approached by a rough path and steps. In the sanctum Narasimha is seated with his left leg folded and his right leg hanging down, and Lakshmi sits upon the folded knee, held close in the Lord's embrace. The calm of the image is the meaning of the place: here the fierce form has grown serene in the presence of his consort.",
-    "legends": "The name explains the shrine: Ma is Lakshmi and lola means beloved, so Malola is the one dear to Lakshmi. Tradition holds that after the fury of the battle with Hiranyakashipu, Lakshmi came to the Lord here and his anger was stilled in her company. The story of the festival image coming into the hands of Adivan Satakopa Jeeyar is told with great affection within the Ahobila Matha. In the astrological reading of the nine shrines, Malola is linked with Venus.",
-    "festivals": "Narasimha Jayanti and the annual Brahmotsavam of Ahobilam are observed at all the hill shrines. The travelling festival image of Malola is worshipped wherever the Ahobila Matha's pontiff is in residence, so many of its celebrations take place far from the hill itself. Confirm dates locally.",
-    "experience": "The climb from Upper Ahobilam is shorter than the trail to Jwala but still steep and stony in places. The shrine is quiet and intimate, and the view back over the forested valley rewards the effort. Wear comfortable footwear, carry water, and combine the visit with the other Upper Ahobilam shrines."
+    "history": "मालोल नरसिंह हे अहोबिलमच्या नव नरसिंहांपैकी एक असून ऊर्ध्व अहोबिलम मंदिरापासून सुमारे दोन किलोमीटरवरील वेदाद्री, म्हणजेच वेदाचल टेकडीवर वसलेले आहे; हे मंदिर मार्कंड लक्ष्मी क्षेत्र म्हणूनही ओळखले जाते. त्याची कीर्ती टेकडीच्या फार पलीकडे पोहोचते. अहोबिल मठाच्या परंपरेनुसार त्याचे संस्थापक, चौदाव्या शतकाच्या उत्तरार्धात व पंधराव्या शतकात होऊन गेलेले आदिवण शठकोप जीयर, यांना येथेच मालोल नरसिंहाची उत्सवमूर्ती आपले वाहून न्यावयाचे दैवत म्हणून प्राप्त झाली. तेव्हापासून मालोलाची उत्सवमूर्ती मठाच्या पीठाधीशांसोबत, अळगिय सिंगरांसोबत, संपूर्ण भारतभर त्यांच्या प्रवासांत असते — म्हणून हे लहानसे टेकडीवरील मंदिर प्रवास करणाऱ्या प्रभूचे घर आहे.",
+    "architecture": "हे मंदिर टेकडीच्या एका सपाट कट्ट्यावरील लहान दगडी मंदिर आहे, ज्याकडे खडबडीत वाट आणि पायऱ्यांनी जाता येते. गर्भगृहात नरसिंह डावा पाय दुमडून व उजवा पाय खाली सोडून बसले आहेत, आणि लक्ष्मी दुमडलेल्या गुडघ्यावर बसली आहे, प्रभूच्या आलिंगनात जवळ धरलेली. मूर्तीची शांतता हाच या स्थळाचा अर्थ आहे: येथे उग्र रूप आपल्या सहधर्मिणीच्या सान्निध्यात शांत झाले आहे.",
+    "legends": "नावातच मंदिराचे स्पष्टीकरण आहे: मा म्हणजे लक्ष्मी आणि लोल म्हणजे प्रिय, म्हणून मालोल म्हणजे लक्ष्मीला प्रिय असलेला. परंपरेनुसार हिरण्यकशिपूशी झालेल्या युद्धाच्या क्रोधानंतर लक्ष्मी येथे प्रभूकडे आली आणि तिच्या सान्निध्यात त्यांचा क्रोध शांत झाला. उत्सवमूर्ती आदिवण शठकोप जीयर यांच्या हाती आल्याची कथा अहोबिल मठात अतीव प्रेमाने सांगितली जाते. नऊ मंदिरांच्या ज्योतिषीय वाचनात मालोलाचा संबंध शुक्राशी जोडला जातो.",
+    "festivals": "नरसिंह जयंती आणि अहोबिलमचा वार्षिक ब्रह्मोत्सव सर्व टेकडीवरील मंदिरांत साजरे होतात. मालोलाची प्रवासी उत्सवमूर्ती अहोबिल मठाचे पीठाधीश जेथे वास्तव्य करतात तेथे पूजली जाते, त्यामुळे तिचे अनेक उत्सव टेकडीपासून फार दूर होतात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "ऊर्ध्व अहोबिलमपासूनची चढाई ज्वालाच्या वाटेपेक्षा लहान आहे, तरी काही ठिकाणी अजूनही तीव्र व दगडधोंड्यांची आहे. मंदिर शांत व जिव्हाळ्याचे आहे, आणि जंगलाने वेढलेल्या दरीकडे मागे वळून दिसणारे दृश्य श्रमाचे चीज करते. आरामदायी पादत्राणे घाला, पाणी सोबत ठेवा आणि भेट ऊर्ध्व अहोबिलमच्या इतर मंदिरांसोबत जोडा."
   },
   "visit": {
-    "timings": "Worship is offered daily; the shrine is reached on foot and is best visited in daylight. Confirm current timings locally.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "From Lower Ahobilam (reached by road via Allagadda; Nandyal is the nearest major railhead), go up to Upper Ahobilam by local transport. Malola lies about two kilometres beyond the Upper Ahobilam temple, by a steep path on foot."
+    "timings": "पूजा दररोज केली जाते; मंदिरापर्यंत पायी जावे लागते आणि दिवसाच्या उजेडात भेट देणे उत्तम. सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात व त्याच्या आजूबाजूला छायाचित्रणावर निर्बंध आहेत; लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "अधोगत अहोबिलमहून (अल्लगड्डामार्गे रस्त्याने पोहोचता येते; नंद्याल हे जवळचे प्रमुख रेल्वे स्थानक आहे) स्थानिक वाहनाने ऊर्ध्व अहोबिलमला जा. मालोल ऊर्ध्व अहोबिलम मंदिराच्या पलीकडे सुमारे दोन किलोमीटरवर आहे, तीव्र पायवाटेने पायी जावे लागते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/malola-narasimha-ahobilam.jpg",
