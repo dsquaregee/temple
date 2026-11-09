@@ -1,30 +1,37 @@
 {
   "id": "govindaraja-chidambaram",
   "locale": "mr",
+  "name": "गोविंदराज पेरुमाळ मंदिर, चिदंबरम",
   "nativeName": "கோவிந்தராஜப் பெருமாள் கோயில், சிதம்பரம்",
+  "deity": "विष्णू गोविंदराज पेरुमाळ रूपात, शयनमुद्रेत, देवी पुंडरीकवल्ली ताया यांच्यासह — तिल्लै नटराज मंदिराच्या आवारातील तिरुचित्रकूटम हे दिव्य देशम",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Chidambaram",
-    "state": "Tamil Nadu",
+    "city": "चिदंबरम",
+    "state": "तमिळनाडू",
     "lat": 11.3994,
     "lng": 79.6933
   },
+  "period": "चोळ प्रदेशातील एक दिव्य देशम, नालायिर दिव्य प्रबंधमात कुलशेखर आळवार आणि तिरुमंगै आळवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "परंपरेनुसार पल्लव मूळ; चोळ आणि नायक काळातील जीर्णोद्धार",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "चिदंबरममधील महान नटराज मंदिराच्या आत, तिरुचित्रकूटम येथे विष्णू गोविंदराज पेरुमाळ रूपात शयन करतात — कुलशेखर आळवार आणि तिरुमंगै आळवार यांनी गायिलेले एक दिव्य देशम.",
   "sections": {
-    "history": "Thiruchitrakoodam is not a separate temple but a shrine of Vishnu within the Thillai Nataraja temple complex at Chidambaram, and it is one of the 108 Divya Desams — the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham — in Chola Nadu. Kulasekhara Alvar and Thirumangai Alvar offered their mangalasasanam here. One temple-history source attributes the installation of the image to the Pallava king Nandivarman, in the eighth century. Tradition adds that in the twelfth century, under Kulothunga Chola II, the image was removed and its festival image carried to Tirupati, where Govindaraja is still worshipped; the shrine was reinstated in the mid-sixteenth century under Krishnappa Nayak. The present structure is largely of the twelfth and thirteenth centuries, with later additions, though sources differ.",
-    "architecture": "The shrine stands inside the precincts of the Nataraja temple, in the Dravidian manner, with Govindaraja Perumal reclining in the sanctum and the Goddess Pundarikavalli Thayar enshrined separately. The temple tank is known as the Pundarika Pushkarini. Much of the fabric is of the twelfth and thirteenth centuries, with later additions, in keeping with the style of the surrounding complex.",
-    "legends": "Tradition says Govindaraja reclines facing the shrine of Nataraja, for he is held to have witnessed — and judged — the dance contest between Shiva and Parvati. The verses of Kulasekhara Alvar on Thillai Chitrakoodam are remembered for recounting the story of Rama, so that the shrine holds a place in the Vaishnava memory of the Ramayana as well as in Shaiva Chidambaram.",
-    "festivals": "The best-known observance is the ten-day Chithirai Vasantha Utsavam, held in April–May. The festival of Gajendra Moksham, recalling the elephant freed by Vishnu, is also kept. Vaikunta Ekadashi and the days of the Alvars follow the wider Vaishnava calendar. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Visitors come for the Nataraja temple and find here a quiet Vishnu shrine in the same precincts — a rare meeting of Shaiva and Vaishnava devotion. Look for the reclining lord turned toward Nataraja, and ask the priests about the Pundarika Pushkarini and local darshan arrangements."
+    "history": "तिरुचित्रकूटम हे स्वतंत्र मंदिर नसून चिदंबरममधील तिल्लै नटराज मंदिर परिसरातील विष्णूचे एक देऊळ आहे, आणि चोळ नाडूमधील १०८ दिव्य देशमांपैकी — नालायिर दिव्य प्रबंधमात आळवार संतांनी गायिलेली विष्णूची निवासस्थाने — ते एक आहे. कुलशेखर आळवार आणि तिरुमंगै आळवार यांनी येथे मंगलाशासन केले. एका मंदिर-इतिहासस्रोतानुसार मूर्तीची स्थापना आठव्या शतकात पल्लव राजा नंदिवर्मन याने केली. परंपरा पुढे सांगते की बाराव्या शतकात दुसऱ्या कुलोत्तुंग चोळाच्या काळात ही मूर्ती हटविण्यात आली आणि तिची उत्सवमूर्ती तिरुपतीला नेण्यात आली, जेथे गोविंदराजांची आजही पूजा केली जाते; सोळाव्या शतकाच्या मध्यात कृष्णप्प नायकाच्या काळात हे देऊळ पुन्हा प्रस्थापित करण्यात आले. सध्याची रचना बव्हंशी बाराव्या आणि तेराव्या शतकातील असून त्यात नंतरची भर पडली आहे, तरी स्रोतांमध्ये मतभेद आहेत.",
+    "architecture": "हे देऊळ नटराज मंदिराच्या आवारात द्रविड शैलीत उभे आहे; गर्भगृहात गोविंदराज पेरुमाळ शयन करतात आणि देवी पुंडरीकवल्ली ताया यांची स्वतंत्र प्रतिष्ठापना आहे. मंदिराचे सरोवर पुंडरीक पुष्करिणी म्हणून ओळखले जाते. आजूबाजूच्या संकुलाच्या शैलीनुसार बहुतेक बांधकाम बाराव्या आणि तेराव्या शतकातील असून त्यात नंतरची भर पडली आहे.",
+    "legends": "परंपरा सांगते की गोविंदराज नटराजाच्या देवळाकडे तोंड करून शयन करतात, कारण शिव आणि पार्वती यांच्यातील नृत्यस्पर्धेचे ते साक्षीदार आणि निर्णायक होते असे मानले जाते. तिल्लै चित्रकूटमवरील कुलशेखर आळवारांच्या पदांमध्ये रामकथा सांगितल्याचे स्मरण केले जाते, त्यामुळे शैव चिदंबरममध्ये असूनही या देवळाला वैष्णवांच्या रामायण-स्मृतीतही स्थान आहे.",
+    "festivals": "दहा दिवसांचा चित्तिरै वसंत उत्सव हा सर्वाधिक प्रसिद्ध उत्सव असून तो एप्रिल–मे मध्ये होतो. विष्णूने मुक्त केलेल्या हत्तीचे स्मरण करणारा गजेंद्र मोक्षम उत्सवही साजरा केला जातो. वैकुंठ एकादशी आणि आळवारांचे दिवस व्यापक वैष्णव पंचांगानुसार येतात. तारखा तमिळ पंचांगानुसार ठरतात, म्हणून त्या स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "experience": "भाविक नटराज मंदिरासाठी येतात आणि त्याच परिसरात विष्णूचे एक शांत देऊळ त्यांना आढळते — शैव आणि वैष्णव भक्तीचा दुर्मिळ संगम. नटराजाकडे तोंड केलेल्या शयन प्रभूचे दर्शन घ्यावे, आणि पुंडरीक पुष्करिणी तसेच स्थानिक दर्शनव्यवस्थेबद्दल पुजाऱ्यांना विचारावे."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The shrine lies inside the Thillai Nataraja temple complex in Chidambaram, which is on the Chennai–Thanjavur rail line, about 230 km south of Chennai, with regular trains and buses. Puducherry, roughly 65 km north, is the most convenient airport."
+    "timings": "दररोज सकाळी आणि संध्याकाळी दर्शनाच्या सत्रांसह उघडे असते, दुपारी बंद असते; भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "हे देऊळ चिदंबरममधील तिल्लै नटराज मंदिर संकुलाच्या आत आहे; चिदंबरम चेन्नई–तंजावूर रेल्वेमार्गावर, चेन्नईच्या सुमारे २३० कि.मी. दक्षिणेस असून तेथे नियमित गाड्या आणि बस उपलब्ध आहेत. सुमारे ६५ कि.मी. उत्तरेकडील पुदुच्चेरी हे सर्वांत सोयीचे विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/govindaraja-chidambaram.jpg",
