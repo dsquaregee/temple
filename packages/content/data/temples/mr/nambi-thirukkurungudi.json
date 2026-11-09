@@ -1,30 +1,37 @@
 {
   "id": "nambi-thirukkurungudi",
   "locale": "mr",
+  "name": "अळगिय नंबी मंदिर, तिरुक्कुरुंगुडी",
   "nativeName": "அழகிய நம்பி கோயில், திருக்குறுங்குடி",
+  "deity": "अळगिय नंबी (वैष्णव नंबी) रूपातील विष्णू, देवी कुरुंगुडीवल्ली नाच्चियार यांच्यासह — उभ्या, बसलेल्या आणि शयन अशा पाच नंबी रूपांत पूजले जातात",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirukkurungudi",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कुरुंगुडी",
+    "state": "तमिळनाडू",
     "lat": 8.448,
     "lng": 77.562
   },
+  "period": "महेंद्रगिरी डोंगराच्या पायथ्याशी असलेले पांड्य प्रदेशातील दिव्य देशम; नालायिर दिव्य प्रबंधममध्ये चार आळवारांनी गायिलेले",
   "century": 8,
+  "dynasty": "चोळकालीन शिलालेख, विजयनगरकालीन भर",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "महेंद्रगिरी डोंगराच्या पायथ्याशी विष्णू पाच रूपांत सुंदर नंबी म्हणून पूजले जातात — कैशिक एकादशीचे दिव्य देशम, ज्याचे गायन तिरुमळिसै आळवार, नम्मआळवार, पेरियआळवार आणि तिरुमंगै आळवार यांनी केले.",
   "sections": {
-    "history": "Thirukkurungudi lies at the foot of the Mahendragiri hills in the southern Tirunelveli country, and its temple is lovingly called Dakshina Vaikuntam, the heaven of the south. It is one of the 108 Divya Desams of Pandya Nadu, sung by four Alvars — Thirumalisai Alvar, Nammalvar, Periyalvar and Thirumangai Alvar — in the Nalayira Divya Prabandham. Inscriptions in the temple go back to the tenth century, in the age of the Cholas, though the shrine is held to be older still, and later rulers including those of Vijayanagara added to it. Worship here follows the Tenkalai tradition, and the temple is famed across the Sri Vaishnava world for its Kaisika Ekadashi.",
-    "architecture": "The temple is a large walled Dravidian complex with a tall gopuram and long pillared halls carrying richly carved sculpture. Within it the Lord is worshipped in three postures — Ninra Nambi standing, Irundha Nambi seated and Kidandha Nambi reclining — with the Goddess Kurungudivalli Nachiyar in her own shrine. Unusually for a Vishnu temple, a shrine of Shiva stands within the complex. Two further Nambis complete the five: Thiruparkadal Nambi beside the Nambi river and Thirumalai Nambi up on the Mahendragiri slopes.",
-    "legends": "The best-loved story of Thirukkurungudi is that of Nampaduvan, a humble devotee-singer who was not allowed inside and sang to the Lord from without. Walking to the temple on an Ekadashi night, he was seized by a brahmarakshasa, and begged leave to sing his worship first, promising on solemn oaths to return. He kept his word, and the merit of his song freed the demon from its curse. The tale comes from the Varaha Purana, where Vishnu tells it to the Earth, and the raga of his song gave the Ekadashi its name, Kaisika.",
-    "festivals": "On Kaisika Ekadashi in the month of Karthigai, the Ekadashi before Vaikunta Ekadashi, the Kaisika Natakam — a centuries-old play of Nampaduvan's story — is performed through the night before the Lord. Vaikunta Ekadashi and the Brahmotsavam processions also keep the year; confirm festival dates locally.",
-    "experience": "A spacious, sculpture-rich temple where the pilgrim meets the Lord standing, seated and reclining under one roof. Those with time go on to the Thiruparkadal shrine by the river and up the hill to Thirumalai Nambi, and the night of the Kaisika Natakam is unforgettable."
+    "history": "तिरुक्कुरुंगुडी दक्षिण तिरुनेलवेली प्रदेशात महेंद्रगिरी डोंगराच्या पायथ्याशी वसलेले आहे, आणि त्याच्या मंदिराला प्रेमाने दक्षिण वैकुंठम, म्हणजे दक्षिणेचा स्वर्ग, म्हणतात. पांड्य नाडूतील १०८ दिव्य देशमांपैकी हे एक असून नालायिर दिव्य प्रबंधममध्ये चार आळवारांनी — तिरुमळिसै आळवार, नम्मआळवार, पेरियआळवार आणि तिरुमंगै आळवार — त्याचे गायन केले आहे. मंदिरातील शिलालेख चोळांच्या काळातील, दहाव्या शतकापर्यंत मागे जातात, तरी हे मंदिर त्याहूनही प्राचीन मानले जाते, आणि विजयनगरच्या शासकांसह नंतरच्या राजांनी त्यात भर घातली. येथील पूजा तेंकलै परंपरेनुसार होते, आणि कैशिक एकादशीसाठी हे मंदिर सर्व श्रीवैष्णव जगतात प्रसिद्ध आहे.",
+    "architecture": "हे मंदिर उंच गोपुर आणि समृद्ध शिल्पकाम असलेले लांबलचक स्तंभयुक्त मंडप यांनी युक्त, तटबंदीचे विस्तीर्ण द्रविड संकुल आहे. त्यात प्रभू तीन आसनांत पूजले जातात — उभे निन्ऱ नंबी, बसलेले इरुंद नंबी आणि शयन करणारे किडंद नंबी — आणि देवी कुरुंगुडीवल्ली नाच्चियार तिच्या स्वतंत्र मंदिरात आहे. विष्णूच्या मंदिरासाठी असामान्य असे शिवाचे एक मंदिर संकुलात आहे. पाच नंबींपैकी उर्वरित दोन म्हणजे नंबी नदीकाठचे तिरुपार्कडल नंबी आणि महेंद्रगिरीच्या उतारावर वसलेले तिरुमलै नंबी.",
+    "legends": "तिरुक्कुरुंगुडीची सर्वांत प्रिय कथा म्हणजे नंपाडुवानाची — एक विनम्र भक्त-गायक, ज्याला आत प्रवेश नव्हता आणि जो बाहेरून प्रभूला गायन अर्पण करी. एका एकादशीच्या रात्री मंदिराकडे जात असताना एका ब्रह्मराक्षसाने त्याला पकडले; तेव्हा त्याने परत येण्याचे गंभीर शपथांनी वचन देऊन आधी आपली गायनसेवा करण्याची अनुमती मागितली. त्याने आपले वचन पाळले, आणि त्याच्या गायनाच्या पुण्याने राक्षस शापातून मुक्त झाला. ही कथा वराह पुराणातील असून तिथे विष्णू ती पृथ्वीला सांगतात; त्याच्या गायनाच्या रागावरून एकादशीला कैशिक हे नाव पडले.",
+    "festivals": "कार्तिगै महिन्यातील कैशिक एकादशीला, म्हणजे वैकुंठ एकादशीच्या आधीच्या एकादशीला, नंपाडुवानाच्या कथेवरील शतकानुशतके चालत आलेले नाट्य — कैशिक नाटकम — रात्रभर प्रभूसमोर सादर केले जाते. वैकुंठ एकादशी आणि ब्रह्मोत्सवमच्या मिरवणुकाही वर्षभराचे उत्सव राखतात; उत्सवाच्या तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "प्रशस्त आणि शिल्पसमृद्ध असे हे मंदिर, जिथे भाविकाला प्रभू एकाच छताखाली उभे, बसलेले आणि शयन अशा रूपांत भेटतात. ज्यांच्याकडे वेळ असतो ते नदीकाठच्या तिरुपार्कडल मंदिराकडे आणि डोंगरावरील तिरुमलै नंबीकडे जातात, आणि कैशिक नाटकमची रात्र अविस्मरणीय असते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Kaisika Ekadashi and Vaikunta Ekadashi are busiest. Confirm current timings, and access to the hill shrine of Thirumalai Nambi, before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukkurungudi is in Tirunelveli district, about 12 km from Nanguneri and about 45 km south of Tirunelveli by road via Nanguneri and Valliyur. The nearest railhead is Nanguneri or Valliyur, with Tirunelveli the main junction; the nearest airports are Thoothukudi and Thiruvananthapuram."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन-सत्रांसह उघडे असते आणि दुपारी बंद असते; कैशिक एकादशी आणि वैकुंठ एकादशीला सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा आणि तिरुमलै नंबी या डोंगरावरील मंदिरापर्यंतच्या प्रवेशाबद्दल खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गाभाऱ्यात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुक्कुरुंगुडी तिरुनेलवेली जिल्ह्यात असून नांगुनेरीपासून सुमारे १२ किमी आणि तिरुनेलवेलीच्या दक्षिणेस नांगुनेरी व वल्लियूरमार्गे रस्त्याने सुमारे ४५ किमी अंतरावर आहे. जवळचे रेल्वे स्थानक नांगुनेरी किंवा वल्लियूर असून तिरुनेलवेली हे मुख्य जंक्शन आहे; जवळची विमानतळे तूतुकुडी आणि तिरुवनंतपुरम आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/nambi-thirukkurungudi.jpg",

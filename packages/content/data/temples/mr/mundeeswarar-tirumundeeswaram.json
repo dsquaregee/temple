@@ -1,29 +1,36 @@
 {
   "id": "mundeeswarar-tirumundeeswaram",
   "locale": "mr",
+  "name": "शिवलोकनाथर (मुंडीश्वरर) मंदिर, तिरुमुंडीश्वरम",
   "nativeName": "சிவலோகநாதர் கோயில்",
+  "deity": "शिवलोकनाथर (मुंडीश्वरर) या रूपातील शिव, देवी सौंदरनायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tirumundeeswaram",
-    "state": "Tamil Nadu",
+    "city": "तिरुमुंडीश्वरम",
+    "state": "तमिळनाडू",
     "lat": 11.85,
     "lng": 79.404
   },
+  "period": "नडु नाडू प्रदेशातील प्राचीन शैव क्षेत्र, तेवारममध्ये (सातवे शतक) अप्पर यांनी गायिलेले; आरंभीच्या चोळ काळात (दहावे शतक) दगडात पुनर्बांधलेले, नंतरच्या भरांसह",
   "century": 7,
+  "dynasty": "आरंभीचे चोळ आश्रयदाते (पहिल्या पराणतकाच्या कारकिर्दीत पुनर्बांधणी)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ग्रामम गावातील तिरुमुंडीश्वरम येथील शिवलोकनाथर हे नडु नाडू प्रदेशातील तेवारम क्षेत्र आहे, ज्याची स्तुती अप्पर यांनी केली; मंदिराची निगा राखण्याच्या त्यांच्या विनम्र श्रमांसाठी ते येथे स्मरणात आहेत, आणि हे मंदिर आरंभीच्या चोळ काळात दगडात पुनर्बांधले गेले.",
   "sections": {
-    "history": "Tirumundeeswaram, known today by the name of its village, Gramam, in Villupuram district, is a Paadal Petra Sthalam of the Nadu Nadu country, sung in the Tevaram by the saint Tirunavukkarasar, Appar, in a decad of the Sixth Tirumurai. Tradition holds that Appar performed uzhavarappani here, the humble service of cleaning and tending the temple grounds, as an act of devotion. Inscriptions record the village under the old name Mouli-gramam in the days of the Chola king Parantaka I, and tell that the older Shiva temple was rebuilt in stone in about 943 CE by Vellangumaran, a general from Kerala who served the prince Rajaditya, whose army was then stationed at Gramam. Inscriptions of earlier years appear to have been engraved again on the new walls.",
-    "architecture": "The temple faces east and rises behind a tall entrance gopuram. It covers about an acre, with its shrines enclosed within large concentric rectangular walls of granite, in the Dravidian manner. In the sanctum Shivaloka Nathar is worshipped as a linga, and the goddess Soundaranayaki has her own shrine. Beside the temple lies its sacred tank, the Brahma Theertham, also called the Mundaka Theertham. Students of Chola architecture place the temple's plain, restrained forms in the earliest Chola period, which gives it a quiet, archaic character.",
-    "legends": "Two traditions account for the name Mundeeswarar. The first traces it to Tindi and Mundi, the guardian attendants of Shiva, who are said to have worshipped the Lord here. The second tells of a king who discovered a Shiva linga within a lotus in the temple's pond; when his arrow struck the flower, it is said to have bled and turned the water crimson, and the place was held sacred thereafter. And the memory of Appar, who gave humble labour to the shrine, is counted among the temple's own stories: the great saint who came to sing and stayed to sweep.",
-    "festivals": "The temple's most prominent festivals are Chitra Pournami, in the Tamil month of Chithirai (April–May), and Aani Thirumanjanam, the great anointing of the Lord in Aani (June–July). Maha Shivaratri in Masi (February–March) and the monthly Pradosham are observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Tirumundeeswaram is a place for a quiet country pilgrimage. Pass through the gopuram, make your way to the sanctum of Shivaloka Nathar, and then to the shrine of the goddess Soundaranayaki. Walk beside the sacred tank, and remember Appar, who gave to this temple not only his hymns but his labour. Set in a village of Villupuram district rather than a busy town, the temple holds an old, rural calm, and its plain granite walls reward those who linger."
+    "history": "तिरुमुंडीश्वरम, जे आज त्याच्या गावाच्या नावाने, ग्रामम, म्हणून ओळखले जाते, विळुप्पुरम जिल्ह्यात आहे; हे नडु नाडू प्रदेशातील पाडल पेट्र स्थळम असून संत तिरुनावुक्करसर, म्हणजे अप्पर, यांनी सहाव्या तिरुमुरैच्या एका दशकात तेवारममध्ये ते गायिले आहे. परंपरेनुसार अप्पर यांनी येथे उळवारप्पणी केली, म्हणजे भक्तीचे कृत्य म्हणून मंदिराचा परिसर स्वच्छ करण्याची आणि त्याची निगा राखण्याची विनम्र सेवा. शिलालेखांत चोळ राजा पहिला पराणतक याच्या काळात या गावाची नोंद मौळी-ग्रामम या जुन्या नावाने आहे, आणि असे सांगतात की जुने शिवमंदिर इ.स. ९४३ च्या सुमारास केरळमधील सेनापती वेल्लंगुमारन याने दगडात पुनर्बांधले; तो राजादित्य राजपुत्राची सेवा करत होता, ज्याचे सैन्य तेव्हा ग्रामम येथे तळ ठोकून होते. पूर्वीच्या वर्षांचे शिलालेख नव्या भिंतींवर पुन्हा कोरलेले दिसतात.",
+    "architecture": "मंदिराचे मुख पूर्वेकडे असून उंच प्रवेशद्वार गोपुराच्या मागे ते उभे आहे. ते सुमारे एक एकर क्षेत्र व्यापते, आणि द्रविड पद्धतीनुसार त्याची मंदिरे ग्रॅनाइटच्या मोठ्या एककेंद्री आयताकृती तटबंदीत बंदिस्त आहेत. गाभाऱ्यात शिवलोकनाथर यांची लिंगरूपात पूजा होते, आणि देवी सौंदरनायकीचे स्वतंत्र मंदिर आहे. मंदिराच्या बाजूलाच त्याचे पवित्र कुंड, ब्रह्म तीर्थ, आहे, ज्याला मुंडक तीर्थ असेही म्हणतात. चोळ वास्तुकलेचे अभ्यासक मंदिराचे साधे, संयमित आकार सर्वांत आरंभीच्या चोळ काळात गणतात, ज्यामुळे त्याला एक शांत, पुरातन रूप लाभले आहे.",
+    "legends": "मुंडीश्वरर या नावाचे श्रेय दोन परंपरा देतात. पहिली ते तिंडी आणि मुंडी या शिवाच्या रक्षक सेवकांशी जोडते, ज्यांनी येथे भगवंताची पूजा केली असे सांगितले जाते. दुसरी एका राजाची कथा सांगते, ज्याला मंदिराच्या तळ्यातील कमळात शिवलिंग आढळले; त्याचा बाण त्या फुलाला लागला तेव्हा ते रक्तस्रावी झाले आणि पाणी लाल झाले असे सांगतात, आणि त्यानंतर ते स्थान पवित्र मानले गेले. आणि मंदिराला विनम्र श्रम देणाऱ्या अप्पर यांची आठवण ही मंदिराच्या स्वतःच्या कथांमध्येच गणली जाते: गाण्यासाठी आलेले आणि झाडू मारण्यासाठी राहिलेले महान संत.",
+    "festivals": "मंदिराचे सर्वांत प्रमुख उत्सव म्हणजे तमिळ महिन्यातील चित्तिरै (एप्रिल–मे) मधील चित्रा पौर्णिमा, आणि आणि (जून–जुलै) मधील भगवंताचा महान अभिषेक आणि तिरुमंजनम. मासी (फेब्रुवारी–मार्च) मधील महाशिवरात्री आणि मासिक प्रदोष प्रत्येक शिवमंदिराप्रमाणे येथेही पाळले जातात. तारखा तमिळ पंचांगानुसार असल्याने त्या स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुमुंडीश्वरम हे शांत ग्रामीण यात्रेचे ठिकाण आहे. गोपुरातून पुढे जावे, शिवलोकनाथर यांच्या गाभाऱ्याकडे जावे, आणि मग देवी सौंदरनायकीच्या मंदिराकडे. पवित्र कुंडाशेजारून फिरावे, आणि अप्पर यांचे स्मरण करावे, ज्यांनी या मंदिराला केवळ आपली स्तोत्रे नव्हे तर आपले श्रमही अर्पण केले. गजबजलेल्या शहराऐवजी विळुप्पुरम जिल्ह्यातील गावात वसलेल्या या मंदिरात जुनी, ग्रामीण शांतता आहे, आणि रेंगाळणाऱ्यांना त्याच्या साध्या ग्रॅनाइट भिंतींचा लाभ होतो."
   },
   "visit": {
-    "timings": "Typically open in the early morning and again from late afternoon into the evening, with a long break at midday; sources differ on the exact hours, so confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple stands in the village of Gramam, about 16 km from Villupuram on the Arasur–Ulundurpettai road, and the Gramam bus stop is close to the temple. Regular buses run from Villupuram, and buses from Tirukoilur via Arasur also stop at Gramam. Villupuram Junction is the main railway station for the journey."
+    "timings": "सामान्यतः पहाटे आणि पुन्हा दुपारच्या उत्तरार्धापासून संध्याकाळपर्यंत उघडे असते, मध्ये दुपारी दीर्घ विराम असतो; नेमक्या वेळांबाबत स्रोतांमध्ये भिन्नता आहे, म्हणून विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-विजार, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्थानी ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाहेरील प्रदक्षिणा मार्गांत आणि प्रांगणांत छायाचित्रणास साधारणपणे परवानगी असते, परंतु आतील गाभाऱ्यात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "मंदिर ग्रामम गावात, अरसूर–उळुंदूरपेट्टै रस्त्यावर विळुप्पुरमपासून सुमारे १६ किमी अंतरावर आहे, आणि ग्रामम बस थांबा मंदिराच्या जवळ आहे. विळुप्पुरमहून नियमित बस धावतात, आणि तिरुक्कोईलूरहून अरसूरमार्गे येणाऱ्या बसही ग्रामम येथे थांबतात. प्रवासासाठी विळुप्पुरम जंक्शन हे मुख्य रेल्वे स्थानक आहे."
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "mukkonanatheswarar-mukkudal",
   "locale": "mr",
+  "name": "मुक्कोणनाथेश्वरर मंदिर, तिरुप्पळ्ळियिन मुक्कूडल",
   "nativeName": "திருப்பள்ளியின் முக்கூடல் முக்கோணநாதேஸ்வரர் கோயில்",
+  "deity": "मुक्कोणनाथेश्वरर (तिरुनेत्रनाथर, त्रिनेत्र प्रभू) रूपातील शिव, देवी अंजनाक्षी (मयिलमेवुम कन्नि) यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Tiruppalliyin Mukkudal (Kekkarai), near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पळ्ळियिन मुक्कूडल (केक्करै), तिरुवारूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.7984,
     "lng": 79.6572
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कावेरी त्रिभुज-प्रदेशातील तिरुवारूरजवळील तिरुप्पळ्ळियिन मुक्कूडल येथे शिवाचा मुक्कोणनाथेश्वरर, म्हणजेच तिरुनेत्रनाथर, त्रिनेत्र प्रभू, म्हणून गौरव होतो, देवी अंजनाक्षींसह. अप्पर यांनी गायिलेले हे पाडल पेट्र स्थळम् जलांच्या संगमावर (मुक्कूडल) उभे आहे — खालच्या कावेरी प्रदेशातील एक शांत मंदिर, ज्याची नावे शिवाच्या नेत्रावर रेंगाळतात.",
   "sections": {
-    "history": "Tiruppalliyin Mukkudal, also recorded as Kekkarai, lies about 6–7 km north-east of Tiruvarur in Tiruvarur district, in the Kaveri delta. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirunavukkarasar (Appar). The name mukkudal, 'the meeting of three,' marks it as a place at a confluence of waters. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Mukkonanatheswarar — also Tirunethranathar and Trinethranathar, names of the three-eyed Shiva — in the sanctum, with the goddess Anjanakshi, also called Mayilmevum Kanni, in her own shrine, a Nandi and the parivara devatas. The temple keeps the simple, well-ordered plan of the smaller Kaveri-country sanctuaries.",
-    "legends": "The lord's names dwell on the eye of Shiva: Tirunethranathar and Trinethranathar name the three-eyed one, whose third eye is the eye of wisdom and of the burning away of ignorance. The goddess Anjanakshi is 'she of the collyrium-dark eyes,' and in the Tamil Mayilmevum Kanni, 'the maiden with the peacock,' she carries a gentler grace. As with many smaller delta shrines, the fuller sthala purana is kept chiefly in local tradition and the Tevaram verses of Appar.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine near Tiruvarur. Pilgrims on the Paadal Petra trail around Tiruvarur include Mukkudal among their stops.",
-    "experience": "At Tiruppalliyin Mukkudal the pilgrim comes to a quiet shrine of the three-eyed lord at a meeting of waters. Before Mukkonanatheswarar and Anjanakshi, the visitor finds a small Tevaram temple of the Tiruvarur country, its names turning the mind to the eye of Shiva and the peace of the confluence."
+    "history": "तिरुप्पळ्ळियिन मुक्कूडल, ज्याची केक्करै म्हणूनही नोंद आहे, कावेरी त्रिभुज-प्रदेशात तिरुवारूर जिल्ह्यात तिरुवारूरच्या सुमारे ६–७ किमी ईशान्येस वसले आहे. हे तेवारममध्ये तिरुनावुक्करसर (अप्पर) यांनी गायिलेले पाडल पेट्र स्थळम् आहे. मुक्कूडल हे नाव, ‘तिघांचा संगम’, याला जलांच्या संगमावरील स्थान म्हणून दर्शवते. दगडी मंदिर चोळ काळातील आणि नंतरचे आहे.",
+    "architecture": "हे द्रविड शैलीतील त्रिभुज-प्रदेशातील मंदिर आहे; गर्भगृहात मुक्कोणनाथेश्वरर — तिरुनेत्रनाथर आणि त्रिनेत्रनाथर या त्रिनेत्र शिवाच्या नावांनीही ओळखले जाणारे — विराजमान आहेत; देवी अंजनाक्षी, जिला मयिलमेवुम कन्नि असेही म्हणतात, तिच्या स्वतंत्र मंदिरात आहे, तसेच नंदी आणि परिवार देवता आहेत. मंदिर कावेरी प्रदेशातील लहान मंदिरांचा साधा, सुव्यवस्थित आराखडा राखून आहे.",
+    "legends": "प्रभूंची नावे शिवाच्या नेत्रावर रेंगाळतात: तिरुनेत्रनाथर आणि त्रिनेत्रनाथर ही त्रिनेत्र प्रभूची नावे आहेत, ज्याचा तिसरा नेत्र हा ज्ञानाचा आणि अज्ञान जाळून टाकणारा नेत्र आहे. देवी अंजनाक्षी म्हणजे ‘काजळाने काळ्या झालेल्या नेत्रांची’, आणि तमिळमधील मयिलमेवुम कन्नि, ‘मोर असलेली कन्या’, या नावात ती अधिक सौम्य कृपा धारण करते. अनेक लहान त्रिभुज-प्रदेशी मंदिरांप्रमाणे, सविस्तर स्थलपुराण प्रामुख्याने स्थानिक परंपरेत आणि अप्पर यांच्या तेवारम पदांत जपलेले आहे.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यात नवरात्र आणि कार्तिकैच्या सोमवारी, प्रदोष उपासनेसह, पाळले जातात, तिरुवारूरजवळील एका ग्रामीण मंदिराच्या शांत प्रमाणात. तिरुवारूरभोवतीच्या पाडल पेट्र यात्रामार्गावरील यात्रेकरू मुक्कूडलला आपल्या थांब्यांत समाविष्ट करतात.",
+    "experience": "तिरुप्पळ्ळियिन मुक्कूडल येथे यात्रेकरू जलांच्या संगमावरील त्रिनेत्र प्रभूच्या शांत मंदिरात येतो. मुक्कोणनाथेश्वरर आणि अंजनाक्षींसमोर अभ्यागताला तिरुवारूर प्रदेशातील एक लहान तेवारम मंदिर आढळते, ज्याची नावे मनाला शिवाच्या नेत्राकडे आणि संगमाच्या शांततेकडे वळवतात."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruppalliyin Mukkudal (Kekkarai) is about 6–7 km north-east of Tiruvarur in Tiruvarur district. Tiruvarur is the nearest rail head, with local buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक ठिकाणी खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत सामान्यतः छायाचित्रणाची परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुप्पळ्ळियिन मुक्कूडल (केक्करै) हे तिरुवारूर जिल्ह्यात तिरुवारूरच्या सुमारे ६–७ किमी ईशान्येस आहे. तिरुवारूर हे सर्वांत जवळचे रेल्वे स्थानक असून गावापर्यंत स्थानिक बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }
