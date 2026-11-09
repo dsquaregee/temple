@@ -1,30 +1,37 @@
 {
   "id": "ranganathaswamy-shivanasamudra",
   "locale": "mr",
+  "name": "रंगनाथस्वामी मंदिर, शिवनसमुद्र",
   "nativeName": "ಶ್ರೀ ರಂಗನಾಥಸ್ವಾಮಿ ದೇವಾಲಯ, ಶಿವನಸಮುದ್ರ",
+  "deity": "विष्णू जगन्मोहन रंगनाथ रूपात, मध्य रंग — नदीचा मधला रंग — आदिशेष नागावर शयन करणारे",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Shivanasamudra",
-    "state": "Karnataka",
+    "city": "शिवनसमुद्र",
+    "state": "कर्नाटक",
     "lat": 12.2967,
     "lng": 77.1736
   },
+  "period": "प्राचीन, चोळ उगमाचे; होयसळ, विजयनगरचे राजे आणि म्हैसूरच्या राज्यकर्त्यांनी समृद्ध केलेले",
   "century": 9,
+  "dynasty": "चोळ उगम, होयसळ आणि विजयनगर",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "pancharanga-kshetrams"
   ],
+  "summary": "कावेरीच्या महान धबधब्याशेजारील नदीबेटावर विष्णू जगन्मोहन रंगनाथ रूपात शयन करतात — मध्य रंग, नदीवरील तीन रंगांपैकी मधला. मूळने प्राचीन आणि होयसळ व विजयनगर यांनी उभारलेले हे पाच रंगनाथ देवालयांच्या यात्रेतील दुसरा टप्पा आहे.",
   "sections": {
-    "history": "Shivanasamudra sits on an island of the Kaveri beside the famous falls where the river splits and plunges in twin cascades. Its temple to Vishnu as Ranganatha is honoured as the Madhya Ranga, the middle Ranga, standing between the Adi Ranga at Srirangapatna upstream and the Antya Ranga at Srirangam far below. The shrine is held to be very ancient, of Chola origins, and was enhanced over the centuries by the Hoysalas, the Vijayanagara emperors and the later rulers of Mysore.",
-    "architecture": "Built in the Dravidian manner, the temple gathers around the sanctum of the reclining lord, here worshipped as Jaganmohana Ranganatha, whose dark image is said to be carved from a single saligrama-like stone. Pillared halls and a gateway tower open before the shrine, and the island setting — ringed by the branching river and its falls — lends the temple a wild and elemental beauty rare among the great Vaishnava sanctuaries.",
-    "legends": "As the Madhya Ranga, Shivanasamudra is the middle jewel of the river's three Rangas, and the pilgrim who worships at Srirangapatna, Shivanasamudra and Srirangam in a single day completes the Triranga Darshana held to be of great merit. The lord here is honoured as the youthful, enchanting form of Ranganatha — Mohana Ranga — reclining in serene sleep upon the serpent while the Kaveri thunders past the island in its falls.",
-    "festivals": "The temple keeps the Vaishnava calendar — Vaikunta Ekadashi, the birth-star days of the lord, and the annual Brahmotsavam — with processions around the island shrine. The falls are fullest in the monsoon months, when the roar of the twin cascades joins the temple's festival, and the days of the Triranga pilgrimage bring devotees from across Karnataka.",
-    "experience": "Shivanasamudra joins the devotion of the reclining lord to the grandeur of the Kaveri's falls — an island shrine between two cascades, wild and quiet at once. It lies in the country between Mandya and Chamarajanagar, reached by road from Bengaluru and Mysuru, and it forms the middle stage of the Pancharanga pilgrimage that runs the length of the river."
+    "history": "शिवनसमुद्र कावेरीच्या एका बेटावर, प्रसिद्ध धबधब्याशेजारी वसले आहे, जेथे नदी दुभंगते आणि दुहेरी प्रपातांत कोसळते. विष्णूचे रंगनाथ रूपातील येथील मंदिर मध्य रंग म्हणून पूज्य आहे — वरच्या बाजूस श्रीरंगपट्टण येथील आदि रंग आणि खूप खाली श्रीरंगम येथील अंत्य रंग यांच्यामध्ये उभे. हे देवालय अतिप्राचीन, चोळ उगमाचे मानले जाते, आणि शतकानुशतके होयसळ, विजयनगरचे सम्राट आणि म्हैसूरच्या नंतरच्या राज्यकर्त्यांनी ते समृद्ध केले.",
+    "architecture": "द्रविड पद्धतीने बांधलेले हे मंदिर शयन करणाऱ्या प्रभूच्या गर्भगृहाभोवती उभे आहे; येथे ते जगन्मोहन रंगनाथ म्हणून पूजले जातात, ज्यांची काळी मूर्ती एकाच शाळिग्रामसदृश दगडातून कोरलेली असल्याचे सांगितले जाते. देवालयासमोर स्तंभयुक्त सभागृहे आणि गोपुर-द्वार उघडतात, आणि शाखांमध्ये विभागलेल्या नदीने व तिच्या धबधब्याने वेढलेला बेटाचा परिसर मंदिराला अशी रानटी आणि मूलभूत सुंदरता देतो, जी महान वैष्णव देवालयांमध्ये दुर्मिळ आहे.",
+    "legends": "मध्य रंग म्हणून, शिवनसमुद्र हे नदीच्या तीन रंगांपैकी मधले रत्न आहे, आणि जो यात्रेकरू एकाच दिवशी श्रीरंगपट्टण, शिवनसमुद्र आणि श्रीरंगम येथे पूजा करतो तो त्रिरंग दर्शन पूर्ण करतो, जे अत्यंत पुण्यप्रद मानले जाते. येथील प्रभू रंगनाथाचे तरुण, मनमोहक रूप — मोहन रंग — म्हणून पूज्य आहेत; नागावर शांत निद्रेत शयन करणारे, तर कावेरी धबधब्यांत बेटाजवळून गर्जत जाते.",
+    "festivals": "मंदिर वैष्णव पंचांग पाळते — वैकुंठ एकादशी, प्रभूच्या जन्म-नक्षत्राचे दिवस आणि वार्षिक ब्रह्मोत्सवम् — बेटावरील देवालयाभोवती मिरवणुकांसह. पावसाळी महिन्यांत धबधबे सर्वाधिक भरलेले असतात, तेव्हा दुहेरी प्रपातांची गर्जना मंदिराच्या उत्सवात मिसळते, आणि त्रिरंग यात्रेचे दिवस संपूर्ण कर्नाटकातून भाविकांना घेऊन येतात.",
+    "experience": "शिवनसमुद्र शयन करणाऱ्या प्रभूची भक्ती कावेरीच्या धबधब्यांच्या भव्यतेशी जोडते — दोन प्रपातांमधील बेटावरील देवालय, एकाच वेळी रानटी आणि शांत. हे मंड्या आणि चामराजनगर यांच्यामधील प्रदेशात आहे, बंगळुरू आणि म्हैसूरहून रस्त्याने गाठता येते, आणि नदीच्या संपूर्ण लांबीवर पसरलेल्या पंचरंग यात्रेचा हा मधला टप्पा आहे."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the monsoon falls season and the Brahmotsavam days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Shivanasamudra lies on an island of the Kaveri beside its falls, reachable by road from Bengaluru and Mysuru; the nearest towns are Malavalli and Kollegal."
+    "timings": "दररोज सकाळ-संध्याकाळच्या दर्शन सत्रांसह उघडे असते आणि दुपारी बंद असते; पावसाळ्यातील धबधब्यांचा हंगाम आणि ब्रह्मोत्सवम्चे दिवस सर्वाधिक गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "शिवनसमुद्र कावेरीच्या बेटावर, तिच्या धबधब्याशेजारी आहे; बंगळुरू आणि म्हैसूरहून रस्त्याने पोहोचता येते; मळवळ्ळी आणि कोळ्ळेगाल ही जवळची शहरे आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/ranganathaswamy-shivanasamudra.jpg",

@@ -1,29 +1,36 @@
 {
   "id": "raghunayaka-ayodhya",
   "locale": "mr",
+  "name": "रघुनायक पेरुमाळ मंदिर (अम्माजी मंदिर), अयोध्या",
   "nativeName": "रघुनायक मंदिर (अम्माजी मंदिर), अयोध्या",
+  "deity": "विष्णू रामरूपात, रघुनायक (चक्रवर्ती तिरुमगन) म्हणून पूजित, सीता पिरात्तीसह — अम्माजी मंदिरातील श्रीवैष्णव दिव्य देश उपासना",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Ayodhya",
-    "state": "Uttar Pradesh",
+    "city": "अयोध्या",
+    "state": "उत्तर प्रदेश",
     "lat": 26.799,
     "lng": 82.204
   },
+  "period": "वड नाडूतील एक दिव्य देश, नालायिर दिव्य प्रबंधमध्ये पाच आळवारांनी गायिलेला",
   "century": 8,
+  "dynasty": "श्रीवैष्णव परंपरा (अम्माजी मंदिराची स्थापना १९०४)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "रामाच्या नगरी अयोध्येत श्रीवैष्णव परंपरा रघुनायकाचा, पाच आळवारांनी गायिलेल्या चक्रवर्ती तिरुमगनाचा गौरव करते — वड नाडूतील एक दिव्य देश, ज्याची उपासना अम्माजी मंदिरात होते.",
   "sections": {
-    "history": "Thiru Ayodhi, Ayodhya, is one of the 108 Divya Desams, the abodes of Vishnu praised by the Alvars in the Nalayira Divya Prabandham, and belongs to Vada Nadu, the northern region of the tradition. Thirteen verses sing its lord: six by Periyalvar, four by Kulasekara Alvar, and one each by Nammalvar, Thondaradippodi Alvar and Thirumangai Alvar. For South Indian pilgrims in the Sri Vaishnava tradition, worship of the Divya Desam lord is offered at the Ammaji Mandir. It was founded in 1904 by Yogi Parthasarathy Iyengar, and after his death his wife, Yogi Singammal, called Ammaji, completed it and organised its daily worship and festivals, which gave the temple the name by which it is known. The Alvars' verses, not any one building, are the oldest witness to this Divya Desam.",
-    "architecture": "The Ammaji Mandir is built in the Dravidian style, a South Indian temple in the north, and the Pushkala Vimana is named as the vimana of this Divya Desam. Its sacred water, the theertham, is the river Sarayu. The temple holds images of Rama, Sita and Ranganatha, along with a processional image linked to the Divya Desam of Darbhasayanam at Thiruppullani in Tamil Nadu. Shrines of Nammalvar, Thirumangai Alvar, Ramanuja (Udayavar) and Manavala Mamunigal stand within, gathering the Sri Vaishnava lineage under one roof.",
-    "legends": "Ayodhya is held by tradition to be the capital of Rama and the Ikshvaku kings, and the city where the Ramayana unfolds. The Alvars sang it as the home of the lord they call Raghunayaka and Chakravarthi Thirumagan, the son of the emperor Dasharatha. Periyalvar, who sang six of its thirteen verses, and Kulasekara Alvar, who sang four, loved Rama with a particular tenderness. The Sarayu, flowing by the city, is the river of its tradition, and pilgrims bathe in it with devotion.",
-    "festivals": "The principal festival is Sri Rama Navami, celebrated at the Ammaji Mandir as a utsavam over five days with worship and processions. The Sri Vaishnava calendar's festivals, among them Vaikunta Ekadashi and the days of the Alvars and acharyas, are observed as at other Divya Desams. Confirm dates locally.",
-    "experience": "A quiet corner of devotion for the Sri Vaishnava pilgrim, where Tamil verses of the Alvars are remembered beside the Sarayu in the heart of the north. Sit before the images of Rama, Sita and Ranganatha, then visit the shrines of the Alvars and acharyas. Arrive in the morning, when the city is calmer, and keep time for a walk to the river."
+    "history": "तिरु अयोध्या, म्हणजे अयोध्या, हा १०८ दिव्य देशांपैकी एक आहे — नालायिर दिव्य प्रबंधमध्ये आळवारांनी स्तवलेली विष्णूची निवासस्थाने — आणि तो परंपरेच्या उत्तरेकडील प्रदेशात, वड नाडूमध्ये येतो. तेरा पदे येथील प्रभूचे गायन करतात: सहा पेरियाळवारांची, चार कुलशेखर आळवारांची, आणि नम्माळवार, तोंडरडिप्पोडि आळवार आणि तिरुमंगै आळवार यांची प्रत्येकी एक. श्रीवैष्णव परंपरेतील दक्षिण भारतीय यात्रेकरूंसाठी दिव्य देशाच्या प्रभूची उपासना अम्माजी मंदिरात केली जाते. त्याची स्थापना १९०४ साली योगी पार्थसारथी अय्यंगार यांनी केली, आणि त्यांच्या निधनानंतर त्यांच्या पत्नी योगी सिंगम्माळ, ज्यांना अम्माजी म्हटले जाते, यांनी ते पूर्ण केले आणि त्याची दैनंदिन पूजा व उत्सव आयोजित केले, ज्यामुळे मंदिराला त्याचे सध्याचे नाव मिळाले. या दिव्य देशाचा सर्वांत जुना साक्षीदार कोणतीही एक इमारत नसून आळवारांची पदे आहेत.",
+    "architecture": "अम्माजी मंदिर द्रविड शैलीत बांधले आहे — उत्तरेतील एक दक्षिण भारतीय मंदिर — आणि पुष्कल विमान हे या दिव्य देशाचे विमान म्हणून नमूद आहे. त्याचे पवित्र जल, म्हणजे तीर्थ, सरयू नदी आहे. मंदिरात राम, सीता आणि रंगनाथ यांच्या मूर्ती आहेत, तसेच तमिळनाडूतील तिरुप्पुल्लाणी येथील दर्भशयनम् या दिव्य देशाशी जोडलेली एक उत्सवमूर्ती आहे. नम्माळवार, तिरुमंगै आळवार, रामानुज (उडैयवर) आणि मणवाळ मामुनिगळ यांची मंदिरे आत आहेत, जी श्रीवैष्णव परंपरेला एका छताखाली एकत्र आणतात.",
+    "legends": "अयोध्या ही परंपरेने राम आणि इक्ष्वाकू राजांची राजधानी आणि रामायणाचे कथानक जेथे उलगडते ते नगर मानली जाते. आळवारांनी तिचे गायन त्या प्रभूचे निवासस्थान म्हणून केले, ज्याला ते रघुनायक आणि चक्रवर्ती तिरुमगन — सम्राट दशरथाचा पुत्र — म्हणतात. तेरापैकी सहा पदे गाणारे पेरियाळवार आणि चार गाणारे कुलशेखर आळवार यांनी रामावर विशेष कोमलतेने प्रेम केले. नगराजवळून वाहणारी सरयू ही तिच्या परंपरेची नदी आहे, आणि यात्रेकरू भक्तिभावाने तिच्यात स्नान करतात.",
+    "festivals": "मुख्य उत्सव श्री रामनवमी हा असून अम्माजी मंदिरात तो पाच दिवसांचा उत्सवम् म्हणून पूजा आणि मिरवणुकांसह साजरा केला जातो. वैकुंठ एकादशी तसेच आळवार आणि आचार्यांचे जयंती-दिन यांसह श्रीवैष्णव पंचांगातील उत्सव इतर दिव्य देशांप्रमाणेच साजरे केले जातात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "श्रीवैष्णव यात्रेकरूसाठी भक्तीचा एक शांत कोपरा, जेथे उत्तरेच्या हृदयात सरयूकाठी आळवारांच्या तमिळ पदांचे स्मरण केले जाते. राम, सीता आणि रंगनाथ यांच्या मूर्तींसमोर बसा, मग आळवार आणि आचार्यांच्या मंदिरांना भेट द्या. सकाळी, नगर अधिक शांत असताना, यावे आणि नदीकाठी फेरफटका मारण्यासाठी वेळ ठेवावा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Rama Navami and Vaikunta Ekadashi are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Ayodhya is in Uttar Pradesh on the Sarayu, with its own railway station and road links to Lucknow and Gorakhpur; the airport at Ayodhya serves the city. The Ammaji Mandir lies within the city; ask locally for the temple of the South Indian Sri Vaishnava tradition."
+    "timings": "दररोज सकाळ-संध्याकाळच्या दर्शन सत्रांसह उघडे असते आणि दुपारी बंद असते; रामनवमी आणि वैकुंठ एकादशीला सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "अयोध्या उत्तर प्रदेशात सरयूकाठी आहे; तिचे स्वतःचे रेल्वे स्थानक आहे आणि लखनौ व गोरखपूरशी रस्ते-जोडणी आहे; अयोध्येतील विमानतळ शहराला सेवा देतो. अम्माजी मंदिर शहरातच आहे; दक्षिण भारतीय श्रीवैष्णव परंपरेच्या मंदिराबद्दल स्थानिकांना विचारा."
   }
 }
