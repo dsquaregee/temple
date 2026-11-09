@@ -1,29 +1,36 @@
 {
   "id": "ratnapureeswarar-tirunattiyathankudi",
   "locale": "bn",
+  "name": "রত্নপুরীশ্বরর মন্দির, তিরুনাট্টিয়াত্তানকুডি",
   "nativeName": "திருநாட்டியத்தான்குடி ரத்னபுரீஸ்வரர் கோயில்",
+  "deity": "শিব রত্নপুরীশ্বরর (মাণিক্কবণ্ণর) রূপে, দেবী মামালর মঙ্গৈ সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tirunattiyathankudi, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "তিরুনাট্টিয়াত্তানকুডি, তিরুবারুরের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.72,
     "lng": 79.56
   },
+  "period": "তেবারম যুগ (সপ্তম–অষ্টম শতাব্দীতে স্তবগান); পরবর্তী চোল সৌধ-মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুনাট্টিয়াত্তানকুডি, তিরুবারুর থেকে প্রায় ১৪ কিমি দূরে, শিবকে রত্নপুরীশ্বরর—মাণিক্কবণ্ণর—রূপে সম্মান জানায়, দেবী মামালর মঙ্গৈ সহ। সুন্দরর কর্তৃক স্তবগীত একটি পাডল পেট্র স্থলম, এটি তেষট্টি নায়নমারের একজন কোট্পুলি নায়নারের অবতার স্থলম।",
   "sections": {
-    "history": "Tirunattiyathankudi lies about 14 km from Tiruvarur, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Sundarar, and is honoured as the avatara sthalam — the birthplace — of Kotpuli Nayanar, one of the sixty-three Nayanmars. The stone temple is of the Chola period and later, keeping the form of the Shiva shrines of the Tiruvarur delta.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Rathnapureeswarar — also called Manikkavannar — in the sanctum, with the goddess Maamalar Mangai (also named Ratnapureeswari, Mangalambikai) in her own shrine, a Nandi and the parivara devatas, with a shrine for Kotpuli Nayanar among the saints. The walled courtyard keeps the form of the Tiruvarur delta temples.",
-    "legends": "Shiva is worshipped here as Rathnapureeswarar — Manikkavannar, 'the gem-hued lord'; a local account tells of a Chola named Ratnendra who built the temple after the lord divided a hoard of gems fairly between two brothers. Above all the place is remembered as the birthplace of Kotpuli Nayanar, the warrior-saint whose unbending devotion to the service of Shiva is sung among the lives of the sixty-three. The goddess Maamalar Mangai stands beside the lord.",
-    "festivals": "The temple observes the guru puja of Kotpuli Nayanar, besides Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Tiruvarur delta include Tirunattiyathankudi among their stops, for the Nayanar's sake.",
-    "experience": "At Tirunattiyathankudi the pilgrim comes to the birthplace of a warrior-saint. Before Rathnapureeswarar and Maamalar Mangai, the visitor finds the quiet grace of a Tevaram temple of the Tiruvarur delta, and the memory of Kotpuli Nayanar, who held the service of Shiva above all else."
+    "history": "তিরুনাট্টিয়াত্তানকুডি তিরুবারুর থেকে প্রায় ১৪ কিমি দূরে, তিরুবারুর জেলায় অবস্থিত। এটি একটি পাডল পেট্র স্থলম, সুন্দরর কর্তৃক তেবারমে স্তবগীত, এবং তেষট্টি নায়নমারের একজন কোট্পুলি নায়নারের অবতার স্থলম—জন্মস্থান—রূপে সম্মানিত। পাথরের মন্দিরটি চোল যুগের ও তৎপরবর্তী, তিরুবারুর বদ্বীপের শিব-মন্দিরগুলির রূপ ধরে রাখে।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ-মন্দির, এই পীঠ গর্ভগৃহে রত্নপুরীশ্বররকে—মাণিক্কবণ্ণর নামেও পরিচিত—প্রতিষ্ঠিত করে, দেবী মামালর মঙ্গৈ (রত্নপুরীশ্বরী, মঙ্গলাম্বিকৈ নামেও) তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার-দেবতাসহ, সন্তদের মধ্যে কোট্পুলি নায়নারের একটি মন্দিরসহ। প্রাচীরঘেরা প্রাঙ্গণ তিরুবারুর বদ্বীপ-মন্দিরগুলির রূপ ধরে রাখে।",
+    "legends": "এখানে শিব পূজিত হন রত্নপুরীশ্বরর—মাণিক্কবণ্ণর, 'মণি-বর্ণের প্রভু' রূপে; এক স্থানীয় বিবরণ রত্নেন্দ্র নামে এক চোলের কথা বলে যিনি প্রভু দুই ভাইয়ের মধ্যে রত্নের ভাণ্ডার ন্যায্যভাবে ভাগ করে দেওয়ার পর মন্দিরটি নির্মাণ করেছিলেন। সর্বোপরি স্থানটি স্মরণীয় কোট্পুলি নায়নারের জন্মস্থান রূপে, সেই যোদ্ধা-সন্ত যাঁর শিবের সেবায় অবিচল ভক্তি তেষট্টির জীবনকথার মধ্যে গীত হয়। দেবী মামালর মঙ্গৈ প্রভুর পাশে দাঁড়িয়ে আছেন।",
+    "festivals": "মন্দিরটি কোট্পুলি নায়নারের গুরুপূজা পালন করে, এছাড়া মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজাসহ। তিরুবারুর বদ্বীপের তীর্থযাত্রীরা নায়নারের খাতিরে তিরুনাট্টিয়াত্তানকুডিকে তাঁদের বিরতিস্থানের মধ্যে রাখেন।",
+    "experience": "তিরুনাট্টিয়াত্তানকুডিতে তীর্থযাত্রী আসেন এক যোদ্ধা-সন্তের জন্মস্থানে। রত্নপুরীশ্বরর ও মামালর মঙ্গৈর সামনে, দর্শনার্থী তিরুবারুর বদ্বীপের এক তেবারম মন্দিরের নিভৃত মাধুর্য খুঁজে পান, এবং কোট্পুলি নায়নারের স্মৃতি, যিনি শিবের সেবাকে সবকিছুর ঊর্ধ্বে রেখেছিলেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirunattiyathankudi lies about 14 km from Tiruvarur, in Tiruvarur district. Tiruvarur is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময় স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "বিনম্র পরম্পরাগত পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; জুতো প্রবেশপথে রাখা হয়।",
+    "photography": "বাইরের করিডরে সাধারণত আলোকচিত্র অনুমোদিত কিন্তু গর্ভগৃহের ভিতরে নয়; আচার আলোকচিত্রের আগে মন্দিরকর্মীদের জিজ্ঞেস করুন।",
+    "gettingThere": "তিরুনাট্টিয়াত্তানকুডি তিরুবারুর থেকে প্রায় ১৪ কিমি দূরে, তিরুবারুর জেলায় অবস্থিত। তিরুবারুর নিকটতম শহর ও রেলস্টেশন, গ্রামে বাস ও ট্যাক্সি পাওয়া যায়।"
   }
 }

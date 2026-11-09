@@ -1,31 +1,42 @@
 {
   "id": "thiruvalangadu-vadaranyeswarar",
   "locale": "bn",
+  "name": "বডারণ্যেশ্বরর মন্দির, তিরুবালঙ্গাডু",
   "nativeName": "வடாரண்யேசுவரர் கோயில், திருவாலங்காடு",
+  "deity": "বডারণ্যেশ্বরর রূপে শিব, বটবনের প্রভু, যিনি প্রচণ্ড ঊর্ধ্বনৃত্য নেচেছিলেন, দেবী বণ্ডারকুড়লির সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thiruvalangadu",
-    "state": "Tamil Nadu",
+    "city": "তিরুবালঙ্গাডু",
+    "state": "তামিলনাড়ু",
     "lat": 13.1408,
     "lng": 79.6595
   },
+  "period": "উত্তর তামিল দেশের প্রাচীন পাডল পেট্র স্থলম, তেবারমে স্তুত; চোল যুগের গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "পল্লব ও চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "pancha-sabhai-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "পুরনো চোল দেশে আরক্কোণমের কাছে এক বটবনে শিব বডারণ্যেশ্বরর রূপে রত্ন সভায়—রত্নের কক্ষে—দাঁড়িয়ে আছেন, যেখানে তাঁকে প্রচণ্ড ঊর্ধ্বনৃত্য, ঊর্ধ্ব তাণ্ডব নাচতে স্মরণ করা হয়, এবং যেখানে সাধিকা কারৈক্কাল অম্মৈয়ার তাঁর চরণে স্তব গেয়েছিলেন।",
   "sections": {
-    "history": "Thiruvalangadu — a name that means the banyan forest — lies in the old Tondai country of northern Tamil Nadu, near Arakkonam and within reach of Chennai. Its temple to Shiva as Vadaranyeswarar, the lord of the banyan wood, is a Paadal Petra Sthalam, sung by the Nayanmar saints in the Tevaram, with origins in deep antiquity and its stone shrines shaped under the Cholas. The place is bound above all to the memory of Karaikkal Ammaiyar, one of the earliest of the sixty-three Nayanmars, who is said to have come here to lie at the dancing feet of the lord; and its name lives on in the celebrated Thiruvalangadu copper-plates, a great Chola record.",
-    "architecture": "The temple stands in the mature Dravidian manner, entered through a gopuram and gathered around the sanctum of Vadaranyeswarar, with a separate shrine for the Goddess Vandarkuzhali. Its heart is the Ratna Sabhai, the hall of jewels, one of the five sabhas where Shiva is honoured as the cosmic dancer. Here the lord is shown in the rare and strenuous posture of the Urdhva Tandava, one leg raised straight upward — the fierce dance by which he is said to have prevailed — a form seldom seen among the many images of Nataraja.",
-    "legends": "The great legend of Thiruvalangadu tells of a dance contest between Shiva and the goddess Kali, who ruled the forest. To humble her pride the lord danced, and the two matched step for step, until Shiva raised his foot straight up above his head in the Urdhva Tandava — a posture that modesty forbade the goddess to imitate — and so she yielded, and took her place as the guardian of the shrine. Karaikkal Ammaiyar, the gaunt and devoted saint who had cast off all worldly beauty for the love of Shiva, witnessed the dance and sang it, and her presence hallows the temple still. As the Ratna Sabhai, the jewel hall, Thiruvalangadu takes its place among the five sabhas of the dancing lord, whose foremost is the golden hall at Chidambaram.",
-    "festivals": "The temple's year turns on Arudra Darshan, the Thiruvadirai festival sacred to Shiva as the dancer, when the shrine of the Urdhva Tandava is at the centre of worship. The annual car festival draws the surrounding villages, and the days sacred to Karaikkal Ammaiyar are kept with particular devotion. Pradosham evenings and the Shivaratri night fill the forest shrine with lamps and hymns.",
-    "experience": "Thiruvalangadu is a quiet forest temple away from the great pilgrim highways, rewarding for the devotee who seeks the rarer face of Shiva's dance and the memory of one of Tamil Shaivism's most beloved saints. It lies about 15 km from Arakkonam and within a day's reach of Chennai, and joins the other halls of the dance — the gold at Chidambaram, the silver at Madurai, the copper at Tirunelveli, and the painted hall at Courtallam — into the single pilgrimage of the five sabhas."
+    "history": "তিরুবালঙ্গাডু—যে নামের অর্থ বটবন—উত্তর তামিলনাড়ুর পুরনো তোণ্ডৈ দেশে, আরক্কোণমের কাছে ও চেন্নাইয়ের নাগালের মধ্যে অবস্থিত। বটবনের প্রভু বডারণ্যেশ্বরর রূপে শিবের উদ্দেশে এর মন্দিরটি একটি পাডল পেট্র স্থলম, তেবারমে নায়নমার সাধকদের দ্বারা স্তুত, যার উৎস সুদূর প্রাচীনত্বে নিহিত এবং এর পাথরের তীর্থগুলি চোলদের অধীনে গড়ে ওঠে। স্থানটি সর্বোপরি কারৈক্কাল অম্মৈয়ারের স্মৃতির সঙ্গে বাঁধা, ত্রেষট্টি নায়নমারের মধ্যে অন্যতম প্রাচীন এক সাধিকা, যিনি প্রভুর নৃত্যরত চরণের কাছে শুয়ে থাকতে এখানে এসেছিলেন বলে কথিত; আর এর নাম প্রসিদ্ধ তিরুবালঙ্গাডু তাম্রপত্রে বেঁচে আছে, এক মহান চোল নথি।",
+    "architecture": "মন্দিরটি পরিণত দ্রাবিড় রীতিতে দাঁড়িয়ে আছে, একটি গোপুরম দিয়ে প্রবেশ করে বডারণ্যেশ্বররের গর্ভগৃহকে ঘিরে সমবেত, দেবী বণ্ডারকুড়লির জন্য পৃথক সন্নিধি সহ। এর হৃদয় হল রত্ন সভা, রত্নের কক্ষ, সেই পাঁচটি সভার একটি যেখানে শিব বিশ্বনর্তক রূপে সম্মানিত। এখানে প্রভু বিরল ও শ্রমসাধ্য ঊর্ধ্ব তাণ্ডব ভঙ্গিতে দেখানো হয়েছেন, এক পা সোজা উপরদিকে তোলা—সেই প্রচণ্ড নৃত্য যার মাধ্যমে তিনি জয়ী হয়েছিলেন বলে কথিত—যা নটরাজের বহু মূর্তির মধ্যে বিরলই দেখা যায়।",
+    "legends": "তিরুবালঙ্গাডুর মহান কিংবদন্তি শিব ও বনের অধিশ্বরী দেবী কালীর মধ্যে এক নৃত্য প্রতিযোগিতার কথা বলে। তাঁর অহংকার দমন করতে প্রভু নাচলেন, আর দুজনে পদে পদে সমান তাল মেলালেন, যতক্ষণ না শিব মাথার উপরে সোজা উপরদিকে পা তুললেন ঊর্ধ্ব তাণ্ডবে—এমন এক ভঙ্গি যা অনুকরণ করতে শালীনতা দেবীকে বারণ করল—আর তাই তিনি পরাজয় মানলেন ও তীর্থের রক্ষিকা রূপে স্থান নিলেন। কারৈক্কাল অম্মৈয়ার, যে শীর্ণ ও ভক্তিমতী সাধিকা শিবের প্রেমে সমস্ত জাগতিক সৌন্দর্য ত্যাগ করেছিলেন, এই নৃত্য দেখেছিলেন ও তা গেয়েছিলেন, আর তাঁর উপস্থিতি আজও মন্দিরকে পবিত্র করে। রত্ন সভা, রত্নের কক্ষ রূপে তিরুবালঙ্গাডু নৃত্যরত প্রভুর পাঁচটি সভার মধ্যে স্থান নেয়, যাদের প্রধান চিদম্বরমের স্বর্ণকক্ষ।",
+    "festivals": "মন্দিরের বছর আবর্তিত হয় আরুদ্র দর্শন, নর্তক রূপে শিবের উদ্দেশে পবিত্র তিরুবাদিরৈ উৎসবকে ঘিরে, যখন ঊর্ধ্ব তাণ্ডবের তীর্থ পূজার কেন্দ্রে থাকে। বার্ষিক রথযাত্রা চারপাশের গ্রামগুলিকে টানে, আর কারৈক্কাল অম্মৈয়ারের উদ্দেশে পবিত্র দিনগুলি বিশেষ ভক্তির সঙ্গে পালিত হয়। প্রদোষম সন্ধ্যা ও শিবরাত্রির রাত বনতীর্থকে প্রদীপ ও স্তোত্রে ভরিয়ে তোলে।",
+    "experience": "তিরুবালঙ্গাডু মহান তীর্থপথ থেকে দূরে এক নিরিবিলি বনতীর্থ, সেই ভক্তের জন্য পুরস্কারস্বরূপ যিনি শিবের নৃত্যের বিরলতর রূপ ও তামিল শৈবধর্মের অন্যতম প্রিয় সাধিকার স্মৃতি খোঁজেন। এটি আরক্কোণম থেকে প্রায় ১৫ কিমি দূরে ও চেন্নাই থেকে একদিনের নাগালের মধ্যে অবস্থিত, এবং নৃত্যের অন্যান্য কক্ষগুলিকে—চিদম্বরমের স্বর্ণ, মাদুরাইয়ের রৌপ্য, তিরুনেলবেলির তাম্র, এবং কুত্তালমের চিত্রিত কক্ষ—পাঁচটি সভার একক তীর্থযাত্রায় যুক্ত করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Arudra Darshan and Pradosham evenings are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvalangadu lies in Tiruvallur district, about 15 km from Arakkonam and roughly 70 km from Chennai, reachable by road and by the suburban rail line toward Arakkonam."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন অধিবেশন ও মধ্যাহ্নে বিরতি সহ খোলা থাকে; আরুদ্র দর্শন ও প্রদোষম সন্ধ্যা সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা রেখে; ঢোকার আগে জুতো খুলে রাখতে হয়। বহু দক্ষিণী তীর্থের মতো পুরুষদের গর্ভগৃহের আগে ঊর্ধ্বাঙ্গের পোশাক খুলে রাখতে ঐতিহ্যগতভাবে বলা হয়; প্রদর্শিত নিয়ম মেনে চলুন।",
+    "photography": "গর্ভগৃহে ও তার চারপাশে ছবি তোলা সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুবালঙ্গাডু তিরুবাল্লুর জেলায়, আরক্কোণম থেকে প্রায় ১৫ কিমি ও চেন্নাই থেকে মোটামুটি ৭০ কিমি দূরে অবস্থিত, সড়কপথে ও আরক্কোণমের দিকে শহরতলি রেলপথে পৌঁছানো যায়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thiruvalangadu-vadaranyeswarar.mp3",
+    "durationSec": 239
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
@@ -37,5 +48,11 @@
       "webp": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.webp"
     },
     "og": "https://media.dsquaregee.com/og/thiruvalangadu-vadaranyeswarar.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/thiruvalangadu-vadaranyeswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "durationSec": 181,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

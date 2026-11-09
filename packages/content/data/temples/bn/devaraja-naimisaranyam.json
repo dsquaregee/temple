@@ -1,30 +1,37 @@
 {
   "id": "devaraja-naimisaranyam",
   "locale": "bn",
+  "name": "দেবরাজ পেরুমাল মন্দির, নৈমিষারণ্য",
   "nativeName": "देवराज पेरुमाल मंदिर, नैमिषारण्य",
+  "deity": "বিষ্ণু দেবরাজ পেরুমাল (নৈমিষনাথ) রূপে, দেবী হরিলক্ষ্মী (পুণ্ডরীকবল্লী ঠায়ার) সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Naimisharanya, Sitapur",
-    "state": "Uttar Pradesh",
+    "city": "নৈমিষারণ্য, সীতাপুর",
+    "state": "উত্তরপ্রদেশ",
     "lat": 27.3486,
     "lng": 80.4864
   },
+  "period": "গোমতী নদীর ধারে বড় নাড়ুর একটি দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে তিরুমঙ্গই আলবার দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "প্রাচীন পবিত্র অরণ্য-ক্ষেত্র, কোনো একক রাজবংশ নেই",
+  "style": "উত্তর ভারতীয় মন্দির ঐতিহ্য",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "গোমতীর ধারে প্রাচীন নৈমিষারণ্য অরণ্যে বিষ্ণু দেবরাজ পেরুমাল রূপে পূজিত — তিরুমঙ্গই আলবার দ্বারা স্তুত বড় নাড়ুর দিব্য দেশম, গোলাকার চক্র তীর্থের পাশে।",
   "sections": {
-    "history": "Naimisharanya, in Sitapur district of Uttar Pradesh, is one of the 108 Divya Desams and belongs to Vada Nadu, the northern country. Thirumangai Alvar sang it in a decad of ten pasurams, Periya Thirumozhi 1.6, honouring the lord Devarajan and his consort Harilakshmi on the banks of the Gomti, which the Alvar calls the Gomudhi. The decad is remembered for his mood of remorse and surrender. The temple here, the Shri Naimishnath Vishnu Temple, is counted among the eight Swayam Vyakta kshetras, the places where Vishnu is held to have manifested of his own will. In the Sri Vaishnava tradition the forest itself is worshipped as the Lord.",
-    "architecture": "More than any single building, Naimisharanya is a sacred landscape. The shrine of Naimishnath, or Devaraja Perumal, sits within the pilgrimage area, with the Goddess worshipped as Harilakshmi, also named Pundarikavalli. Its most revered feature is the Chakra Tirtha or Chakra Kund, a circular tank fed by an underground source, held to mark where Vishnu's Sudarshana chakra touched the earth. Pilgrims bathe here on festival days, and the Gomti flows nearby.",
-    "legends": "Tradition holds that the sages led by Shaunaka gathered in this forest and listened to the bard Suta recite the Puranas and the Mahabharata. The name Naimisha is explained by another tradition, in which the wheel, the nemi, sent by Brahma wore away here, marking the place as a hallowed ground. The circular Chakra Tirtha is revered as the spot touched by Vishnu's Sudarshana chakra, which is why a dip in its waters is counted so meritorious.",
-    "festivals": "Bathing at the Chakra Tirtha on the new-moon day falling on a Monday, Somavati Amavasya, draws pilgrims in large numbers, and in the month of Phalguna devotees undertake the parikrama of the sacred area. Vaikunta Ekadashi is observed by Vaishnava devotees. These observances are customary; confirm dates locally.",
-    "experience": "Naimisharanya asks the pilgrim to slow down: the temple, the Chakra Tirtha and the forest lanes together make one pilgrimage. Bathe at the tank as custom allows, offer respects to Devaraja Perumal, and read or recall Thirumangai Alvar's decad, which was sung here. Pilgrims often visit the other nearby sacred places of the kshetra, such as Suta Gaddi, along the way."
+    "history": "উত্তরপ্রদেশের সীতাপুর জেলার নৈমিষারণ্য ১০৮টি দিব্য দেশমের অন্যতম এবং উত্তরের দেশ বড় নাড়ুর অন্তর্গত। তিরুমঙ্গই আলবার এটিকে দশটি পাসুরমের একটি দশকে, পেরিয় তিরুমোঝ়ি ১.৬-এ গেয়েছেন, গোমতীর তীরে প্রভু দেবরাজন ও তাঁর সহধর্মিণী হরিলক্ষ্মীকে বন্দনা করে, যে গোমতীকে আলবার গোমুদী বলেন। দশকটি তাঁর অনুতাপ ও আত্মসমর্পণের ভাবের জন্য স্মরণীয়। এখানকার মন্দির, শ্রী নৈমিষনাথ বিষ্ণু মন্দির, আটটি স্বয়ম্‌ব্যক্ত ক্ষেত্রের অন্যতম রূপে গণ্য, যে স্থানগুলিতে বিষ্ণু নিজের ইচ্ছায় প্রকট হয়েছেন বলে ধরা হয়। শ্রীবৈষ্ণব ঐতিহ্যে অরণ্যটিকে স্বয়ং প্রভু রূপে পূজা করা হয়।",
+    "architecture": "কোনো একক ভবনের চেয়ে বেশি, নৈমিষারণ্য একটি পবিত্র ভূদৃশ্য। নৈমিষনাথ, অর্থাৎ দেবরাজ পেরুমালের মন্দির তীর্থক্ষেত্রের মধ্যে অবস্থিত, দেবী হরিলক্ষ্মী, যিনি পুণ্ডরীকবল্লী নামেও পরিচিত, রূপে পূজিত। এর সবচেয়ে পূজ্য বৈশিষ্ট্য চক্র তীর্থ বা চক্র কুণ্ড, একটি গোলাকার জলাশয় যা ভূগর্ভস্থ উৎস থেকে জল পায়, যেখানে বিষ্ণুর সুদর্শন চক্র পৃথিবী স্পর্শ করেছিল বলে ধরা হয়। তীর্থযাত্রীরা উৎসবের দিনে এখানে স্নান করেন, এবং গোমতী নিকটে প্রবাহিত।",
+    "legends": "ঐতিহ্য বলে, শৌনকের নেতৃত্বে ঋষিরা এই অরণ্যে সমবেত হয়ে সূত ভাটকে পুরাণ ও মহাভারত আবৃত্তি করতে শুনেছিলেন। নৈমিষ নামটির ব্যাখ্যা অন্য এক ঐতিহ্যে দেওয়া হয়, যেখানে ব্রহ্মার প্রেরিত চক্র, নেমি, এখানে ক্ষয়প্রাপ্ত হয়েছিল, যা স্থানটিকে পবিত্র ভূমি রূপে চিহ্নিত করে। গোলাকার চক্র তীর্থকে বিষ্ণুর সুদর্শন চক্র স্পর্শ করা স্থান রূপে পূজা করা হয়, এই কারণেই এর জলে স্নান এত পুণ্যজনক বলে গণ্য।",
+    "festivals": "সোমবারে পড়া অমাবস্যা, সোমবতী অমাবস্যায় চক্র তীর্থে স্নান বিপুল সংখ্যক তীর্থযাত্রী টানে, এবং ফাল্গুন মাসে ভক্তরা পবিত্র ক্ষেত্রের পরিক্রমা করেন। বৈকুণ্ঠ একাদশী বৈষ্ণব ভক্তরা পালন করেন। এই আচারগুলি প্রথাগত; তারিখ স্থানীয়ভাবে যাচাই করুন।",
+    "experience": "নৈমিষারণ্য তীর্থযাত্রীকে ধীরস্থির হতে বলে: মন্দির, চক্র তীর্থ ও অরণ্যপথ একসঙ্গে মিলে একটি তীর্থযাত্রা গঠন করে। প্রথা অনুযায়ী জলাশয়ে স্নান করুন, দেবরাজ পেরুমালকে প্রণাম জানান, এবং তিরুমঙ্গই আলবারের দশকটি পাঠ বা স্মরণ করুন, যা এখানে গীত হয়েছিল। তীর্থযাত্রীরা প্রায়ই পথে ক্ষেত্রের নিকটবর্তী অন্যান্য পবিত্র স্থান, যেমন সূত গদ্দি, দর্শন করেন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Naimisharanya lies in Sitapur district, Uttar Pradesh, on the Gomti, and is reached by road from Sitapur and from Lucknow, about 90 km away. Lucknow is the nearest major airport, and Sitapur and Lucknow are the nearest large rail centres."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন সময়ে মধ্যাহ্নের বিরতিসহ খোলা থাকে; উৎসবের দিন সর্বাধিক ব্যস্ত। যাওয়ার আগে বর্তমান সময় স্থানীয়ভাবে যাচাই করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "নৈমিষারণ্য উত্তরপ্রদেশের সীতাপুর জেলায় গোমতীর ধারে অবস্থিত, এবং সীতাপুর ও প্রায় ৯০ কিমি দূরে লখনউ থেকে সড়কপথে পৌঁছানো যায়। লখনউ নিকটতম বড় বিমানবন্দর, এবং সীতাপুর ও লখনউ নিকটতম বড় রেলকেন্দ্র।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/devaraja-naimisaranyam.jpg",

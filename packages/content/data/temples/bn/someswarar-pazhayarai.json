@@ -1,29 +1,40 @@
 {
   "id": "someswarar-pazhayarai",
   "locale": "bn",
+  "name": "সোমেশ্বরর মন্দির, পঝৈয়ারৈ বডতলি",
   "nativeName": "பழையாறை வடதளி சோமேஸ்வரர் கோயில்",
+  "deity": "সোমেশ্বরর রূপে শিব, দেবী সোমকমলাম্বিকৈ (সোমকলাম্বিকৈ)-এর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Pazhayarai Vadathali, near Patteeswaram",
-    "state": "Tamil Nadu",
+    "city": "পঝৈয়ারৈ বডতলি, পট্টীশ্বরমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.94,
     "lng": 79.34
   },
+  "period": "তেবারম যুগ (সপ্তম–অষ্টম শতকে স্তুত); চোল রাজধানী, অষ্টম–নবম শতকের গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "পঝৈয়ারৈ বডতলিতে—এক কালের আদি চোলদের রাজধানী, কুম্বকোণম অঞ্চলে পট্টীশ্বরমের কাছে—শিব সোমেশ্বরর রূপে দেবী সোমকমলাম্বিকৈর সঙ্গে সম্মানিত হন। অপ্পর, সম্বন্দর ও সুন্দরর কর্তৃক তেবারমে পূজিত একটি পাডল পেট্র স্থলম, এই তীর্থটি বদ্বীপের এক পুরনো রাজকীয় নগরীর স্মৃতিধারক পথঘাটের মাঝে দাঁড়িয়ে আছে।",
   "sections": {
-    "history": "Pazhayarai, near Patteeswaram in the Kumbakonam tract of Thanjavur district, was a capital of the early Cholas, and its name — 'the old place' — keeps that memory. The Vadathali, the northern shrine, is a Paadal Petra Sthalam, revered in the Tevaram by Appar, Sambandar and Sundarar; it is believed to have been built in the Chola period, between the 8th and 9th centuries. The site holds several shrines; this is the Someswarar temple.",
-    "architecture": "A Dravidian temple of the old capital, the shrine enshrines Someswarar in the sanctum, with the goddess Somakamalambikai in her own shrine, a Nandi and the parivara devatas about the prakara. Pazhayarai Vadathali is one of the cluster of shrines — Vadathali, Then-thali and others — that marked the four quarters of the Chola city; the neighbouring Vadathali Dharmapureeswarar shrine, with its goddess Vimalai Nayaki, stands nearby, and sources at times fold the two names together.",
-    "legends": "Shiva is worshipped here as Someswarar, 'the lord of Soma,' with the goddess Somakamalambikai beside him. The chola kings held Pazhayarai as their seat, and the temples of its quarters carried the devotion of the court; the Vadathali is remembered among the shrines the three samayacharyas — Appar, Sambandar and Sundarar — honoured in their hymns. As with the shrines of the old capital, much of the sthala tradition is bound up with the memory of the Chola city itself.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims on the Kumbakonam–Patteeswaram circuit of the Paadal Petra temples include Pazhayarai Vadathali, the shrine of the old Chola capital, among their stops.",
-    "experience": "At Pazhayarai the pilgrim walks the ground of a vanished capital. Before Someswarar and Somakamalambikai, where the streets of an old royal city once ran, the visitor finds the quiet grace of a Tevaram temple honoured by all three samayacharyas — and, in the name 'the old place,' the long memory of the Cholas who ruled from here."
+    "history": "পঝৈয়ারৈ, তাঞ্জাভুর জেলার কুম্বকোণম অঞ্চলে পট্টীশ্বরমের কাছে, আদি চোলদের একটি রাজধানী ছিল, এবং এর নাম—'পুরনো স্থান'—সেই স্মৃতি ধরে রাখে। বডতলি, উত্তরের তীর্থ, একটি পাডল পেট্র স্থলম, অপ্পর, সম্বন্দর ও সুন্দরর কর্তৃক তেবারমে পূজিত; এটি চোল যুগে, অষ্টম ও নবম শতকের মধ্যে নির্মিত হয়েছিল বলে বিশ্বাস করা হয়। স্থানটিতে বেশ কয়েকটি তীর্থ আছে; এটি সোমেশ্বরর মন্দির।",
+    "architecture": "পুরনো রাজধানীর একটি দ্রাবিড় মন্দির, এই তীর্থটি গর্ভগৃহে সোমেশ্বররকে প্রতিষ্ঠিত করে, দেবী সোমকমলাম্বিকৈ তাঁর নিজস্ব তীর্থে, একটি নন্দী এবং প্রকারজুড়ে পরিবার দেবতাদের সঙ্গে। পঝৈয়ারৈ বডতলি সেই তীর্থগুচ্ছের একটি—বডতলি, তেন-তলি ও অন্যান্য—যা চোল নগরীর চারটি অংশ চিহ্নিত করত; প্রতিবেশী বডতলি ধর্মপুরীশ্বরর তীর্থ, তার দেবী বিমলৈ নায়কীর সঙ্গে, কাছেই দাঁড়িয়ে আছে, এবং সূত্রগুলি কখনো কখনো দুই নাম একসঙ্গে মিলিয়ে ফেলে।",
+    "legends": "এখানে শিব সোমেশ্বরর, 'সোমের প্রভু', রূপে পূজিত হন, তাঁর পাশে দেবী সোমকমলাম্বিকৈর সঙ্গে। চোল রাজারা পঝৈয়ারৈকে তাঁদের আসন হিসেবে ধরে রেখেছিলেন, এবং এর অংশগুলির মন্দিরগুলি রাজসভার ভক্তি বহন করত; বডতলি সেই তীর্থগুলির মধ্যে স্মরণীয় যা তিন সময়াচার্য—অপ্পর, সম্বন্দর ও সুন্দরর—তাঁদের স্তোত্রে সম্মানিত করেছিলেন। পুরনো রাজধানীর তীর্থগুলির মতোই, স্থলঐতিহ্যের অনেকখানি চোল নগরীর নিজের স্মৃতির সঙ্গে জড়িত।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈর সোমবারগুলি পালন করে, প্রদোষ পূজা সহ। কুম্বকোণম–পট্টীশ্বরম পরিক্রমার পাডল পেট্র মন্দিরগুলির তীর্থযাত্রীরা তাঁদের গন্তব্যের মধ্যে পঝৈয়ারৈ বডতলি, পুরনো চোল রাজধানীর তীর্থ, অন্তর্ভুক্ত করেন।",
+    "experience": "পঝৈয়ারৈতে তীর্থযাত্রী এক বিলুপ্ত রাজধানীর ভূমিতে হাঁটেন। সোমেশ্বরর ও সোমকমলাম্বিকৈর সামনে, যেখানে এক কালে পুরনো রাজকীয় নগরীর পথঘাট ছিল, দর্শনার্থী খুঁজে পান তিন সময়াচার্য সকলের দ্বারা সম্মানিত এক তেবারম মন্দিরের শান্ত মাধুর্য—আর, 'পুরনো স্থান' নামটিতে, এখান থেকে শাসনকারী চোলদের দীর্ঘ স্মৃতি।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Pazhayarai Vadathali lies near Patteeswaram, about 8 km from Kumbakonam, in Thanjavur district. Kumbakonam is the nearest town and rail head, with buses and taxis to Patteeswaram and Pazhayarai."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো রেখে যাওয়া হয়।",
+    "photography": "সাধারণত বাইরের অলিন্দে ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "পঝৈয়ারৈ বডতলি পট্টীশ্বরমের কাছে, তাঞ্জাভুর জেলায় কুম্বকোণম থেকে প্রায় ৮ কিমি দূরে অবস্থিত। কুম্বকোণম নিকটতম শহর ও রেলস্টেশন, পট্টীশ্বরম ও পঝৈয়ারৈ পর্যন্ত বাস ও ট্যাক্সি সহ।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/someswarar-pazhayarai.mp3",
+    "durationSec": 187
   }
 }

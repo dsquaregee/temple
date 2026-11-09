@@ -1,30 +1,37 @@
 {
   "id": "malyavanta-raghunatha-hampi",
   "locale": "bn",
+  "name": "মাল্যবন্ত রঘুনাথ মন্দির, হাম্পি",
   "nativeName": "ಮಾಲ್ಯವಂತ ರಘುನಾಥ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "রাম রঘুনাথ রূপে, সীতা, লক্ষ্মণ ও নতজানু হনুমানসহ, গর্ভগৃহ গঠনকারী মহা শিলায় খোদিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "হাম্পি",
+    "state": "কর্ণাটক",
     "lat": 15.3244,
     "lng": 76.4868
   },
+  "period": "বিজয়নগর রাজধানীর এক পর্বতশীর্ষ মন্দির, ১৫৫৯ খ্রিস্টাব্দের মধ্যে সদাশিব রায়ের অধীনে দানপ্রাপ্ত; এখনও পূজায়",
   "century": 16,
+  "dynasty": "বিজয়নগর",
+  "style": "দ্রাবিড়, বিজয়নগর পর্ব, এক প্রাকৃতিক শিলা ঘিরে নির্মিত",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "মাল্যবন্ত পাহাড়ে, যাকে ঐতিহ্য সেই স্থান বলে যেখানে রাম ও লক্ষ্মণ সীতার সন্ধানের আগে বর্ষা কাটিয়েছিলেন, এক জীবন্ত বিজয়নগর মন্দির রামের পরিবারে খোদিত এক বিশাল শিলা ঘিরে উঠে দাঁড়ায়।",
   "sections": {
-    "history": "Malyavanta hill rises on the eastern edge of the old Vijayanagara city, above what was once its urban core, and its temple to Rama as Raghunatha has drawn worshippers since imperial times. An inscription dated Saka 1481, or 1559 CE, in the reign of Sadashiva Raya, records a grant of land to the god, named in it as Malyavanta-Raghunathadeva, to maintain a charitable water trough — evidence that the shrine was already established and endowed in the last years of the empire. When the capital fell in 1565, worship here was not extinguished, and the temple remains a living shrine amid the ruins of the World Heritage site of Hampi.",
-    "architecture": "The temple is built around a massive granite boulder, and the sanctum is the rock itself: Rama, Sita and Lakshmana, with Hanuman kneeling before them, are carved on its face. The boulder rises clean through the roof of the shrine, and a small built tower has been set upon its summit, so that nature and the builders together supply the vimana. The walled complex is entered through two gopurams in the Vijayanagara manner, a five-storeyed tower on the south and a three-storeyed one on the east, and holds a goddess shrine and a small Shiva shrine. Nearby, a cleft in the rock is carved with rows of lingas and Nandis.",
-    "legends": "Tradition identifies Malyavanta with Mount Prasravana of the Ramayana. After Sugriva was crowned king of Kishkindha, the rains set in and the search for Sita had to wait; Rama and Lakshmana spent the four months of the monsoon sheltering on this hill, Rama grieving for Sita while Lakshmana kept watch and urged him to hope. When the rains ended, the monkey armies gathered and the search began that would lead to Lanka. Devotees climb the hill to stand where, as the story holds, Rama waited and prayed.",
-    "festivals": "As a living Rama temple, Malyavanta Raghunatha keeps the Vaishnava calendar, with Rama Navami as its chief festival; Hanuman Jayanti, honouring the devotee who kneels in the carving, is customarily marked as well, and bhajan singing is a regular part of worship here. Confirm dates and any special observances locally.",
-    "experience": "A road winds up to the hilltop, and the view repays the climb: the boulder country of Hampi spreads in every direction, with the Tungabhadra glinting to the north. The hill is a favourite place to watch the sunset. Enter through the southern gopuram, stand before the carved boulder in the cool of the sanctum, then walk around the outside to see the rock rising through the roof."
+    "history": "মাল্যবন্ত পাহাড় পুরনো বিজয়নগর নগরীর পূর্ব প্রান্তে, যা একসময় তার নগরকেন্দ্র ছিল তার ওপরে উঠে দাঁড়ায়, এবং রাম রঘুনাথ রূপে এর মন্দির সাম্রাজ্যের সময় থেকে উপাসকদের টেনে এনেছে। শক ১৪৮১ বা ১৫৫৯ খ্রিস্টাব্দ তারিখাঙ্কিত এক শিলালিপি, সদাশিব রায়ের রাজত্বকালে, দেবতাকে, যাঁকে মাল্যবন্ত-রঘুনাথদেব নামে অভিহিত করা হয়েছে, এক দানশীল জলাধার রক্ষণাবেক্ষণের জন্য ভূমিদানের নথি রাখে — যা প্রমাণ করে যে মন্দিরটি সাম্রাজ্যের শেষ বছরগুলিতেই প্রতিষ্ঠিত ও দানপ্রাপ্ত ছিল। ১৫৬৫ সালে রাজধানীর পতনের পরও এখানকার পূজা নিভে যায়নি, এবং মন্দিরটি হাম্পির বিশ্ব ঐতিহ্য স্থানের ধ্বংসাবশেষের মধ্যে এক জীবন্ত মন্দির রয়ে গেছে।",
+    "architecture": "মন্দিরটি এক বিশাল গ্রানাইট শিলা ঘিরে নির্মিত, এবং গর্ভগৃহ হল শিলাটি নিজেই: রাম, সীতা ও লক্ষ্মণ, সামনে নতজানু হনুমানসহ, এর পৃষ্ঠে খোদিত। শিলাটি মন্দিরের ছাদ ভেদ করে সোজা উঠে যায়, এবং এর শীর্ষে একটি ছোট নির্মিত চূড়া স্থাপন করা হয়েছে, যাতে প্রকৃতি ও নির্মাতারা একসঙ্গে বিমানটি জোগায়। প্রাচীরবেষ্টিত সমষ্টিতে বিজয়নগর রীতিতে দুটি গোপুরম দিয়ে প্রবেশ করা যায়, দক্ষিণে একটি পাঁচতলা তোরণ ও পূর্বে একটি তিনতলা, এবং এতে একটি দেবীমন্দির ও একটি ছোট শিবমন্দির রয়েছে। কাছেই শিলার এক ফাটলে সারি সারি লিঙ্গ ও নন্দী খোদিত।",
+    "legends": "ঐতিহ্য মাল্যবন্তকে রামায়ণের প্রস্রবণ পর্বতের সঙ্গে চিহ্নিত করে। সুগ্রীব কিষ্কিন্ধার রাজা রূপে অভিষিক্ত হওয়ার পর বর্ষা নামল এবং সীতার সন্ধান থামিয়ে রাখতে হল; রাম ও লক্ষ্মণ বর্ষার চার মাস এই পাহাড়ে আশ্রয় নিয়ে কাটালেন, রাম সীতার জন্য শোক করছিলেন আর লক্ষ্মণ পাহারা দিচ্ছিলেন ও তাঁকে আশা রাখতে বলছিলেন। বর্ষা শেষ হলে বানরসেনা জড়ো হল এবং সেই সন্ধান শুরু হল যা লঙ্কার দিকে নিয়ে যাবে। ভক্তেরা পাহাড়ে ওঠেন সেখানে দাঁড়াতে যেখানে, কাহিনি বলে, রাম অপেক্ষা করেছিলেন ও প্রার্থনা করেছিলেন।",
+    "festivals": "এক জীবন্ত রামমন্দির রূপে, মাল্যবন্ত রঘুনাথ বৈষ্ণব পঞ্জিকা রাখে, রাম নবমী এর প্রধান উৎসব; হনুমান জয়ন্তী, খোদাইয়ে নতজানু সেই ভক্তকে সম্মান জানিয়ে, প্রথানুসারে পালিত হয়, এবং ভজন গান এখানকার পূজার একটি নিয়মিত অংশ। তারিখ ও যেকোনো বিশেষ পালন স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "একটি সড়ক পর্বতশীর্ষে ঘুরে ওঠে, এবং দৃশ্য আরোহণের পুরস্কার দেয়: হাম্পির শিলাময় প্রান্তর চারদিকে ছড়িয়ে পড়ে, উত্তরে তুঙ্গভদ্রা ঝিলমিল করে। পাহাড়টি সূর্যাস্ত দেখার এক প্রিয় স্থান। দক্ষিণ গোপুরম দিয়ে প্রবেশ করুন, গর্ভগৃহের শীতলতায় খোদিত শিলার সামনে দাঁড়ান, তারপর ছাদ ভেদ করে ওঠা শিলাটি দেখতে বাইরে ঘুরে আসুন।"
   },
   "visit": {
-    "timings": "A living temple, generally open from morning to evening with a midday break; confirm timings locally.",
-    "dressCode": "Modest dress is expected — shoulders and knees covered; footwear is removed before entering the shrine.",
-    "photography": "Photography of the complex and the hilltop views is generally fine; follow the priests' guidance about the sanctum.",
-    "gettingThere": "Malyavanta hill lies on the east side of the Hampi ruins, south-east of the Vittala temple and a few kilometres by road from Hampi Bazaar and Kamalapura, with a road to the top. Hampi lies in Vijayanagara district, Karnataka; Hosapete (Hospet), about 13 km away, has the nearest railway station, and Bengaluru is roughly 340 km by road."
+    "timings": "একটি জীবন্ত মন্দির, সাধারণত সকাল থেকে সন্ধ্যা পর্যন্ত দুপুরের বিরতিসহ খোলা; সময় স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; মন্দিরে প্রবেশের আগে জুতা খুলে রাখা হয়।",
+    "photography": "সমষ্টি ও পর্বতশীর্ষের দৃশ্যের আলোকচিত্র তোলা সাধারণত চলে; গর্ভগৃহ সম্পর্কে পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "মাল্যবন্ত পাহাড় হাম্পি ধ্বংসাবশেষের পূর্ব দিকে, বিট্ঠল মন্দিরের দক্ষিণ-পূর্বে এবং হাম্পি বাজার ও কমলাপুরম থেকে সড়কপথে কয়েক কিলোমিটার দূরে, শীর্ষ পর্যন্ত একটি সড়কসহ অবস্থিত। হাম্পি কর্ণাটকের বিজয়নগর জেলায়; হোসপেটে (হোসপেট), প্রায় ১৩ কিমি দূরে, নিকটতম রেলস্টেশন রয়েছে, এবং বেঙ্গালুরু সড়কপথে প্রায় ৩৪০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/malyavanta-raghunatha-hampi.jpg",

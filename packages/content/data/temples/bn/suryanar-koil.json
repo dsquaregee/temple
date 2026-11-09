@@ -1,30 +1,37 @@
 {
   "id": "suryanar-koil",
   "locale": "bn",
+  "name": "সূর্যনার কোইল (সূর্যমন্দির)",
   "nativeName": "சூரியனார் கோயில்",
+  "deity": "সূর্যনার, সূর্যদেব, প্রধান দেবতা রূপে পূজিত, তাঁর পত্নী ঊষাদেবী ও ছায়াদেবী (প্রত্যূষা দেবী) সহ; নয় গ্রহের প্রত্যেকের তাঁর দিকে মুখ করা পৃথক তীর্থ আছে।",
+  "tradition": "সৌর, শৈব সম্পর্কযুক্ত",
   "location": {
-    "city": "Suryanar Koil, near Aduthurai and Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "সূর্যনার কোইল, অডুথুরৈ ও কুম্বকোণমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 11.0086,
     "lng": 79.4462
   },
+  "period": "চোল যুগ, প্রথম কুলোত্তুঙ্গ চোলের সঙ্গে সম্পর্কিত",
   "century": 12,
+  "dynasty": "চোল, পরবর্তী নায়ক ও মারাঠা সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "navagraha-temples"
   ],
+  "summary": "প্রধান নবগ্রহ মন্দির এবং একমাত্র বড় দক্ষিণ ভারতীয় তীর্থ যেখানে সূর্য স্বয়ং প্রধান দেবতা। এখানে নয় গ্রহই তাদের নিজস্ব গর্ভগৃহে সূর্যের দিকে মুখ করে দাঁড়িয়ে, এবং তীর্থযাত্রীরা এক দর্শনেই সকল গ্রহদোষের নিরসন করেন।",
   "sections": {
-    "history": "Suryanar Koil rose in the Chola era and is traditionally linked to Kulottunga Chola I, whose reign bridged the eleventh and twelfth centuries. From its beginnings it was conceived not as an ordinary shrine but as the head of the nine Navagraha Sthalams that dot the Kaveri delta around Kumbakonam, a distinction it still carries. Over the centuries rulers who followed the Cholas, including the Nayaks and later the Marathas, extended its halls and enclosures, leaving a temple whose fabric records successive devotions. It remains a living centre of planetary worship, drawing pilgrims who come to honour the Sun as a god one can address directly.",
-    "architecture": "Built in the Dravidian idiom, the temple is unusual in its very plan: Surya presides in the central sanctum while each of the nine planets, the Navagraha, is given a shrine of its own, all arranged so that the grahas face the Sun. This layout, rare among South Indian temples where the Navagraha usually share a single platform, makes the architecture itself an expression of the temple's theology. Pillared halls, a gopuram, and enclosures added by later dynasties frame the sanctums, while the eastward orientation of the principal shrine lets the morning sun fall toward the deity it honours.",
-    "legends": "The temple's tradition tells of sages and of the planets themselves worshipping Shiva at this spot. Through that devotion the nine grahas are said to have received their power to shape the fortunes of living beings, becoming lords of destiny under the divine order. Because all nine were sanctified together here, devotees believe that the doshas, the afflictions attributed to unfavourable planetary positions, can be eased at a single place rather than at nine scattered shrines. Pilgrims accordingly come to Suryanar Koil to make peace with every planet at once, offering prayers for relief and for the turning of adverse periods.",
-    "festivals": "Ratha Saptami, the day sacred to the Sun's northward course, is the temple's foremost occasion, when special abhishekams honour Suryanar. Days held sacred to each of the nine grahas also draw worshippers seeking that planet's grace, and periodic Surya-related observances swell the crowds. Throughout the year the grahas receive ritual bathing and offerings of lamps, and on festival days the temple stays open longer to accommodate the pilgrims who gather for the abhishekams and the lighting of lamps before each planetary shrine.",
-    "experience": "A visit to Suryanar Koil has a rhythm unlike other temples: worshippers move from shrine to shrine, greeting each planet in turn as they might greet a presiding elder, before returning to the Sun at the centre. The air carries camphor, the murmur of planetary hymns, and the soft clink of lamp offerings. Many arrive with a specific concern about a difficult period in life, and the practice of addressing all nine grahas in one enclosure lends the visit a sense of completeness. Come in the cool of early morning, when the eastern light reaches the sanctum, for the most fitting darshan of a god of light."
+    "history": "সূর্যনার কোইল চোল যুগে গড়ে ওঠে এবং ঐতিহ্যগতভাবে প্রথম কুলোত্তুঙ্গ চোলের সঙ্গে যুক্ত, যাঁর রাজত্বকাল একাদশ ও দ্বাদশ শতাব্দীকে সংযুক্ত করে। সূচনা থেকেই এটি এক সাধারণ তীর্থ নয়, বরং কুম্বকোণমের চারপাশে কাবেরী ব-দ্বীপে ছড়িয়ে থাকা নয়টি নবগ্রহ স্থলমের শীর্ষ হিসেবে পরিকল্পিত হয়েছিল, এক স্বাতন্ত্র্য যা আজও বহন করে। শতাব্দীর পর শতাব্দী চোলদের অনুসরণকারী শাসকরা, নায়ক ও পরবর্তী মারাঠাসহ, এর মণ্ডপ ও প্রাঙ্গণ বিস্তৃত করেন, এমন এক মন্দির রেখে যান যার কাঠামো ক্রমিক ভক্তির স্মৃতি ধারণ করে। এটি আজও গ্রহপূজার এক জীবন্ত কেন্দ্র, যা সূর্যকে এমন এক দেবতা রূপে সম্মান জানাতে আসা তীর্থযাত্রীদের আকর্ষণ করে যাঁকে সরাসরি সম্বোধন করা যায়।",
+    "architecture": "দ্রাবিড় রীতিতে নির্মিত, মন্দিরটি তার পরিকল্পনায়ই অস্বাভাবিক: সূর্য কেন্দ্রীয় গর্ভগৃহে অধিষ্ঠিত আর নয় গ্রহের, নবগ্রহের, প্রত্যেককে তার নিজস্ব তীর্থ দেওয়া হয়েছে, সবই এমনভাবে সাজানো যাতে গ্রহগুলি সূর্যের দিকে মুখ করে থাকে। এই বিন্যাস, দক্ষিণ ভারতীয় মন্দিরগুলির মধ্যে বিরল যেখানে নবগ্রহ সাধারণত একটি মঞ্চ ভাগ করে নেয়, স্থাপত্যকেই মন্দিরের ধর্মতত্ত্বের এক প্রকাশ করে তোলে। স্তম্ভশোভিত মণ্ডপ, এক গোপুরম, এবং পরবর্তী রাজবংশের যোগ করা প্রাঙ্গণ গর্ভগৃহগুলিকে ঘিরে রাখে, আর প্রধান তীর্থের পূর্বমুখী অভিমুখ সকালের সূর্যকে সে যে দেবতাকে সম্মান জানায় তাঁর দিকে পড়তে দেয়।",
+    "legends": "মন্দিরের ঐতিহ্য ঋষিদের এবং স্বয়ং গ্রহদের এই স্থানে শিবের পূজা করার কথা বলে। সেই ভক্তির মাধ্যমে নয় গ্রহ জীবজগতের ভাগ্য গঠনের শক্তি লাভ করেন বলা হয়, দিব্য বিধানের অধীনে নিয়তির অধিপতি হয়ে ওঠেন। যেহেতু নয়জনই এখানে একত্রে পবিত্র হয়েছিলেন, ভক্তরা বিশ্বাস করেন যে দোষ, প্রতিকূল গ্রহ-অবস্থানের দায়ী অশুভ প্রভাব, নয়টি ছড়ানো তীর্থের বদলে একটিমাত্র স্থানে লাঘব করা যায়। তাই তীর্থযাত্রীরা সূর্যনার কোইলে আসেন একবারেই প্রতিটি গ্রহের সঙ্গে শান্তি স্থাপন করতে, উপশমের এবং প্রতিকূল দশা কাটানোর জন্য প্রার্থনা নিবেদন করেন।",
+    "festivals": "রথসপ্তমী, সূর্যের উত্তরায়ণ যাত্রার পবিত্র দিন, মন্দিরের প্রধান উপলক্ষ, যখন বিশেষ অভিষেক সূর্যনারকে সম্মান জানায়। নয় গ্রহের প্রত্যেকের পবিত্র দিনগুলিও সেই গ্রহের কৃপাপ্রার্থী ভক্তদের টেনে আনে, এবং পর্যায়ক্রমিক সূর্য-সম্পর্কিত অনুষ্ঠান ভিড় বাড়ায়। সারা বছর গ্রহগুলি আচারিক স্নান ও প্রদীপের নৈবেদ্য পায়, এবং উৎসবের দিনে মন্দির বেশি সময় খোলা থাকে প্রতিটি গ্রহতীর্থের সামনে অভিষেক ও প্রদীপ প্রজ্বলনের জন্য সমবেত তীর্থযাত্রীদের স্থান দিতে।",
+    "experience": "সূর্যনার কোইল দর্শনের এক ছন্দ অন্য মন্দিরের চেয়ে ভিন্ন: ভক্তরা তীর্থ থেকে তীর্থে এগিয়ে যান, প্রতিটি গ্রহকে পালাক্রমে এমনভাবে অভিবাদন জানান যেন কোনো প্রবীণ গুরুজনকে অভিবাদন জানাচ্ছেন, তারপর কেন্দ্রের সূর্যের কাছে ফিরে আসেন। বাতাসে কর্পূর, গ্রহস্তোত্রের গুঞ্জন, এবং প্রদীপ-নৈবেদ্যের কোমল ঠুংঠুং ধ্বনি বয়ে চলে। অনেকে জীবনের এক কঠিন সময় নিয়ে নির্দিষ্ট উদ্বেগে আসেন, এবং এক প্রাঙ্গণে নয় গ্রহকে সম্বোধন করার রীতি দর্শনকে এক পরিপূর্ণতার অনুভূতি দেয়। আলোর এক দেবতার সবচেয়ে উপযুক্ত দর্শনের জন্য ভোরের শীতল সময়ে আসুন, যখন পূর্বের আলো গর্ভগৃহে পৌঁছায়।"
   },
   "visit": {
-    "timings": "Generally open around 6:00 am to 1:00 pm and 4:00 pm to 8:30 pm; hours are extended on festival days. Timings can change, so verify locally before travelling.",
-    "dressCode": "Modest traditional dress is expected. Cover the shoulders and legs; footwear is removed before entering the temple.",
-    "photography": "Photography inside the sanctum is generally not permitted. Observe posted signs and the instructions of temple staff, and ask before photographing elsewhere.",
-    "gettingThere": "The temple stands in Suryanar Koil village near Aduthurai, about 15 km from Kumbakonam in Thanjavur district. Kumbakonam is the nearest hub, with rail access via Aduthurai or Kumbakonam; the nearest airport is Tiruchirappalli, roughly 90 km away. Buses and taxis run from Kumbakonam."
+    "timings": "সাধারণত সকাল ৬টা থেকে দুপুর ১টা এবং বিকেল ৪টা থেকে রাত ৮টা ৩০ পর্যন্ত খোলা; উৎসবের দিনে সময় বাড়ানো হয়। সময়সূচি পরিবর্তিত হতে পারে, তাই যাত্রার আগে স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত। কাঁধ ও পা ঢাকুন; মন্দিরে প্রবেশের আগে জুতো খুলে রাখতে হয়।",
+    "photography": "গর্ভগৃহের ভেতরে সাধারণত আলোকচিত্র গ্রহণের অনুমতি নেই। প্রদর্শিত ফলক ও মন্দিরকর্মীদের নির্দেশনা মেনে চলুন, এবং অন্যত্র ছবি তোলার আগে জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি অডুথুরৈয়ের কাছে সূর্যনার কোইল গ্রামে, থাঞ্জাভুর জেলায় কুম্বকোণম থেকে প্রায় ১৫ কিমি দূরে অবস্থিত। কুম্বকোণম নিকটতম কেন্দ্র, অডুথুরৈ বা কুম্বকোণম হয়ে রেল সংযোগ আছে; নিকটতম বিমানবন্দর তিরুচিরাপল্লী, প্রায় ৯০ কিমি দূরে। কুম্বকোণম থেকে বাস ও ট্যাক্সি চলে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/suryanar-koil.jpg",

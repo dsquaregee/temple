@@ -1,30 +1,37 @@
 {
   "id": "veerattaneswarar-thirukkovilur",
   "locale": "bn",
+  "name": "বীরট্টানেশ্বরর মন্দির, তিরুক্কোবিলুর",
   "nativeName": "திருக்கோவிலூர் வீரட்டானேஸ்வரர் கோயில்",
+  "deity": "শিব বীরট্টানেশ্বরর রূপে, দেবী পেরিয়নায়কী (শিবানন্দবল্লী) সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thirukkovilur",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কোবিলুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.9714,
     "lng": 79.2106
   },
+  "period": "নাড়ু নাড়ু দেশের পাডল পেট্র স্থলম, তেবারমে স্তুত (৭ম শতাব্দী); অষ্ট বীরট্টানমের অন্যতম",
   "century": 7,
+  "dynasty": "চোল, পরবর্তী সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুক্কোবিলুরে তেন পেন্নৈয়ের দক্ষিণ তীরে শিব বীরট্টানেশ্বরর রূপে অসুর অন্ধকের ওপর তাঁর বিজয় স্মরণ করেন—নাড়ু নাড়ু দেশের এক তেবারম মন্দির, নগরের মহান বিষ্ণুমন্দির থেকে স্বতন্ত্র।",
   "sections": {
-    "history": "Thirukkovilur is an old town on the southern bank of the Then Pennai river in Kallakurichi district, remembered in Tamil literature as the seat of the Malaiyaman chieftains in the age of the Sangam poets. Its Shiva temple, known in older usage as Andhakapuram and Thirukkaivelur, is one of the eight Ashta Veerattanams, the shrines of the Lord's heroic deeds — here, his victory over the demon Andhaka. Sambandar, Appar and Sundarar all sang it in the Tevaram, and it is counted among the Paadal Petra Sthalams of the Nadu Nadu country. Chola-period inscriptions record endowments made to the shrine. The town is a Vaishnava pilgrimage too, for the Trivikrama Perumal Divya Desam stands here; the Veerattanam is a separate temple, with its own long history.",
-    "architecture": "The temple stands near the river in the Dravidian manner, its gateway tower opening onto courtyards that lead to the sanctum of Veerattaneswarar, with the goddess Periyanayaki in a shrine of her own. Its treasure is its bronzes: in the first precinct are festival images of Nataraja and Somaskanda, and of Andhakasura Samhara Murthy — Shiva in the very act this Veerattanam honours, the form that is carried out in procession on festival days.",
-    "legends": "Andhaka, the blind demon, grew mighty through boons and turned his strength against the gods. The tale most often told of him is that every drop of his blood that touched the ground rose up as another demon, so that wounding him only multiplied the battle. Shiva pierced him with his trident and held him aloft, so that no blood could fall, until the demon's pride was spent; in many tellings Andhaka, humbled, became a devotee of the Lord. Thirukkovilur keeps this victory, and its old name Andhakapuram preserves it.",
-    "festivals": "The festivals of the Shaiva year are kept here — Maha Shivaratri, the fortnightly pradosham, Arudra Darshan in Margazhi and Karthigai Deepam — and the annual festival brings the bronzes, among them Andhakasura Samhara Murthy, out in procession through the streets of Thirukkovilur. Confirm dates locally.",
-    "experience": "Thirukkovilur rewards a slower visit: a river town where a Shiva Veerattanam and a great Vishnu temple stand within the same streets, each with its own saints and songs. Pilgrims following the eight Veerattanams usually pair it with Thiruvathigai near Panruti to the east, before turning south to the Kaveri delta, where the remaining six lie."
+    "history": "তিরুক্কোবিলুর কল্লাকুরিচি জেলায় তেন পেন্নৈ নদীর দক্ষিণ তীরে অবস্থিত একটি পুরাতন নগর, তামিল সাহিত্যে সঙ্গম কবিদের যুগে মলৈয়মান প্রধানদের আসন রূপে স্মরিত। এর শিবমন্দির, পুরাতন ব্যবহারে অন্ধকপুরম ও তিরুক্কৈবেলুর নামে পরিচিত, আটটি অষ্ট বীরট্টানমের অন্যতম, প্রভুর বীরকীর্তির মন্দিরসমূহ—এখানে, অসুর অন্ধকের ওপর তাঁর বিজয়। সম্বন্দর, অপ্পর ও সুন্দরর সকলেই তেবারমে এটি গেয়েছেন, এবং এটি নাড়ু নাড়ু দেশের পাডল পেট্র স্থলমের মধ্যে গণ্য। চোল যুগের শিলালিপি মন্দিরে প্রদত্ত দান নথিভুক্ত করে। নগরটি একটি বৈষ্ণব তীর্থও, কারণ এখানে ত্রিবিক্রম পেরুমাল দিব্যদেশম অবস্থিত; বীরট্টানম একটি পৃথক মন্দির, নিজস্ব দীর্ঘ ইতিহাসসহ।",
+    "architecture": "মন্দিরটি নদীর কাছে দ্রাবিড় রীতিতে দাঁড়িয়ে আছে, এর প্রবেশদ্বার-স্তম্ভ প্রাঙ্গণে খোলে যা বীরট্টানেশ্বররের গর্ভগৃহের দিকে নিয়ে যায়, আর দেবী পেরিয়নায়কী তাঁর নিজস্ব মন্দিরে। এর সম্পদ এর কাঁসার মূর্তিসমূহ: প্রথম প্রাঙ্গণে নটরাজ ও সোমস্কন্দের উৎসবমূর্তি, এবং অন্ধকাসুর সংহার মূর্তি—শিব সেই কাজের মাঝেই যা এই বীরট্টানম সম্মান করে, সেই রূপ যা উৎসবের দিনে শোভাযাত্রায় বের করা হয়।",
+    "legends": "অন্ধক, অন্ধ অসুর, বর দ্বারা পরাক্রমী হয়ে ওঠে এবং দেবতাদের বিরুদ্ধে তার শক্তি প্রয়োগ করে। তার সম্পর্কে সবচেয়ে বেশি কথিত কাহিনি হল যে তার রক্তের প্রতিটি ফোঁটা মাটিতে স্পর্শ করলে আরেকটি অসুররূপে উঠে দাঁড়াত, যাতে তাকে আহত করা কেবল যুদ্ধকে বহুগুণিত করত। শিব তাকে তাঁর ত্রিশূল দিয়ে বিদ্ধ করে ঊর্ধ্বে ধরে রাখেন, যাতে কোনো রক্ত পড়তে না পারে, যতক্ষণ না অসুরের অহংকার নিঃশেষ হয়; অনেক কথনে অন্ধক, নম্র হয়ে, প্রভুর ভক্ত হয়ে ওঠে। তিরুক্কোবিলুর এই বিজয় রক্ষা করে, এবং এর পুরাতন নাম অন্ধকপুরম তা সংরক্ষণ করে।",
+    "festivals": "শৈব বছরের উৎসবগুলি এখানে পালিত হয়—মহাশিবরাত্রি, পাক্ষিক প্রদোষম, মার্গড়িতে আরুদ্র দর্শন ও কার্তিগৈ দীপম—এবং বার্ষিক উৎসব কাঁসার মূর্তিগুলিকে, তাদের মধ্যে অন্ধকাসুর সংহার মূর্তি, তিরুক্কোবিলুরের পথে শোভাযাত্রায় বের করে। তারিখগুলি স্থানীয়ভাবে যাচাই করুন।",
+    "experience": "তিরুক্কোবিলুর এক ধীর দর্শনের পুরস্কার দেয়: এক নদীনগর যেখানে একটি শিব বীরট্টানম ও একটি মহান বিষ্ণুমন্দির একই পথের মধ্যে দাঁড়িয়ে আছে, প্রত্যেকের নিজস্ব সন্ত ও গান রয়েছে। আটটি বীরট্টানম অনুসরণকারী তীর্থযাত্রীরা সাধারণত এটিকে পূর্বে পানরুতির কাছে তিরুবদিগৈয়ের সঙ্গে জোড় বাঁধেন, তারপর দক্ষিণে কাবেরী ব-দ্বীপের দিকে ফেরেন, যেখানে অবশিষ্ট ছয়টি অবস্থিত।"
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Thirukkovilur lies in Kallakurichi district on the road between Villupuram and Tiruvannamalai, roughly 35 km from each, and has a railway station on the Villupuram–Katpadi line. The nearest airports are at Puducherry and Chennai."
+    "timings": "প্রতিদিন মধ্যাহ্নে বন্ধ রেখে সকাল ও সন্ধ্যার পর্বে খোলা থাকে; উৎসবের দিন সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে বাইরে পাদুকা রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে ফটোগ্রাফি অনুমোদিত নয়; বাইরের করিডোরে ছবি তোলার আগে, বিশেষত আচার ও উৎসবের কাঁসার মূর্তির, মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুক্কোবিলুর কল্লাকুরিচি জেলায় বিল্লুপুরম ও তিরুভান্নামলৈয়ের মধ্যবর্তী পথে, উভয় থেকে প্রায় ৩৫ কিমি দূরে অবস্থিত, এবং বিল্লুপুরম–কাটপাড়ি লাইনে একটি রেলস্টেশন রয়েছে। নিকটতম বিমানবন্দর পুদুচেরি ও চেন্নাইয়ে।"
   }
 }

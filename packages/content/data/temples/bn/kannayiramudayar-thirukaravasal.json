@@ -1,31 +1,38 @@
 {
   "id": "kannayiramudayar-thirukaravasal",
   "locale": "bn",
+  "name": "কণ্ণায়িরমুডৈয়ার মন্দির, তিরুক্কারবাসল",
   "nativeName": "கண்ணாயிரமுடையார் கோயில், திருக்காறாயில்",
+  "deity": "শিব কণ্ণায়িরমুডৈয়ার রূপে, ত্যাগরাজ শোভাযাত্রার দেবতা আদি বিডঙ্গরের সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thirukaravasal",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কারবাসল",
+    "state": "তামিলনাড়ু",
     "lat": 10.63,
     "lng": 79.73
   },
+  "period": "তেবারমে স্তুত একটি পাডল পেট্র স্থলম; চোল যুগের পাথরের মন্দির",
   "century": 9,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "sapta-vidanga-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরী ব-দ্বীপের কেন্দ্রে তিরুক্কারবাসলে শিব কণ্ণায়িরমুডৈয়ার রূপে দাঁড়িয়ে আছেন, এবং এই মন্দিরের ত্যাগরাজ — আদি বিডঙ্গর, বিডঙ্গদের প্রথম — ব-দ্বীপের সাতজন নৃত্যরত ত্যাগরাজের একজন, যাঁর শোভাযাত্রা কুক্কুট নটনমে চলে বলে কথিত।",
   "sections": {
-    "history": "Thirukaravasal lies among the wet fields of the Kaveri delta, near the delta's southern channels. Its temple to Shiva as Kannayiramudayar is a Paadal Petra Sthalam of Tevaram antiquity, its stone shrines carried forward under the Cholas. The temple is one of the Sapta Vidanga Sthalams, and its Thyagaraja is honoured as Adhi Vidangar, the first of the seven Vidangas of the dancing tradition.",
-    "architecture": "The temple is built in the Dravidian manner, its sanctum holding Shiva as Kannayiramudayar, with the Somaskanda Thyagaraja — Shiva with Uma and the child Skanda — worshipped as the uncarved Vidanga image and carried as the processional lord. Pillared halls open before the sanctum in the quiet delta manner of the Chola and later ages.",
-    "legends": "The Sapta Vidanga temples share the legend of the uncarved Thyagaraja images, given by the lord and worshipped in the Somaskanda form, each dancing its own dance in procession. At Thirukaravasal the Thyagaraja is Adhi Vidangar, held to be the first of the seven, and his procession is said to move in the Kukkuta Natanam, the dance likened to the strutting of a cockerel.",
-    "festivals": "The temple keeps the festivals of Shiva and the processions of the Vidangar through the year, with the days of the Nayanmar saints and the delta's festival calendar observed in the village shrine. The procession of the dancing Thyagaraja is the heart of its celebration.",
-    "experience": "Thirukaravasal is a quiet delta shrine off the main pilgrim roads, rewarding for the devotee who follows the seven dancing Thyagarajas from one delta town to the next. It lies within the cluster of Vidanga temples between Thiruvarur and the coast, and joins them into the single pilgrimage of the seven dances."
+    "history": "তিরুক্কারবাসল কাবেরী ব-দ্বীপের সজল ক্ষেত্রের মাঝে, ব-দ্বীপের দক্ষিণ খালগুলির নিকট অবস্থিত। শিবকে কণ্ণায়িরমুডৈয়ার রূপে উৎসর্গিত এর মন্দির তেবারম যুগের একটি পাডল পেট্র স্থলম, এর পাথরের মন্দির চোলদের অধীনে এগিয়ে নেওয়া হয়। মন্দিরটি সপ্ত বিডঙ্গ স্থলমগুলির একটি, এবং এর ত্যাগরাজ আদি বিডঙ্গর রূপে সম্মানিত, নৃত্য ঐতিহ্যের সাতটি বিডঙ্গের প্রথম।",
+    "architecture": "মন্দিরটি দ্রাবিড় রীতিতে নির্মিত, এর গর্ভগৃহে শিব কণ্ণায়িরমুডৈয়ার রূপে, সোমস্কন্দ ত্যাগরাজ — উমা ও শিশু স্কন্দসহ শিব — অখোদিত বিডঙ্গ মূর্তি রূপে পূজিত এবং শোভাযাত্রার প্রভু রূপে বাহিত। চোল ও পরবর্তী যুগের শান্ত ব-দ্বীপ রীতিতে গর্ভগৃহের সম্মুখে স্তম্ভিত মণ্ডপ খোলে।",
+    "legends": "সপ্ত বিডঙ্গ মন্দিরগুলি অখোদিত ত্যাগরাজ মূর্তির কিংবদন্তি ভাগ করে নেয়, প্রভু কর্তৃক প্রদত্ত ও সোমস্কন্দ রূপে পূজিত, প্রতিটি শোভাযাত্রায় নিজস্ব নৃত্য নৃত্য করে। তিরুক্কারবাসলে ত্যাগরাজ হলেন আদি বিডঙ্গর, সাতটির প্রথম বলে ধরা হয়, এবং তাঁর শোভাযাত্রা কুক্কুট নটনমে চলে বলে কথিত, মোরগের চলনের সঙ্গে তুলনীয় সেই নৃত্য।",
+    "festivals": "মন্দিরটি সারা বছর শিবের উৎসব ও বিডঙ্গরের শোভাযাত্রা পালন করে, নায়নমার সাধুদের দিন ও ব-দ্বীপের উৎসব পঞ্জিকা এই গ্রাম্য মন্দিরে পালিত হয়। নৃত্যরত ত্যাগরাজের শোভাযাত্রা এর উদযাপনের হৃদয়।",
+    "experience": "তিরুক্কারবাসল মূল তীর্থপথ থেকে দূরে এক শান্ত ব-দ্বীপ মন্দির, সেই ভক্তের জন্য পুরস্কারময় যিনি এক ব-দ্বীপ শহর থেকে পরবর্তীতে সাতজন নৃত্যরত ত্যাগরাজকে অনুসরণ করেন। এটি তিরুভারুর ও উপকূলের মাঝে বিডঙ্গ মন্দিরগুচ্ছের মধ্যে অবস্থিত, এবং তাদের সাত নৃত্যের একক তীর্থযাত্রায় যুক্ত করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and processions are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukaravasal lies in the Kaveri delta in the Thiruvarur–Nagapattinam country, reached by road from Thiruvarur and the surrounding delta towns."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন সময় এবং দুপুরে বন্ধসহ খোলা; উৎসবের দিন ও শোভাযাত্রার সময় সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। বহু দক্ষিণী মন্দিরের মতো পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সম্মুখে ঊর্ধ্বাঙ্গের বস্ত্র খুলে ফেলতে বলা হয়; প্রকাশিত নিয়ম মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলায় বিধিনিষেধ আছে; প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুক্কারবাসল কাবেরী ব-দ্বীপে তিরুভারুর–নাগাপট্টিনম অঞ্চলে অবস্থিত, তিরুভারুর ও পার্শ্ববর্তী ব-দ্বীপ শহরগুলি থেকে সড়কপথে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kannayiramudayar-thirukaravasal.jpg",

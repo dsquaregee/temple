@@ -1,30 +1,37 @@
 {
   "id": "karanja-narasimha-ahobilam",
   "locale": "bn",
+  "name": "করঞ্জ নরসিংহ মন্দির, অহোবিলম",
   "nativeName": "కారంజ నరసింహ ఆలయం, అహోబిలం",
+  "deity": "বিষ্ণু করঞ্জ নরসিংহ রূপে, শার্ঙ্গ নরসিংহ নামেও — ঐতিহ্য বলে তিনি এখানে হনুমানের জন্য এক ধনুক ধারণ করেন",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "অহোবিলম",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 15.1274,
     "lng": 78.7278
   },
+  "period": "অন্ধ্রপ্রদেশের নাল্লামালা পাহাড়ের অহোবিলমের নব নরসিংহ মন্দিরগুলির একটি",
   "century": 15,
+  "dynasty": "বিজয়নগর পৃষ্ঠপোষকতা",
+  "style": "ছোট দ্রাবিড় মন্দির",
   "unesco": false,
   "circuits": [
     "ahobilam-nava-narasimha"
   ],
+  "summary": "উপরের অহোবিলমের পথে এক করঞ্জ গাছের নিচে, করঞ্জ নরসিংহ এক কোমল কাহিনী বহন করেন — সেই সিংহ-প্রভু যিনি রামের ধনুক তুলে নিয়েছিলেন যাতে সম্পূর্ণভাবে রামে নিবেদিত হনুমান তাঁকে চিনতে পারেন।",
   "sections": {
-    "history": "Karanja Narasimha takes its name from the karanja tree, the Indian beech, beneath which the Lord is said to have revealed himself. Of the nine Narasimha shrines of Ahobilam it is among the easiest to reach, standing about a kilometre short of the Upper Ahobilam temple, close to the road that climbs from Lower Ahobilam into the Nallamala hills. The shrine belongs to the circle of worship maintained by the Ahobila Matha, and like the other hill shrines it is generally associated with the Vijayanagara centuries, when the temples of Ahobilam flourished under royal patronage.",
-    "architecture": "The temple is a small, simple shrine with a modest pillared front, set near the karanja tree that gives it its name. The image is unusual among the nine: Narasimha is seated beneath the hood of the serpent Adisesha, with a third eye upon his brow, and tradition describes him holding a bow — the Sarnga of Vishnu — which is why he is also called Sarnga Narasimha.",
-    "legends": "The sthala purana tells that Hanuman came here to meditate on Rama and, so wholly was his heart given to Rama, would not accept Narasimha as his Lord. Narasimha then appeared before him bearing Rama's bow, showing that the two are one. Another tradition tells that the sage Gobhila, cursed by Durvasa, was freed of the curse through worship at this spot. In the astrological reading of the nine shrines, Karanja Narasimha is linked with the Moon.",
-    "festivals": "Narasimha Jayanti and the annual Brahmotsavam of Ahobilam are the main occasions, and devotees of Hanuman remember the shrine's story with special affection. Confirm dates locally.",
-    "experience": "Because it lies near the road, Karanja Narasimha is a gentle stop for pilgrims who cannot manage the forest trails — a short walk brings you to the shrine. Pause beneath the tree before darshan; it is part of the story. Combine the visit with the Upper Ahobilam temple, a short distance further on."
+    "history": "করঞ্জ নরসিংহ তার নাম গ্রহণ করে করঞ্জ গাছ, ভারতীয় বীচ, যার নিচে প্রভু আত্মপ্রকাশ করেছিলেন বলে কথিত। অহোবিলমের নয়টি নরসিংহ মন্দিরের মধ্যে এটি পৌঁছানোর পক্ষে সবচেয়ে সহজগুলির একটি, উপরের অহোবিলম মন্দির থেকে প্রায় এক কিলোমিটার আগে, নিচের অহোবিলম থেকে নাল্লামালা পাহাড়ে ওঠা সড়কের কাছে অবস্থিত। মন্দিরটি অহোবিল মঠ কর্তৃক রক্ষিত পূজার বৃত্তে অন্তর্ভুক্ত, এবং অন্যান্য পাহাড়ি মন্দিরের মতো সাধারণত বিজয়নগর শতাব্দীর সঙ্গে যুক্ত, যখন অহোবিলমের মন্দিরগুলি রাজকীয় পৃষ্ঠপোষকতায় সমৃদ্ধ হয়েছিল।",
+    "architecture": "মন্দিরটি এক ছোট, সরল মন্দির যার এক সাদামাটা স্তম্ভিত সম্মুখভাগ, তাকে নাম দেওয়া করঞ্জ গাছের কাছে স্থাপিত। মূর্তিটি নয়টির মধ্যে অস্বাভাবিক: নরসিংহ সর্প আদিশেষের ফণার নিচে উপবিষ্ট, কপালে এক তৃতীয় নয়নসহ, এবং ঐতিহ্য তাঁকে এক ধনুক ধারণকারী রূপে বর্ণনা করে — বিষ্ণুর শার্ঙ্গ — যে কারণে তাঁকে শার্ঙ্গ নরসিংহও বলা হয়।",
+    "legends": "স্থল পুরাণ বলে হনুমান এখানে রামের ধ্যান করতে এসেছিলেন এবং, তাঁর হৃদয় এতই সম্পূর্ণভাবে রামে নিবেদিত ছিল যে, তিনি নরসিংহকে তাঁর প্রভু রূপে গ্রহণ করতে চাননি। তখন নরসিংহ রামের ধনুক ধারণ করে তাঁর সম্মুখে আবির্ভূত হন, দেখিয়ে দেন যে দুজন এক। অন্য এক ঐতিহ্য বলে ঋষি গোভিল, দুর্বাসা কর্তৃক অভিশপ্ত, এই স্থানে পূজার মাধ্যমে অভিশাপ থেকে মুক্ত হন। নয়টি মন্দিরের জ্যোতিষ পাঠে, করঞ্জ নরসিংহ চন্দ্রের সঙ্গে যুক্ত।",
+    "festivals": "নরসিংহ জয়ন্তী ও অহোবিলমের বার্ষিক ব্রহ্মোৎসবম প্রধান উপলক্ষ, এবং হনুমানের ভক্তরা বিশেষ স্নেহে মন্দিরের কাহিনী স্মরণ করেন। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "সড়কের কাছে থাকায়, করঞ্জ নরসিংহ সেই তীর্থযাত্রীদের জন্য এক মৃদু বিরতি যাঁরা বনপথ পাড়ি দিতে পারেন না — অল্প হাঁটলেই মন্দিরে পৌঁছানো যায়। দর্শনের আগে গাছের নিচে থামুন; এটি কাহিনীর অংশ। অল্প দূরে উপরের অহোবিলম মন্দিরের সঙ্গে দর্শনটি যুক্ত করুন।"
   },
   "visit": {
-    "timings": "Worship is offered daily with morning and evening darshan and a midday closure. Confirm current timings locally.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Reach Lower Ahobilam by road via Allagadda (Nandyal is the nearest major railhead). The shrine lies about a kilometre before the Upper Ahobilam temple, close to the road between Lower and Upper Ahobilam; local autos and jeeps stop here."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন এবং দুপুরে বন্ধসহ পূজা হয়। স্থানীয়ভাবে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলায় বিধিনিষেধ আছে; প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "আল্লাগাড্ডা হয়ে সড়কপথে নিচের অহোবিলমে পৌঁছান (নন্দ্যাল নিকটতম প্রধান রেলস্টেশন)। মন্দিরটি উপরের অহোবিলম মন্দির থেকে প্রায় এক কিলোমিটার আগে, নিচের ও উপরের অহোবিলমের মধ্যকার সড়কের কাছে; স্থানীয় অটো ও জিপ এখানে থামে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/karanja-narasimha-ahobilam.jpg",

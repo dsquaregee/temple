@@ -1,29 +1,36 @@
 {
   "id": "sarguneswarar-karuvili",
   "locale": "bn",
+  "name": "সর্গুণেশ্বরর মন্দির, তিরুক্করুভিলি কোট্টিট্টৈ (করুভেলি)",
   "nativeName": "திருக்கருவிலிக் கொட்டிட்டை சற்குணேஸ்வரர் கோயில்",
+  "deity": "শিব সর্গুণেশ্বরর (সর্গুণ-নাথেশ্বরর) রূপে, দেবী সর্বাঙ্গসুন্দরী (সর্বাঙ্গ নায়িকী) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Karuveli, near Koonthalur",
-    "state": "Tamil Nadu",
+    "city": "করুভেলি, কুন্থলূরের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9407,
     "lng": 79.5313
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তোত্রে বন্দিত); পরবর্তীকালে চোল স্থাপত্যের মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরী ব-দ্বীপে কুন্থলূরের কাছে অবস্থিত করুভেলি, তেবারমের তিরুক্করুভিলি কোট্টিট্টৈ, শিবকে সর্গুণেশ্বরর — সকল সদ্‌গুণের অধিপতি — রূপে পূজা করে, সঙ্গে থাকেন দেবী সর্বাঙ্গসুন্দরী, 'যিনি সর্বাঙ্গসুন্দরী।' অপ্পর কর্তৃক স্তোত্রে বন্দিত এই পাডল পেট্র স্থলম সেই স্থান হিসেবে স্মরণীয় যেখানে রাজা সর্গুণন পূজা করে পুনর্জন্ম থেকে মুক্তি পেয়েছিলেন, এবং এখানকার পূজা স্বয়ং মোক্ষ প্রদান করে বলে বিশ্বাস করা হয়।",
   "sections": {
-    "history": "Karuveli, whose Tevaram name is Tirukkaruvili Kottittai, lies near Koonthalur in the Kaveri delta, about 22 km from Kumbakonam, close to the Thanjavur–Tiruvarur border (sources variously list Tiruvarur or Thanjavur district). It is a Paadal Petra Sthalam, hymned by Tirunavukkarasar (Appar). The village is also called Sarguneswarapuram, after King Sargunan who is said to have worshipped here and attained liberation. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Sarguneswarar in the sanctum, with the goddess Sarvangasundari — also Sarvanga Nayaki — in her own shrine, her standing image remarkable at some five and a half feet tall. A Nandi and the parivara devatas complete the plan. The sacred tank, the Yama Theertham, lies outside the temple; its name recalls the lord's power over death and the moksha sought here.",
-    "legends": "The lord's name Sarguneswarar means 'the lord of all good qualities' (sarva-guna), and the goddess Sarvangasundari is 'she who is beautiful in every limb.' The sthala legend tells of a king named Sargunan who worshipped Shiva here with such devotion that he was freed from the cycle of birth and death, giving the village the name Sarguneswarapuram. The Yama Theertham, named for the lord of death, marks the place as one where the fear of death is overcome and moksha granted.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. As a shrine famed for granting moksha, it draws devotees who seek release, especially on Shivaratri nights.",
-    "experience": "Karuveli offers the pilgrim a shrine whose whole promise is liberation. Before Sarguneswarar and the tall, serene form of Sarvangasundari, beside the Yama Theertham that recalls the conquest of death, the visitor stands where a king is said to have won release — a quiet delta temple whose name and legend hold out the hope of moksha."
+    "history": "করুভেলি, যার তেবারম নাম তিরুক্করুভিলি কোট্টিট্টৈ, কাবেরী ব-দ্বীপে কুন্থলূরের কাছে, কুম্বকোণম থেকে প্রায় ২২ কিমি দূরে, তাঞ্জাবুর–তিরুবারুর সীমান্তের নিকটে অবস্থিত (সূত্র অনুযায়ী তিরুবারুর বা তাঞ্জাবুর জেলা)। এটি একটি পাডল পেট্র স্থলম, তিরুনাবুক্করসর (অপ্পর) কর্তৃক স্তোত্রে বন্দিত। গ্রামটিকে সর্গুণেশ্বরপুরমও বলা হয়, সেই রাজা সর্গুণনের নামে যিনি এখানে পূজা করে মুক্তি লাভ করেছিলেন বলে কথিত। পাথরের মন্দিরটি চোল যুগ ও পরবর্তীকালের।",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, এর গর্ভগৃহে সর্গুণেশ্বরর অধিষ্ঠিত, এবং দেবী সর্বাঙ্গসুন্দরী — সর্বাঙ্গ নায়িকীও — তাঁর নিজস্ব মন্দিরে, যাঁর দণ্ডায়মান মূর্তি প্রায় সাড়ে পাঁচ ফুট উঁচু বলে উল্লেখযোগ্য। একটি নন্দী ও পরিবার দেবতাগণ পরিকল্পনা সম্পূর্ণ করেন। পবিত্র পুষ্করিণী, যম তীর্থম, মন্দিরের বাইরে অবস্থিত; এর নাম মৃত্যুর উপর প্রভুর আধিপত্য ও এখানে কাঙ্ক্ষিত মোক্ষকে স্মরণ করায়।",
+    "legends": "প্রভুর নাম সর্গুণেশ্বরর অর্থ 'সকল সদ্‌গুণের অধিপতি' (সর্ব-গুণ), এবং দেবী সর্বাঙ্গসুন্দরী হলেন 'যিনি সর্বাঙ্গে সুন্দরী।' স্থল কিংবদন্তি বলে সর্গুণন নামে এক রাজার কথা, যিনি এখানে এমন ভক্তিতে শিবের পূজা করেছিলেন যে তিনি জন্ম-মৃত্যুর চক্র থেকে মুক্ত হন, এবং গ্রামটি সর্গুণেশ্বরপুরম নাম পায়। মৃত্যুর অধিপতির নামে নামাঙ্কিত যম তীর্থম এই স্থানকে সেই স্থান হিসেবে চিহ্নিত করে যেখানে মৃত্যুভয় জয় করা হয় ও মোক্ষ প্রদান করা হয়।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈয়ের সোমবারগুলি প্রদোষ পূজা সহ পালিত হয়। মোক্ষ প্রদানের জন্য খ্যাত মন্দির হিসেবে এটি মুক্তিকামী ভক্তদের আকর্ষণ করে, বিশেষত শিবরাত্রির রাতে।",
+    "experience": "করুভেলি তীর্থযাত্রীকে এমন এক মন্দির দেয় যার সমগ্র প্রতিশ্রুতি মুক্তি। সর্গুণেশ্বরর ও সর্বাঙ্গসুন্দরীর দীর্ঘ, প্রশান্ত রূপের সম্মুখে, মৃত্যুজয়কে স্মরণ করানো যম তীর্থমের পাশে, দর্শনার্থী সেই স্থানে দাঁড়ান যেখানে এক রাজা মুক্তি লাভ করেছিলেন বলে কথিত — এক শান্ত ব-দ্বীপ মন্দির, যার নাম ও কিংবদন্তি মোক্ষের আশা জাগিয়ে রাখে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Karuveli is about 22 km from Kumbakonam, reached via the Kumbakonam–Natchiarkoil–Poonthottam road to Koonthalur, then north across the Arasalaru about 2 km to the temple (Koondhalur post, near the Thanjavur–Tiruvarur border). Kumbakonam is the nearest major rail head, with buses toward Koonthalur and local taxis."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা খুলে রাখতে হয়।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত ছবি তোলা যায়, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "করুভেলি কুম্বকোণম থেকে প্রায় ২২ কিমি দূরে, কুম্বকোণম–নাচ্চিয়ারকোইল–পুন্থোট্টম সড়ক ধরে কুন্থলূর, তারপর আরাসলারু পেরিয়ে উত্তরে প্রায় ২ কিমি গিয়ে মন্দির (কুন্থলূর পোস্ট, তাঞ্জাবুর–তিরুবারুর সীমান্তের কাছে)। কুম্বকোণম নিকটতম প্রধান রেলস্টেশন, কুন্থলূরের দিকে বাস ও স্থানীয় ট্যাক্সি রয়েছে।"
   }
 }

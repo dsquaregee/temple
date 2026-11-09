@@ -1,29 +1,36 @@
 {
   "id": "trivikrama-sirkazhi",
   "locale": "bn",
+  "name": "ত্রিবিক্রম পেরুমল মন্দির, সীর্কালি",
   "nativeName": "திரிவிக்கிரமப் பெருமாள் கோயில், சீர்காழி",
+  "deity": "বিষ্ণু, ত্রিবিক্রম (থাডালন) পেরুমল রূপে, দেবী লোকনায়কী সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Sirkazhi",
-    "state": "Tamil Nadu",
+    "city": "সীর্কালি",
+    "state": "তামিলনাড়ু",
     "lat": 11.2406,
     "lng": 79.7314
   },
+  "period": "চোল দেশের একটি দিব্যদেশম, তিরুমঙ্গৈ আলবার কর্তৃক নালায়িরা দিব্য প্রবন্ধমে কীর্তিত",
   "century": 8,
+  "dynasty": "চোল দেশ (পরবর্তী পৃষ্ঠপোষকগণ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "সীর্কালিতে বিষ্ণু ত্রিবিক্রম রূপে দাঁড়িয়ে আছেন, সেই থাডালন যাঁর উত্থিত পা জগৎসমূহ বিস্তার করে — কালিচীরাম বিণ্ণগরমের দিব্যদেশম, তিরুমঙ্গৈ আলবার কর্তৃক কীর্তিত।",
   "sections": {
-    "history": "The Trivikrama temple of Sirkazhi, also called Thadalan Koil and known in the hymns as Thirukkazhicheerama Vinnagaram, is one of the 108 Divya Desams — the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham — in Chola Nadu. Thirumangai Alvar offered its mangalasasanam in the Periya Thirumozhi. An older name of the place is Patalikavanam. The presiding lord is Trivikrama, the Thadalan, with the Goddess Lokanayaki, and the temple is today administered by the Tamil Nadu Hindu Religious and Charitable Endowments Department. Its antiquity is carried by the Alvar's hymns.",
-    "architecture": "The temple follows the Dravidian plan of the Chola country. Its sanctum is crowned by the vimana known as Pushkalavartha, and the lord is worshipped in the posture of Trivikrama, Vamana grown to measure the worlds, with one foot raised. The temple has two sacred waters: the Shankha Pushkarini and the Chakra Theertham, named for the conch and the discus of Vishnu.",
-    "legends": "The sthala purana tells of the sage Romasa, whose body-hairs are said to be tied to the span of Brahma's life, and who asked Vishnu to remain here as Trivikrama. Tradition also remembers a meeting in Sirkazhi between Thirumangai Alvar and the Shaiva saint Sambandar: after the Alvar sang his hymn, Sambandar is said to have honoured him with a vel, a spear.",
-    "festivals": "The Brahmotsavam, the great annual festival, is held in the month of Vaikasi (May–June). Vaikunta Ekadashi and the days of the Alvars follow the Vaishnava calendar. Confirm dates locally. The temple is administered by the Tamil Nadu Hindu Religious and Charitable Endowments Department, and local priests can confirm the festival calendar.",
-    "experience": "Stand before Trivikrama and look for the raised foot that gives the lord his name. Sirkazhi is also a town of famous Shaiva shrines, and the Alvar's meeting with Sambandar makes this a fitting place to reflect on the shared devotion of the Kaveri country. The temple pairs well with Thiruvali-Thirunagari and the Thirunangur group nearby."
+    "history": "সীর্কালির ত্রিবিক্রম মন্দির, থাডালন কোইল নামেও পরিচিত এবং স্তোত্রে তিরুক্কালিচীরাম বিণ্ণগরম নামে পরিচিত, চোল নাড়ুর ১০৮টি দিব্যদেশমের অন্যতম — আলবার সন্তদের দ্বারা নালায়িরা দিব্য প্রবন্ধমে কীর্তিত বিষ্ণুর আবাসস্থল। তিরুমঙ্গৈ আলবার পেরিয়া তিরুমোলিতে এর মঙ্গলাশাসনম করেছিলেন। স্থানটির একটি প্রাচীনতর নাম পাতালিকাবনম। অধিষ্ঠাতা প্রভু ত্রিবিক্রম, থাডালন, দেবী লোকনায়কীসহ, এবং মন্দিরটি আজ তামিলনাড়ু হিন্দু ধর্মীয় ও দাতব্য ন্যাস বিভাগ কর্তৃক পরিচালিত। এর প্রাচীনত্ব আলবারের স্তোত্র দ্বারা বহন করা হয়।",
+    "architecture": "মন্দিরটি চোল দেশের দ্রাবিড় পরিকল্পনা অনুসরণ করে। এর গর্ভগৃহের শীর্ষে পুষ্কলাবর্থ নামে পরিচিত বিমান, এবং প্রভু ত্রিবিক্রমের ভঙ্গিতে পূজিত, বামন জগৎসমূহ পরিমাপ করতে বৃদ্ধিপ্রাপ্ত, এক পা উত্থিত। মন্দিরের দুটি পবিত্র জলাধার রয়েছে: শঙ্খ পুষ্করিণী এবং চক্র তীর্থম, বিষ্ণুর শঙ্খ ও চক্রের নামে নামাঙ্কিত।",
+    "legends": "স্থলপুরাণ ঋষি রোমশের কথা বলে, যাঁর দেহলোম ব্রহ্মার আয়ুর পরিসরের সঙ্গে বাঁধা বলে কথিত, এবং যিনি বিষ্ণুকে এখানে ত্রিবিক্রম রূপে থাকতে অনুরোধ করেছিলেন। প্রথা সীর্কালিতে তিরুমঙ্গৈ আলবার ও শৈব সন্ত সম্বন্দরের এক সাক্ষাতের কথাও স্মরণ করে: আলবার তাঁর স্তোত্র গাওয়ার পর, সম্বন্দর তাঁকে একটি বেল, অর্থাৎ বর্শা, দিয়ে সম্মানিত করেছিলেন বলা হয়।",
+    "festivals": "ব্রহ্মোৎসবম, মহান বার্ষিক উৎসব, বৈকাসি (মে–জুন) মাসে অনুষ্ঠিত হয়। বৈকুণ্ঠ একাদশী এবং আলবারদের দিনগুলি বৈষ্ণব পঞ্জিকা অনুসরণ করে। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন। মন্দিরটি তামিলনাড়ু হিন্দু ধর্মীয় ও দাতব্য ন্যাস বিভাগ কর্তৃক পরিচালিত, এবং স্থানীয় পুরোহিতরা উৎসব পঞ্জিকা নিশ্চিত করে দিতে পারেন।",
+    "experience": "ত্রিবিক্রমের সম্মুখে দাঁড়িয়ে সেই উত্থিত পা খুঁজুন যা প্রভুকে তাঁর নাম দেয়। সীর্কালি বিখ্যাত শৈব মন্দিরেরও শহর, এবং সম্বন্দরের সঙ্গে আলবারের সাক্ষাৎ এই স্থানটিকে কাবেরী দেশের অভিন্ন ভক্তির উপর ভাবনার জন্য যথোপযুক্ত করে তোলে। মন্দিরটি কাছের তিরুবলি-তিরুনগরী এবং তিরুনঙ্গুর গোষ্ঠীর সঙ্গে ভালোভাবে মেলে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is in Sirkazhi town, Mayiladuthurai district, reached by road and by the Chennai–Mayiladuthurai rail line, on which Sirkazhi is a station. The nearest major airport is Tiruchirappalli, about 160 km away."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন অধিবেশন এবং একটি মধ্যাহ্ন বিরতিসহ খোলা থাকে; ভ্রমণের আগে স্থানীয়ভাবে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলায় নিষেধাজ্ঞা আছে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "মন্দিরটি ময়িলাড়ুতুরৈ জেলার সীর্কালি শহরে, সড়কপথে এবং চেন্নাই–ময়িলাড়ুতুরৈ রেললাইনে পৌঁছানো যায়, যেখানে সীর্কালি একটি স্টেশন। নিকটতম প্রধান বিমানবন্দর তিরুচিরাপল্লি, প্রায় ১৬০ কিমি দূরে।"
   }
 }

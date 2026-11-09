@@ -1,30 +1,37 @@
 {
   "id": "madhuvaneswarar-nannilam",
   "locale": "bn",
+  "name": "মধুবনেশ্বর মন্দির, নন্নিলম",
   "nativeName": "நன்னிலம் மதுவனேஸ்வரர் கோயில்",
+  "deity": "শিব মধুবনেশ্বর (মধু-অরণ্যের প্রভু) রূপে, দেবী মধুবন নায়কির সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, অপ্পর ও সুন্দরার কর্তৃক গীত",
   "location": {
-    "city": "Nannilam",
-    "state": "Tamil Nadu",
+    "city": "নন্নিলম",
+    "state": "তামিলনাড়ু",
     "lat": 10.8631,
     "lng": 79.6042
   },
+  "period": "তেবারম যুগ; ঐতিহ্যগতভাবে একটি কোচেঙ্গট চোল মাডা কোভিল",
   "century": 9,
+  "dynasty": "চোল (ঐতিহ্যগতভাবে কোচেঙ্গট চোল)",
+  "style": "দ্রাবিড় (মাডা কোভিল, উঁচু ধরন)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "নন্নিলম শিবকে মধুবনেশ্বর রূপে সম্মান করে — মধু-অরণ্যের প্রভু — দেবী মধুবন নায়কির সঙ্গে, একটি পাডল পেট্র স্থলম যা অপ্পর কর্তৃক প্রশংসিত ও সুন্দরার কর্তৃক নয়টি শ্লোকে গীত, যিনি নন্নিলমের মহান মন্দিরকে তার নামে ডেকেছেন। একদা মধু গাছের অরণ্যময় স্থানে স্থাপিত একটি স্বয়ম্ভূ লিঙ্গ, এটি উঁচু মাডা কোভিলগুলির মধ্যে গণ্য যা ঐতিহ্যগতভাবে চোল রাজা কোচেঙ্গট চোল নির্মাণ করেছিলেন, এবং কিংবদন্তিতে দেবতাদের আশ্রয় হিসেবে স্মরণীয়।",
   "sections": {
-    "history": "Nannilam, a town in the delta country, is an ancient Shaiva site hymned in the seventh-century Tevaram — praised by Appar and sung by Sundarar in nine verses, whose closing lines name the Chola king as its builder. The temple is held to be one of the raised Maada Kovils traditionally ascribed to Kochengat Chola, built high so that an elephant could not enter the sanctum. Sundarar's name for it, Nannilathu Perunkovil, the great temple of Nannilam, marks its standing in the delta.",
-    "architecture": "As a Maada Kovil the temple sits on an elevated base in the manner of the Kochengat Chola foundations. The sanctum enshrines the self-manifested lingam of Madhuvaneswarar; the goddess Madhuvana Nayaki has her own shrine. The temple's name, from a forest of madhu trees, and its honey-bee legend give its iconography and worship a distinctive flavour among the delta shrines.",
-    "legends": "The name Madhuvaneswarar comes from a forest of madhu trees that once surrounded the shrine. One tradition tells that in the Dvapara age, when the asura Vrithrasura tormented the gods, they prayed to Shiva, who turned the Devas into honeybees and let them dwell in the sanctum to worship the lingam — from which the lord takes the name of the honey-forest. Another account calls the place Devaranyam, the gods' forest, where the Devas sheltered from the asura Jalandhara, whom Shiva vanquished at nearby Virkudi. The self-manifested lingam and the god's own name keep these stories alive.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. Its standing as the 'great temple of Nannilam' and its Maada Kovil form give the festivals of the delta town a focus here, and Sundarar's hymn is cherished in the temple's tradition.",
-    "experience": "Nannilam offers the pilgrim a raised temple with a gentle legend at its heart — gods made into bees to worship the lingam in a forest of honey. Climbing to the elevated sanctum of Madhuvaneswarar, and standing before a self-manifested lord sung by Appar and Sundarar, the visitor meets a shrine whose sweetness is woven into its very name."
+    "history": "নন্নিলম, ব-দ্বীপ দেশের একটি শহর, একটি প্রাচীন শৈব স্থান যা সপ্তম শতাব্দীর তেবারমে স্তোত্রিত — অপ্পর কর্তৃক প্রশংসিত ও সুন্দরার কর্তৃক নয়টি শ্লোকে গীত, যার শেষ পঙ্‌ক্তিগুলি চোল রাজাকে এর নির্মাতা বলে নামকরণ করে। মন্দিরটি সেই উঁচু মাডা কোভিলগুলির একটি বলে ধরা হয় যা ঐতিহ্যগতভাবে কোচেঙ্গট চোলকে আরোপিত, এত উঁচুতে নির্মিত যাতে একটি হাতি গর্ভগৃহে প্রবেশ করতে না পারে। সুন্দরারের দেওয়া নাম, নন্নিলত্তু পেরুঙ্কোভিল, নন্নিলমের মহান মন্দির, ব-দ্বীপে এর মর্যাদা চিহ্নিত করে।",
+    "architecture": "একটি মাডা কোভিল হিসেবে মন্দিরটি কোচেঙ্গট চোল প্রতিষ্ঠানের রীতিতে একটি উঁচু ভিত্তির উপর বসে। গর্ভগৃহে মধুবনেশ্বরের স্বয়ম্ভূ লিঙ্গ প্রতিষ্ঠিত; দেবী মধুবন নায়কির নিজস্ব মন্দির আছে। মন্দিরের নাম, মধু গাছের একটি অরণ্য থেকে, এবং এর মধুমাছির কিংবদন্তি ব-দ্বীপের মন্দিরগুলির মধ্যে এর মূর্তিতত্ত্ব ও পূজাকে একটি স্বতন্ত্র স্বাদ দেয়।",
+    "legends": "মধুবনেশ্বর নামটি একদা মন্দিরটিকে ঘিরে থাকা মধু গাছের একটি অরণ্য থেকে আসে। একটি ঐতিহ্য বলে যে দ্বাপর যুগে, যখন অসুর বৃত্রাসুর দেবতাদের উৎপীড়ন করেছিল, তাঁরা শিবের কাছে প্রার্থনা করেছিলেন, যিনি দেবগণকে মধুমাছিতে পরিণত করেছিলেন ও তাদের লিঙ্গ পূজা করতে গর্ভগৃহে বাস করতে দিয়েছিলেন — এ থেকে প্রভু মধু-অরণ্যের নাম নেন। আরেকটি বিবরণ স্থানটিকে দেবারণ্যম, দেবতাদের অরণ্য বলে, যেখানে দেবগণ অসুর জলন্ধরের হাত থেকে আশ্রয় নিয়েছিলেন, যাঁকে শিব কাছের বির্কুডিতে পরাজিত করেছিলেন। স্বয়ম্ভূ লিঙ্গ ও দেবতার নিজের নাম এই কাহিনিগুলি জীবন্ত রাখে।",
+    "festivals": "মন্দিরটি শৈব উৎসব-পঞ্জিকা পালন করে — মহাশিবরাত্রি, প্রদোষম, মার্গঝি ঋতু ও বার্ষিক ব্রহ্মোৎসবম। 'নন্নিলমের মহান মন্দির' হিসেবে এর মর্যাদা ও এর মাডা কোভিল রূপ ব-দ্বীপ শহরের উৎসবগুলিকে এখানে একটি কেন্দ্র দেয়, এবং সুন্দরারের স্তোত্র মন্দিরের ঐতিহ্যে লালিত।",
+    "experience": "নন্নিলম তীর্থযাত্রীকে তার হৃদয়ে একটি কোমল কিংবদন্তি সহ একটি উঁচু মন্দির দেয় — দেবতারা মৌমাছিতে পরিণত হয়ে মধুর অরণ্যে লিঙ্গ পূজা করছেন। মধুবনেশ্বরের উঁচু গর্ভগৃহে উঠে, এবং অপ্পর ও সুন্দরার কর্তৃক গীত একটি স্বয়ম্ভূ প্রভুর সামনে দাঁড়িয়ে, দর্শনার্থী এমন একটি মন্দিরের মুখোমুখি হন যার মাধুর্য তার নামেই বোনা।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Nannilam is a town in Tiruvarur district, about 17 km from Tiruvarur; it has its own railway station and is well connected by bus from Tiruvarur, Nagapattinam and Kumbakonam."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত ও আবার বিকেলের শেষভাগ থেকে সন্ধ্যা পর্যন্ত খোলা; সময় স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; পাদুকা প্রবেশপথে রেখে আসা হয়।",
+    "photography": "বাইরের করিডরে সাধারণত ফটোগ্রাফির অনুমতি আছে কিন্তু গর্ভগৃহের ভেতরে নয়; রীতির ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "নন্নিলম তিরুবারুর জেলার একটি শহর, তিরুবারুর থেকে প্রায় ১৭ কিলোমিটার দূরে; এর নিজস্ব রেলস্টেশন আছে এবং তিরুবারুর, নাগাপট্টিনম ও কুম্বকোণম থেকে বাসে ভালোভাবে সংযুক্ত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/madhuvaneswarar-nannilam.jpg",

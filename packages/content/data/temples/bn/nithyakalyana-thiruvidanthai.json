@@ -1,30 +1,37 @@
 {
   "id": "nithyakalyana-thiruvidanthai",
   "locale": "bn",
+  "name": "নিত্যকল্যাণ পেরুমাল মন্দির (লক্ষ্মী বরাহ), তিরুবিডন্দৈ",
   "nativeName": "நித்யகல்யாணப் பெருமாள் கோயில், திருவிடந்தை",
+  "deity": "বিষ্ণু, লক্ষ্মী বরাহ রূপে, নিত্যকল্যাণ পেরুমাল রূপে পূজিত, কোমলবল্লী তায়ারের সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruvidanthai, Chengalpattu",
-    "state": "Tamil Nadu",
+    "city": "তিরুবিডন্দৈ, চেঙ্গলপট্টু",
+    "state": "তামিলনাড়ু",
     "lat": 12.7633,
     "lng": 80.242
   },
+  "period": "তোণ্ডৈ নাড়ুর এক দিব্যদেশম্, নালায়ির দিব্য প্রবন্ধমের তেরোটি শ্লোকে তিরুমঙ্গৈ আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পল্লব, চোলদের আমলে সংস্কারকৃত",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "ইস্ট কোস্ট রোডের উপর তিরুবিডন্দৈতে বিষ্ণু লক্ষ্মী বরাহ রূপে নিত্যকল্যাণ পেরুমাল—প্রতিদিনের বিবাহের প্রভু—রূপে পূজিত হন, তিরুমঙ্গৈ আলবার কর্তৃক স্তুত তোণ্ডৈ নাড়ুর এক দিব্যদেশম্।",
   "sections": {
-    "history": "Thiruvidanthai is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Thondai Nadu. Thirumangai Alvar praised the Lord of this village in thirteen verses. The temple is traditionally attributed to the Pallava age, in the seventh and eighth centuries, and a worn inscribed plaque within the precincts is said to place it in the eighth century. It was renovated under the Cholas in the eleventh century, and a Chola king, Vijaya Rajendra, is said to have granted the village to the temple. It stands on the East Coast Road in Chengalpattu district, south of Chennai.",
-    "architecture": "The sanctum is crowned by the Kalyana Vimanam, named for the wedding that gives the shrine its fame. The Lord is Lakshmi Varaha, Vishnu in his boar form, and Komalavalli Thayar has her own shrine. Two sacred tanks serve the temple, the Varaha Theertham and the Kalyana Theertham, and the sthala vriksha, the sacred tree, is the Punnai.",
-    "legends": "The sthala purana tells of the sage Kalava, who had three hundred and sixty daughters. Vishnu came to the sage as a young brahmachari and married one daughter each day for a year, which is why he is called Nithyakalyana, the Lord of the daily wedding. At the end of the year, tradition holds, the daughters became one, honoured as Akhilavalli, the Goddess who is the whole of them. The temple therefore speaks of marriage as a sacred and continuing grace.",
-    "festivals": "Vaikunta Ekadashi and the annual Brahmotsavam are the principal festivals. Weddings and prayers for marriage also fill the temple on auspicious days. Confirm dates locally.",
-    "experience": "The temple has a special place for those praying for marriage. Devotees bring a garland, walk around the inner prakaram nine times and keep the garland at home; after the wedding, couples return it to the temple. Pause also before the Varaha image, and plan the visit along the East Coast Road, where the temple lies a short drive from Kovalam."
+    "history": "তিরুবিডন্দৈ ১০৮ দিব্যদেশমের অন্যতম—আলবারগণ কর্তৃক নালায়ির দিব্য প্রবন্ধমে স্তুত বিষ্ণুর আবাসসমূহ—এবং এটি তোণ্ডৈ নাড়ুর অন্তর্গত। তিরুমঙ্গৈ আলবার এই গ্রামের প্রভুকে তেরোটি শ্লোকে প্রশংসা করেছেন। মন্দিরটি ঐতিহ্যগতভাবে সপ্তম ও অষ্টম শতকের পল্লব যুগের বলে অভিহিত, এবং প্রাঙ্গণের ভেতরের একটি ক্ষয়প্রাপ্ত শিলালিপি ফলক এটিকে অষ্টম শতকে স্থাপন করে বলে কথিত। একাদশ শতকে চোলদের আমলে এটি সংস্কার করা হয়, এবং এক চোল রাজা বিজয় রাজেন্দ্র গ্রামটি মন্দিরকে দান করেছিলেন বলে কথিত। এটি চেন্নাইয়ের দক্ষিণে চেঙ্গলপট্টু জেলার ইস্ট কোস্ট রোডের উপর অবস্থিত।",
+    "architecture": "গর্ভগৃহের শিখর হল কল্যাণ বিমান, সেই বিবাহের নামে নামাঙ্কিত যা মন্দিরটিকে খ্যাতি দিয়েছে। প্রভু লক্ষ্মী বরাহ, শূকর-রূপে বিষ্ণু, এবং কোমলবল্লী তায়ারের নিজস্ব মন্দির রয়েছে। মন্দিরের দুটি পবিত্র তীর্থ রয়েছে—বরাহ তীর্থম ও কল্যাণ তীর্থম—এবং স্থলবৃক্ষ, পবিত্র বৃক্ষটি হল পুন্নৈ।",
+    "legends": "স্থলপুরাণ ঋষি কলবের কথা বলে, যাঁর তিনশো ষাটটি কন্যা ছিল। বিষ্ণু ঋষির কাছে এক তরুণ ব্রহ্মচারী রূপে এসে এক বছর ধরে প্রতিদিন একটি করে কন্যাকে বিবাহ করেন, এজন্যই তাঁকে নিত্যকল্যাণ, প্রতিদিনের বিবাহের প্রভু বলা হয়। প্রথা অনুসারে বছরের শেষে কন্যারা একজন হয়ে যান, অখিলবল্লী রূপে সম্মানিত—সেই দেবী যিনি তাদের সকলের সমষ্টি। তাই মন্দিরটি বিবাহকে এক পবিত্র ও চিরন্তন কৃপা রূপে কথা বলে।",
+    "festivals": "বৈকুণ্ঠ একাদশী ও বার্ষিক ব্রহ্মোৎসবম প্রধান উৎসব। শুভ দিনে বিবাহ ও বিবাহের জন্য প্রার্থনাও মন্দির ভরিয়ে তোলে। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "বিবাহের জন্য প্রার্থনারতদের কাছে মন্দিরটির এক বিশেষ স্থান। ভক্তরা একটি মালা আনেন, ভেতরের প্রাকার নয়বার প্রদক্ষিণ করেন ও মালাটি বাড়িতে রাখেন; বিবাহের পর দম্পতিরা তা মন্দিরে ফিরিয়ে দেন। বরাহ মূর্তির সামনেও একটু থামুন, এবং ইস্ট কোস্ট রোড বরাবর ভ্রমণের পরিকল্পনা করুন, যেখানে কোভালম থেকে অল্প দূরত্বে মন্দিরটি অবস্থিত।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is on the East Coast Road in Chengalpattu district, about 4 km from Kovalam (Covelong) and about 19 km south of Thiruvanmiyur in Chennai. Chennai is the nearest major airport, and the road from Chennai is the usual way; confirm bus connections locally."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন অধিবেশন ও মধ্যাহ্নে বন্ধ থাকে; বৈকুণ্ঠ একাদশী ও উৎসবের দিনে সবচেয়ে ভিড়। যাওয়ার আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে জুতো খুলে রাখতে হয়। নির্দেশিত নিয়ম ও পুরোহিতদের পরামর্শ মেনে চলুন।",
+    "photography": "গর্ভগৃহের ভেতরে ও চারপাশে ফটোগ্রাফি নিষিদ্ধ; নির্দেশিত নিয়ম ও পুরোহিতদের পরামর্শ মেনে চলুন।",
+    "gettingThere": "মন্দিরটি চেঙ্গলপট্টু জেলার ইস্ট কোস্ট রোডের উপর, কোভালম (কোভেলং) থেকে প্রায় ৪ কিমি এবং চেন্নাইয়ের তিরুবন্মিয়ূর থেকে দক্ষিণে প্রায় ১৯ কিমি দূরে। চেন্নাই নিকটতম প্রধান বিমানবন্দর, এবং চেন্নাই থেকে সড়কপথই সাধারণ পথ; বাস সংযোগ স্থানীয়ভাবে নিশ্চিত করুন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/nithyakalyana-thiruvidanthai.jpg",

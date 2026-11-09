@@ -1,30 +1,41 @@
 {
   "id": "papanasanathar-papanasam",
   "locale": "bn",
+  "name": "পাপনাসনাথর মন্দির, পাপনাসম",
   "nativeName": "பாபநாசநாதர் கோயில், பாபநாசம்",
+  "deity": "পাপনাসনাথর রূপে শিব, দেবী উলগম্মাইয়ের সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Papanasam",
-    "state": "Tamil Nadu",
+    "city": "পাপনাসম",
+    "state": "তামিলনাড়ু",
     "lat": 8.7133,
     "lng": 77.4058
   },
+  "period": "নব কৈলাসমের প্রথম, সূর্যের তীর্থ; পাণ্ড্য প্রতিষ্ঠা, বিজয়নগর ও নায়ক শাসকদের অধীনে সম্প্রসারিত",
   "century": 12,
+  "dynasty": "পাণ্ড্য, বিজয়নগর ও নায়ক সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "যেখানে তাম্রপর্ণী পশ্চিমঘাট ছেড়ে যায়, সেখানে পাপনাসনাথর রূপে শিব—পাপ বিনাশকারী প্রভু—নব কৈলাসমের প্রথম তীর্থযাত্রীদের গ্রহণ করেন, সূর্যের সঙ্গে যুক্ত তীর্থে।",
   "sections": {
-    "history": "Papanasam stands at the very head of the Tamiraparani's journey across the plains, where the river comes down from the Western Ghats past the Agasthiyar Falls and the town spreads along its bank in Tirunelveli district. The temple of Papanasanathar is the first of the Nava Kailasam, the nine Shiva shrines strung along the river to the sea, and the one linked with the Sun. Its foundation is credited to the Pandya kings of the south, and in the sixteenth century the rulers of Vijayanagara and their Nayaka governors enlarged it with halls and towers. For centuries it has drawn pilgrims who come first to bathe in the river and then to worship the lord whose very name promises release from sin.",
-    "architecture": "The temple is built in granite in the Dravidian manner and faces the river, entered through a rajagopuram of seven tiers. Within the enclosures stand the sanctum of Papanasanathar, worshipped as a lingam, and the separate shrine of the Goddess Ulagammai, the mother of the world, joined by pillared mandapas of the later Nayaka age. Steps lead down from the temple to the bathing ghat on the Tamiraparani, so that the sacred bath and the darshan form one continuous act of worship, with the forested slopes of the Ghats rising close behind.",
-    "legends": "The sthala purana tells that when Shiva and Parvati were wed on Kailasa, the whole world gathered in the north and the earth tilted under the weight. Shiva sent the sage Agastya south to restore its balance, promising him a vision of the divine wedding in the south; at Papanasam the lord appeared to Agastya and his wife Lopamudra in his bridal form. The Nava Kailasam tradition adds that Agastya's disciple, the sage Romasa, floated nine lotuses on the river and installed a lingam wherever each came ashore — and the first of them settled here. Another account says Indra was freed of his sin by bathing and worshipping here, giving the place its name.",
-    "festivals": "The great festival falls in the Tamil month of Chithirai, when the vision of the divine wedding granted to Agastya is celebrated at the start of the month and the lord is taken in procession over the following days. Thaipoosam brings crowds to bathe in the river, and Maha Shivaratri and the monthly pradosham are kept with devotion; the new-moon days, above all Aadi Amavasai, draw families to the ghat. Confirm dates locally.",
-    "experience": "Papanasam is a place where the river is as much a part of worship as the shrine: pilgrims bathe at the ghat, feed the fish that crowd the shallows, and climb to the temple with wet hair and the sound of water behind them. It is the natural starting point of the Nava Kailasam round, which follows the Tamiraparani downstream through eight more villages to the sea, and lies close to the Agasthiyar Falls and the Papanasam dam."
+    "history": "পাপনাসম সমতল জুড়ে তাম্রপর্ণীর যাত্রার একেবারে শীর্ষে দাঁড়িয়ে, যেখানে নদীটি অগস্ত্যর জলপ্রপাত পেরিয়ে পশ্চিমঘাট থেকে নেমে আসে এবং শহরটি তিরুনেলবেলি জেলায় তার তীর ধরে বিস্তৃত। পাপনাসনাথরের মন্দির নব কৈলাসমের প্রথম, নদী ধরে সমুদ্র পর্যন্ত গ্রথিত নয়টি শিব তীর্থ, এবং সূর্যের সঙ্গে যুক্ত তীর্থ। এর প্রতিষ্ঠার কৃতিত্ব দক্ষিণের পাণ্ড্য রাজাদের দেওয়া হয়, এবং ষোড়শ শতকে বিজয়নগরের শাসক ও তাঁদের নায়ক প্রশাসকরা মণ্ডপ ও গোপুরম দিয়ে একে সম্প্রসারিত করেন। শতাব্দীর পর শতাব্দী ধরে এটি সেই তীর্থযাত্রীদের আকৃষ্ট করেছে যাঁরা প্রথমে নদীতে স্নান করতে ও তারপর সেই প্রভুর পূজা করতে আসেন যাঁর নামই পাপ থেকে মুক্তির প্রতিশ্রুতি দেয়।",
+    "architecture": "মন্দিরটি দ্রাবিড় রীতিতে গ্রানাইটে নির্মিত এবং নদীমুখী, সাততলা রাজগোপুরমের মধ্য দিয়ে প্রবেশ করা যায়। প্রাঙ্গণের ভেতরে দাঁড়িয়ে আছে পাপনাসনাথরের গর্ভগৃহ, লিঙ্গ রূপে পূজিত, এবং দেবী উলগম্মাই, বিশ্বজননীর পৃথক তীর্থ, পরবর্তী নায়ক যুগের স্তম্ভযুক্ত মণ্ডপে যুক্ত। মন্দির থেকে সিঁড়ি নেমে গেছে তাম্রপর্ণীর স্নানঘাটে, যাতে পবিত্র স্নান ও দর্শন একটি অবিচ্ছিন্ন পূজার কাজ হয়ে ওঠে, পেছনে ঘনিষ্ঠভাবে উঠে আসা ঘাটের অরণ্যাবৃত ঢাল নিয়ে।",
+    "legends": "স্থল পুরাণ বলে যে যখন শিব ও পার্বতী কৈলাসে বিবাহিত হন, তখন সমগ্র জগৎ উত্তরে জড়ো হয় এবং সেই ভারে পৃথিবী হেলে পড়ে। শিব ঋষি অগস্ত্যকে ভারসাম্য পুনঃপ্রতিষ্ঠার জন্য দক্ষিণে পাঠান, তাঁকে দক্ষিণে সেই দিব্য বিবাহের দর্শনের প্রতিশ্রুতি দিয়ে; পাপনাসমে প্রভু অগস্ত্য ও তাঁর স্ত্রী লোপামুদ্রার কাছে তাঁর বিবাহরূপে আবির্ভূত হন। নব কৈলাসম ঐতিহ্য যোগ করে যে অগস্ত্যের শিষ্য ঋষি রোমশ নদীতে নয়টি পদ্ম ভাসিয়ে দেন এবং প্রতিটি যেখানে তীরে পৌঁছায় সেখানে একটি করে লিঙ্গ প্রতিষ্ঠা করেন—আর তাদের প্রথমটি এখানে স্থির হয়। আরেকটি বিবরণ বলে, ইন্দ্র এখানে স্নান করে ও পূজা করে তাঁর পাপ থেকে মুক্ত হয়েছিলেন, যা স্থানটিকে এর নাম দেয়।",
+    "festivals": "মহান উৎসবটি পড়ে তামিল চিত্তিরৈ মাসে, যখন অগস্ত্যকে দেওয়া দিব্য বিবাহের দর্শন মাসের শুরুতে উদযাপিত হয় এবং পরবর্তী দিনগুলিতে প্রভুকে শোভাযাত্রায় নেওয়া হয়। তৈপূসম নদীতে স্নান করতে জনতাকে নিয়ে আসে, এবং মহাশিবরাত্রি ও মাসিক প্রদোষম ভক্তিভরে রক্ষিত হয়; অমাবস্যার দিনগুলি, সর্বোপরি আদি অমাবাসৈ, পরিবারগুলিকে ঘাটে টেনে আনে। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "পাপনাসম এমন এক স্থান যেখানে নদী তীর্থের মতোই পূজার অংশ: তীর্থযাত্রীরা ঘাটে স্নান করেন, অগভীর জলে ভিড় করা মাছেদের খাওয়ান, এবং ভেজা চুলে ও পেছনে জলের শব্দ নিয়ে মন্দিরে ওঠেন। এটি নব কৈলাসম পরিক্রমার স্বাভাবিক সূচনাস্থল, যা তাম্রপর্ণীর ভাটির দিকে আরও আটটি গ্রামের মধ্য দিয়ে সমুদ্র পর্যন্ত অনুসরণ করে, এবং অগস্ত্যর জলপ্রপাত ও পাপনাসম বাঁধের কাছে অবস্থিত।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Chithirai festival days, Thaipoosam and new-moon days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance. Take care on the river steps, which can be slippery.",
-    "gettingThere": "Papanasam lies in Tirunelveli district at the foot of the Western Ghats, about 50–60 km west of Tirunelveli by road via Cheranmahadevi and Ambasamudram, and about 10 km beyond Ambasamudram. Ambasamudram is the nearest railway station on the Tirunelveli–Tenkasi line; Thoothukudi and Thiruvananthapuram are the nearest airports."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন-পর্বসহ খোলা থাকে এবং মধ্যাহ্নে বন্ধ থাকে; চিত্তিরৈ উৎসবের দিন, তৈপূসম ও অমাবস্যার দিনগুলি সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। বহু দক্ষিণী তীর্থের মতোই পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সামনে ঊর্ধ্বাঙ্গের বস্ত্র খুলে রাখতে বলা হয়; প্রদর্শিত নিয়ম মেনে চলুন।",
+    "photography": "গর্ভগৃহের ভেতরে ও চারপাশে ছবি তোলা সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন। নদীর সিঁড়িতে সতর্ক থাকুন, যা পিচ্ছিল হতে পারে।",
+    "gettingThere": "পাপনাসম পশ্চিমঘাটের পাদদেশে তিরুনেলবেলি জেলায় অবস্থিত, চেরনমহাদেবী ও অম্বাসমুদ্রম হয়ে সড়কপথে তিরুনেলবেলির পশ্চিমে প্রায় ৫০–৬০ কিমি দূরে, এবং অম্বাসমুদ্রম থেকে প্রায় ১০ কিমি এগিয়ে। অম্বাসমুদ্রম তিরুনেলবেলি–তেনকাসি লাইনের নিকটতম রেলস্টেশন; থুথুকুড়ি ও তিরুবনন্তপুরম নিকটতম বিমানবন্দর।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/papanasanathar-papanasam.mp3",
+    "durationSec": 229
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
@@ -36,5 +47,11 @@
       "webp": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.webp"
     },
     "og": "https://media.dsquaregee.com/og/papanasanathar-papanasam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/papanasanathar-papanasam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
+    "durationSec": 165,
+    "credit": "Sukumaran sundar / Wikimedia Commons (CC BY-SA 3.0) · MaRISELVAM (talk) / Wikimedia Commons (CC BY 3.0) · Muthuraman99 / Wikimedia Commons (CC BY 3.0)"
   }
 }

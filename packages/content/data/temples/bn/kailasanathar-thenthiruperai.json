@@ -1,29 +1,36 @@
 {
   "id": "kailasanathar-thenthiruperai",
   "locale": "bn",
+  "name": "কৈলাসনাথর মন্দির, তেন্তিরুপ্পেরৈ",
   "nativeName": "கைலாசநாதர் கோயில், தென்திருப்பேரை",
+  "deity": "শিব কৈলাসনাথর রূপে, দেবী অঝগিয় পোন্নাম্মৈ-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thenthiruperai",
-    "state": "Tamil Nadu",
+    "city": "তেন্তিরুপ্পেরৈ",
+    "state": "তামিলনাড়ু",
     "lat": 8.606,
     "lng": 77.988
   },
+  "period": "নব কৈলাসমের সপ্তমটি, বুধের মন্দির; ত্রয়োদশ শতকের পাণ্ড্য শিলালিপি",
   "century": 13,
+  "dynasty": "পাণ্ড্য",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "নদী শহর তেন্তিরুপ্পেরৈতে, শিব কৈলাসনাথর ও দেবী অঝগিয় পোন্নাম্মৈ নব কৈলাসমের সপ্তমটি—বুধন, বুধ গ্রহের মন্দির, বাক্য ও বিদ্যার প্রভু রক্ষা করেন।",
   "sections": {
-    "history": "Thenthiruperai sits on the south bank of the Tamiraparani in Thoothukudi district, on the road from Tirunelveli to Tiruchendur. Vaishnava pilgrims know it for the Makara Nedunkuzhaikathar temple, one of the Nava Tirupati; its Shiva temple is the seventh of the Nava Kailasam and the shrine of Budhan, the planet Mercury. When the temple was first raised is not known, but inscriptions on its walls from the reign of the Pandya king Maravarman Sundara Pandya name the settlement Sundarapandya Chaturvedimangalam — a village granted to Vedic scholars — showing that the shrine was a living centre of worship by the thirteenth century.",
-    "architecture": "A compact Dravidian stone temple, it gathers the essentials of a southern Shiva shrine around a single axis: the sanctum of Kailasanathar with Nandi before it, and a separate shrine for the Goddess Azhagiya Ponnammai, whose name means \"the beautiful golden mother\". The Pandya inscriptions cut into its stones are themselves part of its fabric, the earliest written witness to the place's long life of worship.",
-    "legends": "In the Nava Kailasam story, the seventh of the lotuses set afloat on the Tamiraparani by Romasa, the disciple of Agastya, drifted to this bank, and a linga was consecrated where it stopped. Tradition holds that Budhan himself, and Varuna, the lord of the waters, worshipped Shiva here, and the place is also called Varuna Kshetram. Devotees say that worship at this shrine carries the same merit as worship at Thiruvenkadu, the great Budhan temple of the Kaveri delta. The town's name means the \"southern\" Tirupperai, perai being read as an old word for a fort.",
-    "festivals": "As the shrine of Budhan, the temple sees its devotees above all on Wednesdays, the day of Mercury, when students and those seeking clarity of speech and mind come to worship. Maha Shivaratri and the monthly pradosham are kept through the year. Confirm dates locally.",
-    "experience": "Thenthiruperai is a place where the two great river circuits meet: a pilgrim can pray at the Nava Tirupati shrine of Vishnu and at the Nava Kailasam shrine of Shiva in the same short walk. Many come with a single prayer — to Budhan, for a clear mind and a ready tongue — and students are often among them."
+    "history": "তেন্তিরুপ্পেরৈ তুতিকোরিন জেলায় তাম্রপর্ণীর দক্ষিণ তীরে, তিরুনেলবেলি থেকে তিরুচেন্দুরের পথে অবস্থিত। বৈষ্ণব তীর্থযাত্রীরা একে মকর নেডুংকুঝৈকাথর মন্দিরের জন্য চেনেন, নব তিরুপতির একটি; এর শিব মন্দির নব কৈলাসমের সপ্তমটি ও বুধন, বুধ গ্রহের মন্দির। মন্দিরটি কখন প্রথম নির্মিত হয়েছিল তা জানা নেই, কিন্তু এর প্রাচীরে পাণ্ড্য রাজা মারবর্মন সুন্দর পাণ্ড্যের রাজত্বকালের শিলালিপি বসতিটিকে সুন্দরপাণ্ড্য চতুর্বেদিমঙ্গলম—বৈদিক পণ্ডিতদের দান করা এক গ্রাম—নামে অভিহিত করে, যা দেখায় যে মন্দিরটি ত্রয়োদশ শতকে উপাসনার এক জীবন্ত কেন্দ্র ছিল।",
+    "architecture": "এক সুসংহত দ্রাবিড় পাথরের মন্দির, এটি এক দক্ষিণী শিব মন্দিরের অপরিহার্য উপাদানগুলি একটিমাত্র অক্ষের চারপাশে জড়ো করে: কৈলাসনাথরের গর্ভগৃহ তার সামনে নন্দী সহ, এবং দেবী অঝগিয় পোন্নাম্মৈ-র জন্য এক পৃথক মন্দির, যার নামের অর্থ \"সুন্দর স্বর্ণময়ী মাতা\"। এর পাথরে কাটা পাণ্ড্য শিলালিপিগুলি নিজেরাই এর অংশ, স্থানটির উপাসনার দীর্ঘ জীবনের প্রাচীনতম লিখিত সাক্ষী।",
+    "legends": "নব কৈলাসম কাহিনীতে, অগস্ত্যের শিষ্য রোমশ কর্তৃক তাম্রপর্ণীতে ভাসানো সপ্তম পদ্মটি এই তীরে ভেসে এসেছিল, এবং যেখানে এটি থেমেছিল সেখানে এক লিঙ্গ প্রতিষ্ঠিত হয়েছিল। ঐতিহ্য বলে যে বুধন স্বয়ং, এবং জলের প্রভু বরুণ, এখানে শিবের পূজা করেছিলেন, এবং স্থানটিকে বরুণ ক্ষেত্রমও বলা হয়। ভক্তরা বলেন যে এই মন্দিরে উপাসনা কাবেরী বদ্বীপের মহান বুধন মন্দির তিরুবেঙ্কাডুতে উপাসনার সমান পুণ্য বহন করে। শহরের নামের অর্থ \"দক্ষিণের\" তিরুপ্পেরৈ, পেরৈ দুর্গের এক পুরনো শব্দ হিসেবে পড়া হয়।",
+    "festivals": "বুধনের মন্দির হিসেবে, মন্দিরটি সর্বোপরি বুধবার, বুধের দিনে ভক্ত দেখে, যখন ছাত্ররা ও যারা বাক্য ও মনের স্বচ্ছতা চান তারা উপাসনা করতে আসেন। মহা শিবরাত্রি ও মাসিক প্রদোষম সারা বছর ধরে পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "তেন্তিরুপ্পেরৈ এক স্থান যেখানে দুই মহান নদী চক্র মিলিত হয়: এক তীর্থযাত্রী একই অল্প হাঁটার মধ্যে বিষ্ণুর নব তিরুপতি মন্দিরে ও শিবের নব কৈলাসম মন্দিরে প্রার্থনা করতে পারেন। অনেকে একটিমাত্র প্রার্থনা নিয়ে আসেন—বুধনের কাছে, এক স্বচ্ছ মন ও প্রস্তুত বাক্যের জন্য—এবং ছাত্ররা প্রায়ই তাদের মধ্যে থাকে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Wednesdays are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thenthiruperai lies in Thoothukudi district on the Tirunelveli–Tiruchendur road, about 38 km from Tirunelveli; buses on that route stop in the town. The nearest railway station is Alwarthirunagari on the Tirunelveli–Tiruchendur line, and the nearest airport is Thoothukudi. The Kailasanathar temple is separate from the Makara Nedunkuzhaikathar Vishnu temple in the same town."
+    "timings": "সকাল ও সন্ধ্যার দর্শন সেশন ও দুপুরে বন্ধ রেখে প্রতিদিন খোলা; বুধবার সবচেয়ে ব্যস্ত। পরিদর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খোলা। দক্ষিণের বহু মন্দিরের মতো পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সামনে ঊর্ধ্বাঙ্গের বস্ত্র খুলতে বলা হয়; প্রদর্শিত নিয়ম অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে ফটোগ্রাফি সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "তেন্তিরুপ্পেরৈ তুতিকোরিন জেলায় তিরুনেলবেলি–তিরুচেন্দুর সড়কে, তিরুনেলবেলি থেকে প্রায় ৩৮ কিমি দূরে; সেই পথের বাস শহরে থামে। নিকটতম রেলস্টেশন তিরুনেলবেলি–তিরুচেন্দুর লাইনে অলওয়ারতিরুনগরী, এবং নিকটতম বিমানবন্দর তুতিকোরিন। কৈলাসনাথর মন্দিরটি একই শহরের মকর নেডুংকুঝৈকাথর বিষ্ণু মন্দির থেকে পৃথক।"
   }
 }

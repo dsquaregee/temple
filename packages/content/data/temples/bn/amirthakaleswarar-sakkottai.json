@@ -1,29 +1,36 @@
 {
   "id": "amirthakaleswarar-sakkottai",
   "locale": "bn",
+  "name": "অমৃতকলসনাথর মন্দির, সাক্কোট্টাই",
   "nativeName": "சாக்கோட்டை அமிர்தகலசநாதர் கோயில்",
+  "deity": "শিব অমৃতকলসনাথর রূপে (অমৃতকটেশ্বর), দেবী অমৃতবল্লীর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, সুন্দরর কর্তৃক স্তোত্রগীত",
   "location": {
-    "city": "Sakkottai, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "সাক্কোট্টাই, কুম্বকোণমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9383,
     "lng": 79.4206
   },
+  "period": "তেবারম যুগ, চোল কাঠামো ও নায়ক সংযোজনসহ",
   "century": 9,
+  "dynasty": "চোল, পরবর্তীকালে তাঞ্জাবুর নায়ক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণমের কাছে সাক্কোট্টাই শিবকে অমৃতকলসনাথর — অমৃত-কলসের প্রভু — রূপে, দেবী অমৃতবল্লীর সঙ্গে সম্মান করে, একটি পাডল পেট্র স্থলম যেখানে সন্ত সুন্দরর দশটি শ্লোক গেয়েছিলেন। ঐতিহ্য বলে যে সৃষ্টির সারবস্তু এখানে একটি কলসে (কলয়ম) পৃথিবীতে এসেছিল, যা পুরনো গ্রামকে কলয়নল্লূর নাম দিয়েছিল; পরবর্তী নাম সাক্কোট্টাইয়ের উৎস সেই সময়ে যখন বৌদ্ধরা স্থানটি দখল করেছিলেন বলে কথিত। এটি তেষট্টি শৈব সন্তের একজন সাক্য নায়নারের সঙ্গেও যুক্ত।",
   "sections": {
-    "history": "Sakkottai is an old Shaiva village about four and a half kilometres from Kumbakonam, on the Kumbakonam–Needamangalam road, revered in the Tevaram, where the saint Sundarar sang ten verses on the lord. The present stone temple was built in the Chola period, around the ninth century, with later additions by the Thanjavur Nayaks. The village's layered names — Kalayanallur from a pot of nectar, Sakkottai from a Buddhist-era past — carry its long history in their syllables.",
-    "architecture": "The temple follows the Dravidian plan, with a gopuram, prakara and the sanctum of Amirthakalasanathar, the lingam of the pot of nectar; the goddess Amirthavalli has her own shrine. Chola stonework and Nayak-period additions sit together in a compact delta temple whose scale suits its setting among the many shrines of the Kumbakonam country.",
-    "legends": "The sthala-purana tells that the amrita, the essence of creation, descended to earth here in a kalayam, a pot, giving the lord the name Amirthakalasanathar and the old village the name Kalayanallur. The later name Sakkottai is explained from Sakkiyar-kottai, a memory, mentioned in the Tevaram, of a time when the site was held by Buddhists before it returned to Shaiva worship. The temple is also tied to Sakya Nayanar, a saint who, before his conversion to Shaivism, is said to have worshipped the lord by casting a stone each day.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri and Masi Magam are its principal festivals, with Margazhi Tiruvadhirai also observed. The association with the nectar-pot gives abhishekam a special meaning here, and the proximity to Kumbakonam draws pilgrims on the wider delta circuit.",
-    "experience": "Sakkottai offers the pilgrim a quiet temple with a richly layered past — a nectar-pot legend, a Buddhist-era name, and a Nayanar's story of daily devotion. The darshan of Amirthakalasanathar, close to the great temple town of Kumbakonam, rewards those who seek out the smaller Paadal Petra shrines around it."
+    "history": "সাক্কোট্টাই কুম্বকোণম থেকে প্রায় সাড়ে চার কিলোমিটার দূরে, কুম্বকোণম–নীডামঙ্গলম সড়কে একটি পুরনো শৈব গ্রাম, তেবারমে শ্রদ্ধিত, যেখানে সন্ত সুন্দরর প্রভুর উপর দশটি শ্লোক গেয়েছিলেন। বর্তমান পাথুরে মন্দিরটি চোল যুগে, প্রায় নবম শতাব্দীতে নির্মিত হয়েছিল, পরবর্তীকালে তাঞ্জাবুর নায়কদের সংযোজনসহ। গ্রামের স্তরবিন্যস্ত নামগুলি — অমৃতের কলস থেকে কলয়নল্লূর, বৌদ্ধ-যুগীয় অতীত থেকে সাক্কোট্টাই — তাদের উচ্চারণে এর দীর্ঘ ইতিহাস বহন করে।",
+    "architecture": "মন্দিরটি দ্রাবিড় পরিকল্পনা অনুসরণ করে, একটি গোপুর, প্রাকার এবং অমৃতকলসনাথরের গর্ভগৃহসহ, অমৃতের কলসের লিঙ্গ; দেবী অমৃতবল্লীর নিজস্ব মন্দির আছে। চোল পাথরের কাজ ও নায়ক-যুগের সংযোজন একত্রে অবস্থান করে একটি সংহত বদ্বীপ মন্দিরে, যার মাত্রা কুম্বকোণম অঞ্চলের বহু মন্দিরের মধ্যে এর পরিবেশের সঙ্গে মানানসই।",
+    "legends": "স্থল-পুরাণ বলে যে অমৃত, সৃষ্টির সারবস্তু, এখানে একটি কলয়ম, একটি কলসে পৃথিবীতে নেমে এসেছিল, যা প্রভুকে অমৃতকলসনাথর নাম এবং পুরনো গ্রামকে কলয়নল্লূর নাম দিয়েছিল। পরবর্তী নাম সাক্কোট্টাই ব্যাখ্যা করা হয় সাক্কিয়ার-কোট্টাই থেকে, তেবারমে উল্লিখিত একটি স্মৃতি, যখন শৈব পূজায় ফিরে আসার আগে স্থানটি বৌদ্ধরা দখল করেছিল। মন্দিরটি সাক্য নায়নারের সঙ্গেও যুক্ত, একজন সন্ত যিনি শৈব ধর্মে দীক্ষার আগে প্রতিদিন একটি করে পাথর নিক্ষেপ করে প্রভুকে পূজা করতেন বলে কথিত।",
+    "festivals": "মন্দিরে শৈব উৎসব পঞ্জিকা পালিত হয় — মহাশিবরাত্রি ও মাসি মাঘম এর প্রধান উৎসব, মার্গড়ি তিরুবাদিরাইও পালিত হয়। অমৃত-কলসের সঙ্গে সংযোগ এখানে অভিষেকমকে একটি বিশেষ অর্থ দেয়, এবং কুম্বকোণমের নৈকট্য ব্যাপক বদ্বীপ পথের তীর্থযাত্রীদের আকর্ষণ করে।",
+    "experience": "সাক্কোট্টাই তীর্থযাত্রীকে একটি সমৃদ্ধভাবে স্তরবিন্যস্ত অতীতসহ একটি শান্ত মন্দির উপহার দেয় — একটি অমৃত-কলসের কিংবদন্তি, একটি বৌদ্ধ-যুগীয় নাম, এবং দৈনন্দিন ভক্তির একটি নায়নার কাহিনি। মহান মন্দির শহর কুম্বকোণমের কাছে অমৃতকলসনাথরের দর্শন তাদের পুরস্কৃত করে যারা এর চারপাশের ছোট পাডল পেট্র মন্দিরগুলি খুঁজে বের করেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sakkottai is about 4.5 km from Kumbakonam on the Kumbakonam–Needamangalam road, Thanjavur district; Kumbakonam is the nearest rail head and town, with local buses and autos to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা; বিশেষত উৎসবের দিনে সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত ছবি তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "সাক্কোট্টাই কুম্বকোণম–নীডামঙ্গলম সড়কে কুম্বকোণম থেকে প্রায় ৪.৫ কিমি দূরে, তাঞ্জাবুর জেলায়; কুম্বকোণম নিকটতম রেলস্টেশন ও শহর, গ্রাম পর্যন্ত স্থানীয় বাস ও অটো রয়েছে।"
   }
 }

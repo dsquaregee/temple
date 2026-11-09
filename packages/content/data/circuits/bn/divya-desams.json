@@ -1,7 +1,11 @@
 {
   "id": "divya-desams",
   "locale": "bn",
+  "name": "দিব্য দেশম",
   "nativeName": "திவ்ய தேசம்",
+  "theme": "আলবার কবি-সন্তদের দ্বারা স্তুত বিষ্ণুর ১০৮টি পবিত্র আবাস",
+  "region": "তামিলনাড়ু, কেরল, অন্ধ্রপ্রদেশ, উত্তর ভারত ও নেপাল",
+  "description": "দিব্য দেশম হল বিষ্ণুর সেই ১০৮টি পবিত্র আবাস, যা শ্রীবৈষ্ণব ঐতিহ্যের কবি-সন্ত বারোজন আলবারের তামিল স্তোত্রে—নালায়ির দিব্য প্রবন্ধমে সংকলিত—স্তুত হয়েছে। এগুলি দর্শন করা মানে আলবারদের নিজস্ব ভক্তির মানচিত্র অনুসরণ করা। ঐতিহ্য এদের অঞ্চল অনুসারে সাজায়: কাবেরীর ধারে চোল দেশে চল্লিশটি, পাণ্ড্য দেশে আঠারোটি, মালৈ নাড়ুতে (কেরল ও কন্যাকুমারী) তেরোটি, নাড়ু নাড়ুতে দুটি, কাঞ্চিপুরমের চারপাশে তোণ্ডৈ নাড়ুতে বাইশটি, এবং উত্তরে এগারোটি—তিরুমালা ও অহোবিলম থেকে বদ্রীনাথ, দ্বারকা ও নেপালের মুক্তিনাথ পর্যন্ত। শেষ দুটি, ক্ষীরসাগর ও পরমপদম, বিষ্ণুর পরম আবাস, পার্থিব জগতের বাইরে অবস্থিত, ঐতিহ্য বলে যেখানে পৌঁছানো যায় কেবল আত্মার যাত্রার অন্তে। পার্থিব ১০৬টি তীর্থ এখানে অঞ্চল ধরে ধরে সংকলিত, প্রতিটি অঞ্চলের নিজস্ব মানচিত্র সহ; তোলৈবিল্লিমঙ্গলমে ইরট্টৈ তিরুপতির যমজ মন্দির দুটি একসঙ্গে একটি বলে গণ্য।",
   "stops": [
     "ranganathaswamy-srirangam",
     "azhagiya-manavalan-uraiyur",
@@ -114,7 +118,7 @@
   "groups": [
     {
       "id": "chola-nadu",
-      "name": "Chola Nadu",
+      "name": "চোল নাড়ু",
       "stops": [
         "ranganathaswamy-srirangam",
         "azhagiya-manavalan-uraiyur",
@@ -160,7 +164,7 @@
     },
     {
       "id": "pandya-nadu",
-      "name": "Pandya Nadu",
+      "name": "পাণ্ড্য নাড়ু",
       "stops": [
         "kallazhagar-alagarkoil",
         "kalamegha-thirumogur",
@@ -185,7 +189,7 @@
     },
     {
       "id": "malai-nadu",
-      "name": "Malai Nadu",
+      "name": "মালৈ নাড়ু",
       "stops": [
         "padmanabhaswamy-thiruvananthapuram",
         "adikesava-thiruvattar",
@@ -204,7 +208,7 @@
     },
     {
       "id": "nadu-nadu",
-      "name": "Nadu Nadu",
+      "name": "নাড়ু নাড়ু",
       "stops": [
         "devanatha-thiruvahindrapuram",
         "trivikrama-thirukkovilur"
@@ -212,7 +216,7 @@
     },
     {
       "id": "thondai-nadu",
-      "name": "Thondai Nadu",
+      "name": "তোণ্ডৈ নাড়ু",
       "stops": [
         "varadaraja-perumal-kanchipuram",
         "ashtabhujakara-kanchipuram",
@@ -240,7 +244,7 @@
     },
     {
       "id": "vada-nadu",
-      "name": "Vada Nadu",
+      "name": "বড নাড়ু",
       "stops": [
         "venkateswara-tirumala",
         "narasimha-ahobilam",

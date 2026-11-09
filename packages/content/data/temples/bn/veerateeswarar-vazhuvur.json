@@ -1,30 +1,37 @@
 {
   "id": "veerateeswarar-vazhuvur",
   "locale": "bn",
+  "name": "বীরটেশ্বরর মন্দির, বড়ুবুর",
   "nativeName": "வழுவூர் வீரட்டேஸ்வரர் கோயில்",
+  "deity": "শিব বীরটেশ্বরর (কৃত্তিবাসর) রূপে, দেবী বাল গুজাম্বিকা (ইলংকিলি নায়কী) সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Vazhuvur",
-    "state": "Tamil Nadu",
+    "city": "বড়ুবুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.045,
     "lng": 79.6378
   },
+  "period": "তেবারমে উল্লিখিত চোল দেশের মন্দির (৭ম শতাব্দী); গজসংহার মূর্তির প্রসিদ্ধ চোল কাঁসার মূর্তি; অষ্ট বীরট্টানমের অন্যতম",
   "century": 7,
+  "dynasty": "চোল, থাঞ্জাভুর নায়ক সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam"
   ],
+  "summary": "ময়িলাড়ুতুরৈয়ের নিকটবর্তী বড়ুবুরে শিব তাঁর বিরুদ্ধে প্রেরিত হাতিটিকে ছিন্নভিন্ন করে তার চামড়ায় নিজেকে আবৃত করেন—গজসংহারের বীরট্টানম, সেই উগ্র ও বিস্ময়কর রূপের এক প্রসিদ্ধ চোল কাঁসার মূর্তির আবাস।",
   "sections": {
-    "history": "Vazhuvur is a village about 9 km south of Mayiladuthurai, known in older tradition as Darukavanam, the forest of the sages. Its temple to Shiva as Veerateeswarar is one of the eight Ashta Veerattanams, the one that remembers Gajasamhara, the slaying of the elephant. The village is named in the Tevaram, and the present masonry temple is assigned to the Chola period, with later expansion under the Thanjavur Nayaks. Its fame rests above all on its bronze of Gajasamhara Murthy, generally dated to the reign of Rajaraja I and counted among the masterpieces of Chola casting; here, unusually, that bronze is itself the centre of worship. A separate Veerabhadra temple stands elsewhere in the village.",
-    "architecture": "The temple follows the Dravidian plan of the delta, its gateway and courtyards leading to the sanctum of Veerateeswarar, with the goddess in a shrine of her own. The heart of the visit, however, is the Gajasamhara Murthy: Shiva dancing upon the elephant's head within its flayed hide, which he holds outspread behind him like an arch, his many arms bearing weapons. Even by the light of a shrine lamp, the bronze conveys terror and grace together.",
-    "legends": "The sages of the Darukavanam forest trusted only in their rites and austerities, forgetting the Lord those rites were meant for. Shiva came among them as Bhikshatana, the beautiful mendicant, with Vishnu as Mohini, and their pride was shaken. In anger the sages raised forces against him from their sacrificial fire — a tiger, a serpent and at last a raging elephant. Shiva met the elephant, tore it apart and wrapped himself in its hide, and so he is called Krittivasar, the Lord clothed in the skin. Vazhuvur honours that victory over ritual without devotion.",
-    "festivals": "Maha Shivaratri, the fortnightly pradosham, Arudra Darshan in Margazhi and Karthigai Deepam are kept through the Shaiva year, and the annual festival brings out the processional images; on special days the Gajasamhara bronze receives abhishekam and elaborate decoration. Confirm dates locally.",
-    "experience": "Vazhuvur draws pilgrims and lovers of art alike. Devotees come to stand before the Lord who humbled the proud sages; students of Chola bronze come for the Gajasamhara Murthy, which many judge among the finest metal images of South India. Korukkai, the Veerattanam of Kama, lies a short drive to the north, and Mayiladuthurai's other shrines are close at hand."
+    "history": "বড়ুবুর ময়িলাড়ুতুরৈয়ের প্রায় ৯ কিমি দক্ষিণে অবস্থিত একটি গ্রাম, পুরাতন পরম্পরায় দারুকবনম, ঋষিদের অরণ্য, নামে পরিচিত। শিব বীরটেশ্বররের এই মন্দিরটি আটটি অষ্ট বীরট্টানমের অন্যতম, যেটি গজসংহার, হাতি বধ, স্মরণ করে। গ্রামটি তেবারমে উল্লিখিত, এবং বর্তমান প্রস্তরনির্মিত মন্দিরটি চোল যুগের বলে ধরা হয়, থাঞ্জাভুর নায়কদের অধীনে পরবর্তী সম্প্রসারণসহ। এর খ্যাতি সর্বোপরি নির্ভর করে এর গজসংহার মূর্তির কাঁসার মূর্তির ওপর, যা সাধারণত প্রথম রাজরাজের রাজত্বকালের বলে নির্ধারিত এবং চোল ঢালাইয়ের অন্যতম শ্রেষ্ঠকীর্তি রূপে গণ্য; এখানে, অস্বাভাবিকভাবে, সেই কাঁসার মূর্তিই পূজার কেন্দ্র। একটি পৃথক বীরভদ্র মন্দির গ্রামের অন্যত্র অবস্থিত।",
+    "architecture": "মন্দিরটি ব-দ্বীপের দ্রাবিড় পরিকল্পনা অনুসরণ করে, এর প্রবেশদ্বার ও প্রাঙ্গণ বীরটেশ্বররের গর্ভগৃহের দিকে নিয়ে যায়, আর দেবী তাঁর নিজস্ব মন্দিরে। দর্শনের হৃদয়, তবে, গজসংহার মূর্তি: শিব হাতির চামড়ার ভিতরে তার মাথার ওপর নৃত্যরত, যা তিনি তাঁর পেছনে একটি তোরণের মতো বিস্তৃত করে ধরেন, তাঁর বহু বাহু অস্ত্র ধারণ করে। মন্দিরপ্রদীপের আলোতেও কাঁসার মূর্তিটি ভীতি ও করুণা একসঙ্গে প্রকাশ করে।",
+    "legends": "দারুকবনম অরণ্যের ঋষিরা কেবল তাঁদের আচার ও তপস্যায় বিশ্বাস করতেন, সেই প্রভুকে ভুলে গিয়ে যাঁর উদ্দেশে সেই আচারগুলি ছিল। শিব তাঁদের মধ্যে ভিক্ষাটন রূপে, সুন্দর ভিক্ষুক রূপে, বিষ্ণুকে মোহিনী রূপে নিয়ে আসেন, এবং তাঁদের অহংকার বিচলিত হয়। ক্রোধে ঋষিরা তাঁদের যজ্ঞাগ্নি থেকে তাঁর বিরুদ্ধে শক্তি উত্থিত করেন—একটি বাঘ, একটি সর্প এবং অবশেষে একটি ক্রুদ্ধ হাতি। শিব হাতিটির মুখোমুখি হন, তাকে ছিন্নভিন্ন করেন এবং তার চামড়ায় নিজেকে আবৃত করেন, এবং তাই তাঁকে কৃত্তিবাসর, চর্মে আবৃত প্রভু, বলা হয়। বড়ুবুর ভক্তিহীন আচারের ওপর সেই বিজয়কে সম্মান করে।",
+    "festivals": "মহাশিবরাত্রি, পাক্ষিক প্রদোষম, মার্গড়িতে আরুদ্র দর্শন ও কার্তিগৈ দীপম সারা শৈব বছর জুড়ে পালিত হয়, এবং বার্ষিক উৎসব শোভাযাত্রার মূর্তিগুলিকে বের করে আনে; বিশেষ দিনে গজসংহার কাঁসার মূর্তিটি অভিষেক ও বিস্তৃত অলংকরণ পায়। তারিখগুলি স্থানীয়ভাবে যাচাই করুন।",
+    "experience": "বড়ুবুর তীর্থযাত্রী ও শিল্পপ্রেমী উভয়কেই আকর্ষণ করে। ভক্তরা সেই প্রভুর সম্মুখে দাঁড়াতে আসেন যিনি অহংকারী ঋষিদের নম্র করেছিলেন; চোল কাঁসার মূর্তির ছাত্ররা গজসংহার মূর্তির জন্য আসেন, যা অনেকে দক্ষিণ ভারতের সর্বশ্রেষ্ঠ ধাতব মূর্তিগুলির অন্যতম বলে মনে করেন। কামের বীরট্টানম কোরুক্কৈ উত্তরে অল্প পথ দূরে, এবং ময়িলাড়ুতুরৈয়ের অন্যান্য মন্দির কাছে।"
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure, as at most village temples of the delta. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Vazhuvur lies about 9 km south of Mayiladuthurai and is reached by road, with local buses and taxis from the town. Mayiladuthurai is the nearest railway junction; Tiruchirappalli is the nearest large airport."
+    "timings": "ব-দ্বীপের বেশিরভাগ গ্রামীণ মন্দিরের মতো মধ্যাহ্নে বন্ধ রেখে প্রতিদিন সকাল ও সন্ধ্যার পর্বে খোলা থাকে। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে বাইরে পাদুকা রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে ফটোগ্রাফি অনুমোদিত নয়; বাইরের করিডোরে ছবি তোলার আগে, বিশেষত আচার ও উৎসবের কাঁসার মূর্তির, মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "বড়ুবুর ময়িলাড়ুতুরৈয়ের প্রায় ৯ কিমি দক্ষিণে অবস্থিত এবং শহর থেকে স্থানীয় বাস ও ট্যাক্সিসহ সড়কপথে পৌঁছানো যায়। ময়িলাড়ুতুরৈ নিকটতম রেল সংযোগস্থল; তিরুচিরাপল্লি নিকটতম বড় বিমানবন্দর।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/veerateeswarar-vazhuvur.jpg",

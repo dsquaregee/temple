@@ -1,31 +1,38 @@
 {
   "id": "kanjanur-agneeswarar",
   "locale": "bn",
+  "name": "কাঞ্জনূর অগ্নীশ্বর মন্দির",
   "nativeName": "காஞ்சனூர் அக்னீஸ்வரர் கோயில்",
+  "deity": "শিব অগ্নীশ্বর (অগ্নির প্রভু) রূপে, দেবী কর্পগম্বলের (করুন্দর কুজলী) সঙ্গে; শুক্রের (শুক্রগ্রহ) জন্য নবগ্রহ মন্দির",
+  "tradition": "শৈব; তেবারমে স্তুত পাডল পেট্র স্থলম; শুক্রের (শুক্রগ্রহ) জন্য নবগ্রহ স্থলম",
   "location": {
-    "city": "Kanjanur",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্জনূর",
+    "state": "তামিলনাড়ু",
     "lat": 11.018,
     "lng": 79.452
   },
+  "period": "চোল যুগ, প্রায় একাদশ শতক, পরবর্তী সংযোজনসহ",
   "century": 11,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "navagraha-temples",
     "paadal-petra-sthalams"
   ],
+  "summary": "নবগ্রহ মন্দিরগুলির মধ্যে শুক্র (শুক্রগ্রহ) স্থলম, যেখানে শিব অগ্নীশ্বর রূপে পূজিত। অনন্যভাবে, এখানে শুক্রের পৃথক কোনো মন্দির নেই, কারণ তাঁকে অধিষ্ঠাতা প্রভুর অগ্নির মধ্যে অধিষ্ঠিত বলে ধরা হয়।",
   "sections": {
-    "history": "Kanjanur stands among the ancient Shaiva shrines of the Kaveri delta, its stone temple built in the Chola period and honoured in the Tevaram hymns as a Paadal Petra Sthalam. Tradition links the place to the lineage of Haradatta Sivachariar and to Brahma's worship of Agni at this spot, and it is counted as the Navagraha temple for Shukra, the planet Venus. What sets Kanjanur apart is that Shukra is given no idol of his own: devotees hold that Venus resides within Agni, the fire, and so within Agneeswarar himself. To worship the presiding Lord is therefore to worship Shukra, a belief that has drawn pilgrims here for centuries as part of the wider Navagraha circuit near Suryanar Koil.",
-    "architecture": "The temple follows the Dravidian idiom of the Chola country, its sanctum housing the Shivalinga worshipped as Agneeswarar and a separate shrine for the Goddess Karpagambal, known also as Karundhar Kuzhali. In keeping with the temple's central belief, there is no distinct Shukra shrine; the presiding Lord is himself the object of Venus worship. Stone pillars, a modest gopuram and the ordered prakaram enclosures reflect the restrained, well-proportioned building tradition of the region, weathered by age yet carefully maintained. The temple lies close to Suryanar Koil, so that its form and setting echo the shared architectural family of the Navagraha shrines clustered in this part of the delta.",
-    "legends": "The temple's legends turn on fire. Brahma is said to have worshipped Agni at Kanjanur, and the presiding Lord takes his name, Agneeswarar, from that association with the sacred fire. The tradition of Haradatta Sivachariar, a devotee remembered in the local sthala accounts, is closely tied to the shrine. The most cherished belief concerns Shukra himself: rather than being enshrined as a separate deity, Venus is held to abide within Agni and thus within the presiding Lord, so that the fire that Brahma once honoured becomes the very seat of the planet. Pilgrims accept that worshipping Agneeswarar is a complete worship of Shukra.",
-    "festivals": "Friday, the day of Shukra, is the temple's most important day, when devotees gather for special worship of Venus. Pradosham is observed through the year with lamp offerings and abhishekam, and the annual Brahmotsavam is the great celebration of the temple calendar. Devotees seeking marital harmony, comfort, wealth and artistic well-being, or relief from Shukra dosha, make offerings of lamps and abhishekam to the presiding Lord, especially on Fridays, trusting that Venus is honoured through Agneeswarar.",
-    "experience": "Kanjanur is a quiet delta shrine rather than a crowded pilgrimage centre, and it is often visited as one stop on the Navagraha circuit, close to Suryanar Koil. Devotees come chiefly on Fridays to pray to Shukra for marriage, marital harmony, prosperity and artistic gifts, and to seek relief from Shukra dosha. The atmosphere is unhurried and devotional; lamps are lit, abhishekam is offered, and the belief that Venus dwells within the fire of the Lord lends the worship a distinctive quiet intensity. It is a short, meaningful halt for those making the round of the nine planet temples."
+    "history": "কাঞ্জনূর কাবেরী ব-দ্বীপের প্রাচীন শৈব মন্দিরগুলির মধ্যে অবস্থিত, এর পাথরের মন্দির চোল যুগে নির্মিত এবং তেবারম স্তোত্রে পাডল পেট্র স্থলম রূপে বন্দিত। ঐতিহ্য স্থানটিকে হরদত্ত শিবাচার্যের বংশ এবং এই স্থানে ব্রহ্মার অগ্নি পূজার সঙ্গে যুক্ত করে, এবং এটি শুক্র, শুক্রগ্রহের জন্য নবগ্রহ মন্দির হিসেবে গণ্য। কাঞ্জনূরকে স্বতন্ত্র করে যা তা হলো শুক্রের নিজস্ব কোনো মূর্তি নেই: ভক্তরা মনে করেন শুক্র অগ্নির মধ্যে, তথা অগ্নির মধ্যে, তথা স্বয়ং অগ্নীশ্বরের মধ্যে বাস করেন। তাই অধিষ্ঠাতা প্রভুর পূজা করাই শুক্রের পূজা, এক বিশ্বাস যা শতাব্দী ধরে সূর্যনার কোইলের নিকটবর্তী বৃহত্তর নবগ্রহ পরিক্রমার অংশ হিসেবে তীর্থযাত্রীদের এখানে টেনে এনেছে।",
+    "architecture": "মন্দিরটি চোল দেশের দ্রাবিড় রীতি অনুসরণ করে, গর্ভগৃহে অগ্নীশ্বর রূপে পূজিত শিবলিঙ্গ এবং দেবী কর্পগম্বলের জন্য পৃথক একটি মন্দির, যিনি করুন্দর কুজলী নামেও পরিচিত। মন্দিরের কেন্দ্রীয় বিশ্বাসের সঙ্গে সঙ্গতি রেখে, পৃথক কোনো শুক্র মন্দির নেই; অধিষ্ঠাতা প্রভু স্বয়ং শুক্র পূজার বিষয়। পাথরের স্তম্ভ, একটি সাদামাটা গোপুরম ও সুবিন্যস্ত প্রাকার প্রাঙ্গণ অঞ্চলের সংযত, সুসমানুপাত নির্মাণ ঐতিহ্যকে প্রতিফলিত করে, বয়সে জীর্ণ তবু যত্নসহ রক্ষিত। মন্দিরটি সূর্যনার কোইলের কাছে, তাই এর রূপ ও পরিবেশ এই ব-দ্বীপাংশে গুচ্ছবদ্ধ নবগ্রহ মন্দিরগুলির অভিন্ন স্থাপত্য পরিবারকে প্রতিধ্বনিত করে।",
+    "legends": "মন্দিরের কিংবদন্তিগুলি অগ্নিকে কেন্দ্র করে। বলা হয় ব্রহ্মা কাঞ্জনূরে অগ্নির পূজা করেছিলেন, এবং অধিষ্ঠাতা প্রভু সেই পবিত্র অগ্নির সঙ্গে সংযোগ থেকে তাঁর নাম অগ্নীশ্বর গ্রহণ করেন। হরদত্ত শিবাচার্যের ঐতিহ্য, স্থানীয় স্থল বিবরণে স্মরণীয় এক ভক্ত, মন্দিরের সঙ্গে ঘনিষ্ঠভাবে যুক্ত। সবচেয়ে লালিত বিশ্বাসটি স্বয়ং শুক্রকে ঘিরে: পৃথক দেবতা রূপে প্রতিষ্ঠিত না হয়ে, শুক্র অগ্নির মধ্যে তথা অধিষ্ঠাতা প্রভুর মধ্যে অধিষ্ঠিত বলে ধরা হয়, যাতে ব্রহ্মা একদা যে অগ্নির সম্মান করেছিলেন তাই গ্রহের আসনে পরিণত হয়। তীর্থযাত্রীরা মেনে নেন যে অগ্নীশ্বরের পূজা শুক্রের পূর্ণ পূজা।",
+    "festivals": "শুক্রবার, শুক্রের দিন, মন্দিরের সবচেয়ে গুরুত্বপূর্ণ দিন, যখন ভক্তরা শুক্রের বিশেষ পূজার জন্য জড়ো হন। সারা বছর প্রদীপ নিবেদন ও অভিষেকসহ প্রদোষম পালিত হয়, এবং বার্ষিক ব্রহ্মোৎসবম মন্দির পঞ্জিকার মহান উদযাপন। বৈবাহিক সম্প্রীতি, স্বাচ্ছন্দ্য, সম্পদ ও শিল্পকলার কল্যাণ, কিংবা শুক্র দোষ থেকে মুক্তি প্রার্থী ভক্তরা অধিষ্ঠাতা প্রভুকে প্রদীপ ও অভিষেক নিবেদন করেন, বিশেষত শুক্রবারে, এই বিশ্বাসে যে অগ্নীশ্বরের মাধ্যমে শুক্র সম্মানিত হন।",
+    "experience": "কাঞ্জনূর এক ভিড়ভরা তীর্থকেন্দ্রের চেয়ে বরং এক শান্ত ব-দ্বীপ মন্দির, এবং প্রায়শই সূর্যনার কোইলের কাছে নবগ্রহ পরিক্রমার এক ধাপ হিসেবে দর্শন করা হয়। ভক্তরা মূলত শুক্রবারে আসেন বিবাহ, বৈবাহিক সম্প্রীতি, সমৃদ্ধি ও শিল্পকলার প্রার্থনায় শুক্রের কাছে, এবং শুক্র দোষ থেকে মুক্তি চাইতে। পরিবেশ ধীর ও ভক্তিময়; প্রদীপ জ্বালানো হয়, অভিষেক নিবেদিত হয়, এবং এই বিশ্বাস যে শুক্র প্রভুর অগ্নির মধ্যে বাস করেন পূজাকে এক স্বতন্ত্র শান্ত গভীরতা দেয়। নয় গ্রহ মন্দির পরিক্রমাকারীদের জন্য এটি এক সংক্ষিপ্ত, অর্থবহ বিরতি।"
   },
   "visit": {
-    "timings": "Open roughly 7:00 am to 12:30 pm and 4:00 pm to 8:30 pm; timings may vary, so verify locally.",
-    "dressCode": "Modest, traditional dress is expected.",
-    "photography": "Photography inside the sanctum is generally not permitted.",
-    "gettingThere": "Kanjanur lies near Suryanar Koil and Aduthurai, about 18 km from Kumbakonam in the Mayiladuthurai/Thanjavur border area of Tamil Nadu. The nearest hub is Kumbakonam; rail access is via Aduthurai or Kumbakonam, and the nearest airport is Tiruchirappalli, about 95 km away."
+    "timings": "প্রায় সকাল ৭:০০ থেকে দুপুর ১২:৩০ এবং বিকেল ৪:০০ থেকে রাত ৮:৩০ পর্যন্ত খোলা; সময় পরিবর্তিত হতে পারে, তাই স্থানীয়ভাবে যাচাই করে নিন।",
+    "dressCode": "শালীন, ঐতিহ্যবাহী পোশাক প্রত্যাশিত।",
+    "photography": "গর্ভগৃহের ভেতরে ছবি তোলা সাধারণত অনুমোদিত নয়।",
+    "gettingThere": "কাঞ্জনূর সূর্যনার কোইল ও আডুতুরৈয়ের নিকট, তামিলনাড়ুর মায়িলাডুতুরৈ/তাঞ্জাভুর সীমান্ত অঞ্চলে কুম্বকোণম থেকে প্রায় ১৮ কিমি দূরে। নিকটতম কেন্দ্র কুম্বকোণম; রেল সংযোগ আডুতুরৈ বা কুম্বকোণম হয়ে, এবং নিকটতম বিমানবন্দর তিরুচিরাপল্লী, প্রায় ৯৫ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kanjanur-agneeswarar.jpg",

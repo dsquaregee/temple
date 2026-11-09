@@ -1,30 +1,37 @@
 {
   "id": "kodandarama-hampi",
   "locale": "bn",
+  "name": "কোদণ্ডরাম মন্দির, হম্পি",
   "nativeName": "ಕೋದಂಡರಾಮ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "রাম কোদণ্ডরাম, ধনুর্ধারী, রূপে সীতা ও লক্ষ্মণের সঙ্গে, একটি একক বিশাল শিলায় খোদিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "হম্পি",
+    "state": "কর্ণাটক",
     "lat": 15.336,
     "lng": 76.4684
   },
+  "period": "বিজয়নগর রাজধানীর একটি নদীতীরবর্তী ক্ষেত্র, সুগ্রীবের অভিষেকের স্থান রূপে শ্রদ্ধিত; এখনও পূজিত",
   "century": 16,
+  "dynasty": "বিজয়নগর",
+  "style": "শিলা-ভাস্কর্য ক্ষেত্র, বিজয়নগর স্তম্ভশোভিত মণ্ডপসহ",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "যেখানে তুঙ্গভদ্রা চক্রতীর্থে বাঁক নেয়, রাম, সীতা ও লক্ষ্মণ একটি বিশাল শিলায় খোদিত দণ্ডায়মান — এক ছোট, জীবন্ত নদীতীরবর্তী ক্ষেত্র যাকে হম্পি সেই স্থান রূপে স্মরণ করে যেখানে সুগ্রীব কিষ্কিন্ধার রাজারূপে অভিষিক্ত হন।",
   "sections": {
-    "history": "Hampi's devotion to Rama is older than its empire, for the boulder country along the Tungabhadra has long been identified with Kishkindha, the monkey kingdom of the Ramayana. The Kodandarama shrine gathers that memory at the river's edge. Its images were carved directly into a great granite boulder, and a modest temple of pillared halls was built against the rock in the Vijayanagara period, when the riverbank between the Virupaksha bazaar and the Vittala temple was lined with shrines, ghats and pavilions. When the city fell in 1565 most of those temples went silent, but this one did not: worship continues here today, making Kodandarama one of the few living shrines among the ruins of the World Heritage site.",
-    "architecture": "The sanctum is the rock itself. On the face of a huge boulder, Rama with his bow, Sita and Lakshmana are carved in deep relief, and the shrine has been built around them so that the boulder forms its back wall. Before it stands a simple pillared hall in the Vijayanagara manner, open to the river breeze. A small monkey figure among the carvings is locally taken to be Sugriva rather than Hanuman. Below, the temple steps lead down to Chakratirtha, the deep pool where the river turns north, and on the rocks nearby stands the Yantrodharaka Hanuman shrine.",
-    "legends": "Local tradition holds that this is where Rama, having slain Vali, saw Sugriva crowned king of Kishkindha, keeping his promise to the exiled monkey prince. Some devotees go further and say that Sugriva himself carved the images on the boulder in gratitude. The bathing pool below the temple, Chakratirtha, is counted the holiest spot on the Tungabhadra at Hampi, and pilgrims bathe here before climbing to the shrine. For those walking the Ramayana trail through Hampi, Kodandarama is the place where the story of Kishkindha reaches its moment of restoration.",
-    "festivals": "As a living Rama shrine, the temple keeps the Vaishnava calendar: Rama Navami, the birthday of Rama, is the principal festival, and Hanuman Jayanti is customarily marked as well. On such days pilgrims come along the river path to the shrine, which is decked with flowers and lamps. Confirm dates locally.",
-    "experience": "The approach is part of the blessing. Walk east from the end of Hampi Bazaar along the riverside path, the green Tungabhadra on one side and towering boulders on the other, until the small temple appears above the water. Bathe or simply sit at Chakratirtha, where round coracles sometimes cross the dark pool, then climb to stand before the carved figures. Early morning, when the priest lights the lamps against the stone, is the most moving hour."
+    "history": "হম্পির রামভক্তি তার সাম্রাজ্যের চেয়েও প্রাচীন, কারণ তুঙ্গভদ্রার ধারে এই শিলাময় দেশ দীর্ঘকাল ধরে রামায়ণের বানররাজ্য কিষ্কিন্ধার সঙ্গে চিহ্নিত। কোদণ্ডরাম ক্ষেত্র সেই স্মৃতিকে নদীর কিনারায় একত্র করে। এর মূর্তিগুলি একটি বিশাল গ্রানাইট শিলায় সরাসরি খোদিত, এবং বিজয়নগর যুগে পাথরের গায়ে স্তম্ভশোভিত মণ্ডপের একটি বিনম্র মন্দির নির্মিত হয়, যখন বিরূপাক্ষ বাজার ও বিট্ঠল মন্দিরের মধ্যবর্তী নদীতীর ক্ষেত্র, ঘাট ও মণ্ডপে সজ্জিত ছিল। ১৫৬৫ সালে নগরটি পতিত হলে সেই মন্দিরগুলির অধিকাংশ নীরব হয়ে যায়, কিন্তু এটি হয়নি: এখানে আজও পূজা চলে, যা কোদণ্ডরামকে বিশ্ব ঐতিহ্যক্ষেত্রের ধ্বংসাবশেষের মধ্যে কয়েকটি জীবন্ত ক্ষেত্রের একটি করে তোলে।",
+    "architecture": "গর্ভগৃহ হল শিলা নিজেই। এক বিশাল শিলার মুখে ধনুকসহ রাম, সীতা ও লক্ষ্মণ গভীর খোদাইয়ে উৎকীর্ণ, এবং মন্দিরটি তাঁদের ঘিরে নির্মিত যাতে শিলাটি এর পশ্চাৎপ্রাচীর গঠন করে। এর সম্মুখে বিজয়নগর রীতিতে একটি সরল স্তম্ভশোভিত মণ্ডপ দণ্ডায়মান, নদীর হাওয়ার প্রতি উন্মুক্ত। খোদাইয়ের মধ্যে একটি ছোট বানরমূর্তি স্থানীয়ভাবে হনুমান নয় বরং সুগ্রীব বলে ধরা হয়। নিচে মন্দিরের সিঁড়ি চক্রতীর্থে নেমে যায়, সেই গভীর জলাশয় যেখানে নদী উত্তরে ঘোরে, এবং কাছেই পাথরের উপর যন্ত্রোদ্ধারক হনুমান মন্দির দণ্ডায়মান।",
+    "legends": "স্থানীয় ঐতিহ্য মানে এখানেই রাম, বালী বধের পর, নির্বাসিত বানররাজপুত্রকে দেওয়া প্রতিশ্রুতি রক্ষা করে সুগ্রীবকে কিষ্কিন্ধার রাজারূপে অভিষিক্ত হতে দেখেছিলেন। কিছু ভক্ত আরও এগিয়ে বলেন যে সুগ্রীব নিজেই কৃতজ্ঞতায় শিলায় মূর্তিগুলি খোদাই করেছিলেন। মন্দিরের নিচের স্নানকুণ্ড, চক্রতীর্থ, হম্পিতে তুঙ্গভদ্রার পবিত্রতম স্থান বলে গণ্য, এবং তীর্থযাত্রীরা মন্দিরে ওঠার আগে এখানে স্নান করেন। যাঁরা হম্পিতে রামায়ণ পথে চলেন তাঁদের কাছে কোদণ্ডরাম সেই স্থান যেখানে কিষ্কিন্ধার কাহিনি তার পুনঃপ্রতিষ্ঠার মুহূর্তে পৌঁছায়।",
+    "festivals": "একটি জীবন্ত রামক্ষেত্র রূপে মন্দিরটি বৈষ্ণব পঞ্জিকা পালন করে: রামের জন্মদিন রামনবমী প্রধান উৎসব, এবং হনুমান জয়ন্তীও প্রথাগতভাবে পালিত হয়। এমন দিনে তীর্থযাত্রীরা নদীপথ ধরে ক্ষেত্রে আসেন, যা ফুল ও প্রদীপে সজ্জিত হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "যাত্রাপথ আশীর্বাদের অঙ্গ। হম্পি বাজারের শেষ থেকে পূর্ব দিকে নদীতীরের পথ ধরে হাঁটুন, একপাশে সবুজ তুঙ্গভদ্রা ও অন্যপাশে সুউচ্চ শিলা, যতক্ষণ না জলের ওপরে ছোট মন্দিরটি দেখা যায়। চক্রতীর্থে স্নান করুন বা কেবল বসুন, যেখানে গোলাকার কোরাকল কখনও কখনও অন্ধকার জলাশয় পার হয়, তারপর উঠে খোদিত মূর্তিগুলির সম্মুখে দাঁড়ান। ভোরবেলা, যখন পুরোহিত পাথরের বিপরীতে প্রদীপ জ্বালান, তখনই সর্বাধিক হৃদয়স্পর্শী মুহূর্ত।"
   },
   "visit": {
-    "timings": "A living temple, generally open from morning to evening with a midday break; confirm timings locally.",
-    "dressCode": "Modest dress is expected — shoulders and knees covered; footwear is removed before entering the shrine.",
-    "photography": "Photography of the riverside and exterior is generally fine; follow the priest's guidance about the sanctum.",
-    "gettingThere": "The temple is reached on foot along the riverside path from the eastern end of Hampi Bazaar, the same trail that continues to the Vittala temple. Hampi lies in Vijayanagara district, Karnataka; Hosapete (Hospet), about 13 km away, has the nearest railway station, and Bengaluru is roughly 340 km by road."
+    "timings": "একটি জীবন্ত মন্দির, সাধারণত সকাল থেকে সন্ধ্যা পর্যন্ত মধ্যাহ্ন বিরতিসহ খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; ক্ষেত্রে প্রবেশের আগে পাদুকা খুলে রাখতে হয়।",
+    "photography": "নদীতীর ও বহির্ভাগের আলোকচিত্র গ্রহণ সাধারণত সম্মত; গর্ভগৃহ সম্পর্কে পুরোহিতের পরামর্শ অনুসরণ করুন।",
+    "gettingThere": "মন্দিরটি হম্পি বাজারের পূর্বপ্রান্ত থেকে নদীতীরের পথ ধরে পায়ে হেঁটে পৌঁছানো যায়, সেই একই পথ যা বিট্ঠল মন্দির পর্যন্ত চলে। হম্পি কর্ণাটকের বিজয়নগর জেলায় অবস্থিত; প্রায় ১৩ কিমি দূরে হোসপেটে (হোস্পেট) নিকটতম রেলস্টেশন, এবং বেঙ্গালুরু সড়কপথে প্রায় ৩৪০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kodandarama-hampi.jpg",

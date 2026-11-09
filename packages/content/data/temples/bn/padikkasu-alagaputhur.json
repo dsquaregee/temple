@@ -1,29 +1,36 @@
 {
   "id": "padikkasu-alagaputhur",
   "locale": "bn",
+  "name": "পাড়িকাসু নাথর মন্দির, অরিসিলকরৈপুদুর (অলগাপুথুর)",
   "nativeName": "அரிசிற்கரைப்புத்தூர் படிகாசு நாதர் (ஸ்வர்ணபுரீஸ்வரர்) கோயில்",
+  "deity": "শিব পাড়িকাসু নাথর রূপে (স্বর্ণপুরীশ্বর, যিনি প্রতিদিন একটি স্বর্ণমুদ্রা দান করেছিলেন), দেবী সৌন্দর নায়কী (অলগম্মৈ) সহ",
+  "tradition": "শৈব — একটি পাড়ল পেট্র স্থলম",
   "location": {
-    "city": "Alagaputhur (Arisilkaraipudur), near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "অলগাপুথুর (অরিসিলকরৈপুদুর), কুম্বকোণমের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9303,
     "lng": 79.4295
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তোত্রে বন্দিত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণমের নিকটে অলগাপুথুর, যা অরিসিলকরৈপুদুর নামেও পরিচিত, শিবকে পাড়িকাসু নাথর — স্বর্ণপুরীশ্বর — রূপে এবং দেবী সৌন্দর নায়কীকে পূজা করে। সম্বন্দর, অপ্পর ও সুন্দরর কর্তৃক বন্দিত এই পাড়ল পেট্র স্থলম হল পুগড় তুণৈ নায়নারের জন্মস্থান, যাঁকে এক দুর্ভিক্ষের সময় প্রভু প্রতিদিন মন্দিরের সোপানে একটি করে স্বর্ণমুদ্রা দিতেন বলে কথিত আছে — সেই পাড়িকাসু থেকেই দেবতা তাঁর স্নেহমাখা নামটি পেয়েছেন।",
   "sections": {
-    "history": "Alagaputhur, also called Arisilkaraipudur for its situation on the bank of the Arisil river, lies about 6–7 km from Kumbakonam in Thanjavur district. It is a Paadal Petra Sthalam, revered in the Tevaram, with hymns by Tirugnana Sambandar, Appar and Sundarar. The village is cherished as the birthplace of Pugazh Thunai Nayanar, one of the sixty-three Nayanmars, whose story is woven into the temple's own name. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Padikasu Nathar — also Swarnapureeswarar, 'the lord of the golden city' — in the sanctum, with the goddess Soundara Nayaki, also Azhagammai, in her own shrine. A Nandi and the parivara devatas complete the plan; the sthala vriksham is the vilva, and the sacred tank is the Amirtha Pushkarini. The temple steps, where the gold coin appeared, are themselves part of its sanctity.",
-    "legends": "The great legend is that of Pugazh Thunai Nayanar, a poor and devout Shaiva of this village who performed the daily abhishekam of the lord without fail. When a terrible famine came and he grew weak with hunger, Shiva, unwilling to let his devotee's service lapse, placed a single gold coin — a padikasu — on the temple step each day, enough to sustain him and continue the worship. From this grace the lord is praised as Padikasu Nathar, and the name Swarnapureeswarar, lord of the golden city, keeps the memory of that golden mercy.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), the festival of Pugazh Thunai Nayanar, and the regular Pradosha and Karthikai observances. Devotees who honour the sixty-three Nayanmars and the Paadal Petra temples of the Kaveri include Alagaputhur among their pilgrimages.",
-    "experience": "At Alagaputhur the pilgrim comes to a shrine of pure tenderness, where the lord fed his starving devotee with a daily coin of gold. Before Padikasu Nathar and Soundara Nayaki, standing near the steps where the padikasu appeared, the visitor feels the nearness of a god who would not let devotion fail for want of bread — a small temple rich in one of Shaivism's most beloved stories of grace."
+    "history": "অলগাপুথুর, অরিসিল নদীর তীরে অবস্থিত হওয়ায় অরিসিলকরৈপুদুর নামেও পরিচিত, তাঞ্জাবুর জেলায় কুম্বকোণম থেকে প্রায় ৬–৭ কিমি দূরে অবস্থিত। এটি একটি পাড়ল পেট্র স্থলম, তেবারমে বন্দিত, যেখানে তিরুজ্ঞান সম্বন্দর, অপ্পর ও সুন্দররের স্তোত্র রয়েছে। গ্রামটি তেষট্টি নায়নমারের অন্যতম পুগড় তুণৈ নায়নারের জন্মস্থান হিসেবে শ্রদ্ধেয়, যাঁর কাহিনি মন্দিরের নামের সঙ্গে অঙ্গাঙ্গীভাবে জড়িত। পাথরের মন্দিরটি চোল যুগের ও পরবর্তীকালের।",
+    "architecture": "এই দ্রাবিড় বদ্বীপ-মন্দিরের গর্ভগৃহে পাড়িকাসু নাথর — স্বর্ণপুরীশ্বর, 'স্বর্ণনগরীর প্রভু' — অধিষ্ঠিত, এবং দেবী সৌন্দর নায়কী, যিনি অলগম্মৈ নামেও পরিচিত, তাঁর নিজস্ব মন্দিরে বিরাজমান। একটি নন্দী ও পরিবার দেবতারা পরিকল্পনা সম্পূর্ণ করে; স্থল বৃক্ষ হল বিল্ব, এবং পবিত্র পুষ্করিণী হল অমৃত পুষ্করিণী। যেখানে স্বর্ণমুদ্রা আবির্ভূত হয়েছিল, সেই মন্দিরের সোপানগুলিও এর পবিত্রতার অংশ।",
+    "legends": "মহান কিংবদন্তিটি পুগড় তুণৈ নায়নারের, যিনি এই গ্রামের এক দরিদ্র ও ভক্তিমান শৈব ছিলেন এবং প্রতিদিন অবিচলভাবে প্রভুর অভিষেক করতেন। যখন এক ভয়াবহ দুর্ভিক্ষ এল এবং তিনি ক্ষুধায় দুর্বল হয়ে পড়লেন, তখন শিব তাঁর ভক্তের সেবা যাতে ব্যাহত না হয় তার জন্য প্রতিদিন মন্দিরের সোপানে একটি করে স্বর্ণমুদ্রা — একটি পাড়িকাসু — রাখতেন, যা তাঁকে বাঁচিয়ে রাখত এবং পূজা অব্যাহত রাখত। এই কৃপা থেকেই প্রভু পাড়িকাসু নাথর রূপে প্রশংসিত, এবং স্বর্ণপুরীশ্বর, স্বর্ণনগরীর প্রভু, এই নামটি সেই স্বর্ণময় করুণার স্মৃতি ধরে রাখে।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহা শিবরাত্রি, পুগড় তুণৈ নায়নারের উৎসব, এবং নিয়মিত প্রদোষ ও কার্তিকৈ আচার পালিত হয়। যাঁরা তেষট্টি নায়নমার ও কাবেরীর পাড়ল পেট্র মন্দিরগুলিকে সম্মান করেন, তাঁরা তীর্থযাত্রায় অলগাপুথুরকে অন্তর্ভুক্ত করেন।",
+    "experience": "অলগাপুথুরে তীর্থযাত্রী আসেন বিশুদ্ধ স্নেহের এক মন্দিরে, যেখানে প্রভু তাঁর ক্ষুধার্ত ভক্তকে প্রতিদিন একটি স্বর্ণমুদ্রা দিয়ে খাওয়াতেন। পাড়িকাসু নাথর ও সৌন্দর নায়কীর সম্মুখে, যেখানে পাড়িকাসু আবির্ভূত হয়েছিল সেই সোপানের নিকটে দাঁড়িয়ে, দর্শনার্থী এমন এক দেবতার নৈকট্য অনুভব করেন যিনি অন্নের অভাবে ভক্তিকে ব্যর্থ হতে দেননি — শৈবধর্মের অন্যতম প্রিয় কৃপার কাহিনিতে সমৃদ্ধ একটি ছোট মন্দির।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Alagaputhur (Arisilkaraipudur) is about 6–7 km from Kumbakonam in Thanjavur district, on the bank of the Arisil river. Kumbakonam is the nearest major rail head, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; স্থানীয়ভাবে সময় নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকতে হবে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "সাধারণত বাইরের প্রাঙ্গণে ছবি তোলা অনুমোদিত, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "অলগাপুথুর (অরিসিলকরৈপুদুর) তাঞ্জাবুর জেলায় অরিসিল নদীর তীরে কুম্বকোণম থেকে প্রায় ৬–৭ কিমি দূরে অবস্থিত। কুম্বকোণম নিকটতম প্রধান রেলস্টেশন, সেখান থেকে গ্রামে স্থানীয় বাস ও ট্যাক্সি পাওয়া যায়।"
   }
 }

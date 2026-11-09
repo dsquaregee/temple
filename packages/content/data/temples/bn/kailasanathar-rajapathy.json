@@ -1,29 +1,36 @@
 {
   "id": "kailasanathar-rajapathy",
   "locale": "bn",
+  "name": "কৈলাসনাথর মন্দির, রাজপতি",
   "nativeName": "கைலாசநாதர் கோயில், ராஜபதி",
+  "deity": "শিব কৈলাসনাথর রূপে, দেবী সৌন্দর নায়কী-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Rajapathy",
-    "state": "Tamil Nadu",
+    "city": "রাজপতি",
+    "state": "তামিলনাড়ু",
     "lat": 8.605,
     "lng": 78.025
   },
+  "period": "নব কৈলাসমের অষ্টমটি, কেতুর মন্দির; নিম্ন তাম্রপর্ণীর এক গ্রাম মন্দির",
   "century": 13,
+  "dynasty": "পাণ্ড্য (ঐতিহ্য অনুসারে)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "কুরুম্বুরের কাছে রাজপতি গ্রামে, যেখানে তাম্রপর্ণী সমুদ্রের কাছে পৌঁছায়, শিব কৈলাসনাথর রূপে নব কৈলাসমের অষ্টমটি—কেতু, ছায়াগ্রহের মন্দির রক্ষা করেন।",
   "sections": {
-    "history": "Rajapathy is a small village in the Tiruchendur block of Thoothukudi district, on the lower course of the Tamiraparani, a few kilometres from Kurumbur on the road to Tiruchendur. Its Kailasanathar temple is the eighth of the Nava Kailasam and the shrine of Ketu, the southern node of the moon. Unlike some of its sister shrines upstream, the temple has no well-known inscriptions to fix its age, and it is remembered above all through the circuit to which it belongs. It remains a living village temple, cared for by its community and kept freshly painted, and its standing comes from its place in the river's chain of nine.",
-    "architecture": "The temple is a modest Dravidian shrine with its sanctum, a Nandi facing the lord, and a separate shrine for the Goddess Soundara Nayaki. Its most striking feature is in the sanctum itself: the linga is shown with four wheels, as though the lord rides in a chariot. A separate Navagraha shrine departs from the usual images of the nine planets — here every graha is represented by a Shiva linga, a reminder that Shiva is held to be the master of all the planets.",
-    "legends": "In the Nava Kailasam story, the eighth of the lotuses set afloat on the Tamiraparani by Romasa, the disciple of Agastya, came to rest at Rajapathy, and a linga was consecrated where it stopped. Tradition holds that Ketu himself worshipped Shiva here to be freed of his own afflictions, which is why the shrine is sought by those troubled by Ketu in their horoscopes, and why it is sometimes spoken of as a southern Kalahasti, after the great Rahu–Ketu shrine of Andhra. Besides the river, the temple counts the Palazhi theertham among its sacred waters.",
-    "festivals": "Special worship for relief from the effects of Ketu is customarily offered on Sundays and Tuesdays, and those passing through the seven-year period of Rahu also come to pray. Maha Shivaratri and the monthly pradosham are kept as at every Shiva temple. Confirm dates locally.",
-    "experience": "Rajapathy is the quietest of the downstream shrines, reached by village roads from Kurumbur. Pilgrims come with a particular purpose — a remedy for Ketu — and linger before the chariot-wheeled linga and the unusual Navagraha shrine of nine lingas before continuing to the last of the circuit, Senthapoomangalam, near the river mouth."
+    "history": "রাজপতি তুতিকোরিন জেলার তিরুচেন্দুর ব্লকের এক ছোট গ্রাম, তাম্রপর্ণীর নিম্ন প্রবাহে, তিরুচেন্দুরের পথে কুরুম্বুর থেকে কয়েক কিলোমিটার দূরে। এর কৈলাসনাথর মন্দির নব কৈলাসমের অষ্টমটি ও কেতু, চন্দ্রের দক্ষিণ পাতের মন্দির। উজানের কিছু সহোদর মন্দিরের বিপরীতে, মন্দিরটির বয়স নির্ধারণের কোনো সুপরিচিত শিলালিপি নেই, এবং এটি সর্বোপরি সেই চক্রের মাধ্যমে স্মরণ করা হয় যার সঙ্গে এটি সংযুক্ত। এটি এক জীবন্ত গ্রাম মন্দির থেকে যায়, এর সম্প্রদায় দ্বারা যত্নকৃত ও নতুন রঙে রাখা, এবং এর মর্যাদা আসে নদীর নয়টি মন্দিরের শৃঙ্খলে এর স্থান থেকে।",
+    "architecture": "মন্দিরটি এক বিনম্র দ্রাবিড় মন্দির, এর গর্ভগৃহ, প্রভুর দিকে মুখ করা একটি নন্দী, ও দেবী সৌন্দর নায়কীর জন্য এক পৃথক মন্দির সহ। এর সবচেয়ে চমকপ্রদ বৈশিষ্ট্য স্বয়ং গর্ভগৃহে: লিঙ্গটি চারটি চাকাসহ দেখানো হয়েছে, যেন প্রভু এক রথে চড়েন। এক পৃথক নবগ্রহ মন্দির নয় গ্রহের সাধারণ মূর্তি থেকে সরে যায়—এখানে প্রতিটি গ্রহকে এক শিবলিঙ্গ দ্বারা উপস্থাপন করা হয়, এক স্মারক যে শিবকে সকল গ্রহের অধীশ্বর বলে ধরা হয়।",
+    "legends": "নব কৈলাসম কাহিনীতে, অগস্ত্যের শিষ্য রোমশ কর্তৃক তাম্রপর্ণীতে ভাসানো অষ্টম পদ্মটি রাজপতিতে এসে থেমেছিল, এবং যেখানে এটি থেমেছিল সেখানে এক লিঙ্গ প্রতিষ্ঠিত হয়েছিল। ঐতিহ্য বলে যে কেতু স্বয়ং নিজের কষ্ট থেকে মুক্তি পেতে এখানে শিবের পূজা করেছিলেন, যে কারণে কোষ্ঠীতে কেতুর দ্বারা পীড়িতরা এই মন্দিরে আসেন, এবং যে কারণে একে কখনও কখনও দক্ষিণ কালহস্তি বলা হয়, অন্ধ্রের মহান রাহু–কেতু মন্দিরের নামে। নদী ছাড়াও, মন্দির এর পবিত্র জলের মধ্যে পালঝি তীর্থমকে গণ্য করে।",
+    "festivals": "কেতুর প্রভাব থেকে মুক্তির জন্য বিশেষ উপাসনা প্রথাগতভাবে রবিবার ও মঙ্গলবার অর্পিত হয়, এবং যারা রাহুর সাত বছরের সময়কালের মধ্য দিয়ে যাচ্ছেন তারাও প্রার্থনা করতে আসেন। মহা শিবরাত্রি ও মাসিক প্রদোষম প্রতিটি শিব মন্দিরের মতো পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "রাজপতি ভাটির মন্দিরগুলির মধ্যে সবচেয়ে শান্ত, কুরুম্বুর থেকে গ্রামের রাস্তা দিয়ে পৌঁছানো যায়। তীর্থযাত্রীরা এক বিশেষ উদ্দেশ্য নিয়ে আসেন—কেতুর প্রতিকার—এবং চক্রের শেষ মন্দির, নদীমুখের কাছে সেন্তপূমঙ্গলমে এগোনোর আগে রথচাকা-লিঙ্গ ও নয়টি লিঙ্গের অস্বাভাবিক নবগ্রহ মন্দিরের সামনে অবস্থান করেন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Sundays and Tuesdays draw the most devotees. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Rajapathy lies in Thoothukudi district near Kurumbur, about 45 km from Tirunelveli on the road to Tiruchendur and roughly 32 km from Thoothukudi. Kurumbur, on the Tirunelveli–Tiruchendur railway line, is the nearest station, with local minibuses to the village; Thoothukudi is the nearest airport."
+    "timings": "সকাল ও সন্ধ্যার দর্শন সেশন ও দুপুরে বন্ধ রেখে প্রতিদিন খোলা; রবিবার ও মঙ্গলবার সবচেয়ে বেশি ভক্ত টানে। পরিদর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খোলা। দক্ষিণের বহু মন্দিরের মতো পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সামনে ঊর্ধ্বাঙ্গের বস্ত্র খুলতে বলা হয়; প্রদর্শিত নিয়ম অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে ফটোগ্রাফি সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "রাজপতি তুতিকোরিন জেলায় কুরুম্বুরের কাছে, তিরুনেলবেলি থেকে তিরুচেন্দুরের পথে প্রায় ৪৫ কিমি ও তুতিকোরিন থেকে মোটামুটি ৩২ কিমি দূরে। কুরুম্বুর, তিরুনেলবেলি–তিরুচেন্দুর রেলপথে, নিকটতম স্টেশন, গ্রাম পর্যন্ত স্থানীয় মিনিবাস সহ; তুতিকোরিন নিকটতম বিমানবন্দর।"
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "amritaghateswarar-thirukkadaiyur",
   "locale": "bn",
+  "name": "অমৃতঘটেশ্বর-অভিরামি মন্দির, তিরুক্কডৈয়ূর",
   "nativeName": "திருக்கடையூர் அமிர்தகடேஸ்வரர் அபிராமி கோயில்",
+  "deity": "শিব অমৃতঘটেশ্বর রূপে, দেবী অভিরামির সঙ্গে",
+  "tradition": "শৈব ধর্ম",
   "location": {
-    "city": "Thirukkadaiyur",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কডৈয়ূর",
+    "state": "তামিলনাড়ু",
     "lat": 11.0775,
     "lng": 79.8183
   },
+  "period": "চোল দেশের পাডল পেট্র স্থলম, তেবারমে স্তোত্রগীত (সপ্তম শতাব্দী); দশম–একাদশ শতাব্দীর চোল শিলালিপি; অষ্ট বীরট্টানমের একটি",
   "century": 7,
+  "dynasty": "চোল, পরবর্তী সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam"
   ],
+  "summary": "মায়িলাডুতুরাইয়ের পূর্বে উপকূলের কাছে, শিব অমৃতঘটেশ্বর রূপে বালক মার্কণ্ডেয়কে যমের হাত থেকে রক্ষা করেছিলেন — মৃত্যুর উপর বিজয়ের বীরট্টানম, যা দম্পতিদের প্রিয় যাঁরা দেবী অভিরামির সম্মুখে একসঙ্গে দীর্ঘায়ু উদযাপন করতে আসেন।",
   "sections": {
-    "history": "Thirukkadaiyur, a town in Mayiladuthurai district not far from the coast at Tharangambadi, is one of the eight Ashta Veerattanams and among the best loved of them, for it remembers Shiva's victory over Yama, the lord of death. The Tevaram saints sang the Lord here, and it is a Paadal Petra Sthalam of the Chola country. Its inscriptions are rich: a record of Rajaraja I's thirteenth regnal year notes a merchant's endowment of paddy, one of Rajendra Chola's time provides for an annual eight-day festival, and one of 1054 under Rajadhiraja gives land to feed seventeen devotees. Under Kulothunga I the brick walls were rebuilt in stone and the front mandapa raised. The temple is administered today by the Dharmapuram Adheenam.",
-    "architecture": "The temple spreads over broad courtyards in the Dravidian manner, entered through a towered gateway, with the sanctum of Amritaghateswarar and a separate, much-visited shrine of the goddess Abirami. Its great treasure is the bronze of Kala Samhara Murthy — Shiva striding out, his foot raised against the fallen Yama — which is carried out on festival days. The stone walls and the front mandapa recall the Chola rebuilding under Kulothunga I.",
-    "legends": "The boy-sage Markandeya, granted to his parents on condition that he would live only sixteen years, spent his short life in devotion to Shiva. When the day came, he clung to the lingam here, and Yama's noose fell around both boy and lingam. Shiva burst forth, struck down Yama and made Markandeya forever sixteen — the Lord as Kala Samhara, conqueror of death. Centuries later the devotee Abhirami Bhattar, lost in contemplation of the goddess, named a new-moon day as the full moon; tradition says she cast her earring into the sky to make the moon shine, and he sang the Abhirami Anthadhi.",
-    "festivals": "Couples come throughout the year to mark their sixtieth, seventieth and eightieth birthdays — Shashtiabdapoorthi, Bhimaratha Shanti and Sathabhishekam — with prayers for long life before the Lord who conquered death. The festival of Kala Samhara, Thai Amavasai in memory of Abhirami Bhattar, Navaratri for the goddess and Maha Shivaratri are the great days; confirm dates locally.",
-    "experience": "Thirukkadaiyur is alive with family celebration: elderly couples garlanded and seated for their rites, grandchildren crowding the halls, the nagaswaram sounding in the courtyards. Among them, pilgrims of the Veerattanam circuit come to stand before the bronze of Kala Samhara, and many sing a verse of the Abhirami Anthadhi at the goddess's shrine."
+    "history": "তিরুক্কডৈয়ূর, মায়িলাডুতুরাই জেলার একটি শহর, তারঙ্গম্বাডির উপকূল থেকে দূরে নয়, আটটি অষ্ট বীরট্টানমের একটি এবং এগুলির মধ্যে সবচেয়ে প্রিয়গুলির একটি, কারণ এটি মৃত্যুর প্রভু যমের উপর শিবের বিজয় স্মরণ করে। তেবারম সন্তরা এখানে প্রভুকে স্তোত্রগীত করেছিলেন, এবং এটি চোল দেশের একটি পাডল পেট্র স্থলম। এর শিলালিপি সমৃদ্ধ: প্রথম রাজরাজের তেরোতম রাজ্যবর্ষের একটি নথিতে একজন বণিকের ধানের দান উল্লেখ আছে, রাজেন্দ্র চোলের সময়ের একটিতে বার্ষিক আট দিনের উৎসবের ব্যবস্থা, এবং রাজাধিরাজের অধীনে ১০৫৪ সালের একটিতে সতেরোজন ভক্তকে খাওয়ানোর জন্য ভূমি দান করা হয়। প্রথম কুলোত্তুঙ্গের অধীনে ইটের দেয়াল পাথরে পুনর্নির্মিত হয় এবং সম্মুখ মণ্ডপ নির্মিত হয়। মন্দিরটি আজ ধর্মপুরম আধীনম দ্বারা পরিচালিত।",
+    "architecture": "মন্দিরটি দ্রাবিড় রীতিতে বিস্তৃত চত্বর জুড়ে ছড়িয়ে আছে, একটি গোপুরযুক্ত তোরণ দিয়ে প্রবেশ করা হয়, অমৃতঘটেশ্বরের গর্ভগৃহ এবং দেবী অভিরামির একটি পৃথক, বহু-পরিদর্শিত মন্দিরসহ। এর মহান সম্পদ কালসংহারমূর্তির ব্রোঞ্জ মূর্তি — শিব এগিয়ে আসছেন, পতিত যমের বিরুদ্ধে তাঁর পা উত্তোলিত — যা উৎসবের দিনে বহন করা হয়। পাথরের দেয়াল ও সম্মুখ মণ্ডপ প্রথম কুলোত্তুঙ্গের অধীনে চোল পুনর্নির্মাণের কথা স্মরণ করায়।",
+    "legends": "বালক-ঋষি মার্কণ্ডেয়, এই শর্তে পিতামাতাকে দেওয়া হয়েছিল যে তিনি কেবল ষোলো বছর বাঁচবেন, তাঁর স্বল্প জীবন শিবের ভক্তিতে অতিবাহিত করেন। যখন দিন এল, তিনি এখানে লিঙ্গকে জড়িয়ে ধরলেন, এবং যমের পাশ বালক ও লিঙ্গ উভয়ের চারপাশে পড়ল। শিব আবির্ভূত হয়ে যমকে আঘাত করলেন এবং মার্কণ্ডেয়কে চিরকাল ষোলো বছর বয়সী করলেন — প্রভু কালসংহার রূপে, মৃত্যুর বিজেতা। শতাব্দী পরে ভক্ত অভিরামি ভট্টর, দেবীর ধ্যানে মগ্ন, একটি অমাবস্যার দিনকে পূর্ণিমা বলে ঘোষণা করলেন; ঐতিহ্য বলে তিনি চাঁদ জ্বালাতে তাঁর কর্ণকুণ্ডল আকাশে নিক্ষেপ করেছিলেন, এবং তিনি অভিরামি অন্তাদি গেয়েছিলেন।",
+    "festivals": "দম্পতিরা সারা বছর তাঁদের ষষ্টিতম, সপ্ততিতম ও অশীতিতম জন্মদিন — ষষ্ঠিঅব্দপূর্তি, ভীমরথ শান্তি ও সদাভিষেকম — মৃত্যু-বিজেতা প্রভুর সম্মুখে দীর্ঘায়ুর প্রার্থনাসহ পালন করতে আসেন। কালসংহারের উৎসব, অভিরামি ভট্টরের স্মরণে থাই অমাবাসাই, দেবীর জন্য নবরাত্রি এবং মহাশিবরাত্রি মহান দিন; তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তিরুক্কডৈয়ূর পারিবারিক উদযাপনে জীবন্ত: বৃদ্ধ দম্পতিরা মাল্যভূষিত ও তাঁদের আচারের জন্য উপবিষ্ট, নাতিপুতিরা হলভর্তি, প্রাঙ্গণে নাগস্বরম বাজছে। তাঁদের মাঝে, বীরট্টানম পথের তীর্থযাত্রীরা কালসংহারের ব্রোঞ্জের সম্মুখে দাঁড়াতে আসেন, এবং অনেকে দেবীর মন্দিরে অভিরামি অন্তাদির একটি শ্লোক গান।"
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure; auspicious days for the long-life ceremonies are very crowded. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Thirukkadaiyur lies on the Mayiladuthurai–Tharangambadi road, about 20 km east of Mayiladuthurai and a few kilometres from the coast. Mayiladuthurai is the nearest major railhead; Tiruchirappalli is the nearest large airport, with Puducherry also reachable by road."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার অধিবেশনে মধ্যাহ্ন বিরতিসহ খোলা; দীর্ঘায়ু অনুষ্ঠানের শুভ দিনগুলিতে খুব ভিড় থাকে। পরিদর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে বাইরে পাদুকা রেখে যেতে হয়। প্রদর্শিত বিধি ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে ছবি তোলার অনুমতি নেই; বাইরের প্রদক্ষিণপথে, ছবি তোলার আগে, বিশেষত আচার-অনুষ্ঠান ও উৎসবের ব্রোঞ্জ মূর্তির, মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুক্কডৈয়ূর মায়িলাডুতুরাই–তারঙ্গম্বাডি সড়কে অবস্থিত, মায়িলাডুতুরাই থেকে প্রায় ২০ কিমি পূর্বে এবং উপকূল থেকে কয়েক কিলোমিটার দূরে। মায়িলাডুতুরাই নিকটতম প্রধান রেলস্টেশন; তিরুচিরাপল্লি নিকটতম বড় বিমানবন্দর, পুদুচেরিও সড়কপথে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/amritaghateswarar-thirukkadaiyur.jpg",

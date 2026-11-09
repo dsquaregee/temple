@@ -1,29 +1,36 @@
 {
   "id": "vedapureeswarar-tiruvedikudi",
   "locale": "bn",
+  "name": "বেদপুরীশ্বর মন্দির, তিরুবেদিকুড়ি",
   "nativeName": "திருவேதிகுடி வேதபுரீஸ்வரர் கோயில்",
+  "deity": "শিব বেদপুরীশ্বর (ভাঝাই মাডু নাথর) রূপে, দেবী মঙ্গয়ারকরসি সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruvedikudi, near Tiruvaiyaru",
-    "state": "Tamil Nadu",
+    "city": "তিরুবেদিকুড়ি, তিরুবৈয়ারুর নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.85639,
     "lng": 79.13722
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তবগীত); পরবর্তীকালে চোল যুগের পাথরের মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরীর তীরে তিরুবৈয়ারুর নিকটবর্তী তিরুবেদিকুড়ি শিবকে বেদপুরীশ্বর রূপে দেবী মঙ্গয়ারকরসি সহ সম্মান করে। সম্বন্দর ও অপ্পর কর্তৃক স্তবগীত একটি পাডল পেট্র স্থলম এবং তিরুবৈয়ারুর সপ্ত স্থান মন্দিরগুলির চতুর্থটি, এটি সেই স্থান রূপে স্মরণীয় যেখানে বেদসমূহ পবিত্র হওয়ার জন্য তপস্যা করেছিল।",
   "sections": {
-    "history": "Tiruvedikudi lies near Tiruvaiyaru, about 7 km away on the Kaveri, in Thanjavur district. It is a Paadal Petra Sthalam: Tirugnana Sambandar venerated Vedapureeswarar in two padigams and Appar in two more, in the Tevaram. The shrine is the fourth of the celebrated Saptha Sthana (seven-place) temples of Tiruvaiyaru, whose festival links the seven villages. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian river-bank temple, the shrine enshrines Vedapureeswarar — also called Vazhai Madu Nathar — in the sanctum, with the goddess Mangayarkarasi in her own shrine, a Nandi and the parivara devatas about the prakara. The sanctum is noted for its reversed configuration, with the goddess to the right and the lord to the left. The temple keeps the form of the Shiva shrines of the Tiruvaiyaru belt.",
-    "legends": "The name Vedapureeswarar is bound to the legend of the Vedas, who by tradition undertook penance here upon Shiva to be made pure — 'the lord of the city of the Vedas.' The shrine's place in the Saptha Sthana festival of Tiruvaiyaru ties it to the seven Shiva villages carried in procession together. The goddess Mangayarkarasi, 'queen among women,' stands beside the lord.",
-    "festivals": "The temple observes the Saptha Sthana festival of Tiruvaiyaru in Chithirai, with the deities of the seven villages borne together, besides Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Tiruvaiyaru belt include Tiruvedikudi among the seven.",
-    "experience": "At Tiruvedikudi the pilgrim comes to the fourth of the seven Tiruvaiyaru shrines, on the Kaveri's bank. Before Vedapureeswarar and Mangayarkarasi, the visitor finds the unhurried grace of a Tevaram temple of the river country, and the memory of the Vedas who did penance here to be made pure."
+    "history": "তিরুবেদিকুড়ি তঞ্জাবুর জেলায় কাবেরীর তীরে তিরুবৈয়ারুর নিকটে, প্রায় ৭ কিমি দূরে অবস্থিত। এটি একটি পাডল পেট্র স্থলম: তিরুজ্ঞান সম্বন্দর তেবারমে দুটি পদিগমে এবং অপ্পর আরও দুটিতে বেদপুরীশ্বরকে বন্দনা করেছিলেন। এই মন্দিরটি তিরুবৈয়ারুর প্রসিদ্ধ সপ্ত স্থান (সাত-স্থান) মন্দিরগুলির চতুর্থটি, যার উৎসব সাতটি গ্রামকে যুক্ত করে। পাথরের মন্দিরটি চোল যুগ ও পরবর্তীকালের।",
+    "architecture": "একটি দ্রাবিড় নদীতীরবর্তী মন্দির, এর গর্ভগৃহে বেদপুরীশ্বর — যিনি ভাঝাই মাডু নাথর নামেও পরিচিত — প্রতিষ্ঠিত, দেবী মঙ্গয়ারকরসি তাঁর নিজস্ব মন্দিরে, একটি নন্দী এবং প্রাকারের চারপাশে পরিবার দেবতাগণ। গর্ভগৃহটি তার উল্টানো বিন্যাসের জন্য বিশেষ উল্লেখযোগ্য, যেখানে দেবী ডানদিকে এবং প্রভু বামদিকে। মন্দিরটি তিরুবৈয়ারু অঞ্চলের শিব মন্দিরগুলির রূপ বজায় রাখে।",
+    "legends": "বেদপুরীশ্বর নামটি বেদসমূহের কিংবদন্তির সঙ্গে জড়িত, যারা প্রথা অনুসারে এখানে শিবের উপর তপস্যা করে পবিত্র হয়েছিল — 'বেদের নগরীর প্রভু।' তিরুবৈয়ারুর সপ্ত স্থান উৎসবে এই মন্দিরের স্থান একে সেই সাতটি শিব-গ্রামের সঙ্গে যুক্ত করে যা একসঙ্গে শোভাযাত্রায় বহন করা হয়। দেবী মঙ্গয়ারকরসি, 'নারীদের মধ্যে রানী,' প্রভুর পাশে দাঁড়িয়ে আছেন।",
+    "festivals": "মন্দিরটি চিত্তিরৈ মাসে তিরুবৈয়ারুর সপ্ত স্থান উৎসব পালন করে, যেখানে সাতটি গ্রামের দেবতাগণ একসঙ্গে বাহিত হন, এছাড়া মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারসমূহ, প্রদোষ পূজা সহ। তিরুবৈয়ারু অঞ্চলের তীর্থযাত্রীরা তিরুবেদিকুড়িকে সাতটির অন্যতম বলে গণ্য করেন।",
+    "experience": "তিরুবেদিকুড়িতে তীর্থযাত্রী কাবেরীর তীরে সাতটি তিরুবৈয়ারু মন্দিরের চতুর্থটিতে আসেন। বেদপুরীশ্বর ও মঙ্গয়ারকরসির সম্মুখে দর্শনার্থী নদী-দেশের একটি তেবারম মন্দিরের অবিচল করুণা খুঁজে পান, এবং সেই বেদসমূহের স্মৃতি যারা এখানে পবিত্র হওয়ার জন্য তপস্যা করেছিল।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvedikudi lies about 7 km from Tiruvaiyaru and roughly 11 km from Thanjavur, in Thanjavur district. Thanjavur is the nearest rail head; Tiruvaiyaru is the nearest town, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশদ্বারে জুতো রেখে যেতে হয়।",
+    "photography": "সাধারণত বাইরের অলিন্দে আলোকচিত্র তোলা যায়, কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবেদিকুড়ি তিরুবৈয়ারু থেকে প্রায় ৭ কিমি এবং তঞ্জাবুর থেকে প্রায় ১১ কিমি দূরে, তঞ্জাবুর জেলায় অবস্থিত। তঞ্জাবুর নিকটতম রেলস্টেশন; তিরুবৈয়ারু নিকটতম শহর, যেখান থেকে গ্রামে বাস ও ট্যাক্সি পাওয়া যায়।"
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "nithyasundareswarar-tirunedungalam",
   "locale": "bn",
+  "name": "নিত্যসুন্দরেশ্বর মন্দির, তিরুনেদুঙ্গলম",
   "nativeName": "திருநெடுங்களம் நித்யசுந்தரேஸ்வரர் கோயில்",
+  "deity": "শিব, নিত্যসুন্দরেশ্বর (নেদুঙ্গলনাথর) রূপে, দেবী ওপ্পিল নায়কী (মঙ্গলনায়কী) সহ",
+  "tradition": "শৈব — এক পাডল পেট্র স্থলম্",
   "location": {
-    "city": "Tirunedungalam, near Thuvakudi",
-    "state": "Tamil Nadu",
+    "city": "তিরুনেদুঙ্গলম, তুবাকুড়ির নিকট",
+    "state": "তামিলনাড়ু",
     "lat": 10.78,
     "lng": 78.8
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল নির্মিত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ট্রিচি–তাঞ্জাবুর সড়ক থেকে তুবাকুড়ির নিকটবর্তী তিরুনেদুঙ্গলম শিবকে নিত্যসুন্দরেশ্বর—নেদুঙ্গলনাথর—রূপে দেবী ওপ্পিল নায়কীর সঙ্গে সম্মান জানায়। তিরুজ্ঞানসম্বন্দর কর্তৃক স্তুত এক পাডল পেট্র স্থলম্, এটি ঊর্ধ্ব কাবেরীর শিব মন্দিরগুলির মধ্যে দাঁড়িয়ে, যেখানে প্রথা বলে দেবী প্রভুকে বিবাহ করতে তপস্যা করেছিলেন এবং ঋষি অগস্ত্য পূজা করেছিলেন।",
   "sections": {
-    "history": "Tirunedungalam, near Thuvakudi about 21 km from Tiruchirappalli off the Trichy–Thanjavur highway, is a Paadal Petra Sthalam hymned in the Tevaram by Tirugnana Sambandar, counted among the Shiva shrines built on the banks of the Kaveri. Its historical name is Thirunedungalam; the stone temple is of the Chola period and later, in Tiruchirappalli district.",
-    "architecture": "A Dravidian river-country temple, the shrine enshrines Nithyasundareswarar — the Nedungalanathar — in the sanctum, with the goddess Oppila Nayaki (Mangalanayaki) in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and gopuram are typical of the Shiva temples of the upper Kaveri near Trichy.",
-    "legends": "Tradition tells that the goddess Shakti did penance here, meditating on Shiva to be wedded to him, and the lord came in the guise of a thief and took her hand — a marriage legend that gives the shrine its grace. Sage Agastya is also said to have worshipped at this sivasthalam. Shiva is praised here as Nithyasundareswarar, 'the ever-beautiful lord,' with Oppila Nayaki, 'she without compare,' beside him.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims on the upper-Kaveri stretch of the Paadal Petra temples near Trichy include Tirunedungalam among their stops.",
-    "experience": "At Tirunedungalam the pilgrim comes to a river-country shrine near Trichy. Before Nithyasundareswarar and Oppila Nayaki, the visitor finds the unhurried grace of a Tevaram temple of the upper Kaveri, and the memory of the goddess's penance to wed the ever-beautiful lord."
+    "history": "ট্রিচি–তাঞ্জাবুর মহাসড়ক থেকে তিরুচিরাপল্লি থেকে প্রায় ২১ কিমি দূরে তুবাকুড়ির নিকটবর্তী তিরুনেদুঙ্গলম একটি পাডল পেট্র স্থলম্, তেবারমে তিরুজ্ঞানসম্বন্দর কর্তৃক স্তুত, কাবেরীর তীরে নির্মিত শিব মন্দিরগুলির মধ্যে গণিত। এর ঐতিহাসিক নাম তিরুনেদুঙ্গলম; পাথরের মন্দিরটি তিরুচিরাপল্লি জেলায় চোল যুগ ও পরবর্তী সময়ের।",
+    "architecture": "এক দ্রাবিড় নদী-অঞ্চলের মন্দির, এই মন্দির গর্ভগৃহে নিত্যসুন্দরেশ্বর—নেদুঙ্গলনাথর—কে প্রতিষ্ঠিত করে, দেবী ওপ্পিল নায়কী (মঙ্গলনায়কী) তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও প্রাকার ঘিরে পরিবার দেবতাগণ সহ। প্রাচীরঘেরা প্রাঙ্গণ ও গোপুরম ট্রিচির নিকটবর্তী ঊর্ধ্ব কাবেরীর শিব মন্দিরগুলির বৈশিষ্ট্যসূচক।",
+    "legends": "প্রথা বলে যে দেবী শক্তি এখানে তপস্যা করেছিলেন, শিবকে বিবাহ করার জন্য তাঁর ধ্যানে মগ্ন হয়ে, এবং প্রভু চোরের ছদ্মবেশে এসে তাঁর হাত নিয়েছিলেন—এক বিবাহ-কিংবদন্তি যা মন্দিরকে তার কৃপা দেয়। ঋষি অগস্ত্যও এই শিবস্থলমে পূজা করেছিলেন বলে কথিত। এখানে শিব নিত্যসুন্দরেশ্বর, 'চিরসুন্দর প্রভু' রূপে প্রশংসিত, তাঁর পাশে ওপ্পিল নায়কী, 'যাঁর তুলনা নেই'।",
+    "festivals": "মন্দির মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজা সহ পালন করে। ট্রিচির নিকটবর্তী পাডল পেট্র মন্দিরগুলির ঊর্ধ্ব-কাবেরী অংশে তীর্থযাত্রীরা তিরুনেদুঙ্গলমকে তাদের যাত্রাপথে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুনেদুঙ্গলমে তীর্থযাত্রী ট্রিচির নিকটবর্তী এক নদী-অঞ্চলের মন্দিরে আসেন। নিত্যসুন্দরেশ্বর ও ওপ্পিল নায়কীর সামনে দর্শনার্থী ঊর্ধ্ব কাবেরীর এক তেবারম মন্দিরের ধীর কৃপা, এবং চিরসুন্দর প্রভুকে বিবাহ করতে দেবীর তপস্যার স্মৃতি খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirunedungalam lies near Thuvakudi, about 21 km from Tiruchirappalli off the Trichy–Thanjavur highway, in Tiruchirappalli district. Tiruchirappalli is the nearest city and rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে, বিশেষত উৎসবের দিনে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের করিডরে সাধারণত ফটোগ্রাফির অনুমতি আছে কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুনেদুঙ্গলম তুবাকুড়ির নিকটে, তিরুচিরাপল্লি জেলায় ট্রিচি–তাঞ্জাবুর মহাসড়ক থেকে তিরুচিরাপল্লি থেকে প্রায় ২১ কিমি দূরে। তিরুচিরাপল্লি নিকটতম শহর ও রেলস্টেশন, গ্রামে বাস ও ট্যাক্সি চলে।"
   }
 }

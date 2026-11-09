@@ -1,30 +1,37 @@
 {
   "id": "koodal-azhagar-madurai",
   "locale": "bn",
+  "name": "কূডল অঝগর মন্দির, মাদুরাই",
   "nativeName": "கூடலழகர் கோயில், மதுரை",
+  "deity": "উপবিষ্ট অবস্থায় কূডল অঝগর রূপে বিষ্ণু, দেবী মথুরাবল্লী ঠায়ারের সঙ্গে — এবং উপরের বিমানের স্তরে দণ্ডায়মান সূর্য নারায়ণ ও শায়িত রঙ্গনাথ রূপে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Madurai",
-    "state": "Tamil Nadu",
+    "city": "মাদুরাই",
+    "state": "তামিলনাড়ু",
     "lat": 9.914,
     "lng": 78.114
   },
+  "period": "মাদুরাইয়ের কেন্দ্রস্থলে পাণ্ড্য দেশের একটি দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে পেরিয়ালবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য, মাদুরাই নায়ক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "পুরনো মাদুরাইয়ের কেন্দ্রস্থলে বিষ্ণু কূডল অঝগর রূপে উপবিষ্ট, কূডলের সুন্দর প্রভু, এক ত্রিস্তরীয় বিমানের নিচে — যে মন্দিরে ঐতিহ্য অনুসারে পেরিয়ালবার প্রথম তিরুপ্পল্লাণ্ডু গেয়েছিলেন।",
   "sections": {
-    "history": "Koodal is the ancient poetic name of Madurai, and Koodal Azhagar — 'the beautiful one of Koodal' — is the city's own Divya Desam, standing a short walk from the Meenakshi Amman temple. It is one of the 108 Divya Desams of the Pandya Nadu, and it holds a special place in Sri Vaishnava memory as the shrine linked with Periyalvar, the Alvar of Srivilliputhur and foster-father of Andal. Tradition holds that it was here, before the Pandya court, that he sang the Thiruppallandu, the benediction with which the recitation of the Nalayira Divya Prabandham still begins. The temple grew under the Pandyas and later the Madurai Nayaks, and remains a busy place of worship in the old city.",
-    "architecture": "The temple is famous for its Ashtanga vimana, a tower built in three storeys, each with its own form of Vishnu: the lord seated as Koodal Azhagar in the sanctum below, standing as Surya Narayana above, and reclining on the serpent at the top level, a shrine devotees may climb to see. The Goddess Mathuravalli Thayar has her own shrine. Unusually for a Vishnu temple, a shrine of the nine planets stands within the precincts.",
-    "legends": "The sthala purana tells of the Pandya king Vallabhadeva, who walked the city in disguise to learn the lives of his people and, moved by a pilgrim's words, sought to know who was the supreme god. He called the learned to debate, and Periyalvar, a simple garland-maker of Srivilliputhur, proved the supremacy of Vishnu. As the king led him through Madurai in honour, Vishnu appeared in the sky on Garuda; and Periyalvar, fearing the evil eye might fall on such beauty, burst into song — 'Pallandu, pallandu', may you live for countless years.",
-    "festivals": "The temple keeps the great Vaishnava festivals, above all Vaikunta Ekadashi, when the gateway of heaven is opened and the old city fills with devotees. Processions of the utsava deities through the surrounding streets, and the recitation of Thiruppallandu in the shrine where it is said to have been born, are highlights of its year.",
-    "experience": "Koodal Azhagar is easily reached from the Meenakshi temple and is best visited unhurried. After darshan of the seated lord, climb the vimana to see the standing and reclining forms in turn — a rare chance to circle a sanctum tower from within. It pairs naturally with Kallazhagar and Thirumohur on a day among Madurai's Divya Desams."
+    "history": "কূডল মাদুরাইয়ের প্রাচীন কাব্যিক নাম, এবং কূডল অঝগর — 'কূডলের সুন্দর জন' — এই শহরের নিজস্ব দিব্য দেশম, যা মীনাক্ষী আম্মান মন্দির থেকে অল্প দূরে অবস্থিত। এটি পাণ্ড্য নাড়ুর ১০৮টি দিব্য দেশমের একটি, এবং শ্রীবৈষ্ণব স্মৃতিতে এটি পেরিয়ালবারের সঙ্গে জড়িত মন্দির হিসেবে বিশেষ স্থান অধিকার করে, যিনি শ্রীবিল্লিপুত্তুরের আলবার এবং আণ্ডালের পালক-পিতা। ঐতিহ্য বলে যে এখানেই, পাণ্ড্য রাজসভার সামনে, তিনি তিরুপ্পল্লাণ্ডু গেয়েছিলেন, সেই মঙ্গলস্তুতি যা দিয়ে নালায়ির দিব্য প্রবন্ধমের পাঠ আজও শুরু হয়। মন্দিরটি পাণ্ড্য এবং পরবর্তীতে মাদুরাই নায়কদের অধীনে বিকশিত হয় এবং পুরনো শহরে একটি ব্যস্ত উপাসনাস্থল হিসেবে রয়ে গেছে।",
+    "architecture": "মন্দিরটি তার অষ্টাঙ্গ বিমানের জন্য বিখ্যাত, তিন তলায় নির্মিত এক গম্বুজ, প্রতিটিতে বিষ্ণুর নিজস্ব রূপ: নিচের গর্ভগৃহে কূডল অঝগর রূপে উপবিষ্ট প্রভু, উপরে দণ্ডায়মান সূর্য নারায়ণ, এবং শীর্ষ স্তরে সর্পের উপর শায়িত, যে মন্দির ভক্তরা উপরে উঠে দেখতে পারেন। দেবী মথুরাবল্লী ঠায়ারের নিজস্ব মন্দির রয়েছে। বিষ্ণু মন্দিরের পক্ষে অস্বাভাবিকভাবে, প্রাঙ্গণের মধ্যে নবগ্রহের একটি মন্দির রয়েছে।",
+    "legends": "স্থলপুরাণ পাণ্ড্য রাজা বল্লভদেবের কথা বলে, যিনি প্রজাদের জীবন জানতে ছদ্মবেশে শহর ঘুরতেন এবং এক তীর্থযাত্রীর কথায় অভিভূত হয়ে জানতে চেয়েছিলেন কে পরম ঈশ্বর। তিনি পণ্ডিতদের বিতর্কে ডাকেন, এবং শ্রীবিল্লিপুত্তুরের সাধারণ মালাকার পেরিয়ালবার বিষ্ণুর শ্রেষ্ঠত্ব প্রমাণ করেন। রাজা যখন তাঁকে সম্মানে মাদুরাই জুড়ে নিয়ে যাচ্ছিলেন, বিষ্ণু গরুড়ের উপর আকাশে আবির্ভূত হন; এবং পেরিয়ালবার, এমন সৌন্দর্যে কুদৃষ্টি পড়তে পারে এই ভয়ে, গানে ফেটে পড়েন — 'পল্লাণ্ডু, পল্লাণ্ডু', অগণিত বছর বেঁচে থাকো।",
+    "festivals": "মন্দিরটি মহান বৈষ্ণব উৎসবগুলি পালন করে, সর্বোপরি বৈকুণ্ঠ একাদশী, যখন স্বর্গের দ্বার খোলা হয় এবং পুরনো শহর ভক্তে ভরে যায়। চারপাশের রাস্তায় উৎসবমূর্তির শোভাযাত্রা, এবং যে মন্দিরে তিরুপ্পল্লাণ্ডুর জন্ম বলে কথিত সেখানে তার পাঠ, বছরের মুখ্য আকর্ষণ।",
+    "experience": "কূডল অঝগর মীনাক্ষী মন্দির থেকে সহজে পৌঁছানো যায় এবং ধীরেসুস্থে দর্শন করাই ভালো। উপবিষ্ট প্রভুর দর্শনের পর, বিমানে উঠে পর্যায়ক্রমে দণ্ডায়মান ও শায়িত রূপ দেখুন — ভেতর থেকে একটি গর্ভগৃহ-গম্বুজ প্রদক্ষিণ করার এক বিরল সুযোগ। মাদুরাইয়ের দিব্য দেশমগুলির মধ্যে একদিন কাল্লঝগর ও তিরুমোহুরের সঙ্গে এটি স্বাভাবিকভাবেই মিলে যায়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is very crowded. Confirm current timings, including access to the upper vimana shrines, before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple stands in central Madurai, south-west of the Meenakshi Amman temple and close to the Periyar bus stand, reachable on foot or by auto-rickshaw. Madurai Junction railway station is nearby, and Madurai Airport lies about 12 km south."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনকালে খোলা, মধ্যাহ্নে বন্ধ; বৈকুণ্ঠ একাদশীতে অত্যন্ত ভিড় হয়। দর্শনের আগে উপরের বিমান মন্দিরে প্রবেশ সহ বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে আলোকচিত্র গ্রহণ সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "মন্দিরটি মধ্য মাদুরাইয়ে, মীনাক্ষী আম্মান মন্দিরের দক্ষিণ-পশ্চিমে এবং পেরিয়ার বাসস্ট্যান্ডের কাছে অবস্থিত, পায়ে হেঁটে বা অটোরিকশায় পৌঁছানো যায়। মাদুরাই জংশন রেলস্টেশন কাছেই, এবং মাদুরাই বিমানবন্দর প্রায় ১২ কিলোমিটার দক্ষিণে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",

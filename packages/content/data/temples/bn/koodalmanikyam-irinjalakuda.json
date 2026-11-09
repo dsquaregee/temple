@@ -1,30 +1,37 @@
 {
   "id": "koodalmanikyam-irinjalakuda",
   "locale": "bn",
+  "name": "কূডলমাণিক্যম মন্দির, ইরিঞ্জালকুড়া",
   "nativeName": "കൂടൽമാണിക്യം ക്ഷേത്രം",
+  "deity": "রামের ভাই ভরত, কূডলমাণিক্যস্বামী (সঙ্গমেশ্বর) রূপে পূজিত, বিষ্ণুর এক রূপ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Irinjalakuda",
-    "state": "Kerala",
+    "city": "ইরিঞ্জালকুড়া",
+    "state": "কেরল",
     "lat": 10.3467,
     "lng": 76.2011
   },
+  "period": "নবম শতকের মধ্যভাগের চের পেরুমাল শিলালিপি দ্বারা প্রমাণিত",
   "century": 9,
+  "dynasty": "মহোদয়পুরমের চের পেরুমালগণ; পরবর্তী কেরল পৃষ্ঠপোষকতা",
+  "style": "ধ্রুপদী কেরল",
   "unesco": false,
   "circuits": [
     "nalambalam"
   ],
+  "summary": "ইরিঞ্জালকুড়ার কূডলমাণিক্যম রামের নিবেদিত ভাই ভরতের এক বিরল মহান মন্দির — একক দেবতার মন্দির, নবম শতকের এক চের শিলালিপিতে লিপিবদ্ধ এবং দীর্ঘকাল ধরে কূডিয়াট্টমের আবাস।",
   "sections": {
-    "history": "Koodalmanikyam is one of the very few temples in India dedicated to Bharata, the brother who ruled Ayodhya in Rama's name with Rama's sandals upon the throne. Its antiquity is firmly attested: a stone inscription of the Chera Perumal king Sthanu Ravi Kulasekhara, dated 854–55 CE, records the grant of extensive lands to the temple, and further inscriptions of his reign survive here — evidence that the shrine was already well established by then. Over the centuries Koodalmanikyam held great estates around Irinjalakuda, and the town grew up about it. In tradition it is the second of the four Nalambalam temples, whose images the chieftain Vakkayil Kaimal installed after they were found in the sea. The temple is administered today by the Koodalmanikyam Devaswom.",
-    "architecture": "The temple is a broad Kerala precinct of sloping tiled and copper roofs, its sanctum standing within an unusually spacious courtyard. Inside the walls lies the Kulipini Theertham, a sacred tank whose water serves the temple's rites, and further ponds lie around the precinct. The great koothambalam, the temple theatre, is among the finest in Kerala, a tall pillared hall built for the ancient Sanskrit drama of Koodiyattam. Most striking is what is absent: Koodalmanikyam enshrines a single deity, with no subsidiary shrines at all — not even the Ganapati found in almost every Kerala temple.",
-    "legends": "The sthala tradition tells of the sage Kulipini and his fellow rishis, who performed a great sacrifice here; the Lord appeared, the waters of the Ganga welled up from the earth, and the sages merged into him. The Ganga, devotees believe, still dwells in the Kulipini Theertham. The temple's name comes from a later wonder. A gem was brought from the ruler of Kayamkulam to compare with the radiance glowing on the deity's image; held up beside it, the stone slipped away and merged into the idol. From this merging — koodal — of the manikyam, the jewel, the Lord came to be called Koodalmanikyam.",
-    "festivals": "The ten-day Utsavam in Medam (April–May) opens with the flag-hoisting on the Uthram asterism, the day after the Thrissur Pooram. Seventeen caparisoned elephants carry out the twice-daily seeveli to the beat of panchari melam, and the festival closes with the arattu, the Lord's ritual bath in a river. In Karkidakam (July–August), Nalambalam pilgrims come here second, after Triprayar. Confirm dates locally.",
-    "experience": "Koodalmanikyam rewards an unhurried visit. Worship here is notably austere — no lamp-waving deepa-aradhana and only three pujas a day — and the single sanctum lends the vast courtyard a rare stillness. Pause beside the Kulipini Theertham, and if the koothambalam is in use, stay for Koodiyattam, the drama that masters of the Chakyar families have performed on this stage for generations; the temple has long nurtured Kathakali and Thullal as well."
+    "history": "কূডলমাণিক্যম ভারতে ভরতকে উৎসর্গীকৃত অতি অল্প কয়েকটি মন্দিরের একটি, সেই ভাই যিনি রামের নামে, সিংহাসনে রামের পাদুকা রেখে অযোধ্যা শাসন করেছিলেন। এর প্রাচীনত্ব দৃঢ়ভাবে প্রমাণিত: চের পেরুমাল রাজা স্থাণু রবি কুলশেখরের একটি পাথরের শিলালিপি, ৮৫৪–৫৫ খ্রিস্টাব্দের, মন্দিরকে বিস্তৃত ভূমিদানের নথি রাখে, এবং তাঁর রাজত্বের আরও শিলালিপি এখানে টিকে আছে — প্রমাণ যে মন্দিরটি তখনই সুপ্রতিষ্ঠিত ছিল। শতাব্দীর পর শতাব্দী ধরে কূডলমাণিক্যম ইরিঞ্জালকুড়ার চারপাশে বিশাল সম্পত্তি ধরে রেখেছিল, এবং শহরটি এর চারপাশে গড়ে ওঠে। ঐতিহ্যে এটি চারটি নালাম্বলম মন্দিরের দ্বিতীয়, যাদের মূর্তি সর্দার ভাক্কায়িল কাইমল সমুদ্রে পাওয়ার পর প্রতিষ্ঠা করেছিলেন। মন্দিরটি বর্তমানে কূডলমাণিক্যম দেবস্বম দ্বারা পরিচালিত।",
+    "architecture": "মন্দিরটি ঢালু টালি ও তামার ছাদবিশিষ্ট এক বিস্তৃত কেরল প্রাঙ্গণ, এর গর্ভগৃহ এক অস্বাভাবিকভাবে প্রশস্ত উঠানের মধ্যে অবস্থিত। প্রাচীরের ভেতরে কুলিপিনি তীর্থম, এক পবিত্র জলাশয় যার জল মন্দিরের আচার-অনুষ্ঠানে ব্যবহৃত হয়, এবং প্রাঙ্গণের চারপাশে আরও পুকুর রয়েছে। বিশাল কূথাম্বলম, মন্দিরের নাট্যশালা, কেরলের অন্যতম সেরা, কূডিয়াট্টমের প্রাচীন সংস্কৃত নাটকের জন্য নির্মিত এক উঁচু স্তম্ভযুক্ত কক্ষ। সবচেয়ে উল্লেখযোগ্য যা অনুপস্থিত: কূডলমাণিক্যমে একক দেবতা বিরাজমান, কোনো উপমন্দির নেই — এমনকি প্রায় প্রতিটি কেরল মন্দিরে পাওয়া গণপতিও নেই।",
+    "legends": "স্থল ঐতিহ্য ঋষি কুলিপিনি ও তাঁর সহ-ঋষিদের কথা বলে, যাঁরা এখানে এক মহান যজ্ঞ করেছিলেন; প্রভু আবির্ভূত হন, গঙ্গার জল মাটি থেকে উৎসারিত হয়, এবং ঋষিরা তাঁর মধ্যে বিলীন হন। ভক্তরা বিশ্বাস করেন গঙ্গা আজও কুলিপিনি তীর্থমে বাস করেন। মন্দিরের নাম এসেছে এক পরবর্তী বিস্ময় থেকে। দেবতার মূর্তিতে জ্বলন্ত দীপ্তির সঙ্গে তুলনা করার জন্য কায়ামকুলমের শাসকের কাছ থেকে একটি রত্ন আনা হয়েছিল; মূর্তির পাশে ধরতেই পাথরটি সরে গিয়ে মূর্তিতে বিলীন হয়ে যায়। মাণিক্য, রত্নের এই মিলন — কূডল — থেকে প্রভু কূডলমাণিক্যম নামে পরিচিত হন।",
+    "festivals": "মেড়ম (এপ্রিল–মে) মাসে দশদিনব্যাপী উৎসবম থ্রিশূর পূরমের পরদিন উথরম নক্ষত্রে ধ্বজারোহণ দিয়ে শুরু হয়। সতেরোটি সুসজ্জিত হাতি পঞ্চারি মেলমের তালে দিনে দুবার সীবেলি বহন করে, এবং উৎসব আরাট্টু দিয়ে শেষ হয়, নদীতে প্রভুর আনুষ্ঠানিক স্নান। কর্কিডকম (জুলাই–আগস্ট) মাসে নালাম্বলম তীর্থযাত্রীরা ত্রিপ্রয়ারের পর দ্বিতীয়ত এখানে আসেন। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "কূডলমাণিক্যম এক ধীরস্থির দর্শনকে পুরস্কৃত করে। এখানে উপাসনা বিশেষভাবে সংযত — কোনো দীপ-আরাধনা নেই এবং দিনে মাত্র তিনটি পূজা — এবং একক গর্ভগৃহ বিশাল উঠানকে এক বিরল স্তব্ধতা দেয়। কুলিপিনি তীর্থমের পাশে থামুন, এবং কূথাম্বলম ব্যবহৃত হলে কূডিয়াট্টম দেখতে থাকুন, সেই নাটক যা চাক্যর পরিবারের গুরুরা প্রজন্মের পর প্রজন্ম এই মঞ্চে পরিবেশন করে আসছেন; মন্দিরটি দীর্ঘকাল ধরে কথাকলি ও থুল্লালকেও লালন করেছে।"
   },
   "visit": {
-    "timings": "Open daily in the morning and the evening, with a midday closure; hours change during the Utsavam and in Karkidakam. Confirm timings locally.",
-    "dressCode": "Traditional Kerala temple dress applies: men wear a mundu (dhoti) and remove their shirts before entering; women wear a saree, set-mundu or churidar. Entry is generally reserved for Hindus, per Kerala custom.",
-    "photography": "Photography is not permitted inside the temple; the outer precinct and the town may be photographed.",
-    "gettingThere": "The temple stands in the centre of Irinjalakuda town in Thrissur district, about 22 km south of Thrissur. Irinjalakuda railway station, at Kallettumkara, is about 8 km east of the town, and Kochi international airport is roughly 40 km away by road."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যায় খোলা, মধ্যাহ্নে বন্ধ; উৎসবম ও কর্কিডকমে সময় পরিবর্তিত হয়। সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "ঐতিহ্যবাহী কেরল মন্দির পোশাক প্রযোজ্য: পুরুষরা মুণ্ডু (ধুতি) পরেন এবং প্রবেশের আগে জামা খুলে রাখেন; মহিলারা শাড়ি, সেট-মুণ্ডু বা চুড়িদার পরেন। কেরল প্রথা অনুসারে প্রবেশ সাধারণত হিন্দুদের জন্য সংরক্ষিত।",
+    "photography": "মন্দিরের ভেতরে আলোকচিত্র গ্রহণ অনুমোদিত নয়; বাইরের প্রাঙ্গণ ও শহরের ছবি তোলা যেতে পারে।",
+    "gettingThere": "মন্দিরটি থ্রিশূর জেলায় ইরিঞ্জালকুড়া শহরের কেন্দ্রে, থ্রিশূর থেকে প্রায় ২২ কিলোমিটার দক্ষিণে অবস্থিত। কাল্লেট্টুমকারায় ইরিঞ্জালকুড়া রেলস্টেশন শহর থেকে প্রায় ৮ কিলোমিটার পূর্বে, এবং কোচি আন্তর্জাতিক বিমানবন্দর সড়কপথে প্রায় ৪০ কিলোমিটার দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/koodalmanikyam-irinjalakuda.jpg",

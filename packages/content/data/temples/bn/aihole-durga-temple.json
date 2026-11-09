@@ -1,30 +1,37 @@
 {
   "id": "aihole-durga-temple",
   "locale": "bn",
+  "name": "ঐহোলে দুর্গা মন্দির",
   "nativeName": "ಐಹೊಳೆ ದುರ್ಗ ದೇವಾಲಯ",
+  "deity": "মূলত একটি বিষ্ণু বা সূর্য মন্দির; ঐহোলে গোষ্ঠীর অর্ধবৃত্তাকার “দুর্গা” (দুর্গ) মন্দির",
+  "tradition": "আদি চালুক্য (শহরজুড়ে শৈব, বৈষ্ণব ও জৈন মন্দির)",
   "location": {
-    "city": "Aihole",
-    "state": "Karnataka",
+    "city": "ঐহোলে",
+    "state": "কর্ণাটক",
     "lat": 16.0197,
     "lng": 75.8815
   },
+  "period": "৭ম–৮ম শতাব্দী খ্রিস্টাব্দ",
   "century": 7,
+  "dynasty": "বাদামির চালুক্য",
+  "style": "আদি চালুক্য, পরীক্ষামূলক",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "ভারতীয় মন্দির স্থাপত্যের সূতিকাগার বলে পরিচিত ঐহোলেতে অর্ধবৃত্তাকার দুর্গা মন্দিরটি একটি শহরভর্তি আদি চালুক্য পরীক্ষা-নিরীক্ষার মধ্যে সবচেয়ে বিখ্যাত — এক গোলাকার, স্তম্ভশোভিত মন্দির যেখানে দক্ষিণী মন্দিরের রূপ তখনও উদ্ভাবিত হচ্ছিল।",
   "sections": {
-    "history": "Aihole, ancient Aryapura, was an early Chalukyan town where, from the sixth to the eighth centuries, builders tried out plan after plan in stone, earning the place its name as the cradle of Indian temple architecture. Scores of temples survive here, from the earliest halls to fully evolved shrines; the Meguti Jain temple carries a famous inscription of 634 CE by the poet Ravikirti, praising the emperor Pulakeshin II. The Durga temple, from the seventh or eighth century, is the best known — its very unconventionality a record of an age when the rules were still being written.",
-    "architecture": "The Durga temple takes its name not from the goddess but from the durga, the fort beside which it stood. Its plan is apsidal, rounded at the rear like the back of an elephant, a form borrowed from earlier Buddhist chaitya halls and rarely tried for a Hindu shrine. A colonnaded verandah wraps the whole building, its pillars and niches carrying superb reliefs — Vishnu, Shiva, Durga, Harihara — and a curving tower rises behind. Around it the Aihole group ranges from the flat-roofed Lad Khan temple to the northern-towered shrines, a whole museum of early experiment in the open air.",
-    "legends": "Aihole gathers a light-hearted lore alongside its scholarship. One tradition ties the town’s name to the sage Parashurama, who is said to have washed his axe in the Malaprabha river here, the waters running red, so that villagers cried out in dismay — a folk etymology for “Aihole.” The Durga temple’s deity is itself a small mystery, its shrine now empty and its original dedication — to Vishnu, or to the sun — debated by scholars, so that the building stands as much for the questions of early temple-making as for any single god.",
-    "festivals": "Aihole today is above all a heritage town, and its calendar turns with the visitors and scholars who come to study its temples. The Chalukyan monuments of Aihole, Badami, and Pattadakal are celebrated together in regional cultural festivals of dance and music staged among the ruins, and local village fairs mark the living shrines still in worship amid the ancient stones.",
-    "experience": "To wander Aihole is to walk through the workshop of Indian temple architecture. The Durga temple rewards a slow circuit of its colonnade, reliefs emerging one after another in the raking light, the apsidal end curving away like nothing else in the southern tradition. Beyond it the fields are dotted with more shrines — some locked, some open, some half-ruined — and climbing to the Meguti temple on its hill gives a long view over the Malaprabha valley where all of this began. It is a quiet, spread-out, deeply rewarding place for those who love how things come to be."
+    "history": "ঐহোলে, প্রাচীন আর্যপুর, ছিল এক আদি চালুক্য শহর যেখানে ষষ্ঠ থেকে অষ্টম শতাব্দী পর্যন্ত নির্মাতারা পাথরে একের পর এক নকশা পরখ করে দেখেছিলেন, যার ফলে এই স্থান ভারতীয় মন্দির স্থাপত্যের সূতিকাগার হিসেবে তার নাম অর্জন করে। এখানে বহু মন্দির টিকে আছে, সবচেয়ে প্রাচীন প্রার্থনাকক্ষ থেকে পূর্ণবিকশিত মন্দির পর্যন্ত; মেগুতি জৈন মন্দিরটি কবি রবিকীর্তির ৬৩৪ খ্রিস্টাব্দের একটি বিখ্যাত শিলালিপি বহন করে, যা সম্রাট দ্বিতীয় পুলকেশীর প্রশস্তি করে। সপ্তম বা অষ্টম শতাব্দীর দুর্গা মন্দিরটি সবচেয়ে সুপরিচিত — এর স্বাতন্ত্র্যই এমন এক যুগের দলিল যখন নিয়মগুলি তখনও লেখা হচ্ছিল।",
+    "architecture": "দুর্গা মন্দিরটি নাম পায় দেবীর থেকে নয়, বরং সেই দুর্গ থেকে যার পাশে এটি দাঁড়িয়ে ছিল। এর পরিকল্পনা অর্ধবৃত্তাকার, পিছনে হাতির পিঠের মতো গোলাকার, এক রূপ যা আগেকার বৌদ্ধ চৈত্যকক্ষ থেকে ধার করা এবং হিন্দু মন্দিরে কদাচিৎ পরীক্ষিত। একটি স্তম্ভশোভিত বারান্দা পুরো ভবনটিকে ঘিরে রাখে, যার স্তম্ভ ও কুলুঙ্গিতে অপূর্ব ভাস্কর্য — বিষ্ণু, শিব, দুর্গা, হরিহর — এবং পিছনে এক বক্র শিখর উঠে গেছে। এর চারপাশে ঐহোলে গোষ্ঠী সমতল-ছাদের লাড খান মন্দির থেকে উত্তর-ভারতীয় শিখরবিশিষ্ট মন্দির পর্যন্ত বিস্তৃত, খোলা আকাশের নিচে আদি পরীক্ষা-নিরীক্ষার এক সম্পূর্ণ জাদুঘর।",
+    "legends": "ঐহোলে তার পাণ্ডিত্যের পাশাপাশি এক হালকা-মেজাজের লোককথা সংগ্রহ করেছে। একটি প্রথা শহরের নামকে ঋষি পরশুরামের সঙ্গে জড়ায়, যিনি নাকি এখানে মলপ্রভা নদীতে তাঁর কুঠার ধুয়েছিলেন, জল লাল হয়ে গিয়েছিল, যাতে গ্রামবাসীরা বিস্ময়ে চিৎকার করে ওঠে — “ঐহোলে” নামের এক লৌকিক ব্যুৎপত্তি। দুর্গা মন্দিরের দেবতা নিজেই এক ক্ষুদ্র রহস্য, এর মন্দির এখন শূন্য এবং এর মূল উৎসর্গ — বিষ্ণুকে, নাকি সূর্যকে — পণ্ডিতদের মধ্যে বিতর্কিত, যাতে ভবনটি কোনো একক দেবতার মতোই আদি মন্দির-নির্মাণের প্রশ্নগুলিরও প্রতীক হয়ে দাঁড়ায়।",
+    "festivals": "ঐহোলে আজ সর্বোপরি এক ঐতিহ্যনগর, এবং এর পঞ্জিকা আবর্তিত হয় সেই দর্শনার্থী ও পণ্ডিতদের ঘিরে যাঁরা এর মন্দির অধ্যয়ন করতে আসেন। ঐহোলে, বাদামি ও পট্টডকলের চালুক্য স্মৃতিসৌধগুলি একত্রে আঞ্চলিক সাংস্কৃতিক উৎসবে নৃত্য ও সংগীতের মধ্য দিয়ে, ধ্বংসাবশেষের মাঝে উদ্‌যাপিত হয়, এবং স্থানীয় গ্রাম্য মেলা প্রাচীন পাথরের মধ্যে এখনও পূজিত জীবন্ত মন্দিরগুলিকে চিহ্নিত করে।",
+    "experience": "ঐহোলেতে ঘুরে বেড়ানো মানে ভারতীয় মন্দির স্থাপত্যের কর্মশালার মধ্য দিয়ে হেঁটে চলা। দুর্গা মন্দিরটি তার স্তম্ভশ্রেণির চারপাশে এক ধীর প্রদক্ষিণের পুরস্কার দেয়, তির্যক আলোয় একের পর এক ভাস্কর্য উন্মোচিত হয়, অর্ধবৃত্তাকার প্রান্তটি দক্ষিণী ঐতিহ্যে আর কোথাও নেই এমনভাবে বেঁকে যায়। এর বাইরে ক্ষেতগুলি আরও মন্দিরে ছেয়ে আছে — কিছু বন্ধ, কিছু খোলা, কিছু অর্ধধ্বংস — এবং পাহাড়ের উপর মেগুতি মন্দিরে উঠলে মলপ্রভা উপত্যকার এক দীর্ঘ দৃশ্য মেলে, যেখানে এই সবকিছুর সূচনা হয়েছিল। যাঁরা জিনিস কীভাবে গড়ে ওঠে তা ভালোবাসেন তাঁদের জন্য এটি এক শান্ত, বিস্তৃত, গভীরভাবে পুরস্কৃত স্থান।"
   },
   "visit": {
-    "timings": "The Durga temple complex is generally open from around 9:00 am to 5:30 pm daily; it is managed by the Archaeological Survey of India and a ticket is required.",
-    "dressCode": "Modest dress is appreciated; comfortable footwear helps for walking among the scattered temples and up to the hilltop shrines.",
-    "photography": "Photography is generally allowed; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Aihole is in Bagalkot district, about 35 km from Badami and 15 km from Pattadakal, reached by road; the nearest railheads are Badami and Bagalkot, and the nearest airport is Hubballi."
+    "timings": "দুর্গা মন্দির প্রাঙ্গণ সাধারণত প্রতিদিন সকাল প্রায় ৯:০০ থেকে বিকেল ৫:৩০ পর্যন্ত খোলা থাকে; এটি ভারতীয় প্রত্নতাত্ত্বিক জরিপ কর্তৃক পরিচালিত এবং টিকিট প্রয়োজন।",
+    "dressCode": "শালীন পোশাক সমাদৃত; ছড়িয়ে থাকা মন্দিরগুলির মধ্যে ও পাহাড়চূড়ার মন্দিরে হাঁটার জন্য আরামদায়ক পাদুকা সহায়ক।",
+    "photography": "আলোকচিত্র তোলা সাধারণত অনুমোদিত; ট্রাইপড বা পেশাদার চিত্রগ্রহণের জন্য স্থান-কর্তৃপক্ষের অনুমতি প্রয়োজন হতে পারে।",
+    "gettingThere": "ঐহোলে বাগলকোট জেলায়, বাদামি থেকে প্রায় ৩৫ কিমি ও পট্টডকল থেকে ১৫ কিমি দূরে, সড়কপথে পৌঁছানো যায়; নিকটতম রেলপথ বাদামি ও বাগলকোট, এবং নিকটতম বিমানবন্দর হুব্বল্লি।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/aihole-durga-temple.jpg",

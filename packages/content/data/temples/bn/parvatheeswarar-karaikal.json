@@ -1,29 +1,36 @@
 {
   "id": "parvatheeswarar-karaikal",
   "locale": "bn",
+  "name": "পার্বতীশ্বরর মন্দির, তিরুত্তেলিচ্চেরি (কারৈকাল)",
   "nativeName": "திருத்தெளிச்சேரி பார்வதீஸ்வரர் கோயில்",
+  "deity": "পার্বতীশ্বরর রূপে শিব, দেবী পার্বতী আম্মৈ (সক্তি নায়কী, স্বয়ম্বর তপস্বিনী)-র সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম (একটি ভাস্কর ক্ষেত্রম)",
   "location": {
-    "city": "Koilpatthu, Karaikal",
-    "state": "Puducherry (Karaikal)",
+    "city": "কোইলপত্তু, কারৈকাল",
+    "state": "পুদুচেরি (কারৈকাল)",
     "lat": 10.92,
     "lng": 79.83
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কারৈকাল শহরের প্রান্তে প্রাচীন তিরুত্তেলিচ্চেরি, আজকের কোইলপত্তুতে, শিব পূজিত হন পার্বতীশ্বরর রূপে—পার্বতীর প্রভু, যিনি এখানে দীর্ঘ তপস্যা করে অবশেষে তাঁর মধ্যে বিলীন হন—দেবী পার্বতী আম্মৈর সঙ্গে। তিরুজ্ঞান সম্বন্দরের স্তুত একটি পাডল পেট্র স্থলম, এটি একটি ভাস্কর ক্ষেত্রমও, যেখানে সূর্যদেব শিবের পূজা করেছিলেন; প্রতি বসন্তে দশ দিন সূর্যের রশ্মি লিঙ্গের উপর পড়ে।",
   "sections": {
-    "history": "Tiruthelicheri, now the locality of Koilpatthu on the edge of Karaikal town, is a Paadal Petra Sthalam of the lower Kaveri country, hymned in the Tevaram by Tirugnana Sambandar. Though Karaikal lies in the Union Territory of Puducherry, the shrine belongs wholly to the Tamil Shaiva sacred geography of the delta. The sthala tradition holds the place to be of immense antiquity, named Brahmavanam in the Satya yuga, Sameevanam in the Treta, Anandavanam in the Dwapara and Muktivanam in the Kali yuga. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of modest size, the shrine enshrines Parvatheeswarar in the sanctum, with the goddess Parvathi Ammai — also called Sakthi Nayaki and Swayamvara Tapasvini — in her own shrine, a Nandi, and the parivara devatas. The temple is oriented so that at a fixed season the sun's rays reach the lingam, the mark of a Bhaskara Kshetram, a place blessed by the sun-god's own worship.",
-    "legends": "The goddess Parvati is said to have performed long and ardent penance here, worshipping Shiva, until the lord drew her into himself as a part of his own form — from which she is praised as Swayamvara Tapasvini, 'she who won him by penance,' and the lord as Parvatheeswarar. A second legend tells that Surya, the sun-god, came here to worship Shiva and dug the temple tank; pleased, Shiva restored the sun's full brightness, and so the place became a Bhaskara Kshetram. For ten days from Panguni 13 (March–April) the sun's rays fall upon the lingam in the evenings.",
-    "festivals": "The temple keeps the Suryapuja days of Panguni, when the sun's rays touch the lingam, as its special observance, along with Maha Shivaratri in Masi (February–March), Navaratri and the Mondays of Karthikai. Devotees come for the grace of the sun-blessed lord and the penance-won goddess.",
-    "experience": "At Koilpatthu the pilgrim comes to a shrine of deep antiquity where penance and sunlight meet. Before Parvatheeswarar and Parvathi Ammai, the visitor remembers the goddess who won the lord by her austerity and the sun who regained his brightness here — and, in the Panguni days, may see the evening light reach the lingam, the living sign of a Bhaskara Kshetram."
+    "history": "তিরুত্তেলিচ্চেরি, এখন কারৈকাল শহরের প্রান্তে কোইলপত্তু এলাকা, নিম্ন কাবেরী দেশের একটি পাডল পেট্র স্থলম, তিরুজ্ঞান সম্বন্দরের তেবারমে স্তুত। যদিও কারৈকাল পুদুচেরি কেন্দ্রশাসিত অঞ্চলে অবস্থিত, তীর্থটি সম্পূর্ণভাবে ব-দ্বীপের তামিল শৈব পবিত্র ভূগোলের অন্তর্গত। স্থল-ঐতিহ্য স্থানটিকে অপরিমেয় প্রাচীন বলে ধরে, সত্যযুগে ব্রহ্মবনম, ত্রেতায় সমীবনম, দ্বাপরে আনন্দবনম ও কলিযুগে মুক্তিবনম নামে নামাঙ্কিত। পাথরের মন্দিরটি চোল যুগ ও পরবর্তী কালের।",
+    "architecture": "বিনম্র আকারের একটি দ্রাবিড় মন্দির, গর্ভগৃহে পার্বতীশ্বরর অধিষ্ঠিত, আর দেবী পার্বতী আম্মৈ—যাঁকে সক্তি নায়কী ও স্বয়ম্বর তপস্বিনীও বলা হয়—তাঁর নিজস্ব মন্দিরে, একটি নন্দী এবং পরিবার দেবতাগণ। মন্দিরটি এমনভাবে স্থাপিত যে একটি নির্দিষ্ট ঋতুতে সূর্যের রশ্মি লিঙ্গে পৌঁছায়, যা এক ভাস্কর ক্ষেত্রমের চিহ্ন, সূর্যদেবের নিজ পূজায় আশীর্বাদধন্য এক স্থান।",
+    "legends": "দেবী পার্বতী এখানে শিবের পূজা করে দীর্ঘ ও প্রবল তপস্যা করেছিলেন বলে কথিত, যতক্ষণ না প্রভু তাঁকে নিজ অঙ্গের অংশ রূপে নিজের মধ্যে টেনে নেন—যা থেকে তিনি স্বয়ম্বর তপস্বিনী, 'যিনি তপস্যায় তাঁকে জয় করেছিলেন' রূপে স্তুত, আর প্রভু পার্বতীশ্বরর। দ্বিতীয় একটি কাহিনি বলে যে সূর্যদেব এখানে শিবের পূজা করতে এসে মন্দির পুকুর খনন করেন; প্রসন্ন হয়ে শিব সূর্যের পূর্ণ উজ্জ্বলতা ফিরিয়ে দেন, আর তাই স্থানটি ভাস্কর ক্ষেত্রম হয়। পাঙ্গুনি ১৩ (মার্চ–এপ্রিল) থেকে দশ দিন সন্ধ্যায় সূর্যের রশ্মি লিঙ্গের উপর পড়ে।",
+    "festivals": "মন্দির তার বিশেষ পালন হিসেবে পাঙ্গুনির সূর্যপূজা দিনগুলি রাখে, যখন সূর্যের রশ্মি লিঙ্গ স্পর্শ করে, সেইসঙ্গে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, নবরাত্রি ও কার্তিকের সোমবারগুলি। ভক্তরা সূর্য-আশীর্বাদধন্য প্রভু ও তপস্যায়-জিত দেবীর কৃপার জন্য আসেন।",
+    "experience": "কোইলপত্তুতে তীর্থযাত্রী গভীর প্রাচীনত্বের এক তীর্থে আসেন যেখানে তপস্যা ও সূর্যালোক মিলিত হয়। পার্বতীশ্বরর ও পার্বতী আম্মৈর সামনে, দর্শনার্থী সেই দেবীকে স্মরণ করেন যিনি তাঁর কঠোরতায় প্রভুকে জয় করেছিলেন এবং সেই সূর্যকে যিনি এখানে উজ্জ্বলতা ফিরে পেয়েছিলেন—আর পাঙ্গুনির দিনগুলিতে, সন্ধ্যার আলো লিঙ্গে পৌঁছাতে দেখতে পারেন, যা এক ভাস্কর ক্ষেত্রমের জীবন্ত চিহ্ন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "The temple is at Koilpatthu, about 3 km from the Karaikal bus stand (Tiruthelicheri/Koilpatthu, PIN 609602, Puducherry UT). Karaikal has its own railway station and bus services; local autos and taxis reach Koilpatthu."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "সাধারণত বাইরের অলিন্দে ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি কোইলপত্তুতে, কারৈকাল বাসস্ট্যান্ড থেকে প্রায় ৩ কিমি দূরে (তিরুত্তেলিচ্চেরি/কোইলপত্তু, পিন ৬০৯৬০২, পুদুচেরি কেন্দ্রশাসিত অঞ্চল)। কারৈকালের নিজস্ব রেলস্টেশন ও বাস পরিষেবা আছে; স্থানীয় অটো ও ট্যাক্সি কোইলপত্তুতে পৌঁছায়।"
   }
 }

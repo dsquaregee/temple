@@ -1,29 +1,36 @@
 {
   "id": "karpaganathar-tiruvalanchuzhi",
   "locale": "bn",
+  "name": "কপর্দীশ্বরর মন্দির, তিরুভালঞ্চুড়ি",
   "nativeName": "கற்பகநாதர் (கபர்தீஸ்வரர்) கோயில்",
+  "deity": "শিব কপর্দীশ্বরর (কর্পগনাথর) রূপে, দেবী পেরিয়নায়কীর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tiruvalanchuzhi",
-    "state": "Tamil Nadu",
+    "city": "তিরুভালঞ্চুড়ি",
+    "state": "তামিলনাড়ু",
     "lat": 10.9509,
     "lng": 79.3215
   },
+  "period": "স্বামীমালাইয়ের নিকটে প্রাচীন শৈব ক্ষেত্র, তেবারমে (সপ্তম শতাব্দী) কীর্তিত, চোল ও নায়ক যুগের নির্মাণসহ",
   "century": 7,
+  "dynasty": "চোল ও তাঞ্জাভুর নায়কগণ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "স্বামীমালাইয়ের নিকটে তিরুভালঞ্চুড়িতে শিব কপর্দীশ্বরর রূপে পূজিত, তবে মন্দিরটি সর্বাধিক প্রিয় শ্বেত বিনায়করের জন্য—একটি শ্বেতবর্ণ গণেশ, যিনি সমুদ্রমন্থনের সময় সমুদ্রের ফেনা দিয়ে গঠিত হয়েছিলেন বলে কথিত।",
   "sections": {
-    "history": "Tiruvalanchuzhi is an old Shaiva village in the Kaveri delta near Swamimalai, and its temple is a Paadal Petra Sthalam praised by Appar and Thirugnana Sambandar. The Lord is worshipped as Kapardeeswarar, also called Karpaganathar, and the goddess as Periyanayaki. The oldest stonework belongs to the Chola period, and the Thanjavur Nayaks of the sixteenth century added substantially to the complex, as inscriptions of Chola and Nayak donations record. The village name, read as the place where the river turned, is linked in tradition to the winding course of the Kaveri drawn here by sages and gods.",
-    "architecture": "The temple is built in the Dravidian manner with a gopuram gateway, pillared halls and a temple tank. The sanctum holds the Shiva linga of Kapardeeswarar, with Periyanayaki in her shrine. Its most celebrated feature is the shrine of Swetha Vinayakar, the white Ganesha, worshipped with offerings made not to the fragile image directly but to a silver and gold frame before it. Carved mandapams and the delta's characteristic brick-and-stucco towers complete the temple.",
-    "legends": "When the gods and asuras churned the ocean of milk for the nectar of immortality, they are said to have begun without first worshipping Ganesha, and obstacles arose. To set this right a Ganesha was fashioned from the pure white foam of the ocean, and that Swetha Vinayakar came to be enshrined at Tiruvalanchuzhi. Because the image is of sea-foam and must not be bathed, worship is offered to the frame before it. The temple also keeps the tradition of the Kaveri's winding course being settled here.",
-    "festivals": "Vinayaka Chaturthi is observed with special grandeur, given the fame of Swetha Vinayakar, alongside Maha Shivaratri, the monthly Pradosham, and the Tamil month festivals. The car festival draws devotees from the surrounding delta towns. Festival dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Most who come to Tiruvalanchuzhi make straight for the white Ganesha, one of the loved Ganesha shrines of the delta, before worshipping Kapardeeswarar and Periyanayaki in the main sanctums. Close to Kumbakonam and Swamimalai, the temple is an easy addition to a day of delta temple visits, and keeps the quiet dignity of an old village sanctuary."
+    "history": "তিরুভালঞ্চুড়ি স্বামীমালাইয়ের নিকটে কাবেরী বদ্বীপের একটি প্রাচীন শৈব গ্রাম, এবং এর মন্দিরটি অপ্পর ও তিরুজ্ঞানসম্বন্দর কর্তৃক কীর্তিত একটি পাডল পেট্র স্থলম। এখানে ভগবান কপর্দীশ্বরর নামে পূজিত, যাঁকে কর্পগনাথরও বলা হয়, এবং দেবী পেরিয়নায়কী রূপে। প্রাচীনতম প্রস্তরনির্মাণ চোল যুগের, এবং ষোড়শ শতাব্দীর তাঞ্জাভুর নায়কগণ মন্দিরপ্রাঙ্গণে উল্লেখযোগ্য সংযোজন করেন, যেমন চোল ও নায়ক দানের শিলালিপি থেকে জানা যায়। গ্রামের নামটি, যা 'যেখানে নদী বাঁক নিয়েছে' অর্থে পঠিত হয়, ঐতিহ্যে ঋষি ও দেবগণ কর্তৃক এখানে আঁকা কাবেরীর আঁকাবাঁকা প্রবাহের সঙ্গে যুক্ত।",
+    "architecture": "মন্দিরটি দ্রাবিড় রীতিতে গোপুরম তোরণ, স্তম্ভশোভিত মণ্ডপ ও মন্দির-পুষ্করিণীসহ নির্মিত। গর্ভগৃহে কপর্দীশ্বররের শিবলিঙ্গ অধিষ্ঠিত, এবং পেরিয়নায়কী তাঁর নিজস্ব মন্দিরে। এর সর্বাধিক প্রসিদ্ধ বৈশিষ্ট্য হল শ্বেত বিনায়করের মন্দির, সেই শ্বেত গণেশ, যাঁর পূজা ভঙ্গুর মূর্তিটির প্রতি সরাসরি নয় বরং তাঁর সম্মুখস্থ একটি রৌপ্য ও স্বর্ণনির্মিত কাঠামোতে নিবেদিত হয়। খোদাইকৃত মণ্ডপ ও বদ্বীপের বৈশিষ্ট্যসূচক ইট-ও-পলেস্তারার মিনার মন্দিরটিকে সম্পূর্ণ করে।",
+    "legends": "দেব ও অসুরগণ অমৃতের জন্য ক্ষীরসমুদ্র মন্থন করলে, কথিত আছে তাঁরা প্রথমে গণেশপূজা না করেই আরম্ভ করেছিলেন, এবং বিঘ্ন উপস্থিত হয়। এর প্রতিকারে সমুদ্রের বিশুদ্ধ শ্বেত ফেনা দিয়ে একটি গণেশ গঠিত হয়, এবং সেই শ্বেত বিনায়কর তিরুভালঞ্চুড়িতে প্রতিষ্ঠিত হন। যেহেতু মূর্তিটি সমুদ্রফেনার এবং অভিষেক করা যায় না, তাই পূজা তাঁর সম্মুখস্থ কাঠামোতে নিবেদিত হয়। মন্দিরটি কাবেরীর আঁকাবাঁকা প্রবাহ এখানে স্থির হওয়ার ঐতিহ্যও ধরে রাখে।",
+    "festivals": "শ্বেত বিনায়করের খ্যাতির কারণে বিনায়ক চতুর্থী বিশেষ জাঁকজমকের সঙ্গে পালিত হয়, মহাশিবরাত্রি, মাসিক প্রদোষম ও তামিল মাসের উৎসবগুলির পাশাপাশি। রথোৎসব আশপাশের বদ্বীপ-নগরগুলি থেকে ভক্তদের টানে। উৎসবের তারিখ তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "তিরুভালঞ্চুড়িতে যাঁরা আসেন তাঁদের অধিকাংশ সরাসরি শ্বেত গণেশের কাছেই যান, যা বদ্বীপের প্রিয় গণেশমন্দিরগুলির একটি, তারপর মূল গর্ভগৃহে কপর্দীশ্বরর ও পেরিয়নায়কীকে পূজা করেন। কুম্বকোণম ও স্বামীমালাইয়ের কাছাকাছি হওয়ায় মন্দিরটি বদ্বীপের মন্দির-ভ্রমণের দিনে সহজেই যুক্ত করা যায়, এবং এটি একটি প্রাচীন গ্রাম্য তীর্থের শান্ত মর্যাদা ধরে রাখে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvalanchuzhi lies about 6 km from Kumbakonam and close to Swamimalai in Thanjavur district. Kumbakonam is the nearest railway station and Tiruchirappalli the nearest airport (about 90 km). Local buses and autos serve the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং পুনরায় বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত আলোকচিত্র গ্রহণের অনুমতি আছে, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুভালঞ্চুড়ি কুম্বকোণম থেকে প্রায় ৬ কিমি দূরে এবং তাঞ্জাভুর জেলায় স্বামীমালাইয়ের কাছে অবস্থিত। কুম্বকোণম নিকটতম রেলস্টেশন এবং তিরুচিরাপল্লি নিকটতম বিমানবন্দর (প্রায় ৯০ কিমি)। স্থানীয় বাস ও অটো গ্রামে যাতায়াত করে।"
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "swarnapureeswarar-andankoil",
   "locale": "bn",
+  "name": "স্বর্ণপুরীশ্বর মন্দির, আণ্ডানকোইল (তিরুক্কডুবায়ক্করৈপুত্তূর)",
   "nativeName": "திருக்கடுவாய்க்கரைப்புத்தூர் (ஆண்டான்கோயில்) ஸ்வர்ணபுரீஸ்வரர் கோயில்",
+  "deity": "শিব, স্বর্ণপুরীশ্বর রূপে (সোনার নগরীর অধীশ্বর), দেবী স্বর্ণাম্বিকা (শিবশেখরী) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Andankoil, near Valangaiman",
-    "state": "Tamil Nadu",
+    "city": "আণ্ডানকোইল, বালাঙ্গাইমানের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.76,
     "lng": 79.38
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তবগীত); পরবর্তী চোল যুগের কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "আণ্ডানকোইল, তেবারমের তিরুক্কডুবায়ক্করৈপুত্তূর, বালাঙ্গাইমানের কাছে, শিবকে স্বর্ণপুরীশ্বর রূপে—সোনার নগরীর অধীশ্বর—দেবী স্বর্ণাম্বিকা সহ সম্মান জানায়। আপ্পরের স্তুতিধন্য একটি পাডল পেট্র স্থলম, এর কিংবদন্তি একে তিরুবারুরের মহান ত্যাগরাজ মন্দিরের সঙ্গে যুক্ত করে, যা ঐতিহ্য অনুসারে মন্ত্রী কন্দদেব এখানে প্রভুর স্বপ্নাদেশে নির্মাণ করেছিলেন।",
   "sections": {
-    "history": "Andankoil, whose Tevaram name is Tirukkaduvaaikkaraiputtur (Thiru Kaduvai Karai Thenputhur), lies in the Valangaiman taluk of Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirunavukkarasar (Appar). By tradition the temple is linked to the building of the great Thyagaraja temple at Tiruvarur, and the stone shrine is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Swarnapureeswarar — 'lord of the golden city' — in the sanctum, with the goddess Swarnambikai, also called Sivambigai, Sivasekari and Poornambikai, in her own shrine, a Nandi and the parivara devatas. The golden names of lord and goddess give the shrine its character.",
-    "legends": "The sthala legend joins Andankoil to Tiruvarur. When the minister Kandadeva was building the great Thyagaraja temple at Tiruvarur, he came to this place to gather stone and lime for the work; and here Shiva appeared to him in a dream and bade him raise a temple, which he did — the shrine of Swarnapureeswarar. The lord's name Swarnapureeswarar and the goddess Swarnambikai, both 'golden,' keep the memory of that sacred commission.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine near Valangaiman. Pilgrims on the Paadal Petra trail include Andankoil among their stops.",
-    "experience": "At Andankoil the pilgrim finds a golden-named shrine bound to the story of great Tiruvarur. Before Swarnapureeswarar and Swarnambikai, the visitor remembers the minister who gathered stone here and raised a temple at the lord's own command — a quiet delta sanctuary with a golden heart."
+    "history": "আণ্ডানকোইল, যার তেবারম নাম তিরুক্কডুবায়ক্করৈপুত্তূর (তিরু কডুবায় করৈ তেনপুত্তূর), তিরুবারুর জেলার বালাঙ্গাইমান তালুকে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুনাবুক্করসর (আপ্পর) কর্তৃক স্তুত। ঐতিহ্য অনুসারে মন্দিরটি তিরুবারুরের মহান ত্যাগরাজ মন্দিরের নির্মাণের সঙ্গে যুক্ত, আর এই প্রস্তর মন্দিরটি চোল যুগের ও পরবর্তীকালের।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ-মন্দির, এই গর্ভগৃহে স্বর্ণপুরীশ্বর—'সোনার নগরীর অধীশ্বর'—বিরাজমান, দেবী স্বর্ণাম্বিকা, যিনি শিবাম্বিকা, শিবশেখরী ও পূর্ণাম্বিকা নামেও পরিচিত, তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণ সহ। প্রভু ও দেবীর সোনালি নামগুলি মন্দিরটিকে এর স্বকীয়তা দেয়।",
+    "legends": "স্থল-কিংবদন্তি আণ্ডানকোইলকে তিরুবারুরের সঙ্গে যুক্ত করে। মন্ত্রী কন্দদেব যখন তিরুবারুরে মহান ত্যাগরাজ মন্দির নির্মাণ করছিলেন, তিনি সেই কাজের জন্য পাথর ও চুন সংগ্রহ করতে এই স্থানে এসেছিলেন; আর এখানে শিব তাঁকে স্বপ্নে দেখা দিয়ে একটি মন্দির নির্মাণের আদেশ দেন, যা তিনি করেন—স্বর্ণপুরীশ্বরের মন্দির। প্রভুর নাম স্বর্ণপুরীশ্বর এবং দেবী স্বর্ণাম্বিকা, উভয়ই 'সোনালি', সেই পবিত্র আদেশের স্মৃতি ধরে রাখে।",
+    "festivals": "মন্দিরে মাসি (ফেব্রুয়ারি–মার্চ) মাসে মহাশিবরাত্রি, পুরট্টাসি (সেপ্টেম্বর–অক্টোবর) মাসে নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজা সহ পালিত হয়, বালাঙ্গাইমানের কাছে এক গ্রামীণ মন্দিরের শান্ত পরিসরে। পাডল পেট্র পথের তীর্থযাত্রীরা তাঁদের গন্তব্যের মধ্যে আণ্ডানকোইলকে রাখেন।",
+    "experience": "আণ্ডানকোইলে তীর্থযাত্রী এক সোনালি-নামের মন্দির পান, যা মহান তিরুবারুরের কাহিনির সঙ্গে বাঁধা। স্বর্ণপুরীশ্বর ও স্বর্ণাম্বিকার সামনে দর্শনার্থী সেই মন্ত্রীকে স্মরণ করেন যিনি এখানে পাথর সংগ্রহ করে প্রভুর নিজস্ব আদেশে একটি মন্দির নির্মাণ করেছিলেন—এক সোনালি হৃদয়ের শান্ত বদ্বীপ আশ্রয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Andankoil is in the Valangaiman taluk of Tiruvarur district (Thirukaduvaikaraithenputhur, PIN 612804), near Valangaiman. Valangaiman and Kumbakonam are the nearest rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার অপরাহ্ন থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশপথে পাদুকা রেখে যাওয়া হয়।",
+    "photography": "বাইরের গলিপথে সাধারণত আলোকচিত্রগ্রহণ অনুমোদিত কিন্তু গর্ভগৃহের ভিতরে নয়; আচারানুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "আণ্ডানকোইল তিরুবারুর জেলার বালাঙ্গাইমান তালুকে (তিরুকডুবায়করৈতেনপুত্তূর, পিন ৬১২৮০৪), বালাঙ্গাইমানের কাছে। বালাঙ্গাইমান ও কুম্বকোণম নিকটতম রেলপথ, গ্রামে বাস ও ট্যাক্সি রয়েছে।"
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "agneeswarar-tiruppugalur",
   "locale": "bn",
+  "name": "অগ্নীশ্বর মন্দির, তিরুপ্পুগলূর",
   "nativeName": "திருப்புகலூர் அக்னீஸ்வரர் கோயில்",
+  "deity": "অগ্নীশ্বর (অগ্নিপুরীশ্বর) রূপে শিব, দেবী করুন্দর্কুড়লি-র সঙ্গে",
+  "tradition": "শৈবধর্ম — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruppugalur",
-    "state": "Tamil Nadu",
+    "city": "তিরুপ্পুগলূর",
+    "state": "তামিলনাড়ু",
     "lat": 10.87,
     "lng": 79.75
   },
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে স্তবগান); বর্তমান চোল কাঠামোগত মন্দির, আনু. ১০ম শতাব্দী",
   "century": 10,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "নাগাপট্টিনমের নিম্ন কাবেরী বদ্বীপে তিরুপ্পুগলূরে শিবকে অগ্নীশ্বর — অগ্নিপুরীশ্বর — রূপে দেবী করুন্দর্কুড়লির সঙ্গে পূজা করা হয়। আপ্পর, সম্বন্দর ও সুন্দরর কর্তৃক স্তবগানকৃত একটি পাডল পেট্র স্থলম, এর নাম অগ্নিদেবের তপস্যার সঙ্গে জড়িত, যাঁর জলাশয় অগ্নি তীর্থম আজও মন্দিরকে ঘিরে রেখেছে।",
   "sections": {
-    "history": "Tiruppugalur lies in Nagapattinam district, in the lower Kaveri delta. It is a Paadal Petra Sthalam, hymned in the Tevaram by Appar (Tirunavukkarasar), Sambandar and Sundarar, counted among the Shiva shrines on the southern bank of the Kaveri. The present stone temple is of the Chola period, about the 10th century. The complex holds two Paadal Petra shrines — Agneeswarar and Vardhamaneswarar.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Agneeswarar — Agnipureeswarar — in the sanctum, with the goddess Karundharkuzhali (also Choolikambal) in her own shrine, a Nandi and the parivara devatas. A water body, the Agni Theertham, encircles the shrine. The walled courtyard keeps the form of the Shiva temples of the lower Nagapattinam delta, and the shrine of Vardhamaneswarar stands within the same sacred ground.",
-    "legends": "Shiva is worshipped here as Agneeswarar, 'the lord of Agni,' for Agni, the fire-god, is said to have done penance at this place and raised a body of water around himself; that tank survives to this day as the Agni Theertham, and the lord's name recalls the fire-god's worship. The goddess is Karundharkuzhali. As with many delta shrines, the fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the lower Nagapattinam delta include Tiruppugalur among their stops, worshipping at both of its Paadal Petra shrines.",
-    "experience": "At Tiruppugalur the pilgrim comes to the lord of the fire-god's penance. Before Agneeswarar and Karundharkuzhali, with the Agni Theertham encircling the shrine, the visitor finds the unhurried grace of a Tevaram temple of the lower delta, firm in the memory of Agni's worship."
+    "history": "তিরুপ্পুগলূর নাগাপট্টিনম জেলায়, নিম্ন কাবেরী বদ্বীপে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, আপ্পর (তিরুনাবুক্করসর), সম্বন্দর ও সুন্দরর কর্তৃক তেবারমে স্তবগানকৃত, কাবেরীর দক্ষিণ তীরের শিবমন্দিরগুলির অন্যতম বলে গণিত। বর্তমান পাথরের মন্দিরটি চোল যুগের, প্রায় ১০ম শতাব্দীর। প্রাঙ্গণে দুটি পাডল পেট্র মন্দির রয়েছে — অগ্নীশ্বর ও বর্ধমানেশ্বর।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, যার গর্ভগৃহে অগ্নীশ্বর — অগ্নিপুরীশ্বর — প্রতিষ্ঠিত, এবং দেবী করুন্দর্কুড়লি (যিনি চূলিকাম্বল নামেও পরিচিত) তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণসহ বিরাজমান। একটি জলাশয়, অগ্নি তীর্থম, মন্দিরটিকে ঘিরে রেখেছে। প্রাচীরঘেরা প্রাঙ্গণ নিম্ন নাগাপট্টিনম বদ্বীপের শিবমন্দিরগুলির রূপ রক্ষা করে, এবং বর্ধমানেশ্বরের মন্দিরটি একই পবিত্র ভূমিতে দাঁড়িয়ে আছে।",
+    "legends": "এখানে শিবকে অগ্নীশ্বর, 'অগ্নির প্রভু' রূপে পূজা করা হয়, কারণ অগ্নিদেব নাকি এই স্থানে তপস্যা করেছিলেন এবং নিজের চারপাশে একটি জলরাশি তৈরি করেছিলেন; সেই জলাশয় আজও অগ্নি তীর্থম রূপে টিকে আছে, এবং প্রভুর নাম অগ্নিদেবের পূজাকে স্মরণ করায়। দেবী হলেন করুন্দর্কুড়লি। অনেক বদ্বীপ মন্দিরের মতোই, পূর্ণাঙ্গ স্থলপুরাণ স্থানীয় প্রথায় ও তেবারম পদগুলিতে টিকে আছে।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজাসহ পালিত হয়। নিম্ন নাগাপট্টিনম বদ্বীপের তীর্থযাত্রীরা তাঁদের গন্তব্যগুলির মধ্যে তিরুপ্পুগলূরকে অন্তর্ভুক্ত করেন, এর দুটি পাডল পেট্র মন্দিরেই পূজা দেন।",
+    "experience": "তিরুপ্পুগলূরে তীর্থযাত্রী অগ্নিদেবের তপস্যার প্রভুর কাছে আসেন। অগ্নীশ্বর ও করুন্দর্কুড়লির সম্মুখে, মন্দিরকে ঘিরে থাকা অগ্নি তীর্থমের সঙ্গে, দর্শনার্থী নিম্ন বদ্বীপের এক তেবারম মন্দিরের নিরবচ্ছিন্ন প্রসন্নতা খুঁজে পান, যা অগ্নির পূজার স্মৃতিতে দৃঢ়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruppugalur lies in Nagapattinam district, in the lower Kaveri delta. Nagapattinam and Tiruvarur are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং পুনরায় বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের অলিন্দে সাধারণত আলোকচিত্র তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুপ্পুগলূর নাগাপট্টিনম জেলায়, নিম্ন কাবেরী বদ্বীপে অবস্থিত। নাগাপট্টিনম ও তিরুভারুর নিকটতম শহর ও রেলপথ, যেখান থেকে গ্রামে বাস ও ট্যাক্সি চলে।"
   }
 }

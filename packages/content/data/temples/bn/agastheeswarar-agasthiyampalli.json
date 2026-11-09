@@ -1,29 +1,36 @@
 {
   "id": "agastheeswarar-agasthiyampalli",
   "locale": "bn",
+  "name": "অগস্তীশ্বর মন্দির, অগস্তিয়ামপল্লি",
   "nativeName": "அகத்தியான்பள்ளி அகத்தீஸ்வரர் கோயில்",
+  "deity": "অগস্তীশ্বর রূপে শিব, দেবী সৌন্দরনায়কী (ভাগম্প্রিয়া নায়কী)-র সঙ্গে",
+  "tradition": "শৈবধর্ম — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Agasthiyampalli, near Vedaranyam",
-    "state": "Tamil Nadu",
+    "city": "অগস্তিয়ামপল্লি, বেদারণ্যমের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.355,
     "lng": 79.852
   },
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে স্তবগান); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "বেদারণ্যমের কিছুটা দক্ষিণে সমুদ্রের কাছে অবস্থিত অগস্তিয়ামপল্লিতে শিবকে অগস্তীশ্বর রূপে দেবী সৌন্দরনায়কীর সঙ্গে পূজা করা হয়। তিরুজ্ঞান সম্বন্দর কর্তৃক স্তবগানকৃত এই পাডল পেট্র স্থলমটি ঋষি অগস্ত্যের সঙ্গে জড়িত, যিনি প্রথা অনুসারে এখানে শিবিরে ছিলেন ও শিবের বিবাহের দর্শন পেয়েছিলেন, এবং যাঁর অবস্থান থেকে গ্রামটি নাম পেয়েছে।",
   "sections": {
-    "history": "Agasthiyampalli lies a short distance south of Vedaranyam, on the way to Kodikkarai (Point Calimere), near the sea in Nagapattinam district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and locally called Agasthiyar Kovil for its link to the sage Agastya. The stone temple is of the Chola period and later. (Sources differ on the exact distance from Vedaranyam, about 2–3 km.)",
-    "architecture": "A Dravidian coastal-delta temple, the shrine enshrines Agastheeswarar in the sanctum, with the goddess Soundaranayagi — also named Baagampriya Nayagi — in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram are typical of the Shiva temples of this low-lying southern tract near the coast.",
-    "legends": "The sage Agastya, by tradition, camped at this sivasthalam and was granted a vision of the wedding of Shiva and Parvati — the same marriage-darshan legend that binds the neighbouring Vedaranyam shrine — and the village of Agasthiyampalli takes its name from his stay. Shiva is worshipped here as Agastheeswarar, 'the lord of Agastya,' with Soundaranayagi beside him.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a coastal village shrine. Pilgrims on the Vedaranyam–Kodikkarai stretch of the Paadal Petra trail include Agasthiyampalli among their stops.",
-    "experience": "At Agasthiyampalli the pilgrim comes to a sea-edge shrine of the sage's lord. Before Agastheeswarar and Soundaranayagi, with the salt air of the lower delta near, the visitor finds the unhurried grace of a Tevaram temple of the Vedaranyam coast, and the memory of Agastya's vision of the divine wedding."
+    "history": "অগস্তিয়ামপল্লি নাগাপট্টিনম জেলায়, কোডিক্কারাই (পয়েন্ট ক্যালিমিয়ার)-এর পথে সমুদ্রের কাছে, বেদারণ্যম থেকে কিছুটা দক্ষিণে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তিরুজ্ঞান সম্বন্দর কর্তৃক তেবারমে স্তবগানকৃত, এবং ঋষি অগস্ত্যের সঙ্গে সম্পর্কের কারণে স্থানীয়ভাবে একে অগস্তিয়ার কোভিল বলা হয়। পাথরের মন্দিরটি চোল যুগের ও পরবর্তীকালের। (বেদারণ্যম থেকে সঠিক দূরত্ব নিয়ে সূত্রে মতভেদ আছে, প্রায় ২–৩ কিমি।)",
+    "architecture": "একটি দ্রাবিড় উপকূলীয়-বদ্বীপ মন্দির, যার গর্ভগৃহে অগস্তীশ্বর প্রতিষ্ঠিত, এবং দেবী সৌন্দরনায়কী — যিনি ভাগম্প্রিয়া নায়কী নামেও পরিচিত — তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও প্রাকারের চারপাশে পরিবার দেবতাগণ বিরাজমান। প্রাচীরঘেরা প্রাঙ্গণ ও সাধারণ গোপুরম উপকূলের কাছে এই নিম্নভূমিবিশিষ্ট দক্ষিণ অঞ্চলের শিবমন্দিরগুলির বৈশিষ্ট্যপূর্ণ।",
+    "legends": "প্রথা অনুসারে ঋষি অগস্ত্য এই শিবস্থলমে শিবিরে ছিলেন এবং শিব ও পার্বতীর বিবাহের দর্শনলাভে ধন্য হয়েছিলেন — সেই একই বিবাহ-দর্শনের কিংবদন্তি যা নিকটবর্তী বেদারণ্যম মন্দিরটিকেও জড়িয়ে রাখে — এবং অগস্তিয়ামপল্লি গ্রামটি তাঁর অবস্থান থেকে নাম পেয়েছে। এখানে শিবকে অগস্তীশ্বর, 'অগস্ত্যের প্রভু' রূপে পূজা করা হয়, তাঁর পাশে সৌন্দরনায়কী।",
+    "festivals": "মন্দিরে একটি উপকূলীয় গ্রামমন্দিরের শান্ত মাত্রায় মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজাসহ পালিত হয়। বেদারণ্যম–কোডিক্কারাই পাডল পেট্র পথে তীর্থযাত্রীরা তাঁদের গন্তব্যগুলির মধ্যে অগস্তিয়ামপল্লিকে অন্তর্ভুক্ত করেন।",
+    "experience": "অগস্তিয়ামপল্লিতে তীর্থযাত্রী ঋষির প্রভুর এক সমুদ্রতীরবর্তী মন্দিরে আসেন। অগস্তীশ্বর ও সৌন্দরনায়কীর সম্মুখে, নিম্ন বদ্বীপের নোনা বাতাসের কাছে, দর্শনার্থী বেদারণ্যম উপকূলের এক তেবারম মন্দিরের নিরবচ্ছিন্ন প্রসন্নতা এবং অগস্ত্যের দিব্য বিবাহ-দর্শনের স্মৃতি খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Agasthiyampalli lies about 2–3 km south of Vedaranyam, on the road toward Kodikkarai (Point Calimere), in Nagapattinam district. Vedaranyam is the nearest town, with buses and taxis to the village; Nagapattinam and Tiruvarur are the nearest rail heads."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং পুনরায় বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে স্থানীয়ভাবে সময় নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের অলিন্দে সাধারণত আলোকচিত্র তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "অগস্তিয়ামপল্লি নাগাপট্টিনম জেলায় কোডিক্কারাই (পয়েন্ট ক্যালিমিয়ার)-এর পথে বেদারণ্যম থেকে প্রায় ২–৩ কিমি দক্ষিণে অবস্থিত। বেদারণ্যম নিকটতম শহর, যেখান থেকে গ্রামে বাস ও ট্যাক্সি চলে; নাগাপট্টিনম ও তিরুভারুর নিকটতম রেলপথ।"
   }
 }

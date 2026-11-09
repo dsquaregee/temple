@@ -1,30 +1,37 @@
 {
   "id": "mahalingeswarar-tiruvidaimarudur",
   "locale": "bn",
+  "name": "মহালিঙ্গেশ্বরর মন্দির, তিরুবিডৈমরুদুর",
   "nativeName": "திருவிடைமருதூர் மகாலிங்கேஸ்வரர் கோயில்",
+  "deity": "শিব মহালিঙ্গেশ্বরর (উজ্জ্বল জ্যোতির্ময় লিঙ্গ) রূপে, দেবী বৃহৎসুন্দরকুজাম্বিকা সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্‌, কেন্দ্রীয় মরুদুর মন্দির",
   "location": {
-    "city": "Tiruvidaimarudur, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "তিরুবিডৈমরুদুর, কুম্বকোণমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9908,
     "lng": 79.4486
   },
+  "period": "তেবারম যুগ, চোল, বিজয়নগর ও নায়ক পর্বসহ",
   "century": 9,
+  "dynasty": "চোল, বিজয়নগর ও তাঞ্জাভুর নায়কসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণম থেকে অল্প পথ দূরে তিরুবিডৈমরুদুর কাবেরী বদ্বীপের মহান শিবমন্দিরগুলির একটি। শিব এখানে মহালিঙ্গেশ্বরর রূপে পূজিত, এক লিঙ্গ যা বিশুদ্ধ আলোর রূপ হিসেবে শ্রদ্ধিত, এবং শহরটি মধ্যার্জুন নামে পরিচিত — পবিত্র মরুদ বৃক্ষের নামে নামাঙ্কিত তিনটি 'মরুদুর' মন্দিরের মধ্যবর্তী। তেবারমে স্তুত একটি পাডল পেট্র স্থলম্‌, এটি সুউচ্চ তোরণ, প্রশস্ত প্রদক্ষিণপথ ও বহু পবিত্র জলাশয়ের এক বিশাল প্রাচীরবেষ্টিত সমষ্টি, দীর্ঘকাল তামিল দেশের সবচেয়ে গুরুত্বপূর্ণ শৈব কেন্দ্রগুলির মধ্যে গণ্য।",
   "sections": {
-    "history": "Tiruvidaimarudur has been a leading Shaiva centre since early medieval times, revered in the seventh-century Tevaram and enriched by successive dynasties. The oldest parts of the stone temple belong to the Chola period, from around the ninth century; the renowned second precinct was built in the Vijayanagara era, and the great gateway towers were raised up to the time of the Thanjavur Nayaks in the sixteenth century. Numerous inscriptions record the endowments of these rulers, marking the temple's standing across many centuries.",
-    "architecture": "The temple is one of the largest in the delta, laid out on a grand Dravidian plan with four gopurams and three broad concentric prakaras. The sanctum houses the lingam of Mahalingeswarar, worshipped as a form of radiant light. The goddess Brihatsundarakujambika has her own shrine, and the complex also holds a notable Mookambika shrine built in a northern style. The temple is famous for its many theerthams — some thirty-five sacred tanks are associated with it, of which Karunyamritha Tirtham is the best known.",
-    "legends": "The town's name Madhyarjuna — the central arjuna, or marudha — places it at the heart of a trio of Marudur temples, with Tiruppudaimarudur in the south and another in the north. The most celebrated legend is that of a Pandya king, often named Varaguna, who was pursued by the sin of a Brahmin's death and found release through the grace of the lord here, a story that made the temple a place of expiation and liberation. The sanctity of the marudha tree and of the many tirthas deepens its reputation as a kshetra of great purifying power.",
-    "festivals": "The temple keeps a full festival calendar, with the annual Brahmotsavam, Maha Shivaratri, the Margazhi observances and Pradosham drawing large crowds. Processions move along the broad streets that frame the complex, and the goddess's festivals are observed with their own grandeur. The scale of the temple allows for the great car festival and the many-day utsavams characteristic of the major delta shrines.",
-    "experience": "Entering Tiruvidaimarudur is to pass through gateway after gateway into widening courtyards, a progression that gives the pilgrimage a sense of depth and arrival. The vast prakaras, the light-filled sanctum of Mahalingeswarar and the many tirthas reward unhurried circumambulation. For devotees it is a temple of release and renewal, its antiquity and scale carrying a quiet authority."
+    "history": "তিরুবিডৈমরুদুর আদি মধ্যযুগ থেকে এক অগ্রণী শৈব কেন্দ্র, সপ্তম শতকের তেবারমে শ্রদ্ধিত এবং পরপর রাজবংশ দ্বারা সমৃদ্ধ। প্রস্তরমন্দিরের প্রাচীনতম অংশ চোল যুগের, প্রায় নবম শতক থেকে; বিখ্যাত দ্বিতীয় প্রাঙ্গণ বিজয়নগর যুগে নির্মিত, এবং বৃহৎ তোরণগুলি ষোড়শ শতকে তাঞ্জাভুর নায়কদের সময় পর্যন্ত উত্থিত হয়েছিল। অসংখ্য শিলালিপি এই শাসকদের দান নথিভুক্ত করে, যা বহু শতাব্দীজুড়ে মন্দিরের মর্যাদা চিহ্নিত করে।",
+    "architecture": "মন্দিরটি বদ্বীপের বৃহত্তমগুলির একটি, এক বিশাল দ্রাবিড় পরিকল্পনায় সাজানো, চারটি গোপুরম ও তিনটি প্রশস্ত সমকেন্দ্রিক প্রাকার সহ। গর্ভগৃহে মহালিঙ্গেশ্বররের লিঙ্গ অধিষ্ঠিত, উজ্জ্বল আলোর রূপে পূজিত। দেবী বৃহৎসুন্দরকুজাম্বিকার নিজের মন্দির রয়েছে, এবং সমষ্টিতে উত্তরদেশীয় রীতিতে নির্মিত এক উল্লেখযোগ্য মূকাম্বিকা মন্দিরও রয়েছে। মন্দিরটি তার বহু তীর্থমের জন্য বিখ্যাত — এর সঙ্গে প্রায় পঁয়ত্রিশটি পবিত্র জলাশয় যুক্ত, যার মধ্যে করুণ্যামৃত তীর্থম্‌ সবচেয়ে পরিচিত।",
+    "legends": "শহরের নাম মধ্যার্জুন — কেন্দ্রীয় অর্জুন বা মরুদ — একে তিনটি মরুদুর মন্দিরের একটি ত্রয়ীর কেন্দ্রে স্থাপন করে, দক্ষিণে তিরুপ্পুদৈমরুদুর এবং উত্তরে আরেকটি সহ। সবচেয়ে প্রসিদ্ধ কিংবদন্তিটি এক পাণ্ড্য রাজার, প্রায়ই বরগুণ নামে অভিহিত, যিনি এক ব্রাহ্মণহত্যার পাপে তাড়িত হয়েছিলেন এবং এখানকার প্রভুর কৃপায় মুক্তি পেয়েছিলেন, এমন এক কাহিনি যা মন্দিরকে প্রায়শ্চিত্ত ও মুক্তির স্থান করে তুলেছিল। মরুদ বৃক্ষের ও বহু তীর্থের পবিত্রতা মহা পবিত্রকারী শক্তির ক্ষেত্র রূপে এর খ্যাতি গভীর করে।",
+    "festivals": "মন্দির এক পূর্ণ উৎসব পঞ্জিকা রাখে, বার্ষিক ব্রহ্মোৎসব, মহাশিবরাত্রি, মার্গড়ি পালন ও প্রদোষম্‌ বিপুল জনসমাগম টেনে আনে। সমষ্টিকে ঘিরে থাকা প্রশস্ত সড়ক ধরে শোভাযাত্রা চলে, এবং দেবীর উৎসবগুলি নিজস্ব জাঁকজমকে পালিত হয়। মন্দিরের বিশালতা প্রধান বদ্বীপ মন্দিরগুলির বৈশিষ্ট্যসূচক মহা রথোৎসব ও বহুদিনব্যাপী উৎসবের সুযোগ দেয়।",
+    "experience": "তিরুবিডৈমরুদুরে প্রবেশ করা মানে তোরণের পর তোরণ পেরিয়ে ক্রমপ্রশস্ত প্রাঙ্গণে প্রবেশ করা, এক অগ্রযাত্রা যা তীর্থযাত্রাকে গভীরতা ও পৌঁছানোর অনুভূতি দেয়। বিশাল প্রাকার, মহালিঙ্গেশ্বররের আলোকোজ্জ্বল গর্ভগৃহ এবং বহু তীর্থ ধীর প্রদক্ষিণের পুরস্কার দেয়। ভক্তদের কাছে এটি মুক্তি ও নবায়নের মন্দির, এর প্রাচীনতা ও বিশালতা এক নীরব কর্তৃত্ব বহন করে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvidaimarudur lies on the Kumbakonam–Mayiladuthurai route, about 8 km from Kumbakonam in Thanjavur district; it has its own railway station, and frequent buses and taxis connect it with Kumbakonam."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশদ্বারে জুতা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত আলোকচিত্র তোলার অনুমতি আছে তবে গর্ভগৃহের ভেতরে নয়; পূজার ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবিডৈমরুদুর কুম্বকোণম–মাইলাডুতুরৈ পথে, তাঞ্জাভুর জেলায় কুম্বকোণম থেকে প্রায় ৮ কিমি দূরে অবস্থিত; এর নিজস্ব রেলস্টেশন রয়েছে, এবং ঘন ঘন বাস ও ট্যাক্সি একে কুম্বকোণমের সঙ্গে সংযুক্ত করে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/mahalingeswarar-tiruvidaimarudur.jpg",

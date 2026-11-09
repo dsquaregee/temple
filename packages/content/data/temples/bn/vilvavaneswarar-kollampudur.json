@@ -1,29 +1,36 @@
 {
   "id": "vilvavaneswarar-kollampudur",
   "locale": "bn",
+  "name": "বিল্বারণ্যেশ্বরর মন্দির, তিরুক্কোল্লম্পুদুর",
   "nativeName": "திருக்கொள்ளம்புதூர் வில்வாரண்யேஸ்வரர் கோயில்",
+  "deity": "শিব বিল্বারণ্যেশ্বরর রূপে (বিল্ব বনের অধিপতি), দেবী সৌন্দরা নায়কীর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম (একটি পঞ্চ আরণ্য ক্ষেত্রম)",
   "location": {
-    "city": "Tirukkollampudur, near Koradacheri",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কোল্লম্পুদুর, কোরডাচেরির নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 10.8147,
     "lng": 79.46
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তোত্রে বন্দিত); পরবর্তীকালে চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কোরডাচেরির নিকটে তিরুক্কোল্লম্পুদুর শিবকে বিল্বারণ্যেশ্বরর — বিল্ব বনের অধিপতি — রূপে, দেবী সৌন্দরা নায়কীর সঙ্গে সম্মান জানায়। তিরুজ্ঞান সম্বন্দর কর্তৃক স্তোত্রে বন্দিত একটি পাডল পেট্র স্থলম এবং পঞ্চ আরণ্য বন-শ্রীক্ষেত্রগুলির একটি; এটি সন্ত সম্বন্দরের স্মৃতিতে স্মরণীয়, যিনি নাকি এখানে তাঁর গানের শক্তিতে বানভাসি বেট্টারু নদী পার হয়েছিলেন।",
   "sections": {
-    "history": "Tirukkollampudur, whose historical name is Kollamputhur, lies about 22–24 km from Kumbakonam near Koradacheri and Nidamangalam, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and is counted among the Pancha Aranya Kshetrams, the five forest shrines of the Kumbakonam country, as the vilva (bael) forest. The stone temple is of the Chola period and later. The same village holds the Pereyil Jagadeeswarar temple, another Paadal Petra Sthalam.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vilvaranyeswarar — 'lord of the vilva forest' — in the sanctum, with the goddess Soundara Nayaki in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the vilva (bael), the leaf dearest to Shiva, which gives the shrine its forest name. The Vettaru river flows nearby.",
-    "legends": "The great story of the place belongs to the child-saint Sambandar, who came to worship here but found the Vettaru river in heavy flood, barring his way. By the power of his devotion and song — in some tellings taking a boat across, in others the waters themselves yielding — he reached the shrine and sang the lord's praise. As a vilva-forest shrine of the Pancha Aranya set, the temple is loved by those who make the round of the five forests, and the vilva leaf is central to its worship.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims making the round of the Pancha Aranya forests and the Paadal Petra temples include Tirukkollampudur among their stops.",
-    "experience": "At Tirukkollampudur the pilgrim comes to a bael-forest shrine of the Pancha Aranya, rich in the memory of Sambandar crossing the Vettaru. Before Vilvaranyeswarar, lord of the vilva, and the beautiful Soundara Nayaki, the visitor offers the sacred bael leaf in a quiet Tevaram temple of the Kaveri country."
+    "history": "তিরুক্কোল্লম্পুদুর, যার ঐতিহাসিক নাম কোল্লমপুথুর, তিরুবারুর জেলায় কোরডাচেরি ও নিডামঙ্গলমের নিকটে কুম্বকোণম থেকে প্রায় ২২–২৪ কিলোমিটার দূরে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তিরুজ্ঞান সম্বন্দর কর্তৃক তেবারমে স্তোত্রে বন্দিত, এবং কুম্বকোণম অঞ্চলের পাঁচটি বন-শ্রীক্ষেত্র পঞ্চ আরণ্য ক্ষেত্রমের মধ্যে বিল্ব বন রূপে গণ্য। পাথরের মন্দিরটি চোল যুগের ও তার পরবর্তীকালের। একই গ্রামে পেরেয়িল জগদীশ্বরর মন্দির রয়েছে, যা আরেকটি পাডল পেট্র স্থলম।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ-মন্দির, এর গর্ভগৃহে প্রতিষ্ঠিত বিল্বারণ্যেশ্বরর — 'বিল্ব বনের অধিপতি' — এবং দেবী সৌন্দরা নায়কী তাঁর নিজস্ব মন্দিরে, সঙ্গে নন্দী ও পরিবার দেবতাগণ। স্থল বৃক্ষ হল বিল্ব, শিবের প্রিয়তম পত্র, যা এই শ্রীক্ষেত্রকে তার বন-নাম দিয়েছে। কাছেই বেট্টারু নদী প্রবাহিত।",
+    "legends": "এই স্থানের মহান কাহিনি বালক-সন্ত সম্বন্দরের, যিনি এখানে উপাসনা করতে এসেছিলেন কিন্তু বেট্টারু নদীকে প্রবল বন্যায় ফুলে উঠতে দেখে পথ রুদ্ধ পান। তাঁর ভক্তি ও গানের শক্তিতে — কোনো কথনে নৌকায় পার হয়ে, আবার অন্য কথনে জলরাশি নিজেই পথ ছেড়ে দিয়ে — তিনি শ্রীক্ষেত্রে পৌঁছে প্রভুর স্তুতি গান করেন। পঞ্চ আরণ্য সমষ্টির একটি বিল্ব-বন শ্রীক্ষেত্র হিসেবে মন্দিরটি সেই ভক্তদের প্রিয় যাঁরা পাঁচ বনের পরিক্রমা করেন, এবং বিল্ব পত্র এর উপাসনার কেন্দ্রে।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহা শিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি পালিত হয়, সঙ্গে প্রদোষ উপাসনা। যাঁরা পঞ্চ আরণ্য বন ও পাডল পেট্র মন্দিরগুলির পরিক্রমা করেন, তাঁরা তিরুক্কোল্লম্পুদুরকে তাঁদের যাত্রাপথের মধ্যে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুক্কোল্লম্পুদুরে তীর্থযাত্রী আসেন পঞ্চ আরণ্যের একটি বিল্ব-বন শ্রীক্ষেত্রে, যা বেট্টারু পার হওয়া সম্বন্দরের স্মৃতিতে সমৃদ্ধ। বিল্বের অধিপতি বিল্বারণ্যেশ্বরর ও সুন্দরী সৌন্দরা নায়কীর সম্মুখে, দর্শক কাবেরী অঞ্চলের এক শান্ত তেবারম মন্দিরে পবিত্র বিল্ব পত্র নিবেদন করেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkollampudur is about 22–24 km from Kumbakonam, near Koradacheri and Nidamangalam (Chellur, via Kudavasal), in Tiruvarur district. Kumbakonam and Nidamangalam are the nearest rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রাখুন; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত আলোকচিত্র তোলা অনুমোদিত, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দির কর্মীদের অনুমতি নিন।",
+    "gettingThere": "তিরুক্কোল্লম্পুদুর তিরুবারুর জেলায় কোরডাচেরি ও নিডামঙ্গলমের (চেল্লুর, কুডবাসল হয়ে) নিকটে, কুম্বকোণম থেকে প্রায় ২২–২৪ কিলোমিটার দূরে। কুম্বকোণম ও নিডামঙ্গলম নিকটতম রেলস্টেশন, সেখান থেকে গ্রামে বাস ও ট্যাক্সি পাওয়া যায়।"
   }
 }

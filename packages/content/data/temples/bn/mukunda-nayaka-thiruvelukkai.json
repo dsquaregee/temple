@@ -1,30 +1,37 @@
 {
   "id": "mukunda-nayaka-thiruvelukkai",
   "locale": "bn",
+  "name": "অঝগিয় সিঙ্গর মন্দির, তিরুবেলুক্কাই",
   "nativeName": "அழகிய சிங்கர் கோயில், திருவேளுக்கை",
+  "deity": "বিষ্ণু অঝগিয় সিঙ্গর, সুন্দর নরসিংহ রূপে, যিনি মুকুন্দ নায়কন নামেও অভিহিত, উপবিষ্ট, দেবী অমৃতবল্লী (বেলুক্কাইবল্লী) সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruvelukkai, Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "তিরুবেলুক্কাই, কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.822,
     "lng": 79.707
   },
+  "period": "কাঞ্চিপুরমে তোণ্ডাই নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে পেয় আলবার ও তিরুমঙ্গাই আলবারের দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "তোণ্ডাই দেশ (কাঞ্চিপুরম), পরবর্তী সংযোজন সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "কাঞ্চিপুরমে তিরুবেলুক্কাইয়ে বিষ্ণু অঝগিয় সিঙ্গর রূপে অবস্থান করেন, সেই সুন্দর নরসিংহ যিনি নিজ ইচ্ছায় থেকে যেতে বেছে নিয়েছিলেন—তোণ্ডাই নাড়ুর একটি দিব্য দেশম, পেয় আলবার ও তিরুমঙ্গাই আলবারের দ্বারা স্তুত।",
   "sections": {
-    "history": "Thiruvelukkai is one of the 108 Divya Desams and one of the fourteen in Kanchipuram, in Thondai Nadu. Its name is read as Vel-irukkai, 'the dwelling of desire': tradition holds that the Lord came to stay here of his own wish. He is worshipped as Azhagiya Singar, 'the beautiful lion', a gentle form of Narasimha, and also as Mukunda Nayakan, the name under which the master list of Divya Desams often records him. The shrine was sung by Pey Alvar and by Thirumangai Alvar in the Nalayira Divya Prabandham. Worship follows the Vaikhanasa agama in the Thenkalai tradition. A modest temple today, it stands close to the Ashtabhuja Perumal temple, and the two are often visited together.",
-    "architecture": "A small Dravidian temple with a walled court around the sanctum of Azhagiya Singar, shown seated, and a separate shrine for the Goddess Amruthavalli. The vimana over the sanctum is called the Kanaka Vimana, the golden tower, and the temple tank shares the name: Kanaka Saras. The quiet scale of the shrine suits the gentle aspect of its Lord.",
-    "legends": "This shrine too belongs to the Kanchi cycle of Brahma's sacrifice. When Saraswati sent a fearsome Kapalika to destroy the rite, Vishnu took the form of Narasimha and overcame him — and, the legend continues, remained here as Azhagiya Singar because he loved the place. Another tradition tells that the Lord was first worshipped standing as Mukunda Nayakan and later took his seated form when he appeared to the sage Bhrigu.",
-    "festivals": "The temple's annual festival falls in Margazhi (December–January), the month that also brings Vaikunta Ekadashi. Narasimha Jayanthi, sacred to every shrine of Narasimha, and the birth-stars of Pey Alvar and Thirumangai Alvar are kept with devotion. Confirm festival dates locally.",
-    "experience": "A quiet, unhurried shrine where a pilgrim can stand alone before Azhagiya Singar — a Narasimha of grace rather than fury. Combine it with the nearby Ashtabhuja Perumal temple, and remember that a modest temple's upkeep depends on visitors who come and pray."
+    "history": "তিরুবেলুক্কাই ১০৮টি দিব্য দেশমের একটি এবং কাঞ্চিপুরমের চৌদ্দটির একটি, তোণ্ডাই নাড়ুতে। এর নাম বেল-ইরুক্কাই, 'ইচ্ছার আবাস,' রূপে পড়া হয়: ঐতিহ্য বলে প্রভু নিজ ইচ্ছায় এখানে থাকতে এসেছিলেন। তিনি অঝগিয় সিঙ্গর, 'সুন্দর সিংহ,' রূপে পূজিত, নরসিংহের একটি কোমল রূপ, এবং মুকুন্দ নায়কন রূপেও, যে নামে দিব্য দেশমের মূল তালিকা তাঁকে প্রায়ই লিপিবদ্ধ করে। ক্ষেত্রটি নালায়িরা দিব্য প্রবন্ধমে পেয় আলবার ও তিরুমঙ্গাই আলবারের দ্বারা স্তুত হয়েছিল। পূজা তেনকলাই ঐতিহ্যে বৈখানস আগম অনুসরণ করে। আজ একটি বিনয়ী মন্দির, এটি অষ্টভুজ পেরুমল মন্দিরের কাছে দাঁড়িয়ে আছে, এবং দুটি প্রায়ই একসঙ্গে দর্শন করা হয়।",
+    "architecture": "অঝগিয় সিঙ্গরের গর্ভগৃহের চারপাশে একটি প্রাচীরবেষ্টিত প্রাঙ্গণ সহ একটি ছোট দ্রাবিড় মন্দির, যেখানে তাঁকে উপবিষ্ট দেখানো হয়, এবং দেবী অমৃতবল্লীর জন্য একটি পৃথক মন্দির। গর্ভগৃহের উপরের বিমানকে কনক বিমান, স্বর্ণ-চূড়া, বলা হয়, এবং মন্দির-পুষ্করিণী একই নাম ধারণ করে: কনক সরস। ক্ষেত্রের শান্ত পরিসর এর প্রভুর কোমল রূপের সঙ্গে মানানসই।",
+    "legends": "এই ক্ষেত্রটিও ব্রহ্মার যজ্ঞের কাঞ্চি চক্রের অন্তর্গত। যখন সরস্বতী যজ্ঞ ধ্বংস করতে এক ভয়ংকর কাপালিক পাঠিয়েছিলেন, তখন বিষ্ণু নরসিংহের রূপ ধরে তাকে পরাস্ত করেছিলেন—এবং, কিংবদন্তি চলতে থাকে, অঝগিয় সিঙ্গর রূপে এখানে থেকে গিয়েছিলেন কারণ তিনি স্থানটিকে ভালোবেসেছিলেন। অন্য একটি ঐতিহ্য বলে যে প্রভু প্রথমে মুকুন্দ নায়কন রূপে দাঁড়িয়ে পূজিত হয়েছিলেন এবং পরে ঋষি ভৃগুর কাছে আবির্ভূত হওয়ার সময় তাঁর উপবিষ্ট রূপ নিয়েছিলেন।",
+    "festivals": "মন্দিরের বার্ষিক উৎসব মার্গঝিতে (ডিসেম্বর–জানুয়ারি) পড়ে, যে মাসে বৈকুণ্ঠ একাদশীও আসে। নরসিংহ জয়ন্তী, নরসিংহের প্রতিটি ক্ষেত্রে পবিত্র, এবং পেয় আলবার ও তিরুমঙ্গাই আলবারের জন্মনক্ষত্র ভক্তি সহকারে পালিত হয়। উৎসবের তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "একটি শান্ত, অবকাশহীন ক্ষেত্র যেখানে একজন তীর্থযাত্রী একা অঝগিয় সিঙ্গরের সামনে দাঁড়াতে পারেন—ক্রোধের নয়, কৃপার এক নরসিংহ। একে কাছের অষ্টভুজ পেরুমল মন্দিরের সঙ্গে যুক্ত করুন, এবং মনে রাখুন যে একটি বিনয়ী মন্দিরের রক্ষণাবেক্ষণ সেইসব দর্শনার্থীর উপর নির্ভর করে যাঁরা এসে প্রার্থনা করেন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; hours can be short at smaller shrines. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies within Kanchipuram town, near the Ashtabhuja Perumal temple; Kanchipuram has a railway station and is reached by road from Chennai (around 70 km), which has the nearest major airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন সেশন এবং মধ্যাহ্নে বন্ধ সহ খোলা; ছোট ক্ষেত্রে সময় সংক্ষিপ্ত হতে পারে। ভ্রমণের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশেপাশে ফটোগ্রাফি সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "এটি কাঞ্চিপুরম শহরের মধ্যে, অষ্টভুজ পেরুমল মন্দিরের কাছে অবস্থিত; কাঞ্চিপুরমে একটি রেলস্টেশন আছে এবং চেন্নাই (প্রায় ৭০ কিমি) থেকে সড়কপথে পৌঁছানো যায়, যার নিকটতম বড় বিমানবন্দর রয়েছে।"
   }
 }

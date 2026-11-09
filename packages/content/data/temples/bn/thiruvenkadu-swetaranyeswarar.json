@@ -1,30 +1,41 @@
 {
   "id": "thiruvenkadu-swetaranyeswarar",
   "locale": "bn",
+  "name": "তিরুবেঙ্কাডু শ্বেতারণ্যেশ্বরর মন্দির",
   "nativeName": "திருவெண்காடு சுவேதாரண்யேஸ்வரர் கோயில்",
+  "deity": "শ্বেতারণ্যেশ্বরর রূপে শিব, শ্বেত অরণ্যের প্রভু; দেবী ব্রহ্ম বিদ্যা নায়কী; বুধ (বুধগ্রহ)",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thiruvenkadu, near Sirkazhi",
-    "state": "Tamil Nadu",
+    "city": "তিরুবেঙ্কাডু, সিরকাষির কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 11.193,
     "lng": 79.796
   },
+  "period": "চোল যুগের প্রস্তরনির্মিত মন্দির; প্রাচীন স্তুত তীর্থ",
   "century": 11,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "navagraha-temples",
     "paadal-petra-sthalams"
   ],
+  "summary": "বুধের (বুধগ্রহ) জন্য নবগ্রহ তীর্থ, যেখানে শিব শ্বেতারণ্যেশ্বরর, শ্বেত অরণ্যের প্রভু রূপে পূজিত। তামিলনাড়ুর উপকূলের কাছে অবস্থিত এক প্রাচীন তেবারম-স্তুত মন্দির, যা বুদ্ধি, বিদ্যা ও স্বচ্ছ বাকশক্তির জন্য শ্রদ্ধেয়।",
   "sections": {
-    "history": "Thiruvenkadu is a place of deep antiquity, its praises sung by the Tevaram saints and counted among the Paadal Petra Sthalams. The stone shrine as it stands reflects Chola-period building in the Dravidian manner, raised in enduring granite over a still older sacred site. Its name, Swetaranya, means the white forest, evoking a grove where sages and the white-elephant tradition are remembered as worshippers. Across the centuries the temple has been sustained by devotion, its three sacred tanks and its Tevaram heritage keeping it among the honoured Shiva shrines of the Kaveri delta country.",
-    "architecture": "Built in the Dravidian idiom of the Chola era, the temple gathers its shrines within walled enclosures entered through gopuram towers. The sanctum of Swetaranyeswarar holds the Shiva linga, with the Goddess Brahma Vidya Nayaki in her own shrine and a dedicated shrine for Budha, the planet of intellect. The temple is renowned for its bronze icons, above all the fierce yet grace-giving form of Shiva as Aghora Murthy, a much-revered image. Three theerthams, or sacred tanks, are associated with the site, and the stone mandapas and pillared halls carry the restrained, well-proportioned character of Chola workmanship.",
-    "legends": "The name Swetaranya, the white forest, recalls sages and the white-elephant tradition who are said to have worshipped Shiva here and given the place its purity. The temple's central story belongs to Budha, the planet of Mercury: by devout worship at this shrine Budha is said to have gained his standing among the Navagraha, the nine celestial bodies. Because Budha governs intellect, speech, learning and commerce, devotees come to pray for sharpness of mind, clarity of expression, success in study and business, and relief from the afflictions known as Budha dosha.",
-    "festivals": "Wednesday, the day of Budha, is the temple's most auspicious time, drawing devotees for abhishekam and the offering of lamps to the planet of intellect. Pradosham is observed with special devotion to Shiva, and the great festivals of the Tamil months of Aadi and Masi mark the yearly calendar. Throughout the year worshippers make offerings seeking learning and clear speech, and the fortnightly and monthly observances keep a steady rhythm of ritual bathing, lamps and prayer at the shrine.",
-    "experience": "A visit to Thiruvenkadu is quiet and contemplative, set in the green delta country near the coast a short way from Sirkazhi. Devotees move from the sanctum of Swetaranyeswarar to the shrine of Budha, lighting lamps and offering prayers for a clear mind and steady speech. The revered Aghora Murthy bronze draws particular reverence. Come early, when the morning abhishekam is performed and the halls are cool, or in the evening lamplight; Wednesdays are especially busy with those seeking the grace of Budha."
+    "history": "তিরুবেঙ্কাডু গভীর প্রাচীনত্বের এক স্থান, তেবারম সন্তদের দ্বারা এর মহিমা স্তুত এবং পাডল পেট্র স্থলম-গুলির অন্যতম বলে গণ্য। আজ যেমন দাঁড়িয়ে আছে, সেই প্রস্তরমন্দির চোল-যুগের দ্রাবিড় রীতির নির্মাণের প্রতিফলন, যা এক আরও প্রাচীন পবিত্র স্থানের উপর স্থায়ী গ্রানাইটে গড়া। এর নাম শ্বেতারণ্য, যার অর্থ শ্বেত অরণ্য, এমন এক বনকে স্মরণ করায় যেখানে ঋষিগণ ও শ্বেত হস্তীর ঐতিহ্য উপাসক রূপে স্মরিত হন। শতাব্দীর পর শতাব্দী ধরে মন্দিরটি ভক্তির দ্বারা রক্ষিত হয়েছে, এর তিনটি পবিত্র পুষ্করিণী ও তেবারম ঐতিহ্য একে কাবেরী বদ্বীপ অঞ্চলের সম্মানিত শিব তীর্থগুলির মধ্যে ধরে রেখেছে।",
+    "architecture": "চোল যুগের দ্রাবিড় রীতিতে নির্মিত, মন্দিরটি গোপুরম মিনারযুক্ত প্রবেশপথের মধ্য দিয়ে প্রবেশযোগ্য প্রাচীরবেষ্টিত প্রাঙ্গণে তার তীর্থগুলি একত্র করে। শ্বেতারণ্যেশ্বররের গর্ভগৃহে শিবলিঙ্গ অধিষ্ঠিত, দেবী ব্রহ্ম বিদ্যা নায়কী তাঁর নিজস্ব মন্দিরে এবং বুদ্ধির গ্রহ বুধের জন্য একটি পৃথক মন্দির রয়েছে। মন্দিরটি তার কাঁসার মূর্তিগুলির জন্য বিখ্যাত, সবচেয়ে বেশি অঘোর মূর্তি রূপে শিবের উগ্র অথচ কৃপাদায়ী রূপ, যা অত্যন্ত শ্রদ্ধেয় এক প্রতিমা। এই স্থানের সঙ্গে তিনটি তীর্থম বা পবিত্র পুষ্করিণী যুক্ত, এবং প্রস্তরমণ্ডপ ও স্তম্ভশোভিত কক্ষগুলি চোল শিল্পকর্মের সংযত, সুসমঞ্জস চরিত্র বহন করে।",
+    "legends": "শ্বেতারণ্য নাম, শ্বেত অরণ্য, সেই ঋষিগণ ও শ্বেত হস্তীর ঐতিহ্যকে স্মরণ করায় যাঁরা এখানে শিবের পূজা করেছিলেন বলে কথিত এবং এই স্থানকে পবিত্রতা দান করেছিলেন। মন্দিরের কেন্দ্রীয় কাহিনি বুধের, বুধগ্রহের অধিকারী: এই তীর্থে নিষ্ঠাভরে পূজা করে বুধ নবগ্রহ, অর্থাৎ নয়টি স্বর্গীয় জ্যোতিষ্কের মধ্যে তাঁর স্থান লাভ করেছিলেন বলে কথিত। যেহেতু বুধ বুদ্ধি, বাক্‌, বিদ্যা ও বাণিজ্যের অধিপতি, ভক্তরা এখানে আসেন তীক্ষ্ণ মনন, স্পষ্ট প্রকাশ, অধ্যয়ন ও ব্যবসায় সাফল্য এবং বুধ দোষ নামে পরিচিত বাধা থেকে মুক্তির প্রার্থনা করতে।",
+    "festivals": "বুধের দিন বুধবার মন্দিরের সবচেয়ে শুভ সময়, যা অভিষেকম ও বুদ্ধির গ্রহকে প্রদীপ নিবেদনের জন্য ভক্তদের আকৃষ্ট করে। প্রদোষম শিবের প্রতি বিশেষ ভক্তিসহকারে পালিত হয়, এবং তামিল আড়ি ও মাসি মাসের মহোৎসবগুলি বর্ষপঞ্জিকে চিহ্নিত করে। সারা বছর উপাসকরা বিদ্যা ও স্বচ্ছ বাকশক্তির কামনায় নিবেদন করেন, এবং পাক্ষিক ও মাসিক আচারগুলি তীর্থে আচারস্নান, প্রদীপ ও প্রার্থনার এক স্থির ছন্দ বজায় রাখে।",
+    "experience": "তিরুবেঙ্কাডুতে দর্শন নিস্তব্ধ ও ধ্যানমগ্ন, সিরকাষি থেকে স্বল্প দূরত্বে উপকূলের কাছে সবুজ বদ্বীপ অঞ্চলে অবস্থিত। ভক্তরা শ্বেতারণ্যেশ্বররের গর্ভগৃহ থেকে বুধের মন্দিরে যান, প্রদীপ জ্বালিয়ে স্বচ্ছ মন ও স্থির বাকশক্তির জন্য প্রার্থনা নিবেদন করেন। শ্রদ্ধেয় অঘোর মূর্তির কাঁসার প্রতিমা বিশেষ ভক্তি আকর্ষণ করে। সকালে আসুন, যখন প্রাতঃকালীন অভিষেকম সম্পন্ন হয় এবং কক্ষগুলি শীতল থাকে, অথবা সন্ধ্যার প্রদীপালোকে; বুধবার বিশেষভাবে ব্যস্ত থাকে বুধের কৃপা প্রার্থীদের দ্বারা।"
   },
   "visit": {
-    "timings": "Open roughly 6:00 am to 12:30 pm and 4:00 pm to 8:30 pm; verify locally as hours vary with festivals.",
-    "dressCode": "Modest traditional dress; remove footwear before entering the temple.",
-    "photography": "Photography inside the sanctum is generally not permitted; ask temple staff before photographing elsewhere.",
-    "gettingThere": "Thiruvenkadu lies near Sirkazhi in Mayiladuthurai district, about 20 km from Sirkazhi and close to the coast. The nearest rail access is via Sirkazhi, with Mayiladuthurai as the nearest hub; the nearest airport is Tiruchirappalli, about 160 km away."
+    "timings": "আনুমানিক সকাল ৬টা থেকে দুপুর ১২টা ৩০ এবং বিকাল ৪টা থেকে রাত ৮টা ৩০ পর্যন্ত খোলা; উৎসব অনুসারে সময় বদলায়, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক; মন্দিরে প্রবেশের আগে জুতো খুলে রাখুন।",
+    "photography": "গর্ভগৃহের ভেতরে ছবি তোলা সাধারণত অনুমোদিত নয়; অন্যত্র ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবেঙ্কাডু ময়িলাড়ুতুরৈ জেলার সিরকাষির কাছে অবস্থিত, সিরকাষি থেকে প্রায় ২০ কিমি দূরে এবং উপকূলের নিকটবর্তী। নিকটতম রেলপথ সিরকাষি হয়ে, ময়িলাড়ুতুরৈ নিকটতম কেন্দ্র; নিকটতম বিমানবন্দর তিরুচিরাপল্লি, প্রায় ১৬০ কিমি দূরে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thiruvenkadu-swetaranyeswarar.mp3",
+    "durationSec": 235
   }
 }

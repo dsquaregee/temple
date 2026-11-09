@@ -1,30 +1,37 @@
 {
   "id": "jagannath-puri",
   "locale": "bn",
+  "name": "জগন্নাথ মন্দির, পুরী",
   "nativeName": "ଶ୍ରୀ ଜଗନ୍ନାଥ ମନ୍ଦିର",
+  "deity": "জগন্নাথ, জগতের অধীশ্বর, তাঁর ভ্রাতা বলভদ্র, ভগিনী সুভদ্রা ও সুদর্শনের সঙ্গে পূজিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Puri",
-    "state": "Odisha",
+    "city": "পুরী",
+    "state": "ওড়িশা",
     "lat": 19.8047,
     "lng": 85.8183
   },
+  "period": "বর্তমান মন্দিরটি দ্বাদশ শতাব্দীতে পূর্ব গঙ্গ বংশের অধীনে নির্মিত; চার ধামের একটি",
   "century": 12,
+  "dynasty": "পূর্ব গঙ্গ, পরে ওড়িশার গজপতি রাজারা",
+  "style": "কলিঙ্গ (ওড়িশা মন্দির স্থাপত্য)",
   "unesco": false,
   "circuits": [
     "char-dham"
   ],
+  "summary": "বঙ্গোপসাগরের তীরে এক উত্তুঙ্গ কলিঙ্গ মন্দিরে জগন্নাথ বলভদ্র ও সুভদ্রার সঙ্গে বিরাজমান — চার ধামের পূর্বাঞ্চলীয় আসন, মহান রথযাত্রা ও সর্বজনে ভাগ করে নেওয়া মহাপ্রসাদের আবাস।",
   "sections": {
-    "history": "The great temple of Jagannath at Puri, the Shree Mandira, rose in the twelfth century under Anantavarman Chodaganga Deva, founder of the Eastern Ganga line in Odisha, and was carried forward by his successors, notably Anangabhima Deva III, who honoured Jagannath as the true sovereign of the kingdom. Later Gajapati kings added halls and endowments, and the ruler of Puri still serves the deity as his first servant, sweeping the chariots with a golden broom at the Rath Yatra. The shrine is the eastern seat of the Char Dham, the four great pilgrimages linked by tradition to Adi Shankara, whose Govardhana Matha stands in the town. Within its walls the Vimala shrine is revered as a Shakti Peetha, and the vast temple kitchen sustains a daily life of worship that has continued for more than eight centuries.",
-    "architecture": "The temple is a masterpiece of the Kalinga style, its four structures set in a single line: the vimana, a curving rekha deula rising some sixty-five metres over the sanctum; the jagamohana, a pyramid-roofed assembly hall; the natamandapa for music and dance; and the bhogamandapa for offerings. The summit carries the Nila Chakra, an eight-spoked wheel, where a fresh flag is hoisted every day. Two walls enclose the complex — the outer Meghanada Pacheri and the inner Kurma Bheda — pierced by four gates, of which the eastern Singhadwara, guarded by lions and fronted by the Aruna Stambha, is the principal entrance.",
-    "legends": "The temple's story begins with King Indradyumna, who longed to see Nila Madhava, a form of Vishnu worshipped in secret by the forest chief Vishwavasu. His priest Vidyapati found the hidden shrine, but the deity vanished, and the king was told in a dream to seek a sacred log that would drift ashore at Puri. An aged carpenter — Vishwakarma, or the Lord himself, in tradition — agreed to carve the images behind closed doors on condition he was left undisturbed. When the anxious queen opened the doors too soon, he was gone, leaving the images in the form worshipped to this day.",
-    "festivals": "The Rath Yatra in Ashadha is Puri's defining festival: Jagannath, Balabhadra and Subhadra ride out on three towering wooden chariots — Nandighosa, Taladhwaja and Darpadalana — drawn by vast crowds to the Gundicha temple and back. It is preceded by the Snana Yatra bathing festival on the Jyeshtha full moon. Chandan Yatra and, in certain years, the Nabakalebara renewal of the wooden images are also great occasions; confirm dates locally.",
-    "experience": "Puri is a town shaped by its temple: the broad Bada Danda runs from the Singhadwara towards the Gundicha temple, pilgrims bathe in the sea at Swargadwar, and the Ananda Bazar within the complex offers Mahaprasad cooked in earthen pots. Devotees often watch for the daily flag-changing on the summit. The Sun Temple at Konark and the temples of Bhubaneswar lie within easy reach."
+    "history": "পুরীর জগন্নাথের মহান মন্দির, শ্রীমন্দির, দ্বাদশ শতাব্দীতে ওড়িশায় পূর্ব গঙ্গ বংশের প্রতিষ্ঠাতা অনন্তবর্মন চোড়গঙ্গ দেবের অধীনে নির্মিত হয়, এবং তাঁর উত্তরসূরিরা, বিশেষত অনঙ্গভীম দেব তৃতীয়, যিনি জগন্নাথকে রাজ্যের প্রকৃত অধীশ্বর রূপে সম্মান করতেন, একে এগিয়ে নিয়ে যান। পরবর্তী গজপতি রাজারা মণ্ডপ ও দান যুক্ত করেন, এবং পুরীর শাসক আজও দেবতার প্রথম সেবক রূপে রথযাত্রায় সোনার ঝাঁটা দিয়ে রথ ঝাড়ু দেন। এই মন্দির চার ধামের পূর্বাঞ্চলীয় আসন, আদি শঙ্করের সঙ্গে পরম্পরায় যুক্ত চারটি মহাতীর্থের একটি, যাঁর গোবর্ধন মঠ এই নগরে অবস্থিত। এর প্রাচীরের মধ্যে বিমলা মন্দির একটি শক্তিপীঠ রূপে পূজিত, এবং বিশাল মন্দির রন্ধনশালা আট শতাব্দীরও অধিক কাল ধরে চলমান দৈনন্দিন পূজা-অর্চনার ধারা টিকিয়ে রাখে।",
+    "architecture": "মন্দিরটি কলিঙ্গ শৈলীর এক শিল্পকীর্তি, এর চারটি কাঠামো একটি একক সরলরেখায় স্থাপিত: বিমান, গর্ভগৃহের উপর প্রায় পঁয়ষট্টি মিটার উঁচু একটি বক্র রেখা দেউল; জগমোহন, এক পিরামিড-ছাদযুক্ত সভাগৃহ; সংগীত ও নৃত্যের জন্য নটমণ্ডপ; এবং নৈবেদ্যের জন্য ভোগমণ্ডপ। চূড়ায় রয়েছে নীলচক্র, একটি আট-অর শকট চাকা, যেখানে প্রতিদিন একটি নতুন পতাকা উত্তোলন করা হয়। দুটি প্রাচীর প্রাঙ্গণটি ঘিরে রাখে — বাইরের মেঘনাদ পাচেরি ও ভিতরের কূর্ম ভেদ — চারটি তোরণে বিদ্ধ, যার মধ্যে সিংহপ্রহরাযুক্ত ও অরুণ স্তম্ভের সম্মুখস্থ পূর্বদিকের সিংহদ্বার প্রধান প্রবেশপথ।",
+    "legends": "মন্দিরের কাহিনি শুরু হয় রাজা ইন্দ্রদ্যুম্নকে দিয়ে, যিনি নীলমাধব দর্শনের জন্য ব্যাকুল ছিলেন — বিষ্ণুর একটি রূপ যা বন-অধিপতি বিশ্বাবসু গোপনে পূজা করতেন। তাঁর পুরোহিত বিদ্যাপতি গুপ্ত মন্দিরটি খুঁজে পান, কিন্তু দেবতা অন্তর্হিত হন, এবং রাজাকে স্বপ্নে বলা হয় এমন এক পবিত্র কাষ্ঠখণ্ড অন্বেষণ করতে যা পুরীর তীরে ভেসে আসবে। এক বৃদ্ধ সূত্রধর — পরম্পরায় বিশ্বকর্মা, বা স্বয়ং প্রভু — এই শর্তে রুদ্ধদ্বারে মূর্তিগুলি খোদাই করতে সম্মত হন যে তাঁকে বিরক্ত করা হবে না। উদ্বিগ্ন রানি যখন সময়ের আগেই দরজা খুলে দেন, তিনি অন্তর্হিত হয়ে যান, মূর্তিগুলিকে আজও পূজিত সেই রূপেই রেখে যান।",
+    "festivals": "আষাঢ় মাসে রথযাত্রা পুরীর নির্ধারক উৎসব: জগন্নাথ, বলভদ্র ও সুভদ্রা তিনটি সুউচ্চ কাষ্ঠরথে — নন্দিঘোষ, তালধ্বজ ও দর্পদলন — আরূঢ় হয়ে বিপুল জনতার টানে গুন্ডিচা মন্দিরে যান ও ফিরে আসেন। এর পূর্বে জ্যৈষ্ঠের পূর্ণিমায় স্নানযাত্রা স্নান উৎসব হয়। চন্দনযাত্রা এবং কোনো কোনো বছরে কাষ্ঠমূর্তিগুলির নবকলেবর পুনর্নবীকরণও মহান উপলক্ষ; তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "পুরী একটি মন্দির-গঠিত নগর: প্রশস্ত বড় দান্ড সিংহদ্বার থেকে গুন্ডিচা মন্দিরের দিকে চলে গেছে, তীর্থযাত্রীরা স্বর্গদ্বারে সমুদ্রে স্নান করেন, এবং প্রাঙ্গণের মধ্যে আনন্দ বাজারে মাটির পাত্রে রান্না করা মহাপ্রসাদ পাওয়া যায়। ভক্তরা প্রায়ই চূড়ায় প্রতিদিনের পতাকা-পরিবর্তনের অপেক্ষায় থাকেন। কোণার্কের সূর্যমন্দির ও ভুবনেশ্বরের মন্দিরগুলি সহজ নাগালের মধ্যে।"
   },
   "visit": {
-    "timings": "Open daily from early morning until late at night, with closures during certain rituals; festival days, especially the Rath Yatra season, bring very large crowds. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected; footwear, leather items and mobile phones are left outside. By long-standing temple tradition, only Hindus are admitted inside; others may respectfully view the temple from outside and share the Rath Yatra, which takes place on the open road.",
-    "photography": "Cameras and mobile phones are not permitted inside the temple; photography of the exterior is possible from the street.",
-    "gettingThere": "Puri is on the Odisha coast and has its own railway station with direct trains from across India. The nearest airport is Biju Patnaik International Airport in Bhubaneswar, about 60 km away by road."
+    "timings": "প্রতিদিন ভোর থেকে গভীর রাত পর্যন্ত খোলা থাকে, কিছু আচার-অনুষ্ঠানের সময় বন্ধ থাকে; উৎসবের দিনগুলিতে, বিশেষত রথযাত্রার মরশুমে অত্যন্ত বিপুল ভিড় হয়। ভ্রমণের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন পারম্পরিক পোশাক প্রত্যাশিত; জুতো, চর্মজাত দ্রব্য ও মোবাইল ফোন বাইরে রেখে যেতে হয়। দীর্ঘ পরম্পরা অনুসারে কেবল হিন্দুদেরই ভিতরে প্রবেশের অনুমতি আছে; অন্যরা শ্রদ্ধাসহকারে বাইরে থেকে মন্দির দর্শন করতে পারেন এবং রথযাত্রায় অংশ নিতে পারেন, যা উন্মুক্ত পথেই অনুষ্ঠিত হয়।",
+    "photography": "মন্দিরের ভিতরে ক্যামেরা ও মোবাইল ফোন অনুমোদিত নয়; বাইরের অংশের আলোকচিত্র রাস্তা থেকে নেওয়া সম্ভব।",
+    "gettingThere": "পুরী ওড়িশার উপকূলে অবস্থিত এবং এর নিজস্ব রেলস্টেশন আছে, যেখানে সারা ভারত থেকে সরাসরি ট্রেন আসে। নিকটতম বিমানবন্দর ভুবনেশ্বরের বিজু পট্টনায়ক আন্তর্জাতিক বিমানবন্দর, সড়কপথে প্রায় ৬০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/jagannath-puri.jpg",

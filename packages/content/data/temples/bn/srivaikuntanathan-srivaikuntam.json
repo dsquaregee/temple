@@ -1,31 +1,42 @@
 {
   "id": "srivaikuntanathan-srivaikuntam",
   "locale": "bn",
+  "name": "শ্রীবৈকুণ্ঠনাথন পেরুমাল মন্দির, শ্রীবৈকুণ্ঠম",
   "nativeName": "ஸ்ரீவைகுண்டநாதன் பெருமாள் கோயில், ஸ்ரீவைகுண்டம்",
+  "deity": "শ্রী বৈকুণ্ঠনাথন (কল্লপিরান) রূপে বিষ্ণু, দেবী বৈকুণ্ঠবল্লীর সঙ্গে — নব তিরুপতির মধ্যে সূর্যের (সূর্য) তীর্থ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Srivaikuntam",
-    "state": "Tamil Nadu",
+    "city": "শ্রীবৈকুণ্ঠম",
+    "state": "তামিলনাড়ু",
     "lat": 8.633,
     "lng": 77.917
   },
+  "period": "তাম্রপর্ণীর তীরে পাণ্ড্য দেশের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে নম্মালবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "পাণ্ড্য (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "সুদূর দক্ষিণে তাম্রপর্ণীর তীরে, বিষ্ণু দাঁড়িয়ে আছেন শ্রী বৈকুণ্ঠনাথন, বৈকুণ্ঠের প্রভু রূপে—নয়টি গ্রহ তিরুপতির মধ্যে সূর্য, নম্মালবার কর্তৃক স্তুত একটি দিব্য দেশম এবং নয়টি নদীতীরের তীর্থের মধ্যে একটি প্রধান।",
   "sections": {
-    "history": "Srivaikuntam lies on the north bank of the Tamiraparani, a short way from Tirunelveli, and takes its name from the lord Sri Vaikuntanathan who reclines at its heart, also beloved as Kallapiran. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of the Sun, Surya.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Sri Vaikuntanathan, with the Goddess Vaikuntavalli. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Srivaikuntam the planet is the Sun, Surya, whose grace the pilgrim seeks at the head of the nine.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of the Sun, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "শ্রীবৈকুণ্ঠম তাম্রপর্ণীর উত্তর তীরে, তিরুনেলবেলি থেকে অল্প দূরে অবস্থিত, এবং এর নাম নেয় প্রভু শ্রী বৈকুণ্ঠনাথনের কাছ থেকে যিনি এর কেন্দ্রে শায়িত, কল্লপিরান নামেও প্রিয়। এটি ১০৮টি দিব্য দেশমের একটি, নালায়িরা দিব্য প্রবন্ধমে আলবার সন্তদের দ্বারা স্তুত বিষ্ণুর আবাস, এবং নব তিরুপতির একটি—তাম্রপর্ণীর নয়টি মন্দির, প্রতিটি বৈষ্ণবদের একটি গ্রহ তীর্থ হিসেবে ধৃত। নব তিরুপতির মধ্যে এটি সূর্যের তীর্থ হিসেবে সম্মানিত।",
+    "architecture": "পাণ্ড্য দেশ ও এর পরবর্তী পৃষ্ঠপোষকদের দ্রাবিড় রীতিতে নির্মিত, মন্দিরটিতে একটি প্রবেশ-তোরণের মধ্য দিয়ে ঢোকা হয় এবং প্রধান বিষ্ণুর গর্ভগৃহকে ঘিরে সমবেত, দেবী তাঁর নিজস্ব তীর্থে। এখানে প্রভু শ্রী বৈকুণ্ঠনাথন রূপে পূজিত, দেবী বৈকুণ্ঠবল্লীর সঙ্গে। গর্ভগৃহের সামনে স্তম্ভশোভিত মণ্ডপ খোলে, সুদূর দক্ষিণের মন্দির রীতিতে।",
+    "legends": "নব তিরুপতি একসঙ্গে বৈষ্ণবদের নয়টি গ্রহ তীর্থ হিসেবে পূজিত হয়: যেখানে কাবেরীর শৈব ঐতিহ্য নয়টি পৃথক নবগ্রহ মন্দির রাখে, সেখানে এখানে তাম্রপর্ণীর তীরে বিষ্ণুর নয়টি আবাস জুড়ে নয়টি গ্রহ সম্মানিত হয়, সবই নম্মালবার কর্তৃক স্তুত, আলবারদের মধ্যে অগ্রগণ্য, যাঁর নিজের জন্মস্থান আলবারতিরুনগরী তাদেরই মধ্যে। শ্রীবৈকুণ্ঠমে গ্রহটি সূর্য, যাঁর কৃপা তীর্থযাত্রী নয়টির শীর্ষে প্রার্থনা করেন।",
+    "festivals": "মন্দিরটি মহান বৈষ্ণব উৎসবগুলি পালন করে—বৈকুণ্ঠ একাদশী, গরুড় সেবৈ যখন নয়টিকে একটিমাত্র পরিক্রমায় পূজা করা হয়, এবং নম্মালবার ও আলবারদের দিনগুলি—নদীতীরের গ্রামগুলির মধ্য দিয়ে শোভাযাত্রাসহ। তাম্রপর্ণীর নিজস্ব উৎসবগুলি আশপাশের অঞ্চলকে টানে।",
+    "experience": "নয়টির মধ্যে এক শান্ত নদীতীরের দিব্য দেশম, সেই তীর্থযাত্রীর জন্য ফলপ্রসূ যিনি তাম্রপর্ণী ধরে এক তিরুপতি থেকে পরেরটিতে অনুসরণ করেন। সূর্যের তীর্থ হিসেবে, এটি নব তিরুপতির সেই একক তীর্থযাত্রায় স্থান নেয় যা নয়টি গ্রহকে বিষ্ণুর আবাসগুলিতে সমবেত করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন পর্বসহ এবং মধ্যাহ্নে একটি বিরতি সহ খোলা; গরুড় সেবৈ ও বৈকুণ্ঠ একাদশীর দিনগুলি সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; ঢোকার আগে জুতো খুলে রাখা হয়। টাঙানো নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে ছবি তোলা সীমিত; টাঙানো নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "এটি তাম্রপর্ণীর তীরে তিরুনেলবেলি–তুতিকোরিন অঞ্চলে, তিরুনেলবেলি–তিরুচেন্দুর পথে অবস্থিত, তিরুনেলবেলি থেকে সড়কপথে পৌঁছানো যায়; নয়টি তিরুপতি গ্রাম নদী বরাবর কাছাকাছি অবস্থিত।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/srivaikuntanathan-srivaikuntam.mp3",
+    "durationSec": 167
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.jpg",
@@ -37,5 +48,11 @@
       "webp": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.webp"
     },
     "og": "https://media.dsquaregee.com/og/srivaikuntanathan-srivaikuntam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/srivaikuntanathan-srivaikuntam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.jpg",
+    "durationSec": 126,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

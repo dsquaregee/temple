@@ -1,29 +1,36 @@
 {
   "id": "sundareswarar-tirukkalikkamur",
   "locale": "bn",
+  "name": "সুন্দরেশ্বর মন্দির, তিরুক্কলিক্কামুর",
   "nativeName": "திருக்கலிக்காமூர் சுந்தரேஸ்வரர் கோயில்",
+  "deity": "শিব সুন্দরেশ্বর (বিল্ববন নাথর) রূপে, দেবী অঝগম্মাই সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Annappanpettai",
-    "state": "Tamil Nadu",
+    "city": "অন্নাপ্পনপেট্টাই",
+    "state": "তামিলনাড়ু",
     "lat": 11.17,
     "lng": 79.79
   },
+  "period": "কাবেরীর উত্তর তীরের প্রাচীন শৈব তীর্থ, তেবারমে স্তুত (সপ্তম শতাব্দী); চোল আমলে প্রস্তরে পুনর্নির্মিত ও পরবর্তী পৃষ্ঠপোষকদের দ্বারা সংস্কৃত",
   "century": 7,
+  "dynasty": "চোল (প্রস্তর পুনর্নির্মাণ), পরবর্তী মারাঠা সংস্কারসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "অন্নাপ্পনপেট্টাই গ্রামের সুন্দরেশ্বর মন্দির হলো তেবারমের তিরুক্কলিক্কামুর, এক ছোট ও শান্ত চোল নাডু তীর্থ যেখানে পূজায় ঋষি পরাশরকে স্মরণ করা হয় এবং যেখানে শিব সেই প্রভু রূপে সম্মানিত যিনি এক কঠিন যুগের দুঃখভার লাঘব করেন।",
   "sections": {
-    "history": "Annappanpettai lies on the northern side of the Kaveri, in the country of old Chola Nadu not far from Sirkazhi. In the Tevaram hymns the place is called Tirukkalikkamur, and the child-saint Sambandar sang its Lord, which makes the temple a Paadal Petra Sthalam. The old name Kalikamur is explained by the faithful as the town where Shiva removes the hardships of the age of strife, the kali yuga. Local accounts speak of a very early foundation, of a rebuilding in stone under the Cholas around the tenth century, and of renovation by the Marathas in later times. These dates come from temple tradition rather than firm inscriptions, but the shrine itself has stayed in unbroken worship for well over a thousand years.",
-    "architecture": "This is a small and unassuming temple, and it makes no claim to grandeur. It has no towering rajagopuram and no flagstaff; instead the visitor enters beneath a graceful arch at the gateway. Within, the sanctum of Sundareswarar holds the Shiva linga, and the goddess Azhagammai is honoured in her own shrine. Ganesha is worshipped here as Selva Siddhi Vinayaka, the giver of prosperity and success. One detail that visitors remember is the group of Navagrahas, the nine planetary deities, who stand upright without the animal mounts that usually accompany them in other temples.",
-    "legends": "Tradition holds that the sage Parasara, the father of Vyasa, came to this place to worship Shiva, and that the Lord granted him his vision here. The sage is said to have asked the Lord to remain with the people of the place, and Shiva agreed, abiding as Sundareswarar, the beautiful lord. The countryside was once thick with vilva trees, the leaf most dear to Shiva, and from this the Lord is also called Vilvavana Nathar, the lord of the vilva forest. The very name of the town carries a gentler promise: that those who come here in trouble will find the weight of the age lifted from them.",
-    "festivals": "The temple keeps the rhythm of Shaiva worship through the year. Maha Shivaratri is observed with night-long worship, and the monthly Pradosham draws devotees in the evening hour sacred to Shiva. Utsavams follow the Tamil calendar and are celebrated by the villagers with simple devotion. Specific festival dates and processions are not recorded in the sources we could verify, so please confirm them locally, especially in the months of Masi and Panguni.",
-    "experience": "Come to Tirukkalikkamur for stillness rather than spectacle. The village is small and the temple smaller still, and a visit here is a slow, quiet one: pass beneath the arch, stand before Sundareswarar, then turn to Azhagammai in her shrine. Look for the Navagrahas standing without their mounts, and spend a few moments in the corridor with the hymns of Sambandar in mind. The temple is easily combined with the other Tevaram shrines scattered through the Sirkazhi countryside, and pilgrims often come here as one stop on a longer circuit of the northern Kaveri bank."
+    "history": "অন্নাপ্পনপেট্টাই কাবেরীর উত্তর দিকে, সিরকাঝির অদূরে পুরনো চোল নাডুর ভূমিতে অবস্থিত। তেবারম স্তোত্রে স্থানটিকে তিরুক্কলিক্কামুর বলা হয়, এবং শিশু-সাধক সম্বন্দর এর প্রভুকে স্তব করেছিলেন, যা মন্দিরটিকে এক পাডল পেট্র স্থলম করে তোলে। পুরনো নাম কলিকামুরকে ভক্তরা ব্যাখ্যা করেন সেই শহর হিসেবে যেখানে শিব কলহযুগ, কলিযুগের কষ্ট দূর করেন। স্থানীয় বিবরণে এক অতি প্রাচীন প্রতিষ্ঠার, দশম শতাব্দীর আশেপাশে চোলদের অধীনে প্রস্তরে পুনর্নির্মাণের, এবং পরবর্তীকালে মারাঠাদের দ্বারা সংস্কারের কথা বলা হয়। এই তারিখগুলি দৃঢ় শিলালিপির বদলে মন্দির ঐতিহ্য থেকে এসেছে, তবে তীর্থটি নিজে এক হাজার বছরেরও বেশি সময় ধরে অবিচ্ছিন্ন পূজায় রয়েছে।",
+    "architecture": "এটি এক ছোট ও সাদামাটা মন্দির, এবং এটি কোনো জাঁকজমকের দাবি করে না। এর কোনো সুউচ্চ রাজগোপুরম নেই এবং কোনো ধ্বজস্তম্ভ নেই; বরং দর্শনার্থী প্রবেশদ্বারে এক সুদৃশ্য তোরণের নিচ দিয়ে প্রবেশ করেন। ভেতরে সুন্দরেশ্বরের গর্ভগৃহে শিবলিঙ্গ রয়েছে, এবং দেবী অঝগম্মাই তাঁর নিজস্ব তীর্থে সম্মানিত। গণেশ এখানে সেল্ব সিদ্ধি বিনায়ক রূপে পূজিত, সমৃদ্ধি ও সাফল্যের দাতা। যে বৈশিষ্ট্যটি দর্শনার্থীরা মনে রাখেন তা হলো নবগ্রহের সমষ্টি, নয় গ্রহদেবতা, যাঁরা অন্য মন্দিরে সাধারণত যে পশুবাহনসহ থাকেন তা ছাড়াই ঋজু হয়ে দাঁড়িয়ে আছেন।",
+    "legends": "ঐতিহ্য বলে যে ব্যাসের পিতা ঋষি পরাশর এই স্থানে শিবের পূজা করতে এসেছিলেন, এবং প্রভু এখানে তাঁকে দর্শন দিয়েছিলেন। ঋষি প্রভুকে স্থানটির মানুষের সঙ্গে অবস্থান করতে অনুরোধ করেন বলা হয়, এবং শিব সম্মত হন, সুন্দরেশ্বর, সুন্দর প্রভু রূপে অধিষ্ঠিত থাকেন। চারপাশের অঞ্চল একসময় বিল্ববৃক্ষে ঘন ছিল, শিবের সবচেয়ে প্রিয় পাতা, এবং এর থেকেই প্রভুকে বিল্ববন নাথর, বিল্ববনের প্রভুও বলা হয়। শহরের নামটিই এক কোমলতর প্রতিশ্রুতি বহন করে: যাঁরা দুঃখে এখানে আসেন তাঁরা তাঁদের উপর থেকে যুগের ভার লাঘব হতে দেখবেন।",
+    "festivals": "মন্দিরটি সারা বছর শৈব পূজার ছন্দ রক্ষা করে। মহাশিবরাত্রি রাত্রিব্যাপী পূজায় পালিত হয়, এবং মাসিক প্রদোষম শিবের পবিত্র সান্ধ্যকালে ভক্তদের টেনে আনে। উৎসবগুলি তামিল পঞ্জিকা অনুসরণ করে এবং গ্রামবাসীরা সরল ভক্তিতে তা উদযাপন করেন। আমরা যে সূত্রগুলি যাচাই করতে পেরেছি তাতে নির্দিষ্ট উৎসবের তারিখ ও শোভাযাত্রা নথিভুক্ত নেই, তাই বিশেষত মাসি ও পঙ্গুনি মাসে তা স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "তিরুক্কলিক্কামুরে আসুন জাঁকজমকের বদলে নীরবতার জন্য। গ্রামটি ছোট আর মন্দিরটি আরও ছোট, এবং এখানকার দর্শন মন্থর ও শান্ত: তোরণের নিচ দিয়ে যান, সুন্দরেশ্বরের সামনে দাঁড়ান, তারপর ফিরুন তাঁর তীর্থে অঝগম্মাইয়ের দিকে। বাহন ছাড়া দাঁড়িয়ে থাকা নবগ্রহের খোঁজ করুন, এবং সম্বন্দরের স্তোত্র মনে রেখে প্রদক্ষিণপথে কয়েক মুহূর্ত কাটান। সিরকাঝি অঞ্চলে ছড়িয়ে থাকা অন্য তেবারম তীর্থগুলির সঙ্গে মন্দিরটি সহজেই যুক্ত করা যায়, এবং তীর্থযাত্রীরা প্রায়শই উত্তর কাবেরী তীরের এক দীর্ঘতর পরিক্রমার এক স্টপ হিসেবে এখানে আসেন।"
   },
   "visit": {
-    "timings": "Reported as open for a short morning session and again from late afternoon until evening, roughly 8:00 to 10:00 and 5:00 to 7:30; village temples keep varying hours, so confirm locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but not inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask the priest before photographing rituals or worshippers.",
-    "gettingThere": "Annappanpettai is about 14 km from Sirkazhi on the Sirkazhi to Thiruvenkadu road, by way of Mangaimadam, and town buses running from Sirkazhi towards Konaiyampattinam pass through the village. Sirkazhi and Mayiladuthurai are the nearest railway stations. Tiruchirappalli is the nearest major airport, a long road journey away, so most pilgrims travel by road or rail from Sirkazhi."
+    "timings": "সকালে অল্প সময়ের জন্য এবং আবার শেষ বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা বলে জানা যায়, মোটামুটি ৮টা থেকে ১০টা এবং ৫টা থেকে ৭টা ৩০; গ্রামের মন্দির বিভিন্ন সময়ে খোলা থাকে, তাই বিশেষত উৎসবের দিনে স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা ঘাগরা, কাঁধ ও হাঁটু ঢাকা। প্রবেশদ্বারের বাইরে জুতো রেখে যেতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে বাইরের প্রদক্ষিণপথ ও প্রাঙ্গণে সাধারণত আলোকচিত্র গ্রহণের অনুমতি আছে, তবে ভেতরের গর্ভগৃহে নয়। আচার বা ভক্তদের ছবি তোলার আগে পুরোহিতকে জিজ্ঞাসা করুন।",
+    "gettingThere": "অন্নাপ্পনপেট্টাই মঙ্গৈমাডম হয়ে সিরকাঝি থেকে তিরুবেঙ্কাডু সড়কে সিরকাঝি থেকে প্রায় ১৪ কিমি দূরে, এবং সিরকাঝি থেকে কোনৈয়াম্পট্টিনমের দিকে চলা শহুরে বাস গ্রামের মধ্য দিয়ে যায়। সিরকাঝি ও ময়িলাড়ুথুরৈ নিকটতম রেলস্টেশন। তিরুচিরাপল্লী নিকটতম বড় বিমানবন্দর, সড়কপথে দীর্ঘ পথ, তাই অধিকাংশ তীর্থযাত্রী সিরকাঝি থেকে সড়ক বা রেলপথে যাতায়াত করেন।"
   }
 }

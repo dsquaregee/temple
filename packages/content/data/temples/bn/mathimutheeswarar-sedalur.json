@@ -1,29 +1,36 @@
 {
   "id": "mathimutheeswarar-sedalur",
   "locale": "bn",
+  "name": "মতি-মুক্তীশ্বরর মন্দির, সেতলাপতি (তিরুত্তিলদৈপতি)",
   "nativeName": "திருத்திலதைப்பதி மதிமுக்தீஸ்வரர் கோயில்",
+  "deity": "মতি-মুক্তীশ্বরর (মুক্তীশ্বরর, মুক্তির প্রভু) রূপে শিব, দেবী পোরকোডি নায়কীর (স্বর্ণবল্লী, মরকতবল্লী) সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেত্র স্থলম",
   "location": {
-    "city": "Sethalapathy, via Poonthottam",
-    "state": "Tamil Nadu",
+    "city": "সেতলাপতি, পূনতোট্টম হয়ে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9439,
     "lng": 79.6357
   },
+  "period": "তেবারম যুগ (৭ম শতাব্দীতে কীর্তিত); পরবর্তী চোল নির্মাণ মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরী ব-দ্বীপে পূনতোট্টমের নিকটে অবস্থিত সেতলাপতি, তেবারমের তিরুত্তিলদৈপতি, শিবকে মতি-মুক্তীশ্বরর — মুক্তির প্রভু — রূপে পূজা করে, দেবী পোরকোডি নায়কীর সঙ্গে, যাঁকে স্বর্ণবল্লীও বলা হয়। তিরুগ্ঞান সম্বন্দর কর্তৃক কীর্তিত এই পাডল পেত্র স্থলম কাবেরীর দক্ষিণ তীরে একটি ছোট মন্দির, যার নামই মুক্তির প্রতিশ্রুতি বহন করে।",
   "sections": {
-    "history": "Sethalapathy, the Tiruthiladaipathi of the Tevaram hymns, lies near Poonthottam, about 25 km from Mayiladuthurai, in Tiruvarur district on the southern bank of the Kaveri (older listings place it in Nagapattinam). It is a Paadal Petra Sthalam, hymned by Tirugnana Sambandar in the second Thirumurai. The stone temple is of the Chola period and later, standing over a site held sacred since the age of the Tevaram saints; by local account the temple received land from a king remembered in its history.",
-    "architecture": "A Dravidian delta shrine of modest scale, the temple enshrines Mathi-Muktheeswarar — Muktheeswarar, the lord of liberation — in the sanctum, with the goddess Porkodi Nayaki, also called Swarnavalli and Maragathavalli, in her own shrine, a Nandi and the parivara devatas. The temple keeps the simple, well-ordered plan of the smaller Kaveri-bank sanctuaries.",
-    "legends": "The lord's name Muktheeswarar — 'the lord of mukti, of release' — carries the central promise of the place: that worship here grants liberation. The goddess's names, Porkodi Nayaki and Swarnavalli, both mean 'the golden creeper,' a graceful image of Devi. The sthala tradition, like that of many smaller delta shrines, is preserved chiefly in local memory and the verses of Sambandar, and the village name is linked to the offering of tila (sesame) in the ancestral rites that the delta's rivers invite.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail of the southern Kaveri include Sethalapathy among their stops.",
-    "experience": "At Sethalapathy the pilgrim comes to a small shrine whose name itself speaks of liberation. Before Mathi-Muktheeswarar and the golden-creeper goddess Porkodi Nayaki, the visitor finds the unhurried grace of a delta sanctuary that has kept the Tevaram's promise of mukti alive on the southern bank of the Kaveri."
+    "history": "সেতলাপতি, তেবারম স্তোত্রের তিরুত্তিলদৈপতি, পূনতোট্টমের নিকটে, মায়িলাদুতুরৈ থেকে প্রায় ২৫ কিমি দূরে, কাবেরীর দক্ষিণ তীরে তিরুবারুর জেলায় অবস্থিত (পুরনো তালিকায় একে নাগপট্টিনমে রাখা হয়)। এটি একটি পাডল পেত্র স্থলম, দ্বিতীয় তিরুমুরৈতে তিরুগ্ঞান সম্বন্দর কর্তৃক কীর্তিত। পাথরের মন্দিরটি চোল যুগ ও পরবর্তীকালের, তেবারম সন্তদের যুগ থেকে পবিত্র বলে গণ্য একটি স্থানের উপর দাঁড়িয়ে; স্থানীয় বিবরণ অনুসারে মন্দিরটি তার ইতিহাসে স্মরণীয় এক রাজার কাছ থেকে জমি পেয়েছিল।",
+    "architecture": "মাঝারি আকারের একটি দ্রাবিড় ব-দ্বীপ মন্দির, এটি গর্ভগৃহে মতি-মুক্তীশ্বরর — মুক্তীশ্বরর, মুক্তির প্রভু — কে ধারণ করে, দেবী পোরকোডি নায়কী, যাঁকে স্বর্ণবল্লী ও মরকতবল্লীও বলা হয়, তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাসহ। মন্দিরটি ছোট কাবেরী-তীরের তীর্থগুলির সরল, সুবিন্যস্ত পরিকল্পনা ধরে রাখে।",
+    "legends": "প্রভুর নাম মুক্তীশ্বরর — 'মুক্তির প্রভু, মোক্ষের প্রভু' — স্থানটির কেন্দ্রীয় প্রতিশ্রুতি বহন করে: এখানে পূজা মুক্তি দান করে। দেবীর নাম, পোরকোডি নায়কী ও স্বর্ণবল্লী, উভয়েরই অর্থ 'সোনালি লতা,' দেবীর এক মনোরম চিত্র। অন্যান্য ছোট ব-দ্বীপ তীর্থের মতোই, স্থল ঐতিহ্য প্রধানত স্থানীয় স্মৃতি ও সম্বন্দরের পদে সংরক্ষিত, এবং গ্রামের নামটি পূর্বপুরুষের আচারে তিল নিবেদনের সঙ্গে যুক্ত, যে আচার ব-দ্বীপের নদীগুলি আহ্বান করে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈর সোমবারগুলি, প্রদোষ পূজাসহ, একটি গ্রাম্য মন্দিরের নিস্তব্ধ মাপে পালন করে। দক্ষিণ কাবেরীর পাডল পেত্র পথের তীর্থযাত্রীরা তাঁদের ভ্রমণে সেতলাপতিকে অন্তর্ভুক্ত করেন।",
+    "experience": "সেতলাপতিতে তীর্থযাত্রী এমন এক ছোট মন্দিরে আসেন যার নামই মুক্তির কথা বলে। মতি-মুক্তীশ্বরর ও সোনালি-লতা দেবী পোরকোডি নায়কীর সামনে, দর্শনার্থী এক ব-দ্বীপ তীর্থের নিরুদ্বিগ্ন মাধুর্য খুঁজে পান যা কাবেরীর দক্ষিণ তীরে তেবারমের মুক্তির প্রতিশ্রুতি জীবন্ত রেখেছে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sethalapathy is near Poonthottam, about 3 km away, on the Tiruvarur–Mayiladuthurai road, roughly 25 km from Mayiladuthurai (PIN 609503). Mayiladuthurai and Tiruvarur are the nearest rail heads, with buses via Poonthottam and local taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "মার্জিত ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢেকে রাখতে হবে; প্রবেশপথে জুতা খুলে রাখতে হয়।",
+    "photography": "বাইরের করিডোরে সাধারণত ফটোগ্রাফির অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "সেতলাপতি পূনতোট্টমের নিকটে, প্রায় ৩ কিমি দূরে, তিরুবারুর–মায়িলাদুতুরৈ সড়কে, মায়িলাদুতুরৈ থেকে প্রায় ২৫ কিমি (পিন ৬০৯৫০৩)। মায়িলাদুতুরৈ ও তিরুবারুর নিকটতম রেলস্টেশন, পূনতোট্টম হয়ে বাস ও গ্রামে স্থানীয় ট্যাক্সি রয়েছে।"
   }
 }

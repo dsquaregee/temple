@@ -1,30 +1,37 @@
 {
   "id": "kumara-brahma-alampur",
   "locale": "bn",
+  "name": "কুমার ব্রহ্ম মন্দির, আলমপুর",
   "nativeName": "కుమార బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "শিব কুমার ব্রহ্মেশ্বর রূপে (লিঙ্গ)",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "আলমপুর",
+    "state": "তেলেঙ্গানা",
     "lat": 15.8781,
     "lng": 78.1354
   },
+  "period": "আলমপুরের নয়টি নবব্রহ্ম মন্দিরের একটি, সপ্তম শতাব্দীতে বাদামী চালুক্যদের অধীনে নির্মিত",
   "century": 7,
+  "dynasty": "চালুক্য (বাদামী)",
+  "style": "আদি চালুক্য, উত্তরীয় (রেখা-নাগর) মন্দির রীতি",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "আলমপুরের স্থান-জাদুঘরের মুখোমুখি, কুমার ব্রহ্ম মন্দির একটি স্তম্ভযুক্ত বারান্দা ও সমৃদ্ধভাবে খোদাই করা স্তম্ভের একটি মণ্ডপ ধরে রেখেছে — তুঙ্গভদ্রার তীরে নয়টি আদি চালুক্য শিব মন্দিরের একটি।",
   "sections": {
-    "history": "Alampur's nine Navabrahma temples are Shiva shrines, each named for a form of Brahma, raised by the Badami Chalukyas on the left bank of the Tungabhadra near its meeting with the Krishna; the standing temples are dated from the middle of the seventh century. Kumara Brahma, whose name means the youthful Brahma, is often placed among the earlier members of the group and is thought to belong to the time of Vikramaditya I, who ruled from about 655 to 681. Like most of its neighbours it no longer receives worship and is protected by the Archaeological Survey of India.",
-    "architecture": "The temple rises on a high platform and is one of only two in the group, with Swarga Brahma, to keep a pillared entrance porch before its main hall. Beyond the hall lies the sanctum, wrapped by an enclosed passage for circumambulation. Its roof sets it apart: where the other shrines carry the projecting antefix over the vestibule as part of the tower, Kumara Brahma is roofed flat. Inside, the pillars are carved with Gajalakshmi, Shiva with Uma, Kubera, elephants and swans, and riders on fabulous beasts, while Vishnu presides over the sanctum doorway amid floral garlands.",
-    "legends": "Tradition holds that Brahma, the creator, performed long penance at Alampur and worshipped Shiva here, and that the nine temples remember the forms in which he did so. Kumara, the youth, is the name given to this shrine — a reminder that the Navabrahma names are devotional titles of the one Shiva, worshipped as Brahmeshwara, the lord whom Brahma adored.",
-    "festivals": "As a protected monument, the temple has no festival of its own. The Alampur precinct comes alive at Maha Shivaratri, when devotees throng the living Bala Brahmeshwara shrine nearby, and at Navaratri and Dasara for the goddess Jogulamba; confirm dates locally.",
-    "experience": "Kumara Brahma stands directly across from the site museum, so it pairs naturally with an hour among the museum's sculptures and inscribed slabs. Step into the hall and let your eyes adjust: the pillar reliefs reward close looking, and the Vishnu on the doorway frames the dim sanctum. The neighbouring Arka, Vira and Vishwa Brahma temples lie a few steps to the north."
+    "history": "আলমপুরের নয়টি নবব্রহ্ম মন্দির শিব মন্দির, প্রত্যেকটি ব্রহ্মার এক একটি রূপের নামে নামাঙ্কিত, বাদামী চালুক্যদের দ্বারা তুঙ্গভদ্রার বাম তীরে কৃষ্ণার সঙ্গে মিলনস্থলের কাছে নির্মিত; বিদ্যমান মন্দিরগুলি সপ্তম শতাব্দীর মধ্যভাগ থেকে কালনির্ণীত। কুমার ব্রহ্ম, যার নামের অর্থ তরুণ ব্রহ্মা, প্রায়ই গোষ্ঠীর আদিতর সদস্যদের মধ্যে গণ্য হয় এবং মনে করা হয় এটি প্রথম বিক্রমাদিত্যের সময়ের, যিনি প্রায় ৬৫৫ থেকে ৬৮১ পর্যন্ত রাজত্ব করেছিলেন। তার অধিকাংশ প্রতিবেশীর মতো এটিতে আর পূজা হয় না এবং এটি ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ দ্বারা সংরক্ষিত।",
+    "architecture": "মন্দিরটি একটি উঁচু চাতালের উপর ওঠে এবং স্বর্গ ব্রহ্মের সঙ্গে এই গোষ্ঠীর মাত্র দুটির একটি যা তার মূল মণ্ডপের সামনে একটি স্তম্ভযুক্ত প্রবেশ বারান্দা ধরে রাখে। মণ্ডপের ওপারে গর্ভগৃহ, প্রদক্ষিণের জন্য একটি বদ্ধ পরিক্রমাপথে আবৃত। এর ছাদ এটিকে আলাদা করে: যেখানে অন্য মন্দিরগুলিতে অন্তরালের উপরে প্রক্ষিপ্ত শিখরাংশ চূড়ার অংশ হিসেবে থাকে, কুমার ব্রহ্মের ছাদ সমতল। ভেতরে স্তম্ভগুলিতে খোদিত আছে গজলক্ষ্মী, উমার সঙ্গে শিব, কুবের, হাতি ও হংস, এবং অলৌকিক জীবের উপর আরোহী, আর গর্ভগৃহের দ্বারপথে পুষ্পমালার মাঝে বিষ্ণু অধিষ্ঠিত।",
+    "legends": "ঐতিহ্য বলে যে সৃষ্টিকর্তা ব্রহ্মা আলমপুরে দীর্ঘ তপস্যা করেছিলেন এবং এখানে শিবের পূজা করেছিলেন, এবং নয়টি মন্দির সেই রূপগুলির স্মারক যাতে তিনি তা করেছিলেন। কুমার, তরুণ, এই মন্দিরকে দেওয়া নাম — এই স্মরণ করায় যে নবব্রহ্ম নামগুলি একই শিবের ভক্তিমূলক উপাধি, যিনি ব্রহ্মেশ্বর রূপে পূজিত, সেই প্রভু যাঁকে ব্রহ্মা আরাধনা করেছিলেন।",
+    "festivals": "একটি সংরক্ষিত স্মৃতিসৌধ হিসেবে মন্দিরটির নিজস্ব কোনো উৎসব নেই। আলমপুর প্রাঙ্গণ মহাশিবরাত্রিতে জীবন্ত হয়ে ওঠে, যখন ভক্তরা কাছের জীবন্ত বালা ব্রহ্মেশ্বর মন্দিরে ভিড় করেন, এবং দেবী জোগুলাম্বার জন্য নবরাত্রি ও দশরায়; তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "কুমার ব্রহ্ম সরাসরি স্থান-জাদুঘরের উল্টোদিকে দাঁড়িয়ে, তাই জাদুঘরের ভাস্কর্য ও শিলালিপিখচিত ফলকের মাঝে এক ঘণ্টার সঙ্গে এটি স্বাভাবিকভাবে মেলে। মণ্ডপে পা রাখুন ও চোখ অভ্যস্ত হতে দিন: স্তম্ভের ভাস্কর্য নিবিড় দৃষ্টির পুরস্কার দেয়, এবং দ্বারপথের বিষ্ণু আবছা গর্ভগৃহকে ঘিরে রাখে। প্রতিবেশী অর্ক, বীর ও বিশ্ব ব্রহ্ম মন্দির কয়েক পা উত্তরে অবস্থিত।"
   },
   "visit": {
-    "timings": "The Navabrahma precinct is open to visitors through the day; as an ASI-protected site, hours and any entry charges for the precinct and museum should be confirmed locally.",
-    "dressCode": "Modest dress is appreciated across the precinct, which includes living shrines; remove footwear where asked.",
-    "photography": "Photography is generally allowed at the monuments; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away; the temple stands within the Navabrahma precinct by the Tungabhadra, opposite the site museum."
+    "timings": "নবব্রহ্ম প্রাঙ্গণ দিনভর দর্শনার্থীদের জন্য খোলা; একটি এএসআই-সংরক্ষিত স্থান হওয়ায় প্রাঙ্গণ ও জাদুঘরের সময় ও যেকোনো প্রবেশমূল্য স্থানীয়ভাবে নিশ্চিত করা উচিত।",
+    "dressCode": "প্রাঙ্গণ জুড়ে শালীন পোশাক সমাদৃত, যার মধ্যে জীবন্ত মন্দিরও রয়েছে; যেখানে বলা হয় সেখানে পাদুকা খুলে রাখুন।",
+    "photography": "স্মৃতিসৌধগুলিতে সাধারণত ফটোগ্রাফির অনুমতি আছে; ট্রাইপড বা পেশাদার শুটের জন্য স্থান-কর্তৃপক্ষের অনুমতি প্রয়োজন হতে পারে।",
+    "gettingThere": "আলমপুর জোগুলাম্বা গাদওয়াল জেলায়, কুর্নুল থেকে প্রায় ২৫ কিলোমিটার এবং হায়দরাবাদের দক্ষিণে প্রায় ২২০ কিলোমিটার দূরে, হায়দরাবাদ–বেঙ্গালুরু মহাসড়কের (এনএইচ ৪৪) ঠিক পাশে। হায়দরাবাদ–কুর্নুল লাইনের আলমপুর রোড রেলস্টেশন প্রায় ৯ কিলোমিটার দূরে; মন্দিরটি তুঙ্গভদ্রার ধারে নবব্রহ্ম প্রাঙ্গণের মধ্যে, স্থান-জাদুঘরের বিপরীতে দাঁড়িয়ে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kumara-brahma-alampur.jpg",

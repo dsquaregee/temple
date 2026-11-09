@@ -1,31 +1,38 @@
 {
   "id": "apatsahayar-thirupazhanam",
   "locale": "bn",
+  "name": "আপৎসহায়র মন্দির, তিরুপড়নম",
   "nativeName": "ஆபத்சகாயேஸ்வரர் கோயில், திருப்பழனம்",
+  "deity": "শিব আপৎসহায়র রূপে (আপৎসহায়েশ্বর), দেবী পেরিয়নায়কীর সঙ্গে",
+  "tradition": "শৈব ধর্ম",
   "location": {
-    "city": "Thirupazhanam",
-    "state": "Tamil Nadu",
+    "city": "তিরুপড়নম",
+    "state": "তামিলনাড়ু",
     "lat": 10.893,
     "lng": 79.139
   },
+  "period": "তিরুবৈয়ারুর সপ্ত স্থানমের দ্বিতীয় মন্দির; চোল রাজা প্রথম আদিত্যের একটি পাথুরে মন্দির, তেবারমে স্তোত্রগীত (সপ্তম শতাব্দী)",
   "century": 7,
+  "dynasty": "চোল (প্রথম আদিত্য), পরবর্তী নায়ক ও মারাঠা পৃষ্ঠপোষকতাসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "saptha-sthanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুপড়নমে, তিরুবৈয়ারুর ঠিক পূর্বে, শিব আপৎসহায়র রূপে পূজিত হন, বিপদে সহায়, একটি প্রারম্ভিক চোল মন্দিরে যা সপ্ত স্থানমের দ্বিতীয় বিরতি হিসেবে তার দেবতাদের পাঠায়।",
   "sections": {
-    "history": "Thirupazhanam lies on the northern side of the Kaveri a short way east of Thiruvaiyaru, and its temple is one of the Paadal Petra Sthalams praised in the seventh-century Tevaram. The present stone shrine belongs to the reign of the Chola king Aditya I in the late ninth century. An inscription of his time on the south wall of the sanctum records twenty kalanju of gold given for a lamp that was never to go out, the gift of a lady related to the king's Pallava queen. Later records of Parantaka I, Rajaraja I and Kulothunga III follow, and the Thanjavur Nayaks and Marathas added contributions of their own.",
-    "architecture": "The temple is a compact early Chola work, singled out by scholars for the unusual plan of its vimana and of the ardhamandapa, the half-hall in front of the sanctum. The niche images on its walls have been coated in stucco over the centuries, softening their original lines. The goddess Periyanayaki has her own shrine in the outer enclosure, set apart from the lord's sanctum, and later mandapas and walls gather the whole into a quiet village temple.",
-    "legends": "The name Apathsahayar means the lord who comes to help in times of danger. Local tradition tells it through the story of Appar and his devotee Appoothi Adigal of neighbouring Thingalur, whose young son died of a snakebite on the very day the saint came to dine; Appar's prayer brought the boy back to life, and the lord of Thirupazhanam is remembered as the helper who answered. The sthala purana adds that Parvati is present beside Shiva in the sanctum itself, unseen.",
-    "festivals": "Thirupazhanam is the first temple the procession reaches after leaving Thiruvaiyaru in the Saptha Sthanam festival, held in the Tamil month of Chithirai (April–May). Tradition holds that the village, whose name speaks of fruit, sent fruits for Nandi's wedding, and its own deities set out in a glass palanquin to join the round. Maha Shivaratri and the monthly Pradosham are also kept. Confirm dates locally.",
-    "experience": "Thirupazhanam is a small, unhurried village, and the temple is best seen in the morning, when the old Chola walls can be studied at leisure. Look for the inscribed courses on the sanctum walls, then visit the goddess in her separate shrine. The temple pairs naturally with Thiruvaiyaru and Thingalur close by, and on the Saptha Sthanam night the village fills with pilgrims waiting for the palanquins."
+    "history": "তিরুপড়নম কাবেরীর উত্তর দিকে তিরুবৈয়ারুর অল্প পূর্বে অবস্থিত, এবং এর মন্দির সপ্তম শতাব্দীর তেবারমে প্রশংসিত পাডল পেট্র স্থলমগুলির একটি। বর্তমান পাথুরে মন্দিরটি নবম শতাব্দীর শেষভাগে চোল রাজা প্রথম আদিত্যের রাজত্বকালের। গর্ভগৃহের দক্ষিণ দেয়ালে তাঁর সময়ের একটি শিলালিপিতে একটি কখনও নির্বাপিত না হওয়া প্রদীপের জন্য কুড়ি কড়ঞ্জু স্বর্ণ দানের কথা লিপিবদ্ধ, যা রাজার পল্লব রানির এক আত্মীয়ার দান। প্রথম পরান্তক, প্রথম রাজরাজ ও তৃতীয় কুলোত্তুঙ্গের পরবর্তী নথি অনুসরণ করে, এবং তাঞ্জাবুর নায়ক ও মারাঠারা নিজেদের অবদান যোগ করেন।",
+    "architecture": "মন্দিরটি একটি সংহত প্রারম্ভিক চোল সৃষ্টি, পণ্ডিতরা এর বিমান ও গর্ভগৃহের সামনের অর্ধমণ্ডপের অস্বাভাবিক পরিকল্পনার জন্য একে বিশিষ্ট করেছেন। এর দেয়ালের কুলুঙ্গির মূর্তিগুলি শতাব্দী ধরে স্টাকোয় আবৃত হয়েছে, তাদের মূল রেখা নরম করে। দেবী পেরিয়নায়কীর বাইরের প্রাঙ্গণে নিজস্ব মন্দির আছে, প্রভুর গর্ভগৃহ থেকে পৃথক, এবং পরবর্তী মণ্ডপ ও দেয়াল সমগ্রকে একটি শান্ত গ্রামীণ মন্দিরে একত্র করে।",
+    "legends": "আপৎসহায়র নামের অর্থ সেই প্রভু যিনি বিপদের সময় সাহায্যে আসেন। স্থানীয় ঐতিহ্য এটি অপ্পর ও প্রতিবেশী তিঙ্গলূরের তাঁর ভক্ত অপ্পূতি আডিগলের কাহিনির মাধ্যমে বলে, যাঁর কিশোর পুত্র সন্তের ভোজনে আসার সেই দিনেই সর্পদংশনে মারা যায়; অপ্পরের প্রার্থনা বালকটিকে জীবন ফিরিয়ে দেয়, এবং তিরুপড়নমের প্রভু সেই সহায় হিসেবে স্মরণীয় যিনি সাড়া দিয়েছিলেন। স্থল পুরাণ যোগ করে যে পার্বতী গর্ভগৃহেই শিবের পাশে অদৃশ্যভাবে উপস্থিত।",
+    "festivals": "তামিল চিত্তিরাই মাসে (এপ্রিল–মে) অনুষ্ঠিত সপ্ত স্থানম উৎসবে তিরুবৈয়ারু ত্যাগ করার পর শোভাযাত্রা তিরুপড়নমই প্রথম যে মন্দিরে পৌঁছায়। ঐতিহ্য বলে গ্রামটি, যার নাম ফলের কথা বলে, নন্দীর বিবাহের জন্য ফল পাঠিয়েছিল, এবং এর নিজস্ব দেবতারা পরিক্রমায় যোগ দিতে একটি কাচের পালকিতে রওনা হন। মহাশিবরাত্রি ও মাসিক প্রদোষমও পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তিরুপড়নম একটি ছোট, অবিচল গ্রাম, এবং মন্দিরটি সকালে দেখাই উত্তম, যখন পুরনো চোল দেয়াল নিরিবিলিতে অধ্যয়ন করা যায়। গর্ভগৃহের দেয়ালে খোদিত সারিগুলি খুঁজুন, তারপর দেবীকে তাঁর পৃথক মন্দিরে দর্শন করুন। মন্দিরটি কাছের তিরুবৈয়ারু ও তিঙ্গলূরের সঙ্গে স্বাভাবিকভাবে জোড়া যায়, এবং সপ্ত স্থানম রাতে গ্রামটি পালকির অপেক্ষারত তীর্থযাত্রীতে ভরে ওঠে।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thirupazhanam is about 4 km east of Thiruvaiyaru on the road towards Kumbakonam, and roughly 15 km from Thanjavur. Local buses and autos run from Thiruvaiyaru. Thanjavur is the nearest major railway station, and Tiruchirappalli International Airport, around 65 km away, is the nearest airport."
+    "timings": "সাধারণত সকালে এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত মধ্যাহ্ন বিরতিসহ খোলা; বিশেষত উৎসবের দিনে সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা থাকবে। প্রবেশপথে পাদুকা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথ ও চত্বরে সাধারণত ছবি তোলার অনুমতি আছে কিন্তু অন্তর্গর্ভগৃহের ভিতরে তামিলনাড়ুর মন্দির বিধি অনুসারে কঠোরভাবে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুপড়নম তিরুবৈয়ারু থেকে কুম্বকোণমের দিকের সড়কে প্রায় ৪ কিমি পূর্বে এবং তাঞ্জাবুর থেকে প্রায় ১৫ কিমি দূরে। তিরুবৈয়ারু থেকে স্থানীয় বাস ও অটো চলে। তাঞ্জাবুর নিকটতম প্রধান রেলস্টেশন, এবং প্রায় ৬৫ কিমি দূরে তিরুচিরাপল্লি আন্তর্জাতিক বিমানবন্দর নিকটতম বিমানবন্দর।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/apatsahayar-thirupazhanam.jpg",

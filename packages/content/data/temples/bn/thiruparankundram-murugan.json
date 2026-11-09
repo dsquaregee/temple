@@ -1,31 +1,38 @@
 {
   "id": "thiruparankundram-murugan",
   "locale": "bn",
+  "name": "তিরুপরঙ্কুন্দ্রম মুরুগান মন্দির",
   "nativeName": "திருப்பரங்குன்றம் முருகன் கோயில்",
+  "deity": "মুরুগান, সুব্রহ্মণ্য রূপে পূজিত",
+  "tradition": "কৌমারম, শৈব ঐতিহ্যের মধ্যে মুরুগানের উপাসনা",
   "location": {
-    "city": "Madurai",
-    "state": "Tamil Nadu",
+    "city": "মাদুরাই",
+    "state": "তামিলনাড়ু",
     "lat": 9.879,
     "lng": 78.0713
   },
+  "period": "পাণ্ড্য শিলাখোদিত মন্দির, অষ্টম শতক, পরবর্তী সংযোজনসহ",
   "century": 8,
+  "dynasty": "পাণ্ড্য ও পরবর্তী",
+  "style": "দ্রাবিড়, শিলাখোদিত ও কাঠামোগত",
   "unesco": false,
   "circuits": [
     "arupadai-veedu",
     "paadal-petra-sthalams"
   ],
+  "summary": "মুরুগানের ছয় আবাসের প্রথম, মাদুরাইয়ের কাছে তিরুপরঙ্কুন্দ্রম হলো সেই শিলাখোদিত পাহাড়ি মন্দির যেখানে ঐতিহ্য অনুসারে অসুরদের উপর বিজয়ের পর দেবতা দেইবানৈকে বিবাহ করেছিলেন — জীবন্ত শিলার মধ্যে খোদিত একটি পাণ্ড্য-যুগের মন্দির।",
   "sections": {
-    "history": "Set into a hill just southwest of Madurai, Thiruparankundram is among the oldest of Murugan’s abodes, its inner shrines cut directly from the rock in the Pandya period around the eighth century. Sung by the Tamil hymnists and celebrated in the Sangam-era literature of the Murugan cult, it grew outward over the centuries with structural mandapas fronting the ancient cave sanctuaries. As the abode nearest the great temple-city of Madurai, it has always stood among the foremost shrines of the Pandya country.",
-    "architecture": "The temple is famous as a cave temple: its earliest sanctums are hewn into the hillside, with the deity and attendant gods carved in relief on the rock face, while later Nayak-era pillared halls extend the temple outward and upward toward the summit. The rock-cut shrine houses Subramanya alongside Shiva, Vishnu, Durga, and Vinayaka — an unusual gathering of the great gods in one rock face. Above, steps climb the hill past smaller shrines to a summit that looks out over Madurai and its plains.",
-    "legends": "Thiruparankundram is remembered as the place of Murugan’s marriage. After vanquishing the asura Surapadman at Thiruchendur, the god wed Deivanai, the daughter of Indra given to him as the prize of victory, and this hill is honoured as the site of that celestial wedding. The union is retold each year, and the shrine is counted among the great places of Murugan’s glory, where victory gave way to marriage and the ordering of the heavens was restored.",
-    "festivals": "The Panguni Uthiram festival, marking the divine wedding of Murugan and Deivanai, is the temple’s grandest occasion, drawing pilgrims from across the south. Skanda Sashti, Vaikasi Visakam, and Thai Poosam are all kept with processions and abhishekam. Being close to Madurai, the temple shares in the great festival rhythm of the region, and its wedding festival in particular fills the rock-cut halls and the hill steps with celebrants.",
-    "experience": "Entering Thiruparankundram, a visitor passes from bright pillared halls into the cool dimness of the rock-cut sanctum, where the gods emerge from the living stone in the lamplight. The sense of great age is immediate — this is worship in a cave older than most standing temples. Climbing the hill above rewards the effort with shrines along the way and a wide view of Madurai. Many pair a visit here with the Meenakshi temple in the city, tracing the god’s marriage on the hill and his parents’ shrine in the town."
+    "history": "মাদুরাইয়ের ঠিক দক্ষিণ-পশ্চিমে একটি পাহাড়ের মধ্যে অবস্থিত, তিরুপরঙ্কুন্দ্রম মুরুগানের প্রাচীনতম আবাসগুলির অন্যতম, এর অন্তঃস্থ উপাসনাস্থলগুলি অষ্টম শতকের দিকে পাণ্ড্য যুগে সরাসরি শিলা থেকে খোদিত। তামিল স্তোত্রকারদের দ্বারা গীত এবং মুরুগান সম্প্রদায়ের সঙ্গম-যুগের সাহিত্যে বন্দিত, এটি শতাব্দীর পর শতাব্দী ধরে বাইরের দিকে বিস্তৃত হয়েছে, প্রাচীন গুহা-গর্ভগৃহের সামনে কাঠামোগত মণ্ডপসহ। মহান মন্দির-নগরী মাদুরাইয়ের নিকটতম আবাস হিসেবে এটি চিরকাল পাণ্ড্য দেশের অগ্রগণ্য উপাসনাস্থলগুলির মধ্যে স্থান পেয়ে এসেছে।",
+    "architecture": "মন্দিরটি গুহামন্দির হিসেবে প্রসিদ্ধ: এর প্রাচীনতম গর্ভগৃহগুলি পাহাড়ের গায়ে কুঁদে তৈরি, শিলার পৃষ্ঠে উৎকীর্ণ দেবতা ও সহচর দেবগণসহ, আর পরবর্তী নায়ক-যুগের স্তম্ভশোভিত মণ্ডপ মন্দিরকে বাইরের দিকে ও উপরের দিকে শিখরের দিকে বিস্তৃত করে। শিলাখোদিত উপাসনাস্থলে সুব্রহ্মণ্যের পাশে শিব, বিষ্ণু, দুর্গা ও বিনায়ক অধিষ্ঠিত — এক শিলাপৃষ্ঠে মহান দেবগণের এক অস্বাভাবিক সমাবেশ। উপরে সিঁড়ি ছোটো ছোটো উপাসনাস্থল পেরিয়ে এক শিখরে ওঠে যা মাদুরাই ও তার সমভূমির উপর দৃষ্টি ফেলে।",
+    "legends": "তিরুপরঙ্কুন্দ্রম মুরুগানের বিবাহের স্থান হিসেবে স্মরণীয়। তিরুচেন্দুরে অসুর সুরপদ্মনকে পরাজিত করার পর দেবতা দেইবানৈকে বিবাহ করেন, যিনি ইন্দ্রের কন্যা ও বিজয়ের পুরস্কার হিসেবে তাঁকে দেওয়া হয়েছিল, এবং এই পাহাড়কে সেই স্বর্গীয় বিবাহের স্থান হিসেবে সম্মান করা হয়। প্রতি বছর এই মিলন পুনরায় স্মরণ করা হয়, এবং উপাসনাস্থলটি মুরুগানের মহিমার মহান স্থানগুলির অন্যতম বলে গণ্য, যেখানে বিজয় বিবাহে পরিণত হয়েছিল এবং স্বর্গের শৃঙ্খলা পুনঃপ্রতিষ্ঠিত হয়েছিল।",
+    "festivals": "মুরুগান ও দেইবানৈর দিব্য বিবাহ চিহ্নিতকারী পঙ্গুনি উত্তিরম উৎসব মন্দিরের সবচেয়ে জমকালো উপলক্ষ, যা দক্ষিণের বিভিন্ন প্রান্ত থেকে তীর্থযাত্রী আকর্ষণ করে। স্কন্দ ষষ্ঠী, বৈকাসি বিশাকম ও থাই পূসম সবই শোভাযাত্রা ও অভিষেকসহ পালিত হয়। মাদুরাইয়ের কাছে থাকায় মন্দিরটি অঞ্চলের মহান উৎসব-ছন্দে অংশ নেয়, এবং বিশেষত এর বিবাহ-উৎসব শিলাখোদিত মণ্ডপ ও পাহাড়ি সিঁড়িকে উদযাপনকারীতে পূর্ণ করে।",
+    "experience": "তিরুপরঙ্কুন্দ্রমে প্রবেশ করে দর্শনার্থী উজ্জ্বল স্তম্ভশোভিত মণ্ডপ থেকে শিলাখোদিত গর্ভগৃহের শীতল আবছা অন্ধকারে প্রবেশ করেন, যেখানে প্রদীপের আলোয় দেবগণ জীবন্ত শিলা থেকে আবির্ভূত হন। প্রাচীনত্বের বোধ তাৎক্ষণিক — এ এমন এক গুহায় উপাসনা যা অধিকাংশ দণ্ডায়মান মন্দিরের চেয়ে প্রাচীন। উপরে পাহাড়ে ওঠা শ্রমের বিনিময়ে পথে পথে উপাসনাস্থল ও মাদুরাইয়ের বিস্তৃত দৃশ্য দেয়। অনেকে এই দর্শনকে নগরের মীনাক্ষী মন্দিরের সঙ্গে জুড়ে দেন, পাহাড়ে দেবতার বিবাহ ও শহরে তাঁর পিতামাতার উপাসনাস্থল অনুসরণ করে।"
   },
   "visit": {
-    "timings": "Generally open from around 5:30 am to 1:00 pm and 4:00 pm to 9:00 pm daily; hours extend during Panguni Uthiram and other festivals.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered. Footwear is left at the stands outside.",
-    "photography": "Photography is restricted around the rock-cut sanctum; follow posted rules and staff guidance, especially during festivals.",
-    "gettingThere": "Thiruparankundram is about 8 km from Madurai city centre, well served by buses and taxis; Madurai has both a railway junction and an airport, and the temple has its own suburban rail halt."
+    "timings": "সাধারণত প্রতিদিন সকাল প্রায় ৫:৩০টা থেকে দুপুর ১:০০টা এবং বিকাল ৪:০০টা থেকে রাত ৯:০০টা পর্যন্ত খোলা; পঙ্গুনি উত্তিরম ও অন্যান্য উৎসবের সময় সময় বাড়ানো হয়।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি বা সালোয়ার কামিজ, কাঁধ ও হাঁটু ঢাকা। পাদুকা বাইরের স্ট্যান্ডে রেখে যেতে হয়।",
+    "photography": "শিলাখোদিত গর্ভগৃহের চারপাশে ফটোগ্রাফি সীমিত; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ অনুসরণ করুন, বিশেষত উৎসবের সময়।",
+    "gettingThere": "তিরুপরঙ্কুন্দ্রম মাদুরাই নগরকেন্দ্র থেকে প্রায় ৮ কিমি দূরে, বাস ও ট্যাক্সিতে সুপরিষেবিত; মাদুরাইয়ে রেল সংযোগস্থল ও বিমানবন্দর দুটিই আছে, এবং মন্দিরের নিজস্ব শহরতলি রেল স্টপ রয়েছে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.jpg",

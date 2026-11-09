@@ -1,29 +1,36 @@
 {
   "id": "swarga-brahma-alampur",
   "locale": "bn",
+  "name": "স্বর্গ ব্রহ্মা মন্দির, আলমপুর",
   "nativeName": "స్వర్గ బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "শিব, স্বর্গ ব্রহ্মেশ্বর রূপে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "আলমপুর",
+    "state": "তেলেঙ্গানা",
     "lat": 15.8778,
     "lng": 78.1348
   },
+  "period": "আদি চালুক্য, সপ্তম শতকের শেষভাগ; এক চালুক্য রানির সম্মানে নির্মিত",
   "century": 7,
+  "dynasty": "বাদামির চালুক্য",
+  "style": "আদি চালুক্য, উত্তরী (রেখা-নাগর) শিখর",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "আলমপুরের নবব্রহ্মা মন্দিরগুলির মধ্যে সবচেয়ে সমৃদ্ধভাবে খোদাই করা স্বর্গ ব্রহ্মা এক চালুক্য রানির সম্মানে নির্মিত হয়েছিল, আর এর দেয়ালে আজও দেখা যায় শিবকে মহাজাগতিক নৃত্যকার রূপে, ত্রিপুর নগরীর বিনাশকারী রূপে এবং অসীম অগ্নিস্তম্ভ রূপে।",
   "sections": {
-    "history": "Swarga Brahma is among the best preserved of the nine Navabrahma temples and the one whose founding is most clearly recorded. An inscription engraved above one of its door-guardian figures states that it was built by Lokaditya Ela Arasa in honour of the queen of the Chalukya king Vinayaditya, who ruled from Badami between 681 and 696; Lokaditya is described in different accounts as a prince of the royal house or as a local feudatory. The temple therefore belongs to the last decades of the seventh century, with its consecration sometimes placed around the turn of the eighth. Like its neighbours it suffered in later raids and many of its figures were defaced, yet it remains the fullest expression of Chalukyan sculpture at Alampur.",
-    "architecture": "Facing east, the temple opens through a porch of six pillars ornamented with amalaka discs, with a Nandi on a raised platform before it. Within, a pillared hall leads to the sanctum, which is wrapped by a passage for circumambulation, and above it rises a curving northern tower that survives largely intact. The outer walls are the temple's glory: pilastered niches — four along each side wall, two at each end — frame Shiva as Nataraja, as Tripurantaka, as Lingodbhava, as Gangadhara and as the wandering mendicant Bhikshatana, together with Vamana, Vishnu's dwarf avatar, and the guardian gods of the directions. Ganga and Yamuna flank the sanctum doorway.",
-    "legends": "The name Swarga Brahma, 'Brahma of heaven', belongs to the Alampur tradition that Brahma did penance here and worshipped Shiva in nine forms. The temple's walls are themselves a book of Shaiva legend: Lingodbhava recalls the night when Brahma and Vishnu searched in vain for the ends of a boundless column of fire, Tripurantaka shows Shiva destroying the three flying cities of the demons with a single arrow, and Gangadhara receives the descending Ganga in his matted locks. That this whole cycle was offered in memory of a queen gives the temple a quiet, personal tenderness.",
-    "festivals": "Swarga Brahma is a protected monument and keeps no festival of its own, though the precinct around it fills at Maha Shivaratri, when pilgrims throng the Bala Brahma temple, and at Navaratri and Dasara for the goddess Jogulamba. Winter mornings, with clear low light on the carved walls, are the best time to see it. Confirm dates locally.",
-    "experience": "Walk round Swarga Brahma clockwise and take the niches one by one: the dancing Shiva and the Tripurantaka panel reward close looking even where faces have been damaged. Then step back to take in the whole tower, one of the finest at Alampur. The temple stands just behind Bala Brahma, with Padma Brahma beyond it, so the three are naturally seen together."
+    "history": "স্বর্গ ব্রহ্মা নয়টি নবব্রহ্মা মন্দিরের মধ্যে সবচেয়ে সুরক্ষিতগুলির একটি এবং যারটি প্রতিষ্ঠার ইতিহাস সবচেয়ে স্পষ্টভাবে লিপিবদ্ধ। এর এক দ্বারপাল মূর্তির উপরে খোদিত একটি শিলালিপি জানায় যে এটি লোকাদিত্য এলা অরস চালুক্য রাজা বিনয়াদিত্যের রানির সম্মানে নির্মাণ করেছিলেন, যিনি ৬৮১ থেকে ৬৯৬ সালের মধ্যে বাদামি থেকে শাসন করেছিলেন; বিভিন্ন বিবরণে লোকাদিত্যকে রাজকুলের এক রাজকুমার বা স্থানীয় সামন্ত হিসেবে বর্ণনা করা হয়েছে। তাই মন্দিরটি সপ্তম শতকের শেষ দশকের, আর এর প্রতিষ্ঠা কখনও কখনও অষ্টম শতকের শুরুর কাছাকাছি স্থাপন করা হয়। প্রতিবেশীদের মতোই এটিও পরবর্তী হানায় ক্ষতিগ্রস্ত হয়েছিল এবং এর অনেক মূর্তি বিকৃত হয়েছিল, তবু এটি আলমপুরে চালুক্য ভাস্কর্যের পূর্ণতম প্রকাশ রয়ে গেছে।",
+    "architecture": "পূর্বমুখী মন্দিরটি আমলক চক্রে অলংকৃত ছয়টি স্তম্ভের একটি বারান্দা দিয়ে খোলে, যার সামনে একটি উঁচু বেদিতে নন্দী রয়েছেন। ভিতরে একটি স্তম্ভযুক্ত প্রকোষ্ঠ গর্ভগৃহের দিকে নিয়ে যায়, যা প্রদক্ষিণের জন্য একটি পথে বেষ্টিত, আর তার উপরে বক্র একটি উত্তরী শিখর উঠেছে যা মূলত অক্ষত রয়ে গেছে। বাইরের দেয়ালগুলিই মন্দিরের গৌরব: পার্শ্বস্তম্ভযুক্ত কুলুঙ্গি—প্রতিটি পাশের দেয়ালে চারটি, প্রতি প্রান্তে দুটি—শিবকে নটরাজ, ত্রিপুরান্তক, লিঙ্গোদ্ভব, গঙ্গাধর এবং পরিব্রাজক ভিক্ষাটন রূপে, সেইসঙ্গে বিষ্ণুর বামন অবতার এবং দিকপাল দেবতাদের ঘিরে ধরে। গর্ভগৃহের দ্বারের দুই পাশে গঙ্গা ও যমুনা।",
+    "legends": "স্বর্গ ব্রহ্মা নামটি, 'স্বর্গের ব্রহ্মা', আলমপুরের সেই ঐতিহ্যের অংশ যে ব্রহ্মা এখানে তপস্যা করেছিলেন এবং নয়টি রূপে শিবের আরাধনা করেছিলেন। মন্দিরের দেয়ালগুলি নিজেই শৈব কিংবদন্তির এক গ্রন্থ: লিঙ্গোদ্ভব সেই রাত্রির স্মরণ করায় যখন ব্রহ্মা ও বিষ্ণু এক অসীম অগ্নিস্তম্ভের প্রান্ত বৃথা খুঁজেছিলেন, ত্রিপুরান্তক দেখায় শিব এক তীরে অসুরদের তিনটি উড়ন্ত নগরী ধ্বংস করছেন, আর গঙ্গাধর তাঁর জটায় অবতীর্ণ গঙ্গাকে গ্রহণ করছেন। এই সমগ্র চক্রটি যে এক রানির স্মৃতিতে উৎসর্গিত হয়েছিল, তা মন্দিরটিকে এক শান্ত, ব্যক্তিগত কোমলতা দেয়।",
+    "festivals": "স্বর্গ ব্রহ্মা একটি সংরক্ষিত স্মারক এবং এর নিজের কোনও উৎসব নেই, তবে এর চারপাশের প্রাঙ্গণ মহাশিবরাত্রিতে ভরে ওঠে, যখন তীর্থযাত্রীরা বালা ব্রহ্মা মন্দিরে ভিড় জমান, এবং দেবী জোগুলাম্বার জন্য নবরাত্রি ও দসরায়। শীতের সকাল, খোদাই করা দেয়ালের উপর স্বচ্ছ নিচু আলোয়, এটি দেখার সেরা সময়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "স্বর্গ ব্রহ্মাকে দক্ষিণাবর্তে ঘুরে দেখুন এবং কুলুঙ্গিগুলি একে একে দেখুন: নৃত্যরত শিব এবং ত্রিপুরান্তক ফলকটি নিবিড় দৃষ্টিপাতের পুরস্কার দেয়, এমনকি যেখানে মুখগুলি ক্ষতিগ্রস্ত হয়েছে সেখানেও। তারপর পিছিয়ে এসে সমগ্র শিখরটি দেখুন, যা আলমপুরের অন্যতম সেরা। মন্দিরটি বালা ব্রহ্মার ঠিক পিছনে, তার পরে পদ্ম ব্রহ্মা, তাই তিনটি স্বাভাবিকভাবেই একসঙ্গে দেখা হয়।"
   },
   "visit": {
-    "timings": "Open in daylight hours as an Archaeological Survey of India monument within the Navabrahma precinct; it is not a place of daily worship. Confirm current hours and any ticketing locally.",
-    "dressCode": "No strict dress code applies at the monument, but modest dress is appropriate in this sacred precinct, and footwear is removed at the active shrines nearby.",
-    "photography": "Photography of the exterior and its sculpture is generally permitted; tripods or professional equipment may need permission from the Archaeological Survey of India. Follow the posted rules.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away. The temple stands behind the Bala Brahma temple, a few minutes' walk from the Jogulamba temple."
+    "timings": "নবব্রহ্মা প্রাঙ্গণের মধ্যে একটি ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণের স্মারক হিসেবে দিনের আলোর সময় খোলা থাকে; এটি নিত্যপূজার স্থান নয়। বর্তমান সময়সূচি ও কোনও টিকিটের বিষয় স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "স্মারকটিতে কোনও কঠোর পোশাকবিধি প্রযোজ্য নয়, তবে এই পবিত্র প্রাঙ্গণে শালীন পোশাক উপযুক্ত, আর কাছের সক্রিয় মন্দিরগুলিতে পাদুকা খুলে রাখা হয়।",
+    "photography": "বহিরাংশ ও এর ভাস্কর্যের আলোকচিত্রগ্রহণ সাধারণত অনুমোদিত; ট্রাইপড বা পেশাদার সরঞ্জামের জন্য ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণের অনুমতি প্রয়োজন হতে পারে। টাঙানো নিয়মগুলি মেনে চলুন।",
+    "gettingThere": "আলমপুর জোগুলাম্বা গাডওয়াল জেলায়, কুর্নুল থেকে প্রায় ২৫ কিমি এবং হায়দরাবাদ থেকে দক্ষিণে প্রায় ২২০ কিমি দূরে, হায়দরাবাদ–বেঙ্গালুরু মহাসড়কের (NH 44) ঠিক পাশে। হায়দরাবাদ–কুর্নুল লাইনের আলমপুর রোড রেল স্টেশন প্রায় ৯ কিমি দূরে। মন্দিরটি বালা ব্রহ্মা মন্দিরের পিছনে, জোগুলাম্বা মন্দির থেকে কয়েক মিনিটের হাঁটা পথ।"
   }
 }

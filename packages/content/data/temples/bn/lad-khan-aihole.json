@@ -1,30 +1,37 @@
 {
   "id": "lad-khan-aihole",
   "locale": "bn",
+  "name": "লাড খান মন্দির, ঐহোলে",
   "nativeName": "ಲಾಡ್ ಖಾನ್ ದೇವಾಲಯ, ಐಹೊಳೆ",
+  "deity": "শিব, গর্ভগৃহে এখন একটি লিঙ্গ সহ; মূল উৎসর্গ বিতর্কিত, বিষ্ণু বা সূর্য প্রস্তাবিত",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Aihole",
-    "state": "Karnataka",
+    "city": "ঐহোলে",
+    "state": "কর্ণাটক",
     "lat": 16.0199,
     "lng": 75.8812
   },
+  "period": "আদি চালুক্য, খ্রিস্টীয় ৫ম থেকে ৮ম শতাব্দীর মধ্যে বিভিন্নভাবে কালনির্ণীত",
   "century": 5,
+  "dynasty": "বাদামীর চালুক্য (আদি চালুক্য)",
+  "style": "আদি চালুক্য, পরীক্ষামূলক স্তম্ভযুক্ত-মণ্ডপ রীতি",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "ঐহোলের প্রাচীনতম মন্দিরগুলির একটি, স্তম্ভযুক্ত লাড খান মণ্ডপ একটি ছোট গর্ভগৃহের চারপাশে বর্গের মধ্যে বর্গ গুটিয়ে রাখে, একটি ছাদ-মন্দির ও পাথরের জালি সহ যা চালুক্য নির্মাণের একটি আদি, পরীক্ষামূলক পর্যায় চিহ্নিত করে।",
   "sections": {
-    "history": "Lad Khan is one of the oldest standing temples at Aihole, inside the walled enclosure beside the Durga temple. Its date is genuinely debated: older accounts place it in the seventh or eighth century, while current scholarship leans towards about the fifth century, with the porch perhaps added not long afterwards. The name does not come from its builders; it recalls a man called Lad Khan who is said to have lived in the building in the nineteenth century, and accounts differ on whether he was a prince or a hermit. Some scholars suggest the shrine was first dedicated to Vishnu and later to the sun god Surya; today a Shiva linga stands in its sanctum. It is a protected monument, kept by the Archaeological Survey of India.",
-    "architecture": "Where later temples rise in towers, Lad Khan spreads out like an assembly hall. A deep porch with heavy square pillars leads into a sabha-mandapa whose pillars are set in two concentric squares, and beyond it a mukha-mandapa carried on twelve carved pillars; a small rectangular sanctum waits at the back. Large stone lattice windows let light into the hall, and low sloping roofs step down around a little shrine perched on the roof, which holds images of Vishnu, Surya and the Devi. Many architectural historians see in this low, broad form a stone echo of the timber village halls that came before.",
-    "legends": "Lad Khan’s stories belong to the building itself. Its name tells of a later occupant who made a home of the old hall, and the roof shrine, with its images of Vishnu, Surya and the Devi, hints at a long conversation between faiths under one roof. Aihole’s wider folklore is close at hand: tradition says the sage Parashurama washed his axe in the Malaprabha here and turned the river red, giving the town its name. No single legend is fixed to this temple; visitors are invited to read the puzzle of its dedication in the stone.",
-    "festivals": "Lad Khan is a protected monument rather than a temple with a daily round of worship, so it keeps no festival calendar of its own. Aihole’s living shrines and village fairs follow local custom, Maha Shivaratri being the observance most associated with a Shiva linga; confirm dates locally. The Chalukya monuments are also celebrated together in regional heritage festivals of music and dance.",
-    "experience": "Step into the porch and the hall opens around you in squares within squares, cool and dim after the Aihole sun. Light falls through the stone lattices in patterns that drift across the floor through the day. Look up to the little roof shrine, then walk on to the neighbouring Durga temple and the scattered shrines beyond. Early morning or late afternoon is gentler for the enclosure."
+    "history": "লাড খান ঐহোলের প্রাচীনতম বিদ্যমান মন্দিরগুলির একটি, দুর্গা মন্দিরের পাশে প্রাচীর-ঘেরা ঘেরের ভেতরে। এর কাল সত্যিকার অর্থে বিতর্কিত: পুরনো বিবরণ এটিকে সপ্তম বা অষ্টম শতাব্দীতে স্থাপন করে, যেখানে বর্তমান পাণ্ডিত্য প্রায় পঞ্চম শতাব্দীর দিকে ঝোঁকে, বারান্দাটি হয়তো তার কিছু পরেই যোগ হয়েছিল। নামটি এর নির্মাতাদের থেকে আসেনি; এটি লাড খান নামে এক ব্যক্তিকে স্মরণ করায় যিনি ঊনবিংশ শতাব্দীতে ভবনটিতে বাস করেছিলেন বলে কথিত, এবং তিনি একজন রাজকুমার না সন্ন্যাসী ছিলেন তা নিয়ে বিবরণ ভিন্ন। কিছু পণ্ডিত মনে করেন মন্দিরটি প্রথমে বিষ্ণুকে ও পরে সূর্যদেবকে উৎসর্গীকৃত ছিল; আজ এর গর্ভগৃহে একটি শিবলিঙ্গ দাঁড়িয়ে। এটি একটি সংরক্ষিত স্মৃতিসৌধ, ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ দ্বারা রক্ষিত।",
+    "architecture": "যেখানে পরবর্তী মন্দিরগুলি চূড়ায় ওঠে, সেখানে লাড খান একটি সভামণ্ডপের মতো ছড়িয়ে পড়ে। ভারী বর্গাকার স্তম্ভ সহ একটি গভীর বারান্দা একটি সভা-মণ্ডপে নিয়ে যায় যার স্তম্ভগুলি দুটি কেন্দ্রাভিমুখী বর্গে স্থাপিত, এবং তার ওপারে বারোটি খোদিত স্তম্ভে বাহিত একটি মুখ-মণ্ডপ; পেছনে একটি ছোট আয়তাকার গর্ভগৃহ অপেক্ষা করে। বড় পাথরের জালি জানালা মণ্ডপে আলো আনে, এবং নিচু ঢালু ছাদ ছাদের উপর বসানো একটি ছোট মন্দিরের চারপাশে ধাপে ধাপে নেমে আসে, যাতে বিষ্ণু, সূর্য ও দেবীর মূর্তি আছে। অনেক স্থাপত্য-ঐতিহাসিক এই নিচু, প্রশস্ত রূপে তার পূর্ববর্তী কাঠের গ্রাম্য মণ্ডপের পাথরের প্রতিধ্বনি দেখেন।",
+    "legends": "লাড খানের কাহিনি ভবনটির নিজের। এর নাম একজন পরবর্তী বাসিন্দার কথা বলে যিনি পুরনো মণ্ডপটিকে বাসস্থান বানিয়েছিলেন, এবং ছাদ-মন্দির, তার বিষ্ণু, সূর্য ও দেবীর মূর্তি সহ, এক ছাদের নিচে ধর্মগুলির মধ্যে দীর্ঘ কথোপকথনের ইঙ্গিত দেয়। ঐহোলের বৃহত্তর লোককথা কাছেই: ঐতিহ্য বলে যে ঋষি পরশুরাম এখানে মলপ্রভায় তাঁর কুঠার ধুয়েছিলেন ও নদীটিকে লাল করেছিলেন, যা শহরটিকে তার নাম দিয়েছে। এই মন্দিরের সঙ্গে কোনো একক কিংবদন্তি নির্দিষ্ট নয়; দর্শনার্থীদের আমন্ত্রণ জানানো হয় পাথরে এর উৎসর্গের ধাঁধা পড়তে।",
+    "festivals": "লাড খান দৈনিক পূজাচক্র সহ একটি মন্দিরের চেয়ে একটি সংরক্ষিত স্মৃতিসৌধ, তাই এটির নিজস্ব কোনো উৎসব-পঞ্জিকা নেই। ঐহোলের জীবন্ত মন্দির ও গ্রাম্য মেলা স্থানীয় প্রথা অনুসরণ করে, মহাশিবরাত্রি একটি শিবলিঙ্গের সঙ্গে সর্বাধিক সংশ্লিষ্ট আচার; তারিখ স্থানীয়ভাবে নিশ্চিত করুন। চালুক্য স্মৃতিসৌধগুলি সঙ্গীত ও নৃত্যের আঞ্চলিক ঐতিহ্য উৎসবেও একত্রে উদযাপিত হয়।",
+    "experience": "বারান্দায় পা রাখুন ও মণ্ডপটি আপনার চারপাশে বর্গের মধ্যে বর্গে খুলে যায়, ঐহোলের রোদের পর শীতল ও আবছা। পাথরের জালির মধ্য দিয়ে আলো দিনভর মেঝেতে ভেসে বেড়ানো নকশায় পড়ে। ছোট ছাদ-মন্দিরের দিকে তাকান, তারপর প্রতিবেশী দুর্গা মন্দির ও তার ওপারে ছড়ানো মন্দিরগুলিতে চলুন। ঘেরটির জন্য ভোর বা বিকেলের শেষভাগ মৃদুতর।"
   },
   "visit": {
-    "timings": "A protected Archaeological Survey of India monument within the Aihole temple enclosure, open in daytime hours like the other ASI sites here; a ticket is required. Confirm current hours and fees locally.",
-    "dressCode": "No strict dress code applies, but modest dress is appropriate at a sacred site; comfortable footwear helps on the uneven ground.",
-    "photography": "Photography is generally allowed in the open monument; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Aihole is in Bagalkot district, about 35 km from Badami and 15 km from Pattadakal by road; the nearest railheads are Badami and Bagalkot, and the nearest airport is Hubballi. The temple stands in the same walled enclosure as the Durga temple."
+    "timings": "ঐহোলে মন্দির-ঘেরের ভেতরে একটি সংরক্ষিত ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ স্মৃতিসৌধ, এখানকার অন্য এএসআই স্থানগুলির মতো দিনের বেলায় খোলা; একটি টিকিট প্রয়োজন। বর্তমান সময় ও মূল্য স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "কোনো কঠোর পোশাকবিধি প্রযোজ্য নয়, তবে একটি পবিত্র স্থানে শালীন পোশাক উপযুক্ত; অসমান ভূমিতে আরামদায়ক পাদুকা সহায়ক।",
+    "photography": "খোলা স্মৃতিসৌধে সাধারণত ফটোগ্রাফির অনুমতি আছে; ট্রাইপড বা পেশাদার শুটের জন্য স্থান-কর্তৃপক্ষের অনুমতি প্রয়োজন হতে পারে।",
+    "gettingThere": "ঐহোলে বাগলকোট জেলায়, বাদামী থেকে প্রায় ৩৫ কিলোমিটার ও পট্টদকল থেকে সড়কপথে ১৫ কিলোমিটার দূরে; নিকটতম রেলহেড বাদামী ও বাগলকোট, এবং নিকটতম বিমানবন্দর হুব্বল্লি। মন্দিরটি দুর্গা মন্দিরের একই প্রাচীর-ঘেরা ঘেরে দাঁড়িয়ে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/lad-khan-aihole.jpg",

@@ -1,29 +1,36 @@
 {
   "id": "vaimoornathar-tiruvaimur",
   "locale": "bn",
+  "name": "বাইমূর্নাথর মন্দির, তিরুবাইমূর",
   "nativeName": "திருவாய்மூர் வாய்மூர்நாதர் கோயில்",
+  "deity": "শিব বাইমূর্নাথর রূপে (বাইমূর্নাথর, একটি স্বয়ম্ভু লিঙ্গ), দেবী পালিন নন্মোঝিয়াল (ক্ষীরোপ বাসিনী) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruvaimur, near Tirukkuvalai",
-    "state": "Tamil Nadu",
+    "city": "তিরুবাইমূর, তিরুক্কুবলাইয়ের নিকট",
+    "state": "তামিলনাড়ু",
     "lat": 10.6167,
     "lng": 79.7167
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তোত্রে বর্ণিত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "নিম্ন কাবেরী ব-দ্বীপে তিরুক্কুবলাইয়ের নিকটে তিরুবাইমূর শিবকে বাইমূর্নাথর রূপে—একটি স্বয়ম্ভু লিঙ্গে পূজিত—দেবী পালিন নন্মোঝিয়াল সহ সম্মান জানায়। কাবেরীর দক্ষিণ তীরের পাডল পেট্র স্থলমগুলির অন্যতম এই মন্দির, সুন্দরারের সঙ্গে যুক্ত স্থান হিসেবে স্মরণীয়, এবং দক্ষিণ তীরের ১২৪তম তীর্থ হিসেবে গণ্য।",
   "sections": {
-    "history": "Tiruvaimur, near Tirukkuvalai in the lower Kaveri delta, is a Paadal Petra Sthalam hymned in the Tevaram, counted as the 124th shrine on the southern bank of the Kaveri. Set among the seven delta villages of this tract, it is tied in tradition to Sundarar, and the stone temple is of the Chola period and later. (Wikipedia places it in Tiruvarur district, the TN Temples Project in Nagapattinam; the two districts meet nearby.)",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vaimoornathar — Vaaimoornaathar — worshipped in a swayambhu, self-manifest lingam, with the goddess Paalin Nanmozhiyal (Ksheeropa Vasani) in her own shrine, a Nandi and the parivara devatas about the prakara. The compact gopuram and walled courtyard are typical of the smaller Tevaram shrines of this southern tract.",
-    "legends": "The lord is a swayambhu, self-manifest, worshipped as Vaimoornathar; the goddess is praised as Paalin Nanmozhiyal, 'she of words sweet as milk,' and as Ksheeropa Vasani. The place is bound in Shaiva memory to Sundarar, among the delta shrines he hymned on the southern bank. As with many smaller delta temples, the fuller sthala purana survives chiefly in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a delta village shrine. Pilgrims on the Paadal Petra trail of the southern Kaveri include Tiruvaimur among their stops near Tirukkuvalai.",
-    "experience": "At Tiruvaimur the pilgrim comes to a quiet shrine of the self-manifest lord. Before Vaimoornathar and Paalin Nanmozhiyal, in the green delta country near Tirukkuvalai, the visitor finds the unhurried grace of a Tevaram temple of the southern Kaveri, firm in the lingam that rose of itself and in the memory of the saint who sang here."
+    "history": "নিম্ন কাবেরী ব-দ্বীপে তিরুক্কুবলাইয়ের নিকটে তিরুবাইমূর একটি পাডল পেট্র স্থলম, তেবারমে স্তুত এবং কাবেরীর দক্ষিণ তীরের ১২৪তম তীর্থ হিসেবে গণ্য। এই অঞ্চলের সাত ব-দ্বীপ গ্রামের মধ্যে অবস্থিত, এটি ঐতিহ্যে সুন্দরারের সঙ্গে যুক্ত, এবং পাথরের মন্দিরটি চোল যুগের ও তার পরবর্তী। (উইকিপিডিয়া এটিকে তিরুবারুর জেলায় স্থাপন করে, টিএন টেম্পলস প্রজেক্ট নাগাপট্টিনমে; দুই জেলা কাছাকাছি মিলিত হয়েছে।)",
+    "architecture": "একটি দ্রাবিড় ব-দ্বীপ মন্দির, গর্ভগৃহে বাইমূর্নাথর—বাইমূর্নাথর—একটি স্বয়ম্ভু, স্বয়ংপ্রকাশিত লিঙ্গে পূজিত, দেবী পালিন নন্মোঝিয়াল (ক্ষীরোপ বাসিনী) তাঁর নিজস্ব মন্দিরে, একটি নন্দী এবং প্রকারের চারপাশে পরিবার দেবতাগণ সহ। ছোট গোপুরম ও প্রাচীরবেষ্টিত প্রাঙ্গণ এই দক্ষিণাঞ্চলের ক্ষুদ্রতর তেবারম মন্দিরগুলির জন্য সাধারণ।",
+    "legends": "প্রভু স্বয়ম্ভু, স্বয়ংপ্রকাশিত, বাইমূর্নাথর রূপে পূজিত; দেবীকে পালিন নন্মোঝিয়াল, 'যাঁর বাণী দুধের মতো মধুর,' এবং ক্ষীরোপ বাসিনী রূপে স্তুত করা হয়। শৈব স্মৃতিতে স্থানটি সুন্দরারের সঙ্গে আবদ্ধ, দক্ষিণ তীরে তিনি যে ব-দ্বীপ তীর্থগুলি স্তোত্রে গেয়েছিলেন তার মধ্যে একটি। অনেক ক্ষুদ্রতর ব-দ্বীপ মন্দিরের মতোই, পূর্ণাঙ্গ স্থল পুরাণ প্রধানত স্থানীয় ঐতিহ্যে ও তেবারম পদে টিকে আছে।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকাইয়ের সোমবারগুলি প্রদোষ পূজা সহ পালিত হয়, একটি ব-দ্বীপ গ্রাম মন্দিরের শান্ত পরিসরে। দক্ষিণ কাবেরীর পাডল পেট্র পথের তীর্থযাত্রীরা তিরুক্কুবলাইয়ের নিকটে তাঁদের যাত্রাপথে তিরুবাইমূরকে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুবাইমূরে তীর্থযাত্রী স্বয়ংপ্রকাশিত প্রভুর একটি শান্ত মন্দিরে আসেন। তিরুক্কুবলাইয়ের নিকটে সবুজ ব-দ্বীপ অঞ্চলে বাইমূর্নাথর ও পালিন নন্মোঝিয়ালের সামনে দর্শনার্থী দক্ষিণ কাবেরীর একটি তেবারম মন্দিরের অবিচল করুণা খুঁজে পান, যা স্বয়ং উত্থিত লিঙ্গে এবং এখানে গান গাওয়া সন্তের স্মৃতিতে দৃঢ়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvaimur lies near Tirukkuvalai, off the Nagapattinam–Tiruthuraipoondi road in the lower delta. Tiruthuraipoondi (about 8 km) and Tirukkuvalai are the nearest towns, with buses and taxis to the village; Nagapattinam and Tiruvarur are the nearest rail heads."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা রেখে আসতে হয়।",
+    "photography": "বাইরের করিডোরে সাধারণত আলোকচিত্র তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবাইমূর নিম্ন ব-দ্বীপে নাগাপট্টিনম–তিরুত্তুরাইপূন্ডি রাস্তার কাছে তিরুক্কুবলাইয়ের নিকটে অবস্থিত। তিরুত্তুরাইপূন্ডি (প্রায় ৮ কিমি) এবং তিরুক্কুবলাই নিকটতম শহর, গ্রামে বাস ও ট্যাক্সি সহ; নাগাপট্টিনম ও তিরুবারুর নিকটতম রেলপথ।"
   }
 }

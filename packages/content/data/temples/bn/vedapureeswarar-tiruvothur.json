@@ -1,29 +1,36 @@
 {
   "id": "vedapureeswarar-tiruvothur",
   "locale": "bn",
+  "name": "বেদপুরীশ্বর মন্দির, তিরুবোথুর",
   "nativeName": "வேதபுரீஸ்வரர் கோயில்",
+  "deity": "শিব বেদপুরীশ্বর রূপে, দেবী বালাম্বিকৈ (ইলমুলৈ আম্মৈ) সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tiruvothur",
-    "state": "Tamil Nadu",
+    "city": "তিরুবোথুর",
+    "state": "তামিলনাড়ু",
     "lat": 12.662,
     "lng": 79.543
   },
+  "period": "তোণ্ডৈ নাড়ুর প্রাচীন শৈব মন্দির, তেবারমে স্তবগীত (সপ্তম শতাব্দী); মধ্যযুগীয় ও পরবর্তী সংযোজন সহ পাথরের মন্দির",
   "century": 7,
+  "dynasty": "মধ্যযুগীয় তামিল পৃষ্ঠপোষক (পল্লব ও পরবর্তী)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "বেদপুরীশ্বর তোণ্ডৈ দেশের তিরুবোথুরের শিব মন্দির, একটি পাডল পেট্র স্থলম যা সর্বোপরি বালক-সন্ত সম্বন্দরের অলৌকিক ঘটনার জন্য স্মরণীয়, যেখানে একটি ফলহীন পুরুষ তাল গাছকে নারী গাছের মতো ফল ধরতে সক্ষম করা হয়েছিল।",
   "sections": {
-    "history": "Tiruvothur, called Thiruvothur in the Tevaram hymns, stands in the Thondai country of northern Tamil Nadu near the Cheyyar river. It is among the old living Shiva shrines of the region, praised in the Tevaram by the child-saint Tirugnana Sambandar, which counts it among the Paadal Petra Sthalams, the temples sung by the Tamil Shaiva saints. Tradition reads the Lord's name, Vedapureeswarar, as the master of the sacred Vedas. The present stone temple was raised and enlarged by the medieval patrons of the Tamil country and has been kept in worship ever since; the dynasty and date of its first building are not firmly recorded.",
-    "architecture": "Built in the Dravidian manner, the temple holds the Shiva linga as Vedapureeswarar in its sanctum, while the goddess Balambikai, also called Ilamulai Ammai, is honoured in her own shrine. The temple's sacred tree, its sthala vruksham, is the palmyra palm, and Tiruvothur is counted among the small handful of Shiva temples whose associated tree is the palm. A sculpture set in the inner corridor shows the palm beside the Shiva linga with Sambandar standing near, carved in memory of the miracle for which the shrine is best loved.",
-    "legends": "The great legend of Tiruvothur is Sambandar's. A devotee who tended the temple grounds had raised palmyra palms there, but grieved that they were all male and would bear no fruit. Moved by his sorrow, the child-saint sang a decad of verses in praise of the Lord of Tiruvothur, and by the grace of Shiva the barren male palms were changed into fruit-bearing female trees. From this the temple keeps the memory of a Lord who makes the barren fruitful, and the palm is honoured as its sacred tree to this day.",
-    "festivals": "The temple's principal festival is the Brahmotsavam, kept over ten days with street processions, whose seventh-day car festival draws the deities through the town with special grandeur. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Tiruvothur rewards an unhurried visit. Come first to the sanctum of Vedapureeswarar, then turn to the goddess Balambikai in her own shrine, and pause before the carving of the palm and the saint that holds the temple's defining story. The palmyra kept as the sacred tree gives the courtyard its particular character, and devotees who come to pray for fruitfulness and for children hold the place dear. The town sits on the Thondai plain, but within the walls the temple keeps the quiet of a very old sanctuary."
+    "history": "তিরুবোথুর, তেবারম স্তবে যাকে তিরুবোথুর বলা হয়েছে, উত্তর তামিলনাড়ুর তোণ্ডৈ দেশে চেয়ার নদীর নিকটে অবস্থিত। এটি অঞ্চলের প্রাচীন জীবন্ত শিব মন্দিরগুলির অন্যতম, বালক-সন্ত তিরুজ্ঞান সম্বন্দর কর্তৃক তেবারমে প্রশংসিত, যা একে তামিল শৈব সন্তদের গীত মন্দিরসমূহ, অর্থাৎ পাডল পেট্র স্থলমগুলির অন্তর্ভুক্ত করে। প্রথা প্রভুর নাম বেদপুরীশ্বরকে পবিত্র বেদের অধীশ্বর রূপে পাঠ করে। বর্তমান পাথরের মন্দিরটি তামিল দেশের মধ্যযুগীয় পৃষ্ঠপোষকদের দ্বারা নির্মিত ও সম্প্রসারিত এবং তখন থেকে পূজায় রক্ষিত; এর প্রথম নির্মাণের রাজবংশ ও তারিখ দৃঢ়ভাবে নথিভুক্ত নয়।",
+    "architecture": "দ্রাবিড় রীতিতে নির্মিত, মন্দিরটি তার গর্ভগৃহে শিবলিঙ্গকে বেদপুরীশ্বর রূপে ধারণ করে, আর দেবী বালাম্বিকৈ, যিনি ইলমুলৈ আম্মৈ নামেও পরিচিত, তাঁর নিজস্ব মন্দিরে সম্মানিত হন। মন্দিরের পবিত্র বৃক্ষ, তার স্থল বৃক্ষম, হল তাল গাছ, এবং তিরুবোথুর সেই কয়েকটি শিব মন্দিরের অন্যতম যাদের সংশ্লিষ্ট বৃক্ষ তাল। ভিতরের অলিন্দে স্থাপিত একটি ভাস্কর্য শিবলিঙ্গের পাশে তাল গাছ এবং নিকটে দণ্ডায়মান সম্বন্দরকে দেখায়, যে অলৌকিক ঘটনার জন্য মন্দিরটি সবচেয়ে প্রিয় তার স্মরণে খোদিত।",
+    "legends": "তিরুবোথুরের মহান কিংবদন্তি সম্বন্দরের। মন্দিরের প্রাঙ্গণ দেখাশোনা করা এক ভক্ত সেখানে তাল গাছ রোপণ করেছিলেন, কিন্তু দুঃখিত ছিলেন যে সেগুলি সবই পুরুষ এবং ফল ধরবে না। তাঁর শোকে অনুপ্রাণিত হয়ে বালক-সন্ত তিরুবোথুরের প্রভুর প্রশংসায় একটি দশক শ্লোক গেয়েছিলেন, এবং শিবের কৃপায় ফলহীন পুরুষ তাল গাছগুলি ফলবতী নারী গাছে পরিণত হয়। এ থেকে মন্দিরটি সেই প্রভুর স্মৃতি রক্ষা করে যিনি বন্ধ্যাকে ফলবতী করেন, এবং তাল আজও তার পবিত্র বৃক্ষ রূপে সম্মানিত।",
+    "festivals": "মন্দিরের প্রধান উৎসব ব্রহ্মোৎসবম, দশ দিন ধরে রাস্তায় শোভাযাত্রা সহ পালিত হয়, যার সপ্তম দিনের রথযাত্রা বিশেষ জাঁকজমকে শহরের মধ্য দিয়ে দেবতাদের টেনে নিয়ে যায়। প্রতিটি শিব মন্দিরের মতো মহাশিবরাত্রি ও মাসিক প্রদোষম পালিত হয়। তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তিরুবোথুর অবসর নিয়ে দর্শনের পুরস্কার দেয়। প্রথমে বেদপুরীশ্বরের গর্ভগৃহে আসুন, তারপর দেবী বালাম্বিকৈর নিজস্ব মন্দিরে ফিরুন, এবং মন্দিরের সংজ্ঞায়ক কাহিনী ধারণকারী তাল গাছ ও সন্তের খোদাইয়ের সামনে থামুন। পবিত্র বৃক্ষ রূপে রক্ষিত তাল গাছ প্রাঙ্গণকে তার বিশেষ বৈশিষ্ট্য দেয়, এবং যে ভক্তরা ফলবত্তা ও সন্তানের জন্য প্রার্থনা করতে আসেন তাঁরা এই স্থানকে প্রিয় মনে করেন। শহরটি তোণ্ডৈ সমভূমিতে অবস্থিত, কিন্তু প্রাচীরের মধ্যে মন্দিরটি একটি অতি প্রাচীন পবিত্রস্থানের নীরবতা রক্ষা করে।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tiruvothur adjoins Cheyyar town in Tiruvannamalai district, on the road between Kanchipuram and Vandavasi. Cheyyar is served by frequent buses from Kanchipuram, around 40 km away, and from Vellore; the nearest major railheads are at Kanchipuram and Arakkonam, and Chennai is the nearest airport. Confirm distances and connections locally."
+    "timings": "সাধারণত সকালে এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে, মধ্যাহ্নে বিরতি সহ; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা থাকবে। প্রবেশদ্বারের স্ট্যান্ডে জুতো রেখে যেতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে সাধারণত বাইরের অলিন্দ ও প্রাঙ্গণে আলোকচিত্র তোলা অনুমোদিত, কিন্তু অন্তঃগর্ভগৃহের ভিতরে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবোথুর তিরুবণ্ণামলৈ জেলার চেয়ার শহর সংলগ্ন, কাঞ্চিপুরম ও বন্দবাসির মধ্যবর্তী রাস্তায়। চেয়ার কাঞ্চিপুরম থেকে প্রায় ৪০ কিমি দূরে এবং ভেলোর থেকে ঘন ঘন বাসে সংযুক্ত; নিকটতম প্রধান রেলস্টেশনগুলি কাঞ্চিপুরম ও আরাক্কোনমে, এবং চেন্নাই নিকটতম বিমানবন্দর। দূরত্ব ও সংযোগ স্থানীয়ভাবে নিশ্চিত করুন।"
   }
 }

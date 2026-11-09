@@ -1,29 +1,40 @@
 {
   "id": "vedapureeswarar-therazhundur",
   "locale": "bn",
+  "name": "বেদপুরীশ্বরর মন্দির, তেরজুন্দুর",
   "nativeName": "திருவழுந்தூர் வேதபுரீஸ்வரர் கோயில்",
+  "deity": "বেদপুরীশ্বরর রূপে শিব, দেবী সৌন্দরাম্বিগৈর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Therazhundur, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "তেরজুন্দুর, ময়িলাড়ুতুরৈর কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 11,
     "lng": 79.63
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); মধ্যযুগীয় ও পরবর্তী চোল মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ময়িলাড়ুতুরৈর কাছে তেরজুন্দুর শিবকে বেদপুরীশ্বরর রূপে সম্মান জানায়, দেবী সৌন্দরাম্বিগৈর সঙ্গে। তিরুজ্ঞান সম্বন্দর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম, এটি সেই ঐতিহ্যের জন্য স্মরণীয় যাতে গণেশ শিশু-সন্ত সম্বন্দরকে এই শিব তীর্থটি দেখিয়ে দিয়েছিলেন; এটি বিবাহ ও পুনর্মিলনের একটি প্রার্থনাস্থল।",
   "sections": {
-    "history": "Therazhundur lies about 15 km from Mayiladuthurai, in Mayiladuthurai district (some listings Nagapattinam). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. Two inscriptions in 12th-century script, of the 34th and 44th years of Kulottunga Chola I, are found here; the temple is medieval and later Chola.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vedapureeswarar in the sanctum, with the goddess Soundaraambigai in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and gopuram keep the form of the Shiva temples near Mayiladuthurai. (The town also holds the Vishnu temple of Amaruviappan, a Divya Desam.)",
-    "legends": "Tradition tells that the child-saint Sambandar could not tell this Shiva temple apart from the neighbouring Vishnu shrine, and Ganesha manifested to point out the shrine of Shiva. Shiva is worshipped as Vedapureeswarar, 'lord of the city of the Vedas,' with Soundaraambigai beside him; the shrine is a prarthana sthalam for those seeking marriage or the reunion of estranged couples.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Devotees come to Vedapureeswarar to pray for marriage and household harmony.",
-    "experience": "At Therazhundur the pilgrim comes to the lord of the Vedas' city. Before Vedapureeswarar and Soundaraambigai, in the green country near Mayiladuthurai, the visitor finds the quiet grace of a Tevaram temple, and the memory of Ganesha who pointed the way for the child-saint."
+    "history": "তেরজুন্দুর ময়িলাড়ুতুরৈ থেকে প্রায় ১৫ কিমি দূরে, ময়িলাড়ুতুরৈ জেলায় অবস্থিত (কিছু তালিকায় নাগাপট্টিনম)। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুজ্ঞান সম্বন্দর কর্তৃক স্তুত। প্রথম কুলোত্তুঙ্গ চোলের ৩৪তম ও ৪৪তম বর্ষের দ্বাদশ শতকের লিপিতে লেখা দুটি শিলালেখ এখানে পাওয়া যায়; মন্দিরটি মধ্যযুগীয় ও পরবর্তী চোল যুগের।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এর গর্ভগৃহে বেদপুরীশ্বরর অধিষ্ঠিত, দেবী সৌন্দরাম্বিগৈ তাঁর নিজস্ব গর্ভগৃহে, এবং একটি নন্দী ও প্রাকার জুড়ে পরিবার দেবতারা। প্রাচীরঘেরা প্রাঙ্গণ ও গোপুরম ময়িলাড়ুতুরৈর কাছের শিব মন্দিরগুলির রূপ ধরে রাখে। (শহরটিতে অমরুবিয়াপ্পনের বিষ্ণু মন্দিরও আছে, একটি দিব্যদেশম।)",
+    "legends": "ঐতিহ্য বলে যে শিশু-সন্ত সম্বন্দর এই শিব মন্দিরকে প্রতিবেশী বিষ্ণু তীর্থ থেকে আলাদা করতে পারছিলেন না, এবং গণেশ আবির্ভূত হয়ে শিবের গর্ভগৃহ দেখিয়ে দিয়েছিলেন। শিব বেদপুরীশ্বরর রূপে পূজিত, 'বেদের নগরীর প্রভু,' পাশে সৌন্দরাম্বিগৈ; তীর্থটি যাঁরা বিবাহ বা বিচ্ছিন্ন দম্পতিদের পুনর্মিলন প্রার্থনা করেন তাঁদের জন্য একটি প্রার্থনা স্থলম।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈর সোমবারগুলি পালন করে, প্রদোষ পূজা সহ। ভক্তরা বিবাহ ও গৃহস্থালির সম্প্রীতির জন্য প্রার্থনা করতে বেদপুরীশ্বররের কাছে আসেন।",
+    "experience": "তেরজুন্দুরে তীর্থযাত্রী বেদের নগরীর প্রভুর কাছে আসেন। ময়িলাড়ুতুরৈর কাছে সবুজ গ্রামাঞ্চলে বেদপুরীশ্বরর ও সৌন্দরাম্বিগৈর সামনে দর্শনার্থী এক তেবারম মন্দিরের নিরিবিলি কৃপা খুঁজে পান, এবং শিশু-সন্তকে পথ দেখানো গণেশের স্মৃতি।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Therazhundur lies about 15 km from Mayiladuthurai, in Mayiladuthurai district. Mayiladuthurai is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের করিডরে সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তেরজুন্দুর ময়িলাড়ুতুরৈ থেকে প্রায় ১৫ কিমি দূরে, ময়িলাড়ুতুরৈ জেলায় অবস্থিত। ময়িলাড়ুতুরৈ নিকটতম শহর ও রেলস্টেশন, গ্রাম পর্যন্ত বাস ও ট্যাক্সি সহ।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vedapureeswarar-therazhundur.mp3",
+    "durationSec": 148
   }
 }

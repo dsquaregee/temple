@@ -1,29 +1,36 @@
 {
   "id": "semmeninathar-tirukkanur",
   "locale": "bn",
+  "name": "সেম্মেনিনাথর মন্দির, তিরুক্কানুর",
   "nativeName": "செம்மேனிநாதர் கோயில்",
+  "deity": "শিব সেম্মেনিনাথর রূপে (করুম্বেশ্বরর নামেও), দেবী শিবযোগ নায়কী-সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tirukkanur",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কানুর",
+    "state": "তামিলনাড়ু",
     "lat": 10.89,
     "lng": 78.96
   },
+  "period": "কোল্লিডম নদীর তীরে প্রাচীন শৈব মন্দির, সম্বন্দর ও অপ্পর দ্বারা তেবারমে স্তুত (সপ্তম শতাব্দী); পরবর্তী সংযোজনসহ চোলদেশের কাঠামোবদ্ধ মন্দির",
   "century": 7,
+  "dynasty": "আদি চোলদেশ (বর্তমান কাঠামোর পৃষ্ঠপোষক দৃঢ়ভাবে উৎসভুক্ত নয়)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুক্কানুরের সেম্মেনিনাথর মন্দির কোল্লিডমের তীরে এক নিরিবিলি তেবারম মন্দির, যেখানে শিবকে রক্তবর্ণদেহ প্রভু রূপে পূজা করা হয়, এবং যেখানে পরম্পরা বলে নদীর বালিতে চাপা পড়া এক মন্দিরের কথা যা একটিমাত্র আখের নিচে আবার পাওয়া গিয়েছিল।",
   "sections": {
-    "history": "Tirukkanur lies on the bank of the Kollidam in Thanjavur district, a few kilometres from Tirukkattupalli, and is counted among the Paadal Petra Sthalams, the Shiva temples north of the Kaveri praised in the Tevaram by Sambandar and Appar. Appar's hymn describes the form of the Lord of Kanur, and the name of the presiding deity, Semmeninathar, the Lord of the red body, recalls that radiant form. The locality is also called Manalmedu, the sandy mound, a name that speaks of the river that has shaped this place. Tradition links the site with the early Chola king Karikala, though the patrons of the present structure are not firmly known. Remote and little changed, it remains a place of quiet, steady worship.",
-    "architecture": "The temple faces east and is modest in scale, entered beneath a two-tiered rajagopuram whose ceiling carries carved reliefs of the solar and lunar eclipses. The sanctum of Semmeninathar holds the linga, honoured as swayambhu, self-manifested. The goddess Sivayoga Nayaki has her own shrine facing south, crowned by a vesara-style vimana. Beyond the walls, the Kollidam and open fields give the temple a setting of rare stillness, far from the crowds of the larger Kaveri shrines.",
-    "legends": "Three old traditions gather at Tirukkanur. In one, the goddess Parvati performed penance at this place, and Shiva appeared before her as a blazing fire, red as flame, and so came to be called Semmeninathar, the red-bodied Lord. In another, the sage Parasurama worshipped Shiva here to be freed from the burden of his deeds as a warrior. The third is the story of the sugarcane: the temple, it is said, lay hidden beneath drifted river sand until a shepherd came upon it, with a single sugarcane growing from the spot. From karumbu, the Tamil word for sugarcane, the Lord is also called Karumbeswarar. Each is a tradition of the place and is told as such.",
-    "festivals": "The most distinctive observance here is the sun's own worship. In the Tamil month of Panguni, around the first days of April, the morning rays are reported to fall on the linga for about three days, and the temple keeps these as a festival of Surya's homage. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Tirukkanur is for those who prefer solitude to spectacle. The temple is small, the road ends in a rough track, and the priest comes from the nearby town, so plan the visit in daylight and arrange it beforehand. Offer prayers to Semmeninathar, then to Sivayoga Nayaki in her south-facing shrine, and look up at the eclipse reliefs on the gopuram ceiling. If the day is clear, linger by the Kollidam; the sandy ground and the open sky explain why the place was once called Manalmedu."
+    "history": "তিরুক্কানুর তাঞ্জাভুর জেলায় কোল্লিডমের তীরে, তিরুক্কাট্টুপল্লি থেকে কয়েক কিলোমিটার দূরে অবস্থিত, এবং পাডল পেট্র স্থলমগুলির অন্যতম হিসেবে গণ্য, কাবেরীর উত্তরের শিবমন্দির যা সম্বন্দর ও অপ্পর দ্বারা তেবারমে স্তুত। অপ্পরের স্তোত্র কানুরের প্রভুর রূপ বর্ণনা করে, এবং প্রধান দেবতার নাম সেম্মেনিনাথর, রক্তবর্ণদেহের প্রভু, সেই দীপ্তিময় রূপ স্মরণ করায়। স্থানটি মানলমেড়ু নামেও পরিচিত, বালির ঢিবি, এমন নাম যা এই স্থান গড়ে তোলা নদীর কথা বলে। পরম্পরা স্থানটিকে আদি চোল রাজা কারিকালের সঙ্গে যুক্ত করে, যদিও বর্তমান কাঠামোর পৃষ্ঠপোষক দৃঢ়ভাবে জানা নেই। দূরবর্তী ও সামান্যই পরিবর্তিত, এটি নীরব, স্থির পূজার স্থান হিসেবে রয়ে গেছে।",
+    "architecture": "মন্দিরটি পূর্বমুখী এবং আকারে বিনম্র, দুইস্তরের রাজগোপুরমের নিচ দিয়ে প্রবেশ করা হয় যার ছাদে সূর্য ও চন্দ্রগ্রহণের খোদাই রয়েছে। সেম্মেনিনাথরের গর্ভগৃহে লিঙ্গ রয়েছে, স্বয়ম্ভু, স্বতঃপ্রকট রূপে সম্মানিত। দেবী শিবযোগ নায়কীর নিজস্ব দক্ষিণমুখী মন্দির আছে, বেসর-রীতির বিমানে শোভিত। দেয়ালের ওপারে কোল্লিডম ও খোলা খেত মন্দিরকে এক বিরল স্তব্ধতার পরিবেশ দেয়, বৃহত্তর কাবেরী মন্দিরগুলির ভিড় থেকে দূরে।",
+    "legends": "তিরুক্কানুরে তিনটি পুরনো পরম্পরা মিলিত হয়। একটিতে, দেবী পার্বতী এই স্থানে তপস্যা করেছিলেন, এবং শিব তার সামনে প্রজ্বলিত অগ্নি রূপে আবির্ভূত হন, শিখার মতো রক্তবর্ণ, এবং তাই সেম্মেনিনাথর, রক্তবর্ণদেহ প্রভু নামে পরিচিত হন। অপরটিতে, ঋষি পরশুরাম এখানে শিবের পূজা করেছিলেন যোদ্ধা হিসেবে তার কর্মের ভার থেকে মুক্তি পেতে। তৃতীয়টি আখের কাহিনি: বলা হয় মন্দিরটি বয়ে আসা নদীর বালির নিচে লুকিয়ে ছিল, যতক্ষণ না এক মেষপালক তা খুঁজে পান, যেখানে সেই স্থান থেকে একটিমাত্র আখ গজিয়ে উঠেছিল। করুম্বু, আখের তামিল শব্দ থেকে, প্রভু করুম্বেশ্বরর নামেও পরিচিত। প্রতিটি স্থানের পরম্পরা এবং সেভাবেই বলা হয়।",
+    "festivals": "এখানকার সবচেয়ে স্বতন্ত্র পালন হল সূর্যের নিজস্ব উপাসনা। তামিল পঙ্গুনি মাসে, এপ্রিলের প্রথম দিনগুলিতে, বলা হয় সকালের কিরণ প্রায় তিন দিন লিঙ্গের ওপর পড়ে, এবং মন্দির এগুলিকে সূর্যের অর্ঘ্যের উৎসব হিসেবে পালন করে। মহাশিবরাত্রি ও মাসিক প্রদোষম প্রতিটি শিবমন্দিরের মতোই পালিত হয়। তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তিরুক্কানুর তাদের জন্য যারা জাঁকজমকের চেয়ে নির্জনতা পছন্দ করেন। মন্দির ছোট, রাস্তা শেষ হয় এক এবড়োখেবড়ো পথে, এবং পুরোহিত নিকটবর্তী শহর থেকে আসেন, তাই দিনের আলোয় দর্শনের পরিকল্পনা করুন এবং আগে থেকে ব্যবস্থা করুন। সেম্মেনিনাথরের কাছে প্রার্থনা করুন, তারপর তার দক্ষিণমুখী মন্দিরে শিবযোগ নায়কীর কাছে, এবং গোপুরমের ছাদে গ্রহণের খোদাইয়ের দিকে চেয়ে দেখুন। দিন পরিষ্কার হলে, কোল্লিডমের ধারে কিছুক্ষণ থামুন; বালুময় ভূমি ও খোলা আকাশ ব্যাখ্যা করে কেন এই স্থান একসময় মানলমেড়ু নামে পরিচিত ছিল।"
   },
   "visit": {
-    "timings": "Reported hours are a short morning window (about 10:00 to 11:30) and a late-afternoon window (about 3:30 to 5:00). The priest travels from Tirukkattupalli, so contact him or the temple in advance and confirm timings locally.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the temple.",
-    "photography": "Photography is generally permitted in the outer areas but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask the priest before photographing rituals.",
-    "gettingThere": "Tirukkanur stands on the bank of the Kollidam in Thanjavur district, about 6 km from Tirukkattupalli, which is as far as the buses go. From there, hire an auto-rickshaw or car; the last stretch is an unpaved road, so a daylight visit is advised. Budhalur is the nearest listed railway station, and Tiruchirappalli the nearest airport."
+    "timings": "প্রকাশিত সময় হল একটি সংক্ষিপ্ত সকালের সময় (প্রায় ১০টা থেকে ১১টা ৩০) এবং একটি বিকেলের শেষ সময় (প্রায় ৩টা ৩০ থেকে ৫টা)। পুরোহিত তিরুক্কাট্টুপল্লি থেকে আসেন, তাই আগে থেকে তার বা মন্দিরের সঙ্গে যোগাযোগ করুন এবং স্থানীয়ভাবে সময় নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা ঘাগরা, কাঁধ ও হাঁটু ঢাকা রেখে। মন্দিরের বাইরে জুতো রেখে যাওয়া হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে বাইরের অংশে সাধারণত ছবি তোলার অনুমতি আছে, কিন্তু অন্তঃগর্ভগৃহের ভিতরে নিষিদ্ধ। আচারের ছবি তোলার আগে পুরোহিতকে জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুক্কানুর তাঞ্জাভুর জেলায় কোল্লিডমের তীরে দাঁড়িয়ে আছে, তিরুক্কাট্টুপল্লি থেকে প্রায় ৬ কিমি দূরে, যতদূর বাস যায়। সেখান থেকে অটোরিকশা বা গাড়ি ভাড়া করুন; শেষ অংশটি একটি কাঁচা রাস্তা, তাই দিনের আলোয় দর্শনের পরামর্শ দেওয়া হয়। বুধলুর নিকটতম তালিকাভুক্ত রেলস্টেশন, এবং তিরুচিরাপল্লি নিকটতম বিমানবন্দর।"
   }
 }

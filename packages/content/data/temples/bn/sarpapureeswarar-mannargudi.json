@@ -1,29 +1,36 @@
 {
   "id": "sarpapureeswarar-mannargudi",
   "locale": "bn",
+  "name": "সর্পপুরীশ্বরর মন্দির, পামণি (মন্নারগুড়ি)",
   "nativeName": "பாமணி சர்ப்பபுரீஸ்வரர் (நாகநாதர்) கோயில்",
+  "deity": "শিব সর্পপুরীশ্বরর (নাগনাথর) রূপে, দেবী অমৃত নায়িকী সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, তেবারমে বন্দিত",
   "location": {
-    "city": "Paamani, near Mannargudi",
-    "state": "Tamil Nadu",
+    "city": "পামণি, মন্নারগুড়ির কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.6889,
     "lng": 79.4542
   },
+  "period": "তেবারম যুগ, চোল যুগের স্থাপত্য সহ",
   "century": 9,
+  "dynasty": "চোল (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "মন্নারগুড়ির কিছুটা উত্তরে, এখন পামণি নামে পরিচিত গ্রামে, একটি পাডল পেট্র স্থলম দাঁড়িয়ে আছে যেখানে শিবকে সর্পপুরীশ্বরর — সর্পনগরীর অধিপতি — নাগনাথর নামেও পূজা করা হয়, সঙ্গে থাকেন দেবী অমৃত নায়িকী। এর ঐতিহাসিক নাম তিরুপ্পাদলীশ্বরম, এবং এটি বালক-সন্ত তিরুজ্ঞান সম্বন্দরের একটি স্তোত্রে প্রশংসিত হয়েছিল। প্রাচীন নামযুক্ত একটি সাধারণ ব-দ্বীপ মন্দির, এটি মহান তেবারম ভূদৃশ্যের এক শান্ত সদস্য।",
   "sections": {
-    "history": "The temple at Paamani, about three and a half kilometres north of Mannargudi, is an ancient Shaiva site whose historical name is Tiruppaadhaleeswaram. It is counted among the Paadal Petra Sthalams, the shrines praised in the Tevaram, with a hymn attributed to Tirugnana Sambandar. The present stone fabric belongs broadly to the Chola period and later renovation; like many smaller delta temples, its documented history is slight, and its standing rests chiefly on its place in the Tevaram canon.",
-    "architecture": "The temple follows the Dravidian plan, with a gopuram, a modest prakara and the sanctum of Sarpapureeswarar, the lingam worshipped as Naganathar. The goddess Amirtha Nayaki has her own shrine. As a village temple it keeps the quiet, intimate scale typical of the lesser-known Paadal Petra shrines, without the towering gateways of the great delta centres.",
-    "legends": "The names Sarpapureeswarar and Naganathar connect the lord to the serpents, nagas, who in the Shaiva tradition are devotees of Shiva and whose worship is associated with relief from the afflictions ascribed to the naga-dosha. Devotees accordingly come here with prayers concerning serpent-related doshas and for general well-being. The detailed sthala-purana of this small shrine is less widely recorded than those of the larger temples nearby.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham and the Margazhi observances — at the quieter scale of a village shrine. Pradosham, especially, draws devotees given the temple's serpent associations, and local observances mark the Tamil months.",
-    "experience": "Paamani offers the pilgrim the unhurried devotion of a small delta temple with a venerable name. Away from the crowds of the famous centres, the darshan of Sarpapureeswarar is a quiet one, and the temple rewards those who seek out the lesser-known shrines of the Tevaram with the sense of an old sanctity carefully kept."
+    "history": "মন্নারগুড়ির প্রায় সাড়ে তিন কিলোমিটার উত্তরে পামণির মন্দিরটি একটি প্রাচীন শৈব স্থান, যার ঐতিহাসিক নাম তিরুপ্পাদলীশ্বরম। এটি পাডল পেট্র স্থলমগুলির মধ্যে গণ্য, তেবারমে প্রশংসিত মন্দির, তিরুজ্ঞান সম্বন্দরের একটি স্তোত্র এর সঙ্গে যুক্ত। বর্তমান পাথরের কাঠামোটি মোটামুটি চোল যুগ ও পরবর্তী সংস্কারের; অনেক ছোট ব-দ্বীপ মন্দিরের মতোই এর নথিভুক্ত ইতিহাস স্বল্প, এবং এর মর্যাদা মূলত তেবারম সংহিতায় এর স্থানের উপর নির্ভরশীল।",
+    "architecture": "মন্দিরটি দ্রাবিড় পরিকল্পনা অনুসরণ করে, একটি গোপুরম, একটি সাধারণ প্রাকার এবং সর্পপুরীশ্বররের গর্ভগৃহ সহ, যেখানে লিঙ্গ নাগনাথর রূপে পূজিত। দেবী অমৃত নায়িকীর নিজস্ব মন্দির আছে। গ্রাম্য মন্দির হিসেবে এটি কম-পরিচিত পাডল পেট্র মন্দিরগুলির বৈশিষ্ট্যপূর্ণ শান্ত, অন্তরঙ্গ আকার বজায় রাখে, বড় ব-দ্বীপ কেন্দ্রগুলির সুউচ্চ প্রবেশদ্বার ছাড়াই।",
+    "legends": "সর্পপুরীশ্বরর ও নাগনাথর নাম প্রভুকে সর্প, নাগদের সঙ্গে যুক্ত করে, যারা শৈব ঐতিহ্যে শিবের ভক্ত এবং যাদের পূজা নাগ-দোষের কারণে হওয়া কষ্ট থেকে মুক্তির সঙ্গে সম্পর্কিত। সেই অনুসারে ভক্তরা এখানে সর্প-সম্পর্কিত দোষ ও সাধারণ কল্যাণের প্রার্থনা নিয়ে আসেন। এই ছোট মন্দিরের বিস্তারিত স্থল-পুরাণ নিকটবর্তী বড় মন্দিরগুলির তুলনায় কম পরিচিত।",
+    "festivals": "মন্দিরটি শৈব উৎসব পঞ্জিকা পালন করে — মহাশিবরাত্রি, প্রদোষম এবং মার্গঝি আচার — গ্রাম্য মন্দিরের শান্ত পরিসরে। বিশেষত প্রদোষম, মন্দিরের সর্প-সংযোগের কারণে ভক্তদের আকর্ষণ করে, এবং স্থানীয় আচার তামিল মাসগুলিকে চিহ্নিত করে।",
+    "experience": "পামণি তীর্থযাত্রীকে একটি প্রাচীন নামযুক্ত ছোট ব-দ্বীপ মন্দিরের অবসর ভক্তি দেয়। বিখ্যাত কেন্দ্রগুলির ভিড় থেকে দূরে, সর্পপুরীশ্বররের দর্শন এক শান্ত দর্শন, এবং যারা তেবারমের কম-পরিচিত মন্দিরগুলি খুঁজে বের করেন তাদের মন্দিরটি যত্নে রক্ষিত এক প্রাচীন পবিত্রতার অনুভূতি দিয়ে পুরস্কৃত করে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Paamani is about 3.5 km north of Mannargudi in Tiruvarur district; Mannargudi is the nearest rail head and town, with local buses and autos to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা খুলে রাখতে হয়।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত ছবি তোলা যায়, তবে গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "পামণি তিরুবারুর জেলায় মন্নারগুড়ির প্রায় সাড়ে ৩ কিমি উত্তরে; মন্নারগুড়ি নিকটতম রেলস্টেশন ও শহর, গ্রামে যাওয়ার জন্য স্থানীয় বাস ও অটো রয়েছে।"
   }
 }

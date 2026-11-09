@@ -1,30 +1,37 @@
 {
   "id": "sangameshwara-pattadakal",
   "locale": "bn",
+  "name": "সঙ্গমেশ্বর মন্দির (বিজয়েশ্বর), পট্টডকল",
   "nativeName": "ಸಂಗಮೇಶ್ವರ ದೇವಾಲಯ, ಪಟ್ಟದಕಲ್ಲು",
+  "deity": "শিব বিজয়েশ্বর রূপে, আজ সঙ্গমেশ্বর নামে পরিচিত",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Pattadakal",
-    "state": "Karnataka",
+    "city": "পট্টডকল",
+    "state": "কর্ণাটক",
     "lat": 15.95,
     "lng": 75.816
   },
+  "period": "চালুক্য, বিজয়াদিত্য সত্যাশ্রয়ের রাজত্বকাল, আনুমানিক ৬৯৬–৭৩৩ খ্রিস্টাব্দ",
   "century": 8,
+  "dynasty": "বাদামির চালুক্য (বিজয়াদিত্য)",
+  "style": "দ্রাবিড়, আদি চালুক্য",
   "unesco": true,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "পট্টডকলের প্রাচীনতম মন্দির, চালুক্য রাজা বিজয়াদিত্য শিবের জন্য বিজয়েশ্বর রূপে নির্মিত, সঙ্গমেশ্বর একটি ইউনেস্কো-তালিকাভুক্ত আদি দ্রাবিড় মন্দির যা নির্মাতার মৃত্যুতে অসমাপ্ত রয়ে যায়।",
   "sections": {
-    "history": "Pattadakal, on the banks of the Malaprabha, was where Chalukya kings were crowned, and its monuments were inscribed as a UNESCO World Heritage Site in 1987. Sangameshwara is the oldest of them, commissioned by Vijayaditya Satyashraya, who ruled from about 696 to 733 CE. He is said to have installed a Shiva linga named Vijayeshvara after himself, and the temple carries that name beside its present one. Sources differ on the exact years, one placing the start around 720 CE. It was left unfinished at his death, and work went on only intermittently in later centuries. A Kannada inscription tablet of 1162 CE stands at the temple, a reminder of how long it has been in use. It sits between the Galaganatha and Virupaksha temples.",
-    "architecture": "Sangameshwara is a Dravida temple with a square sanctum, an antechamber and a large pillared hall of about twenty pillars, now partly ruined, with the remains of a Nandi mandapa in front. The Archaeological Survey of India notes that it stands nearer to the Pallava form than its younger neighbours, lacking the projecting sukanasika on the front of the tower. Its tower is an early experiment in a design that the builders of Virupaksha and Mallikarjuna would later refine. Seen beside them, Sangameshwara is the rehearsal, plain and weighty, for the fuller statements that followed.",
-    "legends": "No single legend is tied to Sangameshwara; its story is a royal one. A king set his own word for victory, vijaya, into the name of the god he installed, Vijayeshvara, lord of victory. The unfinished stones add their own note: even great kings leave work for those who come after. Pattadakal itself carries the memory of coronations, its name pointing to the stone of crowning, and the temple stands as a quiet witness to the dynasty that ruled from here.",
-    "festivals": "Sangameshwara is a protected monument rather than a temple with a daily round of worship, so it keeps no festival calendar of its own. Maha Shivaratri is the observance most associated with Shiva temples in the region; confirm dates locally. Pattadakal is also known for its annual dance festival staged among the monuments, which is worth checking for when planning a visit.",
-    "experience": "Walk to Sangameshwara from the Virupaksha enclosure and the difference is immediate: older, plainer, more sober. Stand before the broad, partly ruined hall and look up at the tower, then circle the walls where the stone changes from finished to unfinished. The Malaprabha flows close by, and late afternoon light turns the sandstone gold. It rewards anyone who enjoys seeing a great tradition at the moment it was still finding its form."
+    "history": "পট্টডকল, মলপ্রভা নদীর তীরে, যেখানে চালুক্য রাজাদের অভিষেক হত, এবং এর স্মারকগুলি ১৯৮৭ সালে ইউনেস্কো বিশ্ব ঐতিহ্যস্থল হিসেবে অন্তর্ভুক্ত হয়। সঙ্গমেশ্বর এদের মধ্যে প্রাচীনতম, বিজয়াদিত্য সত্যাশ্রয়ের আদেশে নির্মিত, যিনি আনুমানিক ৬৯৬ থেকে ৭৩৩ খ্রিস্টাব্দ পর্যন্ত রাজত্ব করেন। বলা হয় তিনি নিজের নামে বিজয়েশ্বর নামে একটি শিবলিঙ্গ প্রতিষ্ঠা করেছিলেন, এবং মন্দির তার বর্তমান নামের পাশে সেই নামও বহন করে। সূত্রগুলি সঠিক বছর নিয়ে ভিন্নমত, একটি সূত্র শুরুটি আনুমানিক ৭২০ খ্রিস্টাব্দে স্থাপন করে। এটি তার মৃত্যুতে অসমাপ্ত রয়ে যায়, এবং পরবর্তী শতাব্দীগুলিতে কাজ কেবল থেমে থেমে এগিয়েছে। ১১৬২ খ্রিস্টাব্দের একটি কন্নড় শিলালিপি ফলক মন্দিরে দাঁড়িয়ে আছে, যা এর দীর্ঘ ব্যবহারের স্মারক। এটি গলগনাথ ও বিরূপাক্ষ মন্দিরের মাঝে অবস্থিত।",
+    "architecture": "সঙ্গমেশ্বর একটি দ্রাবিড় মন্দির, যার আছে বর্গাকার গর্ভগৃহ, একটি অন্তরাল ও প্রায় বিশটি স্তম্ভের বড় স্তম্ভশালা, যা এখন আংশিক ধ্বংসপ্রাপ্ত, সামনে একটি নন্দী মণ্ডপের অবশেষসহ। ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ উল্লেখ করে যে এটি তার কনিষ্ঠ প্রতিবেশীদের চেয়ে পল্লব রূপের কাছাকাছি, শিখরের সম্মুখে প্রক্ষিপ্ত শুকনাসিকা অনুপস্থিত। এর শিখর একটি নকশার আদি পরীক্ষা, যা বিরূপাক্ষ ও মল্লিকার্জুনের নির্মাতারা পরে পরিশীলিত করবেন। তাদের পাশে দেখা গেলে সঙ্গমেশ্বর হল মহড়া, সরল ও ভারী, পরবর্তী পূর্ণতর বক্তব্যের জন্য।",
+    "legends": "সঙ্গমেশ্বরের সঙ্গে কোনো একক কিংবদন্তি যুক্ত নয়; এর কাহিনি রাজকীয়। এক রাজা তার বিজয়ের নিজস্ব শব্দ, বিজয়, প্রতিষ্ঠিত দেবতার নামে গেঁথে দিলেন, বিজয়েশ্বর, বিজয়ের প্রভু। অসমাপ্ত পাথরগুলি নিজস্ব সুর যোগ করে: এমনকি মহান রাজারাও পরবর্তীদের জন্য কাজ রেখে যান। পট্টডকল নিজেই অভিষেকের স্মৃতি বহন করে, এর নাম অভিষেকের পাথরের দিকে ইঙ্গিত করে, এবং মন্দির এখান থেকে শাসনকারী রাজবংশের এক নীরব সাক্ষীরূপে দাঁড়িয়ে আছে।",
+    "festivals": "সঙ্গমেশ্বর দৈনিক পূজার চক্রযুক্ত মন্দিরের বদলে একটি সংরক্ষিত স্মারক, তাই এটির নিজস্ব কোনো উৎসব পঞ্জিকা নেই। এই অঞ্চলে শিবমন্দিরের সঙ্গে সবচেয়ে বেশি যুক্ত পালন হল মহাশিবরাত্রি; স্থানীয়ভাবে তারিখ নিশ্চিত করুন। পট্টডকল স্মারকগুলির মাঝে অনুষ্ঠিত তার বার্ষিক নৃত্য উৎসবের জন্যও পরিচিত, যা দর্শন পরিকল্পনার সময় খোঁজ নেওয়ার যোগ্য।",
+    "experience": "বিরূপাক্ষ প্রাঙ্গণ থেকে সঙ্গমেশ্বরের দিকে হেঁটে গেলে পার্থক্য সঙ্গে সঙ্গে চোখে পড়ে: প্রাচীনতর, সরলতর, আরও গম্ভীর। প্রশস্ত, আংশিক ধ্বংসপ্রাপ্ত শালার সামনে দাঁড়িয়ে শিখরের দিকে চেয়ে দেখুন, তারপর দেয়াল ঘুরে দেখুন যেখানে পাথর সমাপ্ত থেকে অসমাপ্তে বদলে যায়। মলপ্রভা কাছ দিয়ে বয়ে চলে, এবং বিকেলের শেষ আলো বেলেপাথরকে সোনালি করে তোলে। যে কেউ এক মহান পরম্পরাকে তার রূপ খুঁজে পাওয়ার মুহূর্তে দেখতে ভালোবাসেন, তাকে এটি পুরস্কৃত করে।"
   },
   "visit": {
-    "timings": "Open daily in daytime hours as an Archaeological Survey of India monument and UNESCO site; a single ticket admits visitors to the Pattadakal complex. Confirm current hours and fees locally.",
-    "dressCode": "No strict dress code applies, but modest dress is appropriate given the sacred character of the site; comfortable footwear helps for walking the open complex.",
-    "photography": "Photography is generally permitted across the open-air site; tripods or professional equipment may require permission.",
-    "gettingThere": "Pattadakal is in Karnataka’s Bagalkot district, about 22 km from Badami, which has the nearest railway station, and around 130 km from Hubballi, the nearest airport. It is usually visited together with Badami and Aihole. Sangameshwara stands inside the Pattadakal monument complex."
+    "timings": "ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণের স্মারক ও ইউনেস্কো স্থল হিসেবে প্রতিদিন দিনের বেলা খোলা; একটিমাত্র টিকিটে দর্শনার্থীরা পট্টডকল প্রাঙ্গণে প্রবেশ করেন। বর্তমান সময় ও মূল্য স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "কোনো কঠোর পোশাকবিধি প্রযোজ্য নয়, তবে স্থানের পবিত্র চরিত্রের কথা ভেবে শালীন পোশাক উপযুক্ত; খোলা প্রাঙ্গণে হাঁটার জন্য আরামদায়ক জুতো সহায়ক।",
+    "photography": "খোলা প্রাঙ্গণ জুড়ে সাধারণত ছবি তোলার অনুমতি আছে; ট্রাইপড বা পেশাদার সরঞ্জামের জন্য অনুমতি লাগতে পারে।",
+    "gettingThere": "পট্টডকল কর্ণাটকের বাগলকোট জেলায়, বাদামি থেকে প্রায় ২২ কিমি দূরে, যেখানে নিকটতম রেলস্টেশন, এবং নিকটতম বিমানবন্দর হুব্বল্লি থেকে প্রায় ১৩০ কিমি। এটি সাধারণত বাদামি ও আইহোলের সঙ্গে একত্রে দর্শিত হয়। সঙ্গমেশ্বর পট্টডকল স্মারক প্রাঙ্গণের ভিতরে দাঁড়িয়ে আছে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sangameshwara-pattadakal.jpg",

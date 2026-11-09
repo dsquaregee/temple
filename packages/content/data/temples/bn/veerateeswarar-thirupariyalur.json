@@ -1,30 +1,37 @@
 {
   "id": "veerateeswarar-thirupariyalur",
   "locale": "bn",
+  "name": "বীরট্টেশ্বর মন্দির, তিরুপরিয়ালুর (কীঝপরসলুর)",
   "nativeName": "திருப்பறியலூர் வீரட்டேஸ்வரர் கோயில்",
+  "deity": "শিব বীরট্টেশ্বর (দক্ষপুরীশ্বর) রূপে, দেবী ইলঙ্গোম্বনৈয়াল সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Keezhaparasalur (Thirupariyalur)",
-    "state": "Tamil Nadu",
+    "city": "কীঝপরসলুর (তিরুপরিয়ালুর)",
+    "state": "তামিলনাড়ু",
     "lat": 11.0908,
     "lng": 79.7258
   },
+  "period": "চোল দেশের পাডল পেট্র স্থলম, সম্বন্দর কর্তৃক স্তবগীত (সপ্তম শতাব্দী); অষ্ট বীরট্টানমের অন্যতম",
   "century": 7,
+  "dynasty": "চোল, তঞ্জাবুর নায়ক সংযোজন সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "কীঝপরসলুরে, তেবারমের তিরুপরিয়ালুর, শিব বীরট্টেশ্বর রূপে দক্ষের গর্বিত যজ্ঞের বিনাশ স্মরণ করেন — সেই বীরট্টানম যেখানে বীরভদ্রের ক্রোধ প্রভুর কৃপার পাশে সম্মানিত হয়।",
   "sections": {
-    "history": "Keezhaparasalur, a village in Mayiladuthurai district between Mayiladuthurai and Thirukkadaiyur, is the Thirupariyalur of the Tevaram hymns. Its temple to Shiva as Veerateeswarar, also called Dakshapureeswarar, is one of the eight Ashta Veerattanams — the shrine of the Lord's judgement on Daksha. Sambandar sang a hymn on the Lord of Thirupariyalur, and the temple is counted among the Paadal Petra Sthalams of the Chola country. Its present masonry is assigned to the Chola period, with later expansions under the Thanjavur Nayaks. The temple keeps four worship services through the day and remains a place of quiet devotion in the delta countryside.",
-    "architecture": "The temple is a compact Dravidian shrine of the Kaveri delta, its gateway opening onto a courtyard around the sanctum of Veerateeswarar, with the goddess Ilangombanaiyal in a shrine of her own. What sets it apart is the honour given to the deed itself: Daksha Samhara Murthy is worshipped here, and Veerabhadra, the fierce form who carried out the Lord's judgement, has a shrine of his own — among the earliest temples, some hold, to give him such a place.",
-    "legends": "Daksha, father of the goddess Sati, held a great sacrifice and invited every god but Shiva, his own son-in-law. Sati went to her father's house unbidden and, hearing her Lord insulted, gave up her life in the sacrificial fire. In grief and fury Shiva sent forth Veerabhadra, who scattered the assembly and destroyed the sacrifice, and Daksha's pride was broken. Tradition holds that when Daksha was restored to life with the head of a goat, he bowed before the Lord he had scorned — and Thirupariyalur keeps that moment of judgement turned to grace.",
-    "festivals": "The festivals of the Shaiva year are kept here — Maha Shivaratri, the fortnightly pradosham, Arudra Darshan in Margazhi and Karthigai Deepam — with special worship at Veerabhadra's shrine. Pilgrims on the Veerattanam circuit often time their visit with the larger festivals of nearby Thirukkadaiyur; confirm dates locally.",
-    "experience": "Thirupariyalur is a village temple among paddy fields, visited mostly by those who seek it out. It is a place to reflect on pride and its undoing: the Lord who would not be shut out of the sacrifice, and the proud king who learned humility. It lies a short drive from Thirukkadaiyur, and the two Veerattanams are usually visited on the same day."
+    "history": "কীঝপরসলুর, মায়িলাডুতুরৈ ও তিরুক্কাডৈয়ুরের মধ্যবর্তী মায়িলাডুতুরৈ জেলার একটি গ্রাম, তেবারম স্তবের তিরুপরিয়ালুর। শিবকে বীরট্টেশ্বর রূপে উৎসর্গীকৃত এর মন্দির, যাকে দক্ষপুরীশ্বরও বলা হয়, আটটি অষ্ট বীরট্টানমের অন্যতম — দক্ষের উপর প্রভুর বিচারের মন্দির। সম্বন্দর তিরুপরিয়ালুরের প্রভুর উপর একটি স্তব গেয়েছিলেন, এবং মন্দিরটি চোল দেশের পাডল পেট্র স্থলমগুলির অন্তর্ভুক্ত। এর বর্তমান গাঁথনি চোল যুগের বলে গণ্য, তঞ্জাবুর নায়কদের অধীনে পরবর্তী সম্প্রসারণ সহ। মন্দিরটি সারা দিনে চারটি পূজা পালন করে এবং ব-দ্বীপ গ্রামাঞ্চলে নীরব ভক্তির স্থান রূপে থেকে যায়।",
+    "architecture": "মন্দিরটি কাবেরী ব-দ্বীপের একটি কম্প্যাক্ট দ্রাবিড় মন্দির, এর প্রবেশদ্বার বীরট্টেশ্বরের গর্ভগৃহকে ঘিরে একটি প্রাঙ্গণে উন্মুক্ত হয়, দেবী ইলঙ্গোম্বনৈয়াল তাঁর নিজস্ব মন্দিরে। যা একে আলাদা করে তা হল সেই কর্মটিকে দেওয়া সম্মান: দক্ষ সংহার মূর্তি এখানে পূজিত হন, এবং বীরভদ্র, সেই উগ্র রূপ যিনি প্রভুর বিচার সম্পাদন করেছিলেন, তাঁর নিজস্ব মন্দির আছে — কারও কারও মতে তাঁকে এমন স্থান দেওয়া প্রাচীনতম মন্দিরগুলির অন্যতম।",
+    "legends": "দক্ষ, দেবী সতীর পিতা, একটি মহাযজ্ঞ করেছিলেন এবং নিজের জামাতা শিব ছাড়া প্রতিটি দেবতাকে আমন্ত্রণ জানিয়েছিলেন। সতী নিমন্ত্রণ ছাড়াই পিতৃগৃহে গেলেন এবং নিজ প্রভুকে অপমানিত হতে শুনে যজ্ঞের অগ্নিতে প্রাণ বিসর্জন দিলেন। শোকে ও ক্রোধে শিব বীরভদ্রকে পাঠালেন, যিনি সভা ছত্রভঙ্গ করলেন ও যজ্ঞ ধ্বংস করলেন, এবং দক্ষের গর্ব ভাঙল। প্রথা বলে যখন দক্ষ ছাগলের মাথা নিয়ে পুনর্জীবিত হলেন, তিনি সেই প্রভুর সামনে প্রণত হলেন যাঁকে তিনি অবজ্ঞা করেছিলেন — এবং তিরুপরিয়ালুর বিচার থেকে কৃপায় রূপান্তরিত সেই মুহূর্ত রক্ষা করে।",
+    "festivals": "শৈব বছরের উৎসবগুলি এখানে পালিত হয় — মহাশিবরাত্রি, পাক্ষিক প্রদোষম, মার্গঝিতে আরুদ্র দর্শন এবং কার্তিগৈ দীপম — বীরভদ্রের মন্দিরে বিশেষ পূজা সহ। বীরট্টানম সার্কিটের তীর্থযাত্রীরা প্রায়ই নিকটবর্তী তিরুক্কাডৈয়ুরের বৃহত্তর উৎসবগুলির সঙ্গে তাঁদের দর্শনের সময় মেলান; তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তিরুপরিয়ালুর ধানক্ষেতের মধ্যে একটি গ্রাম্য মন্দির, যাঁরা একে খুঁজে বের করেন তাঁদের দ্বারাই মূলত দর্শিত। এটি গর্ব ও তার বিনাশ নিয়ে চিন্তার স্থান: সেই প্রভু যাঁকে যজ্ঞ থেকে বঞ্চিত করা যায়নি, এবং সেই গর্বিত রাজা যিনি নম্রতা শিখেছিলেন। এটি তিরুক্কাডৈয়ুর থেকে অল্প গাড়ির দূরত্বে, এবং দুটি বীরট্টানম সাধারণত একই দিনে দর্শিত হয়।"
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure, as at most village temples of the delta. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Keezhaparasalur lies in Mayiladuthurai district, roughly midway between Mayiladuthurai and Thirukkadaiyur and about 10 km from each, off the Mayiladuthurai–Tharangambadi road. Mayiladuthurai is the nearest railhead; Tiruchirappalli is the nearest large airport."
+    "timings": "ব-দ্বীপের অধিকাংশ গ্রাম্য মন্দিরের মতো, প্রতিদিন সকাল ও সন্ধ্যার সময়ে মধ্যাহ্নে বন্ধ সহ খোলা থাকে। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে বাইরে জুতো রেখে যেতে হয়। নির্দেশিত নিয়ম ও পুরোহিতদের পরামর্শ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে আলোকচিত্র তোলা অনুমোদিত নয়; বাইরের অলিন্দে ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন, বিশেষত আচার-অনুষ্ঠান ও উৎসবের ব্রোঞ্জ মূর্তির।",
+    "gettingThere": "কীঝপরসলুর মায়িলাডুতুরৈ জেলায় অবস্থিত, মায়িলাডুতুরৈ ও তিরুক্কাডৈয়ুরের প্রায় মধ্যবর্তী এবং প্রতিটি থেকে প্রায় ১০ কিমি দূরে, মায়িলাডুতুরৈ–তারঙ্গম্বাড়ি রাস্তার পাশে। মায়িলাডুতুরৈ নিকটতম রেলস্টেশন; তিরুচিরাপল্লী নিকটতম বড় বিমানবন্দর।"
   }
 }

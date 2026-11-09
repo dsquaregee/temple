@@ -1,29 +1,36 @@
 {
   "id": "nellivananathar-tirunellikka",
   "locale": "bn",
+  "name": "নেল্লিবননাথর মন্দির, তিরুনেল্লিক্কা",
   "nativeName": "திருநெல்லிக்கா நெல்லிவனநாதர் கோயில்",
+  "deity": "শিব নেল্লিবননাথর (আম্লবনেশ্বরর, আমলকী বনের অধিপতি) রূপে, দেবী মঙ্গলনায়কী (আম্লকেশ্বরী) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tirunellikka, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "তিরুনেল্লিক্কা, তিরুবারুরের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.69,
     "lng": 79.7
   },
+  "period": "তেবারম যুগ (সপ্তম শতাব্দীতে স্তবগীত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারুরের কাছে তিরুনেল্লিক্কা শিবকে নেল্লিবননাথর — আমলকী (নেল্লি) বনের অধিপতি — রূপে দেবী মঙ্গলনায়কীর সঙ্গে সম্মান করে। তিরুজ্ঞান সম্বন্দর দ্বারা গীত এই পাডল পেট্র স্থলমের কিংবদন্তি বলে দুর্বাসার অভিশাপে স্বর্গীয় বৃক্ষসমূহ এখানে নেল্লি গাছ রূপে জন্ম নেয়, যাদের মাঝে শিব স্বয়ম্ভূ লিঙ্গ রূপে অবস্থান করে পবিত্র আমলকীকে সম্মান জানিয়েছিলেন।",
   "sections": {
-    "history": "Tirunellikka lies about 17 km from Tiruvarur (some 23 km from Mannargudi) in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted as the shrine on the southern bank of the Kaveri. The lord here is Nellivananathar, 'lord of the gooseberry forest,' and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Nellivananathar — in Sanskrit Amlavaneswarar — in the sanctum, with the goddess Mangalanayaki, also called Amlakeswari, in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the nelli (amla, the Indian gooseberry), the fruit dear to Shiva, and the sacred tanks are the Brahma and Surya theerthams.",
-    "legends": "The sthala purana tells that trees of the Devaloka were cursed by the sage Durvasa to be born on earth as nelli (gooseberry) trees, and here they stood as a grove; honouring the sacred nelli, Shiva remained among them as a swayambhu, self-manifest, lingam. By tradition Durvasa, famed for his anger, also worshipped here and was blessed to overcome his wrath. So the shrine joins the humble, healing gooseberry to the grace that calms even the fiercest temper.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail near Tiruvarur include Tirunellikka among their stops.",
-    "experience": "At Tirunellikka the pilgrim comes to a gooseberry-forest shrine where the self-manifest lord honours the humble, healing fruit. Before Nellivananathar and Mangalanayaki, amid the memory of celestial trees and the calming of Durvasa's anger, the visitor finds the quiet, restoring grace of a Tevaram temple of the Tiruvarur country."
+    "history": "তিরুনেল্লিক্কা তিরুবারুর থেকে প্রায় ১৭ কিমি (মান্নারগুডি থেকে প্রায় ২৩ কিমি) দূরে তিরুবারুর জেলায় অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুজ্ঞান সম্বন্দর দ্বারা গীত, কাবেরীর দক্ষিণ তীরের মন্দির রূপে গণ্য। এখানকার প্রভু নেল্লিবননাথর, 'আমলকী বনের অধিপতি', এবং প্রস্তর মন্দিরটি চোল যুগের ও পরবর্তী।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপীয় মন্দির, এর গর্ভগৃহে নেল্লিবননাথর — সংস্কৃতে আম্লবনেশ্বরর — প্রতিষ্ঠিত, দেবী মঙ্গলনায়কী, আম্লকেশ্বরী নামেও পরিচিত, তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণ সহ। স্থল বৃক্ষ হলো নেল্লি (আমলা, ভারতীয় আমলকী), শিবের প্রিয় ফল, এবং পবিত্র পুষ্করিণীগুলি ব্রহ্ম ও সূর্য তীর্থম।",
+    "legends": "স্থল পুরাণ বলে, দেবলোকের বৃক্ষসমূহ ঋষি দুর্বাসার অভিশাপে পৃথিবীতে নেল্লি (আমলকী) গাছ রূপে জন্ম নেয়, এবং এখানে তারা এক বন রূপে দাঁড়ায়; পবিত্র নেল্লিকে সম্মান জানিয়ে শিব তাদের মাঝে স্বয়ম্ভূ, আত্মপ্রকাশিত লিঙ্গ রূপে অবস্থান করেন। ঐতিহ্য অনুসারে ক্রোধের জন্য প্রসিদ্ধ দুর্বাসাও এখানে পূজা করেন এবং তাঁর ক্রোধ জয় করার আশীর্বাদ পান। এভাবে মন্দিরটি বিনম্র, নিরাময়কারী আমলকীকে সেই কৃপার সঙ্গে মেলায় যা তীব্রতম ক্রোধকেও প্রশমিত করে।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারগুলি প্রদোষ পূজা সহ এক গ্রাম্য মন্দিরের শান্ত পরিসরে পালিত হয়। তিরুবারুরের কাছে পাডল পেট্র পথের তীর্থযাত্রীরা তিরুনেল্লিক্কাকে তাঁদের যাত্রাপথে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুনেল্লিক্কায় তীর্থযাত্রী এমন এক আমলকী-বনের মন্দিরে আসেন যেখানে আত্মপ্রকাশিত প্রভু বিনম্র, নিরাময়কারী ফলকে সম্মান জানান। নেল্লিবননাথর ও মঙ্গলনায়কীর সামনে, স্বর্গীয় বৃক্ষের স্মৃতি ও দুর্বাসার ক্রোধ প্রশমনের মাঝে, দর্শনার্থী তিরুবারুর অঞ্চলের একটি তেবারম মন্দিরের শান্ত, পুনরুজ্জীবক কৃপা খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirunellikka is about 17 km from Tiruvarur and 23 km from Mannargudi, in Tiruvarur district (PIN 610205). Tiruvarur is the nearest rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং পুনরায় বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "সাধারণত বাইরের প্রাঙ্গণে ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুনেল্লিক্কা তিরুবারুর থেকে প্রায় ১৭ কিমি ও মান্নারগুডি থেকে ২৩ কিমি দূরে, তিরুবারুর জেলায় (পিন ৬১০২০৫) অবস্থিত। তিরুবারুর নিকটতম রেলস্টেশন, সেখান থেকে গ্রামে বাস ও ট্যাক্সি পাওয়া যায়।"
   }
 }

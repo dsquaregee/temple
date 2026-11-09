@@ -1,30 +1,37 @@
 {
   "id": "hazara-rama-hampi",
   "locale": "bn",
+  "name": "হাজার রাম মন্দির, হাম্পি",
   "nativeName": "ಹಜಾರ ರಾಮ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "রাম, এখানে রামচন্দ্র রূপে পূজিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "হাম্পি",
+    "state": "কর্ণাটক",
     "lat": 15.3192,
     "lng": 76.4683
   },
+  "period": "পঞ্চদশ শতকের গোড়া, বিজয়নগর রাজধানীর কেন্দ্রে রাজকীয় মন্দির হিসেবে প্রথম দেবরায় কর্তৃক নির্মিত",
   "century": 15,
+  "dynasty": "বিজয়নগর (সঙ্গম)",
+  "style": "দ্রাবিড়, বিজয়নগর পর্ব",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "হাম্পির রাজকীয় মহল্লার কেন্দ্রে, হাজার রাম মন্দির ছিল রাজাদের নিজস্ব রামমন্দির — এর দেয়াল সমগ্র রামায়ণ ও মহান মহানবমী উৎসবের শোভাযাত্রায় খোদিত।",
   "sections": {
-    "history": "Inscriptions in the temple show that Devaraya I, who ruled Vijayanagara in the early 15th century, raised this shrine to Rama under the name Ramachandra. It stood at the very hinge of the royal centre, between the great platform of the Mahanavami festival, the palaces and the walled zenana, and it served as the private temple of the kings rather than a pilgrim shrine for the city. The open pillared porch before the hall may be a later addition of the 16th century. The popular name, Hazara Rama, means 'a thousand Ramas', for the countless reliefs of his story on its walls. Worship ended when the capital was abandoned after 1565; the temple is now a protected monument within the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
-    "architecture": "A modest shrine in scale, the temple is extraordinary for its carving. The outer face of its enclosure wall is banded with processions — elephants, horses led by grooms, marching soldiers and dancing women — that recall the royal pageantry of Mahanavami described by foreign visitors to the court. Inside, the walls of the temple and the enclosure unfold the Ramayana in long horizontal friezes. The hall before the sanctum stands on a raised base, its polished black-stone pillars carved with forms of Vishnu and other deities, in striking contrast to the pale granite around them.",
-    "legends": "The temple's legend is written on its walls. Read clockwise, in the direction of circumambulation, the friezes begin with King Dasharatha's sacrifice for sons and the birth of Rama and his brothers, and go on through the exile to the forest, the golden deer and the abduction of Sita, the alliance with Hanuman and the monkey host, and the war with Ravana. For the kings of Vijayanagara the story had a nearby setting: tradition places Kishkindha, the monkey kingdom of the Ramayana, among the boulder hills of Hampi itself.",
-    "festivals": "No longer in worship, the temple keeps no festival calendar of its own. Its friezes, though, are a carved record of Mahanavami, the great autumn festival of the Vijayanagara court. Hampi comes alive during the Hampi Utsav, the state festival of music and dance staged among the ruins, usually in the cooler months; confirm dates locally.",
-    "experience": "Walk the outer wall first, following the elephants and dancers in their endless procession, then step inside and trace the Ramayana panel by panel around the shrine. The black pillars of the hall reward a close look. The temple sits among the royal monuments, so it pairs naturally with the Mahanavami platform, the Lotus Mahal and the elephant stables in a single unhurried morning."
+    "history": "মন্দিরের শিলালিপি দেখায় যে পঞ্চদশ শতকের গোড়ায় বিজয়নগর শাসনকারী প্রথম দেবরায় রামচন্দ্র নামে রামের উদ্দেশে এই মন্দির নির্মাণ করেন। এটি দাঁড়িয়েছিল রাজকীয় কেন্দ্রের ঠিক সন্ধিস্থলে, মহানবমী উৎসবের বিশাল মঞ্চ, প্রাসাদ ও প্রাচীরঘেরা অন্তঃপুরের মাঝে, এবং এটি নগরীর তীর্থমন্দিরের বদলে রাজাদের ব্যক্তিগত মন্দির হিসেবে কাজ করত। কক্ষের সম্মুখে খোলা স্তম্ভযুক্ত বারান্দা সম্ভবত ষোড়শ শতকের পরবর্তী সংযোজন। জনপ্রিয় নাম হাজার রাম অর্থ 'এক হাজার রাম', কারণ এর দেয়ালে তাঁর কাহিনীর অগণিত উৎকীর্ণ ফলক। ১৫৬৫ সালের পর রাজধানী পরিত্যক্ত হলে পূজা শেষ হয়; মন্দিরটি এখন হাম্পির স্মারকসমষ্টির মধ্যে একটি সংরক্ষিত স্মারক, ১৯৮৬ সাল থেকে একটি ইউনেস্কো বিশ্ব ঐতিহ্যস্থল।",
+    "architecture": "আকারে এক বিনম্র মন্দির, এটি তার খোদাইয়ের জন্য অসাধারণ। এর প্রাচীর-ঘেরের বাইরের মুখ শোভাযাত্রায় বন্ধনীবদ্ধ — হাতি, সহিসে চালিত ঘোড়া, কুচকাওয়াজরত সৈন্য ও নৃত্যরতা নারী — যা দরবারের বিদেশি দর্শনার্থীদের বর্ণিত মহানবমীর রাজকীয় জাঁকজমক স্মরণ করায়। ভেতরে, মন্দির ও ঘেরের দেয়াল দীর্ঘ অনুভূমিক ফ্রিজে রামায়ণ উন্মোচিত করে। গর্ভগৃহের সম্মুখে কক্ষটি একটি উঁচু ভিত্তির উপর দাঁড়িয়ে, এর পালিশ করা কালো-পাথরের স্তম্ভ বিষ্ণু ও অন্যান্য দেবতার রূপে খোদিত, চারপাশের ফ্যাকাশে গ্রানাইটের সঙ্গে প্রবল বৈপরীত্যে।",
+    "legends": "মন্দিরের কিংবদন্তি তার দেয়ালে লেখা। প্রদক্ষিণের দিকে, ঘড়ির কাঁটার দিকে পড়লে, ফ্রিজগুলি শুরু হয় রাজা দশরথের পুত্রেষ্টি যজ্ঞ এবং রাম ও তাঁর ভাইদের জন্ম দিয়ে, এবং এগিয়ে যায় বনবাসে, সোনার হরিণ ও সীতার অপহরণ, হনুমান ও বানরবাহিনীর সঙ্গে মৈত্রী, এবং রাবণের সঙ্গে যুদ্ধের মধ্য দিয়ে। বিজয়নগরের রাজাদের কাছে কাহিনীটির এক নিকটবর্তী পটভূমি ছিল: প্রথা রামায়ণের বানররাজ্য কিষ্কিন্ধাকে স্বয়ং হাম্পির শিলাময় পাহাড়গুলির মধ্যে স্থাপন করে।",
+    "festivals": "আর পূজায় না থাকায় মন্দিরটি নিজস্ব কোনো উৎসব-পঞ্জিকা রাখে না। তবে এর ফ্রিজগুলি মহানবমীর এক উৎকীর্ণ নথি, বিজয়নগর দরবারের মহান শারদীয় উৎসব। হাম্পি জীবন্ত হয়ে ওঠে হাম্পি উৎসবের সময়, ধ্বংসাবশেষের মাঝে অনুষ্ঠিত রাজ্যের সংগীত ও নৃত্যের উৎসব, সাধারণত শীতল মাসগুলিতে; তারিখ স্থানীয়ভাবে যাচাই করে নিন।",
+    "experience": "প্রথমে বাইরের দেয়াল হাঁটুন, হাতি ও নর্তকীদের তাদের অফুরন্ত শোভাযাত্রায় অনুসরণ করে, তারপর ভেতরে প্রবেশ করে মন্দিরের চারপাশে ফলকের পর ফলক ধরে রামায়ণের সন্ধান করুন। কক্ষের কালো স্তম্ভগুলি নিবিড় দৃষ্টির প্রতিদান দেয়। মন্দিরটি রাজকীয় স্মারকগুলির মধ্যে অবস্থিত, তাই এটি মহানবমী মঞ্চ, লোটাস মহল ও হস্তিশালার সঙ্গে একটি ধীরস্থির সকালে স্বাভাবিকভাবে মেলে।"
   },
   "visit": {
-    "timings": "Open daily from sunrise to sunset as an ASI-protected monument. Confirm hours and any ticketing locally.",
-    "dressCode": "Modest dress is appreciated; comfortable shoes, water and sun protection help, as the royal centre is open and exposed.",
-    "photography": "Photography is generally allowed; tripods or professional shoots may need permission from the Archaeological Survey of India.",
-    "gettingThere": "The temple stands in the royal centre of Hampi, about 3 km south of Hampi Bazaar by road, in Karnataka's Vijayanagara district. Hosapete (Hospet), about 13 km away, has the nearest railway station; the nearest airport is at Vidyanagar near Toranagallu, with larger airports at Hubballi and Bengaluru."
+    "timings": "একটি ASI-সংরক্ষিত স্মারক হিসেবে প্রতিদিন সূর্যোদয় থেকে সূর্যাস্ত পর্যন্ত খোলা। সময় ও যে কোনো টিকিটের ব্যবস্থা স্থানীয়ভাবে যাচাই করে নিন।",
+    "dressCode": "শালীন পোশাক সমাদৃত; আরামদায়ক জুতো, জল ও রোদ থেকে রক্ষা সহায়ক, কারণ রাজকীয় কেন্দ্র খোলা ও অনাবৃত।",
+    "photography": "ফটোগ্রাফি সাধারণত অনুমোদিত; ট্রাইপড বা পেশাদার শুটিংয়ের জন্য ভারতীয় পুরাতত্ত্ব সর্বেক্ষণের অনুমতি লাগতে পারে।",
+    "gettingThere": "মন্দিরটি হাম্পির রাজকীয় কেন্দ্রে দাঁড়িয়ে, হাম্পি বাজার থেকে সড়কপথে প্রায় ৩ কিমি দক্ষিণে, কর্ণাটকের বিজয়নগর জেলায়। প্রায় ১৩ কিমি দূরের হোসপেটে (হসপেট)-এ নিকটতম রেলস্থান; নিকটতম বিমানবন্দর তোরণগল্লুর কাছে বিদ্যানগরে, হুবলি ও বেঙ্গালুরুতে বড় বিমানবন্দর সহ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/hazara-rama-hampi.jpg",

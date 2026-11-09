@@ -1,30 +1,37 @@
 {
   "id": "ranganathaswamy-srirangapatna",
   "locale": "bn",
+  "name": "রঙ্গনাথস্বামী মন্দির, শ্রীরঙ্গপট্টন",
   "nativeName": "ಶ್ರೀ ರಂಗನಾಥಸ್ವಾಮಿ ದೇವಾಲಯ, ಶ್ರೀರಂಗಪಟ್ಟಣ",
+  "deity": "বিষ্ণু রঙ্গনাথ রূপে, আদিশেষ সর্পের ওপর শায়িত—আদি রঙ্গ, নদীর তিন রঙ্গের প্রথম—দেবী রঙ্গনায়কী সহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Srirangapatna",
-    "state": "Karnataka",
+    "city": "শ্রীরঙ্গপট্টন",
+    "state": "কর্ণাটক",
     "lat": 12.4217,
     "lng": 76.6844
   },
+  "period": "নবম শতাব্দীতে পশ্চিম গঙ্গদের অধীনে প্রতিষ্ঠিত; হোয়সল ও বিজয়নগর রাজাদের দ্বারা সম্প্রসারিত; নদী-দ্বীপে পরে মহীশূরের শাসকদের দুর্গ-রাজধানী",
   "century": 9,
+  "dynasty": "পশ্চিম গঙ্গ, হোয়সল ও বিজয়নগর",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "pancharanga-kshetrams"
   ],
+  "summary": "মহীশূরের কাছে কাবেরীর এক দ্বীপে, বিষ্ণু আদি রঙ্গে রঙ্গনাথ রূপে শায়িত—নদীর তিন মহান রঙ্গের প্রথম। পশ্চিম গঙ্গদের প্রতিষ্ঠিত এবং হোয়সল ও বিজয়নগর কর্তৃক গড়া, এটি শ্রীরঙ্গমে শেষ হওয়া পাঁচ রঙ্গনাথ মন্দিরের শৃঙ্খলের ঊর্ধ্বস্রোতের শীর্ষ।",
   "sections": {
-    "history": "Srirangapatna stands on an island in the Kaveri a short way from Mysuru, and takes its very name from the lord Ranganatha who reclines at its heart. The temple is honoured as the Adi Ranga — the first Ranga — the upstream head of the five Ranganatha shrines of the river. Tradition holds that it was founded under the Western Ganga kings in the 9th century, and it was enlarged in turn by the Hoysalas and the emperors of Vijayanagara. In later centuries the island became a fortress capital of the Mysore rulers, yet through every change of power the reclining lord remained the still centre of the place.",
-    "architecture": "The temple is built in the Dravidian manner, carrying the marks of the Hoysala and Vijayanagara ages in its pillared halls and gateway tower. The sanctum holds the long form of Ranganatha reclining upon the coils of the serpent Adisesha, with the Goddess Ranganayaki in her own shrine. Sculptured pillars and mandapas open before the sanctum, and the island setting — the river encircling the shrine and its old fortress town — gives the temple its particular grandeur.",
-    "legends": "As the Adi Ranga, Srirangapatna opens the sacred sequence of the river's Rangas — Adi at the head, Madhya at Shivanasamudra, and Antya at Srirangam — the three that the devout seek to worship in a single day in the Triranga Darshana. The reclining posture of the lord, asleep upon the endless serpent on the ocean of milk, is the image of Vishnu holding the universe within his rest, and the Kaveri that wraps the island is honoured as the earthly likeness of that cosmic sea.",
-    "festivals": "The temple keeps the great Vaishnava festivals through the year — Vaikunta Ekadashi in the cold months, the birth-star days of the lord, and the Brahmotsavam with its procession through the island town. The car festival and the float festival on the river draw pilgrims from across the old Mysore country, and the days of the Triranga pilgrimage are especially thronged.",
-    "experience": "Srirangapatna rewards the pilgrim with the great reclining lord, the encircling river, and the layered history of an island that was both a shrine and a fortress capital. It lies close to Mysuru on the road toward Bengaluru, an easy visit on the way to the temple cities of the plateau, and it stands at the head of the Pancharanga pilgrimage that follows the Kaveri all the way down to Srirangam."
+    "history": "শ্রীরঙ্গপট্টন মহীশূর থেকে অল্প দূরে কাবেরীর এক দ্বীপে দাঁড়িয়ে আছে, এবং এর নামটিই নিয়েছে প্রভু রঙ্গনাথের থেকে যিনি এর অন্তরে শায়িত। মন্দিরটি আদি রঙ্গ—প্রথম রঙ্গ—রূপে সম্মানিত, নদীর পাঁচ রঙ্গনাথ মন্দিরের ঊর্ধ্বস্রোতের শীর্ষ। পরম্পরা বলে যে এটি নবম শতাব্দীতে পশ্চিম গঙ্গ রাজাদের অধীনে প্রতিষ্ঠিত হয়, এবং পরে হোয়সল ও বিজয়নগর সম্রাটদের হাতে বর্ধিত হয়। পরবর্তী শতাব্দীতে দ্বীপটি মহীশূর শাসকদের দুর্গ-রাজধানী হয়ে ওঠে, তবু ক্ষমতার প্রতিটি পরিবর্তনের মধ্যেও শায়িত প্রভু এই স্থানের নিশ্চল কেন্দ্র হয়ে থেকেছেন।",
+    "architecture": "মন্দিরটি দ্রাবিড় রীতিতে নির্মিত, এর স্তম্ভশোভিত মণ্ডপ ও তোরণ-চূড়ায় হোয়সল ও বিজয়নগর যুগের চিহ্ন বহন করে। গর্ভগৃহে রয়েছে আদিশেষ সর্পের কুণ্ডলীর ওপর শায়িত রঙ্গনাথের দীর্ঘ রূপ, দেবী রঙ্গনায়কী তাঁর নিজস্ব মন্দিরে। ভাস্কর্যখচিত স্তম্ভ ও মণ্ডপ গর্ভগৃহের সামনে খোলে, এবং দ্বীপ-পরিবেশ—মন্দির ঘিরে নদী ও এর পুরনো দুর্গ-শহর—মন্দিরকে তার বিশেষ মহিমা দেয়।",
+    "legends": "আদি রঙ্গ রূপে, শ্রীরঙ্গপট্টন নদীর রঙ্গগুলির পবিত্র ক্রম শুরু করে—শীর্ষে আদি, শিবনসমুদ্রে মধ্য, এবং শ্রীরঙ্গমে অন্ত্য—এই তিন যা ভক্তরা একই দিনে ত্রিরঙ্গ দর্শনে পূজা করতে চান। প্রভুর শায়িত ভঙ্গি, ক্ষীরসাগরে অনন্ত সর্পের ওপর নিদ্রিত, হলো বিষ্ণুর সেই রূপ যিনি নিজ বিশ্রামের মধ্যে বিশ্বব্রহ্মাণ্ড ধারণ করেন, এবং দ্বীপকে ঘিরে রাখা কাবেরীকে সেই মহাজাগতিক সাগরের পার্থিব প্রতিরূপ রূপে সম্মান করা হয়।",
+    "festivals": "মন্দিরটি সারাবছর মহান বৈষ্ণব উৎসব পালন করে—শীতের মাসে বৈকুণ্ঠ একাদশী, প্রভুর জন্ম-নক্ষত্রের দিন, এবং দ্বীপ-শহরের মধ্য দিয়ে শোভাযাত্রাসহ ব্রহ্মোৎসবম। রথ-উৎসব ও নদীতে ভেলা-উৎসব পুরনো মহীশূর দেশজুড়ে তীর্থযাত্রীদের টেনে আনে, এবং ত্রিরঙ্গ তীর্থযাত্রার দিনগুলি বিশেষভাবে জনাকীর্ণ।",
+    "experience": "শ্রীরঙ্গপট্টন তীর্থযাত্রীকে পুরস্কৃত করে মহান শায়িত প্রভু, ঘিরে রাখা নদী, এবং এমন এক দ্বীপের স্তরে স্তরে ইতিহাস দিয়ে যা একইসঙ্গে ছিল মন্দির ও দুর্গ-রাজধানী। এটি মহীশূরের কাছে বেঙ্গালুরুর দিকের পথে অবস্থিত, মালভূমির মন্দির-নগরে যাওয়ার পথে এক সহজ ভ্রমণ, এবং এটি পঞ্চরঙ্গ তীর্থযাত্রার শীর্ষে দাঁড়িয়ে যা কাবেরী ধরে শ্রীরঙ্গম পর্যন্ত নেমে যায়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and the Brahmotsavam days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Srirangapatna lies in Mandya district on an island in the Kaveri, about 15 km from Mysuru on the Mysuru–Bengaluru route, well connected by road and rail."
+    "timings": "সকাল ও সন্ধ্যার দর্শন-পর্ব এবং দুপুরে বিরতিসহ প্রতিদিন খোলা; বৈকুণ্ঠ একাদশী ও ব্রহ্মোৎসবমের দিনগুলি সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "বিনম্র পরম্পরাগত পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখা হয়। টাঙানো নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে আলোকচিত্র সীমিত; টাঙানো নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "শ্রীরঙ্গপট্টন মান্ড্য জেলায় কাবেরীর এক দ্বীপে অবস্থিত, মহীশূর–বেঙ্গালুরু পথে মহীশূর থেকে প্রায় ১৫ কিমি দূরে, সড়ক ও রেলপথে ভালোভাবে সংযুক্ত।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/ranganathaswamy-srirangapatna.jpg",

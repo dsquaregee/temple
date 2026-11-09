@@ -1,30 +1,37 @@
 {
   "id": "kolavilli-raman-thiruvelliyangudi",
   "locale": "bn",
+  "name": "কোলা ভালভিল্লি রামার মন্দির, তিরুভেল্লিয়াঙ্গুড়ি",
   "nativeName": "கோலவில்லி ராமர் கோயில், திருவெள்ளியங்குடி",
+  "deity": "শায়িত অবস্থায় কোলা ভালভিল্লি রামান রূপে বিষ্ণু, উৎসবমূর্তি শৃঙ্গার সুন্দরন এবং দেবী মারগতবল্লীর সঙ্গে — শুক্রগ্রহের মন্দির",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruvelliyangudi",
-    "state": "Tamil Nadu",
+    "city": "তিরুভেল্লিয়াঙ্গুড়ি",
+    "state": "তামিলনাড়ু",
     "lat": 11.0569,
     "lng": 79.4433
   },
+  "period": "পাঝাবারুর তীরে চোল দেশের একটি দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে তিরুমঙ্গাই আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "চোল (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "কুম্বকোণমের কাছে তিরুভেল্লিয়াঙ্গুড়িতে বিষ্ণু কোলা ভালভিল্লি রামান রূপে শায়িত — সুন্দর ধনুকের রাম — তিরুমঙ্গাই আলবার কর্তৃক স্তুত একটি দিব্য দেশম, যা শুক্রের বৈষ্ণব মন্দির হিসেবে সম্মানিত।",
   "sections": {
-    "history": "Thiruvelliyangudi is one of the 108 Divya Desams and one of the shrines of Chola Nadu, a village on the north bank of the Pazhavaru, some 19 km from Kumbakonam. Thirumangai Alvar sang its lord in ten verses of the Nalayira Divya Prabandham. Its name is drawn from Velli, the Tamil name for the planet Venus, Shukra, and the shrine is counted among the Vaishnava Navagraha temples of the Tamil country as the abode of Venus; it was also known of old as Bhargava Kshetra, after Shukra's lineage. The temple is maintained today under the Hindu Religious and Charitable Endowments Department of Tamil Nadu.",
-    "architecture": "Built in the Dravidian manner, the temple enshrines the lord reclining on the serpent, facing east, beneath the Pushkalavartaka Vimanam; the festival image is Sringara Sundaran, and the Goddess Maragathavalli has her own shrine. Four sacred waters are named for Shukra, Brahma, Indra and Parasara, the Parasara tank being the temple's own. Local tradition points out a Garuda with four hands, holding the discus and conch.",
-    "legends": "The sthala purana tells that when Mahabali poured water to grant Vamana his three steps, Shukra, his preceptor, blocked the spout as an insect, and lost an eye when the lord cleared it with a blade of grass; he worshipped here, and tradition holds that his sight was restored. It tells too of Mayan, the architect of the asuras, who longed to see Rama without conch and discus — so the lord gave them to Garuda and appeared as Kola Valvilli Raman.",
-    "festivals": "The temple keeps the Vaishnava festivals of the year — Vaikunta Ekadashi, the days of Rama and the days of Thirumangai Alvar — with processions through the village. As the shrine of Venus it also draws pilgrims making the round of the planetary temples of the delta.",
-    "experience": "A quiet village shrine in the paddy country beyond Kumbakonam, Thiruvelliyangudi rewards the pilgrim who comes for its rare form of Rama, reclining yet bearing the bow. Visit it as part of the Divya Desams of the delta or the round of planetary shrines, and look for the four-handed Garuda."
+    "history": "তিরুভেল্লিয়াঙ্গুড়ি ১০৮টি দিব্য দেশমের একটি এবং চোল নাড়ুর মন্দিরগুলির অন্যতম, পাঝাবারুর উত্তর তীরে অবস্থিত একটি গ্রাম, কুম্বকোণম থেকে প্রায় ১৯ কিলোমিটার দূরে। তিরুমঙ্গাই আলবার নালায়ির দিব্য প্রবন্ধমের দশটি শ্লোকে এর প্রভুর স্তুতি গেয়েছেন। এর নাম এসেছে ভেল্লি থেকে, যা শুক্রগ্রহের তামিল নাম, এবং এই মন্দিরটি তামিল দেশের বৈষ্ণব নবগ্রহ মন্দিরগুলির মধ্যে শুক্রের আবাস হিসেবে গণ্য হয়; প্রাচীনকালে এটি শুক্রের বংশ অনুসারে ভার্গব ক্ষেত্র নামেও পরিচিত ছিল। মন্দিরটি বর্তমানে তামিলনাড়ুর হিন্দু ধর্মীয় ও দানশীল প্রতিষ্ঠান বিভাগের অধীনে রক্ষণাবেক্ষণ করা হয়।",
+    "architecture": "দ্রাবিড় রীতিতে নির্মিত এই মন্দিরে প্রভু পূর্বমুখী হয়ে সর্পের উপর শায়িত অবস্থায় পুষ্কলাবর্তক বিমানের নিচে বিরাজমান; উৎসবমূর্তি শৃঙ্গার সুন্দরন, এবং দেবী মারগতবল্লীর নিজস্ব মন্দির রয়েছে। চারটি পবিত্র জলাশয় শুক্র, ব্রহ্মা, ইন্দ্র ও পরাশরের নামে নামাঙ্কিত, পরাশর তীর্থটি মন্দিরের নিজস্ব। স্থানীয় ঐতিহ্য চক্র ও শঙ্খধারী চার হাতবিশিষ্ট এক গরুড়ের দিকে ইঙ্গিত করে।",
+    "legends": "স্থলপুরাণ বলে যে মহাবলি যখন বামনকে তাঁর তিন পদক্ষেপ দান করার জন্য জল ঢালছিলেন, তখন তাঁর গুরু শুক্র এক পোকার রূপে পাত্রের মুখ রুদ্ধ করেন, এবং প্রভু যখন তৃণদণ্ড দিয়ে তা পরিষ্কার করেন তখন তিনি এক চোখ হারান; তিনি এখানে উপাসনা করেন এবং ঐতিহ্য অনুসারে তাঁর দৃষ্টি পুনরুদ্ধার হয়। এটি মায়ন, অসুরদের স্থপতির কথাও বলে, যিনি শঙ্খ ও চক্র ছাড়া রামকে দেখতে আকুল ছিলেন — তাই প্রভু সেগুলি গরুড়কে দিয়ে কোলা ভালভিল্লি রামান রূপে আবির্ভূত হন।",
+    "festivals": "মন্দিরটি বছরের বৈষ্ণব উৎসবগুলি পালন করে — বৈকুণ্ঠ একাদশী, রামের দিনসমূহ এবং তিরুমঙ্গাই আলবারের দিনসমূহ — গ্রামের মধ্য দিয়ে শোভাযাত্রা সহকারে। শুক্রের মন্দির হিসেবে এটি ব-দ্বীপের গ্রহমন্দির পরিক্রমাকারী তীর্থযাত্রীদেরও আকর্ষণ করে।",
+    "experience": "কুম্বকোণমের ওপারে ধানখেতের দেশে একটি নিরিবিলি গ্রাম্য মন্দির, তিরুভেল্লিয়াঙ্গুড়ি সেই তীর্থযাত্রীকে পুরস্কৃত করে যিনি রামের এই বিরল রূপের জন্য আসেন — শায়িত অথচ ধনুকধারী। ব-দ্বীপের দিব্য দেশম বা গ্রহমন্দির পরিক্রমার অংশ হিসেবে এটি দর্শন করুন, এবং চার হাতবিশিষ্ট গরুড়কে খুঁজে নিন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvelliyangudi lies about 19 km from Kumbakonam, reachable by road through the delta villages; Kumbakonam has the nearest railway station of size, and Tiruchirappalli the nearest airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনকালে খোলা, মধ্যাহ্নে বন্ধ থাকে; বৈকুণ্ঠ একাদশীতে সবচেয়ে ভিড় হয়। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে আলোকচিত্র গ্রহণ সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "তিরুভেল্লিয়াঙ্গুড়ি কুম্বকোণম থেকে প্রায় ১৯ কিলোমিটার দূরে, ব-দ্বীপের গ্রামগুলির মধ্য দিয়ে সড়কপথে পৌঁছানো যায়; কুম্বকোণমে নিকটতম বড় রেলস্টেশন এবং তিরুচিরাপল্লীতে নিকটতম বিমানবন্দর।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",

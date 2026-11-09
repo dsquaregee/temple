@@ -1,31 +1,38 @@
 {
   "id": "kamalanatha-thiruvanvandoor",
   "locale": "bn",
+  "name": "কমলনাথ পেরুমাল মন্দির, তিরুবন্বণ্ডুর",
   "nativeName": "കമലനാഥ പെരുമാൾ ക്ഷേത്രം, തിരുവൻവണ്ടൂർ",
+  "deity": "বিষ্ণু কমলনাথন রূপে, স্থানীয়ভাবে পম্বনৈয়প্পন নামে পরিচিত, দেবী কমলবল্লী নাচিয়ারের সঙ্গে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruvanvandoor",
-    "state": "Kerala",
+    "city": "তিরুবন্বণ্ডুর",
+    "state": "কেরালা",
     "lat": 9.343,
     "lng": 76.58
   },
+  "period": "মলৈ নাড়ু (কেরালা) এর একটি দিব্য দেশম, নাল্লায়িরা দিব্য প্রবন্ধমে নম্মালবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "প্রাচীন মলৈ নাড়ু মন্দির; ত্রাভাঙ্কোর দেবস্বম বোর্ড দ্বারা পরিচালিত",
+  "style": "কেরালা মন্দির শৈলী",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "pancha-pandava-temples"
   ],
+  "summary": "চেঙ্গান্নুরের কাছে তিরুবন্বণ্ডুরে বিষ্ণু কমলনাথন রূপে পূজিত হন, স্থানীয়ভাবে পম্বনৈয়প্পন নামে ডাকা হয় — এক মলৈ নাড়ু দিব্য দেশম যা নম্মালবার গেয়েছেন এবং ঐতিহ্য অনুসারে পাণ্ডব নকুলকে আরোপিত।",
   "sections": {
-    "history": "Thiruvanvandoor, in Alappuzha district near Chengannur, is home to a Divya Desam sung by Nammalvar, whose reference to the shrine is placed around 800 CE and is the earliest on record for the temple. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and belongs to Malai Nadu, the Kerala country. The presiding Lord is worshipped as Kamalanathan, and locally as Pambanaiyappan, a name linked with the river Pamba; the Goddess is Kamalavalli Nachiyar. A form of Krishna as Gosala Krishna is also worshipped here. Today the Travancore Devaswom Board administers the temple. Among the five Pandava-linked Vishnu temples of the Chengannur country, tradition assigns Thiruvanvandoor to Nakula.",
-    "architecture": "The temple is a Kerala shrine of the Chengannur country, and its sanctum houses Vishnu as Kamalanathan, with the Goddess Kamalavalli Nachiyar honoured in her own right. A shrine to Gosala Krishna, Krishna among the cows, adds a second centre of devotion within the precinct. The names of the vimana and the tank are not firmly recorded, so none is given here; the visitor will find a quiet village temple whose character lies in its worship and its long attested devotion.",
-    "legends": "Tradition attributes the temple to Nakula, the fourth of the Pandava brothers. It is one of five Vishnu shrines around Chengannur each said to be tied to a brother: Thrichittatt to Yudhishthira, Puliyur to Bhima, Aranmula to Arjuna, Thiruvanvandoor to Nakula and Thrikodithanam to Sahadeva. Together they are remembered as the Pancha Pandava temples. The local name Pambanaiyappan ties the Lord to the Pamba river that waters the country around.",
-    "festivals": "The principal event is a ten-day annual festival in the Malayalam month of Kumbham (February–March), which opens with the flag hoisting and ends with the arattu, the ritual bathing of the deity. During these days the temple offers annadanam, the sharing of free meals, and presents Kathakali performances. Vaikunta Ekadashi is observed too. Dates follow the temple’s own calendar, so confirm locally.",
-    "experience": "A quiet village Divya Desam, best visited with the other Chengannur-area Pandava temples. Take darshan of Kamalanathan and then the Gosala Krishna shrine, and enjoy the unhurried pace of the precinct. In the festival days of Kumbham the temple fills with devotees, the flag, the meals and the Kathakali giving a very different, joyous mood."
+    "history": "চেঙ্গান্নুরের কাছে আলাপ্পুঝা জেলার তিরুবন্বণ্ডুর এক দিব্য দেশমের আবাস যা নম্মালবার গেয়েছেন, যাঁর মন্দির সম্পর্কিত উল্লেখ প্রায় ৮০০ খ্রিস্টাব্দে স্থাপিত এবং মন্দিরের জন্য সবচেয়ে প্রাচীন নথিবদ্ধ উল্লেখ। এটি ১০৮টি দিব্য দেশমের একটি, বিষ্ণুর সেই আবাস যেগুলি আলবার সন্তরা নাল্লায়িরা দিব্য প্রবন্ধমে গেয়েছেন, এবং মলৈ নাড়ু, কেরালা দেশের অন্তর্গত। অধিষ্ঠিত প্রভু কমলনাথন রূপে পূজিত হন, এবং স্থানীয়ভাবে পম্বনৈয়প্পন নামে, যে নাম পম্বা নদীর সঙ্গে যুক্ত; দেবী কমলবল্লী নাচিয়ার। গোশালা কৃষ্ণ রূপে কৃষ্ণের এক রূপও এখানে পূজিত হয়। আজ ত্রাভাঙ্কোর দেবস্বম বোর্ড মন্দির পরিচালনা করে। চেঙ্গান্নুর দেশের পাঁচটি পাণ্ডব-সংশ্লিষ্ট বিষ্ণু মন্দিরের মধ্যে ঐতিহ্য তিরুবন্বণ্ডুরকে নকুলকে বরাদ্দ করে।",
+    "architecture": "মন্দিরটি চেঙ্গান্নুর দেশের একটি কেরালা মন্দির, এবং এর গর্ভগৃহে বিষ্ণু কমলনাথন রূপে অধিষ্ঠিত, দেবী কমলবল্লী নাচিয়ার নিজস্ব অধিকারে সম্মানিত। গোশালা কৃষ্ণ, গরুদের মাঝে কৃষ্ণের এক মন্দির, প্রাঙ্গণের মধ্যে ভক্তির দ্বিতীয় কেন্দ্র যোগ করে। বিমান ও পুষ্করিণীর নাম দৃঢ়ভাবে নথিবদ্ধ নয়, তাই এখানে কোনওটি দেওয়া হল না; দর্শনার্থী এক শান্ত গ্রাম্য মন্দির পাবেন যার চরিত্র নিহিত এর উপাসনা ও দীর্ঘ প্রমাণিত ভক্তিতে।",
+    "legends": "ঐতিহ্য মন্দিরটিকে নকুলকে আরোপ করে, পাণ্ডব ভাইদের মধ্যে চতুর্থ। চেঙ্গান্নুরের চারপাশে পাঁচটি বিষ্ণু মন্দিরের একটি, প্রতিটি এক-এক ভাইয়ের সঙ্গে যুক্ত বলে কথিত: ত্রিচিট্টট্ট যুধিষ্ঠিরের, পুলিয়ুর ভীমের, আরন্মুলা অর্জুনের, তিরুবন্বণ্ডুর নকুলের এবং ত্রিকোডিথানম সহদেবের। একসঙ্গে এগুলি পঞ্চ পাণ্ডব মন্দির হিসেবে স্মরণীয়। স্থানীয় নাম পম্বনৈয়প্পন প্রভুকে পম্বা নদীর সঙ্গে বাঁধে যা চারপাশের দেশকে সিঞ্চিত করে।",
+    "festivals": "প্রধান অনুষ্ঠান মলয়ালম মাস কুম্ভমে (ফেব্রুয়ারি–মার্চ) একটি দশ দিনের বার্ষিক উৎসব, যা ধ্বজারোহণে শুরু হয় ও আরাট্টুতে শেষ হয়, দেবতার আনুষ্ঠানিক স্নান। এই দিনগুলিতে মন্দির অন্নদানম, বিনামূল্যে ভোজন বিতরণ, এবং কথাকলি প্রদর্শন করে। বৈকুণ্ঠ একাদশীও পালিত হয়। তারিখ মন্দিরের নিজস্ব পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "এক শান্ত গ্রাম্য দিব্য দেশম, চেঙ্গান্নুর অঞ্চলের অন্যান্য পাণ্ডব মন্দিরগুলির সঙ্গে সফর করাই সবচেয়ে ভালো। কমলনাথনের দর্শন নিন এবং তারপর গোশালা কৃষ্ণ মন্দিরের, এবং প্রাঙ্গণের অবসর গতি উপভোগ করুন। কুম্ভমের উৎসবের দিনে মন্দির ভক্তে ভরে ওঠে, ধ্বজা, ভোজন ও কথাকলি এক ভিন্ন, আনন্দময় পরিবেশ দেয়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions, usually with a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvanvandoor is a village in Alappuzha district a few kilometres from Chengannur, which is the nearest railway station; autorickshaws, taxis and local buses serve the short road journey. Thiruvananthapuram and Kochi are the usual airport gateways."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন অধিবেশন সহ খোলা থাকে, সাধারণত মধ্যাহ্নে বন্ধ সহ; উৎসবের দিনগুলি সবচেয়ে ব্যস্ত। সফরের আগে বর্তমান সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "সংযত ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভেতরে ও চারপাশে ফটোগ্রাফি সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "তিরুবন্বণ্ডুর আলাপ্পুঝা জেলার একটি গ্রাম, চেঙ্গান্নুর থেকে কয়েক কিলোমিটার দূরে, যা নিকটতম রেলস্টেশন; অটোরিকশা, ট্যাক্সি ও স্থানীয় বাস স্বল্প সড়কপথের যাত্রা সম্পন্ন করে। তিরুবনন্তপুরম ও কোচি সাধারণ বিমানবন্দর প্রবেশদ্বার।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kamalanatha-thiruvanvandoor.jpg",

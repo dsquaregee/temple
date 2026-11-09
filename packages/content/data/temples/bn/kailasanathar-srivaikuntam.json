@@ -1,30 +1,37 @@
 {
   "id": "kailasanathar-srivaikuntam",
   "locale": "bn",
+  "name": "কৈলাসনাথর মন্দির, শ্রীবৈকুণ্ঠম",
   "nativeName": "கைலாசநாதர் கோயில், ஸ்ரீவைகுண்டம்",
+  "deity": "শিব কৈলাসনাথর রূপে, দেবী শিবকামী-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Srivaikuntam",
-    "state": "Tamil Nadu",
+    "city": "শ্রীবৈকুণ্ঠম",
+    "state": "তামিলনাড়ু",
     "lat": 8.636,
     "lng": 77.915
   },
+  "period": "নব কৈলাসমের ষষ্ঠটি, শনির মন্দির; এক পাণ্ড্য ভিত্তি যার হলগুলি বিজয়নগর ও নায়ক শাসকদের অধীনে নির্মিত",
   "century": 13,
+  "dynasty": "পাণ্ড্য, বিজয়নগর ও নায়ক সংযোজন সহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "তাম্রপর্ণীর তীরে শ্রীবৈকুণ্ঠমে, শহরের বিখ্যাত বিষ্ণু মন্দির থেকে অল্প হাঁটার দূরত্বে, শিব কৈলাসনাথর রূপে নব কৈলাসমের ষষ্ঠটি—সনি, শনি গ্রহের মন্দির রক্ষা করেন।",
   "sections": {
-    "history": "Srivaikuntam, a river town in Thoothukudi district some thirty kilometres east of Tirunelveli, is known to most pilgrims for its Vaikuntanatha Perumal temple, one of the Nava Tirupati. Its Kailasanathar temple belongs to the parallel Shaiva round of the Nava Kailasam, in which it is the sixth shrine and the seat of Sani, the planet Saturn. Tradition credits its foundation to a Pandya king remembered as Chandrakula Pandya, around the thirteenth century. In the sixteenth century, when the Vijayanagara rulers and then the Nayakas held the far south, pillared halls and major shrines were added, giving the temple much of the form it has today.",
-    "architecture": "The temple is laid out in the Dravidian manner within three precincts, but it greets the visitor in an unusual way: instead of a soaring pyramidal gopuram, a flat, low gateway marks the entrance. The modest front hides a richer interior, where Pandya-period work meets the pillared halls of the Nayaka age. Kailasanathar and the Goddess Sivakami have their own shrines, and Saneeswaran, the lord of Saturn, has a separate sanctum of his own, the focus of the many who come here as a Sani sthalam.",
-    "legends": "In the Nava Kailasam story, the sixth of the lotuses set afloat on the Tamiraparani by Romasa, the disciple of Agastya, came to rest at Srivaikuntam, and a linga was consecrated where it stopped. The temple's most loved figure, though, is Bhootanathar, a form of Sastha whose wooden image stands here as the guardian of the shrine. He is believed to keep watch through the night, and it is said that in earlier times the temple staff would hand him the keys when the doors were closed at the end of the day.",
-    "festivals": "The annual Brahmotsavam falls in the Tamil month of Chithirai (April–May), when Bhootanathar receives the first honours of the festival. As the Sani shrine of the circuit, the temple is busiest on Saturdays and at Sani Peyarchi, the transit of Saturn. Maha Shivaratri and the monthly pradosham are also kept. Confirm dates locally.",
-    "experience": "Many pilgrims visit Srivaikuntam for its Perumal temple and pass this shrine by; those who step inside find the quiet contrast of a plain gateway opening onto old pillared halls. Pausing before Saneeswaran and the guardian Bhootanathar, then walking down to the river, makes the visit complete."
+    "history": "শ্রীবৈকুণ্ঠম, তুতিকোরিন জেলায় তিরুনেলবেলি থেকে প্রায় ত্রিশ কিলোমিটার পূর্বে এক নদী শহর, অধিকাংশ তীর্থযাত্রীর কাছে তার বৈকুণ্ঠনাথ পেরুমাল মন্দিরের জন্য পরিচিত, নব তিরুপতির একটি। এর কৈলাসনাথর মন্দির নব কৈলাসমের সমান্তরাল শৈব চক্রের অন্তর্গত, যাতে এটি ষষ্ঠ মন্দির ও সনি, শনি গ্রহের আসন। ঐতিহ্য এর প্রতিষ্ঠার কৃতিত্ব প্রায় ত্রয়োদশ শতকে চন্দ্রকুল পাণ্ড্য নামে স্মরণীয় এক পাণ্ড্য রাজাকে দেয়। ষোড়শ শতকে, যখন বিজয়নগর শাসকগণ ও তারপর নায়করা সুদূর দক্ষিণ ধরে রেখেছিলেন, স্তম্ভিত হল ও প্রধান মন্দিরগুলি যোগ করা হয়েছিল, মন্দিরটিকে আজকের অধিকাংশ রূপ দিয়ে।",
+    "architecture": "মন্দিরটি তিনটি প্রাঙ্গণের মধ্যে দ্রাবিড় রীতিতে বিন্যস্ত, কিন্তু এটি দর্শনার্থীকে এক অস্বাভাবিক উপায়ে অভ্যর্থনা করে: এক সুউচ্চ পিরামিডাকার গোপুরমের বদলে, এক সমতল, নিচু দ্বার প্রবেশপথ চিহ্নিত করে। বিনম্র সম্মুখভাগ এক সমৃদ্ধতর অভ্যন্তর লুকিয়ে রাখে, যেখানে পাণ্ড্য যুগের কাজ নায়ক যুগের স্তম্ভিত হলের সঙ্গে মেশে। কৈলাসনাথর ও দেবী শিবকামীর নিজস্ব মন্দির আছে, এবং সনীশ্বরন, শনির প্রভু, তাঁর নিজস্ব এক পৃথক গর্ভগৃহ আছে, যারা এখানে এক সনি স্থলম হিসেবে আসেন তাদের বহুজনের কেন্দ্রবিন্দু।",
+    "legends": "নব কৈলাসম কাহিনীতে, অগস্ত্যের শিষ্য রোমশ কর্তৃক তাম্রপর্ণীতে ভাসানো ষষ্ঠ পদ্মটি শ্রীবৈকুণ্ঠমে এসে থেমেছিল, এবং যেখানে এটি থেমেছিল সেখানে এক লিঙ্গ প্রতিষ্ঠিত হয়েছিল। মন্দিরের সবচেয়ে প্রিয় মূর্তি অবশ্য ভূতনাথর, শাস্তার এক রূপ যার কাঠের মূর্তি এখানে মন্দিরের রক্ষক হিসেবে দাঁড়িয়ে আছে। বিশ্বাস করা হয় তিনি সারা রাত পাহারা দেন, এবং কথিত আছে যে আগেকার দিনে দিনের শেষে দরজা বন্ধ হলে মন্দিরকর্মীরা তাঁকে চাবি হস্তান্তর করতেন।",
+    "festivals": "বার্ষিক ব্রহ্মোৎসবম তামিল মাস চিত্তিরৈতে (এপ্রিল–মে) পড়ে, যখন ভূতনাথর উৎসবের প্রথম সম্মান গ্রহণ করেন। চক্রের সনি মন্দির হিসেবে, মন্দিরটি শনিবার ও সনি পেয়র্চি, শনির সঞ্চারে সবচেয়ে ব্যস্ত। মহা শিবরাত্রি ও মাসিক প্রদোষমও পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "বহু তীর্থযাত্রী শ্রীবৈকুণ্ঠম পরিদর্শন করেন এর পেরুমাল মন্দিরের জন্য এবং এই মন্দিরটি এড়িয়ে যান; যারা ভিতরে পা রাখেন তারা পুরনো স্তম্ভিত হলের উপর খোলা এক সাধারণ দ্বারের শান্ত বৈসাদৃশ্য খুঁজে পান। সনীশ্বরন ও রক্ষক ভূতনাথরের সামনে অবস্থান করে, তারপর নদীতে নেমে হাঁটা পরিদর্শনটিকে সম্পূর্ণ করে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Saturdays and Sani Peyarchi days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Srivaikuntam lies in Thoothukudi district on the Tirunelveli–Tiruchendur road, about 30 km east of Tirunelveli and a similar distance from Thoothukudi. The town has a station on the Tirunelveli–Tiruchendur railway line; Tirunelveli is the nearest major junction and Thoothukudi the nearest airport. The Kailasanathar temple is separate from the Vaikuntanatha Perumal temple in the same town."
+    "timings": "সকাল ও সন্ধ্যার দর্শন সেশন ও দুপুরে বন্ধ রেখে প্রতিদিন খোলা; শনিবার ও সনি পেয়র্চির দিন সবচেয়ে ব্যস্ত। পরিদর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খোলা। দক্ষিণের বহু মন্দিরের মতো পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সামনে ঊর্ধ্বাঙ্গের বস্ত্র খুলতে বলা হয়; প্রদর্শিত নিয়ম অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে ফটোগ্রাফি সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "শ্রীবৈকুণ্ঠম তুতিকোরিন জেলায় তিরুনেলবেলি–তিরুচেন্দুর সড়কে, তিরুনেলবেলি থেকে প্রায় ৩০ কিমি পূর্বে ও তুতিকোরিন থেকে অনুরূপ দূরত্বে অবস্থিত। শহরে তিরুনেলবেলি–তিরুচেন্দুর রেলপথে একটি স্টেশন আছে; তিরুনেলবেলি নিকটতম প্রধান জংশন ও তুতিকোরিন নিকটতম বিমানবন্দর। কৈলাসনাথর মন্দিরটি একই শহরের বৈকুণ্ঠনাথ পেরুমাল মন্দির থেকে পৃথক।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kailasanathar-srivaikuntam.jpg",

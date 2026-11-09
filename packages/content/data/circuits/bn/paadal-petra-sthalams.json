@@ -1,7 +1,11 @@
 {
   "id": "paadal-petra-sthalams",
   "locale": "bn",
+  "name": "পাডল পেট্র স্থলম",
   "nativeName": "பாடல் பெற்ற தலங்கள்",
+  "theme": "নায়নার সন্তদের তেবারম স্তোত্রে প্রশংসিত ২৭৫টি শিব মন্দির",
+  "region": "তামিলনাড়ু, পুদুচেরি, অন্ধ্রপ্রদেশ, কেরল, কর্ণাটক, শ্রীলঙ্কা ও উত্তর ভারত",
+  "description": "পাডল পেট্র স্থলম হল সেই সব শিব মন্দির যা তেবারমে স্তুত—তিন মহান নায়নার সন্ত তিরুজ্ঞান সম্বন্দর, তিরুনাবুক্করসর (অপ্পর) ও সুন্দরর-এর সপ্তম ও অষ্টম শতকের তামিল স্তোত্র। এগুলি দর্শন করা মানে তামিল দেশ জুড়ে সন্তদের নিজের পদচিহ্ন অনুসরণ করা। ঐতিহ্য এগুলিকে অঞ্চলভিত্তিক ভাগে একত্র করে: কাবেরীর তীরে চোল দেশের বিশাল বলয়, উত্তর তীর ও দক্ষিণ তীর; মাদুরাইকে ঘিরে পাণ্ড্য দেশ; পেন্নৈ ও কোল্লিডমের মধ্যবর্তী নাড়ু নাড়ু; পশ্চিমে কোঙ্গু নাড়ু; কাঞ্চীপুরমকে ঘিরে থোণ্ডৈ নাড়ু; এবং তার বাইরে কয়েকটি—একটি কেরলে, একটি কোঙ্কণের গোকর্ণে, দুটি শ্রীলঙ্কায়, আর উত্তরে শ্রীশৈলম থেকে কৈলাস পর্যন্ত গুটিকয়েক। এগুলি বৈষ্ণব দিব্য দেশমের শৈব প্রতিরূপ, এবং শিবের প্রতি তামিল ভক্তির জীবন্ত মানচিত্র। এখানে অঞ্চলভিত্তিক ভাগে একত্রিত, প্রতিটি অঞ্চলের নিজস্ব পথ-মানচিত্রসহ।",
   "stops": [
     "nataraja-chidambaram",
     "pasupatheeswarar-tiruvetkalam",
@@ -282,7 +286,7 @@
   "groups": [
     {
       "id": "chola-nadu-vadakarai",
-      "name": "Chola Nadu — north of the Kaveri",
+      "name": "চোল নাড়ু—কাবেরীর উত্তরে",
       "stops": [
         "nataraja-chidambaram",
         "pasupatheeswarar-tiruvetkalam",
@@ -351,7 +355,7 @@
     },
     {
       "id": "chola-nadu-thenkarai",
-      "name": "Chola Nadu — south of the Kaveri",
+      "name": "চোল নাড়ু—কাবেরীর দক্ষিণে",
       "stops": [
         "ratnagiriswarar-ayyarmalai",
         "kadambavaneswarar-kulithalai",
@@ -485,7 +489,7 @@
     },
     {
       "id": "pandya-nadu",
-      "name": "Pandya Nadu",
+      "name": "পাণ্ড্য নাড়ু",
       "stops": [
         "meenakshi-madurai",
         "aappudaiyar-tiruappanur",
@@ -505,7 +509,7 @@
     },
     {
       "id": "nadu-nadu",
-      "name": "Nadu Nadu",
+      "name": "নাড়ু নাড়ু",
       "stops": [
         "theerthapureeswarar-tiruvathurai",
         "sudarkozhundeesar-pennadam",
@@ -533,7 +537,7 @@
     },
     {
       "id": "kongu-nadu",
-      "name": "Kongu Nadu",
+      "name": "কোঙ্গু নাড়ু",
       "stops": [
         "sangameswarar-bhavani",
         "ardhanareeswarar-tiruchengode",
@@ -546,7 +550,7 @@
     },
     {
       "id": "thondai-nadu",
-      "name": "Thondai Nadu",
+      "name": "থোণ্ডৈ নাড়ু",
       "stops": [
         "ekambareswarar",
         "metraleeswarar-kanchipuram",
@@ -584,21 +588,21 @@
     },
     {
       "id": "malai-nadu",
-      "name": "Malai Nadu (Kerala)",
+      "name": "মলৈ নাড়ু (কেরল)",
       "stops": [
         "thiruvanchikulam-mahadeva"
       ]
     },
     {
       "id": "thulu-nadu",
-      "name": "Thulu Nadu",
+      "name": "থুলু নাড়ু",
       "stops": [
         "gokarna-mahabaleshwara"
       ]
     },
     {
       "id": "eezha-nadu",
-      "name": "Eezha Nadu (Sri Lanka)",
+      "name": "ঈড় নাড়ু (শ্রীলঙ্কা)",
       "stops": [
         "ketheeswarar-mannar",
         "koneswarar-trincomalee"
@@ -606,7 +610,7 @@
     },
     {
       "id": "vada-nadu",
-      "name": "Vada Nadu (North India)",
+      "name": "বড নাড়ু (উত্তর ভারত)",
       "stops": [
         "srisailam-mallikarjuna",
         "neelachalanathar-indraneelaparuppatham",

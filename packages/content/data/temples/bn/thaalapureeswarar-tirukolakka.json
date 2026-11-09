@@ -1,29 +1,40 @@
 {
   "id": "thaalapureeswarar-tirukolakka",
   "locale": "bn",
+  "name": "তালপুরীশ্বরর মন্দির, তিরুকোলাক্কা",
   "nativeName": "தாளபுரீசுவரர் கோயில்",
+  "deity": "তালপুরীশ্বরর (সপ্তপুরীশ্বরর, তালমুডৈয়ার) রূপে শিব, দেবী ওসৈকোডুত্ত নায়কী সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Tirukolakka",
-    "state": "Tamil Nadu",
+    "city": "তিরুকোলাক্কা",
+    "state": "তামিলনাড়ু",
     "lat": 11.23,
     "lng": 79.737
   },
+  "period": "চোল নাড়ুর প্রাচীন শৈব তীর্থ, তেবারমে স্তুত (সপ্তম শতক); মধ্যযুগীয় ও পরবর্তী সংযোজন সহ গঠনমূলক মন্দির",
   "century": 7,
+  "dynasty": "মধ্যযুগীয় তামিল পৃষ্ঠপোষক (চোল ও পরবর্তী)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "সীর্কাঝির পাশে একটি ছোট শিবমন্দির তালপুরীশ্বরর সেই স্থান রূপে স্মরণীয় যেখানে বালক-সন্ত সম্বন্দর প্রভুর কাছ থেকে সোনার করতাল লাভ করেন, এবং দেবী, ওসৈকোডুত্ত নায়কী রূপে, সেগুলিতে ধ্বনি দান করেন।",
   "sections": {
-    "history": "Tirukolakka lies just beside Sirkazhi in the Kaveri delta, and is counted among the Tevaram shrines of Chola Nadu north of the river, a Paadal Petra Sthalam sung by Sambandar and Sundarar. Local tradition derives the name from Thiru, the goddess Lakshmi, who is said to have appeared here in bridal finery, a kolam, in the grove of konrai trees, the kaa. The shrine is also known as Sapthapuri, and the Lord goes by several names, Thaalapureeswarar, Sapthapureeswarar and Thalamudaiyar, the last meaning the one who holds the cymbals. Its fame rests on the childhood of Sambandar, whose birthplace and great temple are only a short distance away.",
-    "architecture": "This is a modest, quiet temple of the Dravidian tradition rather than a monument of great scale. The presiding Shiva is worshipped here as Thaalapureeswarar, and the goddess is honoured as Osaikodutha Nayaki, the Lady who gave the sound, also called Dhwanipradhambal. In the prakara stand shrines of Vinayaka, Somaskanda, Subramanya, Lakshmi, Shani, Bhairava and Surya. The Ananda Theertham tank lies opposite the temple, and the Surya Theertham is also reckoned before it. The sacred tree is the konrai, the golden-flowered Indian laburnum, which gives the place its old name.",
-    "legends": "The story of Tirukolakka belongs to the childhood of Sambandar. Having been fed the milk of wisdom at Sirkazhi, the boy set out to visit the shrines around, and at Tirukolakka he sang before the Lord, clapping his tender hands to keep the time until they grew red. Moved by the child's devotion, Shiva gave him a pair of golden cymbals, thalam. The cymbals, however, made no sound until the Goddess breathed into them the power of sound. For this the Lord is called Thalamudaiyar, the holder of the cymbals, and the Goddess Osaikodutha Nayaki, the giver of sound. Some accounts speak of golden plates rather than cymbals, but the heart of the story is the same: a child's song, and a gift that the Mother made ring.",
-    "festivals": "The temple's great day is bound to the festival of Sirkazhi. In Chithirai, in April and May, the Chithirai Thiruvadhirai festival is kept at the Sattainathar temple, with the milk festival on its second day. After that, the image of Sambandar is brought to Tirukolakka, where the gift of the golden cymbals is remembered. Maha Shivaratri and the monthly Pradosham are observed with devotion. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Tirukolakka is best visited as a quiet companion to Sirkazhi, a short ride away. Come to the Lord Thalamudaiyar first and then to the Goddess Osaikodutha Nayaki, pausing to remember the child who sang here with his own two hands for rhythm. The tank before the temple adds to the calm of the place. Musicians, singers and parents of young children often come to pray here, since the story speaks so tenderly of music and of a child's voice. The temple is small, and an unhurried half hour in its courtyard is enough to feel why it is loved."
+    "history": "তিরুকোলাক্কা কাবেরী বদ্বীপে সীর্কাঝির ঠিক পাশে অবস্থিত, এবং নদীর উত্তরে চোল নাড়ুর তেবারম তীর্থগুলির মধ্যে গণ্য, সম্বন্দর ও সুন্দরর কর্তৃক গীত এক পাডল পেট্র স্থলম। স্থানীয় ঐতিহ্য নামটির উৎস খুঁজে পায় তিরু, দেবী লক্ষ্মীর মধ্যে, যিনি কোন্রৈ গাছের কুঞ্জে—কা—বধূবেশে, এক কোলম রূপে, এখানে আবির্ভূতা হয়েছিলেন বলে কথিত। তীর্থটি সপ্তপুরী নামেও পরিচিত, এবং প্রভুর বহু নাম—তালপুরীশ্বরর, সপ্তপুরীশ্বরর ও তালমুডৈয়ার, শেষটির অর্থ যিনি করতাল ধারণ করেন। এর খ্যাতি নিহিত সম্বন্দরের শৈশবে, যাঁর জন্মস্থান ও মহান মন্দির অল্প দূরেই।",
+    "architecture": "এটি মহান পরিসরের কোনো স্মারক নয়, বরং দ্রাবিড় ঐতিহ্যের এক বিনম্র, নিরিবিলি মন্দির। অধিষ্ঠাতা শিব এখানে তালপুরীশ্বরর রূপে পূজিত, এবং দেবী ওসৈকোডুত্ত নায়কী—যিনি ধ্বনি দান করেছিলেন সেই দেবী—রূপে সম্মানিত, ধ্বনিপ্রদাম্বাল নামেও অভিহিত। প্রাকারে রয়েছে বিনায়ক, সোমস্কন্দ, সুব্রহ্মণ্য, লক্ষ্মী, শনি, ভৈরব ও সূর্যের তীর্থ। আনন্দ তীর্থম পুষ্করিণী মন্দিরের বিপরীতে অবস্থিত, এবং সূর্য তীর্থমও এর সামনে গণ্য হয়। স্থলবৃক্ষ হল কোন্রৈ, সোনালি ফুলের সোঁদাল গাছ, যা এই স্থানকে তার পুরনো নাম দিয়েছে।",
+    "legends": "তিরুকোলাক্কার কাহিনি সম্বন্দরের শৈশবের অন্তর্গত। সীর্কাঝিতে জ্ঞানের দুগ্ধে পুষ্ট হয়ে বালকটি চারপাশের তীর্থ দর্শনে বেরিয়ে পড়েন, এবং তিরুকোলাক্কায় তিনি প্রভুর সামনে গান গাইলেন, তাল রক্ষার জন্য নিজের কোমল হাত এমনভাবে চাপড়ালেন যে সেগুলি রক্তিম হয়ে উঠল। শিশুর ভক্তিতে বিগলিত হয়ে শিব তাঁকে এক জোড়া সোনার করতাল, তালম, দান করলেন। করতালগুলি অবশ্য কোনো ধ্বনি দিল না, যতক্ষণ না দেবী সেগুলিতে ধ্বনির শক্তি সঞ্চার করলেন। এই কারণে প্রভু তালমুডৈয়ার, করতালের ধারক, এবং দেবী ওসৈকোডুত্ত নায়কী, ধ্বনির দাত্রী নামে অভিহিত। কোনো কোনো বিবরণে করতালের বদলে সোনার থালার কথা বলা হয়, তবে কাহিনির মর্ম একই: এক শিশুর গান, এবং এক উপহার যাকে মাতা ধ্বনিত করেছিলেন।",
+    "festivals": "মন্দিরের মহান দিনটি সীর্কাঝির উৎসবের সঙ্গে আবদ্ধ। চিত্তিরৈ মাসে, এপ্রিল ও মে-তে, সত্তৈনাথর মন্দিরে চিত্তিরৈ তিরুবাদিরৈ উৎসব পালিত হয়, এর দ্বিতীয় দিনে দুগ্ধোৎসব সহ। তারপর সম্বন্দরের মূর্তি তিরুকোলাক্কায় আনা হয়, যেখানে সোনার করতালের উপহার স্মরণ করা হয়। মহাশিবরাত্রি ও মাসিক প্রদোষম ভক্তিসহ পালিত হয়। তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তিরুকোলাক্কা দর্শন করা ভালো সীর্কাঝির এক নিরিবিলি সঙ্গী রূপে, যা অল্প দূরত্বের পথ। প্রথমে প্রভু তালমুডৈয়ারের কাছে, তারপর দেবী ওসৈকোডুত্ত নায়কীর কাছে আসুন, থেমে স্মরণ করুন সেই শিশুকে যিনি এখানে নিজের দুই হাতকেই ছন্দ করে গান গেয়েছিলেন। মন্দিরের সামনের পুষ্করিণী স্থানের প্রশান্তি বাড়ায়। সংগীতশিল্পী, গায়ক এবং ছোট শিশুদের মা-বাবারা প্রায়ই এখানে প্রার্থনা করতে আসেন, কেননা কাহিনিটি সংগীত ও এক শিশুর কণ্ঠের কথা এত কোমলভাবে বলে। মন্দিরটি ছোট, এবং এর প্রাঙ্গণে ধীরস্থির আধ ঘণ্টাই যথেষ্ট কেন এটি এত প্রিয় তা অনুভব করতে।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again in the late afternoon and evening, with a break at midday; no firm timings could be confirmed, so check locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez or long skirts for women, with shoulders and knees covered. Footwear is left outside the temple.",
-    "photography": "Photography is usually allowed in the outer corridors and courtyard but not within the sanctums, in keeping with temple rules across Tamil Nadu. Ask the temple staff before photographing rituals or priests.",
-    "gettingThere": "Tirukolakka is about 2 km from Sirkazhi, close to the Ulagalandha Perumal temple, and some 19 to 20 km from both Chidambaram and Mayiladuthurai on the road between them. Sirkazhi, on the Chennai–Mayiladuthurai railway line, is the nearest station, and local buses and autorickshaws cover the short distance to the temple. Chennai is roughly 240 km away by road."
+    "timings": "সাধারণত সকালে ও আবার বিকেলের শেষে ও সন্ধ্যায় খোলা, মধ্যাহ্নে বিরতি সহ; কোনো নির্দিষ্ট সময় নিশ্চিত করা যায়নি, তাই স্থানীয়ভাবে, বিশেষত উৎসবের দিনে, যাচাই করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা রেখে। জুতো মন্দিরের বাইরে রেখে যেতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরবিধি অনুসারে সাধারণত বাইরের বারান্দা ও প্রাঙ্গণে ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুকোলাক্কা সীর্কাঝি থেকে প্রায় ২ কিমি দূরে, উলগলন্দ পেরুমাল মন্দিরের কাছে, এবং চিদম্বরম ও ময়িলাড়ুতুরৈ—এই দুইয়ের মধ্যবর্তী সড়কে উভয় থেকে প্রায় ১৯ থেকে ২০ কিমি দূরে। চেন্নাই–ময়িলাড়ুতুরৈ রেলপথে সীর্কাঝি নিকটতম স্টেশন, এবং স্থানীয় বাস ও অটোরিকশা মন্দির পর্যন্ত স্বল্প দূরত্ব অতিক্রম করে। চেন্নাই সড়কপথে প্রায় ২৪০ কিমি দূরে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thaalapureeswarar-tirukolakka.mp3",
+    "durationSec": 246
   }
 }

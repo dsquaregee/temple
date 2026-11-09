@@ -1,31 +1,38 @@
 {
   "id": "veerateeswarar-thiruvirkudi",
   "locale": "bn",
+  "name": "বীরটেশ্বরর মন্দির, তিরুবিরকুড়ি",
   "nativeName": "திருவிற்குடி வீரட்டேஸ்வரர் கோயில்",
+  "deity": "শিব বীরটেশ্বরর রূপে, দেবী এলবর কুড়ালি (পরিমল নায়কী) সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thiruvirkudi",
-    "state": "Tamil Nadu",
+    "city": "তিরুবিরকুড়ি",
+    "state": "তামিলনাড়ু",
     "lat": 10.8314,
     "lng": 79.6636
   },
+  "period": "চোল দেশের পাডল পেট্র স্থলম, সম্বন্দর কর্তৃক স্তুত (৭ম শতাব্দী); অষ্ট বীরট্টানমের অন্যতম",
   "century": 7,
+  "dynasty": "চোল, থাঞ্জাভুর নায়ক সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবারুরের উত্তরে ধানক্ষেত্রের দেশে শিব বীরটেশ্বরর রূপে সেই চক্র দিয়ে অসুর জলন্ধরের ওপর তাঁর বিজয় স্মরণ করেন যা তিনি পরে বিষ্ণুকে দিয়েছিলেন—সেই বীরট্টানম যেখানে বৃন্দা পবিত্র তুলসী রূপে সম্মানিতা।",
   "sections": {
-    "history": "Thiruvirkudi, also called Virkudi, is a village about 10 km north of Tiruvarur in the heart of the Kaveri delta. Its temple to Shiva as Veerateeswarar is one of the eight Ashta Veerattanams, the one that remembers the Lord's victory over Jalandhara. Sambandar sang the Lord of Thiruvirkudi in the Tevaram, and the temple is counted among the Paadal Petra Sthalams of the Chola country. Its present masonry is assigned to the Chola period, with later expansion under the Thanjavur Nayaks. Small and rural, it has long kept its place on the pilgrim road of the eight Veerattanams, set among the fields and tanks of the delta.",
-    "architecture": "The temple is laid out in the Dravidian manner of the delta, with a gateway, an enclosing courtyard and the sanctum of Veerateeswarar, and the goddess Elavar Kuzhali in her own shrine. In the outer courtyard two small shrines carry the story of the place: one honours the Shiva whom Vishnu worshipped, and another marks the spot where, tradition holds, Brinda was restored to life as the tulasi plant.",
-    "legends": "Jalandhara, born of the fire of Shiva's own anger cast into the sea, grew into an asura king of terrible strength, shielded by the steadfast virtue of his wife Brinda. When he challenged the Lord himself, Shiva drew a wheel on the ground with his toe and bade the demon lift it; as Jalandhara raised it, the discus cut him down. Tradition here holds that Shiva later gave that discus to Vishnu, who worshipped him for it, and that Brinda was raised to life as the tulasi, dear to Vishnu ever after.",
-    "festivals": "The temple keeps the festivals of the Shaiva year — Maha Shivaratri, the fortnightly pradosham, Arudra Darshan in Margazhi and Karthigai Deepam — and its annual festival brings the processional bronzes out through the village streets, and the monthly cycle of worship continues quietly in every season. Confirm dates locally.",
-    "experience": "Thiruvirkudi is a still, green place, typical of the delta's village shrines. Pilgrims come to complete the eight Veerattanams, and many linger by the small tulasi shrine in the outer courtyard, where the stories of Shiva and Vishnu meet. Tiruvarur's great Thyagaraja temple is close by, and the road north leads on to Mayiladuthurai and the other Veerattanams."
+    "history": "তিরুবিরকুড়ি, যা বিরকুড়ি নামেও পরিচিত, কাবেরী ব-দ্বীপের হৃদয়ে তিরুবারুরের প্রায় ১০ কিমি উত্তরে অবস্থিত একটি গ্রাম। শিব বীরটেশ্বররের এই মন্দিরটি আটটি অষ্ট বীরট্টানমের অন্যতম, যেটি জলন্ধরের ওপর প্রভুর বিজয় স্মরণ করে। সম্বন্দর তেবারমে তিরুবিরকুড়ির প্রভুকে গেয়েছেন, এবং মন্দিরটি চোল দেশের পাডল পেট্র স্থলমের মধ্যে গণ্য। এর বর্তমান গাঁথনি চোল যুগের বলে ধরা হয়, থাঞ্জাভুর নায়কদের অধীনে পরবর্তী সম্প্রসারণসহ। ক্ষুদ্র ও গ্রামীণ এই মন্দির দীর্ঘকাল ধরে আটটি বীরট্টানমের তীর্থপথে এর স্থান রক্ষা করে এসেছে, ব-দ্বীপের মাঠ ও পুষ্করিণীর মাঝে অবস্থিত।",
+    "architecture": "মন্দিরটি ব-দ্বীপের দ্রাবিড় রীতিতে বিন্যস্ত, একটি প্রবেশদ্বার, একটি পরিবেষ্টনকারী প্রাঙ্গণ এবং বীরটেশ্বররের গর্ভগৃহ নিয়ে, আর দেবী এলবর কুড়ালি তাঁর নিজস্ব মন্দিরে। বাইরের প্রাঙ্গণে দুটি ছোট মন্দির এই স্থানের কাহিনি বহন করে: একটি সেই শিবকে সম্মান করে যাঁকে বিষ্ণু পূজা করেছিলেন, এবং অন্যটি সেই স্থান চিহ্নিত করে যেখানে পরম্পরা অনুসারে বৃন্দাকে তুলসী উদ্ভিদ রূপে পুনর্জীবিত করা হয়েছিল।",
+    "legends": "জলন্ধর, শিবের নিজের ক্রোধের অগ্নি সমুদ্রে নিক্ষেপ করা থেকে জাত, এক ভয়ানক শক্তিশালী অসুর রাজারূপে বৃদ্ধি পান, যিনি তাঁর স্ত্রী বৃন্দার অবিচল সতীত্বে সুরক্ষিত ছিলেন। যখন তিনি স্বয়ং প্রভুকে চ্যালেঞ্জ করেন, শিব তাঁর পায়ের আঙুল দিয়ে মাটিতে একটি চক্র আঁকেন এবং অসুরকে তা তুলতে বলেন; জলন্ধর তা তুললে চক্রটি তাঁকে কেটে ফেলে। এখানকার পরম্পরা বলে যে শিব পরে সেই চক্র বিষ্ণুকে দান করেন, যিনি এর জন্য তাঁকে পূজা করেছিলেন, এবং বৃন্দাকে তুলসী রূপে পুনর্জীবিত করা হয়, যিনি তারপর থেকে বিষ্ণুর প্রিয়।",
+    "festivals": "মন্দিরটি শৈব বছরের উৎসবগুলি পালন করে—মহাশিবরাত্রি, পাক্ষিক প্রদোষম, মার্গড়িতে আরুদ্র দর্শন ও কার্তিগৈ দীপম—এবং এর বার্ষিক উৎসব শোভাযাত্রার কাঁসার মূর্তিগুলিকে গ্রামের পথে বের করে আনে, আর প্রতি ঋতুতে পূজার মাসিক চক্র নীরবে চলতে থাকে। তারিখগুলি স্থানীয়ভাবে যাচাই করুন।",
+    "experience": "তিরুবিরকুড়ি এক স্থির, সবুজ স্থান, ব-দ্বীপের গ্রামীণ মন্দিরগুলির মতোই। তীর্থযাত্রীরা আটটি বীরট্টানম সম্পূর্ণ করতে আসেন, এবং অনেকে বাইরের প্রাঙ্গণে ছোট তুলসী মন্দিরের পাশে বিলম্ব করেন, যেখানে শিব ও বিষ্ণুর কাহিনি মিলিত হয়। তিরুবারুরের মহান ত্যাগরাজ মন্দির কাছে, এবং উত্তরের পথ ময়িলাড়ুতুরৈ ও অন্যান্য বীরট্টানমের দিকে এগিয়ে যায়।"
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure, as at most village temples of the delta. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Thiruvirkudi lies about 10 km north of Tiruvarur and is reached by road. Tiruvarur is the nearest railway junction; Tiruchirappalli is the nearest large airport."
+    "timings": "ব-দ্বীপের বেশিরভাগ গ্রামীণ মন্দিরের মতো মধ্যাহ্নে বন্ধ রেখে প্রতিদিন সকাল ও সন্ধ্যার পর্বে খোলা থাকে। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে বাইরে পাদুকা রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহের ভিতরে ফটোগ্রাফি অনুমোদিত নয়; বাইরের করিডোরে ছবি তোলার আগে, বিশেষত আচার ও উৎসবের কাঁসার মূর্তির, মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবিরকুড়ি তিরুবারুরের প্রায় ১০ কিমি উত্তরে অবস্থিত এবং সড়কপথে পৌঁছানো যায়। তিরুবারুর নিকটতম রেল সংযোগস্থল; তিরুচিরাপল্লি নিকটতম বড় বিমানবন্দর।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/veerateeswarar-thiruvirkudi.jpg",

@@ -1,29 +1,36 @@
 {
   "id": "valampuranathar-tiruvalampuram",
   "locale": "bn",
+  "name": "বলম্পুরনাথর মন্দির, তিরুবলম্পুরম (মেলাইপ্পেরুম্পল্লম)",
   "nativeName": "திருவலம்புரம் வலம்புரநாதர் கோயில் (மேலைப்பெரும்பள்ளம்)",
+  "deity": "শিব বলম্পুরনাথর রূপে (বালুকার একটি পৃথ্বী লিঙ্গ), দেবী বডুবকির্কন্নী (স্বর্ণ পদ্মাম্বিকা) সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Melaperumpallam, near Poompuhar",
-    "state": "Tamil Nadu",
+    "city": "মেলাইপ্পেরুম্পল্লম, পূম্পুহারের নিকট",
+    "state": "তামিলনাড়ু",
     "lat": 11.13816,
     "lng": 79.80934
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তোত্রে বর্ণিত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কাবেরীর মোহনায় পূম্পুহারের নিকটে মেলাইপ্পেরুম্পল্লম শিবকে বলম্পুরনাথর রূপে—বালুকার একটি পৃথ্বী লিঙ্গে পূজিত—দেবী বডুবকির্কন্নী সহ সম্মান জানায়। সম্বন্দর, অপ্পর ও সুন্দরার কর্তৃক স্তুত একটি পাডল পেট্র স্থলম, এটি ঋষি হেরণ্ডরের কিংবদন্তির সঙ্গে আবদ্ধ, যিনি অন্তর্হিত কাবেরীকে পৃথিবীতে ফিরিয়ে এনেছিলেন, এবং এটি সতীর জন্মস্থান বলে গণ্য।",
   "sections": {
-    "history": "Melaperumpallam, the Tevaram's Tiruvalampuram, lies about 2 km off the Poompuhar branch road, roughly 18 km from Sirkazhi and 20 km from Mayiladuthurai, near the Kaveri's mouth. It is a Paadal Petra Sthalam, praised in the Tevaram by Gnanasambandar, Tirunavukkarasar (Appar) and Sundarar. The stone temple is of the Chola period and later. (Wikipedia lists Mayiladuthurai district; TN Temples Project and Dinamalar list Nagapattinam.)",
-    "architecture": "A Dravidian coastal-delta temple, the shrine enshrines Valampuranathar in the sanctum, worshipped in a prithvi lingam made of sand, with the goddess Vaduvakirkanni — also named Swarna Padmambigai, Sankari, Gnana Soundari — in her own shrine, a Nandi and the parivara devatas. The walled courtyard keeps the form of the Shiva temples of the lower delta near Poompuhar.",
-    "legends": "The lord is called Valampuranathar because, it is said, the conch here was oriented to the right (valam); the lingam is of sand, a prithvi (earth) lingam. The sage Herandar is remembered here for his part in bringing the Kaveri — which had vanished — back to earth, and his jeeva samadhi is said to be at this temple. The place is also held to be the birthplace of Dakshayani (Sati). The goddess Vaduvakirkanni stands beside the lord.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a coastal village shrine. Pilgrims of the Sirkazhi–Poompuhar coast include Melaperumpallam among their stops.",
-    "experience": "At Melaperumpallam the pilgrim comes to a shrine of the sand lingam near the Kaveri's mouth. Before Valampuranathar and Vaduvakirkanni, with the sea and the river's end near, the visitor finds the quiet grace of a Tevaram temple of the coast, and the memory of the sage who brought the river home."
+    "history": "মেলাইপ্পেরুম্পল্লম, তেবারমের তিরুবলম্পুরম, পূম্পুহার শাখা রাস্তা থেকে প্রায় ২ কিমি দূরে, সিরকাঝি থেকে প্রায় ১৮ কিমি ও মায়িলাদুতুরাই থেকে ২০ কিমি দূরে, কাবেরীর মোহনার নিকটে অবস্থিত। এটি একটি পাডল পেট্র স্থলম, জ্ঞানসম্বন্দর, তিরুনাবুক্করসর (অপ্পর) ও সুন্দরার কর্তৃক তেবারমে স্তুত। পাথরের মন্দিরটি চোল যুগের ও তার পরবর্তী। (উইকিপিডিয়া মায়িলাদুতুরাই জেলা তালিকাভুক্ত করে; টিএন টেম্পলস প্রজেক্ট ও দিনমালার নাগাপট্টিনম তালিকাভুক্ত করে।)",
+    "architecture": "একটি দ্রাবিড় উপকূলীয়-ব-দ্বীপ মন্দির, গর্ভগৃহে বলম্পুরনাথর বালুকায় তৈরি একটি পৃথ্বী লিঙ্গে পূজিত, দেবী বডুবকির্কন্নী—যাঁকে স্বর্ণ পদ্মাম্বিকা, শঙ্করী, জ্ঞান সৌন্দরীও বলা হয়—তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণ সহ। প্রাচীরবেষ্টিত প্রাঙ্গণ পূম্পুহারের নিকটে নিম্ন ব-দ্বীপের শিব মন্দিরগুলির রূপ রক্ষা করে।",
+    "legends": "প্রভুকে বলম্পুরনাথর বলা হয় কারণ, কথিত আছে, এখানে শঙ্খটি ডান দিকে (বলম) মুখ করা ছিল; লিঙ্গটি বালুকার, একটি পৃথ্বী (ভূমি) লিঙ্গ। ঋষি হেরণ্ডর এখানে স্মরণীয় কাবেরী—যা অন্তর্হিত হয়েছিল—পৃথিবীতে ফিরিয়ে আনায় তাঁর ভূমিকার জন্য, এবং তাঁর জীব সমাধি এই মন্দিরেই বলে কথিত। স্থানটি দক্ষায়ণী (সতী) র জন্মস্থান বলেও গণ্য। দেবী বডুবকির্কন্নী প্রভুর পাশে দাঁড়িয়ে আছেন।",
+    "festivals": "মন্দিরে মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসি মাসে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকাইয়ের সোমবারগুলি প্রদোষ পূজা সহ পালিত হয়, একটি উপকূলীয় গ্রাম মন্দিরের শান্ত পরিসরে। সিরকাঝি–পূম্পুহার উপকূলের তীর্থযাত্রীরা তাঁদের যাত্রাপথে মেলাইপ্পেরুম্পল্লমকে অন্তর্ভুক্ত করেন।",
+    "experience": "মেলাইপ্পেরুম্পল্লমে তীর্থযাত্রী কাবেরীর মোহনার কাছে বালুকা-লিঙ্গের একটি মন্দিরে আসেন। সমুদ্র ও নদীর সমাপ্তি কাছে থাকায় বলম্পুরনাথর ও বডুবকির্কন্নীর সামনে দর্শনার্থী উপকূলের একটি তেবারম মন্দিরের শান্ত করুণা, এবং যে ঋষি নদীকে ঘরে ফিরিয়ে এনেছিলেন তাঁর স্মৃতি খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Melaperumpallam lies about 2 km off the Poompuhar branch road, roughly 18 km from Sirkazhi and 20 km from Mayiladuthurai, near the Kaveri's mouth. Sirkazhi and Mayiladuthurai are the nearest rail heads, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে পাদুকা রেখে আসতে হয়।",
+    "photography": "বাইরের করিডোরে সাধারণত আলোকচিত্র তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মেলাইপ্পেরুম্পল্লম পূম্পুহার শাখা রাস্তা থেকে প্রায় ২ কিমি দূরে, সিরকাঝি থেকে প্রায় ১৮ কিমি ও মায়িলাদুতুরাই থেকে ২০ কিমি দূরে, কাবেরীর মোহনার নিকটে অবস্থিত। সিরকাঝি ও মায়িলাদুতুরাই নিকটতম রেলপথ, গ্রামে বাস ও ট্যাক্সি সহ।"
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "panankatteeswarar-panankattur",
   "locale": "bn",
+  "name": "পনঙ্কাট্টীশ্বর মন্দির, পনৈয়াপুরম",
   "nativeName": "பனங்காட்டீஸ்வரர் கோயில்",
+  "deity": "শিব পনঙ্কাট্টীশ্বর (পনঙ্কাট্টীসর) রূপে, দেবী সত্যাম্বিকৈ (পুরবম্মৈ) সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Panaiyapuram",
-    "state": "Tamil Nadu",
+    "city": "পনৈয়াপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.01,
     "lng": 79.54
   },
+  "period": "নাড়ু নাড়ু দেশের প্রাচীন শৈব মন্দির, তেবারমে বন্দিত (সপ্তম শতক); পল্লব উৎপত্তি চোলদের অধীনে পাথরে পুনর্নির্মিত",
   "century": 7,
+  "dynasty": "পল্লব উৎপত্তি, চোলদের দ্বারা পাথরে পুনর্নির্মিত",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "পনঙ্কাট্টীশ্বর পনৈয়াপুরমের শিব মন্দির, তেবারমের পুরবর পনঙ্কাট্টুর, নাড়ু নাড়ু দেশের এক পাড়ল পেট্র স্থলম, তিরুজ্ঞান সম্বন্দর কর্তৃক বন্দিত এবং সেই সূর্যের জন্য স্মরণীয় যিনি এখানে পূজায় তাঁর দীপ্তি ফিরে পেয়েছিলেন।",
   "sections": {
-    "history": "Panaiyapuram, the palm-town of the Nadu Nadu country west of Villupuram, is an old Shiva shrine known to the Tevaram as Puravar Panankattur, the palm-forest of Puravar. The hymns of Tirugnana Sambandar, gathered in the Second Thirumurai, praise the Lord here, which makes the temple a Paadal Petra Sthalam, counted among the shrines of the Nadu Nadu group. Tradition holds that the Lord first appeared amid a grove of palms, and the palm remains the temple's sacred tree. The shrine is understood to have risen in the Pallava age, before the time of the hymns, and to have been rebuilt in stone in the Chola period, after which it has been kept in worship across the centuries.",
-    "architecture": "The temple is a modest east-facing shrine of the Nadu Nadu countryside, its sanctum holding the linga of Panankatteeswarar within walls of granite, with the goddess Sathyambikai, also called Puravammai, honoured in her own shrine. The temple is best known for a feat of orientation rather than of height: for the first several days of the Tamil month of Chithirai, when the new year turns, the rising sun sends its light through the eastern doorway to fall first upon the Lord in the sanctum and then upon the goddess, a solar alignment built into the very placing of the shrine. Beyond this the temple keeps the plain dignity of a village foundation rather than the ornament of the great temples of the plains.",
-    "legends": "The temple's great story is the Sun's. Surya, having gone to the sacrifice of Daksha that Shiva's rite did not favour, is said to have lost his brightness as a consequence and to have come to this place to worship the Lord and win back his radiance. From his penance the shrine keeps its bond with the Sun, and the yearly alignment of light upon the sanctum at the turn of the year is read as the Lord's grace to Surya made visible. The name Panankattur, the palm forest, is tied to the grove in which the Lord is said to have first revealed himself, and the palm is honoured as the sacred tree to this day.",
-    "festivals": "The temple's signature observance is the alignment of the sun upon the sanctum in the first days of Chithirai, in April, when the rising light falls upon the Lord and then the goddess and is kept with special worship. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. As the calendar is the Tamil one and the fuller festival round of this village shrine is not widely recorded, confirm the days and the details locally before travelling.",
-    "experience": "Panaiyapuram is a quiet country temple, visited more by the devout of the surrounding villages than by crowds, and it rewards an unhurried call. Come to the sanctum of Panankatteeswarar and then to the goddess Sathyambikai in her shrine, and if the visit falls in the first days of Chithirai, the alignment of the sunrise upon the Lord is the sight to seek. The palm, the temple's sacred tree, recalls the grove of the name and the Sun's penance, and the plainness of the shrine is in keeping with its age and its setting among the fields."
+    "history": "পনৈয়াপুরম, বিল্লুপুরমের পশ্চিমে নাড়ু নাড়ু দেশের তালগাছের-শহর, একটি প্রাচীন শিব মন্দির যা তেবারমে পুরবর পনঙ্কাট্টুর, পুরবরের তালবন নামে পরিচিত। দ্বিতীয় তিরুমুরৈতে সংগৃহীত তিরুজ্ঞান সম্বন্দরের স্তোত্র এখানে প্রভুর প্রশংসা করে, যা মন্দিরটিকে একটি পাড়ল পেট্র স্থলম করে তোলে, নাড়ু নাড়ু গোষ্ঠীর মন্দিরগুলির মধ্যে গণ্য। ঐতিহ্য বলে প্রভু প্রথমে এক তালবনের মধ্যে আবির্ভূত হয়েছিলেন, এবং তাল মন্দিরের পবিত্র বৃক্ষ হিসেবেই রয়ে গেছে। মন্দিরটি স্তোত্র রচনার কালের আগে পল্লব যুগে উত্থিত হয়েছিল বলে বোঝা যায়, এবং চোল যুগে পাথরে পুনর্নির্মিত হয়েছিল, তারপর থেকে শতাব্দীজুড়ে এটি পূজায় রক্ষিত হয়েছে।",
+    "architecture": "মন্দিরটি নাড়ু নাড়ু গ্রামাঞ্চলের একটি বিনম্র পূর্বমুখী মন্দির, যার গর্ভগৃহে গ্রানাইট প্রাচীরের মধ্যে পনঙ্কাট্টীশ্বরের লিঙ্গ রয়েছে, এবং দেবী সত্যাম্বিকৈ, যিনি পুরবম্মৈ নামেও পরিচিত, তাঁর নিজস্ব মন্দিরে পূজিত। মন্দিরটি উচ্চতার চেয়ে অভিমুখের এক কীর্তির জন্য সর্বাধিক পরিচিত: তামিল চিত্তিরৈ মাসের প্রথম কয়েক দিন, যখন নববর্ষ শুরু হয়, উদীয়মান সূর্য পূর্ব দরজা দিয়ে তার আলো পাঠায় যা প্রথমে গর্ভগৃহে প্রভুর উপর এবং তারপর দেবীর উপর পড়ে, মন্দিরের স্থাপনার মধ্যেই নির্মিত এক সৌর সারিবদ্ধতা। এর বাইরে মন্দিরটি সমতলভূমির মহান মন্দিরগুলির অলংকারের চেয়ে এক গ্রাম-ভিত্তির সরল মর্যাদা ধরে রাখে।",
+    "legends": "মন্দিরের মহান কাহিনি সূর্যের। সূর্য, শিবের যজ্ঞে অসমাদৃত দক্ষের যজ্ঞে গিয়ে, এর পরিণামে তাঁর উজ্জ্বলতা হারিয়েছিলেন বলে কথিত আছে এবং এই স্থানে এসে প্রভুর পূজা করে তাঁর দীপ্তি ফিরে পেয়েছিলেন। তাঁর তপস্যা থেকে মন্দিরটি সূর্যের সঙ্গে তার বন্ধন ধরে রাখে, এবং বছরের শুরুতে গর্ভগৃহের উপর আলোর বার্ষিক সারিবদ্ধতা সূর্যের প্রতি প্রভুর কৃপার দৃশ্যমান রূপ হিসেবে পঠিত হয়। পনঙ্কাট্টুর নাম, তালবন, সেই উপবনের সঙ্গে জড়িত যেখানে প্রভু প্রথম আত্মপ্রকাশ করেছিলেন বলে কথিত আছে, এবং তাল আজও পবিত্র বৃক্ষ হিসেবে সম্মানিত।",
+    "festivals": "মন্দিরের স্বাক্ষর আচার হল চিত্তিরৈর প্রথম দিনগুলিতে, এপ্রিলে, গর্ভগৃহের উপর সূর্যের সারিবদ্ধতা, যখন উদীয়মান আলো প্রভুর উপর এবং তারপর দেবীর উপর পড়ে এবং বিশেষ পূজায় পালিত হয়। প্রতিটি শিব মন্দিরের মতো মহা শিবরাত্রি ও মাসিক প্রদোষম পালিত হয়। পঞ্জিকা তামিল এবং এই গ্রাম-মন্দিরের পূর্ণ উৎসব-চক্র ব্যাপকভাবে নথিভুক্ত নয়, তাই যাত্রার আগে দিন ও বিবরণ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "পনৈয়াপুরম একটি নিস্তব্ধ গ্রাম্য মন্দির, ভিড়ের চেয়ে পার্শ্ববর্তী গ্রামের ভক্তরাই বেশি দর্শন করেন, এবং এটি একটি তাড়াহুড়োহীন দর্শনের পুরস্কার দেয়। পনঙ্কাট্টীশ্বরের গর্ভগৃহে এবং তারপর দেবী সত্যাম্বিকৈর মন্দিরে আসুন, এবং যদি দর্শন চিত্তিরৈর প্রথম দিনগুলিতে পড়ে, তবে প্রভুর উপর সূর্যোদয়ের সারিবদ্ধতাই দেখার মতো দৃশ্য। মন্দিরের পবিত্র বৃক্ষ তাল নামের উপবন ও সূর্যের তপস্যাকে স্মরণ করায়, এবং মন্দিরের সরলতা এর প্রাচীনতা ও শস্যক্ষেত্রের মধ্যে এর অবস্থানের সঙ্গে সামঞ্জস্যপূর্ণ।"
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again in the evening, with a long midday closure; as a village temple the hours can vary, so confirm locally before visiting, especially around the Chithirai sun-alignment days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Panaiyapuram lies in Villupuram district, about 13 km from Villupuram and near Vikravandi and Mundiyampakkam, reached by local roads off the Villupuram highways. Villupuram, the nearest major railway junction and bus hub, is the practical base; local buses and road transport serve the village."
+    "timings": "সাধারণত সকালে কয়েক ঘণ্টা এবং আবার সন্ধ্যায় খোলা থাকে, মধ্যাহ্নে দীর্ঘ বিরতিসহ; গ্রাম-মন্দির হওয়ায় সময় পরিবর্তিত হতে পারে, তাই দর্শনের আগে স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত চিত্তিরৈর সূর্য-সারিবদ্ধতার দিনগুলির আশেপাশে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশপথের স্থানে জুতো খুলে রাখা হয়।",
+    "photography": "তামিলনাড়ুর মন্দির-নিয়ম অনুসারে সাধারণত বাইরের প্রাঙ্গণে ছবি তোলা অনুমোদিত, তবে ভিতরের গর্ভগৃহে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "পনৈয়াপুরম বিল্লুপুরম জেলায়, বিল্লুপুরম থেকে প্রায় ১৩ কিমি দূরে এবং বিক্রবাণ্ডি ও মুণ্ডিয়ামপাক্কমের নিকটে, বিল্লুপুরম মহাসড়ক থেকে স্থানীয় সড়কে পৌঁছানো যায়। বিল্লুপুরম, নিকটতম প্রধান রেলসংযোগ ও বাসকেন্দ্র, এর ব্যবহারিক ঘাঁটি; স্থানীয় বাস ও সড়ক পরিবহন গ্রামে পরিসেবা দেয়।"
   }
 }

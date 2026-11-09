@@ -1,31 +1,38 @@
 {
   "id": "badrinarayan-badrinath",
   "locale": "bn",
+  "name": "বদ্রীনারায়ণ মন্দির, বদ্রীনাথ",
   "nativeName": "बद्रीनारायण मंदिर, बद्रीनाथ",
+  "deity": "বিষ্ণু বদ্রীনারায়ণ রূপে, ধ্যানে উপবিষ্ট, দেবী অরবিন্দবল্লী-সহ—তিরুবাদারির হিমালয়ী দিব্যদেশম",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Badrinath",
-    "state": "Uttarakhand",
+    "city": "বদ্রীনাথ",
+    "state": "উত্তরাখণ্ড",
     "lat": 30.7447,
     "lng": 79.4912
   },
+  "period": "গাড়োয়াল হিমালয়ে বডা নাড়ুর একটি দিব্যদেশম, নালায়িরা দিব্যপ্রবন্ধমে পেরিয়ালবার ও তিরুমঙ্গাই আলবার দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "পরম্পরা অনুসারে আদি শঙ্কর দ্বারা পুনঃপ্রতিষ্ঠিত; পরবর্তী গাড়োয়াল পৃষ্ঠপোষকতা",
+  "style": "হিমালয়ী নাগর মন্দির ঐতিহ্য",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "char-dham"
   ],
+  "summary": "বদ্রীনাথে অলকানন্দার বহু উপরে বিষ্ণু বদ্রীনারায়ণ রূপে পূজিত—তিরুবাদারির হিমালয়ী দিব্যদেশম, পেরিয়ালবার ও তিরুমঙ্গাই আলবার দ্বারা স্তুত, যা কেবল গ্রীষ্মের মাসগুলিতেই খোলা থাকে।",
   "sections": {
-    "history": "Badrinath is the Thiruvadari, or Badarikashramam, of the Alvars — one of the 108 Divya Desams, the abodes of Vishnu sung in the Nalayira Divya Prabandham, and the Himalayan shrine of Vada Nadu. Periyalvar and Thirumangai Alvar both sang of the Lord of Badari, the latter in two decads of his Periya Thirumozhi. The temple is also one of the Char Dham of India and stands among the Pancha Badri. Tradition credits Adi Shankara, in the eighth or ninth century, with restoring the pilgrimage: he is said to have recovered the image from the Alaknanda and enshrined it beside the hot springs, and the Garhwal kings later cared for the temple. Because of the Himalayan winter, it is open for only about six months of the year.",
-    "architecture": "The temple rises about fifty feet above the Alaknanda, its stone façade pierced by arched windows and crowned by a small gilded cupola. Pilgrims climb a stair to the brightly painted Singhdwar, the main gate, where a figure of Garuda keeps watch. Within lie the garbhagriha, the darshan mandapa and the sabha mandapa. The image is of black stone, a Shaligram, in a seated, meditative posture. Around it stand shrines of Lakshmi Narasimha, Nara-Narayana, Adi Shankara, Ghantakarna, Vedanta Desika and Ramanuja. Just below flow the Tapt Kund, the hot springs where pilgrims bathe before darshan.",
-    "legends": "The sthala purana tells that Vishnu performed austerities here, so deep that the Goddess Lakshmi stood over him as a badari, a jujube tree, to shelter him from the cold; from the tree come the name Badri and the name Badrinarayan. Here too, tradition holds, the twin sages Nara and Narayana practised penance, and the two peaks that flank the town bear their names. The Divya Desam lists speak of the Lord as worshipped beneath the jujube tree.",
-    "festivals": "The year turns on the opening and closing of the temple doors at the start and end of the pilgrim season, each marked with ceremony. The Mata Murti fair in early autumn and the Badri-Kedar festival are customary observances, and in winter the Lord is worshipped lower down the valley at Joshimath. Confirm dates locally.",
-    "experience": "Badrinath sits in clear, cold air at about 3,100 metres, with the Alaknanda below and the Nara and Narayana peaks on either side. Bathe, if you wish, at the Tapt Kund, then climb to the Singhdwar and join the line for darshan. Come prepared for cold even in summer, and allow for the long mountain road; the journey is itself part of the pilgrimage."
+    "history": "বদ্রীনাথ হলো আলবারদের তিরুবাদারি, বা বদরিকাশ্রম—১০৮টি দিব্যদেশমের একটি, নালায়িরা দিব্যপ্রবন্ধমে স্তুত বিষ্ণুর আবাসসমূহ, এবং বডা নাড়ুর হিমালয়ী মন্দির। পেরিয়ালবার ও তিরুমঙ্গাই আলবার উভয়েই বদরির প্রভুর গান গেয়েছেন, পরবর্তীজন তাঁর পেরিয় তিরুমোঝির দুটি দশকে। মন্দিরটি ভারতের চারধামেরও একটি এবং পঞ্চ বদরির অন্তর্ভুক্ত। পরম্পরা আদি শঙ্করকে, অষ্টম বা নবম শতাব্দীতে, তীর্থটি পুনঃপ্রতিষ্ঠার কৃতিত্ব দেয়: কথিত আছে তিনি অলকানন্দা থেকে মূর্তিটি উদ্ধার করে উষ্ণ প্রস্রবণের পাশে প্রতিষ্ঠা করেন, আর পরবর্তীতে গাড়োয়াল রাজারা মন্দিরটির দেখাশোনা করেন। হিমালয়ী শীতের কারণে এটি বছরে মাত্র প্রায় ছয় মাস খোলা থাকে।",
+    "architecture": "মন্দিরটি অলকানন্দার প্রায় পঞ্চাশ ফুট উপরে ওঠে, এর পাথরের সম্মুখভাগ খিলানযুক্ত জানালায় বিদ্ধ এবং একটি ছোট সোনালি গম্বুজে শীর্ষিত। তীর্থযাত্রীরা উজ্জ্বল রঙে রাঙানো সিংহদ্বার, প্রধান দ্বার, পর্যন্ত একটি সিঁড়ি বেয়ে ওঠেন, যেখানে গরুড়ের একটি মূর্তি পাহারা দেয়। ভেতরে আছে গর্ভগৃহ, দর্শন মণ্ডপ ও সভা মণ্ডপ। মূর্তিটি কালো পাথরের, একটি শালগ্রাম, উপবিষ্ট ধ্যানমগ্ন ভঙ্গিতে। এর চারপাশে দাঁড়িয়ে আছে লক্ষ্মী নৃসিংহ, নর-নারায়ণ, আদি শঙ্কর, ঘণ্টাকর্ণ, বেদান্ত দেশিক ও রামানুজের মন্দির। ঠিক নিচেই বইছে তপ্তকুণ্ড, সেই উষ্ণ প্রস্রবণ যেখানে তীর্থযাত্রীরা দর্শনের আগে স্নান করেন।",
+    "legends": "স্থলপুরাণ বলে, বিষ্ণু এখানে এমন গভীর তপস্যা করেছিলেন যে দেবী লক্ষ্মী তাঁকে শীত থেকে রক্ষা করতে একটি বদরি বৃক্ষ হয়ে তাঁর উপরে দাঁড়িয়েছিলেন; সেই বৃক্ষ থেকেই বদরি নাম এবং বদ্রীনারায়ণ নাম আসে। এখানেই, পরম্পরা বলে, যমজ ঋষি নর ও নারায়ণ তপস্যা করেছিলেন, আর শহরটিকে আবৃত করা দুটি চূড়া তাঁদের নাম বহন করে। দিব্যদেশমের তালিকাগুলি প্রভুকে বদরি বৃক্ষের নিচে পূজিত রূপে বর্ণনা করে।",
+    "festivals": "বছর ঘোরে তীর্থ-ঋতুর শুরু ও শেষে মন্দিরের দরজা খোলা ও বন্ধ হওয়ার উপর, প্রতিটিই অনুষ্ঠানসহ চিহ্নিত। শরতের শুরুতে মাতা মূর্তি মেলা এবং বদরি-কেদার উৎসব প্রথাগত অনুষ্ঠান, আর শীতকালে প্রভু উপত্যকার নিচে যোশীমঠে পূজিত হন। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "বদ্রীনাথ প্রায় ৩,১০০ মিটার উচ্চতায় স্বচ্ছ, শীতল বাতাসে অবস্থিত, নিচে অলকানন্দা এবং দুই পাশে নর ও নারায়ণ চূড়া-সহ। ইচ্ছা হলে তপ্তকুণ্ডে স্নান করুন, তারপর সিংহদ্বারে উঠে দর্শনের লাইনে যোগ দিন। গ্রীষ্মেও শীতের জন্য প্রস্তুত হয়ে আসুন, এবং দীর্ঘ পার্বত্য পথের জন্য সময় রাখুন; যাত্রা নিজেই তীর্থের একটি অংশ।"
   },
   "visit": {
-    "timings": "Open only in the pilgrim season, roughly from late April or May to November, with the doors closed through the Himalayan winter; darshan is held daily in the morning and evening. Confirm opening dates and timings locally before travelling.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Badrinath lies on the Alaknanda in Chamoli district, Uttarakhand, about 300 km by road from Rishikesh or Haridwar via Devprayag, Rudraprayag and Joshimath. The nearest railheads are Rishikesh and Haridwar; the nearest airport is Jolly Grant, Dehradun. Mountain roads can close in bad weather, so check conditions before setting out."
+    "timings": "কেবল তীর্থ-ঋতুতে খোলা, মোটামুটি এপ্রিলের শেষ বা মে থেকে নভেম্বর পর্যন্ত, হিমালয়ী শীতকাল জুড়ে দরজা বন্ধ থাকে; দর্শন প্রতিদিন সকালে ও সন্ধ্যায় হয়। যাত্রার আগে খোলার তারিখ ও সময় স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখা হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে আলোকচিত্র তোলা সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "বদ্রীনাথ উত্তরাখণ্ডের চামোলি জেলায় অলকানন্দার তীরে, দেবপ্রয়াগ, রুদ্রপ্রয়াগ ও যোশীমঠ হয়ে ঋষিকেশ বা হরিদ্বার থেকে সড়কপথে প্রায় ৩০০ কিমি দূরে। নিকটতম রেলমাথা ঋষিকেশ ও হরিদ্বার; নিকটতম বিমানবন্দর দেরাদুনের জলি গ্র্যান্ট। খারাপ আবহাওয়ায় পার্বত্য সড়ক বন্ধ হতে পারে, তাই যাত্রার আগে পরিস্থিতি যাচাই করে নিন।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.jpg",

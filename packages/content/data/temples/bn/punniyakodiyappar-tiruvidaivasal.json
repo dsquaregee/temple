@@ -1,29 +1,36 @@
 {
   "id": "punniyakodiyappar-tiruvidaivasal",
   "locale": "bn",
+  "name": "পুণ্ণিয়কোডিয়প্পর মন্দির, তিরুবিডৈবাসল",
   "nativeName": "திருவிடைவாசல் புண்ணியகொடியப்பர் கோயில்",
+  "deity": "শিব পুণ্ণিয়কোডিয়প্পর (ইডৈবৈনাথর) রূপে, দেবী অভিরামীর সঙ্গে",
+  "tradition": "শৈব—এক পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tiruvidaivasal (Kovilur), near Koradacheri",
-    "state": "Tamil Nadu",
+    "city": "তিরুবিডৈবাসল (কোবিলুর), কোরডাচেরির কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.8833,
     "lng": 79.1343
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুবিডৈবাসল, তিরুবারুর বদ্বীপে কোরডাচেরির কাছে, শিবকে পুণ্ণিয়কোডিয়প্পর রূপে দেবী অভিরামীর সঙ্গে সম্মান করে। এর তেবারম স্তোত্র, দীর্ঘকাল হারিয়ে গিয়ে, ১৯১৭ সালে পুনরুদ্ধার হয়—এবং তার আবিষ্কারে পাডল পেট্র স্থলমের গণনা ২৭৫-এ সম্পূর্ণ হয়। তিরুজ্ঞান সম্বন্দর কর্তৃক স্তুত এক শান্ত মন্দির, এটি তেবারম মন্দিরগুলির তালিকায় এক বিশেষ স্থান রক্ষা করে।",
   "sections": {
-    "history": "Tiruvidaivasal lies at Kovilur, near the Vennar bridge on the Koradacheri–Koothanallur road, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar; but its verse was long lost, and the hymn pertaining to this shrine was recovered only in 1917. With that finding the total of the Tevaram temples reached 275. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Punniyakodiyappar in the sanctum, with the goddess Abirami in her own shrine, a Nandi and the parivara devatas about the prakara. The sthala vriksham is the kasturi arali, the fragrant oleander. The walled courtyard and modest gopuram are typical of the Shiva temples of the Tiruvarur delta.",
-    "legends": "Shiva is worshipped here as Punniyakodiyappar, 'the lord of the flag of merit'; the goddess is praised as Abirami. The shrine's chief distinction is its late recovery: its Tevaram verse, lost for centuries, was found in 1917, and with it the roll of the Paadal Petra Sthalams was completed at 275. As with many delta shrines, the fuller sthala purana survives chiefly in local tradition and the recovered hymn.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a delta village shrine. Pilgrims completing the full count of the Paadal Petra Sthalams make a point of including Tiruvidaivasal, the shrine that completed the 275.",
-    "experience": "At Tiruvidaivasal the pilgrim comes to the shrine that completes the count. Before Punniyakodiyappar and Abirami, under the fragrant oleander, the visitor finds the quiet grace of a Tevaram temple of the Tiruvarur delta — and the memory of a hymn lost for ages and found again, by which the roll of the 275 was made whole."
+    "history": "তিরুবিডৈবাসল কোবিলুরে, কোরডাচেরি–কূতনল্লুর পথে বেন্নার সেতুর কাছে, তিরুবারুর জেলায় অবস্থিত। এটি এক পাডল পেট্র স্থলম, তেবারমে তিরুজ্ঞান সম্বন্দর কর্তৃক স্তুত; কিন্তু এর পদ দীর্ঘকাল হারিয়ে গিয়েছিল, এবং এই মন্দির সম্পর্কিত স্তোত্র কেবল ১৯১৭ সালে পুনরুদ্ধার হয়। সেই আবিষ্কারে তেবারম মন্দিরের মোট সংখ্যা ২৭৫-এ পৌঁছায়। পাথরের মন্দিরটি চোল যুগের ও পরবর্তী।",
+    "architecture": "এক দ্রাবিড় বদ্বীপ মন্দির, গর্ভগৃহে পুণ্ণিয়কোডিয়প্পরকে প্রতিষ্ঠিত করে, দেবী অভিরামীকে তাঁর নিজস্ব মন্দিরে, এক নন্দী ও প্রাকারের চারপাশে পরিবার দেবতাদের সঙ্গে। স্থলবৃক্ষম হল কস্তুরি অরলি, সুগন্ধি করবী। প্রাচীরবেষ্টিত প্রাঙ্গণ ও বিনম্র গোপুরম তিরুবারুর বদ্বীপের শিবমন্দিরগুলির জন্য স্বাভাবিক।",
+    "legends": "শিব এখানে পুণ্ণিয়কোডিয়প্পর, 'পুণ্যের পতাকার প্রভু' রূপে পূজিত হন; দেবী অভিরামী রূপে প্রশংসিত। মন্দিরের প্রধান বৈশিষ্ট্য এর দেরিতে পুনরুদ্ধার: এর তেবারম পদ, শতাব্দী ধরে হারিয়ে, ১৯১৭ সালে পাওয়া যায়, এবং তা দিয়ে পাডল পেট্র স্থলমের তালিকা ২৭৫-এ সম্পূর্ণ হয়। অনেক বদ্বীপ মন্দিরের মতো, পূর্ণতর স্থলপুরাণ মূলত স্থানীয় প্রথা ও পুনরুদ্ধার করা স্তোত্রে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসিতে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈর সোমবারগুলি পালন করে, প্রদোষ পূজাসহ, এক বদ্বীপ গ্রাম্য মন্দিরের শান্ত পরিসরে। পাডল পেট্র স্থলমের সম্পূর্ণ গণনা সম্পন্নকারী তীর্থযাত্রীরা তিরুবিডৈবাসলকে, যে মন্দির ২৭৫ সম্পূর্ণ করেছিল, অন্তর্ভুক্ত করতে বিশেষ যত্ন নেন।",
+    "experience": "তিরুবিডৈবাসলে তীর্থযাত্রী সেই মন্দিরে আসেন যা গণনা সম্পূর্ণ করে। সুগন্ধি করবীর নিচে পুণ্ণিয়কোডিয়প্পর ও অভিরামীর সামনে, দর্শনার্থী তিরুবারুর বদ্বীপের এক তেবারম মন্দিরের শান্ত অনুগ্রহ খুঁজে পান—এবং যুগ ধরে হারানো ও আবার পাওয়া এক স্তোত্রের স্মৃতি, যার দ্বারা ২৭৫-এর তালিকা সম্পূর্ণ হয়েছিল।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvidaivasal lies at Kovilur, near the Vennar bridge on the Koradacheri–Koothanallur road, in Tiruvarur district. Koradacheri and Needamangalam are the nearest towns, with buses and taxis to the village; Tiruvarur and Mannargudi are the nearest rail heads."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; জুতো প্রবেশদ্বারে রাখা হয়।",
+    "photography": "বাইরের করিডরে সাধারণত ছবি তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচারের ছবি তোলার আগে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুবিডৈবাসল কোবিলুরে, কোরডাচেরি–কূতনল্লুর পথে বেন্নার সেতুর কাছে, তিরুবারুর জেলায় অবস্থিত। কোরডাচেরি ও নীডামঙ্গলম নিকটতম শহর, গ্রামে বাস ও ট্যাক্সিসহ; তিরুবারুর ও মান্নার্গুড়ি নিকটতম রেলস্টেশন।"
   }
 }

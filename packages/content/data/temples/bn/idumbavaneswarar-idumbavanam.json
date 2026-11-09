@@ -1,29 +1,36 @@
 {
   "id": "idumbavaneswarar-idumbavanam",
   "locale": "bn",
+  "name": "সর্গুণ নাথর মন্দির, তিরুইড়ুম্বাবনম",
   "nativeName": "திருஇடும்பாவனம் சற்குணநாதர் கோயில்",
+  "deity": "শিব সর্গুণ নাথর (ইড়ুম্বাবনেশ্বরর) রূপে, দেবী মঙ্গলবল্লী (মঙ্গলনায়কী) সহ",
+  "tradition": "শৈব — একটি পাড়ল পেট্র স্থলম",
   "location": {
-    "city": "Idumbavanam, near Thiruthuraipoondi",
-    "state": "Tamil Nadu",
+    "city": "ইড়ুম্বাবনম, তিরুত্তুরৈপূণ্ডির কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.45,
     "lng": 79.68
   },
+  "period": "তেবারম যুগ (৭ম শতকে কীর্তিত); পরবর্তী চোল প্রস্তরমন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "দক্ষিণ বদ্বীপে তিরুত্তুরৈপূণ্ডির কাছে ইড়ুম্বাবনম শিবকে সর্গুণ নাথর — তথা ইড়ুম্বাবনেশ্বরর — রূপে, দেবী মঙ্গলবল্লীসহ পূজা করে। তিরুজ্ঞান সম্বন্ধর কর্তৃক কীর্তিত একটি পাড়ল পেট্র স্থলম, এর নাম সেই অসুর ইড়ুম্বনের কথা স্মরণ করায়, যে মন্দির-পুষ্করিণীতে স্নান করে এখানে পূজা করেছিল এবং শিব কর্তৃক মুক্তি লাভ করেছিল।",
   "sections": {
-    "history": "Idumbavanam lies in the Thiruthuraipoondi taluk of Tiruvarur district, in the southern reaches of the Kaveri delta, about 18 km from Thiruthuraipoondi. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The presiding Shiva is known as Sarguna Nathar and also as Idumbavaneswarar, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of the lower delta, the shrine enshrines Sarguna Nathar in the sanctum, with the goddess Mangalavalli — also Mangalanayaki — in her own shrine, a Nandi, the parivara devatas and the sacred tank in which the demon Idumban is said to have bathed. The temple keeps the quiet plan of a village sanctuary of some antiquity.",
-    "legends": "The place takes its name from Idumban, a demon who came here burdened with sin, bathed in the temple tank, and worshipped Shiva with devotion. Pleased with his worship, the lord granted him total salvation — and so the forest-place is called Idumbavanam, 'the grove of Idumban.' The lord's name Sarguna Nathar, 'lord of all good qualities,' marks the grace by which even a demon was raised to liberation.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail of the southern delta include Idumbavanam among their stops.",
-    "experience": "At Idumbavanam the pilgrim comes to a shrine of redeeming grace, where even a demon was granted salvation by his worship. Before Sarguna Nathar and Mangalavalli, beside the tank of Idumban's cleansing, the visitor finds the deep mercy of a Tevaram temple of the southern Kaveri country."
+    "history": "ইড়ুম্বাবনম তিরুবারুর জেলার তিরুত্তুরৈপূণ্ডি তালুকে, কাবেরী বদ্বীপের দক্ষিণাংশে, তিরুত্তুরৈপূণ্ডি থেকে প্রায় ১৮ কিমি দূরে অবস্থিত। এটি একটি পাড়ল পেট্র স্থলম, তেবারমে তিরুজ্ঞান সম্বন্ধর কর্তৃক কীর্তিত। অধিষ্ঠাতা শিব সর্গুণ নাথর এবং ইড়ুম্বাবনেশ্বরর নামেও পরিচিত, এবং প্রস্তরমন্দিরটি চোল পর্ব ও পরবর্তী কালের।",
+    "architecture": "নিম্ন বদ্বীপের এক দ্রাবিড় মন্দির, এই মন্দির গর্ভগৃহে সর্গুণ নাথরকে প্রতিষ্ঠিত রাখে, দেবী মঙ্গলবল্লী — তথা মঙ্গলনায়কী — তাঁর নিজস্ব মন্দিরে, একটি নন্দী, পরিবার দেবতা এবং সেই পবিত্র পুষ্করিণী যেখানে অসুর ইড়ুম্বন স্নান করেছিল বলা হয়। মন্দিরটি কিছুটা প্রাচীন এক গ্রাম-আশ্রমের শান্ত পরিকল্পনা ধরে রাখে।",
+    "legends": "স্থানটি এর নাম পায় ইড়ুম্বন থেকে, এক অসুর যে পাপভারাক্রান্ত হয়ে এখানে এসেছিল, মন্দির-পুষ্করিণীতে স্নান করেছিল এবং ভক্তিভরে শিবের পূজা করেছিল। তার পূজায় প্রসন্ন হয়ে প্রভু তাকে সম্পূর্ণ মুক্তি দিয়েছিলেন — আর তাই এই অরণ্য-স্থানের নাম ইড়ুম্বাবনম, 'ইড়ুম্বনের বন।' প্রভুর নাম সর্গুণ নাথর, 'সর্বসৎগুণের প্রভু,' সেই কৃপার চিহ্ন বহন করে যার দ্বারা এক অসুরকেও মুক্তিতে উন্নীত করা হয়েছিল।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকৈয়ের সোমবারগুলি, প্রদোষ পূজাসহ, এক গ্রাম-মন্দিরের শান্ত পরিসরে পালন করে। দক্ষিণ বদ্বীপের পাড়ল পেট্র পথের তীর্থযাত্রীরা ইড়ুম্বাবনমকে তাঁদের বিরতিস্থলের মধ্যে রাখেন।",
+    "experience": "ইড়ুম্বাবনমে তীর্থযাত্রী এমন এক মন্দিরে আসেন যা মুক্তিদায়ক কৃপার, যেখানে পূজার দ্বারা এক অসুরকেও মুক্তি দেওয়া হয়েছিল। সর্গুণ নাথর ও মঙ্গলবল্লীর সামনে, ইড়ুম্বনের শুদ্ধির পুষ্করিণীর ধারে, দর্শনার্থী দক্ষিণ কাবেরী দেশের এক তেবারম মন্দিরের গভীর করুণা খুঁজে পান।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Idumbavanam is in the Thiruthuraipoondi taluk of Tiruvarur district (PIN 614703), about 18 km from Thiruthuraipoondi in the southern delta. Thiruthuraipoondi is the nearest rail head, with buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং আবার শেষ বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো রেখে যাওয়া হয়।",
+    "photography": "বাইরের বারান্দায় সাধারণত ছবি তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভেতরে নয়; পূজার ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "ইড়ুম্বাবনম তিরুবারুর জেলার তিরুত্তুরৈপূণ্ডি তালুকে (পিন ৬১৪৭০৩), দক্ষিণ বদ্বীপে তিরুত্তুরৈপূণ্ডি থেকে প্রায় ১৮ কিমি দূরে। তিরুত্তুরৈপূণ্ডি নিকটতম রেলপ্রান্ত, গ্রামে বাস ও ট্যাক্সি চলে।"
   }
 }

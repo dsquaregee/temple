@@ -1,31 +1,38 @@
 {
   "id": "appakkudathan-tiruppernagar",
   "locale": "bn",
+  "name": "অপ্পক্কুডত্তান পেরুমাল মন্দির, কোবিলাডি",
   "nativeName": "அப்பக்குடத்தான் பெருமாள் கோயில், கோவிலடி",
+  "deity": "বিষ্ণু অপ্পল রঙ্গনাথ রূপে (অপ্পক্কুডত্তান), শায়িত ও এক কলস অপ্পম ধারণ করে, দেবী কমলাবল্লীর সঙ্গে",
+  "tradition": "বৈষ্ণব ধর্ম",
   "location": {
-    "city": "Koviladi",
-    "state": "Tamil Nadu",
+    "city": "কোবিলাডি",
+    "state": "তামিলনাড়ু",
     "lat": 10.859,
     "lng": 78.876
   },
+  "period": "চোল প্রাচীনত্বের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে আড়বারদের দ্বারা স্তোত্রগীত",
   "century": 8,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "pancharanga-kshetrams",
     "divya-desams"
   ],
+  "summary": "শ্রীরঙ্গমের নিচে কাবেরীতে কোবিলাডিতে, বিষ্ণু অপ্পক্কুডত্তান রূপে শায়িত, সেই প্রভু যিনি এক কলস অপ্পম ধারণ করেন — আড়বারদের দ্বারা স্তোত্রগীত একটি দিব্য দেশম, এবং একমাত্র মন্দির যেখানে প্রতি রাতে প্রভুকে মিষ্টি অপ্পম নিবেদন করা হয়। এটি নদীর পাঁচটি রঙ্গনাথ মন্দিরের একটি।",
   "sections": {
-    "history": "The temple stands at Koviladi — Tiruppernagar of the old Chola country — on the bank of the Kaveri a short way below Srirangam, whose great temple the Vaishnavas call simply the Kovil; the name Koviladi marks the village that lies downstream of it. Dedicated to Vishnu as Appakkudathaan, it is a Divya Desam, one of the 108 abodes sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the five Pancharanga Kshetrams strung along the river. Its stone shrines are of Chola antiquity, carried forward by the patrons of the later centuries.",
-    "architecture": "Built in the Dravidian manner, the temple opens through a gateway tower to the sanctum of the reclining lord, worshipped here as Appala Ranganatha, with the Goddess Kamalavalli in her own shrine. The presiding image is shown holding a pot of appam, the sweet that gives the lord his name of Appakkudathaan — a form found at no other Divya Desam — and the pillared halls before the sanctum carry the marks of the temple's long Chola descent.",
-    "legends": "The temple's story tells of a king — remembered as Upamanyu — who, hunting, killed a brahmin by mistake and, stricken with grief, renounced his throne and wandered until he reached Tiruppernagar. There an old man begged of him a pot of neyyappam, saying only that could satisfy his hunger; the king filled the pot, and the old man revealed himself as Vishnu. From that day the lord is called Appakkudathaan, he of the pot of appam, and to this day sweet appam is offered to him each night — an offering unique among the Divya Desams.",
-    "festivals": "The temple keeps the Vaishnava festivals of the year — Vaikunta Ekadashi, the Brahmotsavam, and the days sacred to the Alvars whose hymns first sang this shrine — with processions along the river village. The nightly offering of appam is itself a daily rite that pilgrims come to witness, and the car festival draws the surrounding delta country.",
-    "experience": "Koviladi is a quiet river shrine within easy reach of Srirangam and Tiruchirappalli, rewarding for the pilgrim who follows the Kaveri from one Ranganatha to the next. Its nightly pot of appam and its place among both the Divya Desams and the five Rangas make it a small but singular link in the long chain of the reclining lord."
+    "history": "মন্দিরটি কোবিলাডিতে — পুরনো চোল দেশের তিরুপ্পেরনগর — শ্রীরঙ্গমের অল্প নিচে কাবেরীর তীরে দাঁড়িয়ে আছে, যার মহান মন্দিরকে বৈষ্ণবরা কেবল কোবিল বলেন; কোবিলাডি নামটি সেই গ্রামকে চিহ্নিত করে যা তার ভাটিতে অবস্থিত। বিষ্ণুকে অপ্পক্কুডত্তান রূপে উৎসর্গীকৃত, এটি একটি দিব্য দেশম, আড়বার সন্তরা নালায়িরা দিব্য প্রবন্ধমে যে ১০৮টি আবাস স্তোত্রগীত করেছিলেন তার একটি, এবং নদী বরাবর বিস্তৃত পাঁচটি পঞ্চরঙ্গ ক্ষেত্রমের একটি। এর পাথুরে মন্দিরগুলি চোল প্রাচীনত্বের, পরবর্তী শতাব্দীর পৃষ্ঠপোষকদের দ্বারা এগিয়ে নেওয়া।",
+    "architecture": "দ্রাবিড় রীতিতে নির্মিত, মন্দিরটি একটি তোরণ-গোপুর দিয়ে শায়িত প্রভুর গর্ভগৃহে খোলে, এখানে অপ্পল রঙ্গনাথ রূপে পূজিত, দেবী কমলাবল্লী তাঁর নিজস্ব মন্দিরে। অধিষ্ঠাতা মূর্তিটি এক কলস অপ্পম ধারণ করে দেখানো হয়, সেই মিষ্টি যা প্রভুকে অপ্পক্কুডত্তান নাম দেয় — এমন একটি রূপ যা অন্য কোনো দিব্য দেশমে পাওয়া যায় না — এবং গর্ভগৃহের সামনের স্তম্ভযুক্ত হলগুলি মন্দিরের দীর্ঘ চোল বংশধারার চিহ্ন বহন করে।",
+    "legends": "মন্দিরের কাহিনি এক রাজার কথা বলে — উপমন্যু হিসেবে স্মরণীয় — যিনি শিকার করার সময় ভুলবশত এক ব্রাহ্মণকে হত্যা করেন এবং শোকে আচ্ছন্ন হয়ে তাঁর সিংহাসন ত্যাগ করে ঘুরে বেড়ান যতক্ষণ না তিরুপ্পেরনগরে পৌঁছান। সেখানে এক বৃদ্ধ তাঁর কাছে এক কলস নেয়ি অপ্পম প্রার্থনা করেন, এই বলে যে কেবল তা-ই তাঁর ক্ষুধা নিবৃত্ত করতে পারে; রাজা কলসটি ভরে দিলেন, এবং বৃদ্ধ নিজেকে বিষ্ণু রূপে প্রকাশ করলেন। সেদিন থেকে প্রভু অপ্পক্কুডত্তান নামে অভিহিত, অপ্পমের কলসের অধিকারী, এবং আজ পর্যন্ত প্রতি রাতে তাঁকে মিষ্টি অপ্পম নিবেদন করা হয় — দিব্য দেশমগুলির মধ্যে একটি অনন্য নৈবেদ্য।",
+    "festivals": "মন্দিরে বছরের বৈষ্ণব উৎসব পালিত হয় — বৈকুণ্ঠ একাদশী, ব্রহ্মোৎসবম, এবং সেই আড়বারদের উৎসর্গীকৃত দিনগুলি যাঁদের স্তোত্র প্রথম এই মন্দিরকে গেয়েছিল — নদীর গ্রাম বরাবর শোভাযাত্রাসহ। অপ্পমের নৈশ নৈবেদ্য নিজেই একটি দৈনিক আচার যা তীর্থযাত্রীরা প্রত্যক্ষ করতে আসেন, এবং রথ উৎসব চারপাশের বদ্বীপ অঞ্চলকে আকর্ষণ করে।",
+    "experience": "কোবিলাডি শ্রীরঙ্গম ও তিরুচিরাপল্লির সহজ নাগালের মধ্যে একটি শান্ত নদীতীরবর্তী মন্দির, সেই তীর্থযাত্রীর জন্য পুরস্কৃত যিনি কাবেরী বরাবর এক রঙ্গনাথ থেকে পরবর্তী পর্যন্ত অনুসরণ করেন। এর প্রতি রাতের অপ্পমের কলস এবং দিব্য দেশম ও পাঁচ রঙ্গ উভয়ের মধ্যে এর স্থান একে শায়িত প্রভুর দীর্ঘ শৃঙ্খলে একটি ছোট কিন্তু অনন্য কড়ি করে তোলে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the nightly appam offering and Vaikunta Ekadashi are especially sought. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Koviladi lies on the Kaveri about 16 km from Tiruchirappalli on the road toward Thanjavur, easily reached by road from Srirangam."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন অধিবেশন ও মধ্যাহ্ন বিরতিসহ খোলা; নৈশ অপ্পম নৈবেদ্য ও বৈকুণ্ঠ একাদশী বিশেষভাবে অন্বেষিত। পরিদর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে পাদুকা খুলে রাখা হয়। প্রদর্শিত বিধি ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ছবি তোলা সীমিত; প্রদর্শিত বিধি ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "কোবিলাডি কাবেরীতে তিরুচিরাপল্লি থেকে প্রায় ১৬ কিমি দূরে তাঞ্জাবুরের দিকের সড়কে অবস্থিত, শ্রীরঙ্গম থেকে সড়কপথে সহজে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/appakkudathan-tiruppernagar.jpg",

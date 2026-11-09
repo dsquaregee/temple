@@ -1,30 +1,37 @@
 {
   "id": "palani-murugan",
   "locale": "bn",
+  "name": "পালানি মুরুগান মন্দির",
   "nativeName": "பழனி தண்டாயுதபாணி கோயில்",
+  "deity": "মুরুগান, দণ্ডায়ুধপাণি রূপে পূজিত",
+  "tradition": "কৌমারম, শৈব ঐতিহ্যের অন্তর্গত মুরুগান-পূজা",
   "location": {
-    "city": "Palani",
-    "state": "Tamil Nadu",
+    "city": "পালানি",
+    "state": "তামিলনাড়ু",
     "lat": 10.4497,
     "lng": 77.5209
   },
+  "period": "আদি-মধ্যযুগীয়; অতি প্রাচীন এক পর্বত-মন্দির",
   "century": 9,
+  "dynasty": "চের এবং পরবর্তী পাণ্ড্য, চোল, নায়ক",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "arupadai-veedu"
   ],
+  "summary": "পালানি পাহাড়ের চূড়ায় অবস্থিত দণ্ডায়ুধপাণি মন্দির মুরুগানের ছয় আবাসের তৃতীয় এবং তামিলনাড়ুর সর্বাধিক দর্শনীয় মন্দিরগুলির অন্যতম, যার দেবতা নয়টি খনিজের এক কিংবদন্তিময় মিশ্রণ থেকে খোদিত এক প্রশান্ত সন্ন্যাসী।",
   "sections": {
-    "history": "Palani is sung in the Sangam-era Tirumurugatruppadai and has drawn pilgrims for well over a thousand years. Rising on a hill above the plains of the Kongu country, its shrine was patronised across the Chera, Pandya, Chola, and Nayak periods, each leaving its mark on the ascent and the halls below. The temple has long been administered as one of the great pilgrimage centres of the Tamil land, and its hill remains crowned by the abode of the boy-god as an ascetic.",
-    "architecture": "The temple crowns a hill reached by a long flight of steps, by a winding road, and today by winch-cars and a rope-way. The compact hilltop sanctum enshrines Dhandayuthapani, Murugan as a shaven-headed mendicant holding a staff, said to have been fashioned by the siddha Bogar from an amalgam of nine minerals, the navapashanam. Pillared halls, a golden car, and shrines to the god’s consorts and to Bogar cluster within the walls, while the plains and the town spread out far below the summit.",
-    "legends": "The temple’s name is bound to the legend of the fruit of wisdom. When the sage Narada offered a single mango, the fruit of knowledge, Shiva set it as a prize for whichever son first circled the world. Murugan mounted his peacock; Ganesha simply walked around his parents, declaring them his world, and won. Slighted, Murugan withdrew to this hill, and Shiva came to console him with the words “pazham nee” — “you yourself are the fruit” — from which Palani takes its name. Here the ardent boy-god stands stripped of ornament, the very image of renunciation.",
-    "festivals": "Thai Poosam, in the Tamil month of Thai, is Palani’s greatest festival, when vast crowds climb the hill and countless devotees carry the kavadi in fulfilment of vows. Panguni Uthiram, Vaikasi Visakam — the god’s birth star — and Skanda Sashti are all kept with processions and abhishekam. Devotees anoint the mineral image with sandal paste and pancha-amirtham, and the sacred sandal and jaggery prasadam of Palani are carried home across the region as tokens of the pilgrimage.",
-    "experience": "The climb to Palani is itself an act of devotion, whether by the hundreds of steps, on foot with a kavadi, or by the winch-car that lifts pilgrims to the summit. At the top the air is cooler, the plains stretch to the horizon, and the queue moves toward the small dim sanctum where the mineral image gleams under lamps and fresh sandal. Many shave their heads in vow-fulfilment, and the smell of sandal, camphor, and jasmine hangs over the hilltop as families rest along the parapets after the ascent."
+    "history": "পালানি সঙ্গম-যুগের তিরুমুরুগাত্রুপ্পডৈতে বন্দিত এবং এক হাজার বছরেরও বেশি সময় ধরে তীর্থযাত্রীদের টেনেছে। কোঙ্গু দেশের সমতলভূমির উপরে এক পাহাড়ে উত্থিত হয়ে, এর মন্দির চের, পাণ্ড্য, চোল ও নায়ক যুগ জুড়ে পৃষ্ঠপোষকতা পেয়েছিল, প্রত্যেকেই আরোহণপথে ও নিচের মণ্ডপগুলিতে নিজ চিহ্ন রেখে গেছে। মন্দিরটি বহুকাল ধরে তামিল ভূমির অন্যতম মহান তীর্থকেন্দ্র হিসেবে পরিচালিত হয়ে আসছে, এবং এর পাহাড় এক সন্ন্যাসীরূপী বালক-দেবতার আবাসে অভিষিক্ত হয়ে আছে।",
+    "architecture": "মন্দিরটি এক পাহাড়ের শিখরে অবস্থিত, যেখানে পৌঁছানো যায় এক দীর্ঘ সোপানশ্রেণি দিয়ে, এক আঁকাবাঁকা পথ দিয়ে, এবং আজকাল উইঞ্চ-গাড়ি ও রোপওয়ে দিয়ে। পাহাড়চূড়ার সংক্ষিপ্ত গর্ভগৃহে দণ্ডায়ুধপাণি অধিষ্ঠিত, মুরুগান এক মুণ্ডিতমস্তক ভিক্ষুরূপে দণ্ড ধারণ করে, যা সিদ্ধ বোগর নয়টি খনিজের মিশ্রণ, নবপাষাণম থেকে তৈরি করেছিলেন বলে কথিত আছে। স্তম্ভযুক্ত মণ্ডপ, একটি স্বর্ণরথ, এবং দেবতার পত্নীদের ও বোগরের মন্দির প্রাচীরের মধ্যে একত্রিত, যখন সমতলভূমি ও শহর শিখরের বহু নিচে বিস্তৃত থাকে।",
+    "legends": "মন্দিরের নাম জ্ঞানের ফলের কিংবদন্তির সঙ্গে জড়িত। যখন ঋষি নারদ একটি আম্র, জ্ঞানের ফল, নিবেদন করেন, তখন শিব একে সেই পুত্রের জন্য পুরস্কার স্থির করেন যিনি প্রথমে বিশ্ব প্রদক্ষিণ করবেন। মুরুগান তাঁর ময়ূরে চড়েন; গণেশ কেবল তাঁর পিতামাতাকে প্রদক্ষিণ করে তাঁদের নিজের বিশ্ব ঘোষণা করে জয়ী হন। অপমানিত হয়ে মুরুগান এই পাহাড়ে নির্জনবাস নেন, এবং শিব তাঁকে সান্ত্বনা দিতে এসে বলেন “পড়ম নী” — “তুমি নিজেই সেই ফল” — যা থেকে পালানি তার নাম পায়। এখানে আবেগময় বালক-দেবতা সকল অলংকার বর্জন করে দাঁড়িয়ে আছেন, বৈরাগ্যের প্রকৃত মূর্তি।",
+    "festivals": "তৈ পূসম, তামিল তৈ মাসে, পালানির মহত্তম উৎসব, যখন বিপুল জনতা পাহাড়ে ওঠেন এবং অগণিত ভক্ত মানত পূরণে কাবড়ি বহন করেন। পঙ্গুনি উত্তিরম, বৈকাসি বিসাকম — দেবতার জন্মনক্ষত্র — এবং স্কন্দ ষষ্ঠী সবই শোভাযাত্রা ও অভিষেকসহ পালিত হয়। ভক্তরা খনিজ-মূর্তিতে চন্দনপ্রলেপ ও পঞ্চামৃত অর্পণ করেন, এবং পালানির পবিত্র চন্দন ও গুড়ের প্রসাদ তীর্থযাত্রার নিদর্শন হিসেবে সারা অঞ্চলে বয়ে নিয়ে যাওয়া হয়।",
+    "experience": "পালানিতে আরোহণ নিজেই এক ভক্তির কাজ, তা সে শত শত সোপান দিয়েই হোক, কাবড়ি নিয়ে পায়ে হেঁটেই হোক, কিংবা উইঞ্চ-গাড়িতে চড়ে তীর্থযাত্রীদের শিখরে তোলা হোক। উপরে বাতাস শীতল, সমতলভূমি দিগন্ত পর্যন্ত বিস্তৃত, এবং সারি ছোট ম্লান গর্ভগৃহের দিকে এগিয়ে যায় যেখানে খনিজ-মূর্তিটি প্রদীপ ও তাজা চন্দনের নিচে ঝলমল করে। অনেকে মানত পূরণে মস্তক মুণ্ডন করান, এবং আরোহণের পর পরিবাররা প্রাচীর ঘেঁষে বিশ্রাম নিলে পাহাড়চূড়ায় চন্দন, কর্পূর ও জুঁইয়ের গন্ধ ভেসে থাকে।"
   },
   "visit": {
-    "timings": "Generally open from around 5:30 am to 9:00 pm daily, with abhishekams through the day; hours extend greatly during Thai Poosam and other festivals.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered. Footwear is left at the foot of the hill or the designated stands.",
-    "photography": "Photography is restricted around the hilltop sanctum; follow the posted rules and temple staff, especially during festivals and abhishekam.",
-    "gettingThere": "Palani is in Dindigul district, about 100 km from Madurai and 120 km from Coimbatore, both with airports; the town has its own railway station, and steps, a road, winch-cars, and a rope-way all reach the summit."
+    "timings": "সাধারণত প্রতিদিন সকাল প্রায় ৫:৩০ থেকে রাত ৯:০০ পর্যন্ত খোলা থাকে, সারাদিন অভিষেকসহ; তৈ পূসম ও অন্যান্য উৎসবে সময় অনেক বাড়ানো হয়।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি বা সালোয়ার কামিজ, কাঁধ ও হাঁটু ঢাকা। পাহাড়ের পাদদেশে বা নির্দিষ্ট স্থানে জুতো খুলে রাখা হয়।",
+    "photography": "পাহাড়চূড়ার গর্ভগৃহের চারপাশে ছবি তোলা নিয়ন্ত্রিত; নির্দেশিকা ও মন্দিরকর্মীদের নির্দেশ মানুন, বিশেষত উৎসব ও অভিষেকের সময়।",
+    "gettingThere": "পালানি ডিণ্ডিগুল জেলায়, মাদুরাই থেকে প্রায় ১০০ কিমি ও কোয়েম্বাটুর থেকে ১২০ কিমি দূরে, উভয় শহরেই বিমানবন্দর আছে; শহরের নিজস্ব রেলস্টেশন আছে, এবং সোপান, সড়ক, উইঞ্চ-গাড়ি ও রোপওয়ে সবই শিখরে পৌঁছায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/palani-murugan.jpg",

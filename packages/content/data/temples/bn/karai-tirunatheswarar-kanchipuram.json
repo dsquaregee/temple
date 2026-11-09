@@ -1,29 +1,36 @@
 {
   "id": "karai-tirunatheswarar-kanchipuram",
   "locale": "bn",
+  "name": "কারৈ তিরুনাথীশ্বর মন্দির, কাঞ্চিপুরম",
   "nativeName": "காரை திருநாதீஸ்வரர் கோயில்",
+  "deity": "শিব কারৈ তিরুনাথীশ্বর রূপে (সত্যনাথীশ্বর রূপেও পূজিত), একটি স্বয়ম্ভু লিঙ্গ, দেবী প্রমরাম্বিকৈর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.835,
     "lng": 79.703
   },
+  "period": "মন্দির-নগরী কাঞ্চির প্রাচীন শৈব মন্দির, তেবারমে স্তুত (৭ম শতক); পরবর্তী গঠনমূলক সংযোজনসহ স্বয়ং-প্রকাশিত লিঙ্গ",
   "century": 7,
+  "dynasty": "পল্লব-যুগের নগরী, মধ্যযুগীয় ও পরবর্তী তামিল সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কারৈ তিরুনাথীশ্বর প্রাচীন মন্দির-নগরী কাঞ্চিপুরমের পাডল পেট্র স্থলমগুলির একটি, তেবারমের তিরুক্কাচ্চি নেরিকারৈক্কাডু, এক কাঁটাময় বনে স্থাপিত এক স্বয়ং-প্রকাশিত লিঙ্গ এবং সেই মন্দির রূপে পূজিত যেখানে বুধগ্রহ কৃপা লাভ করেছিলেন।",
   "sections": {
-    "history": "Kanchipuram, the old Pallava capital on the Palar, is among the most sacred of the Tamil temple-towns, and Siva Kanchi within it holds a cluster of ancient Shiva shrines. Among them stands the temple of Karai Tirunatheswarar, praised in the Tevaram as Tirukkachi Nerikaraikkadu and counted among the Paadal Petra Sthalams of the Thondai country. Its name recalls the kaarai, a thorny shrub that once covered the ground here, so that the site was known as Kaarai Kaadu, the thorn forest. The linga is held to be swayambhu, self-manifest rather than set by hand, and faces west in its sanctum, an orientation less common among the temples of the land. Sung by the saint Tirugnana Sambandar and kept in worship through Pallava, Chola and later times, the shrine survives in the lanes of Tirukalimedu as one of the quieter but older sanctuaries of Kanchi.",
-    "architecture": "The temple is modest in scale beside the great towers of Kanchi, yet old in its bones. Within the sanctum the self-manifest linga of Karai Tirunatheswarar faces west, an uncommon alignment that devotees count among the shrine's distinctions. The goddess Pramarambikai, named Kamakshi in some accounts, is honoured in her own sanctum within the enclosure. The temple tank, remembered as the water the celestial king Indra is said to have raised for the Lord's anointing, lies near the shrine and is known locally as the Veppankulam. Weathered stone, a compact prakara and the plain dignity of an old neighbourhood temple give the place its character rather than height or ornament.",
-    "legends": "Two stories gather about the shrine. The first is told in its very name: the ground was once a dense forest of the thorny kaarai shrub, Kaarai Kaadu, and the Lord who revealed himself there as a self-born linga took the name Karai Tirunatheswarar. The second belongs to the heavens, for tradition holds that the planet Mercury, Budhan, worshipped here and was freed of his afflictions, and that the celestial king Indra himself drew up a sacred water for the Lord's bathing. From these the temple is kept as a place of grace for Mercury, and devotees troubled by that planet in their charts, or born under the signs it governs, come here to pray. It is for this blessing above all that the shrine is sought today.",
-    "festivals": "As a shrine of grace for Mercury the temple keeps Wednesdays with special worship, and devotees seeking relief from the planet's afflictions gather on those days. Maha Shivaratri and the monthly Pradosham are observed with the fervour proper to a Shiva temple, and the sacred days of the Tamil month are marked in the sanctum. Festival dates follow the Tamil calendar and are best confirmed with the temple before a visit.",
-    "experience": "The temple keeps the hush of an old quarter of Kanchi, away from the crowds that fill the city's famous towers. Enter to the west-facing sanctum of the self-manifest Lord, pause before the goddess Pramarambikai, and walk to the tank remembered from the story of Indra's offering. Many who come are drawn by the Mercury connection, arriving to pray for clear speech, learning and relief from the planet's troubles. For the pilgrim tracing the Paadal Petra Sthalams of Kanchipuram, this is one of the smaller shrines that carry the oldest memory."
+    "history": "কাঞ্চিপুরম, পালার নদীর তীরে প্রাচীন পল্লব রাজধানী, তামিল মন্দির-শহরগুলির মধ্যে সবচেয়ে পবিত্রগুলির একটি, এবং এর মধ্যে শিব কাঞ্চি প্রাচীন শিব মন্দিরগুচ্ছ ধারণ করে। তাদের মধ্যে রয়েছে কারৈ তিরুনাথীশ্বরের মন্দির, তেবারমে তিরুক্কাচ্চি নেরিকারৈক্কাডু রূপে বন্দিত এবং থোণ্ডৈ দেশের পাডল পেট্র স্থলমগুলির মধ্যে গণ্য। এর নাম স্মরণ করায় কারৈ, এক কাঁটাময় গুল্ম যা একদা এই ভূমি ঢেকে রেখেছিল, যাতে স্থানটি কারৈ কাডু, কাঁটার বন নামে পরিচিত ছিল। লিঙ্গটি স্বয়ম্ভু, হাতে স্থাপিত নয় বরং স্বয়ং-প্রকাশিত বলে ধরা হয়, এবং এর গর্ভগৃহে পশ্চিমমুখী, এক অভিমুখ যা দেশের মন্দিরগুলির মধ্যে কম সাধারণ। সাধু তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত এবং পল্লব, চোল ও পরবর্তী সময়ে পূজিত, মন্দিরটি তিরুকালিমেডুর গলিতে কাঞ্চির শান্ততর কিন্তু প্রাচীনতর তীর্থস্থানগুলির একটি রূপে টিকে আছে।",
+    "architecture": "কাঞ্চির মহান চূড়াগুলির পাশে মন্দিরটি আকারে সাদামাটা, তবু অস্থিমজ্জায় প্রাচীন। গর্ভগৃহের ভেতরে কারৈ তিরুনাথীশ্বরের স্বয়ং-প্রকাশিত লিঙ্গ পশ্চিমমুখী, এক অসাধারণ অভিমুখ যা ভক্তরা মন্দিরের বৈশিষ্ট্যের মধ্যে গণ্য করেন। দেবী প্রমরাম্বিকৈ, কিছু বিবরণে কামাক্ষী নামে, প্রাঙ্গণের মধ্যে তাঁর নিজস্ব গর্ভগৃহে সম্মানিত। মন্দির পুকুর, যা প্রভুর অভিষেকের জন্য স্বর্গরাজ ইন্দ্র তুলেছিলেন বলে স্মরণীয়, মন্দিরের কাছে অবস্থিত এবং স্থানীয়ভাবে ভেপ্পঙ্কুলম নামে পরিচিত। জীর্ণ পাথর, এক সংহত প্রাকার এবং এক প্রাচীন পাড়ার মন্দিরের সরল মর্যাদা উচ্চতা বা অলংকরণের চেয়ে স্থানটিকে তার চরিত্র দেয়।",
+    "legends": "মন্দিরকে ঘিরে দুটি কাহিনী জড়ো হয়। প্রথমটি এর নামেই বলা: ভূমি একদা কাঁটাময় কারৈ গুল্মের ঘন বন ছিল, কারৈ কাডু, এবং সেখানে এক স্বয়ং-জাত লিঙ্গ রূপে আত্মপ্রকাশকারী প্রভু কারৈ তিরুনাথীশ্বর নাম গ্রহণ করেন। দ্বিতীয়টি স্বর্গের, কারণ ঐতিহ্য বলে বুধগ্রহ, বুধন, এখানে পূজা করে তাঁর দুর্দশা থেকে মুক্ত হন, এবং স্বর্গরাজ ইন্দ্র স্বয়ং প্রভুর স্নানের জন্য এক পবিত্র জল তুলেছিলেন। এগুলি থেকে মন্দিরটি বুধের কৃপার স্থান রূপে রক্ষিত, এবং যাঁদের কোষ্ঠীতে সেই গ্রহ পীড়িত, কিংবা যাঁরা এর অধীন রাশিতে জন্মেছেন, তাঁরা এখানে প্রার্থনায় আসেন। এই আশীর্বাদের জন্যই সর্বোপরি আজ মন্দিরটি অন্বেষিত হয়।",
+    "festivals": "বুধের কৃপার মন্দির হিসেবে মন্দিরটি বুধবারে বিশেষ পূজা পালন করে, এবং গ্রহের দুর্দশা থেকে মুক্তি প্রার্থী ভক্তরা সেই দিনগুলিতে জড়ো হন। মহা শিবরাত্রি ও মাসিক প্রদোষম এক শিব মন্দিরের উপযুক্ত আবেগে পালিত হয়, এবং তামিল মাসের পবিত্র দিনগুলি গর্ভগৃহে চিহ্নিত হয়। উৎসবের তারিখ তামিল পঞ্জিকা অনুসরণ করে এবং দর্শনের আগে মন্দিরের সঙ্গে নিশ্চিত করা শ্রেয়।",
+    "experience": "মন্দিরটি কাঞ্চির এক প্রাচীন পাড়ার নীরবতা বজায় রাখে, শহরের বিখ্যাত চূড়াগুলি ভরে তোলা ভিড় থেকে দূরে। স্বয়ং-প্রকাশিত প্রভুর পশ্চিমমুখী গর্ভগৃহে প্রবেশ করুন, দেবী প্রমরাম্বিকৈর সম্মুখে থামুন, এবং ইন্দ্রের নিবেদনের কাহিনী থেকে স্মরণীয় পুকুরের দিকে হাঁটুন। অনেকে বুধ সংযোগে আকৃষ্ট হয়ে আসেন, স্পষ্ট বাক্‌শক্তি, বিদ্যা ও গ্রহের দুর্দশা থেকে মুক্তির প্রার্থনায়। কাঞ্চিপুরমের পাডল পেট্র স্থলম অনুসরণকারী তীর্থযাত্রীর জন্য, এটি প্রাচীনতম স্মৃতি বহনকারী ছোট মন্দিরগুলির একটি।"
   },
   "visit": {
-    "timings": "Generally open in the morning and again in the evening, with a midday closure; Wednesday worship for Mercury draws the most devotees. Confirm timings locally, as hours vary and may change on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple lies in the Tirukalimedu area in the north-eastern part of Kanchipuram, reached by the road opposite the Kanchipuram head post office. Kanchipuram is well connected by bus and rail from Chennai, about 72 km away, and the town's temples are a short auto ride apart."
+    "timings": "সাধারণত সকালে ও পুনরায় সন্ধ্যায় খোলা, দুপুরে বন্ধসহ; বুধের জন্য বুধবারের পূজা সবচেয়ে বেশি ভক্ত টানে। সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন, কারণ সময় পরিবর্তিত হয় ও উৎসবের দিনে বদলাতে পারে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশদ্বারের স্ট্যান্ডে জুতো খুলে রাখা হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে বাইরের বারান্দা ও প্রাঙ্গণে সাধারণত ছবি তোলা অনুমোদিত কিন্তু ভেতরের গর্ভগৃহে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "মন্দিরটি কাঞ্চিপুরমের উত্তর-পূর্বাংশের তিরুকালিমেডু এলাকায়, কাঞ্চিপুরম প্রধান ডাকঘরের বিপরীত সড়ক দিয়ে পৌঁছানো যায়। কাঞ্চিপুরম প্রায় ৭২ কিমি দূরের চেন্নাই থেকে বাস ও রেলপথে সুসংযুক্ত, এবং শহরের মন্দিরগুলি অল্প দূরত্বে অটো চড়ে পৌঁছানো যায়।"
   }
 }

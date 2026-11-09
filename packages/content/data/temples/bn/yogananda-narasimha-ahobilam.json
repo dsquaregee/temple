@@ -1,30 +1,37 @@
 {
   "id": "yogananda-narasimha-ahobilam",
   "locale": "bn",
+  "name": "যোগানন্দ নরসিংহ মন্দির, অহোবিলম",
   "nativeName": "యోగానంద నరసింహ ఆలయం, అహోబిలం",
+  "deity": "বিষ্ণু যোগানন্দ নরসিংহ রূপে — যোগমুদ্রায় পদ্মাসনে উপবিষ্ট",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "অহোবিলম",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 15.121,
     "lng": 78.687
   },
+  "period": "অন্ধ্রপ্রদেশের নাল্লামালা পাহাড়ে অহোবিলমের নব নরসিংহ তীর্থের একটি",
   "century": 15,
+  "dynasty": "বিজয়নগর পৃষ্ঠপোষকতা",
+  "style": "ছোট দ্রাবিড় তীর্থ",
   "unesco": false,
   "circuits": [
     "ahobilam-nava-narasimha"
   ],
+  "summary": "নিম্ন অহোবিলমের দক্ষিণ-পূর্বে যোগানন্দ নরসিংহ সিংহ-প্রভুকে শান্তিতে দেখান — যোগে উপবিষ্ট, ঐতিহ্য বলে যুদ্ধ জয়ের পর যখন তিনি তরুণ প্রহ্লাদকে শিক্ষা দিয়েছিলেন তখন তিনি এমনই ছিলেন।",
   "sections": {
-    "history": "Yogananda Narasimha lies about two kilometres south-east of Lower Ahobilam, where the plain meets the first folds of the Nallamala hills, and is one of the nine Narasimha shrines that make up the Ahobilam pilgrimage. It is among the most accessible of the nine, reached by a motorable road, and pilgrims usually visit it together with Chatravata Narasimha, which stands on the same route. The shrine is maintained within the Ahobila Matha's worship of the nine forms, and its structure is generally associated with the Vijayanagara period, when the temples of Ahobilam were richly endowed.",
-    "architecture": "A small walled temple with a pillared mandapa leads to the sanctum, where Narasimha sits cross-legged in a posture of yoga, the conch and discus in his upper hands. The image is serene rather than fierce: the leonine face is calm and the body is gathered inward, so that the shrine feels, in essence, like a place of meditation.",
-    "legends": "The sthala purana tells that after Hiranyakashipu was slain and the Lord's fury had subsided, Narasimha instructed Prahlada here in yoga, the disciplines that still the mind; hence Yogananda, bliss in yoga. The young prince who had held firm through every torment thus became the Lord's pupil. In the astrological reading of the nine shrines, Yogananda Narasimha is linked with Saturn.",
-    "festivals": "Narasimha Jayanti and the annual Brahmotsavam of Ahobilam are the principal occasions; Saturdays draw devotees who associate the shrine with Saturn. Confirm dates locally.",
-    "experience": "This is a peaceful shrine and an easy one: a road leads close to the gate, so it suits elderly pilgrims and families. Sit for a while after darshan — the image invites stillness. Visit it with Chatravata Narasimha on the same short outing from Lower Ahobilam."
+    "history": "যোগানন্দ নরসিংহ নিম্ন অহোবিলমের দক্ষিণ-পূর্বে প্রায় দুই কিলোমিটার দূরে অবস্থিত, যেখানে সমতল নাল্লামালা পাহাড়ের প্রথম ভাঁজের সঙ্গে মিলিত হয়, এবং অহোবিলম তীর্থযাত্রা গঠনকারী নয় নরসিংহ তীর্থের একটি। এটি নয়টির মধ্যে সবচেয়ে সুগম্যগুলির অন্যতম, যানবাহন-যোগ্য সড়কপথে পৌঁছনো যায়, এবং তীর্থযাত্রীরা সাধারণত একে একই পথে অবস্থিত ছত্রবট নরসিংহের সঙ্গে দর্শন করেন। তীর্থটি অহোবিল মঠের নয় রূপের পূজার মধ্যে রক্ষিত হয়, এবং এর গঠন সাধারণত বিজয়নগর যুগের সঙ্গে জড়িত, যখন অহোবিলমের মন্দিরগুলি সমৃদ্ধভাবে দানপ্রাপ্ত হয়েছিল।",
+    "architecture": "স্তম্ভযুক্ত মণ্ডপসহ একটি ছোট প্রাচীরবেষ্টিত মন্দির গর্ভগৃহে নিয়ে যায়, যেখানে নরসিংহ পদ্মাসনে যোগমুদ্রায় বসে আছেন, তাঁর ঊর্ধ্ব হস্তে শঙ্খ ও চক্র। মূর্তিটি উগ্রের বদলে প্রশান্ত: সিংহমুখ শান্ত এবং দেহ অন্তর্মুখী, তাই তীর্থটি মূলত এক ধ্যানের স্থানের মতো বোধ হয়।",
+    "legends": "স্থলপুরাণ বলে যে হিরণ্যকশিপু নিহত হওয়ার পর ও প্রভুর ক্রোধ প্রশমিত হলে নরসিংহ এখানে প্রহ্লাদকে যোগ শিক্ষা দিয়েছিলেন, সেই শৃঙ্খলা যা মনকে স্থির করে; তাই যোগানন্দ, যোগে আনন্দ। যে তরুণ রাজপুত্র প্রতিটি যন্ত্রণার মধ্য দিয়ে দৃঢ় থেকেছিলেন তিনি এভাবে প্রভুর শিষ্য হলেন। নয় তীর্থের জ্যোতিষ পাঠে যোগানন্দ নরসিংহ শনির সঙ্গে যুক্ত।",
+    "festivals": "নরসিংহ জয়ন্তী ও অহোবিলমের বার্ষিক ব্রহ্মোৎসব প্রধান উপলক্ষ; শনিবার সেই ভক্তদের আকর্ষণ করে যাঁরা তীর্থটিকে শনির সঙ্গে যুক্ত করেন। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "এটি এক শান্তিপূর্ণ ও সহজ তীর্থ: একটি সড়ক দ্বারের কাছাকাছি নিয়ে যায়, তাই এটি বয়স্ক তীর্থযাত্রী ও পরিবারের জন্য উপযুক্ত। দর্শনের পর কিছুক্ষণ বসুন — মূর্তিটি স্থিরতায় আহ্বান করে। নিম্ন অহোবিলম থেকে একই সংক্ষিপ্ত ভ্রমণে ছত্রবট নরসিংহের সঙ্গে এটি দর্শন করুন।"
   },
   "visit": {
-    "timings": "Worship is offered daily with morning and evening darshan and a midday closure. Confirm current timings locally.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Lower Ahobilam is reached by road via Allagadda; Nandyal is the nearest major railhead. Yogananda Narasimha is about two kilometres south-east of Lower Ahobilam by road; autos and jeeps are available locally."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন এবং মধ্যাহ্নে বিরতিসহ পূজা অর্পিত হয়। বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "নিম্ন অহোবিলমে আল্লগড্ডা হয়ে সড়কপথে পৌঁছনো যায়; নন্দ্যাল নিকটতম প্রধান রেলপথ। যোগানন্দ নরসিংহ নিম্ন অহোবিলম থেকে সড়কপথে দক্ষিণ-পূর্বে প্রায় দুই কিলোমিটার দূরে; অটো ও জিপ স্থানীয়ভাবে পাওয়া যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/yogananda-narasimha-ahobilam.jpg",

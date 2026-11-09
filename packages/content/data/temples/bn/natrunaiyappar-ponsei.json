@@ -1,29 +1,36 @@
 {
   "id": "natrunaiyappar-ponsei",
   "locale": "bn",
+  "name": "নাট্রুনৈয়প্পর মন্দির, তিরুনানিপল্লি (পোনসেই)",
   "nativeName": "திருநனிபள்ளி நற்றுணையப்பர் கோயில்",
+  "deity": "শিব নাট্রুনৈয়প্পর রূপে ('সৎসঙ্গী'), দেবী মলৈয়ান মদন্তৈর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Ponsei (Tirunanipalli), near Sembanarkoil",
-    "state": "Tamil Nadu",
+    "city": "পোনসেই (তিরুনানিপল্লি), সেম্বনারকোইলের নিকটে",
+    "state": "তামিলনাড়ু",
     "lat": 11.1307,
     "lng": 79.7596
   },
+  "period": "তেবারম যুগ (৭ম শতকে স্তোত্রে বন্দিত); পরবর্তী চোল কাঠামোগত মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "সেম্বনারকোইলের নিকটে পোনসেই, যা তেবারম নামে তিরুনানিপল্লি নামে পরিচিত, শিবকে নাট্রুনৈয়প্পর — 'সৎসঙ্গী' — রূপে বন্দনা করে, দেবী মলৈয়ান মদন্তৈর সঙ্গে। তিন মহান সন্ত অপ্পর, সম্বন্দর ও সুন্দরর কর্তৃক স্তোত্রে বন্দিত একটি পাডল পেট্র স্থলম, এটি তিরুজ্ঞান সম্বন্দরের মাতা ভগবতীর জন্মস্থান রূপে পূজিত, এবং স্মরণ করে কীভাবে শিশু-সন্তের স্তোত্র এর শুষ্ক মাঠকে সবুজে পরিণত করেছিল বলে কথিত আছে।",
   "sections": {
-    "history": "Ponsei, known in the Tevaram as Tirunanipalli, lies near Sembanarkoil in the Kaveri delta (sources place it in Mayiladuthurai district, older ones in Nagapattinam). It is a Paadal Petra Sthalam hymned by all three of the great Tevaram saints — Appar, Sambandar and Sundarar. The temple tradition holds Tirunanipalli to be the birthplace of Bhagavati, the devoted mother of the child-saint Tirugnana Sambandar, which gives the shrine a special tenderness in Shaiva memory. The stone temple belongs to the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Natrunaiyappar in the sanctum, with the goddess Malayaan Madanthai; a second form of the goddess, Parvatharaja Puthri, is also honoured here in the local tradition. A Nandi, the parivara devatas and a temple tank complete the simple plan. The temple is cared for at the scale of a village shrine of some antiquity.",
-    "legends": "The lord's name Natrunaiyappar — 'the father who is the good companion' — expresses his nearness to those who turn to him. By tradition the child Sambandar, passing this way, sang a pathikam here, and his hymn is said to have turned the barren, parched fields of Tirunanipalli into fertile land. The village is also remembered as the birthplace of Bhagavati Ammai, Sambandar's mother, binding the temple to the great saint's own story.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), the festival of Tirugnana Sambandar, and the regular Pradosha and Karthikai observances, at the quiet scale of a delta village. Devotees who follow the Paadal Petra trail and the trail of Sambandar's life include Tirunanipalli among their stops.",
-    "experience": "To come to Ponsei is to stand at a shrine woven into the life of the child-saint Sambandar. Before Natrunaiyappar, the 'good companion,' and Malayaan Madanthai, the pilgrim feels the gentle grace of a temple that remembers a hymn turning barren earth green — a small delta sanctuary rich in the memory of devotion."
+    "history": "পোনসেই, তেবারমে তিরুনানিপল্লি নামে পরিচিত, কাবেরী বদ্বীপে সেম্বনারকোইলের নিকটে অবস্থিত (সূত্রসমূহ একে ময়িলাড়ুতুরৈ জেলায় স্থাপন করে, প্রাচীনতর সূত্রগুলি নাগপট্টিনমে)। এটি একটি পাডল পেট্র স্থলম, যা তেবারমের তিন মহান সন্ত — অপ্পর, সম্বন্দর ও সুন্দরর — সকলেই স্তোত্রে বন্দনা করেছেন। মন্দিরের ঐতিহ্য তিরুনানিপল্লিকে শিশু-সন্ত তিরুজ্ঞান সম্বন্দরের ভক্তিমতী মাতা ভগবতীর জন্মস্থান বলে ধরে, যা শৈব স্মৃতিতে এই পীঠকে এক বিশেষ কোমলতা দেয়। পাথরের মন্দিরটি চোল যুগ ও পরবর্তীকালের।",
+    "architecture": "একটি দ্রাবিড় বদ্বীপ মন্দির, এই পীঠ গর্ভগৃহে নাট্রুনৈয়প্পরকে প্রতিষ্ঠিত করে, দেবী মলৈয়ান মদন্তৈর সঙ্গে; দেবীর দ্বিতীয় একটি রূপ, পার্বতরাজ পুত্রীও, স্থানীয় ঐতিহ্যে এখানে পূজিত হন। একটি নন্দী, পরিবার দেবতাগণ ও একটি মন্দির-পুষ্করিণী সরল পরিকল্পনাটি সম্পূর্ণ করে। মন্দিরটি কিছুটা প্রাচীন একটি গ্রাম্য পীঠের মাপে পরিচর্যা করা হয়।",
+    "legends": "প্রভুর নাম নাট্রুনৈয়প্পর — 'যে পিতা সৎসঙ্গী' — তাঁর নিকটে যারা আসে তাদের প্রতি তাঁর নৈকট্য প্রকাশ করে। ঐতিহ্য অনুসারে শিশু সম্বন্দর এই পথ দিয়ে যাওয়ার সময় এখানে একটি পদিকম গেয়েছিলেন, এবং তাঁর স্তোত্র তিরুনানিপল্লির শুষ্ক, রুক্ষ মাঠকে উর্বর ভূমিতে পরিণত করেছিল বলে কথিত আছে। গ্রামটিকে সম্বন্দরের মাতা ভগবতী অম্মৈর জন্মস্থান রূপেও স্মরণ করা হয়, যা মন্দিরটিকে মহান সন্তের নিজস্ব কাহিনির সঙ্গে বাঁধে।",
+    "festivals": "মন্দিরটি মাসি মাসে (ফেব্রুয়ারি–মার্চ) মহাশিবরাত্রি, তিরুজ্ঞান সম্বন্দরের উৎসব, এবং নিয়মিত প্রদোষ ও কার্তিকৈ পালন করে, একটি বদ্বীপ গ্রামের শান্ত মাপে। যে ভক্তরা পাডল পেট্র পথ ও সম্বন্দরের জীবনের পথ অনুসরণ করেন, তাঁরা তিরুনানিপল্লিকে তাঁদের থামার স্থানগুলির মধ্যে অন্তর্ভুক্ত করেন।",
+    "experience": "পোনসেইতে আসা মানে শিশু-সন্ত সম্বন্দরের জীবনে বোনা একটি পীঠে দাঁড়ানো। নাট্রুনৈয়প্পর, 'সৎসঙ্গী', ও মলৈয়ান মদন্তৈর সম্মুখে, তীর্থযাত্রী সেই মন্দিরের কোমল কৃপা অনুভব করেন যা স্মরণ করে কীভাবে একটি স্তোত্র শুষ্ক মাটিকে সবুজ করেছিল — ভক্তির স্মৃতিতে সমৃদ্ধ একটি ছোট্ট বদ্বীপ পীঠ।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Ponsei (Tirunanipalli) is about 4 km from Sembanarkoil and roughly 13 km from Mayiladuthurai, in the Kaveri delta. Mayiladuthurai is the nearest rail head, with buses and taxis via Sembanarkoil to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর পর্যন্ত এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; স্থানীয়ভাবে সময়সূচি নিশ্চিত করে নিন, বিশেষত উৎসবের দিনগুলিতে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশপথে জুতা খুলে রাখা হয়।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত আলোকচিত্র তোলার অনুমতি আছে কিন্তু গর্ভগৃহের ভিতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "পোনসেই (তিরুনানিপল্লি) সেম্বনারকোইল থেকে প্রায় ৪ কিমি এবং কাবেরী বদ্বীপে ময়িলাড়ুতুরৈ থেকে আনুমানিক ১৩ কিমি দূরে। ময়িলাড়ুতুরৈ নিকটতম রেলপথ, সেম্বনারকোইল হয়ে গ্রামে বাস ও ট্যাক্সি চলে।"
   }
 }

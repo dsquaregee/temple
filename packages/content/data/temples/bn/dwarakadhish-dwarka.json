@@ -1,31 +1,38 @@
 {
   "id": "dwarakadhish-dwarka",
   "locale": "bn",
+  "name": "দ্বারকাধীশ মন্দির, দ্বারকা (তিরু দ্বারকা)",
   "nativeName": "द्वारकाधीश मंदिर, द्वारका",
+  "deity": "কৃষ্ণ দ্বারকাধীশ রূপে, দ্বারকার রাজা — দিব্য দেশমের প্রভুকে শ্রীবৈষ্ণব তালিকায় কল্যাণ নারায়ণন নামে অভিহিত করা হয়",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Dwarka",
-    "state": "Gujarat",
+    "city": "দ্বারকা",
+    "state": "গুজরাট",
     "lat": 22.238,
     "lng": 68.968
   },
+  "period": "পশ্চিম উপকূলে বড় নাড়ুর একটি দিব্য দেশম, নালায়ির দিব্য প্রবন্ধমে আলবারদের দ্বারা স্তুত",
   "century": 8,
+  "dynasty": "প্রাচীন মন্দির স্থল (বর্তমান মন্দির ১৫শ–১৬শ শতাব্দীতে পুনর্নির্মিত)",
+  "style": "উত্তর ভারতীয়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "char-dham"
   ],
+  "summary": "ভারতের পশ্চিম প্রান্তে গোমতীর ধারে দ্বারকার জগৎ মন্দির বাহাত্তরটি স্তম্ভের উপর পাঁচতলা উঠে গেছে — তিরু দ্বারকার দিব্য দেশম, কৃষ্ণের দ্বারকাধীশ রূপে আবাস।",
   "sections": {
-    "history": "Thiru Dwaraka is one of the 108 Divya Desams, counted among the northern abodes of Vada Nadu, and Sri Vaishnava lists name Periyalvar, Andal, Thirumangai Alvar and Nammalvar as among its singers. Dwarka is also one of the Char Dham and one of the seven Mukti Kshetras, and the western seat attributed to Adi Shankara, the Dwaraka Sharada Peetham, stands here. Archaeological findings suggest an original structure here no earlier than about 200 BCE, and the present Dwarkadhish temple, also called the Jagat Mandir, was rebuilt and enlarged in the fifteenth and sixteenth centuries. The Sri Vaishnava lists name the Divya Desam's lord Kalyana Narayanan, while Dwarka honours Krishna as Dwarakadhish, the king of Dwarka.",
-    "architecture": "The main shrine, the Jagat Mandir, is a five-storeyed building raised on seventy-two pillars, standing above the Gomti creek. Two gateways frame the pilgrim's passage: the Swarga Dwar, the entrance, and the Moksha Dwar, the exit from which steps lead down to the Gomti. A great flag flies from the spire and is widely described as changed several times a day. Close by, Sudama Setu crosses the Gomti, and Rukmini has her own temple outside the town.",
-    "legends": "Dwarka is remembered as the kingdom of Krishna, where he reigned as Dwarakadhish, the lord and king of Dwarka. The Sri Vaishnava tradition honours him here as Kalyana Narayanan, the auspicious Narayana of the Divya Desam, while the Alvars' hymns look to the western shore as one of the far northern abodes. The sea and the river meeting at the town, the Gomti Ghat, gives the pilgrimage its particular quiet.",
-    "festivals": "Krishna Janmashtami is the principal festival, and the Holi season, known as Phuldol, is celebrated with joy. Vaikunta Ekadashi is kept by Sri Vaishnava pilgrims. Crowds are very large on these days, so confirm dates and darshan arrangements locally.",
-    "experience": "Enter by the Swarga Dwar and leave by the Moksha Dwar, then go down to the Gomti Ghat; many pilgrims also cross Sudama Setu and visit Rukmini's temple outside the town. Allow time for the climb of steps within the complex, and visit early on festival days."
+    "history": "তিরু দ্বারকা ১০৮টি দিব্য দেশমের অন্যতম, বড় নাড়ুর উত্তরের আবাসগুলির মধ্যে গণ্য, এবং শ্রীবৈষ্ণব তালিকায় পেরিয়ালবার, আণ্ডাল, তিরুমঙ্গই আলবার ও নম্মালবারকে এর গায়কদের মধ্যে উল্লেখ করা হয়। দ্বারকা চার ধামেরও একটি এবং সাতটি মুক্তি ক্ষেত্রের একটি, এবং আদি শঙ্করের জন্য আরোপিত পশ্চিম আসন, দ্বারকা শারদা পীঠম, এখানে অবস্থিত। প্রত্নতাত্ত্বিক আবিষ্কার ইঙ্গিত দেয় যে এখানকার মূল কাঠামো প্রায় খ্রিস্টপূর্ব ২০০ সালের আগের নয়, এবং বর্তমান দ্বারকাধীশ মন্দির, যা জগৎ মন্দির নামেও পরিচিত, পঞ্চদশ ও ষোড়শ শতাব্দীতে পুনর্নির্মিত ও সম্প্রসারিত হয়। শ্রীবৈষ্ণব তালিকা দিব্য দেশমের প্রভুকে কল্যাণ নারায়ণন নামে অভিহিত করে, আর দ্বারকা কৃষ্ণকে দ্বারকাধীশ, দ্বারকার রাজা রূপে সম্মান করে।",
+    "architecture": "মূল মন্দির, জগৎ মন্দির, বাহাত্তরটি স্তম্ভের উপর নির্মিত একটি পাঁচতলা ভবন, গোমতী খাঁড়ির উপরে দণ্ডায়মান। দুটি তোরণ তীর্থযাত্রীর যাত্রাপথ আবদ্ধ করে: স্বর্গ দ্বার, প্রবেশপথ, এবং মোক্ষ দ্বার, প্রস্থানপথ, যেখান থেকে সিঁড়ি গোমতীতে নেমে যায়। শিখর থেকে একটি বিশাল পতাকা ওড়ে, যা দিনে কয়েকবার বদলানো হয় বলে ব্যাপকভাবে বর্ণিত। কাছেই সুদামা সেতু গোমতী পার হয়, এবং রুক্মিণীর নিজস্ব মন্দির নগরের বাইরে।",
+    "legends": "দ্বারকা কৃষ্ণের রাজ্য রূপে স্মরণীয়, যেখানে তিনি দ্বারকাধীশ, দ্বারকার প্রভু ও রাজা রূপে রাজত্ব করেছিলেন। শ্রীবৈষ্ণব ঐতিহ্য তাঁকে এখানে কল্যাণ নারায়ণন, দিব্য দেশমের শুভ নারায়ণ রূপে সম্মান করে, আর আলবারদের স্তোত্র পশ্চিম উপকূলকে দূর উত্তরের আবাসগুলির একটি রূপে দেখে। নগরে সমুদ্র ও নদীর মিলন, গোমতী ঘাট, তীর্থযাত্রাকে এর বিশেষ নিস্তব্ধতা দেয়।",
+    "festivals": "কৃষ্ণ জন্মাষ্টমী প্রধান উৎসব, এবং হোলি ঋতু, যা ফুলডোল নামে পরিচিত, আনন্দে উদযাপিত হয়। বৈকুণ্ঠ একাদশী শ্রীবৈষ্ণব তীর্থযাত্রীরা পালন করেন। এই দিনগুলিতে জনসমাগম অত্যন্ত বিশাল হয়, তাই তারিখ ও দর্শনের ব্যবস্থা স্থানীয়ভাবে যাচাই করুন।",
+    "experience": "স্বর্গ দ্বার দিয়ে প্রবেশ করুন ও মোক্ষ দ্বার দিয়ে বেরিয়ে এসে গোমতী ঘাটে নামুন; অনেক তীর্থযাত্রী সুদামা সেতুও পার হন এবং নগরের বাইরে রুক্মিণীর মন্দির দর্শন করেন। প্রাঙ্গণের ভিতরে সিঁড়ি ওঠার জন্য সময় রাখুন, এবং উৎসবের দিনে ভোরবেলা দর্শন করুন।"
   },
   "visit": {
-    "timings": "The temple opens daily for morning and evening darshan, with a midday closure. Janmashtami and the Holi season are extremely busy. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Dwarka lies on the Gomti creek on the western coast of Gujarat, in Devbhumi Dwarka district, and is reached by road and rail. Within town, the temple stands above the Gomti Ghat, close to Sudama Setu."
+    "timings": "মন্দিরটি প্রতিদিন সকাল ও সন্ধ্যার দর্শনের জন্য মধ্যাহ্নের বিরতিসহ খোলে। জন্মাষ্টমী ও হোলি ঋতু অত্যন্ত ব্যস্ত। যাওয়ার আগে বর্তমান সময় স্থানীয়ভাবে যাচাই করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "দ্বারকা গুজরাটের পশ্চিম উপকূলে দেবভূমি দ্বারকা জেলায় গোমতী খাঁড়ির ধারে অবস্থিত, এবং সড়ক ও রেলপথে পৌঁছানো যায়। নগরের মধ্যে মন্দিরটি গোমতী ঘাটের উপরে, সুদামা সেতুর কাছে দণ্ডায়মান।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.jpg",

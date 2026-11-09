@@ -1,30 +1,37 @@
 {
   "id": "omkareshwar-mandhata",
   "locale": "bn",
+  "name": "ওঙ্কারেশ্বর মন্দির, মান্ধাতা",
   "nativeName": "श्री ओंकारेश्वर ज्योतिर्लिंग मंदिर",
+  "deity": "শিব ওঙ্কারেশ্বর, পবিত্র ওঁ-কারের অধিপতি রূপে, নদীর দক্ষিণ তীরে মামলেশ্বর (অমরেশ্বর)-এর সঙ্গে একত্রে পূজিত",
+  "tradition": "শৈব",
   "location": {
-    "city": "Omkareshwar (Mandhata island)",
-    "state": "Madhya Pradesh",
+    "city": "ওঙ্কারেশ্বর (মান্ধাতা দ্বীপ)",
+    "state": "মধ্যপ্রদেশ",
     "lat": 22.2456,
     "lng": 76.1511
   },
+  "period": "নর্মদার একটি পবিত্র দ্বীপ; একাদশ শতাব্দী থেকে পরমার রাজাদের অধীনে বিশিষ্ট",
   "century": 11,
+  "dynasty": "পরমার, এবং পরবর্তীকালে মারাঠা (হোলকার) পৃষ্ঠপোষকতা",
+  "style": "নাগর",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "নর্মদার এক দ্বীপ মান্ধাতায়, যা পবিত্র ওঁ-কারের আকৃতির বলে কথিত, শিব ওঙ্কারেশ্বর রূপে পূজিত — দ্বাদশ জ্যোতির্লিঙ্গের একটি, নদীর ওপারে মামলেশ্বরের সঙ্গে একত্রে সম্মানিত।",
   "sections": {
-    "history": "The Dvadasha Jyotirlinga Stotram names \"Omkara with Amaleshvara\" among the twelve Jyotirlingas, and both are honoured here: Omkareshwar on Mandhata island and Mamleshwar, also called Amareshwar, on the Narmada's south bank, so that pilgrims seek darshan of the two together. The island rose to prominence under the Paramara kings of Malwa; a record of Jayasimha I, of the 11th century, already names the Amareshvara linga. Later the Holkar rulers of Indore cared for the shrines. Tradition also holds that the young Adi Shankara found his guru, Govinda Bhagavatpada, in a cave here, and a towering image of the teacher now stands on the island's hilltop.",
-    "architecture": "The Omkareshwar temple rises on the island's riverward slope in the Nagara manner, its spired sanctum and pillared halls stacked against the hillside above the bathing ghats. The linga is an uncarved natural form, kept moist with offerings of Narmada water. Across the river, the Mamleshwar group gathers older carved shrines within its own enclosure. Bridges and boats link the island to the town, and a path circles the island for those who make its parikrama.",
-    "legends": "One legend tells that the Vindhya mountain, longing for greatness, worshipped Shiva here with a sacred diagram and a linga shaped from sand and clay; pleased, Shiva appeared in two forms, Omkareshwara and Amaleshwara, and granted the mountain's wish. Another tells of King Mandhata of the Ikshvaku line, who performed austerities on this island until Shiva revealed himself as a Jyotirlinga; the island has borne the king's name ever since. Seen from above, the island's outline is said to echo the syllable Om.",
-    "festivals": "Maha Shivaratri draws great crowds to both banks, and the Mondays of Shravan are kept with special devotion. At Kartik Purnima pilgrims bathe in the Narmada and light lamps on its waters. Those walking the long Narmada parikrama often pause here. Confirm dates locally.",
-    "experience": "Arrive by the bridge or a small boat, and the temple appears stacked above the green river with the ghats crowded below. After darshan of Omkareshwar, cross to Mamleshwar to complete the pilgrimage. Many walk the island's parikrama path at dawn, passing small shrines, and return at dusk when lamps float on the Narmada."
+    "history": "দ্বাদশ জ্যোতির্লিঙ্গ স্তোত্রম দ্বাদশ জ্যোতির্লিঙ্গের মধ্যে \"অমলেশ্বর সহ ওঙ্কার\"-এর নাম করে, এবং দুটিই এখানে সম্মানিত: মান্ধাতা দ্বীপে ওঙ্কারেশ্বর এবং নর্মদার দক্ষিণ তীরে মামলেশ্বর, যাকে অমরেশ্বরও বলা হয়, যাতে তীর্থযাত্রীরা দুটির একত্রে দর্শন করেন। দ্বীপটি মালবের পরমার রাজাদের অধীনে বিশিষ্ট হয়ে ওঠে; একাদশ শতাব্দীর প্রথম জয়সিংহের এক নথি ইতিমধ্যেই অমরেশ্বর লিঙ্গের নাম করে। পরে ইন্দোরের হোলকার শাসকরা মন্দিরগুলির যত্ন নেন। ঐতিহ্য আরও বলে যে তরুণ আদি শঙ্কর এখানে এক গুহায় তাঁর গুরু গোবিন্দ ভগবৎপাদকে পেয়েছিলেন, এবং দ্বীপের পাহাড়চূড়ায় এখন সেই গুরুর এক বিশাল মূর্তি দাঁড়িয়ে আছে।",
+    "architecture": "ওঙ্কারেশ্বর মন্দির নাগর রীতিতে দ্বীপের নদীমুখী ঢালে উঠে গেছে, এর শিখরযুক্ত গর্ভগৃহ ও স্তম্ভিত হল স্নানঘাটের উপরে পাহাড়ের গায়ে স্তূপীকৃত। লিঙ্গটি এক অখোদিত স্বাভাবিক রূপ, নর্মদার জলের নিবেদনে সিক্ত রাখা হয়। নদীর ওপারে, মামলেশ্বর দল নিজস্ব প্রাঙ্গণে প্রাচীনতর খোদাইকৃত মন্দিরগুলিকে একত্র করে। সেতু ও নৌকা দ্বীপকে শহরের সঙ্গে যুক্ত করে, এবং যাঁরা এর পরিক্রমা করেন তাঁদের জন্য একটি পথ দ্বীপ ঘিরে ঘোরে।",
+    "legends": "এক কিংবদন্তি বলে, বিন্ধ্য পর্বত, মহত্ত্বের আকাঙ্ক্ষায়, এখানে এক পবিত্র যন্ত্র ও বালি-কাদায় গড়া লিঙ্গ দিয়ে শিবের পূজা করে; সন্তুষ্ট হয়ে শিব দুই রূপে, ওঙ্কারেশ্বর ও অমলেশ্বর রূপে আবির্ভূত হন এবং পর্বতের ইচ্ছা পূরণ করেন। আরেকটি বলে ইক্ষ্বাকু বংশের রাজা মান্ধাতার কথা, যিনি এই দ্বীপে তপস্যা করেন যতক্ষণ না শিব জ্যোতির্লিঙ্গ রূপে আত্মপ্রকাশ করেন; দ্বীপটি তখন থেকে রাজার নাম বহন করছে। উপর থেকে দেখলে, দ্বীপের রূপরেখা ওঁ-কার প্রতিধ্বনিত করে বলে কথিত।",
+    "festivals": "মহাশিবরাত্রি দুই তীরেই বিপুল জনসমাগম টানে, এবং শ্রাবণের সোমবারগুলি বিশেষ ভক্তিতে পালিত হয়। কার্তিক পূর্ণিমায় তীর্থযাত্রীরা নর্মদায় স্নান করেন ও এর জলে প্রদীপ ভাসান। যাঁরা দীর্ঘ নর্মদা পরিক্রমা করেন তাঁরা প্রায়ই এখানে থামেন। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "সেতু বা ছোট নৌকায় পৌঁছান, এবং মন্দির সবুজ নদীর উপরে স্তূপীকৃত রূপে আবির্ভূত হয়, নিচে ঘাটগুলি লোকে পূর্ণ। ওঙ্কারেশ্বরের দর্শনের পর তীর্থযাত্রা সম্পূর্ণ করতে মামলেশ্বরে পার হোন। অনেকে ভোরে দ্বীপের পরিক্রমা পথে হাঁটেন, ছোট মন্দির পেরিয়ে, এবং গোধূলিতে ফেরেন যখন নর্মদায় প্রদীপ ভাসে।"
   },
   "visit": {
-    "timings": "Open daily from early morning to night, with breaks for worship during the day; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering.",
-    "photography": "Photography is not permitted inside the sanctum; follow posted rules and staff guidance.",
-    "gettingThere": "Omkareshwar is in Khandwa district, Madhya Pradesh, about 80 km from Indore, which has the nearest airport. The nearest railway station is Omkareshwar Road (Mortakka), about 12 km away. Footbridges and boats connect the town to Mandhata island."
+    "timings": "প্রতিদিন ভোর থেকে রাত পর্যন্ত খোলা, দিনের বেলায় পূজার জন্য বিরতি সহ; সময় স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে জুতো খুলে রাখতে হয়।",
+    "photography": "গর্ভগৃহের ভিতরে ছবি তোলা অনুমোদিত নয়; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "ওঙ্কারেশ্বর মধ্যপ্রদেশের খণ্ডোয়া জেলায়, ইন্দোর থেকে প্রায় ৮০ কিমি দূরে, যেখানে নিকটতম বিমানবন্দর। নিকটতম রেলস্টেশন ওঙ্কারেশ্বর রোড (মর্তক্কা), প্রায় ১২ কিমি দূরে। পায়ে-চলা সেতু ও নৌকা শহরকে মান্ধাতা দ্বীপের সঙ্গে যুক্ত করে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/omkareshwar-mandhata.jpg",

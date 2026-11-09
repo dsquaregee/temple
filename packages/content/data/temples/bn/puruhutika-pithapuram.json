@@ -1,31 +1,42 @@
 {
   "id": "puruhutika-pithapuram",
   "locale": "bn",
+  "name": "পুরুহূতিকা দেবী ও কুক্কুটেশ্বর স্বামী মন্দির, পিঠাপুরম",
   "nativeName": "శ్రీ పురుహూతికా దేవి – కుక్కుటేశ్వర స్వామి ఆలయం, పిఠాపురం",
+  "deity": "পুরুহূতিকা রূপে দেবী, রাজরাজেশ্বরীর সঙ্গে কুক্কুটেশ্বর রূপী শিবের মন্দিরের অভ্যন্তরে",
+  "tradition": "শৈবধর্ম ও শাক্তধর্ম",
   "location": {
-    "city": "Pithapuram",
-    "state": "Andhra Pradesh",
+    "city": "পিঠাপুরম",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 17.1068,
     "lng": 82.2433
   },
+  "period": "একটি প্রাচীন তীর্থকেন্দ্র—আদি শিলালিপির পিষ্টপুর—এবং আঠারোটি মহা শক্তিপীঠের একটি",
   "century": 7,
+  "dynasty": "ঐতিহ্যবাহী; পিঠাপুরম ছিল পূর্ব চালুক্যদের একটি আদি আসন",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "shakti-peethas-of-the-south",
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "পিঠাপুরমের পুরোনো শহরে দেবী পুরুহূতিকা কুক্কুটেশ্বরের মন্দিরের অভ্যন্তরে আঠারোটি মহা শক্তিপীঠের একটি রূপে পূজিত হন, সেই পাদ গয়া সরোবরের পাশে যেখানে তীর্থযাত্রীরা তাঁদের পূর্বপুরুষদের উদ্দেশে অনুষ্ঠান নিবেদন করেন।",
   "sections": {
-    "history": "Pithapuram, near the coast of the Godavari delta, is among the oldest towns of Andhra: as Pishtapura it appears in Samudragupta's fourth-century inscription at Prayaga, and in the seventh century it served as an early seat of the Eastern Chalukyas before they moved to Vengi. Its great temple is dedicated to Shiva as Kukkuteswara Swamy, and within the same complex the goddess Puruhutika has her shrine, counted among the eighteen Maha Shakti Peethas named in the hymn attributed to Adi Shankara. Together with its sacred tank, the Pada Gaya, the temple has drawn pilgrims for centuries, both to seek the goddess's grace and to perform rites for departed ancestors, which are held here to be as meritorious as those offered at Gaya or Kashi.",
-    "architecture": "The temple is a walled Dravidian complex, with the sanctum of Kukkuteswara at its heart. The linga is held to be self-manifested, and devotees see in its form the shape of a rooster, the kukkuta that gives the lord his name; Rajarajeswari is worshipped as his consort. The shrine of Puruhutika Devi stands within the same enclosure, and before the complex lies the broad Pada Gaya tank, its steps worn by generations of bathers. Large footprints near the flagstaff are shown to pilgrims as those of Gayasura.",
-    "legends": "Pithapuram joins two great sacred stories. As a Shakti Peetha it belongs to the legend of Sati, whose body, carried by the grieving Shiva, fell in parts across the land; tradition holds that her seat fell here. The tank recalls Gayasura, a devotee whose body was so vast that his head lay at Gaya, his navel at Jajpur and his feet at Pithapuram — hence Pada Gaya, the 'Gaya of the feet'. A local tale adds that Shiva crowed as a rooster to bring his long penance to a close, and remained here as Kukkuteswara.",
-    "festivals": "Maha Shivaratri is the great festival of Kukkuteswara, and Navaratri is celebrated with special worship of Puruhutika Devi. The month of Karthika brings bathers to the Pada Gaya and lamps to the temple, and ancestral rites are performed at the tank through the year, especially on new-moon days. Confirm dates locally.",
-    "experience": "Pilgrims usually bathe or sprinkle water at the Pada Gaya, worship Kukkuteswara and Rajarajeswari, and then seek the darshan of Puruhutika Devi. The town is also cherished by followers of the Dattatreya tradition as the birthplace of Sripada Srivallabha, whose shrine lies nearby. The temples of the Godavari delta, including Draksharamam and Annavaram, make natural companions."
+    "history": "গোদাবরী ব-দ্বীপের উপকূলের কাছে পিঠাপুরম অন্ধ্রের প্রাচীনতম শহরগুলির অন্যতম: পিষ্টপুর নামে এটি প্রয়াগে সমুদ্রগুপ্তের চতুর্থ শতকের শিলালিপিতে উল্লিখিত হয়েছে, এবং সপ্তম শতকে পূর্ব চালুক্যরা ভেঙ্গীতে সরে যাওয়ার আগে এটি তাঁদের একটি আদি আসন হিসেবে কাজ করেছিল। এর মহান মন্দিরটি কুক্কুটেশ্বর স্বামী রূপী শিবের উদ্দেশে উৎসর্গীকৃত, এবং একই সমুচ্চয়ের মধ্যে দেবী পুরুহূতিকার দেবালয় আছে, যা আদি শঙ্করের নামে প্রচলিত স্তোত্রে উল্লিখিত আঠারোটি মহা শক্তিপীঠের মধ্যে গণ্য। তার পবিত্র সরোবর পাদ গয়ার সঙ্গে মন্দিরটি শতাব্দীর পর শতাব্দী ধরে তীর্থযাত্রীদের আকৃষ্ট করেছে, দেবীর কৃপা প্রার্থনা করতে এবং প্রয়াত পূর্বপুরুষদের উদ্দেশে অনুষ্ঠান সম্পন্ন করতে—যেগুলি এখানে গয়া বা কাশীতে নিবেদিত অনুষ্ঠানের মতোই পুণ্যপ্রদ বলে ধরা হয়।",
+    "architecture": "মন্দিরটি একটি প্রাচীরঘেরা দ্রাবিড় সমুচ্চয়, যার কেন্দ্রে কুক্কুটেশ্বরের গর্ভগৃহ। লিঙ্গটি স্বয়ম্ভূ বলে ধরা হয়, এবং ভক্তরা এর রূপে একটি মোরগের আকার দেখেন, সেই কুক্কুট যা থেকে প্রভুর নাম এসেছে; রাজরাজেশ্বরী তাঁর সহধর্মিণী রূপে পূজিত। পুরুহূতিকা দেবীর দেবালয় একই পরিসরের মধ্যে অবস্থিত, এবং সমুচ্চয়ের সামনে রয়েছে প্রশস্ত পাদ গয়া সরোবর, যার সিঁড়ি প্রজন্মের পর প্রজন্ম স্নানার্থীদের পদভারে ক্ষয়প্রাপ্ত। ধ্বজস্তম্ভের কাছে বড় পদচিহ্ন তীর্থযাত্রীদের গয়াসুরের পদচিহ্ন হিসেবে দেখানো হয়।",
+    "legends": "পিঠাপুরম দুটি মহান পবিত্র কাহিনিকে যুক্ত করে। শক্তিপীঠ হিসেবে এটি সতীর কিংবদন্তির অংশ, যাঁর দেহ, শোকার্ত শিব বহন করার সময়, খণ্ড খণ্ড হয়ে সারা দেশে পড়েছিল; ঐতিহ্য বলে যে তাঁর পীঠ এখানে পড়েছিল। সরোবরটি গয়াসুরের কথা স্মরণ করায়, এক ভক্ত যাঁর দেহ এত বিশাল ছিল যে তাঁর মাথা ছিল গয়ায়, নাভি জাজপুরে এবং পা পিঠাপুরমে—তাই পাদ গয়া, 'পায়ের গয়া'। একটি স্থানীয় কাহিনি যোগ করে যে শিব তাঁর দীর্ঘ তপস্যা সমাপ্ত করতে মোরগের মতো ডেকেছিলেন, এবং কুক্কুটেশ্বর রূপে এখানে রয়ে গেলেন।",
+    "festivals": "মহাশিবরাত্রি কুক্কুটেশ্বরের মহান উৎসব, এবং নবরাত্রি পুরুহূতিকা দেবীর বিশেষ পূজা সহ পালিত হয়। কার্তিক মাস পাদ গয়ায় স্নানার্থীদের এবং মন্দিরে প্রদীপ নিয়ে আসে, আর সারা বছর ধরে, বিশেষত অমাবস্যার দিনে, সরোবরে পূর্বপুরুষের অনুষ্ঠান সম্পন্ন হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "তীর্থযাত্রীরা সাধারণত পাদ গয়ায় স্নান করেন বা জল ছিটিয়ে দেন, কুক্কুটেশ্বর ও রাজরাজেশ্বরীর পূজা করেন, তারপর পুরুহূতিকা দেবীর দর্শন প্রার্থনা করেন। শহরটি দত্তাত্রেয় ঐতিহ্যের অনুসারীদের কাছেও শ্রীপাদ শ্রীবল্লভের জন্মস্থান হিসেবে প্রিয়, যাঁর দেবালয় কাছেই অবস্থিত। গোদাবরী ব-দ্বীপের মন্দিরগুলি, যার মধ্যে দ্রাক্ষারামম ও অন্নবরম রয়েছে, স্বাভাবিক সঙ্গী হয়ে ওঠে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure; Shivaratri, Navaratri and Karthika are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Those performing ancestral rites at the tank are guided by the local priests.",
-    "photography": "Photography is not permitted in the sanctums; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Pithapuram lies about 20 km from Kakinada and has a railway station on the Vijayawada–Visakhapatnam main line. The nearest airports are at Rajahmundry and Visakhapatnam, with good road connections along the coast."
+    "timings": "সকাল ও সন্ধ্যার দর্শন এবং মধ্যাহ্নের বিরতি সহ প্রতিদিন খোলা; শিবরাত্রি, নবরাত্রি ও কার্তিকে সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখুন। যাঁরা সরোবরে পূর্বপুরুষের অনুষ্ঠান সম্পন্ন করেন তাঁদের স্থানীয় পুরোহিতেরা পথ দেখান।",
+    "photography": "গর্ভগৃহে ছবি তোলা অনুমোদিত নয়; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশনা মেনে চলুন।",
+    "gettingThere": "পিঠাপুরম কাকিনাড়া থেকে প্রায় ২০ কিমি দূরে এবং বিজয়ওয়াড়া–বিশাখাপত্তনম মূল রেলপথে এর একটি রেলস্টেশন আছে। নিকটতম বিমানবন্দরগুলি রাজামুন্দ্রি ও বিশাখাপত্তনমে, উপকূল বরাবর ভালো সড়ক সংযোগ সহ।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/puruhutika-pithapuram.mp3",
+    "durationSec": 211
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/puruhutika-pithapuram.jpg",
@@ -37,5 +48,11 @@
       "webp": "https://media.dsquaregee.com/heroes/puruhutika-pithapuram.webp"
     },
     "og": "https://media.dsquaregee.com/og/puruhutika-pithapuram.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/puruhutika-pithapuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/puruhutika-pithapuram.jpg",
+    "durationSec": 160,
+    "credit": "Adityamadhav83 / Wikimedia Commons (CC BY 4.0) · GS Darshan / Wikimedia Commons (CC BY-SA 3.0) · PV Bhaskara / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

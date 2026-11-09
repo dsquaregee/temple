@@ -1,30 +1,37 @@
 {
   "id": "kashi-vishwanath-varanasi",
   "locale": "bn",
+  "name": "কাশী বিশ্বনাথ মন্দির, বারাণসী",
   "nativeName": "श्री काशी विश्वनाथ मंदिर",
+  "deity": "শিব বিশ্বনাথ (বিশ্বেশ্বর) রূপে, বিশ্বের অধীশ্বর — দ্বাদশ জ্যোতির্লিঙ্গের একটি",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Varanasi (Kashi)",
-    "state": "Uttar Pradesh",
+    "city": "বারাণসী (কাশী)",
+    "state": "উত্তরপ্রদেশ",
     "lat": 25.3108,
     "lng": 83.0106
   },
+  "period": "কাশীর কেন্দ্রস্থলে একটি প্রাচীন ক্ষেত্র; বর্তমান মন্দিরটি ১৭৮০ সালে অহল্যাবাঈ হোলকর কর্তৃক নির্মিত",
   "century": 18,
+  "dynasty": "হোলকর (১৭৮০), মহারাজা রণজিৎ সিংহ কর্তৃক প্রদত্ত স্বর্ণমণ্ডনসহ",
+  "style": "নাগর",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "বারাণসীতে গঙ্গার উপরের গলিগুলিতে, কাশী বিশ্বনাথের স্বর্ণশিখর বিশ্বের অধীশ্বর রূপে শিবের বাসস্থান চিহ্নিত করে — দ্বাদশ জ্যোতির্লিঙ্গের একটি, সেই নগরীতে যাকে ভক্তেরা বলেন শিব কখনও ছাড়েন না।",
   "sections": {
-    "history": "Kashi, the city of light, has been sacred to Shiva since the earliest memory of Indian pilgrimage, and the Dvadasha Jyotirlinga Stotram names \"Vishvesha in Varanasi\" among the twelve Jyotirlingas. The Kashi Khanda of the Skanda Purana sings the glory of Vishveshwara and of the city he is said never to abandon. Over the centuries the shrine has been raised and renewed more than once. The present temple was built in 1780 by Ahilyabai Holkar, the queen of Indore, and in the 1830s Maharaja Ranjit Singh of Punjab gave gold to sheathe its spire and dome. In December 2021 the first phase of the Kashi Vishwanath Dham opened, a broad stone precinct joining the temple to the ghats of the Ganga.",
-    "architecture": "The temple is modest in size and rich in presence. Its Nagara spire and the dome beside it are plated in gold, the gleam that gives it the popular name of the Golden Temple of Varanasi. Within a small sanctum, the Jyotirlinga rests in a silver-lined altar, approached by a constant stream of devotees. Around the shrine, the Kashi Vishwanath Dham has opened wide paved courtyards, colonnades and pilgrim halls, so that the temple now looks down an open way to the river.",
-    "legends": "Kashi is called Avimukta, the place never forsaken, for tradition holds that Shiva never leaves it, even at the dissolution of the worlds, when he lifts the city on his trident. It is one of the seven cities that grant liberation, and devotees believe that Shiva himself whispers the saving word into the ear of those who die here. A Puranic story tells of a pillar of light without beginning or end that appeared before Brahma and Vishnu; Kashi honours Vishwanatha as that boundless radiance made present.",
-    "festivals": "Maha Shivaratri is the great night, with worship from dusk to dawn. The month of Shravan brings vast crowds, especially on Mondays. On Rangbhari Ekadashi, before Holi, devotees celebrate Shiva bringing Parvati home with colour, and on Dev Deepawali, at Kartik Purnima, the ghats glow with lamps. Confirm dates locally.",
-    "experience": "Daily worship begins with the Mangala aarti before dawn and closes with the Shayana aarti at night; the evening Saptarishi aarti is especially loved. Many pilgrims first bathe in the Ganga, then climb to the temple. Beside it stands the shrine of Annapurna, the goddess who feeds Kashi, and a short way off, at Mir Ghat, is Vishalakshi, honoured as a Shakti Peetha."
+    "history": "কাশী, আলোর নগরী, ভারতীয় তীর্থযাত্রার আদিতম স্মৃতি থেকেই শিবের কাছে পবিত্র, এবং দ্বাদশ জ্যোতির্লিঙ্গ স্তোত্রম দ্বাদশ জ্যোতির্লিঙ্গের মধ্যে \"বারাণসীতে বিশ্বেশ\"-এর নাম উল্লেখ করে। স্কন্দপুরাণের কাশীখণ্ড বিশ্বেশ্বরের এবং সেই নগরীর মহিমা গেয়ে ওঠে যাকে তিনি কখনও ত্যাগ করেন না বলে কথিত। শতাব্দীর পর শতাব্দী ধরে ক্ষেত্রটি একাধিকবার নির্মিত ও পুনর্নবীকৃত হয়েছে। বর্তমান মন্দিরটি ১৭৮০ সালে ইন্দোরের রানি অহল্যাবাঈ হোলকর নির্মাণ করেন, এবং ১৮৩০-এর দশকে পাঞ্জাবের মহারাজা রণজিৎ সিংহ এর শিখর ও গম্বুজ আবৃত করতে স্বর্ণ দান করেন। ২০২১ সালের ডিসেম্বরে কাশী বিশ্বনাথ ধামের প্রথম পর্যায় উন্মোচিত হয়, একটি বিস্তৃত প্রস্তরপ্রাঙ্গণ যা মন্দিরটিকে গঙ্গার ঘাটের সঙ্গে যুক্ত করে।",
+    "architecture": "মন্দিরটি আকারে বিনম্র তবে উপস্থিতিতে সমৃদ্ধ। এর নাগর শিখর ও পাশের গম্বুজ স্বর্ণমণ্ডিত, সেই ঔজ্জ্বল্যই এটিকে বারাণসীর স্বর্ণমন্দির নামে জনপ্রিয় করেছে। একটি ছোট গর্ভগৃহের মধ্যে জ্যোতির্লিঙ্গ একটি রৌপ্য-আস্তরণযুক্ত বেদিতে অধিষ্ঠিত, যেখানে ভক্তদের অবিরাম স্রোত এসে পৌঁছায়। ক্ষেত্রের চারপাশে কাশী বিশ্বনাথ ধাম প্রশস্ত বাঁধানো প্রাঙ্গণ, স্তম্ভশ্রেণি ও তীর্থযাত্রী-কক্ষ উন্মোচিত করেছে, যাতে মন্দিরটি এখন নদী পর্যন্ত এক খোলা পথের দিকে তাকায়।",
+    "legends": "কাশীকে অবিমুক্ত বলা হয়, যে স্থান কখনও পরিত্যক্ত হয় না, কারণ ঐতিহ্য মানে শিব এটিকে কখনও ছাড়েন না, এমনকি জগতের প্রলয়কালেও, যখন তিনি নগরীটিকে তাঁর ত্রিশূলে তুলে ধরেন। এটি মুক্তিদানকারী সপ্তনগরীর একটি, এবং ভক্তদের বিশ্বাস যে শিব স্বয়ং এখানে প্রাণত্যাগকারীদের কানে তারক মন্ত্র ফিসফিসিয়ে বলেন। এক পৌরাণিক কাহিনি অনাদি-অনন্ত এক জ্যোতিস্তম্ভের কথা বলে যা ব্রহ্মা ও বিষ্ণুর সম্মুখে আবির্ভূত হয়; কাশী সেই অসীম জ্যোতির প্রকটরূপ বিশ্বনাথকে সম্মান জানায়।",
+    "festivals": "মহাশিবরাত্রি হল মহান রাত্রি, সন্ধ্যা থেকে ভোর পর্যন্ত পূজাসহ। শ্রাবণ মাস বিপুল জনসমাগম আনে, বিশেষত সোমবারগুলিতে। হোলির আগে রঙ্গভরী একাদশীতে ভক্তেরা পার্বতীকে রঙের সঙ্গে গৃহে আনার উৎসব পালন করেন, এবং কার্তিক পূর্ণিমায় দেব দীপাবলিতে ঘাটগুলি প্রদীপে ঝলমল করে। তারিখ স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "দৈনিক পূজা ভোরের আগে মঙ্গল আরতি দিয়ে শুরু হয় এবং রাত্রে শয়ন আরতি দিয়ে শেষ হয়; সন্ধ্যার সপ্তঋষি আরতি বিশেষ প্রিয়। বহু তীর্থযাত্রী প্রথমে গঙ্গায় স্নান করেন, তারপর মন্দিরে ওঠেন। এর পাশে দণ্ডায়মান অন্নপূর্ণার মন্দির, সেই দেবী যিনি কাশীকে অন্ন দান করেন, এবং কিছু দূরে মীর ঘাটে বিশালাক্ষী, যিনি একটি শক্তিপীঠ রূপে সম্মানিত।"
   },
   "visit": {
-    "timings": "Open daily from before dawn to late night, with aartis at set hours through the day. Shravan Mondays, Maha Shivaratri and festival days are extremely crowded. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. Follow the posted rules and staff guidance.",
-    "photography": "Mobile phones, cameras and bags are deposited before entry under security rules, and photography is not permitted inside the temple.",
-    "gettingThere": "The temple stands in the old city of Varanasi, close to the river ghats, and is reached on foot through the lanes or by the Kashi Vishwanath Dham entrances from the Ganga side. Varanasi Junction is about 5 km away, and Lal Bahadur Shastri International Airport at Babatpur about 25 km."
+    "timings": "প্রতিদিন ভোরের আগে থেকে গভীর রাত পর্যন্ত খোলা, দিনের নির্দিষ্ট সময়ে আরতিসহ। শ্রাবণের সোমবার, মহাশিবরাত্রি ও উৎসবের দিনগুলি অত্যন্ত ভিড়পূর্ণ। দর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে পাদুকা খুলে রাখতে হয়। নির্দেশিকা ও কর্মীদের পরামর্শ অনুসরণ করুন।",
+    "photography": "নিরাপত্তা বিধি অনুসারে মোবাইল ফোন, ক্যামেরা ও ব্যাগ প্রবেশের আগে জমা দিতে হয়, এবং মন্দিরের ভিতরে আলোকচিত্র গ্রহণের অনুমতি নেই।",
+    "gettingThere": "মন্দিরটি বারাণসীর পুরাতন নগরীতে, নদীর ঘাটগুলির কাছে অবস্থিত, এবং গলিপথে পায়ে হেঁটে বা গঙ্গার দিক থেকে কাশী বিশ্বনাথ ধামের প্রবেশপথ দিয়ে পৌঁছানো যায়। বারাণসী জংশন প্রায় ৫ কিমি দূরে, এবং বাবতপুরের লাল বাহাদুর শাস্ত্রী আন্তর্জাতিক বিমানবন্দর প্রায় ২৫ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kashi-vishwanath-varanasi.jpg",

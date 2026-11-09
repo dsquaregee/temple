@@ -1,29 +1,36 @@
 {
   "id": "atulyanatheswarar-arakandanallur",
   "locale": "bn",
+  "name": "অতুল্যনাথেশ্বরর মন্দির, অরকণ্ডনল্লুর",
   "nativeName": "அதுல்யநாதீஸ்வரர் கோயில்",
+  "deity": "শিব অতুল্যনাথেশ্বরর রূপে, দেবী অঝগিয় পোন্নঝগীর সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Arakandanallur",
-    "state": "Tamil Nadu",
+    "city": "অরকণ্ডনল্লুর",
+    "state": "তামিলনাড়ু",
     "lat": 11.974,
     "lng": 79.22
   },
+  "period": "তেবারমে স্তুত প্রাচীন পাহাড়-মন্দির (সপ্তম শতক); পল্লব উৎপত্তি, চোল বৃদ্ধি, এবং বিজয়নগর যুগের পরবর্তী পাথরের নির্মাণ",
   "century": 7,
+  "dynasty": "পল্লব, চোল ও বিজয়নগর পৃষ্ঠপোষকগণ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "অতুল্যনাথেশ্বরর হল তিরুক্কোবিলুরের নিকটবর্তী তেন্পেন্নৈর তীরে পাহাড়-মন্দির, তেবারমের পুরনো অরৈয়নি নল্লুর, সম্বন্দরের সেই স্তোত্রের জন্য স্মরণীয় যা এর বন্ধ দরজা খুলে দিয়েছিল ও পূজা পুনরুদ্ধার করেছিল।",
   "sections": {
-    "history": "Arakandanallur, long known as Araiyani Nallur, stands on the northern bank of the Thenpennai river in the old Nadu Nadu country near Tirukkovilur. Its hill shrine has been a place of Shaiva worship since the seventh century, when the saints sang of Atulyanatheswarar in the Tevaram and made it a Paadal Petra Sthalam. The sanctuary is old in its foundations, with beginnings traced to the Pallavas and growth under the Cholas, while much of the masonry seen today belongs to the Vijayanagara age. Set upon its granite rise above the river, it has kept its worship across these many hands and centuries.",
-    "architecture": "The temple climbs a granite hill and is entered beneath a seven-tiered gopuram, the sanctum of Atulyanatheswarar set upon the rock. Early rock-cut work attributed to the Pallavas survives in the hill, and the later enclosures, mandapas and tower reflect the Chola and Vijayanagara builders who followed. The goddess Azhagiya Ponnazhagi has her own shrine within the complex, and the Thenpennai river below serves as the temple's sacred tirtham. The climb and the river together give the place the air of an old hill sanctuary.",
-    "legends": "The story most dear to Arakandanallur is Sambandar's. When the saint came to the town he found the temple shut, its doors closed by people of another faith so that worship had ceased and the rituals had fallen silent. Standing before the barred sanctuary, Sambandar sang a hymn in praise of Atulyanatheswarar, and at his words the doors opened of themselves, and the worship of the Lord was restored. From this the temple keeps the memory of a Lord whose praise opens what is closed, and the hymn that reopened the shrine is cherished among its people.",
-    "festivals": "The ten-day Vaikasi Brahmotsavam in May or June is the great festival of the year, when the deities are taken in procession and the hill sees its largest gatherings. Maha Shivaratri in February or March and Tirukarthikai in November or December, with its lamps along the hill, are kept with devotion, and the monthly Pradosham is observed as at every Shiva temple. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Arakandanallur asks for a little climbing and rewards it. Come in the cool of the morning, make the ascent to the sanctum of Atulyanatheswarar on the rock, and pause at the shrine of the goddess Azhagiya Ponnazhagi. From the hill the Thenpennai and the fields of the old Araiyani Nallur open below, and many visitors pair the temple with nearby Tirukkovilur. Those who like a shrine with a story and a view will find both here, best in the quiet of early light or evening."
+    "history": "অরকণ্ডনল্লুর, দীর্ঘকাল অরৈয়নি নল্লুর নামে পরিচিত, তিরুক্কোবিলুরের নিকটবর্তী পুরনো নাড়ু নাড়ু দেশে তেন্পেন্নৈ নদীর উত্তর তীরে অবস্থিত। এর পাহাড়-মন্দির সপ্তম শতক থেকে শৈব পূজার স্থান, যখন সন্তরা তেবারমে অতুল্যনাথেশ্বররের বন্দনা গেয়েছিলেন এবং একে একটি পাডল পেট্র স্থলম্‌ করে তুলেছিলেন। অভয়ারণ্যটি তার ভিত্তিতে প্রাচীন, যার সূচনা পল্লবদের পর্যন্ত এবং বৃদ্ধি চোলদের অধীনে, যদিও আজ যা দেখা যায় তার অধিকাংশ পাথরের কাজ বিজয়নগর যুগের। নদীর উপরে তার গ্রানাইট উত্থানের উপর স্থাপিত, এটি এই বহু হাত ও শতাব্দী জুড়ে তার পূজা রক্ষা করেছে।",
+    "architecture": "মন্দিরটি একটি গ্রানাইট পাহাড়ে ওঠে এবং একটি সাত-স্তরবিশিষ্ট গোপুরমের নিচ দিয়ে প্রবেশ করা হয়, অতুল্যনাথেশ্বররের গর্ভগৃহ পাথরের উপর স্থাপিত। পল্লবদের দ্বারা আরোপিত আদি শিলা-কাটা কাজ পাহাড়ে টিকে আছে, এবং পরবর্তী প্রাঙ্গণ, মণ্ডপ ও চূড়া সেই চোল ও বিজয়নগর নির্মাতাদের প্রতিফলিত করে যাঁরা অনুসরণ করেছিলেন। দেবী অঝগিয় পোন্নঝগীর জটিলের মধ্যে তাঁর নিজস্ব মন্দির আছে, এবং নিচে তেন্পেন্নৈ নদী মন্দিরের পবিত্র তীর্থম্‌ হিসেবে কাজ করে। আরোহণ ও নদী একসঙ্গে স্থানটিকে একটি প্রাচীন পাহাড়-অভয়ারণ্যের আবহ দেয়।",
+    "legends": "অরকণ্ডনল্লুরের কাছে সবচেয়ে প্রিয় কাহিনি সম্বন্দরের। যখন সন্ত শহরে এলেন তিনি মন্দিরটি বন্ধ পেলেন, এর দরজা অন্য বিশ্বাসের মানুষদের দ্বারা বন্ধ করে দেওয়া হয়েছিল যাতে পূজা থেমে গিয়েছিল এবং আচার-অনুষ্ঠান নীরব হয়ে গিয়েছিল। বন্ধ অভয়ারণ্যের সামনে দাঁড়িয়ে, সম্বন্দর অতুল্যনাথেশ্বররের প্রশস্তিতে একটি স্তোত্র গাইলেন, এবং তাঁর কথায় দরজাগুলি আপনা-আপনি খুলে গেল, এবং অধিপতির পূজা পুনরুদ্ধার হল। এই থেকে মন্দিরটি সেই অধিপতির স্মৃতি রক্ষা করে যাঁর প্রশস্তি বন্ধ কিছু খুলে দেয়, এবং যে স্তোত্রটি মন্দির পুনরায় খুলেছিল তা এর মানুষদের কাছে প্রিয়।",
+    "festivals": "মে বা জুনে দশ দিনব্যাপী বৈকাসি ব্রহ্মোৎসবম্‌ বছরের মহান উৎসব, যখন দেবতাদের শোভাযাত্রায় নেওয়া হয় এবং পাহাড় তার বৃহত্তম সমাবেশ দেখে। ফেব্রুয়ারি বা মার্চে মহাশিবরাত্রি এবং নভেম্বর বা ডিসেম্বরে তিরুকার্তিকৈ, পাহাড় বরাবর তার প্রদীপসহ, ভক্তির সঙ্গে পালিত হয়, এবং প্রতি মাসের প্রদোষম্‌ প্রতিটি শিব মন্দিরের মতোই পালিত হয়। তারিখগুলি তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "অরকণ্ডনল্লুর একটু আরোহণ চায় এবং তার পুরস্কার দেয়। সকালের শীতলতায় আসুন, পাথরের উপর অতুল্যনাথেশ্বররের গর্ভগৃহে আরোহণ করুন, এবং দেবী অঝগিয় পোন্নঝগীর মন্দিরে থামুন। পাহাড় থেকে তেন্পেন্নৈ এবং পুরনো অরৈয়নি নল্লুরের খেত নিচে খুলে যায়, এবং বহু দর্শনার্থী মন্দিরটিকে নিকটবর্তী তিরুক্কোবিলুরের সঙ্গে জোড়েন। যাঁরা একটি কাহিনি ও একটি দৃশ্যসহ মন্দির পছন্দ করেন তাঁরা এখানে দুটিই পাবেন, ভোরের আলো বা সন্ধ্যার নিস্তব্ধতায় সর্বোত্তম।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Arakandanallur lies in Villupuram district, close to Tirukkovilur and reached by road from Villupuram and Tiruvannamalai; Villupuram is the nearest major railway junction and Puducherry and Tiruchirappalli the nearest airports. Buses serve the town, and the temple stands on the hill at its edge."
+    "timings": "সাধারণত সকালে এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে, মধ্যাহ্নে বিরতিসহ; বিশেষত উৎসবের দিনে সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা ঘাগরা, কাঁধ ও হাঁটু ঢাকা রেখে। প্রবেশস্থানে জুতো রেখে যেতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরের নিয়ম অনুসারে বাইরের করিডর ও প্রাঙ্গণে সাধারণত আলোকচিত্র গ্রহণের অনুমতি থাকে কিন্তু ভিতরের গর্ভগৃহে নিষিদ্ধ। আচার-অনুষ্ঠান বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "অরকণ্ডনল্লুর বিল্লুপুরম জেলায়, তিরুক্কোবিলুরের কাছে অবস্থিত এবং বিল্লুপুরম ও তিরুবণ্ণামলৈ থেকে সড়কপথে পৌঁছানো যায়; বিল্লুপুরম নিকটতম প্রধান রেল জংশন এবং পুদুচেরি ও তিরুচিরাপল্লি নিকটতম বিমানবন্দর। শহরে বাস চলাচল করে, এবং মন্দিরটি তার প্রান্তে পাহাড়ে অবস্থিত।"
   }
 }

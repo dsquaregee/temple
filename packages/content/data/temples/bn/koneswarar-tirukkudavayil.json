@@ -1,29 +1,36 @@
 {
   "id": "koneswarar-tirukkudavayil",
   "locale": "bn",
+  "name": "কোণেশ্বরর মন্দির, তিরুক্কুডবায়িল",
   "nativeName": "திருக்குடவாயில் கோணேஸ்வரர் கோயில்",
+  "deity": "কোণেশ্বরর রূপে শিব, দেবী পেরিয়নায়কীর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম",
   "location": {
-    "city": "Tirukkudavayil (Kudavasal)",
-    "state": "Tamil Nadu",
+    "city": "তিরুক্কুডবায়িল (কুডবাসল)",
+    "state": "তামিলনাড়ু",
     "lat": 10.86,
     "lng": 79.52
   },
+  "period": "তেবারম যুগ (সপ্তম শতকে স্তুত); পরবর্তী চোল স্থাপত্য মন্দির",
   "century": 7,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুক্কুডবায়িল, এখন কুডবাসল, কুম্বকোণম ও তিরুভারুরের মাঝামাঝি, শিবকে কোণেশ্বরর রূপে দেবী পেরিয়নায়কীর সঙ্গে সম্মান করে। তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম — কাবেরীর দক্ষিণ তীরের ৯৪তম মন্দির — এটি কুম্বকোণমের উৎপত্তির সঙ্গে জড়িত বারোটি মন্দিরের একটি, যেখানে মহাপ্লাবনে ব্রহ্মার পবিত্র কলসের শীর্ষ পড়েছিল বলে কথিত।",
   "sections": {
-    "history": "Tirukkudavayil, now called Kudavasal, lies almost midway between Kumbakonam (about 18 km) and Tiruvarur (about 20 km), in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and counted the 94th shrine on the southern bank of the Kaveri. The temple is a maadakkovil attributed to Kochchenga Chola, its upper shrine entered from the south; the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple raised in the maadakkovil form, the shrine enshrines Koneswarar in the sanctum, with the goddess Periyanayaki in her own shrine, a Nandi and the parivara devatas. An 80-foot rajagopuram rises over the entrance, and the temple has two prakarams. The sacred tank is the Amirtatheertham.",
-    "legends": "Shiva is worshipped here as Koneswarar, with Periyanayaki, 'the great lady,' beside him. The place is one of the twelve temples tied to the origin of Kumbakonam and its Mahamaham: at the great deluge, when Brahma's sacred pot (kumbha) of nectar was borne upon the waters, its top is said to have fallen here, whence the name Kudavayil, 'the mouth of the pot.' The fuller sthala purana survives in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes the Masi Magam Brahmotsavam in Masi (February–March), besides Maha Shivaratri, Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Kumbakonam country, and those who keep the Mahamaham, include Tirukkudavayil among their stops.",
-    "experience": "At Tirukkudavayil the pilgrim comes to a shrine of the great deluge's memory. Before Koneswarar and Periyanayaki, under the tall rajagopuram midway between Kumbakonam and Tiruvarur, the visitor finds the quiet grace of a Tevaram temple and the legend of the sacred pot whose top fell here."
+    "history": "তিরুক্কুডবায়িল, এখন কুডবাসল নামে পরিচিত, তিরুভারুর জেলায় কুম্বকোণম (প্রায় ১৮ কিমি) ও তিরুভারুরের (প্রায় ২০ কিমি) প্রায় মাঝামাঝি অবস্থিত। এটি একটি পাডল পেট্র স্থলম, তেবারমে তিরুগ্ঞান সম্বন্দর কর্তৃক স্তুত, এবং কাবেরীর দক্ষিণ তীরের ৯৪তম মন্দির হিসেবে গণ্য। মন্দিরটি কোচ্চেঙ্গ চোলের প্রতি আরোপিত একটি মাডক্কোয়িল, এর উপরের গর্ভগৃহে দক্ষিণ দিক থেকে প্রবেশ; পাথরের মন্দিরটি চোল যুগের ও পরবর্তী।",
+    "architecture": "মাডক্কোয়িল রূপে নির্মিত একটি দ্রাবিড় ব-দ্বীপ মন্দির, যেখানে গর্ভগৃহে কোণেশ্বরর বিরাজমান, দেবী পেরিয়নায়কী তাঁর নিজস্ব মন্দিরে, একটি নন্দী ও পরিবার দেবতাগণ সহ। প্রবেশদ্বারের উপরে ৮০ ফুট উঁচু একটি রাজগোপুরম উঠে গেছে, এবং মন্দিরের দুটি প্রাকার রয়েছে। পবিত্র তীর্থটি অমৃততীর্থম।",
+    "legends": "শিব এখানে কোণেশ্বরর রূপে পূজিত, পাশে পেরিয়নায়কী, 'মহাদেবী।' স্থানটি কুম্বকোণম ও তার মহামহমের উৎপত্তির সঙ্গে জড়িত বারোটি মন্দিরের একটি: মহাপ্লাবনের সময়, যখন ব্রহ্মার অমৃতপূর্ণ পবিত্র কলস (কুম্ভ) জলের উপর ভেসে যাচ্ছিল, তখন এর শীর্ষ এখানে পড়েছিল বলে কথিত, যা থেকে কুডবায়িল নাম, 'কলসের মুখ।' পূর্ণাঙ্গ স্থলপুরাণ স্থানীয় ঐতিহ্যে ও সম্বন্দরের শ্লোকে টিকে আছে।",
+    "festivals": "মন্দিরটি মাসি (ফেব্রুয়ারি–মার্চ) মাসে মাসি মঘম ব্রহ্মোৎসবম পালন করে, এছাড়া মহাশিবরাত্রি, পুরট্টাসিতে (সেপ্টেম্বর–অক্টোবর) নবরাত্রি এবং কার্তিকের সোমবারসমূহ, প্রদোষ উপাসনা সহ। কুম্বকোণম দেশের তীর্থযাত্রীরা এবং মহামহম পালনকারীরা তিরুক্কুডবায়িলকে তাঁদের দর্শনস্থলের মধ্যে অন্তর্ভুক্ত করেন।",
+    "experience": "তিরুক্কুডবায়িলে তীর্থযাত্রী মহাপ্লাবনের স্মৃতির এক মন্দিরে আসেন। কুম্বকোণম ও তিরুভারুরের মাঝামাঝি উঁচু রাজগোপুরমের নিচে কোণেশ্বরর ও পেরিয়নায়কীর সামনে দর্শনার্থী এক তেবারম মন্দিরের শান্ত মাধুর্য এবং সেই পবিত্র কলসের কিংবদন্তি খুঁজে পান যার শীর্ষ এখানে পড়েছিল।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkudavayil (Kudavasal) lies almost midway between Kumbakonam (about 18 km) and Tiruvarur (about 20 km), in Tiruvarur district. Kumbakonam and Tiruvarur are the nearest towns and rail heads, with buses and taxis to Kudavasal."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা; সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য, কাঁধ ও হাঁটু ঢাকা; প্রবেশদ্বারে পাদুকা রেখে যাওয়া হয়।",
+    "photography": "বাইরের প্রাঙ্গণে সাধারণত আলোকচিত্র গ্রহণ অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচার-অনুষ্ঠানের ছবি তোলার আগে মন্দির কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুক্কুডবায়িল (কুডবাসল) তিরুভারুর জেলায় কুম্বকোণম (প্রায় ১৮ কিমি) ও তিরুভারুরের (প্রায় ২০ কিমি) প্রায় মাঝামাঝি অবস্থিত। কুম্বকোণম ও তিরুভারুর নিকটতম শহর ও রেলস্টেশন, কুডবাসল পর্যন্ত বাস ও ট্যাক্সি সহ।"
   }
 }

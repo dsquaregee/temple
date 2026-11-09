@@ -1,30 +1,37 @@
 {
   "id": "kadambavaneswarar-kulithalai",
   "locale": "bn",
+  "name": "কদম্ববনেশ্বর মন্দির, কুলিত্তলৈ",
   "nativeName": "கடம்பவனேஸ்வரர் கோயில்",
+  "deity": "শিব কদম্ববনেশ্বর (কদম্বনাথর) রূপে, দেবী মুত্রিলা মুলৈয়াম্মৈ-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Kulithalai",
-    "state": "Tamil Nadu",
+    "city": "কুলিত্তলৈ",
+    "state": "তামিলনাড়ু",
     "lat": 10.935,
     "lng": 78.418
   },
+  "period": "কাবেরীর তীরে এক প্রাচীন শৈব মন্দির, তেবারমে স্তুত (৭ম শতক); বর্তমান কাঠামো মূলত নায়ক যুগের, এক পূর্বতর ভিত্তির উপর",
   "century": 7,
+  "dynasty": "আদি তামিল শৈব পৃষ্ঠপোষকগণ; পরবর্তীকালে নায়ক যুগের পুনর্নির্মাণ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কদম্ববনেশ্বর, কদম্ব বনের প্রভু, কুলিত্তলৈ-তে কাবেরীর তীর অলংকৃত করেন—আপ্পরের স্তোত্রের তিরুক্কডম্বন্তুরৈ, যেখানে উত্তরমুখী এক স্বয়ম্ভূ শিবকে তাঁর পিছনে দণ্ডায়মান সাত দিব্য কন্যা পূজা করেন।",
   "sections": {
-    "history": "Kulithalai, in Karur district, stands where the Kaveri runs broad and slow, and its old names speak of the river: Kadambanthurai, the landing of the kadamba grove, and Kuzhithandalai. In the Tevaram the shrine is Tirukkadambanthurai, praised in the hymns of Appar, and a temple listing adds the later poet Arunagirinathar among its devotees. It is counted among the Paadal Petra Sthalams on the southern bank of the Kaveri in Chola Nadu. Worship here reaches back to the Tevaram age, but the stone buildings visible today are mostly of the Nayak period, raised over an earlier foundation whose builders are not firmly recorded.",
-    "architecture": "The temple is modest in scale, with a single gopuram, an entrance mandapa, and two circumambulatory corridors enclosing the shrines, its detail mostly Nayak and post-Vijayanagara in character. The sanctum of Kadambavaneswarar holds a self-manifested linga that faces north, an uncommon orientation, and behind it stand carved figures of seven celestial maidens, the Sapta Kannikas, shown in worship. The goddess Mutrila Mulaiammai has her own shrine within the enclosure. The sacred tree is the kadamba, from which the temple takes its name, and the sacred water is the Kaveri itself, flowing close beside the walls.",
-    "legends": "Two traditions explain the Lord's name. In the first, Shiva appeared in the kadamba forest before the sage Kanva, and the place came to be called Kadambanthurai. In the second, seven celestial maidens prayed to Shiva in this forest for protection from the demon Doomralochana, and the Lord destroyed the demon to save them and the grove, earning the title Lord of the Kadamba Forest. The maidens are still shown standing behind the linga, turned toward him in prayer. Both stories remember a forest sanctuary on the river, protected by the Lord for those who took refuge there.",
-    "festivals": "Thai Poosam is the great day of Kulithalai: the deities of the neighbouring Shiva temples are brought in procession to the Kaveri, and a vast crowd, said to be around two lakh, gathers on its banks. Maha Shivaratri and the monthly Pradosham are observed here as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Kulithalai is best approached as the first of a day's three offerings. Come in the morning, bathe your hands and feet in the Kaveri, and enter the quiet old enclosure to pray before the north-facing Lord, then turn to the goddess Mutrila Mulaiammai in her shrine. Pilgrims then traditionally go on to the hill temple of Ratnagiriswarar at Ayyarmalai in the afternoon and Thiruvengoimalai in the evening. Between the river, the kadamba tree and the old corridors, the temple has the unhurried feeling of a riverside sanctuary."
+    "history": "কারুর জেলার কুলিত্তলৈ সেখানে অবস্থিত যেখানে কাবেরী প্রশস্ত ও মন্থর গতিতে বহে, এবং এর পুরনো নামগুলি নদীর কথা বলে: কদম্বন্তুরৈ, কদম্ব কুঞ্জের অবতরণস্থল, ও কুঝিত্তণ্ডলৈ। তেবারমে এই মন্দির তিরুক্কডম্বন্তুরৈ, আপ্পরের স্তোত্রে স্তুত, এবং এক মন্দির-তালিকা এর ভক্তদের মধ্যে পরবর্তী কবি অরুণগিরিনাথরকেও যোগ করে। এটি চোল নাড়ুতে কাবেরীর দক্ষিণ তীরের পাডল পেট্র স্থলমগুলির অন্যতম বলে গণ্য। এখানে উপাসনা তেবারম যুগ পর্যন্ত প্রসারিত, কিন্তু আজ যে পাথরের কাঠামো দৃশ্যমান তা মূলত নায়ক যুগের, এক পূর্বতর ভিত্তির উপর নির্মিত, যার নির্মাতাদের স্পষ্টভাবে নথিবদ্ধ করা নেই।",
+    "architecture": "মন্দিরটি আকারে বিনম্র, একটি মাত্র গোপুরম, একটি প্রবেশ মণ্ডপ ও মন্দিরগুলি ঘিরে দুটি প্রদক্ষিণ করিডোর সহ, এর বিস্তার মূলত নায়ক ও বিজয়নগর-উত্তর ধাঁচের। কদম্ববনেশ্বরের গর্ভগৃহে রয়েছে এক স্বয়ম্ভূ লিঙ্গ যা উত্তরমুখী, এক অসাধারণ দিক, এবং তার পিছনে উপাসনারত সাত দিব্য কন্যা, সপ্ত কন্নিকাদের, খোদাই করা মূর্তি দণ্ডায়মান। দেবী মুত্রিলা মুলৈয়াম্মৈ-র প্রাঙ্গণের মধ্যে নিজস্ব মন্দির আছে। পবিত্র বৃক্ষ হল কদম্ব, যা থেকে মন্দিরের নাম, এবং পবিত্র জল হল স্বয়ং কাবেরী, যা প্রাচীরের কাছ দিয়ে বয়ে চলে।",
+    "legends": "প্রভুর নামের দুটি ব্যাখ্যা প্রচলিত। প্রথমটিতে, শিব ঋষি কণ্বের সামনে কদম্ব বনে আবির্ভূত হন, এবং স্থানটির নাম হয় কদম্বন্তুরৈ। দ্বিতীয়টিতে, সাত দিব্য কন্যা এই বনে দৈত্য ধূম্রলোচন থেকে রক্ষা পাওয়ার জন্য শিবের কাছে প্রার্থনা করেন, এবং প্রভু তাদের ও কুঞ্জকে বাঁচাতে দৈত্যকে বিনাশ করেন, এভাবে কদম্ব বনের প্রভু উপাধি অর্জন করেন। কন্যারা আজও লিঙ্গের পিছনে, তাঁর দিকে প্রার্থনায় ফিরে দণ্ডায়মান দেখানো হয়। উভয় কাহিনীই নদীর ধারে এক বন-আশ্রয়ের স্মৃতি রাখে, যা আশ্রয় নেওয়া জীবদের জন্য প্রভু রক্ষা করেছিলেন।",
+    "festivals": "তৈ পূসম কুলিত্তলৈ-র মহান দিন: প্রতিবেশী শিব মন্দিরগুলির দেবতাদের শোভাযাত্রায় কাবেরীতে আনা হয়, এবং এক বিশাল জনতা, যা প্রায় দুই লক্ষ বলে কথিত, এর তীরে সমবেত হয়। মহা শিবরাত্রি ও মাসিক প্রদোষম প্রতিটি শিব মন্দিরের মতো এখানেও পালিত হয়। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন, কারণ এগুলি তামিল পঞ্জিকা অনুসরণ করে।",
+    "experience": "কুলিত্তলৈ-কে দিনের তিনটি নিবেদনের প্রথমটি হিসেবে পরিদর্শন করাই শ্রেয়। সকালে আসুন, কাবেরীতে হাত-পা ধুয়ে নিন, এবং শান্ত পুরনো প্রাঙ্গণে প্রবেশ করে উত্তরমুখী প্রভুর সামনে প্রার্থনা করুন, তারপর দেবী মুত্রিলা মুলৈয়াম্মৈ-র দিকে তাঁর মন্দিরে ফিরুন। তীর্থযাত্রীরা তারপর ঐতিহ্যগতভাবে অপরাহ্ণে অয়্যারমলৈ-র রত্নগিরীশ্বর পাহাড়ি মন্দিরে ও সন্ধ্যায় তিরুবেঙ্গোইমলৈ-তে যান। নদী, কদম্ব বৃক্ষ ও পুরনো করিডোরগুলির মাঝে মন্দিরটির এক নদীতীরের আশ্রয়ের নিরুদ্বিগ্ন অনুভূতি আছে।"
   },
   "visit": {
-    "timings": "Typically open from early morning to early afternoon and again from late afternoon into the evening; sources differ on exact hours, so confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Kulithalai lies on the Tiruchirappalli–Karur road and rail line on the bank of the Kaveri, about 34 km from Tiruchirappalli and 42 km from Karur. Tiruchirappalli has the nearest airport. The town has a railway station and frequent buses, and the temple stands near the Kaveri in the town."
+    "timings": "সাধারণত ভোর থেকে বিকেলের শুরু পর্যন্ত ও আবার শেষ বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সূত্রভেদে সঠিক সময় ভিন্ন, তাই বিশেষত উৎসবের দিনে সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা রেখে। প্রবেশদ্বারের স্ট্যান্ডে পাদুকা রেখে দেওয়া হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুসারে বাইরের করিডোর ও প্রাঙ্গণে সাধারণত ফটোগ্রাফির অনুমতি আছে, কিন্তু অন্তঃগর্ভগৃহের ভিতরে নিষিদ্ধ। পূজা বা পুরোহিতদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "কুলিত্তলৈ তিরুচিরাপল্লি–কারুর সড়ক ও রেলপথে কাবেরীর তীরে অবস্থিত, তিরুচিরাপল্লি থেকে প্রায় ৩৪ কিমি ও কারুর থেকে ৪২ কিমি। নিকটতম বিমানবন্দর তিরুচিরাপল্লি। শহরে একটি রেলস্টেশন ও ঘনঘন বাস আছে, এবং মন্দিরটি শহরে কাবেরীর কাছে দণ্ডায়মান।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kadambavaneswarar-kulithalai.jpg",

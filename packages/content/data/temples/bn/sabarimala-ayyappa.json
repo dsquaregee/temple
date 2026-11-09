@@ -1,30 +1,41 @@
 {
   "id": "sabarimala-ayyappa",
   "locale": "bn",
+  "name": "শবরীমালা শ্রী ধর্মশাস্তা মন্দির (আয়াপ্পন)",
   "nativeName": "ശബരിമല ശ്രീ ധർമ്മശാസ്താ ക്ഷേത്രം",
+  "deity": "ভগবান আয়াপ্পন, ধর্মশাস্তা রূপে পূজিত, নৈষ্ঠিক ব্রহ্মচারী—চিরন্তন ব্রহ্মচারী—রূপে এক যোগাসনে উপবিষ্ট। তিনি হরিহরপুত্র রূপে শ্রদ্ধেয়, শিব এবং বিষ্ণুর এক রূপ মোহিনীর পুত্র বলে গণ্য।",
+  "tradition": "আয়াপ্পা বা ধর্মশাস্তা পূজা, শৈব ও বৈষ্ণব ভক্তির এক সংমিশ্রণ",
   "location": {
-    "city": "Sabarimala, Pathanamthitta district",
-    "state": "Kerala",
+    "city": "শবরীমালা, পতনমতিট্টা জেলা",
+    "state": "কেরালা",
     "lat": 9.436,
     "lng": 77.081
   },
+  "period": "প্রাচীন উৎস; বর্তমান গর্ভগৃহ ১৯৫০ সালে পুনর্নির্মিত",
   "century": 12,
+  "dynasty": "ঐতিহ্য মন্দিরটিকে পন্দলম রাজবংশের সঙ্গে যুক্ত করে",
+  "style": "কেরালা মন্দির স্থাপত্য",
   "unesco": false,
   "circuits": [
     "sacred-temples-of-kerala"
   ],
+  "summary": "শবরীমালা বিশ্বের সর্বাধিক পরিদর্শিত তীর্থকেন্দ্রগুলির অন্যতম, যাত্রার আগে এক কঠোর প্রস্তুতিমূলক সংযম সম্পন্ন করা ভক্তদের আকৃষ্ট করে। ভগবান আয়াপ্পনের তীর্থ কেরালার পতনমতিট্টা জেলার পশ্চিমঘাটের এক অরণ্যাবৃত পাহাড়ের চূড়ায় অবস্থিত। এটি সারা বছর নয়, কেবল নির্দিষ্ট তীর্থযাত্রার মরসুমে খোলে।",
   "sections": {
-    "history": "The origins of worship at Sabarimala are held to be ancient, woven into the traditions of the Pandalam royal house and the forested Sastha shrines of the region. For centuries the hill drew devotees who trekked through dense forest to reach the deity. The present sanctum was rebuilt after a fire damaged the earlier structure in 1950, and later works added facilities for the very large numbers who now arrive each season. Through these changes the temple has kept its character as a forest shrine reached only on foot, and its disciplines of preparation and pilgrimage have been carried forward with care, linking present devotees to generations who made the same ascent before them.",
-    "architecture": "The temple follows the Kerala idiom and is modest in scale for so celebrated a pilgrimage centre. The sanctum stands within a walled compound at Sannidhanam, the summit precinct, approached through the eighteen sacred steps known as the Pathinettam Padi. Only those who have kept the preparatory discipline and carry the irumudi offering bundle may climb these steps. Surrounding structures serve the flow of devotees, shelter the sacred fire and hold subsidiary shrines. Built and rebuilt with restraint, the complex sits within the forest of the Periyar Tiger Reserve, so that its setting of hill and tree is as much a part of the experience as the masonry itself.",
-    "legends": "Ayyappan is revered as Hariharaputra, born of Shiva and of Mohini, an enchanting form assumed by Vishnu, and so uniting the two great streams of devotion. In the tradition of the Pandalam house he is remembered as a princely child of miraculous origin, raised in the palace before returning to the forest to take his seat upon the hill. He is worshipped as a Naishtika Brahmachari, an eternal celibate seated in yogic stillness. The name Sabarimala is linked in tradition to Sabari, the devoted ascetic of the forest remembered in the epics. These accounts, told in many local forms, frame the deity as a protector of the forest and a guide to those who seek him with discipline.",
-    "festivals": "The temple opens chiefly for the Mandala and Makaravilakku season, running from about mid November to mid January, and for the first days of each Malayalam month. Makaravilakku, observed around Makara Sankranti in mid January, is the foremost occasion of the year, when great numbers gather and the appearance of the Makara Jyothi is central to the observance. The Mandala period frames the long weeks of the main pilgrimage. Because openings follow this calendar rather than a daily schedule, devotees plan their journey around the announced dates and should confirm the current schedule locally before travelling.",
-    "experience": "A pilgrimage to Sabarimala begins long before the hill, with a vratham of about forty one days in which devotees wear black or blue, set aside comforts, and address one another as Swami in a spirit of equality. Each carries the irumudi kettu, a two compartment bundle of offerings, upon the head, and the constant chant is Swamiye Saranam Ayyappa. Pilgrims reach the base at Pamba and then trek several kilometres uphill through forest to Sannidhanam. The final approach is by the eighteen sacred steps. The shared discipline, the forest path and the sound of the chant carried by thousands give the journey a quiet, absorbing intensity that many describe as its true reward."
+    "history": "শবরীমালায় পূজার উৎস প্রাচীন বলে গণ্য, যা পন্দলম রাজবংশের ঐতিহ্য এবং অঞ্চলের অরণ্যাবৃত শাস্তা তীর্থগুলির সঙ্গে জড়িত। শতাব্দীর পর শতাব্দী ধরে পাহাড়টি সেই ভক্তদের আকৃষ্ট করেছে যাঁরা দেবতার কাছে পৌঁছাতে ঘন অরণ্য পেরিয়ে হেঁটেছেন। ১৯৫০ সালে এক অগ্নিকাণ্ড পূর্বের কাঠামোর ক্ষতি করার পর বর্তমান গর্ভগৃহ পুনর্নির্মিত হয়, এবং পরবর্তী কাজে এখন প্রতি মরসুমে আসা বিপুল সংখ্যক মানুষের জন্য সুবিধা যোগ করা হয়। এই পরিবর্তনগুলির মধ্য দিয়েও মন্দিরটি কেবল পায়ে হেঁটে পৌঁছানো এক অরণ্য তীর্থ হিসেবে তার চরিত্র ধরে রেখেছে, এবং এর প্রস্তুতি ও তীর্থযাত্রার সংযমগুলি যত্নের সঙ্গে বহন করা হয়েছে, বর্তমান ভক্তদের সেই প্রজন্মের সঙ্গে সংযুক্ত করে যাঁরা আগে একই আরোহণ করেছিলেন।",
+    "architecture": "মন্দিরটি কেরালা রীতি অনুসরণ করে এবং এত প্রসিদ্ধ এক তীর্থকেন্দ্রের তুলনায় আকারে বিনম্র। গর্ভগৃহটি চূড়ার প্রাঙ্গণ সন্নিধানমে এক প্রাচীরবেষ্টিত চত্বরের মধ্যে দাঁড়িয়ে আছে, পঠিনেট্টাম পড়ি নামে পরিচিত আঠারোটি পবিত্র সোপান দিয়ে পৌঁছানো যায়। কেবল যাঁরা প্রস্তুতিমূলক সংযম পালন করেছেন এবং ইরুমুড়ি নিবেদন-পুঁটলি বহন করছেন তাঁরাই এই সোপান আরোহণ করতে পারেন। আশপাশের কাঠামোগুলি ভক্তদের চলাচলের সেবা করে, পবিত্র অগ্নিকে আশ্রয় দেয় এবং অনুষঙ্গী তীর্থগুলি ধারণ করে। সংযমের সঙ্গে নির্মিত ও পুনর্নির্মিত, চত্বরটি পেরিয়ার ব্যাঘ্র সংরক্ষণাগারের অরণ্যের মধ্যে অবস্থিত, যাতে পাহাড় ও গাছের পরিবেশ রাজমিস্ত্রির কাজের মতোই এই অভিজ্ঞতার অংশ।",
+    "legends": "আয়াপ্পন হরিহরপুত্র রূপে শ্রদ্ধেয়, শিব এবং বিষ্ণুর ধারণ করা এক মনোমুগ্ধকর রূপ মোহিনীর পুত্র, এবং এভাবে ভক্তির দুই মহান ধারাকে একত্রিত করেন। পন্দলম রাজবংশের ঐতিহ্যে তাঁকে অলৌকিক উৎসের এক রাজকুমার শিশু বলে স্মরণ করা হয়, যিনি পাহাড়ে তাঁর আসন গ্রহণ করতে অরণ্যে ফিরে যাওয়ার আগে প্রাসাদে প্রতিপালিত হয়েছিলেন। তিনি নৈষ্ঠিক ব্রহ্মচারী, যোগ-নিস্তব্ধতায় উপবিষ্ট এক চিরন্তন ব্রহ্মচারী রূপে পূজিত। শবরীমালা নামটি ঐতিহ্যে শবরীর সঙ্গে যুক্ত, মহাকাব্যে স্মরণীয় অরণ্যের সেই ভক্ত সন্ন্যাসিনী। বহু স্থানীয় রূপে কথিত এই আখ্যানগুলি দেবতাকে অরণ্যের রক্ষক এবং যাঁরা সংযমের সঙ্গে তাঁকে খোঁজেন তাঁদের পথপ্রদর্শক রূপে উপস্থাপন করে।",
+    "festivals": "মন্দিরটি প্রধানত মণ্ডল ও মকরবিলক্কু মরসুমের জন্য খোলে, যা প্রায় নভেম্বরের মাঝামাঝি থেকে জানুয়ারির মাঝামাঝি পর্যন্ত চলে, এবং প্রতিটি মালয়ালম মাসের প্রথম কয়েক দিনের জন্য। জানুয়ারির মাঝামাঝি মকর সংক্রান্তির কাছাকাছি পালিত মকরবিলক্কু বছরের প্রধানতম উপলক্ষ, যখন বিপুল সংখ্যক মানুষ জড়ো হন এবং মকর জ্যোতির আবির্ভাব পালনের কেন্দ্রে থাকে। মণ্ডল কাল প্রধান তীর্থযাত্রার দীর্ঘ সপ্তাহগুলিকে ঘিরে রাখে। যেহেতু খোলার সময় দৈনিক সূচির বদলে এই পঞ্জিকা অনুসরণ করে, ভক্তরা ঘোষিত তারিখগুলিকে ঘিরে তাঁদের যাত্রা পরিকল্পনা করেন এবং যাত্রার আগে বর্তমান সূচি স্থানীয়ভাবে নিশ্চিত করা উচিত।",
+    "experience": "শবরীমালার তীর্থযাত্রা পাহাড়েরও বহু আগে শুরু হয়, প্রায় একচল্লিশ দিনের এক ব্রতম দিয়ে, যাতে ভক্তরা কালো বা নীল পরিধান করেন, আরাম-আয়েশ ত্যাগ করেন, এবং সমতার মনোভাবে পরস্পরকে স্বামী বলে সম্বোধন করেন। প্রত্যেকে মাথায় ইরুমুড়ি কেট্টু বহন করেন, নিবেদনের এক দুই-প্রকোষ্ঠ পুঁটলি, এবং নিরন্তর জপ হল স্বামীয়ে শরণম আয়াপ্পা। তীর্থযাত্রীরা পাম্বায় পাদদেশে পৌঁছান এবং তারপর অরণ্যের মধ্য দিয়ে কয়েক কিলোমিটার উপরে সন্নিধানম পর্যন্ত হাঁটেন। শেষ অংশটি আঠারোটি পবিত্র সোপান দিয়ে। এই অভিন্ন সংযম, অরণ্যের পথ এবং হাজারো মানুষের বহন করা জপের ধ্বনি যাত্রাটিকে এক নিরিবিলি, গভীর নিবিষ্টতা দেয় যাকে অনেকে এর প্রকৃত পুরস্কার বলে বর্ণনা করেন।"
   },
   "visit": {
-    "timings": "The temple does not open year round. It opens chiefly for the Mandala and Makaravilakku pilgrimage season, roughly mid November to mid January, and for the first days of each Malayalam month, with darshan hours set within those openings. Because the schedule follows the Malayalam calendar and is announced season by season, verify the current schedule locally before travelling.",
-    "dressCode": "Pilgrims traditionally observe the vratham and wear black, blue or plain devotional clothing, and many keep the customary austerities before the ascent. Modest, simple dress is expected within the temple precinct.",
-    "photography": "Photography is restricted within the temple, especially around the sanctum and the sacred steps. Follow the posted rules and the directions of temple staff, and keep behaviour quiet and reverent.",
-    "gettingThere": "Pilgrims reach the base at Pamba by road, travelling via Pathanamthitta or Erumeli, then trek roughly four to five kilometres uphill through forest to the shrine at Sannidhanam. The nearest railheads are Chengannur and Kottayam, and the nearest airports are Kochi and Thiruvananthapuram."
+    "timings": "মন্দিরটি সারা বছর খোলে না। এটি প্রধানত মণ্ডল ও মকরবিলক্কু তীর্থযাত্রার মরসুমের জন্য খোলে, মোটামুটি নভেম্বরের মাঝামাঝি থেকে জানুয়ারির মাঝামাঝি, এবং প্রতিটি মালয়ালম মাসের প্রথম কয়েক দিনের জন্য, সেই খোলার মধ্যে নির্ধারিত দর্শনের সময় সহ। যেহেতু সূচিটি মালয়ালম পঞ্জিকা অনুসরণ করে এবং মরসুম অনুযায়ী ঘোষিত হয়, যাত্রার আগে বর্তমান সূচি স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "তীর্থযাত্রীরা ঐতিহ্যগতভাবে ব্রতম পালন করেন এবং কালো, নীল বা সাদামাটা ভক্তিমূলক পোশাক পরেন, এবং অনেকে আরোহণের আগে প্রথাগত সংযমগুলি পালন করেন। মন্দির চত্বরের মধ্যে বিনম্র, সরল পোশাক প্রত্যাশিত।",
+    "photography": "মন্দিরের মধ্যে, বিশেষত গর্ভগৃহ ও পবিত্র সোপানগুলির আশপাশে ছবি তোলা সীমিত। প্রদর্শিত নিয়ম ও মন্দিরের কর্মীদের নির্দেশ অনুসরণ করুন, এবং আচরণ শান্ত ও শ্রদ্ধাপূর্ণ রাখুন।",
+    "gettingThere": "তীর্থযাত্রীরা সড়কপথে পতনমতিট্টা বা এরুমেলি হয়ে পাম্বায় পাদদেশে পৌঁছান, তারপর অরণ্যের মধ্য দিয়ে প্রায় চার থেকে পাঁচ কিলোমিটার উপরে সন্নিধানমে তীর্থ পর্যন্ত হাঁটেন। নিকটতম রেলস্টেশন চেঙ্গান্নুর ও কোট্টায়ম, এবং নিকটতম বিমানবন্দর কোচি ও তিরুবনন্তপুরম।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/sabarimala-ayyappa.mp3",
+    "durationSec": 286
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sabarimala-ayyappa.jpg",

@@ -1,30 +1,37 @@
 {
   "id": "kampahareswarar-thirubuvanam",
   "locale": "bn",
+  "name": "কম্পহরেশ্বর মন্দির, তিরুভুবনম",
   "nativeName": "கம்பஹரேஸ்வரர் கோயில்",
+  "deity": "শিব কম্পহরেশ্বর (তিরুভুবন বীরেশ্বর) রূপে, শরভেশ্বরের একটি পৃথক মন্দির সহ",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Thirubuvanam",
-    "state": "Tamil Nadu",
+    "city": "তিরুভুবনম",
+    "state": "তামিলনাড়ু",
     "lat": 10.99,
     "lng": 79.433
   },
+  "period": "দ্বাদশ শতকের শেষ ও ত্রয়োদশ শতকের শুরুর পরবর্তী চোল মন্দির",
   "century": 12,
+  "dynasty": "পরবর্তী চোল (তৃতীয় কুলোত্তুঙ্গ)",
+  "style": "দ্রাবিড় (পরবর্তী চোল)",
   "unesco": false,
   "circuits": [
     "kaveri-delta-temple-towns"
   ],
+  "summary": "তিরুভুবনমের কম্পহরেশ্বর মধ্যযুগীয় চোলদের শেষ মহান মন্দির, তৃতীয় কুলোত্তুঙ্গ কর্তৃক দারাসুরমের আত্মিক সঙ্গী হিসেবে নির্মিত, এবং এর শরভেশ্বর মন্দিরের জন্য খ্যাত।",
   "sections": {
-    "history": "Thirubuvanam, also written Tribhuvanam, lies a few kilometres from Kumbakonam, and its great Shiva temple is credited to the Chola king Kulottunga III, who ruled in the late twelfth and early thirteenth centuries. It is reckoned the last of the four great medieval Chola temples, after Thanjavur, Gangaikonda Cholapuram and Darasuram. A Sanskrit inscription is understood to say that it was raised on the advice of the king's preceptor, Someshvara, to mark a victory over the Pandyas, and it names the god there as Tribhuvana Viresvara. Worship has continued without a break, and the temple is the natural companion to Darasuram on a day among the Chola temples.",
-    "architecture": "The temple is notable for its tall vimana, which rises with a presence unusual even among the great towers of the Kaveri delta. The main shrine and the shrine of Sarabeswarar both stand on raised platforms within the Dravidian enclosure, and the walls carry the carved panels and fine finish of late Chola craft, close in spirit to Darasuram nearby. The Lord is enshrined on a circular pedestal in the sanctum, and a separate shrine is devoted to Sarabeswarar, the great winged form of Shiva.",
-    "legends": "Two traditions gather here. In one, a king was afflicted with trembling and haunting fear after a Brahmin was killed by mistake; wandering in distress, he found relief at Thirubuvanam, and in thanksgiving to Shiva as the remover of trembling, Kampahareswarar, a temple was raised. In the other, after Narasimha slew the demon Hiranyakashipu, his fury would not subside, and the devas turned to Shiva, who took the form of Sarabha, part lion-beast and part great bird, to calm him. It is this Sarabeswarar form that draws many devotees here.",
-    "festivals": "Maha Shivaratri, the monthly Pradosham, Navaratri and Karthigai Deepam are observed with special worship, and many devotees time their visits to the Sarabeswarar shrine on days they hold auspicious. As in the other Chola Shiva temples of the delta, the festival calendar follows the Tamil months. Confirm dates locally.",
-    "experience": "Allow time for a slow walk around the platform of the main shrine, where the late Chola workmanship rewards close looking, and for the quiet of the Sarabeswarar shrine. The temple stands in a village setting, away from the press of the larger Kumbakonam temples, and is seldom crowded. Many visitors combine it with Darasuram and Thiruvidaimarudur in a single day among the Chola temples, and the lanes around offer a pleasant glimpse of village life in the delta."
+    "history": "তিরুভুবনম, ত্রিভুবনম নামেও লেখা হয়, কুম্বকোণম থেকে কয়েক কিলোমিটার দূরে অবস্থিত, এবং এর মহান শিব মন্দির চোল রাজা তৃতীয় কুলোত্তুঙ্গকে আরোপিত, যিনি দ্বাদশ শতকের শেষ ও ত্রয়োদশ শতকের শুরুতে রাজত্ব করেছিলেন। থাঞ্জাভুর, গঙ্গৈকোণ্ড চোলপুরম ও দারাসুরমের পরে চারটি মহান মধ্যযুগীয় চোল মন্দিরের শেষ বলে গণ্য করা হয়। একটি সংস্কৃত শিলালিপি বলে বলে বোঝা যায় যে এটি রাজার গুরু সোমেশ্বরের পরামর্শে পাণ্ড্যদের উপর বিজয় চিহ্নিত করতে নির্মিত হয়েছিল, এবং সেখানকার দেবতাকে তিরুভুবন বীরেশ্বর নামে উল্লেখ করে। উপাসনা অবিচ্ছিন্নভাবে চলেছে, এবং চোল মন্দিরগুলির মধ্যে এক দিনে দারাসুরমের স্বাভাবিক সঙ্গী এই মন্দির।",
+    "architecture": "মন্দিরটি এর উঁচু বিমানের জন্য উল্লেখযোগ্য, যা কাবেরী বদ্বীপের মহান শিখরগুলির মধ্যেও এক অস্বাভাবিক উপস্থিতি নিয়ে উঠেছে। মূল মন্দির ও শরভেশ্বরের মন্দির উভয়ই দ্রাবিড় ঘেরের মধ্যে উঁচু বেদির উপর দাঁড়িয়ে আছে, এবং দেয়ালগুলি পরবর্তী চোল শিল্পের খোদাই করা ফলক ও সূক্ষ্ম সমাপ্তি বহন করে, কাছের দারাসুরমের আত্মায় নিকট। প্রভু গর্ভগৃহে একটি বৃত্তাকার বেদির উপর অধিষ্ঠিত, এবং শিবের মহান পক্ষযুক্ত রূপ শরভেশ্বরের জন্য একটি পৃথক মন্দির নিবেদিত।",
+    "legends": "এখানে দুটি ঐতিহ্য একত্রিত হয়। একটিতে, এক ব্রাহ্মণ ভুলবশত নিহত হওয়ার পর এক রাজা কম্পন ও তাড়িত ভয়ে আক্রান্ত হয়েছিলেন; দুঃখে ঘুরতে ঘুরতে তিনি তিরুভুবনমে স্বস্তি পান, এবং কম্পন অপসারণকারী শিব, কম্পহরেশ্বরের প্রতি কৃতজ্ঞতায় একটি মন্দির নির্মিত হয়। অন্যটিতে, নরসিংহ দানব হিরণ্যকশিপুকে বধ করার পর তাঁর ক্রোধ প্রশমিত হচ্ছিল না, এবং দেবতারা শিবের শরণ নিলেন, যিনি তাঁকে শান্ত করতে শরভের রূপ নিলেন, অর্ধ-সিংহপশু ও অর্ধ-মহাপক্ষী। এই শরভেশ্বর রূপই বহু ভক্তকে এখানে আকর্ষণ করে।",
+    "festivals": "মহাশিবরাত্রি, মাসিক প্রদোষম, নবরাত্রি ও কার্তিগৈ দীপম বিশেষ উপাসনা সহ পালিত হয়, এবং বহু ভক্ত তাঁদের শুভ মনে করা দিনে শরভেশ্বর মন্দিরে সফরের সময় নির্ধারণ করেন। বদ্বীপের অন্যান্য চোল শিব মন্দিরের মতো, উৎসব পঞ্জিকা তামিল মাস অনুসরণ করে। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "মূল মন্দিরের বেদির চারপাশে ধীরে হাঁটার জন্য সময় রাখুন, যেখানে পরবর্তী চোল কারুকার্য নিবিড় দৃষ্টির পুরস্কার দেয়, এবং শরভেশ্বর মন্দিরের নীরবতার জন্য। মন্দিরটি এক গ্রাম্য পরিবেশে দাঁড়িয়ে আছে, বৃহত্তর কুম্বকোণম মন্দিরগুলির ভিড় থেকে দূরে, এবং কদাচিৎ ভিড় হয়। অনেক দর্শনার্থী চোল মন্দিরগুলির মধ্যে এক দিনে একে দারাসুরম ও তিরুবিডৈমরুদুরের সঙ্গে যুক্ত করেন, এবং চারপাশের গলি বদ্বীপের গ্রাম্য জীবনের এক মনোরম ঝলক দেয়।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thirubuvanam lies on the Kumbakonam–Mayiladuthurai road, a few kilometres from Kumbakonam, which has the nearest railway station and frequent buses. Autos and taxis from Kumbakonam make the short journey easily, and Darasuram and Thiruvidaimarudur are close by. Tiruchirappalli International Airport, about 100 km away, is the nearest airport."
+    "timings": "সাধারণত সকালে এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে, মধ্যাহ্নে বিরতি সহ; সময় স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "সংযত ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, মহিলাদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা ঘাগরা, কাঁধ ও হাঁটু ঢাকা রেখে। প্রবেশদ্বারের স্ট্যান্ডে পাদুকা রেখে যেতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দির নিয়ম অনুযায়ী বাইরের বারান্দা ও প্রাঙ্গণে সাধারণত ফটোগ্রাফির অনুমতি আছে কিন্তু গর্ভগৃহের ভেতরে কঠোরভাবে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুভুবনম কুম্বকোণম–মায়িলাড়ুতুরাই সড়কে, কুম্বকোণম থেকে কয়েক কিলোমিটার দূরে অবস্থিত, যেখানে নিকটতম রেলস্টেশন ও ঘন ঘন বাস রয়েছে। কুম্বকোণম থেকে অটো ও ট্যাক্সি সহজেই স্বল্প যাত্রা সম্পন্ন করে, এবং দারাসুরম ও তিরুবিডৈমরুদুর কাছে। তিরুচিরাপল্লি আন্তর্জাতিক বিমানবন্দর, প্রায় ১০০ কিমি দূরে, নিকটতম বিমানবন্দর।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.jpg",

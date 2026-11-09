@@ -1,29 +1,36 @@
 {
   "id": "ezhutharinathar-tiruinnambar",
   "locale": "bn",
+  "name": "এঝুত্তরিনাথর মন্দির, তিরুইন্নম্বর",
   "nativeName": "எழுத்தறிநாதர் கோயில்",
+  "deity": "শিব এঝুত্তরিনাথর (অক্ষরপুরীশ্বরর) রূপে, দেবী সুগন্ধ কুণ্ডলাম্বিকৈ সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Innambur (Tiruinnambar)",
-    "state": "Tamil Nadu",
+    "city": "ইন্নম্বুর (তিরুইন্নম্বর)",
+    "state": "তামিলনাড়ু",
     "lat": 10.982,
     "lng": 79.339
   },
+  "period": "চোল নাড়ুর প্রাচীন শৈব মন্দির, তেবারমে স্তুত (সপ্তম শতাব্দী); চোল যুগের শিলালিপি ও পরবর্তী সংযোজনসহ পাথরের মন্দির",
   "century": 7,
+  "dynasty": "চোল (পরবর্তী তামিল পৃষ্ঠপোষকসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "এঝুত্তরিনাথর, অক্ষর-জ্ঞাত প্রভু, কুম্বকোণমের কাছে তিরুইন্নম্বরের শিব মন্দির, তেবারমে স্তুত এবং সেই কাহিনির জন্য স্মরণীয় যেখানে ঈশ্বর একজন বিনম্র হিসাবরক্ষকের খাতা রাজার জন্য লিখে দিয়েছিলেন।",
   "sections": {
-    "history": "Innambur lies on the edge of Kumbakonam, in the Chola heartland north of the Kaveri, and the Tevaram hymns know it as Tiruinnambar. The saints Appar and Sambandar sang of the Lord here, which makes it a Paadal Petra Sthalam, and local tradition holds that a brick shrine stood on the site even before their time. The present stone temple carries inscriptions of the Chola period, reported to name Rajaraja I, along with later records of the Vijayanagara rulers, and it has been kept in worship ever since. The name Ezhutharinathar, the Lord who knows letters, ties the place to learning, and the village is remembered as a sanctuary of the written word.",
-    "architecture": "The temple follows the Dravidian plan: a rectangle of two prakarams enclosing about an acre, entered from the east beneath a five-tiered rajagopuram, with walls surrounding every shrine. Unusually, there is no flagstaff of the kind most Tamil temples have. Ezhutharinathar, also called Aksharapureeswarar, presides in the sanctum. The goddess Sugantha Kundalambikai has her own south-facing shrine on the right of the eastern outer courtyard, and a separate shrine honours Nithya Kalyani, also known as Soundara Nayaki. The sacred tree of the temple is the shenbagam, the golden champak.",
-    "legends": "The temple's name comes from a story of the Lord's quiet kindness. An honest accountant, whom tradition names Sudharman, was summoned by the king, who demanded the accounts of the realm by morning. Overwhelmed, and certain he could not finish, the man took refuge in Shiva. The Lord came in the accountant's own form, wrote out the entire accounts without a fault and presented them to the king, who was wholly satisfied. The grateful devotee found his burden lifted, and the god has been called Ezhutharinathar ever since. Other traditions add that the sun god regained his strength here, that Airavata, the elephant of Indra, bathed in the temple pond and worshipped, and that the sage Agastya learned the subtleties of Tamil grammar from the Lord.",
-    "festivals": "The festival calendar is led by the Aipasi Annabishekam in October or November, when the Lord is bathed in cooked rice, and by the ten-day Purattasi Navaratri in September or October. Margazhi Tiruvadhirai in December or January and a Chithirai festival in April or May are also kept, and Maha Shivaratri draws the largest crowds of the year. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Innambur rewards a quiet village darshan. Pass beneath the five-tiered gopuram into the stone courtyards, bow before Ezhutharinathar in the sanctum, and then visit the goddess Sugantha Kundalambikai and the shrine of Nithya Kalyani. Because the Lord here is remembered as the keeper of letters, students and parents often come to pray for learning and a clear mind, and it is a natural place to offer a prayer before a child's first lessons. The temple lies a short way outside Kumbakonam among green Kaveri fields, and its courtyards hold a calm that suits a longer pause."
+    "history": "ইন্নম্বুর কুম্বকোণমের প্রান্তে, কাবেরীর উত্তরে চোল হৃদয়ভূমিতে অবস্থিত, এবং তেবারম স্তোত্র একে তিরুইন্নম্বর নামে জানে। সন্ত অপ্পর ও সম্বন্দর এখানকার প্রভুর বিষয়ে গেয়েছেন, যা একে একটি পাদল পেত্র স্থলম করে, এবং স্থানীয় ঐতিহ্য বলে তাঁদের সময়েরও আগে এই স্থানে একটি ইটের মন্দির দাঁড়িয়েছিল। বর্তমান পাথরের মন্দির চোল যুগের শিলালিপি বহন করে, যা রাজরাজ প্রথমের নাম উল্লেখ করে বলে জানা যায়, সঙ্গে বিজয়নগর শাসকদের পরবর্তী নথি, এবং এটি তখন থেকে উপাসনায় রক্ষিত হয়ে আসছে। এঝুত্তরিনাথর নাম, অক্ষর-জ্ঞাত প্রভু, স্থানটিকে বিদ্যার সঙ্গে বাঁধে, এবং গ্রামটি লিখিত শব্দের একটি অভয়ারণ্য রূপে স্মরণীয়।",
+    "architecture": "মন্দিরটি দ্রাবিড় পরিকল্পনা অনুসরণ করে: দুটি প্রাকারের একটি আয়তক্ষেত্র প্রায় এক একর ঘিরে রাখে, পূর্ব থেকে একটি পাঁচতলা রাজগোপুরমের নিচে প্রবেশ, প্রতিটি মন্দির ঘিরে প্রাচীরসহ। অস্বাভাবিকভাবে, বেশিরভাগ তামিল মন্দিরের মতো কোনো ধ্বজস্তম্ভ নেই। এঝুত্তরিনাথর, যাঁকে অক্ষরপুরীশ্বররও বলা হয়, গর্ভগৃহে অধিষ্ঠিত। দেবী সুগন্ধ কুণ্ডলাম্বিকৈর পূর্ব বাইরের প্রাঙ্গণের ডানে তাঁর নিজস্ব দক্ষিণমুখী মন্দির আছে, এবং একটি পৃথক মন্দির নিত্য কল্যাণীকে, যিনি সৌন্দর নায়কী নামেও পরিচিত, সম্মান করে। মন্দিরের পবিত্র বৃক্ষ শেণবগম, সোনালি চম্পক।",
+    "legends": "মন্দিরের নাম এসেছে প্রভুর নীরব করুণার এক কাহিনি থেকে। একজন সৎ হিসাবরক্ষক, যাঁকে ঐতিহ্য সুধর্মন নামে অভিহিত করে, রাজা তলব করেন, যিনি সকালের মধ্যে রাজ্যের হিসাব দাবি করেন। অভিভূত হয়ে, এবং নিশ্চিত যে তিনি শেষ করতে পারবেন না, লোকটি শিবের শরণ নেন। প্রভু হিসাবরক্ষকের নিজের রূপে এসে সমস্ত হিসাব নির্ভুলভাবে লিখে রাজার কাছে উপস্থাপন করলেন, যিনি সম্পূর্ণ সন্তুষ্ট হলেন। কৃতজ্ঞ ভক্ত তাঁর ভার লাঘব হতে দেখলেন, এবং ঈশ্বর তখন থেকে এঝুত্তরিনাথর নামে পরিচিত। অন্য ঐতিহ্য যোগ করে যে সূর্যদেব এখানে তাঁর শক্তি ফিরে পান, যে ইন্দ্রের হস্তী ঐরাবত মন্দিরের পুকুরে স্নান করে উপাসনা করেছিল, এবং যে ঋষি অগস্ত্য প্রভুর কাছ থেকে তামিল ব্যাকরণের সূক্ষ্মতা শিখেছিলেন।",
+    "festivals": "উৎসব পঞ্জিকার নেতৃত্বে রয়েছে অক্টোবর বা নভেম্বরে আইপাসি অন্নাভিষেকম, যখন প্রভুকে রান্না করা ভাতে স্নান করানো হয়, এবং সেপ্টেম্বর বা অক্টোবরে দশদিনব্যাপী পুরট্টাসি নবরাত্রি। ডিসেম্বর বা জানুয়ারিতে মার্গঝ়ি তিরুবাদিরৈ এবং এপ্রিল বা মে মাসে একটি চিত্তিরৈ উৎসবও পালিত হয়, এবং মহা শিবরাত্রি বছরের সবচেয়ে বড় জনসমাগম টানে। তারিখ তামিল পঞ্জিকা অনুসরণ করে, তাই স্থানীয়ভাবে যাচাই করুন।",
+    "experience": "ইন্নম্বুর একটি নিস্তব্ধ গ্রাম্য দর্শনকে পুরস্কৃত করে। পাঁচতলা গোপুরমের নিচে পাথরের প্রাঙ্গণে প্রবেশ করুন, গর্ভগৃহে এঝুত্তরিনাথরের সামনে প্রণাম করুন, তারপর দেবী সুগন্ধ কুণ্ডলাম্বিকৈ ও নিত্য কল্যাণীর মন্দির দর্শন করুন। যেহেতু এখানকার প্রভু অক্ষরের রক্ষক রূপে স্মরণীয়, ছাত্র ও অভিভাবকরা প্রায়ই বিদ্যা ও স্বচ্ছ মনের জন্য প্রার্থনা করতে আসেন, এবং এটি একটি শিশুর প্রথম পাঠের আগে প্রার্থনা নিবেদনের একটি স্বাভাবিক স্থান। মন্দিরটি কুম্বকোণমের অল্প বাইরে সবুজ কাবেরী খেতের মাঝে অবস্থিত, এবং এর প্রাঙ্গণ এমন এক প্রশান্তি রাখে যা একটি দীর্ঘ বিরতির জন্য মানানসই।"
   },
   "visit": {
-    "timings": "Typically open in the morning (roughly 6 to 11 a.m.) and again in the evening (roughly 5 to 8 p.m.), with a midday break; listings differ, so confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Innambur is about 10 km from Kumbakonam on the Tiruvaiyaru road and is easily reached from Swamimalai. Kumbakonam, the nearest railway station, has regular buses to the village. Tiruchirappalli, with the region's airport, is the nearest air link, roughly 90 km away."
+    "timings": "সাধারণত সকালে (প্রায় ৬ থেকে ১১টা) এবং আবার সন্ধ্যায় (প্রায় ৫ থেকে ৮টা) খোলা, মধ্যাহ্নের বিরতিসহ; তালিকা ভিন্ন হয়, তাই বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে যাচাই করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত: পুরুষদের জন্য ধুতি বা ট্রাউজার, মহিলাদের জন্য শাড়ি, সালোয়ার কামিজ বা লম্বা স্কার্ট, কাঁধ ও হাঁটু ঢাকা। প্রবেশপথের স্ট্যান্ডে জুতো রেখে যেতে হয়।",
+    "photography": "তামিলনাড়ুর মন্দিরের নিয়ম অনুযায়ী বাইরের প্রাঙ্গণ ও চত্বরে সাধারণত ছবি তোলা যায়, তবে অন্তর্গর্ভগৃহের ভিতরে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "ইন্নম্বুর তিরুবাইয়ারু সড়কে কুম্বকোণম থেকে প্রায় ১০ কিমি দূরে এবং স্বামিমালই থেকে সহজে পৌঁছানো যায়। নিকটতম রেলস্টেশন কুম্বকোণম থেকে গ্রামে নিয়মিত বাস আছে। অঞ্চলের বিমানবন্দরসহ তিরুচিরাপল্লি নিকটতম বিমানসংযোগ, প্রায় ৯০ কিমি দূরে।"
   }
 }

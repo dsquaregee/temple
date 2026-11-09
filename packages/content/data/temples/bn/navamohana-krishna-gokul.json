@@ -1,30 +1,37 @@
 {
   "id": "navamohana-krishna-gokul",
   "locale": "bn",
+  "name": "নবমোহন কৃষ্ণ মন্দির, গোকুল (তিরুবাইপাড়ি)",
   "nativeName": "नवमोहन कृष्ण मंदिर, गोकुल",
+  "deity": "বিষ্ণু নবমোহন কৃষ্ণ রূপে, রুক্মিণী ও সত্যভামার সঙ্গে — দণ্ডায়মান; প্রভু নন্দগোপনের কাছে আবির্ভূত হয়েছিলেন বলে কথিত",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Gokul (Thiruvaipadi)",
-    "state": "Uttar Pradesh",
+    "city": "গোকুল (তিরুবাইপাড়ি)",
+    "state": "উত্তরপ্রদেশ",
     "lat": 27.45,
     "lng": 77.717
   },
+  "period": "যমুনার তীরে বড় নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে পেরিয়ালবার, আণ্ডাল ও তিরুমঙ্গৈ আলবার কর্তৃক বন্দিত",
   "century": 8,
+  "dynasty": "ব্রজ ঐতিহ্য (বর্তমান মন্দির পরবর্তীকালের)",
+  "style": "উত্তর ভারতীয়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "যমুনার তীরে গোকুলে, কৃষ্ণের শৈশবের গোপগ্রামে, বিষ্ণু নবমোহন কৃষ্ণ রূপে পূজিত হন — তিরুবাইপাড়ি, পেরিয়ালবার, আণ্ডাল ও তিরুমঙ্গৈ আলবারের ২২টি পাশুরমের একটি দিব্য দেশম।",
   "sections": {
-    "history": "Gokul, about 15 km south-east of Mathura on the Yamuna, is the Thiruvaipadi of the Alvars, one of the 108 Divya Desams and a place of Vada Nadu, the northern country. Three Alvars sang it in the Nalayira Divya Prabandham, together offering 22 pasurams: Periyalvar ten, Andal five and Thirumangai Alvar seven. The temple the Alvars praised, and its images, no longer exist, and the present temple is of a later date. Sri Vaishnavas worship the lord here as Navamohana Krishna, standing with Rukmini and Satyabhama, and remember that he appeared to Nandagopan. A separate shrine at Purana Gokul nearby is associated with Nandagopa, Yashoda and Balarama.",
-    "architecture": "The present temple at Gokul is of a later date than the Alvars' time, and the sanctum is remembered through the tradition's names: the vimana is the Hemakoota Vimana, and the sacred water is the Yamuna, with a tank to the west of the temple running parallel to the river. The lord stands as Navamohana Krishna with Rukmini and Satyabhama. The riverside village, quiet and low-built, is part of the shrine's character.",
-    "legends": "Gokul, called Ayarpadi in the Tamil of the Alvars, is the cowherd settlement where Vasudeva carried the newborn Krishna across the Yamuna to Nanda and Yashoda. Here Krishna's childhood unfolded: the butter stolen from the pots and the demoness Putana who came to harm the child. Periyalvar's verses on Krishna's infancy are set in Ayarpadi, and it was in the manner of a mother singing to her child that he praised the lord. Nandagopan is remembered as the one to whom the lord appeared.",
-    "festivals": "Krishna Janmashtami and Nandotsav, the festival of Nanda's joy on the day after, are the great days at Gokul, kept with song and processions through the village. Sri Vaishnava pilgrims also observe Vaikunta Ekadashi. Confirm festival dates and arrangements locally.",
-    "experience": "Gokul is a village visit rather than a grand temple tour: walk its lanes, sit by the Yamuna and recall Periyalvar's verses on the child Krishna. If time allows, visit the shrine of Nandagopa, Yashoda and Balarama at Purana Gokul, and continue to Mathura nearby."
+    "history": "গোকুল, যমুনার তীরে মথুরা থেকে প্রায় ১৫ কিমি দক্ষিণ-পূর্বে, আলবারদের তিরুবাইপাড়ি, ১০৮টি দিব্য দেশমের একটি এবং বড় নাড়ু, উত্তর দেশের একটি স্থান। তিন আলবার নালায়িরা দিব্য প্রবন্ধমে একে বন্দনা করেছেন, একত্রে ২২টি পাশুরম নিবেদন করে: পেরিয়ালবার দশটি, আণ্ডাল পাঁচটি ও তিরুমঙ্গৈ আলবার সাতটি। আলবাররা যে মন্দির স্তব করেছিলেন, এবং তার মূর্তিসমূহ, আর নেই, এবং বর্তমান মন্দিরটি পরবর্তীকালের। শ্রী বৈষ্ণবরা এখানে প্রভুকে নবমোহন কৃষ্ণ রূপে পূজা করেন, রুক্মিণী ও সত্যভামার সঙ্গে দণ্ডায়মান, এবং স্মরণ করেন যে তিনি নন্দগোপনের কাছে আবির্ভূত হয়েছিলেন। নিকটে পুরানা গোকুলে একটি পৃথক পীঠ নন্দগোপ, যশোদা ও বলরামের সঙ্গে যুক্ত।",
+    "architecture": "গোকুলের বর্তমান মন্দিরটি আলবারদের সময়ের চেয়ে পরবর্তীকালের, এবং গর্ভগৃহ ঐতিহ্যের নামগুলির মাধ্যমে স্মরণ করা হয়: বিমানটি হেমকূট বিমান, এবং পবিত্র জল হল যমুনা, মন্দিরের পশ্চিমে একটি পুষ্করিণী নদীর সমান্তরালে প্রবাহিত। প্রভু নবমোহন কৃষ্ণ রূপে রুক্মিণী ও সত্যভামার সঙ্গে দণ্ডায়মান। নদীতীরবর্তী গ্রাম, শান্ত ও নিচু-নির্মিত, পীঠের চরিত্রের অংশ।",
+    "legends": "গোকুল, আলবারদের তামিলে আয়ারপাড়ি নামে অভিহিত, সেই গোপবসতি যেখানে বসুদেব নবজাত কৃষ্ণকে যমুনা পেরিয়ে নন্দ ও যশোদার কাছে বহন করেছিলেন। এখানেই কৃষ্ণের শৈশব উন্মোচিত হয়েছিল: পাত্র থেকে চুরি করা মাখন এবং শিশুটিকে ক্ষতি করতে আসা রাক্ষসী পূতনা। পেরিয়ালবারের কৃষ্ণের শৈশব নিয়ে পদগুলি আয়ারপাড়িতে স্থাপিত, এবং এক মাতা যেভাবে তার সন্তানকে গান শোনায়, সেই রীতিতে তিনি প্রভুকে স্তব করেছিলেন। নন্দগোপনকে সেই ব্যক্তি রূপে স্মরণ করা হয় যাঁর কাছে প্রভু আবির্ভূত হয়েছিলেন।",
+    "festivals": "কৃষ্ণ জন্মাষ্টমী ও নন্দোৎসব, পরের দিন নন্দের আনন্দের উৎসব, গোকুলের মহান দিন, গ্রাম জুড়ে গান ও শোভাযাত্রার সঙ্গে পালিত হয়। শ্রী বৈষ্ণব তীর্থযাত্রীরা বৈকুণ্ঠ একাদশীও পালন করেন। স্থানীয়ভাবে উৎসবের তারিখ ও ব্যবস্থা নিশ্চিত করে নিন।",
+    "experience": "গোকুল এক জমকালো মন্দির ভ্রমণের চেয়ে বরং একটি গ্রাম পরিদর্শন: এর গলিপথে হাঁটুন, যমুনার তীরে বসুন এবং শিশু কৃষ্ণকে নিয়ে পেরিয়ালবারের পদগুলি স্মরণ করুন। সময় থাকলে পুরানা গোকুলে নন্দগোপ, যশোদা ও বলরামের পীঠ দেখুন, এবং নিকটবর্তী মথুরায় এগিয়ে যান।"
   },
   "visit": {
-    "timings": "The temple opens daily for morning and evening darshan, with a midday closure. Janmashtami and Nandotsav are extremely busy. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Gokul lies on the Yamuna about 15 km south-east of Mathura, in Mathura district, Uttar Pradesh. Mathura is the nearest major railway junction, and the village is reached from there by road."
+    "timings": "মন্দিরটি প্রতিদিন সকাল ও সন্ধ্যার দর্শনের জন্য খোলে, দুপুরে বন্ধ থাকে। জন্মাষ্টমী ও নন্দোৎসব অত্যন্ত ভিড়পূর্ণ। যাওয়ার আগে স্থানীয়ভাবে বর্তমান সময়সূচি নিশ্চিত করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতা খুলে রাখুন। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহে ও তার আশেপাশে আলোকচিত্র তোলা সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "গোকুল উত্তরপ্রদেশের মথুরা জেলায়, মথুরা থেকে প্রায় ১৫ কিমি দক্ষিণ-পূর্বে যমুনার তীরে অবস্থিত। মথুরা নিকটতম প্রধান রেল সংযোগস্থল, এবং সেখান থেকে সড়কপথে গ্রামে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/navamohana-krishna-gokul.jpg",

@@ -1,31 +1,42 @@
 {
   "id": "swamimalai-murugan",
   "locale": "bn",
+  "name": "স্বামীমলৈ মুরুগান মন্দির",
   "nativeName": "சுவாமிமலை சுவாமிநாதர் கோயில்",
+  "deity": "মুরুগান, স্বামীনাথ রূপে পূজিত",
+  "tradition": "কৌমারম, শৈব ঐতিহ্যের অন্তর্গত মুরুগান-উপাসনা",
   "location": {
-    "city": "Swamimalai",
-    "state": "Tamil Nadu",
+    "city": "স্বামীমলৈ",
+    "state": "তামিলনাড়ু",
     "lat": 10.954,
     "lng": 79.327
   },
+  "period": "মধ্যযুগীয়; নায়ক যুগে পুনর্নির্মিত",
   "century": 9,
+  "dynasty": "চোল, নায়ক ও পরবর্তী",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "arupadai-veedu",
     "kaveri-delta-temple-towns"
   ],
+  "summary": "মুরুগানের ছয়টি আবাসের চতুর্থ, কুম্বকোণমের কাছে স্বামীমলৈ সেই স্থান যেখানে বালক-দেবতা স্বামীনাথ রূপে পূজিত—সেই পুত্র যিনি নিজ পিতারই গুরু হয়েছিলেন, স্বয়ং শিবের কাছে পবিত্র অক্ষর ওঁ-এর অর্থ ব্যাখ্যা করে।",
   "sections": {
-    "history": "Set in the temple-rich Kaveri delta near Kumbakonam, Swamimalai has been sung by the Tamil hymnists and cherished for over a thousand years. The shrine crowns a small hillock and was developed across the Chola and Nayak periods; much of the present structure was rebuilt after damage during the eighteenth-century wars in the Carnatic. The town around it became famous for its sthapathis, the master craftsmen whose lost-wax bronzes carry the Chola tradition into the present day, so that Swamimalai is a centre of sacred art as much as of pilgrimage.",
-    "architecture": "The temple stands atop an artificial mound reached by sixty steps, each named for one year of the Tamil sixty-year cycle. At the summit the sanctum enshrines Swaminatha, Murugan as the youthful teacher. Below lie the shrines of Shiva as Sundareswarar and the goddess Meenakshi, so that father and mother are worshipped at the foot of the hill their son crowns — a plan that quietly retells the temple’s central story. Pillared halls, a tank, and the surrounding streets of bronze-casters complete a compact but deeply atmospheric complex.",
-    "legends": "Swamimalai’s legend turns the family order upside down. When the creator Brahma could not explain the meaning of the Pranava, the single syllable Om, the child Murugan imprisoned him and took up the work of creation himself. Shiva, asked by his son to explain the syllable, was in turn instructed by the boy — who thus became Swaminatha, guru even to the lord of all. For teaching his own father, Murugan is worshipped here as the supreme teacher, and the hill is honoured as the seat where wisdom flowed from son to father.",
-    "festivals": "Vaikasi Visakam, the god’s birth star, and Thai Poosam draw great crowds, as does Skanda Sashti with its recitation and processions. The float festival and the god’s wedding festival are kept with decorated mounts circling the hill and the tank. Through the year abhishekams anoint the youthful deity, and the sixty steps fill with pilgrims climbing to the summit shrine; the bronze workshops of the town, too, quicken with orders as festivals approach across the Tamil land.",
-    "experience": "Swamimalai rewards an unhurried visit. The climb of sixty named steps is gentle, and the summit sanctum is intimate, lit by lamps and fragrant with sandal. Pausing at the shrines of Shiva and the goddess below, a pilgrim feels the reversal at the heart of the place — the son teaching the father — and many linger over it. Outside, the lanes ring faintly with the tap of chisels from the bronze workshops, and the green delta spreads beyond the mound, so that art, devotion, and the river country meet in one quiet hill."
+    "history": "কুম্বকোণমের কাছে মন্দিরসমৃদ্ধ কাবেরী বদ্বীপে অবস্থিত স্বামীমলৈ তামিল স্তোত্রকারদের দ্বারা গীত হয়েছে এবং হাজার বছরেরও বেশি সময় ধরে লালিত। তীর্থটি একটি ছোট টিলার শীর্ষে অবস্থিত এবং চোল ও নায়ক যুগ জুড়ে বিকশিত হয়; অষ্টাদশ শতকে কর্ণাটিকের যুদ্ধকালীন ক্ষতির পর বর্তমান কাঠামোর অধিকাংশ পুনর্নির্মিত হয়। চারপাশের নগর তার স্থপতিদের জন্য প্রসিদ্ধ হয়ে ওঠে, সেই নিপুণ শিল্পীরা যাঁদের মোম-গলানো পদ্ধতির ব্রোঞ্জ চোল ঐতিহ্যকে বর্তমানে বহন করে আনে, যাতে স্বামীমলৈ তীর্থযাত্রার মতোই পবিত্র শিল্পেরও এক কেন্দ্র।",
+    "architecture": "মন্দিরটি ষাটটি ধাপে পৌঁছানো একটি কৃত্রিম ঢিবির উপর দাঁড়িয়ে আছে, প্রতিটি ধাপ তামিল ষাট-বছর চক্রের এক একটি বছরের নামে নামাঙ্কিত। শীর্ষে গর্ভগৃহে অধিষ্ঠিত স্বামীনাথ, যুবক শিক্ষক রূপে মুরুগান। নিচে অবস্থিত সুন্দরেশ্বরর রূপে শিব ও দেবী মীনাক্ষীর তীর্থ, যাতে পিতা ও মাতা সেই পাহাড়ের পাদদেশে পূজিত যার শীর্ষে তাঁদের পুত্র—এক বিন্যাস যা নীরবে মন্দিরের কেন্দ্রীয় কাহিনিটি পুনর্কথন করে। স্তম্ভশোভিত মণ্ডপ, একটি পুষ্করিণী এবং চারপাশের ব্রোঞ্জ-ঢালাইকারদের গলিগুলি এক ছোট অথচ গভীরভাবে ভাবগম্ভীর সমগ্র পূর্ণ করে।",
+    "legends": "স্বামীমলৈর কিংবদন্তি পারিবারিক ক্রমকে উল্টে দেয়। সৃষ্টিকর্তা ব্রহ্মা যখন প্রণব, একক অক্ষর ওঁ-এর অর্থ ব্যাখ্যা করতে পারলেন না, তখন বালক মুরুগান তাঁকে বন্দি করে স্বয়ং সৃষ্টির কাজ হাতে তুলে নিলেন। শিব, পুত্রের কাছে এই অক্ষরের অর্থ জানতে চাইলে, বালকের দ্বারাই উপদিষ্ট হলেন—যিনি এভাবে স্বামীনাথ হলেন, সর্বপ্রভুরও গুরু। নিজ পিতাকে শিক্ষা দেওয়ায় মুরুগান এখানে পরম শিক্ষক রূপে পূজিত, এবং পাহাড়টি সেই আসন রূপে সম্মানিত যেখানে পুত্র থেকে পিতায় জ্ঞান প্রবাহিত হয়েছিল।",
+    "festivals": "বৈকাসি বিশাখম, দেবতার জন্মনক্ষত্র, এবং তৈ পূসম বিপুল জনসমাগম টানে, তেমনই স্কন্দ ষষ্ঠী তার পাঠ ও শোভাযাত্রা সহ। ভাসান উৎসব ও দেবতার বিবাহোৎসব অলঙ্কৃত বাহনে পাহাড় ও পুষ্করিণী প্রদক্ষিণ করে পালিত হয়। বছরজুড়ে অভিষেক যুবক দেবতাকে অভিষিক্ত করে, এবং ষাটটি ধাপ শীর্ষের তীর্থে আরোহণকারী তীর্থযাত্রীতে পূর্ণ হয়; উৎসব যত কাছে আসে, তামিল দেশ জুড়ে অর্ডারে নগরের ব্রোঞ্জ-কর্মশালাগুলিও তত সজীব হয়ে ওঠে।",
+    "experience": "স্বামীমলৈ ধীরস্থির দর্শনের পুরস্কার দেয়। ষাটটি নামাঙ্কিত ধাপের আরোহণ মৃদু, এবং শীর্ষের গর্ভগৃহ ঘনিষ্ঠ, প্রদীপে আলোকিত ও চন্দনের সুবাসে ভরা। নিচে শিব ও দেবীর তীর্থে থেমে তীর্থযাত্রী এই স্থানের অন্তঃস্থ উলটপালট অনুভব করেন—পুত্র শিক্ষা দিচ্ছেন পিতাকে—এবং অনেকে তাতে বিলীন হয়ে থাকেন। বাইরে, গলিগুলিতে ব্রোঞ্জ-কর্মশালা থেকে ছেনির মৃদু শব্দ অনুরণিত হয়, আর সবুজ বদ্বীপ ঢিবির ওপারে বিস্তৃত, যাতে শিল্প, ভক্তি ও নদী-দেশ এক নিরিবিলি পাহাড়ে মিলিত হয়।"
   },
   "visit": {
-    "timings": "Generally open from around 6:00 am to 12:30 pm and 4:00 pm to 8:30 pm daily; hours extend during Vaikasi Visakam, Thai Poosam, and other festivals.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered. Footwear is left at the stands outside.",
-    "photography": "Photography is restricted around the sanctum; follow posted rules and staff guidance, especially during festivals and abhishekam.",
-    "gettingThere": "Swamimalai is about 8 km from Kumbakonam in Thanjavur district, well connected by road; Kumbakonam has the nearest railway station, and Tiruchirappalli airport is roughly 90 km away."
+    "timings": "সাধারণত প্রতিদিন সকাল প্রায় ৬:০০টা থেকে দুপুর ১২:৩০টা এবং বিকেল ৪:০০টা থেকে রাত ৮:৩০টা পর্যন্ত খোলা; বৈকাসি বিশাখম, তৈ পূসম ও অন্যান্য উৎসবের সময় সময়সীমা বাড়ানো হয়।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—পুরুষদের জন্য ধুতি বা ট্রাউজার, নারীদের জন্য শাড়ি বা সালোয়ার কামিজ, কাঁধ ও হাঁটু ঢাকা রেখে। জুতো বাইরের স্ট্যান্ডে রেখে যেতে হয়।",
+    "photography": "গর্ভগৃহের আশপাশে ছবি তোলায় নিষেধাজ্ঞা রয়েছে; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ অনুসরণ করুন, বিশেষত উৎসব ও অভিষেকের সময়।",
+    "gettingThere": "স্বামীমলৈ তাঞ্জাবুর জেলায় কুম্বকোণম থেকে প্রায় ৮ কিমি দূরে, সড়কপথে সুসংযুক্ত; কুম্বকোণমে নিকটতম রেলস্টেশন, এবং তিরুচিরাপল্লি বিমানবন্দর প্রায় ৯০ কিমি দূরে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/swamimalai-murugan.mp3",
+    "durationSec": 220
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/swamimalai-murugan.jpg",
@@ -37,5 +48,11 @@
       "webp": "https://media.dsquaregee.com/heroes/swamimalai-murugan.webp"
     },
     "og": "https://media.dsquaregee.com/og/swamimalai-murugan.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/swamimalai-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/swamimalai-murugan.jpg",
+    "durationSec": 160,
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "govardhanesa-mathura",
   "locale": "bn",
+  "name": "গোবর্ধনেশ পেরুমাল মন্দির, মথুরা (তিরু বডমথুরৈ)",
   "nativeName": "गोवर्धनेश मंदिर, मथुरा",
+  "deity": "বিষ্ণু গোবর্ধনেসন রূপে, বালকৃষ্ণনও বলা হয়, দেবী সত্যভামা নাচিয়ার সহ — পূর্বমুখী হয়ে দণ্ডায়মান",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Mathura (Thiru Vadamathurai)",
-    "state": "Uttar Pradesh",
+    "city": "মথুরা (তিরু বডমথুরৈ)",
+    "state": "উত্তরপ্রদেশ",
     "lat": 27.505,
     "lng": 77.67
   },
+  "period": "বড নাড়ুর একটি দিব্যদেশম, নালায়িরা দিব্য প্রবন্ধমে পাঁচজন আলবার কর্তৃক স্তুত",
   "century": 8,
+  "dynasty": "ব্রজ প্রথা (বর্তমান জন্মস্থান সমুচ্চয় বিংশ শতকের)",
+  "style": "উত্তর ভারতীয়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "যমুনাতীরে কৃষ্ণের জন্মস্থান মথুরা হল তিরু বডমথুরৈর দিব্যদেশম, যেখানে বিষ্ণু গোবর্ধনেসন রূপে পেরিয়ালবার, আণ্ডাল, তোণ্ডরডিপ্পোড়ি, তিরুমঙ্গৈ ও নম্মালবার কর্তৃক স্তুত।",
   "sections": {
-    "history": "Thiru Vadamathurai is one of the 108 Divya Desams and belongs to Vada Nadu, the northern country. Five Alvars sang of it in the Nalayira Divya Prabandham: Periyalvar, Andal, Thondaradippodi Alvar, Thirumangai Alvar and Nammalvar. Andal's Thiruppavai opens its fifth verse with a praise of the lord of northern Mathura. The temple the Alvars knew does not survive as an identifiable structure, and the Sri Vaishnava tradition honours the Divya Desam as Mathura itself, together with Vrindavan and Govardhan. Pilgrim guides associate the shrine with Krishna's birthplace, the Sri Krishna Janmasthan complex, where devotees gather today. Mathura is also one of the seven Mukti Kshetras, the sacred cities of liberation.",
-    "architecture": "The Alvars' temple is lost, so the Divya Desam is experienced at Mathura itself, chiefly at the Krishna Janmasthan complex. It has three main parts: the Keshavdev temple, the Garbh Griha marking the birthplace, and the Bhagavata Bhavan of Radha and Krishna. The present temple was consecrated in 1958. Sri Vaishnava listings name the lord's vimana as the Govardhana Vimana and the sacred water as the Yamuna, which flows beside the city.",
-    "legends": "The name Govardhanesan recalls Krishna lifting Govardhan hill to shelter the cowherds from Indra's storm; the hill lies about 20 km from Mathura. The sthala purana also tells that Shatrughna, at Rama's bidding, slew the demon Lavanasura and founded Mathura on the Yamuna, long before Krishna was born here. Andal's Thiruppavai remembers the lord as the wonder-worker of northern Mathura.",
-    "festivals": "Krishna Janmashtami is the great festival of Mathura, and Vaikunta Ekadashi is kept by Sri Vaishnava pilgrims. The Holi season is celebrated across Braj with great joy. Confirm festival dates and darshan arrangements locally, as crowds are very large on festival days.",
-    "experience": "Plan to visit the Krishna Janmasthan complex and walk down to the Yamuna ghats, then, if time allows, travel on to Vrindavan and Govardhan, which the tradition treats together with Mathura. Expect crowds at the complex, and carry only what you need."
+    "history": "তিরু বডমথুরৈ ১০৮টি দিব্যদেশমের একটি এবং বড নাড়ুর, উত্তর দেশের অন্তর্গত। পাঁচজন আলবার নালায়িরা দিব্য প্রবন্ধমে এর স্তুতি করেছেন: পেরিয়ালবার, আণ্ডাল, তোণ্ডরডিপ্পোড়ি আলবার, তিরুমঙ্গৈ আলবার ও নম্মালবার। আণ্ডালের তিরুপ্পাবৈর পঞ্চম শ্লোকটি উত্তর মথুরার প্রভুর প্রশংসা দিয়ে শুরু হয়। আলবাররা যে মন্দির জানতেন তা শনাক্তযোগ্য কাঠামো হিসেবে টিকে নেই, এবং শ্রীবৈষ্ণব প্রথা দিব্যদেশমটিকে স্বয়ং মথুরা হিসেবে সম্মান করে, বৃন্দাবন ও গোবর্ধনের সঙ্গে। তীর্থ-নির্দেশিকা মন্দিরটিকে কৃষ্ণের জন্মস্থান, শ্রীকৃষ্ণ জন্মস্থান সমুচ্চয়ের সঙ্গে যুক্ত করে, যেখানে আজ ভক্তরা সমবেত হন। মথুরা সাতটি মুক্তিক্ষেত্রের অন্যতমও, মুক্তির পবিত্র নগরীসমূহ।",
+    "architecture": "আলবারদের মন্দির হারিয়ে গেছে, তাই দিব্যদেশম স্বয়ং মথুরায় অনুভূত হয়, প্রধানত কৃষ্ণ জন্মস্থান সমুচ্চয়ে। এর তিনটি প্রধান অংশ: কেশবদেব মন্দির, জন্মস্থান চিহ্নিতকারী গর্ভগৃহ, এবং রাধা ও কৃষ্ণের ভাগবত ভবন। বর্তমান মন্দির ১৯৫৮ সালে প্রতিষ্ঠিত। শ্রীবৈষ্ণব তালিকা প্রভুর বিমানকে গোবর্ধন বিমান এবং পবিত্র জলকে যমুনা নামে অভিহিত করে, যা নগরীর পাশ দিয়ে প্রবাহিত।",
+    "legends": "গোবর্ধনেসন নামটি ইন্দ্রের ঝড় থেকে গোপালদের রক্ষা করতে কৃষ্ণের গোবর্ধন পর্বত তোলার স্মৃতি বহন করে; পর্বতটি মথুরা থেকে প্রায় ২০ কিমি দূরে। স্থল পুরাণ এও বলে যে শত্রুঘ্ন, রামের আদেশে, অসুর লবণাসুরকে বধ করেন এবং যমুনাতীরে মথুরা প্রতিষ্ঠা করেন, কৃষ্ণ এখানে জন্মানোর অনেক আগে। আণ্ডালের তিরুপ্পাবৈ প্রভুকে উত্তর মথুরার বিস্ময়-কর্তা হিসেবে স্মরণ করে।",
+    "festivals": "কৃষ্ণ জন্মাষ্টমী মথুরার মহান উৎসব, এবং বৈকুণ্ঠ একাদশী শ্রীবৈষ্ণব তীর্থযাত্রীরা পালন করেন। হোলির ঋতু সমগ্র ব্রজ জুড়ে মহা আনন্দে উদযাপিত হয়। উৎসবের তারিখ ও দর্শনের ব্যবস্থা স্থানীয়ভাবে যাচাই করে নিন, কারণ উৎসবের দিনে ভিড় অত্যন্ত বেশি হয়।",
+    "experience": "কৃষ্ণ জন্মস্থান সমুচ্চয় দর্শনের পরিকল্পনা করুন এবং যমুনা ঘাট পর্যন্ত হেঁটে নামুন, তারপর সময় থাকলে বৃন্দাবন ও গোবর্ধনে যান, যা প্রথা মথুরার সঙ্গে একত্রে গণ্য করে। সমুচ্চয়ে ভিড় আশা করুন, এবং যতটা দরকার ততটুকুই সঙ্গে নিন।"
   },
   "visit": {
-    "timings": "The Janmasthan complex opens daily for morning and evening darshan, with a midday closure. Janmashtami and Holi are extremely busy. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Mathura is on the Yamuna in Uttar Pradesh and has a major railway junction, with good road and rail links to Delhi and Agra. The Krishna Janmasthan complex is reached by local transport within the city. Govardhan lies about 20 km away."
+    "timings": "জন্মস্থান সমুচ্চয় সকাল ও সন্ধ্যার দর্শনের জন্য প্রতিদিন খোলে, মধ্যাহ্নে বন্ধ থাকে। জন্মাষ্টমী ও হোলিতে অত্যন্ত ভিড়। যাওয়ার আগে স্থানীয়ভাবে বর্তমান সময়সূচি যাচাই করে নিন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খোলা। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "মথুরা উত্তরপ্রদেশে যমুনাতীরে অবস্থিত এবং এর একটি প্রধান রেল সংযোগস্থল আছে, দিল্লি ও আগ্রার সঙ্গে ভালো সড়ক ও রেল সংযোগ সহ। কৃষ্ণ জন্মস্থান সমুচ্চয়ে নগরীর মধ্যে স্থানীয় পরিবহনে পৌঁছানো যায়। গোবর্ধন প্রায় ২০ কিমি দূরে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.jpg",

@@ -1,31 +1,38 @@
 {
   "id": "yathothkari-thiruvekka",
   "locale": "bn",
+  "name": "যথোত্কারী পেরুমাল মন্দির, তিরুবেক্কা",
   "nativeName": "யதோத்காரி பெருமாள் கோயில், திருவெஃகா",
+  "deity": "বিষ্ণু যথোত্কারী (সোন্ন বণ্ণম সেইদ) পেরুমাল রূপে, আদিশেষের উপর শয়ান, দেবী কোমলাবল্লীসহ",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "কাঞ্চিপুরম",
+    "state": "তামিলনাড়ু",
     "lat": 12.8242,
     "lng": 79.7122
   },
+  "period": "তোণ্ডৈ নাড়ুর একটি দিব্যদেশম, নালায়িরা দিব্য প্রবন্ধমে পাঁচ আলোয়ার দ্বারা কীর্তিত",
   "century": 8,
+  "dynasty": "পল্লব, পরবর্তী চোল ও বিজয়নগর অবদানসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "পূর্ব কাঞ্চিপুরমে বিষ্ণু পশ্চিমমুখে যথোত্কারী পেরুমাল রূপে শয়ান — সেই প্রভু যিনি যেমন বলা হয়েছিল তেমনই করেছিলেন — তোণ্ডৈ নাড়ুর একটি দিব্যদেশম, পাঁচ আলোয়ার কীর্তিত ও পোয়গৈ আলোয়ারের জন্মের সঙ্গে জড়িত।",
   "sections": {
-    "history": "Thiruvekka stands in Chinna Kanchipuram, the eastern part of the temple town, and is one of the 108 Divya Desams of Thondai Nadu. The Alvar saints Poigai, Peyalvar, Thirumazhisai, Nammalvar and Thirumangai sang its lord in the Nalayira Divya Prabandham. The shrine is mentioned even in the Sangam text Perumpanatruppadai, and tradition credits its building to the Pallavas, with later contributions from the Medieval Cholas and the Vijayanagara kings. Three inscriptions on its walls record endowments: two of Kulothunga Chola I and one of Rajadhiraja Chola. Tradition also holds that Poigai Alvar, the first of the Alvars, was born in the temple's lotus tank, the Poigai Pushkarini, which lies outside the temple complex.",
-    "architecture": "A three-tiered rajagopuram opens the way into the temple, and the Vedasara Vimanam rises over the sanctum. Within, the lord lies on the serpent Adisesha facing west, in an unusual posture: his head rests on his left hand, the reverse of the customary reclining form, known as the maaru sayanam. The Goddess Komalavalli Thayar has her own shrine on the eastern side, facing the central sanctum. The Poigai Pushkarini, the lotus tank linked to the birth of Poigai Alvar, lies just outside the complex.",
-    "legends": "The sthala purana tells that Saraswati, slighted when Brahma began his sacrifice at Kanchi, came rushing as the river Vegavati to destroy it; Vishnu lay down across her path like a dam, and the name Vekka, Thiruvekka, is traced to this. A second story is the temple's best loved. The Pallava king banished Kanikannan, a disciple of Thirumazhisai Alvar; the Alvar left with him and asked the lord to roll up his serpent bed and follow, and the lord did. When the king repented, the Alvar bade the lord return, and he came back. Hence the name Yathothkari, or Sonna Vannam Seidha Perumal: the lord who did as he was told.",
-    "festivals": "The Brahmotsavam is celebrated in the Tamil month of Panguni, with processions of the lord through Kanchipuram. The birth star of Poigai Alvar, Thiruvonam in Aippasi, is kept as his special day, and Vaikunta Ekadashi draws devotees here as at other Divya Desams. Confirm dates locally.",
-    "experience": "Come for the unusual reclining form, head resting on the left hand, and for the story that makes the lord a servant of his devotee's word. Pause at the Poigai Pushkarini outside, tied to Poigai Alvar's birth, and read the Alvars' verses here if you can. The visit pairs naturally with the other Divya Desams of Kanchipuram."
+    "history": "তিরুবেক্কা মন্দিরনগরীর পূর্বাংশ চিন্ন কাঞ্চিপুরমে অবস্থিত এবং তোণ্ডৈ নাড়ুর ১০৮ দিব্যদেশমের একটি। আলোয়ার সন্ত পোয়গৈ, পেয়ালোয়ার, তিরুমরিশৈ, নম্মালোয়ার ও তিরুমঙ্গৈ নালায়িরা দিব্য প্রবন্ধমে এর প্রভুকে কীর্তন করেছেন। সঙ্গম গ্রন্থ পেরুম্পাণাট্রুপ্পডৈতেও এই তীর্থের উল্লেখ আছে, এবং ঐতিহ্য এর নির্মাণ পল্লবদের বলে মনে করে, পরবর্তীকালে মধ্যযুগীয় চোল ও বিজয়নগর রাজাদের অবদানসহ। এর দেওয়ালের তিনটি শিলালিপি দানের নথি রাখে: দুটি প্রথম কুলোত্তুঙ্গ চোলের এবং একটি রাজাধিরাজ চোলের। ঐতিহ্য আরও বলে যে আলোয়ারদের প্রথম পোয়গৈ আলোয়ার মন্দিরের পদ্মপুকুর পোয়গৈ পুষ্করিণীতে জন্মগ্রহণ করেছিলেন, যা মন্দির প্রাঙ্গণের বাইরে অবস্থিত।",
+    "architecture": "একটি ত্রিস্তরীয় রাজগোপুরম মন্দিরে প্রবেশের পথ খুলে দেয়, এবং গর্ভগৃহের উপর বেদসার বিমানম উত্থিত। ভিতরে প্রভু আদিশেষ সর্পের উপর পশ্চিমমুখে শয়ান, এক অস্বাভাবিক ভঙ্গিতে: তাঁর মস্তক বাম হাতে বিশ্রাম করে, প্রথাগত শয়ানরূপের বিপরীত, যা মারু শয়নম নামে পরিচিত। দেবী কোমলাবল্লী তায়ারের নিজস্ব তীর্থ পূর্বদিকে, কেন্দ্রীয় গর্ভগৃহের অভিমুখে। পোয়গৈ আলোয়ারের জন্মের সঙ্গে জড়িত পদ্মপুকুর পোয়গৈ পুষ্করিণী প্রাঙ্গণের ঠিক বাইরে অবস্থিত।",
+    "legends": "স্থলপুরাণ বলে যে সরস্বতী, ব্রহ্মা কাঞ্চিতে তাঁর যজ্ঞ শুরু করলে অপমানিত বোধ করে, তা ধ্বংস করতে বেগবতী নদীরূপে ছুটে এলেন; বিষ্ণু তাঁর পথে বাঁধের মতো শুয়ে পড়লেন, এবং বেক্কা, তিরুবেক্কা নামটি এর থেকেই এসেছে বলে ধরা হয়। দ্বিতীয় কাহিনিটি মন্দিরের সবচেয়ে প্রিয়। পল্লব রাজা তিরুমরিশৈ আলোয়ারের শিষ্য কণিকণ্ণনকে নির্বাসিত করেন; আলোয়ার তাঁর সঙ্গে চলে গেলেন এবং প্রভুকে তাঁর সর্পশয্যা গুটিয়ে অনুসরণ করতে বললেন, এবং প্রভু তাই করলেন। রাজা অনুতপ্ত হলে আলোয়ার প্রভুকে ফিরে আসতে বললেন, এবং তিনি ফিরে এলেন। তাই নাম যথোত্কারী, বা সোন্ন বণ্ণম সেইদ পেরুমাল: সেই প্রভু যিনি যেমন বলা হয়েছিল তেমনই করেছিলেন।",
+    "festivals": "তামিল পঙ্গুনি মাসে ব্রহ্মোৎসব পালিত হয়, কাঞ্চিপুরম জুড়ে প্রভুর শোভাযাত্রাসহ। পোয়গৈ আলোয়ারের জন্মনক্ষত্র, ঐপ্পসি মাসের তিরুবোণম, তাঁর বিশেষ দিনরূপে পালিত হয়, এবং অন্যান্য দিব্যদেশমের মতোই বৈকুণ্ঠ একাদশী এখানে ভক্তদের আকর্ষণ করে। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "অস্বাভাবিক শয়ানরূপের জন্য, মস্তক বাম হাতে বিশ্রাম, এবং সেই কাহিনির জন্য আসুন যা প্রভুকে তাঁর ভক্তের কথার সেবক করে তোলে। বাইরের পোয়গৈ পুষ্করিণীতে থামুন, যা পোয়গৈ আলোয়ারের জন্মের সঙ্গে জড়িত, এবং পারলে এখানে আলোয়ারদের পদ পাঠ করুন। এই দর্শন কাঞ্চিপুরমের অন্য দিব্যদেশমগুলির সঙ্গে স্বাভাবিকভাবেই মিলে যায়।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvekka is in Chinna Kanchipuram, the eastern part of Kanchipuram town. Kanchipuram has a railway station and is reached by road from Chennai; Chennai International Airport is the nearest major airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন এবং মধ্যাহ্নে বিরতিসহ খোলা থাকে; উৎসবের দিন ও বৈকুণ্ঠ একাদশী সবচেয়ে ব্যস্ত। দর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার আশপাশে ফটোগ্রাফি নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "তিরুবেক্কা কাঞ্চিপুরম শহরের পূর্বাংশ চিন্ন কাঞ্চিপুরমে অবস্থিত। কাঞ্চিপুরমে একটি রেলস্টেশন আছে এবং চেন্নাই থেকে সড়কপথে পৌঁছনো যায়; চেন্নাই আন্তর্জাতিক বিমানবন্দর নিকটতম প্রধান বিমানবন্দর।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.jpg",

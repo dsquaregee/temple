@@ -1,29 +1,40 @@
 {
   "id": "vira-brahma-alampur",
   "locale": "bn",
+  "name": "বীর ব্রহ্ম মন্দির, আলমপুর",
   "nativeName": "వీర బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "বীর ব্রহ্মেশ্বর (লিঙ্গ) রূপে শিব",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "আলমপুর",
+    "state": "তেলেঙ্গানা",
     "lat": 15.8787,
     "lng": 78.1354
   },
+  "period": "আলমপুরের নয়টি নবব্রহ্ম মন্দিরের একটি, বাদামি চালুক্য যুগের (সপ্তম–অষ্টম শতক)",
   "century": 8,
+  "dynasty": "চালুক্য (বাদামি)",
+  "style": "আদি চালুক্য, উত্তরীয় (রেখা-নাগর) মন্দির রীতি",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "ক্ষয়প্রাপ্ত তবু এখনও দ্বাররক্ষীদের দ্বারা রক্ষিত, আলমপুরের বীর ব্রহ্ম মন্দির তার শিখরে একটি নৃত্যরত শিবকে বহন করে—তুঙ্গভদ্রার ধারে স্থল-জাদুঘরের মুখোমুখি চারটি নবব্রহ্ম মন্দিরের সারির একটি।",
   "sections": {
-    "history": "Vira Brahma, the shrine of the heroic Brahma, belongs to the nine Navabrahma temples that the Badami Chalukyas raised at Alampur on the Tungabhadra between the seventh and eighth centuries — Shiva temples all, though each bears a name of Brahma. It stands in the northern row of the group, between Arka Brahma and Vishwa Brahma, facing the site museum. The temple has been badly damaged over the centuries; it is no longer in worship and is today protected by the Archaeological Survey of India as part of the Alampur monuments.",
-    "architecture": "Vira Brahma follows the pattern that unites the Alampur group: an east-facing sanctum enclosed by a passage for circumambulation, entered through a hall, and crowned by a curving tower in the northern manner, its walls articulated with slender engaged pilasters. At the sanctum entrance two door guardians, dvarapalas, still keep watch, one of them heavily worn. High on the tower is a figure of Nataraja, Shiva as lord of the dance — an emblem fitting for a shrine whose name speaks of heroism and energy.",
-    "legends": "Vira means hero. The nine Navabrahma names are remembered at Alampur as the forms in which Brahma, performing penance on the banks of the Tungabhadra, worshipped Shiva; the god he adored is honoured here as Vira Brahmeshwara. For pilgrims the dancing Shiva on the tower is a reminder that the lord of stillness and meditation is also the lord of the cosmic dance.",
-    "festivals": "As a protected monument, Vira Brahma has no festival of its own. The precinct's living shrines carry the sacred year — Maha Shivaratri at Bala Brahmeshwara, and Navaratri and Dasara for the goddess Jogulamba — and visitors on those days find the whole compound full of pilgrims. Confirm dates locally.",
-    "experience": "Look up before you step in: the Nataraja on the tower is easy to miss without a pause in the open court. At the doorway, the surviving dvarapala repays a close look at Chalukya carving at human scale. Vishwa Brahma, the best preserved of the northern row, stands next door, so the two are naturally seen together."
+    "history": "বীর ব্রহ্ম, বীর ব্রহ্মার মন্দির, সেই নয়টি নবব্রহ্ম মন্দিরের অন্তর্গত যা বাদামি চালুক্যরা সপ্তম ও অষ্টম শতকের মধ্যে তুঙ্গভদ্রার ধারে আলমপুরে নির্মাণ করেছিলেন—সবগুলিই শিব মন্দির, যদিও প্রত্যেকটি ব্রহ্মার একটি নাম বহন করে। এটি দলের উত্তরীয় সারিতে, অর্ক ব্রহ্ম ও বিশ্ব ব্রহ্মের মাঝে, স্থল-জাদুঘরের মুখোমুখি দাঁড়িয়ে আছে। মন্দিরটি শতাব্দীর পর শতাব্দী ধরে বিশেষ ক্ষতিগ্রস্ত হয়েছে; এটি আর পূজায় নেই এবং আজ ভারতীয় প্রত্নতাত্ত্বিক সর্বেক্ষণ আলমপুর স্মারকের অংশ হিসেবে এটিকে সংরক্ষণ করে।",
+    "architecture": "বীর ব্রহ্ম আলমপুর দলকে একত্রে বাঁধা রীতি অনুসরণ করে: একটি পূর্বমুখী গর্ভগৃহ, প্রদক্ষিণের পথ দিয়ে ঘেরা, একটি মণ্ডপের মধ্য দিয়ে প্রবেশ করা যায়, এবং উত্তরীয় রীতিতে একটি বক্র শিখরে মুকুটিত, যার দেয়াল সরু সংলগ্ন স্তম্ভিকায় বিভাজিত। গর্ভগৃহের প্রবেশপথে দুই দ্বাররক্ষী, দ্বারপাল, এখনও পাহারা দেয়, যাদের একজন খুবই ক্ষয়প্রাপ্ত। শিখরের উঁচুতে রয়েছে নটরাজের মূর্তি, নৃত্যের অধিপতি শিব—এমন এক প্রতীক যা এমন এক মন্দিরের পক্ষে মানানসই যার নাম বীরত্ব ও শক্তির কথা বলে।",
+    "legends": "বীর অর্থ বীর। আলমপুরে নয়টি নবব্রহ্ম নাম সেই রূপগুলি রূপে স্মরণ করা হয় যেগুলিতে ব্রহ্মা, তুঙ্গভদ্রার তীরে তপস্যা করে, শিবের পূজা করেছিলেন; তিনি যে দেবতার আরাধনা করেছিলেন তাঁকে এখানে বীর ব্রহ্মেশ্বর রূপে সম্মান করা হয়। তীর্থযাত্রীদের কাছে শিখরে নৃত্যরত শিব এক স্মারক যে স্থিরতা ও ধ্যানের অধিপতি একই সঙ্গে মহাজাগতিক নৃত্যেরও অধিপতি।",
+    "festivals": "সংরক্ষিত স্মারক হিসেবে বীর ব্রহ্মের নিজস্ব কোনো উৎসব নেই। চত্বরের জীবন্ত মন্দিরগুলি পবিত্র বর্ষ বহন করে—বাল ব্রহ্মেশ্বরে মহাশিবরাত্রি, এবং দেবী জোগুলাম্বার জন্য নবরাত্রি ও দশেরা—এবং সেই দিনগুলিতে দর্শনার্থীরা সমগ্র প্রাঙ্গণ তীর্থযাত্রীতে পূর্ণ দেখেন। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "ভেতরে পা রাখার আগে উপরে তাকান: খোলা প্রাঙ্গণে একটু থমকে না দাঁড়ালে শিখরের নটরাজকে সহজেই অদেখা থেকে যেতে পারে। দরজায়, টিকে থাকা দ্বারপাল মানব-মাপে চালুক্য খোদাইয়ের এক নিবিড় দৃষ্টির উপযুক্ত প্রতিদান দেয়। উত্তরীয় সারির সবচেয়ে ভালোভাবে সংরক্ষিত বিশ্ব ব্রহ্ম পাশেই দাঁড়িয়ে আছে, তাই দুটিকে স্বাভাবিকভাবেই একসঙ্গে দেখা যায়।"
   },
   "visit": {
-    "timings": "The Navabrahma precinct is open to visitors through the day; as an ASI-protected site, hours and any entry charges for the precinct and museum should be confirmed locally.",
-    "dressCode": "Modest dress is appreciated across the precinct, which includes living shrines; remove footwear where asked.",
-    "photography": "Photography is generally allowed at the monuments; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away; the temple stands within the Navabrahma precinct by the Tungabhadra, opposite the site museum."
+    "timings": "নবব্রহ্ম চত্বর সারাদিন দর্শনার্থীদের জন্য খোলা; এএসআই-সংরক্ষিত স্থল হওয়ায় চত্বর ও জাদুঘরের সময়সূচি ও যেকোনো প্রবেশমূল্য স্থানীয়ভাবে নিশ্চিত করা উচিত।",
+    "dressCode": "জীবন্ত মন্দির অন্তর্ভুক্ত এই চত্বর জুড়ে বিনম্র পোশাক সমাদৃত; যেখানে বলা হয় সেখানে জুতো খুলে রাখুন।",
+    "photography": "স্মারকগুলিতে সাধারণত ছবি তোলা অনুমোদিত; ট্রাইপড বা পেশাদার শুটিংয়ের জন্য স্থল কর্তৃপক্ষের অনুমতি প্রয়োজন হতে পারে।",
+    "gettingThere": "আলমপুর জোগুলাম্বা গদওয়াল জেলায়, কুর্নুল থেকে প্রায় ২৫ কিমি এবং হায়দরাবাদ থেকে দক্ষিণে প্রায় ২২০ কিমি দূরে, হায়দরাবাদ–বেঙ্গালুরু মহাসড়কের (এনএইচ ৪৪) ঠিক পাশে। হায়দরাবাদ–কুর্নুল লাইনের আলমপুর রোড রেলস্টেশন প্রায় ৯ কিমি দূরে; মন্দিরটি তুঙ্গভদ্রার ধারে নবব্রহ্ম চত্বরের মধ্যে, স্থল-জাদুঘরের বিপরীতে দাঁড়িয়ে আছে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vira-brahma-alampur.mp3",
+    "durationSec": 174
   }
 }

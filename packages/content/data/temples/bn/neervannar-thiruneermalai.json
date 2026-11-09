@@ -1,30 +1,37 @@
 {
   "id": "neervannar-thiruneermalai",
   "locale": "bn",
+  "name": "নীরবণ্ণর পেরুমাল মন্দির, তিরুনীরমলৈ",
   "nativeName": "நீர்வண்ணப் பெருமாள் கோயில், திருநீர்மலை",
+  "deity": "বিষ্ণু নীরবণ্ণর পেরুমাল রূপে, দেবী অণিমামলর মঙ্গৈ থায়ার সহ — এবং পাহাড়ের চূড়ায় রঙ্গনাথ, শান্ত নরসিংহ ও উলগলন্দ পেরুমাল",
+  "tradition": "বৈষ্ণব",
   "location": {
-    "city": "Thiruneermalai, Chennai",
-    "state": "Tamil Nadu",
+    "city": "তিরুনীরমলৈ, চেন্নাই",
+    "state": "তামিলনাড়ু",
     "lat": 12.9636,
     "lng": 80.1147
   },
+  "period": "তোণ্ডৈ নাড়ুর একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গৈ আলবার ও ভূতত্তালবার দ্বারা গীত",
   "century": 8,
+  "dynasty": "পল্লব যুগের আলবার ঐতিহ্য (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "চেন্নাইয়ের দক্ষিণ-পশ্চিমে এক পাথুরে পাহাড়ে, তিরুনীরমলৈতে বিষ্ণু চারটি ভঙ্গিতে — দণ্ডায়মান, শায়িত, উপবিষ্ট ও পদক্ষেপরত — পূজিত, এই 'পবিত্র জল-পাহাড়ের' দিব্য দেশমে।",
   "sections": {
-    "history": "Thiruneermalai, on the south-western edge of Chennai near Pallavaram, is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Thondai Nadu. Thirumangai Alvar and Bhoothathalvar sang of the Lord here, which places the shrine within the age of the early Alvar hymns. The place is really two temples in one sacred hill: a shrine at the foot, where Neervannar Perumal stands with Animamalar Mangai Thayar, and a second temple on the summit. Pilgrims have long climbed between the two, taking in the Lord in each of his postures.",
-    "architecture": "Two temples share the rock. At the foot of the hill stand Neervannar Perumal, the shrines of Kalyana Rama and of Andal. A long flight of steps leads to the hilltop temple, where Ranganatha reclines beneath the Ranga Vimana with Ranganayaki Thayar, Shanta Narasimha is seated, and Ulagalanda Perumal strides forward as Trivikrama. The hilltop shrine faces east. Four sacred tanks are named — Kshira, Karunya, Svarna and Siddha Pushkarini.",
-    "legends": "The name Thiruneermalai means the hill of holy water. Tradition tells that Thirumangai Alvar came here to worship, but the hill was ringed by floodwater and he could not cross. He waited for months until the waters drew back, and only then received the vision of the Lord on the hill. The place thus remembers a devotee's patience, and the Lord who is dark as water, Neervannar, waits at its foot.",
-    "festivals": "Vaikunta Ekadashi is observed here, and the temple keeps an annual Brahmotsavam with processions of the Lord from the foot of the hill. The days of the Alvars are honoured in the customary Vaishnava manner. Confirm dates locally.",
-    "experience": "Few Divya Desams offer four postures of Vishnu in a single visit. Begin at the foot of the hill, then make the long climb to the summit, where the three forms of the hilltop temple wait; wear comfortable footwear for the steps. The climb is rewarded with a wide view over the surrounding country."
+    "history": "চেন্নাইয়ের দক্ষিণ-পশ্চিম প্রান্তে পল্লাবরমের কাছে অবস্থিত তিরুনীরমলৈ ১০৮টি দিব্য দেশমের একটি, নালায়িরা দিব্য প্রবন্ধমে আলবারগণ দ্বারা গীত বিষ্ণুর ধামসমূহের অন্যতম, এবং তোণ্ডৈ নাড়ুর অন্তর্গত। তিরুমঙ্গৈ আলবার ও ভূতত্তালবার এখানকার প্রভুর স্তব গেয়েছেন, যা মন্দিরটিকে আদি আলবার স্তবের যুগে স্থাপন করে। স্থানটি আসলে এক পবিত্র পাহাড়ে দুটি মন্দির: পাদদেশে একটি মন্দির, যেখানে নীরবণ্ণর পেরুমাল অণিমামলর মঙ্গৈ থায়ারের সঙ্গে দাঁড়িয়ে, এবং চূড়ায় দ্বিতীয় একটি মন্দির। তীর্থযাত্রীরা বহুকাল ধরে দুটির মধ্যে আরোহণ করে প্রভুকে তাঁর প্রতিটি ভঙ্গিতে দর্শন করেছেন।",
+    "architecture": "দুটি মন্দির একই পাথর ভাগ করে নেয়। পাহাড়ের পাদদেশে নীরবণ্ণর পেরুমাল, কল্যাণ রাম ও আণ্ডালের মন্দির দাঁড়িয়ে। একসারি দীর্ঘ সিঁড়ি চূড়ার মন্দিরে নিয়ে যায়, যেখানে রঙ্গনাথ রঙ্গ বিমানের নিচে রঙ্গনায়কী থায়ারের সঙ্গে শায়িত, শান্ত নরসিংহ উপবিষ্ট, এবং উলগলন্দ পেরুমাল ত্রিবিক্রম রূপে পদক্ষেপ করছেন। চূড়ার মন্দিরটি পূর্বমুখী। চারটি পবিত্র পুষ্করিণীর নাম — ক্ষীর, কারুণ্য, স্বর্ণ ও সিদ্ধ পুষ্করিণী।",
+    "legends": "তিরুনীরমলৈ নামের অর্থ পবিত্র জলের পাহাড়। ঐতিহ্য বলে, তিরুমঙ্গৈ আলবার এখানে পূজা করতে এসেছিলেন, কিন্তু পাহাড়টি বন্যার জলে ঘেরা ছিল এবং তিনি পার হতে পারেননি। তিনি মাসের পর মাস অপেক্ষা করেন যতক্ষণ না জল সরে যায়, এবং কেবল তখনই পাহাড়ে প্রভুর দর্শন পান। এভাবে স্থানটি এক ভক্তের ধৈর্যের স্মৃতি রাখে, আর জলের মতো শ্যাম প্রভু, নীরবণ্ণর, এর পাদদেশে প্রতীক্ষা করেন।",
+    "festivals": "এখানে বৈকুণ্ঠ একাদশী পালিত হয়, এবং মন্দিরে পাহাড়ের পাদদেশ থেকে প্রভুর শোভাযাত্রা সহ বার্ষিক ব্রহ্মোৎসব অনুষ্ঠিত হয়। আলবারদের দিনগুলি প্রথাগত বৈষ্ণব রীতিতে সম্মানিত হয়। তারিখ স্থানীয়ভাবে নিশ্চিত করুন।",
+    "experience": "অল্প কয়েকটি দিব্য দেশম একটিমাত্র দর্শনে বিষ্ণুর চারটি ভঙ্গি দেয়। পাহাড়ের পাদদেশ থেকে শুরু করুন, তারপর চূড়ায় দীর্ঘ আরোহণ করুন, যেখানে চূড়ার মন্দিরের তিনটি রূপ প্রতীক্ষারত; সিঁড়ির জন্য আরামদায়ক জুতো পরুন। আরোহণের পুরস্কার হলো চারপাশের দেশের উপর এক বিস্তৃত দৃশ্য।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "At Thiruneermalai on the south-western edge of Chennai, near Pallavaram in Chengalpattu district; reached by road from Pallavaram and Tambaram. Chennai International Airport at Meenambakkam is close by."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনের সময় ও দুপুরে বন্ধ থাকার সঙ্গে খোলা; উৎসবের দিন ও বৈকুণ্ঠ একাদশী সবচেয়ে ব্যস্ত। যাওয়ার আগে বর্তমান সময় নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে জুতো খুলে রাখতে হয়। প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "photography": "গর্ভগৃহে ও তার আশেপাশে ছবি তোলা নিষিদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "চেঙ্গলপট্টু জেলার পল্লাবরমের কাছে চেন্নাইয়ের দক্ষিণ-পশ্চিম প্রান্তে তিরুনীরমলৈতে; পল্লাবরম ও তাম্বরম থেকে সড়কপথে পৌঁছানো যায়। মীনম্বাক্কমে চেন্নাই আন্তর্জাতিক বিমানবন্দর কাছেই।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/neervannar-thiruneermalai.jpg",

@@ -1,29 +1,36 @@
 {
   "id": "kailasanathar-kodaganallur",
   "locale": "bn",
+  "name": "কৈলাসনাথর মন্দির, কোডগনল্লুর",
   "nativeName": "கைலாசநாதர் கோயில், கோடகநல்லூர்",
+  "deity": "শিব কৈলাসনাথর রূপে, দেবী শিবকামী-র সঙ্গে",
+  "tradition": "শৈবধর্ম",
   "location": {
-    "city": "Kodaganallur",
-    "state": "Tamil Nadu",
+    "city": "কোডগনল্লুর",
+    "state": "তামিলনাড়ু",
     "lat": 8.706,
     "lng": 77.626
   },
+  "period": "নব কৈলাসমের তৃতীয়টি, মঙ্গলের মন্দির; দ্বাদশ ও ত্রয়োদশ শতকের পাণ্ড্য শিলালিপি",
   "century": 12,
+  "dynasty": "পাণ্ড্য",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "নদীতীরের গ্রাম কোডগনল্লুরে, যার পুরনো নাম সর্প কর্কোটকের স্মৃতি বহন করে, শিব কৈলাসনাথর রূপে নব কৈলাসমের তৃতীয়টি, মঙ্গলের সঙ্গে সংযুক্ত মন্দির রক্ষা করেন।",
   "sections": {
-    "history": "Kodaganallur is a village on the Tamiraparani a short way west of Tirunelveli, just south of Nadukallur on the road towards Mukkudal. Its Kailasanathar temple is the third of the Nava Kailasam and the shrine of Mars, Sevvai. Inscriptions on its walls date to the Pandya period of the twelfth and thirteenth centuries, and they record the village under older names — Kodanur, and a chaturvedimangalam, a settlement granted to Vedic scholars. That learned character has stayed with Kodaganallur, a village of several old temples, among them the west-facing Abhimukteeswarar shrine on the riverbank and a temple of Vishnu.",
-    "architecture": "The temple is a compact Dravidian stone shrine of the Pandya country, its sanctum holding the lingam of Kailasanathar with the Goddess Sivakami in her own shrine. The inscribed walls are themselves part of its interest, carrying the record of the gifts and grants of the Pandya age. The sacred tree is the vilvam, whose leaves are offered to Shiva, and the temple's tirtham is the Tamiraparani flowing close by.",
-    "legends": "The village's older name was Karkotaka-nallur, after the great serpent Karkotaka of the epics — the naga who bit King Nala. Tradition holds that Karkotaka, seeking release from the burden of that deed, was told to worship Shiva on the banks of the Tamiraparani, and that his penance here won him liberation; the name wore down in time to Kodaganallur. In the Nava Kailasam story, it is where the third of the lotuses set afloat by the sage Romasa came to rest.",
-    "festivals": "The temple keeps the monthly pradosham, the Margazhi Thiruvathirai of the dancing Shiva, and Maha Shivaratri. As the shrine of Mars in the Nava Kailasam, it draws devotees on Tuesdays. Confirm dates locally.",
-    "experience": "Kodaganallur is a quiet village temple rather than a pilgrim town: a place to read the old letters cut into the walls, offer vilvam leaves, and walk down to the river. It is the third stop on the Nava Kailasam round, between Cheranmahadevi upstream and Kunnathur near Tirunelveli."
+    "history": "কোডগনল্লুর তাম্রপর্ণীর তীরে এক গ্রাম, তিরুনেলবেলির অল্প পশ্চিমে, নাডুকল্লুরের ঠিক দক্ষিণে মুক্কুডলের পথে। এর কৈলাসনাথর মন্দির নব কৈলাসমের তৃতীয়টি ও মঙ্গল, সেব্বৈ-র মন্দির। এর প্রাচীরের শিলালিপি দ্বাদশ ও ত্রয়োদশ শতকের পাণ্ড্য যুগের, এবং সেগুলি গ্রামটিকে পুরনো নামে নথিবদ্ধ করে—কোডনুর, এবং এক চতুর্বেদিমঙ্গলম, বৈদিক পণ্ডিতদের দান করা এক বসতি। সেই পাণ্ডিত্যপূর্ণ চরিত্র কোডগনল্লুরের সঙ্গে রয়ে গেছে, বেশ কয়েকটি পুরনো মন্দিরের এক গ্রাম, তাদের মধ্যে নদীতীরের পশ্চিমমুখী অভিমুক্তেশ্বর মন্দির ও একটি বিষ্ণু মন্দির।",
+    "architecture": "মন্দিরটি পাণ্ড্য দেশের এক সুসংহত দ্রাবিড় পাথরের মন্দির, এর গর্ভগৃহে কৈলাসনাথরের লিঙ্গ ও দেবী শিবকামী তাঁর নিজস্ব মন্দিরে। উৎকীর্ণ প্রাচীরগুলি নিজেরাই এর আকর্ষণের অংশ, পাণ্ড্য যুগের দান ও অনুদানের নথি বহন করে। পবিত্র বৃক্ষ হল বিল্ব, যার পাতা শিবকে নিবেদন করা হয়, এবং মন্দিরের তীর্থম কাছ দিয়ে বয়ে চলা তাম্রপর্ণী।",
+    "legends": "গ্রামের পুরনো নাম ছিল কর্কোটক-নল্লুর, মহাকাব্যের মহান সর্প কর্কোটকের নামে—সেই নাগ যিনি রাজা নলকে দংশন করেছিলেন। ঐতিহ্য বলে যে কর্কোটক, সেই কর্মের ভার থেকে মুক্তি চেয়ে, তাম্রপর্ণীর তীরে শিবের পূজা করতে নির্দেশিত হন, এবং এখানে তাঁর তপস্যা তাঁকে মুক্তি এনে দেয়; নামটি কালক্রমে ক্ষয়ে কোডগনল্লুর হয়। নব কৈলাসম কাহিনীতে, এখানে ঋষি রোমশ কর্তৃক ভাসানো তৃতীয় পদ্মটি এসে থেমেছিল।",
+    "festivals": "মন্দিরটি মাসিক প্রদোষম, নৃত্যরত শিবের মার্গঝি তিরুবাদিরৈ, এবং মহা শিবরাত্রি পালন করে। নব কৈলাসমে মঙ্গলের মন্দির হিসেবে, এটি মঙ্গলবার ভক্তদের আকর্ষণ করে। তারিখগুলি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "experience": "কোডগনল্লুর তীর্থ শহরের চেয়ে এক শান্ত গ্রাম মন্দির: প্রাচীরে কাটা পুরনো অক্ষর পড়ার, বিল্বপত্র নিবেদন করার ও নদীতে নেমে যাওয়ার এক স্থান। এটি নব কৈলাসম চক্রের তৃতীয় বিরতিস্থল, উজানে সেরন্মহাদেবী ও তিরুনেলবেলির কাছে কুন্নত্তুরের মাঝে।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; village temples may open later and close earlier than town shrines. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kodaganallur lies in Tirunelveli district, about 15–16 km from Tirunelveli Junction on the Tirunelveli–Mukkudal road; alight at Nadukallur and the temple is about a kilometre to the south. Tirunelveli is the nearest railway junction and Thoothukudi the nearest airport."
+    "timings": "সকাল ও সন্ধ্যার দর্শন সেশন ও দুপুরে বন্ধ রেখে প্রতিদিন খোলা; গ্রাম মন্দির শহরের মন্দিরের চেয়ে দেরিতে খুলতে ও আগে বন্ধ হতে পারে। পরিদর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করে নিন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত—কাঁধ ও হাঁটু ঢাকা; প্রবেশের আগে পাদুকা খোলা। দক্ষিণের বহু মন্দিরের মতো পুরুষদের ঐতিহ্যগতভাবে গর্ভগৃহের সামনে ঊর্ধ্বাঙ্গের বস্ত্র খুলতে বলা হয়; প্রদর্শিত নিয়ম অনুসরণ করুন।",
+    "photography": "গর্ভগৃহে ও তার আশপাশে ফটোগ্রাফি সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "কোডগনল্লুর তিরুনেলবেলি জেলায়, তিরুনেলবেলি জংশন থেকে তিরুনেলবেলি–মুক্কুডল সড়কে প্রায় ১৫–১৬ কিমি; নাডুকল্লুরে নামুন এবং মন্দিরটি দক্ষিণে প্রায় এক কিলোমিটার। তিরুনেলবেলি নিকটতম রেল জংশন ও তুতিকোরিন নিকটতম বিমানবন্দর।"
   }
 }

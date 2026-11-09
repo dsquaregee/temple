@@ -1,29 +1,36 @@
 {
   "id": "andalakkum-aiyan-adhanur",
   "locale": "bn",
+  "name": "আণ্ডলক্কুম অইয়ন মন্দির, তিরুআদানূর",
   "nativeName": "ஆண்டளக்கும் ஐயன் கோயில், திருவாதனூர்",
+  "deity": "বিষ্ণু আণ্ডলক্কুম অইয়ন রূপে, একটি পরিমাপ-পাত্রসহ শায়িত, দেবী ভার্গবীর (রঙ্গনায়কী) সঙ্গে",
+  "tradition": "বৈষ্ণব ধর্ম",
   "location": {
-    "city": "Thiruaadhanur (Adhanur)",
-    "state": "Tamil Nadu",
+    "city": "তিরুআদানূর (আদানূর)",
+    "state": "তামিলনাড়ু",
     "lat": 10.962,
     "lng": 79.315
   },
+  "period": "কাবেরী ও কোল্লিডমের মধ্যবর্তী চোল দেশের একটি দিব্য দেশম, নালায়িরা দিব্য প্রবন্ধমে তিরুমঙ্গাই আড়বার কর্তৃক স্তোত্রগীত",
   "century": 8,
+  "dynasty": "চোল দেশ, পরবর্তী সংযোজনসহ",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "স্বামিমালাইয়ের কাছে তিরুআদানূরে, বিষ্ণু আণ্ডলক্কুম অইয়ন রূপে শায়িত, পরিমাপ-পাত্রধারী প্রভু, যিনি ঐতিহ্য অনুসারে তিরুমঙ্গাই আড়বারের মন্দির-নির্মাতাদের মজুরি দিয়েছিলেন — একটি চোল নাড়ু দিব্য দেশম।",
   "sections": {
-    "history": "Thiruaadhanur is a village near Swamimalai, close to Kumbakonam, set in the rich country between the Kaveri and the Kollidam. Its temple is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Chola Nadu. The Lord here is Andalakkum Aiyan — 'the master who measures and rules' — with the Goddess Bhargavi, also called Ranganayaki. The shrine is bound up with Thirumangai Alvar, who sang it and whose great labour of renovating the Srirangam temple is remembered in the legend of this place. The village name itself is traced to Kamadhenu, the wish-granting cow: Thiru-aa-than-oor, 'the sacred place of the cow'.",
-    "architecture": "The temple follows the Dravidian plan of the Kaveri delta, its sanctum crowned by the Pranava Vimana, named for the sacred syllable Om. Within, the Lord reclines facing east and is shown with a marakkal, the measuring vessel of the paddy country, which devotees read as a sign that he weighs the hearts of those who come to him. Kamadhenu and her calf Nandini are present in the sanctum, recalling the cow's penance, and the temple tank is the Surya Pushkarini.",
-    "legends": "Tradition holds that Kamadhenu performed penance here and was blessed with the Lord's darshan. The best-loved story, however, belongs to Thirumangai Alvar. Renovating the Srirangam temple, he ran short of money to pay his workers, and on the bank of the Kollidam he met a merchant who had no coins — only a marakkal. The merchant measured out sand to the labourers, promising it would turn to gold for those who had truly worked; for the idle it stayed sand. Devotees believe the merchant was the Lord himself, and so he is Andalakkum Aiyan.",
-    "festivals": "A ten-day Brahmotsavam is celebrated around May–June, and Vaikunta Ekadashi in Margazhi (December–January) is observed as at every Sri Vaishnava shrine. Between festivals the temple is quiet, and the legend of the measured sand is the story pilgrims carry home. Confirm festival dates with the temple each year.",
-    "experience": "Look closely at the sanctum: the reclining Lord with his measuring vessel, and Kamadhenu with her calf beside him, make this one of the most distinctive images among the Kaveri Divya Desams. It is a modest village temple, unhurried outside festival days. Thiruaadhanur pairs naturally with Thirupullabhoothangudi and with the Murugan temple of Swamimalai, all within a short drive of Kumbakonam."
+    "history": "তিরুআদানূর স্বামিমালাইয়ের কাছে, কুম্বকোণমের নিকটবর্তী একটি গ্রাম, কাবেরী ও কোল্লিডমের মধ্যবর্তী সমৃদ্ধ অঞ্চলে অবস্থিত। এর মন্দির ১০৮টি দিব্য দেশমের একটি, বিষ্ণুর সেই আবাসগুলি যেগুলি আড়বাররা নালায়িরা দিব্য প্রবন্ধমে স্তোত্রগীত করেছিলেন, এবং এটি চোল নাড়ুর অন্তর্গত। এখানে প্রভু আণ্ডলক্কুম অইয়ন — 'যে প্রভু পরিমাপ করেন ও শাসন করেন' — দেবী ভার্গবীর সঙ্গে, যিনি রঙ্গনায়কী নামেও পরিচিত। মন্দিরটি তিরুমঙ্গাই আড়বারের সঙ্গে আবদ্ধ, যিনি একে স্তোত্রগীত করেছিলেন এবং যাঁর শ্রীরঙ্গম মন্দির সংস্কারের মহৎ শ্রম এই স্থানের কিংবদন্তিতে স্মরণীয়। গ্রামের নামটিই কামধেনু, ইচ্ছাপূরণকারী গাভীর সঙ্গে সংযুক্ত: তিরু-আ-তান-ঊর, 'গাভীর পবিত্র স্থান'।",
+    "architecture": "মন্দিরটি কাবেরী বদ্বীপের দ্রাবিড় পরিকল্পনা অনুসরণ করে, এর গর্ভগৃহ প্রণব বিমান দ্বারা শীর্ষাচ্ছাদিত, যা পবিত্র অক্ষর ওঁ-এর নামে নামাঙ্কিত। ভিতরে, প্রভু পূর্বমুখী শায়িত এবং একটি মরক্কল, ধান্য দেশের পরিমাপ-পাত্রসহ দেখানো হয়, যা ভক্তরা এই চিহ্ন হিসেবে পড়েন যে তিনি যাঁরা তাঁর কাছে আসেন তাঁদের হৃদয় পরিমাপ করেন। কামধেনু ও তাঁর বাছুর নন্দিনী গর্ভগৃহে উপস্থিত, গাভীর তপস্যা স্মরণ করিয়ে, এবং মন্দির পুষ্করিণী হল সূর্য পুষ্করিণী।",
+    "legends": "ঐতিহ্য বলে যে কামধেনু এখানে তপস্যা করেছিলেন এবং প্রভুর দর্শনে আশীর্বাদপ্রাপ্ত হয়েছিলেন। তবে সবচেয়ে প্রিয় কাহিনিটি তিরুমঙ্গাই আড়বারের। শ্রীরঙ্গম মন্দির সংস্কার করার সময়, তাঁর শ্রমিকদের মজুরি দেওয়ার মতো অর্থ ফুরিয়ে গিয়েছিল, এবং কোল্লিডমের তীরে তিনি এমন এক বণিকের দেখা পেলেন যাঁর কাছে কোনো মুদ্রা ছিল না — কেবল একটি মরক্কল। বণিক শ্রমিকদের বালি পরিমাপ করে দিলেন, এই প্রতিশ্রুতিসহ যে যাঁরা সত্যিই কাজ করেছেন তাঁদের জন্য তা সোনায় পরিণত হবে; অলসদের জন্য তা বালিই থেকে গেল। ভক্তরা বিশ্বাস করেন বণিক ছিলেন স্বয়ং প্রভু, এবং তাই তিনি আণ্ডলক্কুম অইয়ন।",
+    "festivals": "মে–জুন নাগাদ একটি দশ দিনের ব্রহ্মোৎসবম পালিত হয়, এবং মার্গড়িতে (ডিসেম্বর–জানুয়ারি) বৈকুণ্ঠ একাদশী প্রতিটি শ্রী বৈষ্ণব মন্দিরের মতোই পালিত হয়। উৎসবের মাঝে মন্দির শান্ত থাকে, এবং পরিমাপকৃত বালির কিংবদন্তি সেই কাহিনি যা তীর্থযাত্রীরা বাড়ি বহন করে নিয়ে যান। প্রতি বছর মন্দিরের সঙ্গে উৎসবের তারিখ নিশ্চিত করুন।",
+    "experience": "গর্ভগৃহ ভালো করে দেখুন: পরিমাপ-পাত্রধারী শায়িত প্রভু, এবং তাঁর পাশে বাছুরসহ কামধেনু, একে কাবেরীর দিব্য দেশমগুলির মধ্যে সবচেয়ে স্বতন্ত্র মূর্তিগুলির একটি করে তোলে। এটি একটি বিনম্র গ্রামীণ মন্দির, উৎসবের দিন ছাড়া অবিচল। তিরুআদানূর স্বাভাবিকভাবেই তিরুপুল্লভূতঙ্গুডি ও স্বামিমালাইয়ের মুরুগান মন্দিরের সঙ্গে জোড়া যায়, সবগুলিই কুম্বকোণম থেকে অল্প দূরত্বে।"
   },
   "visit": {
-    "timings": "Open daily for morning and evening darshan, with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is removed before entering. Follow posted rules and the guidance of the priests.",
-    "photography": "Photography is restricted in and around the sanctum; follow posted rules and the guidance of the priests.",
-    "gettingThere": "Thiruaadhanur (Adhanur) is a village near Swamimalai in Thanjavur district, a short drive from Kumbakonam by road. Kumbakonam has the nearest railway station; Tiruchirappalli has the nearest airport."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শনের জন্য মধ্যাহ্ন বিরতিসহ খোলা; উৎসবের দিনগুলি সবচেয়ে ব্যস্ত। পরিদর্শনের আগে বর্তমান সময়সূচি স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে পাদুকা খুলে রাখা হয়। প্রদর্শিত বিধি ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ছবি তোলা সীমিত; প্রদর্শিত বিধি ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "তিরুআদানূর (আদানূর) তাঞ্জাবুর জেলার স্বামিমালাইয়ের কাছে একটি গ্রাম, কুম্বকোণম থেকে সড়কপথে অল্প দূরত্বে। কুম্বকোণমে নিকটতম রেলস্টেশন; তিরুচিরাপল্লিতে নিকটতম বিমানবন্দর।"
   }
 }

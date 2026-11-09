@@ -1,30 +1,37 @@
 {
   "id": "sreevallabha-thiruvalla",
   "locale": "bn",
+  "name": "শ্রীবল্লভ মন্দির, তিরুবল্লা",
   "nativeName": "തിരുവല്ല ശ്രീവല്ലഭ മഹാക്ഷേത്രം",
+  "deity": "বিষ্ণু শ্রীবল্লভ রূপে, 'শ্রীর প্রিয়তম' — স্তোত্রের কোলাপ্পিরান — চতুর্ভুজ দণ্ডায়মান মূর্তিতে",
+  "tradition": "বৈষ্ণবধর্ম",
   "location": {
-    "city": "Thiruvalla, Pathanamthitta district",
-    "state": "Kerala",
+    "city": "তিরুবল্লা, পতনমথিট্টা জেলা",
+    "state": "কেরালা",
     "lat": 9.374,
     "lng": 76.562
   },
+  "period": "মলাই নাড়ুর একটি দিব্যদেশম, নালায়িরা দিব্যপ্রবন্ধমে নম্মালবার ও তিরুমঙ্গাই আলবার দ্বারা কীর্তিত",
   "century": 8,
+  "dynasty": "চের পেরুমাল (পরবর্তী কেরালা পৃষ্ঠপোষকদের সঙ্গে)",
+  "style": "কেরালা শৈলী",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "তিরুবল্লায় বিষ্ণু শ্রীবল্লভ রূপে, লক্ষ্মীর প্রিয়তম রূপে পূজিত — মলাই নাড়ুর একটি দিব্যদেশম যা নম্মালবার ও তিরুমঙ্গাই আলবার কীর্তন করেছিলেন, যেখানে ভগবানকে উপাসনারূপে কথাকলি নিবেদন করা হয়।",
   "sections": {
-    "history": "Thiruvalla — the Thiruvalvazh of the hymns — is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and a principal shrine of Malai Nadu; Nammalvar and Thirumangai Alvar both sang its lord, whom they called Kolappiran, 'the lord of beauty'. The temple's medieval importance is recorded in the Thiruvalla copper plates, a long grant of the Chera era that sets out lands and endowments for its worship. The town grew up around the shrine, and Sreevallabha remained at the heart of its life through the centuries of the Kerala kingdoms that followed.",
-    "architecture": "Built in the Kerala manner, the temple gathers its sanctum (srikovil) within the nalambalam cloister and a broad walled compound. Before it rises a tall Garuda pillar carved from a single stone and crowned by the figure of Garuda, Vishnu's eagle mount — one of the temple's great landmarks. Murals adorn the walls of the sanctum, and a Kathakali stage stands before the eastern entrance.",
-    "legends": "The sthala purana tells of a devout woman who kept the Ekadashi vow faithfully and longed to feed a brahmachari when it ended. The asura Thukalasura troubled the land, and Vishnu sent his discus Sudarshana to destroy him; then the lord himself came in the form of a young brahmachari to accept her offering. The god who came for love of a devotee of Sri is honoured here as Sreevallabha, and the discus Sudarshana, in the lord's raised hand, recalls the weapon that set the land free.",
-    "festivals": "The annual utsavam is celebrated with flag hoisting and processions, and Vaikunta Ekadashi draws devotees from across central Travancore. Kathakali performances, staged almost daily before the eastern entrance and offered as worship by devotees are a living part of the temple's ritual life, and on festival nights the drums and lamps of the dance-drama carry on long into the dark.",
-    "experience": "Arrive in the evening if you can, when the lamps are lit around the compound and a Kathakali performance may be offered to the lord. Spend a moment before the great Garuda pillar, look for the murals around the sanctum, and recall the Alvars who sang the beauty of Kolappiran in Tamil far from this Malayalam-speaking town."
+    "history": "তিরুবল্লা — স্তোত্রের তিরুবলবাঝ — হল ১০৮টি দিব্যদেশমের অন্যতম, নালায়িরা দিব্যপ্রবন্ধমে আলবারগণ কর্তৃক কীর্তিত বিষ্ণুর আবাসসমূহ, এবং মলাই নাড়ুর একটি প্রধান পীঠ; নম্মালবার ও তিরুমঙ্গাই আলবার উভয়েই এর ভগবানকে কীর্তন করেছিলেন, যাঁকে তাঁরা কোলাপ্পিরান, 'সৌন্দর্যের প্রভু' বলতেন। মন্দিরের মধ্যযুগীয় গুরুত্ব তিরুবল্লা তাম্রপট্টে লিপিবদ্ধ রয়েছে, চের যুগের এক দীর্ঘ দানপত্র যা এর উপাসনার জন্য ভূমি ও বৃত্তির বিবরণ দেয়। শহরটি এই পীঠকে ঘিরে গড়ে ওঠে, এবং পরবর্তী শতাব্দীগুলির কেরালা রাজ্যসমূহের মধ্য দিয়ে শ্রীবল্লভ এর জীবনের কেন্দ্রে অবিচল থেকেছেন।",
+    "architecture": "কেরালা রীতিতে নির্মিত, মন্দিরটি তার গর্ভগৃহ (শ্রীকোবিল) নালাম্বলম প্রদক্ষিণ-মণ্ডপ ও এক প্রশস্ত প্রাচীরবেষ্টিত প্রাঙ্গণের মধ্যে ধারণ করে। এর সামনে উঠে দাঁড়িয়েছে একটি উঁচু গরুড়স্তম্ভ, একখণ্ড পাথর থেকে খোদাই করা ও বিষ্ণুর বাহন ঈগল গরুড়ের মূর্তিতে শীর্ষায়িত — মন্দিরের অন্যতম মহান চিহ্ন। গর্ভগৃহের দেয়ালে ম্যুরাল শোভা পায়, এবং পূর্বদ্বারের সামনে একটি কথাকলি মঞ্চ রয়েছে।",
+    "legends": "স্থলপুরাণ এক ভক্তিমতী নারীর কথা বলে, যিনি একাদশী ব্রত নিষ্ঠার সঙ্গে পালন করতেন এবং ব্রত শেষে এক ব্রহ্মচারীকে ভোজন করাতে আকুল ছিলেন। অসুর থুকলাসুর দেশকে পীড়িত করছিল, এবং বিষ্ণু তাঁর সুদর্শন চক্র পাঠালেন তাকে বিনাশ করতে; তারপর ভগবান স্বয়ং এক তরুণ ব্রহ্মচারীর রূপে এসে তাঁর নিবেদন গ্রহণ করলেন। শ্রীর এক ভক্তের প্রেমে যে ভগবান এসেছিলেন, তিনি এখানে শ্রীবল্লভ রূপে সম্মানিত, এবং ভগবানের উত্থিত হস্তে সুদর্শন চক্র সেই অস্ত্রকে স্মরণ করায় যা দেশকে মুক্ত করেছিল।",
+    "festivals": "বার্ষিক উৎসবম ধ্বজারোহণ ও শোভাযাত্রা সহকারে উদযাপিত হয়, এবং বৈকুণ্ঠ একাদশী মধ্য ত্রাবাঙ্কুর জুড়ে ভক্তদের আকৃষ্ট করে। কথাকলি পরিবেশনা, পূর্বদ্বারের সামনে প্রায় প্রতিদিন মঞ্চস্থ হয় এবং ভক্তদের দ্বারা উপাসনারূপে নিবেদিত, মন্দিরের জীবন্ত আচার-জীবনের এক অংশ, এবং উৎসবের রাত্রিতে এই নৃত্যনাট্যের ঢাক ও প্রদীপ অন্ধকারে বহুদূর পর্যন্ত বয়ে চলে।",
+    "experience": "সম্ভব হলে সন্ধ্যায় আসুন, যখন প্রাঙ্গণ জুড়ে প্রদীপ জ্বলে এবং ভগবানের উদ্দেশে কথাকলি পরিবেশনা নিবেদিত হতে পারে। বিশাল গরুড়স্তম্ভের সামনে এক মুহূর্ত কাটান, গর্ভগৃহের চারপাশের ম্যুরালের খোঁজ করুন, এবং সেই আলবারদের স্মরণ করুন যাঁরা এই মালয়ালমভাষী শহর থেকে বহু দূরে তামিলে কোলাপ্পিরানের সৌন্দর্য গেয়েছিলেন।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure, following the temple's own schedule; festival days are crowded. Confirm current timings locally before you visit.",
-    "dressCode": "Traditional dress is expected: by Kerala temple custom men usually enter bare-chested in a mundu or dhoti, and women in saree or other traditional dress; footwear is left outside. Follow posted rules and the guidance of temple staff.",
-    "photography": "Photography is not permitted in and around the sanctum; follow posted rules and the guidance of temple staff.",
-    "gettingThere": "The temple is in Thiruvalla town, Pathanamthitta district. Thiruvalla railway station lies on the Ernakulam–Kottayam–Kollam line, the town is on the Main Central (MC) Road, and Kochi and Thiruvananthapuram have the nearest airports."
+    "timings": "প্রতিদিন সকাল ও সন্ধ্যার দর্শন ও মধ্যাহ্নে বন্ধের সঙ্গে খোলা থাকে, মন্দিরের নিজস্ব সূচি অনুসারে; উৎসবের দিনগুলিতে ভিড় হয়। যাওয়ার আগে স্থানীয়ভাবে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "ঐতিহ্যবাহী পোশাক প্রত্যাশিত: কেরালা মন্দিরের রীতি অনুসারে পুরুষরা সাধারণত মুণ্ডু বা ধুতি পরে ঊর্ধ্বাঙ্গ অনাবৃত অবস্থায় প্রবেশ করেন, এবং নারীরা শাড়ি বা অন্য ঐতিহ্যবাহী পোশাকে; পাদুকা বাইরে রাখা হয়। প্রদর্শিত নিয়ম ও মন্দিরকর্মীদের নির্দেশ অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে আলোকচিত্র গ্রহণ অনুমোদিত নয়; প্রদর্শিত নিয়ম ও মন্দিরকর্মীদের নির্দেশ অনুসরণ করুন।",
+    "gettingThere": "মন্দিরটি তিরুবল্লা শহরে, পতনমথিট্টা জেলায় অবস্থিত। তিরুবল্লা রেলস্টেশন এর্নাকুলাম–কোট্টায়ম–কোল্লাম লাইনে রয়েছে, শহরটি মেইন সেন্ট্রাল (এমসি) রোডের উপর, এবং কোচি ও তিরুবনন্তপুরমে নিকটতম বিমানবন্দর রয়েছে।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sreevallabha-thiruvalla.jpg",

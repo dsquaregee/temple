@@ -1,29 +1,40 @@
 {
   "id": "sakalabhuvaneswarar-tirumeeyachur",
   "locale": "bn",
+  "name": "সকলভুবনেশ্বরর মন্দির (ইলঙ্কোইল), তিরুমীয়াচ্চুর",
   "nativeName": "திருமீயச்சூர் இளங்கோயில் சகலபுவனேஸ்வரர் கோயில்",
+  "deity": "সকলভুবনেশ্বরর রূপে শিব, দেবী মেকলাম্বিকৈর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, তিরুনাবুক্করসর (অপ্পর) কর্তৃক স্তুত",
   "location": {
-    "city": "Tirumeeyachur, near Peralam",
-    "state": "Tamil Nadu",
+    "city": "তিরুমীয়াচ্চুর, পেরালমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9324,
     "lng": 79.6259
   },
+  "period": "তেবারম যুগ; মেঘনাথর চত্বরের মধ্যে চোল-যুগের ইলঙ্কোইল",
   "century": 10,
+  "dynasty": "চোল",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুমীয়াচ্চুরের মেঘনাথস্বামী মন্দির চত্বরের মধ্যে দাঁড়িয়ে আছে একটি দ্বিতীয়, পৃথক পাডল পেট্র স্থলম—ইলঙ্কোইল, 'তরুণ মন্দির'—যেখানে শিব সকলভুবনেশ্বরর রূপে দেবী মেকলাম্বিকৈর সঙ্গে পূজিত। তিরুনাবুক্করসর (অপ্পর) কর্তৃক স্তুত, মূল মন্দির নির্মাণকালে পূজায় রাখা অস্থায়ী মন্দির বালালয়ম রূপে এর উৎপত্তি থেকেই তীর্থটি এই নাম পেয়েছে। এভাবে ২৭৫টি তেবারম তীর্থের মধ্যে দুটি একটিই পবিত্র ভূমি ভাগ করে নেয়।",
   "sections": {
-    "history": "The Sakalabhuvaneswarar shrine at Tirumeeyachur is a distinct Paadal Petra Sthalam, counted among the 275 Tevaram shrines and sung by Appar. Its name, Ilankoil — the 'young temple' — comes from its origin as the balalayam: the temporary shrine kept in active worship while the great Meghanathar temple was under construction, so that the deity never went unworshipped. It stands to this day on the northern side of the Meghanathaswamy sanctum, within the same complex.",
-    "architecture": "The Ilankoil follows the Dravidian plan within the northern prakara of the Meghanathar temple. The presiding Sakalabhuvaneswarar faces east, while the goddess Mekalambikai faces south, each in a separate sanctum. Modest in scale beside the main shrine, it is nonetheless a full Paadal Petra temple in its own right, and its placement within a larger complex is part of what makes Tirumeeyachur unusual among Tevaram sites.",
-    "legends": "The sthala-purana of the shrine connects it to the birth of Vali and Sugreeva, the vanara brothers, and to Surya the sun-god, who is said to have been forgiven here. Another tradition, shared with the larger complex, tells of Shiva granting eggs to the two wives of the sage Kashyapa, from one of which Garuda was born. These stories place the Ilankoil within the rich mythic weave of Tirumeeyachur.",
-    "festivals": "As part of the Meghanathar complex, the Ilankoil shares in the temple's festival life, with the Shaiva observances of Maha Shivaratri, Pradosham and the Margazhi season, and the great Devi festivals of the main shrine. Devotees completing worship at Tirumeeyachur take in both Paadal Petra shrines, so the Ilankoil receives its share of the complex's steady devotion.",
-    "experience": "For the pilgrim, the Ilankoil offers the quiet pleasure of discovering a second Tevaram shrine within one temple — a reminder that at Tirumeeyachur the lord was kept in worship even as his larger house was being raised. The darshan of Sakalabhuvaneswarar completes a visit that is as much about the continuity of devotion as about any single sanctum."
+    "history": "তিরুমীয়াচ্চুরের সকলভুবনেশ্বরর তীর্থ একটি পৃথক পাডল পেট্র স্থলম, ২৭৫টি তেবারম তীর্থের মধ্যে গণ্য এবং অপ্পর কর্তৃক স্তুত। এর নাম, ইলঙ্কোইল—'তরুণ মন্দির'—বালালয়ম রূপে এর উৎপত্তি থেকে এসেছে: মহান মেঘনাথর মন্দির নির্মাণকালে সক্রিয় পূজায় রাখা অস্থায়ী তীর্থ, যাতে দেবতা কখনো অপূজিত না থাকেন। এটি আজও মেঘনাথস্বামী গর্ভগৃহের উত্তর দিকে, একই চত্বরের মধ্যে দাঁড়িয়ে আছে।",
+    "architecture": "ইলঙ্কোইল মেঘনাথর মন্দিরের উত্তর প্রাকারের মধ্যে দ্রাবিড় পরিকল্পনা অনুসরণ করে। অধিষ্ঠাতা সকলভুবনেশ্বরর পূর্বমুখী, আর দেবী মেকলাম্বিকৈ দক্ষিণমুখী, প্রত্যেকে পৃথক গর্ভগৃহে। মূল তীর্থের পাশে আকারে বিনম্র হলেও এটি নিজ অধিকারে এক পূর্ণ পাডল পেট্র মন্দির, এবং একটি বৃহত্তর চত্বরের মধ্যে এর অবস্থানই তিরুমীয়াচ্চুরকে তেবারম স্থানগুলির মধ্যে অস্বাভাবিক করে তোলার অন্যতম কারণ।",
+    "legends": "তীর্থের স্থল-পুরাণ একে বানর ভ্রাতৃদ্বয় বালী ও সুগ্রীবের জন্মের সঙ্গে, এবং সূর্যদেবের সঙ্গে যুক্ত করে, যিনি এখানে ক্ষমা লাভ করেছিলেন বলে কথিত। বৃহত্তর চত্বরের সঙ্গে ভাগ করা আরেকটি ঐতিহ্য বলে শিব ঋষি কাশ্যপের দুই স্ত্রীকে ডিম দান করেছিলেন, যার একটি থেকে গরুড় জন্মেছিলেন। এই কাহিনিগুলি ইলঙ্কোইলকে তিরুমীয়াচ্চুরের সমৃদ্ধ পৌরাণিক বুননের মধ্যে স্থাপন করে।",
+    "festivals": "মেঘনাথর চত্বরের অংশ হিসেবে, ইলঙ্কোইল মন্দিরের উৎসব-জীবনে অংশ নেয়, মহাশিবরাত্রি, প্রদোষম ও মার্গঝি মরসুমের শৈব আচার এবং মূল তীর্থের মহান দেবী উৎসবগুলির সঙ্গে। তিরুমীয়াচ্চুরে পূজা সম্পন্নকারী ভক্তরা উভয় পাডল পেট্র তীর্থ দর্শন করেন, তাই ইলঙ্কোইল চত্বরের অবিরাম ভক্তির নিজ ভাগ লাভ করে।",
+    "experience": "তীর্থযাত্রীর জন্য ইলঙ্কোইল একটি মন্দিরের মধ্যে একটি দ্বিতীয় তেবারম তীর্থ আবিষ্কারের নিরিবিলি আনন্দ দেয়—এই স্মারক যে তিরুমীয়াচ্চুরে প্রভুর বৃহত্তর গৃহ নির্মিত হওয়ার সময়েও তাঁকে পূজায় রাখা হয়েছিল। সকলভুবনেশ্বররের দর্শন এমন এক পরিদর্শন সম্পূর্ণ করে যা কোনো একক গর্ভগৃহের মতোই ভক্তির ধারাবাহিকতা নিয়েও।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "The Ilankoil is within the Meghanathaswamy temple complex at Tirumeeyachur, about 2 km from Peralam near Nannilam in Tiruvarur district; the nearest rail heads are Peralam and Mayiladuthurai."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত ও আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; প্রকাশিত সময় বিশেষত উৎসবের দিনে স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "সাধারণত বাইরের অলিন্দে ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "ইলঙ্কোইল তিরুমীয়াচ্চুরের মেঘনাথস্বামী মন্দির চত্বরের মধ্যে, তিরুবারুর জেলায় নন্নিলমের কাছে পেরালম থেকে প্রায় ২ কিমি দূরে অবস্থিত; নিকটতম রেলস্টেশন পেরালম ও ময়িলাড়ুতুরৈ।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/sakalabhuvaneswarar-tirumeeyachur.mp3",
+    "durationSec": 194
   }
 }

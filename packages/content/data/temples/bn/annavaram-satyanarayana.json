@@ -1,28 +1,35 @@
 {
   "id": "annavaram-satyanarayana",
   "locale": "bn",
+  "name": "শ্রী বীর বেঙ্কট সত্যনারায়ণ স্বামী মন্দির, অন্নবরম",
   "nativeName": "శ్రీ వీర వేంకట సత్యనారాయణ స్వామి ఆలయం, అన్నవరం",
+  "deity": "বিষ্ণু শ্রী সত্যনারায়ণ স্বামী রূপে, অনন্তলক্ষ্মীর সঙ্গে, রত্নগিরি পাহাড়ে",
+  "tradition": "বৈষ্ণব ধর্ম",
   "location": {
-    "city": "Annavaram",
-    "state": "Andhra Pradesh",
+    "city": "অন্নবরম",
+    "state": "অন্ধ্রপ্রদেশ",
     "lat": 17.2833,
     "lng": 82.4083
   },
+  "period": "পম্পার উপরে সত্যনারায়ণের একটি পাহাড়ি মন্দির, সর্বোপরি সত্যনারায়ণ ব্রতমের জন্য অন্বেষিত",
   "century": 19,
+  "dynasty": "স্থানীয় পৃষ্ঠপোষকতা; বর্তমান মন্দির আধুনিক যুগে নির্মিত",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [],
+  "summary": "পম্পা নদীর উপরে রত্নগিরি পাহাড়ে, বিষ্ণু অনন্তলক্ষ্মীর সঙ্গে সত্যনারায়ণ রূপে পূজিত হন — সত্যনারায়ণ ব্রতমের মহান আবাস, অসংখ্য তেলুগু পরিবারে পালিত সত্যের ব্রত।",
   "sections": {
-    "history": "Annavaram crowns the Ratnagiri hill by the Pampa river in the Godavari country of Andhra Pradesh. Here Vishnu is worshipped as Sri Veera Venkata Satyanarayana, the lord of truth, with his consort Anantalakshmi; it is among the most visited temples of coastal Andhra, sought above all by families keeping the Satyanarayana Vratam.",
-    "architecture": "The temple stands atop the hill in the Dravidian manner, its main shrine laid out as a cosmic diagram — a two-tiered structure with the presiding deity above and the Yantra of worship below, echoing the form of a great mandala. The hill is reached by road and by steps, with the Pampa winding below.",
-    "legends": "Satyanarayana is the form of Vishnu whose story is read at the Vratam — the vow by which a family, rich or poor, honours the lord of truth with a simple offering and the reading of his tale. The temple is held to grant the fruit of this vow, and pilgrims come to perform it before the god himself.",
-    "festivals": "Every day sees families performing the Satyanarayana Vratam, and full-moon days and Kalyanotsavam draw the greatest crowds. The god's own wedding festival and the Prabhala and hill festivals fill the year.",
-    "experience": "Annavaram is a temple of the household vow made pilgrimage — to climb the Ratnagiri and keep the Satyanarayana Vratam before the lord is, for many Telugu families, a once-in-a-lifetime fulfilment."
+    "history": "অন্নবরম অন্ধ্রপ্রদেশের গোদাবরী অঞ্চলে পম্পা নদীর পাশে রত্নগিরি পাহাড়ের শীর্ষে অবস্থিত। এখানে বিষ্ণু শ্রী বীর বেঙ্কট সত্যনারায়ণ, সত্যের প্রভু রূপে, তাঁর সহধর্মিণী অনন্তলক্ষ্মীর সঙ্গে পূজিত হন; এটি উপকূলীয় অন্ধ্রের সবচেয়ে বেশি পরিদর্শিত মন্দিরগুলির একটি, সর্বোপরি সেই পরিবারগুলির দ্বারা অন্বেষিত যাঁরা সত্যনারায়ণ ব্রতম পালন করেন।",
+    "architecture": "মন্দিরটি দ্রাবিড় রীতিতে পাহাড়ের চূড়ায় দাঁড়িয়ে আছে, এর প্রধান মন্দির একটি মহাজাগতিক নকশা হিসেবে পরিকল্পিত — একটি দ্বিস্তরীয় কাঠামো যার উপরে অধিষ্ঠাতা দেবতা এবং নিচে পূজার যন্ত্র, একটি মহান মণ্ডলের রূপের প্রতিধ্বনি তুলে। পাহাড়ে সড়ক ও সিঁড়ি দিয়ে পৌঁছানো যায়, পম্পা নিচে এঁকেবেঁকে বয়ে চলে।",
+    "legends": "সত্যনারায়ণ হলেন বিষ্ণুর সেই রূপ যাঁর কাহিনি ব্রতমে পড়া হয় — সেই ব্রত যার দ্বারা একটি পরিবার, ধনী বা দরিদ্র, একটি সরল নৈবেদ্য ও তাঁর কাহিনি পাঠের মাধ্যমে সত্যের প্রভুকে সম্মান করে। মন্দিরটি এই ব্রতের ফল দান করে বলে মনে করা হয়, এবং তীর্থযাত্রীরা স্বয়ং দেবতার সম্মুখে তা সম্পাদন করতে আসেন।",
+    "festivals": "প্রতিদিন পরিবারগুলি সত্যনারায়ণ ব্রতম সম্পাদন করতে দেখা যায়, এবং পূর্ণিমার দিন ও কল্যাণোৎসবম সবচেয়ে বড় ভিড় টানে। দেবতার নিজস্ব বিবাহ উৎসব এবং প্রভলা ও পাহাড়ি উৎসব বছর ভরিয়ে রাখে।",
+    "experience": "অন্নবরম তীর্থযাত্রায় পরিণত গৃহস্থের ব্রতের একটি মন্দির — রত্নগিরিতে আরোহণ করে প্রভুর সম্মুখে সত্যনারায়ণ ব্রতম পালন করা, বহু তেলুগু পরিবারের কাছে, জীবনে-একবারের এক পূর্ণতা।"
   },
   "visit": {
-    "timings": "Open daily from early morning to night with darshan and Vratam sessions; full-moon days and Kalyanotsavam are busiest, and the Vratam is best booked ahead. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Annavaram lies in Kakinada district of Andhra Pradesh, on the Chennai–Howrah route; it has its own railway station, and the hilltop is reached by road and by steps."
+    "timings": "প্রতিদিন ভোর থেকে রাত পর্যন্ত দর্শন ও ব্রতম অধিবেশনসহ খোলা; পূর্ণিমার দিন ও কল্যাণোৎসবম সবচেয়ে ব্যস্ত, এবং ব্রতম আগে থেকে বুক করাই উত্তম। পরিদর্শনের আগে বর্তমান সময়সূচি নিশ্চিত করুন।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত — কাঁধ ও হাঁটু ঢাকা থাকবে; প্রবেশের আগে পাদুকা খুলে রাখা হয়। প্রদর্শিত বিধি ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "photography": "গর্ভগৃহ ও তার চারপাশে ছবি তোলা সীমিত; প্রদর্শিত বিধি ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
+    "gettingThere": "অন্নবরম অন্ধ্রপ্রদেশের কাকিনাড়া জেলায়, চেন্নাই–হাওড়া পথে অবস্থিত; এর নিজস্ব রেলস্টেশন আছে, এবং পাহাড়ের চূড়ায় সড়ক ও সিঁড়ি দিয়ে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/annavaram-satyanarayana.jpg",

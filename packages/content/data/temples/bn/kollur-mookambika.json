@@ -1,30 +1,37 @@
 {
   "id": "kollur-mookambika",
   "locale": "bn",
+  "name": "কোল্লুর মূকাম্বিকা মন্দির",
   "nativeName": "ಕೊಲ್ಲೂರು ಮೂಕಾಂಬಿಕಾ ದೇವಸ್ಥಾನ",
+  "deity": "মূকাম্বিকা রূপে দেবী, শক্তি ও শিবকে একত্রিত করে",
+  "tradition": "শাক্তধর্ম ও শৈবধর্ম",
   "location": {
-    "city": "Kollur",
-    "state": "Karnataka",
+    "city": "কোল্লুর",
+    "state": "কর্ণাটক",
     "lat": 13.8646,
     "lng": 74.8146
   },
+  "period": "প্রাচীন মন্দির, মধ্যযুগ জুড়ে বিকশিত",
   "century": 12,
+  "dynasty": "স্থানীয় সর্দার ও কেলাড়ি নায়করা",
+  "style": "কেরল–তুলু ও দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "temples-of-coastal-karnataka"
   ],
+  "summary": "উপকূলীয় কর্ণাটকের কোডাচাদ্রি পর্বতের পাদদেশে কোল্লুর মূকাম্বিকা এক মহান দেবীমন্দির, যেখানে দেবী শিব ও শক্তির মিলন রূপে পূজিতা হন, বিশেষত বিদ্যাদাত্রী হিসেবে শ্রদ্ধেয় এবং ঐতিহ্যগতভাবে আদি শঙ্করের সঙ্গে যুক্ত।",
   "sections": {
-    "history": "Kollur lies in the Western Ghats above the Karnataka coast, on the Souparnika river below the peak of Kodachadri. The Mookambika shrine is ancient in tradition and was developed through the medieval centuries under local chiefs and the Keladi Nayakas. It is bound above all to Adi Shankara, the eighth-century teacher, who is said to have installed the goddess here in the form in which she is worshipped. Over the centuries Kollur grew into one of the foremost goddess pilgrimages of the west coast, drawing devotees from Karnataka, Kerala, and far beyond.",
-    "architecture": "The temple, in the Tulu-Kerala manner of the coast blended with Dravidian forms, enshrines the goddess before a distinctive jyotirlinga marked by a golden line, the svarna-rekha, which divides it into halves sacred to Shiva and to Shakti — so that the two are worshipped as one. A golden-roofed sanctum, pillared halls, and shrines to attendant deities cluster within, and the river Souparnika runs close by for the pilgrims’ ritual bath. Above the temple rises Kodachadri, its forested peak part of the sacred landscape.",
-    "legends": "The goddess takes her name from the demon Mookasura, whom she slew after he had been struck dumb — mooka — by the gods; as Mookambika she embodies the united power of Kali, Lakshmi, and Saraswati. Tradition holds that Adi Shankara, meditating on Kodachadri, was granted a vision of the Devi and asked her to come with him to a place he would consecrate; she agreed on condition he not look back, and when he did, at Kollur, she stayed, and here he installed her. The golden line on the linga marks this union of Shiva and the Mother.",
-    "festivals": "Navaratri is Kollur’s greatest festival, the nine nights of the goddess kept with special splendour, and Vidyarambha on Vijayadashami draws families who bring young children to begin their learning at the Devi’s feet, tracing the first letters in her presence. Rathotsava, the car festival, and the annual renewal festivals fill the temple through the year, and as the goddess of Saraswati’s wisdom, Mookambika receives students and scholars seeking her blessing on their studies.",
-    "experience": "Set in green hill country, Kollur offers a pilgrimage of cool river, forested slopes, and the quiet authority of the goddess. Pilgrims bathe in the Souparnika, then enter to stand before the linga with its golden line, where Shiva and Shakti are one. The Vidyarambha rite, tiny fingers guided to write the first letters in rice, is among the most touching sights in any Indian temple. Beyond the shrine, the peak of Kodachadri calls the more adventurous upward, and the whole valley keeps the fresh, unhurried air of the Ghats."
+    "history": "কোল্লুর কর্ণাটক উপকূলের উপরে পশ্চিমঘাটে, কোডাচাদ্রি শৃঙ্গের নিচে সৌপর্ণিকা নদীর তীরে অবস্থিত। মূকাম্বিকা মন্দির ঐতিহ্যগতভাবে প্রাচীন এবং স্থানীয় সর্দার ও কেলাড়ি নায়কদের অধীনে মধ্যযুগ জুড়ে বিকশিত হয়েছে। এটি সর্বোপরি অষ্টম শতকের শিক্ষক আদি শঙ্করের সঙ্গে জড়িত, যিনি বলা হয় যে দেবীকে এখানে সেই রূপে প্রতিষ্ঠা করেছিলেন যে রূপে তিনি পূজিতা হন। শতাব্দীর পর শতাব্দী ধরে কোল্লুর পশ্চিম উপকূলের অন্যতম প্রধান দেবী-তীর্থে পরিণত হয়, কর্ণাটক, কেরল এবং আরও বহু দূর থেকে ভক্তদের আকর্ষণ করে।",
+    "architecture": "উপকূলের তুলু-কেরল রীতিতে দ্রাবিড় রূপের সঙ্গে মিশ্রিত এই মন্দিরে দেবী এক স্বতন্ত্র জ্যোতির্লিঙ্গের সামনে বিরাজমান, যা এক স্বর্ণরেখা দ্বারা চিহ্নিত এবং শিব ও শক্তির পবিত্র দুই অর্ধে বিভক্ত — ফলে উভয়ে একত্রে পূজিত হন। স্বর্ণছাদযুক্ত গর্ভগৃহ, স্তম্ভযুক্ত মণ্ডপ এবং পরিচারক দেবতাদের মন্দিরগুলি ভেতরে একত্রিত, এবং তীর্থযাত্রীদের আনুষ্ঠানিক স্নানের জন্য সৌপর্ণিকা নদী কাছেই প্রবাহিত। মন্দিরের উপরে কোডাচাদ্রি উঠে গেছে, যার অরণ্যাবৃত শৃঙ্গ পবিত্র ভূদৃশ্যের অংশ।",
+    "legends": "দেবী মূকাসুর নামক অসুরের নাম থেকে তাঁর নাম পেয়েছেন, যাকে দেবতারা বোবা — মূক — করে দেওয়ার পর তিনি বধ করেন; মূকাম্বিকা রূপে তিনি কালী, লক্ষ্মী ও সরস্বতীর একীভূত শক্তির মূর্ত রূপ। ঐতিহ্য বলে যে কোডাচাদ্রিতে ধ্যানরত আদি শঙ্করকে দেবীর দর্শন লাভ হয় এবং তিনি দেবীকে এমন এক স্থানে তাঁর সঙ্গে আসতে বলেন যেখানে তিনি প্রতিষ্ঠা করবেন; দেবী এই শর্তে সম্মত হন যে তিনি পেছনে ফিরে তাকাবেন না, এবং কোল্লুরে যখন তিনি তাকান, দেবী থেকে যান, আর এখানেই তিনি তাঁকে প্রতিষ্ঠা করেন। লিঙ্গের উপর স্বর্ণরেখা শিব ও মাতৃশক্তির এই মিলন চিহ্নিত করে।",
+    "festivals": "নবরাত্রি কোল্লুরের সর্বশ্রেষ্ঠ উৎসব, দেবীর নয় রাত বিশেষ জাঁকজমকে পালিত হয়, এবং বিজয়াদশমীতে বিদ্যারম্ভ সেই পরিবারগুলিকে আকর্ষণ করে যারা ছোট শিশুদের দেবীর চরণে শিক্ষা শুরু করাতে আনে, তাঁর সান্নিধ্যে প্রথম অক্ষর অঙ্কন করে। রথোৎসব এবং বার্ষিক নবীকরণ উৎসব সারা বছর মন্দিরকে পূর্ণ রাখে, এবং সরস্বতীর জ্ঞানের দেবী হিসেবে মূকাম্বিকা পড়াশোনায় তাঁর আশীর্বাদ প্রার্থী ছাত্র ও পণ্ডিতদের গ্রহণ করেন।",
+    "experience": "সবুজ পাহাড়ি দেশে অবস্থিত, কোল্লুর শীতল নদী, অরণ্যাবৃত ঢাল এবং দেবীর শান্ত কর্তৃত্বের এক তীর্থযাত্রা প্রদান করে। তীর্থযাত্রীরা সৌপর্ণিকায় স্নান করে, তারপর স্বর্ণরেখাযুক্ত লিঙ্গের সামনে দাঁড়াতে প্রবেশ করে, যেখানে শিব ও শক্তি এক। বিদ্যারম্ভ অনুষ্ঠান, যেখানে ক্ষুদ্র আঙুলগুলি চালিত হয়ে চালের উপর প্রথম অক্ষর লেখে, যেকোনো ভারতীয় মন্দিরের অন্যতম হৃদয়স্পর্শী দৃশ্য। মন্দিরের বাইরে কোডাচাদ্রির শৃঙ্গ অধিক দুঃসাহসীদের উপরে ডাকে, এবং সমগ্র উপত্যকা ঘাটের সতেজ, নিরুদ্বিগ্ন আবহ ধরে রাখে।"
   },
   "visit": {
-    "timings": "Generally open from around 5:00 am to 9:00 pm daily with several pujas; hours extend during Navaratri and other festivals.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed at the temple.",
-    "photography": "Photography is generally not permitted inside the sanctum; follow posted rules and staff guidance.",
-    "gettingThere": "Kollur is in Udupi district, about 80 km from Udupi and Mangaluru, the latter with the nearest airport; the nearest railheads are Kundapura and Byndoor, and the temple is reached by road through the Ghats."
+    "timings": "সাধারণত প্রতিদিন সকাল প্রায় ৫:০০টা থেকে রাত ৯:০০টা পর্যন্ত বিভিন্ন পূজা সহকারে খোলা; নবরাত্রি ও অন্যান্য উৎসবে সময় বর্ধিত হয়।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক কাম্য, কাঁধ ও হাঁটু ঢাকা; মন্দিরে পাদুকা খুলে রাখা হয়।",
+    "photography": "গর্ভগৃহের ভেতরে সাধারণত আলোকচিত্র গ্রহণ অনুমোদিত নয়; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ মেনে চলুন।",
+    "gettingThere": "কোল্লুর উডুপি জেলায়, উডুপি ও মঙ্গালুরু থেকে প্রায় ৮০ কিলোমিটার দূরে, মঙ্গালুরুতে নিকটতম বিমানবন্দর; নিকটতম রেলপথ কুন্দাপুরা ও বিন্দুর, এবং মন্দিরটি ঘাটের মধ্য দিয়ে সড়কপথে পৌঁছানো যায়।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kollur-mookambika.jpg",

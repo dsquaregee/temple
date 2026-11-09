@@ -1,29 +1,40 @@
 {
   "id": "sivapuranathar-sivapuram",
   "locale": "bn",
+  "name": "শিবগুরুনাথস্বামী মন্দির, শিবপুরম",
   "nativeName": "சிவபுரம் சிவகுருநாதசுவாமி கோயில்",
+  "deity": "শিবগুরুনাথস্বামী (শিবপুরনাথর) রূপে শিব, দেবী আর্যাম্বাল ও সিঙ্গারবল্লীর সঙ্গে",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, তেবারমে স্তুত",
   "location": {
-    "city": "Sivapuram, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "শিবপুরম, কুম্বকোণমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.9683,
     "lng": 79.435
   },
+  "period": "তেবারম যুগ, চোল-যুগীয় গঠন সহ",
   "century": 9,
+  "dynasty": "চোল (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "কুম্বকোণমের অল্প পূর্বে শিবপুরম শিবকে শিবগুরুনাথস্বামী—শিবপুরনাথরও—রূপে পূজা করে, কাবেরী দেশের একটি পাডল পেট্র স্থলম, দেবী আর্যাম্বাল ও সিঙ্গারবল্লীর সঙ্গে। এর নামটিই এক ঐতিহ্য দিয়ে ব্যাখ্যা করা হয় যে এর মাটির নিচে অগণিত শিবলিঙ্গ শায়িত। কুবেরপুরী বলে স্মরণীয়, যেখানে কুবের দেবতাদের মধ্যে তাঁর স্থান ফিরে পান, এবং যেখানে বিষ্ণু তাঁর বরাহ রূপে প্রভুর পূজা করেন বলে কথিত, মন্দিরটি তার নিরিবিলি বদ্বীপ পরিবেশের নিচে এক স্তরবিশিষ্ট কাহিনি বহন করে।",
   "sections": {
-    "history": "Sivapuram, about six kilometres east of Kumbakonam, is an ancient Shaiva site revered in the Tevaram and counted among the Paadal Petra Sthalams of the Chola country. The stone temple is of the Chola period with later additions. Its layered historical names — Kuberapuram, Bhookailas, Shenbagaranyam — and the tradition of a village resting over countless buried lingams give the place a reputation for deep and hidden sanctity.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Sivagurunathaswamy. Uncommonly it has two goddess shrines, Aryambal and Singaravalli. The sthala vriksham is traditionally the shenbagam, the champak. The temple's reputation as 'Bhookailas' — Kailasa on earth — reflects the belief that the ground itself is dense with the presence of the lord.",
-    "legends": "Several stories gather at Sivapuram. Kubera, cursed by Nandi to be born on earth, came as the king Dhanapati and worshipped here, regaining his place among the gods — so the place is called Kuberapuri. Vishnu, in his boar (Varaha) form, is said to have worshipped the lord here with lotus flowers. The village name itself is explained by the belief that countless Shiva lingams lie beneath its soil. And it is told that when Sambandar came, he would not set foot on so sacred a ground, worshipping instead by rolling in circumambulation (angapradakshinam).",
-    "festivals": "The temple's foremost festival is the Aippasi Annabhishekam, in the Tamil month of Aippasi (October–November), when the lingam is bathed in cooked rice. The regular Shaiva observances of Maha Shivaratri, Pradosham and the Margazhi season are also kept, and the temple's Kubera association draws devotees seeking prosperity.",
-    "experience": "Sivapuram offers the pilgrim a temple whose quiet surface rests on a deep lore — a 'Kailasa on earth' said to hide countless lingams, where a god of wealth regained his place and the preserver himself came to worship. The darshan of Sivagurunathaswamy, close to the great temple town of Kumbakonam, rewards those who seek the layered sanctity of the delta."
+    "history": "কুম্বকোণম থেকে প্রায় ছয় কিলোমিটার পূর্বে শিবপুরম একটি প্রাচীন শৈব স্থল, তেবারমে পূজিত এবং চোল দেশের পাডল পেট্র স্থলমগুলির মধ্যে গণ্য। পাথরের মন্দিরটি চোল যুগের, পরবর্তী সংযোজন সহ। এর স্তরবিশিষ্ট ঐতিহাসিক নাম—কুবেরপুরম, ভূকৈলাস, শেণ্বগারণ্যম—এবং অগণিত সমাহিত লিঙ্গের উপর অবস্থিত একটি গ্রামের ঐতিহ্য স্থানটিকে গভীর ও গুপ্ত পবিত্রতার খ্যাতি দেয়।",
+    "architecture": "মন্দিরটি গোপুরম, প্রাকার ও শিবগুরুনাথস্বামীর গর্ভগৃহ সহ দ্রাবিড় পরিকল্পনা অনুসরণ করে। অস্বাভাবিকভাবে এর দুটি দেবী গর্ভগৃহ রয়েছে, আর্যাম্বাল ও সিঙ্গারবল্লী। স্থলবৃক্ষ ঐতিহ্যগতভাবে শেণ্বগম, অর্থাৎ চম্পক। মন্দিরের 'ভূকৈলাস'—পৃথিবীতে কৈলাস—খ্যাতি এই বিশ্বাস প্রতিফলিত করে যে ভূমি নিজেই প্রভুর উপস্থিতিতে ঘন।",
+    "legends": "শিবপুরমে কয়েকটি কাহিনি জড়ো হয়। কুবের, নন্দীর অভিশাপে পৃথিবীতে জন্ম নিতে বাধ্য হয়ে, রাজা ধনপতি রূপে আসেন ও এখানে পূজা করে দেবতাদের মধ্যে তাঁর স্থান ফিরে পান—তাই স্থানটিকে কুবেরপুরী বলা হয়। বিষ্ণু তাঁর বরাহ রূপে এখানে পদ্মফুল দিয়ে প্রভুর পূজা করেন বলে কথিত। গ্রামের নামটিই এই বিশ্বাস দিয়ে ব্যাখ্যা করা হয় যে এর মাটির নিচে অগণিত শিবলিঙ্গ শায়িত। আর বলা হয় যে সম্বন্দর যখন আসেন, তিনি এত পবিত্র ভূমিতে পা রাখতে চাননি, বরং প্রদক্ষিণে গড়িয়ে (অঙ্গপ্রদক্ষিণম) পূজা করেন।",
+    "festivals": "মন্দিরের প্রধানতম উৎসব হল তামিল আইপ্পাসি মাসে (অক্টোবর–নভেম্বর) আইপ্পাসি অন্নাভিষেকম, যখন লিঙ্গকে রাঁধা ভাতে স্নান করানো হয়। মহাশিবরাত্রি, প্রদোষম ও মার্গঝি কালের নিয়মিত শৈব আচারও পালিত হয়, এবং মন্দিরের কুবের সংযোগ সমৃদ্ধিপ্রার্থী ভক্তদের আকর্ষণ করে।",
+    "experience": "শিবপুরম তীর্থযাত্রীকে এমন একটি মন্দির উপহার দেয় যার নিরিবিলি উপরিতল এক গভীর কাহিনির উপর স্থিত—এক 'পৃথিবীতে কৈলাস' যা অগণিত লিঙ্গ লুকিয়ে রাখে বলে কথিত, যেখানে এক ধনদেবতা তাঁর স্থান ফিরে পান এবং পালনকর্তা স্বয়ং পূজা করতে আসেন। মহান মন্দিরনগর কুম্বকোণমের কাছে শিবগুরুনাথস্বামীর দর্শন তাঁদের পুরস্কৃত করে যাঁরা বদ্বীপের স্তরবিশিষ্ট পবিত্রতা খোঁজেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sivapuram is about 6 km east of Kumbakonam in Thanjavur district; Kumbakonam is the nearest rail head and town, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন পর্যন্ত এবং আবার বিকেল থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; বিশেষত উৎসবের দিনে সময় স্থানীয়ভাবে নিশ্চিত করুন।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো খুলে রাখতে হয়।",
+    "photography": "বাইরের অলিন্দে সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "শিবপুরম তাঞ্জাভুর জেলায় কুম্বকোণম থেকে প্রায় ৬ কিমি পূর্বে; কুম্বকোণম নিকটতম রেলস্টেশন ও শহর, সেখান থেকে গ্রামে স্থানীয় বাস ও ট্যাক্সি পাওয়া যায়।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/sivapuranathar-sivapuram.mp3",
+    "durationSec": 198
   }
 }

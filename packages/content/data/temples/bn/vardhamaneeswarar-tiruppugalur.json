@@ -1,29 +1,40 @@
 {
   "id": "vardhamaneeswarar-tiruppugalur",
   "locale": "bn",
+  "name": "বর্ধমানীশ্বরম, তিরুপ্পুগলুর",
   "nativeName": "திருப்புகலூர் வர்த்தமானீஸ்வரம்",
+  "deity": "তিরুপ্পুগলুরের অগ্নীশ্বরর মন্দিরের ভেতরে বর্ধমানীশ্বরর রূপে শিব",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম, তিরুজ্ঞানসম্বন্দর কর্তৃক স্তুত",
   "location": {
-    "city": "Tiruppugalur, near Nannilam",
-    "state": "Tamil Nadu",
+    "city": "তিরুপ্পুগলুর, নান্নিলমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.8667,
     "lng": 79.6
   },
+  "period": "তেবারম যুগ, চোল-যুগের গঠন সহ",
   "century": 7,
+  "dynasty": "চোল (পরবর্তী সংযোজন সহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "নান্নিলমের কাছে তিরুপ্পুগলুর একটি শ্রদ্ধেয় শৈব গ্রাম, যেখানে বিশাল অগ্নীশ্বরর মন্দির তার ভেতরে দ্বিতীয় একটি পাডল পেট্র স্থলম—তিরু-পুগলুর বর্ধমানীশ্বরম—ধারণ করে আছে, যা শিশু-সন্ত তিরুজ্ঞানসম্বন্দর কর্তৃক স্তুত। সন্ত সুন্দররের জন্য প্রভু সাধারণ ইট সোনায় পরিণত করেছিলেন বলে যে অলৌকিক ঘটনা, তার জন্য শহরটি বিখ্যাত, এবং আজও যাঁরা বাড়ি তৈরির উদ্যোগ নেন তাঁরা এখানে এসে একটি ইট নিবেদন করে আশীর্বাদ প্রার্থনা করেন। অগ্নিদেব এক অভিশাপ থেকে মুক্তি পেতে এখানে পূজা করেছিলেন বলে কথিত।",
   "sections": {
-    "history": "Tiruppugalur is an ancient Shaiva village near Nannilam, revered in the seventh-century Tevaram. Its principal temple is the Agneeswarar (Agnipureeswarar) temple, named for Agni the fire-god, who is said to have worshipped here to be freed from a curse. Uncommonly, the same complex also enshrines a distinct Paadal Petra Sthalam, Tiru-Pugalur Vardhamaneeswaram, which was glorified by the child-saint Tirugnanasambandar — so that two of the 275 Tevaram shrines are found on one sacred ground. The stonework is of the Chola period with later additions.",
-    "architecture": "The temple is a Dravidian complex of gopuram, prakara corridors and pillared halls. Within it the sanctum of Vardhamaneeswarar is counted as its own Paadal Petra Sthalam, alongside the main Agneeswarar sanctum. The inner precinct is rich with images — the sixty-three Nayanmars, Agni, the Pancha Linga, Appar, Vatapi Ganapati, Subramanya, Mahalakshmi and Kalasamhara among them — making the complex a compact gallery of the Shaiva pantheon.",
-    "legends": "The most beloved tradition is the miracle of the bricks. The saint Sundarar, needing wealth for the festival expenses of his wife Paravai Nachiyar, prayed here and slept upon a few ordinary bricks; by morning the lord had turned them to gold. From this grace comes the custom, kept to this day, by which those about to build a new house visit the temple, offer a brick to the deity and pray before laying their foundations. The temple also preserves the story of Agni worshipping Shiva here to be released from a curse, which gives the Agneeswarar sanctum its name.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi observances and the annual Brahmotsavam. The association with Sundarar and with the brick miracle gives special meaning to the days honouring the Nayanmars, and the custom of offering a brick before house-building brings a steady stream of family visits through the year.",
-    "experience": "Tiruppugalur rewards the pilgrim with a sense of layered sanctity — two Tevaram shrines in one, a crowded precinct of saints and gods, and a living custom that ties the temple to the ordinary hope of building a home. Standing before the sanctum of Vardhamaneeswarar, visitors feel the nearness of a grace that once turned bricks to gold and still blesses new beginnings."
+    "history": "তিরুপ্পুগলুর নান্নিলমের কাছে একটি প্রাচীন শৈব গ্রাম, সপ্তম শতকের তেবারমে শ্রদ্ধিত। এর প্রধান মন্দির হল অগ্নীশ্বরর (অগ্নিপুরীশ্বরর) মন্দির, অগ্নিদেবের নামে নামাঙ্কিত, যিনি এক অভিশাপ থেকে মুক্তি পেতে এখানে পূজা করেছিলেন বলে কথিত। অস্বাভাবিকভাবে, একই প্রাঙ্গণে একটি স্বতন্ত্র পাডল পেট্র স্থলম—তিরু-পুগলুর বর্ধমানীশ্বরম—ও প্রতিষ্ঠিত, যা শিশু-সন্ত তিরুজ্ঞানসম্বন্দর কর্তৃক মহিমান্বিত হয়েছিল—ফলে ২৭৫টি তেবারম তীর্থের দুটি এক পবিত্র ভূমিতে পাওয়া যায়। প্রস্তরকর্ম চোল যুগের, পরবর্তী সংযোজন সহ।",
+    "architecture": "মন্দিরটি গোপুরম, প্রাকার করিডর ও স্তম্ভযুক্ত মণ্ডপসহ একটি দ্রাবিড় প্রাঙ্গণ। এর ভেতরে বর্ধমানীশ্বররের গর্ভগৃহ, মূল অগ্নীশ্বরর গর্ভগৃহের পাশাপাশি, নিজেই একটি পাডল পেট্র স্থলম বলে গণ্য। অভ্যন্তরীণ অংশটি মূর্তিতে সমৃদ্ধ—তেষট্টি জন নায়ন্মার, অগ্নি, পঞ্চ লিঙ্গ, অপ্পর, বাটাপি গণপতি, সুব্রমণ্য, মহালক্ষ্মী ও কালসংহার এদের মধ্যে অন্যতম—যা প্রাঙ্গণটিকে শৈব দেবমণ্ডলের এক সংহত সংগ্রহশালায় পরিণত করে।",
+    "legends": "সবচেয়ে প্রিয় ঐতিহ্যটি হল ইটের অলৌকিক ঘটনা। সন্ত সুন্দরর, তাঁর স্ত্রী পরবৈ নাচিয়ারের উৎসবের ব্যয়ের জন্য ধনের প্রয়োজনে, এখানে প্রার্থনা করে কয়েকটি সাধারণ ইটের উপর ঘুমিয়ে পড়েন; সকালের মধ্যে প্রভু সেগুলি সোনায় পরিণত করে দেন। এই কৃপা থেকেই সেই প্রথা এসেছে, যা আজও রক্ষিত, যাতে যাঁরা নতুন বাড়ি তৈরির উদ্যোগ নেন তাঁরা মন্দিরে এসে দেবতাকে একটি ইট নিবেদন করে ভিত্তি স্থাপনের আগে প্রার্থনা করেন। মন্দিরটি অগ্নির শিবপূজার কাহিনিও সংরক্ষণ করে, যিনি এক অভিশাপ থেকে মুক্তি পেতে এখানে পূজা করেছিলেন, যা থেকে অগ্নীশ্বরর গর্ভগৃহ তার নাম পায়।",
+    "festivals": "মন্দিরটি শৈব উৎসব পঞ্জিকা পালন করে—মহাশিবরাত্রি, প্রদোষম, মার্গজি মাসের আচার ও বার্ষিক ব্রহ্মোৎসব। সুন্দরর ও ইটের অলৌকিক ঘটনার সঙ্গে সম্পর্ক নায়ন্মারদের সম্মানিত দিনগুলিকে বিশেষ অর্থ দেয়, এবং বাড়ি তৈরির আগে ইট নিবেদনের প্রথা সারা বছর পরিবারের একটি নিয়মিত স্রোতকে এখানে নিয়ে আসে।",
+    "experience": "তিরুপ্পুগলুর তীর্থযাত্রীকে স্তরে স্তরে সঞ্চিত পবিত্রতার অনুভূতি দেয়—একের মধ্যে দুটি তেবারম তীর্থ, সন্ত ও দেবতায় ভরা একটি জনাকীর্ণ প্রাঙ্গণ, এবং একটি জীবন্ত প্রথা যা মন্দিরটিকে বাড়ি তৈরির সাধারণ আশার সঙ্গে বেঁধে রাখে। বর্ধমানীশ্বররের গর্ভগৃহের সামনে দাঁড়িয়ে দর্শনার্থীরা সেই কৃপার নৈকট্য অনুভব করেন, যা একদা ইটকে সোনায় পরিণত করেছিল এবং আজও নতুন সূচনাকে আশীর্বাদ দেয়।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruppugalur is in Nagapattinam district near Nannilam, roughly 15 km from Nagapattinam and Tiruvarur; the nearest rail heads are Nannilam and Nagapattinam, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে মধ্যাহ্ন এবং আবার বিকেলের শেষ থেকে সন্ধ্যা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করুন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "বিনম্র ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা রেখে; প্রবেশপথে জুতো রেখে যেতে হয়।",
+    "photography": "বাইরের করিডরে সাধারণত ছবি তোলা অনুমোদিত কিন্তু গর্ভগৃহের ভেতরে নয়; আচারের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "তিরুপ্পুগলুর নাগাপট্টিনম জেলায় নান্নিলমের কাছে, নাগাপট্টিনম ও তিরুবারুর থেকে প্রায় ১৫ কিমি দূরে; নিকটতম রেলস্টেশন নান্নিলম ও নাগাপট্টিনম, গ্রাম পর্যন্ত স্থানীয় বাস ও ট্যাক্সি রয়েছে।"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vardhamaneeswarar-tiruppugalur.mp3",
+    "durationSec": 217
   }
 }

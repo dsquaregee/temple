@@ -1,29 +1,36 @@
 {
   "id": "mangalanathar-sirukudi",
   "locale": "bn",
+  "name": "মঙ্গলেশ্বরর মন্দির, সিরুকুড়ি",
   "nativeName": "சிறுகுடி மங்களேஸ்வரர் (சூக்ஷ்மபுரீஸ்வரர்) கோயில்",
+  "deity": "শিব মঙ্গলেশ্বরর (সূক্ষ্মপুরীশ্বরর) রূপে, দেবী মঙ্গলা নায়কী সহ",
+  "tradition": "শৈব — একটি পাডল পেট্র স্থলম্‌, সম্বন্দর কর্তৃক স্তুত",
   "location": {
-    "city": "Sirukudi, near Tirupampuram",
-    "state": "Tamil Nadu",
+    "city": "সিরুকুড়ি, তিরুপাম্পুরমের কাছে",
+    "state": "তামিলনাড়ু",
     "lat": 10.905,
     "lng": 79.6033
   },
+  "period": "তেবারম যুগ, চোল-যুগের গঠনসহ",
   "century": 9,
+  "dynasty": "চোল (পরবর্তী সংযোজনসহ)",
+  "style": "দ্রাবিড়",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "তিরুপাম্পুরমের অল্প পশ্চিমে সিরুকুড়ি শিবকে মঙ্গলেশ্বরর রূপে — সূক্ষ্মপুরীশ্বরর নামেও পরিচিত — দেবী মঙ্গলা নায়কীর সঙ্গে সম্মান জানায়। সম্বন্দর কর্তৃক স্তুত একটি পাডল পেট্র স্থলম্‌, এটি এক কোমল কাহিনি ধরে রাখে: কৈলাস পর্বতে এক পাশা খেলায় জয়ের পর শিব পার্বতীর দৃষ্টি থেকে সরে গেলে, তিনি এক মুঠো বালি দিয়ে একটি লিঙ্গ গড়ে এখানে পূজা করেছিলেন, এবং প্রভু প্রসন্ন হয়ে আবির্ভূত হয়ে তাঁকে ফিরিয়ে নিলেন। সেই মুঠো বালি, সিরুপিড়ি, থেকে গ্রামটি তার নাম নেয়।",
   "sections": {
-    "history": "Sirukudi is an ancient Shaiva village near Tirupampuram, hymned in the seventh-century Tevaram by Sambandar and counted among the Paadal Petra Sthalams. The stone temple is of the Chola period with later additions. Its layered names — Mangaleswarar for the goddess Mangala Nayaki, and Sookshmapureeswarar from the sthala legend — carry a tradition in which the lord, having grown 'subtle' and vanished on Kailasa, re-manifested here before his consort.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Mangaleswarar; the goddess Mangala Nayaki has her own shrine. A modest delta temple, it keeps the quiet, intimate scale of the lesser-known Paadal Petra shrines. Its nearness to Tirupampuram, three kilometres to the east, makes it a natural companion visit for pilgrims in that part of the delta.",
-    "legends": "The sthala-purana tells that on Mount Kailasa, Parvati won a game of dice against Shiva, after which the lord withdrew and became subtle, vanishing from her sight. Grieving, Parvati came to this place and made a lingam of a handful of sand — sirupidi — and worshipped it with deep devotion. Pleased, Shiva appeared before her and accepted her once more. Because the lord, having grown subtle (sookshma) on Kailasa, re-manifested here, the place is called Sookshmapuri and the deity Sookshmapureeswarar; and from the handful of sand the village takes the name Sirukudi.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham and the Margazhi season — at the quiet scale of a village shrine. The reunion legend gives the temple a gentle association with marital harmony and reconciliation, and local observances mark the Tamil months.",
-    "experience": "Sirukudi offers the pilgrim a tender story of separation and reunion at the heart of its worship — a goddess who won a game and then won her lord back with a handful of sand. The darshan of Mangaleswarar, close to the serpent-temple of Tirupampuram, rewards those who seek out the quieter Paadal Petra shrines with a story of love restored."
+    "history": "সিরুকুড়ি তিরুপাম্পুরমের কাছে এক প্রাচীন শৈব গ্রাম, সপ্তম শতকের তেবারমে সম্বন্দর কর্তৃক স্তুত এবং পাডল পেট্র স্থলম্‌গুলির মধ্যে গণ্য। প্রস্তরমন্দিরটি চোল যুগের, পরবর্তী সংযোজনসহ। এর স্তরায়িত নাম — দেবী মঙ্গলা নায়কীর জন্য মঙ্গলেশ্বরর, এবং স্থল কিংবদন্তি থেকে সূক্ষ্মপুরীশ্বরর — এমন এক ঐতিহ্য বহন করে যেখানে প্রভু, কৈলাসে 'সূক্ষ্ম' হয়ে অদৃশ্য হয়ে, এখানে তাঁর পত্নীর সামনে পুনরাবির্ভূত হয়েছিলেন।",
+    "architecture": "মন্দিরটি একটি গোপুরম, প্রাকার এবং মঙ্গলেশ্বররের গর্ভগৃহসহ দ্রাবিড় পরিকল্পনা অনুসরণ করে; দেবী মঙ্গলা নায়কীর নিজের মন্দির রয়েছে। একটি বিনম্র বদ্বীপ মন্দির, এটি স্বল্পপরিচিত পাডল পেট্র মন্দিরগুলির নিরিবিলি, অন্তরঙ্গ পরিসর বজায় রাখে। তিন কিলোমিটার পূর্বে তিরুপাম্পুরমের নৈকট্য একে বদ্বীপের সেই অংশের তীর্থযাত্রীদের জন্য এক স্বাভাবিক সঙ্গী দর্শন করে তোলে।",
+    "legends": "স্থল-পুরাণ বলে যে কৈলাস পর্বতে পার্বতী শিবের বিরুদ্ধে এক পাশা খেলায় জিতেছিলেন, এরপর প্রভু সরে গিয়ে সূক্ষ্ম হলেন, তাঁর দৃষ্টি থেকে অদৃশ্য হলেন। শোকার্ত পার্বতী এই স্থানে এসে এক মুঠো বালি দিয়ে — সিরুপিড়ি — একটি লিঙ্গ গড়লেন এবং গভীর ভক্তিতে তা পূজা করলেন। প্রসন্ন হয়ে শিব তাঁর সামনে আবির্ভূত হলেন এবং তাঁকে পুনরায় গ্রহণ করলেন। প্রভু কৈলাসে সূক্ষ্ম (সূক্ষ্ম) হয়ে এখানে পুনরাবির্ভূত হয়েছিলেন বলে স্থানটি সূক্ষ্মপুরী এবং দেবতা সূক্ষ্মপুরীশ্বরর নামে পরিচিত; এবং সেই মুঠো বালি থেকে গ্রামটি সিরুকুড়ি নাম নেয়।",
+    "festivals": "মন্দির শৈব উৎসব পঞ্জিকা — মহাশিবরাত্রি, প্রদোষম্‌ ও মার্গড়ি ঋতু — এক গ্রামীণ মন্দিরের নিরিবিলি পরিসরে রাখে। পুনর্মিলনের কিংবদন্তি মন্দিরকে দাম্পত্য সম্প্রীতি ও পুনর্মিলনের সঙ্গে এক কোমল যোগ দেয়, এবং স্থানীয় পালন তামিল মাসগুলি চিহ্নিত করে।",
+    "experience": "সিরুকুড়ি তীর্থযাত্রীকে তার পূজার কেন্দ্রে বিচ্ছেদ ও পুনর্মিলনের এক কোমল কাহিনি দেয় — এক দেবী যিনি এক খেলা জিতেছিলেন এবং তারপর এক মুঠো বালি দিয়ে তাঁর প্রভুকে ফিরে জিতেছিলেন। তিরুপাম্পুরমের সর্প-মন্দিরের কাছে মঙ্গলেশ্বররের দর্শন তাঁদের পুরস্কার দেয় যাঁরা প্রেম পুনরুদ্ধারের এক কাহিনিসহ নিরিবিলি পাডল পেট্র মন্দিরগুলি খুঁজে বের করেন।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sirukudi is in Tiruvarur district, about 3 km west of Tirupampuram and near Kuthalam; the nearest rail heads are Kuthalam and Mayiladuthurai, with local buses and taxis to the village."
+    "timings": "সাধারণত ভোর থেকে দুপুর এবং আবার বিকেল গড়িয়ে সন্ধ্যা পর্যন্ত খোলা থাকে; সময় স্থানীয়ভাবে নিশ্চিত করে নিন, বিশেষত উৎসবের দিনে।",
+    "dressCode": "শালীন ঐতিহ্যবাহী পোশাক প্রত্যাশিত, কাঁধ ও হাঁটু ঢাকা; প্রবেশদ্বারে জুতা রেখে যেতে হয়।",
+    "photography": "বাইরের প্রদক্ষিণপথে সাধারণত আলোকচিত্র তোলার অনুমতি আছে তবে গর্ভগৃহের ভেতরে নয়; পূজার ছবি তোলার আগে মন্দিরকর্মীদের জিজ্ঞাসা করুন।",
+    "gettingThere": "সিরুকুড়ি তিরুবারুর জেলায়, তিরুপাম্পুরমের প্রায় ৩ কিমি পশ্চিমে এবং কুত্তালমের কাছে; নিকটতম রেলস্টেশন কুত্তালম ও মাইলাডুতুরৈ, গ্রামে স্থানীয় বাস ও ট্যাক্সি সহ।"
   }
 }
