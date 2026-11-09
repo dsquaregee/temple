@@ -1,31 +1,38 @@
 {
   "id": "thiruvalangadu-vadaranyeswarar",
   "locale": "mr",
+  "name": "वडारण्येश्वर मंदिर, तिरुवालंगाडु",
   "nativeName": "வடாரண்யேசுவரர் கோயில், திருவாலங்காடு",
+  "deity": "वडारण्येश्वर रूपातील शिव, वटवनाचा स्वामी, ज्याने उग्र ऊर्ध्व नृत्य केले, देवी वंदारकुळलीसह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thiruvalangadu",
-    "state": "Tamil Nadu",
+    "city": "तिरुवालंगाडु",
+    "state": "तमिळनाडू",
     "lat": 13.1408,
     "lng": 79.6595
   },
+  "period": "उत्तर तमिळ प्रदेशातील प्राचीन पाडल पेट्र स्थळ, तेवारममध्ये गायलेले; चोळ काळातील बांधीव मंदिर",
   "century": 7,
+  "dynasty": "पल्लव आणि चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "pancha-sabhai-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "जुन्या चोळ प्रदेशात अरक्कोणमजवळील वटवृक्षांच्या राईत शिव वडारण्येश्वर म्हणून रत्नसभेत, म्हणजे रत्न सभैत, उभा आहे — जेथे त्याचे उग्र ऊर्ध्व नृत्य, ऊर्ध्व तांडव, करताना स्मरण केले जाते आणि जेथे संत कारैक्काल अम्मैयार यांनी त्याच्या चरणी गायन केले.",
   "sections": {
-    "history": "Thiruvalangadu — a name that means the banyan forest — lies in the old Tondai country of northern Tamil Nadu, near Arakkonam and within reach of Chennai. Its temple to Shiva as Vadaranyeswarar, the lord of the banyan wood, is a Paadal Petra Sthalam, sung by the Nayanmar saints in the Tevaram, with origins in deep antiquity and its stone shrines shaped under the Cholas. The place is bound above all to the memory of Karaikkal Ammaiyar, one of the earliest of the sixty-three Nayanmars, who is said to have come here to lie at the dancing feet of the lord; and its name lives on in the celebrated Thiruvalangadu copper-plates, a great Chola record.",
-    "architecture": "The temple stands in the mature Dravidian manner, entered through a gopuram and gathered around the sanctum of Vadaranyeswarar, with a separate shrine for the Goddess Vandarkuzhali. Its heart is the Ratna Sabhai, the hall of jewels, one of the five sabhas where Shiva is honoured as the cosmic dancer. Here the lord is shown in the rare and strenuous posture of the Urdhva Tandava, one leg raised straight upward — the fierce dance by which he is said to have prevailed — a form seldom seen among the many images of Nataraja.",
-    "legends": "The great legend of Thiruvalangadu tells of a dance contest between Shiva and the goddess Kali, who ruled the forest. To humble her pride the lord danced, and the two matched step for step, until Shiva raised his foot straight up above his head in the Urdhva Tandava — a posture that modesty forbade the goddess to imitate — and so she yielded, and took her place as the guardian of the shrine. Karaikkal Ammaiyar, the gaunt and devoted saint who had cast off all worldly beauty for the love of Shiva, witnessed the dance and sang it, and her presence hallows the temple still. As the Ratna Sabhai, the jewel hall, Thiruvalangadu takes its place among the five sabhas of the dancing lord, whose foremost is the golden hall at Chidambaram.",
-    "festivals": "The temple's year turns on Arudra Darshan, the Thiruvadirai festival sacred to Shiva as the dancer, when the shrine of the Urdhva Tandava is at the centre of worship. The annual car festival draws the surrounding villages, and the days sacred to Karaikkal Ammaiyar are kept with particular devotion. Pradosham evenings and the Shivaratri night fill the forest shrine with lamps and hymns.",
-    "experience": "Thiruvalangadu is a quiet forest temple away from the great pilgrim highways, rewarding for the devotee who seeks the rarer face of Shiva's dance and the memory of one of Tamil Shaivism's most beloved saints. It lies about 15 km from Arakkonam and within a day's reach of Chennai, and joins the other halls of the dance — the gold at Chidambaram, the silver at Madurai, the copper at Tirunelveli, and the painted hall at Courtallam — into the single pilgrimage of the five sabhas."
+    "history": "तिरुवालंगाडु — ज्या नावाचा अर्थ वटवन असा आहे — उत्तर तमिळनाडूच्या जुन्या तोंडै प्रदेशात, अरक्कोणमजवळ आणि चेन्नईपासून सहज पोहोचण्याजोग्या अंतरावर वसले आहे. वडारण्येश्वर, वटवनाचा स्वामी, या रूपातील शिवाचे येथील मंदिर पाडल पेट्र स्थळ असून नायनमार संतांनी तेवारममध्ये गायलेले आहे; त्याचे मूळ अतिप्राचीन काळात आहे आणि त्याची दगडी मंदिरे चोळांच्या काळात आकाराला आली. हे स्थळ सर्वांत जास्त कारैक्काल अम्मैयार यांच्या स्मृतीशी जोडलेले आहे, त्या तिरेसष्ट नायनमारांपैकी आद्य संतांपैकी एक असून नृत्यरत प्रभूच्या चरणी पडून राहण्यासाठी येथे आल्या असे सांगितले जाते; आणि त्याचे नाव प्रसिद्ध तिरुवालंगाडु ताम्रपटांमध्ये, एका महान चोळ नोंदीमध्ये, जिवंत आहे.",
+    "architecture": "मंदिर प्रगल्भ द्रविड शैलीत उभे आहे; गोपुरातून प्रवेश होतो आणि वडारण्येश्वरांच्या गर्भगृहाभोवती रचना एकवटलेली आहे, देवी वंदारकुळलीसाठी स्वतंत्र मंदिर आहे. त्याचे हृदय रत्न सभा, रत्नांचा सभामंडप, आहे, जो शिवाचा वैश्विक नर्तक म्हणून सन्मान केल्या जाणाऱ्या पाच सभांपैकी एक आहे. येथे प्रभू ऊर्ध्व तांडवाच्या दुर्मिळ आणि श्रमसाध्य मुद्रेत दाखवलेला आहे, एक पाय सरळ वर उचललेला — हे उग्र नृत्य ज्याने तो विजयी झाला असे सांगितले जाते — नटराजाच्या अनेक प्रतिमांमध्ये क्वचितच दिसणारे रूप.",
+    "legends": "तिरुवालंगाडुची महान कथा शिव आणि वनावर राज्य करणारी देवी काली यांच्यातील नृत्यस्पर्धेबद्दल सांगते. तिचा गर्व उतरवण्यासाठी प्रभूने नृत्य केले, आणि दोघांनी पदोपदी बरोबरी केली, जोपर्यंत शिवाने आपला पाय डोक्याच्या वर सरळ उचलला, ऊर्ध्व तांडवात — ज्या मुद्रेचे अनुकरण करण्यास लज्जेने देवीला मनाई होती — आणि म्हणून तिने हार मानली, आणि मंदिराची रक्षक म्हणून आपले स्थान स्वीकारले. शिवाच्या प्रेमासाठी सर्व ऐहिक सौंदर्य त्यागलेल्या कृश आणि निष्ठावान संत कारैक्काल अम्मैयार यांनी हे नृत्य पाहिले आणि त्याचे गायन केले, आणि त्यांच्या उपस्थितीने मंदिर आजही पवित्र आहे. रत्न सभा, रत्नांचा सभामंडप, म्हणून तिरुवालंगाडु नृत्यरत प्रभूच्या पाच सभांमध्ये स्थान घेते, ज्यांपैकी अग्रगण्य चिदंबरम येथील सुवर्ण सभा आहे.",
+    "festivals": "मंदिराचे वर्ष आरुद्रा दर्शनावर फिरते, नर्तक म्हणून शिवाला पवित्र असलेला तिरुवादिरै उत्सव, जेव्हा ऊर्ध्व तांडवाचे मंदिर पूजेच्या केंद्रस्थानी असते. वार्षिक रथोत्सव आजूबाजूच्या गावांना आकर्षित करतो, आणि कारैक्काल अम्मैयार यांना पवित्र असलेले दिवस विशेष भक्तीने पाळले जातात. प्रदोषाच्या संध्याकाळी आणि शिवरात्रीची रात्र वनातील हे मंदिर दिव्यांनी आणि स्तोत्रांनी भरून टाकतात.",
+    "experience": "तिरुवालंगाडु हे मोठ्या यात्रामार्गांपासून दूर असलेले शांत वनमंदिर आहे, शिवाच्या नृत्याचे दुर्मिळ रूप आणि तमिळ शैव परंपरेतील सर्वांत प्रिय संतांपैकी एकाची स्मृती शोधणाऱ्या भक्ताला समाधान देणारे. ते अरक्कोणमपासून सुमारे १५ किमी अंतरावर आणि चेन्नईपासून एका दिवसाच्या अंतरावर आहे, आणि नृत्याचे इतर सभामंडप — चिदंबरमचे सुवर्ण, मदुराईचे रजत, तिरुनेलवेलीचे ताम्र आणि कुट्रालमचे चित्र सभामंडप — यांच्यासह पाच सभांच्या एकाच यात्रेत जोडले जाते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Arudra Darshan and Pradosham evenings are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvalangadu lies in Tiruvallur district, about 15 km from Arakkonam and roughly 70 km from Chennai, reachable by road and by the suburban rail line toward Arakkonam."
+    "timings": "दररोज सकाळ आणि संध्याकाळ दर्शनाच्या सत्रांसह उघडे असते आणि दुपारी बंद असते; आरुद्रा दर्शन आणि प्रदोषाच्या संध्याकाळी सर्वाधिक गर्दी असते. जाण्यापूर्वी सध्याच्या वेळांची खात्री करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे काढावीत. अनेक दक्षिणी मंदिरांप्रमाणे पुरुषांना गर्भगृहासमोर वरचे वस्त्र काढण्यास परंपरेने सांगितले जाते; लावलेले नियम पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या भोवती छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुवालंगाडु तिरुवळ्ळूर जिल्ह्यात अरक्कोणमपासून सुमारे १५ किमी आणि चेन्नईपासून सुमारे ७० किमी अंतरावर आहे; रस्त्याने तसेच अरक्कोणमच्या दिशेने जाणाऱ्या उपनगरीय रेल्वे मार्गाने पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",

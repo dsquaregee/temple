@@ -1,29 +1,36 @@
 {
   "id": "thirunaraiyur-nambi-nachiyarkoil",
   "locale": "mr",
+  "name": "तिरुनरैयूर नम्बी मंदिर, नाचियारकोईल",
   "nativeName": "திருநறையூர் நம்பி கோயில், நாச்சியார்கோயில்",
+  "deity": "तिरुनरैयूर नम्बी (श्रीनिवास पेरुमाळ) रूपातील विष्णू, देवी वंजुळवल्ली नाचियार यांच्यासह, ज्यांचा मुख्य देवता म्हणून सन्मान केला जातो — कल गरुडाचे निवासस्थान",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Nachiyarkoil",
-    "state": "Tamil Nadu",
+    "city": "नाचियारकोईल",
+    "state": "तमिळनाडू",
     "lat": 10.916,
     "lng": 79.446
   },
+  "period": "चोळ प्रदेशातील एक दिव्य देश, नालायिर दिव्य प्रबंधमध्ये तिरुमंगै आळवारांनी गायलेला",
   "century": 8,
+  "dynasty": "चोळ (परंपरा कोचेंगट चोळाला श्रेय देते)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "कुंभकोणमजवळील नाचियारकोईल येथे विष्णूची पूजा तिरुनरैयूर नम्बी रूपात वंजुळवल्ली नाचियारच्या शेजारी केली जाते, जिचा सन्मान मंदिर आधी करते — तिरुमंगै आळवारांनी गायलेला हा दिव्य देश कल गरुडासाठी प्रसिद्ध आहे.",
   "sections": {
-    "history": "Nachiyarkoil, also called Thirunaraiyur, lies a few kilometres south-east of Kumbakonam. It is one of the 108 Divya Desams in Chola Nadu, sung by Thirumangai Alvar in the Nalayira Divya Prabandham, who calls the shrine Mani Mada Koil, the temple of the jewelled mansions, and the Lord \"Naraiyur Nindra Nambi\". The temple is attributed to Kochengat Chola, and is noted as the only Vishnu temple credited to him, his other foundations being Shiva temples. Tradition adds that Thirumangai Alvar received the Vaishnava initiation, the Pancha Samskaram, from the Lord here. The Goddess is regarded as the principal deity, which is why the village is called Nachiyar Koil, the temple of the Nachiyar.",
-    "architecture": "The sanctum stands under the Srinivasa Vimanam, and the temple tank is the Manimukta Pushkarini. Thirunaraiyur Nambi is worshipped as Srinivasa Perumal, with the Goddess Vanjulavalli Nachiyar in her own prominent shrine. The most distinctive feature is the Kal Garuda, the stone Garuda in his own shrine, whose image is carved of stone yet is carried in procession. The temple is built in the Dravidian manner of the Chola country.",
-    "legends": "The sthala purana tells of the sage Medhavi, a devotee of Vishnu, who wished to have the Lord as his son-in-law. Lakshmi appeared as his daughter Vanjulavalli, and Vishnu came to Thirunaraiyur and wedded her; the Goddess is therefore honoured here before the Lord. The Kal Garuda carries its own tradition: when taken out in procession, the stone image is said to grow heavier, so that four bearers lift it at the shrine and many more by the time it leaves the temple. It is believed to relieve the afflictions of the planets.",
-    "festivals": "The Kal Garuda procession is the temple's best-known observance, held twice a year, on the fourth day of the Margazhi festival and of the Panguni festival. Vaikunta Ekadashi is also observed. Confirm festival dates locally, as they follow the Tamil almanac; Kal Garuda days are very crowded.",
-    "experience": "Come to see the Goddess honoured before the Lord, and the Kal Garuda in his shrine. A pilgrim who reads Thirumangai Alvar's Mani Mada Koil verses will find the name still living in the village. The temple is quieter outside festival days and combines well with other Divya Desams near Kumbakonam."
+    "history": "नाचियारकोईल, ज्याला तिरुनरैयूरही म्हणतात, कुंभकोणमच्या काही किलोमीटर आग्नेयेला वसले आहे. हे चोळ नाडूमधील १०८ दिव्य देशांपैकी एक असून नालायिर दिव्य प्रबंधमध्ये तिरुमंगै आळवारांनी गायले आहे; ते या तीर्थाला मणि मड कोईल, म्हणजे रत्नजडित महालांचे मंदिर, आणि प्रभूला \"नरैयूर निन्र नम्बी\" असे संबोधतात. मंदिर कोचेंगट चोळाचे मानले जाते, आणि त्याचे हे एकमेव विष्णू मंदिर म्हणून नोंदले जाते, कारण त्याच्या इतर निर्मिती शिवमंदिरे आहेत. परंपरा पुढे सांगते की तिरुमंगै आळवारांना येथे प्रभूकडून वैष्णव दीक्षा, म्हणजे पंच संस्कार, मिळाली. देवीला मुख्य देवता मानले जाते, म्हणूनच गावाला नाचियार कोईल, म्हणजे नाचियारचे मंदिर, म्हणतात.",
+    "architecture": "गर्भगृह श्रीनिवास विमानाखाली उभे आहे, आणि मंदिराचा तलाव मणिमुक्ता पुष्करिणी आहे. तिरुनरैयूर नम्बीची पूजा श्रीनिवास पेरुमाळ म्हणून केली जाते, आणि देवी वंजुळवल्ली नाचियार तिच्या स्वतंत्र प्रमुख मंदिरात आहे. सर्वात वैशिष्ट्यपूर्ण गोष्ट म्हणजे कल गरुड, म्हणजे स्वतंत्र मंदिरातील दगडी गरुड, ज्याची मूर्ती दगडात कोरलेली असूनही मिरवणुकीत वाहून नेली जाते. मंदिर चोळ प्रदेशाच्या द्रविड पद्धतीने बांधलेले आहे.",
+    "legends": "स्थळपुराण विष्णूभक्त मेधावी ऋषींबद्दल सांगते, ज्यांना प्रभूला जावई म्हणून मिळवण्याची इच्छा होती. लक्ष्मी त्यांची कन्या वंजुळवल्ली म्हणून प्रकट झाली, आणि विष्णू तिरुनरैयूरला आले आणि त्यांनी तिच्याशी विवाह केला; म्हणून येथे प्रभूच्या आधी देवीचा सन्मान केला जातो. कल गरुडाची स्वतःची परंपरा आहे: मिरवणुकीत बाहेर नेताना दगडी मूर्ती जड होत जाते असे म्हणतात, त्यामुळे मंदिरात चार वाहक ती उचलतात आणि मंदिरातून बाहेर पडेपर्यंत अनेक अधिक वाहक लागतात. ती ग्रहांचे क्लेश दूर करते असे मानले जाते.",
+    "festivals": "कल गरुड मिरवणूक हा मंदिराचा सर्वाधिक प्रसिद्ध विधी असून तो वर्षातून दोनदा, मार्गळी उत्सवाच्या आणि पंगुनी उत्सवाच्या चौथ्या दिवशी, होतो. वैकुंठ एकादशीही पाळली जाते. उत्सवाच्या तारखा तमिळ पंचांगानुसार ठरत असल्याने त्या स्थानिक ठिकाणी खात्री करून घ्या; कल गरुडाच्या दिवशी खूप गर्दी असते.",
+    "experience": "देवीचा प्रभूच्या आधी होणारा सन्मान आणि कल गरुडाला त्याच्या मंदिरात पाहण्यासाठी या. तिरुमंगै आळवारांची मणि मड कोईलची पदे वाचणाऱ्या यात्रेकरूला हे नाव गावात आजही जिवंत असलेले आढळेल. उत्सवाच्या दिवसांव्यतिरिक्त मंदिर अधिक शांत असते आणि कुंभकोणमजवळील इतर दिव्य देशांशी त्याची उत्तम सांगड घालता येते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is the busiest day. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Nachiyarkoil lies roughly 8–10 km south-east of Kumbakonam, in the Cauvery delta. Kumbakonam is the nearest railway station, and Tiruchirappalli International Airport the nearest major airport; buses and taxis from Kumbakonam cover the road journey."
+    "timings": "दररोज सकाळ आणि संध्याकाळ दर्शनाच्या सत्रांसह उघडे असते आणि दुपारी बंद असते; वैकुंठ एकादशी हा सर्वाधिक गर्दीचा दिवस असतो. जाण्यापूर्वी सध्याच्या वेळांची खात्री करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या भोवती छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "नाचियारकोईल कावेरी त्रिभुज प्रदेशात कुंभकोणमच्या सुमारे ८–१० किमी आग्नेयेला आहे. कुंभकोणम हे जवळचे रेल्वे स्थानक असून तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ हे जवळचे मोठे विमानतळ आहे; कुंभकोणमहून बसेस आणि टॅक्सी रस्त्याच्या प्रवासाची सोय करतात."
   }
 }
