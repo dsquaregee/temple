@@ -1,31 +1,38 @@
 {
   "id": "lakshmana-perumal-thirumoozhikkulam",
   "locale": "mr",
+  "name": "लक्ष्मण पेरुमाळ मंदिर, तिरुमुळिक्कुळम",
   "nativeName": "തിരുമൂഴിക്കുളം ലക്ഷ്മണ പെരുമാൾ ക്ഷേത്രം",
+  "deity": "विष्णू लक्ष्मण पेरुमाळ रूपात — स्तोत्रांतील तिरुमुळिक्कळमचा स्वामी — चतुर्भुज रूपात उभा",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Moozhikkulam, Ernakulam district",
-    "state": "Kerala",
+    "city": "मुळिक्कुळम, एर्नाकुलम जिल्हा",
+    "state": "केरळ",
     "lat": 10.188,
     "lng": 76.328
   },
+  "period": "चालाकुडी नदीकाठचा मलई नाडूचा दिव्य देशम; नाळायिर दिव्य प्रबंधात नम्माळवार आणि तिरुमंगै आळवार यांनी गायलेला",
   "century": 8,
+  "dynasty": "चेर पेरुमाळ (तसेच नंतरचे केरळीय आश्रयदाते)",
+  "style": "केरळ",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "nalambalam"
   ],
+  "summary": "चालाकुडी नदीकाठी मुळिक्कुळम येथे विष्णूची लक्ष्मण पेरुमाळ रूपात पूजा होते — नम्माळवार आणि तिरुमंगै आळवार यांनी गायलेला मलई नाडूचा दिव्य देशम, आणि रामायण मासातील चार नालंबलम देवालयांपैकी एक.",
   "sections": {
-    "history": "Thirumoozhikkalam — today Moozhikkulam, in Ernakulam district — is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Malai Nadu; both Nammalvar and Thirumangai Alvar sang its lord. In the age of the Chera Perumals the Moozhikkulam settlement gave its name to the Moozhikkalam Kacham, a medieval covenant on temple and land administration known from Kerala inscriptions. Today it is best known as one of the Nalambalam, the four temples of the Rama brothers — Rama at Thriprayar, Bharata at Irinjalakuda, Lakshmana here at Moozhikkulam and Shatrughna at Payammal — visited together in a single day in the month of Karkidakam.",
-    "architecture": "The temple is built in the traditional Kerala manner: a sanctum (srikovil) beneath sloping roofs, wrapped by the nalambalam cloister, with the balikkal altar stone and the flagstaff on the approach. The riverside setting is part of its character, the Chalakudy river flowing close to the temple grounds. Within the sanctum the lord, worshipped as Lakshmana, stands in the four-armed form of Vishnu, receiving the worship of the Kerala rite.",
-    "legends": "The sthala purana tells that the sage Harita performed penance here, and that Vishnu appeared and blessed him with sacred teaching — the 'thiru mozhi', the holy word, that tradition hears in the name Thirumoozhikkalam. Kerala tradition also holds that the four images of the Nalambalam, once worshipped far away, came ashore on the Kerala coast and were enshrined by a local chieftain, each brother in his own temple — Lakshmana here, beside the river.",
-    "festivals": "The temple's annual festival is kept with flag hoisting and processions, and Vaikunta Ekadashi is observed. Its busiest season, though, is Karkidakam (July–August), the Ramayana month, when pilgrims make the Nalambalam darshan, visiting the shrines of Rama, Bharata, Lakshmana and Shatrughna in order on a single day.",
-    "experience": "Come in Karkidakam to join the Nalambalam pilgrims, or in another season for a quieter darshan by the river. The traditional order runs from Thriprayar to Irinjalakuda, then Moozhikkulam and Payammal, ideally completed before the temples close at midday. Sit a while by the Chalakudy river and remember the Alvars, who sang this lord long before the pilgrimage took its present form."
+    "history": "तिरुमुळिक्कळम — आजचे मुळिक्कुळम, एर्नाकुलम जिल्ह्यात — हे १०८ दिव्य देशमांपैकी एक आहे; आळवारांनी नाळायिर दिव्य प्रबंधात गायलेली ती विष्णूची निवासस्थाने होत, आणि हे मलई नाडूमध्ये येते; नम्माळवार आणि तिरुमंगै आळवार या दोघांनीही येथील स्वामीचे गायन केले. चेर पेरुमाळांच्या काळात मुळिक्कुळम वस्तीमुळे मुळिक्कळम कचम हे नाव पडले, जो मंदिर आणि जमीन व्यवस्थापनावरील मध्ययुगीन करार केरळच्या शिलालेखांतून ज्ञात आहे. आज हे नालंबलमपैकी एक म्हणून सर्वाधिक प्रसिद्ध आहे; हीच रामबंधूंची चार मंदिरे — त्रिप्रयारला राम, इरिंजालकुडा येथे भरत, येथे मुळिक्कुळमला लक्ष्मण आणि पायम्मलला शत्रुघ्न — कर्किडकम महिन्यात एकाच दिवसात दर्शन घेतली जातात.",
+    "architecture": "मंदिर पारंपरिक केरळी पद्धतीने बांधलेले आहे: उतरत्या छपरांखाली गर्भगृह (श्रीकोविल), त्याभोवती नालंबलम प्रदक्षिणामार्ग, आणि प्रवेशमार्गावर बलिक्कल वेदीशिळा आणि ध्वजस्तंभ. नदीकाठचे स्थान हा त्याच्या स्वरूपाचा एक भाग आहे; चालाकुडी नदी मंदिराच्या आवाराजवळून वाहते. गर्भगृहात लक्ष्मण म्हणून पूजिला जाणारा स्वामी विष्णूच्या चतुर्भुज रूपात उभा असून केरळ विधीनुसार पूजा स्वीकारतो.",
+    "legends": "स्थलपुराण सांगते की हारीत ऋषींनी येथे तपश्चर्या केली, आणि विष्णू प्रकट होऊन त्यांना पवित्र उपदेशाचा — 'तिरु मोळी' म्हणजे पवित्र वचनाचा — आशीर्वाद देता झाला; परंपरा हे तिरुमुळिक्कळम नावात ऐकते. केरळ परंपरा असेही मानते की नालंबलमच्या चारही मूर्ती, पूर्वी दूर कुठेतरी पूजिल्या जात असत, केरळच्या किनाऱ्यावर आल्या आणि एका स्थानिक सरदाराने त्यांची प्रतिष्ठापना केली, प्रत्येक बंधू आपापल्या मंदिरात — लक्ष्मण येथे, नदीकाठी.",
+    "festivals": "मंदिराचा वार्षिक उत्सव ध्वजारोहण आणि मिरवणुकांसह साजरा होतो, आणि वैकुंठ एकादशी पाळली जाते. मात्र याचा सर्वाधिक गर्दीचा काळ कर्किडकम (जुलै–ऑगस्ट) हा रामायण महिना असतो, जेव्हा यात्रेकरू नालंबलम दर्शन घेतात, आणि एकाच दिवसात राम, भरत, लक्ष्मण आणि शत्रुघ्न यांच्या देवालयांना क्रमाने भेट देतात.",
+    "experience": "नालंबलम यात्रेकरूंमध्ये सामील होण्यासाठी कर्किडकम महिन्यात या, किंवा नदीकाठी शांत दर्शनासाठी इतर ऋतूत या. पारंपरिक क्रम त्रिप्रयारपासून इरिंजालकुडा, नंतर मुळिक्कुळम आणि पायम्मल असा आहे, आणि मंदिरे दुपारी बंद होण्यापूर्वी तो पूर्ण करणे उत्तम. चालाकुडी नदीकाठी काही काळ बसा आणि आळवारांचे स्मरण करा, ज्यांनी यात्रेला सध्याचे स्वरूप येण्याच्या खूप आधी या स्वामीचे गायन केले."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure, following the temple's own schedule; festival days are crowded. Confirm current timings locally before you visit.",
-    "dressCode": "Traditional dress is expected: by Kerala temple custom men usually enter bare-chested in a mundu or dhoti, and women in saree or other traditional dress; footwear is left outside. Follow posted rules and the guidance of temple staff.",
-    "photography": "Photography is not permitted in and around the sanctum; follow posted rules and the guidance of temple staff.",
-    "gettingThere": "Moozhikkulam lies near the Chalakudy river in Ernakulam district and is reached by road from Aluva or Angamaly. Both towns have railway stations, and Cochin International Airport at Nedumbassery is close by."
+    "timings": "रोज सकाळ-संध्याकाळ दर्शन आणि दुपारी बंद अशा मंदिराच्या स्वतःच्या वेळापत्रकानुसार खुले; उत्सवाच्या दिवशी गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर पडताळून घ्या.",
+    "dressCode": "पारंपरिक पोशाख अपेक्षित आहे: केरळ मंदिर प्रथेनुसार पुरुष सहसा मुंडू किंवा धोतर नेसून उघड्या अंगाने प्रवेश करतात, आणि स्त्रिया साडी किंवा इतर पारंपरिक पोशाखात; पादत्राणे बाहेर काढली जातात. लावलेले नियम आणि मंदिर कर्मचाऱ्यांच्या सूचनांचे पालन करा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणास परवानगी नाही; लावलेले नियम आणि मंदिर कर्मचाऱ्यांच्या सूचनांचे पालन करा.",
+    "gettingThere": "मुळिक्कुळम एर्नाकुलम जिल्ह्यात चालाकुडी नदीजवळ असून आलुवा किंवा अंगमाली येथून रस्त्याने पोहोचता येते. दोन्ही शहरांत रेल्वेस्थानके आहेत, आणि नेदुंबास्सेरी येथील कोचीन आंतरराष्ट्रीय विमानतळ जवळच आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/lakshmana-perumal-thirumoozhikkulam.jpg",

@@ -1,30 +1,37 @@
 {
   "id": "lakshmi-narasimha-thiruvali",
   "locale": "mr",
+  "name": "लक्ष्मी नरसिंह पेरुमाळ मंदिर, तिरुवळी",
   "nativeName": "அழகிய சிங்கர் கோயில், திருவாலி–திருநகரி",
+  "deity": "तिरुवळी येथे अळगियसिंगर (लक्ष्मी नरसिंह) रूपातील विष्णू, लक्ष्मी त्याच्या शेजारी विराजमान, आणि तिरुनगरी येथे वेदराजन रूपात, उत्सवमूर्ती कल्याण रंगनाथर",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruvali (with Thirunagari), near Sirkazhi",
-    "state": "Tamil Nadu",
+    "city": "तिरुवळी (तिरुनगरीसह), सीरकाळीजवळ",
+    "state": "तमिळनाडू",
     "lat": 11.2036,
     "lng": 79.7744
   },
+  "period": "चोळ प्रदेशातील दिव्य देशम; दोन शेजारची देवालये, तिरुमंगै आळवारांनी नाळायिर दिव्य प्रबंधात एकत्र गायिलेली",
   "century": 8,
+  "dynasty": "चोळ प्रदेश (नंतरचे आश्रयदाते)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "सीरकाळीजवळ तिरुवळी आणि तिरुनगरी ही जुळी देवालये मिळून एक दिव्य देशम होतात, जेथे नरसिंहाचा अळगियसिंगर म्हणून गौरव केला जातो — तिरुमंगै आळवारांचा मूलप्रदेश, ज्यांनी त्यांना एकत्र गायिले.",
   "sections": {
-    "history": "Thiruvali and Thirunagari are two neighbouring villages near Sirkazhi, in the Mayiladuthurai country, and their two temples are counted together as a single Divya Desam — one of the 108 abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham — in Chola Nadu. Thirumangai Alvar praised the pair together, in 41 pasurams. Thirunagari is held to be his home country, and tradition says that his consort Kumudavalli was raised there. At Thiruvali the presiding lord is Azhagiyasingar, Lakshmi Narasimha, with the Goddess as Poornavalli, also named Amruthagadavalli. At Thirunagari stands the Vedarajan temple, whose festival image is Kalyana Ranganathar. Its antiquity is carried by the Alvar's hymns.",
-    "architecture": "The Thiruvali temple is a Dravidian shrine of the Chola country, with the Ilakshmi Pushkarini as its tank. Its sanctum is unusual among Narasimha temples: the Goddess Lakshmi is seated on the lord's right side. A south-facing shrine of Thirumangai Alvar stands outside the temple walls. At Thirunagari, the Vedarajan temple has its own shrine of the Alvar, facing north, in a raised enclosure.",
-    "legends": "Tradition tells that Narasimha appeared to Thirumangai Alvar at Thiruvali, and the shrine remembers that meeting. A second legend binds the two temples: Lakshmi is said to have left Vaikuntha and hidden herself in a lotus bud in the tank at Thirunagari. The two villages are thus held to be one story told in two places. Tradition also remembers Thirunagari as the place where Kumudavalli, the Alvar's consort, grew up.",
-    "festivals": "The most prominent festival is the Thirumangai Alvar Utsavam in the month of Thai (January–February), when the Alvar is honoured at both temples. A Garuda Sevai is also observed in January. The temples keep four daily rituals and three yearly festivals.",
-    "experience": "Plan to visit both temples, close together, since they are one Divya Desam. At Thiruvali look for Lakshmi seated beside Narasimha; at Thirunagari seek out the Alvar's shrine and the Vedarajan sanctum. The visit pairs well with the nearby Sirkazhi temples."
+    "history": "तिरुवळी आणि तिरुनगरी ही सीरकाळीजवळ, मयिलाडुतुरै प्रदेशातील दोन शेजारची गावे असून त्यांची दोन मंदिरे मिळून एकच दिव्य देशम गणली जातात — आळवार संतांनी नाळायिर दिव्य प्रबंधात गायिलेल्या विष्णूच्या १०८ निवासस्थानांपैकी एक — चोळ नाडूमध्ये. तिरुमंगै आळवारांनी या जोडीचे ४१ पाशुरांमधून एकत्र गुणगान केले. तिरुनगरी हे त्यांचे मूलप्रदेश मानले जाते, आणि परंपरा सांगते की त्यांची पत्नी कुमुदवल्ली तेथेच वाढली. तिरुवळी येथे अधिष्ठाता स्वामी अळगियसिंगर, लक्ष्मी नरसिंह आहेत, आणि देवी पूर्णवल्ली, जिला अमृतगडवल्ली असेही म्हणतात. तिरुनगरी येथे वेदराजन मंदिर आहे, ज्याची उत्सवमूर्ती कल्याण रंगनाथर आहे. याची प्राचीनता आळवारांच्या स्तोत्रांतून प्रकट होते.",
+    "architecture": "तिरुवळी मंदिर चोळ प्रदेशातील द्रविड शैलीचे देवालय असून इलक्ष्मी पुष्करिणी हे त्याचे सरोवर आहे. नरसिंह मंदिरांमध्ये याचे गर्भगृह वेगळे आहे: देवी लक्ष्मी स्वामीच्या उजव्या बाजूला विराजमान आहे. तिरुमंगै आळवारांचे दक्षिणाभिमुख देवालय मंदिराच्या तटबंदीच्या बाहेर आहे. तिरुनगरी येथील वेदराजन मंदिरात आळवारांचे स्वतःचे देवालय, उत्तराभिमुख, उंचावलेल्या आवारात आहे.",
+    "legends": "परंपरा सांगते की तिरुवळी येथे नरसिंह तिरुमंगै आळवारांना प्रकट झाले, आणि देवालय त्या भेटीचे स्मरण जपते. दुसरी कथा या दोन मंदिरांना जोडते: लक्ष्मीने वैकुंठ सोडले आणि तिरुनगरी येथील सरोवरातील कमळकळीत स्वतःला लपवले, असे सांगितले जाते. म्हणून ही दोन गावे दोन ठिकाणी सांगितलेली एकच कथा मानली जातात. परंपरा तिरुनगरीचे स्मरण आळवारांची पत्नी कुमुदवल्ली जेथे वाढली त्या स्थानाच्या रूपातही करते.",
+    "festivals": "सर्वांत प्रमुख उत्सव म्हणजे थाई महिन्यातील (जानेवारी–फेब्रुवारी) तिरुमंगै आळवार उत्सवम, जेव्हा दोन्ही मंदिरांत आळवारांचा सन्मान केला जातो. जानेवारीत गरुड सेवाही पाळली जाते. मंदिरांत चार दैनंदिन विधी आणि तीन वार्षिक उत्सव साजरे होतात.",
+    "experience": "दोन्ही मंदिरांना भेट देण्याचे नियोजन करा; ती जवळ जवळ आहेत, कारण ते एकच दिव्य देशम आहे. तिरुवळी येथे नरसिंहाच्या शेजारी विराजमान लक्ष्मीला पाहा; तिरुनगरी येथे आळवारांचे देवालय आणि वेदराजन गर्भगृह शोधा. ही भेट जवळच्या सीरकाळी येथील मंदिरांशी उत्तम जुळते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvali and Thirunagari lie close together near Sirkazhi in Mayiladuthurai district, reached by road from Sirkazhi. Sirkazhi, on the Chennai–Mayiladuthurai rail line, is the nearest station; the nearest major airport is Tiruchirappalli, about 160 km away."
+    "timings": "रोज सकाळ-संध्याकाळ दर्शन सत्रांसह आणि दुपारी बंद असे खुले; भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर पडताळून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करा.",
+    "gettingThere": "तिरुवळी आणि तिरुनगरी मयिलाडुतुरै जिल्ह्यात सीरकाळीजवळ एकमेकांच्या जवळ असून सीरकाळीहून रस्त्याने पोहोचता येते. चेन्नई–मयिलाडुतुरै रेल्वेमार्गावरील सीरकाळी हे जवळचे स्थानक आहे; जवळचे मोठे विमानतळ तिरुचिरापल्ली, सुमारे १६० किमी अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/lakshmi-narasimha-thiruvali.jpg",

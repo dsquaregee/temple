@@ -1,28 +1,35 @@
 {
   "id": "lepakshi-veerabhadra",
   "locale": "mr",
+  "name": "लेपाक्षी वीरभद्र मंदिर",
   "nativeName": "లేపాక్షి వీరభద్ర స్వామి ఆలయం",
+  "deity": "वीरभद्र रूपातील शिव",
+  "tradition": "शैव",
   "location": {
-    "city": "Lepakshi",
-    "state": "Andhra Pradesh",
+    "city": "लेपाक्षी",
+    "state": "आंध्र प्रदेश",
     "lat": 13.8079,
     "lng": 77.6058
   },
+  "period": "सोळावे शतक (विजयनगर)",
   "century": 16,
+  "dynasty": "विजयनगर",
+  "style": "विजयनगर",
   "unesco": false,
   "circuits": [],
+  "summary": "आंध्र प्रदेशातील विजयनगर काळातील रत्न असलेले लेपाक्षीचे वीरभद्र मंदिर तेजस्वी भित्तिचित्रांनी सजलेल्या छतासाठी, प्रसिद्ध “लटकता स्तंभ”, प्रचंड एकाश्म नंदी आणि कोरीवकामाच्या मध्येच थांबलेल्या अपूर्ण विवाहमंडपासाठी ओळखले जाते.",
   "sections": {
-    "history": "The temple was built in the sixteenth century, in the great age of the Vijayanagara empire, by the brothers Virupanna and Viranna, officers in the service of the emperor Achyuta Raya. It is dedicated to Veerabhadra, the fierce warrior form of Shiva. Legend and history mingle in its unfinished state: tradition holds that Virupanna was accused of misusing the treasury on the temple and blinded himself in grief, leaving the great Kalyana Mandapa forever incomplete — a story the bare, half-carved pillars seem to confirm.",
-    "architecture": "Lepakshi is a treasury of Vijayanagara art. Its mandapa ceilings carry some of the finest surviving murals of the period, including a vast painting of Veerabhadra, their mineral colours still glowing. A famous “hanging pillar” rests so lightly that a cloth can be passed beneath it, a feat of balance that has puzzled visitors for centuries. Nearby stands one of India’s largest monolithic Nandis, and within the complex a great Nagalinga — a serpent coiled over a linga — is cut from a single boulder. The unfinished Kalyana Mandapa, its pillars richly begun and abruptly abandoned, is as eloquent as any completed hall.",
-    "legends": "The very name Lepakshi is tied to the Ramayana: here, it is said, the bird Jatayu fell wounded after trying to stop Ravana from carrying off Sita, and Rama, finding him, said \"Le, pakshi\" — \"rise, bird\" — giving the place its name. A great footprint in the stone is revered as Sita’s. The temple’s human story is no less moving: the blinding of its builder Virupanna, and the unfinished hall left as if the chisels had only just been set down, lending Lepakshi a poignancy rare among temples.",
-    "festivals": "The temple observes the Shaiva festivals, with Maha Shivaratri and the annual kalyanam of the deities kept with worship and processions. Cultural programmes and heritage events increasingly bring visitors to celebrate Lepakshi’s Vijayanagara art among its painted halls. As both a living Veerabhadra shrine and a protected monument, it draws pilgrims and lovers of art alike through the year.",
-    "experience": "A visit to Lepakshi rewards the eye at every turn. Entering the pillared halls, one looks up to ceilings alive with painted gods and processions; walking on, the guides point out the hanging pillar and the abrupt end of the unfinished mandapa. Outside, the colossal monolithic Nandi gazes toward the Nagalinga on its rock, and the whole complex, set on a low rocky hill called Kurma Saila, catches the warm light of the Rayalaseema plain. Few temples so vividly combine great art, a haunting human story, and living worship."
+    "history": "हे मंदिर सोळाव्या शतकात, विजयनगर साम्राज्याच्या भव्य काळात, सम्राट अच्युतराय यांच्या सेवेतील अधिकारी विरुपण्णा आणि विरण्णा या बंधूंनी बांधले. ते वीरभद्राला, म्हणजे शिवाच्या उग्र योद्धा रूपाला समर्पित आहे. त्याच्या अपूर्ण अवस्थेत आख्यायिका आणि इतिहास मिसळले आहेत; परंपरा मानते की विरुपण्णावर मंदिरासाठी खजिन्याचा गैरवापर केल्याचा आरोप झाला आणि त्याने दुःखाने स्वतःला अंध करून घेतले, आणि भव्य कल्याण मंडप कायमचा अपूर्ण राहिला — हे अर्धवट कोरलेले उघडे स्तंभ ही कथा जणू पुष्टी देतात.",
+    "architecture": "लेपाक्षी हा विजयनगर कलेचा खजिना आहे. त्याच्या मंडपांच्या छतांवर त्या काळातील टिकून राहिलेली काही उत्कृष्ट भित्तिचित्रे आहेत, ज्यात वीरभद्राचे एक विशाल चित्र आहे; त्यांचे खनिज रंग अजूनही तेजाने झळकतात. प्रसिद्ध “लटकता स्तंभ” इतक्या हलकेपणे टेकलेला आहे की त्याखालून एक वस्त्र सरकवता येते — समतोलाचा हा पराक्रम शतकानुशतके पाहुण्यांना कोड्यात टाकत आला आहे. जवळच भारतातील सर्वांत मोठ्या एकाश्म नंदींपैकी एक उभा आहे, आणि संकुलात एक भव्य नागलिंग — लिंगावर वेटोळे घातलेला सर्प — एकाच शिळेतून कोरलेला आहे. अपूर्ण कल्याण मंडप, ज्याचे स्तंभ समृद्धपणे सुरू केले आणि अचानक सोडून दिले, तो कोणत्याही पूर्ण सभामंडपाइतकाच बोलका आहे.",
+    "legends": "लेपाक्षी हे नाव रामायणाशी जोडलेले आहे: येथे, असे सांगतात, रावणाने सीतेचे हरण करत असताना त्याला रोखण्याचा प्रयत्न केल्यानंतर जटायू पक्षी जखमी होऊन पडला, आणि रामाने त्याला पाहून “ले, पक्षी” — “ऊठ, पक्ष्या” — असे म्हटले आणि त्यावरून या स्थानाला नाव पडले. खडकातील एक मोठे पदचिन्ह सीतेचे म्हणून पूज्य मानले जाते. मंदिराची मानवी कथा तितकीच हृदयस्पर्शी आहे: त्याच्या बांधकाम करणाऱ्या विरुपण्णाचे अंध होणे, आणि जणू छिन्नी नुकत्याच खाली ठेवल्या असाव्यात अशा अवस्थेत सोडलेला अपूर्ण मंडप, ज्यामुळे लेपाक्षीला मंदिरांत दुर्मिळ असलेली एक करुणा लाभते.",
+    "festivals": "मंदिरात शैव उत्सव साजरे होतात; महाशिवरात्री आणि देवतांचा वार्षिक कल्याणम पूजा आणि मिरवणुकांसह पाळले जातात. सांस्कृतिक कार्यक्रम आणि वारसा उत्सव लेपाक्षीच्या विजयनगर कलेचा रंगवलेल्या सभामंडपांमध्ये आनंद घेण्यासाठी पर्यटकांना अधिकाधिक आकर्षित करतात. जिवंत वीरभद्र देवालय आणि संरक्षित स्मारक अशा दोन्ही रूपांत ते वर्षभर यात्रेकरूंना आणि कलाप्रेमींना सारखेच आकर्षित करते.",
+    "experience": "लेपाक्षीची भेट प्रत्येक वळणावर नजरेला तृप्त करते. स्तंभयुक्त सभामंडपात प्रवेश करताना छतांवर रंगवलेले देव आणि मिरवणुका जिवंत झालेल्या दिसतात; पुढे चालताना मार्गदर्शक लटका स्तंभ आणि अपूर्ण मंडपाचा अचानक झालेला शेवट दाखवतात. बाहेर, प्रचंड एकाश्म नंदी खडकावरील नागलिंगाकडे पाहत असतो, आणि कूर्म शैल नावाच्या कमी उंचीच्या खडकाळ टेकडीवर वसलेले संपूर्ण संकुल रायलसीमेच्या मैदानातील उबदार प्रकाश पकडते. महान कला, मनाला भिडणारी मानवी कथा आणि जिवंत उपासना यांचा इतका सुरेख संगम फार थोड्या मंदिरांत आढळतो."
   },
   "visit": {
-    "timings": "Generally open from around 6:00 am to 6:00 pm daily; as a protected monument and living temple, worship and visiting hours may vary on festival days.",
-    "dressCode": "Modest dress is appreciated, with shoulders and knees covered; footwear is removed at the temple.",
-    "photography": "Photography of the halls, murals, and monuments is generally allowed; follow any posted rules within the sanctum and during worship.",
-    "gettingThere": "Lepakshi is in Sri Sathya Sai district, about 15 km from Hindupur and 120 km from Bengaluru, whose airport is the nearest; Hindupur is the closest railway station, and the temple is a short drive from the highway."
+    "timings": "साधारणपणे रोज सुमारे सकाळी ६:०० ते संध्याकाळी ६:०० पर्यंत खुले; संरक्षित स्मारक आणि जिवंत मंदिर असल्याने उत्सवाच्या दिवशी पूजा आणि दर्शनाच्या वेळा बदलू शकतात.",
+    "dressCode": "साधा पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; मंदिरात पादत्राणे काढली जातात.",
+    "photography": "सभामंडप, भित्तिचित्रे आणि स्मारकांचे छायाचित्रण साधारणपणे अनुमत आहे; गर्भगृहात आणि पूजेदरम्यान लावलेल्या नियमांचे पालन करा.",
+    "gettingThere": "लेपाक्षी श्री सत्य साई जिल्ह्यात असून हिंदुपूरपासून सुमारे १५ किमी आणि बेंगळुरूपासून १२० किमी अंतरावर आहे; बेंगळुरूचे विमानतळ सर्वांत जवळचे आहे; हिंदुपूर हे सर्वांत जवळचे रेल्वेस्थानक आहे, आणि मंदिर महामार्गापासून थोड्या अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/lepakshi-veerabhadra.jpg",
