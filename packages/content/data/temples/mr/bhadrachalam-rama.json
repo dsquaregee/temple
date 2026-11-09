@@ -1,28 +1,35 @@
 {
   "id": "bhadrachalam-rama",
   "locale": "mr",
+  "name": "श्री सीतारामचंद्रस्वामी मंदिर, भद्राचलम",
   "nativeName": "శ్రీ సీతా రామచంద్రస్వామి ఆలయం, భద్రాచలం",
+  "deity": "वैकुंठ राम रूपातील राम, सीता आणि लक्ष्मण यांच्यासह, गोदावरीवरील भद्र पर्वतावर",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Bhadrachalam",
-    "state": "Telangana",
+    "city": "भद्राचलम",
+    "state": "तेलंगणा",
     "lat": 17.6688,
     "lng": 80.8889
   },
+  "period": "गोदावरीच्या तीरावरील राममंदिर, भक्त रामदास यांनी बांधलेले, श्रीराम नवमीच्या विवाहसोहळ्यासाठी प्रसिद्ध",
   "century": 17,
+  "dynasty": "सतराव्या शतकात कांचेरला गोपन्ना (भक्त रामदास) यांनी बांधले",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [],
+  "summary": "गोदावरीवरील भद्र पर्वतावर, भक्त रामदास यांनी बांधलेल्या मंदिरात राम सीता आणि लक्ष्मण यांच्यासह पूजले जातात — जेथे प्रत्येक श्रीराम नवमीला राम आणि सीतेचा दिव्य विवाहसोहळा प्रचंड जनसमुदायासमोर संपन्न होतो.",
   "sections": {
-    "history": "Bhadrachalam stands on the Godavari in Telangana, on the hill named for Bhadra, a devotee who longed to bear Rama. The temple as it stands was built in the 17th century by Kancherla Gopanna — Bhakta Ramadasu — a revenue officer who used state funds for the shrine, was imprisoned, and whose songs to Rama remain beloved across the Telugu country.",
-    "architecture": "The temple rises on the hill above the river in the Dravidian manner, its sanctum holding Rama as Vaikunta Rama with Sita on his lap and Lakshmana at his side. The riverside setting and the hill of Bhadra frame the shrine.",
-    "legends": "Tradition tells that Bhadra, a devotee, prayed to carry Rama on his head; Rama, returning from the forest, is said to have appeared to him here as Vaikunta Rama. Ramadasu's imprisonment and release — by, it is sung, the intervention of Rama and Lakshmana themselves — is the temple's most cherished story.",
-    "festivals": "Sri Rama Navami is the supreme festival, when the Kalyanam — the wedding of Rama and Sita — is celebrated on a grand scale, drawing pilgrims from across the Telugus. The pearls and gifts sent for the wedding are a tradition of the day.",
-    "experience": "Bhadrachalam is the heart of Rama devotion in the Telugu land; to be present at the Sri Rama Navami Kalyanam, sung in Ramadasu's own verses, is among the great experiences of the region's faith."
+    "history": "भद्राचलम तेलंगणात गोदावरीवर, भद्र नावाच्या भक्ताच्या नावाने ओळखल्या जाणाऱ्या पर्वतावर वसले आहे; रामाला धारण करण्याची त्याला तीव्र आस होती. सध्याचे मंदिर सतराव्या शतकात कांचेरला गोपन्ना — भक्त रामदास — यांनी बांधले; ते महसूल अधिकारी होते, त्यांनी राज्याचा निधी या देवळासाठी वापरला, त्यांना कैद झाली, आणि रामावरील त्यांची गीते संपूर्ण तेलुगू प्रदेशात आजही प्रिय आहेत.",
+    "architecture": "मंदिर नदीवरील पर्वतावर द्रविड पद्धतीने उभे आहे; गर्भगृहात वैकुंठ राम रूपातील राम आहेत, मांडीवर सीता आणि बाजूला लक्ष्मण. नदीकाठचे स्थान आणि भद्र पर्वत या देवळाला चौकटीप्रमाणे वेढतात.",
+    "legends": "परंपरा सांगते की भद्र या भक्ताने रामाला आपल्या मस्तकावर धारण करण्याची प्रार्थना केली; वनातून परतणाऱ्या रामाने येथे त्याला वैकुंठ रामाच्या रूपात दर्शन दिले असे सांगितले जाते. रामदासांची कैद आणि सुटका — गायले जाते त्याप्रमाणे, खुद्द राम आणि लक्ष्मणाच्या हस्तक्षेपाने — ही मंदिराची सर्वाधिक प्रिय कथा आहे.",
+    "festivals": "श्रीराम नवमी हा सर्वोच्च उत्सव आहे; त्यावेळी कल्याणम — राम आणि सीतेचा विवाह — भव्य प्रमाणात साजरा होतो आणि संपूर्ण तेलुगू प्रदेशातून यात्रेकरू येतात. विवाहासाठी पाठवले जाणारे मोती आणि भेटवस्तू ही त्या दिवसाची परंपरा आहे.",
+    "experience": "भद्राचलम हे तेलुगू भूमीतील राम-भक्तीचे हृदय आहे; रामदासांच्याच काव्यात गायल्या जाणाऱ्या श्रीराम नवमी कल्याणमला उपस्थित राहणे हा या प्रदेशाच्या श्रद्धेतील महान अनुभवांपैकी एक आहे."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday break; Sri Rama Navami is by far the busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Bhadrachalam lies on the Godavari in Bhadradri Kothagudem district of Telangana, reached by road from Hyderabad and Vijayawada, with the nearest railhead at Bhadrachalam Road (Kothagudem)."
+    "timings": "दररोज सकाळ-संध्याकाळच्या दर्शनासह आणि दुपारच्या विश्रांतीसह खुले; श्रीराम नवमीला सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "भद्राचलम तेलंगणातील भद्राद्री कोठागुडेम जिल्ह्यात गोदावरीच्या तीरावर आहे; हैदराबाद आणि विजयवाडा येथून रस्त्याने पोहोचता येते, आणि सर्वांत जवळचे रेल्वे स्थानक भद्राचलम रोड (कोठागुडेम) आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
