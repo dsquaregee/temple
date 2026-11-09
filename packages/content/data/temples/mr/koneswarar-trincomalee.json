@@ -1,30 +1,37 @@
 {
   "id": "koneswarar-trincomalee",
   "locale": "mr",
+  "name": "कोणेश्वरम मंदिर, त्रिंकोमाली (तिरुकोणमलै)",
   "nativeName": "திருக்கோணமலை கோணேஸ்வரம் கோயில்",
+  "deity": "कोणेश्वर (कोणनाथर) रूपातील शिव, देवी मधुमै अम्मै यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Trincomalee",
-    "state": "Eastern Province, Sri Lanka",
+    "city": "त्रिंकोमाली",
+    "state": "पूर्व प्रांत, श्रीलंका",
     "lat": 8.5825,
     "lng": 81.2456
   },
+  "period": "ईळ नाडूमधील स्वामी खडकावरील एक पाडल पेट्र स्थळम्; तेवारममध्ये संबंधरांनी गायलेले (सातवे शतक)",
   "century": 7,
+  "dynasty": "प्राचीन देवस्थान; सध्याचे मंदिर विसाव्या शतकात पुन्हा बांधले",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "त्रिंकोमाली येथे हिंदी महासागरावर उंच असलेल्या स्वामी खडकावर कोणेश्वरम — संबंधरांनी गायलेले तिरुकोणमलै — समुद्राकाठच्या पवित्र टेकडीचा स्वामी कोणेश्वर म्हणून शिवाचा गौरव करते.",
   "sections": {
-    "history": "Koneswaram crowns Swami Rock, a sheer headland at Trincomalee on the east coast of Sri Lanka, and is the Thirukonamalai of the Tevaram. It is one of the 276 Paadal Petra Sthalams and one of the two shrines of Eezha Nadu, the island country, with Ketheeswaram near Mannar; Sambandar sang a pathigam to the Lord of the hill by the sea. Tradition places the shrine's beginnings far earlier still. The great temple, remembered for its many pillars, was destroyed by the Portuguese in the 1620s, and a fort rose on the headland from its stones. In 1950, workers digging a well unearthed images believed to come from the old temple, and the local Hindu community rebuilt the shrine, consecrating the present temple in 1963.",
-    "architecture": "The present temple is a modest Dravidian shrine set within the walls of Fort Frederick, at the very end of the promontory, with the ocean on three sides. Pillars and carved fragments of the old temple, recovered from the sea below the rock, have found their way back to the site. Beyond the shrine, the cliff edge looks out over the water, and a deep cleft in the rock nearby is pointed out by pilgrims as the mark of a legend.",
-    "legends": "The best-known story belongs to Ravana, the king of Lanka and a great devotee of Shiva. Tradition says that when his mother fell ill and could not come to worship here, Ravana tried to move the sacred hill and its shrine to her. Shiva pressed down, Ravana's sword fell, and the blade cut the cleft in the cliff still called Ravana Vettu, Ravana's cut. Humbled, the king worshipped the Lord he had tried to carry away.",
-    "festivals": "Maha Shivaratri is the great night of the year at Koneswaram, when devotees keep vigil on the headland. The temple's annual festival, the monthly Pradosham and the Shaiva festivals of the Tamil calendar are also kept with devotion; confirm dates locally.",
-    "experience": "The walk to Koneswaram passes through the old gateways of Fort Frederick and climbs to the tip of Swami Rock, where wind, sea and temple bells meet. Pilgrims offer worship to Koneswarar and Mathumai Ammai, then stand at the cliff edge looking out over the ocean. Ketheeswaram, the other Eezha Nadu shrine of the Tevaram, lies across the island near Mannar."
+    "history": "कोणेश्वरम श्रीलंकेच्या पूर्व किनाऱ्यावरील त्रिंकोमाली येथील स्वामी खडक या तुटलेल्या कड्याच्या शिखरावर विराजमान आहे, आणि तेवारममधील तिरुकोणमलै तेच आहे. हे २७६ पाडल पेट्र स्थळम्पैकी एक असून, बेटदेश असलेल्या ईळ नाडूमधील दोन देवस्थानांपैकी एक आहे; दुसरे मन्नारजवळील केतीश्वरम. संबंधरांनी समुद्राकाठच्या टेकडीच्या स्वामीला उद्देशून एक पतिकम् गायले. परंपरेनुसार या देवस्थानाचा आरंभ यापेक्षाही फार पूर्वीचा आहे. अनेक स्तंभांसाठी स्मरणात असलेले भव्य मंदिर १६२० च्या दशकात पोर्तुगीजांनी उद्ध्वस्त केले, आणि त्याच्या दगडांतून त्या कड्यावर किल्ला उभा राहिला. १९५० साली विहीर खणणाऱ्या कामगारांना जुन्या मंदिरातील असल्याचे मानले जाणारे मूर्ती सापडल्या, आणि स्थानिक हिंदू समाजाने देवस्थान पुन्हा उभारले; सध्याच्या मंदिराचा प्रतिष्ठापना-विधी १९६३ साली झाला.",
+    "architecture": "सध्याचे मंदिर हे फोर्ट फ्रेडरिकच्या तटबंदीत, भूशिरावरच्या अगदी टोकाला, तीन बाजूंनी समुद्राने वेढलेले एक साधेसे द्रविड देवस्थान आहे. खडकाखालील समुद्रातून सापडलेले जुन्या मंदिराचे स्तंभ व कोरीव तुकडे पुन्हा या स्थळी परत आले आहेत. देवस्थानापलीकडे कड्याची कडा पाण्यावर नजर टाकते, आणि जवळच्या खडकातील एक खोल चीर यात्रेकरू एका आख्यायिकेची खूण म्हणून दाखवतात.",
+    "legends": "सर्वांत प्रसिद्ध कथा लंकेचा राजा आणि शिवाचा महान भक्त रावण याची आहे. परंपरा सांगते की त्याची माता आजारी पडल्याने तिला येथे पूजेसाठी येता आले नाही, तेव्हा रावणाने ती पवित्र टेकडी आणि तिच्यावरील देवस्थान तिच्याकडे नेण्याचा प्रयत्न केला. शिवाने खाली दाब दिला, रावणाची तलवार पडली, आणि तिच्या पात्याने कड्यात जी चीर पाडली ती आजही रावण वेट्टू, म्हणजे रावणाचा घाव, म्हणून ओळखली जाते. नम्र झालेल्या राजाने ज्या स्वामीला तो उचलून नेऊ पाहत होता, त्याची पूजा केली.",
+    "festivals": "महाशिवरात्र ही कोणेश्वरममधील वर्षाची महान रात्र असते, जेव्हा भक्त त्या भूशिरावर जागरण करतात. मंदिराचा वार्षिक उत्सव, मासिक प्रदोषम् आणि तमिळ पंचांगातील शैव उत्सवही भक्तिभावाने पाळले जातात; तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "कोणेश्वरमकडे जाणारी वाट फोर्ट फ्रेडरिकच्या जुन्या प्रवेशद्वारांतून जाते आणि स्वामी खडकाच्या टोकावर चढते, जेथे वारा, समुद्र आणि मंदिरातील घंटा एकत्र येतात. यात्रेकरू कोणेश्वर आणि मधुमै अम्मै यांची पूजा करतात, आणि मग कड्याच्या काठावर उभे राहून महासागराकडे पाहतात. तेवारममधील ईळ नाडूचे दुसरे देवस्थान केतीश्वरम बेटाच्या दुसऱ्या टोकाला, मन्नारजवळ आहे."
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure, with longer hours on festival days. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; men may be asked to remove shirts before entering the shrine, and footwear is left outside. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer areas and on Swami Rock, ask the temple staff before taking pictures, especially of rituals.",
-    "gettingThere": "Koneswaram stands at the end of Swami Rock inside Fort Frederick in Trincomalee town; the approach road passes through the fort gates. Trincomalee has a railway station with services from Colombo, and Bandaranaike International Airport near Colombo is the main international gateway, several hours away by road."
+    "timings": "दररोज सकाळ व संध्याकाळच्या सत्रांत उघडे, मध्यान्हीला बंद; उत्सवाच्या दिवशी जास्त वेळ. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; देवस्थानात प्रवेश करण्यापूर्वी पुरुषांना सदरा काढण्यास सांगितले जाऊ शकते, आणि पादत्राणे बाहेर ठेवली जातात. लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात छायाचित्रणास परवानगी नाही; बाहेरील भागांत आणि स्वामी खडकावर छायाचित्रे घेण्यापूर्वी, विशेषतः विधींची, मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "कोणेश्वरम त्रिंकोमाली शहरातील फोर्ट फ्रेडरिकच्या आत, स्वामी खडकाच्या टोकावर आहे; तिथे जाणारा रस्ता किल्ल्याच्या दारांतून जातो. त्रिंकोमालीला रेल्वे स्थानक असून कोलंबोहून गाड्या येतात, आणि कोलंबोजवळील बंडारनायके आंतरराष्ट्रीय विमानतळ हे मुख्य आंतरराष्ट्रीय प्रवेशद्वार आहे, जे रस्त्याने काही तासांच्या अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/koneswarar-trincomalee.jpg",

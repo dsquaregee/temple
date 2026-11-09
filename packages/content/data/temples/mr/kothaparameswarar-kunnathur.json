@@ -1,29 +1,36 @@
 {
   "id": "kothaparameswarar-kunnathur",
   "locale": "mr",
+  "name": "कोथपरमेश्वरर मंदिर, कुन्नत्तूर",
   "nativeName": "கோதபரமேசுவரர் கோயில், குன்னத்தூர்",
+  "deity": "कोथपरमेश्वरर रूपातील शिव, देवी शिवकामी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Kunnathur",
-    "state": "Tamil Nadu",
+    "city": "कुन्नत्तूर",
+    "state": "तमिळनाडू",
     "lat": 8.748,
     "lng": 77.676
   },
+  "period": "नव कैलासमपैकी चौथे, राहूचे देवस्थान; शिलालेखांनुसार मंदिर तेराव्या शतकापर्यंत अस्तित्वात होते",
   "century": 13,
+  "dynasty": "पांड्य",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "तिरुनेलवेलीच्या काठावरील कुन्नत्तूर येथे एका सखल टेकडीवर, लिंगावर सर्पाची आकृती असलेला शिव कोथपरमेश्वरर म्हणून नव कैलासमपैकी चौथे, राहूचे देवस्थान राखतो.",
   "sections": {
-    "history": "Kunnathur — the village of the hillock — lies on the north-western edge of Tirunelveli, close to Thiruvengadanathapuram, and is also known by its older name Chenkani. The temple of Kothaparameswarar here is the fourth of the Nava Kailasam and the shrine of Rahu, the shadow planet. Its inscriptions show it standing by the thirteenth century, and they name the place Chenkani in Keezh-vembu-nadu, a Vedic settlement called Navaninarayana-chaturvedimangalam. The same records tell of a Pandya king, Veera Pandya, who endowed the temple with money for its daily worship — a gift that set its rituals on a firm footing for generations.",
-    "architecture": "The temple is a small Dravidian stone shrine set on a gentle rise, which gives the village its name. Its great distinction lies within the sanctum: the lingam of Kothaparameswarar bears the figure of a serpent, a rare feature that devotees connect with Rahu, the serpent-bodied planet, and that makes this the Rahu shrine of the nine. The Goddess Sivakami has her own shrine within the enclosure.",
-    "legends": "In the Nava Kailasam story, the fourth of the nine lotuses floated down the Tamiraparani by the sage Romasa, disciple of Agastya, came to rest near this hillock, and here he installed the lingam. Local devotion links the serpent-marked lingam to Rahu, and the temple is sought out by those who wish to ease the afflictions astrologers attribute to Rahu and to the serpent powers. With the Vishnu temples of neighbouring Thiruvengadanathapuram, the locality is likened by devotees to the pairing of Kalahasti and Tirupati in the north.",
-    "festivals": "Maha Shivaratri and the monthly pradosham are kept with devotion, and the Rahu kalam each day — especially on Sundays and Tuesdays — draws devotees seeking relief from Rahu dosha. Confirm dates locally.",
-    "experience": "Kunnathur is the stop on the Nava Kailasam round closest to Tirunelveli town, and many pilgrims pair it with the Vishnu shrines of Thiruvengadanathapuram nearby. Its small hillside setting and the rare serpent-marked lingam give it a character of its own among the nine."
+    "history": "कुन्नत्तूर — टेकडीचे गाव — तिरुनेलवेलीच्या वायव्य काठावर, तिरुवेंगडनाथपुरमजवळ आहे, आणि त्याच्या जुन्या चेंकणि या नावानेही ओळखले जाते. येथील कोथपरमेश्वररचे मंदिर नव कैलासमपैकी चौथे आणि छायाग्रह राहूचे देवस्थान आहे. त्याचे शिलालेख ते तेराव्या शतकापर्यंत अस्तित्वात असल्याचे दाखवतात, आणि ते या स्थळाला कीळ-वेम्बु-नाडूमधील चेंकणि, नवनीनारायण-चतुर्वेदिमंगलम् नावाची वैदिक वसाहत, असे नाव देतात. त्याच नोंदी वीर पांड्य नावाच्या पांड्य राजाबद्दल सांगतात, ज्याने मंदिराच्या दैनंदिन पूजेसाठी पैसे दिले — या दानाने त्याचे विधी पिढ्यानपिढ्या भक्कम पायावर उभे केले.",
+    "architecture": "मंदिर हे एका सौम्य उंचवट्यावर वसलेले लहान द्रविड दगडी देवस्थान आहे, ज्यावरून गावाला नाव मिळाले. त्याचे मोठे वैशिष्ट्य गर्भगृहात आहे: कोथपरमेश्वररच्या लिंगावर सर्पाची आकृती आहे, एक दुर्मिळ वैशिष्ट्य जे भक्त सर्पदेही ग्रह राहूशी जोडतात, आणि ज्यामुळे हे नवांपैकी राहूचे देवस्थान ठरते. देवी शिवकामी यांचे स्वतःचे देवस्थान आवारात आहे.",
+    "legends": "नव कैलासमच्या कथेनुसार, अगस्त्यांचे शिष्य रोमस ऋषींनी तामिरपरणीतून वाहवलेल्या नऊ कमळांपैकी चौथे या टेकडीजवळ येऊन थांबले, आणि येथे त्यांनी लिंगाची प्रतिष्ठापना केली. स्थानिक भक्ती सर्पांकित लिंगाला राहूशी जोडते, आणि ज्योतिषी राहूला व सर्पशक्तींना ज्या पीडा देतात त्या हलक्या करू इच्छिणारे लोक या मंदिराचा शोध घेतात. शेजारच्या तिरुवेंगडनाथपुरमच्या विष्णू मंदिरांसह, भक्त या परिसराची तुलना उत्तरेतील कालहस्ती आणि तिरुपती यांच्या जोडीशी करतात.",
+    "festivals": "महाशिवरात्र आणि मासिक प्रदोषम् भक्तिभावाने पाळले जातात, आणि दररोजचा राहू काळ — विशेषतः रविवार व मंगळवारी — राहू दोषातून आराम शोधणाऱ्या भक्तांना आकर्षित करतो. तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "नव कैलासम फेरीतील तिरुनेलवेली शहराच्या सर्वांत जवळचा हा थांबा आहे, आणि अनेक यात्रेकरू त्याला जवळच्या तिरुवेंगडनाथपुरमच्या विष्णू देवस्थानांसोबत जोडतात. त्याचे लहानसे टेकडीवरील स्थान आणि दुर्मिळ सर्पांकित लिंग नवांमध्ये त्याला स्वतःचे वेगळे स्वरूप देतात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; special worship is offered during Rahu kalam. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kunnathur lies in Tirunelveli district near Thiruvengadanathapuram, about 11 km from Tirunelveli Junction; town buses and mini-buses run from Tirunelveli town. Tirunelveli is the nearest railway junction and Thoothukudi the nearest airport."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शन-सत्रांसह उघडे, मध्यान्हीला बंद; राहू काळात विशेष पूजा केली जाते. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेश करण्यापूर्वी पादत्राणे काढावीत. अनेक दक्षिणी देवस्थानांप्रमाणे पुरुषांना गर्भगृहासमोर वरचे वस्त्र काढण्यास परंपरेने सांगितले जाते; लावलेले नियम पाळा.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "कुन्नत्तूर तिरुनेलवेली जिल्ह्यात तिरुवेंगडनाथपुरमजवळ, तिरुनेलवेली जंक्शनपासून सुमारे ११ किमी अंतरावर आहे; तिरुनेलवेली शहरातून शहर बसेस आणि मिनी-बसेस धावतात. तिरुनेलवेली हे सर्वांत जवळचे रेल्वे जंक्शन आणि तुतुकुडी सर्वांत जवळचा विमानतळ आहे."
   }
 }
