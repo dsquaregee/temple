@@ -1,29 +1,36 @@
 {
   "id": "kailasanathar-murappanadu",
   "locale": "mr",
+  "name": "कैलासनाथर मंदिर, मुरप्पनाडू",
   "nativeName": "கைலாசநாதர் கோயில், முறப்பநாடு",
+  "deity": "कैलासनाथर रूपातील शिव, देवी शिवकामी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Murappanadu",
-    "state": "Tamil Nadu",
+    "city": "मुरप्पनाडू",
+    "state": "तमिळनाडू",
     "lat": 8.723,
     "lng": 77.833
   },
+  "period": "नव कैलासमपैकी पाचवे, गुरू ग्रहाचे मंदिर; विजयनगर राजवटीत जीर्णोद्धार झालेले नदीकाठचे एक प्राचीन मंदिर",
   "century": 16,
+  "dynasty": "विजयनगर",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "मुरप्पनाडू येथे, जेथे तिरुनेलवेली–तूतुकुडी महामार्ग तामिरपरणी नदी ओलांडतो, तेथे नदीकाठी कैलासनाथर रूपातील शिव नव कैलासमपैकी पाचवे स्थान सांभाळतात — गुरू, म्हणजे बृहस्पती ग्रहाचे मंदिर.",
   "sections": {
-    "history": "Murappanadu is a village on the Tamiraparani in Thoothukudi district, some seventeen kilometres east of Tirunelveli on the national highway to Thoothukudi. Its Kailasanathar temple is the fifth of the Nava Kailasam and the shrine of Guru, the planet Jupiter, standing at the midpoint of the nine. Its beginnings are not recorded with certainty; local tradition credits a generous chieftain of the region with its founding, and it was renovated in the time of the Vijayanagara rulers, whose authority reached the far south in the sixteenth century. A local story holds that a Vijayanagara commander, Vittala Raya, worshipped Guru here before a campaign towards Travancore.",
-    "architecture": "The temple faces east towards the river, a compact Dravidian stone shrine with the sanctum of Kailasanathar and a separate shrine for the Goddess Sivakami, a single Nandi facing the lord. In its wall niches stands Dakshinamurthy, the form of Shiva as the silent teacher seated beneath the banyan — a figure especially honoured at a shrine of Guru, the planet of wisdom and the teacher among the grahas. Steps lead down from the temple to the Tamiraparani.",
-    "legends": "In the Nava Kailasam story, the fifth of the lotuses set afloat by Agastya's disciple Romasa came to rest here, midway between the hills and the sea. The village's own name carries two homely stories: one says a woman of Murappanadu once drove away a tiger with nothing but a muram, the winnowing fan of every Tamil kitchen; the other says the ground here was strewn with flat stones, murambu, and the name grew from them.",
-    "festivals": "As the shrine of Guru, the temple draws devotees on Thursdays and at the transit of Jupiter, Guru Peyarchi, when special worship is offered. Maha Shivaratri and the monthly pradosham are kept through the year. Confirm dates locally.",
-    "experience": "Murappanadu is the easiest of the nine to reach, right beside the highway bridge, and its quiet riverside temple is the turning point of the Nava Kailasam round: from here the circuit continues downstream towards Srivaikuntam, Thenthiruperai, Rajapathy and the sea."
+    "history": "मुरप्पनाडू हे तूतुकुडी जिल्ह्यातील तामिरपरणी नदीकाठचे एक गाव असून तूतुकुडीकडे जाणाऱ्या राष्ट्रीय महामार्गावर तिरुनेलवेलीपासून सुमारे सतरा किलोमीटर पूर्वेस आहे. येथील कैलासनाथर मंदिर हे नव कैलासमपैकी पाचवे आणि गुरू, म्हणजे बृहस्पती ग्रहाचे स्थान आहे; नऊ मंदिरांच्या मालिकेच्या मध्यभागी ते उभे आहे. त्याच्या उगमाची निश्चित नोंद नाही; स्थानिक परंपरा या प्रदेशातील एका उदार सरदाराला त्याच्या स्थापनेचे श्रेय देते, आणि सोळाव्या शतकात अगदी दक्षिणेपर्यंत सत्ता पोहोचलेल्या विजयनगर राजांच्या काळात त्याचा जीर्णोद्धार झाला. एका स्थानिक कथेनुसार, विजयनगरचा सेनापती विट्ठल राय याने त्रावणकोरच्या दिशेने मोहिमेवर निघण्यापूर्वी येथे गुरूची उपासना केली.",
+    "architecture": "मंदिर पूर्वाभिमुख असून नदीकडे तोंड करून उभे आहे; हे एक लहानसे द्रविड शैलीचे दगडी मंदिर आहे. त्यात कैलासनाथरांचा गाभारा, देवी शिवकामीचे स्वतंत्र मंदिर आणि भगवंतासमोर बसलेला एकच नंदी आहे. भिंतींच्या कोनाड्यांमध्ये दक्षिणामूर्ती उभे आहेत — वटवृक्षाखाली बसलेल्या मौन गुरूच्या रूपातील शिव; ज्ञानाचा ग्रह आणि ग्रहांमधील गुरू असलेल्या बृहस्पतीच्या मंदिरात हे रूप विशेष पूजनीय आहे. मंदिरापासून तामिरपरणीपर्यंत पायऱ्या उतरतात.",
+    "legends": "नव कैलासमच्या कथेनुसार, अगस्त्यांचे शिष्य रोमस यांनी सोडलेल्या कमळांपैकी पाचवे कमळ डोंगर आणि समुद्र यांच्या मधोमध येथे येऊन स्थिरावले. गावाच्या नावाशी दोन साध्या कथा जोडलेल्या आहेत: एकीनुसार मुरप्पनाडूच्या एका स्त्रीने प्रत्येक तमिळ स्वयंपाकघरात असणाऱ्या सुपाने, म्हणजे मुरमने, एका वाघाला पळवून लावले; दुसरीनुसार येथील जमीन सपाट दगडांनी, म्हणजे मुरंबुने, भरलेली होती आणि त्यावरून हे नाव पडले.",
+    "festivals": "गुरूचे स्थान असल्याने गुरुवारी आणि गुरुपेयर्चीच्या, म्हणजे गुरूच्या राशीबदलाच्या वेळी मंदिरात भाविकांची गर्दी होते; तेव्हा विशेष पूजा केली जाते. महाशिवरात्री आणि मासिक प्रदोष वर्षभर पाळले जातात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "नऊपैकी मुरप्पनाडू हे पोहोचण्यास सर्वांत सोपे आहे, महामार्गावरील पुलाच्या अगदी बाजूला; आणि येथील शांत नदीकाठचे मंदिर हे नव कैलासम यात्रेचे वळणबिंदू आहे: येथून ही यात्रा नदीच्या प्रवाहासोबत श्रीवैकुंठम, तेन्तिरुपेरै, राजपती आणि समुद्राच्या दिशेने पुढे जाते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Thursdays and Guru Peyarchi days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Murappanadu lies in Thoothukudi district on the Tirunelveli–Thoothukudi national highway, about 17 km from Tirunelveli and roughly 40–45 km from Thoothukudi; buses between the two cities stop here. Tirunelveli is the nearest railway junction and Thoothukudi the nearest airport."
+    "timings": "दररोज उघडे; सकाळी आणि संध्याकाळी दर्शनाच्या वेळा आणि दुपारी बंद. गुरुवार आणि गुरुपेयर्चीचे दिवस सर्वाधिक गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. अनेक दक्षिणेकडील मंदिरांप्रमाणे, गाभाऱ्यासमोर पुरुषांनी वरील वस्त्र काढण्याची परंपरा आहे; लावलेल्या नियमांचे पालन करावे.",
+    "photography": "गाभाऱ्यात आणि त्याच्या आसपास छायाचित्रणास निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "मुरप्पनाडू तूतुकुडी जिल्ह्यात तिरुनेलवेली–तूतुकुडी राष्ट्रीय महामार्गावर, तिरुनेलवेलीपासून सुमारे १७ किमी आणि तूतुकुडीपासून साधारण ४०–४५ किमी अंतरावर आहे; दोन शहरांदरम्यान धावणाऱ्या बसेस येथे थांबतात. तिरुनेलवेली हे सर्वांत जवळचे रेल्वे जंक्शन आणि तूतुकुडी हे सर्वांत जवळचे विमानतळ आहे."
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "kailasanathar-cheranmahadevi",
   "locale": "mr",
+  "name": "अम्मैनाथर मंदिर, चेरन्महादेवी",
   "nativeName": "அம்மைநாதர் கோயில், சேரன்மகாதேவி",
+  "deity": "अम्मैनाथर (कैलासनाथर) रूपातील शिव, देवी आवुडै अम्माल यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Cheranmahadevi",
-    "state": "Tamil Nadu",
+    "city": "चेरन्महादेवी",
+    "state": "तमिळनाडू",
     "lat": 8.688,
     "lng": 77.566
   },
+  "period": "नव कैलासमधील दुसरे, चंद्राचे देवस्थान; पहिल्या कुलोत्तुंग चोळाच्या कारकिर्दीत जीर्णोद्धार",
   "century": 11,
+  "dynasty": "पांड्य आणि चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "चेरन्महादेवी येथे तामिरपर्णी नदीकाठी, अम्मैनाथर रूपातील शिव — ज्या दोन भगिनींनी भात कांडून मिळवलेल्या कमाईतून त्याचा निवारा बांधला त्यांचा स्वामी — नव कैलासमधील दुसरे, चंद्राचे देवस्थान सांभाळतो.",
   "sections": {
-    "history": "Cheranmahadevi is an old market town on the Tamiraparani, some twenty-odd kilometres west of Tirunelveli on the road to Ambasamudram. Its Shiva temple, the shrine of Ammainathar on the riverbank, is the second of the Nava Kailasam and the one linked with the Moon; in the round of nine it is often simply called the Kailasanathar of Cheranmahadevi. The temple's long story reaches back into the Pandya country's past, and it was renovated in the time of the Chola emperor Kulothunga I, in the late eleventh or early twelfth century, when the far south lay within the Chola realm. It remains a quiet village temple, cared for by the town that grew up around it.",
-    "architecture": "The temple is a modest Dravidian stone shrine facing the river. Its arrangement holds a surprise: the Goddess Avudai Ammal has her own shrine to the right of the lord's sanctum, a placement seldom seen in the south. Among the pillars of the mandapa, one carries a carving of two women pounding and winnowing paddy — the temple's founding story set in stone. The sacred tree is a banyan, and the Tamiraparani itself is the temple's tirtham, reached by the bathing steps below.",
-    "legends": "The temple's own story is of two sisters, devout and poor, who earned their living by husking paddy and selling rice. Their lingam stood without a roof, and they set aside a little each day to build it a shelter. One evening Shiva came to them as a hungry brahmin; while he ate, the lamp went out, and the sisters lit a wick in a coconut shell so that he could finish his meal. Offered a boon, they asked only that he help build the temple — and from that day prosperity came to them. Devotees still offer a coconut lamp and rice here in remembrance.",
-    "festivals": "The celestial wedding, Thirukalyanam, is celebrated in the Tamil month of Aippasi, and Maha Shivaratri and the monthly pradosham are kept with devotion. As the Moon's shrine of the Nava Kailasam, the temple also draws pilgrims on Mondays and full-moon days. Confirm dates locally.",
-    "experience": "The coconut-shell lamp is the gesture that belongs to this temple: a small flame offered as the sisters once offered theirs, beside a handful of rice. Cheranmahadevi is the second stop of the Nava Kailasam, between Papanasam upstream and Kodaganallur downstream, and its riverside setting makes it a gentle pause on the day-long round."
+    "history": "चेरन्महादेवी हे तामिरपर्णी नदीवरील जुने बाजाराचे शहर असून तिरुनेलवेलीच्या पश्चिमेस अंबासमुद्रमच्या रस्त्यावर सुमारे वीस-एक किलोमीटरवर आहे. नदीकाठावरील येथील शिवमंदिर, अम्मैनाथरचे देऊळ, हे नव कैलासमधील दुसरे आहे आणि चंद्राशी जोडलेले आहे; नऊच्या फेरीत त्याला अनेकदा सरळ चेरन्महादेवीचे कैलासनाथर असे म्हटले जाते. मंदिराची दीर्घ कहाणी पांड्य प्रदेशाच्या भूतकाळापर्यंत जाते, आणि चोळ सम्राट पहिला कुलोत्तुंग याच्या काळात — अकराव्या शतकाच्या उत्तरार्धात किंवा बाराव्या शतकाच्या सुरुवातीस, जेव्हा सुदूर दक्षिण चोळ साम्राज्यात होता — त्याचा जीर्णोद्धार झाला. हे एक शांत खेड्यातील मंदिर राहिले असून त्याच्याभोवती वाढलेले गाव त्याची काळजी घेते.",
+    "architecture": "हे मंदिर नदीकडे तोंड करून उभे असलेले साधे द्रविड दगडी देवालय आहे. त्याच्या रचनेत एक आश्चर्य आहे: देवी आवुडै अम्मालचे स्वतंत्र देऊळ प्रभूच्या गर्भगृहाच्या उजवीकडे आहे, दक्षिणेत क्वचितच दिसणारी रचना. मंडपातील स्तंभांपैकी एकावर दोन स्त्रिया भात कांडताना आणि पाखडताना दाखवणारे कोरीवकाम आहे — मंदिराची स्थापनाकथा दगडात मांडलेली. पवित्र वृक्ष वड आहे, आणि तामिरपर्णी नदी हेच मंदिराचे तीर्थ असून खालच्या स्नानघाटांवरून तिथे पोहोचता येते.",
+    "legends": "मंदिराची स्वतःची कथा दोन भगिनींची आहे — भक्तिमान आणि गरीब — ज्या भात सडून आणि तांदूळ विकून उदरनिर्वाह करत. त्यांचे लिंग छताविना उभे होते, आणि त्यासाठी निवारा बांधावा म्हणून त्या दररोज थोडे थोडे बाजूला ठेवत. एका संध्याकाळी शिव त्यांच्याकडे भुकेल्या ब्राह्मणाच्या रूपात आला; तो जेवत असताना दिवा विझला, आणि त्याने जेवण पूर्ण करावे म्हणून भगिनींनी नारळाच्या करवंटीत वात पेटवली. वर मागण्यास सांगितल्यावर त्यांनी फक्त मंदिर बांधण्यात मदत करण्याची विनंती केली — आणि त्या दिवसापासून त्यांना समृद्धी लाभली. भाविक आजही स्मरणार्थ येथे नारळाचा दिवा आणि तांदूळ अर्पण करतात.",
+    "festivals": "दिव्य विवाहसोहळा, तिरुकल्याणम, तमिळ आप्पसी महिन्यात साजरा केला जातो, आणि महाशिवरात्री व मासिक प्रदोषम भक्तिभावाने पाळले जातात. नव कैलासमधील चंद्राचे देवस्थान म्हणून मंदिर सोमवारी आणि पौर्णिमेच्या दिवशीही यात्रेकरूंना आकर्षित करते. तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "नारळाच्या करवंटीतील दिवा हा या मंदिराचा खास भाव आहे: भगिनींनी एकेकाळी अर्पण केला तसा लहानसा ज्योतीचा दिवा, मूठभर तांदळाशेजारी अर्पण करणे. चेरन्महादेवी हा नव कैलासचा दुसरा थांबा आहे, वरच्या बाजूच्या पापनाशम आणि खालच्या बाजूच्या कोडगनल्लूर यांच्या मध्ये, आणि त्याचे नदीकाठचे स्थान दिवसभराच्या फेरीत सौम्य विसावा देते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure, as at most village temples of the region. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Cheranmahadevi lies in Tirunelveli district, about 22–24 km west of Tirunelveli on the road to Ambasamudram and Papanasam, with frequent buses. Cheranmahadevi railway station is on the Tirunelveli–Tenkasi line; Thoothukudi is the nearest airport."
+    "timings": "रोज सकाळ आणि सायंकाळ दर्शनाच्या सत्रांसह आणि मध्यान्हाच्या बंदसह खुले असते, या प्रदेशातील बहुतेक खेड्यातील मंदिरांप्रमाणे. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढावीत. दक्षिणेतील अनेक देवळांप्रमाणे पुरुषांना गर्भगृहासमोर वरचे वस्त्र काढण्यास परंपरेने सांगितले जाते; लावलेल्या नियमांचे पालन करा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रण प्रतिबंधित आहे; लावलेल्या नियमांचे आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "चेरन्महादेवी तिरुनेलवेली जिल्ह्यात, तिरुनेलवेलीच्या पश्चिमेस अंबासमुद्रम आणि पापनाशमच्या रस्त्यावर सुमारे २२–२४ किमी अंतरावर आहे, आणि तेथे वारंवार बस धावतात. चेरन्महादेवी रेल्वेस्थानक तिरुनेलवेली–तेनकाशी मार्गावर आहे; तुतिकोरिन हे सर्वांत जवळचे विमानतळ आहे."
   }
 }

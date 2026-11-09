@@ -1,29 +1,36 @@
 {
   "id": "kailasanathar-rajapathy",
   "locale": "mr",
+  "name": "कैलासनाथर मंदिर, राजपती",
   "nativeName": "கைலாசநாதர் கோயில், ராஜபதி",
+  "deity": "कैलासनाथर रूपातील शिव, देवी सौंदरनायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Rajapathy",
-    "state": "Tamil Nadu",
+    "city": "राजपती",
+    "state": "तमिळनाडू",
     "lat": 8.605,
     "lng": 78.025
   },
+  "period": "नव कैलासमपैकी आठवे, केतूचे मंदिर; खालच्या तामिरपरणी खोऱ्यातील एक ग्रामीण मंदिर",
   "century": 13,
+  "dynasty": "पांड्य (परंपरेनुसार)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "तामिरपरणी समुद्राजवळ पोहोचते तेथील कुरुंबूरनजीकच्या राजपती गावात, कैलासनाथर रूपातील शिव नव कैलासमपैकी आठवे स्थान सांभाळतात — केतू, छाया ग्रहाचे मंदिर.",
   "sections": {
-    "history": "Rajapathy is a small village in the Tiruchendur block of Thoothukudi district, on the lower course of the Tamiraparani, a few kilometres from Kurumbur on the road to Tiruchendur. Its Kailasanathar temple is the eighth of the Nava Kailasam and the shrine of Ketu, the southern node of the moon. Unlike some of its sister shrines upstream, the temple has no well-known inscriptions to fix its age, and it is remembered above all through the circuit to which it belongs. It remains a living village temple, cared for by its community and kept freshly painted, and its standing comes from its place in the river's chain of nine.",
-    "architecture": "The temple is a modest Dravidian shrine with its sanctum, a Nandi facing the lord, and a separate shrine for the Goddess Soundara Nayaki. Its most striking feature is in the sanctum itself: the linga is shown with four wheels, as though the lord rides in a chariot. A separate Navagraha shrine departs from the usual images of the nine planets — here every graha is represented by a Shiva linga, a reminder that Shiva is held to be the master of all the planets.",
-    "legends": "In the Nava Kailasam story, the eighth of the lotuses set afloat on the Tamiraparani by Romasa, the disciple of Agastya, came to rest at Rajapathy, and a linga was consecrated where it stopped. Tradition holds that Ketu himself worshipped Shiva here to be freed of his own afflictions, which is why the shrine is sought by those troubled by Ketu in their horoscopes, and why it is sometimes spoken of as a southern Kalahasti, after the great Rahu–Ketu shrine of Andhra. Besides the river, the temple counts the Palazhi theertham among its sacred waters.",
-    "festivals": "Special worship for relief from the effects of Ketu is customarily offered on Sundays and Tuesdays, and those passing through the seven-year period of Rahu also come to pray. Maha Shivaratri and the monthly pradosham are kept as at every Shiva temple. Confirm dates locally.",
-    "experience": "Rajapathy is the quietest of the downstream shrines, reached by village roads from Kurumbur. Pilgrims come with a particular purpose — a remedy for Ketu — and linger before the chariot-wheeled linga and the unusual Navagraha shrine of nine lingas before continuing to the last of the circuit, Senthapoomangalam, near the river mouth."
+    "history": "राजपती हे तूतुकुडी जिल्ह्याच्या तिरुचेंदूर तालुक्यातील, तामिरपरणीच्या खालच्या प्रवाहावरील एक लहानसे गाव असून तिरुचेंदूरच्या रस्त्यावर कुरुंबूरपासून काही किलोमीटरवर आहे. येथील कैलासनाथर मंदिर हे नव कैलासमपैकी आठवे आणि चंद्राच्या दक्षिण पातबिंदूचे, म्हणजे केतूचे स्थान आहे. नदीच्या वरच्या भागातील काही बहिणीमंदिरांप्रमाणे, या मंदिराचे वय निश्चित करणारे प्रसिद्ध शिलालेख नाहीत, आणि ज्या यात्रेचा ते भाग आहे तिच्यामुळेच ते सर्वप्रथम स्मरले जाते. ते आजही गावाचे जिवंत मंदिर असून समाज त्याची निगा राखतो आणि ते नेहमी ताजे रंगवलेले असते; नदीकाठच्या नऊ मंदिरांच्या साखळीतील त्याचे स्थान हीच त्याची प्रतिष्ठा आहे.",
+    "architecture": "हे एक साधे द्रविड शैलीचे मंदिर असून त्यात गाभारा, भगवंतासमोर बसलेला नंदी आणि देवी सौंदरनायकीचे स्वतंत्र मंदिर आहे. त्याचे सर्वांत लक्षवेधी वैशिष्ट्य गाभाऱ्यातच आहे: लिंग चार चाकांसह दाखवले आहे, जणू भगवंत रथात आरूढ झाले आहेत. स्वतंत्र नवग्रह मंदिर नऊ ग्रहांच्या नेहमीच्या प्रतिमांपेक्षा वेगळे आहे — येथे प्रत्येक ग्रह शिवलिंगाने दर्शवला आहे; शिव हे सर्व ग्रहांचे स्वामी मानले जातात याची ही आठवण आहे.",
+    "legends": "नव कैलासमच्या कथेनुसार, अगस्त्यांचे शिष्य रोमस यांनी तामिरपरणीवर सोडलेल्या कमळांपैकी आठवे कमळ राजपती येथे येऊन स्थिरावले, आणि ते जेथे थांबले तेथे लिंगाची प्रतिष्ठापना झाली. परंपरेनुसार केतूने स्वतःच्या पीडांतून मुक्त होण्यासाठी येथे शिवाची उपासना केली; म्हणूनच पत्रिकेत केतूमुळे त्रस्त असलेले लोक या मंदिराचा आश्रय घेतात, आणि आंध्रमधील राहू–केतूच्या महान मंदिरावरून याला कधी कधी दक्षिणेचे कालहस्ती म्हटले जाते. नदीशिवाय, पालाळी तीर्थही मंदिराच्या पवित्र जलांपैकी मानले जाते.",
+    "festivals": "केतूच्या प्रभावातून मुक्तीसाठी विशेष पूजा रविवारी आणि मंगळवारी करण्याची प्रथा आहे; राहूच्या सात वर्षांच्या कालखंडातून जाणारेही प्रार्थनेसाठी येतात. प्रत्येक शिवमंदिराप्रमाणे येथेही महाशिवरात्री आणि मासिक प्रदोष पाळले जातात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "राजपती हे खालच्या प्रवाहावरील मंदिरांपैकी सर्वांत शांत असून कुरुंबूरहून गावच्या रस्त्यांनी तेथे पोहोचता येते. यात्रेकरू विशिष्ट हेतूने येतात — केतूवरील उपायासाठी — आणि चाकांच्या लिंगासमोर तसेच नऊ लिंगांच्या अनोख्या नवग्रह मंदिरासमोर रेंगाळून, नदीमुखाजवळच्या यात्रेच्या शेवटच्या स्थानाकडे, सेन्दपूमंगलमकडे, पुढे जातात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Sundays and Tuesdays draw the most devotees. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Rajapathy lies in Thoothukudi district near Kurumbur, about 45 km from Tirunelveli on the road to Tiruchendur and roughly 32 km from Thoothukudi. Kurumbur, on the Tirunelveli–Tiruchendur railway line, is the nearest station, with local minibuses to the village; Thoothukudi is the nearest airport."
+    "timings": "दररोज उघडे; सकाळी आणि संध्याकाळी दर्शनाच्या वेळा आणि दुपारी बंद. रविवार आणि मंगळवारी सर्वाधिक भाविक येतात. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. अनेक दक्षिणेकडील मंदिरांप्रमाणे, गाभाऱ्यासमोर पुरुषांनी वरील वस्त्र काढण्याची परंपरा आहे; लावलेल्या नियमांचे पालन करावे.",
+    "photography": "गाभाऱ्यात आणि त्याच्या आसपास छायाचित्रणास निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "राजपती तूतुकुडी जिल्ह्यात कुरुंबूरजवळ, तिरुचेंदूरच्या रस्त्यावर तिरुनेलवेलीपासून सुमारे ४५ किमी आणि तूतुकुडीपासून साधारण ३२ किमी अंतरावर आहे. तिरुनेलवेली–तिरुचेंदूर रेल्वेमार्गावरील कुरुंबूर हे सर्वांत जवळचे स्थानक असून तेथून गावापर्यंत स्थानिक मिनीबसेस धावतात; तूतुकुडी हे सर्वांत जवळचे विमानतळ आहे."
   }
 }
