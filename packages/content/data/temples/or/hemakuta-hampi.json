@@ -1,30 +1,37 @@
 {
   "id": "hemakuta-hampi",
   "locale": "or",
+  "name": "ହେମକୂଟ ପାହାଡ଼ର ମନ୍ଦିରମାଳା, ହମ୍ପି",
   "nativeName": "ಹೇಮಕೂಟ ಬೆಟ್ಟದ ದೇವಾಲಯಗಳು, ಹಂಪೆ",
+  "deity": "ଶିବ, ଛୋଟ ଛୋଟ ଦେଉଳଗୁଡ଼ିକର ଗୋଟିଏ ସମୂହରେ ଲିଙ୍ଗ ରୂପେ ପୂଜିତ, ସେଥିରେ ମୂଳ ବିରୂପାକ୍ଷ ଦେଉଳ ମଧ୍ୟ ଅନ୍ତର୍ଭୁକ୍ତ",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "ହମ୍ପି",
+    "state": "କର୍ଣ୍ଣାଟକ",
     "lat": 15.3343,
     "lng": 76.4585
   },
+  "period": "ପ୍ରାୟ ୯ମରୁ ୧୪ଶ ଶତାବ୍ଦୀର ଦେଉଳମାନ, ଅନେକ ବିଜୟନଗର ସାମ୍ରାଜ୍ୟଠାରୁ ପ୍ରାଚୀନ; ଏକ ସଂରକ୍ଷିତ ସ୍ମାରକ ସମୂହ",
   "century": 9,
+  "dynasty": "ବିଜୟନଗର-ପୂର୍ବ ଓ ପ୍ରାରମ୍ଭିକ ବିଜୟନଗର",
+  "style": "ପାହାପାହି ପିରାମିଡ୍ ଆକାରର ଛାତ ଥିବା ପ୍ରାରମ୍ଭିକ ଦାକ୍ଷିଣାତ୍ୟ ଗ୍ରାନାଇଟ୍ ଦେଉଳ, ତ୍ରିକୂଟ (ତିନି-ଗର୍ଭଗୃହ) ମନ୍ଦିର ସମେତ",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "ବିରୂପାକ୍ଷ ମନ୍ଦିର ଉପରେ ଥିବା ଗ୍ରାନାଇଟ୍ ପାହାଡ଼ରେ ବିଜୟନଗର ସାମ୍ରାଜ୍ୟଠାରୁ ପୁରୁଣା ଡଜନ ଡଜନ ସରଳ ଛୋଟ ଦେଉଳ ଦେବୀ ପମ୍ପାଙ୍କୁ ବିବାହ କରିବା ପୂର୍ବେ ଶିବଙ୍କ ତପସ୍ୟାର ସ୍ମୃତି ବହନ କରି ଛିଡ଼ା ହୋଇଛି — ହମ୍ପିର ସର୍ବପ୍ରାଚୀନ ପବିତ୍ର ଭୂମି।",
   "sections": {
-    "history": "Long before Hampi became an imperial capital, the low hill rising south of the Virupaksha temple was already holy ground. Many of the shrines on Hemakuta are dated to roughly the 9th to 14th centuries, before the founding of Vijayanagara in the 14th century; the earliest, with their stepped pyramidal roofs, are placed around the 9th–10th century. Others belong to the first phase of the new empire, when its founders were still building at this sacred heart. In older times the hill was enclosed by stone walls, and gateways and pavilions were added across it over the centuries. When the great city fell in 1565 these modest shrines survived largely intact, and today they form part of the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
-    "architecture": "Hemakuta is a gallery of the architecture that came before Vijayanagara. Its shrines are small and austere, built of granite blocks with roofs that rise in stepped, pyramidal tiers — so unlike the later towered style that visitors have often mistaken them for Jain temples. On the northern side stand trikuta temples, in which three shrines open at right angles onto a shared central hall, dedicated to Shiva. On the southern part of the hill is the Mula Virupaksha shrine, whose front hall has the plain, cubical pillars of the pre-Vijayanagara period. Down the slopes stand two colossal monolithic Ganeshas, Sasivekalu and Kadalekalu, each in its own pillared shrine.",
-    "legends": "Hemakuta is where Hampi's sacred story begins. The goddess Pampa, a local river-deity later identified with Parvati, longed to wed Shiva, who sat here in deep penance. To help her, Kama, the god of love, loosed his arrows and broke the god's meditation; in anger Shiva opened his third eye and burned him to ashes. Moved by the pleas of Kama's wife Rati, Shiva later restored him, though without a body. When Shiva at last agreed to marry Pampa, the sthala purana tells, gold rained down upon the hill — and so it was called Hemakuta, the golden peak.",
-    "festivals": "The Hemakuta shrines are protected monuments without regular worship. The divine marriage of Shiva and Pampa that the hill's legend anticipates is celebrated each year at the Virupaksha temple just below, together with its car festival and Maha Shivaratri. The annual Hampi Utsav also brings music and dance to the site; confirm dates locally.",
-    "experience": "Climb up from beside the Virupaksha temple onto the smooth granite and wander among the shrines at your own pace; there is no fixed route. The hill is Hampi's favourite place to watch the sun go down, when the great gopuram of Virupaksha below catches the last light and the boulder hills turn copper. On the way down, pause before the two giant Ganeshas on the slopes."
+    "history": "ହମ୍ପି ଏକ ସାମ୍ରାଜ୍ୟିକ ରାଜଧାନୀ ହେବା ବହୁ ପୂର୍ବରୁ, ବିରୂପାକ୍ଷ ମନ୍ଦିରର ଦକ୍ଷିଣରେ ଉଠିଥିବା ନିମ୍ନ ପାହାଡ଼ଟି ଏକ ପବିତ୍ର ଭୂମି ଥିଲା। ହେମକୂଟର ଅନେକ ଦେଉଳକୁ ପ୍ରାୟ ୯ମରୁ ୧୪ଶ ଶତାବ୍ଦୀର ବୋଲି କୁହାଯାଏ, ଅର୍ଥାତ୍ ୧୪ଶ ଶତାବ୍ଦୀରେ ବିଜୟନଗର ପ୍ରତିଷ୍ଠା ପୂର୍ବର; ପାହାପାହି ପିରାମିଡ୍ ଛାତ ଥିବା ସର୍ବପ୍ରାଚୀନଗୁଡ଼ିକ ପ୍ରାୟ ୯ମ–୧୦ମ ଶତାବ୍ଦୀର ମନେକରାଯାଏ। ଅନ୍ୟଗୁଡ଼ିକ ନୂଆ ସାମ୍ରାଜ୍ୟର ପ୍ରଥମ ପର୍ଯ୍ୟାୟର, ଯେତେବେଳେ ଏହାର ପ୍ରତିଷ୍ଠାତାମାନେ ଏହି ପବିତ୍ର କେନ୍ଦ୍ରରେ ନିର୍ମାଣ କରୁଥିଲେ। ପୂର୍ବକାଳରେ ପାହାଡ଼କୁ ପଥର ପ୍ରାଚୀରରେ ଘେରାଯାଇଥିଲା, ଆଉ ଶତାବ୍ଦୀ ଶତାବ୍ଦୀ ଧରି ସେଠାରେ ପ୍ରବେଶଦ୍ୱାର ଓ ମଣ୍ଡପ ଯୋଡ଼ାଯାଇଥିଲା। ୧୫୬୫ରେ ମହାନଗରୀର ପତନ ହେଲାବେଳେ ଏହି ସରଳ ଦେଉଳଗୁଡ଼ିକ ପ୍ରାୟ ଅକ୍ଷତ ରହିଲା, ଆଉ ଆଜି ସେଗୁଡ଼ିକ ହମ୍ପିର ସ୍ମାରକ ସମୂହର ଅଂଶ, ଯାହା ୧୯୮୬ ଠାରୁ ଏକ ଇଉନେସ୍କୋ ବିଶ୍ୱ ଐତିହ୍ୟ ସ୍ଥଳ।",
+    "architecture": "ହେମକୂଟ ବିଜୟନଗର ପୂର୍ବର ସ୍ଥାପତ୍ୟର ଏକ ପ୍ରଦର୍ଶନୀ। ଏହାର ଦେଉଳଗୁଡ଼ିକ ଛୋଟ ଓ ସରଳ, ଗ୍ରାନାଇଟ୍ ଖଣ୍ଡରେ ନିର୍ମିତ, ଛାତ ପାହାପାହି ପିରାମିଡ୍ ସ୍ତରରେ ଉଠିଛି — ପରବର୍ତ୍ତୀ ଗଗନଚୁମ୍ବୀ ଶୈଳୀଠାରୁ ଏତେ ଭିନ୍ନ ଯେ ଦର୍ଶକମାନେ ପ୍ରାୟ ଏଗୁଡ଼ିକୁ ଜୈନ ମନ୍ଦିର ବୋଲି ଭୁଲ ବୁଝନ୍ତି। ଉତ୍ତର ପାର୍ଶ୍ୱରେ ତ୍ରିକୂଟ ମନ୍ଦିର ଅଛି, ଯେଉଁଥିରେ ତିନୋଟି ଗର୍ଭଗୃହ ଏକ ସାଧାରଣ ମଧ୍ୟ ଅଳିନ୍ଦ ଆଡ଼କୁ ସମକୋଣରେ ଖୋଲେ, ଏଗୁଡ଼ିକ ଶିବଙ୍କୁ ଉତ୍ସର୍ଗୀକୃତ। ପାହାଡ଼ର ଦକ୍ଷିଣ ଭାଗରେ ମୂଳ ବିରୂପାକ୍ଷ ଦେଉଳ, ଯାହାର ସମ୍ମୁଖ ମଣ୍ଡପରେ ବିଜୟନଗର ପୂର୍ବ ଯୁଗର ସାଦାସିଧା ଘନାକାର ସ୍ତମ୍ଭ ଅଛି। ଢାଲୁ ତଳେ ଦୁଇଟି ବିଶାଳ ଏକଶିଳା ଗଣେଶ — ସାସିବେକାଲୁ ଓ କଡ଼ଲେକାଲୁ — ପ୍ରତ୍ୟେକେ ନିଜ ନିଜ ସ୍ତମ୍ଭଯୁକ୍ତ ଦେଉଳରେ ଛିଡ଼ା ହୋଇଛନ୍ତି।",
+    "legends": "ହେମକୂଟରୁ ହମ୍ପିର ପବିତ୍ର କାହାଣୀ ଆରମ୍ଭ ହୁଏ। ପମ୍ପା ଦେବୀ, ଜଣେ ସ୍ଥାନୀୟ ନଦୀଦେବୀ ଯିଏ ପରେ ପାର୍ବତୀଙ୍କ ସହ ଏକାତ୍ମ ହେଲେ, ଏଠାରେ ଗଭୀର ତପସ୍ୟାରେ ବସିଥିବା ଶିବଙ୍କୁ ବିବାହ କରିବାକୁ ଇଚ୍ଛା କଲେ। ତାଙ୍କୁ ସାହାଯ୍ୟ କରିବାକୁ ପ୍ରେମର ଦେବତା କାମ ନିଜ ବାଣ ଛାଡ଼ି ଦେବଙ୍କ ଧ୍ୟାନ ଭଙ୍ଗ କଲେ; କ୍ରୋଧରେ ଶିବ ତୃତୀୟ ନେତ୍ର ଖୋଲି ତାଙ୍କୁ ଭସ୍ମ କରିଦେଲେ। କାମଙ୍କ ପତ୍ନୀ ରତିଙ୍କ ବିନତିରେ ବିଚଳିତ ହୋଇ ଶିବ ପରେ ତାଙ୍କୁ ପୁନର୍ଜୀବିତ କଲେ, ଯଦିଓ ଶରୀର ବିନା। ଶିବ ଶେଷରେ ପମ୍ପାଙ୍କୁ ବିବାହ କରିବାକୁ ରାଜି ହେବାରୁ, ସ୍ଥଳପୁରାଣ କୁହେ, ପାହାଡ଼ ଉପରେ ସୁନା ବର୍ଷା ହେଲା — ଆଉ ସେଥିପାଇଁ ଏହାକୁ ହେମକୂଟ, ଅର୍ଥାତ୍ ସୁନେଲି ଶିଖର କୁହାଗଲା।",
+    "festivals": "ହେମକୂଟର ଦେଉଳଗୁଡ଼ିକ ସଂରକ୍ଷିତ ସ୍ମାରକ, ସେଠାରେ ନିୟମିତ ପୂଜା ହୁଏ ନାହିଁ। ପାହାଡ଼ର ଲୋକକଥା ଯେଉଁ ଶିବ ଓ ପମ୍ପାଙ୍କ ଦିବ୍ୟ ବିବାହ ପୂର୍ବାଭାସ ଦିଏ, ତାହା ପ୍ରତିବର୍ଷ ଠିକ୍ ତଳେ ଥିବା ବିରୂପାକ୍ଷ ମନ୍ଦିରରେ ଏହାର ରଥ ଉତ୍ସବ ଓ ମହାଶିବରାତ୍ରି ସହିତ ପାଳିତ ହୁଏ। ବାର୍ଷିକ ହମ୍ପି ଉତ୍ସବ ମଧ୍ୟ ଏହି ସ୍ଥାନକୁ ସଙ୍ଗୀତ ଓ ନୃତ୍ୟ ଆଣେ; ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ବିରୂପାକ୍ଷ ମନ୍ଦିର ପାଖରୁ ଚଢ଼ି ମସୃଣ ଗ୍ରାନାଇଟ୍ ଉପରକୁ ଯାଇ ନିଜ ଗତିରେ ଦେଉଳମାନଙ୍କ ମଧ୍ୟରେ ବୁଲନ୍ତୁ; କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ପଥ ନାହିଁ। ଏହି ପାହାଡ଼ ହମ୍ପିର ସୂର୍ଯ୍ୟାସ୍ତ ଦେଖିବାର ସବୁଠାରୁ ପ୍ରିୟ ସ୍ଥାନ, ଯେତେବେଳେ ତଳେ ବିରୂପାକ୍ଷର ବିଶାଳ ଗୋପୁରମ୍ ଶେଷ ଆଲୋକ ଧରେ ଓ ବୋଲଡର୍ ପାହାଡ଼ ତମ୍ବା ରଙ୍ଗ ହୋଇଯାଏ। ଓହ୍ଲାଇବା ବେଳେ ଢାଲୁରେ ଥିବା ଦୁଇ ବିଶାଳ ଗଣେଶଙ୍କ ସମ୍ମୁଖରେ କିଛି କ୍ଷଣ ଅଟକନ୍ତୁ।"
   },
   "visit": {
-    "timings": "An open hillside of protected monuments cared for by the Archaeological Survey of India, generally accessible during daylight hours; confirm access locally.",
-    "dressCode": "Modest dress is appreciated at this sacred site; wear sturdy footwear with good grip for the bare rock, and carry water and sun protection.",
-    "photography": "Photography is generally allowed; tripods, drones or professional shoots need permission from the site authorities.",
-    "gettingThere": "Hemakuta hill rises immediately south of the Virupaksha temple and Hampi Bazaar, with paths up from beside the temple and from the Krishna temple road. Hampi lies in Vijayanagara district, Karnataka; Hosapete (Hospet), about 13 km away, has the nearest railway station, and Bengaluru is roughly 340 km by road."
+    "timings": "ଭାରତୀୟ ପୁରାତତ୍ତ୍ୱ ସର୍ବେକ୍ଷଣ ଦ୍ୱାରା ରକ୍ଷିତ ସଂରକ୍ଷିତ ସ୍ମାରକର ଏକ ଖୋଲା ପାହାଡ଼ ଢାଲୁ, ସାଧାରଣତଃ ଦିନବେଳା ପ୍ରବେଶଯୋଗ୍ୟ; ପ୍ରବେଶ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଏହି ପବିତ୍ର ସ୍ଥାନରେ ସଂଯତ ପୋଷାକ ପ୍ରଶଂସନୀୟ; ଖାଲି ପଥର ପାଇଁ ଭଲ ଧରଣଯୁକ୍ତ ମଜବୁତ ଜୋତା ପିନ୍ଧନ୍ତୁ, ଏବଂ ପାଣି ଓ ଖରାରୁ ସୁରକ୍ଷା ସାଥିରେ ରଖନ୍ତୁ।",
+    "photography": "ଫଟୋଗ୍ରାଫି ସାଧାରଣତଃ ଅନୁମତିପ୍ରାପ୍ତ; ଟ୍ରାଇପଡ୍, ଡ୍ରୋନ୍ କିମ୍ବା ବୃତ୍ତିଗତ ସୁଟିଂ ପାଇଁ ସ୍ଥାନର କର୍ତ୍ତୃପକ୍ଷଙ୍କ ଅନୁମତି ଆବଶ୍ୟକ।",
+    "gettingThere": "ହେମକୂଟ ପାହାଡ଼ ବିରୂପାକ୍ଷ ମନ୍ଦିର ଓ ହମ୍ପି ବଜାରର ଠିକ୍ ଦକ୍ଷିଣରେ ଉଠିଛି, ମନ୍ଦିର ପାଖରୁ ଓ କୃଷ୍ଣ ମନ୍ଦିର ରାସ୍ତାରୁ ଉପରକୁ ବାଟ ଅଛି। ହମ୍ପି କର୍ଣ୍ଣାଟକର ବିଜୟନଗର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ; ପ୍ରାୟ ୧୩ କିଲୋମିଟର ଦୂରରେ ଥିବା ହୋସପେଟ୍ (ହସ୍ପେଟ୍)ରେ ନିକଟତମ ରେଳଷ୍ଟେସନ ଅଛି, ଆଉ ବେଙ୍ଗାଲୁରୁ ସଡ଼କ ପଥରେ ପ୍ରାୟ ୩୪୦ କିଲୋମିଟର।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/hemakuta-hampi.jpg",
