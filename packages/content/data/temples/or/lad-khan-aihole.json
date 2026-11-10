@@ -1,30 +1,37 @@
 {
   "id": "lad-khan-aihole",
   "locale": "or",
+  "name": "ଲାଡ୍ ଖାନ୍ ମନ୍ଦିର, ଐହୋଳେ",
   "nativeName": "ಲಾಡ್ ಖಾನ್ ದೇವಾಲಯ, ಐಹೊಳೆ",
+  "deity": "ଶିବ, ଗର୍ଭଗୃହରେ ବର୍ତ୍ତମାନ ଏକ ଲିଙ୍ଗ ଅଛି; ମୂଳ ଉତ୍ସର୍ଗ ବିବାଦୀୟ, ବିଷ୍ଣୁ ବା ସୂର୍ଯ୍ୟଙ୍କ ନାମ ପ୍ରସ୍ତାବିତ",
+  "tradition": "ଶୈବ ପରମ୍ପରା",
   "location": {
-    "city": "Aihole",
-    "state": "Karnataka",
+    "city": "ଐହୋଳେ",
+    "state": "କର୍ଣ୍ଣାଟକ",
     "lat": 16.0199,
     "lng": 75.8812
   },
+  "period": "ପ୍ରାଥମିକ ଚାଲୁକ୍ୟ, ପଞ୍ଚମ ଶତାବ୍ଦୀରୁ ଅଷ୍ଟମ ଶତାବ୍ଦୀ ମଧ୍ୟରେ ବିଭିନ୍ନ ଭାବେ କାଳନିର୍ଣ୍ଣୟ",
   "century": 5,
+  "dynasty": "ବାଦାମୀର ଚାଲୁକ୍ୟ (ପ୍ରାଥମିକ ଚାଲୁକ୍ୟ)",
+  "style": "ପ୍ରାଥମିକ ଚାଲୁକ୍ୟ, ପରୀକ୍ଷାମୂଳକ ସ୍ତମ୍ଭଯୁକ୍ତ ସଭାଗୃହ ରୂପ",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "ଐହୋଳେର ସର୍ବପୁରାତନ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ; ସ୍ତମ୍ଭଯୁକ୍ତ ଲାଡ୍ ଖାନ୍ ସଭାଗୃହ ଏକ ଛୋଟ ଗର୍ଭଗୃହକୁ ଘେରି ବର୍ଗ ଭିତରେ ବର୍ଗ ଆକାରରେ ବିସ୍ତୃତ, ଛାତ ଉପରେ ଏକ ମନ୍ଦିର ଓ ପଥର ଜାଲି ସହିତ, ଯାହା ଚାଲୁକ୍ୟ ନିର୍ମାଣର ଏକ ପ୍ରାଥମିକ ପରୀକ୍ଷାମୂଳକ ପର୍ଯ୍ୟାୟକୁ ଚିହ୍ନିତ କରେ।",
   "sections": {
-    "history": "Lad Khan is one of the oldest standing temples at Aihole, inside the walled enclosure beside the Durga temple. Its date is genuinely debated: older accounts place it in the seventh or eighth century, while current scholarship leans towards about the fifth century, with the porch perhaps added not long afterwards. The name does not come from its builders; it recalls a man called Lad Khan who is said to have lived in the building in the nineteenth century, and accounts differ on whether he was a prince or a hermit. Some scholars suggest the shrine was first dedicated to Vishnu and later to the sun god Surya; today a Shiva linga stands in its sanctum. It is a protected monument, kept by the Archaeological Survey of India.",
-    "architecture": "Where later temples rise in towers, Lad Khan spreads out like an assembly hall. A deep porch with heavy square pillars leads into a sabha-mandapa whose pillars are set in two concentric squares, and beyond it a mukha-mandapa carried on twelve carved pillars; a small rectangular sanctum waits at the back. Large stone lattice windows let light into the hall, and low sloping roofs step down around a little shrine perched on the roof, which holds images of Vishnu, Surya and the Devi. Many architectural historians see in this low, broad form a stone echo of the timber village halls that came before.",
-    "legends": "Lad Khan’s stories belong to the building itself. Its name tells of a later occupant who made a home of the old hall, and the roof shrine, with its images of Vishnu, Surya and the Devi, hints at a long conversation between faiths under one roof. Aihole’s wider folklore is close at hand: tradition says the sage Parashurama washed his axe in the Malaprabha here and turned the river red, giving the town its name. No single legend is fixed to this temple; visitors are invited to read the puzzle of its dedication in the stone.",
-    "festivals": "Lad Khan is a protected monument rather than a temple with a daily round of worship, so it keeps no festival calendar of its own. Aihole’s living shrines and village fairs follow local custom, Maha Shivaratri being the observance most associated with a Shiva linga; confirm dates locally. The Chalukya monuments are also celebrated together in regional heritage festivals of music and dance.",
-    "experience": "Step into the porch and the hall opens around you in squares within squares, cool and dim after the Aihole sun. Light falls through the stone lattices in patterns that drift across the floor through the day. Look up to the little roof shrine, then walk on to the neighbouring Durga temple and the scattered shrines beyond. Early morning or late afternoon is gentler for the enclosure."
+    "history": "ଲାଡ୍ ଖାନ୍ ଐହୋଳେର ସର୍ବପୁରାତନ ଠିଆ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରୁ ଏକ, ଦୁର୍ଗା ମନ୍ଦିର ପାଖରେ ପ୍ରାଚୀର ଘେରା ପରିସର ଭିତରେ ଅବସ୍ଥିତ। ଏହାର ତାରିଖ ପ୍ରକୃତରେ ବିବାଦୀୟ: ପୁରୁଣା ବିବରଣୀ ଏହାକୁ ସପ୍ତମ ବା ଅଷ୍ଟମ ଶତାବ୍ଦୀରେ ରଖେ, ଆଉ ବର୍ତ୍ତମାନର ଗବେଷଣା ପ୍ରାୟ ପଞ୍ଚମ ଶତାବ୍ଦୀ ଆଡ଼କୁ ଢଳେ, ଏହାର ପରେ ଅଳ୍ପ ସମୟ ମଧ୍ୟରେ ଅଗ୍ରଭାଗ ଯୋଡ଼ାଯାଇଥାଇପାରେ। ନାମଟି ନିର୍ମାତାଙ୍କଠାରୁ ଆସିନାହିଁ; ଏହା ଲାଡ୍ ଖାନ୍ ନାମକ ଜଣେ ବ୍ୟକ୍ତିଙ୍କୁ ସ୍ମରଣ କରେ, ଯିଏ ଊନବିଂଶ ଶତାବ୍ଦୀରେ ଏହି ଭବନରେ ରହିଥିଲେ ବୋଲି କୁହାଯାଏ, ଆଉ ସେ ରାଜକୁମାର ନା ସାଧକ ଥିଲେ ସେ ବିଷୟରେ ବିବରଣୀ ଭିନ୍ନ। କେତେକ ପଣ୍ଡିତ ମନେକରନ୍ତି ଏହି ମନ୍ଦିର ପ୍ରଥମେ ବିଷ୍ଣୁଙ୍କୁ ଓ ପରେ ସୂର୍ଯ୍ୟ ଦେବଙ୍କୁ ଉତ୍ସର୍ଗ ହୋଇଥିଲା; ଆଜି ଏହାର ଗର୍ଭଗୃହରେ ଏକ ଶିବ ଲିଙ୍ଗ ଅଛି। ଏହା ଏକ ସଂରକ୍ଷିତ ସ୍ମାରକ, ଭାରତୀୟ ପୁରାତତ୍ତ୍ୱ ସର୍ବେକ୍ଷଣ ଦ୍ୱାରା ରକ୍ଷିତ।",
+    "architecture": "ପରବର୍ତ୍ତୀ ମନ୍ଦିରମାନ ଶିଖର ସହିତ ଉଚ୍ଚକୁ ଉଠେ, କିନ୍ତୁ ଲାଡ୍ ଖାନ୍ ଏକ ସଭାଗୃହ ଭଳି ଚଉଡ଼ାରେ ବିସ୍ତୃତ। ଭାରୀ ବର୍ଗାକାର ସ୍ତମ୍ଭ ସହିତ ଏକ ଗଭୀର ଅଗ୍ରଭାଗ ଏକ ସଭା-ମଣ୍ଡପକୁ ଯାଏ, ଯାହାର ସ୍ତମ୍ଭଗୁଡ଼ିକ ଦୁଇଟି ଏକକେନ୍ଦ୍ରିକ ବର୍ଗରେ ସଜ୍ଜିତ; ତା'ପରେ ବାରଟି ଖୋଦିତ ସ୍ତମ୍ଭ ଉପରେ ଏକ ମୁଖ-ମଣ୍ଡପ, ଆଉ ପଛରେ ଏକ ଛୋଟ ଆୟତାକାର ଗର୍ଭଗୃହ। ବଡ଼ ପଥର ଜାଲି ଝରକା ଦେଇ ସଭାଗୃହକୁ ଆଲୋକ ଆସେ, ଆଉ ଢାଲୁ ନିମ୍ନ ଛାତ ଛାତ ଉପରେ ବସିଥିବା ଛୋଟ ମନ୍ଦିର ଚାରିପାଖରେ ପାହାଚ ଭଳି ଓହ୍ଲାଏ, ଯେଉଁଥିରେ ବିଷ୍ଣୁ, ସୂର୍ଯ୍ୟ ଓ ଦେବୀଙ୍କ ମୂର୍ତ୍ତି ଅଛି। ଅନେକ ସ୍ଥାପତ୍ୟ ଇତିହାସକାର ଏହି ନିମ୍ନ, ଚଉଡ଼ା ରୂପରେ ପୂର୍ବରୁ ଥିବା କାଠର ଗ୍ରାମ୍ୟ ସଭାଗୃହର ପଥରୀୟ ପ୍ରତିଧ୍ୱନି ଦେଖନ୍ତି।",
+    "legends": "ଲାଡ୍ ଖାନ୍‌ର କାହାଣୀ ଭବନ ସହିତ ହିଁ ଜଡ଼ିତ। ଏହାର ନାମ ଏକ ପରବର୍ତ୍ତୀ ବାସିନ୍ଦାଙ୍କୁ ସ୍ମରଣ କରେ, ଯିଏ ପୁରୁଣା ସଭାଗୃହକୁ ଘର କରିଥିଲେ, ଆଉ ଛାତର ମନ୍ଦିର, ବିଷ୍ଣୁ, ସୂର୍ଯ୍ୟ ଓ ଦେବୀଙ୍କ ମୂର୍ତ୍ତି ସହିତ, ଗୋଟିଏ ଛାତ ତଳେ ବିଭିନ୍ନ ଧର୍ମର ଦୀର୍ଘ ସଂଳାପର ଆଭାସ ଦିଏ। ଐହୋଳେର ବ୍ୟାପକ ଲୋକକଥା ନିକଟରେ ଅଛି: ପରମ୍ପରା କହେ ଋଷି ପରଶୁରାମ ଏଠାରେ ମଲପ୍ରଭାରେ ନିଜ କୁରାଢ଼ି ଧୋଇଥିଲେ ଓ ନଦୀକୁ ଲାଲ କରିଦେଇଥିଲେ, ଯାହା ସହରକୁ ନାମ ଦେଲା। ଏହି ମନ୍ଦିର ସହିତ କୌଣସି ଏକ କିମ୍ବଦନ୍ତୀ ସ୍ଥିର ଭାବେ ଜଡ଼ିତ ନୁହେଁ; ପଥରରେ ଏହାର ଉତ୍ସର୍ଗର ଧାର୍ଧା ପଢ଼ିବାକୁ ଦର୍ଶକଙ୍କୁ ଆମନ୍ତ୍ରଣ କରାଯାଏ।",
+    "festivals": "ଲାଡ୍ ଖାନ୍ ଏକ ସଂରକ୍ଷିତ ସ୍ମାରକ, ଦୈନିକ ପୂଜାଯୁକ୍ତ ମନ୍ଦିର ନୁହେଁ, ତେଣୁ ଏହାର ନିଜସ୍ୱ କୌଣସି ଉତ୍ସବ ପଞ୍ଜିକା ନାହିଁ। ଐହୋଳେର ଜୀବନ୍ତ ମନ୍ଦିର ଓ ଗ୍ରାମ୍ୟ ମେଳା ସ୍ଥାନୀୟ ପରମ୍ପରା ଅନୁସାରେ ହୁଏ, ଶିବ ଲିଙ୍ଗ ସହିତ ସର୍ବାଧିକ ଜଡ଼ିତ ପର୍ବ ମହାଶିବରାତ୍ରି; ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ। ଚାଲୁକ୍ୟ ସ୍ମାରକଗୁଡ଼ିକ ଆଞ୍ଚଳିକ ଐତିହ୍ୟ ସଙ୍ଗୀତ ଓ ନୃତ୍ୟ ଉତ୍ସବରେ ମିଳିତ ଭାବେ ମଧ୍ୟ ପାଳିତ ହୁଏ।",
+    "experience": "ଅଗ୍ରଭାଗରେ ପାଦ ଦିଅନ୍ତୁ, ଆଉ ଐହୋଳେର ଖରାପରେ ଶୀତଳ ଓ ଅନ୍ଧାର ସଭାଗୃହ ଆପଣଙ୍କ ଚାରିପାଖରେ ବର୍ଗ ଭିତରେ ବର୍ଗ ଆକାରରେ ଖୋଲିଯାଏ। ପଥର ଜାଲି ଦେଇ ଆସୁଥିବା ଆଲୋକ ଦିନସାରା ଚଟାଣ ଉପରେ ଘୁଞ୍ଚୁଥିବା ନକ୍ସା ସୃଷ୍ଟି କରେ। ଛାତର ଛୋଟ ମନ୍ଦିରକୁ ଉପରକୁ ଚାହିଁ ଦେଖନ୍ତୁ, ତା'ପରେ ପାଖର ଦୁର୍ଗା ମନ୍ଦିର ଓ ଅଧିକ ଦୂରର ବିଛିନ୍ନ ମନ୍ଦିରଗୁଡ଼ିକୁ ଯାଆନ୍ତୁ। ପରିସର ପାଇଁ ସକାଳ ବା ଅପରାହ୍ନ ଶେଷ ସମୟ ଅଧିକ ସୁଖଦ।"
   },
   "visit": {
-    "timings": "A protected Archaeological Survey of India monument within the Aihole temple enclosure, open in daytime hours like the other ASI sites here; a ticket is required. Confirm current hours and fees locally.",
-    "dressCode": "No strict dress code applies, but modest dress is appropriate at a sacred site; comfortable footwear helps on the uneven ground.",
-    "photography": "Photography is generally allowed in the open monument; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Aihole is in Bagalkot district, about 35 km from Badami and 15 km from Pattadakal by road; the nearest railheads are Badami and Bagalkot, and the nearest airport is Hubballi. The temple stands in the same walled enclosure as the Durga temple."
+    "timings": "ଐହୋଳେ ମନ୍ଦିର ପରିସର ଭିତରେ ଏକ ସଂରକ୍ଷିତ ଭାରତୀୟ ପୁରାତତ୍ତ୍ୱ ସର୍ବେକ୍ଷଣ ସ୍ମାରକ, ଏଠାକାର ଅନ୍ୟ ସ୍ମାରକ ପରି ଦିନବେଳା ଖୋଲା; ଟିକେଟ୍ ଆବଶ୍ୟକ। ବର୍ତ୍ତମାନର ସମୟ ଓ ଶୁଳ୍କ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "କୌଣସି କଡ଼ା ପୋଷାକ ନିୟମ ନାହିଁ, କିନ୍ତୁ ପବିତ୍ର ସ୍ଥାନରେ ସଭ୍ୟ ପୋଷାକ ଉଚିତ; ଅସମତଳ ଭୂମିରେ ଆରାମଦାୟକ ଜୋତା ସହାୟକ।",
+    "photography": "ଖୋଲା ସ୍ମାରକରେ ଫଟୋ ଉଠାଇବା ସାଧାରଣତଃ ଅନୁମତିପ୍ରାପ୍ତ; ଟ୍ରାଇପଡ୍ ବା ବୃତ୍ତିଗତ ଶୁଟିଂ ପାଇଁ ସ୍ଥାନ କର୍ତ୍ତୃପକ୍ଷଙ୍କ ଅନୁମତି ଆବଶ୍ୟକ ହୋଇପାରେ।",
+    "gettingThere": "ଐହୋଳେ ବାଗଲକୋଟ ଜିଲ୍ଲାରେ, ସଡ଼କ ପଥରେ ବାଦାମୀରୁ ପ୍ରାୟ ୩୫ କିମି ଓ ପଟ୍ଟଦକଲ୍ଲୁରୁ ୧୫ କିମି; ନିକଟତମ ରେଳ ଷ୍ଟେସନ ବାଦାମୀ ଓ ବାଗଲକୋଟ, ନିକଟତମ ବିମାନବନ୍ଦର ହୁବ୍ବଳ୍ଳି। ମନ୍ଦିର ଦୁର୍ଗା ମନ୍ଦିର ସହିତ ଏକା ପ୍ରାଚୀର ଘେରା ପରିସରରେ ଅବସ୍ଥିତ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/lad-khan-aihole.jpg",

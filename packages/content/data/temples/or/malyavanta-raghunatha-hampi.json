@@ -1,30 +1,37 @@
 {
   "id": "malyavanta-raghunatha-hampi",
   "locale": "or",
+  "name": "ମାଲ୍ୟବନ୍ତ ରଘୁନାଥ ମନ୍ଦିର, ହମ୍ପୀ",
   "nativeName": "ಮಾಲ್ಯವಂತ ರಘುನಾಥ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "ରାମ ରଘୁନାଥ ରୂପେ, ସୀତା, ଲକ୍ଷ୍ମଣ ଏବଂ ଆଣ୍ଠୁମାଡ଼ି ବସିଥିବା ହନୁମାନଙ୍କ ସହିତ, ଗର୍ଭଗୃହ ଗଠନ କରୁଥିବା ବିଶାଳ ଶିଳାଖଣ୍ଡରେ ଖୋଦିତ",
+  "tradition": "ବୈଷ୍ଣବ ପରମ୍ପରା",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "ହମ୍ପୀ",
+    "state": "କର୍ଣ୍ଣାଟକ",
     "lat": 15.3244,
     "lng": 76.4868
   },
+  "period": "ବିଜୟନଗର ରାଜଧାନୀର ଏକ ପାହାଡ଼ ଶୀର୍ଷ ମନ୍ଦିର, ସଦାଶିବ ରାୟଙ୍କ ଅଧୀନରେ ଖ୍ରୀଷ୍ଟାବ୍ଦ ୧୫୫୯ ସୁଦ୍ଧା ଦାନପ୍ରାପ୍ତ; ଏବେ ମଧ୍ୟ ପୂଜା ଚାଲିଛି",
   "century": 16,
+  "dynasty": "ବିଜୟନଗର",
+  "style": "ଦ୍ରାବିଡ଼, ବିଜୟନଗର ପର୍ଯ୍ୟାୟ, ଏକ ପ୍ରାକୃତିକ ଶିଳାଖଣ୍ଡ ଚାରିପାଖରେ ନିର୍ମିତ",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "ମାଲ୍ୟବନ୍ତ ପାହାଡ଼ ଉପରେ, ଯେଉଁଠି ପରମ୍ପରା ଅନୁସାରେ ରାମ ଓ ଲକ୍ଷ୍ମଣ ସୀତାଙ୍କ ଖୋଜା ପୂର୍ବରୁ ବର୍ଷାକାଳ କଟାଇଥିଲେ, ସେଠାରେ ଏକ ଜୀବନ୍ତ ବିଜୟନଗର ମନ୍ଦିର ରାମଙ୍କ ପରିବାର ଖୋଦିତ ଏକ ବିଶାଳ ଶିଳାଖଣ୍ଡ ଚାରିପାଖରେ ଉଠିଛି।",
   "sections": {
-    "history": "Malyavanta hill rises on the eastern edge of the old Vijayanagara city, above what was once its urban core, and its temple to Rama as Raghunatha has drawn worshippers since imperial times. An inscription dated Saka 1481, or 1559 CE, in the reign of Sadashiva Raya, records a grant of land to the god, named in it as Malyavanta-Raghunathadeva, to maintain a charitable water trough — evidence that the shrine was already established and endowed in the last years of the empire. When the capital fell in 1565, worship here was not extinguished, and the temple remains a living shrine amid the ruins of the World Heritage site of Hampi.",
-    "architecture": "The temple is built around a massive granite boulder, and the sanctum is the rock itself: Rama, Sita and Lakshmana, with Hanuman kneeling before them, are carved on its face. The boulder rises clean through the roof of the shrine, and a small built tower has been set upon its summit, so that nature and the builders together supply the vimana. The walled complex is entered through two gopurams in the Vijayanagara manner, a five-storeyed tower on the south and a three-storeyed one on the east, and holds a goddess shrine and a small Shiva shrine. Nearby, a cleft in the rock is carved with rows of lingas and Nandis.",
-    "legends": "Tradition identifies Malyavanta with Mount Prasravana of the Ramayana. After Sugriva was crowned king of Kishkindha, the rains set in and the search for Sita had to wait; Rama and Lakshmana spent the four months of the monsoon sheltering on this hill, Rama grieving for Sita while Lakshmana kept watch and urged him to hope. When the rains ended, the monkey armies gathered and the search began that would lead to Lanka. Devotees climb the hill to stand where, as the story holds, Rama waited and prayed.",
-    "festivals": "As a living Rama temple, Malyavanta Raghunatha keeps the Vaishnava calendar, with Rama Navami as its chief festival; Hanuman Jayanti, honouring the devotee who kneels in the carving, is customarily marked as well, and bhajan singing is a regular part of worship here. Confirm dates and any special observances locally.",
-    "experience": "A road winds up to the hilltop, and the view repays the climb: the boulder country of Hampi spreads in every direction, with the Tungabhadra glinting to the north. The hill is a favourite place to watch the sunset. Enter through the southern gopuram, stand before the carved boulder in the cool of the sanctum, then walk around the outside to see the rock rising through the roof."
+    "history": "ମାଲ୍ୟବନ୍ତ ପାହାଡ଼ ପୁରାତନ ବିଜୟନଗର ସହରର ପୂର୍ବ ପ୍ରାନ୍ତରେ, ଏକଦା ଏହାର ନଗର କେନ୍ଦ୍ର ଥିବା ସ୍ଥାନ ଉପରେ ଉଠିଛି, ଏବଂ ରାମଙ୍କ ରଘୁନାଥ ରୂପର ମନ୍ଦିର ସାମ୍ରାଜ୍ୟ ଯୁଗରୁ ଭକ୍ତମାନଙ୍କୁ ଆକର୍ଷିତ କରିଆସିଛି। ଶକ ୧୪୮୧, ଅର୍ଥାତ୍ ଖ୍ରୀଷ୍ଟାବ୍ଦ ୧୫୫୯, ସଦାଶିବ ରାୟଙ୍କ ଶାସନକାଳର ଏକ ଶିଳାଲେଖରେ ଏକ ଦାତବ୍ୟ ଜଳପାତ୍ର ରକ୍ଷଣାବେକ୍ଷଣ ପାଇଁ ଦେବତାଙ୍କୁ, ଯାହାଙ୍କୁ ତହିଁରେ ମାଲ୍ୟବନ୍ତ-ରଘୁନାଥଦେବ ନାମ ଦିଆଯାଇଛି, ଜମି ଦାନର ଉଲ୍ଲେଖ ଅଛି — ଯାହା ପ୍ରମାଣ କରେ ଯେ ସାମ୍ରାଜ୍ୟର ଶେଷ ବର୍ଷଗୁଡ଼ିକରେ ମନ୍ଦିର ପୂର୍ବରୁ ପ୍ରତିଷ୍ଠିତ ଓ ଦାନପ୍ରାପ୍ତ ଥିଲା। ୧୫୬୫ରେ ରାଜଧାନୀର ପତନ ପରେ ଏଠାରେ ପୂଜା ଲୁପ୍ତ ହେଲା ନାହିଁ, ଏବଂ ମନ୍ଦିର ବିଶ୍ୱ ଐତିହ୍ୟ ସ୍ଥଳ ହମ୍ପୀର ଧ୍ୱଂସାବଶେଷ ମଧ୍ୟରେ ଏକ ଜୀବନ୍ତ ମନ୍ଦିର ଭାବେ ରହିଛି।",
+    "architecture": "ମନ୍ଦିରଟି ଏକ ବିଶାଳ ଗ୍ରାନାଇଟ୍ ଶିଳାଖଣ୍ଡ ଚାରିପାଖରେ ନିର୍ମିତ, ଏବଂ ଗର୍ଭଗୃହ ହେଉଛି ସେହି ପଥର ନିଜେ: ରାମ, ସୀତା ଓ ଲକ୍ଷ୍ମଣ, ସେମାନଙ୍କ ସମ୍ମୁଖରେ ଆଣ୍ଠୁମାଡ଼ି ବସିଥିବା ହନୁମାନଙ୍କ ସହିତ, ଏହାର ମୁଖରେ ଖୋଦିତ। ଶିଳାଖଣ୍ଡ ମନ୍ଦିରର ଛାତ ଭେଦ କରି ସିଧା ଉଠିଛି, ଏବଂ ଏହାର ଶିଖରରେ ଏକ ଛୋଟ ନିର୍ମିତ ଚୂଡ଼ା ସ୍ଥାପିତ, ଯାହାଫଳରେ ପ୍ରକୃତି ଓ ନିର୍ମାତାମାନେ ମିଳିତ ଭାବେ ବିମାନ ଯୋଗାନ୍ତି। ପ୍ରାଚୀରବେଷ୍ଟିତ ପରିସରକୁ ବିଜୟନଗର ଶୈଳୀର ଦୁଇଟି ଗୋପୁର ଦେଇ ପ୍ରବେଶ କରାଯାଏ — ଦକ୍ଷିଣରେ ପାଞ୍ଚ ତଳା ଓ ପୂର୍ବରେ ତିନି ତଳା — ଏବଂ ଏଥିରେ ଏକ ଦେବୀ ମନ୍ଦିର ଓ ଏକ ଛୋଟ ଶିବ ମନ୍ଦିର ଅଛି। ନିକଟରେ ଶିଳାର ଏକ ଫାଟରେ ସାରି ସାରି ଲିଙ୍ଗ ଓ ନନ୍ଦୀ ଖୋଦିତ।",
+    "legends": "ପରମ୍ପରା ମାଲ୍ୟବନ୍ତକୁ ରାମାୟଣର ପ୍ରସ୍ରବଣ ପର୍ବତ ସହିତ ଚିହ୍ନଟ କରେ। ସୁଗ୍ରୀବ କିଷ୍କିନ୍ଧାର ରାଜା ହେବା ପରେ ବର୍ଷା ଆରମ୍ଭ ହେଲା ଏବଂ ସୀତାଙ୍କ ଖୋଜା ଅପେକ୍ଷା କରିବାକୁ ପଡ଼ିଲା; ରାମ ଓ ଲକ୍ଷ୍ମଣ ବର୍ଷାର ଚାରି ମାସ ଏହି ପାହାଡ଼ରେ ଆଶ୍ରୟ ନେଇ କଟାଇଲେ, ରାମ ସୀତାଙ୍କ ପାଇଁ ଶୋକ କଲେ ଏବଂ ଲକ୍ଷ୍ମଣ ପହରା ଦେଇ ତାଙ୍କୁ ଆଶା ରଖିବାକୁ ଅନୁରୋଧ କଲେ। ବର୍ଷା ଶେଷ ହେଲା ପରେ ବାନର ସେନା ଏକତ୍ରିତ ହେଲେ ଏବଂ ଲଙ୍କା ଅଭିମୁଖେ ସୀତାଙ୍କ ଖୋଜା ଆରମ୍ଭ ହେଲା। କାହାଣୀ ଅନୁସାରେ ଯେଉଁଠି ରାମ ଅପେକ୍ଷା କରି ପ୍ରାର୍ଥନା କରିଥିଲେ, ସେଠାରେ ଠିଆ ହେବାକୁ ଭକ୍ତମାନେ ପାହାଡ଼ ଚଢ଼ନ୍ତି।",
+    "festivals": "ଏକ ଜୀବନ୍ତ ରାମ ମନ୍ଦିର ଭାବେ ମାଲ୍ୟବନ୍ତ ରଘୁନାଥ ବୈଷ୍ଣବ ପଞ୍ଜିକା ପାଳନ କରେ, ରାମ ନବମୀ ଏହାର ପ୍ରଧାନ ଉତ୍ସବ; ଖୋଦିତ ମୂର୍ତ୍ତିରେ ଆଣ୍ଠୁମାଡ଼ି ବସିଥିବା ଭକ୍ତଙ୍କୁ ସମ୍ମାନ ଦେଉଥିବା ହନୁମାନ ଜୟନ୍ତୀ ମଧ୍ୟ ପ୍ରଥାନୁସାରେ ପାଳିତ ହୁଏ, ଏବଂ ଏଠାରେ ପୂଜାର ନିୟମିତ ଅଂଶ ଭଜନ ଗାନ। ତାରିଖ ଓ କୌଣସି ବିଶେଷ ଅନୁଷ୍ଠାନ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଏକ ସଡ଼କ ପାହାଡ଼ ଶୀର୍ଷ ପର୍ଯ୍ୟନ୍ତ ଘୂରି ଘୂରି ଯାଏ, ଏବଂ ଦୃଶ୍ୟ ଚଢ଼ାର ଶ୍ରମକୁ ସାର୍ଥକ କରେ: ହମ୍ପୀର ଶିଳାଖଣ୍ଡମୟ ଭୂମି ସବୁ ଦିଗରେ ବିସ୍ତୃତ, ଉତ୍ତରରେ ତୁଙ୍ଗଭଦ୍ରା ଝଲମଲ କରୁଛି। ପାହାଡ଼ ସୂର୍ଯ୍ୟାସ୍ତ ଦେଖିବାର ଏକ ପ୍ରିୟ ସ୍ଥାନ। ଦକ୍ଷିଣ ଗୋପୁର ଦେଇ ପ୍ରବେଶ କରନ୍ତୁ, ଗର୍ଭଗୃହର ଶୀତଳତାରେ ଖୋଦିତ ଶିଳା ସମ୍ମୁଖରେ ଠିଆ ହୁଅନ୍ତୁ, ତା'ପରେ ବାହାରେ ଚାରିପାଖରେ ବୁଲି ଛାତ ଭେଦ କରି ଉଠିଥିବା ପଥର ଦେଖନ୍ତୁ।"
   },
   "visit": {
-    "timings": "A living temple, generally open from morning to evening with a midday break; confirm timings locally.",
-    "dressCode": "Modest dress is expected — shoulders and knees covered; footwear is removed before entering the shrine.",
-    "photography": "Photography of the complex and the hilltop views is generally fine; follow the priests' guidance about the sanctum.",
-    "gettingThere": "Malyavanta hill lies on the east side of the Hampi ruins, south-east of the Vittala temple and a few kilometres by road from Hampi Bazaar and Kamalapura, with a road to the top. Hampi lies in Vijayanagara district, Karnataka; Hosapete (Hospet), about 13 km away, has the nearest railway station, and Bengaluru is roughly 340 km by road."
+    "timings": "ଏକ ଜୀବନ୍ତ ମନ୍ଦିର, ସାଧାରଣତଃ ସକାଳୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ମଧ୍ୟାହ୍ନ ବିରତି ସହିତ ଖୋଲା ରହେ; ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପୋଷାକ ଆବଶ୍ୟକ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବ; ମନ୍ଦିରରେ ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବେ।",
+    "photography": "ପରିସର ଓ ପାହାଡ଼ ଶୀର୍ଷର ଦୃଶ୍ୟର ଫଟୋ ସାଧାରଣତଃ ଠିକ୍ ଅଛି; ଗର୍ଭଗୃହ ବିଷୟରେ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ମାଲ୍ୟବନ୍ତ ପାହାଡ଼ ହମ୍ପୀ ଧ୍ୱଂସାବଶେଷର ପୂର୍ବ ପାର୍ଶ୍ୱରେ, ବିଠ୍ଠଳ ମନ୍ଦିରର ଦକ୍ଷିଣ-ପୂର୍ବରେ ଏବଂ ହମ୍ପୀ ବଜାର ଓ କମଳାପୁରରୁ ସଡ଼କ ପଥରେ କେତେକ କିଲୋମିଟର ଦୂରରେ ଅବସ୍ଥିତ, ଶୀର୍ଷକୁ ସଡ଼କ ଅଛି। ହମ୍ପୀ କର୍ଣ୍ଣାଟକର ବିଜୟନଗର ଜିଲ୍ଲାରେ; ପ୍ରାୟ ୧୩ କିମି ଦୂରରେ ହୋସପେଟ (ହୋସ୍‌ପେଟ)ରେ ନିକଟତମ ରେଳ ଷ୍ଟେସନ ଅଛି, ଏବଂ ବେଙ୍ଗାଲୁରୁ ସଡ଼କ ପଥରେ ପ୍ରାୟ ୩୪୦ କିମି ଦୂରରେ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/malyavanta-raghunatha-hampi.jpg",
