@@ -1,30 +1,37 @@
 {
   "id": "vittala-hampi",
   "locale": "mr",
+  "name": "विजय विठ्ठल मंदिर, हंपी",
   "nativeName": "ವಿಜಯ ವಿಠಲ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "विजय विठ्ठल रूपातील विष्णू, पंढरपूर येथे पूजिले जाणारे भगवंताचे रूप",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "हंपी",
+    "state": "कर्नाटक",
     "lat": 15.342,
     "lng": 76.4756
   },
+  "period": "गाभा पंधराव्या शतकापासूनचा; सोळाव्या शतकात कृष्णदेवराय आणि त्यांच्या वारसांच्या काळात मोठा विस्तार",
   "century": 15,
+  "dynasty": "विजयनगर (संगम आणि तुळुव)",
+  "style": "द्रविड, विजयनगर टप्पा",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "हंपी येथे तुंगभद्रेच्या जवळ असलेले विजय विठ्ठल मंदिर हे विजयनगर कलेचे शिखर आहे — विष्णूचे राजेशाही मंदिर, जे गरुडाच्या दगडी रथासाठी आणि महामंडपातील गाणाऱ्या खांबांसाठी प्रसिद्ध आहे.",
   "sections": {
-    "history": "The temple of Vijaya Vittala grew with the fortunes of Vijayanagara. Its core is generally placed in the 15th century, in the reign of Devaraya II, though its first patron is uncertain; the great expansion came in the early 16th century under the Tuluva kings. Some two dozen inscriptions dated between 1513 and 1564 record gifts and worship here. Krishnadevaraya built the hundred-pillared hall and gave vessels of gold and silver; two of his queens each raised a gateway, and a third gopura is credited to his successor Achyutaraya. After the defeat of 1565 the capital was abandoned and worship here fell silent. The temple is today a protected monument within the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
-    "architecture": "The complex is a walled court entered through towered gateways, with the shrine of Vittala at its centre and around it a goddess shrine, a kalyana mandapa for the divine marriage, and further pillared halls. The great maha mandapa before the sanctum rests on fifty-six carved pillars, many of them clusters of slender colonnettes that ring with musical notes when struck — now protected from touch. Facing it on the same axis stands the celebrated stone chariot, in truth a shrine of Garuda, Vishnu's eagle mount, shaped as a processional car with carved wheels; it is among the best-loved images of India and appears on the fifty-rupee note.",
-    "legends": "Vittala is the form of Vishnu beloved of the saint-poets of Pandharpur, and a popular story at Hampi tells that the Lord of Pandharpur came to see the magnificent temple raised for him — and, finding it too grand, returned to his humble home, so that the temple was never truly his. The inscriptions tell a different tale, recording decades of offerings and worship. The stone chariot carries its own small legend of motion: its stone wheels were once said to turn, as though Garuda's car might yet roll out in procession.",
-    "festivals": "As a monument no longer in worship, the Vittala temple keeps no festival calendar of its own. Hampi as a whole comes alive during the Hampi Utsav, the state festival of music and dance staged among the ruins, usually in the cooler months; confirm dates locally.",
-    "experience": "Come early, when the low sun warms the granite and the courtyard is still quiet. Electric shuttles carry visitors along the last stretch from the parking area, or you can walk the riverside path from Hampi Bazaar past ruined shrines and boulders. Circle the stone chariot slowly, then sit in the shade of the halls and look up at the carved brackets: rearing yalis, dancers and musicians caught in stone."
+    "history": "विजय विठ्ठल मंदिर विजयनगरच्या भरभराटीबरोबर वाढत गेले. त्याचा गाभा सामान्यतः पंधराव्या शतकात, दुसरे देवराय यांच्या कारकीर्दीत मानला जातो, तरी त्याचा पहिला आश्रयदाता निश्चित नाही; मोठा विस्तार सोळाव्या शतकाच्या सुरुवातीला तुळुव राजांच्या काळात झाला. १५१३ ते १५६४ दरम्यानचे सुमारे दोन डझन शिलालेख येथील दाने आणि पूजेची नोंद करतात. कृष्णदेवरायांनी शतस्तंभ सभामंडप बांधला आणि सोन्याचांदीची पात्रे अर्पण केली; त्यांच्या दोन राण्यांनी प्रत्येकी एक प्रवेशद्वार उभारले, आणि तिसरे गोपुर त्यांचे वारस अच्युतराय यांच्या नावावर जमा आहे. १५६५ च्या पराभवानंतर राजधानी सोडून दिली गेली आणि येथील पूजा थांबली. हे मंदिर आज हंपी येथील स्मारक समूहातील संरक्षित वास्तू आहे; हा समूह १९८६ पासून युनेस्कोचे जागतिक वारसा स्थळ आहे.",
+    "architecture": "संकुल हे तटबंदीचे प्रांगण असून त्यात गोपुरयुक्त प्रवेशद्वारांतून प्रवेश होतो; मध्यभागी विठ्ठलाचे मंदिर आहे आणि भोवती देवीचे मंदिर, दैवी विवाहासाठी कल्याण मंडप आणि आणखी स्तंभयुक्त सभामंडप आहेत. गर्भगृहासमोरील भव्य महामंडप छप्पन्न कोरीव खांबांवर उभा आहे; त्यांपैकी अनेक खांब बारीक उपस्तंभांचे गुच्छ असून आघात केल्यास त्यांतून संगीतमय स्वर निघतात — आता त्यांना स्पर्श करण्यास मनाई आहे. त्याच अक्षावर त्यासमोर प्रसिद्ध दगडी रथ उभा आहे; तो प्रत्यक्षात विष्णूचे गरुड वाहन असलेल्या गरुडाचे मंदिर असून कोरीव चाकांसह मिरवणुकीच्या रथाच्या आकाराचा आहे; ही भारतातील सर्वाधिक प्रिय प्रतिमांपैकी एक आहे आणि पन्नास रुपयांच्या नोटेवर दिसते.",
+    "legends": "विठ्ठल हे पंढरपूरच्या संतकवींचे प्रिय विष्णूरूप आहे, आणि हंपी येथील एक लोकप्रिय कथा सांगते की पंढरपूरचा स्वामी आपल्यासाठी उभारलेले भव्य मंदिर पाहायला आला — आणि ते फारच भव्य वाटल्याने आपल्या साध्या घरी परतला, म्हणून हे मंदिर कधीच खऱ्या अर्थाने त्याचे झाले नाही. शिलालेख मात्र वेगळी कथा सांगतात, ज्यात अनेक दशकांच्या अर्पणांची आणि पूजेची नोंद आहे. दगडी रथाशी गतीची स्वतःची एक छोटी आख्यायिकाही जोडलेली आहे: त्याची दगडी चाके एकेकाळी फिरत असत असे म्हटले जाई, जणू गरुडाचा रथ अजूनही मिरवणुकीसाठी बाहेर पडेल.",
+    "festivals": "आता पूजेत नसलेले स्मारक असल्याने विठ्ठल मंदिराचे स्वतःचे उत्सवपंचांग नाही. संपूर्ण हंपी हंपी उत्सवाच्या काळात जिवंत होते; हा संगीत व नृत्याचा राज्य उत्सव अवशेषांमध्ये आयोजित केला जातो, सहसा थंडीच्या महिन्यांत; तारखा स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "लवकर या, जेव्हा सकाळचे कोवळे ऊन ग्रॅनाइटला उबदार करते आणि प्रांगण अजून शांत असते. वाहनतळापासून शेवटच्या टप्प्यात विजेवर चालणाऱ्या गाड्या पर्यटकांना नेतात, किंवा तुम्ही हंपी बाजारपासून उद्ध्वस्त मंदिरे आणि शिळांमधून नदीकाठच्या वाटेने चालत येऊ शकता. दगडी रथाभोवती सावकाश फेरी मारा, मग सभामंडपांच्या सावलीत बसून कोरीव टेकूंकडे पाहा: उभ्या झेपावलेल्या याळी, नर्तक आणि वादक दगडात गोठलेले."
   },
   "visit": {
-    "timings": "Open daily from sunrise to sunset as an ASI-protected monument; an entry ticket is required. Confirm hours and ticketing locally.",
-    "dressCode": "Modest dress is appreciated; comfortable shoes, water and sun protection help, as the site is open and stony.",
-    "photography": "Photography is generally allowed; the musical pillars must not be touched, and tripods or professional shoots may need permission from the Archaeological Survey of India.",
-    "gettingThere": "The temple lies about 2.5 km north-east of Hampi Bazaar, near the Tungabhadra opposite Anegondi, in Karnataka's Vijayanagara district. Hosapete (Hospet), about 13 km from Hampi, has the nearest railway station; the nearest airport is at Vidyanagar near Toranagallu, with larger airports at Hubballi and Bengaluru."
+    "timings": "भारतीय पुरातत्त्व सर्वेक्षणाच्या संरक्षित स्मारकाप्रमाणे दररोज सूर्योदयापासून सूर्यास्तापर्यंत खुले; प्रवेशासाठी तिकीट आवश्यक आहे. वेळा आणि तिकिटाची स्थानिक पातळीवर खात्री करा.",
+    "dressCode": "सभ्य पेहराव स्वागतार्ह आहे; स्थळ खुले आणि खडकाळ असल्याने आरामदायी पादत्राणे, पाणी आणि उन्हापासून संरक्षण उपयुक्त ठरते.",
+    "photography": "सामान्यतः छायाचित्रणास परवानगी आहे; संगीतमय खांबांना स्पर्श करू नये, आणि ट्रायपॉड किंवा व्यावसायिक चित्रीकरणासाठी भारतीय पुरातत्त्व सर्वेक्षणाची परवानगी लागू शकते.",
+    "gettingThere": "मंदिर हंपी बाजारच्या सुमारे २.५ किमी ईशान्येस, अनेगोंदीसमोर तुंगभद्रेजवळ, कर्नाटकातील विजयनगर जिल्ह्यात आहे. हंपीपासून सुमारे १३ किमी अंतरावरील होसपेट (हॉस्पेट) येथे सर्वांत जवळचे रेल्वे स्थानक आहे; सर्वांत जवळचा विमानतळ तोरणगल्लूजवळील विद्यानगर येथे आहे, तर हुबळी आणि बेंगळुरू येथे मोठे विमानतळ आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vittala-hampi.jpg",

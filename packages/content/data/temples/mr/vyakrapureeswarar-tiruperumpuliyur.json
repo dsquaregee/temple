@@ -1,29 +1,36 @@
 {
   "id": "vyakrapureeswarar-tiruperumpuliyur",
   "locale": "mr",
+  "name": "व्याघ्रपुरीश्वर मंदिर, तिरुपेरुम्पुलियूर",
   "nativeName": "வியாக்ரபுரீசுவரர் கோயில்",
+  "deity": "व्याघ्रपुरीश्वर रूपातील शिव, देवी सौंदर नायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tiruperumpuliyur",
-    "state": "Tamil Nadu",
+    "city": "तिरुपेरुम्पुलियूर",
+    "state": "तमिळनाडू",
     "lat": 10.908,
     "lng": 79.075
   },
+  "period": "कावेरी त्रिभुज प्रदेशातील प्राचीन शैव मंदिर, तेवारममध्ये गायलेले (सातवे शतक); त्यापूर्वी विटांचे मंदिर होते आणि नंतर दगडात पुनर्बांधणी झाली असे सांगितले जाते",
   "century": 7,
+  "dynasty": "आरंभिक मध्ययुगीन मूळ; चोळांच्या काळात पुनर्बांधणी, नंतर विजयनगरकालीन भर",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "व्याघ्रपुरीश्वर हा तिरुपेरुम्पुलियूरचा शिव आहे — संबंदरच्या तेवारममधील महान व्याघ्रनगर; हे व्याघ्रपाद ऋषींचे स्थान म्हणून स्मरले जाते आणि ज्या पुलियूर मंदिरांत त्यांनी आणि पतंजलींनी उपासना केली असे सांगितले जाते त्यांपैकी एक म्हणून गणले जाते.",
   "sections": {
-    "history": "Tiruperumpuliyur, a village of the Kaveri delta a short distance from Thiruvaiyaru, is the Perumpuliyur of the Tevaram. The child-saint Sambandar sang a decad of verses to the Lord here, and so the temple is counted a Paadal Petra Sthalam. The name means the great tiger-town, and it belongs to the family of Puliyur shrines linked with the sage Vyaghrapada; temple lists place it among the Nava Puliyur, the nine Puliyur temples worshipped by Vyaghrapada and Patanjali. One local account holds that a brick shrine stood here before the seventh century and that the temple was afterwards rebuilt under the Cholas and again in Vijayanagara times. The village has kept its name for well over a thousand years.",
-    "architecture": "The temple faces east beneath a three-tiered rajagopuram, whose carvings have come down remarkably well preserved. The presiding lingam is held to be self-manifested, and the Lord is worshipped here as Vyakrapureeswarar, the Lord of the tiger-town. The goddess Soundara Nayaki, the beautiful lady, has her own east-facing shrine, where she is shown standing and blesses devotees in that posture. The Navagraha shrine is unusual: the nine planets are set facing the Sun at the centre, rather than turned in varied directions as in most temples. The sacred tree is the sarakondrai, the golden shower tree, and the holy water is that of the Kaveri.",
-    "legends": "The legend of Perumpuliyur is that of the sage Vyaghrapada, known in Tamil as Pulikkal Munivar, the sage with the tiger's feet. He learned of the glory of Nataraja of Thillai from his father, the sage Madhyandina, and made his way to Chidambaram to worship the Lord every day. The flowers for that worship had to be gathered from high branches before dawn, in the dark, and before the bees could touch them. Moved by his devotion, Shiva gave him the feet of a tiger, to climb trees with ease, and the eyes of a tiger, to see each flower clearly in the night. The shrines where he worshipped came to be called Puliyur, and Perumpuliyur is held among them. Together with Patanjali he is remembered as a witness of the Lord's cosmic dance.",
-    "festivals": "Maha Shivaratri and the monthly Pradosham are observed here as at every Shiva temple, and the Tamil-month festivals of the Kaveri delta are kept in the traditional manner. Devotees also remember the sage Vyaghrapada on days of special worship. Specific festival dates follow the Tamil calendar, so confirm them locally before travelling.",
-    "experience": "Tiruperumpuliyur lies in the middle of green farmland, and the visit has the quiet of a village temple. Enter beneath the three-tiered gateway, pause at its well-kept carvings, and come to the sanctum of Vyakrapureeswarar before turning to Soundara Nayaki in her standing form. Do not miss the Navagraha shrine, where every planet turns toward the Sun. Devotees who love the story of Vyaghrapada often add this shrine to a pilgrimage that includes Chidambaram and the other Puliyur temples, and it pairs naturally with the Tevaram shrines around Thiruvaiyaru."
+    "history": "तिरुपेरुम्पुलियूर हे तिरुवैयारूपासून थोड्याच अंतरावरील कावेरी त्रिभुज प्रदेशातील गाव आहे; तेवारममधील पेरुम्पुलियूर तेच. बालसंत संबंदर यांनी येथील भगवंतावर दहा पदांचे पतिकम गायले, आणि म्हणून या मंदिराची गणना पाडल पेत्र स्थळांमध्ये होते. नावाचा अर्थ महान व्याघ्रनगर असा आहे, आणि ते व्याघ्रपाद ऋषींशी जोडलेल्या पुलियूर मंदिरांच्या कुळातील आहे; मंदिर-यादी त्याला नव पुलियूरमध्ये — व्याघ्रपाद आणि पतंजली यांनी पूजलेल्या नऊ पुलियूर मंदिरांमध्ये — ठेवतात. एक स्थानिक कथन सांगते की सातव्या शतकापूर्वी येथे विटांचे मंदिर होते आणि नंतर चोळांच्या काळात आणि पुन्हा विजयनगरच्या काळात मंदिराची पुनर्बांधणी झाली. या गावाने आपले नाव हजार वर्षांहून अधिक काळ जपले आहे.",
+    "architecture": "मंदिर पूर्वाभिमुख असून तीन मजली राजगोपुराखाली उभे आहे; त्यावरील कोरीवकाम उल्लेखनीयरीत्या उत्तम जतन झालेले आहे. मुख्य लिंग स्वयंभू मानले जाते, आणि भगवंताची येथे व्याघ्रपुरीश्वर, व्याघ्रनगराचा स्वामी, म्हणून उपासना केली जाते. देवी सौंदर नायकी, सुंदर देवी, हिचे स्वतःचे पूर्वाभिमुख मंदिर आहे, जेथे ती उभ्या रूपात दर्शविली आहे आणि त्याच मुद्रेत भक्तांना आशीर्वाद देते. नवग्रह मंदिर वेगळे आहे: बहुतेक मंदिरांप्रमाणे नऊ ग्रह वेगवेगळ्या दिशांना न वळता, मध्यभागी असलेल्या सूर्याकडे तोंड करून स्थापिले आहेत. पवित्र वृक्ष सरक्कोंद्रै, म्हणजे बहावा, आहे आणि पवित्र जल कावेरीचे आहे.",
+    "legends": "पेरुम्पुलियूरची आख्यायिका व्याघ्रपाद ऋषींची आहे, ज्यांना तमिळमध्ये पुलिक्काल मुनिवर, म्हणजे वाघाचे पाय असलेले ऋषी, म्हणतात. त्यांनी आपले वडील मध्यंदिन ऋषी यांच्याकडून तिल्लईच्या नटराजाचे माहात्म्य ऐकले आणि दररोज भगवंताची उपासना करण्यासाठी चिदंबरमला जाऊ लागले. त्या पूजेसाठी फुले पहाटेपूर्वी, अंधारात आणि मधमाशांनी त्यांना स्पर्श करण्यापूर्वी, उंच फांद्यांवरून तोडावी लागत. त्यांच्या भक्तीने द्रवून शिवाने त्यांना सहज झाडावर चढण्यासाठी वाघाचे पाय आणि रात्रीही प्रत्येक फूल स्पष्ट पाहण्यासाठी वाघाचे डोळे दिले. ज्या मंदिरांत त्यांनी उपासना केली त्यांना पुलियूर म्हटले जाऊ लागले, आणि पेरुम्पुलियूर त्यांपैकी मानले जाते. पतंजलींसह ते भगवंताच्या विश्वनृत्याचे साक्षीदार म्हणून स्मरले जातात.",
+    "festivals": "प्रत्येक शिवमंदिराप्रमाणे येथेही महाशिवरात्री आणि मासिक प्रदोष पाळले जातात, आणि कावेरी त्रिभुज प्रदेशातील तमिळ महिन्यांचे उत्सव पारंपरिक पद्धतीने साजरे होतात. विशेष पूजेच्या दिवशी भक्त व्याघ्रपाद ऋषींचेही स्मरण करतात. उत्सवांच्या विशिष्ट तारखा तमिळ पंचांगानुसार असल्याने प्रवासापूर्वी स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "तिरुपेरुम्पुलियूर हिरव्यागार शेतीच्या मध्यभागी आहे, आणि या भेटीला गावातील मंदिराची शांतता लाभते. तीन मजली प्रवेशद्वाराखालून आत शिरा, त्यावरील नीट राखलेल्या कोरीवकामापाशी थांबा, आणि व्याघ्रपुरीश्वराच्या गर्भगृहात येऊन मग उभ्या रूपातील सौंदर नायकीकडे वळा. नवग्रह मंदिर चुकवू नका, जेथे प्रत्येक ग्रह सूर्याकडे वळलेला आहे. व्याघ्रपादाची कथा प्रिय असलेले भक्त चिदंबरम आणि इतर पुलियूर मंदिरांचा समावेश असलेल्या तीर्थयात्रेत हे मंदिर अनेकदा जोडतात, आणि तिरुवैयारूच्या आसपासच्या तेवारम मंदिरांशी ते सहज जोडले जाते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple stands in the village of Perumpuliyur, roughly 4 to 5 km from Thiruvaiyaru in Thanjavur district, among farmland; the postal address is Thillaisthanam post, via Thiruvaiyaru. Thanjavur is the nearest large town and railhead, and Tiruchirappalli has the nearest airport. Local buses and autorickshaws from Thiruvaiyaru reach the village; a short taxi or auto ride is the easiest way to combine it with neighbouring Tevaram temples."
+    "timings": "सहसा सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले असते, मध्यान्हीला विश्रांती असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पेहराव अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-पँट, महिलांसाठी साड्या, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिर नियमांनुसार बाहेरील प्रदक्षिणा मार्ग आणि प्रांगणांत सामान्यतः छायाचित्रणास परवानगी आहे, पण आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र काढण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "मंदिर पेरुम्पुलियूर गावात, तंजावर जिल्ह्यातील तिरुवैयारूपासून साधारण ४ ते ५ किमी अंतरावर, शेतीच्या मध्ये आहे; टपाल पत्ता तिल्लैस्थानम पोस्ट, मार्गे तिरुवैयारू असा आहे. तंजावर हे सर्वांत जवळचे मोठे शहर आणि रेल्वे स्थानक आहे, आणि तिरुचिरापल्ली येथे सर्वांत जवळचा विमानतळ आहे. तिरुवैयारूहून स्थानिक बस आणि ऑटोरिक्षा गावापर्यंत जातात; शेजारच्या तेवारम मंदिरांसह भेट जोडण्यासाठी थोडा टॅक्सी किंवा ऑटोचा प्रवास सर्वांत सोपा आहे."
   }
 }

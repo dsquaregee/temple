@@ -1,31 +1,38 @@
 {
   "id": "yathothkari-thiruvekka",
   "locale": "mr",
+  "name": "यथोत्कारी पेरुमाळ मंदिर, तिरुवेक्का",
   "nativeName": "யதோத்காரி பெருமாள் கோயில், திருவெஃகா",
+  "deity": "यथोत्कारी (सोन्न वण्णम सैद्ध) पेरुमाळ रूपातील विष्णू, आदिशेषावर शयन करणारे, देवी कोमलवल्लीसह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.8242,
     "lng": 79.7122
   },
+  "period": "तोंडै नाडूमधील दिव्य देशम, नालायिर दिव्य प्रबंधममध्ये पाच आळवारांनी गायलेले",
   "century": 8,
+  "dynasty": "पल्लव, नंतरच्या चोळ आणि विजयनगरकालीन योगदानासह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "पूर्व कांचीपुरममध्ये विष्णू यथोत्कारी पेरुमाळ म्हणून पश्चिमेकडे शयन करतो — सांगितल्याप्रमाणे करणारा स्वामी; पाच आळवारांनी गायलेला तोंडै नाडूमधील दिव्य देशम, आणि पोयगै आळवारांच्या जन्माशी जोडलेले.",
   "sections": {
-    "history": "Thiruvekka stands in Chinna Kanchipuram, the eastern part of the temple town, and is one of the 108 Divya Desams of Thondai Nadu. The Alvar saints Poigai, Peyalvar, Thirumazhisai, Nammalvar and Thirumangai sang its lord in the Nalayira Divya Prabandham. The shrine is mentioned even in the Sangam text Perumpanatruppadai, and tradition credits its building to the Pallavas, with later contributions from the Medieval Cholas and the Vijayanagara kings. Three inscriptions on its walls record endowments: two of Kulothunga Chola I and one of Rajadhiraja Chola. Tradition also holds that Poigai Alvar, the first of the Alvars, was born in the temple's lotus tank, the Poigai Pushkarini, which lies outside the temple complex.",
-    "architecture": "A three-tiered rajagopuram opens the way into the temple, and the Vedasara Vimanam rises over the sanctum. Within, the lord lies on the serpent Adisesha facing west, in an unusual posture: his head rests on his left hand, the reverse of the customary reclining form, known as the maaru sayanam. The Goddess Komalavalli Thayar has her own shrine on the eastern side, facing the central sanctum. The Poigai Pushkarini, the lotus tank linked to the birth of Poigai Alvar, lies just outside the complex.",
-    "legends": "The sthala purana tells that Saraswati, slighted when Brahma began his sacrifice at Kanchi, came rushing as the river Vegavati to destroy it; Vishnu lay down across her path like a dam, and the name Vekka, Thiruvekka, is traced to this. A second story is the temple's best loved. The Pallava king banished Kanikannan, a disciple of Thirumazhisai Alvar; the Alvar left with him and asked the lord to roll up his serpent bed and follow, and the lord did. When the king repented, the Alvar bade the lord return, and he came back. Hence the name Yathothkari, or Sonna Vannam Seidha Perumal: the lord who did as he was told.",
-    "festivals": "The Brahmotsavam is celebrated in the Tamil month of Panguni, with processions of the lord through Kanchipuram. The birth star of Poigai Alvar, Thiruvonam in Aippasi, is kept as his special day, and Vaikunta Ekadashi draws devotees here as at other Divya Desams. Confirm dates locally.",
-    "experience": "Come for the unusual reclining form, head resting on the left hand, and for the story that makes the lord a servant of his devotee's word. Pause at the Poigai Pushkarini outside, tied to Poigai Alvar's birth, and read the Alvars' verses here if you can. The visit pairs naturally with the other Divya Desams of Kanchipuram."
+    "history": "तिरुवेक्का हे मंदिरनगरीच्या पूर्व भागातील चिन्ना कांचीपुरममध्ये आहे आणि तोंडै नाडूमधील १०८ दिव्य देशमांपैकी एक आहे. पोयगै, पेयाळवार, तिरुमळिसै, नम्माळवार आणि तिरुमंगै या आळवार संतांनी नालायिर दिव्य प्रबंधममध्ये येथील स्वामीचे गायन केले. या मंदिराचा उल्लेख संगम ग्रंथ पेरुम्पाणात्रुप्पडैमध्येही आहे, आणि परंपरा त्याच्या बांधणीचे श्रेय पल्लवांना देते, तर नंतरचे योगदान मध्ययुगीन चोळ आणि विजयनगर राजांचे आहे. त्याच्या भिंतींवरील तीन शिलालेख देणग्या नोंदवतात: दोन पहिल्या कुलोत्तुंग चोळांचे आणि एक राजाधिराज चोळांचा. परंपरा असेही मानते की आळवारांतील पहिले, पोयगै आळवार, यांचा जन्म मंदिराच्या कमळ तळ्यात, पोयगै पुष्करिणीत, झाला; ते तळे मंदिराच्या संकुलाबाहेर आहे.",
+    "architecture": "तीन मजली राजगोपुर मंदिरात प्रवेश करून देते, आणि गर्भगृहावर वेदसार विमान उभे आहे. आत स्वामी आदिशेष सर्पावर पश्चिमेकडे तोंड करून शयन करतो, एका असामान्य मुद्रेत: त्याचे मस्तक डाव्या हातावर विसावले आहे, नेहमीच्या शयन रूपाच्या उलट, ज्याला मारु शयनम म्हणतात. देवी कोमलवल्ली ताया हिचे स्वतंत्र मंदिर पूर्वेकडे, मध्यवर्ती गर्भगृहासमोर आहे. पोयगै आळवारांच्या जन्माशी जोडलेले कमळ तळे, पोयगै पुष्करिणी, संकुलाच्या अगदी बाहेर आहे.",
+    "legends": "स्थलपुराण सांगते की कांची येथे ब्रह्मदेवाने यज्ञ सुरू केल्यावर अपमानित झालेली सरस्वती तो नष्ट करण्यासाठी वेगवती नदी म्हणून धावत आली; विष्णू धरणासारखा तिच्या मार्गात आडवा झाला, आणि वेक्का, तिरुवेक्का, हे नाव याच प्रसंगातून आले असे मानले जाते. दुसरी कथा मंदिराची सर्वांत प्रिय कथा आहे. पल्लव राजाने तिरुमळिसै आळवारांचा शिष्य कणिकण्णन याला हद्दपार केले; आळवार त्याच्यासोबत निघाले आणि त्यांनी स्वामीला आपली सर्पशय्या गुंडाळून मागे येण्यास सांगितले, आणि स्वामी तसे आला. राजाला पश्चात्ताप झाल्यावर आळवारांनी स्वामीला परत जाण्यास सांगितले, आणि तो परत आला. म्हणूनच यथोत्कारी, किंवा सोन्न वण्णम सैद्ध पेरुमाळ, हे नाव: सांगितल्याप्रमाणे करणारा स्वामी.",
+    "festivals": "पंगुनी या तमिळ महिन्यात ब्रह्मोत्सव साजरा होतो, ज्यात स्वामीच्या मिरवणुका कांचीपुरममधून निघतात. पोयगै आळवारांचे जन्मनक्षत्र, ऐप्पसीमधील तिरुवोणम, त्यांचा विशेष दिवस म्हणून पाळला जातो, आणि इतर दिव्य देशमांप्रमाणे वैकुंठ एकादशीला येथे भक्त येतात. तारखा स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "असामान्य शयन रूपासाठी, डाव्या हातावर विसावलेल्या मस्तकासाठी, आणि स्वामीला आपल्या भक्ताच्या शब्दाचा सेवक बनवणाऱ्या कथेसाठी या. बाहेरील पोयगै पुष्करिणीपाशी थांबा, जी पोयगै आळवारांच्या जन्माशी जोडलेली आहे, आणि शक्य असल्यास येथे आळवारांची पदे वाचा. ही भेट कांचीपुरममधील इतर दिव्य देशमांशी सहज जोडली जाते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvekka is in Chinna Kanchipuram, the eastern part of Kanchipuram town. Kanchipuram has a railway station and is reached by road from Chennai; Chennai International Airport is the nearest major airport."
+    "timings": "दररोज सकाळ-संध्याकाळ दर्शन सत्रांसह आणि मध्यान्हीच्या विश्रांतीसह खुले; उत्सवाचे दिवस आणि वैकुंठ एकादशीला सर्वाधिक गर्दी असते. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पेहराव अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि आसपास छायाचित्रणावर बंधने आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुवेक्का कांचीपुरम शहराच्या पूर्व भागातील चिन्ना कांचीपुरममध्ये आहे. कांचीपुरममध्ये रेल्वे स्थानक आहे आणि चेन्नईहून रस्त्याने पोहोचता येते; चेन्नई आंतरराष्ट्रीय विमानतळ हा सर्वांत जवळचा मोठा विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/yathothkari-thiruvekka.jpg",
