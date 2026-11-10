@@ -1,29 +1,36 @@
 {
   "id": "karai-tirunatheswarar-kanchipuram",
   "locale": "or",
+  "name": "କାରାଇ ତିରୁନାଥେଶ୍ୱର ମନ୍ଦିର, କାଞ୍ଚିପୁରମ",
   "nativeName": "காரை திருநாதீஸ்வரர் கோயில்",
+  "deity": "ଶିବ କାରାଇ ତିରୁନାଥେଶ୍ୱର ରୂପେ (ସତ୍ୟନାଥେଶ୍ୱର ନାମରେ ମଧ୍ୟ ପୂଜିତ), ସ୍ୱୟମ୍ଭୂ ଲିଙ୍ଗ, ଦେବୀ ପ୍ରମରାମ୍ବିକାଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ ପରମ୍ପରା",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "କାଞ୍ଚିପୁରମ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 12.835,
     "lng": 79.703
   },
+  "period": "କାଞ୍ଚି ମନ୍ଦିର-ନଗରୀର ପ୍ରାଚୀନ ଶୈବ ମନ୍ଦିର, ତେବାରମରେ ଗୀତ (ସପ୍ତମ ଶତାବ୍ଦୀ); ସ୍ୱୟମ୍ଭୂ ଲିଙ୍ଗ, ପରବର୍ତ୍ତୀ ସ୍ଥାପତ୍ୟ ସଂଯୋଜନା ସହିତ",
   "century": 7,
+  "dynasty": "ପଲ୍ଲବ ଯୁଗର ନଗର, ମଧ୍ୟଯୁଗୀୟ ଓ ପରବର୍ତ୍ତୀ ତାମିଲ ସଂଯୋଜନା ସହିତ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "କାରାଇ ତିରୁନାଥେଶ୍ୱର ପ୍ରାଚୀନ ମନ୍ଦିର-ନଗରୀ କାଞ୍ଚିପୁରମର ପାଡ଼ାଲ ପେତ୍ର ସ୍ଥଳମ୍‌ମାନଙ୍କ ମଧ୍ୟରୁ ଏକ, ତେବାରମର ତିରୁକ୍କାଚ୍ଚି ନେରିକାରାଇକ୍କାଡୁ — ଏକଦା କଣ୍ଟାମୟ ଅରଣ୍ୟରେ ସ୍ଥାପିତ ଏକ ସ୍ୱୟମ୍ଭୂ ଲିଙ୍ଗ, ଏବଂ ବୁଧ ଗ୍ରହ କୃପା ପାଇଥିବା ମନ୍ଦିର ରୂପେ ପୂଜିତ।",
   "sections": {
-    "history": "Kanchipuram, the old Pallava capital on the Palar, is among the most sacred of the Tamil temple-towns, and Siva Kanchi within it holds a cluster of ancient Shiva shrines. Among them stands the temple of Karai Tirunatheswarar, praised in the Tevaram as Tirukkachi Nerikaraikkadu and counted among the Paadal Petra Sthalams of the Thondai country. Its name recalls the kaarai, a thorny shrub that once covered the ground here, so that the site was known as Kaarai Kaadu, the thorn forest. The linga is held to be swayambhu, self-manifest rather than set by hand, and faces west in its sanctum, an orientation less common among the temples of the land. Sung by the saint Tirugnana Sambandar and kept in worship through Pallava, Chola and later times, the shrine survives in the lanes of Tirukalimedu as one of the quieter but older sanctuaries of Kanchi.",
-    "architecture": "The temple is modest in scale beside the great towers of Kanchi, yet old in its bones. Within the sanctum the self-manifest linga of Karai Tirunatheswarar faces west, an uncommon alignment that devotees count among the shrine's distinctions. The goddess Pramarambikai, named Kamakshi in some accounts, is honoured in her own sanctum within the enclosure. The temple tank, remembered as the water the celestial king Indra is said to have raised for the Lord's anointing, lies near the shrine and is known locally as the Veppankulam. Weathered stone, a compact prakara and the plain dignity of an old neighbourhood temple give the place its character rather than height or ornament.",
-    "legends": "Two stories gather about the shrine. The first is told in its very name: the ground was once a dense forest of the thorny kaarai shrub, Kaarai Kaadu, and the Lord who revealed himself there as a self-born linga took the name Karai Tirunatheswarar. The second belongs to the heavens, for tradition holds that the planet Mercury, Budhan, worshipped here and was freed of his afflictions, and that the celestial king Indra himself drew up a sacred water for the Lord's bathing. From these the temple is kept as a place of grace for Mercury, and devotees troubled by that planet in their charts, or born under the signs it governs, come here to pray. It is for this blessing above all that the shrine is sought today.",
-    "festivals": "As a shrine of grace for Mercury the temple keeps Wednesdays with special worship, and devotees seeking relief from the planet's afflictions gather on those days. Maha Shivaratri and the monthly Pradosham are observed with the fervour proper to a Shiva temple, and the sacred days of the Tamil month are marked in the sanctum. Festival dates follow the Tamil calendar and are best confirmed with the temple before a visit.",
-    "experience": "The temple keeps the hush of an old quarter of Kanchi, away from the crowds that fill the city's famous towers. Enter to the west-facing sanctum of the self-manifest Lord, pause before the goddess Pramarambikai, and walk to the tank remembered from the story of Indra's offering. Many who come are drawn by the Mercury connection, arriving to pray for clear speech, learning and relief from the planet's troubles. For the pilgrim tracing the Paadal Petra Sthalams of Kanchipuram, this is one of the smaller shrines that carry the oldest memory."
+    "history": "ପାଲାର ନଦୀ କୂଳର ପୁରାତନ ପଲ୍ଲବ ରାଜଧାନୀ କାଞ୍ଚିପୁରମ ତାମିଲ ମନ୍ଦିର-ନଗରୀମାନଙ୍କ ମଧ୍ୟରେ ସବୁଠାରୁ ପବିତ୍ର ମଧ୍ୟରୁ ଏକ, ଏବଂ ତା ଭିତରର ଶିବ କାଞ୍ଚିରେ ପ୍ରାଚୀନ ଶିବ ମନ୍ଦିରମାନଙ୍କର ଏକ ଗୁଚ୍ଛ ଅଛି। ସେମାନଙ୍କ ମଧ୍ୟରେ କାରାଇ ତିରୁନାଥେଶ୍ୱରଙ୍କ ମନ୍ଦିର, ଯାହା ତେବାରମରେ ତିରୁକ୍କାଚ୍ଚି ନେରିକାରାଇକ୍କାଡୁ ରୂପେ ପ୍ରଶଂସିତ ଏବଂ ତୋଣ୍ଡାଇ ଅଞ୍ଚଳର ପାଡ଼ାଲ ପେତ୍ର ସ୍ଥଳମ୍‌ମାନଙ୍କ ମଧ୍ୟରେ ଗଣାଯାଏ। ଏହାର ନାମ 'କାରାଇ' ନାମକ କଣ୍ଟାଳିଆ ଗୁଳ୍ମକୁ ସ୍ମରଣ କରାଏ, ଯାହା ଏକଦା ଏଠାର ଭୂମି ଆଚ୍ଛାଦିତ କରିଥିଲା, ତେଣୁ ଏହି ସ୍ଥାନ କାରାଇ କାଡୁ ବା କଣ୍ଟା ଅରଣ୍ୟ ଭାବେ ପରିଚିତ ଥିଲା। ଲିଙ୍ଗ ସ୍ୱୟମ୍ଭୂ ବୋଲି ବିବେଚିତ, ହାତରେ ସ୍ଥାପିତ ନୁହେଁ, ଏବଂ ଏହା ଗର୍ଭଗୃହରେ ପଶ୍ଚିମମୁଖୀ, ଯାହା ଦେଶର ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ କମ୍ ଦେଖାଯାଏ। ସନ୍ଥ ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଦରଙ୍କ ଦ୍ୱାରା ଗୀତ ଏବଂ ପଲ୍ଲବ, ଚୋଳ ଓ ପରବର୍ତ୍ତୀ କାଳରେ ପୂଜା ପାଇଆସିଥିବା ଏହି ମନ୍ଦିର ତିରୁକ୍କଳିମେଡୁର ଗଳିଗଳିରେ କାଞ୍ଚିର ଅପେକ୍ଷାକୃତ ଶାନ୍ତ କିନ୍ତୁ ପ୍ରାଚୀନ ଆଶ୍ରୟସ୍ଥଳୀମାନଙ୍କ ମଧ୍ୟରୁ ଏକ ରୂପେ ବଞ୍ଚିରହିଛି।",
+    "architecture": "କାଞ୍ଚିର ବିଶାଳ ଗୋପୁର ତୁଳନାରେ ମନ୍ଦିରଟି ପରିସରରେ ସାମାନ୍ୟ, କିନ୍ତୁ ଭିତ୍ତିରେ ପ୍ରାଚୀନ। ଗର୍ଭଗୃହରେ କାରାଇ ତିରୁନାଥେଶ୍ୱରଙ୍କ ସ୍ୱୟମ୍ଭୂ ଲିଙ୍ଗ ପଶ୍ଚିମମୁଖୀ, ଯାହା ଏକ ଅସାଧାରଣ ଦିଗ ଏବଂ ଭକ୍ତମାନେ ଏହାକୁ ମନ୍ଦିରର ବିଶେଷତ୍ୱ ମଧ୍ୟରେ ଗଣନ୍ତି। ପ୍ରାକାର ଭିତରେ ଦେବୀ ପ୍ରମରାମ୍ବିକାଙ୍କୁ, କେତେକ ବିବରଣୀରେ କାମାକ୍ଷୀ ନାମରେ, ତାଙ୍କ ନିଜସ୍ୱ ଗର୍ଭଗୃହରେ ପୂଜା କରାଯାଏ। ପ୍ରଭୁଙ୍କ ଅଭିଷେକ ପାଇଁ ଦେବରାଜ ଇନ୍ଦ୍ର ଉଠାଇଥିବା ଜଳ ବୋଲି ସ୍ମରଣ କରାଯାଉଥିବା ମନ୍ଦିର ସରୋବର ମନ୍ଦିର ନିକଟରେ ଅଛି ଏବଂ ସ୍ଥାନୀୟ ଭାବେ ଭେପ୍ପାନକୁଳମ୍ ନାମରେ ପରିଚିତ। ଉଚ୍ଚତା କିମ୍ବା ଅଳଙ୍କାର ନୁହେଁ, ବରଂ କ୍ଷୟପ୍ରାପ୍ତ ପଥର, ଏକ ସଙ୍କୁଚିତ ପ୍ରାକାର ଓ ପୁରାତନ ପାଡ଼ାର ମନ୍ଦିରର ସରଳ ମର୍ଯ୍ୟାଦା ଏହି ସ୍ଥାନକୁ ତାହାର ଚରିତ୍ର ଦିଏ।",
+    "legends": "ମନ୍ଦିରକୁ ଘେରି ଦୁଇଟି କାହାଣୀ ଅଛି। ପ୍ରଥମଟି ଏହାର ନାମରେ ହିଁ କୁହାଯାଏ: ଭୂମି ଏକଦା 'କାରାଇ' କଣ୍ଟାଳିଆ ଗୁଳ୍ମର ଘନ ଅରଣ୍ୟ, କାରାଇ କାଡୁ ଥିଲା, ଏବଂ ସେଠାରେ ସ୍ୱୟମ୍ଭୂ ଲିଙ୍ଗ ରୂପେ ପ୍ରକଟ ହୋଇଥିବା ପ୍ରଭୁ କାରାଇ ତିରୁନାଥେଶ୍ୱର ନାମ ଗ୍ରହଣ କଲେ। ଦ୍ୱିତୀୟଟି ସ୍ୱର୍ଗର ଅଟେ, କାରଣ ପରମ୍ପରା କହେ ଯେ ବୁଧ ଗ୍ରହ, ବୁଧଦେବ, ଏଠାରେ ପୂଜା କରି ନିଜର କଷ୍ଟରୁ ମୁକ୍ତ ହୋଇଥିଲେ, ଏବଂ ଦେବରାଜ ଇନ୍ଦ୍ର ନିଜେ ପ୍ରଭୁଙ୍କ ସ୍ନାନ ପାଇଁ ଏକ ପବିତ୍ର ଜଳ ଆଣିଥିଲେ। ଏହାରୁ ମନ୍ଦିର ବୁଧ ଗ୍ରହ ପାଇଁ କୃପାର ସ୍ଥାନ ଭାବେ ରକ୍ଷିତ, ଏବଂ କୁଣ୍ଡଳୀରେ ସେହି ଗ୍ରହ ଦ୍ୱାରା ପୀଡ଼ିତ ଭକ୍ତମାନେ, କିମ୍ବା ଯେଉଁମାନେ ତାହାର ଶାସିତ ରାଶିରେ ଜନ୍ମ, ସେମାନେ ଏଠାକୁ ପ୍ରାର୍ଥନା କରିବାକୁ ଆସନ୍ତି। ଆଜି ମୁଖ୍ୟତଃ ଏହି ଆଶୀର୍ବାଦ ପାଇଁ ହିଁ ମନ୍ଦିରକୁ ଖୋଜା ଯାଏ।",
+    "festivals": "ବୁଧ ଗ୍ରହର କୃପାସ୍ଥଳ ହୋଇଥିବାରୁ ମନ୍ଦିରରେ ବୁଧବାରଗୁଡ଼ିକ ବିଶେଷ ପୂଜା ସହିତ ପାଳିତ ହୁଏ, ଏବଂ ଗ୍ରହର କଷ୍ଟରୁ ମୁକ୍ତି ଖୋଜୁଥିବା ଭକ୍ତମାନେ ସେହି ଦିନମାନଙ୍କରେ ଏକତ୍ରିତ ହୁଅନ୍ତି। ମହାଶିବରାତ୍ରି ଓ ମାସିକ ପ୍ରଦୋଷମ୍ ଶିବ ମନ୍ଦିର ଉପଯୁକ୍ତ ଉତ୍ସାହରେ ପାଳିତ ହୁଏ, ଏବଂ ତାମିଲ ମାସର ପବିତ୍ର ଦିନଗୁଡ଼ିକ ଗର୍ଭଗୃହରେ ସ୍ମରଣ କରାଯାଏ। ଉତ୍ସବର ତାରିଖ ତାମିଲ ପଞ୍ଜିକା ଅନୁସରଣ କରେ, ତେଣୁ ଯିବା ପୂର୍ବରୁ ମନ୍ଦିରରେ ନିଶ୍ଚିତ କରିନେବା ଭଲ।",
+    "experience": "ମନ୍ଦିରଟି କାଞ୍ଚିର ପୁରାତନ ପାଡ଼ାର ନୀରବତା ବଜାୟ ରଖିଛି, ଯାହା ନଗରର ପ୍ରସିଦ୍ଧ ଗୋପୁରଗୁଡ଼ିକୁ ଭରିଥିବା ଭିଡ଼ରୁ ଦୂରରେ। ସ୍ୱୟମ୍ଭୂ ପ୍ରଭୁଙ୍କ ପଶ୍ଚିମମୁଖୀ ଗର୍ଭଗୃହକୁ ପ୍ରବେଶ କରନ୍ତୁ, ଦେବୀ ପ୍ରମରାମ୍ବିକାଙ୍କ ସମ୍ମୁଖରେ ଅଟକନ୍ତୁ, ଏବଂ ଇନ୍ଦ୍ରଙ୍କ ଉପହାର କାହାଣୀରୁ ସ୍ମରଣୀୟ ସରୋବର ଆଡ଼କୁ ଯାଆନ୍ତୁ। ଅନେକେ ବୁଧ ସମ୍ପର୍କ ଯୋଗୁଁ ଆସନ୍ତି, ସ୍ପଷ୍ଟ ବାକ୍, ବିଦ୍ୟା ଓ ଗ୍ରହର କଷ୍ଟରୁ ମୁକ୍ତି ପାଇଁ ପ୍ରାର୍ଥନା କରିବାକୁ। କାଞ୍ଚିପୁରମର ପାଡ଼ାଲ ପେତ୍ର ସ୍ଥଳମ୍‌ମାନଙ୍କୁ ଅନୁସରଣ କରୁଥିବା ତୀର୍ଥଯାତ୍ରୀଙ୍କ ପାଇଁ, ଏହା ସବୁଠାରୁ ପ୍ରାଚୀନ ସ୍ମୃତି ବହନ କରୁଥିବା ଛୋଟ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରୁ ଏକ।"
   },
   "visit": {
-    "timings": "Generally open in the morning and again in the evening, with a midday closure; Wednesday worship for Mercury draws the most devotees. Confirm timings locally, as hours vary and may change on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple lies in the Tirukalimedu area in the north-eastern part of Kanchipuram, reached by the road opposite the Kanchipuram head post office. Kanchipuram is well connected by bus and rail from Chennai, about 72 km away, and the town's temples are a short auto ride apart."
+    "timings": "ସାଧାରଣତଃ ସକାଳ ଓ ପୁଣି ସନ୍ଧ୍ୟାରେ ଖୋଲା ଥାଏ, ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ; ବୁଧ ଗ୍ରହ ପାଇଁ ବୁଧବାର ପୂଜାରେ ସବୁଠାରୁ ଅଧିକ ଭକ୍ତ ଆସନ୍ତି। ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରିନିଅନ୍ତୁ, କାରଣ ସମୟ ଭିନ୍ନ ହୋଇପାରେ ଏବଂ ଉତ୍ସବ ଦିନରେ ବଦଳିପାରେ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ: ପୁରୁଷଙ୍କ ପାଇଁ ଧୋତି କିମ୍ବା ପାଇଜାମା, ମହିଳାଙ୍କ ପାଇଁ ଶାଢ଼ୀ, ସଲୱାର କମିଜ୍ କିମ୍ବା ଲମ୍ବା ସ୍କର୍ଟ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବ। ପାଦୁକା ପ୍ରବେଶଦ୍ୱାରର ଷ୍ଟାଣ୍ଡରେ ରଖାଯାଏ।",
+    "photography": "ବାହ୍ୟ ଦାଣ୍ଡ ଓ ପ୍ରାଙ୍ଗଣରେ ଫଟୋଗ୍ରାଫି ସାଧାରଣତଃ ଅନୁମତିପ୍ରାପ୍ତ, କିନ୍ତୁ ତାମିଲନାଡୁ ମନ୍ଦିର ନିୟମ ଅନୁସାରେ ଭିତର ଗର୍ଭଗୃହରେ ନିଷିଦ୍ଧ। ଆଚାରବିଧି କିମ୍ବା ପୂଜକଙ୍କ ଫଟୋ ନେବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ମନ୍ଦିରଟି କାଞ୍ଚିପୁରମର ଉତ୍ତର-ପୂର୍ବ ଭାଗର ତିରୁକ୍କଳିମେଡୁ ଅଞ୍ଚଳରେ, କାଞ୍ଚିପୁରମ ମୁଖ୍ୟ ଡାକଘର ସମ୍ମୁଖର ରାସ୍ତା ଦେଇ ପହଞ୍ଚିହୁଏ। କାଞ୍ଚିପୁରମ ଚେନ୍ନାଇରୁ ପ୍ରାୟ ୭୨ କି.ମି. ଦୂରରେ ବସ୍ ଓ ରେଳ ଦ୍ୱାରା ଭଲ ଭାବେ ସଂଯୁକ୍ତ, ଏବଂ ନଗରର ମନ୍ଦିରଗୁଡ଼ିକ ଅଟୋରେ କିଛି ଦୂରତାରେ ଅଛି।"
   }
 }
