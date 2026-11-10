@@ -1,7 +1,11 @@
 {
   "id": "divya-desams",
   "locale": "or",
+  "name": "ଦିବ୍ୟ ଦେଶମ୍",
   "nativeName": "திவ்ய தேசம்",
+  "theme": "ଆଳ୍ବାର କବି-ସନ୍ଥମାନଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ ବିଷ୍ଣୁଙ୍କର ୧୦୮ ପବିତ୍ର ଧାମ",
+  "region": "ତାମିଲନାଡୁ, କେରଳ, ଆନ୍ଧ୍ରପ୍ରଦେଶ, ଉତ୍ତର ଭାରତ ଓ ନେପାଳ",
+  "description": "ଦିବ୍ୟ ଦେଶମ୍ ହେଉଛି ବିଷ୍ଣୁଙ୍କର ୧୦୮ ପବିତ୍ର ଧାମ, ଯାହା ଶ୍ରୀବୈଷ୍ଣବ ପରମ୍ପରାର କବି-ସନ୍ଥ ବାର ଆଳ୍ବାରଙ୍କ ତାମିଲ ସ୍ତୋତ୍ରରେ ବନ୍ଦିତ ଏବଂ ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ସଂକଳିତ। ସେଗୁଡ଼ିକୁ ଦର୍ଶନ କରିବା ମାନେ ଆଳ୍ବାରମାନଙ୍କ ନିଜ ଭକ୍ତିର ମାନଚିତ୍ର ଅନୁସରଣ କରିବା। ପରମ୍ପରା ସେଗୁଡ଼ିକୁ ଅଞ୍ଚଳ ଅନୁସାରେ ବିଭକ୍ତ କରେ: କାବେରୀ କୂଳର ଚୋଳ ଦେଶରେ ଚାଳିଶ, ପାଣ୍ଡ୍ୟ ଦେଶରେ ଅଠର, ମଳୟ ନାଡୁ (କେରଳ ଓ କନ୍ୟାକୁମାରୀ)ରେ ତେର, ନାଡୁ ନାଡୁରେ ଦୁଇ, କାଞ୍ଚୀପୁରମ୍ ଆଖପାଖ ତୋଣ୍ଡାଇ ନାଡୁରେ ବାଇଶ, ଏବଂ ଉତ୍ତରରେ ଏଗାର — ତିରୁମଳାୟ ଓ ଅହୋବିଳମ୍‌ରୁ ବଦ୍ରୀନାଥ, ଦ୍ୱାରକା ଓ ନେପାଳର ମୁକ୍ତିନାଥ ପର୍ଯ୍ୟନ୍ତ। ଶେଷ ଦୁଇଟି, କ୍ଷୀରସାଗର ଓ ପରମପଦ, ବିଷ୍ଣୁଙ୍କର ପରମ ଧାମ, ପାର୍ଥିବ ଜଗତ ବାହାରେ ଅବସ୍ଥିତ; ପରମ୍ପରା କହେ, ଆତ୍ମାର ଯାତ୍ରାର ଶେଷରେ ହିଁ ସେଠାରେ ପହଞ୍ଚିହୁଏ। ସମସ୍ତ ୧୦୬ ପାର୍ଥିବ ମନ୍ଦିରକୁ ଏଠାରେ ଅଞ୍ଚଳ ଅନୁସାରେ ଏକତ୍ର କରାଯାଇଛି, ପ୍ରତ୍ୟେକ ଅଞ୍ଚଳର ନିଜ ମାନଚିତ୍ର ସହ; ତୋଳୈବିଲ୍ଲିମଙ୍ଗଳମ୍‌ରେ ଇରଟ୍ଟୈ ତିରୁପତିର ଯାଆଁଳା ମନ୍ଦିର ଦୁଇଟି ମିଳି ଗୋଟିଏ ଗଣାଯାଏ।",
   "stops": [
     "ranganathaswamy-srirangam",
     "azhagiya-manavalan-uraiyur",
@@ -114,7 +118,7 @@
   "groups": [
     {
       "id": "chola-nadu",
-      "name": "Chola Nadu",
+      "name": "ଚୋଳ ନାଡୁ",
       "stops": [
         "ranganathaswamy-srirangam",
         "azhagiya-manavalan-uraiyur",
@@ -160,7 +164,7 @@
     },
     {
       "id": "pandya-nadu",
-      "name": "Pandya Nadu",
+      "name": "ପାଣ୍ଡ୍ୟ ନାଡୁ",
       "stops": [
         "kallazhagar-alagarkoil",
         "kalamegha-thirumogur",
@@ -185,7 +189,7 @@
     },
     {
       "id": "malai-nadu",
-      "name": "Malai Nadu",
+      "name": "ମଳୟ ନାଡୁ",
       "stops": [
         "padmanabhaswamy-thiruvananthapuram",
         "adikesava-thiruvattar",
@@ -204,7 +208,7 @@
     },
     {
       "id": "nadu-nadu",
-      "name": "Nadu Nadu",
+      "name": "ନାଡୁ ନାଡୁ",
       "stops": [
         "devanatha-thiruvahindrapuram",
         "trivikrama-thirukkovilur"
@@ -212,7 +216,7 @@
     },
     {
       "id": "thondai-nadu",
-      "name": "Thondai Nadu",
+      "name": "ତୋଣ୍ଡାଇ ନାଡୁ",
       "stops": [
         "varadaraja-perumal-kanchipuram",
         "ashtabhujakara-kanchipuram",
@@ -240,7 +244,7 @@
     },
     {
       "id": "vada-nadu",
-      "name": "Vada Nadu",
+      "name": "ବଡ଼ ନାଡୁ",
       "stops": [
         "venkateswara-tirumala",
         "narasimha-ahobilam",

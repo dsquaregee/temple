@@ -1,7 +1,11 @@
 {
   "id": "paadal-petra-sthalams",
   "locale": "or",
+  "name": "ପାଡ଼ଲ୍ ପେତ୍ର ସ୍ଥଳମ୍",
   "nativeName": "பாடல் பெற்ற தலங்கள்",
+  "theme": "ନାୟନାର ସନ୍ଥମାନଙ୍କ ତେବାରମ୍ ସ୍ତୋତ୍ରରେ ପ୍ରଶଂସିତ ୨୭୫ଟି ଶିବ ମନ୍ଦିର",
+  "region": "ତାମିଲନାଡୁ, ପୁଦୁଚେରୀ, ଆନ୍ଧ୍ରପ୍ରଦେଶ, କେରଳ, କର୍ଣ୍ଣାଟକ, ଶ୍ରୀଲଙ୍କା ଓ ଉତ୍ତର ଭାରତ",
+  "description": "ପାଡ଼ଲ୍ ପେତ୍ର ସ୍ଥଳମ୍ ହେଉଛି ତେବାରମ୍‌ରେ ଗୀତ ଶିବ ମନ୍ଦିର — ତିନି ମହାନ ନାୟନାର ସନ୍ଥ ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧର୍, ତିରୁନାବୁକ୍କରସର୍ (ଅପ୍ପର୍) ଓ ସୁନ୍ଦରରଙ୍କ ସପ୍ତମ ଓ ଅଷ୍ଟମ ଶତାବ୍ଦୀର ତାମିଲ ସ୍ତୋତ୍ର। ସେଗୁଡ଼ିକୁ ଦର୍ଶନ କରିବା ଅର୍ଥ ତାମିଲ ଦେଶରେ ସନ୍ଥମାନଙ୍କ ନିଜ ପଦଚିହ୍ନ ଅନୁସରଣ କରିବା। ପରମ୍ପରା ଏହାକୁ ଅଞ୍ଚଳ ଅନୁସାରେ ଏକତ୍ର କରେ: କାବେରୀ କୂଳରେ ଉତ୍ତର ଓ ଦକ୍ଷିଣ ତଟର ଚୋଳ ଦେଶର ବିରାଟ ପଟ୍ଟି; ମଦୁରାଇ ଚାରିପାଖର ପାଣ୍ଡ୍ୟ ଦେଶ; ପେନ୍ନାଇ ଓ କୋଲ୍ଲିଡମ୍ ମଧ୍ୟରେ ନାଡୁ ନାଡୁ; ପଶ୍ଚିମରେ କୋଙ୍ଗୁ ନାଡୁ; କାଞ୍ଚୀପୁରମ୍ ଚାରିପାଖରେ ତୋଣ୍ଡୈ ନାଡୁ; ଏବଂ ଏହାର ବାହାରେ କେତେକ — କେରଳରେ ଗୋଟିଏ, କୋଙ୍କଣ କୂଳର ଗୋକର୍ଣ୍ଣରେ ଗୋଟିଏ, ଶ୍ରୀଲଙ୍କାରେ ଦୁଇଟି, ଏବଂ ଶ୍ରୀଶୈଳମ୍‌ରୁ କୈଳାସ ପର୍ଯ୍ୟନ୍ତ ଉତ୍ତରରେ କେତେକ। ଏମାନେ ବୈଷ୍ଣବ ଦିବ୍ୟ ଦେଶମ୍‌ର ଶୈବ ସମକକ୍ଷ, ଏବଂ ଶିବଙ୍କ ପ୍ରତି ତାମିଲ ଭକ୍ତିର ଜୀବନ୍ତ ମାନଚିତ୍ର। ଏଠାରେ ଅଞ୍ଚଳ ଅନୁସାରେ ସଂଗୃହୀତ, ପ୍ରତ୍ୟେକ ଅଞ୍ଚଳର ନିଜସ୍ୱ ପଥ ମାନଚିତ୍ର ସହିତ।",
   "stops": [
     "nataraja-chidambaram",
     "pasupatheeswarar-tiruvetkalam",
@@ -282,7 +286,7 @@
   "groups": [
     {
       "id": "chola-nadu-vadakarai",
-      "name": "Chola Nadu — north of the Kaveri",
+      "name": "ଚୋଳ ନାଡୁ — କାବେରୀର ଉତ୍ତର",
       "stops": [
         "nataraja-chidambaram",
         "pasupatheeswarar-tiruvetkalam",
@@ -351,7 +355,7 @@
     },
     {
       "id": "chola-nadu-thenkarai",
-      "name": "Chola Nadu — south of the Kaveri",
+      "name": "ଚୋଳ ନାଡୁ — କାବେରୀର ଦକ୍ଷିଣ",
       "stops": [
         "ratnagiriswarar-ayyarmalai",
         "kadambavaneswarar-kulithalai",
@@ -485,7 +489,7 @@
     },
     {
       "id": "pandya-nadu",
-      "name": "Pandya Nadu",
+      "name": "ପାଣ୍ଡ୍ୟ ନାଡୁ",
       "stops": [
         "meenakshi-madurai",
         "aappudaiyar-tiruappanur",
@@ -505,7 +509,7 @@
     },
     {
       "id": "nadu-nadu",
-      "name": "Nadu Nadu",
+      "name": "ନାଡୁ ନାଡୁ",
       "stops": [
         "theerthapureeswarar-tiruvathurai",
         "sudarkozhundeesar-pennadam",
@@ -533,7 +537,7 @@
     },
     {
       "id": "kongu-nadu",
-      "name": "Kongu Nadu",
+      "name": "କୋଙ୍ଗୁ ନାଡୁ",
       "stops": [
         "sangameswarar-bhavani",
         "ardhanareeswarar-tiruchengode",
@@ -546,7 +550,7 @@
     },
     {
       "id": "thondai-nadu",
-      "name": "Thondai Nadu",
+      "name": "ତୋଣ୍ଡୈ ନାଡୁ",
       "stops": [
         "ekambareswarar",
         "metraleeswarar-kanchipuram",
@@ -584,21 +588,21 @@
     },
     {
       "id": "malai-nadu",
-      "name": "Malai Nadu (Kerala)",
+      "name": "ମଳୟ ନାଡୁ (କେରଳ)",
       "stops": [
         "thiruvanchikulam-mahadeva"
       ]
     },
     {
       "id": "thulu-nadu",
-      "name": "Thulu Nadu",
+      "name": "ତୁଳୁ ନାଡୁ",
       "stops": [
         "gokarna-mahabaleshwara"
       ]
     },
     {
       "id": "eezha-nadu",
-      "name": "Eezha Nadu (Sri Lanka)",
+      "name": "ଈଳମ୍ ନାଡୁ (ଶ୍ରୀଲଙ୍କା)",
       "stops": [
         "ketheeswarar-mannar",
         "koneswarar-trincomalee"
@@ -606,7 +610,7 @@
     },
     {
       "id": "vada-nadu",
-      "name": "Vada Nadu (North India)",
+      "name": "ବଡ଼ ନାଡୁ (ଉତ୍ତର ଭାରତ)",
       "stops": [
         "srisailam-mallikarjuna",
         "neelachalanathar-indraneelaparuppatham",
