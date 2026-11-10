@@ -1,29 +1,36 @@
 {
   "id": "uyyavanda-thirumittakode",
   "locale": "mr",
+  "name": "उय्यवन्त पेरुमाळ मंदिर, तिरुमिट्टक्कोड",
   "nativeName": "ഉയ്യവന്ത പെരുമാൾ ക്ഷേത്രം, തിരുമിറ്റക്കോട്",
+  "deity": "विष्णू उय्यवन्त पेरुमाळ (अभय प्रदान) रूपात, देवी विथुवक्कोट्टु वल्ली (पद्मपाणि नाचियार) यांच्यासह",
+  "tradition": "वैष्णव पंथ",
   "location": {
-    "city": "Thirumittacode",
-    "state": "Kerala",
+    "city": "तिरुमिट्टक्कोड",
+    "state": "केरळ",
     "lat": 10.783,
     "lng": 76.184
   },
+  "period": "भरतपुळा नदीकाठचे मलय नाडूतील (केरळ) दिव्य देशम्, नालायिर दिव्य प्रबंधममध्ये कुलशेखर आळवार यांनी गायिलेले",
   "century": 9,
+  "dynasty": "प्राचीन मलय नाडूतील मंदिर; चेर राजपुत्र कुलशेखर आळवार यांनी गायिलेले",
+  "style": "केरळ मंदिर शैली",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "भरतपुळा नदीवरील तिरुमिट्टक्कोड येथे विष्णूची उय्यवन्त पेरुमाळ म्हणून पूजा केली जाते; चार दिशांकडे तोंड करून चार मंदिरे आहेत — तिरुविथुवक्कोडूचे मलय नाडू दिव्य देशम्, चेर राजपुत्र कुलशेखर आळवार यांनी गायिलेले.",
   "sections": {
-    "history": "Thirumittakode, in Palakkad district beside the Bharathapuzha, is the Divya Desam that the Alvar hymns call Thiruvithuvakkodu. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and belongs to Malai Nadu, the Kerala country. Its singer was Kulasekhara Alvar, the Chera prince whose Perumal Thirumozhi is part of the Prabandham, and who is usually placed in the ninth century. The Lord is worshipped as Uyyavanda Perumal, also called Abhaya Pradhan, with the Goddess Vithuvakkottu Valli, also known as Padmapani Nachiyar. The temple is popularly known as the Anchumoorthi Temple, the temple of five deities, because a Shiva shrine stands at the same site and the place is associated with both Vishnu and Shiva. The Pandavas, too, are remembered here.",
-    "architecture": "The temple lies on the bank of the Bharathapuzha and is distinguished by its plan: four Vishnu sannidhis face the four directions, so that the Lord is seen in every direction, while a Shiva shrine stands within the same site. This gives the precinct the sense of a gathering of five presences that the popular name Anchumoorthi recalls. The names of the vimana and the tank are not firmly recorded, so none is given here.",
-    "legends": "The sthala purana tells of King Ambarisha, devoted to Vishnu, whom the sage Durvasa once wronged and then, repenting, blessed. Ambarisha asked that the Lord appear to him in his Vyuha form, visible in all four directions, and the four Vishnu sannidhis facing the four directions are remembered as the answer to that prayer. One tradition adds that Ambarisha attained moksha here. Sources differ on the Pandavas: they are also remembered at this shrine, though who built it is held differently by different accounts.",
-    "festivals": "Thiruvonam is observed here, and Vaikunta Ekadashi is kept as the most sacred day of the Vaishnava year. As the temple honours both Vishnu and Shiva, devotees of both traditions come. Dates follow the temple’s own calendar, so confirm locally before planning a visit around them.",
-    "experience": "A riverside Divya Desam that rewards the pilgrim who takes time to stand before each of the four Vishnu sannidhis in turn, and to see the Shiva shrine. Those who know Kulasekhara Alvar’s Perumal Thirumozhi may like to read its verses here, where the Chera prince’s devotion is remembered. Enjoy the calm of the Bharathapuzha bank."
+    "history": "पालक्काड जिल्ह्यात भरतपुळा नदीकाठी वसलेले तिरुमिट्टक्कोड हे आळवारांच्या पदांमध्ये तिरुविथुवक्कोडू म्हटले जाणारे दिव्य देशम् आहे. नालायिर दिव्य प्रबंधममध्ये आळवार संतांनी गायिलेल्या विष्णूच्या निवासस्थानांपैकी, म्हणजे १०८ दिव्य देशम्पैकी हे एक असून ते केरळ प्रदेशातील मलय नाडूचे आहे. याचे गायक कुलशेखर आळवार होते, चेर राजपुत्र ज्यांचे पेरुमाळ तिरुमोळी प्रबंधमचा भाग आहे आणि ज्यांना सहसा नवव्या शतकात ठेवले जाते. प्रभूची उय्यवन्त पेरुमाळ, ज्यांना अभय प्रदान असेही म्हणतात, म्हणून पूजा केली जाते; सोबत देवी विथुवक्कोट्टु वल्ली, ज्या पद्मपाणि नाचियार म्हणूनही ओळखल्या जातात. हे मंदिर लोकप्रिय रीतीने अंचुमूर्ती मंदिर, पाच देवतांचे मंदिर, म्हणून ओळखले जाते, कारण याच स्थळी शिवाचे मंदिर आहे आणि हे स्थान विष्णू व शिव दोघांशी संबंधित आहे. येथे पांडवांचेही स्मरण केले जाते.",
+    "architecture": "मंदिर भरतपुळेच्या तीरावर असून त्याच्या आराखड्यामुळे वेगळे ठरते: चार विष्णू गर्भगृहे चार दिशांकडे तोंड करून आहेत, त्यामुळे प्रभू प्रत्येक दिशेतून दिसतात, तर शिवमंदिर त्याच परिसरात आहे. यामुळे अंचुमूर्ती या लोकप्रिय नावाने स्मरल्या जाणाऱ्या पाच उपस्थितींच्या मेळाव्याची भावना परिसराला मिळते. विमान आणि तळ्याची नावे ठामपणे नोंदलेली नाहीत, म्हणून येथे कोणतेही दिलेले नाही.",
+    "legends": "स्थलपुराण राजा अंबरीषाची कथा सांगते, जो विष्णूभक्त होता आणि ज्याचे दुर्वास ऋषींनी एकदा अपराधी रीतीने वाईट केले आणि नंतर पश्चात्ताप होऊन आशीर्वाद दिला. अंबरीषाने प्रार्थना केली की प्रभूने त्याला व्यूह रूपात दर्शन द्यावे, जे चारही दिशांमध्ये दिसते; आणि चार दिशांकडे तोंड करून असलेली चार विष्णू गर्भगृहे त्या प्रार्थनेचे उत्तर म्हणून स्मरली जातात. एका परंपरेत अशी भर आहे की अंबरीषाला येथे मोक्ष मिळाला. पांडवांबाबत स्रोतांमध्ये मतभेद आहेत: या मंदिराशी त्यांचेही स्मरण केले जाते, तरी ते कोणी बांधले याबाबत भिन्न वृत्तांतांमध्ये वेगळे मत आहे.",
+    "festivals": "येथे तिरुवोणम पाळला जातो, आणि वैकुंठ एकादशी वैष्णव वर्षातील सर्वात पवित्र दिवस म्हणून साजरी होते. मंदिर विष्णू आणि शिव दोघांचा सन्मान करत असल्याने दोन्ही परंपरांचे भक्त येथे येतात. तारखा मंदिराच्या स्वतःच्या कालगणनेनुसार असतात, म्हणून त्यांच्याभोवती भेट आखण्यापूर्वी स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "नदीकाठचे दिव्य देशम्, जे चारही विष्णू गर्भगृहांसमोर एकामागून एक उभे राहून शिवमंदिर पाहण्यासाठी वेळ काढणाऱ्या यात्रेकरूला समाधान देते. कुलशेखर आळवारांचे पेरुमाळ तिरुमोळी जाणणाऱ्यांना येथे त्याची पदे वाचायला आवडेल, जिथे चेर राजपुत्राच्या भक्तीचे स्मरण केले जाते. भरतपुळेच्या तीरावरील शांततेचा आनंद घ्या."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions, usually with a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirumittakode is in Palakkad district on the Bharathapuzha, reached by road from Pattambi and Shoranur, which are the usual railheads for the area; autorickshaws and taxis serve the short road journey. Kozhikode and Kochi are the airport gateways. Confirm local transport in advance."
+    "timings": "दररोज सकाळ आणि संध्याकाळ दर्शन सत्रांसह उघडे असते, सहसा दुपारी बंद असते; उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधे पारंपरिक पोशाख अपेक्षित आहेत — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेल्या सूचना आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेल्या सूचना आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "तिरुमिट्टक्कोड पालक्काड जिल्ह्यात भरतपुळेच्या काठी असून पट्टांबी आणि शोरनूर या परिसरातील नेहमीच्या रेल्वे स्थानकांहून रस्त्याने पोहोचता येते; ऑटोरिक्षा आणि टॅक्सी लहानशा रस्ता प्रवासासाठी उपलब्ध आहेत. कोझिकोड आणि कोची ही विमानतळांची प्रवेशद्वारे आहेत. स्थानिक वाहतूक आधीच तपासून घ्या."
   }
 }

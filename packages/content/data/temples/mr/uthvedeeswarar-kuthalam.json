@@ -1,29 +1,36 @@
 {
   "id": "uthvedeeswarar-kuthalam",
   "locale": "mr",
+  "name": "उत्वेदीश्वरर मंदिर, तिरुत्तुरुत्ती (कुतालम्)",
   "nativeName": "திருத்துருத்தி உத்வேதீஸ்வரர் கோயில்",
+  "deity": "शिव उत्वेदीश्वरर (वेदसुवरर, सोन्नवरारिवर असेही) रूपात, देवी अमिर्था मुळिळंबिकै यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम्",
   "location": {
-    "city": "Kuthalam, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "कुतालम्, मयिलादुतुरैजवळ",
+    "state": "तमिळनाडू",
     "lat": 11.1,
     "lng": 79.55
   },
+  "period": "तेवारम काळ (इसवी सनाच्या ७ व्या शतकात स्तुतिगान); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुतालम्, ऐतिहासिक तिरुत्तुरुत्ती, मयिलादुतुरैजवळ येथे शिवाची उत्वेदीश्वरर — वेदसुवरर आणि सोन्नवरारिवर असेही — म्हणून पूजा केली जाते, आणि सोबत देवी अमिर्था मुळिळंबिकै आहेत. अप्पर, संबंदर आणि सुंदरर यांनी तेवारममध्ये गायिलेले हे पाडल पेट्र स्थलम् कावेरीच्या दक्षिण तीरावरील शिवमंदिरांमध्ये गणले जाते. त्याची कथा सांगते की एका ऋषींच्या यज्ञाग्नीतून जन्मलेल्या देवीने नदीतील लिंगाची पूजा केली, आणि शिवाच्या पादुका या स्थळी राहिल्या.",
   "sections": {
-    "history": "Kuthalam, bearing the Tevaram name Tiruthuruthi, is an ancient Shaiva town near Mayiladuthurai on the road to Kumbakonam. It is a Paadal Petra Sthalam, sung by the three great Tevaram saints — Tirunavukkarasar (Appar), Tirugnana Sambandar and Sundarar — and is reckoned among the shrines on the southern bank of the Kaveri. The structural temple that stands today belongs to the Chola period and later, built in stone over the far older sacred site hymned by the saints.",
-    "architecture": "The temple is a modest delta shrine of Dravidian form, with the sanctum of Uthvedeeswarar, a Nandi, the goddess Amirtha Mughizhambikai in her own shrine, and the usual parivara devatas. The sthala vriksham is the Uddhala tree. A set of the lord's Padukas — sandals said to have been left here by Shiva — is venerated by devotees. The Manjalaru, a branch of the Kaveri, waters this part of the delta.",
-    "legends": "The sthala purana tells of the sage Bharathama performing penance, from whose sacrificial fire the Goddess was born as a maiden. She worshipped a Shiva lingam set in the Kaveri, and the lord emerged from the linga and took her hand. From this grace the deity is praised as Uthvedeeswarar and the goddess as Amirtha Mughizhambikai. The name Sonnavararivar, 'he who knows what is spoken,' belongs to the lord's listening grace, and the revered Padukas mark his presence at this spot.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Panguni Uthiram in Panguni (March–April), and the Mondays of Karthikai, along with the regular Pradosha worship. These are observed at the quiet scale of a delta town shrine, drawing pilgrims who follow the Paadal Petra trail along the southern Kaveri.",
-    "experience": "A visit to Kuthalam joins the pilgrim to one of the lesser-trodden Tevaram shrines of the Kaveri's southern bank. Before Uthvedeeswarar and Amirtha Mughizhambikai, amid the memory of the goddess born of fire and the lord's own sandals, the devotee finds the unhurried devotion of a delta town that has kept its ancient hymns alive."
+    "history": "कुतालम्, ज्याचे तेवारम नाव तिरुत्तुरुत्ती आहे, हे कुंभकोणमकडे जाणाऱ्या मार्गावर मयिलादुतुरैजवळील प्राचीन शैव नगर आहे. हे पाडल पेट्र स्थलम् असून तिन्ही महान तेवारम संतांनी — तिरुनावुक्करसर (अप्पर), तिरुज्ञान संबंदर आणि सुंदरर — गायिले आहे, आणि कावेरीच्या दक्षिण तीरावरील मंदिरांमध्ये त्याची गणना होते. आज उभे असलेले रचनात्मक मंदिर चोळ काळातील आणि नंतरचे आहे; संतांनी गायिलेल्या अत्यंत जुन्या पवित्र स्थळावर ते दगडात बांधलेले आहे.",
+    "architecture": "हे द्रविड रूपाचे साधे नदीमुखप्रदेशातील मंदिर आहे; यात उत्वेदीश्वररांचे गर्भगृह, नंदी, देवी अमिर्था मुळिळंबिकै यांचे स्वतंत्र मंदिर आणि नेहमीचे परिवार देवता आहेत. स्थलवृक्ष उद्दाल वृक्ष आहे. प्रभूच्या पादुका — शिवाने येथे ठेवल्या असे सांगितल्या जाणाऱ्या — भक्त पूजतात. कावेरीची एक शाखा, मंजळारु, नदीमुखप्रदेशाच्या या भागाला पाणी पुरवते.",
+    "legends": "स्थलपुराण भरथम ऋषींच्या तपश्चर्येची कथा सांगते, ज्यांच्या यज्ञाग्नीतून देवी कन्येच्या रूपात जन्मली. तिने कावेरीत स्थापन केलेल्या शिवलिंगाची पूजा केली, आणि प्रभू लिंगातून प्रकट झाले व त्यांनी तिचा हात धरला. या कृपेमुळे देवतेची उत्वेदीश्वरर आणि देवीची अमिर्था मुळिळंबिकै म्हणून स्तुती होते. सोन्नवरारिवर हे नाव, 'जो सांगितलेले जाणतो', प्रभूच्या श्रवणकृपेचे आहे, आणि पूजनीय पादुका या स्थळी त्यांच्या उपस्थितीची खूण आहेत.",
+    "festivals": "मंदिरात मासी महिन्यात (फेब्रुवारी–मार्च) महाशिवरात्र, पंगुनी महिन्यात (मार्च–एप्रिल) पंगुनी उत्तिरम आणि कार्तिकेतील सोमवार साजरे होतात, तसेच नियमित प्रदोष पूजा होते. नदीमुखप्रदेशातील गावातील मंदिराच्या शांत मर्यादेत हे पाळले जाते आणि दक्षिण कावेरीवरील पाडल पेट्र यात्रामार्गाने जाणारे यात्रेकरू येथे येतात.",
+    "experience": "कुतालमची भेट यात्रेकरूला कावेरीच्या दक्षिण तीरावरील कमी तुडवलेल्या तेवारम मंदिरांपैकी एकाशी जोडते. उत्वेदीश्वरर आणि अमिर्था मुळिळंबिकै यांच्यासमोर, अग्नीतून जन्मलेल्या देवीच्या आणि प्रभूच्या स्वतःच्या पादुकांच्या स्मृतीत, भाविकाला प्राचीन स्तोत्रे जिवंत ठेवणाऱ्या नदीमुखप्रदेशातील गावाची अघाईची भक्ती अनुभवायला मिळते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kuthalam is about 9 km from Mayiladuthurai on the Mayiladuthurai–Kumbakonam road, roughly 1 km from the Kuthalam bus stand. Mayiladuthurai is the nearest major rail head, with frequent buses and taxis to Kuthalam."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "खांदे आणि गुडघे झाकलेले साधे पारंपरिक पोशाख अपेक्षित आहेत; पादत्राणे प्रवेशद्वारी काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांमध्ये छायाचित्रणास सामान्यतः परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "कुतालम् मयिलादुतुरै–कुंभकोणम मार्गावर मयिलादुतुरैपासून सुमारे ९ किमी आणि कुतालम् बस स्थानकापासून सुमारे १ किमी अंतरावर आहे. मयिलादुतुरै हे सर्वात जवळचे मोठे रेल्वे स्थानक असून तेथून कुतालमसाठी वारंवार बस आणि टॅक्सी मिळतात."
   }
 }
