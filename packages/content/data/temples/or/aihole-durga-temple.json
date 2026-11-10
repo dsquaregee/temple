@@ -1,30 +1,37 @@
 {
   "id": "aihole-durga-temple",
   "locale": "or",
+  "name": "ଐହୋଳେ ଦୁର୍ଗା ମନ୍ଦିର",
   "nativeName": "ಐಹೊಳೆ ದುರ್ಗ ದೇವಾಲಯ",
+  "deity": "ମୂଳତଃ ବିଷ୍ଣୁ କିମ୍ବା ସୂର୍ଯ୍ୟଙ୍କ ମନ୍ଦିର; ଐହୋଳେ ମନ୍ଦିର ସମୂହର ଅର୍ଦ୍ଧବୃତ୍ତାକାର “ଦୁର୍ଗା” (ଦୁର୍ଗ) ମନ୍ଦିର",
+  "tradition": "ପ୍ରାରମ୍ଭିକ ଚାଲୁକ୍ୟ (ସହରର ଶୈବ, ବୈଷ୍ଣବ ଓ ଜୈନ ମନ୍ଦିରମାନଙ୍କ ସହିତ)",
   "location": {
-    "city": "Aihole",
-    "state": "Karnataka",
+    "city": "ଐହୋଳେ",
+    "state": "କର୍ଣ୍ଣାଟକ",
     "lat": 16.0197,
     "lng": 75.8815
   },
+  "period": "ସପ୍ତମ–ଅଷ୍ଟମ ଶତାବ୍ଦୀ ଖ୍ରୀଷ୍ଟାବ୍ଦ",
   "century": 7,
+  "dynasty": "ବାଦାମୀର ଚାଲୁକ୍ୟ",
+  "style": "ପ୍ରାରମ୍ଭିକ ଚାଲୁକ୍ୟ, ପରୀକ୍ଷାମୂଳକ",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "ଭାରତୀୟ ମନ୍ଦିର ସ୍ଥାପତ୍ୟର ଦୋଳି ବୋଲି କଥିତ ଐହୋଳେରେ, ଅର୍ଦ୍ଧବୃତ୍ତାକାର ଦୁର୍ଗା ମନ୍ଦିର ଏକ ସମ୍ପୂର୍ଣ୍ଣ ସହର ଭରି ଥିବା ପ୍ରାରମ୍ଭିକ ଚାଲୁକ୍ୟ ପରୀକ୍ଷାମାନଙ୍କ ମଧ୍ୟରେ ସବୁଠାରୁ ପ୍ରସିଦ୍ଧ — ଏକ ଗୋଲାକାର, ସ୍ତମ୍ଭଶ୍ରେଣୀଯୁକ୍ତ ମନ୍ଦିର, ଯେଉଁଠି ଦକ୍ଷିଣୀ ମନ୍ଦିର ରୂପ ତଥାପି ଉଦ୍ଭାବିତ ହେଉଥିଲା।",
   "sections": {
-    "history": "Aihole, ancient Aryapura, was an early Chalukyan town where, from the sixth to the eighth centuries, builders tried out plan after plan in stone, earning the place its name as the cradle of Indian temple architecture. Scores of temples survive here, from the earliest halls to fully evolved shrines; the Meguti Jain temple carries a famous inscription of 634 CE by the poet Ravikirti, praising the emperor Pulakeshin II. The Durga temple, from the seventh or eighth century, is the best known — its very unconventionality a record of an age when the rules were still being written.",
-    "architecture": "The Durga temple takes its name not from the goddess but from the durga, the fort beside which it stood. Its plan is apsidal, rounded at the rear like the back of an elephant, a form borrowed from earlier Buddhist chaitya halls and rarely tried for a Hindu shrine. A colonnaded verandah wraps the whole building, its pillars and niches carrying superb reliefs — Vishnu, Shiva, Durga, Harihara — and a curving tower rises behind. Around it the Aihole group ranges from the flat-roofed Lad Khan temple to the northern-towered shrines, a whole museum of early experiment in the open air.",
-    "legends": "Aihole gathers a light-hearted lore alongside its scholarship. One tradition ties the town’s name to the sage Parashurama, who is said to have washed his axe in the Malaprabha river here, the waters running red, so that villagers cried out in dismay — a folk etymology for “Aihole.” The Durga temple’s deity is itself a small mystery, its shrine now empty and its original dedication — to Vishnu, or to the sun — debated by scholars, so that the building stands as much for the questions of early temple-making as for any single god.",
-    "festivals": "Aihole today is above all a heritage town, and its calendar turns with the visitors and scholars who come to study its temples. The Chalukyan monuments of Aihole, Badami, and Pattadakal are celebrated together in regional cultural festivals of dance and music staged among the ruins, and local village fairs mark the living shrines still in worship amid the ancient stones.",
-    "experience": "To wander Aihole is to walk through the workshop of Indian temple architecture. The Durga temple rewards a slow circuit of its colonnade, reliefs emerging one after another in the raking light, the apsidal end curving away like nothing else in the southern tradition. Beyond it the fields are dotted with more shrines — some locked, some open, some half-ruined — and climbing to the Meguti temple on its hill gives a long view over the Malaprabha valley where all of this began. It is a quiet, spread-out, deeply rewarding place for those who love how things come to be."
+    "history": "ଐହୋଳେ, ପ୍ରାଚୀନ ଆର୍ଯ୍ୟପୁର, ଏକ ପ୍ରାରମ୍ଭିକ ଚାଲୁକ୍ୟ ସହର ଥିଲା ଯେଉଁଠି ଷଷ୍ଠରୁ ଅଷ୍ଟମ ଶତାବ୍ଦୀ ପର୍ଯ୍ୟନ୍ତ ଶିଳ୍ପୀମାନେ ପଥରରେ ଏକ ପରେ ଏକ ନକ୍ସା ପରୀକ୍ଷା କରିଥିଲେ, ଯାହା ଏହି ସ୍ଥାନକୁ ଭାରତୀୟ ମନ୍ଦିର ସ୍ଥାପତ୍ୟର ଦୋଳି ନାମ ଦେଇଛି। ଏଠାରେ ପ୍ରାରମ୍ଭିକ ହଲ୍ ଠାରୁ ସମ୍ପୂର୍ଣ୍ଣ ବିକଶିତ ମନ୍ଦିର ପର୍ଯ୍ୟନ୍ତ ଅନେକ ମନ୍ଦିର ବଞ୍ଚି ରହିଛି; ମେଗୁଟି ଜୈନ ମନ୍ଦିରରେ କବି ରବିକୀର୍ତ୍ତିଙ୍କ ୬୩୪ ଖ୍ରୀଷ୍ଟାବ୍ଦର ଏକ ପ୍ରସିଦ୍ଧ ଶିଳାଲେଖ ଅଛି, ଯାହା ସମ୍ରାଟ ଦ୍ୱିତୀୟ ପୁଲକେଶୀଙ୍କୁ ପ୍ରଶଂସା କରେ। ସପ୍ତମ କିମ୍ବା ଅଷ୍ଟମ ଶତାବ୍ଦୀର ଦୁର୍ଗା ମନ୍ଦିର ସବୁଠାରୁ ପରିଚିତ — ଏହାର ଅପ୍ରଚଳିତତା ଏକ ଯୁଗର ଅଭିଲେଖ, ଯେତେବେଳେ ନିୟମ ତଥାପି ଲେଖାଯାଉଥିଲା।",
+    "architecture": "ଦୁର୍ଗା ମନ୍ଦିର ଦେବୀଙ୍କ ନାମରୁ ନୁହେଁ, ବରଂ ଯେଉଁ ଦୁର୍ଗ ପାଖରେ ଏହା ଠିଆ ହୋଇଥିଲା ତାହାଠାରୁ ନିଜ ନାମ ପାଇଛି। ଏହାର ନକ୍ସା ଅର୍ଦ୍ଧବୃତ୍ତାକାର, ହାତୀର ପିଠି ପରି ପଛପଟେ ଗୋଲାକାର, ଯାହା ପୂର୍ବତନ ବୌଦ୍ଧ ଚୈତ୍ୟ ହଲ୍‌ରୁ ଗ୍ରହଣ କରାଯାଇଥିଲା ଏବଂ ହିନ୍ଦୁ ମନ୍ଦିର ପାଇଁ କ୍ୱଚିତ୍ ପରୀକ୍ଷା କରାଯାଇଛି। ସ୍ତମ୍ଭଶ୍ରେଣୀଯୁକ୍ତ ବାରଣ୍ଡା ସମ୍ପୂର୍ଣ୍ଣ ଭବନକୁ ଘେରି ରହିଛି, ଏହାର ସ୍ତମ୍ଭ ଓ ଖୋଲରେ ଉତ୍କୃଷ୍ଟ ଉତ୍କୀର୍ଣ୍ଣ ମୂର୍ତ୍ତି ଅଛି — ବିଷ୍ଣୁ, ଶିବ, ଦୁର୍ଗା, ହରିହର — ଏବଂ ପଛରେ ଏକ ବକ୍ରାକାର ଶିଖର ଉଠିଛି। ଏହାର ଚାରିପାଖରେ ଐହୋଳେ ସମୂହ ସମତଳ ଛାତ ବିଶିଷ୍ଟ ଲାଡ୍ ଖାନ୍ ମନ୍ଦିରରୁ ଉତ୍ତର ଶୈଳୀର ଶିଖର ମନ୍ଦିର ପର୍ଯ୍ୟନ୍ତ ବିସ୍ତୃତ, ଖୋଲା ଆକାଶ ତଳେ ପ୍ରାରମ୍ଭିକ ପରୀକ୍ଷାର ଏକ ସମ୍ପୂର୍ଣ୍ଣ ସଂଗ୍ରହାଳୟ।",
+    "legends": "ଐହୋଳେ ନିଜ ପାଣ୍ଡିତ୍ୟ ସହିତ ଏକ ହାଲୁକା ଲୋକକଥା ମଧ୍ୟ ଜମା କରିଛି। ଗୋଟିଏ ପରମ୍ପରା ସହରର ନାମକୁ ପରଶୁରାମ ମୁନିଙ୍କ ସହ ଯୋଡ଼େ, ଯେ ଏଠାରେ ମାଳପ୍ରଭା ନଦୀରେ ନିଜ କୁରାଢ଼ି ଧୋଇଥିଲେ, ଜଳ ଲାଲ ହୋଇଗଲା, ଗାଁଲୋକ ଭୟରେ ଚିତ୍କାର କଲେ — “ଐହୋଳେ” ର ଏକ ଲୋକ ବ୍ୟୁତ୍ପତ୍ତି। ଦୁର୍ଗା ମନ୍ଦିରର ଦେବତା ନିଜେ ଏକ ଛୋଟ ରହସ୍ୟ, ଏହାର ଗର୍ଭଗୃହ ବର୍ତ୍ତମାନ ଖାଲି ଏବଂ ଏହାର ମୂଳ ଉତ୍ସର୍ଗ — ବିଷ୍ଣୁଙ୍କୁ, ବା ସୂର୍ଯ୍ୟଙ୍କୁ — ପଣ୍ଡିତମାନଙ୍କ ଦ୍ୱାରା ବିତର୍କିତ, ତେଣୁ ଭବନଟି ଯେତେ କୌଣସି ଏକ ଦେବତାଙ୍କ ପାଇଁ ଠିଆ ହୋଇଛି, ସେତିକି ପ୍ରାରମ୍ଭିକ ମନ୍ଦିର ନିର୍ମାଣର ପ୍ରଶ୍ନମାନଙ୍କ ପାଇଁ ମଧ୍ୟ।",
+    "festivals": "ଆଜି ଐହୋଳେ ସର୍ବୋପରି ଏକ ଐତିହ୍ୟ ସହର, ଏବଂ ଏହାର ପଞ୍ଜିକା ମନ୍ଦିର ଅଧ୍ୟୟନ ପାଇଁ ଆସୁଥିବା ଦର୍ଶକ ଓ ବିଦ୍ୱାନଙ୍କ ସହ ଘୂରେ। ଐହୋଳେ, ବାଦାମୀ ଓ ପଟ୍ଟଦକଲ୍‌ର ଚାଲୁକ୍ୟ ସ୍ମାରକୀମାନେ ଏକତ୍ର ଧ୍ୱଂସାବଶେଷ ମଧ୍ୟରେ ଆୟୋଜିତ ନୃତ୍ୟ ଓ ସଙ୍ଗୀତର ଆଞ୍ଚଳିକ ସାଂସ୍କୃତିକ ଉତ୍ସବରେ ପାଳିତ ହୁଅନ୍ତି, ଏବଂ ସ୍ଥାନୀୟ ଗ୍ରାମ୍ୟ ମେଳା ପ୍ରାଚୀନ ପଥର ମଧ୍ୟରେ ଏବେ ବି ପୂଜା ହେଉଥିବା ଜୀବନ୍ତ ମନ୍ଦିରମାନଙ୍କୁ ଚିହ୍ନିତ କରେ।",
+    "experience": "ଐହୋଳେରେ ବୁଲିବା ମାନେ ଭାରତୀୟ ମନ୍ଦିର ସ୍ଥାପତ୍ୟର କାର୍ଯ୍ୟଶାଳା ଭିତରେ ଚାଲିବା। ଦୁର୍ଗା ମନ୍ଦିର ଏହାର ସ୍ତମ୍ଭଶ୍ରେଣୀର ଧୀର ପରିକ୍ରମାକୁ ପୁରସ୍କୃତ କରେ, ତିର୍ଯ୍ୟକ ଆଲୋକରେ ଏକ ପରେ ଏକ ମୂର୍ତ୍ତି ଦେଖାଯାଏ, ଅର୍ଦ୍ଧବୃତ୍ତାକାର ଶେଷ ଦକ୍ଷିଣୀ ପରମ୍ପରାରେ ଅନ୍ୟ କିଛି ପରି ନୁହେଁ ଏପରି ବକ୍ର ହୋଇ ଯାଏ। ଏହା ବାହାରେ କ୍ଷେତରେ ଆହୁରି ମନ୍ଦିର ଛିଞ୍ଚା ହୋଇଛି — କେତେକ ତାଲା ପଡ଼ିଛି, କେତେକ ଖୋଲା, କେତେକ ଅଧା ଧ୍ୱଂସ — ଏବଂ ପାହାଡ଼ ଉପରେ ମେଗୁଟି ମନ୍ଦିରକୁ ଚଢ଼ିଲେ ମାଳପ୍ରଭା ଉପତ୍ୟକାର ଏକ ଦୀର୍ଘ ଦୃଶ୍ୟ ମିଳେ, ଯେଉଁଠି ଏସବୁ ଆରମ୍ଭ ହୋଇଥିଲା। ଯେଉଁମାନେ ଜିନିଷ କିପରି ଗଢ଼ି ଉଠେ ତାହାକୁ ଭଲପାଆନ୍ତି, ସେମାନଙ୍କ ପାଇଁ ଏହା ଏକ ଶାନ୍ତ, ବିସ୍ତୃତ, ଗଭୀର ଭାବେ ପୁରସ୍କାରଦାୟକ ସ୍ଥାନ।"
   },
   "visit": {
-    "timings": "The Durga temple complex is generally open from around 9:00 am to 5:30 pm daily; it is managed by the Archaeological Survey of India and a ticket is required.",
-    "dressCode": "Modest dress is appreciated; comfortable footwear helps for walking among the scattered temples and up to the hilltop shrines.",
-    "photography": "Photography is generally allowed; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Aihole is in Bagalkot district, about 35 km from Badami and 15 km from Pattadakal, reached by road; the nearest railheads are Badami and Bagalkot, and the nearest airport is Hubballi."
+    "timings": "ଦୁର୍ଗା ମନ୍ଦିର ପରିସର ସାଧାରଣତଃ ପ୍ରତିଦିନ ସକାଳ ପ୍ରାୟ ୯:୦୦ ରୁ ସନ୍ଧ୍ୟା ୫:୩୦ ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ଏହା ଭାରତୀୟ ପୁରାତତ୍ତ୍ୱ ସର୍ବେକ୍ଷଣ ଦ୍ୱାରା ପରିଚାଳିତ ଏବଂ ଟିକେଟ୍ ଆବଶ୍ୟକ।",
+    "dressCode": "ଶୋଭନୀୟ ପୋଷାକ ପ୍ରଶଂସନୀୟ; ବିକ୍ଷିପ୍ତ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ ଏବଂ ପାହାଡ଼ ମନ୍ଦିରକୁ ଚାଲିବା ପାଇଁ ଆରାମଦାୟକ ପାଦୁକା ସହାୟକ।",
+    "photography": "ଫଟୋ ଉଠାଇବାକୁ ସାଧାରଣତଃ ଅନୁମତି ଅଛି; ଟ୍ରାଇପଡ୍ କିମ୍ବା ବୃତ୍ତିଗତ ଚିତ୍ରଗ୍ରହଣ ପାଇଁ ସ୍ଥାନ କର୍ତ୍ତୃପକ୍ଷଙ୍କ ଅନୁମତି ଆବଶ୍ୟକ ହୋଇପାରେ।",
+    "gettingThere": "ଐହୋଳେ ବାଗଲକୋଟ୍ ଜିଲ୍ଲାରେ, ବାଦାମୀରୁ ପ୍ରାୟ ୩୫ କିଲୋମିଟର ଏବଂ ପଟ୍ଟଦକଲ୍‌ରୁ ୧୫ କିଲୋମିଟର ଦୂରରେ ଅବସ୍ଥିତ, ସଡ଼କ ପଥରେ ପହଞ୍ଚିହୁଏ; ନିକଟତମ ରେଳ ଷ୍ଟେସନ ବାଦାମୀ ଓ ବାଗଲକୋଟ୍, ଏବଂ ନିକଟତମ ବିମାନବନ୍ଦର ହୁବ୍ଲି।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/aihole-durga-temple.jpg",
