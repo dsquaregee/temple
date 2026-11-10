@@ -1,30 +1,37 @@
 {
   "id": "kashi-vishwanath-varanasi",
   "locale": "mr",
+  "name": "काशी विश्वनाथ मंदिर, वाराणसी",
   "nativeName": "श्री काशी विश्वनाथ मंदिर",
+  "deity": "विश्वनाथ (विश्वेश्वर) रूपातील शिव, विश्वाचा स्वामी — बारा ज्योतिर्लिंगांपैकी एक",
+  "tradition": "शैव",
   "location": {
-    "city": "Varanasi (Kashi)",
-    "state": "Uttar Pradesh",
+    "city": "वाराणसी (काशी)",
+    "state": "उत्तर प्रदेश",
     "lat": 25.3108,
     "lng": 83.0106
   },
+  "period": "काशीच्या हृदयातील एक प्राचीन देवस्थान; सध्याचे मंदिर अहिल्याबाई होळकर यांनी १७८० मध्ये बांधले",
   "century": 18,
+  "dynasty": "होळकर (१७८०), महाराजा रणजितसिंह यांनी दिलेल्या सुवर्णमंडनासह",
+  "style": "नागर",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "वाराणसीतील गंगेच्या काठावरील गल्ल्यांच्या वर काशी विश्वनाथाचे सोनेरी शिखर झळकते; ते विश्वाचा स्वामी असलेल्या शिवाचे निवासस्थान दर्शवते — बारा ज्योतिर्लिंगांपैकी एक, आणि ज्या नगराला भाविक शिव कधीही न सोडणारे नगर म्हणतात त्या नगरात.",
   "sections": {
-    "history": "Kashi, the city of light, has been sacred to Shiva since the earliest memory of Indian pilgrimage, and the Dvadasha Jyotirlinga Stotram names \"Vishvesha in Varanasi\" among the twelve Jyotirlingas. The Kashi Khanda of the Skanda Purana sings the glory of Vishveshwara and of the city he is said never to abandon. Over the centuries the shrine has been raised and renewed more than once. The present temple was built in 1780 by Ahilyabai Holkar, the queen of Indore, and in the 1830s Maharaja Ranjit Singh of Punjab gave gold to sheathe its spire and dome. In December 2021 the first phase of the Kashi Vishwanath Dham opened, a broad stone precinct joining the temple to the ghats of the Ganga.",
-    "architecture": "The temple is modest in size and rich in presence. Its Nagara spire and the dome beside it are plated in gold, the gleam that gives it the popular name of the Golden Temple of Varanasi. Within a small sanctum, the Jyotirlinga rests in a silver-lined altar, approached by a constant stream of devotees. Around the shrine, the Kashi Vishwanath Dham has opened wide paved courtyards, colonnades and pilgrim halls, so that the temple now looks down an open way to the river.",
-    "legends": "Kashi is called Avimukta, the place never forsaken, for tradition holds that Shiva never leaves it, even at the dissolution of the worlds, when he lifts the city on his trident. It is one of the seven cities that grant liberation, and devotees believe that Shiva himself whispers the saving word into the ear of those who die here. A Puranic story tells of a pillar of light without beginning or end that appeared before Brahma and Vishnu; Kashi honours Vishwanatha as that boundless radiance made present.",
-    "festivals": "Maha Shivaratri is the great night, with worship from dusk to dawn. The month of Shravan brings vast crowds, especially on Mondays. On Rangbhari Ekadashi, before Holi, devotees celebrate Shiva bringing Parvati home with colour, and on Dev Deepawali, at Kartik Purnima, the ghats glow with lamps. Confirm dates locally.",
-    "experience": "Daily worship begins with the Mangala aarti before dawn and closes with the Shayana aarti at night; the evening Saptarishi aarti is especially loved. Many pilgrims first bathe in the Ganga, then climb to the temple. Beside it stands the shrine of Annapurna, the goddess who feeds Kashi, and a short way off, at Mir Ghat, is Vishalakshi, honoured as a Shakti Peetha."
+    "history": "प्रकाशाचे नगर काशी भारतीय तीर्थयात्रेच्या सर्वांत प्राचीन स्मृतींपासून शिवाला पवित्र आहे, आणि द्वादश ज्योतिर्लिंग स्तोत्रात बारा ज्योतिर्लिंगांमध्ये \"वाराणसीतील विश्वेश\" यांचे नाव घेतले आहे. स्कंदपुराणातील काशीखंड विश्वेश्वराचा आणि त्याने कधीही न त्यागल्याचे सांगितल्या जाणाऱ्या नगराचा महिमा गातो. शतकानुशतके हे देवस्थान एकापेक्षा अधिक वेळा उभारले आणि नूतनीकृत केले गेले आहे. सध्याचे मंदिर इंदूरच्या राणी अहिल्याबाई होळकर यांनी १७८० मध्ये बांधले, आणि १८३० च्या दशकात पंजाबचे महाराजा रणजितसिंह यांनी त्याचे शिखर व घुमट मढवण्यासाठी सोने दिले. डिसेंबर २०२१ मध्ये काशी विश्वनाथ धामाचा पहिला टप्पा खुला झाला; मंदिराला गंगेच्या घाटांशी जोडणारा हा विस्तीर्ण दगडी परिसर आहे.",
+    "architecture": "मंदिर आकाराने लहान, पण प्रभावाने समृद्ध आहे. त्याचे नागर शिखर आणि बाजूचा घुमट सोन्याने मढवलेले आहेत; या तेजामुळेच त्याला वाराणसीचे सुवर्ण मंदिर हे लोकप्रिय नाव मिळाले आहे. एका लहान गर्भगृहात चांदीने मढवलेल्या वेदीवर ज्योतिर्लिंग विराजमान आहे, आणि भाविकांचा अखंड ओघ तिकडे वळत असतो. देवस्थानाभोवती काशी विश्वनाथ धामाने रुंद फरसबंद अंगणे, स्तंभावली आणि यात्रेकरूंची सभागृहे खुली केली आहेत, त्यामुळे मंदिर आता नदीकडे जाणाऱ्या खुल्या मार्गावर नजर टाकते.",
+    "legends": "काशीला अविमुक्त, म्हणजे कधीही न सोडले जाणारे स्थान, म्हटले जाते; कारण परंपरेनुसार शिव ते कधीही सोडत नाही — जगांच्या प्रलयाच्या वेळीही नाही, जेव्हा तो त्रिशूळावर नगर उचलून धरतो. मोक्ष देणाऱ्या सात नगरींपैकी ही एक आहे, आणि येथे देहत्याग करणाऱ्यांच्या कानात स्वतः शिव तारक मंत्र सांगतो, असा भाविकांचा विश्वास आहे. एका पौराणिक कथेनुसार ब्रह्मा आणि विष्णूंपुढे आदी-अंत नसलेला प्रकाशस्तंभ प्रकट झाला; त्या अपार तेजाचे प्रकट रूप म्हणून काशी विश्वनाथाला पूजते.",
+    "festivals": "महाशिवरात्र ही महान रात्र असते; सायंकाळपासून पहाटेपर्यंत पूजा चालते. श्रावण महिन्यात, विशेषतः सोमवारी, प्रचंड गर्दी लोटते. होळीपूर्वीच्या रंगभरी एकादशीला भाविक शिव पार्वतीला घरी घेऊन येतो तो प्रसंग रंगांनी साजरा करतात, आणि कार्तिक पौर्णिमेच्या देव दिवाळीला घाट दिव्यांनी उजळतात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "दैनंदिन पूजेची सुरुवात पहाटेपूर्वीच्या मंगल आरतीने होते आणि रात्री शयन आरतीने तिचा समारोप होतो; सायंकाळची सप्तर्षी आरती विशेष प्रिय आहे. अनेक यात्रेकरू प्रथम गंगेत स्नान करतात आणि मग मंदिराकडे चढून जातात. त्याच्या शेजारी काशीला अन्न देणारी देवी अन्नपूर्णेचे मंदिर आहे, आणि थोड्या अंतरावर मीर घाटावर विशालाक्षी आहे, जिला शक्तिपीठ म्हणून पूजले जाते."
   },
   "visit": {
-    "timings": "Open daily from before dawn to late night, with aartis at set hours through the day. Shravan Mondays, Maha Shivaratri and festival days are extremely crowded. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. Follow the posted rules and staff guidance.",
-    "photography": "Mobile phones, cameras and bags are deposited before entry under security rules, and photography is not permitted inside the temple.",
-    "gettingThere": "The temple stands in the old city of Varanasi, close to the river ghats, and is reached on foot through the lanes or by the Kashi Vishwanath Dham entrances from the Ganga side. Varanasi Junction is about 5 km away, and Lal Bahadur Shastri International Airport at Babatpur about 25 km."
+    "timings": "दररोज पहाटेपूर्वीपासून रात्री उशिरापर्यंत खुले; दिवसभर ठरलेल्या वेळी आरत्या होतात. श्रावणातील सोमवार, महाशिवरात्र आणि सणांच्या दिवशी अत्यंत गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "खांदे आणि गुडघे झाकलेले, साधे पारंपरिक पोशाख अपेक्षित आहेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "सुरक्षा नियमांनुसार प्रवेशापूर्वी मोबाइल फोन, कॅमेरे आणि पिशव्या जमा कराव्या लागतात, आणि मंदिरात आत छायाचित्रणास परवानगी नाही.",
+    "gettingThere": "मंदिर वाराणसीच्या जुन्या शहरात, नदीच्या घाटांजवळ आहे; गल्ल्यांमधून पायी किंवा गंगेच्या बाजूकडील काशी विश्वनाथ धामाच्या प्रवेशद्वारांमधून तेथे पोहोचता येते. वाराणसी जंक्शन सुमारे ५ किमी अंतरावर आहे, आणि बाबतपूर येथील लाल बहादूर शास्त्री आंतरराष्ट्रीय विमानतळ सुमारे २५ किमी."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kashi-vishwanath-varanasi.jpg",

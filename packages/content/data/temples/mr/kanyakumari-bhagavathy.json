@@ -1,30 +1,37 @@
 {
   "id": "kanyakumari-bhagavathy",
   "locale": "mr",
+  "name": "कुमारी अम्मन मंदिर, कन्याकुमारी",
   "nativeName": "குமரி அம்மன் கோயில், கன்னியாகுமரி",
+  "deity": "तीन समुद्रांच्या संगमावर देवीचे कन्या कुमारी हे कुमारिका रूप",
+  "tradition": "शाक्त",
   "location": {
-    "city": "Kanyakumari",
-    "state": "Tamil Nadu",
+    "city": "कन्याकुमारी",
+    "state": "तमिळनाडू",
     "lat": 8.0784,
     "lng": 77.556
   },
+  "period": "प्राचीन उद्गम; पांड्य, चोळ, नायक व त्रावणकोर यांच्या काळात विकसित",
   "century": 8,
+  "dynasty": "पांड्य व चोळ उद्गम; नायक व त्रावणकोर यांचे आश्रय",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "temples-of-the-deep-south"
   ],
+  "summary": "भारतीय द्वीपकल्पाच्या अगदी टोकावर, जेथे बंगालचा उपसागर, अरबी समुद्र व हिंदी महासागर मिळतात, तेथे कन्या कुमारी ही देवी शाश्वत कुमारिका म्हणून उभी आहे — एक शक्तिपीठ, जिच्या हिऱ्याच्या नथीचा प्रकाश समुद्रापार दूरवर चमकतो असे सांगितले जाते.",
   "sections": {
-    "history": "The Kumari Amman temple stands at Kanyakumari, the southernmost point of mainland India, on the shore where three seas meet. It is one of the ancient Shakti Peethas, the sacred sites of the goddess, and worship here reaches back into antiquity; the temple was cared for over the centuries by the Pandyas, the Cholas, the Nayaks and the kings of Travancore. Set against the roar of the confluence and looking out to the Vivekananda rock offshore, the shrine of the virgin goddess has drawn pilgrims to the land's end for as long as the tradition remembers.",
-    "architecture": "The temple is built in the Dravidian manner close to the sea, its enclosures and halls gathered around the sanctum of the standing goddess, who faces the ocean. The image is famed for its diamond nose-ring, whose brilliance is said by tradition to have been visible far out to sea. The eastern sea-gate of the temple is opened only on certain special days, when the goddess looks directly out over the meeting of the waters. Weathered by salt wind and spray, the stone of the shrine carries the particular atmosphere of a temple at the edge of the land.",
-    "legends": "Tradition tells that the goddess, as the young Kumari, undertook great penance to win Shiva as her husband, and that a wedding was fixed at midnight. The gods, needing her to remain the virgin goddess so that she might destroy the demon Banasura, contrived that the auspicious hour should pass — by one account the sage Narada crowed like a rooster, so that Shiva, thinking dawn had broken, turned back. The wedding feast already prepared is said to have turned to stone and coloured sand, still pointed out along the shore. Remaining unwed, the goddess kept her power and slew Banasura, and here she abides as Kanya Kumari, the virgin who guards the southern tip.",
-    "festivals": "The temple's calendar turns on the Navaratri festival of the goddess in autumn, celebrated with special grandeur, and on the Vaisakha and Chitra observances. Full-moon days, when the sun sets and the moon rises together over the three seas, and the special openings of the eastern sea-gate, draw the largest gatherings. The car festival carries the goddess in procession through the shore town.",
-    "experience": "Kanyakumari is a place of pilgrimage and of the elements together: the temple of the virgin goddess, the confluence of three seas, the sunrise and sunset over the water, and the Vivekananda rock memorial and the great Thiruvalluvar statue offshore. A visit joins the darshan of the goddess with the sheer geography of standing at the end of the land. The town is the terminus of the deep south, reached by road and rail, and pairs naturally with Suchindram and the temple-city of the far Tamil country."
+    "history": "कुमारी अम्मन मंदिर कन्याकुमारी येथे, मुख्य भूभागाच्या दक्षिणतम टोकावर, जेथे तीन समुद्र मिळतात त्या किनाऱ्यावर उभे आहे. हे देवीच्या प्राचीन शक्तिपीठांपैकी एक पवित्र स्थान असून, येथील पूजा अतिप्राचीन काळापर्यंत जाते; शतकानुशतके पांड्य, चोळ, नायक व त्रावणकोरच्या राजांनी या मंदिराची देखभाल केली. संगमाच्या गर्जनेच्या पार्श्वभूमीवर उभे राहून समुद्रातील विवेकानंद शिलेकडे पाहत, कुमारिका देवीचे हे देवालय जिथपर्यंत परंपरेला स्मरते तिथपासून भूमीच्या टोकाकडे यात्रेकरूंना आकर्षित करत आले आहे.",
+    "architecture": "हे मंदिर समुद्राजवळ द्रविड पद्धतीत बांधलेले असून, समुद्राकडे तोंड करून उभ्या असलेल्या देवीच्या गर्भगृहाभोवती त्याचे प्रांगण व सभामंडप एकवटलेले आहेत. मूर्ती तिच्या हिऱ्याच्या नथीसाठी प्रसिद्ध आहे, जिचे तेज परंपरेनुसार समुद्रात दूरवर दिसत असे. मंदिराचे पूर्वेकडील समुद्रद्वार केवळ काही विशेष दिवशीच उघडले जाते, जेव्हा देवी थेट जलसंगमाकडे पाहते. खारट वारा व फवाऱ्यांनी झिजलेला देवालयाचा दगड भूमीच्या काठावरील मंदिराचे विशेष वातावरण धारण करतो.",
+    "legends": "परंपरा सांगते की तरुण कुमारी रूपातील देवीने शिवाला पती म्हणून मिळवण्यासाठी महान तपश्चर्या केली आणि मध्यरात्री विवाह निश्चित झाला. पण देवांना हवे होते की तिने कुमारिका देवी राहावी जेणेकरून ती बाणासुर दैत्याचा नाश करू शकेल, म्हणून त्यांनी शुभ मुहूर्त निघून जाईल अशी योजना केली — एका कथेनुसार नारद मुनींनी कोंबड्यासारखी बांग दिली, त्यामुळे पहाट झाली असे समजून शिव परत फिरले. आधीच तयार केलेले विवाहभोजन दगड व रंगीत वाळूत बदलले असे सांगितले जाते, जे आजही किनाऱ्यावर दाखवले जाते. अविवाहित राहून देवीने आपली शक्ती टिकवली व बाणासुराचा वध केला, आणि येथे ती कन्या कुमारी — दक्षिण टोकाचे रक्षण करणारी कुमारिका — म्हणून वास करते.",
+    "festivals": "मंदिराचे पंचांग शरद ऋतूतील देवीच्या नवरात्र उत्सवाभोवती फिरते, जो विशेष वैभवाने साजरा होतो, तसेच वैशाख व चित्रा पाळणांभोवती. पौर्णिमेचे दिवस, जेव्हा तीन समुद्रांवर सूर्य मावळतो व चंद्र उगवतो एकाच वेळी, आणि पूर्वेकडील समुद्रद्वाराचे विशेष उघडणे, सर्वात मोठे समुदाय आकर्षित करतात. रथोत्सव देवीला किनारी गावातून मिरवणुकीत नेतो.",
+    "experience": "कन्याकुमारी हे यात्रेचे आणि निसर्गाच्या तत्त्वांचे एकत्रित स्थान आहे: कुमारिका देवीचे मंदिर, तीन समुद्रांचा संगम, पाण्यावरील सूर्योदय व सूर्यास्त, आणि समुद्रातील विवेकानंद शिला स्मारक व भव्य तिरुवळ्ळुवर पुतळा. भेट देवीच्या दर्शनाला भूमीच्या टोकावर उभे राहण्याच्या विशुद्ध भूगोलाशी जोडते. हे गाव दक्षिणेचे अंतिम टोक असून, रस्ते व रेल्वेने पोहोचता येते, आणि सुचिंद्रम व दूरच्या तमिळ प्रदेशातील मंदिरनगरीशी स्वाभाविकपणे जोडले जाते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; sunrise and sunset draw crowds to the shore. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before entering the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted inside the temple, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kanyakumari is at the southern tip of Tamil Nadu, connected by road and rail; it lies about 20 km from Nagercoil and is an easy onward journey from Suchindram and Tirunelveli."
+    "timings": "सकाळी व संध्याकाळी दर्शनाच्या सत्रांसह आणि दुपारच्या विश्रांतीसह दररोज उघडे; सूर्योदय व सूर्यास्त किनाऱ्यावर गर्दी आकर्षित करतात. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. दक्षिणेकडील अनेक देवालयांप्रमाणे पुरुषांना पारंपरिकपणे गर्भगृहात प्रवेश करण्यापूर्वी वरचे वस्त्र काढण्यास सांगितले जाते; लावलेल्या नियमांचे पालन करा.",
+    "photography": "मंदिरात, विशेषतः गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेल्या नियमांचे व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "कन्याकुमारी हे तमिळनाडूच्या दक्षिण टोकावर असून, रस्ते व रेल्वेने जोडलेले आहे; ते नागरकोइलपासून सुमारे २० कि.मी. अंतरावर असून, सुचिंद्रम व तिरुनेलवेलीपासून पुढचा प्रवास सहज आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kanyakumari-bhagavathy.jpg",

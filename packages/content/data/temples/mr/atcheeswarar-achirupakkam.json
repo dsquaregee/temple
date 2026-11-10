@@ -1,29 +1,36 @@
 {
   "id": "atcheeswarar-achirupakkam",
   "locale": "mr",
+  "name": "आच्चीश्वरर मंदिर, अचिरुपक्कम",
   "nativeName": "ஆட்சீஸ்வரர் கோயில்",
+  "deity": "शिव आच्चीश्वरर, म्हणजे आसाचे (धुरीचे) स्वामी, यांच्या रूपात, देवी इळंगिळि अम्मै यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Achirupakkam",
-    "state": "Tamil Nadu",
+    "city": "अचिरुपक्कम",
+    "state": "तमिळनाडू",
     "lat": 12.401,
     "lng": 79.818
   },
+  "period": "तोंडई प्रदेशातील प्राचीन शैव क्षेत्र, तेवारममध्ये (७वे शतक) गायलेले; नंतरच्या भरांसह रचनात्मक मंदिर",
   "century": 7,
+  "dynasty": "तोंडई नाडूचे तेवारम क्षेत्र; मध्ययुगीन तमिळ आश्रयदाते",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "आसाचे स्वामी आच्चीश्वरर यांची स्तुती संबंधर यांनी तिरुवच्चिरुपक्कम येथे केली आहे; तोंडई प्रदेशातील हे शिव क्षेत्र आहे, जेथे त्रिपुरदहनाच्या कथेत दिव्य रथाचा आस मोडला आणि विनायकाने तो दुरुस्त केला.",
   "sections": {
-    "history": "Achirupakkam lies on the highway south of Chengalpattu, in the Thondai country. In the Tevaram the village is Tiruvachirupakkam, and its Shiva temple is a Paadal Petra Sthalam, sung by the child-saint Tirugnanasambandar. The name of the Lord, Atcheeswarar, and the name of the village are both tied to a single incident, the breaking of an axle, 'achu' in Tamil, in the legend told below. Temple accounts call the shrine very old, and it is placed in the Tevaram age, the seventh century. The later patrons of the structure are not firmly recorded in the sources found, but the temple has remained in unbroken worship, and the village still carries the story in its name.",
-    "architecture": "The temple faces east and is entered beneath a five-tiered gateway. Its most distinctive feature is that the Lord is honoured in two sanctums: Atcheeswarar, a self-manifested linga facing east, and Umayatcheeswarar in a second sanctum. In the same way two goddesses are worshipped in shrines of their own, Ilangili Ammai and Umayambigai. Outside the temple, facing west, stands the shrine of Achumuri Vinayaka, the Vinayaka of the broken axle, to whom devotees pray to overcome obstacles. The poet-saint Arunagirinathar is said to have sung of him in the Tiruppugazh as Achiru Vinayaka.",
-    "legends": "The village is bound to the story of the burning of the three cities. Setting out to destroy the demons of Tripura, Shiva mounted his chariot without first praying to Vinayaka, the remover of obstacles, and at this place the chariot's axle broke. Realising the omission, the Lord worshipped Vinayaka, who mended the axle, and Shiva went on to his victory. The spot where the axle broke is remembered as Achirupakkam, and the Lord here is Atcheeswarar, the Lord of the Axle. A second tradition tells that the axle of a Pandya king's chariot, as he travelled to bring earth from the Ganga for a dam on a nearby river, broke here as well. The lesson of both tales is the same: no undertaking, not even Shiva's, should begin without the blessing of Vinayaka.",
-    "festivals": "The principal annual festival is the ten-day Chithirai Brahmotsavam in April or May. Special worship is offered on new-moon and full-moon days, and Maha Shivaratri and the monthly Pradosham are observed as at Shiva temples generally. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Achirupakkam is an easy and rewarding stop for pilgrims travelling the highway south from Chennai. Begin, as the legend itself teaches, at the shrine of Achumuri Vinayaka outside the temple, then enter to the sanctum of Atcheeswarar and the second sanctum of Umayatcheeswarar, and visit the two goddesses in their own shrines. Many who come pray for obstacles to be lifted from a new beginning, which is precisely the grace the story of the axle recalls. The temple is quiet outside festival days, and the pairing of two sanctums for one Lord gives the visit a character found in few other shrines."
+    "history": "अचिरुपक्कम तोंडई प्रदेशात चेंगलपट्टूच्या दक्षिणेला महामार्गावर वसले आहे. तेवारममध्ये या गावाचे नाव तिरुवच्चिरुपक्कम असे असून तेथील शिव मंदिर हे पाडल पेत्र स्थलम आहे, ज्याचे गायन बालसंत तिरुज्ञानसंबंधर यांनी केले. भगवानांचे आच्चीश्वरर हे नाव आणि गावाचे नाव दोन्ही एकाच घटनेशी जोडलेले आहेत — आसाचे, तमिळमध्ये 'अच्चु' याचे, मोडणे; ती कथा खाली सांगितली आहे. मंदिराच्या वर्णनांनुसार हे क्षेत्र अतिशय प्राचीन असून ते तेवारम युगात, म्हणजे सातव्या शतकात, गणले जाते. या वास्तूचे नंतरचे आश्रयदाते उपलब्ध स्रोतांमध्ये निश्चितपणे नोंदलेले नाहीत, परंतु मंदिरात अखंड पूजा सुरू राहिली आहे आणि गाव आजही आपल्या नावात ती कथा वाहते.",
+    "architecture": "मंदिर पूर्वाभिमुख असून पाच मजली गोपुराखालून प्रवेश होतो. याचे सर्वांत विशिष्ट वैशिष्ट्य म्हणजे येथे भगवानांची दोन गाभाऱ्यांत पूजा होते: पूर्वाभिमुख स्वयंभू लिंग आच्चीश्वरर, आणि दुसऱ्या गाभाऱ्यात उमायच्चीश्वरर. त्याचप्रमाणे इळंगिळि अम्मै आणि उमायांबिगै या दोन देवींची पूजा त्यांच्या स्वतंत्र मंदिरांत होते. मंदिराबाहेर पश्चिमाभिमुख अचुमुरी विनायकाचे, म्हणजे मोडलेल्या आसाच्या विनायकाचे, मंदिर आहे; अडथळे दूर व्हावेत म्हणून भक्त त्याची प्रार्थना करतात. कवी-संत अरुणगिरिनाथर यांनी तिरुप्पुगळमध्ये त्याचे अच्चिरु विनायक म्हणून गायन केले असे सांगितले जाते.",
+    "legends": "हे गाव त्रिपुरदहनाच्या कथेशी जोडलेले आहे. त्रिपुरातील असुरांचा नाश करण्यासाठी निघालेल्या शिवाने विघ्नहर्त्या विनायकाची प्रार्थना न करताच रथावर आरूढ झाले, आणि याच ठिकाणी रथाचा आस मोडला. आपली चूक ओळखून भगवानांनी विनायकाची पूजा केली; विनायकाने आस दुरुस्त केला आणि शिव विजयाकडे निघाले. आस जेथे मोडला ते स्थान अचिरुपक्कम म्हणून स्मरले जाते आणि येथील भगवान आच्चीश्वरर, आसाचे स्वामी, आहेत. दुसऱ्या परंपरेनुसार, जवळच्या नदीवर धरण बांधण्यासाठी गंगेतील माती आणण्यास निघालेल्या एका पांड्य राजाच्या रथाचा आसही येथेच मोडला. दोन्ही कथांचा बोध एकच: विनायकाच्या आशीर्वादाशिवाय कोणतेही कार्य, शिवाचेही, सुरू करू नये.",
+    "festivals": "मुख्य वार्षिक उत्सव म्हणजे एप्रिल किंवा मे महिन्यातील दहा दिवसांचा चित्तिरै ब्रह्मोत्सव. अमावस्या आणि पौर्णिमेच्या दिवशी विशेष पूजा केली जाते, आणि सर्वसाधारणपणे शिव मंदिरांप्रमाणे महाशिवरात्र आणि मासिक प्रदोष पाळले जातात. तारखा तमिळ कालगणनेनुसार असल्याने त्या स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "experience": "चेन्नईहून दक्षिणेकडे महामार्गाने जाणाऱ्या यात्रेकरूंसाठी अचिरुपक्कम हा सोयीचा आणि समाधान देणारा थांबा आहे. कथेनेच शिकवल्याप्रमाणे, सुरुवात मंदिराबाहेरील अचुमुरी विनायकाच्या मंदिरापासून करावी; मग आच्चीश्वररांच्या गाभाऱ्यात आणि उमायच्चीश्वररांच्या दुसऱ्या गाभाऱ्यात प्रवेश करावा आणि दोन देवींचे त्यांच्या स्वतंत्र मंदिरांत दर्शन घ्यावे. नव्या आरंभातील अडथळे दूर व्हावेत म्हणून अनेक जण येथे प्रार्थना करतात — आसाच्या कथेतून नेमकी हीच कृपा स्मरते. उत्सवाचे दिवस वगळता मंदिर शांत असते, आणि एकाच भगवानांसाठी दोन गाभाऱ्यांची जोडी या भेटीला असे स्वरूप देते जे फार कमी मंदिरांत आढळते."
   },
   "visit": {
-    "timings": "Commonly reported as open from about 6:00 to 12:00 in the morning and 4:00 to 8:00 in the evening, though listings differ slightly; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Achirupakkam stands on the Chennai–Tindivanam highway (the GST Road), about 96 km from Chennai, in Madurantakam taluk of Chengalpattu district. Chengalpattu, roughly 40 km to the north, has the nearest major railway junction, and Chennai International Airport is about 80 km away. Buses along the highway stop at Achirupakkam, and the temple is in the town."
+    "timings": "साधारणपणे सकाळी सुमारे ६:०० ते १२:०० आणि सायंकाळी ४:०० ते ८:०० अशी उघडे असल्याचे नोंदवले जाते, तरी यादींमध्ये थोडा फरक आहे; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "dressCode": "माफक पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-पँट, महिलांसाठी साडी, सलवार-कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणामार्ग आणि प्रांगणांमध्ये छायाचित्रण सामान्यतः परवानगीयुक्त आहे, परंतु तमिळनाडूतील मंदिरांच्या नियमांनुसार गाभाऱ्याच्या आत ते निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "अचिरुपक्कम चेन्नई–तिंडिवनम महामार्गावर (जीएसटी रोड) चेन्नईपासून सुमारे ९६ किमी अंतरावर, चेंगलपट्टू जिल्ह्यातील मदुरांतकम तालुक्यात आहे. सुमारे ४० किमी उत्तरेला असलेले चेंगलपट्टू हे सर्वांत जवळचे मोठे रेल्वे जंक्शन आहे, आणि चेन्नई आंतरराष्ट्रीय विमानतळ सुमारे ८० किमी दूर आहे. महामार्गावरील बस अचिरुपक्कमला थांबतात, आणि मंदिर गावातच आहे."
   }
 }

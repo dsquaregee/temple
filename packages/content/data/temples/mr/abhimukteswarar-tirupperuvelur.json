@@ -1,29 +1,36 @@
 {
   "id": "abhimukteswarar-tirupperuvelur",
   "locale": "mr",
+  "name": "अभिमुक्तेश्वरर मंदिर, तिरुप्पेरुवेळूर",
   "nativeName": "திருப்பெருவேளூர் அபிமுக்தீஸ்வரர் கோயில்",
+  "deity": "शिव अभिमुक्तेश्वरर (प्रियनाथर) रूपात, देवी बागम्प्रियाळ यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम्",
   "location": {
-    "city": "Tirupperuvelur (Manakkal Ayyampettai)",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पेरुवेळूर (मणक्कल अय्यम्पेट्टै)",
+    "state": "तमिळनाडू",
     "lat": 10.82,
     "lng": 79.56
   },
+  "period": "तेवारम् कालखंड (७व्या शतकात स्तवन केलेले); नंतरचे चोळ संरचनात्मक मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूरजवळील मणक्कल अय्यम्पेट्टै येथील तिरुप्पेरुवेळूरमध्ये शिवाची अभिमुक्तेश्वरर — प्रियनाथर — या रूपात, देवी बागम्प्रियाळ यांच्यासह पूजा होते. तिरुज्ञान संबंदर आणि अप्पर यांनी स्तवन केलेले हे एक पाडल पेट्र स्थलम् असून, तिरुवारूर त्रिभुज प्रदेशातील एक शांत मंदिर आहे.",
   "sections": {
-    "history": "Tirupperuvelur, at Manakkal Ayyampettai about 10 km from Tiruvarur and 30 km from Kumbakonam, is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar and Appar (Tirunavukkarasar). Its historical name is Tirupperuvelur; it stands among the Shiva shrines of the Tiruvarur delta, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Abhimukteswarar — also Avimukteswarar, Priyanathar — in the sanctum, with the goddess Baagampriyal (also named Niraikonda Nayaki) in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram keep the form of the Shiva temples of the Tiruvarur country.",
-    "legends": "Shiva is worshipped here as Abhimukteswarar — Avimukteswarar, 'the never-forsaking lord' — and as Priyanathar, 'the beloved lord'; the goddess is Baagampriyal, who shares the lord's half. As with many delta shrines, the fuller sthala purana survives chiefly in local tradition and the Tevaram verses of Sambandar and Appar.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims of the Tiruvarur delta include Tirupperuvelur among their stops.",
-    "experience": "At Tirupperuvelur the pilgrim comes to a quiet shrine of the never-forsaking lord. Before Abhimukteswarar and Baagampriyal, in the green Tiruvarur country, the visitor finds the unhurried grace of a Tevaram temple of the delta."
+    "history": "तिरुवारूरपासून सुमारे १० किमी व कुंभकोणमपासून ३० किमी अंतरावरील मणक्कल अय्यम्पेट्टै येथील तिरुप्पेरुवेळूर हे एक पाडल पेट्र स्थलम् आहे, ज्याचे तेवारम्मध्ये तिरुज्ञान संबंदर आणि अप्पर (तिरुनावुक्करसर) यांनी स्तवन केले आहे. याचे ऐतिहासिक नाव तिरुप्पेरुवेळूर आहे; हे तिरुवारूर त्रिभुज प्रदेशातील शिव मंदिरांमध्ये गणले जाते, आणि हे दगडी मंदिर चोळ कालखंडातील व नंतरचे आहे.",
+    "architecture": "द्राविड शैलीतील हे त्रिभुज-प्रदेशातील मंदिर आहे; गर्भगृहात अभिमुक्तेश्वरर — अविमुक्तेश्वरर, प्रियनाथर — विराजमान आहेत, देवी बागम्प्रियाळ (निरैकोंडा नायकी असेही नाव) यांच्या स्वतंत्र मंदिरासह, एक नंदी व प्रदक्षिणामार्गाभोवती परिवार देवता आहेत. भिंतींनी वेढलेले प्रांगण आणि साधा गोपुर तिरुवारूर प्रदेशातील शिव मंदिरांचे रूप जपतात.",
+    "legends": "येथे शिव अभिमुक्तेश्वरर — अविमुक्तेश्वरर, 'कधीही न सोडणारा स्वामी' — आणि प्रियनाथर, 'प्रिय स्वामी' या रूपात पूजिले जातात; देवी बागम्प्रियाळ, जी स्वामीचा अर्धा भाग धारण करते. अनेक त्रिभुज-प्रदेशातील मंदिरांप्रमाणेच येथील विस्तृत स्थलपुराण प्रामुख्याने स्थानिक परंपरेत आणि संबंदर व अप्पर यांच्या तेवारम् पदांत टिकून आहे.",
+    "festivals": "मंदिरात मासी महिन्यातील (फेब्रुवारी–मार्च) महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मधील नवरात्र आणि कार्तिगैचे सोमवार प्रदोष पूजेसह, एका गावातील मंदिराच्या शांत प्रमाणात साजरे होतात. तिरुवारूर त्रिभुज प्रदेशातील भक्त आपल्या प्रवासात तिरुप्पेरुवेळूरचा समावेश करतात.",
+    "experience": "तिरुप्पेरुवेळूर येथे भक्त कधीही न सोडणाऱ्या स्वामीच्या एका शांत मंदिरात येतो. हिरव्यागार तिरुवारूर प्रदेशात अभिमुक्तेश्वरर व बागम्प्रियाळ यांच्यासमोर भक्ताला त्रिभुज प्रदेशातील एका तेवारम् मंदिराची निवांत कृपा लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirupperuvelur is at Manakkal Ayyampettai, about 10 km from Tiruvarur and 30 km from Kumbakonam, in Tiruvarur district. Tiruvarur is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले असते; वेळा स्थानिक पातळीवर, विशेषतः उत्सवाच्या दिवशी, निश्चित करून घ्या.",
+    "dressCode": "साधे पारंपरिक वस्त्र अपेक्षित आहे, खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराशी ठेवली जातात.",
+    "photography": "बाहेरील प्रदक्षिणामार्गात सामान्यतः छायाचित्रणास परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुप्पेरुवेळूर हे तिरुवारूर जिल्ह्यातील मणक्कल अय्यम्पेट्टै येथे, तिरुवारूरपासून सुमारे १० किमी व कुंभकोणमपासून ३० किमी अंतरावर आहे. तिरुवारूर हे सर्वांत जवळचे शहर व रेल्वे स्थानक असून, तेथून गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
   }
 }

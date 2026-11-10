@@ -1,29 +1,36 @@
 {
   "id": "swarnapureeswarar-sembanarkoil",
   "locale": "mr",
+  "name": "स्वर्णपुरीश्वरर मंदिर, सेंपोन्नार्कोयिल",
   "nativeName": "செம்பொன்னார்கோயில் சுவர்ணபுரீஸ்வரர் கோயில்",
+  "deity": "शिव स्वर्णपुरीश्वरर (सुवर्णवर्णी स्वामी) रूपात",
+  "tradition": "शैव — संबंदर आणि अप्पर यांनी गायिलेले पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Semponarkoil, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "सेंपोन्नार्कोयिल, मयिलादुतुरैजवळ",
+    "state": "तमिळनाडू",
     "lat": 11.1233,
     "lng": 79.72
   },
+  "period": "तेवारम काळ; पहिल्या आदित्य चोलाच्या काळात जीर्णोद्धार, नंतरचे शिलालेख",
   "century": 9,
+  "dynasty": "चोल (पहिल्या आदित्यापासून)",
+  "style": "द्रविडी",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मयिलादुतुरैजवळील सेंपोन्नार्कोयिल शिवाची स्वर्णपुरीश्वरर — सुवर्णवर्णी स्वामी — या रूपात उपासना करते; त्याचे स्वयंभू रूप सोन्यासारखे चमकत असे असे म्हटले जाते. संबंदर आणि अप्पर यांनी गायिलेले हे पाडल पेट्र स्थळम् दिव्य कथांनी समृद्ध आहे: येथे महालक्ष्मीने तप केले म्हणून लक्ष्मीपुरी, इंद्राने वज्र मिळवले म्हणून इंद्रपुरी, आणि दक्षाच्या यज्ञापूर्वी दाक्षायणीने प्रभूची पूजा केली ते देवालय म्हणून त्याचे स्मरण केले जाते. तिरुचेंपोन्पल्ली हे त्याचे नावच उत्तम सोन्याची साक्ष देते.",
   "sections": {
-    "history": "Semponarkoil, also called Tiruchemponpalli, is an ancient Shaiva village near Mayiladuthurai, hymned in the seventh-century Tevaram by Sambandar and Appar and counted among the Paadal Petra Sthalams. The temple's art and inscriptions carry its history: an image of Jyeshta Devi in a niche points to renovation in the time of Aditya Chola I, while inscriptions record the reigns of Kulothunga Chola III, Rajadhiraja I and, much later, Serfoji of Thanjavur — a span of patronage across many centuries.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Swarnapureeswarar, a self-manifested lingam said to have shone like gold. Chola-period sculpture, including the Jyeshta Devi image that helps date the renovation, and inscriptions on its walls make the temple a record in stone of successive dynasties. The several sacred names of the place — Lakshmipuri, Indirapuri, Kandapuri — are each tied to a divine worshipper remembered here.",
-    "legends": "Many gods are said to have worshipped at Semponarkoil. Mahalakshmi did penance to Shiva here to win Vishnu as her lord, so the place was called Lakshmipuri. Indra worshipped the lord to obtain the vajra with which to slay the demon Vruddhasura, giving the name Indirapuri; and Murugan worshipped here before destroying Tharakasura, giving Kandapuri. The temple is also remembered as the place where Dakshayani, Shiva's consort, worshipped him before going, uninvited and against his wish, to her father Daksha's sacrifice. The golden sheen of the self-manifested lingam gives the lord the name Swarnapureeswarar.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. The temple's many divine associations — with Lakshmi, Indra, Murugan and Dakshayani — lend their own colour to its observances, and the proximity to the great temple centres around Mayiladuthurai draws pilgrims on the wider delta circuit.",
-    "experience": "Semponarkoil rewards the pilgrim with a temple whose every name tells of a god who came to worship here, and whose golden lord is set in finely carved Chola stone. The darshan of Swarnapureeswarar, amid inscriptions and sculpture spanning many reigns, gives the visit the depth of a place long cherished across the ages."
+    "history": "सेंपोन्नार्कोयिल, ज्याला तिरुचेंपोन्पल्ली असेही म्हणतात, हे मयिलादुतुरैजवळील एक प्राचीन शैव गाव आहे; सातव्या शतकातील तेवारममध्ये संबंदर आणि अप्पर यांनी त्याचे स्तुतिगान केले असून ते पाडल पेट्र स्थळांमध्ये गणले जाते. मंदिराची कला आणि शिलालेख त्याचा इतिहास सांगतात: कोनाड्यातील ज्येष्ठा देवीची मूर्ती पहिल्या आदित्य चोलाच्या काळातील जीर्णोद्धाराकडे निर्देश करते, तर शिलालेखांमध्ये तिसऱ्या कुलोत्तुंग चोलाची, पहिल्या राजाधिराजाची आणि खूप नंतरच्या तंजावरच्या सरफोजीची कारकीर्द नोंदलेली आहे — अनेक शतकांवर पसरलेल्या आश्रयाचा हा काळ आहे.",
+    "architecture": "मंदिर द्रविडी रचनेचे असून त्यात गोपुर, प्राकार आणि स्वर्णपुरीश्वररचे गर्भगृह आहे; येथील स्वयंभू लिंग सोन्यासारखे तेजस्वी होते असे म्हटले जाते. चोलकालीन शिल्पे, ज्यांत जीर्णोद्धाराचा काळ ठरवण्यास मदत करणारी ज्येष्ठा देवीची मूर्ती समाविष्ट आहे, आणि भिंतींवरील शिलालेख यांमुळे हे मंदिर क्रमाने आलेल्या राजवंशांची दगडातील नोंद ठरते. या स्थळाची अनेक पवित्र नावे — लक्ष्मीपुरी, इंद्रपुरी, कंदपुरी — प्रत्येक येथे स्मरणात असलेल्या एकेका दिव्य उपासकाशी जोडलेली आहेत.",
+    "legends": "सेंपोन्नार्कोयिल येथे अनेक देवांनी पूजा केली असे म्हटले जाते. महालक्ष्मीने विष्णूला पती म्हणून मिळवण्यासाठी येथे शिवाची तपस्या केली, म्हणून या स्थळाला लक्ष्मीपुरी म्हटले गेले. वृद्धासुर राक्षसाला मारण्यासाठी वज्र मिळवण्याकरिता इंद्राने प्रभूची पूजा केली, त्यामुळे इंद्रपुरी हे नाव पडले; आणि तारकासुराचा संहार करण्यापूर्वी मुरुगनने येथे पूजा केली, त्यामुळे कंदपुरी हे नाव पडले. शिवाची पत्नी दाक्षायणीने आपल्या पिता दक्षाच्या यज्ञाला, निमंत्रण नसताना आणि शिवाच्या इच्छेविरुद्ध जाण्यापूर्वी येथे त्याची पूजा केली, ते स्थळ म्हणूनही हे मंदिर स्मरणात आहे. स्वयंभू लिंगाची सुवर्ण झळाळी प्रभूला स्वर्णपुरीश्वरर हे नाव देते.",
+    "festivals": "मंदिर शैव उत्सव दिनदर्शिका पाळते — महाशिवरात्री, प्रदोषम, मार्गळी हंगाम आणि वार्षिक ब्रह्मोत्सव. लक्ष्मी, इंद्र, मुरुगन आणि दाक्षायणी यांच्याशी असलेले मंदिराचे अनेक दिव्य संबंध त्याच्या आचरणांना स्वतःचा रंग देतात, आणि मयिलादुतुरैच्या भोवतालच्या महान मंदिर केंद्रांच्या सान्निध्यामुळे डेल्टा परिसरातील व्यापक यात्रामार्गावरील यात्रेकरू येथे येतात.",
+    "experience": "सेंपोन्नार्कोयिल यात्रेकरूला अशा मंदिराचे फळ देते, ज्याचे प्रत्येक नाव येथे पूजेला आलेल्या एकेका देवाची कथा सांगते, आणि ज्याचा सुवर्णमय स्वामी बारीक कोरीव चोल पाषाणात विराजमान आहे. अनेक कारकिर्दींवर पसरलेल्या शिलालेखांच्या आणि शिल्पांच्या सान्निध्यात स्वर्णपुरीश्वररचे दर्शन या भेटीला युगानुयुगे जपलेल्या स्थळाची खोली देते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Semponarkoil is near Mayiladuthurai (and Sembanarkoil town) in the Nagapattinam/Mayiladuthurai delta, roughly 15 km from Mayiladuthurai; the nearest rail heads are Mayiladuthurai and Sirkazhi, with local buses and taxis to the temple."
+    "timings": "सामान्यतः पहाटेपासून मध्यान्हापर्यंत आणि पुन्हा दुपारच्या उत्तरार्धापासून संध्याकाळपर्यंत खुले असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक ठिकाणी खात्री करून घ्याव्यात.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे, ज्यात खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांमध्ये छायाचित्रण सामान्यतः अनुज्ञेय आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "सेंपोन्नार्कोयिल नागपट्टिनम/मयिलादुतुरै डेल्टा परिसरात मयिलादुतुरै (आणि सेंबनार्कोयिल गाव) जवळ, मयिलादुतुरैपासून सुमारे १५ किमी अंतरावर आहे; सर्वात जवळची रेल्वे स्थानके मयिलादुतुरै आणि सीर्काळी असून, मंदिरापर्यंत स्थानिक बसेस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

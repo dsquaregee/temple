@@ -1,31 +1,38 @@
 {
   "id": "vaithamanidhi-thirukkolur",
   "locale": "mr",
+  "name": "वैत्तमानिधि पेरुमाळ मंदिर, तिरुक्कोळूर",
   "nativeName": "வைத்தமாநிதி பெருமாள் கோயில், திருக்கோளூர்",
+  "deity": "विष्णू वैत्तमानिधि पेरुमाळ रूपात, देवी कुमुदवल्लीसह — नव तिरुपतींमधील मंगळ (अंगारक) ग्रहाचे मंदिर",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Thirukkolur",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कोळूर",
+    "state": "तमिळनाडू",
     "lat": 8.6,
     "lng": 77.83
   },
+  "period": "ताम्रपर्णी नदीकाठच्या पांड्य प्रदेशातील एक दिव्य देशम्; नम्माळवारांनी नालायिर दिव्य प्रबंधात गायिलेले",
   "century": 8,
+  "dynasty": "पांड्य (नंतरच्या जोडण्यांसह)",
+  "style": "द्राविडी",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "ताम्रपर्णीकाठच्या तिरुक्कोळूर येथे विष्णू वैत्तमानिधि पेरुमाळ म्हणून विराजमान आहेत, जे स्वतःच सांभाळासाठी ठेवलेला खजिना आहेत — नऊ ग्रह तिरुपतींमधील मंगळाचे मंदिर, नम्माळवारांनी गायिलेला दिव्य देशम्.",
   "sections": {
-    "history": "Thirukkolur lies on the Tamiraparani near Alvarthirunagari, and is remembered as the home of Madhurakavi Alvar; its lord is Vaithamanidhi Perumal, honoured as the imperishable wealth entrusted to the devotee. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of Mars, Angaraka.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Vaithamanidhi Perumal, with the Goddess Kumudavalli. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Thirukkolur the planet is Mars, Angaraka.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of Mars, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "तिरुक्कोळूर ताम्रपर्णीकाठी आळवारतिरुनगरीजवळ आहे आणि मधुरकवि आळवारांचे गाव म्हणून स्मरले जाते; येथील भगवान वैत्तमानिधि पेरुमाळ आहेत, भक्ताकडे सोपवलेले अक्षय धन म्हणून सन्मानित. हे १०८ दिव्य देशम्पैकी एक आहे — आळवार संतांनी नालायिर दिव्य प्रबंधात गायिलेली विष्णूंची निवासस्थाने — आणि नव तिरुपतींपैकी एक आहे, म्हणजे ताम्रपर्णीवरील नऊ मंदिरे, प्रत्येक वैष्णवांच्या दृष्टीने एक ग्रहमंदिर मानले जाते. नव तिरुपतींमध्ये हे मंगळ, अंगारकाचे मंदिर म्हणून सन्मानले जाते.",
+    "architecture": "पांड्य प्रदेशाच्या आणि त्याच्या नंतरच्या आश्रयदात्यांच्या द्राविडी पद्धतीने बांधलेले हे मंदिर गोपुर द्वारातून प्रवेश करता येणारे असून मुख्य विष्णूंच्या गर्भगृहाभोवती रचलेले आहे; देवी आपल्या स्वतंत्र गर्भगृहात आहे. येथे भगवान वैत्तमानिधि पेरुमाळ म्हणून पूजले जातात, देवी कुमुदवल्लीसह. गर्भगृहासमोर स्तंभयुक्त सभामंडप उघडतात, सुदूर दक्षिणेतील मंदिर शैलीत.",
+    "legends": "नव तिरुपती वैष्णवांची नऊ ग्रहमंदिरे म्हणून एकत्र पूजली जातात: कावेरीच्या शैव परंपरेत नऊ स्वतंत्र नवग्रह मंदिरे आहेत, तर येथे नऊ ग्रहांचा सन्मान ताम्रपर्णीवरील विष्णूंच्या नऊ निवासस्थानांत केला जातो, जी सर्व आळवारांमध्ये अग्रगण्य नम्माळवारांनी गायिली आहेत, ज्यांचे स्वतःचे जन्मस्थान आळवारतिरुनगरी त्यापैकीच एक आहे. तिरुक्कोळूर येथे ग्रह मंगळ, अंगारक आहे.",
+    "festivals": "हे मंदिर महान वैष्णव उत्सव पाळते — वैकुंठ एकादशी, गरुड सेवा ज्यात नऊ मंदिरांची एकाच फेरीत पूजा केली जाते, आणि नम्माळवार व आळवारांचे दिवस — नदीकाठच्या गावांतून मिरवणुकींसह. ताम्रपर्णीचे स्वतःचे उत्सव आसपासच्या प्रदेशाला आकर्षित करतात.",
+    "experience": "नऊंपैकी एक शांत नदीकाठचा दिव्य देशम्, जो एका तिरुपतीपासून दुसऱ्या तिरुपतीपर्यंत ताम्रपर्णीचे अनुसरण करणाऱ्या यात्रेकरूसाठी फलदायी आहे. मंगळाचे मंदिर म्हणून ते नव तिरुपतींच्या एकाच यात्रेत आपले स्थान घेते, जी नऊ ग्रहांना विष्णूंच्या निवासस्थानांत एकत्र आणते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "दररोज उघडे; सकाळी आणि संध्याकाळी दर्शनाची सत्रे असून दुपारी बंद असते; गरुड सेवा आणि वैकुंठ एकादशीचे दिवस सर्वाधिक गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "हे ताम्रपर्णीवरील तिरुनेलवेली–तुतुकुडी परिसरात, तिरुनेलवेली–तिरुचेंदूर मार्गावर आहे आणि तिरुनेलवेलीहून रस्त्याने पोहोचता येते; नऊ तिरुपती गावे नदीकाठी एकमेकांच्या जवळ आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaithamanidhi-thirukkolur.jpg",

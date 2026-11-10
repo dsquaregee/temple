@@ -1,30 +1,37 @@
 {
   "id": "venkateswara-tirumala",
   "locale": "mr",
+  "name": "वेंकटेश्वर मंदिर, तिरुमला",
   "nativeName": "వేంకటేశ్వర ఆలయం, తిరుమల",
+  "deity": "वेंकटेश्वर (बालाजी, श्रीनिवास) रूपातील विष्णू, सात टेकड्यांचा स्वामी",
+  "tradition": "वैष्णव पंथ (श्रीवैष्णव)",
   "location": {
-    "city": "Tirumala, Tirupati",
-    "state": "Andhra Pradesh",
+    "city": "तिरुमला, तिरुपती",
+    "state": "आंध्र प्रदेश",
     "lat": 13.6833,
     "lng": 79.3474
   },
+  "period": "प्राचीन स्थापना; विजयनगर काळात मोठा विस्तार",
   "century": 9,
+  "dynasty": "पल्लव, चोळ, पांड्य, विजयनगर",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुमला टेकड्यांपैकी सातव्या टेकडीवर पृथ्वीवरील सर्वाधिक भेट दिले जाणारे आणि सर्वाधिक संपन्न असे मंदिर उभे आहे; सोनेरी आनंद निलयम शिखराखाली वेंकटेश्वर रूपातील विष्णू वर्षाला लाखो यात्रेकरूंचे स्वागत करतात.",
   "sections": {
-    "history": "The hill shrine of Venkateswara is among the most ancient living temples of the south, with inscriptions attesting royal gifts from the Pallava, Chola and Pandya periods onward. Its golden age came under the Vijayanagara emperors, above all Krishnadevaraya, whose endowments and visits in the sixteenth century made Tirumala the wealthiest pilgrimage centre in India — a status it has never lost. Revered as a Divya Desam and identified with the Kali-yuga form of Vishnu who remains accessible to all who climb the hills, the temple has been administered since 1933 by the Tirumala Tirupati Devasthanams, which today manages one of the largest religious institutions in the world. Generations of devotees have offered their hair, their savings and their vows here, and the unbroken flow of pilgrimage is itself the temple's living history.",
-    "architecture": "The temple crowns Venkatadri, the seventh peak of the Tirumala range, and is built in the Dravidian manner around a modest but intensely sacred sanctum. Over the garbhagriha rises the Ananda Nilayam vimana, its gilded copper crowning the deity below. Pilgrims pass through successive gateways and halls — the Tirumamani mandapa, the golden entrance — in a tightly managed flow that channels vast crowds toward a few seconds of darshan before the standing image of Venkateswara, dark and richly adorned, one hand pointing to his feet as refuge. Compared with the sprawling temple-cities of the plains, Tirumala's power lies less in monumental scale than in its setting among forested hills and in the sheer density of devotion concentrated on a single doorway.",
-    "legends": "The sthala purana relates that Vishnu descended to the seven hills as Srinivasa and, to marry the local princess Padmavati, borrowed a vast sum from Kubera, the lord of wealth; devotees' offerings at Tirumala are understood as helping repay that eternal debt, which is why the hundi here overflows. He is Venkateswara, 'the lord who destroys sins', and Balaji to his countless devotees. The custom of tonsure — offering one's hair — is tied to a legend of the goddess and expresses the surrender of ego, while the temple's famous laddu prasadam, prepared in the Potu kitchen, is carried home across the world as a token of the hill lord's grace.",
-    "festivals": "The nine-day Brahmotsavam in the month of Purattasi (September–October) is the great annual festival, when the processional deity is drawn around the hill in a series of splendid vahanas, culminating in the Garuda Seva that draws the largest crowds of the year. Vaikuntha Ekadashi, Rathasaptami, and the daily sequence of sevas — from the pre-dawn Suprabhatam that wakes the lord to the night's Ekanta Seva — structure a ritual life of extraordinary continuity and detail.",
-    "experience": "A visit to Tirumala is a pilgrimage in the full sense: many devotees still climb the stone steps of the Alipiri path up the hills, and the darshan itself, however brief, is the culmination of long queues managed through the TTD's token system. Plan ahead, book a darshan slot, and allow time for the whole ritual arc — the hair offering, the laddu, the walk among the shrines. The town of Tirupati at the foot of the hills is the transport base; the hills above are cool, green and, for believers, charged with presence."
+    "history": "वेंकटेश्वरांचे हे डोंगरावरील मंदिर दक्षिणेतील सर्वांत प्राचीन जिवंत मंदिरांपैकी एक आहे; पल्लव, चोळ आणि पांड्य काळापासून पुढे राजांनी दिलेल्या दानांची साक्ष देणारे शिलालेख येथे आहेत. याचा सुवर्णकाळ विजयनगर सम्राटांच्या काळात आला, विशेषतः कृष्णदेवरायाच्या, ज्याच्या सोळाव्या शतकातील दानांमुळे आणि भेटींमुळे तिरुमला हे भारतातील सर्वांत संपन्न तीर्थक्षेत्र बनले - हा दर्जा त्याने कधीही गमावलेला नाही. दिव्य देसम म्हणून पूज्य असलेले आणि डोंगर चढून येणाऱ्या सर्वांना सुलभ राहणाऱ्या विष्णूच्या कलियुगातील रूपाशी जोडले गेलेले हे मंदिर १९३३ पासून तिरुमला तिरुपती देवस्थानम यांच्याकडून चालवले जाते; ही संस्था आज जगातील सर्वांत मोठ्या धार्मिक संस्थांपैकी एक सांभाळते. अनेक पिढ्यांच्या भक्तांनी येथे आपले केस, आपली बचत आणि आपले नवस अर्पण केले आहेत, आणि यात्रेचा अखंड प्रवाह हाच या मंदिराचा जिवंत इतिहास आहे.",
+    "architecture": "हे मंदिर तिरुमला पर्वतरांगेतील सातवे शिखर असलेल्या वेंकटाद्रीच्या माथ्यावर आहे, आणि ते द्रविड शैलीत, साध्या परंतु अत्यंत पवित्र गर्भगृहाभोवती बांधलेले आहे. गर्भगृहावर आनंद निलयम विमान उभे आहे; त्याचा सोनेरी तांब्याचा कळस खाली विराजमान दैवताला मुकुटासारखा आहे. यात्रेकरू एकामागून एक येणाऱ्या प्रवेशद्वारांतून आणि मंडपांतून - तिरुमामणी मंडप, सुवर्ण प्रवेशद्वार - काटेकोर नियोजित प्रवाहातून जातात; हा प्रवाह प्रचंड गर्दीला वेंकटेश्वरांच्या उभ्या मूर्तीसमोरील काही क्षणांच्या दर्शनाकडे नेतो - ती मूर्ती सावळी आणि समृद्ध अलंकारांनी सजलेली असून एक हात शरणागतीचा आश्रय म्हणून चरणांकडे निर्देश करतो. मैदानी प्रदेशातील पसरलेल्या मंदिर-नगरांच्या तुलनेत तिरुमलाचे सामर्थ्य भव्य आकारमानात कमी, आणि वनराईने भरलेल्या टेकड्यांमधील त्याच्या परिसरात आणि एकाच प्रवेशद्वारावर केंद्रित झालेल्या भक्तीच्या अफाट घनतेत अधिक आहे.",
+    "legends": "स्थलपुराणानुसार विष्णू श्रीनिवास रूपाने सात टेकड्यांवर उतरले आणि स्थानिक राजकन्या पद्मावतीशी विवाह करण्यासाठी त्यांनी संपत्तीचा स्वामी कुबेर याच्याकडून मोठी रक्कम उसनी घेतली; तिरुमला येथील भक्तांची अर्पणे ते शाश्वत कर्ज फेडण्यास हातभार लावतात असे मानले जाते, आणि म्हणूनच येथील हुंडी ओसंडून वाहते. ते वेंकटेश्वर आहेत - 'पापांचा नाश करणारा स्वामी' - आणि आपल्या असंख्य भक्तांसाठी बालाजी. मुंडन करण्याची, म्हणजे केस अर्पण करण्याची प्रथा देवीशी संबंधित एका आख्यायिकेशी जोडलेली असून ती अहंकाराच्या समर्पणाचे प्रतीक आहे; तर पोटू स्वयंपाकघरात तयार होणारा मंदिराचा प्रसिद्ध लाडू-प्रसाद डोंगराच्या स्वामींच्या कृपेचे चिन्ह म्हणून जगभर घरी नेला जातो.",
+    "festivals": "पुरट्टासी महिन्यात (सप्टेंबर-ऑक्टोबर) येणारा नऊ दिवसांचा ब्रह्मोत्सव हा वार्षिक महान उत्सव आहे; या वेळी उत्सवमूर्तीला भव्य वाहनांच्या मालिकेतून डोंगराभोवती फिरवले जाते, आणि वर्षातील सर्वाधिक गर्दी खेचणाऱ्या गरुड सेवेने त्याची सांगता होते. वैकुंठ एकादशी, रथसप्तमी आणि दैनंदिन सेवांचा क्रम - प्रभूंना जागे करणाऱ्या पहाटेच्या सुप्रभातमपासून रात्रीच्या एकांत सेवेपर्यंत - हे सर्व मिळून विलक्षण सातत्याचे आणि तपशीलाचे धार्मिक जीवन घडवतात.",
+    "experience": "तिरुमलाची भेट ही पूर्ण अर्थाने तीर्थयात्रा आहे: अनेक भक्त आजही अलिपिरी मार्गावरील दगडी पायऱ्या चढून डोंगरावर जातात, आणि दर्शन, कितीही क्षणिक असले तरी, टीटीडीच्या टोकन पद्धतीने नियंत्रित केलेल्या लांब रांगांचा कळस असते. आधीपासून नियोजन करा, दर्शनाची वेळ आरक्षित करा, आणि संपूर्ण धार्मिक क्रमासाठी - केस अर्पण करणे, लाडू, मंदिरांमधील फेरफटका - वेळ राखून ठेवा. डोंगराच्या पायथ्याचे तिरुपती शहर हे वाहतुकीचे केंद्र आहे; वरील टेकड्या थंड, हिरव्यागार आणि श्रद्धाळूंसाठी दैवी सान्निध्याने भारलेल्या आहेत."
   },
   "visit": {
-    "timings": "Darshan runs from the pre-dawn Suprabhatam through the day into the night, with the sanctum following the TTD seva schedule. Waiting times vary from a couple of hours to many; booked-darshan tokens are strongly advised.",
-    "dressCode": "Traditional dress is required — men in dhoti/kurta or formal wear, women in saree or salwar-kameez; the temple observes practices for Hindu worshippers and asks pilgrims to declare their faith at entry.",
-    "photography": "Photography and phones are not permitted inside the temple and are deposited before entry; the sanctum is a strict no-photography zone.",
-    "gettingThere": "Tirumala sits above Tirupati in Andhra Pradesh; Tirupati has a railway station and airport, and the hills are reached by ghat road or on foot via the Alipiri and Srivari Mettu step paths."
+    "timings": "दर्शन पहाटेच्या सुप्रभातमपासून दिवसभर आणि रात्रीपर्यंत चालते; गर्भगृह टीटीडीच्या सेवा-वेळापत्रकानुसार चालते. प्रतीक्षा वेळ दोन-चार तासांपासून अनेक तासांपर्यंत बदलतो; आरक्षित-दर्शन टोकन घेण्याचा जोरदार सल्ला दिला जातो.",
+    "dressCode": "पारंपरिक पोशाख आवश्यक आहे - पुरुषांनी धोतर/कुर्ता किंवा औपचारिक पोशाख, स्त्रियांनी साडी किंवा सलवार-कमीज घालावी; मंदिर हिंदू उपासकांसाठीच्या प्रथा पाळते आणि यात्रेकरूंना प्रवेशाच्या वेळी आपल्या श्रद्धेची घोषणा करण्यास सांगते.",
+    "photography": "मंदिराच्या आत छायाचित्रण आणि फोन यांना परवानगी नाही; ते प्रवेशापूर्वी जमा केले जातात. गर्भगृह हे छायाचित्रणास कठोरपणे मनाई असलेले क्षेत्र आहे.",
+    "gettingThere": "तिरुमला आंध्र प्रदेशातील तिरुपतीच्या वर वसलेले आहे; तिरुपतीला रेल्वे स्थानक आणि विमानतळ आहे, आणि टेकड्यांवर घाट रस्त्याने किंवा अलिपिरी व श्रीवारी मेट्टू या पायरी-मार्गांनी पायी पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.jpg",

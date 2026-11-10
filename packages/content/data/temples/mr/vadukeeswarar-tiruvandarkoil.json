@@ -1,29 +1,36 @@
 {
   "id": "vadukeeswarar-tiruvandarkoil",
   "locale": "mr",
+  "name": "वडुकीश्वरर मंदिर, तिरुवण्डार्कोविल",
   "nativeName": "வடுகீஸ்வரர் கோயில்",
+  "deity": "वडुकीश्वरर (पंचनदीश्वरर) रूपातील शिव, देवी त्रिपुरसुंदरी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tiruvandarkoil",
-    "state": "Puducherry",
+    "city": "तिरुवण्डार्कोविल",
+    "state": "पुदुच्चेरी",
     "lat": 11.919,
     "lng": 79.657
   },
+  "period": "नाडुनाडू प्रदेशातील प्राचीन शैव मंदिर, तेवारममध्ये गायिलेले (सातवे शतक); नंतरच्या भरीसह चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ, नंतरच्या चोळ राजांच्या शिलालेखांसह (राजराज पहिले, कुलोत्तुंग पहिले)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "वडुकीश्वरर हे तिरुवण्डार्कोविल येथील शिवमंदिर आहे; नाडुनाडू प्रदेशातील हे पाडल पेत्र स्थळ तिरुज्ञानसंबंधरांनी तेवारममध्ये गौरविले आहे, आणि येथे पापमुक्ती मागणाऱ्या भैरव वडुकाची आठवण जपली जाते, ज्याने प्रभूला हे नाव दिले.",
   "sections": {
-    "history": "Tiruvandarkoil stands in the level country between Villupuram and Puducherry, and its Shiva temple is among the old shrines of the Nadu Nadu region sung in the Tevaram, which makes it a Paadal Petra Sthalam. The hymns of Tirugnana Sambandar, gathered in the First Thirumurai, praise the Lord here as Vadukeeswarar, also honoured as Panchanadeeswarar. Tradition reads the town's name from Vadukur, or Andar Koil, which in time became Tiruvandarkoil. The temple was raised in stone by the Cholas and carries inscriptions of the later Chola kings, among them Rajaraja Chola I and Kulottunga Chola I; today it stands as a protected monument in the care of the Archaeological Survey of India, worn but enduring.",
-    "architecture": "The temple faces east and is held within concentric rectangular walls of granite, a plain and ancient enclosure without the towering gopuram of the larger temples of the plains. The sanctum of Vadukeeswarar is reached through a mahamandapam and an arthamandapam, the pillared halls that lead the devotee inward by degrees. The goddess Tripurasundari is honoured in her own shrine within the second precinct. As a monument under the Archaeological Survey of India, the temple keeps the bare, unembellished dignity of a very old Chola foundation rather than the colour of a busy modern shrine.",
-    "legends": "The temple's story is told of the demon Mundasuran, who by hard-won boons grew able to torment Brahma and the gods. To end his reign Shiva commanded Vaduka Bhairava, one of the eight Bhairavas who guard the directions, to destroy him. The deed done, Vaduka Bhairava came to this place and worshipped the Lord to be freed of the sin that clings even to a righteous killing, and from his penance the Lord took the name Vadukeeswarar. For this reason the Bhairava is held in special regard here, and devotees keep his worship with particular care on Karthigai Ashtami.",
-    "festivals": "Maha Shivaratri in the Tamil month of Masi, in February or March, is the temple's principal festival, kept as at every Shiva shrine with a night-long vigil and worship. Vaikasi Visakam in May or June and Skanda Sashti in the autumn are also observed, and special rites are offered to Bhairava on Karthigai Ashtami, in keeping with the temple's legend. As the festivals follow the Tamil calendar, confirm the dates locally before travelling.",
-    "experience": "Tiruvandarkoil rewards the devotee who seeks out the quiet of an old stone sanctuary. The temple sits a little apart from the busy Villupuram–Puducherry road, and within its granite walls the air is still. Come to the sanctum of Vadukeeswarar through the pillared halls, honour the goddess Tripurasundari in her shrine, and pause before the Bhairava, whose penance gave the temple its name. Being a protected monument, it is plainer than many living temples, and that plainness is part of its appeal for those who come in search of antiquity and calm."
+    "history": "तिरुवण्डार्कोविल विल्लुपुरम आणि पुदुच्चेरी यांदरम्यानच्या सपाट प्रदेशात वसले आहे, आणि तेथील शिवमंदिर तेवारममध्ये गायिलेल्या नाडुनाडू प्रदेशातील प्राचीन देवस्थानांपैकी आहे, ज्यामुळे ते पाडल पेत्र स्थळ ठरते. पहिल्या तिरुमुरैत संकलित तिरुज्ञानसंबंधरांची स्तोत्रे येथे प्रभूचा वडुकीश्वरर म्हणून, तसेच पंचनदीश्वरर म्हणूनही गौरव करतात. परंपरा गावाच्या नावाचे मूळ वडुकूर, म्हणजे अण्डार कोविल, यात शोधते, जे कालांतराने तिरुवण्डार्कोविल झाले. चोळांनी हे मंदिर दगडात उभारले असून त्यावर नंतरच्या चोळ राजांचे शिलालेख आहेत, त्यांपैकी राजराज चोळ पहिले आणि कुलोत्तुंग चोळ पहिले; आज ते भारतीय पुरातत्त्व सर्वेक्षणाच्या देखरेखीखालील संरक्षित स्मारक म्हणून झिजलेले पण टिकून आहे.",
+    "architecture": "मंदिर पूर्वाभिमुख असून ग्रॅनाइटच्या एकात एक असलेल्या आयताकृती तटभिंतींत वसले आहे — मैदानी प्रदेशातील मोठ्या मंदिरांच्या उत्तुंग गोपुराशिवाय एक साधे आणि प्राचीन आवार. वडुकीश्वररांच्या गर्भगृहात महामंडप आणि अर्धमंडप यांतून पोहोचले जाते; हे स्तंभयुक्त सभागृह भक्ताला टप्प्याटप्प्याने आत नेतात. देवी त्रिपुरसुंदरी यांचा दुसऱ्या प्राकारातील त्यांच्या स्वतंत्र मंदिरात गौरव केला जातो. भारतीय पुरातत्त्व सर्वेक्षणाखालील स्मारक म्हणून, गजबजलेल्या आधुनिक देवस्थानाच्या रंगीतपणाऐवजी अतिप्राचीन चोळ स्थापनेची उघडी, अलंकारविहीन प्रतिष्ठा मंदिराने जपली आहे.",
+    "legends": "मंदिराची कथा मुण्डासुर नावाच्या दैत्याविषयी सांगितली जाते, जो कष्टाने मिळवलेल्या वरदानांमुळे ब्रह्मदेवाला आणि देवांना छळण्यास समर्थ झाला. त्याचे राज्य संपवण्यासाठी शिवाने दिशांचे रक्षण करणाऱ्या आठ भैरवांपैकी एक, वडुक भैरव, याला त्याचा नाश करण्याची आज्ञा दिली. कार्य पूर्ण झाल्यावर वडुक भैरव या स्थानी आला आणि न्याय्य वधालाही चिकटणाऱ्या पापातून मुक्त होण्यासाठी त्याने प्रभूची पूजा केली, आणि त्याच्या तपश्चर्येवरून प्रभूने वडुकीश्वरर हे नाव धारण केले. म्हणूनच येथे भैरवाला विशेष आदर दिला जातो, आणि भक्त कार्तिगै अष्टमीला त्याची पूजा विशेष काळजीपूर्वक करतात.",
+    "festivals": "फेब्रुवारी किंवा मार्चमधील तमिळ मासी महिन्यातील महाशिवरात्री हा मंदिराचा प्रमुख उत्सव आहे; प्रत्येक शिवमंदिराप्रमाणे रात्रभर जागरण आणि पूजेसह तो साजरा होतो. मे किंवा जूनमधील वैकासी विशाखम् आणि शरद ऋतूतील स्कंद षष्ठी हेही पाळले जातात, आणि मंदिराच्या आख्यायिकेनुसार कार्तिगै अष्टमीला भैरवासाठी विशेष विधी केले जातात. उत्सव तमिळ पंचांगानुसार असल्याने, प्रवासापूर्वी तारखा स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "experience": "प्राचीन दगडी देवस्थानाची शांतता शोधणाऱ्या भक्ताला तिरुवण्डार्कोविल समाधान देते. मंदिर वर्दळीच्या विल्लुपुरम–पुदुच्चेरी रस्त्यापासून थोडे बाजूला आहे, आणि त्याच्या ग्रॅनाइट भिंतींच्या आत हवा निश्चल आहे. स्तंभयुक्त मंडपांतून वडुकीश्वररांच्या गर्भगृहापर्यंत या, देवी त्रिपुरसुंदरी यांना त्यांच्या मंदिरात वंदन करा, आणि ज्याच्या तपश्चर्येमुळे मंदिराला नाव मिळाले त्या भैरवासमोर थांबा. संरक्षित स्मारक असल्यामुळे हे अनेक जिवंत मंदिरांपेक्षा साधे आहे, आणि प्राचीनता व शांतता शोधणाऱ्यांसाठी ही साधेपणाच त्याच्या आकर्षणाचा भाग आहे."
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again in the evening, with a long midday closure; as a smaller temple the hours can vary, so confirm locally before visiting.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. As this is a protected monument, ask the temple or site staff before photographing.",
-    "gettingThere": "Tiruvandarkoil lies on the Villupuram–Puducherry highway, about 21 km east of Villupuram and roughly 20 km west of Puducherry town. Both are served by frequent buses along the highway, and Villupuram is the nearest major railway junction; the temple stands close to the road at the village."
+    "timings": "साधारणतः सकाळी काही तास आणि पुन्हा संध्याकाळी उघडे असते, मध्यान्हीला दीर्घ विश्रांती असते; लहान मंदिर असल्याने वेळा बदलू शकतात, म्हणून भेटीपूर्वी स्थानिक पातळीवर खात्री करावी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडू मंदिरांच्या नियमांनुसार बाहेरील प्रांगणांत छायाचित्रण साधारणतः चालते, परंतु आतल्या गर्भगृहात निषिद्ध आहे. हे संरक्षित स्मारक असल्याने छायाचित्र घेण्यापूर्वी मंदिर किंवा स्थळ कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुवण्डार्कोविल विल्लुपुरम–पुदुच्चेरी महामार्गावर, विल्लुपुरमपासून सुमारे २१ कि.मी. पूर्वेला आणि पुदुच्चेरी शहरापासून सुमारे २० कि.मी. पश्चिमेला आहे. दोन्ही ठिकाणे महामार्गावरील वारंवार धावणाऱ्या बसने जोडलेली आहेत, आणि विल्लुपुरम हे जवळचे प्रमुख रेल्वे जंक्शन आहे; मंदिर गावात रस्त्याजवळ आहे."
   }
 }

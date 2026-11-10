@@ -1,30 +1,37 @@
 {
   "id": "payammal-shatrughna",
   "locale": "mr",
+  "name": "पायम्मल शत्रुघ्न मंदिर",
   "nativeName": "പായമ്മൽ ശത്രുഘ്ന ക്ഷേത്രം",
+  "deity": "शत्रुघ्न, रामाचा धाकटा भाऊ, शत्रुघ्नस्वामी म्हणून पूजिला जाणारा आणि विष्णूच्या सुदर्शन चक्राचा अवतार मानला जाणारा",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Payammal",
-    "state": "Kerala",
+    "city": "पायम्मल",
+    "state": "केरळ",
     "lat": 10.3119,
     "lng": 76.1892
   },
+  "period": "परंपरेनुसार प्राचीन; अठराव्या शतकाच्या उत्तरार्धातील म्हैसूरच्या स्वाऱ्यांमध्ये क्षतिग्रस्त झाले आणि गावकऱ्यांनी त्याची पुनर्बांधणी केली",
   "century": 18,
+  "dynasty": "केरळ (गावाचा आश्रय)",
+  "style": "शास्त्रीय केरळ शैली",
   "unesco": false,
   "circuits": [
     "nalambalam"
   ],
+  "summary": "इरिंजालकुडाच्या दक्षिणेकडील शांत ग्रामीण भागात पायम्मल येथील शत्रुघ्नाचे लहानसे मंदिर नालंबलम यात्रेची पूर्तता करते — रामाच्या धाकट्या भावाचे हे ग्रामीण देवालय, ज्याला भगवंताचे स्वतःचे चक्र मानले जाते.",
   "sections": {
-    "history": "Payammal is the last and smallest of the four Nalambalam temples. In tradition its image of Shatrughna — youngest of Dasharatha's four sons and twin of Lakshmana — was one of the four found in the sea and installed by the chieftain Vakkayil Kaimal, Shatrughna's being given to Payammal. Its later story is one of loss and recovery. The temple declined amid struggles between local powers and was damaged during the Mysore invasions under Tipu Sultan in the late 18th century; tradition holds that the original panchaloha image was hidden in the temple pond for safety and never found again. The people of the village restored the shrine, and a granite image of Shatrughna now stands in the sanctum.",
-    "architecture": "Payammal is a modest Kerala village temple, its square sanctum set within a walled precinct in rural surroundings. There is no great tower or grand hall; the shrine's character lies in its simplicity. Close by lies the temple pond, the very waters that tradition says hold the lost metal image to this day. Within, Shatrughna stands in the granite image installed after the temple's restoration, honoured with the daily worship of a Vishnu shrine in the Kerala manner.",
-    "legends": "Shatrughna is revered here as an incarnation of the Sudarshana chakra, the blazing discus of Vishnu. His name means 'slayer of enemies', and devotees come to him to overcome adversity. The chief offering is the Sudarshana Pushpanjali, a flower worship made for victory over enemies and for prosperity, and some devotees offer a small Sudarshana chakra itself. It is also believed that the pilgrim should, where possible, attend the night puja here, to receive the Lord's protection in full.",
-    "festivals": "The temple's annual festival begins on the Pooyam asterism in Kumbham (February–March) and runs for five days. Its busiest season, though, is Karkidakam (July–August), when Nalambalam pilgrims arrive to complete their round with Shatrughna, many hurrying to finish all four temples before midday. Confirm dates locally.",
-    "experience": "After the crowds of Triprayar and Irinjalakuda, Payammal feels like a homecoming — a small shrine on a quiet village road where the Nalambalam pilgrimage comes gently to rest. In Karkidakam the lanes fill with buses and families completing the round; outside that season the temple is peaceful, and its simple courtyard invites a few minutes of stillness before the journey home."
+    "history": "पायम्मल हे चार नालंबलम मंदिरांपैकी शेवटचे आणि सर्वांत लहान आहे. परंपरेनुसार शत्रुघ्नाची येथील मूर्ती — दशरथाच्या चार पुत्रांपैकी धाकटा आणि लक्ष्मणाचा जुळा भाऊ — समुद्रात सापडलेल्या चार मूर्तींपैकी एक होती आणि वक्कायिल कैमल या सरदाराने तिची स्थापना केली; शत्रुघ्नाची मूर्ती पायम्मलला देण्यात आली. त्यानंतरची कथा हानी आणि पुनरुद्धाराची आहे. स्थानिक सत्तांमधील संघर्षांत मंदिराचा ऱ्हास झाला आणि अठराव्या शतकाच्या उत्तरार्धात टिपू सुलतानाच्या अधिपत्याखालील म्हैसूरच्या स्वाऱ्यांमध्ये त्याची हानी झाली; परंपरेनुसार मूळची पंचलोहाची मूर्ती सुरक्षिततेसाठी मंदिराच्या तलावात लपवण्यात आली आणि ती पुन्हा कधीच सापडली नाही. गावकऱ्यांनी मंदिराचा जीर्णोद्धार केला, आणि आता गाभाऱ्यात शत्रुघ्नाची ग्रॅनाइटची मूर्ती आहे.",
+    "architecture": "पायम्मल हे केरळमधील साधे ग्रामीण मंदिर आहे; ग्रामीण परिसरात तटबंदीच्या आवारात त्याचा चौकोनी गाभारा उभा आहे. येथे कोणतेही उत्तुंग शिखर किंवा भव्य सभागृह नाही; या देवालयाचे वैशिष्ट्य त्याच्या साधेपणात आहे. जवळच मंदिराचे तळे आहे, ज्याच्या पाण्यात हरवलेली धातूची मूर्ती आजही आहे असे परंपरा सांगते. आतमध्ये मंदिराच्या जीर्णोद्धारानंतर स्थापलेल्या ग्रॅनाइटच्या मूर्तीच्या रूपात शत्रुघ्न उभे आहेत, आणि केरळच्या पद्धतीने विष्णू मंदिराची दैनंदिन पूजा येथे केली जाते.",
+    "legends": "शत्रुघ्न येथे सुदर्शन चक्राचा, म्हणजे विष्णूच्या तेजस्वी चक्राचा, अवतार म्हणून पूज्य मानले जातात. त्यांच्या नावाचा अर्थ 'शत्रूंचा संहारक' असा आहे, आणि संकटांवर मात करण्यासाठी भाविक त्यांच्याकडे येतात. मुख्य अर्पण म्हणजे सुदर्शन पुष्पांजली — शत्रूवर विजय आणि समृद्धीसाठी केलेली पुष्पपूजा; काही भाविक लहान सुदर्शन चक्रही अर्पण करतात. शक्य असल्यास यात्रेकरूंनी येथील रात्रीच्या पूजेला उपस्थित राहावे, म्हणजे भगवंताचे संरक्षण पूर्णपणे लाभते, अशीही श्रद्धा आहे.",
+    "festivals": "मंदिराचा वार्षिक उत्सव कुंभ महिन्यातील (फेब्रुवारी–मार्च) पूयम नक्षत्रावर सुरू होतो आणि पाच दिवस चालतो. मात्र सर्वाधिक गर्दीचा काळ कर्किडकम (जुलै–ऑगस्ट) असतो, जेव्हा नालंबलम यात्रेकरू शत्रुघ्नाचे दर्शन घेऊन आपली फेरी पूर्ण करण्यासाठी येतात; अनेकजण दुपारपूर्वी चारही मंदिरे पूर्ण करण्याची घाई करतात. तारखा स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "त्रिप्रयार आणि इरिंजालकुडाच्या गर्दीनंतर पायम्मल घरी परतल्यासारखे वाटते — शांत गावरस्त्यावरील लहानसे देवालय, जिथे नालंबलम यात्रा हळुवारपणे विसावते. कर्किडकम महिन्यात गल्ल्या बसेस आणि फेरी पूर्ण करणाऱ्या कुटुंबांनी भरून जातात; त्या काळाबाहेर मंदिर शांत असते, आणि त्याचे साधे प्रांगण घरी परतण्यापूर्वी काही क्षण स्तब्धतेत घालवण्यास निमंत्रण देते."
   },
   "visit": {
-    "timings": "Open in the early morning and again in the evening, with longer hours during Karkidakam for Nalambalam pilgrims. Confirm timings locally.",
-    "dressCode": "Traditional Kerala temple dress applies: men wear a mundu (dhoti) and remove their shirts before entering; women wear a saree, set-mundu or churidar. Entry is generally reserved for Hindus, per Kerala custom.",
-    "photography": "Photography is not permitted inside the temple; the outer surroundings may be photographed.",
-    "gettingThere": "Payammal is about 5 km south of Irinjalakuda in Thrissur district: turn off the Irinjalakuda–Kodungallur road at Arippalam and continue about 2 km. Irinjalakuda railway station, at Kallettumkara, is the nearest railhead, and Kochi international airport is roughly 40 km away by road. Nalambalam pilgrims usually arrive here last, after Moozhikkulam."
+    "timings": "पहाटे आणि पुन्हा संध्याकाळी उघडे असते; नालंबलम यात्रेकरूंसाठी कर्किडकम महिन्यात अधिक वेळ उघडे असते. वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "केरळच्या पारंपरिक मंदिर पोशाखाचे नियम लागू आहेत: पुरुष मुंडू (धोतर) नेसतात आणि प्रवेश करण्यापूर्वी शर्ट काढतात; स्त्रिया साडी, सेट-मुंडू किंवा चुडीदार परिधान करतात. केरळच्या प्रथेनुसार प्रवेश सहसा हिंदूंसाठीच राखीव असतो.",
+    "photography": "मंदिराच्या आत छायाचित्रणास परवानगी नाही; बाहेरील परिसराचे छायाचित्रण करता येते.",
+    "gettingThere": "पायम्मल हे त्रिशूर जिल्ह्यातील इरिंजालकुडाच्या सुमारे ५ किमी दक्षिणेस आहे: इरिंजालकुडा–कोडुंगल्लूर रस्त्यावरील अरिप्पलम येथे वळून सुमारे २ किमी पुढे जावे. कल्लेट्टुमकरा येथील इरिंजालकुडा रेल्वे स्थानक हे सर्वांत जवळचे स्थानक आहे, आणि कोची आंतरराष्ट्रीय विमानतळ रस्त्याने सुमारे ४० किमी अंतरावर आहे. नालंबलम यात्रेकरू सहसा मूळिक्कुलमनंतर सर्वात शेवटी येथे येतात."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/payammal-shatrughna.jpg",

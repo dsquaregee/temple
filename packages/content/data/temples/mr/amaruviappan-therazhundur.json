@@ -1,29 +1,36 @@
 {
   "id": "amaruviappan-therazhundur",
   "locale": "mr",
+  "name": "देवादिराजन पेरुमाळ मंदिर, तेरळुंदूर",
   "nativeName": "தேவாதிராஜப் பெருமாள் கோயில், தேரழுந்தூர்",
+  "deity": "देवादिराजन या नावाने उभ्या रूपातील विष्णू, आणि गाय-वासरासह उत्सवमूर्ती अमरुवियप्पन या रूपातही; देवी सेंगमलवल्ली यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Therazhundur",
-    "state": "Tamil Nadu",
+    "city": "तेरळुंदूर",
+    "state": "तमिळनाडू",
     "lat": 11.0464,
     "lng": 79.5794
   },
+  "period": "कावेरीजवळील चोळ प्रदेशातील एक दिव्य देसम; तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधमात याचे गायन केले आहे",
   "century": 8,
+  "dynasty": "चोळ (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "मयिलाडुतुरैजवळील तेरळुंदूर येथे विष्णू देवांचा राजा देवादिराजन म्हणून उभे आहेत आणि गाय-वासरासह गोपालक प्रभू अमरुवियप्पन म्हणून उत्सवात बाहेर पडतात — तिरुमंगै आळवारांनी गायलेला हा एक दिव्य देसम आहे आणि कंबर यांचे जन्मस्थानही आहे.",
   "sections": {
-    "history": "Therazhundur, the Thiruvazhundur of the hymns, is one of the 108 Divya Desams and one of the shrines of Chola Nadu, a village near Kuthalam in the Mayiladuthurai country. Thirumangai Alvar sang its lord at length in the Periya Thirumozhi — tradition counts forty-five of his verses here, among the most he gave any shrine. Tradition holds that the temple was first raised by the early Chola king Karikala, and later centuries added to it. The village is honoured too as the birthplace of Kambar, the poet of the Tamil Ramayana, so that Therazhundur stands in the memory of Tamil devotion and Tamil letters alike.",
-    "architecture": "Built in the Dravidian manner, the temple enshrines Devadirajan standing and facing east beneath the Garuda Vimanam; uniquely, Garuda stands beside the lord within the sanctum. The festival image, Amaruviappan, stands with his consorts and with a cow and calf at his side, and the Goddess Sengamalavalli has her own shrine. The Darshana Pushkarini lies before the temple, outside the main entrance.",
-    "legends": "The sthala purana tells that Brahma, to test Krishna, hid away the cows of the cowherd village, and Krishna simply made new herds. Abashed, Brahma begged forgiveness and asked the lord to appear here, and he came as Amaruviappan, the cowherd with cow and calf. Tradition also holds that the Kaveri did penance here to be freed from the curse of the sage Agastya.",
-    "festivals": "The Brahmotsavam is held in the Tamil month of Vaikasi; Andal's festival is kept in Aadi, and Thirumangai Alvar's festival and the festival of lamps in Karthigai. In Thai the lord rides out on Garuda, and Vaikunta Ekadashi is kept with devotion.",
-    "experience": "A village temple of unhurried calm, Therazhundur rewards the pilgrim who comes to see Amaruviappan with cow and calf, and Garuda standing within the sanctum. Visitors who love Tamil literature will want to remember Kambar here; the Darshana Pushkarini before the gate is a quiet place to sit."
+    "history": "तेरळुंदूर, म्हणजे स्तोत्रांतील तिरुवळुंदूर, हा १०८ दिव्य देसमांपैकी एक आणि चोळ नाडूतील क्षेत्रांपैकी एक आहे; मयिलाडुतुरै प्रदेशातील कुतालमजवळचे हे एक गाव आहे. तिरुमंगै आळवारांनी पेरिय तिरुमोळीमध्ये येथील प्रभूंचे विस्ताराने गायन केले — परंपरेनुसार येथे त्यांच्या पंचेचाळीस पदांची गणना होते, जी त्यांनी कोणत्याही क्षेत्राला दिलेल्या पदांपैकी सर्वाधिक आहेत. परंपरा सांगते की हे मंदिर प्रथम आद्य चोळ राजा करिकाल याने उभारले, आणि नंतरच्या शतकांनी त्यात भर घातली. तमिळ रामायणाचे कवी कंबर यांचे जन्मगाव म्हणूनही हे गाव आदरणीय आहे; त्यामुळे तेरळुंदूर तमिळ भक्तीच्या आणि तमिळ साहित्याच्या स्मृतीत सारखेच स्थान राखून आहे.",
+    "architecture": "द्रविड शैलीत बांधलेल्या या मंदिरात गरुड विमानाखाली पूर्वाभिमुख उभे असलेले देवादिराजन विराजमान आहेत; विशेष म्हणजे गर्भगृहात गरुड प्रभूंच्या शेजारी उभा आहे. उत्सवमूर्ती अमरुवियप्पन आपल्या देवींसह आणि बाजूला गाय-वासरासह उभी असते, आणि देवी सेंगमलवल्ली यांचे स्वतंत्र मंदिर आहे. दर्शन पुष्करिणी मंदिरासमोर, मुख्य प्रवेशद्वाराबाहेर आहे.",
+    "legends": "स्थलपुराण सांगते की कृष्णाची परीक्षा घेण्यासाठी ब्रह्मदेवाने गोपग्रामातील गायी लपवून ठेवल्या, आणि कृष्णाने सहजपणे नवे कळप निर्माण केले. लज्जित झालेल्या ब्रह्मदेवाने क्षमा मागितली आणि प्रभूंनी येथे प्रकट व्हावे अशी प्रार्थना केली; तेव्हा ते गाय-वासरासह गोपालक अमरुवियप्पन म्हणून प्रकट झाले. परंपरा असेही सांगते की अगस्त्य ऋषींच्या शापातून मुक्त होण्यासाठी कावेरीने येथे तप केले.",
+    "festivals": "तमिळ वैकासी महिन्यात ब्रह्मोत्सव साजरा होतो; आडी महिन्यात आंडाळ यांचा उत्सव, तर कार्तिगै महिन्यात तिरुमंगै आळवारांचा उत्सव आणि दीपोत्सव पाळला जातो. थाई महिन्यात प्रभू गरुडावर आरूढ होऊन बाहेर पडतात, आणि वैकुंठ एकादशी भक्तिभावाने पाळली जाते.",
+    "experience": "तेरळुंदूर हे शांत, निवांत गावातील मंदिर आहे; गाय-वासरासह अमरुवियप्पन आणि गर्भगृहात उभा असलेला गरुड पाहण्यासाठी येणाऱ्या यात्रेकरूला ते समाधान देते. तमिळ साहित्यावर प्रेम करणाऱ्या अभ्यागतांना येथे कंबर यांचे स्मरण करावेसे वाटेल; प्रवेशद्वारासमोरील दर्शन पुष्करिणी हे शांतपणे बसण्यासाठी सुंदर ठिकाण आहे."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Vaikasi Brahmotsavam and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Therazhundur lies near Kuthalam, about 10 km west of Mayiladuthurai, reachable by road; Mayiladuthurai Junction and Kuthalam are the nearest railway stations, and Tiruchirappalli the nearest airport."
+    "timings": "दररोज सकाळ आणि संध्याकाळ दर्शनाच्या सत्रांसह उघडे असते आणि दुपारी बंद असते; वैकासी ब्रह्मोत्सव आणि वैकुंठ एकादशीला सर्वाधिक गर्दी असते. भेटीपूर्वी सध्याच्या वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तेरळुंदूर कुतालमजवळ, मयिलाडुतुरैच्या सुमारे १० किमी पश्चिमेला आहे आणि रस्त्याने पोहोचता येते; मयिलाडुतुरै जंक्शन आणि कुतालम ही जवळची रेल्वे स्थानके आहेत, तर तिरुचिरापल्ली हे जवळचे विमानतळ आहे."
   }
 }

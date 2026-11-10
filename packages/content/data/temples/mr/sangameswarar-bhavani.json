@@ -1,30 +1,37 @@
 {
   "id": "sangameswarar-bhavani",
   "locale": "mr",
+  "name": "संगमेश्वर मंदिर, भवानी",
   "nativeName": "சங்கமேஸ்வரர் கோயில்",
+  "deity": "शिव संगमेश्वर रूपात, देवी वेदनायकी (वेदांबिकै) यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Bhavani",
-    "state": "Tamil Nadu",
+    "city": "भवानी",
+    "state": "तमिळनाडू",
     "lat": 11.447,
     "lng": 77.684
   },
+  "period": "नदीसंगमावरील कोंगू प्रदेशातील प्राचीन शैव मंदिर, तेवारममध्ये गायलेले (इ.स.चे ७ वे शतक); मध्ययुगीन आणि नंतरची भर",
   "century": 7,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (कोंगू, विजयनगर आणि नंतरचे)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "संगमेश्वर हे भवानी येथील कूडुतुरै संगमाचे शिवमंदिर आहे, तेवारममधील तिरुनाणा, जेथे कावेरी आणि भवानी यांना एक गुप्त तिसरी धारा येऊन मिळते — दक्षिण त्रिवेणी — आणि जेथे संगमाच्या स्वामीसाठी संबंदरांचे स्तोत्र गायले गेले.",
   "sections": {
-    "history": "In the western Kongu country, the Bhavani river runs into the Kaveri at a place known as Kooduthurai, the meeting-ford. The Tevaram hymns call the town Thirunana, and the verses of the child-saint Sambandar make the temple a Paadal Petra Sthalam; centuries later Arunagirinathar also praised it in his Tiruppugazh. Tradition and inscriptions show the shrine tended by successive rulers of the region, and a local account credits a Vijayanagara-era chieftain with raising its compound wall. Local memory also holds a colonial-era tale: a British collector is said to have offered a gold plate to the goddess in 1804, though the account is not firmly documented. What is certain is the long, unbroken worship at a spot that pilgrims have gathered at since the age of the hymns.",
-    "architecture": "The temple stands beside the river at the confluence, a walled Dravidian complex whose compound wall is attributed locally to a Vijayanagara-era chieftain. The sanctum of Sangameswarar holds the self-manifested linga, and the goddess Vedanayaki is honoured in her own shrine. Within the enclosure there is also a separate shrine of Vishnu with his consort Soundaravalli, so that Shaiva and Vaishnava devotion share one sacred precinct. Worship is offered in six services through the day. The meeting of the waters beside the walls is the temple's great setting, and the river bank next to it is where devotees go down to bathe.",
-    "legends": "The sthala purana tells of Kubera, lord of wealth, who came here on a pilgrimage among Shiva's shrines. At the confluence he saw natural enemies, tiger and deer, cow, elephant and snake, drinking side by side without fear, and a heavenly voice bade him worship Shiva in that place. In another telling, when Kubera tried to lift the linga a jet of water burst forth and flowed as a hidden river, the Amudha, to join the Bhavani and the Kaveri. This is the third stream of the Triveni, called Agaya Gangai in some accounts and the Saraswati in others. Sages such as Vishvamitra and Parasara are also remembered as worshippers, and a folk tradition speaks of a secret passage linking this shrine to Chidambaram.",
-    "festivals": "The annual Brahmotsavam is held in the Tamil month of Chithirai (April to May), when the deities are taken out in procession. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Because the river runs from north to south at this point, the confluence is held especially holy for rites in memory of ancestors, and new-moon days draw many families to its bank. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Begin at the water, where the rivers meet, and let the stillness of the confluence set the pace of your visit. Then enter the temple and come before Sangameswarar, before turning to the goddess Vedanayaki in her own shrine, and pause at the shrine of Vishnu, a rare companionship of the two traditions. Many pilgrims come to offer prayers for their departed, and the place holds the quiet seriousness of such rites. The town is busy, yet by the river and within the walls there is a sense of an old and sheltering sanctuary."
+    "history": "पश्चिम कोंगू प्रदेशात भवानी नदी कूडुतुरै, म्हणजे भेटीचा उथळ प्रवाह, या ठिकाणी कावेरीला मिळते. तेवारम स्तोत्रे या नगराला तिरुनाणा म्हणतात, आणि बालसंत संबंदरांच्या पदांमुळे हे मंदिर पाडल पेट्र स्थळम् ठरते; शतकांनंतर अरुणगिरिनाथरांनीही त्यांच्या तिरुप्पुगळ्मध्ये त्याची स्तुती केली. परंपरा आणि शिलालेख दाखवतात की या प्रदेशाच्या क्रमाने आलेल्या शासकांनी मंदिराची निगा राखली, आणि एका स्थानिक वृत्तांतानुसार विजयनगर काळातील एका सरदाराने त्याची तटभिंत उभारली. स्थानिक स्मृतीत वसाहतकालीन एक कथाही आहे: एका ब्रिटिश कलेक्टरने १८०४ मध्ये देवीला सोन्याचे ताट अर्पण केले असे सांगितले जाते, तरी हा वृत्तांत ठामपणे नोंदवलेला नाही. जे निश्चित आहे ते म्हणजे स्तोत्रांच्या काळापासून यात्रेकरू जेथे जमत आले आहेत त्या स्थानावर दीर्घ, अखंड पूजा चालू आहे.",
+    "architecture": "मंदिर संगमावर नदीकाठी उभे आहे, तटबंदी असलेले द्रविड संकुल, ज्याची तटभिंत स्थानिक मतानुसार विजयनगर काळातील सरदाराची देणगी आहे. संगमेश्वराच्या गर्भगृहात स्वयंभू लिंग आहे, आणि देवी वेदनायकीचा सन्मान तिच्या स्वतंत्र मंदिरात केला जातो. आवारात विष्णूचे आणि त्याची पत्नी सौंदरवल्ली हिचे स्वतंत्र मंदिरही आहे, त्यामुळे शैव आणि वैष्णव भक्ती एकाच पवित्र परिसरात सामावलेल्या आहेत. दिवसभरात सहा सेवांमध्ये पूजा केली जाते. भिंतींशेजारी पाण्यांचा संगम हे मंदिराचे भव्य परिसर-दृश्य आहे, आणि त्याला लागूनचा नदीकाठ असा आहे जेथे भाविक स्नानासाठी उतरतात.",
+    "legends": "स्थलपुराण सांगते की संपत्तीचा स्वामी कुबेर शिवाच्या मंदिरांच्या यात्रेदरम्यान येथे आला. संगमावर त्याने नैसर्गिक शत्रू — वाघ आणि हरीण, गाय, हत्ती आणि साप — निर्भयपणे शेजारी पाणी पिताना पाहिले, आणि आकाशवाणीने त्याला त्याच ठिकाणी शिवाची पूजा करण्यास सांगितले. आणखी एका कथनात, कुबेराने लिंग उचलण्याचा प्रयत्न केला तेव्हा पाण्याची धार उसळली आणि अमृत नावाची गुप्त नदी म्हणून वाहत भवानी आणि कावेरीला जाऊन मिळाली. ही त्रिवेणीची तिसरी धारा आहे, काही वृत्तांतांत तिला आकाशगंगा म्हटले आहे आणि इतरांत सरस्वती. विश्वामित्र आणि पराशर यांसारखे ऋषीही उपासक म्हणून स्मरणात आहेत, आणि एका लोकपरंपरेनुसार या मंदिराला चिदंबरमशी जोडणारा एक गुप्त मार्ग आहे.",
+    "festivals": "वार्षिक ब्रह्मोत्सव तमिळ चित्तिरै महिन्यात (एप्रिल ते मे) साजरा होतो, जेव्हा देवतांची मिरवणूक काढली जाते. प्रत्येक शिवमंदिराप्रमाणे महाशिवरात्र आणि मासिक प्रदोष पाळले जातात. या ठिकाणी नदी उत्तरेकडून दक्षिणेकडे वाहत असल्यामुळे, पूर्वजांच्या स्मरणार्थ विधींसाठी संगम विशेष पवित्र मानला जातो, आणि अमावस्येच्या दिवशी अनेक कुटुंबे त्याच्या काठावर येतात. तारखा स्थानिक पातळीवर तपासाव्यात, कारण त्या तमिळ पंचांगानुसार असतात.",
+    "experience": "पाण्याजवळून सुरुवात करा, जेथे नद्या भेटतात, आणि संगमाच्या शांततेला आपल्या भेटीची गती ठरवू द्या. मग मंदिरात प्रवेश करून संगमेश्वरासमोर या, नंतर देवी वेदनायकीकडे तिच्या स्वतंत्र मंदिरात वळा, आणि विष्णूच्या मंदिरात थांबा — दोन परंपरांचे दुर्मिळ सहअस्तित्व. अनेक यात्रेकरू आपल्या दिवंगतांसाठी प्रार्थना करण्यास येतात, आणि अशा विधींची शांत गांभीर्यता या ठिकाणी जाणवते. शहर गजबजलेले आहे, तरीही नदीकाठी आणि भिंतींच्या आत एका प्राचीन, आश्रय देणाऱ्या पवित्र स्थानाची अनुभूती येते."
   },
   "visit": {
-    "timings": "Typically open from early morning to around midday and again from late afternoon into the evening (some listings give roughly 6 am to 12:30 pm and 4 pm to 9 pm); listings conflict, so confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Bhavani lies about 15 km from Erode, whose junction is the nearest major railway station. The temple is roughly 1 km from the Bhavani bus stand, with buses from Erode, Salem, Tiruppur and Coimbatore. Coimbatore, with the region's airport, is around 95 to 105 km away."
+    "timings": "साधारणपणे पहाटेपासून सुमारे मध्यान्हापर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले (काही यादींमध्ये सुमारे सकाळी ६ ते दुपारी १२:३० आणि दुपारी ४ ते रात्री ९ असे दिलेले आहे); यादींमध्ये विसंगती आहे, म्हणून विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-विजार, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे प्रवेशद्वारावरील स्टँडजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा मार्ग आणि अंगणांमध्ये छायाचित्रणास सामान्यतः परवानगी आहे, परंतु तमिळनाडूतील मंदिर नियमांनुसार आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "भवानी इरोडपासून सुमारे १५ किमी आहे, ज्याचे जंक्शन हे जवळचे मोठे रेल्वे स्थानक आहे. मंदिर भवानी बस स्थानकापासून सुमारे १ किमी आहे, इरोड, सेलम, तिरुप्पूर आणि कोईम्बतूर येथून बस उपलब्ध आहेत. प्रदेशातील विमानतळ असलेले कोईम्बतूर सुमारे ९५ ते १०५ किमी दूर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sangameswarar-bhavani.jpg",

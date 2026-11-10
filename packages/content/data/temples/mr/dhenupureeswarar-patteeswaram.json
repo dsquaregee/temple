@@ -1,29 +1,36 @@
 {
   "id": "dhenupureeswarar-patteeswaram",
   "locale": "mr",
+  "name": "धेनुपुरीश्वर मंदिर, पट्टीश्वरम",
   "nativeName": "தேனுபுரீஸ்வரர் கோயில்",
+  "deity": "धेनुपुरीश्वर रूपातील शिव, देवी ज्ञानांबिकेसह",
+  "tradition": "शैव धर्म",
   "location": {
-    "city": "Patteeswaram",
-    "state": "Tamil Nadu",
+    "city": "पट्टीश्वरम",
+    "state": "तमिळनाडू",
     "lat": 10.9436,
     "lng": 79.3348
   },
+  "period": "कुंभकोणम परिसरातील प्राचीन शैव देवस्थान, तेवारममध्ये गायलेले (सातवे शतक), चोळ आणि नंतरच्या बांधकामासह",
   "century": 7,
+  "dynasty": "चोळ आणि नंतरचे तमिळ आश्रयदाते",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमजवळील पट्टीश्वरम येथे शिव धेनुपुरीश्वर आहे; कामधेनूचे वासरू पट्टी याने येथे पूजा केली आणि त्यावरून गावाला नाव मिळाले; येथील भव्य उभ्या दुर्गेच्या मंदिरासाठीही हे मंदिर प्रसिद्ध आहे.",
   "sections": {
-    "history": "Patteeswaram is an old Shaiva village in the fertile Kaveri delta south-west of Kumbakonam, and its temple is a Paadal Petra Sthalam praised in the hymns of Thirugnana Sambandar. The town takes its name from Patti, the calf of the divine cow Kamadhenu, whose worship of the Lord here is remembered in the sthala purana. Enlarged in stone under the Cholas and their successors, the temple grew into a substantial complex with a tall gopuram and spacious courtyards. It is counted among the temples associated with the Kumbakonam Mahamaham cluster and has remained a living centre of Shiva and Devi worship through the centuries.",
-    "architecture": "The temple is entered through a towering gopuram and spreads across broad prakara courtyards in the Dravidian manner. The sanctum houses the Shiva linga of Dhenupureeswarar, with the goddess Gnanambikai in her own shrine. The temple is above all celebrated for its shrine of Durga, where the goddess stands in a graceful eight-armed form, flanked by guardians, and is worshipped as one of the most beautiful Durga images of the delta. Pillared halls, a temple tank, and sculpted mandapams complete the complex.",
-    "legends": "The sthala purana tells that Kamadhenu, the celestial wish-granting cow, had daughters, and that her calf Patti came to this place to worship Shiva. Fashioning a linga of sand on the bank, Patti bathed it in her own milk, and the Lord accepted that devotion and stayed in the linga; from Patti the village became Patteeswaram and the Lord Patteeswarar, also Dhenupureeswarar, the Lord of the cow's town. Tradition also holds that Parvati did penance here, served by Patti, before her union with Shiva.",
-    "festivals": "Maha Shivaratri, the Tamil month festivals, and the Durga-centred observances of the Navaratri season are kept with special fervour, given the fame of the standing Durga shrine. The monthly Pradosham and the car festival draw devotees from across the delta, and the Kumbakonam Mahamaham cycle is observed. Festival dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Pilgrims come to Patteeswaram as much for the goddess as for the Lord: many enter first to the celebrated standing Durga, then worship Dhenupureeswarar and Gnanambikai in the main shrines. The temple keeps the unhurried air of a delta village sanctuary, close to Kumbakonam and Swamimalai, and is often included in a day of temple visits around the Mahamaham town."
+    "history": "पट्टीश्वरम हे कुंभकोणमच्या नैर्ऋत्येकडील सुपीक कावेरी त्रिभुज-प्रदेशातील जुने शैव गाव आहे, आणि तेथील मंदिर तिरुज्ञान संबंधर यांच्या स्तोत्रांत गौरविलेले पाडल पेट्र स्थळ आहे. दिव्य गाय कामधेनूचे वासरू पट्टी हिच्या नावावरून गावाचे नाव पडले; तिने येथे केलेल्या प्रभुपूजेचे स्मरण स्थलपुराणात जपले आहे. चोळ आणि त्यांच्या उत्तराधिकाऱ्यांच्या काळात दगडात विस्तारलेले हे मंदिर उंच गोपुर आणि प्रशस्त प्रांगणांसह मोठ्या संकुलात वाढले. कुंभकोणमच्या महामहम उत्सवाशी संबंधित मंदिरांमध्ये त्याची गणना होते, आणि शतकानुशतके ते शिव आणि देवी पूजेचे जिवंत केंद्र राहिले आहे.",
+    "architecture": "उंच गोपुरातून मंदिरात प्रवेश होतो आणि द्रविड शैलीत ते विस्तीर्ण प्राकार-प्रांगणांमध्ये पसरले आहे. गर्भगृहात धेनुपुरीश्वराचे शिवलिंग असून देवी ज्ञानांबिका स्वतंत्र मंदिरात विराजमान आहे. दुर्गेच्या मंदिरासाठी हे मंदिर सर्वाधिक प्रसिद्ध आहे; तेथे देवी रक्षकांनी वेढलेल्या सुंदर अष्टभुजा रूपात उभी आहे, आणि त्रिभुज-प्रदेशातील सर्वांत सुंदर दुर्गा-मूर्तींपैकी एक म्हणून तिची पूजा होते. स्तंभयुक्त सभामंडप, मंदिर-तलाव आणि शिल्पांकित मंडप संकुलाला पूर्णत्व देतात.",
+    "legends": "स्थलपुराण सांगते की स्वर्गीय इच्छापूर्ती गाय कामधेनूला कन्या होत्या, आणि तिचे वासरू पट्टी शिवपूजेसाठी या स्थळी आले. काठावरच्या वाळूचे लिंग बनवून पट्टीने ते स्वतःच्या दुधाने न्हाऊ घातले; प्रभूने ती भक्ती स्वीकारली आणि तो लिंगात स्थिरावला; पट्टीवरून गाव पट्टीश्वरम आणि प्रभू पट्टीश्वरर, तसेच धेनुपुरीश्वर, म्हणजे गायीच्या नगराचा प्रभू, झाला. परंपरा असेही मानते की पार्वतीने शिवाशी मीलन होण्यापूर्वी येथे तपश्चर्या केली, आणि पट्टीने तिची सेवा केली.",
+    "festivals": "महाशिवरात्र, तमिळ महिन्यांचे उत्सव आणि नवरात्रीच्या काळातील दुर्गा-केंद्री उत्सव विशेष उत्साहाने साजरे होतात, कारण उभ्या दुर्गेचे मंदिर प्रसिद्ध आहे. मासिक प्रदोषम आणि रथोत्सवाला त्रिभुज-प्रदेशातून भाविक येतात, आणि कुंभकोणमच्या महामहम चक्राचाही उत्सव पाळला जातो. उत्सवांच्या तारखा तमिळ पंचांगानुसार ठरतात, म्हणून स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "पट्टीश्वरमला भाविक प्रभूसाठी जितके येतात तितकेच देवीसाठी: अनेक जण आधी प्रसिद्ध उभ्या दुर्गेचे दर्शन घेतात, मग मुख्य मंदिरांत धेनुपुरीश्वर आणि ज्ञानांबिकेची पूजा करतात. कुंभकोणम आणि स्वामिमलईजवळील हे मंदिर त्रिभुज-प्रदेशातील गावच्या देवस्थानाची निवांत शांतता जपते, आणि महामहम नगराभोवतीच्या दिवसभराच्या मंदिर-भेटींत त्याचा बहुधा समावेश होतो."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Patteeswaram lies about 9 km south-west of Kumbakonam and about 3 km south-east of Swamimalai in Thanjavur district. Kumbakonam is the nearest major railway station; Tiruchirappalli airport is about 90 km away. Local buses and autos run from Kumbakonam."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि संध्याकाळच्या सुरुवातीपासून रात्रीपर्यंत खुले; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराशी काढावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत सामान्यतः छायाचित्रणास परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "पट्टीश्वरम तंजावूर जिल्ह्यात कुंभकोणमच्या नैर्ऋत्येस सुमारे ९ किमी आणि स्वामिमलईच्या आग्नेयेस सुमारे ३ किमी अंतरावर आहे. कुंभकोणम हे सर्वांत जवळचे मोठे रेल्वेस्थानक आहे; तिरुचिरापल्ली विमानतळ सुमारे ९० किमी दूर आहे. कुंभकोणमहून स्थानिक बस आणि रिक्षा धावतात."
   }
 }

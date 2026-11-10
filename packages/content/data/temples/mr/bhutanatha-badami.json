@@ -1,30 +1,37 @@
 {
   "id": "bhutanatha-badami",
   "locale": "mr",
+  "name": "भूतनाथ मंदिरे, बदामी",
   "nativeName": "ಭೂತನಾಥ ದೇವಾಲಯಗಳು, ಬಾದಾಮಿ",
+  "deity": "शिव भूतनाथ रूपात, भूतमात्रांचा स्वामी",
+  "tradition": "शैव",
   "location": {
-    "city": "Badami",
-    "state": "Karnataka",
+    "city": "बदामी",
+    "state": "कर्नाटक",
     "lat": 15.9208,
     "lng": 75.6878
   },
+  "period": "आद्य चालुक्य, ७वे–८वे शतक, १२व्या शतकापर्यंतच्या नंतरच्या भरांसह",
   "century": 7,
+  "dynasty": "बदामी चालुक्य, नंतर कल्याणी चालुक्य भरांसह",
+  "style": "आद्य चालुक्य द्रविड, नंतरच्या नागर गटासह",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "बदामीतील अगस्त्य तलावाच्या पूर्व किनाऱ्यावर भूतनाथ मंदिरे संथ पाण्यात आपले प्रतिबिंब पाहतात — सातव्या शतकात सुरू झालेले व नंतरच्या राजवंशाने पूर्ण केलेले एक चालुक्यकालीन शिवमंदिर.",
   "sections": {
-    "history": "On the east bank of Agastya Lake, below the red sandstone cliffs of Badami, stands the Bhutanatha group, the town’s great lakeside shrine to Shiva as Bhutanatha, lord of beings. The main temple belongs to the seventh and eighth centuries: the inner shrine and hall are the work of the Badami Chalukyas, while the outer hall facing the water was completed in the eleventh century under the Kalyani Chalukyas, so the building records a conversation across centuries. A second cluster, the North Bhutanatha or Mallikarjuna group on the opposite bank, is later still, of the eleventh and twelfth centuries, and in the northern style. Together they make one of the most picturesque corners of Chalukyan Badami.",
-    "architecture": "The main Bhutanatha temple is Dravida in form, its sanctum crowned by a three-tiered tower, with carved heads of kinnaras and gandharvas, the celestial musicians, along its walls. An inner hall leads to the shrine, and the later outer hall opens towards the lake, so the whole building seems to step down to the water. Stone ghats wrap the shore of Agastya Lake in flights of steps, and across the water the North Bhutanatha group rises in the northern style, its curving towers a contrast to the Dravida tower on the eastern bank.",
-    "legends": "Agastya Lake takes its name from the sage Agastya, and tradition links him with Badami, anciently called Vatapi, through the tale of the demon brothers Vatapi and Ilvala, who tricked sages into eating Vatapi in the guise of a meal. Agastya is said to have digested the demon and ended the trick for good. Local belief holds that the lake’s waters carry healing power, and the shrine of Bhutanatha, lord of spirits and beings, stands at its very edge, where pilgrims have long come to the shore.",
-    "festivals": "As in Shiva temples across Karnataka, Maha Shivaratri is the most important observance at Bhutanatha, and the lake edge is lively on festival days. Local fairs and the regional Chalukya heritage festivals of music and dance also draw people to the water. Confirm dates locally.",
-    "experience": "Walk down to Agastya Lake at the quiet ends of the day and the Bhutanatha temples sit golden above their own reflection, the cliffs rising behind. Spend time with the carved faces of kinnaras and gandharvas on the walls, step through the hall to the sanctum, then follow the ghats round the water. The shore is also the town’s washing place and meeting place, so the scene is lived-in as well as ancient."
+    "history": "अगस्त्य तलावाच्या पूर्व काठावर, बदामीच्या तांबूस वालुकाश्म कड्यांखाली भूतनाथ गट उभा आहे — शहराचे शिवाला भूतनाथ, भूतमात्रांचा स्वामी, म्हणून समर्पित असे मोठे तलावकाठी मंदिर. मुख्य मंदिर सातव्या व आठव्या शतकातील आहे: आतील गाभारा व मंडप बदामी चालुक्यांचे काम आहे, तर पाण्याकडे तोंड करणारा बाहेरचा मंडप अकराव्या शतकात कल्याणी चालुक्यांच्या काळात पूर्ण झाला, त्यामुळे ही वास्तू शतकांमधील संवाद नोंदवते. विरुद्ध काठावरील दुसरा समूह, उत्तर भूतनाथ किंवा मल्लिकार्जुन गट, अधिक नंतरचा — अकराव्या व बाराव्या शतकातील, उत्तरी शैलीतील — आहे. दोघे मिळून चालुक्यकालीन बदामीचा एक अत्यंत रमणीय कोपरा बनतात.",
+    "architecture": "मुख्य भूतनाथ मंदिर द्रविड रचनेचे असून त्याचे गर्भगृह तीन मजली शिखराने शोभते, आणि भिंतींवर किन्नर व गंधर्व या स्वर्गीय गायकांची कोरीव मस्तके आहेत. एक आतील मंडप गाभाऱ्याकडे नेतो, आणि नंतरचा बाहेरचा मंडप तलावाकडे उघडतो, त्यामुळे संपूर्ण वास्तू पाण्याकडे उतरत जाताना दिसते. अगस्त्य तलावाचा किनारा दगडी घाटांनी पायऱ्यांच्या रांगांत वेढलेला आहे, आणि पाण्यापलीकडे उत्तर भूतनाथ गट उत्तरी शैलीत उभा आहे, ज्याची वक्र शिखरे पूर्व काठावरील द्रविड शिखराला विरोधाभास देतात.",
+    "legends": "अगस्त्य तलावाला अगस्त्य ऋषींचे नाव आहे, आणि परंपरा त्यांना प्राचीन काळी वातापी म्हणून ओळखल्या जाणाऱ्या बदामीशी, वातापी व इल्वल या दैत्यबंधूंच्या कथेद्वारे जोडते, ज्यांनी ऋषींना जेवणाच्या रूपात वातापीला खाऊ घालून फसवले. अगस्त्यांनी तो दैत्य पचवून ही फसवणूक कायमची संपवली असे म्हणतात. स्थानिक समजुतीनुसार तलावाच्या पाण्यात रोगहरण शक्ती आहे, आणि भूत व भूतमात्रांचा स्वामी भूतनाथाचे मंदिर त्याच्या अगदी काठावर उभे आहे, जेथे भक्त फार पूर्वीपासून या तीरी येत आले आहेत.",
+    "festivals": "कर्नाटकभरील शिवमंदिरांप्रमाणेच महाशिवरात्री हे भूतनाथ येथील सर्वांत महत्त्वाचे पर्व आहे, आणि उत्सवदिवशी तलावकाठ चैतन्याने भरतो. स्थानिक यात्रा व संगीत-नृत्याचे प्रादेशिक चालुक्य वारसा महोत्सवही लोकांना पाण्याकडे आकर्षित करतात. तारखा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "experience": "दिवसाच्या शांत वेळी अगस्त्य तलावाकडे उतरा आणि भूतनाथ मंदिरे आपल्याच प्रतिबिंबावर सोनेरी विराजतात, मागे कडे उभे असतात. भिंतींवरील किन्नर व गंधर्वांच्या कोरीव मुखांसोबत वेळ घालवा, मंडपातून गाभाऱ्यात जा, मग घाटांनी पाण्याभोवती फिरा. हा किनारा शहराचे धुण्याचे व भेटण्याचेही ठिकाण आहे, म्हणून हे दृश्य प्राचीन असण्यासोबतच जिवंतही आहे."
   },
   "visit": {
-    "timings": "The lakeside temples are open to visitors during the day; the site is outdoors and the shrine keeps its own worship hours. Confirm timings and any ticket requirement locally.",
-    "dressCode": "Modest dress is appropriate, and footwear is left outside the shrine; steps and ghats can be slippery near the water.",
-    "photography": "Photography is generally welcome around the lake and the temple exterior; ask before photographing inside the shrine or worshippers.",
-    "gettingThere": "Badami is in Bagalkot district; the Bhutanatha temples stand on the eastern shore of Agastya Lake, a short walk or auto ride from the town centre. Badami has the nearest railway station, and the nearest airport is Hubballi."
+    "timings": "तलावकाठची मंदिरे दिवसभर भेट देणाऱ्यांसाठी उघडी असतात; ही जागा खुल्या आकाशाखाली असून गाभारा आपल्या स्वतःच्या पूजावेळा पाळतो. वेळा व तिकिटाची गरज स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पोशाख योग्य आहे, आणि गाभाऱ्याबाहेर पादत्राणे ठेवावीत; पाण्याजवळ पायऱ्या व घाट निसरडे असू शकतात.",
+    "photography": "तलाव व मंदिराच्या बाह्य भागाभोवती छायाचित्रणास सामान्यतः मुभा असते; गाभाऱ्यात किंवा भक्तांचे छायाचित्र घेण्यापूर्वी विचारावे.",
+    "gettingThere": "बदामी हे बागलकोट जिल्ह्यात आहे; भूतनाथ मंदिरे अगस्त्य तलावाच्या पूर्व किनाऱ्यावर, शहराच्या मध्यभागापासून थोड्या चालीवर किंवा ऑटोच्या अंतरावर आहेत. बदामीला जवळचे रेल्वेस्थानक आहे, आणि जवळचे विमानतळ हुबळी आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/bhutanatha-badami.jpg",

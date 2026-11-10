@@ -1,30 +1,37 @@
 {
   "id": "kumararama-samalkota",
   "locale": "mr",
+  "name": "कुमाराराम (कुमार भीमेश्वर मंदिर)",
   "nativeName": "కుమారారామం",
+  "deity": "प्रमुख देवता कुमार भीमेश्वर स्वामी आहेत, उंच पांढऱ्या लिंगाच्या रूपात पूजला जाणारा शिवाचा एक रूप. येथील त्यांची पत्नी बाला त्रिपुरसुंदरी म्हणून पूजली जाते.",
+  "tradition": "शैव",
   "location": {
-    "city": "Samalkota, Kakinada district",
-    "state": "Andhra Pradesh",
+    "city": "सामलकोट, काकिनाडा जिल्हा",
+    "state": "आंध्र प्रदेश",
     "lat": 17.0533,
     "lng": 82.1706
   },
+  "period": "दहाव्या शतकाचा प्रारंभ",
   "century": 10,
+  "dynasty": "पूर्व चालुक्य",
+  "style": "पूर्व चालुक्य",
   "unesco": false,
   "circuits": [
     "pancharama-kshetras"
   ],
+  "summary": "सामलकोट येथील कुमाराराम हे किनारी आंध्रातील पाच पंचाराम क्षेत्रांपैकी एक असून शिवाला कुमार भीमेश्वर रूपात समर्पित आहे. असामान्यपणे उंच लिंग असलेले दोन मजली गर्भगृह आणि उंच गोपुरासह विस्तीर्ण तटबंदीयुक्त संकुल ही याची वैशिष्ट्ये आहेत. हे स्थळ भीमाराम म्हणूनही ओळखले जाते.",
   "sections": {
-    "history": "Kumararama is traditionally credited to the Eastern Chalukya king Chalukya Bhima I, who reigned in the early tenth century, and the temple carries his name in the deity's title. The Eastern Chalukyas ruled the deltaic country between the Godavari and Krishna rivers from Vengi, and their patronage shaped several important shrines of the region. Inscriptions associated with the complex record grants and later additions by successive rulers and patrons. Over the centuries the temple was maintained and repaired, with a tall enclosing wall and gateway giving it the character of a fortified sacred precinct. As one of the five Pancharama shrines, it has long drawn pilgrims travelling the wider circuit across the Andhra deltas.",
-    "architecture": "The temple is built to a plan unusual among the Pancharama shrines: the sanctum rises through two storeys, and the white lingam is so tall that its upper portion is venerated from a raised gallery on the second level. The main shrine stands within a spacious walled enclosure entered through a tall, tiered gopuram. Stone pillars, some carrying carved detail, support the mandapas leading toward the sanctum, and the fabric reflects Eastern Chalukya practice with later accretions. A temple tank is associated with the site, in keeping with the region's sacred landscape. The scale of the enclosure and the height of the lingam together give the complex its distinctive presence.",
-    "legends": "The Pancharama legend traces the five shrines to a single great lingam once worshipped by the demon Tarakasura, which broke into pieces during his defeat. Each fragment is said to have come to rest at one of the five sites and to have been established there by a different divine figure. At Samalkota the installation and worship are attributed to Kumara Swamy, the youthful war-god also known as Kartikeya or Subrahmanya, from whom the shrine takes the name Kumararama. Because the fragments retained the power of continued growth, the lingam here is remembered as rising ever taller, an explanation devotees offer for its striking height and the two-storeyed sanctum built to honour it.",
-    "festivals": "Maha Shivaratri is the foremost observance at Kumararama, drawing large gatherings for night-long worship and the celebration of Kalyanotsavam, the ceremonial marriage of the deities. The month of Karthika, sacred to Shiva, brings sustained devotion with lamp-lighting and special abhishekams. Devi Navaratri is observed for the goddess Bala Tripura Sundari with daily rituals and adornment. Through these seasons the walled complex fills with pilgrims of the Pancharama circuit, and the temple keeps to the rhythms of the traditional festival calendar. Visitors planning to attend a particular festival should confirm dates and timings with the temple beforehand, as these follow the lunar calendar.",
-    "experience": "A visit begins at the tall gopuram, which opens from the town into the wide, quiet enclosure. Within, the two-storeyed sanctum invites an unusual sequence of worship: devotees offer prayers at ground level and then ascend to view and venerate the upper part of the tall lingam. The scale of the walled precinct lends a measured, unhurried atmosphere, and the temple tank adds to the sense of a self-contained sacred space. Mornings and evenings, framed by ritual and lamp-light, are the most atmospheric times to be present. For those following the Pancharama route, Kumararama offers both a distinctive form of darshan and a moment of calm within a historic setting."
+    "history": "कुमाराराम परंपरेने दहाव्या शतकाच्या प्रारंभी राज्य करणाऱ्या पूर्व चालुक्य राजा चालुक्य भीम पहिला याच्याकडे श्रेय दिले जाते, आणि देवतेच्या बिरुदात मंदिर त्याचे नाव धारण करते. पूर्व चालुक्य वेंगी येथून गोदावरी व कृष्णा नद्यांमधील त्रिभुज प्रदेशावर राज्य करत होते, आणि त्यांच्या आश्रयाने प्रदेशातील अनेक महत्त्वाची मंदिरे घडली. संकुलाशी संबंधित शिलालेखांत क्रमाने आलेल्या शासकांनी व आश्रयदात्यांनी दिलेली दाने आणि नंतरची भर नोंदलेली आहे. शतकानुशतके मंदिराची देखभाल व दुरुस्ती होत राहिली; उंच वेढणारी भिंत व प्रवेशद्वार यांमुळे त्याला तटबंदीयुक्त पवित्र परिसराचे स्वरूप मिळाले. पाच पंचाराम मंदिरांपैकी एक म्हणून आंध्रातील त्रिभुज प्रदेशांतील विस्तृत यात्रामार्गावरील यात्रेकरूंना ते फार पूर्वीपासून आकर्षित करत आले आहे.",
+    "architecture": "मंदिर पंचाराम मंदिरांमध्ये असामान्य अशा आराखड्यानुसार बांधलेले आहे : गर्भगृह दोन मजल्यांतून उंच जाते, आणि पांढरे लिंग इतके उंच आहे की त्याच्या वरच्या भागाची पूजा दुसऱ्या मजल्यावरील उंच सज्जातून केली जाते. मुख्य मंदिर प्रशस्त तटबंदीयुक्त प्रांगणात असून उंच, मजलेदार गोपुरातून तेथे प्रवेश होतो. काही ठिकाणी कोरीव तपशील असलेले दगडी स्तंभ गर्भगृहाकडे नेणाऱ्या मंडपांना आधार देतात, आणि बांधकाम नंतरच्या भरीसह पूर्व चालुक्य परंपरेचे प्रतिबिंब दाखवते. प्रदेशाच्या पवित्र भूदृश्याला साजेसे मंदिराचे तीर्थ या स्थळाशी निगडित आहे. प्रांगणाचा विस्तार आणि लिंगाची उंची मिळून या संकुलाला त्याची वेगळी छाप देतात.",
+    "legends": "पंचाराम कथा पाच मंदिरांचे मूळ तारकासुराने पूजलेल्या एका महान लिंगात शोधते, जे त्याच्या पराभवाच्या वेळी तुकड्या-तुकड्यांत फुटले. प्रत्येक तुकडा पाच स्थळांपैकी एका ठिकाणी विसावला आणि वेगवेगळ्या दिव्य व्यक्तींनी तेथे त्याची स्थापना केली असे सांगितले जाते. सामलकोट येथे स्थापना व पूजा कार्तिकेय किंवा सुब्रह्मण्य म्हणूनही ओळखल्या जाणाऱ्या तरुण युद्धदेव कुमार स्वामींकडे श्रेय दिली जाते, ज्यांच्यावरून मंदिराला कुमाराराम हे नाव मिळाले. तुकड्यांनी वाढत राहण्याचे सामर्थ्य राखल्यामुळे येथील लिंग सतत उंच होत गेले असे स्मरले जाते — त्याच्या लक्षवेधी उंचीचे आणि त्याच्या सन्मानार्थ बांधलेल्या दोन मजली गर्भगृहाचे हे भक्तांनी दिलेले स्पष्टीकरण आहे.",
+    "festivals": "महाशिवरात्र हा कुमाराराम येथील प्रमुख उत्सव असून रात्रभर चालणाऱ्या पूजेसाठी आणि देवतांच्या औपचारिक विवाहाच्या कल्याणोत्सवासाठी मोठी गर्दी होते. शिवाला पवित्र असलेला कार्तिक महिना दिवे लावणे आणि विशेष अभिषेकांसह सातत्यपूर्ण भक्ती आणतो. देवी बाला त्रिपुरसुंदरीसाठी देवी नवरात्र दैनंदिन विधी व अलंकारांसह साजरे होते. या ऋतूंमध्ये तटबंदीयुक्त संकुल पंचाराम यात्रामार्गावरील यात्रेकरूंनी भरून जाते, आणि मंदिर पारंपरिक उत्सव-पंचांगाच्या लयीचे पालन करते. विशिष्ट उत्सवाला उपस्थित राहू इच्छिणाऱ्यांनी तारखा व वेळा आधी मंदिराकडे खात्री करून घ्याव्यात, कारण त्या चांद्र पंचांगानुसार असतात.",
+    "experience": "भेटीची सुरुवात उंच गोपुरापासून होते, जे शहरातून विस्तीर्ण, शांत प्रांगणात उघडते. आत, दोन मजली गर्भगृह पूजेचा एक असामान्य क्रम सुचवते : भक्त तळमजल्यावर प्रार्थना करतात आणि मग वर चढून उंच लिंगाचा वरचा भाग पाहतात व वंदन करतात. तटबंदीयुक्त परिसराचा विस्तार संथ, अधीर नसलेले वातावरण देतो, आणि मंदिर-तीर्थ स्वयंपूर्ण पवित्र जागेची जाणीव वाढवते. विधी आणि दिव्यांच्या प्रकाशाने वेढलेल्या सकाळ आणि संध्याकाळ उपस्थित राहण्यासाठी सर्वांत वातावरणपूर्ण वेळा आहेत. पंचाराम मार्गाने जाणाऱ्यांसाठी कुमाराराम दर्शनाचे एक वेगळे रूप आणि ऐतिहासिक वातावरणातील शांततेचा क्षण देते."
   },
   "visit": {
-    "timings": "The temple generally opens in the early morning and again in the evening, with a midday closure, following the customary pattern for the region. Exact hours vary by season and festival, so verify locally before travelling.",
-    "dressCode": "Modest, traditional attire is expected. Visitors typically remove footwear before entering the inner precinct; covering the shoulders and legs is advisable.",
-    "photography": "Photography rules vary and are often restricted within the sanctum. Seek permission and follow the temple staff's guidance, especially near the shrine.",
-    "gettingThere": "Samalkota is a railway junction on the Howrah–Chennai line, well connected by train. It lies close to Kakinada and Rajahmundry (Rajamahendravaram); the nearest airport is at Rajahmundry, and buses and taxis serve the town."
+    "timings": "प्रदेशाच्या नेहमीच्या रीतीप्रमाणे मंदिर सामान्यतः पहाटे आणि पुन्हा संध्याकाळी उघडते, दुपारी बंद असते. नेमक्या वेळा ऋतू आणि उत्सवानुसार बदलतात, त्यामुळे प्रवासापूर्वी स्थानिक पातळीवर खात्री करावी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे. अभ्यागत सामान्यतः आतील परिसरात प्रवेश करण्यापूर्वी पादत्राणे काढतात; खांदे व पाय झाकणे योग्य ठरते.",
+    "photography": "छायाचित्रणाचे नियम बदलतात आणि गर्भगृहात ते अनेकदा निषिद्ध असते. परवानगी घ्यावी आणि विशेषतः गर्भगृहाजवळ मंदिर कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "सामलकोट हे हावडा–चेन्नई मार्गावरील रेल्वे जंक्शन असून रेल्वेने उत्तम जोडलेले आहे. ते काकिनाडा आणि राजमहेंद्रवरम् (राजमुंद्री) जवळ आहे; जवळचे विमानतळ राजमुंद्री येथे आहे, आणि शहराला बस व टॅक्सी सेवा उपलब्ध आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kumararama-samalkota.jpg",

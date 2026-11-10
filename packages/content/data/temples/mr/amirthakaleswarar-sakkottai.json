@@ -1,29 +1,36 @@
 {
   "id": "amirthakaleswarar-sakkottai",
   "locale": "mr",
+  "name": "अमृतकलशनाथर मंदिर, सक्कोट्टै",
   "nativeName": "சாக்கோட்டை அமிர்தகலசநாதர் கோயில்",
+  "deity": "अमृतकलशनाथर (अमृतकटेश्वर) रूपातील शिव, देवी अमृतवल्ली यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम्, सुंदररांनी गायिलेले",
   "location": {
-    "city": "Sakkottai, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "सक्कोट्टै, कुंभकोणमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9383,
     "lng": 79.4206
   },
+  "period": "तेवारम काळ, चोळकालीन बांधकामासह आणि नायकांच्या भरांसह",
   "century": 9,
+  "dynasty": "चोळ, नंतरच्या तंजावर नायकांसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमजवळील सक्कोट्टै येथे शिव अमृतकलशनाथर — अमृतकुंभाचे स्वामी — म्हणून पूजिले जातात, देवी अमृतवल्लीसह; हे पाडल पेट्र स्थळम् असून संत सुंदरर यांनी येथे दहा पदे गायली. परंपरा सांगते की सृष्टीचे सार येथे कलयम, म्हणजे घटात, पृथ्वीवर आले, म्हणून जुन्या गावाचे नाव कलयनल्लूर पडले; सक्कोट्टै हे नंतरचे नाव बौद्धांनी हे स्थान आपल्या ताब्यात ठेवले होते अशा काळाशी जोडले जाते. हे त्रेसष्ट शैव संतांपैकी एक सक्य नायनारांशीही जोडलेले आहे.",
   "sections": {
-    "history": "Sakkottai is an old Shaiva village about four and a half kilometres from Kumbakonam, on the Kumbakonam–Needamangalam road, revered in the Tevaram, where the saint Sundarar sang ten verses on the lord. The present stone temple was built in the Chola period, around the ninth century, with later additions by the Thanjavur Nayaks. The village's layered names — Kalayanallur from a pot of nectar, Sakkottai from a Buddhist-era past — carry its long history in their syllables.",
-    "architecture": "The temple follows the Dravidian plan, with a gopuram, prakara and the sanctum of Amirthakalasanathar, the lingam of the pot of nectar; the goddess Amirthavalli has her own shrine. Chola stonework and Nayak-period additions sit together in a compact delta temple whose scale suits its setting among the many shrines of the Kumbakonam country.",
-    "legends": "The sthala-purana tells that the amrita, the essence of creation, descended to earth here in a kalayam, a pot, giving the lord the name Amirthakalasanathar and the old village the name Kalayanallur. The later name Sakkottai is explained from Sakkiyar-kottai, a memory, mentioned in the Tevaram, of a time when the site was held by Buddhists before it returned to Shaiva worship. The temple is also tied to Sakya Nayanar, a saint who, before his conversion to Shaivism, is said to have worshipped the lord by casting a stone each day.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri and Masi Magam are its principal festivals, with Margazhi Tiruvadhirai also observed. The association with the nectar-pot gives abhishekam a special meaning here, and the proximity to Kumbakonam draws pilgrims on the wider delta circuit.",
-    "experience": "Sakkottai offers the pilgrim a quiet temple with a richly layered past — a nectar-pot legend, a Buddhist-era name, and a Nayanar's story of daily devotion. The darshan of Amirthakalasanathar, close to the great temple town of Kumbakonam, rewards those who seek out the smaller Paadal Petra shrines around it."
+    "history": "सक्कोट्टै हे कुंभकोणमपासून सुमारे साडेचार किलोमीटरवर, कुंभकोणम–नीडामंगलम रस्त्यावरील जुने शैव गाव आहे; तेवारममध्ये त्याचा आदर केला आहे, जेथे संत सुंदरर यांनी प्रभूंवर दहा पदे गायली. सध्याचे दगडी मंदिर चोळ काळात, सुमारे नवव्या शतकात, बांधले गेले, आणि पुढे तंजावर नायकांनी त्यात भर घातली. गावाची स्तरित नावे — अमृताच्या घटावरून कलयनल्लूर, बौद्धकालीन भूतकाळावरून सक्कोट्टै — आपला प्रदीर्घ इतिहास आपल्या अक्षरांत वागवतात.",
+    "architecture": "मंदिर द्रविड आराखड्याचे अनुसरण करते; त्यात गोपुर, प्राकार आणि अमृतकलशनाथराचे गर्भगृह आहे, अमृतकुंभाचे लिंग; देवी अमृतवल्ली यांचे स्वतंत्र मंदिर आहे. चोळकालीन दगडी कोरीवकाम आणि नायककालीन भर एका लहान त्रिभुज-प्रदेशीय मंदिरात एकत्र नांदतात, ज्याचा आकार कुंभकोणम प्रदेशातील अनेक मंदिरांमधील त्याच्या स्थानाला साजेसा आहे.",
+    "legends": "स्थळपुराण सांगते की अमृत, सृष्टीचे सार, येथे कलयम, म्हणजे घटात, पृथ्वीवर उतरले; त्यावरून प्रभूंना अमृतकलशनाथर हे नाव आणि जुन्या गावाला कलयनल्लूर हे नाव मिळाले. सक्कोट्टै हे नंतरचे नाव सक्कियार-कोट्टै यावरून स्पष्ट केले जाते — तेवारममध्ये उल्लेखलेली एक स्मृती, ज्यात हे स्थान बौद्धांच्या ताब्यात होते आणि मग शैव उपासनेकडे परतले. हे मंदिर सक्य नायनारांशीही जोडलेले आहे; शैव धर्मात येण्यापूर्वी ते दररोज एक दगड फेकून प्रभूंची उपासना करत असत, असे सांगितले जाते.",
+    "festivals": "मंदिरात शैव उत्सव-दिनदर्शिका पाळली जाते — महाशिवरात्री आणि मासी मखम हे त्याचे प्रमुख उत्सव आहेत, आणि मार्गळी तिरुवादिरैही पाळली जाते. अमृतकुंभाच्या संबंधामुळे येथे अभिषेकाला विशेष अर्थ प्राप्त होतो, आणि कुंभकोणमच्या सान्निध्यामुळे व्यापक त्रिभुज-प्रदेशीय यात्रामार्गावरील यात्रेकरू येथे येतात.",
+    "experience": "सक्कोट्टै यात्रेकरूला समृद्ध स्तरित भूतकाळ असलेले शांत मंदिर देते — अमृतकुंभाची कथा, बौद्धकालीन नाव, आणि एका नायनाराची दैनंदिन भक्तीची कहाणी. अमृतकलशनाथराचे दर्शन, महान मंदिर-नगरी कुंभकोणमच्या जवळ, त्याच्या आसपासची लहान पाडल पेट्र क्षेत्रे शोधणाऱ्यांना समाधान देते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sakkottai is about 4.5 km from Kumbakonam on the Kumbakonam–Needamangalam road, Thanjavur district; Kumbakonam is the nearest rail head and town, with local buses and autos to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा संध्याकाळच्या सुरुवातीपासून रात्रीपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत सामान्यतः छायाचित्रणास परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "सक्कोट्टै कुंभकोणमपासून सुमारे ४.५ किमी, कुंभकोणम–नीडामंगलम रस्त्यावर, तंजावर जिल्ह्यात आहे; कुंभकोणम हे जवळचे रेल्वे स्थानक आणि शहर आहे, तेथून गावापर्यंत स्थानिक बस आणि रिक्षा मिळतात."
   }
 }

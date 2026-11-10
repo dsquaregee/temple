@@ -1,32 +1,39 @@
 {
   "id": "thyagaraja-thiruvarur",
   "locale": "mr",
+  "name": "त्यागराज मंदिर, तिरुवारूर",
   "nativeName": "தியாகராஜ சுவாமி கோயில், திருவாரூர்",
+  "deity": "शिव त्यागराज (विधि विडंगर) रूपात, वारुळाचे स्वामी वन्मीकनाथर आणि देवी कमलांबिका यांच्यासह",
+  "tradition": "शैव परंपरा",
   "location": {
-    "city": "Thiruvarur",
-    "state": "Tamil Nadu",
+    "city": "तिरुवारूर",
+    "state": "तमिळनाडू",
     "lat": 10.7726,
     "lng": 79.6368
   },
+  "period": "चोळकालीन मूळ; नंतरच्या राजवंशांनी विस्तारित",
   "century": 10,
+  "dynasty": "चोळ मूळ, नंतर विजयनगर व नायक भर",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "kaveri-delta-temple-towns",
     "sapta-vidanga-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "चोळांच्या गाभ्यातील तिरुवारूर शहरात दक्षिणेतील एक महान शिवमंदिर उभे आहे — विशाल कमलालयम सरोवर, देशातील सर्वांत मोठा मंदिर-रथ, आणि परंपरेनुसार कर्नाटक संगीताच्या तीन संस्थापक संगीतकारांचे जन्मस्थान.",
   "sections": {
-    "history": "The Thyagaraja temple of Thiruvarur is among the most venerable Shiva shrines of the Tamil country, its origins in the Chola age and its enclosures widened by the dynasties that followed. Thiruvarur was a town of the first importance to the Cholas, and the temple is sung in the Tevaram hymns of the Nayanmar saints; the poet-saint Sundarar was especially bound to it, and it is said that merely to be born in Thiruvarur is to be granted liberation. The town is also honoured as the birthplace of the Trinity of Carnatic music — Thyagaraja, Muthuswami Dikshitar and Syama Sastri — the composer Thyagaraja himself named for the temple's presiding lord. The temple thus gathers into one place the devotional, the royal and the musical strands of the south.",
-    "architecture": "The temple is a great walled complex of concentric enclosures, gopurams and pillared halls in the mature Dravidian manner. Its presiding form is Thyagaraja, a Somaskanda image of Shiva with Uma and the child Skanda, worshipped as the Vidhi Vidangar; the ancient lingam of Vanmikanathar, the lord of the anthill, stands in its own sanctum. The Goddess is Kamalambika, whose shrine is one of the most celebrated Shakta centres of the south. Beside the temple lies the Kamalalayam tank, among the largest temple tanks in India, its wide waters ringed by shrine and street. Housed in the temple is the Aazhi Ther, the temple's ceremonial chariot — the largest in Tamil Nadu — a towering timber car drawn by thousands.",
-    "legends": "Thiruvarur is bound to the legend of the Chola king remembered for perfect justice, who is said to have driven his own chariot over his son to answer the grief of a cow whose calf the prince had killed — the bell of justice of the just king. The presiding Thyagaraja is worshipped in a secret rhythmic sway, the ajapa natana, said to echo the breathing of the reclining Vishnu whom the lord holds upon his chest — one of the temple's inner mysteries. Sundarar's hymns and the tradition that birth in Thiruvarur itself confers grace have made the town, in Tamil devotion, a byword for the nearness of liberation.",
-    "festivals": "The great festival is the chariot festival, when the mighty Aazhi Ther, the largest temple car in Tamil Nadu, is drawn through the streets around the tank by immense crowds — one of the most spectacular sights in South Indian temple life. The Panguni festival in spring, the Margazhi observances, and the music that fills the town in honour of its composer-saints mark the year. The wide Kamalalayam tank hosts the float festival, the deities borne on illuminated rafts across its still water.",
-    "experience": "Thiruvarur rewards the visitor who comes for more than a single shrine: the immensity of the Kamalalayam tank, the housed bulk of the great chariot, and the town's living memory as the cradle of Carnatic music give it a depth beyond its walls. It sits at the heart of the Kaveri delta's temple country, an easy journey from Kumbakonam, Thanjavur and Tiruchirapalli, and joins naturally with the delta's Chola masterpieces into a single unhurried pilgrimage through the old heartland of the south."
+    "history": "तिरुवारूरचे त्यागराज मंदिर तमिळ प्रदेशातील सर्वांत पूज्य शिवतीर्थांपैकी एक आहे; त्याची सुरुवात चोळकाळात झाली आणि नंतरच्या राजवंशांनी त्याचे प्रांगण विस्तारले. तिरुवारूर हे चोळांसाठी अत्यंत महत्त्वाचे नगर होते, आणि नायन्मार संतांच्या तेवारम स्तोत्रांत हे मंदिर गायले गेले आहे; कवी-संत सुंदरर विशेषत्वाने याच्याशी बांधलेले होते, आणि असे सांगितले जाते की तिरुवारूरमध्ये केवळ जन्म घेणे हेच मुक्ती मिळाल्यासारखे आहे. कर्नाटक संगीताच्या त्रिमूर्ती — त्यागराज, मुत्तुस्वामी दीक्षितर आणि श्यामा शास्त्री — यांचे जन्मस्थान म्हणूनही हे नगर गौरवले जाते; संगीतकार त्यागराज यांचे नाव मंदिराच्या अधिष्ठात्या प्रभूवरून ठेवले गेले. अशा प्रकारे हे मंदिर दक्षिणेतील भक्ती, राजसत्ता आणि संगीत या धाग्यांना एका ठिकाणी एकत्र आणते.",
+    "architecture": "मंदिर हे परिपक्व द्रविड शैलीतील एकाभोवती एक अशा प्रांगणांचे, गोपुरांचे आणि स्तंभयुक्त सभागृहांचे भव्य तटबंदी संकुल आहे. त्याचे अधिष्ठित रूप त्यागराज आहे — उमा आणि बाल स्कंद यांच्यासह शिवाची सोमस्कंद मूर्ती, जिची विधि विडंगर म्हणून पूजा होते; वारुळाचे स्वामी वन्मीकनाथरांचे प्राचीन लिंग आपल्या स्वतंत्र गर्भगृहात आहे. देवी कमलांबिका आहे, जिचे गर्भगृह दक्षिणेतील सर्वांत प्रसिद्ध शाक्त केंद्रांपैकी एक आहे. मंदिराशेजारी कमलालयम सरोवर आहे, भारतातील सर्वांत मोठ्या मंदिर-सरोवरांपैकी एक, ज्याचे विस्तीर्ण जल मंदिर व रस्त्यांनी वेढलेले आहे. मंदिरात आझि थेर ठेवलेला आहे, मंदिराचा उत्सव-रथ — तमिळनाडूतील सर्वांत मोठा — हजारो लोकांनी ओढला जाणारा उत्तुंग लाकडी रथ.",
+    "legends": "तिरुवारूर हे न्यायाच्या परिपूर्णतेबद्दल स्मरणात राहिलेल्या चोळ राजाच्या कथेशी बांधलेले आहे; राजकुमाराने ज्या गायीच्या वासराला मारले होते तिच्या दुःखाला न्याय देण्यासाठी त्याने आपल्या मुलावरून स्वतःचा रथ चालवला असे सांगितले जाते — न्यायी राजाची न्यायघंटा. अधिष्ठित त्यागराजांची पूजा गुप्त लयबद्ध डोलण्यात, अजपा नटनात, केली जाते, जे प्रभू आपल्या छातीवर धारण करत असलेल्या शयन करणाऱ्या विष्णूच्या श्वासाचा प्रतिध्वनी असल्याचे मानले जाते — मंदिराच्या आंतरिक रहस्यांपैकी एक. सुंदरर यांची स्तोत्रे आणि तिरुवारूरमध्ये जन्म घेणेच कृपा देते ही परंपरा यांमुळे तमिळ भक्तीत हे नगर मुक्तीच्या सान्निध्याचे प्रतीक बनले आहे.",
+    "festivals": "मुख्य उत्सव रथोत्सव आहे, ज्यावेळी भव्य आझि थेर — तमिळनाडूतील सर्वांत मोठा मंदिर-रथ — प्रचंड गर्दीने सरोवराभोवतीच्या रस्त्यांतून ओढला जातो; दक्षिण भारतीय मंदिरजीवनातील हे सर्वांत नेत्रदीपक दृश्यांपैकी एक आहे. वसंतातील पंगुनि उत्सव, मार्गळी पाळणे, आणि संगीतकार-संतांच्या सन्मानार्थ शहर भरून टाकणारे संगीत हे वर्षाला खूण देतात. विस्तीर्ण कमलालयम सरोवरात तरंगता उत्सव होतो, ज्यात उत्सवमूर्ती प्रकाशित तराफ्यांवर शांत जलावरून नेल्या जातात.",
+    "experience": "केवळ एका गर्भगृहासाठी न येता अधिक काही शोधणाऱ्या अभ्यागताला तिरुवारूर पुरस्कृत करते: कमलालयम सरोवराची विशालता, आच्छादित महारथाचा भव्य आकार, आणि कर्नाटक संगीताचा पाळणा म्हणून शहराची जिवंत स्मृती — यामुळे त्याला त्याच्या भिंतींपलीकडची खोली मिळते. हे कावेरी त्रिभुज-प्रदेशाच्या मंदिरभूमीच्या हृदयात वसलेले असून कुंभकोणम, तंजावूर आणि तिरुचिरापल्लीहून सहज पोहोचण्याजोगे आहे, आणि त्रिभुज-प्रदेशातील चोळ उत्कृष्ट कृतींशी नैसर्गिकपणे जोडून दक्षिणेच्या जुन्या गाभ्यातील एका निवांत तीर्थयात्रेचा भाग बनते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; festival days, especially the chariot festival, are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. As a living temple, respectful conduct is asked of all visitors.",
-    "photography": "Photography is restricted, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvarur is a district headquarters in Tamil Nadu's Kaveri delta, connected by road and rail; it lies about 25 km from Kumbakonam and within easy reach of Thanjavur and Tiruchirapalli."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शन सत्रांसह आणि दुपारी दीर्घ बंदसह उघडे असते; उत्सवाचे दिवस, विशेषतः रथोत्सव, सर्वांत गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळांची खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे काढावीत. जिवंत मंदिर असल्याने सर्व अभ्यागतांकडून आदरपूर्वक वर्तनाची अपेक्षा आहे.",
+    "photography": "छायाचित्रणावर निर्बंध आहेत, विशेषतः गर्भगृहात आणि त्याच्या आसपास; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुवारूर हे तमिळनाडूच्या कावेरी त्रिभुज-प्रदेशातील जिल्हा मुख्यालय असून रस्ते व रेल्वेने जोडलेले आहे; ते कुंभकोणमपासून सुमारे २५ कि.मी. अंतरावर आहे आणि तंजावूर व तिरुचिरापल्लीहून सहज पोहोचण्याजोगे आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thyagaraja-thiruvarur.jpg",

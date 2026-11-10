@@ -1,32 +1,39 @@
 {
   "id": "kutralanathar-courtallam",
   "locale": "mr",
+  "name": "कुट्रालनाथर मंदिर, कुट्रालम्",
   "nativeName": "குற்றாலநாதர் கோயில், குற்றாலம்",
+  "deity": "कुट्रालनाथर (तिरिकूटेश्वर) रूपातील शिव, देवी कुळळ्वाय्मोळीसह",
+  "tradition": "शैव",
   "location": {
-    "city": "Courtallam",
-    "state": "Tamil Nadu",
+    "city": "कुट्रालम्",
+    "state": "तमिळनाडू",
     "lat": 8.9349,
     "lng": 77.2758
   },
+  "period": "पांड्य प्रदेशातील प्राचीन पाडल पेट्र स्थळ; चित्र सभा आणि त्यातील भित्तिचित्रे नंतरच्या काळातील",
   "century": 7,
+  "dynasty": "पांड्य आणि नायक",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "pancha-sabhai-sthalams",
     "temples-of-the-deep-south",
     "paadal-petra-sthalams"
   ],
+  "summary": "धबधब्यांसाठी प्रसिद्ध असलेल्या पश्चिम घाटाच्या पायथ्याशी, कुट्रालम् येथे शिव कुट्रालनाथर म्हणून विराजमान आहे; जवळच पाच सभांचे चित्रमंदिर, चित्र सभा, उभे आहे, ज्याच्या भिंती देवतांच्या व कथांच्या रंगवलेल्या प्रतिमांनी भरलेल्या आहेत — जेथे शिवाच्या नृत्याचा गौरव चित्रकलेत केला जातो.",
   "sections": {
-    "history": "Courtallam — Kutralam in Tamil — lies in the far south of Tamil Nadu, near Tenkasi, where the Western Ghats fall away in a chain of waterfalls. Its temple to Shiva as Kutralanathar, also honoured as Thirikooteswarar of the three peaks, is a Paadal Petra Sthalam, sung by the child-saint Sambandar and the other Nayanmars, with a history reaching into Pandya antiquity and its later halls and paintings raised under the Nayaka patrons of the south. The hill town has long drawn pilgrims and seekers of health to its sacred falls, and the temple is the still centre of that older devotion.",
-    "architecture": "The temple of Kutralanathar is built in the Dravidian manner, its sanctum holding a lingam of unusual, softened form that the legends explain. Set apart, a short way from the main shrine, stands the Chitra Sabhai — the picture hall — whose interior walls and wooden ceiling are covered with mural paintings of gods, saints and sacred story. It is this painted hall that gives Courtallam its place among the five sabhas of the dancing Shiva, the others being the halls of gold, silver, copper and jewel; here the cosmic dance is honoured not in metal but in image and colour.",
-    "legends": "The name Kutralam is drawn from a legend of the sage Agastya, who came south bearing the will of Shiva. Finding a standing image of Vishnu where he wished to worship the lord, the sage is said to have embraced it, and the form shrank and yielded into a lingam of Shiva — kutral, the curtailing — so that the shrine took the name Kutralam and the lingam kept its unusual shape. As the Chitra Sabhai, the picture hall, Courtallam completes the five sabhas of Shiva's dance, its painted walls answering the golden hall of Chidambaram at the other end of the Tamil country.",
-    "festivals": "The great season at Courtallam is the saaral, the months when the south-west rains swell the falls and pilgrims come to bathe in the sacred waters before worship. The temple keeps the festivals of Shiva through the year — Aadi and the Tamil new year, the car festival through the hill town, and the Shivaratri night — and the painted Chitra Sabhai is opened for the special worship of the dancing lord.",
-    "experience": "Courtallam joins the devotion of the temple to the beauty of the Ghats: the roar of the falls, the cool of the hills, and the quiet painted hall of the dance. It sits about 5 km from Tenkasi in the deep south, within reach of Tirunelveli and the far-southern shrines, and its Chitra Sabhai closes the circle of the five sabhas that begins with the golden hall of Chidambaram."
+    "history": "कुट्रालम् — तमिळमध्ये कुट्रालम् — तमिळनाडूच्या दक्षिण टोकाला, तेन्कासीजवळ आहे, जेथे पश्चिम घाट धबधब्यांच्या मालिकेत उतरतो. येथील शिवाचे कुट्रालनाथर — तीन शिखरांचे तिरिकूटेश्वर म्हणूनही पूजले जाणारे — मंदिर पाडल पेट्र स्थळ असून बालसंत संबंधर आणि इतर नायन्मार यांनी गायिलेले आहे; त्याचा इतिहास पांड्य प्राचीनतेपर्यंत पोहोचतो, आणि त्याचे नंतरचे सभागृह व चित्रे दक्षिणेतील नायक आश्रयदात्यांच्या काळात उभारली गेली. या डोंगराळ गावाने पवित्र धबधब्यांकडे यात्रेकरूंना आणि आरोग्य शोधणाऱ्यांना फार पूर्वीपासून आकर्षित केले आहे, आणि मंदिर हे त्या जुन्या भक्तीचे शांत केंद्र आहे.",
+    "architecture": "कुट्रालनाथराचे मंदिर द्रविड शैलीत बांधलेले असून त्याच्या गर्भगृहात असामान्य, मृदू आकाराचे लिंग आहे, ज्याचे स्पष्टीकरण कथा देतात. मुख्य मंदिरापासून थोड्या अंतरावर वेगळी चित्र सभा — चित्रमंदिर — उभी आहे, जिच्या आतील भिंती आणि लाकडी छत देव, संत आणि पवित्र कथांच्या भित्तिचित्रांनी झाकलेले आहेत. नृत्य करणाऱ्या शिवाच्या पाच सभांमध्ये कुट्रालम्ला स्थान देणारे हेच रंगवलेले सभागृह आहे; इतर सभागृहे सोने, चांदी, तांबे आणि रत्न यांची आहेत; येथे विश्वनृत्याचा गौरव धातूत नव्हे तर प्रतिमा आणि रंगांत केला जातो.",
+    "legends": "कुट्रालम् हे नाव ऋषी अगस्त्यांच्या कथेतून आले आहे, जे शिवाची आज्ञा घेऊन दक्षिणेकडे आले. प्रभूची पूजा करण्याच्या ठिकाणी विष्णूची उभी मूर्ती आढळल्यावर ऋषींनी तिला आलिंगन दिले आणि ती आकार लहान होत शिवलिंगात विलीन झाली असे म्हटले जाते — कुट्रल, म्हणजे आखूड होणे — म्हणून मंदिराला कुट्रालम् नाव मिळाले आणि लिंगाने आपला असामान्य आकार राखला. चित्र सभा, चित्रमंदिर, म्हणून कुट्रालम् शिवाच्या नृत्याच्या पाच सभा पूर्ण करते; त्याच्या रंगवलेल्या भिंती तमिळ प्रदेशाच्या दुसऱ्या टोकावरील चिदंबरमच्या सुवर्ण सभेला उत्तर देतात.",
+    "festivals": "कुट्रालम् येथील मोठा ऋतू म्हणजे सारल — नैऋत्य पावसाळ्यातील महिने जेव्हा धबधबे फुगतात आणि यात्रेकरू पूजेपूर्वी पवित्र जलात स्नान करण्यासाठी येतात. मंदिर वर्षभर शिवाचे उत्सव पाळते — आडी आणि तमिळ नववर्ष, डोंगराळ गावातून निघणारा रथोत्सव, आणि शिवरात्रीची रात्र — आणि रंगवलेली चित्र सभा नृत्य करणाऱ्या प्रभूच्या विशेष पूजेसाठी उघडली जाते.",
+    "experience": "कुट्रालम् मंदिराची भक्ती घाटांच्या सौंदर्याशी जोडते : धबधब्यांची गर्जना, डोंगरांचा गारवा आणि नृत्याचे शांत रंगवलेले सभागृह. हे दक्षिणेच्या टोकाला तेन्कासीपासून सुमारे ५ कि.मी. अंतरावर असून तिरुनेलवेली आणि सुदूर दक्षिणेतील मंदिरांच्या आवाक्यात आहे, आणि त्याची चित्र सभा चिदंबरमच्या सुवर्ण सभेपासून सुरू होणारे पाच सभांचे वर्तुळ पूर्ण करते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the falls season (roughly the south-west monsoon months) and festival days are busiest. The Chitra Sabhai keeps its own worship hours. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum, and the murals of the Chitra Sabhai are protected; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Courtallam lies in Tenkasi district at the foot of the Western Ghats, about 5 km from Tenkasi and roughly 60 km from Tirunelveli, well connected by road; Tenkasi is the nearest major rail head."
+    "timings": "दररोज उघडे असून सकाळी व संध्याकाळी दर्शन सत्रे आणि दुपारी बंद असते; धबधब्यांचा ऋतू (साधारण नैऋत्य मान्सूनचे महिने) आणि उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. चित्र सभेच्या पूजेच्या वेळा वेगळ्या असतात. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. अनेक दक्षिणी मंदिरांप्रमाणे पुरुषांना गर्भगृहापुढे परंपरेने उपरणे काढण्यास सांगितले जाते; लावलेले नियम पाळावेत.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत, आणि चित्र सभेतील भित्तिचित्रे संरक्षित आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "कुट्रालम् तेन्कासी जिल्ह्यात पश्चिम घाटाच्या पायथ्याशी, तेन्कासीपासून सुमारे ५ कि.मी. आणि तिरुनेलवेलीपासून साधारण ६० कि.मी. अंतरावर, रस्त्याने उत्तम जोडलेले आहे; तेन्कासी हे जवळचे मोठे रेल्वे स्थानक आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kutralanathar-courtallam.jpg",

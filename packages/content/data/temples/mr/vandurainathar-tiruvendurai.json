@@ -1,29 +1,36 @@
 {
   "id": "vandurainathar-tiruvendurai",
   "locale": "mr",
+  "name": "वंदुरैनाथर मंदिर, तिरुवेंदुरै",
   "nativeName": "திருவெந்துறை வந்துறைநாதர் கோயில்",
+  "deity": "वंदुरैनाथर (ब्रह्मपुरीश्वरर) रूपातील शिव, देवी वेल् नेडुंगण्णी यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम",
   "location": {
-    "city": "Cherivadi Vaikal (Tiruvendurai), near Mannargudi",
-    "state": "Tamil Nadu",
+    "city": "चेरिवाडी वैकल (तिरुवेंदुरै), मन्नारगुडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.6,
     "lng": 79.52
   },
+  "period": "तेवारम काळ (सातव्या शतकात स्तुतिगान); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मन्नारगुडीजवळील चेरिवाडी वैकल येथील तिरुवेंदुरै हे वंदुरैनाथर — ब्रह्मपुरीश्वरर — रूपातील शिवाचे आणि देवी वेल् नेडुंगण्णीचे स्थान आहे. तिरुज्ञान संबंदर यांनी स्तुती केलेले हे पाडल पेट्र स्थलम तिरुवारूर त्रिभुज प्रदेशातील एक शांत तीर्थ असून भृंगी ऋषींच्या आख्यायिकेशी जोडलेले आहे.",
   "sections": {
-    "history": "Tiruvendurai, at Cherivadi Vaikal about 10 km from Mannargudi on the road to Thiruthuraipoondi, is a Paadal Petra Sthalam hymned in the Tevaram by Tirugnana Sambandar, in Tiruvarur district. Its historical name is Tiruventhurai; the stone temple is of the Chola period and later, keeping the form of the Shiva shrines of the Tiruvarur delta.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vandurainathar — also Vanduthurainathar, Brahmapureeswarar, Pramareswarar — in the sanctum, with the goddess Vel Nedunganni (also named Sathyadayi) in her own shrine, a Nandi and the parivara devatas about the prakara. An Ardhanariswarar figure appears in the local tradition. The walled courtyard keeps the form of the delta temples.",
-    "legends": "The sthala legend tells of the sage Bringhi, who in his devotion wished to circle only Shiva, and took the form of a bee (bhringa) to pass between the lord and the goddess; angered, Parvati did penance, and the lord granted her his half as Ardhanariswarar. Shiva is worshipped here as Vandurainathar — Brahmapureeswarar — with Vel Nedunganni beside him. As with many delta shrines, the fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims of the Mannargudi–Thiruthuraipoondi tract include Tiruvendurai among their stops.",
-    "experience": "At Tiruvendurai the pilgrim comes to a quiet shrine of the Tiruvarur delta. Before Vandurainathar and Vel Nedunganni, the visitor finds the unhurried grace of a Tevaram temple, and the memory of the bee-sage Bringhi and the lord's gift of his half to the goddess."
+    "history": "तिरुवारूर जिल्ह्यात, मन्नारगुडीपासून तिरुतुरैपूंडीकडे जाणाऱ्या रस्त्यावर सुमारे १० किमी अंतरावरील चेरिवाडी वैकल येथील तिरुवेंदुरै हे तेवारममध्ये तिरुज्ञान संबंदर यांनी स्तुती केलेले पाडल पेट्र स्थलम आहे. त्याचे ऐतिहासिक नाव तिरुवेंतुरै आहे; दगडी मंदिर चोळ काळातील आणि त्यानंतरचे असून तिरुवारूर त्रिभुज प्रदेशातील शिवमंदिरांचे स्वरूप राखते.",
+    "architecture": "द्रविड शैलीतील हे त्रिभुज प्रदेशातील मंदिर आहे; गर्भगृहात वंदुरैनाथर — वंदुतुरैनाथर, ब्रह्मपुरीश्वरर, भ्रमरेश्वरर अशा नावांनीही ओळखले जाणारे — विराजमान आहेत, आणि देवी वेल् नेडुंगण्णी (सत्यदायी या नावानेही ओळखली जाणारी) स्वतःच्या मंदिरात आहे; प्राकाराभोवती नंदी आणि परिवार देवता आहेत. स्थानिक परंपरेत अर्धनारीश्वराची मूर्ती दिसते. तटबंदीयुक्त प्रांगण त्रिभुज प्रदेशातील मंदिरांचे स्वरूप राखते.",
+    "legends": "स्थलकथा भृंगी ऋषींविषयी सांगते, ज्यांना भक्तीपोटी केवळ शिवाला प्रदक्षिणा घालायची होती, आणि प्रभू व देवी यांच्यातून जाण्यासाठी त्यांनी भ्रमर (भृंग) रूप घेतले; संतापलेल्या पार्वतीने तपश्चर्या केली, आणि प्रभूने तिला आपले अर्धे अंग देऊन अर्धनारीश्वर रूप दिले. शिव येथे वंदुरैनाथर — ब्रह्मपुरीश्वरर — म्हणून पूजिला जातो, त्याच्या शेजारी वेल् नेडुंगण्णी आहे. अनेक त्रिभुज प्रदेशातील मंदिरांप्रमाणे, सविस्तर स्थलपुराण स्थानिक परंपरेत आणि तेवारम पदांमध्ये जतन झाले आहे.",
+    "festivals": "येथे मासी महिन्यात (फेब्रुवारी–मार्च) महाशिवरात्र, पुरट्टासी महिन्यात (सप्टेंबर–ऑक्टोबर) नवरात्र आणि कार्तिकैतील सोमवार, तसेच प्रदोष पूजा, गावातील मंदिराच्या शांत स्वरूपात साजरी केली जातात. मन्नारगुडी–तिरुतुरैपूंडी परिसरातील यात्रेकरू तिरुवेंदुरैचा आपल्या थांब्यांमध्ये समावेश करतात.",
+    "experience": "तिरुवेंदुरै येथे यात्रेकरू तिरुवारूर त्रिभुज प्रदेशातील शांत तीर्थात येतो. वंदुरैनाथर आणि वेल् नेडुंगण्णी यांच्यासमोर पाहुण्याला तेवारम मंदिराची संथ कृपा आणि भ्रमर-ऋषी भृंगी तसेच प्रभूने देवीला दिलेल्या आपल्या अर्ध्या अंगाची स्मृती लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvendurai is at Cherivadi Vaikal, about 10 km from Mannargudi on the road to Thiruthuraipoondi, in Tiruvarur district. Mannargudi and Thiruthuraipoondi are the nearest towns, with buses and taxis to the village; Tiruvarur is the nearest rail head."
+    "timings": "सहसा पहाटे ते दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे व गुडघे झाकलेले असावेत; प्रवेशद्वारावर पादत्राणे काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांवर सहसा छायाचित्रणास परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुवेंदुरै हे तिरुवारूर जिल्ह्यात, तिरुत्तुरैपूंडीच्या रस्त्यावर मन्नारगुडीपासून सुमारे १० किमी अंतरावर चेरिवाडी वैकाल येथे आहे. मन्नारगुडी व तिरुत्तुरैपूंडी ही जवळची गावे असून तेथून गावापर्यंत बस व टॅक्सी मिळतात; तिरुवारूर हे जवळचे रेल्वे स्थानक आहे."
   }
 }

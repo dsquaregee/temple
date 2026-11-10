@@ -1,30 +1,37 @@
 {
   "id": "trivikrama-thirukkovilur",
   "locale": "mr",
+  "name": "उलगळंद पेरुमाळ मंदिर, तिरुकोईलूर",
   "nativeName": "உலகளந்த பெருமாள் கோயில், திருக்கோவிலூர்",
+  "deity": "उलगळंद पेरुमाळ (त्रिविक्रम) रूपातील विष्णू, लोकांचे मोजमाप करणारे प्रभू, देवी पूंगोदै (पुष्पवल्ली) यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Tirukoilur",
-    "state": "Tamil Nadu",
+    "city": "तिरुकोईलूर",
+    "state": "तमिळनाडू",
     "lat": 11.967,
     "lng": 79.202
   },
+  "period": "पेण्णै नदीकाठच्या नडु नाडूतील दिव्य देश, नालायिर दिव्य प्रबंधममध्ये मुदल आळवार आणि तिरुमंगै आळवारांनी गायिलेला",
   "century": 8,
+  "dynasty": "मध्ययुगीन चोळ, विजयनगर आणि मदुराई नायकांच्या भरीसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "पेण्णै नदीकाठच्या तिरुकोईलूर येथे विष्णू त्रिविक्रम, म्हणजे लोकांचे मोजमाप करणारे प्रभू, म्हणून उभे आहेत — हा तो दिव्य देश जिथे परंपरा सांगते की पावसाच्या एका रात्री पहिले तीन आळवार भेटले आणि प्रबंधमची सुरुवात झाली.",
   "sections": {
-    "history": "Tirukoilur, on the Thenpennai river, is one of the 108 Divya Desams and among the most revered shrines of Nadu Nadu. Its place in Sri Vaishnava memory is unique: tradition holds that here the Lord revealed himself to Poigai, Bhoothath and Pey Alvar — the Mudhal Alvars, the first three of the twelve — and that here they sang the three Thiruvandhadhis that open the Nalayira Divya Prabandham. Thirumangai Alvar later praised the same Lord. The temple as it stands is believed to have been built by the Medieval Cholas, and the Vijayanagara kings and the Madurai Nayaks added to it in later centuries. Worship has continued through all these eras, and the town remains a centre of pilgrimage.",
-    "architecture": "The temple is announced from afar by its rajagopuram, which rises about 59 metres (192 feet) and is counted among the tallest temple towers in Tamil Nadu — by Wikipedia's reckoning the third tallest. Beyond it lie the enclosures and pillared halls of the Dravidian plan, with the sanctum of Trivikrama at the centre and the Goddess Poongothai in her own shrine. The presiding image shows the Lord in his giant striding form, one foot lifted to measure the heavens.",
-    "legends": "Two stories meet here. The first is that of Vamana: Vishnu came as a dwarf to King Mahabali, asked for three paces of land, and grew into Trivikrama, measuring earth and sky in two strides. The second belongs to the Alvars. On a night of storm, the sthala tradition tells, Poigai Alvar sheltered in a narrow passage, and Bhoothath and Pey Alvar came in after him, until the three stood pressed together — and felt a fourth among them. Poigai lit a lamp of verse with the earth as its bowl and the sea as its oil, Bhoothath with love as the lamp, and Pey Alvar beheld the Lord.",
-    "festivals": "The Brahmotsavam in Panguni (March–April) is the temple's principal festival, with the processional deity carried through the town on its vahanas. An Andal utsavam is also kept, and Vaikunta Ekadashi and the Alvars' birth-stars are observed with particular devotion in this, the Alvars' own meeting place.",
-    "experience": "Approach on foot to feel the great tower grow overhead, then stand before Trivikrama and recall the three Alvars who, tradition says, met here in the dark and found the Lord among them. Reciting a verse of the Mudhal Thiruvandhadhi here is a quiet devotion many pilgrims keep. The Pennai and the old town around the temple reward an unhurried walk."
+    "history": "तेन्पेण्णै नदीकाठचे तिरुकोईलूर हे १०८ दिव्य देशांपैकी एक आणि नडु नाडूतील अत्यंत पूज्य क्षेत्रांपैकी आहे. श्रीवैष्णव स्मृतीतील त्याचे स्थान अद्वितीय आहे: परंपरा मानते की येथे प्रभूने पोयगै, भूतत्ताळ्वार आणि पेयाळ्वार — बारांपैकी पहिल्या तीन मुदल आळवारांना — स्वतःचे दर्शन दिले, आणि येथे त्यांनी नालायिर दिव्य प्रबंधमची सुरुवात करणारे तीन तिरुवंदादी गायिले. तिरुमंगै आळवारांनी नंतर याच प्रभूची स्तुती केली. आज दिसणारे मंदिर मध्ययुगीन चोळांनी बांधले असे मानले जाते, आणि विजयनगरच्या राजांनी व मदुराईच्या नायकांनी पुढील शतकांत त्यात भर घातली. या सर्व कालखंडांत पूजा चालू राहिली आहे, आणि गाव आजही यात्रेचे केंद्र आहे.",
+    "architecture": "मंदिराची ओळख दुरूनच त्याच्या राजगोपुरावरून होते, जो सुमारे ५९ मीटर (१९२ फूट) उंच आहे आणि तमिळनाडूतील सर्वांत उंच मंदिर गोपुरांमध्ये गणला जातो — विकिपीडियाच्या मोजणीनुसार तिसरा सर्वांत उंच. त्याच्या पलीकडे द्रविड आराखड्याचे प्राकार आणि स्तंभयुक्त सभागृहे आहेत, मध्यभागी त्रिविक्रमाचा गाभारा आणि देवी पूंगोदै स्वतःच्या मंदिरात. अधिष्ठाता मूर्ती प्रभूचे महाकाय पाऊल टाकणारे रूप दर्शवते, आकाश मोजण्यासाठी एक पाय उचललेला.",
+    "legends": "येथे दोन कथा एकत्र येतात. पहिली वामनाची: विष्णू बटू रूपात राजा महाबलीकडे आले, तीन पावले जमीन मागितली, आणि त्रिविक्रम होऊन दोन पावलांत पृथ्वी आणि आकाश मोजले. दुसरी आळवारांची. वादळी रात्री, स्थळपरंपरा सांगते, पोयगै आळवार एका अरुंद वाटेत आसऱ्याला थांबले, त्यांच्यानंतर भूतत्ताळ्वार आणि पेयाळ्वार आत आले, आणि तिघे एकमेकांना खेटून उभे राहिले — आणि त्यांना आपल्यात चौथा असल्याची जाणीव झाली. पोयगैंनी पृथ्वीची पणती आणि समुद्राचे तेल घेऊन काव्याचा दिवा लावला, भूतत्ताळ्वारांनी प्रेमाचा दिवा लावला, आणि पेयाळ्वारांनी प्रभूचे दर्शन घेतले.",
+    "festivals": "पंगुनी महिन्यातील (मार्च–एप्रिल) ब्रह्मोत्सव हा मंदिराचा मुख्य उत्सव आहे, ज्यात उत्सवमूर्ती वाहनांवर गावातून फिरवली जाते. आंडाळ उत्सवही साजरा केला जातो, आणि आळवारांच्या स्वतःच्या भेटीच्या या स्थळी वैकुंठ एकादशी आणि आळवारांची जन्मनक्षत्रे विशेष भक्तीने पाळली जातात.",
+    "experience": "पायी जवळ जा आणि डोक्यावर वाढत जाणारा भव्य गोपुर अनुभवा, मग त्रिविक्रमासमोर उभे राहून त्या तीन आळवारांचे स्मरण करा, जे परंपरेनुसार येथे अंधारात भेटले आणि आपल्यात प्रभूला पाहिले. येथे मुदल तिरुवंदादीतील एक पद म्हणणे ही अनेक यात्रेकरू पाळत असलेली शांत भक्ती आहे. पेण्णै नदी आणि मंदिराभोवतीचे जुने गाव संथ फेरफटक्याचे चीज करतात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Panguni Brahmotsavam and Vaikunta Ekadashi are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Tirukoilur has a railway station on the Villupuram–Katpadi line and is linked by road to Villupuram and Tiruvannamalai; Chennai has the nearest major airport, a few hours away by road."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शनाच्या सत्रांसह आणि दुपारच्या बंदसह उघडे असते; पंगुनी ब्रह्मोत्सव आणि वैकुंठ एकादशीला सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासा.",
+    "dressCode": "विनम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गाभाऱ्यात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुकोईलूरला विल्लुपुरम–कटपाडी मार्गावर रेल्वे स्थानक आहे, आणि ते रस्त्याने विल्लुपुरम आणि तिरुवण्णामलईशी जोडलेले आहे; चेन्नईत सर्वात जवळचे मोठे विमानतळ आहे, रस्त्याने काही तासांच्या अंतरावर."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/trivikrama-thirukkovilur.jpg",

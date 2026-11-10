@@ -1,30 +1,37 @@
 {
   "id": "pazhamudircholai-murugan",
   "locale": "mr",
+  "name": "पळमुदिर्चोलै मुरुगन मंदिर",
   "nativeName": "பழமுதிர்ச்சோலை முருகன் கோயில்",
+  "deity": "मुरुगन, वल्ली आणि देवयानीसह पूजिला जाणारा",
+  "tradition": "कौमारम, शैव परंपरेतील मुरुगनाची उपासना",
   "location": {
-    "city": "Madurai",
-    "state": "Tamil Nadu",
+    "city": "मदुराई",
+    "state": "तमिळनाडू",
     "lat": 10.0847,
     "lng": 78.2161
   },
+  "period": "संगम काव्यात गौरवलेले प्राचीन वनराईतील देवालय",
   "century": 9,
+  "dynasty": "पांड्य आणि नंतरचे",
+  "style": "द्रविड शैली",
   "unesco": false,
   "circuits": [
     "arupadai-veedu"
   ],
+  "summary": "मुरुगनाच्या सहा निवासस्थानांतील सहावे आणि अंतिम असलेले पळमुदिर्चोलै मदुराईजवळील वृक्षाच्छादित टेकडीवर विराजमान आहे — वनराईतील देवालय, जिथे देवाची पूजा त्याच्या दोन्ही पत्नी, वल्ली आणि देवयानी यांच्यासह केली जाते.",
   "sections": {
-    "history": "Pazhamudircholai lies on Solaimalai, a wooded hill among the Alagar range northeast of Madurai, beside the Vaishnava shrine of Alagar. It is the abode with which the Sangam-era Tirumurugatruppadai, the ancient guide-poem to Murugan’s shrines, comes to its close, and it has been revered as the sixth and culminating abode since early times. A grove rather than a grand tower, it keeps something of the old forest sanctity of Murugan worship, close to the springs and greenery of the hill.",
-    "architecture": "True to its name — cholai, a grove; pazham, ripe fruit — the temple sits amid trees on the hillside, a modest shrine framed by forest rather than by soaring gopurams. Murugan is worshipped here with both Valli and Deivanai at his side, a rare completeness among the six abodes. Nearby lie the Noopura Ganga spring and the older Alagar temple below, so that a visit weaves together grove, water, and the green slopes of the Alagar hills.",
-    "legends": "Pazhamudircholai is bound to the beloved story of the poetess Avvaiyar. Resting beneath a fruit tree, she was asked by a cowherd boy whether she wanted “roasted” or “unroasted” fruit; puzzled, she found the boy playing with words on the ripe naval fruit, and realised she had been humbled in wit by Murugan himself in disguise. The tale, cherished across the Tamil land, marks this grove as the abode where the god teaches humility to the wise, and where devotion outreaches learning.",
-    "festivals": "Vaikasi Visakam, the god’s birth star, Skanda Sashti, and Thai Poosam draw pilgrims up the hill, and the temple shares in the festival life of the neighbouring Alagar shrine. As the closing abode of the Arupadai Veedu, it receives many who complete the six-temple pilgrimage here. Kavadi and abhishekam mark the season, and the grove fills with families who climb for darshan and linger by the spring.",
-    "experience": "Reaching Pazhamudircholai is a journey into green: the road climbs through the Alagar hills to a grove where birdsong and the rustle of leaves surround the shrine. After the grandeur of the other abodes, its forest simplicity is a quiet culmination — many who have travelled the six abodes feel the pilgrimage complete here, among trees and spring water. Pilgrims often pause at the Noopura Ganga and the Alagar temple below, so that the visit gathers the god of the hills, his consorts, and the living forest into one unhurried close."
+    "history": "पळमुदिर्चोलै मदुराईच्या ईशान्येकडील अळगर डोंगररांगांतील सोलैमलै या वृक्षाच्छादित टेकडीवर, वैष्णव अळगर मंदिराच्या शेजारी आहे. संगमकालीन तिरुमुरुगात्रुप्पडै, म्हणजे मुरुगनाच्या मंदिरांची प्राचीन मार्गदर्शक कविता, ज्या निवासस्थानाशी संपते ते हेच, आणि सहावे व पराकाष्ठेचे निवासस्थान म्हणून ते प्राचीन काळापासून पूज्य मानले जाते. भव्य गोपुराऐवजी वनराई असलेले हे स्थान मुरुगन उपासनेचे जुने वन-पावित्र्य जपून ठेवते, टेकडीवरील झरे आणि हिरवाईच्या जवळ.",
+    "architecture": "नावाप्रमाणेच — चोलै म्हणजे वनराई; पळम म्हणजे पिकलेले फळ — मंदिर टेकडीच्या उतारावर झाडांमध्ये वसलेले आहे; उत्तुंग गोपुरांऐवजी जंगलाने वेढलेले एक साधे देवालय. येथे मुरुगनाची पूजा त्याच्या बाजूला वल्ली आणि देवयानी दोघींसह होते, जे सहा निवासस्थानांमध्ये दुर्मिळ परिपूर्णत्व आहे. जवळच नूपुर गंगा झरा आणि खाली जुने अळगर मंदिर आहे, त्यामुळे या भेटीत वनराई, पाणी आणि अळगर टेकड्यांचे हिरवे उतार यांचा संगम घडतो.",
+    "legends": "पळमुदिर्चोलै कवयित्री अव्वैयार हिच्या लाडक्या कथेशी जोडलेले आहे. एका फळझाडाखाली विश्रांती घेत असताना एका गुराखी मुलाने तिला विचारले की तिला 'भाजलेले' फळ हवे की 'न भाजलेले'; गोंधळलेल्या तिला समजले की तो मुलगा जांभळाच्या पिकलेल्या फळावर शब्दांचा खेळ करत आहे, आणि वेषांतर केलेल्या स्वतः मुरुगनाकडून आपण बुद्धिचातुर्यात नमवले गेलो आहोत हे तिच्या लक्षात आले. संपूर्ण तमिळ भूमीत प्रिय असलेली ही कथा या वनराईला असे निवासस्थान ठरवते जेथे देव ज्ञानी लोकांना नम्रता शिकवतो आणि जेथे भक्ती विद्येपेक्षा श्रेष्ठ ठरते.",
+    "festivals": "देवाचे जन्मनक्षत्र असलेला वैकासी विशाखम, स्कंद षष्ठी आणि थाई पूसम यांना यात्रेकरू टेकडी चढून येतात, आणि शेजारच्या अळगर देवालयाच्या उत्सवजीवनात मंदिर सहभागी होते. अरुपडै वीडूचे अंतिम निवासस्थान असल्याने सहा मंदिरांची यात्रा पूर्ण करणारे अनेक जण येथे येतात. कावडी आणि अभिषेक या काळाची खूण असतात, आणि दर्शनासाठी चढून येणाऱ्या आणि झऱ्याजवळ रेंगाळणाऱ्या कुटुंबांनी वनराई भरून जाते.",
+    "experience": "पळमुदिर्चोलैला पोहोचणे म्हणजे हिरवाईतला प्रवास आहे: अळगर टेकड्यांतून चढत जाणारा रस्ता अशा वनराईपर्यंत नेतो जिथे पक्ष्यांचा किलबिलाट आणि पानांची सळसळ देवालयाला वेढून असते. इतर निवासस्थानांच्या भव्यतेनंतर त्याचा वनातील साधेपणा शांत परिपूर्तीसारखा वाटतो — सहा निवासस्थानांची यात्रा केलेल्या अनेकांना येथे झाडांमध्ये आणि झऱ्याच्या पाण्यात यात्रा पूर्ण झाल्याचे वाटते. यात्रेकरू अनेकदा नूपुर गंगा आणि खालील अळगर मंदिरात थांबतात, त्यामुळे ही भेट टेकड्यांचा देव, त्याच्या पत्नी आणि जिवंत वन यांना एका निवांत समारोपात एकत्र आणते."
   },
   "visit": {
-    "timings": "Generally open from around 6:00 am to 1:00 pm and 3:00 pm to 8:00 pm daily; hours may vary with the hill road and extend during festivals.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered. Footwear is left at the stands outside.",
-    "photography": "Photography is restricted around the sanctum; follow posted rules and staff guidance, especially during festivals.",
-    "gettingThere": "Pazhamudircholai is about 25 km northeast of Madurai on the Alagar hills, reached by road via Alagar Koyil; Madurai has the nearest railway junction and airport, and local buses serve the hill."
+    "timings": "सामान्यतः दररोज सकाळी सुमारे ६:०० ते दुपारी १:०० आणि दुपारी ३:०० ते रात्री ८:०० पर्यंत उघडे असते; टेकडीवरील रस्त्यानुसार वेळा बदलू शकतात आणि उत्सवांमध्ये वाढतात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — पुरुषांसाठी धोतर किंवा पायजमा-पँट, स्त्रियांसाठी साडी किंवा सलवार कमीज; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे बाहेरील स्टँडवर ठेवावीत.",
+    "photography": "गाभाऱ्याभोवती छायाचित्रणावर निर्बंध आहेत; विशेषतः उत्सवांमध्ये लावलेले नियम आणि कर्मचाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "पळमुदिर्चोलै मदुराईच्या सुमारे २५ किमी ईशान्येस अळगर टेकड्यांवर आहे; अळगर कोयिलमार्गे रस्त्याने पोहोचता येते. सर्वांत जवळचे रेल्वे जंक्शन आणि विमानतळ मदुराईत आहे, आणि टेकडीपर्यंत स्थानिक बस धावतात."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/pazhamudircholai-murugan.jpg",

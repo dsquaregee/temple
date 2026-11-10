@@ -1,29 +1,36 @@
 {
   "id": "vilvavaneswarar-kollampudur",
   "locale": "mr",
+  "name": "विल्वारण्येश्वर मंदिर, तिरुक्कोळ्ळंपुदूर",
   "nativeName": "திருக்கொள்ளம்புதூர் வில்வாரண்யேஸ்வரர் கோயில்",
+  "deity": "विल्वारण्येश्वर (बिल्ववनाचे स्वामी) रूपातील शिव, देवी सौंदर नायकीसह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळ (पंच आरण्य क्षेत्रम्)",
   "location": {
-    "city": "Tirukkollampudur, near Koradacheri",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कोळ्ळंपुदूर, कोरडाचेरीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.8147,
     "lng": 79.46
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कोरडाचेरीजवळील तिरुक्कोळ्ळंपुदूर येथे शिवाची विल्वारण्येश्वर — बिल्ववनाचे स्वामी — म्हणून, देवी सौंदर नायकीसह पूजा होते. तिरुग्नान संबंदर यांनी गायिलेले हे पाडल पेट्र स्थळ आणि पंच आरण्य वन-क्षेत्रांपैकी एक, संत संबंदर यांच्या स्मृतीसाठी ओळखले जाते; त्यांनी येथे आपल्या गीताच्या सामर्थ्याने पुराने भरलेली वेट्टारू नदी ओलांडली असे सांगितले जाते.",
   "sections": {
-    "history": "Tirukkollampudur, whose historical name is Kollamputhur, lies about 22–24 km from Kumbakonam near Koradacheri and Nidamangalam, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and is counted among the Pancha Aranya Kshetrams, the five forest shrines of the Kumbakonam country, as the vilva (bael) forest. The stone temple is of the Chola period and later. The same village holds the Pereyil Jagadeeswarar temple, another Paadal Petra Sthalam.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vilvaranyeswarar — 'lord of the vilva forest' — in the sanctum, with the goddess Soundara Nayaki in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the vilva (bael), the leaf dearest to Shiva, which gives the shrine its forest name. The Vettaru river flows nearby.",
-    "legends": "The great story of the place belongs to the child-saint Sambandar, who came to worship here but found the Vettaru river in heavy flood, barring his way. By the power of his devotion and song — in some tellings taking a boat across, in others the waters themselves yielding — he reached the shrine and sang the lord's praise. As a vilva-forest shrine of the Pancha Aranya set, the temple is loved by those who make the round of the five forests, and the vilva leaf is central to its worship.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims making the round of the Pancha Aranya forests and the Paadal Petra temples include Tirukkollampudur among their stops.",
-    "experience": "At Tirukkollampudur the pilgrim comes to a bael-forest shrine of the Pancha Aranya, rich in the memory of Sambandar crossing the Vettaru. Before Vilvaranyeswarar, lord of the vilva, and the beautiful Soundara Nayaki, the visitor offers the sacred bael leaf in a quiet Tevaram temple of the Kaveri country."
+    "history": "तिरुक्कोळ्ळंपुदूर, ज्याचे ऐतिहासिक नाव कोळ्ळंपुत्तूर आहे, कुंभकोणमपासून सुमारे २२–२४ किमी अंतरावर, कोरडाचेरी आणि निडमंगलमजवळ, तिरुवारूर जिल्ह्यात वसलेले आहे. हे एक पाडल पेट्र स्थळ आहे, ज्याचे तेवारममध्ये तिरुग्नान संबंदर यांनी स्तवन केले आहे, आणि कुंभकोणम प्रदेशातील पाच वन-क्षेत्रांपैकी — पंच आरण्य क्षेत्रम्पैकी — बिल्ववन म्हणून गणले जाते. दगडी मंदिर चोळकालीन आणि त्यानंतरचे आहे. याच गावात पेरेयिल जगदीश्वर मंदिरही आहे, जे आणखी एक पाडल पेट्र स्थळ आहे.",
+    "architecture": "एक द्रविड त्रिभुज-प्रदेशातील मंदिर; गर्भगृहात विल्वारण्येश्वर — 'बिल्ववनाचे स्वामी' — विराजमान आहेत, देवी सौंदर नायकी तिच्या स्वतंत्र मंदिरात आहे, तसेच एक नंदी आणि परिवार देवता आहेत. स्थलवृक्ष बिल्व आहे, शिवाला सर्वांत प्रिय पान, ज्यामुळे या क्षेत्राला वनाचे नाव मिळाले. जवळून वेट्टारू नदी वाहते.",
+    "legends": "या स्थळाची महान कथा बालसंत संबंदर यांची आहे, जे येथे दर्शनासाठी आले पण वेट्टारू नदीला मोठा पूर आलेला आढळला, तिने त्यांचा मार्ग अडवला. आपल्या भक्तीच्या आणि गीताच्या सामर्थ्याने — काही कथनांत नावेतून पलीकडे जाऊन, तर काहींत पाण्यानेच वाट देऊन — ते क्षेत्रापर्यंत पोहोचले आणि त्यांनी स्वामींची स्तुती गायिली. पंच आरण्य संचातील बिल्ववन क्षेत्र म्हणून, पाच वनांची फेरी करणाऱ्यांना हे मंदिर प्रिय आहे, आणि बिल्वपत्र त्याच्या पूजेचे केंद्र आहे.",
+    "festivals": "मंदिरात माशी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यात नवरात्र आणि कार्तिकैचे सोमवार, तसेच प्रदोष पूजा पाळली जाते. पंच आरण्य वनांची आणि पाडल पेट्र मंदिरांची फेरी करणारे यात्रेकरू तिरुक्कोळ्ळंपुदूरचा आपल्या मुक्कामांत समावेश करतात.",
+    "experience": "तिरुक्कोळ्ळंपुदूर येथे यात्रेकरू पंच आरण्यातील बिल्ववन-क्षेत्री येतो, जे संबंदर यांनी वेट्टारू ओलांडल्याच्या स्मृतीने समृद्ध आहे. बिल्ववनाचे स्वामी विल्वारण्येश्वर आणि सुंदर सौंदर नायकी यांच्यासमोर, कावेरी प्रदेशातील एका शांत तेवारम मंदिरात, भाविक पवित्र बिल्वपत्र अर्पण करतो."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkollampudur is about 22–24 km from Kumbakonam, near Koradacheri and Nidamangalam (Chellur, via Kudavasal), in Tiruvarur district. Kumbakonam and Nidamangalam are the nearest rail heads, with buses and taxis to the village."
+    "timings": "सहसा पहाटेपासून मध्यान्हीपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले; वेळा स्थानिक पातळीवर तपासा, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "पारंपरिक, सभ्य पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वारावर ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत छायाचित्रणाची सहसा परवानगी असते, पण गर्भगृहात नाही; विधींचे फोटो काढण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुक्कोळ्ळंपुदूर तिरुवारूर जिल्ह्यात, कोरडाचेरी आणि निडमंगलम (कुडवासलमार्गे चेल्लूर) जवळ, कुंभकोणमपासून सुमारे २२–२४ किमी अंतरावर आहे. कुंभकोणम आणि निडमंगलम ही सर्वांत जवळची रेल्वे स्थानके असून गावापर्यंत बस आणि टॅक्सी मिळतात."
   }
 }

@@ -1,32 +1,43 @@
 {
   "id": "aiyarappar-thiruvaiyaru",
   "locale": "mr",
+  "name": "ऐयारप्पर मंदिर, तिरुवैयारु",
   "nativeName": "ஐயாறப்பர் கோயில்",
+  "deity": "ऐयारप्पर (पंचनदीश्वरर) रूपातील शिव, देवी अरम वळर्त्त नायकी (धर्मसंवर्धिनी) यांच्यासह",
+  "tradition": "शैव पंथ",
   "location": {
-    "city": "Thiruvaiyaru",
-    "state": "Tamil Nadu",
+    "city": "तिरुवैयारु",
+    "state": "तमिळनाडू",
     "lat": 10.879,
     "lng": 79.104
   },
+  "period": "कावेरीकाठचे प्राचीन शैव मंदिर; चोळ व नंतरची भर; तेवारममध्ये गायलेले (सातवे शतक)",
   "century": 7,
+  "dynasty": "चोळ व नंतरचे आश्रयदाते",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "kaveri-delta-temple-towns",
     "saptha-sthanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "ऐयारप्पर हे कावेरीकाठच्या तिरुवैयारु येथील महान शिव मंदिर आहे — दक्षिण कैलासम्, जेथे अप्परांना कैलासाचे दर्शन घडले, सप्तस्थान उत्सवाचे हृदय, आणि संत-संगीतकार त्यागराज यांचे गाव.",
   "sections": {
-    "history": "Thiruvaiyaru, whose name is read as the town of the five rivers, has been a place of pilgrimage since at least the seventh century, when Appar, Sambandar and Sundarar sang of Aiyarappar in the Tevaram, making this a Paadal Petra Sthalam. The temple is rooted in the Chola country and its patrons, and over the centuries it grew into a large complex of about fifteen acres with five enclosures. Appar is believed to have been granted a vision of Kailasa here, which is why the shrine is called Dakshina Kailasam, the Kailasa of the South. In later times the town found a second renown as the home of the saint-composer Thyagaraja, whose music is remembered on the Kaveri bank nearby.",
-    "architecture": "The complex is entered beneath a seven-tiered rajagopuram and is enclosed by five courts. Sacred tirthams, among them the Surya, Nandi, Samudra and Devamritha tanks, are associated with the temple, and the Kaveri itself is counted among its waters. Two sanctums stand at the heart of worship, one for Aiyarappar and one for the goddess Aram Valartha Nayaki, also known as Dharmasamvardhini, whose name speaks of virtue nurtured. Long Dravidian corridors, mandapas and carved pillars give the enclosure the unhurried air of a place built for processions.",
-    "legends": "The sthala purana tells that Nandi, the sacred bull, was born here to the sage Salankayana and grew up under the temple's shelter; the Sapta Sthanam procession is tied to the tradition of his wedding. It is also told that Appar, striving to reach Kailasa, was bidden to bathe in a sacred tank at Thiruvaiyaru, and rising from the water he beheld Shiva and Parvati and their attendants all around him. In this way the story gives Thiruvaiyaru its place as a Kailasa that pilgrims of the south can reach.",
-    "festivals": "The Sapta Sthanam festival, usually in April or May, is the great event of the year: the palanquins of seven neighbouring Shiva temples gather in a joyful procession. In the cool season the Thyagaraja Aradhana draws musicians from across the country to the Kaveri bank to sing the saint's compositions in his memory. Maha Shivaratri and the monthly Pradosham are kept as at every Shiva temple. Confirm dates locally.",
-    "experience": "Come in the cool of the morning, when the courts are quiet and the Kaveri lies close by. Walk through the long enclosures to the sanctum of Aiyarappar, then to the shrine of the goddess, and pause at the tirthams. Many visitors pair the temple with a walk to the Kaveri bank, where the memory of Thyagaraja is strongest and musicians gather in season. Thiruvaiyaru is an unhurried town, and the temple suits those who like to linger."
+    "history": "तिरुवैयारु, ज्या नावाचा अर्थ पाच नद्यांचे नगर असा लावला जातो, हे किमान सातव्या शतकापासून तीर्थक्षेत्र आहे, जेव्हा अप्पर, संबंधर आणि सुंदरर यांनी तेवारममध्ये ऐयारप्परांची स्तुती गायली, आणि त्यामुळे हे पाडल पेट्र स्थळम् ठरले. मंदिर चोळ प्रदेश आणि त्याच्या आश्रयदात्यांशी निगडित असून शतकानुशतके ते पाच प्राकारांचे सुमारे पंधरा एकरांचे विशाल संकुल बनले. अप्परांना येथे कैलासाचे दर्शन लाभले असे मानले जाते, म्हणूनच या मंदिराला दक्षिण कैलासम्, म्हणजे दक्षिणेचा कैलास म्हटले जाते. पुढील काळात संत-संगीतकार त्यागराज यांचे गाव म्हणून या नगराला दुसरी कीर्ती मिळाली; जवळच्या कावेरीकाठी त्यांच्या संगीताचे स्मरण केले जाते.",
+    "architecture": "संकुलात सात मजली राजगोपुराखालून प्रवेश होतो आणि ते पाच प्रांगणांनी वेढलेले आहे. सूर्य, नंदी, समुद्र आणि देवामृत तीर्थांसह पवित्र तीर्थे मंदिराशी निगडित आहेत, आणि कावेरीलाही त्याच्या जलांमध्ये गणले जाते. पूजेच्या केंद्रस्थानी दोन गर्भगृहे आहेत, एक ऐयारप्परांचे आणि एक देवी अरम वळर्त्त नायकी, धर्मसंवर्धिनी नावानेही ओळखली जाणारी, हिचे, जिचे नाव पोसलेल्या धर्माचे सांगते. लांब द्रविड प्रदक्षिणामार्ग, मंडप आणि कोरीव स्तंभ प्रांगणाला मिरवणुकांसाठी बांधलेल्या स्थळाचा निवांत भाव देतात.",
+    "legends": "स्थलपुराण सांगते की पवित्र वृषभ नंदी येथे सालंकायन ऋषींच्या पोटी जन्मला आणि मंदिराच्या छायेत वाढला; सप्तस्थान मिरवणूक त्याच्या विवाहाच्या परंपरेशी जोडलेली आहे. असेही सांगितले जाते की कैलासाला पोहोचण्यासाठी धडपडणाऱ्या अप्परांना तिरुवैयारु येथील एका पवित्र तीर्थात स्नान करण्यास सांगितले गेले, आणि पाण्यातून वर येताच त्यांना शिव व पार्वती आणि त्यांचे गण आपल्या सभोवती दिसले. अशा प्रकारे ही कथा तिरुवैयारुला दक्षिणेतील यात्रेकरूंना गाठता येणारा कैलास म्हणून स्थान देते.",
+    "festivals": "सप्तस्थान उत्सव, सहसा एप्रिल किंवा मे महिन्यात, हा वर्षातील महान प्रसंग आहे: शेजारच्या सात शिव मंदिरांच्या पालख्या आनंदी मिरवणुकीत एकत्र येतात. थंडीच्या काळात त्यागराज आराधना देशभरातील संगीतकारांना कावेरीकाठी त्या संताच्या स्मरणार्थ त्यांच्या रचना गाण्यासाठी आकर्षित करते. प्रत्येक शिव मंदिराप्रमाणे येथेही महाशिवरात्री आणि मासिक प्रदोषम् पाळले जातात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "सकाळच्या गारव्यात या, जेव्हा प्रांगणे शांत असतात आणि कावेरी जवळच असते. लांब प्राकारांमधून ऐयारप्परांच्या गर्भगृहाकडे, मग देवीच्या मंदिराकडे जा, आणि तीर्थांपाशी थांबा. अनेक अभ्यागत मंदिराला कावेरीकाठी फेरफटक्याची जोड देतात, जेथे त्यागराजांचे स्मरण सर्वांत प्रबळ असते आणि हंगामात संगीतकार जमतात. तिरुवैयारु हे निवांत नगर आहे, आणि रेंगाळू इच्छिणाऱ्यांना हे मंदिर भावते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thiruvaiyaru lies on the Kaveri, about 13 km from Thanjavur, and is reached by frequent buses and by road from Thanjavur, Kumbakonam and Tiruchirappalli. Thanjavur is the nearest large railhead, and Tiruchirappalli International Airport, around 60 km away, is the nearest airport. The temple stands in the town centre, and autos are easily found."
+    "timings": "सामान्यतः सकाळी आणि पुन्हा सायंकाळी उशिरापासून रात्रीपर्यंत उघडे असते, मध्ये दुपारचा विश्रांतीकाळ असतो; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणामार्गात व प्रांगणांत छायाचित्रणास सामान्यतः परवानगी असते, परंतु तमिळनाडू मंदिरांच्या नियमांनुसार आतल्या गर्भगृहात ते कडकपणे निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुवैयारु कावेरीकाठी, तंजावूरपासून सुमारे १३ कि.मी. अंतरावर आहे, आणि तंजावूर, कुंभकोणम व तिरुचिरापल्ली येथून वारंवार बस व रस्त्याने पोहोचता येते. तंजावूर हे जवळचे मोठे रेल्वे स्थानक आहे, आणि सुमारे ६० कि.मी. अंतरावरील तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ हे जवळचे विमानतळ आहे. मंदिर नगराच्या मध्यभागी असून ऑटोरिक्षा सहज मिळतात."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/aiyarappar-thiruvaiyaru.mp3",
+    "durationSec": 219
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/aiyarappar-thiruvaiyaru.jpg",
@@ -38,5 +49,11 @@
       "webp": "https://media.dsquaregee.com/heroes/aiyarappar-thiruvaiyaru.webp"
     },
     "og": "https://media.dsquaregee.com/og/aiyarappar-thiruvaiyaru.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/aiyarappar-thiruvaiyaru.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/aiyarappar-thiruvaiyaru.jpg",
+    "durationSec": 160,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

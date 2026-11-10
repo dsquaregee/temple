@@ -1,29 +1,36 @@
 {
   "id": "nithyasundareswarar-tirunedungalam",
   "locale": "mr",
+  "name": "नित्यसुंदरेश्वर मंदिर, तिरुनेडुंगळम",
   "nativeName": "திருநெடுங்களம் நித்யசுந்தரேஸ்வரர் கோயில்",
+  "deity": "नित्यसुंदरेश्वर (नेडुंगळनाथर) रूपातील शिव, देवी ओप्पिल नायकी (मंगलनायकी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळ",
   "location": {
-    "city": "Tirunedungalam, near Thuvakudi",
-    "state": "Tamil Nadu",
+    "city": "तिरुनेडुंगळम, तुवाकुडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.78,
     "lng": 78.8
   },
+  "period": "तेवारम काळ (इसवी सातव्या शतकात गायिलेले); नंतरचे चोळ काळातील बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "त्रिचीहून तंजावरकडे जाणाऱ्या रस्त्यापासून जवळ, तुवाकुडीजवळील तिरुनेडुंगळम येथे शिव नित्यसुंदरेश्वर — नेडुंगळनाथर — म्हणून पूजला जातो, देवी ओप्पिल नायकी यांच्यासह. तिरुग्नान संबंधर यांनी गायिलेले हे पाडल पेट्र स्थळ वरच्या कावेरी प्रदेशातील शिवमंदिरांमध्ये आहे, जेथे परंपरेनुसार देवीने शिवाशी विवाहासाठी तपस्या केली, आणि अगस्त्य ऋषींनी पूजा केली.",
   "sections": {
-    "history": "Tirunedungalam, near Thuvakudi about 21 km from Tiruchirappalli off the Trichy–Thanjavur highway, is a Paadal Petra Sthalam hymned in the Tevaram by Tirugnana Sambandar, counted among the Shiva shrines built on the banks of the Kaveri. Its historical name is Thirunedungalam; the stone temple is of the Chola period and later, in Tiruchirappalli district.",
-    "architecture": "A Dravidian river-country temple, the shrine enshrines Nithyasundareswarar — the Nedungalanathar — in the sanctum, with the goddess Oppila Nayaki (Mangalanayaki) in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and gopuram are typical of the Shiva temples of the upper Kaveri near Trichy.",
-    "legends": "Tradition tells that the goddess Shakti did penance here, meditating on Shiva to be wedded to him, and the lord came in the guise of a thief and took her hand — a marriage legend that gives the shrine its grace. Sage Agastya is also said to have worshipped at this sivasthalam. Shiva is praised here as Nithyasundareswarar, 'the ever-beautiful lord,' with Oppila Nayaki, 'she without compare,' beside him.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims on the upper-Kaveri stretch of the Paadal Petra temples near Trichy include Tirunedungalam among their stops.",
-    "experience": "At Tirunedungalam the pilgrim comes to a river-country shrine near Trichy. Before Nithyasundareswarar and Oppila Nayaki, the visitor finds the unhurried grace of a Tevaram temple of the upper Kaveri, and the memory of the goddess's penance to wed the ever-beautiful lord."
+    "history": "तिरुनेडुंगळम, त्रिची–तंजावर महामार्गापासून जवळ, तिरुचिरापल्लीपासून सुमारे २१ किमी अंतरावरील तुवाकुडीजवळ आहे; तिरुग्नान संबंधर यांनी तेवारममध्ये गायिलेले हे पाडल पेट्र स्थळ कावेरीच्या तीरावर बांधलेल्या शिवमंदिरांमध्ये गणले जाते. याचे ऐतिहासिक नाव तिरुनेडुंगळम आहे; तिरुचिरापल्ली जिल्ह्यातील हे दगडी मंदिर चोळ काळातील व त्यानंतरचे आहे.",
+    "architecture": "हे द्रविड शैलीतील नदीप्रदेशातील मंदिर आहे; गर्भगृहात नित्यसुंदरेश्वर — नेडुंगळनाथर — विराजमान आहेत, आणि देवी ओप्पिल नायकी (मंगलनायकी) आपल्या स्वतंत्र मंदिरात आहे; प्राकाराभोवती नंदी आणि परिवार देवता आहेत. तटबंद अंगण आणि गोपुर हे त्रिचीजवळील वरच्या कावेरी प्रदेशातील शिवमंदिरांचे वैशिष्ट्य आहे.",
+    "legends": "परंपरा सांगते की देवी शक्तीने येथे तपस्या केली, शिवाशी विवाहासाठी त्याचे ध्यान करत राहिली, आणि देव चोराच्या वेषात येऊन तिचा हात धरून गेला — या विवाहकथेमुळे या मंदिराला कृपा लाभली आहे. अगस्त्य ऋषींनीही या शिवस्थळी पूजा केली असे म्हटले जाते. येथे शिवाची स्तुती नित्यसुंदरेश्वर, 'सदा सुंदर देव', म्हणून केली जाते, आणि त्याच्या शेजारी ओप्पिल नायकी, 'जिला तुलना नाही ती', आहे.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) महिन्यातील महाशिवरात्र, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यातील नवरात्र आणि कार्तिकैच्या सोमवारी उत्सव पाळले जातात; प्रदोष पूजाही होते. त्रिचीजवळील पाडल पेट्र मंदिरांच्या वरच्या कावेरी टप्प्यावरील यात्रेकरू तिरुनेडुंगळमचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "तिरुनेडुंगळम येथे यात्रेकरू त्रिचीजवळील एका नदीप्रदेशातील मंदिरात पोहोचतो. नित्यसुंदरेश्वर आणि ओप्पिल नायकी यांच्यासमोर, भेट देणाऱ्याला वरच्या कावेरी प्रदेशातील तेवारम मंदिराची निवांत कृपा आणि सदा सुंदर देवाशी विवाह व्हावा म्हणून देवीने केलेल्या तपस्येची आठवण लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirunedungalam lies near Thuvakudi, about 21 km from Tiruchirappalli off the Trichy–Thanjavur highway, in Tiruchirappalli district. Tiruchirappalli is the nearest city and rail head, with buses and taxis to the village."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा, विशेषतः उत्सवाच्या दिवशी, स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवली जातात.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गात छायाचित्रण सहसा परवानगीयुक्त आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुनेडुंगळम तिरुचिरापल्ली जिल्ह्यात, त्रिची–तंजावर महामार्गापासून जवळ, तिरुचिरापल्लीपासून सुमारे २१ किमी अंतरावरील तुवाकुडीजवळ आहे. तिरुचिरापल्ली हे जवळचे शहर आणि रेल्वे स्थानक आहे; तेथून गावापर्यंत बस आणि टॅक्सी मिळतात."
   }
 }

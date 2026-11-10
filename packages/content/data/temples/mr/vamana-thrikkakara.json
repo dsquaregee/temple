@@ -1,30 +1,37 @@
 {
   "id": "vamana-thrikkakara",
   "locale": "mr",
+  "name": "वामनमूर्ती मंदिर, तृक्काक्कर",
   "nativeName": "തൃക്കാക്കര വാമനമൂർത്തി ക്ഷേത്രം",
+  "deity": "विष्णू वामन रूपात, बटू अवतार — स्तोत्रांतील तिरुक्कात्करैचा अप्पन — श्री वैष्णव परंपरेतील देवी पेरुम्चेल्वनायकी यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thrikkakara, Kochi",
-    "state": "Kerala",
+    "city": "तृक्काक्कर, कोची",
+    "state": "केरळ",
     "lat": 10.034,
     "lng": 76.329
   },
+  "period": "मलै नाडूतील दिव्य देशम, नालायिर दिव्य प्रबंधमात नम्माळवार यांनी गायलेले आणि ओणमचे माहेर म्हणून स्मरले जाणारे",
   "century": 8,
+  "dynasty": "चेर पेरुमाळ (दहाव्या–तेराव्या शतकातील शिलालेख)",
+  "style": "केरळ",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "कोचीतील तृक्काक्कर येथे विष्णू वामन म्हणून पूजिला जातो — राजा महाबलीला नम्र करणारा बटू — हे नम्माळवारांनी गायलेले मलै नाडूतील दिव्य देशम असून केरळच्या ओणम सणाशी सर्वाधिक निगडित मंदिर आहे.",
   "sections": {
-    "history": "Thrikkakara, now within the city of Kochi, is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and is counted among the shrines of Malai Nadu; Nammalvar sang its lord as the Appan of Thirukkatkarai. It is one of the few temples in India whose presiding deity is Vamana, the dwarf avatara. Around eighteen stone inscriptions from the tenth to the thirteenth centuries, the age of the Chera Perumals, have been found here, and they tell of chieftains gathering at Thrikkakara to honour the king during Onam — then a festival of many days. The shrine itself may well be older than its earliest records.",
-    "architecture": "The temple is built in the Kerala manner: a sanctum (srikovil) beneath sloping roofs, enclosed by the nalambalam cloister, with a tall flagstaff on the approach and a broad compound where the Onam crowds gather. Close by stands a shrine of Shiva. The old stone inscriptions, cut in the Vattezhuthu script of medieval Kerala, are a quiet treasure of the precinct and one of the region's important records of the Chera age.",
-    "legends": "The puranas tell how the generous asura king Mahabali, ruler of the three worlds, was approached by Vamana, a dwarf brahmin boy, who asked for three paces of land. When the gift was granted, Vamana grew to cosmic size, measuring earth and sky in two strides, and for the third Mahabali offered his own head. Kerala tradition places Mahabali's realm at Thrikkakara and holds that the beloved king was granted leave to visit his people once a year — the homecoming that Onam celebrates. Tradition reads the name itself as 'the place of the sacred foot'.",
-    "festivals": "Onam is the temple's great festival: a ten-day utsavam in the Malayalam month of Chingam (August–September) that begins on Atham and culminates on Thiruvonam, with the flag hoisted, the lord taken in procession and the whole town in celebration. Households across Kerala lay their Onam floral carpets in the same ten-day rhythm. Vaikunta Ekadashi is also observed.",
-    "experience": "Visit during Onam to see Thrikkakara at its most joyful, when the temple becomes the heart of Kerala's harvest festival — or come on an ordinary morning for quiet darshan. In this place the story honours both the god and the king he humbled: Onam is a festival of Mahabali's homecoming as much as of Vamana's grace. Pause by the Shiva shrine and the old inscribed stones."
+    "history": "तृक्काक्कर, आता कोची शहराच्या हद्दीत, हे १०८ दिव्य देशमांपैकी एक आहे — नालायिर दिव्य प्रबंधमात आळवारांनी गायलेली विष्णूची निवासस्थाने — आणि मलै नाडूच्या तीर्थांमध्ये त्याची गणना होते; नम्माळवारांनी येथील प्रभूला तिरुक्कात्करैचा अप्पन म्हणून गायले. ज्या मोजक्या भारतीय मंदिरांचे मुख्य दैवत वामन, बटू अवतार, आहे त्यापैकी हे एक आहे. दहाव्या ते तेराव्या शतकातील, चेर पेरुमाळांच्या काळातील, सुमारे अठरा दगडी शिलालेख येथे सापडले आहेत, आणि ते ओणमदरम्यान — तेव्हा अनेक दिवसांचा उत्सव — राजाचा सन्मान करण्यासाठी सरदार तृक्काक्कर येथे जमत असल्याचे सांगतात. हे मंदिर त्याच्या सर्वांत जुन्या नोंदींपेक्षाही प्राचीन असण्याची शक्यता आहे.",
+    "architecture": "मंदिर केरळ पद्धतीने बांधलेले आहे: उताराच्या छपरांखालील गर्भगृह (श्रीकोविल), नालंबलम प्रदक्षिणा-मंडपाने वेढलेले, प्रवेशमार्गावर उंच ध्वजस्तंभ आणि ओणमचे गर्दीचे लोक जमतात तो प्रशस्त परिसर. जवळच शिवाचे मंदिर आहे. मध्ययुगीन केरळच्या वट्टेळुत्तु लिपीत कोरलेले जुने दगडी शिलालेख हा परिसराचा शांत ठेवा आहे आणि चेर काळातील प्रदेशाच्या महत्त्वाच्या नोंदींपैकी एक आहे.",
+    "legends": "पुराणे सांगतात की तिन्ही लोकांचा शासक, उदार असुर राजा महाबली याच्याकडे वामन नावाचा बटू ब्राह्मण बालक आला आणि त्याने तीन पावले जमीन मागितली. दान मान्य झाल्यावर वामन विश्वरूपी आकारात वाढला, दोन पावलांत पृथ्वी आणि आकाश मोजले, आणि तिसऱ्या पावलासाठी महाबलीने स्वतःचे मस्तक अर्पण केले. केरळ परंपरा महाबलीचे राज्य तृक्काक्कर येथे असल्याचे मानते, आणि प्रिय राजाला वर्षातून एकदा आपल्या प्रजेला भेटण्याची अनुमती मिळाली असे सांगते — ओणम जो घरवापसीचा सोहळा साजरा करतो तो हाच. परंपरा या नावाचा अर्थ ‘पवित्र चरणाचे स्थान’ असा लावते.",
+    "festivals": "ओणम हा मंदिराचा महान उत्सव आहे: मल्याळम चिंगम महिन्यातील (ऑगस्ट–सप्टेंबर) दहा दिवसांचा उत्सवम, जो अथमला सुरू होतो आणि तिरुवोणमला समाप्त होतो; ध्वज फडकवला जातो, प्रभूची मिरवणूक निघते आणि संपूर्ण गाव आनंदोत्सवात रमते. केरळमधील घरोघरी याच दहा दिवसांच्या लयीत ओणमच्या फुलांच्या गालिचा (पूक्कळम) घातल्या जातात. वैकुंठ एकादशीही साजरी केली जाते.",
+    "experience": "ओणमदरम्यान तृक्काक्कर सर्वाधिक आनंदी रूपात पाहण्यासाठी भेट द्या, जेव्हा मंदिर केरळच्या कापणी उत्सवाचे हृदय बनते — किंवा शांत दर्शनासाठी एखाद्या सामान्य सकाळी या. येथील कथा देवाचा आणि त्याने नम्र केलेल्या राजाचा, दोघांचाही सन्मान करते: ओणम हा वामनाच्या कृपेइतकाच महाबलीच्या घरवापसीचा उत्सव आहे. शिवमंदिराजवळ आणि जुन्या शिलालेखित दगडांजवळ थोडे थांबा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure, following the temple's own schedule; festival days are crowded. Confirm current timings locally before you visit.",
-    "dressCode": "Traditional dress is expected: by Kerala temple custom men usually enter bare-chested in a mundu or dhoti, and women in saree or other traditional dress; footwear is left outside. Follow posted rules and the guidance of temple staff.",
-    "photography": "Photography is not permitted in and around the sanctum; follow posted rules and the guidance of temple staff.",
-    "gettingThere": "Thrikkakara is in Kochi, Ernakulam district, close to Edappally and Kakkanad, and is easily reached by road and city bus. Ernakulam Junction is the main railway station, and Cochin International Airport at Nedumbassery is about 20 km away."
+    "timings": "मंदिराच्या स्वतःच्या वेळापत्रकानुसार रोज सकाळ आणि संध्याकाळच्या दर्शनासाठी खुले, दुपारी बंद; उत्सवाच्या दिवशी गर्दी असते. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "पारंपरिक पोशाख अपेक्षित आहे: केरळ मंदिर प्रथेनुसार पुरुष सहसा उघड्या छातीने मुंडू किंवा धोतर नेसून आणि स्त्रिया साडी किंवा इतर पारंपरिक पोशाखात प्रवेश करतात; पादत्राणे बाहेर ठेवावीत. लावलेल्या नियमांचे आणि मंदिर कर्मचाऱ्यांच्या मार्गदर्शनाचे पालन करावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणास परवानगी नाही; लावलेल्या नियमांचे आणि मंदिर कर्मचाऱ्यांच्या मार्गदर्शनाचे पालन करावे.",
+    "gettingThere": "तृक्काक्कर कोचीत, एर्नाकुलम जिल्ह्यात, एडप्पळ्ळी आणि काक्कनाडजवळ आहे, आणि रस्त्याने तसेच शहर बसने सहज पोहोचता येते. एर्नाकुलम जंक्शन हे मुख्य रेल्वे स्थानक आहे, आणि नेडुंबास्सेरी येथील कोचीन आंतरराष्ट्रीय विमानतळ सुमारे २० किमी अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vamana-thrikkakara.jpg",

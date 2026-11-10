@@ -1,29 +1,36 @@
 {
   "id": "koteeswarar-tirukkottaiyur",
   "locale": "mr",
+  "name": "कोटीश्वरर मंदिर, तिरुक्कोट्टैयूर (कोट्टैयूर)",
   "nativeName": "கொட்டையூர் கோடீஸ்வரர் கோயில்",
+  "deity": "कोटीश्वरर रूपातील शिव, देवी पंडाडु नायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Kottaiyur",
-    "state": "Tamil Nadu",
+    "city": "कोट्टैयूर",
+    "state": "तमिळनाडू",
     "lat": 10.967,
     "lng": 79.358
   },
+  "period": "चोळ प्रदेशातील प्राचीन शैव देवस्थान, अप्परांनी तेवारममध्ये गायलेले (सातवे शतक); मध्ययुगीन व नंतरच्या भरीसह दगडी मंदिर",
   "century": 7,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (चोळ व नंतरचे; बांधणाऱ्यांची निश्चित नोंद नाही)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमजवळील कोट्टैयूर येथील कोटीश्वरर मंदिर, अप्परांच्या स्तोत्रातील तिरुक्कोट्टैयूर, एरंडाच्या झाडाखाली प्रकट झाल्याचे सांगितल्या जाणाऱ्या स्वयंभू लिंगाचा गौरव करते, चेंडूशी खेळणाऱ्या देवीच्या शेजारी.",
   "sections": {
-    "history": "Kottaiyur lies about five kilometres from Kumbakonam on the road to Swamimalai, in the Chola country north of the Kaveri. In the Tevaram it is Tirukkottaiyur, and the saint Appar, also known as Tirunavukkarasar, praised the Lord here in a decad of the Sixth Thirumurai, one that tradition shares between this shrine and the temple at Tiruvalanchuzhi. That hymn makes it a Paadal Petra Sthalam. The name itself carries two memories: koti, a crore, gives the Lord His name Koteeswarar, and kottai, a seed, gives the village its own, Kottaiyur. The stone temple is medieval in character and has been added to over the centuries; its first builders are not firmly documented.",
-    "architecture": "The most striking feature of the temple is its five-tiered rajagopuram, which announces the shrine from the road. Within, the sanctum holds a self-manifested linga of Koteeswarar, and the goddess Pandadu Nayaki is honoured in her own shrine. Small shrines to Vinayagar and Murugan flank the approach to the sanctum, in the manner of the temples of the Chola country. A sacred spring and tank belong to the temple, and are tied to its legends.",
-    "legends": "The sthala purana links Kottaiyur to the story of Kumbakonam. Brahma gathered the seeds of all living things, with the Vedas and Puranas, in a pot, the Amrita Kalasam, which drifted on the floodwaters until Shiva, in the guise of a hunter, broke it open with an arrow. Drops of its nectar are said to have fallen at several places, this one among them, though some tellings speak of sandal paste instead. The village name is explained by another tale: the linga was found beneath a castor plant among fallen seeds, and the sage Eranda is remembered here. A prince named Suruchi, son of Sathyarthi, was cursed into a demon's form; he prayed to Shiva, bathed in the temple's spring, and regained his own shape. The goddess's name, Pandadu Nayaki, the lady who plays with a ball, is understood to mean that she tosses aside the sorrows and curses that burden her devotees. Markandeya and the sage Padirayogi are also named among those who worshipped here.",
-    "festivals": "The most prominent festival is Masi Maham, in February or March, when the deities are taken in procession to the temple tank and offered milk. Margazhi Tiruvathirai, Maha Shivaratri and Panguni Uthiram are kept with devotion, and the arrow festival of Purattasi is also observed. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Kottaiyur is an easy and rewarding half-day from Kumbakonam. Enter beneath the five-tiered gopuram, bow at the small shrines of Vinayagar and Murugan, and come to the sanctum of Koteeswarar before turning to Pandadu Nayaki. Devotees come to lay down their cares and curses at the feet of the goddess who tosses them away, and many pray for release from long-standing troubles. The temple sits in the calm of a village street, and is quietest in the early morning."
+    "history": "कोट्टैयूर कुंभकोणमपासून सुमारे पाच किलोमीटरवर, स्वामीमलैकडे जाणाऱ्या रस्त्यावर, कावेरीच्या उत्तरेकडील चोळ प्रदेशात आहे. तेवारममध्ये ते तिरुक्कोट्टैयूर आहे, आणि अप्पर, ज्यांना तिरुनावुक्करसर असेही म्हणतात, या संताने सहाव्या तिरुमुरैतील एका पतिकात येथील स्वामीची स्तुती केली; परंपरेनुसार ते पतिक हे देवस्थान आणि तिरुवलंचुळी येथील मंदिर यांच्यात वाटले जाते. त्या स्तोत्रामुळे हे एक पाडल पेट्र स्थळम् ठरते. नावातच दोन स्मृती आहेत: कोटि, म्हणजे कोटी, यावरून स्वामीला कोटीश्वरर हे नाव मिळाले, आणि कोट्टै, म्हणजे बी, यावरून गावाला स्वतःचे नाव, कोट्टैयूर, मिळाले. दगडी मंदिर मध्ययुगीन स्वरूपाचे असून शतकानुशतके त्यात भर पडत गेली आहे; त्याच्या पहिल्या बांधणाऱ्यांची निश्चित नोंद नाही.",
+    "architecture": "मंदिराचे सर्वांत लक्षवेधी वैशिष्ट्य म्हणजे त्याचे पाच थरांचे राजगोपुर, जे रस्त्यावरूनच देवस्थानाची घोषणा करते. आत गर्भगृहात कोटीश्वररचे स्वयंभू लिंग आहे, आणि देवी पंडाडु नायकी यांचा त्यांच्या स्वतंत्र देवस्थानात गौरव होतो. चोळ प्रदेशातील मंदिरांच्या पद्धतीनुसार, गर्भगृहाकडे जाणाऱ्या मार्गाच्या दोन्ही बाजूंना विनायक आणि मुरुगन यांची लहान देवस्थाने आहेत. एक पवित्र झरा व तळे मंदिराचे आहेत, आणि ते त्याच्या आख्यायिकांशी जोडलेले आहेत.",
+    "legends": "स्थलपुराण कोट्टैयूरला कुंभकोणमच्या कथेशी जोडते. ब्रह्मदेवाने सर्व सजीवांची बीजे, वेद आणि पुराणांसह, एका घड्यात, अमृत कलशात, गोळा केली; तो पुराच्या पाण्यावर वाहत राहिला, जोपर्यंत शिवाने शिकाऱ्याच्या रूपात बाणाने तो फोडला नाही. त्यातील अमृताचे थेंब अनेक ठिकाणी पडले असे सांगितले जाते, त्यांत हे एक, जरी काही कथनांत त्याऐवजी चंदनाच्या लेपाचा उल्लेख आहे. गावाचे नाव आणखी एका कथेने स्पष्ट केले जाते: लिंग पडलेल्या बियांमध्ये एरंडाच्या झाडाखाली सापडले, आणि येथे एरंड ऋषींचे स्मरण केले जाते. सत्यार्थीचा पुत्र सुरुची नावाचा राजकुमार शापाने राक्षसरूपात गेला; त्याने शिवाची प्रार्थना केली, मंदिराच्या झऱ्यात स्नान केले, आणि आपले स्वतःचे रूप परत मिळवले. देवीचे नाव, पंडाडु नायकी, म्हणजे चेंडूशी खेळणारी स्वामिनी, याचा अर्थ ती आपल्या भक्तांना जाचणारी दुःखे व शाप दूर उडवून टाकते असा समजला जातो. मार्कंडेय आणि पदिरयोगी ऋषी हेही येथे पूजा करणाऱ्यांमध्ये नमूद आहेत.",
+    "festivals": "सर्वांत प्रमुख उत्सव मासी मघम् आहे, फेब्रुवारी किंवा मार्चमध्ये, जेव्हा देवतांची मंदिराच्या तळ्याकडे मिरवणूक काढली जाते आणि त्यांना दूध अर्पण केले जाते. मार्गळी तिरुवातिरै, महाशिवरात्र आणि पंगुनि उत्तिरम् भक्तिभावाने पाळले जातात, आणि पुरट्टासीचा बाण-उत्सवही साजरा होतो. तारखा स्थानिक पातळीवर खात्री करून घ्या, कारण त्या तमिळ पंचांगानुसार असतात.",
+    "experience": "कोट्टैयूर हे कुंभकोणमपासून सोपे आणि फलदायी अर्ध्या दिवसाचे ठिकाण आहे. पाच थरांच्या गोपुराखालून आत या, विनायक आणि मुरुगन यांच्या लहान देवस्थानांसमोर नमन करा, आणि पंडाडु नायकीकडे वळण्यापूर्वी कोटीश्वररच्या गर्भगृहापर्यंत या. भक्त आपल्या चिंता आणि शाप त्या दूर उडवणाऱ्या देवीच्या चरणी ठेवण्यासाठी येतात, आणि अनेक जण दीर्घकालीन संकटांतून सुटकेसाठी प्रार्थना करतात. मंदिर गावातील रस्त्याच्या शांततेत वसले आहे, आणि पहाटे सर्वांत शांत असते."
   },
   "visit": {
-    "timings": "Commonly reported as roughly 6 am to noon and 3 or 4 pm to 8 pm, though published timings vary; confirm locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Kottaiyur is in Thanjavur district, about 5 km from Kumbakonam on the Kumbakonam–Swamimalai road. Kumbakonam is the nearest railway station and the usual base for visitors, and Tiruchirappalli has the nearest major airport. Local buses and autorickshaws serve the route."
+    "timings": "सामान्यतः सुमारे सकाळी ६ ते दुपारी १२ आणि दुपारी ३ किंवा ४ ते रात्री ८ अशी नोंदवली जाते, जरी प्रकाशित वेळा वेगवेगळ्या आहेत; विशेषतः उत्सवाच्या दिवशी स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-पतलून, स्त्रियांसाठी साड्या, सलवार कमीज किंवा लांब स्कर्ट, खांदे व गुडघे झाकलेले. पादत्राणे प्रवेशद्वारावरील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडूच्या मंदिर-नियमांनुसार, बाहेरील प्रदक्षिणामार्ग आणि प्रांगणांत छायाचित्रणास सामान्यतः परवानगी आहे, पण आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "कोट्टैयूर तंजावूर जिल्ह्यात, कुंभकोणम–स्वामीमलै रस्त्यावर कुंभकोणमपासून सुमारे ५ किमी अंतरावर आहे. कुंभकोणम हे सर्वांत जवळचे रेल्वे स्थानक आणि पर्यटकांसाठी नेहमीचा तळ आहे, आणि तिरुचिरापल्लीत सर्वांत जवळचा मोठा विमानतळ आहे. स्थानिक बस व ऑटोरिक्षा या मार्गावर चालतात."
   }
 }

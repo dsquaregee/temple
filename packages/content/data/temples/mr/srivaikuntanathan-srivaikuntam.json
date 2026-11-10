@@ -1,31 +1,38 @@
 {
   "id": "srivaikuntanathan-srivaikuntam",
   "locale": "mr",
+  "name": "श्रीवैकुंठनाथन पेरुमाळ मंदिर, श्रीवैकुंठम",
   "nativeName": "ஸ்ரீவைகுண்டநாதன் பெருமாள் கோயில், ஸ்ரீவைகுண்டம்",
+  "deity": "श्री वैकुंठनाथन (कळ्ळपिरान) रूपातील विष्णू, देवी वैकुंठवल्ली यांच्यासह — नव तिरुपतींमधील सूर्याचे (सूर्य) मंदिर",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Srivaikuntam",
-    "state": "Tamil Nadu",
+    "city": "श्रीवैकुंठम",
+    "state": "तमिळनाडू",
     "lat": 8.633,
     "lng": 77.917
   },
+  "period": "ताम्रपर्णीवरील पांड्य प्रदेशातील एक दिव्य देश, ज्याची स्तुती नम्माळ्वारांनी नालायिर दिव्य प्रबंधमध्ये केली",
   "century": 8,
+  "dynasty": "पांड्य (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "अति दक्षिणेतील ताम्रपर्णीवर विष्णू वैकुंठाचा स्वामी श्री वैकुंठनाथन म्हणून उभा आहे — नऊ ग्रह-तिरुपतींमधील सूर्य, नम्माळ्वारांनी गायलेला दिव्य देश आणि नऊ नदीकाठच्या मंदिरांतील प्रमुख.",
   "sections": {
-    "history": "Srivaikuntam lies on the north bank of the Tamiraparani, a short way from Tirunelveli, and takes its name from the lord Sri Vaikuntanathan who reclines at its heart, also beloved as Kallapiran. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of the Sun, Surya.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Sri Vaikuntanathan, with the Goddess Vaikuntavalli. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Srivaikuntam the planet is the Sun, Surya, whose grace the pilgrim seeks at the head of the nine.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of the Sun, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "श्रीवैकुंठम तिरुनेलवेलीपासून थोड्या अंतरावर ताम्रपर्णीच्या उत्तर तीरावर आहे, आणि त्याच्या हृदयस्थानी शयन करणाऱ्या प्रभू श्री वैकुंठनाथनवरून त्याला नाव मिळाले आहे; त्याला कळ्ळपिरान म्हणूनही प्रेमाने संबोधले जाते. हा १०८ दिव्य देशांपैकी एक आहे — आळ्वार संतांनी नालायिर दिव्य प्रबंधमध्ये गायलेली विष्णूची निवासस्थाने — आणि नव तिरुपतींपैकी एक आहे, म्हणजे ताम्रपर्णीवरील नऊ मंदिरे, ज्यांपैकी प्रत्येक वैष्णवांचे एक ग्रहमंदिर मानले जाते. नव तिरुपतींमध्ये ते सूर्याचे, म्हणजे सूर्य ग्रहाचे, मंदिर म्हणून पूज्य आहे.",
+    "architecture": "पांड्य प्रदेश आणि त्याच्या नंतरच्या आश्रयदात्यांच्या द्रविड पद्धतीने बांधलेले हे मंदिर गोपुरद्वारातून प्रवेशाचे आहे आणि मूळ विष्णूच्या गर्भगृहाभोवती वसलेले आहे; देवी स्वतःच्या स्वतंत्र गर्भगृहात आहे. येथे प्रभू श्री वैकुंठनाथन म्हणून पूजला जातो, देवी वैकुंठवल्लीसह. स्तंभयुक्त सभागृहे गर्भगृहासमोर उघडतात, दक्षिण टोकाच्या मंदिर पद्धतीप्रमाणे.",
+    "legends": "नव तिरुपती वैष्णवांची नऊ ग्रहमंदिरे म्हणून एकत्र पूजली जातात: कावेरी प्रदेशातील शैव परंपरा नऊ स्वतंत्र नवग्रह मंदिरे राखते, तर येथे ताम्रपर्णीवरील विष्णूच्या नऊ निवासांमध्ये नऊ ग्रहांचा सन्मान केला जातो; ती सर्व आळ्वारांमध्ये अग्रगण्य असलेल्या नम्माळ्वारांनी गायली आहेत, आणि त्यांचे स्वतःचे जन्मस्थान आळ्वारतिरुनगरी त्यांत आहे. श्रीवैकुंठमला ग्रह सूर्य आहे, ज्याची कृपा यात्रेकरू नऊंच्या शिरोभागी शोधतात.",
+    "festivals": "मंदिर महान वैष्णव उत्सव पाळते — वैकुंठ एकादशी, गरुड सेवा, जेव्हा नऊही मंदिरांची एकाच फेरीत पूजा होते, आणि नम्माळ्वार व आळ्वारांचे दिवस — नदीकाठच्या गावांतून मिरवणुकांसह. ताम्रपर्णीचे स्वतःचे उत्सवही आसपासच्या प्रदेशाला आकर्षित करतात.",
+    "experience": "नऊंपैकी एक शांत नदीकाठचा दिव्य देश, जो ताम्रपर्णीच्या काठाने एका तिरुपतीहून दुसऱ्याकडे जाणाऱ्या यात्रेकरूला फळ देतो. सूर्याचे मंदिर म्हणून तो नव तिरुपतींच्या एकाच यात्रेत आपले स्थान घेतो, जी नऊ ग्रहांना विष्णूच्या निवासांमध्ये एकत्र आणते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शन सत्रांसह आणि दुपारच्या बंदसह उघडे; गरुड सेवा व वैकुंठ एकादशीचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सद्य वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "हे ताम्रपर्णीवरील तिरुनेलवेली–तुतुकुडी प्रदेशात, तिरुनेलवेली–तिरुचेंदूर मार्गावर आहे, आणि तिरुनेलवेलीहून रस्त्याने पोहोचता येते; नऊ तिरुपती गावे नदीकाठी एकमेकांच्या जवळ आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.jpg",

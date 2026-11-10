@@ -1,29 +1,36 @@
 {
   "id": "gopalakrishna-kavalampadi",
   "locale": "mr",
+  "name": "गोपालकृष्ण पेरुमाळ मंदिर, तिरुक्कावळम्पाडी",
   "nativeName": "கோபாலகிருஷ்ணப் பெருமாள் கோயில், திருக்காவளம்பாடி",
+  "deity": "गोपालकृष्णन रूपातील विष्णू, रुक्मिणी आणि सत्यभामेसह; थायारही मडवरळ मंगै (सेंगमल नाच्चियार) म्हणून आळवली जाते",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirukkavalampadi (Thirunangur)",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कावळम्पाडी (तिरुनांगूर)",
+    "state": "तमिळनाडू",
     "lat": 11.1806,
     "lng": 79.7836
   },
+  "period": "चोळ प्रदेशातील एक दिव्य देशम, नालायिर दिव्य प्रबंधमध्ये तिरुमंगै आळवारांनी गायलेल्या अकरा तिरुनांगूर देवस्थानांपैकी एक",
   "century": 8,
+  "dynasty": "चोळ प्रदेश (नंतरचे आश्रयदाते)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुनांगूरमधील तिरुक्कावळम्पाडी येथे विष्णूची गोपालकृष्णन म्हणून, पारिजात पृथ्वीवर आणणारा प्रभू म्हणून, उपासना होते — तिरुमंगै आळवारांनी गायलेल्या तिरुनांगूरच्या अकरा दिव्य देशमांपैकी एक.",
   "sections": {
-    "history": "Thirukkavalampadi is one of the eleven Thirunangur Tirupathis, a cluster of Vishnu temples in and around Thirunangur village in Sirkazhi taluk, about 10 km by road south-south-east of Sirkazhi. Each of the eleven is one of the 108 Divya Desams — the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham — in Chola Nadu, and all were sung by Thirumangai Alvar in the Periya Thirumozhi. The presiding lord here is Gopalakrishnan, Krishna, with Rukmini and Satyabhama; sources also name the Thayar as Madavaral Mangai or Sengamala Nachiyar. Its age rests on the Alvar's hymns.",
-    "architecture": "The temple follows the Dravidian plan of the Chola country, with the lord enshrined as Gopalakrishnan beside his consorts Rukmini and Satyabhama. The shrine's identity is bound to its legend of the Parijata, which gives the village its name.",
-    "legends": "The sthala purana links the name to the Parijata, the flowering tree of Indra's garden. Satyabhama longed for it; Indra refused, and Krishna laid waste the garden — kavalam, from the word for a garden — and brought the Parijata to earth, hence Thirukkavalampadi. Another reading takes kavalam to mean an elephant and padi a grazing ground. The eleven Thirunangur temples share a legend: when Shiva's grief became a wild dance, he multiplied into eleven Rudras, and Vishnu, at his request, appeared in eleven forms, each enshrined in a separate temple.",
-    "festivals": "The great occasion is the Thirumangai Alvar Mangalasasana Utsavam in the month of Thai (January–February). On or around the day after Thai Amavasai, the eleven festival images come on Garuda vahanas to Thirunangur, to the Manimadam temple, a Garuda Sevai at which seeing all eleven together is held equal to visiting each.",
-    "experience": "A village shrine set in the paddy country east of Sirkazhi, best visited as part of the Thirunangur circuit of eleven. Pilgrims often time the journey for the Garuda Sevai of Thai, when the eleven lords gather; at other times ask the priests about the Parijata legend and the Alvar's hymns."
+    "history": "तिरुक्कावळम्पाडी हे अकरा तिरुनांगूर तिरुपतींपैकी एक आहे, म्हणजे सिरकाळी तालुक्यातील तिरुनांगूर गावात आणि आसपास असलेल्या विष्णू मंदिरांचा समूह, जो सिरकाळीपासून रस्त्याने सुमारे १० कि.मी. दक्षिण-दक्षिण-पूर्वेस आहे. या अकराही मंदिरांपैकी प्रत्येक चोळ नाडूमधील १०८ दिव्य देशमांपैकी एक आहे — नालायिर दिव्य प्रबंधमध्ये आळवार संतांनी गायलेली विष्णूची निवासस्थाने — आणि सर्वांचे गायन तिरुमंगै आळवारांनी पेरिय तिरुमोळीमध्ये केले आहे. येथील मूळ प्रभू गोपालकृष्णन, म्हणजे कृष्ण, रुक्मिणी आणि सत्यभामेसह आहे; स्रोत थायारचे नावही मडवरळ मंगै किंवा सेंगमल नाच्चियार असे देतात. याचे प्राचीनत्व आळवारांच्या पदांवर आधारित आहे.",
+    "architecture": "मंदिर चोळ प्रदेशातील द्रविड रचनेचे अनुसरण करते; प्रभू गोपालकृष्णन म्हणून आपल्या सहचारिणी रुक्मिणी आणि सत्यभामेच्या शेजारी विराजमान आहे. या देवस्थानाची ओळख पारिजाताच्या त्याच्या आख्यायिकेशी बांधलेली आहे, जिच्यावरून गावाला नाव मिळाले.",
+    "legends": "स्थलपुराण या नावाला पारिजाताशी जोडते, जे इंद्राच्या बागेतील फुलणारे झाड आहे. सत्यभामेला ते हवे होते; इंद्राने नकार दिला, आणि कृष्णाने बाग उद्ध्वस्त केली — कावळम्, बागेसाठी असलेल्या शब्दावरून — आणि पारिजात पृथ्वीवर आणला, म्हणून तिरुक्कावळम्पाडी. दुसरा अर्थ कावळम् म्हणजे हत्ती आणि पाडी म्हणजे चराऊ जमीन असा घेतो. अकरा तिरुनांगूर मंदिरांची एक सामायिक आख्यायिका आहे: शिवाचा शोक जेव्हा उग्र नृत्य बनला, तेव्हा तो अकरा रुद्रांमध्ये विभागला, आणि विष्णू, त्याच्या विनंतीवरून, अकरा रूपांत प्रकट झाला, प्रत्येक एका स्वतंत्र मंदिरात विराजमान.",
+    "festivals": "मोठा प्रसंग म्हणजे थै (जानेवारी–फेब्रुवारी) महिन्यातील तिरुमंगै आळवार मंगळाशासन उत्सवम. थै अमावासैच्या दिवशी किंवा त्याच्या आसपास अकरा उत्सवमूर्ती गरुड वाहनांवर तिरुनांगूरला, मणिमडम मंदिरात येतात; हा गरुड सेवै आहे, ज्यात सर्व अकरा एकत्र पाहणे प्रत्येकाला भेट देण्याइतके मानले जाते.",
+    "experience": "सिरकाळीच्या पूर्वेकडील भातशेतीच्या प्रदेशातील एक खेड्यातील देवस्थान, अकरा तिरुनांगूर मंदिरांच्या फेऱ्याचा भाग म्हणून भेट देण्यास उत्तम. यात्रेकरू अनेकदा थै महिन्यातील गरुड सेवैच्या वेळी प्रवास आखतात, जेव्हा अकरा प्रभू एकत्र येतात; इतर वेळी पुजाऱ्यांना पारिजात आख्यायिका आणि आळवारांच्या पदांविषयी विचारा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukkavalampadi is in the Thirunangur group, about 10 km by road south-east of Sirkazhi in Mayiladuthurai district. The nearest railhead is Sirkazhi, on the Chennai–Mayiladuthurai line; the nearest major airport is Tiruchirappalli, about 160 km away."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शन सत्रांसह आणि मध्यान्हीच्या बंदसह उघडे असते; भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करा.",
+    "gettingThere": "तिरुक्कावळम्पाडी तिरुनांगूर समूहात, मयिलादुतुरै जिल्ह्यातील सिरकाळीपासून रस्त्याने सुमारे १० कि.मी. दक्षिण-पूर्वेस आहे. जवळचे रेल्वे स्थानक सिरकाळी हे चेन्नई–मयिलादुतुरै मार्गावर आहे; जवळचे प्रमुख विमानतळ तिरुचिरापल्ली, सुमारे १६० कि.मी. अंतरावर आहे."
   }
 }

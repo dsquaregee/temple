@@ -1,30 +1,37 @@
 {
   "id": "kumara-brahma-alampur",
   "locale": "mr",
+  "name": "कुमार ब्रह्म मंदिर, आलमपूर",
   "nativeName": "కుమార బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "कुमार ब्रह्मेश्वर (लिंग) रूपातील शिव",
+  "tradition": "शैव",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "आलमपूर",
+    "state": "तेलंगणा",
     "lat": 15.8781,
     "lng": 78.1354
   },
+  "period": "आलमपूरच्या नऊ नवब्रह्म मंदिरांपैकी एक, सातव्या शतकात बदामीच्या चालुक्यांच्या काळात बांधलेले",
   "century": 7,
+  "dynasty": "चालुक्य (बदामी)",
+  "style": "प्रारंभिक चालुक्य, उत्तरी (रेखा-नागर) मंदिर प्रकार",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "आलमपूर येथील स्थळ-संग्रहालयासमोर असलेल्या कुमार ब्रह्म मंदिरात स्तंभयुक्त मुखमंडप आणि समृद्ध कोरीव स्तंभांचे सभागृह जपलेले आहे — तुंगभद्रेच्या काठावरील नऊ प्रारंभिक चालुक्य शिवमंदिरांपैकी एक.",
   "sections": {
-    "history": "Alampur's nine Navabrahma temples are Shiva shrines, each named for a form of Brahma, raised by the Badami Chalukyas on the left bank of the Tungabhadra near its meeting with the Krishna; the standing temples are dated from the middle of the seventh century. Kumara Brahma, whose name means the youthful Brahma, is often placed among the earlier members of the group and is thought to belong to the time of Vikramaditya I, who ruled from about 655 to 681. Like most of its neighbours it no longer receives worship and is protected by the Archaeological Survey of India.",
-    "architecture": "The temple rises on a high platform and is one of only two in the group, with Swarga Brahma, to keep a pillared entrance porch before its main hall. Beyond the hall lies the sanctum, wrapped by an enclosed passage for circumambulation. Its roof sets it apart: where the other shrines carry the projecting antefix over the vestibule as part of the tower, Kumara Brahma is roofed flat. Inside, the pillars are carved with Gajalakshmi, Shiva with Uma, Kubera, elephants and swans, and riders on fabulous beasts, while Vishnu presides over the sanctum doorway amid floral garlands.",
-    "legends": "Tradition holds that Brahma, the creator, performed long penance at Alampur and worshipped Shiva here, and that the nine temples remember the forms in which he did so. Kumara, the youth, is the name given to this shrine — a reminder that the Navabrahma names are devotional titles of the one Shiva, worshipped as Brahmeshwara, the lord whom Brahma adored.",
-    "festivals": "As a protected monument, the temple has no festival of its own. The Alampur precinct comes alive at Maha Shivaratri, when devotees throng the living Bala Brahmeshwara shrine nearby, and at Navaratri and Dasara for the goddess Jogulamba; confirm dates locally.",
-    "experience": "Kumara Brahma stands directly across from the site museum, so it pairs naturally with an hour among the museum's sculptures and inscribed slabs. Step into the hall and let your eyes adjust: the pillar reliefs reward close looking, and the Vishnu on the doorway frames the dim sanctum. The neighbouring Arka, Vira and Vishwa Brahma temples lie a few steps to the north."
+    "history": "आलमपूरची नऊ नवब्रह्म मंदिरे शिवमंदिरे असून प्रत्येकाला ब्रह्माच्या एका रूपाचे नाव आहे; ती बदामीच्या चालुक्यांनी तुंगभद्रेच्या डाव्या तीरावर, तिच्या कृष्णेशी संगमाजवळ उभारली, आणि आज उभ्या असलेल्या मंदिरांचा काळ सातव्या शतकाच्या मध्यापासूनचा मानला जातो. कुमार ब्रह्म, ज्याच्या नावाचा अर्थ तरुण ब्रह्मा असा आहे, समूहातील तुलनेने प्राचीन मंदिरांपैकी मानले जाते आणि सुमारे इ.स. ६५५ ते ६८१ राज्य करणाऱ्या पहिल्या विक्रमादित्याच्या काळातील असावे असे मानले जाते. आपल्या बहुतेक शेजाऱ्यांप्रमाणे येथे आता पूजा होत नाही आणि ते भारतीय पुरातत्त्व सर्वेक्षणाच्या संरक्षणाखाली आहे.",
+    "architecture": "मंदिर उंच अधिष्ठानावर उभे असून समूहातील फक्त दोन मंदिरांपैकी एक आहे — दुसरे स्वर्ग ब्रह्म — ज्यांच्या मुख्य सभागृहासमोर स्तंभयुक्त प्रवेश-मुखमंडप टिकून आहे. सभागृहाच्या पलीकडे गर्भगृह असून त्याभोवती प्रदक्षिणेसाठी बंदिस्त मार्ग आहे. त्याचे छत त्याला वेगळे ठरवते : इतर मंदिरे अंतराळावर पुढे आलेला आमलक-सदृश अलंकार मनोऱ्याचा भाग म्हणून धारण करतात, तर कुमार ब्रह्माचे छत सपाट आहे. आत स्तंभांवर गजलक्ष्मी, उमेसह शिव, कुबेर, हत्ती आणि हंस, तसेच काल्पनिक प्राण्यांवर स्वार झालेले स्वार कोरलेले आहेत, तर गर्भगृहाच्या द्वारावर पुष्पमालांच्या मध्ये विष्णू विराजमान आहे.",
+    "legends": "परंपरा सांगते की सृष्टिकर्ता ब्रह्माने आलमपूर येथे दीर्घ तपश्चर्या केली आणि येथे शिवाची पूजा केली, आणि ज्या रूपांत त्याने ती केली त्यांची आठवण नऊ मंदिरे जपतात. कुमार, म्हणजे तरुण, हे या मंदिराला दिलेले नाव आहे — नवब्रह्म नावे ही एकाच शिवाची भक्तिपर बिरुदे आहेत, ज्याची ब्रह्मेश्वर, म्हणजे ब्रह्माने आराधिलेला स्वामी, म्हणून पूजा होते, याची ही आठवण आहे.",
+    "festivals": "संरक्षित स्मारक असल्याने मंदिराचा स्वतःचा कोणताही उत्सव नाही. आलमपूर परिसर महाशिवरात्रीला जिवंत होतो, जेव्हा भक्त जवळील पूजित बाल ब्रह्मेश्वर मंदिरात गर्दी करतात, तसेच जोगुळांबा देवीसाठी नवरात्र व दसऱ्याला; तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "कुमार ब्रह्म स्थळ-संग्रहालयाच्या अगदी समोर उभे आहे, त्यामुळे संग्रहालयातील शिल्पे व शिलालेख-फलकांमध्ये घालवलेल्या एका तासासोबत ते सहज जोडले जाते. सभागृहात पाऊल टाका आणि डोळ्यांना सवय होऊ द्या : स्तंभावरील शिल्पपट्ट जवळून पाहणाऱ्याला पुरस्कृत करतात, आणि द्वारावरील विष्णू अंधुक गर्भगृहाला चौकट देतो. शेजारील अर्क, वीर आणि विश्व ब्रह्म मंदिरे काही पावले उत्तरेला आहेत."
   },
   "visit": {
-    "timings": "The Navabrahma precinct is open to visitors through the day; as an ASI-protected site, hours and any entry charges for the precinct and museum should be confirmed locally.",
-    "dressCode": "Modest dress is appreciated across the precinct, which includes living shrines; remove footwear where asked.",
-    "photography": "Photography is generally allowed at the monuments; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away; the temple stands within the Navabrahma precinct by the Tungabhadra, opposite the site museum."
+    "timings": "नवब्रह्म परिसर दिवसभर अभ्यागतांसाठी खुला असतो; भारतीय पुरातत्त्व सर्वेक्षणाने संरक्षित स्थळ असल्याने परिसर व संग्रहालयाच्या वेळा आणि कोणतेही प्रवेश शुल्क स्थानिक पातळीवर खात्री करून घ्यावेत.",
+    "dressCode": "संपूर्ण परिसरात, जिथे पूजित मंदिरेही आहेत, साधा पोशाख अपेक्षित आहे; सांगितल्या ठिकाणी पादत्राणे काढावीत.",
+    "photography": "स्मारकांवर छायाचित्रणास सामान्यतः परवानगी आहे; तिवई किंवा व्यावसायिक चित्रीकरणासाठी स्थळ प्राधिकरणांची परवानगी लागू शकते.",
+    "gettingThere": "आलमपूर जोगुळांबा गद्वाल जिल्ह्यात, कर्नूलपासून सुमारे २५ कि.मी. आणि हैदराबादच्या दक्षिणेला सुमारे २२० कि.मी. अंतरावर, हैदराबाद–बेंगळुरू महामार्गाला (राष्ट्रीय महामार्ग ४४) लागूनच आहे. हैदराबाद–कर्नूल मार्गावरील आलमपूर रोड रेल्वे स्थानक सुमारे ९ कि.मी. अंतरावर आहे; मंदिर तुंगभद्रेकाठी नवब्रह्म परिसरात, स्थळ-संग्रहालयासमोर उभे आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kumara-brahma-alampur.jpg",

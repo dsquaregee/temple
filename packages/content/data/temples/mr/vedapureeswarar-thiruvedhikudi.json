@@ -1,30 +1,37 @@
 {
   "id": "vedapureeswarar-thiruvedhikudi",
   "locale": "mr",
+  "name": "वेदपुरीश्वरर मंदिर, तिरुवेदिकुडी",
   "nativeName": "வேதபுரீஸ்வரர் கோயில், திருவேதிகுடி",
+  "deity": "वेदपुरीश्वरर (वाळैमडुनाथर) रूपातील शिव, देवी मंगयर्करसी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thiruvedhikudi",
-    "state": "Tamil Nadu",
+    "city": "तिरुवेदिकुडी",
+    "state": "तमिळनाडू",
     "lat": 10.856,
     "lng": 79.137
   },
+  "period": "तिरुवैयारूच्या सप्तस्थानमपैकी चौथे मंदिर; नवव्या शतकातील चोळकालीन दगडी बांधकाम, तेवारममध्ये गायलेले (सातवे शतक)",
   "century": 7,
+  "dynasty": "चोळ; तंजावूर नायकांच्या काळापर्यंत गोपुरांची भर",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "saptha-sthanam"
   ],
+  "summary": "तिरुवेदिकुडी येथे शिव वेदांचे स्वामी आहेत; वेदघोष ऐकण्यासाठी डोके कलते करणारा गणेश त्यांच्या सेवेत आहे. नंदीच्या विवाहासाठी या गावाने वैदिक पुरोहित पाठवले असे सांगितले जाते.",
   "sections": {
-    "history": "Thiruvedhikudi is a small village south of the Kaveri, a few kilometres from Thiruvaiyaru, whose very name ties it to the Vedas. Appar and Sambandar sang of its lord, and the temple is a Paadal Petra Sthalam of the Tevaram. The oldest masonry of the present shrine dates from the Chola period of the ninth century, and gopurams and outer structures were added over the following centuries, up to the time of the Thanjavur Nayaks. The temple is cared for today by the Hindu Religious and Charitable Endowments Department of Tamil Nadu.",
-    "architecture": "The Vedas are written into the building itself. Four Nandis are placed on the outer wall and on the vimana over the sanctum, one facing each of the four directions, and they are read as the four Vedas keeping watch over the lord. In the maha mandapam sits Veda Vinayakar, a Ganesha whose head is tilted to one side as though listening to Vedic recitation. The goddess Mangayarkarasi has a separate shrine in the outer courtyard, approached through a Vasantha mandapam.",
-    "legends": "Tradition holds that Brahma, Surya and Kubera each worshipped the lord here and were blessed, and the village is remembered as a place of Brahma's worship. The temple story also links it with the Vedas restored to the world after Vishnu, taking the horse-headed form of Hayagriva, recovered them from the demon who had carried them off beneath the ocean. The lord's other name, Vazhaimadunathar, is tied in local tradition to a sacred pool and the banana plant.",
-    "festivals": "In the Saptha Sthanam festival of Chithirai (April–May), the procession reaches Thiruvedhikudi after Thiruchotruthurai. Tradition holds that the village, true to its name, sent the Vedic priests who chanted at Nandi's wedding. The temple is also regarded as a place to pray for a good marriage. Maha Shivaratri and the monthly Pradosham are observed. Confirm dates locally.",
-    "experience": "Pause in the maha mandapam before Veda Vinayakar and notice the tilt of his head, then walk around the sanctum to find the Nandis facing the four quarters. Families come here to pray for an auspicious marriage, often going on to the goddess Mangayarkarasi in her own shrine. The village is quiet, and the temple combines well with Thiruchotruthurai and Thirukandiyur."
+    "history": "तिरुवेदिकुडी हे कावेरीच्या दक्षिणेकडील, तिरुवैयारूपासून काही किलोमीटरवरील एक लहानसे गाव असून त्याचे नावच त्याला वेदांशी जोडते. अप्पर आणि संबंधर यांनी येथील स्वामींचे गायन केले, आणि हे मंदिर तेवारममधील पाडल पेट्र स्थळ आहे. सध्याच्या मंदिरातील सर्वांत जुने दगडी बांधकाम नवव्या शतकातील चोळकाळाचे आहे; पुढील शतकांत, तंजावूरच्या नायकांच्या काळापर्यंत, गोपुरे आणि बाह्य रचना जोडल्या गेल्या. आज हे मंदिर तमिळनाडूच्या हिंदू धार्मिक व धर्मादाय देणगी विभागाच्या देखरेखीखाली आहे.",
+    "architecture": "वेद जणू वास्तूतच लिहिलेले आहेत. बाहेरच्या भिंतीवर आणि गर्भगृहावरील विमानावर चार नंदी ठेवलेले आहेत, प्रत्येक एकेका दिशेकडे तोंड करून; ते स्वामींचे रक्षण करणारे चार वेद मानले जातात. महामंडपात वेद विनायकर बसले आहेत — वेदपठण ऐकत असल्याप्रमाणे डोके एका बाजूला कलते असलेला गणेश. देवी मंगयर्करसी यांचे स्वतंत्र मंदिर बाह्य प्रांगणात असून तेथे वसंत मंडपातून जावे लागते.",
+    "legends": "परंपरेनुसार ब्रह्मा, सूर्य आणि कुबेर यांनी येथे प्रत्येकाने स्वामींची पूजा केली आणि आशीर्वाद मिळवला; हे गाव ब्रह्मदेवाच्या पूजेचे स्थान म्हणून स्मरणात आहे. मंदिराची कथा या स्थळाला वेदांच्या पुनर्प्राप्तीशीही जोडते — विष्णूंनी हयग्रीव या अश्वमुखी रूपात, समुद्राच्या तळाशी वेद पळवून नेणाऱ्या असुराकडून ते परत मिळवले आणि जगाला परत दिले. स्वामींचे दुसरे नाव वाळैमडुनाथर हे स्थानिक परंपरेत एका पवित्र कुंडाशी आणि केळीच्या झाडाशी जोडले जाते.",
+    "festivals": "चैत्र (तमिळ चित्तिरै, एप्रिल–मे) महिन्यातील तिरुवैयारूच्या सप्तस्थान उत्सवात मिरवणूक तिरुचोत्रुतुरैनंतर तिरुवेदिकुडी येथे पोहोचते. परंपरा सांगते की, नावाला साजेसे, या गावाने नंदीच्या विवाहात मंत्रघोष करणारे वैदिक पुरोहित पाठवले. चांगल्या विवाहासाठी प्रार्थना करण्याचे स्थान म्हणूनही हे मंदिर मानले जाते. महाशिवरात्री आणि मासिक प्रदोष पाळले जातात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "महामंडपात वेद विनायकरांसमोर थांबा आणि त्यांच्या कलत्या डोक्याकडे लक्ष द्या; मग गर्भगृहाभोवती फिरून चार दिशांकडे तोंड करून बसलेले नंदी शोधा. शुभ विवाहासाठी प्रार्थना करण्यास कुटुंबे येथे येतात, आणि अनेकदा पुढे देवी मंगयर्करसी यांच्या स्वतंत्र मंदिरात जातात. गाव शांत आहे, आणि हे मंदिर तिरुचोत्रुतुरै व तिरुकंडियूर यांच्यासह एकत्र पाहण्यास उत्तम आहे."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thiruvedhikudi lies on the southern side of the Kaveri, about 7 km by road from Thiruvaiyaru and roughly 10 km north of Thanjavur; local buses, autos and taxis serve it from both towns. Thanjavur is the nearest major railway station, and Tiruchirappalli International Airport, about 60 km away, is the nearest airport."
+    "timings": "साधारणतः सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते, मधल्या वेळी दुपारचा विराम असतो; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्ग व प्रांगणांत छायाचित्रणास सामान्यतः परवानगी आहे, पण तमिळनाडूतील मंदिरांच्या नियमांनुसार आतल्या गर्भगृहात ते कडकपणे निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र काढण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुवेदिकुडी कावेरीच्या दक्षिण बाजूस, तिरुवैयारूपासून रस्त्याने सुमारे ७ कि.मी. आणि तंजावूरच्या सुमारे १० कि.मी. उत्तरेस आहे; दोन्ही गावांतून स्थानिक बस, ऑटो आणि टॅक्सी उपलब्ध आहेत. तंजावूर हे जवळचे मुख्य रेल्वे स्थानक असून सुमारे ६० कि.मी. अंतरावरील तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ हे जवळचे विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.jpg",

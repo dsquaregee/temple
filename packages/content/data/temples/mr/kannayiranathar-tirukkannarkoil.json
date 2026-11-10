@@ -1,29 +1,36 @@
 {
   "id": "kannayiranathar-tirukkannarkoil",
   "locale": "mr",
+  "name": "कण्णायिरनाथर मंदिर, तिरुक्कण्णारकोइल",
   "nativeName": "திருக்கண்ணார்கோயில் கண்ணாயிரநாதர் கோயில்",
+  "deity": "कण्णायिरनाथर (कण्णायिरम उडैयार) रूपातील शिव, आणि देवी मुरुगु वळर कोथै नायकी (कोथै नायकी)",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम",
   "location": {
-    "city": "Kurumanakkudi, near Vaitheeswaran Koil",
-    "state": "Tamil Nadu",
+    "city": "कुरुमानक्कुडी, वैथीश्वरन कोइलजवळ",
+    "state": "तमिळनाडू",
     "lat": 11.17,
     "lng": 79.73
   },
+  "period": "तेवाराम कालखंड (सातव्या शतकात गायलेले); नंतरचे चोळ संरचित मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मयिलाडुतुरै भागात वैथीश्वरन कोइलजवळ असलेले कुरुमानक्कुडी — ज्याला तिरुक्कण्णारकोइल किंवा कण्णारकोविल असेही म्हणतात — येथे शिवाचा कण्णायिरनाथर — कण्णायिरम उडैयार — म्हणून, देवी मुरुगु वळर कोथै नायकीसह सन्मान केला जातो. तिरुग्नान संबंदर यांनी गायलेले हे पाडल पेट्र स्थलम, उत्तर कावेरी त्रिभुज प्रदेशातील एक शांत देवालय आहे.",
   "sections": {
-    "history": "Kurumanakkudi — Tirukkannarkoil, also Kannarkovil — lies about 5 km from Vaitheeswaran Koil and 8 km from Sirkazhi, in Tarangambadi taluk of Mayiladuthurai district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted among the Shiva shrines on the northern bank of the Kaveri. The stone temple is of the Chola period and later. (Older listings give the district as Nagapattinam, from which Mayiladuthurai was later carved out.)",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Kannayiranathar — Kannayiram Udayar — in the sanctum, with the goddess Murugu Valar Kothai Nayaki (also Kothai Nayaki, Sugandha Kundalambikai) in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram are typical of the Shiva temples of the northern delta near Sirkazhi.",
-    "legends": "Shiva is worshipped here as Kannayiranathar — Kannayiram Udayar, 'the lord of the thousand eyes' — a name that echoes the story of Indra of the thousand eyes, who by tradition worshipped at the delta shrines. The goddess is praised as Murugu Valar Kothai Nayaki, 'she whose garland breathes fragrance,' and as Sugandha Kundalambikai. As with many smaller delta shrines, the fuller sthala purana survives chiefly in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Vaitheeswaran Koil–Sirkazhi stretch of the northern Kaveri include Tirukkannarkoil among their stops.",
-    "experience": "At Tirukkannarkoil the pilgrim comes to a quiet shrine of the thousand-eyed lord. Before Kannayiranathar and Murugu Valar Kothai Nayaki, in the green country near Vaitheeswaran Koil, the visitor finds the unhurried grace of a Tevaram temple of the northern Kaveri delta."
+    "history": "कुरुमानक्कुडी — तिरुक्कण्णारकोइल, कण्णारकोविलदेखील — हे वैथीश्वरन कोइलपासून सुमारे ५ कि.मी. आणि सिरकाळीपासून ८ कि.मी. अंतरावर, मयिलाडुतुरै जिल्ह्याच्या तरंगंबाडी तालुक्यात आहे. हे पाडल पेट्र स्थलम असून, तिरुग्नान संबंदर यांनी तेवारममध्ये गायलेले आणि कावेरीच्या उत्तर तीरावरील शिव देवालयांत गणले जाते. पाषाण मंदिर चोळ व नंतरच्या काळातील आहे. (जुन्या नोंदींमध्ये जिल्हा नागपट्टिनम दिला आहे, ज्यातून नंतर मयिलाडुतुरै वेगळा केला गेला.)",
+    "architecture": "उत्तर त्रिभुज प्रदेशातील द्रविड देवालय असलेल्या या मंदिराच्या गर्भगृहात कण्णायिरनाथर — कण्णायिरम उडैयार — विराजमान आहेत, तर देवी मुरुगु वळर कोथै नायकी (कोथै नायकी, सुगंध कुंडलांबिकैदेखील) आपल्या स्वतंत्र देवालयात, एक नंदी व प्राकारात परिवार देवता आहेत. भिंतीबंद प्रांगण व साधा गोपुर हे सिरकाळीजवळील उत्तर त्रिभुजातील शिव मंदिरांचे वैशिष्ट्य आहे.",
+    "legends": "येथे शिवाची पूजा कण्णायिरनाथर — कण्णायिरम उडैयार, 'सहस्र नेत्रांचा स्वामी' — म्हणून केली जाते, हे नाव सहस्र नेत्रांच्या इंद्राच्या कथेचे प्रतिध्वनित करते, ज्याने परंपरेनुसार त्रिभुजातील देवालयांत पूजा केली. देवीची 'जिच्या माळेतून सुगंध दरवळतो' अशी मुरुगु वळर कोथै नायकी म्हणून आणि सुगंध कुंडलांबिकै म्हणून स्तुती केली जाते. अनेक छोट्या त्रिभुज देवालयांप्रमाणेच, येथील अधिक विस्तृत स्थलपुराण मुख्यतः स्थानिक परंपरा व संबंदरांच्या पद्यांत टिकून आहे.",
+    "festivals": "मंदिर मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्र आणि कार्तिकैतील सोमवार, प्रदोष पूजेसह, गावातील देवालयाच्या शांत प्रमाणात पाळते. उत्तर कावेरीच्या वैथीश्वरन कोइल–सिरकाळी पट्ट्यावरील यात्रेकरू तिरुक्कण्णारकोइलचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "तिरुक्कण्णारकोइल येथे यात्रेकरू सहस्र नेत्रांच्या स्वामीच्या शांत देवालयात येतो. वैथीश्वरन कोइलजवळील हिरव्यागार प्रदेशात कण्णायिरनाथर व मुरुगु वळर कोथै नायकीसमोर, अभ्यागताला उत्तर कावेरी त्रिभुज प्रदेशातील एका तेवाराम मंदिराची निवांत कृपा लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kurumanakkudi (Tirukkannarkoil) lies about 5 km from Vaitheeswaran Koil and 8 km from Sirkazhi, in Tarangambadi taluk of Mayiladuthurai district; a signposted branch road off the Vaitheeswarankoil–Mayiladuthurai route leads to it. Vaitheeswaran Koil and Sirkazhi are the nearest rail heads, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा दुपारनंतरपासून संध्याकाळपर्यंत उघडे; वेळा स्थानिक पातळीवर तपासा, विशेषतः सणाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे व गुडघे झाकलेले; प्रवेशद्वारावर पादत्राणे ठेवली जातात.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत सामान्यतः छायाचित्रणास परवानगी आहे पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "कुरुमानक्कुडी (तिरुक्कण्णारकोइल) हे वैथीश्वरन कोइलपासून सुमारे ५ कि.मी. आणि सिरकाळीपासून ८ कि.मी. अंतरावर, मयिलाडुतुरै जिल्ह्याच्या तरंगंबाडी तालुक्यात आहे; वैथीश्वरनकोइल–मयिलाडुतुरै मार्गावरील फलक लावलेला फाटा त्याकडे जातो. वैथीश्वरन कोइल व सिरकाळी ही जवळची रेल्वे स्थानके असून, गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "nageshwar-dwarka",
   "locale": "mr",
+  "name": "नागेश्वर ज्योतिर्लिंग मंदिर, द्वारका",
   "nativeName": "श्री नागेश्वर ज्योतिर्लिंग मंदिर",
+  "deity": "नागेश्वर, सर्पांचा स्वामी, या रूपातील शिव — बारा ज्योतिर्लिंगांपैकी एक",
+  "tradition": "शैव",
   "location": {
-    "city": "Near Dwarka",
-    "state": "Gujarat",
+    "city": "द्वारकेजवळ",
+    "state": "गुजरात",
     "lat": 22.336,
     "lng": 69.087
   },
+  "period": "पुराणपरंपरेतील दारुकावनातील ज्योतिर्लिंग; सध्याचे मंदिर विसाव्या शतकाच्या उत्तरार्धात पुनर्बांधलेले",
   "century": 20,
+  "dynasty": "भाविकांनी केलेली आधुनिक पुनर्बांधणी",
+  "style": "आधुनिक उत्तर भारतीय (नागर-प्रेरित)",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "द्वारका आणि बेट द्वारका यांना जोडणाऱ्या वाऱ्याच्या झोताखालील किनारी रस्त्यावर, नागेश्वर शिवाचा सर्पांचा स्वामी म्हणून सन्मान करते; हे दारुकावनातील ज्योतिर्लिंग आहे, जेथे शिवपुराण सांगते की त्यांनी आपला भक्त सुप्रिय याचे रक्षण केले.",
   "sections": {
-    "history": "The Dvadasha Jyotirlinga Stotram names among the twelve Jyotirlingas \"Nagesha in Darukavana,\" the forest of Daruka, and a long tradition places that forest on the coast of Saurashtra near Dwarka, the city of Krishna. The shrine here stands on the flat, open land between Dwarka and the harbour for Bet Dwarka, and pilgrims to the Char Dham seat of Dwarka have long made it part of their round. The present temple is a modern building, rebuilt by devotees in the late twentieth century around the ancient linga. Devotion to Nageshwara is shared across India: Aundha Nagnath in Maharashtra and Jageshwar in Uttarakhand are also revered by many as the Nageshwar Jyotirlinga, and each is honoured by its own pilgrims.",
-    "architecture": "The temple is a modern structure in a North Indian manner, a pale spired shrine with a pillared hall that leads to the sanctum. The linga is of the stone known as Dwarka shila, marked with small natural discs like chakras, and is honoured as the Lord of Serpents, Shiva who wears the cobra as an ornament. Outside, the grounds are dominated by a great seated image of Shiva about twenty-five metres high, visible across the level countryside long before the temple itself comes into view.",
-    "legends": "The Shiva Purana tells of the demon Daruka, who ruled the forest that bore his name and terrorised the people around it. He seized a devout merchant named Supriya with his companions and held them captive. Unbroken, Supriya led his fellow prisoners in chanting the name of Shiva, and the Lord appeared in their midst, destroyed the demon and freed his devotees. At their prayer he remained in that place as Nageshwara, with the goddess as Nageshwari, to protect all who call on him.",
-    "festivals": "Maha Shivaratri is the great festival, with night-long worship and abhishekam of the linga. The month of Shravan, especially its Mondays, brings a steady stream of pilgrims, many of whom combine the visit with Dwarkadhish and Bet Dwarka. Confirm dates locally.",
-    "experience": "Most pilgrims reach Nageshwar on the road from Dwarka, the giant figure of Shiva rising first over the scrubland. Inside, the hall is quiet and plain, and the linga is bathed and garlanded through the day. Many offer abhishekam here, then continue to Gopi Talav and the boat crossing to Bet Dwarka, completing a day spent between the shrines of Shiva and Krishna."
+    "history": "द्वादश ज्योतिर्लिंग स्तोत्रम बारा ज्योतिर्लिंगांमध्ये \"दारुकावनातील नागेश\" असे नाव घेते, म्हणजे दारुकाचे वन, आणि दीर्घ परंपरा ते वन कृष्णाच्या नगरी द्वारकेजवळ सौराष्ट्राच्या किनाऱ्यावर असल्याचे मानते. येथील क्षेत्र द्वारका आणि बेट द्वारकेच्या बंदराच्या मधील सपाट, मोकळ्या जमिनीवर उभे आहे, आणि चार धामांपैकी द्वारकेच्या यात्रेकरूंनी हे स्थान दीर्घकाळ आपल्या यात्रेचा भाग केले आहे. सध्याचे मंदिर आधुनिक इमारत असून विसाव्या शतकाच्या उत्तरार्धात भाविकांनी प्राचीन लिंगाभोवती ते पुनर्बांधले. नागेश्वराची भक्ती संपूर्ण भारतात सामायिक आहे: महाराष्ट्रातील औंढा नागनाथ आणि उत्तराखंडातील जागेश्वरही अनेकांना नागेश्वर ज्योतिर्लिंग म्हणून पूज्य आहेत, आणि प्रत्येकाचा सन्मान त्याचे स्वतःचे यात्रेकरू करतात.",
+    "architecture": "मंदिर उत्तर भारतीय शैलीतील आधुनिक रचना आहे, फिकट रंगाचे शिखरयुक्त मंदिर असून स्तंभयुक्त मंडप गाभाऱ्याकडे नेतो. लिंग द्वारका शिला म्हणून ओळखल्या जाणाऱ्या दगडाचे असून त्यावर चक्रांसारख्या लहान नैसर्गिक चकत्या आहेत, आणि सर्पांचा स्वामी, नागाला अलंकार म्हणून धारण करणारा शिव, म्हणून त्याचा सन्मान केला जातो. बाहेर, आवारात सुमारे पंचवीस मीटर उंचीची शिवाची भव्य आसनस्थ मूर्ती आहे, जी मंदिर दृष्टीस पडण्यापूर्वीच सपाट प्रदेशातून दूरवरून दिसते.",
+    "legends": "शिवपुराण दारुका नावाच्या राक्षसाची कथा सांगते, जो त्याच्या नावाने ओळखल्या जाणाऱ्या वनावर राज्य करत होता आणि आसपासच्या लोकांना त्रास देत होता. त्याने सुप्रिय नावाच्या एका धर्मनिष्ठ व्यापाऱ्याला त्याच्या सोबत्यांसह पकडून बंदिवासात ठेवले. खचून न जाता सुप्रियाने आपल्या सहकारी कैद्यांना शिवनामाचा जप करण्यात नेतृत्व दिले, आणि भगवान त्यांच्यामध्ये प्रकट झाले, त्यांनी राक्षसाचा नाश केला आणि आपल्या भक्तांना मुक्त केले. त्यांच्या प्रार्थनेनुसार ते त्या स्थानी नागेश्वर म्हणून, देवीसह नागेश्वरी म्हणून, आपल्याला हाक मारणाऱ्या सर्वांचे रक्षण करण्यासाठी राहिले.",
+    "festivals": "महाशिवरात्र हा महान उत्सव आहे, ज्यात रात्रभर पूजा आणि लिंगाचा अभिषेक होतो. श्रावण महिना, विशेषतः त्याचे सोमवार, यात्रेकरूंचा अखंड ओघ आणतो; त्यापैकी अनेक जण द्वारकाधीश आणि बेट द्वारकेच्या दर्शनासह ही भेट जोडतात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "बहुतेक यात्रेकरू द्वारकेहून येणाऱ्या रस्त्याने नागेश्वरला पोहोचतात, झुडपी प्रदेशावर प्रथम शिवाची विशाल मूर्ती उंच दिसते. आत मंडप शांत आणि साधा आहे, आणि दिवसभर लिंगाला स्नान आणि हार अर्पण केले जातात. अनेक जण येथे अभिषेक अर्पण करतात, मग गोपी तलाव आणि बेट द्वारकेला जाणाऱ्या नौकेकडे पुढे जातात, आणि शिव व कृष्ण यांच्या मंदिरांदरम्यान घालवलेल्या एका दिवसाची पूर्तता करतात."
   },
   "visit": {
-    "timings": "Open daily from early morning to evening, with a midday pause; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering.",
-    "photography": "Photography is generally not permitted inside the sanctum; the statue and grounds may usually be photographed. Follow posted rules and staff guidance.",
-    "gettingThere": "Nageshwar is about 16 km from Dwarka in Devbhumi Dwarka district, Gujarat, on the road towards Okha and Bet Dwarka. Dwarka has the nearest railway station; the nearest airports are Porbandar (about 100 km) and Jamnagar (about 130 km)."
+    "timings": "दररोज पहाटेपासून संध्याकाळपर्यंत उघडे असते, दुपारी विराम असतो; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले असावेत; प्रवेश करण्यापूर्वी पादत्राणे काढावीत.",
+    "photography": "गाभाऱ्यात छायाचित्रणास साधारणपणे परवानगी नाही; मूर्ती आणि आवाराचे छायाचित्र सहसा घेता येते. लावलेले नियम आणि कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "नागेश्वर गुजरातमधील देवभूमी द्वारका जिल्ह्यात, ओखा आणि बेट द्वारकेकडे जाणाऱ्या रस्त्यावर, द्वारकेपासून सुमारे १६ किमी अंतरावर आहे. द्वारकेत सर्वांत जवळचे रेल्वे स्थानक आहे; सर्वांत जवळची विमानतळे पोरबंदर (सुमारे १०० किमी) आणि जामनगर (सुमारे १३० किमी) आहेत."
   }
 }

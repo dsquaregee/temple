@@ -1,29 +1,36 @@
 {
   "id": "padikkasu-alagaputhur",
   "locale": "mr",
+  "name": "पडिकासु नाथर मंदिर, अरिसिलकरैपुदूर (अळगपुत्तूर)",
   "nativeName": "அரிசிற்கரைப்புத்தூர் படிகாசு நாதர் (ஸ்வர்ணபுரீஸ்வரர்) கோயில்",
+  "deity": "पडिकासु नाथर (स्वर्णपुरीश्वर, दररोज सोन्याचे नाणे देणारा प्रभू) रूपातील शिव, देवी सौंदर्य नायकी (अळगम्मै) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम",
   "location": {
-    "city": "Alagaputhur (Arisilkaraipudur), near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "अळगपुत्तूर (अरिसिलकरैपुदूर), कुंभकोणमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9303,
     "lng": 79.4295
   },
+  "period": "तेवारम काळ (इसवी सनाच्या सातव्या शतकात स्तुतिगायन); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमजवळील अळगपुत्तूर, म्हणजेच अरिसिलकरैपुदूर, येथे शिवाची पडिकासु नाथर — स्वर्णपुरीश्वर — या रूपात देवी सौंदर्य नायकीसह पूजा होते. संबंधर, अप्पर आणि सुंदरर यांनी स्तुती केलेले हे पाडल पेट्र स्थळम पुगळ तुणै नायनार यांचे जन्मस्थान आहे; दुष्काळात प्रभूने त्यांना मंदिराच्या पायरीवर दररोज एक सोन्याचे नाणे दिले, असे सांगितले जाते — तेच ‘पडिकासु’, ज्यामुळे देवाला हे कोमल नाव मिळाले.",
   "sections": {
-    "history": "Alagaputhur, also called Arisilkaraipudur for its situation on the bank of the Arisil river, lies about 6–7 km from Kumbakonam in Thanjavur district. It is a Paadal Petra Sthalam, revered in the Tevaram, with hymns by Tirugnana Sambandar, Appar and Sundarar. The village is cherished as the birthplace of Pugazh Thunai Nayanar, one of the sixty-three Nayanmars, whose story is woven into the temple's own name. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Padikasu Nathar — also Swarnapureeswarar, 'the lord of the golden city' — in the sanctum, with the goddess Soundara Nayaki, also Azhagammai, in her own shrine. A Nandi and the parivara devatas complete the plan; the sthala vriksham is the vilva, and the sacred tank is the Amirtha Pushkarini. The temple steps, where the gold coin appeared, are themselves part of its sanctity.",
-    "legends": "The great legend is that of Pugazh Thunai Nayanar, a poor and devout Shaiva of this village who performed the daily abhishekam of the lord without fail. When a terrible famine came and he grew weak with hunger, Shiva, unwilling to let his devotee's service lapse, placed a single gold coin — a padikasu — on the temple step each day, enough to sustain him and continue the worship. From this grace the lord is praised as Padikasu Nathar, and the name Swarnapureeswarar, lord of the golden city, keeps the memory of that golden mercy.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), the festival of Pugazh Thunai Nayanar, and the regular Pradosha and Karthikai observances. Devotees who honour the sixty-three Nayanmars and the Paadal Petra temples of the Kaveri include Alagaputhur among their pilgrimages.",
-    "experience": "At Alagaputhur the pilgrim comes to a shrine of pure tenderness, where the lord fed his starving devotee with a daily coin of gold. Before Padikasu Nathar and Soundara Nayaki, standing near the steps where the padikasu appeared, the visitor feels the nearness of a god who would not let devotion fail for want of bread — a small temple rich in one of Shaivism's most beloved stories of grace."
+    "history": "अळगपुत्तूर, अरिसिल नदीच्या काठावर वसलेले असल्यामुळे अरिसिलकरैपुदूर या नावानेही ओळखले जाते, हे तंजावूर जिल्ह्यात कुंभकोणमपासून सुमारे ६–७ कि.मी. अंतरावर आहे. हे तेवारममध्ये पूजनीय मानलेले पाडल पेट्र स्थळम असून तिरुज्ञान संबंधर, अप्पर आणि सुंदरर यांनी येथे स्तोत्रे गायली आहेत. हे गाव तिरसष्ट नायनमारांपैकी एक असलेल्या पुगळ तुणै नायनार यांचे जन्मस्थान म्हणून प्रिय आहे; त्यांची कथा मंदिराच्या नावातच गुंफलेली आहे. हे दगडी मंदिर चोळ काळातील व त्यानंतरचे आहे.",
+    "architecture": "हे द्रविड शैलीचे कावेरी खोऱ्यातील मंदिर आहे; गर्भगृहात पडिकासु नाथर — म्हणजेच स्वर्णपुरीश्वर, ‘सुवर्णनगरीचा प्रभू’ — विराजमान आहेत, तर देवी सौंदर्य नायकी, म्हणजेच अळगम्मै, स्वतंत्र मंदिरात आहेत. नंदी आणि परिवार देवता आराखडा पूर्ण करतात; स्थलवृक्ष बिल्व आहे आणि पवित्र तीर्थ अमृत पुष्करिणी आहे. सोन्याचे नाणे ज्या पायऱ्यांवर प्रकटले, त्या मंदिराच्या पायऱ्याही येथील पावित्र्याचा भाग आहेत.",
+    "legends": "मुख्य आख्यायिका पुगळ तुणै नायनारांची आहे. ते या गावातील गरीब व भक्तिमान शैव होते आणि प्रभूचा दैनंदिन अभिषेक न चुकता करीत. भीषण दुष्काळ पडला आणि ते भुकेने क्षीण झाले, तेव्हा आपल्या भक्ताची सेवा खंडित होऊ नये म्हणून शिवाने दररोज मंदिराच्या पायरीवर एक सोन्याचे नाणे — पडिकासु — ठेवले; ते त्यांना जगवण्यासाठी आणि पूजा चालू ठेवण्यासाठी पुरेसे होते. या कृपेमुळे प्रभूची पडिकासु नाथर म्हणून स्तुती केली जाते, आणि स्वर्णपुरीश्वर — सुवर्णनगरीचा प्रभू — हे नाव त्या सुवर्णमय करुणेची आठवण जपते.",
+    "festivals": "मंदिरात माघी (मासी) महिन्यात (फेब्रुवारी–मार्च) महाशिवरात्री, पुगळ तुणै नायनारांचा उत्सव तसेच नेहमीचे प्रदोष आणि कार्तिकै उत्सव साजरे होतात. तिरसष्ट नायनमार आणि कावेरीकाठच्या पाडल पेट्र मंदिरांना वंदन करणारे भक्त आपल्या यात्रेत अळगपुत्तूरचा समावेश करतात.",
+    "experience": "अळगपुत्तूर येथे यात्रेकरू निखळ करुणेच्या स्थानी येतो, जिथे प्रभूने आपल्या उपाशी भक्ताला दररोज सोन्याचे नाणे देऊन पोसले. पडिकासु नाथर आणि सौंदर्य नायकी यांच्यासमोर, ज्या पायऱ्यांवर पडिकासु प्रकटले त्यांच्याजवळ उभे राहिले असता, भाकरीअभावी भक्ती कोमेजू देणार नाही अशा देवाच्या सान्निध्याची जाणीव होते — शैव परंपरेतील कृपेच्या सर्वांत प्रिय कथांपैकी एकाने समृद्ध असे हे छोटे मंदिर आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Alagaputhur (Arisilkaraipudur) is about 6–7 km from Kumbakonam in Thanjavur district, on the bank of the Arisil river. Kumbakonam is the nearest major rail head, with local buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत सामान्यतः छायाचित्रणास परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "अळगपुत्तूर (अरिसिलकरैपुदूर) तंजावूर जिल्ह्यात, अरिसिल नदीच्या काठावर, कुंभकोणमपासून सुमारे ६–७ कि.मी. अंतरावर आहे. कुंभकोणम हे जवळचे मुख्य रेल्वे स्थानक असून तेथून गावापर्यंत स्थानिक बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

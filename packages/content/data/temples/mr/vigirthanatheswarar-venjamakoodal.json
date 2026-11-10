@@ -1,29 +1,36 @@
 {
   "id": "vigirthanatheswarar-venjamakoodal",
   "locale": "mr",
+  "name": "विगिर्थनाथेश्वर मंदिर, वेंजमाकूडल",
   "nativeName": "விகிர்தநாதேசுவரர் கோயில்",
+  "deity": "विगिर्थनाथेश्वर (कल्याण विकिर्तीश्वर) रूपातील शिव, देवी मधुरमोळी नायकी (पन्मोळी नायकी) यांच्यासह",
+  "tradition": "शैव पंथ",
   "location": {
-    "city": "Venjamakoodal",
-    "state": "Tamil Nadu",
+    "city": "वेंजमाकूडल",
+    "state": "तमिळनाडू",
     "lat": 10.89,
     "lng": 77.97
   },
+  "period": "कोंगू प्रदेशातील प्राचीन शैव मंदिर, तेवारममध्ये गायलेले (आठवे शतक); नंतरच्या भरींसह रचनात्मक मंदिर",
   "century": 8,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (संस्थापक आश्रयदाते निश्चितपणे नोंदवलेले नाहीत)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "विगिर्थनाथेश्वर हे करूरजवळ कुडगनार नदीच्या तीरावरील कोंगू प्रदेशातील लहानसे शांत शिवमंदिर आहे; सुंदररांनी तेवारममध्ये त्याचे गायन केले असून, प्रभूंनी स्वतः संतांना सोने दिले या परंपरेसाठी ते स्मरले जाते.",
   "sections": {
-    "history": "Venjamakoodal stands on the east bank of the Kudaganaru river in the Kongu country, some sixteen kilometres south-west of Karur on the road towards Aravakurichi. It is counted among the Paadal Petra Sthalams, and local tradition reckons it the fifth of the Kongu Nadu temples praised in the Tevaram, where Sundarar sang a decad in honour of the Lord of this place. The name is explained as the meeting place, the koodal, of Venjan, a hunter chieftain said to have ruled this land and to have worshipped Shiva here. The temple is described as more than a thousand years old, though its present buildings took shape over later centuries and the founding patrons are not firmly recorded. The Lord is revered as a self-manifested linga, and worship has continued here without a break.",
-    "architecture": "A five-tiered rajagopuram marks the entrance, and both the sanctum of Shiva and the shrine of the goddess face east. The linga in the sanctum is about five feet tall and is spoken of as wearing a serpent ornament, while the image of the goddess stands some two and a half feet high. Around the inner courtyard are shrines to the Panchalingams, to Bhairava, to the sixty-three Nayanmar saints and to other deities. The scale is modest and the setting rural, and the charm of the place is its quiet.",
-    "legends": "The tradition most dear to Venjamakoodal is that here the Lord gave Sundarar gold. In the local telling, Shiva came in disguise, as an aged householder or, in another version, as an old priest, and pledged His own sons Vinayaka and Murugan to an old woman, who was the goddess herself, in exchange for gold, which He then placed in the hands of His devotee. Another memory is of the hunter king Venjan, who worshipped the Lord here and gave the place its name, and of Indra, who is said to have come to this shrine seeking release from a sin. The accounts differ in the telling, and are best held as cherished tradition rather than recorded history.",
-    "festivals": "The year's great festival is the ten-day Masi Brahmotsavam in February and March. Margazhi Tiruvadhirai, in December and January, honours the Lord as Nataraja, and Aipasi Annabhishekam in October and November bathes the linga in offerings of cooked rice. Tirukarthikai in November and December is kept with lamps, and Maha Shivaratri falls in February or March. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Venjamakoodal asks for a slow, quiet morning. Come beneath the five-tiered gopuram, walk the inner courtyard past the shrines of the Panchalingams and the Nayanmars, and stand before the self-manifested linga of Vigirthanatheswarar before turning to the goddess in her east-facing shrine. If you know the story of the gold, hold it in mind as you pray, for it is a place where devotees ask the Lord for what they truly need. The river nearby and the farmland beyond give the visit a country calm, far from the bustle of Karur."
+    "history": "वेंजमाकूडल कोंगू प्रदेशात कुडगनार नदीच्या पूर्व तीरावर, करूरपासून अरवकुरिचीकडे जाणाऱ्या रस्त्यावर सुमारे सोळा किलोमीटर नैर्ऋत्येला आहे. याची गणना पाडल पेट्र स्थलमांमध्ये होते, आणि स्थानिक परंपरा याला तेवारममध्ये स्तुती केलेल्या कोंगू नाडूमधील मंदिरांपैकी पाचवे मानते; येथे सुंदररांनी या स्थळाच्या प्रभूंच्या सन्मानार्थ एक दशक गायले. नावाची उकल अशी सांगितली जाते की हे वेंजन, एका शिकारी सरदाराचे, भेटीचे स्थान - कूडल - आहे; त्याने या भूमीवर राज्य केले आणि येथे शिवाची पूजा केली असे म्हटले जाते. मंदिर हजाराहून अधिक वर्षे जुने असल्याचे वर्णन केले जाते, तरी सध्याच्या वास्तू नंतरच्या शतकांत आकारास आल्या असून संस्थापक आश्रयदाते निश्चितपणे नोंदवलेले नाहीत. प्रभू स्वयंभू लिंग रूपात पूज्य आहेत, आणि येथे पूजा खंडित न होता चालू राहिली आहे.",
+    "architecture": "प्रवेशद्वारावर पाच मजली राजगोपुर आहे, आणि शिवाचे गर्भगृह आणि देवीचे मंदिर दोन्ही पूर्वाभिमुख आहेत. गर्भगृहातील लिंग सुमारे पाच फूट उंच असून त्यावर सर्पाभूषण असल्याचे सांगितले जाते, तर देवीची मूर्ती सुमारे अडीच फूट उंच आहे. आतील अंगणाभोवती पंचलिंग, भैरव, त्रेसष्ट नायनमार संत आणि इतर दैवतांची मंदिरे आहेत. आकार माफक आणि परिसर ग्रामीण आहे, आणि या स्थळाचे आकर्षण त्याच्या शांततेत आहे.",
+    "legends": "वेंजमाकूडलची सर्वाधिक प्रिय परंपरा अशी की येथे प्रभूंनी सुंदररांना सोने दिले. स्थानिक कथनात शिव वेशांतर करून आले - वृद्ध गृहस्थ म्हणून, किंवा दुसऱ्या आवृत्तीत वृद्ध पुजारी म्हणून - आणि सोन्याच्या बदल्यात त्यांनी आपले पुत्र विनायक आणि मुरुगन एका वृद्धेकडे, जी स्वतः देवी होती, तारण ठेवले; ते सोने त्यांनी नंतर आपल्या भक्ताच्या हाती दिले. आणखी एक स्मृती शिकारी राजा वेंजनची आहे, ज्याने येथे प्रभूंची पूजा केली आणि स्थळाला नाव दिले, आणि इंद्राची, जो एका पापापासून मुक्तीसाठी या मंदिरात आला असे म्हटले जाते. कथनांमध्ये फरक आहेत, आणि त्यांना नोंदवलेला इतिहास न मानता प्रिय परंपरा मानणेच योग्य ठरते.",
+    "festivals": "वर्षातील महान उत्सव फेब्रुवारी-मार्चमध्ये येणारा दहा दिवसांचा मासी ब्रह्मोत्सव आहे. डिसेंबर-जानेवारीतील मार्गळी तिरुवादिरै प्रभूंचा नटराज रूपात सन्मान करते, आणि ऑक्टोबर-नोव्हेंबरमधील आप्पसी अन्नाभिषेकम मध्ये लिंगावर शिजवलेल्या भाताच्या अर्पणांचा अभिषेक होतो. नोव्हेंबर-डिसेंबरमधील तिरुकार्तिकै दिव्यांसह साजरी होते, आणि महाशिवरात्री फेब्रुवारी किंवा मार्चमध्ये येते. हे उत्सव तमिळ दिनदर्शिकेनुसार येतात, त्यामुळे तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "वेंजमाकूडल निवांत, शांत सकाळ मागते. पाच मजली गोपुराखालून या, पंचलिंग आणि नायनमारांच्या मंदिरांसमोरून आतील अंगणात फेरफटका मारा, आणि देवीच्या पूर्वाभिमुख मंदिराकडे वळण्यापूर्वी विगिर्थनाथेश्वरांच्या स्वयंभू लिंगासमोर उभे राहा. सोन्याची कथा माहीत असेल तर प्रार्थना करताना ती मनात ठेवा, कारण हे असे स्थान आहे जिथे भक्त प्रभूंकडे आपल्याला खरोखर जे हवे ते मागतात. जवळची नदी आणि पलीकडील शेतजमीन भेटीला करूरच्या गजबजाटापासून दूरची ग्रामीण शांतता देतात."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Venjamakoodal is a village about 16 km south-west of Karur on the road towards Aravakurichi, on the east bank of the Kudaganaru. Karur, which has the nearest major railway station, is the usual base; buses run towards Aravakurichi, and an auto or taxi from Karur completes the way. The airports at Tiruchirappalli and Coimbatore are the nearest major ones, each a few hours by road. As this is a small village shrine, confirm the exact route and timings locally."
+    "timings": "सहसा सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते, मध्ये दुपारी विश्रांती असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-पँट, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर काढून ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाह्य प्रदक्षिणा-मार्गांत आणि अंगणांत छायाचित्रणाला सहसा परवानगी असते, परंतु गर्भगृहाच्या आत ते निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "वेंजमाकूडल हे गाव करूरपासून अरवकुरिचीकडे जाणाऱ्या रस्त्यावर सुमारे १६ किमी नैर्ऋत्येला, कुडगनार नदीच्या पूर्व तीरावर आहे. सर्वांत जवळचे मोठे रेल्वे स्थानक असलेले करूर हे नेहमीचे तळ आहे; अरवकुरिचीच्या दिशेने बसेस धावतात, आणि करूरहून ऑटो किंवा टॅक्सीने उर्वरित प्रवास पूर्ण होतो. तिरुचिरापल्ली आणि कोईमतूर येथील विमानतळ हे सर्वांत जवळचे मोठे विमानतळ आहेत; प्रत्येकापासून रस्त्याने काही तासांचा प्रवास आहे. हे लहान ग्रामीण मंदिर असल्याने नेमका मार्ग आणि वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात."
   }
 }

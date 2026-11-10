@@ -1,29 +1,36 @@
 {
   "id": "amirthagateswarar-kodikkarai",
   "locale": "mr",
+  "name": "अमृतघटेश्वर (कोडि कुळगर) मंदिर, कोडिक्करै",
   "nativeName": "கோடிக்கரை கோடிக்குழகர் (அமிர்தகடேஸ்வரர்) கோயில்",
+  "deity": "अमृतघटेश्वर (कोडि कुळगर, स्वयंभू लिंग) रूपातील शिव, देवी अंजनाक्षी (मै तडंगण्णी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Kodikkarai (Point Calimere)",
-    "state": "Tamil Nadu",
+    "city": "कोडिक्करै (पॉइंट कॅलिमेर)",
+    "state": "तमिळनाडू",
     "lat": 10.2849,
     "lng": 79.8522
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कोडिक्करै — पॉइंट कॅलिमेर, जेथे कावेरी प्रदेश भूमीच्या दक्षिण टोकावर समुद्राला भेटतो — येथे शिव अमृतघटेश्वर, कोडि कुळगर, म्हणून पूजिले जातात; स्वयंभू लिंगात आणि देवी अंजनाक्षीसह. संबंदर आणि सुंदरर यांनी गायलेले हे पाडल पेट्र स्थळम् म्हणजे मंथन केलेल्या सागरातील अमृताचे समुद्रकिनारी वसलेले क्षेत्र आहे.",
   "sections": {
-    "history": "Kodikkarai — Point Calimere, the southern tip of the Kaveri delta where land meets sea — holds a Paadal Petra Sthalam, the Kodi Kuzhagar temple, hymned in the Tevaram by Tirugnana Sambandar and Sundarar. Believed first built by the Cholas, it carries several inscriptions of the Chola period. It stands in Nagapattinam district, by the Point Calimere wildlife sanctuary.",
-    "architecture": "A Dravidian seaside temple, the shrine enshrines Amirthagateswarar — the Kodi Kuzhagar — worshipped in a swayambhu, self-manifest lingam, with the goddess Anjanakshi (Mai Thadanganni) in her own shrine, a Nandi and the parivara devatas. The Navagrahas here are set in a straight line rather than the usual grid. Because of its remote coastal setting, the temple opens only about an hour each morning and evening.",
-    "legends": "The sthala legend tells of the churning of the milky ocean: the amritam, the nectar, was being borne in a pot (kudam) by Vayu, the wind, when the asuras raised a storm; a little of the nectar spilled here and took the form of a lingam. From that pot of nectar the lord is Amirthagateswarar — amrita-ghata, 'the nectar-pot lord' — and in Tamil Kodi Kuzhagar, the fair one of the land's end. The goddess Anjanakshi stands beside him.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a remote coastal shrine. Pilgrims on the Vedaranyam–Kodikkarai stretch of the Paadal Petra trail reach Point Calimere at the land's southern end.",
-    "experience": "At Kodikkarai the pilgrim comes to the land's end, where the delta runs out into the sea. Before Amirthagateswarar and Anjanakshi — the nectar-pot lord of the churned ocean — with the sanctuary's birds and the salt wind near, the visitor finds, in the hour the doors stand open, the far, unhurried grace of a Tevaram temple at the southern tip of the Tamil country."
+    "history": "कोडिक्करै — पॉइंट कॅलिमेर, कावेरी त्रिभुज प्रदेशाचे दक्षिण टोक जेथे भूमी समुद्राला भेटते — येथे एक पाडल पेट्र स्थळम्, कोडि कुळगर मंदिर, आहे; तिरुज्ञान संबंदर आणि सुंदरर यांनी तेवारममध्ये त्याचे स्तवन केले आहे. ते प्रथम चोळांनी बांधले असे मानले जाते, आणि त्यावर चोळकालीन अनेक शिलालेख आहेत. हे नागपट्टिणम जिल्ह्यात, पॉइंट कॅलिमेर वन्यजीव अभयारण्याजवळ आहे.",
+    "architecture": "हे द्रविड शैलीतील समुद्रकिनारी मंदिर आहे; यात अमृतघटेश्वर — कोडि कुळगर — स्वयंभू लिंगात पूजिले जातात, देवी अंजनाक्षी (मै तडंगण्णी) आपल्या स्वतंत्र मंदिरात आहेत, तसेच नंदी आणि परिवार देवता आहेत. येथील नवग्रह नेहमीच्या चौकोनी मांडणीऐवजी सरळ रेषेत स्थापिलेले आहेत. दुर्गम किनारी स्थानामुळे मंदिर सकाळी आणि संध्याकाळी केवळ सुमारे एक तास उघडते.",
+    "legends": "स्थळकथा क्षीरसागराच्या मंथनाची सांगते: अमृत कुंभात (कुडम) घेऊन वायू, म्हणजे वारा, नेत असताना असुरांनी वादळ उठवले; अमृताचा थोडा भाग येथे सांडला आणि त्याने लिंगाचे रूप घेतले. त्या अमृताच्या घटावरून प्रभू अमृतघटेश्वर आहेत — अमृत-घट, 'अमृतकुंभाचे स्वामी' — आणि तमिळमध्ये कोडि कुळगर, भूमीच्या टोकावरील सुंदर प्रभू. देवी अंजनाक्षी त्यांच्या शेजारी उभी आहे.",
+    "festivals": "मंदिरात मासी महिन्यात (फेब्रुवारी–मार्च) महाशिवरात्री, पुरट्टासी महिन्यात (सप्टेंबर–ऑक्टोबर) नवरात्री आणि कार्तिगैचे सोमवार, प्रदोष पूजेसह, पाळले जातात; दुर्गम किनारी क्षेत्राच्या शांत प्रमाणात. पाडल पेट्र मार्गावरील वेदारण्यम–कोडिक्करै टप्प्यातील यात्रेकरू भूमीच्या दक्षिण टोकावरील पॉइंट कॅलिमेरला पोहोचतात.",
+    "experience": "कोडिक्करैला यात्रेकरू भूमीच्या अंतापाशी येतो, जेथे त्रिभुज प्रदेश समुद्रात विरून जातो. अमृतघटेश्वर आणि अंजनाक्षीसमोर — मंथन केलेल्या सागरातील अमृतकुंभाचे स्वामी — अभयारण्यातील पक्षी आणि खारा वारा जवळ असताना, दारे उघडी असतात त्या तासात अभ्यागताला तमिळ देशाच्या दक्षिण टोकावरील तेवारम मंदिराची दूरची, निवांत कृपा अनुभवायला मिळते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kodikkarai (Point Calimere) is the land's southern tip, about 11 km beyond Vedaranyam, in Nagapattinam district, by the Point Calimere wildlife sanctuary. Vedaranyam is the nearest town, with buses and taxis to the point; Nagapattinam and Tiruvarur are the nearest rail heads. The temple opens only about an hour each morning and evening."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत सामान्यतः छायाचित्रणास परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "कोडिक्करै (पॉइंट कॅलिमेर) हे भूमीचे दक्षिण टोक असून वेदारण्यमच्या पलीकडे सुमारे ११ किमी, नागपट्टिणम जिल्ह्यात, पॉइंट कॅलिमेर वन्यजीव अभयारण्याजवळ आहे. वेदारण्यम हे जवळचे शहर असून तेथून त्या टोकापर्यंत बस आणि टॅक्सी मिळतात; नागपट्टिणम आणि तिरुवारूर ही जवळची रेल्वे स्थानके आहेत. मंदिर सकाळी आणि संध्याकाळी केवळ सुमारे एक तास उघडते."
   }
 }

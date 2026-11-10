@@ -1,30 +1,37 @@
 {
   "id": "mangalapureeswarar-tiruchopuram",
   "locale": "mr",
+  "name": "मंगलपुरीश्वर मंदिर, तिरुचोपुरम",
   "nativeName": "மங்களபுரீஸ்வரர் கோயில்",
+  "deity": "मंगलपुरीश्वर (चोपुरनाथर) रूपातील शिव, देवी त्यागवल्ली यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tiruchopuram",
-    "state": "Tamil Nadu",
+    "city": "तिरुचोपुरम",
+    "state": "तमिळनाडू",
     "lat": 11.76,
     "lng": 79.64
   },
+  "period": "नाडु नाडु प्रदेशातील प्राचीन शैव देवस्थान, तेवारममध्ये संबंदर यांनी गायलेले (सातवे शतक); सध्याचे मंदिर सामान्यतः चोळकालीन मानले जाते",
   "century": 7,
+  "dynasty": "चोळकालीन आश्रय (परंपरा राणी त्यागवल्लीला श्रेय देते)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मंगलपुरीश्वर हे कडलूरजवळील तिरुचोपुरमचे शिवमंदिर आहे; संबंदर यांनी स्तवन केलेले पाडल पेत्र स्थळ. वाळूच्या टेकाडांखाली गाडले गेलेले देवालय गोपुराच्या टोकावरून पुन्हा सापडल्याची परंपरा आणि देवी त्यागवल्ली यांमुळे ते स्मरणात राहते.",
   "sections": {
-    "history": "Tiruchopuram lies in the sandy coastal country of Cuddalore district, in the Nadu Nadu region of the Tevaram. The saint Sambandar sang a decad of hymns here, which makes the temple a Paadal Petra Sthalam, and in them the Lord is praised as the one who bore the river Ganga in his matted hair and in his fury destroyed the three cities of the Tripuras. The temple is also known by the name of its goddess, Thyagavalli. Local tradition says the place took its name from the Chola queen Thyagavalli, consort of Kulothunga Chola I, who renovated the shrine, and the structural temple is generally attributed to the later Chola period. Sources do not agree on the exact patron or date, so the history of the stone building is better held lightly than told with certainty.",
-    "architecture": "The temple stands on an open stretch of sandy ground, with its main entrance facing west. Passing through the gateway, the devotee comes first to the flagstaff and the balipeetam, the altar of offerings, before the inner courts and the sanctum of Mangalapureeswarar. The goddess Thyagavalli is honoured in her own shrine within the enclosure. The sacred tree of the temple is the kondrai, the golden-shower tree, and its holy water is drawn from a well. It is a quiet, village-scale temple, and its charm lies in its setting more than in monumental scale.",
-    "legends": "The best-loved story of Tiruchopuram is of a temple lost and found. It is said that the sanctuary was once entirely covered by drifting sand dunes. A devotee of Shiva, learning of the sacred place, came looking for it and found no temple at all, only the tip of the gopuram's finial showing above the sand. With the help of the nearby villagers the buried shrine was dug out and worship was restored. Pilgrims remember in this story that the Lord is never truly hidden from those who seek him. Sambandar's hymn adds its own images of Shiva checking the force of the Ganga in his hair and burning the Tripuras.",
-    "festivals": "Maha Shivaratri, in February or March, is observed with night-long worship, and Tirukarthikai, in November or December, is celebrated with lamps. Annabishekam, the bathing of the linga with rice, and Panguni Uthiram, in March or April, are also among the festivals kept here. Monthly Pradosham is observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Tiruchopuram suits the pilgrim who prefers stillness to crowds. Approach the temple across the sandy open ground, enter by the west gateway, and pause at the flagstaff and altar before the sanctum of Mangalapureeswarar, then turn to Thyagavalli in her shrine. Recall as you stand there that this very spot once lay buried under sand and was brought back to worship by villagers. The village is small, services are limited, and a visit is best planned as a calm morning or evening darshan."
+    "history": "तिरुचोपुरम कडलूर जिल्ह्याच्या वाळूमय किनारी प्रदेशात, तेवारममधील नाडु नाडु भागात वसले आहे. संत संबंदर यांनी येथे पदिकम (दहा पदांचा स्तोत्रसमूह) गायला, त्यामुळे हे मंदिर पाडल पेत्र स्थळ ठरते; त्यात प्रभूंचे स्तवन गंगा नदीला आपल्या जटांत धारण करणारे आणि क्रोधाने त्रिपुरांची तीन नगरे नष्ट करणारे म्हणून केले आहे. मंदिर आपल्या देवीच्या नावानेही — त्यागवल्ली — ओळखले जाते. स्थानिक परंपरा सांगते की कुलोत्तुंग चोळ पहिले यांची सहधर्मिणी, चोळ राणी त्यागवल्ली हिने देवस्थानाचा जीर्णोद्धार केला आणि तिच्यावरून या स्थानाला नाव मिळाले; संरचित मंदिर नंतरच्या चोळकाळातील मानले जाते. नेमका आश्रयदाता किंवा काळ याबाबत स्रोतांत मतभेद आहेत, म्हणून दगडी वास्तूचा इतिहास निश्चितपणे सांगण्यापेक्षा सैलपणे धरून ठेवणे योग्य.",
+    "architecture": "मंदिर वाळूमय खुल्या जमिनीवर उभे आहे; त्याचे मुख्य प्रवेशद्वार पश्चिमेकडे आहे. प्रवेशद्वारातून जाताना भक्त आधी ध्वजस्तंभ आणि बलिपीठ — अर्पणांची वेदी — येथे पोहोचतो, मग आतील प्रांगणे आणि मंगलपुरीश्वराचे गर्भगृह येते. देवी त्यागवल्लीची आवारातच स्वतंत्र देवस्थानात पूजा होते. मंदिराचा स्थलवृक्ष कोंड्रै — सोनमोहर (गोल्डन शॉवर) — आणि त्याचे पवित्र जल विहिरीतून घेतले जाते. हे शांत, गावपातळीचे मंदिर आहे, आणि त्याचे आकर्षण भव्य आकारापेक्षा परिसरात अधिक आहे.",
+    "legends": "तिरुचोपुरमची सर्वांत प्रिय कथा हरवलेल्या आणि पुन्हा सापडलेल्या मंदिराची आहे. असे सांगतात की हे देवालय एकेकाळी सरकत्या वाळूच्या टेकाडांनी पूर्ण झाकले गेले होते. या पवित्र स्थानाविषयी ऐकलेला एक शिवभक्त त्याच्या शोधात आला आणि त्याला मंदिर मुळीच दिसले नाही — वाळूवर फक्त गोपुराच्या कळसाचे टोक डोकावत होते. जवळच्या गावकऱ्यांच्या मदतीने गाडलेले देवालय उकरून काढले गेले आणि पूजा पुन्हा सुरू झाली. प्रभू शोध घेणाऱ्यांपासून कधीही खरोखर लपलेले नसतात, हे यात्रेकरू या कथेत स्मरतात. संबंदर यांचे स्तोत्र शिवांनी जटांतील गंगेचा वेग रोखल्याच्या आणि त्रिपुरांना जाळल्याच्या स्वतःच्या प्रतिमा त्यात भरते.",
+    "festivals": "फेब्रुवारी किंवा मार्चमधील महाशिवरात्र रात्रभर पूजेने साजरी होते, आणि नोव्हेंबर किंवा डिसेंबरमधील तिरुकार्तिकै दीपांनी साजरी केली जाते. अन्नाभिषेक — लिंगाला भाताने स्नान — आणि मार्च किंवा एप्रिलमधील पंगुनी उत्तिरम हे देखील येथे पाळले जाणारे उत्सव आहेत. प्रत्येक शिवमंदिराप्रमाणे मासिक प्रदोष पाळला जातो. तारखा तमिळ दिनदर्शिकेनुसार ठरतात, म्हणून स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "तिरुचोपुरम गर्दीपेक्षा स्तब्धता आवडणाऱ्या यात्रेकरूला शोभते. वाळूमय खुल्या जमिनीवरून मंदिराकडे जा, पश्चिम द्वारातून प्रवेश करा, आणि मंगलपुरीश्वराच्या गर्भगृहासमोर ध्वजस्तंभ आणि वेदीजवळ थांबा, मग आपल्या देवस्थानातील त्यागवल्लीकडे वळा. तेथे उभे असताना आठवा की हेच स्थान एकेकाळी वाळूखाली गाडले गेले होते आणि गावकऱ्यांनी ते पुन्हा पूजेसाठी खुले केले. गाव लहान आहे, सोयी मर्यादित आहेत, आणि भेट शांत सकाळी किंवा सायंकाळच्या दर्शनासाठी आखणे उत्तम."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tiruchopuram, also called Thyagavalli, lies about 18 to 20 km from Cuddalore, the nearest large town, which has the bus stand and the main railway station for the area. One route runs from Alapakkam railway station, crossing the railway line and continuing straight for about 3 km to the village. Chennai, with the nearest major airport, is several hours away by road. Confirm the latest bus connections locally, as services to the village can be infrequent."
+    "timings": "साधारणपणे सकाळी आणि पुन्हा दुपारी उशिरापासून सायंकाळपर्यंत उघडे, दुपारी विश्रांतीसह; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "सभ्य, पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-पँट, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वारावरील स्टँडवर ठेवली जातात.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाहेरील प्रदक्षिणा मार्गांत आणि अंगणांत छायाचित्रण सहसा चालते, पण आतल्या गर्भगृहात निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र काढण्यापूर्वी मंदिरातील कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुचोपुरम, ज्याला त्यागवल्लीही म्हणतात, परिसरातील बसस्थानक आणि मुख्य रेल्वे स्थानक असलेल्या जवळच्या मोठ्या शहरापासून, कडलूरपासून, सुमारे १८ ते २० किमी अंतरावर आहे. एक मार्ग आलप्पाक्कम रेल्वे स्थानकापासून जातो; रेल्वे रूळ ओलांडून सरळ सुमारे ३ किमी चालल्यावर गाव येते. सर्वांत जवळचे मोठे विमानतळ असलेले चेन्नई रस्त्याने काही तासांच्या अंतरावर आहे. गावाकडील बससेवा क्वचित असू शकते, म्हणून ताज्या बस जोडण्या स्थानिक पातळीवर खात्री करून घ्या."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/mangalapureeswarar-tiruchopuram.jpg",

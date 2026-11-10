@@ -1,31 +1,38 @@
 {
   "id": "pandavadoothar-thiruppadagam",
   "locale": "mr",
+  "name": "पांडव तूतर पेरुमाळ मंदिर (तिरुप्पाडगम), कांचीपुरम",
   "nativeName": "பாண்டவ தூதப் பெருமாள் கோயில் (திருப்பாடகம்), காஞ்சிபுரம்",
+  "deity": "पांडवदूत पांडव तूतर पेरुमाळ रूपातील कृष्ण, बसलेल्या मुद्रेत, देवी रुक्मिणीसह",
+  "tradition": "वैष्णव धर्म",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.8425,
     "lng": 79.6969
   },
+  "period": "तोंडै नाडूतील दिव्य देशम्, नालायिर दिव्य प्रबंधमध्ये आळवारांनी गायिलेले",
   "century": 8,
+  "dynasty": "पल्लव (चोळ आणि विजयनगर काळातील भर घालून)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "कांचीपुरममधील तिरुप्पाडगम येथे कृष्ण पांडवांचा दूत पांडव तूतर म्हणून एका उत्तुंग बसलेल्या मूर्तीत विराजमान आहे — दिव्य प्रबंधमध्ये गायिलेला तोंडै नाडूचा दिव्य देशम्.",
   "sections": {
-    "history": "Thiruppadagam is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Thondai Nadu. The temple is believed to have been built by the Pallavas in the late eighth century, with later contributions from the Medieval Cholas and the Vijayanagara kings. Three inscriptions on its walls survive: two of Kulothunga Chola I, who ruled from 1070 to 1120, and one of Rajadhiraja Chola, who ruled from 1018 to 1054. It is a temple in its own right within Kanchipuram, not a shrine inside a larger complex.",
-    "architecture": "The temple faces east, and the sanctum is crowned by the Bhadra Vimanam. Its great image is the seated Krishna, some twenty-five feet tall by common account, beside the Goddess Rukmini. The sacred tank is the Matsya Theertham. In the front hall are kept the bronze festival images and the figures of the Alvars.",
-    "legends": "The sthala purana recalls the Mahabharata. Krishna went to Hastinapura as the envoy of the Pandavas, seeking peace. Duryodhana, in his pride, had a pit dug and covered with a carpet and a gem-studded seat, hoping to trap the Lord. Krishna took his cosmic form, the Vishwarupa. Janamejaya, a descendant of the Pandavas, hearing this story from the sage Vaisampayana, is said to have performed penance here to see that form; the image of Pandava Thoothar answers that wish.",
-    "festivals": "The temple keeps the great Vaishnava observances, above all Vaikunta Ekadashi, along with an annual Brahmotsavam in which the festival images are carried in procession. Special worship marks days sacred to Krishna. Confirm dates locally.",
-    "experience": "Few Divya Desams offer a sight as imposing as the seated Pandava Thoothar, whose scale draws the eye the moment the sanctum opens. Spend time in the front hall with the Alvars and the bronze images, and ask the priests to tell the story of the carpeted pit and the Vishwarupa. Combine the visit with Ulagalantha Perumal and the other Vaishnava temples of Kanchipuram."
+    "history": "तिरुप्पाडगम हे १०८ दिव्य देशम्पैकी एक आहे — नालायिर दिव्य प्रबंधमध्ये आळवारांनी गायिलेली विष्णूची निवासस्थाने — आणि ते तोंडै नाडूमध्ये येते. हे मंदिर आठव्या शतकाच्या उत्तरार्धात पल्लवांनी बांधले असावे असे मानले जाते, आणि पुढे मध्ययुगीन चोळ आणि विजयनगरच्या राजांनी भर घातली. त्याच्या भिंतींवर तीन शिलालेख टिकून आहेत: दोन पहिल्या कुलोत्तुंग चोळांचे, ज्यांनी इसवी सन १०७० ते ११२० पर्यंत राज्य केले, आणि एक राजाधिराज चोळांचा, ज्यांनी इसवी सन १०१८ ते १०५४ पर्यंत राज्य केले. हे कांचीपुरममधील स्वतंत्र मंदिर आहे, मोठ्या संकुलातील एखादी देवळी नव्हे.",
+    "architecture": "मंदिर पूर्वाभिमुख असून गर्भगृहावर भद्र विमान आहे. त्याची प्रमुख मूर्ती बसलेल्या मुद्रेतील कृष्णाची आहे, सर्वसामान्य मतानुसार सुमारे पंचवीस फूट उंच, देवी रुक्मिणीच्या शेजारी. पवित्र तलाव मत्स्य तीर्थम आहे. पुढच्या मंडपात कांस्य उत्सवमूर्ती आणि आळवारांच्या मूर्ती ठेवलेल्या आहेत.",
+    "legends": "स्थलपुराण महाभारताची आठवण करून देते. कृष्ण पांडवांचा दूत म्हणून शांततेची याचना करण्यासाठी हस्तिनापुरला गेले. दुर्योधनाने गर्वाने खड्डा खोदवून त्यावर गालिचा आणि रत्नजडित आसन ठेवले, प्रभूला सापळ्यात अडकवण्याच्या आशेने. कृष्णांनी आपले विश्वरूप धारण केले. पांडवांचे वंशज जनमेजय यांनी वैशंपायन ऋषींकडून ही कथा ऐकून ते रूप पाहण्यासाठी येथे तपश्चर्या केली, असे सांगितले जाते; पांडव तूतरांची मूर्ती ही त्या इच्छेची पूर्ती आहे.",
+    "festivals": "मंदिरात मोठे वैष्णव उत्सव पाळले जातात, विशेषतः वैकुंठ एकादशी, तसेच वार्षिक ब्रह्मोत्सव, ज्यात उत्सवमूर्तींची मिरवणूक निघते. कृष्णाला पवित्र दिवसांना विशेष पूजा केली जाते. तिथी स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "फार थोड्या दिव्य देशम्मध्ये बसलेल्या पांडव तूतरांइतके भव्य दर्शन घडते; गर्भगृह उघडताच त्याची विशालता लगेच दृष्टी खेचून घेते. पुढच्या मंडपात आळवार आणि कांस्य मूर्तींजवळ वेळ घालवा, आणि पुजाऱ्यांना गालिचा घातलेल्या खड्ड्याची आणि विश्वरूपाची कथा सांगण्यास सांगा. ही भेट उलगलंद पेरुमाळ आणि कांचीपुरममधील इतर वैष्णव मंदिरांसह जोडा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple stands in Kanchipuram, reached by road from Chennai, about 70 km to the north-east. Kanchipuram town is the nearest railhead and Chennai the nearest major airport; auto-rickshaws and local buses connect the temples of the town."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन सत्रांसह खुले असते, मधल्या दुपारी बंद असते; वैकुंठ एकादशी आणि उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर निश्चित करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "मंदिर कांचीपुरममध्ये असून चेन्नईहून, सुमारे ७० किमी उत्तर-पूर्वेकडून, रस्त्याने पोहोचता येते. कांचीपुरम शहर हे जवळचे रेल्वे स्थानक आणि चेन्नई हे जवळचे मोठे विमानतळ आहे; रिक्षा आणि स्थानिक बस शहरातील मंदिरांना जोडतात."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",

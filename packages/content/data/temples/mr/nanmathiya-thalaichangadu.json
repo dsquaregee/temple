@@ -1,30 +1,37 @@
 {
   "id": "nanmathiya-thalaichangadu",
   "locale": "mr",
+  "name": "नाण्मतिय पेरुमाळ मंदिर, तलैच्चंगाडु",
   "nativeName": "நாண்மதியப் பெருமாள் கோயில், தலைச்சங்காடு",
+  "deity": "नाण्मतिय पेरुमाळ रूपातील विष्णू, पूर्वाभिमुख उभे, देवी तलैच्चंग नाच्चियार यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thalaichangadu",
-    "state": "Tamil Nadu",
+    "city": "तलैच्चंगाडु",
+    "state": "तमिळनाडू",
     "lat": 11.1297,
     "lng": 79.7853
   },
+  "period": "चोळ प्रदेशातील दिव्य देशम; नालायिर दिव्य प्रबंधममध्ये तिरुमंगै आळवारांनी गायिलेले",
   "century": 8,
+  "dynasty": "चोळ प्रदेश (नंतरचे आश्रयदाते)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "कावेरी त्रिभुज प्रदेशातील तलैच्चंगाडु येथे विष्णू नाण्मतिय पेरुमाळ म्हणून उभे आहेत, ज्यांनी चंद्राला त्याच्या शापातून सोडवले — तिरुमंगै आळवारांनी गायिलेले चोळ प्रदेशातील दिव्य देशम.",
   "sections": {
-    "history": "Thalaichangadu, near Akkur in the Mayiladuthurai country of the Kaveri delta, holds Thalaichanga Nanmathiyam, one of the 108 Divya Desams — the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham — and part of Chola Nadu. Its mangalasasanam was offered by Thirumangai Alvar, the last great poet of the Alvar tradition. The presiding lord is Nanmathiya Perumal, with Thalaichanga Nachiyar, and the festival image is worshipped as Vensudar Perumal. The shrine's standing rests on the Alvar's hymns and the long devotion of the village. In the same village stands the Sangaranyeswarar shrine of Shiva, a separate temple praised in the Thevaram.",
-    "architecture": "The temple follows the Dravidian plan of the Chola country: a single-tiered gopuram marks the entrance, and the sanctum holds Nanmathiya Perumal standing and facing east. Tradition describes a crescent moon on the lord's head, the sign by which he is known. The Goddess has her own shrine as Thalaichanga Nachiyar, and the Chandra Pushkarini, the temple tank, lies in front of the temple.",
-    "legends": "The sthala purana tells of Chandra, the Moon, who was cursed by his guru Brihaspati to a wasting sickness. Seeking release, he and the devas worshipped Vishnu in this place, and the lord relieved him of the curse — hence the epithet Chandra Shaba Harar, and the tank that bears the Moon's name. The village name is also explained in tradition by the conch, sangu, and by an association with the first Tamil Sangam.",
-    "festivals": "The temple observes the Vaishnava calendar, above all Vaikunta Ekadashi, and keeps the days of Thirumangai Alvar, the poet-saint who sang this shrine. Local priests can say which are celebrated and when.",
-    "experience": "A quiet village shrine among the paddy fields, free of crowds. Stand before the east-facing lord, walk down to the Chandra Pushkarini, and pair the visit with the other Divya Desams near Sirkazhi, such as Thiruvali-Thirunagari and the Thirunangur group."
+    "history": "कावेरी त्रिभुज प्रदेशातील मयिलादुतुरै भागात अक्कूरजवळ असलेल्या तलैच्चंगाडु येथे तलैच्चंग नाण्मतियम आहे — नालायिर दिव्य प्रबंधममध्ये आळवार संतांनी गायिलेल्या विष्णूच्या निवासस्थानांपैकी, म्हणजे १०८ दिव्य देशमांपैकी, एक — आणि ते चोळ नाडूचा भाग आहे. त्याचे मंगलाशासन आळवार परंपरेतील अखेरचे महान कवी तिरुमंगै आळवार यांनी केले. मूळ दैवत नाण्मतिय पेरुमाळ असून त्यांच्यासोबत तलैच्चंग नाच्चियार आहेत, आणि उत्सवमूर्तीची पूजा वेनसुडर पेरुमाळ म्हणून केली जाते. या मंदिराचे स्थान आळवारांच्या स्तोत्रांवर आणि गावाच्या दीर्घ भक्तीवर आधारलेले आहे. त्याच गावात शिवाचे संगरण्येश्वर मंदिर आहे, जे तेवारममध्ये गौरविलेले स्वतंत्र मंदिर आहे.",
+    "architecture": "मंदिर चोळ प्रदेशातील द्रविड आराखड्याचे अनुसरण करते: प्रवेशद्वारावर एकमजली गोपुर आहे, आणि गाभाऱ्यात पूर्वाभिमुख उभे नाण्मतिय पेरुमाळ विराजमान आहेत. परंपरा प्रभूच्या मस्तकावर चंद्रकोर असल्याचे वर्णन करते, जी त्यांची ओळख आहे. देवीचे तलैच्चंग नाच्चियार म्हणून स्वतंत्र मंदिर आहे, आणि मंदिराचे तीर्थ चंद्र पुष्करिणी मंदिरासमोर आहे.",
+    "legends": "स्थलपुराण सांगते की चंद्राला त्याचे गुरू बृहस्पतींनी क्षयरोगाचा शाप दिला. मुक्तीच्या शोधात त्याने आणि देवांनी या ठिकाणी विष्णूची उपासना केली, आणि प्रभूने त्याला शापातून मुक्त केले — म्हणून चंद्रशाप हर हे नाव आणि चंद्राचे नाव धारण करणारे तीर्थ. गावाच्या नावाचे स्पष्टीकरण परंपरा शंख म्हणजे संगु यावरून तसेच पहिल्या तमिळ संगमाशी असलेल्या संबंधावरूनही देते.",
+    "festivals": "मंदिरात वैष्णव पंचांग पाळले जाते, विशेषतः वैकुंठ एकादशी, आणि या मंदिराचे गायन करणाऱ्या कवी-संत तिरुमंगै आळवारांचे दिवस साजरे होतात. कोणते उत्सव केव्हा साजरे होतात हे स्थानिक पुजारी सांगू शकतात.",
+    "experience": "भातशेतीतील एक शांत गावमंदिर, जिथे गर्दी नाही. पूर्वाभिमुख प्रभूसमोर उभे राहा, चंद्र पुष्करिणीपर्यंत चालत जा, आणि शीर्कळीजवळील इतर दिव्य देशमांसह — जसे तिरुवळी-तिरुनगरी आणि तिरुनांगूर समूह — ही भेट जोडा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thalaichangadu lies in the Kaveri delta of Mayiladuthurai district, near Akkur, and is reached by road from Sirkazhi or Mayiladuthurai. The nearest railheads are Sirkazhi and Mayiladuthurai on the Chennai line; the nearest major airport is Tiruchirappalli, about 160 km away."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन-सत्रांसह उघडे असते आणि दुपारी बंद असते; भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गाभाऱ्यात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तलैच्चंगाडु मयिलादुतुरै जिल्ह्यातील कावेरी त्रिभुज प्रदेशात अक्कूरजवळ असून शीर्कळी किंवा मयिलादुतुरैहून रस्त्याने पोहोचता येते. जवळची रेल्वे स्थानके चेन्नई मार्गावरील शीर्कळी आणि मयिलादुतुरै आहेत; जवळचे मोठे विमानतळ तिरुचिरापल्ली, सुमारे १६० किमी अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",

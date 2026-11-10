@@ -1,30 +1,37 @@
 {
   "id": "murudeshwar-shiva",
   "locale": "mr",
+  "name": "मुरुडेश्वर मंदिर",
   "nativeName": "ಮುರುಡೇಶ್ವರ ದೇವಸ್ಥಾನ",
+  "deity": "मुरुडेश्वर या रूपातील शिव, अरबी समुद्रावरील भूशिरावर",
+  "tradition": "शैव",
   "location": {
-    "city": "Murudeshwar",
-    "state": "Karnataka",
+    "city": "मुरुडेश्वर",
+    "state": "कर्नाटक",
     "lat": 14.0943,
     "lng": 74.4843
   },
+  "period": "गोकर्णच्या आत्मलिंगाशी जोडलेले किनाऱ्यावरील शिवक्षेत्र, त्याच्या उत्तुंग मूर्तीसाठी आणि गोपुरासाठी प्रसिद्ध",
   "century": 16,
+  "dynasty": "प्राचीन स्थान, त्याचे भव्य शिखर आणि मूर्ती आधुनिक आश्रयदात्यांनी उभारलेली",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "temples-of-coastal-karnataka"
   ],
+  "summary": "अरबी समुद्रात घुसलेल्या खडकाळ भूशिरावर, एका विशाल आसनस्थ मूर्तीखाली आणि वीस मजली उंच गोपुराखाली, शिवाची पूजा मुरुडेश्वर म्हणून केली जाते — किनारपट्टीवरील सर्वांत लक्षवेधी दृश्यांपैकी एक.",
   "sections": {
-    "history": "Murudeshwar stands on the Kanduka hill, a headland reaching into the Arabian Sea in Uttara Kannada. The shrine is bound to the legend of the Atma Linga of nearby Gokarna, and in modern times has been raised into one of the coast's grandest temple complexes.",
-    "architecture": "The temple is crowned by a Raja Gopura of some twenty storeys, among the tallest in India, and beside it rises a vast seated statue of Shiva overlooking the sea. The setting — sea on three sides, sky above — is the temple's signature.",
-    "legends": "By tradition the demon Ravana carried off the Atma Linga of Shiva, and was tricked by Ganesha into setting it down at Gokarna, where it fixed forever. The cloth that had covered the linga is said to have fallen at this place, which took the name Mrideshwara, or Murudeshwara.",
-    "festivals": "Maha Shivaratri is the great night here, drawing crowds to the sea-girt hill. Kartika and the temple's own car festival fill the year with worship beside the waves.",
-    "experience": "Few Indian temples sit so dramatically on the sea; pilgrims come for darshan of Murudeshwara and to stand beneath the great statue with the Arabian Sea spread on every side."
+    "history": "मुरुडेश्वर उत्तर कन्नड जिल्ह्यात अरबी समुद्रात पसरलेल्या भूशिरावरील कंदुक टेकडीवर वसले आहे. हे क्षेत्र जवळच्या गोकर्णच्या आत्मलिंगाच्या कथेशी जोडलेले असून आधुनिक काळात ते किनारपट्टीवरील सर्वांत भव्य मंदिर संकुलांपैकी एक म्हणून उभारले गेले आहे.",
+    "architecture": "मंदिराच्या शिखरस्थानी सुमारे वीस मजली राजगोपुर आहे, जे भारतातील सर्वांत उंच गोपुरांपैकी एक आहे, आणि त्याच्या बाजूला समुद्राकडे पाहणारी शिवाची विशाल आसनस्थ मूर्ती उभी आहे. तीन बाजूंना समुद्र, वर आकाश — हे वातावरण मंदिराची ओळख आहे.",
+    "legends": "परंपरेनुसार रावणाने शिवाचे आत्मलिंग नेले, आणि गणेशाने युक्तीने ते गोकर्ण येथे खाली ठेवायला लावले, जेथे ते कायमचे स्थिर झाले. लिंगावर असलेले वस्त्र या स्थानी पडले असे सांगितले जाते, आणि या स्थानाला मृडेश्वर, म्हणजे मुरुडेश्वर, हे नाव मिळाले.",
+    "festivals": "महाशिवरात्र ही येथील महान रात्र आहे, जी समुद्रवेष्टित टेकडीवर भाविकांची गर्दी खेचते. कार्तिक आणि मंदिराचा स्वतःचा रथोत्सव वर्षभर लाटांच्या काठी पूजेने भरून टाकतात.",
+    "experience": "समुद्रावर इतक्या नाट्यमयरीत्या वसलेली मंदिरे भारतात थोडीच आहेत; यात्रेकरू मुरुडेश्वराच्या दर्शनासाठी येतात, आणि चोहोबाजूंनी पसरलेल्या अरबी समुद्रासह त्या विशाल मूर्तीखाली उभे राहण्यासाठीही."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday break; Maha Shivaratri is busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Murudeshwar lies on the coast of Uttara Kannada in Karnataka, on the Konkan railway line and the coastal highway between Mangaluru and Karwar, with its own railway station."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शनासह उघडे असते आणि दुपारी विराम असतो; महाशिवरात्रीला सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गाभाऱ्यात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "मुरुडेश्वर कर्नाटकातील उत्तर कन्नडच्या किनाऱ्यावर, कोकण रेल्वे मार्गावर आणि मंगळुरू व कारवार यांच्यामधील किनारी महामार्गावर असून तेथे स्वतःचे रेल्वे स्थानक आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/murudeshwar-shiva.jpg",

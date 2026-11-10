@@ -1,29 +1,36 @@
 {
   "id": "vijayanathar-tiruvijayamangai",
   "locale": "mr",
+  "name": "विजयनाथर मंदिर, तिरुविजयमंगै",
   "nativeName": "விஜயநாதர் கோயில்",
+  "deity": "विजयनाथर (विजयनाथेश्वर) रूपातील शिव, देवी मंगलनायकी (मंगलांबिका) यांच्यासह",
+  "tradition": "शैव पंथ",
   "location": {
-    "city": "Tiruvijayamangai",
-    "state": "Tamil Nadu",
+    "city": "तिरुविजयमंगै",
+    "state": "तमिळनाडू",
     "lat": 10.99,
     "lng": 79.27
   },
+  "period": "कावेरीच्या उत्तर तीरावरील चोळ नाडूमधील प्राचीन शैव मंदिर, तेवारममध्ये गायलेले (सातवे शतक); मध्ययुगीन चोळ शैलीतील मंदिर",
   "century": 7,
+  "dynasty": "मध्ययुगीन चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुविजयमंगै येथील विजयनाथर मंदिर हे कावेरीच्या उत्तर तीरावरील तेवारम मंदिर आहे; विजय या नावानेही ओळखल्या जाणाऱ्या अर्जुनाने येथे शिवाकडून पाशुपत अस्त्र मिळवले ते स्थान म्हणून ते स्मरले जाते.",
   "sections": {
-    "history": "Tiruvijayamangai lies in the Thanjavur district, in the old Chola heartland north of the Kaveri, where a long chain of Shiva shrines was sung by the Tevaram saints. This temple is one of them, praised in the hymns of Sambandar and Appar, which makes it a Paadal Petra Sthalam. The name carries the story: Vijaya is another name of Arjuna, the Pandava archer, and the Lord here is Vijayanathar, the master of his victory. The shrine is built in the manner of the medieval Chola temples and has been kept in worship by the village around it for many centuries, though no firm record of its founder or founding date has come down to us.",
-    "architecture": "This is a compact temple in the Chola manner, whose charm lies in its quiet scale rather than in monumental towers. The sanctum houses the Shiva linga, worshipped as self-manifested, and tradition points to a scar on its surface, the mark of Arjuna's blow in the encounter that gave the temple its name. The goddess Mangalanayaki is worshipped here as the Lord's consort. Close by lies the Arjuna Teertham, the sacred tank named for the hero whose penance is remembered here, where devotees bathe and sit in quiet before entering the shrine.",
-    "legends": "The legend of Tiruvijayamangai belongs to the Mahabharata. On Krishna's counsel, Arjuna came to this place to perform severe penance, seeking Shiva's grace and the divine weapon known as the Pashupatastra. While he sat in meditation, a demon named Mukasura came to disturb him, and Shiva appeared before the warrior in the guise of a hunter. A contest followed between the archer and the hunter. Pleased by Arjuna's courage, devotion and steadiness, the Lord revealed himself with the goddess and placed the Pashupatastra in his hands. Local belief holds that the scar of that encounter can still be seen on the linga, and from it the Lord takes the name Vijayanathar.",
-    "festivals": "The great festival of the temple is Maha Shivaratri, kept in the Tamil month of Masi (February to March), when the village gathers through the night for worship of Vijayanathar. The monthly Pradosham is observed here as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar and smaller village temples may keep a modest festival calendar.",
-    "experience": "Tiruvijayamangai rewards a quiet, unhurried visit. It is a village temple, far from the crowds of the larger Kaveri shrines, and the stillness of the surrounding fields is part of its charm. Begin at the Arjuna Teertham, then come to the sanctum of Vijayanathar and look for the mark on the linga that tradition ties to Arjuna's encounter, before turning to the goddess Mangalanayaki. Many devotees come to pray for success in their undertakings, as the Lord's name suggests, and the story of the archer who won grace through penance gives the visit a quiet encouragement of its own."
+    "history": "तिरुविजयमंगै तंजावूर जिल्ह्यात, कावेरीच्या उत्तरेकडील जुन्या चोळ मध्यभूमीत आहे, जिथे तेवारम संतांनी गायलेली शिवमंदिरांची दीर्घ साखळी आहे. हे मंदिर त्यांपैकी एक आहे; संबंधर आणि अप्पर यांच्या स्तोत्रांत त्याची स्तुती केली आहे, ज्यामुळे ते पाडल पेट्र स्थलम ठरते. नावातच कथा आहे: विजय हे पांडव धनुर्धर अर्जुनाचे दुसरे नाव आहे, आणि येथील प्रभू विजयनाथर, म्हणजे त्याच्या विजयाचे स्वामी. मंदिर मध्ययुगीन चोळ मंदिरांच्या शैलीत बांधलेले असून भोवतालच्या गावाने अनेक शतके येथे पूजा चालू ठेवली आहे; तरी त्याचा संस्थापक किंवा स्थापनेची निश्चित तारीख सांगणारी कोणतीही नोंद आपल्यापर्यंत आलेली नाही.",
+    "architecture": "हे चोळ शैलीतील आटोपशीर मंदिर आहे, ज्याचे आकर्षण भव्य गोपुरांत नसून त्याच्या शांत आकारमानात आहे. गर्भगृहात शिवलिंग आहे, जे स्वयंभू मानून पूजले जाते, आणि परंपरा त्याच्या पृष्ठभागावरील एका व्रणाकडे निर्देश करते - ज्या झुंजीमुळे मंदिराला हे नाव मिळाले त्यात अर्जुनाने मारलेल्या प्रहाराची ती खूण. देवी मंगलनायकीची येथे प्रभूंची पत्नी म्हणून पूजा केली जाते. जवळच अर्जुन तीर्थम आहे, ज्याच्या तपश्चर्येचे येथे स्मरण केले जाते त्या वीराच्या नावाने ओळखला जाणारा पवित्र तलाव, जिथे भक्त स्नान करतात आणि मंदिरात प्रवेश करण्यापूर्वी शांतपणे बसतात.",
+    "legends": "तिरुविजयमंगैची आख्यायिका महाभारताशी संबंधित आहे. कृष्णाच्या सल्ल्यानुसार अर्जुन शिवाची कृपा आणि पाशुपतास्त्र नावाचे दिव्य अस्त्र मिळवण्यासाठी कठोर तपश्चर्या करण्यास या स्थळी आला. तो ध्यानस्थ असताना मूकासुर नावाचा राक्षस त्याला त्रास देण्यास आला, आणि शिव शिकाऱ्याच्या रूपात त्या योद्ध्यासमोर प्रकटले. धनुर्धर आणि शिकारी यांच्यात झुंज झाली. अर्जुनाचे धैर्य, भक्ती आणि स्थिरता पाहून प्रसन्न झालेल्या प्रभूंनी देवीसह स्वतःचे दर्शन दिले आणि पाशुपतास्त्र त्याच्या हाती दिले. स्थानिक श्रद्धा अशी की त्या झुंजीचा व्रण आजही लिंगावर दिसतो, आणि त्यावरूनच प्रभूंना विजयनाथर हे नाव मिळाले.",
+    "festivals": "मंदिराचा महान उत्सव महाशिवरात्री आहे, जो तमिळ मासी महिन्यात (फेब्रुवारी ते मार्च) साजरा होतो; त्या वेळी संपूर्ण गाव रात्रभर विजयनाथरांच्या पूजेसाठी जमते. प्रत्येक शिवमंदिराप्रमाणे येथेही मासिक प्रदोषम पाळला जातो. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात, कारण त्या तमिळ दिनदर्शिकेनुसार येतात आणि लहान ग्रामीण मंदिरांचे उत्सव-कॅलेंडर साधे असू शकते.",
+    "experience": "तिरुविजयमंगै शांत, निवांत भेटीचे चीज करते. हे ग्रामीण मंदिर असून कावेरीकाठच्या मोठ्या मंदिरांच्या गर्दीपासून दूर आहे, आणि भोवतालच्या शेतांची निःस्तब्धता हा त्याच्या आकर्षणाचा भाग आहे. अर्जुन तीर्थमपासून सुरुवात करा, मग विजयनाथरांच्या गर्भगृहात या आणि लिंगावरील ती खूण पाहा जी परंपरा अर्जुनाच्या झुंजीशी जोडते, आणि नंतर देवी मंगलनायकीकडे वळा. अनेक भक्त प्रभूंच्या नावाप्रमाणे आपल्या उपक्रमांत यश मिळावे यासाठी प्रार्थना करायला येतात, आणि तपश्चर्येने कृपा मिळवलेल्या धनुर्धराची कथा भेटीला स्वतःचे असे शांत प्रोत्साहन देते."
   },
   "visit": {
-    "timings": "Typically open from about 8:00 a.m. to noon and again from about 5:00 p.m. to 7:00 p.m.; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple stands in the village of Tiruvijayamangai, now known as Govindaputhur, in the Kumbakonam area of Thanjavur district, roughly 11 to 13 km from Kumbakonam, which is the nearest railway station. Buses run toward the village, and visitors can alight at Govindaputhur, from where the temple is a short walk. Tiruchirappalli is the nearest major airport. Local auto-rickshaws or a hired car from Kumbakonam make the visit easiest, and the nearby Thiruvaikavur temple can be combined in the same day."
+    "timings": "सहसा सकाळी सुमारे ८:०० ते दुपारी १२:०० आणि पुन्हा संध्याकाळी सुमारे ५:०० ते ७:०० या वेळेत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-पँट, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाह्य प्रदक्षिणा-मार्गांत आणि अंगणांत छायाचित्रणाला सहसा परवानगी असते, परंतु गर्भगृहाच्या आत ते निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "मंदिर तंजावूर जिल्ह्यातील कुंभकोणम परिसरातील तिरुविजयमंगै गावात आहे, जे आता गोविंदपुत्तूर म्हणून ओळखले जाते; सर्वांत जवळचे रेल्वे स्थानक असलेल्या कुंभकोणमपासून ते साधारण ११ ते १३ किमी अंतरावर आहे. गावाच्या दिशेने बसेस धावतात, आणि प्रवासी गोविंदपुत्तूर येथे उतरू शकतात, तेथून मंदिर थोड्या पायी अंतरावर आहे. सर्वांत जवळचे मोठे विमानतळ तिरुचिरापल्ली आहे. कुंभकोणमहून स्थानिक ऑटो-रिक्षा किंवा भाड्याची गाडी घेतल्यास भेट सर्वांत सोपी होते, आणि जवळचे तिरुवैकावूर मंदिर त्याच दिवशी जोडता येते."
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "lad-khan-aihole",
   "locale": "mr",
+  "name": "लाड खान मंदिर, ऐहोळे",
   "nativeName": "ಲಾಡ್ ಖಾನ್ ದೇವಾಲಯ, ಐಹೊಳೆ",
+  "deity": "शिव — सध्या गर्भगृहात शिवलिंग आहे; मूळ समर्पण वादग्रस्त असून विष्णू किंवा सूर्य यांचे नाव सुचवले जाते",
+  "tradition": "शैव",
   "location": {
-    "city": "Aihole",
-    "state": "Karnataka",
+    "city": "ऐहोळे",
+    "state": "कर्नाटक",
     "lat": 16.0199,
     "lng": 75.8812
   },
+  "period": "आद्य चालुक्य; कालनिर्णय पाचव्या ते आठव्या शतकादरम्यान वेगवेगळ्या प्रकारे केला जातो",
   "century": 5,
+  "dynasty": "बदामीचे चालुक्य (आद्य चालुक्य)",
+  "style": "आद्य चालुक्य, प्रयोगशील स्तंभयुक्त सभामंडप रचना",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "ऐहोळे येथील सर्वांत जुन्या मंदिरांपैकी एक असलेला स्तंभयुक्त लाड खान सभामंडप लहान गर्भगृहाभोवती चौकोनात चौकोन अशी रचना करतो; छतावरील लहान देवालय आणि दगडी जाळ्या चालुक्य स्थापत्याच्या आरंभीच्या, प्रयोगशील टप्प्याचे द्योतक आहेत.",
   "sections": {
-    "history": "Lad Khan is one of the oldest standing temples at Aihole, inside the walled enclosure beside the Durga temple. Its date is genuinely debated: older accounts place it in the seventh or eighth century, while current scholarship leans towards about the fifth century, with the porch perhaps added not long afterwards. The name does not come from its builders; it recalls a man called Lad Khan who is said to have lived in the building in the nineteenth century, and accounts differ on whether he was a prince or a hermit. Some scholars suggest the shrine was first dedicated to Vishnu and later to the sun god Surya; today a Shiva linga stands in its sanctum. It is a protected monument, kept by the Archaeological Survey of India.",
-    "architecture": "Where later temples rise in towers, Lad Khan spreads out like an assembly hall. A deep porch with heavy square pillars leads into a sabha-mandapa whose pillars are set in two concentric squares, and beyond it a mukha-mandapa carried on twelve carved pillars; a small rectangular sanctum waits at the back. Large stone lattice windows let light into the hall, and low sloping roofs step down around a little shrine perched on the roof, which holds images of Vishnu, Surya and the Devi. Many architectural historians see in this low, broad form a stone echo of the timber village halls that came before.",
-    "legends": "Lad Khan’s stories belong to the building itself. Its name tells of a later occupant who made a home of the old hall, and the roof shrine, with its images of Vishnu, Surya and the Devi, hints at a long conversation between faiths under one roof. Aihole’s wider folklore is close at hand: tradition says the sage Parashurama washed his axe in the Malaprabha here and turned the river red, giving the town its name. No single legend is fixed to this temple; visitors are invited to read the puzzle of its dedication in the stone.",
-    "festivals": "Lad Khan is a protected monument rather than a temple with a daily round of worship, so it keeps no festival calendar of its own. Aihole’s living shrines and village fairs follow local custom, Maha Shivaratri being the observance most associated with a Shiva linga; confirm dates locally. The Chalukya monuments are also celebrated together in regional heritage festivals of music and dance.",
-    "experience": "Step into the porch and the hall opens around you in squares within squares, cool and dim after the Aihole sun. Light falls through the stone lattices in patterns that drift across the floor through the day. Look up to the little roof shrine, then walk on to the neighbouring Durga temple and the scattered shrines beyond. Early morning or late afternoon is gentler for the enclosure."
+    "history": "लाड खान हे ऐहोळे येथील सर्वांत जुन्या उभ्या मंदिरांपैकी एक असून ते दुर्गा मंदिराशेजारी, तटबंदी असलेल्या आवारात आहे. त्याचा काळ खरोखरच वादग्रस्त आहे; जुन्या मतांनुसार ते सातव्या किंवा आठव्या शतकातील आहे, तर सध्याचे संशोधन सुमारे पाचव्या शतकाकडे झुकते, आणि प्रवेशमंडप कदाचित त्यानंतर लवकरच जोडला गेला असावा. हे नाव त्याच्या बांधकाम करणाऱ्यांवरून पडलेले नाही; एकोणिसाव्या शतकात या वास्तूत राहिला असे सांगितले जाणाऱ्या लाड खान नावाच्या माणसाची ते आठवण करून देते, आणि तो राजपुत्र होता की संन्यासी, याबद्दल मतभेद आहेत. काही अभ्यासकांच्या मते हे देवालय प्रथम विष्णूला आणि नंतर सूर्यदेवाला समर्पित असावे; आज त्याच्या गर्भगृहात शिवलिंग विराजमान आहे. हे संरक्षित स्मारक असून भारतीय पुरातत्त्व सर्वेक्षणाकडे त्याची देखभाल आहे.",
+    "architecture": "नंतरची मंदिरे शिखरांमध्ये उंचावतात, पण लाड खान एखाद्या सभागृहाप्रमाणे पसरलेले आहे. जड चौकोनी स्तंभ असलेला खोल प्रवेशमंडप सभामंडपात नेतो, ज्याचे स्तंभ दोन एककेंद्री चौकोनांत मांडलेले आहेत; त्यापलीकडे बारा कोरीव स्तंभांवर उभा मुखमंडप आहे, आणि मागच्या बाजूला एक लहान आयताकृती गर्भगृह आहे. मोठ्या दगडी जाळीदार खिडक्यांतून सभामंडपात प्रकाश येतो, आणि उतरत्या कमी उंचीची छपरे पायऱ्यापायऱ्यांनी खाली येऊन छतावर वसलेल्या एका लहान देवालयाभोवती वेढा घालतात; त्यात विष्णू, सूर्य आणि देवी यांच्या मूर्ती आहेत. अनेक स्थापत्य इतिहासकारांना या कमी उंचीच्या, रुंद रचनेत पूर्वीच्या लाकडी ग्रामसभागृहांचे दगडातील प्रतिध्वनी दिसते.",
+    "legends": "लाड खानच्या कथा या वास्तूशीच निगडित आहेत. त्याचे नाव एका नंतरच्या रहिवाशाची गोष्ट सांगते, ज्याने जुन्या सभामंडपाला आपले घर बनवले; आणि छतावरील देवालय, ज्यात विष्णू, सूर्य आणि देवी यांच्या मूर्ती आहेत, एकाच छताखाली विविध उपासनापरंपरांमधील दीर्घ संवादाकडे निर्देश करते. ऐहोळेची व्यापक लोककथा जवळच आहे; परंपरा सांगते की परशुरामाने येथे मलप्रभा नदीत आपला परशू धुतला आणि नदी लाल झाली, यावरून गावाला हे नाव मिळाले. या मंदिराशी कोणतीही एक कथा निश्चितपणे जोडलेली नाही; त्याच्या समर्पणाचे कोडे दगडांमध्ये वाचण्याचे आमंत्रण भाविकांना आणि पर्यटकांना आहे.",
+    "festivals": "लाड खान हे नित्य पूजाविधी चालणारे मंदिर नसून संरक्षित स्मारक आहे, म्हणून त्याचे स्वतःचे उत्सव-दिनदर्शिका नाही. ऐहोळेतील जिवंत देवालये आणि गावच्या जत्रा स्थानिक रीतिरिवाजांनुसार चालतात; शिवलिंगाशी सर्वाधिक जोडलेला सोहळा महाशिवरात्री आहे; तारखा स्थानिक पातळीवर पडताळून घ्याव्यात. चालुक्यकालीन स्मारके एकत्रितपणे प्रादेशिक वारसा महोत्सवांमध्येही, संगीत आणि नृत्याद्वारे साजरी केली जातात.",
+    "experience": "प्रवेशमंडपात पाऊल ठेवताच ऐहोळेच्या उन्हानंतर थंड आणि मंद प्रकाशाचा सभामंडप चौकोनात चौकोन असा तुमच्याभोवती उलगडतो. दगडी जाळ्यांतून येणारा प्रकाश दिवसभर फरशीवर सरकणारी नक्षी रेखाटतो. छतावरील लहान देवालयाकडे वर पाहा, मग शेजारच्या दुर्गा मंदिराकडे आणि पलीकडे विखुरलेल्या देवालयांकडे जा. आवाराला भेट देण्यासाठी पहाटेची किंवा उशिरा दुपारची वेळ अधिक सुखद असते."
   },
   "visit": {
-    "timings": "A protected Archaeological Survey of India monument within the Aihole temple enclosure, open in daytime hours like the other ASI sites here; a ticket is required. Confirm current hours and fees locally.",
-    "dressCode": "No strict dress code applies, but modest dress is appropriate at a sacred site; comfortable footwear helps on the uneven ground.",
-    "photography": "Photography is generally allowed in the open monument; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Aihole is in Bagalkot district, about 35 km from Badami and 15 km from Pattadakal by road; the nearest railheads are Badami and Bagalkot, and the nearest airport is Hubballi. The temple stands in the same walled enclosure as the Durga temple."
+    "timings": "ऐहोळे मंदिर आवारातील भारतीय पुरातत्त्व सर्वेक्षणाचे संरक्षित स्मारक; येथील इतर पुरातत्त्व स्थळांप्रमाणे दिवसाच्या वेळेत खुले असते; तिकीट आवश्यक आहे. सध्याच्या वेळा आणि शुल्क स्थानिक पातळीवर पडताळून घ्या.",
+    "dressCode": "कडक पोशाखनियम नाही, परंतु पवित्र स्थळी साधा आणि सभ्य पोशाख योग्य ठरतो; असमान जमिनीवर आरामदायी पादत्राणे उपयोगी पडतात.",
+    "photography": "खुल्या स्मारकात छायाचित्रणास साधारणपणे परवानगी आहे; ट्रायपॉड किंवा व्यावसायिक चित्रीकरणासाठी स्थळाच्या अधिकाऱ्यांची परवानगी लागू शकते.",
+    "gettingThere": "ऐहोळे बागलकोट जिल्ह्यात असून बदामीपासून रस्त्याने सुमारे ३५ किमी आणि पट्टदकलपासून १५ किमी अंतरावर आहे; जवळची रेल्वेस्थानके बदामी आणि बागलकोट आहेत, आणि जवळचे विमानतळ हुबळी आहे. हे मंदिर दुर्गा मंदिराच्या त्याच तटबंदीच्या आवारात आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/lad-khan-aihole.jpg",

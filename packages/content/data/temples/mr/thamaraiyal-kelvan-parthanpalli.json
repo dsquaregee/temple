@@ -1,29 +1,36 @@
 {
   "id": "thamaraiyal-kelvan-parthanpalli",
   "locale": "mr",
+  "name": "तामरैयाळ केळ्वन पेरुमाळ मंदिर, तिरुपार्थनपळ्ळी",
   "nativeName": "தாமரையாள் கேள்வன் பெருமாள் கோயில், திருப்பார்த்தன்பள்ளி",
+  "deity": "तामरैयाळ केळ्वन पेरुमाळ (उत्सवमूर्ती पार्थसारथी) रूपातील विष्णू, तामरै नायकी (सेंगमलवल्ली) यांच्यासह — तिरुपार्थनपळ्ळी, अकरा तिरुनांगूर दिव्य देशांपैकी एक",
+  "tradition": "वैष्णव पंथ",
   "location": {
-    "city": "Parthanpalli",
-    "state": "Tamil Nadu",
+    "city": "पार्थनपळ्ळी",
+    "state": "तमिळनाडू",
     "lat": 11.16972,
     "lng": 79.79722
   },
+  "period": "चोळ नाडूमधील एक दिव्य देश, अकरा तिरुनांगूर मंदिरांपैकी एक; तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधममध्ये गायिलेले",
   "century": 8,
+  "dynasty": "चोळ प्रदेश (नंतरच्या शतकांत जीर्णोद्धार)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "सीर्काळीजवळील पार्थनपळ्ळी येथे विष्णू तामरैयाळ केळ्वन, म्हणजे 'कमलाधिष्ठित देवीचा पती', आणि अर्जुनाचा सारथी पार्थसारथी म्हणून विराजमान आहेत — तिरुमंगै आळवारांनी गायिलेला चोळ नाडूमधील दिव्य देश, कड्ग पुष्करिणीच्या काठी.",
   "sections": {
-    "history": "Thiruparthanpalli is one of the 108 Divya Desams and belongs to Chola Nadu, in the village of Parthanpalli on the way from Sirkazhi to Thiruvenkadu. It is one of the eleven Vishnu shrines of Thirunangur, each sung by Thirumangai Alvar in the Nalayira Divya Prabandham. The presiding Lord is Thamaraiyal Kelvan Perumal, 'the consort of the lotus lady', while the festival image is Parthasarathy, the charioteer of Partha, that is Arjuna. Thamarai Nayagi, also called Sengamalavalli, is the Goddess. The Alvar's hymn places the shrine in the eighth century. Pilgrims of the Thirunangur circuit visit it on the road to Thiruvenkadu.",
-    "architecture": "The sanctum is crowned by the Narayana vimana. The temple tank is the Kadga Pushkarini, the 'sword tank', which takes its name from the legend told of this place. As across Thirunangur, it is a village shrine of the Dravidian tradition, modest in scale and close to its tank. Thamarai Nayagi, the Lotus Lady whose name the presiding Lord bears as his own, is worshipped as the Thayar, and Parthasarathy is the utsavar taken out in procession.",
-    "legends": "Tradition, as told from the Padma Purana, speaks of Arjuna on pilgrimage, grown thirsty, who asked the sage Agastya, then in penance here, for water. Agastya had none, and Krishna handed Arjuna a sword; with it he dug the earth and water gushed forth, said to be linked to the Ganga. Hence the Kadga Pushkarini and the name Parthan-palli, 'Partha's place'. Krishna is said to have shown himself here as Parthasarathy, and Varuna and the sages Agastya, Bharadvaja and Gautama are remembered as having done penance at this spot.",
-    "festivals": "The chief celebration is the Thirumangai Alvar Mangalasasana Utsavam in the Tamil month of Thai, when the Thirunangur Garuda Sevai is also held on the day after Thai Amavasai and the utsavars of the eleven shrines gather at Thirumanimadam. Parthasarathy's procession is a focus of the temple's calendar. Confirm dates locally.",
-    "experience": "A quiet village shrine on the road to Thiruvenkadu, where the pilgrim comes first for Thamaraiyal Kelvan and then for the tale of Arjuna's sword. Ask to see the Kadga Pushkarini and reflect on the water that tradition says rose from the earth. It combines easily with its neighbours among the eleven Thirunangur Divya Desams in a single day's circuit."
+    "history": "तिरुपार्थनपळ्ळी हा १०८ दिव्य देशांपैकी एक असून तो चोळ नाडूमध्ये, सीर्काळी ते तिरुवेण्काडू मार्गावरील पार्थनपळ्ळी गावात आहे. तिरुनांगूर येथील विष्णूच्या अकरा मंदिरांपैकी हे एक असून, प्रत्येकाचे गायन तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधममध्ये केले आहे. मूळ देव तामरैयाळ केळ्वन पेरुमाळ, म्हणजे 'कमलाधिष्ठित देवीचा पती' आहेत, तर उत्सवमूर्ती पार्थसारथी, म्हणजे पार्थ अर्थात अर्जुनाचा सारथी, आहे. तामरै नायकी, जिला सेंगमलवल्ली असेही म्हणतात, ही देवी आहे. आळवारांच्या स्तोत्रानुसार हे मंदिर आठव्या शतकातील मानले जाते. तिरुनांगूर परिक्रमेतील यात्रेकरू तिरुवेण्काडूच्या वाटेवर याचे दर्शन घेतात.",
+    "architecture": "गर्भगृहावर नारायण विमानाचा मुकुट आहे. मंदिराचा तलाव कड्ग पुष्करिणी, म्हणजे 'तलवारीचा तलाव', असून या स्थळाच्या कथेवरून त्याला हे नाव मिळाले आहे. संपूर्ण तिरुनांगूरप्रमाणेच हे द्रविड परंपरेतील ग्रामीण मंदिर असून आकाराने लहान आणि आपल्या तलावाला लागून आहे. तामरै नायकी, म्हणजे कमलाधिष्ठित देवी, जिचे नाव मूळ देव स्वतःचे म्हणून धारण करतात, तिची थायार म्हणून पूजा होते, आणि पार्थसारथी ही मिरवणुकीत नेली जाणारी उत्सवमूर्ती आहे.",
+    "legends": "पद्म पुराणातील कथेनुसार, तीर्थयात्रेवर निघालेला अर्जुन तहानेने व्याकूळ झाला आणि येथे तपश्चर्या करीत असलेल्या अगस्त्य ऋषींकडे त्याने पाणी मागितले. अगस्त्यांकडे पाणी नव्हते, तेव्हा कृष्णाने अर्जुनाच्या हाती एक तलवार दिली; तिने त्याने जमीन खणली आणि पाण्याचा उमाळा फुटला, जो गंगेशी जोडलेला असल्याचे सांगितले जाते. म्हणूनच कड्ग पुष्करिणी आणि 'पार्थाचे स्थान' या अर्थाचे पार्थन-पळ्ळी हे नाव. कृष्णाने येथे पार्थसारथी रूपात दर्शन दिले असे म्हणतात, आणि वरुण तसेच अगस्त्य, भारद्वाज व गौतम हे ऋषी या स्थळी तपश्चर्या करीत असल्याचे स्मरण केले जाते.",
+    "festivals": "मुख्य उत्सव म्हणजे तमिळ थाई महिन्यातील तिरुमंगै आळवार मंगलाशासन उत्सव; त्या वेळी थाई अमावास्येच्या दुसऱ्या दिवशी तिरुनांगूर गरुड सेवाही होते आणि अकरा मंदिरांच्या उत्सवमूर्ती तिरुमणिमाडम येथे एकत्र येतात. पार्थसारथीची मिरवणूक हा मंदिराच्या वर्षपंचांगातील केंद्रबिंदू आहे. तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "तिरुवेण्काडूच्या वाटेवरील एक शांत ग्रामीण मंदिर, जेथे यात्रेकरू आधी तामरैयाळ केळ्वन यांच्यासाठी आणि नंतर अर्जुनाच्या तलवारीच्या कथेसाठी येतो. कड्ग पुष्करिणी पाहून घ्या आणि परंपरेनुसार भूमीतून उसळलेल्या त्या पाण्याचे चिंतन करा. अकरा तिरुनांगूर दिव्य देशांपैकी शेजारच्या मंदिरांसह एका दिवसाच्या फेरीत हे सहज जोडता येते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Thai Garuda Sevai is the busiest day. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Parthanpalli lies about 8 km east of Sirkazhi in Mayiladuthurai district, on the road towards Thiruvenkadu. Sirkazhi has a railway station on the Chennai–Chidambaram–Mayiladuthurai line; the major airports are Tiruchirappalli and Chennai. Take a taxi or autorickshaw from Sirkazhi."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शनवेळांसह उघडे असते, मध्यान्हीला बंद असते; थाईमधील गरुड सेवेचा दिवस सर्वाधिक गर्दीचा असतो. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "पार्थनपळ्ळी मयिलादुथुरै जिल्ह्यात, सीर्काळीच्या पूर्वेस सुमारे ८ किमी अंतरावर, तिरुवेण्काडूकडे जाणाऱ्या रस्त्यावर आहे. सीर्काळी येथे चेन्नई–चिदंबरम–मयिलादुथुरै मार्गावर रेल्वे स्थानक आहे; मोठी विमानतळे तिरुचिरापल्ली आणि चेन्नई येथे आहेत. सीर्काळीहून टॅक्सी किंवा ऑटोरिक्षा घ्या."
   }
 }

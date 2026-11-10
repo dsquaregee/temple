@@ -1,31 +1,42 @@
 {
   "id": "adikesava-thiruvattar",
   "locale": "mr",
+  "name": "आदिकेशव पेरुमाळ मंदिर, तिरुवट्टार",
   "nativeName": "ஆதிகேசவப் பெருமாள் கோயில், திருவட்டாறு",
+  "deity": "आदिशेष नागावर शयन करणारे आदिकेशव पेरुमाळ रूपातील विष्णू, देवी मरगतवल्ली यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruvattar, Kanyakumari district",
-    "state": "Tamil Nadu",
+    "city": "तिरुवट्टार, कन्याकुमारी जिल्हा",
+    "state": "तमिळनाडू",
     "lat": 8.3297,
     "lng": 77.2658
   },
+  "period": "कोथै आणि पराळी नद्यांनी वेढलेले मलै नाडूतील एक दिव्य देशम, ज्याचे गायन नम्माळवारांनी नालायिर दिव्य प्रबंधममध्ये केले आहे",
   "century": 8,
+  "dynasty": "चोळ, वेणाड आणि त्रावणकोर",
+  "style": "केरळ वैशिष्ट्यांसह द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-the-deep-south"
   ],
+  "summary": "जेथे कोथै आणि पराळी नद्या एका उंचवट्याच्या बेटाला वळसा घालतात, तेथे विष्णू आदिशेष नागावर आदिकेशव पेरुमाळ रूपात शयन करतात — नम्माळवारांनी गायिलेले मलै नाडूतील दिव्य देशम, जे रूपाने तिरुवनंतपुरमच्या पद्मनाभांचे आप्त आहे.",
   "sections": {
-    "history": "Thiruvattar — 'the place of the encircling river' — is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and is counted among the shrines of Malai Nadu, the Divya Desams of the Kerala country. Nammalvar sang its reclining lord. The temple's recorded history reaches back to an inscription of the Chola emperor Rajendra I on its bali stone, which names the deity as the god of Thiruvattar. In later centuries the rulers of Venad, forebears of the Travancore royal house, became its patrons: an inscription ascribes the single-stone mandapa to Veera Ravi Varma Kulasekhara, and in the late nineteenth century Moolam Thirunal Rama Varma of Travancore renewed the temple's flagstaff.",
-    "architecture": "The temple stands on raised ground with the rivers curving around it, its granite sanctum roofed in copper in the manner of the Kerala country. Before the sanctum is the Ottakkal Mandapam, the hall associated with a single great stone, whose building is recorded in an inscription of the Venad kings. The reclining image is around 22 feet long — so long that, as at Thiruvananthapuram, it is seen in portions through the three doorways of the sanctum: face, body and feet. One hand hangs gently down while the other is raised in blessing, an uncommon pose.",
-    "legends": "The sthala purana tells that the demons Kesan and Kesi rose to trouble the world, and that Vishnu overcame Kesi and lay down upon him, taking the name Adikesava. Tradition adds that Kesi's wife called on the rivers to sweep the place away, and that the lord raised the ground so that the waters could only flow around it like a garland — the encircling river that gives Thiruvattar its name. Devotees say the lord faces west, toward his kinsman Padmanabha at Thiruvananthapuram.",
-    "festivals": "The Brahmotsavam in the Tamil month of Aippasi (October–November) is the temple's great festival, with processions of the utsava deity. Vaikunta Ekadashi in Margazhi, the Saturdays of Purattasi and Onam are kept with devotion, and in Panguni (March–April) devotees gather for the evenings when the setting sun's rays are said to fall upon the reclining lord.",
-    "experience": "Come in the cool of the morning, when the rivers below the temple catch the light and the sanctum lamps are lit. Take time at the three doorways to see the reclining lord in turn, then rest in the Ottakkal Mandapam. Many pilgrims pair Thiruvattar with the Padmanabhaswamy temple at Thiruvananthapuram and with Thiruvanparisaram near Nagercoil, the other Malai Nadu shrines of this southern country."
+    "history": "तिरुवट्टार — 'वेढणार्‍या नदीचे स्थान' — हे आळवारांनी नालायिर दिव्य प्रबंधममध्ये गायिलेल्या विष्णूंच्या निवासस्थानांपैकी, म्हणजे १०८ दिव्य देशमांपैकी, एक आहे, आणि केरळ प्रदेशातील दिव्य देशम असलेल्या मलै नाडूच्या मंदिरांत त्याची गणना होते. नम्माळवारांनी येथील शयन करणार्‍या प्रभूंचे गायन केले. मंदिराचा नोंदलेला इतिहास चोळ सम्राट पहिले राजेंद्र यांच्या, तेथील बळीपीठावरील शिलालेखापर्यंत जातो, ज्यात देवतेचा उल्लेख तिरुवट्टारचा देव असा केला आहे. पुढील शतकांत वेणाडचे राज्यकर्ते, म्हणजे त्रावणकोर राजघराण्याचे पूर्वज, याचे आश्रयदाते बनले: एका शिलालेखानुसार एकशिळा मंडप वीर रवी वर्मा कुलशेखर यांनी उभारला, आणि एकोणिसाव्या शतकाच्या उत्तरार्धात त्रावणकोरचे मूलम तिरुनाळ राम वर्मा यांनी मंदिराचा ध्वजस्तंभ नवा केला.",
+    "architecture": "हे मंदिर उंच जमिनीवर उभे असून नद्या त्याला वळसा घालून वाहतात; केरळ प्रदेशाच्या पद्धतीनुसार त्याचा ग्रॅनाइटचा गाभारा तांब्याने आच्छादलेला आहे. गाभार्‍यासमोर ओट्टक्कल मंडपम आहे, जो एका महान शिळेशी जोडलेला मंडप असून त्याच्या बांधकामाची नोंद वेणाडच्या राजांच्या शिलालेखात आहे. शयन करणारी मूर्ती सुमारे २२ फूट लांब आहे — इतकी लांब की तिरुवनंतपुरमप्रमाणेच गाभार्‍याच्या तीन द्वारांतून ती भागाभागांत दिसते: मुख, देह आणि चरण. एक हात हळुवारपणे खाली लोंबतो तर दुसरा आशीर्वादासाठी उंचावलेला आहे, हा एक असामान्य आविर्भाव आहे.",
+    "legends": "स्थलपुराणानुसार, केशन आणि केशी हे दानव जगाला त्रास देण्यासाठी उठले, आणि विष्णूंनी केशीवर विजय मिळवून त्याच्यावर शयन केले, व आदिकेशव हे नाव धारण केले. परंपरा पुढे सांगते की केशीच्या पत्नीने नद्यांना ते स्थान वाहून नेण्यास सांगितले, आणि प्रभूंनी जमीन उंच केली, त्यामुळे पाणी त्याभोवती हारासारखेच वाहू शकले — ही वेढणारी नदीच तिरुवट्टारला नाव देते. भक्त सांगतात की प्रभू पश्चिमाभिमुख आहेत, तिरुवनंतपुरम येथील आपल्या आप्त पद्मनाभांकडे पाहत.",
+    "festivals": "तमिळ ऐप्पसी महिन्यातील (ऑक्टोबर–नोव्हेंबर) ब्रह्मोत्सव हा मंदिराचा महान उत्सव असून त्यात उत्सवमूर्तीच्या मिरवणुका निघतात. मार्गळीतील वैकुंठ एकादशी, पुरट्टासीचे शनिवार आणि ओणम भक्तिभावाने साजरे केले जातात, आणि पंगुनी (मार्च–एप्रिल) महिन्यात, मावळत्या सूर्याची किरणे शयन करणार्‍या प्रभूंवर पडतात असे म्हटले जाते त्या संध्याकाळी, भक्त जमतात.",
+    "experience": "सकाळच्या गारव्यात या, जेव्हा मंदिराखालच्या नद्या प्रकाश पकडतात आणि गाभार्‍यातील दिवे प्रज्वलित केले जातात. तीन द्वारांपाशी थांबून शयन करणार्‍या प्रभूंचे क्रमाने दर्शन घ्या, मग ओट्टक्कल मंडपमध्ये विश्रांती घ्या. अनेक यात्रेकरू तिरुवट्टारची जोड तिरुवनंतपुरम येथील पद्मनाभस्वामी मंदिराशी आणि नागरकोविलजवळील तिरुवण्परिसारमशी घालतात, जी या दक्षिणी प्रदेशातील मलै नाडूची इतर मंदिरे आहेत."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure, following the temple's own schedule; festival days are crowded. Confirm current timings locally before you visit.",
-    "dressCode": "Traditional dress is expected: following the Kerala custom observed here, men may be asked to remove their shirts and enter in a dhoti, and women wear saree or other traditional dress; footwear is left outside. Follow posted rules and the guidance of temple staff.",
-    "photography": "Photography is not permitted in and around the sanctum; follow posted rules and the guidance of temple staff.",
-    "gettingThere": "Thiruvattar lies in Kalkulam taluk of Kanyakumari district, inland from Marthandam, and is reached by road from Marthandam, Kuzhithurai or Nagercoil. Kuzhithurai and Nagercoil have railway stations, and Thiruvananthapuram has the nearest airport."
+    "timings": "मंदिराच्या स्वतःच्या वेळापत्रकानुसार दररोज सकाळ आणि संध्याकाळी दर्शनासाठी उघडे असते आणि दुपारी बंद असते; उत्सवांच्या दिवशी गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "पारंपरिक पोशाख अपेक्षित आहे: येथे पाळल्या जाणार्‍या केरळ प्रथेनुसार पुरुषांना सदरा काढून धोतर नेसून प्रवेश करण्यास सांगितले जाऊ शकते, आणि स्त्रिया साडी किंवा इतर पारंपरिक पोशाख परिधान करतात; पादत्राणे बाहेर ठेवावीत. लावलेले नियम आणि मंदिर कर्मचार्‍यांचे मार्गदर्शन पाळावे.",
+    "photography": "गाभार्‍यात आणि त्याच्या आसपास छायाचित्रणाला परवानगी नाही; लावलेले नियम आणि मंदिर कर्मचार्‍यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुवट्टार कन्याकुमारी जिल्ह्यातील कळ्कुळम तालुक्यात, मार्तंडमपासून आत वसलेले असून मार्तंडम, कुळितुरै किंवा नागरकोविल येथून रस्त्याने पोहोचता येते. कुळितुरै आणि नागरकोविल येथे रेल्वेस्थानके आहेत, आणि तिरुवनंतपुरममध्ये सर्वांत जवळचे विमानतळ आहे."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/adikesava-thiruvattar.mp3",
+    "durationSec": 215
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.jpg",
@@ -37,5 +48,11 @@
       "webp": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.webp"
     },
     "og": "https://media.dsquaregee.com/og/adikesava-thiruvattar.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/adikesava-thiruvattar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.jpg",
+    "durationSec": 165,
+    "credit": "Manukrishnan80 / Wikimedia Commons (CC BY-SA 4.0) · Infocaster at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Vaikunda Raja / Wikimedia Commons (CC0) · Destination8infinity / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

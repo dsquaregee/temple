@@ -1,30 +1,37 @@
 {
   "id": "valvil-raman-pullabhoothangudi",
   "locale": "mr",
+  "name": "वल्विल रामर मंदिर, तिरुप्पुळ्ळंभूतंगुडी",
   "nativeName": "வல்வில் ராமர் கோயில், திருப்புள்ளம்பூதங்குடி",
+  "deity": "विष्णू वल्विल रामर रूपात — पराक्रमी धनुष्याचा राम — शयन अवस्थेत, देवी पोट्रामरैयाळ यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirupullabhoothangudi",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पुळ्ळंभूतंगुडी",
+    "state": "तमिळनाडू",
     "lat": 10.971,
     "lng": 79.303
   },
+  "period": "कुंभकोणमजवळील चोळ प्रदेशातील दिव्य देशम, नालायिर दिव्य प्रबंधमात तिरुमंगै आळवार यांनी गायलेले",
   "century": 8,
+  "dynasty": "मध्ययुगीन चोळ, नंतरच्या भरीसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "कुंभकोणमजवळील तिरुप्पुळ्ळंभूतंगुडी येथे राम वल्विल रामर रूपात शयन करतो, जेथे परंपरेनुसार त्याने गरुडपक्षी जटायूचे अंत्यसंस्कार केले — तिरुमंगै आळवारांनी गायलेला चोळ नाडूतील दिव्य देशम.",
   "sections": {
-    "history": "Thirupullabhoothangudi is a small village near Swamimalai, a short distance from Kumbakonam, and its temple is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham. It belongs to Chola Nadu, the Kaveri country so densely sown with Vaishnava shrines. Here Vishnu is worshipped as Valvil Ramar — Rama of the strong bow — with the Goddess Potramaraiyal, 'she of the golden lotus'. Thirumangai Alvar sang the shrine in his Periya Thirumozhi, recalling the story that gives the village its name. The temple is believed to have been built by the Medieval Cholas, with additions by later rulers.",
-    "architecture": "The temple is laid out in the Dravidian manner of the Chola delta, its sanctum crowned by the Shobhana Vimana. Within, Rama lies in the bhujanga sayanam posture, reclining and facing east — a form so unusual that devotees speak of this as the one Perumal temple where Rama is seen at rest rather than standing with his bow. The Goddess has her own shrine; the temple tank, the Jatayu Theertham, is named for the bird-king of the legend, and the punnai is the sacred tree.",
-    "legends": "The sthala purana follows the Ramayana. After the eagle-king Jatayu fell fighting Ravana to save Sita, Rama and Lakshmana found him dying, and Rama himself performed his funeral rites here, honouring the bird as a father. The village name is linked to the episode — 'pul' is the Tamil word for bird. As Sita was not with him then, tradition says, the Goddess Lakshmi rose from the golden lotus of the temple tank to stand beside Rama for the rites, and so she is worshipped as Potramaraiyal.",
-    "festivals": "Vaikunta Ekadashi in Margazhi (December–January) and Rama Navami in spring are natural occasions for a visit to this shrine of Rama. Festival days follow the Sri Vaishnava calendar and shift from year to year, so check with the temple before planning a visit.",
-    "experience": "This is an intimate temple, and the reclining Rama is its revelation: come expecting the archer and find instead a lord at rest. Spend a moment at the Jatayu Theertham, where a story of loyalty unto death is remembered. Thirupullabhoothangudi lies close to the Divya Desam of Thiruaadhanur and to Swamimalai, so the three are easily visited together from Kumbakonam."
+    "history": "तिरुप्पुळ्ळंभूतंगुडी हे स्वामीमलैजवळचे, कुंभकोणमपासून थोड्या अंतरावरील लहानसे गाव आहे, आणि त्याचे मंदिर हे १०८ दिव्य देशमांपैकी एक आहे — नालायिर दिव्य प्रबंधमात आळवारांनी गायलेली विष्णूची निवासस्थाने. ते चोळ नाडूचा भाग आहे, म्हणजे वैष्णव मंदिरांनी दाटलेला कावेरी प्रदेश. येथे विष्णू वल्विल रामर — बलवान धनुष्याचा राम — म्हणून पूजिला जातो, देवी पोट्रामरैयाळ, म्हणजे ‘सुवर्ण कमळवासिनी’ हिच्यासह. तिरुमंगै आळवारांनी आपल्या पेरिय तिरुमोळीत या मंदिराचे गायन केले, गावाला नाव देणाऱ्या कथेचे स्मरण करत. हे मंदिर मध्ययुगीन चोळांनी बांधले, नंतरच्या राज्यकर्त्यांच्या भरीसह, असे मानले जाते.",
+    "architecture": "मंदिराची रचना चोळ त्रिभुज प्रदेशाच्या द्रविड पद्धतीची असून त्याच्या गर्भगृहावर शोभन विमान आहे. आत राम भुजंग शयन मुद्रेत, पूर्वेकडे तोंड करून शयन करतो — हे रूप इतके असामान्य आहे की भक्त याला असे एकमेव पेरुमाळ मंदिर म्हणतात जेथे राम धनुष्य घेऊन उभा नसून विश्रांती घेताना दिसतो. देवीचे स्वतंत्र मंदिर आहे; मंदिराचे तीर्थ, जटायू तीर्थम, आख्यायिकेतील पक्षीराजाच्या नावाने ओळखले जाते, आणि पुन्नै हा पवित्र वृक्ष आहे.",
+    "legends": "स्थलपुराण रामायणाला अनुसरते. पक्षीराज जटायू सीतेला वाचवण्यासाठी रावणाशी लढताना पडल्यानंतर, राम आणि लक्ष्मणाला तो मरणासन्न अवस्थेत आढळला, आणि रामाने स्वतः येथे त्याचे अंत्यसंस्कार केले, त्या पक्ष्याचा पित्यासमान सन्मान करून. गावाचे नाव या प्रसंगाशी जोडलेले आहे — ‘पुळ’ म्हणजे तमिळमध्ये पक्षी. परंपरा सांगते की तेव्हा सीता त्याच्याबरोबर नव्हती, म्हणून विधींसाठी रामाच्या शेजारी उभे राहण्यास देवी लक्ष्मी मंदिराच्या तीर्थातील सुवर्ण कमळातून प्रकट झाली, आणि म्हणून ती पोट्रामरैयाळ म्हणून पूजिली जाते.",
+    "festivals": "मार्गळी महिन्यातील (डिसेंबर–जानेवारी) वैकुंठ एकादशी आणि वसंतातील रामनवमी हे रामाच्या या मंदिराच्या भेटीसाठी स्वाभाविक प्रसंग आहेत. उत्सवाचे दिवस श्री वैष्णव दिनदर्शिकेनुसार ठरतात आणि वर्षागणिक बदलतात, म्हणून भेटीची योजना करण्यापूर्वी मंदिराकडे चौकशी करावी.",
+    "experience": "हे एक जिव्हाळ्याचे मंदिर आहे, आणि शयन करणारा राम हा त्याचा साक्षात्कार आहे: धनुर्धारी पाहण्याची अपेक्षा घेऊन या आणि त्याऐवजी विश्रांती घेणारा प्रभू पाहा. जटायू तीर्थमजवळ क्षणभर थांबा, जेथे मरेपर्यंतच्या निष्ठेची कथा स्मरली जाते. तिरुप्पुळ्ळंभूतंगुडी हे तिरुआदनूर दिव्य देशम आणि स्वामीमलैजवळ आहे, म्हणून कुंभकोणमहून ही तिन्ही स्थळे सहज एकत्र पाहता येतात."
   },
   "visit": {
-    "timings": "Open daily for morning and evening darshan, with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is removed before entering. Follow posted rules and the guidance of the priests.",
-    "photography": "Photography is restricted in and around the sanctum; follow posted rules and the guidance of the priests.",
-    "gettingThere": "Thirupullabhoothangudi is a village near Swamimalai in Thanjavur district, about 10 km from Kumbakonam by road. Kumbakonam has the nearest railway station; Tiruchirappalli has the nearest airport."
+    "timings": "सकाळ आणि संध्याकाळच्या दर्शनासाठी रोज खुले, दुपारी बंद; उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधे पारंपरिक पोशाख अपेक्षित आहेत — खांदे आणि गुडघे झाकलेले; प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेल्या नियमांचे आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेल्या नियमांचे आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करावे.",
+    "gettingThere": "तिरुप्पुळ्ळंभूतंगुडी हे तंजावर जिल्ह्यातील स्वामीमलैजवळचे गाव असून कुंभकोणमपासून रस्त्याने सुमारे १० किमी अंतरावर आहे. सर्वांत जवळचे रेल्वे स्थानक कुंभकोणम येथे आहे; सर्वांत जवळचे विमानतळ तिरुचिरापल्ली येथे आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/valvil-raman-pullabhoothangudi.jpg",

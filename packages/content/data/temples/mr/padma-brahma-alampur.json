@@ -1,30 +1,37 @@
 {
   "id": "padma-brahma-alampur",
   "locale": "mr",
+  "name": "पद्म ब्रह्म मंदिर, आलमपूर",
   "nativeName": "పద్మ బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "पद्म ब्रह्मेश्वर रूपातील शिव",
+  "tradition": "शैव पंथ",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "आलमपूर",
+    "state": "तेलंगणा",
     "lat": 15.8779,
     "lng": 78.1344
   },
+  "period": "आरंभिक चालुक्य, सातवे–आठवे शतक; नवब्रह्म समूहातील सर्वांत मोठा आराखडा",
   "century": 8,
+  "dynasty": "बदामीचे चालुक्य",
+  "style": "आरंभिक चालुक्य, उत्तरी (रेखा-नागर) शिखर, आता भग्न",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "आलमपूरच्या नवब्रह्म मंदिरांपैकी पद्म ब्रह्म, म्हणजे ‘कमळ ब्रह्म’, याचा आराखडा सर्वांत मोठा आहे; त्याचे शिखर नष्ट झाले आहे, परंतु गर्भगृहात आजही घासून आरशासारखे चकचकीत केलेले शिवलिंग मंद प्रकाशात लखलखते.",
   "sections": {
-    "history": "Padma Brahma belongs to the Navabrahma group that the Early Chalukyas of Badami raised at Alampur, and on plan it is the largest of the nine, as the Archaeological Survey of India records. No foundation inscription for it is known, and it is usually placed among the later temples of the group, in the seventh to eighth century. Its story since has been one of loss: the curving tower that once rose over the sanctum has fallen, almost all of the sculpture on its facade has been destroyed or carried away, and the building stands today as a partly ruined shell — a measure of how much the precinct suffered in the troubled centuries that followed the fourteenth.",
-    "architecture": "The temple's plan closely follows that of the Vishwa Brahma, with a broad hall opening into the sanctum and a passage for circumambulation enclosing it. Its tower was of the curving northern kind, rising in storeys marked by ribbed amalaka stones at the corners, and survives only in ruin. The sanctum doorway still keeps its river goddesses, Ganga and Yamuna, at either side, and within, the linga is cut from stone polished to a mirror-like finish — the temple's most striking survival.",
-    "legends": "The name Padma Brahma joins the lotus to the creator: in Puranic imagery Brahma is born on a lotus rising from Vishnu's navel, and Alampur's tradition holds that Brahma did penance here and worshipped Shiva in nine forms, one of which this temple remembers. Where so much of the building has been lost, the polished linga gives the dim sanctum a quiet radiance, catching and returning the light of the doorway — a fitting image for a shrine named after the flower that opens to the sun.",
-    "festivals": "Padma Brahma is a protected monument without daily worship or a festival of its own. Visitors come in the greatest numbers at Maha Shivaratri and during Jogulamba's Navaratri and Dasara, when the whole precinct is alive; on ordinary days the temple is usually quiet. Confirm dates locally.",
-    "experience": "Approach Padma Brahma from Swarga Brahma, which stands just in front of it, and compare the two: one keeps its tower and its sculpture, the other chiefly its great plan. Inside, let your eyes adjust before looking at the linga, whose polish is best seen against the light from the door. The scale of the ruined hall gives a sense of how ambitious the Chalukyan builders at Alampur had become."
+    "history": "पद्म ब्रह्म हे बदामीच्या आरंभिक चालुक्यांनी आलमपूर येथे उभारलेल्या नवब्रह्म समूहातील आहे, आणि भारतीय पुरातत्त्व सर्वेक्षणाच्या नोंदीनुसार आराखड्याच्या दृष्टीने ते नऊपैकी सर्वांत मोठे आहे. त्याचा कोणताही स्थापना-शिलालेख ज्ञात नाही, आणि सहसा त्याला समूहातील नंतरच्या मंदिरांमध्ये, सातव्या ते आठव्या शतकात, गणले जाते. त्यानंतरची त्याची कहाणी ऱ्हासाची आहे: गर्भगृहावर एकेकाळी उंच उठलेले वक्राकार शिखर कोसळले आहे, दर्शनी भागावरील जवळजवळ सर्व शिल्पे नष्ट झाली आहेत किंवा नेली गेली आहेत, आणि वास्तू आज अंशतः भग्न कवचासारखी उभी आहे — चौदाव्या शतकानंतरच्या अशांत शतकांत हा परिसर किती सोसत राहिला, याचे हे मोजमापच आहे.",
+    "architecture": "मंदिराचा आराखडा विश्व ब्रह्माच्या आराखड्याशी बराच मिळताजुळता आहे; गर्भगृहात उघडणारा प्रशस्त सभामंडप आणि त्याला वेढणारा प्रदक्षिणामार्ग त्यात आहे. त्याचे शिखर वक्राकार उत्तरी प्रकारचे होते, कोपऱ्यांवरील बरगड्यांसारख्या आमलक शिळांनी चिन्हित मजल्यांनी वर चढत जाणारे; ते आता केवळ भग्न अवस्थेत उरले आहे. गर्भगृहाच्या द्वारपट्टीवर आजही दोन्ही बाजूंना गंगा आणि यमुना या नदीदेवता आहेत, आणि आत शिवलिंग आरशासारख्या चकाकीपर्यंत घासलेल्या दगडातून कोरलेले आहे — हेच मंदिराचे सर्वांत लक्षवेधी शिल्लक अवशेष.",
+    "legends": "पद्म ब्रह्म हे नाव कमळाला सृष्टिकर्त्याशी जोडते: पुराणकथांनुसार ब्रह्मा विष्णूच्या नाभीतून उगवलेल्या कमळावर जन्म घेतात, आणि आलमपूरची परंपरा मानते की ब्रह्मदेवाने येथे तप केले आणि शिवाची नऊ रूपांत पूजा केली, त्यापैकी एकाचे स्मरण हे मंदिर करते. इमारतीचा इतका मोठा भाग हरवला असताना, घासलेले शिवलिंग अंधुक गर्भगृहाला शांत तेज देते, द्वारातून येणारा प्रकाश पकडून परत देते — सूर्यासमोर उमलणाऱ्या फुलाचे नाव धारण केलेल्या मंदिराला साजेशी प्रतिमा.",
+    "festivals": "पद्म ब्रह्म हे संरक्षित स्मारक असून तेथे दैनंदिन पूजा किंवा स्वतःचा असा उत्सव नाही. महाशिवरात्री आणि जोगुळांबेच्या नवरात्री व दसऱ्याच्या वेळी, जेव्हा संपूर्ण परिसर जिवंत होतो, तेव्हा सर्वाधिक संख्येने अभ्यागत येतात; सामान्य दिवशी मंदिर सहसा शांत असते. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "पद्म ब्रह्मापर्यंत स्वर्ग ब्रह्मापासून जावे, जे त्याच्या अगदी समोर आहे, आणि दोन्हींची तुलना करावी: एकाने आपले शिखर आणि शिल्पे राखली आहेत, तर दुसऱ्याने मुख्यतः आपला भव्य आराखडा. आत गेल्यावर शिवलिंगाकडे पाहण्यापूर्वी डोळ्यांना सवय होऊ द्यावी; त्याची झिलई द्वारातून येणाऱ्या प्रकाशासमोर सर्वोत्तम दिसते. भग्न सभामंडपाच्या आकारमानावरून आलमपूर येथील चालुक्य शिल्पकार किती महत्त्वाकांक्षी झाले होते, याची कल्पना येते."
   },
   "visit": {
-    "timings": "Open in daylight hours as an Archaeological Survey of India monument within the Navabrahma precinct; it is not a place of daily worship. Confirm current hours and any ticketing locally.",
-    "dressCode": "No strict dress code applies at the monument, but modest dress is appropriate in this sacred precinct; remove footwear before stepping into the sanctum, and at the active shrines nearby.",
-    "photography": "Photography of the exterior is generally permitted; tripods or professional equipment may need permission from the Archaeological Survey of India. Take care on the uneven ruined floors.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away. The temple stands just behind the Swarga Brahma temple, a short walk from the Bala Brahma and Jogulamba temples."
+    "timings": "नवब्रह्म परिसरातील भारतीय पुरातत्त्व सर्वेक्षणाचे स्मारक म्हणून दिवसाच्या उजेडात उघडे असते; हे दैनंदिन पूजेचे स्थान नाही. सध्याच्या वेळा आणि तिकिटाबाबत स्थानिक पातळीवर खात्री करून घ्यावी.",
+    "dressCode": "स्मारकात कठोर पोशाख-नियम नाही, परंतु या पवित्र परिसरात साधा पोशाख योग्य आहे; गर्भगृहात पाऊल ठेवण्यापूर्वी, तसेच जवळच्या कार्यरत मंदिरांत, पादत्राणे काढावीत.",
+    "photography": "बाह्य भागाचे छायाचित्रण सामान्यतः मान्य आहे; तिवई किंवा व्यावसायिक उपकरणांसाठी भारतीय पुरातत्त्व सर्वेक्षणाची परवानगी लागू शकते. भग्न असमान फरशीवर काळजी घ्यावी.",
+    "gettingThere": "आलमपूर जोगुळांबा गद्वाल जिल्ह्यात, कुर्नूलपासून सुमारे २५ कि.मी. आणि हैदराबादच्या दक्षिणेस सुमारे २२० कि.मी. अंतरावर, हैदराबाद–बेंगळुरू महामार्गाला (एन.एच. ४४) लागूनच आहे. हैदराबाद–कुर्नूल मार्गावरील आलमपूर रोड रेल्वे स्थानक सुमारे ९ कि.मी. अंतरावर आहे. मंदिर स्वर्ग ब्रह्म मंदिराच्या अगदी मागे असून बाल ब्रह्म आणि जोगुळांबा मंदिरांपासून थोड्या चालण्याच्या अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/padma-brahma-alampur.jpg",

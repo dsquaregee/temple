@@ -1,31 +1,38 @@
 {
   "id": "kamalanatha-thiruvanvandoor",
   "locale": "mr",
+  "name": "कमलनाथ पेरुमाळ मंदिर, तिरुवन्वंदूर",
   "nativeName": "കമലനാഥ പെരുമാൾ ക്ഷേത്രം, തിരുവൻവണ്ടൂർ",
+  "deity": "कमलनाथन रूपातील विष्णू, स्थानिक पातळीवर पांबनैयप्पन म्हणून ओळखले जाणारे, देवी कमलवल्ली नाच्चियार यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruvanvandoor",
-    "state": "Kerala",
+    "city": "तिरुवन्वंदूर",
+    "state": "केरळ",
     "lat": 9.343,
     "lng": 76.58
   },
+  "period": "मलै नाडू (केरळ) मधील एक दिव्य देश, नम्मालवार यांनी नालायिर दिव्य प्रबंधमध्ये गायिलेले",
   "century": 8,
+  "dynasty": "प्राचीन मलै नाडूमधील क्षेत्र; त्रावणकोर देवस्वम मंडळाकडून व्यवस्थापित",
+  "style": "केरळ मंदिर शैली",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "pancha-pandava-temples"
   ],
+  "summary": "चेंगन्नूरजवळील तिरुवन्वंदूर येथे विष्णूची कमलनाथन म्हणून पूजा होते, स्थानिक पातळीवर ज्यांना पांबनैयप्पन म्हणतात — हा मलै नाडूमधील दिव्य देश नम्मालवार यांनी गायिलेला असून परंपरा तो पांडव नकुलाशी जोडते.",
   "sections": {
-    "history": "Thiruvanvandoor, in Alappuzha district near Chengannur, is home to a Divya Desam sung by Nammalvar, whose reference to the shrine is placed around 800 CE and is the earliest on record for the temple. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and belongs to Malai Nadu, the Kerala country. The presiding Lord is worshipped as Kamalanathan, and locally as Pambanaiyappan, a name linked with the river Pamba; the Goddess is Kamalavalli Nachiyar. A form of Krishna as Gosala Krishna is also worshipped here. Today the Travancore Devaswom Board administers the temple. Among the five Pandava-linked Vishnu temples of the Chengannur country, tradition assigns Thiruvanvandoor to Nakula.",
-    "architecture": "The temple is a Kerala shrine of the Chengannur country, and its sanctum houses Vishnu as Kamalanathan, with the Goddess Kamalavalli Nachiyar honoured in her own right. A shrine to Gosala Krishna, Krishna among the cows, adds a second centre of devotion within the precinct. The names of the vimana and the tank are not firmly recorded, so none is given here; the visitor will find a quiet village temple whose character lies in its worship and its long attested devotion.",
-    "legends": "Tradition attributes the temple to Nakula, the fourth of the Pandava brothers. It is one of five Vishnu shrines around Chengannur each said to be tied to a brother: Thrichittatt to Yudhishthira, Puliyur to Bhima, Aranmula to Arjuna, Thiruvanvandoor to Nakula and Thrikodithanam to Sahadeva. Together they are remembered as the Pancha Pandava temples. The local name Pambanaiyappan ties the Lord to the Pamba river that waters the country around.",
-    "festivals": "The principal event is a ten-day annual festival in the Malayalam month of Kumbham (February–March), which opens with the flag hoisting and ends with the arattu, the ritual bathing of the deity. During these days the temple offers annadanam, the sharing of free meals, and presents Kathakali performances. Vaikunta Ekadashi is observed too. Dates follow the temple’s own calendar, so confirm locally.",
-    "experience": "A quiet village Divya Desam, best visited with the other Chengannur-area Pandava temples. Take darshan of Kamalanathan and then the Gosala Krishna shrine, and enjoy the unhurried pace of the precinct. In the festival days of Kumbham the temple fills with devotees, the flag, the meals and the Kathakali giving a very different, joyous mood."
+    "history": "अलप्पुझा जिल्ह्यातील चेंगन्नूरजवळचे तिरुवन्वंदूर हे नम्मालवार यांनी गायिलेले दिव्य देश आहे; त्यांचा या क्षेत्राचा उल्लेख इसवी सन ८०० च्या सुमाराचा मानला जातो आणि मंदिराबाबत नोंदवलेला तो सर्वांत जुना आहे. हे १०८ दिव्य देशांपैकी एक आहे — नालायिर दिव्य प्रबंधमध्ये आळवार संतांनी गायिलेली विष्णूची निवासस्थाने — आणि मलै नाडू, म्हणजे केरळ प्रदेशातील आहे. मुख्य देवाची कमलनाथन आणि स्थानिक पातळीवर पांबनैयप्पन म्हणून पूजा होते, हे नाव पांबा नदीशी जोडलेले आहे; देवी कमलवल्ली नाच्चियार आहेत. येथे कृष्णाचे गोसाल कृष्ण रूपही पूजले जाते. आज त्रावणकोर देवस्वम मंडळ मंदिराचे व्यवस्थापन करते. चेंगन्नूर प्रदेशातील पांडवांशी जोडलेल्या पाच विष्णू मंदिरांपैकी तिरुवन्वंदूर नकुलाकडे परंपरेने दिले जाते.",
+    "architecture": "मंदिर हे चेंगन्नूर प्रदेशातील केरळ शैलीचे देवालय आहे, आणि त्याच्या गर्भगृहात कमलनाथन रूपातील विष्णू विराजमान आहेत, तर देवी कमलवल्ली नाच्चियार स्वतंत्र आदराने पूजिल्या जातात. गोसाल कृष्णाचे, गायींमधील कृष्णाचे, गर्भगृह परिसरात भक्तीचे दुसरे केंद्र जोडते. विमान आणि तळ्याची नावे निश्चितपणे नोंदलेली नाहीत, म्हणून येथे कोणतेही दिलेले नाही; अभ्यागताला एक शांत गावचे मंदिर आढळेल, ज्याचे वैशिष्ट्य त्याची उपासना आणि दीर्घकाळ प्रमाणित भक्ती यांत आहे.",
+    "legends": "परंपरा मंदिराचे श्रेय पांडवांतील चौथा बंधू नकुल याला देते. हे चेंगन्नूरभोवतीच्या पाच विष्णू मंदिरांपैकी एक आहे, ज्यांपैकी प्रत्येक एका बंधूशी जोडलेले मानले जाते: तिरुच्चित्तट्ट युधिष्ठिराशी, पुलियूर भीमाशी, आरन्मुळा अर्जुनाशी, तिरुवन्वंदूर नकुलाशी आणि तिरुक्कोडिथानम सहदेवाशी. एकत्रितपणे ती पंच पांडव मंदिरे म्हणून स्मरली जातात. पांबनैयप्पन हे स्थानिक नाव प्रभूला भोवतालचा प्रदेश सिंचणाऱ्या पांबा नदीशी जोडते.",
+    "festivals": "प्रमुख प्रसंग म्हणजे मल्याळम कुंभम महिन्यातील (फेब्रुवारी–मार्च) दहा दिवसांचा वार्षिक उत्सव, जो ध्वजारोहणाने सुरू होतो आणि देवतेच्या विधिस्नानाने, आराट्टूने, संपतो. या दिवसांत मंदिर अन्नदान, म्हणजे मोफत भोजन वाटप, करते आणि कथकळी सादरीकरणे सादर करते. वैकुंठ एकादशीही पाळली जाते. तारखा मंदिराच्या स्वतःच्या पंचांगानुसार असतात, म्हणून स्थानिक पातळीवर खात्री करा.",
+    "experience": "एक शांत गावचे दिव्य देश, चेंगन्नूर भागातील इतर पांडव मंदिरांसह भेट देण्यास सर्वोत्तम. कमलनाथनांचे दर्शन घ्या आणि मग गोसाल कृष्ण गर्भगृहाचे, आणि परिसराच्या निवांत गतीचा आनंद घ्या. कुंभमच्या उत्सवदिवसांत मंदिर भक्तांनी भरून जाते, आणि ध्वज, भोजन आणि कथकळी एक वेगळीच, आनंदी भावना निर्माण करतात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions, usually with a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvanvandoor is a village in Alappuzha district a few kilometres from Chengannur, which is the nearest railway station; autorickshaws, taxis and local buses serve the short road journey. Thiruvananthapuram and Kochi are the usual airport gateways."
+    "timings": "दररोज सकाळी आणि संध्याकाळी दर्शन सत्रांसह उघडे असते, सहसा दुपारी बंद असते; उत्सवाचे दिवस सर्वांत गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुवन्वंदूर हे अलप्पुझा जिल्ह्यातील चेंगन्नूरपासून काही किलोमीटर अंतरावरील गाव आहे; चेंगन्नूर हे जवळचे रेल्वे स्थानक असून ऑटोरिक्षा, टॅक्सी आणि स्थानिक बस या लहानशा रस्ते प्रवासाला सेवा देतात. तिरुवनंतपुरम आणि कोची हे नेहमीचे विमानतळ-प्रवेशद्वार आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kamalanatha-thiruvanvandoor.jpg",

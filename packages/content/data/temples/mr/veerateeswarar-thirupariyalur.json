@@ -1,30 +1,37 @@
 {
   "id": "veerateeswarar-thirupariyalur",
   "locale": "mr",
+  "name": "वीरटेश्वर मंदिर, तिरुप्परियलूर (कीळपरसलूर)",
   "nativeName": "திருப்பறியலூர் வீரட்டேஸ்வரர் கோயில்",
+  "deity": "वीरटेश्वर (दक्षपुरीश्वर) रूपातील शिव, देवी इळंगोंबनैयाळ यांच्यासह",
+  "tradition": "शैव धर्म",
   "location": {
-    "city": "Keezhaparasalur (Thirupariyalur)",
-    "state": "Tamil Nadu",
+    "city": "कीळपरसलूर (तिरुप्परियलूर)",
+    "state": "तमिळनाडू",
     "lat": 11.0908,
     "lng": 79.7258
   },
+  "period": "चोळ देशातील पाडल पेट्र स्थलम्, संबंदर यांनी गायिलेले (७ वे शतक); अष्ट वीरट्टानांपैकी एक",
   "century": 7,
+  "dynasty": "चोळ, तंजावूर नायकांच्या भरीसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "कीळपरसलूर येथे, म्हणजेच तेवारममधील तिरुप्परियलूर येथे, वीरटेश्वर रूपातील शिव दक्षाच्या गर्विष्ठ यज्ञाच्या विध्वंसाचे स्मरण जपतात — हे असे वीरट्टानम् आहे जेथे वीरभद्राच्या क्रोधाचा आणि प्रभूच्या कृपेचा एकत्र सन्मान केला जातो.",
   "sections": {
-    "history": "Keezhaparasalur, a village in Mayiladuthurai district between Mayiladuthurai and Thirukkadaiyur, is the Thirupariyalur of the Tevaram hymns. Its temple to Shiva as Veerateeswarar, also called Dakshapureeswarar, is one of the eight Ashta Veerattanams — the shrine of the Lord's judgement on Daksha. Sambandar sang a hymn on the Lord of Thirupariyalur, and the temple is counted among the Paadal Petra Sthalams of the Chola country. Its present masonry is assigned to the Chola period, with later expansions under the Thanjavur Nayaks. The temple keeps four worship services through the day and remains a place of quiet devotion in the delta countryside.",
-    "architecture": "The temple is a compact Dravidian shrine of the Kaveri delta, its gateway opening onto a courtyard around the sanctum of Veerateeswarar, with the goddess Ilangombanaiyal in a shrine of her own. What sets it apart is the honour given to the deed itself: Daksha Samhara Murthy is worshipped here, and Veerabhadra, the fierce form who carried out the Lord's judgement, has a shrine of his own — among the earliest temples, some hold, to give him such a place.",
-    "legends": "Daksha, father of the goddess Sati, held a great sacrifice and invited every god but Shiva, his own son-in-law. Sati went to her father's house unbidden and, hearing her Lord insulted, gave up her life in the sacrificial fire. In grief and fury Shiva sent forth Veerabhadra, who scattered the assembly and destroyed the sacrifice, and Daksha's pride was broken. Tradition holds that when Daksha was restored to life with the head of a goat, he bowed before the Lord he had scorned — and Thirupariyalur keeps that moment of judgement turned to grace.",
-    "festivals": "The festivals of the Shaiva year are kept here — Maha Shivaratri, the fortnightly pradosham, Arudra Darshan in Margazhi and Karthigai Deepam — with special worship at Veerabhadra's shrine. Pilgrims on the Veerattanam circuit often time their visit with the larger festivals of nearby Thirukkadaiyur; confirm dates locally.",
-    "experience": "Thirupariyalur is a village temple among paddy fields, visited mostly by those who seek it out. It is a place to reflect on pride and its undoing: the Lord who would not be shut out of the sacrifice, and the proud king who learned humility. It lies a short drive from Thirukkadaiyur, and the two Veerattanams are usually visited on the same day."
+    "history": "कीळपरसलूर हे मयिलादुतुरै जिल्ह्यातील, मयिलादुतुरै आणि तिरुक्कडैयूर यांच्या दरम्यानचे एक गाव असून तेवारम स्तोत्रांतील तिरुप्परियलूर तेच आहे. वीरटेश्वर, म्हणजेच दक्षपुरीश्वर, रूपातील शिवाचे येथील मंदिर आठ अष्ट वीरट्टानांपैकी एक आहे — दक्षावर प्रभूने दिलेल्या न्यायाचे स्थान. संबंदर यांनी तिरुप्परियलूरच्या प्रभूवर एक पदिक गायिले, आणि हे मंदिर चोळ देशातील पाडल पेट्र स्थलम्‌मध्ये गणले जाते. सध्याचे दगडी बांधकाम चोळ काळातील मानले जाते, तर नंतरचा विस्तार तंजावूर नायकांच्या काळात झाला. मंदिरात दिवसभर चार पूजा केल्या जातात आणि दुआबातील ग्रामीण भागात ते शांत भक्तीचे स्थान राहिले आहे.",
+    "architecture": "हे कावेरी दुआबातील एक लहानसे द्रविड शैलीचे मंदिर आहे; त्याचे प्रवेशद्वार वीरटेश्वराच्या गर्भगृहाभोवतीच्या प्रांगणात उघडते, आणि देवी इळंगोंबनैयाळ यांचे स्वतंत्र मंदिर आहे. त्याचे वेगळेपण म्हणजे त्या घटनेलाच दिलेला मान: येथे दक्षसंहार मूर्तीची पूजा केली जाते, आणि प्रभूचा न्याय अमलात आणणाऱ्या उग्र रूपातील वीरभद्राचे स्वतंत्र मंदिर आहे — काहींच्या मते त्याला असे स्थान देणाऱ्या सर्वांत प्राचीन मंदिरांपैकी हे एक आहे.",
+    "legends": "देवी सतीचे पिता दक्ष यांनी एक महान यज्ञ केला आणि आपले जावई शिव यांच्याखेरीज सर्व देवांना निमंत्रित केले. सती न बोलावताही आपल्या वडिलांच्या घरी गेली, आणि आपल्या प्रभूचा अपमान ऐकून तिने यज्ञाच्या अग्नीत प्राणत्याग केला. दुःख आणि क्रोधाने शिवांनी वीरभद्राला पाठवले; त्याने सभा विखुरली आणि यज्ञाचा विध्वंस केला, आणि दक्षाचा गर्व भंगला. परंपरा सांगते की जेव्हा दक्षाला बोकडाच्या मस्तकासह पुन्हा जिवंत करण्यात आले, तेव्हा ज्या प्रभूचा त्याने अवमान केला होता त्याच्यापुढे तो नतमस्तक झाला — आणि तिरुप्परियलूर न्यायाचे कृपेत रूपांतर होण्याचा तो क्षण जपून ठेवते.",
+    "festivals": "येथे शैव वर्षातील उत्सव साजरे केले जातात — महाशिवरात्री, पंधरवड्याचा प्रदोष, मार्गळीतील आरुद्र दर्शन आणि कार्तिगै दीपम — तसेच वीरभद्राच्या मंदिरात विशेष पूजा होते. वीरट्टान यात्रेवरील यात्रेकरू अनेकदा जवळच्या तिरुक्कडैयूर येथील मोठ्या उत्सवांशी आपली भेट जुळवतात; तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुप्परियलूर हे भातशेतींमधील एक ग्रामीण मंदिर आहे, जेथे बहुधा ते शोधत येणारेच जातात. गर्व आणि त्याचा नाश यांवर चिंतन करण्याचे हे स्थान आहे: यज्ञातून वगळले जाणे ज्यांना मान्य नव्हते ते प्रभू, आणि नम्रता शिकलेला गर्विष्ठ राजा. हे तिरुक्कडैयूरपासून थोड्या अंतरावर आहे, आणि ही दोन्ही वीरट्टाने सहसा एकाच दिवशी पाहिली जातात."
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure, as at most village temples of the delta. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Keezhaparasalur lies in Mayiladuthurai district, roughly midway between Mayiladuthurai and Thirukkadaiyur and about 10 km from each, off the Mayiladuthurai–Tharangambadi road. Mayiladuthurai is the nearest railhead; Tiruchirappalli is the nearest large airport."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या सत्रांत उघडे असते, मध्यान्हीच्या वेळी बंद असते — दुआबातील बहुतेक गावांतील मंदिरांप्रमाणे. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे बाहेर काढून ठेवावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात छायाचित्रणास परवानगी नाही; बाह्य प्रदक्षिणा मार्गांवर छायाचित्रे घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे, विशेषतः विधी आणि उत्सवमूर्तींचे छायाचित्रण करताना.",
+    "gettingThere": "कीळपरसलूर हे मयिलादुतुरै जिल्ह्यात, मयिलादुतुरै–तरंगंबाडी मार्गालगत, मयिलादुतुरै आणि तिरुक्कडैयूर यांच्या साधारण मध्यावर, प्रत्येकापासून सुमारे १० किमी अंतरावर आहे. मयिलादुतुरै हे सर्वांत जवळचे रेल्वे स्थानक आहे; तिरुचिरापल्ली हे सर्वांत जवळचे मोठे विमानतळ आहे."
   }
 }

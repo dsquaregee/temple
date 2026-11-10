@@ -1,32 +1,39 @@
 {
   "id": "parthasarathy-aranmula",
   "locale": "mr",
+  "name": "पार्थसारथी पेरुमाळ मंदिर, आरन्मुळा",
   "nativeName": "പാർത്ഥസാരഥി പെരുമാൾ ക്ഷേത്രം, ആറന്മുള",
+  "deity": "अर्जुनाचे सारथी पार्थसारथी (नम्माळवार यांच्या स्तोत्रांतील तिरुक्कुरळप्पन) रूपातील कृष्ण, देवी पद्मासनी नाच्चियार यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Aranmula",
-    "state": "Kerala",
+    "city": "आरन्मुळा",
+    "state": "केरळ",
     "lat": 9.328,
     "lng": 76.688
   },
+  "period": "पंबा नदीकाठावरील मलयनाडू (केरळ) येथील दिव्यदेशम, नालायिर दिव्य प्रबंधममध्ये नम्माळवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "पंबा नदीकाठावरील प्राचीन मलयनाडू मंदिर",
+  "style": "केरळ मंदिर शैली",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "sacred-temples-of-kerala",
     "pancha-pandava-temples"
   ],
+  "summary": "आरन्मुळा येथे पंबा नदीच्या काठावर कृष्णाची अर्जुनाचा सारथी पार्थसारथी म्हणून पूजा केली जाते — नम्माळवार यांनी गायिलेले मलयनाडूतील दिव्यदेशम, सहा बांबूंच्या तराफ्याच्या परंपरेसाठी आणि ओणमच्या नागनौका शर्यतीसाठी प्रसिद्ध.",
   "sections": {
-    "history": "Aranmula, in Pathanamthitta district, sits on the river Pamba, and its temple is the Divya Desam that the Alvar hymns call Thiruvaranvilai. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and belongs to Malai Nadu, the Kerala country. Nammalvar was the Alvar who sang here, addressing the Lord as Thirukkuralappan. The presiding deity is worshipped locally as Parthasarathy, Krishna as the charioteer of Arjuna, and the Goddess is Padmasani Nachiyar. Among the Pandava-linked Vishnu temples of the Chengannur country, tradition attributes Aranmula to Arjuna. The village is also widely known for its Aranmula kannadi, the handmade metal mirrors that have made its name travel far beyond Kerala.",
-    "architecture": "The temple is built in the Kerala style, on the bank of the Pamba, and its outer wall is pierced by four gopurams over the entrances, so that the precinct opens to the four directions. The sanctum houses Parthasarathy with the Goddess Padmasani Nachiyar. The name of its vimana is not firmly recorded. The river bank itself is part of the temple’s character, and the ceremonies of the boats and the feasts are woven into the water’s edge.",
-    "legends": "The sthala purana tells that Arjuna first installed the image at Nilakkal, near Sabarimala, but the forest conditions there made daily worship hard. The image was therefore brought down the Pamba on a raft made of six bamboos, and the place where it came to rest took its name from that raft: Aranmula, “six bamboo stems”. The story links the shrine with Arjuna’s journey and with the river that gave it its home.",
-    "festivals": "Aranmula is best known for the Uthrattathi snake-boat regatta, the Aranmula Vallamkali, held in the Onam season and said to commemorate the installation of the deity. The temple also offers the Valla Sadya, the feasts given to the boat crews, and keeps the Onam celebrations. Vaikunta Ekadashi is observed as at other Vaishnava shrines. Dates vary yearly, so confirm locally.",
-    "experience": "Aranmula rewards a slower visit: walk the river bank, pass beneath the four gopurams and take darshan of Parthasarathy, with the legend of the six-bamboo raft in mind. If the Onam season fits your plans, the regatta is a memorable sight, though crowds are large. Pilgrims may also wish to see the village’s famous metal mirrors, a craft of Aranmula."
+    "history": "पथनमथिट्टा जिल्ह्यातील आरन्मुळा पंबा नदीवर वसले आहे, आणि त्याचे मंदिर हे दिव्यदेशम आहे ज्याला आळवारांची स्तोत्रे तिरुवारनविळै म्हणतात. हे १०८ दिव्यदेशमांपैकी एक आहे — नालायिर दिव्य प्रबंधममध्ये आळवार संतांनी गायिलेली विष्णूंची निवासस्थाने — आणि ते मलयनाडू, म्हणजे केरळ प्रदेशात येते. येथे गायन करणारे आळवार नम्माळवार होते, ज्यांनी भगवंताला तिरुक्कुरळप्पन म्हणून संबोधले. मुख्य देवतेची स्थानिक पातळीवर पार्थसारथी, म्हणजे अर्जुनाचा सारथी कृष्ण, म्हणून पूजा केली जाते, आणि देवी पद्मासनी नाच्चियार आहे. चेंगन्नूर प्रदेशातील पांडवांशी निगडित विष्णू मंदिरांपैकी आरन्मुळा अर्जुनाने बांधले असे परंपरा मानते. हे गाव आपल्या आरन्मुळा कन्नडीसाठीही प्रसिद्ध आहे — हाताने बनवलेले धातूचे आरसे — ज्यांमुळे त्याचे नाव केरळच्या खूप पलीकडे पोहोचले आहे.",
+    "architecture": "हे मंदिर केरळ शैलीत पंबा नदीच्या काठावर बांधलेले आहे, आणि त्याची बाह्य भिंत प्रवेशद्वारांवर चार गोपुरांनी भेदलेली आहे, त्यामुळे आवार चारही दिशांना उघडते. गर्भगृहात पार्थसारथी देवी पद्मासनी नाच्चियार यांच्यासह विराजमान आहेत. त्याच्या विमानाचे नाव निश्चितपणे नोंदलेले नाही. नदीकाठ हा स्वतःच मंदिराच्या स्वरूपाचा भाग आहे, आणि नौकांचे समारंभ व भोजने पाण्याच्या काठाशी जोडलेली आहेत.",
+    "legends": "स्थलपुराण सांगते की अर्जुनाने प्रथम ही मूर्ती शबरिमलाजवळील निलक्कल येथे स्थापन केली, परंतु तेथील जंगलाच्या परिस्थितीमुळे दैनंदिन पूजा कठीण झाली. म्हणून ती मूर्ती सहा बांबूंच्या तराफ्यावरून पंबा नदीतून खाली आणण्यात आली, आणि जेथे ती स्थिरावली त्या ठिकाणाला त्या तराफ्यावरून नाव मिळाले: आरन्मुळा, 'सहा बांबूंची खोडे'. ही कथा मंदिराला अर्जुनाच्या प्रवासाशी आणि त्याला घर देणाऱ्या नदीशी जोडते.",
+    "festivals": "आरन्मुळा उत्रट्टाति नागनौका शर्यतीसाठी, आरन्मुळा वळ्ळमकळीसाठी, सर्वाधिक प्रसिद्ध आहे; ती ओणमच्या काळात होते आणि देवतेच्या स्थापनेचे स्मरण करते असे म्हटले जाते. मंदिर वळ्ळ सद्य, म्हणजे नौकेवरील चमूंना दिली जाणारी भोजने, देखील आयोजित करते, आणि ओणमचे उत्सव पाळते. इतर वैष्णव मंदिरांप्रमाणे वैकुंठ एकादशी पाळली जाते. तारखा दरवर्षी बदलतात, म्हणून स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "आरन्मुळाची भेट सावकाशपणे घेतल्यास तिचे फळ मिळते: नदीकाठी फिरा, चार गोपुरांखालून जा आणि सहा बांबूंच्या तराफ्याच्या दंतकथेचे स्मरण ठेवून पार्थसारथींचे दर्शन घ्या. ओणमचा काळ तुमच्या योजनेत बसत असेल तर शर्यत हे संस्मरणीय दृश्य आहे, जरी गर्दी मोठी असते. यात्रेकरूंना गावातील प्रसिद्ध धातूचे आरसे, आरन्मुळाची कला, पाहण्याचीही इच्छा असू शकते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions, usually with a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Aranmula is in Pathanamthitta district on the Pamba, a short road journey from Chengannur, which is the nearest railway station; autorickshaws, taxis and buses link the two. Kozhencherry and Pathanamthitta are nearby towns, and Thiruvananthapuram and Kochi are the usual airport gateways. During the boat-race season, expect heavy traffic and plan to arrive early."
+    "timings": "दररोज सकाळी आणि संध्याकाळी दर्शन सत्रांसह उघडे असते, सहसा दुपारी बंद असते; उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "आरन्मुळा पथनमथिट्टा जिल्ह्यात पंबा नदीवर आहे, चेंगन्नूरपासून थोड्या रस्ते प्रवासावर, जे जवळचे रेल्वे स्थानक आहे; ऑटोरिक्षा, टॅक्सी आणि बस दोहोंना जोडतात. कोझेंचेरी आणि पथनमथिट्टा ही जवळची गावे आहेत, आणि तिरुवनंतपुरम व कोची ही नेहमीची विमानतळ प्रवेशद्वारे आहेत. नौका शर्यतीच्या काळात जोरदार वाहतुकीची अपेक्षा ठेवा आणि लवकर पोहोचण्याची योजना करा."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.jpg",

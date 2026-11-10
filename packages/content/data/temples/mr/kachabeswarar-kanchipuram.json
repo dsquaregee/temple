@@ -1,30 +1,37 @@
 {
   "id": "kachabeswarar-kanchipuram",
   "locale": "mr",
+  "name": "कच्छबेश्वर मंदिर, कांचीपुरम",
   "nativeName": "கச்சபேஸ்வரர் கோயில்",
+  "deity": "शिव हे कच्छबेश्वर (कच्छपेश्वर) रूपात, स्वयंभू लिंग, सोबत देवी सुंदरांबिका",
+  "tradition": "शैव",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.838,
     "lng": 79.701
   },
+  "period": "पल्लव उगम असलेले प्राचीन शैव मंदिर, पुढे चोल, विजयनगर व नायक काळातील बांधकामासह; तेवारममध्ये उल्लेख (७वे शतक)",
   "century": 7,
+  "dynasty": "पल्लव, चोल, विजयनगर व नायक",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "temples-of-kanchipuram"
   ],
+  "summary": "कच्छबेश्वर हे जुन्या कांचीपुरमचे शिव मंदिर आहे, तेवारममध्ये ज्याचा उल्लेख आहे, जिथे विष्णूने कूर्मरूपात पूजा केली असे म्हटले जाते, आणि जे तमिळ कंद पुराणाचे रचनाकार कच्चियप्प शिवाचार्य यांच्या स्मृतीसाठी ओळखले जाणारे मंदिर आहे.",
   "sections": {
-    "history": "Kachabeswarar is one of the old Shiva temples of Shiva Kanchi, a short walk from the Kamakshi temple. Appar mentions it in the Tevaram, which makes it a Vaippu Sthalam of the seventh century or earlier; it should not be confused with the Kachabeswarar temple at Thirukachur, which Sundarar sang. Tradition places its beginnings in Pallava times, when Kanchipuram was the dynastic capital; the Cholas are linked to its early masonry, and the present stonework is largely of the Vijayanagara and Nayak periods around the sixteenth century. The temple holds a place in Tamil letters as well: Kachiyappa Sivachariyar, remembered as the author of the Kanda Puranam, the Tamil telling of the story of Murugan, is associated with this temple and with the nearby Kumarakottam shrine.",
-    "architecture": "The temple is a compact Dravidian complex of walled courts and shrines. Beyond the main sanctum of Kachabeswarar and the shrine of the goddess stand shrines of Thyagarajar and Sundarar, a hall of the sixty-three Nayanmars, and separate sanctums for Durga, Dattatreya and Adi Sankara. Sculpted pillars and corridors reflect the later Vijayanagara and Nayak additions, and the deity's name, drawn from the Sanskrit word for tortoise, ties the whole temple to its legend.",
-    "legends": "The sthala purana holds that Vishnu, in his tortoise form of Kurma, worshipped Shiva at this spot, and that the Lord took the name Kachabeswarar, Lord of the Tortoise, in remembrance. The tale joins the two great traditions of Kanchipuram, a city sacred to both Shiva and Vishnu, and shows this shrine as a place where each honours the other.",
-    "festivals": "The Chithirai Brahmotsavam in April or May, when the festival deities are carried in procession through the streets of Kanchipuram, and Chitra Pournami on the full moon of the same month are the main annual observances. Maha Shivaratri, the monthly Pradosham and Karthigai Deepam are also kept with special worship. Confirm dates locally.",
-    "experience": "The temple sits among the busy streets near the Kamakshi temple, and a pause here is a quieter counterpoint to the larger shrines of Kanchipuram. Look for the shrine of Sundarar and the hall of the Nayanmars, and spend a moment at the sanctum of the Lord of the Tortoise. Because the great temples of the city lie close together, many pilgrims combine Kachabeswarar with Ekambareswarar, Kamakshi and the Vishnu shrines in a single day, on foot or by auto."
+    "history": "कच्छबेश्वर हे शिव कांचीच्या जुन्या शिव मंदिरांपैकी एक असून कामाक्षी मंदिरापासून थोड्या अंतरावर आहे. अप्पर यांनी तेवारममध्ये याचा उल्लेख केला आहे, ज्यामुळे हे सातव्या शतकातील किंवा त्याहून प्राचीन वैप्पू स्थलम ठरते; याचा गोंधळ तिरुक्कच्चूर येथील कच्छबेश्वर मंदिराशी करू नये, ज्याला सुंदरर यांनी गायले. परंपरेनुसार याची सुरुवात पल्लव काळात झाली, जेव्हा कांचीपुरम ही राजधानी होती; चोल राजे याच्या आरंभीच्या दगडी बांधकामाशी जोडले जातात, आणि आजचे बहुतांश शिल्पकाम सोळाव्या शतकाच्या सुमारास विजयनगर व नायक काळातील आहे. तमिळ साहित्यातही या मंदिराला स्थान आहे: मुरुगनच्या कथेचे तमिळ रूप असलेल्या कंद पुराणाचे रचनाकार म्हणून स्मरण केले जाणारे कच्चियप्प शिवाचार्य या मंदिराशी व जवळच्या कुमारकोट्टम मंदिराशी जोडले जातात.",
+    "architecture": "हे मंदिर भिंतींनी वेढलेले प्रांगण व गाभाऱ्यांनी बनलेले एक आटोपशीर द्राविड संकुल आहे. कच्छबेश्वराच्या मुख्य गाभाऱ्यापलीकडे व देवीच्या गाभाऱ्यापलीकडे त्यागराज व सुंदरर यांचे गाभारे, त्रेसष्ट नायन्मारांचा मंडप, आणि दुर्गा, दत्तात्रेय व आदि शंकर यांचे स्वतंत्र गाभारे आहेत. कोरीव स्तंभ व दालने विजयनगर व नायक काळातील पुढील वाढीचे दर्शन घडवतात, आणि कूर्म या संस्कृत शब्दावरून आलेले देवतेचे नाव संपूर्ण मंदिराला त्याच्या आख्यायिकेशी जोडते.",
+    "legends": "स्थल पुराणानुसार विष्णूने आपल्या कूर्म रूपात या ठिकाणी शिवाची पूजा केली, आणि त्या स्मरणार्थ परमेश्वराने कच्छबेश्वर म्हणजेच कूर्माचा स्वामी हे नाव धारण केले. ही कथा कांचीपुरमच्या—शिव व विष्णू दोघांनाही पवित्र असलेल्या नगरीच्या—दोन महान परंपरांना एकत्र आणते, आणि हे मंदिर एकमेकांचा सन्मान करणारे स्थान म्हणून दाखवते.",
+    "festivals": "एप्रिल किंवा मे महिन्यातील चित्तिरै ब्रह्मोत्सव, जेव्हा उत्सवमूर्ती कांचीपुरमच्या रस्त्यांतून मिरवणुकीने नेल्या जातात, आणि त्याच महिन्यातील पौर्णिमेला चित्रा पौर्णिमा हे मुख्य वार्षिक सोहळे आहेत. महाशिवरात्री, मासिक प्रदोष व कार्तिक दीपम हेही विशेष पूजेसह साजरे केले जातात. तारखा स्थानिक पातळीवर निश्चित करा.",
+    "experience": "हे मंदिर कामाक्षी मंदिराजवळील गजबजलेल्या रस्त्यांमध्ये वसले आहे, आणि इथे थोडे थांबणे म्हणजे कांचीपुरमच्या मोठ्या मंदिरांच्या तुलनेत एक शांत विश्रांती. सुंदररचा गाभारा व नायन्मारांचा मंडप पाहा, आणि कूर्माच्या स्वामीच्या गाभाऱ्यात क्षणभर विसावा. नगरातील महान मंदिरे एकमेकांजवळ असल्याने अनेक यात्रेकरू कच्छबेश्वराला एकंबरेश्वर, कामाक्षी व विष्णू मंदिरांसह एकाच दिवसात पायी किंवा ऑटोने जोडतात."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple is on West Raja Street in the heart of Kanchipuram, a short distance from the Kamakshi temple and within walking distance of several of the city's major shrines. Kanchipuram railway station and the bus stand are a short auto ride away, and the city is linked by road to Chennai, Chengalpattu, Vellore and Arakkonam. Chennai International Airport, roughly 70 km away, is the nearest airport."
+    "timings": "सहसा सकाळी व पुन्हा दुपारनंतर संध्याकाळपर्यंत उघडे असते, मध्यान्ही विश्रांती असते; वेळा स्थानिक पातळीवर, विशेषतः उत्सवाच्या दिवशी, तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पँट, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे व गुडघे झाकलेले. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "बाह्य दालनांत व प्रांगणांत छायाचित्रणास सहसा परवानगी असते, परंतु तमिळनाडूच्या मंदिर नियमांनुसार गाभाऱ्याच्या आत ते काटेकोरपणे प्रतिबंधित आहे. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "हे मंदिर कांचीपुरमच्या मध्यभागी वेस्ट राजा स्ट्रीटवर आहे, कामाक्षी मंदिरापासून थोड्या अंतरावर व नगरातील अनेक प्रमुख मंदिरांपासून चालत जाण्याच्या अंतरावर. कांचीपुरम रेल्वे स्थानक व बस स्थानक थोड्या ऑटो अंतरावर आहेत, आणि हे शहर चेन्नई, चेंगलपट्टू, वेल्लोर व अराक्कोणम यांना रस्त्याने जोडलेले आहे. सुमारे ७० किमी अंतरावरील चेन्नई आंतरराष्ट्रीय विमानतळ हे सर्वांत जवळचे विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kachabeswarar-kanchipuram.jpg",

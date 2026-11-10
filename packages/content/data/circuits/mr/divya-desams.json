@@ -1,7 +1,11 @@
 {
   "id": "divya-desams",
   "locale": "mr",
+  "name": "दिव्य देशम्",
   "nativeName": "திவ்ய தேசம்",
+  "theme": "बारा आळवार संतकवींनी गौरविलेली विष्णूची १०८ पवित्र निवासस्थाने",
+  "region": "तमिळनाडू, केरळ, आंध्र प्रदेश, उत्तर भारत आणि नेपाळ",
+  "description": "दिव्य देशम् ही श्रीवैष्णव परंपरेतील बारा आळवार संतकवींच्या तमिळ स्तोत्रांत गौरविलेली, नालायिर दिव्य प्रबंधममध्ये संकलित केलेली विष्णूची १०८ पवित्र निवासस्थाने आहेत. त्यांचे दर्शन घेणे म्हणजे आळवारांनी स्वतः दाखवलेल्या भक्तीच्या नकाशावरून चालणे होय. परंपरा त्यांची प्रदेशानुसार विभागणी करते: कावेरीकाठच्या चोळ प्रदेशात चाळीस, पांड्य प्रदेशात अठरा, मलय नाडूत (केरळ आणि कन्याकुमारी) तेरा, नाडू नाडूत दोन, कांचीपुरमभोवतीच्या तोंडै नाडूत बावीस आणि उत्तरेत अकरा — तिरुमला आणि अहोबिलमपासून बद्रीनाथ, द्वारका आणि नेपाळमधील मुक्तिनाथपर्यंत. शेवटची दोन, क्षीरसागर आणि परमपदम्, म्हणजे विष्णूचे परमधाम, ही पृथ्वीच्या पलीकडे आहेत; परंपरेनुसार आत्म्याच्या प्रवासाच्या अंती तिथे पोहोचता येते. येथे सर्व १०६ पृथ्वीवरील मंदिरे प्रदेशानुसार एकत्र केली आहेत, प्रत्येक प्रदेशाचा स्वतःचा नकाशा आहे; तोलैविल्लिमंगलम येथील इरट्टै तिरुपतीची जोडमंदिरे मिळून एक मानली जातात.",
   "stops": [
     "ranganathaswamy-srirangam",
     "azhagiya-manavalan-uraiyur",
@@ -114,7 +118,7 @@
   "groups": [
     {
       "id": "chola-nadu",
-      "name": "Chola Nadu",
+      "name": "चोळ नाडू",
       "stops": [
         "ranganathaswamy-srirangam",
         "azhagiya-manavalan-uraiyur",
@@ -160,7 +164,7 @@
     },
     {
       "id": "pandya-nadu",
-      "name": "Pandya Nadu",
+      "name": "पांड्य नाडू",
       "stops": [
         "kallazhagar-alagarkoil",
         "kalamegha-thirumogur",
@@ -185,7 +189,7 @@
     },
     {
       "id": "malai-nadu",
-      "name": "Malai Nadu",
+      "name": "मलय नाडू",
       "stops": [
         "padmanabhaswamy-thiruvananthapuram",
         "adikesava-thiruvattar",
@@ -204,7 +208,7 @@
     },
     {
       "id": "nadu-nadu",
-      "name": "Nadu Nadu",
+      "name": "नाडू नाडू",
       "stops": [
         "devanatha-thiruvahindrapuram",
         "trivikrama-thirukkovilur"
@@ -212,7 +216,7 @@
     },
     {
       "id": "thondai-nadu",
-      "name": "Thondai Nadu",
+      "name": "तोंडै नाडू",
       "stops": [
         "varadaraja-perumal-kanchipuram",
         "ashtabhujakara-kanchipuram",
@@ -240,7 +244,7 @@
     },
     {
       "id": "vada-nadu",
-      "name": "Vada Nadu",
+      "name": "वड नाडू",
       "stops": [
         "venkateswara-tirumala",
         "narasimha-ahobilam",

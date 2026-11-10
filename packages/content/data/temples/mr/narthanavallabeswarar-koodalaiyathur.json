@@ -1,29 +1,36 @@
 {
   "id": "narthanavallabeswarar-koodalaiyathur",
   "locale": "mr",
+  "name": "नर्तनवल्लभेश्वर मंदिर, कूडलैयात्तूर",
   "nativeName": "நர்த்தனவல்லபேஸ்வரர் கோயில்",
+  "deity": "नर्तनवल्लभेश्वर (नेरिक्काट्टुनायकर) रूपातील शिव, देवी ज्ञान शक्ती (पर शक्ती, पुरिकुळलांबिकै म्हणूनही पूजिली जाणारी) यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Koodalaiyathur",
-    "state": "Tamil Nadu",
+    "city": "कूडलैयात्तूर",
+    "state": "तमिळनाडू",
     "lat": 11.4158,
     "lng": 79.4772
   },
+  "period": "नडु नाडू प्रदेशातील प्राचीन शैव मंदिर; तेवारममध्ये सुंदरर यांनी गायिलेले (आठवे शतक); नंतरच्या भरीसह मध्ययुगीन संरचनात्मक मंदिर",
   "century": 8,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (निश्चित स्रोत नाही)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "नर्तनवल्लभेश्वर हे सुंदरर यांच्या स्तोत्रातील तिरुक्कूडलैयात्तूर आहे, जिथे वेल्लारू आणि मणिमुत्तारू नद्यांचा संगम होतो; दक्षिण प्रयाग म्हणून पूजनीय आणि ब्रह्मदेवासमोर नृत्य करणारे प्रभू म्हणून स्मरले जाणारे.",
   "sections": {
-    "history": "Koodalaiyathur, the Tirukkoodalaiyatrur of the Tevaram, takes its name from its setting: koodal means a joining, and the village stands where the Vellaru and Manimutharu rivers meet. For this reason it is also revered as the Dakshina Prayagai, the southern counterpart of the great confluence of the north. The temple is praised in the hymn of Sundarar and is counted the third of the Nadu Nadu shrines sung in the Tevaram, which makes it a Paadal Petra Sthalam. The lord is worshipped as Narthanavallabeswarar, the master of the dance, and also as Nerikkattunayakar, a name that can be read as the Lord who shows the way. The goddess is honoured as Gnana Shakti and Para Shakti, and the temple has two shrines to the Mother. The founding patrons of the structural temple are not firmly recorded in the sources consulted.",
-    "architecture": "The sources say little of the towers and halls of Koodalaiyathur, so this account keeps to what is recorded. The temple is a Shaiva shrine with a sanctum for Narthanavallabeswarar and, unusually, two shrines for the goddess, Gnana Shakti and Para Shakti. Its sacred waters are as much a part of its architecture as its stone: the temple is associated with the Brahma, Agastya and Katyayana theerthas, and it stands beside the river confluence from which the village takes its name.",
-    "legends": "Two traditions are told of Koodalaiyathur. In the first, Brahma, the creator, longed to witness the dance of Shiva and prayed here with devotion, and the Lord danced before him, which is why he is revered as Narthanavallabeswarar. In the second, the sage Agastya prayed to Shiva for a daughter and found a child floating on a lotus leaf in the waters of the Manimutharu river. The first legend gives the temple its name; the second ties it to the sacred river at its side. The sources consulted do not record a separate legend for the name Nerikkattunayakar.",
-    "festivals": "The great festival of the temple is the thirteen-day Brahmotsavam of the Tamil month of Masi, kept around Masi Magam in February or March and celebrated with great devotion. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Koodalaiyathur is a place for those who love river and temple together. Walk first to the water where the Vellaru and Manimutharu meet, and then come to the sanctum of Narthanavallabeswarar, the Lord of the dance, and to the two shrines of the Mother. Pilgrims remember Sundarar's hymn and the old tradition that makes this confluence a southern Prayag. The village is quiet and rural, and the temple keeps the calm of a place far from the main roads."
+    "history": "तेवारममधील तिरुक्कूडलैयात्तूर असलेल्या कूडलैयात्तूरला आपले नाव त्याच्या स्थानावरून मिळाले आहे: कूडल म्हणजे संगम, आणि गाव वेल्लारू आणि मणिमुत्तारू नद्या जिथे मिळतात तिथे वसले आहे. यामुळे त्याला दक्षिण प्रयागै, म्हणजे उत्तरेतील महान संगमाचा दक्षिणेकडील प्रतिरूप, म्हणूनही पूजले जाते. मंदिर सुंदरर यांच्या स्तोत्रात गौरविलेले आहे आणि तेवारममध्ये गायिलेल्या नडु नाडूतील मंदिरांपैकी तिसरे मानले जाते, त्यामुळे ते पाडल पेत्र स्थळ आहे. प्रभू नर्तनवल्लभेश्वर, म्हणजे नृत्याचा स्वामी, म्हणून तसेच नेरिक्काट्टुनायकर म्हणूनही पूजले जातात, ज्या नावाचा अर्थ मार्ग दाखवणारे प्रभू असा लावता येतो. देवीचा ज्ञान शक्ती आणि पर शक्ती म्हणून गौरव होतो, आणि मंदिरात मातेची दोन मंदिरे आहेत. संरचनात्मक मंदिराचे संस्थापक आश्रयदाते संदर्भित स्रोतांत निश्चितपणे नोंदलेले नाहीत.",
+    "architecture": "कूडलैयात्तूरच्या गोपुरांबद्दल आणि मंडपांबद्दल स्रोत फारच थोडे सांगतात, म्हणून हे वर्णन नोंदलेल्या गोष्टींपुरतेच मर्यादित ठेवले आहे. हे एक शैव मंदिर असून त्यात नर्तनवल्लभेश्वरांसाठी गाभारा आहे आणि विशेष म्हणजे देवीची ज्ञान शक्ती आणि पर शक्ती अशी दोन मंदिरे आहेत. त्याची पवित्र जलतीर्थे त्याच्या दगडी बांधकामाइतकीच त्याच्या वास्तूचा भाग आहेत: मंदिर ब्रह्म, अगस्त्य आणि कात्यायन तीर्थांशी निगडित आहे, आणि गावाला नाव देणाऱ्या नदीसंगमाशेजारीच ते उभे आहे.",
+    "legends": "कूडलैयात्तूरच्या दोन परंपरा सांगितल्या जातात. पहिल्यात, सृष्टिकर्ता ब्रह्मदेवाला शिवाचे नृत्य पाहण्याची तीव्र इच्छा झाली आणि त्याने येथे भक्तीने प्रार्थना केली, आणि प्रभूने त्याच्यासमोर नृत्य केले, म्हणूनच ते नर्तनवल्लभेश्वर म्हणून पूजनीय आहेत. दुसऱ्यात, अगस्त्य ऋषींनी शिवाकडे कन्येची प्रार्थना केली आणि मणिमुत्तारू नदीच्या पाण्यात कमळाच्या पानावर तरंगणारे एक बाळ त्यांना सापडले. पहिली आख्यायिका मंदिराला त्याचे नाव देते; दुसरी त्याला शेजारच्या पवित्र नदीशी जोडते. नेरिक्काट्टुनायकर या नावाची स्वतंत्र आख्यायिका संदर्भित स्रोतांत नोंदलेली नाही.",
+    "festivals": "मंदिराचा मोठा उत्सव म्हणजे तमिळ मासी महिन्यातील तेरा दिवसांचा ब्रह्मोत्सवम, जो फेब्रुवारी किंवा मार्चमधील मासी मघम च्या सुमारास पाळला जातो आणि मोठ्या भक्तीने साजरा होतो. महाशिवरात्र आणि मासिक प्रदोषम प्रत्येक शिवमंदिराप्रमाणे पाळले जातात. तारखा तमिळ पंचांगानुसार ठरतात, त्यामुळे स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "कूडलैयात्तूर हे नदी आणि मंदिर या दोहोंवर प्रेम करणाऱ्यांसाठीचे स्थान आहे. आधी वेल्लारू आणि मणिमुत्तारू जिथे मिळतात त्या पाण्याकडे चालत जा, आणि मग नृत्याचे प्रभू नर्तनवल्लभेश्वर यांच्या गाभाऱ्याकडे आणि मातेच्या दोन मंदिरांकडे या. भाविक सुंदरर यांच्या स्तोत्राचे आणि या संगमाला दक्षिण प्रयाग बनवणाऱ्या प्राचीन परंपरेचे स्मरण करतात. गाव शांत आणि ग्रामीण आहे, आणि मुख्य रस्त्यांपासून दूर असलेल्या ठिकाणाची शांतता मंदिराने राखली आहे."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Koodalaiyathur is a village in Kattumannarkoil taluk of Cuddalore district (post office Kavalakudi, PIN 608702), at the confluence of the Vellaru and Manimutharu. By road it is about 31 km south-east of Virudhachalam, reached through Rajendrapattinam and Srimushnam, and it can also be approached from Chidambaram through Kavalakudi. Local buses are infrequent, so plan the last stretch by road and confirm transport on the day."
+    "timings": "साधारणपणे सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते, मधल्या वेळी विश्रांती असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-पॅन्ट, स्त्रियांसाठी साडी, सलवार-कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळच्या स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाहेरील प्रदक्षिणा-मार्ग आणि अंगणांत सामान्यतः छायाचित्रणाला परवानगी असते, पण आतील गाभाऱ्यात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "कूडलैयात्तूर हे कडलूर जिल्ह्यातील कट्टुमन्नारकोयिल तालुक्यातील गाव आहे (टपाल कार्यालय कावलकुडी, पिन ६०८७०२), वेल्लारू आणि मणिमुत्तारूच्या संगमावर. रस्त्याने ते विरुद्धाचलमपासून सुमारे ३१ किमी आग्नेयेस असून राजेंद्रपट्टिणम आणि श्रीमुष्णममार्गे पोहोचता येते; चिदंबरमहून कावलकुडीमार्गेही येता येते. स्थानिक बस क्वचित धावतात, त्यामुळे शेवटचा टप्पा रस्त्याने करण्याचे नियोजन करा आणि त्या दिवशी वाहतुकीची खात्री करून घ्या."
   }
 }

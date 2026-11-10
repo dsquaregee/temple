@@ -1,29 +1,36 @@
 {
   "id": "yazhmurinathar-dharmapuram",
   "locale": "mr",
+  "name": "याळ्मूरिनाथर मंदिर, धर्मपुरम",
   "nativeName": "தருமபுரம் யாழ்மூரிநாதர் கோயில்",
+  "deity": "याळ्मूरिनाथर (याळचा स्वामी) रूपातील शिव",
+  "tradition": "शैव — तिरुज्ञानसंबंदर यांनी गायलेले पाडल पेत्र स्थळ",
   "location": {
-    "city": "Dharmapuram, near Karaikal",
-    "state": "Puducherry (Karaikal region)",
+    "city": "धर्मपुरम, कराईकलजवळ",
+    "state": "पुदुच्चेरी (कराईकल प्रदेश)",
     "lat": 10.9167,
     "lng": 79.8333
   },
+  "period": "तेवारम काळ, चोळकालीन रचनेसह",
   "century": 7,
+  "dynasty": "चोळ (नंतरच्या भरीसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कराईकलजवळील धर्मपुरम शिवाचा याळ्मूरिनाथर म्हणून गौरव करते — प्राचीन तमिळ तंतुवाद्य याळचा स्वामी. तिरुज्ञान संबंदर यांनी गायलेल्या या पाडल पेत्र स्थळाला तिरू नीलकंठ याळपाणर यांची स्मृती लाभली आहे; ते महान याळवादक होते, त्यांचे कुटुंब येथील होते आणि त्यांनी संबंदरच्या पदांना संगीतबद्ध केले. प्रसिद्ध याळ मुरी पतिकम — इतके उत्कृष्ट पद की वादकाने ते जुळवण्यात अपयशी ठरण्यापेक्षा आपली वीणा तोडणे पसंत केले असते — हे मंदिर तमिळ शैव भक्तीमधील सर्वांत हृदयस्पर्शी प्रसंगांपैकी एकाशी जोडते.",
   "sections": {
-    "history": "Dharmapuram, near Karaikal in the Kaveri delta, is an ancient Shaiva village hymned in the seventh-century Tevaram by Sambandar and counted among the Paadal Petra Sthalams. The stone temple is of the Chola period with later additions. Its great distinction is its link to Tiru Neelakanta Yazhpanar, one of the sixty-three Nayanmars and the foremost yazh-player of the Tevaram age, whose family belonged to this place and who travelled with Sambandar, rendering the saint's hymns on his lute.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Yazhmoorinathar. Its iconography and tradition keep alive the music of the yazh and the memory of Yazhpanar, so that the shrine is cherished as much by lovers of Tamil music and the Tevaram as by local devotees. The name of the lord, Yazhmoorinathar, keeps the instrument at the heart of the temple's identity.",
-    "legends": "The temple's defining tradition is the Yazh Muri Pathigam. Tiru Neelakanta Yazhpanar accompanied Sambandar on his yazh; but when Sambandar sang a hymn on Ganesha whose depth the yazh could not fully capture, the player, unwilling to offer anything less than the hymn deserved, resolved to break his beloved instrument — and was gently stopped, the saint affirming that his music was worthy. A second tradition ties the lord's name to Yama, who worshipped here after the Markandeya episode and was told his curse would in time be lifted; and another recalls Yudhishtira worshipping here in the Pandavas' exile.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. The association with Yazhpanar gives the days honouring the Nayanmars a special resonance, and the temple is remembered wherever the story of the yazh and the Tevaram is told.",
-    "experience": "Dharmapuram offers the pilgrim a temple bound to music and devotion — the place of the great yazh-player who would break his lute rather than fall short of a hymn. The darshan of Yazhmoorinathar carries this sense of art offered wholly to the divine, and for lovers of the Tevaram it is a shrine of particular tenderness."
+    "history": "कावेरी त्रिभुज प्रदेशातील कराईकलजवळील धर्मपुरम हे सातव्या शतकातील तेवारममध्ये संबंदर यांनी गायलेले प्राचीन शैव गाव आहे आणि पाडल पेत्र स्थळांमध्ये गणले जाते. दगडी मंदिर चोळकालीन असून त्यात नंतर भर पडली आहे. त्याची मोठी विशेषता म्हणजे तिरू नीलकंठ याळपाणर यांच्याशी असलेला संबंध; ते त्रेसष्ट नायनारांपैकी एक आणि तेवारम युगातील अग्रगण्य याळवादक होते, ज्यांचे कुटुंब या ठिकाणचे होते आणि जे संबंदरसोबत प्रवास करून संतांची पदे आपल्या वीणेवर वाजवत.",
+    "architecture": "मंदिर द्रविड आराखड्याचे असून त्यात गोपुर, प्राकार आणि याळ्मूरिनाथरांचे गर्भगृह आहे. त्याची प्रतिमासृष्टी आणि परंपरा याळचे संगीत आणि याळपाणरांची स्मृती जिवंत ठेवतात, म्हणून हे मंदिर स्थानिक भक्तांइतकेच तमिळ संगीत आणि तेवारमच्या प्रेमींनाही प्रिय आहे. स्वामीचे नाव, याळ्मूरिनाथर, वाद्याला मंदिराच्या ओळखीच्या केंद्रस्थानी ठेवते.",
+    "legends": "मंदिराची निर्णायक परंपरा म्हणजे याळ मुरी पतिकम. तिरू नीलकंठ याळपाणर संबंदरसोबत आपल्या याळवर साथ करत; पण संबंदरने गणेशावर गायलेल्या पदाची खोली याळला पूर्णपणे पकडता आली नाही, तेव्हा पदाला योग्य त्यापेक्षा कमी काहीही अर्पण करण्यास तयार नसलेल्या वादकाने आपले प्रिय वाद्य तोडण्याचा निश्चय केला — आणि त्याला हळुवारपणे थांबवण्यात आले, संतांनी त्याचे संगीत योग्य असल्याची ग्वाही दिली. दुसरी परंपरा स्वामीचे नाव यमाशी जोडते, ज्याने मार्कंडेय प्रसंगानंतर येथे उपासना केली आणि त्याला सांगितले गेले की त्याचा शाप कालांतराने दूर होईल; आणि आणखी एक परंपरा पांडवांच्या वनवासात येथे युधिष्ठिराने उपासना केल्याचे स्मरते.",
+    "festivals": "मंदिर शैव उत्सव पंचांग पाळते — महाशिवरात्री, प्रदोष, मार्गळी हंगाम आणि वार्षिक ब्रह्मोत्सव. याळपाणरांशी असलेला संबंध नायनारांचा गौरव करणाऱ्या दिवसांना विशेष अर्थ देतो, आणि याळ व तेवारमची कथा जेथे जेथे सांगितली जाते तेथे हे मंदिर स्मरले जाते.",
+    "experience": "धर्मपुरम यात्रेकरूला संगीत आणि भक्तीशी जोडलेले मंदिर देते — पदापेक्षा कमी पडण्याऐवजी वीणा तोडणाऱ्या महान याळवादकाचे स्थान. याळ्मूरिनाथरांचे दर्शन कला पूर्णपणे दिव्य चरणी अर्पण केल्याची अनुभूती देते, आणि तेवारमच्या प्रेमींसाठी हे विशेष जिव्हाळ्याचे मंदिर आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Dharmapuram is near Karaikal (Puducherry), close to the Nagapattinam/Mayiladuthurai border, roughly 5-6 km from Karaikal town; the nearest rail heads are Karaikal and Nagore, with local buses and taxis to the temple."
+    "timings": "सहसा पहाटेपासून मध्यान्हापर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पेहराव अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गात सामान्यतः छायाचित्रणास परवानगी आहे, पण गर्भगृहात नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "धर्मपुरम कराईकल (पुदुच्चेरी) जवळ, नागपट्टिणम/मयिलाडुतुरै सीमेजवळ, कराईकल शहरापासून सुमारे ५-६ किमी अंतरावर आहे; सर्वांत जवळची रेल्वे स्थानके कराईकल आणि नागोर आहेत, आणि मंदिरापर्यंत स्थानिक बस व टॅक्सी उपलब्ध आहेत."
   }
 }

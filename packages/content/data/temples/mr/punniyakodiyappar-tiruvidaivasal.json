@@ -1,29 +1,36 @@
 {
   "id": "punniyakodiyappar-tiruvidaivasal",
   "locale": "mr",
+  "name": "पुण्णियकोडियप्पर मंदिर, तिरुविडैवासल",
   "nativeName": "திருவிடைவாசல் புண்ணியகொடியப்பர் கோயில்",
+  "deity": "पुण्णियकोडियप्पर (इडैवैनाथर) रूपातील शिव, देवी अभिरामी यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Tiruvidaivasal (Kovilur), near Koradacheri",
-    "state": "Tamil Nadu",
+    "city": "तिरुविडैवासल (कोविलूर), कोरडाचेरीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.8833,
     "lng": 79.1343
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूर त्रिभुज-प्रदेशातील कोरडाचेरीजवळील तिरुविडैवासल येथे शिव पुण्णियकोडियप्पर म्हणून देवी अभिरामीसह पूजले जातात. येथील तेवारम स्तोत्र दीर्घकाळ हरवले होते, ते १९१७ मध्ये पुन्हा मिळाले — आणि त्याच्या प्राप्तीने पाडल पेट्र स्थळम्ची संख्या २७५ वर पूर्ण झाली. तिरुज्ञान संबंदरांनी गायिलेले हे शांत मंदिर तेवारम मंदिरांच्या यादीत विशेष स्थान राखून आहे.",
   "sections": {
-    "history": "Tiruvidaivasal lies at Kovilur, near the Vennar bridge on the Koradacheri–Koothanallur road, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar; but its verse was long lost, and the hymn pertaining to this shrine was recovered only in 1917. With that finding the total of the Tevaram temples reached 275. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Punniyakodiyappar in the sanctum, with the goddess Abirami in her own shrine, a Nandi and the parivara devatas about the prakara. The sthala vriksham is the kasturi arali, the fragrant oleander. The walled courtyard and modest gopuram are typical of the Shiva temples of the Tiruvarur delta.",
-    "legends": "Shiva is worshipped here as Punniyakodiyappar, 'the lord of the flag of merit'; the goddess is praised as Abirami. The shrine's chief distinction is its late recovery: its Tevaram verse, lost for centuries, was found in 1917, and with it the roll of the Paadal Petra Sthalams was completed at 275. As with many delta shrines, the fuller sthala purana survives chiefly in local tradition and the recovered hymn.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a delta village shrine. Pilgrims completing the full count of the Paadal Petra Sthalams make a point of including Tiruvidaivasal, the shrine that completed the 275.",
-    "experience": "At Tiruvidaivasal the pilgrim comes to the shrine that completes the count. Before Punniyakodiyappar and Abirami, under the fragrant oleander, the visitor finds the quiet grace of a Tevaram temple of the Tiruvarur delta — and the memory of a hymn lost for ages and found again, by which the roll of the 275 was made whole."
+    "history": "तिरुविडैवासल तिरुवारूर जिल्ह्यात, कोरडाचेरी–कूथनल्लूर मार्गावरील वेन्नार पुलाजवळ, कोविलूर येथे आहे. हे पाडल पेट्र स्थळम् असून तिरुज्ञान संबंदरांनी तेवारममध्ये गायिलेले आहे; परंतु त्याचे काव्य दीर्घकाळ हरवले होते, आणि या मंदिराशी संबंधित स्तोत्र केवळ १९१७ मध्ये पुन्हा मिळाले. त्या प्राप्तीसह तेवारम मंदिरांची एकूण संख्या २७५ झाली. दगडी मंदिर चोळकालीन आणि नंतरचे आहे.",
+    "architecture": "हे त्रिभुज-प्रदेशातील द्रविड मंदिर आहे; गर्भगृहात पुण्णियकोडियप्पर विराजमान आहेत, देवी अभिरामी तिच्या स्वतंत्र मंदिरात आहे, आणि नंदी व परिवार देवता प्राकाराभोवती आहेत. स्थळवृक्ष कस्तुरी अरळी, म्हणजे सुगंधी कणेर आहे. तटबंदीयुक्त प्रांगण आणि साधे गोपुर तिरुवारूर त्रिभुज-प्रदेशातील शिवमंदिरांचे वैशिष्ट्य आहे.",
+    "legends": "येथे शिव पुण्णियकोडियप्पर, म्हणजे 'पुण्याच्या ध्वजाचे स्वामी', म्हणून पूजले जातात; देवीची स्तुती अभिरामी म्हणून होते. मंदिराचे प्रमुख वैशिष्ट्य म्हणजे त्याचे उशिरा झालेले पुनःप्राप्ती आहे : शतकानुशतके हरवलेले त्याचे तेवारम काव्य १९१७ मध्ये सापडले, आणि त्यामुळे पाडल पेट्र स्थळम्ची यादी २७५ वर पूर्ण झाली. अनेक त्रिभुज-प्रदेशातील मंदिरांप्रमाणे येथील सविस्तर स्थळपुराण मुख्यतः स्थानिक परंपरेत आणि पुन्हा मिळालेल्या स्तोत्रातच टिकून आहे.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्र आणि कार्तिकेतील सोमवार, प्रदोष पूजेसह, त्रिभुज-प्रदेशातील गावाच्या शांत मंदिराला साजेशा प्रमाणात पाळले जातात. पाडल पेट्र स्थळम्ची संपूर्ण संख्या पूर्ण करणारे यात्रेकरू २७५ पूर्ण करणाऱ्या तिरुविडैवासलचा आवर्जून समावेश करतात.",
+    "experience": "तिरुविडैवासल येथे यात्रेकरू संख्या पूर्ण करणाऱ्या मंदिरात येतो. सुगंधी कणेराखाली पुण्णियकोडियप्पर आणि अभिरामी यांच्यासमोर अभ्यागताला तिरुवारूर त्रिभुज-प्रदेशातील तेवारम मंदिराची शांत कृपा लाभते — आणि युगानुयुगे हरवलेल्या व पुन्हा सापडलेल्या स्तोत्राची आठवणही, ज्यामुळे २७५ ची यादी अखंड झाली."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvidaivasal lies at Kovilur, near the Vennar bridge on the Koradacheri–Koothanallur road, in Tiruvarur district. Koradacheri and Needamangalam are the nearest towns, with buses and taxis to the village; Tiruvarur and Mannargudi are the nearest rail heads."
+    "timings": "साधारणपणे पहाटेपासून मध्यान्हापर्यंत आणि पुन्हा दुपारी उशिरापासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा-मार्गांत छायाचित्रणास साधारणपणे परवानगी आहे, पण गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर-कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुविडैवासल तिरुवारूर जिल्ह्यात, कोरडाचेरी–कूथनल्लूर मार्गावरील वेन्नार पुलाजवळ, कोविलूर येथे आहे. कोरडाचेरी आणि नीडामंगलम ही जवळची गावे आहेत, जेथून गावात बस आणि टॅक्सी जातात; तिरुवारूर आणि मन्नारगुडी ही जवळची रेल्वे स्थानके आहेत."
   }
 }

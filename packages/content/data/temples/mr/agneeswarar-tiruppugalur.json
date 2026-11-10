@@ -1,29 +1,36 @@
 {
   "id": "agneeswarar-tiruppugalur",
   "locale": "mr",
+  "name": "अग्नीश्वरर मंदिर, तिरुप्पुगलूर",
   "nativeName": "திருப்புகலூர் அக்னீஸ்வரர் கோயில்",
+  "deity": "अग्नीश्वरर (अग्निपुरीश्वरर) रूपातील शिव, देवी करुंदर्कुळली यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम्",
   "location": {
-    "city": "Tiruppugalur",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पुगलूर",
+    "state": "तमिळनाडू",
     "lat": 10.87,
     "lng": 79.75
   },
+  "period": "तेवारम् काळ (सातव्या शतकात स्तवन); सध्याचे चोळ संरचनात्मक मंदिर, सुमारे दहावे शतक",
   "century": 10,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "नागपट्टिनमच्या खालच्या कावेरी त्रिभुज प्रदेशातील तिरुप्पुगलूर येथे शिव अग्नीश्वरर — अग्निपुरीश्वरर — रूपात देवी करुंदर्कुळली यांच्यासह पूजले जातात. अप्पर, संबंदर आणि सुंदरर यांनी स्तवन केलेले हे पाडल पेट्र स्थलम् असून, त्याचे नाव अग्नि या अग्निदेवतेच्या तपश्चर्येशी जोडलेले आहे; त्याचे सरोवर, अग्नि तीर्थम्, आजही गर्भगृहाभोवती वेढलेले आहे.",
   "sections": {
-    "history": "Tiruppugalur lies in Nagapattinam district, in the lower Kaveri delta. It is a Paadal Petra Sthalam, hymned in the Tevaram by Appar (Tirunavukkarasar), Sambandar and Sundarar, counted among the Shiva shrines on the southern bank of the Kaveri. The present stone temple is of the Chola period, about the 10th century. The complex holds two Paadal Petra shrines — Agneeswarar and Vardhamaneswarar.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Agneeswarar — Agnipureeswarar — in the sanctum, with the goddess Karundharkuzhali (also Choolikambal) in her own shrine, a Nandi and the parivara devatas. A water body, the Agni Theertham, encircles the shrine. The walled courtyard keeps the form of the Shiva temples of the lower Nagapattinam delta, and the shrine of Vardhamaneswarar stands within the same sacred ground.",
-    "legends": "Shiva is worshipped here as Agneeswarar, 'the lord of Agni,' for Agni, the fire-god, is said to have done penance at this place and raised a body of water around himself; that tank survives to this day as the Agni Theertham, and the lord's name recalls the fire-god's worship. The goddess is Karundharkuzhali. As with many delta shrines, the fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the lower Nagapattinam delta include Tiruppugalur among their stops, worshipping at both of its Paadal Petra shrines.",
-    "experience": "At Tiruppugalur the pilgrim comes to the lord of the fire-god's penance. Before Agneeswarar and Karundharkuzhali, with the Agni Theertham encircling the shrine, the visitor finds the unhurried grace of a Tevaram temple of the lower delta, firm in the memory of Agni's worship."
+    "history": "तिरुप्पुगलूर नागपट्टिनम जिल्ह्यात, खालच्या कावेरी त्रिभुज प्रदेशात वसलेले आहे. हे एक पाडल पेट्र स्थलम् असून, अप्पर (तिरुनावुक्करसर), संबंदर आणि सुंदरर यांनी तेवारम्मध्ये त्याचे स्तवन केले आहे, आणि कावेरीच्या दक्षिण तीरावरील शिवमंदिरांमध्ये त्याची गणना होते. सध्याचे दगडी मंदिर चोळ काळातील, सुमारे दहाव्या शतकातील आहे. या संकुलात दोन पाडल पेट्र गर्भगृहे आहेत — अग्नीश्वरर आणि वर्धमानेश्वरर.",
+    "architecture": "हे एक द्रविड त्रिभुज-प्रदेशीय मंदिर असून, गर्भगृहात अग्नीश्वरर — अग्निपुरीश्वरर — विराजमान आहेत, देवी करुंदर्कुळली (चूलिकंबल) यांचे स्वतंत्र गर्भगृह, नंदी आणि परिवार देवता यांच्यासह. अग्नि तीर्थम् नावाचा जलाशय गर्भगृहाभोवती वेढलेला आहे. तटबंदी असलेले प्रांगण खालच्या नागपट्टिनम त्रिभुज प्रदेशातील शिवमंदिरांचे रूप जपते, आणि वर्धमानेश्वररांचे गर्भगृह याच पवित्र भूमीत उभे आहे.",
+    "legends": "येथे शिव अग्नीश्वरर, म्हणजे 'अग्निचे स्वामी' म्हणून पूजले जातात, कारण अग्नि या अग्निदेवतेने येथे तपश्चर्या केली आणि स्वतःभोवती जलाशय निर्माण केला असे सांगितले जाते; तेच सरोवर आजपर्यंत अग्नि तीर्थम् म्हणून टिकून आहे, आणि स्वामींचे नाव अग्निदेवतेच्या पूजेची आठवण करून देते. देवी करुंदर्कुळली आहेत. इतर अनेक त्रिभुज-प्रदेशीय मंदिरांप्रमाणे, अधिक विस्तृत स्थलपुराण स्थानिक परंपरेत आणि तेवारम् श्लोकांमध्ये टिकून आहे.",
+    "festivals": "मंदिरात मासि (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, पुरट्टासि (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्र आणि कार्तिगैच्या सोमवारी प्रदोष पूजेसह उत्सव साजरे होतात. खालच्या नागपट्टिनम त्रिभुज प्रदेशातील यात्रेकरू तिरुप्पुगलूरला आपल्या थांब्यांमध्ये समाविष्ट करतात, आणि दोन्ही पाडल पेट्र गर्भगृहांमध्ये पूजा करतात.",
+    "experience": "तिरुप्पुगलूर येथे यात्रेकरू अग्निदेवतेच्या तपश्चर्येच्या स्वामींच्या दर्शनाला येतो. अग्नीश्वरर आणि करुंदर्कुळली यांच्यासमोर, गर्भगृहाभोवती वेढलेल्या अग्नि तीर्थम्सह, अभ्यागताला खालच्या त्रिभुज प्रदेशातील एका तेवारम् मंदिराची निवांत कृपा लाभते, जी अग्निच्या पूजेच्या स्मृतीत दृढ आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruppugalur lies in Nagapattinam district, in the lower Kaveri delta. Nagapattinam and Tiruvarur are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उत्तरार्धापासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर, विशेषतः सणाच्या दिवशी, निश्चित करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे व गुडघे झाकलेले असावेत; प्रवेशद्वाराजवळ पादत्राणे काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणामार्गांत छायाचित्रणास सहसा परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुप्पुगलूर नागपट्टिनम जिल्ह्यात, खालच्या कावेरी त्रिभुज प्रदेशात आहे. नागपट्टिनम आणि तिरुवारूर ही जवळची शहरे व रेल्वे स्थानके आहेत, तेथून गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
   }
 }

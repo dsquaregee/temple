@@ -1,31 +1,38 @@
 {
   "id": "brahmasirakandeeswarar-thirukandiyur",
   "locale": "mr",
+  "name": "ब्रह्मशिरकंडीश्वरर मंदिर, तिरुकंडियूर",
   "nativeName": "பிரம்மசிரகண்டீஸ்வரர் கோயில், திருக்கண்டியூர்",
+  "deity": "ब्रह्मशिरकंडीश्वरर (वीरट्टनेश्वरर) रूपातील शिव, देवी मंगलनायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thirukandiyur",
-    "state": "Tamil Nadu",
+    "city": "तिरुकंडियूर",
+    "state": "तमिळनाडू",
     "lat": 10.86,
     "lng": 79.108
   },
+  "period": "सप्तस्थानमचे पाचवे तीर्थ आणि अष्टवीरट्टानमपैकी एक; तेवारममध्ये स्तुतिगान (सातवे शतक), दहाव्या शतकापासूनचे चोळ शिलालेख",
   "century": 7,
+  "dynasty": "चोळ, नंतरचे नायक आणि मराठा आश्रयासह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "saptha-sthanam",
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुकंडियूर येथे शिव हे वीरट्टनेश्वरर आहेत, ज्यांनी ब्रह्माचा गर्व नम्र करण्यासाठी त्याचे पाचवे मस्तक छाटले: आठ अष्टवीरट्टानमपैकी एक आणि सप्तस्थानम मिरवणुकीतील पाचवे मंदिर.",
   "sections": {
-    "history": "Thirukandiyur lies on the road between Thanjavur and Thiruvaiyaru, a few kilometres south of Thiruvaiyaru, and it is home to two temples bound by one story: this Shiva shrine and, a short walk away, the Vishnu temple of Hara Saba Vimochana Perumal, a Divya Desam. Appar and Sambandar sang of the lord here, so the Shiva temple is a Paadal Petra Sthalam. An inscription of the Chola king Uttama Chola on the north wall of the central shrine shows that the temple was already receiving royal gifts in the tenth century, and later Chola, Thanjavur Nayak and Maratha rulers added endowments of their own.",
-    "architecture": "The temple is a Chola stone shrine enclosed by later walls and mandapams, with the sanctum of Brahma Sirakandeeswarar at its heart and a separate shrine for the goddess Mangalanayaki. Unusually for a Shiva temple, images of Brahma and Saraswati stand within the complex, outside the main sanctum; tradition says they were brought here when an older Brahma temple nearby fell into ruin. Brahma is seated with palms joined in prayer, holding a flower and a rudraksha rosary, as though still seeking pardon.",
-    "legends": "The sthala purana tells that Brahma, proud of his five heads, was once mistaken for Shiva and accepted an honour that was not his. To humble that pride, Shiva struck off his fifth head, a deed counted among the eight heroic acts remembered at the Ashta Veerattanams, and it gives the lord his name: Brahma Sirakandeeswarar, the lord who severed Brahma's head. The skull clung to Shiva's hand until it fell away at Thirukandiyur, and the nearby Vishnu temple tells the same story from its own side.",
-    "festivals": "In the Saptha Sthanam festival of Chithirai (April–May), Thirukandiyur is the fifth temple on the route, after Thiruvedhikudi, and its deities join the procession in their own glass palanquin. Tradition holds that the village provided ornaments for Nandi's wedding. Maha Shivaratri and the monthly Pradosham are kept through the year. Confirm dates locally.",
-    "experience": "Thirukandiyur rewards a visit to both its temples. Come first to Brahma Sirakandeeswarar, pause before the rare images of Brahma and Saraswati, and then walk the few hundred metres to the Vishnu temple, where the story of the severed head finds its ending. Pilgrims on the round of the eight Veerattanams come here too, and because it stands on the main road it is the easiest of the seven Saptha Sthanam temples to reach."
+    "history": "तिरुकंडियूर तंजावर आणि तिरुवैयारू यांना जोडणाऱ्या रस्त्यावर, तिरुवैयारूच्या काही किलोमीटर दक्षिणेस वसले आहे. येथे एकाच कथेने जोडलेली दोन मंदिरे आहेत: हे शिवमंदिर आणि थोड्या अंतरावरील हर शाप विमोचन पेरुमाळ यांचे विष्णुमंदिर, जे एक दिव्य देशम आहे. अप्पर आणि संबंदर यांनी येथील प्रभूचे गायन केले, म्हणून हे शिवमंदिर एक पाडल पेट्र स्थलम आहे. मध्यवर्ती गर्भगृहाच्या उत्तर भिंतीवरील चोळ राजा उत्तम चोळ याचा शिलालेख दाखवतो की दहाव्या शतकातच या मंदिराला राजदान मिळत होते, आणि पुढे चोळ, तंजावर नायक आणि मराठा राज्यकर्त्यांनी स्वतःचे दानही दिले.",
+    "architecture": "हे मंदिर चोळकालीन दगडी तीर्थ असून नंतरच्या तटभिंती आणि मंडपांनी वेढलेले आहे; त्याच्या मध्यभागी ब्रह्मशिरकंडीश्वररांचे गर्भगृह आणि देवी मंगलनायकीचे स्वतंत्र मंदिर आहे. शिवमंदिरासाठी असामान्य असे ब्रह्मा आणि सरस्वतीच्या मूर्ती मुख्य गर्भगृहाबाहेर परिसरात आहेत; परंपरा सांगते की जवळचे जुने ब्रह्मा मंदिर उद्ध्वस्त झाल्यावर त्या येथे आणल्या गेल्या. ब्रह्मा हात जोडून, फूल आणि रुद्राक्षमाळा धरून बसले आहेत, जणू अजूनही क्षमा मागत आहेत.",
+    "legends": "स्थलपुराण सांगते की पाच मस्तकांचा गर्व बाळगणाऱ्या ब्रह्माला एकदा शिव समजले गेले आणि त्याने आपले नसलेले सन्मान स्वीकारले. तो गर्व नम्र करण्यासाठी शिवाने त्याचे पाचवे मस्तक छाटले; हे कृत्य अष्टवीरट्टानम येथे स्मरल्या जाणाऱ्या आठ वीरकृत्यांपैकी एक मानले जाते, आणि त्यावरूनच प्रभूचे नाव पडले: ब्रह्मशिरकंडीश्वरर, म्हणजे ब्रह्माचे शिर छेदणारे प्रभू. ती कवटी शिवाच्या हाताला चिकटून राहिली, ती तिरुकंडियूर येथे गळून पडेपर्यंत; आणि जवळचे विष्णुमंदिर तीच कथा आपल्या बाजूने सांगते.",
+    "festivals": "चित्तिरै (एप्रिल–मे) महिन्यातील सप्तस्थानम उत्सवात तिरुकंडियूर हे मार्गावरील पाचवे मंदिर आहे, तिरुवेदिकुडीनंतरचे, आणि येथील देवता आपल्या स्वतंत्र काचेच्या पालखीत मिरवणुकीत सहभागी होतात. परंपरेनुसार नंदीच्या विवाहासाठी या गावाने अलंकार पुरवले. महाशिवरात्री आणि मासिक प्रदोषम वर्षभर पाळले जातात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुकंडियूरच्या दोन्ही मंदिरांना भेट देणे फलदायी ठरते. आधी ब्रह्मशिरकंडीश्वररांकडे या, ब्रह्मा आणि सरस्वतीच्या दुर्मिळ मूर्तींसमोर क्षणभर थांबा, आणि मग काही शे मीटर चालत विष्णुमंदिरात जा, जेथे छाटलेल्या मस्तकाच्या कथेचा शेवट होतो. आठ वीरट्टानम तीर्थांच्या यात्रेवरील यात्रेकरूही येथे येतात, आणि हे मुख्य रस्त्यावर असल्याने सप्तस्थानमच्या सात मंदिरांपैकी येथे पोहोचणे सर्वांत सोपे आहे."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thirukandiyur is on the Thanjavur–Thiruvaiyaru road, about 3 km south of Thiruvaiyaru and roughly 10 km from Thanjavur, and town buses between the two stop here. Thanjavur is the nearest major railway station, and Tiruchirappalli International Airport, around 60 km away, is the nearest airport. The Hara Saba Vimochana Perumal temple is a short walk away."
+    "timings": "सामान्यतः सकाळी आणि पुन्हा उत्तर दुपारपासून संध्याकाळपर्यंत उघडे असते, दुपारी विश्रांतीचा वेळ असतो; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधे पारंपरिक पोशाख अपेक्षित आहेत: पुरुषांसाठी धोतर किंवा पायजमा-पँट, महिलांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वारापाशीच्या स्टँडमध्ये ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिर नियमांनुसार बाहेरील प्रदक्षिणा मार्ग आणि प्रांगणांत छायाचित्रणास साधारणतः परवानगी आहे, परंतु आतील गर्भगृहात काटेकोरपणे मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुकंडियूर तंजावर–तिरुवैयारू रस्त्यावर, तिरुवैयारूपासून सुमारे ३ किमी दक्षिणेस आणि तंजावरपासून सुमारे १० किमी अंतरावर आहे; दोन्हीदरम्यानच्या शहर बस येथे थांबतात. तंजावर हे जवळचे मोठे रेल्वे स्थानक आणि सुमारे ६० किमी अंतरावरील तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ हे जवळचे विमानतळ आहे. हर शाप विमोचन पेरुमाळ मंदिर थोड्या चालण्याच्या अंतरावर आहे."
   }
 }

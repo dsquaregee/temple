@@ -1,29 +1,36 @@
 {
   "id": "vadamoolanathar-tirupazhuvur",
   "locale": "mr",
+  "name": "वडमूलनाथर मंदिर, तिरुपळुवूर",
   "nativeName": "வடமூலநாதர் கோயில்",
+  "deity": "वडमूलनाथर (आलन्दुरैयर) रूपातील शिव, देवी अरुन्तवनायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Keezhapaluvur",
-    "state": "Tamil Nadu",
+    "city": "कीळपळुवूर",
+    "state": "तमिळनाडू",
     "lat": 11.0418,
     "lng": 79.0682
   },
+  "period": "पळुवेट्टरैयर प्रदेशातील प्राचीन शैव मंदिर, संबंधरांनी तेवारममध्ये गायिलेले (सातवे शतक); विटांचे मंदिर चोळकाळात दगडात पुन्हा बांधले",
   "century": 7,
+  "dynasty": "आरंभिक चोळ (पराण्तक पहिले आणि उत्तम चोळ), पळुवेट्टरैयर सरदारांसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "वडमूलनाथर, ज्यांना आलन्दुरैयर असेही म्हणतात, हे तेवारममधील तिरुपळुवूर आहे — पळुवेट्टरैयर सरदारांच्या प्राचीन प्रदेशातील कीळपळुवूर येथील चोळकालीन शिवमंदिर, जे संबंधरांनी गायिले आणि जे परशुरामांच्या व देवीच्या तपश्चर्येशी जोडले गेले आहे.",
   "sections": {
-    "history": "Keezhapaluvur, about twelve kilometres south of Ariyalur, is the Tirupazhuvur of the Tevaram, a Paadal Petra Sthalam praised in the hymns of the child-saint Sambandar. The village belonged to the old Paluvettaraiyar country, where the chieftains of that line made their seat, and the temple carries the stamp of that age. The original brick shrine was rebuilt in stone in the Chola period, in the days of Parantaka I and Uttama Chola, and some twenty-three inscriptions, most of them Chola, survive on its walls. Sambandar's hymn shows that the shrine was already ancient in the seventh century.",
-    "architecture": "The temple faces east beneath a three-tiered rajagopuram and is enclosed by two corridors, or prakarams. The sanctum of Alanthuraiyar, whose vimana is described as eight-faced, holds the Shiva linga, and the goddess Arunthavanayagi is worshipped in her own shrine. Among the sculptures on the sanctum walls a Gajasamharamurti panel, Shiva as the conqueror of the elephant demon, is noted. Two sacred waters belong to the temple, the Brahma Tirtham and the Parasurama Tirtham, and its sacred tree is the banyan, the pazhu or aal, from which the village and the Lord's name Alanthuraiyar are said to be drawn.",
-    "legends": "The name of the village is traced to the banyan: the place was once a forest of banyan trees, and the Lord who sits on its shore is Alanthuraiyar. Tradition says that Parasurama came here to be freed of the sin of killing his mother at his father Jamadagni's command, and found release, which is why the Lord is sought for relief from the heavy sin of brahmahatti. The goddess is Arunthavanayagi, the lady of austere penance, recalling the penance of Parvati at this place; a local telling adds that she covered Shiva's eyes in play and then did penance to atone for it, and that the Lord came to take her as his consort. Devotees also pray here for separated partners to be reunited.",
-    "festivals": "The annual festival is the Panguni Brahmotsavam, in March or April, when the Lord is carried in procession each day on a different vahana. On the third day he is said to visit Melapazhuvur to give darshan to the sage Jamadagni and to return to his temple at night. Tradition also holds that on the eighteenth day of Panguni the sun worships the Lord, its rays falling upon him. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Keezhapaluvur suits a quiet, unhurried visit. Enter beneath the three-tiered eastern gopuram, walk the two corridors, and come before Alanthuraiyar before turning to Arunthavanayagi in her own shrine. Look for the Gajasamharamurti on the sanctum wall, and sit awhile by the tank named for Parasurama. Devotees come to be freed of the burden of grievous sin and to pray for the reunion of separated partners; the village, once the seat of chieftains, now keeps the calm of a country shrine."
+    "history": "अरियलूरपासून सुमारे बारा किलोमीटर दक्षिणेला असलेले कीळपळुवूर हे तेवारममधील तिरुपळुवूर आहे; बालसंत संबंधर यांच्या स्तोत्रांत गौरवलेले हे पाडल पेत्र स्थळ आहे. हे गाव पळुवेट्टरैयर यांच्या प्राचीन प्रदेशात होते, जेथे त्या वंशाच्या सरदारांनी आपली गादी वसवली, आणि मंदिरावर त्या काळाची मुद्रा आहे. मूळचे विटांचे देवस्थान चोळकाळात, पराण्तक पहिले आणि उत्तम चोळ यांच्या दिवसांत, दगडात पुन्हा बांधले गेले, आणि त्याच्या भिंतींवर सुमारे तेवीस शिलालेख, बहुतेक चोळकालीन, आजही टिकून आहेत. संबंधरांचे स्तोत्र दर्शवते की सातव्या शतकातच हे देवस्थान प्राचीन होते.",
+    "architecture": "मंदिर तीन थरांच्या राजगोपुराखाली पूर्वाभिमुख असून दोन प्राकारांनी, म्हणजे प्रदक्षिणा-मार्गांनी, वेढलेले आहे. आलन्दुरैयर यांच्या गर्भगृहात, ज्याचे विमान अष्टमुखी असल्याचे वर्णिले आहे, शिवलिंग आहे, आणि देवी अरुन्तवनायकी यांची पूजा त्यांच्या स्वतंत्र मंदिरात होते. गर्भगृहाच्या भिंतींवरील शिल्पांमध्ये गजसंहारमूर्तीचा फलक, म्हणजे हत्तीरूपी दैत्याचा विजेता शिव, उल्लेखनीय मानला जातो. मंदिराला दोन पवित्र जलाशय आहेत — ब्रह्म तीर्थ आणि परशुराम तीर्थ — आणि त्याचा पवित्र वृक्ष वड आहे, ज्याला पळु किंवा आल म्हणतात; त्यावरून गावाचे आणि प्रभूच्या आलन्दुरैयर या नावाचे मूळ सांगितले जाते.",
+    "legends": "गावाच्या नावाचे मूळ वडात शोधले जाते: हे स्थान एकेकाळी वडाच्या वृक्षांचे वन होते, आणि त्याच्या काठावर विराजमान प्रभू आलन्दुरैयर आहेत. परंपरा सांगते की वडील जमदग्नींच्या आज्ञेवरून आईचा वध केल्याच्या पापापासून मुक्त होण्यासाठी परशुराम येथे आले आणि त्यांना मुक्ती मिळाली; म्हणूनच ब्रह्महत्येच्या जड पापापासून सुटकेसाठी प्रभूकडे धाव घेतली जाते. देवी अरुन्तवनायकी, म्हणजे कठोर तपाची स्वामिनी, या स्थानी झालेल्या पार्वतीच्या तपश्चर्येचे स्मरण करून देते; एका स्थानिक कथनानुसार तिने खेळात शिवाचे डोळे झाकले आणि नंतर त्याच्या प्रायश्चित्तासाठी तपश्चर्या केली, आणि प्रभू तिला आपली सहचारिणी म्हणून स्वीकारण्यास आले. विभक्त झालेल्या जोडीदारांचे पुनर्मीलन व्हावे म्हणूनही भक्त येथे प्रार्थना करतात.",
+    "festivals": "वार्षिक उत्सव पंगुनी ब्रह्मोत्सवम् हा आहे, मार्च किंवा एप्रिलमध्ये, ज्यात प्रभूची दररोज वेगळ्या वाहनावर मिरवणूक निघते. तिसऱ्या दिवशी ते ऋषी जमदग्नींना दर्शन देण्यासाठी मेलपळुवूरला जातात आणि रात्री आपल्या मंदिरात परततात, असे सांगितले जाते. परंपरा असेही मानते की पंगुनीच्या अठराव्या दिवशी सूर्य प्रभूची पूजा करतो आणि त्याची किरणे त्यांच्यावर पडतात. प्रत्येक शिवमंदिराप्रमाणे येथेही महाशिवरात्री आणि मासिक प्रदोष पाळले जातात. तारखा तमिळ पंचांगानुसार असल्याने त्या स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "experience": "कीळपळुवूर शांत, निवांत भेटीसाठी योग्य आहे. पूर्वेकडील तीन थरांच्या गोपुराखालून आत या, दोन्ही प्राकार फिरा, आणि आलन्दुरैयर यांच्यासमोर येऊन मगच अरुन्तवनायकी यांच्या स्वतंत्र मंदिराकडे वळा. गर्भगृहाच्या भिंतीवरील गजसंहारमूर्ती पाहा, आणि परशुरामांच्या नावाने ओळखल्या जाणाऱ्या तलावाकाठी काही वेळ बसा. घोर पापाच्या ओझ्यातून मुक्त होण्यासाठी आणि विभक्त जोडीदारांच्या पुनर्मीलनासाठी प्रार्थना करायला भक्त येतात; एकेकाळी सरदारांची गादी असलेले हे गाव आता ग्रामीण देवस्थानाची शांतता जपून आहे."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a break at midday; confirm timings locally, especially during the Panguni Brahmotsavam.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men; sarees, salwar kameez or long skirts for women, with shoulders and knees covered. Footwear is left outside the entrance.",
-    "photography": "Photography is generally allowed in the outer courtyards but not inside the sanctum, in keeping with Tamil Nadu temple practice. Please ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Keezhapaluvur lies about 12 km south of Ariyalur on the Ariyalur–Tiruvaiyaru road, reached by regular buses and taxis from Ariyalur. Ariyalur is the nearest railway town, and Tiruchirappalli, with the region's airport, is the nearest major air and rail hub. Confirm the last stretch of the journey locally."
+    "timings": "साधारणतः सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते, मध्यान्हीला विश्रांती असते; विशेषतः पंगुनी ब्रह्मोत्सवादरम्यान वेळा स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा; स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराबाहेर ठेवावीत.",
+    "photography": "तमिळनाडू मंदिरांच्या प्रथेनुसार बाहेरील प्रांगणांत छायाचित्रण साधारणतः चालते, परंतु गर्भगृहात चालत नाही. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी कृपया मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "कीळपळुवूर अरियलूर–तिरुवैयारू मार्गावर अरियलूरपासून सुमारे १२ कि.मी. दक्षिणेला आहे; अरियलूरहून नियमित बस आणि टॅक्सीने तेथे पोहोचता येते. अरियलूर हे जवळचे रेल्वे शहर आहे, आणि प्रदेशाचे विमानतळ असलेले तिरुचिरापल्ली हे जवळचे प्रमुख हवाई व रेल्वे केंद्र आहे. प्रवासाचा शेवटचा टप्पा स्थानिक पातळीवर पडताळून घ्यावा."
   }
 }

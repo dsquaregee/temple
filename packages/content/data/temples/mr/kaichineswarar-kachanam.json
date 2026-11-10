@@ -1,29 +1,36 @@
 {
   "id": "kaichineswarar-kachanam",
   "locale": "mr",
+  "name": "कैचिनेश्वर मंदिर, तिरुक्कैच्चिनम (कचनम)",
   "nativeName": "திருக்கைச்சினம் கைச்சினேஸ்வரர் கோயில்",
+  "deity": "कैचिनेश्वर (कैचिन नाथर, स्वयंभू लिंग) रूपातील शिव, देवी पालवळै नायकी यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थळम",
   "location": {
-    "city": "Kachanam, near Thiruthuraipoondi",
-    "state": "Tamil Nadu",
+    "city": "कचनम, तिरुत्तुरैपूंडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.6245,
     "lng": 79.6677
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कचनम, तेवारममधील तिरुक्कैच्चिनम, तिरुत्तुरैपूंडीजवळ असून येथे शिवाची कैचिनेश्वर रूपात — स्वयंप्रकट लिंगात पूजा होते — देवी पालवळै नायकीसह. तिरुज्ञान संबंदर यांनी गायिलेले हे पाडल पेट्र स्थळम कावेरीच्या दक्षिण तीरावरील खालच्या त्रिभुज-प्रदेशातील एक शांत देवालय आहे.",
   "sections": {
-    "history": "Kachanam, whose Tevaram name is Tirukkaichinam, lies about 18 km from Tiruvarur and 9 km from Thiruthuraipoondi, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted among the Shiva shrines on the southern bank of the Kaveri. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Kaichineswarar — also Kaichina Nathar — in the sanctum, worshipped in a swayambhu, self-manifest lingam, with the goddess Palvalai Nayaki in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the kongu ilavam (silk-cotton), and the sacred tank is the Indira (Vajra) Theertham.",
-    "legends": "The lord is a swayambhu, self-manifest from the earth, worshipped as Kaichineswarar; the sacred tank's name, Indira or Vajra Theertham, links the place to Indra, who by tradition worshipped here. The goddess Palvalai Nayaki stands beside him. As with many smaller delta shrines, the fuller sthala purana survives chiefly in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail of the southern delta include Kachanam among their stops.",
-    "experience": "At Kachanam the pilgrim comes to a quiet shrine of the self-manifest lord. Before Kaichineswarar and Palvalai Nayaki, beside the Indira Theertham, the visitor finds the unhurried grace of a Tevaram temple of the southern Kaveri country, firm in the lingam that rose of itself from the earth."
+    "history": "कचनम, ज्याचे तेवारममधील नाव तिरुक्कैच्चिनम आहे, तिरुवारूरपासून सुमारे १८ किमी आणि तिरुत्तुरैपूंडीपासून ९ किमी अंतरावर, तिरुवारूर जिल्ह्यात वसले आहे. हे पाडल पेट्र स्थळम असून तिरुज्ञान संबंदर यांनी तेवारममध्ये त्याचे स्तवन केले आहे, आणि कावेरीच्या दक्षिण तीरावरील शिवमंदिरांत त्याची गणना होते. हे दगडी मंदिर चोळकाळातील आणि त्यानंतरचे आहे.",
+    "architecture": "हे त्रिभुज-प्रदेशातील द्रविड शैलीचे मंदिर असून गर्भगृहात कैचिनेश्वर — कैचिन नाथर असेही — स्वयंभू, स्वयंप्रकट लिंगाच्या रूपात पूजिले जातात; देवी पालवळै नायकी आपल्या स्वतंत्र देवळात, तसेच नंदी आणि परिवार देवता आहेत. स्थलवृक्ष कोंगु इलवम (काटेसावर) आहे, आणि पवित्र तळे इंद्र (वज्र) तीर्थम आहे.",
+    "legends": "प्रभू स्वयंभू, भूमीतून स्वयंप्रकट असून कैचिनेश्वर म्हणून पूजिले जातात; पवित्र तळ्याचे नाव, इंद्र किंवा वज्र तीर्थम, या स्थानाला इंद्राशी जोडते, ज्याने परंपरेनुसार येथे पूजा केली. देवी पालवळै नायकी त्यांच्या शेजारी विराजमान आहे. त्रिभुज-प्रदेशातील अनेक लहान देवळांप्रमाणे येथील सविस्तर स्थलपुराण प्रामुख्याने स्थानिक परंपरेत आणि संबंदर यांच्या पदांत टिकून आहे.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यात नवरात्र आणि कार्तिकातील सोमवार, तसेच प्रदोष पूजा, खेड्यातील देवळाच्या शांत प्रमाणात पाळली जाते. दक्षिण त्रिभुज-प्रदेशातील पाडल पेट्र मार्गावरील यात्रेकरू कचनमचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "कचनमला यात्रेकरू स्वयंप्रकट प्रभूच्या शांत देवालयात येतो. कैचिनेश्वर आणि पालवळै नायकीसमोर, इंद्र तीर्थमच्या काठी, भेट देणाऱ्याला कावेरीच्या दक्षिण प्रदेशातील तेवारम मंदिराची निवांत कृपा लाभते — भूमीतून आपोआप उगवलेल्या लिंगावर दृढ असलेली."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kachanam is about 18 km from Tiruvarur and 9 km from Thiruthuraipoondi, in Tiruvarur district. Tiruvarur and Thiruthuraipoondi are the nearest rail heads, with buses and taxis to the village."
+    "timings": "सहसा पहाटेपासून मध्यान्हापर्यंत आणि पुन्हा उशिरा दुपारपासून सायंकाळपर्यंत खुले असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढली जातात.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत छायाचित्रण सामान्यतः अनुमत असते, पण गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "कचनम तिरुवारूर जिल्ह्यात, तिरुवारूरपासून सुमारे १८ किमी आणि तिरुत्तुरैपूंडीपासून ९ किमी अंतरावर आहे. तिरुवारूर आणि तिरुत्तुरैपूंडी ही सर्वांत जवळची रेल्वेस्थानके असून गावापर्यंत बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

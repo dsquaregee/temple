@@ -1,29 +1,36 @@
 {
   "id": "vellimalainathar-thengur",
   "locale": "mr",
+  "name": "वेळ्ळिमलैनाथर मंदिर, तिरुत्तेंगूर",
   "nativeName": "திருத்தெங்கூர் வெள்ளிமலைநாதர் கோயில்",
+  "deity": "वेळ्ळिमलैनाथर (चांदीचा ग्रह शुक्र यांनी पूजिलेले) रूपातील शिव, देवी पेरियनायकी (बृहन्नायकी) यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थलम्",
   "location": {
-    "city": "Tiruthengur (Thiruthangur), near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "तिरुत्तेंगूर (तिरुत्तंगूर), तिरुवारूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.6487,
     "lng": 79.6258
   },
+  "period": "तेवारम काळ (७ व्या शतकात गायिलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूरजवळील तिरुत्तेंगूर येथे वेळ्ळिमलैनाथर रूपातील शिवाचा सन्मान केला जातो — चांदीचा ग्रह शुक्र यांनी पूजिलेले प्रभू — देवी पेरियनायकी यांच्यासह. तिरुज्ञान संबंदर यांनी गायिलेले हे पाडल पेट्र स्थलम् असून त्याची आख्यायिका सांगते की शुक्राचार्यांना येथील पूजेने गमावलेली दृष्टी परत मिळाली, आणि नऊ ग्रहांनी प्रत्येकी एक लिंग स्थापिले, ज्यामुळे प्रभूला त्यांचे 'चांदीचा पर्वत' हे नाव मिळाले.",
   "sections": {
-    "history": "Tiruthengur, often written Thiruthangur, lies about 18 km from Tiruvarur (some 22 km from Mannargudi) in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The lord here is Vellimalainathar, 'lord of the silver mountain,' and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vellimalainathar in the sanctum, with the goddess Periyanayaki — also Brihannayaki, 'the great mother' — in her own shrine, a Nandi and the parivara devatas. The temple is known for its association with the Navagrahas, the nine planets, each said to have installed a lingam here.",
-    "legends": "The sthala legend tells that Sukracharya, the guru of the asuras and lord of the planet Sukra (Venus), lost one of his eyes and came here to worship Shiva; by his devotion he regained his sight. Because Sukra is called Velli, 'silver,' the lord who granted him grace is named Vellimalainathar, 'lord of the silver mountain.' Tradition also holds that each of the nine planets installed a lingam here, making the shrine a place of Navagraha worship, and it is sought for relief from the afflictions of Sukra.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, along with special observance on the days of Sukra (Friday). Pilgrims seeking the grace of the planets and the Paadal Petra temples near Tiruvarur include Tiruthengur among their stops.",
-    "experience": "At Tiruthengur the pilgrim comes to a shrine of planetary grace, where Sukra regained his sight and the nine planets worshipped. Before Vellimalainathar, lord of the silver mountain, and the great mother Periyanayaki, the visitor seeks the clear sight of body and soul in a quiet Tevaram temple of the Tiruvarur country."
+    "history": "तिरुत्तेंगूर, जे अनेकदा तिरुत्तंगूर असे लिहिले जाते, तिरुवारूर जिल्ह्यात तिरुवारूरपासून सुमारे १८ किमी (मन्नारगुडीपासून सुमारे २२ किमी) अंतरावर आहे. हे तेवारममध्ये तिरुज्ञान संबंदर यांनी गायिलेले पाडल पेट्र स्थलम् आहे. येथील प्रभू वेळ्ळिमलैनाथर, म्हणजे 'चांदीच्या पर्वताचे स्वामी', आहेत, आणि दगडी मंदिर चोळ काळातील आणि नंतरचे आहे.",
+    "architecture": "द्रविड शैलीचे दुआबातील मंदिर; गर्भगृहात वेळ्ळिमलैनाथर विराजमान आहेत, आणि देवी पेरियनायकी — बृहन्नायकी, म्हणजे 'महान माता', असेही — आपल्या स्वतंत्र मंदिरात आहेत; तसेच एक नंदी आणि परिवार देवता आहेत. हे मंदिर नवग्रहांशी, म्हणजे नऊ ग्रहांशी, असलेल्या संबंधासाठी ओळखले जाते; प्रत्येक ग्रहाने येथे एक लिंग स्थापिले असे सांगितले जाते.",
+    "legends": "स्थलपुराण सांगते की असुरांचे गुरू आणि शुक्र ग्रहाचे (व्हीनस) स्वामी शुक्राचार्य यांनी आपला एक डोळा गमावला आणि ते येथे शिवाची पूजा करण्यास आले; आपल्या भक्तीने त्यांना दृष्टी परत मिळाली. शुक्राला वेळ्ळि, म्हणजे 'चांदी', म्हणतात, म्हणून ज्या प्रभूने त्यांच्यावर कृपा केली त्यांचे नाव वेळ्ळिमलैनाथर, 'चांदीच्या पर्वताचे स्वामी', पडले. परंपरा असेही सांगते की नऊ ग्रहांपैकी प्रत्येकाने येथे एक लिंग स्थापिले, ज्यामुळे हे मंदिर नवग्रह पूजेचे स्थान झाले, आणि शुक्राच्या पीडांपासून मुक्तीसाठी त्याचा आश्रय घेतला जातो.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्री आणि कार्तिकैतील सोमवार, प्रदोष पूजेसह साजरे केले जातात, तसेच शुक्राच्या दिवशी (शुक्रवार) विशेष पूजा केली जाते. ग्रहांची कृपा आणि तिरुवारूरजवळची पाडल पेट्र मंदिरे शोधणारे यात्रेकरू तिरुत्तेंगूरचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "तिरुत्तेंगूर येथे यात्रेकरू ग्रहकृपेच्या मंदिरात येतो, जेथे शुक्राला दृष्टी परत मिळाली आणि नऊ ग्रहांनी पूजा केली. चांदीच्या पर्वताचे स्वामी वेळ्ळिमलैनाथर आणि महान माता पेरियनायकी यांच्यासमोर, तिरुवारूर प्रदेशातील एका शांत तेवारम मंदिरात, भेट देणारा देहाची आणि आत्म्याची स्वच्छ दृष्टी मागतो."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruthengur is about 18 km from Tiruvarur and 22 km from Mannargudi, in Tiruvarur district. Tiruvarur is the nearest rail head, with buses and taxis to the village."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि पुन्हा उत्तर दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा मार्गांवर छायाचित्रणास सामान्यतः परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुत्तेंगूर तिरुवारूर जिल्ह्यात तिरुवारूरपासून सुमारे १८ किमी आणि मन्नारगुडीपासून सुमारे २२ किमी अंतरावर आहे. तिरुवारूर हे सर्वांत जवळचे रेल्वे स्थानक आहे; गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
   }
 }

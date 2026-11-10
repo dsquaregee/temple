@@ -1,31 +1,42 @@
 {
   "id": "adi-kumbeswarar-kumbakonam",
   "locale": "mr",
+  "name": "आदि कुंभेश्वर मंदिर, कुंभकोणम",
   "nativeName": "ஆதி கும்பேஸ்வரர் கோயில்",
+  "deity": "आदि कुंभेश्वर रूपातील शिव, लिंगरूपात पूजिले जाणारे, देवी मंगलांबिगै अम्मन यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "कुंभकोणम",
+    "state": "तमिळनाडू",
     "lat": 10.958,
     "lng": 79.371
   },
+  "period": "चोळकालीन स्थापना, विजयनगर आणि नायक काळातील भर; तेवारममध्ये गायिलेले (सातवे शतक)",
   "century": 7,
+  "dynasty": "चोळ, विजयनगर आणि तंजावर नायक",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "kaveri-delta-temple-towns",
     "paadal-petra-sthalams"
   ],
+  "summary": "आदि कुंभेश्वर हे कुंभकोणमचे प्रमुख शिवमंदिर आहे, जेथे परंपरेनुसार प्रभू सृष्टीच्या फुटलेल्या घड्यात शिरले आणि त्यांनी तो आपले लिंग बनवला, आणि त्या कुंभावरूनच शहराला नाव मिळाले आहे.",
   "sections": {
-    "history": "Adi Kumbeswarar stands at the heart of Kumbakonam and is counted among its oldest and most important Shaiva shrines. The saints Appar and Sambandar sang its praises in the Tevaram, which makes it a Paadal Petra Sthalam and shows that devotion was rooted here by the seventh century. The present temple is generally credited to the Cholas, with later growth under the Vijayanagara rulers and the Nayaks of Thanjavur between the fifteenth and seventeenth centuries. It is also one of the twelve Shiva temples tied to the Mahamaham, the great bathing festival that comes to Kumbakonam once in twelve years, and its worship has always been bound up with the identity of the town.",
-    "architecture": "The complex covers roughly 2,800 square metres and is entered through four gopurams, the tallest being the eastern tower, which rises in eleven storeys to about 128 feet. Within, the Dravidian plan unfolds in successive courts and pillared corridors. A sixteen-pillared hall of the Vijayanagara period is the finest set piece, with the twenty-seven stars and twelve zodiac signs carved in a single stone. Shrines for the Lord and for Mangalambigai Amman anchor the worship, and the sculpted pillars reward a slow walk around the enclosure.",
-    "legends": "The sthala purana tells that when the universe dissolved, a pot of nectar holding the seeds of all creation floated across the waters and came to rest here. Shiva appeared as a hunter and pierced the pot with an arrow. The nectar and the seeds scattered, and one place where the nectar gathered is remembered as the Mahamaham tank. From the pieces of the pot the Lord is said to have formed a lingam and entered it, and so he is called Adi Kumbeswarar, the first Lord of the pot. The town, Kumbakonam, the corner of the kumbha, takes its name from the same event.",
-    "festivals": "The twelve-yearly Mahamaham, when pilgrims bathe in the great tank, is the high point of the town's sacred calendar, and Adi Kumbeswarar is among the Shiva temples whose deities take part. The annual Masi Magam recalls it. Maha Shivaratri, the monthly Pradosham, Navaratri and Karthigai Deepam are kept with special worship. Confirm dates locally.",
-    "experience": "Step in through the eastern gopuram and the noise of the market falls away. The enclosure is quiet and cool, its corridors lined with sculpted pillars. Seek out the sixteen-pillared hall and look up at the carved stars and zodiac signs before going to the sanctum, where the lingam is worshipped in lamplight. The Mangalambigai shrine nearby is a gentle counterpoint. Mornings are calm; evenings bring sung worship and the scent of camphor. Allow time for the Mahamaham tank and the town's other Shiva and Vishnu temples."
+    "history": "आदि कुंभेश्वर कुंभकोणमच्या केंद्रस्थानी उभे असून ते तेथील सर्वांत प्राचीन आणि महत्त्वाच्या शैव मंदिरांपैकी मानले जाते. अप्पर आणि संबंधर या संतांनी तेवारममध्ये याची स्तुती गायली, त्यामुळे हे पाडल पेट्र स्थलम ठरते आणि सातव्या शतकापर्यंत येथे भक्ती रुजलेली होती हे दिसून येते. सध्याच्या मंदिराचे श्रेय सामान्यतः चोळांना दिले जाते, आणि पंधराव्या ते सतराव्या शतकांदरम्यान विजयनगरचे राज्यकर्ते आणि तंजावरचे नायक यांच्या काळात त्याचा पुढील विस्तार झाला. बारा वर्षांतून एकदा कुंभकोणमला येणार्‍या महामहम या महान स्नानोत्सवाशी निगडित बारा शिवमंदिरांपैकी हे एक आहे, आणि येथील उपासना नेहमीच शहराच्या ओळखीशी जोडलेली राहिली आहे.",
+    "architecture": "हा परिसर सुमारे २,८०० चौरस मीटर क्षेत्रावर पसरलेला असून चार गोपुरांतून त्यात प्रवेश होतो; सर्वांत उंच पूर्वेकडील गोपुर अकरा मजली असून सुमारे १२८ फूट उंच आहे. आत द्रविड रचना क्रमाक्रमाने येणार्‍या प्रांगणांतून आणि स्तंभयुक्त प्रदक्षिणा मार्गांतून उलगडत जाते. विजयनगर काळातील सोळा स्तंभांचा मंडप हा सर्वांत उत्कृष्ट नमुना असून त्यात सत्तावीस नक्षत्रे आणि बारा राशी एकाच शिळेत कोरलेल्या आहेत. प्रभूंचे आणि मंगलांबिगै अम्मन यांचे गाभारे उपासनेचा आधार आहेत, आणि कोरीव स्तंभांनी भरलेल्या परिसराभोवती सावकाश फेरफटका मारणे आनंददायी ठरते.",
+    "legends": "स्थलपुराणानुसार, जेव्हा विश्वाचा लय झाला तेव्हा सर्व सृष्टीची बीजे असलेला अमृताचा एक कुंभ जलांवरून तरंगत आला आणि येथे येऊन स्थिरावला. शिव शिकार्‍याच्या रूपात प्रकट झाले आणि त्यांनी बाणाने तो कुंभ भेदला. अमृत आणि बीजे विखुरली गेली, आणि अमृत जेथे साठले ते एक ठिकाण महामहम तीर्थ म्हणून स्मरले जाते. त्या कुंभाच्या तुकड्यांपासून प्रभूंनी एक लिंग घडवले आणि ते त्यात प्रविष्ट झाले, असे म्हटले जाते; म्हणूनच त्यांना आदि कुंभेश्वर, म्हणजे कुंभाचे आद्य प्रभू, म्हणतात. कुंभकोणम, म्हणजे कुंभाचा कोपरा, हे शहराचे नावही त्याच घटनेवरून पडले आहे.",
+    "festivals": "बारा वर्षांतून एकदा येणारा महामहम, ज्यात यात्रेकरू महान तीर्थात स्नान करतात, हा शहराच्या पवित्र दिनदर्शिकेतील सर्वोच्च बिंदू आहे, आणि ज्या शिवमंदिरांचे देव यात सहभागी होतात त्यांत आदि कुंभेश्वर एक आहे. वार्षिक मासी मघम त्याचे स्मरण करून देतो. महाशिवरात्री, मासिक प्रदोषम, नवरात्री आणि कार्तिगै दीपम विशेष पूजेसह साजरे केले जातात. तारखा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "experience": "पूर्वेच्या गोपुरातून आत शिरताच बाजारातील गोंगाट विरून जातो. परिसर शांत आणि थंडगार असतो, आणि त्याचे प्रदक्षिणा मार्ग कोरीव स्तंभांनी सजलेले आहेत. गाभार्‍याकडे जाण्यापूर्वी सोळा स्तंभांचा मंडप शोधा आणि वर पाहून कोरलेली नक्षत्रे आणि राशी न्याहाळा; गाभार्‍यात दिव्यांच्या प्रकाशात लिंगाची पूजा होते. जवळचा मंगलांबिगै गाभारा हा सौम्य प्रतिसूर आहे. सकाळ शांत असतात; संध्याकाळी गायन-पूजा आणि कापराचा सुगंध लाभतो. महामहम तीर्थासाठी आणि शहरातील इतर शिव व विष्णू मंदिरांसाठी वेळ राखून ठेवा."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Kumbakonam is on the Chennai–Thanjavur railway line and is well connected by bus to Thanjavur, Tiruchirappalli, Chennai and Mayiladuthurai. The temple lies in the old town, a short auto-rickshaw ride from the railway station and bus stand. Tiruchirappalli International Airport, about 90 km away, is the nearest airport."
+    "timings": "साधारणपणे सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते, दुपारी विश्रांतीची वेळ असते; विशेषतः उत्सवांच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा/पँट, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाहेरील प्रदक्षिणा मार्ग आणि प्रांगणांत छायाचित्रणाला सामान्यतः परवानगी असते, परंतु आतील गाभार्‍यात ते काटेकोरपणे निषिद्ध आहे. विधी किंवा पुजार्‍यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचार्‍यांना विचारावे.",
+    "gettingThere": "कुंभकोणम चेन्नई–तंजावर रेल्वेमार्गावर असून तंजावर, तिरुचिरापल्ली, चेन्नई आणि मयिलादुतुरै येथून बसने चांगले जोडलेले आहे. मंदिर जुन्या शहरात असून रेल्वेस्थानक आणि बसस्थानकापासून ऑटोरिक्षाने थोड्या अंतरावर आहे. सुमारे ९० किमी अंतरावरील तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ हे सर्वांत जवळचे विमानतळ आहे."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/adi-kumbeswarar-kumbakonam.mp3",
+    "durationSec": 223
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.jpg",
@@ -37,5 +48,11 @@
       "webp": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.webp"
     },
     "og": "https://media.dsquaregee.com/og/adi-kumbeswarar-kumbakonam.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/adi-kumbeswarar-kumbakonam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.jpg",
+    "durationSec": 168,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

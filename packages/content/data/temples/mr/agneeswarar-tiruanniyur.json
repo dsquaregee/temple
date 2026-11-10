@@ -1,29 +1,40 @@
 {
   "id": "agneeswarar-tiruanniyur",
   "locale": "mr",
+  "name": "अग्नीश्वरर मंदिर, तिरुअण्णियूर",
   "nativeName": "திருஅன்னியூர் அக்னீஸ்வரர் கோயில்",
+  "deity": "अग्नीश्वरर रूपातील शिव, देवी (पार्वती, कर्पगांबिकै नावानेही ओळखली जाणारी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Tiruanniyur (Anniyur), Kudavasal taluk",
-    "state": "Tamil Nadu",
+    "city": "तिरुअण्णियूर (अण्णियूर), कुडवासल तालुका",
+    "state": "तमिळनाडू",
     "lat": 10.86,
     "lng": 79.55
   },
+  "period": "तेवारम काळ (सातव्या शतकात स्तुती केलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूर त्रिभुज-प्रदेशातील कुडवासल भागातील तिरुअण्णियूर येथे शिवाची अग्नीश्वरर रूपात, देवीसह, पूजा केली जाते. तेवारममध्ये पूजनीय असे हे पाडल पेट्र स्थळम् दक्षिण कावेरीच्या काठावरील एक शांत मंदिर आहे, आणि उत्तरेकडील दुसऱ्या तेवारम-कालीन अण्णियूरशी याचा गोंधळ करू नये.",
   "sections": {
-    "history": "Tiruanniyur lies in the Kudavasal taluk of Tiruvarur district, among the Shiva shrines of the southern bank of the Kaveri. It is a Paadal Petra Sthalam, revered in the Tevaram hymns. The stone temple is of the Chola period and later, keeping the form of the delta shrines. Two Tevaram temples bear the name Tiru-Anniyur; this is the Agneeswarar shrine of the south, distinct from the northern Anniyur dedicated to Aabathsahayeswarar.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Agneeswarar in the sanctum, with the Goddess in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram are typical of the Shiva temples of the Kudavasal country.",
-    "legends": "Shiva is worshipped here as Agneeswarar, the name recalling the devotion of Agni, the god of fire, among the delta shrines. The Goddess stands beside him; local tradition also gives her the name Karpagambikai, though the sources vary. As with many delta shrines, the fuller sthala purana survives chiefly in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims of the Kudavasal country include Tiruanniyur among their stops.",
-    "experience": "At Tiruanniyur the pilgrim comes to a quiet shrine of the fire-god's lord. Before Agneeswarar and the Goddess, in the green Kudavasal country of the Tiruvarur delta, the visitor finds the unhurried grace of a Tevaram temple of the southern Kaveri."
+    "history": "तिरुअण्णियूर तिरुवारूर जिल्ह्यातील कुडवासल तालुक्यात, कावेरीच्या दक्षिण काठावरील शिव मंदिरांमध्ये वसले आहे. हे तेवारम स्तोत्रांत पूजनीय असे पाडल पेट्र स्थळम् आहे. येथील दगडी मंदिर चोळ काळातील व त्यानंतरचे असून त्रिभुज-प्रदेशातील मंदिरांचे स्वरूप जपून आहे. तिरु-अण्णियूर हे नाव असलेली दोन तेवारम मंदिरे आहेत; हे दक्षिणेकडील अग्नीश्वरर मंदिर असून आपत्सहायेश्वरर यांना समर्पित उत्तरेकडील अण्णियूरपासून भिन्न आहे.",
+    "architecture": "हे द्रविड शैलीतील त्रिभुज-प्रदेशातील मंदिर आहे; गर्भगृहात अग्नीश्वरर विराजमान आहेत, देवी आपल्या स्वतंत्र मंदिरात आहे, तर प्राकाराभोवती नंदी व परिवार देवता आहेत. तटबंदीयुक्त प्रांगण आणि साधे गोपुर हे कुडवासल भागातील शिव मंदिरांचे वैशिष्ट्य आहे.",
+    "legends": "येथे शिवाची अग्नीश्वरर म्हणून पूजा होते; हे नाव त्रिभुज-प्रदेशातील मंदिरांमध्ये अग्निदेव अग्नीच्या भक्तीचे स्मरण करून देते. देवी त्यांच्या शेजारी उभी आहे; स्थानिक परंपरा तिला कर्पगांबिकै हे नावही देते, तरी स्रोतांमध्ये भिन्नता आहे. त्रिभुज-प्रदेशातील अनेक मंदिरांप्रमाणेच येथेही सविस्तर स्थलपुराण प्रामुख्याने स्थानिक परंपरेत आणि तेवारम पदांत टिकून आहे.",
+    "festivals": "मंदिरात माघ (फेब्रुवारी–मार्च) महिन्यातील महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यातील नवरात्री आणि कार्तिगैच्या सोमवारी प्रदोष पूजेसह उत्सव साजरे होतात, गावातील लहानशा मंदिराच्या शांत स्वरूपात. कुडवासल भागातील यात्रेकरू तिरुअण्णियूरचा आपल्या थांब्यांमध्ये समावेश करतात.",
+    "experience": "तिरुअण्णियूर येथे यात्रेकरू अग्निदेवाच्या स्वामींच्या शांत मंदिरात येतो. तिरुवारूर त्रिभुज-प्रदेशातील हिरव्यागार कुडवासल भागात, अग्नीश्वरर आणि देवीसमोर, अभ्यागताला दक्षिण कावेरीच्या तेवारम मंदिराची निवांत कृपा लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruanniyur lies in the Kudavasal taluk of Tiruvarur district, in the southern Kaveri delta. Kudavasal and Tiruvarur are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटे ते दुपारपर्यंत आणि पुन्हा सायंकाळी उशिरापासून रात्रीपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणामार्गात छायाचित्रणास सामान्यतः परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुअण्णियूर दक्षिण कावेरी त्रिभुज-प्रदेशात, तिरुवारूर जिल्ह्यातील कुडवासल तालुक्यात आहे. कुडवासल आणि तिरुवारूर ही जवळची शहरे व रेल्वे स्थानके आहेत; गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/agneeswarar-tiruanniyur.mp3",
+    "durationSec": 145
   }
 }

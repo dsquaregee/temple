@@ -1,30 +1,37 @@
 {
   "id": "kolavilli-raman-thiruvelliyangudi",
   "locale": "mr",
+  "name": "कोल वल्विल्ली रामर मंदिर, तिरुवेळ्ळियंगुडी",
   "nativeName": "கோலவில்லி ராமர் கோயில், திருவெள்ளியங்குடி",
+  "deity": "कोल वल्विल्ली रामन रूपातील विष्णू, शयनमुद्रेत, उत्सवमूर्ती शृंगार सुंदरन आणि देवी मरगतवल्ली यांच्यासह — शुक्र (वेळ्ळी) ग्रहाचे देवस्थान",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruvelliyangudi",
-    "state": "Tamil Nadu",
+    "city": "तिरुवेळ्ळियंगुडी",
+    "state": "तमिळनाडू",
     "lat": 11.0569,
     "lng": 79.4433
   },
+  "period": "पळवारुवर वसलेला चोळ प्रदेशातील दिव्य देश, तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधमध्ये गायिलेला",
   "century": 8,
+  "dynasty": "चोळ (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "कुंभकोणमजवळील तिरुवेळ्ळियंगुडी येथे विष्णू कोल वल्विल्ली रामन — सुंदर धनुष्यधारी राम — म्हणून शयन करतात; तिरुमंगै आळवारांनी गायिलेला हा दिव्य देश शुक्राचे वैष्णव देवस्थान म्हणून पूजनीय आहे.",
   "sections": {
-    "history": "Thiruvelliyangudi is one of the 108 Divya Desams and one of the shrines of Chola Nadu, a village on the north bank of the Pazhavaru, some 19 km from Kumbakonam. Thirumangai Alvar sang its lord in ten verses of the Nalayira Divya Prabandham. Its name is drawn from Velli, the Tamil name for the planet Venus, Shukra, and the shrine is counted among the Vaishnava Navagraha temples of the Tamil country as the abode of Venus; it was also known of old as Bhargava Kshetra, after Shukra's lineage. The temple is maintained today under the Hindu Religious and Charitable Endowments Department of Tamil Nadu.",
-    "architecture": "Built in the Dravidian manner, the temple enshrines the lord reclining on the serpent, facing east, beneath the Pushkalavartaka Vimanam; the festival image is Sringara Sundaran, and the Goddess Maragathavalli has her own shrine. Four sacred waters are named for Shukra, Brahma, Indra and Parasara, the Parasara tank being the temple's own. Local tradition points out a Garuda with four hands, holding the discus and conch.",
-    "legends": "The sthala purana tells that when Mahabali poured water to grant Vamana his three steps, Shukra, his preceptor, blocked the spout as an insect, and lost an eye when the lord cleared it with a blade of grass; he worshipped here, and tradition holds that his sight was restored. It tells too of Mayan, the architect of the asuras, who longed to see Rama without conch and discus — so the lord gave them to Garuda and appeared as Kola Valvilli Raman.",
-    "festivals": "The temple keeps the Vaishnava festivals of the year — Vaikunta Ekadashi, the days of Rama and the days of Thirumangai Alvar — with processions through the village. As the shrine of Venus it also draws pilgrims making the round of the planetary temples of the delta.",
-    "experience": "A quiet village shrine in the paddy country beyond Kumbakonam, Thiruvelliyangudi rewards the pilgrim who comes for its rare form of Rama, reclining yet bearing the bow. Visit it as part of the Divya Desams of the delta or the round of planetary shrines, and look for the four-handed Garuda."
+    "history": "तिरुवेळ्ळियंगुडी हा १०८ दिव्य देशांपैकी एक आणि चोळ नाडूतील देवस्थानांपैकी एक आहे, पळवारू नदीच्या उत्तर काठावरील गाव, कुंभकोणमपासून सुमारे १९ किमी. तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधमच्या दहा पासुरांत येथील स्वामींचे गायन केले. त्याचे नाव वेळ्ळी — शुक्र ग्रहाचे तमिळ नाव — यावरून आले आहे, आणि हे देवस्थान तमिळ प्रदेशातील वैष्णव नवग्रह मंदिरांमध्ये शुक्राचे निवासस्थान म्हणून गणले जाते; शुक्राच्या वंशावरून हे पूर्वी भार्गव क्षेत्र म्हणूनही ओळखले जाई. हे मंदिर आज तमिळनाडूच्या हिंदू धार्मिक व धर्मादाय विभागाच्या अखत्यारीत चालवले जाते.",
+    "architecture": "द्रविड शैलीत बांधलेले हे मंदिर पुष्कलावर्तक विमानाखाली पूर्वाभिमुख, सर्पशय्येवर शयन करणाऱ्या स्वामींना स्थापित करते; उत्सवमूर्ती शृंगार सुंदरन आहे आणि देवी मरगतवल्लीचे स्वतंत्र देवस्थान आहे. शुक्र, ब्रह्मा, इंद्र आणि पराशर यांच्या नावांची चार पवित्र जलाशये आहेत, त्यांपैकी पराशर तळे मंदिराचे स्वतःचे आहे. स्थानिक परंपरा चक्र आणि शंख धारण करणारा चार हातांचा गरुड दाखवते.",
+    "legends": "स्थलपुराण सांगते की जेव्हा महाबलीने वामनाला तीन पावले देण्यासाठी जल ओतले, तेव्हा त्याचे गुरू शुक्राने किडा बनून झारीची नळी अडवली, आणि प्रभूने ती गवताच्या पात्याने मोकळी केली तेव्हा त्याचा एक डोळा गेला; त्याने येथे पूजा केली, आणि परंपरा सांगते की त्याची दृष्टी परत आली. तसेच असुरांचा वास्तुविशारद मयन याला शंख आणि चक्राशिवाय रामाला पाहण्याची आस होती — म्हणून प्रभूने ते गरुडाला दिले आणि कोल वल्विल्ली रामन म्हणून प्रकट झाले.",
+    "festivals": "मंदिर वर्षभरातील वैष्णव उत्सव पाळते — वैकुंठ एकादशी, रामाचे दिवस आणि तिरुमंगै आळवारांचे दिवस — गावातून मिरवणुकींसह. शुक्राचे देवस्थान म्हणून हे त्रिभुज प्रदेशातील ग्रहमंदिरांची परिक्रमा करणाऱ्या यात्रेकरूंनाही आकर्षित करते.",
+    "experience": "कुंभकोणमच्या पलीकडील भातशेतीच्या प्रदेशातील शांत गावातील देवस्थान, तिरुवेळ्ळियंगुडी रामाच्या दुर्मिळ रूपासाठी — शयन करणारा तरीही धनुष्य धारण करणारा — येणाऱ्या यात्रेकरूला समाधान देते. त्रिभुज प्रदेशातील दिव्य देशांचा किंवा ग्रहदेवस्थानांच्या परिक्रमेचा भाग म्हणून येथे भेट द्या, आणि चार हातांचा गरुड शोधा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvelliyangudi lies about 19 km from Kumbakonam, reachable by road through the delta villages; Kumbakonam has the nearest railway station of size, and Tiruchirappalli the nearest airport."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन सत्रांसह उघडे, दुपारी बंद; वैकुंठ एकादशीला सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्या.",
+    "dressCode": "शालीन पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करा.",
+    "photography": "गाभाऱ्यात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करा.",
+    "gettingThere": "तिरुवेळ्ळियंगुडी कुंभकोणमपासून सुमारे १९ किमी अंतरावर आहे, त्रिभुज प्रदेशातील गावांमधून रस्त्याने पोहोचता येते; कुंभकोणम येथे जवळचे मोठे रेल्वे स्थानक आहे, आणि तिरुचिरापल्ली येथे सर्वांत जवळचा विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kolavilli-raman-thiruvelliyangudi.jpg",

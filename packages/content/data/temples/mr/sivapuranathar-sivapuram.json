@@ -1,29 +1,36 @@
 {
   "id": "sivapuranathar-sivapuram",
   "locale": "mr",
+  "name": "शिवगुरुनाथस्वामी मंदिर, शिवपुरम",
   "nativeName": "சிவபுரம் சிவகுருநாதசுவாமி கோயில்",
+  "deity": "शिवगुरुनाथस्वामी (शिवपुराणनाथर) रूपातील शिव, देवी आर्यांबाळ आणि शृंगारवल्ली यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थलम, तेवारममध्ये गायिलेले",
   "location": {
-    "city": "Sivapuram, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "शिवपुरम, कुंभकोणमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9683,
     "lng": 79.435
   },
+  "period": "तेवारम काळ, चोळ काळातील बांधकामासह",
   "century": 9,
+  "dynasty": "चोळ (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमच्या थोडे पूर्वेस असलेल्या शिवपुरम येथे शिवाची शिवगुरुनाथस्वामी — शिवपुराणनाथरही — म्हणून उपासना होते; हे कावेरी प्रदेशातील पाडल पेट्र स्थलम असून येथे देवी आर्यांबाळ आणि शृंगारवल्ली आहेत. येथील मातीखाली असंख्य शिवलिंगे आहेत, या परंपरेने या गावाचे नाव स्पष्ट केले जाते. कुबेराने देवांमध्ये आपले स्थान पुन्हा मिळवले ते कुबेरपुरी म्हणून, आणि विष्णूने वराह रूपात प्रभूची उपासना केली ते स्थान म्हणून स्मरले जाणारे हे मंदिर आपल्या शांत त्रिभुज प्रदेशीय परिसराखाली स्तरांनी भरलेली लोककथा जपते.",
   "sections": {
-    "history": "Sivapuram, about six kilometres east of Kumbakonam, is an ancient Shaiva site revered in the Tevaram and counted among the Paadal Petra Sthalams of the Chola country. The stone temple is of the Chola period with later additions. Its layered historical names — Kuberapuram, Bhookailas, Shenbagaranyam — and the tradition of a village resting over countless buried lingams give the place a reputation for deep and hidden sanctity.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Sivagurunathaswamy. Uncommonly it has two goddess shrines, Aryambal and Singaravalli. The sthala vriksham is traditionally the shenbagam, the champak. The temple's reputation as 'Bhookailas' — Kailasa on earth — reflects the belief that the ground itself is dense with the presence of the lord.",
-    "legends": "Several stories gather at Sivapuram. Kubera, cursed by Nandi to be born on earth, came as the king Dhanapati and worshipped here, regaining his place among the gods — so the place is called Kuberapuri. Vishnu, in his boar (Varaha) form, is said to have worshipped the lord here with lotus flowers. The village name itself is explained by the belief that countless Shiva lingams lie beneath its soil. And it is told that when Sambandar came, he would not set foot on so sacred a ground, worshipping instead by rolling in circumambulation (angapradakshinam).",
-    "festivals": "The temple's foremost festival is the Aippasi Annabhishekam, in the Tamil month of Aippasi (October–November), when the lingam is bathed in cooked rice. The regular Shaiva observances of Maha Shivaratri, Pradosham and the Margazhi season are also kept, and the temple's Kubera association draws devotees seeking prosperity.",
-    "experience": "Sivapuram offers the pilgrim a temple whose quiet surface rests on a deep lore — a 'Kailasa on earth' said to hide countless lingams, where a god of wealth regained his place and the preserver himself came to worship. The darshan of Sivagurunathaswamy, close to the great temple town of Kumbakonam, rewards those who seek the layered sanctity of the delta."
+    "history": "शिवपुरम कुंभकोणमच्या सुमारे सहा किलोमीटर पूर्वेस असलेले प्राचीन शैव स्थान असून तेवारममध्ये पूज्य आहे आणि चोळ प्रदेशातील पाडल पेट्र स्थलमांमध्ये गणले जाते. हे दगडी मंदिर चोळ काळातील असून नंतरच्या भरांसह आहे. कुबेरपुरम, भूकैलास, शेंबगारण्यम ही त्याची स्तरांनी भरलेली ऐतिहासिक नावे, आणि गाव असंख्य गाडलेल्या लिंगांवर वसले आहे ही परंपरा, यांमुळे या स्थानाला खोल आणि गुप्त पावित्र्याची ख्याती लाभली आहे.",
+    "architecture": "मंदिर गोपुरम, प्राकार आणि शिवगुरुनाथस्वामींचे गर्भगृह असलेल्या द्रविड आराखड्याचे आहे. असामान्यपणे येथे आर्यांबाळ आणि शृंगारवल्ली अशी दोन देवी मंदिरे आहेत. स्थलवृक्ष परंपरेने शेंबगम, म्हणजे चाफा, आहे. 'भूकैलास' — पृथ्वीवरील कैलास — या मंदिराच्या ख्यातीतून असा विश्वास दिसतो की ही जमीनच प्रभूच्या सान्निध्याने दाटलेली आहे.",
+    "legends": "शिवपुरम येथे अनेक कथा एकत्र येतात. नंदीच्या शापाने पृथ्वीवर जन्म घ्यावा लागलेल्या कुबेराने धनपती राजा म्हणून येथे उपासना केली आणि देवांमध्ये आपले स्थान परत मिळवले, म्हणून या स्थानाला कुबेरपुरी म्हणतात. विष्णूने वराह रूपात येथे कमळांनी प्रभूची उपासना केली असे सांगितले जाते. गावाचे नावच असे स्पष्ट केले जाते की त्याच्या मातीखाली असंख्य शिवलिंगे आहेत. आणि असे सांगतात की संबंधर आले तेव्हा इतक्या पवित्र भूमीवर पाय ठेवण्यास त्यांनी नकार दिला, आणि त्याऐवजी लोटांगण घालून प्रदक्षिणा (अंगप्रदक्षिणम) करून उपासना केली.",
+    "festivals": "मंदिराचा प्रमुख उत्सव म्हणजे तमिळ ऐप्पसी महिन्यातील (ऑक्टोबर–नोव्हेंबर) ऐप्पसी अन्नाभिषेक, ज्यात लिंगाला शिजवलेल्या भाताने स्नान घातले जाते. महाशिवरात्र, प्रदोष आणि मार्गळी हंगामाचे नेहमीचे शैव उपासनाविधीही पाळले जातात, आणि मंदिराच्या कुबेराशी असलेल्या संबंधामुळे समृद्धीच्या शोधातील भाविक येथे येतात.",
+    "experience": "शिवपुरम यात्रेकरूला असे मंदिर देते ज्याचा शांत पृष्ठभाग खोल लोककथेवर उभा आहे — असंख्य लिंगे लपवल्याचे सांगितले जाणारे 'पृथ्वीवरील कैलास', जेथे संपत्तीच्या देवाने आपले स्थान परत मिळवले आणि पालनकर्त्यानेच उपासनेसाठी हजेरी लावली. महान मंदिरांचे शहर कुंभकोणमजवळील शिवगुरुनाथस्वामींचे दर्शन, त्रिभुज प्रदेशाचे स्तरबद्ध पावित्र्य शोधणाऱ्यांना समाधान देते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sivapuram is about 6 km east of Kumbakonam in Thanjavur district; Kumbakonam is the nearest rail head and town, with local buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "खांदे आणि गुडघे झाकणारा साधा पारंपरिक पोशाख अपेक्षित आहे; पादत्राणे प्रवेशद्वारावर ठेवावीत.",
+    "photography": "बाहेरील मार्गिकांमध्ये सामान्यतः छायाचित्रणाची परवानगी असते, पण गर्भगृहात नसते; विधींचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "शिवपुरम तंजावर जिल्ह्यात कुंभकोणमच्या सुमारे 6 किमी पूर्वेस आहे; कुंभकोणम हे सर्वात जवळचे रेल्वे स्थानक आणि शहर असून तेथून गावात जाण्यासाठी स्थानिक बसेस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

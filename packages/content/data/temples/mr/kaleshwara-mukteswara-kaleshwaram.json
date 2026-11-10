@@ -1,30 +1,37 @@
 {
   "id": "kaleshwara-mukteswara-kaleshwaram",
   "locale": "mr",
+  "name": "काळेश्वर मुक्तीश्वर स्वामी मंदिर, काळेश्वरम्",
   "nativeName": "శ్రీ కాళేశ్వర ముక్తీశ్వర స్వామి ఆలయం",
+  "deity": "शिव मुक्तीश्वर रूपात आणि यम काळेश्वर रूपात — एकाच पीठावर दोन लिंगे",
+  "tradition": "शैव",
   "location": {
-    "city": "Kaleshwaram",
-    "state": "Telangana",
+    "city": "काळेश्वरम्",
+    "state": "तेलंगणा",
     "lat": 18.8119,
     "lng": 79.9039
   },
+  "period": "परंपरेनुसार प्राचीन; त्रिलिंग देशम्‌च्या तीन स्थानांपैकी एक",
   "century": 12,
+  "dynasty": "काकतीय-कालीन दगडी स्थान, नंतरच्या भरांसह",
+  "style": "काकतीय-शैलीचे दगडी मंदिर",
   "unesco": false,
   "circuits": [
     "trilinga-kshetras"
   ],
+  "summary": "गोदावरी आणि प्राणहिता यांच्या संगमावर शिव आणि यम एकाच पीठावर दोन लिंगे म्हणून — मुक्तीश्वर आणि काळेश्वर — वाटून घेतात, तेलुगु भूमीला सीमा घालणाऱ्या तीन स्थानांपैकी एका स्थानात.",
   "sections": {
-    "history": "Kaleshwaram stands on the bank of the Godavari where the Pranahita joins it, in the Jayashankar Bhupalpally district of northern Telangana. It is counted among the three great Shiva shrines — with Srisailam and Draksharamam — that tradition says marked the bounds of the Trilinga Desham, the 'land of three lingas' from which the name of the Telugu country is often derived. The temple is a modest stone shrine built in the manner of the Kakatiya period, and the Kakatiyas fortified this river crossing between the twelfth and fourteenth centuries. Its sanctity, however, is older than any building: pilgrims have long come to bathe at the confluence, which is revered as the Dakshina Triveni, before seeking the unusual double darshan of Kaleshwara and Mukteswara.",
-    "architecture": "The temple's heart is its sanctum, where two lingas rise side by side from a single pedestal — Mukteswara, Shiva the liberator, and Kaleshwara, a linga for Yama, the lord of time and death. Such a pairing is rarely seen elsewhere. The Mukteswara linga carries an opening that devotees say never fills however much water is poured in, and local belief holds that it leads by hidden ways to the river. The shrine is built of plain dressed stone in the Kakatiya manner, within an enclosure that also houses subsidiary shrines, and steps lead down from the temple to the bathing ghats at the confluence.",
-    "legends": "The pairing of the two lingas is the shrine's central teaching: Yama, who ends every life, is worshipped beside Shiva, who grants release from the cycle of birth and death, and pilgrims honour Ganesha first, then Kaleshwara, then Mukteswara. The confluence is called the Dakshina Triveni, for the Godavari and Pranahita are said to be joined by a third, unseen river, the Antarvahini Saraswati. A local story tells of a devout merchant who bathed the linga with pot after pot of milk, and the milk is said to have flowed out into the confluence below.",
-    "festivals": "Maha Shivaratri draws the largest crowds, and the month of Karthika brings a steady stream of pilgrims for the river bath and lamp worship. Kaleshwaram is also a major centre of the Pushkaralu, the twelve-yearly river festivals of the Godavari, the Pranahita and the Saraswati, when bathers fill the ghats at the confluence. Confirm dates locally.",
-    "experience": "A visit begins at the river: pilgrims bathe at the confluence, then climb to the temple to worship Ganesha, Kaleshwara and Mukteswara in turn. The setting is quiet and rural, with wide views over the joined rivers, and the village fills with life on festival days. Kaleshwaram pairs naturally with the Kakatiya temples of Warangal and Palampet on a journey through northern Telangana."
+    "history": "काळेश्वरम् हे गोदावरीच्या तीरावर, जिथे प्राणहिता तिला मिळते तिथे, उत्तर तेलंगणाच्या जयशंकर भूपालपल्ली जिल्ह्यात उभे आहे. श्रीशैलम् आणि द्राक्षारामम् यांच्यासह — परंपरेनुसार त्रिलिंग देशम्‌च्या, म्हणजे 'तीन लिंगांच्या भूमी'च्या सीमा आखणाऱ्या तीन मोठ्या शिव स्थानांमध्ये हे गणले जाते, ज्या नावावरूनच तेलुगु देशाचे नाव अनेकदा व्युत्पन्न केले जाते. मंदिर काकतीय काळाच्या शैलीत बांधलेले एक साधे दगडी स्थान आहे, आणि काकतीयांनी बाराव्या व चौदाव्या शतकांदरम्यान या नदी-ओलांड्याला तटबंदी दिली. मात्र त्याची पवित्रता कोणत्याही बांधकामाहून प्राचीन आहे: यात्रेकरू फार पूर्वीपासून काळेश्वर व मुक्तीश्वराच्या अनोख्या दुहेरी दर्शनापूर्वी, दक्षिण त्रिवेणी म्हणून पूजल्या जाणाऱ्या संगमावर स्नान करण्यासाठी येतात.",
+    "architecture": "मंदिराचे हृदय त्याचा गाभारा आहे, जिथे एकाच पीठावरून शेजारी शेजारी दोन लिंगे उठतात — मुक्तीश्वर, मुक्ती देणारा शिव, आणि काळेश्वर, काळ व मृत्यूचा स्वामी यम याचे लिंग. अशी जोडी इतरत्र क्वचितच दिसते. मुक्तीश्वर लिंगावर एक छिद्र आहे, ज्यात कितीही पाणी ओतले तरी ते भरत नाही असे भक्त सांगतात, आणि स्थानिक श्रद्धेनुसार ते गुप्त मार्गांनी नदीकडे जाते. हे स्थान काकतीय पद्धतीत साध्या घडवलेल्या दगडाने बांधलेले आहे, एका आवारात जेथे उपदेवतांचीही स्थाने आहेत, आणि मंदिरातून संगमावरील स्नानघाटांकडे पायऱ्या उतरतात.",
+    "legends": "दोन लिंगांची जोडी हे या स्थानाचे मध्यवर्ती तत्त्व आहे: प्रत्येक जीवन संपवणाऱ्या यमाची पूजा जन्ममरणाच्या चक्रातून मुक्ती देणाऱ्या शिवाशेजारी केली जाते, आणि यात्रेकरू प्रथम गणेश, मग काळेश्वर, मग मुक्तीश्वर यांचा सन्मान करतात. या संगमाला दक्षिण त्रिवेणी म्हणतात, कारण गोदावरी व प्राणहिता यांना तिसरी अदृश्य नदी, अंतर्वाहिनी सरस्वती, जोडते असे मानले जाते. एक स्थानिक कथा अशा भक्त व्यापाऱ्याविषयी सांगते ज्याने घडाभर घडाभर दूध लिंगावर अभिषेक केला, आणि ते दूध खालच्या संगमात वाहत गेले असे सांगितले जाते.",
+    "festivals": "महाशिवरात्रीला सर्वाधिक गर्दी होते, आणि कार्तिक महिन्यात नदीस्नान व दीपपूजेसाठी यात्रेकरूंचा सतत ओघ येतो. गोदावरी, प्राणहिता व सरस्वती यांच्या बारा-वर्षीय नदी-उत्सवांचे — पुष्करालुचे — काळेश्वरम् हे एक मोठे केंद्र आहे, जेव्हा संगमावरील घाट स्नान करणाऱ्यांनी भरून जातात. तारखा स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "भेट नदीपासून सुरू होते: यात्रेकरू संगमावर स्नान करतात, मग मंदिराकडे चढून गणेश, काळेश्वर व मुक्तीश्वर यांचे क्रमाने दर्शन घेतात. परिसर शांत व ग्रामीण आहे, जिथून संगम झालेल्या नद्यांचे विस्तृत दृश्य दिसते, आणि उत्सवाच्या दिवशी गाव जीवनाने भरून जाते. उत्तर तेलंगणातील प्रवासात काळेश्वरम् वारंगल व पालमपेटच्या काकतीय मंदिरांसोबत नैसर्गिकरीत्या जुळते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure; Shivaratri, Karthika and the Pushkaralu years bring heavy crowds. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected; footwear is removed before entering. Many pilgrims bathe at the confluence first — take care at the river, especially in the monsoon.",
-    "photography": "Photography is not permitted in the sanctum; follow the posted rules and the priests' guidance elsewhere.",
-    "gettingThere": "Kaleshwaram is in Jayashankar Bhupalpally district, about 60 km from Manthani, 125 km from Karimnagar and 277 km by road from Hyderabad, whose airport is the nearest; buses run from Karimnagar, Manthani and Bhupalpally."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शनासह उघडे, दुपारी बंद; शिवरात्री, कार्तिक व पुष्करालु वर्षांत मोठी गर्दी असते. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; प्रवेशापूर्वी पादत्राणे काढावीत. अनेक यात्रेकरू प्रथम संगमावर स्नान करतात — विशेषतः पावसाळ्यात नदीजवळ काळजी घ्या.",
+    "photography": "गाभाऱ्यात छायाचित्रणास परवानगी नाही; इतरत्र लावलेले नियम व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "काळेश्वरम् हे जयशंकर भूपालपल्ली जिल्ह्यात आहे, मंथनीपासून सुमारे ६० किमी, करीमनगरपासून १२५ किमी आणि हैदराबादपासून रस्त्याने २७७ किमी अंतरावर, ज्याचे विमानतळ सर्वांत जवळचे आहे; करीमनगर, मंथनी व भूपालपल्लीहून बससेवा आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kaleshwara-mukteswara-kaleshwaram.jpg",

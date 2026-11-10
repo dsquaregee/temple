@@ -1,29 +1,40 @@
 {
   "id": "alanthurainathar-tiruppullamangai",
   "locale": "mr",
+  "name": "आलंदुरैनाथर मंदिर, तिरुप्पुळ्ळमंगै",
   "nativeName": "திருப்புள்ளமங்கை ஆலந்துறைநாதர் (பிரம்மபுரீஸ்வரர்) கோயில்",
+  "deity": "आलंदुरैनाथर (ब्रह्मपुरीश्वरर) रूपातील शिव, देवी अल्लियंकोतै यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Pullamangai (Pasupathikoil), near Thanjavur",
-    "state": "Tamil Nadu",
+    "city": "पुळ्ळमंगै (पशुपतिकोयिल), तंजावूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.88,
     "lng": 79.27
   },
+  "period": "तेवारम काळ (सातव्या शतकात स्तुती केलेले); आद्य चोळकालीन मंदिर, सुमारे दहावे शतक",
   "century": 10,
+  "dynasty": "चोळ",
+  "style": "द्रविड (आद्य चोळ)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तंजावूरजवळ कुडमुरुट्टी नदीकाठी असलेल्या पुळ्ळमंगै येथे शिवाची आलंदुरैनाथर — ब्रह्मपुरीश्वरर — म्हणून, देवी अल्लियंकोतैसह, पूजा केली जाते. तिरुज्ञान संबंधर यांनी स्तुती केलेल्या या पाडल पेट्र स्थळम्चे आद्य चोळकालीन मंदिर त्या काळातील काही अत्यंत उत्कृष्ट व नाजूक दगडी शिल्पांसाठी अभ्यासकांमध्ये प्रसिद्ध आहे.",
   "sections": {
-    "history": "Pullamangai, at Pasupathikoil on the banks of the Kudamurutti near Thanjavur, is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. Its shrine is one of the celebrated early-Chola temples, of about the 10th century; historians rank its sculpture among the most remarkable of the early Chola age. The place was once a banyan forest by the riverbank, whence the name Alanthurai — 'the banyan ghat.'",
-    "architecture": "A compact early-Chola temple of exquisite workmanship, the shrine enshrines Alanthurainathar — Brahmapureeswarar — in the sanctum, with the goddess Alliyankothai in her own shrine, a Nandi and the parivara devatas. Its vimana is covered with finely carved niches and miniature figures — dvarapalas, Ganesha, Durga, the dikpalas and narrative panels — whose delicacy has made the temple a touchstone for the study of early Chola art.",
-    "legends": "The lord is worshipped as Alanthurainathar, 'lord of the banyan ghat,' and as Brahmapureeswarar, the lord of Brahma's city, worshipped also as Pasupatinathar. The goddess is Alliyankothai. As with the early-Chola shrines of the delta, the sthala tradition is bound up with the river Kudamurutti and the banyan forest that gave the place its name; Sambandar's verses carry its praise.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Scholars and pilgrims of the early-Chola trail come to Pullamangai both for darshan and for its celebrated sculpture.",
-    "experience": "At Pullamangai the pilgrim stands before one of the jewels of early-Chola building. Before Alanthurainathar and Alliyankothai, among the finely carved niches of the vimana, by the Kudamurutti's bank, the visitor finds both the grace of a Tevaram shrine and the quiet astonishment of its tenth-century stone."
+    "history": "तंजावूरजवळ कुडमुरुट्टीच्या काठी पशुपतिकोयिल येथील पुळ्ळमंगै हे पाडल पेट्र स्थळम् असून तिरुज्ञान संबंधर यांनी तेवारममध्ये त्याची स्तुती केली आहे. येथील मंदिर सुमारे दहाव्या शतकातील प्रसिद्ध आद्य चोळकालीन मंदिरांपैकी एक आहे; इतिहासकार याच्या शिल्पांना आद्य चोळ युगातील सर्वांत उल्लेखनीय शिल्पांमध्ये गणतात. हे ठिकाण एकेकाळी नदीकाठचे वटवृक्षांचे वन होते, ज्यावरून आलंदुरै — 'वटवृक्षाचा घाट' — हे नाव पडले.",
+    "architecture": "उत्कृष्ट कारागिरीचे हे लहानसे आद्य चोळकालीन मंदिर आहे; गर्भगृहात आलंदुरैनाथर — ब्रह्मपुरीश्वरर — विराजमान आहेत, देवी अल्लियंकोतै आपल्या स्वतंत्र मंदिरात आहे, तसेच नंदी व परिवार देवता आहेत. याचे विमान सूक्ष्म कोरीव कोनाडे आणि लघु मूर्तींनी — द्वारपाल, गणेश, दुर्गा, दिक्पाल आणि कथात्मक शिल्पपट्ट — आच्छादलेले आहे, ज्यांच्या नाजूकपणामुळे हे मंदिर आद्य चोळ कलेच्या अभ्यासाची कसोटी ठरले आहे.",
+    "legends": "स्वामींची आलंदुरैनाथर, 'वटवृक्षाच्या घाटाचे स्वामी', आणि ब्रह्मपुरीश्वरर, ब्रह्माच्या नगराचे स्वामी म्हणून पूजा होते; त्यांची पशुपतिनाथर म्हणूनही पूजा होते. देवी अल्लियंकोतै आहे. त्रिभुज-प्रदेशातील आद्य चोळकालीन मंदिरांप्रमाणेच येथील स्थलपरंपरा कुडमुरुट्टी नदी आणि ठिकाणाला नाव देणाऱ्या वटवनाशी जोडलेली आहे; संबंधरांची पदे त्याची स्तुती वाहून नेतात.",
+    "festivals": "मंदिरात माघ (फेब्रुवारी–मार्च) महिन्यातील महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यातील नवरात्री आणि कार्तिगैच्या सोमवारी प्रदोष पूजेसह उत्सव साजरे होतात. आद्य चोळ मार्गावरील अभ्यासक आणि यात्रेकरू दर्शनासाठी तसेच येथील प्रसिद्ध शिल्पांसाठी पुळ्ळमंगैला येतात.",
+    "experience": "पुळ्ळमंगै येथे यात्रेकरू आद्य चोळ स्थापत्याच्या रत्नांपैकी एकासमोर उभा राहतो. आलंदुरैनाथर आणि अल्लियंकोतैसमोर, विमानाच्या सूक्ष्म कोरीव कोनाड्यांमध्ये, कुडमुरुट्टीच्या काठी, अभ्यागताला तेवारम मंदिराची कृपा आणि त्याच्या दहाव्या शतकातील दगडाचे शांत आश्चर्य अशा दोन्हींचा अनुभव येतो."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Pullamangai (Pasupathikoil) lies on the Kudamurutti near Thanjavur, in Thanjavur district, a short way off the Thanjavur–Kumbakonam road. Thanjavur is the nearest city and rail head, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटे ते दुपारपर्यंत आणि पुन्हा सायंकाळी उशिरापासून रात्रीपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणामार्गात छायाचित्रणास सामान्यतः परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "पुळ्ळमंगै (पशुपतिकोयिल) तंजावूर जिल्ह्यात, तंजावूरजवळ कुडमुरुट्टीकाठी, तंजावूर–कुंभकोणम मार्गापासून थोड्या अंतरावर आहे. तंजावूर हे जवळचे शहर व रेल्वे स्थानक आहे; गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/alanthurainathar-tiruppullamangai.mp3",
+    "durationSec": 167
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "devanatha-thiruvahindrapuram",
   "locale": "mr",
+  "name": "देवनाथ पेरुमाळ मंदिर, तिरुवहींद्रपुरम्",
   "nativeName": "தேவநாத பெருமாள் கோயில், திருவஹீந்திரபுரம்",
+  "deity": "विष्णू देवनाथ पेरुमाळ रूपात, उभे, देवी हेमांबुजवल्ली (वैकुंठनायकी) यांच्यासह; उत्सवमूर्ती मूवरागिय ओरुवन्, 'जे तिघेही आहेत असे एक'",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruvahindrapuram, Cuddalore",
-    "state": "Tamil Nadu",
+    "city": "तिरुवहींद्रपुरम्, कडलूर",
+    "state": "तमिळनाडू",
     "lat": 11.7447,
     "lng": 79.7089
   },
+  "period": "केडिलम् नदीकाठी नाडु नाडूचे एक दिव्य देशम्, नालायिर दिव्य प्रबंधम् मध्ये थिरुमंगै आळवार यांनी स्तुत",
   "century": 8,
+  "dynasty": "मध्ययुगीन चोळ, नंतरच्या पांड्य भरांसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "कडलूरजवळ केडिलम् नदीकाठी विष्णू देवनाथ पेरुमाळ, देवांचे स्वामी, रूपात उभे राहतात — थिरुमंगै आळवार यांनी स्तुत केलेले एक दिव्य देशम्, आणि जिथे वेदांत देशिक राहिले, पूजा केली व हयग्रीवांची प्राप्ती केली असे नगर.",
   "sections": {
-    "history": "Thiruvahindrapuram, near Cuddalore on the banks of the Kedilam, is one of the 108 Divya Desams and belongs to Nadu Nadu, the 'middle country' between the Chola and Pallava lands. Thirumangai Alvar sang ten verses on its lord in the Periya Thirumozhi, hailing Devanatha as the one godhead who is Brahma, Vishnu and Shiva together. The temple is held to have been built under the Medieval Cholas and enlarged by the Pandyas. Inscriptions of Rajaraja I on the ardhamandapa name the place Thiru-ayindapuram and record a village given to the temple, and an eleventh-century record notes a land gift by his chief queen, Trilokamadevi. The town is dear to Sri Vaishnavas above all as the home of Vedanta Desika, who spent some of the most eventful years of his life here; his house and the well he dug still stand.",
-    "architecture": "A five-tiered rajagopuram, about eighteen metres high, opens on three prakarams around the east-facing sanctum. The vimana above it is likened to the Suddha Satva vimana of Vaikuntha and bears figures facing the four quarters — Vishnu to the east, Dakshinamurthy to the south, Narasimha to the west and Brahma to the north. The Goddess Hemambujavalli has her own shrine. Beside the temple rises the small Aushadagiri hill, crowned by a shrine to Hayagriva, said to be the only historic hilltop Hayagriva shrine in South India.",
-    "legends": "The sthala purana tells that Adisesha, the serpent on whom Vishnu rests, planned and founded this town — hence Ahindrapuram, the city of the serpent-lord. Once, when the Lord thirsted, Garuda ploughed the earth with his beak to bring a stream, while Adisesha cut his own channel and returned first; the Lord drank from Adisesha's water. To console Garuda, it is said, the Lord's ritual bath is still drawn from Garuda's stream and his offerings from the Sesha Theertham. Tradition holds that on the Aushadagiri Vedanta Desika worshipped Garuda and received the grace of Hayagriva.",
-    "festivals": "The ten-day Brahmotsavam in Chittirai (April–May) is the high point, with Garuda Seva on the fifth day and the Theerthavari on the ninth drawing great crowds. Vedanta Desika's birth-star is celebrated in Purattasi. Vaikunta Ekadashi, Adi Pooram and the Masi Magam sea bath at Devanampattinam complete the year.",
-    "experience": "Come for darshan of Devanatha, then climb the steps of the Aushadagiri to the Hayagriva shrine, a place students visit to pray for learning. In the village, ask for Desikan Tirumaligai, the house of Vedanta Desika, and his well. Mornings beside the Kedilam are quiet and unhurried, a contrast to the festival crowds of Chittirai."
+    "history": "कडलूरजवळ केडिलम् काठी असलेले तिरुवहींद्रपुरम् हे १०८ दिव्य देशमांपैकी एक असून चोळ व पल्लव प्रदेशांदरम्यानच्या 'मध्य प्रदेशा'च्या, नाडु नाडूच्या अंतर्गत येते. थिरुमंगै आळवार यांनी पेरिय तिरुमोळीत त्याच्या स्वामींवर दहा श्लोक गायले, देवनाथांना ब्रह्मा, विष्णू व शिव हे एकत्रित असलेला एकमेव परमेश्वर म्हणून वंदन करत. हे मंदिर मध्ययुगीन चोळांच्या काळात बांधले गेले व पांड्यांनी वाढवले असे मानले जाते. अर्धमंडपावरील राजराज पहिला यांचे शिलालेख या ठिकाणाला तिरु-अयिंदपुरम् असे नाव देतात व मंदिराला दिलेले एक गाव नोंदवतात, आणि अकराव्या शतकातील एक नोंद त्यांच्या प्रमुख राणी त्रिलोकमादेवी यांनी दिलेल्या भूदानाची नोंद करते. हे नगर श्री वैष्णवांना सर्वांहून अधिक प्रिय आहे वेदांत देशिक यांचे निवासस्थान म्हणून, ज्यांनी आपल्या आयुष्यातील काही अत्यंत घटनापूर्ण वर्षे येथे घालवली; त्यांचे घर व त्यांनी खणलेली विहीर आजही उभी आहेत.",
+    "architecture": "सुमारे अठरा मीटर उंच पाच मजली राजगोपुर पूर्वाभिमुख गर्भगृहाभोवती तीन प्राकारांवर उघडते. त्यावरील विमान वैकुंठाच्या शुद्ध सत्त्व विमानाशी तुलना केली जाते व चारही दिशांकडे तोंड करणाऱ्या मूर्ती धारण करते — पूर्वेस विष्णू, दक्षिणेस दक्षिणामूर्ती, पश्चिमेस नरसिंह व उत्तरेस ब्रह्मा. देवी हेमांबुजवल्ली यांचे स्वतःचे मंदिर आहे. मंदिराशेजारी छोटी औषधगिरी टेकडी उठते, तिच्या शिखरावर हयग्रीवांचे मंदिर आहे, जे दक्षिण भारतातील एकमेव ऐतिहासिक टेकडीवरचे हयग्रीव मंदिर असल्याचे सांगतात.",
+    "legends": "स्थल पुराण सांगते की विष्णू ज्यावर विश्राम करतात तो शेष आदिशेष यांनी हे नगर योजले व वसवले — म्हणून अहींद्रपुरम्, शेषस्वामींचे नगर. एकदा स्वामींना तहान लागली असता गरुडाने प्रवाह आणण्यासाठी आपल्या चोचीने भूमी नांगरली, तर आदिशेषांनी स्वतःचा कालवा कापला व आधी परतले; स्वामींनी आदिशेषांचे पाणी प्राशन केले. गरुडाचे सांत्वन करण्यासाठी, असे सांगतात की, स्वामींचे अभिषेकजल अजूनही गरुडाच्या प्रवाहातून व त्यांचे नैवेद्य शेष तीर्थातून घेतले जाते. परंपरेनुसार औषधगिरीवर वेदांत देशिक यांनी गरुडांची पूजा केली व हयग्रीवांची कृपा प्राप्त केली.",
+    "festivals": "चित्तिरैतील (एप्रिल–मे) दहा दिवसांचा ब्रह्मोत्सव हा सर्वोच्च बिंदू असतो, पाचव्या दिवशीची गरुड सेवा व नवव्या दिवशीची तीर्थवारी मोठी गर्दी खेचते. वेदांत देशिक यांचा जन्मनक्षत्र पुरट्टासित साजरा होतो. वैकुंठ एकादशी, आदि पूरम् व देवनंपट्टिणम् येथील मासी मगम् समुद्रस्नान वर्ष पूर्ण करतात.",
+    "experience": "देवनाथांच्या दर्शनासाठी या, मग औषधगिरीच्या पायऱ्या चढून हयग्रीव मंदिराकडे जा, जिथे विद्यार्थी विद्येसाठी प्रार्थना करायला येतात. गावात वेदांत देशिक यांचे घर देशिकन् तिरुमालिगै व त्यांची विहीर विचारा. केडिलम् काठी सकाळ शांत व निवांत असते, चित्तिरैच्या उत्सवी गर्दीच्या अगदी उलट."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Brahmotsavam days, Vaikunta Ekadashi and weekends are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is a short drive from Cuddalore town, which has railway stations and road links along the East Coast Road; Puducherry lies about an hour north, and Chennai has the nearest major airport."
+    "timings": "सकाळ व संध्याकाळच्या दर्शन सत्रांसह दररोज उघडे, दुपारी बंद; ब्रह्मोत्सवाचे दिवस, वैकुंठ एकादशी व शनिवार-रविवार सर्वाधिक गर्दीचे. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर निश्चित करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेल्या नियमांचे व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रण मर्यादित आहे; लावलेल्या नियमांचे व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "मंदिर कडलूर शहरापासून थोड्या अंतरावर आहे, जिथे रेल्वे स्थानके व ईस्ट कोस्ट रोडवरील रस्ते जोडणी आहे; पुद्दुच्चेरी सुमारे तासभर उत्तरेस आहे, आणि चेन्नई येथे सर्वात जवळचे मोठे विमानतळ आहे."
   }
 }

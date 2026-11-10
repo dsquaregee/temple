@@ -1,29 +1,36 @@
 {
   "id": "narayana-perumal-manimadam",
   "locale": "mr",
+  "name": "नारायण पेरुमाळ मंदिर, तिरुमणिमाडम",
   "nativeName": "நாராயண பெருமாள் கோயில், திருமணிமாடம்",
+  "deity": "नारायण पेरुमाळ रूपातील विष्णू, देवी पुंडरीकवल्ली यांच्यासह — अकरा तिरुनांगूर दिव्य देशमांचे मध्यवर्ती मंदिर",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirunangur",
-    "state": "Tamil Nadu",
+    "city": "तिरुनांगूर",
+    "state": "तमिळनाडू",
     "lat": 11.1775,
     "lng": 79.7792
   },
+  "period": "चोळ नाडूतील दिव्य देशम आणि अकरा तिरुनांगूर तिरुपतींपैकी एक; नालायिर दिव्य प्रबंधममध्ये तिरुमंगै आळवारांनी गायिलेले",
   "century": 8,
+  "dynasty": "आळवार काळातील चोळ प्रदेश",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुनांगूरमधील तिरुमणिमाडम येथे विष्णू पुंडरीकवल्लीसह नारायण पेरुमाळ म्हणून पूजले जातात — अकरा तिरुनांगूर दिव्य देशमांचे मध्यवर्ती मंदिर, जिथे गरुड सेवेसाठी अकरा प्रभू एकत्र येतात.",
   "sections": {
-    "history": "Thirumanimadam, also called Manimadakkoil, stands in the village of Thirunangur near Sirkazhi, in the Chola Nadu of the old Tamil country. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and one of the eleven Thirunangur Tirupathis, all sung by Thirumangai Alvar in his Periya Thirumozhi. The presiding Lord is Narayana Perumal, with the Goddess Pundarikavalli; the shrine is also known as the Badrinarayana Perumal temple. No inscription or royal patron is firmly recorded, so its age rests on the Alvar's hymns, placed between the seventh and ninth centuries. Of the eleven shrines, this is the one where all of them meet.",
-    "architecture": "A Dravidian temple whose sanctum stands on a raised platform, reached by a flight of steps. Above it rises the Pranava vimana, named for the sacred syllable Om. Lord Narayana is worshipped here with the Goddess Pundarikavalli. Because the eleven utsavars of the group are brought to this temple for the Garuda Sevai, its precinct serves as the common ground of the Thirunangur shrines.",
-    "legends": "Tradition holds that after the death of the Goddess, Shiva's grief became a fierce dance that multiplied him into eleven Rudras at Thirunangur. The Rudras asked Narayana to show himself to them, and the Lord appeared in eleven forms; each was installed in a separate temple, and these are the Thirunangur Divya Desams. At Manimadam he is Narayana, and it is here that the eleven come together each year.",
-    "festivals": "The great day is the Garuda Sevai, on or around the day after Thai Amavasai (January–February), when the utsavars of the eleven shrines arrive at Thirumanimadam on Garuda vahanas and Thirumangai Alvar's mangalasasanam is celebrated in the Mangalasasana Utsavam. Tradition holds that seeing all eleven together equals visiting each one.",
-    "experience": "If you can, plan around the Garuda Sevai, when all eleven shrines meet in one place. On ordinary days this is a quiet village temple, a good first stop before walking or driving on to the other Tirupathis through the paddy fields, about 10 km by road from Sirkazhi."
+    "history": "तिरुमणिमाडम, ज्याला मणिमाडक्कोयिलही म्हणतात, जुन्या तमिळ प्रदेशातील चोळ नाडूमध्ये शीर्कळीजवळील तिरुनांगूर गावात उभे आहे. हे १०८ दिव्य देशमांपैकी एक आहे — नालायिर दिव्य प्रबंधममध्ये आळवारांनी गायिलेली विष्णूची निवासस्थाने — आणि तिरुमंगै आळवारांनी आपल्या पेरिय तिरुमोळीत गायिलेल्या अकरा तिरुनांगूर तिरुपतींपैकी एक आहे. मूळ दैवत नारायण पेरुमाळ असून त्यांच्यासोबत देवी पुंडरीकवल्ली आहे; हे मंदिर बद्रीनारायण पेरुमाळ मंदिर म्हणूनही ओळखले जाते. कोणताही शिलालेख किंवा राजाश्रयदाता निश्चितपणे नोंदलेला नाही, त्यामुळे त्याचे वय आळवारांच्या सातव्या ते नवव्या शतकांदरम्यान ठेवलेल्या स्तोत्रांवर अवलंबून आहे. या अकरा मंदिरांपैकी हे असे आहे जिथे सर्वजण एकत्र येतात.",
+    "architecture": "एक द्रविड मंदिर, ज्याचा गाभारा उंच चौथऱ्यावर असून पायऱ्यांच्या मार्गिकेने गाठावा लागतो. त्याच्यावर प्रणव विमान उभे आहे, ज्याचे नाव ॐ या पवित्र अक्षरावरून पडले आहे. येथे प्रभू नारायण देवी पुंडरीकवल्लीसह पूजले जातात. गरुड सेवेसाठी या समूहातील अकरा उत्सवमूर्ती या मंदिरात आणल्या जात असल्याने त्याचा परिसर तिरुनांगूरच्या मंदिरांचे समाईक स्थान ठरतो.",
+    "legends": "परंपरा सांगते की देवीच्या मृत्यूनंतर शिवाचे दुःख उग्र नृत्य झाले आणि त्यामुळे तिरुनांगूर येथे तो अकरा रुद्रांच्या रूपात विभागला गेला. रुद्रांनी नारायणाला आपल्याला दर्शन देण्याची विनंती केली, आणि प्रभू अकरा रूपांत प्रकटले; प्रत्येक रूपाची स्वतंत्र मंदिरात प्रतिष्ठापना झाली, आणि हीच तिरुनांगूर दिव्य देशमे आहेत. मणिमाडम येथे ते नारायण आहेत, आणि येथेच दरवर्षी अकराही एकत्र येतात.",
+    "festivals": "सर्वांत मोठा दिवस म्हणजे गरुड सेवा, जी थाई अमावास्येच्या दुसऱ्या दिवशी किंवा त्याच्या आसपास (जानेवारी–फेब्रुवारी) असते, जेव्हा अकरा मंदिरांच्या उत्सवमूर्ती गरुड वाहनांवर तिरुमणिमाडमला येतात आणि मंगलाशासन उत्सवात तिरुमंगै आळवारांचे मंगलाशासन साजरे केले जाते. अकराही मूर्ती एकत्र पाहणे म्हणजे प्रत्येकाला भेट दिल्यासारखे आहे, असे परंपरा मानते.",
+    "experience": "शक्य असल्यास गरुड सेवेच्या दिवसानुसार नियोजन करा, जेव्हा अकराही मंदिरे एकाच ठिकाणी भेटतात. इतर दिवशी हे एक शांत गावमंदिर आहे, भातशेतीतून चालत किंवा गाडीने इतर तिरुपतींकडे जाण्यापूर्वीचा उत्तम पहिला टप्पा; शीर्कळीपासून रस्त्याने सुमारे १० किमी."
   },
   "visit": {
-    "timings": "Darshan is generally held in morning and evening sessions with a midday break; the Garuda Sevai day is by far the busiest. Confirm timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirunangur lies about 10 km by road south-east of Sirkazhi (Sirkali) in Mayiladuthurai district. Sirkazhi, on the Chennai–Mayiladuthurai railway line, is the nearest station, and Tiruchirappalli, about 160 km away, the nearest major airport. Auto-rickshaws and taxis from Sirkazhi reach the village; the eleven shrines lie among paddy fields close to one another."
+    "timings": "दर्शन साधारणपणे सकाळ आणि संध्याकाळच्या सत्रांत असते आणि मधल्या वेळी विश्रांती असते; गरुड सेवेचा दिवस सर्वाधिक गर्दीचा असतो. भेट देण्यापूर्वी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गाभाऱ्यात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुनांगूर मयिलादुतुरै जिल्ह्यातील शीर्कळी (सिरकाळी) पासून रस्त्याने सुमारे १० किमी आग्नेयेस आहे. चेन्नई–मयिलादुतुरै रेल्वे मार्गावरील शीर्कळी हे जवळचे स्थानक असून सुमारे १६० किमी अंतरावरील तिरुचिरापल्ली हे जवळचे मोठे विमानतळ आहे. शीर्कळीहून रिक्षा आणि टॅक्सीने गावात पोहोचता येते; अकरा मंदिरे भातशेतीत एकमेकांच्या जवळ आहेत."
   }
 }

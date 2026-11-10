@@ -1,29 +1,36 @@
 {
   "id": "bhaktavatsala-thirukkannamangai",
   "locale": "mr",
+  "name": "भक्तवत्सल पेरुमाळ मंदिर, तिरुक्कण्णमंगै",
   "nativeName": "பக்தவத்சல பெருமாள் கோயில், திருக்கண்ணமங்கை",
+  "deity": "विष्णू पेरुम्पुरक्कडल रूपात, मिरवणुकीत भक्तवत्सल पेरुमाळ म्हणून पूजिले जातात, देवी कण्णमंगै नायगीसह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirukkannamangai",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कण्णमंगै",
+    "state": "तमिळनाडू",
     "lat": 10.7994,
     "lng": 79.5869
   },
+  "period": "चोळ देशातील एक दिव्य देसम, नालायिर दिव्य प्रबंधममध्ये तिरुमंगै आळवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "मध्ययुगीन चोळ (तंजावूर नायक जीर्णोद्धारासह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुवारूरजवळील तिरुक्कण्णमंगै येथे विष्णू हे भक्तवत्सल आहेत — भक्तांवर प्रेम करणारा प्रभू — चोळ नाडूतील तिरुमंगै आळवार यांनी गायिलेले एक दिव्य देसम, जेथे परंपरा सांगते की देव मधमाश्यांच्या रूपात पूजेसाठी जमले.",
   "sections": {
-    "history": "Thirukkannamangai lies about six kilometres from Tiruvarur on the road to Kumbakonam. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Chola Nadu, where Thirumangai Alvar hymned the Lord. The temple is believed to have been begun by the Medieval Cholas in the late ninth century, and three inscriptions of the Chola period are recorded here. The Thanjavur Nayaks of the seventeenth century are remembered for later additions and renovation. It is counted among the Pancha Krishnaranya Kshetrams, the five sacred groves of Krishna.",
-    "architecture": "A five-tiered rajagopuram opens the temple, and the sanctum is crowned by the Utpala Vimanam. The sacred tank is the Darshana Pushkarini, described as one of the largest temple tanks in the state. The presiding Lord is known as Perumpurakkadal, the great ocean outside, while the festival image bears the name Bhaktavatsalan, with Abhishekavalli as the festival image of the Goddess, who is honoured as Kannamangai Nayagi in her own shrine.",
-    "legends": "Tradition holds that Lakshmi was wedded to Vishnu at this place. The devas who witnessed the wedding, the sthala purana tells, took the form of bees and built a hive beside the Thayar shrine, on its northern side, so that they might stay and worship every day. The bees are said never to harm devotees, who may see the hive near the Goddess's shrine.",
-    "festivals": "The Brahmotsavam is held in the month of Chithirai, April–May, beginning ten days after Chitra Pournami and including a chariot festival. Vaikunta Ekadashi is kept with devotion, and the temple follows six daily rituals and three yearly festivals in the Vaishnava tradition.",
-    "experience": "A peaceful village Divya Desam within easy reach of Tiruvarur, rewarding for pilgrims who follow Thirumangai Alvar's hymns across the delta. Walk beside the broad Darshana Pushkarini, then look for the hive near the Thayar shrine. The Chithirai Brahmotsavam is the most festive time; other days are calm."
+    "history": "तिरुक्कण्णमंगै हे तिरुवारूरपासून कुंभकोणमच्या रस्त्यावर सुमारे सहा किलोमीटरवर आहे. आळवारांनी नालायिर दिव्य प्रबंधममध्ये गायिलेल्या विष्णूच्या १०८ दिव्य देसमांपैकी हे एक असून चोळ नाडूचा भाग आहे, जेथे तिरुमंगै आळवार यांनी प्रभूची स्तुती केली. हे मंदिर मध्ययुगीन चोळांनी नवव्या शतकाच्या उत्तरार्धात सुरू केले असे मानले जाते, आणि येथे चोळकालीन तीन शिलालेख नोंदलेले आहेत. सतराव्या शतकातील तंजावूर नायक नंतरच्या भर व जीर्णोद्धारासाठी स्मरणात आहेत. कृष्णाच्या पाच पवित्र वनांपैकी एक, पंच कृष्णारण्य क्षेत्रांमध्ये याची गणना होते.",
+    "architecture": "पाच मजली राजगोपुर मंदिराचे प्रवेशद्वार आहे, आणि गर्भगृहावर उत्पल विमान शोभते. पवित्र तलाव दर्शन पुष्करिणी असून राज्यातील सर्वांत मोठ्या मंदिर-तलावांपैकी एक म्हणून त्याचे वर्णन केले जाते. मूळ प्रभू पेरुम्पुरक्कडल — बाहेरील महासागर — या नावाने ओळखले जातात, तर उत्सवमूर्ती भक्तवत्सलन नावाने आहे; देवीची उत्सवमूर्ती अभिषेकवल्ली असून स्वतंत्र गाभाऱ्यात त्या कण्णमंगै नायगी म्हणून पूजिल्या जातात.",
+    "legends": "परंपरेनुसार या ठिकाणी लक्ष्मीचा विवाह विष्णूशी झाला. स्थलपुराण सांगते की या विवाहाचे साक्षीदार झालेल्या देवांनी मधमाश्यांचे रूप घेतले आणि थायार गाभाऱ्याच्या उत्तर बाजूला पोळे बांधले, जेणेकरून त्यांना तेथे राहून रोज पूजा करता यावी. या मधमाश्या भक्तांना कधीही इजा करत नाहीत असे म्हटले जाते, आणि देवीच्या गाभाऱ्याजवळ भक्तांना ते पोळे दिसू शकते.",
+    "festivals": "ब्रह्मोत्सव चित्तिरै महिन्यात (एप्रिल–मे) चित्रा पौर्णिमेनंतर दहा दिवसांनी सुरू होतो आणि त्यात रथोत्सव असतो. वैकुंठ एकादशी भक्तिभावाने पाळली जाते, आणि मंदिर वैष्णव परंपरेनुसार सहा दैनंदिन विधी व तीन वार्षिक उत्सव पाळते.",
+    "experience": "तिरुवारूरपासून सहज पोहोचता येणारे हे एक शांत ग्रामीण दिव्य देसम आहे, डेल्ट्यात तिरुमंगै आळवारांच्या स्तोत्रांचा मागोवा घेणाऱ्या भक्तांसाठी समाधानदायी. विस्तीर्ण दर्शन पुष्करिणीकाठी चाला, मग थायार गाभाऱ्याजवळील पोळे शोधा. चित्तिरै ब्रह्मोत्सव हा सर्वांत उत्सवी काळ; इतर दिवस शांत असतात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is about six kilometres from Tiruvarur on the Tiruvarur–Kumbakonam road in Tamil Nadu. Tiruvarur is the nearest town and railhead, and Tiruchirappalli is the nearest major airport. Reach it by road from Tiruvarur, and confirm local directions on arrival."
+    "timings": "सकाळ व संध्याकाळच्या दर्शनसत्रांसह आणि दुपारच्या विश्रांतीसह दररोज उघडे; उत्सवदिवशी सर्वाधिक गर्दी असते. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम व पुजाऱ्यांच्या सूचना पाळाव्यात.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम व पुजाऱ्यांच्या सूचना पाळाव्यात.",
+    "gettingThere": "हे मंदिर तमिळनाडूतील तिरुवारूर–कुंभकोणम रस्त्यावर तिरुवारूरपासून सुमारे सहा किलोमीटरवर आहे. तिरुवारूर हे जवळचे शहर व रेल्वेस्थानक असून तिरुच्चिरापल्ली हे जवळचे मोठे विमानतळ आहे. तिरुवारूरहून रस्त्याने पोहोचावे, आणि पोहोचल्यावर स्थानिक दिशा विचारून घ्याव्यात."
   }
 }

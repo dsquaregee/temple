@@ -1,29 +1,36 @@
 {
   "id": "vedapureeswarar-tiruvedikudi",
   "locale": "mr",
+  "name": "वेदपुरीश्वरर मंदिर, तिरुवेदिकुडी",
   "nativeName": "திருவேதிகுடி வேதபுரீஸ்வரர் கோயில்",
+  "deity": "वेदपुरीश्वरर (वाळै मडु नाथर) रूपातील शिव, देवी मंगयर्करसी यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थळ",
   "location": {
-    "city": "Tiruvedikudi, near Tiruvaiyaru",
-    "state": "Tamil Nadu",
+    "city": "तिरुवेदिकुडी, तिरुवैयारूजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.85639,
     "lng": 79.13722
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायलेले); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कावेरीकाठच्या तिरुवैयारूजवळील तिरुवेदिकुडी येथे शिव वेदपुरीश्वरर रूपात देवी मंगयर्करसी यांच्यासह पूजले जातात. संबंधर आणि अप्पर यांनी गायलेले हे पाडल पेट्र स्थळ तिरुवैयारूच्या सप्तस्थान मंदिरांपैकी चौथे असून, वेदांनी शुद्ध होण्यासाठी येथे तपश्चर्या केली त्या ठिकाणाच्या रूपात स्मरले जाते.",
   "sections": {
-    "history": "Tiruvedikudi lies near Tiruvaiyaru, about 7 km away on the Kaveri, in Thanjavur district. It is a Paadal Petra Sthalam: Tirugnana Sambandar venerated Vedapureeswarar in two padigams and Appar in two more, in the Tevaram. The shrine is the fourth of the celebrated Saptha Sthana (seven-place) temples of Tiruvaiyaru, whose festival links the seven villages. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian river-bank temple, the shrine enshrines Vedapureeswarar — also called Vazhai Madu Nathar — in the sanctum, with the goddess Mangayarkarasi in her own shrine, a Nandi and the parivara devatas about the prakara. The sanctum is noted for its reversed configuration, with the goddess to the right and the lord to the left. The temple keeps the form of the Shiva shrines of the Tiruvaiyaru belt.",
-    "legends": "The name Vedapureeswarar is bound to the legend of the Vedas, who by tradition undertook penance here upon Shiva to be made pure — 'the lord of the city of the Vedas.' The shrine's place in the Saptha Sthana festival of Tiruvaiyaru ties it to the seven Shiva villages carried in procession together. The goddess Mangayarkarasi, 'queen among women,' stands beside the lord.",
-    "festivals": "The temple observes the Saptha Sthana festival of Tiruvaiyaru in Chithirai, with the deities of the seven villages borne together, besides Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Tiruvaiyaru belt include Tiruvedikudi among the seven.",
-    "experience": "At Tiruvedikudi the pilgrim comes to the fourth of the seven Tiruvaiyaru shrines, on the Kaveri's bank. Before Vedapureeswarar and Mangayarkarasi, the visitor finds the unhurried grace of a Tevaram temple of the river country, and the memory of the Vedas who did penance here to be made pure."
+    "history": "तिरुवेदिकुडी तंजावूर जिल्ह्यात, कावेरीकाठी तिरुवैयारूजवळ, सुमारे ७ कि.मी. अंतरावर आहे. हे पाडल पेट्र स्थळ आहे: तेवारममध्ये तिरुज्ञान संबंधरांनी दोन पदिगांत आणि अप्परांनी आणखी दोन पदिगांत वेदपुरीश्वररांची स्तुती केली. हे तीर्थ तिरुवैयारूच्या प्रसिद्ध सप्तस्थान (सात-स्थळ) मंदिरांपैकी चौथे आहे, ज्यांचा उत्सव सात गावांना जोडतो. येथील दगडी मंदिर चोळकाळातील आणि त्यानंतरचे आहे.",
+    "architecture": "कावेरीतीरावरील द्रविड शैलीचे हे मंदिर गर्भगृहात वेदपुरीश्वररांना — ज्यांना वाळै मडु नाथर असेही म्हणतात — प्रतिष्ठित करते; देवी मंगयर्करसी त्यांच्या स्वतंत्र मंदिरात आहेत, तर नंदी आणि परिवार देवता प्राकारात आहेत. गर्भगृहाची उलटी मांडणी हे वैशिष्ट्य सांगितले जाते — देवी उजवीकडे आणि स्वामी डावीकडे. तिरुवैयारू पट्ट्यातील शिवमंदिरांचे स्वरूप हे मंदिर राखते.",
+    "legends": "वेदपुरीश्वरर हे नाव वेदांच्या कथेशी बांधलेले आहे; परंपरेनुसार वेदांनी शुद्ध होण्यासाठी येथे शिवासाठी तपश्चर्या केली — 'वेदांच्या नगराचे स्वामी.' तिरुवैयारूच्या सप्तस्थान उत्सवातील स्थानामुळे हे तीर्थ एकत्र मिरवणुकीने नेल्या जाणाऱ्या सात शिवग्रामांशी जोडले जाते. देवी मंगयर्करसी, 'स्त्रियांमधील राणी', स्वामींच्या शेजारी उभ्या आहेत.",
+    "festivals": "मंदिर चैत्रात (तमिळ चित्तिरै) तिरुवैयारूचा सप्तस्थान उत्सव पाळते, ज्यात सात गावांच्या देवता एकत्र वाहून नेल्या जातात; याखेरीज माघ (तमिळ मासी, फेब्रुवारी–मार्च) मधील महाशिवरात्री, अश्विन (तमिळ पुरट्टासी, सप्टेंबर–ऑक्टोबर) मधील नवरात्री आणि कार्तिकातील (तमिळ कार्तिगै) सोमवार, तसेच प्रदोष पूजाही होतात. तिरुवैयारू पट्ट्यातील यात्रेकरू तिरुवेदिकुडीचा सातांत समावेश करतात.",
+    "experience": "तिरुवेदिकुडी येथे यात्रेकरू कावेरीच्या तीरावरील तिरुवैयारूच्या सात तीर्थांपैकी चौथ्या तीर्थात येतो. वेदपुरीश्वरर आणि मंगयर्करसी यांच्यासमोर, अभ्यागताला नदीप्रदेशातील तेवारम मंदिराची निवांत कृपा आणि येथे शुद्ध होण्यासाठी तपश्चर्या करणाऱ्या वेदांचे स्मरण लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvedikudi lies about 7 km from Tiruvaiyaru and roughly 11 km from Thanjavur, in Thanjavur district. Thanjavur is the nearest rail head; Tiruvaiyaru is the nearest town, with buses and taxis to the village."
+    "timings": "साधारणतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गात छायाचित्रणास सामान्यतः परवानगी आहे, पण गर्भगृहात नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुवेदिकुडी तंजावूर जिल्ह्यात, तिरुवैयारूपासून सुमारे ७ कि.मी. आणि तंजावूरपासून सुमारे ११ कि.मी. अंतरावर आहे. तंजावूर हे जवळचे रेल्वे स्थानक आहे; तिरुवैयारू हे जवळचे शहर असून तेथून गावापर्यंत बस आणि टॅक्सी मिळतात."
   }
 }

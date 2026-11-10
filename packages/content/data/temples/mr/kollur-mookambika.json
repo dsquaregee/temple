@@ -1,30 +1,37 @@
 {
   "id": "kollur-mookambika",
   "locale": "mr",
+  "name": "कोल्लूर मूकांबिका मंदिर",
   "nativeName": "ಕೊಲ್ಲೂರು ಮೂಕಾಂಬಿಕಾ ದೇವಸ್ಥಾನ",
+  "deity": "देवी मूकांबिका रूपात, शक्तीचा शिवासह संगम",
+  "tradition": "शाक्त आणि शैव",
   "location": {
-    "city": "Kollur",
-    "state": "Karnataka",
+    "city": "कोल्लूर",
+    "state": "कर्नाटक",
     "lat": 13.8646,
     "lng": 74.8146
   },
+  "period": "प्राचीन देवस्थान, मध्ययुगीन काळात विकसित",
   "century": 12,
+  "dynasty": "स्थानिक सरदार आणि केळदी नायक",
+  "style": "केरळ–तुळू आणि द्रविड",
   "unesco": false,
   "circuits": [
     "temples-of-coastal-karnataka"
   ],
+  "summary": "किनारी कर्नाटकातील कोडचाद्री डोंगराच्या पायथ्याशी कोल्लूर मूकांबिका हे महान देवीस्थान आहे, जिथे देवीची पूजा शिव आणि शक्तीचे ऐक्य म्हणून केली जाते; ती विशेषतः विद्येची दात्री म्हणून पूज्य असून परंपरेने आदि शंकराचार्यांशी जोडलेली आहे.",
   "sections": {
-    "history": "Kollur lies in the Western Ghats above the Karnataka coast, on the Souparnika river below the peak of Kodachadri. The Mookambika shrine is ancient in tradition and was developed through the medieval centuries under local chiefs and the Keladi Nayakas. It is bound above all to Adi Shankara, the eighth-century teacher, who is said to have installed the goddess here in the form in which she is worshipped. Over the centuries Kollur grew into one of the foremost goddess pilgrimages of the west coast, drawing devotees from Karnataka, Kerala, and far beyond.",
-    "architecture": "The temple, in the Tulu-Kerala manner of the coast blended with Dravidian forms, enshrines the goddess before a distinctive jyotirlinga marked by a golden line, the svarna-rekha, which divides it into halves sacred to Shiva and to Shakti — so that the two are worshipped as one. A golden-roofed sanctum, pillared halls, and shrines to attendant deities cluster within, and the river Souparnika runs close by for the pilgrims’ ritual bath. Above the temple rises Kodachadri, its forested peak part of the sacred landscape.",
-    "legends": "The goddess takes her name from the demon Mookasura, whom she slew after he had been struck dumb — mooka — by the gods; as Mookambika she embodies the united power of Kali, Lakshmi, and Saraswati. Tradition holds that Adi Shankara, meditating on Kodachadri, was granted a vision of the Devi and asked her to come with him to a place he would consecrate; she agreed on condition he not look back, and when he did, at Kollur, she stayed, and here he installed her. The golden line on the linga marks this union of Shiva and the Mother.",
-    "festivals": "Navaratri is Kollur’s greatest festival, the nine nights of the goddess kept with special splendour, and Vidyarambha on Vijayadashami draws families who bring young children to begin their learning at the Devi’s feet, tracing the first letters in her presence. Rathotsava, the car festival, and the annual renewal festivals fill the temple through the year, and as the goddess of Saraswati’s wisdom, Mookambika receives students and scholars seeking her blessing on their studies.",
-    "experience": "Set in green hill country, Kollur offers a pilgrimage of cool river, forested slopes, and the quiet authority of the goddess. Pilgrims bathe in the Souparnika, then enter to stand before the linga with its golden line, where Shiva and Shakti are one. The Vidyarambha rite, tiny fingers guided to write the first letters in rice, is among the most touching sights in any Indian temple. Beyond the shrine, the peak of Kodachadri calls the more adventurous upward, and the whole valley keeps the fresh, unhurried air of the Ghats."
+    "history": "कोल्लूर कर्नाटकच्या किनाऱ्याच्या वर पश्चिम घाटात, कोडचाद्री शिखराच्या खाली सौपर्णिका नदीच्या काठावर वसले आहे. मूकांबिका देवस्थान परंपरेने प्राचीन आहे आणि मध्ययुगीन शतकांत स्थानिक सरदार आणि केळदी नायकांच्या काळात विकसित झाले. ते सर्वांत अधिक आठव्या शतकातील आचार्य आदि शंकराचार्यांशी बांधलेले आहे, ज्यांनी देवीची आज जिच्या रूपात पूजा केली जाते त्या रूपात येथे स्थापना केली असे म्हटले जाते. शतकानुशतके कोल्लूर पश्चिम किनाऱ्यावरील प्रमुख देवी तीर्थक्षेत्रांपैकी एक बनले, कर्नाटक, केरळ आणि दूरवरून भक्तांना आकर्षित करत.",
+    "architecture": "किनारी तुळू-केरळ शैली आणि द्रविड रूपांच्या मिश्रणातील हे मंदिर देवीला एका विशिष्ट ज्योतिर्लिंगासमोर स्थापित करते, ज्यावर सुवर्णरेखा नावाची सोनेरी रेषा आहे, जी त्याला शिव आणि शक्ती यांना पवित्र अशा दोन भागांत विभागते — जेणेकरून दोघांची पूजा एक म्हणून होते. सुवर्णछपराचा गाभारा, स्तंभयुक्त मंडप आणि परिवार देवतांची देवस्थाने आत एकवटलेली आहेत, आणि यात्रेकरूंच्या विधिस्नानासाठी सौपर्णिका नदी जवळूनच वाहते. मंदिराच्या वर कोडचाद्री उभा आहे, त्याचे वनाच्छादित शिखर पवित्र परिसराचा भाग आहे.",
+    "legends": "देवीला तिचे नाव मूकासुर दैत्यावरून मिळाले, ज्याला देवांनी मूक — बोलता न येणारा — केले होते आणि ज्याचा तिने वध केला; मूकांबिका म्हणून ती काली, लक्ष्मी आणि सरस्वती यांच्या संयुक्त शक्तीचे रूप आहे. परंपरा सांगते की कोडचाद्रीवर ध्यान करत असताना आदि शंकराचार्यांना देवीचे दर्शन घडले आणि त्यांनी तिला आपण प्रतिष्ठित करणार असलेल्या स्थळी आपल्यासोबत येण्याची विनंती केली; मागे वळून पाहायचे नाही या अटीवर ती तयार झाली, आणि कोल्लूर येथे त्यांनी मागे वळून पाहिले तेव्हा ती तिथेच थांबली, आणि येथेच त्यांनी तिची स्थापना केली. लिंगावरील सोनेरी रेषा शिव आणि माता यांच्या या ऐक्याची खूण आहे.",
+    "festivals": "नवरात्र हा कोल्लूरचा सर्वांत मोठा उत्सव आहे, देवीच्या नऊ रात्री विशेष थाटाने साजऱ्या होतात, आणि विजयादशमीला होणारा विद्यारंभ अशा कुटुंबांना आकर्षित करतो जे आपल्या लहान मुलांना देवीच्या चरणी विद्येचा आरंभ करण्यासाठी आणतात, तिच्या सान्निध्यात पहिली अक्षरे गिरवतात. रथोत्सव आणि वार्षिक नूतनीकरणाचे उत्सव वर्षभर मंदिर भरून टाकतात, आणि सरस्वतीच्या ज्ञानाची देवी म्हणून मूकांबिका आपल्या अभ्यासावर आशीर्वाद मागणाऱ्या विद्यार्थ्यांना आणि विद्वानांना स्वीकारते.",
+    "experience": "हिरव्यागार डोंगराळ प्रदेशात वसलेले कोल्लूर थंड नदी, वनाच्छादित उतार आणि देवीच्या शांत अधिकाराचे तीर्थाटन घडवते. यात्रेकरू सौपर्णिकेत स्नान करतात, मग सोनेरी रेषा असलेल्या लिंगासमोर उभे राहतात, जिथे शिव आणि शक्ती एक आहेत. विद्यारंभ विधी, तांदळात पहिली अक्षरे लिहिण्यासाठी मार्गदर्शन केली जाणारी इवलीशी बोटे, हे कोणत्याही भारतीय मंदिरातील सर्वांत हृदयस्पर्शी दृश्यांपैकी एक आहे. देवस्थानापलीकडे कोडचाद्रीचे शिखर अधिक साहसी लोकांना वर बोलावते, आणि संपूर्ण दरी घाटांची ताजी, निवांत हवा जपते."
   },
   "visit": {
-    "timings": "Generally open from around 5:00 am to 9:00 pm daily with several pujas; hours extend during Navaratri and other festivals.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed at the temple.",
-    "photography": "Photography is generally not permitted inside the sanctum; follow posted rules and staff guidance.",
-    "gettingThere": "Kollur is in Udupi district, about 80 km from Udupi and Mangaluru, the latter with the nearest airport; the nearest railheads are Kundapura and Byndoor, and the temple is reached by road through the Ghats."
+    "timings": "साधारणतः दररोज पहाटे सुमारे ५:०० ते रात्री ९:०० पर्यंत अनेक पूजांसह उघडे; नवरात्र आणि इतर उत्सवांदरम्यान वेळा वाढतात.",
+    "dressCode": "शालीन पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; मंदिरात पादत्राणे काढावीत.",
+    "photography": "गाभाऱ्यात छायाचित्रण सामान्यतः परवानगीयोग्य नाही; लावलेले नियम आणि कर्मचाऱ्यांच्या सूचनांचे पालन करा.",
+    "gettingThere": "कोल्लूर उडुपी जिल्ह्यात, उडुपी आणि मंगळुरूपासून सुमारे ८० किमी अंतरावर आहे, त्यांपैकी मंगळुरू येथे सर्वांत जवळचा विमानतळ आहे; सर्वांत जवळची रेल्वे स्थानके कुंदापुरा आणि बैंदूर आहेत, आणि मंदिरापर्यंत घाटांतून रस्त्याने पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kollur-mookambika.jpg",

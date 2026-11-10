@@ -1,29 +1,36 @@
 {
   "id": "anekathangapatheswarar-gaurikund",
   "locale": "mr",
+  "name": "अनेकतंगापतम, गौरीकुंड",
   "nativeName": "अनेकतंगापतम्, गौरीकुंड",
+  "deity": "अनेकतंगापतेश्वरर रूपातील शिव, देवी गौरी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Gaurikund",
-    "state": "Uttarakhand",
+    "city": "गौरीकुंड",
+    "state": "उत्तराखंड",
     "lat": 30.6333,
     "lng": 79.0167
   },
+  "period": "वड नाडूचे हिमालयीन पाडल पेट्र स्थलम, तेवारममध्ये (७वे शतक) संबंदर यांनी गायिलेले; परंपरेनुसार केदारनाथ मार्गावरील गौरीकुंडशी ओळखले जाणारे",
   "century": 7,
+  "dynasty": "केदारनाथ मार्गावरील हिमालयीन यात्राविराम; तेवारमकालीन कोणतीही वास्तू नोंदलेली नाही",
+  "style": "हिमालयीन देवस्थान (पारंपरिक ओळख)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "अनेकतंगापतम, संबंदर यांनी गायिलेले तेवारमचे एक उत्तरेकडील देवस्थान, परंपरेनुसार गौरीकुंडशी ओळखले जाते, जिथे केदारनाथच्या मार्गावर देवीने तप केले असे सांगतात.",
   "sections": {
-    "history": "Anekathangapatham is one of the 276 Paadal Petra Sthalams and one of the five in Vada Nadu, the northern country of the Tevaram. Thirugnana Sambandar sang its Lord, and tradition holds that he did so from Srikalahasti, as he sang the other shrines of the far north. The Tevaram knows two places of this name: the other, Kachchi Anekathangapatham at Kanchipuram, was sung by Sundarar. The northern one is identified by tradition with Gaurikund in Rudraprayag district, the last road-head below Kedarnath, at about 1,980 metres in the valley of the Mandakini.",
-    "architecture": "Gaurikund is a small pilgrim settlement on the Kedarnath path rather than a temple town, and no Tevaram-age structure survives here. Its shrine to Gauri, the Goddess as the ascetic bride of Shiva, stands beside the place of the hot spring that gave the village its name; the great floods of 2013 swept much of the old kund away, though warm water still flows at the spot. The Mandakini runs below.",
-    "legends": "Local tradition holds that Parvati performed her long penance here to win Shiva as her husband, and that their marriage was celebrated at nearby Triyuginarayan. The Tevaram name is often read as the place of the elephant, anekatham being an old Tamil word for the elephant, and Gaurikund's own tradition links the Goddess with the birth of the elephant-headed Ganesha, whom she set to guard her as she bathed.",
-    "festivals": "The shrine follows the Kedarnath season: the valley fills with pilgrims from the opening of the Kedarnath temple in spring until it closes for winter. Maha Shivaratri and the Sambandar guru puja are times to recall the Tevaram shrine in Tamil temples; confirm dates locally.",
-    "experience": "For most pilgrims, Gaurikund is the threshold of the climb to Kedarnath, where they bathe, worship the Goddess and set out on foot. A Tamil Shaiva pilgrim pauses here also for Sambandar's sake, honouring Anekathangapatham before walking up the valley to Kedarnath, another northern shrine of the Tevaram."
+    "history": "अनेकतंगापतम हे २७६ पाडल पेट्र स्थलमांपैकी एक आणि तेवारमच्या उत्तरेकडील प्रदेश वड नाडूतील पाचांपैकी एक आहे. तिरुज्ञान संबंदर यांनी येथील स्वामींना गायिले, आणि परंपरा सांगते की त्यांनी हे श्रीकालहस्तीहून गायिले, जसे त्यांनी दूर उत्तरेकडील इतर देवस्थाने गायिली. तेवारमला या नावाची दोन स्थाने माहीत आहेत: दुसरे, कांचीपुरमचे कच्ची अनेकतंगापतम, सुंदरर यांनी गायिले. उत्तरेकडील स्थान परंपरेनुसार रुद्रप्रयाग जिल्ह्यातील गौरीकुंडशी ओळखले जाते, केदारनाथच्या खालचा शेवटचा रस्त्याचा बिंदू, मंदाकिनीच्या खोऱ्यात सुमारे १,९८० मीटर उंचीवर.",
+    "architecture": "गौरीकुंड हे मंदिर-नगर नसून केदारनाथ मार्गावरील एक लहान यात्री वस्ती आहे, आणि येथे तेवारमकालीन कोणतीही वास्तू टिकून नाही. गौरीचे देवस्थान, शिवाची तपस्विनी वधू म्हणून देवी, त्या उष्ण झऱ्याच्या जागेजवळ उभे आहे ज्याने गावाला त्याचे नाव दिले; २०१३ च्या मोठ्या पुराने जुन्या कुंडाचा बराचसा भाग वाहून नेला, तरी त्या जागी अजूनही उबदार पाणी वाहते. खाली मंदाकिनी वाहते.",
+    "legends": "स्थानिक परंपरा सांगते की पार्वतीने शिवाला पती म्हणून मिळवण्यासाठी येथे आपले दीर्घ तप केले, आणि त्यांचा विवाह जवळच्या त्रियुगीनारायण येथे साजरा झाला. तेवारमचे नाव अनेकदा हत्तीचे स्थान असे वाचले जाते, 'अनेकतम' हा हत्तीसाठीचा जुना तमिळ शब्द आहे, आणि गौरीकुंडची स्वतःची परंपरा देवीला गजमुख गणेशाच्या जन्माशी जोडते, ज्याला तिने स्नान करताना आपल्या रक्षणासाठी नेमले.",
+    "festivals": "हे देवस्थान केदारनाथ ऋतूचे अनुसरण करते: वसंतात केदारनाथ मंदिर उघडल्यापासून हिवाळ्यासाठी बंद होईपर्यंत खोरे यात्रेकरूंनी भरून जाते. महाशिवरात्री आणि संबंदर गुरुपूजा हे तमिळ मंदिरांत तेवारम देवस्थानाचे स्मरण करण्याचे प्रसंग आहेत; तिथी स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "experience": "बहुतांश यात्रेकरूंसाठी, गौरीकुंड हे केदारनाथच्या चढाईचे उंबरठा आहे, जिथे ते स्नान करतात, देवीची पूजा करतात आणि पायी निघतात. तमिळ शैव यात्रेकरू येथे संबंदरसाठीही थांबतो, केदारनाथकडे खोऱ्यातून वर चालण्यापूर्वी अनेकतंगापतमचा सन्मान करतो, जे तेवारमचे आणखी एक उत्तरेकडील देवस्थान आहे."
   },
   "visit": {
-    "timings": "The Gauri shrine is open during the Kedarnath pilgrimage season, roughly from late April or May to October or November, from morning until evening. Confirm current timings and the season locally before travelling.",
-    "dressCode": "Modest dress is expected at the shrines; warm, layered clothing and sturdy walking shoes are essential in the mountains. Footwear is left outside the temple.",
-    "photography": "Photography is generally allowed outdoors along the pilgrim route; ask before photographing inside shrines or during worship.",
-    "gettingThere": "Vehicles stop at Sonprayag, a few kilometres below, from where shuttles run to Gaurikund; the trek to Kedarnath starts here. Rishikesh and Haridwar are the nearest major railheads, and Dehradun's Jolly Grant airport is the nearest airport, followed by a long road journey via Rudraprayag."
+    "timings": "गौरी देवस्थान केदारनाथ यात्रा ऋतूत, साधारणपणे एप्रिल किंवा मेच्या अखेरीपासून ऑक्टोबर किंवा नोव्हेंबरपर्यंत, सकाळपासून संध्याकाळपर्यंत उघडे असते. प्रवासापूर्वी सध्याच्या वेळा व ऋतू स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "देवस्थानांत साधी वेशभूषा अपेक्षित आहे; पर्वतांत उबदार, थरांवर थर घातलेले कपडे व मजबूत चालण्याचे बूट आवश्यक आहेत. पादत्राणे मंदिराबाहेर ठेवली जातात.",
+    "photography": "यात्रा मार्गावर बाहेर छायाचित्रणास सामान्यतः परवानगी असते; देवस्थानांत आत किंवा पूजेदरम्यान छायाचित्र घेण्यापूर्वी विचारा.",
+    "gettingThere": "वाहने काही किलोमीटर खालच्या सोनप्रयाग येथे थांबतात, तेथून गौरीकुंडपर्यंत शटल धावतात; केदारनाथचा पायी मार्ग येथून सुरू होतो. ऋषिकेश व हरिद्वार ही सर्वात जवळची मोठी रेल्वेस्थानके आहेत, आणि डेहराडूनचे जॉली ग्रँट विमानतळ सर्वात जवळचे आहे, त्यानंतर रुद्रप्रयागमार्गे दीर्घ रस्ता प्रवास."
   }
 }

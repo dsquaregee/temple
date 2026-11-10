@@ -1,29 +1,36 @@
 {
   "id": "pampureswarar-tirupampuram",
   "locale": "mr",
+  "name": "शेषपुरीश्वर मंदिर, तिरुपांपुरम",
   "nativeName": "திருப்பாம்புரம் சேஷபுரீஸ்வரர் கோயில்",
+  "deity": "शेषपुरीश्वर (पांपुरनाथर, सर्पांचे स्वामी) रूपातील शिव",
+  "tradition": "शैव — पाडल पेट्र स्थळम्; संबंधर, अप्पर आणि सुंदरर यांनी गायिलेले",
   "location": {
-    "city": "Tirupampuram, near Kuthalam",
-    "state": "Tamil Nadu",
+    "city": "तिरुपांपुरम, कुतालमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9025,
     "lng": 79.63
   },
+  "period": "तेवारम काळ; चोळकालीन वास्तू",
   "century": 9,
+  "dynasty": "चोळ (नंतरच्या भर घालून)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुतालमजवळील तिरुपांपुरम हे पाडल पेट्र स्थळम् आहे; येथे शिवाची शेषपुरीश्वर — म्हणजेच सर्पांचे स्वामी पांपुरनाथर — या रूपात पूजा केली जाते, आणि राहू-केतू व नागदोष निवारणाचे केंद्र म्हणून हे प्रसिद्ध आहे. परंपरेनुसार, गर्वामुळे शिवाने सर्पजातीला शाप दिला असता, आदिशेष, राहू आणि केतू यांच्यासह नागांनी महाशिवरात्रीला येथे त्याची उपासना करून शापमुक्ती मिळवली. संबंधर, अप्पर आणि सुंदरर यांनी गायिलेले हे मंदिर एका दिवसात करायच्या चार नाग मंदिरांच्या परिक्रमेतील तिसरे आहे.",
   "sections": {
-    "history": "Tirupampuram, near Kuthalam in the Kaveri delta, is an ancient Shaiva village hymned in the seventh-century Tevaram by all three principal saints — Sambandar, Appar and Sundarar — and counted among the Paadal Petra Sthalams. Its historical names, Paampuram and Seshapuri, carry its deep association with the serpents, the nagas, and the stone temple of the Chola period has become, in modern times, a much-sought centre for remedies against serpent-related afflictions.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Seshapureeswarar. Its devotional life centres on the nagas: the shrines and images connected with Adisesha, Rahu and Ketu are the focus of the special worship for which the temple is known. The serpent motif runs through its iconography, marking it among the delta temples where naga-worship is pre-eminent.",
-    "legends": "The great legend of Tirupampuram concerns the pride of the serpents. In one telling, as Ganesha worshipped Shiva on Mount Kailasa, the serpent coiled about the lord's neck wrongly took the worship as its own and grew arrogant; angered, Shiva cursed the whole serpent race to lose its powers. The nagas, pleading that all should not suffer for one, were told to worship him on the night of Maha Shivaratri, and Adisesha led them — to Kumbakonam, Tirunageswaram, Nagore and finally Tirupampuram — until their curse was lifted. From this the temple became a powerful centre for Rahu–Ketu and naga-dosha remedies, sought by those facing such doshas or childlessness.",
-    "festivals": "Maha Shivaratri is the temple's foremost festival, carrying the memory of the night the serpents were redeemed, and it draws great crowds. The regular Shaiva observances of Pradosham and the Margazhi season are kept, and devotees often make a same-day circuit of the four Naga temples, of which Tirupampuram is the third. Special worship for Rahu and Ketu is offered through the year.",
-    "experience": "Tirupampuram draws pilgrims who come with a particular prayer — for relief from naga-dosha, for Rahu–Ketu remedies, for children. The darshan of Seshapureeswarar, the lord of the serpents, carries the sense of a grace that lifted an ancient curse, and for many the temple is a place of hope at a difficult turn of life."
+    "history": "कावेरी त्रिभुज प्रदेशात कुतालमजवळ वसलेले तिरुपांपुरम हे प्राचीन शैव गाव आहे. सातव्या शतकातील तेवारममध्ये संबंधर, अप्पर आणि सुंदरर या तिन्ही प्रमुख संतांनी याची स्तुती गायली असून ते पाडल पेट्र स्थळम्पैकी एक मानले जाते. पांपुरम आणि शेषपुरी ही त्याची ऐतिहासिक नावे सर्प म्हणजेच नागांशी असलेला त्याचा खोल संबंध दर्शवतात; आणि चोळकालीन हे दगडी मंदिर आधुनिक काळात सर्पदोषांवरील उपायांसाठी अतिशय शोधले जाणारे केंद्र बनले आहे.",
+    "architecture": "मंदिर द्रविड रचनेचे असून त्यात गोपुर, प्राकार आणि शेषपुरीश्वराचे गर्भगृह आहे. त्याचे भक्तिजीवन नागांभोवती केंद्रित आहे: आदिशेष, राहू आणि केतू यांच्याशी निगडित देवळ्या व मूर्ती हेच या मंदिराच्या प्रसिद्ध विशेष पूजेचे केंद्र आहेत. सर्पाचे रूपांकन त्याच्या मूर्तिशास्त्रात सर्वत्र आढळते, आणि त्यामुळे नागपूजेला सर्वोच्च स्थान असलेल्या त्रिभुज प्रदेशातील मंदिरांत त्याची गणना होते.",
+    "legends": "तिरुपांपुरमची मुख्य कथा सर्पांच्या गर्वाची आहे. एका कथनानुसार, कैलास पर्वतावर गणेश शिवाची पूजा करत असताना, शिवाच्या गळ्याभोवती गुंडाळलेल्या सर्पाने ती पूजा चुकून स्वतःची मानली आणि तो गर्विष्ठ झाला; रागावलेल्या शिवाने संपूर्ण सर्पजातीला आपल्या शक्ती गमावण्याचा शाप दिला. एकासाठी सर्वांनी का भोगावे अशी विनंती नागांनी केली, तेव्हा त्यांना महाशिवरात्रीच्या रात्री त्याची उपासना करण्यास सांगण्यात आले; आणि आदिशेषाने त्यांना कुंभकोणम, तिरुनागेश्वरम, नागूर आणि शेवटी तिरुपांपुरम येथे नेले — त्यांचा शाप दूर होईपर्यंत. यामुळे हे मंदिर राहू-केतू आणि नागदोष निवारणाचे प्रभावी केंद्र बनले; असे दोष किंवा अपत्यहीनतेला सामोरे जाणारे लोक येथे येतात.",
+    "festivals": "महाशिवरात्री हा मंदिराचा सर्वांत महत्त्वाचा उत्सव असून सर्पांच्या उद्धाराच्या रात्रीची स्मृती तो जपतो आणि त्यासाठी मोठी गर्दी जमते. प्रदोष आणि मार्गळी महिन्यातील नेहमीचे शैव विधी पाळले जातात, आणि भाविक अनेकदा एकाच दिवसात चार नाग मंदिरांची परिक्रमा करतात, ज्यात तिरुपांपुरम तिसरे आहे. राहू आणि केतूंसाठी विशेष पूजा वर्षभर केली जाते.",
+    "experience": "विशिष्ट प्रार्थना घेऊन आलेले यात्रेकरू तिरुपांपुरमकडे येतात — नागदोषातून मुक्तीसाठी, राहू-केतू उपायांसाठी, संततीसाठी. सर्पांचे स्वामी शेषपुरीश्वराचे दर्शन म्हणजे प्राचीन शाप दूर करणाऱ्या कृपेची अनुभूती देते, आणि अनेकांसाठी हे मंदिर आयुष्यातील कठीण वळणावर आशेचे स्थान आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirupampuram is in Tiruvarur district near Kuthalam, roughly 15 km from Mayiladuthurai; the nearest rail heads are Kuthalam and Mayiladuthurai, with local buses and taxis to the village. It is often visited with the other three Naga temples (Kumbakonam, Tirunageswaram, Nagore)."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर निश्चित करून घ्या.",
+    "dressCode": "खांदे आणि गुडघे झाकलेला साधा पारंपरिक पोशाख अपेक्षित आहे; पादत्राणे प्रवेशद्वारावर काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत सामान्यतः छायाचित्रणास परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुपांपुरम तिरुवारूर जिल्ह्यात कुतालमजवळ असून मयिलादुतुरैपासून सुमारे १५ किमी अंतरावर आहे; जवळची रेल्वे स्थानके कुतालम आणि मयिलादुतुरै असून गावापर्यंत स्थानिक बस आणि टॅक्सी उपलब्ध आहेत. इतर तीन नाग मंदिरांसह (कुंभकोणम, तिरुनागेश्वरम, नागूर) येथे अनेकदा भेट दिली जाते."
   }
 }

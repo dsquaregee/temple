@@ -1,33 +1,40 @@
 {
   "id": "nanjangud-srikanteshwara",
   "locale": "mr",
+  "name": "श्रीकंठेश्वर मंदिर, नंजनगूड",
   "nativeName": "ಶ್ರೀಕಂಠೇಶ್ವರ ದೇವಸ್ಥಾನ, ನಂಜನಗೂಡು",
+  "deity": "श्रीकंठेश्वर (नंजुंडेश्वर) रूपातील शिव, 'ज्याने विष आपल्या कंठात धारण केले तो'",
+  "tradition": "शैव",
   "location": {
-    "city": "Nanjangud",
-    "state": "Karnataka",
+    "city": "नंजनगूड",
+    "state": "कर्नाटक",
     "lat": 12.118,
     "lng": 76.683
   },
+  "period": "कपिला नदीच्या तीरावरील एक महान शिवक्षेत्र, कर्नाटकाची दक्षिण काशी म्हणून ओळखले जाणारे",
   "century": 9,
+  "dynasty": "गंग, चोळ, होयसळ व वाडियार यांचे आश्रयदान",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [],
+  "summary": "कपिला नदीच्या तीरावर, जगाचे विष प्राशन करणाऱ्या नंजुंडेश्वर — श्रीकंठेश्वर रूपात शिवाची उपासना होते; कर्नाटकातील सर्वांत मोठ्या मंदिरांपैकी एक असलेले हे क्षेत्र फार पूर्वीपासून त्या प्रांताची दक्षिण काशी म्हणून पूजनीय आहे.",
   "sections": {
-    "history": "Nanjangud stands on the Kapila (Kabini) river south of Mysuru, its great temple grown across centuries from Ganga and Chola foundations through Hoysala and Wadiyar patronage. Here Shiva is Srikanteshwara, also called Nanjundeshwara, 'the god who consumed the poison', recalling the churning of the ocean when Shiva swallowed the halahala to save the worlds.",
-    "architecture": "One of the largest temples in Karnataka, it spreads through pillared halls and many shrines beneath a tall Dravidian gopura, the whole enlarged by the Wadiyar kings of Mysuru. Its long corridors and subsidiary sanctums make it a temple-town in itself.",
-    "legends": "The name Nanjundeshwara — from nanju, poison — recalls how Shiva held the world-destroying poison in his throat at the churning of the milk-ocean. Tradition tells too that the Mysuru ruler and later Tipu Sultan made offerings here, Tipu gifting an emerald linga in gratitude when the god was said to have cured his ailing elephant.",
-    "festivals": "The car festivals (rathotsava), when the great temple cars are drawn through the town, are the grandest occasions, alongside Maha Shivaratri. The Kapila's banks fill with pilgrims through the year.",
-    "experience": "Nanjangud rewards the pilgrim with the sense of a whole sacred town — vast halls, a riverside setting, and the presence of the god who took poison for the world's sake."
+    "history": "नंजनगूड म्हैसूरच्या दक्षिणेस कपिला (कबिनी) नदीच्या तीरावर वसले आहे; गंग व चोळ यांच्या पायावर उभे राहिलेले हे महान मंदिर होयसळ व वाडियार यांच्या आश्रयाखाली शतकानुशतके वाढत गेले. येथे शिव श्रीकंठेश्वर आहेत, ज्यांना नंजुंडेश्वर — 'ज्या देवाने विष प्राशन केले तो' — असेही म्हणतात; समुद्रमंथनाच्या वेळी जगांचे रक्षण करण्यासाठी शिवाने हलाहल गिळले, त्याचे हे स्मरण आहे.",
+    "architecture": "कर्नाटकातील सर्वांत मोठ्या मंदिरांपैकी एक असलेले हे मंदिर एका उंच द्राविड गोपुराखाली स्तंभयुक्त मंडप व अनेक देवालयांमधून पसरलेले आहे; म्हैसूरच्या वाडियार राजांनी त्याचा संपूर्ण विस्तार केला. त्याचे लांबच लांब परिक्रमामार्ग व उपदेवालये यामुळे ते स्वतःच एक मंदिरनगरी बनले आहे.",
+    "legends": "नंजुंडेश्वर हे नाव — नंजु म्हणजे विष, यावरून — क्षीरसागराच्या मंथनाच्या वेळी शिवाने जगाचा नाश करणारे विष आपल्या कंठात कसे धरले, त्याचे स्मरण करून देते. परंपरा सांगते की म्हैसूरचे राजे व नंतर टिपू सुलतान यांनीही येथे अर्पणे केली; देवाने त्याच्या आजारी हत्तीला बरे केले असे मानले गेल्यावर कृतज्ञतेने टिपूने एक पाचूची लिंग अर्पण केली.",
+    "festivals": "रथोत्सव, जेव्हा मोठमोठे मंदिररथ नगरातून ओढले जातात, हे सर्वांत भव्य प्रसंग असतात; त्याबरोबरच महाशिवरात्रीही साजरी होते. वर्षभर कपिलेचे तीर यात्रेकरूंनी भरून जाते.",
+    "experience": "नंजनगूड यात्रेकरूला एका संपूर्ण पवित्र नगराची अनुभूती देते — विशाल मंडप, नदीकाठचे ठिकाण आणि जगाच्या कल्याणासाठी विष प्राशन करणाऱ्या देवाचे सान्निध्य."
   },
   "visit": {
-    "timings": "Open daily with morning and evening worship and a midday break; the car festival and Maha Shivaratri are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Nanjangud lies on the Kapila river in Mysuru district of Karnataka, a short way south of Mysuru by road and rail, with its own railway station."
+    "timings": "दररोज सकाळ व संध्याकाळच्या पूजेसह व मध्यान्हीच्या विश्रांतीसह उघडे; रथोत्सव व महाशिवरात्रीला सर्वाधिक गर्दी असते. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "नंजनगूड कर्नाटकातील म्हैसूर जिल्ह्यात कपिला नदीच्या तीरावर, म्हैसूरच्या दक्षिणेस रस्ते व रेल्वेने अल्प अंतरावर आहे; त्याचे स्वतःचे रेल्वे स्थानक आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/nanjangud-srikanteshwara.jpg",
     "color": "#5C3A2E",
-    "alt": "Srikanteshwara Temple, Nanjangud",
+    "alt": "श्रीकंठेश्वर मंदिर, नंजनगूड",
     "credit": "Dineshkannambadi / Wikimedia Commons (CC BY-SA 3.0) · A.Murali / Wikimedia Commons (CC0)",
     "sources": {
       "avif": "https://media.dsquaregee.com/heroes/nanjangud-srikanteshwara.avif",

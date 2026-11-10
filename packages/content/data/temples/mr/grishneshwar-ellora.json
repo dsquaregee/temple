@@ -1,30 +1,37 @@
 {
   "id": "grishneshwar-ellora",
   "locale": "mr",
+  "name": "घृष्णेश्वर मंदिर, वेरुळ",
   "nativeName": "श्री घृष्णेश्वर ज्योतिर्लिंग मंदिर",
+  "deity": "शिव घृष्णेश्वर (घुश्मेश्वर) रूपात, भक्त घुश्मेचा स्वामी — बारा ज्योतिर्लिंगांपैकी शेवटचे",
+  "tradition": "शैव",
   "location": {
-    "city": "Verul (Ellora)",
-    "state": "Maharashtra",
+    "city": "वेरुळ (एलोरा)",
+    "state": "महाराष्ट्र",
     "lat": 20.025,
     "lng": 75.1699
   },
+  "period": "एलोऱ्याजवळील प्राचीन ज्योतिर्लिंग; भोसले यांनी जीर्णोद्धार केला आणि अठराव्या शतकात अहिल्याबाई होळकर यांनी सध्याच्या रूपात पुन्हा बांधले",
   "century": 18,
+  "dynasty": "मराठा (भोसले जीर्णोद्धार; होळकर पुनर्निर्माण)",
+  "style": "नागर, मराठा वैशिष्ट्यांसह",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "एलोरा लेण्यांपासून थोड्या अंतरावर, वेरुळ गावातील लाल दगडाचे घृष्णेश्वर मंदिर त्या शिवाचा सन्मान करते जो एका मातेच्या अढळ श्रद्धेसाठी येथे राहिला — बारा ज्योतिर्लिंगांपैकी बारावे आणि शेवटचे.",
   "sections": {
-    "history": "Grishneshwar stands in the village of Verul, about a kilometre and a half from the rock-cut caves of Ellora and some 30 km from Chhatrapati Sambhajinagar. The Dvadasha Jyotirlinga Stotram closes its roll of the twelve Jyotirlingas with \"Ghushmesha in Shivalaya\", and this is the shrine it names. The temple was restored in the age of Maloji Bhosale, grandfather of Chhatrapati Shivaji, and an inscription within names members of the Bhosale family. Its present form is owed to Ahilyabai Holkar, the queen of Indore who renewed many of India's great shrines in the eighteenth century. The temple is protected by the Archaeological Survey of India and remains in full worship.",
-    "architecture": "The temple rises from a rectangular platform, its walls built of red basalt as far as the entablature and its spire of brick and stucco above. It belongs to the Nagara family with the touches of the Maratha builders: the stone is densely carved with deities, scenes and ornament, and a pillared hall leads to the sanctum, where the Jyotirlinga rests. Near the temple lies the Shivalaya tank, which tradition links with the shrine's legend.",
-    "legends": "The legend is of Ghushma, also called Kusuma, a devout woman who each day shaped one hundred and one lingas of clay, worshipped them and immersed them in a tank. Her son was killed by a jealous kinswoman and his body cast into that same water. Ghushma did not break her worship; as she went to immerse the lingas, the boy rose alive from the tank. Shiva appeared, and at Ghushma's plea forgave the one who had wronged her and remained here as Ghushmeshwar, lord of Ghushma.",
-    "festivals": "Maha Shivaratri is the chief festival, with worship through the night and long queues of pilgrims from across the Deccan. The Mondays of Shravan are kept with abhisheka and special decoration, and the month of Kartik brings lamps and further worship. Confirm dates locally.",
-    "experience": "Grishneshwar is an intimate shrine after the grandeur of Ellora, and many pilgrims visit both on the same day. By local custom, men remove their shirts or vests before entering the sanctum, and devotees can often offer worship close to the Jyotirlinga. Afterwards, a walk to the Shivalaya tank recalls Ghushma's daily offering."
+    "history": "घृष्णेश्वर वेरुळ गावात, एलोऱ्याच्या खडकात कोरलेल्या लेण्यांपासून सुमारे दीड किलोमीटरवर आणि छत्रपती संभाजीनगरपासून सुमारे ३० कि.मी. अंतरावर उभे आहे. द्वादश ज्योतिर्लिंग स्तोत्र बारा ज्योतिर्लिंगांची आपली यादी \"शिवालयात घुश्मेश\" या शब्दांनी संपवते, आणि हेच ते क्षेत्र आहे. छत्रपती शिवाजी महाराजांचे आजोबा मालोजी भोसले यांच्या काळात या मंदिराचा जीर्णोद्धार झाला आणि आतील एका शिलालेखात भोसले कुटुंबातील सदस्यांची नावे आहेत. त्याचे सध्याचे रूप इंदूरच्या राणी अहिल्याबाई होळकर यांच्यामुळे आहे, ज्यांनी अठराव्या शतकात भारतातील अनेक महान तीर्थक्षेत्रांचे नूतनीकरण केले. हे मंदिर भारतीय पुरातत्त्व सर्वेक्षणाच्या संरक्षणाखाली आहे आणि येथे पूर्ण पूजाअर्चा चालू आहे.",
+    "architecture": "मंदिर आयताकृती अधिष्ठानावर उभे आहे; त्याच्या भिंती उत्तरांगापर्यंत लाल बेसॉल्टच्या असून वरील शिखर वीट आणि चुन्याच्या गिलाव्याचे आहे. हे मराठा बांधकाम करणाऱ्यांच्या वैशिष्ट्यांसह नागर कुळातील आहे: दगडावर देवता, दृश्ये आणि अलंकरण दाटपणे कोरलेले आहे, आणि स्तंभयुक्त सभामंडपातून गर्भगृहात जाता येते, जेथे ज्योतिर्लिंग विराजमान आहे. मंदिराजवळ शिवालय तलाव आहे, ज्याचा संबंध परंपरा या क्षेत्राच्या आख्यायिकेशी जोडते.",
+    "legends": "ही आख्यायिका घुश्मेची आहे, जिला कुसुमा असेही म्हणतात; ती एक भक्तिमती स्त्री होती जी रोज मातीची एकशे एक शिवलिंगे बनवी, त्यांची पूजा करी आणि ती तलावात विसर्जित करी. एका मत्सरी नातलग स्त्रीने तिच्या पुत्राचा वध केला आणि त्याचे शरीर त्याच पाण्यात फेकले. घुश्मेने आपली उपासना खंडित केली नाही; ती लिंगे विसर्जित करायला गेली असता तो मुलगा तलावातून जिवंत वर आला. शिव प्रकट झाले, आणि घुश्मेच्या विनंतीवरून त्यांनी तिच्यावर अन्याय करणाऱ्या स्त्रीला क्षमा केली आणि घुश्मेश्वर, घुश्मेचा स्वामी, म्हणून येथेच राहिले.",
+    "festivals": "महाशिवरात्र हा मुख्य उत्सव असून त्यावेळी रात्रभर पूजा चालते आणि दख्खनमधून आलेल्या यात्रेकरूंच्या लांब रांगा लागतात. श्रावणातील सोमवार अभिषेक आणि विशेष सजावटीने पाळले जातात, आणि कार्तिक महिना दिवे आणि आणखी पूजा घेऊन येतो. तारखा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "experience": "एलोऱ्याच्या भव्यतेनंतर घृष्णेश्वर हे जिव्हाळ्याचे देऊळ आहे, आणि अनेक यात्रेकरू एकाच दिवशी दोन्हींना भेट देतात. स्थानिक रीतीनुसार पुरुष गर्भगृहात प्रवेश करण्यापूर्वी आपले शर्ट किंवा बनियन काढतात, आणि भक्तांना अनेकदा ज्योतिर्लिंगाच्या जवळ उपासना करता येते. त्यानंतर शिवालय तलावाकडे केलेली फेरी घुश्मेच्या दैनंदिन अर्पणाची आठवण करून देते."
   },
   "visit": {
-    "timings": "Open daily from early morning to night, with aartis through the day; Maha Shivaratri and Shravan Mondays are very busy. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. By custom, men remove shirts or vests before entering the sanctum; follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; follow the posted rules and staff guidance.",
-    "gettingThere": "Verul lies about 30 km north-west of Chhatrapati Sambhajinagar (formerly Aurangabad), on the road to the Ellora caves, which are about 1.5 km from the temple. Chhatrapati Sambhajinagar has the nearest railway station and airport."
+    "timings": "दररोज पहाटेपासून रात्रीपर्यंत उघडे असते, दिवसभर आरत्या होतात; महाशिवरात्र आणि श्रावणी सोमवारी अत्यंत गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले असावेत; प्रवेश करण्यापूर्वी पादत्राणे काढावीत. रीतीनुसार पुरुष गर्भगृहात जाण्यापूर्वी शर्ट किंवा बनियन काढतात; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहाच्या आत छायाचित्रणास परवानगी नाही; लावलेले नियम आणि कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "वेरुळ छत्रपती संभाजीनगरपासून (पूर्वीचे औरंगाबाद) सुमारे ३० कि.मी. वायव्येस, एलोरा लेण्यांकडे जाणाऱ्या रस्त्यावर आहे; ती लेणी मंदिरापासून सुमारे १.५ कि.मी. अंतरावर आहेत. छत्रपती संभाजीनगर येथे सर्वांत जवळचे रेल्वे स्थानक आणि विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/grishneshwar-ellora.jpg",

@@ -1,30 +1,37 @@
 {
   "id": "koodalmanikyam-irinjalakuda",
   "locale": "mr",
+  "name": "कूडलमाणिक्यम मंदिर, इरिंजालकुडा",
   "nativeName": "കൂടൽമാണിക്യം ക്ഷേത്രം",
+  "deity": "रामाचा बंधू भरत, कूडलमाणिक्यस्वामी (संगमेश्वर) म्हणून पूजिला जाणारा, विष्णूचे एक रूप",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Irinjalakuda",
-    "state": "Kerala",
+    "city": "इरिंजालकुडा",
+    "state": "केरळ",
     "lat": 10.3467,
     "lng": 76.2011
   },
+  "period": "इसवी सनाच्या नवव्या शतकाच्या मध्यातील चेर पेरुमाळ शिलालेखांनी प्रमाणित",
   "century": 9,
+  "dynasty": "महोदयपुरमचे चेर पेरुमाळ; पुढे केरळचे आश्रयदाते",
+  "style": "पारंपरिक केरळ",
   "unesco": false,
   "circuits": [
     "nalambalam"
   ],
+  "summary": "इरिंजालकुडाचे कूडलमाणिक्यम हे रामाचा निष्ठावान बंधू भरत याचे एक दुर्मिळ महान मंदिर आहे — एकाच देवतेचे देवस्थान, नवव्या शतकातील चेर शिलालेखात नोंदलेले आणि दीर्घकाळ कूडियाट्टमचे माहेर.",
   "sections": {
-    "history": "Koodalmanikyam is one of the very few temples in India dedicated to Bharata, the brother who ruled Ayodhya in Rama's name with Rama's sandals upon the throne. Its antiquity is firmly attested: a stone inscription of the Chera Perumal king Sthanu Ravi Kulasekhara, dated 854–55 CE, records the grant of extensive lands to the temple, and further inscriptions of his reign survive here — evidence that the shrine was already well established by then. Over the centuries Koodalmanikyam held great estates around Irinjalakuda, and the town grew up about it. In tradition it is the second of the four Nalambalam temples, whose images the chieftain Vakkayil Kaimal installed after they were found in the sea. The temple is administered today by the Koodalmanikyam Devaswom.",
-    "architecture": "The temple is a broad Kerala precinct of sloping tiled and copper roofs, its sanctum standing within an unusually spacious courtyard. Inside the walls lies the Kulipini Theertham, a sacred tank whose water serves the temple's rites, and further ponds lie around the precinct. The great koothambalam, the temple theatre, is among the finest in Kerala, a tall pillared hall built for the ancient Sanskrit drama of Koodiyattam. Most striking is what is absent: Koodalmanikyam enshrines a single deity, with no subsidiary shrines at all — not even the Ganapati found in almost every Kerala temple.",
-    "legends": "The sthala tradition tells of the sage Kulipini and his fellow rishis, who performed a great sacrifice here; the Lord appeared, the waters of the Ganga welled up from the earth, and the sages merged into him. The Ganga, devotees believe, still dwells in the Kulipini Theertham. The temple's name comes from a later wonder. A gem was brought from the ruler of Kayamkulam to compare with the radiance glowing on the deity's image; held up beside it, the stone slipped away and merged into the idol. From this merging — koodal — of the manikyam, the jewel, the Lord came to be called Koodalmanikyam.",
-    "festivals": "The ten-day Utsavam in Medam (April–May) opens with the flag-hoisting on the Uthram asterism, the day after the Thrissur Pooram. Seventeen caparisoned elephants carry out the twice-daily seeveli to the beat of panchari melam, and the festival closes with the arattu, the Lord's ritual bath in a river. In Karkidakam (July–August), Nalambalam pilgrims come here second, after Triprayar. Confirm dates locally.",
-    "experience": "Koodalmanikyam rewards an unhurried visit. Worship here is notably austere — no lamp-waving deepa-aradhana and only three pujas a day — and the single sanctum lends the vast courtyard a rare stillness. Pause beside the Kulipini Theertham, and if the koothambalam is in use, stay for Koodiyattam, the drama that masters of the Chakyar families have performed on this stage for generations; the temple has long nurtured Kathakali and Thullal as well."
+    "history": "रामाच्या नावाने आणि सिंहासनावर रामाच्या पादुका ठेवून अयोध्येवर राज्य करणाऱ्या भरताला समर्पित असलेल्या भारतातील मोजक्या मंदिरांपैकी कूडलमाणिक्यम एक आहे. याचे प्राचीनत्व दृढपणे प्रमाणित आहे: चेर पेरुमाळ राजा स्थाणु रवि कुलशेखर याचा इसवी सन ८५४–५५ मधील दगडी शिलालेख मंदिराला विपुल जमिनी दिल्याची नोंद करतो, आणि त्याच्या कारकिर्दीतील आणखी शिलालेख येथे टिकून आहेत — तोपर्यंत हे देवस्थान प्रस्थापित झाले होते याचा पुरावा. शतकानुशतके कूडलमाणिक्यमकडे इरिंजालकुडाभोवती मोठ्या जहागिऱ्या होत्या, आणि नगर त्याच्याभोवतीच वाढले. परंपरेनुसार हे चार नालंबलम मंदिरांपैकी दुसरे आहे, ज्यांच्या मूर्ती समुद्रात सापडल्यावर सरदार वक्कयिल कैमळ यांनी प्रतिष्ठापित केल्या. आज मंदिराचे व्यवस्थापन कूडलमाणिक्यम देवस्वोम करते.",
+    "architecture": "मंदिर हे उतरत्या कौलारू व तांब्याच्या छपरांचे एक विस्तीर्ण केरळी संकुल आहे, ज्याचे गर्भगृह असामान्यपणे प्रशस्त प्रांगणात उभे आहे. तटबंदीच्या आत कुलिपिनी तीर्थम् हे पवित्र तळे आहे, ज्याचे पाणी मंदिराच्या विधींसाठी वापरले जाते, आणि संकुलाभोवती आणखी तळी आहेत. मंदिराचे नाट्यगृह असलेले भव्य कूत्तंबलम केरळातील सर्वोत्तमांपैकी एक आहे, प्राचीन संस्कृत नाट्य कूडियाट्टमसाठी बांधलेला उंच स्तंभयुक्त सभामंडप. सर्वांत लक्षवेधी म्हणजे जे येथे नाही ते: कूडलमाणिक्यम एकाच देवतेची प्रतिष्ठापना करते, कोणतीही उपदेवस्थाने नाहीत — जवळजवळ प्रत्येक केरळी मंदिरात आढळणारा गणपतीदेखील नाही.",
+    "legends": "स्थलपरंपरा कुलिपिनी ऋषी आणि त्यांच्या सहऋषींची कथा सांगते, ज्यांनी येथे महान यज्ञ केला; स्वामी प्रकट झाले, पृथ्वीतून गंगेचे जल उसळले, आणि ऋषी त्यांच्यात विलीन झाले. भक्तांच्या श्रद्धेनुसार गंगा आजही कुलिपिनी तीर्थमध्ये वास करते. मंदिराचे नाव नंतरच्या एका चमत्कारावरून आले. कायमकुलमच्या शासकाकडून एक रत्न आणले गेले, देवतेच्या मूर्तीवर झळकणाऱ्या तेजाशी तुलना करण्यासाठी; ते तिच्या शेजारी धरताच ते खडे निसटून मूर्तीत विलीन झाले. माणिक्यम, म्हणजे रत्न, याच्या या विलीन होण्यावरून — कूडल — स्वामी कूडलमाणिक्यम म्हणून ओळखला जाऊ लागला.",
+    "festivals": "मेडम (एप्रिल–मे) मधील दहा दिवसांचा उत्सवम् थ्रिसूर पूरमच्या दुसऱ्या दिवशी, उथ्रम नक्षत्रावर ध्वजारोहणाने सुरू होतो. सतरा सजवलेले हत्ती पंचारी मेळमच्या तालावर दिवसातून दोनदा सीवेली काढतात, आणि उत्सवाची सांगता आराट्टूने होते, म्हणजे स्वामींच्या नदीतील विधिस्नानाने. कर्किडकम (जुलै–ऑगस्ट) मध्ये नालंबलम यात्रेकरू त्रिप्रयारनंतर दुसरे येथे येतात. तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "कूडलमाणिक्यमची भेट निवांतपणे घेतल्यास फलदायी ठरते. येथील पूजा विशेषतः साधी आहे — दिव्यांची आरती नाही आणि दिवसातून केवळ तीन पूजा — आणि एकच गर्भगृह असल्याने विशाल प्रांगणाला दुर्मिळ शांतता लाभते. कुलिपिनी तीर्थमजवळ थांबा, आणि कूत्तंबलम वापरात असल्यास कूडियाट्टम पाहण्यासाठी थांबा, हे नाट्य चाक्यार कुटुंबांतील गुरू पिढ्यानपिढ्या या रंगमंचावर सादर करत आले आहेत; मंदिराने कथकळी आणि तुळ्ळलचेही दीर्घकाळ संगोपन केले आहे."
   },
   "visit": {
-    "timings": "Open daily in the morning and the evening, with a midday closure; hours change during the Utsavam and in Karkidakam. Confirm timings locally.",
-    "dressCode": "Traditional Kerala temple dress applies: men wear a mundu (dhoti) and remove their shirts before entering; women wear a saree, set-mundu or churidar. Entry is generally reserved for Hindus, per Kerala custom.",
-    "photography": "Photography is not permitted inside the temple; the outer precinct and the town may be photographed.",
-    "gettingThere": "The temple stands in the centre of Irinjalakuda town in Thrissur district, about 22 km south of Thrissur. Irinjalakuda railway station, at Kallettumkara, is about 8 km east of the town, and Kochi international airport is roughly 40 km away by road."
+    "timings": "दररोज सकाळ व संध्याकाळी उघडे, मध्यान्हीला बंद; उत्सवम् आणि कर्किडकम काळात वेळा बदलतात. वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "पारंपरिक केरळी मंदिर पोशाख लागू आहे: पुरुष मुंडू (धोतर) नेसतात आणि प्रवेशापूर्वी सदरा काढतात; स्त्रिया साडी, सेट-मुंडू किंवा चुडीदार घालतात. केरळच्या प्रथेनुसार प्रवेश सामान्यतः हिंदूंसाठी राखीव आहे.",
+    "photography": "मंदिराच्या आत छायाचित्रणास परवानगी नाही; बाहेरील आवार आणि नगराचे छायाचित्रण करता येते.",
+    "gettingThere": "मंदिर थ्रिसूर जिल्ह्यातील इरिंजालकुडा नगराच्या मध्यभागी, थ्रिसूरच्या सुमारे २२ किमी दक्षिणेला आहे. कल्लेट्टुमकर येथील इरिंजालकुडा रेल्वे स्थानक नगराच्या सुमारे ८ किमी पूर्वेला आहे, आणि कोची आंतरराष्ट्रीय विमानतळ रस्त्याने सुमारे ४० किमी अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/koodalmanikyam-irinjalakuda.jpg",

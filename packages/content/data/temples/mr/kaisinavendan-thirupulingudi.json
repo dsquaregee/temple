@@ -1,30 +1,37 @@
 {
   "id": "kaisinavendan-thirupulingudi",
   "locale": "mr",
+  "name": "कैसिनवेंदन पेरुमाळ मंदिर, तिरुप्पुळिंगुडी",
   "nativeName": "கைசினவேந்தன் பெருமாள் கோயில், திருப்புளிங்குடி",
+  "deity": "विष्णू कैसिनवेंदन (भूमिपालन) रूपात, शयन मुद्रेत — नव तिरुपतींमधील बुध ग्रहाचे स्थान",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirupulingudi",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पुळिंगुडी",
+    "state": "तमिळनाडू",
     "lat": 8.6,
     "lng": 77.8
   },
+  "period": "ताम्रपर्णी नदीकाठी पांड्य देशातील दिव्य देसम, नम्माळवार यांनी नालायिर दिव्य प्रबंधम्‌मध्ये गायलेला",
   "century": 8,
+  "dynasty": "पांड्य (नंतरच्या भरांसह)",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "ताम्रपर्णी नदीकाठी तिरुप्पुळिंगुडी येथे विष्णू कैसिनवेंदन, पृथ्वीचा रक्षक, या रूपात शयन करतो — नव ग्रहांच्या नऊ तिरुपतींमधील बुधाचे स्थान, नम्माळवार यांनी गायलेला दिव्य देसम.",
   "sections": {
-    "history": "Thirupulingudi lies on the south bank of the Tamiraparani among the Tirupati villages, and its lord is Kaisina Vendan, worshipped in the reclining posture as Bhoomipalan, the protector of the earth. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of Mercury, Budha.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Kaisina Vendan in the reclining form, with the Goddess in her own shrine. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Thirupulingudi the planet is Mercury, Budha.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of Mercury, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "तिरुप्पुळिंगुडी हे ताम्रपर्णी नदीच्या दक्षिण तीरावर तिरुपति गावांमध्ये वसलेले आहे, आणि येथील देव कैसिनवेंदन हे पृथ्वीचा रक्षक भूमिपालन या रूपात शयन मुद्रेत पूजले जातात. आळवार संतांनी नालायिर दिव्य प्रबंधम्‌मध्ये गायलेल्या विष्णूच्या १०८ दिव्य देसमांपैकी हे एक आहे, आणि ताम्रपर्णीच्या नऊ मंदिरांच्या नव तिरुपतींपैकी एक — ज्यातील प्रत्येक वैष्णवांचे एकेक ग्रह-स्थान मानले जाते. नव तिरुपतींमध्ये हे बुध ग्रहाचे स्थान म्हणून मान्यता पावलेले आहे.",
+    "architecture": "पांड्य देशाच्या आणि त्याच्या नंतरच्या आश्रयदात्यांच्या द्राविड शैलीत बांधलेले हे मंदिर गोपुर द्वारातून प्रवेश करून मुख्य विष्णूच्या गाभाऱ्याभोवती रचलेले आहे, देवी आपल्या स्वतंत्र गाभाऱ्यात आहे. येथे देव कैसिनवेंदन शयन रूपात पूजला जातो, देवी आपल्या स्वतंत्र गाभाऱ्यात. गाभाऱ्यासमोर स्तंभयुक्त मंडप पसरलेले आहेत, जे दक्षिणेकडील मंदिर परंपरेचे वैशिष्ट्य आहे.",
+    "legends": "नव तिरुपति वैष्णवांच्या नऊ ग्रह-स्थानांच्या रूपात एकत्र पूजल्या जातात: कावेरीच्या शैव परंपरेत जिथे नऊ स्वतंत्र नवग्रह मंदिरे आहेत, तिथे येथे नऊ ग्रह ताम्रपर्णीवरील विष्णूच्या नऊ धामांमध्ये पूजले जातात, जे सर्व आळवारांमधील श्रेष्ठ नम्माळवार यांनी गायले आहेत, आणि त्यांचे जन्मस्थान आळवारतिरुनगरी हेही त्यांमध्येच आहे. तिरुप्पुळिंगुडी येथे ग्रह बुध आहे.",
+    "festivals": "मंदिरात मोठे वैष्णव उत्सव — वैकुंठ एकादशी, जेव्हा नऊ देव एकाच फेरीत पूजले जातात ती गरुड सेवा, आणि नम्माळवार व आळवारांचे दिवस — नदीकाठच्या गावांतून मिरवणुकांसह साजरे होतात. ताम्रपर्णीचे स्वतःचे उत्सव आसपासच्या प्रदेशाला आकर्षित करतात.",
+    "experience": "नऊंमधील एक शांत नदीकाठचा दिव्य देसम, जो ताम्रपर्णीचा मागोवा घेत एका तिरुपतीकडून दुसरीकडे जाणाऱ्या यात्रेकरूंसाठी फलदायी आहे. बुध ग्रहाचे स्थान म्हणून, नऊ ग्रहांना विष्णूच्या धामांमध्ये एकत्र आणणाऱ्या नव तिरुपतीच्या एकाच यात्रेत त्याचे स्थान आहे."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन सत्रांसह उघडे, दुपारी बंद; गरुड सेवा आणि वैकुंठ एकादशीचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गाभाऱ्यात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "हे तिरुनेलवेली–तूतुकुडी प्रदेशात ताम्रपर्णीकाठी, तिरुनेलवेली–तिरुचेंदूर मार्गावर आहे, तिरुनेलवेलीहून रस्त्याने पोहोचता येते; नऊ तिरुपति गावे नदीकाठी एकमेकांजवळ वसलेली आहेत."
   }
 }

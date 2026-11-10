@@ -1,29 +1,36 @@
 {
   "id": "metraleeswarar-kanchipuram",
   "locale": "mr",
+  "name": "मेट्रळीश्वरर मंदिर, कांचीपुरम",
   "nativeName": "மேற்றளீஸ்வரர் கோயில்",
+  "deity": "मेट्रळीश्वरर (मेट्रळिनाथर) रूपातील शिव, देवी मेट्रळनायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.843,
     "lng": 79.703
   },
+  "period": "तेवारममध्ये (सातवे शतक) गायिलेले कांचीपुरमचे प्राचीन शिवमंदिर; नंतरच्या भरीसह दगडी बांधकामाचे मंदिर",
   "century": 7,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (पल्लव आणि नंतरचा चोळ काळ)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मेट्रळीश्वरर, तेवारम स्तोत्रांतील तिरुमेट्रळी, हे कांचीपुरम या मंदिरनगरीतील प्राचीन शिवमंदिरांपैकी एक आहे; पश्चिमाभिमुख गर्भगृहासाठी ते स्मरले जाते — कारण परंपरेनुसार बालसंत संबंधर यांची स्तोत्रे ऐकण्यासाठी प्रभू पश्चिमेकडे वळले.",
   "sections": {
-    "history": "Kanchipuram, one of the seven sacred cities of the Hindu tradition and long a capital of the Tamil country, holds a great company of ancient shrines, and Metraleeswarar is among those sung by the Tevaram saints and so counted a Paadal Petra Sthalam. In the hymns the shrine is called Thirumetrali. Tradition explains the name from the direction the Lord faces: as Shiva is said to have turned to the west — merku in Tamil — to listen to the songs of the child-saint Sambandar, the place became Thirumetrali and the deity Metralinathar, the Lord of the western shrine. The temple stands in the Pillayarpalayam quarter of the old city, raised and maintained in stone across the centuries and kept in worship to this day under the state endowments board.",
-    "architecture": "Unusually among Shiva temples, the sanctum of Metraleeswarar faces west, holding the Lord in the form of a granite linga. The eastern gateway rises as a three-tiered rajagopuram. Within the enclosure the goddess, honoured here as Metralanayagi, is given her own shrine — a notable feature in Kanchipuram, where tradition holds Kamakshi to be the common Mother Goddess of the city's Shiva temples. The walls and niches carry the attendant forms of a Dravidian shrine, and the temple keeps the compact, self-contained plan of the older sanctuaries of the city.",
-    "legends": "The temple's defining story is woven into its very name. When the child-saint Sambandar came to Kanchi and sang before the Lord, Shiva is said to have turned westward to hear the hymns, and from that turning the shrine took the name Thirumetrali. A second tradition tells of Vishnu, who performed penance here and, melting at the power of the sacred songs, took the form of a linga — remembered in the name Odavurugeeswarar, the Lord who melted and flowed. Such legends bind the shrine to the oldest devotional memory of the Tamil land, with the saints and their hymns at the centre of its sanctity.",
-    "festivals": "The temple keeps the festivals of the Shaiva calendar, with the Gurupuja of Thirugnana Sambandar and Panguni Uthiram in March or April among the most prominent. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. The dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "A visit to Metraleeswarar is a quiet one, away from the great crowds that gather at Kanchipuram's largest shrines. Enter beneath the eastern tower, come before the west-facing sanctum of the Lord, and turn to the goddess Metralanayagi in her own shrine. The temple sits within the lanes of the old city, close to other ancient sanctuaries, and rewards the pilgrim who walks Kanchi shrine by shrine."
+    "history": "कांचीपुरम, हिंदू परंपरेतील सात पवित्र नगरांपैकी एक आणि दीर्घकाळ तमिळ प्रदेशाची राजधानी, प्राचीन मंदिरांचा मोठा समूह राखून आहे, आणि मेट्रळीश्वरर हे तेवारम संतांनी गायिलेल्या मंदिरांपैकी असल्याने पाडल पेट्र स्थळम् मानले जाते. स्तोत्रांत या मंदिराला तिरुमेट्रळी म्हटले आहे. प्रभू ज्या दिशेकडे तोंड करून आहेत त्यावरून परंपरा नावाचे स्पष्टीकरण देते: बालसंत संबंधर यांची गीते ऐकण्यासाठी शिव पश्चिमेकडे — तमिळमध्ये मेर्कु — वळले असे म्हटले जाते, म्हणून हे स्थान तिरुमेट्रळी आणि देवता मेट्रळिनाथर, म्हणजे पश्चिमेकडील मंदिराचे स्वामी, झाली. हे मंदिर जुन्या नगरातील पिल्लैयारपाळयम भागात उभे असून शतकानुशतके दगडात उभारले व जतन केले गेले आहे, आणि आजही राज्याच्या देवस्थान मंडळाच्या अधिपत्याखाली उपासनेत आहे.",
+    "architecture": "शिवमंदिरांमध्ये असामान्यपणे मेट्रळीश्वररांचे गर्भगृह पश्चिमाभिमुख असून त्यात प्रभू ग्रॅनाइटच्या शिवलिंग रूपात विराजमान आहेत. पूर्वेकडील प्रवेशद्वार तीन मजली राजगोपुर म्हणून उभे आहे. प्राकारात येथे मेट्रळनायकी म्हणून पूजल्या जाणाऱ्या देवीला स्वतंत्र मंदिर आहे — कांचीपुरममध्ये हे एक लक्षणीय वैशिष्ट्य आहे, जेथे परंपरेनुसार कामाक्षी ही नगराच्या शिवमंदिरांची समाईक माता देवी मानली जाते. भिंती आणि कोनाडे द्रविड मंदिराची परिवार रूपे धारण करतात, आणि मंदिर नगरातील जुन्या मंदिरांचा संक्षिप्त, स्वयंपूर्ण आराखडा राखून आहे.",
+    "legends": "मंदिराची निर्णायक कथा त्याच्या नावातच गुंफलेली आहे. बालसंत संबंधर कांचीला आले आणि त्यांनी प्रभूसमोर गायन केले, तेव्हा शिव ती स्तोत्रे ऐकण्यासाठी पश्चिमेकडे वळले असे म्हटले जाते, आणि त्या वळण्यावरून मंदिराला तिरुमेट्रळी हे नाव मिळाले. दुसरी परंपरा विष्णूविषयी सांगते, ज्यांनी येथे तपश्चर्या केली आणि पवित्र गीतांच्या सामर्थ्याने विरघळून शिवलिंगाचे रूप घेतले — ओडवुरुगीश्वरर, म्हणजे विरघळून वाहिलेले प्रभू, या नावात हे स्मरले जाते. अशा कथा या मंदिराला तमिळ भूमीच्या सर्वांत प्राचीन भक्तिस्मृतीशी बांधतात, ज्यात संत आणि त्यांची स्तोत्रे त्याच्या पावित्र्याच्या केंद्रस्थानी आहेत.",
+    "festivals": "मंदिर शैव पंचांगातील उत्सव पाळते, ज्यांत तिरुज्ञानसंबंधर यांची गुरुपूजा आणि मार्च–एप्रिलमधील पंगुनि उत्तिरम् हे सर्वांत प्रमुख आहेत. महाशिवरात्री आणि मासिक प्रदोषम् हे प्रत्येक शिवमंदिराप्रमाणे येथे पाळले जातात. तारखा तमिळ पंचांगानुसार ठरतात, म्हणून स्थानिक ठिकाणी खात्री करून घ्या.",
+    "experience": "मेट्रळीश्वररांना भेट ही शांत असते, कांचीपुरमच्या सर्वांत मोठ्या मंदिरांत जमणाऱ्या प्रचंड गर्दीपासून दूर. पूर्वेकडील मनोऱ्याखालून आत या, प्रभूंच्या पश्चिमाभिमुख गर्भगृहासमोर उभे राहा, आणि देवी मेट्रळनायकीकडे तिच्या स्वतंत्र मंदिरात वळा. हे मंदिर जुन्या नगराच्या गल्ल्यांत, इतर प्राचीन मंदिरांच्या जवळ आहे, आणि कांचीची एकेक मंदिर करत यात्रा करणाऱ्या यात्रेकरूला समाधान देते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "The temple stands in the Pillayarpalayam area of Kanchipuram, in the north of the old city. Kanchipuram is well connected by rail and road and lies about 75 km from Chennai, whose international airport is the nearest. Local buses and autos reach the quarter, and the temple is a short walk within the lanes."
+    "timings": "सामान्यतः सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत, दुपारच्या विश्रांतीसह उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक ठिकाणी खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा विजार, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाहेरील प्रदक्षिणा-मार्ग आणि प्रांगणांत सामान्यतः छायाचित्रणाची परवानगी असते, पण आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "मंदिर कांचीपुरमच्या जुन्या नगराच्या उत्तरेकडील पिल्लैयारपाळयम भागात उभे आहे. कांचीपुरम रेल्वे आणि रस्त्याने उत्तम जोडलेले असून चेन्नईपासून सुमारे ७५ किमी अंतरावर आहे, ज्याचे आंतरराष्ट्रीय विमानतळ सर्वांत जवळचे आहे. स्थानिक बस आणि ऑटो या भागापर्यंत जातात, आणि मंदिर गल्ल्यांतून थोड्या पायी अंतरावर आहे."
   }
 }

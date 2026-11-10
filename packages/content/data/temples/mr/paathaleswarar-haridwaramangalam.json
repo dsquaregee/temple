@@ -1,29 +1,36 @@
 {
   "id": "paathaleswarar-haridwaramangalam",
   "locale": "mr",
+  "name": "पाताळेश्वरर मंदिर, हरिद्वारमंगलम (तिरुअरदैपेरुम्पाळी)",
   "nativeName": "திருஅரதைப்பெரும்பாழி பாதாளேஸ்வரர் கோயில்",
+  "deity": "पाताळेश्वरर (पाताळलोकाचा स्वामी) रूपातील शिव, देवी अलंकारवल्ली यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळ (पंच अरण्य क्षेत्रम)",
   "location": {
-    "city": "Haridwaramangalam, near Alangudi",
-    "state": "Tamil Nadu",
+    "city": "हरिद्वारमंगलम, आलंगुडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.8317,
     "lng": 79.3508
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायलेले); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "आलंगुडीजवळील हरिद्वारमंगलम, तेवारममधील तिरुअरदैपेरुम्पाळी, शिवाला पाताळेश्वरर — पाताळलोकाचा स्वामी — म्हणून, देवी अलंकारवल्लीसह, पूजते. तिरुज्ञान संबंधर यांनी गायलेले हे पाडल पेट्र स्थळ आणि पंच अरण्य वनदेवस्थानांपैकी एक आहे; त्याची खेळकर कथा सांगते की विवाहापूर्वी शिव पाताळात लपले आणि विष्णूंनी त्यांना शोधण्यासाठी पाताळाचे द्वार उघडले — यावरून गावाला नाव मिळाले.",
   "sections": {
-    "history": "Haridwaramangalam, whose Tevaram name is Tiruaradaiperumpazhi, lies about 10 km west of Alangudi in the Valangaiman taluk of Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and is also counted among the Pancha Aranya Kshetrams, the five forest shrines of the Kumbakonam country, as the Vanni vanam. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Paathaleswarar — 'lord of Patala, the netherworld' — in the sanctum, with the goddess Alankaravalli in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the vanni (shami) tree, which gives the place its forest name. The temple is revered as a rina-vimochana sthalam, a place where worship is held to free devotees from debts.",
-    "legends": "The playful sthala legend tells that just before his wedding with Parvati, Shiva went into hiding underground, in Patala, in sport. The gods searched for the vanished bridegroom, and Vishnu — Hari — opened a door, a dwara, into the underworld to find him. From this deed the town takes its name, Haridwaramangalam, 'the auspicious place of Hari's door,' and the lord is called Paathaleswarar, lord of the netherworld. As a Pancha Aranya shrine of the vanni forest and a rina-vimochana sthalam, it is sought for relief from debts and burdens.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Devotees seeking release from debts, and pilgrims making the round of the Pancha Aranya forests, include Haridwaramangalam among their stops.",
-    "experience": "At Haridwaramangalam the pilgrim comes to a shrine of hidden grace, where Shiva once vanished into the earth in play and Vishnu opened a door to find him. Before Paathaleswarar and Alankaravalli, beneath the vanni of the forest shrine, the visitor feels the lightness of a divine game and the hope of release from every burden."
+    "history": "हरिद्वारमंगलम, ज्याचे तेवारममधील नाव तिरुअरदैपेरुम्पाळी आहे, तिरुवारूर जिल्ह्यातील वलंगैमान तालुक्यात आलंगुडीच्या सुमारे १० कि.मी. पश्चिमेस वसलेले आहे. हे तिरुज्ञान संबंधर यांनी तेवारममध्ये गायलेले पाडल पेट्र स्थळ आहे, आणि कुंभकोणम प्रदेशातील पाच वनदेवस्थानांपैकी, म्हणजे पंच अरण्य क्षेत्रांपैकी, वन्नी वनम म्हणूनही गणले जाते. दगडी मंदिर चोळकाळातील आणि त्यानंतरचे आहे.",
+    "architecture": "द्रविड शैलीतील त्रिभुज-प्रदेशातील हे मंदिर आहे; गर्भगृहात पाताळेश्वरर — 'पाताळाचा, म्हणजे अधोलोकाचा, स्वामी' — विराजमान आहे, देवी अलंकारवल्ली स्वतंत्र गर्भगृहात आहे, तसेच नंदी आणि परिवार देवता आहेत. स्थलवृक्ष वन्नी (शमी) वृक्ष आहे, ज्यावरून या स्थळाला त्याचे वनाचे नाव मिळाले. हे मंदिर ऋण-विमोचन स्थळ म्हणून पूजनीय आहे, म्हणजे जिथे उपासनेने भक्तांची कर्जातून मुक्तता होते असे मानले जाते.",
+    "legends": "खेळकर स्थळकथा सांगते की पार्वतीशी विवाहाच्या अगदी आधी शिव गंमत म्हणून भूमिगत, पाताळात, लपून बसले. देवांनी हरवलेल्या वराचा शोध घेतला, आणि विष्णू — हरी — यांनी त्यांना शोधण्यासाठी पाताळलोकाचे द्वार उघडले. या कृत्यावरून गावाचे नाव हरिद्वारमंगलम, 'हरीच्या द्वाराचे मंगल स्थान', पडले, आणि प्रभू पाताळेश्वरर, अधोलोकाचा स्वामी, म्हणून ओळखला जातो. वन्नी वनातील पंच अरण्य देवस्थान आणि ऋण-विमोचन स्थळ असल्याने कर्जांपासून व ओझ्यांपासून सुटका मिळावी म्हणून येथे येतात.",
+    "festivals": "मंदिर मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्र, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्र आणि कार्तिकैतील सोमवार, तसेच प्रदोष पूजा पाळते. कर्जमुक्ती शोधणारे भक्त आणि पंच अरण्य वनांची परिक्रमा करणारे यात्रेकरू हरिद्वारमंगलमचा आपल्या मुक्कामांत समावेश करतात.",
+    "experience": "हरिद्वारमंगलम येथे यात्रेकरू गुप्त कृपेच्या देवस्थानी येतो, जिथे शिव एकदा खेळकरपणे भूमीत अदृश्य झाले आणि विष्णूंनी त्यांना शोधण्यासाठी द्वार उघडले. वनदेवस्थानातील वन्नीच्या छायेत पाताळेश्वरर आणि अलंकारवल्लीसमोर उभे राहिल्यावर भाविकाला दिव्य खेळाची हलकीफुलकी अनुभूती आणि प्रत्येक ओझ्यापासून मुक्तीची आशा जाणवते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Haridwaramangalam is about 10 km west of Alangudi, in the Valangaiman taluk of Tiruvarur district (PIN 612802). Kumbakonam and Valangaiman are the nearest rail heads, with buses via Alangudi and local taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासाव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा मार्गांत छायाचित्रण सामान्यतः परवानगीयुक्त आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "हरिद्वारमंगलम तिरुवारूर जिल्ह्यातील वलंगैमान तालुक्यात आलंगुडीच्या सुमारे १० कि.मी. पश्चिमेस आहे (पिन कोड ६१२८०२). कुंभकोणम आणि वलंगैमान ही सर्वांत जवळची रेल्वे स्थानके आहेत; आलंगुडीमार्गे बस आणि गावापर्यंत स्थानिक टॅक्सी उपलब्ध आहेत."
   }
 }

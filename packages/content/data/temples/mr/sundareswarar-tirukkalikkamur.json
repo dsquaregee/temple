@@ -1,29 +1,36 @@
 {
   "id": "sundareswarar-tirukkalikkamur",
   "locale": "mr",
+  "name": "सुंदरेश्वर मंदिर, तिरुक्कलिक्कामूर",
   "nativeName": "திருக்கலிக்காமூர் சுந்தரேஸ்வரர் கோயில்",
+  "deity": "सुंदरेश्वर (विल्ववन नाथर) रूपातील शिव, देवी अळगम्मै यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Annappanpettai",
-    "state": "Tamil Nadu",
+    "city": "अण्णप्पन्पेट्टै",
+    "state": "तमिळनाडू",
     "lat": 11.17,
     "lng": 79.79
   },
+  "period": "कावेरीच्या उत्तर काठावरील प्राचीन शैव क्षेत्र, तेवारममध्ये गायलेले (सातवे शतक); चोळांच्या काळात दगडात पुनर्बांधलेले आणि नंतरच्या आश्रयदात्यांनी नूतनीकरण केलेले",
   "century": 7,
+  "dynasty": "चोळ (दगडी पुनर्बांधणी), नंतर मराठा नूतनीकरणासह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "अण्णप्पन्पेट्टै गावातील सुंदरेश्वर मंदिर हे तेवारममधील तिरुक्कलिक्कामूर आहे — चोळ नाडूमधील एक लहानसे, शांत क्षेत्र, जेथे पराशर ऋषींचे उपासनेतील स्मरण केले जाते आणि जेथे शिवाचा कठीण युगातील संकटे दूर करणारा प्रभू म्हणून सन्मान होतो.",
   "sections": {
-    "history": "Annappanpettai lies on the northern side of the Kaveri, in the country of old Chola Nadu not far from Sirkazhi. In the Tevaram hymns the place is called Tirukkalikkamur, and the child-saint Sambandar sang its Lord, which makes the temple a Paadal Petra Sthalam. The old name Kalikamur is explained by the faithful as the town where Shiva removes the hardships of the age of strife, the kali yuga. Local accounts speak of a very early foundation, of a rebuilding in stone under the Cholas around the tenth century, and of renovation by the Marathas in later times. These dates come from temple tradition rather than firm inscriptions, but the shrine itself has stayed in unbroken worship for well over a thousand years.",
-    "architecture": "This is a small and unassuming temple, and it makes no claim to grandeur. It has no towering rajagopuram and no flagstaff; instead the visitor enters beneath a graceful arch at the gateway. Within, the sanctum of Sundareswarar holds the Shiva linga, and the goddess Azhagammai is honoured in her own shrine. Ganesha is worshipped here as Selva Siddhi Vinayaka, the giver of prosperity and success. One detail that visitors remember is the group of Navagrahas, the nine planetary deities, who stand upright without the animal mounts that usually accompany them in other temples.",
-    "legends": "Tradition holds that the sage Parasara, the father of Vyasa, came to this place to worship Shiva, and that the Lord granted him his vision here. The sage is said to have asked the Lord to remain with the people of the place, and Shiva agreed, abiding as Sundareswarar, the beautiful lord. The countryside was once thick with vilva trees, the leaf most dear to Shiva, and from this the Lord is also called Vilvavana Nathar, the lord of the vilva forest. The very name of the town carries a gentler promise: that those who come here in trouble will find the weight of the age lifted from them.",
-    "festivals": "The temple keeps the rhythm of Shaiva worship through the year. Maha Shivaratri is observed with night-long worship, and the monthly Pradosham draws devotees in the evening hour sacred to Shiva. Utsavams follow the Tamil calendar and are celebrated by the villagers with simple devotion. Specific festival dates and processions are not recorded in the sources we could verify, so please confirm them locally, especially in the months of Masi and Panguni.",
-    "experience": "Come to Tirukkalikkamur for stillness rather than spectacle. The village is small and the temple smaller still, and a visit here is a slow, quiet one: pass beneath the arch, stand before Sundareswarar, then turn to Azhagammai in her shrine. Look for the Navagrahas standing without their mounts, and spend a few moments in the corridor with the hymns of Sambandar in mind. The temple is easily combined with the other Tevaram shrines scattered through the Sirkazhi countryside, and pilgrims often come here as one stop on a longer circuit of the northern Kaveri bank."
+    "history": "अण्णप्पन्पेट्टै कावेरीच्या उत्तरेकडील बाजूस, सीरकाळीपासून फार दूर नसलेल्या जुन्या चोळ नाडूच्या प्रदेशात वसले आहे. तेवारम स्तोत्रांत या स्थळाला तिरुक्कलिक्कामूर म्हटले आहे, आणि बालसंत संबंधर यांनी येथील प्रभूंना गायले, म्हणून हे मंदिर पाडल पेट्र स्थळम आहे. कलिकामूर या जुन्या नावाचे श्रद्धावान असे स्पष्टीकरण देतात की हे ते गाव आहे जेथे शिव कलहयुग, म्हणजे कलियुगातील संकटे दूर करतात. स्थानिक कथने अत्यंत प्राचीन स्थापनेबद्दल, दहाव्या शतकाच्या सुमारास चोळांनी केलेल्या दगडी पुनर्बांधणीबद्दल आणि नंतरच्या काळात मराठ्यांनी केलेल्या नूतनीकरणाबद्दल सांगतात. या तारखा ठाम शिलालेखांऐवजी मंदिर परंपरेतून आलेल्या आहेत, पण हे क्षेत्र हजार वर्षांहून अधिक काळ अखंड उपासनेत राहिले आहे.",
+    "architecture": "हे एक लहान, साधे मंदिर आहे, आणि ते भव्यतेचा कोणताही दावा करत नाही. त्याला उत्तुंग राजगोपुर नाही आणि ध्वजस्तंभही नाही; त्याऐवजी प्रवेशद्वारी सुंदर कमानीखालून आत जावे लागते. आत सुंदरेश्वरांचे गर्भगृह शिवलिंग धारण करते, आणि देवी अळगम्मैंचा स्वतंत्र मंदिरात सन्मान केला जातो. येथे गणेशाची सेल्व सिद्धी विनायक — समृद्धी आणि यश देणारा — म्हणून पूजा होते. पाहुण्यांना आठवणारा एक तपशील म्हणजे नवग्रहांचा समूह, जे इतर मंदिरांत त्यांच्यासोबत असणाऱ्या प्राणी-वाहनांशिवाय ताठ उभे आहेत.",
+    "legends": "परंपरा सांगते की व्यासांचे पिता पराशर ऋषी शिवाची पूजा करण्यासाठी या स्थळी आले, आणि प्रभूंनी त्यांना येथेच दर्शन दिले. ऋषींनी प्रभूंना येथील लोकांसोबत राहण्याची विनंती केली असे म्हटले जाते, आणि शिवांनी संमती दिली आणि सुंदर प्रभू सुंदरेश्वर म्हणून येथे वास करू लागले. हा प्रदेश एकेकाळी शिवाला सर्वाधिक प्रिय असलेल्या बिल्व पानांच्या वृक्षांनी दाट व्यापलेला होता, आणि यावरून प्रभूंना विल्ववन नाथर — बिल्ववनाचे स्वामी — असेही म्हणतात. गावाच्या नावातच एक सौम्य वचन आहे: जे संकटात येथे येतात, त्यांच्यावरील युगाचे ओझे हलके होईल.",
+    "festivals": "मंदिर वर्षभर शैव उपासनेची लय राखते. महाशिवरात्री रात्रभर पूजेसह पाळली जाते, आणि मासिक प्रदोषम शिवाला पवित्र अशा संध्याकाळच्या वेळी भाविकांना आकर्षित करतो. उत्सव तमिळ कालगणनेनुसार असतात आणि गावकरी साध्या भक्तिभावाने ते साजरे करतात. विशिष्ट उत्सवांच्या तारखा आणि मिरवणुका आम्हाला पडताळता आलेल्या स्रोतांत नोंदलेल्या नाहीत, म्हणून कृपया स्थानिक पातळीवर खात्री करून घ्या, विशेषतः मासी आणि पंगुनी महिन्यांत.",
+    "experience": "तिरुक्कलिक्कामूरला झगमगाटासाठी नव्हे, तर शांततेसाठी या. गाव लहान आहे आणि मंदिर त्याहूनही लहान, आणि येथील भेट संथ, शांत असते: कमानीखालून जा, सुंदरेश्वरांसमोर उभे राहा, मग त्यांच्या मंदिरातील अळगम्मैंकडे वळा. वाहनांशिवाय उभे असलेले नवग्रह पाहा, आणि संबंधरांच्या स्तोत्रांचे स्मरण करत प्रदक्षिणा-मार्गात काही क्षण घालवा. हे मंदिर सीरकाळीच्या ग्रामीण भागात विखुरलेल्या इतर तेवारम क्षेत्रांशी सहज जोडता येते, आणि यात्रेकरू उत्तर कावेरी काठाच्या दीर्घ यात्रेतील एक टप्पा म्हणून अनेकदा येथे येतात."
   },
   "visit": {
-    "timings": "Reported as open for a short morning session and again from late afternoon until evening, roughly 8:00 to 10:00 and 5:00 to 7:30; village temples keep varying hours, so confirm locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but not inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask the priest before photographing rituals or worshippers.",
-    "gettingThere": "Annappanpettai is about 14 km from Sirkazhi on the Sirkazhi to Thiruvenkadu road, by way of Mangaimadam, and town buses running from Sirkazhi towards Konaiyampattinam pass through the village. Sirkazhi and Mayiladuthurai are the nearest railway stations. Tiruchirappalli is the nearest major airport, a long road journey away, so most pilgrims travel by road or rail from Sirkazhi."
+    "timings": "सकाळी थोड्या वेळासाठी आणि पुन्हा उत्तर दुपारपासून संध्याकाळपर्यंत उघडे असल्याचे नोंदवले आहे, साधारणतः ८:०० ते १०:०० आणि ५:०० ते ७:३०; गावातील मंदिरांच्या वेळा बदलत असतात, म्हणून विशेषतः उत्सवाच्या दिवशी स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे प्रवेशद्वाराबाहेर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिर नियमांनुसार बाह्य प्रदक्षिणा-मार्ग आणि प्रांगणांमध्ये छायाचित्रण साधारणपणे परवानगीयोग्य आहे, पण आतील गर्भगृहात नाही. विधी किंवा उपासकांचे छायाचित्र काढण्यापूर्वी पुजाऱ्यांना विचारावे.",
+    "gettingThere": "अण्णप्पन्पेट्टै सीरकाळीपासून सुमारे १४ किमी अंतरावर, सीरकाळी ते तिरुवेंकाडू रस्त्यावर, मंगैमडमच्या मार्गे आहे, आणि सीरकाळीहून कोणैयम्पट्टिणमच्या दिशेने जाणाऱ्या शहर बसगाड्या गावातून जातात. सीरकाळी आणि मयिलादुतुरै ही जवळची रेल्वे स्थानके आहेत. तिरुचिरापल्ली हे जवळचे मोठे विमानतळ असून तेथून रस्त्याचा लांब प्रवास आहे, म्हणून बहुतेक यात्रेकरू सीरकाळीहून रस्त्याने किंवा रेल्वेने प्रवास करतात."
   }
 }

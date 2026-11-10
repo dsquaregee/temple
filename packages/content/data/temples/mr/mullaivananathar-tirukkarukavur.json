@@ -1,29 +1,36 @@
 {
   "id": "mullaivananathar-tirukkarukavur",
   "locale": "mr",
+  "name": "मुल्लैवननाथर मंदिर, तिरुक्करुकावूर",
   "nativeName": "திருக்கருகாவூர் முல்லைவனநாதர் கோயில்",
+  "deity": "मुल्लैवननाथर या रूपातील शिव, देवी गर्भरक्षांबिका यांच्यासह",
+  "tradition": "शैव — तेवारममध्ये गायिलेले पाडल पेट्र स्थळम",
   "location": {
-    "city": "Tirukkarukavur, near Papanasam",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्करुकावूर, पापनासमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9372,
     "lng": 79.2706
   },
+  "period": "तेवारमचा काळ, चोळकालीन रचनेसह",
   "century": 7,
+  "dynasty": "चोळ (नंतरच्या योगदानांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कावेरी त्रिभुज प्रदेशातील तिरुक्करुकावूर येथे शिवाची पूजा सुगंधी जाईच्या वनाचा स्वामी मुल्लैवननाथर म्हणून केली जाते. हे मंदिर सर्वांत जास्त प्रसिद्ध आहे ते तेथील देवी गर्भरक्षांबिका — 'गर्भाचे रक्षण करणारी' — हिच्यामुळे, जिच्याकडे तमिळनाडूतील गर्भवती माता सुरक्षित गर्भारपणासाठी आणि निरोगी बाळासाठी वळतात. तेवारममध्ये स्तुती केलेले हे पाडल पेट्र स्थळम शैव संतांच्या सखोल भक्तिधारेला मानवी जिव्हाळ्याची जोड देते.",
   "sections": {
-    "history": "Tirukkarukavur is an ancient Shaiva village-shrine in the fertile Kaveri delta near Papanasam, counted among the Paadal Petra Sthalams sung by the Tevaram saints in the seventh century. The present granite structure reflects Chola-period building and later renovation, while the sanctity of the site is far older, rooted in the Tevaram tradition. The temple's fame has grown steadily in modern times as word of the goddess's grace toward expectant mothers has spread well beyond the delta.",
-    "architecture": "The temple follows a compact Dravidian plan with a gopuram gateway, a pillared hall and the twin sanctums of Mullaivananathar and the goddess. Garbarakshambigai's shrine is the devotional centre, and the ghee and gingelly-oil offerings made there have left the walls dark and fragrant over generations. The lingam of Mullaivananathar is said to have risen amid a grove of jasmine, which gives the lord his name.",
-    "legends": "The best-known legend concerns Vedhika, the devoted wife of the sage Nidhruva. While her husband was away, a short-tempered visiting sage, angered at a delay, is said to have cursed her unborn child. Vedhika took refuge with the goddess here, who gathered the child into her own protection and kept the pregnancy safe until a healthy birth — earning the name Garbarakshambigai, guardian of the womb. From this story flows the enduring practice of expectant mothers praying here and receiving consecrated ghee and castor oil as her blessing.",
-    "festivals": "Monthly new-moon and Pradosha observances draw steady crowds, and the Tamil months bring the goddess's own festivals. Many families return after a safe delivery to give thanks, so the temple sees a continuous rhythm of vows made and vows fulfilled rather than a single great annual gathering. Mondays and the goddess's special days are the busiest.",
-    "experience": "The temple keeps the hushed, intimate feel of a delta village shrine. Pilgrims come with a particular prayer rather than as sightseers, and the air carries the scent of jasmine and lamp-oil. Receiving the consecrated ghee from the goddess's shrine, many visitors describe a quiet reassurance that is the temple's real gift."
+    "history": "तिरुक्करुकावूर हे पापनासमजवळ सुपीक कावेरी त्रिभुज प्रदेशातील प्राचीन शैव ग्रामक्षेत्र असून सातव्या शतकात तेवारम संतांनी गायिलेल्या पाडल पेट्र स्थळमांमध्ये गणले जाते. सध्याची ग्रॅनाइटची रचना चोळकालीन बांधकाम आणि नंतरचा जीर्णोद्धार दर्शवते, तर या स्थानाचे पावित्र्य त्याहून बरेच प्राचीन असून तेवारम परंपरेत रुजलेले आहे. गर्भवती मातांवरील देवीच्या कृपेची कीर्ती त्रिभुज प्रदेशाच्या पलीकडे दूरवर पसरत गेली, तसतशी आधुनिक काळात मंदिराची ख्याती सातत्याने वाढत गेली आहे.",
+    "architecture": "मंदिर गोपुर प्रवेशद्वार, स्तंभयुक्त मंडप आणि मुल्लैवननाथर व देवी यांच्या दोन गाभाऱ्यांसह संक्षिप्त द्रविड आराखड्याचे आहे. गर्भरक्षांबिकेचे मंदिर हे भक्तीचे केंद्र आहे, आणि तेथे अर्पण केलेल्या तूप आणि तिळाच्या तेलामुळे पिढ्यानपिढ्या भिंती काळसर आणि सुगंधित झाल्या आहेत. मुल्लैवननाथर यांचे लिंग जाईच्या वनराईत प्रकटले असे सांगितले जाते, यावरूनच स्वामींना हे नाव मिळाले.",
+    "legends": "सर्वाधिक प्रसिद्ध कथा वेदिका हिच्याशी निगडित आहे, जी निधृव ऋषींची निष्ठावान पत्नी होती. तिचे पती दूर असताना, भेटीस आलेल्या एका शीघ्रकोपी ऋषींनी, विलंबामुळे संतप्त होऊन, तिच्या पोटातील बाळाला शाप दिला असे सांगितले जाते. वेदिकेने येथील देवीचा आश्रय घेतला, आणि देवीने त्या बाळाला स्वतःच्या संरक्षणात घेतले आणि निरोगी जन्म होईपर्यंत गर्भ सुरक्षित ठेवला — यावरून तिला गर्भरक्षांबिका, म्हणजे गर्भाची रक्षणकर्ती, हे नाव मिळाले. या कथेतून गर्भवती मातांनी येथे प्रार्थना करण्याची आणि तिचा आशीर्वाद म्हणून पवित्र केलेले तूप आणि एरंडेल तेल घेण्याची दीर्घकालीन प्रथा सुरू झाली आहे.",
+    "festivals": "मासिक अमावस्या आणि प्रदोष पूजांना सातत्याने गर्दी असते, आणि तमिळ महिन्यांत देवीचे स्वतःचे उत्सव येतात. अनेक कुटुंबे सुखरूप प्रसूतीनंतर कृतज्ञता व्यक्त करण्यासाठी परत येतात, त्यामुळे येथे एका मोठ्या वार्षिक मेळ्याऐवजी केलेल्या नवसांचा आणि फेडलेल्या नवसांचा अखंड क्रम दिसतो. सोमवार आणि देवीचे विशेष दिवस सर्वाधिक गर्दीचे असतात.",
+    "experience": "मंदिर त्रिभुज प्रदेशातील ग्रामक्षेत्राचा शांत, जिव्हाळ्याचा अनुभव जपते. यात्रेकरू पर्यटक म्हणून नव्हे तर विशिष्ट प्रार्थना घेऊन येतात, आणि हवेत जाई आणि दिव्यातील तेलाचा सुगंध दरवळतो. देवीच्या मंदिरातून पवित्र तूप घेताना अनेक भाविक एका शांत आश्वस्ततेचे वर्णन करतात, आणि तीच मंदिराची खरी देणगी आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkarukavur is about 10 km from Papanasam and roughly 25 km from Kumbakonam in Thanjavur district; the nearest major rail hubs are Kumbakonam and Thanjavur, with local buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा दुपारच्या उत्तरार्धापासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वारी ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत छायाचित्रणास साधारणपणे परवानगी असते, परंतु गाभाऱ्यात नसते; विधींचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुक्करुकावूर पापनासमपासून सुमारे १० किमी आणि तंजावूर जिल्ह्यातील कुंभकोणमपासून सुमारे २५ किमी अंतरावर आहे; सर्वांत जवळची मोठी रेल्वे केंद्रे कुंभकोणम आणि तंजावूर असून गावापर्यंत स्थानिक बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

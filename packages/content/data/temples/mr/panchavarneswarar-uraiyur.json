@@ -1,29 +1,36 @@
 {
   "id": "panchavarneswarar-uraiyur",
   "locale": "mr",
+  "name": "पंचवर्णेश्वर मंदिर, उरैयूर",
   "nativeName": "பஞ்சவர்ணேசுவரர் கோயில்",
+  "deity": "पंचवर्णेश्वर (तिरुमुक्कीचरमचे स्वामी) रूपातील शिव, देवी कांतिमती अम्माई यांच्यासह",
+  "tradition": "शैव धर्म",
   "location": {
-    "city": "Uraiyur",
-    "state": "Tamil Nadu",
+    "city": "उरैयूर",
+    "state": "तमिळनाडू",
     "lat": 10.829,
     "lng": 78.679
   },
+  "period": "आरंभीच्या चोळ राजधानीतील प्राचीन शैव मंदिर, तेवारममध्ये गायिलेले (सातवे शतक); चोळकालीन शिलालेख आणि नंतरच्या जीर्णोद्धारांसह दगडी मंदिर",
   "century": 7,
+  "dynasty": "आरंभीचे चोळ (परंपरेनुसार); मध्ययुगीन चोळ शिलालेख आणि नंतरचे आश्रयदाते",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "पंचवर्णेश्वर हे आरंभीच्या चोळांची प्राचीन राजधानी उरैयूर येथील शिवमंदिर आहे; संबंधरांनी याला तिरुमुक्कीचरम म्हणून गायिले आहे, आणि एकाच दिवसात पाच रंगांत एका ऋषींना दर्शन देणाऱ्या प्रभूच्या कथेसाठी ते स्मरणात आहे.",
   "sections": {
-    "history": "Uraiyur, now a quarter of Tiruchirappalli, was the capital of the early Cholas, a city whose fame reached ancient writers abroad long before the Tevaram was sung. In the hymns of Sambandar the Shiva temple here is Tirumukkeecharam, and it is counted among the Paadal Petra Sthalams on the southern bank of the Kaveri. Chola-period inscriptions record gifts to the shrine, among them the grant of a village for its upkeep, and the temple seen today carries the work of medieval patrons and later renovators. The town is also remembered as Kozhiyur, the town of the cock, a name that preserves its founding legend, and it has remained a place of Shaiva worship through every change of ruler.",
-    "architecture": "The temple is entered beneath a five-tiered rajagopuram and is laid out in three enclosures in the Dravidian manner, with the older stone core ringed by later construction. At the entrance to the sanctum stand finely carved dvarapalas, guardian figures that some sources assign to the eighth century, and the niches of the sanctum wall hold images of Brahma, Vishnu and Durga. Within the sanctum Panchavarneswarar is worshipped as a linga, while the goddess Kanthimathi Ammai has her own shrine in the enclosure. The sacred Naga Theertham recalls the serpent-king's daughters of the temple's legend.",
-    "legends": "The temple takes its name from the Lord of five colours. The sage Uthanga is said to have beheld Shiva here in five different hues through the five periods of a single day, and so the deity is Panchavarneswarar. A second tradition tells of Nagaraja, the serpent king, whose five daughters each worshipped a linga on the bank of the sacred tank; a Chola king who saw them married the youngest, and the lingas were joined into one, the Lord who now stands in the sanctum. A third story explains the town's older name, Kozhiyur. A Chola king was riding an elephant that grew maddened, until a brave cock struck its forehead and turned it back; moved by such courage in so small a creature, the king made this place his capital. Most tellings name him Karikalan, while another names Veeravathithan, and the accounts differ in their details.",
-    "festivals": "The principal festival is the Vaikasi Brahmotsavam, held in May or June, which commemorates the lingas merging into one. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple, and the festivals of the Shaiva year are kept with devotion. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Uraiyur suits an unhurried visit. Enter beneath the five-tiered gopuram, come to the sanctum of Panchavarneswarar, and then turn to the goddess Kanthimathi Ammai in her own shrine. It is a pleasure to walk the enclosures with the old stories in mind: the Lord seen in five colours, the serpent king's daughters at the tank, the courage of the cock. The Vaishnava temple of Azhagiya Manavala Perumal stands a short way off, and the temple pairs naturally with the Thayumanavar shrine on the Rockfort in a single day. Though the quarter is busy with city traffic, the temple keeps its quiet within the walls."
+    "history": "आता तिरुचिरापल्लीचा एक भाग असलेले उरैयूर हे आरंभीच्या चोळांची राजधानी होते; तेवारम गायिले जाण्याच्या खूप आधीच त्याची कीर्ती परदेशातील प्राचीन लेखकांपर्यंत पोहोचली होती. संबंधरांच्या स्तोत्रांत येथील शिवमंदिर तिरुमुक्कीचरम आहे, आणि कावेरीच्या दक्षिण तीरावरील पाडल पेट्र स्थळम्मध्ये त्याची गणना होते. चोळकालीन शिलालेखांत मंदिराला दिलेल्या देणग्यांची नोंद आहे, त्यांपैकी देखभालीसाठी एक गाव दिल्याची नोंद आहे, आणि आज दिसणाऱ्या मंदिरात मध्ययुगीन आश्रयदात्यांचे आणि नंतरच्या जीर्णोद्धारकांचे काम आहे. हे शहर कोळियूर, म्हणजे कोंबड्याचे नगर, म्हणूनही स्मरले जाते — हे नाव त्याची संस्थापन कथा जपते — आणि प्रत्येक राज्यकर्त्याच्या बदलातूनही ते शैव उपासनेचे स्थान राहिले आहे.",
+    "architecture": "मंदिरात पाच मजली राजगोपुराखालून प्रवेश होतो आणि ते द्रविड पद्धतीने तीन प्राकारांमध्ये मांडलेले आहे; जुन्या दगडी गाभ्याभोवती नंतरचे बांधकाम आहे. गर्भगृहाच्या प्रवेशाशी बारकाईने कोरलेले द्वारपाल उभे आहेत — रक्षक मूर्ती, ज्या काही स्रोत आठव्या शतकातील मानतात — आणि गर्भगृहाच्या भिंतीवरील देवळ्यांत ब्रह्मा, विष्णू आणि दुर्गा यांच्या मूर्ती आहेत. गर्भगृहात पंचवर्णेश्वराची लिंगरूपात पूजा होते, तर देवी कांतिमती अम्माईची प्राकारात स्वतंत्र देवळी आहे. पवित्र नाग तीर्थम मंदिराच्या कथेतील नागराजाच्या कन्यांचे स्मरण करून देते.",
+    "legends": "मंदिराला पाच रंगांच्या प्रभूवरून नाव मिळाले आहे. उतंग ऋषींनी एकाच दिवसाच्या पाच प्रहरांत येथे शिवाला पाच वेगवेगळ्या रंगछटांत पाहिले, असे सांगितले जाते, आणि म्हणून देवता पंचवर्णेश्वर आहे. दुसरी परंपरा नागराजाची आहे, ज्याच्या पाच कन्यांनी पवित्र तलावाच्या काठी प्रत्येकीने एका लिंगाची पूजा केली; त्यांना पाहणाऱ्या एका चोळ राजाने सर्वांत धाकटीशी विवाह केला, आणि लिंगे एकत्र होऊन एक झाली — तेच आज गर्भगृहात उभे असलेले प्रभू. तिसरी कथा शहराच्या जुन्या नावाचे, कोळियूरचे, स्पष्टीकरण देते. एक चोळ राजा हत्तीवर स्वार होता, तो हत्ती बिथरला, तेव्हा एका धीट कोंबड्याने त्याच्या कपाळावर चोच मारून त्याला मागे फिरवले; इतक्या लहान प्राण्यातील धैर्याने भारावून राजाने हे स्थान आपली राजधानी केले. बहुतेक कथनांत त्याचे नाव करिकालन आहे, तर एका कथनात वीरवतितन आहे, आणि तपशिलांत कथनांमध्ये फरक आहे.",
+    "festivals": "मुख्य उत्सव म्हणजे वैकासी ब्रह्मोत्सव, जो मे किंवा जूनमध्ये होतो आणि लिंगे एकत्र विलीन होण्याचे स्मरण करतो. महाशिवरात्री आणि मासिक प्रदोष हे प्रत्येक शिवमंदिराप्रमाणे येथेही पाळले जातात, आणि शैव वर्षातील उत्सव भक्तिभावाने साजरे होतात. तिथी तमिळ दिनदर्शिकेनुसार असल्याने त्या स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "उरैयूरची निवांत भेट उत्तम ठरते. पाच मजली गोपुराखालून आत या, पंचवर्णेश्वराच्या गर्भगृहात जा, आणि मग देवी कांतिमती अम्माईच्या स्वतंत्र देवळीकडे वळा. जुन्या कथा मनात ठेवून प्राकारांत फिरणे आनंददायी आहे: पाच रंगांत दिसलेले प्रभू, तलावाकाठच्या नागराजाच्या कन्या, कोंबड्याचे धैर्य. अळगिय मनवाळ पेरुमाळ यांचे वैष्णव मंदिर थोड्याच अंतरावर आहे, आणि हे मंदिर एकाच दिवसात रॉकफोर्टवरील तायुमानवर मंदिराशी सहज जोडता येते. शहराच्या वाहतुकीमुळे हा भाग गजबजलेला असला, तरी मंदिर आपल्या भिंतींच्या आत शांतता जपते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from the afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is customary: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the entrance.",
-    "photography": "Photography is generally permitted in the outer enclosures but not inside the sanctum, in keeping with Tamil Nadu temple practice. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Uraiyur is a quarter of Tiruchirappalli city, a few kilometres from the centre, and is easily reached from the Chatram bus stand by city bus or auto-rickshaw. Tiruchirappalli Junction is the main railway station, and Tiruchirappalli International Airport lies on the southern side of the city. The Azhagiya Manavala Perumal temple is a few hundred metres away."
+    "timings": "सामान्यतः सकाळी आणि पुन्हा दुपारनंतर संध्याकाळपर्यंत खुले असते, मधल्या वेळी दुपारची विश्रांती असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर निश्चित करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख रूढ आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराबाहेर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या प्रथेनुसार बाहेरील प्राकारांत सामान्यतः छायाचित्रणास परवानगी आहे, परंतु गर्भगृहात नाही. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "उरैयूर हा तिरुचिरापल्ली शहराचा एक भाग असून मध्यभागापासून काही किलोमीटरवर आहे; चत्रम बस स्थानकावरून शहर बस किंवा रिक्षाने तेथे सहज पोहोचता येते. तिरुचिरापल्ली जंक्शन हे मुख्य रेल्वे स्थानक आहे, आणि तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ शहराच्या दक्षिण बाजूला आहे. अळगिय मनवाळ पेरुमाळ मंदिर काही शे मीटर अंतरावर आहे."
   }
 }

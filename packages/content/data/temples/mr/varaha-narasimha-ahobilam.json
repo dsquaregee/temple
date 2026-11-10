@@ -1,29 +1,36 @@
 {
   "id": "varaha-narasimha-ahobilam",
   "locale": "mr",
+  "name": "वराह (क्रोड) नृसिंह मंदिर, अहोबिलम",
   "nativeName": "వరాహ (క్రోడ) నరసింహ ఆలయం, అహోబిలం",
+  "deity": "वराह (क्रोड) नृसिंह रूपातील विष्णू — भूदेवी, पृथ्वीदेवीसह वराह-मुखी नृसिंह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "अहोबिलम",
+    "state": "आंध्र प्रदेश",
     "lat": 15.125,
     "lng": 78.7405
   },
+  "period": "आंध्र प्रदेशातील नल्लमला टेकड्यांमधील अहोबिलमच्या नव नृसिंह मंदिरांपैकी एक",
   "century": 15,
+  "dynasty": "विजयनगरचा आश्रय",
+  "style": "जिवंत खडकाला टेकून बांधलेले डोंगरी मंदिर",
   "unesco": false,
   "circuits": [
     "ahobilam-nava-narasimha"
   ],
+  "summary": "वरच्या अहोबिलमच्या वर भवनाशिनी ओढ्याच्या काठी, क्रोड नृसिंह एकाच मूर्तीत दोन अवतार एकत्र करतो — पृथ्वीला वर उचलणारा वराह आणि प्रल्हादाला वाचवणारा सिंह — भूदेवी त्याच्या बाजूला आहे.",
   "sections": {
-    "history": "Varaha Narasimha, also called Kroda Narasimha (kroda is a Sanskrit word for the boar), is one of the nine Narasimha shrines of Ahobilam in the Nallamala hills. It lies about a kilometre beyond the Upper Ahobilam temple, on the bank of the Bhavanasini stream, along the path that climbs towards Jwala Narasimha — so for most pilgrims it is the first shrine on the walk into the gorge. Like its neighbours it belongs to the circle of worship maintained by the Ahobila Matha, and its stone shrine is generally associated with the Vijayanagara period, when Ahobilam received sustained royal support.",
-    "architecture": "The shrine is set into the rock beside the stream: a small enclosure with a low entrance leading to a cave-like sanctum. The image is distinctive, for the Lord here bears the face of a boar rather than a lion, and Bhudevi, the Earth goddess, is with him. Some accounts describe a Lakshmi Narasimha in the same cave, so two forms may be seen together.",
-    "legends": "The tradition of this shrine joins two stories. As Varaha, Vishnu took the form of a boar to rescue the Earth goddess from the demon Hiranyaksha, who had dragged her beneath the cosmic waters; Hiranyaksha was the brother of Hiranyakashipu, whom the Lord later destroyed as Narasimha. Here, the sthala purana tells, the Lord appears in a form that remembers both deliverances. In the astrological reading of the nine shrines, Varaha Narasimha is linked with Rahu.",
-    "festivals": "Narasimha Jayanti and the annual Brahmotsavam of Ahobilam are the principal occasions, when the stream of pilgrims along the Bhavanasini path swells. Confirm dates locally.",
-    "experience": "The walk from Upper Ahobilam follows the stream through a narrowing gorge, over boulders and steps; it is about a kilometre and manageable for most pilgrims in dry weather. The sound of water is constant. Many continue from here to Jwala Narasimha, so plan time and water for the longer climb if you mean to go on."
+    "history": "वराह नृसिंह, ज्याला क्रोड नृसिंह असेही म्हणतात (क्रोड हा वराहासाठीचा संस्कृत शब्द आहे), नल्लमला टेकड्यांमधील अहोबिलमच्या नऊ नृसिंह मंदिरांपैकी एक आहे. ते वरच्या अहोबिलम मंदिराच्या सुमारे एक किलोमीटर पुढे, भवनाशिनी ओढ्याच्या काठी, ज्वाला नृसिंहाकडे चढणाऱ्या वाटेवर आहे — म्हणून बहुतेक यात्रेकरूंसाठी दरीत शिरणाऱ्या वाटचालीतील हे पहिले मंदिर आहे. आपल्या शेजाऱ्यांप्रमाणेच ते अहोबिल मठाने सांभाळलेल्या उपासनेच्या वर्तुळाचा भाग आहे, आणि याचे दगडी मंदिर सामान्यतः विजयनगर काळाशी जोडले जाते, जेव्हा अहोबिलमला सातत्याने राजाश्रय मिळाला.",
+    "architecture": "मंदिर ओढ्याच्या शेजारी खडकात बसवलेले आहे: एक लहानसे आवार, ज्याच्या खालच्या प्रवेशद्वारातून गुहेसारख्या गर्भगृहात जाता येते. मूर्ती वैशिष्ट्यपूर्ण आहे, कारण येथे स्वामींचे मुख सिंहाऐवजी वराहाचे आहे आणि पृथ्वीदेवी भूदेवी त्याच्यासोबत आहे. काही वर्णने त्याच गुहेत एका लक्ष्मी नृसिंहाचेही वर्णन करतात, म्हणून दोन रूपे एकत्र दिसू शकतात.",
+    "legends": "या मंदिराची परंपरा दोन कथा एकत्र जोडते. वराह म्हणून विष्णूने हिरण्याक्ष राक्षसापासून पृथ्वीदेवीची सुटका करण्यासाठी वराहाचे रूप घेतले; हिरण्याक्षाने तिला वैश्विक जलाखाली ओढून नेले होते. हिरण्याक्ष हा हिरण्यकशिपूचा भाऊ होता, ज्याचा नंतर स्वामींनी नृसिंह म्हणून संहार केला. येथे, स्थळपुराण सांगते, स्वामी अशा रूपात प्रकट होतो जे दोन्ही उद्धारांचे स्मरण करते. नऊ मंदिरांच्या ज्योतिषीय वाचनात वराह नृसिंह राहूशी जोडलेला आहे.",
+    "festivals": "नृसिंह जयंती आणि अहोबिलमचा वार्षिक ब्रह्मोत्सव हे प्रमुख प्रसंग आहेत, जेव्हा भवनाशिनी वाटेवरील यात्रेकरूंचा ओघ वाढतो. तारखा स्थानिक पातळीवर तपासा.",
+    "experience": "वरच्या अहोबिलमपासूनची वाट ओढ्याच्या कडेने अरुंद होत जाणाऱ्या दरीतून, दगडधोंडे आणि पायऱ्या ओलांडत जाते; ती सुमारे एक किलोमीटरची असून कोरड्या हवामानात बहुतेक यात्रेकरूंना सहज करता येते. पाण्याचा आवाज सतत सोबत असतो. अनेकजण येथून पुढे ज्वाला नृसिंहाकडे जातात, म्हणून पुढे जायचे असल्यास लांबच्या चढणीसाठी वेळ आणि पाणी यांची तजवीज करा."
   },
   "visit": {
-    "timings": "Worship is offered daily; the shrine is reached on foot and is best visited in daylight. Confirm current timings locally, especially in the monsoon, when the stream rises.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Reach Lower Ahobilam by road via Allagadda (Nandyal is the nearest major railhead) and go up to Upper Ahobilam by local transport. The shrine is about a kilometre further on foot, beside the Bhavanasini stream."
+    "timings": "पूजा दररोज केली जाते; मंदिरापर्यंत पायी जावे लागते आणि दिवसाच्या प्रकाशात भेट देणे उत्तम. विशेषतः पावसाळ्यात, जेव्हा ओढा फुगतो, सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या भोवताली छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "अल्लागड्डामार्गे रस्त्याने खालच्या अहोबिलमला पोहोचा (नंद्याल हे सर्वांत जवळचे प्रमुख रेल्वे स्थानक आहे) आणि स्थानिक वाहतुकीने वरच्या अहोबिलमला जा. मंदिर भवनाशिनी ओढ्याच्या काठी, पायी सुमारे एक किलोमीटर पुढे आहे."
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "vennailingeswarar-sikkal",
   "locale": "mr",
+  "name": "नवनीतेश्वर मंदिर, सिक्कल",
   "nativeName": "சிக்கல் நவநீதேஸ்வரர் (வெண்ணெய்லிங்கேஸ்வரர்) கோயில்",
+  "deity": "नवनीतेश्वर (वेन्नैलिंगेश्वर, लोण्याचे लिंग) रूपातील शिव, देवी वेल्नेडुंगकन्नी यांच्यासह",
+  "tradition": "शैव - तेवारममध्ये गायलेले पाडल पेट्र स्थलम; आवारात सिंगारवेलन मुरुगन मंदिर",
   "location": {
-    "city": "Sikkal, near Nagapattinam",
-    "state": "Tamil Nadu",
+    "city": "सिक्कल, नागपट्टिणमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.7958,
     "lng": 79.8089
   },
+  "period": "तेवारम काळ, चोळकालीन रचनेसह",
   "century": 7,
+  "dynasty": "चोळ (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "नागपट्टिणमजवळील सिक्कल येथे लोण्याच्या लिंगाचे स्वामी नवनीतेश्वर या रूपात शिवाचा सन्मान केला जातो - हे तेवारममध्ये गायलेले पाडल पेट्र स्थलम असून येथे देवी वेल्नेडुंगकन्नी आहे. याच मंदिरात सिंगारवेलन, म्हणजे मुरुगन यांचे प्रसिद्ध मंदिर आहे; परंपरेनुसार सुरपद्मन राक्षसाचा नाश करण्यास निघण्यापूर्वी देवीने येथे प्रभूंना त्यांचा भाला, म्हणजे वेल, दिला. लोण्यासारख्या मऊ लिंगाची आणि योद्धा-देवाच्या वेलाची ही जोडउपस्थिती सिक्कलला स्वतःची अशी वेगळी भक्ती प्रदान करते.",
   "sections": {
-    "history": "Sikkal is an old Shaiva temple near Nagapattinam, hymned in the seventh-century Tevaram and counted among the Paadal Petra Sthalams of the southern Kaveri country. The stone temple carries Chola-period building with later additions. Over time the shrine of Murugan as Singaravelan grew to share the temple's fame equally with the Shiva sanctum, so that Sikkal is today a destination for devotees of both the lord of the butter lingam and the warrior-god of the vel.",
-    "architecture": "The complex follows the Dravidian plan, with the sanctum of Navaneetheswarar and the separate, celebrated shrine of Singaravelan Murugan within the same premises; the goddess Velnedungkanni has her own shrine. The lingam is revered as being soft as butter, giving the lord his name of Navaneetheswarar, the butter-lord. The Murugan shrine, with its bronze processional images, is the focus of the temple's most famous festival days.",
-    "legends": "The sthala-purana tells that the lingam here was fashioned from butter drawn from the milk of Kamadhenu by the sage Vasishta, so that the lord is the Navaneetheswarar, lord of butter. The temple's most celebrated tradition belongs to Murugan: it was here, the accounts say, that the goddess handed her son the vel, the divine lance, as he took up the command of the gods' army and set out to destroy the demon Surapadman, whom he vanquished at Tiruchendur the next day. The very name Sikkal is explained as 'the tangled place,' from obstacles overcome in the temple's making.",
-    "festivals": "The great festival of Sikkal is tied to Skanda Shashti in the Tamil month of Aippasi. On the day before Surasamharam, the image of Singaravelan receives the vel from the goddess — a moment awaited by vast crowds, when the bronze image is said to perspire with the intensity of the occasion. The Shaiva observances of Maha Shivaratri and Pradosham are also kept at the Navaneetheswarar sanctum.",
-    "experience": "Sikkal offers the pilgrim two devotions in one temple — the gentle grace of the butter lingam and the martial splendour of Singaravelan. On the vel-giving day the atmosphere is electric, the crowds immense; on ordinary days the temple is a calm place where the two currents of Shaiva worship, the contemplative and the heroic, meet."
+    "history": "सिक्कल हे नागपट्टिणमजवळील जुने शैव मंदिर असून सातव्या शतकातील तेवारममध्ये त्याचे स्तवन केले आहे आणि दक्षिण कावेरी प्रदेशातील पाडल पेट्र स्थलमांमध्ये त्याची गणना होते. दगडी मंदिरात चोळकालीन बांधकाम आणि नंतरच्या भरी आढळतात. कालांतराने सिंगारवेलन रूपातील मुरुगनाचे मंदिर शिवगर्भगृहाइतकीच मंदिराची कीर्ती वाटून घेऊ लागले, त्यामुळे आज सिक्कल हे लोण्याच्या लिंगाच्या स्वामींचे आणि वेलधारी योद्धा-देवाचे अशा दोघांच्या भक्तांचे गंतव्यस्थान आहे.",
+    "architecture": "संकुल द्रविड आराखड्याचे अनुसरण करते; याच आवारात नवनीतेश्वराचे गर्भगृह आणि सिंगारवेलन मुरुगनाचे स्वतंत्र, प्रसिद्ध मंदिर आहे; देवी वेल्नेडुंगकन्नीचे स्वतःचे मंदिर आहे. लिंग लोण्यासारखे मऊ असल्याचे मानले जाते, आणि त्यावरूनच प्रभूंना नवनीतेश्वर, म्हणजे लोण्याचे स्वामी, हे नाव मिळाले. कांस्य उत्सवमूर्ती असलेले मुरुगन मंदिर हे मंदिराच्या सर्वांत प्रसिद्ध उत्सवदिनांचे केंद्र आहे.",
+    "legends": "स्थलपुराण सांगते की येथील लिंग वसिष्ठ ऋषींनी कामधेनूच्या दुधापासून काढलेल्या लोण्यापासून घडवले होते, म्हणूनच प्रभू नवनीतेश्वर, लोण्याचे स्वामी, आहेत. मंदिराची सर्वाधिक प्रसिद्ध परंपरा मुरुगनाशी संबंधित आहे: येथेच, असे कथानक सांगते, देवीने आपल्या पुत्राला वेल, म्हणजे दिव्य भाला, दिला, जेव्हा त्याने देवसेनेचे नेतृत्व स्वीकारले आणि सुरपद्मन राक्षसाचा नाश करण्यास निघाला; दुसऱ्या दिवशी त्याने तिरुचेंदूर येथे त्याला पराभूत केले. 'सिक्कल' या नावाचा अर्थ 'गुंतागुंतीचे स्थान' असा सांगितला जातो, जो मंदिराच्या उभारणीत पार पाडलेल्या अडथळ्यांवरून आलेला आहे.",
+    "festivals": "सिक्कलचा महान उत्सव तमिळ आप्पसी महिन्यातील स्कंद षष्ठीशी जोडलेला आहे. सूरसंहारमच्या आदल्या दिवशी सिंगारवेलनाच्या मूर्तीला देवीकडून वेल प्राप्त होतो - प्रचंड गर्दी ज्या क्षणाची वाट पाहते; त्या प्रसंगाच्या तीव्रतेने कांस्यमूर्तीला घाम येतो असे म्हटले जाते. महाशिवरात्री आणि प्रदोषम हे शैव विधीही नवनीतेश्वराच्या गर्भगृहात पाळले जातात.",
+    "experience": "सिक्कल यात्रेकरूंना एकाच मंदिरात दोन भक्ती देते - लोण्याच्या लिंगाची सौम्य कृपा आणि सिंगारवेलनाचे शौर्यपूर्ण वैभव. वेल प्रदान करण्याच्या दिवशी वातावरण विद्युतभारित असते, गर्दी प्रचंड असते; सामान्य दिवशी मंदिर शांत ठिकाण असते, जिथे शैव उपासनेचे दोन प्रवाह - चिंतनशील आणि वीरतापूर्ण - एकत्र येतात."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sikkal is about 7 km from Nagapattinam and near Tiruvarur; the nearest rail heads are Nagapattinam and Tiruvarur, with frequent buses and taxis to the temple."
+    "timings": "सहसा पहाटेपासून मध्यान्हापर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा-मार्गांत छायाचित्रणाला सहसा परवानगी असते, परंतु गर्भगृहाच्या आत नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "सिक्कल नागपट्टिणमपासून सुमारे ७ किमी अंतरावर असून तिरुवारूरजवळ आहे; सर्वांत जवळची रेल्वे स्थानके नागपट्टिणम आणि तिरुवारूर आहेत, तेथून मंदिरापर्यंत वारंवार बसेस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "loganatha-thirukkannangudi",
   "locale": "mr",
+  "name": "लोकनाथ पेरुमाळ मंदिर, तिरुक्कण्णंगुडी",
   "nativeName": "லோகநாதப் பெருமாள் கோயில், திருக்கண்ணங்குடி",
+  "deity": "लोकनाथ पेरुमाळ रूपातील विष्णू, देवी लोकनायकीसह; उत्सवमूर्ती दामोदर नारायण पेरुमाळ अरविंदवल्लीसह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirukkannangudi",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कण्णंगुडी",
+    "state": "तमिळनाडू",
     "lat": 10.7566,
     "lng": 79.7635
   },
+  "period": "चोळ प्रदेशातील दिव्य देशम; नाळायिर दिव्य प्रबंधात तिरुमंगै आळवारांनी गायिलेला",
   "century": 8,
+  "dynasty": "मध्ययुगीन चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "सिक्कलजवळ तिरुक्कण्णंगुडी येथे विष्णू लोकनाथ आहेत, म्हणजे लोकांचा स्वामी, चिरंजीव मगिळ वृक्षाशेजारी जेथे कृष्णाला बांधले गेले असे सांगतात — तिरुमंगै आळवारांनी गायिलेला चोळ नाडूचा दिव्य देशम.",
   "sections": {
-    "history": "Thirukkannangudi lies about two kilometres from Sikkal, off the Tiruvarur–Nagapattinam highway in the Kaveri delta. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Chola Nadu. Thirumangai Alvar praised the Lord here in ten hymns of the Periya Thirumozhi. The temple is generally held to have been built by the Medieval Cholas in the late ninth century, though one account places it in the eighth. It is counted among the Pancha Krishnaranya Kshetrams, the five sacred groves of Krishna.",
-    "architecture": "The temple faces east and is entered through a five-tiered rajagopuram. The sanctum is crowned by the Utpala Vimanam, and the sacred tank is the Shravana Theertham, also called the Nithya Pushkarini in one temple listing. Behind the temple stands the sthala vriksham, a Magizha tree, said never to die. The presiding Lord is Loganatha Perumal with the Goddess Loganayagi, and the festival image is Damodara Narayana Perumal with Aravindavalli.",
-    "legends": "The sthala purana tells of the sage Vasishta, who worshipped a butter image of Krishna that did not melt. Krishna came to him as a child and swallowed it, and Vasishta followed him to this place, where, by the power of devotion, the child was bound to the Magizha tree. The festival image shows Krishna so bound by a rope, as Damodara. Tradition adds that Thirumangai Alvar, tired and thirsty, rested under the Magizha tree and was given food and water by the Lord, who appeared with conch and discus and then vanished.",
-    "festivals": "The temple keeps the Vaishnava calendar, with Vaikunta Ekadashi among its observances; confirm specific festival dates locally. The festival image of Damodara, bound to the Magizha tree with a rope, is the heart of the shrine's devotion, and it is this form that devotees remember in the temple's days of worship.",
-    "experience": "A quiet, devotional Divya Desam close to Sikkal, rewarding for pilgrims tracing Thirumangai Alvar's hymns through the delta. Look for the Magizha tree behind the temple and for the festival image of Krishna bound as Damodara. Early visits are calm; confirm timings locally before you go."
+    "history": "तिरुक्कण्णंगुडी हे कावेरी त्रिभुज प्रदेशात, तिरुवारूर–नागपट्टिणम महामार्गापासून आत, सिक्कलपासून सुमारे दोन किलोमीटरवर आहे. हे १०८ दिव्य देशमांपैकी एक आहे — आळवारांनी नाळायिर दिव्य प्रबंधात गायिलेली विष्णूची निवासस्थाने — आणि चोळ नाडूमध्ये येते. तिरुमंगै आळवारांनी पेरिय तिरुमोळीच्या दहा स्तोत्रांत येथील स्वामीचे गुणगान केले. हे मंदिर साधारणपणे नवव्या शतकाच्या उत्तरार्धात मध्ययुगीन चोळांनी बांधले असे मानले जाते, तरी एक मत ते आठव्या शतकात ठेवते. पंच कृष्णारण्य क्षेत्रांमध्ये, म्हणजे कृष्णाच्या पाच पवित्र वनांमध्ये, याची गणना होते.",
+    "architecture": "मंदिर पूर्वाभिमुख असून पाच मजली राजगोपुरातून प्रवेश होतो. गर्भगृहावर उत्पल विमान आहे, आणि पवित्र सरोवर श्रवण तीर्थम आहे, ज्याला एका मंदिर-यादीत नित्य पुष्करिणीही म्हटले आहे. मंदिराच्या मागे स्थलवृक्ष, मगिळ वृक्ष, उभा आहे, जो कधी मरत नाही असे सांगतात. अधिष्ठाता स्वामी लोकनाथ पेरुमाळ देवी लोकनायकीसह आहेत, आणि उत्सवमूर्ती दामोदर नारायण पेरुमाळ अरविंदवल्लीसह आहे.",
+    "legends": "स्थलपुराण वसिष्ठ ऋषींची कथा सांगते, जे कृष्णाच्या एका लोण्याच्या मूर्तीची पूजा करत होते, जी वितळली नाही. कृष्ण बालरूपात त्यांच्याकडे आला आणि त्याने ती गिळली, आणि वसिष्ठ त्याच्यामागे या स्थानी आले, जेथे भक्तीच्या सामर्थ्याने त्या बालकाला मगिळ वृक्षाला बांधले गेले. उत्सवमूर्ती कृष्णाला दामोदर म्हणून असे दोरीने बांधलेले दर्शवते. परंपरा आणखी सांगते की तिरुमंगै आळवार, थकलेले आणि तहानलेले, मगिळ वृक्षाखाली विसावले आणि स्वामीने, जो शंख आणि चक्रासह प्रकट होऊन नंतर अदृश्य झाला, त्यांना अन्न आणि पाणी दिले.",
+    "festivals": "मंदिर वैष्णव दिनदर्शिका पाळते, वैकुंठ एकादशी त्यातील एक सोहळा आहे; विशिष्ट उत्सवांच्या तारखा स्थानिक पातळीवर पडताळून घ्या. मगिळ वृक्षाला दोरीने बांधलेल्या दामोदराची उत्सवमूर्ती हा या देवालयाच्या भक्तीचा गाभा आहे, आणि मंदिराच्या पूजादिवसांत भाविक हेच रूप स्मरतात.",
+    "experience": "सिक्कलजवळील शांत, भक्तिमय दिव्य देशम, त्रिभुज प्रदेशातून तिरुमंगै आळवारांच्या स्तोत्रांचा मागोवा घेणाऱ्या यात्रेकरूंसाठी समाधानकारक. मंदिराच्या मागे मगिळ वृक्ष आणि दामोदर म्हणून बांधलेल्या कृष्णाची उत्सवमूर्ती पाहा. लवकरच्या भेटी शांत असतात; जाण्यापूर्वी वेळा स्थानिक पातळीवर पडताळून घ्या."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is about two kilometres from Sikkal, off the Tiruvarur–Nagapattinam highway, in the Nagapattinam district of Tamil Nadu. Nagapattinam and Tiruvarur are the nearest larger towns with railheads, and Tiruchirappalli is the nearest major airport. Reach it by road, and confirm local directions on arrival."
+    "timings": "रोज सकाळ-संध्याकाळ दर्शन सत्रांसह आणि दुपारी बंद असे खुले; उत्सवाच्या दिवशी सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा पडताळून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करा.",
+    "gettingThere": "मंदिर तमिळनाडूच्या नागपट्टिणम जिल्ह्यात, तिरुवारूर–नागपट्टिणम महामार्गापासून आत, सिक्कलपासून सुमारे दोन किलोमीटरवर आहे. नागपट्टिणम आणि तिरुवारूर ही रेल्वेस्थानके असलेली जवळची मोठी शहरे आहेत, आणि तिरुचिरापल्ली हे जवळचे मोठे विमानतळ आहे. रस्त्याने पोहोचा, आणि आल्यावर स्थानिक दिशा पडताळून घ्या."
   }
 }

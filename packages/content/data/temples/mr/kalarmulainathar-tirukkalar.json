@@ -1,29 +1,36 @@
 {
   "id": "kalarmulainathar-tirukkalar",
   "locale": "mr",
+  "name": "पारिजात वनेश्वरर मंदिर, तिरुक्कळर",
   "nativeName": "திருக்களர் பாரிஜாதவனேஸ்வரர் கோயில்",
+  "deity": "शिव पारिजात वनेश्वरर (कळर्मुलैनाथर) रूपात, देवी अमुदवल्ली सह",
+  "tradition": "शैव — पाडल पेट्र स्थलम्, संबंदर व अप्पर यांनी गायलेला",
   "location": {
-    "city": "Tirukkalar, near Mannargudi",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कळर, मन्नारगुडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.5717,
     "lng": 79.5542
   },
+  "period": "तेवारम् काळ, चोळ-कालीन रचनेसह",
   "century": 9,
+  "dynasty": "चोळ (नंतरच्या भरांसह)",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मन्नारगुडीजवळील तिरुक्कळर येथे, परंपरेनुसार शिवाने दुर्वास ऋषींसाठी ब्रह्म तांडव केले, जे स्वामीचे नृत्य पाहण्यासाठी स्वर्गीय पारिजात फूल पृथ्वीवर घेऊन आले होते. येथे शिव पारिजात वनेश्वरर — पारिजात वनाचा स्वामी — या रूपात पूजला जातो, कळर्मुलैनाथर असेही स्तवन केले जाते, देवी अमुदवल्ली सह. संबंदर व अप्पर यांनी गायलेला पाडल पेट्र स्थलम्, ज्याचे उंच पूर्व राजगोपुर त्रिभुज प्रदेशात दुरून ओळखता येते.",
   "sections": {
-    "history": "Tirukkalar is an ancient Shaiva village near Mannargudi, revered in the seventh-century Tevaram and counted among the Paadal Petra Sthalams, sung by both Sambandar and Appar. The stone temple belongs to the Chola period with later additions; by tradition the first consecration was performed by the sage Durvasa himself. The place name is explained from the Tamil word for the dance floor, tying the village from the start to the legend of Shiva's dance.",
-    "architecture": "The temple follows the Dravidian plan, dominated by a tall, five-tiered rajagopuram rising about eighty feet and facing east. The sanctum enshrines the lingam of Parijata Vaneswarar, and the goddess Amudhavalli has her own shrine. The grand eastern tower, visible far across the flat delta country, gives this otherwise village temple the presence of a major shrine.",
-    "legends": "The defining legend is the dance of Shiva for Durvasa. The sage, hearing of the cosmic dance the lord performed at Chidambaram, longed to witness it; he brought the parijata flower from the world of the gods and planted it here, and Shiva, pleased with his devotion, came down and danced the Brahma Tandavam before him. From the grove of parijata the lord takes his name, Parijata Vaneswarar, and from the dance floor the village and the lord's other name, Kalarmulainathar, are drawn.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam — with the dance legend lending special meaning to the festivals of Nataraja and Arudra Darshan. The tall gopuram makes the car festival and processions a landmark event for the surrounding villages.",
-    "experience": "Approaching Tirukkalar across the delta, the pilgrim sees the great eastern tower long before the village itself. Within, the darshan of Parijata Vaneswarar carries the memory of a dance performed for a single devoted sage, and of a heavenly flower rooted in delta soil — a tender image at the heart of a temple that wears its antiquity lightly."
+    "history": "तिरुक्कळर हे मन्नारगुडीजवळील प्राचीन शैव गाव आहे, सातव्या शतकातील तेवारम्‌मध्ये पूजनीय आणि पाडल पेट्र स्थलम्‌मध्ये गणले गेलेले, संबंदर व अप्पर या दोघांनीही गायलेले. दगडी मंदिर नंतरच्या भरांसह चोळ काळातील आहे; परंपरेनुसार पहिली प्रतिष्ठापना स्वतः दुर्वास ऋषींनी केली. या स्थानाचे नाव नृत्यभूमीसाठीच्या तमिळ शब्दावरून स्पष्ट केले जाते, जे गावाला सुरुवातीपासूनच शिवाच्या नृत्याच्या आख्यायिकेशी जोडते.",
+    "architecture": "मंदिर द्राविड रचनेचे अनुसरण करते, आणि त्यावर सुमारे ऐंशी फूट उंचीचे उंच, पाच-स्तरीय पूर्वाभिमुख राजगोपुर प्रभावी आहे. गाभाऱ्यात पारिजात वनेश्वररांचे लिंग प्रतिष्ठित आहे, आणि देवी अमुदवल्लीचा स्वतंत्र गाभारा आहे. सपाट त्रिभुज प्रदेशात दुरूनच दिसणारे भव्य पूर्व गोपुर या अन्यथा गाव-मंदिराला मोठ्या स्थानाचे वैभव देते.",
+    "legends": "निर्णायक आख्यायिका म्हणजे दुर्वासांसाठी शिवाचे नृत्य. चिदंबरम् येथे स्वामीने केलेल्या वैश्विक नृत्याबद्दल ऐकून ऋषींना ते पाहण्याची आस लागली; त्यांनी देवलोकातून पारिजात फूल आणून येथे लावले, आणि त्यांच्या भक्तीने प्रसन्न होऊन शिव खाली उतरला आणि त्यांच्यासमोर ब्रह्म तांडव केले. पारिजात वनावरून स्वामीला पारिजात वनेश्वरर हे नाव मिळते, आणि नृत्यभूमीवरून गावाचे आणि स्वामीचे दुसरे नाव कळर्मुलैनाथर प्राप्त होते.",
+    "festivals": "मंदिर शैव उत्सव-पंचांग पाळते — महाशिवरात्री, प्रदोषम्, मार्गळि ऋतू आणि वार्षिक ब्रह्मोत्सव — आणि नृत्याची आख्यायिका नटराज व आर्द्रा दर्शन उत्सवांना विशेष अर्थ देते. उंच गोपुरामुळे रथोत्सव व मिरवणुका आसपासच्या गावांसाठी महत्त्वाची घटना बनतात.",
+    "experience": "त्रिभुज प्रदेश ओलांडत तिरुक्कळरकडे येताना यात्रेकरूला गावापूर्वीच दुरूनच मोठे पूर्व गोपुर दिसते. आत, पारिजात वनेश्वररांचे दर्शन एका एकाकी भक्त ऋषीसाठी केलेल्या नृत्याचे आणि त्रिभुजाच्या मातीत रुजलेल्या स्वर्गीय फुलाचे स्मरण जागवते — आपली प्राचीनता सहजतेने वागवणाऱ्या मंदिराच्या हृदयातील एक कोमल प्रतिमा."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkalar is in Tiruvarur district near Mannargudi, roughly 10-12 km away; Mannargudi is the nearest town and rail head, with local buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उत्तर-दुपारपासून संध्याकाळपर्यंत उघडे; विशेषतः उत्सवाच्या दिवशी स्थानिक पातळीवर वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे व गुडघे झाकलेले; प्रवेशद्वाराजवळ पादत्राणे ठेवली जातात.",
+    "photography": "बाहेरील ओवऱ्यांत छायाचित्रणास सामान्यतः परवानगी आहे पण गाभाऱ्यात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुक्कळर हे तिरुवारूर जिल्ह्यात मन्नारगुडीजवळ, सुमारे १०-१२ किमी अंतरावर आहे; मन्नारगुडी हे सर्वांत जवळचे शहर व रेल्वेस्थानक आहे, गावाला स्थानिक बस व टॅक्सी मिळतात."
   }
 }

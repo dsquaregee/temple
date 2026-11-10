@@ -1,29 +1,36 @@
 {
   "id": "varadaraja-thirumanikkoodam",
   "locale": "mr",
+  "name": "वरदराज पेरुमाळ मंदिर, तिरुमणिक्कूडम",
   "nativeName": "வரதராஜப் பெருமாள் கோயில், திருமணிக்கூடம்",
+  "deity": "वरदराज पेरुमाळ (मणिक्कूड नायकन) रूपातील विष्णू, तिरुमामगळ नाच्चियार (श्रीदेवी) आणि भूदेवी यांच्यासह — तिरुमणिक्कूडम, तिरुनांगूरमधील अकरा दिव्य देशांपैकी एक",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirunangur",
-    "state": "Tamil Nadu",
+    "city": "तिरुनांगूर",
+    "state": "तमिळनाडू",
     "lat": 11.1794,
     "lng": 79.7881
   },
+  "period": "चोळ नाडूमधील एक दिव्य देश, तिरुनांगूरच्या अकरा मंदिरांपैकी एक; नालायिर दिव्य प्रबंधममध्ये तिरुमंगै आळवार यांनी गायलेले",
   "century": 8,
+  "dynasty": "चोळ प्रदेश (नंतरच्या शतकांत जीर्णोद्धार)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "सीरकाळीजवळील तिरुनांगूर येथे विष्णू पूर्वाभिमुख उभा आहे — वरदराज पेरुमाळ, तिरुमणिक्कूडमचा मणिक्कूड नायकन; चंद्र पुष्करिणीच्या काठी असलेला, तिरुमंगै आळवार यांनी गायलेला चोळ नाडूमधील दिव्य देश.",
   "sections": {
-    "history": "Thirumanikkoodam is one of the 108 Divya Desams and lies in Chola Nadu, the Kaveri delta country. It is one of the eleven Vishnu shrines of Thirunangur, a cluster of villages east of Sirkazhi, each sung by Thirumangai Alvar in the Nalayira Divya Prabandham. Here the Lord is Varadaraja Perumal, also called Manikkooda Nayakan, standing in the nindra thirukkolam and facing east, with Thirumamagal Nachiyar and Bhudevi at his side. The name joins mani, a gem, with koodam, a peak or hall. The firm witness to the shrine is the Alvar's hymn, placed in the eighth century.",
-    "architecture": "The sanctum is crowned by the Kanaka vimana, and within it Varadaraja stands facing east in the standing posture. The tank belonging to the shrine is the Chandra Pushkarini, named for the Moon. It is a village temple of the Dravidian tradition, modest in scale. Thirumamagal Nachiyar and Bhudevi are worshipped beside the Lord, so that darshan here is of Varadaraja together with both his consorts.",
-    "legends": "Tradition holds that Chandra, the Moon, was blessed here by the Lord, which is why the tank is called the Chandra Pushkarini. A related telling belongs to all of Thirunangur: when Shiva danced at nearby Nangur, Surya and Chandra, frightened, are said to have hidden in two tanks of their own making — the Surya Pushkarini at Thiruthetriyambalam and the Chandra Pushkarini here. The wider sthala purana says that Vishnu took eleven forms at Shiva's request, and each is worshipped in its own Thirunangur shrine.",
-    "festivals": "Varadaraja Perumal takes part in the Thirunangur Garuda Sevai, held in the Tamil month of Thai on the day after Thai Amavasai, when the utsavars of the eleven shrines are carried on Garuda vahanams to Thirumanimadam. The Thirumangai Alvar mangalasasana utsavam, also in Thai, is the principal celebration. Confirm dates locally each year.",
-    "experience": "A small village shrine among the paddy fields, best visited as one stop in the round of the eleven Thirunangur Divya Desams. Look for the standing, east-facing Varadaraja and the consorts beside him, and ask after the Chandra Pushkarini. Visiting several of the eleven on one day, or timing the trip for the Thai Garuda Sevai, rewards the pilgrim most."
+    "history": "तिरुमणिक्कूडम हा १०८ दिव्य देशांपैकी एक असून कावेरी त्रिभुज प्रदेश असलेल्या चोळ नाडूमध्ये आहे. सीरकाळीच्या पूर्वेकडील गावांच्या समूहातील तिरुनांगूरच्या अकरा विष्णू मंदिरांपैकी हे एक आहे; प्रत्येक मंदिर तिरुमंगै आळवार यांनी नालायिर दिव्य प्रबंधममध्ये गायले आहे. येथे स्वामी वरदराज पेरुमाळ आहे, ज्याला मणिक्कूड नायकन असेही म्हणतात; तो नींद्र तिरुक्कोलम, म्हणजे उभ्या रूपात, पूर्वाभिमुख उभा असून त्याच्या बाजूला तिरुमामगळ नाच्चियार आणि भूदेवी आहेत. नावात मणी म्हणजे रत्न आणि कूडम म्हणजे शिखर किंवा सभागृह यांचा मेळ आहे. या मंदिराचा ठाम पुरावा म्हणजे आळवारांचे स्तोत्र, जे आठव्या शतकात ठेवले जाते.",
+    "architecture": "गर्भगृहावर कनक विमान आहे आणि त्याच्या आत वरदराज पूर्वाभिमुख उभ्या मुद्रेत उभा आहे. मंदिराचा तलाव चंद्र पुष्करिणी असून तिचे नाव चंद्राच्या नावावरून आहे. हे द्रविड परंपरेतील लहान प्रमाणाचे गावातील मंदिर आहे. स्वामींच्या बाजूला तिरुमामगळ नाच्चियार आणि भूदेवी यांची पूजा होते, म्हणून येथील दर्शन वरदराजाचे त्याच्या दोन्ही पत्नींसह होते.",
+    "legends": "परंपरा सांगते की चंद्राला येथे स्वामींनी आशीर्वाद दिला, म्हणूनच तलावाला चंद्र पुष्करिणी म्हणतात. संपूर्ण तिरुनांगूरशी निगडित एक संबंधित कथा अशी: जवळच्या नांगूर येथे शिवाने तांडव केले तेव्हा सूर्य आणि चंद्र घाबरून स्वतः निर्माण केलेल्या दोन तलावांत लपले, असे म्हणतात — तिरुत्तेट्रियंबलम येथील सूर्य पुष्करिणी आणि येथील चंद्र पुष्करिणी. व्यापक स्थळपुराण सांगते की शिवाच्या विनंतीवरून विष्णूने अकरा रूपे घेतली, आणि प्रत्येक रूपाची तिरुनांगूरच्या स्वतंत्र मंदिरात पूजा होते.",
+    "festivals": "वरदराज पेरुमाळ हा तिरुनांगूर गरुड सेवेत सहभागी होतो; ती थाई या तमिळ महिन्यात, थाई अमावास्येच्या दुसऱ्या दिवशी होते, जेव्हा अकरा मंदिरांचे उत्सवमूर्ती गरुडवाहनांवरून तिरुमणिमाडम येथे नेले जातात. तिरुमंगै आळवार मंगलाशासन उत्सव, तोही थाई महिन्यात, हा प्रमुख सोहळा आहे. तारखा दरवर्षी स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "भातशेतींमधील एक लहानसे गावातील मंदिर, तिरुनांगूरच्या अकरा दिव्य देशांच्या फेरीतील एक टप्पा म्हणून भेट देणे सर्वोत्तम. उभ्या, पूर्वाभिमुख वरदराजाला आणि त्याच्या बाजूच्या पत्नींना पाहा, आणि चंद्र पुष्करिणीबद्दल विचारपूस करा. एकाच दिवशी अकरांपैकी अनेकांना भेट देणे, किंवा थाई गरुड सेवेच्या वेळी प्रवास आखणे, यात्रेकरूला सर्वाधिक फलदायी ठरते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Thai Garuda Sevai is the busiest day. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirunangur lies about 8 km east of Sirkazhi, on the road towards Thiruvenkadu in Mayiladuthurai district. Sirkazhi has a railway station on the Chennai–Chidambaram–Mayiladuthurai line; the major airports are Tiruchirappalli and Chennai. Hire a vehicle or autorickshaw in Sirkazhi, since the eleven shrines lie close together."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन सत्रांसह उघडे असते आणि मध्यान्हीला बंद असते; थाई गरुड सेवेचा दिवस सर्वांत गर्दीचा असतो. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या भोवताली छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुनांगूर सीरकाळीच्या सुमारे ८ किमी पूर्वेला, मयिलादुतुरै जिल्ह्यातील तिरुवेन्काडूच्या दिशेने जाणाऱ्या रस्त्यावर आहे. सीरकाळी येथे चेन्नई–चिदंबरम–मयिलादुतुरै मार्गावरील रेल्वे स्थानक आहे; मोठी विमानतळे तिरुचिरापल्ली आणि चेन्नई येथे आहेत. अकराही मंदिरे एकमेकांजवळ असल्याने सीरकाळी येथे वाहन किंवा ऑटोरिक्षा भाड्याने घ्या."
   }
 }

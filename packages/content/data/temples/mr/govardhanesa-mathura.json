@@ -1,30 +1,37 @@
 {
   "id": "govardhanesa-mathura",
   "locale": "mr",
+  "name": "गोवर्धनेश पेरुमाळ मंदिर, मथुरा (तिरु वडमथुरै)",
   "nativeName": "गोवर्धनेश मंदिर, मथुरा",
+  "deity": "विष्णू गोवर्धनेशन रूपात, ज्यांना बालकृष्णन असेही म्हणतात, देवी सत्यभामा नाच्चियार यांच्यासह — उभी मूर्ती, पूर्वाभिमुख",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Mathura (Thiru Vadamathurai)",
-    "state": "Uttar Pradesh",
+    "city": "मथुरा (तिरु वडमथुरै)",
+    "state": "उत्तर प्रदेश",
     "lat": 27.505,
     "lng": 77.67
   },
+  "period": "उत्तर देशातील (वड नाडू) एक दिव्य देशम, नालायिर दिव्य प्रबंधमात पाच आळवारांनी गायिलेले",
   "century": 8,
+  "dynasty": "ब्रज परंपरा (विसाव्या शतकातील सध्याचा जन्मस्थान परिसर)",
+  "style": "उत्तर भारतीय",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "यमुनेच्या तीरावरील कृष्णजन्मभूमी मथुरा हे तिरु वडमथुरै नावाचे दिव्य देशम आहे, जेथे पेरियाळवार, आंडाळ, तोंडरडिप्पोडी, तिरुमंगै आणि नम्माळवार यांनी विष्णूची गोवर्धनेशन म्हणून स्तुती केली आहे.",
   "sections": {
-    "history": "Thiru Vadamathurai is one of the 108 Divya Desams and belongs to Vada Nadu, the northern country. Five Alvars sang of it in the Nalayira Divya Prabandham: Periyalvar, Andal, Thondaradippodi Alvar, Thirumangai Alvar and Nammalvar. Andal's Thiruppavai opens its fifth verse with a praise of the lord of northern Mathura. The temple the Alvars knew does not survive as an identifiable structure, and the Sri Vaishnava tradition honours the Divya Desam as Mathura itself, together with Vrindavan and Govardhan. Pilgrim guides associate the shrine with Krishna's birthplace, the Sri Krishna Janmasthan complex, where devotees gather today. Mathura is also one of the seven Mukti Kshetras, the sacred cities of liberation.",
-    "architecture": "The Alvars' temple is lost, so the Divya Desam is experienced at Mathura itself, chiefly at the Krishna Janmasthan complex. It has three main parts: the Keshavdev temple, the Garbh Griha marking the birthplace, and the Bhagavata Bhavan of Radha and Krishna. The present temple was consecrated in 1958. Sri Vaishnava listings name the lord's vimana as the Govardhana Vimana and the sacred water as the Yamuna, which flows beside the city.",
-    "legends": "The name Govardhanesan recalls Krishna lifting Govardhan hill to shelter the cowherds from Indra's storm; the hill lies about 20 km from Mathura. The sthala purana also tells that Shatrughna, at Rama's bidding, slew the demon Lavanasura and founded Mathura on the Yamuna, long before Krishna was born here. Andal's Thiruppavai remembers the lord as the wonder-worker of northern Mathura.",
-    "festivals": "Krishna Janmashtami is the great festival of Mathura, and Vaikunta Ekadashi is kept by Sri Vaishnava pilgrims. The Holi season is celebrated across Braj with great joy. Confirm festival dates and darshan arrangements locally, as crowds are very large on festival days.",
-    "experience": "Plan to visit the Krishna Janmasthan complex and walk down to the Yamuna ghats, then, if time allows, travel on to Vrindavan and Govardhan, which the tradition treats together with Mathura. Expect crowds at the complex, and carry only what you need."
+    "history": "तिरु वडमथुरै हे १०८ दिव्य देशमांपैकी एक असून ते उत्तर देश म्हणजे वड नाडूमध्ये येते. नालायिर दिव्य प्रबंधमात पाच आळवारांनी त्याचे गायन केले आहे: पेरियाळवार, आंडाळ, तोंडरडिप्पोडी आळवार, तिरुमंगै आळवार आणि नम्माळवार. आंडाळच्या तिरुप्पावैचे पाचवे पद उत्तरेकडील मथुरेच्या स्वामीच्या स्तुतीने सुरू होते. आळवारांना ज्ञात असलेले मंदिर ओळखता येईल अशा रचनेत आज टिकलेले नाही, आणि श्रीवैष्णव परंपरा या दिव्य देशमाचा सन्मान वृंदावन आणि गोवर्धन यांच्यासह मथुरेचाच म्हणून करते. यात्रेकरूंचे मार्गदर्शक या क्षेत्राचा संबंध कृष्णाच्या जन्मस्थानाशी, म्हणजे श्रीकृष्ण जन्मस्थान परिसराशी जोडतात, जेथे आज भक्त जमतात. मथुरा ही सात मुक्तिक्षेत्रांपैकी, म्हणजे मोक्ष देणाऱ्या पवित्र नगरींपैकी, एक आहे.",
+    "architecture": "आळवारांचे मंदिर नष्ट झाले आहे, म्हणून या दिव्य देशमाचा अनुभव मथुरेतच, प्रामुख्याने कृष्ण जन्मस्थान परिसरात घेतला जातो. त्याचे तीन मुख्य भाग आहेत: केशवदेव मंदिर, जन्मस्थान दर्शविणारे गर्भगृह आणि राधा-कृष्णांचे भागवत भवन. सध्याचे मंदिर १९५८ मध्ये प्रतिष्ठित झाले. श्रीवैष्णव यादींमध्ये प्रभूच्या विमानाचे नाव गोवर्धन विमान आणि पवित्र जलाचे नाव यमुना असे दिले आहे, जी नगराच्या कडेने वाहते.",
+    "legends": "इंद्राच्या वादळापासून गोपांना आश्रय देण्यासाठी कृष्णाने गोवर्धन पर्वत उचलला, याची आठवण गोवर्धनेशन हे नाव करून देते; तो पर्वत मथुरेपासून सुमारे २० कि.मी. अंतरावर आहे. स्थलपुराण असेही सांगते की रामाच्या आज्ञेवरून शत्रुघ्नाने लवणासुर राक्षसाचा वध केला आणि कृष्णाच्या जन्माच्या खूप आधी यमुनेकाठी मथुरा वसवली. आंडाळचे तिरुप्पावै प्रभूचे स्मरण उत्तर मथुरेचा चमत्कारकर्ता म्हणून करते.",
+    "festivals": "कृष्ण जन्माष्टमी हा मथुरेचा महान उत्सव आहे, आणि श्रीवैष्णव यात्रेकरू वैकुंठ एकादशी पाळतात. होळीचा हंगाम संपूर्ण ब्रजभूमीत मोठ्या आनंदाने साजरा केला जातो. उत्सवाच्या दिवशी गर्दी प्रचंड असते, म्हणून उत्सवाच्या तारखा आणि दर्शनाची व्यवस्था स्थानिक पातळीवर तपासून घ्यावी.",
+    "experience": "कृष्ण जन्मस्थान परिसराला भेट देण्याचे आणि यमुनेच्या घाटांवर चालत जाण्याचे नियोजन करावे; वेळ असल्यास पुढे वृंदावन आणि गोवर्धनला जावे, ज्यांना परंपरा मथुरेसह एकत्र मानते. परिसरात गर्दीची अपेक्षा ठेवावी आणि फक्त आवश्यक तेवढेच सोबत न्यावे."
   },
   "visit": {
-    "timings": "The Janmasthan complex opens daily for morning and evening darshan, with a midday closure. Janmashtami and Holi are extremely busy. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Mathura is on the Yamuna in Uttar Pradesh and has a major railway junction, with good road and rail links to Delhi and Agra. The Krishna Janmasthan complex is reached by local transport within the city. Govardhan lies about 20 km away."
+    "timings": "जन्मस्थान परिसर दररोज सकाळी आणि संध्याकाळी दर्शनासाठी उघडा असतो, दुपारी बंद असतो. जन्माष्टमी आणि होळीला अत्यंत गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "मथुरा उत्तर प्रदेशात यमुनेच्या तीरावर असून तेथे मोठे रेल्वे जंक्शन आहे; दिल्ली आणि आग्र्याशी रस्ता व रेल्वेची चांगली जोडणी आहे. कृष्ण जन्मस्थान परिसरात शहरातील स्थानिक वाहतुकीने पोहोचता येते. गोवर्धन सुमारे २० कि.मी. अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/govardhanesa-mathura.jpg",

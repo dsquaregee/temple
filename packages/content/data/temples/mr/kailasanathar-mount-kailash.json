@@ -1,30 +1,37 @@
 {
   "id": "kailasanathar-mount-kailash",
   "locale": "mr",
+  "name": "कैलास पर्वत (तिरुक्कयिलै)",
   "nativeName": "कैलाश पर्वत",
+  "deity": "कैलासनाथर रूपातील शिव, पर्वताचा स्वामी, पार्वतीसह",
+  "tradition": "शैव",
   "location": {
-    "city": "Mount Kailash",
-    "state": "Tibet Autonomous Region, China",
+    "city": "कैलास पर्वत",
+    "state": "तिबेट स्वायत्त प्रदेश, चीन",
     "lat": 31.0675,
     "lng": 81.3119
   },
+  "period": "वडनाडूमधील पाडल पेट्र स्थळम्मध्ये गणला जाणारा पवित्र पर्वत, अप्पर (सातवे शतक) आणि सुंदरर (आठवे शतक) यांनी गायिलेला",
   "century": 7,
+  "dynasty": "कोणतेही बांधलेले देवालय नाही — पर्वत हेच निवासस्थान आहे",
+  "style": "नैसर्गिक पवित्र पर्वत",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कैलास, तेवारममधील तिरुक्कयिलै, दगडी मंदिर नसून स्वतः शिवाचे पर्वतरूप निवासस्थान आहे — पाडल पेट्र स्थळम्मधील सर्वांत उत्तरेकडील शिखर.",
   "sections": {
-    "history": "Mount Kailash rises to about 6,600 metres in the far west of Tibet, with Lake Manasarovar spread below it to the south. In Shaiva devotion it is the abode of Shiva and Parvati, and the Tamil saints sang it as Thirukkayilai, the holy Kailash. It is counted among the 276 Paadal Petra Sthalams — the farthest of the five in Vada Nadu, the northern country, with Srisailam and the Himalayan shrines. Appar sang the Lord of Kayilai, and Sundarar's last hymn calls it Nodithanmalai. No temple stands on the mountain: here the sthalam is the peak itself, and by long custom of reverence its summit has never been climbed.",
-    "architecture": "There is no gopuram or sanctum at Kailash; the mountain is its own shrine. Its four great faces, sharply shaped and snow-streaked, give it the look of a vast natural vimana, and pilgrims read in it the form of a lingam rising from the plateau. Worship takes the form of the parikrama, a circuit of about 52 kilometres around the base, crossing the Dolma La pass at roughly 5,600 metres, with the waters of Manasarovar as its sacred tank.",
-    "legends": "The Periya Puranam tells that Appar, in his old age, set out on foot to behold Kailash and pressed on until his body failed; the Lord came to him as a sage, bade him bathe in a pool, and he rose from the tank at Thiruvaiyaru, where Kailash was revealed to him in vision. Of Sundarar it tells that at the end of his life Shiva sent a white elephant to bring him to the mountain, his friend Cheraman Perumal riding beside him. Karaikkal Ammaiyar, it is said, climbed Kailash on her hands, unwilling to set her feet upon the Lord's abode.",
-    "festivals": "In the Tamil country, Kailash is remembered in Aadi: Thiruvaiyaru celebrates Appar's vision of Kailash, and Shaiva temples keep Sundarar's guru puja, recalling his journey on the white elephant. At the mountain itself the pilgrimage season runs through the summer months, when the passes are open; confirm dates locally.",
-    "experience": "Kailash is a pilgrimage of endurance and wonder: days on the high plateau, the bath at Manasarovar and the long circuit of the mountain in thin air. The mountain is held sacred not only by Hindus but also by Buddhists, Jains and followers of the Bon tradition, and pilgrims of every faith walk the same path around it in reverence."
+    "history": "कैलास पर्वत तिबेटच्या सुदूर पश्चिमेस सुमारे ६,६०० मीटर उंच उठतो, आणि त्याच्या दक्षिणेस मानसरोवर पसरलेले आहे. शैव भक्तीत ते शिव आणि पार्वतीचे निवासस्थान आहे, आणि तमिळ संतांनी त्याचे तिरुक्कयिलै, पवित्र कैलास, असे गायन केले. २७६ पाडल पेट्र स्थळम्मध्ये त्याची गणना होते — वडनाडू, उत्तरेकडील प्रदेश, येथील पाचांपैकी सर्वांत दूरचे, श्रीशैलम आणि हिमालयीन देवळांसह. अप्पर यांनी कयिलैच्या प्रभूचे गायन केले, आणि सुंदरर यांचे अखेरचे पद त्याला नोडित्तान्मलै म्हणते. पर्वतावर कोणतेही मंदिर नाही: येथे स्थळम म्हणजे शिखरच, आणि आदराच्या दीर्घ प्रथेनुसार त्याचे शिखर कधीही सर केले गेलेले नाही.",
+    "architecture": "कैलासावर गोपुर किंवा गर्भगृह नाही; पर्वत हेच त्याचे देवालय आहे. त्याच्या चार महान बाजू, तीक्ष्ण आकाराच्या आणि बर्फाच्या रेषांनी माखलेल्या, त्याला विशाल नैसर्गिक विमानाचे रूप देतात, आणि यात्रेकरू त्यात पठारातून उगवणाऱ्या लिंगाचे रूप पाहतात. उपासना परिक्रमेच्या रूपात होते — पायथ्याभोवती सुमारे ५२ किलोमीटरची फेरी, सुमारे ५,६०० मीटरवरील डोल्मा ला खिंड ओलांडून, आणि मानसरोवराचे जल हे त्याचे पवित्र तळे.",
+    "legends": "पेरिय पुराण सांगते की अप्पर यांनी वृद्धापकाळी कैलासाचे दर्शन घेण्यासाठी पायी प्रवास सुरू केला आणि शरीर थकेपर्यंत पुढे चालत राहिले; प्रभू ऋषीच्या रूपात त्यांना भेटले, त्यांना एका कुंडात स्नान करण्यास सांगितले, आणि ते तिरुवैयारू येथील तळ्यातून वर आले, जेथे त्यांना दृष्टान्तात कैलास प्रकट झाले. सुंदररांबद्दल ते सांगते की त्यांच्या आयुष्याच्या अखेरीस शिवाने त्यांना पर्वतावर नेण्यासाठी पांढरा हत्ती पाठवला, आणि त्यांचा मित्र चेरमान पेरुमाळ शेजारी स्वार होऊन चालला. कारैक्कल अम्मैयार यांनी, असे म्हटले जाते, प्रभूच्या निवासस्थानावर पाय ठेवायचे नाहीत म्हणून हातांवर चालत कैलास चढला.",
+    "festivals": "तमिळ प्रदेशात कैलासाचे स्मरण आडी महिन्यात केले जाते: तिरुवैयारू येथे अप्पर यांच्या कैलास दर्शनाचा उत्सव साजरा होतो, आणि शैव मंदिरे सुंदरर यांची गुरुपूजा पाळतात, पांढऱ्या हत्तीवरील त्यांच्या प्रवासाचे स्मरण करून. पर्वतावर यात्रेचा हंगाम उन्हाळी महिन्यांत, खिंडी खुल्या असताना चालतो; तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "कैलास ही सहनशक्तीची आणि विस्मयाची यात्रा आहे: उंच पठारावरील अनेक दिवस, मानसरोवरातील स्नान आणि विरळ हवेतील पर्वताची लांब प्रदक्षिणा. हा पर्वत केवळ हिंदूंनाच नव्हे, तर बौद्ध, जैन आणि बोन परंपरेच्या अनुयायांनाही पवित्र आहे, आणि प्रत्येक धर्माचे यात्रेकरू आदराने त्याच्याभोवतीच्या त्याच वाटेवरून चालतात."
   },
   "visit": {
-    "timings": "There are no temple timings; the pilgrimage is possible only in the summer season, roughly June to September, when the routes are open. Confirm the current season, permits and arrangements well in advance.",
-    "dressCode": "Warm, layered clothing, sturdy walking shoes and protection from sun and wind are essential at this altitude. Dress modestly and follow the guidance of local authorities and guides at the sacred sites.",
-    "photography": "Photographing the mountain and the landscape is generally possible, but local regulations apply; respect pilgrims at prayer and ask before photographing people or monasteries.",
-    "gettingThere": "Indian pilgrims may join the Kailash Mansarovar Yatra organised by the Government of India through the Lipulekh pass in Uttarakhand or Nathu La in Sikkim; private tours travel via Nepal. Permits, medical fitness and acclimatisation are required."
+    "timings": "येथे मंदिराच्या वेळा नाहीत; यात्रा फक्त उन्हाळी हंगामात, साधारण जून ते सप्टेंबर, मार्ग खुले असताना शक्य आहे. सध्याचा हंगाम, परवानग्या आणि व्यवस्था यांची खात्री खूप आधीच करून घ्या.",
+    "dressCode": "या उंचीवर उबदार, थरांचे कपडे, मजबूत चालण्याचे बूट आणि ऊन व वाऱ्यापासून संरक्षण अत्यावश्यक आहे. सभ्य पोशाख करा आणि पवित्र स्थळी स्थानिक अधिकारी व मार्गदर्शकांच्या सूचनांचे पालन करा.",
+    "photography": "पर्वताचे आणि परिसराचे छायाचित्रण सामान्यतः शक्य आहे, पण स्थानिक नियम लागू होतात; प्रार्थना करणाऱ्या यात्रेकरूंचा आदर करा आणि व्यक्ती किंवा मठांचे छायाचित्र घेण्यापूर्वी विचारा.",
+    "gettingThere": "भारतीय यात्रेकरू उत्तराखंडमधील लिपुलेख खिंड किंवा सिक्कीममधील नाथू ला मार्गे भारत सरकारने आयोजित केलेल्या कैलास मानसरोवर यात्रेत सहभागी होऊ शकतात; खासगी सहली नेपाळमार्गे जातात. परवानग्या, वैद्यकीय तंदुरुस्ती आणि हवामानाशी जुळवून घेणे आवश्यक आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kailasanathar-mount-kailash.jpg",

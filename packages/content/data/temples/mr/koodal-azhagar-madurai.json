@@ -1,30 +1,37 @@
 {
   "id": "koodal-azhagar-madurai",
   "locale": "mr",
+  "name": "कूडल अळगर मंदिर, मदुराई",
   "nativeName": "கூடலழகர் கோயில், மதுரை",
+  "deity": "बसलेल्या रूपातील कूडल अळगर म्हणून विष्णू, देवी मथुरवल्ली ताया यांच्यासह — आणि वरच्या विमानाच्या थरांत उभ्या सूर्यनारायण व शयन करणाऱ्या रंगनाथ रूपांतही",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Madurai",
-    "state": "Tamil Nadu",
+    "city": "मदुराई",
+    "state": "तमिळनाडू",
     "lat": 9.914,
     "lng": 78.114
   },
+  "period": "मदुराईच्या मध्यभागी असलेले पांड्य प्रदेशातील एक दिव्य देशम्, ज्याचे गायन पेरियाळ्वारांनी नालायिर दिव्य प्रबंधमध्ये केले",
   "century": 8,
+  "dynasty": "पांड्य, मदुराई नायक",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "जुन्या मदुराईच्या हृदयात विष्णू तीन थरांच्या विमानाखाली कूडलचा सुंदर स्वामी कूडल अळगर म्हणून विराजतो — परंपरेनुसार पेरियाळ्वारांनी येथेच प्रथम तिरुप्पल्लांडू गायले.",
   "sections": {
-    "history": "Koodal is the ancient poetic name of Madurai, and Koodal Azhagar — 'the beautiful one of Koodal' — is the city's own Divya Desam, standing a short walk from the Meenakshi Amman temple. It is one of the 108 Divya Desams of the Pandya Nadu, and it holds a special place in Sri Vaishnava memory as the shrine linked with Periyalvar, the Alvar of Srivilliputhur and foster-father of Andal. Tradition holds that it was here, before the Pandya court, that he sang the Thiruppallandu, the benediction with which the recitation of the Nalayira Divya Prabandham still begins. The temple grew under the Pandyas and later the Madurai Nayaks, and remains a busy place of worship in the old city.",
-    "architecture": "The temple is famous for its Ashtanga vimana, a tower built in three storeys, each with its own form of Vishnu: the lord seated as Koodal Azhagar in the sanctum below, standing as Surya Narayana above, and reclining on the serpent at the top level, a shrine devotees may climb to see. The Goddess Mathuravalli Thayar has her own shrine. Unusually for a Vishnu temple, a shrine of the nine planets stands within the precincts.",
-    "legends": "The sthala purana tells of the Pandya king Vallabhadeva, who walked the city in disguise to learn the lives of his people and, moved by a pilgrim's words, sought to know who was the supreme god. He called the learned to debate, and Periyalvar, a simple garland-maker of Srivilliputhur, proved the supremacy of Vishnu. As the king led him through Madurai in honour, Vishnu appeared in the sky on Garuda; and Periyalvar, fearing the evil eye might fall on such beauty, burst into song — 'Pallandu, pallandu', may you live for countless years.",
-    "festivals": "The temple keeps the great Vaishnava festivals, above all Vaikunta Ekadashi, when the gateway of heaven is opened and the old city fills with devotees. Processions of the utsava deities through the surrounding streets, and the recitation of Thiruppallandu in the shrine where it is said to have been born, are highlights of its year.",
-    "experience": "Koodal Azhagar is easily reached from the Meenakshi temple and is best visited unhurried. After darshan of the seated lord, climb the vimana to see the standing and reclining forms in turn — a rare chance to circle a sanctum tower from within. It pairs naturally with Kallazhagar and Thirumohur on a day among Madurai's Divya Desams."
+    "history": "कूडल हे मदुराईचे प्राचीन काव्यमय नाव आहे, आणि कूडल अळगर — 'कूडलचा सुंदर' — हा शहराचा स्वतःचा दिव्य देशम् असून मीनाक्षी अम्मन मंदिरापासून थोड्या चालीच्या अंतरावर आहे. हा पांड्य नाडूमधील १०८ दिव्य देशम्पैकी एक आहे, आणि श्रीविल्लिपुत्तूरचे आळ्वार व आंडाळचे पालक-पिता पेरियाळ्वार यांच्याशी जोडलेले देवस्थान म्हणून श्रीवैष्णव स्मृतीत त्याला विशेष स्थान आहे. परंपरा सांगते की येथेच, पांड्य दरबारासमोर, त्यांनी तिरुप्पल्लांडू गायले — ज्या आशीर्वचनाने नालायिर दिव्य प्रबंधाचे पठण आजही सुरू होते. मंदिर पांड्यांच्या आणि पुढे मदुराई नायकांच्या काळात वाढले, आणि जुन्या शहरातील ते आजही गजबजलेले उपासनास्थान आहे.",
+    "architecture": "हे मंदिर अष्टांग विमानासाठी प्रसिद्ध आहे; हा तीन मजल्यांचा मनोरा असून प्रत्येक मजल्यावर विष्णूचे स्वतःचे रूप आहे: खाली गर्भगृहात कूडल अळगर म्हणून बसलेला स्वामी, वर उभ्या रूपातील सूर्यनारायण, आणि सर्वांत वरच्या स्तरावर शेषनागावर शयन करणारा — हे देवस्थान भक्त चढून पाहू शकतात. देवी मथुरवल्ली ताया यांचे स्वतंत्र देवस्थान आहे. विष्णू मंदिरासाठी असामान्य असे, नवग्रहांचे देवस्थान आवारात आहे.",
+    "legends": "स्थलपुराण पांड्य राजा वल्लभदेवाची कथा सांगते; तो प्रजेचे जीवन जाणून घेण्यासाठी वेषांतर करून नगरात फिरला आणि एका यात्रेकरूच्या शब्दांनी प्रभावित होऊन सर्वश्रेष्ठ देव कोण हे जाणू इच्छिला. त्याने विद्वानांना वादविवादासाठी बोलावले, आणि श्रीविल्लिपुत्तूरचे साधे फुलमाळी पेरियाळ्वार यांनी विष्णूचे श्रेष्ठत्व सिद्ध केले. राजा त्यांना सन्मानाने मदुराईतून फिरवत असताना विष्णू गरुडावर आरूढ होऊन आकाशात प्रकट झाला; आणि एवढ्या सौंदर्याला दृष्ट लागेल या भीतीने पेरियाळ्वार गाऊ लागले — 'पल्लांडु, पल्लांडु', तुम्ही असंख्य वर्षे जगा.",
+    "festivals": "मंदिर महान वैष्णव उत्सव पाळते, त्यांत सर्वांत महत्त्वाची वैकुंठ एकादशी, जेव्हा स्वर्गाचे द्वार उघडले जाते आणि जुने शहर भक्तांनी भरून जाते. आसपासच्या रस्त्यांतून उत्सवमूर्तींच्या मिरवणुका, आणि ज्या देवस्थानात तिरुप्पल्लांडूचा जन्म झाला असे म्हणतात तेथे त्याचे पठण, हे वर्षातील ठळक प्रसंग आहेत.",
+    "experience": "कूडल अळगर मीनाक्षी मंदिरापासून सहज गाठता येते आणि घाई न करता भेट देणे उत्तम. बसलेल्या स्वामीच्या दर्शनानंतर विमानावर चढून उभे आणि शयन रूप क्रमाने पाहा — गर्भगृहाच्या मनोऱ्याला आतून प्रदक्षिणा घालण्याची ही दुर्मिळ संधी आहे. मदुराईच्या दिव्य देशम्मधील एका दिवसात कळ्ळळगर आणि तिरुमोहूर यांच्यासोबत हे सहज जोडले जाते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is very crowded. Confirm current timings, including access to the upper vimana shrines, before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple stands in central Madurai, south-west of the Meenakshi Amman temple and close to the Periyar bus stand, reachable on foot or by auto-rickshaw. Madurai Junction railway station is nearby, and Madurai Airport lies about 12 km south."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शन-सत्रांसह उघडे, मध्यान्हीला बंद; वैकुंठ एकादशीला खूप गर्दी असते. भेटीपूर्वी, वरच्या विमानातील देवस्थानांपर्यंतच्या प्रवेशासह, सध्याच्या वेळा खात्री करून घ्या.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "मंदिर मध्य मदुराईत, मीनाक्षी अम्मन मंदिराच्या नैर्ऋत्येला आणि पेरियार बस स्थानकाजवळ आहे; पायी किंवा ऑटोरिक्षाने पोहोचता येते. मदुराई जंक्शन रेल्वे स्थानक जवळ आहे, आणि मदुराई विमानतळ सुमारे १२ किमी दक्षिणेला आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/koodal-azhagar-madurai.jpg",

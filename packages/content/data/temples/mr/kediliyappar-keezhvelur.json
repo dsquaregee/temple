@@ -1,29 +1,36 @@
 {
   "id": "kediliyappar-keezhvelur",
   "locale": "mr",
+  "name": "केडिलियप्पर मंदिर, कीळवेळूर",
   "nativeName": "திருக்கீழ்வேளூர் கேடிலியப்பர் கோயில்",
+  "deity": "केडिलियप्पर (अक्षयलिंगेश्वर) रूपातील शिव, देवी वनमुलै अम्मन यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थलम, कोचेंगट चोळांचे माडकोविल",
   "location": {
-    "city": "Keezhvelur, near Nagapattinam",
-    "state": "Tamil Nadu",
+    "city": "कीळवेळूर, नागपट्टिनमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.7006,
     "lng": 79.7756
   },
+  "period": "तेवारम काळ; परंपरेनुसार कोचेंगट चोळांनी उभारलेले",
   "century": 9,
+  "dynasty": "चोळ (परंपरेनुसार कोचेंगट चोळ)",
+  "style": "द्रविड (माडकोविल, उंच चौथऱ्याचा प्रकार)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "नागपट्टिनमजवळील कीळवेळूर येथे शिव केडिलियप्पर — अक्षयलिंगेश्वर असेही म्हणतात — म्हणून देवी वनमुलै अम्मनसह पूजला जातो; हे संबंधर आणि अप्पर यांनी गायिलेले पाडल पेट्र स्थलम आहे. माडकोविल, म्हणजे परंपरेने चोळ राजा कोचेंगट चोळ याच्याकडे श्रेय दिल्या जाणाऱ्या उंच मंदिरांपैकी एक, म्हणून बांधलेले हे मंदिर सप्तस्तरीय राजगोपुरासह आपल्या परिसरावर उठून दिसते. त्याचे स्थलवृक्ष इलंतै, म्हणजे बोर, असून ते अमृताच्या एका थेंबातून उगवले असे म्हटले जाते.",
   "sections": {
-    "history": "Keezhvelur, whose historical name is Thirukeezhvelur, is an ancient Shaiva site near Nagapattinam, revered in the seventh-century Tevaram by both Sambandar and Appar. The temple is a Maadakovil — one of the raised temples traditionally attributed to the early Chola king Kochengat Chola, built high so that an elephant could not enter the sanctum. The present fabric, altered and renovated over centuries, is held to be at least a thousand years old; its antiquity rests on its Tevaram standing and its sculptures.",
-    "architecture": "As a Maadakovil, the temple sits on an elevated base, its sanctum reached by a flight of steps — a form distinctive to the Kochengat Chola foundations. The east-facing rajagopuram rises seven tiers, with the Saravana Theertham opposite. The sanctum enshrines Kediliappar, Akshayalingeswarar, and the goddess Vanamulai Amman has her own shrine. The temple's Nataraja is shown with the right foot raised, a rare posture said to be the form the lord revealed to the sage Agastya.",
-    "legends": "The sthala-purana traces the temple to the churning of the ocean of milk: a drop of the amrita, the nectar of immortality, is said to have fallen here and grown into a forest of ilanthai, the jujube, which became the temple's sacred tree. The raised Maadakovil form is explained by the devotion of Kochengat Chola, who in tradition built such temples so tall that elephants could not disturb the worship. The right-foot-raised Nataraja recalls the grace shown to Agastya, for whom the lord reversed his dancing posture.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi observances and the annual Brahmotsavam — with Arudra Darshan honouring the special Nataraja held in particular regard. The elevated sanctum gives the festival processions and the climb to darshan a distinctive character.",
-    "experience": "Climbing to the raised sanctum of a Maadakovil is itself part of the pilgrimage at Keezhvelur, lifting the devotee above the surrounding fields toward the lord. The seven-tiered tower, the jujube tree of the nectar legend and the rare right-footed Nataraja give the temple a quiet distinction, and the darshan of Kediliappar — the 'faultless lord' — carries a sense of completeness and grace."
+    "history": "कीळवेळूर, ज्याचे ऐतिहासिक नाव तिरुकीळवेळूर आहे, हे नागपट्टिनमजवळील प्राचीन शैव स्थान आहे; सातव्या शतकातील तेवारममध्ये संबंधर आणि अप्पर या दोघांनी त्याचा गौरव केला आहे. हे मंदिर माडकोविल आहे — परंपरेने आद्य चोळ राजा कोचेंगट चोळ याच्याकडे श्रेय दिल्या जाणाऱ्या उंच मंदिरांपैकी एक, जे इतके उंच बांधले की हत्ती गर्भगृहात शिरू शकत नाही. शतकानुशतके बदललेली आणि नूतनीकृत झालेली सध्याची वास्तू किमान हजार वर्षे जुनी मानली जाते; तिची प्राचीनता तिच्या तेवारममधील स्थानावर आणि शिल्पांवर आधारलेली आहे.",
+    "architecture": "माडकोविल म्हणून मंदिर उंच अधिष्ठानावर वसलेले आहे, आणि गर्भगृहापर्यंत पायऱ्यांचा जिना जातो — कोचेंगट चोळांच्या उभारणींचे वैशिष्ट्यपूर्ण रूप. पूर्वाभिमुख राजगोपुर सात मजले उंच आहे, आणि त्याच्या समोर सरवण तीर्थम आहे. गर्भगृहात केडिलियप्पर, अक्षयलिंगेश्वर, विराजमान आहेत, आणि देवी वनमुलै अम्मनचे स्वतंत्र देवालय आहे. मंदिरातील नटराज उजवा पाय उचललेला असा दर्शवला आहे; ही दुर्मीळ मुद्रा प्रभूने अगस्त्य ऋषींना दाखवलेले रूप असल्याचे म्हटले जाते.",
+    "legends": "स्थलपुराण मंदिराचा संबंध क्षीरसागराच्या मंथनाशी जोडते: अमृताचा, म्हणजे अमरत्वाच्या सुधेचा, एक थेंब येथे पडला आणि इलंतै, म्हणजे बोराच्या, वनात रूपांतरित झाला, असे म्हटले जाते, आणि ते मंदिराचे पवित्र वृक्ष झाले. उंच माडकोविल रूपाचे स्पष्टीकरण कोचेंगट चोळाच्या भक्तीने दिले जाते; परंपरेनुसार त्याने अशी मंदिरे इतकी उंच बांधली की हत्ती पूजेत व्यत्यय आणू शकत नव्हते. उजवा पाय उचललेला नटराज अगस्त्यावर झालेल्या कृपेचे स्मरण करून देतो, ज्याच्यासाठी प्रभूने आपली नृत्यमुद्रा उलट केली.",
+    "festivals": "मंदिरात शैव उत्सवांचे वेळापत्रक पाळले जाते — महाशिवरात्र, प्रदोषम्, मार्गळी महिन्याचे विधी आणि वार्षिक ब्रह्मोत्सव — ज्यात आरुद्र दर्शन विशेष आदराच्या नटराजाचा गौरव करते. उंच गर्भगृहामुळे उत्सवमिरवणुकांना आणि दर्शनासाठीच्या चढाईला एक वेगळे स्वरूप येते.",
+    "experience": "कीळवेळूर येथील यात्रेचा भाग म्हणजे माडकोविलच्या उंच गर्भगृहाकडे चढणे; ते भक्ताला भोवतालच्या शेतांच्या वर प्रभूकडे उचलून नेते. सप्तस्तरीय गोपुर, अमृतकथेतील बोराचे झाड आणि दुर्मीळ उजवा पाय उचललेला नटराज मंदिराला एक शांत विशिष्टता देतात, आणि केडिलियप्परांचे — 'निर्दोष प्रभूचे' — दर्शन पूर्णत्वाची आणि कृपेची जाणीव देते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Keezhvelur is in Nagapattinam district, about 10 km from Nagapattinam and near Tiruvarur; the nearest rail heads are Nagapattinam and Tiruvarur, with local buses and taxis to the town."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून सायंकाळपर्यंत खुले; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः सणांच्या दिवशी.",
+    "dressCode": "खांदे आणि गुडघे झाकलेले, साधे पारंपरिक पोशाख अपेक्षित आहेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत सामान्यतः छायाचित्रणास परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "कीळवेळूर नागपट्टिनम जिल्ह्यात, नागपट्टिनमपासून सुमारे १० किमी आणि तिरुवारूरजवळ आहे; जवळची रेल्वेस्थानके नागपट्टिनम आणि तिरुवारूर असून गावापर्यंत स्थानिक बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "sarguneswarar-karuvili",
   "locale": "mr",
+  "name": "सर्गुणेश्वर मंदिर, तिरुक्करुविलि कोट्टिट्टै (करुवेली)",
   "nativeName": "திருக்கருவிலிக் கொட்டிட்டை சற்குணேஸ்வரர் கோயில்",
+  "deity": "सर्गुणेश्वर (सर्गुणनाथेश्वर) रूपातील शिव, देवी सर्वांगसुंदरी (सर्वांग नायकी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम",
   "location": {
-    "city": "Karuveli, near Koonthalur",
-    "state": "Tamil Nadu",
+    "city": "करुवेली, कूंदलूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9407,
     "lng": 79.5313
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कावेरी त्रिभुज-प्रदेशात कूंदलूरजवळील करुवेली, म्हणजे तेवारममधील तिरुक्करुविलि कोट्टिट्टै, येथे शिव सर्गुणेश्वर — सर्व सद्गुणांचे स्वामी — म्हणून, देवी सर्वांगसुंदरी, 'सर्वांगसुंदर', यांच्यासह पूजले जातात. अप्पर यांनी गायिलेले हे पाडल पेट्र स्थलम राजा सर्गुणन याने येथे पूजा करून पुनर्जन्मातून मुक्ती मिळवली त्या स्थळाच्या रूपात स्मरले जाते, आणि येथील पूजाच मोक्ष देणारी मानली जाते.",
   "sections": {
-    "history": "Karuveli, whose Tevaram name is Tirukkaruvili Kottittai, lies near Koonthalur in the Kaveri delta, about 22 km from Kumbakonam, close to the Thanjavur–Tiruvarur border (sources variously list Tiruvarur or Thanjavur district). It is a Paadal Petra Sthalam, hymned by Tirunavukkarasar (Appar). The village is also called Sarguneswarapuram, after King Sargunan who is said to have worshipped here and attained liberation. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Sarguneswarar in the sanctum, with the goddess Sarvangasundari — also Sarvanga Nayaki — in her own shrine, her standing image remarkable at some five and a half feet tall. A Nandi and the parivara devatas complete the plan. The sacred tank, the Yama Theertham, lies outside the temple; its name recalls the lord's power over death and the moksha sought here.",
-    "legends": "The lord's name Sarguneswarar means 'the lord of all good qualities' (sarva-guna), and the goddess Sarvangasundari is 'she who is beautiful in every limb.' The sthala legend tells of a king named Sargunan who worshipped Shiva here with such devotion that he was freed from the cycle of birth and death, giving the village the name Sarguneswarapuram. The Yama Theertham, named for the lord of death, marks the place as one where the fear of death is overcome and moksha granted.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. As a shrine famed for granting moksha, it draws devotees who seek release, especially on Shivaratri nights.",
-    "experience": "Karuveli offers the pilgrim a shrine whose whole promise is liberation. Before Sarguneswarar and the tall, serene form of Sarvangasundari, beside the Yama Theertham that recalls the conquest of death, the visitor stands where a king is said to have won release — a quiet delta temple whose name and legend hold out the hope of moksha."
+    "history": "करुवेली, ज्याचे तेवारममधील नाव तिरुक्करुविलि कोट्टिट्टै आहे, कावेरी त्रिभुज-प्रदेशात कूंदलूरजवळ, कुंभकोणमपासून सुमारे २२ किमी अंतरावर, तंजावूर–तिरुवारूर सीमेजवळ वसले आहे (स्रोत याला तिरुवारूर किंवा तंजावूर जिल्ह्यात असे वेगवेगळे नोंदवतात). हे तिरुनावुक्करसर (अप्पर) यांनी गायिलेले पाडल पेट्र स्थलम आहे. राजा सर्गुणन याने येथे पूजा करून मुक्ती मिळवली असे सांगितले जाते, म्हणून या गावाला सर्गुणेश्वरपुरम असेही म्हणतात. दगडी मंदिर चोळकाळातील आणि नंतरचे आहे.",
+    "architecture": "हे द्रविड शैलीतील त्रिभुज-प्रदेशातील मंदिर आहे; गर्भगृहात सर्गुणेश्वर विराजमान आहेत, आणि देवी सर्वांगसुंदरी — सर्वांग नायकीही — स्वतःच्या मंदिरात आहेत; तिची उभी मूर्ती सुमारे साडेपाच फूट उंच असल्याने लक्षवेधी आहे. नंदी आणि परिवार देवता यांनी रचना पूर्ण होते. पवित्र तीर्थ, यम तीर्थम, मंदिराच्या बाहेर आहे; त्याचे नाव प्रभूच्या मृत्यूवरील सामर्थ्याचे आणि येथे मागितल्या जाणाऱ्या मोक्षाचे स्मरण करून देते.",
+    "legends": "प्रभूचे नाव सर्गुणेश्वर म्हणजे 'सर्व सद्गुणांचे (सर्व-गुण) स्वामी', आणि देवी सर्वांगसुंदरी म्हणजे 'जी प्रत्येक अंगाने सुंदर आहे'. स्थळकथा सांगते की सर्गुणन नावाच्या राजाने येथे शिवाची इतकी भक्तीने पूजा केली की तो जन्म-मृत्यूच्या चक्रातून मुक्त झाला, आणि त्यामुळे गावाला सर्गुणेश्वरपुरम हे नाव मिळाले. मृत्यूच्या स्वामीच्या नावाने ओळखले जाणारे यम तीर्थम हे स्थान दर्शवते जेथे मृत्यूचे भय जिंकले जाते आणि मोक्ष दिला जातो.",
+    "festivals": "मंदिरात माशी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यात नवरात्र आणि कार्तिकैचे सोमवार, प्रदोष पूजेसह, पाळले जातात. मोक्ष देणारे तीर्थ म्हणून प्रसिद्ध असल्याने, विशेषतः शिवरात्रीच्या रात्री, मुक्ती इच्छिणाऱ्या भक्तांना ते आकर्षित करते.",
+    "experience": "करुवेली यात्रेकरूला असे मंदिर देते ज्याचे संपूर्ण आश्वासनच मुक्ती आहे. सर्गुणेश्वर आणि सर्वांगसुंदरीच्या उंच, शांत रूपासमोर, मृत्यूवरील विजयाचे स्मरण करून देणाऱ्या यम तीर्थमच्या काठी, अभ्यागत अशा ठिकाणी उभा राहतो जेथे एका राजाने मुक्ती मिळवली असे सांगितले जाते — एक शांत त्रिभुज-प्रदेशातील मंदिर ज्याचे नाव आणि आख्यायिका मोक्षाची आशा दाखवतात."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Karuveli is about 22 km from Kumbakonam, reached via the Kumbakonam–Natchiarkoil–Poonthottam road to Koonthalur, then north across the Arasalaru about 2 km to the temple (Koondhalur post, near the Thanjavur–Tiruvarur border). Kumbakonam is the nearest major rail head, with buses toward Koonthalur and local taxis."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा-मार्गांत छायाचित्रण साधारणतः परवानगीयोग्य आहे, परंतु गर्भगृहाच्या आत नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "करुवेली कुंभकोणमपासून सुमारे २२ किमी अंतरावर आहे; कुंभकोणम–नाच्चियार कोविल–पूंदोट्टम रस्त्याने कूंदलूरपर्यंत जावे, मग अरसलारू ओलांडून उत्तरेस सुमारे २ किमी मंदिरापर्यंत (कूंदलूर टपाल क्षेत्र, तंजावूर–तिरुवारूर सीमेजवळ). कुंभकोणम हे सर्वांत जवळचे प्रमुख रेल्वे स्थानक असून कूंदलूरच्या दिशेने बस आणि स्थानिक टॅक्सी उपलब्ध आहेत."
   }
 }

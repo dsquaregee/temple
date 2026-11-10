@@ -1,29 +1,36 @@
 {
   "id": "vasishteswarar-thenkudithittai",
   "locale": "mr",
+  "name": "वसिष्ठेश्वर मंदिर, तेनकुडितिट्टै",
   "nativeName": "வசிஷ்டேஸ்வரர் கோயில்",
+  "deity": "वसिष्ठेश्वर रूपातील शिव, देवी लोकनायकीसह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thenkudithittai",
-    "state": "Tamil Nadu",
+    "city": "तेनकुडितिट्टै",
+    "state": "तमिळनाडू",
     "lat": 10.86,
     "lng": 79.13
   },
+  "period": "तंजावूरजवळील कावेरी त्रिभुज प्रदेशातील प्राचीन शैव मंदिर, तेवारममध्ये गायलेले (सातवे शतक)",
   "century": 7,
+  "dynasty": "चोळ आणि नंतरचे तमिळ आश्रयदाते",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तंजावूरजवळील तेनकुडितिट्टै येथे शिव वसिष्ठेश्वर आहे, ज्याची उपासना वसिष्ठ ऋषींनी केली; हे मंदिर गुरु स्थळम म्हणून पूज्य आहे, आणि प्रत्येक नाळिगैला लिंगावर पाण्याचा एक थेंब पडतो, असे म्हणतात.",
   "sections": {
-    "history": "Thenkudithittai is a Kaveri-delta village near Thanjavur, set on a mound between the Vennar and Vettaru rivers, and its temple is a Paadal Petra Sthalam counted among the shrines sung in the Tevaram on the southern bank of the Kaveri. The Lord is worshipped as Vasishteswarar, named for the sage Vasishta who is said to have worshipped here, and the goddess as Loganayaki. The shrine was built and endowed in stone under the Cholas and their successors, and it has long been revered as a Guru sthalam, a place of the planet Jupiter, drawing those who seek the grace of the preceptor of the gods.",
-    "architecture": "The temple is built in the Dravidian delta manner, with a gopuram, pillared halls and a prakara around the sanctum of Vasishteswarar. The goddess Loganayaki has her own shrine, and between the two stands a distinct, separately-roofed shrine for Guru, Jupiter, which devotees say is unusual among Guru sthalams, where the planet is more often honoured in the Dakshinamurthy form. A south-facing Dakshinamurthy shrine is also present, as at other delta temples.",
-    "legends": "Tradition holds that the sage Vasishta, preceptor of the solar line, worshipped Shiva here and that the Lord took his name as Vasishteswarar. The place is also tied to the pralaya, the great flood, when this mound between the rivers is said to have stayed dry, giving the village its name of the southern settlement on the mound. A continual drop of water is said to fall upon the linga at each naazhigai, a wonder devotees come to witness.",
-    "festivals": "As a Guru sthalam the temple keeps special worship on the transit days of Jupiter from one zodiac sign to the next, and on Thursdays, the day of Guru. Maha Shivaratri, the monthly Pradosham, and the Tamil month festivals are also observed. Festival dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Many come to Thenkudithittai as a Guru sthalam, to worship Jupiter in his own shrine and to pray for learning and good counsel, before worshipping Vasishteswarar and Loganayaki. The temple keeps the calm of a delta village sanctuary near Thanjavur, and the ceaseless water-drop on the linga is among the quiet wonders devotees recall."
+    "history": "तेनकुडितिट्टै हे तंजावूरजवळील कावेरी त्रिभुज प्रदेशातील गाव असून वेण्णार आणि वेट्टारु नद्यांच्या मधल्या टेकाडावर वसलेले आहे; याचे मंदिर पाडल पेट्र स्थळम आहे आणि कावेरीच्या दक्षिण तीरावरील तेवारममध्ये गायलेल्या मंदिरांमध्ये गणले जाते. स्वामींची उपासना वसिष्ठेश्वर म्हणून होते — येथे उपासना केलेल्या वसिष्ठ ऋषींवरून हे नाव — आणि देवीची लोकनायकी म्हणून. मंदिर चोळ आणि त्यांच्या उत्तराधिकाऱ्यांच्या काळात दगडात बांधले गेले आणि त्याला देणग्या मिळाल्या, आणि ते फार पूर्वीपासून गुरु स्थळम, म्हणजे गुरु ग्रहाचे स्थान, म्हणून पूज्य आहे; देवांच्या गुरूची कृपा शोधणाऱ्यांना ते आकर्षित करते.",
+    "architecture": "मंदिर द्रविड त्रिभुज प्रदेशाच्या शैलीत बांधलेले असून वसिष्ठेश्वराच्या गर्भगृहाभोवती गोपुर, स्तंभयुक्त सभामंडप आणि प्राकार आहे. देवी लोकनायकीचे स्वतंत्र मंदिर आहे, आणि दोघांच्या मध्ये गुरु, म्हणजे बृहस्पतीसाठी, स्वतंत्र छप्पर असलेले वेगळे मंदिर आहे; भाविक म्हणतात की गुरु स्थळमांमध्ये हे असामान्य आहे, जेथे ग्रहाचा सन्मान अधिकतर दक्षिणामूर्ती रूपात केला जातो. इतर त्रिभुज प्रदेशातील मंदिरांप्रमाणे येथेही दक्षिणाभिमुख दक्षिणामूर्तीचे मंदिर आहे.",
+    "legends": "परंपरा सांगते की सूर्यवंशाचे गुरु वसिष्ठ ऋषींनी येथे शिवाची उपासना केली आणि स्वामींनी त्यांचे नाव घेऊन वसिष्ठेश्वर हे नाव धारण केले. हे स्थान प्रलयाशीही, म्हणजे महापुराशीही, जोडलेले आहे, जेव्हा नद्यांमधील हे टेकाड कोरडे राहिले, असे म्हणतात, आणि त्यावरून गावाला 'टेकाडावरील दक्षिणेकडील वस्ती' हे नाव मिळाले. प्रत्येक नाळिगैला लिंगावर पाण्याचा अखंड थेंब पडतो, असे म्हणतात — भाविक हा चमत्कार पाहण्यासाठी येतात.",
+    "festivals": "गुरु स्थळम म्हणून मंदिरात गुरु ग्रह एका राशीतून दुसऱ्या राशीत संक्रमण करतो त्या दिवशी आणि गुरूचा वार असलेल्या गुरुवारी विशेष पूजा होते. महाशिवरात्री, मासिक प्रदोषम आणि तमिळ महिन्यांचे उत्सवही पाळले जातात. उत्सवाच्या तारखा तमिळ कालगणनेनुसार असतात, म्हणून त्या स्थानिक पातळीवर तपासा.",
+    "experience": "अनेकजण तेनकुडितिट्टैला गुरु स्थळम म्हणून येतात — गुरूच्या स्वतंत्र मंदिरात त्याची उपासना करण्यासाठी आणि विद्या आणि सुयोग्य सल्ल्यासाठी प्रार्थना करण्यासाठी — आणि त्यानंतर वसिष्ठेश्वर आणि लोकनायकीची उपासना करतात. मंदिराने तंजावूरजवळील त्रिभुज प्रदेशातील गावाच्या आश्रयस्थानाची शांतता जपली आहे, आणि लिंगावरील अखंड जलबिंदू हा भाविकांच्या स्मरणात राहणाऱ्या शांत चमत्कारांपैकी एक आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thenkudithittai lies on a mound between the Vennar and Vettaru rivers, a short distance from Thanjavur in the Kaveri delta. Thanjavur is the nearest major railway station; Tiruchirappalli airport is about 65 km away. Local buses and autos reach the village."
+    "timings": "सहसा पहाटेपासून मध्यान्हीपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत छायाचित्रण सामान्यतः परवानगीयुक्त आहे, परंतु गर्भगृहाच्या आत नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तेनकुडितिट्टै कावेरी त्रिभुज प्रदेशात, तंजावूरपासून थोड्या अंतरावर, वेण्णार आणि वेट्टारु नद्यांमधील टेकाडावर आहे. तंजावूर हे सर्वांत जवळचे मोठे रेल्वे स्थानक आहे; तिरुचिरापल्ली विमानतळ सुमारे ६५ किमी अंतरावर आहे. स्थानिक बस आणि ऑटो गावापर्यंत जातात."
   }
 }

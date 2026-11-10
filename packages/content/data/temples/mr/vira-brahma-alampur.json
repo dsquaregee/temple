@@ -1,29 +1,36 @@
 {
   "id": "vira-brahma-alampur",
   "locale": "mr",
+  "name": "वीर ब्रह्म मंदिर, आलमपूर",
   "nativeName": "వీర బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "वीर ब्रह्मेश्वर (लिंग) रूपातील शिव",
+  "tradition": "शैव",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "आलमपूर",
+    "state": "तेलंगणा",
     "lat": 15.8787,
     "lng": 78.1354
   },
+  "period": "आलमपूरच्या नऊ नवब्रह्म मंदिरांपैकी एक, बादामी चालुक्य काळातील (सातवे–आठवे शतक)",
   "century": 8,
+  "dynasty": "चालुक्य (बादामी)",
+  "style": "आद्य चालुक्य, उत्तरी (रेखा-नागर) मंदिर प्रकार",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "झिजलेले तरीही आपल्या द्वारपालांच्या पहाऱ्यात असलेले, आलमपूर येथील वीर ब्रह्म मंदिर आपल्या शिखरावर नृत्य करणारा शिव धारण करते — तुंगभद्रेकाठच्या स्थळ-संग्रहालयासमोर असलेल्या चार नवब्रह्म मंदिरांच्या रांगेपैकी एक.",
   "sections": {
-    "history": "Vira Brahma, the shrine of the heroic Brahma, belongs to the nine Navabrahma temples that the Badami Chalukyas raised at Alampur on the Tungabhadra between the seventh and eighth centuries — Shiva temples all, though each bears a name of Brahma. It stands in the northern row of the group, between Arka Brahma and Vishwa Brahma, facing the site museum. The temple has been badly damaged over the centuries; it is no longer in worship and is today protected by the Archaeological Survey of India as part of the Alampur monuments.",
-    "architecture": "Vira Brahma follows the pattern that unites the Alampur group: an east-facing sanctum enclosed by a passage for circumambulation, entered through a hall, and crowned by a curving tower in the northern manner, its walls articulated with slender engaged pilasters. At the sanctum entrance two door guardians, dvarapalas, still keep watch, one of them heavily worn. High on the tower is a figure of Nataraja, Shiva as lord of the dance — an emblem fitting for a shrine whose name speaks of heroism and energy.",
-    "legends": "Vira means hero. The nine Navabrahma names are remembered at Alampur as the forms in which Brahma, performing penance on the banks of the Tungabhadra, worshipped Shiva; the god he adored is honoured here as Vira Brahmeshwara. For pilgrims the dancing Shiva on the tower is a reminder that the lord of stillness and meditation is also the lord of the cosmic dance.",
-    "festivals": "As a protected monument, Vira Brahma has no festival of its own. The precinct's living shrines carry the sacred year — Maha Shivaratri at Bala Brahmeshwara, and Navaratri and Dasara for the goddess Jogulamba — and visitors on those days find the whole compound full of pilgrims. Confirm dates locally.",
-    "experience": "Look up before you step in: the Nataraja on the tower is easy to miss without a pause in the open court. At the doorway, the surviving dvarapala repays a close look at Chalukya carving at human scale. Vishwa Brahma, the best preserved of the northern row, stands next door, so the two are naturally seen together."
+    "history": "वीर ब्रह्म, पराक्रमी ब्रह्माचे क्षेत्र, हे बादामी चालुक्यांनी सातव्या ते आठव्या शतकात तुंगभद्रेवरील आलमपूर येथे उभारलेल्या नऊ नवब्रह्म मंदिरांपैकी आहे — ती सर्व शिवमंदिरे आहेत, तरीही प्रत्येकाला ब्रह्माचे नाव आहे. ते समूहाच्या उत्तरेकडील रांगेत, अर्क ब्रह्म आणि विश्व ब्रह्म यांच्यामध्ये, स्थळ-संग्रहालयासमोर उभे आहे. शतकानुशतके मंदिराची मोठी हानी झाली आहे; ते आता पूजेत नाही आणि आलमपूर स्मारकांचा भाग म्हणून आज भारतीय पुरातत्त्व सर्वेक्षणाकडून संरक्षित आहे.",
+    "architecture": "वीर ब्रह्म आलमपूर समूहाला एकत्र बांधणाऱ्या आराखड्याचे पालन करते: प्रदक्षिणा-मार्गाने वेढलेले पूर्वाभिमुख गर्भगृह, मंडपातून प्रवेश, आणि उत्तरी शैलीतील वक्राकार शिखराने मुकुटित; त्याच्या भिंती सडपातळ अर्धस्तंभांनी सजवलेल्या आहेत. गर्भगृहाच्या प्रवेशद्वारी दोन द्वारपाल अजूनही पहारा देतात, त्यांतील एक खूपच झिजलेला आहे. शिखराच्या उंच भागावर नटराजाची, नृत्याचा स्वामी शिवाची, आकृती आहे — पराक्रम आणि ऊर्जा सांगणारे नाव असलेल्या क्षेत्राला साजेसे प्रतीक.",
+    "legends": "वीर म्हणजे पराक्रमी. आलमपूर येथे नऊ नवब्रह्म नावे ही तुंगभद्रेच्या तीरावर तपश्चर्या करणाऱ्या ब्रह्माने शिवाची पूजा केली त्या रूपांची स्मृती म्हणून जपली जातात; त्याने ज्याची आराधना केली त्या देवाचा येथे वीर ब्रह्मेश्वर म्हणून सन्मान होतो. यात्रेकरूंसाठी शिखरावरील नृत्य करणारा शिव ही आठवण आहे की स्थिरतेचा आणि ध्यानाचा स्वामीच विश्वनृत्याचाही स्वामी आहे.",
+    "festivals": "संरक्षित स्मारक असल्याने वीर ब्रह्माचा स्वतःचा उत्सव नाही. परिसरातील जिवंत मंदिरे पवित्र वर्ष सांभाळतात — बाल ब्रह्मेश्वर येथे महाशिवरात्री, आणि देवी जोगुलांबेसाठी नवरात्र आणि दसरा — आणि त्या दिवशी येणाऱ्यांना सारा परिसर यात्रेकरूंनी भरलेला दिसतो. तिथी स्थानिक पातळीवर तपासा.",
+    "experience": "आत पाऊल टाकण्यापूर्वी वर पाहा: मोकळ्या अंगणात थांबल्याशिवाय शिखरावरील नटराज सहज चुकतो. प्रवेशद्वारी, उरलेल्या द्वारपालाकडे जवळून पाहणे म्हणजे मानवी मापाच्या चालुक्य कोरीवकामाचे दर्शन. उत्तरेकडील रांगेतील सर्वांत उत्तम जतन झालेले विश्व ब्रह्म शेजारीच उभे आहे, त्यामुळे दोन्ही साहजिकच एकत्र पाहिली जातात."
   },
   "visit": {
-    "timings": "The Navabrahma precinct is open to visitors through the day; as an ASI-protected site, hours and any entry charges for the precinct and museum should be confirmed locally.",
-    "dressCode": "Modest dress is appreciated across the precinct, which includes living shrines; remove footwear where asked.",
-    "photography": "Photography is generally allowed at the monuments; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away; the temple stands within the Navabrahma precinct by the Tungabhadra, opposite the site museum."
+    "timings": "नवब्रह्म परिसर दिवसभर अभ्यागतांसाठी खुला असतो; भारतीय पुरातत्त्व सर्वेक्षणाकडून संरक्षित स्थळ असल्याने परिसर आणि संग्रहालयाच्या वेळा आणि प्रवेश शुल्क असल्यास ते स्थानिक पातळीवर तपासा.",
+    "dressCode": "जिवंत मंदिरांचाही समावेश असलेल्या या परिसरात सभ्य पोशाखाची अपेक्षा आहे; सांगितल्या ठिकाणी पादत्राणे काढावीत.",
+    "photography": "स्मारकांवर छायाचित्रणाची सहसा परवानगी असते; ट्रायपॉड किंवा व्यावसायिक चित्रीकरणासाठी स्थळ-प्राधिकरणाची परवानगी लागू शकते.",
+    "gettingThere": "आलमपूर जोगुलांबा गडवाल जिल्ह्यात, कर्नूलपासून सुमारे २५ किमी आणि हैदराबादच्या दक्षिणेस सुमारे २२० किमीवर, हैदराबाद–बंगळुरू महामार्गाला (राष्ट्रीय महामार्ग ४४) लागूनच आहे. हैदराबाद–कर्नूल मार्गावरील आलमपूर रोड रेल्वे स्थानक सुमारे ९ किमी अंतरावर आहे; मंदिर तुंगभद्रेकाठच्या नवब्रह्म परिसरात, स्थळ-संग्रहालयासमोर आहे."
   }
 }

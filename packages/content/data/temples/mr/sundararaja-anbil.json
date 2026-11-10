@@ -1,29 +1,36 @@
 {
   "id": "sundararaja-anbil",
   "locale": "mr",
+  "name": "सुंदरराज पेरुमाळ मंदिर, अन्बिल",
   "nativeName": "சுந்தரராஜப் பெருமாள் கோயில், அன்பில்",
+  "deity": "सुंदरराज पेरुमाळ (वडिवळगिय नम्बी) रूपातील विष्णू, शयनमुद्रेत, देवी अळगियवल्ली यांच्यासह — कोल्लिडमच्या काठावरील सुंदर प्रभू",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Anbil",
-    "state": "Tamil Nadu",
+    "city": "अन्बिल",
+    "state": "तमिळनाडू",
     "lat": 10.868,
     "lng": 78.882
   },
+  "period": "चोळ प्रदेशातील एक दिव्यदेशम, नालायिरदिव्यप्रबंधममध्ये तिरुमळिसै आळवार यांनी गायलेले",
   "century": 8,
+  "dynasty": "चोळ (नंतरच्या भरीसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "अन्बिल येथे कोल्लिडमच्या काठावर विष्णू सुंदरराज पेरुमाळ, सुंदर वडिवळगिय नम्बी म्हणून, अळगियवल्ली थायार यांच्यासह शयन करतात — तिरुमळिसै आळवारांनी गायलेले चोळ प्रदेशातील दिव्यदेशम.",
   "sections": {
-    "history": "Anbil lies on the northern bank of the Kollidam, east of Lalgudi in the Tiruchirappalli district, and the place is also remembered by the old names Mandukapuri and Brahmapuri. It is one of the 108 Divya Desams in Chola Nadu, sung by Thirumazhisai Alvar in the Nalayira Divya Prabandham. The temple is believed to have been raised by the Cholas in the later eighth century, and the Anbil copper plates preserve the memory of Chola generosity to the village. Anbil was also the home of Aniruddha Brahmarayar, the minister of the Chola king Sundara Chola. The temple is administered today by the Tamil Nadu Hindu Religious and Charitable Endowments Department.",
-    "architecture": "The sanctum stands under the Tharaka Vimanam, and the temple tank is the Manduka Theertham, named for the frog (manduka) of the old place name. Sundararaja Perumal reclines in bhujanga sayanam, with his two consorts holding his feet in such a way that the feet are hidden from view — a rare detail in the iconography of the reclining Lord. Azhagiyavalli Thayar has her own shrine. The temple follows the Dravidian manner of the Chola country.",
-    "legends": "The sthala purana tells that Brahma, proud of his power of creation, was cursed by Vishnu to be born on earth. Repenting, he came to Anbil, prayed to the Lord here and was relieved of the curse; hence the place is called Brahmapuri. The Lord is known as Vadivazhagiya Nambi, the one of beautiful form, a name that gives the temple its tender character.",
-    "festivals": "The best-known festival is the Theerthavari of the month of Masi, in February–March, when the Lord is taken in procession to the water. Vaikunta Ekadashi is also observed with devotion. Confirm festival dates locally, as they follow the Tamil almanac.",
-    "experience": "A tranquil riverside Divya Desam away from the busier shrines of the Cauvery delta. Look for the hidden feet of the reclining Lord, walk around the Manduka Theertham, and pause to remember that this is the land of Aniruddha Brahmarayar. It combines well with a visit to Srirangam or Lalgudi."
+    "history": "अन्बिल तिरुचिरापल्ली जिल्ह्यात लालगुडीच्या पूर्वेस, कोल्लिडमच्या उत्तर काठावर वसले आहे, आणि हे स्थळ मंडूकपुरी आणि ब्रह्मपुरी या जुन्या नावांनीही स्मरले जाते. हे चोळ नाडूमधील १०८ दिव्यदेशमांपैकी एक असून नालायिरदिव्यप्रबंधममध्ये तिरुमळिसै आळवारांनी गायले आहे. हे मंदिर चोळांनी आठव्या शतकाच्या उत्तरार्धात उभारले असावे असे मानले जाते, आणि अन्बिलचे ताम्रपट गावावरील चोळांच्या उदारतेची स्मृती जपतात. अन्बिल हे चोळ राजा सुंदर चोळ यांचे मंत्री अनिरुद्ध ब्रह्मराय्यर यांचे निवासस्थानही होते. आज हे मंदिर तमिळनाडू हिंदू धार्मिक आणि धर्मादाय विभागाद्वारे चालवले जाते.",
+    "architecture": "गर्भगृह तारक विमानाखाली उभे आहे, आणि मंदिराचे सरोवर मंडूक तीर्थम आहे, जे जुन्या स्थळनामातील बेडकाच्या (मंडूक) नावावरून ठेवले आहे. सुंदरराज पेरुमाळ भुजंगशयन मुद्रेत शयन करतात; त्यांच्या दोन अर्धांगिनी त्यांचे चरण असे धरतात की चरण दृष्टीआड राहतात — शयनस्थ प्रभूंच्या मूर्तिशास्त्रातील एक दुर्मिळ तपशील. अळगियवल्ली थायारांचे स्वतंत्र मंदिर आहे. हे मंदिर चोळ प्रदेशाच्या द्रविड पद्धतीचे अनुसरण करते.",
+    "legends": "स्थलपुराण सांगते की आपल्या सृजनशक्तीचा अभिमान बाळगणाऱ्या ब्रह्मदेवाला विष्णूंनी पृथ्वीवर जन्म घेण्याचा शाप दिला. पश्चात्ताप होऊन ते अन्बिलला आले, येथे प्रभूंची प्रार्थना केली आणि शापातून मुक्त झाले; म्हणून या स्थळाला ब्रह्मपुरी म्हणतात. प्रभू वडिवळगिय नम्बी — सुंदर रूपाचे — म्हणून ओळखले जातात, आणि हे नाव मंदिराला त्याचे हळुवार स्वरूप देते.",
+    "festivals": "सर्वांत प्रसिद्ध उत्सव म्हणजे फेब्रुवारी–मार्चमधील मासी महिन्याचा तीर्थवारी, जेव्हा प्रभूंची जलाकडे मिरवणूक काढली जाते. वैकुंठ एकादशीही भक्तिभावाने पाळली जाते. उत्सवाच्या तारखा तमिळ पंचांगानुसार असल्याने स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "कावेरी त्रिभुज प्रदेशातील अधिक गजबजलेल्या क्षेत्रांपासून दूर, नदीकाठचे शांत दिव्यदेशम. शयनस्थ प्रभूंचे दृष्टीआड असलेले चरण शोधा, मंडूक तीर्थमभोवती फिरा, आणि ही अनिरुद्ध ब्रह्मराय्यरांची भूमी आहे याचे स्मरण करत क्षणभर थांबा. श्रीरंगम किंवा लालगुडीच्या भेटीशी हे चांगले जोडता येते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is the busiest day. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Anbil lies on the northern bank of the Kollidam, east of Lalgudi, roughly 30 km from Tiruchirappalli. Tiruchirappalli Junction (and Lalgudi station on the line nearby) and Tiruchirappalli International Airport are the nearest gateways; the last stretch is by road, and local buses and taxis serve the village."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शनवेळांसह उघडे, मध्यान्हीला बंद; वैकुंठ एकादशी हा सर्वांत गजबजलेला दिवस असतो. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करावे.",
+    "gettingThere": "अन्बिल कोल्लिडमच्या उत्तर काठावर, लालगुडीच्या पूर्वेस, तिरुचिरापल्लीपासून सुमारे ३० किमी अंतरावर आहे. तिरुचिरापल्ली जंक्शन (आणि जवळच्या मार्गावरील लालगुडी स्थानक) आणि तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ ही जवळची प्रवेशद्वारे आहेत; शेवटचा टप्पा रस्त्याने आहे, आणि स्थानिक बसगाड्या व टॅक्सी गावाला सेवा देतात."
   }
 }

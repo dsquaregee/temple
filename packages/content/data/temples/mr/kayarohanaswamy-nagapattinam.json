@@ -1,31 +1,38 @@
 {
   "id": "kayarohanaswamy-nagapattinam",
   "locale": "mr",
+  "name": "कायारोहणस्वामी मंदिर, नागपट्टिनम",
   "nativeName": "காயாரோகணசுவாமி கோயில், நாகப்பட்டினம்",
+  "deity": "कायारोहणस्वामी रूपातील शिव, त्यागराज उत्सवमूर्ती नगर विडंगर आणि देवी नीलायदाक्षी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Nagapattinam",
-    "state": "Tamil Nadu",
+    "city": "नागपट्टिनम",
+    "state": "तमिळनाडू",
     "lat": 10.766,
     "lng": 79.8449
   },
+  "period": "तेवारम मध्ये गायिले गेलेले पाडल पेट्र स्थलम; चोळ काळातील दगडी मंदिर",
   "century": 9,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "sapta-vidanga-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "कोरोमंडल किनाऱ्यावरील नागपट्टिनम या जुन्या बंदर-नगरात शिव कायारोहणस्वामी रूपात विराजमान आहे, आणि या देवस्थानाचा त्यागराज — नगर विडंगर — हा कावेरी त्रिभुज-प्रदेशातील सात नृत्य करणाऱ्या विडंगांपैकी एक आहे; त्याची मिरवणूक उन्मत्त नटनम् मध्ये डोलत जाते, असे मानले जाते.",
   "sections": {
-    "history": "Nagapattinam, an ancient port on the Coromandel coast at the seaward edge of the Kaveri delta, holds the temple of Shiva as Kayarohanaswamy, with the Goddess Neelayadakshi. It is a Paadal Petra Sthalam, sung by the Nayanmar saints, its stone shrines of the Chola age when Nagapattinam was a great harbour of the eastern trade. The temple is one of the Sapta Vidanga Sthalams, the seven shrines of the dancing Thyagaraja of the delta, and here the Thyagaraja is honoured as Nagara Vidangar.",
-    "architecture": "Built in the Dravidian manner, the temple gathers around the sanctum of Kayarohanaswamy, with the Goddess Neelayadakshi in her own shrine and, as at every Vidanga temple, the Somaskanda form of Thyagaraja — Shiva with Uma and the child Skanda — worshipped as the processional lord. Pillared halls and a gateway tower open before the sanctum, in the manner of the great delta temples raised and endowed under the Cholas.",
-    "legends": "The Sapta Vidanga temples share a single legend: the uncarved images of Thyagaraja, the Vidangas, are said to have been given by the lord to the kings of old and worshipped in the Somaskanda form, each moving in its own dance when carried in procession. At Nagapattinam the Thyagaraja is Nagara Vidangar, and his procession is held to move in the Unmatta Natanam, one of the seven dances of the delta shrines that together make up the tradition of the dancing Thyagaraja.",
-    "festivals": "The temple keeps the festivals of Shiva and of Thyagaraja through the year, with the procession of the Vidangar the heart of its celebration, alongside the car festival through the port town and the days sacred to the Nayanmar saints. Coastal festivals and the Panguni and Aadi observances fill the shrine with lamps and song.",
-    "experience": "Nagapattinam rewards the pilgrim with a seaward Shiva temple and one of the seven dancing Thyagarajas, in a town whose harbour once reached across the eastern seas. It sits on the coast within easy reach of the delta temple towns, and joins the other Vidanga shrines — from Thiruvarur inland to Vedaranyam at the river's mouth — into the single pilgrimage of the seven dances."
+    "history": "कोरोमंडल किनाऱ्यावरील प्राचीन बंदर असलेले नागपट्टिनम, कावेरी त्रिभुज-प्रदेशाच्या समुद्राकडील टोकावर वसले आहे; तेथे कायारोहणस्वामी रूपातील शिवाचे मंदिर आहे आणि देवी नीलायदाक्षी त्याच्या सोबत आहे. हे नायनमार संतांनी गायिलेले पाडल पेट्र स्थलम आहे; त्याची दगडी देवालये चोळ काळातील आहेत, जेव्हा नागपट्टिनम हे पूर्वेकडील व्यापाराचे मोठे बंदर होते. हे मंदिर सप्त विडंग स्थलमांपैकी एक आहे, म्हणजे त्रिभुज-प्रदेशातील नृत्य करणाऱ्या त्यागराजाच्या सात देवस्थानांपैकी, आणि येथे त्यागराजाला नगर विडंगर म्हणून पूजले जाते.",
+    "architecture": "द्रविड शैलीत बांधलेले हे मंदिर कायारोहणस्वामींच्या गर्भगृहाभोवती वसलेले आहे; देवी नीलायदाक्षी आपल्या स्वतंत्र देवालयात आहे, आणि प्रत्येक विडंग मंदिरात असते तसे त्यागराजाचे सोमास्कंद रूप — उमा आणि बाल स्कंदासह शिव — उत्सवमूर्ती म्हणून पूजले जाते. चोळांच्या काळात उभारल्या आणि देणग्या मिळालेल्या त्रिभुज-प्रदेशातील महान मंदिरांच्या पद्धतीप्रमाणे गर्भगृहापुढे स्तंभयुक्त सभामंडप आणि गोपुर उभे आहेत.",
+    "legends": "सप्त विडंग मंदिरांची एकच कथा आहे: त्यागराजाच्या विडंग नावाच्या न घडवलेल्या मूर्ती प्रभूने प्राचीन राजांना दिल्या आणि त्यांची पूजा सोमास्कंद रूपात होत असे, आणि मिरवणुकीत नेताना प्रत्येक मूर्ती आपल्या स्वतःच्या नृत्यात हलते, असे म्हटले जाते. नागपट्टिनम येथे त्यागराज नगर विडंगर आहे, आणि त्याची मिरवणूक उन्मत्त नटनम् मध्ये हलते असे मानले जाते; हे त्रिभुज-प्रदेशातील देवस्थानांच्या सात नृत्यांपैकी एक असून ती मिळून नृत्य करणाऱ्या त्यागराजाची परंपरा घडवतात.",
+    "festivals": "मंदिरात वर्षभर शिवाचे आणि त्यागराजाचे उत्सव साजरे होतात; विडंगरांची मिरवणूक हे त्याच्या उत्सवाचे हृदय आहे, सोबत बंदर-नगरातून निघणारा रथोत्सव आणि नायनमार संतांना समर्पित दिवस असतात. किनारी उत्सव आणि पंगुनी व आडी महिन्यांचे विधी देवस्थानाला दिवे आणि गायनाने भरून टाकतात.",
+    "experience": "नागपट्टिनम यात्रेकरूला समुद्राकडे मुख असलेले शिवमंदिर आणि सात नृत्य करणाऱ्या त्यागराजांपैकी एक देते, अशा नगरात ज्याचे बंदर एकेकाळी पूर्वेकडील समुद्रांपर्यंत पोहोचले होते. ते त्रिभुज-प्रदेशातील मंदिर-नगरांच्या सहज आवाक्यात किनाऱ्यावर वसले आहे, आणि अंतर्भागातील तिरुवारूरपासून नदीमुखावरील वेदारण्यमपर्यंतची इतर विडंग देवस्थाने जोडून सात नृत्यांची एकच तीर्थयात्रा घडवते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and processions are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Nagapattinam is a coastal district town at the seaward edge of the Kaveri delta, well connected by road and rail; it lies within easy reach of Thiruvarur and the other delta temple towns."
+    "timings": "दररोज सकाळ-संध्याकाळच्या दर्शन सत्रांसह आणि दुपारच्या बंदसह खुले; सणांचे दिवस आणि मिरवणुकांवेळी सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "खांदे आणि गुडघे झाकलेले, साधे पारंपरिक पोशाख अपेक्षित आहेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. अनेक दक्षिणेकडील देवस्थानांप्रमाणे पुरुषांना गर्भगृहासमोर वरचे वस्त्र काढण्यास पारंपरिकरित्या सांगितले जाते; लावलेले नियम पाळावेत.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "नागपट्टिनम हे कावेरी त्रिभुज-प्रदेशाच्या समुद्राकडील टोकावरील किनारी जिल्ह्याचे शहर असून रस्ते व रेल्वेने उत्तम जोडलेले आहे; तिरुवारूर आणि त्रिभुज-प्रदेशातील इतर मंदिर-नगरे त्याच्या सहज आवाक्यात आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kayarohanaswamy-nagapattinam.jpg",

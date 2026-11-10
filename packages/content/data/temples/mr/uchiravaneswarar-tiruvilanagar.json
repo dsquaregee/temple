@@ -1,29 +1,36 @@
 {
   "id": "uchiravaneswarar-tiruvilanagar",
   "locale": "mr",
+  "name": "उच्चिरवनेश्वरर मंदिर, तिरुविळनगर",
   "nativeName": "திருவிளநகர் உச்சிரவனேஸ்வரர் கோயில்",
+  "deity": "शिव उच्चिरवनेश्वरर (विळर्काट्टु नाथर, तुरै कट्टुम वल्लालर) रूपात, देवी वेयुरु तोळी अम्मै यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम्",
   "location": {
-    "city": "Tiruvilanagar, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "तिरुविळनगर, मयिलादुतुरैजवळ",
+    "state": "तमिळनाडू",
     "lat": 11.08,
     "lng": 79.72
   },
+  "period": "तेवारम काळ (इसवी सनाच्या ७ व्या शतकात स्तुतिगान); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मयिलादुतुरैजवळील तिरुविळनगर येथे शिवाची उच्चिरवनेश्वरर म्हणून पूजा केली जाते — त्यांना वेळूच्या वनाचा स्वामी विळर्काट्टु नाथर असेही म्हणतात — आणि सोबत देवी वेयुरु तोळी अम्मै आहेत. तिरुज्ञान संबंदर यांनी तेवारममध्ये गायिलेले हे पाडल पेट्र स्थलम् कावेरीच्या दक्षिण तीरावरील शिवमंदिरांमध्ये गणले जाते. येथे एकेकाळी दाट वाढलेल्या विळ (वेळू) गवताची आठवण मंदिराच्या नावात आहे, आणि भक्तांना 'उतारा दाखवणारा' म्हणून या प्रभूची पूजा केली जाते.",
   "sections": {
-    "history": "Tiruvilanagar, near Mayiladuthurai, is a Paadal Petra Sthalam of the Kaveri's southern bank, its Shiva hymned in the Tevaram by Tirugnana Sambandar. Older directories place it in Nagapattinam district; after the district reorganisation it falls within Mayiladuthurai district. The stone temple belongs to the Chola period and after, raised over the ancient sacred site that the saint's hymns had already made famous.",
-    "architecture": "A Dravidian delta shrine, the temple enshrines Uchiravaneswarar in the sanctum, with the goddess Veyuru Tholi Ammai in her own shrine, a Nandi, and the customary parivara devatas. The sthala vriksham is the vizhal, the reed or spear-grass; the Sanskrit uchira gives the lord the name Uchiravaneswarar, and in Tamil he is Vizharkaattu Nathar, lord of the reed forest. The temple is grouped among the Mayiladuthurai Pancha Dakshinamurti sthalams.",
-    "legends": "The sthala purana recalls a time when vizhal reeds grew thick over this ground, within which the lingam was found and worshipped — hence the lord's names Uchiravaneswarar and Vizharkaattu Nathar. He is also praised as Thurai Kattum Vallalar, the generous one who 'shows the ford,' guiding his devotees across the waters of samsara. As with the smaller delta shrines, the fuller sthala legends are preserved chiefly in the local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October), and the Mondays of Karthikai, with the regular Pradosha worship. These are kept at the modest scale of a village shrine, visited by pilgrims following the Paadal Petra trail of the southern Kaveri.",
-    "experience": "Tiruvilanagar offers the pilgrim a quiet Tevaram shrine amid the reed-country of the delta. Before Uchiravaneswarar and Veyuru Tholi Ammai, the visitor meets the 'lord who shows the ford' — a small temple whose ancient name and surviving worship carry the memory of the reed forest in which it first rose."
+    "history": "मयिलादुतुरैजवळील तिरुविळनगर हे कावेरीच्या दक्षिण तीरावरील पाडल पेट्र स्थलम् आहे; येथील शिवाची स्तुती तिरुज्ञान संबंदर यांनी तेवारममध्ये गायिली आहे. जुन्या सूचींमध्ये ते नागपट्टिनम जिल्ह्यात दाखवले जाते; जिल्ह्यांच्या पुनर्रचनेनंतर ते मयिलादुतुरै जिल्ह्यात येते. हे दगडी मंदिर चोळकाळातील आणि त्यानंतरचे आहे; संतांच्या स्तोत्रांनी आधीच प्रसिद्ध केलेल्या या प्राचीन पवित्र स्थळावर ते उभारले गेले.",
+    "architecture": "हे द्रविड शैलीतील नदीमुखप्रदेशातील मंदिर आहे. गर्भगृहात उच्चिरवनेश्वरर विराजमान आहेत; देवी वेयुरु तोळी अम्मै यांचे स्वतंत्र मंदिर, नंदी आणि नेहमीचे परिवार देवता येथे आहेत. स्थलवृक्ष विळ — वेळू किंवा भालेगवत — आहे; संस्कृत 'उच्चिर' शब्दावरून प्रभूला उच्चिरवनेश्वरर हे नाव मिळाले आणि तमिळमध्ये ते विळर्काट्टु नाथर, म्हणजे वेळूवनाचे स्वामी, आहेत. हे मंदिर मयिलादुतुरैच्या पंच दक्षिणामूर्ती स्थळांमध्ये गणले जाते.",
+    "legends": "स्थलपुराण सांगते की एकेकाळी या भूमीवर विळ वेळू दाट वाढले होते; त्यांच्या मध्ये लिंग सापडले आणि त्याची पूजा झाली — म्हणूनच प्रभूची उच्चिरवनेश्वरर आणि विळर्काट्टु नाथर ही नावे आहेत. त्यांची स्तुती तुरै कट्टुम वल्लालर, म्हणजे 'उतारा दाखवणारा' उदार स्वामी, अशीही केली जाते; ते भक्तांना संसारसागराच्या पाण्यापलीकडे नेतात. लहान नदीमुखप्रदेशातील मंदिरांप्रमाणेच, येथील सविस्तर स्थल कथा प्रामुख्याने स्थानिक परंपरेत आणि तेवारमच्या पदांमध्ये जतन केल्या आहेत.",
+    "festivals": "मंदिरात मासी महिन्यात (फेब्रुवारी–मार्च) महाशिवरात्र, पुरट्टासी महिन्यात (सप्टेंबर–ऑक्टोबर) नवरात्र आणि कार्तिकेतील सोमवार साजरे होतात; नियमित प्रदोष पूजाही होते. गावातील लहानशा मंदिराच्या मर्यादेत हे सोहळे साजरे केले जातात आणि दक्षिण कावेरीवरील पाडल पेट्र यात्रामार्गाने जाणारे यात्रेकरू येथे येतात.",
+    "experience": "तिरुविळनगर यात्रेकरूला नदीमुखप्रदेशातील वेळूच्या प्रदेशात वसलेले एक शांत तेवारम मंदिर देते. उच्चिरवनेश्वरर आणि वेयुरु तोळी अम्मै यांच्यासमोर भाविकाची भेट 'उतारा दाखवणाऱ्या प्रभू'शी होते — एक लहान मंदिर, ज्याचे प्राचीन नाव आणि टिकून राहिलेली पूजा ज्या वेळूवनात ते प्रथम उभे राहिले त्याची आठवण जपते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvilanagar (Arupathi post, PIN 609309) is about 7–11 km from Mayiladuthurai on the Mayiladuthurai–Tarangambadi road. Mayiladuthurai is the nearest rail head, with buses toward Tarangambadi passing nearby."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "खांदे आणि गुडघे झाकलेले साधे पारंपरिक पोशाख अपेक्षित आहेत; पादत्राणे प्रवेशद्वारी काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांमध्ये छायाचित्रणास सामान्यतः परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुविळनगर (अरुपति टपाल कार्यालय, पिन ६०९३०९) मयिलादुतुरै–तरंगंबाडी मार्गावर मयिलादुतुरैपासून सुमारे ७–११ किमी अंतरावर आहे. मयिलादुतुरै हे सर्वात जवळचे रेल्वे स्थानक आहे; तरंगंबाडीकडे जाणाऱ्या बस जवळून जातात."
   }
 }

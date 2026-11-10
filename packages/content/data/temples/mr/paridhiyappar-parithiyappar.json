@@ -1,29 +1,36 @@
 {
   "id": "paridhiyappar-parithiyappar",
   "locale": "mr",
+  "name": "परिदियप्पर मंदिर, तिरुपरिदिनियमम",
   "nativeName": "திருப்பரிதிநியமம் பரிதியப்பர் கோயில்",
+  "deity": "परिदियप्पर (भास्करेश्वर, सूर्यदेव) रूपातील शिव, देवी मंगलांबिकै (मंगलनायकी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम",
   "location": {
-    "city": "Parithiappar Koil, near Thanjavur",
-    "state": "Tamil Nadu",
+    "city": "परिदियप्पर कोइल, तंजावूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.6772,
     "lng": 79.2373
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तेवारममधील तिरुपरिदिनियमम असलेले परिदियप्पर कोइल, तंजावूरजवळ, शिवाला परिदियप्पर — भास्करेश्वर असेही — या नावांनी पूजते; दोन्ही नावांचा अर्थ सूर्य असा आहे; सोबत देवी मंगलांबिकै आहे. संबंदर, अप्पर आणि सुंदरर या तिन्ही महान संतांनी गायिलेले हे पाडल पेट्र स्थलम एक सूर्यमंदिर आहे, जेथे स्वतः सूर्यदेव लिंगासमोर उभे राहून पूजा करताना दिसतात.",
   "sections": {
-    "history": "Parithiappar Koil, whose Tevaram name is Tiruparidhiniyamam (Parithi Niyamam), lies about 16–19 km from Thanjavur, on the road toward Pattukottai, in the Orathanadu taluk of Thanjavur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by all three of the great saints — Tirugnana Sambandar, Appar and Sundarar. The stone temple is of the Chola period and later. The town was the home of Paridhi, one of the medieval commentators on the Tirukkural.",
-    "architecture": "A Dravidian temple of the delta, the shrine enshrines Parithiappar — also Bhaskareswarar — in the sanctum, with the goddess Mangalambikai, also Mangalanayaki, in her own shrine. Distinctively, the sun-god Surya is shown standing in worship before the lingam in the main shrine, and the temple has three Chandikeswarar images in its prakara, a rare feature.",
-    "legends": "Both the Tamil name Parithi and the Sanskrit Bhaskara mean the sun, and the shrine is above all a sun-temple: here Surya himself is said to have worshipped Shiva, and his standing image before the lingam keeps that devotion ever present. To worship the lord who was adored by the sun is held to bring light and auspiciousness into the devotee's life, under the grace of Mangalambikai, 'the mother of all good.'",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), the Suryapuja days when the light favours the lingam, Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims on the Paadal Petra trail near Thanjavur include Parithiappar Koil among their stops.",
-    "experience": "At Parithiappar Koil the pilgrim comes to a shrine of the sun, where Surya stands worshipping before Shiva. Before Parithiappar, the sun-lord, and the all-auspicious Mangalambikai, with the three Chandikeswarars keeping watch, the visitor feels the warmth of a Tevaram temple sung by all three saints and blessed by the light itself."
+    "history": "परिदियप्पर कोइल, ज्याचे तेवारममधील नाव तिरुपरिदिनियमम (परिदि नियमम) आहे, तंजावूरपासून सुमारे १६–१९ किमी अंतरावर, पट्टुकोट्टईच्या दिशेने जाणाऱ्या रस्त्यावर, तंजावूर जिल्ह्याच्या ओरथनाडू तालुक्यात आहे. हे एक पाडल पेट्र स्थलम आहे, ज्याचे तेवारममध्ये तिन्ही महान संतांनी — तिरुग्नान संबंदर, अप्पर आणि सुंदरर — यांनी गायन केले आहे. हे दगडी मंदिर चोळ काळातील आणि त्यानंतरचे आहे. हे गाव तिरुक्कुरळाच्या मध्ययुगीन भाष्यकारांपैकी एक असलेल्या परिदी यांचे निवासस्थान होते.",
+    "architecture": "डेल्टा प्रदेशातील एक द्रविड मंदिर; गर्भगृहात परिदियप्पर — भास्करेश्वर असेही — विराजमान आहेत, आणि देवी मंगलांबिकै, मंगलनायकी असेही, तिच्या स्वतंत्र मंदिरात आहे. विशेष म्हणजे, मुख्य मंदिरात सूर्यदेव लिंगासमोर उभे राहून पूजा करताना दाखवले आहेत, आणि मंदिराच्या प्राकारात तीन चंडिकेश्वर मूर्ती आहेत, जे एक दुर्मिळ वैशिष्ट्य आहे.",
+    "legends": "तमिळ नाव परिदि आणि संस्कृत भास्कर या दोहोंचा अर्थ सूर्य असा आहे, आणि हे मंदिर सर्वप्रथम सूर्यमंदिर आहे: येथे स्वतः सूर्याने शिवाची उपासना केली असे सांगितले जाते, आणि लिंगासमोरील त्याची उभी मूर्ती ती भक्ती सदैव जिवंत ठेवते. सूर्याने ज्याची आराधना केली त्या भगवंताची पूजा केल्याने, 'सर्व मंगलाची माता' असलेल्या मंगलांबिकैच्या कृपेने, भक्ताच्या जीवनात प्रकाश आणि मांगल्य येते असे मानले जाते.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, प्रकाश लिंगावर पडतो अशा सूर्यपूजेचे दिवस, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मधील नवरात्र आणि कार्तिकैच्या सोमवारी, प्रदोष पूजेसह, साजरे केले जातात. तंजावूरजवळील पाडल पेट्र मार्गावरील यात्रेकरू परिदियप्पर कोइलला आपल्या थांब्यांमध्ये समाविष्ट करतात.",
+    "experience": "परिदियप्पर कोइल येथे यात्रेकरू सूर्याच्या मंदिरात येतो, जेथे सूर्यदेव शिवासमोर उभे राहून पूजा करतात. सूर्यदेव परिदियप्पर आणि सर्वमंगल मंगलांबिकै यांच्यासमोर, तीन चंडिकेश्वर पहारा देत असताना, भेट देणाऱ्याला तिन्ही संतांनी गायिलेल्या आणि स्वतः प्रकाशाने आशीर्वादित अशा तेवारम मंदिराची ऊब जाणवते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Parithiappar Koil is about 16–19 km from Thanjavur on the road toward Pattukottai, in the Orathanadu taluk of Thanjavur district (PIN 614904). Thanjavur is the nearest major rail head, with buses and taxis to the village."
+    "timings": "साधारणतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वारावर ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा मार्गांमध्ये छायाचित्रणाला सामान्यतः परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "परिदियप्पर कोइल तंजावूरपासून सुमारे १६–१९ किमी अंतरावर, पट्टुकोट्टईच्या दिशेने जाणाऱ्या रस्त्यावर, तंजावूर जिल्ह्याच्या ओरथनाडू तालुक्यात आहे (पिन ६१४९०४). तंजावूर हे जवळचे प्रमुख रेल्वे स्थानक असून तेथून गावापर्यंत बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

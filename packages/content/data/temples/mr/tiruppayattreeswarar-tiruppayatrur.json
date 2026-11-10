@@ -1,29 +1,36 @@
 {
   "id": "tiruppayattreeswarar-tiruppayatrur",
   "locale": "mr",
+  "name": "पयट्रुनाथर मंदिर, तिरुप्पयट्रूर (तिरुपयतांगुडी)",
   "nativeName": "திருப்பயற்றூர் பயற்றுநாதர் கோயில்",
+  "deity": "शिव पयट्रुनाथर रूपात, देवी कावियंगण्णी अम्मै (नेत्रांबिगै) यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थलम",
   "location": {
-    "city": "Tirupayathangudi, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "तिरुपयतांगुडी, तिरुवारूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.8,
     "lng": 79.73
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायलेले); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूरजवळ अरसिलार आणि वेट्टारू नद्यांच्या दरम्यान असलेल्या तिरुपयतांगुडी — तेवारममधील तिरुप्पयट्रूर — येथे शिवाचा पयट्रुनाथर म्हणून, देवी कावियंगण्णी अम्मै, म्हणजेच नेत्रांबिगै, यांच्यासह गौरव होतो. अप्परांनी गायलेले हे पाडल पेट्र स्थलम नेत्ररोगांपासून आराम शोधणाऱ्यांना विशेष पूज्य आहे, जे करुणा तीर्थमध्ये स्नान करून नेत्रदेवी आणि तिच्या प्रभूची पूजा करतात.",
   "sections": {
-    "history": "Tirupayathangudi, whose Tevaram name is Tiruppayatrur, lies near Tiruvarur (about 14–15 km, by way of Surakkudi) in Nagapattinam district, set between the Arasilar and Vettaru rivers and some 15 km from the coast. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirunavukkarasar (Appar). The stone temple belongs to the Chola period and later, standing over the far older sacred site the saint had already made famous.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Payatrunathar in the sanctum, with the goddess Kaviyangkanni Ammai — also called Nethrambigai, 'the goddess of the eye' — in her own shrine, a Nandi and the parivara devatas. The sacred tank is the Karuna Theertham, 'the tank of grace,' whose waters are central to the healing tradition of the place.",
-    "legends": "The temple is above all a place of healing for the eyes. Devotees who suffer from diseases of the eye come to bathe in the Karuna Theertham and to worship Nethrambigai, whose very name joins the goddess to the eye (netra), and her lord Payatrunathar; by this grace relief is sought and, by long tradition, found. The fuller sthala purana, like those of many smaller delta shrines, is preserved chiefly in local memory and the Tevaram verses of Appar.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Devotees seeking relief from eye ailments visit through the year, and pilgrims on the Paadal Petra trail near Tiruvarur include Tirupayathangudi among their stops.",
-    "experience": "At Tirupayathangudi the pilgrim comes to a shrine of gentle, specific grace — the lord and goddess who heal the eyes. Before Payatrunathar and Nethrambigai, beside the Karuna Theertham, the visitor feels the tender compassion of a delta temple to which the troubled have long come for sight and solace, carrying the hope of the goddess of the eye."
+    "history": "तिरुपयतांगुडी, ज्याचे तेवारममधील नाव तिरुप्पयट्रूर आहे, तिरुवारूरजवळ (सुरक्कुडीमार्गे सुमारे १४–१५ कि.मी.) नागपट्टिणम जिल्ह्यात, अरसिलार आणि वेट्टारू नद्यांच्या दरम्यान आणि किनाऱ्यापासून सुमारे १५ कि.मी. अंतरावर वसलेले आहे. हे पाडल पेट्र स्थलम असून तिरुनावुक्करसर (अप्पर) यांनी तेवारममध्ये गायलेले आहे. दगडी मंदिर चोळकाळातील आणि त्यानंतरचे आहे, संतांनी आधीच प्रसिद्ध केलेल्या कितीतरी जुन्या पवित्र स्थळावर उभे.",
+    "architecture": "हे द्रविड शैलीतील त्रिभुज-प्रदेशातील मंदिर असून गर्भगृहात पयट्रुनाथर प्रतिष्ठित आहेत; देवी कावियंगण्णी अम्मै — ज्यांना नेत्रांबिगै, 'नेत्राची देवी', असेही म्हणतात — आपल्या स्वतंत्र गर्भगृहात आहेत, तसेच नंदी आणि परिवार देवता आहेत. पवित्र सरोवर करुणा तीर्थम, 'कृपेचे सरोवर', आहे, ज्याचे जल या स्थळाच्या उपचार-परंपरेचा केंद्रबिंदू आहे.",
+    "legends": "हे मंदिर सर्वांत प्रथम डोळ्यांसाठीच्या उपचाराचे स्थान आहे. नेत्ररोगाने त्रस्त भक्त करुणा तीर्थमध्ये स्नान करण्यासाठी आणि नेत्रांबिगै — जिचे नावच देवीला नेत्राशी (नेत्र) जोडते — आणि तिचे प्रभू पयट्रुनाथर यांची पूजा करण्यासाठी येतात; या कृपेने आराम मागितला जातो आणि दीर्घ परंपरेनुसार मिळतो. अनेक लहान त्रिभुज-प्रदेशातील तीर्थांप्रमाणे, सविस्तर स्थलपुराण प्रामुख्याने स्थानिक स्मृतीत आणि अप्परांच्या तेवारम श्लोकांत जपलेले आहे.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्र आणि कार्तिगैचे सोमवार, प्रदोष पूजेसह, पाळले जातात. नेत्ररोगांपासून आराम शोधणारे भक्त वर्षभर भेट देतात, आणि तिरुवारूरजवळील पाडल पेट्र मार्गावरील यात्रेकरू तिरुपयतांगुडीचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "तिरुपयतांगुडी येथे यात्रेकरू सौम्य, विशिष्ट कृपेच्या तीर्थाकडे येतो — डोळ्यांना बरे करणारे प्रभू आणि देवी. पयट्रुनाथर आणि नेत्रांबिगैसमोर, करुणा तीर्थमच्या काठी, अभ्यागताला त्रिभुज-प्रदेशातील मंदिराची कोमल करुणा जाणवते, जेथे त्रस्त लोक दृष्टी आणि सांत्वनासाठी दीर्घकाळ येत आले आहेत, नेत्रदेवीची आशा बाळगून."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirupayathangudi is near Tiruvarur (about 14–15 km, via Surakkudi), between the Arasilar and Vettaru rivers, in Nagapattinam district (via Kangalancheri, PIN 610101). Tiruvarur and Nagapattinam are the nearest rail heads, with buses and taxis to the village."
+    "timings": "साधारणतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; प्रवेशद्वाराजवळ पादत्राणे काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणामार्गात छायाचित्रण साधारणतः मान्य आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुपयतांगुडी तिरुवारूरजवळ (सुरक्कुडीमार्गे सुमारे १४–१५ कि.मी.), अरसिलार आणि वेट्टारू नद्यांच्या दरम्यान, नागपट्टिणम जिल्ह्यात (कांगलांचेरीमार्गे, पिन ६१०१०१) आहे. तिरुवारूर आणि नागपट्टिणम ही जवळची रेल्वे स्थानके असून गावाला बस आणि टॅक्सी जातात."
   }
 }
