@@ -1,29 +1,36 @@
 {
   "id": "amirthagateswarar-tirukkadaiyur",
   "locale": "mr",
+  "name": "अमृतघटेश्वर–अभिरामी मंदिर, तिरुक्कडैयूर",
   "nativeName": "திருக்கடையூர் அமிர்தகடேஸ்வரர் - அபிராமி கோயில்",
+  "deity": "अमृतघटेश्वर (कालसंहारमूर्ती) रूपातील शिव, देवी अभिरामी यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम् आणि अष्ट वीरट्टानमांपैकी एक",
   "location": {
-    "city": "Tirukkadaiyur, near Tharangambadi",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कडैयूर, तरंगंबाडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 11.0192,
     "lng": 79.8517
   },
+  "period": "तेवारम काळ, चोळकालीन बांधकामासह आणि नायकांच्या विस्तारांसह",
   "century": 9,
+  "dynasty": "चोळ, नंतरच्या तंजावर नायकांसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कोरोमंडल किनाऱ्याजवळील तिरुक्कडैयूर येथे शिव अमृतघटेश्वर — अमृतकुंभाचे स्वामी — आणि कालसंहारमूर्ती, म्हणजे काळावर विजय मिळवणारे, म्हणून पूजिले जातात; त्यांनी बालभक्त मार्कंडेयाला मृत्युदेव यमापासून वाचवले. हे पाडल पेट्र स्थळम् आहे आणि शिवाच्या वीरकृत्यांच्या आठ अष्ट वीरट्टानम क्षेत्रांपैकीही एक आहे. संत अभिरामी भट्टर यांच्या अभिरामी अंतादी स्तोत्रामुळे अमर झालेली देवी अभिरामी स्वतःची भक्ती आकर्षित करते, आणि षष्ट्यब्दपूर्ती व ऐंशीव्या वाढदिवसाच्या दीर्घायुष्य विधींसाठी हे मंदिर सर्वश्रेष्ठ स्थान आहे.",
   "sections": {
-    "history": "Tirukkadaiyur, about 21 km east of Mayiladuthurai near the old coastal town of Tharangambadi, is an ancient Shaiva site sung in the seventh-century Tevaram. The present masonry temple was raised during the Chola period, from around the ninth century, and greatly enlarged under the Thanjavur Nayaks, who added its tall towers and spacious halls. Its eastern gopuram rises eleven storeys, and the complex spreads across five courtyards — a scale that matches its standing as both a Tevaram sthalam and an Ashta Veerattanam shrine.",
-    "architecture": "The temple is a large Dravidian complex of concentric prakaras, pillared mandapas and several gateway towers, the eastern one among the tallest in the region. The sanctum enshrines the lingam of Amritaghateswarar; a separate and much-visited shrine houses the goddess Abirami, and another honours Markandeya. The form of Shiva as Kalasamharamurti — foot raised against Yama — is a focus of worship, and devotees look for the marks said to have been left on the lingam by the god of death's noose.",
-    "legends": "The great legend of Tirukkadaiyur is that of Markandeya. Granted a brilliant but short life, the boy was a fervent devotee of Shiva; when Yama came on his appointed last day and cast his noose, the boy clung to the lingam, and the noose fell around the stone itself. Shiva burst forth and struck down Yama to protect his devotee, conquering death and earning the name Kalasamharamurti — later restoring Yama so that the order of the world could continue. The place name is also linked to a pot (ghata) of the nectar of immortality, from which the lord takes the name Amritaghateswarar.",
-    "festivals": "The temple keeps the full Shaiva calendar, with Maha Shivaratri and the festival of Kalasamharamurti observed with particular grandeur. Above all, Tirukkadaiyur is the favoured site for Sashtiabdhapoorthi and Sadabhishekam — the 60th- and 80th-birthday ceremonies at which couples renew their vows and pray for long life — and families travel here from across Tamil Nadu and beyond to perform them.",
-    "experience": "For many visitors Tirukkadaiyur is a once-in-a-lifetime journey tied to a milestone birthday, and the temple hums with family ceremonies alongside daily worship. The towering gopurams, the Abirami shrine fragrant with devotion, and the deep association with victory over death give the place an atmosphere at once festive and profoundly reassuring."
+    "history": "तिरुक्कडैयूर, मयिलाडुतुरैच्या सुमारे २१ किमी पूर्वेला, तरंगंबाडी या जुन्या किनारी शहराजवळ, सातव्या शतकातील तेवारममध्ये गायिलेले प्राचीन शैव स्थान आहे. सध्याचे दगडी मंदिर चोळ काळात, सुमारे नवव्या शतकापासून, उभारले गेले आणि तंजावर नायकांच्या काळात त्याचा मोठा विस्तार झाला; त्यांनी त्याचे उंच गोपुर आणि प्रशस्त सभामंडप भर घातले. त्याचे पूर्वेकडील गोपुर अकरा मजली उंच आहे, आणि संकुल पाच अंगणांत पसरलेले आहे — तेवारम स्थळम् आणि अष्ट वीरट्टानम क्षेत्र अशा दोन्ही प्रतिष्ठेला साजेसा हा आकार आहे.",
+    "architecture": "हे प्रदक्षिणा-प्राकार, स्तंभयुक्त मंडप आणि अनेक प्रवेशगोपुरे असलेले विशाल द्रविड संकुल आहे; त्यातील पूर्वेकडील गोपुर या प्रदेशातील सर्वांत उंच गोपुरांपैकी आहे. गर्भगृहात अमृतघटेश्वराचे लिंग आहे; स्वतंत्र आणि मोठ्या संख्येने भेट दिले जाणारे मंदिर देवी अभिरामी यांचे आहे, आणि आणखी एक मार्कंडेयाला समर्पित आहे. कालसंहारमूर्ती रूपातील शिव — यमाविरुद्ध पाय उचललेले — उपासनेचे केंद्र आहे, आणि मृत्युदेवाच्या पाशाने लिंगावर उमटल्याचे सांगितले जाणारे खुणा भक्त शोधतात.",
+    "legends": "तिरुक्कडैयूरची थोर कथा मार्कंडेयाची आहे. तेजस्वी पण अल्प आयुष्य लाभलेला तो बालक शिवाचा उत्कट भक्त होता; ठरलेल्या अखेरच्या दिवशी यम आला आणि त्याने पाश फेकला, तेव्हा बालकाने लिंगाला घट्ट मिठी मारली आणि पाश खुद्द दगडाभोवतीच पडला. शिव प्रकट झाले आणि भक्ताच्या रक्षणासाठी त्यांनी यमाला पाडले; मृत्यूवर विजय मिळवून त्यांनी कालसंहारमूर्ती हे नाव मिळवले — आणि नंतर जगाची व्यवस्था चालू राहावी म्हणून यमाला पुन्हा जिवंत केले. स्थळनामाचा संबंध अमरत्वाच्या अमृताच्या घटाशी (घट) देखील जोडला जातो, ज्यावरून प्रभू अमृतघटेश्वर हे नाव धारण करतात.",
+    "festivals": "मंदिरात संपूर्ण शैव दिनदर्शिका पाळली जाते; महाशिवरात्री आणि कालसंहारमूर्ती उत्सव विशेष भव्यतेने साजरे होतात. सर्वांहून अधिक, तिरुक्कडैयूर हे षष्ट्यब्दपूर्ती आणि सदाभिषेकम् — साठाव्या आणि ऐंशीव्या वाढदिवसाचे समारंभ, ज्यात दांपत्ये आपल्या व्रतांचे नूतनीकरण करतात आणि दीर्घायुष्यासाठी प्रार्थना करतात — यांसाठी पसंतीचे स्थान आहे; ते करण्यासाठी तमिळनाडूतून आणि त्याहून दूरवरून कुटुंबे येथे येतात.",
+    "experience": "अनेक अभ्यागतांसाठी तिरुक्कडैयूर ही एखाद्या महत्त्वाच्या वाढदिवसाशी जोडलेली आयुष्यात एकदाच घडणारी यात्रा असते, आणि दैनंदिन उपासनेसोबत मंदिर कौटुंबिक समारंभांनी गजबजलेले असते. उत्तुंग गोपुरे, भक्तीच्या सुगंधाने भारलेले अभिरामी मंदिर, आणि मृत्यूवरील विजयाशी असलेले खोल नाते यांमुळे हे स्थान एकाच वेळी उत्सवी आणि अत्यंत आश्वस्त करणारे वातावरण देते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkadaiyur is about 21 km east of Mayiladuthurai and close to the coastal town of Tharangambadi (Tranquebar) in Mayiladuthurai district; the nearest rail heads are Mayiladuthurai and Sirkazhi, with regular buses and taxis to the temple town."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा संध्याकाळच्या सुरुवातीपासून रात्रीपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत सामान्यतः छायाचित्रणास परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुक्कडैयूर मयिलाडुतुरैच्या सुमारे २१ किमी पूर्वेला असून मयिलाडुतुरै जिल्ह्यातील तरंगंबाडी (ट्रँक्वेबार) या किनारी शहराजवळ आहे; जवळची रेल्वे स्थानके मयिलाडुतुरै आणि सिरकाळी आहेत, आणि मंदिर-नगरीपर्यंत नियमित बस व टॅक्सी मिळतात."
   }
 }

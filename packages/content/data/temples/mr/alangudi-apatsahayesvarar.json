@@ -1,31 +1,42 @@
 {
   "id": "alangudi-apatsahayesvarar",
   "locale": "mr",
+  "name": "आलंगुडी आपत्सहायेश्वरर मंदिर",
   "nativeName": "ஆலங்குடி அபத்சகாயேஸ்வரர் கோயில்",
+  "deity": "आपत्सहायेश्वरर रूपातील शिव, देवी एलवार्कुळली यांच्यासह; गुरू (बृहस्पती) दक्षिणामूर्ती रूपात पूजला जातो",
+  "tradition": "शैव; गुरू (बृहस्पती) साठी नवग्रह स्थळम् आणि तेवारमचे पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Alangudi",
-    "state": "Tamil Nadu",
+    "city": "आलंगुडी",
+    "state": "तमिळनाडू",
     "lat": 10.603,
     "lng": 79.533
   },
+  "period": "चोळ काळ, नंतरच्या भरीसह",
   "century": 10,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "navagraha-temples",
     "paadal-petra-sthalams"
   ],
+  "summary": "गुरू (बृहस्पती) याचे नवग्रह मंदिर, जेथे शिवाची आपत्सहायेश्वरर, म्हणजे संकटात धावून येणारे स्वामी, म्हणून पूजा होते. भक्त ज्ञान, विवाह, संतती आणि गुरू दोषापासून मुक्ती मागतात, विशेषतः महान गुरू पेयर्ची संक्रमणाच्या वेळी.",
   "sections": {
-    "history": "Alangudi is counted among the Paadal Petra Sthalams, the shrines hymned in the Tevaram by the Tamil Shaiva saints, which places its devotional standing well before the surviving stone structure. The temple as it stands is of the Chola period, raised in enduring granite and enlarged by later hands who added halls, gateways and subsidiary shrines. Over the centuries it grew into one of the principal Navagraha centres of the Kaveri delta, drawing pilgrims who make the circuit of the nine planetary temples. Here the planet honoured is Guru, or Brihaspati, the preceptor of the gods, and the sanctum of Shiva as the divine teacher Dakshinamurthy remains the heart of its worship.",
-    "architecture": "Built in the Dravidian idiom of the Chola country, the temple presents a walled enclosure entered through a towered gateway, with the granite sanctum of Apatsahayesvarar at its core. Pillared halls lead the devotee inward past the shrine of the Goddess Elavarkuzhali and the much-revered niche of Dakshinamurthy, the southward-facing form of Shiva as Guru. Stone mandapas, a sacred tank tied to the temple's own legend, and later additions of successive periods frame the older core. The proportions are restrained and devotional rather than grand, in keeping with a temple whose fame rests on its planetary sanctity rather than monumental scale.",
-    "legends": "The temple's name recalls the churning of the ocean of milk, when the gods and demons drew out the terrible poison halahala that threatened to consume the worlds. In their distress the celestials turned to Shiva, and here he is remembered as the one who came to their aid in that danger, hence Apatsahayesvarar, the Lord who helps in distress. The town's tank is linked to this deliverance. Because Guru is the teacher of the gods, worship at Alangudi is sought for wisdom and learning, for timely marriage, for progeny and prosperity, and for relief from the afflictions of Guru dosha in one's horoscope.",
-    "festivals": "The supreme occasion is Guru Peyarchi, the transit of Jupiter from one zodiac sign to the next roughly every twelve months, when vast crowds gather for special abhishekam and worship of Dakshinamurthy. Thursday, the day of Guru, is the chief weekly day of veneration, and Pradosham is observed with devotion to Shiva. The temple also keeps its Brahmotsavam, a multi-day festival of processions and ritual, alongside the regular round of abhishekam offered to the form of Guru.",
-    "experience": "A visit here is quiet and prayerful rather than crowded, except on Thursdays and above all at Guru Peyarchi, when the town fills and long lines form for the darshan of Guru. Devotees light lamps, offer yellow flowers and cloth associated with Jupiter, and stand before Dakshinamurthy to ask for clarity of mind and the removal of obstacles to marriage and family. The atmosphere within the granite halls is cool and hushed, carried by the sound of bells, the scent of camphor, and the murmured recitation of those who have come for the planetary blessing."
+    "history": "आलंगुडीची गणना पाडल पेट्र स्थळम्मध्ये होते, म्हणजे तमिळ शैव संतांनी तेवारममध्ये स्तुती केलेली मंदिरे, ज्यामुळे आजच्या दगडी रचनेच्या खूप आधीपासून त्याचे भक्तिमय स्थान ठरते. आज उभे असलेले मंदिर चोळ काळातील असून टिकाऊ ग्रॅनाइटमध्ये उभारलेले आहे, आणि नंतरच्या हातांनी सभागृहे, प्रवेशद्वारे व उपमंदिरे जोडून ते मोठे केले. शतकानुशतके ते कावेरी त्रिभुज-प्रदेशातील प्रमुख नवग्रह केंद्रांपैकी एक बनले, आणि नऊ ग्रह मंदिरांची यात्रा करणाऱ्या यात्रेकरूंना आकर्षित करू लागले. येथे ज्या ग्रहाचा सन्मान होतो तो गुरू, म्हणजे बृहस्पती, देवांचा गुरू होय, आणि दिव्य गुरू दक्षिणामूर्ती रूपातील शिवाचे गर्भगृह हे त्याच्या पूजेचे हृदय आहे.",
+    "architecture": "चोळ प्रदेशाच्या द्रविड शैलीत बांधलेले हे मंदिर तटबंदीयुक्त प्रांगणाचे असून त्यात उंच प्रवेशद्वारातून प्रवेश होतो आणि गाभ्यात आपत्सहायेश्वररांचे ग्रॅनाइटचे गर्भगृह आहे. स्तंभयुक्त सभागृहे भक्ताला आत नेतात, देवी एलवार्कुळलीच्या मंदिरापुढून आणि दक्षिणामूर्तीच्या अत्यंत पूजनीय कोनाड्यापुढून — शिवाचे गुरू म्हणून दक्षिणाभिमुख रूप. दगडी मंडप, मंदिराच्या स्वतःच्या कथेशी जोडलेले पवित्र तीर्थ, आणि क्रमवार काळांतील नंतरची भर जुन्या गाभ्याला वेढून आहे. प्रमाण संयमी व भक्तिमय आहे, भव्य नव्हे, कारण या मंदिराची कीर्ती स्मारकी आकारावर नव्हे तर ग्रहांच्या पावित्र्यावर आधारलेली आहे.",
+    "legends": "मंदिराचे नाव क्षीरसागराच्या मंथनाचे स्मरण करून देते, जेव्हा देव आणि दानवांनी जगांना ग्रासून टाकण्याची भीती निर्माण करणारे भयंकर हलाहल विष बाहेर काढले. संकटात देवांनी शिवाकडे धाव घेतली, आणि येथे त्या संकटात त्यांच्या साहाय्याला आलेले म्हणून त्यांचे स्मरण केले जाते, म्हणून आपत्सहायेश्वरर, म्हणजे संकटात साहाय्य करणारे स्वामी. गावातील तीर्थ या उद्धाराशी जोडलेले आहे. गुरू देवांचा शिक्षक असल्याने, आलंगुडी येथील पूजा ज्ञान व विद्येसाठी, वेळेवर विवाहासाठी, संतती व समृद्धीसाठी, आणि कुंडलीतील गुरू दोषाच्या पीडेपासून मुक्तीसाठी केली जाते.",
+    "festivals": "सर्वोच्च प्रसंग म्हणजे गुरू पेयर्ची, गुरूचे एका राशीतून दुसऱ्या राशीत सुमारे दर बारा महिन्यांनी होणारे संक्रमण, जेव्हा विशेष अभिषेक व दक्षिणामूर्तीच्या पूजेसाठी प्रचंड जनसमुदाय जमतो. गुरुवार, गुरूचा दिवस, हा साप्ताहिक पूजेचा प्रमुख दिवस आहे, आणि प्रदोषम् शिवभक्तीने पाळला जातो. मंदिरात ब्रह्मोत्सवही साजरा होतो, मिरवणुका व विधींचा अनेक दिवसांचा उत्सव, तसेच गुरूच्या रूपाला अर्पण केल्या जाणाऱ्या अभिषेकांची नियमित मालिका.",
+    "experience": "येथील भेट शांत व प्रार्थनामय असते, गर्दीची नसते — गुरुवार आणि विशेषतः गुरू पेयर्ची वगळता, जेव्हा गाव भरून जाते आणि गुरूच्या दर्शनासाठी लांब रांगा लागतात. भक्त दिवे लावतात, गुरूशी निगडित पिवळी फुले व वस्त्र अर्पण करतात, आणि दक्षिणामूर्तीसमोर उभे राहून मनाची स्पष्टता आणि विवाह व कुटुंबातील अडथळ्यांचे निवारण मागतात. ग्रॅनाइटच्या सभागृहांतील वातावरण थंड व शांत असते, घंटांचा नाद, कापराचा सुगंध आणि ग्रहांच्या आशीर्वादासाठी आलेल्यांच्या मंद पठणाने भारलेले."
   },
   "visit": {
-    "timings": "Generally open around 6:00 am to 12:30 pm and 4:00 pm to 8:30 pm; hours are extended on Guru Peyarchi and major festival days. Verify locally before travelling.",
-    "dressCode": "Modest traditional dress is expected; dress conservatively with shoulders and legs covered as a mark of respect.",
-    "photography": "Photography within the sanctum is generally not permitted; observe posted signs and follow the instructions of temple staff.",
-    "gettingThere": "Alangudi lies in Thiruvarur district, about 17 km from Kumbakonam and near Needamangalam. Kumbakonam is the nearest hub, with rail connections there and at Thiruvarur; the nearest airport is Tiruchirappalli, around 90 km away."
+    "timings": "साधारणतः सकाळी ६:०० ते दुपारी १२:३० आणि दुपारी ४:०० ते रात्री ८:३० पर्यंत उघडे असते; गुरू पेयर्ची आणि प्रमुख उत्सवाच्या दिवशी वेळ वाढवली जाते. प्रवासापूर्वी स्थानिक पातळीवर खात्री करावी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; आदराचे चिन्ह म्हणून खांदे व पाय झाकलेले असे संयमित कपडे घालावेत.",
+    "photography": "गर्भगृहात छायाचित्रणास सामान्यतः परवानगी नसते; लावलेल्या फलकांचे पालन करावे आणि मंदिराच्या कर्मचाऱ्यांच्या सूचनांचे अनुसरण करावे.",
+    "gettingThere": "आलंगुडी तिरुवारूर जिल्ह्यात, कुंभकोणमपासून सुमारे १७ कि.मी. अंतरावर आणि नीडामंगलमजवळ आहे. कुंभकोणम हे जवळचे केंद्र असून तेथे आणि तिरुवारूर येथे रेल्वे जोडणी आहे; जवळचे विमानतळ सुमारे ९० कि.मी. अंतरावरील तिरुचिरापल्ली आहे."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/alangudi-apatsahayesvarar.mp3",
+    "durationSec": 250
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.jpg",
@@ -37,5 +48,11 @@
       "webp": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.webp"
     },
     "og": "https://media.dsquaregee.com/og/alangudi-apatsahayesvarar.jpg"
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/en/v4/alangudi-apatsahayesvarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.jpg",
+    "durationSec": 174,
+    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

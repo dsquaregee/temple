@@ -12,6 +12,7 @@ export const LOCALE_LABELS: Record<Locale, { script: string; gloss: string }> = 
   ml: { script: 'മലയാളം', gloss: 'Malayalam' },
   hi: { script: 'हिन्दी', gloss: 'Hindi' },
   bn: { script: 'বাংলা', gloss: 'Bengali' },
+  mr: { script: 'मराठी', gloss: 'Marathi' },
   en: { script: 'English', gloss: 'English' },
 };
 

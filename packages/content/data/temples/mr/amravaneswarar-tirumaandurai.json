@@ -1,29 +1,36 @@
 {
   "id": "amravaneswarar-tirumaandurai",
   "locale": "mr",
+  "name": "आम्रवनेश्वरर मंदिर, मानथुरै",
   "nativeName": "ஆம்ரவனேஸ்வரர் கோயில்",
+  "deity": "आम्रवनेश्वरर रूपातील शिव, आम्रवनाचे स्वामी, देवी अळगम्मै (बालांबिकै) यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Maanthurai",
-    "state": "Tamil Nadu",
+    "city": "मानथुरै",
+    "state": "तमिळनाडू",
     "lat": 10.875,
     "lng": 78.779
   },
+  "period": "चोळ नाडूचे प्राचीन शैव मंदिर, तेवारममध्ये (७वे शतक) गायिलेले; चोळांच्या काळात दगडात पुनर्बांधणी व विस्तार",
   "century": 7,
+  "dynasty": "चोळ राजाश्रय (११व्या शतकात विस्तार)",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "आम्रवनेश्वरर हे तेवारमचे तिरुमांदुरै आहे, कावेरीजवळील आम्रवनातील एक शांत मंदिर, जे आंबा लाभलेल्या हरिणाच्या आख्यायिकेसाठी स्मरले जाते आणि जिच्यावरून गावाला त्याचे नाव मिळाले.",
   "sections": {
-    "history": "Maanthurai lies a few kilometres before Lalgudi on the road from Tiruchirappalli, in the fertile country north of the Kaveri. In the Tevaram hymns it is Tirumaandurai, one of the Paadal Petra Sthalams of Chola Nadu, sung by the saint Sambandar and, according to tradition, by Appar as well. The name is read as the landing place of the mango: maa is the mango tree and thurai a bank or ford, and the shrine is remembered as standing in an ancient mango forest, which is why the Lord is called Amravaneswarar, Lord of the Mango Grove. The early shrine was raised in stone and greatly enlarged by Chola rulers, with the major expansion placed in the eleventh century, and worship has continued without a break since.",
-    "architecture": "The temple faces east beneath a three-tiered rajagopuram, and at the main entrance stand sculpted figures of Ganesha and Murugan, one on either side. Passing in, the visitor enters the main prakara, where the sanctum of Amravaneswarar holds the Shiva linga, and the goddess Azhagammai, also called Balambikai, is honoured in her own shrine within the enclosure. A temple tank lies close at hand. Stucco work within the complex gives the legend of the deer worshipping beneath the mango tree a visible form, so that the story the village is named for can be read on the walls.",
-    "legends": "The story of Maanthurai is the story of the deer and the mango. A sage, cursed to be born as a deer, is said to have come to this grove and worshipped Shiva beneath a mango tree. Pleased by his devotion, the Lord freed him from the curse and bestowed a mango upon the deer, and the place has been called Maanthurai ever since. The freed sage then asked that Shiva and Parvati remain here for ever, and so they dwell in the temple as Amravaneswarar and Balambikai. A second tradition recalls the sage Mrigandu, who worshipped the Lord here to be granted a son, the boy Markandeya who overcame death, and the village is sometimes spoken of as his birthplace.",
-    "festivals": "The great festival is the Chithirai festival, kept over fifteen days in the Tamil month of Chithirai, April to May, in which the incidents of the temple's legend are brought to life. The temple keeps six daily rituals and some twelve festivals through the year. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Maanthurai suits a slow and quiet visit. Enter beneath the eastern gopuram, greet Ganesha and Murugan at the door, and walk the prakara to the sanctum of Amravaneswarar before turning to the gentle goddess Azhagammai in her own shrine. Look for the stucco figures that tell of the deer and the mango, and sit for a while near the tank. Few pilgrims come here compared with the great temples of nearby Tiruchirappalli, and that is much of its charm: within the walls, the village keeps the stillness of the old mango grove."
+    "history": "तिरुचिरापल्लीहून लालगुडीकडे जाणाऱ्या रस्त्यावर, लालगुडीच्या काही किलोमीटर अलीकडे, कावेरीच्या उत्तरेकडील सुपीक प्रदेशात मानथुरै वसलेले आहे. तेवारम स्तोत्रांत ते तिरुमांदुरै आहे, चोळ नाडूतील पाडल पेट्र स्थलमांपैकी एक, संत संबंदर यांनी आणि परंपरेनुसार अप्पर यांनीही गायिलेले. या नावाचा अर्थ आंब्याचे उतरण्याचे स्थान असा लावला जातो: 'मा' म्हणजे आंब्याचे झाड आणि 'थुरै' म्हणजे काठ किंवा घाट, आणि हे मंदिर एका प्राचीन आम्रवनात उभे असल्याचे स्मरले जाते, म्हणूनच स्वामींना आम्रवनेश्वरर, आम्रवनाचे स्वामी, असे म्हणतात. आरंभीचे मंदिर दगडात उभारले गेले आणि चोळ राजांनी त्याचा मोठा विस्तार केला, मुख्य विस्तार अकराव्या शतकात मानला जातो, आणि तेव्हापासून पूजा अखंड चालू आहे.",
+    "architecture": "मंदिर पूर्वाभिमुख असून तीन-स्तरीय राजगोपुराखाली आहे, आणि मुख्य प्रवेशद्वारी दोन्ही बाजूंना गणेश व मुरुगन यांच्या कोरलेल्या मूर्ती उभ्या आहेत. आत प्रवेश केल्यावर यात्रेकरू मुख्य प्राकारात येतो, जिथे आम्रवनेश्वररांच्या गर्भगृहात शिवलिंग आहे, आणि देवी अळगम्मै, जिला बालांबिकै असेही म्हणतात, आवारातील स्वतंत्र गर्भगृहात पूजिली जाते. जवळच एक मंदिर तळे आहे. आवारातील गिलाव्याच्या कलाकृतीत आंब्याच्या झाडाखाली हरिण पूजा करत असल्याच्या आख्यायिकेला दृश्य रूप दिले आहे, जेणेकरून ज्या कथेवरून गावाला नाव मिळाले ती भिंतींवर वाचता येते.",
+    "legends": "मानथुरैची कथा म्हणजे हरिण आणि आंब्याची कथा. हरिण होण्याचा शाप मिळालेला एक ऋषी या वनात आला आणि आंब्याच्या झाडाखाली त्याने शिवाची पूजा केली असे म्हणतात. त्याच्या भक्तीने प्रसन्न होऊन स्वामींनी त्याला शापमुक्त केले आणि हरिणाला आंबा दिला, आणि तेव्हापासून या स्थानाला मानथुरै म्हणतात. मुक्त झालेल्या ऋषीने नंतर शिव आणि पार्वती यांनी येथे कायमचे वास्तव्य करावे अशी प्रार्थना केली, आणि म्हणून ते आम्रवनेश्वरर व बालांबिकै म्हणून मंदिरात वसतात. दुसरी परंपरा मृगंडू ऋषींचे स्मरण करते, ज्यांनी येथे पुत्रप्राप्तीसाठी स्वामींची पूजा केली, तो मुलगा म्हणजे मृत्यूवर विजय मिळवणारा मार्कंडेय, आणि हे गाव कधीकधी त्याचे जन्मस्थान म्हणून सांगितले जाते.",
+    "festivals": "मोठा उत्सव म्हणजे चित्तिरै उत्सव, तमिळ चित्तिरै महिन्यात (एप्रिल ते मे) पंधरा दिवस साजरा होणारा, ज्यात मंदिराच्या आख्यायिकेतील प्रसंग जिवंत केले जातात. मंदिरात सहा दैनिक विधी आणि वर्षभरात सुमारे बारा उत्सव होतात. महाशिवरात्री आणि मासिक प्रदोष हे प्रत्येक शिवमंदिराप्रमाणे पाळले जातात. तिथी तमिळ दिनदर्शिकेनुसार असल्याने स्थानिक पातळीवर खात्री करून घ्यावी.",
+    "experience": "मानथुरै संथ व शांत भेटीस साजेसे आहे. पूर्वेकडील गोपुराखालून आत या, दारातील गणेश व मुरुगनांना वंदन करा, आणि आम्रवनेश्वररांच्या गर्भगृहापर्यंत प्राकार फिरून जा, मग सौम्य देवी अळगम्मैकडे तिच्या स्वतंत्र गर्भगृहात वळा. हरिण आणि आंब्याची कथा सांगणाऱ्या गिलाव्याच्या मूर्ती शोधा, आणि तळ्याजवळ थोडा वेळ बसा. जवळच्या तिरुचिरापल्लीच्या मोठ्या मंदिरांच्या तुलनेत येथे फार थोडे यात्रेकरू येतात, आणि हेच त्याचे बरेचसे आकर्षण आहे: भिंतींच्या आत, गाव जुन्या आम्रवनाची शांतता जपते."
   },
   "visit": {
-    "timings": "Typically open from about 7:00 to 11:30 in the morning and from about 4:30 to 7:30 in the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is appreciated: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the temple entrance.",
-    "photography": "Photography is usually permitted in the outer courtyards but not inside the sanctum, in keeping with Tamil Nadu temple practice. Please ask the temple staff before photographing rituals or priests.",
-    "gettingThere": "Maanthurai is about 15 km from Tiruchirappalli on the Tiruchirappalli–Lalgudi road, roughly 3 km before Lalgudi, and town buses run along that road. Tiruchirappalli is the main railway junction and has the nearest airport. The temple stands in the village, a short walk or auto ride from the bus stop on the main road."
+    "timings": "साधारणपणे सकाळी सुमारे ७:०० ते ११:३० आणि संध्याकाळी सुमारे ४:३० ते ७:३० उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "साधी पारंपरिक वेशभूषा स्वागतार्ह आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे व गुडघे झाकलेले. पादत्राणे मंदिराच्या प्रवेशद्वाराबाहेर ठेवली जातात.",
+    "photography": "तमिळनाडूच्या मंदिरप्रथेनुसार बाहेरील प्रांगणांत छायाचित्रण सामान्यतः परवानगी असते पण गर्भगृहात नाही. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी कृपया मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "मानथुरै तिरुचिरापल्ली–लालगुडी रस्त्यावर तिरुचिरापल्लीहून सुमारे १५ किमी, लालगुडीच्या सुमारे ३ किमी अलीकडे आहे, आणि त्या रस्त्यावर नगर बसगाड्या धावतात. तिरुचिरापल्ली हे मुख्य रेल्वे जंक्शन असून सर्वात जवळचे विमानतळ तेथेच आहे. मंदिर गावात आहे, मुख्य रस्त्यावरील बसस्थानकापासून थोड्या अंतरावर पायी किंवा ऑटोने पोहोचता येते."
   }
 }

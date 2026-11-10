@@ -1,29 +1,36 @@
 {
   "id": "aadavalleeswarar-thalayalangadu",
   "locale": "mr",
+  "name": "नर्तनपुरीश्वर मंदिर, तिरुत्तलैयालंकाडु",
   "nativeName": "திருத்தலையாலங்காடு நர்த்தனபுரீஸ்வரர் (ஆடவல்லீஸ்வரர்) கோயில்",
+  "deity": "नर्तनपुरीश्वर (आडवल्लीश्वर, वैश्विक नृत्यात निपुण प्रभू) रूपात शिव, देवी बालांबिकै (तिरुमदंथै अम्मै) यांच्यासह",
+  "tradition": "शैव — एक पादल पेट्र स्थलम्",
   "location": {
-    "city": "Thalayalangadu, near Kudavasal",
-    "state": "Tamil Nadu",
+    "city": "तलैयालंकाडु, कुडवासलजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.86,
     "lng": 79.6
   },
+  "period": "तेवारम काळ (७व्या शतकात स्तुत); नंतरचे चोल वास्तु-मंदिर",
   "century": 7,
+  "dynasty": "चोल",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तलैयालंकाडु, तेवारमचे तिरुत्तलैयालंकाडु, कुडवासलजवळ, शिवाला नर्तनपुरीश्वर—आडवल्लीश्वर, वैश्विक नृत्यात निपुण प्रभू—म्हणून देवी बालांबिकैसह पूजिते. अप्परांनी स्तुत केलेले हे पादल पेट्र स्थलम्; त्याचे 'नृत्यनगरीचा प्रभू' हे नावच मन विश्वांचा नर्तक शिव नटराजाकडे वळवते.",
   "sections": {
-    "history": "Thalayalangadu, whose Tevaram name is Tiruthalaiyalankadu, lies about 15 km from Tiruvarur and some 8 km east of Kudavasal, in Tiruvarur district (Chimizhi post, via Sembangudi). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirunavukkarasar (Appar). The stone temple is of the Chola period and later, and the lord bears the dance-names Nardhanapureeswarar and Aadavalleeswarar.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Nardhanapureeswarar — also Aadavallar — in the sanctum, with the goddess Balambikai, also called Tirumadanthai Ammai, in her own shrine, a Nandi and the parivara devatas. The sacred tank is the Sangu Theertham, and the sthala vriksham is recorded variously as the vilva or the pala tree.",
-    "legends": "The lord's names Nardhanapureeswarar, 'lord of the city of dance,' and Aadavalleeswarar, 'the lord who is mighty in dance,' turn worship here toward Shiva as the cosmic dancer, Nataraja, whose dance sustains and dissolves the worlds. The goddess Balambikai, 'the youthful mother,' stands beside him. As with many smaller delta shrines, the fuller sthala purana is preserved chiefly in the local tradition and the Tevaram verses of Appar.",
-    "festivals": "The temple keeps the Thai new-moon day (January–February), Maha Shivaratri in Masi (February–March) and the Aippasi Annabhishekam (October–November), with Pradosha and Karthikai worship. Pilgrims on the Paadal Petra trail near Kudavasal include Thalayalangadu among their stops.",
-    "experience": "At Thalayalangadu the pilgrim comes to a shrine whose names sing of dance. Before Nardhanapureeswarar, the lord of the city of dance, and the youthful Balambikai, beside the Sangu Theertham, the visitor feels the rhythm of Shiva Nataraja in a quiet Tevaram temple of the Kudavasal country."
+    "history": "तलैयालंकाडु, ज्याचे तेवारम नाव तिरुत्तलैयालंकाडु आहे, तिरुवारूरपासून सुमारे १५ किमी आणि कुडवासलच्या सुमारे ८ किमी पूर्वेस, तिरुवारूर जिल्ह्यात (चिमिळि पोस्ट, सेम्बांगुडीमार्गे) आहे. हे एक पादल पेट्र स्थलम् आहे, जे तिरुनावुक्करसर (अप्पर) यांनी तेवारममध्ये स्तुत केले आहे. दगडी मंदिर चोल काळातील व नंतरचे आहे, आणि प्रभू नर्तनपुरीश्वर व आडवल्लीश्वर ही नृत्य-नावे धारण करतो.",
+    "architecture": "एक द्राविड त्रिभुजप्रदेशीय मंदिर, ज्यात गर्भगृहात नर्तनपुरीश्वर—आडवल्लरही—विराजमान आहेत, देवी बालांबिकै—जिला तिरुमदंथै अम्मैही म्हणतात—तिच्या स्वतंत्र देवालयात, नंदी आणि परिवार देवता आहेत. पवित्र तीर्थ संगु तीर्थम् आहे, आणि स्थलवृक्ष विल्व किंवा पाला वृक्ष म्हणून विविध प्रकारे नोंदवला जातो.",
+    "legends": "प्रभूची नावे—नर्तनपुरीश्वर, 'नृत्यनगरीचा प्रभू,' आणि आडवल्लीश्वर, 'नृत्यात समर्थ प्रभू'—येथील उपासना वैश्विक नर्तक शिव नटराजाकडे वळवतात, ज्याचे नृत्य विश्व टिकवते व विलीन करते. देवी बालांबिकै, 'तरुण माता,' त्याच्याशेजारी उभी आहे. अनेक लहान त्रिभुजप्रदेशीय तीर्थांप्रमाणे, अधिक विस्तृत स्थलपुराण मुख्यतः स्थानिक परंपरेत आणि अप्परांच्या तेवारम श्लोकांत जपले गेले आहे.",
+    "festivals": "मंदिर थै अमावास्या (जानेवारी–फेब्रुवारी), मासि महिन्यातील महाशिवरात्री (फेब्रुवारी–मार्च) आणि ऐप्पसि अन्नाभिषेकम् (ऑक्टोबर–नोव्हेंबर) पाळते, तसेच प्रदोष आणि कार्तिकै उपासना. कुडवासलजवळील पादल पेट्र मार्गावरील यात्रेकरू तलैयालंकाडूचा समावेश आपल्या थांब्यांत करतात.",
+    "experience": "तलैयालंकाडूला यात्रेकरू अशा तीर्थात येतो ज्याची नावे नृत्याचे गान करतात. नृत्यनगरीचा प्रभू नर्तनपुरीश्वर आणि तरुण बालांबिकै यांच्यासमोर, संगु तीर्थमच्या काठी, कुडवासल देशातील शांत तेवारम मंदिरात भेट देणाऱ्याला शिव नटराजाचा ताल जाणवतो."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thalayalangadu is about 15 km from Tiruvarur and 8 km east of Kudavasal (Chimizhi post, via Sembangudi, PIN 612603), in Tiruvarur district. Kudavasal and Tiruvarur are the nearest rail heads, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटे ते दुपारी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवांच्या दिवशी वेळा स्थानिक पातळीवर पुष्टी करून घ्या.",
+    "dressCode": "शालीन पारंपरिक वेश अपेक्षित आहे, खांदे व गुडघे झाकलेले; पादत्राणे प्रवेशद्वारी ठेवली जातात.",
+    "photography": "बाहेरील प्रदक्षिणामार्गांत छायाचित्रण सामान्यतः अनुमत आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तलैयालंकाडु तिरुवारूरपासून सुमारे १५ किमी आणि कुडवासलच्या ८ किमी पूर्वेस (चिमिळि पोस्ट, सेम्बांगुडीमार्गे, पिन ६१२६०३), तिरुवारूर जिल्ह्यात आहे. कुडवासल आणि तिरुवारूर ही जवळची रेल्वे स्थानके आहेत, गावाकडे बस व टॅक्सी उपलब्ध आहेत."
   }
 }

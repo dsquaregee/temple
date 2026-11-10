@@ -1,29 +1,36 @@
 {
   "id": "vedapureeswarar-therazhundur",
   "locale": "mr",
+  "name": "वेदपुरीश्वर मंदिर, तेरळुंदूर",
   "nativeName": "திருவழுந்தூர் வேதபுரீஸ்வரர் கோயில்",
+  "deity": "वेदपुरीश्वर रूपातील शिव, देवी सौंदर्याम्बिकेसह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम",
   "location": {
-    "city": "Therazhundur, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "तेरळुंदूर, मयिलादुतुरैजवळ",
+    "state": "तमिळनाडू",
     "lat": 11,
     "lng": 79.63
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायलेले); मध्ययुगीन आणि नंतरचे चोळ मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "मयिलादुतुरैजवळील तेरळुंदूर शिवाचा वेदपुरीश्वर म्हणून, देवी सौंदर्याम्बिकेसह, सन्मान करते. तिरुज्ञानसंबंदर यांनी गायलेले हे पाडल पेट्र स्थळम, गणेशाने बालसंत संबंदरांना हे शिव मंदिर दाखवले या परंपरेसाठी स्मरले जाते; विवाह आणि पुनर्मिलनासाठी प्रार्थनेचे हे स्थान आहे.",
   "sections": {
-    "history": "Therazhundur lies about 15 km from Mayiladuthurai, in Mayiladuthurai district (some listings Nagapattinam). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. Two inscriptions in 12th-century script, of the 34th and 44th years of Kulottunga Chola I, are found here; the temple is medieval and later Chola.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vedapureeswarar in the sanctum, with the goddess Soundaraambigai in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and gopuram keep the form of the Shiva temples near Mayiladuthurai. (The town also holds the Vishnu temple of Amaruviappan, a Divya Desam.)",
-    "legends": "Tradition tells that the child-saint Sambandar could not tell this Shiva temple apart from the neighbouring Vishnu shrine, and Ganesha manifested to point out the shrine of Shiva. Shiva is worshipped as Vedapureeswarar, 'lord of the city of the Vedas,' with Soundaraambigai beside him; the shrine is a prarthana sthalam for those seeking marriage or the reunion of estranged couples.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Devotees come to Vedapureeswarar to pray for marriage and household harmony.",
-    "experience": "At Therazhundur the pilgrim comes to the lord of the Vedas' city. Before Vedapureeswarar and Soundaraambigai, in the green country near Mayiladuthurai, the visitor finds the quiet grace of a Tevaram temple, and the memory of Ganesha who pointed the way for the child-saint."
+    "history": "तेरळुंदूर मयिलादुतुरैपासून सुमारे १५ किमी अंतरावर, मयिलादुतुरै जिल्ह्यात आहे (काही यादींमध्ये नागपट्टिनम). हे पाडल पेट्र स्थळम असून तेवारममध्ये तिरुज्ञानसंबंदर यांनी गायले आहे. बाराव्या शतकातील लिपीतील दोन शिलालेख, कुलोत्तुंग चोळ पहिला यांच्या ३४ व्या आणि ४४ व्या वर्षांचे, येथे आढळतात; मंदिर मध्ययुगीन आणि नंतरच्या चोळ काळातील आहे.",
+    "architecture": "द्रविड त्रिभुज प्रदेशातील मंदिर; गर्भगृहात वेदपुरीश्वर स्थापित आहे, देवी सौंदर्याम्बिका स्वतःच्या स्वतंत्र मंदिरात आहे, आणि प्राकाराभोवती नंदी आणि परिवार देवता आहेत. तटबंदीयुक्त अंगण आणि गोपुर मयिलादुतुरैजवळील शिव मंदिरांचे रूप जपतात. (गावात अमरुवियप्पन हे विष्णू मंदिरही आहे, जे एक दिव्य देश आहे.)",
+    "legends": "परंपरा सांगते की बालसंत संबंदरांना हे शिव मंदिर शेजारच्या विष्णू मंदिरापासून वेगळे ओळखता आले नाही, आणि गणेश प्रकट होऊन त्याने शिवाचे मंदिर दाखवले. शिवाची उपासना वेदपुरीश्वर, 'वेदांच्या नगराचा स्वामी', म्हणून होते, त्याच्या बाजूला सौंदर्याम्बिका आहे; विवाह इच्छिणाऱ्यांसाठी किंवा दुरावलेल्या जोडप्यांच्या पुनर्मिलनासाठी हे प्रार्थना स्थळम आहे.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यात नवरात्र आणि कार्तिकैच्या सोमवारी उत्सव पाळले जातात, तसेच प्रदोष पूजा होते. विवाह आणि गृहसौख्यासाठी प्रार्थना करण्यास भाविक वेदपुरीश्वराकडे येतात.",
+    "experience": "तेरळुंदूरला यात्रेकरू वेदांच्या नगराच्या स्वामीकडे येतो. मयिलादुतुरैजवळील हिरव्यागार प्रदेशात, वेदपुरीश्वर आणि सौंदर्याम्बिकेसमोर, अभ्यागताला तेवारम मंदिराची शांत कृपा मिळते, आणि बालसंताला वाट दाखवणाऱ्या गणेशाचे स्मरण होते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Therazhundur lies about 15 km from Mayiladuthurai, in Mayiladuthurai district. Mayiladuthurai is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "सहसा पहाटेपासून मध्यान्हीपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत छायाचित्रण सामान्यतः परवानगीयुक्त आहे, परंतु गर्भगृहाच्या आत नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तेरळुंदूर मयिलादुतुरैपासून सुमारे १५ किमी अंतरावर, मयिलादुतुरै जिल्ह्यात आहे. मयिलादुतुरै हे सर्वांत जवळचे शहर आणि रेल्वे स्थानक आहे; गावापर्यंत बस आणि टॅक्सी जातात."
   }
 }

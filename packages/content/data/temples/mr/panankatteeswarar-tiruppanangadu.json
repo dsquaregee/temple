@@ -1,29 +1,36 @@
 {
   "id": "panankatteeswarar-tiruppanangadu",
   "locale": "mr",
+  "name": "पनंकट्टीश्वर (तलपुरीश्वर) मंदिर, तिरुप्पनंगाडू",
   "nativeName": "திருப்பனங்காடு தலபுரீஸ்வரர் கோயில்",
+  "deity": "पनंकट्टीश्वर (तलपुरीश्वर) रूपातील शिव, देवी कृपानायकी यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Tiruppanangadu, near Cheyyar",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पनंगाडू, चेय्यारजवळ",
+    "state": "तमिळनाडू",
     "lat": 12.7,
     "lng": 79.55
   },
+  "period": "तेवारम काळ (सातव्या-आठव्या शतकात गायिलेले); नंतरचे दगडी मंदिर",
   "century": 8,
+  "dynasty": "पल्लव आणि चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तोंडै प्रदेशात चेय्यारजवळील तिरुप्पनंगाडू येथे शिवाची पनंकट्टीश्वर — तलपुरीश्वर — या रूपात देवी कृपानायकीसह पूजा केली जाते. सुंदररांनी गायिलेल्या या पाडल पेट्र स्थळम्चे नाव, 'ताडवृक्षांचे वन', अगस्त्य ऋषींच्या ताडफळाच्या कथेशी जोडलेले आहे, आणि पूजेची सुरुवात त्यांनी प्रतिष्ठापित केलेल्या लिंगापासून होते.",
   "sections": {
-    "history": "Tiruppanangadu lies about 16 km from Kanchipuram, near Cheyyar, in Tiruvannamalai district, in the old Thondai country. It is a Paadal Petra Sthalam, sung in the Tevaram by Sundarar. The name means 'the forest of palms,' and the sthala vriksham is the palm tree. The structural temple carries Pallava and later work, in the Dravidian form of the Thondai Nadu shrines.",
-    "architecture": "A Dravidian temple of the Thondai country, the shrine enshrines Panankatteeswarar — Talapurisvarar, the lord of the palm-forest — and a second form, Kirubapurisvarar, with the goddesses Kirubanayaki and Amirtavalli, a Nandi and the parivara devatas. The sthala vriksham is the palm. Worship begins at the lingam consecrated by sage Agastya, followed by the lingam of his disciple Pulasthyar.",
-    "legends": "The name Tiruppanangadu, 'the holy forest of palms,' is tied to a legend of sage Agastya and the palm fruit; by tradition he consecrated a lingam here, and his disciple Pulasthyar another, so that worship begins at Agastya's and passes to Pulasthyar's. Shiva is worshipped as Panankatteeswarar — Talapurisvarar — with the goddess Kirubanayaki. (This is a distinct shrine from Puravar Panankattur in Villupuram, another Paadal Petra Sthalam.)",
-    "festivals": "The temple holds its Brahmotsavam in Masi (February–March), the Annabishegam in Aippasi (October–November) and the Arudra Darshan in Margazhi (December–January), besides Maha Shivaratri and Pradosha worship. Pilgrims of the Thondai country include Tiruppanangadu among their stops.",
-    "experience": "At Tiruppanangadu the pilgrim comes to the lord of the palm-forest. Before Panankatteeswarar and Kirubanayaki, beginning at the lingam of Agastya, the visitor finds the unhurried grace of a Tevaram temple of the Thondai country, among the palms that give the place its name."
+    "history": "तिरुप्पनंगाडू तिरुवण्णामलै जिल्ह्यात, जुन्या तोंडै प्रदेशात, चेय्यारजवळ, कांचीपुरमपासून सुमारे १६ किमी अंतरावर आहे. हे पाडल पेट्र स्थळम् असून तेवारममध्ये सुंदररांनी याची स्तुती गायली आहे. नावाचा अर्थ 'ताडवृक्षांचे वन' असा असून स्थलवृक्ष ताडाचे झाड आहे. या दगडी मंदिरात तोंडै नाडू मंदिरांच्या द्रविड शैलीतील पल्लवकालीन आणि नंतरचे बांधकाम दिसते.",
+    "architecture": "हे तोंडै प्रदेशातील द्रविड मंदिर असून त्यात पनंकट्टीश्वर — ताडवनाचे स्वामी तलपुरीश्वर — आणि दुसरे रूप कृपापुरीश्वर यांची स्थापना आहे; तसेच देवी कृपानायकी आणि अमृतवल्ली, नंदी आणि परिवार देवता आहेत. स्थलवृक्ष ताड आहे. पूजेची सुरुवात अगस्त्य ऋषींनी प्रतिष्ठापित केलेल्या लिंगापासून होते, त्यानंतर त्यांचा शिष्य पुलस्त्य यांच्या लिंगाची पूजा होते.",
+    "legends": "तिरुप्पनंगाडू, म्हणजे 'ताडवृक्षांचे पवित्र वन', हे नाव अगस्त्य ऋषी आणि ताडफळ यांच्या कथेशी जोडलेले आहे; परंपरेनुसार त्यांनी येथे एक लिंग प्रतिष्ठापित केले आणि त्यांचा शिष्य पुलस्त्य यांनी दुसरे, त्यामुळे पूजा अगस्त्यांच्या लिंगापासून सुरू होऊन पुलस्त्यांच्या लिंगाकडे जाते. शिवाची पनंकट्टीश्वर — तलपुरीश्वर — या रूपात देवी कृपानायकीसह पूजा केली जाते. (हे विल्लुपुरममधील पुरवार पनंकट्टूरपासून वेगळे मंदिर आहे, जे आणखी एक पाडल पेट्र स्थळम् आहे.)",
+    "festivals": "मंदिरात मासी (फेब्रुवारी-मार्च) महिन्यात ब्रह्मोत्सव, ऐप्पसी (ऑक्टोबर-नोव्हेंबर) महिन्यात अन्नाभिषेक आणि मार्गळी (डिसेंबर-जानेवारी) महिन्यात आरुद्रा दर्शन साजरे होतात; याशिवाय महाशिवरात्री आणि प्रदोष पूजा होते. तोंडै प्रदेशातील यात्रेकरू तिरुप्पनंगाडूचा आपल्या यात्रेत समावेश करतात.",
+    "experience": "तिरुप्पनंगाडू येथे यात्रेकरू ताडवनाच्या स्वामींकडे येतो. पनंकट्टीश्वर आणि कृपानायकीसमोर, अगस्त्यांच्या लिंगापासून सुरुवात करून, ज्या ताडवृक्षांमुळे या स्थानाला नाव मिळाले त्यांच्यामध्ये तोंडै प्रदेशातील तेवारम मंदिराची निवांत कृपा भाविकाला अनुभवता येते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruppanangadu lies about 16 km from Kanchipuram, near Cheyyar, in Tiruvannamalai district. Kanchipuram and Cheyyar are the nearest towns, with buses and taxis to the village; Kanchipuram is the nearest rail head."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर निश्चित करून घ्या.",
+    "dressCode": "खांदे आणि गुडघे झाकलेला साधा पारंपरिक पोशाख अपेक्षित आहे; पादत्राणे प्रवेशद्वारावर काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत सामान्यतः छायाचित्रणास परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुप्पनंगाडू तिरुवण्णामलै जिल्ह्यात चेय्यारजवळ, कांचीपुरमपासून सुमारे १६ किमी अंतरावर आहे. कांचीपुरम आणि चेय्यार ही जवळची शहरे असून गावापर्यंत बस आणि टॅक्सी उपलब्ध आहेत; कांचीपुरम हे जवळचे रेल्वे स्थानक आहे."
   }
 }

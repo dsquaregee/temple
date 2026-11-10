@@ -1,30 +1,37 @@
 {
   "id": "attukal-bhagavathy",
   "locale": "mr",
+  "name": "आट्टुकाल भगवती मंदिर",
   "nativeName": "ആറ്റുകാൽ ഭഗവതി ക്ഷേത്രം",
+  "deity": "कण्णगीच्या परंपरेत पूजिली जाणारी देवी आट्टुकाल भगवती",
+  "tradition": "शाक्त (देवीपूजा)",
   "location": {
-    "city": "Thiruvananthapuram",
-    "state": "Kerala",
+    "city": "तिरुवनंतपुरम",
+    "state": "केरळ",
     "lat": 8.4785,
     "lng": 76.9553
   },
+  "period": "आट्टुकाल पोंगालसाठी प्रसिद्ध केरळमधील देवी मंदिर, जे जगातील स्त्रियांचा सर्वात मोठा मेळावा आहे",
   "century": 17,
+  "dynasty": "स्थानिक केरळ परंपरा",
+  "style": "केरळ",
   "unesco": false,
   "circuits": [
     "sacred-temples-of-kerala"
   ],
+  "summary": "तिरुवनंतपुरम शहरात देवीची आट्टुकाल भगवती या रूपात पूजा होते — कण्णगीच्या कथेशी निगडित एक देवी, जिचा पोंगाल उत्सव पृथ्वीवरील स्त्रियांचा सर्वात मोठा मेळावा आकर्षित करतो.",
   "sections": {
-    "history": "The Attukal Bhagavathy temple stands in Thiruvananthapuram, the capital of Kerala. The Goddess here is worshipped as Bhagavathy, in the devotional line of Kannaki, the wronged heroine of the Tamil epic Silappadikaram who became a goddess. The temple is often called the 'Sabarimala of Women', for its greatest festival belongs entirely to women.",
-    "architecture": "The temple is built in the Kerala manner, with a sloped-roof sanctum and carved woodwork, gathered around the shrine of the Goddess. Its fame, though, lies less in its stones than in the ocean of women that fills the streets around it at Pongala.",
-    "legends": "The Goddess is identified with Kannaki, who, having lost her husband to a king's unjust judgement, is said to have come to Attukal on her way and revealed herself here as Bhagavathy. Her story of a wrong righted and a woman deified is the heart of the temple's devotion.",
-    "festivals": "The Attukal Pongala is the great festival, when millions of women fill the city and its streets for miles to cook pongala — an offering of rice and jaggery — in the open on hearths of brick, a gathering recognised as the largest of women anywhere. It is the temple's defining day.",
-    "experience": "To see Thiruvananthapuram on Pongala day — its streets a single field of hearths and smoke and offering, tended by millions of women — is among the most striking sights of devotion in India."
+    "history": "आट्टुकाल भगवती मंदिर केरळची राजधानी तिरुवनंतपुरम येथे उभे आहे. येथे देवीची भगवती या रूपात पूजा होते, जी कण्णगीच्या भक्तिपरंपरेतील आहे — शिलप्पदिकारम या तमिळ महाकाव्यातील अन्यायग्रस्त नायिका, जी देवी बनली. या मंदिराला अनेकदा 'स्त्रियांचे शबरीमला' म्हणतात, कारण त्याचा सर्वात मोठा उत्सव पूर्णपणे स्त्रियांचा आहे.",
+    "architecture": "हे मंदिर केरळ शैलीत बांधलेले असून, उतरत्या छताचे गर्भगृह व कोरीव काष्ठकाम देवीच्या गाभाऱ्याभोवती एकत्रित आहे. मात्र त्याची कीर्ती त्याच्या दगडांपेक्षा पोंगालच्या वेळी त्याभोवतीचे रस्ते भरून टाकणाऱ्या स्त्रियांच्या महासागरात अधिक आहे.",
+    "legends": "देवीला कण्णगीशी एकरूप मानले जाते, जिने राजाच्या अन्याय्य न्यायनिवाड्यामुळे आपला पती गमावल्यावर आपल्या वाटेवर आट्टुकाल येथे येऊन येथे भगवती रूपात प्रकट झाली असे सांगतात. अन्यायाचे परिमार्जन आणि एका स्त्रीचे देवीत रूपांतर ही तिची कथा या मंदिराच्या भक्तीचा गाभा आहे.",
+    "festivals": "आट्टुकाल पोंगाल हा महान उत्सव आहे, जेव्हा लक्षावधी स्त्रिया शहर व त्याच्या मैलोन्‌मैल रस्त्यांवर विटांच्या चुलींवर उघड्यावर पोंगाल — तांदूळ व गूळ यांचे नैवेद्य — शिजवतात; हा मेळावा पृथ्वीवरील स्त्रियांचा सर्वात मोठा मेळावा म्हणून ओळखला जातो. हा मंदिराचा सर्वोच्च दिवस आहे.",
+    "experience": "पोंगालच्या दिवशी तिरुवनंतपुरम पाहणे — त्याचे रस्ते चुली, धूर व नैवेद्य यांचे एक अखंड क्षेत्र बनलेले, लक्षावधी स्त्रियांनी राखलेले — हे भारतातील भक्तीच्या सर्वात विलक्षण दृश्यांपैकी एक आहे."
   },
   "visit": {
-    "timings": "Open daily with morning and evening worship; the Pongala festival (in the Tamil–Malayalam month of Kumbham) is by far the busiest, closing the surrounding city. Confirm current timings and festival dates before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Attukal lies within Thiruvananthapuram in Kerala, a short way from the city centre and the Padmanabhaswamy temple, reached by road, with the city's railway station and airport nearby."
+    "timings": "दररोज सकाळ व संध्याकाळच्या पूजेसह उघडे असते; पोंगाल उत्सव (कुंभम या तमिळ–मल्याळम महिन्यात) हा सर्वात गर्दीचा असतो व आसपासचे शहर बंद करतो. भेटीपूर्वी सध्याच्या वेळा व उत्सवाच्या तारखा निश्चित करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम व पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "आट्टुकाल केरळमधील तिरुवनंतपुरमच्या आत आहे, शहराच्या केंद्रापासून व पद्मनाभस्वामी मंदिरापासून थोड्या अंतरावर, रस्त्याने पोहोचता येते; शहराचे रेल्वेस्थानक व विमानतळ जवळ आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/attukal-bhagavathy.jpg",

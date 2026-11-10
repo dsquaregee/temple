@@ -1,29 +1,36 @@
 {
   "id": "vaikalnathar-vaikal",
   "locale": "mr",
+  "name": "वैगळनाथर मंदिर, तिरुवैकल मडकोविल",
   "nativeName": "திருவைகல் மாடக்கோயில் ஷேண்பகாரண்யேஸ்வரர் கோயில்",
+  "deity": "वैगळनाथर (शेंबगारण्येश्वरर) रूपातील शिव, देवी कोम्बियल कोथई यांच्यासह",
+  "tradition": "शैव — पाडल पेत्र स्थळ, मडकोविल",
   "location": {
-    "city": "Vaikal, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "वैकल, कुंभकोणमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.95,
     "lng": 79.4833
   },
+  "period": "तेवारम काळ; परंपरेनुसार कोचेंगट चोळांचे मडकोविल",
   "century": 9,
+  "dynasty": "चोळ (परंपरेनुसार कोचेंगट चोळ)",
+  "style": "द्रविड (मडकोविल, उंच पायाचा प्रकार)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमजवळील वैकल येथे शिवाची वैगळनाथर म्हणून — तसेच चाफ्याच्या वनाचा स्वामी शेंबगारण्येश्वरर म्हणूनही — देवी कोम्बियल कोथई यांच्यासह पूजा होते. तेवारममध्ये गायिलेले हे पाडल पेत्र स्थळ असून याचे ऐतिहासिक नाव तिरुवैकल मडकोविल आहे, कारण ते उंच पायावरील मडकोविल म्हणून बांधले गेले; परंपरेनुसार ते चोळ राजा कोचेंगट चोळ यांच्या मंदिरांपैकी एक आहे. \"मुक्कण क्षेत्रम्\", म्हणजे त्रिनेत्र प्रभूचे स्थान, म्हणून पूज्य असलेले हे कावेरी प्रदेशातील लहान पण पूजनीय देवस्थान आहे.",
   "sections": {
-    "history": "Vaikal, near Kumbakonam, is an ancient Shaiva village hymned in the Tevaram and counted among the Paadal Petra Sthalams — by one reckoning the thirty-third shrine on the southern bank of the Kaveri. Its historical name, Tiruvaikal Madakoil, marks it as a Maada Kovil, a raised temple traditionally ascribed to the Chola king Kochengat Chola. The village name Vaikal is explained as a form of 'vai-kurugal,' referring to a small mound. In recent times the small shrine has needed care, a single devoted priest keeping its worship alive.",
-    "architecture": "As a Maada Kovil the temple sits on an elevated base, in the manner of the Kochengat Chola foundations built high so that an elephant could not enter the sanctum. The sanctum enshrines Vaigalnathar, also known as Shenbaga Aranyeswarar, lord of the champak forest; the goddess is Kombial Kothai. The temple is grouped locally with the Viswanathar and Brahmapureeswarar shrines of the area and revered as a mukkan kshetram.",
-    "legends": "The lord's name Shenbaga Aranyeswarar recalls a forest of shenbagam, the fragrant champak, that once stood here, within which the lingam is said to have been worshipped. The village's reverence as a mukkan kshetram, a 'place of the three eyes,' keeps the three-eyed form of Shiva at the heart of its devotion. As with many smaller delta shrines, the fuller sthala-purana is less widely recorded than those of the great temples nearby.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Aippasi Annabhishekam (October–November), at the quiet scale of a village shrine. Devotees who seek out the lesser-known Paadal Petra temples of the delta include Vaikal among their stops.",
-    "experience": "Vaikal offers the pilgrim the plain, unhurried devotion of a small Maada Kovil with a venerable Tevaram name. Climbing to the raised sanctum of Vaigalnathar, amid the memory of a champak forest, the visitor meets a shrine whose quiet survival is itself part of its grace — one of the delta's smaller treasures, kept alive by faithful hands."
+    "history": "कुंभकोणमजवळील वैकल हे तेवारममध्ये गायिलेले प्राचीन शैव गाव असून पाडल पेत्र स्थळांमध्ये गणले जाते — एका गणनेनुसार कावेरीच्या दक्षिण तीरावरील तेहतिसावे देवस्थान. त्याचे ऐतिहासिक नाव, तिरुवैकल मडकोविल, त्याला मडकोविल, म्हणजे उंच पायावरील मंदिर, असे ओळखवते, जे परंपरेने चोळ राजा कोचेंगट चोळ यांना श्रेय दिले जाते. वैकल या गावनावाचे स्पष्टीकरण \"वै-कुरुगल\" या रूपातून दिले जाते, ज्याचा अर्थ लहान टेकाड. अलीकडच्या काळात या लहान देवस्थानाला निगेची गरज भासली आहे; एकच निष्ठावान पुजारी त्याची पूजा जिवंत ठेवत आहे.",
+    "architecture": "मडकोविल म्हणून मंदिर उंच पायावर उभे आहे, कोचेंगट चोळांच्या स्थापनांप्रमाणे, जी इतकी उंच बांधली जात की हत्ती गर्भगृहात शिरू शकत नसे. गर्भगृहात वैगळनाथर, ज्यांना चाफ्याच्या वनाचा स्वामी शेंबगारण्येश्वरर असेही म्हणतात, प्रतिष्ठापित आहेत; देवी कोम्बियल कोथई आहेत. हे मंदिर स्थानिक पातळीवर परिसरातील विश्वनाथर आणि ब्रह्मपुरीश्वरर देवस्थानांसोबत गणले जाते आणि मुक्कण क्षेत्रम् म्हणून पूज्य आहे.",
+    "legends": "प्रभूचे शेंबगारण्येश्वरर हे नाव येथे एकेकाळी असलेल्या शेंबगमच्या, म्हणजे सुगंधी चाफ्याच्या, वनाची आठवण करून देते, ज्यात लिंगाची पूजा होत असे असे सांगितले जाते. मुक्कण क्षेत्रम्, म्हणजे \"तीन डोळ्यांचे स्थान\", म्हणून गावाला असलेला आदर शिवाच्या त्रिनेत्र रूपाला भक्तीच्या केंद्रस्थानी ठेवतो. त्रिभुज प्रदेशातील अनेक लहान देवस्थानांप्रमाणे, जवळच्या मोठ्या मंदिरांच्या तुलनेत येथील सविस्तर स्थलपुराण कमी व्यापकपणे नोंदलेले आहे.",
+    "festivals": "मंदिर मासीतील (फेब्रुवारी–मार्च) महाशिवरात्री, पुरट्टासीतील (सप्टेंबर–ऑक्टोबर) नवरात्री आणि ऐप्पसी अन्नाभिषेकम् (ऑक्टोबर–नोव्हेंबर) हे उत्सव गावातील देवस्थानाच्या शांत प्रमाणात पाळते. त्रिभुज प्रदेशातील कमी ज्ञात पाडल पेत्र मंदिरे शोधणारे भक्त वैकलचा आपल्या थांब्यांमध्ये समावेश करतात.",
+    "experience": "वैकल यात्रेकरूला तेवारममधील पूज्य नाव असलेल्या लहान मडकोविलाची साधी, निवांत भक्ती देते. चाफ्याच्या वनाच्या स्मृतीत वसलेल्या वैगळनाथरांच्या उंच गर्भगृहावर चढून जाताना, अभ्यागताला असे देवस्थान भेटते ज्याचे शांत टिकून राहणे हेच त्याच्या कृपेचा भाग आहे — श्रद्धाळू हातांनी जिवंत ठेवलेला त्रिभुज प्रदेशातील एक लहानसा ठेवा."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Vaikal is near Kumbakonam (sources also list it under Nagapattinam district), about 12 km from Kumbakonam; Kumbakonam is the nearest rail head, with local buses and taxis to the village."
+    "timings": "साधारणतः पहाटेपासून मध्यान्हीपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गात छायाचित्रण साधारणतः चालते, परंतु गर्भगृहात चालत नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "वैकल कुंभकोणमजवळ आहे (काही स्रोत त्याला नागपट्टिनम जिल्ह्यातही दाखवतात), कुंभकोणमपासून सुमारे १२ कि.मी.; कुंभकोणम हे जवळचे रेल्वे स्थानक असून गावापर्यंत स्थानिक बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

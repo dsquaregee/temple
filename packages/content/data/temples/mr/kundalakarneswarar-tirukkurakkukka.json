@@ -1,29 +1,36 @@
 {
   "id": "kundalakarneswarar-tirukkurakkukka",
   "locale": "mr",
+  "name": "कुंडलकर्णेश्वर मंदिर, तिरुक्कुरक्कुक्का",
   "nativeName": "குண்டலகர்ணேஸ்வரர் கோயில்",
+  "deity": "कुंडलकर्णेश्वर (कुंडलेश्वर) रूपातील शिव, देवी कुंडलांबिकैसह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thirukurakkaval",
-    "state": "Tamil Nadu",
+    "city": "तिरुकुरक्कावल",
+    "state": "तमिळनाडू",
     "lat": 11.185,
     "lng": 79.66
   },
+  "period": "चोळ नाडूमधील प्राचीन शैव तीर्थ, तेवारममध्ये गायिलेले (सातवे शतक); नंतरच्या नूतनीकरणांसह एक लहान गावचे मंदिर",
   "century": 7,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (चोळ व नंतरचे)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंडलकर्णेश्वर हे तिरुकुरक्कावल येथील शिवमंदिर असून अप्पर यांनी तेवारममध्ये त्याची तिरुक्कुरक्कुक्का म्हणून स्तुती केली आहे; वानरदेव हनुमानाने येथे प्रभूची पूजा केली आणि स्वतःचे कुंडल अर्पण केले या परंपरेमुळे ते विशेष प्रिय आहे.",
   "sections": {
-    "history": "Thirukurakkaval lies in the old Chola country north of the Kaveri, a short distance from Vaitheeswaran Koil in present-day Mayiladuthurai district. In the Tevaram hymns the shrine is Tirukkurakkukka, and it is counted among the Paadal Petra Sthalams, praised by the saint Appar, Tirunavukkarasar. Tradition numbers it the twenty-eighth of the Tevaram shrines on the Kaveri's northern bank, and local accounts speak of a sanctuary well over a thousand years old, though its structural history is not firmly documented. The place is remembered less for a royal foundation than for a devotion: the Lord here is said to have been worshipped by Hanuman himself, and the very name of the town is read in that light.",
-    "architecture": "This is a modest village temple rather than a monumental one, and accounts note that it has no towering rajagopuram. The sanctum holds Shiva as Kundalakarneswarar, also called Kundaleswarar, whose linga tradition describes as one fashioned of sand, and the goddess Kundalambikai is honoured in a shrine of her own. The temple's sacred water is the Ganapathy Theertham, spoken of as a channel of the Kaveri. Hanuman, shown at worship before Shiva, is the figure with whom the place is most closely linked, and some devotees know it as the temple of Anjaneya, the devotee of Shiva. The older stonework is thinly recorded, so come expecting a quiet, simple sanctuary rather than a grand complex.",
-    "legends": "The temple's story is Hanuman's. After the war in Lanka, Rama is said to have asked him to bring a Shiva linga from Ayodhya; when he was delayed a sand linga was made, and a divine voice then directed Hanuman to install a linga of his own at this place and pray to it. To test his devotion, Shiva made one of his earrings, the kundalam, vanish, and Hanuman, who was born with earrings, cut off one of his own and offered it to the Lord. From this the Lord is called Kundalakarneswarar, He of the earring. A local reading takes the town's name from kurangu, the monkey, as if Kurangukkaa had softened into Kurakkukka, and it is told that two monkeys still come in the month of Chithirai to worship with bilva leaves. These are tradition and local belief, held with affection.",
-    "festivals": "Maha Shivaratri in February or March is the great night of worship here, and Tirukarthikai in November or December is kept with lamps. Hanuman Jayanti has a special place at a temple so closely tied to Hanuman's devotion, and Chithirai, in April or May, is remembered for the belief in the monkeys' annual visit. Monthly Pradosham is observed as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Thirukurakkaval is a place for a slow, quiet visit. Come to the sanctum of Kundalakarneswarar first, then to the goddess Kundalambikai in her own shrine, and spend a moment where Hanuman is shown at worship, remembering the earring offered in love. The temple stands among fields and village lanes, far from the bustle of the highway towns, and many pilgrims fit it into a half-day circuit from Vaitheeswaran Koil with the nearby Tevaram shrines of Tiruvazhkolipputhur, Tirukkaruppariyalur and Tirupunkur."
+    "history": "तिरुकुरक्कावल कावेरीच्या उत्तरेकडील जुन्या चोळ प्रदेशात, सध्याच्या मयिलाडुतुरै जिल्ह्यातील वैद्येश्वरन कोविलपासून थोड्या अंतरावर आहे. तेवारम स्तोत्रांत हे तीर्थ तिरुक्कुरक्कुक्का असून पाडल पेट्र स्थळांमध्ये गणले जाते; संत अप्पर, तिरुनावुक्करसर यांनी त्याची स्तुती केली आहे. परंपरा त्याला कावेरीच्या उत्तर तीरावरील तेवारम तीर्थांपैकी अठ्ठाविसावे मानते, आणि स्थानिक कथनांत हजार वर्षांहून जुन्या मंदिराचा उल्लेख येतो, जरी त्याचा बांधकाम-इतिहास निश्चितपणे नोंदलेला नाही. हे स्थान राजकीय स्थापनेपेक्षा एका भक्तीसाठी अधिक स्मरले जाते : येथे प्रभूची पूजा स्वतः हनुमानाने केली असे म्हटले जाते, आणि गावाच्या नावाचाही त्याच प्रकाशात अर्थ लावला जातो.",
+    "architecture": "हे भव्य नव्हे तर साधे गावचे मंदिर आहे, आणि येथे उंच राजगोपुर नाही असे नोंदींतून दिसते. गर्भगृहात कुंडलकर्णेश्वर, कुंडलेश्वर असेही म्हटले जाणारे, शिव विराजमान आहेत, ज्यांचे लिंग वाळूचे बनलेले आहे असे परंपरा वर्णन करते; आणि देवी कुंडलांबिकैचा स्वतंत्र गर्भगृहात गौरव होतो. मंदिराचे पवित्र जल गणपती तीर्थम् आहे, ज्याला कावेरीचा प्रवाह म्हटले जाते. शिवासमोर पूजेत दाखवलेला हनुमान हे या स्थानाशी सर्वाधिक जोडलेले रूप आहे, आणि काही भक्त याला शिवभक्त आंजनेयाचे मंदिर म्हणूनही ओळखतात. जुन्या दगडी बांधकामाची नोंद अल्प आहे, म्हणून भव्य संकुलाऐवजी शांत, साध्या गर्भगृहाची अपेक्षा ठेवून या.",
+    "legends": "मंदिराची कथा हनुमानाची आहे. लंकेतील युद्धानंतर रामाने त्याला अयोध्येहून शिवलिंग आणण्यास सांगितले असे म्हटले जाते; त्याला उशीर झाल्यावर वाळूचे लिंग बनवले गेले, आणि मग दिव्य वाणीने हनुमानाला या ठिकाणी स्वतःचे लिंग स्थापून त्याची पूजा करण्यास सांगितले. त्याच्या भक्तीची परीक्षा घेण्यासाठी शिवाने आपले एक कुंडल, कुंडलम्, अदृश्य केले, आणि कुंडलांसह जन्मलेल्या हनुमानाने स्वतःचे एक कुंडल कापून प्रभूला अर्पण केले. यावरून प्रभू कुंडलकर्णेश्वर, म्हणजे कुंडलधारी, म्हणून ओळखला जातो. एका स्थानिक अर्थानुसार गावाचे नाव कुरंगु, म्हणजे वानर, यावरून आले, जणू कुरंगुक्का मृदू होऊन कुरक्कुक्का झाले, आणि असे सांगितले जाते की चिथिरै महिन्यात आजही दोन वानर बिल्वपत्रांसह पूजेला येतात. ही परंपरा आणि स्थानिक श्रद्धा असून प्रेमाने जपलेली आहे.",
+    "festivals": "फेब्रुवारी किंवा मार्चमधील महाशिवरात्र ही येथील पूजेची मोठी रात्र असून नोव्हेंबर किंवा डिसेंबरमधील तिरुकार्तिकै दिव्यांनी साजरी होते. हनुमानाच्या भक्तीशी इतके जवळून जोडलेल्या मंदिरात हनुमान जयंतीला विशेष स्थान आहे, आणि एप्रिल किंवा मेमधील चिथिरै वानरांच्या वार्षिक भेटीच्या श्रद्धेसाठी स्मरले जाते. प्रत्येक शिवमंदिराप्रमाणे येथेही मासिक प्रदोष पाळला जातो. तारखा तमिळ पंचांगानुसार असल्याने त्या स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुकुरक्कावल हे सावकाश, शांत भेटीचे स्थान आहे. आधी कुंडलकर्णेश्वराच्या गर्भगृहात या, मग स्वतंत्र मंदिरातील देवी कुंडलांबिकैकडे, आणि जेथे हनुमान पूजेत दाखवला आहे तेथे थोडा वेळ थांबून प्रेमाने अर्पण केलेल्या कुंडलाचे स्मरण करा. मंदिर महामार्गावरील शहरांच्या गजबजाटापासून दूर, शेतांमध्ये आणि गावातील गल्ल्यांमध्ये वसले आहे, आणि अनेक यात्रेकरू वैद्येश्वरन कोविलपासून जवळील तिरुवाळकोळिप्पुतूर, तिरुक्करुप्परियलूर आणि तिरुपुंकूर या तेवारम तीर्थांसह अर्ध्या दिवसाच्या फेरीत त्याचा समावेश करतात."
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again in the late afternoon and evening, with a midday break; village temples keep short hours, so confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the temple.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thirukurakkaval is a village about 13 km north of Mayiladuthurai and close to Vaitheeswaran Koil, which has the nearest railway station; Mayiladuthurai Junction is the main railhead. Buses run to Vaitheeswaran Koil, from where an auto-rickshaw or taxi covers the last stretch. Tiruchirappalli has the nearest major airport, a few hours away by road."
+    "timings": "सामान्यतः सकाळी काही तास आणि पुन्हा दुपारी उशिरा व संध्याकाळी उघडे असते, दुपारी विश्रांती असते; गावच्या मंदिरांच्या वेळा कमी असतात, म्हणून विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे : पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे व गुडघे झाकलेले असावेत. पादत्राणे मंदिराबाहेर काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणामार्गात व प्रांगणांत छायाचित्रणास सामान्यतः परवानगी आहे, परंतु तमिळनाडूतील मंदिरांच्या नियमांप्रमाणे आतल्या गर्भगृहात ते निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुकुरक्कावल हे मयिलाडुतुरैच्या उत्तरेला सुमारे १३ कि.मी. अंतरावरील गाव असून वैद्येश्वरन कोविलजवळ आहे, जेथे जवळचे रेल्वे स्थानक आहे; मयिलाडुतुरै जंक्शन हे मुख्य रेल्वे स्थानक आहे. वैद्येश्वरन कोविलपर्यंत बसेस धावतात, तेथून शेवटचा टप्पा ऑटोरिक्षा किंवा टॅक्सीने पार करता येतो. तिरुचिरापल्ली येथे जवळचे मोठे विमानतळ आहे, रस्त्याने काही तासांच्या अंतरावर."
   }
 }

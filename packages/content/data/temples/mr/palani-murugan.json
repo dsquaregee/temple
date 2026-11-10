@@ -1,30 +1,37 @@
 {
   "id": "palani-murugan",
   "locale": "mr",
+  "name": "पळनी मुरुगन मंदिर",
   "nativeName": "பழனி தண்டாயுதபாணி கோயில்",
+  "deity": "दंडायुधपाणी रूपात पूजले जाणारे मुरुगन",
+  "tradition": "कौमारम, शैव परंपरेतील मुरुगन उपासना",
   "location": {
-    "city": "Palani",
-    "state": "Tamil Nadu",
+    "city": "पळनी",
+    "state": "तमिळनाडू",
     "lat": 10.4497,
     "lng": 77.5209
   },
+  "period": "आरंभिक मध्ययुगीन; अतिप्राचीन डोंगरावरील मंदिर",
   "century": 9,
+  "dynasty": "चेर आणि नंतर पांड्य, चोळ, नायक",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "arupadai-veedu"
   ],
+  "summary": "पळनीच्या डोंगरमाथ्यावर वसलेले दंडायुधपाणी मंदिर मुरुगनच्या सहा निवासस्थानांपैकी तिसरे असून तमिळनाडूतील सर्वाधिक भेट दिल्या जाणाऱ्या मंदिरांपैकी एक आहे; त्याची देवता नऊ खनिजांच्या दंतकथित मिश्रणातून घडवलेला शांत संन्यासी आहे.",
   "sections": {
-    "history": "Palani is sung in the Sangam-era Tirumurugatruppadai and has drawn pilgrims for well over a thousand years. Rising on a hill above the plains of the Kongu country, its shrine was patronised across the Chera, Pandya, Chola, and Nayak periods, each leaving its mark on the ascent and the halls below. The temple has long been administered as one of the great pilgrimage centres of the Tamil land, and its hill remains crowned by the abode of the boy-god as an ascetic.",
-    "architecture": "The temple crowns a hill reached by a long flight of steps, by a winding road, and today by winch-cars and a rope-way. The compact hilltop sanctum enshrines Dhandayuthapani, Murugan as a shaven-headed mendicant holding a staff, said to have been fashioned by the siddha Bogar from an amalgam of nine minerals, the navapashanam. Pillared halls, a golden car, and shrines to the god’s consorts and to Bogar cluster within the walls, while the plains and the town spread out far below the summit.",
-    "legends": "The temple’s name is bound to the legend of the fruit of wisdom. When the sage Narada offered a single mango, the fruit of knowledge, Shiva set it as a prize for whichever son first circled the world. Murugan mounted his peacock; Ganesha simply walked around his parents, declaring them his world, and won. Slighted, Murugan withdrew to this hill, and Shiva came to console him with the words “pazham nee” — “you yourself are the fruit” — from which Palani takes its name. Here the ardent boy-god stands stripped of ornament, the very image of renunciation.",
-    "festivals": "Thai Poosam, in the Tamil month of Thai, is Palani’s greatest festival, when vast crowds climb the hill and countless devotees carry the kavadi in fulfilment of vows. Panguni Uthiram, Vaikasi Visakam — the god’s birth star — and Skanda Sashti are all kept with processions and abhishekam. Devotees anoint the mineral image with sandal paste and pancha-amirtham, and the sacred sandal and jaggery prasadam of Palani are carried home across the region as tokens of the pilgrimage.",
-    "experience": "The climb to Palani is itself an act of devotion, whether by the hundreds of steps, on foot with a kavadi, or by the winch-car that lifts pilgrims to the summit. At the top the air is cooler, the plains stretch to the horizon, and the queue moves toward the small dim sanctum where the mineral image gleams under lamps and fresh sandal. Many shave their heads in vow-fulfilment, and the smell of sandal, camphor, and jasmine hangs over the hilltop as families rest along the parapets after the ascent."
+    "history": "पळनीचे गान संगम काळातील तिरुमुरुगात्रुप्पडैमध्ये आहे आणि हजार वर्षांहून अधिक काळ ते यात्रेकरूंना आकर्षित करीत आहे. कोंगु प्रदेशातील मैदानावर उठलेल्या डोंगरावर असलेल्या या मंदिराला चेर, पांड्य, चोळ आणि नायक काळांत आश्रय मिळाला, आणि प्रत्येकाने चढणीवर व खालच्या मंडपांवर आपली छाप सोडली. हे मंदिर तमिळ भूमीतील महान यात्राकेंद्रांपैकी एक म्हणून दीर्घकाळ व्यवस्थापित केले गेले आहे, आणि त्याचा डोंगर आजही तपस्वी रूपातील बालदेवाच्या निवासाने मुकुटमंडित आहे.",
+    "architecture": "मंदिर डोंगरमाथ्यावर आहे, जिथे लांब पायऱ्यांनी, वळणदार रस्त्याने आणि आजकाल विंच-कार व रोप-वेने पोहोचता येते. डोंगरमाथ्यावरील लहानशा गर्भगृहात दंडायुधपाणी — दंड हाती धरलेल्या मुंडित मस्तकाच्या भिक्षुकाच्या रूपातील मुरुगन — विराजमान आहेत; सिद्ध भोगर यांनी त्यांना नवपाषाणम, म्हणजे नऊ खनिजांच्या मिश्रणातून घडवले असे सांगितले जाते. स्तंभयुक्त मंडप, सुवर्ण रथ, तसेच देवाच्या पत्नींची आणि भोगर यांची मंदिरे भिंतींच्या आत एकवटलेली आहेत, तर शिखराच्या खाली दूरवर मैदान आणि शहर पसरलेले दिसते.",
+    "legends": "मंदिराचे नाव ज्ञानफळाच्या आख्यायिकेशी बांधलेले आहे. नारद ऋषींनी एक आंबा, ज्ञानाचे फळ, अर्पण केला, तेव्हा शिवाने तो जो पुत्र प्रथम जगाला प्रदक्षिणा घालील त्याला बक्षीस म्हणून ठेवला. मुरुगन आपल्या मयूरावर स्वार झाले; गणेशाने फक्त आपल्या मातापित्यांभोवती फेरी घातली, तेच आपले जग असे जाहीर केले, आणि ते जिंकले. अपमानित वाटून मुरुगन या डोंगरावर निघून आले, आणि शिव त्यांचे सांत्वन करण्यासाठी “पळम नी” — “तूच फळ आहेस” — या शब्दांनी आले, ज्यावरून पळनीला हे नाव मिळाले. येथे उत्कट बालदेव अलंकारविहीन उभे आहेत — त्यागाची मूर्तिमंत प्रतिमाच.",
+    "festivals": "तमिळ थाई महिन्यातील थाई पूसम हा पळनीचा सर्वांत मोठा उत्सव आहे, जेव्हा अफाट जनसमुदाय डोंगर चढतो आणि असंख्य भक्त नवसपूर्तीसाठी कावडी वाहतात. पंगुनी उत्तिरम, वैकासी विशाखम — देवाचे जन्मनक्षत्र — आणि स्कंद षष्ठी हे सर्व मिरवणुका आणि अभिषेकासह साजरे होतात. भक्त खनिज मूर्तीला चंदनाचा लेप आणि पंचामृताने अभिषेक करतात, आणि पळनीचा पवित्र चंदन व गुळाचा प्रसाद यात्रेची खूण म्हणून प्रदेशभर घरी नेला जातो.",
+    "experience": "पळनीची चढण हीच भक्तीची कृती आहे — मग ती शेकडो पायऱ्यांनी असो, कावडी घेऊन पायी असो, किंवा यात्रेकरूंना माथ्यावर नेणाऱ्या विंच-कारने असो. वर हवा थंड असते, मैदान क्षितिजापर्यंत पसरलेले दिसते, आणि रांग लहानशा मंद गर्भगृहाकडे सरकते, जिथे दिव्यांखाली आणि ताज्या चंदनात खनिज मूर्ती चमकते. अनेक जण नवसपूर्तीसाठी मुंडण करतात, आणि चढण संपल्यानंतर कुटुंबे कठड्यांशेजारी विश्रांती घेत असताना चंदन, कापूर आणि जाईचा सुगंध डोंगरमाथ्यावर दरवळतो."
   },
   "visit": {
-    "timings": "Generally open from around 5:30 am to 9:00 pm daily, with abhishekams through the day; hours extend greatly during Thai Poosam and other festivals.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered. Footwear is left at the foot of the hill or the designated stands.",
-    "photography": "Photography is restricted around the hilltop sanctum; follow the posted rules and temple staff, especially during festivals and abhishekam.",
-    "gettingThere": "Palani is in Dindigul district, about 100 km from Madurai and 120 km from Coimbatore, both with airports; the town has its own railway station, and steps, a road, winch-cars, and a rope-way all reach the summit."
+    "timings": "सामान्यतः दररोज सुमारे पहाटे ५:३० ते रात्री ९:०० पर्यंत उघडे असते, दिवसभर अभिषेक होतात; थाई पूसम आणि इतर उत्सवांदरम्यान वेळा मोठ्या प्रमाणात वाढतात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी किंवा सलवार कमीज; खांदे व गुडघे झाकलेले असावेत. पादत्राणे डोंगराच्या पायथ्याशी किंवा ठरवून दिलेल्या स्टँडवर ठेवावीत.",
+    "photography": "डोंगरमाथ्यावरील गर्भगृहाभोवती छायाचित्रणावर निर्बंध आहेत; विशेषतः उत्सव आणि अभिषेकादरम्यान लावलेले नियम आणि मंदिराच्या कर्मचाऱ्यांच्या सूचना पाळाव्यात.",
+    "gettingThere": "पळनी दिंडिगल जिल्ह्यात, मदुराईपासून सुमारे १०० कि.मी. आणि कोइम्बतूरपासून १२० कि.मी. अंतरावर आहे; दोन्ही ठिकाणी विमानतळ आहेत. शहरात स्वतःचे रेल्वे स्थानक आहे, आणि पायऱ्या, रस्ता, विंच-कार व रोप-वे या सर्वांनी माथ्यावर पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/palani-murugan.jpg",

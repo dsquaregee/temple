@@ -1,30 +1,37 @@
 {
   "id": "malyavanta-raghunatha-hampi",
   "locale": "mr",
+  "name": "माल्यवंत रघुनाथ मंदिर, हंपी",
   "nativeName": "ಮಾಲ್ಯವಂತ ರಘುನಾಥ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "रघुनाथ रूपातील राम, सीता, लक्ष्मण आणि गुडघे टेकलेल्या हनुमानासह, गर्भगृह बनवणाऱ्या विशाल शिळेवर कोरलेले",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "हंपी",
+    "state": "कर्नाटक",
     "lat": 15.3244,
     "lng": 76.4868
   },
+  "period": "विजयनगर राजधानीतील टेकडीवरील मंदिर, सदाशिवरायांच्या काळात इसवी सन १५५९ पर्यंत दान मिळालेले; आजही पूजेत",
   "century": 16,
+  "dynasty": "विजयनगर",
+  "style": "द्रविड, विजयनगर कालखंड, नैसर्गिक शिळेभोवती बांधलेले",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "माल्यवंत टेकडीवर, जेथे सीतेच्या शोधापूर्वी राम व लक्ष्मण पावसाळा काढण्यासाठी थांबले होते असे परंपरा मानते, एका प्रचंड शिळेभोवती — जिच्यावर रामाचे कुटुंब कोरलेले आहे — एक जिवंत विजयनगर मंदिर उभे आहे.",
   "sections": {
-    "history": "Malyavanta hill rises on the eastern edge of the old Vijayanagara city, above what was once its urban core, and its temple to Rama as Raghunatha has drawn worshippers since imperial times. An inscription dated Saka 1481, or 1559 CE, in the reign of Sadashiva Raya, records a grant of land to the god, named in it as Malyavanta-Raghunathadeva, to maintain a charitable water trough — evidence that the shrine was already established and endowed in the last years of the empire. When the capital fell in 1565, worship here was not extinguished, and the temple remains a living shrine amid the ruins of the World Heritage site of Hampi.",
-    "architecture": "The temple is built around a massive granite boulder, and the sanctum is the rock itself: Rama, Sita and Lakshmana, with Hanuman kneeling before them, are carved on its face. The boulder rises clean through the roof of the shrine, and a small built tower has been set upon its summit, so that nature and the builders together supply the vimana. The walled complex is entered through two gopurams in the Vijayanagara manner, a five-storeyed tower on the south and a three-storeyed one on the east, and holds a goddess shrine and a small Shiva shrine. Nearby, a cleft in the rock is carved with rows of lingas and Nandis.",
-    "legends": "Tradition identifies Malyavanta with Mount Prasravana of the Ramayana. After Sugriva was crowned king of Kishkindha, the rains set in and the search for Sita had to wait; Rama and Lakshmana spent the four months of the monsoon sheltering on this hill, Rama grieving for Sita while Lakshmana kept watch and urged him to hope. When the rains ended, the monkey armies gathered and the search began that would lead to Lanka. Devotees climb the hill to stand where, as the story holds, Rama waited and prayed.",
-    "festivals": "As a living Rama temple, Malyavanta Raghunatha keeps the Vaishnava calendar, with Rama Navami as its chief festival; Hanuman Jayanti, honouring the devotee who kneels in the carving, is customarily marked as well, and bhajan singing is a regular part of worship here. Confirm dates and any special observances locally.",
-    "experience": "A road winds up to the hilltop, and the view repays the climb: the boulder country of Hampi spreads in every direction, with the Tungabhadra glinting to the north. The hill is a favourite place to watch the sunset. Enter through the southern gopuram, stand before the carved boulder in the cool of the sanctum, then walk around the outside to see the rock rising through the roof."
+    "history": "माल्यवंत टेकडी जुन्या विजयनगर शहराच्या पूर्व सीमेवर, एकेकाळच्या त्याच्या नागरी केंद्रावर उंच उभी आहे, आणि रघुनाथ रूपातील रामाच्या तिच्यावरील मंदिराने साम्राज्याच्या काळापासून भाविकांना आकर्षित केले आहे. शके १४८१, म्हणजे इसवी सन १५५९ चा, सदाशिवरायांच्या कारकिर्दीतील एक शिलालेख, धर्मार्थ पाणपोई चालवण्यासाठी देवाला — ज्याचा उल्लेख त्यात माल्यवंत-रघुनाथदेव असा आहे — जमीन दिल्याची नोंद करतो; हे साम्राज्याच्या अखेरच्या वर्षांतच मंदिर स्थापन झालेले व दान मिळालेले असल्याचा पुरावा आहे. १५६५ मध्ये राजधानी कोसळली तेव्हा येथील पूजा विझली नाही, आणि हंपीच्या जागतिक वारसा स्थळाच्या अवशेषांमध्ये हे मंदिर आजही जिवंत देवस्थान आहे.",
+    "architecture": "मंदिर एका प्रचंड ग्रॅनाइट शिळेभोवती बांधले आहे, आणि गर्भगृह म्हणजे खडकच आहे: राम, सीता व लक्ष्मण, त्यांच्यासमोर गुडघे टेकलेला हनुमान, यांची शिल्पे तिच्या पृष्ठभागावर कोरलेली आहेत. शिळा मंदिराच्या छपरातून सरळ वर जाते, आणि तिच्या शिखरावर एक लहानसा बांधलेला मनोरा उभारला आहे, म्हणून निसर्ग आणि बांधकाम करणारे मिळून विमान साकारतात. तटबंदीयुक्त संकुलात विजयनगर पद्धतीची दोन गोपुरे आहेत — दक्षिणेस पाच मजली व पूर्वेस तीन मजली — आणि त्यात एक देवी मंदिर व एक लहान शिव मंदिर आहे. जवळच खडकातील एका भेगेवर लिंगे व नंदींच्या रांगा कोरलेल्या आहेत.",
+    "legends": "परंपरा माल्यवंताला रामायणातील प्रस्रवण पर्वत मानते. सुग्रीवाला किष्किंधेचा राजा म्हणून राज्याभिषेक झाल्यावर पाऊस सुरू झाला आणि सीतेच्या शोधाला थांबावे लागले; राम व लक्ष्मण यांनी पावसाळ्याचे चार महिने या टेकडीवर आश्रय घेतला; राम सीतेसाठी शोक करीत असे, तर लक्ष्मण पहारा देत त्यांना आशा बाळगण्याचा आग्रह करीत असे. पाऊस संपताच वानरसेना जमली आणि लंकेपर्यंत नेणारा शोध सुरू झाला. कथेनुसार जेथे राम थांबले व प्रार्थना केली तेथे उभे राहण्यासाठी भाविक टेकडी चढतात.",
+    "festivals": "जिवंत राम मंदिर म्हणून माल्यवंत रघुनाथ वैष्णव दिनदर्शिका पाळते, रामनवमी हा तिचा प्रमुख उत्सव आहे; शिल्पात गुडघे टेकलेल्या भक्ताचा गौरव करणारी हनुमान जयंतीही प्रथेनुसार साजरी होते, आणि भजनगायन हा येथील पूजेचा नियमित भाग आहे. तारखा व विशेष विधी स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "टेकडीच्या माथ्यापर्यंत रस्ता वळसे घेत जातो, आणि चढाईचे चीज दृश्य करते: हंपीचा शिळांचा प्रदेश सर्व दिशांना पसरलेला, उत्तरेकडे तुंगभद्रा चमकताना दिसते. सूर्यास्त पाहण्यासाठी ही टेकडी आवडते ठिकाण आहे. दक्षिणेकडील गोपुरातून प्रवेश करा, गर्भगृहाच्या थंडाव्यात कोरलेल्या शिळेसमोर उभे राहा, मग बाहेरून फिरून छपरातून वर जाणारा खडक पाहा."
   },
   "visit": {
-    "timings": "A living temple, generally open from morning to evening with a midday break; confirm timings locally.",
-    "dressCode": "Modest dress is expected — shoulders and knees covered; footwear is removed before entering the shrine.",
-    "photography": "Photography of the complex and the hilltop views is generally fine; follow the priests' guidance about the sanctum.",
-    "gettingThere": "Malyavanta hill lies on the east side of the Hampi ruins, south-east of the Vittala temple and a few kilometres by road from Hampi Bazaar and Kamalapura, with a road to the top. Hampi lies in Vijayanagara district, Karnataka; Hosapete (Hospet), about 13 km away, has the nearest railway station, and Bengaluru is roughly 340 km by road."
+    "timings": "जिवंत मंदिर, सामान्यतः सकाळपासून संध्याकाळपर्यंत उघडे, दुपारी मध्यंतरासह; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; मंदिरात प्रवेश करण्यापूर्वी पादत्राणे काढावीत.",
+    "photography": "संकुलाचे व टेकडीवरील दृश्यांचे छायाचित्रण सामान्यतः चालते; गर्भगृहाबाबत पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "माल्यवंत टेकडी हंपीच्या अवशेषांच्या पूर्वेकडे, विठ्ठल मंदिराच्या आग्नेयेस, हंपी बाजार आणि कमलापुरापासून रस्त्याने काही किलोमीटरवर आहे; माथ्यापर्यंत रस्ता आहे. हंपी कर्नाटकातील विजयनगर जिल्ह्यात आहे; सुमारे १३ कि.मी. वरील होसपेट (हॉस्पेट) येथे जवळचे रेल्वे स्थानक आहे, आणि बेंगळुरू रस्त्याने सुमारे ३४० कि.मी. आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/malyavanta-raghunatha-hampi.jpg",

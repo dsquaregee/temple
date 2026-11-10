@@ -1,29 +1,36 @@
 {
   "id": "trivikrama-sirkazhi",
   "locale": "mr",
+  "name": "त्रिविक्रम पेरुमाळ मंदिर, सीरकाळी",
   "nativeName": "திரிவிக்கிரமப் பெருமாள் கோயில், சீர்காழி",
+  "deity": "त्रिविक्रम (थडाळन) पेरुमाळ रूपातील विष्णू, देवी लोकनायकी यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Sirkazhi",
-    "state": "Tamil Nadu",
+    "city": "सीरकाळी",
+    "state": "तमिळनाडू",
     "lat": 11.2406,
     "lng": 79.7314
   },
+  "period": "चोळ प्रदेशातील दिव्य देश, नालायिर दिव्य प्रबंधमध्ये तिरुमंगै आळवारांनी गायिलेला",
   "century": 8,
+  "dynasty": "चोळ प्रदेश (नंतरचे आश्रयदाते)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "सीरकाळीमध्ये विष्णू त्रिविक्रम, म्हणजे थडाळन, म्हणून उभे आहेत, ज्याचा उचललेला पाय लोकांना व्यापतो — तिरुमंगै आळवारांनी गायिलेला कळिचीराम विण्णगरम हा दिव्य देश.",
   "sections": {
-    "history": "The Trivikrama temple of Sirkazhi, also called Thadalan Koil and known in the hymns as Thirukkazhicheerama Vinnagaram, is one of the 108 Divya Desams — the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham — in Chola Nadu. Thirumangai Alvar offered its mangalasasanam in the Periya Thirumozhi. An older name of the place is Patalikavanam. The presiding lord is Trivikrama, the Thadalan, with the Goddess Lokanayaki, and the temple is today administered by the Tamil Nadu Hindu Religious and Charitable Endowments Department. Its antiquity is carried by the Alvar's hymns.",
-    "architecture": "The temple follows the Dravidian plan of the Chola country. Its sanctum is crowned by the vimana known as Pushkalavartha, and the lord is worshipped in the posture of Trivikrama, Vamana grown to measure the worlds, with one foot raised. The temple has two sacred waters: the Shankha Pushkarini and the Chakra Theertham, named for the conch and the discus of Vishnu.",
-    "legends": "The sthala purana tells of the sage Romasa, whose body-hairs are said to be tied to the span of Brahma's life, and who asked Vishnu to remain here as Trivikrama. Tradition also remembers a meeting in Sirkazhi between Thirumangai Alvar and the Shaiva saint Sambandar: after the Alvar sang his hymn, Sambandar is said to have honoured him with a vel, a spear.",
-    "festivals": "The Brahmotsavam, the great annual festival, is held in the month of Vaikasi (May–June). Vaikunta Ekadashi and the days of the Alvars follow the Vaishnava calendar. Confirm dates locally. The temple is administered by the Tamil Nadu Hindu Religious and Charitable Endowments Department, and local priests can confirm the festival calendar.",
-    "experience": "Stand before Trivikrama and look for the raised foot that gives the lord his name. Sirkazhi is also a town of famous Shaiva shrines, and the Alvar's meeting with Sambandar makes this a fitting place to reflect on the shared devotion of the Kaveri country. The temple pairs well with Thiruvali-Thirunagari and the Thirunangur group nearby."
+    "history": "सीरकाळीचे त्रिविक्रम मंदिर, ज्याला थडाळन कोविल असेही म्हणतात आणि स्तोत्रांमध्ये तिरुक्कळिचीराम विण्णगरम म्हणून ओळखले जाते, हे चोळ नाडूतील १०८ दिव्य देशांपैकी एक आहे — नालायिर दिव्य प्रबंधममध्ये आळवार संतांनी गायिलेली विष्णूची निवासस्थाने. तिरुमंगै आळवारांनी पेरिय तिरुमोळीमध्ये त्याचे मंगलाशासन केले. या स्थळाचे एक जुने नाव पाटलिकावनम आहे. अधिष्ठाता प्रभू त्रिविक्रम, म्हणजे थडाळन, देवी लोकनायकीसह आहेत, आणि मंदिराचे व्यवस्थापन आज तमिळनाडू हिंदू धार्मिक आणि धर्मादाय विभाग करतो. त्याची प्राचीनता आळवारांच्या स्तोत्रांतून वाहिली जाते.",
+    "architecture": "मंदिर चोळ प्रदेशाच्या द्रविड आराखड्याचे अनुसरण करते. त्याच्या गाभाऱ्यावर पुष्कलावर्त म्हणून ओळखले जाणारे विमान आहे, आणि प्रभूची पूजा त्रिविक्रमाच्या मुद्रेत केली जाते — लोकांचे मोजमाप करण्यासाठी वाढलेला वामन, एक पाय उचललेला. मंदिरात दोन पवित्र जलाशये आहेत: शंख पुष्करिणी आणि चक्र तीर्थ, ज्यांची नावे विष्णूच्या शंख आणि चक्रावरून आहेत.",
+    "legends": "स्थळपुराण रोमश ऋषींबद्दल सांगते, ज्यांच्या शरीरावरील केस ब्रह्मदेवाच्या आयुष्याच्या कालावधीशी जोडलेले आहेत असे म्हणतात, आणि त्यांनी विष्णूंनी येथे त्रिविक्रम म्हणून राहावे अशी प्रार्थना केली. परंपरा सीरकाळीमध्ये तिरुमंगै आळवार आणि शैव संत संबंधर यांच्या भेटीचेही स्मरण करते: आळवारांनी आपले स्तोत्र गायल्यानंतर संबंधरांनी त्यांचा वेल, म्हणजे भाला, देऊन सन्मान केला असे सांगितले जाते.",
+    "festivals": "ब्रह्मोत्सव, हा मोठा वार्षिक उत्सव, वैकासी महिन्यात (मे–जून) होतो. वैकुंठ एकादशी आणि आळवारांचे दिवस वैष्णव पंचांगानुसार येतात. तारखा स्थानिक पातळीवर तपासा. मंदिराचे व्यवस्थापन तमिळनाडू हिंदू धार्मिक आणि धर्मादाय विभाग करतो, आणि स्थानिक पुजारी उत्सवाचे वेळापत्रक सांगू शकतात.",
+    "experience": "त्रिविक्रमासमोर उभे राहा आणि प्रभूला नाव देणारा उचललेला पाय शोधा. सीरकाळी हे प्रसिद्ध शैव मंदिरांचेही गाव आहे, आणि आळवार व संबंधर यांची भेट कावेरी प्रदेशाच्या समान भक्तीवर चिंतन करण्यासाठी हे स्थळ योग्य ठरवते. हे मंदिर जवळच्या तिरुवळी-तिरुनगरी आणि तिरुनांगूर समूहासोबत सहज जोडता येते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is in Sirkazhi town, Mayiladuthurai district, reached by road and by the Chennai–Mayiladuthurai rail line, on which Sirkazhi is a station. The nearest major airport is Tiruchirappalli, about 160 km away."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शनाच्या सत्रांसह आणि दुपारच्या बंदसह उघडे असते; भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासा.",
+    "dressCode": "विनम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गाभाऱ्यात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "मंदिर मयिलादुतुरै जिल्ह्यातील सीरकाळी गावात आहे; रस्त्याने आणि चेन्नई–मयिलादुतुरै रेल्वे मार्गाने पोहोचता येते, ज्यावर सीरकाळी हे स्थानक आहे. सर्वात जवळचे मोठे विमानतळ तिरुचिरापल्ली आहे, सुमारे १६० किमी दूर."
   }
 }

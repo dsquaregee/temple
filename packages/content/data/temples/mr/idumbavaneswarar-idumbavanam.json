@@ -1,29 +1,36 @@
 {
   "id": "idumbavaneswarar-idumbavanam",
   "locale": "mr",
+  "name": "सर्गुणनाथर मंदिर, तिरुइडुंबावनम",
   "nativeName": "திருஇடும்பாவனம் சற்குணநாதர் கோயில்",
+  "deity": "शिव सर्गुणनाथर (इडुंबावनेश्वरर) रूपात, देवी मंगलवल्ली (मंगलनायकी) यांसह",
+  "tradition": "शैव — पाडल पेट्र स्थलम्",
   "location": {
-    "city": "Idumbavanam, near Thiruthuraipoondi",
-    "state": "Tamil Nadu",
+    "city": "इडुंबावनम, तिरुतुरैपूंडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.45,
     "lng": 79.68
   },
+  "period": "तेवारम् काळ (सातव्या शतकात स्तुत); नंतरचे चोल दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोल",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "दक्षिण त्रिभुजप्रदेशात तिरुतुरैपूंडीजवळील इडुंबावनम येथे शिवाची सर्गुणनाथर — इडुंबावनेश्वरर — या रूपात देवी मंगलवल्लीसह उपासना होते. तिरुज्ञानसंबंधर यांनी स्तुत केलेले हे पाडल पेट्र स्थलम् आहे; त्याचे नाव इडुंबन या दैत्याची आठवण करून देते, ज्याने मंदिराच्या तलावात स्नान करून येथे उपासना केली आणि शिवाकडून मुक्ती प्राप्त केली.",
   "sections": {
-    "history": "Idumbavanam lies in the Thiruthuraipoondi taluk of Tiruvarur district, in the southern reaches of the Kaveri delta, about 18 km from Thiruthuraipoondi. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The presiding Shiva is known as Sarguna Nathar and also as Idumbavaneswarar, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of the lower delta, the shrine enshrines Sarguna Nathar in the sanctum, with the goddess Mangalavalli — also Mangalanayaki — in her own shrine, a Nandi, the parivara devatas and the sacred tank in which the demon Idumban is said to have bathed. The temple keeps the quiet plan of a village sanctuary of some antiquity.",
-    "legends": "The place takes its name from Idumban, a demon who came here burdened with sin, bathed in the temple tank, and worshipped Shiva with devotion. Pleased with his worship, the lord granted him total salvation — and so the forest-place is called Idumbavanam, 'the grove of Idumban.' The lord's name Sarguna Nathar, 'lord of all good qualities,' marks the grace by which even a demon was raised to liberation.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail of the southern delta include Idumbavanam among their stops.",
-    "experience": "At Idumbavanam the pilgrim comes to a shrine of redeeming grace, where even a demon was granted salvation by his worship. Before Sarguna Nathar and Mangalavalli, beside the tank of Idumban's cleansing, the visitor finds the deep mercy of a Tevaram temple of the southern Kaveri country."
+    "history": "इडुंबावनम हे तिरुवारूर जिल्ह्याच्या तिरुतुरैपूंडी तालुक्यात, कावेरी त्रिभुजप्रदेशाच्या दक्षिण भागात, तिरुतुरैपूंडीपासून सुमारे १८ किमी अंतरावर आहे. हे पाडल पेट्र स्थलम् असून तिरुज्ञानसंबंधर यांनी तेवारम्मध्ये त्याची स्तुती केली आहे. येथील अधिष्ठात्री शिव सर्गुणनाथर आणि इडुंबावनेश्वरर या नावांनी ओळखले जातात, आणि दगडी मंदिर चोल काळातील व त्यानंतरचे आहे.",
+    "architecture": "खालच्या त्रिभुजप्रदेशातील द्राविड मंदिर असलेल्या या देवालयाच्या गर्भगृहात सर्गुणनाथर विराजमान आहेत, देवी मंगलवल्ली — मंगलनायकी — स्वतंत्र गर्भगृहात आहेत, तसेच नंदी, परिवार देवता आणि तो पवित्र तलाव जिथे इडुंबन या दैत्याने स्नान केल्याचे सांगितले जाते. हे मंदिर काहीशा प्राचीन ग्रामदेवालयाची शांत रचना जतन करते.",
+    "legends": "हे स्थान इडुंबन नावाच्या दैत्यावरून नाव घेते, जो पापांचा भार घेऊन येथे आला, मंदिराच्या तलावात स्नान केले आणि भक्तीने शिवाची उपासना केली. त्याच्या उपासनेने प्रसन्न होऊन भगवंताने त्याला पूर्ण मुक्ती दिली — आणि म्हणून या वनस्थळाला इडुंबावनम, 'इडुंबनाचे उपवन' असे म्हणतात. भगवंताचे नाव सर्गुणनाथर, 'सर्व सद्गुणांचा स्वामी', त्या कृपेचे चिन्ह आहे ज्यायोगे दैत्यालाही मुक्तीपर्यंत उन्नत केले गेले.",
+    "festivals": "मंदिर मासी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्र आणि कार्तिकैच्या सोमवारी, प्रदोष उपासनेसह, ग्रामदेवालयाच्या शांत पातळीवर पाळते. दक्षिण त्रिभुजप्रदेशाच्या पाडल पेट्र मार्गावरील यात्रेकरू इडुंबावनमचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "इडुंबावनम येथे यात्रेकरू अशा कृपादायी देवालयात येतो जिथे दैत्यालाही त्याच्या उपासनेने मुक्ती लाभली. सर्गुणनाथर आणि मंगलवल्ली यांच्यासमोर, इडुंबनाच्या शुद्धीकरणाच्या तलावाकाठी, दर्शनार्थीला दक्षिण कावेरी प्रदेशातील तेवारम् मंदिराची गाढ करुणा लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Idumbavanam is in the Thiruthuraipoondi taluk of Tiruvarur district (PIN 614703), about 18 km from Thiruthuraipoondi in the southern delta. Thiruthuraipoondi is the nearest rail head, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे; विशेषतः सणांच्या दिवशी वेळा स्थानिक पातळीवर निश्चित करा.",
+    "dressCode": "साधी पारंपरिक वेशभूषा अपेक्षित आहे, खांदे व गुडघे झाकलेले; पादत्राणे प्रवेशद्वारावर ठेवली जातात.",
+    "photography": "बाह्य प्रदक्षिणामार्गात सामान्यतः छायाचित्रणास परवानगी आहे, पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "इडुंबावनम हे तिरुवारूर जिल्ह्याच्या तिरुतुरैपूंडी तालुक्यात (पिन ६१४७०३), दक्षिण त्रिभुजप्रदेशात तिरुतुरैपूंडीपासून सुमारे १८ किमी अंतरावर आहे. तिरुतुरैपूंडी हे जवळचे रेल्वे स्थानक असून गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
   }
 }

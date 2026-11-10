@@ -1,30 +1,37 @@
 {
   "id": "neyyadiappar-thillaisthanam",
   "locale": "mr",
+  "name": "नेय्यादियप्पर मंदिर, तिल्लैस्थानम",
   "nativeName": "நெய்யாடியப்பர் கோயில், தில்லைஸ்தானம்",
+  "deity": "स्वयंभू लिंगरूप नेय्यादियप्पर या रूपातील शिव, देवी बालांबिगै (इळमंगै अम्मै) यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thillaisthanam",
-    "state": "Tamil Nadu",
+    "city": "तिल्लैस्थानम",
+    "state": "तमिळनाडू",
     "lat": 10.88,
     "lng": 79.088
   },
+  "period": "तिरुवैयारूच्या सप्तस्थानमातील सातवे आणि अखेरचे मंदिर; तेवारममध्ये (इसवी सातवे शतक) गायिलेले, नवव्या शतकापासूनच्या शिलालेखांसह",
   "century": 7,
+  "dynasty": "पल्लव आणि चोळ, तसेच पांड्य व इतर राज्यकर्त्यांच्या देणग्यांसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "saptha-sthanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "कावेरीच्या तीरावरील तिल्लैस्थानम येथे शिव नेय्यादियप्पर, म्हणजे तुपाने अभिषेक होणारा देव, म्हणून पूजला जातो; सप्तस्थानम मिरवणूक तिरुवैयारूकडे परतण्यापूर्वी ज्या सात मंदिरांना भेट देते, त्यांपैकी हे अखेरचे मंदिर आहे.",
   "sections": {
-    "history": "Thillaisthanam lies on the northern bank of the Kaveri, about two kilometres west of Thiruvaiyaru on the road towards Thirukattupalli. Its old name was Thiruneithanam, the sacred place of ghee, and the present name is read as a softening of Thiru-nei-sthanam. Appar and Sambandar sang of its lord, making it a Paadal Petra Sthalam of the Kaveri's north bank. Its inscriptions reach far back: the earliest is dated to 862 CE, and a record of the Pallava king Nandivarman III gives sixty kalanju of gold for lamps. The stone temple is attributed to the age of the Chola king Aditya I, and Chola, Pandya, Chera and Irukkuvel rulers all added gifts.",
-    "architecture": "An east-facing rajagopuram opens onto a broad first enclosure, and the sanctum holds a swayambhu lingam, revered as having arisen of itself rather than being carved and installed. The goddess Balambigai, known in Tamil as Ilamangai Ammai, the young lady, has her own shrine. The Kaveri, flowing close by, serves as the temple's sacred water, and the inscribed courses on the walls quietly record more than eleven centuries of devotion.",
-    "legends": "The sthala purana tells of a cow that went each day to one spot and let her milk flow there, and the milk turned to ghee. A king, hearing of the wonder, had the ground dug up and found a lingam that had appeared of itself. Because the lord was then bathed in ghee, he came to be called Neyyadiappar, from nei, the Tamil word for ghee. The practice continues to this day: the lingam is anointed with ghee and then with warm water.",
-    "festivals": "Thillaisthanam is the seventh and last temple of the Saptha Sthanam festival in Chithirai (April–May); here the procession completes its round of the villages before turning back towards Thiruvaiyaru, and the temple stays open late into the night as the palanquins arrive. Tradition holds that the village sent ghee for Nandi's wedding. Maha Shivaratri in Masi (February–March) and Thiruvathirai in Margazhi (December–January) are also kept with devotion. Confirm dates locally.",
-    "experience": "Come early to see the ghee abhishekam, the rite that gives the temple its name, and then walk down to the Kaveri, which flows past the village. Thillaisthanam is the nearest of the Saptha Sthanam temples to Thiruvaiyaru, so it pairs easily with a visit to Aiyarappar. On the festival night the riverside village fills with pilgrims waiting to greet the palanquins."
+    "history": "तिल्लैस्थानम कावेरीच्या उत्तर तीरावर, तिरुवैयारूच्या सुमारे दोन किलोमीटर पश्चिमेला, तिरुक्कट्टुपळ्ळीच्या दिशेने जाणाऱ्या रस्त्यावर वसले आहे. याचे जुने नाव तिरुनेयतानम, म्हणजे तुपाचे पवित्र स्थान, असे होते; आजचे नाव हे तिरु-नेय-स्थानम याचे मृदू रूप मानले जाते. अप्पर आणि संबंधर यांनी येथील देवाची स्तुती गायिली, त्यामुळे हे कावेरीच्या उत्तर तीरावरील पाडल पेट्र स्थळ ठरले. येथील शिलालेख फार प्राचीन काळात जातात: सर्वांत जुना लेख इसवी सन ८६२ चा आहे, आणि पल्लव राजा तिसरा नंदिवर्मन याच्या एका नोंदीत दिव्यांसाठी साठ कळंजू सोने दिल्याचा उल्लेख आहे. दगडी मंदिर चोळ राजा पहिला आदित्य याच्या काळाचे मानले जाते, आणि चोळ, पांड्य, चेर व इरुक्कुवेळ राज्यकर्त्यांनी सर्वांनी देणग्या दिल्या.",
+    "architecture": "पूर्वाभिमुख राजगोपुर एका प्रशस्त पहिल्या प्राकारात उघडते, आणि गर्भगृहात स्वयंभू लिंग आहे; ते कोरून प्रतिष्ठापित केलेले नसून स्वतःहून प्रकट झालेले आहे असे मानून पूजले जाते. देवी बालांबिगै, जिला तमिळमध्ये इळमंगै अम्मै, म्हणजे तरुण स्त्री, म्हणतात, तिचे स्वतंत्र मंदिर आहे. जवळून वाहणारी कावेरी मंदिराचे पवित्र जल आहे, आणि भिंतींवरील कोरलेले लेख अकरा शतकांहून अधिक काळाची भक्ती शांतपणे नोंदवतात.",
+    "legends": "स्थलपुराणानुसार, एक गाय दररोज एका विशिष्ट जागी जाऊन तेथे आपले दूध सोडत असे, आणि ते दूध तूप होऊन जाई. हा चमत्कार ऐकून एका राजाने ती जमीन खणवली आणि त्याला स्वतःहून प्रकट झालेले एक लिंग सापडले. तेव्हा देवाला तुपाने स्नान घातले गेले म्हणून तो नेय्यादियप्पर या नावाने ओळखला जाऊ लागला; नेय हा तमिळ शब्द तुपासाठी आहे. ही प्रथा आजही चालू आहे: लिंगावर आधी तुपाचा आणि नंतर कोमट पाण्याचा अभिषेक केला जातो.",
+    "festivals": "चिथिराई (एप्रिल–मे) महिन्यातील सप्तस्थानम उत्सवातील तिल्लैस्थानम हे सातवे आणि अखेरचे मंदिर आहे; येथे मिरवणूक गावांची फेरी पूर्ण करून तिरुवैयारूकडे परतते, आणि पालख्या येताना मंदिर रात्री उशिरापर्यंत उघडे राहते. परंपरा सांगते की नंदीच्या विवाहासाठी या गावाने तूप पाठवले होते. मासी (फेब्रुवारी–मार्च) महिन्यातील महाशिवरात्र आणि मार्गळी (डिसेंबर–जानेवारी) महिन्यातील तिरुवातिरै हेही भक्तिभावाने साजरे होतात. तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "मंदिराला नाव देणारा तुपाचा अभिषेक पाहण्यासाठी लवकर या, आणि मग गावाजवळून वाहणाऱ्या कावेरीच्या तीरापर्यंत चालत जा. सप्तस्थानम मंदिरांपैकी तिल्लैस्थानम हे तिरुवैयारूच्या सर्वांत जवळचे आहे, त्यामुळे ऐयारप्पर मंदिराच्या भेटीसोबत ते सहज जोडता येते. उत्सवाच्या रात्री नदीकाठचे गाव पालख्यांचे स्वागत करण्यासाठी थांबलेल्या यात्रेकरूंनी भरून जाते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but strictly prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thillaisthanam is about 2 km west of Thiruvaiyaru on the road to Thirukattupalli, and around 15 km from Thanjavur; local buses, autos and taxis come from Thiruvaiyaru. Thanjavur is the nearest major railway station, and Tiruchirappalli International Airport, about 60 km away, is the nearest airport."
+    "timings": "साधारणपणे सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते, मध्ये दुपारचा विराम असतो; वेळा, विशेषतः उत्सवाच्या दिवशी, स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-विजार, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवली जातात.",
+    "photography": "बाहेरील प्रदक्षिणा मार्ग आणि अंगणांमध्ये छायाचित्रण सहसा परवानगीयुक्त आहे, परंतु तमिळनाडूतील मंदिर नियमांनुसार आतील गर्भगृहात ते काटेकोरपणे निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिल्लैस्थानम तिरुवैयारूच्या सुमारे २ किमी पश्चिमेला, तिरुक्कट्टुपळ्ळीच्या रस्त्यावर आहे, आणि तंजावरपासून सुमारे १५ किमी अंतरावर आहे; तिरुवैयारूहून स्थानिक बस, रिक्षा आणि टॅक्सी मिळतात. तंजावर हे जवळचे प्रमुख रेल्वे स्थानक आहे, आणि सुमारे ६० किमी अंतरावरील तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ हा जवळचा विमानतळ आहे."
   }
 }

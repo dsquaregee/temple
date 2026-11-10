@@ -1,30 +1,37 @@
 {
   "id": "vijayaraghava-thiruputkuzhi",
   "locale": "mr",
+  "name": "विजयराघव पेरुमाळ मंदिर, तिरुपुट्कुळी",
   "nativeName": "விஜயராகவப் பெருமாள் கோயில், திருப்புட்குழி",
+  "deity": "विजयराघव पेरुमाळ रूपातील विष्णू, देवी मरकतवल्ली ठायार यांच्यासह",
+  "tradition": "वैष्णव पंथ",
   "location": {
-    "city": "Thiruputkuzhi, Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "तिरुपुट्कुळी, कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.8725,
     "lng": 79.6189
   },
+  "period": "तोंडै नाडूमधील दिव्य देसम, तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधममध्ये गायलेले",
   "century": 8,
+  "dynasty": "स्थानिक कथनानुसार पांड्य (नंतरच्या भरींसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "कांचीपुरमच्या पश्चिमेकडील तिरुपुट्कुळी येथे विष्णूची विजयराघव पेरुमाळ म्हणून पूजा केली जाते, जिथे रामाने महान पक्षी जटायूचे अंत्यसंस्कार केल्याचे स्मरण केले जाते - तोंडै नाडूमधील एक दिव्य देसम.",
   "sections": {
-    "history": "Thiruputkuzhi is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Thondai Nadu. Thirumangai Alvar praised the Lord of this village. The village lies in Kanchipuram district, to the west of Kanchipuram town. Local account holds that the present temple was built by the Pandya kings in the thirteenth century, though the sanctity of the place is far older in memory. The village is also remembered as the birthplace of Yadava Prakasa, the teacher under whom the young Ramanuja first studied. It is a temple in its own right, set in a village rather than within the town.",
-    "architecture": "The presiding Lord here is Vijayaraghava Perumal, Rama as the victorious one, and the Goddess is worshipped as Maragathavalli Thayar. The sacred water of the village is the Jatayu Tirtham, named for the bird whose story gives the place its name. It is a village temple, simple in setting, whose interest lies less in grandeur than in the story it keeps.",
-    "legends": "The name Thiruputkuzhi holds the legend in its syllables: pul, the bird, and kuzhi, the pit. In the Ramayana, Jatayu, the great bird, fought Ravana to save Sita and fell wounded. Rama, searching for Sita, found him dying and performed his last rites. The sthala purana places that act of mercy here, and the Jatayu Tirtham is held sacred in this memory. Tradition tells that Rama is worshipped here as Vijayaraghava, the victorious one.",
-    "festivals": "Vaikunta Ekadashi is the great day of the Vaishnava year at this Divya Desam, and the verses of the Divya Prabandham are recited on festival days. Devotees of Rama may also seek out the days sacred to him. Confirm dates locally.",
-    "experience": "A visit here is a pilgrimage into the Ramayana. Stand by the Jatayu Tirtham and recall the story of the bird who gave his life for Sita; then enter the shrine of the Lord who performed his last rites. The village is quiet, a short drive west of Kanchipuram, and it pairs naturally with a day among the Divya Desams of the town."
+    "history": "तिरुपुट्कुळी हे आळवारांनी नालायिर दिव्य प्रबंधममध्ये गायलेल्या विष्णूच्या १०८ निवासस्थानांपैकी, म्हणजे दिव्य देसमांपैकी एक असून ते तोंडै नाडूमध्ये येते. तिरुमंगै आळवारांनी या गावाच्या प्रभूंची स्तुती केली. हे गाव कांचीपुरम जिल्ह्यात, कांचीपुरम शहराच्या पश्चिमेला आहे. स्थानिक कथनानुसार सध्याचे मंदिर तेराव्या शतकात पांड्य राजांनी बांधले, तरी या स्थळाचे पावित्र्य स्मृतीत त्याहून खूप जुने आहे. हे गाव यादव प्रकाश यांचे जन्मस्थान म्हणूनही स्मरले जाते - ज्यांच्याकडे तरुण रामानुजांनी प्रथम अध्ययन केले. हे शहरात नव्हे तर गावात वसलेले, स्वतःचे असे स्वतंत्र मंदिर आहे.",
+    "architecture": "येथील मूलनायक विजयराघव पेरुमाळ आहेत - विजयी राम - आणि देवीची मरकतवल्ली ठायार म्हणून पूजा केली जाते. गावाचे पवित्र जल जटायू तीर्थम आहे, ज्या पक्ष्याच्या कथेवरून या स्थळाला नाव मिळाले त्याच्या नावाचे. हे साध्या परिसरातील ग्रामीण मंदिर आहे, ज्याचे महत्त्व भव्यतेत कमी आणि ते जपत असलेल्या कथेत अधिक आहे.",
+    "legends": "तिरुपुट्कुळी या नावातच आख्यायिका सामावलेली आहे: पुळ, म्हणजे पक्षी, आणि कुळी, म्हणजे खड्डा. रामायणात महान पक्षी जटायूने सीतेला वाचवण्यासाठी रावणाशी लढा दिला आणि जखमी होऊन पडला. सीतेचा शोध घेत असलेल्या रामाला तो मरणासन्न अवस्थेत आढळला आणि त्याने त्याचे अंत्यसंस्कार केले. स्थलपुराण ही कृपेची कृती येथे घडल्याचे मानते, आणि या स्मृतीमुळे जटायू तीर्थम पवित्र मानले जाते. परंपरा सांगते की येथे रामाची विजयराघव, म्हणजे विजयी राघव, म्हणून पूजा केली जाते.",
+    "festivals": "वैकुंठ एकादशी हा या दिव्य देसमातील वैष्णव वर्षाचा महान दिवस आहे, आणि उत्सवाच्या दिवशी दिव्य प्रबंधमचे श्लोक पठण केले जातात. रामभक्त त्यांना पवित्र असलेले दिवसही शोधू शकतात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "येथील भेट म्हणजे रामायणात केलेली तीर्थयात्रा आहे. जटायू तीर्थमजवळ उभे राहून सीतेसाठी प्राण अर्पण करणाऱ्या पक्ष्याच्या कथेचे स्मरण करा; मग ज्या प्रभूंनी त्याचे अंत्यसंस्कार केले त्यांच्या मंदिरात प्रवेश करा. गाव शांत असून कांचीपुरमच्या पश्चिमेला थोड्याच अंतरावर आहे, आणि शहरातील दिव्य देसमांमध्ये घालवलेल्या दिवसासोबत ते सहज जोडले जाते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruputkuzhi is a village in Kanchipuram district, roughly 10 km west of Kanchipuram town. Kanchipuram is the nearest large town and railhead; Chennai is the nearest major airport. Auto-rickshaws and local buses connect the village with Kanchipuram; confirm the route locally."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शनाच्या सत्रांसह उघडे असते आणि दुपारी बंद असते; वैकुंठ एकादशी आणि उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे - खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेल्या सूचना आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आजूबाजूला छायाचित्रणावर निर्बंध आहेत; लावलेल्या सूचना आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुपुट्कुळी हे कांचीपुरम जिल्ह्यातील गाव असून कांचीपुरम शहराच्या सुमारे १० किमी पश्चिमेला आहे. कांचीपुरम हे सर्वांत जवळचे मोठे शहर आणि रेल्वे स्थानक आहे; चेन्नई हे सर्वांत जवळचे मोठे विमानतळ आहे. ऑटो-रिक्षा आणि स्थानिक बसेस गावाला कांचीपुरमशी जोडतात; मार्ग स्थानिक पातळीवर खात्री करून घ्यावा."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vijayaraghava-thiruputkuzhi.jpg",

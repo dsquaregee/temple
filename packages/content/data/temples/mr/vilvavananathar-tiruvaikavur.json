@@ -1,29 +1,36 @@
 {
   "id": "vilvavananathar-tiruvaikavur",
   "locale": "mr",
+  "name": "विल्ववननाथर मंदिर, तिरुवैकावूर",
   "nativeName": "வில்வவனநாதர் கோயில்",
+  "deity": "विल्ववननाथर (विल्ववनेश्वर) रूपातील शिव, देवी वळैक्कै नायकी (सर्वजनरक्षकी) यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tiruvaikavur",
-    "state": "Tamil Nadu",
+    "city": "तिरुवैकावूर",
+    "state": "तमिळनाडू",
     "lat": 10.9942,
     "lng": 79.2864
   },
+  "period": "कावेरीच्या उत्तर तीरावरील चोळ नाडूमधील प्राचीन शैव क्षेत्र, तेवारममध्ये गायिलेले (सातवे शतक); नंतरच्या भरांसह चोळकालीन मंदिर",
   "century": 7,
+  "dynasty": "चोळकाल (परंपरेनुसार चोळ)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "विल्ववन-स्वामींचे तिरुवैकावूर येथील विल्ववननाथर मंदिर, कुंभकोणमजवळील एक तेवारम क्षेत्र आहे; परंपरेनुसार येथेच महाशिवरात्रीच्या व्रताची सुरुवात झाली, जेव्हा एका शिकाऱ्याची बिल्ववृक्षावरील रात्र त्याला यमापासून मुक्ती देऊन गेली.",
   "sections": {
-    "history": "Tiruvaikavur, also spoken of as Vaigavur, lies in the Thanjavur district a short way north of Kumbakonam, in the old Chola country on the northern bank of the Kaveri. The temple is praised in the Tevaram hymns of the Nayanar saints, which makes it a Paadal Petra Sthalam, and tradition places the building in the Chola age. The Lord is called Vilvavananathar, master of the forest of the vilva, the tree whose trifoliate leaves are most dear to Shiva; a local account holds that Shiva himself arose here as a vilva tree in a great deluge. Above all, the village remembers itself as the place where the observance of Maha Shivaratri was first kept.",
-    "architecture": "A rajagopuram rises over the entrance of this Dravidian temple, and the Shiva linga of Vilvavananathar is worshipped in the sanctum, with the goddess Valaikkai Nayaki honoured as his consort. The temple tank, the Yama Theertham, lies directly across from the main gateway, and tradition holds that Yama himself dug it. A curious feature recalls the temple's legend: the Nandi, the sacred bull, is said to face the entrance gate instead of the sanctum, in the belief that it keeps Yama from coming in. Dakshinamurthy, the Lord as teacher, is described here in an unusual standing posture with a staff.",
-    "legends": "A hunter once chased a deer into the hermitage of a sage who was worshipping a Shiva linga. The sage refused to hand over the deer, and when the hunter would not give up, he took the form of a tiger to frighten him; in another telling it was Shiva himself who became the tiger. The hunter fled up a nearby tree, which was a vilva, and, to keep himself awake through the night with the tiger waiting below, he plucked its leaves and let them fall. Beneath the tree stood a linga, and the leaves fell upon it. It was the night of Maha Shivaratri, so the hunter had worshipped Shiva all night without knowing it. When Yama came for him the next day, Nandi and Shiva's guardians, with Dakshinamurthy, drove Yama out of the temple. From this the temple is remembered as the origin of Shivaratri, and the tank is called after Yama.",
-    "festivals": "Maha Shivaratri, kept in the Tamil month of Masi (February to March), is by far the greatest festival of Tiruvaikavur, and is reported to draw vast crowds of devotees, some say as many as two lakh. The celebration runs over two days, closing with the Theerthavari on the new moon day, and a night procession on a palm-leaf cart is part of it. Masi Magam and Panguni Uthiram are also observed, and Vaikasi Visakam, Adipooram and Navaratri are named among the temple's notable occasions. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Come to Tiruvaikavur with the hunter's story in mind. Enter beneath the gateway tower, notice that the Nandi looks outward toward the entrance, and then come to the sanctum of the Lord of the Vilva Forest and to the goddess Valaikkai Nayaki. The Yama Theertham across from the gate is a quiet place to pause, and the temple is remembered as a place of protection from Yama's fear. On ordinary days the village is calm, among the fields near Kumbakonam; on Shivaratri night it fills with devotees keeping vigil, which is the best time to feel what the temple's legend has meant to the countryside for centuries."
+    "history": "तिरुवैकावूर, ज्याला वैकावूर असेही म्हटले जाते, कुंभकोणमच्या थोडे उत्तरेस, कावेरीच्या उत्तर तीरावरील प्राचीन चोळ प्रदेशात, तंजावर जिल्ह्यात वसलेले आहे. नायनार संतांच्या तेवारम स्तोत्रांत या मंदिराची स्तुती केली आहे, त्यामुळे हे पाडल पेट्र स्थळ ठरते, आणि परंपरा या वास्तूला चोळकाळात स्थापते. स्वामींना विल्ववननाथर म्हणतात — बिल्ववनाचे स्वामी, ज्या वृक्षाची त्रिदल पाने शिवाला सर्वाधिक प्रिय आहेत; एका स्थानिक कथेनुसार महाप्रलयात शिव स्वतः येथे बिल्ववृक्ष म्हणून प्रकटले. सर्वांहून अधिक, हे गाव स्वतःला महाशिवरात्रीचे व्रत प्रथम पाळले गेले ते स्थान म्हणून स्मरते.",
+    "architecture": "या द्रविड मंदिराच्या प्रवेशद्वारावर राजगोपुर उभे आहे, आणि गर्भगृहात विल्ववननाथरांच्या शिवलिंगाची पूजा होते, त्यांची सहचारिणी म्हणून देवी वळैक्कै नायकीचा सन्मान होतो. मंदिराचे तळे, यम तीर्थम, मुख्य प्रवेशद्वारासमोरच आहे, आणि परंपरेनुसार ते स्वतः यमानेच खणले. मंदिराच्या कथेची आठवण देणारे एक कुतूहलजनक वैशिष्ट्य: पवित्र वृषभ नंदी गर्भगृहाऐवजी प्रवेशद्वाराकडे तोंड करून आहे असे म्हटले जाते, यम आत येऊ नये म्हणून तो अडवतो या श्रद्धेने. गुरुरूप स्वामी दक्षिणामूर्ती येथे हातात दंड घेतलेल्या असामान्य उभ्या मुद्रेत वर्णिले जातात.",
+    "legends": "एकदा एका शिकाऱ्याने हरणाचा पाठलाग करत शिवलिंगाची पूजा करणाऱ्या एका ऋषींच्या आश्रमात प्रवेश केला. ऋषींनी हरीण देण्यास नकार दिला, आणि शिकारी मागे हटेना तेव्हा त्यांनी त्याला घाबरवण्यासाठी वाघाचे रूप घेतले; दुसऱ्या कथनात स्वतः शिवच वाघ झाले. शिकारी जवळच्या झाडावर चढून पळाला, ते बिल्ववृक्ष होते, आणि खाली वाघ वाट पाहत असताना रात्रभर जागे राहण्यासाठी त्याने त्याची पाने तोडून खाली टाकली. झाडाखाली एक लिंग होते आणि पाने त्यावर पडली. ती महाशिवरात्रीची रात्र होती, म्हणून शिकाऱ्याने नकळत रात्रभर शिवाची पूजा केली होती. दुसऱ्या दिवशी यम त्याला घ्यायला आला तेव्हा नंदी आणि शिवाच्या रक्षकांनी, दक्षिणामूर्तीसह, यमाला मंदिराबाहेर हाकलले. यावरून हे मंदिर शिवरात्रीचे उगमस्थान म्हणून स्मरले जाते, आणि तळ्याला यमाचे नाव आहे.",
+    "festivals": "तमिळ माशी महिन्यात (फेब्रुवारी ते मार्च) पाळली जाणारी महाशिवरात्री हा तिरुवैकावूरचा सर्वांत मोठा उत्सव आहे, आणि त्याला भक्तांची प्रचंड गर्दी लोटते असे सांगितले जाते, काहींच्या मते दोन लाखांपर्यंत. उत्सव दोन दिवस चालतो आणि अमावास्येच्या दिवशी तीर्थवारीने संपतो; ताडपत्रांच्या रथातून रात्रीची मिरवणूक त्याचा भाग असते. माशी मकम आणि पंगुनी उत्तिरमही पाळले जातात, आणि वैकासी विसाकम, आडिपूरम आणि नवरात्र ही मंदिराच्या उल्लेखनीय प्रसंगांत गणली जातात. तिथी तमिळ पंचांगानुसार असल्याने स्थानिक पातळीवर तपासा.",
+    "experience": "शिकाऱ्याची कथा मनात ठेवून तिरुवैकावूरला या. गोपुराखालून आत शिरा, नंदी गर्भगृहाकडे नव्हे तर प्रवेशद्वाराकडे बघत आहे हे पाहा, आणि मग बिल्ववनाच्या स्वामींच्या गर्भगृहाशी आणि देवी वळैक्कै नायकीकडे या. द्वारासमोरील यम तीर्थम थांबण्यासाठी शांत जागा आहे, आणि हे मंदिर यमाच्या भीतीपासून संरक्षणाचे स्थान म्हणून स्मरले जाते. सामान्य दिवशी कुंभकोणमजवळच्या शेतांमध्ये हे गाव शांत असते; शिवरात्रीच्या रात्री ते जागरण करणाऱ्या भक्तांनी भरून जाते, आणि मंदिराच्या कथेने शतकानुशतके या प्रदेशासाठी काय अर्थ ठेवला आहे हे अनुभवण्याची ती सर्वोत्तम वेळ आहे."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days such as Maha Shivaratri.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tiruvaikavur lies in the Kumbakonam area of Thanjavur district, about 17 km by road from Kumbakonam, which is the nearest railway station; Swamimalai is about 7 km away and Thanjavur about 45 km. Buses and local auto-rickshaws serve the village, and a hired car from Kumbakonam is the easiest way to reach it. Tiruchirappalli is the nearest major airport. The nearby Vijayanathar temple at Tiruvijayamangai can be visited on the same day."
+    "timings": "सहसा सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले, मध्यान्हीचा विश्रांती काळ असतो; वेळा स्थानिक पातळीवर तपासा, विशेषतः महाशिवरात्रीसारख्या उत्सवाच्या दिवशी.",
+    "dressCode": "पारंपरिक, सभ्य पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-पॅन्ट, महिलांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे प्रवेशद्वारावर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार, बाहेरील प्रदक्षिणा-मार्ग आणि अंगणांत छायाचित्रणाची सहसा परवानगी असते, पण आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे फोटो काढण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुवैकावूर तंजावर जिल्ह्यातील कुंभकोणम परिसरात असून कुंभकोणमपासून रस्त्याने सुमारे १७ किमी आहे, जे सर्वांत जवळचे रेल्वे स्थानक आहे; स्वामीमलई सुमारे ७ किमी आणि तंजावर सुमारे ४५ किमी अंतरावर आहे. गावाला बस आणि स्थानिक ऑटोरिक्षा सेवा देतात, आणि कुंभकोणमहून भाड्याची गाडी हा तेथे पोहोचण्याचा सर्वांत सोपा मार्ग आहे. तिरुचिरापल्ली हे सर्वांत जवळचे मोठे विमानतळ आहे. तिरुविजयमंगै येथील जवळचे विजयनाथर मंदिर त्याच दिवशी पाहता येते."
   }
 }

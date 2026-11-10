@@ -1,30 +1,37 @@
 {
   "id": "trimbakeshwar-nashik",
   "locale": "mr",
+  "name": "त्र्यंबकेश्वर मंदिर, त्र्यंबक",
   "nativeName": "श्री त्र्यंबकेश्वर ज्योतिर्लिंग मंदिर",
+  "deity": "त्र्यंबकेश्वर रूपातील शिव, त्रिनेत्र प्रभू — बारा ज्योतिर्लिंगांपैकी एक, ज्यातील तीन लहान लिंगे ब्रह्मा, विष्णू आणि शिव म्हणून पूजली जातात",
+  "tradition": "शैव",
   "location": {
-    "city": "Trimbak",
-    "state": "Maharashtra",
+    "city": "त्र्यंबक",
+    "state": "महाराष्ट्र",
     "lat": 19.9322,
     "lng": 73.5308
   },
+  "period": "गोदावरीच्या उगमस्थानी असलेले प्राचीन तीर्थ; सध्याचे मंदिर पेशव्यांच्या काळात इसवी सनाच्या १८ व्या शतकात बांधले गेले",
   "century": 18,
+  "dynasty": "मराठा (पेशवे बाळाजी बाजीराव)",
+  "style": "नागर",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "ब्रह्मगिरीच्या पायथ्याशी, जिथे गोदावरी आपला पूर्वेकडील दीर्घ प्रवास सुरू करते, तिथे त्र्यंबकेश्वर शिवाचा त्रिनेत्र प्रभू म्हणून सन्मान करते — बारा ज्योतिर्लिंगांपैकी एक, ज्याच्या गाभाऱ्यात ब्रह्मा, विष्णू आणि शिव एकत्र विराजमान आहेत.",
   "sections": {
-    "history": "Trimbak lies about 28 km from Nashik, beneath the long scarp of Brahmagiri, the hill where the Godavari rises. The Dvadasha Jyotirlinga Stotram names Tryambaka \"on the bank of the Gautami\", the Godavari's sacred name, among the twelve Jyotirlingas, and the town has drawn pilgrims for the rites of the river since ancient times. The temple standing today was built in the eighteenth century under the Peshwa Balaji Bajirao, known as Nanasaheb, in dark basalt within a high walled court. Trimbak is also one of the four places of the Kumbh Mela: every twelve years, in the Simhastha, the ascetic orders bathe at its Kushavarta tank, regarded as the ritual source of the Godavari.",
-    "architecture": "The temple is a Nagara shrine of black stone, its spire rising in clustered tiers above a mandapa and a carved gateway, the whole set in a paved courtyard enclosed by a high wall. Its outer surfaces are worked with figures, mouldings and ornament in the Maratha manner. In the sanctum the Jyotirlinga is unusual: within a hollow in the pedestal rest three small lingas, honoured as Brahma, Vishnu and Shiva. On special occasions they are covered with a jewelled crown that tradition holds to be of great age.",
-    "legends": "The sacred story of Trimbak belongs to the sage Gautama, who lived on Brahmagiri with his wife Ahalya. When a cow died in his field, the sage sought to atone and worshipped Shiva with deep austerity, asking that the Ganga be brought to the hill to purify the land. Pleased, Shiva released the river here, and she flowed out as the Godavari, also called the Gautami after the sage. At Gautama's prayer the lord remained as Tryambaka, the three-eyed one, beside the river's source.",
-    "festivals": "Maha Shivaratri brings the greatest crowds, and the Mondays of Shravan are kept with special worship. Kartik Purnima, celebrated as Tripuri Purnima, fills the town with lamps. Every twelve years the Simhastha Kumbh, held jointly with Nashik, draws vast gatherings to the Kushavarta tank. Confirm dates locally.",
-    "experience": "Many pilgrims bathe or sprinkle water at Kushavarta before darshan, and the hardier climb Brahmagiri to the spring of the Godavari. Trimbak is also known for ancestral and atonement rites, performed by its hereditary priests. A short walk away is the samadhi of Sant Nivruttinath, elder brother of Sant Dnyaneshwar. Entry to the temple is restricted to Hindus; visitors of other faiths may view it from outside."
+    "history": "त्र्यंबक नाशिकपासून सुमारे २८ किमी अंतरावर, ब्रह्मगिरीच्या लांब कड्याखाली वसले आहे; ब्रह्मगिरी ही टेकडी जिथे गोदावरीचा उगम होतो. द्वादश ज्योतिर्लिंग स्तोत्र बारा ज्योतिर्लिंगांमध्ये “गौतमीच्या तीरावरील” त्र्यंबकाचे नाव घेते; गौतमी हे गोदावरीचे पवित्र नाव आहे, आणि नदीच्या विधींसाठी हे गाव प्राचीन काळापासून यात्रेकरूंना आकर्षित करत आले आहे. आज उभे असलेले मंदिर अठराव्या शतकात, नानासाहेब या नावाने ओळखल्या जाणाऱ्या पेशवे बाळाजी बाजीराव यांच्या काळात, उंच तटबंदीच्या आवारात काळ्या बेसॉल्ट दगडात बांधले गेले. त्र्यंबक हे कुंभमेळ्याच्या चार स्थानांपैकी एक आहे: दर बारा वर्षांनी, सिंहस्थात, साधूंचे आखाडे तेथील कुशावर्त कुंडात स्नान करतात, जे गोदावरीचे विधिवत उगमस्थान मानले जाते.",
+    "architecture": "मंदिर काळ्या दगडातील नागर शैलीचे आहे; त्याचे शिखर मंडप आणि कोरीव प्रवेशद्वारावर गुच्छाकार स्तरांमध्ये उंचावते, आणि हे सर्व उंच भिंतीने वेढलेल्या फरसबंद अंगणात आहे. त्याच्या बाह्य पृष्ठभागांवर मराठा शैलीत आकृत्या, कंगोरे आणि अलंकरण कोरलेले आहे. गाभाऱ्यातील ज्योतिर्लिंग असामान्य आहे: पीठातील एका खोलगट भागात तीन लहान लिंगे विसावली आहेत, जी ब्रह्मा, विष्णू आणि शिव म्हणून पूजली जातात. विशेष प्रसंगी त्यांच्यावर रत्नजडित मुकुट चढवला जातो, जो परंपरेनुसार अतिशय जुना आहे.",
+    "legends": "त्र्यंबकाची पवित्र कथा गौतम ऋषींची आहे, जे आपली पत्नी अहल्या हिच्यासह ब्रह्मगिरीवर राहत होते. त्यांच्या शेतात एक गाय मरण पावली तेव्हा ऋषींनी प्रायश्चित्त करण्याचे ठरवले आणि खोल तपश्चर्येने शिवाची पूजा केली, भूमी पवित्र करण्यासाठी गंगा या टेकडीवर आणली जावी अशी प्रार्थना केली. प्रसन्न होऊन शिवाने येथे नदी मुक्त केली, आणि ती गोदावरी म्हणून वाहू लागली, तिला ऋषींच्या नावावरून गौतमी असेही म्हणतात. गौतमांच्या प्रार्थनेवरून प्रभू नदीच्या उगमाजवळ त्र्यंबक, म्हणजे त्रिनेत्र, म्हणून राहिले.",
+    "festivals": "महाशिवरात्रीला सर्वाधिक गर्दी असते, आणि श्रावणातील सोमवार विशेष पूजेने पाळले जातात. कार्तिक पौर्णिमा, जी त्रिपुरी पौर्णिमा म्हणून साजरी होते, तिला गाव दिव्यांनी उजळून निघते. दर बारा वर्षांनी नाशिकसह भरणारा सिंहस्थ कुंभ कुशावर्त कुंडाजवळ प्रचंड जनसमुदाय आणतो. तारखा स्थानिक पातळीवर तपासा.",
+    "experience": "अनेक यात्रेकरू दर्शनापूर्वी कुशावर्तावर स्नान करतात किंवा पाणी शिंपडतात, आणि जास्त कणखर लोक गोदावरीच्या उगमापर्यंत ब्रह्मगिरी चढतात. त्र्यंबक पितृकार्य आणि प्रायश्चित्त विधींसाठीही प्रसिद्ध आहे, जे तेथील वंशपरंपरागत पुरोहित करतात. थोड्या अंतरावर संत ज्ञानेश्वरांचे ज्येष्ठ बंधू संत निवृत्तिनाथ यांची समाधी आहे. मंदिरात प्रवेश फक्त हिंदूंसाठी मर्यादित आहे; इतर धर्मांचे अभ्यागत बाहेरून पाहू शकतात."
   },
   "visit": {
-    "timings": "Open daily from early morning to night, with aartis and abhisheka through the day; queues are long at Maha Shivaratri, on Shravan Mondays and at weekends. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. Follow the posted rules and the priests' guidance, especially for rituals in the sanctum.",
-    "photography": "Photography is not permitted inside the temple; follow the posted rules and staff guidance.",
-    "gettingThere": "Trimbak is about 28 km from Nashik by road, at the foot of the Brahmagiri hills. Nashik Road is the nearest major railway station and Nashik (Ozar) the nearest airport; Mumbai is about 180 km away. Admission to the temple is for Hindus only, as posted at the entrance."
+    "timings": "दररोज पहाटेपासून रात्रीपर्यंत उघडे असते, दिवसभर आरत्या आणि अभिषेक चालतात; महाशिवरात्रीला, श्रावणातील सोमवारी आणि आठवड्याच्या शेवटी रांगा लांब असतात. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासा.",
+    "dressCode": "विनम्र पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढली जातात. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा, विशेषतः गाभाऱ्यातील विधींसाठी.",
+    "photography": "मंदिरात छायाचित्रणास परवानगी नाही; लावलेले नियम आणि कर्मचाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "त्र्यंबक नाशिकपासून रस्त्याने सुमारे २८ किमी अंतरावर, ब्रह्मगिरी टेकड्यांच्या पायथ्याशी आहे. नाशिक रोड हे सर्वात जवळचे मोठे रेल्वे स्थानक आहे आणि नाशिक (ओझर) हे सर्वात जवळचे विमानतळ; मुंबई सुमारे १८० किमी दूर आहे. मंदिरात प्रवेश फक्त हिंदूंसाठी आहे, असे प्रवेशद्वारावर लावलेले आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/trimbakeshwar-nashik.jpg",

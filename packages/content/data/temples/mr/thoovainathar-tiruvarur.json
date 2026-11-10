@@ -1,29 +1,36 @@
 {
   "id": "thoovainathar-tiruvarur",
   "locale": "mr",
+  "name": "तूवैनाथर मंदिर, आरूर परवैयुण्मंडळी",
   "nativeName": "ஆரூர் பரவையுண்மண்டளி தூவைநாதர் கோயில்",
+  "deity": "तूवैनाथर रूपातील शिव, देवी पंचिन् मेन्नडियाळ (मृदुपाद नायकी) यांच्यासह",
+  "tradition": "शैव — पाडल पेत्र स्थळ",
   "location": {
-    "city": "Tiruvarur (East Street)",
-    "state": "Tamil Nadu",
+    "city": "तिरुवारूर (पूर्व रस्ता)",
+    "state": "तमिळनाडू",
     "lat": 10.773,
     "lng": 79.64
   },
+  "period": "तेवारम् काळ (इसवी सनाच्या सातव्या शतकात गायलेले); नंतरचे चोळ काळातील बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूरच्या पूर्व रस्त्यावर, महान मंदिरनगरीच्या आतच, तूवैनाथर उभे आहेत — एक पाडल पेत्र स्थळ, ज्याचे ऐतिहासिक नाव आरूर परवैयुण्मंडळी संत सुंदरर यांच्या पत्नी परवै यांच्या वाड्याचे स्मरण करून देते. येथे शिव तूवैनाथर म्हणून पूजले जातात, त्यांच्यासह देवी पंचिन् मेन्नडियाळ, 'कापसासारखी मऊ पावले असलेली', आणि मंदिर तिरुज्ञानसंबंधर यांनी तेवारम्मध्ये गायले आहे.",
   "sections": {
-    "history": "Thoovainathar stands on the East Street of Tiruvarur, within the great temple town that is the heart of the Kaveri delta's Shaiva tradition. Its historical name is Arur Paravaiyunmandali — 'Arur, the mansion-quarter of Paravai' — recalling Paravai Nachiyar, the wife of the saint Sundarar, who lived in Tiruvarur. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted among the shrines of the southern Kaveri. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of the town, the shrine enshrines Thoovainathar in the sanctum, with the goddess Panchin Mennadiyal — in Sanskrit Mridupada Nayaki, 'she whose feet are soft as cotton' — in her own shrine, a Nandi and the parivara devatas. Though modest beside the vast Thyagaraja temple nearby, it keeps its own place in the sacred map of Tiruvarur.",
-    "legends": "The historical name joins the shrine to the story of Sundarar and Paravai Nachiyar, his first wife, whose home was in Tiruvarur — a story in which, by the tradition of the town, Shiva himself walked as a messenger between the saint and his beloved. The goddess's tender name, Panchin Mennadiyal, 'she of the cotton-soft feet,' belongs to the gentle grace of Devi. As one shrine within the great Tiruvarur, its own sthala purana is woven into the larger lore of the town.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims to the great temples of Tiruvarur, following the Paadal Petra trail, include Thoovainathar among the shrines of the town.",
-    "experience": "At Thoovainathar the pilgrim finds a quieter shrine within the great Tiruvarur, rich in the memory of Sundarar and Paravai. Before Thoovainathar and the cotton-soft-footed Panchin Mennadiyal, the visitor touches a corner of the town's vast Shaiva story, where even the smaller temples carry a famous name."
+    "history": "तूवैनाथर तिरुवारूरच्या पूर्व रस्त्यावर, कावेरी त्रिभुज प्रदेशाच्या शैव परंपरेचे हृदय असलेल्या महान मंदिरनगरीतच उभे आहेत. त्याचे ऐतिहासिक नाव आरूर परवैयुण्मंडळी — 'आरूर, परवैचा वाडा-भाग' — तिरुवारूरमध्ये राहिलेल्या संत सुंदरर यांच्या पत्नी परवै नाच्चियार यांचे स्मरण करून देते. हे पाडल पेत्र स्थळ आहे, तिरुज्ञानसंबंधर यांनी तेवारम्मध्ये गायलेले, दक्षिण कावेरीतील क्षेत्रांमध्ये गणले जाते. दगडी मंदिर चोळ काळातील आणि त्यानंतरचे आहे.",
+    "architecture": "नगरातील द्रविड मंदिर; गर्भगृहात तूवैनाथर विराजमान आहेत, आणि देवी पंचिन् मेन्नडियाळ — संस्कृतमध्ये मृदुपाद नायकी, 'कापसासारखी मऊ पावले असलेली' — स्वतःच्या मंदिरात आहेत; तसेच नंदी आणि परिवार देवता आहेत. जवळच्या विशाल त्यागराज मंदिराच्या तुलनेत ते साधे असले, तरी तिरुवारूरच्या पवित्र नकाशात त्याचे स्वतःचे स्थान आहे.",
+    "legends": "ऐतिहासिक नाव मंदिराला सुंदरर आणि त्यांची पहिली पत्नी परवै नाच्चियार, जिचे घर तिरुवारूरमध्ये होते, यांच्या कथेशी जोडते — नगराच्या परंपरेनुसार या कथेत शिव स्वतः संत आणि त्यांच्या प्रियेमध्ये दूत म्हणून चालले. देवीचे कोमल नाव, पंचिन् मेन्नडियाळ, 'कापसासारख्या मऊ पावलांची', देवीच्या सौम्य कृपेशी निगडित आहे. महान तिरुवारूरमधील एक मंदिर असल्याने त्याचे स्वतःचे स्थलपुराण नगराच्या व्यापक कथांमध्ये विणलेले आहे.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्र, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्र आणि कार्तिकैचे सोमवार प्रदोष पूजेसह पाळले जातात. पाडल पेत्र मार्गावरून तिरुवारूरच्या महान मंदिरांना जाणारे यात्रेकरू तूवैनाथर यांना नगरातील मंदिरांत समाविष्ट करतात.",
+    "experience": "तूवैनाथर येथे यात्रेकरूला महान तिरुवारूरमधले एक शांत मंदिर मिळते, जे सुंदरर आणि परवै यांच्या स्मृतीने समृद्ध आहे. तूवैनाथर आणि कापसासारख्या मऊ पावलांच्या पंचिन् मेन्नडियाळ यांच्यासमोर भाविक नगराच्या विशाल शैव कथेचा एक कोपरा स्पर्शतो, जेथे लहान मंदिरांनाही प्रसिद्ध नाव लाभलेले असते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thoovainathar is on the East Street of Tiruvarur town, within easy reach of the great Thyagaraja temple. Tiruvarur has its own railway station and bus stand; the shrine is a short walk or auto ride within the town."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत छायाचित्रणाची सामान्यतः परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तूवैनाथर तिरुवारूर नगरातील पूर्व रस्त्यावर, महान त्यागराज मंदिराच्या सहज पोहोचण्याजोग्या अंतरावर आहेत. तिरुवारूरला स्वतःचे रेल्वे स्थानक आणि बस स्थानक आहे; नगराच्या आत मंदिर थोडे चालत किंवा रिक्षाने जाण्याजोगे आहे."
   }
 }

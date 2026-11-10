@@ -1,29 +1,36 @@
 {
   "id": "pavana-narasimha-ahobilam",
   "locale": "mr",
+  "name": "पावन नरसिंह मंदिर, अहोबिलम",
   "nativeName": "పావన నరసింహ ఆలయం, అహోబిలం",
+  "deity": "विष्णू पावन नरसिंहाच्या रूपात — लक्ष्मीसह पूजिले जाणारे; येथे लक्ष्मीला चेंचू लक्ष्मी म्हणून पूज्य मानले जाते",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "अहोबिलम",
+    "state": "आंध्र प्रदेश",
     "lat": 15.095,
     "lng": 78.76
   },
+  "period": "आंध्र प्रदेशातील नल्लमला डोंगररांगांतील अहोबिलमच्या नव नरसिंह मंदिरांपैकी एक",
   "century": 15,
+  "dynasty": "विजयनगर साम्राज्याचा आश्रय",
+  "style": "लहान द्रविड शैलीचे मंदिर",
   "unesco": false,
   "circuits": [
     "ahobilam-nava-narasimha"
   ],
+  "summary": "नल्लमला जंगलाच्या गर्भात, पावन ओढ्याच्या काठावर वसलेले पावन नरसिंह मंदिर अहोबिलमच्या नऊ मंदिरांपैकी सर्वांत दुर्गम आहे — येथे भगवंताची पूजा डोंगरवासी लोकांची कन्या चेंचू लक्ष्मीसह केली जाते.",
   "sections": {
-    "history": "Pavana Narasimha is the most secluded of the nine Narasimha shrines of Ahobilam, set on the bank of the Pavana stream, from which it takes its name. It lies some six to seven kilometres from Upper Ahobilam by forest footpath, or considerably farther by a rough jeep track through the Nallamala forest from Lower Ahobilam. Its remoteness has kept it close to the Chenchu, the forest-dwelling people of these hills, whose bond with Narasimha runs through Ahobilam's traditions. The shrine is within the Ahobila Matha's worship of the nine forms, and pilgrims regard reaching it as the crowning effort of the Nava Narasimha yatra.",
-    "architecture": "The temple is a small shrine in a forest clearing by the stream, with a simple mandapa before the sanctum. Here Narasimha is seated with Lakshmi, revered locally as Chenchu Lakshmi, at his side, and a separate shrine to Chenchu Lakshmi stands nearby. The setting — dense forest, running water and hills on every side — is as much a part of the darshan as the stone.",
-    "legends": "The sthala purana tells that the sage Bharadwaja performed penance here and was freed from a grave sin through the grace of Narasimha; pavana means purifying, and the place is held to cleanse all who come with devotion. Chenchu tradition holds that Lakshmi was born among them as Chenchu Lakshmi and wed the Lord after he had slain Hiranyakashipu. In the astrological reading of the nine shrines, Pavana is linked with Mercury.",
-    "festivals": "Narasimha Jayanti and the annual Brahmotsavam of Ahobilam are the main occasions; weekends and festival days bring a stream of jeeps along the forest track. Confirm dates locally.",
-    "experience": "This is a journey for the prepared. The jeep ride is long and jolting and fords streams; the walking route from Upper Ahobilam is a full forest trek. Forest officials control entry and turn vehicles back late in the day, so set out in the morning. Carry water and food — there are few facilities in the forest."
+    "history": "पावन नरसिंह हे अहोबिलमच्या नऊ नरसिंह मंदिरांपैकी सर्वांत एकांतातील मंदिर असून ते पावन ओढ्याच्या काठावर आहे; त्यावरूनच त्याला हे नाव मिळाले. वरच्या अहोबिलमपासून जंगलातील पायवाटेने ते सुमारे सहा-सात किलोमीटरवर आहे, तर खालच्या अहोबिलमपासून नल्लमला जंगलातील खडबडीत जीपमार्गाने ते बरेच अधिक दूर आहे. या दुर्गमतेमुळे हे मंदिर या डोंगरांतील वनवासी चेंचू लोकांच्या जवळ राहिले आहे; नरसिंहाशी असलेले त्यांचे नाते अहोबिलमच्या परंपरांमधून सतत दिसून येते. हे मंदिर अहोबिल मठाच्या नऊ रूपांच्या उपासनेत समाविष्ट आहे, आणि तेथवर पोहोचणे हा नव नरसिंह यात्रेचा कळसाध्याय मानला जातो.",
+    "architecture": "हे मंदिर ओढ्याकाठच्या जंगलातील एका मोकळ्या जागेत वसलेले लहानसे देवालय आहे; गाभाऱ्यासमोर साधा मंडप आहे. येथे नरसिंह आसनस्थ असून त्यांच्या बाजूला लक्ष्मी आहे, जिला स्थानिक पातळीवर चेंचू लक्ष्मी म्हणून पूज्य मानले जाते; जवळच चेंचू लक्ष्मीचे स्वतंत्र मंदिरही आहे. घनदाट जंगल, वाहते पाणी आणि सभोवतालचे डोंगर — हा परिसर दगडाइतकाच दर्शनाचा भाग आहे.",
+    "legends": "स्थलपुराणानुसार भरद्वाज ऋषींनी येथे तप केले आणि नरसिंहाच्या कृपेने ते एका घोर पापातून मुक्त झाले; पावन म्हणजे पवित्र करणारे, आणि भक्तिभावाने येणाऱ्या सर्वांना हे स्थान शुद्ध करते अशी श्रद्धा आहे. चेंचू परंपरेनुसार लक्ष्मीने त्यांच्यातच चेंचू लक्ष्मी म्हणून जन्म घेतला आणि हिरण्यकशिपूचा वध झाल्यानंतर भगवंताशी विवाह केला. नऊ मंदिरांच्या ज्योतिषीय मांडणीत पावन नरसिंह बुध ग्रहाशी जोडलेले आहे.",
+    "festivals": "नरसिंह जयंती आणि अहोबिलमचा वार्षिक ब्रह्मोत्सव हे मुख्य प्रसंग आहेत; आठवड्याच्या शेवटी आणि उत्सवाच्या दिवशी जंगलमार्गावर जीपचा ओघ लागतो. तारखा स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "हा प्रवास पूर्वतयारीने करण्याचा आहे. जीपचा प्रवास लांब आणि हेलकावणारा असून त्यात ओढे ओलांडावे लागतात; वरच्या अहोबिलमहून येणारा पायी मार्ग म्हणजे संपूर्ण जंगल-भ्रमंतीच आहे. प्रवेशावर वनअधिकाऱ्यांचे नियंत्रण असते आणि दिवसाच्या उत्तरार्धात वाहने परत पाठवली जातात, म्हणून सकाळीच निघा. पाणी आणि अन्न सोबत ठेवा — जंगलात सोयी फार थोड्या आहेत."
   },
   "visit": {
-    "timings": "Worship is offered daily, but forest access is regulated by the Forest Department and vehicles are not allowed in late in the day; set out in the morning. Confirm current timings and access rules locally.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "From Lower Ahobilam (reached by road via Allagadda; Nandyal is the nearest major railhead), hire a local four-wheel-drive jeep for the forest track; private vehicles are generally not permitted. A footpath of about six to seven kilometres also leads from Upper Ahobilam; go with a local guide."
+    "timings": "पूजा दररोज होते, परंतु जंगलातील प्रवेश वन विभागाकडून नियंत्रित केला जातो आणि दिवसाच्या उत्तरार्धात वाहनांना आत सोडले जात नाही; सकाळी लवकर निघा. सध्याच्या वेळा आणि प्रवेशाचे नियम स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गाभाऱ्यात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "खालच्या अहोबिलमपासून (अल्लागड्डामार्गे रस्त्याने पोहोचता येते; नंद्याल हे सर्वांत जवळचे मोठे रेल्वे स्थानक आहे) जंगलमार्गासाठी स्थानिक फोर-व्हील-ड्राइव्ह जीप भाड्याने घ्या; खासगी वाहनांना सहसा परवानगी नसते. वरच्या अहोबिलमपासून सुमारे सहा-सात किलोमीटरची पायवाटही येथे जाते; स्थानिक मार्गदर्शकासोबत जा."
   }
 }

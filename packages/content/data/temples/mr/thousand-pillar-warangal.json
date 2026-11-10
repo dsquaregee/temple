@@ -1,30 +1,37 @@
 {
   "id": "thousand-pillar-warangal",
   "locale": "mr",
+  "name": "सहस्र स्तंभ मंदिर, वरंगल",
   "nativeName": "వేయి స్తంభాల గుడి, హనుమకొండ",
+  "deity": "शिव, विष्णू आणि सूर्य — तीन गर्भगृहांच्या मंदिरात",
+  "tradition": "शैव परंपरा, वैष्णव व सौर गर्भगृहांसह",
   "location": {
-    "city": "Hanamkonda",
-    "state": "Telangana",
+    "city": "हनमकोंडा",
+    "state": "तेलंगणा",
     "lat": 18.0132,
     "lng": 79.556
   },
+  "period": "इसवी सन ११६३ (काकतीय)",
   "century": 12,
+  "dynasty": "काकतीय",
+  "style": "काकतीय (वेसर), तारकाकृती त्रिकूटालय",
   "unesco": false,
   "circuits": [
     "kakatiya-temples"
   ],
+  "summary": "वरंगलजवळच्या हनमकोंडा येथे काकतीयांनी इसवी सन ११६३ मध्ये बांधलेले सहस्र स्तंभ मंदिर हे शिव, विष्णू आणि सूर्य यांचे तारकाकृती, तीन गर्भगृहांचे मंदिर असून बारकाईने कोरलेल्या स्तंभांच्या वनासाठी आणि काळ्या पाषाणाच्या एकसंध नंदीसाठी प्रसिद्ध आहे.",
   "sections": {
-    "history": "The Thousand Pillar Temple was raised in 1163 CE by the Kakatiya king Rudradeva at Hanamkonda, an early seat of the dynasty that would soon build the great fort-capital at nearby Warangal. It belongs to the first flowering of Kakatiya temple-building, a generation before Ramappa, and its inscriptions record the endowments that sustained it. Damaged in later centuries, it has been carefully conserved, and remains both a living Shiva temple and a landmark of the Kakatiya achievement in the Telangana country.",
-    "architecture": "The temple is a trikutalaya — a three-shrined plan, its sanctums for Shiva, Vishnu, and Surya opening off a common star-shaped hall, so that three streams of worship meet under one roof. A pillared mandapa carries the intricately carved columns that give the temple its name, and a large monolithic Nandi of polished black basalt faces the Shiva shrine. Perforated stone screens, carved doorways, and a detached rock-cut elephant complete an ensemble whose precision — the pillars turned as if on a lathe — marks the confident early Kakatiya style.",
-    "legends": "The temple’s lore dwells less on a single miracle than on the wonder of its making: the thousand pillars, no two quite alike, and the great Nandi cut from a single block and polished to a mirror sheen, are held up in local memory as proof of the Kakatiya masons’ genius. The trikuta plan itself carries a quiet theology, gathering Shiva, Vishnu, and the Sun as one, so that devotees of each tradition find their god beneath the same star-shaped hall.",
-    "festivals": "Maha Shivaratri is the principal festival, filling the temple through the night, and Kartika Masam brings lamps and special worship to the Shiva shrine. As part of the Kakatiya heritage around Warangal, the temple shares in regional festivals and in the cultural programmes that celebrate the dynasty’s art, and daily worship continues across its three sanctums.",
-    "experience": "The Thousand Pillar Temple sits amid the busy town of Hanamkonda, yet within its walls the pillared hall keeps a cool, shadowed calm. Walking the forest of carved columns, each catching the light differently, and circling the mirror-black Nandi in its pavilion, a visitor feels the assurance of a young dynasty at the height of its art. The star-shaped plan reveals itself slowly as one moves around the three shrines, and the conserved stonework, sharp after eight and a half centuries, rewards a patient, close look."
+    "history": "सहस्र स्तंभ मंदिर काकतीय राजा रुद्रदेव यांनी इसवी सन ११६३ मध्ये हनमकोंडा येथे उभारले; हे या राजवंशाचे एक प्राचीन सत्ताकेंद्र होते, ज्याने लवकरच जवळच्या वरंगल येथे भव्य किल्लेवजा राजधानी उभारली. रामप्पाच्या एक पिढी आधीच्या काकतीय मंदिर-बांधणीच्या पहिल्या बहराशी हे मंदिर संबंधित आहे, आणि त्याचे शिलालेख त्याला चालना देणाऱ्या दानांची नोंद करतात. नंतरच्या शतकांत त्याची हानी झाली, परंतु काळजीपूर्वक संवर्धन करण्यात आले आहे; आजही ते जिवंत शिवमंदिर असून तेलंगणा प्रदेशातील काकतीय कर्तृत्वाची खूण आहे.",
+    "architecture": "हे मंदिर त्रिकूटालय आहे — तीन गर्भगृहांचा आराखडा, ज्यात शिव, विष्णू आणि सूर्य यांची गर्भगृहे एका सामायिक तारकाकृती सभागृहातून उघडतात, त्यामुळे उपासनेचे तीन प्रवाह एका छताखाली एकत्र येतात. स्तंभयुक्त मंडपात मंदिराला नाव देणारे बारकाईने कोरलेले स्तंभ आहेत, आणि चकचकीत काळ्या बेसाल्टचा एक मोठा एकसंध नंदी शिवगर्भगृहासमोर आहे. छिद्रित दगडी जाळ्या, कोरीव प्रवेशद्वारे आणि एक स्वतंत्र खडकात कोरलेला हत्ती यांनी हा समूह पूर्ण होतो; त्याची अचूकता — स्तंभ जणू खराडीवर घडवल्यासारखे — आत्मविश्वासपूर्ण आद्य काकतीय शैलीची ओळख आहे.",
+    "legends": "मंदिराची कथा एखाद्या एका चमत्कारापेक्षा त्याच्या निर्मितीच्या आश्चर्यावर अधिक रेंगाळते: हजार स्तंभ, त्यांपैकी कोणतेही दोन अगदी सारखे नाहीत, आणि एकाच शिळेतून कोरलेला व आरशासारखा चकाकणारा भव्य नंदी — हे स्थानिक स्मृतीत काकतीय शिल्पकारांच्या प्रतिभेचा पुरावा म्हणून मांडले जातात. त्रिकूट रचनेतच एक मूक धर्मतत्त्व दडलेले आहे: शिव, विष्णू आणि सूर्य यांना एकत्र आणून, प्रत्येक परंपरेच्या भक्तांना आपला देव याच तारकाकृती सभागृहाखाली सापडतो.",
+    "festivals": "महाशिवरात्री हा मुख्य उत्सव आहे, ज्यावेळी मंदिर रात्रभर भाविकांनी भरून जाते, आणि कार्तिक मासात शिवगर्भगृहात दिवे व विशेष पूजा केली जाते. वरंगलच्या परिसरातील काकतीय वारशाचा भाग म्हणून मंदिर प्रादेशिक उत्सवांत आणि राजवंशाच्या कलेचा गौरव करणाऱ्या सांस्कृतिक कार्यक्रमांत सहभागी होते, आणि तिन्ही गर्भगृहांत दैनंदिन पूजा चालू असते.",
+    "experience": "सहस्र स्तंभ मंदिर हनमकोंडा या वर्दळीच्या शहरात आहे, तरीही त्याच्या भिंतींच्या आत स्तंभयुक्त सभागृह थंड, सावलीची शांतता जपते. कोरीव स्तंभांच्या वनातून चालताना, प्रत्येक स्तंभ प्रकाश वेगळ्या प्रकारे पकडतो, आणि मंडपातील आरशासारख्या काळ्या नंदीला प्रदक्षिणा घालताना, अभ्यागताला आपल्या कलेच्या शिखरावर असलेल्या तरुण राजवंशाचा आत्मविश्वास जाणवतो. तीन गर्भगृहांभोवती फिरताना तारकाकृती आराखडा हळूहळू उलगडतो, आणि साडेआठ शतकांनंतरही धारदार राहिलेले संवर्धित शिल्पकाम संयमी, जवळून पाहणाऱ्याला पुरस्कृत करते."
   },
   "visit": {
-    "timings": "Generally open from around 6:00 am to 8:00 pm daily, with pujas through the day; hours extend on festival days.",
-    "dressCode": "Modest traditional dress is appreciated, with shoulders and knees covered; footwear is removed at the temple.",
-    "photography": "Photography is generally allowed of the exterior and pillars; follow posted rules within the sanctums and during worship.",
-    "gettingThere": "The temple is in Hanamkonda, part of the Warangal urban area, about 145 km from Hyderabad; Warangal has a major railway junction and the nearest airport is Hyderabad."
+    "timings": "साधारणतः दररोज सकाळी सुमारे ६:०० ते रात्री ८:०० पर्यंत उघडे असते, दिवसभर पूजा होतात; उत्सवाच्या दिवशी वेळ वाढवली जाते.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; मंदिरात पादत्राणे काढून ठेवावीत.",
+    "photography": "बाह्य भाग आणि स्तंभांचे छायाचित्रण साधारणतः मान्य आहे; गर्भगृहांमध्ये आणि पूजेच्या वेळी लावलेल्या नियमांचे पालन करावे.",
+    "gettingThere": "मंदिर वरंगल नागरी क्षेत्राचा भाग असलेल्या हनमकोंडा येथे, हैदराबादपासून सुमारे १४५ कि.मी. अंतरावर आहे; वरंगल येथे मोठे रेल्वे जंक्शन आहे आणि जवळचे विमानतळ हैदराबाद आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",

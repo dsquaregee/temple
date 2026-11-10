@@ -1,29 +1,36 @@
 {
   "id": "thiruvazhmarban-thiruppathisaram",
   "locale": "mr",
+  "name": "तिरुवाळमार्बन पेरुमाळ मंदिर, तिरुप्पतिसारम",
   "nativeName": "திருவாழ்மார்பன் கோயில், திருப்பதிசாரம்",
+  "deity": "तिरुवाळमार्बन रूपातील विष्णू, ज्यांच्या वक्षःस्थळी देवी लक्ष्मी विराजमान आहे, आणि देवी कमलवल्ली",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruppathisaram, Kanyakumari district",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पतिसारम, कन्याकुमारी जिल्हा",
+    "state": "तमिळनाडू",
     "lat": 8.2086,
     "lng": 77.4472
   },
+  "period": "नागरकोइलजवळील मलै नाडूतील दिव्य देशम्, नालायिर दिव्य प्रबंधम्मध्ये नम्माळवार यांनी गायलेले",
   "century": 8,
+  "dynasty": "सुदूर दक्षिणेतील मध्ययुगीन शासक (इसवी सन ११३९ पासूनचे शिलालेख), नायक काळातील भरीसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "नागरकोइलजवळ तिरुप्पतिसारम — स्तोत्रांतील तिरुवण्परिसारम — येथे विष्णू तिरुवाळमार्बन म्हणून विराजमान आहेत, ज्यांच्या वक्षःस्थळी लक्ष्मीचा वास आहे: नम्माळवार यांनी गायलेला मलै नाडूतील दिव्य देशम्, आणि परंपरेनुसार त्यांच्या मातेचे माहेर.",
   "sections": {
-    "history": "Thiruppathisaram, called Thiruvanparisaram in the hymns, is a village a few kilometres north-east of Nagercoil, and its temple is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham — counted among the shrines of Malai Nadu. Nammalvar sang its lord, and Sri Vaishnava tradition remembers the village with particular tenderness as the home of Udaya Nangai, Nammalvar's mother. The oldest inscription in the temple is dated to 1139 CE and records gifts to the lord, and tradition holds that Thirumalai Nayak of Madurai had a hand in renovating the shrine. Locally the temple is also known as the shrine of Kuralappa Perumal.",
-    "architecture": "A granite wall encloses the temple and all its shrines, built in the Dravidian manner of the far south. The presiding lord is seated, bearing the conch and the discus, with the Goddess Lakshmi on his chest — the form that gives him his name, 'he of the blessed chest'. Tradition says the image is fashioned not of stone but of a special paste, and so it does not receive ritual bathing (abhishekam). The temple tank, named for Lakshmi, lies opposite the main entrance, outside the walls.",
-    "legends": "The sthala purana tells that a king who had lost his horse found it grazing beside the Soma Tirtham here, and there beheld Vishnu; moved by the vision, he built the temple. Tradition identifies this king with the ruler who renounced his throne and became Kulasekhara Alvar, and the temple still keeps the day of his passing to Vaikuntha. The seven sages, the Saptarishis, are also said to have come to this place and sanctified the Soma Tirtham.",
-    "festivals": "The ten-day Chithirai festival (April–May) is the temple's main celebration. Adi Swati (July–August) recalls the day the lord is said to have taken Kulasekhara Alvar to Vaikuntha; Avani Thiruvonam, the Saturdays of Purattasi and Vaikunta Ekadashi are kept with special worship.",
-    "experience": "Thiruppathisaram is a quiet village shrine, unhurried and intimate after the bustle of Nagercoil. Pause at the tank before entering, then take darshan of the seated lord with Lakshmi on his chest, and remember Udaya Nangai, Nammalvar's mother, whom tradition links with this village. Pilgrims often combine the visit with Thiruvattar and Thiruvananthapuram on a Malai Nadu journey."
+    "history": "तिरुप्पतिसारम, स्तोत्रांत ज्याला तिरुवण्परिसारम म्हटले आहे, हे नागरकोइलच्या काही किलोमीटर ईशान्येला असलेले गाव आहे, आणि त्याचे मंदिर १०८ दिव्य देशमांपैकी एक आहे — नालायिर दिव्य प्रबंधम्मध्ये आळवारांनी गायलेली विष्णूची निवासस्थाने — ते मलै नाडूतील क्षेत्रांत गणले जाते. नम्माळवार यांनी येथील प्रभूचे गायन केले, आणि श्रीवैष्णव परंपरा या गावाला नम्माळवार यांच्या माता उदय नंगै यांचे घर म्हणून विशेष ममतेने स्मरते. मंदिरातील सर्वांत जुना शिलालेख इसवी सन ११३९ चा आहे आणि त्यात प्रभूला दिलेल्या दानांची नोंद आहे; मदुराईच्या तिरुमलै नायकांनी मंदिराच्या नूतनीकरणात हातभार लावला, असे परंपरा मानते. स्थानिक पातळीवर हे मंदिर कुरळप्पा पेरुमाळ यांचे मंदिर म्हणूनही ओळखले जाते.",
+    "architecture": "मंदिर आणि त्याची सर्व उपमंदिरे ग्रॅनाइटच्या भिंतीने वेढलेली आहेत, सुदूर दक्षिणेच्या द्रविड शैलीत बांधलेली. प्रमुख प्रभू आसनस्थ आहेत, शंख आणि चक्र धारण केलेले, आणि वक्षःस्थळी देवी लक्ष्मी — हेच रूप त्यांना नाव देते, 'पवित्र वक्षःस्थळाचा तो'. परंपरा सांगते की मूर्ती दगडाची नसून एका विशेष लेपाची आहे, म्हणून तिला विधिपूर्वक अभिषेक होत नाही. लक्ष्मीच्या नावाचे मंदिराचे तळे मुख्य प्रवेशद्वारासमोर, भिंतींच्या बाहेर आहे.",
+    "legends": "स्थलपुराण सांगते की घोडा हरवलेल्या एका राजाला तो येथे सोम तीर्थाशेजारी चरताना सापडला, आणि तेथे त्याला विष्णूचे दर्शन झाले; त्या दर्शनाने भारावून त्याने मंदिर बांधले. परंपरा या राजाची ओळख सिंहासन त्यागून कुलशेखर आळवार झालेल्या राजाशी पटवते, आणि मंदिर आजही त्यांच्या वैकुंठगमनाचा दिवस पाळते. सप्तर्षीही या स्थळी येऊन त्यांनी सोम तीर्थ पवित्र केले, असे म्हटले जाते.",
+    "festivals": "दहा दिवसांचा चित्तिरै उत्सव (एप्रिल–मे) हा मंदिराचा मुख्य सोहळा आहे. आडि स्वाती (जुलै–ऑगस्ट) हा प्रभूने कुलशेखर आळवारांना वैकुंठात नेल्याचा दिवस म्हणून स्मरला जातो; अवनी तिरुवोणम्, पुरट्टासीचे शनिवार आणि वैकुंठ एकादशी विशेष पूजेने पाळली जातात.",
+    "experience": "तिरुप्पतिसारम हे शांत गावातील मंदिर आहे — नागरकोइलच्या गजबजाटानंतर निवांत आणि जिव्हाळ्याचे. आत जाण्यापूर्वी तळ्याजवळ थांबा, मग वक्षःस्थळी लक्ष्मी असलेल्या आसनस्थ प्रभूंचे दर्शन घ्या, आणि परंपरेने या गावाशी जोडलेल्या नम्माळवार यांच्या माता उदय नंगै यांचे स्मरण करा. यात्रेकरू अनेकदा मलै नाडूच्या प्रवासात ही भेट तिरुवट्टार आणि तिरुवनंतपुरमशी जोडतात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure, following the temple's own schedule; festival days are crowded. Confirm current timings locally before you visit.",
-    "dressCode": "Traditional modest dress is expected — shoulders and knees covered, footwear removed before entering. Follow posted rules and the guidance of the priests.",
-    "photography": "Photography is not permitted in and around the sanctum; follow posted rules and the guidance of temple staff.",
-    "gettingThere": "Thiruppathisaram is a few kilometres north-east of Nagercoil in Kanyakumari district and is reached by road. Nagercoil Junction is the nearest major railway station, and Thiruvananthapuram has the nearest airport."
+    "timings": "मंदिराच्या स्वतःच्या वेळापत्रकानुसार दररोज सकाळ-संध्याकाळ दर्शनासह उघडे असते आणि दुपारी बंद असते; उत्सवाच्या दिवशी गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले, आत जाण्यापूर्वी पादत्राणे काढलेली. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आजूबाजूला छायाचित्रणास परवानगी नाही; लावलेले नियम आणि मंदिर कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुप्पतिसारम कन्याकुमारी जिल्ह्यात नागरकोइलच्या काही किलोमीटर ईशान्येला आहे आणि रस्त्याने पोहोचता येते. नागरकोइल जंक्शन हे सर्वांत जवळचे प्रमुख रेल्वे स्थानक आहे, आणि तिरुवनंतपुरम येथे सर्वांत जवळचे विमानतळ आहे."
   }
 }

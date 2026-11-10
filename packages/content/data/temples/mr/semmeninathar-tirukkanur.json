@@ -1,29 +1,36 @@
 {
   "id": "semmeninathar-tirukkanur",
   "locale": "mr",
+  "name": "सेम्मेनिनाथर मंदिर, तिरुक्कनूर",
   "nativeName": "செம்மேனிநாதர் கோயில்",
+  "deity": "सेम्मेनिनाथर (करुंबेश्वरर असेही) रूपातील शिव, देवी शिवयोग नायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tirukkanur",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कनूर",
+    "state": "तमिळनाडू",
     "lat": 10.89,
     "lng": 78.96
   },
+  "period": "कोल्लिडम नदीच्या काठावरील प्राचीन शैव मंदिर, संबंदर आणि अप्पर यांनी तेवारममध्ये गायिलेले (सातवे शतक); नंतरच्या भरीसह चोळ प्रदेशातील बांधीव मंदिर",
   "century": 7,
+  "dynasty": "आरंभीचा चोळ प्रदेश (सध्याच्या वास्तूचे आश्रयदाते निश्चितपणे नोंदलेले नाहीत)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुक्कनूर येथील सेम्मेनिनाथर मंदिर हे कोल्लिडमच्या काठावरील शांत तेवारम मंदिर आहे, जेथे शिवाची लाल देहाचे प्रभू म्हणून पूजा होते, आणि जेथे नदीच्या वाळूत गाडले गेलेले मंदिर एका उसाच्या झाडाखाली पुन्हा सापडल्याची परंपरा सांगितली जाते.",
   "sections": {
-    "history": "Tirukkanur lies on the bank of the Kollidam in Thanjavur district, a few kilometres from Tirukkattupalli, and is counted among the Paadal Petra Sthalams, the Shiva temples north of the Kaveri praised in the Tevaram by Sambandar and Appar. Appar's hymn describes the form of the Lord of Kanur, and the name of the presiding deity, Semmeninathar, the Lord of the red body, recalls that radiant form. The locality is also called Manalmedu, the sandy mound, a name that speaks of the river that has shaped this place. Tradition links the site with the early Chola king Karikala, though the patrons of the present structure are not firmly known. Remote and little changed, it remains a place of quiet, steady worship.",
-    "architecture": "The temple faces east and is modest in scale, entered beneath a two-tiered rajagopuram whose ceiling carries carved reliefs of the solar and lunar eclipses. The sanctum of Semmeninathar holds the linga, honoured as swayambhu, self-manifested. The goddess Sivayoga Nayaki has her own shrine facing south, crowned by a vesara-style vimana. Beyond the walls, the Kollidam and open fields give the temple a setting of rare stillness, far from the crowds of the larger Kaveri shrines.",
-    "legends": "Three old traditions gather at Tirukkanur. In one, the goddess Parvati performed penance at this place, and Shiva appeared before her as a blazing fire, red as flame, and so came to be called Semmeninathar, the red-bodied Lord. In another, the sage Parasurama worshipped Shiva here to be freed from the burden of his deeds as a warrior. The third is the story of the sugarcane: the temple, it is said, lay hidden beneath drifted river sand until a shepherd came upon it, with a single sugarcane growing from the spot. From karumbu, the Tamil word for sugarcane, the Lord is also called Karumbeswarar. Each is a tradition of the place and is told as such.",
-    "festivals": "The most distinctive observance here is the sun's own worship. In the Tamil month of Panguni, around the first days of April, the morning rays are reported to fall on the linga for about three days, and the temple keeps these as a festival of Surya's homage. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Tirukkanur is for those who prefer solitude to spectacle. The temple is small, the road ends in a rough track, and the priest comes from the nearby town, so plan the visit in daylight and arrange it beforehand. Offer prayers to Semmeninathar, then to Sivayoga Nayaki in her south-facing shrine, and look up at the eclipse reliefs on the gopuram ceiling. If the day is clear, linger by the Kollidam; the sandy ground and the open sky explain why the place was once called Manalmedu."
+    "history": "तिरुक्कनूर तंजावूर जिल्ह्यात कोल्लिडमच्या काठावर, तिरुक्कट्टुपळ्ळीपासून काही किलोमीटरवर वसले आहे, आणि संबंदर व अप्पर यांनी तेवारममध्ये स्तुती केलेल्या, कावेरीच्या उत्तरेकडील शिव मंदिरांपैकी, पाडल पेत्र स्थळांमध्ये गणले जाते. अप्पर यांचे पद कनूरच्या प्रभूंच्या रूपाचे वर्णन करते, आणि मूळ देवतेचे नाव, सेम्मेनिनाथर, म्हणजे लाल देहाचे प्रभू, त्या तेजस्वी रूपाचे स्मरण करून देते. या परिसराला मणलमेडु, म्हणजे वाळूचा ढिगारा, असेही म्हणतात; हे नाव या स्थळाला आकार देणाऱ्या नदीबद्दल सांगते. परंपरा या स्थळाचा संबंध आरंभीचा चोळ राजा करिकाल याच्याशी जोडते, तरीही सध्याच्या वास्तूचे आश्रयदाते निश्चितपणे ज्ञात नाहीत. दुर्गम आणि फारसे न बदललेले हे मंदिर शांत, स्थिर उपासनेचे स्थान राहिले आहे.",
+    "architecture": "मंदिर पूर्वाभिमुख असून आकाराने साधे आहे; दोन मजली राजगोपुरातून आत प्रवेश होतो, ज्याच्या छतावर सूर्यग्रहण आणि चंद्रग्रहणाची कोरीव उठावशिल्पे आहेत. सेम्मेनिनाथरांच्या गर्भगृहात लिंग आहे, जे स्वयंभू, स्वतः प्रकट झालेले, म्हणून पूजिले जाते. देवी शिवयोग नायकी हिचे स्वतंत्र दक्षिणाभिमुख देवस्थान आहे, ज्यावर वेसर शैलीचे विमान आहे. तटाबाहेर कोल्लिडम आणि मोकळी शेते मंदिराला दुर्मीळ शांततेची पार्श्वभूमी देतात, मोठ्या कावेरी मंदिरांच्या गर्दीपासून दूर.",
+    "legends": "तिरुक्कनूर येथे तीन जुन्या परंपरा एकवटल्या आहेत. एकीत देवी पार्वतीने या ठिकाणी तपश्चर्या केली, आणि शिव ज्वालेसारख्या लाल, धगधगत्या अग्नीच्या रूपात तिच्यासमोर प्रकट झाले, म्हणून त्यांना सेम्मेनिनाथर, लाल देहाचे प्रभू, म्हटले गेले. दुसरीत परशुराम ऋषींनी योद्धा म्हणून केलेल्या कर्मांच्या भारातून मुक्त होण्यासाठी येथे शिवाची पूजा केली. तिसरी उसाची कथा आहे: मंदिर वाहून आलेल्या नदीच्या वाळूखाली दडलेले होते, जोपर्यंत एका मेंढपाळाला ते सापडले नाही, आणि त्या जागी एकच ऊस उगवला होता असे सांगितले जाते. करुंबु, म्हणजे तमिळमध्ये ऊस, यावरून प्रभूंना करुंबेश्वरर असेही म्हणतात. प्रत्येक कथा त्या स्थळाची परंपरा आहे आणि तशीच सांगितली जाते.",
+    "festivals": "येथील सर्वांत वैशिष्ट्यपूर्ण विधी म्हणजे स्वतः सूर्याची उपासना. तमिळ पंगुनी महिन्यात, एप्रिलच्या पहिल्या दिवसांच्या सुमारास, सकाळची किरणे सुमारे तीन दिवस लिंगावर पडतात असे सांगितले जाते, आणि मंदिर हे दिवस सूर्याच्या वंदनेचा उत्सव म्हणून पाळते. महाशिवरात्री आणि मासिक प्रदोष प्रत्येक शिव मंदिराप्रमाणे पाळले जातात. तारखा तमिळ पंचांगानुसार ठरतात, म्हणून त्या स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुक्कनूर हे दिमाखापेक्षा एकांत आवडणाऱ्यांसाठी आहे. मंदिर लहान आहे, रस्ता खडबडीत वाटेवर संपतो, आणि पुजारी जवळच्या गावातून येतात, म्हणून भेट दिवसाच्या प्रकाशात आणि आधी व्यवस्था करून ठरवा. सेम्मेनिनाथरांना, मग त्यांच्या दक्षिणाभिमुख देवस्थानातील शिवयोग नायकीला प्रार्थना अर्पण करा, आणि गोपुराच्या छतावरील ग्रहणाच्या उठावशिल्पांकडे पाहा. दिवस स्वच्छ असेल तर कोल्लिडमकाठी रेंगाळा; वाळूची जमीन आणि मोकळे आकाश हे स्थान पूर्वी मणलमेडु का म्हटले जाई हे स्पष्ट करतात."
   },
   "visit": {
-    "timings": "Reported hours are a short morning window (about 10:00 to 11:30) and a late-afternoon window (about 3:30 to 5:00). The priest travels from Tirukkattupalli, so contact him or the temple in advance and confirm timings locally.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the temple.",
-    "photography": "Photography is generally permitted in the outer areas but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask the priest before photographing rituals.",
-    "gettingThere": "Tirukkanur stands on the bank of the Kollidam in Thanjavur district, about 6 km from Tirukkattupalli, which is as far as the buses go. From there, hire an auto-rickshaw or car; the last stretch is an unpaved road, so a daylight visit is advised. Budhalur is the nearest listed railway station, and Tiruchirappalli the nearest airport."
+    "timings": "नोंदवलेल्या वेळा सकाळची थोडी खिडकी (सुमारे १०:०० ते ११:३०) आणि दुपारनंतरची खिडकी (सुमारे ३:३० ते ५:००) अशा आहेत. पुजारी तिरुक्कट्टुपळ्ळीहून येतात, म्हणून त्यांच्याशी किंवा मंदिराशी आधी संपर्क साधावा आणि वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले. पादत्राणे मंदिराबाहेर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार, बाहेरील भागात छायाचित्रणास साधारणतः परवानगी आहे, परंतु अंतर्गत गर्भगृहात ते निषिद्ध आहे. विधींचे छायाचित्र काढण्यापूर्वी पुजाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुक्कनूर तंजावूर जिल्ह्यात कोल्लिडमच्या काठावर, तिरुक्कट्टुपळ्ळीपासून सुमारे ६ किमी अंतरावर आहे; बसेस तेथपर्यंतच जातात. तेथून ऑटोरिक्षा किंवा गाडी भाड्याने घ्यावी; शेवटचा टप्पा कच्चा रस्ता आहे, म्हणून दिवसाच्या प्रकाशात भेट देण्याचा सल्ला आहे. बुधलूर हे सर्वात जवळचे नोंदवलेले रेल्वे स्थानक आहे, आणि तिरुचिरापल्ली सर्वात जवळचे विमानतळ."
   }
 }

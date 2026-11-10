@@ -1,36 +1,43 @@
 {
   "id": "adbhuta-narayana-thrikkodithanam",
   "locale": "mr",
+  "name": "अद्भुत नारायण मंदिर, तृक्कोडित्तानम्",
   "nativeName": "തൃക്കൊടിത്താനം മഹാവിഷ്ണു ക്ഷേത്രം",
+  "deity": "विष्णू अद्भुत नारायण, 'अद्भुत नारायण' रूपात, चतुर्भुज रूपात उभे",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thrikkodithanam, Kottayam district",
-    "state": "Kerala",
+    "city": "तृक्कोडित्तानम्, कोट्टायम जिल्हा",
+    "state": "केरळ",
     "lat": 9.438,
     "lng": 76.562
   },
+  "period": "मलै नाडूचे एक दिव्य देसम्, नम्माळ्वार यांनी नालायिर दिव्य प्रबंधम्मध्ये गायिलेले",
   "century": 8,
+  "dynasty": "चेर पेरुमाळ (नंतरच्या केरळ आश्रयदात्यांसह)",
+  "style": "केरळ",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "pancha-pandava-temples"
   ],
+  "summary": "चंगनाशेरीजवळ, तृक्कोडित्तानम् येथे विष्णूची अद्भुत नारायण रूपात पूजा होते — नम्माळ्वार यांनी गायिलेले एक मलै नाडू दिव्य देसम्, जे परंपरेनुसार पांडवांतील सर्वांत धाकटा सहदेव याने प्रतिष्ठापित केले असे मानले जाते.",
   "sections": {
-    "history": "Thrikkodithanam — Thirukkadithanam in the hymns — is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and a shrine of Malai Nadu praised by Nammalvar. It stands in the green country just east of Changanassery in Kottayam district. Its origins are placed by tradition in the age of the Chera Perumals. It is also one of five temples of the region that tradition links with the Pandava brothers.",
-    "architecture": "The temple follows the Kerala manner: a sanctum (srikovil) beneath sloping roofs, enclosed by the nalambalam cloister, within a walled compound entered past the balikkal altar stone and the flagstaff. The four-armed image of Vishnu stands in the sanctum. The compound keeps the restrained timber-and-stone architecture shared by the other Pandava shrines of the region.",
-    "legends": "Tradition holds that after the Mahabharata war the five Pandavas came to this country and each consecrated a shrine of Vishnu: Yudhishthira at Thrichittatt, Bhima at Puliyur, Arjuna at Aranmula, Nakula at Thiruvanvandoor — and Sahadeva, the youngest, here at Thrikkodithanam. The lord he enshrined is worshipped as Adbhuta Narayana, 'the wondrous Narayana'. Pilgrims sometimes honour the five brothers by visiting all five temples together as a single circuit.",
-    "festivals": "The annual festival is celebrated with flag hoisting and processions, and the festival of lamps on Karthika in the month of Vrischikam (November–December) fills the temple with flame. Vaikunta Ekadashi is also observed with special worship, and devotees making the circuit of the five Pandava temples often include Thrikkodithanam.",
-    "experience": "Thrikkodithanam is a village temple of deep calm, close enough to Changanassery for an easy visit yet far from the town's noise. Come at dusk to see the lamps lit along the compound, and consider joining the circuit of the Pandava shrines that continues south around Chengannur and Aranmula."
+    "history": "तृक्कोडित्तानम् — स्तोत्रांमध्ये तिरुक्कडित्तानम् — हे १०८ दिव्य देसम्पैकी एक आहे, आळ्वारांनी नालायिर दिव्य प्रबंधम्मध्ये गायिलेली विष्णूची निवासस्थाने, आणि नम्माळ्वार यांनी स्तुतिलेले मलै नाडूचे एक मंदिर. ते कोट्टायम जिल्ह्यात चंगनाशेरीच्या अगदी पूर्वेकडील हिरव्यागार प्रदेशात आहे. परंपरा त्याची उत्पत्ती चेर पेरुमाळांच्या काळात मानते. पांडव बंधूंशी परंपरेने जोडल्या गेलेल्या त्या प्रदेशातील पाच मंदिरांपैकीही ते एक आहे.",
+    "architecture": "मंदिर केरळ शैलीचे अनुसरण करते: उतरत्या छपरांखालील गर्भगृह (श्रीकोविल), नलम्बलम् प्रदक्षिणामार्गाने वेढलेले, एका भिंतींच्या आवारात ज्यात बलिक्कल वेदीशिळा व ध्वजस्तंभ ओलांडून प्रवेश होतो. विष्णूची चतुर्भुज मूर्ती गर्भगृहात उभी आहे. आवारात त्या प्रदेशातील इतर पांडव मंदिरांची संयमित लाकूड-व-दगडी वास्तुकला जपलेली आहे.",
+    "legends": "परंपरा सांगते की महाभारत युद्धानंतर पाचही पांडव या प्रदेशात आले आणि प्रत्येकाने विष्णूचे एक मंदिर प्रतिष्ठापित केले: युधिष्ठिराने तृच्चिट्टट्ट येथे, भीमाने पुलियूर येथे, अर्जुनाने अरण्मुला येथे, नकुलाने तिरुवन्वंदूर येथे — आणि सर्वांत धाकटा सहदेव याने येथे तृक्कोडित्तानम् येथे. त्याने प्रतिष्ठापित केलेल्या स्वामीची अद्भुत नारायण, 'अद्भुत नारायण' या रूपात पूजा होते. भक्त कधीकधी पाचही मंदिरांना एकत्र एका प्रवासाच्या स्वरूपात भेट देऊन पाचही बंधूंचा सन्मान करतात.",
+    "festivals": "वार्षिक उत्सव ध्वजारोहण व मिरवणुकांसह साजरा होतो, आणि वृश्चिकम् महिन्यातील (नोव्हेंबर–डिसेंबर) कार्तिका दीपोत्सव मंदिर दिव्यांनी भरून टाकतो. वैकुंठ एकादशीही विशेष पूजेसह पाळली जाते, आणि पाच पांडव मंदिरांचा प्रवास करणारे भक्त बहुधा तृक्कोडित्तानम्चा समावेश करतात.",
+    "experience": "तृक्कोडित्तानम् हे खोल शांततेचे एक गावातील मंदिर आहे, सहज भेटीसाठी चंगनाशेरीइतके जवळ, तरीही शहराच्या गजबजाटापासून दूर. आवारात लावलेले दिवे पाहण्यासाठी संध्याकाळी या, आणि चेंगन्नूर व अरण्मुलाभोवती दक्षिणेकडे चालू राहणाऱ्या पांडव मंदिरांच्या प्रवासात सामील होण्याचा विचार करा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure, following the temple's own schedule; festival days are crowded. Confirm current timings locally before you visit.",
-    "dressCode": "Traditional dress is expected: by Kerala temple custom men usually enter bare-chested in a mundu or dhoti, and women in saree or other traditional dress; footwear is left outside. Follow posted rules and the guidance of temple staff.",
-    "photography": "Photography is not permitted in and around the sanctum; follow posted rules and the guidance of temple staff.",
-    "gettingThere": "Thrikkodithanam is a short drive east of Changanassery in Kottayam district. Changanassery has a railway station on the Ernakulam–Kottayam–Kollam line, Kottayam is nearby, and Kochi has the nearest airport."
+    "timings": "मंदिराच्या स्वतःच्या वेळापत्रकानुसार दररोज सकाळ व संध्याकाळचे दर्शन व दुपारी बंद असते; उत्सवाच्या दिवशी गर्दी असते. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर निश्चित करून घ्या.",
+    "dressCode": "पारंपरिक वस्त्र अपेक्षित आहे: केरळ मंदिराच्या प्रथेनुसार पुरुष सामान्यतः मुंडू किंवा धोतर नेसून उघड्या छातीने आणि स्त्रिया साडी किंवा इतर पारंपरिक वस्त्रात प्रवेश करतात; पादत्राणे बाहेर ठेवली जातात. लावलेले नियम व मंदिर कर्मचाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणास परवानगी नाही; लावलेले नियम व मंदिर कर्मचाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "तृक्कोडित्तानम् हे कोट्टायम जिल्ह्यात चंगनाशेरीपासून थोड्या अंतरावर पूर्वेस आहे. चंगनाशेरीत एर्नाकुलम–कोट्टायम–कोल्लम मार्गावर रेल्वे स्थानक आहे, कोट्टायम जवळ आहे, आणि कोची येथे सर्वांत जवळचे विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/adbhuta-narayana-thrikkodithanam.jpg",
     "color": "#5C3A2E",
-    "alt": "Adbhuta Narayana Temple, Thrikkodithanam",
+    "alt": "अद्भुत नारायण मंदिर, तृक्कोडित्तानम्",
     "credit": "Kannanshanmugam,shanmugamstudio,Kollam / Wikimedia Commons (CC BY 3.0) · Anoopgnm / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
       "avif": "https://media.dsquaregee.com/heroes/adbhuta-narayana-thrikkodithanam.avif",

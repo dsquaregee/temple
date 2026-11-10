@@ -1,30 +1,37 @@
 {
   "id": "papanasanathar-papanasam",
   "locale": "mr",
+  "name": "पापनाशनाथर मंदिर, पापनाशम",
   "nativeName": "பாபநாசநாதர் கோயில், பாபநாசம்",
+  "deity": "पापनाशनाथर रूपातील शिव, देवी उलगम्माईसह",
+  "tradition": "शैव धर्म",
   "location": {
-    "city": "Papanasam",
-    "state": "Tamil Nadu",
+    "city": "पापनाशम",
+    "state": "तमिळनाडू",
     "lat": 8.7133,
     "lng": 77.4058
   },
+  "period": "नव कैलासमपैकी पहिले, सूर्याशी निगडित स्थान; पांड्य स्थापना, विजयनगर आणि नायक राज्यकर्त्यांच्या काळात विस्तार",
   "century": 12,
+  "dynasty": "पांड्य, विजयनगर आणि नायक यांच्या भर घालून",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "जिथे तामिरभरणी नदी पश्चिम घाटातून बाहेर पडते, तिथे पापनाशनाथर — पापांचा नाश करणारे प्रभू शिव — नव कैलासमच्या यात्रेकरूंचे पहिले स्वागत करतात; हे स्थान सूर्याशी निगडित आहे.",
   "sections": {
-    "history": "Papanasam stands at the very head of the Tamiraparani's journey across the plains, where the river comes down from the Western Ghats past the Agasthiyar Falls and the town spreads along its bank in Tirunelveli district. The temple of Papanasanathar is the first of the Nava Kailasam, the nine Shiva shrines strung along the river to the sea, and the one linked with the Sun. Its foundation is credited to the Pandya kings of the south, and in the sixteenth century the rulers of Vijayanagara and their Nayaka governors enlarged it with halls and towers. For centuries it has drawn pilgrims who come first to bathe in the river and then to worship the lord whose very name promises release from sin.",
-    "architecture": "The temple is built in granite in the Dravidian manner and faces the river, entered through a rajagopuram of seven tiers. Within the enclosures stand the sanctum of Papanasanathar, worshipped as a lingam, and the separate shrine of the Goddess Ulagammai, the mother of the world, joined by pillared mandapas of the later Nayaka age. Steps lead down from the temple to the bathing ghat on the Tamiraparani, so that the sacred bath and the darshan form one continuous act of worship, with the forested slopes of the Ghats rising close behind.",
-    "legends": "The sthala purana tells that when Shiva and Parvati were wed on Kailasa, the whole world gathered in the north and the earth tilted under the weight. Shiva sent the sage Agastya south to restore its balance, promising him a vision of the divine wedding in the south; at Papanasam the lord appeared to Agastya and his wife Lopamudra in his bridal form. The Nava Kailasam tradition adds that Agastya's disciple, the sage Romasa, floated nine lotuses on the river and installed a lingam wherever each came ashore — and the first of them settled here. Another account says Indra was freed of his sin by bathing and worshipping here, giving the place its name.",
-    "festivals": "The great festival falls in the Tamil month of Chithirai, when the vision of the divine wedding granted to Agastya is celebrated at the start of the month and the lord is taken in procession over the following days. Thaipoosam brings crowds to bathe in the river, and Maha Shivaratri and the monthly pradosham are kept with devotion; the new-moon days, above all Aadi Amavasai, draw families to the ghat. Confirm dates locally.",
-    "experience": "Papanasam is a place where the river is as much a part of worship as the shrine: pilgrims bathe at the ghat, feed the fish that crowd the shallows, and climb to the temple with wet hair and the sound of water behind them. It is the natural starting point of the Nava Kailasam round, which follows the Tamiraparani downstream through eight more villages to the sea, and lies close to the Agasthiyar Falls and the Papanasam dam."
+    "history": "पापनाशम तामिरभरणी नदीच्या मैदानातील प्रवासाच्या अगदी उगमाशी वसले आहे, जिथे नदी अगस्त्यार धबधब्यावरून पश्चिम घाटातून खाली येते आणि तिरुनेलवेली जिल्ह्यात तिच्या काठाने हे शहर पसरले आहे. पापनाशनाथर मंदिर हे नव कैलासमपैकी पहिले आहे — समुद्रापर्यंत नदीकाठी वसलेली नऊ शिवमंदिरे — आणि सूर्याशी निगडित आहे. त्याची स्थापना दक्षिणेतील पांड्य राजांच्या नावावर नोंदवली जाते, आणि सोळाव्या शतकात विजयनगरचे राज्यकर्ते आणि त्यांच्या नायक प्रशासकांनी मंडप आणि गोपुरे बांधून ते विस्तारले. शतकानुशतके यात्रेकरू येथे प्रथम नदीत स्नान करून नंतर ज्याचे नावच पापमुक्तीचे वचन देते त्या प्रभूची पूजा करण्यास येतात.",
+    "architecture": "मंदिर ग्रॅनाइटमध्ये द्रविड पद्धतीने बांधलेले असून नदीकडे तोंड करून आहे; सात मजली राजगोपुरातून त्यात प्रवेश होतो. प्राकारांत पापनाशनाथराचे लिंगरूपात पूजले जाणारे गर्भगृह आहे आणि जगन्माता देवी उलगम्माईची स्वतंत्र देवळी आहे; नायक काळातील स्तंभयुक्त मंडप त्यांना जोडतात. मंदिरापासून तामिरभरणीवरील स्नानघाटापर्यंत पायऱ्या उतरतात, त्यामुळे पवित्र स्नान आणि दर्शन ही एकच अखंड उपासना ठरते, आणि घाटाच्या वनाच्छादित उतार मागे जवळच उंचावलेले दिसतात.",
+    "legends": "स्थलपुराण सांगते की कैलासावर शिव आणि पार्वतीचा विवाह झाला तेव्हा संपूर्ण जग उत्तरेत जमले आणि भाराने पृथ्वी कलली. तिचा तोल पुन्हा साधण्यासाठी शिवाने अगस्त्य ऋषींना दक्षिणेकडे पाठवले आणि त्यांना दक्षिणेत दिव्य विवाहाचे दर्शन घडवण्याचे वचन दिले; पापनाशम येथे प्रभू अगस्त्य आणि त्यांची पत्नी लोपामुद्रा यांना वधूवराच्या रूपात प्रकट झाले. नव कैलासम परंपरा पुढे सांगते की अगस्त्यांचे शिष्य रोमस ऋषींनी नदीत नऊ कमळे सोडली आणि प्रत्येक कमळ जिथे किनाऱ्याला लागले तिथे एक लिंग प्रतिष्ठापित केले — आणि त्यांतले पहिले येथे स्थिरावले. दुसरे कथन सांगते की इंद्र येथे स्नान आणि पूजा करून आपल्या पापातून मुक्त झाला, आणि त्यावरून या स्थानाला नाव मिळाले.",
+    "festivals": "मोठा उत्सव तमिळ चित्तिरै महिन्यात येतो, जेव्हा महिन्याच्या आरंभी अगस्त्यांना लाभलेल्या दिव्य विवाह दर्शनाचा सोहळा साजरा होतो आणि पुढील दिवसांत प्रभूची मिरवणूक काढली जाते. थाईपूसमला नदीत स्नान करण्यासाठी गर्दी जमते, आणि महाशिवरात्री व मासिक प्रदोष भक्तिभावाने पाळले जातात; अमावस्येचे दिवस, विशेषतः आडी अमावसई, कुटुंबांना घाटाकडे आकर्षित करतात. तिथी स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "पापनाशम हे असे स्थान आहे जिथे नदी ही देवळाइतकीच उपासनेचा भाग आहे: यात्रेकरू घाटावर स्नान करतात, उथळ पाण्यात गर्दी करणाऱ्या माशांना खाऊ घालतात, आणि ओल्या केसांनी, मागे पाण्याचा आवाज घेऊन मंदिराकडे चढतात. तामिरभरणीच्या प्रवाहासोबत आणखी आठ गावांतून समुद्रापर्यंत जाणाऱ्या नव कैलासम यात्रेचा हे स्वाभाविक प्रारंभ बिंदू आहे, आणि अगस्त्यार धबधबा व पापनाशम धरणाच्या जवळ आहे."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Chithirai festival days, Thaipoosam and new-moon days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance. Take care on the river steps, which can be slippery.",
-    "gettingThere": "Papanasam lies in Tirunelveli district at the foot of the Western Ghats, about 50–60 km west of Tirunelveli by road via Cheranmahadevi and Ambasamudram, and about 10 km beyond Ambasamudram. Ambasamudram is the nearest railway station on the Tirunelveli–Tenkasi line; Thoothukudi and Thiruvananthapuram are the nearest airports."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन सत्रांसह खुले असते, मधल्या दुपारी बंद असते; चित्तिरै उत्सवाचे दिवस, थाईपूसम आणि अमावस्येचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर निश्चित करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. अनेक दक्षिणेतील मंदिरांप्रमाणे पुरुषांना गर्भगृहासमोर वरचे वस्त्र काढण्यास पारंपरिकरीत्या सांगितले जाते; लावलेले नियम पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा. नदीकडील पायऱ्यांवर काळजी घ्या, त्या निसरड्या असू शकतात.",
+    "gettingThere": "पापनाशम तिरुनेलवेली जिल्ह्यात पश्चिम घाटाच्या पायथ्याशी असून तिरुनेलवेलीपासून चेरन्महादेवी आणि अंबासमुद्रम मार्गे रस्त्याने सुमारे ५०-६० किमी पश्चिमेला, आणि अंबासमुद्रमच्या पुढे सुमारे १० किमी अंतरावर आहे. तिरुनेलवेली-तेनकासी मार्गावरील अंबासमुद्रम हे जवळचे रेल्वे स्थानक आहे; तुतुकुडी आणि तिरुवनंतपुरम ही जवळची विमानतळे आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",

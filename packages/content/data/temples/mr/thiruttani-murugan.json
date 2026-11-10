@@ -1,30 +1,37 @@
 {
   "id": "thiruttani-murugan",
   "locale": "mr",
+  "name": "तिरुत्तणी मुरुगन मंदिर",
   "nativeName": "திருத்தணி முருகன் கோயில்",
+  "deity": "मुरुगन, सुब्रह्मण्य रूपात पूजिले जाणारे",
+  "tradition": "कौमारम, शैव परंपरेतील मुरुगनाची उपासना",
   "location": {
-    "city": "Thiruttani",
-    "state": "Tamil Nadu",
+    "city": "तिरुत्तणी",
+    "state": "तमिळनाडू",
     "lat": 13.1766,
     "lng": 79.6119
   },
+  "period": "आरंभ-मध्ययुगीन डोंगरावरील मंदिर, नंतरच्या शतकांत विस्तारलेले",
   "century": 9,
+  "dynasty": "पल्लव, चोळ आणि नंतरचे",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "arupadai-veedu"
   ],
+  "summary": "मुरुगनाच्या सहा निवासांपैकी पाचवे, तमिळनाडूच्या अगदी उत्तरेकडील लहानशा टेकडीवरील तिरुत्तणी हे असे स्थान आहे जेथे, परंपरेनुसार, योद्धा देवाचा क्रोध युद्धानंतर शांत झाला — ३६५ पायऱ्यांनी गाठावयाचे शांततेचे तीर्थ.",
   "sections": {
-    "history": "Set on a hill in the north of the Tamil country near the Andhra border, Thiruttani has been a Murugan shrine since early times, developed across the Pallava and Chola periods and cherished by the Tamil hymnists. The saint-poet Arunagirinathar sang its praises in the Thiruppugazh, and in later centuries the composer Muthuswami Dikshitar was associated with the temple, so that Thiruttani holds a place in Tamil devotion and in the Carnatic musical tradition alike.",
-    "architecture": "The temple crowns a small hill reached by 365 steps, one for each day of the year, a climb that is itself a daily offering for many. The hilltop sanctum enshrines Subramanya with his consorts, and pillared halls and shrines cluster within the walls. The setting is open and airy, the plains of the northern Tamil country spreading below, and the modest scale of the complex lends it an intimacy that its great festival crowds only heighten.",
-    "legends": "Thiruttani takes its name and its character from peace. After the fierce war against the asuras, the god is said to have come here and let his anger subside — thani, to cool or settle — so that this is the abode of the pacified warrior. It is also honoured as a place linked to his union with Valli, the hunter’s daughter, whom he wooed away from the hills; and here the boy-god of victory is worshipped in his gentler aspect, granting calm to those who climb to him.",
-    "festivals": "The temple is famous for its New Year observance, when at the turn of the year vast crowds climb the 365 steps through the night to greet the first dawn before the god. Skanda Sashti, Vaikasi Visakam, and Thai Poosam are kept with processions and abhishekam, and the recitation of Arunagirinathar’s Thiruppugazh is especially dear here. Devotees carry milk and kavadi up the steps in fulfilment of vows through the festival season.",
-    "experience": "The climb of 365 steps sets the rhythm of a Thiruttani visit — an ascent counted in days, taken slowly, with the plains opening wider at each turn. At the top the air moves freely and the sanctum is calm, in keeping with the god’s peace that the place remembers. Many come at the New Year to begin the year at the god’s feet; others come on quiet mornings when only the wind and the bells are heard. The descent, with the whole country spread below, leaves visitors unhurried and settled."
+    "history": "आंध्र सीमेजवळ तमिळ प्रदेशाच्या उत्तरेकडील एका टेकडीवर वसलेले तिरुत्तणी हे अगदी प्राचीन काळापासून मुरुगनाचे तीर्थ आहे; पल्लव आणि चोळ काळात ते विकसित झाले आणि तमिळ स्तोत्रकारांना प्रिय राहिले. संतकवी अरुणगिरिनाथर यांनी तिरुप्पुगळमध्ये त्याची स्तुती गायली, आणि नंतरच्या शतकांत संगीतकार मुत्तुस्वामी दीक्षितर या मंदिराशी जोडले गेले, त्यामुळे तिरुत्तणीला तमिळ भक्तीमध्ये तसेच कर्नाटक संगीत परंपरेतही स्थान आहे.",
+    "architecture": "हे मंदिर ३६५ पायऱ्यांनी गाठावयाच्या लहान टेकडीच्या माथ्यावर आहे, वर्षाच्या प्रत्येक दिवसासाठी एक पायरी; अनेकांसाठी हा चढ स्वतःच रोजचे अर्पण आहे. टेकडीवरील गर्भगृहात सुब्रह्मण्य त्यांच्या पत्नींसह विराजमान आहेत, आणि भिंतींच्या आत स्तंभयुक्त सभामंडप आणि मंदिरे एकवटलेली आहेत. परिसर मोकळा आणि हवेशीर आहे, खाली उत्तर तमिळ प्रदेशाचे मैदान पसरलेले आहे, आणि संकुलाचा माफक आकार त्याला जिव्हाळा देतो, जो मोठ्या उत्सवाच्या गर्दीमुळे आणखीनच वाढतो.",
+    "legends": "तिरुत्तणीला त्याचे नाव आणि स्वरूप शांततेतून मिळाले आहे. असुरांविरुद्धच्या भीषण युद्धानंतर देव येथे आला आणि त्याने आपला क्रोध शमू दिला — 'तणि' म्हणजे थंड होणे किंवा स्थिर होणे — म्हणून हे शांत झालेल्या योद्ध्याचे निवासस्थान आहे. हे त्याच्या वल्ली, शिकाऱ्याची कन्या, हिच्याशी झालेल्या मीलनाशी जोडलेले स्थानही मानले जाते, जिला त्याने डोंगरांतून आपलेसे केले; आणि येथे विजयाचा बालदेव त्याच्या सौम्य रूपात पूजिला जातो, आणि जे त्याच्यापर्यंत चढून येतात त्यांना तो शांती देतो.",
+    "festivals": "हे मंदिर नववर्षाच्या विधीसाठी प्रसिद्ध आहे, जेव्हा वर्षाच्या वळणावर प्रचंड गर्दी रात्रभर ३६५ पायऱ्या चढून देवासमोर पहिल्या उषःकालाचे स्वागत करते. स्कंद षष्ठी, वैकासी विशाखम आणि थाई पूसम मिरवणुका आणि अभिषेकासह पाळले जातात, आणि अरुणगिरिनाथरांच्या तिरुप्पुगळचे पठण येथे विशेष प्रिय आहे. उत्सवकाळात भक्त नवस फेडण्यासाठी दूध आणि कावडी पायऱ्यांवरून वर नेतात.",
+    "experience": "३६५ पायऱ्यांचा चढ तिरुत्तणी भेटीची लय ठरवतो — दिवसांमध्ये मोजलेला, हळूहळू केलेला चढ, ज्यात प्रत्येक वळणावर मैदान अधिक रुंद उघडते. वर हवा मुक्तपणे वाहते आणि गर्भगृह शांत असते, देवाच्या ज्या शांततेचे हे स्थान स्मरण करते तिला साजेसे. अनेक जण वर्षाची सुरुवात देवाच्या चरणी करण्यासाठी नववर्षाला येतात; इतर शांत सकाळी येतात जेव्हा फक्त वारा आणि घंटांचा नाद ऐकू येतो. खाली उतरताना, संपूर्ण प्रदेश खाली पसरलेला पाहून, पाहुणे निवांत आणि स्थिर होतात."
   },
   "visit": {
-    "timings": "Generally open from around 5:30 am to 9:00 pm daily, with abhishekams through the day; hours extend greatly at the New Year and during festivals.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered. Footwear is left at the foot of the hill.",
-    "photography": "Photography is restricted around the sanctum; follow posted rules and staff guidance, especially during festivals.",
-    "gettingThere": "Thiruttani is in Tiruvallur district, about 85 km from Chennai and close to the Andhra border; it has its own railway station on the Chennai–Renigunta line, and Chennai airport is the nearest."
+    "timings": "साधारणपणे दररोज पहाटे ५:३० ते रात्री ९:०० पर्यंत उघडे असते, दिवसभर अभिषेक चालतात; नववर्षाला आणि उत्सवांच्या वेळी वेळा खूप वाढवल्या जातात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी किंवा सलवार कमीज, खांदे आणि गुडघे झाकलेले. पादत्राणे टेकडीच्या पायथ्याशी ठेवावीत.",
+    "photography": "गर्भगृहाभोवती छायाचित्रणावर निर्बंध आहेत; विशेषतः उत्सवांच्या वेळी लावलेले नियम आणि कर्मचाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुत्तणी तिरुवळ्ळूर जिल्ह्यात चेन्नईपासून सुमारे ८५ किमी अंतरावर आणि आंध्र सीमेजवळ आहे; चेन्नई–रेणिगुंटा मार्गावर त्याचे स्वतःचे रेल्वे स्थानक आहे, आणि चेन्नई विमानतळ जवळचे आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thiruttani-murugan.jpg",

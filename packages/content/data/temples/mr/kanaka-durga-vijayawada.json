@@ -1,28 +1,35 @@
 {
   "id": "kanaka-durga-vijayawada",
   "locale": "mr",
+  "name": "कनक दुर्गा मंदिर, इंद्रकीलाद्री",
   "nativeName": "కనక దుర్గ ఆలయం, ఇంద్రకీలాద్రి",
+  "deity": "कनक दुर्गा रूपातील देवी, महिषासुरमर्दिनी — रेड्याच्या रूपातील दैत्याचा संहार करणारी — टेकडीवर स्वयंभू प्रकटलेली",
+  "tradition": "शाक्त",
   "location": {
-    "city": "Vijayawada",
-    "state": "Andhra Pradesh",
+    "city": "विजयवाडा",
+    "state": "आंध्र प्रदेश",
     "lat": 16.5175,
     "lng": 80.6086
   },
+  "period": "कृष्णेच्या वरील इंद्रकीलाद्रीवरील स्वयंभू देवी क्षेत्र, प्राचीन परंपरेचे आणि आपल्या दसऱ्यासाठी प्रसिद्ध",
   "century": 9,
+  "dynasty": "शतकानुशतके कृष्णा प्रदेशातील राज्यकर्त्यांचा आश्रय लाभलेले",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [],
+  "summary": "विजयवाडा येथे कृष्णेच्या वरील इंद्रकीलाद्री टेकडीवर देवी कनक दुर्गा, महिषासुराचा संहार करणारी सुवर्णमयी, स्वयंभू आणि सदा जागृत, अशी विराजमान आहे. तिचा दसरा दक्षिणेतील सर्वांत मोठ्या देवी उत्सवांपैकी एक आहे.",
   "sections": {
-    "history": "Kanaka Durga crowns the Indrakeeladri hill in the heart of Vijayawada, looking down on the Krishna river as it broadens toward the delta. The Goddess here is held to be swayambhu — self-manifested — and is worshipped as Kanaka Durga, the golden Durga, in her form as Mahishasuramardini, the slayer of the buffalo-demon Mahishasura. One of the most revered Devi shrines of Andhra, it has been sustained and enlarged by the rulers and devotees of the Krishna country across the centuries.",
-    "architecture": "The temple sits atop the rocky Indrakeeladri, reached by long flights of steps and a ghat road, in the Dravidian manner of the Telugu country. Within the sanctum the Goddess stands with many arms, bearing her weapons and spearing the demon beneath her lion. Tradition holds that Adi Shankara installed the Sri Chakra here, and the hilltop setting above the river gives the shrine its commanding presence.",
-    "legends": "Two legends bind the hill. Here, it is said, Arjuna performed his great penance to Shiva and received the Pashupatastra — the reason the hill is called Indrakeela. And here the Goddess, invoked by the gods, slew Mahishasura, the buffalo-demon whom no man or god could kill, taking her place upon the hill as its ever-watchful guardian. She is worshipped as the victory of the divine feminine over unconquerable evil.",
-    "festivals": "Dasara — the nine nights of Navaratri — is the temple's great season, when the Goddess is adorned each day in a different form, from Bala Tripura Sundari to Durga and Mahishasuramardini, and immense crowds climb the hill. The float festival on the Krishna, Sakambari, and the river's Pushkaram draw pilgrims through the year.",
-    "experience": "To climb Indrakeeladri for the darshan of Kanaka Durga, with the Krishna spread out below, is one of the defining pilgrimages of Andhra — most of all in the Dasara nights, when the whole hill is lit and the Goddess is revealed in a new form with each dawn."
+    "history": "कनक दुर्गा विजयवाड्याच्या मध्यभागी इंद्रकीलाद्री टेकडीवर विराजमान आहे, आणि कृष्णा नदी त्रिभुज-प्रदेशाकडे रुंदावत जाताना तिला खाली न्याहाळते. येथील देवी स्वयंभू — स्वतः प्रकटलेली — मानली जाते, आणि कनक दुर्गा, सुवर्णमयी दुर्गा, म्हणून तिची पूजा होते; तिचे रूप महिषासुरमर्दिनी, रेड्याच्या रूपातील महिषासुर दैत्याचा संहार करणारी, असे आहे. आंध्रातील अत्यंत पूजनीय देवी क्षेत्रांपैकी हे एक असून कृष्णा प्रदेशातील राज्यकर्ते आणि भक्तांनी शतकानुशतके त्याला आधार दिला आणि त्याचा विस्तार केला आहे.",
+    "architecture": "मंदिर खडकाळ इंद्रकीलाद्रीच्या शिखरावर आहे, तेलुगू प्रदेशाच्या द्रविड पद्धतीने, लांब पायऱ्यांच्या मालिका आणि घाट रस्त्याने गाठण्यासारखे. गर्भगृहात देवी अनेक भुजांसह उभी आहे, आपली शस्त्रे धारण करून आणि आपल्या सिंहाखालील दैत्याला भाल्याने भोसकत. परंपरा सांगते की आदि शंकराचार्यांनी येथे श्रीचक्र प्रतिष्ठापित केले, आणि नदीच्या वरील टेकडीवरील स्थान मंदिराला भव्य रुबाब देते.",
+    "legends": "या टेकडीला दोन कथा बांधतात. येथे, असे सांगितले जाते, अर्जुनाने शिवाची महान तपश्चर्या केली आणि पाशुपतास्त्र प्राप्त केले — म्हणूनच टेकडीला इंद्रकील म्हणतात. आणि येथेच देवांच्या आवाहनावर देवीने महिषासुराचा, ज्याला कोणताही मनुष्य किंवा देव मारू शकत नव्हता अशा रेड्याच्या रूपातील दैत्याचा, वध केला, आणि टेकडीची सदा जागृत रक्षक म्हणून तिने आपले स्थान घेतले. अजिंक्य दुष्टावर दिव्य स्त्रीशक्तीचा विजय म्हणून तिची पूजा होते.",
+    "festivals": "दसरा — नवरात्रीच्या नऊ रात्री — हा मंदिराचा महान काळ आहे, जेव्हा देवीला दररोज वेगळ्या रूपात, बाल त्रिपुरसुंदरीपासून दुर्गा आणि महिषासुरमर्दिनीपर्यंत, सजवले जाते, आणि प्रचंड गर्दी टेकडी चढते. कृष्णेवरील तराफा उत्सव, साकंभरी, आणि नदीचा पुष्करम् वर्षभर यात्रेकरूंना आकर्षित करतात.",
+    "experience": "खाली पसरलेल्या कृष्णेसह कनक दुर्गेच्या दर्शनासाठी इंद्रकीलाद्री चढणे ही आंध्रातील निर्णायक यात्रांपैकी एक आहे — विशेषतः दसऱ्याच्या रात्री, जेव्हा संपूर्ण टेकडी उजळून निघते आणि प्रत्येक पहाटे देवी नव्या रूपात प्रकट होते."
   },
   "visit": {
-    "timings": "Open daily from early morning to night with paid and free darshan queues; Dasara (Navaratri) is by far the busiest, when the goddess is adorned in a different form each day. Confirm current timings and festival arrangements before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple crowns Indrakeeladri hill in the heart of Vijayawada, on the Krishna river in Andhra Pradesh; the city is a major road and rail junction, with steps and a ghat road up the hill and an airport nearby."
+    "timings": "दररोज पहाटेपासून रात्रीपर्यंत सशुल्क आणि मोफत दर्शन रांगांसह उघडे असते; दसरा (नवरात्र) सर्वाधिक गर्दीचा असतो, जेव्हा देवीला दररोज वेगळ्या रूपात सजवले जाते. भेटीपूर्वी सध्याच्या वेळा आणि उत्सव व्यवस्था खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "मंदिर आंध्र प्रदेशातील कृष्णा नदीवरील विजयवाड्याच्या मध्यभागी इंद्रकीलाद्री टेकडीच्या शिखरावर आहे; शहर हे रस्ते व रेल्वेचे प्रमुख जंक्शन असून टेकडीवर जाण्यासाठी पायऱ्या आणि घाट रस्ता आहे आणि जवळच विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kanaka-durga-vijayawada.jpg",

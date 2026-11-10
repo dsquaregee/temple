@@ -1,29 +1,40 @@
 {
   "id": "airavatheswarar-tirukkottaru",
   "locale": "mr",
+  "name": "ऐरावतेश्वरर मंदिर, तिरुक्कोट्टारु",
   "nativeName": "திருக்கோட்டாறு ஐராவதேஸ்வரர் கோயில்",
+  "deity": "ऐरावतेश्वरर रूपातील शिव, ऐरावताने पूजिलेले, देवी वंदार पूङ्कुळली (सुगंध कुंडलांबिकै) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Tirukkottaru, near Tirunallaru",
-    "state": "Tamil Nadu (Tiruvarur district; near Karaikal)",
+    "city": "तिरुक्कोट्टारु, तिरुनल्लारुजवळ",
+    "state": "तमिळनाडू (तिरुवारूर जिल्हा; कारैकलजवळ)",
     "lat": 10.89,
     "lng": 79.78
   },
+  "period": "तेवारम काळ (सातव्या शतकात स्तुती केलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कारैकलच्या सीमेवरील तिरुनल्लारुजवळ असलेल्या तिरुक्कोट्टारु येथे शिवाची ऐरावतेश्वरर — इंद्राचा श्वेत हत्ती ऐरावत याने पूजिलेले स्वामी — म्हणून, देवी वंदार पूङ्कुळलीसह, पूजा केली जाते. तिरुज्ञान संबंधर यांनी स्तुती केलेल्या या पाडल पेट्र स्थळम्ची कथा इंद्राचा हत्ती ऐरावत याच्यावरील दुर्वासांच्या माळेचे आणि त्रिभुज-प्रदेशातील या मंदिरात ऐरावताने पूजा करून स्वामींची कृपा पुन्हा मिळवल्याचे स्मरण करते.",
   "sections": {
-    "history": "Tirukkottaru, whose historical name is Tirukkottaaru, lies near Tirunallaru on the border of the Karaikal region, about 14 km from Karaikal and some 23 km from Mayiladuthurai. It is a Paadal Petra Sthalam of the Kaveri's southern bank, hymned in the Tevaram by Tirugnana Sambandar. Sources differ on the district — some place it in Tiruvarur district of Tamil Nadu, others under Karaikal — but it belongs to the Tamil Shaiva sacred geography of the lower delta. The stone temple is of the Chola period and later.",
-    "architecture": "The temple is a Dravidian delta shrine with Airavateswarar in the sanctum and the goddess Vandar Poonkuzhali — also called Sugandha Kundalambikai, 'she of the fragrant tresses' — in her own shrine, with a Nandi and the parivara devatas. The lord's name Airavateswarar marks him as the Shiva worshipped by Airavata, the celestial white elephant.",
-    "legends": "The sthala legend begins with the sage Durvasa, who received a fragrant garland while worshipping Shiva at Kailasa and gave it to Indra, king of the gods. Indra set the garland upon his elephant Airavata. By the turns of that story — in which the garland is slighted and a curse follows — Airavata came to be parted from his lord's full grace, and here at Tirukkottaru the white elephant is said to have worshipped Shiva and regained it, giving the lord the name Airavateswarar. The temple thus keeps alive one of the elephant-worship legends dear to the delta's Shaiva tradition.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail near Tirunallaru and Karaikal include Tirukkottaru among their stops.",
-    "experience": "Tirukkottaru offers the pilgrim a quiet shrine rich in the lore of Airavata, the elephant of the gods. Before Airavateswarar and Vandar Poonkuzhali, the visitor remembers the garland of Durvasa and the worship by which the white elephant regained grace — a small delta temple whose ancient name and legend outshine its modest size."
+    "history": "तिरुक्कोट्टारु, ज्याचे ऐतिहासिक नाव तिरुक्कोट्टाआरु आहे, कारैकल प्रदेशाच्या सीमेवर तिरुनल्लारुजवळ, कारैकलपासून सुमारे १४ कि.मी. आणि मयिलादुतुरैपासून सुमारे २३ कि.मी. अंतरावर आहे. हे कावेरीच्या दक्षिण काठावरील पाडल पेट्र स्थळम् असून तिरुज्ञान संबंधर यांनी तेवारममध्ये त्याची स्तुती केली आहे. जिल्ह्याबाबत स्रोतांमध्ये भिन्नता आहे — काही ते तमिळनाडूच्या तिरुवारूर जिल्ह्यात, तर काही कारैकलच्या अखत्यारीत दाखवतात — परंतु ते खालच्या त्रिभुज-प्रदेशातील तमिळ शैव पवित्र भूगोलाचा भाग आहे. येथील दगडी मंदिर चोळ काळातील व त्यानंतरचे आहे.",
+    "architecture": "हे मंदिर द्रविड शैलीतील त्रिभुज-प्रदेशातील आहे; गर्भगृहात ऐरावतेश्वरर विराजमान आहेत, तर देवी वंदार पूङ्कुळली — सुगंध कुंडलांबिकै, 'सुगंधित केशसंभार असलेली' नावानेही ओळखली जाणारी — आपल्या स्वतंत्र मंदिरात आहे; तसेच नंदी व परिवार देवता आहेत. स्वामींचे ऐरावतेश्वरर हे नाव त्यांना आकाशीय श्वेत हत्ती ऐरावताने पूजिलेले शिव म्हणून ओळख देते.",
+    "legends": "स्थलकथेची सुरुवात दुर्वास ऋषींपासून होते, ज्यांना कैलासावर शिवाची पूजा करताना एक सुगंधित माळ मिळाली आणि त्यांनी ती देवांचा राजा इंद्र याला दिली. इंद्राने ती माळ आपल्या ऐरावत हत्तीवर ठेवली. त्या कथेच्या वळणांनुसार — ज्यात माळेचा अनादर होतो आणि शाप मिळतो — ऐरावत आपल्या स्वामींच्या पूर्ण कृपेपासून दुरावला, आणि येथे तिरुक्कोट्टारु येथे त्या श्वेत हत्तीने शिवाची पूजा करून ती कृपा पुन्हा मिळवली असे सांगितले जाते, ज्यामुळे स्वामींना ऐरावतेश्वरर हे नाव मिळाले. अशा प्रकारे हे मंदिर त्रिभुज-प्रदेशातील शैव परंपरेला प्रिय असलेल्या हत्ती-पूजेच्या कथांपैकी एक जिवंत ठेवते.",
+    "festivals": "मंदिरात माघ (फेब्रुवारी–मार्च) महिन्यातील महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यातील नवरात्री आणि कार्तिगैच्या सोमवारी प्रदोष पूजेसह उत्सव साजरे होतात, गावातील लहानशा मंदिराच्या शांत स्वरूपात. तिरुनल्लारू व कारैकलजवळील पाडल पेट्र मार्गावरील यात्रेकरू तिरुक्कोट्टारुचा आपल्या थांब्यांमध्ये समावेश करतात.",
+    "experience": "तिरुक्कोट्टारु यात्रेकरूला देवांचा हत्ती ऐरावत याच्या कथांनी समृद्ध असे शांत मंदिर देते. ऐरावतेश्वरर आणि वंदार पूङ्कुळलीसमोर अभ्यागताला दुर्वासांची माळ आणि श्वेत हत्तीने पूजा करून कृपा पुन्हा मिळवल्याचे स्मरण होते — एक लहानसे त्रिभुज-प्रदेशातील मंदिर, ज्याचे प्राचीन नाव व कथा त्याच्या साध्या आकारापेक्षा मोठी आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkottaru is about 14 km from Karaikal, 5 km from Tirunallaru and some 12 km east of Peralam (on the Mayiladuthurai–Tiruvarur road); it is roughly 23 km from Mayiladuthurai. Karaikal and Mayiladuthurai are the nearest rail heads, with buses via Tirunallaru or Peralam and local taxis to the village."
+    "timings": "सामान्यतः पहाटे ते दुपारपर्यंत आणि पुन्हा सायंकाळी उशिरापासून रात्रीपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणामार्गात छायाचित्रणास सामान्यतः परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुक्कोट्टारु कारैकलपासून सुमारे १४ कि.मी., तिरुनल्लारुपासून ५ कि.मी. आणि पेरळमच्या (मयिलादुतुरै–तिरुवारूर मार्गावर) पूर्वेस सुमारे १२ कि.मी. अंतरावर आहे; मयिलादुतुरैपासून ते सुमारे २३ कि.मी. आहे. कारैकल आणि मयिलादुतुरै ही जवळची रेल्वे स्थानके आहेत; तिरुनल्लारु किंवा पेरळममार्गे बस आणि गावापर्यंत स्थानिक टॅक्सी उपलब्ध आहेत."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/airavatheswarar-tirukkottaru.mp3",
+    "durationSec": 192
   }
 }

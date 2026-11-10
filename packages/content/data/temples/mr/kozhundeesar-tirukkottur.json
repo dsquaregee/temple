@@ -1,29 +1,36 @@
 {
   "id": "kozhundeesar-tirukkottur",
   "locale": "mr",
+  "name": "कोळुन्दीश्वर मंदिर, तिरुक्कोट्टूर",
   "nativeName": "திருக்கோட்டூர் கொழுந்தீஸ்வரர் கோயில்",
+  "deity": "कोळुन्दीश्वर रूपातील शिव, देवी मधुरवासनांबिकेसह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम्",
   "location": {
-    "city": "Kottur (Tirukkottur), near Mannargudi",
-    "state": "Tamil Nadu",
+    "city": "कोट्टूर (तिरुक्कोट्टूर), मन्नारगुडीजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.62,
     "lng": 79.5
   },
+  "period": "तेवारम् कालखंड (७व्या शतकात स्तवन); नंतरचे चोल काळातील पाषाणमंदिर",
   "century": 7,
+  "dynasty": "चोल",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूर त्रिभुज प्रदेशात मन्नारगुडीजवळ वसलेले कोट्टूर येथे देवी मधुरवासनांबिकेसह कोळुन्दीश्वर रूपातील शिवाची पूजा होते. तिरुज्ञानसंबंदर यांनी स्तवन केलेले हे पाडल पेट्र स्थलम् — कावेरीच्या दक्षिण तीरावरील १११वे क्षेत्र — गुरु-स्थलम् म्हणून पूजनीय आहे, जिथे भगवान आणि देवी एकमेकांसमोर विराजमान आहेत.",
   "sections": {
-    "history": "Kottur, with the historical name Indirapuram, lies about 15 km from Mannargudi and 27 km from Tiruvarur, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and counted the 111th shrine on the southern bank of the Kaveri. Its inscriptions name Raja Raja Chola I, Rajadhiraja I and Kulothunga Chola III, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Kozhundeeswarar in the sanctum, with the goddess Madhuravasanaambikai — also Thenmozhippaavai — in her own shrine, a Nandi and the parivara devatas. The sanctums of Shiva and the goddess are set facing one another, an arrangement for which the temple is revered as a guru-sthalam. The walled courtyard keeps the form of the Shiva temples of the Tiruvarur delta.",
-    "legends": "The sthala legend recalls the demon Vritrasura and the vajra, the thunderbolt weapon made from the spine of the sage Dadichi, by which he was overcome. Shiva is worshipped here as Kozhundeeswarar, with the goddess Madhuravasanaambikai beside him; because the lord and the goddess face each other, the shrine is held a guru-sthalam. As with many delta shrines, the fuller sthala purana survives in local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Mannargudi tract include Kottur among their stops, for the guru-sthalam's sake.",
-    "experience": "At Kottur the pilgrim comes to the guru-sthalam of the delta. Before Kozhundeeswarar and Madhuravasanaambikai — who face one another across the shrine — in the country near Mannargudi, the visitor finds the quiet grace of a Tevaram temple and the memory of Dadichi's gift that overcame Vritrasura."
+    "history": "इंदिरापुरम् या ऐतिहासिक नावाने ओळखले जाणारे कोट्टूर मन्नारगुडीपासून सुमारे १५ किमी आणि तिरुवारूरपासून २७ किमी अंतरावर, तिरुवारूर जिल्ह्यात आहे. हे एक पाडल पेट्र स्थलम् असून तिरुज्ञानसंबंदर यांनी तेवारम् मध्ये याचे स्तवन केले आहे, आणि ते कावेरीच्या दक्षिण तीरावरील १११वे क्षेत्र मानले जाते. येथील शिलालेखांत राजराज चोल पहिला, राजाधिराज पहिला आणि कुलोत्तुंग चोल तिसरा यांची नावे आढळतात, आणि हे पाषाणमंदिर चोल काळातील व नंतरचे आहे.",
+    "architecture": "हे एक द्राविड त्रिभुज-प्रदेशीय मंदिर असून गर्भगृहात कोळुन्दीश्वर विराजमान आहेत, तर देवी मधुरवासनांबिका — जिला तेन्मोळिप्पावै असेही म्हणतात — स्वतंत्र मंदिरात आहे, सोबत नंदी आणि परिवार-देवता आहेत. शिव आणि देवीची गर्भगृहे एकमेकांसमोर ठेवलेली आहेत, आणि या रचनेमुळेच हे मंदिर गुरु-स्थलम् म्हणून पूजनीय आहे. तटबंदीयुक्त प्रांगण तिरुवारूर त्रिभुज प्रदेशातील शिवमंदिरांचे रूप जपते.",
+    "legends": "स्थल-कथा वृत्रासुर या दैत्याची आणि दधीची ऋषींच्या मणक्यांपासून बनलेल्या वज्र या अस्त्राची आठवण करून देते, ज्याने तो पराभूत झाला. येथे शिवाची कोळुन्दीश्वर रूपात पूजा होते, त्यांच्याजवळ देवी मधुरवासनांबिका आहे; भगवान आणि देवी एकमेकांसमोर असल्याने हे क्षेत्र गुरु-स्थलम् मानले जाते. अनेक त्रिभुज-प्रदेशीय क्षेत्रांप्रमाणेच, येथील अधिक विस्तृत स्थल-पुराण स्थानिक परंपरेत आणि संबंदर यांच्या अभंगांत जपले गेले आहे.",
+    "festivals": "मंदिरात मासी महिन्यात (फेब्रुवारी–मार्च) महाशिवरात्री, पुरट्टासी महिन्यात (सप्टेंबर–ऑक्टोबर) नवरात्री आणि कार्तिकैतील सोमवार प्रदोष पूजेसह साजरे होतात. मन्नारगुडी परिसराचे यात्रेकरू गुरु-स्थलम् म्हणून कोट्टूरचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "कोट्टूर येथे यात्रेकरू त्रिभुज प्रदेशाच्या गुरु-स्थलम् ला येतो. मन्नारगुडीजवळच्या या प्रदेशात एकमेकांसमोर विराजमान कोळुन्दीश्वर आणि मधुरवासनांबिकेसमोर उभे राहताना अभ्यागताला तेवारम् मंदिराची शांत कृपा आणि वृत्रासुराला पराभूत करणाऱ्या दधीचींच्या त्यागाची स्मृती अनुभवायला मिळते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kottur lies about 15 km from Mannargudi and 27 km from Tiruvarur, in Tiruvarur district. Mannargudi and Tiruvarur are the nearest towns and rail heads, with buses and taxis to the village."
+    "timings": "साधारणतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे; वेळा, विशेषतः उत्सवाच्या दिवशी, स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "साधी पारंपरिक वेशभूषा अपेक्षित आहे, खांदे आणि गुडघे झाकलेले असावेत; प्रवेशद्वाराजवळ पादत्राणे काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणामार्गांत छायाचित्रणास सहसा परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "कोट्टूर मन्नारगुडीपासून सुमारे १५ किमी आणि तिरुवारूरपासून २७ किमी अंतरावर, तिरुवारूर जिल्ह्यात आहे. मन्नारगुडी आणि तिरुवारूर ही जवळची शहरे व रेल्वेस्थानके असून गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
   }
 }

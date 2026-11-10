@@ -1,30 +1,37 @@
 {
   "id": "pillalamarri-erakeswara",
   "locale": "mr",
+  "name": "एरकेश्वर मंदिर, पिल्ललमर्री",
   "nativeName": "పిల్లలమర్రి ఎరకేశ్వర ఆలయం",
+  "deity": "शिव, एरकेश्वर म्हणून पूजिला जाणारा, पिल्ललमर्रीतील चार जुन्या दगडी मंदिरांपैकी एकात.",
+  "tradition": "शैव संप्रदाय",
   "location": {
-    "city": "Pillalamarri, Suryapet district",
-    "state": "Telangana",
+    "city": "पिल्ललमर्री, सूर्यापेट जिल्हा",
+    "state": "तेलंगणा",
     "lat": 17.1697,
     "lng": 79.5822
   },
+  "period": "काकतीय काळ, सुमारे इ.स. १२०८",
   "century": 13,
+  "dynasty": "काकतीय, त्यांच्या सामंत रेचर्ला घराण्याने बांधलेले",
+  "style": "काकतीय मंदिर स्थापत्य",
   "unesco": false,
   "circuits": [
     "kakatiya-temples"
   ],
+  "summary": "रेचर्ला सरदारांच्या एका स्त्रीने सुमारे इ.स. १२०८ मध्ये बांधलेले पिल्ललमर्री येथील एरकेश्वर मंदिर हे, कधीकाळी त्यांचे सत्ताकेंद्र असलेल्या गावातील सुरेख कोरीव शिवमंदिरांपैकी एक आहे.",
   "sections": {
-    "history": "Pillalamarri, just outside Suryapet, was a seat of the Recherla chiefs, who served the Kakatiya kings as feudatories. The Erakeswara Temple is dated to about 1208 CE and is associated with Erakasani, the wife of the Recherla chief Beti Reddi, who is remembered as its patron. It stands in a group of four old stone temples in the village, from the late twelfth and early thirteenth centuries, which includes the Nameswara Temple of about 1202, raised by Namireddi on the bank of the Musi river, and a Trikuteswara shrine, the \"lord of three shrines\". The group is admired for its carved stonework, and Pillalamarri is one of the few places where the artistry of the Recherla court, which also produced Ramappa, can be seen at close hand.",
-    "architecture": "Erakeswara is a stone temple in the Kakatiya manner, standing in a village setting among its sister temples. The Shiva sanctum and its hall show the finish for which the Kakatiya sculptors are known, with carved pillars, doorways and eaves worked with careful detail. As in other Kakatiya temples, the design is a measured composition of sanctum, hall and porch rather than a towering monument. Compared with the great temples of Warangal, it is modest in scale, and its charm lies in the quality of its carving and its setting among neighbouring shrines of the same age.",
-    "legends": "Erakeswara is known more through its patronage than through a famous legend. The temple is linked to Erakasani, a woman of the Recherla family, whose gift of a Shiva temple stands as an example of women's patronage in the Kakatiya country. Local tradition honours the group of four temples as a single sacred precinct of the Recherla chiefs, who also stood behind the Ramappa Temple, and speaks of Pillalamarri as a place where their devotion to Shiva took its most refined stone form.",
-    "festivals": "Shiva worship in the Telugu country is marked by Maha Shivaratri, observed in February or March, by Mondays, and by the month of Karthika in the autumn, and local devotees may gather at the Pillalamarri temples on such days. Confirm any observances and dates locally.",
-    "experience": "Pillalamarri is a quiet, rewarding stop for those who enjoy the carved detail of Kakatiya stonework. Because the four old temples lie close together, a visit can take in the Erakeswara, Nameswara and Trikuteswara shrines in a single unhurried walk. The setting is a working village, so expect a peaceful and local atmosphere rather than crowds. It pairs naturally with Ramappa, Kota Gullu and the Warangal monuments, though it lies at some distance from them, near Suryapet on the road between Hyderabad and Vijayawada."
+    "history": "सूर्यापेटच्या अगदी बाहेर असलेले पिल्ललमर्री हे रेचर्ला सरदारांचे सत्ताकेंद्र होते; ते काकतीय राजांचे सामंत म्हणून सेवा करत. एरकेश्वर मंदिराचा काळ सुमारे इ.स. १२०८ मानला जातो, आणि रेचर्ला सरदार बेटि रेड्डी यांची पत्नी एरकसानी हिच्याशी ते जोडले जाते, जिचे त्याची आश्रयदात्री म्हणून स्मरण केले जाते. बाराव्या शतकाच्या उत्तरार्धातील आणि तेराव्या शतकाच्या पूर्वार्धातील गावातील चार जुन्या दगडी मंदिरांच्या समूहात ते उभे आहे; यात मुसी नदीच्या काठी नमिरेड्डी यांनी बांधलेले सुमारे १२०२ चे नामेश्वर मंदिर आणि 'तीन देवालयांचा स्वामी' असलेले त्रिकूटेश्वर मंदिर यांचा समावेश आहे. या समूहातील कोरीव दगडी कामाचे कौतुक केले जाते, आणि रामप्पाही घडवणाऱ्या रेचर्ला दरबाराची कलाकुसर जवळून पाहता येणाऱ्या थोड्या ठिकाणांपैकी पिल्ललमर्री एक आहे.",
+    "architecture": "एरकेश्वर हे काकतीय शैलीतील दगडी मंदिर असून गावाच्या परिसरात आपल्या भगिनी मंदिरांमध्ये उभे आहे. शिवाचा गाभारा आणि त्याचा मंडप त्या रेखीवपणाचे दर्शन घडवतात ज्यासाठी काकतीय शिल्पकार ओळखले जातात; कोरीव खांब, दारे आणि छज्जे काळजीपूर्वक तपशिलांनी घडवलेले आहेत. इतर काकतीय मंदिरांप्रमाणेच याची रचना गाभारा, मंडप आणि प्रवेशमंडप यांची संतुलित मांडणी आहे, उत्तुंग वास्तू नव्हे. वरंगलच्या महान मंदिरांच्या तुलनेत ते आकाराने लहान आहे, आणि त्याचे आकर्षण त्याच्या कोरीवकामाच्या दर्जात आणि समकालीन शेजारी देवालयांमधील त्याच्या स्थानात आहे.",
+    "legends": "एरकेश्वर एखाद्या प्रसिद्ध आख्यायिकेपेक्षा आपल्या आश्रयदानाच्या कथेमुळे अधिक ओळखले जाते. हे मंदिर रेचर्ला घराण्यातील स्त्री एरकसानी हिच्याशी जोडलेले आहे, जिचे शिवमंदिराचे दान काकतीय प्रदेशातील स्त्रियांच्या आश्रयदानाचे उदाहरण म्हणून उभे आहे. स्थानिक परंपरा चार मंदिरांच्या समूहाला रेचर्ला सरदारांचा एकच पवित्र परिसर मानून गौरवते — त्यांनीच रामप्पा मंदिराच्या मागेही पाठबळ दिले — आणि पिल्ललमर्री हे असे स्थान असल्याचे सांगते जिथे शिवावरील त्यांच्या भक्तीने सर्वाधिक परिष्कृत दगडी रूप धारण केले.",
+    "festivals": "तेलुगू प्रदेशातील शिवपूजा फेब्रुवारी किंवा मार्चमध्ये येणाऱ्या महाशिवरात्रीने, सोमवारांनी आणि शरद ऋतूतील कार्तिक महिन्याने चिन्हित होते, आणि अशा दिवशी स्थानिक भाविक पिल्ललमर्रीच्या मंदिरांत जमू शकतात. कोणतेही विधी आणि तारखा स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "काकतीय दगडी कामातील कोरीव तपशील आवडणाऱ्यांसाठी पिल्ललमर्री हा शांत आणि समाधान देणारा टप्पा आहे. चारही जुनी मंदिरे जवळजवळ असल्याने, एरकेश्वर, नामेश्वर आणि त्रिकूटेश्वर ही देवालये एकाच निवांत फेरीत पाहता येतात. परिसर हे जिवंत गाव असल्याने गर्दीऐवजी शांत आणि स्थानिक वातावरणाची अपेक्षा ठेवा. रामप्पा, कोटा गुल्लू आणि वरंगलची स्मारके यांच्यासोबत ते स्वाभाविकपणे जोडले जाते, जरी ते त्यांच्यापासून काही अंतरावर, हैदराबाद आणि विजयवाडा यांच्यामधील मार्गावर सूर्यापेटजवळ आहे."
   },
   "visit": {
-    "timings": "The temple is a place of worship and a protected heritage site, and opening hours are not fixed. Please confirm timings and access locally before travelling, and plan a daylight visit.",
-    "dressCode": "Modest traditional dress is appreciated, with shoulders and knees covered. Footwear is removed at the temple.",
-    "photography": "Photography of the exterior and carvings is generally acceptable; follow any posted rules and the instructions of temple staff, and avoid photographing worship without permission.",
-    "gettingThere": "Pillalamarri lies just outside Suryapet town in Suryapet district, on the Hyderabad–Vijayawada highway. Suryapet has rail and bus services, Hyderabad is the nearest major airport, and the temples are reached by road from Suryapet."
+    "timings": "हे मंदिर उपासनास्थान आणि संरक्षित वारसास्थळ आहे, आणि उघडण्याच्या वेळा निश्चित नाहीत. कृपया प्रवासापूर्वी वेळा आणि प्रवेश स्थानिक पातळीवर तपासून घ्या, आणि दिवसाउजेडी भेटीचे नियोजन करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत. मंदिरात पादत्राणे काढावीत.",
+    "photography": "बाह्यभागाचे आणि कोरीवकामाचे छायाचित्रण सामान्यतः स्वीकार्य आहे; लावलेले नियम आणि मंदिर कर्मचाऱ्यांच्या सूचना पाळा, आणि परवानगीशिवाय पूजेचे छायाचित्रण टाळा.",
+    "gettingThere": "पिल्ललमर्री हे सूर्यापेट जिल्ह्यातील सूर्यापेट शहराच्या अगदी बाहेर, हैदराबाद–विजयवाडा महामार्गावर आहे. सूर्यापेटला रेल्वे आणि बस सेवा आहेत, हैदराबाद हे सर्वांत जवळचे मोठे विमानतळ आहे, आणि मंदिरे सूर्यापेटहून रस्त्याने पोहोचता येतात."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/pillalamarri-erakeswara.jpg",

@@ -21,6 +21,7 @@ const SCRIPTS = {
   ml: { name: 'Malayalam', re: /[ഀ-ൿ]/g },
   hi: { name: 'Hindi (Devanagari)', re: /[ऀ-ॿ]/g },
   bn: { name: 'Bengali', re: /[ঀ-৿]/g },
+  mr: { name: 'Marathi (Devanagari)', re: /[ऀ-ॿ]/g },
 };
 const LOCALES = Object.keys(SCRIPTS);
 

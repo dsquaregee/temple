@@ -1,29 +1,36 @@
 {
   "id": "kailasanathar-thenthiruperai",
   "locale": "mr",
+  "name": "कैलासनाथर मंदिर, तेन्तिरुपेरै",
   "nativeName": "கைலாசநாதர் கோயில், தென்திருப்பேரை",
+  "deity": "कैलासनाथर रूपातील शिव, देवी अळगिय पोन्नम्मै यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thenthiruperai",
-    "state": "Tamil Nadu",
+    "city": "तेन्तिरुपेरै",
+    "state": "तमिळनाडू",
     "lat": 8.606,
     "lng": 77.988
   },
+  "period": "नव कैलासमपैकी सातवे, बुध ग्रहाचे मंदिर; तेराव्या शतकातील पांड्यकालीन शिलालेख",
   "century": 13,
+  "dynasty": "पांड्य",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "तेन्तिरुपेरै या नदीकाठच्या गावात, कैलासनाथर रूपातील शिव आणि देवी अळगिय पोन्नम्मै नव कैलासमपैकी सातवे स्थान सांभाळतात — बुधन, म्हणजे वाणी आणि विद्येचा स्वामी असलेल्या बुध ग्रहाचे मंदिर.",
   "sections": {
-    "history": "Thenthiruperai sits on the south bank of the Tamiraparani in Thoothukudi district, on the road from Tirunelveli to Tiruchendur. Vaishnava pilgrims know it for the Makara Nedunkuzhaikathar temple, one of the Nava Tirupati; its Shiva temple is the seventh of the Nava Kailasam and the shrine of Budhan, the planet Mercury. When the temple was first raised is not known, but inscriptions on its walls from the reign of the Pandya king Maravarman Sundara Pandya name the settlement Sundarapandya Chaturvedimangalam — a village granted to Vedic scholars — showing that the shrine was a living centre of worship by the thirteenth century.",
-    "architecture": "A compact Dravidian stone temple, it gathers the essentials of a southern Shiva shrine around a single axis: the sanctum of Kailasanathar with Nandi before it, and a separate shrine for the Goddess Azhagiya Ponnammai, whose name means \"the beautiful golden mother\". The Pandya inscriptions cut into its stones are themselves part of its fabric, the earliest written witness to the place's long life of worship.",
-    "legends": "In the Nava Kailasam story, the seventh of the lotuses set afloat on the Tamiraparani by Romasa, the disciple of Agastya, drifted to this bank, and a linga was consecrated where it stopped. Tradition holds that Budhan himself, and Varuna, the lord of the waters, worshipped Shiva here, and the place is also called Varuna Kshetram. Devotees say that worship at this shrine carries the same merit as worship at Thiruvenkadu, the great Budhan temple of the Kaveri delta. The town's name means the \"southern\" Tirupperai, perai being read as an old word for a fort.",
-    "festivals": "As the shrine of Budhan, the temple sees its devotees above all on Wednesdays, the day of Mercury, when students and those seeking clarity of speech and mind come to worship. Maha Shivaratri and the monthly pradosham are kept through the year. Confirm dates locally.",
-    "experience": "Thenthiruperai is a place where the two great river circuits meet: a pilgrim can pray at the Nava Tirupati shrine of Vishnu and at the Nava Kailasam shrine of Shiva in the same short walk. Many come with a single prayer — to Budhan, for a clear mind and a ready tongue — and students are often among them."
+    "history": "तेन्तिरुपेरै तूतुकुडी जिल्ह्यात तामिरपरणीच्या दक्षिण तीरावर, तिरुनेलवेलीहून तिरुचेंदूरकडे जाणाऱ्या रस्त्यावर वसले आहे. वैष्णव यात्रेकरू त्याला नव तिरुपतींपैकी एक असलेल्या मकर नेडुंकुळैकातर मंदिरासाठी ओळखतात; येथील शिवमंदिर हे नव कैलासमपैकी सातवे आणि बुधन, म्हणजे बुध ग्रहाचे स्थान आहे. मंदिर प्रथम कधी उभारले गेले हे ज्ञात नाही, परंतु पांड्य राजा मारवर्मन सुंदर पांड्याच्या कारकीर्दीतील त्याच्या भिंतींवरील शिलालेख या वस्तीला सुंदरपांड्य चतुर्वेदिमंगलम — वैदिक विद्वानांना दिलेले गाव — असे नाव देतात; यावरून तेराव्या शतकापर्यंत हे मंदिर उपासनेचे जिवंत केंद्र होते हे दिसून येते.",
+    "architecture": "हे एक लहानसे द्रविड शैलीचे दगडी मंदिर असून दक्षिणेतील शिवमंदिराच्या आवश्यक गोष्टी एकाच अक्षाभोवती एकवटलेल्या आहेत: समोर नंदी असलेला कैलासनाथरांचा गाभारा, आणि देवी अळगिय पोन्नम्मै यांचे स्वतंत्र मंदिर; त्यांच्या नावाचा अर्थ \"सुंदर सुवर्णमाता\" असा आहे. त्याच्या दगडांवर कोरलेले पांड्यकालीन शिलालेख हे मंदिराच्या रचनेचाच भाग आहेत, आणि या स्थानाच्या दीर्घ उपासनेचा तो सर्वांत जुना लिखित साक्षीदार आहे.",
+    "legends": "नव कैलासमच्या कथेनुसार, अगस्त्यांचे शिष्य रोमस यांनी तामिरपरणीवर सोडलेल्या कमळांपैकी सातवे कमळ वाहत येऊन या तीरावर स्थिरावले, आणि ते जेथे थांबले तेथे लिंगाची प्रतिष्ठापना झाली. परंपरेनुसार स्वतः बुधनने आणि जलाचा स्वामी वरुणाने येथे शिवाची उपासना केली, आणि या स्थानाला वरुण क्षेत्र असेही म्हणतात. भाविक सांगतात की या मंदिरातील उपासनेचे पुण्य कावेरी त्रिभुज प्रदेशातील बुधाचे महान मंदिर असलेल्या तिरुवेंकाडू येथील उपासनेइतकेच आहे. गावाच्या नावाचा अर्थ \"दक्षिणेकडील\" तिरुप्पेरै असा आहे; पेरै हा किल्ल्यासाठीचा जुना शब्द मानला जातो.",
+    "festivals": "बुधाचे स्थान असल्याने मंदिरात भाविक विशेषतः बुधवारी, बुध ग्रहाच्या वारी, येतात; तेव्हा विद्यार्थी आणि वाणी व मनाची स्पष्टता इच्छिणारे लोक उपासनेसाठी येतात. महाशिवरात्री आणि मासिक प्रदोष वर्षभर पाळले जातात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तेन्तिरुपेरै हे असे स्थान आहे जेथे दोन महान नदी-यात्रा एकत्र येतात: एकाच छोट्या चालीत यात्रेकरू विष्णूच्या नव तिरुपती मंदिरात आणि शिवाच्या नव कैलासम मंदिरात प्रार्थना करू शकतो. अनेक जण एकाच प्रार्थनेसह येतात — बुधनला, निर्मळ मन आणि सुसंस्कृत वाणीसाठी — आणि त्यांच्यात अनेकदा विद्यार्थी असतात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Wednesdays are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thenthiruperai lies in Thoothukudi district on the Tirunelveli–Tiruchendur road, about 38 km from Tirunelveli; buses on that route stop in the town. The nearest railway station is Alwarthirunagari on the Tirunelveli–Tiruchendur line, and the nearest airport is Thoothukudi. The Kailasanathar temple is separate from the Makara Nedunkuzhaikathar Vishnu temple in the same town."
+    "timings": "दररोज उघडे; सकाळी आणि संध्याकाळी दर्शनाच्या वेळा आणि दुपारी बंद. बुधवारी सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. अनेक दक्षिणेकडील मंदिरांप्रमाणे, गाभाऱ्यासमोर पुरुषांनी वरील वस्त्र काढण्याची परंपरा आहे; लावलेल्या नियमांचे पालन करावे.",
+    "photography": "गाभाऱ्यात आणि त्याच्या आसपास छायाचित्रणास निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तेन्तिरुपेरै तूतुकुडी जिल्ह्यात तिरुनेलवेली–तिरुचेंदूर रस्त्यावर, तिरुनेलवेलीपासून सुमारे ३८ किमी अंतरावर आहे; त्या मार्गावरील बसेस गावात थांबतात. सर्वांत जवळचे रेल्वे स्थानक तिरुनेलवेली–तिरुचेंदूर मार्गावरील आळवारतिरुनगरी असून सर्वांत जवळचे विमानतळ तूतुकुडी आहे. कैलासनाथर मंदिर हे त्याच गावातील मकर नेडुंकुळैकातर विष्णू मंदिरापासून वेगळे आहे."
   }
 }

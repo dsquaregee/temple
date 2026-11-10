@@ -1,29 +1,36 @@
 {
   "id": "dhevapureeswarar-thevur",
   "locale": "mr",
+  "name": "देवपुरीश्वर मंदिर, तेवूर",
   "nativeName": "தேவூர் தேவபுரீஸ்வரர் கோயில்",
+  "deity": "देवपुरीश्वर (धेवपुरीश्वरर, कथलीवनेश्वर) रूपातील शिव, देवी मधुरबाशिनी (तेनमोळियाळ) सह",
+  "tradition": "शैव — पाडल पेट्र स्थळ",
   "location": {
-    "city": "Thevur, near Kizhvelur",
-    "state": "Tamil Nadu",
+    "city": "तेवूर, किळवेळूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.7259,
     "lng": 79.7314
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "खालच्या कावेरी त्रिभुज-प्रदेशातील किळवेळूरजवळचे तेवूर शिवाला देवपुरीश्वर — देवांच्या नगराचा स्वामी — म्हणून आणि देवी मधुरबाशिनी, 'मधुर वाणीची', हिच्यासह गौरविते. तिरुज्ञान संबंधर यांनी गायलेल्या या पाडल पेट्र स्थळाचे नाव, गंभीर पापातून मुक्त होण्यासाठी देवांनीच येथे शिवाची पूजा केली या आख्यायिकेचे स्मरण करून देते.",
   "sections": {
-    "history": "Thevur (also Devur), near Kizhvelur in the lower Kaveri delta, lies about 16 km from Nagapattinam, 4 km south of Kizhvelur on the Nagapattinam–Tiruvarur road (sources place it in Tiruvarur district, some in Nagapattinam). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The village takes its name — 'the town of the devas' — from the sthala legend of the gods worshipping here, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Deva Pureeswarar — also Devaguru Nathar and Kathalivanesar, 'lord of the plantain forest' — in the sanctum, with the goddess Madhurabashini, also Thenmozhiyaal, 'she of the sweet, honeyed words,' in her own shrine, with a Nandi and the parivara devatas.",
-    "legends": "The sthala purana tells that the devas came to this place to worship Shiva and so be freed from the sin incurred in the slaying of an asura — in some tellings Vritra (Vruddhasura) — a deed that had stained even the gods. By their worship here they were cleansed, and from their presence the town is called Thevur, the city of the devas, and the lord Deva Pureeswarar. The name Kathalivanesar recalls a grove of plantain (kathali) that once stood here.",
-    "festivals": "The temple keeps Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail near Kizhvelur include Thevur among their stops.",
-    "experience": "At Thevur the pilgrim stands where even the gods once came to be made clean. Before Deva Pureeswarar and the sweet-spoken Madhurabashini, the visitor finds a quiet delta shrine whose very name holds the memory of the devas' own worship — a small temple with a sky-wide legend."
+    "history": "तेवूर (देवूर असेही), खालच्या कावेरी त्रिभुज-प्रदेशातील किळवेळूरजवळ, नागपट्टिणमपासून सुमारे १६ किमी, नागपट्टिणम–तिरुवारूर रस्त्यावर किळवेळूरच्या ४ किमी दक्षिणेस आहे (काही स्रोत ते तिरुवारूर जिल्ह्यात दाखवतात, काही नागपट्टिणम जिल्ह्यात). हे पाडल पेट्र स्थळ असून तेवारममध्ये तिरुज्ञान संबंधर यांनी ते गायले आहे. देव येथे पूजा करत असल्याच्या स्थलकथेवरून गावाला 'देवांचे नगर' हे नाव मिळाले, आणि दगडी मंदिर चोळकालीन आणि नंतरचे आहे.",
+    "architecture": "द्रविड शैलीतील त्रिभुज-प्रदेशातील हे मंदिर; गर्भगृहात देवपुरीश्वर — देवगुरुनाथ आणि कथलीवनेश्वर, 'केळीच्या वनाचा स्वामी', असेही — विराजमान आहे; देवी मधुरबाशिनी, तेनमोळियाळ, म्हणजे 'मधासारख्या गोड बोलांची', स्वतंत्र मंदिरात आहे; तसेच नंदी आणि परिवार देवता आहेत.",
+    "legends": "स्थलपुराण सांगते की एका असुराच्या — काही कथनांत वृत्र (वृद्धासुर) — वधामुळे घडलेल्या पापातून, ज्याने देवांनाही डाग लागला होता, मुक्त होण्यासाठी देव या स्थळी शिवपूजेस आले. येथील पूजेने ते शुद्ध झाले; त्यांच्या वास्तव्यावरून गावाला तेवूर, देवांचे नगर, आणि प्रभूला देवपुरीश्वर म्हणतात. कथलीवनेश्वर हे नाव येथे एकेकाळी असलेल्या केळीच्या (कथली) वनराईचे स्मरण करून देते.",
+    "festivals": "मंदिरात माशी महिन्यात (फेब्रुवारी–मार्च) महाशिवरात्र, पुरट्टासी महिन्यात (सप्टेंबर–ऑक्टोबर) नवरात्र आणि कार्तिकैतील सोमवार, प्रदोष पूजेसह, गावच्या देवस्थानाच्या शांत स्वरूपात साजरे होतात. किळवेळूरजवळच्या पाडल पेट्र यात्रामार्गावरील यात्रेकरू तेवूरचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "तेवूर येथे यात्रेकरू अशा ठिकाणी उभा राहतो जेथे देवही शुद्ध होण्यासाठी आले होते. देवपुरीश्वर आणि मधुर वाणीच्या मधुरबाशिनीसमोर भाविकाला एक शांत त्रिभुज-प्रदेशीय देवस्थान भेटते, ज्याच्या नावातच देवांच्या स्वतःच्या पूजेची स्मृती आहे — आकाशाएवढी आख्यायिका असलेले एक लहानसे मंदिर."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thevur is about 16 km from Nagapattinam, 4 km south of Kizhvelur on the Nagapattinam–Tiruvarur road. Nagapattinam is the nearest major rail head, with buses via Kizhvelur and local taxis to the village."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि संध्याकाळच्या सुरुवातीपासून रात्रीपर्यंत खुले; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराशी काढावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत सामान्यतः छायाचित्रणास परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तेवूर नागपट्टिणमपासून सुमारे १६ किमी, नागपट्टिणम–तिरुवारूर रस्त्यावर किळवेळूरच्या ४ किमी दक्षिणेस आहे. नागपट्टिणम हे सर्वांत जवळचे मोठे रेल्वेस्थानक असून किळवेळूरमार्गे बस आणि गावापर्यंत स्थानिक टॅक्सी मिळतात."
   }
 }

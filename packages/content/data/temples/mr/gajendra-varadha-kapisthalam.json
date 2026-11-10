@@ -1,29 +1,36 @@
 {
   "id": "gajendra-varadha-kapisthalam",
   "locale": "mr",
+  "name": "गजेंद्र वरदर पेरुमाळ मंदिर, कपिस्थलम",
   "nativeName": "கஜேந்திர வரதர் கோயில், கபிஸ்தலம்",
+  "deity": "विष्णू गजेंद्र वरदर रूपात, शयन अवस्थेत पूर्वाभिमुख, देवी रामामणिवल्ली (पोत्रामरैयाळ) सह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Kapisthalam",
-    "state": "Tamil Nadu",
+    "city": "कपिस्थलम",
+    "state": "तमिळनाडू",
     "lat": 10.945,
     "lng": 79.275
   },
+  "period": "कावेरीजवळील चोळ देशातील एक दिव्य देसम, तिरुमऴिसै आऴ्वार यांनी नालायिर दिव्य प्रबंधममध्ये गायिलेले",
   "century": 8,
+  "dynasty": "मध्ययुगीन चोळ, विजयनगर व नायक भरांसह",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "कावेरीजवळील कपिस्थलम येथे विष्णू गजेंद्र वरदर रूपात शयन करतात, म्हणजे गजराजाला वाचवण्यासाठी आलेला प्रभू — चोळ नाडूचे एक दिव्य देसम आणि पंच कृष्ण क्षेत्रांपैकी एक, तिरुमऴिसै आऴ्वार यांनी गायिलेले.",
   "sections": {
-    "history": "Kapisthalam, the Thirukkavithalam of the hymns, is a village near Papanasam in Thanjavur district, some twenty kilometres from Kumbakonam. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and lies in Chola Nadu, the land watered by the Kaveri. Thirumazhisai Alvar sang it in a single verse, calling the Lord 'Attrangarai Kidakkum Kannan' — Kannan who lies on the riverbank — and the shrine is counted among the Pancha Krishna Kshetrams, the five abodes of Kannan. The temple is believed to have been built by the Medieval Cholas in the late ninth century, with later contributions from the Vijayanagara kings and the Madurai Nayaks.",
-    "architecture": "In the Dravidian manner of the Kaveri delta, the temple gathers around a sanctum in which Gajendra Varadha lies in the bhujanga sayanam posture, reclining on the serpent and facing east. Above him rises the Gaganakruthi Vimana, the 'sky-shaped' tower. The Goddess Ramamanivalli has her own shrine. The temple's sacred waters are the Gajendra Pushkarini, named for the elephant of the legend, and the Kapila Theertham.",
-    "legends": "The sthala purana places here the story of Gajendra Moksha. Gajendra, king of elephants, was seized in a lotus pond by a crocodile; struggling until his strength failed, he raised a lotus in his trunk and called on Vishnu, who came at once on Garuda and set him free. Devotees say the Lord blessed both the elephant and the crocodile here. Tradition also holds that Hanuman worshipped the Lord at this place — 'kapi' means monkey, giving Kapisthalam its name — while another reading derives it from kavi, a poet.",
-    "festivals": "The great day is the Gajendra Moksha Lila on the full moon of Aadi (July–August), when the rescue of the elephant is re-enacted before crowds of devotees. The car festival falls on Vaikasi Visakam (May–June), and the Brahmotsavam and Vaikunta Ekadashi follow the Sri Vaishnava calendar. Confirm the year's dates with the temple.",
-    "experience": "Kapisthalam is a gentle village shrine whose story is easy to share with children — the elephant, the crocodile and the Lord who came running. Stand before the reclining Gajendra Varadha, then walk to the Gajendra Pushkarini. The temple combines well with the nearby Divya Desams of Thirukkoodalur and Thirupullabhoothangudi on a day's circuit from Kumbakonam."
+    "history": "कपिस्थलम, म्हणजे स्तोत्रांतील तिरुक्कविथलम, हे तंजावूर जिल्ह्यातील पापनाशमजवळील एक गाव असून कुंभकोणमपासून सुमारे वीस किलोमीटर अंतरावर आहे. नालायिर दिव्य प्रबंधममध्ये आऴ्वारांनी गायिलेल्या विष्णूच्या १०८ दिव्य देसमांपैकी हे एक आहे, आणि कावेरीने सिंचित केलेल्या चोळ नाडू भूमीत वसलेले आहे. तिरुमऴिसै आऴ्वार यांनी एकाच श्लोकात त्याचे गायन केले, प्रभूला 'अत्तरंगरै किडक्कुम कण्णन' — म्हणजे नदीकाठी शयन करणारा कण्णन — असे संबोधले, आणि हे मंदिर कण्णनच्या पाच निवासांपैकी म्हणजे पंच कृष्ण क्षेत्रांमध्ये गणले जाते. हे मंदिर नवव्या शतकाच्या उत्तरार्धात मध्ययुगीन चोळांनी बांधले असे मानले जाते, त्यानंतर विजयनगरच्या राजांनी व मदुरै नायकांनी त्यात भर घातली.",
+    "architecture": "कावेरी त्रिभुज प्रदेशातील द्राविड पद्धतीनुसार हे मंदिर एका गर्भगृहाभोवती रचलेले आहे, जिथे गजेंद्र वरदर भुजंग शयनम मुद्रेत शेषनागावर शयन करताना पूर्वाभिमुख आहेत. त्यांच्यावर गगनाकृती विमान म्हणजे 'आकाशाकार' शिखर उभे आहे. देवी रामामणिवल्लीला स्वतःचे मंदिर आहे. मंदिराचे पवित्र जलाशय म्हणजे कथेतील हत्तीवरून नाव पडलेले गजेंद्र पुष्करिणी आणि कपिल तीर्थम आहेत.",
+    "legends": "स्थलपुराण येथे गजेंद्र मोक्षाची कथा ठेवते. गजराज गजेंद्र एका कमळतळ्यात मगरीच्या पकडीत सापडला; सामर्थ्य संपेपर्यंत झगडत राहून त्याने सोंडेत एक कमळ उचलले आणि विष्णूला हाक मारली, जे तात्काळ गरुडावर आरूढ होऊन आले आणि त्याला मुक्त केले. भक्त सांगतात की प्रभूने येथे हत्ती व मगर दोघांनाही आशीर्वाद दिला. परंपरा असेही सांगते की हनुमानाने या ठिकाणी प्रभूची पूजा केली — 'कपि' म्हणजे वानर, त्यावरून कपिस्थलम हे नाव पडले — तर दुसरा अर्थ कवी या शब्दावरून घेतला जातो.",
+    "festivals": "सर्वात मोठा दिवस म्हणजे आडी (जुलै-ऑगस्ट) पौर्णिमेला होणारी गजेंद्र मोक्ष लीला, जेव्हा हत्तीच्या सुटकेचे नाट्यरूप भक्तांच्या गर्दीसमोर सादर केले जाते. रथोत्सव वैकासि विशाकम (मे-जून) रोजी असतो, आणि ब्रह्मोत्सवम व वैकुंठ एकादशी श्री वैष्णव दिनदर्शिकेनुसार असतात. वर्षातील तारखा मंदिराकडून निश्चित करा.",
+    "experience": "कपिस्थलम हे एक सौम्य ग्रामीण मंदिर आहे, ज्याची कथा मुलांना सहज सांगता येते — हत्ती, मगर आणि धावत आलेला प्रभू. शयन करणाऱ्या गजेंद्र वरदरपुढे उभे राहा, मग गजेंद्र पुष्करिणीकडे चाला. कुंभकोणमहून एका दिवसाच्या फेरीत जवळील तिरुक्कूडलूर व तिरुपुल्लाभूथंगुडी या दिव्य देसमांसोबत हे मंदिर चांगले जोडले जाते."
   },
   "visit": {
-    "timings": "Open daily for morning and evening darshan, with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is removed before entering. Follow posted rules and the guidance of the priests.",
-    "photography": "Photography is restricted in and around the sanctum; follow posted rules and the guidance of the priests.",
-    "gettingThere": "Kapisthalam is about 3 km from Papanasam in Thanjavur district, off the Kumbakonam–Thanjavur road and some 20 km from Kumbakonam. Papanasam has a railway station on the Thanjavur–Kumbakonam line; Kumbakonam and Thanjavur are the main rail towns, and Tiruchirappalli has the nearest airport."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शनासाठी उघडे असते, दुपारी बंद; उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर निश्चित करा.",
+    "dressCode": "साधी पारंपरिक वेशभूषा अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेल्या नियमांचे व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात व त्याच्या भोवती छायाचित्रणावर बंदी आहे; लावलेल्या नियमांचे व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "कपिस्थलम तंजावूर जिल्ह्यातील पापनाशमपासून सुमारे ३ किमी अंतरावर, कुंभकोणम-तंजावूर मार्गापासून दूर आणि कुंभकोणमपासून सुमारे २० किमी अंतरावर आहे. पापनाशमला तंजावूर-कुंभकोणम रेल्वे मार्गावर स्थानक आहे; कुंभकोणम व तंजावूर ही मुख्य रेल्वे शहरे आहेत, आणि सर्वात जवळचे विमानतळ तिरुचिरापल्ली येथे आहे."
   }
 }

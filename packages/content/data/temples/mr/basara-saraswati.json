@@ -1,28 +1,35 @@
 {
   "id": "basara-saraswati",
   "locale": "mr",
+  "name": "श्री ज्ञान सरस्वती मंदिर, बासर",
   "nativeName": "శ్రీ జ్ఞాన సరస్వతి ఆలయం, బాసర",
+  "deity": "ज्ञान सरस्वती रूपातील देवी सरस्वती, विद्येची दात्री, लक्ष्मी आणि काली यांच्यासह",
+  "tradition": "शाक्त संप्रदाय, विद्येची देवी सरस्वतीची उपासना",
   "location": {
-    "city": "Basara",
-    "state": "Telangana",
+    "city": "बासर",
+    "state": "तेलंगणा",
     "lat": 18.879,
     "lng": 77.943
   },
+  "period": "गोदावरीच्या तीरावरील दुर्मीळ सरस्वती मंदिर, बालकाच्या पहिल्या धड्यासाठी (अक्षराभ्यास) प्रसिद्ध",
   "century": 10,
+  "dynasty": "गोदावरीच्या तीरावरील प्राचीन परंपरा",
+  "style": "दक्षिण भारतीय",
   "unesco": false,
   "circuits": [],
+  "summary": "गोदावरीच्या काठी बासर येथे सरस्वतीची ज्ञान सरस्वती, म्हणजे ज्ञानदात्री, या रूपात पूजा केली जाते — भारतातील मोजक्या महान सरस्वती मंदिरांपैकी हे एक, जेथे मुलांना अक्षराभ्यासासाठी, म्हणजे अक्षरे गिरवण्याच्या पहिल्या विधीसाठी, आणले जाते.",
   "sections": {
-    "history": "Basara stands on the banks of the Godavari in Telangana, home to one of India's rare temples to Saraswati, the goddess of learning, here called Gnana Saraswati. Tradition ties the place to the sage Vyasa; the very name Basara is said to derive from Vyasara, the abode of Vyasa.",
-    "architecture": "The temple sits by the river in the South Indian manner, its sanctum holding the goddess Saraswati, with shrines to Lakshmi and Kali nearby, so that the three great goddesses are honoured together. The riverside ghats are part of the pilgrimage.",
-    "legends": "It is said that Vyasa, after the great war, came here seeking peace and made three handfuls of sand into the images of Saraswati, Lakshmi, and Kali — knowledge, wealth, and power. From his penance the place took its name, and the goddess of learning made it her home.",
-    "festivals": "Vasant Panchami and the Navaratri days are the great festivals of the goddess of learning. Through the year families arrive for the Aksharabhyasam, when a child first traces letters in the goddess's presence to begin its education.",
-    "experience": "Basara is above all a temple of beginnings — of children brought to write their first letters before Saraswati — a quiet, riverside pilgrimage bound to the hope of learning and wisdom."
+    "history": "बासर तेलंगणात गोदावरीच्या तीरावर वसले आहे; विद्येची देवी सरस्वती हिची, येथे ज्ञान सरस्वती या नावाने पूजा होणारी, भारतातील दुर्मीळ मंदिरांपैकी एक येथे आहे. परंपरा या स्थळाचा संबंध महर्षी व्यासांशी जोडते; बासर हे नावच व्यासर, म्हणजे व्यासांचे निवासस्थान, यावरून आले असे सांगितले जाते.",
+    "architecture": "मंदिर दक्षिण भारतीय पद्धतीने नदीकाठी वसले आहे; गर्भगृहात देवी सरस्वती विराजमान आहे, आणि जवळच लक्ष्मी व काली यांची देवळे आहेत, त्यामुळे तिन्ही महादेवींचे एकत्र पूजन होते. नदीकाठचे घाट हे तीर्थयात्रेचाच एक भाग आहेत.",
+    "legends": "असे सांगितले जाते की महायुद्धानंतर व्यास शांतीच्या शोधात येथे आले आणि त्यांनी तीन मूठ वाळूपासून सरस्वती, लक्ष्मी आणि काली यांच्या मूर्ती घडवल्या — ज्ञान, संपत्ती आणि शक्ती यांची प्रतीके. त्यांच्या तपश्चर्येवरून या स्थळाला नाव मिळाले, आणि विद्येच्या देवीने हे स्थान आपले निवासस्थान केले.",
+    "festivals": "वसंत पंचमी आणि नवरात्रीचे दिवस हे विद्येच्या देवीचे महान उत्सव आहेत. वर्षभर कुटुंबे अक्षराभ्यासासाठी येतात; त्यावेळी मूल शिक्षणाच्या आरंभासाठी देवीच्या सान्निध्यात प्रथमच अक्षरे गिरवते.",
+    "experience": "बासर हे सर्वप्रथम आरंभांचे मंदिर आहे — सरस्वतीसमोर पहिली अक्षरे लिहिण्यासाठी आणलेल्या मुलांचे — विद्या आणि प्रज्ञेच्या आशेशी जोडलेली एक शांत, नदीकाठची तीर्थयात्रा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening worship and a midday break; Vasant Panchami is busiest, and Aksharabhyasam is performed through the day. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Basara lies on the Godavari in Nirmal district of Telangana, near the Maharashtra border; it has its own railway station on the Secunderabad–Manmad line and is reached by road from Nizamabad."
+    "timings": "दररोज सकाळ-संध्याकाळच्या पूजेसह आणि दुपारच्या विश्रांतीसह खुले; वसंत पंचमीला सर्वाधिक गर्दी असते, आणि अक्षराभ्यास दिवसभर केला जातो. भेट देण्यापूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "बासर तेलंगणातील निर्मल जिल्ह्यात, महाराष्ट्राच्या सीमेजवळ, गोदावरीच्या तीरावर आहे; सिकंदराबाद–मनमाड मार्गावर येथे स्वतःचे रेल्वे स्थानक आहे, आणि निजामाबादहून रस्त्याने येथे पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/basara-saraswati.jpg",

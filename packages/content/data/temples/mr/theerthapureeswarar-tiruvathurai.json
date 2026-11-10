@@ -1,29 +1,36 @@
 {
   "id": "theerthapureeswarar-tiruvathurai",
   "locale": "mr",
+  "name": "तीर्थपुरीश्वर मंदिर, तिरुवथुरै",
   "nativeName": "தீர்த்தபுரீஸ்வரர் கோயில்",
+  "deity": "तीर्थपुरीश्वर (अरथुरैनाथर) रूपातील शिव, देवी आनंदनायकी यांच्यासह",
+  "tradition": "शैव पंथ",
   "location": {
-    "city": "Tiruvathurai",
-    "state": "Tamil Nadu",
+    "city": "तिरुवथुरै",
+    "state": "तमिळनाडू",
     "lat": 11.39,
     "lng": 79.19
   },
+  "period": "नाडू नाडूमधील प्राचीन शैव मंदिर, तेवारममध्ये गायिलेले (सातवे शतक); मध्ययुगीन चोळकालीन शिल्पे आणि नंतरच्या भरी",
   "century": 7,
+  "dynasty": "चोळकालीन आश्रय (मध्ययुगीन) आणि नंतरच्या भरी",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तीर्थपुरीश्वर हे तेवारम स्तोत्रांतील तिरुनेल्वायिल अरत्तुरै असून संतांनी गायिलेल्या नाडू नाडू मंदिरांपैकी पहिले मानले जाते; बालसंत संबंदर यांना मोत्यांची पालखी, मोत्यांचे छत्र आणि मोत्यांची राजचिन्हे भेट मिळाली ते स्थान म्हणून विशेषत्वाने स्मरले जाते.",
   "sections": {
-    "history": "Tiruvathurai lies in the Nadu Nadu country of present-day Cuddalore district and appears in the Tevaram hymns as Tirunelvayil Aratturai. Tradition counts it the first of the Nadu Nadu shrines praised by the saints, which makes it a Paadal Petra Sthalam. The lord is worshipped as Aratturainathar, Anandeeswarar and Theerthapureeswarar, and the goddess as Anandanayaki, a name that sources also give as Tirupurasundari. The temple is linked with the Tevaram saints Sambandar, Appar and Sundarar, and its fame rests above all on the gift of the pearl palanquin to the child saint Sambandar, a scene told in the Periya Puranam and shown in the Chola-period stucco and sculpture of the temple. The shrine has been kept in worship through the medieval centuries and after.",
-    "architecture": "Sources describe the towers and halls of Tiruvathurai only thinly, so this account keeps to what is recorded. The temple is a Tamil Shaiva shrine with a sanctum for the lord and a shrine for the goddess Anandanayaki. What sets it apart is its sculpture: the story of the pearl palanquin is carried in Chola-period stucco and stone, and one depiction, said to be the earliest known, shows the palanquin approaching the saint and his father. Visitors who come for the art should look for these figures within the temple.",
-    "legends": "The legend of Tiruvathurai belongs to the child Sambandar. After receiving the milk of knowledge at Sirkazhi, he set out to visit the shrines of Shiva, usually carried on his father's shoulders. On the way to Tirunelvayil he refused to be carried and walked, and his companions were grieved to see the boy go barefoot over the hot ground. That night, the story says, Arathurainathar appeared in the dreams of the temple servants and of the saint himself, and promised a pearl palanquin, a pearl umbrella and pearl insignia to spare the child his hardship. By morning the gifts lay in the temple, and Sambandar accepted them as the Lord's grace. Tradition keeps from this a Lord who answers a child's weariness with tenderness.",
-    "festivals": "The festivals recorded for the temple are Maha Shivaratri in February or March, Margazhi Tiruvadhirai in December or January, and Panguni Uthiram in March or April. The monthly Pradosham is observed as at every Shiva temple. The calendar of local observances is thinly documented, so confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Tiruvathurai is a village shrine, and it asks to be approached unhurriedly, much as the child saint is said to have come to it, on foot and without ceremony. Pause among the Chola-period figures that tell the story of the pearl palanquin, then come to the sanctum of Aratturainathar and to the goddess Anandanayaki in her own shrine. The setting is quiet farming country, and the temple keeps the stillness of a very old place of worship where an old tale is still part of daily memory."
+    "history": "तिरुवथुरै सध्याच्या कडलूर जिल्ह्यातील नाडू नाडू प्रदेशात आहे आणि तेवारम स्तोत्रांत तिरुनेल्वायिल अरत्तुरै म्हणून येते. परंपरा याला संतांनी गायिलेल्या नाडू नाडू मंदिरांपैकी पहिले मानते, त्यामुळे हे पाडल पेट्र स्थळम आहे. प्रभूची अरत्तुरैनाथर, आनंदेश्वर आणि तीर्थपुरीश्वर म्हणून पूजा होते, आणि देवीची आनंदनायकी म्हणून, ज्याचे नाव काही स्रोत तिरुपुरसुंदरी असेही देतात. हे मंदिर तेवारम संत संबंदर, अप्पर आणि सुंदरर यांच्याशी जोडलेले आहे, आणि त्याची कीर्ती सर्वप्रथम बालसंत संबंदर यांना मिळालेल्या मोत्यांच्या पालखीच्या भेटीवर आधारलेली आहे; ही घटना पेरिय पुराणममध्ये सांगितली आहे आणि मंदिराच्या चोळकालीन चुनाशिल्पांत व शिल्पकामात दाखवली आहे. मध्ययुगीन शतकांत आणि त्यानंतरही येथे पूजा अखंड चालू राहिली आहे.",
+    "architecture": "तिरुवथुरैच्या गोपुरांचे आणि मंडपांचे वर्णन स्रोत फारच थोडे करतात, म्हणून हे वर्णन नोंदवलेल्या गोष्टींपुरतेच मर्यादित ठेवले आहे. हे प्रभूसाठी गर्भगृह आणि देवी आनंदनायकीसाठी मंदिर असलेले तमिळ शैव मंदिर आहे. त्याचे वेगळेपण त्याच्या शिल्पकलेत आहे: मोत्यांच्या पालखीची कथा चोळकालीन चुना आणि दगडात साकारलेली आहे, आणि एक चित्रण, जे सर्वांत जुने ज्ञात असल्याचे म्हटले जाते, पालखी संत आणि त्यांच्या वडिलांकडे येताना दाखवते. कलेसाठी येणाऱ्या अभ्यागतांनी मंदिराच्या आत या आकृती पाहाव्यात.",
+    "legends": "तिरुवथुरैची आख्यायिका बालसंत संबंदर यांच्याशी निगडित आहे. सीर्काळी येथे ज्ञानाचे दूध प्राप्त झाल्यानंतर ते शिवमंदिरांच्या दर्शनासाठी निघाले, सहसा वडिलांच्या खांद्यावर बसून. तिरुनेल्वायिलच्या वाटेवर त्यांनी खांद्यावर बसण्यास नकार दिला आणि चालत गेले, आणि तापलेल्या जमिनीवरून अनवाणी चालणाऱ्या त्या बालकाला पाहून सोबत्यांना दुःख झाले. त्या रात्री, कथा सांगते, अरत्तुरैनाथर मंदिरसेवकांच्या आणि स्वतः संतांच्या स्वप्नात प्रकटले आणि बालकाला होणारे कष्ट टाळण्यासाठी मोत्यांची पालखी, मोत्यांचे छत्र आणि मोत्यांची राजचिन्हे देण्याचे वचन दिले. सकाळपर्यंत ही भेट मंदिरात ठेवलेली होती, आणि संबंदर यांनी ती प्रभूची कृपा म्हणून स्वीकारली. या कथेतून परंपरा अशा प्रभूचे स्मरण जपते जो बालकाच्या थकव्याला ममतेने उत्तर देतो.",
+    "festivals": "मंदिरासाठी नोंदलेले उत्सव म्हणजे फेब्रुवारी किंवा मार्चमधील महाशिवरात्री, डिसेंबर किंवा जानेवारीतील मार्गळी तिरुवादिरै आणि मार्च किंवा एप्रिलमधील पंगुनी उत्तिरम. प्रत्येक शिवमंदिराप्रमाणे येथे मासिक प्रदोषम पाळला जातो. स्थानिक उत्सवांचे पंचांग फारसे नोंदलेले नाही, त्यामुळे तारखा स्थानिक पातळीवर खात्री करून घ्या, कारण त्या तमिळ पंचांगानुसार ठरतात.",
+    "experience": "तिरुवथुरै हे एक ग्रामीण मंदिर आहे, आणि बालसंत जसे येथे आले असे सांगितले जाते, तसे पायी आणि कोणत्याही थाटाविना, घाई न करता येथे जावे. मोत्यांच्या पालखीची कथा सांगणाऱ्या चोळकालीन आकृतींपाशी थांबा, मग अरत्तुरैनाथरांच्या गर्भगृहात आणि स्वतःच्या मंदिरातील देवी आनंदनायकीपाशी या. परिसर शांत शेतीप्रदेशाचा आहे, आणि जुनी कथा अजूनही दैनंदिन आठवणीचा भाग असलेल्या अतिप्राचीन पूजास्थळाची निःशब्दता मंदिर जपते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tiruvathurai is a village in Tittagudi taluk of Cuddalore district (PIN 606111), a short distance from Pennadam, which has its own railway station. Virudhachalam and Tittagudi are the larger towns of the area. Plan the journey by train or bus to Pennadam or Virudhachalam and complete the last stretch by road; confirm local transport on the day."
+    "timings": "साधारणपणे सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते, मध्यान्हीला विश्रांती असते; वेळा स्थानिक पातळीवर खात्री करून घ्या, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाहेरील प्रदक्षिणा-मार्ग आणि प्रांगणात छायाचित्रणास साधारणपणे परवानगी असते, पण आतील गर्भगृहात मनाई आहे. धार्मिक विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुवथुरै हे कडलूर जिल्ह्यातील तित्तगुडी तालुक्यातील गाव आहे (पिन ६०६१११), पेन्नाडमपासून थोड्या अंतरावर, जेथे स्वतःचे रेल्वे स्थानक आहे. विरुद्धाचलम आणि तित्तगुडी ही परिसरातील मोठी शहरे आहेत. पेन्नाडम किंवा विरुद्धाचलमपर्यंत रेल्वे किंवा बसने प्रवास करा आणि शेवटचा टप्पा रस्त्याने पूर्ण करा; त्या दिवशी स्थानिक वाहतुकीची खात्री करून घ्या."
   }
 }

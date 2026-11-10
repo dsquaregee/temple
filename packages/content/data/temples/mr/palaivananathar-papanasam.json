@@ -1,29 +1,36 @@
 {
   "id": "palaivananathar-papanasam",
   "locale": "mr",
+  "name": "पालैवननाथर मंदिर, पापनाशम",
   "nativeName": "திருப்பாலைத்துறை பாலைவனநாதர் கோயில்",
+  "deity": "पालैवननाथर रूपातील शिव, देवी धवल वेण्णगै अम्मै यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम, तेवारममध्ये गायलेले",
   "location": {
-    "city": "Papanasam (Tiruppalaithurai)",
-    "state": "Tamil Nadu",
+    "city": "पापनाशम (तिरुप्पालैत्तुरै)",
+    "state": "तमिळनाडू",
     "lat": 10.9272,
     "lng": 79.2706
   },
+  "period": "तेवारम काळ, चोळकालीन बांधकामासह आणि नंतरच्या भरांसह",
   "century": 9,
+  "dynasty": "चोळ, नंतरच्या विजयनगर/नायकांसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "पापनाशम, ज्याचे मंदिर-नाव तिरुप्पालैत्तुरै आहे, येथे शिवाची पालैवननाथर — लोहवृक्षांच्या वनाचा प्रभू — या रूपात देवी धवल वेण्णगै अम्मैसह पूजा होते. तेवारममध्ये गायलेले हे पाडल पेट्र स्थळम आख्यायिकेने रामाशी जोडलेले आहे; रावणवधाच्या पापातून मुक्त होण्यासाठी राम येथे पूजा करीत असे सांगितले जाते, आणि त्यावरून या स्थानाला पापनाशम, ‘पापाचे क्षालन’, हे नाव मिळाले. त्याचे पाच मजली प्रवेशद्वार आणि विजयनगर काळातील भव्य विटांचे धान्यकोठार या खोऱ्यातील उल्लेखनीय मंदिरांमध्ये त्याचे स्थान अधोरेखित करतात.",
   "sections": {
-    "history": "Papanasam, whose historical temple name is Tiruppalaithurai, is an ancient Shaiva site on the southern bank of the Kaveri, hymned in the Tevaram and counted among the Paadal Petra Sthalams. The stone temple belongs to the Chola period with later additions, entered through a five-tiered gopuram. Within the complex stands a large brick granary of the Vijayanagara era, maintained as a protected monument — a reminder of the temple's role as a centre of the agrarian delta.",
-    "architecture": "The temple follows the Dravidian plan, entered through a five-tiered gopuram, with the sanctum of Palaivananathar and the shrine of the goddess Dhavala Vennagai Ammai. The name of the lord recalls a forest of palai, the iron-wood tree, that once stood here. The notable brick granary within the precinct, of the Vijayanagara period, is cared for by the state archaeology department and sets the temple apart among the delta shrines.",
-    "legends": "The town's name, Papanasam — 'the destruction of sin' — comes from the tradition that Rama worshipped Shiva here to be freed of the sin incurred in slaying Ravana, making and consecrating lingams at the nearby Ramalingaswami temple. Another story tells of the sages of the Tharuka forest who sent a tiger against Shiva, which he subdued and wore as a skin. Rama, Lakshmana, Sita, the sage Gautama and Arjuna are all remembered among the lord's worshippers here, giving Papanasam a rich weave of puranic association.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. Its association with Rama and the washing-away of sin draws pilgrims seeking expiation, and the temple shares in the wider sanctity of the Papanasam region on the Kaveri.",
-    "experience": "Papanasam offers the pilgrim a temple whose very name promises release from sin — the place where Rama is said to have cleansed himself before the lord. The darshan of Palaivananathar, the towering gateway and the ancient granary give the visit the feel of a long-settled sacred centre at the heart of the delta."
+    "history": "पापनाशम, ज्याचे ऐतिहासिक मंदिर-नाव तिरुप्पालैत्तुरै आहे, हे कावेरीच्या दक्षिण काठावरील प्राचीन शैव स्थान असून तेवारममध्ये गायलेले आणि पाडल पेट्र स्थळमांमध्ये गणले जाणारे आहे. हे दगडी मंदिर चोळ काळातील असून नंतरच्या भरांसह आहे; पाच मजली गोपुरातून त्यात प्रवेश होतो. संकुलात विजयनगर काळातील एक मोठे विटांचे धान्यकोठार उभे आहे, जे संरक्षित स्मारक म्हणून जपले जाते — सुपीक खोऱ्यातील मंदिराच्या केंद्रस्थ भूमिकेची ही आठवण आहे.",
+    "architecture": "मंदिर द्रविड आराखड्याचे असून पाच मजली गोपुरातून प्रवेश होतो; गर्भगृहात पालैवननाथर आहेत आणि देवी धवल वेण्णगै अम्मैचे मंदिर आहे. प्रभूचे नाव येथे एकेकाळी उभ्या असलेल्या पालै, म्हणजे लोहवृक्षाच्या, वनाची आठवण करून देते. परिसरातील उल्लेखनीय विटांचे धान्यकोठार विजयनगर काळातील असून राज्याच्या पुरातत्त्व विभागाकडून जपले जाते, आणि ते या मंदिराला खोऱ्यातील इतर मंदिरांपासून वेगळे ठरवते.",
+    "legends": "गावाचे नाव पापनाशम — ‘पापाचा नाश’ — या परंपरेवरून आले आहे की रावणवधाने घडलेल्या पापातून मुक्त होण्यासाठी रामाने येथे शिवाची पूजा केली, आणि जवळच्या रामलिंगस्वामी मंदिरात लिंगे घडवून प्रतिष्ठापित केली. आणखी एक कथा तारुक वनातील ऋषींची सांगते, ज्यांनी शिवावर वाघ सोडला; शिवाने त्याला वश केले आणि त्याचे चर्म परिधान केले. राम, लक्ष्मण, सीता, गौतम ऋषी आणि अर्जुन हे सर्व येथे प्रभूचे उपासक म्हणून स्मरले जातात, त्यामुळे पापनाशमला पौराणिक संबंधांची समृद्ध गुंफण लाभली आहे.",
+    "festivals": "मंदिरात शैव उत्सव-दिनदर्शिका पाळली जाते — महाशिवरात्री, प्रदोषम, मार्गळी हंगाम आणि वार्षिक ब्रह्मोत्सव. रामाशी असलेला संबंध आणि पापाचे क्षालन यामुळे प्रायश्चित्त शोधणारे यात्रेकरू येथे येतात, आणि मंदिर कावेरीवरील पापनाशम प्रदेशाच्या व्यापक पावित्र्यात सहभागी आहे.",
+    "experience": "पापनाशम यात्रेकरूला असे मंदिर देते ज्याचे नावच पापातून मुक्तीचे आश्वासन देते — जिथे रामाने प्रभूसमोर स्वतःला शुद्ध केले असे सांगितले जाते. पालैवननाथरांचे दर्शन, उंच प्रवेशद्वार आणि प्राचीन धान्यकोठार यामुळे ही भेट खोऱ्याच्या हृदयातील दीर्घकाळ वसलेल्या पवित्र केंद्राचा अनुभव देते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Papanasam is a town in Thanjavur district, about 18 km from Kumbakonam and 30 km from Thanjavur; it has its own railway station and is well connected by bus."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत सामान्यतः छायाचित्रणास परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "पापनाशम हे तंजावूर जिल्ह्यातील शहर असून कुंभकोणमपासून सुमारे १८ कि.मी. आणि तंजावूरपासून ३० कि.मी. अंतरावर आहे; येथे स्वतःचे रेल्वे स्थानक आहे आणि बसने उत्तम जोडलेले आहे."
   }
 }

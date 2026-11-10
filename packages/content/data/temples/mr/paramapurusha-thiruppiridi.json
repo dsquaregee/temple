@@ -1,30 +1,37 @@
 {
   "id": "paramapurusha-thiruppiridi",
   "locale": "mr",
+  "name": "परमपुरुष पेरुमाळ मंदिर, तिरुप्पिरिडी (जोशीमठ)",
   "nativeName": "परमपुरुष मंदिर, जोशीमठ",
+  "deity": "परमपुरुषन रूपातील विष्णू, देवी परिमळवल्ली यांच्यासह — जोशीमठ येथे नृसिंह आणि वासुदेव मंदिरांमध्ये पूजले जातात",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Joshimath (Thiruppiridi)",
-    "state": "Uttarakhand",
+    "city": "जोशीमठ (तिरुप्पिरिडी)",
+    "state": "उत्तराखंड",
     "lat": 30.555,
     "lng": 79.565
   },
+  "period": "वडनाडूतील एक दिव्यदेशम; परंपरेने जोशीमठाशी ओळखले जाणारे आणि नालायिर दिव्य प्रबंधममध्ये तिरुमंगई आळवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "गढवाल हिमालय (आदि शंकराचार्य परंपरा)",
+  "style": "हिमालयीन",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "उंच गढवाल हिमालयात वसलेले जोशीमठ हे परंपरेने तिरुप्पिरिडी म्हणून ओळखले जाणारे स्थान आहे; येथे तिरुमंगई आळवार यांच्या एका दशकात विष्णूंची परमपुरुषन म्हणून स्तुती केली आहे.",
   "sections": {
-    "history": "Thiruppiridi is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and belongs to Vada Nadu, the northern country. Thirumangai Alvar praised it in a decad of the Periya Thirumozhi, where the lord is Paramapurushan and the Thayar is Parimalavalli. The tradition identifies Thiruppiridi with Joshimath, or Jyotirmath, in Chamoli district, about 1,890 metres up on the road to Badrinath, and pilgrims worship there at the Narasimha and Vasudeva shrines. Joshimath is held by tradition to be one of the four mathas founded by Adi Shankara, and its Narasimha temple is likewise credited to him.",
-    "architecture": "The shrines of Joshimath are mountain temples of the Garhwal Himalaya, set on the slopes above the Alaknanda valley. For Thiruppiridi, the Sri Vaishnava tradition names the sanctum's vimana as the Govardhana Vimana and the sacred water as the Indra Theertham. Pilgrims here worship at the Narasimha shrine and at the Vasudeva shrine. The setting, cool air, snow peaks and the sound of the river below, is the real architecture of this northernmost approach to Badrinath.",
-    "legends": "The Prabandham names the lord of Thiruppiridi as Paramapurushan, the Supreme Person, and the tradition places his abode in the Himalaya. Joshimath is also remembered as the place where Adi Shankara established one of his four mathas. Vaishnava pilgrims worship here at the Narasimha and Vasudeva shrines before the road climbs on towards Badrinath, and Thirumangai Alvar's decad is remembered here as the hymn of Thiruppiridi.",
-    "festivals": "Pilgrims keep the great days of Vishnu here, such as Vaikunta Ekadashi and Narasimha Jayanti. The temples are busiest in the Badrinath yatra months, and the valley is snowbound in winter. Festival customs follow the Himalayan pilgrimage calendar, so confirm dates locally.",
-    "experience": "Joshimath is the traditional resting place on the Badrinath road, and a visit here is best taken slowly: the climb, the cold, and the quiet of the sanctums are all part of the pilgrimage. The place is honoured as Thiruppiridi by the Sri Vaishnava tradition, so Sri Vaishnava pilgrims remember Thirumangai Alvar's decad here. Carry warm clothing."
+    "history": "तिरुप्पिरिडी हे १०८ दिव्यदेशमांपैकी एक आहे — नालायिर दिव्य प्रबंधममध्ये आळवारांनी गायिलेली विष्णूंची ही निवासस्थाने — आणि ते उत्तरेकडील प्रदेश वडनाडूमध्ये येते. तिरुमंगई आळवार यांनी पेरिय तिरुमोळीतील एका दशकात त्याची स्तुती केली आहे, ज्यात भगवान परमपुरुषन आणि तायार परिमळवल्ली आहेत. परंपरा तिरुप्पिरिडीला चमोली जिल्ह्यातील जोशीमठ, अर्थात ज्योतिर्मठ, याच्याशी ओळखते; ते बद्रीनाथच्या मार्गावर सुमारे १,८९० मीटर उंचीवर आहे, आणि यात्रेकरू तेथे नृसिंह आणि वासुदेव मंदिरांमध्ये पूजा करतात. आदि शंकराचार्यांनी स्थापन केलेल्या चार मठांपैकी जोशीमठ एक मानले जाते, आणि तेथील नृसिंह मंदिरही त्यांनाच श्रेय दिले जाते.",
+    "architecture": "जोशीमठातील मंदिरे ही गढवाल हिमालयातील पर्वतीय मंदिरे आहेत, अलकनंदा खोऱ्याच्या वरच्या उतारांवर वसलेली. तिरुप्पिरिडीसाठी श्रीवैष्णव परंपरा गर्भगृहाच्या विमानाला गोवर्धन विमान आणि पवित्र जलाला इंद्र तीर्थम म्हणते. येथे यात्रेकरू नृसिंह मंदिरात आणि वासुदेव मंदिरात पूजा करतात. थंड हवा, बर्फाच्छादित शिखरे आणि खालून वाहणाऱ्या नदीचा नाद, हे परिसरच बद्रीनाथच्या या सर्वात उत्तरेकडील वाटेवरील खरे वास्तुशिल्प आहे.",
+    "legends": "प्रबंधम तिरुप्पिरिडीच्या भगवंताला परमपुरुषन, म्हणजे परमात्मा पुरुष, असे नाव देते, आणि परंपरा त्याचे निवासस्थान हिमालयात मानते. जोशीमठ हे आदि शंकराचार्यांनी आपल्या चार मठांपैकी एक स्थापन केले ते स्थान म्हणूनही स्मरले जाते. बद्रीनाथच्या दिशेने रस्ता पुढे चढत जाण्यापूर्वी वैष्णव यात्रेकरू येथे नृसिंह आणि वासुदेव मंदिरांमध्ये पूजा करतात, आणि तिरुमंगई आळवार यांचे दशक येथे तिरुप्पिरिडीचे स्तोत्र म्हणून स्मरले जाते.",
+    "festivals": "यात्रेकरू येथे वैकुंठ एकादशी आणि नृसिंह जयंती यांसारखे विष्णूंचे महान दिवस पाळतात. बद्रीनाथ यात्रेच्या महिन्यांत मंदिरांत सर्वाधिक गर्दी असते, आणि हिवाळ्यात खोरे बर्फाने वेढलेले असते. उत्सवाच्या प्रथा हिमालयीन तीर्थयात्रेच्या दिनदर्शिकेनुसार चालतात, म्हणून तारखा स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "जोशीमठ हे बद्रीनाथ मार्गावरील पारंपरिक विश्रांतिस्थान आहे, आणि येथील भेट सावकाशपणे घेणे उत्तम: चढण, थंडी आणि गर्भगृहांतील शांतता हे सर्व तीर्थयात्रेचा भाग आहेत. श्रीवैष्णव परंपरा या स्थळाला तिरुप्पिरिडी म्हणून मान देते, म्हणून श्रीवैष्णव यात्रेकरू येथे तिरुमंगई आळवार यांच्या दशकाचे स्मरण करतात. उबदार कपडे सोबत ठेवा."
   },
   "visit": {
-    "timings": "The temples open for morning and evening worship, with a midday closure. Timings change with the season and with snow, so confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Carry warm layers and follow the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Joshimath lies in Chamoli district on the Rishikesh–Badrinath road, reached by mountain road from Rishikesh. Road conditions vary with the season, so check before travelling."
+    "timings": "मंदिरे सकाळी आणि संध्याकाळी पूजेसाठी उघडी असतात, दुपारी बंद असतात. वेळा ऋतूनुसार आणि बर्फवृष्टीनुसार बदलतात, म्हणून भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. उबदार कपड्यांचे थर सोबत ठेवा आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "जोशीमठ चमोली जिल्ह्यात ऋषिकेश–बद्रीनाथ मार्गावर आहे; ऋषिकेशहून डोंगरी रस्त्याने तेथे पोहोचता येते. रस्त्यांची स्थिती ऋतूनुसार बदलते, म्हणून प्रवासापूर्वी तपासून घ्या."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/paramapurusha-thiruppiridi.jpg",

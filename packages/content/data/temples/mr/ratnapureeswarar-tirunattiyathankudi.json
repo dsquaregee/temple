@@ -1,29 +1,36 @@
 {
   "id": "ratnapureeswarar-tirunattiyathankudi",
   "locale": "mr",
+  "name": "रत्नपुरीश्वर मंदिर, तिरुनाट्टियत्तान्कुडी",
   "nativeName": "திருநாட்டியத்தான்குடி ரத்னபுரீஸ்வரர் கோயில்",
+  "deity": "रत्नपुरीश्वर (माणिक्कवण्णर) रूपातील शिव, देवी मामलर मंगै यांच्यासह",
+  "tradition": "शैव — एक पाडल पेत्र स्थळ",
   "location": {
-    "city": "Tirunattiyathankudi, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "तिरुनाट्टियत्तान्कुडी, तिरुवारूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.72,
     "lng": 79.56
   },
+  "period": "तेवारम काळ (सातव्या–आठव्या शतकात गायलेले); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूरपासून सुमारे १४ किमी अंतरावरील तिरुनाट्टियत्तान्कुडी येथे शिवाची रत्नपुरीश्वर — माणिक्कवण्णर — रूपात, देवी मामलर मंगै यांच्यासह, पूजा होते. सुंदरारांनी गायलेले हे पाडल पेत्र स्थळ त्रेसष्ट नायनमारांपैकी एक असलेल्या कोट्पुली नायनारांचे अवतार स्थळ आहे.",
   "sections": {
-    "history": "Tirunattiyathankudi lies about 14 km from Tiruvarur, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Sundarar, and is honoured as the avatara sthalam — the birthplace — of Kotpuli Nayanar, one of the sixty-three Nayanmars. The stone temple is of the Chola period and later, keeping the form of the Shiva shrines of the Tiruvarur delta.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Rathnapureeswarar — also called Manikkavannar — in the sanctum, with the goddess Maamalar Mangai (also named Ratnapureeswari, Mangalambikai) in her own shrine, a Nandi and the parivara devatas, with a shrine for Kotpuli Nayanar among the saints. The walled courtyard keeps the form of the Tiruvarur delta temples.",
-    "legends": "Shiva is worshipped here as Rathnapureeswarar — Manikkavannar, 'the gem-hued lord'; a local account tells of a Chola named Ratnendra who built the temple after the lord divided a hoard of gems fairly between two brothers. Above all the place is remembered as the birthplace of Kotpuli Nayanar, the warrior-saint whose unbending devotion to the service of Shiva is sung among the lives of the sixty-three. The goddess Maamalar Mangai stands beside the lord.",
-    "festivals": "The temple observes the guru puja of Kotpuli Nayanar, besides Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Tiruvarur delta include Tirunattiyathankudi among their stops, for the Nayanar's sake.",
-    "experience": "At Tirunattiyathankudi the pilgrim comes to the birthplace of a warrior-saint. Before Rathnapureeswarar and Maamalar Mangai, the visitor finds the quiet grace of a Tevaram temple of the Tiruvarur delta, and the memory of Kotpuli Nayanar, who held the service of Shiva above all else."
+    "history": "तिरुनाट्टियत्तान्कुडी तिरुवारूर जिल्ह्यात, तिरुवारूरपासून सुमारे १४ किमी अंतरावर आहे. हे पाडल पेत्र स्थळ असून सुंदरारांनी तेवारममध्ये त्याचे स्तवन केले आहे, आणि त्रेसष्ट नायनमारांपैकी एक असलेल्या कोट्पुली नायनारांचे अवतार स्थळ — जन्मस्थान — म्हणून ते पूज्य मानले जाते. दगडी मंदिर चोळ काळातील आणि नंतरचे असून तिरुवारूर त्रिभुज-प्रदेशातील शिवमंदिरांचे रूप त्याने जपले आहे.",
+    "architecture": "हे द्रविड शैलीतील त्रिभुज-प्रदेशी मंदिर असून गर्भगृहात रत्नपुरीश्वर — ज्यांना माणिक्कवण्णर असेही म्हणतात — विराजमान आहेत; देवी मामलर मंगै (रत्नपुरीश्वरी, मंगलांबिका अशा नावांनीही ओळखल्या जाणाऱ्या) त्यांच्या स्वतंत्र मंदिरात आहेत; तसेच नंदी आणि परिवार देवता, आणि संतांमध्ये कोट्पुली नायनारांचे मंदिर आहे. तटबंदीयुक्त प्रांगणाने तिरुवारूर त्रिभुज-प्रदेशातील मंदिरांचे रूप जपले आहे.",
+    "legends": "येथे शिवाची रत्नपुरीश्वर — माणिक्कवण्णर, 'रत्नवर्णी प्रभू' — म्हणून पूजा होते; एका स्थानिक कथेनुसार रत्नेंद्र नावाच्या चोळ राजाने मंदिर बांधले, जेव्हा प्रभूंनी रत्नांचा साठा दोन भावांमध्ये न्याय्यपणे वाटला. सर्वांत मुख्य म्हणजे हे स्थळ कोट्पुली नायनारांचे जन्मस्थान म्हणून स्मरले जाते — शिवसेवेवरील अविचल भक्तीमुळे त्रेसष्ट नायनमारांच्या चरित्रांत गायल्या जाणाऱ्या त्या योद्धा-संतांचे. देवी मामलर मंगै प्रभूंच्या शेजारी विराजमान आहेत.",
+    "festivals": "मंदिरात कोट्पुली नायनारांची गुरुपूजा पाळली जाते, तसेच मासी महिन्यातील (फेब्रुवारी–मार्च) महाशिवरात्री, पुरट्टासी महिन्यातील (सप्टेंबर–ऑक्टोबर) नवरात्र आणि कार्तिकैतील सोमवार, प्रदोष पूजेसह. तिरुवारूर त्रिभुज-प्रदेशातील यात्रेकरू नायनारांच्या स्मरणार्थ तिरुनाट्टियत्तान्कुडीचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "तिरुनाट्टियत्तान्कुडी येथे यात्रेकरू एका योद्धा-संतांच्या जन्मस्थळी येतो. रत्नपुरीश्वर आणि मामलर मंगै यांच्यासमोर अभ्यागताला तिरुवारूर त्रिभुज-प्रदेशातील तेवारम मंदिराची शांत कृपा आणि शिवसेवेला सर्वांपेक्षा श्रेष्ठ मानणाऱ्या कोट्पुली नायनारांची स्मृती लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirunattiyathankudi lies about 14 km from Tiruvarur, in Tiruvarur district. Tiruvarur is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "सहसा पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वारी ठेवली जातात.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत छायाचित्रण सामान्यतः परवानगीयुक्त आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुनाट्टियत्तान्कुडी तिरुवारूर जिल्ह्यात तिरुवारूरपासून सुमारे १४ किमी अंतरावर आहे. तिरुवारूर हे सर्वांत जवळचे शहर आणि रेल्वे स्थानक असून गावापर्यंत बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

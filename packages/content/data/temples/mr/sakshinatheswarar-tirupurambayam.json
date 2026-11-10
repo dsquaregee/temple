@@ -1,29 +1,36 @@
 {
   "id": "sakshinatheswarar-tirupurambayam",
   "locale": "mr",
+  "name": "साक्षिनाथेश्वर मंदिर, तिरुपुरंबयम",
   "nativeName": "சாட்சிநாதேஸ்வரர் கோயில்",
+  "deity": "शिव साक्षिनाथेश्वर (सच्चिनादेश्वर, पुन्नैवननाथर) रूपात, देवी करुंपाडु सोल्लियम्मै यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thirupurambiyam",
-    "state": "Tamil Nadu",
+    "city": "तिरुपुरंबयम",
+    "state": "तमिळनाडू",
     "lat": 10.99,
     "lng": 79.31
   },
+  "period": "चोळ नाडूमधील प्राचीन शैव मंदिर, तेवारममध्ये गायलेले (इ.स.चे ७ वे शतक); सध्याचे बांधकाम प्रामुख्याने नायक काळातील (१६ वे शतक)",
   "century": 7,
+  "dynasty": "चोळ संबंध; सध्याची रचना नायक काळातील",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "साक्षिनाथेश्वर, साक्ष देणारा प्रभू, हे कुंभकोणमजवळील तिरुपुरंबयम येथील शिवमंदिर आहे, अप्पर, संबंदर आणि सुंदरर यांनी गायलेले — दैवी साक्षीच्या कथेसाठी आणि चोळ इतिहासाला आकार देणाऱ्या एका युद्धासाठी स्मरणात असलेल्या गावात.",
   "sections": {
-    "history": "Tirupurambayam, a village of the Chola country near Kumbakonam, is sung in the Tevaram by Sambandar, Appar and Sundarar, and counts among the Paadal Petra Sthalams north of the Kaveri. The ground is historic in another sense too: around 880 CE the battle of Thirupurambiyam was fought here, in which the Pallava king Aparajita, joined by a Western Ganga ally and the Chola prince Aditya I, overcame the Pandya king Varaguna II. Accounts differ on the date and details, but the battle is remembered as a turning point on the road to the imperial Cholas, and one tradition says Aditya I raised a temple here in remembrance. The masonry seen today is largely of the Nayak period, the sixteenth century, while the shrine of the goddess is credited to Rajaraja I.",
-    "architecture": "The temple has two gateway towers, of which the western is the taller, rising five storeys to about 72 feet. Sakshinatheswarar, also called Satchinadeswarar and Punnaivananathar, presides in the sanctum, and the goddess Karumpadu Solliammai has her own shrine. The sacred tree is the punnai, and the temple's holy water is the Brahma theertham. The shrine of Vinayaka draws special devotion: on Vinayagar Chaturthi the image is anointed with honey, and the honey is said to be wholly absorbed by the stone. A vanni tree stands within the precincts, though it is not the sacred tree.",
-    "legends": "The temple takes its name from a story that the Tiruvilaiyadal Puranam counts among the sacred plays of the Lord of Madurai. A young woman of a merchant family was married here to a kinsman with no human guests, only a vanni tree, a well and the Lord himself as witnesses, and in some tellings the kitchen where the couple stayed. When the man later denied the marriage, the Lord went to Madurai with those witnesses and testified, and he has been Sakshinathar, the Lord who bore witness, ever since. The vanni tree is said to stand still in a corner of the Madurai Sundareswarar temple, though tellings differ in their details. A second legend explains the village's survival: when the great deluge came, Vinayaka drew the waters of the seven seas into a well here and spared the place.",
-    "festivals": "Vinayagar Chaturthi is the day this temple is best known for, when the shrine of Vinayaka is bathed in honey that the image is said to absorb entirely. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. A fuller festival calendar was not available, so confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Tirupurambayam is a quiet place to reflect on trust and truth. Pass beneath the tall western gopuram, pause at the shrine of Vinayaka, and come to Sakshinatheswarar before visiting the goddess Karumpadu Solliammai. Devotees pray here for honesty in dealings and for promises to be kept, and many ask the Lord to witness vows made in good faith. The village lies amid Kaveri paddy fields a few kilometres from Kumbakonam, and standing there one can recall both the Lord who testified and the old battlefield that gave the place its mark on history."
+    "history": "कुंभकोणमजवळील चोळ प्रदेशातील तिरुपुरंबयम या गावाचे गायन तेवारममध्ये संबंदर, अप्पर आणि सुंदरर यांनी केले आहे, आणि कावेरीच्या उत्तरेकडील पाडल पेट्र स्थळम्मध्ये त्याची गणना होते. ही भूमी आणखी एका अर्थाने ऐतिहासिक आहे: इ.स. ८८० च्या सुमारास येथे तिरुपुरंबयमचे युद्ध झाले, ज्यात पल्लव राजा अपराजित याने, पश्चिम गंग मित्र आणि चोळ राजपुत्र पहिला आदित्य यांच्यासह, पांड्य राजा दुसरा वरगुण याचा पराभव केला. कालखंड आणि तपशिलांबाबत मतभेद आहेत, परंतु हे युद्ध साम्राज्यशाली चोळांच्या वाटचालीतील एक वळणबिंदू म्हणून स्मरणात आहे, आणि एका परंपरेनुसार पहिल्या आदित्याने स्मरणार्थ येथे मंदिर उभारले. आज दिसणारे बांधकाम प्रामुख्याने नायक काळातील, सोळाव्या शतकातील आहे, तर देवीच्या मंदिराचे श्रेय पहिल्या राजराजाला दिले जाते.",
+    "architecture": "मंदिराला दोन प्रवेशगोपुरे आहेत, ज्यांपैकी पश्चिमेकडील अधिक उंच असून पाच मजले, सुमारे ७२ फूट उंच आहे. गर्भगृहात सच्चिनादेश्वर आणि पुन्नैवननाथर या नावांनीही ओळखले जाणारे साक्षिनाथेश्वर विराजमान आहेत, आणि देवी करुंपाडु सोल्लियम्मैचे स्वतंत्र मंदिर आहे. पवित्र वृक्ष पुन्नै आहे, आणि मंदिराचे पवित्र जल ब्रह्म तीर्थ आहे. विनायकाच्या मंदिराविषयी विशेष भक्ती आहे: विनायक चतुर्थीला मूर्तीला मधाचा अभिषेक केला जातो, आणि तो मध दगड पूर्णपणे शोषून घेतो असे सांगितले जाते. आवारात एक वन्नी वृक्ष उभा आहे, परंतु तो पवित्र वृक्ष नाही.",
+    "legends": "मंदिराला नाव मिळाले ते एका कथेवरून, जिला तिरुविळैयाडल पुराण मदुरैच्या प्रभूच्या पवित्र लीलांमध्ये गणते. एका व्यापारी कुटुंबातील तरुणीचा विवाह येथे तिच्या नातेवाईकाशी झाला, कोणीही मानवी पाहुणे नसताना — फक्त एक वन्नी वृक्ष, एक विहीर आणि स्वतः प्रभू साक्षीदार होते, आणि काही कथनांनुसार जोडप्याने जेथे मुक्काम केला तो स्वयंपाकघरही. पुढे त्या माणसाने विवाह नाकारला तेव्हा प्रभू त्या साक्षीदारांसह मदुरैला गेला आणि त्याने साक्ष दिली, आणि तेव्हापासून तो साक्षिनाथर, साक्ष देणारा प्रभू, आहे. असे सांगितले जाते की तो वन्नी वृक्ष आजही मदुरैच्या सुंदरेश्वर मंदिराच्या एका कोपऱ्यात उभा आहे, तरी कथनांमध्ये तपशिलांचे फरक आहेत. दुसरी दंतकथा या गावाच्या बचावाचे स्पष्टीकरण देते: महाप्रलय आला तेव्हा विनायकाने सात समुद्रांचे पाणी येथील एका विहिरीत ओढून घेतले आणि या स्थानाला वाचवले.",
+    "festivals": "विनायक चतुर्थी हा या मंदिराचा सर्वांत प्रसिद्ध दिवस आहे, जेव्हा विनायकाच्या मंदिरात मधाचा अभिषेक होतो आणि मूर्ती तो पूर्णपणे शोषून घेते असे सांगितले जाते. प्रत्येक शिवमंदिराप्रमाणे महाशिवरात्र आणि मासिक प्रदोष पाळले जातात. अधिक सविस्तर उत्सव दिनदर्शिका उपलब्ध नव्हती, म्हणून तारखा स्थानिक पातळीवर तपासाव्यात, कारण त्या तमिळ पंचांगानुसार असतात.",
+    "experience": "तिरुपुरंबयम हे विश्वास आणि सत्य यांवर चिंतन करण्यासाठीचे शांत स्थान आहे. उंच पश्चिम गोपुराखालून जा, विनायकाच्या मंदिरात थांबा, आणि देवी करुंपाडु सोल्लियम्मैचे दर्शन घेण्यापूर्वी साक्षिनाथेश्वराजवळ या. भाविक येथे व्यवहारातील प्रामाणिकपणासाठी आणि दिलेली वचने पाळली जावीत यासाठी प्रार्थना करतात, आणि अनेकजण सद्भावनेने केलेल्या शपथांना प्रभूने साक्षी राहावे अशी विनंती करतात. गाव कुंभकोणमपासून काही किलोमीटरवर कावेरीच्या भातशेतांमध्ये वसलेले आहे, आणि तेथे उभे राहून साक्ष देणारा प्रभू आणि या स्थानाला इतिहासात ठसा देणारे जुने रणांगण या दोन्हींचे स्मरण करता येते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; timings are not firmly sourced, so confirm locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tirupurambayam is about 10 km from Kumbakonam (listings give between 9 and 11 km), and Kumbakonam, the nearest railway station, is the main base for buses and taxis. The village lies a few kilometres off the Kumbakonam–Swamimalai road. Tiruchirappalli, with the region's airport, is roughly 90 km away."
+    "timings": "साधारणपणे सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले, मध्यान्हाला विश्रांतीसह; वेळा निश्चितपणे स्रोतांमध्ये नाहीत, म्हणून विशेषतः उत्सवाच्या दिवशी स्थानिक पातळीवर खात्री करावी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-विजार, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे प्रवेशद्वारावरील स्टँडजवळ काढून ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा मार्ग आणि अंगणांमध्ये छायाचित्रणास सामान्यतः परवानगी आहे, परंतु तमिळनाडूतील मंदिर नियमांनुसार आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुपुरंबयम कुंभकोणमपासून सुमारे १० किमी आहे (वेगवेगळ्या यादीत ९ ते ११ किमी दिलेले आहे), आणि जवळचे रेल्वे स्थानक असलेले कुंभकोणम बस आणि टॅक्सीसाठी मुख्य तळ आहे. गाव कुंभकोणम–स्वामीमलै रस्त्यापासून काही किलोमीटर आत आहे. प्रदेशातील विमानतळ असलेले तिरुचिरापल्ली सुमारे ९० किमी दूर आहे."
   }
 }

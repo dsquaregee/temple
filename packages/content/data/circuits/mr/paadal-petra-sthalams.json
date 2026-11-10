@@ -1,7 +1,11 @@
 {
   "id": "paadal-petra-sthalams",
   "locale": "mr",
+  "name": "पाडल पेट्र स्थळे",
   "nativeName": "பாடல் பெற்ற தலங்கள்",
+  "theme": "नायनार संतांच्या तेवारम स्तोत्रांत गौरवलेली शिवाची २७५ मंदिरे",
+  "region": "तमिळनाडू, पुदुचेरी, आंध्र प्रदेश, केरळ, कर्नाटक, श्रीलंका आणि उत्तर भारत",
+  "description": "पाडल पेट्र स्थळे म्हणजे तेवारममध्ये गायलेली शिवमंदिरे — तिरुग्नान संबंदर, तिरुनावुक्करसर (अप्पर) आणि सुंदरर या तीन महान नायनार संतांची सातव्या आणि आठव्या शतकातील तमिळ स्तोत्रे. त्यांना भेट देणे म्हणजे संतांच्या स्वतःच्या पावलांमागून तमिळ प्रदेशभर चालणे. परंपरा त्यांना प्रदेशांनुसार एकत्र करते: कावेरीकाठचा चोळ प्रदेशाचा मोठा पट्टा, उत्तर तीर आणि दक्षिण तीर; मदुरैभोवतीचा पांड्य प्रदेश; पेन्नै आणि कोल्लिडम यांमधील नाडू नाडू; पश्चिमेकडील कोंगू नाडू; कांचीपुरमभोवतीचा तोंडै नाडू; आणि काही त्यापलीकडे — एक केरळमध्ये, एक कोकणातील गोकर्ण येथे, दोन श्रीलंकेत, आणि श्रीशैलमपासून कैलासापर्यंत उत्तरेतील मोजकी. ही वैष्णव दिव्य देशम्ची शैव प्रतिरूपे आहेत, आणि शिवावरील तमिळ भक्तीचा जिवंत नकाशा. येथे ती प्रदेशानुसार एकत्र केली आहेत, प्रत्येक प्रदेशाला स्वतःचा मार्गनकाशा आहे.",
   "stops": [
     "nataraja-chidambaram",
     "pasupatheeswarar-tiruvetkalam",
@@ -282,7 +286,7 @@
   "groups": [
     {
       "id": "chola-nadu-vadakarai",
-      "name": "Chola Nadu — north of the Kaveri",
+      "name": "चोळ नाडू — कावेरीच्या उत्तरेस",
       "stops": [
         "nataraja-chidambaram",
         "pasupatheeswarar-tiruvetkalam",
@@ -351,7 +355,7 @@
     },
     {
       "id": "chola-nadu-thenkarai",
-      "name": "Chola Nadu — south of the Kaveri",
+      "name": "चोळ नाडू — कावेरीच्या दक्षिणेस",
       "stops": [
         "ratnagiriswarar-ayyarmalai",
         "kadambavaneswarar-kulithalai",
@@ -485,7 +489,7 @@
     },
     {
       "id": "pandya-nadu",
-      "name": "Pandya Nadu",
+      "name": "पांड्य नाडू",
       "stops": [
         "meenakshi-madurai",
         "aappudaiyar-tiruappanur",
@@ -505,7 +509,7 @@
     },
     {
       "id": "nadu-nadu",
-      "name": "Nadu Nadu",
+      "name": "नाडू नाडू",
       "stops": [
         "theerthapureeswarar-tiruvathurai",
         "sudarkozhundeesar-pennadam",
@@ -533,7 +537,7 @@
     },
     {
       "id": "kongu-nadu",
-      "name": "Kongu Nadu",
+      "name": "कोंगू नाडू",
       "stops": [
         "sangameswarar-bhavani",
         "ardhanareeswarar-tiruchengode",
@@ -546,7 +550,7 @@
     },
     {
       "id": "thondai-nadu",
-      "name": "Thondai Nadu",
+      "name": "तोंडै नाडू",
       "stops": [
         "ekambareswarar",
         "metraleeswarar-kanchipuram",
@@ -584,21 +588,21 @@
     },
     {
       "id": "malai-nadu",
-      "name": "Malai Nadu (Kerala)",
+      "name": "मलय नाडू (केरळ)",
       "stops": [
         "thiruvanchikulam-mahadeva"
       ]
     },
     {
       "id": "thulu-nadu",
-      "name": "Thulu Nadu",
+      "name": "तुळू नाडू",
       "stops": [
         "gokarna-mahabaleshwara"
       ]
     },
     {
       "id": "eezha-nadu",
-      "name": "Eezha Nadu (Sri Lanka)",
+      "name": "ईळ नाडू (श्रीलंका)",
       "stops": [
         "ketheeswarar-mannar",
         "koneswarar-trincomalee"
@@ -606,7 +610,7 @@
     },
     {
       "id": "vada-nadu",
-      "name": "Vada Nadu (North India)",
+      "name": "वड नाडू (उत्तर भारत)",
       "stops": [
         "srisailam-mallikarjuna",
         "neelachalanathar-indraneelaparuppatham",

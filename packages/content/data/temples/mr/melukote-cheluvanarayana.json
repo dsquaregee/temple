@@ -1,28 +1,35 @@
 {
   "id": "melukote-cheluvanarayana",
   "locale": "mr",
+  "name": "चेलुवनारायण स्वामी मंदिर, मेलुकोटे",
   "nativeName": "ಚೆಲುವನಾರಾಯಣ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಮೇಲುಕೋಟೆ",
+  "deity": "चेलुवनारायण (तिरुनारायण) रूपातील विष्णू, आणि डोंगरमाथ्यावरील योग नरसिंहाच्या मंदिरासह",
+  "tradition": "वैष्णव (श्रीवैष्णव)",
   "location": {
-    "city": "Melukote",
-    "state": "Karnataka",
+    "city": "मेलुकोटे",
+    "state": "कर्नाटक",
     "lat": 12.662,
     "lng": 76.649
   },
+  "period": "यदुगिरीचा पवित्र डोंगर, रामानुजांच्या श्रीवैष्णव पुनरुज्जीवनाचे स्थान, वैरमुडी मुकुटासाठी प्रसिद्ध",
   "century": 12,
+  "dynasty": "होयसळ, विजयनगर आणि वोडेयर आश्रय",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [],
+  "summary": "यदुगिरीच्या डोंगरावर विष्णूची चेलुवनारायण रूपात पूजा होते — रामानुजांनी येथे अनेक वर्षे वास्तव्य करून हे मंदिर महान केले; वर्षातून एकदा देव हिऱ्यांचा वैरमुडी मुकुट धारण करतो, जो घालताना कोणत्याही डोळ्याने पाहू नये असा मुकुट आहे.",
   "sections": {
-    "history": "Melukote crowns the rocky hill of Yadugiri in the Mandya country of Karnataka. The temple of Cheluvanarayana rose to fame through Ramanuja, the great Sri Vaishnava teacher, who lived here for some years and organised its worship; on the hilltop above stands the older shrine of Yoga Narasimha.",
-    "architecture": "The town is built up the terraced hill in the Dravidian manner, its temple tanks and stepped ponds famous, the Cheluvanarayana shrine below and the Narasimha temple crowning the summit. The setting of rock, water, and sky is inseparable from the pilgrimage.",
-    "legends": "The image of Cheluvanarayana, called Ramapriya, is said to have been worshipped by Rama and then by Krishna, lost, and recovered by Ramanuja through a vision. The Vairamudi, a crown of diamonds held to be of divine origin, is placed on the god only in darkness, unseen — its keeping the temple's deepest secret.",
-    "festivals": "The Vairamudi festival is the great occasion, when the diamond crown is brought under guard and set on the god, drawing vast crowds up the hill. Through the year Melukote keeps the Sri Vaishnava calendar in the tradition Ramanuja shaped.",
-    "experience": "Melukote is a place of steep steps, temple ponds, and long views over the plain — a pilgrimage bound to the memory of Ramanuja, most intense on the night the unseen diamond crown is worn."
+    "history": "मेलुकोटे हे कर्नाटकातील मंड्या प्रदेशातील यदुगिरीच्या खडकाळ डोंगराच्या माथ्यावर वसले आहे. चेलुवनारायण मंदिर रामानुज, या महान श्रीवैष्णव आचार्यांमुळे प्रसिद्ध झाले; त्यांनी येथे काही वर्षे वास्तव्य केले आणि येथील उपासना संघटित केली; डोंगरमाथ्यावर योग नरसिंहाचे अधिक प्राचीन मंदिर उभे आहे.",
+    "architecture": "नगर द्रविड पद्धतीने पायऱ्यापायऱ्यांच्या डोंगरावर वसलेले आहे; त्याची मंदिर-तळी आणि पायऱ्यांची कुंडे प्रसिद्ध आहेत, खाली चेलुवनारायण मंदिर आणि शिखरावर नरसिंह मंदिर आहे. खडक, पाणी आणि आकाश यांचा परिसर तीर्थयात्रेपासून अविभाज्य आहे.",
+    "legends": "रामप्रिय म्हटल्या जाणाऱ्या चेलुवनारायणाच्या मूर्तीची आधी रामाने आणि नंतर कृष्णाने पूजा केली, मग ती हरवली, आणि रामानुजांनी दृष्टान्ताद्वारे ती पुन्हा मिळवली असे म्हटले जाते. वैरमुडी, दिव्य उत्पत्तीचा मानला जाणारा हिऱ्यांचा मुकुट, फक्त अंधारातच, कोणी न पाहता, देवाला घातला जातो — त्याचे जतन हे मंदिराचे सर्वांत गहन रहस्य आहे.",
+    "festivals": "वैरमुडी उत्सव हा महान प्रसंग आहे, जेव्हा हिऱ्यांचा मुकुट पहाऱ्यात आणला जातो आणि देवाला घातला जातो, आणि डोंगरावर प्रचंड जनसमुदाय येतो. वर्षभर मेलुकोटे रामानुजांनी घडवलेल्या परंपरेत श्रीवैष्णव पंचांग पाळते.",
+    "experience": "मेलुकोटे हे तीव्र पायऱ्या, मंदिर-तळी आणि मैदानावरील दूरवरच्या दृश्यांचे स्थान आहे — रामानुजांच्या स्मृतीशी जोडलेली एक तीर्थयात्रा, जी न पाहिलेला हिऱ्यांचा मुकुट घातला जाणाऱ्या रात्री सर्वाधिक तीव्र होते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening worship and a midday break; the Vairamudi festival is by far the busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Melukote lies in Mandya district of Karnataka, reached by road from Mysuru and Bengaluru, the nearest railhead being Mandya."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या उपासनेसह आणि दुपारच्या विश्रांतीसह उघडे असते; वैरमुडी उत्सव हा सर्वांत गर्दीचा असतो. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "मेलुकोटे हे कर्नाटकातील मंड्या जिल्ह्यात असून म्हैसूर आणि बेंगळूरू येथून रस्त्याने पोहोचता येते; सर्वांत जवळचे रेल्वे स्थानक मंड्या आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/melukote-cheluvanarayana.jpg",

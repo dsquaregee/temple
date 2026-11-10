@@ -1,29 +1,36 @@
 {
   "id": "ayavandeeswarar-tirusaathamangai",
   "locale": "mr",
+  "name": "अयवंदीश्वरर मंदिर, तिरुसात्तमंगै (सीयात्तमंगै)",
   "nativeName": "திருச்சாத்தமங்கை அயவந்தீஸ்வரர் (அயவந்தி) கோயில்",
+  "deity": "मलर्क्कण्णम्मै (उभय-पुष्प-विलोचनी) देवीसह अयवंदीश्वरर (अयवंती) रूपातील शिव",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम्",
   "location": {
-    "city": "Seeyathamangai, near Nagapattinam",
-    "state": "Tamil Nadu",
+    "city": "सीयात्तमंगै, नागपट्टिनमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.83,
     "lng": 79.78
   },
+  "period": "तेवारम् युग (७व्या शतकात गायिलेले); नंतरचे चोळ संरचनात्मक मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "सीयात्तमंगै, तेवारम्‌चे तिरुसात्तमंगै, नागपट्टिनमजवळ शिवाची अयवंदीश्वरर या रूपात पूजा करते — मंदिरालाच अयवंती म्हणतात — मलर्क्कण्णम्मै देवीसह, 'फुलांसारख्या डोळ्यांची माता.' तिरुज्ञान संबंदरने गायिलेले एक पाडल पेट्र स्थलम्, हे नागपट्टिनमहून कुंभकोणमकडील रस्त्यावरील खालच्या कावेरी प्रांताचे एक शांत त्रिभुज मंदिर आहे.",
   "sections": {
-    "history": "Tirusaathamangai, now the village of Seeyathamangai, lies about 13 km from Nagapattinam on the Nagapattinam–Nagore–Kumbakonam road, near the Nagapattinam–Tiruvarur boundary (one listing gives Nannilam taluk, Tiruvarur district). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The temple is locally known as Ayavanthi, and the stone shrine is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Ayavandeeswarar in the sanctum, with the goddess Malarkkannammai — also Irumalarkannammai, and in Sanskrit Ubaya-Pushpa-Vilochani, 'she of the two flower-eyes' — in her own shrine, a Nandi and the parivara devatas. The temple keeps the simple, well-ordered plan of the smaller Kaveri-country sanctuaries.",
-    "legends": "The goddess's names all turn on the beauty of her eyes: Malarkkannammai and Irumalarkannammai in Tamil, Ubaya-Pushpa-Vilochani in Sanskrit, each meaning 'she whose two eyes are like flowers.' This tender image is the devotional heart of the shrine. As with many smaller delta temples, the fuller sthala purana is preserved chiefly in the local tradition and in Sambandar's Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail between Nagapattinam and Kumbakonam include Seeyathamangai among their stops.",
-    "experience": "At Seeyathamangai the pilgrim comes to a gentle delta shrine, the Ayavanthi, loved above all for its flower-eyed goddess. Before Ayavandeeswarar and Malarkkannammai, the visitor finds the unhurried grace of a small Tevaram temple on the quiet road from Nagapattinam to the Kaveri country."
+    "history": "तिरुसात्तमंगै, आता सीयात्तमंगै गाव, नागपट्टिनम–नागोर–कुंभकोणम रस्त्यावर नागपट्टिनमपासून सुमारे १३ कि.मी. अंतरावर, नागपट्टिनम–तिरुवारुर सीमेजवळ आहे (एका यादीत नन्निलम तालुका, तिरुवारुर जिल्हा दिला आहे). हे एक पाडल पेट्र स्थलम् आहे, जे तेवारम्‌मध्ये तिरुज्ञान संबंदरने गायिले आहे. मंदिर स्थानिक पातळीवर अयवंती म्हणून ओळखले जाते, आणि दगडी गाभारा चोळ काळातील व नंतरचा आहे.",
+    "architecture": "एक द्राविड त्रिभुज मंदिर, या गाभाऱ्यात अयवंदीश्वरर गर्भगृही विराजमान आहे, मलर्क्कण्णम्मै देवीसह — तसेच इरुमलर्क्कण्णम्मै, आणि संस्कृतात उभय-पुष्प-विलोचनी, 'दोन फुलांसारखे डोळे असलेली' — आपल्या स्वतंत्र गाभाऱ्यात, एक नंदी व परिवार देवता. मंदिर लहान कावेरी-प्रांत अभयारण्यांचा साधा, सुव्यवस्थित आराखडा राखते.",
+    "legends": "देवीची सर्व नावे तिच्या डोळ्यांच्या सौंदर्यावर आधारित आहेत: तमिळमध्ये मलर्क्कण्णम्मै व इरुमलर्क्कण्णम्मै, संस्कृतात उभय-पुष्प-विलोचनी, प्रत्येकाचा अर्थ 'जिचे दोन डोळे फुलांसारखे आहेत.' ही कोमल प्रतिमा या गाभाऱ्याचा भक्तिगाभा आहे. अनेक लहान त्रिभुज मंदिरांप्रमाणे, अधिक विस्तृत स्थलपुराण मुख्यतः स्थानिक परंपरेत व संबंदरच्या तेवारम् श्लोकांत जतन केले आहे.",
+    "festivals": "मंदिर मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्र आणि कार्तिकैचे सोमवार, प्रदोष पूजेसह, एका गावमंदिराच्या शांत प्रमाणात पाळते. नागपट्टिनम व कुंभकोणम यांदरम्यानच्या पाडल पेट्र मार्गावरील यात्रेकरू सीयात्तमंगैला आपल्या थांब्यांत समाविष्ट करतात.",
+    "experience": "सीयात्तमंगैला यात्रेकरू एका मृदू त्रिभुज मंदिरी, अयवंती येथे येतो, जे सर्वांहून अधिक आपल्या फुलांडोळ्या देवीसाठी प्रिय आहे. अयवंदीश्वरर व मलर्क्कण्णम्मैसमोर, नागपट्टिनमहून कावेरी प्रांताकडील शांत रस्त्यावरील एका लहान तेवारम् मंदिराची निवांत कृपा भेट देणाऱ्याला गवसते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Seeyathamangai is about 13 km from Nagapattinam on the Nagapattinam–Nagore–Kumbakonam road, near the Nagapattinam–Tiruvarur boundary (one listing gives Nannilam taluk). Nagapattinam is the nearest major rail head, with buses and taxis to the village."
+    "timings": "साधारणतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उत्तरार्धपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर निश्चित करून घ्याव्यात.",
+    "dressCode": "खांदे व गुडघे झाकलेला साधा पारंपरिक पोशाख अपेक्षित आहे; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणामार्गांत छायाचित्रणास साधारणतः परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "सीयात्तमंगै नागपट्टिनम–नागोर–कुंभकोणम रस्त्यावर नागपट्टिनमपासून सुमारे १३ कि.मी. अंतरावर, नागपट्टिनम–तिरुवारुर सीमेजवळ आहे (एका यादीत नन्निलम तालुका दिला आहे). नागपट्टिनम हे जवळचे मोठे रेल्वेस्थानक आहे, गावापर्यंत बस व टॅक्सी उपलब्ध आहेत."
   }
 }

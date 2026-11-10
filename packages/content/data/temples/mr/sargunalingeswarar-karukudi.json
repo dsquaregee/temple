@@ -1,29 +1,36 @@
 {
   "id": "sargunalingeswarar-karukudi",
   "locale": "mr",
+  "name": "सर्गुणलिंगेश्वर मंदिर, तिरुक्करुक्कुडी (मरुदनल्लूर)",
   "nativeName": "திருக்கருக்குடி சற்குணலிங்கேஸ்வரர் கோயில்",
+  "deity": "सर्गुणलिंगेश्वर (करुकुडी नाथर) रूपातील शिव — स्वयंभू वाळूचे लिंग — देवी अद्वैत नायकी (सर्वालंकार नायकी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम",
   "location": {
-    "city": "Marudhanallur, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "मरुदनल्लूर, कुंभकोणमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.9248,
     "lng": 79.4041
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमजवळील मरुदनल्लूर, म्हणजे तेवारममधील तिरुक्करुक्कुडी, येथे शिव सर्गुणलिंगेश्वर म्हणून — स्वयंभू वाळूच्या लिंगाच्या रूपात — देवी अद्वैत नायकी, 'अद्वैताची स्वामिनी', यांच्यासह पूजले जातात. तिरुज्ञान संबंदर यांनी गायिलेले हे पाडल पेट्र स्थलम आख्यायिकांनी समृद्ध आहे: लंकेवर चालून जाण्यापूर्वी येथे पूजा करणारे राम, सर्गुणन नावाचा एक पांड्य राजा, आणि येथील ब्रह्मदेवांची स्वतःची पूजा.",
   "sections": {
-    "history": "Marudhanallur, whose Tevaram name is Tirukkarukkudi, lies about 5–6 km south of Kumbakonam, past Sakkottai on the way to Valangaiman, in Thanjavur district. It is a Paadal Petra Sthalam, hymned by Tirugnana Sambandar, counted among the Shiva shrines on the southern bank of the Kaveri. The stone temple is of the Chola period and later; its inscriptions are mostly illegible or lost, so its recorded history is slight, but its legends are rich.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Sargunalingeswarar — also called Karukudi Nathar and Brahmapureeswarar — in the sanctum, with the goddess Advaita Nayaki, also Sarvalankara Nayaki and Kalyani Ambica, in her own shrine. The presiding lingam is a swayambhu lingam of sand, a manal-lingam, which is bathed with special care; a Nandi and the parivara devatas complete the plan.",
-    "legends": "The temple keeps several legends. By one, Rama worshipped Shiva here before his march to Lanka, asking Hanuman to bring a lingam from the north — a motif that binds the place to the great Ramayana shrines. By another, a Pandyan king named Sargunan worshipped the lord here, giving the deity the name Sargunalingeswarar. Brahma too is said to have worshipped at this spot, whence the lord is also called Brahmapureeswarar. The sand lingam marks the lord as swayambhu, self-manifest, a form of special sanctity.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine near Kumbakonam. Pilgrims on the Paadal Petra trail of the southern Kaveri include Marudhanallur among their stops.",
-    "experience": "At Marudhanallur the pilgrim meets a self-manifest lord of sand, worshipped since the days of Rama and Brahma. Before Sargunalingeswarar and Advaita Nayaki — whose name itself speaks of the oneness beyond all duality — the visitor finds a quiet Kaveri-bank shrine whose layered legends reach from the Ramayana to the Tevaram."
+    "history": "मरुदनल्लूर, ज्याचे तेवारममधील नाव तिरुक्करुक्कुडी आहे, तंजावूर जिल्ह्यात कुंभकोणमच्या सुमारे ५–६ किमी दक्षिणेस, वलंगैमानच्या वाटेवर सक्कोट्टैच्या पुढे वसले आहे. हे एक पाडल पेट्र स्थलम आहे, तिरुज्ञान संबंदर यांनी गायिलेले, आणि कावेरीच्या दक्षिण तीरावरील शिव मंदिरांत गणले जाते. दगडी मंदिर चोळकाळातील आणि नंतरचे आहे; त्यावरील शिलालेख बहुतांशी अवाचनीय किंवा नष्ट झालेले आहेत, त्यामुळे त्याचा नोंदलेला इतिहास अल्प आहे, परंतु त्याच्या आख्यायिका समृद्ध आहेत.",
+    "architecture": "हे द्रविड शैलीतील त्रिभुज-प्रदेशातील मंदिर आहे; गर्भगृहात सर्गुणलिंगेश्वर — ज्यांना करुकुडी नाथर आणि ब्रह्मपुरीश्वर असेही म्हणतात — विराजमान आहेत, आणि देवी अद्वैत नायकी, म्हणजेच सर्वालंकार नायकी आणि कल्याणी अंबिका, स्वतःच्या मंदिरात आहेत. मुख्य लिंग हे स्वयंभू वाळूचे लिंग, म्हणजे मणल-लिंग आहे, ज्याला विशेष काळजीने अभिषेक केला जातो; नंदी आणि परिवार देवता यांनी रचना पूर्ण होते.",
+    "legends": "मंदिरात अनेक आख्यायिका जपलेल्या आहेत. एकीनुसार, लंकेवर चालून जाण्यापूर्वी रामाने येथे शिवाची पूजा केली, आणि हनुमानाला उत्तरेतून लिंग आणण्यास सांगितले — हे स्थळ महान रामायणकालीन तीर्थांशी जोडणारा एक आकृतिबंध. दुसरीनुसार, सर्गुणन नावाच्या पांड्य राजाने येथे प्रभूची पूजा केली, आणि त्यामुळे देवतेला सर्गुणलिंगेश्वर हे नाव मिळाले. ब्रह्मदेवांनीही याच ठिकाणी पूजा केली असे म्हटले जाते, म्हणूनच प्रभूला ब्रह्मपुरीश्वरही म्हणतात. वाळूचे लिंग प्रभूला स्वयंभू, स्वतः प्रकट झालेले दर्शवते — विशेष पावित्र्याचे रूप.",
+    "festivals": "मंदिरात माशी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यात नवरात्र आणि कार्तिकैचे सोमवार, प्रदोष पूजेसह, पाळले जातात — कुंभकोणमजवळील ग्रामीण मंदिराच्या शांत प्रमाणात. दक्षिण कावेरीच्या पाडल पेट्र मार्गावरील यात्रेकरू मरुदनल्लूरचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "मरुदनल्लूर येथे यात्रेकरूला वाळूचे बनलेले स्वयंभू प्रभू भेटतात, जे राम आणि ब्रह्मदेवांच्या काळापासून पूजिले जात आहेत. सर्गुणलिंगेश्वर आणि अद्वैत नायकी — जिचे नावच सर्व द्वैताच्या पलीकडील एकत्वाविषयी बोलते — यांच्यासमोर अभ्यागताला कावेरीकाठचे एक शांत मंदिर आढळते, ज्याच्या स्तरांतील आख्यायिका रामायणापासून तेवारमपर्यंत पोहोचतात."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Marudhanallur (Tirukkarukkudi) is about 5–6 km south of Kumbakonam, past Sakkottai on the way to Valangaiman, in Thanjavur district. Kumbakonam is the nearest major rail head, with frequent buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा-मार्गांत छायाचित्रण साधारणतः परवानगीयोग्य आहे, परंतु गर्भगृहाच्या आत नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "मरुदनल्लूर (तिरुक्करुक्कुडी) हे तंजावूर जिल्ह्यात कुंभकोणमच्या सुमारे ५–६ किमी दक्षिणेस, वलंगैमानच्या वाटेवर सक्कोट्टैच्या पुढे आहे. कुंभकोणम हे सर्वांत जवळचे प्रमुख रेल्वे स्थानक असून गावाकडे वारंवार बस व टॅक्सी उपलब्ध आहेत."
   }
 }

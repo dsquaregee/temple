@@ -1,31 +1,38 @@
 {
   "id": "kannayiramudayar-thirukaravasal",
   "locale": "mr",
+  "name": "कण्णायिरमुडैयार मंदिर, तिरुक्करावासल",
   "nativeName": "கண்ணாயிரமுடையார் கோயில், திருக்காறாயில்",
+  "deity": "कण्णायिरमुडैयार रूपातील शिव, आणि त्यागराज उत्सवमूर्ती आदि विडंगर",
+  "tradition": "शैव",
   "location": {
-    "city": "Thirukaravasal",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्करावासल",
+    "state": "तमिळनाडू",
     "lat": 10.63,
     "lng": 79.73
   },
+  "period": "तेवारममध्ये गायलेले पाडल पेट्र स्थलम; चोळ कालखंडातील पाषाण मंदिर",
   "century": 9,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "sapta-vidanga-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "कावेरी त्रिभुज प्रदेशाच्या हृदयस्थानी असलेल्या तिरुक्करावासल येथे शिव कण्णायिरमुडैयार या रूपात विराजमान आहेत, आणि या मंदिराचे त्यागराज — आदि विडंगर, सात विडंगांपैकी पहिले — हे त्रिभुज प्रदेशातील सात नर्तक त्यागराजांपैकी एक आहेत, ज्यांची मिरवणूक कुक्कुट नटनम या नृत्यात चालते असे सांगितले जाते.",
   "sections": {
-    "history": "Thirukaravasal lies among the wet fields of the Kaveri delta, near the delta's southern channels. Its temple to Shiva as Kannayiramudayar is a Paadal Petra Sthalam of Tevaram antiquity, its stone shrines carried forward under the Cholas. The temple is one of the Sapta Vidanga Sthalams, and its Thyagaraja is honoured as Adhi Vidangar, the first of the seven Vidangas of the dancing tradition.",
-    "architecture": "The temple is built in the Dravidian manner, its sanctum holding Shiva as Kannayiramudayar, with the Somaskanda Thyagaraja — Shiva with Uma and the child Skanda — worshipped as the uncarved Vidanga image and carried as the processional lord. Pillared halls open before the sanctum in the quiet delta manner of the Chola and later ages.",
-    "legends": "The Sapta Vidanga temples share the legend of the uncarved Thyagaraja images, given by the lord and worshipped in the Somaskanda form, each dancing its own dance in procession. At Thirukaravasal the Thyagaraja is Adhi Vidangar, held to be the first of the seven, and his procession is said to move in the Kukkuta Natanam, the dance likened to the strutting of a cockerel.",
-    "festivals": "The temple keeps the festivals of Shiva and the processions of the Vidangar through the year, with the days of the Nayanmar saints and the delta's festival calendar observed in the village shrine. The procession of the dancing Thyagaraja is the heart of its celebration.",
-    "experience": "Thirukaravasal is a quiet delta shrine off the main pilgrim roads, rewarding for the devotee who follows the seven dancing Thyagarajas from one delta town to the next. It lies within the cluster of Vidanga temples between Thiruvarur and the coast, and joins them into the single pilgrimage of the seven dances."
+    "history": "तिरुक्करावासल हे कावेरी त्रिभुज प्रदेशातील ओलसर शेतांमध्ये, त्रिभुजाच्या दक्षिण प्रवाहांजवळ वसले आहे. कण्णायिरमुडैयार रूपातील शिवाचे येथील मंदिर हे तेवारमकालीन प्राचीन पाडल पेट्र स्थलम असून, त्याची पाषाण देवालये चोळांच्या काळात पुढे नेली गेली. हे मंदिर सप्त विडंग स्थलमांपैकी एक आहे, आणि येथील त्यागराजाचा आदि विडंगर — नृत्य परंपरेतील सात विडंगांपैकी पहिले — म्हणून सन्मान केला जातो.",
+    "architecture": "हे मंदिर द्रविड शैलीत बांधलेले असून, त्याच्या गर्भगृहात कण्णायिरमुडैयार रूपातील शिव विराजमान आहेत, तर सोमस्कंद त्यागराज — उमा आणि बाल स्कंदासह शिव — हे न कोरलेल्या विडंग मूर्तीच्या रूपात पूजिले जातात आणि उत्सवमूर्ती म्हणून मिरवले जातात. गर्भगृहासमोर चोळ व नंतरच्या काळाच्या शांत त्रिभुज पद्धतीत स्तंभयुक्त सभामंडप उघडतात.",
+    "legends": "सप्त विडंग मंदिरे न कोरलेल्या त्यागराज मूर्तींची समान आख्यायिका सामायिक करतात — या मूर्ती भगवंताने दिल्या आणि सोमस्कंद रूपात पूजिल्या जातात, प्रत्येक मिरवणुकीत आपापले नृत्य करते. तिरुक्करावासल येथे त्यागराज हे आदि विडंगर असून, त्यांना सातांपैकी पहिले मानले जाते, आणि त्यांची मिरवणूक कुक्कुट नटनम या — कोंबड्याच्या डौलदार चालीशी तुलना केल्या जाणाऱ्या — नृत्यात चालते असे सांगितले जाते.",
+    "festivals": "मंदिर वर्षभर शिवाचे सण आणि विडंगराच्या मिरवणुका पाळते, आणि गावातील देवालयात नायन्मार संतांचे दिवस व त्रिभुज प्रदेशाचे सणाचे पंचांग पाळले जाते. नर्तक त्यागराजाची मिरवणूक हे त्याच्या उत्सवाचे हृदय आहे.",
+    "experience": "तिरुक्करावासल हे मुख्य यात्रा मार्गांपासून दूर असलेले शांत त्रिभुज देवालय आहे, जे एका त्रिभुज गावापासून दुसऱ्यापर्यंत सात नर्तक त्यागराजांचा मागोवा घेणाऱ्या भक्तासाठी फलदायी ठरते. ते तिरुवारूर आणि समुद्रकिनाऱ्यादरम्यानच्या विडंग मंदिरांच्या समूहात वसले आहे, आणि त्यांना सात नृत्यांच्या एकाच यात्रेत जोडते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and processions are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukaravasal lies in the Kaveri delta in the Thiruvarur–Nagapattinam country, reached by road from Thiruvarur and the surrounding delta towns."
+    "timings": "सकाळी व संध्याकाळी दर्शनाच्या सत्रांसह आणि दुपारच्या विश्रांतीसह दररोज उघडे; सणाचे दिवस व मिरवणुका सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. दक्षिणेकडील अनेक देवालयांप्रमाणे पुरुषांना पारंपरिकपणे गर्भगृहासमोर वरचे वस्त्र काढण्यास सांगितले जाते; लावलेल्या नियमांचे पालन करा.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेल्या नियमांचे व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "तिरुक्करावासल हे कावेरी त्रिभुज प्रदेशात तिरुवारूर–नागपट्टिनम भागात वसले असून, तिरुवारूर व आसपासच्या त्रिभुज गावांतून रस्त्याने पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kannayiramudayar-thirukaravasal.jpg",

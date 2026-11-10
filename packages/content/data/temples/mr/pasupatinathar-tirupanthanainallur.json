@@ -1,29 +1,36 @@
 {
   "id": "pasupatinathar-tirupanthanainallur",
   "locale": "mr",
+  "name": "पशुपतीनाथर मंदिर, तिरुपंथनैनल्लूर",
   "nativeName": "பசுபதீஸ்வரர் கோயில்",
+  "deity": "पशुपतीनाथर (पशुपतीश्वरर) रूपातील शिव, देवी वेणुभुजांबिकै (वेयुरुतोळी अम्मै) यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Pandanallur",
-    "state": "Tamil Nadu",
+    "city": "पंदनल्लूर",
+    "state": "तमिळनाडू",
     "lat": 11.12,
     "lng": 79.52
   },
+  "period": "चोळ नाडूमधील प्राचीन शैव मंदिर, तेवारममध्ये गायिलेले (सातवे शतक); चोळकालीन (अकरावे शतक) दगडी मंदिर व नंतरची भर",
   "century": 7,
+  "dynasty": "चोळ (नंतरच्या चोळ व विजयनगर आश्रयासह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "पशुपतीनाथर हे पंदनल्लूरचे, म्हणजे तेवारममधील तिरुपंथनैनल्लूरचे, शिवमंदिर आहे; पार्वतीने चार वेदांचा चेंडू करून खेळलेल्या खेळाच्या कथेसाठी आणि येथे गायीच्या रूपात पूजा करणाऱ्या देवीच्या कथेसाठी ते स्मरणात आहे.",
   "sections": {
-    "history": "Pandanallur lies in the Kaveri delta north of Aduthurai, in Thiruvidaimarudur taluk of Thanjavur district. In the Tevaram hymns of Sambandar and Appar it is Tirupanthanainallur, and the temple is counted among the Paadal Petra Sthalams on the northern bank of the Kaveri. The oldest parts of the masonry temple that stands today belong to the Chola age, around the eleventh century. Inscriptions record gifts and works under later Chola kings, among them Vikrama Chola, Rajadhiraja II, Kulottunga III, and Rajaraja III, and there are gifts from the Vijayanagara period too. The shrine has been in unbroken worship from the days of the hymns to our own.",
-    "architecture": "The temple is a Dravidian complex of two enclosing prakaras, entered through a gopuram at the gateway. The sanctum holds Pasupatinathar as a linga, which tradition describes as self-manifested and white in colour, marked with the hoof of the cow and so not anointed in the usual way. The goddess Venubhujambikai is honoured in her own shrine. Within the temple is a sacred tank, the Surya Teertham, and the sacred tree is the sarakkonrai tree. Vinayaka is worshipped here as Nruthi Ganapathi, and the walls and corridors keep the inscriptions that tell the temple's long story.",
-    "legends": "The name of the place is the heart of its legend. Parvati wished to play at ball with her companions, and Shiva shaped balls for her from the four Vedas. She played on so long that the sun lingered in the sky and the sages could not close their evening rites. In the tradition, Parvati then took the form of a cow, with Murugan as her calf, and worshipped Shiva at this place until she was restored; Vishnu is said to have tended the cow as a herdsman. From this the lord is called Pasupatinathar, lord of the cattle, and the village is Pandanallur, the good place where the balls, the Vedas themselves, came to rest. Versions of the tale differ in its details, but all keep the cow, the ball, and the Vedas.",
-    "festivals": "Masi Magam in February or March and Panguni Uthiram in March or April are the great festivals of the temple. Maha Shivaratri, the Thirukarthigai lamps, and the Aippasi observances are kept with devotion, and the monthly Pradosham draws the faithful. One tradition holds that the sun worships the lord here by sending his rays upon the linga for three days in the month of Aavani. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Pandanallur is an unhurried visit. Enter beneath the gopuram, walk the prakaras reading the old inscriptions on the walls, and come to Pasupatinathar before turning to the goddess Venubhujambikai in her shrine. Take a moment at the Surya Teertham and at the shrine of Nruthi Ganapathi. The village is also known to lovers of dance, for it gave its name to the Pandanallur style of Bharatanatyam, shaped here by the teacher Meenakshisundaram Pillai, so the quiet streets around the temple carry a second kind of heritage. The cow-legend gives the visit a gentle, pastoral feeling that suits the green delta around it."
+    "history": "पंदनल्लूर कावेरी त्रिभुज-प्रदेशात, अडुतुरैच्या उत्तरेस, तंजावूर जिल्ह्यातील तिरुविडैमरुदूर तालुक्यात आहे. सम्बंदर आणि अप्पर यांच्या तेवारम स्तोत्रांत ते तिरुपंथनैनल्लूर आहे, आणि मंदिर कावेरीच्या उत्तर काठावरील पाडल पेट्र स्थळांत गणले जाते. आज उभ्या असलेल्या दगडी मंदिराचे सर्वांत जुने भाग चोळ काळातील, सुमारे अकराव्या शतकातील आहेत. शिलालेखांत नंतरच्या चोळ राजांच्या कारकिर्दीतील दाने व कामांची नोंद आहे, त्यांत विक्रम चोळ, दुसरा राजाधिराज, तिसरा कुलोत्तुंग आणि तिसरा राजराज यांचा समावेश आहे, तसेच विजयनगर काळातीलही दाने आहेत. स्तोत्रांच्या काळापासून आजपर्यंत या मंदिरात अखंड पूजा चालू आहे.",
+    "architecture": "हे मंदिर दोन वेढणाऱ्या प्राकारांचे द्रविड संकुल असून प्रवेशद्वारावरील गोपुरातून आत प्रवेश होतो. गर्भगृहात पशुपतीनाथर लिंगरूपात आहेत, जे परंपरेनुसार स्वयंभू व पांढऱ्या रंगाचे आहे आणि त्यावर गायीच्या खुराची खूण आहे, म्हणून त्याला नेहमीप्रमाणे अभिषेक केला जात नाही. देवी वेणुभुजांबिकै तिच्या स्वतंत्र गर्भगृहात पूजली जाते. मंदिरात सूर्य तीर्थ हे पवित्र तळे आहे, आणि पवित्र वृक्ष सरक्कोंड्रै आहे. येथे विनायकाची पूजा नृत्ती गणपती म्हणून होते, आणि भिंती व ओवऱ्यांवर मंदिराची दीर्घ कथा सांगणारे शिलालेख जतन केलेले आहेत.",
+    "legends": "या स्थानाचे नाव हेच त्याच्या कथेचे हृदय आहे. पार्वतीला आपल्या सख्यांसह चेंडू खेळायचा होता, आणि शिवाने तिच्यासाठी चार वेदांचे चेंडू घडवले. ती इतका वेळ खेळत राहिली की सूर्य आकाशात रेंगाळला आणि ऋषींना आपले सायंकाळचे विधी पूर्ण करता आले नाहीत. परंपरेनुसार तेव्हा पार्वतीने गायीचे रूप घेतले, मुरुगन तिचे वासरू झाला, आणि ती पूर्वस्थितीला येईपर्यंत तिने या स्थानी शिवाची पूजा केली; विष्णूने गुराखी होऊन त्या गायीची निगा राखली असे सांगितले जाते. यावरून प्रभूला पशुपतीनाथर, म्हणजे गुरांचे स्वामी, म्हणतात, आणि गाव पंदनल्लूर, म्हणजे ज्या चांगल्या स्थानी चेंडू — स्वतः वेद — विसावले ते. कथेचे तपशील आवृत्तीनुसार वेगळे आहेत, पण सर्वांत गाय, चेंडू आणि वेद कायम राहतात.",
+    "festivals": "फेब्रुवारी किंवा मार्चमधील मासी मगम आणि मार्च किंवा एप्रिलमधील पंगुनी उत्तिरम हे मंदिराचे मोठे उत्सव आहेत. महाशिवरात्री, तिरुकार्तिगैचे दिवे आणि ऐप्पसीचे विधी भक्तिभावाने पाळले जातात, आणि मासिक प्रदोषाला भाविक एकत्र येतात. एका परंपरेनुसार आवणी महिन्यात तीन दिवस सूर्य आपली किरणे लिंगावर टाकून येथे प्रभूची पूजा करतो. तारखा स्थानिक पातळीवर तपासून घ्या, कारण त्या तमिळ पंचांगानुसार ठरतात.",
+    "experience": "पंदनल्लूरची भेट निवांत असते. गोपुराखालून आत या, प्राकारांतून फिरत भिंतींवरील जुने शिलालेख वाचा, आणि देवी वेणुभुजांबिकैच्या गर्भगृहाकडे वळण्यापूर्वी पशुपतीनाथरांपाशी या. सूर्य तीर्थापाशी आणि नृत्ती गणपतीच्या गर्भगृहापाशी क्षणभर थांबा. नृत्यप्रेमींनाही हे गाव परिचित आहे, कारण भरतनाट्यमच्या पंदनल्लूर शैलीला त्याचे नाव मिळाले, जिला येथे गुरू मीनाक्षीसुंदरम पिल्लै यांनी आकार दिला; त्यामुळे मंदिराभोवतीच्या शांत गल्ल्यांना दुसऱ्या प्रकारचा वारसा लाभला आहे. गायीची कथा या भेटीला सौम्य, ग्रामीण भाव देते, जो भोवतालच्या हिरव्या त्रिभुज-प्रदेशाला शोभतो."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from the afternoon into the evening, with a midday break; listings differ, so confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the temple.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Pandanallur is in the Kaveri delta, north of Aduthurai and between Kumbakonam and Mayiladuthurai, both of which have railway stations and frequent bus services onward to the village. Local buses and taxis reach the temple from either town. The nearest major airport is Tiruchirappalli, a few hours away by road."
+    "timings": "साधारणपणे सकाळी आणि पुन्हा दुपारपासून संध्याकाळपर्यंत उघडे असते, मध्ये दुपारचा विश्राम असतो; माहितीस्रोतांत फरक आहे, म्हणून वेळा स्थानिक पातळीवर तपासून घ्या, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-पँट, महिलांसाठी साडी, सलवार-कमीज किंवा लांब स्कर्ट, खांदे व गुडघे झाकलेले. पादत्राणे मंदिराबाहेर ठेवावीत.",
+    "photography": "बाह्य ओवऱ्या आणि प्रांगणांत छायाचित्रण साधारणपणे चालते, पण तमिळनाडूतील मंदिरांच्या नियमांनुसार आतील गर्भगृहात निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र काढण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "पंदनल्लूर कावेरी त्रिभुज-प्रदेशात, अडुतुरैच्या उत्तरेस, कुंभकोणम आणि मयिलाडुतुरै यांच्यामध्ये आहे; दोन्ही ठिकाणी रेल्वे स्थानके असून गावापर्यंत वारंवार बससेवा आहे. दोन्ही शहरांतून स्थानिक बस व टॅक्सीने मंदिरापर्यंत पोहोचता येते. सर्वांत जवळचे मोठे विमानतळ तिरुचिरापल्ली असून, रस्त्याने काही तासांच्या अंतरावर आहे."
   }
 }

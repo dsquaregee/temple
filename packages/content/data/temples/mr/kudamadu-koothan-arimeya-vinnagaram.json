@@ -1,30 +1,37 @@
 {
   "id": "kudamadu-koothan-arimeya-vinnagaram",
   "locale": "mr",
+  "name": "कुडमाडु कूतन मंदिर, तिरुअरिमेय विण्णगरम्",
   "nativeName": "குடமாடு கூத்தன் கோயில், திருஅரிமேய விண்ணகரம்",
+  "deity": "कुडमाडु कूतन — घागरींसह नृत्य करणारे प्रभू — या रूपातील कृष्ण, देवी अमृतघटवल्लीसह — एक तिरुनांगूर दिव्य देश",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirunangur",
-    "state": "Tamil Nadu",
+    "city": "तिरुनांगूर",
+    "state": "तमिळनाडू",
     "lat": 11.1747,
     "lng": 79.7786
   },
+  "period": "चोळ नाडूमधील एक दिव्य देश आणि अकरा तिरुनांगूर तिरुपतींपैकी एक; नालायिर दिव्य प्रबंधात तिरुमंगै आळ्वार यांनी गायिलेला",
   "century": 8,
+  "dynasty": "आळ्वारकालीन चोळ प्रदेश",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुनांगूर येथील तिरुअरिमेय विण्णगरम् येथे विष्णूची उपासना घागरींसह नृत्य करणारा कृष्ण, कुडमाडु कूतन, म्हणून अमृतघटवल्लीसह केली जाते — ही मूर्ती चुना-मातीची असून केवळ तेलाने अभिषिक्त केली जाते; तिरुमंगै आळ्वार यांनी एका दशकात तिचे गायन केले आहे.",
   "sections": {
-    "history": "Thiruarimeya Vinnagaram, known locally simply as Kudamadu Koothar Kovil, stands in the village of Thirunangur near Sirkazhi in Chola Nadu. It is one of the 108 Divya Desams sung by the Alvars in the Nalayira Divya Prabandham, and one of the eleven Thirunangur Tirupathis. Thirumangai Alvar devoted a full decad of ten pasurams to it, Periya Thirumozhi 3.10. The presiding Lord is Kudamadu Koothan, Krishna, with the Goddess Amruthagadavalli. No inscription or royal patron is firmly recorded, so the shrine's age rests on the hymns, placed between the seventh and ninth centuries.",
-    "architecture": "A Dravidian temple whose sanctum is crowned by the Ucchasrunga vimana. Its sacred tank is the Koti Amrutha Theertham. The central image is unusual in its making: the Lord is a sudai image, of stucco or burnt clay, rather than carved stone. For this reason it is anointed only with oil, the thailakappu, and never with water, a custom that shapes the daily worship here.",
-    "legends": "The name Kudamadu Koothan, the Lord who dances with pots, recalls the kudakoothu, Krishna's dance with pots at Gokulam in the tales of his childhood. Another telling links the name with Govardhana, the hill the young Krishna held aloft as an umbrella over the cowherds. These are the traditions that gather round the name; the shrine itself is counted among the eleven forms in which Vishnu is said to have appeared at Thirunangur.",
-    "festivals": "The shrine joins the Garuda Sevai on the day after Thai Amavasai (January–February), when its utsavar is taken on a Garuda vahana to Thirumanimadam to meet the other ten lords of Thirunangur, and the Mangalasasana Utsavam recalls Thirumangai Alvar's hymns. Tradition holds that seeing all eleven together equals visiting each one.",
-    "experience": "Come for the Krishna of the pot-dance, and for the rare chance to see a stucco image tended with oil alone. Read the decad of Periya Thirumozhi 3.10 before you set out if you can. The temple is small and quiet, among paddy fields about 10 km by road from Sirkazhi."
+    "history": "तिरुअरिमेय विण्णगरम्, स्थानिक भाषेत फक्त कुडमाडु कूतर कोविल म्हणून ओळखले जाणारे, चोळ नाडूमधील सिरकाळीजवळ तिरुनांगूर गावात उभे आहे. नालायिर दिव्य प्रबंधात आळ्वारांनी गायिलेल्या १०८ दिव्य देशांपैकी हे एक असून अकरा तिरुनांगूर तिरुपतींपैकीही एक आहे. तिरुमंगै आळ्वार यांनी दहा पाशुरांचे पूर्ण एक दशक, पेरिय तिरुमोळी ३.१०, याला वाहिले आहे. येथील प्रमुख देव कुडमाडु कूतन, म्हणजे कृष्ण, असून त्यांच्यासह देवी अमृतघटवल्ली आहेत. कोणताही शिलालेख वा राजाश्रयदाता निश्चितपणे नोंदलेला नाही, त्यामुळे मंदिराचे वय स्तोत्रांवर अवलंबून असून ते सातव्या ते नवव्या शतकादरम्यान मानले जाते.",
+    "architecture": "हे एक द्रविड मंदिर असून त्याच्या गर्भगृहावर उच्छशृंग विमान मुकुटासारखे आहे. त्याचे पवित्र तीर्थ कोटी अमृत तीर्थम् आहे. मुख्य मूर्तीची निर्मिती असामान्य आहे: प्रभू हे कोरलेल्या दगडाचे नसून सुधाई, म्हणजे चुना-माती वा भाजलेल्या मातीचे, स्वरूप आहे. म्हणूनच ती केवळ तेलाने, म्हणजेच तैलक्कापाने, अभिषिक्त केली जाते आणि कधीही पाण्याने नाही; येथील दैनंदिन पूजेला आकार देणारी ही प्रथा आहे.",
+    "legends": "कुडमाडु कूतन — घागरींसह नाचणारा प्रभू — हे नाव कुडक्कूतूची आठवण करून देते, म्हणजे कृष्णाच्या बालपणीच्या कथांतील गोकुळातील घागरींसह केलेले त्याचे नृत्य. दुसऱ्या कथनात हे नाव गोवर्धनाशी जोडले जाते, ज्या पर्वताला तरुण कृष्णाने गोपांवर छत्रीप्रमाणे उंच धरले. ही नावाभोवती जमा झालेल्या परंपरा आहेत; तिरुनांगूर येथे विष्णू ज्या अकरा रूपांत प्रकटले असे म्हटले जाते, त्यांमध्ये हे मंदिर गणले जाते.",
+    "festivals": "थाई अमावास्येनंतरच्या दिवशी (जानेवारी–फेब्रुवारी) गरुड सेवेत हे मंदिर सहभागी होते, जेव्हा याचा उत्सवमूर्ती गरुड वाहनावर बसवून तिरुनांगूरच्या इतर दहा प्रभूंना भेटण्यासाठी तिरुमणिमाडमला नेला जातो; आणि मंगलाशासन उत्सव तिरुमंगै आळ्वार यांच्या स्तोत्रांचे स्मरण करतो. परंपरा सांगते की अकराही प्रभूंचे एकत्र दर्शन म्हणजे प्रत्येकाला भेट देण्याइतके आहे.",
+    "experience": "घागरींच्या नृत्यातील कृष्णासाठी, आणि केवळ तेलाने जपली जाणारी चुना-मातीची मूर्ती पाहण्याच्या दुर्मिळ संधीसाठी या. शक्य असल्यास निघण्यापूर्वी पेरिय तिरुमोळी ३.१० हे दशक वाचा. हे मंदिर लहान व शांत असून सिरकाळीपासून रस्त्याने सुमारे १० कि.मी. अंतरावर भातशेतांमध्ये वसले आहे."
   },
   "visit": {
-    "timings": "Darshan is generally held in morning and evening sessions with a midday break; the Garuda Sevai day is by far the busiest. Confirm timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirunangur lies about 10 km by road south-east of Sirkazhi (Sirkali) in Mayiladuthurai district. Sirkazhi, on the Chennai–Mayiladuthurai railway line, is the nearest station, and Tiruchirappalli, about 160 km away, the nearest major airport. Auto-rickshaws and taxis from Sirkazhi reach the village; the eleven shrines lie among paddy fields close to one another."
+    "timings": "दर्शन सामान्यतः सकाळी व संध्याकाळी, दुपारच्या विश्रांतीसह, असते; गरुड सेवेचा दिवस सर्वाधिक गर्दीचा असतो. भेट देण्यापूर्वी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुनांगूर मयिलाडुतुरै जिल्ह्यात सिरकाळी (सीर्काळी) पासून रस्त्याने सुमारे १० कि.मी. आग्नेयेला आहे. चेन्नई–मयिलाडुतुरै रेल्वेमार्गावरील सिरकाळी हे जवळचे स्थानक असून सुमारे १६० कि.मी. अंतरावरील तिरुचिरापल्ली हे जवळचे मोठे विमानतळ आहे. सिरकाळीहून ऑटोरिक्षा व टॅक्सीने गावात पोहोचता येते; अकरा मंदिरे भातशेतांमध्ये एकमेकांच्या जवळ आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kudamadu-koothan-arimeya-vinnagaram.jpg",

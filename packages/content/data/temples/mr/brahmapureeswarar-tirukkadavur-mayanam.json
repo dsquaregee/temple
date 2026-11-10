@@ -1,29 +1,36 @@
 {
   "id": "brahmapureeswarar-tirukkadavur-mayanam",
   "locale": "mr",
+  "name": "ब्रह्मपुरीश्वरर मंदिर, तिरुक्कडवूर मयानम",
   "nativeName": "திருக்கடவூர் மயானம் பிரம்மபுரீஸ்வரர் கோயில்",
+  "deity": "ब्रह्मपुरीश्वरर रूपातील शिव, देवी मलरकुळल मिन्नम्मै यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम",
   "location": {
-    "city": "Tirukkadavur Mayanam, near Tirukkadaiyur",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कडवूर मयानम, तिरुक्कडैयूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 11.02,
     "lng": 79.85
   },
+  "period": "तेवारम काळ (सातव्या शतकात स्तुतिगान); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुक्कडैयूरजवळील स्मशानभूमीतील तीर्थ असलेले तिरुक्कडवूर मयानम येथे शिवाची ब्रह्मपुरीश्वरर रूपात, देवी मलरकुळल मिन्नम्मै यांच्यासह, पूजा होते. संबंदर, अप्पर आणि सुंदरर यांनी गायिलेले हे पाडल पेट्र स्थलम पाच मयानम मंदिरांपैकी एक आहे, जेथे प्रभूने ब्रह्माचा अहंकार नम्र करून त्याला पुन्हा घडवले, असे सांगितले जाते.",
   "sections": {
-    "history": "Tirukkadavur Mayanam, also Tirumayanam, lies about 1.5–3 km from the Amrita Kadeswarar temple at Tirukkadaiyur, in Mayiladuthurai district (some listings Nagapattinam). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, Appar and Sundarar, counted among the Shiva shrines on the southern bank of the Kaveri. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Brahmapureeswarar in the sanctum, with the goddess Malarkuzhal Minnammai — also named Nimalakuchambikai — in her own shrine, a Nandi and the parivara devatas. As a mayana koil, a cremation-ground shrine, it keeps the austere character of the five Mayanam temples; the walled courtyard is of the lower-delta form.",
-    "legends": "The place is a mayana koil, a cremation-ground shrine, and one of the five Mayanam temples where Shiva is said to have humbled and recreated the ego of Brahma — the others being Kachi Mayanam at Kanchipuram, Kazhi Mayanam at Sirkazhi, Naalur Mayanam, and Veezhi Mayanam at Tiruveezhimizhalai. Shiva is worshipped as Brahmapureeswarar, the lord of Brahma's city, with Malarkuzhal Minnammai beside him.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims of the Tirukkadaiyur country, who come to the neighbouring Amrita Kadeswarar for the Markandeya legend, include this Mayanam shrine among their stops.",
-    "experience": "At Tirukkadavur Mayanam the pilgrim comes to a quiet cremation-ground shrine of the lower delta. Before Brahmapureeswarar and Malarkuzhal Minnammai, near Tirukkadaiyur, the visitor finds the austere grace of a Tevaram temple and the memory of Brahma's ego humbled and made new."
+    "history": "तिरुक्कडवूर मयानम, ज्याला तिरुमयानम असेही म्हणतात, मयिलाडुतुरै जिल्ह्यात (काही याद्यांनुसार नागपट्टिनम) तिरुक्कडैयूर येथील अमृत कडेश्वरर मंदिरापासून सुमारे १.५ ते ३ किमी अंतरावर आहे. हे एक पाडल पेट्र स्थलम असून तिरुज्ञान संबंदर, अप्पर आणि सुंदरर यांनी तेवारममध्ये त्याचे स्तवन केले आहे; कावेरीच्या दक्षिण तीरावरील शिवतीर्थांमध्ये त्याची गणना होते. येथील दगडी मंदिर चोळकालीन आणि त्यानंतरचे आहे.",
+    "architecture": "द्रविड शैलीतील हे डेल्टा प्रदेशातील मंदिर आहे. गर्भगृहात ब्रह्मपुरीश्वरर विराजमान आहेत; देवी मलरकुळल मिन्नम्मै — जिला निर्मलकुचांबिकै असेही म्हणतात — तिच्या स्वतंत्र मंदिरात आहे; तसेच नंदी आणि परिवार देवता आहेत. मयान कोविल, म्हणजे स्मशानभूमीतील तीर्थ, असल्याने पाच मयानम मंदिरांचे साधे, तपस्वी स्वरूप येथे जपले गेले आहे; तटबंदीयुक्त प्रांगण खालच्या डेल्टा प्रदेशातील पद्धतीचे आहे.",
+    "legends": "हे स्थान मयान कोविल, म्हणजे स्मशानभूमीतील तीर्थ आहे, आणि पाच मयानम मंदिरांपैकी एक आहे, जेथे शिवाने ब्रह्माचा अहंकार नम्र करून त्याला पुन्हा घडवले, असे सांगितले जाते. इतर चार म्हणजे कांचीपुरम येथील काची मयानम, सिरकाळी येथील काळी मयानम, नालूर मयानम आणि तिरुवीळिमिळलै येथील वीळी मयानम. शिवाची ब्रह्मपुरीश्वरर, म्हणजे ब्रह्माच्या नगरीचा स्वामी, या रूपात पूजा होते; त्यांच्या बाजूला मलरकुळल मिन्नम्मै विराजमान आहेत.",
+    "festivals": "मंदिरात माशी महिन्यात (फेब्रुवारी–मार्च) महाशिवरात्री, पुरट्टासी महिन्यात (सप्टेंबर–ऑक्टोबर) नवरात्र आणि कार्तिकैतील सोमवार आणि प्रदोष पूजेसह साजरे केले जातात. मार्कंडेयाच्या कथेमुळे शेजारच्या अमृत कडेश्वररांच्या दर्शनाला येणारे तिरुक्कडैयूर प्रदेशातील यात्रेकरू या मयानम तीर्थाचाही आपल्या यात्रेत समावेश करतात.",
+    "experience": "तिरुक्कडवूर मयानम येथे यात्रेकरू खालच्या डेल्टा प्रदेशातील एका शांत स्मशानभूमीतील तीर्थात येतो. तिरुक्कडैयूरजवळील ब्रह्मपुरीश्वरर आणि मलरकुळल मिन्नम्मै यांच्या समोर उभे राहिल्यावर अभ्यागताला तेवारम मंदिराची साधी शोभा आणि ब्रह्माचा अहंकार नम्र होऊन नवा झाल्याची स्मृती लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkadavur Mayanam lies about 1.5–3 km from the Amrita Kadeswarar temple at Tirukkadaiyur, in Mayiladuthurai district. Tirukkadaiyur and Mayiladuthurai are the nearest towns, with buses and taxis to the shrine."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उत्तर दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "खांदे आणि गुडघे झाकलेले साधे पारंपरिक पोशाख अपेक्षित आहेत; पादत्राणे प्रवेशद्वारापाशी काढावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत छायाचित्रणास साधारणतः परवानगी असते, परंतु गर्भगृहाच्या आत नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुक्कडवूर मयानम मयिलाडुतुरै जिल्ह्यात तिरुक्कडैयूर येथील अमृत कडेश्वरर मंदिरापासून सुमारे १.५ ते ३ किमी अंतरावर आहे. तिरुक्कडैयूर आणि मयिलाडुतुरै ही जवळची गावे असून तेथून तीर्थस्थानापर्यंत बस आणि टॅक्सी उपलब्ध असतात."
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "srivilliputhur-andal",
   "locale": "mr",
+  "name": "श्रीविल्लिपुत्तूर आंडाळ मंदिर (वटपत्रशायी)",
   "nativeName": "ஸ்ரீவில்லிபுத்தூர் ஆண்டாள் கோயில் (வடபத்ரசாயி)",
+  "deity": "वटपत्रशायी रूपातील विष्णू, वडाच्या पानावर शयन करणारा, आंडाळ (कोदै नाच्चियार) यांच्यासह — आळ्वार संतांमधील एकमेव स्त्री",
+  "tradition": "वैष्णव (श्रीवैष्णव)",
   "location": {
-    "city": "Srivilliputhur",
-    "state": "Tamil Nadu",
+    "city": "श्रीविल्लिपुत्तूर",
+    "state": "तमिळनाडू",
     "lat": 9.5125,
     "lng": 77.6295
   },
+  "period": "पांड्य प्रदेशातील एक दिव्य देश, आणि आंडाळचे मंदिर, जिचे तिरुप्पावै तमिळ मार्गळी महिनाभर गायले जाते",
   "century": 9,
+  "dynasty": "पांड्य, नंतरच्या नायकांच्या आश्रयासह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "श्रीविल्लिपुत्तूर येथे विष्णू वटपत्रशायी रूपात आंडाळच्या मंदिराशेजारी शयन करतो — ती कन्या-संत जिने त्याच्यावर वर म्हणून प्रेम केले. त्याचा उत्तुंग राजगोपुर तमिळनाडूचे प्रतीक आहे, आणि त्याचे तिरुप्पावै संपूर्ण मार्गळी महिन्यात गायले जाते.",
   "sections": {
-    "history": "Srivilliputhur, in the Pandya country of southern Tamil Nadu, is honoured as the home of Andal — Kodhai, the only woman among the twelve Alvar saints. Tradition holds that Periyalvar, her foster father, found her as an infant beneath a tulsi plant in the temple garden, and that she grew up loving Vishnu so wholly that she wore the garlands meant for him and would take no other bridegroom. The temple is a Divya Desam, one of the 108 abodes of Vishnu sung by the Alvars, and its presiding lord is Vatapatrasayi, worshipped alongside Andal in her own celebrated shrine.",
-    "architecture": "Built in the Dravidian manner and enlarged under later patrons, the temple is crowned by a soaring eleven-tiered rajagopuram, one of the tallest in the land — so emblematic that it is the official emblem of the Government of Tamil Nadu. Within, the lord Vatapatrasayi reclines upon the serpent, while Andal is enshrined in her adjoining temple; pillared halls and painted ceilings carry the devotional art of the deep south.",
-    "legends": "Andal's love is the temple's living legend: she is said to have offered Vishnu garlands she had first worn herself, and her Thiruppavai and Nachiyar Tirumozhi remain among the most beloved of Tamil devotional poems. In the end, tradition tells, she was united with Ranganatha of Srirangam and merged into the lord — the only Alvar, and the only woman, to be so wedded to the divine. Her festival marriage to Ranganatha is re-enacted here each year.",
-    "festivals": "The month of Margazhi belongs to Andal, when her Thiruppavai is chanted daily in homes and temples across the Tamil country. Aadi Pooram, celebrating her appearance, and the festival of her wedding to Ranganatha draw great crowds, with processions through the temple town beneath its great tower.",
-    "experience": "To stand before Andal's shrine is to enter one of the most intimate devotions in the Tamil tradition — a saint who is also a bride. Pilgrims come for the Thiruppavai season and for the sight of the rajagopuram rising over the town, a landmark carried on the emblem of the state itself."
+    "history": "दक्षिण तमिळनाडूच्या पांड्य प्रदेशातील श्रीविल्लिपुत्तूर हे बारा आळ्वार संतांतील एकमेव स्त्री असलेल्या आंडाळ — कोदै — हिचे घर म्हणून पूज्य आहे. परंपरा सांगते की तिचे पालक-पिता पेरियाळ्वार यांना ती मंदिराच्या बागेतील तुळशीच्या रोपाखाली बालिका असताना सापडली, आणि ती विष्णूवर इतके संपूर्ण प्रेम करीत वाढली की त्याच्यासाठी असलेल्या माळा ती स्वतः घालत असे आणि दुसऱ्या कोणत्याही वराला तिने स्वीकारले नसते. हे मंदिर एक दिव्य देश आहे, आळ्वारांनी गायलेल्या विष्णूच्या १०८ निवासांपैकी एक, आणि त्याचा मूळ स्वामी वटपत्रशायी आहे, ज्याची पूजा आंडाळच्या स्वतःच्या प्रसिद्ध मंदिरासोबत होते.",
+    "architecture": "द्रविड पद्धतीने बांधलेले आणि नंतरच्या आश्रयदात्यांनी विस्तारलेले हे मंदिर अकरा मजली उत्तुंग राजगोपुराने मुकुटमंडित आहे, जे देशातील सर्वांत उंच गोपुरांपैकी एक आहे — इतके प्रतीकात्मक की ते तमिळनाडू सरकारचे अधिकृत बोधचिन्ह आहे. आत प्रभू वटपत्रशायी शेषनागावर शयन करतो, तर आंडाळ तिच्या लगतच्या मंदिरात विराजमान आहे; स्तंभयुक्त सभागृहे आणि रंगवलेली छते दक्षिणेतील भक्तिकला जपतात.",
+    "legends": "आंडाळचे प्रेम हीच मंदिराची जिवंत आख्यायिका आहे: तिने प्रथम स्वतः घातलेल्या माळा विष्णूला अर्पण केल्या असे सांगितले जाते, आणि तिचे तिरुप्पावै आणि नाच्चियार तिरुमोळी ही तमिळ भक्तिकाव्यांतील सर्वांत प्रिय काव्ये राहिली आहेत. शेवटी, परंपरा सांगते, ती श्रीरंगमच्या रंगनाथाशी एकरूप झाली आणि प्रभूमध्ये विलीन झाली — दिव्याशी अशा प्रकारे विवाहित झालेली एकमेव आळ्वार आणि एकमेव स्त्री. रंगनाथाशी तिचा उत्सव-विवाह येथे दरवर्षी पुन्हा साकारला जातो.",
+    "festivals": "मार्गळी महिना आंडाळचा आहे, जेव्हा तमिळ प्रदेशात घरोघरी व मंदिरांत तिचे तिरुप्पावै दररोज म्हटले जाते. तिच्या अवताराचा उत्सव आडि पूरम् आणि रंगनाथाशी तिच्या विवाहाचा उत्सव मोठी गर्दी खेचतात, आणि मंदिरनगरीतून भव्य गोपुराखाली मिरवणुका निघतात.",
+    "experience": "आंडाळच्या मंदिरासमोर उभे राहणे म्हणजे तमिळ परंपरेतील सर्वांत जिव्हाळ्याच्या भक्तीत प्रवेश करणे — एक संत जी वधूही आहे. यात्रेकरू तिरुप्पावैच्या हंगामासाठी आणि नगरावर उठणाऱ्या राजगोपुराच्या दर्शनासाठी येतात, जो राज्याच्या बोधचिन्हावरच वाहिलेला खूण-स्तंभ आहे."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Margazhi month and Aadi Pooram are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Srivilliputhur lies in Virudhunagar district of southern Tamil Nadu, off the Madurai–Sivakasi road, reachable by road and rail; Madurai is the nearest major hub and airport."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शन सत्रांसह आणि दुपारच्या बंदसह उघडे; मार्गळी महिना आणि आडि पूरम् सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सद्य वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात व त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "श्रीविल्लिपुत्तूर दक्षिण तमिळनाडूच्या विरुदुनगर जिल्ह्यात, मदुराई–शिवकाशी मार्गापासून थोडे आत आहे, आणि रस्त्याने व रेल्वेने पोहोचता येते; मदुराई हे जवळचे प्रमुख केंद्र आणि विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",

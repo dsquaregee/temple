@@ -1,30 +1,37 @@
 {
   "id": "horanadu-annapoorneshwari",
   "locale": "mr",
+  "name": "श्री अन्नपूर्णेश्वरी मंदिर, होरनाडु",
   "nativeName": "ಶ್ರೀ ಅನ್ನಪೂರ್ಣೇಶ್ವರಿ ದೇವಸ್ಥಾನ, ಹೊರನಾಡು",
+  "deity": "अन्नदात्री अन्नपूर्णेश्वरी रूपातील देवी",
+  "tradition": "शाक्त परंपरा",
   "location": {
-    "city": "Horanadu",
-    "state": "Karnataka",
+    "city": "होरनाडु",
+    "state": "कर्नाटक",
     "lat": 13.2706,
     "lng": 75.3414
   },
+  "period": "परंपरेनुसार प्राचीन; सुमारे चारशे वर्षे वंशपरंपरागत विश्वस्त कुटुंबाकडून व्यवस्थापित, सध्याच्या मूर्तीची प्राणप्रतिष्ठा १९७३ मध्ये",
   "century": 17,
+  "dynasty": "वंशपरंपरागत धर्मकर्ता कुटुंब",
+  "style": "मलनाड मंदिर परंपरा (पश्चिम घाट)",
   "unesco": false,
   "circuits": [
     "temples-of-coastal-karnataka"
   ],
+  "summary": "भद्रा नदीच्या काठी घनदाट मलनाड टेकड्यांत वसलेले होरनाडु देवीला अन्नदात्री अन्नपूर्णेश्वरी म्हणून पूजते — आणि येणाऱ्या प्रत्येक यात्रेकरूला अन्न देऊन तिचे वचन पाळते.",
   "sections": {
-    "history": "Horanadu is a small village in the Western Ghats of Chikkamagaluru district, set among coffee estates and rainforest on the bank of the Bhadra river, not far from Kudremukh. Its temple to Annapoorneshwari is one of the most loved goddess shrines of the Malnad. Tradition carries its sanctity back to the sage Agastya, and Adi Shankaracharya is remembered as having renewed its spiritual power. For about four hundred years a hereditary family of dharmakartas has conducted its worship. In 1973 the temple was renovated under the trustee D. B. Venkatasubba Jois, and a new image of the Goddess was consecrated on the festival of Akshaya Tritiya.",
-    "architecture": "The temple stands in a forest clearing above the river, its buildings framed by the green slopes of the Ghats. At its heart is the sanctum of Annapoorneshwari, whose image is of gold and draws the eye of every devotee who reaches the threshold. Around it are the halls and kitchens of a working pilgrim centre, for at Horanadu the dining hall matters almost as much as the shrine: here the Goddess's gift of food is served, day after day, to all who come.",
-    "legends": "Annapoorna is the form of Parvati who holds the ladle and vessel of plenty, the mother who ensures that no one in the world goes hungry; a well-loved story tells how even Shiva came to her as a mendicant to receive alms of food. Horanadu's tradition says that the sage Agastya first consecrated the Goddess here, and that Adi Shankaracharya later renewed the shrine. Devotees believe that one who prays to her here will never lack food.",
-    "festivals": "Akshaya Tritiya, held to be the Goddess's birthday and the anniversary of the 1973 consecration, is the chief festival. The Rathotsava, the chariot festival of about five days, falls in February or March, and Navaratri is celebrated with special worship in the autumn. Confirm dates locally.",
-    "experience": "Horanadu is known above all for annadana: every visitor is fed by the temple, with meals served several times a day, so pilgrims leave having received the Goddess's prasada as a meal. The winding drive through the misty hills is part of the journey, and many combine the visit with Kalasa, Sringeri and the temples of the coast."
+    "history": "होरनाडु हे चिक्कमगळूरू जिल्ह्यातील पश्चिम घाटातले एक लहान गाव असून ते भद्रा नदीच्या काठी, कॉफीच्या मळ्यांत व पर्जन्यवनात, कुद्रेमुखपासून फार दूर नाही अशा ठिकाणी वसले आहे. येथील अन्नपूर्णेश्वरीचे मंदिर मलनाडातील सर्वांत प्रिय देवीमंदिरांपैकी एक आहे. परंपरा त्याची पवित्रता अगस्त्य ऋषींपर्यंत मागे नेते, आणि आदि शंकराचार्यांनी त्याची आध्यात्मिक शक्ती पुनरुज्जीवित केली अशी स्मृती आहे. सुमारे चारशे वर्षांपासून धर्मकर्त्यांचे एक वंशपरंपरागत कुटुंब येथील पूजा सांभाळत आहे. १९७३ मध्ये विश्वस्त डी. बी. वेंकटसुब्बा जोईस यांच्या देखरेखीखाली मंदिराचा जीर्णोद्धार झाला, आणि अक्षय्यतृतीयेच्या पर्वणीवर देवीच्या नव्या मूर्तीची प्राणप्रतिष्ठा करण्यात आली.",
+    "architecture": "मंदिर नदीच्या वर जंगलातील एका मोकळ्या जागेत उभे आहे, आणि त्याच्या इमारती घाटांच्या हिरव्या उतारांनी वेढलेल्या आहेत. त्याच्या मध्यभागी अन्नपूर्णेश्वरीचे गर्भगृह आहे, जिची मूर्ती सुवर्णाची असून उंबरठ्यापर्यंत पोहोचणाऱ्या प्रत्येक भक्ताची दृष्टी तिच्याकडे वेधली जाते. त्याभोवती एका कार्यरत यात्रा-केंद्राचे सभामंडप व पाकशाला आहेत, कारण होरनाडुमध्ये भोजनशाळेला गर्भगृहाइतकेच महत्त्व आहे: येथे देवीची अन्नरूपी देणगी दिवसेंदिवस येणाऱ्या प्रत्येकाला वाढली जाते.",
+    "legends": "अन्नपूर्णा हे पार्वतीचे ते रूप आहे जे समृद्धीचा डाव आणि पात्र धारण करते, जगात कोणीही उपाशी राहू नये याची काळजी घेणारी माता; एक प्रिय कथा सांगते की खुद्द शिवही तिच्याकडे अन्नाची भिक्षा मागण्यासाठी याचक म्हणून आले. होरनाडुची परंपरा म्हणते की अगस्त्य ऋषींनी येथे प्रथम देवीची प्रतिष्ठापना केली, आणि पुढे आदि शंकराचार्यांनी हे स्थान पुनरुज्जीवित केले. भक्तांचा विश्वास आहे की जो येथे तिची प्रार्थना करतो त्याला अन्नाची कधीही कमतरता भासत नाही.",
+    "festivals": "अक्षय्यतृतीया, जी देवीचा जन्मदिवस आणि १९७३ च्या प्राणप्रतिष्ठेचा वर्धापनदिन मानली जाते, हा मुख्य उत्सव आहे. सुमारे पाच दिवसांचा रथोत्सव फेब्रुवारी किंवा मार्चमध्ये येतो, आणि शरद ऋतूत नवरात्र विशेष पूजेने साजरे होते. तारखा स्थानिक पातळीवर निश्चित करून घ्या.",
+    "experience": "होरनाडु सर्वांत अधिक अन्नदानासाठी प्रसिद्ध आहे: प्रत्येक दर्शनार्थीला मंदिराकडून भोजन दिले जाते, दिवसातून अनेकदा जेवण वाढले जाते, त्यामुळे यात्रेकरू देवीचा प्रसाद भोजनरूपात घेऊनच परततात. धुक्याने भरलेल्या टेकड्यांतून वळणावळणाचा प्रवास हाही या यात्रेचा भाग आहे, आणि अनेक जण या भेटीला कलासा, शृंगेरी व किनारपट्टीवरील मंदिरांशी जोडतात."
   },
   "visit": {
-    "timings": "Open daily from early morning to night, with a break in the afternoon; weekends, Akshaya Tritiya and the festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Traditional dress is expected and the temple's dress rules are strictly observed; follow the posted guidance at the entrance. Footwear is removed before entering.",
-    "photography": "Photography is not permitted in the sanctum; follow the posted rules elsewhere in the temple.",
-    "gettingThere": "Horanadu is about 10 km from Kalasa and roughly 95 km from Chikkamagaluru by hill roads through the Ghats; Chikkamagaluru has the nearest railway station, and Mangaluru International Airport is the nearest major airport. Buses run from Kalasa, Chikkamagaluru and Mangaluru."
+    "timings": "दररोज पहाटेपासून रात्रीपर्यंत उघडे, दुपारी विश्रांती; शनिवार-रविवार, अक्षय्यतृतीया व उत्सवाचे दिवस सर्वांत गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा निश्चित करून घ्या.",
+    "dressCode": "पारंपरिक पेहराव अपेक्षित असून मंदिराचे वेशभूषेचे नियम काटेकोरपणे पाळले जातात; प्रवेशद्वारावरील सूचनांचे पालन करा. आत जाण्यापूर्वी पादत्राणे काढली जातात.",
+    "photography": "गर्भगृहात छायाचित्रणास परवानगी नाही; मंदिरात इतरत्र लावलेल्या नियमांचे पालन करा.",
+    "gettingThere": "होरनाडु कलासापासून सुमारे १० किमी आणि चिक्कमगळूरूपासून घाटातील डोंगरी रस्त्यांनी सुमारे ९५ किमी आहे; चिक्कमगळूरू येथे जवळचे रेल्वे स्थानक आहे, आणि मंगळूरू आंतरराष्ट्रीय विमानतळ हा जवळचा मोठा विमानतळ आहे. कलासा, चिक्कमगळूरू व मंगळूरूहून बसगाड्या धावतात."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/horanadu-annapoorneshwari.jpg",

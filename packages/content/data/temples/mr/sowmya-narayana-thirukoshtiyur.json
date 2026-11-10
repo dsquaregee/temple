@@ -1,30 +1,37 @@
 {
   "id": "sowmya-narayana-thirukoshtiyur",
   "locale": "mr",
+  "name": "सौम्य नारायण पेरुमाळ मंदिर, तिरुकोष्टियूर",
   "nativeName": "சௌமிய நாராயணப் பெருமாள் கோயில், திருக்கோஷ்டியூர்",
+  "deity": "विष्णू सौम्य नारायण पेरुमाळ रूपात, देवी तिरुमामगळसह — विमानाच्या तीन स्तरांवर शयन, उभ्या आणि बसलेल्या रूपात उपासना",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Thirukoshtiyur, Sivaganga",
-    "state": "Tamil Nadu",
+    "city": "तिरुकोष्टियूर, शिवगंगा",
+    "state": "तमिळनाडू",
     "lat": 10.066,
     "lng": 78.555
   },
+  "period": "पांड्य प्रदेशातील एक दिव्य देशम, नालायिर दिव्य प्रबंधमध्ये आळवारांनी गायिलेले आणि रामानुजांनी पावन केलेले",
   "century": 8,
+  "dynasty": "पांड्य (नंतरच्या भर घालून)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुकोष्टियूर येथे, स्वतःच्या प्रवेशद्वारापेक्षा उंच विमानाखाली, विष्णूची सौम्य नारायण म्हणून उपासना होते — परंपरेनुसार, याच मंदिरातून रामानुजांनी पवित्र मंत्राची सर्वांना घोषणा केली.",
   "sections": {
-    "history": "Thirukoshtiyur is a village in Sivaganga district, near Tiruppattur, whose temple of Sowmya Narayana Perumal is one of the 108 Divya Desams of the Pandya Nadu, praised by the Alvars in the Nalayira Divya Prabandham. It is above all the village of Thirukoshtiyur Nambi, one of the teachers of Ramanuja. Sri Vaishnava tradition tells that Ramanuja, sent here by Thirukachi Nambi, walked to Thirukoshtiyur again and again to receive the eight-syllabled mantra, Om Namo Narayanaya, and was turned away seventeen times before Nambi at last taught him, under a vow of secrecy. Ramanuja then climbed the temple and proclaimed the mantra to everyone gathered below, whatever their birth. Shrines to both Nambi and Ramanuja stand within the temple.",
-    "architecture": "The temple is remarkable for its Ashtanga vimana, which rises higher than the five-tiered rajagopuram at the entrance. The vimana is built in three levels, each a shrine: on the ground the lord reclines, on the second he stands as Devaloka Perumal, and on the third he is seated as Vaikunta Perumal. The upper levels are reached by stairs, and from the vimana devotees see the place where Ramanuja is said to have stood. The Goddess Thirumamagal has her own shrine.",
-    "legends": "The name is said to recall a koshti, a gathering: tradition holds that the devas assembled here to take counsel with Vishnu, and so the place became Thirukoshtiyur. But the story every visitor hears is Ramanuja's — of a teacher who guarded the mantra and a disciple who, accepting that he himself might suffer for breaking his word, chose to share the path to liberation with all who would listen.",
-    "festivals": "The temple keeps the great Vaishnava festivals, above all Vaikunta Ekadashi, with processions of the utsava deities through the village. The days of Ramanuja and of Thirukoshtiyur Nambi are honoured with special worship and the recitation of the Divya Prabandham, recalling the event that made this shrine famous.",
-    "experience": "Climb the vimana to stand where tradition places Ramanuja's proclamation, and look out over the village and its fields. Each level of the tower brings a fresh darshan — reclining, standing, seated — making a visit here unlike most temples. The village is quiet; combine it with Karaikudi and the Chettinad country close by."
+    "history": "तिरुकोष्टियूर हे तिरुप्पत्तूरजवळ, शिवगंगा जिल्ह्यातील गाव आहे; तेथील सौम्य नारायण पेरुमाळ मंदिर हे पांड्य नाडूतील १०८ दिव्य देशमांपैकी एक असून नालायिर दिव्य प्रबंधमध्ये आळवारांनी त्याची स्तुती केली आहे. रामानुजांचे गुरू असलेल्या तिरुकोष्टियूर नंबींचे गाव म्हणून ते सर्वांत प्रसिद्ध आहे. श्री वैष्णव परंपरा सांगते की तिरुकच्ची नंबींनी पाठविलेले रामानुज अष्टाक्षरी मंत्र, ॐ नमो नारायणाय, मिळविण्यासाठी तिरुकोष्टियूरला वारंवार चालत गेले, आणि सतरा वेळा त्यांना परत पाठविण्यात आले, मग शेवटी नंबींनी त्यांना गुप्ततेच्या शपथेवर तो शिकविला. रामानुज नंतर मंदिरावर चढले आणि खाली जमलेल्या सर्वांना, त्यांच्या जन्माची पर्वा न करता, तो मंत्र घोषित केला. मंदिरात नंबी आणि रामानुज या दोघांची देवालये आहेत.",
+    "architecture": "हे मंदिर आपल्या अष्टांग विमानामुळे उल्लेखनीय आहे, जे प्रवेशद्वारावरील पाच मजली राजगोपुरापेक्षा उंच उठते. विमान तीन स्तरांवर बांधलेले आहे, प्रत्येक स्तर एक देवालय आहे: तळमजल्यावर स्वामी शयन करतो, दुसऱ्यावर तो देवलोक पेरुमाळ म्हणून उभा आहे, आणि तिसऱ्यावर तो वैकुंठ पेरुमाळ म्हणून बसलेला आहे. वरच्या स्तरांवर जिन्यांनी जाता येते, आणि विमानावरून भाविकांना रामानुज जिथे उभे राहिले असे सांगितले जाते ते स्थान दिसते. देवी तिरुमामगळचे स्वतंत्र देवालय आहे.",
+    "legends": "नाव 'कोष्टी', म्हणजे सभा, याची आठवण करून देते असे सांगितले जाते: परंपरा मानते की देव येथे विष्णूशी मसलत करण्यासाठी जमले, आणि म्हणून या स्थानाचे नाव तिरुकोष्टियूर पडले. पण प्रत्येक यात्रेकरूला ऐकायला मिळणारी कथा रामानुजांची आहे — मंत्र जपणाऱ्या गुरूची, आणि वचन मोडल्याबद्दल स्वतःला शिक्षा होऊ शकते हे स्वीकारून, मुक्तीचा मार्ग ऐकू इच्छिणाऱ्या सर्वांसोबत वाटून घेण्याचे निवडणाऱ्या शिष्याची.",
+    "festivals": "मंदिर मोठे वैष्णव उत्सव पाळते, विशेषतः वैकुंठ एकादशी, ज्यात उत्सवमूर्तींच्या गावातून मिरवणुका निघतात. रामानुज आणि तिरुकोष्टियूर नंबी यांचे दिवस विशेष पूजा आणि दिव्य प्रबंधाच्या पठणाने गौरविले जातात, ज्यामुळे या देवालयाला प्रसिद्धी देणाऱ्या घटनेचे स्मरण होते.",
+    "experience": "रामानुजांच्या घोषणेचे स्थान म्हणून परंपरा सांगते तिथे उभे राहण्यासाठी विमानावर चढा, आणि गाव व त्याच्या शेतांवर नजर टाका. मनोऱ्याचा प्रत्येक स्तर नवे दर्शन देतो — शयन, उभे, बसलेले — ज्यामुळे येथील भेट बहुतेक मंदिरांपेक्षा वेगळी ठरते. गाव शांत आहे; जवळच्या कारैकुडी आणि चेट्टिनाड प्रदेशाशी या भेटीची सांगड घाला."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi is busiest. Confirm current timings, including access to the upper vimana shrines, before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukoshtiyur lies near Tiruppattur in Sivaganga district, reached by road from Tiruppattur, Sivaganga or Karaikudi. Karaikudi and Sivaganga have the nearest railway stations, and Madurai Airport, about 70 km away, is the nearest airport."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन सत्रांसह खुले असते, दुपारी बंद असते; वैकुंठ एकादशीला सर्वाधिक गर्दी असते. भेट देण्यापूर्वी वरच्या विमान देवालयांत प्रवेशासह सध्याच्या वेळा तपासून घ्याव्यात.",
+    "dressCode": "पारंपरिक, सभ्य पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुकोष्टियूर शिवगंगा जिल्ह्यात तिरुप्पत्तूरजवळ आहे; तिरुप्पत्तूर, शिवगंगा किंवा कारैकुडीहून रस्त्याने पोहोचता येते. कारैकुडी आणि शिवगंगा येथे सर्वात जवळची रेल्वे स्थानके आहेत, आणि सुमारे ७० किमी अंतरावरील मदुराई विमानतळ हे सर्वात जवळचे विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sowmya-narayana-thirukoshtiyur.jpg",

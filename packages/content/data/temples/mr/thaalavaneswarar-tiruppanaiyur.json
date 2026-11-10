@@ -1,29 +1,36 @@
 {
   "id": "thaalavaneswarar-tiruppanaiyur",
   "locale": "mr",
+  "name": "सौंदरेश्वरर मंदिर, तिरुप्पनैयूर",
   "nativeName": "திருப்பனையூர் சவுந்தரேஸ்வரர் (தாளவனேஸ்வரர்) கோயில்",
+  "deity": "शिव सौंदरेश्वरर (थालवनेश्वरर, ताड वनाचा स्वामी) रूपात, देवी सौंदरनायकीसह",
+  "tradition": "शैव — सुंदरर यांनी गायिलेले पाडल पेट्र स्थळम्",
   "location": {
-    "city": "Tiruppanaiyur, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पनैयूर, तिरुवारूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.8783,
     "lng": 79.555
   },
+  "period": "तेवारम काळ, चोलकालीन बांधकामासह",
   "century": 9,
+  "dynasty": "चोल (नंतरच्या भरांसह)",
+  "style": "द्रविडी",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूरजवळील तिरुप्पनैयूर शिवाची सौंदरेश्वरर — थालवनेश्वरर, ताड वनाचा स्वामी, म्हणूनही स्मरणात असलेला — या रूपात देवी सौंदरनायकीसह उपासना करते. सुंदरर यांनी गायिलेले हे पाडल पेट्र स्थळम् असून, गावाला नाव देणाऱ्या ताडाच्या झाडावरून (पनै) मंदिराला नाव आणि पवित्र वृक्ष मिळाला आहे. परंपरेनुसार स्वयंभू लिंगाची स्थापना पराशर ऋषींनी केली, आणि एका तरुण चोल राजपुत्राला व त्याच्या मातेला येथे आश्रय मिळाल्याचे स्मरणही केले जाते.",
   "sections": {
-    "history": "Tiruppanaiyur is an ancient Shaiva village near Tiruvarur, hymned in the Tevaram by Sundarar and counted among the Paadal Petra Sthalams. The village — and the temple — take their name from the panai, the palmyra, which is the sthala vriksham. The stone temple is of the Chola period; tradition holds the self-manifested lingam to have been installed by the sage Parasara, and remembers the temple as a place of refuge for a Chola prince in a time of danger.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Soundareswarar; the goddess Soundaranayaki has her own shrine. The palmyra, the sthala vriksham, stands within the sacred precinct and gives the lord his other name, Thaalavaneswarar, lord of the palm forest. A Vinayaka shrine, tied to the refuge legend, is honoured within the complex.",
-    "legends": "The temple's tradition recalls the young Karikala Chola, who, in a time of danger, was secretly sent with his mother to Panaiyur by his kinsman, the Sangam poet Irumpidarthalaiyar; the queen took refuge in this temple and prayed to Vinayaka for the prince's protection. Another tradition holds that the self-manifested lingam was installed in worship by the sage Parasara. The palmyra forest that gives the village its name frames both these memories, and the lord's name Thaalavaneswarar keeps the sacred tree at the heart of the shrine.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam. The Vinayaka of the refuge legend draws particular devotion, and Sundarar's hymn is cherished in the temple's tradition.",
-    "experience": "Tiruppanaiyur offers the pilgrim a quiet village temple shaded by the palmyra of its name, with a gentle story of a mother's prayer for her endangered son. The darshan of Soundareswarar, the self-manifested lord of the palm forest, rewards those who seek out the lesser-known Paadal Petra shrines around Tiruvarur."
+    "history": "तिरुप्पनैयूर हे तिरुवारूरजवळील प्राचीन शैव गाव असून तेवारममध्ये सुंदरर यांनी त्याचे स्तुतिगान केले आहे, आणि ते पाडल पेट्र स्थळांमध्ये गणले जाते. गावाला — आणि मंदिराला — नाव पनै, म्हणजे ताड, यावरून मिळाले आहे, जो स्थळ वृक्ष आहे. पाषाण मंदिर चोल काळातील आहे; परंपरेनुसार स्वयंभू लिंगाची स्थापना पराशर ऋषींनी केली, आणि संकटकाळात एका चोल राजपुत्राच्या आश्रयाचे स्थान म्हणून या मंदिराचे स्मरण केले जाते.",
+    "architecture": "मंदिर द्रविडी रचनेचे असून त्यात गोपुर, प्राकार आणि सौंदरेश्वररचे गर्भगृह आहे; देवी सौंदरनायकीचे स्वतंत्र देवालय आहे. स्थळ वृक्ष ताड पवित्र परिसरात उभा आहे आणि प्रभूला थालवनेश्वरर, ताड वनाचा स्वामी, हे दुसरे नाव देतो. आश्रयकथेशी जोडलेले विनायकाचे देवालय संकुलात पूजनीय मानले जाते.",
+    "legends": "मंदिराची परंपरा तरुण करिकाल चोलाचे स्मरण करते, ज्याला संकटाच्या काळात त्याचे आप्त, संगम कवी इरुम्पिडर्तलैयार यांनी गुप्तपणे त्याच्या मातेसह पनैयूर येथे पाठवले; राणीने या मंदिरात आश्रय घेतला आणि राजपुत्राच्या रक्षणासाठी विनायकाची प्रार्थना केली. आणखी एका परंपरेनुसार स्वयंभू लिंगाची उपासनेसाठी स्थापना पराशर ऋषींनी केली. गावाला नाव देणारे ताडाचे वन या दोन्ही स्मृतींना चौकट देते, आणि प्रभूचे थालवनेश्वरर हे नाव पवित्र वृक्षाला देवालयाच्या केंद्रस्थानी राखते.",
+    "festivals": "मंदिर शैव उत्सव दिनदर्शिका पाळते — महाशिवरात्री, प्रदोषम, मार्गळी हंगाम आणि वार्षिक ब्रह्मोत्सव. आश्रयकथेतील विनायकाप्रती विशेष भक्ती दिसते, आणि सुंदरर यांचे स्तोत्र मंदिराच्या परंपरेत प्रिय मानले जाते.",
+    "experience": "तिरुप्पनैयूर यात्रेकरूला आपल्या नावाच्या ताडाच्या सावलीतील शांत गावाकडचे मंदिर देते, ज्यात संकटातील पुत्रासाठी मातेच्या प्रार्थनेची एक हळुवार कथा आहे. स्वयंभू ताड वनाचा स्वामी सौंदरेश्वररचे दर्शन तिरुवारूरच्या भोवतालची कमी ज्ञात पाडल पेट्र देवालये शोधणाऱ्यांना फळ देते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruppanaiyur is in Tiruvarur district, roughly 10-12 km from Tiruvarur; the nearest rail head is Tiruvarur, with local buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून मध्यान्हापर्यंत आणि पुन्हा दुपारच्या उत्तरार्धापासून संध्याकाळपर्यंत खुले असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक ठिकाणी खात्री करून घ्याव्यात.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे, ज्यात खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांमध्ये छायाचित्रण सामान्यतः अनुज्ञेय आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुप्पनैयूर तिरुवारूर जिल्ह्यात, तिरुवारूरपासून सुमारे १०–१२ किमी अंतरावर आहे; सर्वात जवळचे रेल्वे स्थानक तिरुवारूर असून, गावापर्यंत स्थानिक बसेस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

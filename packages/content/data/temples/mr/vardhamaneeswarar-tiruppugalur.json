@@ -1,29 +1,36 @@
 {
   "id": "vardhamaneeswarar-tiruppugalur",
   "locale": "mr",
+  "name": "वर्धमानीश्वरम, तिरुप्पुगळूर",
   "nativeName": "திருப்புகலூர் வர்த்தமானீஸ்வரம்",
+  "deity": "तिरुप्पुगळूर येथील अग्नीश्वर मंदिरात वर्धमानीश्वर रूपातील शिव",
+  "tradition": "शैव — एक पाडल पेट्र स्थळम, तिरुज्ञानसंबंदर यांनी गायलेले",
   "location": {
-    "city": "Tiruppugalur, near Nannilam",
-    "state": "Tamil Nadu",
+    "city": "तिरुप्पुगळूर, नन्निलमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.8667,
     "lng": 79.6
   },
+  "period": "तेवारम काळ, चोळ काळातील रचनेसह",
   "century": 7,
+  "dynasty": "चोळ (नंतरच्या भरीसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "नन्निलमजवळील तिरुप्पुगळूर हे एक पूज्य शैव गाव आहे, जेथे महान अग्नीश्वर मंदिराच्या आत दुसरे पाडल पेट्र स्थळम, तिरु-पुगळूर वर्धमानीश्वरम, आहे, जे बालसंत तिरुज्ञानसंबंदर यांनी गायले आहे. स्वामींनी संत सुंदरर यांच्यासाठी साध्या विटांचे सोने केल्याच्या चमत्कारासाठी हे गाव प्रसिद्ध आहे, आणि आजही घर बांधणारे लोक येथे येऊन एक वीट अर्पण करतात आणि आशीर्वाद मागतात. अग्नीदेवाने शापमुक्तीसाठी येथे उपासना केली, असे म्हणतात.",
   "sections": {
-    "history": "Tiruppugalur is an ancient Shaiva village near Nannilam, revered in the seventh-century Tevaram. Its principal temple is the Agneeswarar (Agnipureeswarar) temple, named for Agni the fire-god, who is said to have worshipped here to be freed from a curse. Uncommonly, the same complex also enshrines a distinct Paadal Petra Sthalam, Tiru-Pugalur Vardhamaneeswaram, which was glorified by the child-saint Tirugnanasambandar — so that two of the 275 Tevaram shrines are found on one sacred ground. The stonework is of the Chola period with later additions.",
-    "architecture": "The temple is a Dravidian complex of gopuram, prakara corridors and pillared halls. Within it the sanctum of Vardhamaneeswarar is counted as its own Paadal Petra Sthalam, alongside the main Agneeswarar sanctum. The inner precinct is rich with images — the sixty-three Nayanmars, Agni, the Pancha Linga, Appar, Vatapi Ganapati, Subramanya, Mahalakshmi and Kalasamhara among them — making the complex a compact gallery of the Shaiva pantheon.",
-    "legends": "The most beloved tradition is the miracle of the bricks. The saint Sundarar, needing wealth for the festival expenses of his wife Paravai Nachiyar, prayed here and slept upon a few ordinary bricks; by morning the lord had turned them to gold. From this grace comes the custom, kept to this day, by which those about to build a new house visit the temple, offer a brick to the deity and pray before laying their foundations. The temple also preserves the story of Agni worshipping Shiva here to be released from a curse, which gives the Agneeswarar sanctum its name.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi observances and the annual Brahmotsavam. The association with Sundarar and with the brick miracle gives special meaning to the days honouring the Nayanmars, and the custom of offering a brick before house-building brings a steady stream of family visits through the year.",
-    "experience": "Tiruppugalur rewards the pilgrim with a sense of layered sanctity — two Tevaram shrines in one, a crowded precinct of saints and gods, and a living custom that ties the temple to the ordinary hope of building a home. Standing before the sanctum of Vardhamaneeswarar, visitors feel the nearness of a grace that once turned bricks to gold and still blesses new beginnings."
+    "history": "तिरुप्पुगळूर हे नन्निलमजवळील प्राचीन शैव गाव असून सातव्या शतकातील तेवारममध्ये त्याला आदराचे स्थान आहे. याचे प्रमुख मंदिर अग्नीश्वर (अग्निपुरीश्वर) मंदिर आहे, ज्याचे नाव अग्निदेवावरून आहे; शापमुक्त होण्यासाठी त्याने येथे उपासना केली, असे म्हणतात. विशेष म्हणजे, याच परिसरात एक वेगळे पाडल पेट्र स्थळमही स्थापित आहे, तिरु-पुगळूर वर्धमानीश्वरम, ज्याचा गौरव बालसंत तिरुज्ञानसंबंदर यांनी केला — त्यामुळे २७५ तेवारम मंदिरांपैकी दोन एकाच पवित्र भूमीवर आढळतात. दगडी बांधकाम चोळ काळातील असून नंतरची भर आहे.",
+    "architecture": "मंदिर हा गोपुर, प्राकार-प्रदक्षिणा मार्ग आणि स्तंभयुक्त सभामंडप यांचा द्रविड परिसर आहे. त्यात वर्धमानीश्वराचे गर्भगृह मुख्य अग्नीश्वर गर्भगृहाच्या बरोबरीने स्वतंत्र पाडल पेट्र स्थळम म्हणून गणले जाते. आतील आवार मूर्तींनी समृद्ध आहे — त्रेसष्ट नायनमार, अग्नी, पंचलिंग, अप्पर, वातापि गणपती, सुब्रह्मण्य, महालक्ष्मी आणि कालसंहार यांचा त्यात समावेश आहे — ज्यामुळे हा परिसर शैव देवगणाचे एक संक्षिप्त दालनच बनतो.",
+    "legends": "सर्वांत प्रिय परंपरा म्हणजे विटांचा चमत्कार. संत सुंदरर यांना पत्नी परवै नाच्चियार हिच्या उत्सवाच्या खर्चासाठी धनाची गरज होती; त्यांनी येथे प्रार्थना केली आणि काही साध्या विटांवर झोपले; सकाळपर्यंत स्वामींनी त्यांचे सोने केले होते. या कृपेतून आजही पाळली जाणारी प्रथा निर्माण झाली: नवे घर बांधणारे लोक मंदिराला भेट देतात, देवाला एक वीट अर्पण करतात आणि पाया घालण्यापूर्वी प्रार्थना करतात. शापमुक्त होण्यासाठी अग्नीने येथे शिवाची उपासना केल्याची कथाही मंदिर जपते, ज्यामुळे अग्नीश्वर गर्भगृहाला हे नाव मिळाले.",
+    "festivals": "मंदिर शैव उत्सवांचे कालगणन पाळते — महाशिवरात्री, प्रदोषम, मार्गळी महिन्यातील विधी आणि वार्षिक ब्रह्मोत्सव. सुंदरर यांच्याशी आणि विटांच्या चमत्काराशी असलेल्या नात्यामुळे नायनमारांचा सन्मान करणाऱ्या दिवसांना विशेष अर्थ मिळतो, आणि घर बांधण्यापूर्वी वीट अर्पण करण्याच्या प्रथेमुळे वर्षभर कुटुंबांची भेटींची अखंड रांग लागलेली असते.",
+    "experience": "तिरुप्पुगळूर यात्रेकरूला स्तरांनी भरलेल्या पावित्र्याची जाणीव देते — एकात दोन तेवारम मंदिरे, संत आणि देवांनी गजबजलेला आवार, आणि मंदिराला घर बांधण्याच्या सर्वसामान्य आशेशी जोडणारी एक जिवंत प्रथा. वर्धमानीश्वराच्या गर्भगृहासमोर उभे राहिल्यावर, एकेकाळी विटांचे सोने करणाऱ्या आणि आजही नव्या सुरुवातींना आशीर्वाद देणाऱ्या कृपेचे सान्निध्य अभ्यागतांना जाणवते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruppugalur is in Nagapattinam district near Nannilam, roughly 15 km from Nagapattinam and Tiruvarur; the nearest rail heads are Nannilam and Nagapattinam, with local buses and taxis to the village."
+    "timings": "सहसा पहाटेपासून मध्यान्हीपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत छायाचित्रण सामान्यतः परवानगीयुक्त आहे, परंतु गर्भगृहाच्या आत नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुप्पुगळूर नन्निलमजवळ नागपट्टिनम जिल्ह्यात असून नागपट्टिनम आणि तिरुवारूर यांपासून सुमारे १५ किमी अंतरावर आहे; सर्वांत जवळची रेल्वे स्थानके नन्निलम आणि नागपट्टिनम आहेत, गावापर्यंत स्थानिक बस आणि टॅक्सी जातात."
   }
 }

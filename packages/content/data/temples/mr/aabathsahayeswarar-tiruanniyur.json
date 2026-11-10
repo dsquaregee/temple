@@ -1,29 +1,36 @@
 {
   "id": "aabathsahayeswarar-tiruanniyur",
   "locale": "mr",
+  "name": "आपत्सहायेश्वर मंदिर, तिरुअन्नियूर",
   "nativeName": "ஆபத்சகாயேஸ்வரர் கோயில்",
+  "deity": "आपत्सहायेश्वर (अग्निपुरीश्वर) रूपात शिव, देवी पेरिय नायकीसह",
+  "tradition": "शैव मत",
   "location": {
-    "city": "Ponnur (Tiruanniyur)",
-    "state": "Tamil Nadu",
+    "city": "पोन्नूर (तिरुअन्नियूर)",
+    "state": "तमिळनाडू",
     "lat": 11.13,
     "lng": 79.585
   },
+  "period": "चोल नाडूचे प्राचीन शैव तीर्थ, तेवारममध्ये गायिले गेलेले (७वे शतक); मध्ययुगीन मूळ असलेले लहान वास्तु-मंदिर",
   "century": 7,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (चोल काळ व नंतरचे)",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "आपत्सहायेश्वर हे तिरुअन्नियूरचे—मयिलाडुतुरैजवळील आजच्या पोन्नूरचे—लहान तेवारम तीर्थ आहे, जेथे शिव संकटकाळी मदतीला येणारा प्रभू आहे आणि जेथे अग्निदेवाला कृपा लाभली असे स्मरण केले जाते.",
   "sections": {
-    "history": "Tiruanniyur, today the village of Ponnur, lies a few kilometres from Mayiladuthurai on the northern bank of the Kaveri, in the old Chola country. It is a Paadal Petra Sthalam, sung in the Tevaram hymns of Sambandar and Appar (Tirunavukkarasar), and is reckoned the twenty-second Shiva shrine of the Kaveri's northern bank praised in the hymns. Older names such as Bhaskara Kshetram are remembered for the place. The shrine is modest in scale, small and without a tower, yet its worship is old, and the self-manifested linga of Aabathsahayeswarar, the Lord who comes to help in times of danger, has drawn devotees in trouble through the centuries.",
-    "architecture": "The temple is a small east-facing sanctuary on the northern side of the village, and it has no gopuram. In its place the entrance carries a graceful sculpture of Shiva and Parvati. Within, a Nandi mandapa topped by a small decorated vimana stands before the sanctum, which holds the swayambhu linga of Aabathsahayeswarar, while the goddess Periya Nayaki is honoured in the temple as the Lord's consort. Directly opposite the entrance lies the temple tank, known as the Agni Theertham and also as the Varuna Theertham. Temple listings record the sacred tree as the lemon. The scale is intimate, and the beauty lies in its simplicity.",
-    "legends": "The temple holds several traditions of rescue. In the best known, Agni, the god of fire, was punished by Shiva's attendant Veerabhadra for having joined Daksha's sacrifice; he made a tank here, worshipped the Lord, and was redeemed, which is why the Lord is also praised as Agnipureeswarar and the tank is called the Agni Theertham. Another tells of King Harishchandra, afflicted with leprosy, who bathed in the tank and offered curd rice to the Lord and was cured. A third recalls Rati, who came to Tiruanniyur to plead for her husband Manmatha, and Shiva relented and restored him. From these the Lord is known as Aabathsahayeswarar, the helper in peril. These are the temple's traditions rather than documented history.",
-    "festivals": "On Vaikasi Vishakam (May–June) devotees offer curd rice to the Lord, a worship held to relieve the obstacles that trouble a life. In the Tamil month of Panguni (March–April) the sun's rays are said to fall upon the linga for several days, though the exact dates are reported differently and should be confirmed locally. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. Dates follow the Tamil calendar.",
-    "experience": "Tiruanniyur is a place for a quiet pause rather than a grand pilgrimage. Pass the sculpture of Shiva and Parvati at the entrance, stand before the Nandi mandapa, and come to the sanctum of Aabathsahayeswarar, then to the goddess Periya Nayaki. The tank opposite the gate invites a moment by the water where Agni is remembered. Those who carry some worry, illness or obstacle come here with particular faith in the Lord who helps in need. The village is a short bus ride from Mayiladuthurai, and the temple keeps the stillness of a small Chola-country sanctuary among fields."
+    "history": "तिरुअन्नियूर, आजचे पोन्नूर गाव, कावेरीच्या उत्तर तीरावर जुन्या चोल देशात मयिलाडुतुरैपासून काही किलोमीटर अंतरावर आहे. हे एक पादल पेट्र स्थलम् आहे, जे संबंदर आणि अप्पर (तिरुनावुक्करसर) यांच्या तेवारम स्तोत्रांत गायिले गेले आहे, आणि स्तोत्रांत स्तुत केलेल्या कावेरीच्या उत्तर तीरावरील बाविसावे शिव तीर्थ म्हणून गणले जाते. या स्थानासाठी भास्कर क्षेत्रम् यांसारखी जुनी नावेही स्मरणात आहेत. हे तीर्थ आकाराने लहान, शिखराविना असले तरी त्याची उपासना प्राचीन आहे, आणि संकटकाळी मदतीला येणाऱ्या आपत्सहायेश्वराच्या स्वयंभू लिंगाने शतकानुशतके अडचणीतील भक्तांना ओढून घेतले आहे.",
+    "architecture": "हे मंदिर गावाच्या उत्तर बाजूला पूर्वाभिमुख असलेले एक लहान देवस्थान आहे आणि त्याला गोपुरम नाही. त्याऐवजी प्रवेशद्वारावर शिव आणि पार्वती यांचे एक सुंदर शिल्प आहे. आत, एका लहान सजवलेल्या विमानाने मुकुटलेला नंदी मंडप गर्भगृहासमोर उभा आहे, जेथे आपत्सहायेश्वराचे स्वयंभू लिंग आहे, तर देवी पेरिय नायकी प्रभूची पत्नी म्हणून मंदिरात पूजिली जाते. प्रवेशद्वारासमोरच मंदिराचे तीर्थ आहे, जे अग्नि तीर्थम् आणि वरुण तीर्थम् म्हणूनही ओळखले जाते. मंदिराच्या नोंदींनुसार पवित्र वृक्ष लिंबू आहे. येथील आकार आत्मीय आहे आणि सौंदर्य त्याच्या साधेपणात आहे.",
+    "legends": "या मंदिराशी बचावाच्या अनेक परंपरा जोडल्या आहेत. सर्वांत प्रसिद्ध कथेत, दक्षाच्या यज्ञात सहभागी झाल्यामुळे शिवाचा गण वीरभद्र याने अग्निदेवाला शिक्षा केली; त्याने येथे एक तीर्थ निर्माण केले, प्रभूची उपासना केली आणि उद्धार झाला, म्हणूनच प्रभू अग्निपुरीश्वर म्हणूनही स्तुत केला जातो आणि तीर्थ अग्नि तीर्थम् म्हणवले जाते. दुसरी कथा कुष्ठरोगाने पीडित राजा हरिश्चंद्राची आहे, ज्याने या तीर्थात स्नान केले आणि प्रभूला दहीभात अर्पण केला व बरा झाला. तिसरी कथा रतीची आहे, जी आपला पती मन्मथ याच्यासाठी याचना करण्यास तिरुअन्नियूरला आली, आणि शिवाने कृपा करून त्याला पुनर्जीवित केले. यांवरूनच प्रभू आपत्सहायेश्वर—संकटकाळी मदत करणारा—म्हणून ओळखला जातो. या मंदिराच्या परंपरा आहेत, प्रलेखित इतिहास नव्हे.",
+    "festivals": "वैकासि विशाखम् (मे–जून) या दिवशी भक्त प्रभूला दहीभात अर्पण करतात, ही उपासना जीवनातील अडथळे दूर करण्यासाठी केली जाते. तमिळ पंगुनि महिन्यात (मार्च–एप्रिल) सूर्यकिरणे काही दिवस लिंगावर पडतात असे सांगितले जाते, मात्र नेमक्या तारखा वेगवेगळ्या नोंदवल्या जातात आणि स्थानिक पातळीवर पुष्टी करून घ्याव्यात. प्रत्येक शिव मंदिराप्रमाणे महाशिवरात्री आणि मासिक प्रदोष पाळले जातात. तारखा तमिळ पंचांगानुसार असतात.",
+    "experience": "तिरुअन्नियूर हे भव्य तीर्थयात्रेपेक्षा शांत विसाव्यासाठीचे ठिकाण आहे. प्रवेशद्वारावरील शिव-पार्वतीच्या शिल्पापासून पुढे जा, नंदी मंडपासमोर थांबा, आणि आपत्सहायेश्वराच्या गर्भगृहात या, नंतर देवी पेरिय नायकीकडे. द्वारासमोरील तीर्थ, जेथे अग्निचे स्मरण होते, पाण्याकाठी क्षणभर विसावण्यास आमंत्रण देते. ज्यांना काही चिंता, व्याधी किंवा अडचण असते ते संकटकाळी मदत करणाऱ्या प्रभूवर विशेष श्रद्धेने येथे येतात. मयिलाडुतुरैपासून थोड्याच बसप्रवासावर हे गाव आहे, आणि शेतांमधील एका लहान चोल-देशीय देवस्थानाची निस्तब्धता हे मंदिर जपते."
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again in the evening, with a long midday break; published timings vary, so confirm locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance.",
-    "photography": "Photography is generally permitted in the outer areas but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Ponnur is roughly 5 to 8 km from Mayiladuthurai (sources differ), reached by town buses heading toward Namashivayapuram and Pandur, which pass through the village; the temple is an easy walk from the stop. Mayiladuthurai Junction is the nearest major railway station, and the nearest large airports, Tiruchirappalli and Chennai, are several hours away. The Tevaram shrine of Tiruneedur lies nearby and is easily combined in one visit."
+    "timings": "सामान्यतः सकाळी काही तास आणि पुन्हा संध्याकाळी उघडे असते, दुपारी दीर्घ विश्रांती असते; प्रकाशित वेळा वेगळ्या असतात, म्हणून विशेषतः उत्सवांच्या दिवशी स्थानिक पातळीवर पुष्टी करून घ्या.",
+    "dressCode": "शालीन पारंपरिक वेश अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पँट, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब घागरा, खांदे व गुडघे झाकलेले. पादत्राणे प्रवेशद्वारी ठेवली जातात.",
+    "photography": "बाहेरील भागांत छायाचित्रण सामान्यतः अनुमत आहे, परंतु तमिळनाडूच्या मंदिर नियमांनुसार आतील गर्भगृहात निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "पोन्नूर मयिलाडुतुरैपासून सुमारे ५ ते ८ किमी अंतरावर आहे (स्रोतांत फरक आहे), आणि नमशिवायपुरम व पंडूरकडे जाणाऱ्या गावांतील बसगाड्यांनी पोहोचता येते, ज्या गावातून जातात; थांब्यापासून मंदिर सहज चालत जाण्याच्या अंतरावर आहे. मयिलाडुतुरै जंक्शन हे जवळचे मोठे रेल्वे स्थानक आहे, आणि जवळची मोठी विमानतळे—तिरुचिरापल्ली व चेन्नई—काही तास अंतरावर आहेत. तिरुनीडूरचे तेवारम तीर्थ जवळच असून एकाच भेटीत सहज जोडता येते."
   }
 }

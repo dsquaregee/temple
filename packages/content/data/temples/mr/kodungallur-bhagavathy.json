@@ -1,30 +1,37 @@
 {
   "id": "kodungallur-bhagavathy",
   "locale": "mr",
+  "name": "कोडुंगल्लूर कुरुंबा भगवती मंदिर",
   "nativeName": "കൊടുങ്ങല്ലൂർ ശ്രീ കുരുംബ ഭഗവതി ക്ഷേത്രം",
+  "deity": "भद्रकाली, येथे कुरुंबा भगवती किंवा कुरुंबा अम्मा म्हणून पूजिली जाणारी, कोडुंगल्लूरची उग्र आणि रक्षक माता.",
+  "tradition": "शाक्त",
   "location": {
-    "city": "Kodungallur, Thrissur district",
-    "state": "Kerala",
+    "city": "कोडुंगल्लूर, त्रिशूर जिल्हा",
+    "state": "केरळ",
     "lat": 10.2269,
     "lng": 76.1962
   },
+  "period": "चेरकालीन परंपरा; केरळमधील सर्वांत प्राचीन देवी मंदिरांपैकी एक, आपल्या सध्याच्या मध्ययुगीन स्वरूपात",
   "century": 8,
+  "dynasty": "परंपरेनुसार प्राचीन मुझिरिस किनाऱ्यावरील चेर प्रदेशाशी संबंधित",
+  "style": "पारंपरिक केरळ मंदिर स्थापत्य",
   "unesco": false,
   "circuits": [
     "sacred-temples-of-kerala"
   ],
+  "summary": "कोडुंगल्लूर कुरुंबा भगवती मंदिर हे केरळमधील सर्वांत प्राचीन देवी देवस्थानांपैकी एक आहे, जिथे भद्रकालीची पूजा जुन्या मुझिरिस बंदराची माता म्हणून केली जाते आणि भव्य भरणी उत्सवात तिचा सन्मान होतो.",
   "sections": {
-    "history": "Kodungallur is the ancient port usually identified with Muziris, where ships from Rome, Arabia and China once came to trade, and its Bhagavathy temple is counted among the oldest in Kerala. Its origins are told in more than one tradition. One credits Parasurama with installing the goddess; another links the shrine with the Chera king Chenkuttuvan and the cult of Kannaki, a connection that historians treat with caution. The temple is regarded as the head of the sixty-four Bhadrakali kavus, the goddess shrines of the Malabar region, and so holds a place of unusual honour in the devotional map of Kerala. Its present form belongs to the medieval period. Worshippers of many communities have long gathered here, and the temple is remembered as a place where the doors were open to all during the Bharani festival.",
-    "architecture": "The temple follows the traditional Kerala manner, a walled complex of sloping tiled roofs, timber work and lamp-lined courts around the srikovil. The sanctum of the goddess faces north, and she is worshipped in her ugra, or fierce, aspect. Within the complex a shrine of Shiva faces east, so that the Mother and her consort are honoured together. The outer enclosure, wide courtyard and old trees give the precinct a spacious, shaded quality, in keeping with the kavu tradition of goddess groves. Rather than ornament, the temple draws its force from its antiquity and from the steady rhythm of ritual around the sanctum.",
-    "legends": "The goddess of Kodungallur is Bhadrakali, the fierce form of the Mother who protects her devotees and removes affliction. Devotees tell of Parasurama, the sage who is said to have reclaimed the land of Kerala from the sea, installing her here to guard the country. A second tradition, found in Tamil literature, links the place with Kannaki, the heroine of the epic Silappatikaram, and with the Chera ruler Chenkuttuvan, though historians dispute that identification. Whatever the origin, the Mother is approached here with a mixture of awe and tenderness, as one who is both fearsome and close to her children.",
-    "festivals": "The great observance is the Bharani festival, which begins on the Bharani asterism in the Malayalam month of Kumbham, around March and April, and continues for about a week into Meenam. Its customs are unlike those of most temples: oracles known as velichappadus move around the shrine in the rite called Kavu Theendal, and pilgrims sing the ritual Bharani songs, with an old tradition of earthy, candid invocation of the goddess. Animal sacrifice, once part of the rites, is now prohibited by law. Thalappoli is another notable occasion; confirm dates locally.",
-    "experience": "Approach the temple with reverence and an unhurried mind. Outside the festival season the shrine is calm, shaded and quietly busy with local worshippers, and its sense of age is felt more than seen. During Bharani the town fills with pilgrims, music and fervour, and visitors should expect dense crowds and strong customs of their own. Kodungallur also rewards a wider visit, as the old Muziris coast holds some of the earliest layers of Kerala history, and the temple pairs naturally with other shrines of the circuit."
+    "history": "कोडुंगल्लूर हे प्राचीन बंदर सामान्यतः मुझिरिस म्हणून ओळखले जाते, जिथे रोम, अरबस्तान आणि चीन येथील जहाजे व्यापारासाठी येत असत, आणि येथील भगवतीचे मंदिर केरळमधील सर्वांत प्राचीन मंदिरांपैकी मानले जाते. त्याचे मूळ एकापेक्षा अधिक परंपरांनी सांगितले जाते. एक परंपरा देवीची स्थापना परशुरामाने केल्याचे सांगते; दुसरी या देवस्थानाला चेर राजा चेंकुट्टुवन आणि कण्णकीच्या पंथाशी जोडते, हा संबंध इतिहासकार सावधपणे हाताळतात. हे मंदिर चौसष्ट भद्रकाली कावूंचे — मलबार प्रदेशातील देवीस्थानांचे — प्रमुख मानले जाते, आणि म्हणून केरळच्या भक्तिमय नकाशात त्याला असामान्य सन्मानाचे स्थान आहे. त्याचे सध्याचे स्वरूप मध्ययुगीन काळाचे आहे. अनेक समुदायांचे उपासक येथे पूर्वीपासून एकत्र येत आले आहेत, आणि भरणी उत्सवात सर्वांसाठी द्वारे खुली असत असे ठिकाण म्हणून हे मंदिर स्मरले जाते.",
+    "architecture": "मंदिर पारंपरिक केरळ शैलीचे आहे — तटबंदी असलेला परिसर, उतरत्या कौलारू छपरे, लाकडी कामे आणि श्रीकोविलभोवती दिव्यांच्या ओळींनी सजलेली अंगणे. देवीचा गाभारा उत्तराभिमुख आहे, आणि तिची पूजा तिच्या उग्र रूपात केली जाते. परिसरात शिवाचे एक देवस्थान पूर्वाभिमुख आहे, जेणेकरून माता आणि तिचा पती यांचा एकत्र सन्मान होतो. बाह्य प्राकार, विस्तीर्ण अंगण आणि जुनी झाडे यांमुळे परिसराला प्रशस्त, सावलीदार स्वरूप लाभले आहे, जे देवीच्या वनराईंच्या कावू परंपरेला साजेसे आहे. अलंकारापेक्षा, हे मंदिर आपले सामर्थ्य आपल्या प्राचीनतेतून आणि गाभाऱ्याभोवतीच्या विधींच्या स्थिर लयीतून घेते.",
+    "legends": "कोडुंगल्लूरची देवी भद्रकाली आहे, मातेचे ते उग्र रूप जे आपल्या भक्तांचे रक्षण करते आणि संकटे दूर करते. भक्त सांगतात की केरळची भूमी समुद्रातून परत मिळवली असे मानले जाणारे ऋषी परशुराम यांनी देशाच्या रक्षणासाठी तिची येथे स्थापना केली. तमिळ साहित्यात आढळणारी दुसरी परंपरा या स्थळाला शिलप्पदिकारम् महाकाव्यातील नायिका कण्णकी आणि चेर राजा चेंकुट्टुवन यांच्याशी जोडते, तरी इतिहासकार या ओळखीबद्दल मतभेद व्यक्त करतात. मूळ काहीही असो, येथे मातेकडे आदरयुक्त भय आणि कोमलता यांच्या मिश्र भावाने जायचे असते — ती भयंकरही आहे आणि आपल्या लेकरांच्या जवळचीही.",
+    "festivals": "प्रमुख उत्सव भरणी उत्सव आहे, जो मलयाळम कुंभम महिन्यातील भरणी नक्षत्रावर, सुमारे मार्च आणि एप्रिलमध्ये सुरू होतो आणि मीनममध्ये सुमारे एक आठवडा चालतो. त्याच्या रीती बहुतेक मंदिरांपेक्षा वेगळ्या आहेत: वेलिच्चप्पाडू नावाचे देवीचे भाकीतकार कावू तींडल नावाच्या विधीमध्ये देवस्थानाभोवती फिरतात, आणि यात्रेकरू विधीची भरणी गीते गातात, ज्यात देवीला रोखठोक, मोकळेपणाने आवाहन करण्याची जुनी परंपरा आहे. पूर्वी विधींचा भाग असलेला पशुबळी आता कायद्याने प्रतिबंधित आहे. थलप्पोली हा आणखी एक उल्लेखनीय प्रसंग आहे; तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "आदरभावाने आणि शांत मनाने मंदिराकडे जा. उत्सवाच्या काळाव्यतिरिक्त देवस्थान शांत, सावलीदार आणि स्थानिक उपासकांच्या शांत वर्दळीने भरलेले असते, आणि त्याचे प्राचीनत्व दिसण्यापेक्षा जाणवते. भरणीच्या काळात गाव यात्रेकरू, संगीत आणि भक्तिभावाने भरून जाते, आणि पाहुण्यांनी दाट गर्दी आणि स्वतःच्या तीव्र रीतींची अपेक्षा ठेवावी. कोडुंगल्लूर विस्तृत भेटीलाही योग्य आहे, कारण जुन्या मुझिरिस किनाऱ्यावर केरळच्या इतिहासातील काही सर्वांत प्राचीन स्तर आढळतात, आणि हे मंदिर या परिक्रमेतील इतर देवस्थानांसोबत सहजपणे जोडले जाते."
   },
   "visit": {
-    "timings": "The temple generally opens in the early morning and again in the evening, with a midday closure, as is the custom in Kerala. Hours change during festivals, so please confirm timings locally before travelling.",
-    "dressCode": "Traditional attire is expected. Men are often asked to remove upper garments and wear a mundu, and women to dress modestly in a saree or similar. Please confirm the current requirements at the temple.",
-    "photography": "Photography is typically not permitted near the sanctum and may be restricted in the precincts. Please ask staff and follow their instructions, especially during festivals.",
-    "gettingThere": "The temple is in Kodungallur, Thrissur district, on the coast road between Thrissur and Ernakulam. The nearest railheads are at Thrissur and Ernakulam, and the nearest airport is Kochi. Kodungallur is well connected by road."
+    "timings": "केरळच्या प्रथेप्रमाणे मंदिर साधारणतः पहाटे आणि पुन्हा संध्याकाळी उघडते, दुपारी बंद असते. उत्सवांदरम्यान वेळा बदलतात, म्हणून प्रवासापूर्वी स्थानिक पातळीवर वेळा खात्री करून घ्या.",
+    "dressCode": "पारंपरिक पोशाख अपेक्षित आहे. पुरुषांना अनेकदा वरचे वस्त्र काढून मुंडू नेसण्यास सांगितले जाते, आणि स्त्रियांनी साडी किंवा तत्सम शालीन पोशाख घालावा. कृपया मंदिरात सध्याच्या नियमांची खात्री करून घ्या.",
+    "photography": "गाभाऱ्याजवळ छायाचित्रण सामान्यतः परवानगीयोग्य नसते आणि परिसरातही प्रतिबंधित असू शकते. कृपया कर्मचाऱ्यांना विचारा आणि त्यांच्या सूचनांचे पालन करा, विशेषतः उत्सवांदरम्यान.",
+    "gettingThere": "मंदिर त्रिशूर जिल्ह्यातील कोडुंगल्लूर येथे, त्रिशूर आणि एर्नाकुलम यांच्या दरम्यानच्या किनारी रस्त्यावर आहे. सर्वांत जवळची रेल्वे स्थानके त्रिशूर आणि एर्नाकुलम येथे आहेत, आणि सर्वांत जवळचा विमानतळ कोची आहे. कोडुंगल्लूर रस्त्याने चांगले जोडलेले आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kodungallur-bhagavathy.jpg",

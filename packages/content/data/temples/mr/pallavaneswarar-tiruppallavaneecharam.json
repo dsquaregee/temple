@@ -1,30 +1,37 @@
 {
   "id": "pallavaneswarar-tiruppallavaneecharam",
   "locale": "mr",
+  "name": "पल्लवनेश्वर मंदिर, पूमपुहार",
   "nativeName": "பல்லவனேசுவரர் கோயில்",
+  "deity": "पल्लवनेश्वर रूपातील शिव, देवी सौंदर्यनायकी यांच्यासह",
+  "tradition": "शैव पंथ",
   "location": {
-    "city": "Poompuhar",
-    "state": "Tamil Nadu",
+    "city": "पूमपुहार",
+    "state": "तमिळनाडू",
     "lat": 11.142,
     "lng": 79.851
   },
+  "period": "चोळ बंदर कावेरीपूमपट्टिनमचे प्राचीन शैव मंदिर, तेवारममध्ये गायलेले (सातवे शतक); नंतरच्या भरांसह बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ प्रदेश; नंतरचे तमिळ आश्रयदाते (बांधकर्ते निश्चितपणे नोंदलेले नाहीत)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "पल्लवनेश्वर हे जुन्या कावेरीपूमपट्टिनमचे शिवमंदिर आहे — तेवारममधील तिरुप्पल्लवनीच्चरम — जे कावेरीच्या मुखाजवळ उभे असून संतकवी पट्टिनत्तार यांचे जन्मस्थान म्हणून स्मरले जाते.",
   "sections": {
-    "history": "Poompuhar, at the mouth of the Kaveri on the Bay of Bengal, was the great port of the early Cholas, known in the old literature as Kaveripoompattinam or Puhar. In the Tevaram hymns its Shiva temple is called Tiruppallavaneecharam, and the child-saint Sambandar sang its praise, which makes it a Paadal Petra Sthalam, counted as the tenth such shrine on the northern bank of the Kaveri. Tradition says a Pallava king worshipped here and found liberation, and from him the Lord took the name Pallavaneswarar. The temple is held to stand on the birthplace of the merchant-saint Pattinathar, so that the shrine has long been remembered as much for his renunciation as for the port that rose and fell around it.",
-    "architecture": "This is a modest, intimate temple facing east beneath a five-tiered rajagopuram, with a single enclosing prakaram and two corridors, and, unusually, no flagstaff. The linga in the sanctum is revered as self-manifested, and the goddess Soundaryanayaki, the beautiful one, has her own shrine. In the prakaram, Murugan stands with his consorts Valli and Deivanai, and the peacock that normally accompanies him is absent. The niches of the sanctum wall hold two forms of Durga, and Ganesha and Chandikeswara are also honoured. A separate shrine to Pattinathar faces north. The sea, which once lapped the old port at the temple's feet, now lies a few kilometres to the east.",
-    "legends": "Several traditions gather here. One tells that Kubera, lord of wealth, and the sage Kalava worshipped Shiva in this place, and that a Pallava king also prayed here and attained liberation. The best loved story is that of Pattinathar. Born in the port to a Shaiva couple, Sivanesar and Gnanakamalambikai, and named Tiruvenkadar, he grew into a wealthy sea-trader. When a chest he took to hold great treasure was opened, it contained only a cake of dung and husk, with a message that not even a broken needle follows one beyond death. Tiruvenkadar understood, gave up his wealth, and walked the roads of the Tamil country as the renunciant Pattinathar, finally attaining liberation at Tiruvottriyur.",
-    "festivals": "The temple's great festival honours the devotee rather than the deity: the twelve-day Pattinathar festival in the month of Aadi, in July or August, is the temple's principal celebration, and no separate Brahmotsavam is held for Shiva himself. Vaikasi Visakam in May or June is observed for Murugan. Maha Shivaratri and the monthly Pradosham are kept as at every Shiva temple. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Poompuhar rewards a slow visit. Come first to the sanctum of Pallavaneswarar and then to the shrine of Soundaryanayaki, and take time in the prakaram to find the peacock-less Murugan and the two Durgas. Many devotees pause at the north-facing shrine of Pattinathar, whose verses on the brevity of worldly wealth seem well placed in this once-wealthy harbour town. Afterward, walk toward the coast where the Kaveri meets the sea, and imagine the ships that once crowded these quays. The temple itself is small and quiet, and rarely crowded outside festival days."
+    "history": "बंगालच्या उपसागरावर कावेरीच्या मुखाशी असलेले पूमपुहार हे आरंभिक चोळांचे महान बंदर होते, जुन्या साहित्यात कावेरीपूमपट्टिनम किंवा पुहार या नावाने ओळखले जाणारे. तेवारम स्तोत्रांत त्याच्या शिवमंदिराला तिरुप्पल्लवनीच्चरम म्हटले आहे, आणि बालसंत संबंधर यांनी त्याची स्तुती गायली, ज्यामुळे ते पाडल पेट्र स्थळम ठरते, आणि कावेरीच्या उत्तर काठावरील अशा मंदिरांपैकी दहावे गणले जाते. परंपरा सांगते की एका पल्लव राजाने येथे पूजा केली आणि मुक्ती मिळवली, आणि त्यावरून प्रभूला पल्लवनेश्वर हे नाव मिळाले. हे मंदिर व्यापारी-संत पट्टिनत्तार यांच्या जन्मस्थानावर उभे आहे असे मानले जाते, त्यामुळे बंदर जसे उदयास येऊन ढासळले त्याइतकेच हे मंदिर त्यांच्या वैराग्यासाठीही दीर्घकाळ स्मरले जाते.",
+    "architecture": "हे पाच मजली राजगोपुराखाली पूर्वाभिमुख असलेले लहानसे, जिव्हाळ्याचे मंदिर आहे; एकच वेढणारी प्राकार आणि दोन प्रदक्षिणा मार्ग आहेत, आणि असामान्यपणे ध्वजस्तंभ नाही. गर्भगृहातील लिंग स्वयंभू म्हणून पूज्य आहे, आणि देवी सौंदर्यनायकी, म्हणजे सुंदरी, हिचे स्वतःचे मंदिर आहे. प्राकारात मुरुगन आपल्या पत्नी वल्ली आणि देवयानै यांच्यासह उभे आहेत, आणि त्यांच्यासोबत नेहमी असणारा मयूर येथे नाही. गर्भगृहाच्या भिंतीच्या कोनाड्यांत दुर्गेची दोन रूपे आहेत, आणि गणेश व चंडिकेश्वर यांचाही सन्मान होतो. पट्टिनत्तार यांचे स्वतंत्र मंदिर उत्तराभिमुख आहे. एकेकाळी मंदिराच्या पायाशी जुन्या बंदराला स्पर्श करणारा समुद्र आता काही किलोमीटर पूर्वेला आहे.",
+    "legends": "येथे अनेक परंपरा एकत्र येतात. एक सांगते की धनाचा स्वामी कुबेर आणि कालव ऋषी यांनी या स्थानी शिवाची पूजा केली, आणि एका पल्लव राजानेही येथे प्रार्थना करून मुक्ती मिळवली. सर्वांत प्रिय कथा पट्टिनत्तार यांची आहे. बंदरात शैव दांपत्य शिवनेसर आणि ज्ञानकमलांबिकै यांच्या पोटी जन्मलेले आणि तिरुवेंकाडर नाव असलेले ते श्रीमंत सागरी व्यापारी झाले. त्यांनी मोठा खजिना ठेवण्यासाठी नेलेली पेटी उघडली, तेव्हा त्यात फक्त शेणाची आणि भुशाची गोळी होती, आणि एक संदेश होता की मृत्यूनंतर तुटकी सुईसुद्धा कोणाबरोबर जात नाही. तिरुवेंकाडर यांना ते उमगले, त्यांनी संपत्ती त्यागली, आणि वैरागी पट्टिनत्तार म्हणून तमिळ प्रदेशाच्या वाटांवर फिरले, आणि अखेर तिरुवोट्रियूर येथे मुक्ती प्राप्त केली.",
+    "festivals": "मंदिराचा महान उत्सव देवतेऐवजी भक्ताचा सन्मान करतो: आडी महिन्यातील, जुलै किंवा ऑगस्टमधील बारा दिवसांचा पट्टिनत्तार उत्सव हा मंदिराचा मुख्य सोहळा आहे, आणि शिवासाठी स्वतंत्र ब्रह्मोत्सव होत नाही. वैकासी विशाखम, मे किंवा जूनमध्ये, मुरुगनसाठी साजरा होतो. महाशिवरात्री आणि मासिक प्रदोषम प्रत्येक शिवमंदिराप्रमाणे पाळले जातात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात, कारण त्या तमिळ दिनदर्शिकेनुसार असतात.",
+    "experience": "पूमपुहार सावकाश भेटीचे चीज करते. आधी पल्लवनेश्वरांच्या गर्भगृहात आणि मग सौंदर्यनायकीच्या मंदिरात यावे, आणि प्राकारात मयूरविहीन मुरुगन आणि दोन दुर्गा शोधण्यासाठी वेळ द्यावा. अनेक भक्त पट्टिनत्तार यांच्या उत्तराभिमुख मंदिरात थांबतात; ऐहिक संपत्तीच्या क्षणभंगुरतेवरील त्यांची पदे या एकेकाळच्या श्रीमंत बंदर-नगरात अगदी योग्य वाटतात. नंतर कावेरी जेथे समुद्राला मिळते त्या किनाऱ्याकडे चालत जावे, आणि या धक्क्यांवर एकेकाळी गर्दी करणाऱ्या जहाजांची कल्पना करावी. मंदिर स्वतः लहान आणि शांत असून उत्सवाच्या दिवसांखेरीज क्वचितच गर्दीचे असते."
   },
   "visit": {
-    "timings": "Typically open from early morning to around midday and again from late afternoon until about half past seven in the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Poompuhar lies on the Coromandel coast, about 20 km from Sirkazhi and 24 km from Mayiladuthurai, which has the nearest main railway station. Regular buses connect Poompuhar with both towns, and the temple is in the town itself. The nearest airport listed is Tiruchirappalli, so most visitors travel on by road."
+    "timings": "सामान्यतः पहाटेपासून सुमारे दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून सायंकाळी साडेसातपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा मार्ग आणि प्रांगणांत सामान्यतः छायाचित्रणास परवानगी असते, परंतु तमिळनाडूच्या मंदिर-नियमांनुसार आतल्या गर्भगृहात ते निषिद्ध आहे. विधी किंवा पुरोहितांचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "पूमपुहार कोरोमंडल किनाऱ्यावर, सीरकाळीपासून सुमारे २० कि.मी. आणि मयिलादुतुरैपासून २४ कि.मी. अंतरावर आहे; मयिलादुतुरै येथे जवळचे मुख्य रेल्वे स्थानक आहे. नियमित बस पूमपुहारला दोन्ही शहरांशी जोडतात, आणि मंदिर गावातच आहे. सूचीबद्ध जवळचा विमानतळ तिरुचिरापल्ली आहे, त्यामुळे बहुतेक अभ्यागत पुढे रस्त्याने प्रवास करतात."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/pallavaneswarar-tiruppallavaneecharam.jpg",

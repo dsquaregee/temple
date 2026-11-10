@@ -1,29 +1,36 @@
 {
   "id": "athmanatheswarar-tiruvalampozhil",
   "locale": "mr",
+  "name": "आत्मनाथेश्वरर मंदिर, तिरुवलंपोळिल",
   "nativeName": "ஆத்மநாதேஸ்வரர் கோயில்",
+  "deity": "वडिवुडै नायकी देवीसह आत्मनाथेश्वरर रूपातील शिव",
+  "tradition": "शैव",
   "location": {
-    "city": "Tiruvalampozhil",
-    "state": "Tamil Nadu",
+    "city": "तिरुवलंपोळिल",
+    "state": "तमिळनाडू",
     "lat": 10.9167,
     "lng": 79.2667
   },
+  "period": "कावेरी त्रिभुज प्रदेशातील प्राचीन शैव मंदिर, तेवारम्‌मध्ये गायिलेले (७वे शतक)",
   "century": 7,
+  "dynasty": "चोळ व नंतरचे तमिळ आश्रयदाते",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणमजवळील तिरुवलंपोळिल येथे शिवाची आत्मनाथेश्वरर, म्हणजे आत्म्याचा स्वामी, या रूपात पूजा होते; हे कावेरी त्रिभुज प्रदेशातील मंदिर अप्परने गायिले असून, येथे अष्ट वसूंनी आपला पृथ्वीवरील जन्म अल्प करण्यासाठी पूजा केली असे सांगतात.",
   "sections": {
-    "history": "Tiruvalampozhil is an old Shaiva village in the Kaveri delta near Kumbakonam, and its temple is a Paadal Petra Sthalam praised by the saint Appar in the Tevaram, where the place is called Tiruvalampozhil. The Lord is worshipped as Athmanatheswarar, the lord of the soul, and the goddess as Vadivudai Nayaki. Inscriptions found at the temple support the literary references to the site, and the shrine, like its neighbours in the delta, was maintained and enlarged in stone by the Cholas and later Tamil patrons. It stands close to the Paadal Petra temple of Pushpavananathar at Tiruppoonthuruthi.",
-    "architecture": "The temple is built in the Dravidian manner of the delta, with a gopuram entrance, a pillared hall and a walled courtyard around the sanctum. The sanctum enshrines the Shiva linga of Athmanatheswarar, with the goddess Vadivudai Nayaki in her own shrine, and the usual parivara deities of a Shiva temple around the prakara. The modest scale and old stonework give it the feel of a classic delta village temple rather than a grand complex.",
-    "legends": "The sthala purana tells that the eight Vasus, the celestial beings, once stole the divine cow Kamadhenu and were cursed by a sage to be born on earth as men. Seeking to shorten their time in human birth, they are said to have come to this place and worshipped Shiva, who granted them release; from this the temple is honoured as a place where the soul finds its lord, fitting the name Athmanatheswarar.",
-    "festivals": "Maha Shivaratri, the monthly Pradosham, and the Tamil month festivals are observed, along with the car festival that draws the surrounding villages. As a delta temple it keeps the Shaiva calendar of the Kaveri country. Festival dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Tiruvalampozhil offers the quiet of an old delta sanctuary away from the crowds, and is easily visited together with the nearby Paadal Petra temples of Tiruppoonthuruthi and the Thiruvaiyaru group. Devotees come to worship Athmanatheswarar and Vadivudai Nayaki, and to recall the legend of the Vasus who found release here."
+    "history": "तिरुवलंपोळिल हे कुंभकोणमजवळील कावेरी त्रिभुज प्रदेशातील एक जुने शैव गाव आहे, आणि त्याचे मंदिर एक पाडल पेट्र स्थलम् आहे, जे तेवारम्‌मध्ये संत अप्परने गौरविले; तेथे या स्थळाला तिरुवलंपोळिल असे नाव आहे. येथे शिवाची आत्मनाथेश्वरर, म्हणजे आत्म्याचा स्वामी, या रूपात आणि देवीची वडिवुडै नायकी या रूपात पूजा होते. मंदिरात सापडलेले शिलालेख या स्थळाच्या साहित्यिक संदर्भांना पुष्टी देतात, आणि त्रिभुज प्रदेशातील आपल्या शेजारच्या मंदिरांप्रमाणेच हे मंदिरही चोळांनी व नंतरच्या तमिळ आश्रयदात्यांनी दगडात राखले व विस्तारले. ते तिरुप्पूंतुरुती येथील पुष्पवननाथर या पाडल पेट्र मंदिराच्या जवळ उभे आहे.",
+    "architecture": "हे मंदिर त्रिभुज प्रदेशाच्या द्राविड शैलीत बांधलेले असून, गोपुर प्रवेशद्वार, स्तंभयुक्त मंडप आणि गर्भगृहाभोवती भिंतीबंद प्रांगण आहे. गर्भगृहात आत्मनाथेश्वररचे शिवलिंग विराजमान असून, वडिवुडै नायकी देवीचे स्वतंत्र मंदिर आहे, आणि प्राकारभोवती शिवमंदिरातील नेहमीच्या परिवार देवता आहेत. याचा मध्यम आकार व जुने शिल्पकाम यांमुळे हे एखाद्या भव्य संकुलापेक्षा त्रिभुज प्रदेशातील एका पारंपरिक गावमंदिरासारखे वाटते.",
+    "legends": "स्थलपुराण सांगते की अष्ट वसू या दिव्य प्राण्यांनी एकदा दिव्य गाय कामधेनूला चोरले, आणि एका ऋषीने त्यांना शाप दिला की त्यांचा पृथ्वीवर मानव म्हणून जन्म होईल. मानवजन्मातील आपला काळ अल्प करण्याच्या इच्छेने ते या स्थळी आले आणि त्यांनी शिवाची पूजा केली असे सांगतात, आणि शिवाने त्यांना मुक्ती दिली; यावरूनच हे मंदिर जेथे आत्म्याला आपला स्वामी गवसतो असे स्थळ म्हणून गौरविले जाते, जे आत्मनाथेश्वरर या नावाला साजेसे आहे.",
+    "festivals": "महाशिवरात्री, मासिक प्रदोष आणि तमिळ महिन्यांतील उत्सव पाळले जातात, तसेच आसपासच्या गावांना एकत्र आणणारा रथोत्सवही होतो. त्रिभुज प्रदेशातील मंदिर म्हणून ते कावेरी प्रांताचे शैव पंचांग राखते. उत्सवांच्या तारखा तमिळ दिनदर्शिकेनुसार असतात, त्यामुळे त्या स्थानिक पातळीवर निश्चित करून घ्याव्यात.",
+    "experience": "तिरुवलंपोळिल गर्दीपासून दूर एका जुन्या त्रिभुज अभयारण्याची शांतता देते, आणि जवळच्या तिरुप्पूंतुरुती व तिरुवैयारु समूहातील पाडल पेट्र मंदिरांसह सहज पाहता येते. भक्त आत्मनाथेश्वरर व वडिवुडै नायकीची पूजा करण्यासाठी आणि येथे मुक्ती मिळालेल्या वसूंच्या कथेचे स्मरण करण्यासाठी येतात."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvalampozhil lies near Tiruppoonthuruthi, a short distance from Kumbakonam and Thiruvaiyaru in Thanjavur district. Kumbakonam and Thanjavur are the nearest railheads; Tiruchirappalli airport is about 60 km away. Local buses and autos reach the village."
+    "timings": "साधारणतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उत्तरार्धपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर निश्चित करून घ्याव्यात.",
+    "dressCode": "खांदे व गुडघे झाकलेला साधा पारंपरिक पोशाख अपेक्षित आहे; पादत्राणे प्रवेशद्वाराजवळ ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणामार्गांत छायाचित्रणास साधारणतः परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुवलंपोळिल हे तिरुप्पूंतुरुतीजवळ, तंजावूर जिल्ह्यातील कुंभकोणम व तिरुवैयारुपासून थोड्या अंतरावर आहे. कुंभकोणम व तंजावूर ही जवळची रेल्वेस्थानके आहेत; तिरुचिरापल्ली विमानतळ सुमारे ६० कि.मी. अंतरावर आहे. स्थानिक बस व ऑटो गावापर्यंत पोहोचतात."
   }
 }

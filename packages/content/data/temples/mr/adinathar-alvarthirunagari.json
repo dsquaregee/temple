@@ -1,30 +1,41 @@
 {
   "id": "adinathar-alvarthirunagari",
   "locale": "mr",
+  "name": "आदिनाथर पेरुमाळ मंदिर, आळवारतिरुनगरी",
   "nativeName": "ஆதிநாதர் பெருமாள் கோயில், ஆழ்வார்திருநகரி",
+  "deity": "आदिनाथर रूपातील विष्णू, देवी आदिनाथवल्ली यांच्यासह — नव तिरुपतींमधील गुरू (बृहस्पती) चे स्थान, आणि नम्माळवारांचे जन्मस्थान",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Alvarthirunagari",
-    "state": "Tamil Nadu",
+    "city": "आळवारतिरुनगरी",
+    "state": "तमिळनाडू",
     "lat": 8.605,
     "lng": 77.8
   },
+  "period": "तामिरभरणी नदीकाठचे पांड्य प्रदेशातील एक दिव्य देशम, ज्याचे गायन नम्माळवारांनी नालायिर दिव्य प्रबंधममध्ये केले आहे",
   "century": 8,
+  "dynasty": "पांड्य (नंतरच्या भरीसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "तामिरभरणीकाठच्या आळवारतिरुनगरी येथे विष्णू आदिनाथर रूपात उभे आहेत — नऊ ग्रहांच्या तिरुपतींमधील गुरूचे स्थान, आणि या सर्व स्थानांचे गायन करणार्‍या आळवारांमध्ये अग्रगण्य असलेल्या नम्माळवारांचे जन्मस्थान.",
   "sections": {
-    "history": "Alvarthirunagari — the sacred town of the Alvar — is the birthplace of Nammalvar, the greatest of the Alvar saints, and stands at the heart of the Nava Tirupati on the Tamiraparani; its lord is Adinathar, the primordial one. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of Jupiter, Guru; the old tamarind tree under which Nammalvar is said to have sat in silent meditation is revered here.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Adinathar, with the Goddess Adinathavalli; the shrine is the devotional centre of the nine. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Alvarthirunagari the planet is Jupiter, Guru. It is told that Nammalvar, born here, sat in wordless meditation beneath a tamarind tree until Madhurakavi Alvar drew forth his song — the Tiruvaymoli that hymns these very shrines.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of Jupiter, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "आळवारतिरुनगरी — आळवारांचे पवित्र नगर — हे आळवार संतांमध्ये श्रेष्ठ असलेल्या नम्माळवारांचे जन्मस्थान असून तामिरभरणीकाठच्या नव तिरुपतींच्या केंद्रस्थानी वसलेले आहे; येथील प्रभू आदिनाथर, म्हणजे आदिपुरुष, आहेत. आळवार संतांनी नालायिर दिव्य प्रबंधममध्ये गायिलेल्या विष्णूंच्या निवासस्थानांपैकी, म्हणजे १०८ दिव्य देशमांपैकी, हे एक आहे, आणि वैष्णवांनी प्रत्येकी एक ग्रहस्थान मानलेल्या तामिरभरणीकाठच्या नऊ मंदिरांपैकी, म्हणजे नव तिरुपतींपैकी, हे एक आहे. नव तिरुपतींमध्ये ते गुरू, म्हणजे बृहस्पती, यांचे स्थान म्हणून पूजनीय आहे; ज्या जुन्या चिंचेच्या झाडाखाली नम्माळवार मौन ध्यानात बसले होते असे म्हटले जाते, ते झाड येथे पूज्य मानले जाते.",
+    "architecture": "पांड्य प्रदेशाच्या आणि त्याच्या नंतरच्या आश्रयदात्यांच्या द्रविड शैलीत बांधलेल्या या मंदिरात गोपुराच्या प्रवेशद्वारातून प्रवेश होतो, आणि ते मुख्य विष्णूंच्या गाभार्‍याभोवती वसलेले आहे; देवी आपल्या स्वतंत्र गाभार्‍यात आहेत. येथे प्रभू आदिनाथर म्हणून पूजिले जातात, देवी आदिनाथवल्ली यांच्यासह; हे स्थान नऊ तिरुपतींचे भक्तिकेंद्र आहे. दक्षिणेकडील मंदिरशैलीनुसार गाभार्‍यासमोर स्तंभयुक्त मंडप उघडतात.",
+    "legends": "नव तिरुपतींची पूजा वैष्णवांची नऊ ग्रहस्थाने म्हणून एकत्रितपणे केली जाते: कावेरीकाठची शैव परंपरा नऊ स्वतंत्र नवग्रह मंदिरे राखते, तर येथे तामिरभरणीकाठच्या विष्णूंच्या नऊ निवासस्थानांत नऊ ग्रहांचा सन्मान केला जातो; ती सर्व आळवारांमध्ये अग्रगण्य नम्माळवारांनी गायिली आहेत, आणि त्यांचे स्वतःचे जन्मस्थान आळवारतिरुनगरी त्यांत आहे. आळवारतिरुनगरी येथे ग्रह गुरू, म्हणजे बृहस्पती, आहे. असे सांगितले जाते की येथे जन्मलेले नम्माळवार मधुरकवी आळवारांनी त्यांचे गीत बाहेर काढेपर्यंत चिंचेच्या झाडाखाली शब्दविरहित ध्यानात बसले — तेच तिरुवायमोळी, जे याच स्थानांचे स्तवन करते.",
+    "festivals": "मंदिरात वैकुंठ एकादशी, गरुड सेवा — जेव्हा नऊ देवांची एकाच फेरीत पूजा होते — आणि नम्माळवार व आळवारांचे दिवस असे महान वैष्णव उत्सव नदीकाठच्या गावांतून निघणार्‍या मिरवणुकांसह साजरे केले जातात. तामिरभरणीचे स्वतःचे उत्सव भोवतालच्या प्रदेशाला आकर्षित करतात.",
+    "experience": "नऊंपैकी एक शांत नदीकाठचे दिव्य देशम, जे तामिरभरणीच्या काठाने एका तिरुपतीकडून दुसरीकडे जाणार्‍या यात्रेकरूसाठी समाधानकारक ठरते. गुरूचे स्थान म्हणून ते नव तिरुपतींच्या एकत्रित यात्रेत आपले स्थान घेते, जी नऊ ग्रहांना विष्णूंच्या निवासस्थानांमध्ये एकत्र आणते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "दररोज सकाळ आणि संध्याकाळी दर्शनाची सत्रे असतात आणि दुपारी मंदिर बंद असते; गरुड सेवा आणि वैकुंठ एकादशीचे दिवस सर्वाधिक गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा तपासून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजार्‍यांचे मार्गदर्शन पाळावे.",
+    "photography": "गाभार्‍यात आणि त्याच्या आसपास छायाचित्रण प्रतिबंधित आहे; लावलेले नियम आणि पुजार्‍यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "हे तिरुनेलवेली–तुतुकुडी प्रदेशात तामिरभरणीकाठी, तिरुनेलवेली–तिरुचेंदूर मार्गावर वसलेले असून तिरुनेलवेलीहून रस्त्याने पोहोचता येते; नऊ तिरुपतींची गावे नदीकाठी एकमेकांच्या जवळ आहेत."
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/adinathar-alvarthirunagari.mp3",
+    "durationSec": 190
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "sivakozhundeesar-tirthanagiri",
   "locale": "mr",
+  "name": "शिवकोळुंदीसर मंदिर, तीर्थनगिरी",
   "nativeName": "சிவக்கொழுந்தீசர் கோயில்",
+  "deity": "शिवकोळुंदीसर (शिवकोळुंदु ईश्वरर) रूपातील शिव, देवी ओप्पिला नायकी सह",
+  "tradition": "शैव परंपरा",
   "location": {
-    "city": "Tirthanagiri",
-    "state": "Tamil Nadu",
+    "city": "तीर्थनगिरी",
+    "state": "तमिळनाडू",
     "lat": 11.39,
     "lng": 79.45
   },
+  "period": "नडुनाडू प्रदेशातील प्राचीन शैव मंदिर, तेवारममध्ये गायलेले (८ वे शतक); चोळ आणि नंतरच्या भरीसह दगडी मंदिर",
   "century": 8,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (चोळ आणि नंतरचे)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "शिवकोळुंदीसर हे नडुनाडू प्रदेशातील तिरुतिनैनगर येथील तेवारममध्ये स्तुती केलेले शिवमंदिर आहे; सुंदरर यांनी गायलेले हे पाडल पेट्र स्थळम स्वयंभू लिंगासाठी आणि स्वतः जेवण्यापूर्वी शिवभक्ताला जेवू घालणाऱ्या विनम्र दांपत्यासाठी पूजनीय आहे.",
   "sections": {
-    "history": "Tirthanagiri lies in the Nadu Nadu country, the belt of villages between the Kaveri delta and the northern Tamil plains, and is among the old Shaiva shrines named in the Tevaram, where the town is called Tiruthinainagar. Tradition counts it among the temples praised by the saint Sundarar, whose hymn is gathered in the seventh Tirumurai and names the place and the Lord in every verse, which makes it a Paadal Petra Sthalam. The presiding Shiva is honoured as Sivakozhundeesar, read as the Lord who is the tender shoot, worshipped here as a self-manifested (swayambhu) linga. Raised and enlarged in stone by the medieval patrons of the Tamil country and kept in daily worship ever since, the temple has carried the memory of the hymn-singing age into the present.",
-    "architecture": "The temple faces east beneath a three-tiered rajagopuram, its gateway set in line with the flagstaff, the seated Nandi, and the balipeetam in the manner the tradition prescribes. Within, the sanctum holds the swayambhu linga of Sivakozhundeesar, while the goddess Oppila Nayaki is honoured in her own shrine. Around the sanctum the niches carry the customary attendant deities — Dakshinamurthi the silent teacher, Lingodbhava, and Durga — and the enclosure keeps the measured, unhurried plan of a village temple of the Nadu Nadu country. For a few days around the Panguni full moon the light of the sun is said to fall directly upon the linga, a solar alignment the temple keeps with pride.",
-    "legends": "The story most often told at Tirthanagiri is of a devoted farming couple of the village, remembered as Periyan and his wife, whose unbroken vow was never to take their own meal until they had first fed a servant of Shiva. Through a season of hardship they kept the vow without fail, and the Lord, it is said, came to prove and to bless their steadfastness, so that their small store never ran empty and their field yielded against all expectation. From this the temple carries the lesson that the Lord receives the food given in his devotees' name as though given to himself, and the tale is recalled with affection by those who come to pray here.",
-    "festivals": "As at every Shiva temple, Maha Shivaratri and the monthly Pradosham are kept with care, and the Tamil month of Margazhi and the new-year month of Chithirai draw the fullest gatherings. The Panguni days when the sun's light is said to reach the sanctum are observed with special worship. Dates follow the Tamil calendar and shift each year, so confirm them locally before setting out.",
-    "experience": "Tirthanagiri rewards a quiet visit, away from the larger pilgrim routes. Enter beneath the eastern gopuram, come before the self-manifested linga of Sivakozhundeesar, and turn to the goddess Oppila Nayaki in her shrine. Many who come carry in mind the story of the couple who fed the Lord's devotees, and offer their prayers in that same spirit. The temple stands among the fields and small roads of the Cuddalore countryside, and keeps the calm of a very old village sanctuary."
+    "history": "तीर्थनगिरी नडुनाडू प्रदेशात, कावेरी डेल्टा आणि उत्तरेकडील तमिळ मैदानी प्रदेश यांच्यामधील गावांच्या पट्ट्यात आहे, आणि तेवारममध्ये नाव आलेल्या जुन्या शैव मंदिरांपैकी एक आहे, जेथे या नगराला तिरुतिनैनगर म्हटले आहे. परंपरा याला संत सुंदरर यांनी स्तुती केलेल्या मंदिरांमध्ये गणते; त्यांचे स्तोत्र सातव्या तिरुमुरैमध्ये संकलित आहे आणि प्रत्येक कडव्यात स्थळाचे व प्रभूचे नाव घेते, ज्यामुळे हे पाडल पेट्र स्थळम ठरते. येथील शिव शिवकोळुंदीसर म्हणून पूजला जातो, ज्याचा अर्थ कोवळ्या अंकुरासारखा प्रभू असा घेतला जातो, आणि येथे स्वयंभू लिंग म्हणून त्याची पूजा होते. तमिळ प्रदेशातील मध्ययुगीन आश्रयदात्यांनी दगडात उभारलेले आणि वाढवलेले, आणि तेव्हापासून दैनंदिन पूजेत राखलेले हे मंदिर स्तोत्रगायनाच्या युगाची स्मृती आजपर्यंत वाहून आणते.",
+    "architecture": "मंदिर पूर्वाभिमुख असून तीन मजली राजगोपुराखाली आहे; त्याचे प्रवेशद्वार परंपरेने सांगितल्याप्रमाणे ध्वजस्तंभ, बसलेला नंदी आणि बलिपीठ यांच्या रेषेत आहे. आत गर्भगृहात शिवकोळुंदीसराचे स्वयंभू लिंग आहे, आणि देवी ओप्पिला नायकीचा तिच्या स्वतंत्र मंदिरात सन्मान होतो. गर्भगृहाभोवतीच्या कोनाड्यांमध्ये नेहमीचे परिवार देव आहेत — मौन गुरू दक्षिणामूर्ती, लिंगोद्भव आणि दुर्गा — आणि प्रांगण नडुनाडू प्रदेशातील ग्राम मंदिराची मोजमापाची, अघाईची रचना राखते. पंगुनी पौर्णिमेच्या आसपास काही दिवस सूर्याचा प्रकाश थेट लिंगावर पडतो, असे सांगितले जाते — मंदिर अभिमानाने जपत असलेली सौर संरेखना.",
+    "legends": "तीर्थनगिरीत सर्वाधिक सांगितली जाणारी कथा गावातील एका भक्त शेतकरी दांपत्याची आहे; त्यांना पेरियन आणि त्याची पत्नी म्हणून स्मरले जाते, ज्यांचे अखंड व्रत होते की शिवाच्या एखाद्या सेवकाला आधी जेवू घातल्याशिवाय स्वतः जेवायचे नाही. कठीण काळातही त्यांनी हे व्रत न चुकता पाळले, आणि प्रभू त्यांच्या निष्ठेची परीक्षा घेण्यासाठी आणि त्यांना आशीर्वाद देण्यासाठी आला, असे सांगितले जाते; त्यामुळे त्यांचा लहानसा साठा कधी संपला नाही आणि त्यांचे शेत अपेक्षेविरुद्ध पिकले. यातून मंदिर हा धडा देते की भक्तांच्या नावाने दिलेले अन्न प्रभू स्वतःला दिल्याप्रमाणे स्वीकारतो, आणि येथे प्रार्थनेला येणारे ही कथा प्रेमाने स्मरतात.",
+    "festivals": "प्रत्येक शिवमंदिराप्रमाणे महाशिवरात्र आणि मासिक प्रदोष काळजीपूर्वक साजरे होतात, आणि तमिळ मार्गळी महिना आणि नववर्षाचा चित्तिरै महिना सर्वाधिक गर्दी आकर्षित करतात. सूर्याचा प्रकाश गर्भगृहापर्यंत पोहोचतो असे सांगितलेले पंगुनीचे दिवस विशेष पूजेने साजरे होतात. तारखा तमिळ दिनदर्शिकेनुसार असून दरवर्षी बदलतात, म्हणून निघण्यापूर्वी स्थानिक पातळीवर पडताळून घ्या.",
+    "experience": "तीर्थनगिरी मोठ्या यात्रामार्गांपासून दूर, शांत भेटीचे चीज करते. पूर्वेकडील गोपुराखालून आत या, शिवकोळुंदीसराच्या स्वयंभू लिंगासमोर या, आणि देवी ओप्पिला नायकीकडे तिच्या मंदिरात वळा. येथे येणाऱ्या अनेकांच्या मनात प्रभूच्या भक्तांना जेवू घालणाऱ्या दांपत्याची कथा असते, आणि ते त्याच भावनेने आपल्या प्रार्थना अर्पण करतात. मंदिर कडलूरच्या ग्रामीण भागातील शेतांमध्ये आणि लहान रस्त्यांमध्ये उभे आहे, आणि अतिशय जुन्या ग्रामीण आश्रयस्थानाची शांतता राखते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tirthanagiri lies in the Cuddalore district, reached via Alappakkam, roughly 25 km from Chidambaram and about 27 km from Cuddalore town. Buses running between Cuddalore and Chidambaram serve the village; Chidambaram and Virudhachalam are the nearest railheads, and Puducherry and Tiruchirappalli the nearest airports. Confirm the final approach locally."
+    "timings": "सामान्यतः सकाळी आणि संध्याकाळच्या उत्तरार्धापासून रात्रीपर्यंत खुले असते, दुपारी विश्रांतीसह; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर पडताळून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा/पँट, महिलांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वारावरील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाहेरील प्रदक्षिणा मार्ग आणि प्रांगणांमध्ये छायाचित्रणाला साधारणपणे परवानगी असते, पण आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तीर्थनगिरी कडलूर जिल्ह्यात असून अळप्पाक्कम मार्गे जाता येते; ते चिदंबरमपासून सुमारे २५ किमी आणि कडलूर नगरापासून सुमारे २७ किमी आहे. कडलूर आणि चिदंबरम दरम्यान धावणाऱ्या बस गावाला सेवा देतात; चिदंबरम आणि विरुधाचलम ही सर्वात जवळची रेल्वे स्थानके आहेत, आणि पुदुच्चेरी व तिरुचिरापल्ली ही सर्वात जवळची विमानतळे आहेत. शेवटचा मार्ग स्थानिक पातळीवर पडताळून घ्या."
   }
 }

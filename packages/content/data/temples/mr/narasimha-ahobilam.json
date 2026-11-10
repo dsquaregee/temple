@@ -1,31 +1,38 @@
 {
   "id": "narasimha-ahobilam",
   "locale": "mr",
+  "name": "अहोबिल नरसिंह मंदिर, अहोबिलम",
   "nativeName": "అహోబిల నరసింహ ఆలయం, అహోబిలం",
+  "deity": "अहोबिल (उग्र) नरसिंह रूपात पूजले जाणारे नरसिंह स्वरूपातील विष्णू — परंपरेनुसार त्यांनी येथे चेंचू लक्ष्मीशी विवाह केला",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "अहोबिलम",
+    "state": "आंध्र प्रदेश",
     "lat": 15.1244,
     "lng": 78.7367
   },
+  "period": "वडक्कु नाडूतील दिव्य देशम; नालायिर दिव्य प्रबंधममध्ये तिरुमंगै आळवारांनी गायिलेले",
   "century": 8,
+  "dynasty": "विजयनगर आश्रय (साळुव आणि तुळुव राजवंश)",
+  "style": "डोंगरावरील मंदिर-संकुल, द्रविड मंदिरांसह",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "ahobilam-nava-narasimha"
   ],
+  "summary": "आंध्र प्रदेशाच्या रानटी डोंगरांत अहोबिलम हे सिंहरूप प्रभूचे पर्वतीय निवासस्थान आहे — तिरुमंगै आळवारांनी सिंगवेल कुंद्रम म्हणून गायिलेले वडक्कु नाडूतील दिव्य देशम आणि नऊ नरसिंह मंदिरांची यात्रा.",
   "sections": {
-    "history": "Ahobilam lies in Nandyal district of Andhra Pradesh, where Thirumangai Alvar sang the lord of Singavel Kundram, the lion-hill, in a decad of ten verses in the Periya Thirumozhi. It is one of the 108 Divya Desams, the abodes of Vishnu praised by the Alvars in the Nalayira Divya Prabandham, and belongs to Vada Nadu, the northern region of the tradition. The Vijayanagara rulers patronised the shrines, first the Saluva dynasty in the fifteenth century and then the Tuluva dynasty in the sixteenth, and Krishnadevaraya is remembered as a visitor and benefactor. Ahobila Matha, the Sri Vaishnava monastic institution, took shape here in the medieval period. The story of the hills before the sixteenth century is largely obscure, and the Alvar's hymn remains the surest voice of their antiquity.",
-    "architecture": "Ahobilam is not a single temple but a pilgrimage of shrines scattered through the hills. The principal shrine is Upper Ahobilam, where Ahobila, or Ugra, Narasimha is worshipped, and around it the tradition counts the Nava Narasimha: Bhargava, Yogananda, Chatravata, Karanja, Pavana, Malola, Varaha (Kroda) and Jvala Narasimha. Below, in Lower Ahobilam, stands the Prahladavarada temple of Lakshmi Narasimha, regarded as a separate and later shrine. A crag called Ugra Stambham is pointed out as the pillar from which the Lord appeared. To reach the hill shrines is to climb, and the climb is part of the offering.",
-    "legends": "The sthala purana tells that Vishnu burst from a pillar as Narasimha, half man and half lion, to destroy the tyrant Hiranyakashipu and protect his young devotee Prahlada. Tradition holds that the watching gods cried 'Aho balam!' — 'what strength!' — and so the place took its name. The hill is also called Garudadri after the penance of Garuda, and tradition tells that Narasimha here wed Chenchu Lakshmi, a daughter of the forest-dwelling Chenchu people, so that the fierce lord of the hills is also the kinsman of the people who live in them.",
-    "festivals": "The shrines keep an annual Brahmotsavam, and Narasimha Jayanti is a day of special worship. After Sankranti, tradition has the Lord carried in procession to the Chenchu villages in the Paruveta festival, recalling his bond with the hill people. Vaikunta Ekadashi is observed as at other Divya Desams. Confirm dates locally.",
-    "experience": "Come prepared for a pilgrimage rather than a visit: the shrines are spread across forested hills, and the walk between them is long and often steep. Wear sturdy footwear for the paths, carry water, and allow more than a day if you hope to see several of the nine. Upper Ahobilam is the heart of the journey."
+    "history": "अहोबिलम आंध्र प्रदेशातील नांद्याळ जिल्ह्यात आहे, जिथे तिरुमंगै आळवारांनी पेरिय तिरुमोळीतील दहा पदांच्या एका दशकात सिंगवेल कुंद्रम, म्हणजे सिंहपर्वताच्या प्रभूचे गायन केले. हे १०८ दिव्य देशमांपैकी एक आहे — नालायिर दिव्य प्रबंधममध्ये आळवारांनी गौरविलेली विष्णूची निवासस्थाने — आणि परंपरेच्या उत्तरेकडील प्रदेशाचा, म्हणजे वडक्कु नाडूचा, भाग आहे. विजयनगरच्या शासकांनी या मंदिरांना आश्रय दिला, प्रथम पंधराव्या शतकात साळुव राजवंशाने आणि नंतर सोळाव्या शतकात तुळुव राजवंशाने, आणि कृष्णदेवराय हे भेट देणारे आणि दाते म्हणून स्मरले जातात. श्रीवैष्णव मठ-संस्था अहोबिल मठ मध्ययुगीन काळात येथे आकारास आली. सोळाव्या शतकापूर्वीच्या या डोंगरांचा इतिहास मोठ्या प्रमाणात अस्पष्ट आहे, आणि त्यांच्या प्राचीनतेचा सर्वांत विश्वासार्ह आवाज आळवारांचे स्तोत्र हाच आहे.",
+    "architecture": "अहोबिलम हे एकच मंदिर नसून डोंगरांत विखुरलेल्या मंदिरांची यात्रा आहे. मुख्य मंदिर वरचे अहोबिलम आहे, जिथे अहोबिल किंवा उग्र नरसिंह पूजले जातात, आणि त्याभोवती परंपरा नव नरसिंह मोजते: भार्गव, योगानंद, छत्रवट, करंज, पावन, मालोल, वराह (क्रोड) आणि ज्वाला नरसिंह. खाली, खालच्या अहोबिलममध्ये, लक्ष्मी नरसिंहाचे प्रल्हादवरद मंदिर आहे, जे स्वतंत्र आणि नंतरचे मंदिर मानले जाते. उग्र स्तंभम नावाचा एक कडा तो स्तंभ म्हणून दाखवला जातो ज्यातून प्रभू प्रकट झाले. डोंगरावरील मंदिरांपर्यंत पोहोचणे म्हणजे चढाई करणे, आणि ही चढाई अर्पणाचाच भाग आहे.",
+    "legends": "स्थलपुराण सांगते की अर्धा मनुष्य आणि अर्धा सिंह अशा नरसिंह रूपात विष्णू एका खांबातून प्रकट झाले, जुलमी हिरण्यकशिपूचा नाश करण्यासाठी आणि आपला बालभक्त प्रल्हाद याचे रक्षण करण्यासाठी. परंपरा सांगते की पाहणाऱ्या देवांनी \"अहो बलम!\" — \"काय हे सामर्थ्य!\" — असा उद्गार काढला, आणि म्हणून या स्थानाला हे नाव मिळाले. गरुडाच्या तपश्चर्येमुळे डोंगराला गरुडाद्री असेही म्हणतात, आणि परंपरा सांगते की येथे नरसिंहाने जंगलात राहणाऱ्या चेंचू लोकांची कन्या चेंचू लक्ष्मी हिच्याशी विवाह केला, त्यामुळे डोंगरांचा हा उग्र प्रभू तेथे राहणाऱ्या लोकांचा आप्तही आहे.",
+    "festivals": "मंदिरांत वार्षिक ब्रह्मोत्सवम साजरा होतो, आणि नरसिंह जयंती हा विशेष पूजेचा दिवस असतो. संक्रांतीनंतर, परंपरेनुसार प्रभूंची पारुवेट उत्सवात चेंचू गावांमध्ये मिरवणूक निघते, जी डोंगरवासीयांशी असलेल्या त्यांच्या नात्याचे स्मरण करते. इतर दिव्य देशमांप्रमाणेच वैकुंठ एकादशी पाळली जाते. तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "भेटीसाठी नव्हे तर यात्रेसाठी तयार होऊन या: मंदिरे जंगलाने व्यापलेल्या डोंगरांत पसरलेली आहेत, आणि त्यांच्या दरम्यानची पायपीट लांब आणि बहुतेक वेळा चढणीची आहे. वाटांसाठी मजबूत पादत्राणे घाला, पाणी बरोबर ठेवा, आणि नऊपैकी अनेक मंदिरे पाहण्याची इच्छा असेल तर एका दिवसापेक्षा अधिक वेळ राखून ठेवा. वरचे अहोबिलम हे या प्रवासाचे हृदय आहे."
   },
   "visit": {
-    "timings": "Shrines are open daily with morning and evening darshan sessions and a midday closure; festival days are busiest, and the hill shrines may be reached only in daylight. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Ahobilam lies in Nandyal district (formerly part of Kurnool district), reached by road via Allagadda; Nandyal is the nearest major railhead. Upper and Lower Ahobilam and the hill shrines are reached by local road transport and on foot; confirm routes locally."
+    "timings": "मंदिरे दररोज सकाळ आणि संध्याकाळच्या दर्शन-सत्रांसह उघडी असतात आणि दुपारी बंद असतात; उत्सवाच्या दिवशी सर्वाधिक गर्दी असते, आणि डोंगरावरील मंदिरांपर्यंत फक्त दिवसाच्या प्रकाशातच पोहोचता येते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गाभाऱ्यात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "अहोबिलम नांद्याळ जिल्ह्यात (पूर्वी कर्नूल जिल्ह्याचा भाग) आहे आणि अल्लागड्डामार्गे रस्त्याने पोहोचता येते; नांद्याळ हे जवळचे मोठे रेल्वे स्थानक आहे. वरचे आणि खालचे अहोबिलम तसेच डोंगरावरील मंदिरे स्थानिक रस्ते वाहतुकीने आणि पायी गाठता येतात; मार्ग स्थानिक पातळीवर खात्री करून घ्या."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/narasimha-ahobilam.jpg",

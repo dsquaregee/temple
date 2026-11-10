@@ -1,30 +1,37 @@
 {
   "id": "kallazhagar-alagarkoil",
   "locale": "mr",
+  "name": "कळ्ळळगर मंदिर, अळगर कोविल",
   "nativeName": "கள்ளழகர் கோயில், அழகர்கோவில்",
+  "deity": "सुंदरराज पेरुमाळ रूपातील विष्णू, कळ्ळळगर म्हणून पूजित, उभ्या स्वरूपात, देवी सुंदरवल्ली ताय्यार यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Alagar Koil, Madurai",
-    "state": "Tamil Nadu",
+    "city": "अळगर कोविल, मदुराई",
+    "state": "तमिळनाडू",
     "lat": 10.0741,
     "lng": 78.2144
   },
+  "period": "अळगर डोंगराच्या पायथ्याशी वसलेले पांड्य प्रदेशातील एक दिव्य देशम, नालायिर दिव्य प्रबंधमात अनेक आळवारांनी गायिलेले",
   "century": 8,
+  "dynasty": "पांड्य, मदुराई नायक",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "अळगर डोंगराच्या वनाच्छादित पायथ्याशी, विष्णू तिरुमालिरुंचोलैचे सुंदर स्वामी कळ्ळळगर म्हणून उभे आहेत; दरवर्षी चित्तिरैमध्ये ते वैगईकडे उतरतात आणि संपूर्ण मदुराई त्यांचे स्वागत करते.",
   "sections": {
-    "history": "Known to the Alvars as Thirumaliruncholai, the 'great dark grove', Alagar Koil lies about twenty kilometres north-east of Madurai where the Alagar hills meet the plain. It is one of the 108 Divya Desams of the Pandya country, and few are so richly sung: Nammalvar gave it three decads of his Tiruvaimozhi, Thirumangai Alvar more than thirty verses, and Periyalvar, Andal, Bhoothathalvar and Peyalvar all praise the hill and its lord. The Pandyas were early patrons, and Jatavarman Sundara Pandya in the thirteenth century is remembered for covering the sanctum tower in gold. The Madurai Nayaks shaped the festival life that defines the temple today: under Thirumalai Nayak, in 1653, part of the Chithirai rites was moved to a mandapam he built at Vandiyur on the Vaigai.",
-    "architecture": "The walled temple covers about two acres beneath the wooded slope, entered through a five-tiered gopuram. Over the sanctum rises the Somachandra vimana, whose gold covering is credited to the Pandya kings. The halls are rich in Nayak-period carving, above all the kalyana mandapam, whose pillars carry the lively sculpture of that age. Above the temple, a path climbs the hill to the spring of Noopura Gangai, the sacred water of the shrine, said to flow from the anklet of the lord.",
-    "legends": "The best-loved story is that of the sage Manduka, cursed to live as a frog, whom Azhagar releases by descending from his hill to the banks of the Vaigai — the legend re-enacted each year in the Chithirai festival. Devotees also cherish the bond between this lord and Andal, who longed for Azhagar in her verses; tradition holds that she vowed him a hundred pots of butter and sweet rice, an offering Ramanuja is said to have fulfilled on her behalf centuries later.",
-    "festivals": "The Chithirai festival (April–May) is among the great sights of Tamil Nadu. Kallazhagar sets out in procession from Alagar Koil, is greeted by Madurai in the Ethir Sevai, and on the full moon steps into the Vaigai on a golden horse before lakhs of devotees, as the city celebrates the Meenakshi wedding. Vaikunta Ekadashi is also kept with devotion.",
-    "experience": "Come early, when mist still clings to the Alagar hills and monkeys patrol the outer walls. After darshan of the standing lord, many pilgrims climb on to Noopura Gangai for its spring water, passing the Murugan shrine of Pazhamudircholai on the same hill. Visiting in Chithirai is unforgettable but crowded; at other times the temple is calm and green."
+    "history": "आळवारांना तिरुमालिरुंचोलै, म्हणजे \"विशाल काळे वन\" म्हणून ज्ञात असलेले अळगर कोविल, अळगर डोंगर मैदानाला मिळतो तेथे मदुराईच्या सुमारे वीस किलोमीटर ईशान्येस आहे. पांड्य प्रदेशातील १०८ दिव्य देशमपैकी ते एक आहे, आणि फार थोडी स्थाने इतक्या समृद्धपणे गायली गेली आहेत: नम्माळवारांनी त्याला आपल्या तिरुवाय्मोळीचे तीन दशक दिले, तिरुमंगै आळवारांनी तीसहून अधिक पदे, आणि पेरियाळवार, आंडाळ, भूतत्ताळवार आणि पेयाळवार या सर्वांनी डोंगराची आणि त्याच्या स्वामीची स्तुती केली. पांड्य हे आरंभीचे आश्रयदाते होते, आणि तेराव्या शतकातील जटावर्मन सुंदर पांड्य हे गाभाऱ्यावरील शिखर सोन्याने मढवल्यासाठी स्मरले जातात. मदुराई नायकांनी आजच्या मंदिराची ओळख ठरवणारे उत्सवजीवन घडवले: तिरुमलै नायकांच्या काळात, १६५३ मध्ये, चित्तिरै विधींचा एक भाग त्यांनी वैगईवरील वंडियूर येथे बांधलेल्या मंडपात हलवण्यात आला.",
+    "architecture": "तटबंदी असलेले हे मंदिर वृक्षाच्छादित उताराखाली सुमारे दोन एकरांवर पसरलेले असून पाच मजली गोपुरातून त्यात प्रवेश होतो. गाभाऱ्यावर सोमचंद्र विमान उभे आहे, ज्याच्या सुवर्ण आवरणाचे श्रेय पांड्य राजांना दिले जाते. मंडप नायककालीन कोरीवकामाने समृद्ध आहेत, त्यातही विशेषतः कल्याण मंडप, ज्याचे स्तंभ त्या युगातील जिवंत शिल्पे धारण करतात. मंदिराच्या वर एक वाट डोंगरावर नूपुर गंगैच्या झऱ्याकडे चढते; हे मंदिराचे पवित्र जल असून भगवंताच्या पैंजणातून वाहते असे मानले जाते.",
+    "legends": "सर्वांत प्रिय कथा मंडूक ऋषींची आहे, ज्यांना बेडूक म्हणून जगण्याचा शाप मिळाला होता; अळगर आपल्या डोंगरावरून उतरून वैगईच्या तीरावर येतात आणि त्यांना मुक्त करतात — ही कथा दरवर्षी चित्तिरै उत्सवात पुन्हा साकारली जाते. भाविक या स्वामींचे आणि आंडाळ यांचे नातेही जपतात, ज्यांनी आपल्या पदांत अळगरांची आस व्यक्त केली; परंपरेनुसार त्यांनी त्यांना लोण्याची आणि गोड भाताची शंभर मडकी अर्पण करण्याचा नवस केला होता, आणि शतकांनंतर रामानुजांनी त्यांच्या वतीने तो पूर्ण केला असे सांगितले जाते.",
+    "festivals": "चित्तिरै उत्सव (एप्रिल–मे) हे तमिळनाडूतील महान दृश्यांपैकी एक आहे. कळ्ळळगर अळगर कोविलमधून मिरवणुकीने निघतात, एतिर सेवैमध्ये मदुराई त्यांचे स्वागत करते, आणि पौर्णिमेला, शहर मीनाक्षी विवाह साजरा करत असताना, लाखो भाविकांसमोर ते सोनेरी घोड्यावरून वैगईत पाऊल ठेवतात. वैकुंठ एकादशीही भक्तिभावाने पाळली जाते.",
+    "experience": "लवकर या, जेव्हा अळगर डोंगरांवर अजून धुके रेंगाळत असते आणि माकडे बाहेरच्या भिंतींवर पहारा देत असतात. उभ्या स्वामींच्या दर्शनानंतर अनेक यात्रेकरू नूपुर गंगैच्या झऱ्याचे पाणी घेण्यासाठी पुढे चढतात, त्याच डोंगरावरील पळमुदिरचोलै येथील मुरुगन मंदिराजवळून जात. चित्तिरैमध्ये भेट देणे अविस्मरणीय पण गर्दीचे असते; इतर वेळी मंदिर शांत आणि हिरवेगार असते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Chithirai festival and Vaikunta Ekadashi days are extremely crowded. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Alagar Koil is about 20 km north-east of Madurai by road, with frequent buses from the city. Madurai Junction is the nearest major railway station and Madurai Airport the nearest airport."
+    "timings": "दररोज उघडे; सकाळी आणि संध्याकाळी दर्शनाच्या वेळा आणि दुपारी बंद; चित्तिरै उत्सव आणि वैकुंठ एकादशीचे दिवस अत्यंत गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा खात्री करून घ्याव्यात.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गाभाऱ्यात आणि त्याच्या आसपास छायाचित्रणास निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "अळगर कोविल मदुराईपासून रस्त्याने सुमारे २० किमी ईशान्येस आहे; शहरातून वारंवार बसेस उपलब्ध आहेत. मदुराई जंक्शन हे सर्वांत जवळचे मोठे रेल्वे स्थानक आणि मदुराई विमानतळ हे सर्वांत जवळचे विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kallazhagar-alagarkoil.jpg",

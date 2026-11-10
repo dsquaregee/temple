@@ -1,29 +1,36 @@
 {
   "id": "erumbeeswarar-tiruverumbur",
   "locale": "mr",
+  "name": "एरुंबीश्वरर मंदिर, तिरुवेरुंबूर",
   "nativeName": "எறும்பீஸ்வரர் கோயில்",
+  "deity": "एरुंबीश्वरर रूपातील शिव, देवी नरुंकुळल नायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tiruverumbur",
-    "state": "Tamil Nadu",
+    "city": "तिरुवेरुंबूर",
+    "state": "तमिळनाडू",
     "lat": 10.7928,
     "lng": 78.7675
   },
+  "period": "तेवारममध्ये गायलेले प्राचीन शैव गिरिस्थान (सातवे शतक); सुरुवातीच्या चोळकालीन रचनात्मक मंदिर, नंतरच्या भरीसह",
   "century": 7,
+  "dynasty": "आरंभीचे चोळ (परंपरेने पहिल्या आदित्याशी जोडलेले) आणि नंतरचे चोळ आश्रयदाते",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुचिरापल्लीजवळच्या एका लहानशा खडकाळ टेकडीवर विराजमान एरुंबीश्वरर हे तेवारममधील तिरुवेरुंबूर आहे; परंपरा सांगते की येथे शिव वारुळ बनला आणि त्याने मान कलती केली, जेणेकरून मुंग्यांना वर चढून त्याची पूजा करता यावी.",
   "sections": {
-    "history": "Tiruverumbur lies a short distance east of Tiruchirappalli on the southern bank of the Kaveri, where a small rocky hill rises abruptly from the plain. The shrine on its summit is sung in the Tevaram as Tiruverumbur, which makes it a Paadal Petra Sthalam, and it is counted among the Tevaram temples of the Kaveri's southern shore. Local tradition links the temple with the early Chola king Aditya I, remembered for raising a line of Shiva temples along the river after his victory at Tirupurambiyam, though the precise founding is not firmly documented. Townspeople call the hill simply the Malai Kovil, the hill temple, and the Archaeological Survey of India protects the monument today. Worship here has gone on without a break for well over a thousand years.",
-    "architecture": "The temple stands on a rocky hill some sixty feet high, reached by a flight of stone steps that climbs from the street to the summit. At the top, the sanctum of Erumbeeswarar holds a linga unlike most others: its surface is rough and earthen, in the likeness of an ant-hill, and its top is slightly tilted. Tradition holds that this linga, made of earth and sand, must be shielded from water. The goddess Narunkuzhal Nayaki, the lady of the fragrant tresses, is honoured in her own shrine within the complex. The setting is modest in scale, a small and very old hill sanctuary rather than a vast temple city, and its charm lies in that intimacy.",
-    "legends": "The name Erumbeeswarar means the Lord of the Ants, and the legend behind it is among the gentlest in Tamil Shaivism. When the demon Tharukasura oppressed the worlds, Indra and the other devas were told to seek refuge by worshipping at Tiruverumbur. To pass the demon's notice they took the forms of ants and made their way to the hill. But the surface of the linga was smooth and slippery, and the tiny worshippers could not climb it. Seeing their struggle, Shiva became an ant-hill and tilted his head, so that the ants might climb up and offer their worship. The slight tilt of the linga is remembered as that gesture of compassion. Another tradition holds that the hill itself is a fragment of Mount Meru, split off by Vayu, the wind, in a contest among the gods. Murugan, Brahma, Agni and the sage Agastya are also said to have worshipped here.",
-    "festivals": "The great annual festival is the Vaikasi Brahmotsavam in May or June, when thousands of devotees gather on the hill. Maha Shivaratri in February or March, the Aipasi Annabishekam in October or November, and the Tirukarthikai lamps in November or December are also kept with devotion, as is the monthly Pradosham. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Climb the stone steps slowly, pausing as the town falls away below, and enter the quiet sanctum at the top. Look closely at the linga: its rough, earthen surface and slight tilt are what devotees come to see, and the story of the ants makes even the humblest worshipper feel welcome here. After darshan of Erumbeeswarar, visit the goddess Narunkuzhal Nayaki in her own shrine. The climb is short, but the steps can be steep for the elderly, so go unhurried. Though the town and the busy Tiruchirappalli–Thanjavur road lie just below, the hill temple keeps a village stillness."
+    "history": "तिरुवेरुंबूर तिरुचिरापल्लीच्या थोडे पूर्वेस कावेरीच्या दक्षिण तीरावर आहे, जेथे एक लहानशी खडकाळ टेकडी मैदानातून अचानक वर उठते. तिच्या माथ्यावरील मंदिराची तेवारममध्ये तिरुवेरुंबूर म्हणून स्तुती केली आहे, त्यामुळे ते पाडल पेत्र स्थळ ठरते, आणि कावेरीच्या दक्षिण तीरावरील तेवारम मंदिरांमध्ये त्याची गणना होते. स्थानिक परंपरा या मंदिराला आरंभीचा चोळ राजा पहिला आदित्य याच्याशी जोडते, ज्याचे स्मरण तिरुपुरंबियमच्या विजयानंतर नदीकाठी शिवमंदिरांची मालिका उभारणारा म्हणून केले जाते; तथापि नेमकी स्थापना ठामपणे नोंदलेली नाही. गावकरी या टेकडीला फक्त मलै कोविल, म्हणजे गिरिमंदिर, म्हणतात, आणि आज हे स्मारक भारतीय पुरातत्त्व सर्वेक्षणाच्या संरक्षणाखाली आहे. येथील पूजा हजार वर्षांहून अधिक काळ अखंड चालू आहे.",
+    "architecture": "मंदिर सुमारे साठ फूट उंच खडकाळ टेकडीवर उभे आहे, आणि रस्त्यापासून माथ्यापर्यंत दगडी पायऱ्यांची एक रांग चढत जाते. माथ्यावर एरुंबीश्वररांच्या गर्भगृहात इतरांपेक्षा वेगळे लिंग आहे: त्याचा पृष्ठभाग खडबडीत आणि मातीसारखा, वारुळाच्या रूपाचा आहे, आणि त्याचा माथा किंचित कलता आहे. परंपरा सांगते की माती आणि वाळूचे बनलेले हे लिंग पाण्यापासून जपले पाहिजे. सुगंधी केशसंभार असलेली देवी नरुंकुळल नायकी हिची पूजा संकुलातील तिच्या स्वतंत्र गाभाऱ्यात होते. येथील परिसर आकाराने साधा आहे, विशाल मंदिरनगरी नव्हे तर एक लहान आणि अतिशय जुने गिरिमंदिर, आणि त्याचे सौंदर्य त्या जिव्हाळ्यातच आहे.",
+    "legends": "एरुंबीश्वरर या नावाचा अर्थ मुंग्यांचा स्वामी, आणि त्यामागील कथा तमिळ शैव परंपरेतील सर्वांत मृदू कथांपैकी एक आहे. तारकासुर लोकांना पीडत असताना इंद्र आणि इतर देवांना तिरुवेरुंबूर येथे पूजा करून आश्रय घेण्यास सांगितले गेले. असुराच्या नजरेतून सुटण्यासाठी त्यांनी मुंग्यांची रूपे घेतली आणि टेकडीवर पोहोचले. पण लिंगाचा पृष्ठभाग गुळगुळीत आणि निसरडा होता, आणि त्या लहानशा भक्तांना त्यावर चढता येईना. त्यांची धडपड पाहून शिव वारूळ बनला आणि त्याने आपले मस्तक कलते केले, जेणेकरून मुंग्या वर चढून पूजा अर्पण करू शकतील. लिंगाचा तो किंचित कलता माथा त्या करुणेच्या कृतीची आठवण म्हणून स्मरला जातो. आणखी एक परंपरा सांगते की ही टेकडी म्हणजे देवांमधील स्पर्धेत वायूने, म्हणजे वाऱ्याने, तोडलेला मेरू पर्वताचा एक तुकडा आहे. मुरुगन, ब्रह्मा, अग्नी आणि अगस्त्य ऋषी यांनीही येथे पूजा केल्याचे सांगितले जाते.",
+    "festivals": "मोठा वार्षिक उत्सव म्हणजे मे किंवा जूनमधील वैकासी ब्रह्मोत्सवम, जेव्हा हजारो भक्त टेकडीवर जमतात. फेब्रुवारी किंवा मार्चमधील महाशिवरात्र, ऑक्टोबर किंवा नोव्हेंबरमधील आयप्पसी अन्नाभिषेकम आणि नोव्हेंबर किंवा डिसेंबरमधील तिरुकार्तिकै दीप हेही भक्तिभावाने साजरे होतात, तसेच मासिक प्रदोषमही. तिथी तमिळ पंचांगानुसार असल्याने तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "दगडी पायऱ्या हळूहळू चढा, खाली गाव दूर जाताना थोडे थांबा, आणि माथ्यावरील शांत गर्भगृहात प्रवेश करा. लिंगाकडे बारकाईने पाहा: त्याचा खडबडीत, मातीसारखा पृष्ठभाग आणि किंचित कलता माथा पाहण्यासाठीच भक्त येतात, आणि मुंग्यांची कथा सर्वांत साध्या भक्ताला येथे आपलेपणा देते. एरुंबीश्वररांच्या दर्शनानंतर देवी नरुंकुळल नायकीचे तिच्या स्वतंत्र गाभाऱ्यात दर्शन घ्या. चढण लहान आहे, पण वृद्धांसाठी पायऱ्या तीव्र असू शकतात, त्यामुळे घाई न करता जा. गाव आणि तिरुचिरापल्ली–तंजावूर हा गजबजलेला रस्ता अगदी खाली असला तरी हे गिरिमंदिर खेड्यातील शांतता राखून आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to around midday and again from the evening until about half past eight at night; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tiruverumbur lies on the Tiruchirappalli–Thanjavur road, roughly 11 to 15 km east of Tiruchirappalli city, with frequent buses. The town also has a railway station on the Tiruchirappalli–Thanjavur line, and Tiruchirappalli Junction is the main railhead. Tiruchirappalli International Airport is the nearest airport. The temple is reached on foot by a flight of steps from the road."
+    "timings": "सामान्यतः पहाटेपासून दुपारच्या सुमारास आणि पुन्हा संध्याकाळपासून रात्री सुमारे साडेआठपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे व गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वाराजवळील स्टँडवर काढून ठेवावीत.",
+    "photography": "तमिळनाडूच्या मंदिर नियमांनुसार बाहेरील प्रदक्षिणा मार्ग आणि प्रांगणांत छायाचित्रणास सामान्यतः परवानगी असते, परंतु आतल्या गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुवेरुंबूर तिरुचिरापल्ली–तंजावूर रस्त्यावर, तिरुचिरापल्ली शहराच्या सुमारे ११ ते १५ कि.मी. पूर्वेस आहे, आणि तेथे वारंवार बस धावतात. गावात तिरुचिरापल्ली–तंजावूर मार्गावर रेल्वे स्थानकही आहे, तर तिरुचिरापल्ली जंक्शन हे मुख्य रेल्वे स्थानक आहे. तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ हे जवळचे विमानतळ आहे. रस्त्यापासून पायऱ्यांच्या रांगेने पायी मंदिरापर्यंत पोहोचता येते."
   }
 }

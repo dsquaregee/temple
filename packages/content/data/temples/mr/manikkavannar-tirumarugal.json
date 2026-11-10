@@ -1,29 +1,36 @@
 {
   "id": "manikkavannar-tirumarugal",
   "locale": "mr",
+  "name": "मणिक्कवण्णर मंदिर, तिरुमरुगल",
   "nativeName": "திருமருகல் மாணிக்கவண்ணர் (ரத்னகிரீஸ்வரர்) கோயில்",
+  "deity": "मणिक्कवण्णर (रत्नगिरीश्वर) रूपातील शिव",
+  "tradition": "शैव — पाडल पेत्र स्थळ, तेवारममध्ये गायलेले",
   "location": {
-    "city": "Tirumarugal, near Nannilam",
-    "state": "Tamil Nadu",
+    "city": "तिरुमरुगल, नन्निलमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.8422,
     "lng": 79.6281
   },
+  "period": "तेवारम काळ, चोळकालीन रचनेसह",
   "century": 9,
+  "dynasty": "चोळ (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "नन्निलमजवळील तिरुमरुगल हे तेवारम काळातील एका अत्यंत हळुवार चमत्काराचे स्थान आहे: येथे बालसंत तिरुज्ञान संबंदर यांनी सर्पदंशाने मृत झालेल्या वराला गायनाने पुन्हा जिवंत केले आणि तरुण जोडप्याचा विवाह होताना पाहिला, आणि शिव स्वतः साक्षी म्हणून उभे राहिले, असे सांगतात. प्रभूंची पूजा मणिक्कवण्णर — रत्नवर्णी — म्हणून होते, त्यांना रत्नगिरीश्वरही म्हणतात; स्वयंभू लिंग असलेले हे पाडल पेत्र स्थळ आहे, आणि विष उतरवण्यास मदत करणाऱ्या जवळच्या विनायकाला विटम-तीर्थ विनायकर म्हणून पूजिले जाते.",
   "sections": {
-    "history": "Tirumarugal is an ancient Shaiva village in the Nannilam country, revered in the seventh-century Tevaram and counted among the Paadal Petra Sthalams. The lingam is held to be self-manifested, and the sthala vriksham is the marugal tree that gives the place its name. The stone temple is of the Chola period with later additions; its fame, however, rests chiefly on the great Tevaram miracle that unfolded here, which has kept the village in devotional memory for well over a thousand years.",
-    "architecture": "The temple follows the Dravidian plan, with a gopuram, prakara and the sanctum of Manikkavannar — Ratnagireeswarar — housing the self-manifested lingam. Within the complex stands the shrine of Vitam-teertha Vinayakar, the Ganesha tied to the poison-removing miracle, whose name carries 'vitam,' poison. The marugal (sthala) tree and the temple tank complete a compact, atmospheric village shrine shaped by a single tender story.",
-    "legends": "The legend of Tirumarugal is beloved across the Tamil country. A young couple, in love against their families' wishes, were to be wed, but the bridegroom died of a snakebite. The child-saint Sambandar, moved by the grief, sang a Tevaram hymn to Shiva, and the young man rose alive; the marriage was then solemnised, with the lord himself as witness when doubt was cast on the union. The nearby Vinayaka, said to have aided in drawing out the poison, is honoured as Vitam-teertha Vinayakar. The story makes Tirumarugal a place devotees associate with healing, marriage and the undoing of grief.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi observances and the annual Brahmotsavam. The association with Sambandar's miracle gives the days honouring the saint a special warmth, and couples and families come with prayers for marriage, for children and for relief from the fear of snakebite and poison.",
-    "experience": "Tirumarugal is a quiet village temple whose power is the tenderness of its story. Pilgrims come knowing the tale of the revived bridegroom and the witnessing lord, and the darshan of Manikkavannar carries the sense of a grace that answers love and grief alike. For many it is a place of hope at the thresholds of life — marriage, healing, and new beginnings."
+    "history": "तिरुमरुगल हे नन्निलम प्रदेशातील प्राचीन शैव गाव आहे; सातव्या शतकातील तेवारममध्ये ते पूज्य मानले गेले असून त्याची गणना पाडल पेत्र स्थळांत होते. लिंग स्वयंभू मानले जाते, आणि स्थलवृक्ष मरुगल वृक्ष आहे, ज्यावरून या स्थानाचे नाव पडले. दगडी मंदिर चोळकालीन असून त्यात नंतरच्या भरी आहेत; तथापि त्याची कीर्ती मुख्यतः येथे घडलेल्या महान तेवारम चमत्कारावर आधारित आहे, ज्याने हजारो वर्षांहून अधिक काळ हे गाव भक्तांच्या स्मरणात जिवंत ठेवले आहे.",
+    "architecture": "मंदिर द्रविड आराखड्याचे असून त्यात गोपुर, प्राकार आणि स्वयंभू लिंग असलेले मणिक्कवण्णर — रत्नगिरीश्वर — यांचे गर्भगृह आहे. संकुलात विटम-तीर्थ विनायकरचे देवस्थान आहे — विष उतरवण्याच्या चमत्काराशी निगडित गणेश, ज्याच्या नावात “विटम” म्हणजे विष आहे. मरुगल (स्थल) वृक्ष आणि मंदिर सरोवर मिळून एका हळुवार कथेने घडलेले लहानसे, भारलेले ग्रामीण देवस्थान पूर्ण करतात.",
+    "legends": "तिरुमरुगलची कथा संपूर्ण तमिळ प्रदेशात प्रिय आहे. कुटुंबांच्या इच्छेविरुद्ध प्रेम केलेल्या एका तरुण जोडप्याचा विवाह ठरला होता, पण वराचा सर्पदंशाने मृत्यू झाला. बालसंत संबंदर यांनी दुःखाने द्रवून शिवाला तेवारम स्तोत्र गायले, आणि तो तरुण जिवंत उठला; त्यानंतर विवाह पार पडला, आणि या मीलनाबद्दल शंका घेतली गेली तेव्हा प्रभू स्वतः साक्षी झाले. विष बाहेर काढण्यात साहाय्य केल्याचे सांगितले जाणारे जवळचे विनायक विटम-तीर्थ विनायकर म्हणून पूजिले जातात. या कथेमुळे तिरुमरुगल हे उपचार, विवाह आणि दुःखाचा निरास यांच्याशी भक्त जोडतात असे स्थान बनले आहे.",
+    "festivals": "मंदिर शैव उत्सवपंचांग पाळते — महाशिवरात्र, प्रदोष, मार्गळी पूजा आणि वार्षिक ब्रह्मोत्सव. संबंदरांच्या चमत्काराशी असलेल्या संबंधामुळे संतांच्या सन्मानाच्या दिवसांना विशेष उबदारपणा येतो, आणि जोडपी व कुटुंबे विवाहासाठी, संततीसाठी आणि सर्पदंश व विषाच्या भीतीपासून मुक्तीसाठी प्रार्थना घेऊन येतात.",
+    "experience": "तिरुमरुगल हे शांत ग्रामीण मंदिर आहे, ज्याची शक्ती त्याच्या कथेच्या हळुवारपणात आहे. पुनर्जीवित वर आणि साक्षी प्रभूंची कथा जाणून यात्रेकरू येतात, आणि मणिक्कवण्णराचे दर्शन प्रेम आणि दुःख दोन्हींना प्रतिसाद देणाऱ्या कृपेची जाणीव देते. अनेकांसाठी हे जीवनाच्या उंबरठ्यांवरील — विवाह, उपचार आणि नव्या सुरुवातींच्या — आशेचे स्थान आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirumarugal is in the Nannilam area (Tiruvarur/Nagapattinam district), about 6-7 km from Tiruppugalur and roughly 20 km from Tiruvarur; the nearest rail heads are Nannilam and Tiruvarur, with local buses and taxis to the village."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि पुन्हा दुपारी उशिरापासून सायंकाळपर्यंत उघडे; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "सभ्य, पारंपरिक पोशाख अपेक्षित आहे; खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ ठेवली जातात.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत छायाचित्रण सहसा चालते, पण गर्भगृहात नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिरातील कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुमरुगल नन्निलम परिसरात (तिरुवारूर/नागपट्टिणम जिल्हा), तिरुप्पुगलूरपासून सुमारे ६-७ किमी आणि तिरुवारूरपासून साधारण २० किमी अंतरावर आहे; जवळची रेल्वे स्थानके नन्निलम आणि तिरुवारूर आहेत, तेथून गावापर्यंत स्थानिक बस आणि टॅक्सी मिळतात."
   }
 }

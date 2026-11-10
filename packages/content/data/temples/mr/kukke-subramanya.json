@@ -1,30 +1,37 @@
 {
   "id": "kukke-subramanya",
   "locale": "mr",
+  "name": "कुक्के श्री सुब्रह्मण्य मंदिर",
   "nativeName": "ಕುಕ್ಕೆ ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಸ್ಥಾನ",
+  "deity": "सर्पांचे स्वामी म्हणून सुब्रह्मण्य (कार्तिकेय), नागराज वासुकीसह पूजले जाणारे",
+  "tradition": "कौमारम् — शैव परंपरेतील सुब्रह्मण्य (कार्तिकेय) उपासना; एक अग्रगण्य सर्प-तीर्थ",
   "location": {
-    "city": "Kukke Subramanya",
-    "state": "Karnataka",
+    "city": "कुक्के सुब्रह्मण्य",
+    "state": "कर्नाटक",
     "lat": 12.6607,
     "lng": 75.6136
   },
+  "period": "कुमारधारा नदीकाठावरील पश्चिम घाटातील प्राचीन सर्प-तीर्थ, सर्प दोषाच्या निवारणासाठी अग्रगण्य",
   "century": 8,
+  "dynasty": "स्थानिक तुळुनाडू आश्रयाचे",
+  "style": "द्रविड, तुळुनाडूच्या वैशिष्ट्यांसह",
   "unesco": false,
   "circuits": [
     "temples-of-coastal-karnataka"
   ],
+  "summary": "पश्चिम घाटातील वनाच्छादित दरीत सुब्रह्मण्याची उपासना सर्पांचा स्वामी म्हणून केली जाते; नागराज वासुकी त्याच्या आश्रयाखाली राहतो. सर्पतीर्थांमध्ये अग्रगण्य मानल्या जाणाऱ्या या स्थानी सर्प दोषातून मुक्तीसाठी संपूर्ण भारतातून यात्रेकरू येतात.",
   "sections": {
-    "history": "Kukke Subramanya stands in a green valley of the Western Ghats, on the banks of the Kumaradhara in Dakshina Kannada. It is among the most revered temples of coastal Karnataka and the foremost shrine in the land for the worship of the serpent, where Subramanya — Kartikeya, the warrior son of Shiva — is honoured together with Vasuki, the king of snakes. For centuries pilgrims have come here above all to perform the rites that relieve the sarpa dosha, the affliction traditionally traced to a wrong done to serpents.",
-    "architecture": "The temple sits in the Dravidian manner of the Tulunadu country, gathered around the sanctum of Subramanya. Before the shrine stands the Garuda Stambha, a pillar sheathed in silver, which tradition holds shields devotees from the venom flung by the breath of Vasuki, who dwells within. Devotees approach the sanctum by passing behind this pillar, and the temple's setting in the forested ghats is part of its power.",
-    "legends": "Tradition tells that after Kartikeya slew the demon Tarakasura, he came to the Kumaradhara and there received the worship of Vasuki, the serpent king, who had taken refuge with him fearing the eagle Garuda. Subramanya granted the serpents his protection, and so the lord and the snake-king are worshipped together — the reason the temple is sought above all others for remedy of the serpent-curse.",
-    "festivals": "The great festival is the Champa Shashti (Subramanya Shashti) in the month of Margashira, when the deity is drawn in procession and the valley fills with pilgrims. Through the year the temple performs the serpent rites — Sarpa Samskara, Ashlesha Bali, and Naga Prathishtha — on scheduled days, for which devotees book far in advance.",
-    "experience": "Kukke draws pilgrims from across India carrying a single hope — release from the sarpa dosha — and the temple's rites and its setting among the river and the forested ghats give the visit a quiet gravity. It is a place approached with a petition, and left with a sense of burden lifted."
+    "history": "कुक्के सुब्रह्मण्य पश्चिम घाटाच्या हिरव्या दरीत, दक्षिण कन्नडमध्ये कुमारधारा नदीच्या काठावर वसले आहे. हे किनारी कर्नाटकातील सर्वाधिक पूज्य मंदिरांपैकी एक असून सर्पपूजेसाठी देशातील अग्रगण्य तीर्थ आहे; येथे शिवाचा योद्धा पुत्र कार्तिकेय — सुब्रह्मण्य — सर्पराज वासुकीसह पूजला जातो. शतकानुशतके यात्रेकरू मुख्यतः सर्प दोषाचे निवारण करणारे विधी करण्यासाठी येथे येतात; हा दोष परंपरेने सर्पांवर झालेल्या अन्यायामुळे उद्भवलेला मानला जातो.",
+    "architecture": "मंदिर तुळुनाडू प्रदेशाच्या द्रविड शैलीत असून सुब्रह्मण्याच्या गर्भगृहाभोवती वसलेले आहे. मंदिरासमोर गरुड स्तंभ उभा आहे, चांदीने मढवलेला स्तंभ, जो आतमध्ये निवास करणाऱ्या वासुकीच्या श्वासातून फेकल्या जाणाऱ्या विषापासून भक्तांचे रक्षण करतो असे परंपरा मानते. भक्त या स्तंभाच्या मागून जात गर्भगृहाकडे जातात, आणि वनाच्छादित घाटातील मंदिराचे स्थान हा त्याच्या सामर्थ्याचा भाग आहे.",
+    "legends": "परंपरा सांगते की कार्तिकेयाने तारकासुराचा वध केल्यावर तो कुमारधारेवर आला आणि तेथे गरुडाच्या भीतीने त्याच्या आश्रयाला आलेल्या सर्पराज वासुकीची पूजा त्याला प्राप्त झाली. सुब्रह्मण्याने सर्पांना आपले संरक्षण दिले, आणि म्हणून स्वामी आणि नागराज यांची एकत्र पूजा केली जाते — म्हणूनच सर्पशापाच्या निवारणासाठी इतर सर्व मंदिरांपेक्षा हे मंदिर शोधले जाते.",
+    "festivals": "मार्गशीर्ष महिन्यातील चंपा षष्ठी (सुब्रह्मण्य षष्ठी) हा मोठा उत्सव असून तेव्हा देवतेची मिरवणूक निघते आणि दरी यात्रेकरूंनी भरून जाते. वर्षभर मंदिरात ठरलेल्या दिवशी सर्पविधी — सर्प संस्कार, आश्लेषा बली आणि नाग प्रतिष्ठा — केले जातात, ज्यासाठी भक्त खूप आधी नोंदणी करतात.",
+    "experience": "कुक्के संपूर्ण भारतातून एकाच आशेने येणाऱ्या यात्रेकरूंना आकर्षित करते — सर्प दोषापासून मुक्ती — आणि मंदिराचे विधी व नदी आणि वनाच्छादित घाटातील त्याचे स्थान या भेटीला शांत गंभीरता देतात. हे असे स्थान आहे जेथे मनात प्रार्थना घेऊन येतात आणि ओझे उतरल्याच्या भावनेने परततात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday break; special serpent-remedy rituals (Sarpa Samskara, Ashlesha Bali) are performed on scheduled days that must be booked. Confirm current timings and ritual dates before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kukke Subramanya lies in Dakshina Kannada district of Karnataka, in the Western Ghats on the Kumaradhara river; it is reached by road from Mangaluru and Bengaluru, with the nearest railheads at Subrahmanya Road and Mangaluru."
+    "timings": "दररोज उघडे असून सकाळी व संध्याकाळी दर्शन आणि दुपारी विश्रांती असते; विशेष सर्प-निवारण विधी (सर्प संस्कार, आश्लेषा बली) ठरलेल्या दिवशी केले जातात, ज्यासाठी आधी नोंदणी करावी लागते. भेट देण्यापूर्वी सध्याच्या वेळा आणि विधींच्या तारखा खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "कुक्के सुब्रह्मण्य कर्नाटकातील दक्षिण कन्नड जिल्ह्यात, कुमारधारा नदीकाठी पश्चिम घाटात आहे; मंगळुरू व बेंगळुरूहून रस्त्याने येथे पोहोचता येते, आणि जवळची रेल्वे स्थानके सुब्रह्मण्य रोड व मंगळुरू ही आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kukke-subramanya.jpg",

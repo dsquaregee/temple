@@ -1,30 +1,37 @@
 {
   "id": "sivalokanathar-tirupunkur",
   "locale": "mr",
+  "name": "शिवलोकनाथर मंदिर, तिरुपुन्कूर",
   "nativeName": "சிவலோகநாதர் கோயில்",
+  "deity": "शिवलोकनाथर रूपातील शिव, देवी सोक्कनायकी (सौंदरनायकी) सह",
+  "tradition": "शैव परंपरा",
   "location": {
-    "city": "Tirupunkur",
-    "state": "Tamil Nadu",
+    "city": "तिरुपुन्कूर",
+    "state": "तमिळनाडू",
     "lat": 11.1883,
     "lng": 79.6761
   },
+  "period": "कावेरी डेल्टा प्रदेशातील प्राचीन शैव मंदिर, तेवारममध्ये संबंधर, अप्पर आणि सुंदरर यांनी गायलेले (७ वे शतक); सध्याची वास्तू नंतरची, चोळकालीन नूतनीकरण नोंदलेले",
   "century": 7,
+  "dynasty": "चोळ प्रदेशातील मध्ययुगीन आश्रयदाते (चोळकालीन नूतनीकरण नोंदलेले, निश्चित स्रोत नाही)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "शिवलोकनाथर हे ते मंदिर आहे जेथे, परंपरेनुसार, विनम्र भक्त नंदनार याला प्रभूचे दर्शन व्हावे म्हणून महान दगडी नंदी बाजूला सरकला; तेवारमच्या तिन्ही संतांनी गायलेले हे मंदिर वैद्येश्वरन कोविलजवळ शेतांमध्ये उभे आहे.",
   "sections": {
-    "history": "Tirupunkur lies among green paddy fields in Mayiladuthurai district, a few kilometres west of Vaitheeswaran Koil. All three great saints of the Tevaram, Sambandar, Appar and Sundarar, sang hymns here, which gives it a place of particular honour among the Paadal Petra Sthalams on the northern bank of the Kaveri. Its Lord is Sivalokanathar, the Lord of the world of Shiva, believed to have risen of himself from an anthill. A local tradition recalls that Sundarar, visiting in a season of drought, helped a king pray for rain; the rain came so abundantly that the saint was asked to hold it back, and a grant of twenty-four veli of land was then made to the temple. Renovation in the Chola age is reported, though the dates are not firmly known.",
-    "architecture": "A five-tiered rajagopuram marks the entrance, and the temple opens into a series of quiet enclosures. The Lord is a swayambhu linga, and the goddess Sokkanayaki is honoured in her own shrine on the left side of the temple, with a circumambulatory path of her own. Both the great outer Nandi and the small Nandi in the inner prakaram sit out of line with the sanctum, and the sacred bull is said to be shown with its tongue held within its mouth, unlike the Nandi of most Shiva temples. Within the precincts are shrines to Vinayaka, Subramanya and Surya and a rare panchamukha linga, and the temple tank, the Rishabha Theertham, lies close by.",
-    "legends": "The great story of Tirupunkur is that of Nandanar, one of the sixty-three Nayanmar saints. Born to humble labouring people and barred by the custom of his age from entering a temple, he loved Shiva with a burning devotion and longed to worship at Tirupunkur. Standing at the outer gate, he could see only the broad back of the stone Nandi that sat directly before the sanctum, hiding the Lord from his sight. In his sorrow he sang to Shiva, and the Lord bade Nandi to move aside. The bull shifted, the linga stood revealed, and Nandanar beheld the Lord face to face. The Nandi remains off-axis to this day. The temple tank is linked to him too, for he is said to have tended the sacred ground and dug the pool; another tradition says that Vinayaka dug it overnight, and Vinayaka is honoured here as Kinaru Vettiya Vinayakar, the Vinayaka who dug the well.",
-    "festivals": "A ten-day Brahmotsavam at Vaikasi Visakam in May or June is reported as the temple's major festival. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple, and Nandanar is remembered among the Nayanmar saints in the processions of the Tamil calendar. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Visit Tirupunkur for the Nandi. Stand at the threshold, where Nandanar stood, and notice how the great bull has turned aside to leave the sanctum open to every eye. The setting is simple and rural, with fields all around and a few visitors at any hour. Devotees pause at the tank, at the shrine of the goddess Sokkanayaki, and before the Vinayaka who dug the well. Many come with the thought that devotion, not birth, opens the door to the Lord, which is the lesson this small village keeps for pilgrims from every community."
+    "history": "तिरुपुन्कूर मयिलाडुतुरै जिल्ह्यात हिरव्या भातशेतांमध्ये, वैद्येश्वरन कोविलच्या काही किलोमीटर पश्चिमेस आहे. तेवारमचे तिन्ही महान संत — संबंधर, अप्पर आणि सुंदरर — यांनी येथे स्तोत्रे गायली, ज्यामुळे कावेरीच्या उत्तर तीरावरील पाडल पेट्र स्थळमांमध्ये याला विशेष मान आहे. याचा प्रभू शिवलोकनाथर — शिवलोकाचा स्वामी — आहे, जो वारुळातून स्वतः प्रकट झाला असे मानले जाते. एक स्थानिक परंपरा आठवते की दुष्काळाच्या काळात भेट देणाऱ्या सुंदररांनी एका राजाला पावसासाठी प्रार्थना करण्यास मदत केली; पाऊस इतका विपुल आला की संतांना तो थांबवण्यास सांगितले गेले, आणि मग मंदिराला चोवीस वेली जमिनीची देणगी दिली गेली. चोळ काळातील नूतनीकरण नोंदलेले आहे, तरी तारखा निश्चित ज्ञात नाहीत.",
+    "architecture": "पंचमजली राजगोपुर प्रवेशद्वार दर्शवते, आणि मंदिर शांत प्रांगणांच्या मालिकेत उघडते. प्रभू स्वयंभू लिंग आहे, आणि देवी सोक्कनायकीचा मंदिराच्या डाव्या बाजूला तिच्या स्वतंत्र मंदिरात, स्वतःच्या प्रदक्षिणा मार्गासह, सन्मान होतो. मोठा बाह्य नंदी आणि आतील प्राकारातील लहान नंदी दोन्ही गर्भगृहाच्या रेषेबाहेर बसलेले आहेत, आणि बहुतेक शिवमंदिरांतील नंदीच्या उलट, या पवित्र वृषभाची जीभ तोंडाच्या आत धरलेली दाखवली आहे असे सांगितले जाते. परिसरात विनायक, सुब्रह्मण्य आणि सूर्य यांची मंदिरे आणि एक दुर्मिळ पंचमुख लिंग आहे, आणि मंदिराचे तळे, ऋषभ तीर्थम, जवळच आहे.",
+    "legends": "तिरुपुन्कूरची प्रमुख कथा नंदनार यांची आहे, जे त्रेसष्ट नायनार संतांपैकी एक आहेत. कष्टकरी विनम्र कुटुंबात जन्मलेल्या आणि त्यांच्या काळातील रीतीमुळे मंदिरात प्रवेशास मनाई असलेल्या त्यांचे शिवावर जळते प्रेम होते आणि तिरुपुन्कूर येथे पूजा करण्याची त्यांना ओढ होती. बाह्य द्वारावर उभे राहून त्यांना गर्भगृहासमोर बसलेल्या दगडी नंदीची फक्त रुंद पाठ दिसत होती, जी प्रभूला त्यांच्या दृष्टीपासून लपवत होती. दुःखात त्यांनी शिवाचे स्तोत्र गायले, आणि प्रभूने नंदीला बाजूला सरकण्यास सांगितले. वृषभ सरकला, लिंग प्रकट झाले, आणि नंदनार यांनी प्रभूला प्रत्यक्ष पाहिले. नंदी आजही रेषेबाहेरच आहे. मंदिराचे तळेही त्यांच्याशी जोडलेले आहे, कारण त्यांनी पवित्र भूमीची निगा राखली आणि तळे खोदले असे सांगितले जाते; दुसरी परंपरा म्हणते की विनायकाने ते एका रात्रीत खोदले, आणि येथे विनायकाचा किणरु वेट्टिय विनायकर — विहीर खोदणारा विनायक — म्हणून सन्मान केला जातो.",
+    "festivals": "मे किंवा जूनमधील वैकासी विशाखमला दहा दिवसांचा ब्रह्मोत्सव हा मंदिराचा प्रमुख उत्सव असल्याचे नोंदले आहे. प्रत्येक शिवमंदिराप्रमाणे महाशिवरात्र आणि मासिक प्रदोष पाळले जातात, आणि तमिळ दिनदर्शिकेतील मिरवणुकांमध्ये नंदनार यांचे नायनार संतांमध्ये स्मरण केले जाते. तारखा तमिळ दिनदर्शिकेनुसार असल्याने त्या स्थानिक पातळीवर पडताळून घ्या.",
+    "experience": "नंदीसाठी तिरुपुन्कूरला भेट द्या. उंबरठ्यावर, जेथे नंदनार उभे होते तेथे उभे राहा, आणि गर्भगृह प्रत्येक डोळ्याला खुले राहावे म्हणून महान वृषभ कसा बाजूला वळला आहे ते पाहा. परिसर साधा आणि ग्रामीण आहे; सभोवती शेते आहेत आणि कोणत्याही वेळी थोडेच पाहुणे असतात. भक्त तळ्याजवळ, देवी सोक्कनायकीच्या मंदिरात, आणि विहीर खोदणाऱ्या विनायकासमोर थांबतात. अनेक जण या विचाराने येतात की प्रभूचे द्वार जन्मामुळे नव्हे, भक्तीमुळे उघडते — हा धडा हे लहान गाव प्रत्येक समाजातून येणाऱ्या यात्रेकरूंसाठी जपते."
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again in the early evening, with a long midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the temple.",
-    "photography": "Photography is generally tolerated in the outer prakaram but not inside the sanctum, in keeping with Tamil Nadu temple custom. Ask the priest or temple staff before photographing rituals.",
-    "gettingThere": "Tirupunkur lies about 5 km west of Vaitheeswaran Koil, which has a railway station and is the usual base for visiting; Sirkazhi and Mayiladuthurai are nearby railway towns. Tiruchirappalli and Chennai are the main airports. Local buses serve Vaitheeswaran Koil, and an auto-rickshaw or taxi from there is the easiest way to reach the village."
+    "timings": "सामान्यतः सकाळी काही तास आणि संध्याकाळच्या सुरुवातीला खुले असते, दुपारी दीर्घ विश्रांतीसह; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर पडताळून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा/पँट, महिलांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे मंदिराबाहेर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिर रीतीनुसार बाहेरील प्राकारात छायाचित्रण साधारणपणे सहन केले जाते, पण गर्भगृहात नाही. विधींचे छायाचित्र घेण्यापूर्वी पुजारी किंवा मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुपुन्कूर वैद्येश्वरन कोविलच्या सुमारे ५ किमी पश्चिमेस आहे; तेथे रेल्वे स्थानक आहे आणि भेटीसाठी ते नेहमीचे केंद्र आहे; सीरकाळी आणि मयिलाडुतुरै ही जवळची रेल्वे नगरे आहेत. तिरुचिरापल्ली आणि चेन्नई ही प्रमुख विमानतळे आहेत. वैद्येश्वरन कोविलसाठी स्थानिक बस उपलब्ध आहेत, आणि तेथून ऑटोरिक्षा किंवा टॅक्सी हा गावात पोहोचण्याचा सर्वात सोपा मार्ग आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sivalokanathar-tirupunkur.jpg",

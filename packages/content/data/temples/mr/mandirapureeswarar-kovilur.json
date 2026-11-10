@@ -1,29 +1,36 @@
 {
   "id": "mandirapureeswarar-kovilur",
   "locale": "mr",
+  "name": "मंदिरपुरीश्वरर मंदिर, तिरुवुसात्तानम (कोविलूर)",
   "nativeName": "திருவுசாத்தானம் மந்திரபுரீஸ்வரர் கோயில்",
+  "deity": "मंदिरपुरीश्वरर (सल्ला देणारा प्रभू) रूपातील शिव, देवी पेरियनायकी (बृहन्नायकी) यांच्यासह",
+  "tradition": "शैव — पाडल पेट्र स्थळ",
   "location": {
-    "city": "Kovilur, near Muthupettai",
-    "state": "Tamil Nadu",
+    "city": "कोविलूर, मुत्तुपेट्टैजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.43,
     "lng": 79.5
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळ काळातील दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "दक्षिण त्रिभुज-प्रदेशात मुत्तुपेट्टैजवळील कोविलूर, तेवारममधील तिरुवुसात्तानम, येथे शिवाचा मंदिरपुरीश्वरर म्हणून गौरव होतो — सल्ल्याचा प्रभू — देवी पेरियनायकीसह. तिरुज्ञानसंबंदर यांनी गायिलेल्या या पाडल पेट्र स्थळाचे नाव, लंकेकडे सेतू बांधण्यापूर्वी रामाने येथे शिवाचा सल्ला घेतला या परंपरेची आठवण करून देते.",
   "sections": {
-    "history": "Kovilur, whose Tevaram name is Tiruvusathanam (Tiru Usaatthanam), lies in the southern delta, about 3 km north of Muthupettai on the Muthupettai–Mannargudi road, some 22 km from Pattukottai (sources place it in Tiruvarur or Thanjavur district). It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of the lower delta, the shrine enshrines Mandirapureeswarar in the sanctum, with the goddess Periyanayaki — also Brihannayaki, 'the great mother' — in her own shrine, a Nandi and the parivara devatas. The temple keeps the simple, well-ordered plan of the smaller delta sanctuaries.",
-    "legends": "The names of place and lord both turn on counsel. Tiru Usaatthanam means 'the holy place of consultation,' and Mandirapureeswarar is 'the lord of mandira, of counsel.' By tradition Rama came here before his campaign against Ravana and sought Shiva's counsel on building the great bridge, the Setu, to Lanka; the lord gave his blessing and advice, and so the place keeps the memory of that divine consultation. To worship here is held to bring wise counsel and right decision to the devotee.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail of the southern delta include Kovilur among their stops.",
-    "experience": "At Kovilur the pilgrim comes to a shrine of divine counsel, where Rama is said to have sought Shiva's advice before the bridge to Lanka. Before Mandirapureeswarar, lord of counsel, and the great mother Periyanayaki, the visitor brings the questions of the heart to a quiet Tevaram temple of the southern Kaveri country."
+    "history": "कोविलूर, ज्याचे तेवारममधील नाव तिरुवुसात्तानम (तिरु उसात्तानम) आहे, दक्षिण त्रिभुज-प्रदेशात, मुत्तुपेट्टै–मन्नारगुडी मार्गावर मुत्तुपेट्टैच्या सुमारे ३ कि.मी. उत्तरेस, पट्टुकोट्टैपासून सुमारे २२ कि.मी. अंतरावर आहे (स्रोतांनुसार ते तिरुवारूर किंवा तंजावूर जिल्ह्यात आहे). हे एक पाडल पेट्र स्थळ आहे, ज्याचे तेवारममध्ये तिरुज्ञानसंबंदर यांनी गायन केले आहे. दगडी मंदिर चोळ काळातील व त्यानंतरचे आहे.",
+    "architecture": "हे खालच्या त्रिभुज-प्रदेशातील द्रविड मंदिर आहे; गर्भगृहात मंदिरपुरीश्वरर विराजमान आहेत, तर देवी पेरियनायकी — जिला बृहन्नायकी, 'महान माता', असेही म्हणतात — तिच्या स्वतंत्र मंदिरात आहे; तसेच नंदी आणि परिवार देवता आहेत. मंदिर लहान त्रिभुज-प्रदेशातील देवस्थानांचा साधा, सुव्यवस्थित आराखडा जपते.",
+    "legends": "स्थळाचे आणि प्रभूचे — दोन्ही नावे सल्ल्यावर आधारित आहेत. तिरु उसात्तानम म्हणजे 'विचारविनिमयाचे पवित्र स्थान', आणि मंदिरपुरीश्वरर म्हणजे 'मंदिराचा, सल्ल्याचा प्रभू'. परंपरेनुसार रावणाविरुद्धच्या मोहिमेपूर्वी राम येथे आले आणि लंकेपर्यंतचा महान सेतू बांधण्याबाबत त्यांनी शिवाचा सल्ला घेतला; प्रभूने आशीर्वाद व सल्ला दिला, आणि म्हणून या स्थळाने त्या दिव्य विचारविनिमयाची स्मृती जपली आहे. येथे पूजा केल्याने भक्ताला शहाणा सल्ला आणि योग्य निर्णय प्राप्त होतो असे मानले जाते.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्र, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यात नवरात्र आणि कार्तिकैतील सोमवार साजरे होतात, तसेच प्रदोष पूजा होते, गावातील मंदिराच्या शांत प्रमाणात. दक्षिण त्रिभुज-प्रदेशातील पाडल पेट्र मार्गावरील यात्रेकरू कोविलूरचा आपल्या थांब्यांमध्ये समावेश करतात.",
+    "experience": "कोविलूरमध्ये यात्रेकरू दिव्य सल्ल्याच्या मंदिरात येतो, जेथे लंकेच्या सेतूपूर्वी रामाने शिवाचा सल्ला घेतल्याचे सांगितले जाते. सल्ल्याचा प्रभू मंदिरपुरीश्वरर आणि महान माता पेरियनायकी यांच्यासमोर, अभ्यागत हृदयातील प्रश्न घेऊन दक्षिण कावेरी प्रदेशातील शांत तेवारम मंदिरात येतो."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Kovilur is about 3 km north of Muthupettai on the Muthupettai–Mannargudi road, roughly 22 km from Pattukottai, in the southern Kaveri delta. Muthupettai and Pattukottai are the nearest towns, with buses and taxis to the village; Thanjavur and Thiruthuraipoondi are the nearest rail heads."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे; खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा-मार्गांत छायाचित्रणास सामान्यतः परवानगी असते, पण गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "कोविलूर मुत्तुपेट्टै–मन्नारगुडी मार्गावर मुत्तुपेट्टैच्या सुमारे ३ कि.मी. उत्तरेस, दक्षिण कावेरी त्रिभुज-प्रदेशात, पट्टुकोट्टैपासून सुमारे २२ कि.मी. अंतरावर आहे. मुत्तुपेट्टै आणि पट्टुकोट्टै ही जवळची शहरे आहेत; गावापर्यंत बस आणि टॅक्सी उपलब्ध आहेत; तंजावूर आणि तिरुतुरैपूंडी ही जवळची रेल्वे स्थानके आहेत."
   }
 }

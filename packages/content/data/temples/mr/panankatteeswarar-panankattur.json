@@ -1,29 +1,36 @@
 {
   "id": "panankatteeswarar-panankattur",
   "locale": "mr",
+  "name": "पनंकट्टीश्वर मंदिर, पनैयपुरम",
   "nativeName": "பனங்காட்டீஸ்வரர் கோயில்",
+  "deity": "पनंकट्टीश्वर (पनंकट्टीसर) रूपातील शिव, देवी सत्यांबिका (पुरवम्माई) यांच्यासह",
+  "tradition": "शैव धर्म",
   "location": {
-    "city": "Panaiyapuram",
-    "state": "Tamil Nadu",
+    "city": "पनैयपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.01,
     "lng": 79.54
   },
+  "period": "नडु नाडू प्रदेशातील प्राचीन शैव मंदिर, तेवारममध्ये गायिलेले (सातवे शतक); पल्लवकालीन उगम, चोळांच्या काळात दगडात पुनर्बांधणी",
   "century": 7,
+  "dynasty": "पल्लव उगम, चोळांनी दगडात पुनर्बांधणी केली",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "पनंकट्टीश्वर हे पनैयपुरम येथील शिवमंदिर आहे — तेवारममधील पुरवार पनंकट्टूर; तिरुज्ञान संबंधर यांनी स्तुती केलेले नडु नाडू प्रदेशातील पाडल पेट्र स्थळम्, आणि येथील उपासनेने सूर्याने आपले तेज परत मिळवले या कथेसाठी स्मरणात असलेले.",
   "sections": {
-    "history": "Panaiyapuram, the palm-town of the Nadu Nadu country west of Villupuram, is an old Shiva shrine known to the Tevaram as Puravar Panankattur, the palm-forest of Puravar. The hymns of Tirugnana Sambandar, gathered in the Second Thirumurai, praise the Lord here, which makes the temple a Paadal Petra Sthalam, counted among the shrines of the Nadu Nadu group. Tradition holds that the Lord first appeared amid a grove of palms, and the palm remains the temple's sacred tree. The shrine is understood to have risen in the Pallava age, before the time of the hymns, and to have been rebuilt in stone in the Chola period, after which it has been kept in worship across the centuries.",
-    "architecture": "The temple is a modest east-facing shrine of the Nadu Nadu countryside, its sanctum holding the linga of Panankatteeswarar within walls of granite, with the goddess Sathyambikai, also called Puravammai, honoured in her own shrine. The temple is best known for a feat of orientation rather than of height: for the first several days of the Tamil month of Chithirai, when the new year turns, the rising sun sends its light through the eastern doorway to fall first upon the Lord in the sanctum and then upon the goddess, a solar alignment built into the very placing of the shrine. Beyond this the temple keeps the plain dignity of a village foundation rather than the ornament of the great temples of the plains.",
-    "legends": "The temple's great story is the Sun's. Surya, having gone to the sacrifice of Daksha that Shiva's rite did not favour, is said to have lost his brightness as a consequence and to have come to this place to worship the Lord and win back his radiance. From his penance the shrine keeps its bond with the Sun, and the yearly alignment of light upon the sanctum at the turn of the year is read as the Lord's grace to Surya made visible. The name Panankattur, the palm forest, is tied to the grove in which the Lord is said to have first revealed himself, and the palm is honoured as the sacred tree to this day.",
-    "festivals": "The temple's signature observance is the alignment of the sun upon the sanctum in the first days of Chithirai, in April, when the rising light falls upon the Lord and then the goddess and is kept with special worship. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple. As the calendar is the Tamil one and the fuller festival round of this village shrine is not widely recorded, confirm the days and the details locally before travelling.",
-    "experience": "Panaiyapuram is a quiet country temple, visited more by the devout of the surrounding villages than by crowds, and it rewards an unhurried call. Come to the sanctum of Panankatteeswarar and then to the goddess Sathyambikai in her shrine, and if the visit falls in the first days of Chithirai, the alignment of the sunrise upon the Lord is the sight to seek. The palm, the temple's sacred tree, recalls the grove of the name and the Sun's penance, and the plainness of the shrine is in keeping with its age and its setting among the fields."
+    "history": "विल्लुपुरमच्या पश्चिमेकडील नडु नाडू प्रदेशातील ताडवृक्षांचे गाव पनैयपुरम हे जुने शिवमंदिर असून तेवारममध्ये ते पुरवार पनंकट्टूर, म्हणजे पुरवारचे ताडवन, या नावाने ओळखले जाते. दुसऱ्या तिरुमुरैमध्ये संकलित केलेल्या तिरुज्ञान संबंधरांच्या स्तोत्रांत येथील प्रभूची स्तुती केली आहे, म्हणून हे मंदिर पाडल पेट्र स्थळम् असून नडु नाडू समूहातील मंदिरांमध्ये गणले जाते. परंपरेनुसार प्रभू प्रथम ताडवृक्षांच्या राईत प्रकट झाले, आणि ताडवृक्ष आजही मंदिराचा पवित्र वृक्ष आहे. हे मंदिर स्तोत्रांच्या काळापूर्वी, पल्लव युगात उभे राहिले असावे आणि चोळ काळात दगडात पुन्हा बांधले गेले असावे असे मानले जाते; त्यानंतर शतकानुशतके तेथे उपासना अखंड चालू राहिली.",
+    "architecture": "हे नडु नाडू ग्रामीण प्रदेशातील पूर्वाभिमुख साधे मंदिर आहे; त्याच्या गर्भगृहात ग्रॅनाइटच्या भिंतींमध्ये पनंकट्टीश्वराचे लिंग आहे, आणि देवी सत्यांबिका, जिला पुरवम्माईही म्हणतात, तिची स्वतंत्र देवळीत पूजा होते. हे मंदिर उंचीमुळे नव्हे तर दिशारचनेच्या कौशल्यामुळे प्रसिद्ध आहे: नववर्ष उजाडताना, तमिळ चित्तिरै महिन्याच्या पहिल्या काही दिवसांत, उगवत्या सूर्याचा प्रकाश पूर्वेकडील द्वारातून येऊन प्रथम गर्भगृहातील प्रभूवर आणि नंतर देवीवर पडतो; ही सौर रेखा मंदिराच्या स्थानरचनेतच अंतर्भूत आहे. याखेरीज, मैदानी प्रदेशातील मोठ्या मंदिरांच्या अलंकरणापेक्षा हे मंदिर ग्रामीण स्थापनेची साधी प्रतिष्ठा जपते.",
+    "legends": "मंदिराची मुख्य कथा सूर्याची आहे. शिवाच्या विधीला मान्यता नसलेल्या दक्षाच्या यज्ञाला गेल्यामुळे सूर्याचे तेज नष्ट झाले, आणि ते परत मिळवण्यासाठी तो प्रभूची उपासना करण्यास या स्थानी आला, असे सांगितले जाते. त्याच्या तपश्चर्येमुळे या मंदिराचे सूर्याशी नाते कायम राहिले, आणि वर्षाच्या प्रारंभी गर्भगृहावर पडणारा प्रकाश म्हणजे सूर्यावरील प्रभूच्या कृपेचे दृश्य रूप मानले जाते. पनंकट्टूर, म्हणजे ताडवन, हे नाव ज्या राईत प्रभू प्रथम प्रकट झाले असे सांगतात तिच्याशी जोडलेले आहे, आणि ताडवृक्षाचा आजही पवित्र वृक्ष म्हणून सन्मान केला जातो.",
+    "festivals": "मंदिराचा वैशिष्ट्यपूर्ण विधी म्हणजे एप्रिलमधील चित्तिरैच्या पहिल्या दिवसांत गर्भगृहावर पडणारी सूर्यकिरणांची रेखा; उगवत्या प्रकाशाचा स्पर्श प्रथम प्रभूला आणि नंतर देवीला होतो आणि त्या वेळी विशेष पूजा केली जाते. महाशिवरात्री आणि मासिक प्रदोष हे प्रत्येक शिवमंदिराप्रमाणे येथेही पाळले जातात. दिनदर्शिका तमिळ असल्याने आणि या ग्रामीण मंदिराचा अधिक विस्तृत उत्सवक्रम फारसा नोंदलेला नसल्याने, प्रवासापूर्वी दिवस आणि तपशील स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "पनैयपुरम हे शांत ग्रामीण मंदिर असून गर्दीपेक्षा आजूबाजूच्या गावांतील भाविकच येथे अधिक येतात, आणि निवांत भेट येथे फलदायी ठरते. पनंकट्टीश्वराच्या गर्भगृहाला आणि नंतर देवी सत्यांबिकेच्या देवळीला भेट द्या; आणि चित्तिरैच्या पहिल्या दिवसांत भेट असल्यास प्रभूवर पडणारी सूर्योदयाची रेखा हे पाहण्यासारखे दृश्य आहे. मंदिराचा पवित्र ताडवृक्ष नावाशी निगडित राईची आणि सूर्याच्या तपश्चर्येची आठवण करून देतो, आणि मंदिराचा साधेपणा त्याच्या प्राचीनतेशी आणि शेतांमधील परिसराशी सुसंगत आहे."
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again in the evening, with a long midday closure; as a village temple the hours can vary, so confirm locally before visiting, especially around the Chithirai sun-alignment days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Panaiyapuram lies in Villupuram district, about 13 km from Villupuram and near Vikravandi and Mundiyampakkam, reached by local roads off the Villupuram highways. Villupuram, the nearest major railway junction and bus hub, is the practical base; local buses and road transport serve the village."
+    "timings": "सामान्यतः सकाळी काही तास आणि संध्याकाळी पुन्हा उघडे असते, मधल्या दुपारी दीर्घ विश्रांती असते; ग्रामीण मंदिर असल्याने वेळा बदलू शकतात, म्हणून भेटीपूर्वी, विशेषतः चित्तिरैतील सूर्यरेखेच्या दिवसांत, स्थानिक पातळीवर खात्री करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट; खांदे आणि गुडघे झाकलेले असावेत. पादत्राणे प्रवेशद्वारावरील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाहेरील अंगणांत सामान्यतः छायाचित्रणास परवानगी आहे, परंतु आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "पनैयपुरम विल्लुपुरम जिल्ह्यात, विल्लुपुरमपासून सुमारे १३ किमी अंतरावर, विक्रवांडी आणि मुंडियंपक्कमजवळ असून विल्लुपुरमच्या महामार्गांवरून स्थानिक रस्त्यांनी तेथे पोहोचता येते. जवळचे मोठे रेल्वे जंक्शन आणि बस केंद्र असलेले विल्लुपुरम हे व्यावहारिक तळ आहे; गावाला स्थानिक बस आणि रस्ते वाहतूक सेवा देते."
   }
 }

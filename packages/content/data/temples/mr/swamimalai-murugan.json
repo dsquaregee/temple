@@ -1,31 +1,38 @@
 {
   "id": "swamimalai-murugan",
   "locale": "mr",
+  "name": "स्वामिमलै मुरुगन मंदिर",
   "nativeName": "சுவாமிமலை சுவாமிநாதர் கோயில்",
+  "deity": "मुरुगन, स्वामिनाथ म्हणून पूजले जाणारे",
+  "tradition": "कौमारम, शैव परंपरेतील मुरुगनाची उपासना",
   "location": {
-    "city": "Swamimalai",
-    "state": "Tamil Nadu",
+    "city": "स्वामिमलै",
+    "state": "तमिळनाडू",
     "lat": 10.954,
     "lng": 79.327
   },
+  "period": "मध्ययुगीन; नायक काळात पुनर्बांधलेले",
   "century": 9,
+  "dynasty": "चोळ, नायक आणि नंतरचे",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "arupadai-veedu",
     "kaveri-delta-temple-towns"
   ],
+  "summary": "मुरुगनाच्या सहा निवासस्थानांपैकी चौथे, कुंभकोणमजवळील स्वामिमलै, जेथे बालदेवाला स्वामिनाथ म्हणून पूजले जाते — स्वतःच्या पित्याचा गुरू बनलेला पुत्र, ज्याने प्रत्यक्ष शिवांना पवित्र प्रणव ॐ चा अर्थ उलगडून सांगितला.",
   "sections": {
-    "history": "Set in the temple-rich Kaveri delta near Kumbakonam, Swamimalai has been sung by the Tamil hymnists and cherished for over a thousand years. The shrine crowns a small hillock and was developed across the Chola and Nayak periods; much of the present structure was rebuilt after damage during the eighteenth-century wars in the Carnatic. The town around it became famous for its sthapathis, the master craftsmen whose lost-wax bronzes carry the Chola tradition into the present day, so that Swamimalai is a centre of sacred art as much as of pilgrimage.",
-    "architecture": "The temple stands atop an artificial mound reached by sixty steps, each named for one year of the Tamil sixty-year cycle. At the summit the sanctum enshrines Swaminatha, Murugan as the youthful teacher. Below lie the shrines of Shiva as Sundareswarar and the goddess Meenakshi, so that father and mother are worshipped at the foot of the hill their son crowns — a plan that quietly retells the temple’s central story. Pillared halls, a tank, and the surrounding streets of bronze-casters complete a compact but deeply atmospheric complex.",
-    "legends": "Swamimalai’s legend turns the family order upside down. When the creator Brahma could not explain the meaning of the Pranava, the single syllable Om, the child Murugan imprisoned him and took up the work of creation himself. Shiva, asked by his son to explain the syllable, was in turn instructed by the boy — who thus became Swaminatha, guru even to the lord of all. For teaching his own father, Murugan is worshipped here as the supreme teacher, and the hill is honoured as the seat where wisdom flowed from son to father.",
-    "festivals": "Vaikasi Visakam, the god’s birth star, and Thai Poosam draw great crowds, as does Skanda Sashti with its recitation and processions. The float festival and the god’s wedding festival are kept with decorated mounts circling the hill and the tank. Through the year abhishekams anoint the youthful deity, and the sixty steps fill with pilgrims climbing to the summit shrine; the bronze workshops of the town, too, quicken with orders as festivals approach across the Tamil land.",
-    "experience": "Swamimalai rewards an unhurried visit. The climb of sixty named steps is gentle, and the summit sanctum is intimate, lit by lamps and fragrant with sandal. Pausing at the shrines of Shiva and the goddess below, a pilgrim feels the reversal at the heart of the place — the son teaching the father — and many linger over it. Outside, the lanes ring faintly with the tap of chisels from the bronze workshops, and the green delta spreads beyond the mound, so that art, devotion, and the river country meet in one quiet hill."
+    "history": "कुंभकोणमजवळील मंदिरांनी समृद्ध कावेरी त्रिभुज प्रदेशात वसलेले स्वामिमलै तमिळ स्तोत्रकारांनी गायले आहे आणि हजार वर्षांहून अधिक काळ जपले गेले आहे. हे क्षेत्र एका लहानशा टेकाडाच्या माथ्यावर आहे, आणि चोळ तसेच नायक काळात विकसित झाले; सध्याच्या रचनेचा बराचसा भाग अठराव्या शतकातील कर्नाटकातील युद्धांत झालेल्या नुकसानानंतर पुनर्बांधला गेला. त्याच्या भोवतीचे गाव आपल्या स्थपतींसाठी प्रसिद्ध झाले — हे कुशल कारागीर, ज्यांची मेणगाळ पद्धतीची कांस्य शिल्पे चोळ परंपरा आजपर्यंत घेऊन येतात, त्यामुळे स्वामिमलै हे तीर्थयात्रेइतकेच पवित्र कलेचेही केंद्र आहे.",
+    "architecture": "मंदिर एका कृत्रिम टेकाडावर उभे आहे, जेथे साठ पायऱ्या चढून जावे लागते, आणि प्रत्येक पायरीला तमिळ साठ वर्षांच्या चक्रातील एका वर्षाचे नाव दिले आहे. माथ्यावर गर्भगृहात स्वामिनाथ, तरुण गुरू म्हणून मुरुगन, प्रतिष्ठित आहेत. खाली सुंदरेश्वर रूपातील शिव आणि देवी मीनाक्षी यांची मंदिरे आहेत, त्यामुळे पुत्र ज्या टेकडीच्या शिखरावर विराजमान आहे तिच्या पायथ्याशी पिता आणि माता यांची पूजा होते — ही रचना मंदिराच्या केंद्रीय कथेचे शांतपणे पुनर्कथन करते. स्तंभयुक्त मंडप, एक सरोवर आणि कांस्य-ओतारांच्या भोवतालच्या गल्ल्या हे लहान पण अत्यंत भारलेले संकुल पूर्ण करतात.",
+    "legends": "स्वामिमलैची कथा कुटुंबाचा क्रम उलटवून टाकते. सृष्टिकर्ता ब्रह्मदेव प्रणवाचा, म्हणजे एकाक्षर ॐ चा, अर्थ सांगू शकले नाहीत तेव्हा बालक मुरुगनाने त्यांना कैद केले आणि सृष्टिनिर्मितीचे कार्य स्वतः हाती घेतले. आपल्या पुत्राने अर्थ विचारलेल्या शिवांना, त्या बदल्यात, त्या बालकाने उपदेश केला — ज्यामुळे तो स्वामिनाथ बनला, सर्वांच्या स्वामींचाही गुरू. स्वतःच्या पित्याला शिकवल्यामुळे मुरुगनाची येथे सर्वोच्च गुरू म्हणून पूजा होते, आणि ही टेकडी पुत्राकडून पित्याकडे ज्ञान वाहिले त्या आसनाच्या रूपात पूज्य मानली जाते.",
+    "festivals": "वैकासी विशाखम, देवाचे जन्मनक्षत्र, आणि थाई पूसम यांना प्रचंड गर्दी लोटते, तसेच स्कंद षष्ठीला, पठण आणि मिरवणुकांसह. नौकोत्सव आणि देवाचा विवाह उत्सव सजवलेल्या वाहनांसह टेकडी आणि सरोवराभोवती फेरी मारून साजरे केले जातात. वर्षभर अभिषेकांनी तरुण देवतेचा अभिषेक होतो, आणि साठ पायऱ्या शिखरावरील मंदिराकडे चढणाऱ्या यात्रेकरूंनी भरून जातात; तमिळ प्रदेशभर उत्सव जवळ येताच गावातील कांस्य कारखानेही ऑर्डर्सने गजबजून जातात.",
+    "experience": "स्वामिमलै निवांत भेटीला भरभरून देते. साठ नाव दिलेल्या पायऱ्यांचा चढ सौम्य आहे, आणि शिखरावरील गर्भगृह जिव्हाळ्याचे, दिव्यांनी उजळलेले आणि चंदनाने सुगंधित आहे. खाली शिव आणि देवीच्या मंदिरांशी थांबताना, यात्रेकरूला या स्थळाच्या हृदयातील उलटफेर जाणवतो — पुत्र पित्याला शिकवतो — आणि अनेकजण त्यावर रेंगाळतात. बाहेर, कांस्य कारखान्यांतून येणाऱ्या छिन्नींच्या टकटकीने गल्ल्या मंदपणे निनादतात, आणि टेकाडापलीकडे हिरवा त्रिभुज प्रदेश पसरलेला आहे, त्यामुळे कला, भक्ती आणि नदीचा प्रदेश एकाच शांत टेकडीवर एकत्र येतात."
   },
   "visit": {
-    "timings": "Generally open from around 6:00 am to 12:30 pm and 4:00 pm to 8:30 pm daily; hours extend during Vaikasi Visakam, Thai Poosam, and other festivals.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered. Footwear is left at the stands outside.",
-    "photography": "Photography is restricted around the sanctum; follow posted rules and staff guidance, especially during festivals and abhishekam.",
-    "gettingThere": "Swamimalai is about 8 km from Kumbakonam in Thanjavur district, well connected by road; Kumbakonam has the nearest railway station, and Tiruchirappalli airport is roughly 90 km away."
+    "timings": "साधारणपणे दररोज सकाळी सुमारे ६:०० ते दुपारी १२:३० आणि संध्याकाळी ४:०० ते रात्री ८:३० पर्यंत उघडे; वैकासी विशाखम, थाई पूसम आणि इतर उत्सवांदरम्यान वेळा वाढवल्या जातात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी किंवा सलवार कमीज, खांदे आणि गुडघे झाकलेले. पादत्राणे बाहेरील स्टँडवर ठेवावीत.",
+    "photography": "गर्भगृहाच्या आसपास छायाचित्रणावर निर्बंध आहेत; विशेषतः उत्सव आणि अभिषेकादरम्यान लावलेले नियम आणि कर्मचाऱ्यांच्या सूचनांचे पालन करावे.",
+    "gettingThere": "स्वामिमलै तंजावूर जिल्ह्यात कुंभकोणमपासून सुमारे ८ किमी अंतरावर असून रस्त्याने उत्तम जोडलेले आहे; कुंभकोणममध्ये जवळचे रेल्वे स्थानक आहे, आणि तिरुचिरापल्ली विमानतळ सुमारे ९० किमी अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/swamimalai-murugan.jpg",

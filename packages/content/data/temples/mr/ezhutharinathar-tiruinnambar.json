@@ -1,29 +1,36 @@
 {
   "id": "ezhutharinathar-tiruinnambar",
   "locale": "mr",
+  "name": "एऴुत्तरिनाथर मंदिर, तिरुइन्नम्बर",
   "nativeName": "எழுத்தறிநாதர் கோயில்",
+  "deity": "शिव एऴुत्तरिनाथर (अक्षरपुरीश्वरर) रूपात, देवी सुगंध कुंडलांबिकेसह",
+  "tradition": "शैव",
   "location": {
-    "city": "Innambur (Tiruinnambar)",
-    "state": "Tamil Nadu",
+    "city": "इन्नम्बूर (तिरुइन्नम्बर)",
+    "state": "तमिळनाडू",
     "lat": 10.982,
     "lng": 79.339
   },
+  "period": "चोळ नाडूचे प्राचीन शैव मंदिर, तेवारममध्ये गायिले गेलेले (सातवे शतक); चोळकालीन शिलालेख व नंतरच्या भरांसह पाषाणमंदिर",
   "century": 7,
+  "dynasty": "चोळ (नंतरच्या तमिळ आश्रयदात्यांसह)",
+  "style": "द्राविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "एऴुत्तरिनाथर, म्हणजे अक्षरे जाणणारा प्रभू, हे कुंभकोणमजवळील तिरुइन्नम्बरचे शिवमंदिर आहे, जे तेवारममध्ये गायिले गेले आहे आणि ज्या देवाने राजासाठी एका नम्र लेखनिकाच्या हिशेबवह्या लिहून दिल्या त्या कथेसाठी ते स्मरणात आहे.",
   "sections": {
-    "history": "Innambur lies on the edge of Kumbakonam, in the Chola heartland north of the Kaveri, and the Tevaram hymns know it as Tiruinnambar. The saints Appar and Sambandar sang of the Lord here, which makes it a Paadal Petra Sthalam, and local tradition holds that a brick shrine stood on the site even before their time. The present stone temple carries inscriptions of the Chola period, reported to name Rajaraja I, along with later records of the Vijayanagara rulers, and it has been kept in worship ever since. The name Ezhutharinathar, the Lord who knows letters, ties the place to learning, and the village is remembered as a sanctuary of the written word.",
-    "architecture": "The temple follows the Dravidian plan: a rectangle of two prakarams enclosing about an acre, entered from the east beneath a five-tiered rajagopuram, with walls surrounding every shrine. Unusually, there is no flagstaff of the kind most Tamil temples have. Ezhutharinathar, also called Aksharapureeswarar, presides in the sanctum. The goddess Sugantha Kundalambikai has her own south-facing shrine on the right of the eastern outer courtyard, and a separate shrine honours Nithya Kalyani, also known as Soundara Nayaki. The sacred tree of the temple is the shenbagam, the golden champak.",
-    "legends": "The temple's name comes from a story of the Lord's quiet kindness. An honest accountant, whom tradition names Sudharman, was summoned by the king, who demanded the accounts of the realm by morning. Overwhelmed, and certain he could not finish, the man took refuge in Shiva. The Lord came in the accountant's own form, wrote out the entire accounts without a fault and presented them to the king, who was wholly satisfied. The grateful devotee found his burden lifted, and the god has been called Ezhutharinathar ever since. Other traditions add that the sun god regained his strength here, that Airavata, the elephant of Indra, bathed in the temple pond and worshipped, and that the sage Agastya learned the subtleties of Tamil grammar from the Lord.",
-    "festivals": "The festival calendar is led by the Aipasi Annabishekam in October or November, when the Lord is bathed in cooked rice, and by the ten-day Purattasi Navaratri in September or October. Margazhi Tiruvadhirai in December or January and a Chithirai festival in April or May are also kept, and Maha Shivaratri draws the largest crowds of the year. Dates follow the Tamil calendar, so confirm them locally.",
-    "experience": "Innambur rewards a quiet village darshan. Pass beneath the five-tiered gopuram into the stone courtyards, bow before Ezhutharinathar in the sanctum, and then visit the goddess Sugantha Kundalambikai and the shrine of Nithya Kalyani. Because the Lord here is remembered as the keeper of letters, students and parents often come to pray for learning and a clear mind, and it is a natural place to offer a prayer before a child's first lessons. The temple lies a short way outside Kumbakonam among green Kaveri fields, and its courtyards hold a calm that suits a longer pause."
+    "history": "इन्नम्बूर हे कुंभकोणमच्या सीमेवर, कावेरीच्या उत्तरेकडील चोळ भूमीच्या केंद्रस्थानी वसलेले आहे, आणि तेवारम स्तोत्रे त्याला तिरुइन्नम्बर म्हणून ओळखतात. अप्पर आणि संबंधर या संतांनी येथील प्रभूची स्तुती गायली, त्यामुळे हे एक पाडल पेट्र स्थलम ठरते, आणि स्थानिक परंपरेनुसार त्यांच्याही आधी या जागी एक विटांचे मंदिर उभे होते. सध्याच्या पाषाणमंदिरावर चोळकालीन शिलालेख आहेत, ज्यामध्ये राजराज पहिला याचे नाव असल्याचे सांगितले जाते, तसेच विजयनगरच्या राज्यकर्त्यांच्या नंतरच्या नोंदी आहेत, आणि तेव्हापासून येथे पूजा अखंड चालू आहे. एऴुत्तरिनाथर, म्हणजे अक्षरे जाणणारा प्रभू, हे नाव या स्थळाला विद्येशी जोडते, आणि हे गाव लिखित शब्दाचे आश्रयस्थान म्हणून स्मरणात आहे.",
+    "architecture": "हे मंदिर द्राविड रचनेनुसार आहे: सुमारे एक एकर क्षेत्र घेरणाऱ्या दोन प्राकारांचा चौकोन, पूर्वेकडून पंचमजली राजगोपुराखालून प्रवेश, आणि प्रत्येक गाभाऱ्याभोवती भिंती. असामान्यपणे, बहुतेक तमिळ मंदिरांत असतो तसा ध्वजस्तंभ येथे नाही. अक्षरपुरीश्वरर असेही म्हटले जाणारे एऴुत्तरिनाथर गर्भगृहात विराजमान आहेत. देवी सुगंध कुंडलांबिकेला पूर्वेकडील बाह्य प्रांगणाच्या उजव्या बाजूला स्वतःचे दक्षिणाभिमुख मंदिर आहे, आणि नित्य कल्याणी, जिला सौंदर नायकी असेही म्हणतात, तिला वेगळे मंदिर आहे. मंदिराचा पवित्र वृक्ष शेण्बगम, म्हणजे सोनेरी चाफा आहे.",
+    "legends": "मंदिराचे नाव प्रभूच्या मूक दयाळूपणाच्या एका कथेवरून पडले आहे. एक प्रामाणिक लेखनिक, ज्याला परंपरा सुधर्मन म्हणते, त्याला राजाने बोलावले आणि सकाळपर्यंत राज्याचे हिशेब सादर करण्याची मागणी केली. हताश होऊन आणि आपण ते पूर्ण करू शकणार नाही याची खात्री असल्याने, त्या माणसाने शिवाला शरण गेला. प्रभू त्या लेखनिकाचेच रूप धारण करून आले, संपूर्ण हिशेब निर्दोषपणे लिहून राजाला सादर केले, आणि राजा पूर्णपणे समाधानी झाला. कृतज्ञ भक्ताचे ओझे हलके झाले, आणि तेव्हापासून देवाला एऴुत्तरिनाथर म्हटले जाते. इतर परंपरा सांगतात की सूर्यदेवाने येथे आपले सामर्थ्य परत मिळवले, इंद्राचा हत्ती ऐरावत येथील मंदिर तळ्यात स्नान करून पूजा केली, आणि ऋषी अगस्त्याने प्रभूकडून तमिळ व्याकरणाची सूक्ष्मता शिकून घेतली.",
+    "festivals": "उत्सव दिनदर्शिकेचे नेतृत्व ऑक्टोबर-नोव्हेंबरमधील ऐप्पसी अन्नाभिषेकम करते, जेव्हा प्रभूला शिजवलेल्या भाताने अभिषेक केला जातो, आणि सप्टेंबर-ऑक्टोबरमधील दहा दिवसांचा पुरट्टासी नवरात्र करते. डिसेंबर-जानेवारीतील मार्गऴी तिरुवादिरै आणि एप्रिल-मेमधील चित्तिरै उत्सवही पाळले जातात, आणि महाशिवरात्रीला वर्षातील सर्वात मोठी गर्दी जमते. तारखा तमिळ पंचांगानुसार असतात, त्यामुळे त्या स्थानिक पातळीवर निश्चित करा.",
+    "experience": "इन्नम्बूर शांत ग्रामीण दर्शनाचे मोल देते. पंचमजली गोपुराखालून पाषाणप्रांगणांत शिरा, गर्भगृहातील एऴुत्तरिनाथरपुढे नतमस्तक व्हा, आणि मग देवी सुगंध कुंडलांबिका व नित्य कल्याणीच्या मंदिराला भेट द्या. येथील प्रभू अक्षरांचे रक्षक म्हणून स्मरणात असल्याने, विद्यार्थी आणि पालक अनेकदा विद्येसाठी व स्पष्ट मनासाठी प्रार्थना करायला येतात, आणि मुलाच्या पहिल्या पाठांपूर्वी प्रार्थना अर्पण करण्यासाठी हे एक स्वाभाविक स्थळ आहे. हे मंदिर कुंभकोणमपासून थोड्या अंतरावर हिरव्या कावेरी शेतांमध्ये वसलेले आहे, आणि त्याच्या प्रांगणांत एक शांतता आहे जी दीर्घ विश्रांतीला अनुकूल आहे."
   },
   "visit": {
-    "timings": "Typically open in the morning (roughly 6 to 11 a.m.) and again in the evening (roughly 5 to 8 p.m.), with a midday break; listings differ, so confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Innambur is about 10 km from Kumbakonam on the Tiruvaiyaru road and is easily reached from Swamimalai. Kumbakonam, the nearest railway station, has regular buses to the village. Tiruchirappalli, with the region's airport, is the nearest air link, roughly 90 km away."
+    "timings": "सामान्यतः सकाळी (अंदाजे ६ ते ११) आणि पुन्हा संध्याकाळी (अंदाजे ५ ते ८) उघडे असते, दुपारी विश्रांतीसह; नोंदी वेगवेगळ्या असतात, त्यामुळे विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर निश्चित करा.",
+    "dressCode": "साधी पारंपरिक वेशभूषा अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे व गुडघे झाकलेले. पादत्राणे प्रवेशद्वारावरील जागी ठेवावीत.",
+    "photography": "तमिळनाडूच्या मंदिर नियमांनुसार बाहेरील मार्गिका व प्रांगणांत छायाचित्रणास सामान्यतः परवानगी असते, पण गर्भगृहाच्या आत बंदी असते. विधी किंवा पुजाऱ्यांचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "इन्नम्बूर कुंभकोणमपासून तिरुवैयारू मार्गावर सुमारे १० किमी अंतरावर आहे आणि स्वामीमलैपासून सहज पोहोचता येते. सर्वात जवळचे रेल्वे स्थानक कुंभकोणम असून तेथून गावाकडे नियमित बसगाड्या आहेत. या प्रदेशाचे विमानतळ असलेले तिरुचिरापल्ली सर्वात जवळचे हवाई दुवा आहे, सुमारे ९० किमी अंतरावर."
   }
 }

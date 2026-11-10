@@ -1,29 +1,36 @@
 {
   "id": "jagadeeswarar-tiruppereyil",
   "locale": "mr",
+  "name": "जगदीश्वर मंदिर, तिरुप्पेरेयिल (ओगै पेरायूर)",
   "nativeName": "திருப்பேரெயில் ஜகதீஸ்வரர் கோயில்",
+  "deity": "शिव जगदीश्वर (विश्वाचा स्वामी) रूपात, देवी जगन नायकी (पेण्णमृत नायकी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम",
   "location": {
-    "city": "Ogai Perayur, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "ओगै पेरायूर, तिरुवारूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.8,
     "lng": 79.53
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तेवारमातील तिरुप्पेरेयिल, म्हणजे तिरुवारूरजवळील ओगै पेरायूर, शिवाचा जगदीश्वर — विश्वाचा स्वामी — म्हणून, देवी जगन नायकीसह, सन्मान करते. अप्परांनी गायिलेले हे पाडल पेट्र स्थलम आदिचोळ काळातील तटबंदीयुक्त स्थान (पेरेयिल, 'महान तट') म्हणून स्मरले जाते, जेव्हा तिरुवारूर साम्राज्याचे एक केंद्र होते.",
   "sections": {
-    "history": "Tiruppereyil, now the village of Ogai Perayur, lies about 13 km from Tiruvarur and some 21 km from Mannargudi, in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirunavukkarasar (Appar). The name Pereyil, 'the great rampart,' recalls a tradition that the place was a fort in the early Chola age, when Tiruvarur was a seat of the Chola power. The stone temple is of the Chola period and later; little of its fuller sthala purana survives.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Jagadeeswarar — 'lord of the universe' — in the sanctum, with the goddess Jagan Nayaki, also called Pennamirtha Nayaki, in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the narthai (citron) tree, and the sacred tank is the Agni Theertham.",
-    "legends": "The lord's name Jagadeeswarar, 'the ruler of the world,' and the goddess Jagan Nayaki, 'the lady of the world,' make this a shrine of the universal sovereignty of Shiva and Devi. The goddess is also praised as Pennamirtha Nayaki, 'she who is the nectar among women.' Little of the older sthala purana is recorded, so the shrine's devotion is carried chiefly by its names and by Appar's Tevaram verses.",
-    "festivals": "The temple keeps Margazhi Tiruvadhirai in Margazhi (December–January), Maha Shivaratri in Masi (February–March) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail near Tiruvarur include Ogai Perayur among their stops.",
-    "experience": "At Ogai Perayur the pilgrim comes to the shrine of the lord and lady of the universe, in a village that remembers an old rampart of the Chola age. Before Jagadeeswarar and Jagan Nayaki, beside the Agni Theertham, the visitor finds the universal sovereignty of Shiva kept in a quiet Tevaram temple of the Tiruvarur country."
+    "history": "तिरुप्पेरेयिल, आता ओगै पेरायूर गाव, तिरुवारूर जिल्ह्यात तिरुवारूरपासून सुमारे १३ कि.मी. आणि मन्नारगुडीपासून सुमारे २१ कि.मी. अंतरावर आहे. हे एक पाडल पेट्र स्थलम असून तेवारममध्ये तिरुनावुक्करसर (अप्पर) यांनी त्याचे गायन केले आहे. पेरेयिल या नावाचा अर्थ 'महान तट' असून एका परंपरेची आठवण करून देतो की आदिचोळ काळात, जेव्हा तिरुवारूर चोळ सत्तेचे केंद्र होते, तेव्हा हे स्थान किल्ला होते. दगडी मंदिर चोळ काळातील आणि नंतरचे आहे; त्याच्या अधिक सविस्तर स्थलपुराणातून फारसे काही टिकलेले नाही.",
+    "architecture": "हे द्रविड शैलीचे त्रिभुज-प्रदेशातील मंदिर आहे; गर्भगृहात जगदीश्वर — 'विश्वाचा स्वामी' — विराजमान आहेत, देवी जगन नायकी, जिला पेण्णमृत नायकी असेही म्हणतात, तिच्या स्वतंत्र देवळात आहे, तसेच नंदी आणि परिवार देवता आहेत. स्थलवृक्ष नार्तै (लिंबूवर्गीय) वृक्ष असून पवित्र सरोवर अग्नि तीर्थम आहे.",
+    "legends": "प्रभूचे जगदीश्वर, 'जगाचा शासक', हे नाव आणि देवी जगन नायकी, 'जगाची स्वामिनी', हे नाव या क्षेत्राला शिव आणि देवी यांच्या वैश्विक सार्वभौमत्वाचे क्षेत्र बनवतात. देवीची स्तुती पेण्णमृत नायकी, 'स्त्रियांमधील अमृतरूप', अशीही केली जाते. जुन्या स्थलपुराणाची फारशी नोंद नाही, म्हणून या क्षेत्राची भक्ती प्रामुख्याने त्याच्या नावांनी आणि अप्परांच्या तेवारम पदांनी वाहिली जाते.",
+    "festivals": "मंदिर मार्गळी महिन्यात (डिसेंबर–जानेवारी) मार्गळी तिरुवादिरै, मासी महिन्यात (फेब्रुवारी–मार्च) महाशिवरात्र आणि कार्तिगै महिन्यातील सोमवार, प्रदोष पूजेसह, एखाद्या ग्रामीण देवळाच्या शांत प्रमाणात पाळते. तिरुवारूरजवळील पाडल पेट्र मार्गावरील यात्रेकरू ओगै पेरायूरचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "ओगै पेरायूर येथे यात्रेकरू विश्वाच्या प्रभू आणि देवीच्या देवळात येतो, चोळ काळातील जुन्या तटाची आठवण जपणाऱ्या गावात. जगदीश्वर आणि जगन नायकी यांच्यासमोर, अग्नि तीर्थमच्या काठी, तिरुवारूर प्रदेशातील एका शांत तेवारम मंदिरात जपलेले शिवाचे वैश्विक सार्वभौमत्व अभ्यागताला भेटते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Ogai Perayur (Tiruppereyil) is about 13 km from Tiruvarur and 21 km from Mannargudi, in Tiruvarur district. Tiruvarur is the nearest rail head, with buses and taxis to the village."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उत्तर दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराशी ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा-मार्गांत छायाचित्रणास सामान्यतः परवानगी असते पण गर्भगृहात नसते; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "ओगै पेरायूर (तिरुप्पेरेयिल) तिरुवारूर जिल्ह्यात तिरुवारूरपासून सुमारे १३ कि.मी. आणि मन्नारगुडीपासून २१ कि.मी. अंतरावर आहे. तिरुवारूर हे सर्वांत जवळचे रेल्वेस्थानक असून गावापर्यंत बस आणि टॅक्सी जातात."
   }
 }

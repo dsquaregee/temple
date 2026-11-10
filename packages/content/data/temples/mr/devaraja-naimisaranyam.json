@@ -1,30 +1,37 @@
 {
   "id": "devaraja-naimisaranyam",
   "locale": "mr",
+  "name": "देवराज पेरुमाळ मंदिर, नैमिषारण्य",
   "nativeName": "देवराज पेरुमाल मंदिर, नैमिषारण्य",
+  "deity": "देवराज पेरुमाळ (नैमिषनाथ) रूपातील विष्णू, देवी हरिलक्ष्मी (पुंडरीकवल्ली थायार) यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Naimisharanya, Sitapur",
-    "state": "Uttar Pradesh",
+    "city": "नैमिषारण्य, सीतापूर",
+    "state": "उत्तर प्रदेश",
     "lat": 27.3486,
     "lng": 80.4864
   },
+  "period": "गोमतीकाठच्या वडनाडूतील एक दिव्य देशम, तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधममध्ये गायिलेले",
   "century": 8,
+  "dynasty": "प्राचीन पवित्र वन-क्षेत्र, कोणत्याही एका राजवंशाशिवाय",
+  "style": "उत्तर भारतीय मंदिर परंपरा",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "गोमतीकाठच्या नैमिषारण्याच्या प्राचीन वनात विष्णूची देवराज पेरुमाळ म्हणून पूजा होते — तिरुमंगै आळवारांनी गायिलेला वडनाडूतील दिव्य देशम, वर्तुळाकार चक्रतीर्थाच्या शेजारी.",
   "sections": {
-    "history": "Naimisharanya, in Sitapur district of Uttar Pradesh, is one of the 108 Divya Desams and belongs to Vada Nadu, the northern country. Thirumangai Alvar sang it in a decad of ten pasurams, Periya Thirumozhi 1.6, honouring the lord Devarajan and his consort Harilakshmi on the banks of the Gomti, which the Alvar calls the Gomudhi. The decad is remembered for his mood of remorse and surrender. The temple here, the Shri Naimishnath Vishnu Temple, is counted among the eight Swayam Vyakta kshetras, the places where Vishnu is held to have manifested of his own will. In the Sri Vaishnava tradition the forest itself is worshipped as the Lord.",
-    "architecture": "More than any single building, Naimisharanya is a sacred landscape. The shrine of Naimishnath, or Devaraja Perumal, sits within the pilgrimage area, with the Goddess worshipped as Harilakshmi, also named Pundarikavalli. Its most revered feature is the Chakra Tirtha or Chakra Kund, a circular tank fed by an underground source, held to mark where Vishnu's Sudarshana chakra touched the earth. Pilgrims bathe here on festival days, and the Gomti flows nearby.",
-    "legends": "Tradition holds that the sages led by Shaunaka gathered in this forest and listened to the bard Suta recite the Puranas and the Mahabharata. The name Naimisha is explained by another tradition, in which the wheel, the nemi, sent by Brahma wore away here, marking the place as a hallowed ground. The circular Chakra Tirtha is revered as the spot touched by Vishnu's Sudarshana chakra, which is why a dip in its waters is counted so meritorious.",
-    "festivals": "Bathing at the Chakra Tirtha on the new-moon day falling on a Monday, Somavati Amavasya, draws pilgrims in large numbers, and in the month of Phalguna devotees undertake the parikrama of the sacred area. Vaikunta Ekadashi is observed by Vaishnava devotees. These observances are customary; confirm dates locally.",
-    "experience": "Naimisharanya asks the pilgrim to slow down: the temple, the Chakra Tirtha and the forest lanes together make one pilgrimage. Bathe at the tank as custom allows, offer respects to Devaraja Perumal, and read or recall Thirumangai Alvar's decad, which was sung here. Pilgrims often visit the other nearby sacred places of the kshetra, such as Suta Gaddi, along the way."
+    "history": "उत्तर प्रदेशातील सीतापूर जिल्ह्यातील नैमिषारण्य हे १०८ दिव्य देशमपैकी एक असून वडनाडू, म्हणजे उत्तरेकडील प्रदेशात, येते. तिरुमंगै आळवारांनी पेरिय तिरुमोळी १.६ या दहा पासुरांच्या पदसमूहात त्याचे गायन केले; यात गोमतीच्या, जिला आळवार गोमुदी म्हणतात, काठावरील प्रभू देवराजन आणि त्यांची सहचारिणी हरिलक्ष्मी यांचा गौरव आहे. हा पदसमूह त्यांच्या पश्चात्ताप आणि शरणागतीच्या भावासाठी स्मरला जातो. येथील मंदिर, श्री नैमिषनाथ विष्णू मंदिर, आठ स्वयंव्यक्त क्षेत्रांमध्ये गणले जाते, म्हणजे जेथे विष्णू स्वतःच्या इच्छेने प्रकट झाले असे मानले जाते. श्री वैष्णव परंपरेत वनाचीच प्रभू म्हणून पूजा केली जाते.",
+    "architecture": "एखाद्या एका इमारतीपेक्षाही नैमिषारण्य हा एक पवित्र भूप्रदेश आहे. नैमिषनाथ, म्हणजे देवराज पेरुमाळ, यांचे तीर्थ यात्रा क्षेत्रात आहे, आणि देवीची हरिलक्ष्मी, जिला पुंडरीकवल्ली असेही म्हणतात, म्हणून पूजा होते. त्याचे सर्वांत पूजनीय वैशिष्ट्य म्हणजे चक्रतीर्थ किंवा चक्रकुंड, भूमिगत स्रोताने भरणारे वर्तुळाकार कुंड, जे विष्णूच्या सुदर्शन चक्राने भूमीला स्पर्श केलेले स्थान दर्शवते असे मानले जाते. यात्रेकरू उत्सवाच्या दिवशी येथे स्नान करतात, आणि गोमती जवळूनच वाहते.",
+    "legends": "परंपरा सांगते की शौनकांच्या नेतृत्वाखालील ऋषी या वनात एकत्र आले आणि सूतांकडून पुराणे आणि महाभारताचे पठण ऐकले. नैमिष नावाचे स्पष्टीकरण दुसरी परंपरा देते, ज्यात ब्रह्मदेवाने पाठवलेले चक्र, म्हणजे नेमी, येथे झिजून गेले आणि त्याने या स्थानाला पवित्र भूमी म्हणून चिन्हांकित केले. वर्तुळाकार चक्रतीर्थ हे विष्णूच्या सुदर्शन चक्राने स्पर्श केलेले स्थान म्हणून पूजनीय आहे, म्हणूनच त्याच्या जलात स्नान करणे इतके पुण्यदायी गणले जाते.",
+    "festivals": "सोमवारी येणाऱ्या अमावास्येला, सोमवती अमावास्येला, चक्रतीर्थात स्नानासाठी यात्रेकरू मोठ्या संख्येने येतात, आणि फाल्गुन महिन्यात भक्त पवित्र क्षेत्राची परिक्रमा करतात. वैष्णव भक्त वैकुंठ एकादशी पाळतात. ही आचरणे प्रथेनुसार आहेत; तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "नैमिषारण्य यात्रेकरूला थांबून संथपणे चालण्यास सांगते: मंदिर, चक्रतीर्थ आणि वनातील वाटा मिळून एक यात्रा घडते. प्रथेने अनुमती दिल्याप्रमाणे कुंडात स्नान करा, देवराज पेरुमाळांना वंदन करा, आणि येथे गायिलेला तिरुमंगै आळवारांचा पदसमूह वाचा किंवा स्मरा. यात्रेकरू अनेकदा वाटेत क्षेत्रातील सूत गद्दी यांसारखी इतर जवळची पवित्र स्थळेही पाहतात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Naimisharanya lies in Sitapur district, Uttar Pradesh, on the Gomti, and is reached by road from Sitapur and from Lucknow, about 90 km away. Lucknow is the nearest major airport, and Sitapur and Lucknow are the nearest large rail centres."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन सत्रांसह उघडे असते आणि दुपारी बंद असते; उत्सवाचे दिवस सर्वाधिक गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधे पारंपरिक पोशाख अपेक्षित आहेत — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेल्या नियमांचे आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेल्या नियमांचे आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "नैमिषारण्य उत्तर प्रदेशातील सीतापूर जिल्ह्यात गोमतीकाठी आहे, आणि सीतापूरहून तसेच सुमारे ९० किमी अंतरावरील लखनौहून रस्त्याने पोहोचता येते. लखनौ हे जवळचे मोठे विमानतळ असून सीतापूर आणि लखनौ ही जवळची मोठी रेल्वे केंद्रे आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/devaraja-naimisaranyam.jpg",

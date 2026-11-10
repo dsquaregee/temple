@@ -1,30 +1,37 @@
 {
   "id": "sowriraja-thirukkannapuram",
   "locale": "mr",
+  "name": "सौरिराज पेरुमाळ मंदिर, तिरुक्कण्णपुरम",
   "nativeName": "சௌரிராஜப் பெருமாள் கோயில், திருக்கண்ணபுரம்",
+  "deity": "विष्णू नीलमेघ पेरुमाळ रूपात, मिरवणुकीत सौरिराज पेरुमाळ म्हणून पूजित, देवी कण्णपुर नायकीसह",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Thirukkannapuram",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कण्णपुरम",
+    "state": "तमिळनाडू",
     "lat": 10.8683,
     "lng": 79.7042
   },
+  "period": "चोळ प्रदेशातील एक दिव्य देशम, नालायिर दिव्य प्रबंधमध्ये पाच आळवारांनी गायिलेले",
   "century": 8,
+  "dynasty": "चोळ (तंजावर नायकांच्या भर घालून)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुक्कण्णपुरम येथे मेघासारखा सावळा स्वामी नीलमेघ 'सौरिराज', म्हणजे केसांच्या बटांचा स्वामी, म्हणून पूजला जातो — पेरियाळवार, आंडाळ आणि तिरुमंगै यांच्यासह पाच आळवारांनी गायिलेला चोळ नाडूमधील दिव्य देशम.",
   "sections": {
-    "history": "Thirukkannapuram lies in the Kaveri delta of the Nagapattinam country and is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham. It belongs to Chola Nadu and was hymned by five Alvars: Thirumangai, Nammalvar, Kulasekara, Andal and Periyalvar, who describes the shrine as enduring even through the deluge. The temple is believed to have been built by the Cholas, with later additions by the Thanjavur Nayaks. The sthala purana adds that a king raised it with the help of Vishwakarma. It is counted among the Pancha Krishnaranya Kshetrams.",
-    "architecture": "A granite wall encloses the shrines and three of the temple's seven bodies of water, among them the Nitya Pushkarini and the Ananda Saras. The sanctum faces east, where the Lord stands as Neelamegha Perumal, the dark-blue cloud, with the Goddess Kannapura Nayaki in her own shrine. The festival image, Sowriraja Perumal, is the form carried in procession.",
-    "legends": "The name Sowriraja carries a story of the hair. Tradition tells of Ranga Bhattar, a poor priest, who once offered a garland a second time. The visiting king found a hair in it, and the priest answered that it was the Lord's own. The Lord is then said to have appeared with thick tresses, and sowri, hair, became part of his name. Another tradition recalls Vibhishana, who longed to see the Lord walk: on every Amavasya the Lord is brought out to give him darshan, in the Nadai Azhagu Sevai.",
-    "festivals": "The Brahmotsavam is the great festival, when the festival image is adorned with hair in the procession in remembrance of the sowri legend. A chariot festival is held in Vaikasi, and Masi Magam is observed in the month of Masi. On every Amavasya the Lord is brought out for Vibhishana's darshan, and pongal is offered at the last puja of the day.",
-    "experience": "A deeply devotional shrine, rich in the voices of five Alvars and in its local stories. Spend time at the east-facing sanctum and the tanks within the granite wall, and if you can, come on an Amavasya to see the Lord brought out. Brahmotsavam days are the most crowded; confirm festival dates locally."
+    "history": "तिरुक्कण्णपुरम नागपट्टिणम प्रदेशातील कावेरी त्रिभुज प्रदेशात वसलेले असून १०८ दिव्य देशमांपैकी एक आहे — नालायिर दिव्य प्रबंधमध्ये आळवारांनी गायिलेली विष्णूची निवासस्थाने. ते चोळ नाडूचे आहे आणि पाच आळवारांनी त्याचे स्तवन केले: तिरुमंगै, नम्माळवार, कुलशेखर, आंडाळ आणि पेरियाळवार, जे या देवालयाचे वर्णन प्रलयातही टिकणारे असे करतात. हे मंदिर चोळांनी बांधले असावे असे मानले जाते, आणि नंतर तंजावरच्या नायकांनी त्यात भर घातली. स्थलपुराण पुढे सांगते की एका राजाने विश्वकर्म्याच्या साहाय्याने ते उभारले. हे पंच कृष्णारण्य क्षेत्रांपैकी एक गणले जाते.",
+    "architecture": "ग्रॅनाइटची भिंत देवालयांना आणि मंदिराच्या सात जलाशयांपैकी तीनांना वेढून आहे; त्यांपैकी नित्य पुष्करिणी आणि आनंद सरस. गर्भगृह पूर्वाभिमुख आहे, तेथे स्वामी नीलमेघ पेरुमाळ, गडद निळ्या मेघासारखा, उभा आहे, आणि देवी कण्णपुर नायकी स्वतंत्र देवालयात आहे. उत्सवमूर्ती सौरिराज पेरुमाळ हे मिरवणुकीत नेले जाणारे रूप आहे.",
+    "legends": "सौरिराज या नावामागे केसांची एक कथा आहे. परंपरा रंग भट्टर या गरीब पुजाऱ्याची गोष्ट सांगते, ज्याने एकदा हार दुसऱ्यांदा अर्पण केला. भेटीला आलेल्या राजाला त्यात एक केस आढळला, आणि पुजाऱ्याने उत्तर दिले की तो स्वामींचाच आहे. मग स्वामी दाट केसांच्या बटांसह प्रकट झाले असे सांगितले जाते, आणि 'सौरि', म्हणजे केस, त्याच्या नावाचा भाग बनला. आणखी एक परंपरा विभीषणाची आठवण करून देते, ज्याला स्वामींचे चालणे पाहण्याची इच्छा होती: प्रत्येक अमावास्येला स्वामींना त्याला दर्शन देण्यासाठी बाहेर आणले जाते, नडै अळगु सेवैमध्ये.",
+    "festivals": "ब्रह्मोत्सव हा मोठा उत्सव आहे, जेव्हा सौरि कथेच्या स्मरणार्थ मिरवणुकीत उत्सवमूर्तीला केसांनी सजविले जाते. वैकासी महिन्यात रथोत्सव होतो, आणि मासी महिन्यात मासी मघम पाळला जातो. प्रत्येक अमावास्येला विभीषणाच्या दर्शनासाठी स्वामींना बाहेर आणले जाते, आणि दिवसाच्या शेवटच्या पूजेत पोंगल अर्पण केला जातो.",
+    "experience": "अत्यंत भक्तिमय देवालय, पाच आळवारांच्या स्वरांनी आणि स्थानिक कथांनी समृद्ध. पूर्वाभिमुख गर्भगृहात आणि ग्रॅनाइट भिंतीतील तलावांजवळ वेळ घालवा, आणि शक्य असेल तर स्वामींना बाहेर आणले जाताना पाहण्यासाठी अमावास्येला या. ब्रह्मोत्सवाच्या दिवशी सर्वाधिक गर्दी असते; उत्सवाच्या तारखा स्थानिक पातळीवर तपासून घ्याव्यात."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukkannapuram lies in the Nagapattinam district of Tamil Nadu, in the Kaveri delta. Tiruvarur and Nagapattinam are the nearest larger towns with railheads, and Tiruchirappalli is the nearest major airport. Reach it by road, and confirm local directions on the way."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन सत्रांसह खुले असते, दुपारी बंद असते; उत्सवाच्या दिवशी सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा तपासून घ्याव्यात.",
+    "dressCode": "पारंपरिक, सभ्य पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "तिरुक्कण्णपुरम तमिळनाडूच्या नागपट्टिणम जिल्ह्यात, कावेरी त्रिभुज प्रदेशात आहे. तिरुवारूर आणि नागपट्टिणम ही रेल्वे स्थानके असलेली सर्वात जवळची मोठी शहरे आहेत, आणि तिरुचिरापल्ली हे सर्वात जवळचे मोठे विमानतळ आहे. रस्त्याने पोहोचा, आणि वाटेत स्थानिक दिशा तपासून घ्या."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sowriraja-thirukkannapuram.jpg",

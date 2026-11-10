@@ -1,30 +1,37 @@
 {
   "id": "mukunda-nayaka-thiruvelukkai",
   "locale": "mr",
+  "name": "अळगिय सिंगर मंदिर, तिरुवेळुक्कै",
   "nativeName": "அழகிய சிங்கர் கோயில், திருவேளுக்கை",
+  "deity": "अळगिय सिंगर — सुंदर नृसिंह, ज्यांना मुकुंद नायकन असेही म्हणतात — या रूपातील विष्णू, आसनस्थ, देवी अमृतवल्ली (वेळुक्कैवल्ली) यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruvelukkai, Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "तिरुवेळुक्कै, कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.822,
     "lng": 79.707
   },
+  "period": "कांचीपुरममधील तोंडै नाडूचा दिव्य देसम, नालायिर दिव्य प्रबंधममध्ये पेयाळवार आणि तिरुमंगै आळवार यांनी गायिलेला",
   "century": 8,
+  "dynasty": "तोंडै प्रदेश (कांचीपुरम), नंतरच्या भरांसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "कांचीपुरममधील तिरुवेळुक्कै येथे विष्णू अळगिय सिंगर, म्हणजे स्वेच्छेने येथे वास्तव्य करणारा सुंदर नृसिंह, या रूपात वास करतो — पेयाळवार आणि तिरुमंगै आळवार यांनी गायिलेला तोंडै नाडूचा दिव्य देसम.",
   "sections": {
-    "history": "Thiruvelukkai is one of the 108 Divya Desams and one of the fourteen in Kanchipuram, in Thondai Nadu. Its name is read as Vel-irukkai, 'the dwelling of desire': tradition holds that the Lord came to stay here of his own wish. He is worshipped as Azhagiya Singar, 'the beautiful lion', a gentle form of Narasimha, and also as Mukunda Nayakan, the name under which the master list of Divya Desams often records him. The shrine was sung by Pey Alvar and by Thirumangai Alvar in the Nalayira Divya Prabandham. Worship follows the Vaikhanasa agama in the Thenkalai tradition. A modest temple today, it stands close to the Ashtabhuja Perumal temple, and the two are often visited together.",
-    "architecture": "A small Dravidian temple with a walled court around the sanctum of Azhagiya Singar, shown seated, and a separate shrine for the Goddess Amruthavalli. The vimana over the sanctum is called the Kanaka Vimana, the golden tower, and the temple tank shares the name: Kanaka Saras. The quiet scale of the shrine suits the gentle aspect of its Lord.",
-    "legends": "This shrine too belongs to the Kanchi cycle of Brahma's sacrifice. When Saraswati sent a fearsome Kapalika to destroy the rite, Vishnu took the form of Narasimha and overcame him — and, the legend continues, remained here as Azhagiya Singar because he loved the place. Another tradition tells that the Lord was first worshipped standing as Mukunda Nayakan and later took his seated form when he appeared to the sage Bhrigu.",
-    "festivals": "The temple's annual festival falls in Margazhi (December–January), the month that also brings Vaikunta Ekadashi. Narasimha Jayanthi, sacred to every shrine of Narasimha, and the birth-stars of Pey Alvar and Thirumangai Alvar are kept with devotion. Confirm festival dates locally.",
-    "experience": "A quiet, unhurried shrine where a pilgrim can stand alone before Azhagiya Singar — a Narasimha of grace rather than fury. Combine it with the nearby Ashtabhuja Perumal temple, and remember that a modest temple's upkeep depends on visitors who come and pray."
+    "history": "तिरुवेळुक्कै हा १०८ दिव्य देसमांपैकी एक आणि तोंडै नाडूतील कांचीपुरममधील चौदांपैकी एक आहे. त्याचे नाव 'वेळ-इरुक्कै', म्हणजे 'इच्छेचे निवासस्थान' असे उलगडले जाते: परंपरेनुसार भगवान स्वतःच्या इच्छेने येथे वास्तव्यास आले. त्यांची पूजा अळगिय सिंगर, म्हणजे 'सुंदर सिंह' — नृसिंहाचे एक सौम्य रूप — म्हणून केली जाते, तसेच मुकुंद नायकन म्हणूनही; दिव्य देसमांच्या मूळ यादीत त्यांची नोंद अनेकदा याच नावाने आढळते. नालायिर दिव्य प्रबंधममध्ये पेयाळवार आणि तिरुमंगै आळवार यांनी या क्षेत्राची स्तुती गायिली आहे. येथील पूजा तेनकलै परंपरेतील वैखानस आगमानुसार चालते. आज हे एक साधे मंदिर असून अष्टभुज पेरुमाळ मंदिराच्या जवळ आहे, आणि दोन्ही मंदिरांचे दर्शन बहुधा एकत्र घेतले जाते.",
+    "architecture": "हे एक लहान द्रविड मंदिर असून आसनस्थ अळगिय सिंगर यांच्या गाभाऱ्याभोवती तटबंदीयुक्त प्रांगण आहे, आणि देवी अमृतवल्लीचे स्वतंत्र मंदिर आहे. गाभाऱ्यावरील विमानाला कनक विमान, म्हणजे सुवर्णशिखर, म्हणतात, आणि मंदिराच्या तीर्थकुंडालाही तेच नाव आहे: कनक सरस. या मंदिराचे शांत प्रमाण त्याच्या स्वामींच्या सौम्य स्वरूपाला शोभते.",
+    "legends": "हे क्षेत्रही ब्रह्मदेवाच्या यज्ञाच्या कांचीतील कथाचक्राशी जोडलेले आहे. सरस्वतीने तो यज्ञ नष्ट करण्यासाठी एका भयंकर कापालिकाला पाठवले, तेव्हा विष्णूंनी नृसिंहरूप धारण करून त्याचा पराभव केला — आणि पुढे कथा सांगते की त्यांना हे स्थान प्रिय वाटले म्हणून ते अळगिय सिंगर म्हणून येथेच राहिले. आणखी एका परंपरेनुसार, भगवंताची प्रथम मुकुंद नायकन म्हणून उभ्या रूपात पूजा होत असे, आणि भृगु ऋषींना दर्शन देताना त्यांनी पुढे आसनस्थ रूप धारण केले.",
+    "festivals": "मंदिराचा वार्षिक उत्सव मार्गळी (डिसेंबर–जानेवारी) महिन्यात येतो, ज्याच्यात वैकुंठ एकादशीही येते. नृसिंह जयंती, जी नृसिंहाच्या प्रत्येक मंदिरात पवित्र मानली जाते, तसेच पेयाळवार आणि तिरुमंगै आळवार यांची जन्मनक्षत्रे भक्तिभावाने साजरी केली जातात. उत्सवांच्या तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "हे एक शांत, निवांत क्षेत्र आहे जेथे यात्रेकरू अळगिय सिंगर यांच्यासमोर एकटेच उभे राहू शकतो — क्रोधाऐवजी कृपेचा नृसिंह. जवळच्या अष्टभुज पेरुमाळ मंदिराचे दर्शनही याबरोबर घ्यावे, आणि हे लक्षात ठेवावे की साध्या मंदिराची देखभाल येणाऱ्या आणि प्रार्थना करणाऱ्या भाविकांवर अवलंबून असते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; hours can be short at smaller shrines. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies within Kanchipuram town, near the Ashtabhuja Perumal temple; Kanchipuram has a railway station and is reached by road from Chennai (around 70 km), which has the nearest major airport."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन वेळांसह उघडे असते, आणि दुपारी बंद असते; लहान मंदिरांत वेळा कमी असू शकतात. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गाभाऱ्यात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "हे कांचीपुरम शहरातच, अष्टभुज पेरुमाळ मंदिराजवळ आहे; कांचीपुरमला रेल्वे स्थानक आहे आणि चेन्नईहून (सुमारे ७० किमी) रस्त्याने येता येते, तेथेच सर्वांत जवळचे मोठे विमानतळ आहे."
   }
 }

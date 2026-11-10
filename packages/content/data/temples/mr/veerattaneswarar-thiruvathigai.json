@@ -1,31 +1,38 @@
 {
   "id": "veerattaneswarar-thiruvathigai",
   "locale": "mr",
+  "name": "वीरट्टानेश्वर मंदिर, तिरुवतिगई",
   "nativeName": "திருவதிகை வீரட்டானேஸ்வரர் கோயில்",
+  "deity": "वीरट्टानेश्वर रूपातील शिव, देवी त्रिपुरसुंदरी (पेरियनायकी) यांच्यासह",
+  "tradition": "शैव धर्म",
   "location": {
-    "city": "Thiruvathigai (Panruti)",
-    "state": "Tamil Nadu",
+    "city": "तिरुवतिगई (पण्रुटी)",
+    "state": "तमिळनाडू",
     "lat": 11.7683,
     "lng": 79.5753
   },
+  "period": "नाडू नाडू देशातील पाडल पेट्र स्थलम्, तेवारममध्ये गायिलेले (७ वे शतक); अष्ट वीरट्टानांपैकी एक",
   "century": 7,
+  "dynasty": "पल्लव आणि चोळ, नंतरच्या भरीसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "पण्रुटीजवळ केडिलम नदीकाठी, वीरट्टानेश्वर रूपातील शिव आपल्या तीन उडत्या नगरांच्या दहनाचा सन्मान करतात — हे असे वीरट्टानम् जेथे अप्परांना रोगमुक्ती मिळाली, ते पुन्हा शैव धर्माकडे वळले आणि त्यांनी आपले पहिले पदिक गायिले.",
   "sections": {
-    "history": "Thiruvathigai lies on the north bank of the Kedilam river, a short way from Panruti in Cuddalore district, and its temple to Shiva as Veerattaneswarar is one of the eight Ashta Veerattanams, the shrines that remember the Lord's heroic deeds. It also holds a singular place in Tamil Shaiva memory. Here, tradition holds, Appar — then a Jain monk named Dharmasenar — came in the grip of a crippling illness to his sister Thilagavathiyar, who served in this temple; healed by the sacred ash, he returned to the worship of Shiva and sang his first hymn on the spot. Appar's influence is remembered too in the turning of the Pallava king Mahendravarman I from Jainism to Shaivism. The saint left many hymns on this shrine, and it is counted among the Paadal Petra Sthalams of the Nadu Nadu country.",
-    "architecture": "The temple is one of the larger complexes of the region, entered through towered gateways in the Dravidian manner, with the sanctum of Veerattaneswarar at the heart of its courtyards. The goddess has her own shrine, whose brightly painted vimana is crowded with sculpted figures; among them Tripurantaka, the destroyer of the three cities, stands out with twelve arms. In the first precinct is a shrine to Thilagavathiyar, and a pillared hall is believed to have been raised at her wish, in thanksgiving for her brother's return.",
-    "legends": "The Veerattanam of Thiruvathigai remembers Tripura samhara. Three asura brothers ruled three flying cities of gold, silver and iron, and from them they harried heaven and earth. The gods fashioned a chariot for Shiva — the earth its body, the sun and moon its wheels, Brahma its charioteer, Mount Meru his bow — and he rode out against the cities. As they came into one line, the Tamil hymns say, he needed no arrow: he smiled, and the three cities burned. Thiruvathigai honours him as Tripurantaka, and the twelve-armed destroyer on the goddess's tower keeps the story before every pilgrim's eyes.",
-    "festivals": "The temple keeps the festivals of the Shaiva year — Maha Shivaratri, the fortnightly pradosham, and Arudra Darshan in Margazhi for the dancing Lord — and honours Appar on his guru puja, when the story of his healing here is retold. Annual festival processions carry the bronzes through the streets of Thiruvathigai; confirm dates locally.",
-    "experience": "Thiruvathigai is a place of return. Pilgrims come to the river town to stand where a doubting monk was healed and found his voice, and many recite Appar's first hymn before the sanctum. The shrine pairs naturally with Thirukkovilur, the Andhakasura Veerattanam to the west, and with the many Tevaram shrines of the Nadu Nadu country."
+    "history": "तिरुवतिगई कडलूर जिल्ह्यात पण्रुटीपासून थोड्या अंतरावर केडिलम नदीच्या उत्तर तीरावर वसलेले आहे, आणि वीरट्टानेश्वर रूपातील शिवाचे येथील मंदिर आठ अष्ट वीरट्टानांपैकी एक आहे, म्हणजे प्रभूच्या वीरकृत्यांचे स्मरण करणाऱ्या स्थानांपैकी. तमिळ शैव स्मृतीत त्याला एक अनन्य स्थानही आहे. येथे, परंपरेनुसार, अप्पर — तेव्हा धर्मसेनर नावाचे जैन भिक्षू — दुर्धर आजाराच्या विळख्यात असताना या मंदिरात सेवा करणाऱ्या आपल्या बहिणीकडे, तिलकवतियारकडे, आले; पवित्र भस्मामुळे बरे होऊन ते शिवाच्या उपासनेकडे परतले आणि तेथेच त्यांनी आपले पहिले पदिक गायिले. पल्लव राजा पहिला महेंद्रवर्मन जैन धर्मातून शैव धर्माकडे वळला, त्यातही अप्परांचा प्रभाव स्मरला जातो. संतांनी या स्थानावर अनेक पदिके रचली, आणि ते नाडू नाडू देशातील पाडल पेट्र स्थलम्‌मध्ये गणले जाते.",
+    "architecture": "हे या प्रदेशातील मोठ्या मंदिरसंकुलांपैकी एक आहे; द्रविड पद्धतीच्या गोपुरयुक्त प्रवेशद्वारांतून आत जावे लागते, आणि वीरट्टानेश्वराचे गर्भगृह प्रांगणांच्या मध्यभागी आहे. देवीचे स्वतंत्र मंदिर आहे, ज्याचे रंगवलेले विमान शिल्पाकृतींनी गजबजलेले आहे; त्यांत तीन नगरांचा संहारक त्रिपुरांतक बारा हातांसह ठळकपणे दिसतो. पहिल्या प्राकारात तिलकवतियार यांचे मंदिर आहे, आणि एक स्तंभांचा मंडप त्यांच्या इच्छेनुसार, भावाच्या परतण्याबद्दलच्या कृतज्ञतेपोटी उभारला गेला असे मानले जाते.",
+    "legends": "तिरुवतिगईचे वीरट्टानम् त्रिपुरसंहाराचे स्मरण करते. तीन असुर बंधूंनी सोन्याची, चांदीची आणि लोखंडाची अशी तीन उडती नगरे चालवली, आणि त्यांतून ते स्वर्ग आणि पृथ्वी पीडित करीत. देवांनी शिवांसाठी एक रथ घडवला — पृथ्वी त्याचे शरीर, सूर्य आणि चंद्र त्याची चाके, ब्रह्मदेव सारथी, मेरू पर्वत त्यांचे धनुष्य — आणि ते त्या नगरांविरुद्ध निघाले. ती नगरे एका रेषेत आली, तेव्हा, तमिळ पदिके सांगतात, त्यांना बाणाची गरज भासली नाही: ते हसले आणि तीन नगरे जळून गेली. तिरुवतिगई त्यांचा त्रिपुरांतक म्हणून सन्मान करते, आणि देवीच्या शिखरावरील बारा हातांचा संहारक ही कथा प्रत्येक यात्रेकरूच्या डोळ्यांसमोर ठेवतो.",
+    "festivals": "मंदिरात शैव वर्षातील उत्सव साजरे केले जातात — महाशिवरात्री, पंधरवड्याचा प्रदोष, आणि नृत्य करणाऱ्या प्रभूसाठी मार्गळीतील आरुद्र दर्शन — आणि अप्परांच्या गुरुपूजेच्या दिवशी त्यांचा सन्मान केला जातो, तेव्हा येथे त्यांना मिळालेल्या रोगमुक्तीची कथा पुन्हा सांगितली जाते. वार्षिक उत्सवाच्या मिरवणुकांत कांस्यमूर्ती तिरुवतिगईच्या रस्त्यांवरून नेल्या जातात; तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुवतिगई हे परतण्याचे स्थान आहे. शंका घेणाऱ्या भिक्षूला जेथे रोगमुक्ती मिळाली आणि आपला स्वर गवसला तेथे उभे राहण्यासाठी यात्रेकरू या नदीकाठच्या शहरात येतात, आणि अनेकजण गर्भगृहासमोर अप्परांचे पहिले पदिक म्हणतात. हे स्थान स्वाभाविकपणे पश्चिमेकडील अंधकासुर वीरट्टानम् असलेल्या तिरुक्कोविलूरशी, आणि नाडू नाडू देशातील अनेक तेवारम स्थानांशी जोडले जाते."
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Thiruvathigai adjoins Panruti in Cuddalore district, about 2 km from the town centre on the north bank of the Kedilam. Panruti has a railway station and good road links to Cuddalore, Villupuram and Puducherry; the nearest airports are at Puducherry and Chennai."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या सत्रांत उघडे असते, मध्यान्हीच्या वेळी बंद असते; उत्सवाचे दिवस सर्वांत गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे बाहेर काढून ठेवावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात छायाचित्रणास परवानगी नाही; बाह्य प्रदक्षिणा मार्गांवर छायाचित्रे घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे, विशेषतः विधी आणि उत्सवमूर्तींचे छायाचित्रण करताना.",
+    "gettingThere": "तिरुवतिगई कडलूर जिल्ह्यात पण्रुटीला लागून असून केडिलमच्या उत्तर तीरावर, शहराच्या मध्यापासून सुमारे २ किमी अंतरावर आहे. पण्रुटीला रेल्वे स्थानक आहे आणि कडलूर, विल्लुपुरम व पुदुच्चेरीशी चांगली रस्ते जोडणी आहे; सर्वांत जवळची विमानतळे पुदुच्चेरी आणि चेन्नई येथे आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/veerattaneswarar-thiruvathigai.jpg",

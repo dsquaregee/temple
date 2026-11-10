@@ -1,29 +1,36 @@
 {
   "id": "parvatheeswarar-karaikal",
   "locale": "mr",
+  "name": "पार्वतीश्वरर मंदिर, तिरुतेळिचेरी (कारैक्कल)",
   "nativeName": "திருத்தெளிச்சேரி பார்வதீஸ்வரர் கோயில்",
+  "deity": "पार्वतीश्वरर रूपातील शिव, देवी पार्वती अम्मै (शक्ती नायकी, स्वयंवर तपस्विनी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम (भास्कर क्षेत्रम)",
   "location": {
-    "city": "Koilpatthu, Karaikal",
-    "state": "Puducherry (Karaikal)",
+    "city": "कोइलपत्तु, कारैक्कल",
+    "state": "पुदुच्चेरी (कारैक्कल)",
     "lat": 10.92,
     "lng": 79.83
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कारैक्कलच्या काठावरील कोइलपत्तु, प्राचीन तिरुतेळिचेरी, येथे शिवाची पार्वतीश्वरर — पार्वतीचा स्वामी, जिने येथे दीर्घ तपश्चर्या केली आणि शेवटी ती त्याच्यात सामावली गेली — म्हणून देवी पार्वती अम्मैसह पूजा केली जाते. तिरुग्नान संबंदर यांनी गायिलेले हे पाडल पेट्र स्थलम भास्कर क्षेत्रम देखील आहे, जेथे सूर्यदेवाने शिवाची उपासना केली; दरवर्षी वसंतात दहा दिवस सूर्यकिरण लिंगावर पडतात.",
   "sections": {
-    "history": "Tiruthelicheri, now the locality of Koilpatthu on the edge of Karaikal town, is a Paadal Petra Sthalam of the lower Kaveri country, hymned in the Tevaram by Tirugnana Sambandar. Though Karaikal lies in the Union Territory of Puducherry, the shrine belongs wholly to the Tamil Shaiva sacred geography of the delta. The sthala tradition holds the place to be of immense antiquity, named Brahmavanam in the Satya yuga, Sameevanam in the Treta, Anandavanam in the Dwapara and Muktivanam in the Kali yuga. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of modest size, the shrine enshrines Parvatheeswarar in the sanctum, with the goddess Parvathi Ammai — also called Sakthi Nayaki and Swayamvara Tapasvini — in her own shrine, a Nandi, and the parivara devatas. The temple is oriented so that at a fixed season the sun's rays reach the lingam, the mark of a Bhaskara Kshetram, a place blessed by the sun-god's own worship.",
-    "legends": "The goddess Parvati is said to have performed long and ardent penance here, worshipping Shiva, until the lord drew her into himself as a part of his own form — from which she is praised as Swayamvara Tapasvini, 'she who won him by penance,' and the lord as Parvatheeswarar. A second legend tells that Surya, the sun-god, came here to worship Shiva and dug the temple tank; pleased, Shiva restored the sun's full brightness, and so the place became a Bhaskara Kshetram. For ten days from Panguni 13 (March–April) the sun's rays fall upon the lingam in the evenings.",
-    "festivals": "The temple keeps the Suryapuja days of Panguni, when the sun's rays touch the lingam, as its special observance, along with Maha Shivaratri in Masi (February–March), Navaratri and the Mondays of Karthikai. Devotees come for the grace of the sun-blessed lord and the penance-won goddess.",
-    "experience": "At Koilpatthu the pilgrim comes to a shrine of deep antiquity where penance and sunlight meet. Before Parvatheeswarar and Parvathi Ammai, the visitor remembers the goddess who won the lord by her austerity and the sun who regained his brightness here — and, in the Panguni days, may see the evening light reach the lingam, the living sign of a Bhaskara Kshetram."
+    "history": "तिरुतेळिचेरी, आता कारैक्कल शहराच्या काठावरील कोइलपत्तु परिसर, हे खालच्या कावेरी प्रदेशातील एक पाडल पेट्र स्थलम आहे, ज्याचे तेवारममध्ये तिरुग्नान संबंदर यांनी गायन केले आहे. कारैक्कल पुदुच्चेरी केंद्रशासित प्रदेशात असले तरी, हे मंदिर संपूर्णपणे त्रिभुज प्रदेशातील तमिळ शैव पवित्र भूगोलाचे आहे. स्थलपरंपरा या स्थानाला अपार प्राचीन मानते, सत्ययुगात ब्रह्मवनम, त्रेतायुगात समीवनम, द्वापरयुगात आनंदवनम आणि कलियुगात मुक्तिवनम असे नाव असलेले. हे दगडी मंदिर चोळ काळातील आणि त्यानंतरचे आहे.",
+    "architecture": "माफक आकाराचे द्रविड मंदिर; गर्भगृहात पार्वतीश्वरर विराजमान आहेत, आणि देवी पार्वती अम्मै — शक्ती नायकी आणि स्वयंवर तपस्विनी असेही म्हटली जाणारी — तिच्या स्वतंत्र मंदिरात आहे, तसेच एक नंदी आणि परिवार देवता आहेत. मंदिराची रचना अशी आहे की ठराविक ऋतूत सूर्यकिरण लिंगापर्यंत पोहोचतात, हे भास्कर क्षेत्रमचे — सूर्यदेवाच्या स्वतःच्या उपासनेने धन्य झालेल्या स्थानाचे — चिन्ह आहे.",
+    "legends": "देवी पार्वतीने येथे दीर्घ आणि उत्कट तपश्चर्या करून शिवाची उपासना केली, आणि शेवटी भगवंताने तिला आपल्याच रूपाचा भाग म्हणून आपल्यात सामावून घेतले असे सांगितले जाते — त्यावरून तिची स्वयंवर तपस्विनी, 'तपश्चर्येने त्याला जिंकणारी', म्हणून आणि भगवंताची पार्वतीश्वरर म्हणून स्तुती केली जाते. दुसरी दंतकथा सांगते की सूर्यदेव येथे शिवाची उपासना करण्यासाठी आला आणि त्याने मंदिराचे तळे खोदले; प्रसन्न होऊन शिवाने सूर्याचे पूर्ण तेज परत दिले, आणि म्हणून हे स्थान भास्कर क्षेत्रम झाले. पंगुनी १३ (मार्च–एप्रिल) पासून दहा दिवस संध्याकाळी सूर्यकिरण लिंगावर पडतात.",
+    "festivals": "मंदिर पंगुनीतील सूर्यपूजेचे दिवस, जेव्हा सूर्यकिरण लिंगाला स्पर्श करतात, हे आपले विशेष पालन म्हणून साजरे करते, तसेच मासी (फेब्रुवारी–मार्च) मधील महाशिवरात्री, नवरात्र आणि कार्तिकैचे सोमवार. सूर्याने धन्य केलेल्या भगवंताच्या आणि तपश्चर्येने जिंकलेल्या देवीच्या कृपेसाठी भक्त येतात.",
+    "experience": "कोइलपत्तु येथे यात्रेकरू तपश्चर्या आणि सूर्यप्रकाश यांचा संगम असलेल्या अगदी प्राचीन मंदिरात येतो. पार्वतीश्वरर आणि पार्वती अम्मै यांच्यासमोर, भेट देणाऱ्याला आपल्या कठोर तपाने भगवंताला जिंकणाऱ्या देवीचे आणि येथे आपले तेज परत मिळवणाऱ्या सूर्याचे स्मरण होते — आणि पंगुनीच्या दिवसांत संध्याकाळचा प्रकाश लिंगापर्यंत पोहोचताना दिसू शकतो, जे भास्कर क्षेत्रमचे जिवंत चिन्ह आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "The temple is at Koilpatthu, about 3 km from the Karaikal bus stand (Tiruthelicheri/Koilpatthu, PIN 609602, Puducherry UT). Karaikal has its own railway station and bus services; local autos and taxis reach Koilpatthu."
+    "timings": "साधारणतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वारावर ठेवावीत.",
+    "photography": "बाह्य प्रदक्षिणा मार्गांमध्ये छायाचित्रणाला सामान्यतः परवानगी असते, परंतु गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "मंदिर कोइलपत्तु येथे, कारैक्कल बस स्थानकापासून सुमारे ३ किमी अंतरावर आहे (तिरुतेळिचेरी/कोइलपत्तु, पिन ६०९६०२, पुदुच्चेरी केंद्रशासित प्रदेश). कारैक्कलला स्वतःचे रेल्वे स्थानक आणि बस सेवा आहेत; स्थानिक ऑटो आणि टॅक्सी कोइलपत्तुपर्यंत जातात."
   }
 }

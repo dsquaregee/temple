@@ -1,29 +1,36 @@
 {
   "id": "agastheeswarar-agasthiyampalli",
   "locale": "mr",
+  "name": "अगस्तीश्वर मंदिर, अगस्तियंपळ्ळी",
   "nativeName": "அகத்தியான்பள்ளி அகத்தீஸ்வரர் கோயில்",
+  "deity": "अगस्तीश्वर रूपातील शिव, देवी सौंदरनायकी (बागम्प्रिय नायकी) यांच्यासह",
+  "tradition": "शैव — पाडल पेत्र स्थळ",
   "location": {
-    "city": "Agasthiyampalli, near Vedaranyam",
-    "state": "Tamil Nadu",
+    "city": "अगस्तियंपळ्ळी, वेदारण्यमजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.355,
     "lng": 79.852
   },
+  "period": "तेवारम काळ (७व्या शतकात गौरवलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "वेदारण्यमच्या थोडे दक्षिणेस समुद्राजवळील अगस्तियंपळ्ळी येथे शिवाची अगस्तीश्वर रूपात देवी सौंदरनायकींसह पूजा केली जाते. तिरुज्ञान संबंदर यांनी गौरवलेले हे पाडल पेत्र स्थळ अगस्त्य ऋषींशी निगडित आहे; परंपरेनुसार त्यांनी येथे मुक्काम केला आणि त्यांना शिवाच्या विवाहाचे दर्शन झाले, आणि त्यांच्या वास्तव्यावरूनच या गावाचे नाव पडले.",
   "sections": {
-    "history": "Agasthiyampalli lies a short distance south of Vedaranyam, on the way to Kodikkarai (Point Calimere), near the sea in Nagapattinam district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and locally called Agasthiyar Kovil for its link to the sage Agastya. The stone temple is of the Chola period and later. (Sources differ on the exact distance from Vedaranyam, about 2–3 km.)",
-    "architecture": "A Dravidian coastal-delta temple, the shrine enshrines Agastheeswarar in the sanctum, with the goddess Soundaranayagi — also named Baagampriya Nayagi — in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram are typical of the Shiva temples of this low-lying southern tract near the coast.",
-    "legends": "The sage Agastya, by tradition, camped at this sivasthalam and was granted a vision of the wedding of Shiva and Parvati — the same marriage-darshan legend that binds the neighbouring Vedaranyam shrine — and the village of Agasthiyampalli takes its name from his stay. Shiva is worshipped here as Agastheeswarar, 'the lord of Agastya,' with Soundaranayagi beside him.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a coastal village shrine. Pilgrims on the Vedaranyam–Kodikkarai stretch of the Paadal Petra trail include Agasthiyampalli among their stops.",
-    "experience": "At Agasthiyampalli the pilgrim comes to a sea-edge shrine of the sage's lord. Before Agastheeswarar and Soundaranayagi, with the salt air of the lower delta near, the visitor finds the unhurried grace of a Tevaram temple of the Vedaranyam coast, and the memory of Agastya's vision of the divine wedding."
+    "history": "अगस्तियंपळ्ळी वेदारण्यमच्या थोडे दक्षिणेस, कोडिक्करै (पॉइंट कॅलिमेर) कडे जाणाऱ्या वाटेवर, नागपट्टिनम जिल्ह्यात समुद्राजवळ आहे. हे पाडल पेत्र स्थळ असून तिरुज्ञान संबंदर यांनी तेवारममध्ये त्याचा गौरव केला आहे, आणि अगस्त्य ऋषींशी असलेल्या संबंधामुळे स्थानिक पातळीवर त्याला अगस्तियर कोविल म्हणतात. दगडी मंदिर चोळ काळातील आणि त्यानंतरचे आहे. (वेदारण्यमपासूनच्या नेमक्या अंतराबाबत स्रोतांत भिन्नता आहे, सुमारे २–३ कि.मी.)",
+    "architecture": "द्रविड शैलीचे किनारी त्रिभुज-प्रदेशातील मंदिर; गर्भगृहात अगस्तीश्वर विराजमान आहेत, देवी सौंदरनायकी — बागम्प्रिय नायकी या नावानेही ओळखल्या जाणाऱ्या — आपल्या स्वतंत्र गर्भगृहात आहेत, आणि प्राकाराभोवती नंदी व परिवार देवता आहेत. तटबंदीचे प्रांगण आणि साधे गोपुर हे किनाऱ्याजवळील या सखल दक्षिणी प्रदेशातील शिवमंदिरांचे वैशिष्ट्य आहे.",
+    "legends": "परंपरेनुसार अगस्त्य ऋषींनी या शिवस्थळी मुक्काम केला आणि त्यांना शिव-पार्वतीच्या विवाहाचे दर्शन लाभले — शेजारच्या वेदारण्यम क्षेत्राशी जोडलेली तीच विवाह-दर्शनाची कथा — आणि त्यांच्या वास्तव्यावरून अगस्तियंपळ्ळी गावाचे नाव पडले. येथे शिवाची अगस्तीश्वर, म्हणजे 'अगस्त्यांचे स्वामी', म्हणून पूजा केली जाते, आणि त्यांच्या बाजूला सौंदरनायकी आहेत.",
+    "festivals": "मंदिरात मासी (फेब्रुवारी–मार्च) महिन्यात महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) महिन्यात नवरात्री आणि कार्तिकैच्या सोमवारी प्रदोष पूजेसह उत्सव साजरे होतात, किनारी गावातील शांत मंदिराच्या प्रमाणात. वेदारण्यम–कोडिक्करै पट्ट्यातील पाडल पेत्र यात्रेचे यात्रेकरू अगस्तियंपळ्ळीचा आपल्या थांब्यांत समावेश करतात.",
+    "experience": "अगस्तियंपळ्ळी येथे यात्रेकरू ऋषींच्या स्वामींच्या समुद्रकिनारी वसलेल्या क्षेत्री येतो. अगस्तीश्वर आणि सौंदरनायकींसमोर, खालच्या त्रिभुज-प्रदेशातील खारट वाऱ्याच्या सान्निध्यात, अभ्यागताला वेदारण्यम किनाऱ्यावरील तेवारम मंदिराची निवांत कृपा आणि अगस्त्यांना झालेल्या दिव्य विवाहाच्या दर्शनाची स्मृती लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Agasthiyampalli lies about 2–3 km south of Vedaranyam, on the road toward Kodikkarai (Point Calimere), in Nagapattinam district. Vedaranyam is the nearest town, with buses and taxis to the village; Nagapattinam and Tiruvarur are the nearest rail heads."
+    "timings": "सामान्यतः पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; स्थानिक पातळीवर वेळांची खात्री करावी, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे व गुडघे झाकलेले असावेत; पादत्राणे प्रवेशद्वाराजवळ काढून ठेवावीत.",
+    "photography": "बाह्य मार्गिकांत छायाचित्रण सामान्यतः परवानगी असलेले आहे, पण गर्भगृहात नाही; विधींचे छायाचित्र घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "अगस्तियंपळ्ळी नागपट्टिनम जिल्ह्यात, कोडिक्करै (पॉइंट कॅलिमेर) कडे जाणाऱ्या रस्त्यावर वेदारण्यमच्या सुमारे २–३ कि.मी. दक्षिणेस आहे. वेदारण्यम हे जवळचे शहर असून तेथून गावासाठी बसेस व टॅक्सी मिळतात; नागपट्टिनम आणि तिरुवारूर ही जवळची रेल्वे स्थानके आहेत."
   }
 }

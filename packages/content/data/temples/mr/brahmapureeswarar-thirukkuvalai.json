@@ -1,31 +1,38 @@
 {
   "id": "brahmapureeswarar-thirukkuvalai",
   "locale": "mr",
+  "name": "ब्रह्मपुरीश्वर मंदिर, तिरुक्कुवलै",
   "nativeName": "பிரம்மபுரீஸ்வரர் கோயில், திருக்குவளை",
+  "deity": "ब्रह्मपुरीश्वर रूपातील शिव, त्यागराज उत्सवमूर्ती अवनी विडंगर यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thirukkuvalai",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कुवलै",
+    "state": "तमिळनाडू",
     "lat": 10.71,
     "lng": 79.68
   },
+  "period": "तेवारममध्ये गायलेले पाडल पेट्र स्थळ; चोळकालीन दगडी मंदिर",
   "century": 9,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "sapta-vidanga-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "कावेरी त्रिभुज-प्रदेशातील तिरुक्कुवलै येथे शिव ब्रह्मपुरीश्वर म्हणून उभे आहेत, आणि या देवळाचे त्यागराज — अवनी विडंगर — हे त्रिभुज-प्रदेशातील सात नर्तक त्यागराजांपैकी एक आहेत, ज्यांची मिरवणूक भृंग नटनम् मध्ये चालते असे सांगितले जाते.",
   "sections": {
-    "history": "Thirukkuvalai lies among the paddy country of the Kaveri delta, in the Nagapattinam–Thiruvarur region. Its temple to Shiva as Brahmapureeswarar is a Paadal Petra Sthalam sung in the Tevaram, its stone shrines of the Chola age. The temple is one of the Sapta Vidanga Sthalams, and its Thyagaraja is honoured as Avani Vidangar, one of the seven Vidangas of the dancing tradition of the delta.",
-    "architecture": "Built in the Dravidian manner, the temple gathers around the sanctum of Brahmapureeswarar, with the Somaskanda Thyagaraja — Shiva with Uma and the child Skanda — worshipped as the uncarved Vidanga and carried as the processional lord. Pillared halls and a gateway tower open before the sanctum in the delta manner of the Chola and later centuries.",
-    "legends": "The Sapta Vidanga temples share the legend of the uncarved Thyagaraja images, worshipped in the Somaskanda form and each moving in its own dance when carried in procession. At Thirukkuvalai the Thyagaraja is Avani Vidangar, and his procession is said to move in the Bhringa Natanam, the dance likened to the hovering of a bee.",
-    "festivals": "The temple keeps the festivals of Shiva and the processions of the Vidangar through the year, with the days of the Nayanmar saints observed in the village shrine, and the procession of the dancing Thyagaraja at the heart of its celebration.",
-    "experience": "Thirukkuvalai is a quiet delta temple among the seven dancing Thyagarajas, rewarding for the pilgrim who follows the Vidanga shrines through the paddy country. It joins the other six — from Thiruvarur to Vedaranyam — into the single pilgrimage of the seven dances."
+    "history": "तिरुक्कुवलै कावेरी त्रिभुज-प्रदेशातील भातशेतीच्या भागात, नागपट्टिणम–तिरुवारूर प्रदेशात वसले आहे. येथील ब्रह्मपुरीश्वर रूपातील शिवाचे मंदिर तेवारममध्ये गायलेले पाडल पेट्र स्थळ आहे, आणि त्याची दगडी देवळे चोळकालीन आहेत. हे मंदिर सप्त विडंग स्थळांपैकी एक आहे, आणि त्याचे त्यागराज अवनी विडंगर म्हणून पूजले जातात, जे त्रिभुज-प्रदेशातील नर्तन-परंपरेच्या सात विडंगांपैकी एक आहेत.",
+    "architecture": "द्रविड पद्धतीने बांधलेले हे मंदिर ब्रह्मपुरीश्वराच्या गर्भगृहाभोवती वसलेले आहे; सोमस्कंद त्यागराज — उमा आणि बालक स्कंदासह शिव — घडवलेला नसलेला विडंग म्हणून पूजले जातात आणि उत्सवमूर्ती म्हणून मिरवले जातात. चोळ आणि नंतरच्या शतकांतील त्रिभुज-प्रदेशी पद्धतीप्रमाणे गर्भगृहासमोर स्तंभयुक्त सभामंडप आणि गोपुर उघडतात.",
+    "legends": "सप्त विडंग मंदिरे घडवलेल्या नसलेल्या त्यागराज मूर्तींची कथा सामायिक करतात; त्या सोमस्कंद रूपात पूजल्या जातात आणि मिरवणुकीत नेल्यावर प्रत्येक आपल्या स्वतःच्या नृत्यात हलते. तिरुक्कुवलै येथे त्यागराज अवनी विडंगर आहेत, आणि त्यांची मिरवणूक भृंग नटनम् मध्ये, म्हणजे भुंग्याच्या घिरट्या घालण्यासारखे मानल्या गेलेल्या नृत्यात, चालते असे सांगितले जाते.",
+    "festivals": "मंदिर शिवाचे उत्सव आणि विडंगरांच्या मिरवणुका वर्षभर पाळते; गावातील देवळात नायनमार संतांचे दिवस पाळले जातात, आणि नर्तक त्यागराजांची मिरवणूक त्याच्या सोहळ्याच्या केंद्रस्थानी असते.",
+    "experience": "तिरुक्कुवलै हे सात नर्तक त्यागराजांपैकी एक शांत त्रिभुज-प्रदेशी मंदिर आहे; भातशेतीच्या प्रदेशातून विडंग देवळांचा मार्ग अनुसरणाऱ्या यात्रेकरूसाठी ते समाधानकारक आहे. ते इतर सहा — तिरुवारूरपासून वेदारण्यमपर्यंत — यांना जोडून सात नृत्यांची एकच तीर्थयात्रा घडवते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days and processions are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirukkuvalai lies in the Kaveri delta in the Nagapattinam–Thiruvarur region, reached by road from the surrounding delta towns."
+    "timings": "दररोज सकाळ-संध्याकाळच्या दर्शन-सत्रांसह आणि दुपारच्या बंदसह खुले; उत्सवाचे दिवस आणि मिरवणुकी यांना सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. अनेक दक्षिणी देवळांप्रमाणे, गर्भगृहासमोर पुरुषांना पारंपरिकरीत्या वरचे वस्त्र काढण्यास सांगितले जाते; लावलेले नियम पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुक्कुवलै कावेरी त्रिभुज-प्रदेशात, नागपट्टिणम–तिरुवारूर प्रदेशात आहे; आसपासच्या त्रिभुज-प्रदेशातील शहरांतून रस्त्याने पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/brahmapureeswarar-thirukkuvalai.jpg",

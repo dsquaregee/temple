@@ -70,7 +70,7 @@
 // calendar) to the app's own Worker — purge so returning visitors send them.
 // v38: SEO pass — x-default hreflang on every page, localized <html lang>,
 // Listen meta description, site-wide + fallback Open Graph, festival Event data.
-const VERSION = 'v39';
+const VERSION = 'v40';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

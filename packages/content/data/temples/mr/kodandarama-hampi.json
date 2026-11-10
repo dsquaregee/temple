@@ -1,30 +1,37 @@
 {
   "id": "kodandarama-hampi",
   "locale": "mr",
+  "name": "कोदंडराम मंदिर, हंपी",
   "nativeName": "ಕೋದಂಡರಾಮ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "कोदंडराम — धनुर्धारी राम, सीता आणि लक्ष्मण यांच्यासह, एका महाकाय शिळेवर कोरलेले",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "हंपी",
+    "state": "कर्नाटक",
     "lat": 15.336,
     "lng": 76.4684
   },
+  "period": "विजयनगर राजधानीतील नदीकाठचे देवस्थान, सुग्रीवाच्या राज्याभिषेकाचे स्थान म्हणून पूजनीय; आजही पूजा सुरू आहे",
   "century": 16,
+  "dynasty": "विजयनगर",
+  "style": "शिळेवर कोरलेले शिल्प-देवस्थान, विजयनगर शैलीतील स्तंभयुक्त मंडपांसह",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "जिथे तुंगभद्रा चक्रतीर्थाशी वळण घेते, तिथे राम, सीता आणि लक्ष्मण एका महाकाय शिळेवर कोरलेले उभे आहेत — नदीकाठचे हे लहानसे जिवंत देवस्थान हंपी सुग्रीवाला किष्किंधेचा राजा म्हणून अभिषेक झालेले स्थान म्हणून स्मरते.",
   "sections": {
-    "history": "Hampi's devotion to Rama is older than its empire, for the boulder country along the Tungabhadra has long been identified with Kishkindha, the monkey kingdom of the Ramayana. The Kodandarama shrine gathers that memory at the river's edge. Its images were carved directly into a great granite boulder, and a modest temple of pillared halls was built against the rock in the Vijayanagara period, when the riverbank between the Virupaksha bazaar and the Vittala temple was lined with shrines, ghats and pavilions. When the city fell in 1565 most of those temples went silent, but this one did not: worship continues here today, making Kodandarama one of the few living shrines among the ruins of the World Heritage site.",
-    "architecture": "The sanctum is the rock itself. On the face of a huge boulder, Rama with his bow, Sita and Lakshmana are carved in deep relief, and the shrine has been built around them so that the boulder forms its back wall. Before it stands a simple pillared hall in the Vijayanagara manner, open to the river breeze. A small monkey figure among the carvings is locally taken to be Sugriva rather than Hanuman. Below, the temple steps lead down to Chakratirtha, the deep pool where the river turns north, and on the rocks nearby stands the Yantrodharaka Hanuman shrine.",
-    "legends": "Local tradition holds that this is where Rama, having slain Vali, saw Sugriva crowned king of Kishkindha, keeping his promise to the exiled monkey prince. Some devotees go further and say that Sugriva himself carved the images on the boulder in gratitude. The bathing pool below the temple, Chakratirtha, is counted the holiest spot on the Tungabhadra at Hampi, and pilgrims bathe here before climbing to the shrine. For those walking the Ramayana trail through Hampi, Kodandarama is the place where the story of Kishkindha reaches its moment of restoration.",
-    "festivals": "As a living Rama shrine, the temple keeps the Vaishnava calendar: Rama Navami, the birthday of Rama, is the principal festival, and Hanuman Jayanti is customarily marked as well. On such days pilgrims come along the river path to the shrine, which is decked with flowers and lamps. Confirm dates locally.",
-    "experience": "The approach is part of the blessing. Walk east from the end of Hampi Bazaar along the riverside path, the green Tungabhadra on one side and towering boulders on the other, until the small temple appears above the water. Bathe or simply sit at Chakratirtha, where round coracles sometimes cross the dark pool, then climb to stand before the carved figures. Early morning, when the priest lights the lamps against the stone, is the most moving hour."
+    "history": "हंपीची रामभक्ती त्याच्या साम्राज्यापेक्षाही जुनी आहे, कारण तुंगभद्रेच्या काठचा शिळांचा हा प्रदेश रामायणातील वानरराज्य किष्किंधा म्हणून फार पूर्वीपासून ओळखला जातो. कोदंडराम देवस्थान ही आठवण नदीच्या काठावर एकत्र करते. येथील मूर्ती थेट एका मोठ्या ग्रॅनाइट शिळेत कोरलेल्या आहेत, आणि विजयनगर काळात, जेव्हा विरूपाक्ष बाजारपेठ आणि विठ्ठल मंदिर यांच्या दरम्यानचा नदीकिनारा देवस्थाने, घाट आणि मंडपांनी सजलेला होता, तेव्हा त्या खडकाला टेकून स्तंभयुक्त मंडपांचे एक साधे मंदिर उभारण्यात आले. इ.स. १५६५ मध्ये नगर पडले तेव्हा त्यांतील बहुतेक मंदिरे स्तब्ध झाली, पण हे मंदिर नाही; येथे आजही पूजा सुरू आहे, आणि त्यामुळे कोदंडराम हे जागतिक वारसा स्थळाच्या अवशेषांमधील थोड्या जिवंत देवस्थानांपैकी एक ठरले आहे.",
+    "architecture": "गाभारा म्हणजे खुद्द खडकच. एका प्रचंड शिळेच्या पृष्ठभागावर धनुष्यधारी राम, सीता आणि लक्ष्मण खोल उठावात कोरलेले आहेत, आणि त्यांच्याभोवती देवस्थान असे उभारले आहे की ती शिळा त्याची मागील भिंत बनते. समोर विजयनगर शैलीतील साधा स्तंभयुक्त मंडप आहे, जो नदीच्या वाऱ्यासाठी खुला आहे. कोरीवकामातील एका लहानशा वानराकृतीला स्थानिक लोक हनुमान नव्हे तर सुग्रीव मानतात. खाली मंदिराच्या पायऱ्या चक्रतीर्थापर्यंत उतरतात — हे खोल डोह आहे जिथे नदी उत्तरेकडे वळते — आणि जवळच्या खडकांवर यंत्रोद्धारक हनुमानाचे देवस्थान आहे.",
+    "legends": "स्थानिक परंपरा सांगते की वालीचा वध केल्यानंतर रामाने इथेच, निर्वासित वानर-राजपुत्राला दिलेले वचन पाळत, सुग्रीवाचा किष्किंधेचा राजा म्हणून राज्याभिषेक पाहिला. काही भक्त तर असेही म्हणतात की कृतज्ञतेने खुद्द सुग्रीवानेच या शिळेवर या मूर्ती कोरल्या. मंदिराखालील स्नानकुंड चक्रतीर्थ हे हंपी येथील तुंगभद्रेवरील सर्वांत पवित्र स्थान मानले जाते, आणि यात्रेकरू देवस्थानाकडे चढण्यापूर्वी येथे स्नान करतात. हंपीतून रामायण-मार्गाने चालणाऱ्यांसाठी कोदंडराम हे ते स्थान आहे जिथे किष्किंधेची कथा पुनःस्थापनेच्या क्षणाला पोहोचते.",
+    "festivals": "जिवंत रामदेवस्थान म्हणून हे मंदिर वैष्णव दिनदर्शिका पाळते: रामाचा जन्मदिन रामनवमी हा प्रमुख उत्सव आहे, आणि हनुमान जयंतीही प्रथेने साजरी केली जाते. अशा दिवशी यात्रेकरू नदीकाठच्या वाटेने देवस्थानाकडे येतात, जे फुलांनी आणि दिव्यांनी सजवलेले असते. तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "येथे पोहोचण्याचा मार्गही आशीर्वादाचाच भाग आहे. हंपी बाजाराच्या टोकापासून नदीकाठच्या वाटेने पूर्वेकडे चालत जा — एका बाजूला हिरवी तुंगभद्रा आणि दुसऱ्या बाजूला उत्तुंग शिळा — जोपर्यंत पाण्यावर लहानसे मंदिर दिसू लागत नाही. चक्रतीर्थावर स्नान करा किंवा नुसते बसा, जिथे कधीकधी गोलाकार होड्या त्या गडद डोहातून पलीकडे जातात, आणि मग चढून कोरलेल्या मूर्तींसमोर उभे राहा. पहाटेची वेळ, जेव्हा पुजारी दगडासमोर दिवे लावतात, ती सर्वांत हृदयस्पर्शी असते."
   },
   "visit": {
-    "timings": "A living temple, generally open from morning to evening with a midday break; confirm timings locally.",
-    "dressCode": "Modest dress is expected — shoulders and knees covered; footwear is removed before entering the shrine.",
-    "photography": "Photography of the riverside and exterior is generally fine; follow the priest's guidance about the sanctum.",
-    "gettingThere": "The temple is reached on foot along the riverside path from the eastern end of Hampi Bazaar, the same trail that continues to the Vittala temple. Hampi lies in Vijayanagara district, Karnataka; Hosapete (Hospet), about 13 km away, has the nearest railway station, and Bengaluru is roughly 340 km by road."
+    "timings": "जिवंत मंदिर; साधारणतः सकाळपासून संध्याकाळपर्यंत दुपारच्या विश्रांतीसह उघडे असते; वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "शालीन पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; देवस्थानात प्रवेश करण्यापूर्वी पादत्राणे काढावीत.",
+    "photography": "नदीकाठाचे आणि बाह्य भागाचे छायाचित्रण सामान्यतः चालते; गाभाऱ्याबाबत पुजाऱ्यांच्या सूचनेचे पालन करा.",
+    "gettingThere": "हंपी बाजाराच्या पूर्वेकडील टोकापासून नदीकाठच्या वाटेने पायी मंदिरापर्यंत जाता येते; हीच वाट पुढे विठ्ठल मंदिराकडे जाते. हंपी कर्नाटकातील विजयनगर जिल्ह्यात आहे; सुमारे १३ किमी अंतरावरील होसपेट (हॉस्पेट) येथे सर्वांत जवळचे रेल्वे स्थानक आहे, आणि बेंगळुरू रस्त्याने सुमारे ३४० किमी आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kodandarama-hampi.jpg",

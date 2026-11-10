@@ -1,28 +1,35 @@
 {
   "id": "yadadri-lakshmi-narasimha",
   "locale": "mr",
+  "name": "श्री लक्ष्मी नरसिंह स्वामी मंदिर, यादाद्री",
   "nativeName": "శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం, యాదాద్రి",
+  "deity": "लक्ष्मी नरसिंह रूपातील विष्णू, टेकडीवर आपल्या पाच रूपांत (पंच नरसिंह) पूजिले जातात",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Yadagirigutta",
-    "state": "Telangana",
+    "city": "यादगिरीगुट्टा",
+    "state": "तेलंगणा",
     "lat": 17.596,
     "lng": 78.949
   },
+  "period": "तेलंगणातील नरसिंहाचे टेकडीवरील मंदिर, यादर्षी ऋषींचे स्थान, अलीकडे भव्य प्रमाणात दगडात पुनर्बांधलेले",
   "century": 12,
+  "dynasty": "प्राचीन परंपरा, आपल्याच काळात कृष्णशिलेत पुनर्रचित",
+  "style": "द्रविड (काकतीय प्रभावयुक्त)",
   "unesco": false,
   "circuits": [],
+  "summary": "यादाद्री टेकडीवर विष्णूची लक्ष्मी नरसिंह रूपात पाच स्वरूपांत उपासना केली जाते; यादर्षी ऋषींच्या तपश्चर्येने प्राप्त झालेले असे सांगितले जाणारे हे स्थान आपल्या काळात काळ्या दगडाच्या विशाल मंदिराच्या रूपात पुन्हा साकार झाले.",
   "sections": {
-    "history": "Yadadri, or Yadagirigutta, crowns a hill in Telangana. Tradition holds that the sage Yadarshi, son of Rishyasringa, did penance here and was granted the vision of Narasimha in five forms; the god stayed on the hill as Lakshmi Narasimha. In recent years the temple has been rebuilt on a grand scale in black Krishna stone.",
-    "architecture": "The reborn temple rises in the Dravidian manner in dark stone, with towered gateways and carved halls, gathered around the cave-like sanctum where the five forms of Narasimha are worshipped. The hilltop setting and the black-stone mass give it a stern, ancient grandeur.",
-    "legends": "The five forms — Jwala, Yogananda, Gandabherunda, Ugra, and Lakshmi Narasimha — are held to have revealed themselves to Yadarshi in a cave on the hill. Narasimha, the man-lion who tore apart the demon Hiranyakashipu to save the child Prahlada, is here the fierce yet grace-giving lord of the hill.",
-    "festivals": "Brahmotsavam and the days of Narasimha, above all Narasimha Jayanti, fill the hill with pilgrims. The temple is also sought for the rites that calm the fierce aspect of the god and heal affliction.",
-    "experience": "Yadadri joins the awe of a hill-shrine of the fierce Narasimha with the freshness of a temple newly raised in stone — a pilgrimage both ancient in spirit and new to the eye."
+    "history": "यादाद्री, किंवा यादगिरीगुट्टा, तेलंगणातील एका टेकडीच्या शिखरावर आहे. परंपरेनुसार ऋष्यशृंगांचे पुत्र यादर्षी ऋषींनी येथे तप केले आणि त्यांना नरसिंहाच्या पाच रूपांचे दर्शन लाभले; देव लक्ष्मी नरसिंह म्हणून टेकडीवर राहिला. अलीकडच्या वर्षांत मंदिराची काळ्या कृष्णशिलेत भव्य प्रमाणात पुनर्बांधणी झाली आहे.",
+    "architecture": "पुनर्जन्म घेतलेले मंदिर द्रविड पद्धतीने गडद दगडात उभे आहे; गोपुरयुक्त प्रवेशद्वारे आणि कोरीव सभामंडप यांनी वेढलेल्या गुहेसारख्या गर्भगृहात नरसिंहाच्या पाच रूपांची उपासना होते. टेकडीवरील स्थान आणि काळ्या दगडाचा विशाल भार यांमुळे त्याला कठोर, प्राचीन भव्यता लाभली आहे.",
+    "legends": "पाच रूपे — ज्वाला, योगानंद, गंडभेरुंड, उग्र आणि लक्ष्मी नरसिंह — टेकडीवरील एका गुहेत यादर्षींना प्रकट झाली असे मानले जाते. बालक प्रल्हादाचे रक्षण करण्यासाठी राक्षस हिरण्यकशिपूला फाडून टाकणारा नृसिंह, येथे टेकडीचा उग्र तरीही कृपाळू स्वामी आहे.",
+    "festivals": "ब्रह्मोत्सव आणि नरसिंहाचे दिवस, विशेषतः नरसिंह जयंती, टेकडी यात्रेकरूंनी भरून टाकतात. देवाचे उग्र रूप शांत करणाऱ्या आणि संकटे दूर करणाऱ्या विधींसाठीही हे मंदिर शोधले जाते.",
+    "experience": "यादाद्री उग्र नरसिंहाच्या टेकडीवरील मंदिराचे विस्मय आणि दगडात नव्याने उभारलेल्या मंदिराचा ताजेपणा यांचा संगम घडवते — आत्म्याने प्राचीन आणि डोळ्यांना नवीन अशी तीर्थयात्रा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday break; Narasimha Jayanti and Brahmotsavam are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Yadadri lies in Yadadri Bhuvanagiri district of Telangana, reached by road from Hyderabad, with the nearest railhead at Raigir/Bhongir."
+    "timings": "दररोज सकाळ-संध्याकाळ दर्शन आणि मध्यान्हीला विश्रांतीसह खुले; नरसिंह जयंती आणि ब्रह्मोत्सवात सर्वाधिक गर्दी असते. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पेहराव अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि आसपास छायाचित्रणावर बंधने आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "यादाद्री तेलंगणातील यादाद्री भुवनगिरी जिल्ह्यात आहे; हैदराबादहून रस्त्याने पोहोचता येते, आणि सर्वांत जवळचे रेल्वे स्थानक रायगिर/भोंगीर येथे आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/yadadri-lakshmi-narasimha.jpg",

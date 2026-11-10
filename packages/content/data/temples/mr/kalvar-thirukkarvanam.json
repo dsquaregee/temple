@@ -1,31 +1,38 @@
 {
   "id": "kalvar-thirukkarvanam",
   "locale": "mr",
+  "name": "कळ्वर पेरुमाळ मंदिर (तिरुक्कारवानम), कांचीपुरम",
   "nativeName": "கள்வர் பெருமாள் கோயில் (திருக்கார்வானம்), காஞ்சிபுரம்",
+  "deity": "कळ्वर पेरुमाळ रूपातील विष्णू, उभ्या स्वरूपात, देवी कमलवल्ली नाच्चियार यांच्यासह — उलगळंद पेरुमाळ मंदिरात वसलेला तिरुक्कारवानमचा दिव्य देशम",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.8392,
     "lng": 79.705
   },
+  "period": "तोंडै नाडूतील एक दिव्य देशम, नालायिर दिव्य प्रबंधमात तिरुमंगै आळवारांनी गायिलेले",
   "century": 8,
+  "dynasty": "पल्लव (यजमान मंदिर, चोळ, विजयनगर आणि नायक यांच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "तिरुक्कारवानम हे कांचीपुरममधील उलगळंद पेरुमाळ संकुलातील चार दिव्य देशमपैकी एक आहे; येथे विष्णू दुसऱ्या प्राकारात कळ्वर, म्हणजे गुपचूप येणारे स्वामी, म्हणून उभे आहेत; तिरुमंगै आळवारांनी त्यांचे गायन केले आहे.",
   "sections": {
-    "history": "Thirukkarvanam is not a temple of its own but a Divya Desam within the Ulagalantha Perumal Temple of Periya Kanchi, the same complex that holds Thiruooragam, Thiruneeragam and Thirukkaragam. The four are believed to have once been independent shrines, and a single verse of Thirumangai Alvar names them together. From the Alvar's pasurams in the Nalayira Divya Prabandham comes the picture the tradition keeps of this shrine: the Lord is Kalvar, standing, with Kamalavalli Nachiyar. The host temple is believed to be a Pallava foundation, with later additions by the Medieval Cholas, the Vijayanagara kings and the Nayaks, and is administered by the Tamil Nadu HR&CE Department. It is one of the 108 Divya Desams of Thondai Nadu.",
-    "architecture": "The shrine stands in the second precinct of the Ulagalantha Perumal complex. Kalvar Perumal is worshipped standing, with Kamalavalli Nachiyar, who is also known by the name Thamaraiyal, the lady of the lotus. His sanctum rises under the Pushkala Vimanam, and the sacred water is the Gowri Thadagam, also called Gowri Theertham. It is a modest sanctum within the larger walled complex, reached on the walk from the great Trivikrama sanctum.",
-    "legends": "Tradition connects this shrine with Parvati, called Gowri, who is said to have worshipped here, and the tank bears her name. The sthala purana tells that Parvati once saw Vishnu overhearing her conversation with Lakshmi, and called him Kalvan, the stealthy one, the thief. The name Kalvar is devotedly read as a name of love: the Lord who steals into the heart of the devotee unseen, and takes it.",
-    "festivals": "The shrine keeps the calendar of the Ulagalantha Perumal Temple: Vaikunta Ekadashi, the annual Brahmotsavam with processions through the streets of Kanchipuram, and the recitation of the Divya Prabandham in the month of Margazhi. Confirm dates locally.",
-    "experience": "Thirukkarvanam is a place to linger over its name. Find the standing Kalvar Perumal in the second precinct, and ask the priests to point out the Gowri Thadagam and to tell the story of Parvati's remark. Combine the visit with the other three Divya Desams of the complex to make one slow circuit through four abodes of Vishnu."
+    "history": "तिरुक्कारवानम हे स्वतंत्र मंदिर नाही, तर पेरिया कांचीतील उलगळंद पेरुमाळ मंदिरातील एक दिव्य देशम आहे; तिरुऊरगम, तिरुनीरगम आणि तिरुक्करगम ज्या संकुलात आहेत तेच हे संकुल. या चारही मंदिरांचे पूर्वी स्वतंत्र अस्तित्व होते असे मानले जाते, आणि तिरुमंगै आळवारांच्या एका पदात चौघांचा एकत्र उल्लेख आहे. नालायिर दिव्य प्रबंधमातील आळवारांच्या पासुरमांतून या मंदिराचे जे चित्र परंपरेने जपले आहे ते असे: स्वामी कळ्वर आहेत, उभे, कमलवल्ली नाच्चियार यांच्यासह. यजमान मंदिर हे पल्लवांनी स्थापन केले असे मानले जाते, त्यात मध्ययुगीन चोळ, विजयनगर राजे आणि नायक यांनी नंतर भर घातली, आणि त्याचे व्यवस्थापन तमिळनाडू हिंदू धार्मिक व धर्मादाय विभागाकडे आहे. तोंडै नाडूतील १०८ दिव्य देशमपैकी ते एक आहे.",
+    "architecture": "हे मंदिर उलगळंद पेरुमाळ संकुलाच्या दुसऱ्या प्राकारात आहे. कळ्वर पेरुमाळ यांची उभ्या स्वरूपात पूजा होते, कमलवल्ली नाच्चियार यांच्यासह, ज्या तामरैयाळ, म्हणजे कमलाची स्वामिनी, या नावानेही ओळखल्या जातात. त्यांचा गाभारा पुष्कळ विमानाखाली उभा आहे, आणि पवित्र जल गौरी तटाकम आहे, ज्याला गौरी तीर्थही म्हणतात. मोठ्या तटबंदीयुक्त संकुलातील हा एक लहानसा गाभारा असून महान त्रिविक्रम गाभाऱ्यापासून चालत येथे पोहोचता येते.",
+    "legends": "परंपरा या मंदिराचा संबंध गौरी म्हणून ओळखल्या जाणाऱ्या पार्वतीशी जोडते; तिने येथे उपासना केली असे सांगितले जाते, आणि तळ्याला तिचेच नाव आहे. स्थलपुराण सांगते की पार्वतीने एकदा विष्णूंना आपले आणि लक्ष्मीचे संभाषण चोरून ऐकताना पाहिले, आणि त्यांना कळ्वन, म्हणजे गुपचूप येणारा, चोर असे संबोधले. कळ्वर हे नाव भक्तिभावाने प्रेमाचे नाव म्हणून समजले जाते: जे स्वामी भक्ताच्या हृदयात न दिसता शिरतात आणि ते हृदय हरण करतात.",
+    "festivals": "हे मंदिर उलगळंद पेरुमाळ मंदिराचे कालगणन पाळते: वैकुंठ एकादशी, कांचीपुरमच्या रस्त्यांतून मिरवणुकांसह वार्षिक ब्रह्मोत्सव, आणि मार्गळी महिन्यात दिव्य प्रबंधमचे पठण. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुक्कारवानम हे आपल्या नावावर रेंगाळण्यासारखे स्थान आहे. दुसऱ्या प्राकारात उभे कळ्वर पेरुमाळ शोधा, आणि पुजाऱ्यांना गौरी तटाकम दाखवण्यास आणि पार्वतीच्या उद्गाराची कथा सांगण्यास सांगा. संकुलातील इतर तीन दिव्य देशमना जोडून भेट केल्यास विष्णूंच्या चार निवासांतून एक संथ फेरी पूर्ण होते."
   },
   "visit": {
-    "timings": "The shrine opens with the Ulagalantha Perumal Temple: morning and evening darshan sessions with a midday closure. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
-    "gettingThere": "This is a shrine inside the Ulagalantha Perumal Temple in the old town of Kanchipuram (Periya Kanchi); enter by that temple's gateway and ask for Thirukkarvanam in the second precinct. Chennai, about 70 km to the north-east, is the nearest major airport, and Kanchipuram town is the nearest railhead."
+    "timings": "हे मंदिर उलगळंद पेरुमाळ मंदिराबरोबरच उघडते: सकाळी आणि संध्याकाळी दर्शनाच्या वेळा आणि दुपारी बंद. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गाभाऱ्यांत आणि त्यांच्या आसपास छायाचित्रणास निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "हे मंदिर कांचीपुरमच्या जुन्या शहरातील (पेरिया कांची) उलगळंद पेरुमाळ मंदिराच्या आत आहे; त्या मंदिराच्या प्रवेशद्वारातून आत जा आणि दुसऱ्या प्राकारातील तिरुक्कारवानमबद्दल विचारा. सुमारे ७० किमी ईशान्येकडील चेन्नई हे सर्वांत जवळचे मोठे विमानतळ असून कांचीपुरम शहर हे सर्वांत जवळचे रेल्वेस्थानक आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kalvar-thirukkarvanam.jpg",

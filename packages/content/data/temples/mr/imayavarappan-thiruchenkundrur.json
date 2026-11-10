@@ -1,36 +1,43 @@
 {
   "id": "imayavarappan-thiruchenkundrur",
   "locale": "mr",
+  "name": "इमयवरप्पन पेरुमाळ मंदिर, तिरुच्चेंगुंड्रूर",
   "nativeName": "ഇമയവരപ്പൻ പെരുമാൾ ക്ഷേത്രം, തിരുച്ചെങ്കുന്നൂർ",
+  "deity": "विष्णू इमयवरप्पन पेरुमाळ रूपात, उभे, देवी सेंगमलवल्ली तायार यांसह",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Chengannur",
-    "state": "Kerala",
+    "city": "चेंगन्नूर",
+    "state": "केरळ",
     "lat": 9.327,
     "lng": 76.604
   },
+  "period": "मलै नाडू (केरळ) चे दिव्य देशम्, नालायिर दिव्य प्रबंधम्मध्ये नम्माळ्वार यांनी गायलेले",
   "century": 8,
+  "dynasty": "प्राचीन मलै नाडू देवालय; त्रावणकोर देवस्वम् मंडळाद्वारे प्रशासित",
+  "style": "केरळ मंदिरशैली",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "pancha-pandava-temples"
   ],
+  "summary": "तिरुच्चेंगुंड्रूर येथे, केरळात चेंगन्नूरजवळ तिरुच्चिट्टाट्ट म्हणून ओळखल्या जाणाऱ्या स्थानी, विष्णू इमयवरप्पन म्हणून उभे आहेत — नम्माळ्वार यांनी गायलेले आणि परंपरेनुसार पांडव युधिष्ठिराशी निगडित असलेले मलै नाडूचे दिव्य देशम्.",
   "sections": {
-    "history": "Thiruchenkundrur, today better known as the Thrichittatt Maha Vishnu Temple, lies about two kilometres north-west of Chengannur in Alappuzha district. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and belongs to Malai Nadu, the Kerala country. Its presiding lord is Imayavarappan, who stands in the sanctum with Sengamalavalli Thayar as his consort. Nammalvar sang of the shrine in his Thiruvaimozhi. Inscriptions are said to place the structure somewhere between the eighth and twelfth centuries CE, and the temple is administered today by the Travancore Devaswom Board. Tradition counts it among the five Vishnu temples of the Chengannur country, each attributed to one of the Pandava brothers; this one is Yudhishthira’s.",
-    "architecture": "The sanctum is crowned by the Jagajjyoti vimana, and the temple’s sacred tank, the Sankha Theertham, lies to the right beyond the entrance arch. Within, Imayavarappan is worshipped standing, while the Goddess Sengamalavalli is honoured as his consort. The precinct is ordered in the manner of the Kerala temple, calm and inward-looking, with the tank and the sanctum as its two quiet centres of devotion.",
-    "legends": "Tradition holds that Yudhishthira, eldest of the Pandavas, did penance at this place for the half-truth about “Ashwatthama” that brought down his teacher Drona. The shrine is one of five around Chengannur that are each attributed to a Pandava: Thrichittatt to Yudhishthira, Puliyur to Bhima, Aranmula to Arjuna, Thiruvanvandoor to Nakula and Thrikodithanam to Sahadeva. Together they are remembered as the Pancha Pandava temples. The name Thrichittatt itself is traditionally linked with the river Chitraru.",
-    "festivals": "The temple keeps an annual utsavam in the manner of Kerala’s Vishnu temples, and observes Vaikunta Ekadashi, the most sacred day of the Vaishnava year, when devotees come in larger numbers. Exact festival dates follow the temple’s own calendar, so ask locally or check with the Devaswom office before planning a visit around them.",
-    "experience": "A quiet pilgrimage stop close to Chengannur, best combined with the other four Pandava-linked Vishnu temples of the area. Walk first to the Sankha Theertham, then enter for darshan of the standing Imayavarappan. Devotees who know Nammalvar’s Thiruvaimozhi may like to recall its verses here, in the very country the Alvar sang of."
+    "history": "तिरुच्चेंगुंड्रूर, आज अधिक परिचित असलेले तिरुच्चिट्टाट्ट महाविष्णू मंदिर, अलप्पुळा जिल्ह्यात चेंगन्नूरपासून सुमारे दोन किलोमीटर वायव्येस आहे. नालायिर दिव्य प्रबंधम्मध्ये आळ्वार संतांनी गायलेल्या विष्णूच्या १०८ दिव्य देशम्पैकी हे एक असून ते मलै नाडू, म्हणजे केरळ प्रदेशात मोडते. येथील अधिष्ठाते इमयवरप्पन असून ते गर्भगृहात सेंगमलवल्ली तायार या पत्नीसह उभे आहेत. नम्माळ्वार यांनी आपल्या तिरुवाय्मोळीत या देवालयाचे गायन केले. शिलालेख या रचनेला इसवी सनाच्या आठव्या ते बाराव्या शतकादरम्यान ठेवतात असे सांगितले जाते, आणि आज मंदिर त्रावणकोर देवस्वम् मंडळाद्वारे प्रशासित आहे. परंपरा चेंगन्नूर प्रदेशातील पाच विष्णू मंदिरांत याची गणना करते, प्रत्येक पांडव बंधूंपैकी एकाशी निगडित; हे युधिष्ठिराचे आहे.",
+    "architecture": "गर्भगृहावर जगज्ज्योती विमानाचा मुकुट आहे, आणि मंदिराचा पवित्र तलाव, शंख तीर्थम्, प्रवेशकमानापलीकडे उजवीकडे आहे. आत इमयवरप्पन उभे असताना पूजिले जातात, तर देवी सेंगमलवल्ली त्यांची पत्नी म्हणून पूजिली जाते. परिसर केरळ मंदिराच्या पद्धतीने रचलेला, शांत व अंतर्मुख आहे, ज्यात तलाव व गर्भगृह ही त्याची दोन शांत भक्तिकेंद्रे आहेत.",
+    "legends": "परंपरेनुसार पांडवांतील ज्येष्ठ युधिष्ठिराने आपल्या गुरू द्रोणाचा नाश घडवून आणणाऱ्या 'अश्वत्थामा'विषयीच्या अर्धसत्यासाठी या स्थानी तपश्चर्या केली. चेंगन्नूरभोवतीची पाच देवालये प्रत्येकी एका पांडवाशी निगडित आहेत: तिरुच्चिट्टाट्ट युधिष्ठिराशी, पुलियूर भीमाशी, आरण्मुळा अर्जुनाशी, तिरुवन्वंडूर नकुलाशी आणि तिरुकोडित्तानम् सहदेवाशी. एकत्रितपणे ती पंच पांडव मंदिरे म्हणून स्मरली जातात. तिरुच्चिट्टाट्ट हे नाव परंपरेनुसार चित्रारु नदीशी जोडले जाते.",
+    "festivals": "मंदिर केरळच्या विष्णू मंदिरांच्या पद्धतीने वार्षिक उत्सवम् पाळते, आणि वैष्णव वर्षाचा सर्वांत पवित्र दिवस वैकुंठ एकादशी पाळते, जेव्हा भाविक मोठ्या संख्येने येतात. नेमक्या सणांच्या तिथी मंदिराच्या स्वतःच्या पंचांगानुसार असतात, म्हणून त्यांभोवती भेटीचे नियोजन करण्यापूर्वी स्थानिक पातळीवर विचारा किंवा देवस्वम् कार्यालयात तपासा.",
+    "experience": "चेंगन्नूरजवळचा एक शांत तीर्थथांबा, जो परिसरातील अन्य चार पांडव-निगडित विष्णू मंदिरांसह पाहणे उत्तम. आधी शंख तीर्थम्कडे चालत जा, मग उभ्या इमयवरप्पनच्या दर्शनासाठी आत प्रवेश करा. नम्माळ्वार यांच्या तिरुवाय्मोळीची माहिती असणाऱ्या भाविकांना येथे, ज्या प्रदेशाचे आळ्वारांनी गायन केले त्याच प्रदेशात, त्याचे श्लोक स्मरण्यास आवडेल."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions, usually with a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is about 2 km north-west of Chengannur town in Alappuzha district; Chengannur railway station is the nearest, with autorickshaws and taxis for the short ride. Chengannur is linked by road to Kottayam, Pathanamthitta and Alappuzha; Thiruvananthapuram and Kochi are the usual airport gateways."
+    "timings": "दररोज सकाळ व संध्याकाळच्या दर्शनसत्रांसह उघडे, सहसा दुपारी बंद; सणांचे दिवस सर्वांत गर्दीचे. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर निश्चित करा.",
+    "dressCode": "साधी पारंपरिक वेशभूषा अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढली जातात. लावलेले नियम व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात व त्याच्या परिसरात छायाचित्रण मर्यादित आहे; लावलेले नियम व पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "हे मंदिर अलप्पुळा जिल्ह्यात चेंगन्नूर शहरापासून सुमारे २ किमी वायव्येस आहे; चेंगन्नूर रेल्वे स्थानक जवळचे असून लहान प्रवासासाठी ऑटोरिक्षा व टॅक्सी उपलब्ध आहेत. चेंगन्नूर कोट्टायम, पत्तनमतिट्टा व अलप्पुळा यांच्याशी रस्त्याने जोडलेले आहे; तिरुवनंतपुरम व कोची हे नेहमीचे विमानतळ प्रवेशमार्ग आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/imayavarappan-thiruchenkundrur.jpg",
     "color": "#5C3A2E",
-    "alt": "Imayavarappan Perumal Temple, Thiruchenkundrur",
+    "alt": "इमयवरप्पन पेरुमाळ मंदिर, तिरुच्चेंगुंड्रूर",
     "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)",
     "sources": {
       "avif": "https://media.dsquaregee.com/heroes/imayavarappan-thiruchenkundrur.avif",

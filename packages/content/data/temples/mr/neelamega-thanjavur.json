@@ -1,31 +1,38 @@
 {
   "id": "neelamega-thanjavur",
   "locale": "mr",
+  "name": "तंजै मामणि कोयिल (नीलमेघ पेरुमाळ मंदिर), तंजावूर",
   "nativeName": "தஞ்சை மாமணிக் கோயில், தஞ்சாவூர்",
+  "deity": "नीलमेघ पेरुमाळ रूपातील विष्णू, आसनस्थ, देवी सेंगमलवल्ली यांच्यासह — मणिकुंद्र पेरुमाळ आणि नरसिंह यांच्यासह, एकाच दिव्य देशमची तीन गर्भगृहे",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thanjavur",
-    "state": "Tamil Nadu",
+    "city": "तंजावूर",
+    "state": "तमिळनाडू",
     "lat": 10.8158,
     "lng": 79.1386
   },
+  "period": "वेण्णारूवरील चोळ प्रदेशातील एक दिव्य देशम; नालायिर दिव्य प्रबंधात तिरुमंगै आळ्वार, नम्माळ्वार आणि भूतत्ताळ्वार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "चोळ प्रदेश (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "kaveri-delta-temple-towns"
   ],
+  "summary": "तंजावूरच्या काठावर वेण्णारूवर, नीलमेघ पेरुमाळ, मणिकुंद्र पेरुमाळ आणि तंजै यालीचे नरसिंह ही तीन शेजारी गर्भगृहे एकच दिव्य देशम, तंजै मामणि कोयिल, म्हणून एकत्र पूजली जातात.",
   "sections": {
-    "history": "Thanjai Mamani Koil is one of the 108 Divya Desams and one of the shrines of Chola Nadu, and it is unusual among them: three neighbouring temples on the bank of the Vennaru, at the edge of Thanjavur, are counted together as a single sacred abode and are referred to together in the hymns. Three Alvars sang them — Thirumangai Alvar, Nammalvar and Bhoothathalvar — in five verses of the Nalayira Divya Prabandham, and the shrine is still called Thanjai Mamani Koil, the temple of the great jewel of Thanjai. The hymns place the shrine among the earliest sacred sites of the city whose name, tradition says, the lord himself bestowed.",
-    "architecture": "The three shrines stand close together on the river bank. In the first, Neelamega Perumal, the lord dark as a rain cloud, is seated facing east, with the Goddess Sengamalavalli in her own shrine; the temple also keeps shrines to Lakshmi Narasimha and Lakshmi Hayagriva, and a Yoga Narasimha in the front hall. The second is the small shrine of Manikundra Perumal with the Goddess Ambujavalli, and the third, Thanjai Yali Koil, enshrines Narasimha as Veera Narasimha.",
-    "legends": "The sthala purana tells that the sage Parasara did penance here, and that Neelamega Perumal and Sengamalavalli appeared before him. It tells too of the asura Thanjakan, who troubled the sages until Vishnu slew him; repenting at the last, he asked that the place bear his name — and so, tradition holds, it became Thanjai, Thanjavur. His companion, who took the form of an elephant, was overcome by the lord as Narasimha, remembered in the Thanjai Yali shrine.",
-    "festivals": "The temples keep the Vaishnava festivals of the year — Vaikunta Ekadashi foremost among them — together with the days of the Alvars whose hymns first sang these shrines. Processions pass between the three temples and along the Vennaru, joining the three shrines, as the hymns do, into one.",
-    "experience": "Most visitors to Thanjavur come for the great Chola temple of Shiva; few go on to the river bank where three Vishnu shrines make up a single Divya Desam. Allow time to visit all three, from Neelamega Perumal to Manikundra Perumal and the Narasimha shrine — together they are the jewel of Thanjai."
+    "history": "तंजै मामणि कोयिल हे १०८ दिव्य देशमांपैकी एक आणि चोळ नाडूतील गर्भगृहांपैकी एक आहे, आणि त्यांपैकी ते असामान्य आहे: तंजावूरच्या काठावर वेण्णारूच्या तीरावरील तीन शेजारी मंदिरे मिळून एकच पवित्र निवासस्थान मानली जातात आणि स्तोत्रांतही एकत्रितपणे त्यांचा उल्लेख होतो. तिरुमंगै आळ्वार, नम्माळ्वार आणि भूतत्ताळ्वार या तीन आळ्वारांनी नालायिर दिव्य प्रबंधातील पाच पदांमध्ये त्यांचे गायन केले, आणि हे गर्भगृह आजही तंजै मामणि कोयिल, म्हणजे तंजैच्या महान रत्नाचे मंदिर, म्हणून ओळखले जाते. परंपरेनुसार ज्या नगराचे नाव स्वतः प्रभूंनी दिले, त्याच्या सर्वांत प्राचीन पवित्र स्थळांमध्ये स्तोत्रे या गर्भगृहाची गणना करतात.",
+    "architecture": "तिन्ही गर्भगृहे नदीकाठी एकमेकांजवळ उभी आहेत. पहिल्यात, पावसाळी ढगासारखे सावळे प्रभू नीलमेघ पेरुमाळ पूर्वाभिमुख आसनस्थ आहेत, आणि देवी सेंगमलवल्ली स्वतःच्या गर्भगृहात आहेत; मंदिरात लक्ष्मी नरसिंह आणि लक्ष्मी हयग्रीव यांची गर्भगृहे, तसेच पुढील सभामंडपात योग नरसिंह आहेत. दुसरे म्हणजे देवी अंबुजवल्लीसह मणिकुंद्र पेरुमाळ यांचे लहान गर्भगृह, आणि तिसरे, तंजै यालि कोयिल, येथे नरसिंह वीर नरसिंह म्हणून प्रतिष्ठित आहेत.",
+    "legends": "स्थलपुराण सांगते की ऋषी पराशर यांनी येथे तपश्चर्या केली, आणि नीलमेघ पेरुमाळ व सेंगमलवल्ली त्यांच्यासमोर प्रकट झाले. ते असुर तंजकाविषयीही सांगते, जो विष्णूने त्याचा वध करेपर्यंत ऋषींना त्रास देत होता; अखेरीस पश्चात्ताप होऊन त्याने मागितले की या स्थानाला त्याचे नाव लाभावे — आणि म्हणून, परंपरेनुसार, ते तंजै, तंजावूर झाले. त्याचा सोबती, ज्याने हत्तीचे रूप घेतले होते, त्याला प्रभूंनी नरसिंह रूपात पराभूत केले, ज्याचे स्मरण तंजै यालि गर्भगृहात केले जाते.",
+    "festivals": "मंदिरे वर्षातील वैष्णव उत्सव पाळतात — त्यांत वैकुंठ एकादशी अग्रगण्य — तसेच ज्या आळ्वारांच्या स्तोत्रांनी प्रथम या गर्भगृहांचे गायन केले त्यांचे दिवसही. स्तोत्रांप्रमाणेच तिन्ही गर्भगृहांना एकरूप करत मिरवणुका तिन्ही मंदिरांदरम्यान आणि वेण्णारूच्या काठाने जातात.",
+    "experience": "तंजावूरला येणारे बहुतेक अभ्यागत शिवाच्या महान चोळ मंदिरासाठी येतात; थोडेच जण नदीकाठी जातात, जेथे तीन विष्णू गर्भगृहे मिळून एक दिव्य देशम बनतात. नीलमेघ पेरुमाळपासून मणिकुंद्र पेरुमाळ आणि नरसिंह गर्भगृहापर्यंत तिन्हींना भेट देण्यास वेळ ठेवा — ती एकत्रितपणे तंजैचे रत्न आहेत."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the three shrines may keep different hours, and Vaikunta Ekadashi is busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The three shrines stand on the bank of the Vennaru on the outskirts of Thanjavur, a short road journey from the town centre. Thanjavur Junction is the nearest railway station, and Tiruchirappalli the nearest airport, about 60 km away by road."
+    "timings": "सकाळ व संध्याकाळच्या दर्शन सत्रांसह दररोज उघडे, दुपारी काही काळ बंद; तिन्ही गर्भगृहांच्या वेळा वेगवेगळ्या असू शकतात, आणि वैकुंठ एकादशीला सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळांची खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "photography": "गर्भगृहात व त्याच्या आजूबाजूला छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करा.",
+    "gettingThere": "तिन्ही गर्भगृहे तंजावूरच्या बाहेरील भागात वेण्णारूच्या काठावर आहेत, शहराच्या मध्यभागापासून थोड्या रस्ता-प्रवासावर. तंजावूर जंक्शन हे जवळचे रेल्वे स्थानक आहे, आणि तिरुचिरापल्ली हे जवळचे विमानतळ रस्त्याने सुमारे ६० कि.मी. अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",

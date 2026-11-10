@@ -1,31 +1,38 @@
 {
   "id": "varadaraja-perumal-kanchipuram",
   "locale": "mr",
+  "name": "वरदराज पेरुमाळ मंदिर, कांचीपुरम",
   "nativeName": "வரதராஜ பெருமாள் கோயில், காஞ்சிபுரம்",
+  "deity": "वरदराज रूपातील विष्णू — वरदान देणारा राजा, हस्तगिरी टेकडीवर उभा",
+  "tradition": "वैष्णव (श्रीवैष्णव)",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "कांचीपुरम",
+    "state": "तमिळनाडू",
     "lat": 12.8195,
     "lng": 79.7284
   },
+  "period": "पल्लव आणि चोळ काळातील उगम; विजयनगर काळात भव्य मंडपांचा विस्तार",
   "century": 14,
+  "dynasty": "चोळ उगम, विजयनगर विस्तार",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "कांचीपुरमच्या विष्णू-भागात, हस्तगिरी या छोट्या टेकडीवरून वरदराज पेरुमाळ वरदान देणारा स्वामी म्हणून विराजमान आहे — दक्षिणेतील विष्णूच्या अग्रगण्य निवासस्थानांपैकी एक; येथील विजयनगर काळातील शंभर खांबांचा मंडप आणि चाळीस वर्षांतून एकदा मंदिराच्या तलावातून वर येणारी उंबराच्या लाकडाची मूर्ती यासाठी ते प्रसिद्ध आहे.",
   "sections": {
-    "history": "The Varadaraja Perumal temple is the great Vishnu shrine of Kanchipuram, standing in the eastern part of the city long known as Vishnu Kanchi. It is counted among the 108 Divya Desams sung by the Alvar poet-saints, and tradition ranks it with Srirangam and Tirumala among the holiest Vaishnava shrines of the south. Its origins reach into the Pallava age, and it grew under Chola patronage before the Vijayanagara emperors raised its most celebrated structures in the fourteenth to sixteenth centuries. The temple is bound to the memory of Ramanuja, the eleventh-century teacher of Vishishtadvaita, who lived and worshipped in Kanchipuram, and it remains one of the living centres of Sri Vaishnava devotion.",
-    "architecture": "The temple is built on and around Hastagiri, the small 'elephant hill', with the sanctum of Varadaraja raised upon it and reached by a flight of steps. The vast walled complex is entered through towering gopurams and encloses the temple tank, the Ananta Saras. Its supreme artistic treasure is the hundred-pillared marriage hall of the Vijayanagara period, whose piers are carved with rearing horses and warriors and chained stone rings cut from single blocks — among the finest sculpture of that age in the Tamil country. On the ceiling near the sanctum are the famous gold and silver lizards that pilgrims reach up to touch. Everything is worked in the mature Dravidian manner of pillared halls, sculptured mandapas and elemental stone.",
-    "legends": "The temple's founding legend tells that Brahma performed a great horse sacrifice, the Ashwamedha, on this spot to bring Vishnu before him, and that the lord appeared as Varadaraja, the giver of boons, rising from the sacrificial fire on the hill of Hastagiri. The original image of the deity was carved from the wood of the sacred fig, the athi tree, and is called Athi Varadar. For its protection this fig-wood form is kept submerged in the temple tank and is brought out for worship only once in forty years, an event that draws immense crowds; the stone Varadaraja receives the daily worship in the meantime. The name Varada means simply 'the one who grants' — the god who answers the devotee's every prayer.",
-    "festivals": "The temple's calendar turns on the Brahmotsavam in the Tamil month of Vaikasi, when Varadaraja is carried in procession on a succession of great vehicles, including the garuda vahana that draws the largest gathering. Vaikunta Ekadasi in the cool season, the float festival on the Ananta Saras, and the observances of the Sri Vaishnava tradition fill the year. Rarest of all is the once-in-forty-years descent, when the Athi Varadar is lifted from the tank and displayed for weeks and the whole city turns out to see the fig-wood lord.",
-    "experience": "A visit to Varadaraja completes the pilgrim's Kanchipuram, joining the great Shiva and Goddess temples of the city with its foremost abode of Vishnu. The climb to the hilltop sanctum, the shaded immensity of the hundred-pillared hall and the search for the little lizards on the ceiling make the temple a place to linger. Kanchipuram, famed also for its silk, lies an easy journey inland from Chennai and pairs naturally with the coastal Pallava monuments of Mahabalipuram."
+    "history": "वरदराज पेरुमाळ मंदिर हे कांचीपुरमचे महान विष्णू मंदिर असून ते शहराच्या पूर्व भागात आहे, जो भाग फार पूर्वीपासून विष्णू कांची म्हणून ओळखला जातो. आळवार संतकवींनी गायलेल्या १०८ दिव्य देशांमध्ये त्याची गणना होते, आणि परंपरा त्याला श्रीरंगम आणि तिरुमला यांच्या बरोबरीने दक्षिणेतील सर्वांत पवित्र वैष्णव क्षेत्रांमध्ये स्थान देते. याचा उगम पल्लव काळापर्यंत पोहोचतो; चोळांच्या आश्रयाखाली ते वाढले आणि नंतर विजयनगरच्या सम्राटांनी चौदाव्या ते सोळाव्या शतकांत याच्या सर्वांत प्रसिद्ध वास्तू उभारल्या. हे मंदिर अकराव्या शतकातील विशिष्टाद्वैताचे आचार्य रामानुज यांच्या स्मृतीशी जोडलेले आहे, जे कांचीपुरम येथे राहिले आणि उपासना करीत असत; आजही ते श्रीवैष्णव भक्तीच्या जिवंत केंद्रांपैकी एक आहे.",
+    "architecture": "हे मंदिर हस्तगिरी म्हणजेच छोट्या 'हत्ती-टेकडी'वर आणि तिच्याभोवती बांधलेले आहे; वरदराजाचे गर्भगृह तिच्यावर उंचावलेले असून पायऱ्यांच्या मार्गाने तिथे जाता येते. तटबंदीयुक्त विशाल परिसरात उत्तुंग गोपुरांमधून प्रवेश होतो आणि त्यात मंदिराचा तलाव, अनंत सरस्, आहे. याचा सर्वोच्च कलात्मक ठेवा म्हणजे विजयनगर काळातील शंभर खांबांचा विवाह-मंडप; त्याचे स्तंभ उधळलेले घोडे आणि योद्धे यांनी कोरलेले असून एकाच शिळेतून कापलेल्या साखळीबद्ध दगडी कड्या त्यावर आहेत — तमिळ प्रदेशातील त्या काळातील सर्वोत्कृष्ट शिल्पांपैकी ही शिल्पे आहेत. गर्भगृहाजवळील छतावर सोन्या-चांदीच्या प्रसिद्ध पाली आहेत, ज्यांना भाविक हात उंचावून स्पर्श करतात. सर्व काही स्तंभयुक्त सभामंडप, शिल्पांकित मंडप आणि मूलभूत दगड यांच्या प्रगल्भ द्रविड शैलीत घडवलेले आहे.",
+    "legends": "मंदिराची स्थापनेची कथा सांगते की ब्रह्मदेवाने विष्णूला आपल्यासमोर आणण्यासाठी याच ठिकाणी अश्वमेध हा महान अश्वयज्ञ केला, आणि हस्तगिरी टेकडीवर यज्ञाग्नीतून वर येत स्वामी वरदराज, वरदान देणारा, म्हणून प्रकट झाला. देवाची मूळ मूर्ती पवित्र उंबराच्या — अत्ती वृक्षाच्या — लाकडातून कोरलेली होती आणि तिला अत्ती वरदर म्हणतात. तिच्या संरक्षणासाठी हे उंबराच्या लाकडाचे रूप मंदिराच्या तलावात बुडवून ठेवले जाते आणि चाळीस वर्षांतून एकदाच पूजेसाठी बाहेर काढले जाते; तो प्रसंग प्रचंड गर्दी खेचतो. त्या दरम्यान दगडी वरदराजाची दैनंदिन पूजा होते. वरद या नावाचा अर्थ फक्त 'देणारा' असा आहे — भक्ताच्या प्रत्येक प्रार्थनेला उत्तर देणारा देव.",
+    "festivals": "मंदिराचे कालगणन वैकासी या तमिळ महिन्यातील ब्रह्मोत्सवाभोवती फिरते; त्यावेळी वरदराजाची मिरवणूक एकापाठोपाठ एक अशा भव्य वाहनांवर निघते, त्यांत गरुडवाहनावर सर्वाधिक गर्दी जमते. थंडीच्या ऋतूतील वैकुंठ एकादशी, अनंत सरस्वरील तराफा उत्सव आणि श्रीवैष्णव परंपरेतील विधी वर्षभर चालतात. सर्वांत दुर्मिळ म्हणजे चाळीस वर्षांतून एकदा होणारे अवतरण, जेव्हा अत्ती वरदराला तलावातून वर काढून अनेक आठवडे दर्शनासाठी ठेवले जाते आणि उंबराच्या लाकडाच्या स्वामींना पाहण्यासाठी संपूर्ण शहर लोटते.",
+    "experience": "वरदराजाचे दर्शन यात्रेकरूंची कांचीपुरम यात्रा पूर्ण करते; ते शहरातील महान शिव आणि देवी मंदिरांना विष्णूच्या अग्रगण्य निवासस्थानाशी जोडते. टेकडीवरील गर्भगृहापर्यंतची चढण, शंभर खांबांच्या मंडपाची सावलीतील भव्यता आणि छतावरील छोट्या पालींचा शोध यांमुळे हे मंदिर रेंगाळण्यासारखे ठिकाण ठरते. रेशमासाठीही प्रसिद्ध असलेले कांचीपुरम चेन्नईपासून आतल्या बाजूला सहज प्रवासाच्या अंतरावर आहे आणि महाबलीपुरमच्या किनारी पल्लव स्मारकांशी त्याची जोड नैसर्गिकपणे जुळते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. As a living temple, respectful conduct is asked of all visitors.",
-    "photography": "Photography is restricted, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kanchipuram is in Tamil Nadu, about 75 km from Chennai and well connected by road and rail; the temple is in the eastern Vishnu Kanchi quarter and easily reached by local transport."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शन सत्रांसह उघडे असते आणि मध्यान्हीला दीर्घकाळ बंद असते; उत्सवाचे दिवस सर्वांत गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. जिवंत मंदिर असल्याने सर्व अभ्यागतांकडून आदरपूर्ण वर्तनाची अपेक्षा आहे.",
+    "photography": "छायाचित्रणावर निर्बंध आहेत, विशेषतः गर्भगृहात आणि त्याच्या भोवताली; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "कांचीपुरम तमिळनाडूमध्ये चेन्नईपासून सुमारे ७५ किमी अंतरावर असून रस्ता आणि रेल्वेने चांगले जोडलेले आहे; मंदिर पूर्वेकडील विष्णू कांची भागात आहे आणि स्थानिक वाहतुकीने सहज पोहोचता येते."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.jpg",

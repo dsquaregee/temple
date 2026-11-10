@@ -1,30 +1,37 @@
 {
   "id": "sreevallabha-thiruvalla",
   "locale": "mr",
+  "name": "श्रीवल्लभ मंदिर, तिरुवल्ला",
   "nativeName": "തിരുവല്ല ശ്രീവല്ലഭ മഹാക്ഷേത്രം",
+  "deity": "विष्णू श्रीवल्लभ रूपात, 'श्रीचा प्रिय' — स्तोत्रांतील कोलप्पिरान — चतुर्भुज रूपात उभा",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Thiruvalla, Pathanamthitta district",
-    "state": "Kerala",
+    "city": "तिरुवल्ला, पथनमथिट्टा जिल्हा",
+    "state": "केरळ",
     "lat": 9.374,
     "lng": 76.562
   },
+  "period": "मलै नाडूमधील एक दिव्य देशम, नालायिर दिव्य प्रबंधमध्ये नम्माळवार आणि तिरुमंगै आळवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "चेर पेरुमाळ (केरळच्या नंतरच्या आश्रयदात्यांसह)",
+  "style": "केरळ",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुवल्ला येथे विष्णूची श्रीवल्लभ, लक्ष्मीचा प्रिय, म्हणून उपासना होते — नम्माळवार आणि तिरुमंगै आळवार यांनी गायिलेला मलै नाडूमधील दिव्य देशम, जिथे कथकळी स्वामींना उपासना म्हणून अर्पण केली जाते.",
   "sections": {
-    "history": "Thiruvalla — the Thiruvalvazh of the hymns — is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and a principal shrine of Malai Nadu; Nammalvar and Thirumangai Alvar both sang its lord, whom they called Kolappiran, 'the lord of beauty'. The temple's medieval importance is recorded in the Thiruvalla copper plates, a long grant of the Chera era that sets out lands and endowments for its worship. The town grew up around the shrine, and Sreevallabha remained at the heart of its life through the centuries of the Kerala kingdoms that followed.",
-    "architecture": "Built in the Kerala manner, the temple gathers its sanctum (srikovil) within the nalambalam cloister and a broad walled compound. Before it rises a tall Garuda pillar carved from a single stone and crowned by the figure of Garuda, Vishnu's eagle mount — one of the temple's great landmarks. Murals adorn the walls of the sanctum, and a Kathakali stage stands before the eastern entrance.",
-    "legends": "The sthala purana tells of a devout woman who kept the Ekadashi vow faithfully and longed to feed a brahmachari when it ended. The asura Thukalasura troubled the land, and Vishnu sent his discus Sudarshana to destroy him; then the lord himself came in the form of a young brahmachari to accept her offering. The god who came for love of a devotee of Sri is honoured here as Sreevallabha, and the discus Sudarshana, in the lord's raised hand, recalls the weapon that set the land free.",
-    "festivals": "The annual utsavam is celebrated with flag hoisting and processions, and Vaikunta Ekadashi draws devotees from across central Travancore. Kathakali performances, staged almost daily before the eastern entrance and offered as worship by devotees are a living part of the temple's ritual life, and on festival nights the drums and lamps of the dance-drama carry on long into the dark.",
-    "experience": "Arrive in the evening if you can, when the lamps are lit around the compound and a Kathakali performance may be offered to the lord. Spend a moment before the great Garuda pillar, look for the murals around the sanctum, and recall the Alvars who sang the beauty of Kolappiran in Tamil far from this Malayalam-speaking town."
+    "history": "तिरुवल्ला — स्तोत्रांतील तिरुवल्वाळ — हे १०८ दिव्य देशमांपैकी एक आहे, नालायिर दिव्य प्रबंधमध्ये आळवारांनी गायिलेली विष्णूची निवासस्थाने, आणि मलै नाडूमधील प्रमुख देवालय; नम्माळवार आणि तिरुमंगै आळवार दोघांनीही येथील स्वामीचे गायन केले, ज्याला त्यांनी कोलप्पिरान, 'सौंदर्याचा स्वामी', म्हटले. मंदिराचे मध्ययुगीन महत्त्व तिरुवल्ला ताम्रपटांत नोंदलेले आहे, चेर काळातील एका दीर्घ दानपत्रात, जे त्याच्या उपासनेसाठी जमिनी आणि देणग्या नमूद करते. नगर देवालयाभोवती वाढले, आणि त्यानंतरच्या केरळ राज्यांच्या शतकांतही श्रीवल्लभ त्याच्या जीवनाच्या केंद्रस्थानी राहिला.",
+    "architecture": "केरळ शैलीत बांधलेल्या या मंदिरात गर्भगृह (श्रीकोविल) नालंबलम् प्रदक्षिणा मार्गात आणि विस्तीर्ण भिंतीबंद आवारात सामावलेले आहे. त्यासमोर एका अखंड दगडात घडवलेला आणि विष्णूचे गरुड-वाहन असलेल्या गरुडाच्या मूर्तीने मुकुटित असा उंच गरुड स्तंभ उभा आहे — मंदिराच्या महान खुणांपैकी एक. गर्भगृहाच्या भिंतींवर भित्तिचित्रे आहेत, आणि पूर्व प्रवेशद्वारासमोर कथकळी रंगमंच उभा आहे.",
+    "legends": "स्थलपुराण एका भक्तिमान स्त्रीची कथा सांगते, जिने एकादशीचे व्रत निष्ठेने पाळले आणि व्रत संपल्यावर एका ब्रह्मचाऱ्याला भोजन देण्याची तिची इच्छा होती. तुकलासुर असुर देशाला त्रास देत होता, आणि विष्णूने त्याचा नाश करण्यासाठी आपले सुदर्शन चक्र पाठविले; मग स्वामी स्वतः तरुण ब्रह्मचाऱ्याच्या रूपात तिचा नैवेद्य स्वीकारण्यास आला. श्रीच्या एका भक्तावरील प्रेमापोटी आलेल्या देवाला येथे श्रीवल्लभ म्हणून गौरविले जाते, आणि स्वामींच्या उंचावलेल्या हातातील सुदर्शन चक्र देशाला मुक्त करणाऱ्या शस्त्राची आठवण करून देते.",
+    "festivals": "वार्षिक उत्सवम ध्वजारोहण आणि मिरवणुकांसह साजरा होतो, आणि वैकुंठ एकादशी मध्य त्रावणकोरभरातून भाविकांना आणते. पूर्व प्रवेशद्वारासमोर जवळजवळ दररोज सादर होणारे आणि भाविकांनी उपासना म्हणून अर्पण केलेले कथकळी प्रयोग मंदिराच्या जिवंत धार्मिक जीवनाचा भाग आहेत, आणि उत्सवाच्या रात्री या नृत्य-नाट्याचे ढोल आणि दिवे अंधार दाटेपर्यंत चालू राहतात.",
+    "experience": "शक्य असेल तर सायंकाळी या, जेव्हा आवारात दिवे लावलेले असतात आणि स्वामींना कथकळी प्रयोग अर्पण केला जात असेल. भव्य गरुड स्तंभासमोर क्षणभर थांबा, गर्भगृहाभोवतीची भित्तिचित्रे शोधा, आणि या मल्याळम भाषिक गावापासून दूर, तमिळमध्ये कोलप्पिरानच्या सौंदर्याचे गान करणाऱ्या आळवारांचे स्मरण करा."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure, following the temple's own schedule; festival days are crowded. Confirm current timings locally before you visit.",
-    "dressCode": "Traditional dress is expected: by Kerala temple custom men usually enter bare-chested in a mundu or dhoti, and women in saree or other traditional dress; footwear is left outside. Follow posted rules and the guidance of temple staff.",
-    "photography": "Photography is not permitted in and around the sanctum; follow posted rules and the guidance of temple staff.",
-    "gettingThere": "The temple is in Thiruvalla town, Pathanamthitta district. Thiruvalla railway station lies on the Ernakulam–Kottayam–Kollam line, the town is on the Main Central (MC) Road, and Kochi and Thiruvananthapuram have the nearest airports."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शनासह खुले असते, दुपारी बंद असते, मंदिराच्या स्वतःच्या वेळापत्रकानुसार; उत्सवाच्या दिवशी गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्याव्यात.",
+    "dressCode": "पारंपरिक पोशाख अपेक्षित आहे: केरळच्या मंदिर प्रथेनुसार पुरुष सहसा मुंडू किंवा धोतर नेसून उघड्या छातीने प्रवेश करतात, आणि स्त्रिया साडी किंवा इतर पारंपरिक पोशाखात; पादत्राणे बाहेर ठेवावीत. लावलेले नियम आणि मंदिर कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणास परवानगी नाही; लावलेले नियम आणि मंदिर कर्मचाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "मंदिर तिरुवल्ला शहरात, पथनमथिट्टा जिल्ह्यात आहे. तिरुवल्ला रेल्वे स्थानक एर्नाकुलम–कोट्टायम–कोल्लम मार्गावर आहे, शहर मुख्य मध्य (एमसी) रस्त्यावर आहे, आणि कोची व तिरुवनंतपुरम येथे सर्वात जवळची विमानतळे आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sreevallabha-thiruvalla.jpg",

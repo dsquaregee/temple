@@ -1,30 +1,37 @@
 {
   "id": "triprayar-rama",
   "locale": "mr",
+  "name": "त्रिप्रयार श्रीराम मंदिर",
   "nativeName": "തൃപ്രയാർ ശ്രീരാമസ്വാമി ക്ഷേത്രം",
+  "deity": "राम रूपातील विष्णू, श्रीरामस्वामी म्हणून पूजले जाणारे, चतुर्भुज त्रिप्रयार तेवर",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Triprayar",
-    "state": "Kerala",
+    "city": "त्रिप्रयार",
+    "state": "केरळ",
     "lat": 10.4142,
     "lng": 76.1155
   },
+  "period": "परंपरेनुसार प्राचीन; कालिकतचे झामोरिन आणि नंतर कोचीनचे राज्यकर्ते यांच्या अधिपत्याखाली",
   "century": 17,
+  "dynasty": "केरळ (झामोरिन आणि कोचीन यांचे आश्रय)",
+  "style": "केरळची शास्त्रीय शैली",
   "unesco": false,
   "circuits": [
     "nalambalam"
   ],
+  "summary": "केरळच्या किनाऱ्याजवळ तीव्रा नदीच्या तीरावर, त्रिप्रयारचा चतुर्भुज राम हा नालंबलम यात्रेतील पहिले मंदिर आणि प्राचीन आरट्टुपुळा पूरमचा अधिष्ठाता प्रभू आहे.",
   "sections": {
-    "history": "Triprayar's beginnings belong to tradition rather than record. The image of Rama is said to have been worshipped by Krishna himself at Dwaraka; when that city sank beneath the sea, the waters carried it to the Kerala shore near Chettuva, where fishermen drew it up together with images of Rama's three brothers. The local chieftain Vakkayil Kaimal, guided by an astrological consultation, installed the four in separate shrines: Rama here at Triprayar, Bharata at Irinjalakuda, Lakshmana at Moozhikkulam and Shatrughna at Payammal — the four temples that make up the Nalambalam. In historical times the temple lay within the domain of the Zamorins of Calicut, passed through the hands of the Dutch and the Mysore sultans, and came at last to the rulers of Cochin. It is administered today by the Cochin Devaswom Board.",
-    "architecture": "Triprayar is built in the Kerala manner, low and enclosed beside the river. Its sanctum is a circular srikovil beneath a conical roof sheathed in copper, and the temple is celebrated above all for its woodwork: carvings on the sanctum walls tell episodes of the Ramayana, and the copper-roofed namaskara mandapam before the shrine carries twenty-four carved wooden panels, among them the nine planetary deities. Within, Rama stands four-armed, bearing the conch, the discus, the bow and a garland — a form that shows him at once as Vishnu and as the warrior-prince of the epic.",
-    "legends": "Devotion holds that the image shows Rama just after he slew the demon Khara in the Dandaka forest, so that a trace of fierce power still clings to the Lord here. Hanuman is believed to be present though no image of him stands in the temple, and tradition marks a spot in the precinct with his arrival bearing news of Sita. Chathan, a guardian spirit, is also bound up with the shrine, and the offering called Chathan Bhandaram is made to ward off evil influences. Most charming is Meenoottu, in which devotees feed the fish of the river beside the temple as an offering to Rama.",
-    "festivals": "Ekadashi in the Malayalam month of Vrishchikam (November–December) is Triprayar's own great day, when Rama goes out in stately procession with elephants. In Meenam (March–April), Thriprayar Thevar travels to the Arattupuzha Pooram, where he presides over the gathering of deities from the surrounding villages, one of the oldest temple festivals in Kerala. In Karkidakam (July–August) the Nalambalam pilgrimage begins here. Confirm dates locally.",
-    "experience": "Triprayar is a quiet, river-bound temple, and the slow curve of the Theevra past its walls sets the mood. In Karkidakam the precinct fills before dawn with Nalambalam pilgrims eager to begin their round, many reciting the Ramayana as they wait. At other times it is unhurried: pause at the water's edge, where families feed the fish, and look closely at the carved panels of the namaskara mandapam before moving on."
+    "history": "त्रिप्रयारची सुरुवात नोंदींपेक्षा परंपरेशी निगडित आहे. रामाची मूर्ती द्वारकेत स्वतः कृष्णाने पूजली होती असे सांगितले जाते; ते नगर समुद्रात बुडाले तेव्हा लाटांनी ती केरळच्या किनाऱ्यावर चेट्टुवाजवळ आणली, जिथे कोळ्यांनी रामाच्या तीन बंधूंच्या मूर्तींसह ती वर काढली. स्थानिक सरदार वक्कायिल कैमल यांनी ज्योतिषी सल्ल्याच्या मार्गदर्शनाने चारही मूर्ती वेगवेगळ्या मंदिरांत स्थापिल्या: राम येथे त्रिप्रयार येथे, भरत इरिंजालकुडा येथे, लक्ष्मण मूळिक्कुळम येथे आणि शत्रुघ्न पायम्मळ येथे — ही चार मंदिरे मिळून नालंबलम होते. ऐतिहासिक काळात मंदिर कालिकतच्या झामोरिनांच्या अधिपत्याखाली होते, डच आणि म्हैसूरच्या सुलतानांच्या हातून गेले आणि शेवटी कोचीनच्या राज्यकर्त्यांकडे आले. आज त्याचे व्यवस्थापन कोचीन देवस्वम मंडळ करते.",
+    "architecture": "त्रिप्रयार केरळच्या पद्धतीने बांधलेले आहे, नदीकाठी खालच्या उंचीचे आणि बंदिस्त. त्याचा गाभारा तांब्याने आच्छादलेल्या शंकूच्या आकाराच्या छताखालील वर्तुळाकार श्रीकोविल आहे, आणि मंदिर सर्वांत जास्त त्याच्या काष्ठकामासाठी प्रसिद्ध आहे: गाभाऱ्याच्या भिंतींवरील कोरीवकाम रामायणातील प्रसंग सांगते, आणि मंदिरासमोरील तांब्याचे छप्पर असलेल्या नमस्कार मंडपावर चोवीस कोरीव लाकडी फलक आहेत, ज्यांत नऊ ग्रहदेवता आहेत. आत राम चार हातांनी उभे आहेत, शंख, चक्र, धनुष्य आणि माला धारण करून — हे रूप त्यांना एकाच वेळी विष्णू आणि महाकाव्यातील योद्धा राजपुत्र म्हणून दाखवते.",
+    "legends": "भक्तांची श्रद्धा आहे की ही मूर्ती रामाने दंडकारण्यात खर राक्षसाचा वध केल्यानंतरचे रूप दर्शवते, म्हणून येथे प्रभूमध्ये उग्र शक्तीचा अंश अजूनही आहे. हनुमान उपस्थित असल्याचे मानले जाते, तरी मंदिरात त्यांची मूर्ती नाही, आणि परंपरा परिसरातील एका जागेवर, सीतेची वार्ता घेऊन त्यांच्या आगमनाची खूण दाखवते. चात्तन हा रक्षक आत्मा देखील या क्षेत्राशी जोडलेला आहे, आणि वाईट प्रभाव दूर ठेवण्यासाठी चात्तन भंडारम नावाचे अर्पण केले जाते. सर्वांत मनोहर म्हणजे मीनूट्टु, ज्यात भक्त मंदिराशेजारील नदीतील माशांना रामाला अर्पण म्हणून खायला घालतात.",
+    "festivals": "मल्याळम वृश्चिकम महिन्यातील (नोव्हेंबर–डिसेंबर) एकादशी हा त्रिप्रयारचा स्वतःचा मोठा दिवस आहे, जेव्हा राम हत्तींसह भव्य मिरवणुकीत बाहेर पडतात. मीनम महिन्यात (मार्च–एप्रिल) त्रिप्रयार तेवर आरट्टुपुळा पूरमला जातात, जिथे ते आसपासच्या गावांतील देवतांच्या मेळाव्याचे अधिष्ठाते असतात; हा केरळमधील सर्वांत जुन्या मंदिर उत्सवांपैकी एक आहे. कर्किडकम महिन्यात (जुलै–ऑगस्ट) नालंबलम यात्रा येथून सुरू होते. तारखा स्थानिक पातळीवर तपासा.",
+    "experience": "त्रिप्रयार हे शांत, नदीकाठचे मंदिर आहे, आणि त्याच्या भिंतींपलीकडून वाहणारे तीव्रा नदीचे संथ वळण वातावरण घडवते. कर्किडकममध्ये नालंबलम यात्रेकरू आपली फेरी सुरू करण्यास उत्सुक असल्याने परिसर पहाटेपूर्वीच भरून जातो, आणि अनेक जण वाट पाहताना रामायणाचे पठण करतात. इतर वेळी तो संथ असतो: पाण्याच्या काठावर थांबा, जिथे कुटुंबे माशांना खायला घालतात, आणि पुढे जाण्यापूर्वी नमस्कार मंडपाचे कोरीव फलक नीट न्याहाळा."
   },
   "visit": {
-    "timings": "Open daily from early morning with a midday closure, and again in the evening; hours are extended during Karkidakam for Nalambalam pilgrims. Confirm timings locally.",
-    "dressCode": "Traditional Kerala temple dress applies: men wear a mundu (dhoti) and remove their shirts before entering; women wear a saree, set-mundu or churidar. Entry is generally reserved for Hindus, per Kerala custom.",
-    "photography": "Photography is not permitted inside the temple; the riverside and outer surroundings may be photographed.",
-    "gettingThere": "Triprayar lies on the coastal highway (NH 66) in Thrissur district, about 25 km south-west of Thrissur, which has the nearest major railway station; Kochi international airport is roughly 60 km away by road. The Nalambalam round continues south to Irinjalakuda, about 20 km away."
+    "timings": "दररोज पहाटेपासून दुपारच्या बंदसह उघडे असते, आणि संध्याकाळी पुन्हा; कर्किडकममध्ये नालंबलम यात्रेकरूंसाठी वेळा वाढवल्या जातात. वेळा स्थानिक पातळीवर तपासा.",
+    "dressCode": "केरळच्या पारंपरिक मंदिर पोशाखाचा नियम लागू आहे: पुरुष मुंडू (धोतर) नेसतात आणि आत जाण्यापूर्वी शर्ट काढतात; स्त्रिया साडी, सेट-मुंडू किंवा चुडीदार घालतात. केरळच्या प्रथेप्रमाणे प्रवेश सामान्यतः हिंदूंसाठी राखीव आहे.",
+    "photography": "मंदिरात छायाचित्रणास परवानगी नाही; नदीकाठ आणि बाहेरील परिसराचे छायाचित्र घेता येते.",
+    "gettingThere": "त्रिप्रयार त्रिशूर जिल्ह्यात किनारी महामार्गावर (राष्ट्रीय महामार्ग ६६) आहे, त्रिशूरच्या नैऋत्येस सुमारे २५ किमी, जिथे सर्वात जवळचे मोठे रेल्वे स्थानक आहे; कोची आंतरराष्ट्रीय विमानतळ रस्त्याने सुमारे ६० किमी दूर आहे. नालंबलम फेरी दक्षिणेकडे इरिंजालकुडापर्यंत चालू राहते, जे सुमारे २० किमी अंतरावर आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/triprayar-rama.jpg",

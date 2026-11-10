@@ -1,4 +1,4 @@
-export const LOCALES = ['en', 'ta', 'te', 'kn', 'ml', 'hi', 'bn'] as const;
+export const LOCALES = ['en', 'ta', 'te', 'kn', 'ml', 'hi', 'bn', 'mr'] as const;
 export type Locale = (typeof LOCALES)[number];
 
 export interface TempleLocation {

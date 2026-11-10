@@ -1,29 +1,36 @@
 {
   "id": "kailasanathar-senthapoomangalam",
   "locale": "mr",
+  "name": "कैलासनाथर मंदिर, सेन्दपूमंगलम",
   "nativeName": "கைலாசநாதர் கோயில், சேர்ந்தபூமங்கலம்",
+  "deity": "कैलासनाथर रूपातील शिव, देवी सौंदरनायकी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Senthapoomangalam",
-    "state": "Tamil Nadu",
+    "city": "सेन्दपूमंगलम",
+    "state": "तमिळनाडू",
     "lat": 8.611,
     "lng": 78.101
   },
+  "period": "नव कैलासमपैकी नववे आणि शेवटचे, शुक्र ग्रहाचे मंदिर; तामिरपरणीच्या मुखाजवळील पांड्यकालीन मंदिर",
   "century": 13,
+  "dynasty": "पांड्य",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "nava-kailasam"
   ],
+  "summary": "आतूरजवळ, जेथे तामिरपरणी नदी समुद्रात आपला प्रवास संपवते, तेथे सेन्दपूमंगलम येथे कैलासनाथर रूपातील शिव नव कैलासमपैकी नववे आणि शेवटचे स्थान सांभाळतात — शुक्रन, म्हणजे शुक्र ग्रहाचे मंदिर.",
   "sections": {
-    "history": "Senthapoomangalam, also written Serndhapoomangalam, is a village about two kilometres east of Athur on the Thoothukudi–Tiruchendur road, close to the point where the Tamiraparani, having risen in the Pothigai hills, meets the sea at Punnakayal. Its Kailasanathar temple closes the Nava Kailasam as the ninth shrine and the seat of Sukran, the planet Venus. Who built it is not certain. The temple has separate shrines for Chokkanathar and Meenakshi, the deities of Madurai, which has led to the suggestion that it was raised by a Madurai Pandya — a Kulasekhara Pandya, or Maravarman Sundara Pandya I in the thirteenth century.",
-    "architecture": "The temple is entered by two gateways rather than one, an unusual plan for a village shrine. Within are the sanctum of Kailasanathar and the shrine of the Goddess Soundara Nayaki, along with the Madurai pair of Chokkanathar and Meenakshi in their own shrines. A Navagraha mandapam honours the nine planets, Sukran foremost among them here. The temple tank is the Thamira Pushkarani, and the vilvam, the bael tree sacred to Shiva, is the sthala vriksham.",
-    "legends": "In the Nava Kailasam story, Romasa, the disciple of Agastya, set nine lotuses afloat on the Tamiraparani, and the ninth and last drifted almost to the sea before it came to rest here, completing the chain of nine shrines. The village's name is popularly read as a memory of that moment — serndha poo, \"where the flower arrived\". As the shrine of Sukran, the planet of beauty, comfort and harmony in marriage, it is visited by those seeking relief from an afflicted Venus in their horoscopes.",
-    "festivals": "Devotees offer white cloth and white lotuses to Sukran in the Navagraha mandapam, especially on Fridays, the day of Venus. Special worship is held on the new-moon days of the Tamil months of Aadi and Thai, on the monthly pradosham and on Maha Shivaratri. Confirm dates locally.",
-    "experience": "Reaching Senthapoomangalam means reaching the end of the river's pilgrimage: the Tamiraparani that began the circuit at Papanasam in the hills is here broad and slow, a few kilometres from the sea. Many pilgrims time their round so that this last shrine, with its offering of white lotuses, closes the journey."
+    "history": "सेन्दपूमंगलम, ज्याचे सेर्न्दपूमंगलम असेही लेखन केले जाते, हे तूतुकुडी–तिरुचेंदूर रस्त्यावर आतूरपासून सुमारे दोन किलोमीटर पूर्वेस असलेले गाव आहे; पोतिगै डोंगरात उगम पावलेली तामिरपरणी पुन्नैकायल येथे समुद्राला मिळते त्या ठिकाणाजवळ ते आहे. येथील कैलासनाथर मंदिर नववे मंदिर आणि शुक्रन, म्हणजे शुक्र ग्रहाचे स्थान म्हणून नव कैलासमची सांगता करते. ते कोणी बांधले हे निश्चित नाही. मंदिरात मदुराईच्या दैवतांचे, चोक्कनाथर आणि मीनाक्षी यांचे, स्वतंत्र गाभारे आहेत, त्यावरून ते मदुराईच्या एखाद्या पांड्य राजाने — कुलशेखर पांड्याने किंवा तेराव्या शतकातील पहिल्या मारवर्मन सुंदर पांड्याने — उभारले असावे असे सुचवले जाते.",
+    "architecture": "मंदिरात एकाऐवजी दोन प्रवेशद्वारांतून प्रवेश होतो; ग्रामीण मंदिरासाठी ही असामान्य रचना आहे. आत कैलासनाथरांचा गाभारा आणि देवी सौंदरनायकीचे मंदिर आहे, तसेच मदुराईची जोडी चोक्कनाथर आणि मीनाक्षी यांची स्वतंत्र मंदिरे आहेत. नवग्रह मंडप नऊ ग्रहांना सन्मानित करतो, त्यात येथे शुक्रन प्रमुख आहे. मंदिराचे तळे तामिरपुष्करिणी आहे, आणि शिवाला प्रिय असलेला बेलाचा वृक्ष हा स्थलवृक्ष आहे.",
+    "legends": "नव कैलासमच्या कथेनुसार, अगस्त्यांचे शिष्य रोमस यांनी तामिरपरणीवर नऊ कमळे सोडली, आणि नववे व शेवटचे जवळजवळ समुद्रापर्यंत वाहत जाऊन येथे स्थिरावले; यामुळे नऊ मंदिरांची साखळी पूर्ण झाली. गावाच्या नावाचा त्या क्षणाची आठवण असा लोकप्रिय अर्थ लावला जातो — सेर्न्द पू, \"जेथे फूल येऊन पोहोचले\". सौंदर्य, सुख आणि वैवाहिक सलोखा यांचा ग्रह असलेल्या शुक्रनचे स्थान असल्याने, पत्रिकेतील पीडित शुक्रापासून सुटका हवी असलेले लोक येथे येतात.",
+    "festivals": "भाविक नवग्रह मंडपात शुक्रनला पांढरे वस्त्र आणि पांढरी कमळे अर्पण करतात, विशेषतः शुक्राचा वार असलेल्या शुक्रवारी. आडी आणि थाई या तमिळ महिन्यांच्या अमावास्येला, मासिक प्रदोषाला आणि महाशिवरात्रीला विशेष पूजा होते. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "सेन्दपूमंगलमला पोहोचणे म्हणजे नदीच्या तीर्थयात्रेच्या अंतापर्यंत पोहोचणे: डोंगरातील पापनाशम येथे यात्रेची सुरुवात करणारी तामिरपरणी येथे समुद्रापासून काही किलोमीटरवर रुंद आणि संथ झालेली असते. अनेक यात्रेकरू आपली फेरी अशी आखतात की पांढऱ्या कमळांच्या अर्पणासह हे शेवटचे मंदिर त्यांच्या प्रवासाची सांगता करेल."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Fridays are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Senthapoomangalam lies in Thoothukudi district about 2 km east of Athur on the Thoothukudi–Tiruchendur road, roughly 30 km south of Thoothukudi and a short drive north of Tiruchendur. Buses on that road stop at Athur. Tiruchendur and Thoothukudi have the nearest railway stations, and Thoothukudi the nearest airport."
+    "timings": "दररोज उघडे; सकाळी आणि संध्याकाळी दर्शनाच्या वेळा आणि दुपारी बंद. शुक्रवारी सर्वाधिक गर्दी असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "सभ्य पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; प्रवेशापूर्वी पादत्राणे काढावीत. अनेक दक्षिणेकडील मंदिरांप्रमाणे, गाभाऱ्यासमोर पुरुषांनी वरील वस्त्र काढण्याची परंपरा आहे; लावलेल्या नियमांचे पालन करावे.",
+    "photography": "गाभाऱ्यात आणि त्याच्या आसपास छायाचित्रणास निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "सेन्दपूमंगलम तूतुकुडी जिल्ह्यात, तूतुकुडी–तिरुचेंदूर रस्त्यावर आतूरपासून सुमारे २ किमी पूर्वेस, तूतुकुडीपासून साधारण ३० किमी दक्षिणेस आणि तिरुचेंदूरपासून थोड्या अंतरावर उत्तरेस आहे. त्या रस्त्यावरील बसेस आतूर येथे थांबतात. तिरुचेंदूर आणि तूतुकुडी येथे सर्वांत जवळची रेल्वे स्थानके आहेत, आणि तूतुकुडी हे सर्वांत जवळचे विमानतळ आहे."
   }
 }

@@ -1,30 +1,37 @@
 {
   "id": "sthalasayana-thirukkadalmallai",
   "locale": "mr",
+  "name": "स्थलशयन पेरुमाळ मंदिर, तिरुक्कडलमल्लै",
   "nativeName": "ஸ்தலசயன பெருமாள் கோயில், திருக்கடல்மல்லை",
+  "deity": "स्थलशयन पेरुमाळ रूपातील विष्णू, उघड्या भूमीवर शयन केलेले, देवी नीलमंगै थायार यांच्यासह",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thirukkadalmallai (Mamallapuram)",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कडलमल्लै (ममल्लापुरम)",
+    "state": "तमिळनाडू",
     "lat": 12.6167,
     "lng": 80.1986
   },
+  "period": "तोंडै नाडूमधील एक दिव्यदेशम, नालायिरदिव्यप्रबंधममध्ये तिरुमंगै आळवार आणि भूतत्ताळवार यांनी गायलेले",
   "century": 8,
+  "dynasty": "मूळ पल्लव, नंतरच्या काळात चोळ, विजयनगर आणि नायक यांची भर",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "ममल्लापुरमच्या सागरकिनारी वसलेल्या नगरात विष्णू स्थलशयन पेरुमाळ म्हणून थेट भूमीवर विश्रांती घेतात — तोंडै नाडूमधील हे जिवंत दिव्यदेशम भूतत्ताळवारांचे जन्मस्थान मानले जाते.",
   "sections": {
-    "history": "Thirukkadalmallai is the old Tamil name of Mamallapuram, and this is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham; it belongs to Thondai Nadu. Thirumangai Alvar offered twenty-six pasurams here and Bhoothathalvar one, twenty-seven in all, and the shrine is believed to be the birthplace of Bhoothathalvar, whose own small shrine stands near the tank opposite the temple. The temple is believed to have been raised by the Pallavas, with later contributions from the medieval Cholas, the Vijayanagara kings and the Madurai Nayaks. It is a living place of worship in the town, distinct from the famed UNESCO-inscribed monuments of Mamallapuram.",
-    "architecture": "Built in the Dravidian tradition and added to by successive dynasties, the temple is entered through a gateway and gathers around the sanctum of Sthalasayana Perumal, with the Goddess Nilamangai Thayar worshipped as his consort. In the sanctum the sage Pundarika is shown standing beside the lord. Opposite the temple lies its sacred tank, the Pundarika Pushkarini, named for the sage, and near it stands the shrine of Bhoothathalvar. The deity's posture, reclining on the ground rather than on the serpent Adishesha, is the shrine's distinguishing feature.",
-    "legends": "The sthala purana tells of the sage Pundarika, who gathered lotuses to offer to Vishnu reposing on the Milk Ocean and, in his devotion, set about emptying the sea to reach him. Vishnu came to him as an old man and sent the sage off to fetch food. When Pundarika returned, he found the lord reclining on the bare ground, and so he is worshipped here as Sthalasayana — he who lies upon the earth. The name Thirukkadalmallai is remembered as recalling the sea and this tale.",
-    "festivals": "Vaikunta Ekadashi is the great observance of the year, when devotees gather before dawn for the opening of the northern gateway. The birth-star festival of Bhoothathalvar is celebrated with special worship at the temple and at his shrine by the tank. Confirm festival dates locally.",
-    "experience": "Few Divya Desams sit so close to the sea. Come to see Vishnu at rest upon the earth itself, then walk to the Pundarika Pushkarini and the small shrine of Bhoothathalvar opposite. The lord's humble posture invites quiet, unhurried darshan, and the temple stands apart from the sightseeing crowds elsewhere in the town."
+    "history": "तिरुक्कडलमल्लै हे ममल्लापुरमचे जुने तमिळ नाव असून, हे १०८ दिव्यदेशमांपैकी एक आहे — नालायिरदिव्यप्रबंधममध्ये आळवार संतांनी गायलेली विष्णूची ही निवासस्थाने; हे तोंडै नाडूमध्ये येते. येथे तिरुमंगै आळवारांनी सव्वीस पासुरम आणि भूतत्ताळवारांनी एक अर्पण केले, एकूण सत्तावीस; हे क्षेत्र भूतत्ताळवारांचे जन्मस्थान असल्याचे मानले जाते, आणि मंदिरासमोरील तलावाजवळ त्यांचे स्वतःचे लहान मंदिर आहे. हे मंदिर पल्लवांनी उभारले असावे असे मानले जाते, आणि पुढे मध्ययुगीन चोळ, विजयनगरचे राजे आणि मदुराईचे नायक यांनी त्यात भर घातली. ममल्लापुरमच्या यूनेस्को-नोंदित प्रसिद्ध स्मारकांपेक्षा वेगळे, हे नगरातील एक जिवंत उपासनास्थान आहे.",
+    "architecture": "द्रविड परंपरेत बांधलेल्या आणि क्रमाक्रमाने विविध राजवंशांनी भर घातलेल्या या मंदिरात प्रवेशद्वारातून शिरावे लागते; मंदिर स्थलशयन पेरुमाळांच्या गर्भगृहाभोवती वसलेले आहे, आणि देवी नीलमंगै थायार यांची त्यांची अर्धांगिनी म्हणून पूजा होते. गर्भगृहात पुंडरीक ऋषी देवाच्या शेजारी उभे असलेले दाखवले आहेत. मंदिरासमोर त्याचे पवित्र सरोवर आहे — ऋषींच्या नावावरून पुंडरीक पुष्करिणी — आणि त्याजवळ भूतत्ताळवारांचे मंदिर आहे. देवाची मुद्रा — शेषनागावर नव्हे, तर भूमीवर शयन — हे या क्षेत्राचे वैशिष्ट्य आहे.",
+    "legends": "स्थलपुराणात पुंडरीक ऋषींची कथा आहे; क्षीरसागरात विश्रांती घेणाऱ्या विष्णूला अर्पण करण्यासाठी त्यांनी कमळे गोळा केली आणि भक्तिभावाने त्यांच्यापर्यंत पोहोचण्यासाठी समुद्र उपसून रिकामा करायला सुरुवात केली. विष्णू वृद्धाच्या रूपात त्यांच्याकडे आले आणि त्यांनी ऋषींना अन्न आणण्यासाठी पाठवले. पुंडरीक परत आले तेव्हा देव उघड्या भूमीवर शयन करताना त्यांना दिसले; म्हणूनच येथे त्यांची स्थलशयन — भूमीवर शयन करणारा — म्हणून पूजा होते. तिरुक्कडलमल्लै हे नाव समुद्राचे आणि या कथेचे स्मरण करून देणारे म्हणून लक्षात ठेवले जाते.",
+    "festivals": "वैकुंठ एकादशी हा वर्षातील सर्वांत मोठा उत्सव आहे; त्या दिवशी उत्तर द्वार उघडण्यासाठी भाविक पहाटेपूर्वी जमतात. भूतत्ताळवारांचा जन्मनक्षत्र उत्सव मंदिरात आणि तलावाजवळील त्यांच्या मंदिरात विशेष पूजेसह साजरा केला जातो. उत्सवाच्या तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "फार थोडी दिव्यदेशमे समुद्राच्या इतक्या जवळ आहेत. भूमीवरच विश्रांती घेणाऱ्या विष्णूंचे दर्शन घ्यायला या, मग पुंडरीक पुष्करिणीकडे आणि समोरच्या भूतत्ताळवारांच्या लहानशा मंदिराकडे चालत जा. देवाची विनम्र मुद्रा शांत, निवांत दर्शनाला आमंत्रित करते, आणि नगरातील इतर ठिकाणच्या पर्यटकांच्या गर्दीपासून हे मंदिर दूर उभे आहे."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple is in Mamallapuram, on the East Coast Road about 55 km south of Chennai, reached by road from Chennai or Chengalpattu. The nearest major rail junction is Chengalpattu, and the nearest airport is Chennai."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या दर्शनवेळांसह उघडे, मध्यान्हीला बंद; उत्सवाचे दिवस सर्वांत गजबजलेले असतात. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करावे.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांच्या सूचनांचे पालन करावे.",
+    "gettingThere": "मंदिर ममल्लापुरम येथे, चेन्नईच्या सुमारे ५५ किमी दक्षिणेस ईस्ट कोस्ट रस्त्यावर आहे; चेन्नई किंवा चेंगलपट्टू येथून रस्त्याने पोहोचता येते. जवळचे मोठे रेल्वे जंक्शन चेंगलपट्टू आणि जवळचे विमानतळ चेन्नई आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
