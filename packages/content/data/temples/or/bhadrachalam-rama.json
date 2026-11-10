@@ -1,28 +1,35 @@
 {
   "id": "bhadrachalam-rama",
   "locale": "or",
+  "name": "ଶ୍ରୀ ସୀତା ରାମଚନ୍ଦ୍ରସ୍ୱାମୀ ମନ୍ଦିର, ଭଦ୍ରାଚଳମ",
   "nativeName": "శ్రీ సీతా రామచంద్రస్వామి ఆలయం, భద్రాచలం",
+  "deity": "ରାମ ବୈକୁଣ୍ଠ ରାମ ରୂପେ, ସୀତା ଓ ଲକ୍ଷ୍ମଣଙ୍କ ସହିତ, ଗୋଦାବରୀ ଉପରେ ଭଦ୍ର ପର୍ବତରେ",
+  "tradition": "ବୈଷ୍ଣବ ପରମ୍ପରା",
   "location": {
-    "city": "Bhadrachalam",
-    "state": "Telangana",
+    "city": "ଭଦ୍ରାଚଳମ",
+    "state": "ତେଲେଙ୍ଗାନା",
     "lat": 17.6688,
     "lng": 80.8889
   },
+  "period": "ଗୋଦାବରୀ ତଟରେ ଭକ୍ତ ରାମଦାସଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ଏକ ରାମ ମନ୍ଦିର, ଶ୍ରୀ ରାମ ନବମୀର କଲ୍ୟାଣୋତ୍ସବ ପାଇଁ ପ୍ରସିଦ୍ଧ",
   "century": 17,
+  "dynasty": "ସପ୍ତଦଶ ଶତାବ୍ଦୀରେ କାଞ୍ଚେରଳ୍ଳ ଗୋପଣ୍ଣା (ଭକ୍ତ ରାମଦାସ) ଦ୍ୱାରା ନିର୍ମିତ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [],
+  "summary": "ଗୋଦାବରୀ ଉପରେ ଭଦ୍ର ପର୍ବତରେ ଭକ୍ତ ରାମଦାସଙ୍କ ନିର୍ମିତ ମନ୍ଦିରରେ ସୀତା ଓ ଲକ୍ଷ୍ମଣଙ୍କ ସହ ରାମ ପୂଜିତ — ଯେଉଁଠାରେ ପ୍ରତି ଶ୍ରୀ ରାମ ନବମୀରେ ବିପୁଳ ଜନସମାଗମ ମଧ୍ୟରେ ରାମ ଓ ସୀତାଙ୍କ ଦିବ୍ୟ ବିବାହ ସମ୍ପନ୍ନ ହୁଏ।",
   "sections": {
-    "history": "Bhadrachalam stands on the Godavari in Telangana, on the hill named for Bhadra, a devotee who longed to bear Rama. The temple as it stands was built in the 17th century by Kancherla Gopanna — Bhakta Ramadasu — a revenue officer who used state funds for the shrine, was imprisoned, and whose songs to Rama remain beloved across the Telugu country.",
-    "architecture": "The temple rises on the hill above the river in the Dravidian manner, its sanctum holding Rama as Vaikunta Rama with Sita on his lap and Lakshmana at his side. The riverside setting and the hill of Bhadra frame the shrine.",
-    "legends": "Tradition tells that Bhadra, a devotee, prayed to carry Rama on his head; Rama, returning from the forest, is said to have appeared to him here as Vaikunta Rama. Ramadasu's imprisonment and release — by, it is sung, the intervention of Rama and Lakshmana themselves — is the temple's most cherished story.",
-    "festivals": "Sri Rama Navami is the supreme festival, when the Kalyanam — the wedding of Rama and Sita — is celebrated on a grand scale, drawing pilgrims from across the Telugus. The pearls and gifts sent for the wedding are a tradition of the day.",
-    "experience": "Bhadrachalam is the heart of Rama devotion in the Telugu land; to be present at the Sri Rama Navami Kalyanam, sung in Ramadasu's own verses, is among the great experiences of the region's faith."
+    "history": "ଭଦ୍ରାଚଳମ ତେଲେଙ୍ଗାନାରେ ଗୋଦାବରୀ ତଟରେ, ଭଦ୍ରଙ୍କ ନାମରେ ନାମିତ ପର୍ବତ ଉପରେ ଅବସ୍ଥିତ; ଭଦ୍ର ଜଣେ ଭକ୍ତ ଯେ ରାମଙ୍କୁ ଧାରଣ କରିବାକୁ ଚାହୁଁଥିଲେ। ବର୍ତ୍ତମାନର ମନ୍ଦିର ସପ୍ତଦଶ ଶତାବ୍ଦୀରେ କାଞ୍ଚେରଳ୍ଳ ଗୋପଣ୍ଣା — ଭକ୍ତ ରାମଦାସ — ନିର୍ମାଣ କରିଥିଲେ, ଯେ ଜଣେ ରାଜସ୍ୱ ଅଧିକାରୀ ଥିଲେ ଓ ମନ୍ଦିର ପାଇଁ ରାଜ୍ୟର ଅର୍ଥ ବ୍ୟବହାର କରି କାରାବାସ ଭୋଗିଥିଲେ; ରାମଙ୍କ ପ୍ରତି ତାଙ୍କ ଗୀତ ତେଲୁଗୁ ଅଞ୍ଚଳରେ ଆଜି ମଧ୍ୟ ପ୍ରିୟ।",
+    "architecture": "ମନ୍ଦିର ନଦୀ ଉପରେ ପର୍ବତ ଶିଖରରେ ଦ୍ରାବିଡ଼ ଶୈଳୀରେ ଉଠିଛି; ଏହାର ଗର୍ଭଗୃହରେ ବୈକୁଣ୍ଠ ରାମ ରୂପେ ରାମ, କୋଳରେ ସୀତା ଓ ପାଖରେ ଲକ୍ଷ୍ମଣ ବିରାଜିତ। ନଦୀ କୂଳର ପରିବେଶ ଓ ଭଦ୍ର ପର୍ବତ ମନ୍ଦିରକୁ ଘେରି ରହିଛି।",
+    "legends": "ପରମ୍ପରା କୁହେ ଯେ ଭଦ୍ର ନାମକ ଭକ୍ତ ରାମଙ୍କୁ ମସ୍ତକରେ ବହନ କରିବାକୁ ପ୍ରାର୍ଥନା କରିଥିଲେ; ବନରୁ ଫେରିବା ବେଳେ ରାମ ଏଠାରେ ତାଙ୍କୁ ବୈକୁଣ୍ଠ ରାମ ରୂପେ ଦର୍ଶନ ଦେଇଥିଲେ ବୋଲି କୁହାଯାଏ। ରାମଦାସଙ୍କ କାରାବାସ ଓ ମୁକ୍ତି — ଗୀତରେ ଗାଇ ହୁଏ, ସ୍ୱୟଂ ରାମ ଓ ଲକ୍ଷ୍ମଣଙ୍କ ହସ୍ତକ୍ଷେପରେ — ମନ୍ଦିରର ସବୁଠାରୁ ପ୍ରିୟ କାହାଣୀ।",
+    "festivals": "ଶ୍ରୀ ରାମ ନବମୀ ସର୍ବୋଚ୍ଚ ଉତ୍ସବ, ଯେତେବେଳେ କଲ୍ୟାଣମ୍ — ରାମ ଓ ସୀତାଙ୍କ ବିବାହ — ମହା ସମାରୋହରେ ପାଳିତ ହୁଏ, ତେଲୁଗୁ ଅଞ୍ଚଳର ସବୁ ପ୍ରାନ୍ତରୁ ତୀର୍ଥଯାତ୍ରୀ ଆସନ୍ତି। ବିବାହ ପାଇଁ ପଠାଯାଉଥିବା ମୁକ୍ତା ଓ ଉପହାର ସେହି ଦିନର ପରମ୍ପରା।",
+    "experience": "ଭଦ୍ରାଚଳମ ତେଲୁଗୁ ଭୂମିରେ ରାମ ଭକ୍ତିର ହୃଦୟ; ରାମଦାସଙ୍କ ନିଜ ପଦରେ ଗାନ କରାଯାଉଥିବା ଶ୍ରୀ ରାମ ନବମୀ କଲ୍ୟାଣମ୍‌ରେ ଉପସ୍ଥିତ ରହିବା ଅଞ୍ଚଳର ବିଶ୍ୱାସର ଅନ୍ୟତମ ମହାନ ଅନୁଭୂତି।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday break; Sri Rama Navami is by far the busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Bhadrachalam lies on the Godavari in Bhadradri Kothagudem district of Telangana, reached by road from Hyderabad and Vijayawada, with the nearest railhead at Bhadrachalam Road (Kothagudem)."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଏବଂ ମଧ୍ୟାହ୍ନରେ ବିରତି ସହିତ ଖୋଲା; ଶ୍ରୀ ରାମ ନବମୀରେ ସର୍ବାଧିକ ଭିଡ଼। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ଆବଶ୍ୟକ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବ; ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲିବେ। ଲିଖିତ ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଓ ତା'ର ଆଖପାଖରେ ଫଟୋଗ୍ରାଫି ନିଷିଦ୍ଧ; ଲିଖିତ ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ଭଦ୍ରାଚଳମ ତେଲେଙ୍ଗାନାର ଭଦ୍ରାଦ୍ରି କୋଠାଗୁଡ଼େମ ଜିଲ୍ଲାରେ ଗୋଦାବରୀ ତଟରେ ଅବସ୍ଥିତ; ହାଇଦ୍ରାବାଦ ଓ ବିଜୟୱାଡ଼ାରୁ ସଡ଼କ ପଥରେ ପହଞ୍ଚିହୁଏ, ନିକଟତମ ରେଳ ଷ୍ଟେସନ ଭଦ୍ରାଚଳମ ରୋଡ୍ (କୋଠାଗୁଡ଼େମ)।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
