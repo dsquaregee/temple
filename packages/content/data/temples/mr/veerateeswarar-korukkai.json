@@ -1,31 +1,38 @@
 {
   "id": "veerateeswarar-korukkai",
   "locale": "mr",
+  "name": "वीरटेश्वरर मंदिर, कोरुक्कै (तिरुक्कुरुक्कै)",
   "nativeName": "திருக்குறுக்கை வீரட்டேஸ்வரர் கோயில்",
+  "deity": "वीरटेश्वरर (योगेश्वरर) रूपातील शिव, देवी ज्ञानांबिगै यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Korukkai",
-    "state": "Tamil Nadu",
+    "city": "कोरुक्कै",
+    "state": "तमिळनाडू",
     "lat": 11.1553,
     "lng": 79.6119
   },
+  "period": "कावेरीच्या उत्तर तीरावरील पाडल पेट्र स्थळ, अप्परांनी गायलेले (सातवे शतक); अष्ट वीरट्टानमपैकी एक",
   "century": 7,
+  "dynasty": "चोळ प्रदेश, नंतरच्या भरीसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "मयिलाडुतुरैजवळील कोरुक्कै — तेवारममधील तिरुक्कुरुक्कै — येथे शिव महान योगी म्हणून विराजमान आहेत, ज्यांच्या उघडलेल्या नेत्रामुळे कामदेव भस्म झाला: इच्छेच्या दहनाचे वीरट्टानम.",
   "sections": {
-    "history": "Korukkai is a village in Mayiladuthurai district, about 12 km from Mayiladuthurai on the road towards Manalmedu, and it is the modern name of the Thirukkurukkai of the Tevaram hymns. Its temple to Shiva as Veerateeswarar is one of the eight Ashta Veerattanams, the one that remembers Kama dahana, the burning of the god of love. Appar sang the Lord of Thirukkurukkai, and the shrine is counted among the Paadal Petra Sthalams on the northern bank of the Kaveri. It is a separate temple from Vazhuvur, the Veerattanam of the elephant a short way to the south, though the two are sometimes confused in lists; the old Tamil verse that names all eight places Kama at Kurukkai and the elephant at Vazhuvur.",
-    "architecture": "The temple is a modest Dravidian shrine of the delta, approached past its tank, the Soola Gangai, which lies directly opposite the entrance. The base of the lingam is carved with a lotus. In the mahamandapa stand bronzes of Kamadahana Murthy, six-armed and bearing weapons, with images of Kama and his consort Rati; in the Kamadahana sabha the Lord is shown seated in yoga, one leg folded, with Sanaka and the other sage-sons of Brahma at his feet.",
-    "legends": "When the demon Tarakasura could be slain only by a son of Shiva, the gods sent Kama, the god of love, to turn the Lord from his deep meditation towards Parvati. Kama loosed his flower-arrows; Shiva opened his third eye, and Kama was burned to ashes. Rati's grief moved the Lord, and tradition says Kama was restored to life, unseen by all but her. A pit some two hundred metres from the temple, called the Vibhuti Kuttai — the pit of sacred ash — is held to be the very place where Kama was burned.",
-    "festivals": "The great observance is the Kamadahana festival, kept over about ten days with the temple's annual brahmotsavam and the procession of the Pancha Murthis, when the burning of Kama is remembered before the gathered village. Masi Magam is celebrated too, with the Shaiva festivals of the year; confirm dates locally.",
-    "experience": "Korukkai is a quiet village shrine, and its stillness suits the Lord it honours: Shiva as the yogi whose meditation desire could not break. Pilgrims stand before the six-armed Kamadahana Murthy, walk out to the Vibhuti Kuttai, and go on to the delta's other Veerattanams — Vazhuvur, Thirupariyalur and Thirukkadaiyur — all within an easy drive of Mayiladuthurai."
+    "history": "कोरुक्कै हे मयिलाडुतुरै जिल्ह्यातील एक गाव असून मयिलाडुतुरैपासून मणलमेडूकडे जाणाऱ्या रस्त्यावर सुमारे १२ कि.मी. अंतरावर आहे; तेवारम स्तोत्रांतील तिरुक्कुरुक्कैचे हे आधुनिक नाव आहे. वीरटेश्वरर रूपातील शिवाचे येथील मंदिर आठ अष्ट वीरट्टानमपैकी एक आहे, जे कामदहनाचे, प्रेमदेवतेच्या दहनाचे स्मरण करते. अप्परांनी तिरुक्कुरुक्कैच्या स्वामींचे गायन केले, आणि हे तीर्थ कावेरीच्या उत्तर तीरावरील पाडल पेट्र स्थळांमध्ये गणले जाते. हे वळुवूरपासून — काही अंतरावर दक्षिणेस असलेले हत्तीचे वीरट्टानम — वेगळे मंदिर आहे, जरी यादींत दोघांचा कधीकधी गोंधळ होतो; आठही स्थळांची नावे सांगणारा जुना तमिळ श्लोक कुरुक्कै येथे कामदेव आणि वळुवूर येथे हत्ती असे नमूद करतो.",
+    "architecture": "हे मंदिर त्रिभुज प्रदेशातील साधे द्रविड तीर्थ आहे, ज्याकडे त्याच्या कुंडाजवळून, शूल गंगैजवळून जावे लागते, जे प्रवेशद्वाराच्या अगदी समोर आहे. लिंगाच्या तळावर कमळ कोरलेले आहे. महामंडपात सहा हात असलेल्या आणि शस्त्रे धारण केलेल्या कामदहन मूर्तींच्या कांस्यप्रतिमा आहेत, सोबत कामदेव आणि त्याची पत्नी रती यांच्या प्रतिमा; कामदहन सभेत स्वामींना योगात बसलेले, एक पाय दुमडलेले, आणि सनक व ब्रह्मदेवाचे इतर ऋषिपुत्र त्यांच्या चरणांशी असे दाखवले आहे.",
+    "legends": "तारकासुराचा वध फक्त शिवपुत्रच करू शकत असताना, देवांनी प्रेमदेव कामाला स्वामींना त्यांच्या गहन ध्यानातून पार्वतीकडे वळवण्यासाठी पाठवले. कामाने आपले पुष्पबाण सोडले; शिवाने तिसरा नेत्र उघडला, आणि कामदेव भस्म झाला. रतीच्या दुःखाने स्वामी द्रवले, आणि परंपरा सांगते की कामदेवाला पुन्हा जिवंत करण्यात आले, तिच्याशिवाय सर्वांना अदृश्य. मंदिरापासून सुमारे दोनशे मीटर अंतरावरील विभूती कुट्टै — पवित्र भस्माचा खड्डा — हेच ते ठिकाण मानले जाते जेथे कामदेव जाळला गेला.",
+    "festivals": "प्रमुख विधी कामदहन उत्सव असून तो मंदिराच्या वार्षिक ब्रह्मोत्सवासह आणि पंचमूर्तींच्या मिरवणुकीसह सुमारे दहा दिवस चालतो, जेव्हा जमलेल्या गावासमोर कामदहनाचे स्मरण केले जाते. मासी मगमही साजरा होतो, वर्षभराच्या शैव उत्सवांसह; तारखा स्थानिक पातळीवर खात्री करून घ्या.",
+    "experience": "कोरुक्कै हे शांत गावातील तीर्थ आहे, आणि त्याची निस्तब्धता ज्यांचा ते गौरव करते त्या स्वामींना शोभते: ज्यांच्या ध्यानाला इच्छा भंग करू शकली नाही असा योगी शिव. यात्रेकरू सहा हातांच्या कामदहन मूर्तींसमोर उभे राहतात, विभूती कुट्टैपर्यंत चालत जातात, आणि पुढे त्रिभुज प्रदेशातील इतर वीरट्टानमकडे — वळुवूर, तिरुपरियलूर आणि तिरुक्कडैयूर — जातात, जी सर्व मयिलाडुतुरैपासून सहज गाडीच्या अंतरावर आहेत."
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure, as at most village temples of the delta. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Korukkai lies about 12 km from Mayiladuthurai on the Mayiladuthurai–Manalmedu bus route. Mayiladuthurai is a major railway junction; Tiruchirappalli is the nearest large airport, with Puducherry also within reach by road."
+    "timings": "त्रिभुज प्रदेशातील बहुतेक खेडेगावातील मंदिरांप्रमाणे दररोज सकाळ व संध्याकाळच्या सत्रांत उघडे असते आणि दुपारी बंद असते. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे व गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे बाहेर ठेवावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात छायाचित्रणास परवानगी नाही; बाहेरील प्रदक्षिणा-मार्गात, विशेषतः विधी आणि उत्सवाच्या कांस्यमूर्तींचे, छायाचित्र काढण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "कोरुक्कै मयिलाडुतुरै–मणलमेडू बस मार्गावर मयिलाडुतुरैपासून सुमारे १२ कि.मी. अंतरावर आहे. मयिलाडुतुरै हे मोठे रेल्वे जंक्शन आहे; तिरुचिरापल्ली हे जवळचे मोठे विमानतळ असून पुदुच्चेरीही रस्त्याने आवाक्यात आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/veerateeswarar-korukkai.jpg",

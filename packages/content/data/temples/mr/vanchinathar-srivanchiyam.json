@@ -1,29 +1,36 @@
 {
   "id": "vanchinathar-srivanchiyam",
   "locale": "mr",
+  "name": "वांचिनाथर मंदिर, श्रीवांचियम",
   "nativeName": "திருவாஞ்சியம் வாஞ்சிநாதர் கோயில்",
+  "deity": "वांचिनाथर रूपातील शिव, देवी मंगळांबिकै यांच्यासह",
+  "tradition": "शैव — तेवारममध्ये गायलेले पाडल पेट्र स्थलम",
   "location": {
-    "city": "Srivanchiyam, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "श्रीवांचियम, तिरुवारूरजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.7328,
     "lng": 79.6322
   },
+  "period": "तेवारम काळ, चोळकालीन रचनेसह",
   "century": 9,
+  "dynasty": "चोळ (नंतरच्या भरीसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूरजवळील श्रीवांचियम हे देशातील अशा मोजक्या मंदिरांपैकी एक आहे जेथे मृत्यूदेवता यमाचे स्वतःचे मंदिर आणि पूजेत मध्यवर्ती स्थान आहे. येथे शिव वांचिनाथर म्हणून विराजमान आहे, तेवारममध्ये गायलेले पाडल पेट्र स्थलम, देवी मंगळांबिकैसह. परंपरेनुसार यमाने स्वतः येथे तपश्चर्या केली, आणि प्रभूने असे वरदान दिले की या क्षेत्रात मृत्यू पावणारे मृत्यूच्या भयातून आणि पुनर्जन्माच्या चक्रातून मुक्त होतील — त्यामुळे श्रीवांचियम हे दिवंगतांसाठीच्या विधींचे पूजनीय स्थान आहे.",
   "sections": {
-    "history": "Srivanchiyam is an ancient Shaiva village-temple in the Tiruvarur country, counted among the Paadal Petra Sthalams and hymned in the Tevaram. The stone temple reflects Chola-period building with later additions; the sanctum enshrines a lingam worshipped as Vanchinathar. What sets the temple apart in the long Tevaram tradition is the prominence given to Yama, whose shrine and role in worship are unusual among Shiva temples and have shaped the kshetra's special association with death and release.",
-    "architecture": "The temple is laid out on the Dravidian plan with a gopuram, pillared halls and the sanctum of Vanchinathar, with the goddess Mangalambikai in her own shrine. Its distinctive feature is the shrine of Yama, given a place of honour rarely seen elsewhere. Within the complex is the sacred tank known as Gupta Ganga, 'the hidden Ganga,' which tradition holds to carry the secret presence of the river goddess, and which pilgrims revere for its purifying waters.",
-    "legends": "The temple's defining tradition concerns Yama, the god of death. By one account Yama performed penance here to be freed from a curse, and Shiva, pleased, granted that those who end their lives at this kshetra be released from the terror of death and from the cycle of rebirth. The sthala-purana also tells of Surya regaining his lost radiance here after the episode of Daksha's sacrifice, and of the Ganga leaving a portion of her power in the Gupta Ganga tank. These stories together mark Srivanchiyam as a place of purification and peaceful passage.",
-    "festivals": "The most prominent festival is Masi Magam, in the Tamil month of Masi, when the processional image of the lord is carried through the streets on the mount of Yama — a usage found at few other temples. The Shaiva observances of Maha Shivaratri and Pradosham are also kept, and the temple is much visited for rites performed on behalf of ancestors and the recently departed.",
-    "experience": "Srivanchiyam carries a quiet gravity drawn from its association with death and liberation. Families come to perform rites for the departed and to pray at the rare shrine of Yama, bathing in the Gupta Ganga before worship. For many it is a place that turns the fear of mortality toward the hope of release, and the temple holds that solemn consolation at its heart."
+    "history": "श्रीवांचियम हे तिरुवारूर प्रदेशातील प्राचीन शैव ग्राम-मंदिर आहे, पाडल पेट्र स्थलमांमध्ये गणले जाणारे आणि तेवारममध्ये गायलेले. दगडी मंदिर चोळकालीन बांधकाम आणि नंतरची भर दर्शवते; गर्भगृहात वांचिनाथर म्हणून पूजिले जाणारे लिंग आहे. दीर्घ तेवारम परंपरेत या मंदिराला वेगळेपण देणारी गोष्ट म्हणजे यमाला दिलेले महत्त्व; शिवमंदिरांमध्ये असामान्य असलेले त्याचे मंदिर आणि पूजेतील भूमिका यांनी या क्षेत्राचा मृत्यू आणि मुक्तीशी असलेला विशेष संबंध घडवला आहे.",
+    "architecture": "मंदिराची रचना द्रविड आराखड्यानुसार असून त्यात गोपुर, स्तंभयुक्त मंडप आणि वांचिनाथरांचे गर्भगृह आहे, आणि देवी मंगळांबिकै स्वतःच्या मंदिरात आहे. यमाचे मंदिर हे त्याचे वैशिष्ट्य आहे, ज्याला इतरत्र क्वचितच दिसणारे सन्मानाचे स्थान दिले आहे. संकुलात गुप्त गंगा नावाचे पवित्र तीर्थ आहे, ‘लपलेली गंगा’, ज्यात नदीदेवतेची गुप्त उपस्थिती असल्याचे परंपरा मानते, आणि यात्रेकरू त्याच्या शुद्धीकारक जलाचा आदर करतात.",
+    "legends": "मंदिराची निर्णायक परंपरा मृत्यूदेवता यमाविषयी आहे. एका कथनानुसार यमाने शापातून मुक्त होण्यासाठी येथे तपश्चर्या केली, आणि प्रसन्न झालेल्या शिवाने असे वरदान दिले की या क्षेत्रात आपले जीवन संपवणारे मृत्यूच्या भयातून आणि पुनर्जन्माच्या चक्रातून मुक्त होतील. स्थलपुराण दक्षाच्या यज्ञाच्या प्रसंगानंतर सूर्याला येथे आपले हरवलेले तेज परत मिळाल्याचेही सांगते, आणि गंगेने आपल्या सामर्थ्याचा एक अंश गुप्त गंगा तीर्थात ठेवल्याचेही. या कथा मिळून श्रीवांचियमला शुद्धीचे आणि शांत प्रयाणाचे स्थान ठरवतात.",
+    "festivals": "सर्वांत प्रमुख उत्सव म्हणजे तमिळ मासी महिन्यातील मासी मगम, ज्यात प्रभूची उत्सवमूर्ती यमाच्या वाहनावरून गावातून मिरवली जाते — इतर फार थोड्या मंदिरांमध्ये आढळणारी प्रथा. महाशिवरात्र आणि प्रदोषम हे शैव विधीही पाळले जातात, आणि पितरांसाठी आणि नुकत्याच दिवंगतांसाठी केल्या जाणाऱ्या विधींसाठी मंदिराला मोठ्या संख्येने भेट दिली जाते.",
+    "experience": "श्रीवांचियममध्ये मृत्यू आणि मुक्तीच्या संबंधातून येणारे शांत गांभीर्य जाणवते. कुटुंबे दिवंगतांसाठी विधी करण्यासाठी आणि यमाच्या दुर्मिळ मंदिरात प्रार्थना करण्यासाठी येतात, पूजेपूर्वी गुप्त गंगेत स्नान करतात. अनेकांसाठी हे असे स्थान आहे जे नश्वरतेच्या भयाला मुक्तीच्या आशेकडे वळवते, आणि मंदिर ते गंभीर सांत्वन आपल्या हृदयात धारण करते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Srivanchiyam is in Tiruvarur district, about 18 km from Tiruvarur and close to Nannilam; the nearest rail heads are Tiruvarur and Nannilam, with local buses and taxis to the village."
+    "timings": "सहसा पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "खांदे आणि गुडघे झाकलेले, साधे पारंपरिक पोशाख अपेक्षित आहेत; पादत्राणे प्रवेशद्वारी ठेवावीत.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांमध्ये छायाचित्रण सहसा परवानगीयोग्य आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "श्रीवांचियम तिरुवारूर जिल्ह्यात, तिरुवारूरपासून सुमारे १८ किमी आणि नन्निलमजवळ आहे; तिरुवारूर आणि नन्निलम ही सर्वांत जवळची रेल्वे स्थानके असून गावापर्यंत स्थानिक बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

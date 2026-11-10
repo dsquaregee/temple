@@ -1,29 +1,36 @@
 {
   "id": "vamanapureeswarar-tirumanikuzhi",
   "locale": "mr",
+  "name": "वामनपुरीश्वरर मंदिर, तिरुमाणिकुळी",
   "nativeName": "வாமனபுரீஸ்வரர் கோயில்",
+  "deity": "वामनपुरीश्वरर (वामनेश्वरर) रूपातील शिव, देवी अंबुजाक्षी यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Tirumanikuzhi",
-    "state": "Tamil Nadu",
+    "city": "तिरुमाणिकुळी",
+    "state": "तमिळनाडू",
     "lat": 11.737,
     "lng": 79.684
   },
+  "period": "तेवारममध्ये गायलेले प्राचीन शैव तीर्थ (सातवे शतक); नंतरच्या चोळकालीन भर आणि शिलालेखांसह",
   "century": 7,
+  "dynasty": "चोळ आणि नंतरचे आश्रयदाते",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुमाणिकुळी येथील वामनपुरीश्वरर हे कडलूर प्रदेशातील जुने शिवमंदिर आहे, ज्याची स्तुती संबंदर यांनी तेवारममध्ये केली असून त्याच्या आख्यायिका विष्णूच्या वामन अवताराशी आणि राजा महाबलीच्या नम्रीकरणाशी जोडलेल्या आहेत.",
   "sections": {
-    "history": "Tirumanikuzhi lies in the Cuddalore country of the old Nadu Nadu, and its temple has been a place of Shaiva worship since the age of the Nayanars, for Sambandar sang of Vamanapureeswarar in the Tevaram and made it a Paadal Petra Sthalam. The shrine is old in its foundations, and the later Cholas left their mark upon it: inscriptions from the reigns of Rajaraja the Great and Kulothunga record gifts and works here. Kept in worship across the centuries, it remains a quiet village temple with a long memory.",
-    "architecture": "The temple faces east beneath a five-tiered gopuram, and its shrines are gathered within three concentric courts enclosed by granite walls. The sanctum holds the linga of Vamanapureeswarar, while the goddess Ambujakshi is honoured in her own shrine, which faces north. The old stone of the enclosures carries the inscriptions of the Chola kings, and the unhurried plan of courts and mandapas is in the manner of the temples of this region.",
-    "legends": "The legends of Tirumanikuzhi reach back to Vishnu's Vamana avatara and the king Mahabali. One story tells of a lamp in the temple whose wick was tugged by a rat, and that the creature, for the merit of having stirred the sacred flame, was reborn as the generous king Mahabali; and it was before Mahabali that Vishnu came as the dwarf Vamana, measured the worlds in three strides, and set his foot upon the humbled king to grant him grace. The Sun too is said to have worshipped Shiva here. In these tales the temple binds the Shaiva shrine to the great story of the dwarf and the king.",
-    "festivals": "The Purattasi Navarathri in September or October is kept with devotion, and Maha Shivaratri in February or March is the great night of the year, with worship through its watches. The monthly Pradosham is observed as at every Shiva temple. Dates follow the Tamil calendar, so confirm them locally, especially for festival days.",
-    "experience": "Tirumanikuzhi is a village temple that rewards a quiet visit. Enter beneath the eastern gopuram, pass through the granite courts to the sanctum of Vamanapureeswarar, and come to the north-facing shrine of the goddess Ambujakshi. Those who know the story of Vamana and Mahabali will find it close at hand here, and the old inscriptions on the walls reward an unhurried eye. The temple suits a traveller passing through the Cuddalore country who likes a shrine with a long memory."
+    "history": "तिरुमाणिकुळी जुन्या नडु नाडूतील कडलूर प्रदेशात वसलेले आहे, आणि नायनारांच्या काळापासून त्याचे मंदिर शैव पूजेचे स्थान राहिले आहे, कारण संबंदर यांनी तेवारममध्ये वामनपुरीश्वररांचे गायन करून त्याला पाडल पेट्र स्थलम बनवले. मंदिराचा पाया जुना आहे, आणि नंतरच्या चोळांनी त्यावर आपली छाप सोडली: राजराज महान आणि कुलोत्तुंग यांच्या कारकिर्दीतील शिलालेख येथे दिलेली दाने आणि केलेली कामे नोंदवतात. शतकानुशतके पूजेत टिकून राहिलेले हे एक शांत ग्रामीण मंदिर आहे, ज्याला दीर्घ स्मृती आहे.",
+    "architecture": "मंदिर पूर्वाभिमुख असून पाच मजली गोपुराखाली आहे, आणि त्याची मंदिरे ग्रॅनाइटच्या भिंतींनी वेढलेल्या तीन संकेंद्रित प्रांगणांमध्ये एकवटलेली आहेत. गर्भगृहात वामनपुरीश्वररांचे लिंग आहे, तर देवी अंबुजाक्षी उत्तराभिमुख असलेल्या स्वतःच्या मंदिरात पूजिली जाते. प्राकारांच्या जुन्या दगडांवर चोळ राजांचे शिलालेख आहेत, आणि प्रांगणे व मंडपांची संथ रचना या प्रदेशातील मंदिरांच्या पद्धतीची आहे.",
+    "legends": "तिरुमाणिकुळीच्या आख्यायिका विष्णूच्या वामन अवतारापर्यंत आणि राजा महाबलीपर्यंत जातात. एक कथा सांगते की मंदिरातील एका दिव्याची वात एका उंदराने ओढली, आणि पवित्र ज्योत हलवण्याच्या पुण्यामुळे तो प्राणी उदार राजा महाबली म्हणून पुन्हा जन्मला; आणि याच महाबलीसमोर विष्णू बटू वामनाच्या रूपात आला, त्याने तीन पावलांत जग मोजले, आणि नम्र झालेल्या राजाच्या मस्तकावर चरण ठेवून त्याला कृपा दिली. सूर्यानेही येथे शिवाची पूजा केल्याचे सांगितले जाते. या कथांमध्ये हे मंदिर शैव तीर्थाला बटू आणि राजाच्या महान कथेशी जोडते.",
+    "festivals": "सप्टेंबर किंवा ऑक्टोबरमधील पुरट्टासी नवरात्री भक्तिभावाने साजरी केली जाते, आणि फेब्रुवारी किंवा मार्चमधील महाशिवरात्र ही वर्षातील महान रात्र असून तिच्या प्रहरांमधून पूजा चालते. प्रत्येक शिवमंदिराप्रमाणे येथेही मासिक प्रदोषम पाळला जातो. तारखा तमिळ दिनदर्शिकेनुसार ठरतात, म्हणून विशेषतः उत्सवाच्या दिवसांसाठी त्या स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुमाणिकुळी हे शांत भेटीला फलदायी ठरणारे ग्रामीण मंदिर आहे. पूर्वेकडील गोपुराखालून प्रवेश करा, ग्रॅनाइटच्या प्रांगणांतून वामनपुरीश्वररांच्या गर्भगृहापर्यंत जा, आणि देवी अंबुजाक्षीच्या उत्तराभिमुख मंदिरात या. वामन आणि महाबलीची कथा ज्यांना ठाऊक आहे त्यांना ती येथे अगदी जवळची वाटेल, आणि भिंतींवरील जुने शिलालेख घाई न करणाऱ्या नजरेला फलदायी ठरतात. कडलूर प्रदेशातून प्रवास करणाऱ्या आणि दीर्घ स्मृती असलेले मंदिर आवडणाऱ्या प्रवाशाला हे मंदिर साजेसे आहे."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Tirumanikuzhi lies in Cuddalore district, near Panruti on the Cuddalore road; Cuddalore and Villupuram are the nearest railheads, and Puducherry the nearest airport. Buses serve the village from Cuddalore and Panruti, and the temple stands at its centre."
+    "timings": "सहसा सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले असते, दुपारी विश्रांतीसह; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "dressCode": "साधे पारंपरिक पोशाख अपेक्षित आहेत: पुरुषांसाठी धोतर किंवा पायजमा, स्त्रियांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे प्रवेशद्वारावरील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिर नियमांनुसार बाहेरील प्रदक्षिणा मार्गांमध्ये आणि प्रांगणांमध्ये छायाचित्रणाला सहसा परवानगी आहे, पण आतील गर्भगृहात मनाई आहे. विधी किंवा पुजारी यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारावे.",
+    "gettingThere": "तिरुमाणिकुळी कडलूर जिल्ह्यात, कडलूर रस्त्यावरील पन्रुटीजवळ आहे; कडलूर आणि विल्लुपुरम ही सर्वांत जवळची रेल्वे स्थानके असून पुदुच्चेरी हे सर्वांत जवळचे विमानतळ आहे. कडलूर आणि पन्रुटीहून गावापर्यंत बस धावतात, आणि मंदिर गावाच्या मध्यभागी आहे."
   }
 }
