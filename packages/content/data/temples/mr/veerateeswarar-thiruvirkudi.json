@@ -1,31 +1,38 @@
 {
   "id": "veerateeswarar-thiruvirkudi",
   "locale": "mr",
+  "name": "वीरटेश्वर मंदिर, तिरुविरकुडी",
   "nativeName": "திருவிற்குடி வீரட்டேஸ்வரர் கோயில்",
+  "deity": "वीरटेश्वर रूपातील शिव, देवी एलवार कुळली (परिमल नायकी) यांच्यासह",
+  "tradition": "शैव धर्म",
   "location": {
-    "city": "Thiruvirkudi",
-    "state": "Tamil Nadu",
+    "city": "तिरुविरकुडी",
+    "state": "तमिळनाडू",
     "lat": 10.8314,
     "lng": 79.6636
   },
+  "period": "चोळ देशातील पाडल पेट्र स्थलम्, संबंदर यांनी गायिलेले (७ वे शतक); अष्ट वीरट्टानांपैकी एक",
   "century": 7,
+  "dynasty": "चोळ, तंजावूर नायकांच्या भरीसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुवारूरच्या उत्तरेकडील भातशेतींच्या प्रदेशात, वीरटेश्वर रूपातील शिव जालंधर असुरावरील आपल्या विजयाचे स्मरण जपतात — ज्या चक्राने तो विजय मिळवला ते चक्र त्यांनी नंतर विष्णूंना दिले — आणि हे असे वीरट्टानम् आहे जेथे वृंदेला पवित्र तुळस म्हणून मान दिला जातो.",
   "sections": {
-    "history": "Thiruvirkudi, also called Virkudi, is a village about 10 km north of Tiruvarur in the heart of the Kaveri delta. Its temple to Shiva as Veerateeswarar is one of the eight Ashta Veerattanams, the one that remembers the Lord's victory over Jalandhara. Sambandar sang the Lord of Thiruvirkudi in the Tevaram, and the temple is counted among the Paadal Petra Sthalams of the Chola country. Its present masonry is assigned to the Chola period, with later expansion under the Thanjavur Nayaks. Small and rural, it has long kept its place on the pilgrim road of the eight Veerattanams, set among the fields and tanks of the delta.",
-    "architecture": "The temple is laid out in the Dravidian manner of the delta, with a gateway, an enclosing courtyard and the sanctum of Veerateeswarar, and the goddess Elavar Kuzhali in her own shrine. In the outer courtyard two small shrines carry the story of the place: one honours the Shiva whom Vishnu worshipped, and another marks the spot where, tradition holds, Brinda was restored to life as the tulasi plant.",
-    "legends": "Jalandhara, born of the fire of Shiva's own anger cast into the sea, grew into an asura king of terrible strength, shielded by the steadfast virtue of his wife Brinda. When he challenged the Lord himself, Shiva drew a wheel on the ground with his toe and bade the demon lift it; as Jalandhara raised it, the discus cut him down. Tradition here holds that Shiva later gave that discus to Vishnu, who worshipped him for it, and that Brinda was raised to life as the tulasi, dear to Vishnu ever after.",
-    "festivals": "The temple keeps the festivals of the Shaiva year — Maha Shivaratri, the fortnightly pradosham, Arudra Darshan in Margazhi and Karthigai Deepam — and its annual festival brings the processional bronzes out through the village streets, and the monthly cycle of worship continues quietly in every season. Confirm dates locally.",
-    "experience": "Thiruvirkudi is a still, green place, typical of the delta's village shrines. Pilgrims come to complete the eight Veerattanams, and many linger by the small tulasi shrine in the outer courtyard, where the stories of Shiva and Vishnu meet. Tiruvarur's great Thyagaraja temple is close by, and the road north leads on to Mayiladuthurai and the other Veerattanams."
+    "history": "तिरुविरकुडी, ज्याला विरकुडी असेही म्हणतात, हे कावेरी दुआबाच्या हृदयात, तिरुवारूरच्या सुमारे १० किमी उत्तरेस असलेले गाव आहे. वीरटेश्वर रूपातील शिवाचे येथील मंदिर आठ अष्ट वीरट्टानांपैकी एक आहे — प्रभूच्या जालंधरावरील विजयाचे स्मरण करणारे. संबंदर यांनी तेवारममध्ये तिरुविरकुडीच्या प्रभूचे गायन केले, आणि हे मंदिर चोळ देशातील पाडल पेट्र स्थलम्‌मध्ये गणले जाते. त्याचे सध्याचे दगडी बांधकाम चोळ काळातील मानले जाते, तर नंतरचा विस्तार तंजावूर नायकांच्या काळात झाला. लहान आणि ग्रामीण असलेल्या या मंदिराने दुआबातील शेतांमध्ये आणि तलावांमध्ये वसलेले असताना आठ वीरट्टानांच्या यात्रामार्गावर दीर्घकाळ आपले स्थान राखले आहे.",
+    "architecture": "मंदिराची रचना दुआबातील द्रविड पद्धतीची आहे — प्रवेशद्वार, वेढणारे प्रांगण आणि वीरटेश्वराचे गर्भगृह, आणि देवी एलवार कुळली यांचे स्वतंत्र मंदिर. बाह्य प्रांगणात दोन लहान मंदिरे या स्थानाची कथा सांगतात: एक ज्या शिवाची विष्णूंनी पूजा केली त्यांचा सन्मान करते, आणि दुसरे परंपरेनुसार ज्या ठिकाणी वृंदा तुळशीच्या रोपाच्या रूपात पुन्हा जिवंत झाली ते स्थान दर्शवते.",
+    "legends": "शिवांच्या स्वतःच्या क्रोधाच्या अग्नीतून, जो समुद्रात टाकण्यात आला होता, जन्मलेला जालंधर भयंकर बलशाली असुर राजा बनला; त्याची पत्नी वृंदा हिच्या अढळ पातिव्रत्याने तो रक्षित होता. जेव्हा त्याने प्रभूलाच आव्हान दिले, तेव्हा शिवांनी पायाच्या अंगठ्याने जमिनीवर एक चक्र काढले आणि त्या असुराला ते उचलण्यास सांगितले; जालंधराने ते उचलताच त्या चक्राने त्याला ठार केले. येथील परंपरा सांगते की शिवांनी नंतर ते चक्र विष्णूंना दिले, ज्यांनी त्याबद्दल त्यांची पूजा केली, आणि वृंदा तुळस म्हणून पुन्हा जिवंत झाली, जी तेव्हापासून विष्णूंना प्रिय आहे.",
+    "festivals": "मंदिरात शैव वर्षातील उत्सव साजरे केले जातात — महाशिवरात्री, पंधरवड्याचा प्रदोष, मार्गळीतील आरुद्र दर्शन आणि कार्तिगै दीपम — आणि वार्षिक उत्सवात उत्सवमूर्ती गावातील रस्त्यांवरून मिरवणुकीने काढल्या जातात, तर मासिक पूजाक्रम प्रत्येक ऋतूत शांतपणे सुरू राहतो. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुविरकुडी हे दुआबातील गावांतील मंदिरांचे वैशिष्ट्य असलेले शांत, हिरवेगार स्थान आहे. आठ वीरट्टाने पूर्ण करण्यासाठी यात्रेकरू येथे येतात, आणि अनेकजण बाह्य प्रांगणातील लहानशा तुळशी मंदिराजवळ रेंगाळतात, जेथे शिव आणि विष्णू यांच्या कथा एकत्र येतात. तिरुवारूरचे भव्य त्यागराज मंदिर जवळच आहे, आणि उत्तरेकडे जाणारा रस्ता मयिलादुतुरै आणि इतर वीरट्टानांकडे नेतो."
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure, as at most village temples of the delta. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Thiruvirkudi lies about 10 km north of Tiruvarur and is reached by road. Tiruvarur is the nearest railway junction; Tiruchirappalli is the nearest large airport."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या सत्रांत उघडे असते, मध्यान्हीच्या वेळी बंद असते — दुआबातील बहुतेक गावांतील मंदिरांप्रमाणे. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे बाहेर काढून ठेवावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात छायाचित्रणास परवानगी नाही; बाह्य प्रदक्षिणा मार्गांवर छायाचित्रे घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे, विशेषतः विधी आणि उत्सवमूर्तींचे छायाचित्रण करताना.",
+    "gettingThere": "तिरुविरकुडी तिरुवारूरच्या सुमारे १० किमी उत्तरेस असून रस्त्याने पोहोचता येते. तिरुवारूर हे सर्वांत जवळचे रेल्वे जंक्शन आहे; तिरुचिरापल्ली हे सर्वांत जवळचे मोठे विमानतळ आहे."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/veerateeswarar-thiruvirkudi.jpg",

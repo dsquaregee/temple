@@ -1,31 +1,38 @@
 {
   "id": "vijayasana-thiruvaragunamangai",
   "locale": "mr",
+  "name": "विजयासन पेरुमाळ मंदिर, तिरुवरगुणमंगै",
   "nativeName": "விஜயாசன பெருமாள் கோயில், திருவரகுணமங்கை",
+  "deity": "विजयासन पेरुमाळ रूपातील विष्णू, देवी वरगुणवल्लीसह — नवतिरुपतींपैकी चंद्राचे क्षेत्र",
+  "tradition": "वैष्णव",
   "location": {
-    "city": "Thiruvaragunamangai",
-    "state": "Tamil Nadu",
+    "city": "तिरुवरगुणमंगै",
+    "state": "तमिळनाडू",
     "lat": 8.62,
     "lng": 77.86
   },
+  "period": "तामिरपरणी नदीकाठच्या पांड्य प्रदेशातील एक दिव्य देसम; नालायिर दिव्य प्रबंधमध्ये नम्मालवार यांनी गायिलेले",
   "century": 8,
+  "dynasty": "पांड्य (नंतरच्या भरांसह)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "nava-tirupati",
     "divya-desams"
   ],
+  "summary": "तिरुवरगुणमंगै — ज्याला नाथम असेही म्हणतात — येथे विष्णूची विजयासन पेरुमाळ म्हणून पूजा केली जाते; नऊ ग्रहांच्या तिरुपतींपैकी चंद्राचे स्थान, नम्मालवार यांनी गायिलेला तामिरपरणीकाठचा एक दिव्य देसम.",
   "sections": {
-    "history": "Thiruvaragunamangai — the village of Natham — lies among the paddy country on the Tamiraparani, near Srivaikuntam, and its lord is Vijayasana Perumal, seated in grace. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and one of the Nava Tirupati — the nine temples of the Tamiraparani, each held as a planetary shrine of the Vaishnavas. Among the Nava Tirupati it is honoured as the shrine of the Moon, Chandra.",
-    "architecture": "Built in the Dravidian manner of the Pandya country and its later patrons, the temple is entered through a gateway tower and gathered around the sanctum of the presiding Vishnu, with the Goddess in her own shrine. Here the lord is worshipped as Vijayasana Perumal, with the Goddess Varagunavalli. Pillared halls open before the sanctum, in the temple manner of the deep south.",
-    "legends": "The Nava Tirupati are worshipped together as the nine planetary shrines of the Vaishnavas: where the Shaiva tradition of the Kaveri keeps nine separate Navagraha temples, here the nine planets are honoured across the nine abodes of Vishnu on the Tamiraparani, all sung by Nammalvar, the foremost of the Alvars, whose own birthplace is Alvarthirunagari among them. At Thiruvaragunamangai the planet is the Moon, Chandra.",
-    "festivals": "The temple keeps the great Vaishnava festivals — Vaikunta Ekadashi, the Garuda Sevai when the nine are worshipped in a single round, and the days of Nammalvar and the Alvars — with processions through the riverside villages. The Tamiraparani's own festivals draw the surrounding country.",
-    "experience": "A quiet riverside Divya Desam among the nine, rewarding for the pilgrim who follows the Tamiraparani from one Tirupati to the next. As the shrine of the Moon, it takes its place in the single pilgrimage of the Nava Tirupati that gathers the nine planets into the abodes of Vishnu."
+    "history": "तिरुवरगुणमंगै — म्हणजेच नाथम गाव — श्रीवैकुंठमजवळ, तामिरपरणीकाठच्या भातशेतींच्या प्रदेशात वसलेले आहे; येथील स्वामी विजयासन पेरुमाळ कृपाभावाने विराजमान आहेत. नालायिर दिव्य प्रबंधमध्ये आळवार संतांनी गायिलेल्या विष्णूच्या १०८ दिव्य देसमांपैकी हे एक आहे, तसेच नवतिरुपतींपैकीही एक — तामिरपरणीकाठची ही नऊ मंदिरे वैष्णवांकडून प्रत्येकी एक ग्रहक्षेत्र मानली जातात. नवतिरुपतींमध्ये हे चंद्राचे क्षेत्र म्हणून मान्यता पावलेले आहे.",
+    "architecture": "पांड्य प्रदेशाच्या आणि त्यानंतरच्या आश्रयदात्यांच्या द्रविड शैलीत बांधलेल्या या मंदिरात गोपुरद्वारातून प्रवेश होतो; मंदिर मुख्य विष्णूच्या गर्भगृहाभोवती वसलेले असून देवीचे स्वतंत्र मंदिर आहे. येथे स्वामींची विजयासन पेरुमाळ म्हणून, देवी वरगुणवल्लीसह, पूजा होते. दक्षिणेकडील मंदिररचनेनुसार गर्भगृहासमोर स्तंभयुक्त मंडप उघडतात.",
+    "legends": "नवतिरुपतींची एकत्रितपणे वैष्णवांची नऊ ग्रहक्षेत्रे म्हणून पूजा केली जाते: कावेरीकाठची शैव परंपरा नऊ स्वतंत्र नवग्रह मंदिरे राखते, तर येथे तामिरपरणीकाठच्या विष्णूच्या नऊ निवासस्थानांत नऊ ग्रहांचा सन्मान केला जातो; ती सर्व आळवारांतील अग्रगण्य नम्मालवार यांनी गायिलेली आहेत, आणि त्यांचे जन्मस्थान आळवारतिरुनगरीही त्यांतच आहे. तिरुवरगुणमंगै येथे ग्रह चंद्र आहे.",
+    "festivals": "मंदिरात वैकुंठ एकादशी, नऊ तिरुपतींची एकाच फेरीत पूजा होणारी गरुड सेवा, तसेच नम्मालवार आणि आळवारांचे उत्सव — हे मोठे वैष्णव उत्सव साजरे होतात; नदीकाठच्या गावांतून मिरवणुका निघतात. तामिरपरणीचे स्वतःचे उत्सवही आसपासच्या प्रदेशाला आकर्षित करतात.",
+    "experience": "नऊंपैकी एक शांत, नदीकाठचा दिव्य देसम; तामिरपरणीच्या काठाने एका तिरुपतीहून दुसऱ्या तिरुपतीकडे जाणाऱ्या यात्रेकरूला तो समाधान देतो. चंद्राचे क्षेत्र म्हणून तो नवतिरुपतींच्या त्या एकाच तीर्थयात्रेत स्थान घेतो, जी नऊ ग्रहांना विष्णूच्या निवासस्थानांत एकत्र आणते."
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Garuda Sevai and Vaikunta Ekadashi days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies in the Tirunelveli–Thoothukudi country on the Tamiraparani, on the Tirunelveli–Tiruchendur route, reachable by road from Tirunelveli; the nine Tirupati villages lie close together along the river."
+    "timings": "दररोज सकाळ-संध्याकाळच्या दर्शन-सत्रांसह आणि मध्यान्हीच्या बंद काळासह खुले; गरुड सेवा आणि वैकुंठ एकादशीचे दिवस सर्वाधिक गर्दीचे असतात. भेटीपूर्वी सध्याच्या वेळा तपासून घ्या.",
+    "dressCode": "पारंपरिक, सभ्य पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; प्रवेशापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात आणि त्याच्या परिसरात छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "gettingThere": "हे तामिरपरणीकाठच्या तिरुनेलवेली–तूतुकुडी प्रदेशात, तिरुनेलवेली–तिरुचेंदूर मार्गावर असून तिरुनेलवेलीहून रस्त्याने पोहोचता येते; नऊ तिरुपतींची गावे नदीकाठी एकमेकांच्या जवळ आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vijayasana-thiruvaragunamangai.jpg",

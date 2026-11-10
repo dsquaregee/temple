@@ -1,30 +1,37 @@
 {
   "id": "vilvanatheswarar-thiruvalam",
   "locale": "mr",
+  "name": "विल्वनाथेश्वर मंदिर, तिरुवलम",
   "nativeName": "வில்வநாதீஸ்வரர் கோயில்",
+  "deity": "विल्वनाथेश्वर रूपातील शिव, देवी वल्ली नायकीसह",
+  "tradition": "शैव",
   "location": {
-    "city": "Thiruvalam",
-    "state": "Tamil Nadu",
+    "city": "तिरुवलम",
+    "state": "तमिळनाडू",
     "lat": 12.9839,
     "lng": 79.2667
   },
+  "period": "तोंडै नाडूमधील प्राचीन शैव क्षेत्र, तेवारममध्ये गायिलेले; आठव्या शतकातील पल्लव शिलालेखांसह आणि नंतरच्या भरांसह दगडी बांधणीचे मंदिर",
   "century": 8,
+  "dynasty": "पल्लव (दुसऱ्या नंदिवर्मनच्या काळातील) आणि नंतरचे तमिळ आश्रयदाते",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "विल्वनाथेश्वर हे तोंडै प्रदेशातील तिरुवलम येथील शिवमंदिर आहे — परंपरा ज्याला प्राचीन बिल्ववन म्हणून स्मरते तेथील स्वयंभू लिंगाभोवती वाढलेले एक पाडल पेट्र स्थळ, आणि तेवारमच्या गायकांची नावे नोंदवणाऱ्या सर्वांत प्राचीन शिलालेखांपैकी काहींसाठी प्रसिद्ध.",
   "sections": {
-    "history": "Thiruvalam, called Thiruvallam in the Tevaram, stands in the Thondai country near Vellore, on the plain watered by the Ponnai river. The presiding Lord is praised in the hymns of the child-saint Sambandar, which makes it a Paadal Petra Sthalam, one of the temples sung by the Tamil Shaiva saints. The shrine is valued by historians for its stone record: its north wall carries one of the earliest inscriptions to name the singers of the Tevaram, and the temple preserves grants from the 8th-century Pallava king Nandivarman II and from later dynasties. Raised and enlarged in stone across the centuries, it has been kept in worship without a break.",
-    "architecture": "Built in the Dravidian manner and entered through a gopuram, the temple holds the Shiva linga as Vilvanatheswarar in its sanctum, believed to have arisen of itself from a termite mound. The goddess Valli Nayaki is honoured in her own shrine. The outer faces of the sanctum carry the koshta murtis, the attendant forms of Vinayaka, Dakshinamurti, Vishnu and Brahma, set as guardians of the directions. The temple's sacred tree is the bilva, the leaf dear to Shiva, and sources differ on the exact number of gopuram tiers and the size of the enclosure.",
-    "legends": "Tradition remembers the place as a forest of bilva trees, where a cow of its own accord would daily shed its milk over an anthill; the mound was found to hold a linga, and the temple grew around it. A second story tells of a devotee troubled by a giant who seized the water he drew each day; he prayed to the Lord of Thiruvalam, and Shiva sent his bull Nandi to stand guard over him. Told as local tradition rather than firm history, these tales carry the shrine's sense of a sanctuary raised where the sacred first showed itself.",
-    "festivals": "The temple keeps the festivals common to the great Shiva shrines, with a car festival and street processions drawing the deities through the village, and Maha Shivaratri and the monthly Pradosham observed with devotion. Dates follow the Tamil calendar, so confirm them locally; a visit near a festival finds the old shrine at its most alive.",
-    "experience": "Thiruvalam rewards a slow visit. Come to the sanctum of Vilvanatheswarar, turn to the goddess Valli Nayaki in her shrine, and look to the sculpted guardian forms on the sanctum walls. Those drawn to history will want to read the early inscriptions on the temple's stone, among the oldest to name the Tevaram saints, a reminder that the hymns sung here were already old when the walls were carved. The river plain spreads beyond the walls, and within them the temple keeps the quiet of a very old sanctuary."
+    "history": "तिरुवलम — तेवारममध्ये तिरुवल्लम म्हणून उल्लेखलेले — वेल्लोरजवळ, तोंडै प्रदेशात, पोन्नै नदीच्या पाण्याने सिंचित मैदानावर वसलेले आहे. बालसंत संबंदर यांच्या स्तोत्रांत येथील स्वामींची स्तुती केली आहे, त्यामुळे हे पाडल पेट्र स्थळ ठरते — तमिळ शैव संतांनी गायिलेल्या मंदिरांपैकी एक. इतिहासकार या क्षेत्राला त्याच्या शिलालेखांमुळे मोलाचे मानतात: त्याच्या उत्तर भिंतीवर तेवारमच्या गायकांची नावे नोंदवणाऱ्या सर्वांत प्राचीन शिलालेखांपैकी एक आहे, आणि मंदिरात आठव्या शतकातील पल्लव राजा दुसरा नंदिवर्मन आणि नंतरच्या राजवंशांकडून मिळालेल्या दानांची नोंद जपलेली आहे. शतकानुशतके दगडात उभारले आणि वाढवले गेलेले हे मंदिर खंड न पडता पूजेत राहिले आहे.",
+    "architecture": "द्रविड शैलीत बांधलेल्या आणि गोपुरातून प्रवेश असलेल्या या मंदिराच्या गर्भगृहात विल्वनाथेश्वर रूपातील शिवलिंग आहे, जे वारुळातून स्वतःहून प्रकटले असे मानले जाते. देवी वल्ली नायकीचा तिच्या स्वतंत्र मंदिरात सन्मान होतो. गर्भगृहाच्या बाह्य भिंतींवर कोष्ठमूर्ती आहेत — विनायक, दक्षिणामूर्ती, विष्णू आणि ब्रह्मा यांची परिवार रूपे, दिशांचे रक्षक म्हणून स्थापलेली. मंदिराचा पवित्र वृक्ष बिल्व आहे, शिवाला प्रिय असलेले पान; गोपुराच्या मजल्यांची नेमकी संख्या आणि प्रांगणाचा आकार याबाबत स्रोतांमध्ये मतभेद आहेत.",
+    "legends": "परंपरा या स्थळाला बिल्ववृक्षांचे वन म्हणून स्मरते, जेथे एक गाय स्वतःहून दररोज एका वारुळावर आपले दूध वर्षाव करत असे; त्या वारुळात लिंग असल्याचे आढळले आणि त्याभोवती मंदिर वाढले. दुसरी कथा एका भक्ताची आहे, ज्याला एक राक्षस त्रास देई आणि तो रोज भरलेले पाणी हिसकावून घेई; त्याने तिरुवलमच्या स्वामींची प्रार्थना केली, आणि शिवाने आपला वृषभ नंदी त्याच्या रक्षणासाठी उभा केला. स्थानिक परंपरा म्हणून सांगितलेल्या, ठोस इतिहास म्हणून नव्हे, या कथा पवित्र जेथे प्रथम प्रकट झाले तेथे उभ्या राहिलेल्या आश्रयस्थानाची या क्षेत्राची भावना व्यक्त करतात.",
+    "festivals": "मंदिरात महान शिवक्षेत्रांमध्ये सामान्य असलेले उत्सव साजरे होतात — रथोत्सव आणि रस्त्यांवरील मिरवणुकांत देवतांना गावातून फिरवले जाते, तसेच महाशिवरात्री आणि मासिक प्रदोष भक्तिभावाने पाळले जातात. तिथी तमिळ पंचांगानुसार असतात, म्हणून त्या स्थानिक पातळीवर तपासून घ्या; उत्सवाच्या सुमारास भेट दिल्यास हे जुने क्षेत्र सर्वाधिक जिवंत भासते.",
+    "experience": "तिरुवलम निवांत भेटीचे सार्थक करते. विल्वनाथेश्वराच्या गर्भगृहाशी या, देवी वल्ली नायकीकडे तिच्या मंदिरात वळा, आणि गर्भगृहाच्या भिंतींवरील कोरीव रक्षक रूपांकडे पाहा. इतिहासाची ओढ असणाऱ्यांनी मंदिराच्या दगडांवरील प्राचीन शिलालेख वाचावेत, जे तेवारमच्या संतांची नावे नोंदवणाऱ्यांत सर्वांत जुने आहेत; भिंती कोरल्या गेल्या तेव्हा येथे गायिली जाणारी स्तोत्रे आधीच प्राचीन होती याची ती आठवण आहे. भिंतींपलीकडे नदीचे मैदान पसरलेले आहे, आणि आत मंदिर एका अतिप्राचीन आश्रयस्थानाची शांतता राखते."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Thiruvalam is a village in Vellore district, about 2 km from Tiruvalam railway station on the Chennai–Katpadi line, and close to the Chennai–Bangalore highway roughly 10 km from Ranipet. Vellore and Katpadi are the nearest large centres, with frequent buses; confirm distances and connections locally."
+    "timings": "सहसा सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले, मध्यान्हीचा विश्रांती काळ असतो; वेळा स्थानिक पातळीवर तपासा, विशेषतः उत्सवाच्या दिवशी.",
+    "dressCode": "पारंपरिक, सभ्य पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा पायजमा-पॅन्ट, महिलांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे प्रवेशद्वारावरील स्टँडवर ठेवावीत.",
+    "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार, बाहेरील प्रदक्षिणा-मार्ग आणि अंगणांत छायाचित्रणाची सहसा परवानगी असते, पण आतील गर्भगृहात मनाई आहे. विधी किंवा पुजाऱ्यांचे फोटो काढण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुवलम हे वेल्लोर जिल्ह्यातील एक गाव आहे, चेन्नई–काटपाडी मार्गावरील तिरुवलम रेल्वे स्थानकापासून सुमारे २ किमी, आणि राणीपेटपासून सुमारे १० किमीवरील चेन्नई–बंगळुरू महामार्गाच्या जवळ. वेल्लोर आणि काटपाडी ही जवळची मोठी केंद्रे असून तेथून वारंवार बससेवा आहे; अंतरे आणि जोडणी स्थानिक पातळीवर तपासा."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vilvanatheswarar-thiruvalam.jpg",

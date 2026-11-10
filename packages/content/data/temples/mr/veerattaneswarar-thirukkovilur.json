@@ -1,30 +1,37 @@
 {
   "id": "veerattaneswarar-thirukkovilur",
   "locale": "mr",
+  "name": "वीरट्टानेश्वर मंदिर, तिरुक्कोविलूर",
   "nativeName": "திருக்கோவிலூர் வீரட்டானேஸ்வரர் கோயில்",
+  "deity": "वीरट्टानेश्वर रूपातील शिव, देवी पेरियनायकी (शिवानंदवल्ली) यांच्यासह",
+  "tradition": "शैव धर्म",
   "location": {
-    "city": "Thirukkovilur",
-    "state": "Tamil Nadu",
+    "city": "तिरुक्कोविलूर",
+    "state": "तमिळनाडू",
     "lat": 11.9714,
     "lng": 79.2106
   },
+  "period": "नाडू नाडू देशातील पाडल पेट्र स्थलम्, तेवारममध्ये गायिलेले (७ वे शतक); अष्ट वीरट्टानांपैकी एक",
   "century": 7,
+  "dynasty": "चोळ, नंतरच्या भरीसह",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "ashta-veerattanam",
     "paadal-petra-sthalams"
   ],
+  "summary": "तिरुक्कोविलूर येथे तेन पेण्णै नदीच्या दक्षिण तीरावर, वीरट्टानेश्वर रूपातील शिव अंधक असुरावरील आपल्या विजयाचे स्मरण जपतात — नाडू नाडू देशातील हे तेवारम स्थान गावातील भव्य विष्णू मंदिरापासून वेगळे आहे.",
   "sections": {
-    "history": "Thirukkovilur is an old town on the southern bank of the Then Pennai river in Kallakurichi district, remembered in Tamil literature as the seat of the Malaiyaman chieftains in the age of the Sangam poets. Its Shiva temple, known in older usage as Andhakapuram and Thirukkaivelur, is one of the eight Ashta Veerattanams, the shrines of the Lord's heroic deeds — here, his victory over the demon Andhaka. Sambandar, Appar and Sundarar all sang it in the Tevaram, and it is counted among the Paadal Petra Sthalams of the Nadu Nadu country. Chola-period inscriptions record endowments made to the shrine. The town is a Vaishnava pilgrimage too, for the Trivikrama Perumal Divya Desam stands here; the Veerattanam is a separate temple, with its own long history.",
-    "architecture": "The temple stands near the river in the Dravidian manner, its gateway tower opening onto courtyards that lead to the sanctum of Veerattaneswarar, with the goddess Periyanayaki in a shrine of her own. Its treasure is its bronzes: in the first precinct are festival images of Nataraja and Somaskanda, and of Andhakasura Samhara Murthy — Shiva in the very act this Veerattanam honours, the form that is carried out in procession on festival days.",
-    "legends": "Andhaka, the blind demon, grew mighty through boons and turned his strength against the gods. The tale most often told of him is that every drop of his blood that touched the ground rose up as another demon, so that wounding him only multiplied the battle. Shiva pierced him with his trident and held him aloft, so that no blood could fall, until the demon's pride was spent; in many tellings Andhaka, humbled, became a devotee of the Lord. Thirukkovilur keeps this victory, and its old name Andhakapuram preserves it.",
-    "festivals": "The festivals of the Shaiva year are kept here — Maha Shivaratri, the fortnightly pradosham, Arudra Darshan in Margazhi and Karthigai Deepam — and the annual festival brings the bronzes, among them Andhakasura Samhara Murthy, out in procession through the streets of Thirukkovilur. Confirm dates locally.",
-    "experience": "Thirukkovilur rewards a slower visit: a river town where a Shiva Veerattanam and a great Vishnu temple stand within the same streets, each with its own saints and songs. Pilgrims following the eight Veerattanams usually pair it with Thiruvathigai near Panruti to the east, before turning south to the Kaveri delta, where the remaining six lie."
+    "history": "तिरुक्कोविलूर हे कल्लाकुरिची जिल्ह्यात तेन पेण्णै नदीच्या दक्षिण तीरावरील एक प्राचीन शहर आहे; संगम कवींच्या काळात ते मलैयमान सरदारांची राजधानी म्हणून तमिळ साहित्यात स्मरणात आहे. जुन्या वापरात अंधकपुरम् आणि तिरुक्कैवेलूर म्हणून ओळखले जाणारे येथील शिवमंदिर आठ अष्ट वीरट्टानांपैकी एक आहे — प्रभूच्या वीरकृत्यांची स्थाने, येथे अंधक असुरावरील त्यांचा विजय. संबंदर, अप्पर आणि सुंदरर या तिघांनीही तेवारममध्ये याचे गायन केले, आणि ते नाडू नाडू देशातील पाडल पेट्र स्थलम्‌मध्ये गणले जाते. चोळकालीन शिलालेखांत या मंदिराला दिलेल्या दानांची नोंद आहे. हे शहर वैष्णव तीर्थक्षेत्रही आहे, कारण येथे त्रिविक्रम पेरुमाळ दिव्य देशम् आहे; वीरट्टानम् हे स्वतःचा दीर्घ इतिहास असलेले वेगळे मंदिर आहे.",
+    "architecture": "मंदिर नदीजवळ द्रविड पद्धतीने उभे आहे; त्याचा गोपुर प्रांगणांत उघडतो आणि ती वीरट्टानेश्वराच्या गर्भगृहाकडे नेतात, आणि देवी पेरियनायकी यांचे स्वतंत्र मंदिर आहे. त्याचा खजिना म्हणजे त्याची कांस्यशिल्पे: पहिल्या प्राकारात नटराज आणि सोमास्कंद यांच्या, तसेच अंधकासुरसंहार मूर्तीच्या उत्सवमूर्ती आहेत — हे वीरट्टानम् ज्या कृत्याचा सन्मान करते त्याच कृत्यातील शिव, जे रूप उत्सवाच्या दिवशी मिरवणुकीत नेले जाते.",
+    "legends": "अंधक, तो आंधळा असुर, वरदानांमुळे बलशाली झाला आणि त्याने आपले बळ देवांविरुद्ध वापरले. त्याच्याबद्दल सर्वाधिक सांगितली जाणारी कथा अशी की त्याच्या रक्ताचा प्रत्येक थेंब जमिनीला स्पर्श करताच दुसरा असुर म्हणून उभा राहत असे, त्यामुळे त्याला जखमी केल्याने युद्ध केवळ वाढत असे. शिवांनी त्याला त्रिशूळाने भोसकले आणि वर उचलून धरले, जेणेकरून रक्त पडू शकणार नाही, जोपर्यंत त्या असुराचा गर्व संपला नाही; अनेक कथनांत नम्र झालेला अंधक प्रभूचा भक्त बनला. तिरुक्कोविलूर हा विजय जपून ठेवते, आणि त्याचे जुने नाव अंधकपुरम् तो जपते.",
+    "festivals": "येथे शैव वर्षातील उत्सव साजरे केले जातात — महाशिवरात्री, पंधरवड्याचा प्रदोष, मार्गळीतील आरुद्र दर्शन आणि कार्तिगै दीपम — आणि वार्षिक उत्सवात अंधकासुरसंहार मूर्तीसह कांस्यमूर्ती तिरुक्कोविलूरच्या रस्त्यांवरून मिरवणुकीने काढल्या जातात. तारखा स्थानिक पातळीवर खात्री करून घ्याव्यात.",
+    "experience": "तिरुक्कोविलूर निवांत भेटीचे चीज करते: एक नदीकाठचे शहर जेथे शिवाचे वीरट्टानम् आणि भव्य विष्णू मंदिर एकाच रस्त्यांत उभे आहेत, प्रत्येकाचे आपले संत आणि आपली गीते आहेत. आठ वीरट्टाने करणारे यात्रेकरू सहसा हे पूर्वेकडील पण्रुटीजवळच्या तिरुवतिगईशी जोडतात, आणि मग दक्षिणेकडे कावेरी दुआबाकडे वळतात, जेथे उरलेली सहा आहेत."
   },
   "visit": {
-    "timings": "Open daily in morning and evening sessions with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is left outside before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; in the outer corridors, ask the temple staff before taking pictures, especially of rituals and the festival bronzes.",
-    "gettingThere": "Thirukkovilur lies in Kallakurichi district on the road between Villupuram and Tiruvannamalai, roughly 35 km from each, and has a railway station on the Villupuram–Katpadi line. The nearest airports are at Puducherry and Chennai."
+    "timings": "दररोज सकाळ आणि संध्याकाळच्या सत्रांत उघडे असते, मध्यान्हीच्या वेळी बंद असते; उत्सवाचे दिवस सर्वांत गर्दीचे असतात. भेट देण्यापूर्वी सध्याच्या वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "नम्र पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले असावेत; आत जाण्यापूर्वी पादत्राणे बाहेर काढून ठेवावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळावे.",
+    "photography": "गर्भगृहात छायाचित्रणास परवानगी नाही; बाह्य प्रदक्षिणा मार्गांवर छायाचित्रे घेण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारावे, विशेषतः विधी आणि उत्सवमूर्तींचे छायाचित्रण करताना.",
+    "gettingThere": "तिरुक्कोविलूर कल्लाकुरिची जिल्ह्यात विल्लुपुरम आणि तिरुवण्णामलई यांच्या दरम्यानच्या रस्त्यावर, प्रत्येकापासून सुमारे ३५ किमी अंतरावर आहे, आणि विल्लुपुरम–काटपाडी मार्गावर येथे रेल्वे स्थानक आहे. सर्वांत जवळची विमानतळे पुदुच्चेरी आणि चेन्नई येथे आहेत."
   }
 }

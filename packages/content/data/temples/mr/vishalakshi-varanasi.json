@@ -1,29 +1,36 @@
 {
   "id": "vishalakshi-varanasi",
   "locale": "mr",
+  "name": "विशालाक्षी मंदिर, वाराणसी",
   "nativeName": "विशालाक्षी मंदिर",
+  "deity": "विशालाक्षी (विशालाक्ष्मी), विशाल नेत्रांची देवी, रूपातील देवी, काल भैरव तिचे रक्षक म्हणून",
+  "tradition": "शाक्त",
   "location": {
-    "city": "Varanasi (Kashi)",
-    "state": "Uttar Pradesh",
+    "city": "वाराणसी (काशी)",
+    "state": "उत्तर प्रदेश",
     "lat": 25.309,
     "lng": 83.011
   },
+  "period": "काशीचे प्राचीन देवीपीठ, अठरा महा शक्तिपीठांपैकी एक; सध्याचे मंदिर १८९३ मध्ये पूर्ण झाले",
   "century": 19,
+  "dynasty": "तमिळनाडूतील नगरत्तार (नट्टुकोट्टै चेट्टियार) व्यापारी आश्रयदाते",
+  "style": "लहान द्रविड गोपुरासह उत्तर भारतीय हवेली-शैलीतील क्षेत्र",
   "unesco": false,
   "circuits": [
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "विशालाक्षी ही काशीची विशाल नेत्रांची माता आहे, अष्टादश शक्तिपीठ स्तोत्रात “वाराणस्यां विशालाक्षी” असे नाव घेतलेली, जेथे परंपरा सांगते की सतीचे कर्णभूषण किंवा नेत्र मणिकर्णिकेजवळ पडले; मीर घाटावरील तिचे मंदिर तमिळ नगरत्तार भक्तांनी पुन्हा उभारले.",
   "sections": {
-    "history": "Kashi is the city of Shiva, yet its tradition holds that the Mother is never absent from it, and Vishalakshi is her seat here. The Ashtadasha Shakti Peetha stotram, attributed to Adi Shankara, names the goddess of this city in the line \"Varanasyam Vishalakshi\", which places the shrine among the eighteen Maha Shakti Peethas. The Kashi Khanda of the Skanda Purana praises her greatness and counts her among the Nava Gauri, the nine goddesses of the city's own pilgrimage. The present temple at Mir Ghat was completed in 1893, rebuilt and maintained since the nineteenth century by the Nagarathar community of Tamil Nadu, whose devotion to Kashi has long linked the far south with the banks of the Ganga.",
-    "architecture": "The temple lies in the lanes above Mir Ghat, close to the old Dharmakupa well and a short walk from Manikarnika, and it is reached through a narrow passage rather than a grand forecourt. Its form recalls a Varanasi haveli, with an enclosed court and a compact sanctum, yet the hand of its southern patrons shows in a modest Dravidian gopuram and in Tamil inscriptions. The sanctum is said to hold two images of the goddess in dark stone: the older Adi Vishalakshi, and a larger image, dressed in jewels and flowers, set up when Tamil devotees renovated the shrine.",
-    "legends": "The pilgrim's story begins with Sati, who gave up her life at her father Daksha's sacrifice. Shiva, in grief, carried her body across the land, and as it was divided, every place where a part fell became a seat of the Mother. In Kashi tradition says it was the jewel of her ear-ornament that fell beside Manikarnika, which gave the ghat its name; another account holds that it was her eye, and the name Vishalakshi, the wide-eyed, is read in that light. Kashi has a second tale, told in the Skanda Purana. The sage Vyasa, finding that no household in the city offered him food, spoke a curse against it, and the goddess came to him as a housewife and fed him. Devotees remember here a Mother who nourishes the hungry.",
-    "festivals": "Kajali Teej, kept in the dark fortnight of Bhadrapada (August to September), is regarded as the temple's principal festival, when women gather to sing and pray for the well-being of their families. Chaitra Navratri (March or April) and Sharad Navratri (September or October) are observed for nine days in honour of the goddess in her many forms, and the temple is one of the stations of Kashi's Nava Gauri pilgrimage. Dates follow the Hindu lunar calendar, so confirm them locally.",
-    "experience": "Reach Vishalakshi on foot, as Kashi intends, by threading the old lanes toward the river and leaving the bustle of the ghats for the shrine's enclosed court. Pause at the threshold, then come before the goddess for darshan. Many pilgrims pair the visit with a walk to nearby Manikarnika and a prayer at Kashi Vishwanath, so that the Mother and the Lord of Kashi are honoured together. The southern inscriptions and the gopuram are a gentle reminder of how far the devotion of this shrine has travelled to reach the Ganga."
+    "history": "काशी ही शिवाची नगरी आहे, तरीही तिची परंपरा सांगते की माता तेथून कधीच अनुपस्थित नसते, आणि विशालाक्षी तेथील तिचे पीठ आहे. आदि शंकराचार्यांकडे श्रेय दिले जाणारे अष्टादश शक्तिपीठ स्तोत्र “वाराणस्यां विशालाक्षी” या ओळीत या नगरीच्या देवीचे नाव घेते, जी या क्षेत्राला अठरा महा शक्तिपीठांमध्ये स्थान देते. स्कंद पुराणातील काशी खंड तिची महती गातो आणि तिला नव गौरींमध्ये गणतो — नगरीच्या स्वतःच्या तीर्थयात्रेतील नऊ देवी. मीर घाटावरील सध्याचे मंदिर १८९३ मध्ये पूर्ण झाले; एकोणिसाव्या शतकापासून ते तमिळनाडूच्या नगरत्तार समुदायाने पुन्हा उभारले आणि सांभाळले, ज्यांच्या काशीविषयीच्या भक्तीने दूरच्या दक्षिणेला गंगेच्या तीराशी फार काळ जोडले आहे.",
+    "architecture": "मंदिर मीर घाटाच्या वरच्या गल्ल्यांत, जुन्या धर्मकूप विहिरीजवळ आणि मणिकर्णिकेपासून थोड्या अंतरावर आहे, आणि भव्य प्रांगणाऐवजी एका अरुंद मार्गाने तेथे पोहोचावे लागते. त्याचे स्वरूप वाराणसीच्या हवेलीची आठवण करून देते — बंदिस्त अंगण आणि लहानसे गर्भगृह — तरीही त्याच्या दक्षिणी आश्रयदात्यांचा हात एका साध्या द्रविड गोपुरात आणि तमिळ शिलालेखांत दिसतो. गर्भगृहात देवीच्या काळ्या दगडाच्या दोन मूर्ती असल्याचे सांगितले जाते: जुनी आदि विशालाक्षी, आणि तमिळ भक्तांनी क्षेत्राचे नूतनीकरण केले तेव्हा स्थापलेली, दागिने आणि फुलांनी सजवलेली मोठी मूर्ती.",
+    "legends": "यात्रेकरूची कथा सतीपासून सुरू होते, जिने आपले वडील दक्षाच्या यज्ञात प्राण दिले. शोकाकुल शिवाने तिचा देह देशभर वाहून नेला, आणि तो विभागला जात असताना ज्या ज्या ठिकाणी एक अवयव पडला ते मातेचे पीठ बनले. काशीच्या परंपरेनुसार तिच्या कर्णभूषणाचे रत्न मणिकर्णिकेशेजारी पडले, ज्यावरून घाटाला नाव मिळाले; दुसऱ्या कथनानुसार तो तिचा नेत्र होता, आणि विशालाक्षी, विशाल नेत्रांची, हे नाव त्या प्रकाशात वाचले जाते. काशीला स्कंद पुराणात सांगितलेली दुसरी कथाही आहे. ऋषी व्यासांना नगरीत कोणत्याच घराने अन्न दिले नाही असे आढळल्यावर त्यांनी तिला शाप दिला, आणि देवी गृहिणीच्या रूपाने त्यांच्याकडे आली आणि त्यांना जेवू घातले. भक्त येथे भुकेल्यांचे पोषण करणाऱ्या मातेचे स्मरण करतात.",
+    "festivals": "भाद्रपदाच्या कृष्ण पक्षात (ऑगस्ट ते सप्टेंबर) पाळली जाणारी कजली तीज हा मंदिराचा प्रमुख उत्सव मानला जातो, जेव्हा स्त्रिया आपल्या कुटुंबाच्या कल्याणासाठी गाणी गाण्यास आणि प्रार्थना करण्यास एकत्र येतात. चैत्र नवरात्र (मार्च किंवा एप्रिल) आणि शारदीय नवरात्र (सप्टेंबर किंवा ऑक्टोबर) देवीच्या अनेक रूपांच्या सन्मानार्थ नऊ दिवस पाळले जातात, आणि हे मंदिर काशीच्या नव गौरी तीर्थयात्रेच्या स्थानकांपैकी एक आहे. तिथी हिंदू चांद्र पंचांगानुसार असतात, म्हणून स्थानिक पातळीवर तपासा.",
+    "experience": "काशीच्या अपेक्षेनुसार पायी विशालाक्षीपर्यंत पोहोचा — नदीकडे जाणाऱ्या जुन्या गल्ल्यांतून वाट काढत आणि घाटांची गर्दी मागे सोडून क्षेत्राच्या बंदिस्त अंगणात. उंबरठ्यावर थांबा, मग दर्शनासाठी देवीसमोर या. अनेक यात्रेकरू या भेटीला जवळच्या मणिकर्णिकेपर्यंतची चाल आणि काशी विश्वनाथाला केलेली प्रार्थना जोडतात, म्हणजे माता आणि काशीचे स्वामी यांचा एकत्र सन्मान होतो. दक्षिणी शिलालेख आणि गोपुर हे या क्षेत्राची भक्ती गंगेपर्यंत किती दूर प्रवास करून आली आहे याची सौम्य आठवण आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning, around 5:00 to 6:00, until late evening, around 9:00 to 10:00, though listed hours vary; confirm timings locally, especially during Navratri.",
-    "dressCode": "Modest traditional attire is recommended: sarees, salwar kameez, or kurta with trousers or dhoti, with shoulders and knees covered. Footwear is left outside, and it is wise to carry little in the crowded lanes.",
-    "photography": "Photography rules are set by the temple and may change. It is customary not to photograph the sanctum or the image of the goddess, so ask the temple staff before using a camera or phone.",
-    "gettingThere": "The temple is at Mir Ghat in the old city, near Manikarnika Ghat and the Kashi Vishwanath area. Varanasi Junction railway station is about 4.5 km away and Lal Bahadur Shastri International Airport about 25 km. Vehicles cannot easily enter the lanes near the ghats, so take an auto or cycle rickshaw as far as the road allows and walk the last stretch."
+    "timings": "सहसा पहाटे, सुमारे ५:०० ते ६:००, पासून उशिरा संध्याकाळी, सुमारे ९:०० ते १०:००, पर्यंत खुले, तरी जाहीर केलेल्या वेळा बदलतात; वेळा स्थानिक पातळीवर तपासा, विशेषतः नवरात्रीत.",
+    "dressCode": "पारंपरिक, सभ्य पोशाख सुचवला जातो: साडी, सलवार कमीज, किंवा कुर्ता-पायजमा अथवा धोतर, खांदे आणि गुडघे झाकलेले. पादत्राणे बाहेर ठेवावीत, आणि गर्दीच्या गल्ल्यांत कमी सामान बाळगणे शहाणपणाचे आहे.",
+    "photography": "छायाचित्रणाचे नियम मंदिर ठरवते आणि ते बदलू शकतात. गर्भगृहाचे किंवा देवीच्या मूर्तीचे फोटो न काढण्याची प्रथा आहे, म्हणून कॅमेरा किंवा फोन वापरण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "मंदिर जुन्या शहरातील मीर घाटावर, मणिकर्णिका घाट आणि काशी विश्वनाथ परिसराजवळ आहे. वाराणसी जंक्शन रेल्वे स्थानक सुमारे ४.५ किमी आणि लाल बहादूर शास्त्री आंतरराष्ट्रीय विमानतळ सुमारे २५ किमी अंतरावर आहे. घाटांजवळच्या गल्ल्यांत वाहने सहज जाऊ शकत नाहीत, म्हणून रस्ता जेथवर जातो तेथवर ऑटो किंवा सायकल रिक्षाने जा आणि शेवटचा टप्पा चालत पार करा."
   }
 }
