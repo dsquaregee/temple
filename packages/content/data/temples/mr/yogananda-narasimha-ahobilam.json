@@ -1,30 +1,37 @@
 {
   "id": "yogananda-narasimha-ahobilam",
   "locale": "mr",
+  "name": "योगानंद नरसिंह मंदिर, अहोबिलम",
   "nativeName": "యోగానంద నరసింహ ఆలయం, అహోబిలం",
+  "deity": "विष्णू योगानंद नरसिंह रूपात — योगमुद्रेत मांडी घालून बसलेले",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "अहोबिलम",
+    "state": "आंध्र प्रदेश",
     "lat": 15.121,
     "lng": 78.687
   },
+  "period": "आंध्र प्रदेशातील नल्लमला टेकड्यांमधील अहोबिलमच्या नव नरसिंह क्षेत्रांपैकी एक",
   "century": 15,
+  "dynasty": "विजयनगर आश्रय",
+  "style": "लहान द्रविड मंदिर",
   "unesco": false,
   "circuits": [
     "ahobilam-nava-narasimha"
   ],
+  "summary": "खालच्या अहोबिलमच्या आग्नेयेस योगानंद नरसिंह सिंहरूप भगवानांना शांत रूपात दाखवतात — योगात बसलेले, जसे परंपरा सांगते की युद्ध जिंकल्यानंतर त्यांनी बाल प्रल्हादाला शिकवले तेव्हा ते होते.",
   "sections": {
-    "history": "Yogananda Narasimha lies about two kilometres south-east of Lower Ahobilam, where the plain meets the first folds of the Nallamala hills, and is one of the nine Narasimha shrines that make up the Ahobilam pilgrimage. It is among the most accessible of the nine, reached by a motorable road, and pilgrims usually visit it together with Chatravata Narasimha, which stands on the same route. The shrine is maintained within the Ahobila Matha's worship of the nine forms, and its structure is generally associated with the Vijayanagara period, when the temples of Ahobilam were richly endowed.",
-    "architecture": "A small walled temple with a pillared mandapa leads to the sanctum, where Narasimha sits cross-legged in a posture of yoga, the conch and discus in his upper hands. The image is serene rather than fierce: the leonine face is calm and the body is gathered inward, so that the shrine feels, in essence, like a place of meditation.",
-    "legends": "The sthala purana tells that after Hiranyakashipu was slain and the Lord's fury had subsided, Narasimha instructed Prahlada here in yoga, the disciplines that still the mind; hence Yogananda, bliss in yoga. The young prince who had held firm through every torment thus became the Lord's pupil. In the astrological reading of the nine shrines, Yogananda Narasimha is linked with Saturn.",
-    "festivals": "Narasimha Jayanti and the annual Brahmotsavam of Ahobilam are the principal occasions; Saturdays draw devotees who associate the shrine with Saturn. Confirm dates locally.",
-    "experience": "This is a peaceful shrine and an easy one: a road leads close to the gate, so it suits elderly pilgrims and families. Sit for a while after darshan — the image invites stillness. Visit it with Chatravata Narasimha on the same short outing from Lower Ahobilam."
+    "history": "योगानंद नरसिंह खालच्या अहोबिलमच्या सुमारे दोन किलोमीटर आग्नेयेस आहे, जिथे मैदान नल्लमला टेकड्यांच्या पहिल्या घड्यांना भेटते; अहोबिलम यात्रा घडवणाऱ्या नऊ नरसिंह क्षेत्रांपैकी हे एक आहे. नऊपैकी हे सर्वांत सहज पोहोचता येण्याजोग्यांपैकी आहे, कारण तेथे वाहन-योग्य रस्ता जातो, आणि यात्रेकरू सहसा त्याच मार्गावर असलेल्या छत्रवट नरसिंहासह याला भेट देतात. हे क्षेत्र अहोबिल मठाच्या नऊ रूपांच्या उपासनेत सांभाळले जाते, आणि त्याची रचना सामान्यतः विजयनगर काळाशी जोडली जाते, जेव्हा अहोबिलमच्या मंदिरांना उदार देणग्या मिळाल्या होत्या.",
+    "architecture": "स्तंभयुक्त मंडप असलेले एक लहान तटबंदीयुक्त मंदिर गर्भगृहाकडे नेते, जिथे नरसिंह योगमुद्रेत मांडी घालून बसले आहेत, त्यांच्या वरच्या हातांमध्ये शंख आणि चक्र आहे. मूर्ती उग्र नसून शांत आहे: सिंहमुख निर्मळ आहे आणि शरीर अंतर्मुख झालेले आहे, त्यामुळे हे क्षेत्र मुळात ध्यानाच्या स्थळासारखे वाटते.",
+    "legends": "स्थळपुराण सांगते की हिरण्यकशिपूचा वध झाल्यानंतर आणि भगवानांचा क्रोध शमल्यानंतर नरसिंहांनी येथे प्रल्हादाला योगाचे, म्हणजे मनाला स्थिर करणाऱ्या साधनांचे, शिक्षण दिले; म्हणूनच योगानंद, योगातील आनंद. प्रत्येक छळात दृढ राहिलेला तो बाल राजपुत्र अशा प्रकारे भगवानांचा शिष्य झाला. नऊ क्षेत्रांच्या ज्योतिषीय वाचनात योगानंद नरसिंह शनीशी जोडलेले आहेत.",
+    "festivals": "नरसिंह जयंती आणि अहोबिलमचा वार्षिक ब्रह्मोत्सव हे मुख्य प्रसंग आहेत; शनिवारी, हे क्षेत्र शनीशी जोडणारे भक्त येथे येतात. तारखा स्थानिक पातळीवर तपासून घ्या.",
+    "experience": "हे शांत आणि सोपे क्षेत्र आहे: रस्ता प्रवेशद्वाराजवळ पोहोचतो, त्यामुळे ज्येष्ठ यात्रेकरू आणि कुटुंबांसाठी ते योग्य आहे. दर्शनानंतर थोडा वेळ बसा — मूर्ती स्तब्धतेचे आमंत्रण देते. खालच्या अहोबिलमपासूनच्या त्याच छोट्या फेरीत छत्रवट नरसिंहासह याला भेट द्या."
   },
   "visit": {
-    "timings": "Worship is offered daily with morning and evening darshan and a midday closure. Confirm current timings locally.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Lower Ahobilam is reached by road via Allagadda; Nandyal is the nearest major railhead. Yogananda Narasimha is about two kilometres south-east of Lower Ahobilam by road; autos and jeeps are available locally."
+    "timings": "येथे दररोज उपासना होते; सकाळ आणि संध्याकाळी दर्शन असते आणि दुपारी बंद असते. सध्याच्या वेळा स्थानिक पातळीवर तपासून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत जाण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "खालच्या अहोबिलमला अल्लगड्डामार्गे रस्त्याने पोहोचता येते; नंद्याल हे जवळचे प्रमुख रेल्वेस्थानक आहे. योगानंद नरसिंह खालच्या अहोबिलमच्या सुमारे दोन किलोमीटर आग्नेयेस रस्त्याने आहे; स्थानिक पातळीवर रिक्षा आणि जीप उपलब्ध आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/yogananda-narasimha-ahobilam.jpg",
