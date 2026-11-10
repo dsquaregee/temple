@@ -1,29 +1,36 @@
 {
   "id": "ratnagiriswarar-ayyarmalai",
   "locale": "mr",
+  "name": "रत्नगिरीश्वर मंदिर, अय्यरमलै",
   "nativeName": "ரத்தினகிரீஸ்வரர் கோயில்",
+  "deity": "रत्नगिरीश्वर (वाट्पोक्किनाथर) रूपातील शिव, देवी सुरुंबार कुळली यांच्यासह",
+  "tradition": "शैव",
   "location": {
-    "city": "Ayyarmalai",
-    "state": "Tamil Nadu",
+    "city": "अय्यरमलै",
+    "state": "तमिळनाडू",
     "lat": 10.878,
     "lng": 78.383
   },
+  "period": "चोळ नाडूतील प्राचीन डोंगरावरील मंदिर, तेवारममध्ये गायलेले (सातवे शतक); बांधीव मंदिर मध्ययुगीन, नंतरच्या भरीसह",
   "century": 7,
+  "dynasty": "मध्ययुगीन तमिळ आश्रयदाते (चोळ काळ आणि नंतर)",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "रत्नगिरीश्वर अय्यरमलै येथील खडकाळ डोंगराच्या शिखरावर विराजमान आहेत — तेवारममधील तिरुवाट्पोक्की — जेथे स्वयंभू शिव कावेरीच्या मैदानावर पश्चिमाभिमुख आहेत आणि देवी सुरुंबार कुळली पूर्वाभिमुख आहेत; दगडी पायऱ्यांची लांब चढण चढून येथे पोहोचावे लागते.",
   "sections": {
-    "history": "Ayyarmalai, also spelled Iyermalai, rises from the plain on the southern bank of the Kaveri in Karur district, a few kilometres from Kulithalai. In the Tevaram the place is called Thiruvatpokki, and the saint Appar sang its praise, with Sundarar also credited by some accounts. It is counted among the Paadal Petra Sthalams of Chola Nadu, the shrines on the southern side of the river. The exact age of the present buildings is not firmly documented: worship here is understood to reach back to the Tevaram age, while the stone structures are generally thought to be medieval and were added to in later centuries. A custom of bringing water from the Kaveri up the hill for the daily anointing of the Lord is said to have been kept by the temple's servitors for a very long time.",
-    "architecture": "The temple sits on the summit and is reached by a long flight of stone steps, broken by resting mandapas with carved pillars; counts of the steps vary, with figures of around nine hundred and fifty given by one reckoning. At the top the sanctum of Ratnagiriswarar holds a Shiva linga honoured as self-manifested, said to have appeared among a ring of rocks. The Lord faces west, while the goddess Surumbar Kuzhali has her own shrine facing east, an arrangement uncommon among Shiva temples. A pillared hall at the temple takes the living rock of the hill into its design, so that stone and sanctuary seem to grow from one another. The sacred tree of the shrine is the neem.",
-    "legends": "The name Vatpokki is explained by a tradition from this hill. A king, it is told, came here in search of gems. Shiva appeared to him as a Brahmin and asked that a vessel be filled with water from the Kaveri. When the task proved impossible and the king, in anger, raised his sword, the Lord stayed the blow and instead gave him a precious stone. In Tamil, vaal is the sword and pokki the one who turns it aside, and the name Ratnagiriswarar, Lord of the Jewel Hill, is said to recall the gift. A second tradition holds that the hill is a fragment of the mythic Mount Meru, torn away when the wind god Vayu contended with the serpent Adishesha and flung down here.",
-    "festivals": "Maha Shivaratri is the great night of the temple, when devotees climb in numbers to keep vigil on the hill. The monthly Pradosham is observed here as at every Shiva temple, along with the annual festivals of the Tamil calendar common to the shrines of the Kaveri country. Confirm dates locally, as they follow the Tamil calendar and the specific rites vary from year to year.",
-    "experience": "Ayyarmalai asks something of the pilgrim, and rewards it. Begin the climb early, before the sun is strong, pausing at the resting halls as generations of devotees have done. From the summit the green Kaveri plain spreads out below, and in the sanctum the west-facing Lord and the east-facing goddess are seen in a quiet that the climb has earned. Many pilgrims make a day of it by first visiting Kadambavaneswarar at Kulithalai in the morning, then coming up this hill, and ending at the hill shrine of Thiruvengoimalai in the evening."
+    "history": "अय्यरमलै, ज्याला ऐयरमलै असेही लिहिले जाते, करूर जिल्ह्यात कावेरीच्या दक्षिण तीरावरील मैदानातून उंच उठते, कुळित्तलैपासून काही किलोमीटर अंतरावर. तेवारममध्ये या स्थळाला तिरुवाट्पोक्की म्हटले आहे, आणि संत अप्पर यांनी त्याची स्तुती गायली; काही वर्णनांनुसार सुंदरारांनाही त्याचे श्रेय दिले जाते. हे चोळ नाडूतील पाडल पेत्र स्थळांपैकी, म्हणजे नदीच्या दक्षिण बाजूच्या मंदिरांपैकी, मानले जाते. सध्याच्या इमारतींचे नेमके वय दृढपणे नोंदलेले नाही: येथील पूजा तेवारम काळापर्यंत मागे जाते असे समजले जाते, तर दगडी रचना सामान्यतः मध्ययुगीन मानल्या जातात आणि पुढच्या शतकांत त्यांत भर घातली गेली. प्रभूच्या दैनंदिन अभिषेकासाठी कावेरीचे पाणी डोंगरावर आणण्याची प्रथा मंदिराचे सेवेकरी फार प्राचीन काळापासून पाळत आले आहेत असे सांगितले जाते.",
+    "architecture": "मंदिर शिखरावर वसले असून दगडी पायऱ्यांच्या लांब मार्गाने तेथे जावे लागते; मध्ये कोरीव स्तंभांचे विश्रांती-मंडप आहेत; पायऱ्यांची मोजणी वेगवेगळी सांगितली जाते, एका गणनेनुसार सुमारे नऊशे पन्नास पायऱ्या दिल्या आहेत. वर रत्नगिरीश्वरांच्या गर्भगृहात स्वयंभू मानलेले शिवलिंग आहे, जे खडकांच्या वर्तुळात प्रकटले असे सांगितले जाते. प्रभू पश्चिमाभिमुख आहेत, तर देवी सुरुंबार कुळली यांचे स्वतंत्र मंदिर पूर्वाभिमुख आहे; शिवमंदिरांत ही रचना असामान्य आहे. मंदिरातील स्तंभयुक्त मंडप डोंगराच्या जिवंत खडकाला आपल्या रचनेत सामावून घेतो, त्यामुळे दगड आणि गर्भगृह एकमेकांतून उगवल्यासारखे वाटतात. मंदिराचा पवित्र वृक्ष कडुनिंब आहे.",
+    "legends": "वाट्पोक्की या नावाचे स्पष्टीकरण या डोंगराच्या एका परंपरेतून दिले जाते. सांगितले जाते की एक राजा रत्नांच्या शोधात येथे आला. शिव त्याला ब्राह्मणाच्या रूपात प्रकटले आणि कावेरीच्या पाण्याने एक पात्र भरून देण्यास सांगितले. हे काम अशक्य ठरले आणि रागाने राजाने तलवार उगारली, तेव्हा प्रभूंनी तो वार थांबवला आणि त्याऐवजी त्याला एक मौल्यवान रत्न दिले. तमिळमध्ये वाळ म्हणजे तलवार आणि पोक्की म्हणजे ती बाजूला सारणारा; आणि रत्नगिरीश्वर, म्हणजे रत्न-पर्वताचा स्वामी, हे नाव त्या देणगीची आठवण करून देते असे म्हटले जाते. दुसऱ्या परंपरेनुसार हा डोंगर पौराणिक मेरू पर्वताचा एक तुकडा आहे, जो वायुदेव आणि शेषनाग यांच्या झुंजीत तुटून येथे फेकला गेला.",
+    "festivals": "महाशिवरात्री ही मंदिराची महान रात्र आहे, जेव्हा भाविक मोठ्या संख्येने डोंगरावर चढून जागरण करतात. प्रत्येक शिवमंदिराप्रमाणे येथेही मासिक प्रदोष पाळला जातो, तसेच कावेरी प्रदेशातील मंदिरांसाठी सामान्य असलेले तमिळ कालगणनेनुसारचे वार्षिक उत्सव साजरे होतात. तारखा स्थानिक पातळीवर खात्री करून घ्या, कारण त्या तमिळ कालगणनेनुसार ठरतात आणि विशिष्ट विधी वर्षानुवर्षे बदलतात.",
+    "experience": "अय्यरमलै यात्रेकरूकडून काहीतरी मागते, आणि त्याचे फळही देते. सूर्य प्रखर होण्यापूर्वी, लवकर चढण सुरू करा, पिढ्यान्पिढ्या भाविकांनी केले तसे विश्रांती-मंडपांत थांबत जा. शिखरावरून खाली हिरवे कावेरी मैदान पसरलेले दिसते, आणि गर्भगृहात पश्चिमाभिमुख प्रभू आणि पूर्वाभिमुख देवी चढणीने कमावलेल्या शांततेत दिसतात. अनेक यात्रेकरू सकाळी आधी कुळित्तलैतील कदंबवनेश्वरांचे दर्शन घेऊन, मग या डोंगरावर येऊन, आणि संध्याकाळी तिरुवेंगोईमलै डोंगरावरील मंदिरात समाप्ती करून दिवसभराची यात्रा करतात."
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days. Plan the climb for the cooler hours.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the foot of the hill, so comfortable shoes are best kept for the road.",
-    "photography": "Photography is generally permitted on the stairway and in the outer areas but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Ayyarmalai lies about 10 km from the Kulithalai bus stand in Karur district, on the Karur–Tiruchirappalli side of the Kaveri. Kulithalai has a railway station on the Tiruchirappalli–Karur line, and Tiruchirappalli, with the nearest airport, is roughly 40 km away. Local buses and autos serve the foot of the hill."
+    "timings": "सहसा सकाळी आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले, दुपारी विश्रांतीची वेळ असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करा. चढण थंड वेळेत करण्याचे नियोजन करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे: पुरुषांसाठी धोतर किंवा विजार, महिलांसाठी साडी, सलवार कमीज किंवा लांब स्कर्ट, खांदे आणि गुडघे झाकलेले. पादत्राणे डोंगराच्या पायथ्याशी ठेवली जातात, म्हणून आरामदायक बूट रस्त्यासाठीच ठेवलेले बरे.",
+    "photography": "तमिळनाडूतील मंदिर-नियमांनुसार पायऱ्यांच्या मार्गावर आणि बाह्य भागांत छायाचित्रण सामान्यतः परवानगीयुक्त आहे, परंतु आतील गर्भगृहात निषिद्ध आहे. विधी किंवा पुजाऱ्यांचे छायाचित्र काढण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "अय्यरमलै करूर जिल्ह्यात, कावेरीच्या करूर–तिरुचिरापल्ली बाजूला, कुळित्तलै बस स्थानकापासून सुमारे १० किमी अंतरावर आहे. कुळित्तलैत तिरुचिरापल्ली–करूर मार्गावर रेल्वे स्थानक आहे, आणि सर्वांत जवळचा विमानतळ असलेले तिरुचिरापल्ली सुमारे ४० किमी दूर आहे. स्थानिक बस आणि ऑटो डोंगराच्या पायथ्यापर्यंत धावतात."
   }
 }

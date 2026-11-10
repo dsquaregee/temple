@@ -1,29 +1,36 @@
 {
   "id": "saaraparameswarar-tirucherai",
   "locale": "mr",
+  "name": "सारा परमेश्वर मंदिर, तिरुचेरै",
   "nativeName": "திருச்சேறை சாரா பரமேஸ்வரர் கோயில்",
+  "deity": "सारा परमेश्वर (ज्ञानपरमेश्वर) रूपातील शिव, देवी ज्ञानवल्ली यांच्यासह",
+  "tradition": "शैव — एक पाडल पेत्र स्थळ",
   "location": {
-    "city": "Tirucherai, near Kudavasal",
-    "state": "Tamil Nadu",
+    "city": "तिरुचेरै, कुडवासलजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.87,
     "lng": 79.47
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायलेले); नंतरचे चोळकालीन बांधीव मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्रविड",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "कुंभकोणम प्रदेशातील कुडवासलजवळील तिरुचेरै येथे शिवाची सारा परमेश्वर — ज्ञानपरमेश्वर — रूपात, देवी ज्ञानवल्ली यांच्यासह, पूजा होते. संबंदर आणि अप्पर यांनी गायलेले हे पाडल पेत्र स्थळ कावेरीच्या दक्षिण तीरावरील ९५वे मंदिर आहे; ते मार्कंडेय ऋषींशी जोडलेले असून कर्जमुक्तीसाठी याचना केली जाणारे स्थान आहे.",
   "sections": {
-    "history": "Tirucherai lies near Kudavasal, in Thanjavur district (some sources Tiruvarur), in the Kumbakonam country. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar and Appar, and counted the 95th shrine on the southern bank of the Kaveri. The stone temple is of the Chola period and later. (The Shiva temple here is distinct from the Saranatha Perumal Vishnu Divya Desam of the same town.)",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Saara Parameswarar — Gnanaparameswarar, also Senneriyappar — in the sanctum, with the goddess Gnanavalli (Gnanambikai) in her own shrine, a Nandi and the parivara devatas. Near the Vinayakar stands a separate lingam, the Rnavimochana Lingeswarar, installed by sage Markandeya, worshipped for release from debt.",
-    "legends": "The sage Markandeya, by tradition, felt his past karmas lifted on coming here, and installed the Rnavimochana Lingeswarar — 'the lord who looses debt' — beside the Vinayakar; the shrine is especially sought by those seeking relief from debt. Shiva is worshipped as Saara Parameswarar, 'the supreme essence,' with Gnanavalli, 'she of wisdom,' beside him. The fuller sthala purana survives in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), the Annabishekam in Aippasi (October–November), Tiruvadhirai in Margazhi (December–January), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Devotees come especially to pray for release from debt.",
-    "experience": "At Tirucherai the pilgrim comes to the lord of the supreme essence. Before Saara Parameswarar and Gnanavalli, and the Rnavimochana lingam of Markandeya, the visitor finds the quiet grace of a Tevaram temple of the Kumbakonam delta, and the hope of release from the burden of debt."
+    "history": "तिरुचेरै कुंभकोणम प्रदेशात, तंजावूर जिल्ह्यात (काही स्रोतांनुसार तिरुवारूर), कुडवासलजवळ आहे. हे पाडल पेत्र स्थळ असून तिरुज्ञान संबंदर आणि अप्पर यांनी तेवारममध्ये त्याचे स्तवन केले आहे, आणि ते कावेरीच्या दक्षिण तीरावरील ९५वे मंदिर मानले जाते. दगडी मंदिर चोळ काळातील आणि नंतरचे आहे. (येथील शिवमंदिर याच गावातील सारनाथ पेरुमाळ या विष्णूच्या दिव्य देशापासून वेगळे आहे.)",
+    "architecture": "हे द्रविड शैलीतील त्रिभुज-प्रदेशी मंदिर असून गर्भगृहात सारा परमेश्वर — ज्ञानपरमेश्वर, तसेच सेन्नेरियप्पर — विराजमान आहेत; देवी ज्ञानवल्ली (ज्ञानांबिका) त्यांच्या स्वतंत्र मंदिरात आहेत; तसेच नंदी आणि परिवार देवता आहेत. विनायकाजवळ एक स्वतंत्र लिंग आहे — ऋणविमोचन लिंगेश्वर — जे मार्कंडेय ऋषींनी स्थापिले असून कर्जमुक्तीसाठी पूजले जाते.",
+    "legends": "परंपरेनुसार मार्कंडेय ऋषींना येथे येताच आपली पूर्वकर्मे दूर झाल्याचे जाणवले, आणि त्यांनी विनायकाशेजारी ऋणविमोचन लिंगेश्वर — 'कर्ज सोडवणारे प्रभू' — स्थापले; कर्जापासून सुटका इच्छिणारे लोक विशेषत्वाने या मंदिराकडे येतात. शिवाची सारा परमेश्वर, 'परम सार', म्हणून पूजा होते आणि त्यांच्या शेजारी 'ज्ञानमयी' ज्ञानवल्ली विराजमान आहेत. अधिक सविस्तर स्थलपुराण स्थानिक परंपरेत आणि तेवारमच्या पदांत टिकून आहे.",
+    "festivals": "मंदिरात मासी महिन्यातील (फेब्रुवारी–मार्च) महाशिवरात्री, ऐप्पसी महिन्यातील (ऑक्टोबर–नोव्हेंबर) अन्नाभिषेक, मार्गळी महिन्यातील (डिसेंबर–जानेवारी) तिरुवादिरै, पुरट्टासी महिन्यातील (सप्टेंबर–ऑक्टोबर) नवरात्र आणि कार्तिकैतील सोमवार पाळले जातात, प्रदोष पूजेसह. भाविक विशेषतः कर्जमुक्तीसाठी प्रार्थना करण्यास येतात.",
+    "experience": "तिरुचेरै येथे यात्रेकरू परम सारस्वरूप प्रभूंकडे येतो. सारा परमेश्वर आणि ज्ञानवल्ली, तसेच मार्कंडेयांच्या ऋणविमोचन लिंगासमोर अभ्यागताला कुंभकोणम त्रिभुज-प्रदेशातील तेवारम मंदिराची शांत कृपा आणि कर्जाच्या ओझ्यातून सुटकेची आशा लाभते."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirucherai lies near Kudavasal, roughly midway between Kumbakonam and Nannilam, in Thanjavur district. Kumbakonam is the nearest town and rail head, with buses and taxis to the village."
+    "timings": "सहसा पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत खुले; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करा.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वारी ठेवली जातात.",
+    "photography": "बाहेरील प्रदक्षिणा मार्गांत छायाचित्रण सामान्यतः परवानगीयुक्त आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्र काढण्यापूर्वी मंदिर कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुचेरै तंजावूर जिल्ह्यात, कुडवासलजवळ, कुंभकोणम आणि नन्निलम यांच्या अंदाजे मध्यावर आहे. कुंभकोणम हे सर्वांत जवळचे शहर आणि रेल्वे स्थानक असून गावापर्यंत बस आणि टॅक्सी उपलब्ध आहेत."
   }
 }

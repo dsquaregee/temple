@@ -1,30 +1,37 @@
 {
   "id": "vaidyanath-deoghar",
   "locale": "mr",
+  "name": "बैद्यनाथ मंदिर, देवघर",
   "nativeName": "श्री बैद्यनाथ ज्योतिर्लिंग मंदिर",
+  "deity": "बैद्यनाथ (वैद्यनाथ) रूपातील शिव — वैद्यांचा स्वामी — बारा ज्योतिर्लिंगांपैकी एक; येथे देवीचा शक्तिपीठ म्हणून सन्मान केला जातो",
+  "tradition": "शैव आणि शाक्त",
   "location": {
-    "city": "Deoghar",
-    "state": "Jharkhand",
+    "city": "देवघर",
+    "state": "झारखंड",
     "lat": 24.4925,
     "lng": 86.7
   },
+  "period": "पूर्व भारतातील प्राचीन तीर्थ; मुख्य मंदिराचा पुढील भाग १५९६ साली गिधौरच्या पूरण मल यांनी बांधला असे मानले जाते",
   "century": 16,
+  "dynasty": "गिधौरचे पूरण मल (१५९६) आणि नंतरचे आश्रयदाते",
+  "style": "नागर (पूर्व भारतीय)",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "देवांचे निवासस्थान असलेल्या देवघर येथे शिवाची दिव्य वैद्य, बैद्यनाथ, म्हणून पूजा होते — बारा ज्योतिर्लिंगांपैकी एक; येथे दर श्रावणात लाखो यात्रेकरू सुलतानगंजहून गंगाजल घेऊन पायी येतात.",
   "sections": {
-    "history": "Deoghar, whose name means the abode of the gods, lies in the Santhal Pargana country of Jharkhand, and its temple of Baba Baidyanath is among the most visited shrines of eastern India. Baidyanath is honoured as one of the twelve Jyotirlingas named in the Dvadasha Jyotirlinga Stotram; Parli Vaijnath in Maharashtra is also revered by many as the Vaidyanath of the twelve, and both shrines are dear to their devotees. Deoghar is counted, too, among the Shakti Peethas, so that Shiva and the goddess are worshipped side by side. The builder of the main temple is not recorded, but a Sanskrit inscription credits Puran Mal, an ancestor of the rulers of Gidhaur, with work on its front portion in 1596.",
-    "architecture": "The main shrine is a tall, plain tower of the eastern Nagara kind, whitewashed and crowned not with a trident but with a panchashula, a five-pointed emblem that marks this temple. Around it a walled courtyard holds twenty-one further shrines, making twenty-two in all, among them the temple of Parvati. Long bands of red cloth are tied between the spires of Shiva's and Parvati's shrines as a sign of their union. The Jyotirlinga within is small, its top slightly broken, a mark the legend explains.",
-    "legends": "Ravana, it is told, performed severe penance to win Shiva, offering his heads one by one; the lord restored him as a physician heals, and so is called Vaidyanath. Granted the linga to carry to Lanka, Ravana was bound not to set it down on the way. At Deoghar he was compelled to stop and handed it to a cowherd, remembered as Baiju, who placed it on the ground, and there it stayed. Ravana's thumb, pressed in anger, is said to have left the mark on the linga.",
-    "festivals": "The Shravani Mela, through the month of Shravan in the monsoon, is the great season: saffron-clad kanwariyas collect Ganga water at Sultanganj in Bihar and walk about 105 km, calling \"Bol Bam\", to pour it on the Jyotirlinga. Maha Shivaratri is kept with night-long worship. Confirm dates locally.",
-    "experience": "In Shravan the road from Sultanganj becomes a river of pilgrims, and the temple town hums day and night. Outside the season, darshan is calmer, and pilgrims can walk the courtyard from shrine to shrine and see the red bands joining the spires. Many go on afterwards to the Basukinath temple, about 45 km away, to complete the pilgrimage."
+    "history": "देवघर — ज्याच्या नावाचा अर्थ देवांचे निवासस्थान — झारखंडच्या संताळ परगणा प्रदेशात आहे, आणि तेथील बाबा बैद्यनाथांचे मंदिर पूर्व भारतातील सर्वाधिक भेट दिल्या जाणाऱ्या देवस्थानांपैकी आहे. द्वादश ज्योतिर्लिंग स्तोत्रात नमूद केलेल्या बारा ज्योतिर्लिंगांपैकी एक म्हणून बैद्यनाथांचा गौरव होतो; महाराष्ट्रातील परळी वैजनाथही अनेकांकडून बारांतील वैद्यनाथ म्हणून पूज्य मानले जाते, आणि दोन्ही देवस्थाने आपापल्या भक्तांना प्रिय आहेत. देवघर शक्तिपीठांतही गणले जाते, त्यामुळे येथे शिव आणि देवी शेजारी शेजारी पूजल्या जातात. मुख्य मंदिराचा निर्माता नोंदलेला नाही, परंतु एका संस्कृत शिलालेखानुसार गिधौरच्या राजांचे पूर्वज पूरण मल यांनी १५९६ साली त्याच्या पुढील भागाचे काम केले.",
+    "architecture": "मुख्य देवस्थान हा पूर्वेकडील नागर प्रकारचा उंच, साधा मनोरा आहे; तो चुन्याने रंगवलेला असून त्रिशूळाऐवजी पंचशूळाने, म्हणजे या मंदिराची ओळख असलेल्या पंचकोनी चिन्हाने, मुकुटमंडित आहे. त्याभोवतीच्या तटबंदीच्या अंगणात आणखी एकवीस देवस्थाने आहेत, म्हणजे एकूण बावीस, त्यांत पार्वतीचे मंदिर आहे. शिव आणि पार्वती यांच्या देवस्थानांच्या शिखरांदरम्यान त्यांच्या मीलनाचे प्रतीक म्हणून लाल कापडाच्या लांब पट्ट्या बांधल्या जातात. आतील ज्योतिर्लिंग लहान आहे, त्याचा वरचा भाग किंचित भग्न आहे, ज्या खुणेचे स्पष्टीकरण आख्यायिका देते.",
+    "legends": "सांगितले जाते की रावणाने शिवाला प्राप्त करण्यासाठी कठोर तपश्चर्या केली आणि आपली मस्तके एकामागून एक अर्पण केली; वैद्य जसा रुग्णाला बरा करतो तसे प्रभूने त्याला पूर्ववत केले, आणि म्हणून त्यांना वैद्यनाथ म्हणतात. लंकेला नेण्यासाठी लिंग मिळाल्यावर, वाटेत ते खाली न ठेवण्याचे रावणावर बंधन होते. देवघर येथे त्याला थांबावे लागले आणि त्याने ते बैजू म्हणून स्मरणात असलेल्या एका गुराख्याच्या हाती दिले, ज्याने ते जमिनीवर ठेवले, आणि तेथेच ते स्थिरावले. रागाने दाबलेल्या रावणाच्या अंगठ्याने लिंगावर खूण उमटली, असे सांगितले जाते.",
+    "festivals": "पावसाळ्यातील श्रावण महिन्यात चालणारी श्रावणी मेळा हा येथील महान काळ आहे: भगवी वस्त्रे परिधान केलेले कावडिये बिहारमधील सुलतानगंज येथे गंगाजल भरून \"बोल बम\" चा घोष करीत सुमारे १०५ कि.मी. चालत जातात आणि ते ज्योतिर्लिंगावर अर्पण करतात. महाशिवरात्री रात्रभर पूजेसह साजरी होते. तारखा स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "experience": "श्रावणात सुलतानगंजहून येणारा रस्ता यात्रेकरूंची नदी बनतो, आणि मंदिर-नगर रात्रंदिवस गजबजलेले असते. हंगामाबाहेर दर्शन अधिक शांत असते, आणि यात्रेकरू अंगणात एका देवस्थानातून दुसऱ्याकडे फिरत शिखरांना जोडणाऱ्या लाल पट्ट्या पाहू शकतात. यात्रा पूर्ण करण्यासाठी अनेक जण नंतर सुमारे ४५ कि.मी. अंतरावरील बासुकीनाथ मंदिरालाही जातात."
   },
   "visit": {
-    "timings": "Open daily from early morning to night; during the Shravani Mela and on Maha Shivaratri special queue arrangements apply. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; follow the posted rules and staff guidance.",
-    "gettingThere": "Deoghar is reached by rail via Jasidih Junction on the Howrah–Delhi main line, about 7 km away, with a branch line to Baidyanath Dham station; Deoghar also has its own airport. Kanwariyas walk from Sultanganj in Bihar, about 105 km away."
+    "timings": "पहाटेपासून रात्रीपर्यंत दररोज उघडे असते; श्रावणी मेळा आणि महाशिवरात्रीला विशेष रांग-व्यवस्था लागू असते. भेटीपूर्वी सध्याच्या वेळा स्थानिक पातळीवर पडताळून घ्याव्यात.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे व गुडघे झाकलेले असावेत; आत प्रवेशण्यापूर्वी पादत्राणे काढावीत. लावलेल्या नियमांचे आणि पुजाऱ्यांच्या मार्गदर्शनाचे पालन करावे.",
+    "photography": "गर्भगृहात छायाचित्रणास परवानगी नाही; लावलेल्या नियमांचे आणि कर्मचाऱ्यांच्या मार्गदर्शनाचे पालन करावे.",
+    "gettingThere": "हावडा–दिल्ली मुख्य मार्गावरील जसीडीह जंक्शन (सुमारे ७ कि.मी. अंतरावर) मार्गे देवघरला रेल्वेने पोहोचता येते; तेथून बैद्यनाथ धाम स्थानकापर्यंत शाखा मार्ग आहे, आणि देवघरचे स्वतःचे विमानतळही आहे. कावडिये बिहारमधील सुमारे १०५ कि.मी. अंतरावरील सुलतानगंजहून पायी चालत येतात."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.jpg",

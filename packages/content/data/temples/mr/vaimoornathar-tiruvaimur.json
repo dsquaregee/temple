@@ -1,29 +1,36 @@
 {
   "id": "vaimoornathar-tiruvaimur",
   "locale": "mr",
+  "name": "वाय्मूरनाथर मंदिर, तिरुवाय्मूर",
   "nativeName": "திருவாய்மூர் வாய்மூர்நாதர் கோயில்",
+  "deity": "शिव वाय्मूरनाथर (वाय्मूरनाथर, स्वयंभू लिंग) रूपात, देवी पालिन नन्मोळियाळ (क्षीरोपवासनी) यांच्यासह",
+  "tradition": "शैव — एक पाडल पेट्र स्थलम्",
   "location": {
-    "city": "Tiruvaimur, near Tirukkuvalai",
-    "state": "Tamil Nadu",
+    "city": "तिरुवाय्मूर, तिरुक्कुवळैजवळ",
+    "state": "तमिळनाडू",
     "lat": 10.6167,
     "lng": 79.7167
   },
+  "period": "तेवारम काळ (सातव्या शतकात गायिलेले); नंतरचे चोळकालीन दगडी मंदिर",
   "century": 7,
+  "dynasty": "चोळ",
+  "style": "द्राविडी",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "खालच्या कावेरी त्रिभुज प्रदेशातील तिरुक्कुवळैजवळचे तिरुवाय्मूर हे शिवाला वाय्मूरनाथर म्हणून — स्वयंप्रकट लिंगात पूजिलेले — देवी पालिन नन्मोळियाळसह सन्मानित करते. कावेरीच्या दक्षिण तीरावरील पाडल पेट्र स्थलम्पैकी एक असलेले हे स्थान सुंदरर यांच्याशी निगडित म्हणून स्मरले जाते आणि दक्षिण तीरावरील १२४ वे मंदिर मानले जाते.",
   "sections": {
-    "history": "Tiruvaimur, near Tirukkuvalai in the lower Kaveri delta, is a Paadal Petra Sthalam hymned in the Tevaram, counted as the 124th shrine on the southern bank of the Kaveri. Set among the seven delta villages of this tract, it is tied in tradition to Sundarar, and the stone temple is of the Chola period and later. (Wikipedia places it in Tiruvarur district, the TN Temples Project in Nagapattinam; the two districts meet nearby.)",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vaimoornathar — Vaaimoornaathar — worshipped in a swayambhu, self-manifest lingam, with the goddess Paalin Nanmozhiyal (Ksheeropa Vasani) in her own shrine, a Nandi and the parivara devatas about the prakara. The compact gopuram and walled courtyard are typical of the smaller Tevaram shrines of this southern tract.",
-    "legends": "The lord is a swayambhu, self-manifest, worshipped as Vaimoornathar; the goddess is praised as Paalin Nanmozhiyal, 'she of words sweet as milk,' and as Ksheeropa Vasani. The place is bound in Shaiva memory to Sundarar, among the delta shrines he hymned on the southern bank. As with many smaller delta temples, the fuller sthala purana survives chiefly in local tradition and the Tevaram verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a delta village shrine. Pilgrims on the Paadal Petra trail of the southern Kaveri include Tiruvaimur among their stops near Tirukkuvalai.",
-    "experience": "At Tiruvaimur the pilgrim comes to a quiet shrine of the self-manifest lord. Before Vaimoornathar and Paalin Nanmozhiyal, in the green delta country near Tirukkuvalai, the visitor finds the unhurried grace of a Tevaram temple of the southern Kaveri, firm in the lingam that rose of itself and in the memory of the saint who sang here."
+    "history": "खालच्या कावेरी त्रिभुज प्रदेशातील तिरुक्कुवळैजवळचे तिरुवाय्मूर हे तेवारममध्ये गायिलेले पाडल पेट्र स्थलम् असून कावेरीच्या दक्षिण तीरावरील १२४ वे मंदिर म्हणून गणले जाते. या भागातील सात त्रिभुज गावांमध्ये वसलेले हे स्थान परंपरेने सुंदररांशी जोडलेले आहे, आणि दगडी मंदिर चोळ काळातील आणि त्यानंतरचे आहे. (विकिपीडिया त्याला तिरुवारूर जिल्ह्यात दाखवते, तर टीएन टेंपल्स प्रोजेक्ट नागपट्टिनममध्ये; दोन्ही जिल्हे जवळच भेटतात.)",
+    "architecture": "हे त्रिभुज प्रदेशातील द्राविडी मंदिर आहे; गर्भगृहात वाय्मूरनाथर — वाय्मूरनाथर — स्वयंभू, स्वयंप्रकट लिंगात पूजले जातात, देवी पालिन नन्मोळियाळ (क्षीरोपवासनी) आपल्या स्वतंत्र गर्भगृहात आहेत, तसेच नंदी आणि प्राकाराभोवती परिवार देवता आहेत. लहानसे गोपुर आणि तटबंदीचे अंगण या दक्षिणी भागातील लहान तेवारम मंदिरांचे वैशिष्ट्य आहे.",
+    "legends": "भगवान स्वयंभू, स्वयंप्रकट आहेत आणि वाय्मूरनाथर म्हणून पूजले जातात; देवीची स्तुती पालिन नन्मोळियाळ, 'दुधासारख्या गोड वाणीची', आणि क्षीरोपवासनी अशी केली जाते. शैव स्मृतीत हे स्थान सुंदररांशी जोडलेले आहे, त्यांनी दक्षिण तीरावर गायिलेल्या त्रिभुज प्रदेशातील मंदिरांपैकी एक. अनेक लहान त्रिभुज मंदिरांप्रमाणेच येथील सविस्तर स्थलपुराण मुख्यतः स्थानिक परंपरेत आणि तेवारमच्या पदांत टिकून आहे.",
+    "festivals": "हे मंदिर मासी (फेब्रुवारी–मार्च) मध्ये महाशिवरात्री, पुरट्टासी (सप्टेंबर–ऑक्टोबर) मध्ये नवरात्री आणि कार्तिकेतील सोमवार, प्रदोष पूजेसह, त्रिभुज गावातील मंदिराच्या शांत प्रमाणात साजरे करते. दक्षिण कावेरीच्या पाडल पेट्र यात्रेतील यात्रेकरू तिरुक्कुवळैजवळील आपल्या थांब्यांमध्ये तिरुवाय्मूरचा समावेश करतात.",
+    "experience": "तिरुवाय्मूर येथे यात्रेकरू स्वयंप्रकट भगवंताच्या शांत मंदिरात येतो. तिरुक्कुवळैजवळच्या हिरव्यागार त्रिभुज प्रदेशात वाय्मूरनाथर आणि पालिन नन्मोळियाळ यांच्यासमोर अभ्यागतास दक्षिण कावेरीच्या तेवारम मंदिराची निवांत कृपा लाभते; स्वतःहून उगवलेल्या लिंगावर आणि येथे गाणाऱ्या संतांच्या स्मृतीवर ते ठाम आहे."
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruvaimur lies near Tirukkuvalai, off the Nagapattinam–Tiruthuraipoondi road in the lower delta. Tiruthuraipoondi (about 8 km) and Tirukkuvalai are the nearest towns, with buses and taxis to the village; Nagapattinam and Tiruvarur are the nearest rail heads."
+    "timings": "साधारणपणे पहाटेपासून दुपारपर्यंत आणि पुन्हा उशिरा दुपारपासून संध्याकाळपर्यंत उघडे असते; विशेषतः उत्सवाच्या दिवशी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे, खांदे आणि गुडघे झाकलेले; पादत्राणे प्रवेशद्वारावर ठेवावीत.",
+    "photography": "बाहेरील ओवऱ्यांमध्ये छायाचित्रण साधारणपणे परवानगीयुक्त आहे, परंतु गर्भगृहात नाही; विधींचे छायाचित्रण करण्यापूर्वी मंदिराच्या कर्मचाऱ्यांना विचारा.",
+    "gettingThere": "तिरुवाय्मूर तिरुक्कुवळैजवळ, खालच्या त्रिभुज प्रदेशातील नागपट्टिनम–तिरुतुरैपूंडी रस्त्यापासून थोडे आत आहे. तिरुतुरैपूंडी (सुमारे ८ किमी) आणि तिरुक्कुवळै ही सर्वात जवळची गावे असून गावापर्यंत बस आणि टॅक्सी उपलब्ध आहेत; नागपट्टिनम आणि तिरुवारूर ही सर्वात जवळची रेल्वे स्थानके आहेत."
   }
 }

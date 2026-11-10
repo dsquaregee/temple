@@ -1,30 +1,37 @@
 {
   "id": "vaikuntanatha-vaikunta-vinnagaram",
   "locale": "mr",
+  "name": "वैकुंठनाथ पेरुमाळ मंदिर, तिरुवैकुंठ विण्णगरम्",
   "nativeName": "வைகுந்தநாத பெருமாள் கோயில், திருவைகுந்த விண்ணகரம்",
+  "deity": "विष्णू वैकुंठनाथ पेरुमाळ रूपात, देवी वैकुंठवल्लीसह — तिरुनांगूर येथील दिव्य देशम्मधील वैकुंठाचे स्वामी",
+  "tradition": "वैष्णव संप्रदाय",
   "location": {
-    "city": "Thirunangur",
-    "state": "Tamil Nadu",
+    "city": "तिरुनांगूर",
+    "state": "तमिळनाडू",
     "lat": 11.1775,
     "lng": 79.7792
   },
+  "period": "चोळ नाडूमधील एक दिव्य देशम् आणि अकरा तिरुनांगूर तिरुपतींपैकी एक; तिरुमंगै आळवारांनी नालायिर दिव्य प्रबंधात गायिलेले",
   "century": 8,
+  "dynasty": "आळवार काळातील चोळ प्रदेश",
+  "style": "द्राविडी",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "तिरुनांगूर येथील तिरुवैकुंठ विण्णगरम् येथे विष्णूंची वैकुंठनाथ, वैकुंठाचे स्वामी, म्हणून वैकुंठवल्लीसह पूजा केली जाते — विण्णगरम् म्हणजे दिव्य निवास, हे नाव धारण करणाऱ्या सहा दिव्य देशम्पैकी हे एक आहे.",
   "sections": {
-    "history": "Thiruvaikunta Vinnagaram stands in Thirunangur near Sirkazhi, in Chola Nadu. It is one of the 108 Divya Desams sung by the Alvars in the Nalayira Divya Prabandham, and one of the eleven Thirunangur Tirupathis hymned by Thirumangai Alvar. Its name places it among the six Divya Desams called Vinnagaram, the heavenly abode of Vishnu, and here the Lord is Vaikuntanatha, master of Vaikuntha itself, with the Goddess Vaikuntavalli. Tradition holds that the sage Uthanga and King Uparicharavasu worshipped here. No inscription or royal patron is firmly recorded in the sources, so the shrine's age rests on the Alvar's hymns, placed between the seventh and ninth centuries.",
-    "architecture": "A compact Dravidian temple of a single shrine within a single prakaram, with a Garuda mandapa standing on the axis before the sanctum. The vimana above is named Ananta Satya Vardhaka. The Lord is shown with Sridevi, Bhudevi, Niladevi and Adishesha about him, as in Vaikuntha. Two sacred waters lie north of the temple: the Lakshmi Pushkarini and the Viraja Theertham.",
-    "legends": "The sthala purana tells of King Swetaketu, of the line of Rama, who reached a realm resembling Vaikuntha and took it for the true Vaikuntha; hunger made him realise his mistake. The tale is told to explain why the Lord came to dwell at this place as Vaikuntanatha. Tradition also remembers the sage Uthanga and King Uparicharavasu as worshippers here.",
-    "festivals": "Like the other Thirunangur shrines, this temple takes part in the Garuda Sevai on or around the day after Thai Amavasai (January–February), when its utsavar is carried on a Garuda vahana to Thirumanimadam, and in the Mangalasasana Utsavam that commemorates Thirumangai Alvar's hymns. Tradition holds that seeing all eleven lords together equals visiting each.",
-    "experience": "Come for the stillness of a one-shrine temple: pause at the Garuda mandapa, look for the Lord with his consorts and Adishesha, and walk to the two tanks on the north side. It makes a thoughtful stop for those who like the story of Swetaketu, and sits easily in a day among the other Thirunangur shrines."
+    "history": "तिरुवैकुंठ विण्णगरम् चोळ नाडूमध्ये, सीरकाळीजवळील तिरुनांगूर येथे आहे. आळवारांनी नालायिर दिव्य प्रबंधात गायिलेल्या १०८ दिव्य देशम्पैकी आणि तिरुमंगै आळवारांनी स्तवलेल्या अकरा तिरुनांगूर तिरुपतींपैकी हे एक आहे. त्याच्या नावामुळे ते विष्णूंचे स्वर्गीय निवास असलेल्या विण्णगरम् नावाच्या सहा दिव्य देशम्मध्ये गणले जाते, आणि येथे भगवान वैकुंठनाथ आहेत, म्हणजे स्वतः वैकुंठाचे स्वामी, देवी वैकुंठवल्लीसह. परंपरेनुसार उतंग ऋषी आणि राजा उपरिचरवसू यांनी येथे पूजा केली. कोणताही शिलालेख किंवा राजाश्रयदाता स्रोतांत निश्चितपणे नोंदलेला नाही, म्हणून या मंदिराचे वय सातव्या ते नवव्या शतकांदरम्यानचे मानल्या जाणाऱ्या आळवारांच्या स्तोत्रांवर अवलंबून आहे.",
+    "architecture": "एकाच प्राकारातील एकाच गर्भगृहाचे हे लहानसे द्राविडी मंदिर असून गर्भगृहासमोर मध्यरेषेवर गरुड मंडप उभा आहे. वरील विमानाचे नाव अनंत सत्य वर्धक आहे. वैकुंठाप्रमाणेच भगवंत श्रीदेवी, भूदेवी, नीळादेवी आणि आदिशेष यांच्यासह दर्शविलेले आहेत. मंदिराच्या उत्तरेस दोन पवित्र जलाशय आहेत: लक्ष्मी पुष्करिणी आणि विरज तीर्थ.",
+    "legends": "स्थलपुराणात रामवंशीय राजा श्वेतकेतू याची कथा सांगितली जाते; तो वैकुंठासारख्या एका लोकात पोहोचला आणि त्यालाच खरा वैकुंठ समजला; भुकेमुळे त्याला आपली चूक उमगली. भगवान या स्थानी वैकुंठनाथ म्हणून का वसले, हे सांगण्यासाठी ही कथा सांगितली जाते. परंपरा उतंग ऋषी आणि राजा उपरिचरवसू यांनाही येथील उपासक म्हणून स्मरते.",
+    "festivals": "इतर तिरुनांगूर मंदिरांप्रमाणेच हे मंदिर थाई अमावास्येच्या दुसऱ्या दिवशी किंवा त्याच्या आसपास (जानेवारी–फेब्रुवारी) होणाऱ्या गरुड सेवेत सहभागी होते, जेव्हा त्याचे उत्सवमूर्ती गरुड वाहनावर बसवून तिरुमणिमाडम येथे नेले जातात, तसेच तिरुमंगै आळवारांच्या स्तोत्रांचे स्मरण करणाऱ्या मंगळाशासन उत्सवातही. परंपरा मानते की अकराही भगवंतांना एकत्र पाहणे हे प्रत्येकाला भेट देण्याइतकेच आहे.",
+    "experience": "एकाच गर्भगृहाच्या मंदिराच्या शांततेसाठी येथे या: गरुड मंडपात थांबा, भगवंताला त्यांच्या सहचारिणी आणि आदिशेषासह न्याहाळा, आणि उत्तर बाजूच्या दोन तलावांकडे चाला. श्वेतकेतूची कथा आवडणाऱ्यांसाठी हा एक चिंतनशील थांबा आहे, आणि इतर तिरुनांगूर मंदिरांसह एका दिवसात तो सहज सामावतो."
   },
   "visit": {
-    "timings": "Darshan is generally held in morning and evening sessions with a midday break; the Garuda Sevai day is by far the busiest. Confirm timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirunangur lies about 10 km by road south-east of Sirkazhi (Sirkali) in Mayiladuthurai district. Sirkazhi, on the Chennai–Mayiladuthurai railway line, is the nearest station, and Tiruchirappalli, about 160 km away, the nearest major airport. Auto-rickshaws and taxis from Sirkazhi reach the village; the eleven shrines lie among paddy fields close to one another."
+    "timings": "दर्शन साधारणपणे सकाळच्या आणि संध्याकाळच्या सत्रांत होते, दुपारी विश्रांती असते; गरुड सेवेचा दिवस सर्वात जास्त गर्दीचा असतो. भेट देण्यापूर्वी वेळा स्थानिक पातळीवर खात्री करून घ्या.",
+    "dressCode": "साधा पारंपरिक पोशाख अपेक्षित आहे — खांदे आणि गुडघे झाकलेले; आत प्रवेश करण्यापूर्वी पादत्राणे काढावीत. लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "photography": "गर्भगृहात आणि त्याच्या आसपास छायाचित्रणावर निर्बंध आहेत; लावलेले नियम आणि पुजाऱ्यांचे मार्गदर्शन पाळा.",
+    "gettingThere": "तिरुनांगूर हे मयिलाडुतुरै जिल्ह्यातील सीरकाळी (सिरकाळी) पासून रस्त्याने सुमारे १० किमी आग्नेयेस आहे. चेन्नई–मयिलाडुतुरै रेल्वेमार्गावरील सीरकाळी हे सर्वात जवळचे स्थानक आहे, आणि सुमारे १६० किमी अंतरावरील तिरुचिरापल्ली हे सर्वात जवळचे मोठे विमानतळ आहे. सीरकाळीहून ऑटोरिक्षा आणि टॅक्सी गावापर्यंत जातात; अकरा मंदिरे भातशेतांमध्ये एकमेकांच्या जवळ आहेत."
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.jpg",
