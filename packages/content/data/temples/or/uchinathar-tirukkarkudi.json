@@ -1,29 +1,36 @@
 {
   "id": "uchinathar-tirukkarkudi",
   "locale": "or",
+  "name": "ଉଚ୍ଚିନାଥର (ଉଜ୍ଜୀବନାଥର) ମନ୍ଦିର, ତିରୁକ୍କାର୍କୁଡ଼ି",
   "nativeName": "உச்சிநாதர் கோயில்",
+  "deity": "ଉଚ୍ଚିନାଥର (ଉଜ୍ଜୀବନାଥର) ରୂପେ ଶିବ, ଦେବୀ ଅଞ୍ଜନାକ୍ଷୀଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ ପରମ୍ପରା",
   "location": {
-    "city": "Uyyakondan Tirumalai",
-    "state": "Tamil Nadu",
+    "city": "ଉୟ୍ୟକୋଣ୍ଡାନ୍ ତିରୁମଲାଇ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 10.816,
     "lng": 78.659
   },
+  "period": "ତେବାରମ୍‌ରେ ସ୍ତୁତ (ସପ୍ତମ ଶତାବ୍ଦୀ) ପ୍ରାଚୀନ ପାହାଡ଼ଚୂଡ଼ା ଶୈବ ମନ୍ଦିର; ୯୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦର ଚୋଳ ଯୁଗୀୟ ଶିଳାଲେଖ ସହ ଶିଳାଖଣ୍ଡରେ ସ୍ଥାପିତ ମନ୍ଦିର",
   "century": 7,
+  "dynasty": "ପ୍ରାରମ୍ଭିକ ଚୋଳ (ପରାନ୍ତକ ପ୍ରଥମ, ଉତ୍ତମ ଚୋଳ ଓ ସେମ୍ବିୟନ୍ ମହାଦେବୀଙ୍କ ଶିଳାଲେଖ) ଓ ପରବର୍ତ୍ତୀ ପୃଷ୍ଠପୋଷକ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ଉଚ୍ଚିନାଥର ଉୟ୍ୟକୋଣ୍ଡାନ୍ ତିରୁମଲାଇର ଶିଳାମୟ ତିରୁକ୍କାର୍କୁଡ଼ି ପାହାଡ଼ର ଶିଖରରେ ବିରାଜମାନ, ସେହି ତେବାରମ୍ ମନ୍ଦିର ଯେଉଁଠାରେ ପରମ୍ପରା କହେ ଯୁବା ଋଷି ମାର୍କଣ୍ଡେୟ ପ୍ରଭୁଙ୍କ ଶରଣ ନେଲେ ଏବଂ ଚିରସ୍ଥାୟୀ ଯୌବନ ପାଇଲେ।",
   "sections": {
-    "history": "On a small hill about five kilometres west of Tiruchirappalli stands the shrine the Tevaram hymns call Tirukkarkudi, the sacred settlement on the rock. In later ages the hill took the name Uyyakondan Tirumalai from the nearby Uyyakondan channel, believed to have been cut in the time of the Chola kings in the ninth century, and it is still known also as Karkudimalai. The Nayanmars sang of the shrine, which makes it a Paadal Petra Sthalam. The earliest inscriptions are cut on the pillars of the inner enclosure: one is dated to the thirty-fourth regnal year of Parantaka I, which is 941 CE, and later records belong to the reigns of Uttama Chola and the queen Sembiyan Mahadevi. The original complex is believed to be a work of the Cholas, and it has been tended in worship ever since.",
-    "architecture": "The temple is entered through an east-facing gopuram of five tiers at the foot of the hill, from where a long flight of steps cut into the living rock climbs to the main complex; sources count sixty-five steps in one place and a hundred in another. After the entrance, to the left, lies the temple tank known as the Gnana Vavi, the well of wisdom. The sanctum, set high on the hill, holds Shiva as the linga of Uchinathar, also called Ujjivanathar, the Lord who gives life. The goddess is honoured as Anjanakshi, the mother whose eyes are dark as kohl, and she is known also by the names Balambikai and Neelanedunkanni.",
-    "legends": "The legend of Tirukkarkudi belongs to the sage Markandeya. Tradition tells that, devoted to the Lord on this hill, he took refuge in him and embraced the linga, and that Ujjivanathar granted him a life without ending: he remained for ever the youth of sixteen, a Chiranjeevi. From this the shrine is held to bestow long life and prosperity on those who live in its shadow. The sages Upamanyu and Karan are remembered among the worshippers of this hill, and so is the poet-saint Arunagirinathar. The very name Ujjivanathar keeps the meaning of the story: the Lord by whom life is saved and made whole.",
-    "festivals": "The Panguni festival, the Brahmotsavam of March and April, is the most prominent day of the temple's year, when the deities are taken in procession around the hill. Maha Shivaratri and the monthly Pradosham are kept with devotion, as at all festivals dedicated to Shiva. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "A visit to Tirukkarkudi begins with a climb, and the climb is part of the offering. Pass beneath the five-tiered gopuram, ascend the rock-cut steps at an easy pace, and pause at the Gnana Vavi before entering the sanctum of Uchinathar. Pray then to Anjanakshi, and remember Markandeya, whose story the hill still tells to those who ask for a long and good life. Though the temple lies within reach of the city, the height and the stone give it the stillness of a hermitage on a hill."
+    "history": "ତିରୁଚିରାପଲ୍ଲିର ପ୍ରାୟ ପାଞ୍ଚ କିଲୋମିଟର ପଶ୍ଚିମରେ ଏକ ଛୋଟ ପାହାଡ଼ ଉପରେ ସେହି ମନ୍ଦିର ଠିଆ ହୋଇଛି ଯାହାକୁ ତେବାରମ୍ ସ୍ତୋତ୍ର ତିରୁକ୍କାର୍କୁଡ଼ି କହେ, ଅର୍ଥାତ୍ ଶିଳା ଉପରର ପବିତ୍ର ବସତି। ପରବର୍ତ୍ତୀ ଯୁଗରେ ପାହାଡ଼ ନିକଟର ଉୟ୍ୟକୋଣ୍ଡାନ୍ ଖାଲରୁ ଉୟ୍ୟକୋଣ୍ଡାନ୍ ତିରୁମଲାଇ ନାମ ପାଇଲା, ଯାହା ନବମ ଶତାବ୍ଦୀରେ ଚୋଳ ରାଜାମାନଙ୍କ ସମୟରେ କଟାଯାଇଥିବା ବୋଲି ବିଶ୍ୱାସ, ଏବଂ ଏହା ଏବେ ମଧ୍ୟ କାର୍କୁଡ଼ିମଲାଇ ନାମରେ ପରିଚିତ। ନାୟନାର୍‌ମାନେ ଏହି ମନ୍ଦିରକୁ ଗାନ କରିଥିଲେ, ଯାହା ଏହାକୁ ପାଡ଼ଲ୍ ପେଟ୍ର ସ୍ଥଳମ୍ କରେ। ସବୁଠାରୁ ପୁରୁଣା ଶିଳାଲେଖ ଭିତର ପ୍ରାଙ୍ଗଣର ସ୍ତମ୍ଭରେ ଖୋଦିତ: ଗୋଟିଏ ପରାନ୍ତକ ପ୍ରଥମଙ୍କ ଚୌତିରିଶତମ ରାଜତ୍ୱ ବର୍ଷର, ଯାହା ୯୪୧ ଖ୍ରୀଷ୍ଟାବ୍ଦ, ଏବଂ ପରବର୍ତ୍ତୀ ଅଭିଲେଖ ଉତ୍ତମ ଚୋଳ ଓ ରାଣୀ ସେମ୍ବିୟନ୍ ମହାଦେବୀଙ୍କ ରାଜତ୍ୱର। ମୂଳ ପରିସର ଚୋଳମାନଙ୍କର କାମ ବୋଲି ବିଶ୍ୱାସ, ଏବଂ ସେତେବେଳୁ ଏଠାରେ ପୂଜା ଅବ୍ୟାହତ।",
+    "architecture": "ମନ୍ଦିରକୁ ପାହାଡ଼ର ପାଦଦେଶରେ ପାଞ୍ଚ ସ୍ତରର ପୂର୍ବମୁଖୀ ଗୋପୁର ଦେଇ ପ୍ରବେଶ କରାଯାଏ, ଯେଉଁଠାରୁ ଜୀବନ୍ତ ଶିଳାରେ କଟା ଏକ ଲମ୍ବା ସିଢ଼ି ମୁଖ୍ୟ ପରିସରକୁ ଉଠେ; ଉତ୍ସଗୁଡ଼ିକ ଗୋଟିଏ ଜାଗାରେ ପଞ୍ଚଷଠି ପାହାଚ ଓ ଅନ୍ୟତ୍ର ଶହେ ଗଣନ୍ତି। ପ୍ରବେଶ ପରେ ବାମ ପାଖରେ ଜ୍ଞାନ ବାବି ନାମକ ମନ୍ଦିର ପୁଷ୍କରିଣୀ, ଅର୍ଥାତ୍ ଜ୍ଞାନର କୂଅ। ପାହାଡ଼ ଉପରେ ଉଚ୍ଚରେ ଥିବା ଗର୍ଭଗୃହରେ ଶିବ ଉଚ୍ଚିନାଥରଙ୍କ ଲିଙ୍ଗ ରୂପେ, ଯାହାକୁ ଉଜ୍ଜୀବନାଥର ମଧ୍ୟ କୁହାଯାଏ, ଜୀବନ ଦେଉଥିବା ପ୍ରଭୁ। ଦେବୀ ଅଞ୍ଜନାକ୍ଷୀ ରୂପେ ପୂଜିତ, କଜ୍ଜଳ ପରି କଳା ଆଖିର ମାତା, ଏବଂ ତାଙ୍କୁ ବାଳାମ୍ବିକା ଓ ନୀଳନେଡୁଙ୍କଣ୍ଣୀ ନାମରେ ମଧ୍ୟ ଜଣାଯାଏ।",
+    "legends": "ତିରୁକ୍କାର୍କୁଡ଼ିର କିମ୍ବଦନ୍ତୀ ଋଷି ମାର୍କଣ୍ଡେୟଙ୍କର। ପରମ୍ପରା କହେ ଯେ ଏହି ପାହାଡ଼ରେ ପ୍ରଭୁଙ୍କ ପ୍ରତି ଭକ୍ତ ହୋଇ ସେ ତାଙ୍କ ଶରଣ ନେଲେ ଏବଂ ଲିଙ୍ଗକୁ ଆଲିଙ୍ଗନ କଲେ, ଏବଂ ଉଜ୍ଜୀବନାଥର ତାଙ୍କୁ ଅନନ୍ତ ଜୀବନ ଦେଲେ: ସେ ଚିରକାଳ ପାଇଁ ଷୋଳ ବର୍ଷର ଯୁବକ, ଚିରଞ୍ଜୀବୀ ହୋଇ ରହିଲେ। ଏଥିରୁ ଏହି ମନ୍ଦିର ଏହାର ଛାୟାରେ ବାସ କରୁଥିବାମାନଙ୍କୁ ଦୀର୍ଘାୟୁ ଓ ସମୃଦ୍ଧି ଦିଏ ବୋଲି ବିଶ୍ୱାସ। ଋଷି ଉପମନ୍ୟୁ ଓ କାରଣ ଏହି ପାହାଡ଼ର ଉପାସକ ଭାବେ ସ୍ମରଣୀୟ, ଏବଂ କବି-ସନ୍ଥ ଅରୁଣଗିରିନାଥର ମଧ୍ୟ। ଉଜ୍ଜୀବନାଥର ନାମ ନିଜେ କାହାଣୀର ଅର୍ଥ ରଖେ: ସେହି ପ୍ରଭୁ ଯାହାଙ୍କ ଦ୍ୱାରା ଜୀବନ ରକ୍ଷା ପାଏ ଓ ପୂର୍ଣ୍ଣ ହୁଏ।",
+    "festivals": "ପାଙ୍ଗୁନି ଉତ୍ସବ, ମାର୍ଚ୍ଚ ଓ ଏପ୍ରିଲର ବ୍ରହ୍ମୋତ୍ସବମ୍, ମନ୍ଦିରର ବର୍ଷର ସର୍ବପ୍ରମୁଖ ଦିନ, ଯେତେବେଳେ ଦେବତାମାନଙ୍କୁ ପାହାଡ଼ ଚାରିପାଖରେ ଶୋଭାଯାତ୍ରାରେ ନିଆଯାଏ। ମହାଶିବରାତ୍ରି ଓ ମାସିକ ପ୍ରଦୋଷମ୍ ଶିବଙ୍କୁ ସମର୍ପିତ ସମସ୍ତ ଉତ୍ସବ ପରି ଭକ୍ତି ସହ ପାଳିତ ହୁଏ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ, କାରଣ ସେଗୁଡ଼ିକ ତାମିଲ ପଞ୍ଜିକା ଅନୁସରଣ କରେ।",
+    "experience": "ତିରୁକ୍କାର୍କୁଡ଼ି ଦର୍ଶନ ଏକ ଆରୋହଣରେ ଆରମ୍ଭ ହୁଏ, ଏବଂ ଆରୋହଣ ନିଜେ ଅର୍ପଣର ଅଂଶ। ପାଞ୍ଚ ସ୍ତରର ଗୋପୁର ତଳ ଦେଇ ଯାଆନ୍ତୁ, ଶିଳାରେ କଟା ପାହାଚ ଧୀରେ ଧୀରେ ଚଢ଼ନ୍ତୁ, ଏବଂ ଉଚ୍ଚିନାଥରଙ୍କ ଗର୍ଭଗୃହରେ ପ୍ରବେଶ ପୂର୍ବରୁ ଜ୍ଞାନ ବାବିରେ ଅଟକନ୍ତୁ। ତା'ପରେ ଅଞ୍ଜନାକ୍ଷୀଙ୍କୁ ପ୍ରାର୍ଥନା କରନ୍ତୁ, ଏବଂ ମାର୍କଣ୍ଡେୟଙ୍କୁ ସ୍ମରଣ କରନ୍ତୁ, ଯାହାଙ୍କ କାହାଣୀ ପାହାଡ଼ ଏବେ ମଧ୍ୟ ଦୀର୍ଘ ଓ ଉତ୍ତମ ଜୀବନ ମାଗୁଥିବାମାନଙ୍କୁ କହେ। ମନ୍ଦିର ନଗର ନିକଟରେ ଥିଲେ ମଧ୍ୟ, ଉଚ୍ଚତା ଓ ପଥର ଏହାକୁ ପାହାଡ଼ ଉପରର ଏକ ଆଶ୍ରମର ସ୍ଥିରତା ଦିଏ।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the foot of the steps, so wear shoes that are easy to remove and carry water for the climb.",
-    "photography": "Photography is generally permitted in the outer areas of the temple but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Uyyakondan Tirumalai lies on the Tiruchirappalli–Vayalur road, on the western outskirts of Tiruchirappalli, about 5 km from the city. City buses and autorickshaws serve the hill, and Tiruchirappalli Junction is the main railway station. The city's airport is the nearest for air travellers. Do not confuse this shrine with the other Uchinathar temple, at Sivapuri, which is a separate site."
+    "timings": "ସାଧାରଣତଃ ସକାଳେ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ, ମଧ୍ୟାହ୍ନରେ ବିରତି ସହ; ବିଶେଷତଃ ଉତ୍ସବ ଦିନରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ: ପୁରୁଷମାନଙ୍କ ପାଇଁ ଧୋତି କିମ୍ବା ପ୍ୟାଣ୍ଟ, ମହିଳାମାନଙ୍କ ପାଇଁ ଶାଢ଼ୀ, ସଲୱାର କମିଜ୍ କିମ୍ବା ଲମ୍ବା ସ୍କର୍ଟ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ସହ। ପାଦୁକା ସିଢ଼ି ପାଦଦେଶରେ ଛାଡ଼ିବାକୁ ହୁଏ, ତେଣୁ ସହଜରେ ଖୋଲିହେଉଥିବା ପାଦୁକା ପିନ୍ଧନ୍ତୁ ଏବଂ ଆରୋହଣ ପାଇଁ ପାଣି ନେଇଯାଆନ୍ତୁ।",
+    "photography": "ମନ୍ଦିରର ବାହ୍ୟ ଅଞ୍ଚଳରେ ଫଟୋ ଉଠାଇବା ସାଧାରଣତଃ ଅନୁମୋଦିତ, କିନ୍ତୁ ତାମିଲନାଡୁ ମନ୍ଦିର ନିୟମ ଅନୁସାରେ ଭିତର ଗର୍ଭଗୃହରେ ନିଷିଦ୍ଧ। ଅନୁଷ୍ଠାନ କିମ୍ବା ପୁରୋହିତଙ୍କ ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ଉୟ୍ୟକୋଣ୍ଡାନ୍ ତିରୁମଲାଇ ତିରୁଚିରାପଲ୍ଲି–ବାୟଲୂର ସଡ଼କ ଉପରେ, ତିରୁଚିରାପଲ୍ଲିର ପଶ୍ଚିମ ଉପକଣ୍ଠରେ, ନଗରଠାରୁ ପ୍ରାୟ ୫ କିଲୋମିଟର ଦୂରରେ ଅବସ୍ଥିତ। ନଗର ବସ୍ ଓ ଅଟୋରିକ୍ସା ପାହାଡ଼କୁ ସେବା ଦିଏ, ଏବଂ ତିରୁଚିରାପଲ୍ଲି ଜଙ୍କ୍‌ସନ୍ ମୁଖ୍ୟ ରେଳ ଷ୍ଟେସନ। ବିମାନ ଯାତ୍ରୀମାନଙ୍କ ପାଇଁ ନଗରର ବିମାନବନ୍ଦର ନିକଟତମ। ଏହି ମନ୍ଦିରକୁ ଶିବପୁରୀର ଅନ୍ୟ ଉଚ୍ଚିନାଥର ମନ୍ଦିର ସହ ଭ୍ରମ କରନ୍ତୁ ନାହିଁ, ଯାହା ଏକ ଅଲଗା ସ୍ଥାନ।"
   }
 }
