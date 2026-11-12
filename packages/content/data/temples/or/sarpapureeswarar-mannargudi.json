@@ -1,29 +1,36 @@
 {
   "id": "sarpapureeswarar-mannargudi",
   "locale": "or",
+  "name": "ସର୍ପପୁରୀଶ୍ୱର ମନ୍ଦିର, ପାମଣି (ମନ୍ନାର୍‌ଗୁଡ଼ି)",
   "nativeName": "பாமணி சர்ப்பபுரீஸ்வரர் (நாகநாதர்) கோயில்",
+  "deity": "ଶିବ ସର୍ପପୁରୀଶ୍ୱର (ନାଗନାଥର) ରୂପରେ, ଦେବୀ ଅମୃତ ନାୟକୀ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଡ଼ାଲ୍ ପେତ୍ର ସ୍ଥଳମ୍, ତେବାରମ୍‌ରେ ସ୍ତୁତ",
   "location": {
-    "city": "Paamani, near Mannargudi",
-    "state": "Tamil Nadu",
+    "city": "ପାମଣି, ମନ୍ନାର୍‌ଗୁଡ଼ି ନିକଟରେ",
+    "state": "ତାମିଲନାଡ଼ୁ",
     "lat": 10.6889,
     "lng": 79.4542
   },
+  "period": "ତେବାରମ୍ ଯୁଗ, ଚୋଳ ଯୁଗର ସଂରଚନା ସହିତ",
   "century": 9,
+  "dynasty": "ଚୋଳ (ପରବର୍ତ୍ତୀ ସଂଯୋଜନ ସହିତ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ମନ୍ନାର୍‌ଗୁଡ଼ିର ଅଳ୍ପ ଉତ୍ତରରେ, ବର୍ତ୍ତମାନ ପାମଣି ନାମରେ ଡକାଯାଉଥିବା ଗ୍ରାମରେ, ଏକ ପାଡ଼ାଲ୍ ପେତ୍ର ସ୍ଥଳମ୍ ଅଛି ଯେଉଁଠି ଶିବ ସର୍ପପୁରୀଶ୍ୱର, ନାଗନାଥର ମଧ୍ୟ କୁହାଯାନ୍ତି — ସର୍ପମାନଙ୍କ ନଗରର ପ୍ରଭୁ — ଦେବୀ ଅମୃତ ନାୟକୀ ସହିତ ପୂଜିତ। ଏହାର ଐତିହାସିକ ନାମ ତିରୁପ୍ପାଦଳୀଶ୍ୱରମ୍, ଏବଂ ଏହା ଶିଶୁ-ସନ୍ଥ ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧରଙ୍କ ଏକ ସ୍ତୋତ୍ରରେ ପ୍ରଶଂସିତ। ପ୍ରାଚୀନ ନାମ ଥିବା ଏକ ସାମାନ୍ୟ ଡେଲ୍ଟା ମନ୍ଦିର ଭାବେ, ଏହା ମହାନ ତେବାରମ୍ ପରିଦୃଶ୍ୟର ଏକ ଶାନ୍ତ ଅଂଶ।",
   "sections": {
-    "history": "The temple at Paamani, about three and a half kilometres north of Mannargudi, is an ancient Shaiva site whose historical name is Tiruppaadhaleeswaram. It is counted among the Paadal Petra Sthalams, the shrines praised in the Tevaram, with a hymn attributed to Tirugnana Sambandar. The present stone fabric belongs broadly to the Chola period and later renovation; like many smaller delta temples, its documented history is slight, and its standing rests chiefly on its place in the Tevaram canon.",
-    "architecture": "The temple follows the Dravidian plan, with a gopuram, a modest prakara and the sanctum of Sarpapureeswarar, the lingam worshipped as Naganathar. The goddess Amirtha Nayaki has her own shrine. As a village temple it keeps the quiet, intimate scale typical of the lesser-known Paadal Petra shrines, without the towering gateways of the great delta centres.",
-    "legends": "The names Sarpapureeswarar and Naganathar connect the lord to the serpents, nagas, who in the Shaiva tradition are devotees of Shiva and whose worship is associated with relief from the afflictions ascribed to the naga-dosha. Devotees accordingly come here with prayers concerning serpent-related doshas and for general well-being. The detailed sthala-purana of this small shrine is less widely recorded than those of the larger temples nearby.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham and the Margazhi observances — at the quieter scale of a village shrine. Pradosham, especially, draws devotees given the temple's serpent associations, and local observances mark the Tamil months.",
-    "experience": "Paamani offers the pilgrim the unhurried devotion of a small delta temple with a venerable name. Away from the crowds of the famous centres, the darshan of Sarpapureeswarar is a quiet one, and the temple rewards those who seek out the lesser-known shrines of the Tevaram with the sense of an old sanctity carefully kept."
+    "history": "ପାମଣିର ମନ୍ଦିର, ମନ୍ନାର୍‌ଗୁଡ଼ିର ପ୍ରାୟ ସାଢ଼େ ତିନି କିଲୋମିଟର ଉତ୍ତରରେ, ଏକ ପ୍ରାଚୀନ ଶୈବ ସ୍ଥଳ ଯାହାର ଐତିହାସିକ ନାମ ତିରୁପ୍ପାଦଳୀଶ୍ୱରମ୍। ଏହା ତେବାରମ୍‌ରେ ପ୍ରଶଂସିତ ମନ୍ଦିରମାନ, ପାଡ଼ାଲ୍ ପେତ୍ର ସ୍ଥଳମ୍‌ମାନଙ୍କ ମଧ୍ୟରେ ଗଣାଯାଏ, ଏବଂ ଏହାର ଏକ ସ୍ତୋତ୍ର ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧରଙ୍କୁ ଆରୋପିତ। ବର୍ତ୍ତମାନର ପ୍ରସ୍ତର ସଂରଚନା ମୋଟାମୋଟି ଚୋଳ ଯୁଗ ଓ ପରବର୍ତ୍ତୀ ସଂସ୍କାରର; ଅନେକ ଛୋଟ ଡେଲ୍ଟା ମନ୍ଦିର ପରି, ଏହାର ଦଲିଲଭୁକ୍ତ ଇତିହାସ ସ୍ୱଳ୍ପ, ଏବଂ ଏହାର ମର୍ଯ୍ୟାଦା ମୁଖ୍ୟତଃ ତେବାରମ୍ ସଂଗ୍ରହରେ ଏହାର ସ୍ଥାନ ଉପରେ ନିର୍ଭର କରେ।",
+    "architecture": "ମନ୍ଦିର ଦ୍ରାବିଡ଼ ଯୋଜନା ଅନୁସରଣ କରେ, ଗୋପୁରମ୍, ଏକ ସାମାନ୍ୟ ପ୍ରାକାର ଓ ସର୍ପପୁରୀଶ୍ୱରଙ୍କ ଗର୍ଭଗୃହ ସହିତ, ଯେଉଁଠି ଲିଙ୍ଗ ନାଗନାଥର ରୂପେ ପୂଜିତ। ଦେବୀ ଅମୃତ ନାୟକୀଙ୍କର ନିଜ ଅଲଗା ମନ୍ଦିର ଅଛି। ଗ୍ରାମ ମନ୍ଦିର ଭାବେ ଏହା କମ୍ ପରିଚିତ ପାଡ଼ାଲ୍ ପେତ୍ର ମନ୍ଦିରମାନଙ୍କ ଭଳି ଶାନ୍ତ, ଆତ୍ମୀୟ ପରିମାଣ ରଖେ, ବଡ଼ ଡେଲ୍ଟା କେନ୍ଦ୍ରମାନଙ୍କର ଉଚ୍ଚ ପ୍ରବେଶଦ୍ୱାର ବିନା।",
+    "legends": "ସର୍ପପୁରୀଶ୍ୱର ଓ ନାଗନାଥର ନାମ ପ୍ରଭୁଙ୍କୁ ସର୍ପ, ନାଗମାନଙ୍କ ସହ ଯୋଡ଼େ, ଯେଉଁମାନେ ଶୈବ ପରମ୍ପରାରେ ଶିବଙ୍କ ଭକ୍ତ ଏବଂ ଯେଉଁମାନଙ୍କ ପୂଜା ନାଗ-ଦୋଷର ଆରୋପିତ କଷ୍ଟରୁ ମୁକ୍ତି ସହ ଜଡ଼ିତ। ତେଣୁ ଭକ୍ତମାନେ ସର୍ପ-ସମ୍ବନ୍ଧୀୟ ଦୋଷ ଓ ସାଧାରଣ କଲ୍ୟାଣ ପାଇଁ ପ୍ରାର୍ଥନା ନେଇ ଏଠାକୁ ଆସନ୍ତି। ଏହି ଛୋଟ ମନ୍ଦିରର ବିସ୍ତୃତ ସ୍ଥଳ-ପୁରାଣ ପାଖ ବଡ଼ ମନ୍ଦିରମାନଙ୍କ ତୁଳନାରେ କମ୍ ଲିପିବଦ୍ଧ।",
+    "festivals": "ମନ୍ଦିର ଶୈବ ଉତ୍ସବ ପଞ୍ଜିକା — ମହା ଶିବରାତ୍ରି, ପ୍ରଦୋଷମ୍ ଓ ମାର୍ଗଳୀ ଅନୁଷ୍ଠାନ — ଗ୍ରାମ ମନ୍ଦିରର ଶାନ୍ତ ପରିସରରେ ପାଳନ କରେ। ମନ୍ଦିରର ସର୍ପ ସମ୍ପର୍କ ଯୋଗୁଁ ବିଶେଷତଃ ପ୍ରଦୋଷମ୍ ଭକ୍ତମାନଙ୍କୁ ଆକର୍ଷିତ କରେ, ଏବଂ ସ୍ଥାନୀୟ ଅନୁଷ୍ଠାନମାନେ ତାମିଲ ମାସଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତି।",
+    "experience": "ପାମଣି ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ଏକ ପ୍ରାଚୀନ ନାମ ଥିବା ଛୋଟ ଡେଲ୍ଟା ମନ୍ଦିରର ଧୀର ଭକ୍ତି ଦିଏ। ପ୍ରସିଦ୍ଧ କେନ୍ଦ୍ରମାନଙ୍କ ଭିଡ଼ ଠାରୁ ଦୂରରେ, ସର୍ପପୁରୀଶ୍ୱରଙ୍କ ଦର୍ଶନ ଶାନ୍ତ, ଏବଂ ଯେଉଁମାନେ ତେବାରମ୍‌ର କମ୍ ପରିଚିତ ମନ୍ଦିରମାନଙ୍କୁ ଖୋଜନ୍ତି, ମନ୍ଦିର ସେମାନଙ୍କୁ ଯତ୍ନର ସହ ରକ୍ଷିତ ଏକ ପୁରାତନ ପବିତ୍ରତାର ଅନୁଭବ ଦିଏ।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Paamani is about 3.5 km north of Mannargudi in Tiruvarur district; Mannargudi is the nearest rail head and town, with local buses and autos to the village."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ସ୍ଥାନୀୟ ଭାବେ ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ, ବିଶେଷତଃ ଉତ୍ସବ ଦିନମାନଙ୍କରେ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି ରହିବା ଉଚିତ; ପ୍ରବେଶଦ୍ୱାରରେ ପାଦୁକା ଖୋଲି ରଖନ୍ତୁ।",
+    "photography": "ବାହ୍ୟ ପ୍ରାକାରରେ ସାଧାରଣତଃ ଫଟୋ ଉଠାଇବା ଅନୁମତିପ୍ରାପ୍ତ, କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ପୂଜାବିଧିର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ପାମଣି ତିରୁବାରୁର ଜିଲ୍ଲାର ମନ୍ନାର୍‌ଗୁଡ଼ିର ପ୍ରାୟ ୩.୫ କିମି ଉତ୍ତରରେ; ମନ୍ନାର୍‌ଗୁଡ଼ି ନିକଟତମ ରେଳ ଷ୍ଟେସନ ଓ ସହର, ଗ୍ରାମକୁ ସ୍ଥାନୀୟ ବସ୍ ଓ ଅଟୋ ଚାଲେ।"
   }
 }
