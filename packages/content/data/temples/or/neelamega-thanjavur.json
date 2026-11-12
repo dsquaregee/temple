@@ -1,31 +1,38 @@
 {
   "id": "neelamega-thanjavur",
   "locale": "or",
+  "name": "ତଞ୍ଜାଇ ମାମଣି କୋଇଲ (ନୀଳମେଘ ପେରୁମାଳ ମନ୍ଦିର), ତଞ୍ଜାବୁର",
   "nativeName": "தஞ்சை மாமணிக் கோயில், தஞ்சாவூர்",
+  "deity": "ବିଷ୍ଣୁ ନୀଳମେଘ ପେରୁମାଳ ରୂପେ, ଉପବିଷ୍ଟ, ଦେବୀ ସେଙ୍ଗମଳବଲ୍ଲୀଙ୍କ ସହିତ — ମଣିକୁଣ୍ଡ ପେରୁମାଳ ଓ ନରସିଂହଙ୍କ ସହ, ଗୋଟିଏ ଦିବ୍ୟ ଦେଶମ୍‌ର ତିନୋଟି ମନ୍ଦିର",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Thanjavur",
-    "state": "Tamil Nadu",
+    "city": "ତଞ୍ଜାବୁର",
+    "state": "ତାମିଲ ନାଡୁ",
     "lat": 10.8158,
     "lng": 79.1386
   },
+  "period": "ବେଣ୍ଣାରୁ ନଦୀ କୂଳରେ ଚୋଳ ଦେଶର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ତିରୁମଙ୍ଗୈ ଆଳବାର, ନମ୍ମାଳବାର ଓ ଭୂତତ୍ତାଳବାରଙ୍କ ଦ୍ୱାରା ଗୀତ",
   "century": 8,
+  "dynasty": "ଚୋଳ ଦେଶ (ପରବର୍ତ୍ତୀ ସଂଯୋଜନା ସହିତ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "kaveri-delta-temple-towns"
   ],
+  "summary": "ତଞ୍ଜାବୁର ଶେଷ ସୀମାରେ ବେଣ୍ଣାରୁ ନଦୀ କୂଳରେ ତିନୋଟି ପାଖାପାଖି ମନ୍ଦିର — ନୀଳମେଘ ପେରୁମାଳ, ମଣିକୁଣ୍ଡ ପେରୁମାଳ ଓ ତଞ୍ଜାଇ ୟାଳିର ନରସିଂହ — ଏକତ୍ର ଗୋଟିଏ ଦିବ୍ୟ ଦେଶମ୍ ରୂପେ, ତଞ୍ଜାଇ ମାମଣି କୋଇଲ ନାମରେ ପୂଜିତ।",
   "sections": {
-    "history": "Thanjai Mamani Koil is one of the 108 Divya Desams and one of the shrines of Chola Nadu, and it is unusual among them: three neighbouring temples on the bank of the Vennaru, at the edge of Thanjavur, are counted together as a single sacred abode and are referred to together in the hymns. Three Alvars sang them — Thirumangai Alvar, Nammalvar and Bhoothathalvar — in five verses of the Nalayira Divya Prabandham, and the shrine is still called Thanjai Mamani Koil, the temple of the great jewel of Thanjai. The hymns place the shrine among the earliest sacred sites of the city whose name, tradition says, the lord himself bestowed.",
-    "architecture": "The three shrines stand close together on the river bank. In the first, Neelamega Perumal, the lord dark as a rain cloud, is seated facing east, with the Goddess Sengamalavalli in her own shrine; the temple also keeps shrines to Lakshmi Narasimha and Lakshmi Hayagriva, and a Yoga Narasimha in the front hall. The second is the small shrine of Manikundra Perumal with the Goddess Ambujavalli, and the third, Thanjai Yali Koil, enshrines Narasimha as Veera Narasimha.",
-    "legends": "The sthala purana tells that the sage Parasara did penance here, and that Neelamega Perumal and Sengamalavalli appeared before him. It tells too of the asura Thanjakan, who troubled the sages until Vishnu slew him; repenting at the last, he asked that the place bear his name — and so, tradition holds, it became Thanjai, Thanjavur. His companion, who took the form of an elephant, was overcome by the lord as Narasimha, remembered in the Thanjai Yali shrine.",
-    "festivals": "The temples keep the Vaishnava festivals of the year — Vaikunta Ekadashi foremost among them — together with the days of the Alvars whose hymns first sang these shrines. Processions pass between the three temples and along the Vennaru, joining the three shrines, as the hymns do, into one.",
-    "experience": "Most visitors to Thanjavur come for the great Chola temple of Shiva; few go on to the river bank where three Vishnu shrines make up a single Divya Desam. Allow time to visit all three, from Neelamega Perumal to Manikundra Perumal and the Narasimha shrine — together they are the jewel of Thanjai."
+    "history": "ତଞ୍ଜାଇ ମାମଣି କୋଇଲ ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍‌ର ଅନ୍ୟତମ ଓ ଚୋଳ ନାଡୁର ଏକ ପୀଠ, ଏବଂ ଏହା ସେମାନଙ୍କ ମଧ୍ୟରେ ବିରଳ: ତଞ୍ଜାବୁର ଶେଷ ସୀମାରେ ବେଣ୍ଣାରୁ ନଦୀ କୂଳର ତିନୋଟି ପାଖାପାଖି ମନ୍ଦିରକୁ ଏକତ୍ର ଗୋଟିଏ ପବିତ୍ର ଧାମ ରୂପେ ଗଣାଯାଏ ଏବଂ ସ୍ତୋତ୍ରମାନଙ୍କରେ ସେଗୁଡ଼ିକୁ ଏକତ୍ର ଉଲ୍ଲେଖ କରାଯାଇଛି। ତିରୁମଙ୍ଗୈ ଆଳବାର, ନମ୍ମାଳବାର ଓ ଭୂତତ୍ତାଳବାର — ଏହି ତିନି ଆଳବାର ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ର ପାଞ୍ଚଟି ପଦରେ ଏହାକୁ ଗାନ କରିଛନ୍ତି, ଏବଂ ଏହି ମନ୍ଦିର ଆଜି ବି ତଞ୍ଜାଇ ମାମଣି କୋଇଲ, ଅର୍ଥାତ୍ ତଞ୍ଜାଇର ମହାମଣିର ମନ୍ଦିର ନାମରେ ଖ୍ୟାତ। ପରମ୍ପରା କହେ, ସ୍ୱୟଂ ଭଗବାନ ଯେଉଁ ନଗରୀକୁ ନାମ ଦେଇଥିଲେ, ସ୍ତୋତ୍ରମାନେ ସେହି ନଗରୀର ଆଦ୍ୟତମ ପବିତ୍ର ସ୍ଥଳମାନଙ୍କ ମଧ୍ୟରେ ଏହି ମନ୍ଦିରକୁ ସ୍ଥାନ ଦିଅନ୍ତି।",
+    "architecture": "ତିନୋଟି ମନ୍ଦିର ନଦୀ କୂଳରେ ପରସ୍ପର ପାଖାପାଖି ଅବସ୍ଥିତ। ପ୍ରଥମଟିରେ ବର୍ଷା ମେଘ ପରି ଶ୍ୟାମବର୍ଣ୍ଣ ନୀଳମେଘ ପେରୁମାଳ ପୂର୍ବମୁଖୀ ହୋଇ ଉପବିଷ୍ଟ, ଦେବୀ ସେଙ୍ଗମଳବଲ୍ଲୀ ନିଜ ପୃଥକ ଗର୍ଭଗୃହରେ; ଏହି ମନ୍ଦିରରେ ଲକ୍ଷ୍ମୀ ନରସିଂହ ଓ ଲକ୍ଷ୍ମୀ ହୟଗ୍ରୀବଙ୍କ ମନ୍ଦିର ଏବଂ ସମ୍ମୁଖ ମଣ୍ଡପରେ ଯୋଗ ନରସିଂହ ମଧ୍ୟ ଅଛନ୍ତି। ଦ୍ୱିତୀୟଟି ଦେବୀ ଅମ୍ବୁଜବଲ୍ଲୀଙ୍କ ସହିତ ମଣିକୁଣ୍ଡ ପେରୁମାଳଙ୍କ ଛୋଟ ମନ୍ଦିର, ଏବଂ ତୃତୀୟ, ତଞ୍ଜାଇ ୟାଳି କୋଇଲରେ ନରସିଂହ ବୀର ନରସିଂହ ରୂପେ ପ୍ରତିଷ୍ଠିତ।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ କହେ, ଋଷି ପରାଶର ଏଠାରେ ତପସ୍ୟା କରିଥିଲେ ଏବଂ ନୀଳମେଘ ପେରୁମାଳ ଓ ସେଙ୍ଗମଳବଲ୍ଲୀ ତାଙ୍କ ସମ୍ମୁଖରେ ପ୍ରକଟ ହୋଇଥିଲେ। ଏଥିରେ ଅସୁର ତଞ୍ଜକଙ୍କ କଥା ମଧ୍ୟ ଅଛି, ଯିଏ ଋଷିମାନଙ୍କୁ କଷ୍ଟ ଦେଉଥିଲା ଯେପର୍ଯ୍ୟନ୍ତ ବିଷ୍ଣୁ ତାକୁ ବଧ କଲେ; ଶେଷ ମୁହୂର୍ତ୍ତରେ ଅନୁତାପ କରି ସେ ପ୍ରାର୍ଥନା କଲା ଯେ ଏହି ସ୍ଥାନ ତାହାରି ନାମରେ ପରିଚିତ ହେଉ — ତେଣୁ ପରମ୍ପରା ଅନୁସାରେ ତାହା ତଞ୍ଜାଇ, ତଞ୍ଜାବୁର ହେଲା। ହାତୀ ରୂପ ଧାରଣ କରିଥିବା ତାହାର ସହଚର ଭଗବାନଙ୍କ ନରସିଂହ ରୂପ ଦ୍ୱାରା ପରାଜିତ ହେଲା, ଯାହା ତଞ୍ଜାଇ ୟାଳି ମନ୍ଦିରରେ ସ୍ମରଣୀୟ।",
+    "festivals": "ମନ୍ଦିରଗୁଡ଼ିକ ବର୍ଷସାରା ବୈଷ୍ଣବ ଉତ୍ସବ ପାଳନ କରନ୍ତି — ସେଥିରେ ବୈକୁଣ୍ଠ ଏକାଦଶୀ ପ୍ରମୁଖ — ଏବଂ ଯେଉଁ ଆଳବାରଙ୍କ ସ୍ତୋତ୍ର ପ୍ରଥମେ ଏହି ମନ୍ଦିରମାନଙ୍କୁ ଗାନ କରିଥିଲା, ସେମାନଙ୍କ ତିଥି ମଧ୍ୟ ପାଳିତ ହୁଏ। ତିନୋଟି ମନ୍ଦିର ମଧ୍ୟରେ ଏବଂ ବେଣ୍ଣାରୁ ନଦୀ କୂଳରେ ଶୋଭାଯାତ୍ରା ଚାଲେ, ସ୍ତୋତ୍ରମାନଙ୍କ ପରି ତିନି ମନ୍ଦିରକୁ ଗୋଟିଏରେ ଯୋଡ଼ିଦିଏ।",
+    "experience": "ତଞ୍ଜାବୁରକୁ ଆସୁଥିବା ଅଧିକାଂଶ ଯାତ୍ରୀ ଶିବଙ୍କ ମହାନ ଚୋଳ ମନ୍ଦିର ପାଇଁ ଆସନ୍ତି; ଅଳ୍ପ ଲୋକ ନଦୀ କୂଳକୁ ଯାଆନ୍ତି, ଯେଉଁଠି ତିନୋଟି ବିଷ୍ଣୁ ମନ୍ଦିର ମିଶି ଗୋଟିଏ ଦିବ୍ୟ ଦେଶମ୍ ଗଠନ କରିଛି। ତିନୋଟିକୁ ଦର୍ଶନ କରିବାକୁ ସମୟ ରଖନ୍ତୁ, ନୀଳମେଘ ପେରୁମାଳଙ୍କଠାରୁ ମଣିକୁଣ୍ଡ ପେରୁମାଳ ଓ ନରସିଂହ ମନ୍ଦିର ପର୍ଯ୍ୟନ୍ତ — ଏକତ୍ର ସେମାନେ ତଞ୍ଜାଇର ମଣି।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the three shrines may keep different hours, and Vaikunta Ekadashi is busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The three shrines stand on the bank of the Vennaru on the outskirts of Thanjavur, a short road journey from the town centre. Thanjavur Junction is the nearest railway station, and Tiruchirappalli the nearest airport, about 60 km away by road."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ସହିତ ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ ରହେ; ତିନୋଟି ମନ୍ଦିରର ସମୟ ଭିନ୍ନ ହୋଇପାରେ, ଏବଂ ବୈକୁଣ୍ଠ ଏକାଦଶୀରେ ସବୁଠାରୁ ଅଧିକ ଭିଡ଼ ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ବେଶଭୂଷା ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବେ। ଟାଙ୍ଗି ରଖାଯାଇଥିବା ନିୟମ ଓ ପୂଜକମାନଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ନିଷିଦ୍ଧ; ଟାଙ୍ଗି ରଖାଯାଇଥିବା ନିୟମ ଓ ପୂଜକମାନଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ତିନୋଟି ମନ୍ଦିର ତଞ୍ଜାବୁର ଉପକଣ୍ଠରେ ବେଣ୍ଣାରୁ ନଦୀ କୂଳରେ ଅବସ୍ଥିତ, ସହର କେନ୍ଦ୍ରରୁ ଅଳ୍ପ ସଡ଼କ ଦୂରତାରେ। ତଞ୍ଜାବୁର ଜଙ୍କସନ ନିକଟତମ ରେଳ ଷ୍ଟେସନ, ଏବଂ ତିରୁଚିରାପଲ୍ଲୀ ନିକଟତମ ବିମାନବନ୍ଦର, ସଡ଼କ ପଥରେ ପ୍ରାୟ ୬୦ କିମି ଦୂରରେ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/neelamega-thanjavur.jpg",

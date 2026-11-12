@@ -1,29 +1,36 @@
 {
   "id": "nellivananathar-tirunellikka",
   "locale": "or",
+  "name": "ନେଲ୍ଲିବନନାଥର ମନ୍ଦିର, ତିରୁନେଲ୍ଲିକ୍କା",
   "nativeName": "திருநெல்லிக்கா நெல்லிவனநாதர் கோயில்",
+  "deity": "ଶିବ ନେଲ୍ଲିବନନାଥର (ଅମଳବନେଶ୍ୱରର, ଆମଳକୀ ବନର ପ୍ରଭୁ) ରୂପେ, ଦେବୀ ମଙ୍ଗଳନାୟକୀ (ଅମଳକେଶ୍ୱରୀ)ଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଦଲ୍ ପେତ୍ର ସ୍ଥଳମ୍",
   "location": {
-    "city": "Tirunellikka, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁନେଲ୍ଲିକ୍କା, ତିରୁବାରୁର ନିକଟରେ",
+    "state": "ତାମିଲ ନାଡୁ",
     "lat": 10.69,
     "lng": 79.7
   },
+  "period": "ତେବାରମ୍ ଯୁଗ (୭ମ ଶତାବ୍ଦୀରେ ଗୀତ); ପରବର୍ତ୍ତୀ ଚୋଳ ଶିଳାନିର୍ମିତ ମନ୍ଦିର",
   "century": 7,
+  "dynasty": "ଚୋଳ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ତିରୁବାରୁର ନିକଟର ତିରୁନେଲ୍ଲିକ୍କା ଶିବଙ୍କୁ ନେଲ୍ଲିବନନାଥର — ଆମଳକୀ (ନେଲ୍ଲି) ବନର ପ୍ରଭୁ — ରୂପେ ଓ ଦେବୀ ମଙ୍ଗଳନାୟକୀଙ୍କୁ ସମ୍ମାନ ଜଣାଏ। ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ଗୀତ ଏକ ପାଦଲ୍ ପେତ୍ର ସ୍ଥଳମ୍, ଏହାର କିମ୍ବଦନ୍ତୀ କହେ ଯେ ଦୁର୍ବାସାଙ୍କ ଅଭିଶାପରେ ସ୍ୱର୍ଗୀୟ ବୃକ୍ଷମାନେ ଏଠାରେ ନେଲ୍ଲି ବୃକ୍ଷ ରୂପେ ଜନ୍ମ ନେଲେ, ଯେଉଁମାନଙ୍କ ମଧ୍ୟରେ ଶିବ ପବିତ୍ର ଆମଳକୀକୁ ସମ୍ମାନ ଦେବା ପାଇଁ ସ୍ୱୟମ୍ଭୂ ଲିଙ୍ଗ ରୂପେ ରହିଲେ।",
   "sections": {
-    "history": "Tirunellikka lies about 17 km from Tiruvarur (some 23 km from Mannargudi) in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted as the shrine on the southern bank of the Kaveri. The lord here is Nellivananathar, 'lord of the gooseberry forest,' and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Nellivananathar — in Sanskrit Amlavaneswarar — in the sanctum, with the goddess Mangalanayaki, also called Amlakeswari, in her own shrine, a Nandi and the parivara devatas. The sthala vriksham is the nelli (amla, the Indian gooseberry), the fruit dear to Shiva, and the sacred tanks are the Brahma and Surya theerthams.",
-    "legends": "The sthala purana tells that trees of the Devaloka were cursed by the sage Durvasa to be born on earth as nelli (gooseberry) trees, and here they stood as a grove; honouring the sacred nelli, Shiva remained among them as a swayambhu, self-manifest, lingam. By tradition Durvasa, famed for his anger, also worshipped here and was blessed to overcome his wrath. So the shrine joins the humble, healing gooseberry to the grace that calms even the fiercest temper.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a village shrine. Pilgrims on the Paadal Petra trail near Tiruvarur include Tirunellikka among their stops.",
-    "experience": "At Tirunellikka the pilgrim comes to a gooseberry-forest shrine where the self-manifest lord honours the humble, healing fruit. Before Nellivananathar and Mangalanayaki, amid the memory of celestial trees and the calming of Durvasa's anger, the visitor finds the quiet, restoring grace of a Tevaram temple of the Tiruvarur country."
+    "history": "ତିରୁନେଲ୍ଲିକ୍କା ତିରୁବାରୁର ଜିଲ୍ଲାରେ ତିରୁବାରୁରଠାରୁ ପ୍ରାୟ ୧୭ କିମି (ମନ୍ନାର୍‌ଗୁଡ଼ିଠାରୁ ପ୍ରାୟ ୨୩ କିମି) ଦୂରରେ ଅବସ୍ଥିତ। ଏହା ଏକ ପାଦଲ୍ ପେତ୍ର ସ୍ଥଳମ୍, ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ତେବାରମ୍‌ରେ ଗୀତ, କାବେରୀର ଦକ୍ଷିଣ କୂଳର ମନ୍ଦିର ରୂପେ ଗଣିତ। ଏଠାରେ ପ୍ରଭୁ ନେଲ୍ଲିବନନାଥର, 'ଆମଳକୀ ବନର ପ୍ରଭୁ', ଏବଂ ଶିଳାନିର୍ମିତ ମନ୍ଦିର ଚୋଳ ଯୁଗର ଓ ତା'ପରର।",
+    "architecture": "ଏକ ଦ୍ରାବିଡ଼ ବଦ୍ୱୀପ ମନ୍ଦିର, ଯାହାର ଗର୍ଭଗୃହରେ ନେଲ୍ଲିବନନାଥର — ସଂସ୍କୃତରେ ଅମଳବନେଶ୍ୱରର — ପ୍ରତିଷ୍ଠିତ, ଦେବୀ ମଙ୍ଗଳନାୟକୀ, ଯାହାଙ୍କୁ ଅମଳକେଶ୍ୱରୀ ମଧ୍ୟ କହନ୍ତି, ନିଜ ମନ୍ଦିରରେ, ସହିତ ଏକ ନନ୍ଦୀ ଓ ପରିବାର ଦେବତାମାନେ। ସ୍ଥଳ ବୃକ୍ଷ ନେଲ୍ଲି (ଆମଳା, ଭାରତୀୟ ଆମଳକୀ), ଶିବଙ୍କ ପ୍ରିୟ ଫଳ, ଏବଂ ପବିତ୍ର ପୁଷ୍କରିଣୀ ବ୍ରହ୍ମ ଓ ସୂର୍ଯ୍ୟ ତୀର୍ଥମ୍।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ କହେ ଯେ ଦେବଲୋକର ବୃକ୍ଷମାନେ ଋଷି ଦୁର୍ବାସାଙ୍କ ଅଭିଶାପରେ ପୃଥିବୀରେ ନେଲ୍ଲି (ଆମଳକୀ) ବୃକ୍ଷ ରୂପେ ଜନ୍ମ ନେଲେ, ଏବଂ ଏଠାରେ ଏକ ବନ ରୂପେ ଠିଆ ହେଲେ; ପବିତ୍ର ନେଲ୍ଲିକୁ ସମ୍ମାନ ଦେବାକୁ ଶିବ ସେମାନଙ୍କ ମଧ୍ୟରେ ସ୍ୱୟମ୍ଭୂ, ଆତ୍ମପ୍ରକଟ ଲିଙ୍ଗ ରୂପେ ରହିଲେ। ପରମ୍ପରା ଅନୁସାରେ କ୍ରୋଧ ପାଇଁ ପ୍ରସିଦ୍ଧ ଦୁର୍ବାସା ମଧ୍ୟ ଏଠାରେ ପୂଜା କରିଥିଲେ ଏବଂ ନିଜ କ୍ରୋଧ ଜୟ କରିବାର ଆଶୀର୍ବାଦ ପାଇଲେ। ତେଣୁ ଏହି ମନ୍ଦିର ବିନମ୍ର, ଆରୋଗ୍ୟଦାୟୀ ଆମଳକୀକୁ ସେହି କୃପା ସହ ଯୋଡ଼େ ଯାହା ସବୁଠାରୁ ପ୍ରଚଣ୍ଡ ସ୍ୱଭାବକୁ ମଧ୍ୟ ଶାନ୍ତ କରେ।",
+    "festivals": "ମନ୍ଦିର ଗ୍ରାମ୍ୟ ମନ୍ଦିରର ଶାନ୍ତ ପରିସରରେ ମାସି (ଫେବୃଆରୀ–ମାର୍ଚ୍ଚ)ରେ ମହାଶିବରାତ୍ରି, ପୁରଟ୍ଟାସି (ସେପ୍ଟେମ୍ବର–ଅକ୍ଟୋବର)ରେ ନବରାତ୍ରି ଏବଂ କାର୍ତ୍ତିକୈର ସୋମବାରମାନ ପାଳନ କରେ, ପ୍ରଦୋଷ ପୂଜା ସହିତ। ତିରୁବାରୁର ନିକଟରେ ପାଦଲ୍ ପେତ୍ର ଯାତ୍ରାପଥର ତୀର୍ଥଯାତ୍ରୀମାନେ ତିରୁନେଲ୍ଲିକ୍କାକୁ ନିଜ ଯାତ୍ରାର ସ୍ଥାନମାନଙ୍କ ମଧ୍ୟରେ ସାମିଲ କରନ୍ତି।",
+    "experience": "ତିରୁନେଲ୍ଲିକ୍କାରେ ତୀର୍ଥଯାତ୍ରୀ ଏକ ଆମଳକୀ-ବନ ମନ୍ଦିରକୁ ଆସନ୍ତି ଯେଉଁଠି ସ୍ୱୟମ୍ଭୂ ପ୍ରଭୁ ବିନମ୍ର, ଆରୋଗ୍ୟଦାୟୀ ଫଳକୁ ସମ୍ମାନ ଦିଅନ୍ତି। ନେଲ୍ଲିବନନାଥର ଓ ମଙ୍ଗଳନାୟକୀଙ୍କ ସମ୍ମୁଖରେ, ସ୍ୱର୍ଗୀୟ ବୃକ୍ଷମାନଙ୍କ ସ୍ମୃତି ଓ ଦୁର୍ବାସାଙ୍କ କ୍ରୋଧର ଶାନ୍ତି ମଧ୍ୟରେ, ଦର୍ଶକ ତିରୁବାରୁର ଅଞ୍ଚଳର ଏକ ତେବାରମ୍ ମନ୍ଦିରର ଶାନ୍ତ, ପୁନରୁଜ୍ଜୀବନକାରୀ କୃପା ପାଆନ୍ତି।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirunellikka is about 17 km from Tiruvarur and 23 km from Mannargudi, in Tiruvarur district (PIN 610205). Tiruvarur is the nearest rail head, with buses and taxis to the village."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁନଃ ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷତଃ ଉତ୍ସବ ଦିନରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ବେଶଭୂଷା ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବ; ପାଦୁକା ପ୍ରବେଶ ଦ୍ୱାର ପାଖରେ ରଖାଯାଏ।",
+    "photography": "ବାହ୍ୟ ଦାଣ୍ଡରେ ସାଧାରଣତଃ ଫଟୋ ଉଠାଇବା ଅନୁମତିପ୍ରାପ୍ତ କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ପୂଜାବିଧିର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ତିରୁନେଲ୍ଲିକ୍କା ତିରୁବାରୁର ଜିଲ୍ଲାରେ ତିରୁବାରୁରଠାରୁ ପ୍ରାୟ ୧୭ କିମି ଓ ମନ୍ନାର୍‌ଗୁଡ଼ିଠାରୁ ୨୩ କିମି ଦୂରରେ (ପିନ୍ ୬୧୦୨୦୫)। ତିରୁବାରୁର ନିକଟତମ ରେଳ ଷ୍ଟେସନ, ଗ୍ରାମକୁ ବସ୍ ଓ ଟ୍ୟାକ୍ସି ସେବା ଅଛି।"
   }
 }
