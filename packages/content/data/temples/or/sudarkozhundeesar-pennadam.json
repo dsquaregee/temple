@@ -1,29 +1,36 @@
 {
   "id": "sudarkozhundeesar-pennadam",
   "locale": "or",
+  "name": "ସୁଦର୍କୋଳୁନ୍ଦୀଶ୍ୱର ମନ୍ଦିର, ପେନ୍ନାଡ଼ମ୍",
   "nativeName": "சுடர்க்கொழுந்தீசர் கோயில்",
+  "deity": "ଶିବ ସୁଦର୍କୋଳୁନ୍ଦୀଶ୍ୱର (ପ୍ରଳୟକାଳେଶ୍ୱର) ରୂପେ, ଦେବୀ କଦନ୍ତୈ ନାୟକୀ (ଆମୋଦନାମ୍ବିକୈ) ସହିତ",
+  "tradition": "ଶୈବ ପରମ୍ପରା",
   "location": {
-    "city": "Pennadam",
-    "state": "Tamil Nadu",
+    "city": "ପେନ୍ନାଡ଼ମ୍",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 11.4025,
     "lng": 79.2567
   },
+  "period": "ନାଡୁ ନାଡୁ ଅଞ୍ଚଳର ପ୍ରାଚୀନ ଶୈବ ତୀର୍ଥ, ତେବାରମ୍‌ରେ ଗୀତ (୭ମ ଶତାବ୍ଦୀ); ପରବର୍ତ୍ତୀ ଯୋଗଦାନ ସହ ପ୍ରାଥମିକ ଚୋଳ ଶୈଳୀର ଗର୍ଭଗୃହ",
   "century": 7,
+  "dynasty": "ଶୈଳୀରେ ପ୍ରାଥମିକ ଚୋଳ; ଶିଳାଲେଖ ଅନୁସାରେ ପୌରାଣିକ ରାଜା କୋଚେଙ୍ଗଣ୍ଣନ୍ ଏହି ତୀର୍ଥର ନିର୍ମାତା, ପରବର୍ତ୍ତୀ ଚୋଳ ଓ ବିଜୟନଗର ଅଭିଲେଖ ସହ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ସୁଦର୍କୋଳୁନ୍ଦୀଶ୍ୱର ହେଉଛି ତେବାରମ୍‌ର ପେନ୍ନାଗଡ଼ମ୍, ଯେଉଁଠାରେ ପ୍ରଭୁ ପ୍ରଳୟକାଳେଶ୍ୱର ରୂପେ ନିଜ ବୃଷଭ ନନ୍ଦୀ ଦ୍ୱାରା ମହା ପ୍ରଳୟରୁ ଦେଶକୁ ରକ୍ଷା କରିଥିଲେ, ଆଉ ଯେଉଁଠାରେ ଅପ୍ପରଙ୍କୁ ତ୍ରିଶୂଳ ଓ ବୃଷଭର ଚିହ୍ନ ଦିଆଯାଇଥିଲା ବୋଲି କୁହାଯାଏ।",
   "sections": {
-    "history": "Pennadam, the Pennagadam of the Tevaram hymns and also remembered as Thoongaanai Maadam, lies in the Nadu Nadu country of Cuddalore district. It is praised in the hymns of Appar, which makes it a Paadal Petra Sthalam. The lord is worshipped as Sudarkozhundeesar, Pralayakaleswarar and Pushpavaneswarar, and the goddess as Kadanthai Nayaki, also called Aamodhanaambikai. A local reading of the town's name tells of maidens (penn), the divine cow Kamadhenu (aa) and an elephant (gadam) who all worshipped here, so that the place became Penn-aa-Gadam, later Pennadam. The main shrine is of the Early Chola period in style, and inscriptions attribute it to the legendary king Kocengannan, one of the seventy-eight temples credited to him; Chola and Vijayanagara inscriptions are also recorded.",
-    "architecture": "The sanctum of Sudarkozhundeesar is the temple's most distinctive feature: its vimana is shaped like the back of an elephant, the form called gajaprishta, and it is pierced by windows on three sides, a design that belongs to the Early Chola period. The Nandi is placed in an unusual position, turned toward the entrance and away from the sanctum, and temple tradition connects this with the legend of the flood. Beyond these features the sources say little of the towers and halls, so the account here stays with what is recorded.",
-    "legends": "The temple's great legend is of the deluge. When a primordial flood threatened the land, the gods turned to Shiva to protect all living beings. He commanded his bull Nandi to guard the place, and Nandi turned toward the entrance and drew in the rising waters, so that the town and its shrine were saved. From this the Lord is revered as Pralayakaleswarar, the Lord of the end of the age. A second tradition belongs to Appar. After he had sung a hymn of repentance for his years among the Jains, a divine messenger is said to have appeared and marked his shoulders with the trident and the bull, the signs of a Shaiva servant. The temple keeps both memories: a protector against the waters, and a Lord who receives the returning devotee.",
-    "festivals": "The sources consulted give no firm festival calendar for Pennadam, so this account names only the observances common to every Shiva temple: Maha Shivaratri in February or March and the monthly Pradosham. Local festivals, if any, follow the Tamil calendar; confirm dates with the temple.",
-    "experience": "Come to Pennadam to see the sanctum from outside as well as within: look up at the elephant-back form of the vimana and at the windows set into its three sides, then notice the Nandi turned toward the entrance, and recall the flood it is said to have drawn in. Worship Sudarkozhundeesar in the sanctum and Kadanthai Nayaki in her own shrine. The town is a quiet one beside the road to Virudhachalam, and many visitors link the temple with the story of Appar's return to Shiva."
+    "history": "ପେନ୍ନାଡ଼ମ୍, ଯାହା ତେବାରମ୍ ସ୍ତୋତ୍ରର ପେନ୍ନାଗଡ଼ମ୍ ଏବଂ ତୁଙ୍ଗାନୈ ମାଡ଼ମ୍ ରୂପେ ମଧ୍ୟ ସ୍ମରଣୀୟ, କଡ଼ଲୋର ଜିଲ୍ଲାର ନାଡୁ ନାଡୁ ଅଞ୍ଚଳରେ ଅବସ୍ଥିତ। ଏହା ଅପ୍ପରଙ୍କ ସ୍ତୋତ୍ରରେ ପ୍ରଶଂସିତ, ଯାହା ଏହାକୁ ଏକ ପାଡ଼ଲ୍ ପେତ୍ର ସ୍ଥଳମ୍ କରେ। ପ୍ରଭୁ ସୁଦର୍କୋଳୁନ୍ଦୀଶ୍ୱର, ପ୍ରଳୟକାଳେଶ୍ୱର ଓ ପୁଷ୍ପବନେଶ୍ୱର ରୂପେ ଏବଂ ଦେବୀ କଦନ୍ତୈ ନାୟକୀ, ଯାହାଙ୍କୁ ଆମୋଦନାମ୍ବିକୈ ମଧ୍ୟ କହନ୍ତି, ରୂପେ ପୂଜିତ। ସହରର ନାମର ଏକ ସ୍ଥାନୀୟ ବ୍ୟାଖ୍ୟା କୁହେ ଯେ କନ୍ୟାମାନେ (ପେନ୍), ଦିବ୍ୟ ଗାଈ କାମଧେନୁ (ଆ) ଓ ଏକ ହାତୀ (କଡ଼ମ୍) ସମସ୍ତେ ଏଠାରେ ପୂଜା କରିଥିଲେ, ଫଳରେ ସ୍ଥାନଟି ପେନ୍-ଆ-କଡ଼ମ୍, ପରେ ପେନ୍ନାଡ଼ମ୍ ହେଲା। ମୁଖ୍ୟ ମନ୍ଦିର ଶୈଳୀରେ ପ୍ରାଥମିକ ଚୋଳ କାଳର, ଆଉ ଶିଳାଲେଖ ଏହାକୁ ପୌରାଣିକ ରାଜା କୋଚେଙ୍ଗଣ୍ଣନ୍‌ଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ବୋଲି କହେ, ଯାହା ତାଙ୍କ ନାମରେ ଗଣାଯାଉଥିବା ସତୁରି ଆଠଟି ମନ୍ଦିର ମଧ୍ୟରୁ ଗୋଟିଏ; ଚୋଳ ଓ ବିଜୟନଗର ଶିଳାଲେଖ ମଧ୍ୟ ଲିପିବଦ୍ଧ ଅଛି।",
+    "architecture": "ସୁଦର୍କୋଳୁନ୍ଦୀଶ୍ୱରଙ୍କ ଗର୍ଭଗୃହ ମନ୍ଦିରର ସବୁଠାରୁ ବିଶିଷ୍ଟ ବୈଶିଷ୍ଟ୍ୟ: ଏହାର ବିମାନ ହାତୀର ପିଠି ଆକୃତିର, ଯାହାକୁ ଗଜପୃଷ୍ଠ ରୂପ କୁହାଯାଏ, ଆଉ ଏହା ତିନି ପାର୍ଶ୍ୱରେ ଝରକା ଦ୍ୱାରା ବିଦ୍ଧ, ଯେଉଁ ଶୈଳୀ ପ୍ରାଥମିକ ଚୋଳ କାଳର। ନନ୍ଦୀ ଏକ ଅସାଧାରଣ ସ୍ଥିତିରେ ସ୍ଥାପିତ, ଗର୍ଭଗୃହକୁ ପଛ କରି ପ୍ରବେଶଦ୍ୱାର ଆଡ଼କୁ ମୁହାଁଇ, ଆଉ ମନ୍ଦିର ପରମ୍ପରା ଏହାକୁ ପ୍ରଳୟର କାହାଣୀ ସହ ଯୋଡ଼ିଥାଏ। ଏହାବ୍ୟତୀତ ଗୋପୁର ଓ ମଣ୍ଡପ ବିଷୟରେ ଉତ୍ସଗୁଡ଼ିକ ଅଧିକ କିଛି କହନ୍ତି ନାହିଁ, ତେଣୁ ଏଠାରେ ବିବରଣୀ କେବଳ ଯାହା ଲିପିବଦ୍ଧ ତାହା ମଧ୍ୟରେ ସୀମିତ।",
+    "legends": "ମନ୍ଦିରର ମହାନ କିମ୍ବଦନ୍ତୀ ହେଉଛି ମହାପ୍ରଳୟ। ଯେତେବେଳେ ଏକ ଆଦିମ ଜଳପ୍ଲାବନ ଦେଶକୁ ଧମକ ଦେଲା, ଦେବତାମାନେ ସମସ୍ତ ଜୀବଙ୍କ ରକ୍ଷା ପାଇଁ ଶିବଙ୍କ ଆଡ଼କୁ ଫେରିଲେ। ସେ ନିଜ ବୃଷଭ ନନ୍ଦୀଙ୍କୁ ସ୍ଥାନଟି ରକ୍ଷା କରିବାକୁ ଆଦେଶ ଦେଲେ, ଆଉ ନନ୍ଦୀ ପ୍ରବେଶଦ୍ୱାର ଆଡ଼କୁ ମୁହାଁଇ ବଢ଼ି ଆସୁଥିବା ଜଳକୁ ନିଜ ଭିତରକୁ ଟାଣି ନେଲେ, ଫଳରେ ନଗର ଓ ତାହାର ମନ୍ଦିର ରକ୍ଷା ପାଇଲା। ଏଥିରୁ ପ୍ରଭୁ ପ୍ରଳୟକାଳେଶ୍ୱର, ଯୁଗାନ୍ତର ପ୍ରଭୁ, ରୂପେ ପୂଜିତ। ଦ୍ୱିତୀୟ ପରମ୍ପରା ଅପ୍ପରଙ୍କ ସହ ଜଡ଼ିତ। ଜୈନମାନଙ୍କ ମଧ୍ୟରେ ବିତାଇଥିବା ବର୍ଷମାନଙ୍କ ପାଇଁ ଅନୁତାପର ସ୍ତୋତ୍ର ଗାଇବା ପରେ ଜଣେ ଦିବ୍ୟ ଦୂତ ଆବିର୍ଭୂତ ହୋଇ ତାଙ୍କ କାନ୍ଧରେ ତ୍ରିଶୂଳ ଓ ବୃଷଭର ଚିହ୍ନ, ଶୈବ ସେବକର ଲକ୍ଷଣ, ଅଙ୍କିତ କରିଥିଲେ ବୋଲି କୁହାଯାଏ। ମନ୍ଦିର ଉଭୟ ସ୍ମୃତି ରଖିଛି: ଜଳରୁ ରକ୍ଷକ, ଆଉ ଫେରିଆସୁଥିବା ଭକ୍ତକୁ ଗ୍ରହଣ କରୁଥିବା ପ୍ରଭୁ।",
+    "festivals": "ପରାମର୍ଶ କରାଯାଇଥିବା ଉତ୍ସଗୁଡ଼ିକ ପେନ୍ନାଡ଼ମ୍ ପାଇଁ କୌଣସି ନିଶ୍ଚିତ ଉତ୍ସବ ପଞ୍ଜିକା ଦିଅନ୍ତି ନାହିଁ, ତେଣୁ ଏଠାରେ କେବଳ ପ୍ରତ୍ୟେକ ଶିବ ମନ୍ଦିରରେ ସାଧାରଣ ପାଳନଗୁଡ଼ିକର ନାମ ଉଲ୍ଲେଖ କରାଯାଇଛି: ଫେବୃଆରୀ କିମ୍ବା ମାର୍ଚ୍ଚରେ ମହାଶିବରାତ୍ରି ଓ ମାସିକ ପ୍ରଦୋଷମ୍। ସ୍ଥାନୀୟ ଉତ୍ସବ, ଯଦି ଥାଏ, ତାମିଲ ପଞ୍ଜିକା ଅନୁସରଣ କରେ; ତାରିଖ ପାଇଁ ମନ୍ଦିରରେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ପେନ୍ନାଡ଼ମ୍‌କୁ ଆସନ୍ତୁ ଗର୍ଭଗୃହକୁ ଭିତରୁ ଯେପରି ବାହାରୁ ମଧ୍ୟ ଦେଖିବାକୁ: ବିମାନର ହାତୀପିଠି ଆକୃତି ଓ ତାହାର ତିନି ପାର୍ଶ୍ୱର ଝରକା ଆଡ଼କୁ ଉପରକୁ ଚାହାଁନ୍ତୁ, ତା'ପରେ ପ୍ରବେଶଦ୍ୱାର ଆଡ଼କୁ ମୁହାଁଇଥିବା ନନ୍ଦୀଙ୍କୁ ଲକ୍ଷ୍ୟ କରନ୍ତୁ, ଆଉ ସେ ଯେଉଁ ପ୍ରଳୟକୁ ଟାଣି ନେଇଥିଲେ ବୋଲି କୁହାଯାଏ ତାହା ସ୍ମରଣ କରନ୍ତୁ। ଗର୍ଭଗୃହରେ ସୁଦର୍କୋଳୁନ୍ଦୀଶ୍ୱରଙ୍କୁ ଓ ନିଜ ମନ୍ଦିରରେ କଦନ୍ତୈ ନାୟକୀଙ୍କୁ ପୂଜା କରନ୍ତୁ। ସହରଟି ବିରୁଧାଚଲମ୍ ଆଡ଼କୁ ଯାଉଥିବା ସଡ଼କ ପାଖରେ ଏକ ଶାନ୍ତ ସ୍ଥାନ, ଆଉ ଅନେକ ଯାତ୍ରୀ ମନ୍ଦିରକୁ ଶିବଙ୍କ ପାଖକୁ ଅପ୍ପରଙ୍କ ଫେରିବାର କାହାଣୀ ସହ ଯୋଡ଼ନ୍ତି।"
   },
   "visit": {
-    "timings": "Typically open in the morning and again from late afternoon into the evening, with a midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Pennadam lies about 18 km south-west of Virudhachalam on the Virudhachalam–Tittagudi road, in Cuddalore district, and has a railway station of its own. Buses run along the road from Virudhachalam and Tittagudi. The temple stands in the town; confirm local transport on the day."
+    "timings": "ସାଧାରଣତଃ ସକାଳେ ଓ ପୁଣି ଅପରାହ୍ନର ଶେଷ ଭାଗରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା, ମଧ୍ୟାହ୍ନରେ ବିରତି ସହ; ବିଶେଷତଃ ଉତ୍ସବ ଦିନରେ ସ୍ଥାନୀୟ ଭାବେ ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ: ପୁରୁଷଙ୍କ ପାଇଁ ଧୋତି କିମ୍ବା ପ୍ୟାଣ୍ଟ, ମହିଳାଙ୍କ ପାଇଁ ଶାଢ଼ୀ, ସଲୱାର କମିଜ୍ କିମ୍ବା ଲମ୍ବା ସ୍କର୍ଟ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି। ପାଦୁକା ପ୍ରବେଶଦ୍ୱାର ନିକଟ ଷ୍ଟାଣ୍ଡରେ ଛାଡ଼ାଯାଏ।",
+    "photography": "ତାମିଲନାଡୁ ମନ୍ଦିର ନିୟମ ଅନୁଯାୟୀ ବାହ୍ୟ ଗଳିପଥ ଓ ପ୍ରାଙ୍ଗଣରେ ଫଟୋ ଉଠାଇବା ସାଧାରଣତଃ ଅନୁମୋଦିତ, କିନ୍ତୁ ଭିତର ଗର୍ଭଗୃହ ଭିତରେ ନିଷିଦ୍ଧ। ପୂଜାବିଧି କିମ୍ବା ପୂଜକଙ୍କ ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ପେନ୍ନାଡ଼ମ୍ କଡ଼ଲୋର ଜିଲ୍ଲାରେ ବିରୁଧାଚଲମ୍–ତିଟ୍ଟାକୁଡ଼ି ସଡ଼କରେ ବିରୁଧାଚଲମ୍‌ରୁ ପ୍ରାୟ ୧୮ କିଲୋମିଟର ଦକ୍ଷିଣ-ପଶ୍ଚିମରେ ଅବସ୍ଥିତ, ଆଉ ଏହାର ନିଜସ୍ୱ ରେଳ ଷ୍ଟେସନ ଅଛି। ବିରୁଧାଚଲମ୍ ଓ ତିଟ୍ଟାକୁଡ଼ିରୁ ସଡ଼କ ଦେଇ ବସ୍ ଚାଲେ। ମନ୍ଦିର ସହର ଭିତରେ ଅଛି; ସେହି ଦିନ ସ୍ଥାନୀୟ ପରିବହନ ନିଶ୍ଚିତ କରନ୍ତୁ।"
   }
 }
