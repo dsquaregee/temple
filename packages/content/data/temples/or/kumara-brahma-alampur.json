@@ -1,30 +1,37 @@
 {
   "id": "kumara-brahma-alampur",
   "locale": "or",
+  "name": "କୁମାର ବ୍ରହ୍ମ ମନ୍ଦିର, ଆଳମ୍ପୁର",
   "nativeName": "కుమార బ్రహ్మ ఆలయం, అలంపూర్",
+  "deity": "କୁମାର ବ୍ରହ୍ମେଶ୍ୱର ରୂପେ ଶିବ (ଲିଙ୍ଗ)",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Alampur",
-    "state": "Telangana",
+    "city": "ଆଳମ୍ପୁର",
+    "state": "ତେଲେଙ୍ଗାନା",
     "lat": 15.8781,
     "lng": 78.1354
   },
+  "period": "ଆଳମ୍ପୁରର ନଅଟି ନବବ୍ରହ୍ମ ମନ୍ଦିରର ଅନ୍ୟତମ, ସପ୍ତମ ଶତାବ୍ଦୀରେ ବାଦାମୀ ଚାଲୁକ୍ୟମାନଙ୍କ ଅଧୀନରେ ନିର୍ମିତ",
   "century": 7,
+  "dynasty": "ଚାଲୁକ୍ୟ (ବାଦାମୀ)",
+  "style": "ପ୍ରାଚୀନ ଚାଲୁକ୍ୟ, ଉତ୍ତରୀ (ରେଖା-ନାଗର) ମନ୍ଦିର ଶୈଳୀ",
   "unesco": false,
   "circuits": [
     "alampur-navabrahma-temples"
   ],
+  "summary": "ଆଳମ୍ପୁରର ସ୍ଥଳ ସଂଗ୍ରହାଳୟ ସମ୍ମୁଖରେ ଥିବା କୁମାର ବ୍ରହ୍ମ ମନ୍ଦିରରେ ଏକ ସ୍ତମ୍ଭଯୁକ୍ତ ବାରଣ୍ଡା ଓ ସମୃଦ୍ଧ ଖୋଦିତ ସ୍ତମ୍ଭର ମଣ୍ଡପ ଅଛି — ତୁଙ୍ଗଭଦ୍ରା ତୀରର ନଅଟି ପ୍ରାଚୀନ ଚାଲୁକ୍ୟ ଶିବ ମନ୍ଦିର ମଧ୍ୟରୁ ଏକ।",
   "sections": {
-    "history": "Alampur's nine Navabrahma temples are Shiva shrines, each named for a form of Brahma, raised by the Badami Chalukyas on the left bank of the Tungabhadra near its meeting with the Krishna; the standing temples are dated from the middle of the seventh century. Kumara Brahma, whose name means the youthful Brahma, is often placed among the earlier members of the group and is thought to belong to the time of Vikramaditya I, who ruled from about 655 to 681. Like most of its neighbours it no longer receives worship and is protected by the Archaeological Survey of India.",
-    "architecture": "The temple rises on a high platform and is one of only two in the group, with Swarga Brahma, to keep a pillared entrance porch before its main hall. Beyond the hall lies the sanctum, wrapped by an enclosed passage for circumambulation. Its roof sets it apart: where the other shrines carry the projecting antefix over the vestibule as part of the tower, Kumara Brahma is roofed flat. Inside, the pillars are carved with Gajalakshmi, Shiva with Uma, Kubera, elephants and swans, and riders on fabulous beasts, while Vishnu presides over the sanctum doorway amid floral garlands.",
-    "legends": "Tradition holds that Brahma, the creator, performed long penance at Alampur and worshipped Shiva here, and that the nine temples remember the forms in which he did so. Kumara, the youth, is the name given to this shrine — a reminder that the Navabrahma names are devotional titles of the one Shiva, worshipped as Brahmeshwara, the lord whom Brahma adored.",
-    "festivals": "As a protected monument, the temple has no festival of its own. The Alampur precinct comes alive at Maha Shivaratri, when devotees throng the living Bala Brahmeshwara shrine nearby, and at Navaratri and Dasara for the goddess Jogulamba; confirm dates locally.",
-    "experience": "Kumara Brahma stands directly across from the site museum, so it pairs naturally with an hour among the museum's sculptures and inscribed slabs. Step into the hall and let your eyes adjust: the pillar reliefs reward close looking, and the Vishnu on the doorway frames the dim sanctum. The neighbouring Arka, Vira and Vishwa Brahma temples lie a few steps to the north."
+    "history": "ଆଳମ୍ପୁରର ନଅଟି ନବବ୍ରହ୍ମ ମନ୍ଦିର ଶିବ ମନ୍ଦିର, ପ୍ରତ୍ୟେକଟି ବ୍ରହ୍ମାଙ୍କ ଏକ ରୂପର ନାମରେ ନାମିତ, ତୁଙ୍ଗଭଦ୍ରା ଓ କୃଷ୍ଣାର ସଙ୍ଗମ ନିକଟରେ ତୁଙ୍ଗଭଦ୍ରାର ବାମ ତୀରରେ ବାଦାମୀ ଚାଲୁକ୍ୟମାନେ ନିର୍ମାଣ କରିଥିଲେ; ଦଣ୍ଡାୟମାନ ମନ୍ଦିରଗୁଡ଼ିକ ସପ୍ତମ ଶତାବ୍ଦୀର ମଧ୍ୟଭାଗରୁ ଦିଆଯାଏ। କୁମାର ବ୍ରହ୍ମ, ଯାହାର ନାମର ଅର୍ଥ ତରୁଣ ବ୍ରହ୍ମା, ପ୍ରାୟତଃ ଏହି ସମୂହର ପୂର୍ବତନ ସଦସ୍ୟମାନଙ୍କ ମଧ୍ୟରେ ଗଣାଯାଏ ଏବଂ ଆନୁମାନିକ ୬୫୫ ରୁ ୬୮୧ ପର୍ଯ୍ୟନ୍ତ ଶାସନ କରିଥିବା ପ୍ରଥମ ବିକ୍ରମାଦିତ୍ୟଙ୍କ ସମୟର ବୋଲି ଭାବାଯାଏ। ଏହାର ପଡ଼ୋଶୀ ମନ୍ଦିରଗୁଡ଼ିକ ପରି ଏଠାରେ ଆଉ ପୂଜା ହୁଏ ନାହିଁ ଏବଂ ଏହା ଭାରତୀୟ ପୁରାତତ୍ତ୍ୱ ସର୍ବେକ୍ଷଣ ଦ୍ୱାରା ସୁରକ୍ଷିତ।",
+    "architecture": "ମନ୍ଦିରଟି ଏକ ଉଚ୍ଚ ମଞ୍ଚ ଉପରେ ଉଠିଛି ଏବଂ ସ୍ୱର୍ଗ ବ୍ରହ୍ମ ସହିତ, ସମୂହରେ ମୁଖ୍ୟ ମଣ୍ଡପ ସମ୍ମୁଖରେ ସ୍ତମ୍ଭଯୁକ୍ତ ପ୍ରବେଶ ବାରଣ୍ଡା ରଖିଥିବା ଦୁଇଟିମାତ୍ର ମନ୍ଦିର ମଧ୍ୟରୁ ଅନ୍ୟତମ। ମଣ୍ଡପ ଆଗରେ ଗର୍ଭଗୃହ, ଯାହାକୁ ପ୍ରଦକ୍ଷିଣା ପାଇଁ ଏକ ଘେରା ପଥ ଘେରିଛି। ଏହାର ଛାତ ଏହାକୁ ଅଲଗା କରେ: ଅନ୍ୟ ମନ୍ଦିରଗୁଡ଼ିକ ଅନ୍ତରାଳ ଉପରେ ଶିଖରର ଅଂଶ ଭାବେ ବାହାରକୁ ଆସିଥିବା ଆମଳକ ଧାରଣ କରୁଥିବା ବେଳେ କୁମାର ବ୍ରହ୍ମର ଛାତ ସମତଳ। ଭିତରେ ସ୍ତମ୍ଭଗୁଡ଼ିକରେ ଗଜଲକ୍ଷ୍ମୀ, ଉମା ସହ ଶିବ, କୁବେର, ହାତୀ ଓ ହଂସ, ଏବଂ ଅଦ୍ଭୁତ ପଶୁ ଉପରେ ଆରୋହୀଙ୍କ ଖୋଦେଇ ଅଛି, ଆଉ ଗର୍ଭଗୃହ ଦ୍ୱାରରେ ଫୁଲମାଳା ମଧ୍ୟରେ ବିଷ୍ଣୁ ବିରାଜମାନ।",
+    "legends": "ପରମ୍ପରା କହେ ଯେ ସୃଷ୍ଟିକର୍ତ୍ତା ବ୍ରହ୍ମା ଆଳମ୍ପୁରରେ ଦୀର୍ଘ ତପସ୍ୟା କରି ଏଠାରେ ଶିବଙ୍କ ପୂଜା କରିଥିଲେ, ଆଉ ନଅଟି ମନ୍ଦିର ସେହି ରୂପଗୁଡ଼ିକୁ ସ୍ମରଣ କରାଏ। ଏହି ମନ୍ଦିରକୁ କୁମାର, ଅର୍ଥାତ୍ ତରୁଣ, ନାମ ଦିଆଯାଇଛି — ଏହା ମନେ ପକାଏ ଯେ ନବବ୍ରହ୍ମ ନାମଗୁଡ଼ିକ ଏକ ଶିବଙ୍କର ଭକ୍ତିମୟ ଉପାଧି, ଯିଏ ବ୍ରହ୍ମେଶ୍ୱର ରୂପେ ପୂଜିତ, ଯାହାଙ୍କୁ ବ୍ରହ୍ମା ଆରାଧନା କରିଥିଲେ।",
+    "festivals": "ସୁରକ୍ଷିତ ସ୍ମାରକ ଭାବେ ଏହି ମନ୍ଦିରର ନିଜସ୍ୱ କୌଣସି ପର୍ବ ନାହିଁ। ଆଳମ୍ପୁର ପରିସର ମହାଶିବରାତ୍ରିରେ ଜୀବନ୍ତ ହୋଇଉଠେ, ଯେତେବେଳେ ଭକ୍ତମାନେ ନିକଟସ୍ଥ ଜୀବନ୍ତ ବାଳ ବ୍ରହ୍ମେଶ୍ୱର ମନ୍ଦିରରେ ଭିଡ଼ କରନ୍ତି, ଏବଂ ଦେବୀ ଯୋଗୁଳାମ୍ବାଙ୍କ ପାଇଁ ନବରାତ୍ରି ଓ ଦଶହରାରେ; ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "କୁମାର ବ୍ରହ୍ମ ସ୍ଥଳ ସଂଗ୍ରହାଳୟର ସିଧା ସାମ୍ନାରେ ଅବସ୍ଥିତ, ତେଣୁ ସଂଗ୍ରହାଳୟର ମୂର୍ତ୍ତି ଓ ଲେଖାଯୁକ୍ତ ଫଳକ ମଧ୍ୟରେ ଏକ ଘଣ୍ଟା ସହ ଏହା ସ୍ୱାଭାବିକ ଭାବେ ଯୋଡ଼ିହୁଏ। ମଣ୍ଡପରେ ପାଦ ଦିଅନ୍ତୁ ଏବଂ ଆଖିକୁ ଅଭ୍ୟସ୍ତ ହେବାକୁ ଦିଅନ୍ତୁ: ସ୍ତମ୍ଭର ଖୋଦେଇ ଗଭୀର ଦୃଷ୍ଟିକୁ ପୁରସ୍କୃତ କରେ, ଆଉ ଦ୍ୱାରରେ ଥିବା ବିଷ୍ଣୁ ଅନ୍ଧକାରମୟ ଗର୍ଭଗୃହକୁ ଫ୍ରେମ୍ କରନ୍ତି। ପଡ଼ୋଶୀ ଅର୍କ, ବୀର ଓ ବିଶ୍ୱ ବ୍ରହ୍ମ ମନ୍ଦିର ଉତ୍ତର ଦିଗରେ କିଛି ପାଦ ଦୂରରେ।"
   },
   "visit": {
-    "timings": "The Navabrahma precinct is open to visitors through the day; as an ASI-protected site, hours and any entry charges for the precinct and museum should be confirmed locally.",
-    "dressCode": "Modest dress is appreciated across the precinct, which includes living shrines; remove footwear where asked.",
-    "photography": "Photography is generally allowed at the monuments; tripods or professional shoots may need permission from the site authorities.",
-    "gettingThere": "Alampur is in Jogulamba Gadwal district, about 25 km from Kurnool and some 220 km south of Hyderabad, just off the Hyderabad–Bengaluru highway (NH 44). Alampur Road railway station, on the Hyderabad–Kurnool line, is about 9 km away; the temple stands within the Navabrahma precinct by the Tungabhadra, opposite the site museum."
+    "timings": "ନବବ୍ରହ୍ମ ପରିସର ଦିନସାରା ଦର୍ଶକଙ୍କ ପାଇଁ ଖୋଲା; ଭାରତୀୟ ପୁରାତତ୍ତ୍ୱ ସର୍ବେକ୍ଷଣ ଦ୍ୱାରା ସୁରକ୍ଷିତ ସ୍ଥଳ ହୋଇଥିବାରୁ ପରିସର ଓ ସଂଗ୍ରହାଳୟର ସମୟ ଏବଂ ପ୍ରବେଶ ଶୁଳ୍କ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସମଗ୍ର ପରିସରରେ ନମ୍ର ପୋଷାକକୁ ପ୍ରଶଂସା କରାଯାଏ, ଯେଉଁଥିରେ ଜୀବନ୍ତ ମନ୍ଦିର ମଧ୍ୟ ଅଛି; ଯେଉଁଠି କୁହାଯାଏ ସେଠାରେ ପାଦୁକା ଖୋଲନ୍ତୁ।",
+    "photography": "ସ୍ମାରକଗୁଡ଼ିକରେ ସାଧାରଣତଃ ଫଟୋଗ୍ରାଫି ଅନୁମତିପ୍ରାପ୍ତ; ଟ୍ରାଇପଡ୍ କିମ୍ବା ବୃତ୍ତିଗତ ସୁଟିଂ ପାଇଁ ସ୍ଥଳ କର୍ତ୍ତୃପକ୍ଷଙ୍କ ଅନୁମତି ଆବଶ୍ୟକ ହୋଇପାରେ।",
+    "gettingThere": "ଆଳମ୍ପୁର ଜୋଗୁଳାମ୍ବା ଗଦ୍ୱାଲ ଜିଲ୍ଲାରେ, କର୍ଣ୍ଣୁଲରୁ ପ୍ରାୟ ୨୫ କିମି ଏବଂ ହାଇଦ୍ରାବାଦରୁ ପ୍ରାୟ ୨୨୦ କିମି ଦକ୍ଷିଣରେ, ହାଇଦ୍ରାବାଦ–ବେଙ୍ଗାଲୁରୁ ରାଜପଥ (ଏନ୍‌ଏଚ୍ ୪୪)ର ଠିକ୍ ପାଖରେ ଅବସ୍ଥିତ। ହାଇଦ୍ରାବାଦ–କର୍ଣ୍ଣୁଲ ଲାଇନ୍‌ର ଆଳମ୍ପୁର ରୋଡ୍ ରେଳ ଷ୍ଟେସନ ପ୍ରାୟ ୯ କିମି ଦୂରରେ; ମନ୍ଦିର ତୁଙ୍ଗଭଦ୍ରା ପାଖରେ ନବବ୍ରହ୍ମ ପରିସର ଭିତରେ, ସ୍ଥଳ ସଂଗ୍ରହାଳୟ ସମ୍ମୁଖରେ ଅବସ୍ଥିତ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kumara-brahma-alampur.jpg",

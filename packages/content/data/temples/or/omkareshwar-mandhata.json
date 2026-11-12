@@ -1,30 +1,37 @@
 {
   "id": "omkareshwar-mandhata",
   "locale": "or",
+  "name": "ଓଙ୍କାରେଶ୍ୱର ମନ୍ଦିର, ମାନ୍ଧାତା",
   "nativeName": "श्री ओंकारेश्वर ज्योतिर्लिंग मंदिर",
+  "deity": "ଶିବ ଓଙ୍କାରେଶ୍ୱର ରୂପେ, ପବିତ୍ର ପ୍ରଣବ ଧ୍ୱନି ଓଁର ପ୍ରଭୁ, ନଦୀର ଦକ୍ଷିଣ ତଟରେ ମାମଲେଶ୍ୱର (ଅମରେଶ୍ୱର) ଙ୍କ ସହ ଏକତ୍ର ପୂଜିତ",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Omkareshwar (Mandhata island)",
-    "state": "Madhya Pradesh",
+    "city": "ଓଙ୍କାରେଶ୍ୱର (ମାନ୍ଧାତା ଦ୍ୱୀପ)",
+    "state": "ମଧ୍ୟପ୍ରଦେଶ",
     "lat": 22.2456,
     "lng": 76.1511
   },
+  "period": "ନର୍ମଦାର ଏକ ପବିତ୍ର ଦ୍ୱୀପ; ଏକାଦଶ ଶତାବ୍ଦୀରୁ ପରମାର ରାଜାମାନଙ୍କ ଅଧୀନରେ ପ୍ରସିଦ୍ଧ",
   "century": 11,
+  "dynasty": "ପରମାର, ଏବଂ ପରବର୍ତ୍ତୀ କାଳରେ ମରାଠା (ହୋଲକର) ପୃଷ୍ଠପୋଷକତା",
+  "style": "ନାଗର",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "ନର୍ମଦା ନଦୀର ଏକ ଦ୍ୱୀପ ମାନ୍ଧାତାରେ, ଯାହାର ଆକାର ପବିତ୍ର ଓଁ ଅକ୍ଷର ପରି ବୋଲି କୁହାଯାଏ, ଶିବ ଓଙ୍କାରେଶ୍ୱର ରୂପେ ପୂଜିତ — ବାର ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ମଧ୍ୟରୁ ଏକ, ନଦୀର ଆର ପାରିର ମାମଲେଶ୍ୱରଙ୍କ ସହ ଏକତ୍ର ସମ୍ମାନିତ।",
   "sections": {
-    "history": "The Dvadasha Jyotirlinga Stotram names \"Omkara with Amaleshvara\" among the twelve Jyotirlingas, and both are honoured here: Omkareshwar on Mandhata island and Mamleshwar, also called Amareshwar, on the Narmada's south bank, so that pilgrims seek darshan of the two together. The island rose to prominence under the Paramara kings of Malwa; a record of Jayasimha I, of the 11th century, already names the Amareshvara linga. Later the Holkar rulers of Indore cared for the shrines. Tradition also holds that the young Adi Shankara found his guru, Govinda Bhagavatpada, in a cave here, and a towering image of the teacher now stands on the island's hilltop.",
-    "architecture": "The Omkareshwar temple rises on the island's riverward slope in the Nagara manner, its spired sanctum and pillared halls stacked against the hillside above the bathing ghats. The linga is an uncarved natural form, kept moist with offerings of Narmada water. Across the river, the Mamleshwar group gathers older carved shrines within its own enclosure. Bridges and boats link the island to the town, and a path circles the island for those who make its parikrama.",
-    "legends": "One legend tells that the Vindhya mountain, longing for greatness, worshipped Shiva here with a sacred diagram and a linga shaped from sand and clay; pleased, Shiva appeared in two forms, Omkareshwara and Amaleshwara, and granted the mountain's wish. Another tells of King Mandhata of the Ikshvaku line, who performed austerities on this island until Shiva revealed himself as a Jyotirlinga; the island has borne the king's name ever since. Seen from above, the island's outline is said to echo the syllable Om.",
-    "festivals": "Maha Shivaratri draws great crowds to both banks, and the Mondays of Shravan are kept with special devotion. At Kartik Purnima pilgrims bathe in the Narmada and light lamps on its waters. Those walking the long Narmada parikrama often pause here. Confirm dates locally.",
-    "experience": "Arrive by the bridge or a small boat, and the temple appears stacked above the green river with the ghats crowded below. After darshan of Omkareshwar, cross to Mamleshwar to complete the pilgrimage. Many walk the island's parikrama path at dawn, passing small shrines, and return at dusk when lamps float on the Narmada."
+    "history": "ଦ୍ୱାଦଶ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ସ୍ତୋତ୍ରମ୍ ବାର ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ମଧ୍ୟରେ “ଅମଲେଶ୍ୱର ସହିତ ଓଙ୍କାର” ଉଲ୍ଲେଖ କରେ, ଏବଂ ଏଠାରେ ଉଭୟଙ୍କୁ ସମ୍ମାନ ଦିଆଯାଏ: ମାନ୍ଧାତା ଦ୍ୱୀପରେ ଓଙ୍କାରେଶ୍ୱର ଏବଂ ନର୍ମଦାର ଦକ୍ଷିଣ ତଟରେ ମାମଲେଶ୍ୱର, ଯାହାଙ୍କୁ ଅମରେଶ୍ୱର ମଧ୍ୟ କୁହାଯାଏ, ତେଣୁ ତୀର୍ଥଯାତ୍ରୀମାନେ ଉଭୟଙ୍କର ଦର୍ଶନ ଏକତ୍ର କରନ୍ତି। ମାଳବର ପରମାର ରାଜାମାନଙ୍କ ଅଧୀନରେ ଦ୍ୱୀପ ପ୍ରସିଦ୍ଧି ଲାଭ କଲା; ଏକାଦଶ ଶତାବ୍ଦୀର ଜୟସିଂହ ପ୍ରଥମଙ୍କ ଏକ ଅଭିଲେଖ ଅମରେଶ୍ୱର ଲିଙ୍ଗର ନାମ ଉଲ୍ଲେଖ କରିସାରିଛି। ପରେ ଇନ୍ଦୌରର ହୋଲକର ଶାସକମାନେ ମନ୍ଦିରମାନଙ୍କର ଯତ୍ନ ନେଲେ। ପରମ୍ପରା ମଧ୍ୟ କୁହେ ଯେ ତରୁଣ ଆଦି ଶଙ୍କର ଏଠାରେ ଏକ ଗୁମ୍ଫାରେ ନିଜ ଗୁରୁ ଗୋବିନ୍ଦ ଭଗବତ୍ପାଦଙ୍କୁ ପାଇଥିଲେ, ଏବଂ ଏବେ ଦ୍ୱୀପର ପାହାଡ଼ ଶିଖରରେ ଗୁରୁଙ୍କର ଏକ ବିଶାଳ ମୂର୍ତ୍ତି ଠିଆ ହୋଇଛି।",
+    "architecture": "ଓଙ୍କାରେଶ୍ୱର ମନ୍ଦିର ଦ୍ୱୀପର ନଦୀମୁଖୀ ଢାଲୁରେ ନାଗର ଶୈଳୀରେ ଉଠିଛି, ଏହାର ଶିଖରଯୁକ୍ତ ଗର୍ଭଗୃହ ଓ ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ ସ୍ନାନ ଘାଟମାନଙ୍କ ଉପରେ ପାହାଡ଼ ଢାଲୁରେ ସଜା ହୋଇଛି। ଲିଙ୍ଗ ଏକ ଅଖୋଦିତ ପ୍ରାକୃତିକ ରୂପ, ଯାହାକୁ ନର୍ମଦା ଜଳ ଅର୍ପଣ ଦ୍ୱାରା ଆର୍ଦ୍ର ରଖାଯାଏ। ନଦୀର ଆର ପାରିରେ ମାମଲେଶ୍ୱର ସମୂହ ନିଜ ପ୍ରାଙ୍ଗଣ ଭିତରେ ଅଧିକ ପ୍ରାଚୀନ ଖୋଦିତ ମନ୍ଦିରମାନ ସଂଗ୍ରହ କରିଛି। ସେତୁ ଓ ନୌକା ଦ୍ୱୀପକୁ ସହର ସହ ଯୋଡ଼ିଛି, ଏବଂ ଦ୍ୱୀପର ପରିକ୍ରମା କରିବାକୁ ଇଚ୍ଛୁକଙ୍କ ପାଇଁ ଏକ ପଥ ଏହାକୁ ଘେରିଛି।",
+    "legends": "ଗୋଟିଏ କିମ୍ବଦନ୍ତୀ କୁହେ ଯେ ମହାନତା ପାଇଁ ଇଚ୍ଛୁକ ବିନ୍ଧ୍ୟ ପର୍ବତ ଏଠାରେ ଏକ ପବିତ୍ର ଯନ୍ତ୍ର ଓ ବାଲି ଏବଂ ମାଟିରେ ତିଆରି ଲିଙ୍ଗ ସହ ଶିବଙ୍କୁ ପୂଜା କଲା; ପ୍ରସନ୍ନ ହୋଇ ଶିବ ଦୁଇ ରୂପରେ, ଓଙ୍କାରେଶ୍ୱର ଓ ଅମଲେଶ୍ୱର ରୂପେ ପ୍ରକଟ ହେଲେ ଏବଂ ପର୍ବତର ଇଚ୍ଛା ପୂରଣ କଲେ। ଅନ୍ୟ ଏକ କାହାଣୀ ଇକ୍ଷ୍ୱାକୁ ବଂଶର ରାଜା ମାନ୍ଧାତାଙ୍କ ବିଷୟରେ, ଯିଏ ଏହି ଦ୍ୱୀପରେ ତପସ୍ୟା କଲେ ଯେପର୍ଯ୍ୟନ୍ତ ଶିବ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ରୂପେ ପ୍ରକଟ ନହେଲେ; ସେହିଦିନଠାରୁ ଦ୍ୱୀପ ରାଜାଙ୍କ ନାମ ବହନ କରିଆସୁଛି। ଉପରୁ ଦେଖିଲେ ଦ୍ୱୀପର ରେଖାଚିତ୍ର ଓଁ ଅକ୍ଷରର ପ୍ରତିଧ୍ୱନି କରୁଥିବା କୁହାଯାଏ।",
+    "festivals": "ମହାଶିବରାତ୍ରି ଉଭୟ ତଟକୁ ବିପୁଳ ଭିଡ଼ ଆଣେ, ଏବଂ ଶ୍ରାବଣର ସୋମବାରମାନ ବିଶେଷ ଭକ୍ତି ସହ ପାଳିତ ହୁଏ। କାର୍ତ୍ତିକ ପୂର୍ଣ୍ଣିମାରେ ତୀର୍ଥଯାତ୍ରୀମାନେ ନର୍ମଦାରେ ସ୍ନାନ କରନ୍ତି ଓ ଏହାର ଜଳରେ ଦୀପ ଭସାନ୍ତି। ଦୀର୍ଘ ନର୍ମଦା ପରିକ୍ରମା କରୁଥିବା ଅନେକେ ଏଠାରେ ବିଶ୍ରାମ ନେଇଥାନ୍ତି। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ସେତୁ କିମ୍ବା ଛୋଟ ନୌକାରେ ପହଞ୍ଚନ୍ତୁ, ଏବଂ ମନ୍ଦିର ସବୁଜ ନଦୀ ଉପରେ ସଜା ହୋଇଥିବା ଦେଖାଯିବ, ତଳେ ଘାଟମାନେ ଭିଡ଼ରେ ଭରା। ଓଙ୍କାରେଶ୍ୱରଙ୍କ ଦର୍ଶନ ପରେ, ତୀର୍ଥଯାତ୍ରା ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ମାମଲେଶ୍ୱରକୁ ପାର ହୁଅନ୍ତୁ। ଅନେକେ ଭୋରରେ ଦ୍ୱୀପର ପରିକ୍ରମା ପଥରେ ଚାଲନ୍ତି, ଛୋଟ ମନ୍ଦିରମାନଙ୍କୁ ଅତିକ୍ରମ କରି, ଏବଂ ସନ୍ଧ୍ୟାରେ ଫେରନ୍ତି ଯେତେବେଳେ ନର୍ମଦାରେ ଦୀପ ଭାସେ।"
   },
   "visit": {
-    "timings": "Open daily from early morning to night, with breaks for worship during the day; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering.",
-    "photography": "Photography is not permitted inside the sanctum; follow posted rules and staff guidance.",
-    "gettingThere": "Omkareshwar is in Khandwa district, Madhya Pradesh, about 80 km from Indore, which has the nearest airport. The nearest railway station is Omkareshwar Road (Mortakka), about 12 km away. Footbridges and boats connect the town to Mandhata island."
+    "timings": "ପ୍ରତିଦିନ ଭୋରରୁ ରାତି ପର୍ଯ୍ୟନ୍ତ ଖୋଲା, ଦିନରେ ପୂଜା ପାଇଁ ବିରତି ସହ; ବିଶେଷକରି ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ବିନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ପିନ୍ଧିବା ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କିଥିବା; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବାକୁ ହୁଏ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଫଟୋ ଉଠାଇବା ଅନୁମତିପ୍ରାପ୍ତ ନୁହେଁ; ଲିଖିତ ନିୟମ ଓ କର୍ମୀଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ଓଙ୍କାରେଶ୍ୱର ମଧ୍ୟପ୍ରଦେଶର ଖଣ୍ଡୱା ଜିଲ୍ଲାରେ, ଇନ୍ଦୌରରୁ ପ୍ରାୟ ୮୦ କିଲୋମିଟର ଦୂରରେ, ଯେଉଁଠି ନିକଟତମ ବିମାନବନ୍ଦର ଅଛି। ନିକଟତମ ରେଳ ଷ୍ଟେସନ ପ୍ରାୟ ୧୨ କିଲୋମିଟର ଦୂରର ଓଙ୍କାରେଶ୍ୱର ରୋଡ୍ (ମୋରଟକ୍କା)। ପାଦସେତୁ ଓ ନୌକା ସହରକୁ ମାନ୍ଧାତା ଦ୍ୱୀପ ସହ ଯୋଡ଼ିଛି।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/omkareshwar-mandhata.jpg",

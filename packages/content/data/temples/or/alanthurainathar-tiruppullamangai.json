@@ -1,29 +1,36 @@
 {
   "id": "alanthurainathar-tiruppullamangai",
   "locale": "or",
+  "name": "ଆଲନ୍ତୁରାଇନାଥର ମନ୍ଦିର, ତିରୁପ୍ପୁଲ୍ଲମଙ୍ଗାଇ",
   "nativeName": "திருப்புள்ளமங்கை ஆலந்துறைநாதர் (பிரம்மபுரீஸ்வரர்) கோயில்",
+  "deity": "ଶିବ ଆଲନ୍ତୁରାଇନାଥର (ବ୍ରହ୍ମପୁରୀଶ୍ୱରର) ରୂପେ, ଦେବୀ ଅଲ୍ଲିୟଙ୍କୋଥାଇଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଡାଲ ପେତ୍ର ସ୍ଥଳମ୍",
   "location": {
-    "city": "Pullamangai (Pasupathikoil), near Thanjavur",
-    "state": "Tamil Nadu",
+    "city": "ପୁଲ୍ଲମଙ୍ଗାଇ (ପଶୁପତିକୋଇଲ), ତଞ୍ଜାବୁର ନିକଟରେ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 10.88,
     "lng": 79.27
   },
+  "period": "ତେବାରମ୍ ଯୁଗ (୭ମ ଶତାବ୍ଦୀରେ ଗୀତ); ପ୍ରାରମ୍ଭିକ ଚୋଳ ମନ୍ଦିର, ପ୍ରାୟ ୧୦ମ ଶତାବ୍ଦୀ",
   "century": 10,
+  "dynasty": "ଚୋଳ",
+  "style": "ଦ୍ରାବିଡ଼ (ପ୍ରାରମ୍ଭିକ ଚୋଳ)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ତଞ୍ଜାବୁର ନିକଟ କୁଡ଼ାମୁରୁଟ୍ଟି ତଟର ପୁଲ୍ଲମଙ୍ଗାଇ ଶିବଙ୍କୁ ଆଲନ୍ତୁରାଇନାଥର — ବ୍ରହ୍ମପୁରୀଶ୍ୱରର — ରୂପେ, ଦେବୀ ଅଲ୍ଲିୟଙ୍କୋଥାଇଙ୍କ ସହିତ ସମ୍ମାନିତ କରେ। ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ଗୀତ ଏକ ପାଡାଲ ପେତ୍ର ସ୍ଥଳମ୍, ଏହାର ପ୍ରାରମ୍ଭିକ ଚୋଳ ମନ୍ଦିର ନିଜ ଯୁଗର ସର୍ବୋତ୍ତମ ଓ ସବୁଠାରୁ ସୂକ୍ଷ୍ମ ପଥର ଭାସ୍କର୍ଯ୍ୟ ପାଇଁ ପଣ୍ଡିତମାନଙ୍କ ମଧ୍ୟରେ ପ୍ରସିଦ୍ଧ।",
   "sections": {
-    "history": "Pullamangai, at Pasupathikoil on the banks of the Kudamurutti near Thanjavur, is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. Its shrine is one of the celebrated early-Chola temples, of about the 10th century; historians rank its sculpture among the most remarkable of the early Chola age. The place was once a banyan forest by the riverbank, whence the name Alanthurai — 'the banyan ghat.'",
-    "architecture": "A compact early-Chola temple of exquisite workmanship, the shrine enshrines Alanthurainathar — Brahmapureeswarar — in the sanctum, with the goddess Alliyankothai in her own shrine, a Nandi and the parivara devatas. Its vimana is covered with finely carved niches and miniature figures — dvarapalas, Ganesha, Durga, the dikpalas and narrative panels — whose delicacy has made the temple a touchstone for the study of early Chola art.",
-    "legends": "The lord is worshipped as Alanthurainathar, 'lord of the banyan ghat,' and as Brahmapureeswarar, the lord of Brahma's city, worshipped also as Pasupatinathar. The goddess is Alliyankothai. As with the early-Chola shrines of the delta, the sthala tradition is bound up with the river Kudamurutti and the banyan forest that gave the place its name; Sambandar's verses carry its praise.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Scholars and pilgrims of the early-Chola trail come to Pullamangai both for darshan and for its celebrated sculpture.",
-    "experience": "At Pullamangai the pilgrim stands before one of the jewels of early-Chola building. Before Alanthurainathar and Alliyankothai, among the finely carved niches of the vimana, by the Kudamurutti's bank, the visitor finds both the grace of a Tevaram shrine and the quiet astonishment of its tenth-century stone."
+    "history": "ତଞ୍ଜାବୁର ନିକଟ କୁଡ଼ାମୁରୁଟ୍ଟି ତଟରେ ପଶୁପତିକୋଇଲରେ ଥିବା ପୁଲ୍ଲମଙ୍ଗାଇ ଏକ ପାଡାଲ ପେତ୍ର ସ୍ଥଳମ୍, ତେବାରମ୍‌ରେ ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ଗୀତ। ଏହାର ମନ୍ଦିର ପ୍ରାୟ ୧୦ମ ଶତାବ୍ଦୀର ପ୍ରସିଦ୍ଧ ପ୍ରାରମ୍ଭିକ ଚୋଳ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ; ଇତିହାସବିତ୍‌ମାନେ ଏହାର ଭାସ୍କର୍ଯ୍ୟକୁ ପ୍ରାରମ୍ଭିକ ଚୋଳ ଯୁଗର ସବୁଠାରୁ ଉଲ୍ଲେଖନୀୟ ମଧ୍ୟରେ ସ୍ଥାନ ଦିଅନ୍ତି। ସ୍ଥାନଟି ଥରେ ନଦୀ ତଟରେ ଏକ ବଟ ଜଙ୍ଗଲ ଥିଲା, ଏଥିରୁ ଆଲନ୍ତୁରାଇ ନାମ — 'ବଟ ଘାଟ'।",
+    "architecture": "ଉତ୍କୃଷ୍ଟ କାରିଗରୀର ଏକ ସଂକ୍ଷିପ୍ତ ପ୍ରାରମ୍ଭିକ ଚୋଳ ମନ୍ଦିର, ଗର୍ଭଗୃହରେ ଆଲନ୍ତୁରାଇନାଥର — ବ୍ରହ୍ମପୁରୀଶ୍ୱରର — ପ୍ରତିଷ୍ଠିତ, ନିଜସ୍ୱ ମନ୍ଦିରରେ ଦେବୀ ଅଲ୍ଲିୟଙ୍କୋଥାଇ, ଏକ ନନ୍ଦୀ ଓ ପରିବାର ଦେବତାମାନେ। ଏହାର ବିମାନ ସୂକ୍ଷ୍ମ ଖୋଦିତ କୋଠରୀ ଓ କ୍ଷୁଦ୍ର ମୂର୍ତ୍ତିରେ ଆବୃତ — ଦ୍ୱାରପାଳ, ଗଣେଶ, ଦୁର୍ଗା, ଦିକ୍ପାଳ ଓ କାହାଣୀ ଫଳକ — ଯାହାର ସୂକ୍ଷ୍ମତା ମନ୍ଦିରକୁ ପ୍ରାରମ୍ଭିକ ଚୋଳ କଳା ଅଧ୍ୟୟନର କଷଟି ପଥର କରିଛି।",
+    "legends": "ପ୍ରଭୁ ଆଲନ୍ତୁରାଇନାଥର, 'ବଟ ଘାଟର ପ୍ରଭୁ' ରୂପେ, ଏବଂ ବ୍ରହ୍ମପୁରୀଶ୍ୱରର, ବ୍ରହ୍ମାଙ୍କ ନଗରର ପ୍ରଭୁ ରୂପେ ପୂଜିତ, ପଶୁପତିନାଥ ରୂପେ ମଧ୍ୟ ପୂଜିତ। ଦେବୀ ଅଲ୍ଲିୟଙ୍କୋଥାଇ। ବଦ୍ୱୀପର ପ୍ରାରମ୍ଭିକ ଚୋଳ ମନ୍ଦିରମାନଙ୍କ ପରି, ସ୍ଥଳ ପରମ୍ପରା କୁଡ଼ାମୁରୁଟ୍ଟି ନଦୀ ଓ ସ୍ଥାନକୁ ନାମ ଦେଇଥିବା ବଟ ଜଙ୍ଗଲ ସହ ଜଡ଼ିତ; ସମ୍ବନ୍ଧରଙ୍କ ଛନ୍ଦ ଏହାର ପ୍ରଶଂସା ବହନ କରେ।",
+    "festivals": "ମନ୍ଦିରରେ ମାସି (ଫେବୃଆରୀ–ମାର୍ଚ୍ଚ) ମାସରେ ମହାଶିବରାତ୍ରି, ପୁରଟ୍ଟାସି (ସେପ୍ଟେମ୍ବର–ଅକ୍ଟୋବର) ମାସରେ ନବରାତ୍ରି ଏବଂ କାର୍ତ୍ତିକାଇର ସୋମବାର ଦିନମାନଙ୍କରେ ପ୍ରଦୋଷ ପୂଜା ସହ ପାଳନ କରାଯାଏ। ପ୍ରାରମ୍ଭିକ ଚୋଳ ପଥର ପଣ୍ଡିତ ଓ ତୀର୍ଥଯାତ୍ରୀମାନେ ଦର୍ଶନ ଓ ଏହାର ପ୍ରସିଦ୍ଧ ଭାସ୍କର୍ଯ୍ୟ ଉଭୟ ପାଇଁ ପୁଲ୍ଲମଙ୍ଗାଇକୁ ଆସନ୍ତି।",
+    "experience": "ପୁଲ୍ଲମଙ୍ଗାଇରେ ତୀର୍ଥଯାତ୍ରୀ ପ୍ରାରମ୍ଭିକ ଚୋଳ ନିର୍ମାଣର ଗୋଟିଏ ରତ୍ନର ସମ୍ମୁଖରେ ଠିଆ ହୁଅନ୍ତି। ଆଲନ୍ତୁରାଇନାଥର ଓ ଅଲ୍ଲିୟଙ୍କୋଥାଇଙ୍କ ସମ୍ମୁଖରେ, ବିମାନର ସୂକ୍ଷ୍ମ ଖୋଦିତ କୋଠରୀ ମଧ୍ୟରେ, କୁଡ଼ାମୁରୁଟ୍ଟି ତଟରେ, ଦର୍ଶକ ଏକ ତେବାରମ୍ ମନ୍ଦିରର ଅନୁଗ୍ରହ ଏବଂ ଏହାର ଦଶମ ଶତାବ୍ଦୀର ପଥରର ନୀରବ ବିସ୍ମୟ ଉଭୟ ପାଆନ୍ତି।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Pullamangai (Pasupathikoil) lies on the Kudamurutti near Thanjavur, in Thanjavur district, a short way off the Thanjavur–Kumbakonam road. Thanjavur is the nearest city and rail head, with buses and taxis to the village."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳରୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷତଃ ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସ୍ଥାନୀୟ ଭାବେ ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଦାସିଧା ପାରମ୍ପରିକ ପୋଷାକ ଆବଶ୍ୟକ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି ହୋଇଥିବା ଉଚିତ; ଜୋତା ପ୍ରବେଶ ଦ୍ୱାରରେ ରଖାଯାଏ।",
+    "photography": "ବାହ୍ୟ ପ୍ରାଙ୍ଗଣରେ ଫଟୋ ଉଠାଇବା ସାଧାରଣତଃ ଅନୁମତିପ୍ରାପ୍ତ କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ଅନୁଷ୍ଠାନର ଫଟୋ ନେବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ପୁଲ୍ଲମଙ୍ଗାଇ (ପଶୁପତିକୋଇଲ) ତଞ୍ଜାବୁର ଜିଲ୍ଲାରେ ତଞ୍ଜାବୁର ନିକଟ କୁଡ଼ାମୁରୁଟ୍ଟି ତଟରେ, ତଞ୍ଜାବୁର–କୁମ୍ବକୋଣମ୍ ସଡ଼କରୁ ଅଳ୍ପ ଦୂରରେ ଅବସ୍ଥିତ। ତଞ୍ଜାବୁର ନିକଟତମ ସହର ଓ ରେଳ ଷ୍ଟେସନ, ଗ୍ରାମକୁ ବସ୍ ଓ ଟ୍ୟାକ୍ସି ଉପଲବ୍ଧ।"
   }
 }

@@ -1,29 +1,36 @@
 {
   "id": "masilamaniswarar-tiruvaduthurai",
   "locale": "or",
+  "name": "ମାସିଲାମଣୀଶ୍ୱର ମନ୍ଦିର, ତିରୁବାବଡୁତୁରୈ",
   "nativeName": "திருவாவடுதுறை மாசிலாமணீஸ்வரர் கோயில்",
+  "deity": "ମାସିଲାମଣୀଶ୍ୱର (ଗୋମୁକ୍ତୀଶ୍ୱର) ରୂପେ ଶିବ, ଦେବୀ ଓପ୍ପିଳାମୁଲୈୟମ୍ମାଇଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଦଲ୍ ପେଟ୍ର ସ୍ଥଳମ୍, ତେବାରମରେ ଗୀତ",
   "location": {
-    "city": "Thiruvaduthurai, near Kuthalam",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁବାବଡୁତୁରୈ, କୁତ୍ତାଳମ୍ ନିକଟରେ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 11.0197,
     "lng": 79.5236
   },
+  "period": "ତେବାରମ ଯୁଗ, ଚୋଳ ଯୁଗର ସ୍ଥାପତ୍ୟ ସହିତ",
   "century": 9,
+  "dynasty": "ଚୋଳ (ପ୍ରଥମ ପରାନ୍ତକ ଓ ପରବର୍ତ୍ତୀ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "କୁତ୍ତାଳମ୍ ନିକଟରେ କାବେରୀ ତଟରେ ଥିବା ତିରୁବାବଡୁତୁରୈ ଶିବଙ୍କୁ ମାସିଲାମଣୀଶ୍ୱର — 'ନିଷ୍କଳଙ୍କ ମଣି' — ରୂପେ ସମ୍ମାନିତ କରେ, ଯାହାଙ୍କୁ ଗୋମୁକ୍ତୀଶ୍ୱର ମଧ୍ୟ କୁହାଯାଏ, ଅର୍ଥାତ୍ ଯେଉଁ ପ୍ରଭୁ ଗୋଟିଏ ଗାଈକୁ ମୁକ୍ତି ଦେଇଥିଲେ। ଅପ୍ପର, ସମ୍ବନ୍ଦର ଓ ସୁନ୍ଦରରଙ୍କ ଦ୍ୱାରା ଗୀତ ଏହି ପାଦଲ୍ ପେଟ୍ର ସ୍ଥଳମ୍ ତାମିଲ ଦେଶର ମହାନ ଶୈବ ମଠ ସଂସ୍ଥା ତିରୁବାବଡୁତୁରୈ ଆଧୀନମ୍‌ର ପୀଠ ଭାବରେ ଏବଂ ସିଦ୍ଧ ଋଷି ତିରୁମୂଲରଙ୍କ ସହିତ ସମ୍ପର୍କିତ ସ୍ଥାନ ଭାବରେ ସମାନ ଭାବେ ଖ୍ୟାତ। ମନ୍ଦିର, ମଠ ଓ ଜୀବନ୍ତ ଶୈବ ବିଦ୍ୟା ଏଠାରେ ଗୋଟିଏ ପବିତ୍ର ଭୂମିରେ ମିଳିତ ହୁଏ।",
   "sections": {
-    "history": "Thiruvaduthurai is an old Shaiva centre on the Kaveri, counted among the Paadal Petra Sthalams and praised by all three principal Tevaram saints — Appar, Sambandar and Sundarar. The stone temple carries Chola-period workmanship with inscriptions from the reign of Parantaka I and later rulers recording gifts and endowments. From the sixteenth century the site gained a second life as the headquarters of the Thiruvaduthurai Adheenam, a Shaiva mutt that became a major patron of Tamil Saiva Siddhanta scholarship, music and publishing.",
-    "architecture": "The temple is laid out on the classical Dravidian plan, with a gopuram, broad prakara corridors and a well-proportioned Chola sanctum housing the lingam of Masilamaniswarar. The goddess Oppilamulaiyammai has her own shrine. Chola stonework and later additions sit side by side, and the adjoining Adheenam complex gives the whole site the scale and quiet discipline of a living monastic town rather than a single shrine.",
-    "legends": "The name Gomukteeswarar comes from the tradition that a cow worshipped Shiva here and was granted liberation, mukti — a motif of the animal devotee that recurs across the Tevaram land. The place is also strongly associated with Tirumular, the Siddha author of the Tirumantiram, whose connection to this stretch of the Kaveri is held in deep reverence. The three Tevaram saints each sang of the lord here, weaving the temple into the great anthology of Tamil Shaiva hymnody.",
-    "festivals": "The temple keeps the standard Shaiva festival calendar — Maha Shivaratri, the Tamil month of Margazhi, Pradosham and the annual Brahmotsavam — while the presence of the Adheenam adds observances tied to the mutt's own lineage of pontiffs. The guru-worship days and the anniversaries of past Adheenam heads bring scholars, musicians and devotees together in numbers.",
-    "experience": "Visiting Thiruvaduthurai is as much an encounter with a living institution as with an ancient temple. Alongside darshan at the sanctum, pilgrims sense the unbroken thread of Tamil Shaiva learning that the Adheenam has carried for centuries. The riverside setting, the Chola stone and the murmur of recitation give the place a grave, scholarly calm."
+    "history": "ତିରୁବାବଡୁତୁରୈ କାବେରୀ ତଟରେ ଏକ ପ୍ରାଚୀନ ଶୈବ କେନ୍ଦ୍ର, ପାଦଲ୍ ପେଟ୍ର ସ୍ଥଳମ୍‌ମାନଙ୍କ ମଧ୍ୟରେ ଗଣିତ ଏବଂ ତିନି ପ୍ରଧାନ ତେବାରମ ସନ୍ଥ — ଅପ୍ପର, ସମ୍ବନ୍ଦର ଓ ସୁନ୍ଦରର — ସମସ୍ତଙ୍କ ଦ୍ୱାରା ପ୍ରଶଂସିତ। ପ୍ରସ୍ତର ମନ୍ଦିରରେ ଚୋଳ ଯୁଗର କାରିଗରୀ ଅଛି, ଏବଂ ପ୍ରଥମ ପରାନ୍ତକ ଓ ପରବର୍ତ୍ତୀ ଶାସକଙ୍କ ଶାସନକାଳର ଶିଳାଲେଖରେ ଦାନ ଓ ଅନୁଦାନର ବିବରଣୀ ଲିପିବଦ୍ଧ। ଷୋଡ଼ଶ ଶତାବ୍ଦୀରୁ ଏହି ସ୍ଥାନ ତିରୁବାବଡୁତୁରୈ ଆଧୀନମ୍‌ର ମୁଖ୍ୟାଳୟ ଭାବେ ଦ୍ୱିତୀୟ ଜୀବନ ପାଇଲା; ଏହି ଶୈବ ମଠ ତାମିଲ ଶୈବ ସିଦ୍ଧାନ୍ତ ବିଦ୍ୟା, ସଙ୍ଗୀତ ଓ ପ୍ରକାଶନର ଏକ ପ୍ରମୁଖ ପୃଷ୍ଠପୋଷକ ହୋଇଉଠିଲା।",
+    "architecture": "ମନ୍ଦିରଟି ପାରମ୍ପରିକ ଦ୍ରାବିଡ଼ ଯୋଜନାରେ ନିର୍ମିତ, ଏଥିରେ ଗୋପୁରମ୍, ଚଉଡ଼ା ପ୍ରାକାର ଗଳିପଥ ଓ ମାସିଲାମଣୀଶ୍ୱରଙ୍କ ଲିଙ୍ଗ ଧାରଣ କରିଥିବା ସୁଅନୁପାତ ଚୋଳ ଗର୍ଭଗୃହ ଅଛି। ଦେବୀ ଓପ୍ପିଳାମୁଲୈୟମ୍ମାଇଙ୍କର ନିଜସ୍ୱ ମନ୍ଦିର ଅଛି। ଚୋଳ ପ୍ରସ୍ତର କାର୍ଯ୍ୟ ଓ ପରବର୍ତ୍ତୀ ଯୋଗ ପାଖାପାଖି ଅଛି, ଏବଂ ଲାଗିଥିବା ଆଧୀନମ୍ ପରିସର ସମଗ୍ର ସ୍ଥାନକୁ ଗୋଟିଏ ମନ୍ଦିର ପରିବର୍ତ୍ତେ ଏକ ଜୀବନ୍ତ ମଠ-ନଗରୀର ଆକାର ଓ ଶାନ୍ତ ଅନୁଶାସନ ଦିଏ।",
+    "legends": "ଗୋମୁକ୍ତୀଶ୍ୱର ନାମ ଏହି ପରମ୍ପରାରୁ ଆସିଛି ଯେ ଏଠାରେ ଗୋଟିଏ ଗାଈ ଶିବଙ୍କ ପୂଜା କରି ମୁକ୍ତି ପାଇଥିଲା — ପଶୁ ଭକ୍ତର ଏହି ଭାବନା ତେବାରମ ଭୂମିରେ ବାରମ୍ବାର ଦେଖାଯାଏ। ଏହି ସ୍ଥାନ ମଧ୍ୟ ତିରୁମନ୍ତିରମ୍‌ର ସିଦ୍ଧ ରଚୟିତା ତିରୁମୂଲରଙ୍କ ସହ ଦୃଢ଼ଭାବେ ଜଡ଼ିତ, କାବେରୀର ଏହି ଅଂଶ ସହ ତାଙ୍କର ସମ୍ପର୍କକୁ ଗଭୀର ଶ୍ରଦ୍ଧାରେ ଦେଖାଯାଏ। ତିନି ତେବାରମ ସନ୍ଥ ପ୍ରତ୍ୟେକେ ଏଠାରେ ପ୍ରଭୁଙ୍କ ସ୍ତୁତି ଗାଇ ମନ୍ଦିରକୁ ତାମିଲ ଶୈବ ସ୍ତୋତ୍ରର ମହାନ ସଙ୍କଳନ ସହିତ ବୁଣିଛନ୍ତି।",
+    "festivals": "ମନ୍ଦିର ମାନକ ଶୈବ ଉତ୍ସବ ପଞ୍ଜିକା ପାଳନ କରେ — ମହାଶିବରାତ୍ରି, ତାମିଲ ମାସ ମାର୍ଗଳି, ପ୍ରଦୋଷମ୍ ଓ ବାର୍ଷିକ ବ୍ରହ୍ମୋତ୍ସବମ୍ — ଯେତେବେଳେ ଆଧୀନମ୍‌ର ଉପସ୍ଥିତି ମଠର ନିଜସ୍ୱ ପୀଠାଧୀଶ୍ୱର ପରମ୍ପରା ସହିତ ଜଡ଼ିତ ଅନୁଷ୍ଠାନ ଯୋଗ କରେ। ଗୁରୁ ପୂଜା ଦିବସ ଓ ଅତୀତ ଆଧୀନମ୍ ପ୍ରମୁଖଙ୍କ ବାର୍ଷିକୀରେ ପଣ୍ଡିତ, ସଙ୍ଗୀତଜ୍ଞ ଓ ଭକ୍ତମାନେ ବହୁ ସଂଖ୍ୟାରେ ଏକତ୍ରିତ ହୁଅନ୍ତି।",
+    "experience": "ତିରୁବାବଡୁତୁରୈକୁ ଯାତ୍ରା ଏକ ପ୍ରାଚୀନ ମନ୍ଦିର ସହିତ ଏକ ଜୀବନ୍ତ ସଂସ୍ଥା ସହିତ ମଧ୍ୟ ସମାନ ଭେଟ। ଗର୍ଭଗୃହରେ ଦର୍ଶନ ସହିତ ତୀର୍ଥଯାତ୍ରୀମାନେ ଆଧୀନମ୍ ଶତାବ୍ଦୀ ଶତାବ୍ଦୀ ଧରି ବହନ କରିଆସିଥିବା ତାମିଲ ଶୈବ ବିଦ୍ୟାର ଅଟୁଟ ସୂତ୍ର ଅନୁଭବ କରନ୍ତି। ନଦୀତଟର ପରିବେଶ, ଚୋଳ ପ୍ରସ୍ତର ଓ ପାଠର ମୃଦୁ ଧ୍ୱନି ଏହି ସ୍ଥାନକୁ ଏକ ଗମ୍ଭୀର, ବିଦ୍ୱାନ ଶାନ୍ତି ଦିଏ।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thiruvaduthurai is near Kuthalam in Mayiladuthurai district, about 20 km from both Kumbakonam and Mayiladuthurai; those towns are the nearest rail heads, with frequent buses and taxis passing the temple and Adheenam."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳରୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷତଃ ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି ହୋଇଥିବା ଉଚିତ; ଜୋତା ପ୍ରବେଶଦ୍ୱାରରେ ଛାଡ଼ିବାକୁ ହୁଏ।",
+    "photography": "ବାହ୍ୟ ଗଳିପଥରେ ଫଟୋ ତୋଳିବା ସାଧାରଣତଃ ଅନୁମତିପ୍ରାପ୍ତ, ମାତ୍ର ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ପୂଜାବିଧିର ଫଟୋ ତୋଳିବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ତିରୁବାବଡୁତୁରୈ ମୟିଳାଦୁତୁରୈ ଜିଲ୍ଲାର କୁତ୍ତାଳମ୍ ନିକଟରେ, କୁମ୍ବକୋଣମ୍ ଓ ମୟିଳାଦୁତୁରୈ ଉଭୟଙ୍କଠାରୁ ପ୍ରାୟ ୨୦ କିମି ଦୂରରେ; ସେହି ସହରଗୁଡ଼ିକ ନିକଟତମ ରେଳ ସ୍ଟେସନ୍, ମନ୍ଦିର ଓ ଆଧୀନମ୍ ପାଖ ଦେଇ ବାରମ୍ବାର ବସ୍ ଓ ଟ୍ୟାକ୍ସି ଚଳାଚଳ କରେ।"
   }
 }

@@ -1,28 +1,35 @@
 {
   "id": "melukote-cheluvanarayana",
   "locale": "or",
+  "name": "ଚେଲୁବନାରାୟଣ ସ୍ୱାମୀ ମନ୍ଦିର, ମେଲୁକୋଟେ",
   "nativeName": "ಚೆಲುವನಾರಾಯಣ ಸ್ವಾಮಿ ದೇವಸ್ಥಾನ, ಮೇಲುಕೋಟೆ",
+  "deity": "ଚେଲୁବନାରାୟଣ (ତିରୁନାରାୟଣ) ରୂପେ ବିଷ୍ଣୁ, ପାହାଡ଼ ଶିଖରରେ ଯୋଗ ନୃସିଂହଙ୍କ ମନ୍ଦିର ସହ",
+  "tradition": "ବୈଷ୍ଣବ ପରମ୍ପରା (ଶ୍ରୀ ବୈଷ୍ଣବ)",
   "location": {
-    "city": "Melukote",
-    "state": "Karnataka",
+    "city": "ମେଲୁକୋଟେ",
+    "state": "କର୍ଣ୍ଣାଟକ",
     "lat": 12.662,
     "lng": 76.649
   },
+  "period": "ଯାଦୁଗିରିର ପବିତ୍ର ପାହାଡ଼, ରାମାନୁଜଙ୍କ ଶ୍ରୀ ବୈଷ୍ଣବ ପୁନରୁତ୍ଥାନର କେନ୍ଦ୍ର, ବୈରମୁଡ଼ି ମୁକୁଟ ପାଇଁ ପ୍ରସିଦ୍ଧ",
   "century": 12,
+  "dynasty": "ହୋୟସଳ, ବିଜୟନଗର ଓ ୱଡ଼ିଯାର ପୃଷ୍ଠପୋଷକତା",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [],
+  "summary": "ଯାଦୁଗିରି ପାହାଡ଼ରେ ବିଷ୍ଣୁ ଚେଲୁବନାରାୟଣ ରୂପେ ପୂଜିତ, ରାମାନୁଜଙ୍କ ଦ୍ୱାରା ମହାନ ହୋଇଥିବା ମନ୍ଦିରରେ, ଯେ ଏଠାରେ ବର୍ଷ ବର୍ଷ ରହିଥିଲେ; ବର୍ଷକୁ ଥରେ ଦେବତା ହୀରାର ବୈରମୁଡ଼ି ପିନ୍ଧନ୍ତି, ଯେଉଁ ମୁକୁଟ ପିନ୍ଧାଯିବା କୌଣସି ଆଖି ଦେଖିପାରେ ନାହିଁ।",
   "sections": {
-    "history": "Melukote crowns the rocky hill of Yadugiri in the Mandya country of Karnataka. The temple of Cheluvanarayana rose to fame through Ramanuja, the great Sri Vaishnava teacher, who lived here for some years and organised its worship; on the hilltop above stands the older shrine of Yoga Narasimha.",
-    "architecture": "The town is built up the terraced hill in the Dravidian manner, its temple tanks and stepped ponds famous, the Cheluvanarayana shrine below and the Narasimha temple crowning the summit. The setting of rock, water, and sky is inseparable from the pilgrimage.",
-    "legends": "The image of Cheluvanarayana, called Ramapriya, is said to have been worshipped by Rama and then by Krishna, lost, and recovered by Ramanuja through a vision. The Vairamudi, a crown of diamonds held to be of divine origin, is placed on the god only in darkness, unseen — its keeping the temple's deepest secret.",
-    "festivals": "The Vairamudi festival is the great occasion, when the diamond crown is brought under guard and set on the god, drawing vast crowds up the hill. Through the year Melukote keeps the Sri Vaishnava calendar in the tradition Ramanuja shaped.",
-    "experience": "Melukote is a place of steep steps, temple ponds, and long views over the plain — a pilgrimage bound to the memory of Ramanuja, most intense on the night the unseen diamond crown is worn."
+    "history": "ମେଲୁକୋଟେ କର୍ଣ୍ଣାଟକର ମଣ୍ଡ୍ୟ ଅଞ୍ଚଳରେ ଯାଦୁଗିରିର ପଥୁରିଆ ପାହାଡ଼ ଉପରେ ମୁକୁଟ ପରି ବିରାଜମାନ। ଚେଲୁବନାରାୟଣଙ୍କ ମନ୍ଦିର ମହାନ ଶ୍ରୀ ବୈଷ୍ଣବ ଆଚାର୍ଯ୍ୟ ରାମାନୁଜଙ୍କ ଦ୍ୱାରା ପ୍ରସିଦ୍ଧ ହେଲା, ଯେ ଏଠାରେ କିଛି ବର୍ଷ ରହି ଏହାର ଉପାସନା ସଂଗଠିତ କରିଥିଲେ; ପାହାଡ଼ ଶିଖରରେ ଯୋଗ ନୃସିଂହଙ୍କ ପ୍ରାଚୀନତର ମନ୍ଦିର ଅଛି।",
+    "architecture": "ସହରଟି ଦ୍ରାବିଡ଼ ଢଙ୍ଗରେ ସୋପାନାକାର ପାହାଡ଼ ଉପରକୁ ନିର୍ମିତ, ଏହାର ମନ୍ଦିର ପୁଷ୍କରିଣୀ ଓ ସିଡ଼ିଯୁକ୍ତ ପୋଖରୀ ପ୍ରସିଦ୍ଧ, ତଳେ ଚେଲୁବନାରାୟଣ ମନ୍ଦିର ଓ ଶିଖରରେ ନୃସିଂହ ମନ୍ଦିର। ପଥର, ଜଳ ଓ ଆକାଶର ଏହି ପରିବେଶ ତୀର୍ଥଯାତ୍ରାଠାରୁ ଅବିଚ୍ଛେଦ୍ୟ।",
+    "legends": "ଚେଲୁବନାରାୟଣଙ୍କ ମୂର୍ତ୍ତି, ଯାହାକୁ ରାମପ୍ରିୟ କୁହାଯାଏ, ପ୍ରଥମେ ରାମ ଓ ପରେ କୃଷ୍ଣଙ୍କ ଦ୍ୱାରା ପୂଜିତ ହୋଇଥିଲା, ପରେ ହଜିଗଲା, ଏବଂ ଦର୍ଶନ ଦ୍ୱାରା ରାମାନୁଜଙ୍କ ଦ୍ୱାରା ପୁନଃପ୍ରାପ୍ତ ହେଲା ବୋଲି କୁହାଯାଏ। ବୈରମୁଡ଼ି, ଦିବ୍ୟ ଉତ୍ପତ୍ତିର ବୋଲି ବିବେଚିତ ହୀରାର ମୁକୁଟ, କେବଳ ଅନ୍ଧକାରରେ, ଅଦୃଶ୍ୟ ଭାବେ ଦେବତାଙ୍କୁ ପିନ୍ଧାଯାଏ — ଏହାର ସୁରକ୍ଷା ମନ୍ଦିରର ଗଭୀରତମ ରହସ୍ୟ।",
+    "festivals": "ବୈରମୁଡ଼ି ଉତ୍ସବ ମହାନ ଅବସର, ଯେତେବେଳେ ହୀରା ମୁକୁଟକୁ ପହରା ତଳେ ଆଣି ଦେବତାଙ୍କୁ ପିନ୍ଧାଯାଏ, ପାହାଡ଼ ଉପରକୁ ବିପୁଳ ଭିଡ଼ ଆକର୍ଷଣ କରି। ବର୍ଷ ସାରା ମେଲୁକୋଟେ ରାମାନୁଜଙ୍କ ଗଢ଼ିଥିବା ପରମ୍ପରାରେ ଶ୍ରୀ ବୈଷ୍ଣବ ପଞ୍ଜିକା ପାଳନ କରେ।",
+    "experience": "ମେଲୁକୋଟେ ଖଡ଼ା ସିଡ଼ି, ମନ୍ଦିର ପୋଖରୀ ଓ ସମତଳ ଭୂମି ଉପରେ ଦୂରଦୃଷ୍ଟିର ସ୍ଥାନ — ରାମାନୁଜଙ୍କ ସ୍ମୃତି ସହ ବନ୍ଧା ଏକ ତୀର୍ଥଯାତ୍ରା, ଯାହା ଅଦୃଶ୍ୟ ହୀରା ମୁକୁଟ ପିନ୍ଧାଯାଉଥିବା ରାତ୍ରିରେ ସବୁଠାରୁ ତୀବ୍ର ହୁଏ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening worship and a midday break; the Vairamudi festival is by far the busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Melukote lies in Mandya district of Karnataka, reached by road from Mysuru and Bengaluru, the nearest railhead being Mandya."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ପୂଜା ଏବଂ ମଧ୍ୟାହ୍ନ ବିରତି ସହ ଖୋଲା; ବୈରମୁଡ଼ି ଉତ୍ସବ ସବୁଠାରୁ ଅଧିକ ଭିଡ଼ର ସମୟ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସଭ୍ୟ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢଙ୍କା; ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲନ୍ତୁ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ସୀମିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ମେଲୁକୋଟେ କର୍ଣ୍ଣାଟକର ମଣ୍ଡ୍ୟ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ, ମୈସୁରୁ ଓ ବେଙ୍ଗାଲୁରୁରୁ ସଡ଼କ ପଥରେ ପହଞ୍ଚିହୁଏ, ନିକଟତମ ରେଳ ଷ୍ଟେସନ ମଣ୍ଡ୍ୟ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/melukote-cheluvanarayana.jpg",

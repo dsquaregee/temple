@@ -1,30 +1,37 @@
 {
   "id": "amararama-amaravati",
   "locale": "or",
+  "name": "ଅମରାରାମ (ଅମରେଶ୍ୱର ମନ୍ଦିର)",
   "nativeName": "అమరారామం",
+  "deity": "ମୁଖ୍ୟ ଦେବତା ଅମରେଶ୍ୱର ସ୍ୱାମୀ, ଏକ ଅସାଧାରଣ ଉଚ୍ଚ ଧଳା ଲିଙ୍ଗ ରୂପେ ପ୍ରତିଷ୍ଠିତ ଶିବଙ୍କ ଏକ ରୂପ। ଏଠାରେ ତାଙ୍କ ଅର୍ଦ୍ଧାଙ୍ଗିନୀ ମନ୍ଦିରର ମାତୃ ଦେବୀ ବାଳା ଚାମୁଣ୍ଡିକା ରୂପେ ପୂଜିତା।",
+  "tradition": "ଶୈବ",
   "location": {
-    "city": "Amaravati, Guntur district",
-    "state": "Andhra Pradesh",
+    "city": "ଅମରାବତୀ, ଗୁଣ୍ଟୁର ଜିଲ୍ଲା",
+    "state": "ଆନ୍ଧ୍ର ପ୍ରଦେଶ",
     "lat": 16.5717,
     "lng": 80.3583
   },
+  "period": "ଖ୍ରୀଷ୍ଟୀୟ ୧୧ଶ ଶତାବ୍ଦୀ (ପୂର୍ବତନ ପ୍ରାଚୀନତା ଓ ପରବର୍ତ୍ତୀ ସଂସ୍କାର ସହ)",
   "century": 11,
+  "dynasty": "ପ୍ରାଚୀନ ସାତବାହନ ସମ୍ବନ୍ଧ; ମଧ୍ୟଯୁଗୀୟ କୋଟା ସର୍ଦ୍ଦାର; ପରେ ବାସିରେଡ୍ଡି ବେଙ୍କଟାଦ୍ରି ନାୟୁଡୁଙ୍କ ପୃଷ୍ଠପୋଷକତା",
+  "style": "ଦ୍ରାବିଡ଼ (ଦକ୍ଷିଣ ଭାରତୀୟ) ମନ୍ଦିର ସ୍ଥାପତ୍ୟ",
   "unesco": false,
   "circuits": [
     "pancharama-kshetras"
   ],
+  "summary": "ଅମରାବତୀର ଅମରାରାମ ଉପକୂଳ ଆନ୍ଧ୍ର ପ୍ରଦେଶର ପାଞ୍ଚ ପଞ୍ଚାରାମ କ୍ଷେତ୍ରମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ, ଯେଉଁଠି ଶିବ ଅମରେଶ୍ୱର ସ୍ୱାମୀ ରୂପେ ଏକ ଉଚ୍ଚ ଧଳା ଲିଙ୍ଗ ରୂପରେ ସମ୍ମାନିତ। ପ୍ରାଚୀନ ବୌଦ୍ଧ ଓ ସାତବାହନ ଇତିହାସର ସ୍ତରରେ ଭରା ନଗରର କୃଷ୍ଣା ନଦୀର ଦକ୍ଷିଣ ତଟରେ ଅବସ୍ଥିତ, ମନ୍ଦିରଟି ପାଞ୍ଚୋଟି ସ୍ଥାନରେ ସମାନ ପଞ୍ଚାରାମ କିମ୍ବଦନ୍ତୀକୁ ଅନୁସରଣ କରୁଥିବା ତୀର୍ଥଯାତ୍ରୀମାନଙ୍କୁ ଆକର୍ଷିତ କରେ।",
   "sections": {
-    "history": "Amaravati carries a depth of history that few temple towns can match. It was a capital of the ancient Satavahana rulers and a celebrated early Buddhist centre, remembered for the great Amaravati Stupa whose carved railings are studied to this day. Tradition holds that the Amareswara lingam was installed and worshipped by Indra, lord of the devas, from whom the town takes its name as an earthly Amaravati. Over the centuries medieval patrons, among them local Kota chiefs, added to the shrine. The most far-reaching renovations are associated with Vasireddy Venkatadri Nayudu, the local ruler of the late eighteenth and early nineteenth centuries, whose patronage gave the temple much of its present form.",
-    "architecture": "The temple follows the South Indian idiom, entered through a tall gopuram and opening onto pillared halls that lead to the sanctum. Its most distinctive feature is the lingam itself, which rises to a striking height through more than one storey of the shrine. Because of this, priests perform worship at the upper portion of the lingam from a raised platform reached by an inner stair, an arrangement rarely seen elsewhere. Stone corridors, subsidiary shrines and mandapas surround the central sanctum, and the separate shrine of the goddess Bala Chamundika stands within the same complex. Later additions reflect the layered patronage the temple received, blending medieval fabric with the extensive rebuilding of more recent centuries.",
-    "legends": "The Pancharama Kshetras share a single origin story. According to tradition a mighty lingam once belonged to the demon Tarakasura, who could not be defeated while he wore it. In the war led by Kumara Swamy, the son of Shiva also known as Kartikeya, the lingam was broken into five pieces that fell to earth and were enshrined at five sites, of which Amararama is one. At Amaravati the lingam is further linked to Indra and the devas, who are said to have worshipped here, giving the town its name as the city of the immortals. The tall white form of Amareswara is understood as one of these five sacred fragments.",
-    "festivals": "Maha Shivaratri is the temple's foremost festival, when devotees keep the night-long vigil and worship of Shiva. Equally important is the Kalyanotsavam, the ceremonial wedding of Amareswara Swamy and Bala Chamundika, celebrated with processions and ritual splendour. The month of Karthika, sacred to Shiva, brings large gatherings for lamp offerings and special worship on its holy days. Through these seasons the riverside town fills with pilgrims, and the temple observes its round of daily and periodic rituals with particular care.",
-    "experience": "A visit to Amararama joins the sacred and the historical in a single walk. The temple stands on the south bank of the Krishna, and many pilgrims pause at the river before entering. Within, the eye is drawn upward to the great lingam and to the stair by which worship reaches its upper part. The pace is unhurried and devotional rather than crowded, except on festival days. Nearby lie the remains of the ancient stupa and the museum that shelters Amaravati's Buddhist sculpture, so that a single journey can move between the living Shaiva shrine and one of India's oldest layers of built faith."
+    "history": "ଅମରାବତୀ ଏପରି ଇତିହାସର ଗଭୀରତା ବହନ କରେ ଯାହା ଅଳ୍ପ ମନ୍ଦିର ନଗର ସହ ସମାନ ହୋଇପାରେ। ଏହା ପ୍ରାଚୀନ ସାତବାହନ ଶାସକମାନଙ୍କର ରାଜଧାନୀ ଏବଂ ଏକ ପ୍ରସିଦ୍ଧ ପ୍ରାରମ୍ଭିକ ବୌଦ୍ଧ କେନ୍ଦ୍ର ଥିଲା, ମହାନ ଅମରାବତୀ ସ୍ତୂପ ପାଇଁ ସ୍ମରଣୀୟ ଯାହାର ଖୋଦିତ ବାଡ଼ ଆଜି ପର୍ଯ୍ୟନ୍ତ ଅଧ୍ୟୟନ କରାଯାଏ। ପରମ୍ପରା ଅନୁସାରେ ଅମରେଶ୍ୱର ଲିଙ୍ଗ ଦେବତାମାନଙ୍କ ପ୍ରଭୁ ଇନ୍ଦ୍ରଙ୍କ ଦ୍ୱାରା ସ୍ଥାପିତ ଓ ପୂଜିତ ହୋଇଥିଲା, ଯାହାଙ୍କଠାରୁ ନଗର ପୃଥିବୀର ଅମରାବତୀ ରୂପେ ନାମ ପାଇଛି। ଶତାବ୍ଦୀ ଧରି ମଧ୍ୟଯୁଗୀୟ ପୃଷ୍ଠପୋଷକମାନେ, ସ୍ଥାନୀୟ କୋଟା ସର୍ଦ୍ଦାରମାନେ ସମେତ, ମନ୍ଦିରରେ ଯୋଗ କଲେ। ସବୁଠାରୁ ବ୍ୟାପକ ସଂସ୍କାର ଅଷ୍ଟାଦଶ ଶତାବ୍ଦୀର ଶେଷ ଓ ଉନ୍ନବିଂଶ ଶତାବ୍ଦୀର ଆରମ୍ଭର ସ୍ଥାନୀୟ ଶାସକ ବାସିରେଡ୍ଡି ବେଙ୍କଟାଦ୍ରି ନାୟୁଡୁଙ୍କ ସହ ଜଡ଼ିତ, ଯାହାଙ୍କ ପୃଷ୍ଠପୋଷକତା ମନ୍ଦିରକୁ ଏହାର ବର୍ତ୍ତମାନର ଅଧିକାଂଶ ରୂପ ଦେଇଥିଲା।",
+    "architecture": "ମନ୍ଦିର ଦକ୍ଷିଣ ଭାରତୀୟ ଶୈଳୀ ଅନୁସରଣ କରେ, ଏକ ଉଚ୍ଚ ଗୋପୁର ଦେଇ ପ୍ରବେଶ ହୁଏ ଏବଂ ଗର୍ଭଗୃହକୁ ନେଉଥିବା ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପକୁ ଖୋଲେ। ଏହାର ସବୁଠାରୁ ବିଶିଷ୍ଟ ବୈଶିଷ୍ଟ୍ୟ ଲିଙ୍ଗ ନିଜେ, ଯାହା ମନ୍ଦିରର ଏକାଧିକ ତାଲା ଦେଇ ଏକ ଚମତ୍କାର ଉଚ୍ଚତାକୁ ଉଠେ। ଏହା ଯୋଗୁଁ ପୂଜକମାନେ ଭିତରର ସିଡ଼ି ଦେଇ ପହଞ୍ଚିବା ଏକ ଉଚ୍ଚ ମଞ୍ଚରୁ ଲିଙ୍ଗର ଉପର ଅଂଶରେ ପୂଜା କରନ୍ତି, ଏକ ବ୍ୟବସ୍ଥା ଯାହା ଅନ୍ୟତ୍ର କ୍ୱଚିତ୍ ଦେଖାଯାଏ। ପଥର ଦାଣ୍ଡ, ଉପମନ୍ଦିର ଓ ମଣ୍ଡପ କେନ୍ଦ୍ର ଗର୍ଭଗୃହକୁ ଘେରି ରହିଛି, ଏବଂ ଦେବୀ ବାଳା ଚାମୁଣ୍ଡିକାଙ୍କ ପୃଥକ ମନ୍ଦିର ସେହି ପରିସରରେ ଅବସ୍ଥିତ। ପରବର୍ତ୍ତୀ ସଂଯୋଜନ ମନ୍ଦିର ପାଇଥିବା ସ୍ତରୀୟ ପୃଷ୍ଠପୋଷକତାକୁ ପ୍ରତିଫଳିତ କରେ, ମଧ୍ୟଯୁଗୀୟ ଗଠନକୁ ଅଧିକ ସାମ୍ପ୍ରତିକ ଶତାବ୍ଦୀର ବ୍ୟାପକ ପୁନର୍ନିର୍ମାଣ ସହ ମିଶାଇ।",
+    "legends": "ପଞ୍ଚାରାମ କ୍ଷେତ୍ରମାନେ ଗୋଟିଏ ମୂଳ କାହାଣୀ ଅଂଶୀଦାର କରନ୍ତି। ପରମ୍ପରା ଅନୁସାରେ ଏକ ଶକ୍ତିଶାଳୀ ଲିଙ୍ଗ ଥରେ ଦାନବ ତାରକାସୁରଙ୍କର ଥିଲା, ଯାହା ପିନ୍ଧିଥିବା ପର୍ଯ୍ୟନ୍ତ ତାଙ୍କୁ ପରାସ୍ତ କରାଯାଇପାରୁନଥିଲା। ଶିବଙ୍କ ପୁତ୍ର କୁମାର ସ୍ୱାମୀ, କାର୍ତ୍ତିକେୟ ମଧ୍ୟ କୁହାଯାଏ, ଙ୍କ ନେତୃତ୍ୱରେ ଯୁଦ୍ଧରେ ଲିଙ୍ଗ ପାଞ୍ଚ ଖଣ୍ଡରେ ଭାଙ୍ଗିଗଲା ଯାହା ପୃଥିବୀରେ ପଡ଼ି ପାଞ୍ଚୋଟି ସ୍ଥାନରେ ପ୍ରତିଷ୍ଠିତ ହେଲା, ଯେଉଁଥିରୁ ଅମରାରାମ ଗୋଟିଏ। ଅମରାବତୀରେ ଲିଙ୍ଗ ଆହୁରି ଇନ୍ଦ୍ର ଓ ଦେବତାମାନଙ୍କ ସହ ଜଡ଼ିତ, ଯେଉଁମାନେ ଏଠାରେ ପୂଜା କରିଥିଲେ ବୋଲି କୁହାଯାଏ, ଯାହା ନଗରକୁ ଅମରମାନଙ୍କ ନଗର ନାମ ଦେଲା। ଅମରେଶ୍ୱରଙ୍କ ଉଚ୍ଚ ଧଳା ରୂପ ଏହି ପାଞ୍ଚ ପବିତ୍ର ଖଣ୍ଡ ମଧ୍ୟରୁ ଗୋଟିଏ ବୋଲି ବୁଝାଯାଏ।",
+    "festivals": "ମହାଶିବରାତ୍ରି ମନ୍ଦିରର ପ୍ରଧାନ ଉତ୍ସବ, ଯେତେବେଳେ ଭକ୍ତମାନେ ରାତିସାରା ଜାଗରଣ ଓ ଶିବ ପୂଜା କରନ୍ତି। ସମାନ ଭାବେ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ କଲ୍ୟାଣୋତ୍ସବମ୍, ଅମରେଶ୍ୱର ସ୍ୱାମୀ ଓ ବାଳା ଚାମୁଣ୍ଡିକାଙ୍କ ଆନୁଷ୍ଠାନିକ ବିବାହ, ଶୋଭାଯାତ୍ରା ଓ ଅନୁଷ୍ଠାନର ଜାକଜମକ ସହ ପାଳିତ। ଶିବଙ୍କ ପାଇଁ ପବିତ୍ର କାର୍ତ୍ତିକ ମାସ ଦୀପ ଅର୍ପଣ ଓ ଏହାର ପବିତ୍ର ଦିନମାନଙ୍କରେ ବିଶେଷ ପୂଜା ପାଇଁ ବଡ଼ ସମାବେଶ ଆଣେ। ଏହି ଋତୁଗୁଡ଼ିକରେ ନଦୀତଟର ନଗର ତୀର୍ଥଯାତ୍ରୀରେ ଭରିଯାଏ, ଏବଂ ମନ୍ଦିର ନିଜର ଦୈନିକ ଓ ସାମୟିକ ଅନୁଷ୍ଠାନ ବିଶେଷ ଯତ୍ନ ସହ ପାଳନ କରେ।",
+    "experience": "ଅମରାରାମ ଦର୍ଶନ ପବିତ୍ର ଓ ଐତିହାସିକକୁ ଗୋଟିଏ ଚାଲିରେ ଯୋଡ଼େ। ମନ୍ଦିର କୃଷ୍ଣାର ଦକ୍ଷିଣ ତଟରେ ଠିଆ ହୋଇଛି, ଏବଂ ଅନେକ ତୀର୍ଥଯାତ୍ରୀ ପ୍ରବେଶ ପୂର୍ବରୁ ନଦୀ ପାଖରେ ଅଟକନ୍ତି। ଭିତରେ ଆଖି ମହାନ ଲିଙ୍ଗ ଓ ଯେଉଁ ସିଡ଼ି ଦେଇ ପୂଜା ଏହାର ଉପର ଅଂଶରେ ପହଞ୍ଚେ ତାହା ଆଡ଼କୁ ଉପରକୁ ଟାଣିହୁଏ। ଗତି ଧୀର ଓ ଭକ୍ତିମୟ, ଉତ୍ସବ ଦିନମାନଙ୍କ ବ୍ୟତୀତ ଭିଡ଼ ନୁହେଁ। ନିକଟରେ ପ୍ରାଚୀନ ସ୍ତୂପର ଅବଶେଷ ଏବଂ ଅମରାବତୀର ବୌଦ୍ଧ ଭାସ୍କର୍ଯ୍ୟକୁ ଆଶ୍ରୟ ଦେଉଥିବା ସଂଗ୍ରହାଳୟ ଅଛି, ତେଣୁ ଗୋଟିଏ ଯାତ୍ରା ଜୀବନ୍ତ ଶୈବ ମନ୍ଦିର ଓ ଭାରତର ପ୍ରାଚୀନତମ ନିର୍ମିତ ବିଶ୍ୱାସ ସ୍ତରମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ ମଧ୍ୟରେ ଯାଇପାରେ।"
   },
   "visit": {
-    "timings": "The temple generally opens in the early morning and again in the evening, with a midday break; exact hours and special-day timings change, so verify locally before travelling.",
-    "dressCode": "Modest, traditional dress is expected. Many devotees remove footwear before entering and cover the shoulders and legs as a mark of respect.",
-    "photography": "Photography is often restricted inside the sanctum and around the deity; look for posted notices and follow the instructions of temple staff.",
-    "gettingThere": "Amaravati lies near Guntur and Vijayawada in coastal Andhra Pradesh. The nearest major railway junction and airport are at Vijayawada, with the airport at Gannavaram, from where road transport reaches the temple town."
+    "timings": "ମନ୍ଦିର ସାଧାରଣତଃ ଅତି ସକାଳେ ଏବଂ ପୁଣି ସନ୍ଧ୍ୟାରେ ଖୋଲେ, ମଧ୍ୟାହ୍ନରେ ବିରତି ସହ; ସଠିକ୍ ସମୟ ଓ ବିଶେଷ ଦିନର ସମୟ ବଦଳେ, ତେଣୁ ଯାତ୍ରା ପୂର୍ବରୁ ସ୍ଥାନୀୟ ଭାବେ ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "dressCode": "ସାଦାସିଧା, ପାରମ୍ପରିକ ପୋଷାକ ଆବଶ୍ୟକ। ଅନେକ ଭକ୍ତ ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲନ୍ତି ଏବଂ ସମ୍ମାନର ଚିହ୍ନ ରୂପେ କାନ୍ଧ ଓ ଗୋଡ଼ ଢାଙ୍କନ୍ତି।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଦେବତାଙ୍କ ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ପ୍ରାୟତଃ ସୀମିତ; ଲଗାଯାଇଥିବା ସୂଚନା ଦେଖନ୍ତୁ ଏବଂ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ଅମରାବତୀ ଉପକୂଳ ଆନ୍ଧ୍ର ପ୍ରଦେଶର ଗୁଣ୍ଟୁର ଓ ବିଜୟୱାଡ଼ା ନିକଟରେ ଅବସ୍ଥିତ। ନିକଟତମ ପ୍ରମୁଖ ରେଳ ଜଙ୍କସନ ଓ ବିମାନବନ୍ଦର ବିଜୟୱାଡ଼ାରେ, ଗନ୍ନାବରମ୍‌ରେ ବିମାନବନ୍ଦର ସହ, ସେଠାରୁ ସଡ଼କ ପରିବହନ ମନ୍ଦିର ନଗରକୁ ପହଞ୍ଚେ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/amararama-amaravati.jpg",

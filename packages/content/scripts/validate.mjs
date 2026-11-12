@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 
 const root = dirname(fileURLToPath(import.meta.url));
 const dataDir = join(root, '..', 'data');
-const LOCALES = ['en', 'ta', 'te', 'kn', 'ml', 'hi', 'bn', 'mr'];
+const LOCALES = ['en', 'ta', 'te', 'kn', 'ml', 'hi', 'bn', 'mr', 'or'];
 
 const errors = [];
 

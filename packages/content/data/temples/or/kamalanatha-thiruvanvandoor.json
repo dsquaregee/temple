@@ -1,31 +1,38 @@
 {
   "id": "kamalanatha-thiruvanvandoor",
   "locale": "or",
+  "name": "କମଳନାଥ ପେରୁମାଳ ମନ୍ଦିର, ତିରୁବନ୍‌ବଣ୍ଡୂର",
   "nativeName": "കമലനാഥ പെരുമാൾ ക്ഷേത്രം, തിരുവൻവണ്ടൂർ",
+  "deity": "ବିଷ୍ଣୁ କମଳନାଥନ୍ ରୂପେ, ସ୍ଥାନୀୟ ଭାବେ ପାମ୍ବନାୟପ୍ପନ୍ ନାମରେ ପରିଚିତ, ଦେବୀ କମଳବଲ୍ଲୀ ନାଚ୍ଚିୟାର୍ଙ୍କ ସହିତ",
+  "tradition": "ବୈଷ୍ଣବ ପରମ୍ପରା",
   "location": {
-    "city": "Thiruvanvandoor",
-    "state": "Kerala",
+    "city": "ତିରୁବନ୍‌ବଣ୍ଡୂର",
+    "state": "କେରଳ",
     "lat": 9.343,
     "lng": 76.58
   },
+  "period": "ମଳୟ ନାଡୁ (କେରଳ)ର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ନମ୍ମାଳ୍‌ୱାରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ",
   "century": 8,
+  "dynasty": "ପ୍ରାଚୀନ ମଳୟ ନାଡୁର ମନ୍ଦିର; ତ୍ରାବଣକୋର ଦେବସ୍ୱମ୍ ବୋର୍ଡ ଦ୍ୱାରା ପରିଚାଳିତ",
+  "style": "କେରଳ ମନ୍ଦିର ଶୈଳୀ",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "pancha-pandava-temples"
   ],
+  "summary": "ଚେଙ୍ଗନ୍ନୂର ନିକଟସ୍ଥ ତିରୁବନ୍‌ବଣ୍ଡୂରରେ ବିଷ୍ଣୁ କମଳନାଥନ୍ ରୂପେ ପୂଜିତ, ସ୍ଥାନୀୟ ଭାବେ ପାମ୍ବନାୟପ୍ପନ୍ ନାମରେ ଖ୍ୟାତ — ଏହା ନମ୍ମାଳ୍‌ୱାରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ ମଳୟ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍ ଏବଂ ପରମ୍ପରା ଅନୁସାରେ ପାଣ୍ଡବ ନକୁଳଙ୍କ ସହିତ ସମ୍ପୃକ୍ତ।",
   "sections": {
-    "history": "Thiruvanvandoor, in Alappuzha district near Chengannur, is home to a Divya Desam sung by Nammalvar, whose reference to the shrine is placed around 800 CE and is the earliest on record for the temple. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and belongs to Malai Nadu, the Kerala country. The presiding Lord is worshipped as Kamalanathan, and locally as Pambanaiyappan, a name linked with the river Pamba; the Goddess is Kamalavalli Nachiyar. A form of Krishna as Gosala Krishna is also worshipped here. Today the Travancore Devaswom Board administers the temple. Among the five Pandava-linked Vishnu temples of the Chengannur country, tradition assigns Thiruvanvandoor to Nakula.",
-    "architecture": "The temple is a Kerala shrine of the Chengannur country, and its sanctum houses Vishnu as Kamalanathan, with the Goddess Kamalavalli Nachiyar honoured in her own right. A shrine to Gosala Krishna, Krishna among the cows, adds a second centre of devotion within the precinct. The names of the vimana and the tank are not firmly recorded, so none is given here; the visitor will find a quiet village temple whose character lies in its worship and its long attested devotion.",
-    "legends": "Tradition attributes the temple to Nakula, the fourth of the Pandava brothers. It is one of five Vishnu shrines around Chengannur each said to be tied to a brother: Thrichittatt to Yudhishthira, Puliyur to Bhima, Aranmula to Arjuna, Thiruvanvandoor to Nakula and Thrikodithanam to Sahadeva. Together they are remembered as the Pancha Pandava temples. The local name Pambanaiyappan ties the Lord to the Pamba river that waters the country around.",
-    "festivals": "The principal event is a ten-day annual festival in the Malayalam month of Kumbham (February–March), which opens with the flag hoisting and ends with the arattu, the ritual bathing of the deity. During these days the temple offers annadanam, the sharing of free meals, and presents Kathakali performances. Vaikunta Ekadashi is observed too. Dates follow the temple’s own calendar, so confirm locally.",
-    "experience": "A quiet village Divya Desam, best visited with the other Chengannur-area Pandava temples. Take darshan of Kamalanathan and then the Gosala Krishna shrine, and enjoy the unhurried pace of the precinct. In the festival days of Kumbham the temple fills with devotees, the flag, the meals and the Kathakali giving a very different, joyous mood."
+    "history": "ଆଲପ୍ପୁଝା ଜିଲ୍ଲାର ଚେଙ୍ଗନ୍ନୂର ନିକଟରେ ଥିବା ତିରୁବନ୍‌ବଣ୍ଡୂର ନମ୍ମାଳ୍‌ୱାରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ ଏକ ଦିବ୍ୟ ଦେଶମ୍‌ର ସ୍ଥାନ; ଏହି ମନ୍ଦିର ବିଷୟରେ ତାଙ୍କର ଉଲ୍ଲେଖ ପ୍ରାୟ ଖ୍ରୀଷ୍ଟାବ୍ଦ ୮୦୦ ମସିହାର ବୋଲି ଧରାଯାଏ ଏବଂ ଏହା ମନ୍ଦିରର ସର୍ବପ୍ରାଚୀନ ଅଭିଲେଖିତ ଉଲ୍ଲେଖ। ଏହା ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ଆଳ୍‌ୱାର ସନ୍ଥମାନଙ୍କ ଦ୍ୱାରା ଗୀତ ବିଷ୍ଣୁଙ୍କ ୧୦୮ଟି ଦିବ୍ୟ ଦେଶମ୍‌ ମଧ୍ୟରୁ ଅନ୍ୟତମ ଏବଂ କେରଳ ଅଞ୍ଚଳ ମଳୟ ନାଡୁର ଅନ୍ତର୍ଗତ। ମୂଳ ଦେବତା କମଳନାଥନ୍ ରୂପେ ଏବଂ ସ୍ଥାନୀୟ ଭାବେ ପାମ୍ବନାୟପ୍ପନ୍ ରୂପେ ପୂଜିତ, ଏହି ନାମ ପମ୍ପା ନଦୀ ସହିତ ଜଡ଼ିତ; ଦେବୀ ହେଉଛନ୍ତି କମଳବଲ୍ଲୀ ନାଚ୍ଚିୟାର୍। ଏଠାରେ କୃଷ୍ଣଙ୍କ ଏକ ରୂପ ଗୋଶାଳ କୃଷ୍ଣ ମଧ୍ୟ ପୂଜିତ। ଆଜି ଏହି ମନ୍ଦିରକୁ ତ୍ରାବଣକୋର ଦେବସ୍ୱମ୍ ବୋର୍ଡ ପରିଚାଳନା କରେ। ଚେଙ୍ଗନ୍ନୂର ଅଞ୍ଚଳର ପାଞ୍ଚଟି ପାଣ୍ଡବ-ସମ୍ପୃକ୍ତ ବିଷ୍ଣୁ ମନ୍ଦିର ମଧ୍ୟରେ ପରମ୍ପରା ତିରୁବନ୍‌ବଣ୍ଡୂରକୁ ନକୁଳଙ୍କ ସହିତ ଯୋଡ଼ିଥାଏ।",
+    "architecture": "ଏହି ମନ୍ଦିର ଚେଙ୍ଗନ୍ନୂର ଅଞ୍ଚଳର ଏକ କେରଳ ଶୈଳୀର ମନ୍ଦିର; ଏହାର ଗର୍ଭଗୃହରେ ବିଷ୍ଣୁ କମଳନାଥନ୍ ରୂପେ ବିରାଜମାନ, ଦେବୀ କମଳବଲ୍ଲୀ ନାଚ୍ଚିୟାର୍ ନିଜସ୍ୱ ମର୍ଯ୍ୟାଦାରେ ସମ୍ମାନିତ। ଗୋମାତାମାନଙ୍କ ମଧ୍ୟରେ କୃଷ୍ଣ ଗୋଶାଳ କୃଷ୍ଣଙ୍କ ଏକ ମନ୍ଦିର ପରିସର ମଧ୍ୟରେ ଭକ୍ତିର ଦ୍ୱିତୀୟ କେନ୍ଦ୍ର ଭାବେ ଶୋଭା ପାଏ। ବିମାନ ଓ ପୁଷ୍କରିଣୀର ନାମ ଦୃଢ଼ ଭାବେ ଲିପିବଦ୍ଧ ନାହିଁ, ତେଣୁ ଏଠାରେ କୌଣସି ନାମ ଦିଆଯାଇ ନାହିଁ; ଦର୍ଶକ ଏକ ଶାନ୍ତ ଗ୍ରାମ୍ୟ ମନ୍ଦିର ଦେଖିବେ, ଯାହାର ବିଶେଷତ୍ୱ ତାହାର ପୂଜାର୍ଚ୍ଚନା ଓ ଦୀର୍ଘ ପ୍ରମାଣିତ ଭକ୍ତିରେ ନିହିତ।",
+    "legends": "ପରମ୍ପରା ଏହି ମନ୍ଦିରକୁ ପାଣ୍ଡବ ଭାଇମାନଙ୍କ ମଧ୍ୟରୁ ଚତୁର୍ଥ ନକୁଳଙ୍କ ସହିତ ଯୋଡ଼େ। ଏହା ଚେଙ୍ଗନ୍ନୂର ଚାରିପାଖର ପାଞ୍ଚଟି ବିଷ୍ଣୁ ମନ୍ଦିର ମଧ୍ୟରୁ ଅନ୍ୟତମ, ଯେଉଁଥିରୁ ପ୍ରତ୍ୟେକଟି ଜଣେ ଜଣେ ଭାଇଙ୍କ ସହ ସମ୍ପୃକ୍ତ ବୋଲି କୁହାଯାଏ: ତ୍ରିଚ୍ଚିଟ୍ଟାଟ୍ ଯୁଧିଷ୍ଠିରଙ୍କ ସହ, ପୁଳିୟୂର ଭୀମଙ୍କ ସହ, ଆରନ୍ମୁଳା ଅର୍ଜୁନଙ୍କ ସହ, ତିରୁବନ୍‌ବଣ୍ଡୂର ନକୁଳଙ୍କ ସହ ଏବଂ ତ୍ରିକ୍କୋଡିତ୍ତାନମ୍ ସହଦେବଙ୍କ ସହ। ଏଗୁଡ଼ିକୁ ମିଳିତ ଭାବେ ପଞ୍ଚ ପାଣ୍ଡବ ମନ୍ଦିର ରୂପେ ସ୍ମରଣ କରାଯାଏ। ସ୍ଥାନୀୟ ନାମ ପାମ୍ବନାୟପ୍ପନ୍ ପ୍ରଭୁଙ୍କୁ ଚାରିପାଖ ଅଞ୍ଚଳକୁ ସିଞ୍ଚିତ କରୁଥିବା ପମ୍ପା ନଦୀ ସହ ଯୋଡ଼ିଥାଏ।",
+    "festivals": "ମୁଖ୍ୟ ଉତ୍ସବ ହେଉଛି ମଳୟାଳମ୍ କୁମ୍ଭମ୍ ମାସ (ଫେବୃଆରୀ–ମାର୍ଚ୍ଚ)ରେ ଦଶ ଦିନର ବାର୍ଷିକ ଉତ୍ସବ, ଯାହା ଧ୍ୱଜାରୋହଣରେ ଆରମ୍ଭ ହୋଇ ଆରାଟ୍ଟୁ ବା ଦେବତାଙ୍କ ଧାର୍ମିକ ସ୍ନାନରେ ଶେଷ ହୁଏ। ଏହି ଦିନଗୁଡ଼ିକରେ ମନ୍ଦିରରେ ଅନ୍ନଦାନ ବା ବିନାମୂଲ୍ୟ ଭୋଜନ ବିତରଣ କରାଯାଏ ଏବଂ କଥାକଳି ପ୍ରଦର୍ଶନ ହୁଏ। ବୈକୁଣ୍ଠ ଏକାଦଶୀ ମଧ୍ୟ ପାଳିତ ହୁଏ। ତାରିଖଗୁଡ଼ିକ ମନ୍ଦିରର ନିଜସ୍ୱ ପଞ୍ଜିକା ଅନୁସାରେ ସ୍ଥିର ହୁଏ, ତେଣୁ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଏକ ଶାନ୍ତ ଗ୍ରାମ୍ୟ ଦିବ୍ୟ ଦେଶମ୍, ଚେଙ୍ଗନ୍ନୂର ଅଞ୍ଚଳର ଅନ୍ୟ ପାଣ୍ଡବ ମନ୍ଦିରମାନଙ୍କ ସହିତ ଦର୍ଶନ କରିବା ସର୍ବୋତ୍ତମ। କମଳନାଥନ୍‌ଙ୍କ ଦର୍ଶନ କରି ପରେ ଗୋଶାଳ କୃଷ୍ଣଙ୍କ ମନ୍ଦିରକୁ ଯାଆନ୍ତୁ ଏବଂ ପରିସରର ଧୀର ଗତିର ଆନନ୍ଦ ଉପଭୋଗ କରନ୍ତୁ। କୁମ୍ଭମ୍‌ର ଉତ୍ସବ ଦିନମାନଙ୍କରେ ମନ୍ଦିର ଭକ୍ତଙ୍କ ଭିଡ଼ରେ ଭରିଯାଏ; ଧ୍ୱଜା, ଭୋଜନ ଓ କଥାକଳି ଏକ ସମ୍ପୂର୍ଣ୍ଣ ଭିନ୍ନ, ଆନନ୍ଦମୟ ପରିବେଶ ସୃଷ୍ଟି କରେ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions, usually with a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruvanvandoor is a village in Alappuzha district a few kilometres from Chengannur, which is the nearest railway station; autorickshaws, taxis and local buses serve the short road journey. Thiruvananthapuram and Kochi are the usual airport gateways."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ସମୟରେ ଖୋଲା ଥାଏ, ସାଧାରଣତଃ ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ ରହେ; ଉତ୍ସବ ଦିନଗୁଡ଼ିକରେ ସର୍ବାଧିକ ଭିଡ଼ ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ହୋଇଥିବା; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲି ରଖନ୍ତୁ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଓ ତାହାର ଆଖପାଖରେ ଫଟୋଗ୍ରାଫି ସୀମିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ତିରୁବନ୍‌ବଣ୍ଡୂର ଆଲପ୍ପୁଝା ଜିଲ୍ଲାର ଏକ ଗ୍ରାମ, ଚେଙ୍ଗନ୍ନୂରରୁ କିଛି କିଲୋମିଟର ଦୂରରେ, ଯାହା ନିକଟତମ ରେଳ ଷ୍ଟେସନ; ଅଟୋରିକ୍ସା, ଟାକ୍ସି ଓ ସ୍ଥାନୀୟ ବସ୍ ଏହି ଛୋଟ ସଡ଼କ ଯାତ୍ରାକୁ ସେବା ଦିଏ। ତିରୁବନନ୍ତପୁରମ୍ ଓ କୋଚି ସାଧାରଣ ବିମାନବନ୍ଦର ପ୍ରବେଶଦ୍ୱାର।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kamalanatha-thiruvanvandoor.jpg",

@@ -1,32 +1,39 @@
 {
   "id": "parthasarathy-aranmula",
   "locale": "or",
+  "name": "ପାର୍ଥସାରଥି ପେରୁମାଳ ମନ୍ଦିର, ଆରନ୍ମୁଳା",
   "nativeName": "പാർത്ഥസാരഥി പെരുമാൾ ക്ഷേത്രം, ആറന്മുള",
+  "deity": "କୃଷ୍ଣ ପାର୍ଥସାରଥି, ଅର୍ଜୁନଙ୍କ ସାରଥି (ନମ୍ମାଳ୍ୱାରଙ୍କ ସ୍ତୋତ୍ରର ତିରୁକ୍କୁରଲପ୍ପନ୍), ଦେବୀ ପଦ୍ମାସନୀ ନାଚ୍ଚିୟାରଙ୍କ ସହିତ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Aranmula",
-    "state": "Kerala",
+    "city": "ଆରନ୍ମୁଳା",
+    "state": "କେରଳ",
     "lat": 9.328,
     "lng": 76.688
   },
+  "period": "ପମ୍ପା ନଦୀ କୂଳର ମଳୟ ନାଡୁ (କେରଳ)ର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ନମ୍ମାଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ",
   "century": 8,
+  "dynasty": "ପମ୍ପା କୂଳର ପ୍ରାଚୀନ ମଳୟ ନାଡୁ ମନ୍ଦିର",
+  "style": "କେରଳ ମନ୍ଦିର ଶୈଳୀ",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "sacred-temples-of-kerala",
     "pancha-pandava-temples"
   ],
+  "summary": "ଆରନ୍ମୁଳାରେ ପମ୍ପା ନଦୀ କୂଳରେ କୃଷ୍ଣ ଅର୍ଜୁନଙ୍କ ସାରଥି ପାର୍ଥସାରଥି ରୂପେ ପୂଜିତ — ନମ୍ମାଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ ଏକ ମଳୟ ନାଡୁ ଦିବ୍ୟ ଦେଶମ୍, ଛଅ ବାଉଁଶର ଭେଳା ପରମ୍ପରା ଓ ଓଣମ୍ ସର୍ପ-ନୌକା ଦୌଡ଼ ପାଇଁ ପ୍ରସିଦ୍ଧ।",
   "sections": {
-    "history": "Aranmula, in Pathanamthitta district, sits on the river Pamba, and its temple is the Divya Desam that the Alvar hymns call Thiruvaranvilai. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and belongs to Malai Nadu, the Kerala country. Nammalvar was the Alvar who sang here, addressing the Lord as Thirukkuralappan. The presiding deity is worshipped locally as Parthasarathy, Krishna as the charioteer of Arjuna, and the Goddess is Padmasani Nachiyar. Among the Pandava-linked Vishnu temples of the Chengannur country, tradition attributes Aranmula to Arjuna. The village is also widely known for its Aranmula kannadi, the handmade metal mirrors that have made its name travel far beyond Kerala.",
-    "architecture": "The temple is built in the Kerala style, on the bank of the Pamba, and its outer wall is pierced by four gopurams over the entrances, so that the precinct opens to the four directions. The sanctum houses Parthasarathy with the Goddess Padmasani Nachiyar. The name of its vimana is not firmly recorded. The river bank itself is part of the temple’s character, and the ceremonies of the boats and the feasts are woven into the water’s edge.",
-    "legends": "The sthala purana tells that Arjuna first installed the image at Nilakkal, near Sabarimala, but the forest conditions there made daily worship hard. The image was therefore brought down the Pamba on a raft made of six bamboos, and the place where it came to rest took its name from that raft: Aranmula, “six bamboo stems”. The story links the shrine with Arjuna’s journey and with the river that gave it its home.",
-    "festivals": "Aranmula is best known for the Uthrattathi snake-boat regatta, the Aranmula Vallamkali, held in the Onam season and said to commemorate the installation of the deity. The temple also offers the Valla Sadya, the feasts given to the boat crews, and keeps the Onam celebrations. Vaikunta Ekadashi is observed as at other Vaishnava shrines. Dates vary yearly, so confirm locally.",
-    "experience": "Aranmula rewards a slower visit: walk the river bank, pass beneath the four gopurams and take darshan of Parthasarathy, with the legend of the six-bamboo raft in mind. If the Onam season fits your plans, the regatta is a memorable sight, though crowds are large. Pilgrims may also wish to see the village’s famous metal mirrors, a craft of Aranmula."
+    "history": "ପଥାନମଥିଟ୍ଟା ଜିଲ୍ଲାର ଆରନ୍ମୁଳା ପମ୍ପା ନଦୀ ତୀରରେ ଅବସ୍ଥିତ, ଏବଂ ଏହାର ମନ୍ଦିର ସେହି ଦିବ୍ୟ ଦେଶମ୍ ଯାହାକୁ ଆଳ୍ୱାର ସ୍ତୋତ୍ରରେ ତିରୁବାରନ୍‌ବିଳୈ କୁହାଯାଏ। ଏହା ଆଳ୍ୱାର ସନ୍ଥମାନେ ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ଗାଇଥିବା ବିଷ୍ଣୁଙ୍କ ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍ ମଧ୍ୟରୁ ଏକ, ଏବଂ କେରଳ ଦେଶ ମଳୟ ନାଡୁର ଅନ୍ତର୍ଗତ। ନମ୍ମାଳ୍ୱାର ଏଠାରେ ଗାନ କରିଥିବା ଆଳ୍ୱାର ଥିଲେ, ପ୍ରଭୁଙ୍କୁ ତିରୁକ୍କୁରଲପ୍ପନ୍ ବୋଲି ସମ୍ବୋଧନ କରି। ମୂଳ ଦେବତାଙ୍କୁ ସ୍ଥାନୀୟ ଭାବେ ପାର୍ଥସାରଥି, ଅର୍ଜୁନଙ୍କ ସାରଥି କୃଷ୍ଣ ରୂପେ ପୂଜା କରାଯାଏ, ଏବଂ ଦେବୀ ପଦ୍ମାସନୀ ନାଚ୍ଚିୟାର। ଚେଙ୍ଗନ୍ନୂର ଅଞ୍ଚଳର ପାଣ୍ଡବ-ସମ୍ପୃକ୍ତ ବିଷ୍ଣୁ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ, ପରମ୍ପରା ଆରନ୍ମୁଳାକୁ ଅର୍ଜୁନଙ୍କୁ ଆରୋପ କରେ। ଗାଁଟି ଆରନ୍ମୁଳା କଣ୍ଣାଡି, ହସ୍ତନିର୍ମିତ ଧାତୁ ଦର୍ପଣ ପାଇଁ ମଧ୍ୟ ବିଖ୍ୟାତ, ଯାହା ଏହାର ନାମକୁ କେରଳ ବାହାରକୁ ବହୁ ଦୂର ନେଇଯାଇଛି।",
+    "architecture": "ମନ୍ଦିରଟି କେରଳ ଶୈଳୀରେ ପମ୍ପା କୂଳରେ ନିର୍ମିତ, ଏବଂ ଏହାର ବାହ୍ୟ ପ୍ରାଚୀରକୁ ପ୍ରବେଶଦ୍ୱାର ଉପରେ ଚାରିଟି ଗୋପୁରମ୍ ଭେଦ କରିଛି, ଫଳରେ ପରିସର ଚାରି ଦିଗକୁ ଖୋଲା। ଗର୍ଭଗୃହରେ ପାର୍ଥସାରଥି ଦେବୀ ପଦ୍ମାସନୀ ନାଚ୍ଚିୟାରଙ୍କ ସହିତ ବିରାଜମାନ। ଏହାର ବିମାନର ନାମ ଦୃଢ଼ ଭାବେ ଲିପିବଦ୍ଧ ନାହିଁ। ନଦୀକୂଳ ନିଜେ ମନ୍ଦିରର ଚରିତ୍ରର ଏକ ଅଂଶ, ଏବଂ ନୌକା ଓ ଭୋଜିର ଅନୁଷ୍ଠାନ ଜଳକୂଳ ସହିତ ବୁଣା ହୋଇଛି।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ କୁହେ ଯେ ଅର୍ଜୁନ ପ୍ରଥମେ ଶବରିମଳା ନିକଟ ନିଳକ୍କଲରେ ମୂର୍ତ୍ତି ସ୍ଥାପନ କରିଥିଲେ, କିନ୍ତୁ ସେଠାକାର ଜଙ୍ଗଲ ପରିସ୍ଥିତି ଦୈନନ୍ଦିନ ପୂଜାକୁ କଷ୍ଟକର କରିଥିଲା। ତେଣୁ ମୂର୍ତ୍ତିକୁ ଛଅ ବାଉଁଶରେ ନିର୍ମିତ ଭେଳାରେ ପମ୍ପା ବାହି ଆଣାଗଲା, ଏବଂ ଯେଉଁଠି ତାହା ଲାଗିଲା ସେହି ସ୍ଥାନ ସେହି ଭେଳାରୁ ନାମ ପାଇଲା: ଆରନ୍ମୁଳା, “ଛଅ ବାଉଁଶ ଖଣ୍ଡ”। କାହାଣୀ ମନ୍ଦିରକୁ ଅର୍ଜୁନଙ୍କ ଯାତ୍ରା ଓ ଏହାକୁ ଆଶ୍ରୟ ଦେଇଥିବା ନଦୀ ସହିତ ଯୋଡ଼େ।",
+    "festivals": "ଆରନ୍ମୁଳା ଉତ୍ରଟ୍ଟାତି ସର୍ପ-ନୌକା ଦୌଡ଼, ଆରନ୍ମୁଳା ବଲ୍ଲମ୍‌କଳି ପାଇଁ ସର୍ବାଧିକ ପରିଚିତ, ଯାହା ଓଣମ୍ ଋତୁରେ ଅନୁଷ୍ଠିତ ହୁଏ ଏବଂ ଦେବତାଙ୍କ ପ୍ରତିଷ୍ଠାର ସ୍ମାରକ ବୋଲି କୁହାଯାଏ। ମନ୍ଦିର ବଲ୍ଲ ସଦ୍ୟା, ନୌକା ଦଳଙ୍କୁ ଦିଆଯାଉଥିବା ଭୋଜି ମଧ୍ୟ ପ୍ରଦାନ କରେ, ଏବଂ ଓଣମ୍ ଉତ୍ସବ ପାଳନ କରେ। ଅନ୍ୟ ବୈଷ୍ଣବ ମନ୍ଦିର ପରି ବୈକୁଣ୍ଠ ଏକାଦଶୀ ପାଳିତ ହୁଏ। ତାରିଖ ବର୍ଷ ବର୍ଷ ବଦଳେ, ତେଣୁ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଆରନ୍ମୁଳା ଧୀର ଗତିର ଭ୍ରମଣକୁ ପୁରସ୍କୃତ କରେ: ନଦୀକୂଳରେ ଚାଲନ୍ତୁ, ଚାରି ଗୋପୁର ତଳେ ଯାଆନ୍ତୁ ଏବଂ ଛଅ ବାଉଁଶ ଭେଳାର କିମ୍ବଦନ୍ତୀକୁ ମନେ ରଖି ପାର୍ଥସାରଥିଙ୍କ ଦର୍ଶନ କରନ୍ତୁ। ଯଦି ଓଣମ୍ ଋତୁ ଆପଣଙ୍କ ଯୋଜନାରେ ଫିଟ୍ ହୁଏ, ନୌକା ଦୌଡ଼ ଏକ ସ୍ମରଣୀୟ ଦୃଶ୍ୟ, ଯଦିଓ ଭିଡ଼ ବିଶାଳ। ତୀର୍ଥଯାତ୍ରୀମାନେ ଗାଁର ପ୍ରସିଦ୍ଧ ଧାତୁ ଦର୍ପଣ, ଆରନ୍ମୁଳାର ଏକ କଳା, ଦେଖିବାକୁ ମଧ୍ୟ ଚାହିଁପାରନ୍ତି।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions, usually with a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Aranmula is in Pathanamthitta district on the Pamba, a short road journey from Chengannur, which is the nearest railway station; autorickshaws, taxis and buses link the two. Kozhencherry and Pathanamthitta are nearby towns, and Thiruvananthapuram and Kochi are the usual airport gateways. During the boat-race season, expect heavy traffic and plan to arrive early."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଅଧିବେଶନ ସହିତ ଖୋଲା ରହେ, ସାଧାରଣତଃ ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ; ଉତ୍ସବ ଦିନମାନେ ସବୁଠାରୁ ଅଧିକ ଭିଡ଼। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ବିନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ାଯାଇଥିବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବାକୁ ହୁଏ। ଲିଖିତ ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଆଖପାଖରେ ଫଟୋ ଉଠାଇବା ନିଷିଦ୍ଧ; ଲିଖିତ ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ଆରନ୍ମୁଳା ପମ୍ପା କୂଳରେ ପଥାନମଥିଟ୍ଟା ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ, ଚେଙ୍ଗନ୍ନୂରରୁ ଅଳ୍ପ ସଡ଼କ ଯାତ୍ରା, ଯାହା ନିକଟତମ ରେଳ ଷ୍ଟେସନ୍; ଅଟୋରିକ୍ସା, ଟ୍ୟାକ୍ସି ଓ ବସ୍ ଉଭୟକୁ ସଂଯୋଗ କରେ। କୋଝେନ୍ଚେରି ଓ ପଥାନମଥିଟ୍ଟା ନିକଟସ୍ଥ ସହର, ଏବଂ ତିରୁବନନ୍ତପୁରମ୍ ଓ କୋଚି ସାଧାରଣ ବିମାନବନ୍ଦର ପ୍ରବେଶ ପଥ। ନୌକା ଦୌଡ଼ ଋତୁରେ ଭାରୀ ଯାନବାହନ ଆଶା କରନ୍ତୁ ଏବଂ ଶୀଘ୍ର ପହଞ୍ଚିବାର ଯୋଜନା କରନ୍ତୁ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.jpg",

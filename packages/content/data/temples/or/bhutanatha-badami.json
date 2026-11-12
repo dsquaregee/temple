@@ -1,30 +1,37 @@
 {
   "id": "bhutanatha-badami",
   "locale": "or",
+  "name": "ଭୂତନାଥ ମନ୍ଦିର ସମୂହ, ବାଦାମି",
   "nativeName": "ಭೂತನಾಥ ದೇವಾಲಯಗಳು, ಬಾದಾಮಿ",
+  "deity": "ଭୂତନାଥ ରୂପେ ଶିବ, ଜୀବମାନଙ୍କ ପ୍ରଭୁ",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Badami",
-    "state": "Karnataka",
+    "city": "ବାଦାମି",
+    "state": "କର୍ଣ୍ଣାଟକ",
     "lat": 15.9208,
     "lng": 75.6878
   },
+  "period": "ପ୍ରାଚୀନ ଚାଲୁକ୍ୟ, ସପ୍ତମ–ଅଷ୍ଟମ ଶତାବ୍ଦୀ, ଦ୍ୱାଦଶ ଶତାବ୍ଦୀ ପର୍ଯ୍ୟନ୍ତ ପରବର୍ତ୍ତୀ ସଂଯୋଜନ ସହିତ",
   "century": 7,
+  "dynasty": "ବାଦାମି ଚାଲୁକ୍ୟ, ପରବର୍ତ୍ତୀ କଲ୍ୟାଣୀ ଚାଲୁକ୍ୟ ସଂଯୋଜନ ସହିତ",
+  "style": "ପ୍ରାଚୀନ ଚାଲୁକ୍ୟ ଦ୍ରାବିଡ଼, ପରବର୍ତ୍ତୀ ନାଗର ଗୋଷ୍ଠୀ ସହିତ",
   "unesco": false,
   "circuits": [
     "badami-chalukya-monuments"
   ],
+  "summary": "ବାଦାମିର ଅଗସ୍ତ୍ୟ ହ୍ରଦର ପୂର୍ବ ତୀରରେ, ଭୂତନାଥ ମନ୍ଦିରଗୁଡ଼ିକ ସ୍ଥିର ଜଳରେ ନିଜର ପ୍ରତିବିମ୍ବ ଦେଖନ୍ତି — ସପ୍ତମ ଶତାବ୍ଦୀରେ ଆରମ୍ଭ ହୋଇ ପରବର୍ତ୍ତୀ ରାଜବଂଶ ଦ୍ୱାରା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିବା ଏକ ଚାଲୁକ୍ୟ ଶିବ ମନ୍ଦିର।",
   "sections": {
-    "history": "On the east bank of Agastya Lake, below the red sandstone cliffs of Badami, stands the Bhutanatha group, the town’s great lakeside shrine to Shiva as Bhutanatha, lord of beings. The main temple belongs to the seventh and eighth centuries: the inner shrine and hall are the work of the Badami Chalukyas, while the outer hall facing the water was completed in the eleventh century under the Kalyani Chalukyas, so the building records a conversation across centuries. A second cluster, the North Bhutanatha or Mallikarjuna group on the opposite bank, is later still, of the eleventh and twelfth centuries, and in the northern style. Together they make one of the most picturesque corners of Chalukyan Badami.",
-    "architecture": "The main Bhutanatha temple is Dravida in form, its sanctum crowned by a three-tiered tower, with carved heads of kinnaras and gandharvas, the celestial musicians, along its walls. An inner hall leads to the shrine, and the later outer hall opens towards the lake, so the whole building seems to step down to the water. Stone ghats wrap the shore of Agastya Lake in flights of steps, and across the water the North Bhutanatha group rises in the northern style, its curving towers a contrast to the Dravida tower on the eastern bank.",
-    "legends": "Agastya Lake takes its name from the sage Agastya, and tradition links him with Badami, anciently called Vatapi, through the tale of the demon brothers Vatapi and Ilvala, who tricked sages into eating Vatapi in the guise of a meal. Agastya is said to have digested the demon and ended the trick for good. Local belief holds that the lake’s waters carry healing power, and the shrine of Bhutanatha, lord of spirits and beings, stands at its very edge, where pilgrims have long come to the shore.",
-    "festivals": "As in Shiva temples across Karnataka, Maha Shivaratri is the most important observance at Bhutanatha, and the lake edge is lively on festival days. Local fairs and the regional Chalukya heritage festivals of music and dance also draw people to the water. Confirm dates locally.",
-    "experience": "Walk down to Agastya Lake at the quiet ends of the day and the Bhutanatha temples sit golden above their own reflection, the cliffs rising behind. Spend time with the carved faces of kinnaras and gandharvas on the walls, step through the hall to the sanctum, then follow the ghats round the water. The shore is also the town’s washing place and meeting place, so the scene is lived-in as well as ancient."
+    "history": "ବାଦାମିର ରକ୍ତିମ ବାଲିପଥର ପ୍ରାଚୀର ତଳେ ଅଗସ୍ତ୍ୟ ହ୍ରଦର ପୂର୍ବ ତୀରରେ ଭୂତନାଥ ଗୋଷ୍ଠୀ ଠିଆ ହୋଇଛି, ଯାହା ଜୀବମାନଙ୍କ ପ୍ରଭୁ ଭୂତନାଥ ରୂପେ ଶିବଙ୍କ ପ୍ରତି ନଗରର ମହାନ ହ୍ରଦକୂଳ ମନ୍ଦିର। ମୁଖ୍ୟ ମନ୍ଦିର ସପ୍ତମ ଓ ଅଷ୍ଟମ ଶତାବ୍ଦୀର: ଭିତର ଗର୍ଭଗୃହ ଓ ମଣ୍ଡପ ବାଦାମି ଚାଲୁକ୍ୟମାନଙ୍କ କାର୍ଯ୍ୟ, ଜଳ ଆଡ଼େ ମୁହାଁଇଥିବା ବାହ୍ୟ ମଣ୍ଡପ ଏକାଦଶ ଶତାବ୍ଦୀରେ କଲ୍ୟାଣୀ ଚାଲୁକ୍ୟମାନଙ୍କ ଅଧୀନରେ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିଲା, ତେଣୁ ଏହି ଭବନ ଶତାବ୍ଦୀମାନଙ୍କ ମଧ୍ୟରେ ଏକ ସଂଳାପକୁ ଲିପିବଦ୍ଧ କରେ। ଅପର ତୀରରେ ଉତ୍ତର ଭୂତନାଥ ବା ମଲ୍ଲିକାର୍ଜୁନ ଗୋଷ୍ଠୀ ଆହୁରି ପରବର୍ତ୍ତୀ, ଏକାଦଶ ଓ ଦ୍ୱାଦଶ ଶତାବ୍ଦୀର, ଏବଂ ଉତ୍ତରୀ ଶୈଳୀର। ଏକତ୍ର ସେମାନେ ଚାଲୁକ୍ୟ ବାଦାମିର ସବୁଠାରୁ ମନୋରମ କୋଣମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ ଗଢ଼ନ୍ତି।",
+    "architecture": "ମୁଖ୍ୟ ଭୂତନାଥ ମନ୍ଦିର ଦ୍ରାବିଡ଼ ରୂପର, ଏହାର ଗର୍ଭଗୃହ ତିନି ଥାକ ବିଶିଷ୍ଟ ଶିଖରରେ ମଣ୍ଡିତ, ଏବଂ କାନ୍ଥ ବାଟେ ସ୍ୱର୍ଗୀୟ ସଙ୍ଗୀତଜ୍ଞ କିନ୍ନର ଓ ଗନ୍ଧର୍ବଙ୍କ ଖୋଦିତ ମୁଣ୍ଡ। ଏକ ଭିତର ମଣ୍ଡପ ଗର୍ଭଗୃହକୁ ନିଏ, ଏବଂ ପରବର୍ତ୍ତୀ ବାହ୍ୟ ମଣ୍ଡପ ହ୍ରଦ ଆଡ଼େ ଖୋଲେ, ତେଣୁ ସମଗ୍ର ଭବନ ଜଳ ଆଡ଼କୁ ପାହାଚ ଓହ୍ଲାଉଥିବା ପରି ଲାଗେ। ପଥର ଘାଟ ଅଗସ୍ତ୍ୟ ହ୍ରଦର ତୀରକୁ ପାହାଚର ସାରିରେ ଘେରିଛି, ଏବଂ ଜଳ ସେପାରି ଉତ୍ତର ଭୂତନାଥ ଗୋଷ୍ଠୀ ଉତ୍ତରୀ ଶୈଳୀରେ ଉଠିଛି, ଏହାର ବଙ୍କା ଶିଖର ପୂର୍ବ ତୀରର ଦ୍ରାବିଡ଼ ଶିଖର ସହ ଏକ ବିପରୀତ।",
+    "legends": "ଅଗସ୍ତ୍ୟ ହ୍ରଦ ଋଷି ଅଗସ୍ତ୍ୟଙ୍କ ନାମରୁ ନାମିତ, ଏବଂ ପରମ୍ପରା ତାଙ୍କୁ ବାଦାମି, ପ୍ରାଚୀନ କାଳରେ ବାତାପି, ସହ ଯୋଡ଼େ, ଅସୁର ଭାଇ ବାତାପି ଓ ଇଲ୍ୱଳଙ୍କ କାହାଣୀ ଦ୍ୱାରା, ଯେଉଁମାନେ ଋଷିମାନଙ୍କୁ ବାତାପିକୁ ଭୋଜନ ରୂପେ ଖୁଆଇ ଠକୁଥିଲେ। ଅଗସ୍ତ୍ୟ ଅସୁରକୁ ହଜମ କରି ଏହି ଛଳନାକୁ ସବୁଦିନ ପାଇଁ ଶେଷ କରିଥିଲେ ବୋଲି କୁହାଯାଏ। ସ୍ଥାନୀୟ ବିଶ୍ୱାସ ଅନୁସାରେ ହ୍ରଦର ଜଳରେ ଆରୋଗ୍ୟ ଶକ୍ତି ଅଛି, ଏବଂ ଭୂତ ଓ ଜୀବମାନଙ୍କ ପ୍ରଭୁ ଭୂତନାଥଙ୍କ ମନ୍ଦିର ଏହାର ଠିକ୍ ତୀରରେ ଠିଆ ହୋଇଛି, ଯେଉଁଠାକୁ ତୀର୍ଥଯାତ୍ରୀମାନେ ଦୀର୍ଘ ଦିନ ଧରି ଆସିଛନ୍ତି।",
+    "festivals": "କର୍ଣ୍ଣାଟକର ଶିବ ମନ୍ଦିରମାନଙ୍କ ପରି, ଭୂତନାଥଙ୍କଠାରେ ମହାଶିବରାତ୍ରି ସବୁଠାରୁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଉତ୍ସବ, ଏବଂ ଉତ୍ସବ ଦିନମାନଙ୍କରେ ହ୍ରଦ ତୀର ଜୀବନ୍ତ ହୋଇଉଠେ। ସ୍ଥାନୀୟ ମେଳା ଓ ସଙ୍ଗୀତ ଓ ନୃତ୍ୟର ଆଞ୍ଚଳିକ ଚାଲୁକ୍ୟ ଐତିହ୍ୟ ଉତ୍ସବ ମଧ୍ୟ ଲୋକଙ୍କୁ ଜଳ ପାଖକୁ ଟାଣେ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଦିନର ଶାନ୍ତ ପ୍ରାନ୍ତମାନଙ୍କରେ ଅଗସ୍ତ୍ୟ ହ୍ରଦକୁ ଚାଲିଯାଆନ୍ତୁ, ଏବଂ ଭୂତନାଥ ମନ୍ଦିରଗୁଡ଼ିକ ନିଜ ପ୍ରତିବିମ୍ବ ଉପରେ ସୁନେଲି ରଙ୍ଗରେ ଶୋଭାପାଆନ୍ତି, ପଛରେ ପ୍ରାଚୀର ଉଠିଥାଏ। କାନ୍ଥରେ କିନ୍ନର ଓ ଗନ୍ଧର୍ବଙ୍କ ଖୋଦିତ ମୁହଁ ପାଖରେ ସମୟ ବିତାନ୍ତୁ, ମଣ୍ଡପ ଦେଇ ଗର୍ଭଗୃହକୁ ଯାଆନ୍ତୁ, ତା’ପରେ ଘାଟ ବାଟେ ଜଳ ଚାରିପାଖରେ ବୁଲନ୍ତୁ। ଏହି ତୀର ନଗରର କପଡ଼ା ଧୁଆ ଓ ଭେଟଘାଟର ସ୍ଥାନ ମଧ୍ୟ, ତେଣୁ ଦୃଶ୍ୟ ପ୍ରାଚୀନ ହେବା ସହ ଜୀବନ୍ତ ମଧ୍ୟ।"
   },
   "visit": {
-    "timings": "The lakeside temples are open to visitors during the day; the site is outdoors and the shrine keeps its own worship hours. Confirm timings and any ticket requirement locally.",
-    "dressCode": "Modest dress is appropriate, and footwear is left outside the shrine; steps and ghats can be slippery near the water.",
-    "photography": "Photography is generally welcome around the lake and the temple exterior; ask before photographing inside the shrine or worshippers.",
-    "gettingThere": "Badami is in Bagalkot district; the Bhutanatha temples stand on the eastern shore of Agastya Lake, a short walk or auto ride from the town centre. Badami has the nearest railway station, and the nearest airport is Hubballi."
+    "timings": "ହ୍ରଦକୂଳ ମନ୍ଦିରଗୁଡ଼ିକ ଦିନବେଳା ପରିଦର୍ଶକଙ୍କ ପାଇଁ ଖୋଲା; ସ୍ଥାନଟି ଖୋଲା ଆକାଶ ତଳେ ଏବଂ ଦେଉଳ ନିଜର ପୂଜା ସମୟ ପାଳନ କରେ। ସମୟ ଓ କୌଣସି ଟିକେଟ୍ ଆବଶ୍ୟକତା ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ନମ୍ର ପୋଷାକ ଉପଯୁକ୍ତ, ଏବଂ ପାଦୁକା ଦେଉଳ ବାହାରେ ଛଡ଼ାଯାଏ; ଜଳ ପାଖରେ ପାହାଚ ଓ ଘାଟ ଖସିଲା ହୋଇପାରେ।",
+    "photography": "ହ୍ରଦ ଓ ମନ୍ଦିରର ବାହ୍ୟ ଭାଗ ଚାରିପାଖରେ ଫଟୋଗ୍ରାଫି ସାଧାରଣତଃ ସ୍ୱାଗତଯୋଗ୍ୟ; ଦେଉଳ ଭିତରେ କିମ୍ବା ଭକ୍ତମାନଙ୍କର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ବାଦାମି ବାଗଲକୋଟ ଜିଲ୍ଲାରେ; ଭୂତନାଥ ମନ୍ଦିରଗୁଡ଼ିକ ଅଗସ୍ତ୍ୟ ହ୍ରଦର ପୂର୍ବ ତୀରରେ, ନଗର କେନ୍ଦ୍ରରୁ ଅଳ୍ପ ଚାଲିବା ବା ଅଟୋ ଯାତ୍ରା ଦୂରରେ। ବାଦାମିରେ ନିକଟତମ ରେଳ ଷ୍ଟେସନ ଅଛି, ଏବଂ ନିକଟତମ ବିମାନବନ୍ଦର ହୁବ୍ବଳ୍ଳୀ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/bhutanatha-badami.jpg",

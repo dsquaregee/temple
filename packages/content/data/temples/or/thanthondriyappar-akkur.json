@@ -1,29 +1,36 @@
 {
   "id": "thanthondriyappar-akkur",
   "locale": "or",
+  "name": "ଥାନ୍ଥୋଣ୍ଡ୍ରିଅପ୍ପର ମନ୍ଦିର, ଆକ୍କୁର",
   "nativeName": "திருஆக்கூர் தான்தோன்றியப்பர் கோயில்",
+  "deity": "ଶିବ ଥାନ୍ଥୋଣ୍ଡ୍ରିଅପ୍ପର (ସ୍ୱୟମ୍ଭୂ ପ୍ରଭୁ) ରୂପେ, ଦେବୀ ବାଲ୍ନେଡୁଙ୍କନ୍ନି ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍, ଏକ ମାଡ଼ା କୋଭିଲ",
   "location": {
-    "city": "Akkur, near Mayiladuthurai",
-    "state": "Tamil Nadu",
+    "city": "ଆକ୍କୁର, ମୟିଲାଡୁଟୁରାଇ ନିକଟରେ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 11.0825,
     "lng": 79.7814
   },
+  "period": "ତେବାରମ୍ ଯୁଗ; ପରମ୍ପରା ଅନୁସାରେ କୋଚେଙ୍ଗଟ ଚୋଳଙ୍କ ମାଡ଼ା କୋଭିଲ",
   "century": 9,
+  "dynasty": "ଚୋଳ (ପରମ୍ପରା ଅନୁସାରେ କୋଚେଙ୍ଗଟ ଚୋଳ)",
+  "style": "ଦ୍ରାବିଡ଼ (ମାଡ଼ା କୋଭିଲ, ଉଚ୍ଚ ପ୍ରକାର)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ମୟିଲାଡୁଟୁରାଇର ପୂର୍ବରେ ଥିବା ଆକ୍କୁର ଶିବଙ୍କୁ ଥାନ୍ଥୋଣ୍ଡ୍ରିଅପ୍ପର — ସ୍ୱୟମ୍ଭୂ ପ୍ରଭୁ — ରୂପେ ପୂଜା କରେ; କୁହାଯାଏ ମନ୍ଦିର ସମ୍ମୁଖରେ ପୁଷ୍କରିଣୀ ଖୋଳାଯିବା ସମୟରେ ତାଙ୍କ ଲିଙ୍ଗ ନିଜେ ଉଠି ଆସିଥିଲା। ସମ୍ବନ୍ଧର ଓ ଅପ୍ପରଙ୍କ ଦ୍ୱାରା ଗୀତ ହୋଇଥିବା ଏହି ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍ ସ୍ତୋତ୍ରରେ ଥୋନ୍-ଥୋଣ୍ଡ୍ରି ମାଡ଼ମ୍ ନାମରେ ପରିଚିତ, ଏବଂ ଏହା ଏକ ଉଚ୍ଚ ମାଡ଼ା କୋଭିଲ ରୂପେ ନିର୍ମିତ, ପରମ୍ପରା ଅନୁସାରେ ଚୋଳ ରାଜା କୋଚେଙ୍ଗଟ ଚୋଳଙ୍କ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରୁ ଅନ୍ୟତମ। ଏହି ଗ୍ରାମ ମଧ୍ୟ ତେଷଠି ଜଣ ଶୈବ ସନ୍ଥଙ୍କ ମଧ୍ୟରୁ ଜଣେ ସିରପ୍ପୁଳି ନାୟନାରଙ୍କ ଜନ୍ମସ୍ଥାନ।",
   "sections": {
-    "history": "Akkur, east of Mayiladuthurai on the road toward Tharangambadi, is an ancient Shaiva village hymned in the seventh-century Tevaram by Sambandar and Appar and counted among the Paadal Petra Sthalams, where it is named Thon-Thondri Maadam. The temple was built as a Maada Kovil — a raised temple of the type traditionally ascribed to the early Chola king Kochengat Chola — and the village holds the added honour of being the birthplace of Sirappuli Nayanar, one of the sixty-three Shaiva saints.",
-    "architecture": "As a Maada Kovil the temple sits on an elevated base, reached by steps, in the manner of the Kochengat Chola foundations built high so that an elephant could not enter the sanctum. The sanctum enshrines the self-manifested lingam of Thanthondriappar, and the goddess Valnedunkanni has her own shrine. The temple's Murugan, praised by the saint-poet Arunagirinathar in his Tiruppugazh, adds to the devotional draw of the raised village shrine.",
-    "legends": "The name Thanthondriappar — 'the lord who appeared of himself' — comes from the tradition that the lingam rose on its own as a tank was being dug before the temple. A second story tells of a Chola king, in some tellings Kochengat Chola, afflicted with a disease no physician could cure; Shiva came to him in a dream and bade him feed a thousand people for forty-eight days, and on fulfilling this the king was healed and raised the Maada Kovil here. The village's honour as the birthplace of Sirappuli Nayanar binds it further into the story of the Shaiva saints.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam — and the day of Sirappuli Nayanar is observed with special honour as the saint's native place. The raised sanctum gives the festival processions their own character among the delta villages.",
-    "experience": "Climbing to the elevated sanctum of a Maada Kovil is part of the pilgrimage at Akkur, and the darshan of the self-manifested Thanthondriappar carries the sense of a lord who came forth of his own will. The village's link to Sirappuli Nayanar and to the healing of a king gives this quiet shrine a depth beyond its modest size."
+    "history": "ତରଙ୍ଗମ୍ବାଡ଼ି ଅଭିମୁଖୀ ପଥରେ ମୟିଲାଡୁଟୁରାଇର ପୂର୍ବରେ ଥିବା ଆକ୍କୁର ଏକ ପ୍ରାଚୀନ ଶୈବ ଗ୍ରାମ; ସପ୍ତମ ଶତାବ୍ଦୀର ତେବାରମ୍‌ରେ ସମ୍ବନ୍ଧର ଓ ଅପ୍ପର ଏହାକୁ ସ୍ତୁତି କରିଛନ୍ତି ଏବଂ ଏହା ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍ ମଧ୍ୟରେ ଗଣାଯାଏ, ଯେଉଁଠି ଏହାର ନାମ ଥୋନ୍-ଥୋଣ୍ଡ୍ରି ମାଡ଼ମ୍। ମନ୍ଦିରଟି ଏକ ମାଡ଼ା କୋଭିଲ ରୂପେ ନିର୍ମିତ — ପ୍ରାଚୀନ ଚୋଳ ରାଜା କୋଚେଙ୍ଗଟ ଚୋଳଙ୍କ ନାମରେ ପରମ୍ପରାଗତ ଭାବେ ଆରୋପିତ ଏକ ଉଚ୍ଚ ମନ୍ଦିର — ଏବଂ ଏହି ଗ୍ରାମ ତେଷଠି ଜଣ ଶୈବ ସନ୍ଥଙ୍କ ମଧ୍ୟରୁ ଜଣେ ସିରପ୍ପୁଳି ନାୟନାରଙ୍କ ଜନ୍ମସ୍ଥାନ ହେବାର ଅତିରିକ୍ତ ଗୌରବ ମଧ୍ୟ ଧାରଣ କରେ।",
+    "architecture": "ମାଡ଼ା କୋଭିଲ ହେତୁ ମନ୍ଦିରଟି ଏକ ଉଚ୍ଚ ଭିତ୍ତିଭୂମି ଉପରେ ଅବସ୍ଥିତ ଏବଂ ସୋପାନ ଦ୍ୱାରା ଉଠିବାକୁ ହୁଏ, କୋଚେଙ୍ଗଟ ଚୋଳଙ୍କ ନିର୍ମିତ ମନ୍ଦିରମାନଙ୍କ ଢଙ୍ଗରେ, ଯାହା ଏତେ ଉଚ୍ଚ ଗଢ଼ାଯାଇଥିଲା ଯେ ହାତୀ ଗର୍ଭଗୃହକୁ ପ୍ରବେଶ କରିପାରିବ ନାହିଁ। ଗର୍ଭଗୃହରେ ଥାନ୍ଥୋଣ୍ଡ୍ରିଅପ୍ପରଙ୍କ ସ୍ୱୟମ୍ଭୂ ଲିଙ୍ଗ ପ୍ରତିଷ୍ଠିତ, ଏବଂ ଦେବୀ ବାଲ୍ନେଡୁଙ୍କନ୍ନିଙ୍କର ନିଜସ୍ୱ ମନ୍ଦିର ଅଛି। ସନ୍ଥ-କବି ଅରୁଣଗିରିନାଥର ନିଜ ତିରୁପ୍ପୁଗଳ୍‌ରେ ପ୍ରଶଂସା କରିଥିବା ଏହି ମନ୍ଦିରର ମୁରୁଗନ୍ ଏହି ଉଚ୍ଚ ଗ୍ରାମ-ମନ୍ଦିରର ଭକ୍ତି-ଆକର୍ଷଣକୁ ବଢ଼ାଇଥାଆନ୍ତି।",
+    "legends": "ଥାନ୍ଥୋଣ୍ଡ୍ରିଅପ୍ପର — 'ନିଜେ ପ୍ରକଟ ହୋଇଥିବା ପ୍ରଭୁ' — ନାମ ସେହି ପରମ୍ପରାରୁ ଆସିଛି ଯେ ମନ୍ଦିର ସମ୍ମୁଖରେ ପୁଷ୍କରିଣୀ ଖୋଳାଯାଉଥିବା ବେଳେ ଲିଙ୍ଗ ନିଜେ ଉଠି ଆସିଥିଲା। ଆଉ ଏକ କାହାଣୀ କହେ ଯେ ଜଣେ ଚୋଳ ରାଜା, କେତେକ କଥାରେ କୋଚେଙ୍ଗଟ ଚୋଳ, ଏପରି ରୋଗରେ ପୀଡ଼ିତ ହୋଇଥିଲେ ଯାହାକୁ କୌଣସି ବୈଦ୍ୟ ଭଲ କରିପାରିଲେ ନାହିଁ; ଶିବ ସ୍ୱପ୍ନରେ ତାଙ୍କ ନିକଟକୁ ଆସି ଅଠଚାଳିଶ ଦିନ ଧରି ଏକ ହଜାର ଜଣଙ୍କୁ ଭୋଜନ ଦେବାକୁ କହିଲେ, ଏବଂ ତାହା ପୂର୍ଣ୍ଣ କରିବା ପରେ ରାଜା ସୁସ୍ଥ ହେଲେ ଓ ଏଠାରେ ମାଡ଼ା କୋଭିଲ ନିର୍ମାଣ କଲେ। ସିରପ୍ପୁଳି ନାୟନାରଙ୍କ ଜନ୍ମସ୍ଥାନ ହେବାର ଗୌରବ ଏହି ଗ୍ରାମକୁ ଶୈବ ସନ୍ଥଙ୍କ କାହାଣୀ ସହିତ ଆହୁରି ନିବିଡ଼ ଭାବେ ବାନ୍ଧିଥାଏ।",
+    "festivals": "ମନ୍ଦିର ଶୈବ ଉତ୍ସବ-ପଞ୍ଜିକା ପାଳନ କରେ — ମହାଶିବରାତ୍ରି, ପ୍ରଦୋଷମ୍, ମାର୍ଗଳି ମାସ ଏବଂ ବାର୍ଷିକ ବ୍ରହ୍ମୋତ୍ସବମ୍ — ଏବଂ ସିରପ୍ପୁଳି ନାୟନାରଙ୍କ ଜନ୍ମସ୍ଥାନ ହିସାବରେ ତାଙ୍କ ଦିନ ବିଶେଷ ସମ୍ମାନ ସହ ପାଳିତ ହୁଏ। ଉଚ୍ଚ ଗର୍ଭଗୃହ ଉତ୍ସବ ଶୋଭାଯାତ୍ରାକୁ ଡେଲ୍ଟା ଅଞ୍ଚଳର ଗ୍ରାମମାନଙ୍କ ମଧ୍ୟରେ ଏକ ନିଜସ୍ୱ ବୈଶିଷ୍ଟ୍ୟ ଦିଏ।",
+    "experience": "ମାଡ଼ା କୋଭିଲର ଉଚ୍ଚ ଗର୍ଭଗୃହକୁ ଚଢ଼ିବା ଆକ୍କୁରର ତୀର୍ଥଯାତ୍ରାର ଏକ ଅଂଶ, ଏବଂ ସ୍ୱୟମ୍ଭୂ ଥାନ୍ଥୋଣ୍ଡ୍ରିଅପ୍ପରଙ୍କ ଦର୍ଶନ ଏପରି ଏକ ପ୍ରଭୁଙ୍କ ଅନୁଭୂତି ଦିଏ ଯିଏ ନିଜ ଇଚ୍ଛାରେ ପ୍ରକଟ ହୋଇଥିଲେ। ସିରପ୍ପୁଳି ନାୟନାର ଓ ଜଣେ ରାଜାଙ୍କ ରୋଗମୁକ୍ତି ସହ ଏହି ଗ୍ରାମର ସମ୍ପର୍କ ଏହି ଶାନ୍ତ ମନ୍ଦିରକୁ ତା'ର ସାମାନ୍ୟ ଆକାରଠାରୁ ଗଭୀରତା ଦିଏ।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Akkur (Tiru-Aakkur) is about 16 km east of Mayiladuthurai on the Mayiladuthurai–Tharangambadi road, Mayiladuthurai district; the nearest rail head is Mayiladuthurai, with local buses and taxis to the village."
+    "timings": "ସାଧାରଣତଃ ଭୋର ସକାଳୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁନର୍ବାର ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷତଃ ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସ୍ଥାନୀୟ ଭାବେ ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆବଶ୍ୟକ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢଙ୍କା ରହିବା ଉଚିତ; ପାଦୁକା ପ୍ରବେଶଦ୍ୱାରରେ ଛାଡ଼ିବାକୁ ହୁଏ।",
+    "photography": "ବାହ୍ୟ ବାରଣ୍ଡାରେ ସାଧାରଣତଃ ଫଟୋ ଉଠାଇବାକୁ ଅନୁମତି ଅଛି କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ପୂଜାବିଧିର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ଆକ୍କୁର (ତିରୁ-ଆକ୍କୁର) ମୟିଲାଡୁଟୁରାଇ–ତରଙ୍ଗମ୍ବାଡ଼ି ରାସ୍ତାରେ ମୟିଲାଡୁଟୁରାଇଠାରୁ ପ୍ରାୟ ୧୬ କିଲୋମିଟର ପୂର୍ବରେ, ମୟିଲାଡୁଟୁରାଇ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ; ନିକଟତମ ରେଳ ଷ୍ଟେସନ୍ ମୟିଲାଡୁଟୁରାଇ, ସେଠାରୁ ଗ୍ରାମକୁ ସ୍ଥାନୀୟ ବସ୍ ଓ ଟାକ୍ସି ମିଳେ।"
   }
 }

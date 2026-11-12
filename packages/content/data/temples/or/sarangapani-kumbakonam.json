@@ -1,31 +1,38 @@
 {
   "id": "sarangapani-kumbakonam",
   "locale": "or",
+  "name": "ସାରଙ୍ଗପାଣି ମନ୍ଦିର, କୁମ୍ଭକୋଣମ୍",
   "nativeName": "சாரங்கபாணி கோயில், கும்பகோணம்",
+  "deity": "ବିଷ୍ଣୁ ସାରଙ୍ଗପାଣି ରୂପରେ, ସାରଙ୍ଗ ଧନୁର ଧାରକ, ଆରବମୁଦନ ରୂପରେ ଶୟନରତ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ (ଶ୍ରୀବୈଷ୍ଣବ)",
   "location": {
-    "city": "Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "କୁମ୍ଭକୋଣମ୍",
+    "state": "ତାମିଲନାଡ଼ୁ",
     "lat": 10.9616,
     "lng": 79.3775
   },
+  "period": "ଚୋଳ ମୂଳ; ଉତ୍ତରକାଳୀନ ନାୟକ ଶାସନରେ ଉଚ୍ଚ ପ୍ରବେଶଦ୍ୱାର ନିର୍ମିତ",
   "century": 13,
+  "dynasty": "ଚୋଳ ମୂଳ, ନାୟକ ସଂଯୋଜନ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "kaveri-delta-temple-towns"
   ],
+  "summary": "ମନ୍ଦିର-ନଗରୀ କୁମ୍ଭକୋଣମ୍‌ରେ ବିଷ୍ଣୁ ବୈକୁଣ୍ଠରୁ ଏକ ପ୍ରସ୍ତର ରଥରେ ଅବତରଣ କରନ୍ତି: ସାରଙ୍ଗପାଣିଙ୍କ ଗର୍ଭଗୃହ ଅଶ୍ୱ ଓ ହସ୍ତୀ ଟାଣୁଥିବା ଏକ ବିରାଟ ରଥ ଆକାରରେ ଖୋଦିତ, ଦକ୍ଷିଣର ସର୍ବୋଚ୍ଚ ମନ୍ଦିର-ଗୋପୁରମାନଙ୍କ ଅନ୍ୟତମ ତଳେ ପ୍ରବେଶ କରାଯାଏ — ବିଷ୍ଣୁଙ୍କ ପ୍ରମୁଖ ଧାମମାନଙ୍କ ମଧ୍ୟରେ ଗଣାଯାଉଥିବା ଏକ ଦିବ୍ୟଦେଶମ୍।",
   "sections": {
-    "history": "The Sarangapani temple is the greatest Vishnu shrine of Kumbakonam, the ancient Chola temple-town on the Kaveri once called Kudanthai. It is a Divya Desam sung by the Alvars as Thirukudanthai, and tradition sets it among the highest Vaishnava temples of the south, in the company of Srirangam and Tirumala. The temple grew from Chola foundations, and its soaring main gateway was raised in the later centuries under Nayaka patronage. Kumbakonam itself is a dense knot of temples on the river, and Sarangapani stands at its Vaishnava heart, its worship carried by an unbroken Sri Vaishnava tradition and the hymns of the Alvar poet-saints.",
-    "architecture": "The sanctum is the temple's marvel: it is shaped as a vast chariot, a ratha, complete with great stone wheels and drawn by carved horses and elephants, so that the shrine itself becomes the celestial vehicle in which Vishnu is said to have descended to earth. Within it the lord reclines as Aravamudan, 'the insatiable nectar'. The complex is entered from the south beneath an immense eleven-tiered rajagopuram, among the tallest in the Tamil country, and it has two ceremonial gateways — a northern and a southern — used in the two halves of the solar year, marking the sun's northward and southward courses. The golden-lotus tank, the Potramarai, lies within, and pillared halls and sculptured mandapas fill the enclosures in the mature Dravidian manner.",
-    "legends": "The temple's legend tells of the sage Hema Rishi, who did penance on the bank of the golden-lotus tank longing for the Goddess as his daughter. Lakshmi rose from the tank as Komalavalli, and Vishnu came down from Vaikuntha in his chariot to Kumbakonam to wed her — the very descent that the chariot-shaped sanctum commemorates. As Sarangapani he bears the Sarnga, the divine bow, and as Aravamudan he is the nectar of which the devotee can never have enough, a name given by the Alvar Nammalvar in his rapture before the reclining lord. The two gateways and the sun's turning are woven into the same story of the god who comes to earth to answer love.",
-    "festivals": "The great festival is the Brahmotsavam in the Tamil spring, when Sarangapani is drawn through Kumbakonam on towering temple cars; the chariot festival is among the most spectacular of the delta. Vaikunta Ekadasi, the float festival on the Potramarai tank, and the observances of the Sri Vaishnava calendar mark the year. Kumbakonam's town-wide Mahamaham, held once in twelve years when many rivers are believed to meet in its great tank, fills every shrine of the town, Sarangapani among them, with vast crowds of pilgrims.",
-    "experience": "Sarangapani is the heart of a temple-town made for unhurried pilgrimage: Kumbakonam packs many great shrines within a short walk, and the delta around it holds the Chola masterpieces of Darasuram and Gangaikonda Cholapuram and, a little further, island Srirangam. Standing before the chariot-sanctum, with its stone wheels and straining horses, one feels the temple as a vehicle in motion rather than a building at rest. The town is reached easily by road and rail from Thanjavur and Tiruchirapalli, at the green centre of the Kaveri country."
+    "history": "ସାରଙ୍ଗପାଣି ମନ୍ଦିର କୁମ୍ଭକୋଣମ୍‌ର ସର୍ବଶ୍ରେଷ୍ଠ ବିଷ୍ଣୁ ମନ୍ଦିର; କାବେରୀ ତଟର ଏହି ପ୍ରାଚୀନ ଚୋଳ ମନ୍ଦିର-ନଗରୀକୁ ଏକଦା କୁଡ଼ନ୍ତୈ କୁହାଯାଉଥିଲା। ଏହା ଆଳ୍ୱାରମାନଙ୍କ ଦ୍ୱାରା ତିରୁକୁଡ଼ନ୍ତୈ ନାମରେ ସ୍ତୁତ ଏକ ଦିବ୍ୟଦେଶମ୍, ଏବଂ ପରମ୍ପରା ଅନୁସାରେ ଶ୍ରୀରଙ୍ଗମ୍ ଓ ତିରୁମଳା ସହିତ ଏହା ଦକ୍ଷିଣର ଉଚ୍ଚତମ ବୈଷ୍ଣବ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ ସ୍ଥାନିତ। ମନ୍ଦିରଟି ଚୋଳ ଭିତ୍ତିରୁ ବଢ଼ିଥିଲା, ଏବଂ ଏହାର ଉଚ୍ଚ ମୁଖ୍ୟ ପ୍ରବେଶଦ୍ୱାର ପରବର୍ତ୍ତୀ ଶତାବ୍ଦୀମାନଙ୍କରେ ନାୟକ ପୃଷ୍ଠପୋଷକତାରେ ନିର୍ମିତ ହୋଇଥିଲା। କୁମ୍ଭକୋଣମ୍ ନିଜେ ନଦୀତଟରେ ମନ୍ଦିରମାନଙ୍କର ଏକ ଘନ ସମାହାର, ଏବଂ ସାରଙ୍ଗପାଣି ତାହାର ବୈଷ୍ଣବ ହୃଦୟରେ ଛିଡ଼ା ହୋଇଛନ୍ତି; ଏଠାରେ ଅଟୁଟ ଶ୍ରୀବୈଷ୍ଣବ ପରମ୍ପରା ଓ ଆଳ୍ୱାର କବି-ସନ୍ଥମାନଙ୍କ ସ୍ତୋତ୍ର ଦ୍ୱାରା ପୂଜା ବହନ କରାଯାଏ।",
+    "architecture": "ଗର୍ଭଗୃହ ମନ୍ଦିରର ବିସ୍ମୟ: ଏହା ବିଶାଳ ପ୍ରସ୍ତର ଚକ ସହିତ ଏକ ରଥ ଆକାରରେ ଗଠିତ ଏବଂ ଖୋଦିତ ଅଶ୍ୱ ଓ ହସ୍ତୀ ଦ୍ୱାରା ଟଣାଯାଉଛି, ଫଳରେ ମନ୍ଦିର ନିଜେ ସେହି ଦିବ୍ୟ ଯାନ ହୋଇଯାଏ ଯେଉଁଥିରେ ବିଷ୍ଣୁ ପୃଥିବୀକୁ ଅବତରଣ କରିଥିଲେ ବୋଲି କୁହାଯାଏ। ଭିତରେ ପ୍ରଭୁ ଆରବମୁଦନ, 'ଅତୃପ୍ତ ଅମୃତ' ରୂପରେ ଶୟନ କରିଛନ୍ତି। ପରିସରରେ ଦକ୍ଷିଣରୁ ଏକ ବିଶାଳ ଏକାଦଶ-ତଳ ରାଜଗୋପୁର ତଳେ ପ୍ରବେଶ କରାଯାଏ, ଯାହା ତାମିଲ ଦେଶର ସର୍ବୋଚ୍ଚମାନଙ୍କ ମଧ୍ୟରେ ଗଣାଯାଏ; ଏଥିରେ ଦୁଇଟି ଉତ୍ସବୀ ଦ୍ୱାର ଅଛି — ଉତ୍ତର ଓ ଦକ୍ଷିଣ — ଯାହା ସୌର ବର୍ଷର ଦୁଇ ଅର୍ଦ୍ଧରେ ବ୍ୟବହୃତ ହୁଏ ଏବଂ ସୂର୍ଯ୍ୟଙ୍କ ଉତ୍ତରାୟଣ ଓ ଦକ୍ଷିଣାୟନ ଗତିକୁ ସୂଚିତ କରେ। ସୁବର୍ଣ୍ଣ-ପଦ୍ମ ପୁଷ୍କରିଣୀ ପୋତ୍ରାମରାଇ ଭିତରେ ଅବସ୍ଥିତ, ଏବଂ ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ ଓ ମୂର୍ତ୍ତିଖଚିତ ମଣ୍ଡପଗୁଡ଼ିକ ପରିପକ୍ୱ ଦ୍ରାବିଡ଼ ଶୈଳୀରେ ପ୍ରାକାରଗୁଡ଼ିକୁ ପୂର୍ଣ୍ଣ କରିଛି।",
+    "legends": "ମନ୍ଦିରର କିମ୍ବଦନ୍ତୀ ହେମ ଋଷିଙ୍କ କଥା କହେ, ଯିଏ ସୁବର୍ଣ୍ଣ-ପଦ୍ମ ପୁଷ୍କରିଣୀ ତଟରେ ଦେବୀଙ୍କୁ କନ୍ୟା ରୂପେ ପାଇବାର ଆକାଙ୍କ୍ଷାରେ ତପସ୍ୟା କରିଥିଲେ। ଲକ୍ଷ୍ମୀ ପୁଷ୍କରିଣୀରୁ କୋମଳବଲ୍ଲୀ ରୂପେ ଉଦ୍ଭବ ହେଲେ, ଏବଂ ବିଷ୍ଣୁ ତାଙ୍କୁ ବିବାହ କରିବାକୁ ବୈକୁଣ୍ଠରୁ ନିଜ ରଥରେ କୁମ୍ଭକୋଣମ୍‌କୁ ଅବତରଣ କଲେ — ଯେଉଁ ଅବତରଣକୁ ରଥ-ଆକାର ଗର୍ଭଗୃହ ସ୍ମରଣ କରାଏ। ସାରଙ୍ଗପାଣି ରୂପେ ସେ ଦିବ୍ୟ ଧନୁ ସାରଙ୍ଗ ଧାରଣ କରନ୍ତି, ଏବଂ ଆରବମୁଦନ ରୂପେ ସେ ସେହି ଅମୃତ ଯାହାକୁ ଭକ୍ତ କେବେ ତୃପ୍ତ ହୋଇ ପାରେ ନାହିଁ; ଶୟନରତ ପ୍ରଭୁଙ୍କ ସମ୍ମୁଖରେ ପ୍ରେମାନନ୍ଦରେ ଆଳ୍ୱାର ନମ୍ମାଳ୍ୱାର ଏହି ନାମ ଦେଇଥିଲେ। ଦୁଇ ଦ୍ୱାର ଓ ସୂର୍ଯ୍ୟଙ୍କ ଗତିପରିବର୍ତ୍ତନ ସେହି ଏକ କଥାରେ ଗୁନ୍ଥିଛି, ଯେଉଁଥିରେ ଦେବତା ପ୍ରେମର ଉତ୍ତର ଦେବାକୁ ପୃଥିବୀକୁ ଆସନ୍ତି।",
+    "festivals": "ମହାନ ଉତ୍ସବ ହେଉଛି ତାମିଲ ବସନ୍ତରେ ବ୍ରହ୍ମୋତ୍ସବମ୍, ଯେତେବେଳେ ସାରଙ୍ଗପାଣିଙ୍କୁ ଉଚ୍ଚ ମନ୍ଦିର-ରଥରେ କୁମ୍ଭକୋଣମ୍ ଦେଇ ଟଣାଯାଏ; ଏହି ରଥୋତ୍ସବ ଡେଲ୍ଟାର ସବୁଠାରୁ ଅଭୂତପୂର୍ବ ଉତ୍ସବମାନଙ୍କ ମଧ୍ୟରେ ଅନ୍ୟତମ। ବୈକୁଣ୍ଠ ଏକାଦଶୀ, ପୋତ୍ରାମରାଇ ପୁଷ୍କରିଣୀରେ ତରଣୀ ଉତ୍ସବ, ଏବଂ ଶ୍ରୀବୈଷ୍ଣବ ପଞ୍ଜିକାର ଅନୁଷ୍ଠାନମାନେ ବର୍ଷକୁ ଚିହ୍ନିତ କରନ୍ତି। କୁମ୍ଭକୋଣମ୍‌ର ନଗରବ୍ୟାପୀ ମହାମହମ୍, ଯାହା ବାରବର୍ଷରେ ଥରେ ପାଳିତ ହୁଏ ଏବଂ ଯେତେବେଳେ ଏହାର ମହାପୁଷ୍କରିଣୀରେ ଅନେକ ନଦୀ ମିଳିତ ହୁଅନ୍ତି ବୋଲି ବିଶ୍ୱାସ, ସାରଙ୍ଗପାଣି ସମେତ ନଗରର ପ୍ରତ୍ୟେକ ମନ୍ଦିରକୁ ଲକ୍ଷ ଲକ୍ଷ ତୀର୍ଥଯାତ୍ରୀଙ୍କ ଭିଡ଼ରେ ପୂର୍ଣ୍ଣ କରିଦିଏ।",
+    "experience": "ସାରଙ୍ଗପାଣି ଏକ ମନ୍ଦିର-ନଗରର ହୃଦୟ, ଯାହା ଧୀରସ୍ଥିର ତୀର୍ଥଯାତ୍ରା ପାଇଁ ଗଢ଼ା: କୁମ୍ଭକୋଣମ୍‌ରେ ଅନେକ ମହାନ ମନ୍ଦିର ଅଳ୍ପ ଚାଲିବା ଦୂରତାରେ ଅଛି, ଏବଂ ଏହାର ଚାରିପାଖ ଡେଲ୍ଟାରେ ଦାରାସୁରମ୍ ଓ ଗଙ୍ଗାଇକୋଣ୍ଡ ଚୋଳପୁରମ୍‌ର ଚୋଳ ଶ୍ରେଷ୍ଠକୃତି, ଏବଂ ଆଉ ଟିକିଏ ଦୂରରେ ଦ୍ୱୀପ-ନଗରୀ ଶ୍ରୀରଙ୍ଗମ୍ ଅଛି। ଚକ ଓ ଟାଣୁଥିବା ଅଶ୍ୱ ସହିତ ରଥ-ଗର୍ଭଗୃହ ସମ୍ମୁଖରେ ଛିଡ଼ା ହେଲେ, ମନ୍ଦିର ସ୍ଥିର ଇମାରତ ନୁହେଁ ବରଂ ଗତିଶୀଳ ଯାନ ଭଳି ଅନୁଭୂତ ହୁଏ। ତାଞ୍ଜାବୁର ଓ ତିରୁଚିରାପଲ୍ଲୀରୁ ସଡ଼କ ଓ ରେଳପଥରେ ଏହି ନଗରକୁ ସହଜରେ ପହଞ୍ଚି ହୁଏ, କାବେରୀ ଅଞ୍ଚଳର ସବୁଜ କେନ୍ଦ୍ରରେ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. As a living temple, respectful conduct is asked of all visitors.",
-    "photography": "Photography is restricted, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kumbakonam is in Tamil Nadu's Thanjavur district, well connected by road and rail; it lies about 40 km from Thanjavur and Tiruchirapalli, at the centre of the Kaveri delta's temple country."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଅଧିବେଶନ ସହିତ ଖୋଲା ରହେ, ମଧ୍ୟାହ୍ନରେ ଦୀର୍ଘ ବନ୍ଦ ଥାଏ; ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସବୁଠାରୁ ଅଧିକ ଭିଡ଼ ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି ରହିବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲନ୍ତୁ। ଜୀବନ୍ତ ମନ୍ଦିର ଭାବେ ସମସ୍ତ ଦର୍ଶକଙ୍କଠାରୁ ସମ୍ମାନଜନକ ଆଚରଣ ଆଶା କରାଯାଏ।",
+    "photography": "ବିଶେଷତଃ ଗର୍ଭଗୃହ ଓ ତାହାର ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ସୀମିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "କୁମ୍ଭକୋଣମ୍ ତାମିଲନାଡ଼ୁର ତାଞ୍ଜାବୁର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ, ସଡ଼କ ଓ ରେଳପଥରେ ଭଲ ଭାବେ ସଂଯୁକ୍ତ; ଏହା ତାଞ୍ଜାବୁର ଓ ତିରୁଚିରାପଲ୍ଲୀରୁ ପ୍ରାୟ ୪୦ କିମି ଦୂରରେ, କାବେରୀ ଡେଲ୍ଟାର ମନ୍ଦିର-ଭୂମିର କେନ୍ଦ୍ରରେ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sarangapani-kumbakonam.jpg",

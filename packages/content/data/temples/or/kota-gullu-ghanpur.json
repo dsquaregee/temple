@@ -1,30 +1,37 @@
 {
   "id": "kota-gullu-ghanpur",
   "locale": "or",
+  "name": "କୋଟ ଗୁଳ୍ଳୁ (ଘନପୁର ମନ୍ଦିର)",
   "nativeName": "కోట గుళ్ళు (ఘన్‌పూర్ ఆలయాలు)",
+  "deity": "ଶିବ, ଏଠାରେ ପ୍ରାଚୀରବେଷ୍ଟିତ ମନ୍ଦିର ଗୋଷ୍ଠୀର ମୁଖ୍ୟ ମନ୍ଦିରରେ ଗଣପେଶ୍ୱର ରୂପେ ପୂଜିତ।",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Ghanpur, Jayashankar Bhupalpally district",
-    "state": "Telangana",
+    "city": "ଘନପୁର, ଜୟଶଙ୍କର ଭୂପାଳପଲ୍ଲୀ ଜିଲ୍ଲା",
+    "state": "ତେଲେଙ୍ଗାନା",
     "lat": 18.311,
     "lng": 79.872
   },
+  "period": "କାକତୀୟ ଯୁଗ; ମୁଖ୍ୟ ମନ୍ଦିର ଶିଳାଲେଖ ଅନୁସାରେ ପ୍ରାୟ ୧୨୩୪–୩୫ ଖ୍ରୀଷ୍ଟାବ୍ଦର",
   "century": 13,
+  "dynasty": "କାକତୀୟ, ଗଣପତିଦେବଙ୍କ ଅଧୀନରେ, ରେଚେର୍ଲା ସର୍ଦ୍ଦାର ଗଣପତି ରେଡ୍ଡୀଙ୍କ ସହିତ",
+  "style": "କାକତୀୟ ମନ୍ଦିର ସ୍ଥାପତ୍ୟ",
   "unesco": false,
   "circuits": [
     "kakatiya-temples"
   ],
+  "summary": "କୋଟ ଗୁଳ୍ଳୁ ଘନପୁର ନିକଟରେ ପ୍ରାୟ କୋଡ଼ିଏଟି କାକତୀୟ ମନ୍ଦିରର ଏକ ପ୍ରାଚୀରବେଷ୍ଟିତ ଗୋଷ୍ଠୀ, ପ୍ରାୟ ୧୨୩୪ ଖ୍ରୀଷ୍ଟାବ୍ଦର ଗଣପେଶ୍ୱର ମନ୍ଦିରକୁ କେନ୍ଦ୍ର କରି ଗଢ଼ା, ବର୍ତ୍ତମାନ ବହୁଳ ଭାବେ ଭଗ୍ନାବଶେଷ ହେଲେ ମଧ୍ୟ ଖୋଦିତ ପଥରରେ ସମୃଦ୍ଧ।",
   "sections": {
-    "history": "Kota Gullu, \"the temples within the fort\", stands at the edge of Ghanpur village, about nine kilometres from the Ramappa Temple at Palampet. The group belongs to the reign of the Kakatiya king Ganapatideva. An inscription records that a chief named Ganapati Reddy installed the god Ganapateshwara here and endowed land in the cyclic year that corresponds to 1234–35 CE; he is identified as a son of Recherla Rudra, the patron associated with Ramappa. The temples were ringed by a stone enclosure, later reinforced with a mud rampart, and from this the local name derives. The complex suffered over the centuries and is now largely ruined, yet it remains one of the most important Kakatiya sites outside Warangal, and conservation work has been planned for it.",
-    "architecture": "The complex holds roughly twenty to twenty-two shrines within its enclosure. The main temple, the Ganapeswaralayam, faces east, and a pillared natya mandapa of about sixty columns on its south side is thought to have served as the principal entrance. The hall has the broad ranga mandapa and the carved eave brackets characteristic of the Kakatiya style, with composite yali figures and dancing women in the bracket sculpture. The porticos carry mythical animal forms such as the Gaja Kesari, a lion-like creature mounted on an elephant. Several shrines stand in broken form, and fallen sculpture still lies among the standing walls and pillars.",
-    "legends": "Kota Gullu has no single legend as famous as those of the great pilgrimage centres; its story is told mostly through its stones and its inscription. The slab that records Ganapati Reddy installing the god Ganapateshwara links the temple to the devotional world of the Recherla chiefs, who also stood behind Ramappa. Local tradition holds that the complex was once far more complete and magnificent, and visitors often speak of its fallen brackets and carved pillars as the work of the same guilds that raised Palampet. The name Ganapeswara itself honours both the king Ganapatideva and the lord Shiva.",
-    "festivals": "Kota Gullu is mainly visited as a heritage site rather than for a fixed festival calendar. Shiva worship in the Telugu country is marked by Maha Shivaratri, observed in February or March, and by the sacred month of Karthika in the autumn, and local devotees may gather at the site on such days. Confirm any observances and dates locally.",
-    "experience": "Kota Gullu rewards a patient visitor. Walking among the ruined shrines and scattered pillars, one sees how rich the complex once was, and the carved brackets and doorways still show the fine finish of Kakatiya stonework. It is quiet and uncrowded, a good counterpart to the busy and better preserved Ramappa Temple, which lies about nine kilometres away. Allow time to move slowly, watch your footing among the fallen stones, and treat the site with the respect due to a sacred place."
+    "history": "କୋଟ ଗୁଳ୍ଳୁ, 'ଦୁର୍ଗ ଭିତରର ମନ୍ଦିରମାନ', ଘନପୁର ଗାଁର ପ୍ରାନ୍ତରେ, ପାଲମ୍ପେଟ୍‌ର ରାମାପ୍ପା ମନ୍ଦିରରୁ ପ୍ରାୟ ନଅ କିଲୋମିଟର ଦୂରରେ ଅବସ୍ଥିତ। ଏହି ଗୋଷ୍ଠୀ କାକତୀୟ ରାଜା ଗଣପତିଦେବଙ୍କ ଶାସନକାଳର। ଏକ ଶିଳାଲେଖ ଲେଖେ ଯେ ଗଣପତି ରେଡ୍ଡୀ ନାମକ ଜଣେ ସର୍ଦ୍ଦାର ୧୨୩୪–୩୫ ଖ୍ରୀଷ୍ଟାବ୍ଦ ସହ ମେଳ ଖାଉଥିବା ଚକ୍ରୀୟ ବର୍ଷରେ ଏଠାରେ ଗଣପତେଶ୍ୱର ଦେବଙ୍କୁ ପ୍ରତିଷ୍ଠା କରି ଭୂମି ଦାନ କଲେ; ତାଙ୍କୁ ରାମାପ୍ପା ସହ ଜଡ଼ିତ ପୃଷ୍ଠପୋଷକ ରେଚେର୍ଲା ରୁଦ୍ରଙ୍କ ପୁତ୍ର ବୋଲି ଚିହ୍ନଟ କରାଯାଇଛି। ମନ୍ଦିରଗୁଡ଼ିକ ଏକ ପ୍ରସ୍ତର ପ୍ରାଚୀର ଦ୍ୱାରା ଘେରା ଥିଲା, ପରେ ମାଟି ପ୍ରାକାର ଦ୍ୱାରା ଦୃଢ଼ କରାଗଲା, ଏବଂ ସେଥିରୁ ସ୍ଥାନୀୟ ନାମ ଆସିଛି। ଶତାବ୍ଦୀ ଧରି ଏହି ପରିସର କ୍ଷତିଗ୍ରସ୍ତ ହୋଇଛି ଓ ବର୍ତ୍ତମାନ ବହୁଳ ଭାବେ ଭଗ୍ନ, ତଥାପି ଏହା ଓରଙ୍ଗଲ୍ ବାହାରେ ଅନ୍ୟତମ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ କାକତୀୟ ସ୍ଥଳ ଏବଂ ଏହା ପାଇଁ ସଂରକ୍ଷଣ କାର୍ଯ୍ୟ ଯୋଜନା କରାଯାଇଛି।",
+    "architecture": "ପରିସରର ପ୍ରାଚୀର ଭିତରେ ପ୍ରାୟ କୋଡ଼ିଏରୁ ବାଇଶଟି ମନ୍ଦିର ଅଛି। ମୁଖ୍ୟ ମନ୍ଦିର ଗଣପେଶ୍ୱରାଳୟମ୍ ପୂର୍ବମୁଖୀ, ଏବଂ ଏହାର ଦକ୍ଷିଣ ପାର୍ଶ୍ୱରେ ପ୍ରାୟ ଷାଠିଏଟି ସ୍ତମ୍ଭର ଏକ ନାଟ୍ୟ ମଣ୍ଡପ ମୁଖ୍ୟ ପ୍ରବେଶ ଭାବେ ବ୍ୟବହୃତ ହେଉଥିଲା ବୋଲି ମନେକରାଯାଏ। ମଣ୍ଡପରେ ପ୍ରଶସ୍ତ ରଙ୍ଗ ମଣ୍ଡପ ଓ କାକତୀୟ ଶୈଳୀର ବୈଶିଷ୍ଟ୍ୟ ଖୋଦିତ ଛାତ ବନ୍ଧନୀ ଅଛି, ବନ୍ଧନୀ ଭାସ୍କର୍ଯ୍ୟରେ ମିଶ୍ରିତ ଯାଳୀ ମୂର୍ତ୍ତି ଓ ନର୍ତ୍ତକୀ। ବାରଣ୍ଡାରେ ଗଜ କେସରୀ ଭଳି ପୌରାଣିକ ପଶୁ ରୂପ ଅଛି, ଯାହା ହାତୀ ଉପରେ ଆରୋହୀ ସିଂହ ସଦୃଶ ଜୀବ। ଅନେକ ମନ୍ଦିର ଭଗ୍ନ ଅବସ୍ଥାରେ ଠିଆ ହୋଇଛି, ଏବଂ ଖସି ପଡ଼ିଥିବା ଭାସ୍କର୍ଯ୍ୟ ଏବେ ବି ଠିଆ ପ୍ରାଚୀର ଓ ସ୍ତମ୍ଭ ମଧ୍ୟରେ ପଡ଼ି ରହିଛି।",
+    "legends": "ମହାନ ତୀର୍ଥକେନ୍ଦ୍ରମାନଙ୍କ ପରି କୋଟ ଗୁଳ୍ଳୁର କୌଣସି ଏକ ପ୍ରସିଦ୍ଧ କିମ୍ବଦନ୍ତୀ ନାହିଁ; ଏହାର କାହାଣୀ ମୁଖ୍ୟତଃ ଏହାର ପଥର ଓ ଶିଳାଲେଖ ମାଧ୍ୟମରେ କୁହାଯାଏ। ଗଣପତି ରେଡ୍ଡୀ ଗଣପତେଶ୍ୱର ଦେବଙ୍କୁ ପ୍ରତିଷ୍ଠା କରିବାର ଯେଉଁ ଫଳକ ଲିପିବଦ୍ଧ କରେ, ତାହା ମନ୍ଦିରକୁ ରେଚେର୍ଲା ସର୍ଦ୍ଦାରଙ୍କ ଭକ୍ତି ଜଗତ ସହ ଯୋଡ଼େ, ଯେଉଁମାନେ ରାମାପ୍ପାର ମଧ୍ୟ ପୃଷ୍ଠପୋଷକ ଥିଲେ। ସ୍ଥାନୀୟ ପରମ୍ପରା କହେ ଯେ ପରିସର ଏକଦା ବହୁତ ଅଧିକ ସମ୍ପୂର୍ଣ୍ଣ ଓ ଭବ୍ୟ ଥିଲା, ଆଉ ଦର୍ଶକମାନେ ଖସିପଡ଼ିଥିବା ବନ୍ଧନୀ ଓ ଖୋଦିତ ସ୍ତମ୍ଭକୁ ପାଲମ୍ପେଟ୍ ଗଢ଼ିଥିବା ସମାନ ଶିଳ୍ପୀ ସଂଘର କାମ ବୋଲି କହନ୍ତି। ଗଣପେଶ୍ୱର ନାମ ନିଜେ ରାଜା ଗଣପତିଦେବ ଓ ପ୍ରଭୁ ଶିବ ଦୁହିଁଙ୍କୁ ସମ୍ମାନ ଜଣାଏ।",
+    "festivals": "କୋଟ ଗୁଳ୍ଳୁକୁ ମୁଖ୍ୟତଃ ନିର୍ଦ୍ଦିଷ୍ଟ ଉତ୍ସବ ପଞ୍ଜିକା ପାଇଁ ନୁହେଁ, ଏକ ଐତିହ୍ୟ ସ୍ଥଳ ଭାବେ ଦେଖିବାକୁ ଆସନ୍ତି। ତେଲୁଗୁ ଦେଶରେ ଶିବ ପୂଜା ଫେବୃଆରୀ ବା ମାର୍ଚ୍ଚରେ ପାଳିତ ମହାଶିବରାତ୍ରି ଓ ଶରତରେ ପବିତ୍ର କାର୍ତ୍ତିକ ମାସରେ ଚିହ୍ନିତ ହୁଏ, ଏବଂ ସ୍ଥାନୀୟ ଭକ୍ତମାନେ ଏପରି ଦିନରେ ସ୍ଥଳରେ ଏକତ୍ରିତ ହୋଇପାରନ୍ତି। ଯେକୌଣସି ଅନୁଷ୍ଠାନ ଓ ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "କୋଟ ଗୁଳ୍ଳୁ ଧୈର୍ଯ୍ୟବାନ ଦର୍ଶକଙ୍କୁ ପୁରସ୍କୃତ କରେ। ଭଗ୍ନ ମନ୍ଦିର ଓ ଛିନ୍ନଭିନ୍ନ ସ୍ତମ୍ଭ ମଧ୍ୟରେ ଚାଲିଲେ ଦେଖାଯାଏ ଏହି ପରିସର ଏକଦା କେତେ ସମୃଦ୍ଧ ଥିଲା, ଆଉ ଖୋଦିତ ବନ୍ଧନୀ ଓ ଦ୍ୱାରପଥ ଏବେ ବି କାକତୀୟ ପ୍ରସ୍ତର କାମର ସୂକ୍ଷ୍ମ ସମାପ୍ତି ଦର୍ଶାଏ। ଏହା ଶାନ୍ତ ଓ ଭିଡ଼ହୀନ, ପ୍ରାୟ ନଅ କିଲୋମିଟର ଦୂରରେ ଥିବା ବ୍ୟସ୍ତ ଓ ଅଧିକ ସୁରକ୍ଷିତ ରାମାପ୍ପା ମନ୍ଦିରର ଏକ ଉତ୍ତମ ପରିପୂରକ। ଧୀରେ ଚାଲିବା ପାଇଁ ସମୟ ରଖନ୍ତୁ, ପଡ଼ିଥିବା ପଥର ମଧ୍ୟରେ ପାଦ ଦେବାରେ ସାବଧାନ ରୁହନ୍ତୁ, ଏବଂ ପବିତ୍ର ସ୍ଥାନର ଉପଯୁକ୍ତ ସମ୍ମାନ ସହ ସ୍ଥଳକୁ ଆଚରଣ କରନ୍ତୁ।"
   },
   "visit": {
-    "timings": "Kota Gullu is a protected heritage site rather than a regularly ticketed shrine, and opening hours and access are not fixed. Please confirm access and any entry arrangements locally before travelling, and plan a daylight visit.",
-    "dressCode": "Modest traditional dress is appreciated, with shoulders and knees covered. The site is a place of worship, so please behave respectfully.",
-    "photography": "Photography of the ruins and carved stonework is generally welcome at a heritage site of this kind; follow any posted rules and the instructions of site staff, and do not climb on the structures.",
-    "gettingThere": "Kota Gullu is at Ghanpur in Mulugu mandal, Jayashankar Bhupalpally district, about nine kilometres north-west of the Ramappa Temple at Palampet. Warangal is the nearest major rail junction and Hyderabad the nearest airport; the site is reached by road."
+    "timings": "କୋଟ ଗୁଳ୍ଳୁ ଏକ ସୁରକ୍ଷିତ ଐତିହ୍ୟ ସ୍ଥଳ, ନିୟମିତ ଟିକେଟ୍ ଥିବା ମନ୍ଦିର ନୁହେଁ, ଏବଂ ଖୋଲିବା ସମୟ ଓ ପ୍ରବେଶ ନିର୍ଦ୍ଦିଷ୍ଟ ନୁହେଁ। ଯାତ୍ରା ପୂର୍ବରୁ ପ୍ରବେଶ ଓ ଯେକୌଣସି ପ୍ରବେଶ ବ୍ୟବସ୍ଥା ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ, ଏବଂ ଦିନବେଳା ଦର୍ଶନ ଯୋଜନା କରନ୍ତୁ।",
+    "dressCode": "ମର୍ଯ୍ୟାଦାପୂର୍ଣ୍ଣ ପାରମ୍ପରିକ ପୋଷାକ ପ୍ରଶଂସନୀୟ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କିବା ଉଚିତ। ସ୍ଥଳଟି ଏକ ପୂଜାସ୍ଥାନ, ତେଣୁ ଦୟାକରି ସମ୍ମାନଜନକ ଆଚରଣ କରନ୍ତୁ।",
+    "photography": "ଏପରି ଐତିହ୍ୟ ସ୍ଥଳରେ ଭଗ୍ନାବଶେଷ ଓ ଖୋଦିତ ପଥରର ଫଟୋ ଉଠାଇବା ସାଧାରଣତଃ ସ୍ୱାଗତଯୋଗ୍ୟ; ଲିଖିତ ନିୟମ ଓ ସ୍ଥଳ କର୍ମଚାରୀଙ୍କ ନିର୍ଦ୍ଦେଶ ପାଳନ କରନ୍ତୁ, ଏବଂ ସଂରଚନା ଉପରେ ଚଢ଼ନ୍ତୁ ନାହିଁ।",
+    "gettingThere": "କୋଟ ଗୁଳ୍ଳୁ ଜୟଶଙ୍କର ଭୂପାଳପଲ୍ଲୀ ଜିଲ୍ଲାର ମୁଲୁଗୁ ମଣ୍ଡଳର ଘନପୁରରେ, ପାଲମ୍ପେଟ୍‌ର ରାମାପ୍ପା ମନ୍ଦିରର ପ୍ରାୟ ନଅ କିଲୋମିଟର ଉତ୍ତର-ପଶ୍ଚିମରେ ଅବସ୍ଥିତ। ଓରଙ୍ଗଲ୍ ନିକଟତମ ପ୍ରମୁଖ ରେଳ ଜଙ୍କସନ୍ ଓ ହାଇଦ୍ରାବାଦ ନିକଟତମ ବିମାନବନ୍ଦର; ସ୍ଥଳକୁ ସଡ଼କ ପଥରେ ପହଞ୍ଚିହୁଏ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kota-gullu-ghanpur.jpg",

@@ -1,30 +1,37 @@
 {
   "id": "bhaktavatsala-thiruninravur",
   "locale": "or",
+  "name": "ଭକ୍ତବତ୍ସଳ ପେରୁମାଳ ମନ୍ଦିର, ତିରୁନିନ୍ରାଭୁର",
   "nativeName": "பக்தவத்சல பெருமாள் கோயில், திருநின்றவூர்",
+  "deity": "ବିଷ୍ଣୁ ଭକ୍ତବତ୍ସଳ ପେରୁମାଳ ରୂପେ, ଠିଆ ହୋଇ ପୂର୍ବମୁଖୀ, ଦେବୀ ଏନ୍ନୈ ପେତ୍ର ଥାୟାର (ସୁଧାବଲ୍ଲୀ)ଙ୍କ ସହିତ",
+  "tradition": "ବୈଷ୍ଣବ ପରମ୍ପରା",
   "location": {
-    "city": "Thiruninravur, Tiruvallur",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁନିନ୍ରାଭୁର, ତିରୁବଲ୍ଲୂର",
+    "state": "ତାମିଲ୍‌ନାଡ଼ୁ",
     "lat": 13.1125,
     "lng": 80.0261
   },
+  "period": "ତୋଣ୍ଡାଇ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଲାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ତିରୁମଙ୍ଗାଇ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ସମ୍ମାନିତ",
   "century": 8,
+  "dynasty": "ପଲ୍ଲବ ମୂଳ, ପରବର୍ତ୍ତୀ ଚୋଳ ଓ ବିଜୟନଗର ଯୋଗ ସହିତ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "ଚେନ୍ନାଇର ପଶ୍ଚିମ ପ୍ରାନ୍ତରେ ବିଷ୍ଣୁ ଭକ୍ତବତ୍ସଳ ପେରୁମାଳ ରୂପେ ଠିଆ ହୋଇଛନ୍ତି, ଭକ୍ତମାନଙ୍କୁ ଭଲପାଉଥିବା ପ୍ରଭୁ — ତୋଣ୍ଡାଇ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ଶ୍ରୀନିବାସ କ୍ଷେତ୍ରମ୍ ରୂପେ ମଧ୍ୟ ସ୍ମରଣୀୟ।",
   "sections": {
-    "history": "Thiruninravur, on the western outskirts of Chennai, is one of the 108 Divya Desams in Thondai Nadu, praised by Thirumangai Alvar in the Nalayira Divya Prabandham. The temple is believed to have been raised by the Pallavas in the late eighth century, with later contributions from the medieval Cholas and the Vijayanagara kings. The place is also called Srinivasa Kshetram, as Vishnu is said to have made his abode here. Tradition tells that Thirumangai Alvar passed through without singing a full decad, and that the Lord followed him; his two verses on this Lord are found within decads sung at other shrines. The temple is today administered by the Tamil Nadu Hindu Religious and Charitable Endowments department.",
-    "architecture": "The temple is entered beneath a gateway tower of the Vijayanagara period, and gathers around the sanctum of Bhaktavatsala Perumal, who stands facing east. The Goddess Ennai Petra Thayar, also called Sudhavalli, has her own shrine. Its sacred tank is the Varuna Pushkarini, for Varuna is said to have worshipped Vishnu here. Daily worship follows six rituals through the day. In the same town stands the Hridayaleeswarar temple of Shiva, linked with the Nayanar Poosalar, who built a temple to the Lord in his heart.",
-    "legends": "The sthala purana tells that Lakshmi came to this place, and her father Samudra Raja, the lord of the ocean, followed her and addressed her as Ennai Petra Thayar — the mother who bore me. From this the Goddess takes her name here. Tradition also says that Vishnu stayed at this kshetra, hence its other name, Srinivasa Kshetram, and that when Thirumangai Alvar went by without singing, the Lord came after him. Versions of the tale differ in detail, but all return to the lord's love for his devotees.",
-    "festivals": "Vaikunta Ekadashi is the greatest day of the year, when devotees gather before dawn for the opening of the northern gateway. The yearly Brahmotsavam brings the processional deity out through the streets of the town on a succession of vahanas. Confirm dates locally.",
-    "experience": "Thiruninravur is among the easiest Divya Desams to reach from Chennai, yet it keeps a village-temple calm. Visitors first see the Vijayanagara-period gateway, then stand before Bhaktavatsala Perumal. Many make a point of offering respects at the shrine of Ennai Petra Thayar, whose name carries the whole tenderness of the tale. The Varuna Pushkarini is a quiet place to pause afterwards."
+    "history": "ଚେନ୍ନାଇର ପଶ୍ଚିମ ଉପକଣ୍ଠରେ ଥିବା ତିରୁନିନ୍ରାଭୁର ତୋଣ୍ଡାଇ ନାଡୁର ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍‌ରୁ ଏକ, ନାଲାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ତିରୁମଙ୍ଗାଇ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ପ୍ରଶଂସିତ। ମନ୍ଦିର ଅଷ୍ଟମ ଶତାବ୍ଦୀର ଶେଷ ଭାଗରେ ପଲ୍ଲବମାନଙ୍କ ଦ୍ୱାରା ନିର୍ମିତ ବୋଲି ବିଶ୍ୱାସ, ମଧ୍ୟଯୁଗୀୟ ଚୋଳ ଓ ବିଜୟନଗର ରାଜାଙ୍କ ପରବର୍ତ୍ତୀ ଯୋଗଦାନ ସହିତ। ସ୍ଥାନଟି ଶ୍ରୀନିବାସ କ୍ଷେତ୍ରମ୍ ନାମରେ ମଧ୍ୟ ପରିଚିତ, କାରଣ ବିଷ୍ଣୁ ଏଠାରେ ନିଜର ବାସସ୍ଥାନ କରିଥିଲେ ବୋଲି କୁହାଯାଏ। ପରମ୍ପରା କହେ ଯେ ତିରୁମଙ୍ଗାଇ ଆଳ୍ୱାର ପୂର୍ଣ୍ଣ ଦଶକ ଗାନ ନକରି ଚାଲିଯାଇଥିଲେ, ଏବଂ ପ୍ରଭୁ ତାଙ୍କ ପଛେ ପଛେ ଗଲେ; ଏହି ପ୍ରଭୁଙ୍କ ଉପରେ ତାଙ୍କ ଦୁଇଟି ପଦ ଅନ୍ୟ ଦେବାଳୟରେ ଗୀତ ଦଶକମାନଙ୍କ ଭିତରେ ମିଳେ। ମନ୍ଦିର ଆଜି ତାମିଲ୍‌ନାଡ଼ୁ ହିନ୍ଦୁ ଧାର୍ମିକ ଓ ଦାନ ଅନୁଦାନ ବିଭାଗ ଦ୍ୱାରା ପରିଚାଳିତ।",
+    "architecture": "ମନ୍ଦିରକୁ ବିଜୟନଗର ଯୁଗର ଏକ ପ୍ରବେଶ ଗୋପୁର ତଳେ ପ୍ରବେଶ କରାଯାଏ, ଏବଂ ଏହା ପୂର୍ବମୁଖୀ ଠିଆ ହୋଇଥିବା ଭକ୍ତବତ୍ସଳ ପେରୁମାଳଙ୍କ ଗର୍ଭଗୃହ ଚାରିପାଖରେ ଗଢ଼ି ଉଠିଛି। ଦେବୀ ଏନ୍ନୈ ପେତ୍ର ଥାୟାର, ଯାହାଙ୍କୁ ସୁଧାବଲ୍ଲୀ ମଧ୍ୟ କୁହାଯାଏ, ତାଙ୍କ ନିଜସ୍ୱ ଦେବାଳୟ ଅଛି। ଏହାର ପବିତ୍ର ପୁଷ୍କରିଣୀ ବରୁଣ ପୁଷ୍କରିଣୀ, କାରଣ ବରୁଣ ଏଠାରେ ବିଷ୍ଣୁଙ୍କ ପୂଜା କରିଥିଲେ ବୋଲି କୁହାଯାଏ। ଦୈନିକ ପୂଜା ଦିନସାରା ଛଅଟି ଅନୁଷ୍ଠାନ ଅନୁସରଣ କରେ। ସେହି ସହରରେ ଶିବଙ୍କ ହୃଦୟାଳେଶ୍ୱର ମନ୍ଦିର ଅଛି, ଯାହା ନାୟନମାର ପୂସଲାରଙ୍କ ସହ ଜଡ଼ିତ, ଯେ ନିଜ ହୃଦୟରେ ପ୍ରଭୁଙ୍କ ପାଇଁ ଏକ ମନ୍ଦିର ଗଢ଼ିଥିଲେ।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ କହେ ଯେ ଲକ୍ଷ୍ମୀ ଏହି ସ୍ଥାନକୁ ଆସିଥିଲେ, ଏବଂ ତାଙ୍କ ପିତା ସମୁଦ୍ର ରାଜା, ସାଗରର ପ୍ରଭୁ, ତାଙ୍କ ପଛେ ପଛେ ଆସି ତାଙ୍କୁ ଏନ୍ନୈ ପେତ୍ର ଥାୟାର — ମୋତେ ଜନ୍ମ ଦେଇଥିବା ମାତା — ବୋଲି ସମ୍ବୋଧନ କଲେ। ଏଥିରୁ ଦେବୀ ଏଠାରେ ନିଜ ନାମ ପାଇଛନ୍ତି। ପରମ୍ପରା ଏହା ମଧ୍ୟ କହେ ଯେ ବିଷ୍ଣୁ ଏହି କ୍ଷେତ୍ରରେ ରହିଲେ, ତେଣୁ ଏହାର ଅନ୍ୟ ନାମ ଶ୍ରୀନିବାସ କ୍ଷେତ୍ରମ୍, ଏବଂ ଯେତେବେଳେ ତିରୁମଙ୍ଗାଇ ଆଳ୍ୱାର ଗାନ ନକରି ଚାଲିଗଲେ, ପ୍ରଭୁ ତାଙ୍କ ପଛେ ଆସିଲେ। କାହାଣୀର ସବିଶେଷରେ ସଂସ୍କରଣ ଭିନ୍ନ, କିନ୍ତୁ ସମସ୍ତେ ଭକ୍ତମାନଙ୍କ ପ୍ରତି ପ୍ରଭୁଙ୍କ ପ୍ରେମକୁ ଫେରନ୍ତି।",
+    "festivals": "ବୈକୁଣ୍ଠ ଏକାଦଶୀ ବର୍ଷର ସର୍ବମହାନ ଦିନ, ଯେତେବେଳେ ଉତ୍ତର ଦ୍ୱାର ଖୋଲିବା ପାଇଁ ଭକ୍ତମାନେ ଭୋର ପୂର୍ବରୁ ସମବେତ ହୁଅନ୍ତି। ବାର୍ଷିକ ବ୍ରହ୍ମୋତ୍ସବମ୍ ଶୋଭାଯାତ୍ରା ବିଗ୍ରହଙ୍କୁ ଏକାଧିକ ବାହନରେ ସହରର ରାସ୍ତାମାନଙ୍କ ମାଧ୍ୟମରେ ବାହାର କରେ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ତିରୁନିନ୍ରାଭୁର ଚେନ୍ନାଇରୁ ପହଞ୍ଚିବା ପାଇଁ ସବୁଠାରୁ ସହଜ ଦିବ୍ୟ ଦେଶମ୍‌ମାନଙ୍କ ମଧ୍ୟରୁ ଏକ, ତଥାପି ଏହା ଏକ ଗ୍ରାମୀଣ ମନ୍ଦିରର ଶାନ୍ତି ବଜାୟ ରଖେ। ଦର୍ଶକ ପ୍ରଥମେ ବିଜୟନଗର ଯୁଗର ପ୍ରବେଶ ଦ୍ୱାର ଦେଖନ୍ତି, ତା'ପରେ ଭକ୍ତବତ୍ସଳ ପେରୁମାଳଙ୍କ ସମ୍ମୁଖରେ ଠିଆ ହୁଅନ୍ତି। ଅନେକେ ଏନ୍ନୈ ପେତ୍ର ଥାୟାରଙ୍କ ଦେବାଳୟରେ ପ୍ରଣାମ ଜଣାଇବାକୁ ଗୁରୁତ୍ୱ ଦିଅନ୍ତି, ଯାହାଙ୍କ ନାମ କାହାଣୀର ସମ୍ପୂର୍ଣ୍ଣ ସ୍ନେହକୁ ବହନ କରେ। ପରେ ବରୁଣ ପୁଷ୍କରିଣୀ ବିରାମ ନେବା ପାଇଁ ଏକ ଶାନ୍ତ ସ୍ଥାନ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thiruninravur lies in Tiruvallur district on Chennai's western outskirts, near Avadi, and is served by Thiruninravur railway station on the Chennai Central–Arakkonam suburban line. It is reached by road from Chennai, and the nearest airport is Chennai."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଏବଂ ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ ସହିତ ଖୋଲା; ଉତ୍ସବ ଦିନ ସର୍ବାଧିକ ଭିଡ଼ର। ଯିବା ପୂର୍ବରୁ ସ୍ଥାନୀୟ ଭାବେ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ଆବଶ୍ୟକ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବ; ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲିବେ। ଲିଖିତ ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଓ ତା'ର ଆଖପାଖରେ ଫଟୋଗ୍ରାଫି ନିଷିଦ୍ଧ; ଲିଖିତ ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ତିରୁନିନ୍ରାଭୁର ଚେନ୍ନାଇର ପଶ୍ଚିମ ଉପକଣ୍ଠରେ, ଆବାଡ଼ି ନିକଟରେ, ତିରୁବଲ୍ଲୂର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ, ଏବଂ ଚେନ୍ନାଇ ସେଣ୍ଟ୍ରାଲ୍–ଅରକ୍କୋଣମ୍ ଉପନଗରୀୟ ଲାଇନରେ ତିରୁନିନ୍ରାଭୁର ରେଳ ଷ୍ଟେସନ ଦ୍ୱାରା ସେବିତ। ଚେନ୍ନାଇରୁ ସଡ଼କ ପଥରେ ପହଞ୍ଚିହୁଏ, ଏବଂ ନିକଟତମ ବିମାନବନ୍ଦର ଚେନ୍ନାଇ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.jpg",

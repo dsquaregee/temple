@@ -1,30 +1,37 @@
 {
   "id": "halebidu-hoysaleswara",
   "locale": "or",
+  "name": "ହୋୟସଳେଶ୍ୱର ମନ୍ଦିର, ହାଳେବୀଡ୍",
   "nativeName": "ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯ, ಹಳೇಬೀಡು",
+  "deity": "ଶିବ, ହୋୟସଳେଶ୍ୱର ରୂପେ ପୂଜିତ, ଶାନ୍ତଳେଶ୍ୱର ନାମକ ଯୁଗ୍ମ ଲିଙ୍ଗ ସହିତ",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Halebidu",
-    "state": "Karnataka",
+    "city": "ହାଳେବୀଡ୍",
+    "state": "କର୍ଣ୍ଣାଟକ",
     "lat": 13.2127,
     "lng": 76.2003
   },
+  "period": "ହୋୟସଳ, ପ୍ରାୟ ୧୧୨୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ଆରମ୍ଭ",
   "century": 12,
+  "dynasty": "ହୋୟସଳ",
+  "style": "ହୋୟସଳ (ବେସର)",
   "unesco": true,
   "circuits": [
     "sacred-ensembles-of-the-hoysalas"
   ],
+  "summary": "ହୋୟସଳ ରାଜଧାନୀର ମହାନ ଶୈବ ମନ୍ଦିର — ହାଳେବୀଡ୍‌ର କାନ୍ଥ ସମ୍ଭବତଃ ଭାରତର ସବୁଠାରୁ ଘନ ଭାସ୍କର୍ଯ୍ୟ କଥା ବହନ କରେ — ହଜାର ହଜାର ଫୁଟ ହାତୀ, ଦେବତା ଓ ମହାକାବ୍ୟ ଦୃଶ୍ୟ, ଏକ ଯୁଗ୍ମ ଦେବାଳୟକୁ ଘେରି ଯାହା କେବେ ସମ୍ପୂର୍ଣ୍ଣ ହେଲା ନାହିଁ।",
   "sections": {
-    "history": "Hoysaleswara was begun around 1121 CE at Dwarasamudra, the Hoysala capital, during the reign of Vishnuvardhana; its patron was the wealthy officer Ketamalla, and the work drew on royal resources over decades. It was conceived as a double temple — one shrine for Hoysaleswara, named for the king, and a second for Shantaleswara, named for Queen Shantala Devi — a matched pair unusual in scale and ambition. Despite generations of labour the carving was never entirely completed, a silent record of how vast the design was. The capital's fortunes turned in the fourteenth century: Dwarasamudra was sacked by the armies of the Delhi Sultanate under Malik Kafur in 1311 and again soon after, and the city that had been the Hoysala heart declined into 'Halebidu', literally the 'old capital' or 'ruined city'. The temple survived, and in 2023 it was inscribed by UNESCO among the Sacred Ensembles of the Hoysalas.",
-    "architecture": "Halebidu is a dvikuta — a twin-shrined temple — its two sanctuaries set side by side and fronted by two pillared halls, each facing a large monolithic Nandi pavilion. Like its sister at Belur it is built of soapstone on a star-shaped plan, but where Belur dazzles with its bracket figures, Halebidu overwhelms by sheer narrative density. Continuous horizontal friezes band the entire outer wall: a marching line of elephants at the base — no two alike — then lions, horsemen, foliage, mythical beasts, and above them scene after scene from the Ramayana, the Mahabharata and the Bhagavata, interleaved with large images of the gods. The effect is of a stone encyclopaedia of Hindu myth. That the upper towers were never built only sharpens attention on the walls, where the Hoysala sculptors reached the limit of what stone can be made to do.",
-    "legends": "As a temple of Shiva, Halebidu's imagery gathers the great Shaiva stories — Shiva as Nataraja lord of the dance, as Bhairava, as the slayer of demons, alongside Vishnu's avatars and the goddess in her many forms, for the Hoysala court honoured the whole pantheon. The pairing of the two lingas, Hoysaleswara and Shantaleswara, is remembered as an act of devotion between king and queen, so that the temple is read as much as a royal offering as a public shrine. Local memory also preserves the trauma of the sack of Dwarasamudra, and the name Halebidu itself carries the elegy of a great capital reduced to a village around its surviving temples.",
-    "festivals": "Hoysaleswara remains a living Shaiva temple and observes the Shaiva calendar. Maha Shivaratri, the night of Shiva, is the principal festival, when devotees keep vigil and the linga receives special abhisheka. The monthly pradosha observances and the seasonal festivals of the Kannada country are also kept. Because the temple stands amid a protected archaeological zone, festival worship here has an unusually contemplative setting, framed by lawns and the ruins of the old capital.",
-    "experience": "Give Halebidu time to walk the full circuit of its walls — the reward is cumulative, as the same procession of elephants and epics reveals new detail the longer you look. The two Nandi mandapas, each sheltering a huge polished bull, are favourite resting points. A small archaeological museum nearby holds loose sculptures recovered from the site. Set in the quiet Malnad countryside and only a short drive from Belur, Halebidu is best paired with its Vaishnava sister for a single day that shows both faces of Hoysala genius."
+    "history": "ହୋୟସଳେଶ୍ୱର ପ୍ରାୟ ୧୧୨୧ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ହୋୟସଳ ରାଜଧାନୀ ଦ୍ୱାରସମୁଦ୍ରରେ ବିଷ୍ଣୁବର୍ଦ୍ଧନଙ୍କ ଶାସନକାଳରେ ଆରମ୍ଭ ହୋଇଥିଲା; ଏହାର ପୃଷ୍ଠପୋଷକ ଥିଲେ ଧନୀ ଅଧିକାରୀ କେତମଲ୍ଲ, ଏବଂ କାମ ଦଶନ୍ଧି ଧରି ରାଜକୀୟ ସମ୍ବଳରେ ଚାଲିଥିଲା। ଏହାକୁ ଏକ ଯୁଗ୍ମ ମନ୍ଦିର ରୂପେ ପରିକଳ୍ପନା କରାଯାଇଥିଲା — ରାଜାଙ୍କ ନାମରେ ହୋୟସଳେଶ୍ୱରଙ୍କ ପାଇଁ ଏକ ଦେବାଳୟ, ଏବଂ ରାଣୀ ଶାନ୍ତଳା ଦେବୀଙ୍କ ନାମରେ ଶାନ୍ତଳେଶ୍ୱରଙ୍କ ପାଇଁ ଦ୍ୱିତୀୟଟି — ଆକାର ଓ ଆକାଂକ୍ଷାରେ ଅସାଧାରଣ ଏକ ମେଳ। ପିଢ଼ି ପିଢ଼ିର ଶ୍ରମ ସତ୍ତ୍ୱେ ଖୋଦନ କେବେ ସମ୍ପୂର୍ଣ୍ଣ ହେଲା ନାହିଁ — ପରିକଳ୍ପନା କେତେ ବିଶାଳ ଥିଲା ତାହାର ଏକ ନୀରବ ସାକ୍ଷ୍ୟ। ଚତୁର୍ଦ୍ଦଶ ଶତାବ୍ଦୀରେ ରାଜଧାନୀର ଭାଗ୍ୟ ବଦଳିଗଲା: ୧୩୧୧ରେ ମାଲିକ କାଫୁରଙ୍କ ଅଧୀନରେ ଦିଲ୍ଲୀ ସୁଲତାନାତର ସେନାମାନେ ଦ୍ୱାରସମୁଦ୍ରକୁ ଲୁଟିଲେ ଏବଂ ପୁଣି ଶୀଘ୍ର ଲୁଟିଲେ, ଏବଂ ହୋୟସଳଙ୍କ ହୃଦୟ ଥିବା ନଗରୀ କ୍ଷୟ ପାଇ ‘ହାଳେବୀଡ୍’ ହେଲା — ଅକ୍ଷରଶଃ ‘ପୁରୁଣା ରାଜଧାନୀ’ ବା ‘ଧ୍ୱସ୍ତ ନଗର’। ମନ୍ଦିର ବଞ୍ଚିଗଲା, ଏବଂ ୨୦୨୩ରେ ୟୁନେସ୍କୋ ଏହାକୁ ହୋୟସଳଙ୍କ ପବିତ୍ର ସମୂହ ମଧ୍ୟରେ ଅନ୍ତର୍ଭୁକ୍ତ କଲା।",
+    "architecture": "ହାଳେବୀଡ୍ ଏକ ଦ୍ୱିକୂଟ — ଯୁଗ୍ମ-ଦେବାଳୟ ମନ୍ଦିର — ଯାହାର ଦୁଇ ଗର୍ଭଗୃହ ପାଖାପାଖି ସ୍ଥାପିତ ଏବଂ ସମ୍ମୁଖରେ ଦୁଇ ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ, ପ୍ରତ୍ୟେକ ଗୋଟିଏ ବୃହତ୍ ଏକଶିଳା ନନ୍ଦୀ ମଣ୍ଡପ ଆଡ଼େ ମୁହଁ କରିଛି। ବେଳୁରର ଭଗିନୀ ମନ୍ଦିର ପରି ଏହା ମଧ୍ୟ ତାରକାକାର ଯୋଜନାରେ ସାବୁନ ପଥରରେ ନିର୍ମିତ, କିନ୍ତୁ ବେଳୁର ଯେଉଁଠି ତା’ର ବ୍ରାକେଟ ମୂର୍ତ୍ତିରେ ଚମତ୍କୃତ କରେ, ହାଳେବୀଡ୍ ସେଠାରେ କେବଳ ଆଖ୍ୟାନର ଘନତ୍ୱରେ ଅଭିଭୂତ କରେ। ଅବିରତ ଆନୁଭୂମିକ ପଟ୍ଟି ସମଗ୍ର ବାହ୍ୟ କାନ୍ଥକୁ ଘେରିଛି: ତଳେ ହାତୀମାନଙ୍କ ଏକ ଚାଲୁଥିବା ଧାଡ଼ି — କେହି ଦୁଇଟି ସମାନ ନୁହେଁ — ତା’ପରେ ସିଂହ, ଅଶ୍ୱାରୋହୀ, ପତ୍ରାବଳୀ, ପୌରାଣିକ ପଶୁ, ଏବଂ ଉପରେ ରାମାୟଣ, ମହାଭାରତ ଓ ଭାଗବତର ଦୃଶ୍ୟ ପରେ ଦୃଶ୍ୟ, ଦେବତାମାନଙ୍କ ବୃହତ୍ ମୂର୍ତ୍ତି ସହ ଅନ୍ତର୍ଗ୍ରଥିତ। ପ୍ରଭାବ ହେଉଛି ହିନ୍ଦୁ ପୁରାଣର ଏକ ପଥର ବିଶ୍ୱକୋଷ। ଉପରର ଶିଖର କେବେ ନିର୍ମିତ ହୋଇନଥିବାରୁ ଦୃଷ୍ଟି କାନ୍ଥ ଉପରେ ଆହୁରି ଗଭୀର ହୁଏ, ଯେଉଁଠି ହୋୟସଳ ଶିଳ୍ପୀମାନେ ପଥରରୁ ଯେତିକି ସମ୍ଭବ ତାହାର ସୀମାରେ ପହଞ୍ଚିଥିଲେ।",
+    "legends": "ଶିବଙ୍କ ମନ୍ଦିର ଭାବେ ହାଳେବୀଡ୍‌ର ମୂର୍ତ୍ତିକଳା ମହାନ ଶୈବ କାହାଣୀ ଏକତ୍ର କରେ — ନୃତ୍ୟର ପ୍ରଭୁ ନଟରାଜ ଭାବେ ଶିବ, ଭୈରବ ଭାବେ, ଦୈତ୍ୟସଂହାରକ ଭାବେ, ବିଷ୍ଣୁଙ୍କ ଅବତାର ଓ ବହୁରୂପୀ ଦେବୀଙ୍କ ସହ, କାରଣ ହୋୟସଳ ରାଜସଭା ସମଗ୍ର ଦେବମଣ୍ଡଳୀକୁ ସମ୍ମାନ କରୁଥିଲା। ଦୁଇ ଲିଙ୍ଗ, ହୋୟସଳେଶ୍ୱର ଓ ଶାନ୍ତଳେଶ୍ୱରଙ୍କ ଯୁଗଳ ରାଜା ଓ ରାଣୀଙ୍କ ମଧ୍ୟରେ ଭକ୍ତିର କାର୍ଯ୍ୟ ଭାବେ ସ୍ମରଣୀୟ, ତେଣୁ ମନ୍ଦିରକୁ ଜନ ଦେବାଳୟ ଭଳି ରାଜକୀୟ ଅର୍ପଣ ଭାବେ ମଧ୍ୟ ପଢ଼ାଯାଏ। ସ୍ଥାନୀୟ ସ୍ମୃତି ଦ୍ୱାରସମୁଦ୍ର ଲୁଟର ଆଘାତକୁ ମଧ୍ୟ ସଂରକ୍ଷିତ ରଖିଛି, ଏବଂ ହାଳେବୀଡ୍ ନାମ ନିଜେ ବଞ୍ଚିଥିବା ମନ୍ଦିରଗୁଡ଼ିକ ଚାରିପାଖରେ ଗାଁରେ ପରିଣତ ଏକ ମହାନ ରାଜଧାନୀର ଶୋକଗାଥା ବହନ କରେ।",
+    "festivals": "ହୋୟସଳେଶ୍ୱର ଏକ ଜୀବନ୍ତ ଶୈବ ମନ୍ଦିର ଭାବେ ରହିଛି ଏବଂ ଶୈବ ପଞ୍ଜିକା ପାଳନ କରେ। ଶିବଙ୍କ ରାତି ମହାଶିବରାତ୍ରି ମୁଖ୍ୟ ଉତ୍ସବ, ଯେତେବେଳେ ଭକ୍ତମାନେ ଜାଗରଣ କରନ୍ତି ଏବଂ ଲିଙ୍ଗ ବିଶେଷ ଅଭିଷେକ ପାଏ। ମାସିକ ପ୍ରଦୋଷ ପାଳନ ଓ କନ୍ନଡ଼ ଅଞ୍ଚଳର ଋତୁଭିତ୍ତିକ ଉତ୍ସବ ମଧ୍ୟ ପାଳିତ ହୁଏ। ମନ୍ଦିର ଏକ ସଂରକ୍ଷିତ ପୁରାତାତ୍ତ୍ୱିକ କ୍ଷେତ୍ର ମଧ୍ୟରେ ଥିବାରୁ ଏଠାର ଉତ୍ସବ ପୂଜାର ପରିବେଶ ଅସାଧାରଣ ଭାବେ ଚିନ୍ତନଶୀଳ, ତୃଣଭୂମି ଓ ପୁରାତନ ରାଜଧାନୀର ଧ୍ୱଂସାବଶେଷରେ ଘେରା।",
+    "experience": "କାନ୍ଥର ସମ୍ପୂର୍ଣ୍ଣ ପରିକ୍ରମା କରିବାକୁ ହାଳେବୀଡ୍‌କୁ ସମୟ ଦିଅନ୍ତୁ — ପୁରସ୍କାର ସଞ୍ଚିତ, କାରଣ ହାତୀ ଓ ମହାକାବ୍ୟର ସେହି ଶୋଭାଯାତ୍ରା ଯେତେ ଅଧିକ ଦେଖିବେ, ନୂଆ ବିବରଣ ପ୍ରକାଶ ପାଏ। ଦୁଇ ନନ୍ଦୀ ମଣ୍ଡପ, ପ୍ରତ୍ୟେକ ଗୋଟିଏ ବିଶାଳ ପଲିସ କରାଯାଇଥିବା ବୃଷଭକୁ ଆଶ୍ରୟ ଦେଉଥିବା, ପ୍ରିୟ ବିଶ୍ରାମ ସ୍ଥାନ। ପାଖରେ ଏକ ଛୋଟ ପୁରାତାତ୍ତ୍ୱିକ ସଂଗ୍ରହାଳୟ ସ୍ଥାନରୁ ଉଦ୍ଧାର ହୋଇଥିବା ଖୋଲା ମୂର୍ତ୍ତି ରଖିଛି। ଶାନ୍ତ ମାଲନାଡ଼ ଗ୍ରାମାଞ୍ଚଳରେ ଏବଂ ବେଳୁରରୁ ଅଳ୍ପ ଦୂରରେ ଥିବା ହାଳେବୀଡ୍, ହୋୟସଳ ପ୍ରତିଭାର ଉଭୟ ରୂପ ଦେଖାଉଥିବା ଏକ ଦିନ ପାଇଁ ତା’ର ବୈଷ୍ଣବ ଭଗିନୀ ସହ ଯୋଡ଼ିବା ଉତ୍ତମ।"
   },
   "visit": {
-    "timings": "Open daily, roughly 6:00 am to 6:00 pm. The site is an ASI-protected monument as well as a working temple; mornings are quietest.",
-    "dressCode": "Dress modestly out of respect for the living shrine — cover shoulders and knees; remove footwear before entering the sanctum.",
-    "photography": "Photography of the exterior sculpture is freely allowed and richly repaid; avoid flash and respect any restriction at the sanctum.",
-    "gettingThere": "Halebidu lies in Hassan district, about 16 km from Belur and some 30 km from Hassan town (the nearest major railhead), roughly 210 km from Bengaluru by road."
+    "timings": "ପ୍ରତିଦିନ ଖୋଲା, ପ୍ରାୟ ପୂର୍ବାହ୍ନ ୬:୦୦ରୁ ଅପରାହ୍ନ ୬:୦୦ ପର୍ଯ୍ୟନ୍ତ। ସ୍ଥାନଟି ଭାରତୀୟ ପୁରାତତ୍ତ୍ୱ ସର୍ବେକ୍ଷଣ ଦ୍ୱାରା ସଂରକ୍ଷିତ ସ୍ମାରକ ଓ ଏକ ସକ୍ରିୟ ମନ୍ଦିର ଉଭୟ; ସକାଳ ସବୁଠାରୁ ଶାନ୍ତ।",
+    "dressCode": "ଜୀବନ୍ତ ଦେବାଳୟ ପ୍ରତି ସମ୍ମାନରେ ଶିଷ୍ଟ ବସ୍ତ୍ର ପିନ୍ଧନ୍ତୁ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଆଚ୍ଛାଦନ କରନ୍ତୁ; ଗର୍ଭଗୃହ ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲନ୍ତୁ।",
+    "photography": "ବାହ୍ୟ ମୂର୍ତ୍ତିକଳାର ଫଟୋଗ୍ରାଫି ମୁକ୍ତ ଭାବେ ଅନୁମୋଦିତ ଏବଂ ଭରପୂର ପୁରସ୍କାରଦାୟୀ; ଫ୍ଲାସ ଏଡ଼ାନ୍ତୁ ଏବଂ ଗର୍ଭଗୃହରେ କୌଣସି ନିଷେଧକୁ ସମ୍ମାନ କରନ୍ତୁ।",
+    "gettingThere": "ହାଳେବୀଡ୍ ହାସନ ଜିଲ୍ଲାରେ, ବେଳୁରରୁ ପ୍ରାୟ ୧୬ କି.ମି. ଏବଂ ହାସନ ସହର (ନିକଟତମ ପ୍ରମୁଖ ରେଳ ଷ୍ଟେସନ)ରୁ ପ୍ରାୟ ୩୦ କି.ମି. ଦୂରରେ, ବେଙ୍ଗାଲୁରୁରୁ ସଡ଼କ ଦ୍ୱାରା ପ୍ରାୟ ୨୧୦ କି.ମି.।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/halebidu-hoysaleswara.jpg",

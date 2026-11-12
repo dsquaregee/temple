@@ -1,30 +1,37 @@
 {
   "id": "triprayar-rama",
   "locale": "or",
+  "name": "ତ୍ରିପ୍ରୟାର ଶ୍ରୀରାମ ମନ୍ଦିର",
   "nativeName": "തൃപ്രയാർ ശ്രീരാമസ്വാമി ക്ഷേത്രം",
+  "deity": "ରାମ ରୂପେ ବିଷ୍ଣୁ, ଶ୍ରୀରାମସ୍ୱାମୀ ଭାବରେ ପୂଜିତ, ଚତୁର୍ଭୁଜ ତ୍ରିପ୍ରୟାର ତେବର",
+  "tradition": "ବୈଷ୍ଣବ ପରମ୍ପରା",
   "location": {
-    "city": "Triprayar",
-    "state": "Kerala",
+    "city": "ତ୍ରିପ୍ରୟାର",
+    "state": "କେରଳ",
     "lat": 10.4142,
     "lng": 76.1155
   },
+  "period": "ପରମ୍ପରା ଅନୁସାରେ ପ୍ରାଚୀନ; କାଲିକଟର ସାମୁଦ୍ରୀ ଓ ପରେ କୋଚିନର ଶାସକମାନଙ୍କ ଅଧୀନରେ ରହିଥିଲା",
   "century": 17,
+  "dynasty": "କେରଳ (ସାମୁଦ୍ରୀ ଓ କୋଚିନ ପୃଷ୍ଠପୋଷକତା)",
+  "style": "ପାରମ୍ପରିକ କେରଳ ଶୈଳୀ",
   "unesco": false,
   "circuits": [
     "nalambalam"
   ],
+  "summary": "କେରଳ ଉପକୂଳ ନିକଟ ତେବ୍ରା ନଦୀ କୂଳରେ, ତ୍ରିପ୍ରୟାରର ଚତୁର୍ଭୁଜ ରାମ ନାଲମ୍ବଲମ ତୀର୍ଥଯାତ୍ରାର ପ୍ରଥମ ମନ୍ଦିର ଏବଂ ପ୍ରାଚୀନ ଅରାଟ୍ଟୁପୁଝା ପୂରମର ଅଧିଷ୍ଠାତା ପ୍ରଭୁ।",
   "sections": {
-    "history": "Triprayar's beginnings belong to tradition rather than record. The image of Rama is said to have been worshipped by Krishna himself at Dwaraka; when that city sank beneath the sea, the waters carried it to the Kerala shore near Chettuva, where fishermen drew it up together with images of Rama's three brothers. The local chieftain Vakkayil Kaimal, guided by an astrological consultation, installed the four in separate shrines: Rama here at Triprayar, Bharata at Irinjalakuda, Lakshmana at Moozhikkulam and Shatrughna at Payammal — the four temples that make up the Nalambalam. In historical times the temple lay within the domain of the Zamorins of Calicut, passed through the hands of the Dutch and the Mysore sultans, and came at last to the rulers of Cochin. It is administered today by the Cochin Devaswom Board.",
-    "architecture": "Triprayar is built in the Kerala manner, low and enclosed beside the river. Its sanctum is a circular srikovil beneath a conical roof sheathed in copper, and the temple is celebrated above all for its woodwork: carvings on the sanctum walls tell episodes of the Ramayana, and the copper-roofed namaskara mandapam before the shrine carries twenty-four carved wooden panels, among them the nine planetary deities. Within, Rama stands four-armed, bearing the conch, the discus, the bow and a garland — a form that shows him at once as Vishnu and as the warrior-prince of the epic.",
-    "legends": "Devotion holds that the image shows Rama just after he slew the demon Khara in the Dandaka forest, so that a trace of fierce power still clings to the Lord here. Hanuman is believed to be present though no image of him stands in the temple, and tradition marks a spot in the precinct with his arrival bearing news of Sita. Chathan, a guardian spirit, is also bound up with the shrine, and the offering called Chathan Bhandaram is made to ward off evil influences. Most charming is Meenoottu, in which devotees feed the fish of the river beside the temple as an offering to Rama.",
-    "festivals": "Ekadashi in the Malayalam month of Vrishchikam (November–December) is Triprayar's own great day, when Rama goes out in stately procession with elephants. In Meenam (March–April), Thriprayar Thevar travels to the Arattupuzha Pooram, where he presides over the gathering of deities from the surrounding villages, one of the oldest temple festivals in Kerala. In Karkidakam (July–August) the Nalambalam pilgrimage begins here. Confirm dates locally.",
-    "experience": "Triprayar is a quiet, river-bound temple, and the slow curve of the Theevra past its walls sets the mood. In Karkidakam the precinct fills before dawn with Nalambalam pilgrims eager to begin their round, many reciting the Ramayana as they wait. At other times it is unhurried: pause at the water's edge, where families feed the fish, and look closely at the carved panels of the namaskara mandapam before moving on."
+    "history": "ତ୍ରିପ୍ରୟାରର ଆରମ୍ଭ ଲିଖିତ ଇତିହାସଠାରୁ ଅଧିକ ପରମ୍ପରାର ଅଂଶ। କୁହାଯାଏ ଯେ ରାମଙ୍କ ମୂର୍ତ୍ତିକୁ ସ୍ୱୟଂ କୃଷ୍ଣ ଦ୍ୱାରକାରେ ପୂଜା କରୁଥିଲେ; ସେହି ନଗରୀ ସମୁଦ୍ରରେ ବୁଡ଼ିଗଲେ ଜଳ ତାହାକୁ ଚେଟ୍ଟୁୱା ନିକଟ କେରଳ ଉପକୂଳକୁ ବୋହି ଆଣିଲା, ଯେଉଁଠାରେ ଜେଲେମାନେ ରାମଙ୍କ ତିନି ଭାଇଙ୍କ ମୂର୍ତ୍ତି ସହିତ ଏହାକୁ ଟାଣି ଉଠାଇଲେ। ସ୍ଥାନୀୟ ଅଧିପତି ବକ୍କାୟିଲ କାଇମଲ, ଜ୍ୟୋତିଷ ପରାମର୍ଶ ଅନୁସାରେ, ଚାରିଜଣଙ୍କୁ ଅଲଗା ଅଲଗା ମନ୍ଦିରରେ ପ୍ରତିଷ୍ଠା କଲେ: ରାମ ଏଠି ତ୍ରିପ୍ରୟାରରେ, ଭରତ ଇରିଞ୍ଜାଲକୁଡ଼ାରେ, ଲକ୍ଷ୍ମଣ ମୂଝିକ୍କୁଳମରେ ଏବଂ ଶତ୍ରୁଘ୍ନ ପାୟମ୍ମଲରେ — ଏହି ଚାରି ମନ୍ଦିର ମିଶି ନାଲମ୍ବଲମ ଗଠନ କରେ। ଐତିହାସିକ କାଳରେ ମନ୍ଦିରଟି କାଲିକଟର ସାମୁଦ୍ରୀମାନଙ୍କ ଅଧିକାରରେ ଥିଲା, ଡଚ୍ ଓ ମହୀଶୂରର ସୁଲତାନମାନଙ୍କ ହାତ ବୁଲିଲା, ଏବଂ ଶେଷରେ କୋଚିନର ଶାସକମାନଙ୍କ ହାତକୁ ଆସିଲା। ଆଜି ଏହା କୋଚିନ ଦେବସ୍ୱମ ବୋର୍ଡ ଦ୍ୱାରା ପରିଚାଳିତ।",
+    "architecture": "ତ୍ରିପ୍ରୟାର କେରଳ ଶୈଳୀରେ ନିର୍ମିତ, ନଦୀ କୂଳରେ ନିମ୍ନ ଓ ଘେରା। ଏହାର ଗର୍ଭଗୃହ ତମ୍ବାରେ ଆବୃତ ଶଙ୍କୁ ଆକାର ଛାତ ତଳେ ଏକ ବୃତ୍ତାକାର ଶ୍ରୀକୋଭିଲ, ଏବଂ ମନ୍ଦିର ବିଶେଷତଃ ଏହାର କାଠ କାମ ପାଇଁ ପ୍ରସିଦ୍ଧ: ଗର୍ଭଗୃହର କାନ୍ଥରେ ଖୋଦିତ ଚିତ୍ର ରାମାୟଣର ପ୍ରସଙ୍ଗ କହେ, ଏବଂ ମନ୍ଦିର ସମ୍ମୁଖର ତମ୍ବା ଛାତ ବିଶିଷ୍ଟ ନମସ୍କାର ମଣ୍ଡପମରେ ଚବିଶଟି ଖୋଦିତ କାଠ ଫଳକ ଅଛି, ସେଥିରେ ନବଗ୍ରହ ମଧ୍ୟ ଅଛନ୍ତି। ଭିତରେ ରାମ ଚତୁର୍ଭୁଜ ରୂପେ ଦଣ୍ଡାୟମାନ, ଶଙ୍ଖ, ଚକ୍ର, ଧନୁ ଓ ମାଳା ଧାରଣ କରି — ଏହି ରୂପ ତାଙ୍କୁ ଏକାଧାରରେ ବିଷ୍ଣୁ ଓ ମହାକାବ୍ୟର ଯୋଦ୍ଧା ରାଜକୁମାର ରୂପେ ଦର୍ଶାଏ।",
+    "legends": "ଭକ୍ତମାନଙ୍କ ବିଶ୍ୱାସ ଯେ ଏହି ମୂର୍ତ୍ତି ଦଣ୍ଡକ ବନରେ ଖର ରାକ୍ଷସକୁ ବଧ କରିବା ପରେ ରାମଙ୍କ ରୂପ ଦର୍ଶାଏ, ତେଣୁ ଏଠାରେ ପ୍ରଭୁଙ୍କଠାରେ ଉଗ୍ର ଶକ୍ତିର ଏକ ଚିହ୍ନ ଲାଗି ରହିଛି। ମନ୍ଦିରରେ ହନୁମାନଙ୍କର କୌଣସି ମୂର୍ତ୍ତି ନ ଥିଲେ ମଧ୍ୟ ସେ ଉପସ୍ଥିତ ବୋଲି ବିଶ୍ୱାସ, ଏବଂ ପରମ୍ପରା ପରିସରରେ ଏକ ସ୍ଥାନକୁ ସୀତାଙ୍କ ସମ୍ବାଦ ନେଇ ତାଙ୍କ ଆଗମନର ସ୍ଥାନ ଭାବେ ଚିହ୍ନଟ କରେ। ଚାତନ, ଜଣେ ରକ୍ଷକ ଆତ୍ମା, ମଧ୍ୟ ଏହି ମନ୍ଦିର ସହ ଜଡ଼ିତ, ଏବଂ ଚାତନ ଭଣ୍ଡାରମ ନାମକ ଅର୍ପଣ ଅଶୁଭ ପ୍ରଭାବରୁ ରକ୍ଷା ପାଇଁ କରାଯାଏ। ସବୁଠାରୁ ମନୋହର ମୀନୁଟ୍ଟୁ, ଯେଉଁଥିରେ ଭକ୍ତମାନେ ମନ୍ଦିର ପାଖ ନଦୀର ମାଛମାନଙ୍କୁ ରାମଙ୍କ ଉଦ୍ଦେଶ୍ୟରେ ଅର୍ପଣ ରୂପେ ଖାଦ୍ୟ ଦିଅନ୍ତି।",
+    "festivals": "ମଳୟାଳମ ମାସ ବୃଶ୍ଚିକମ (ନଭେମ୍ବର–ଡିସେମ୍ବର)ର ଏକାଦଶୀ ତ୍ରିପ୍ରୟାରର ନିଜସ୍ୱ ମହାଦିବସ, ଯେଉଁଦିନ ରାମ ହାତୀମାନଙ୍କ ସହ ଗମ୍ଭୀର ଶୋଭାଯାତ୍ରାରେ ବାହାରନ୍ତି। ମୀନମ (ମାର୍ଚ୍ଚ–ଏପ୍ରିଲ)ରେ ତ୍ରିପ୍ରୟାର ତେବର ଅରାଟ୍ଟୁପୁଝା ପୂରମକୁ ଯାତ୍ରା କରନ୍ତି, ଯେଉଁଠାରେ ସେ ଆଖପାଖ ଗାଁର ଦେବତାମାନଙ୍କ ସମାବେଶର ଅଧ୍ୟକ୍ଷତା କରନ୍ତି, ଏହା କେରଳର ସବୁଠାରୁ ପ୍ରାଚୀନ ମନ୍ଦିର ଉତ୍ସବ ମଧ୍ୟରୁ ଅନ୍ୟତମ। କର୍କିଡକମ (ଜୁଲାଇ–ଅଗଷ୍ଟ)ରେ ନାଲମ୍ବଲମ ତୀର୍ଥଯାତ୍ରା ଏଠାରୁ ଆରମ୍ଭ ହୁଏ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ତ୍ରିପ୍ରୟାର ଏକ ଶାନ୍ତ, ନଦୀବେଷ୍ଟିତ ମନ୍ଦିର, ଏବଂ ଏହାର କାନ୍ଥ ପାଖରେ ତେବ୍ରାର ଧୀର ବକ୍ରତା ପରିବେଶକୁ ସ୍ୱର ଦିଏ। କର୍କିଡକମରେ ପରିସର ଭୋର ପୂର୍ବରୁ ନାଲମ୍ବଲମ ତୀର୍ଥଯାତ୍ରୀମାନଙ୍କଠାରେ ପୂର୍ଣ୍ଣ ହୁଏ, ସେମାନେ ଯାତ୍ରା ଆରମ୍ଭ କରିବାକୁ ଉତ୍ସୁକ, ଅନେକେ ଅପେକ୍ଷା କରୁଥିବା ବେଳେ ରାମାୟଣ ପାଠ କରନ୍ତି। ଅନ୍ୟ ସମୟରେ ଏହା ଅଧିକ ଶାନ୍ତ: ଜଳକୂଳରେ ଅଟକି ଯାଆନ୍ତୁ, ଯେଉଁଠାରେ ପରିବାରମାନେ ମାଛଙ୍କୁ ଖାଇବାକୁ ଦିଅନ୍ତି, ଏବଂ ଆଗକୁ ବଢ଼ିବା ପୂର୍ବରୁ ନମସ୍କାର ମଣ୍ଡପମର ଖୋଦିତ ଫଳକଗୁଡ଼ିକୁ ଭଲ ଭାବେ ଦେଖନ୍ତୁ।"
   },
   "visit": {
-    "timings": "Open daily from early morning with a midday closure, and again in the evening; hours are extended during Karkidakam for Nalambalam pilgrims. Confirm timings locally.",
-    "dressCode": "Traditional Kerala temple dress applies: men wear a mundu (dhoti) and remove their shirts before entering; women wear a saree, set-mundu or churidar. Entry is generally reserved for Hindus, per Kerala custom.",
-    "photography": "Photography is not permitted inside the temple; the riverside and outer surroundings may be photographed.",
-    "gettingThere": "Triprayar lies on the coastal highway (NH 66) in Thrissur district, about 25 km south-west of Thrissur, which has the nearest major railway station; Kochi international airport is roughly 60 km away by road. The Nalambalam round continues south to Irinjalakuda, about 20 km away."
+    "timings": "ପ୍ରତିଦିନ ଭୋରରୁ ମଧ୍ୟାହ୍ନ ବନ୍ଦ ସହ ଖୋଲା ରହେ, ଏବଂ ସନ୍ଧ୍ୟାରେ ପୁଣି; କର୍କିଡକମରେ ନାଲମ୍ବଲମ ତୀର୍ଥଯାତ୍ରୀମାନଙ୍କ ପାଇଁ ସମୟ ବଢ଼ାଯାଏ। ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ପାରମ୍ପରିକ କେରଳ ମନ୍ଦିର ପୋଷାକ ପ୍ରଯୁଜ୍ୟ: ପୁରୁଷମାନେ ମୁଣ୍ଡୁ (ଧୋତି) ପିନ୍ଧନ୍ତି ଓ ପ୍ରବେଶ ପୂର୍ବରୁ ଜାମା ଖୋଲନ୍ତି; ମହିଳାମାନେ ଶାଢ଼ୀ, ସେଟ୍-ମୁଣ୍ଡୁ କିମ୍ବା ଚୁଡ଼ିଦାର ପିନ୍ଧନ୍ତି। କେରଳର ପ୍ରଥା ଅନୁସାରେ ପ୍ରବେଶ ସାଧାରଣତଃ ହିନ୍ଦୁମାନଙ୍କ ପାଇଁ ସଂରକ୍ଷିତ।",
+    "photography": "ମନ୍ଦିର ଭିତରେ ଫଟୋ ଉଠାଇବା ଅନୁମୋଦିତ ନୁହେଁ; ନଦୀକୂଳ ଓ ବାହାରର ଆଖପାଖ ଫଟୋ ଉଠାଯାଇପାରେ।",
+    "gettingThere": "ତ୍ରିପ୍ରୟାର ତ୍ରିଶୂର ଜିଲ୍ଲାରେ ଉପକୂଳ ରାଜପଥ (ଏନ୍ଏଚ୍ ୬୬) ଉପରେ, ତ୍ରିଶୂରଠାରୁ ପ୍ରାୟ ୨୫ କିଲୋମିଟର ଦକ୍ଷିଣ-ପଶ୍ଚିମରେ ଅବସ୍ଥିତ, ଯେଉଁଠାରେ ନିକଟତମ ପ୍ରମୁଖ ରେଳ ଷ୍ଟେସନ ଅଛି; କୋଚି ଅନ୍ତର୍ଜାତୀୟ ବିମାନବନ୍ଦର ସଡ଼କ ପଥରେ ପ୍ରାୟ ୬୦ କିଲୋମିଟର ଦୂରରେ। ନାଲମ୍ବଲମ ଯାତ୍ରା ଦକ୍ଷିଣକୁ ପ୍ରାୟ ୨୦ କିଲୋମିଟର ଦୂରରେ ଥିବା ଇରିଞ୍ଜାଲକୁଡ଼ା ପର୍ଯ୍ୟନ୍ତ ଜାରି ରହେ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/triprayar-rama.jpg",

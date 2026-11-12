@@ -1,14 +1,20 @@
 {
   "id": "srisailam-mallikarjuna",
   "locale": "or",
+  "name": "ଶ୍ରୀଶୈଳମ୍ ମଲ୍ଲିକାର୍ଜୁନ ମନ୍ଦିର",
   "nativeName": "శ్రీశైలం మల్లికార్జున స్వామి ఆలయం",
+  "deity": "ଶିବ ମଲ୍ଲିକାର୍ଜୁନ ରୂପେ (ଏକ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ) ଓ ଦେବୀ ଭ୍ରମରାମ୍ବା (ଏକ ଶକ୍ତିପୀଠ) ସହ",
+  "tradition": "ଶୈବ ଧର୍ମ ଓ ଶାକ୍ତ ଧର୍ମ",
   "location": {
-    "city": "Srisailam",
-    "state": "Andhra Pradesh",
+    "city": "ଶ୍ରୀଶୈଳମ୍",
+    "state": "ଆନ୍ଧ୍ରପ୍ରଦେଶ",
     "lat": 16.0733,
     "lng": 78.8681
   },
+  "period": "ପ୍ରାଚୀନ ତୀର୍ଥ; ରେଡ୍ଡି ଓ ବିଜୟନଗର ରାଜାମାନଙ୍କ ଅଧୀନରେ ବିକଶିତ",
   "century": 14,
+  "dynasty": "ରେଡ୍ଡି, ବିଜୟନଗର ଏବଂ ପରବର୍ତ୍ତୀ ବଂଶ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "trilinga-kshetras",
@@ -17,18 +23,19 @@
     "paadal-petra-sthalams",
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "କୃଷ୍ଣା ନଦୀ ଉପରେ ଥିବା ବନାବୃତ ନଲ୍ଲମଳା ପାହାଡ଼ରେ, ଶ୍ରୀଶୈଳମ୍ ଭାରତୀୟ ତୀର୍ଥମାନଙ୍କ ମଧ୍ୟରେ ବିରଳ, କାରଣ ଏହା ଏକାଧାରରେ ମଲ୍ଲିକାର୍ଜୁନ ରୂପେ ଶିବଙ୍କ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ଏବଂ ଭ୍ରମରାମ୍ବା ରୂପେ ଦେବୀଙ୍କ ଶକ୍ତିପୀଠ — ଭକ୍ତିର ଦୁଇ ମହାନ ଧାରାର ଏକ ଶିଖର।",
   "sections": {
-    "history": "Srisailam has been sacred for well over a thousand years, praised by saints and poets and honoured in the Shaiva and Shakta scriptures alike. Set deep in the Nallamala forest above the gorge of the Krishna, its remoteness only deepened its sanctity. The fortified walls, gateways, and pillared halls that shape the temple today were largely raised under the Reddy kings and the Vijayanagara emperors, who counted Srisailam among the foremost pilgrimages of the Deccan; the great teacher Adi Shankara is traditionally said to have worshipped here.",
-    "architecture": "The temple stands within a large fortified enclosure whose stone walls carry long friezes of carved reliefs — processions, myths, and figures — among the finest such sculpted walls in the south. Within, the Mallikarjuna shrine holds the Jyotirlinga, and a separate shrine enshrines the goddess Bhramaramba, \"she of the bees,\" so that Shiva and Shakti are worshipped together at one site. Gateway towers, mandapas, and later additions cluster within the walls, high above the river that has now been dammed into a great reservoir below.",
-    "legends": "Srisailam’s legend tells of Shiva and Parvati following their son Kartikeya, who had withdrawn in a sulk to a far hill; unable to bear the separation, the divine parents came to dwell on this mountain to be near him, taking the forms of Mallikarjuna and Bhramaramba. The name joins mallika, jasmine, with Arjuna, and the goddess Bhramaramba is remembered for taking the form of a bee, bhramara, to destroy a demon. As one of the twelve Jyotirlingas and one of the eighteen Shakti Peethas, the hill gathers two of the greatest pilgrimage traditions into a single ascent.",
-    "festivals": "Maha Shivaratri is Srisailam’s supreme festival, drawing immense crowds through the night, and the Brahmotsavam that surrounds it fills days with processions and temple cars. Ugadi, the Telugu new year, and the Navaratri worship of Bhramaramba are kept with special grandeur. Kumbham and Dasara bring further celebration, and pilgrims come year-round to a shrine that unites the vows of both Shaivas and devotees of the goddess.",
-    "experience": "The road to Srisailam winds up through the Nallamala forest, and arrival at the hilltop temple carries the sense of a hard-won pilgrimage. Within the fortified walls, the long sculpted friezes reward slow walking, relief after relief emerging in the light, before darshan of the Jyotirlinga and the goddess. The forest air, the distant gleam of the dammed Krishna, and the knowledge of standing at once in a Jyotirlinga and a Shakti Peetha give the place a rare gravity; many pilgrims complete both shrines before descending through the hills."
+    "history": "ଶ୍ରୀଶୈଳମ୍ ହଜାରେ ବର୍ଷରୁ ଅଧିକ ସମୟ ଧରି ପବିତ୍ର, ସନ୍ଥ ଓ କବିମାନଙ୍କ ଦ୍ୱାରା ପ୍ରଶଂସିତ ଏବଂ ଶୈବ ଓ ଶାକ୍ତ ଶାସ୍ତ୍ର ଉଭୟରେ ସମ୍ମାନିତ। କୃଷ୍ଣାର ଖାଲ ଉପରେ ନଲ୍ଲମଳା ଅରଣ୍ୟର ଗଭୀରରେ ଅବସ୍ଥିତ ହୋଇଥିବାରୁ ଏହାର ଦୂରତା ଏହାର ପବିତ୍ରତାକୁ ଆହୁରି ଗଭୀର କରିଛି। ଆଜି ମନ୍ଦିରକୁ ଆକାର ଦେଉଥିବା ସୁରକ୍ଷିତ ପ୍ରାଚୀର, ଗୋପୁର ଓ ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପମାନ ମୁଖ୍ୟତଃ ରେଡ୍ଡି ରାଜା ଓ ବିଜୟନଗର ସମ୍ରାଟମାନଙ୍କ ଅଧୀନରେ ନିର୍ମିତ, ଯେଉଁମାନେ ଶ୍ରୀଶୈଳମ୍‌କୁ ଦାକ୍ଷିଣାତ୍ୟର ଅଗ୍ରଗଣ୍ୟ ତୀର୍ଥ ମଧ୍ୟରେ ଗଣିଥିଲେ; ମହାନ ଆଚାର୍ଯ୍ୟ ଆଦି ଶଙ୍କର ଏଠାରେ ପୂଜା କରିଥିଲେ ବୋଲି ପରମ୍ପରାଗତ ଭାବେ କୁହାଯାଏ।",
+    "architecture": "ମନ୍ଦିର ଏକ ବିଶାଳ ସୁରକ୍ଷିତ ପରିସର ମଧ୍ୟରେ ଅବସ୍ଥିତ, ଯାହାର ପଥର ପ୍ରାଚୀରରେ ଶୋଭାଯାତ୍ରା, ପୁରାଣକଥା ଓ ମୂର୍ତ୍ତିର ଦୀର୍ଘ ଖୋଦିତ ଫ୍ରିଜ୍ ଅଛି — ଦକ୍ଷିଣ ଭାରତର ଏପରି ଖୋଦିତ ପ୍ରାଚୀରମାନଙ୍କ ମଧ୍ୟରେ ସର୍ବୋତ୍ତମ। ଭିତରେ, ମଲ୍ଲିକାର୍ଜୁନ ମନ୍ଦିରରେ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ପ୍ରତିଷ୍ଠିତ, ଏବଂ ଏକ ପୃଥକ ମନ୍ଦିରରେ ଦେବୀ ଭ୍ରମରାମ୍ବା, \"ଭ୍ରମରମାନଙ୍କର ଦେବୀ\", ବିରାଜିତା, ଫଳରେ ଶିବ ଓ ଶକ୍ତି ଗୋଟିଏ ସ୍ଥାନରେ ଏକାଠି ପୂଜିତ। ଗୋପୁର, ମଣ୍ଡପ ଓ ପରବର୍ତ୍ତୀ ଯୋଗମାନ ପ୍ରାଚୀର ଭିତରେ ଗୁଚ୍ଛବଦ୍ଧ, ତଳେ ଏବେ ବିଶାଳ ଜଳାଶୟ ରୂପେ ବନ୍ଧାଯାଇଥିବା ନଦୀଠାରୁ ବହୁ ଉଚ୍ଚରେ।",
+    "legends": "ଶ୍ରୀଶୈଳମ୍‌ର କିମ୍ବଦନ୍ତୀ କହେ ଯେ ଶିବ ଓ ପାର୍ବତୀ ନିଜ ପୁତ୍ର କାର୍ତ୍ତିକେୟଙ୍କୁ ଅନୁସରଣ କରିଥିଲେ, ଯିଏ ଅଭିମାନ କରି ଦୂର ଏକ ପାହାଡ଼କୁ ଚାଲିଯାଇଥିଲେ; ବିଚ୍ଛେଦ ସହିନପାରି ଦିବ୍ୟ ପିତାମାତା ତାଙ୍କ ନିକଟରେ ରହିବା ପାଇଁ ଏହି ପର୍ବତରେ ମଲ୍ଲିକାର୍ଜୁନ ଓ ଭ୍ରମରାମ୍ବା ରୂପ ଧରି ବାସ କଲେ। ନାମଟି ମଲ୍ଲିକା, ଅର୍ଥାତ୍ ଜାଇ ଫୁଲ, ଓ ଅର୍ଜୁନକୁ ଯୋଡ଼େ, ଏବଂ ଦେବୀ ଭ୍ରମରାମ୍ବା ଏକ ଅସୁରକୁ ବିନାଶ କରିବା ପାଇଁ ଭ୍ରମର, ଅର୍ଥାତ୍ ମହୁମାଛି ରୂପ ଧାରଣ କରିଥିବାରୁ ସ୍ମରଣୀୟା। ବାରଟି ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ଓ ଅଠର ଶକ୍ତିପୀଠ ମଧ୍ୟରୁ ଅନ୍ୟତମ ହୋଇଥିବାରୁ ଏହି ପାହାଡ଼ ଦୁଇଟି ମହାନ ତୀର୍ଥ ପରମ୍ପରାକୁ ଗୋଟିଏ ଆରୋହଣରେ ଏକତ୍ର କରେ।",
+    "festivals": "ମହାଶିବରାତ୍ରି ଶ୍ରୀଶୈଳମ୍‌ର ସର୍ବଶ୍ରେଷ୍ଠ ଉତ୍ସବ, ରାତିସାରା ବିଶାଳ ଭିଡ଼ ଆକର୍ଷଣ କରେ, ଏବଂ ଏହାକୁ ଘେରି ରହିଥିବା ବ୍ରହ୍ମୋତ୍ସବମ୍ ଶୋଭାଯାତ୍ରା ଓ ମନ୍ଦିର ରଥରେ ଦିନ ଦିନ ଭରିଦିଏ। ତେଲୁଗୁ ନୂଆ ବର୍ଷ ଉଗାଦି ଓ ଭ୍ରମରାମ୍ବାଙ୍କର ନବରାତ୍ରି ପୂଜା ବିଶେଷ ଜାକଜମକରେ ପାଳିତ ହୁଏ। କୁମ୍ଭମ୍ ଓ ଦଶହରା ଆହୁରି ଉତ୍ସବ ଆଣେ, ଏବଂ ଶୈବ ଓ ଦେବୀ ଭକ୍ତ ଉଭୟଙ୍କ ବ୍ରତକୁ ଏକତ୍ର କରୁଥିବା ଏହି ମନ୍ଦିରକୁ ତୀର୍ଥଯାତ୍ରୀମାନେ ବର୍ଷସାରା ଆସନ୍ତି।",
+    "experience": "ଶ୍ରୀଶୈଳମ୍ ଯିବା ବାଟ ନଲ୍ଲମଳା ଜଙ୍ଗଲ ଦେଇ ଘୁରି ଘୁରି ଉପରକୁ ଉଠେ, ଏବଂ ପାହାଡ଼ ଶୀର୍ଷର ମନ୍ଦିରରେ ପହଞ୍ଚିବା କଠିନ ପରିଶ୍ରମରେ ଅର୍ଜିତ ତୀର୍ଥଯାତ୍ରାର ଅନୁଭବ ଦିଏ। ସୁରକ୍ଷିତ ପ୍ରାଚୀର ଭିତରେ, ଦୀର୍ଘ ଖୋଦିତ ଫ୍ରିଜ୍ ଧୀର ଚଲାକୁ ପୁରସ୍କୃତ କରେ, ଆଲୋକରେ ଗୋଟିଏ ପରେ ଗୋଟିଏ ଉଠି ଆସୁଥିବା ଖୋଦେଇ, ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ଓ ଦେବୀଙ୍କ ଦର୍ଶନ ପୂର୍ବରୁ। ଜଙ୍ଗଲର ବାୟୁ, ବନ୍ଧାଯାଇଥିବା କୃଷ୍ଣାର ଦୂର ଝଲକ, ଏବଂ ଏକାସଙ୍ଗରେ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ଓ ଶକ୍ତିପୀଠରେ ଛିଡ଼ା ହେବାର ଜ୍ଞାନ ସ୍ଥାନକୁ ଏକ ବିରଳ ଗାମ୍ଭୀର୍ଯ୍ୟ ଦିଏ; ଅନେକ ତୀର୍ଥଯାତ୍ରୀ ପାହାଡ଼ ଦେଇ ଓହ୍ଲାଇବା ପୂର୍ବରୁ ଉଭୟ ମନ୍ଦିର ଦର୍ଶନ କରନ୍ତି।"
   },
   "visit": {
-    "timings": "Generally open from around 4:30 am to 10:00 pm daily, with several pujas; hours extend greatly during Maha Shivaratri and Brahmotsavam.",
-    "dressCode": "Modest traditional dress is expected — dhotis or trousers for men, sarees or salwar kameez for women, shoulders and knees covered; footwear is removed at the temple.",
-    "photography": "Photography is generally not permitted inside the sanctums; follow posted rules and staff guidance.",
-    "gettingThere": "Srisailam is in Nandyal district, about 180 km from Kurnool and 210 km from Hyderabad, reached by road through the Nallamala hills; the nearest airport is Hyderabad."
+    "timings": "ସାଧାରଣତଃ ପ୍ରତିଦିନ ପ୍ରାୟ ସକାଳ ୪:୩୦ ଟାରୁ ରାତି ୧୦:୦୦ ଟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା, ଅନେକ ପୂଜା ସହ; ମହାଶିବରାତ୍ରି ଓ ବ୍ରହ୍ମୋତ୍ସବମ୍ ବେଳେ ସମୟ ବହୁତ ବଢ଼ିଯାଏ।",
+    "dressCode": "ସଂଯତ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — ପୁରୁଷଙ୍କ ପାଇଁ ଧୋତି କିମ୍ବା ପାଇଜାମା, ମହିଳାଙ୍କ ପାଇଁ ଶାଢ଼ୀ କିମ୍ବା ସଲୱାର କମିଜ୍, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା; ମନ୍ଦିରରେ ପାଦୁକା ଖୋଲାଯାଏ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ସାଧାରଣତଃ ଫଟୋଗ୍ରାଫି ଅନୁମତି ନାହିଁ; ଲଗାଯାଇଥିବା ନିୟମ ଓ କର୍ମଚାରୀଙ୍କ ନିର୍ଦ୍ଦେଶ ପାଳନ କରନ୍ତୁ।",
+    "gettingThere": "ଶ୍ରୀଶୈଳମ୍ ନନ୍ଦ୍ୟାଳ ଜିଲ୍ଲାରେ, କର୍ନୁଲଠାରୁ ପ୍ରାୟ ୧୮୦ କିଲୋମିଟର ଓ ହାଇଦ୍ରାବାଦଠାରୁ ୨୧୦ କିଲୋମିଟର ଦୂରରେ ଅବସ୍ଥିତ, ନଲ୍ଲମଳା ପାହାଡ଼ ଦେଇ ସଡ଼କ ପଥରେ ପହଞ୍ଚିହୁଏ; ନିକଟତମ ବିମାନବନ୍ଦର ହାଇଦ୍ରାବାଦ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.jpg",

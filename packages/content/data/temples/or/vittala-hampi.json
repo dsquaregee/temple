@@ -1,30 +1,37 @@
 {
   "id": "vittala-hampi",
   "locale": "or",
+  "name": "ବିଜୟ ବିଠଲ ମନ୍ଦିର, ହମ୍ପି",
   "nativeName": "ವಿಜಯ ವಿಠಲ ದೇವಾಲಯ, ಹಂಪೆ",
+  "deity": "ବିଷ୍ଣୁ ବିଜୟ ବିଠଲ ରୂପେ, ପଣ୍ଢରପୁରରେ ପୂଜିତ ପ୍ରଭୁଙ୍କ ସେହି ରୂପ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Hampi",
-    "state": "Karnataka",
+    "city": "ହମ୍ପି",
+    "state": "କର୍ଣ୍ଣାଟକ",
     "lat": 15.342,
     "lng": 76.4756
   },
+  "period": "ମୂଳ ଅଂଶ ୧୫ଶ ଶତାବ୍ଦୀରୁ; ୧୬ଶ ଶତାବ୍ଦୀରେ କୃଷ୍ଣଦେବରାୟ ଓ ତାଙ୍କ ଉତ୍ତରାଧିକାରୀମାନଙ୍କ ଅଧୀନରେ ବହୁ ବିସ୍ତାର",
   "century": 15,
+  "dynasty": "ବିଜୟନଗର (ସଙ୍ଗମ ଓ ତୁଳୁବ)",
+  "style": "ଦ୍ରାବିଡ଼, ବିଜୟନଗର ପର୍ଯ୍ୟାୟ",
   "unesco": true,
   "circuits": [
     "hampi-vijayanagara-temples"
   ],
+  "summary": "ହମ୍ପିରେ ତୁଙ୍ଗଭଦ୍ରା ନଦୀ ନିକଟରେ ଥିବା ବିଜୟ ବିଠଲ ମନ୍ଦିର ବିଜୟନଗର କଳାର ଶିଖର — ଗରୁଡ଼ଙ୍କ ପ୍ରସ୍ତର ରଥ ଓ ମହାମଣ୍ଡପର ସଙ୍ଗୀତମୟ ସ୍ତମ୍ଭ ପାଇଁ ପ୍ରସିଦ୍ଧ ବିଷ୍ଣୁଙ୍କର ଏକ ରାଜକୀୟ ମନ୍ଦିର।",
   "sections": {
-    "history": "The temple of Vijaya Vittala grew with the fortunes of Vijayanagara. Its core is generally placed in the 15th century, in the reign of Devaraya II, though its first patron is uncertain; the great expansion came in the early 16th century under the Tuluva kings. Some two dozen inscriptions dated between 1513 and 1564 record gifts and worship here. Krishnadevaraya built the hundred-pillared hall and gave vessels of gold and silver; two of his queens each raised a gateway, and a third gopura is credited to his successor Achyutaraya. After the defeat of 1565 the capital was abandoned and worship here fell silent. The temple is today a protected monument within the Group of Monuments at Hampi, a UNESCO World Heritage Site since 1986.",
-    "architecture": "The complex is a walled court entered through towered gateways, with the shrine of Vittala at its centre and around it a goddess shrine, a kalyana mandapa for the divine marriage, and further pillared halls. The great maha mandapa before the sanctum rests on fifty-six carved pillars, many of them clusters of slender colonnettes that ring with musical notes when struck — now protected from touch. Facing it on the same axis stands the celebrated stone chariot, in truth a shrine of Garuda, Vishnu's eagle mount, shaped as a processional car with carved wheels; it is among the best-loved images of India and appears on the fifty-rupee note.",
-    "legends": "Vittala is the form of Vishnu beloved of the saint-poets of Pandharpur, and a popular story at Hampi tells that the Lord of Pandharpur came to see the magnificent temple raised for him — and, finding it too grand, returned to his humble home, so that the temple was never truly his. The inscriptions tell a different tale, recording decades of offerings and worship. The stone chariot carries its own small legend of motion: its stone wheels were once said to turn, as though Garuda's car might yet roll out in procession.",
-    "festivals": "As a monument no longer in worship, the Vittala temple keeps no festival calendar of its own. Hampi as a whole comes alive during the Hampi Utsav, the state festival of music and dance staged among the ruins, usually in the cooler months; confirm dates locally.",
-    "experience": "Come early, when the low sun warms the granite and the courtyard is still quiet. Electric shuttles carry visitors along the last stretch from the parking area, or you can walk the riverside path from Hampi Bazaar past ruined shrines and boulders. Circle the stone chariot slowly, then sit in the shade of the halls and look up at the carved brackets: rearing yalis, dancers and musicians caught in stone."
+    "history": "ବିଜୟ ବିଠଲ ମନ୍ଦିର ବିଜୟନଗରର ଭାଗ୍ୟ ସହିତ ବଢ଼ିଥିଲା। ସାଧାରଣତଃ ଏହାର ମୂଳ ଅଂଶକୁ ଦ୍ୱିତୀୟ ଦେବରାୟଙ୍କ ଶାସନକାଳ, ୧୫ଶ ଶତାବ୍ଦୀରେ ସ୍ଥାପିତ ବୋଲି ମନାଯାଏ, ଯଦିଓ ଏହାର ପ୍ରଥମ ପୃଷ୍ଠପୋଷକ କିଏ ତାହା ଅନିଶ୍ଚିତ; ବଡ଼ ବିସ୍ତାର ୧୬ଶ ଶତାବ୍ଦୀର ପ୍ରାରମ୍ଭରେ ତୁଳୁବ ରାଜାମାନଙ୍କ ଅଧୀନରେ ହୋଇଥିଲା। ୧୫୧୩ ରୁ ୧୫୬୪ ମଧ୍ୟରେ ତାରିଖଯୁକ୍ତ ପ୍ରାୟ ଦୁଇ ଡଜନ ଶିଳାଲେଖରେ ଏଠାକାର ଦାନ ଓ ପୂଜାର ବିବରଣ ଅଛି। କୃଷ୍ଣଦେବରାୟ ଶହେ ସ୍ତମ୍ଭର ମଣ୍ଡପ ନିର୍ମାଣ କରାଇଥିଲେ ଏବଂ ସୁନା ଓ ରୂପାର ପାତ୍ର ଦାନ କରିଥିଲେ; ତାଙ୍କ ଦୁଇ ରାଣୀ ପ୍ରତ୍ୟେକେ ଗୋଟିଏ ଗୋଟିଏ ପ୍ରବେଶଦ୍ୱାର ଉଠାଇଥିଲେ, ଏବଂ ତୃତୀୟ ଗୋପୁରଟି ତାଙ୍କ ଉତ୍ତରାଧିକାରୀ ଅଚ୍ୟୁତରାୟଙ୍କ ନାମରେ ଗଣାଯାଏ। ୧୫୬୫ର ପରାଜୟ ପରେ ରାଜଧାନୀ ପରିତ୍ୟକ୍ତ ହେଲା ଓ ଏଠାକାର ପୂଜା ନୀରବ ହୋଇଗଲା। ଆଜି ଏହା ୧୯୮୬ ମସିହାରୁ ୟୁନେସ୍କୋ ବିଶ୍ୱ ଐତିହ୍ୟ ସ୍ଥଳ ଭାବେ ଘୋଷିତ ହମ୍ପି ସ୍ମାରକୀ ସମୂହ ଅନ୍ତର୍ଗତ ଏକ ସଂରକ୍ଷିତ ସ୍ମାରକୀ।",
+    "architecture": "ପ୍ରାଙ୍ଗଣଟି ପ୍ରାଚୀର ଘେରା, ଗୋପୁରଯୁକ୍ତ ପ୍ରବେଶଦ୍ୱାର ଦେଇ ପ୍ରବେଶ କରିବାକୁ ହୁଏ; ମଝିରେ ବିଠଲଙ୍କ ଗର୍ଭଗୃହ, ଆଉ ତାହାର ଚାରିପାଖରେ ଦେବୀଙ୍କ ମନ୍ଦିର, ଦିବ୍ୟ ବିବାହ ପାଇଁ କଲ୍ୟାଣ ମଣ୍ଡପ ଏବଂ ଆହୁରି ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ। ଗର୍ଭଗୃହ ସମ୍ମୁଖରେ ଥିବା ମହାମଣ୍ଡପ ଛପନଟି ଖୋଦିତ ସ୍ତମ୍ଭ ଉପରେ ଛିଡ଼ା; ସେଥିରୁ ଅନେକ ସରୁ ଉପସ୍ତମ୍ଭର ଗୁଚ୍ଛ, ଯାହାକୁ ଆଘାତ କଲେ ସଙ୍ଗୀତର ସ୍ୱର ବାହାରେ — ବର୍ତ୍ତମାନ ସ୍ପର୍ଶ ନିଷିଦ୍ଧ। ସେହି ଅକ୍ଷରେ ସମ୍ମୁଖରେ ପ୍ରସିଦ୍ଧ ପ୍ରସ୍ତର ରଥ ଛିଡ଼ା ହୋଇଛି, ବାସ୍ତବରେ ଏହା ବିଷ୍ଣୁଙ୍କ ଗରୁଡ଼ ବାହନର ମନ୍ଦିର, ଖୋଦିତ ଚକ୍ରଯୁକ୍ତ ଶୋଭାଯାତ୍ରା ରଥ ଆକାରରେ ଗଢ଼ା; ଏହା ଭାରତର ସର୍ବାଧିକ ପ୍ରିୟ ଚିତ୍ରମାନଙ୍କ ମଧ୍ୟରୁ ଅନ୍ୟତମ ଏବଂ ପଚାଶ ଟଙ୍କିଆ ନୋଟରେ ଦେଖାଯାଏ।",
+    "legends": "ବିଠଲ ପଣ୍ଢରପୁରର ସନ୍ଥ-କବିମାନଙ୍କର ପ୍ରିୟ ବିଷ୍ଣୁ ରୂପ, ଏବଂ ହମ୍ପିରେ ଏକ ଲୋକପ୍ରିୟ କାହାଣୀ ଅଛି ଯେ ପଣ୍ଢରପୁରର ପ୍ରଭୁ ତାଙ୍କ ପାଇଁ ନିର୍ମିତ ଏହି ଭବ୍ୟ ମନ୍ଦିର ଦେଖିବାକୁ ଆସିଥିଲେ — ଏବଂ ଏହା ଅତ୍ୟଧିକ ଜାକଜମକପୂର୍ଣ୍ଣ ଭାବି ନିଜର ବିନମ୍ର ଘରକୁ ଫେରିଗଲେ, ତେଣୁ ଏହି ମନ୍ଦିର କେବେ ପ୍ରକୃତରେ ତାଙ୍କର ହେଲା ନାହିଁ। ଶିଳାଲେଖ କିନ୍ତୁ ଅଲଗା କାହାଣୀ କହେ, ଦଶନ୍ଧି ଧରି ଚାଲିଥିବା ଅର୍ପଣ ଓ ପୂଜାର ବିବରଣ ଦିଏ। ପ୍ରସ୍ତର ରଥ ସହିତ ଗତିର ଏକ ଛୋଟ ଲୋକକଥା ମଧ୍ୟ ଜଡ଼ିତ: କୁହାଯାଏ ଏହାର ପଥର ଚକ ଏକଦା ବୁଲୁଥିଲା, ଯେପରି ଗରୁଡ଼ଙ୍କ ରଥ ଏବେ ବି ଶୋଭାଯାତ୍ରାରେ ବାହାରିପାରେ।",
+    "festivals": "ଆଉ ପୂଜା ହେଉନଥିବା ସ୍ମାରକୀ ହୋଇଥିବାରୁ ବିଠଲ ମନ୍ଦିରର ନିଜସ୍ୱ କୌଣସି ଉତ୍ସବ ପଞ୍ଜିକା ନାହିଁ। ସମଗ୍ର ହମ୍ପି ହମ୍ପି ଉତ୍ସବ ସମୟରେ ଜୀବନ୍ତ ହୋଇ ଉଠେ — ଧ୍ୱଂସାବଶେଷ ମଧ୍ୟରେ ମଞ୍ଚସ୍ଥ ହେଉଥିବା ସଙ୍ଗୀତ ଓ ନୃତ୍ୟର ରାଜ୍ୟ ଉତ୍ସବ, ସାଧାରଣତଃ ଶୀତଳ ମାସମାନଙ୍କରେ; ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଖୁବ୍ ସକାଳୁ ଆସନ୍ତୁ, ଯେତେବେଳେ ନିମ୍ନ ସୂର୍ଯ୍ୟକିରଣ ଗ୍ରାନାଇଟକୁ ଉଷ୍ମ କରେ ଓ ପ୍ରାଙ୍ଗଣ ଏବେ ବି ଶାନ୍ତ ଥାଏ। ପାର୍କିଂ ଅଞ୍ଚଳରୁ ଶେଷ ପଥ ପର୍ଯ୍ୟନ୍ତ ବ୍ୟାଟେରୀଚାଳିତ ଗାଡ଼ି ଯାତ୍ରୀଙ୍କୁ ନେଇଯାଏ, କିମ୍ବା ଆପଣ ହମ୍ପି ବଜାରରୁ ଧ୍ୱସ୍ତ ମନ୍ଦିର ଓ ପଥର ଖଣ୍ଡ ଦେଇ ନଦୀକୂଳ ପଥରେ ଚାଲିପାରିବେ। ପ୍ରସ୍ତର ରଥକୁ ଧୀରେ ଧୀରେ ପରିକ୍ରମା କରନ୍ତୁ, ତା'ପରେ ମଣ୍ଡପର ଛାଇରେ ବସି ଖୋଦିତ ବନ୍ଧନୀ ଆଡ଼କୁ ଚାହିଁ ଦେଖନ୍ତୁ: ପଛ ଗୋଡ଼ରେ ଛିଡ଼ା ଯାଳି, ନର୍ତ୍ତକ ଓ ସଙ୍ଗୀତଜ୍ଞ ପଥରରେ ଧରା ପଡ଼ିଛନ୍ତି।"
   },
   "visit": {
-    "timings": "Open daily from sunrise to sunset as an ASI-protected monument; an entry ticket is required. Confirm hours and ticketing locally.",
-    "dressCode": "Modest dress is appreciated; comfortable shoes, water and sun protection help, as the site is open and stony.",
-    "photography": "Photography is generally allowed; the musical pillars must not be touched, and tripods or professional shoots may need permission from the Archaeological Survey of India.",
-    "gettingThere": "The temple lies about 2.5 km north-east of Hampi Bazaar, near the Tungabhadra opposite Anegondi, in Karnataka's Vijayanagara district. Hosapete (Hospet), about 13 km from Hampi, has the nearest railway station; the nearest airport is at Vidyanagar near Toranagallu, with larger airports at Hubballi and Bengaluru."
+    "timings": "ଭାରତୀୟ ପୁରାତତ୍ତ୍ୱ ସର୍ବେକ୍ଷଣ ଦ୍ୱାରା ସଂରକ୍ଷିତ ସ୍ମାରକୀ ଭାବେ ପ୍ରତିଦିନ ସୂର୍ଯ୍ୟୋଦୟରୁ ସୂର୍ଯ୍ୟାସ୍ତ ପର୍ଯ୍ୟନ୍ତ ଖୋଲା; ପ୍ରବେଶ ଟିକେଟ୍ ଆବଶ୍ୟକ। ସମୟ ଓ ଟିକେଟ୍ ବିଷୟରେ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସଂଯତ ପୋଷାକ ପସନ୍ଦନୀୟ; ସ୍ଥାନଟି ଖୋଲା ଓ ପଥୁରିଆ ହୋଇଥିବାରୁ ଆରାମଦାୟକ ଜୋତା, ପାଣି ଓ ରୌଦ୍ରରୁ ସୁରକ୍ଷା ସହାୟକ।",
+    "photography": "ସାଧାରଣତଃ ଫଟୋଗ୍ରାଫି ଅନୁମତିପ୍ରାପ୍ତ; ସଙ୍ଗୀତମୟ ସ୍ତମ୍ଭକୁ ସ୍ପର୍ଶ କରିବା ଉଚିତ ନୁହେଁ, ଏବଂ ଟ୍ରାଇପଡ୍ କିମ୍ବା ବୃତ୍ତିଗତ ଶୁଟିଂ ପାଇଁ ଭାରତୀୟ ପୁରାତତ୍ତ୍ୱ ସର୍ବେକ୍ଷଣର ଅନୁମତି ଆବଶ୍ୟକ ହୋଇପାରେ।",
+    "gettingThere": "ମନ୍ଦିରଟି ହମ୍ପି ବଜାରର ପ୍ରାୟ ୨.୫ କିଲୋମିଟର ଉତ୍ତର-ପୂର୍ବରେ, ଅନେଗୁଣ୍ଡି ସମ୍ମୁଖରେ ତୁଙ୍ଗଭଦ୍ରା ନିକଟରେ, କର୍ଣ୍ଣାଟକର ବିଜୟନଗର ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ। ହମ୍ପିରୁ ପ୍ରାୟ ୧୩ କିଲୋମିଟର ଦୂରରେ ଥିବା ହୋସପେଟ୍ (ହୋସପେଟେ)ରେ ନିକଟତମ ରେଳ ଷ୍ଟେସନ ଅଛି; ନିକଟତମ ବିମାନବନ୍ଦର ତୋରଣଗଲ୍ଲୁ ନିକଟ ବିଦ୍ୟାନଗରରେ, ଆଉ ବଡ଼ ବିମାନବନ୍ଦର ହୁବଲ୍ଲୀ ଓ ବେଙ୍ଗାଲୁରୁରେ ଅଛି।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vittala-hampi.jpg",

@@ -1,29 +1,36 @@
 {
   "id": "raghunayaka-ayodhya",
   "locale": "or",
+  "name": "ରଘୁନାୟକ ପେରୁମାଳ ମନ୍ଦିର (ଅମ୍ମାଜୀ ମନ୍ଦିର), ଅଯୋଧ୍ୟା",
   "nativeName": "रघुनायक मंदिर (अम्माजी मंदिर), अयोध्या",
+  "deity": "ବିଷ୍ଣୁ ରାମ ରୂପେ, ରଘୁନାୟକ (ଚକ୍ରବର୍ତ୍ତି ତିରୁମଗନ୍) ନାମରେ ପୂଜିତ, ସୀତା ପିରାଟ୍ଟିଙ୍କ ସହିତ — ଅମ୍ମାଜୀ ମନ୍ଦିରରେ ଶ୍ରୀବୈଷ୍ଣବ ଦିବ୍ୟଦେଶ ଉପାସନା",
+  "tradition": "ବୈଷ୍ଣବ ପରମ୍ପରା",
   "location": {
-    "city": "Ayodhya",
-    "state": "Uttar Pradesh",
+    "city": "ଅଯୋଧ୍ୟା",
+    "state": "ଉତ୍ତରପ୍ରଦେଶ",
     "lat": 26.799,
     "lng": 82.204
   },
+  "period": "ବଡ଼ନାଡୁର ଏକ ଦିବ୍ୟଦେଶ, ନାଲାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ପାଞ୍ଚ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ଗୀତ",
   "century": 8,
+  "dynasty": "ଶ୍ରୀବୈଷ୍ଣବ ପରମ୍ପରା (ଅମ୍ମାଜୀ ମନ୍ଦିର ୧୯୦୪ରେ ପ୍ରତିଷ୍ଠିତ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "ରାମଙ୍କ ନଗରୀ ଅଯୋଧ୍ୟାରେ ଶ୍ରୀବୈଷ୍ଣବ ପରମ୍ପରା ରଘୁନାୟକଙ୍କୁ ସମ୍ମାନ ଦିଏ, ଯେ ପାଞ୍ଚ ଆଳ୍ୱାରଙ୍କ ଗାନ କରିଥିବା ଚକ୍ରବର୍ତ୍ତି ତିରୁମଗନ୍ — ବଡ଼ନାଡୁର ଏକ ଦିବ୍ୟଦେଶ, ଅମ୍ମାଜୀ ମନ୍ଦିରରେ ପୂଜିତ।",
   "sections": {
-    "history": "Thiru Ayodhi, Ayodhya, is one of the 108 Divya Desams, the abodes of Vishnu praised by the Alvars in the Nalayira Divya Prabandham, and belongs to Vada Nadu, the northern region of the tradition. Thirteen verses sing its lord: six by Periyalvar, four by Kulasekara Alvar, and one each by Nammalvar, Thondaradippodi Alvar and Thirumangai Alvar. For South Indian pilgrims in the Sri Vaishnava tradition, worship of the Divya Desam lord is offered at the Ammaji Mandir. It was founded in 1904 by Yogi Parthasarathy Iyengar, and after his death his wife, Yogi Singammal, called Ammaji, completed it and organised its daily worship and festivals, which gave the temple the name by which it is known. The Alvars' verses, not any one building, are the oldest witness to this Divya Desam.",
-    "architecture": "The Ammaji Mandir is built in the Dravidian style, a South Indian temple in the north, and the Pushkala Vimana is named as the vimana of this Divya Desam. Its sacred water, the theertham, is the river Sarayu. The temple holds images of Rama, Sita and Ranganatha, along with a processional image linked to the Divya Desam of Darbhasayanam at Thiruppullani in Tamil Nadu. Shrines of Nammalvar, Thirumangai Alvar, Ramanuja (Udayavar) and Manavala Mamunigal stand within, gathering the Sri Vaishnava lineage under one roof.",
-    "legends": "Ayodhya is held by tradition to be the capital of Rama and the Ikshvaku kings, and the city where the Ramayana unfolds. The Alvars sang it as the home of the lord they call Raghunayaka and Chakravarthi Thirumagan, the son of the emperor Dasharatha. Periyalvar, who sang six of its thirteen verses, and Kulasekara Alvar, who sang four, loved Rama with a particular tenderness. The Sarayu, flowing by the city, is the river of its tradition, and pilgrims bathe in it with devotion.",
-    "festivals": "The principal festival is Sri Rama Navami, celebrated at the Ammaji Mandir as a utsavam over five days with worship and processions. The Sri Vaishnava calendar's festivals, among them Vaikunta Ekadashi and the days of the Alvars and acharyas, are observed as at other Divya Desams. Confirm dates locally.",
-    "experience": "A quiet corner of devotion for the Sri Vaishnava pilgrim, where Tamil verses of the Alvars are remembered beside the Sarayu in the heart of the north. Sit before the images of Rama, Sita and Ranganatha, then visit the shrines of the Alvars and acharyas. Arrive in the morning, when the city is calmer, and keep time for a walk to the river."
+    "history": "ତିରୁ ଅଯୋଧି, ଅର୍ଥାତ୍ ଅଯୋଧ୍ୟା, ନାଲାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ଆଳ୍ୱାରମାନଙ୍କ ଦ୍ୱାରା ପ୍ରଶଂସିତ ବିଷ୍ଣୁଙ୍କ ୧୦୮ ଦିବ୍ୟଦେଶ ମଧ୍ୟରୁ ଅନ୍ୟତମ, ଏବଂ ପରମ୍ପରାର ଉତ୍ତର ଅଞ୍ଚଳ ବଡ଼ନାଡୁର ଅନ୍ତର୍ଗତ। ଏହାର ପ୍ରଭୁଙ୍କୁ ତେରଟି ପଦରେ ଗାନ କରାଯାଇଛି: ଛଅଟି ପେରିୟାଳ୍ୱାରଙ୍କ, ଚାରୋଟି କୁଳଶେଖର ଆଳ୍ୱାରଙ୍କ, ଏବଂ ନମ୍ମାଳ୍ୱାର, ତୋଣ୍ଡରଡିପ୍ପୋଡି ଆଳ୍ୱାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ପ୍ରତ୍ୟେକଙ୍କର ଗୋଟିଏ। ଶ୍ରୀବୈଷ୍ଣବ ପରମ୍ପରାର ଦକ୍ଷିଣ ଭାରତୀୟ ତୀର୍ଥଯାତ୍ରୀଙ୍କ ପାଇଁ ଦିବ୍ୟଦେଶ ପ୍ରଭୁଙ୍କ ଉପାସନା ଅମ୍ମାଜୀ ମନ୍ଦିରରେ କରାଯାଏ। ଏହା ୧୯୦୪ରେ ଯୋଗୀ ପାର୍ଥସାରଥି ଆୟଙ୍ଗାରଙ୍କ ଦ୍ୱାରା ପ୍ରତିଷ୍ଠିତ ହୋଇଥିଲା, ଏବଂ ତାଙ୍କ ଦେହାନ୍ତ ପରେ ତାଙ୍କ ପତ୍ନୀ ଯୋଗୀ ସିଙ୍ଗମ୍ମାଳ, ଯାହାଙ୍କୁ ଅମ୍ମାଜୀ କୁହାଯାଏ, ଏହାକୁ ସମ୍ପୂର୍ଣ୍ଣ କରି ଏହାର ନିତ୍ୟ ପୂଜା ଓ ଉତ୍ସବ ସଂଗଠିତ କଲେ, ଯାହା ମନ୍ଦିରକୁ ତାହାର ପରିଚିତ ନାମ ଦେଲା। ଏହି ଦିବ୍ୟଦେଶର ସବୁଠାରୁ ପ୍ରାଚୀନ ସାକ୍ଷୀ କୌଣସି ଗୋଟିଏ ଭବନ ନୁହେଁ, ଆଳ୍ୱାରମାନଙ୍କ ପଦାବଳୀ।",
+    "architecture": "ଅମ୍ମାଜୀ ମନ୍ଦିର ଦ୍ରାବିଡ଼ ଶୈଳୀରେ ନିର୍ମିତ, ଉତ୍ତରରେ ଏକ ଦକ୍ଷିଣ ଭାରତୀୟ ମନ୍ଦିର, ଏବଂ ପୁଷ୍କଳ ବିମାନକୁ ଏହି ଦିବ୍ୟଦେଶର ବିମାନ ଭାବେ ନାମିତ କରାଯାଇଛି। ଏହାର ପବିତ୍ର ଜଳ, ତୀର୍ଥମ୍, ସରଯୂ ନଦୀ। ମନ୍ଦିରରେ ରାମ, ସୀତା ଓ ରଙ୍ଗନାଥଙ୍କ ବିଗ୍ରହ ଅଛି, ସହିତ ତାମିଲନାଡୁର ତିରୁପ୍ପୁଲ୍ଲାଣୀସ୍ଥିତ ଦର୍ଭଶୟନମ୍ ଦିବ୍ୟଦେଶ ସହ ଜଡ଼ିତ ଏକ ଶୋଭାଯାତ୍ରା ବିଗ୍ରହ। ଭିତରେ ନମ୍ମାଳ୍ୱାର, ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାର, ରାମାନୁଜ (ଉଡୟବର) ଓ ମଣବାଳ ମାମୁନିଗଳଙ୍କ ମନ୍ଦିର ଅଛି, ଯାହା ଶ୍ରୀବୈଷ୍ଣବ ପରମ୍ପରାକୁ ଗୋଟିଏ ଛାତ ତଳେ ଏକତ୍ର କରେ।",
+    "legends": "ପରମ୍ପରା ଅନୁସାରେ ଅଯୋଧ୍ୟା ରାମ ଓ ଇକ୍ଷ୍ୱାକୁ ରାଜାମାନଙ୍କ ରାଜଧାନୀ ଏବଂ ରାମାୟଣ ଘଟିଥିବା ନଗରୀ। ଆଳ୍ୱାରମାନେ ଏହାକୁ ରଘୁନାୟକ ଓ ଚକ୍ରବର୍ତ୍ତି ତିରୁମଗନ୍, ସମ୍ରାଟ୍ ଦଶରଥଙ୍କ ପୁତ୍ର ଭାବେ ପରିଚିତ ପ୍ରଭୁଙ୍କ ବାସସ୍ଥାନ ରୂପେ ଗାନ କରିଛନ୍ତି। ଏହାର ତେରଟି ପଦ ମଧ୍ୟରୁ ଛଅଟି ଗାଇଥିବା ପେରିୟାଳ୍ୱାର ଏବଂ ଚାରୋଟି ଗାଇଥିବା କୁଳଶେଖର ଆଳ୍ୱାର ରାମଙ୍କୁ ବିଶେଷ କୋମଳତାରେ ଭଲ ପାଉଥିଲେ। ନଗର ପାଖରେ ପ୍ରବାହିତ ସରଯୂ ଏହାର ପରମ୍ପରାର ନଦୀ, ଏବଂ ତୀର୍ଥଯାତ୍ରୀମାନେ ଭକ୍ତିରେ ଏଥିରେ ସ୍ନାନ କରନ୍ତି।",
+    "festivals": "ପ୍ରଧାନ ଉତ୍ସବ ଶ୍ରୀ ରାମ ନବମୀ, ଯାହା ଅମ୍ମାଜୀ ମନ୍ଦିରରେ ପାଞ୍ଚ ଦିନ ଧରି ପୂଜା ଓ ଶୋଭାଯାତ୍ରା ସହିତ ଉତ୍ସବ ରୂପେ ପାଳିତ ହୁଏ। ଶ୍ରୀବୈଷ୍ଣବ ପଞ୍ଜିକାର ଉତ୍ସବ, ଯଥା ବୈକୁଣ୍ଠ ଏକାଦଶୀ ଏବଂ ଆଳ୍ୱାର ଓ ଆଚାର୍ଯ୍ୟମାନଙ୍କ ଦିବସ, ଅନ୍ୟ ଦିବ୍ୟଦେଶ ପରି ପାଳିତ ହୁଏ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଶ୍ରୀବୈଷ୍ଣବ ତୀର୍ଥଯାତ୍ରୀଙ୍କ ପାଇଁ ଭକ୍ତିର ଏକ ଶାନ୍ତ କୋଣ, ଯେଉଁଠି ଉତ୍ତରର ହୃଦୟରେ ସରଯୂ କୂଳରେ ଆଳ୍ୱାରମାନଙ୍କ ତାମିଲ ପଦାବଳୀ ସ୍ମରଣ କରାଯାଏ। ରାମ, ସୀତା ଓ ରଙ୍ଗନାଥଙ୍କ ବିଗ୍ରହ ସମ୍ମୁଖରେ ବସନ୍ତୁ, ତାପରେ ଆଳ୍ୱାର ଓ ଆଚାର୍ଯ୍ୟମାନଙ୍କ ମନ୍ଦିର ଦର୍ଶନ କରନ୍ତୁ। ସକାଳେ ଆସନ୍ତୁ, ଯେତେବେଳେ ନଗର ଅଧିକ ଶାନ୍ତ ଥାଏ, ଏବଂ ନଦୀକୁ ଚାଲିଯିବା ପାଇଁ ସମୟ ରଖନ୍ତୁ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Rama Navami and Vaikunta Ekadashi are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Ayodhya is in Uttar Pradesh on the Sarayu, with its own railway station and road links to Lucknow and Gorakhpur; the airport at Ayodhya serves the city. The Ammaji Mandir lies within the city; ask locally for the temple of the South Indian Sri Vaishnava tradition."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ସହିତ ଖୋଲା ରହେ, ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ ଥାଏ; ରାମ ନବମୀ ଓ ବୈକୁଣ୍ଠ ଏକାଦଶୀରେ ସବୁଠାରୁ ଅଧିକ ଭିଡ଼ ହୁଏ। ଆସିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲନ୍ତୁ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ସୀମିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ଅଯୋଧ୍ୟା ଉତ୍ତରପ୍ରଦେଶରେ ସରଯୂ କୂଳରେ ଅବସ୍ଥିତ, ନିଜସ୍ୱ ରେଳ ଷ୍ଟେସନ ଏବଂ ଲକ୍ଷ୍ନୌ ଓ ଗୋରଖପୁର ସହ ସଡ଼କ ସଂଯୋଗ ଅଛି; ଅଯୋଧ୍ୟା ବିମାନବନ୍ଦର ସହରକୁ ସେବା ଦିଏ। ଅମ୍ମାଜୀ ମନ୍ଦିର ସହର ଭିତରେ ଅବସ୍ଥିତ; ଦକ୍ଷିଣ ଭାରତୀୟ ଶ୍ରୀବୈଷ୍ଣବ ପରମ୍ପରାର ମନ୍ଦିର ବିଷୟରେ ସ୍ଥାନୀୟ ଭାବେ ପଚାରନ୍ତୁ।"
   }
 }

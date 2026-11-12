@@ -1,29 +1,36 @@
 {
   "id": "kalarmulainathar-tirukkalar",
   "locale": "or",
+  "name": "ପାରିଜାତବନେଶ୍ୱର ମନ୍ଦିର, ତିରୁକ୍କଳାର",
   "nativeName": "திருக்களர் பாரிஜாதவனேஸ்வரர் கோயில்",
+  "deity": "ଶିବ ପାରିଜାତବନେଶ୍ୱର (କଳାର୍ମୂଳନାଥର) ରୂପେ, ଦେବୀ ଅମୃତବଲ୍ଲୀଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଡାଲ ପେତ୍ର ସ୍ଥଳମ୍, ସମ୍ବନ୍ଦର ଓ ଅପ୍ପରଙ୍କ ଦ୍ୱାରା ଗୀତ",
   "location": {
-    "city": "Tirukkalar, near Mannargudi",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁକ୍କଳାର, ମନ୍ନାରଗୁଡ଼ିଙ୍କ ନିକଟରେ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 10.5717,
     "lng": 79.5542
   },
+  "period": "ତେବାରମ୍ ଯୁଗ, ଚୋଳ ଯୁଗର ସଂରଚନା ସହିତ",
   "century": 9,
+  "dynasty": "ଚୋଳ (ପରବର୍ତ୍ତୀ ସଂଯୋଜନା ସହିତ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ମନ୍ନାରଗୁଡ଼ି ନିକଟସ୍ଥ ତିରୁକ୍କଳାର ସେହି ସ୍ଥାନ, ଯେଉଁଠି ମହର୍ଷି ଦୁର୍ବାସାଙ୍କ ପାଇଁ ଶିବ ବ୍ରହ୍ମ ତାଣ୍ଡବ ନୃତ୍ୟ କରିଥିଲେ ବୋଲି କଥିତ; ପ୍ରଭୁଙ୍କ ନୃତ୍ୟ ଦେଖିବା ପାଇଁ ଦୁର୍ବାସା ସ୍ୱର୍ଗୀୟ ପାରିଜାତ ଫୁଲକୁ ପୃଥିବୀକୁ ଆଣିଥିଲେ। ଏଠାରେ ଶିବ ପାରିଜାତବନେଶ୍ୱର — ପାରିଜାତ ବନର ପ୍ରଭୁ — ରୂପେ ପୂଜିତ, ତାଙ୍କୁ କଳାର୍ମୂଳନାଥର ନାମରେ ମଧ୍ୟ ପ୍ରଶଂସା କରାଯାଏ, ସାଥୀରେ ଦେବୀ ଅମୃତବଲ୍ଲୀ। ସମ୍ବନ୍ଦର ଓ ଅପ୍ପରଙ୍କ ଦ୍ୱାରା ଗୀତ ଏହି ପାଡାଲ ପେତ୍ର ସ୍ଥଳମ୍‌ର ଉଚ୍ଚ ପୂର୍ବ ରାଜଗୋପୁରମ୍ ଦୂରରୁ ଡେଲ୍ଟା ଅଞ୍ଚଳରେ ଦେଖାଯାଏ।",
   "sections": {
-    "history": "Tirukkalar is an ancient Shaiva village near Mannargudi, revered in the seventh-century Tevaram and counted among the Paadal Petra Sthalams, sung by both Sambandar and Appar. The stone temple belongs to the Chola period with later additions; by tradition the first consecration was performed by the sage Durvasa himself. The place name is explained from the Tamil word for the dance floor, tying the village from the start to the legend of Shiva's dance.",
-    "architecture": "The temple follows the Dravidian plan, dominated by a tall, five-tiered rajagopuram rising about eighty feet and facing east. The sanctum enshrines the lingam of Parijata Vaneswarar, and the goddess Amudhavalli has her own shrine. The grand eastern tower, visible far across the flat delta country, gives this otherwise village temple the presence of a major shrine.",
-    "legends": "The defining legend is the dance of Shiva for Durvasa. The sage, hearing of the cosmic dance the lord performed at Chidambaram, longed to witness it; he brought the parijata flower from the world of the gods and planted it here, and Shiva, pleased with his devotion, came down and danced the Brahma Tandavam before him. From the grove of parijata the lord takes his name, Parijata Vaneswarar, and from the dance floor the village and the lord's other name, Kalarmulainathar, are drawn.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham, the Margazhi season and the annual Brahmotsavam — with the dance legend lending special meaning to the festivals of Nataraja and Arudra Darshan. The tall gopuram makes the car festival and processions a landmark event for the surrounding villages.",
-    "experience": "Approaching Tirukkalar across the delta, the pilgrim sees the great eastern tower long before the village itself. Within, the darshan of Parijata Vaneswarar carries the memory of a dance performed for a single devoted sage, and of a heavenly flower rooted in delta soil — a tender image at the heart of a temple that wears its antiquity lightly."
+    "history": "ତିରୁକ୍କଳାର ମନ୍ନାରଗୁଡ଼ି ନିକଟର ଏକ ପ୍ରାଚୀନ ଶୈବ ଗ୍ରାମ; ସପ୍ତମ ଶତାବ୍ଦୀର ତେବାରମ୍‌ରେ ଏହା ପୂଜିତ ଏବଂ ସମ୍ବନ୍ଦର ଓ ଅପ୍ପର ଉଭୟଙ୍କ ଦ୍ୱାରା ଗୀତ ପାଡାଲ ପେତ୍ର ସ୍ଥଳମ୍‌ମାନଙ୍କ ମଧ୍ୟରେ ଗଣିତ। ପଥରର ମନ୍ଦିରଟି ଚୋଳ ଯୁଗର, ପରବର୍ତ୍ତୀ ସଂଯୋଜନା ସହିତ; ପରମ୍ପରା ଅନୁସାରେ ପ୍ରଥମ ପ୍ରତିଷ୍ଠା ମହର୍ଷି ଦୁର୍ବାସା ନିଜେ କରିଥିଲେ। ସ୍ଥାନର ନାମକୁ ନୃତ୍ୟମଞ୍ଚ ଅର୍ଥବାଚକ ତାମିଲ ଶବ୍ଦରୁ ବୁଝାଯାଏ, ଯାହା ଆରମ୍ଭରୁ ଏହି ଗ୍ରାମକୁ ଶିବଙ୍କ ନୃତ୍ୟର କିମ୍ବଦନ୍ତୀ ସହିତ ବାନ୍ଧି ରଖିଛି।",
+    "architecture": "ମନ୍ଦିରଟି ଦ୍ରାବିଡ଼ ଯୋଜନା ଅନୁସରଣ କରେ, ଯେଉଁଥିରେ ପୂର୍ବମୁଖୀ ପାଞ୍ଚ ତଳ ବିଶିଷ୍ଟ, ପ୍ରାୟ ଅଶୀ ଫୁଟ ଉଚ୍ଚ ରାଜଗୋପୁରମ୍ ପ୍ରଧାନ ଆକର୍ଷଣ। ଗର୍ଭଗୃହରେ ପାରିଜାତବନେଶ୍ୱରଙ୍କ ଲିଙ୍ଗ ପ୍ରତିଷ୍ଠିତ, ଏବଂ ଦେବୀ ଅମୃତବଲ୍ଲୀଙ୍କର ନିଜସ୍ୱ ଅଲଗା ମନ୍ଦିର ଅଛି। ସମତଳ ଡେଲ୍ଟା ଅଞ୍ଚଳରେ ଦୂରରୁ ଦେଖାଯାଉଥିବା ଏହି ବିଶାଳ ପୂର୍ବ ଗୋପୁର ଏହି ଗ୍ରାମୀଣ ମନ୍ଦିରକୁ ଏକ ପ୍ରମୁଖ ତୀର୍ଥର ଗାମ୍ଭୀର୍ଯ୍ୟ ଦିଏ।",
+    "legends": "ମୁଖ୍ୟ କିମ୍ବଦନ୍ତୀ ହେଉଛି ଦୁର୍ବାସାଙ୍କ ପାଇଁ ଶିବଙ୍କ ନୃତ୍ୟ। ଚିଦାମ୍ବରମ୍‌ରେ ପ୍ରଭୁ କରିଥିବା ବିଶ୍ୱନୃତ୍ୟ ବିଷୟରେ ଶୁଣି ମହର୍ଷି ତାହା ଦେଖିବାକୁ ଆକୁଳ ହେଲେ; ସେ ଦେବଲୋକରୁ ପାରିଜାତ ଫୁଲ ଆଣି ଏଠାରେ ରୋପଣ କଲେ, ଏବଂ ତାଙ୍କ ଭକ୍ତିରେ ପ୍ରସନ୍ନ ହୋଇ ଶିବ ଅବତରଣ କରି ତାଙ୍କ ସମ୍ମୁଖରେ ବ୍ରହ୍ମ ତାଣ୍ଡବ ନୃତ୍ୟ କଲେ। ପାରିଜାତ ବନରୁ ପ୍ରଭୁଙ୍କ ନାମ ପାରିଜାତବନେଶ୍ୱର, ଏବଂ ନୃତ୍ୟମଞ୍ଚରୁ ଗ୍ରାମର ନାମ ଓ ପ୍ରଭୁଙ୍କ ଅନ୍ୟ ନାମ କଳାର୍ମୂଳନାଥର ଆସିଛି।",
+    "festivals": "ମନ୍ଦିରରେ ଶୈବ ପର୍ବପଞ୍ଜିକା ପାଳିତ ହୁଏ — ମହାଶିବରାତ୍ରି, ପ୍ରଦୋଷମ୍, ମାର୍ଗଳୀ ଋତୁ ଓ ବାର୍ଷିକ ବ୍ରହ୍ମୋତ୍ସବମ୍ — ନୃତ୍ୟ କିମ୍ବଦନ୍ତୀ ନଟରାଜ ଓ ଆର୍ଦ୍ରା ଦର୍ଶନ ପର୍ବକୁ ବିଶେଷ ଅର୍ଥ ଦିଏ। ଉଚ୍ଚ ଗୋପୁର ରଥୋତ୍ସବ ଓ ଶୋଭାଯାତ୍ରାକୁ ଆଖପାଖ ଗ୍ରାମମାନଙ୍କ ପାଇଁ ଏକ ଉଲ୍ଲେଖନୀୟ ଘଟଣା କରିଦିଏ।",
+    "experience": "ଡେଲ୍ଟା ଦେଇ ତିରୁକ୍କଳାର ଆଡ଼କୁ ଯାଉଥିବା ତୀର୍ଥଯାତ୍ରୀ ଗ୍ରାମ ଦେଖିବା ପୂର୍ବରୁ ବହୁ ଦୂରରୁ ବିଶାଳ ପୂର୍ବ ଗୋପୁର ଦେଖନ୍ତି। ଭିତରେ ପାରିଜାତବନେଶ୍ୱରଙ୍କ ଦର୍ଶନ ଏକମାତ୍ର ଭକ୍ତ ମହର୍ଷିଙ୍କ ପାଇଁ କରାଯାଇଥିବା ନୃତ୍ୟର ଏବଂ ଡେଲ୍ଟା ମାଟିରେ ମୂଳ ବାନ୍ଧିଥିବା ସ୍ୱର୍ଗୀୟ ଫୁଲର ସ୍ମୃତି ବହନ କରେ — ନିଜର ପ୍ରାଚୀନତାକୁ ସହଜରେ ଧାରଣ କରିଥିବା ଏକ ମନ୍ଦିରର ହୃଦୟରେ ଏକ କୋମଳ ଚିତ୍ର।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirukkalar is in Tiruvarur district near Mannargudi, roughly 10-12 km away; Mannargudi is the nearest town and rail head, with local buses and taxis to the village."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁନର୍ବାର ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷତଃ ପର୍ବଦିନରେ ସମୟ ସ୍ଥାନୀୟ ଭାବରେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି; ପାଦୁକା ପ୍ରବେଶ ଦ୍ୱାରରେ ରଖାଯାଏ।",
+    "photography": "ବାହ୍ୟ ପ୍ରଦକ୍ଷିଣା ପଥରେ ସାଧାରଣତଃ ଫଟୋ ଉଠାଇବା ଅନୁମତି ଅଛି, କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ଅନୁଷ୍ଠାନର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ତିରୁକ୍କଳାର ତିରୁବାରୂର ଜିଲ୍ଲାର ମନ୍ନାରଗୁଡ଼ି ନିକଟରେ, ପ୍ରାୟ ୧୦-୧୨ କିମି ଦୂରରେ ଅବସ୍ଥିତ; ମନ୍ନାରଗୁଡ଼ି ନିକଟତମ ସହର ଓ ରେଳ ଷ୍ଟେସନ, ସେଠାରୁ ଗ୍ରାମକୁ ସ୍ଥାନୀୟ ବସ୍ ଓ ଟାକ୍ସି ଚାଲେ।"
   }
 }

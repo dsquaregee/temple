@@ -1,31 +1,38 @@
 {
   "id": "kanjanur-agneeswarar",
   "locale": "or",
+  "name": "କଞ୍ଜନୂର ଅଗ୍ନୀଶ୍ୱରର ମନ୍ଦିର",
   "nativeName": "காஞ்சனூர் அக்னீஸ்வரர் கோயில்",
+  "deity": "ଶିବ ଅଗ୍ନୀଶ୍ୱରର (ଅଗ୍ନିଙ୍କ ପ୍ରଭୁ) ରୂପେ, ଦେବୀ କର୍ପଗାମ୍ବାଳ୍ (କରୁନ୍ଧାର୍ କୁଳାଳୀ)ଙ୍କ ସହିତ; ଶୁକ୍ର (ଶୁକ୍ରଗ୍ରହ)ଙ୍କ ନବଗ୍ରହ ମନ୍ଦିର",
+  "tradition": "ଶୈବ; ତେବାରମ୍‌ରେ ଗୀତ ପାଡଲ ପେତ୍ର ସ୍ଥଳମ୍; ଶୁକ୍ର (ଶୁକ୍ରଗ୍ରହ)ଙ୍କ ନବଗ୍ରହ ସ୍ଥଳମ୍",
   "location": {
-    "city": "Kanjanur",
-    "state": "Tamil Nadu",
+    "city": "କଞ୍ଜନୂର",
+    "state": "ତାମିଲନାଡ଼ୁ",
     "lat": 11.018,
     "lng": 79.452
   },
+  "period": "ଚୋଳ ଯୁଗ, ପ୍ରାୟ ଏକାଦଶ ଶତାବ୍ଦୀ, ପରବର୍ତ୍ତୀ ସଂଯୋଜନା ସହିତ",
   "century": 11,
+  "dynasty": "ଚୋଳ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "navagraha-temples",
     "paadal-petra-sthalams"
   ],
+  "summary": "ନବଗ୍ରହ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ ଶୁକ୍ର (ଶୁକ୍ରଗ୍ରହ)ଙ୍କ ସ୍ଥଳମ୍, ଯେଉଁଠି ଶିବ ଅଗ୍ନୀଶ୍ୱରର ରୂପେ ପୂଜିତ। ବିଶେଷତଃ, ଏଠାରେ ଶୁକ୍ରଙ୍କର ପୃଥକ ମନ୍ଦିର ନାହିଁ, କାରଣ ସେ ମୂଳ ଦେବତାଙ୍କ ଅଗ୍ନି ଭିତରେ ବାସ କରନ୍ତି ବୋଲି ବିଶ୍ୱାସ।",
   "sections": {
-    "history": "Kanjanur stands among the ancient Shaiva shrines of the Kaveri delta, its stone temple built in the Chola period and honoured in the Tevaram hymns as a Paadal Petra Sthalam. Tradition links the place to the lineage of Haradatta Sivachariar and to Brahma's worship of Agni at this spot, and it is counted as the Navagraha temple for Shukra, the planet Venus. What sets Kanjanur apart is that Shukra is given no idol of his own: devotees hold that Venus resides within Agni, the fire, and so within Agneeswarar himself. To worship the presiding Lord is therefore to worship Shukra, a belief that has drawn pilgrims here for centuries as part of the wider Navagraha circuit near Suryanar Koil.",
-    "architecture": "The temple follows the Dravidian idiom of the Chola country, its sanctum housing the Shivalinga worshipped as Agneeswarar and a separate shrine for the Goddess Karpagambal, known also as Karundhar Kuzhali. In keeping with the temple's central belief, there is no distinct Shukra shrine; the presiding Lord is himself the object of Venus worship. Stone pillars, a modest gopuram and the ordered prakaram enclosures reflect the restrained, well-proportioned building tradition of the region, weathered by age yet carefully maintained. The temple lies close to Suryanar Koil, so that its form and setting echo the shared architectural family of the Navagraha shrines clustered in this part of the delta.",
-    "legends": "The temple's legends turn on fire. Brahma is said to have worshipped Agni at Kanjanur, and the presiding Lord takes his name, Agneeswarar, from that association with the sacred fire. The tradition of Haradatta Sivachariar, a devotee remembered in the local sthala accounts, is closely tied to the shrine. The most cherished belief concerns Shukra himself: rather than being enshrined as a separate deity, Venus is held to abide within Agni and thus within the presiding Lord, so that the fire that Brahma once honoured becomes the very seat of the planet. Pilgrims accept that worshipping Agneeswarar is a complete worship of Shukra.",
-    "festivals": "Friday, the day of Shukra, is the temple's most important day, when devotees gather for special worship of Venus. Pradosham is observed through the year with lamp offerings and abhishekam, and the annual Brahmotsavam is the great celebration of the temple calendar. Devotees seeking marital harmony, comfort, wealth and artistic well-being, or relief from Shukra dosha, make offerings of lamps and abhishekam to the presiding Lord, especially on Fridays, trusting that Venus is honoured through Agneeswarar.",
-    "experience": "Kanjanur is a quiet delta shrine rather than a crowded pilgrimage centre, and it is often visited as one stop on the Navagraha circuit, close to Suryanar Koil. Devotees come chiefly on Fridays to pray to Shukra for marriage, marital harmony, prosperity and artistic gifts, and to seek relief from Shukra dosha. The atmosphere is unhurried and devotional; lamps are lit, abhishekam is offered, and the belief that Venus dwells within the fire of the Lord lends the worship a distinctive quiet intensity. It is a short, meaningful halt for those making the round of the nine planet temples."
+    "history": "କଞ୍ଜନୂର କାବେରୀ ବଦ୍ୱୀପର ପ୍ରାଚୀନ ଶୈବ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ ଅବସ୍ଥିତ, ଏହାର ପଥୁରିଆ ମନ୍ଦିର ଚୋଳ ଯୁଗରେ ନିର୍ମିତ ଏବଂ ତେବାରମ୍ ସ୍ତୋତ୍ରରେ ପାଡଲ ପେତ୍ର ସ୍ଥଳମ୍ ରୂପେ ସମ୍ମାନିତ। ପରମ୍ପରା ଏହି ସ୍ଥାନକୁ ହରଦତ୍ତ ଶିବାଚାର୍ଯ୍ୟଙ୍କ ବଂଶ ଏବଂ ଏହି ସ୍ଥାନରେ ବ୍ରହ୍ମାଙ୍କ ଅଗ୍ନି ପୂଜା ସହ ଯୋଡ଼େ, ଏବଂ ଏହା ଶୁକ୍ର, ଅର୍ଥାତ୍ ଶୁକ୍ରଗ୍ରହଙ୍କ ପାଇଁ ନବଗ୍ରହ ମନ୍ଦିର ରୂପେ ଗଣାଯାଏ। କଞ୍ଜନୂରକୁ ଯାହା ଅଲଗା କରେ ତାହା ହେଉଛି ଯେ ଶୁକ୍ରଙ୍କୁ ନିଜସ୍ୱ କୌଣସି ବିଗ୍ରହ ଦିଆଯାଇ ନାହିଁ: ଭକ୍ତମାନେ ବିଶ୍ୱାସ କରନ୍ତି ଯେ ଶୁକ୍ର ଅଗ୍ନିଙ୍କଠାରେ, ଏବଂ ତେଣୁ ଅଗ୍ନୀଶ୍ୱରଙ୍କଠାରେ ହିଁ ବାସ କରନ୍ତି। ତେଣୁ ମୂଳ ଦେବତାଙ୍କ ପୂଜା ହିଁ ଶୁକ୍ରଙ୍କ ପୂଜା, ଏକ ବିଶ୍ୱାସ ଯାହା ଶତାବ୍ଦୀ ଶତାବ୍ଦୀ ଧରି ସୂର୍ଯ୍ୟନାର୍ କୋଇଲ ନିକଟରେ ବ୍ୟାପକ ନବଗ୍ରହ ପରିକ୍ରମାର ଅଂଶ ଭାବେ ଯାତ୍ରୀଙ୍କୁ ଏଠାକୁ ଆକର୍ଷିତ କରିଆସିଛି।",
+    "architecture": "ମନ୍ଦିର ଚୋଳ ଅଞ୍ଚଳର ଦ୍ରାବିଡ଼ ଶୈଳୀ ଅନୁସରଣ କରେ, ଏହାର ଗର୍ଭଗୃହରେ ଅଗ୍ନୀଶ୍ୱରର ରୂପେ ପୂଜିତ ଶିବଲିଙ୍ଗ ଏବଂ କରୁନ୍ଧାର୍ କୁଳାଳୀ ନାମରେ ମଧ୍ୟ ପରିଚିତ ଦେବୀ କର୍ପଗାମ୍ବାଳ୍‌ଙ୍କ ପାଇଁ ପୃଥକ ମନ୍ଦିର ଅଛି। ମନ୍ଦିରର କେନ୍ଦ୍ରୀୟ ବିଶ୍ୱାସ ଅନୁଯାୟୀ, କୌଣସି ପୃଥକ ଶୁକ୍ର ମନ୍ଦିର ନାହିଁ; ମୂଳ ଦେବତା ନିଜେ ହିଁ ଶୁକ୍ର ପୂଜାର ଲକ୍ଷ୍ୟ। ପଥର ସ୍ତମ୍ଭ, ଏକ ସାଧାରଣ ଗୋପୁରମ୍ ଏବଂ ସୁସଂଗଠିତ ପ୍ରାକାର ପରିସର ଅଞ୍ଚଳର ସଂଯତ, ସୁସମାନୁପାତିକ ନିର୍ମାଣ ପରମ୍ପରାକୁ ପ୍ରତିଫଳିତ କରେ, ବୟସରେ ଜର୍ଜରିତ ଅଥଚ ଯତ୍ନର ସହ ରକ୍ଷିତ। ମନ୍ଦିର ସୂର୍ଯ୍ୟନାର୍ କୋଇଲ ନିକଟରେ, ତେଣୁ ଏହାର ରୂପ ଓ ପରିବେଶ ବଦ୍ୱୀପର ଏହି ଅଂଶରେ ଗୁଚ୍ଛବଦ୍ଧ ନବଗ୍ରହ ମନ୍ଦିରମାନଙ୍କର ସମାନ ସ୍ଥାପତ୍ୟ ପରିବାରକୁ ପ୍ରତିଧ୍ୱନିତ କରେ।",
+    "legends": "ମନ୍ଦିରର ଲୋକକଥା ଅଗ୍ନିକୁ କେନ୍ଦ୍ର କରି ଘୂରେ। କୁହାଯାଏ ବ୍ରହ୍ମା କଞ୍ଜନୂରରେ ଅଗ୍ନିଙ୍କୁ ପୂଜା କରିଥିଲେ, ଏବଂ ମୂଳ ପ୍ରଭୁ ସେହି ପବିତ୍ର ଅଗ୍ନି ସହ ସମ୍ପର୍କରୁ ନିଜର ଅଗ୍ନୀଶ୍ୱରର ନାମ ପାଇଛନ୍ତି। ସ୍ଥାନୀୟ ସ୍ଥଳପୁରାଣରେ ସ୍ମରଣୀୟ ଭକ୍ତ ହରଦତ୍ତ ଶିବାଚାର୍ଯ୍ୟଙ୍କ ପରମ୍ପରା ଏହି ମନ୍ଦିର ସହ ନିବିଡ଼ ଭାବେ ଜଡ଼ିତ। ସବୁଠାରୁ ପ୍ରିୟ ବିଶ୍ୱାସ ଶୁକ୍ରଙ୍କ ବିଷୟରେ: ପୃଥକ ଦେବତା ରୂପେ ପ୍ରତିଷ୍ଠିତ ନ ହୋଇ, ଶୁକ୍ର ଅଗ୍ନିଙ୍କଠାରେ ଏବଂ ଏହିପରି ମୂଳ ପ୍ରଭୁଙ୍କଠାରେ ବାସ କରନ୍ତି ବୋଲି ବିଶ୍ୱାସ, ଯାହାଫଳରେ ବ୍ରହ୍ମା ଥରେ ସମ୍ମାନିତ କରିଥିବା ସେହି ଅଗ୍ନି ଗ୍ରହର ଆସନ ହୋଇଯାଏ। ଯାତ୍ରୀମାନେ ମାନନ୍ତି ଯେ ଅଗ୍ନୀଶ୍ୱରଙ୍କ ପୂଜା ହିଁ ଶୁକ୍ରଙ୍କର ସମ୍ପୂର୍ଣ୍ଣ ପୂଜା।",
+    "festivals": "ଶୁକ୍ରବାର, ଶୁକ୍ରଙ୍କ ଦିନ, ମନ୍ଦିରର ସବୁଠାରୁ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଦିନ, ଯେତେବେଳେ ଭକ୍ତମାନେ ଶୁକ୍ରଙ୍କ ବିଶେଷ ପୂଜା ପାଇଁ ଏକତ୍ରିତ ହୁଅନ୍ତି। ପ୍ରଦୋଷମ୍ ବର୍ଷ ସାରା ଦୀପ ଅର୍ପଣ ଓ ଅଭିଷେକ ସହ ପାଳିତ ହୁଏ, ଏବଂ ବାର୍ଷିକ ବ୍ରହ୍ମୋତ୍ସବମ୍ ମନ୍ଦିର ପଞ୍ଜିକାର ମହାନ ଉତ୍ସବ। ଦାମ୍ପତ୍ୟ ସୌହାର୍ଦ୍ଦ୍ୟ, ସୁଖ, ଧନ ଓ କଳାତ୍ମକ କଲ୍ୟାଣ, କିମ୍ବା ଶୁକ୍ର ଦୋଷରୁ ମୁକ୍ତି ଚାହୁଁଥିବା ଭକ୍ତମାନେ, ବିଶେଷକରି ଶୁକ୍ରବାର ଦିନ, ମୂଳ ପ୍ରଭୁଙ୍କୁ ଦୀପ ଓ ଅଭିଷେକ ଅର୍ପଣ କରନ୍ତି, ବିଶ୍ୱାସ କରି ଯେ ଅଗ୍ନୀଶ୍ୱରଙ୍କ ମାଧ୍ୟମରେ ଶୁକ୍ର ସମ୍ମାନିତ ହୁଅନ୍ତି।",
+    "experience": "କଞ୍ଜନୂର ଏକ ଭିଡ଼ଭର୍ତ୍ତି ତୀର୍ଥକେନ୍ଦ୍ର ନୁହେଁ, ଏକ ଶାନ୍ତ ବଦ୍ୱୀପ ମନ୍ଦିର, ଯାହା ପ୍ରାୟତଃ ସୂର୍ଯ୍ୟନାର୍ କୋଇଲ ନିକଟରେ ନବଗ୍ରହ ପରିକ୍ରମାର ଏକ ବିରାମ ସ୍ଥଳ ରୂପେ ଦର୍ଶିତ ହୁଏ। ଭକ୍ତମାନେ ମୁଖ୍ୟତଃ ଶୁକ୍ରବାର ଦିନ ବିବାହ, ଦାମ୍ପତ୍ୟ ସୌହାର୍ଦ୍ଦ୍ୟ, ସମୃଦ୍ଧି ଓ କଳାତ୍ମକ ପ୍ରତିଭା ପାଇଁ ଶୁକ୍ରଙ୍କ ନିକଟରେ ପ୍ରାର୍ଥନା କରିବାକୁ ଏବଂ ଶୁକ୍ର ଦୋଷରୁ ମୁକ୍ତି ଖୋଜିବାକୁ ଆସନ୍ତି। ପରିବେଶ ଧୀର ଓ ଭକ୍ତିମୟ; ଦୀପ ଜଳାଯାଏ, ଅଭିଷେକ ଅର୍ପିତ ହୁଏ, ଏବଂ ଶୁକ୍ର ପ୍ରଭୁଙ୍କ ଅଗ୍ନି ଭିତରେ ବାସ କରନ୍ତି ବୋଲି ବିଶ୍ୱାସ ପୂଜାକୁ ଏକ ବିଶିଷ୍ଟ ଶାନ୍ତ ତୀବ୍ରତା ଦିଏ। ନଅଟି ଗ୍ରହ ମନ୍ଦିରର ପରିକ୍ରମା କରୁଥିବାମାନଙ୍କ ପାଇଁ ଏହା ଏକ ସଂକ୍ଷିପ୍ତ, ଅର୍ଥପୂର୍ଣ୍ଣ ବିରତି।"
   },
   "visit": {
-    "timings": "Open roughly 7:00 am to 12:30 pm and 4:00 pm to 8:30 pm; timings may vary, so verify locally.",
-    "dressCode": "Modest, traditional dress is expected.",
-    "photography": "Photography inside the sanctum is generally not permitted.",
-    "gettingThere": "Kanjanur lies near Suryanar Koil and Aduthurai, about 18 km from Kumbakonam in the Mayiladuthurai/Thanjavur border area of Tamil Nadu. The nearest hub is Kumbakonam; rail access is via Aduthurai or Kumbakonam, and the nearest airport is Tiruchirappalli, about 95 km away."
+    "timings": "ପ୍ରାୟ ସକାଳ ୭:୦୦ ରୁ ଦିନ ୧୨:୩୦ ଏବଂ ଅପରାହ୍ନ ୪:୦୦ ରୁ ରାତି ୮:୩୦ ପର୍ଯ୍ୟନ୍ତ ଖୋଲା; ସମୟ ଭିନ୍ନ ହୋଇପାରେ, ତେଣୁ ସ୍ଥାନୀୟ ଭାବେ ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ, ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଫଟୋଗ୍ରାଫି ସାଧାରଣତଃ ଅନୁମୋଦିତ ନୁହେଁ।",
+    "gettingThere": "କଞ୍ଜନୂର ସୂର୍ଯ୍ୟନାର୍ କୋଇଲ ଓ ଅଡୁତୁରୈ ନିକଟରେ, ତାମିଲନାଡ଼ୁର ମୟିଲାଦୁତୁରୈ/ତଞ୍ଜାଭୂର ସୀମା ଅଞ୍ଚଳରେ କୁମ୍ଭକୋଣମ୍‌ରୁ ପ୍ରାୟ ୧୮ କିଲୋମିଟର ଦୂରରେ ଅବସ୍ଥିତ। ନିକଟତମ କେନ୍ଦ୍ର କୁମ୍ଭକୋଣମ୍; ରେଳ ପ୍ରବେଶ ଅଡୁତୁରୈ ବା କୁମ୍ଭକୋଣମ୍ ଦେଇ, ଏବଂ ନିକଟତମ ବିମାନବନ୍ଦର ପ୍ରାୟ ୯୫ କିଲୋମିଟର ଦୂରରେ ତିରୁଚିରାପଲ୍ଲୀ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kanjanur-agneeswarar.jpg",

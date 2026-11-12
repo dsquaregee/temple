@@ -1,30 +1,37 @@
 {
   "id": "trimbakeshwar-nashik",
   "locale": "or",
+  "name": "ତ୍ର୍ୟମ୍ବକେଶ୍ୱର ମନ୍ଦିର, ତ୍ରିମ୍ବକ",
   "nativeName": "श्री त्र्यंबकेश्वर ज्योतिर्लिंग मंदिर",
+  "deity": "ତ୍ର୍ୟମ୍ବକେଶ୍ୱର ରୂପେ ଶିବ, ତ୍ରିନେତ୍ରଧାରୀ ପ୍ରଭୁ — ଦ୍ୱାଦଶ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ମଧ୍ୟରୁ ଅନ୍ୟତମ, ଏଠାରେ ତିନୋଟି ଛୋଟ ଲିଙ୍ଗ ବ୍ରହ୍ମା, ବିଷ୍ଣୁ ଓ ଶିବ ରୂପେ ପୂଜିତ",
+  "tradition": "ଶୈବ ପରମ୍ପରା",
   "location": {
-    "city": "Trimbak",
-    "state": "Maharashtra",
+    "city": "ତ୍ରିମ୍ବକ",
+    "state": "ମହାରାଷ୍ଟ୍ର",
     "lat": 19.9322,
     "lng": 73.5308
   },
+  "period": "ଗୋଦାବରୀର ଉତ୍ପତ୍ତିସ୍ଥଳରେ ଏକ ପ୍ରାଚୀନ ତୀର୍ଥ; ବର୍ତ୍ତମାନର ମନ୍ଦିର ଅଠର ଶତାବ୍ଦୀରେ ପେଶ୍ୱାମାନଙ୍କ ଶାସନକାଳରେ ନିର୍ମିତ",
   "century": 18,
+  "dynasty": "ମରାଠା (ପେଶ୍ୱା ବାଲାଜୀ ବାଜୀରାଓ)",
+  "style": "ନାଗର",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "ବ୍ରହ୍ମଗିରିର ପାଦଦେଶରେ, ଯେଉଁଠାରୁ ଗୋଦାବରୀ ପୂର୍ବଦିଗକୁ ତା'ର ଦୀର୍ଘ ଯାତ୍ରା ଆରମ୍ଭ କରେ, ସେଠାରେ ତ୍ର୍ୟମ୍ବକେଶ୍ୱର ଶିବଙ୍କୁ ତ୍ରିନେତ୍ରଧାରୀ ପ୍ରଭୁ ରୂପେ ପୂଜା କରାଯାଏ — ଦ୍ୱାଦଶ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ମଧ୍ୟରୁ ଏକ, ଯାହାର ଗର୍ଭଗୃହରେ ବ୍ରହ୍ମା, ବିଷ୍ଣୁ ଓ ଶିବ ଏକତ୍ର ବିରାଜମାନ।",
   "sections": {
-    "history": "Trimbak lies about 28 km from Nashik, beneath the long scarp of Brahmagiri, the hill where the Godavari rises. The Dvadasha Jyotirlinga Stotram names Tryambaka \"on the bank of the Gautami\", the Godavari's sacred name, among the twelve Jyotirlingas, and the town has drawn pilgrims for the rites of the river since ancient times. The temple standing today was built in the eighteenth century under the Peshwa Balaji Bajirao, known as Nanasaheb, in dark basalt within a high walled court. Trimbak is also one of the four places of the Kumbh Mela: every twelve years, in the Simhastha, the ascetic orders bathe at its Kushavarta tank, regarded as the ritual source of the Godavari.",
-    "architecture": "The temple is a Nagara shrine of black stone, its spire rising in clustered tiers above a mandapa and a carved gateway, the whole set in a paved courtyard enclosed by a high wall. Its outer surfaces are worked with figures, mouldings and ornament in the Maratha manner. In the sanctum the Jyotirlinga is unusual: within a hollow in the pedestal rest three small lingas, honoured as Brahma, Vishnu and Shiva. On special occasions they are covered with a jewelled crown that tradition holds to be of great age.",
-    "legends": "The sacred story of Trimbak belongs to the sage Gautama, who lived on Brahmagiri with his wife Ahalya. When a cow died in his field, the sage sought to atone and worshipped Shiva with deep austerity, asking that the Ganga be brought to the hill to purify the land. Pleased, Shiva released the river here, and she flowed out as the Godavari, also called the Gautami after the sage. At Gautama's prayer the lord remained as Tryambaka, the three-eyed one, beside the river's source.",
-    "festivals": "Maha Shivaratri brings the greatest crowds, and the Mondays of Shravan are kept with special worship. Kartik Purnima, celebrated as Tripuri Purnima, fills the town with lamps. Every twelve years the Simhastha Kumbh, held jointly with Nashik, draws vast gatherings to the Kushavarta tank. Confirm dates locally.",
-    "experience": "Many pilgrims bathe or sprinkle water at Kushavarta before darshan, and the hardier climb Brahmagiri to the spring of the Godavari. Trimbak is also known for ancestral and atonement rites, performed by its hereditary priests. A short walk away is the samadhi of Sant Nivruttinath, elder brother of Sant Dnyaneshwar. Entry to the temple is restricted to Hindus; visitors of other faiths may view it from outside."
+    "history": "ତ୍ରିମ୍ବକ ନାଶିକଠାରୁ ପ୍ରାୟ ୨୮ କିଲୋମିଟର ଦୂରରେ, ବ୍ରହ୍ମଗିରିର ଦୀର୍ଘ ଶୈଳପ୍ରାଚୀର ତଳେ ଅବସ୍ଥିତ; ଏହି ପର୍ବତରୁ ହିଁ ଗୋଦାବରୀର ଉତ୍ପତ୍ତି। ଦ୍ୱାଦଶ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ସ୍ତୋତ୍ରରେ \"ଗୌତମୀ ତୀରରେ\" ତ୍ର୍ୟମ୍ବକଙ୍କ ନାମ ଉଲ୍ଲେଖ ଅଛି, ଯେଉଁଠାରେ ଗୌତମୀ ଗୋଦାବରୀର ପବିତ୍ର ନାମ, ଏବଂ ପ୍ରାଚୀନ କାଳରୁ ନଦୀର ଅନୁଷ୍ଠାନ ପାଇଁ ଏହି ନଗର ତୀର୍ଥଯାତ୍ରୀମାନଙ୍କୁ ଆକର୍ଷିତ କରିଆସିଛି। ଆଜି ଯେଉଁ ମନ୍ଦିର ଠିଆ ହୋଇଛି, ତାହା ଅଠର ଶତାବ୍ଦୀରେ ନାନାସାହେବ ନାମରେ ପରିଚିତ ପେଶ୍ୱା ବାଲାଜୀ ବାଜୀରାଓଙ୍କ ଅଧୀନରେ, ଉଚ୍ଚ ପ୍ରାଚୀରବେଷ୍ଟିତ ପ୍ରାଙ୍ଗଣ ମଧ୍ୟରେ କାଳୋ ବସାଲ୍ଟ ପଥରରେ ନିର୍ମିତ ହୋଇଥିଲା। ତ୍ରିମ୍ବକ କୁମ୍ଭମେଳାର ଚାରି ସ୍ଥାନ ମଧ୍ୟରୁ ମଧ୍ୟ ଏକ: ପ୍ରତି ବାର ବର୍ଷରେ, ସିଂହସ୍ଥ ସମୟରେ, ସାଧୁ ଅଖାଡ଼ାମାନେ ଏହାର କୁଶାବର୍ତ୍ତ କୁଣ୍ଡରେ ସ୍ନାନ କରନ୍ତି, ଯାହାକୁ ଗୋଦାବରୀର ଆନୁଷ୍ଠାନିକ ଉତ୍ସ ବୋଲି ମାନାଯାଏ।",
+    "architecture": "ମନ୍ଦିରଟି କୃଷ୍ଣ ପ୍ରସ୍ତରର ଏକ ନାଗର ଶୈଳୀର ଦେଉଳ; ଏହାର ଶିଖର ଏକ ମଣ୍ଡପ ଓ ଖୋଦିତ ପ୍ରବେଶଦ୍ୱାର ଉପରେ ଗୁଚ୍ଛିତ ସ୍ତରରେ ଉଠିଛି, ଏବଂ ସମଗ୍ର ସଂରଚନା ଉଚ୍ଚ ପ୍ରାଚୀରରେ ଘେରା ପକ୍କା ପ୍ରାଙ୍ଗଣରେ ସ୍ଥାପିତ। ଏହାର ବାହ୍ୟ ପୃଷ୍ଠରେ ମରାଠା ଶୈଳୀରେ ମୂର୍ତ୍ତି, ଛାଞ୍ଚ ଓ ଅଳଙ୍କରଣ ଖୋଦିତ। ଗର୍ଭଗୃହରେ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ଅସାଧାରଣ: ପୀଠର ଏକ ଗହ୍ୱରରେ ତିନୋଟି ଛୋଟ ଲିଙ୍ଗ ବିରାଜିତ, ଯାହାକୁ ବ୍ରହ୍ମା, ବିଷ୍ଣୁ ଓ ଶିବ ରୂପେ ପୂଜା କରାଯାଏ। ବିଶେଷ ଅବସରରେ ସେମାନଙ୍କୁ ଏକ ରତ୍ନଖଚିତ ମୁକୁଟରେ ସଜାଯାଏ, ପରମ୍ପରା ଅନୁସାରେ ଯାହା ଅତି ପ୍ରାଚୀନ।",
+    "legends": "ତ୍ରିମ୍ବକର ପବିତ୍ର କାହାଣୀ ଋଷି ଗୌତମଙ୍କ ସହ ଜଡ଼ିତ, ଯିଏ ତାଙ୍କ ପତ୍ନୀ ଅହଲ୍ୟାଙ୍କ ସହିତ ବ୍ରହ୍ମଗିରିରେ ବାସ କରୁଥିଲେ। ତାଙ୍କ କ୍ଷେତରେ ଏକ ଗାଈ ମରିଗଲାରୁ ଋଷି ପ୍ରାୟଶ୍ଚିତ୍ତ ଖୋଜିଲେ ଏବଂ ଗଭୀର ତପସ୍ୟାରେ ଶିବଙ୍କୁ ପୂଜା କଲେ, ଭୂମିକୁ ପବିତ୍ର କରିବା ପାଇଁ ଗଙ୍ଗାଙ୍କୁ ପର୍ବତକୁ ଆଣିବାର ପ୍ରାର୍ଥନା କଲେ। ପ୍ରସନ୍ନ ହୋଇ ଶିବ ଏଠାରେ ନଦୀକୁ ମୁକ୍ତ କଲେ, ଏବଂ ସେ ଗୋଦାବରୀ ରୂପେ ପ୍ରବାହିତ ହେଲେ, ଋଷିଙ୍କ ନାମାନୁସାରେ ଗୌତମୀ ମଧ୍ୟ କୁହାଯାଏ। ଗୌତମଙ୍କ ପ୍ରାର୍ଥନାରେ ପ୍ରଭୁ ନଦୀର ଉତ୍ସ ପାଖରେ ତ୍ର୍ୟମ୍ବକ, ଅର୍ଥାତ୍ ତ୍ରିନେତ୍ରଧାରୀ ରୂପେ ରହିଗଲେ।",
+    "festivals": "ମହାଶିବରାତ୍ରିରେ ସବୁଠୁ ଅଧିକ ଭିଡ଼ ହୁଏ, ଏବଂ ଶ୍ରାବଣର ସୋମବାରଗୁଡ଼ିକ ବିଶେଷ ପୂଜା ସହ ପାଳିତ ହୁଏ। ତ୍ରିପୁରୀ ପୂର୍ଣ୍ଣିମା ରୂପେ ପାଳିତ କାର୍ତ୍ତିକ ପୂର୍ଣ୍ଣିମାରେ ନଗର ଦୀପରେ ଝଲମଲ କରେ। ପ୍ରତି ବାର ବର୍ଷରେ ନାଶିକ ସହ ମିଳିତ ଭାବେ ଅନୁଷ୍ଠିତ ସିଂହସ୍ଥ କୁମ୍ଭ କୁଶାବର୍ତ୍ତ କୁଣ୍ଡରେ ବିପୁଳ ଜନସମାଗମ ଘଟାଏ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଅନେକ ତୀର୍ଥଯାତ୍ରୀ ଦର୍ଶନ ପୂର୍ବରୁ କୁଶାବର୍ତ୍ତରେ ସ୍ନାନ କରନ୍ତି କିମ୍ବା ଜଳ ଛିଞ୍ଚନ୍ତି, ଏବଂ ଅଧିକ ସାହସୀମାନେ ଗୋଦାବରୀର ଝରଣା ଦେଖିବାକୁ ବ୍ରହ୍ମଗିରି ଚଢ଼ନ୍ତି। ତ୍ରିମ୍ବକ ପିତୃକାର୍ଯ୍ୟ ଓ ପ୍ରାୟଶ୍ଚିତ୍ତ ଅନୁଷ୍ଠାନ ପାଇଁ ମଧ୍ୟ ପ୍ରସିଦ୍ଧ, ଯାହା ଏଠାକାର ବଂଶାନୁକ୍ରମିକ ପୁରୋହିତମାନେ ସମ୍ପାଦନ କରନ୍ତି। ଅଳ୍ପ ଦୂରରେ ସନ୍ତ ଜ୍ଞାନେଶ୍ୱରଙ୍କ ଜ୍ୟେଷ୍ଠ ଭ୍ରାତା ସନ୍ତ ନିବୃତ୍ତିନାଥଙ୍କ ସମାଧି ଅଛି। ମନ୍ଦିର ଭିତରକୁ କେବଳ ହିନ୍ଦୁମାନଙ୍କ ପ୍ରବେଶାଧିକାର; ଅନ୍ୟ ଧର୍ମାବଲମ୍ବୀ ପରିଦର୍ଶକ ବାହାରୁ ଦେଖିପାରିବେ।"
   },
   "visit": {
-    "timings": "Open daily from early morning to night, with aartis and abhisheka through the day; queues are long at Maha Shivaratri, on Shravan Mondays and at weekends. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. Follow the posted rules and the priests' guidance, especially for rituals in the sanctum.",
-    "photography": "Photography is not permitted inside the temple; follow the posted rules and staff guidance.",
-    "gettingThere": "Trimbak is about 28 km from Nashik by road, at the foot of the Brahmagiri hills. Nashik Road is the nearest major railway station and Nashik (Ozar) the nearest airport; Mumbai is about 180 km away. Admission to the temple is for Hindus only, as posted at the entrance."
+    "timings": "ପ୍ରତିଦିନ ଭୋରରୁ ରାତି ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ, ଦିନସାରା ଆରତୀ ଓ ଅଭିଷେକ ହୁଏ; ମହାଶିବରାତ୍ରି, ଶ୍ରାବଣ ସୋମବାର ଓ ସପ୍ତାହାନ୍ତରେ ଧାଡ଼ି ଲମ୍ବା ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବାକୁ ହେବ। ବିଶେଷତଃ ଗର୍ଭଗୃହର ଅନୁଷ୍ଠାନ ପାଇଁ ଲିଖିତ ନିୟମ ଓ ପୁରୋହିତଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ମନ୍ଦିର ଭିତରେ ଫଟୋ ଉଠାଇବା ଅନୁମୋଦିତ ନୁହେଁ; ଲିଖିତ ନିୟମ ଓ କର୍ମଚାରୀଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ତ୍ରିମ୍ବକ ନାଶିକଠାରୁ ସଡ଼କ ପଥରେ ପ୍ରାୟ ୨୮ କିଲୋମିଟର ଦୂରରେ, ବ୍ରହ୍ମଗିରି ପାହାଡ଼ର ପାଦଦେଶରେ ଅବସ୍ଥିତ। ନାଶିକ ରୋଡ଼ ନିକଟତମ ପ୍ରମୁଖ ରେଳ ଷ୍ଟେସନ ଏବଂ ନାଶିକ (ଓଝର) ନିକଟତମ ବିମାନବନ୍ଦର; ମୁମ୍ବାଇ ପ୍ରାୟ ୧୮୦ କିଲୋମିଟର ଦୂରରେ। ପ୍ରବେଶଦ୍ୱାରରେ ଲେଖାଥିବା ପରି ମନ୍ଦିରରେ ପ୍ରବେଶ କେବଳ ହିନ୍ଦୁମାନଙ୍କ ପାଇଁ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/trimbakeshwar-nashik.jpg",

@@ -1,30 +1,37 @@
 {
   "id": "somnath-prabhas-patan",
   "locale": "or",
+  "name": "ସୋମନାଥ ମନ୍ଦିର, ପ୍ରଭାସ ପାଟନ",
   "nativeName": "श्री सोमनाथ ज्योतिर्लिंग मंदिर",
+  "deity": "ଶିବ ସୋମନାଥ ରୂପେ, ଚନ୍ଦ୍ରଙ୍କ ପ୍ରଭୁ — ବାର ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ମଧ୍ୟରେ ପ୍ରଥମ",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Prabhas Patan (Somnath)",
-    "state": "Gujarat",
+    "city": "ପ୍ରଭାସ ପାଟନ (ସୋମନାଥ)",
+    "state": "ଗୁଜରାଟ",
     "lat": 20.888,
     "lng": 70.4014
   },
+  "period": "ସୌରାଷ୍ଟ୍ର ଉପକୂଳରେ ପ୍ରଭାସର ଏକ ପ୍ରାଚୀନ ତୀର୍ଥ; ବହୁବାର ପୁନଃନିର୍ମିତ, ବର୍ତ୍ତମାନର ମନ୍ଦିର ୧୯୫୧ ମସିହାରେ ପ୍ରତିଷ୍ଠିତ",
   "century": 11,
+  "dynasty": "ଚୌଲୁକ୍ୟ (ସୋଲାଙ୍କି) ଓ ପରବର୍ତ୍ତୀ ଶାସକ; ବର୍ତ୍ତମାନର ମନ୍ଦିର ଶ୍ରୀ ସୋମନାଥ ଟ୍ରଷ୍ଟ ଦ୍ୱାରା",
+  "style": "ମରୁ-ଗୁର୍ଜର (ଚାଲୁକ୍ୟ ବା ସୋଲାଙ୍କି ଶୈଳୀ)",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "ଆରବ ସାଗର ତଟରେ ପ୍ରଭାସ ପାଟନଠାରେ ସୋମନାଥ ଶିବଙ୍କୁ ଚନ୍ଦ୍ରଙ୍କ ପ୍ରଭୁ ରୂପେ ସମ୍ମାନିତ କରେ — ବାର ଜ୍ୟୋତିର୍ଲିଙ୍ଗରେ ପ୍ରଥମ, ହଜାରେ ବର୍ଷ ଧରି ବାରମ୍ବାର ପୁନଃନିର୍ମିତ ଏକ ପୁଣ୍ୟଧାମ।",
   "sections": {
-    "history": "Prabhasa, where three rivers meet the sea on the Saurashtra coast, has been a place of pilgrimage since epic times, and the Dvadasha Jyotirlinga Stotram opens its roll of the twelve Jyotirlingas with \"Somanatha in Saurashtra.\" The temple's story is one of repeated loss and renewal. It was sacked by Mahmud of Ghazni in 1025–26, rebuilt by the Chaulukya (Solanki) kings of Gujarat — among them Kumarapala in the 12th century — and damaged and raised again more than once in the centuries that followed. In 1783 Ahilyabai Holkar built a separate Shiva temple close by, where worship continued. After Independence a public trust undertook a complete rebuilding on the ancient site, and the Jyotirlinga was consecrated by President Rajendra Prasad on 11 May 1951.",
-    "architecture": "The present temple, designed by the master builder Prabhashankar Sompura, revives the Maru-Gurjara manner of the old Solanki temples of Gujarat. Its plan, called Kailash Mahameru Prasad, runs from the sanctum through an assembly hall to a dance pavilion, every surface worked in carved sandstone. The shikhara rises about fifty metres and is crowned by a kalasha said to weigh ten tonnes. On the sea wall stands the Baan Stambh, an arrow pillar whose inscription holds that no land lies between this shore and the South Pole along its line.",
-    "legends": "The name means Lord of Soma, the Moon. The Puranas tell that Chandra married the twenty-seven daughters of Daksha but loved only Rohini, and the slighted father cursed him to waste away. Fading, the Moon came to Prabhasa and worshipped Shiva, who softened the curse so that Chandra would wane and wax in turn — the rhythm of every lunar month. Here, it is said, Shiva remained as Somanatha. Prabhasa is also linked with the last days of Krishna, whose departure from the world tradition places at nearby Bhalka Tirtha.",
-    "festivals": "Maha Shivaratri brings the largest crowds, with worship through the night. The month of Shravan is especially sacred, its Mondays drawing pilgrims from across Gujarat and beyond. A large fair gathers on the shore at Kartik Purnima, and the Triveni Sangam fills with bathers on auspicious days. Confirm dates locally.",
-    "experience": "Somnath is best seen as the sun goes down, when the evening aarti sounds within and the sandstone spire glows against the sea. Walk out to the Baan Stambh to hear the waves on the wall, then visit the Ahilyabai temple, the Triveni Sangam and Bhalka Tirtha nearby. An evening light-and-sound presentation retells the temple's long history."
+    "history": "ସୌରାଷ୍ଟ୍ର ଉପକୂଳରେ ତିନୋଟି ନଦୀ ସାଗରରେ ମିଶୁଥିବା ପ୍ରଭାସ ମହାଭାରତ ଯୁଗରୁ ତୀର୍ଥକ୍ଷେତ୍ର ଭାବେ ପରିଚିତ, ଏବଂ ଦ୍ୱାଦଶ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ସ୍ତୋତ୍ର ବାର ଜ୍ୟୋତିର୍ଲିଙ୍ଗର ତାଲିକା “ସୌରାଷ୍ଟ୍ରେ ସୋମନାଥଂ” ବୋଲି ଆରମ୍ଭ କରେ। ମନ୍ଦିରର କାହାଣୀ ବାରମ୍ବାର କ୍ଷତି ଓ ନବନିର୍ମାଣର କାହାଣୀ। ୧୦୨୫–୨୬ ମସିହାରେ ଗଜନୀର ମାହମୁଦ ଏହାକୁ ଲୁଟିଥିଲେ; ଗୁଜରାଟର ଚୌଲୁକ୍ୟ (ସୋଲାଙ୍କି) ରାଜାମାନେ — ସେମାନଙ୍କ ମଧ୍ୟରେ ଦ୍ୱାଦଶ ଶତାବ୍ଦୀର କୁମାରପାଳ — ଏହାକୁ ପୁନଃନିର୍ମାଣ କଲେ, ଏବଂ ପରବର୍ତ୍ତୀ ଶତାବ୍ଦୀମାନଙ୍କରେ ଏହା ଆଉ ଥରେ ଅଧିକ ଥର କ୍ଷତିଗ୍ରସ୍ତ ଓ ପୁଣି ଠିଆ ହେଲା। ୧୭୮୩ ମସିହାରେ ଅହଲ୍ୟାବାଈ ହୋଲକର ନିକଟରେ ଏକ ପୃଥକ ଶିବ ମନ୍ଦିର ନିର୍ମାଣ କଲେ, ଯେଉଁଠି ପୂଜା ଚାଲୁ ରହିଲା। ସ୍ୱାଧୀନତା ପରେ ଏକ ଜନ ଟ୍ରଷ୍ଟ ପ୍ରାଚୀନ ସ୍ଥଳରେ ସମ୍ପୂର୍ଣ୍ଣ ପୁନଃନିର୍ମାଣ ହାତକୁ ନେଲା, ଏବଂ ୧୯୫୧ ମସିହା ମେ ୧୧ ତାରିଖରେ ରାଷ୍ଟ୍ରପତି ରାଜେନ୍ଦ୍ର ପ୍ରସାଦ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ପ୍ରତିଷ୍ଠା କଲେ।",
+    "architecture": "ମୁଖ୍ୟ ଶିଳ୍ପୀ ପ୍ରଭାଶଙ୍କର ସୋମପୁରାଙ୍କ ଡିଜାଇନରେ ନିର୍ମିତ ବର୍ତ୍ତମାନର ମନ୍ଦିର ଗୁଜରାଟର ପ୍ରାଚୀନ ସୋଲାଙ୍କି ମନ୍ଦିରମାନଙ୍କର ମରୁ-ଗୁର୍ଜର ଶୈଳୀକୁ ପୁନର୍ଜୀବିତ କରେ। ‘କୈଳାସ ମହାମେରୁ ପ୍ରାସାଦ’ ନାମକ ଏହାର ଯୋଜନା ଗର୍ଭଗୃହରୁ ସଭାମଣ୍ଡପ ଦେଇ ନୃତ୍ୟମଣ୍ଡପ ପର୍ଯ୍ୟନ୍ତ ବିସ୍ତୃତ, ପ୍ରତ୍ୟେକ ପୃଷ୍ଠ ଖୋଦିତ ବାଲୁକା ପଥରରେ ସଜ୍ଜିତ। ଶିଖର ପ୍ରାୟ ପଚାଶ ମିଟର ଉଚ୍ଚ ଏବଂ ଏହା ଦଶ ଟନ୍ ଓଜନର ବୋଲି କଥିତ କଳଶରେ ମୁକୁଟିତ। ସମୁଦ୍ର ପ୍ରାଚୀରରେ ଠିଆ ହୋଇଛି ବାଣ ସ୍ତମ୍ଭ, ଏକ ତୀର ସ୍ତମ୍ଭ, ଯାହାର ଲେଖାରେ କୁହାଯାଇଛି ଯେ ଏହି ଉପକୂଳରୁ ଦକ୍ଷିଣ ମେରୁ ପର୍ଯ୍ୟନ୍ତ ସେହି ରେଖାରେ କୌଣସି ଭୂଭାଗ ନାହିଁ।",
+    "legends": "ନାମର ଅର୍ଥ ସୋମ, ଅର୍ଥାତ୍ ଚନ୍ଦ୍ରଙ୍କ ପ୍ରଭୁ। ପୁରାଣ କହେ ଯେ ଚନ୍ଦ୍ର ଦକ୍ଷଙ୍କ ସତେଇଶି କନ୍ୟାଙ୍କୁ ବିବାହ କରିଥିଲେ ମାତ୍ର କେବଳ ରୋହିଣୀଙ୍କୁ ଭଲପାଉଥିଲେ, ଅବହେଳିତ କନ୍ୟାଙ୍କ ପିତା ତାଙ୍କୁ କ୍ଷୟ ହେବାର ଶାପ ଦେଲେ। କ୍ଷୀଣ ହେଉଥିବା ଚନ୍ଦ୍ର ପ୍ରଭାସକୁ ଆସି ଶିବଙ୍କୁ ପୂଜା କଲେ, ଶିବ ଶାପକୁ କୋମଳ କଲେ ଯାହାଫଳରେ ଚନ୍ଦ୍ର କ୍ରମାନ୍ୱୟରେ କ୍ଷୟ ଓ ବୃଦ୍ଧି ପାଇବେ — ପ୍ରତ୍ୟେକ ଚାନ୍ଦ୍ର ମାସର ଛନ୍ଦ। କୁହାଯାଏ ଏଠାରେ ଶିବ ସୋମନାଥ ରୂପେ ରହିଗଲେ। ପ୍ରଭାସ କୃଷ୍ଣଙ୍କ ଶେଷ ଦିନମାନ ସହିତ ମଧ୍ୟ ଜଡିତ, ପରମ୍ପରା ଅନୁସାରେ ନିକଟସ୍ଥ ଭାଲକା ତୀର୍ଥରେ ସେ ଏ ଜଗତରୁ ପ୍ରସ୍ଥାନ କରିଥିଲେ।",
+    "festivals": "ମହାଶିବରାତ୍ରିରେ ସବୁଠାରୁ ଅଧିକ ଭିଡ଼ ହୁଏ, ରାତିସାରା ପୂଜା ଚାଲେ। ଶ୍ରାବଣ ମାସ ବିଶେଷ ପବିତ୍ର, ଏହାର ସୋମବାରଗୁଡ଼ିକ ଗୁଜରାଟ ତଥା ବାହାରୁ ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ଆକର୍ଷିତ କରେ। କାର୍ତ୍ତିକ ପୂର୍ଣ୍ଣିମାରେ ସମୁଦ୍ର ତଟରେ ଏକ ବିଶାଳ ମେଳା ବସେ, ଏବଂ ଶୁଭ ଦିନମାନଙ୍କରେ ତ୍ରିବେଣୀ ସଙ୍ଗମରେ ସ୍ନାନକାରୀଙ୍କ ଭିଡ଼ ଜମେ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ସୂର୍ଯ୍ୟାସ୍ତ ବେଳେ ସୋମନାଥ ଦର୍ଶନ ସର୍ବୋତ୍ତମ, ଯେତେବେଳେ ଭିତରେ ସନ୍ଧ୍ୟା ଆରତି ବାଜେ ଏବଂ ବାଲୁକା ପଥରର ଶିଖର ସମୁଦ୍ର ପୃଷ୍ଠଭୂମିରେ ଝଲମଲ କରେ। ପ୍ରାଚୀରରେ ଲାଗୁଥିବା ଲହରୀର ଶବ୍ଦ ଶୁଣିବାକୁ ବାଣ ସ୍ତମ୍ଭ ପର୍ଯ୍ୟନ୍ତ ଚାଲି ଯାଆନ୍ତୁ, ତା’ପରେ ନିକଟସ୍ଥ ଅହଲ୍ୟାବାଈ ମନ୍ଦିର, ତ୍ରିବେଣୀ ସଙ୍ଗମ ଓ ଭାଲକା ତୀର୍ଥ ଦେଖନ୍ତୁ। ସନ୍ଧ୍ୟାରେ ଏକ ଆଲୋକ ଓ ଧ୍ୱନି ପ୍ରଦର୍ଶନ ମନ୍ଦିରର ଦୀର୍ଘ ଇତିହାସକୁ ପୁନଃକଥନ କରେ।"
   },
   "visit": {
-    "timings": "Open daily from early morning to night, with aartis at dawn, midday and evening; confirm timings locally, as hours extend at Maha Shivaratri and in Shravan.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering.",
-    "photography": "Mobile phones, cameras and bags are deposited at the entrance under security rules, and photography is not permitted inside the temple; follow posted rules and staff guidance.",
-    "gettingThere": "Somnath is about 6 km from Veraval in Gir Somnath district, Gujarat, and is served by Somnath and Veraval railway stations. The nearest airports are Diu (about 85 km) and Rajkot (about 190 km); Ahmedabad is about 400 km away by road."
+    "timings": "ପ୍ରତିଦିନ ଭୋରରୁ ରାତି ପର୍ଯ୍ୟନ୍ତ ଖୋଲା, ଭୋର, ମଧ୍ୟାହ୍ନ ଓ ସନ୍ଧ୍ୟାରେ ଆରତି ହୁଏ; ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ, କାରଣ ମହାଶିବରାତ୍ରି ଓ ଶ୍ରାବଣରେ ସମୟ ବଢ଼ାଯାଏ।",
+    "dressCode": "ନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲିବାକୁ ହୁଏ।",
+    "photography": "ସୁରକ୍ଷା ନିୟମ ଅନୁସାରେ ମୋବାଇଲ, କ୍ୟାମେରା ଓ ବ୍ୟାଗ ପ୍ରବେଶ ଦ୍ୱାରରେ ଜମା କରିବାକୁ ହୁଏ, ଏବଂ ମନ୍ଦିର ଭିତରେ ଫଟୋ ଉଠାଇବା ଅନୁମତିପ୍ରାପ୍ତ ନୁହେଁ; ଲଗାଯାଇଥିବା ନିୟମ ଓ କର୍ମଚାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ସୋମନାଥ ଗୁଜରାଟର ଗିର ସୋମନାଥ ଜିଲ୍ଲାର ବେରାବଲଠାରୁ ପ୍ରାୟ ୬ କିମି ଦୂରରେ ଏବଂ ସୋମନାଥ ଓ ବେରାବଲ ରେଳ ଷ୍ଟେସନ ଦ୍ୱାରା ସେବିତ। ନିକଟତମ ବିମାନବନ୍ଦର ଦିଉ (ପ୍ରାୟ ୮୫ କିମି) ଓ ରାଜକୋଟ (ପ୍ରାୟ ୧୯୦ କିମି); ଆହ୍ମେଦାବାଦ ସଡ଼କ ପଥରେ ପ୍ରାୟ ୪୦୦ କିମି ଦୂର।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/somnath-prabhas-patan.jpg",

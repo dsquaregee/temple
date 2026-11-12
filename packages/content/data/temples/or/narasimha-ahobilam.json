@@ -1,31 +1,38 @@
 {
   "id": "narasimha-ahobilam",
   "locale": "or",
+  "name": "ଅହୋବିଳ ନରସିଂହ ମନ୍ଦିର, ଅହୋବିଳମ୍",
   "nativeName": "అహోబిల నరసింహ ఆలయం, అహోబిలం",
+  "deity": "ବିଷ୍ଣୁ ନରସିଂହ ରୂପେ, ଅହୋବିଳ (ଉଗ୍ର) ନରସିଂହ ଭାବେ ପୂଜିତ — ପରମ୍ପରା ଅନୁସାରେ ଏଠାରେ ସେ ଚେଞ୍ଚୁ ଲକ୍ଷ୍ମୀଙ୍କୁ ବିବାହ କରିଥିଲେ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "ଅହୋବିଳମ୍",
+    "state": "ଆନ୍ଧ୍ରପ୍ରଦେଶ",
     "lat": 15.1244,
     "lng": 78.7367
   },
+  "period": "ବଡ଼ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ତିରୁମଙ୍ଗୈ ଆଳୱାରଙ୍କ ଦ୍ୱାରା ଗୀତ",
   "century": 8,
+  "dynasty": "ବିଜୟନଗର ପୃଷ୍ଠପୋଷକତା (ସାଳୁବ ଓ ତୁଳୁବ ରାଜବଂଶ)",
+  "style": "ଦ୍ରାବିଡ଼ ମନ୍ଦିରଯୁକ୍ତ ପାହାଡ଼-ଦେବାଳୟ ସମୂହ",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "ahobilam-nava-narasimha"
   ],
+  "summary": "ଆନ୍ଧ୍ରପ୍ରଦେଶର ବନ୍ୟ ପାହାଡ଼ରେ ଅହୋବିଳମ୍ ସିଂହ-ପ୍ରଭୁଙ୍କ ପର୍ବତ ନିବାସ — ତିରୁମଙ୍ଗୈ ଆଳୱାର ସିଙ୍ଗବେଲ୍ କୁନ୍ଦ୍ରମ୍ ରୂପେ ଗାନ କରିଥିବା ଏକ ବଡ଼ ନାଡୁ ଦିବ୍ୟ ଦେଶମ୍, ଏବଂ ନଅଟି ନରସିଂହ ଦେବାଳୟର ତୀର୍ଥଯାତ୍ରା।",
   "sections": {
-    "history": "Ahobilam lies in Nandyal district of Andhra Pradesh, where Thirumangai Alvar sang the lord of Singavel Kundram, the lion-hill, in a decad of ten verses in the Periya Thirumozhi. It is one of the 108 Divya Desams, the abodes of Vishnu praised by the Alvars in the Nalayira Divya Prabandham, and belongs to Vada Nadu, the northern region of the tradition. The Vijayanagara rulers patronised the shrines, first the Saluva dynasty in the fifteenth century and then the Tuluva dynasty in the sixteenth, and Krishnadevaraya is remembered as a visitor and benefactor. Ahobila Matha, the Sri Vaishnava monastic institution, took shape here in the medieval period. The story of the hills before the sixteenth century is largely obscure, and the Alvar's hymn remains the surest voice of their antiquity.",
-    "architecture": "Ahobilam is not a single temple but a pilgrimage of shrines scattered through the hills. The principal shrine is Upper Ahobilam, where Ahobila, or Ugra, Narasimha is worshipped, and around it the tradition counts the Nava Narasimha: Bhargava, Yogananda, Chatravata, Karanja, Pavana, Malola, Varaha (Kroda) and Jvala Narasimha. Below, in Lower Ahobilam, stands the Prahladavarada temple of Lakshmi Narasimha, regarded as a separate and later shrine. A crag called Ugra Stambham is pointed out as the pillar from which the Lord appeared. To reach the hill shrines is to climb, and the climb is part of the offering.",
-    "legends": "The sthala purana tells that Vishnu burst from a pillar as Narasimha, half man and half lion, to destroy the tyrant Hiranyakashipu and protect his young devotee Prahlada. Tradition holds that the watching gods cried 'Aho balam!' — 'what strength!' — and so the place took its name. The hill is also called Garudadri after the penance of Garuda, and tradition tells that Narasimha here wed Chenchu Lakshmi, a daughter of the forest-dwelling Chenchu people, so that the fierce lord of the hills is also the kinsman of the people who live in them.",
-    "festivals": "The shrines keep an annual Brahmotsavam, and Narasimha Jayanti is a day of special worship. After Sankranti, tradition has the Lord carried in procession to the Chenchu villages in the Paruveta festival, recalling his bond with the hill people. Vaikunta Ekadashi is observed as at other Divya Desams. Confirm dates locally.",
-    "experience": "Come prepared for a pilgrimage rather than a visit: the shrines are spread across forested hills, and the walk between them is long and often steep. Wear sturdy footwear for the paths, carry water, and allow more than a day if you hope to see several of the nine. Upper Ahobilam is the heart of the journey."
+    "history": "ଅହୋବିଳମ୍ ଆନ୍ଧ୍ରପ୍ରଦେଶର ନନ୍ଦ୍ୟାଳ ଜିଲ୍ଲାରେ ଅବସ୍ଥିତ, ଯେଉଁଠାରେ ତିରୁମଙ୍ଗୈ ଆଳୱାର ପେରିୟ ତିରୁମୋଳିରେ ଦଶ ପଦର ଏକ ଦଶକରେ ସିଂହ-ପାହାଡ଼ ସିଙ୍ଗବେଲ୍ କୁନ୍ଦ୍ରମ୍‌ର ପ୍ରଭୁଙ୍କୁ ଗାନ କରିଥିଲେ। ଏହା ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍‌ ମଧ୍ୟରୁ ଅନ୍ୟତମ — ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ଆଳୱାରମାନେ ପ୍ରଶଂସା କରିଥିବା ବିଷ୍ଣୁଙ୍କ ବାସସ୍ଥାନ — ଏବଂ ପରମ୍ପରାର ଉତ୍ତର ଅଞ୍ଚଳ ବଡ଼ ନାଡୁର ଅନ୍ତର୍ଗତ। ବିଜୟନଗର ଶାସକମାନେ ଏହି ଦେବାଳୟଗୁଡ଼ିକୁ ପୃଷ୍ଠପୋଷକତା ଦେଇଥିଲେ, ପ୍ରଥମେ ପଞ୍ଚଦଶ ଶତାବ୍ଦୀରେ ସାଳୁବ ରାଜବଂଶ ଓ ପରେ ଷୋଡ଼ଶ ଶତାବ୍ଦୀରେ ତୁଳୁବ ରାଜବଂଶ, ଏବଂ କୃଷ୍ଣଦେବରାୟ ଜଣେ ଦର୍ଶକ ଓ ଉପକାରୀ ରୂପେ ସ୍ମରଣୀୟ। ଶ୍ରୀ ବୈଷ୍ଣବ ମଠ ପରମ୍ପରାର ଅହୋବିଳ ମଠ ମଧ୍ୟଯୁଗରେ ଏଠାରେ ଗଢ଼ି ଉଠିଥିଲା। ଷୋଡ଼ଶ ଶତାବ୍ଦୀ ପୂର୍ବରୁ ଏହି ପାହାଡ଼ର କାହାଣୀ ଅଧିକାଂଶ ଅସ୍ପଷ୍ଟ, ଏବଂ ଆଳୱାରଙ୍କ ସ୍ତୋତ୍ର ହିଁ ଏହାର ପ୍ରାଚୀନତାର ସର୍ବାଧିକ ନିଶ୍ଚିତ ସାକ୍ଷୀ।",
+    "architecture": "ଅହୋବିଳମ୍ ଗୋଟିଏ ମନ୍ଦିର ନୁହେଁ, ବରଂ ପାହାଡ଼ ମଧ୍ୟରେ ବିଛାଡ଼ି ହୋଇଥିବା ଦେବାଳୟମାନଙ୍କର ଏକ ତୀର୍ଥଯାତ୍ରା। ମୁଖ୍ୟ ଦେବାଳୟ ଉପର ଅହୋବିଳମ୍, ଯେଉଁଠାରେ ଅହୋବିଳ ବା ଉଗ୍ର ନରସିଂହ ପୂଜିତ; ଏହାର ଚାରିପାଖରେ ପରମ୍ପରା ନବ ନରସିଂହ ଗଣନା କରେ: ଭାର୍ଗବ, ଯୋଗାନନ୍ଦ, ଛତ୍ରବଟ, କରଞ୍ଜ, ପାବନ, ମାଳୋଳ, ବରାହ (କ୍ରୋଡ଼) ଓ ଜ୍ୱାଳା ନରସିଂହ। ତଳେ, ତଳ ଅହୋବିଳମ୍‌ରେ ଲକ୍ଷ୍ମୀ ନରସିଂହଙ୍କ ପ୍ରହ୍ଲାଦବରଦ ମନ୍ଦିର ଅବସ୍ଥିତ, ଯାହାକୁ ଏକ ପୃଥକ ଓ ପରବର୍ତ୍ତୀ ଦେବାଳୟ ଭାବେ ଗଣାଯାଏ। ଉଗ୍ର ସ୍ତମ୍ଭମ୍ ନାମକ ଏକ ଶିଳାଖଣ୍ଡକୁ ସେହି ସ୍ତମ୍ଭ ବୋଲି ଦେଖାଯାଏ ଯେଉଁଥିରୁ ପ୍ରଭୁ ପ୍ରକଟ ହୋଇଥିଲେ। ପାହାଡ଼ର ଦେବାଳୟମାନଙ୍କୁ ଯିବା ଅର୍ଥ ଚଢ଼ିବା, ଏବଂ ସେହି ଚଢ଼ାଇ ନିବେଦନର ଏକ ଅଂଶ।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ କହେ ଯେ ବିଷ୍ଣୁ ଅର୍ଦ୍ଧ ମାନବ ଓ ଅର୍ଦ୍ଧ ସିଂହ ନରସିଂହ ରୂପେ ଏକ ସ୍ତମ୍ଭରୁ ବାହାରିଥିଲେ ଅତ୍ୟାଚାରୀ ହିରଣ୍ୟକଶିପୁଙ୍କୁ ବିନାଶ କରି ନିଜ ଅଳ୍ପବୟସ୍କ ଭକ୍ତ ପ୍ରହ୍ଲାଦଙ୍କୁ ରକ୍ଷା କରିବାକୁ। ପରମ୍ପରା କହେ ଯେ ଦେଖୁଥିବା ଦେବତାମାନେ 'ଅହୋ ବଳମ୍!' — 'କି ଶକ୍ତି!' — ବୋଲି ଚିତ୍କାର କଲେ, ଏବଂ ଏହିପରି ସ୍ଥାନର ନାମ ହେଲା। ଗରୁଡ଼ଙ୍କ ତପସ୍ୟା ଯୋଗୁଁ ପାହାଡ଼କୁ ଗରୁଡ଼ାଦ୍ରି ମଧ୍ୟ କହନ୍ତି, ଏବଂ ପରମ୍ପରା କହେ ଯେ ନରସିଂହ ଏଠାରେ ବନବାସୀ ଚେଞ୍ଚୁ ଜନଜାତିର କନ୍ୟା ଚେଞ୍ଚୁ ଲକ୍ଷ୍ମୀଙ୍କୁ ବିବାହ କରିଥିଲେ, ତେଣୁ ପାହାଡ଼ର ଉଗ୍ର ପ୍ରଭୁ ସେଠାରେ ବାସ କରୁଥିବା ଲୋକଙ୍କର ଆତ୍ମୀୟ ମଧ୍ୟ।",
+    "festivals": "ଦେବାଳୟଗୁଡ଼ିକ ବାର୍ଷିକ ବ୍ରହ୍ମୋତ୍ସବ ପାଳନ କରନ୍ତି, ଏବଂ ନରସିଂହ ଜୟନ୍ତୀ ବିଶେଷ ପୂଜାର ଦିନ। ସଂକ୍ରାନ୍ତି ପରେ, ପରମ୍ପରା ଅନୁସାରେ ପରୁବେଟ ଉତ୍ସବରେ ପ୍ରଭୁଙ୍କୁ ଚେଞ୍ଚୁ ଗ୍ରାମମାନଙ୍କୁ ଶୋଭାଯାତ୍ରାରେ ନିଆଯାଏ, ଯାହା ପାହାଡ଼ୀ ଲୋକଙ୍କ ସହିତ ତାଙ୍କ ବନ୍ଧନକୁ ସ୍ମରଣ କରାଏ। ଅନ୍ୟ ଦିବ୍ୟ ଦେଶମ୍ ପରି ବୈକୁଣ୍ଠ ଏକାଦଶୀ ପାଳିତ ହୁଏ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ଯାଞ୍ଚ କରିନିଅନ୍ତୁ।",
+    "experience": "ଏକ ଦର୍ଶନ ଭାବରେ ନୁହେଁ, ବରଂ ଏକ ତୀର୍ଥଯାତ୍ରା ଭାବେ ପ୍ରସ୍ତୁତ ହୋଇ ଆସନ୍ତୁ: ଦେବାଳୟଗୁଡ଼ିକ ଜଙ୍ଗଲାକୀର୍ଣ୍ଣ ପାହାଡ଼ରେ ବିସ୍ତୃତ, ଏବଂ ସେଗୁଡ଼ିକ ମଧ୍ୟରେ ଚାଲିବା ଦୀର୍ଘ ଓ ପ୍ରାୟତଃ ଢାଳୁ। ପଥ ପାଇଁ ମଜବୁତ ପାଦୁକା ପିନ୍ଧନ୍ତୁ, ପାଣି ସାଙ୍ଗରେ ରଖନ୍ତୁ, ଏବଂ ନଅଟିର ଅନେକ ଦେଖିବାକୁ ଚାହିଁଲେ ଏକ ଦିନରୁ ଅଧିକ ସମୟ ରଖନ୍ତୁ। ଉପର ଅହୋବିଳମ୍ ଯାତ୍ରାର ହୃଦୟ।"
   },
   "visit": {
-    "timings": "Shrines are open daily with morning and evening darshan sessions and a midday closure; festival days are busiest, and the hill shrines may be reached only in daylight. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Ahobilam lies in Nandyal district (formerly part of Kurnool district), reached by road via Allagadda; Nandyal is the nearest major railhead. Upper and Lower Ahobilam and the hill shrines are reached by local road transport and on foot; confirm routes locally."
+    "timings": "ଦେବାଳୟଗୁଡ଼ିକ ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଅଧିବେଶନ ସହିତ ଖୋଲା ରହେ, ମଝିରେ ବନ୍ଦ ଥାଏ; ଉତ୍ସବ ଦିନରେ ଅଧିକ ଭିଡ଼ ହୁଏ, ଏବଂ ପାହାଡ଼ର ଦେବାଳୟମାନଙ୍କୁ କେବଳ ଦିନବେଳା ପହଞ୍ଚିହୁଏ। ଯିବା ପୂର୍ବରୁ ସ୍ଥାନୀୟ ଭାବେ ବର୍ତ୍ତମାନର ସମୟ ଯାଞ୍ଚ କରିନିଅନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଆଚ୍ଛାଦିତ ରହିବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବେ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକମାନଙ୍କ ନିର୍ଦ୍ଦେଶ ପାଳନ କରନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଆଖପାଖରେ ଫଟୋ ଉଠାଇବା ପ୍ରତିବନ୍ଧିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକମାନଙ୍କ ନିର୍ଦ୍ଦେଶ ପାଳନ କରନ୍ତୁ।",
+    "gettingThere": "ଅହୋବିଳମ୍ ନନ୍ଦ୍ୟାଳ ଜିଲ୍ଲାରେ (ପୂର୍ବରୁ କର୍ନୁଲ ଜିଲ୍ଲାର ଅଂଶ) ଅବସ୍ଥିତ, ଅଲ୍ଲାଗଡ଼ା ଦେଇ ସଡ଼କ ପଥରେ ପହଞ୍ଚିହୁଏ; ନନ୍ଦ୍ୟାଳ ନିକଟତମ ପ୍ରମୁଖ ରେଳ ଷ୍ଟେସନ। ଉପର ଓ ତଳ ଅହୋବିଳମ୍ ଏବଂ ପାହାଡ଼ର ଦେବାଳୟଗୁଡ଼ିକୁ ସ୍ଥାନୀୟ ସଡ଼କ ପରିବହନ ଓ ପଦବ୍ରଜରେ ପହଞ୍ଚିହୁଏ; ପଥ ସ୍ଥାନୀୟ ଭାବେ ଯାଞ୍ଚ କରିନିଅନ୍ତୁ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/narasimha-ahobilam.jpg",

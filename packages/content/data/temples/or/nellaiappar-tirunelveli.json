@@ -1,32 +1,39 @@
 {
   "id": "nellaiappar-tirunelveli",
   "locale": "or",
+  "name": "ନେଲ୍ଲୈୟପ୍ପର ମନ୍ଦିର, ତିରୁନେଲ୍ଲୱେଲି",
   "nativeName": "நெல்லையப்பர் கோயில், திருநெல்வேலி",
+  "deity": "ଶିବ ନେଲ୍ଲୈୟପ୍ପର ରୂପେ, ଧାନର ରକ୍ଷକ, ଦେବୀ କାନ୍ତିମତୀଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Tirunelveli",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁନେଲ୍ଲୱେଲି",
+    "state": "ତାମିଲ ନାଡୁ",
     "lat": 8.7286,
     "lng": 77.7038
   },
+  "period": "ପାଣ୍ଡ୍ୟ ଓ ଚୋଳ ଉତ୍ପତ୍ତି; ମହାନ ମଣ୍ଡପ ଓ ସଙ୍ଗୀତମୟ ସ୍ତମ୍ଭ ନାୟକ ଶାସନରେ ଯୋଡ଼ାଯାଇଥିଲା",
   "century": 9,
+  "dynasty": "ପାଣ୍ଡ୍ୟ ଓ ଚୋଳ ଉତ୍ପତ୍ତି, ନାୟକ ସଂଯୋଜନା",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "temples-of-the-deep-south",
     "pancha-sabhai-sthalams",
     "paadal-petra-sthalams"
   ],
+  "summary": "ତାମିରପରଣୀ ନଦୀ କୂଳରେ ତିରୁନେଲ୍ଲୱେଲିର ପୁରୁଣା ସହରରେ, ଶିବ ନେଲ୍ଲୈୟପ୍ପର ଓ ଦେବୀ କାନ୍ତିମତୀଙ୍କ ଯମଜ ମନ୍ଦିର ଏକ ମଣ୍ଡପ ଶୃଙ୍ଖଳା ଦ୍ୱାରା ଯୋଡ଼ା ହୋଇ ଠିଆ — ସଙ୍ଗୀତରେ ଝଙ୍କୃତ ହେଉଥିବା ପଥର ସ୍ତମ୍ଭ ଏବଂ ଶିବ ନୃତ୍ୟ କରିଥିଲେ ବୋଲି କଥିତ ତାମ୍ର ସଭା ପାଇଁ ପ୍ରସିଦ୍ଧ ଏକ ମହାନ ଶୈବ ତୀର୍ଥ।",
   "sections": {
-    "history": "The Nellaiappar temple stands at Tirunelveli, an ancient town on the banks of the Tamiraparani in the far south of Tamil Nadu. It is a Paadal Petra Sthalam, sung in the Tevaram hymns of the Nayanmar saints, with origins under the Pandyas and Cholas and its great mandapas and towers raised in the later centuries under Nayaka rule. The temple is really two — the shrine of Shiva as Nellaiappar and, beside it, the shrine of the Goddess Kanthimathi — joined into a single vast complex, at the devotional heart of a town whose name itself recalls the lord who guarded a devotee's paddy.",
-    "architecture": "The complex is entered through tall gopurams and unfolds through pillared halls of the mature Dravidian manner, the twin temples of Nellaiappar and Kanthimathi linked by the Sangili Mandapam, the 'chain hall'. Its most celebrated feature is the group of musical pillars — clusters of slender stone columns, carved from single blocks, that sound different musical notes when struck. Tirunelveli is honoured as the Tamira Sabhai, the copper hall, one of the five sabhas where Shiva is said to have danced his cosmic dance, and the temple holds a golden-lily tank and richly sculptured mandapas among the finest of the Nayaka age.",
-    "legends": "The name Nellaiappar — the lord of the nel, the paddy — comes from a beloved legend: a devotee had spread his harvested paddy to dry when the rains threatened, and the lord held back the downpour, sheltering the grain, so that he became known as the guardian of the paddy, Venuvananathar of the bamboo forest. The Goddess Kanthimathi shines beside him as the light of the shrine. Tirunelveli's place among the five dance-halls, as the copper sabha, sets its worship within the great tradition of Shiva Nataraja, whose foremost hall is the golden one at Chidambaram.",
-    "festivals": "The temple's year is marked by the Aadi and the Brahmotsavam festivals, the float festival on the golden-lily tank, and the Arudra Darshan sacred to Shiva as the dancer. The car festival draws great crowds through the streets of the old town. Music has a natural home here, in the temple of the singing pillars, and festival days fill the long halls with lamps, song and pilgrims.",
-    "experience": "Nellaiappar rewards the visitor who lingers among its halls: the ring of the musical pillars, the sculptured mandapas, the twin sanctums of god and goddess joined by the chain hall, and the river town around it. Tirunelveli sits in the deep south of Tamil Nadu, an easy journey from Thiruchendur on the coast and from the land's end at Kanyakumari, and joins them into a single pilgrimage of the far south."
+    "history": "ନେଲ୍ଲୈୟପ୍ପର ମନ୍ଦିର ତିରୁନେଲ୍ଲୱେଲିରେ ଅବସ୍ଥିତ, ଯାହା ତାମିଲ ନାଡୁର ଦୂର ଦକ୍ଷିଣରେ ତାମିରପରଣୀ ନଦୀ କୂଳର ଏକ ପ୍ରାଚୀନ ସହର। ଏହା ଏକ ପାଦଲ୍ ପେତ୍ର ସ୍ଥଳମ୍, ନାୟନମାର ସନ୍ଥମାନଙ୍କ ତେବାରମ୍ ସ୍ତୋତ୍ରରେ ଗୀତ, ଯାହାର ଉତ୍ପତ୍ତି ପାଣ୍ଡ୍ୟ ଓ ଚୋଳଙ୍କ ଅଧୀନରେ, ଏବଂ ଯାହାର ମହାନ ମଣ୍ଡପ ଓ ଗୋପୁର ପରବର୍ତ୍ତୀ ଶତାବ୍ଦୀମାନଙ୍କରେ ନାୟକ ଶାସନରେ ନିର୍ମିତ। ମନ୍ଦିର ପ୍ରକୃତରେ ଦୁଇଟି — ନେଲ୍ଲୈୟପ୍ପର ରୂପେ ଶିବଙ୍କ ମନ୍ଦିର ଏବଂ ତା' ପାଖରେ ଦେବୀ କାନ୍ତିମତୀଙ୍କ ମନ୍ଦିର — ଗୋଟିଏ ବିଶାଳ ପରିସରରେ ମିଶିଛି, ଏକ ସହରର ଭକ୍ତି ହୃଦୟରେ, ଯାହାର ନାମ ନିଜେ ଜଣେ ଭକ୍ତଙ୍କ ଧାନକୁ ରକ୍ଷା କରିଥିବା ପ୍ରଭୁଙ୍କୁ ସ୍ମରଣ କରାଏ।",
+    "architecture": "ପରିସରରେ ଉଚ୍ଚ ଗୋପୁରମ୍ ଦେଇ ପ୍ରବେଶ କରାଯାଏ ଏବଂ ପରିପକ୍ୱ ଦ୍ରାବିଡ଼ ଶୈଳୀର ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପମାନଙ୍କ ମଧ୍ୟ ଦେଇ ଏହା ବିସ୍ତାରିତ, ନେଲ୍ଲୈୟପ୍ପର ଓ କାନ୍ତିମତୀଙ୍କ ଯମଜ ମନ୍ଦିର 'ଶୃଙ୍ଖଳା ମଣ୍ଡପ' ସାଙ୍ଗିଲି ମଣ୍ଡପମ୍ ଦ୍ୱାରା ଯୋଡ଼ା। ଏହାର ସବୁଠାରୁ ପ୍ରସିଦ୍ଧ ବୈଶିଷ୍ଟ୍ୟ ହେଉଛି ସଙ୍ଗୀତମୟ ସ୍ତମ୍ଭ — ଏକ ଏକ ପଥରରୁ ଖୋଦିତ ସରୁ ପଥର ସ୍ତମ୍ଭଗୁଚ୍ଛ, ଯାହାକୁ ଆଘାତ କଲେ ଭିନ୍ନ ଭିନ୍ନ ସ୍ୱର ବାଜେ। ତିରୁନେଲ୍ଲୱେଲି ତାମିର ସଭା, ତାମ୍ର ସଭା ରୂପେ ସମ୍ମାନିତ, ଯାହା ପାଞ୍ଚ ସଭାମଧ୍ୟରୁ ଏକ ଯେଉଁଠି ଶିବ ନିଜର ମହାଜାଗତିକ ନୃତ୍ୟ କରିଥିଲେ ବୋଲି କୁହାଯାଏ, ଏବଂ ମନ୍ଦିରରେ ସୁବର୍ଣ୍ଣ ପଦ୍ମ ପୁଷ୍କରିଣୀ ଓ ନାୟକ ଯୁଗର ସର୍ବୋତ୍ତମ ମଧ୍ୟରେ ଗଣାଯାଉଥିବା ସମୃଦ୍ଧ ଖୋଦିତ ମଣ୍ଡପମାନ ଅଛି।",
+    "legends": "ନେଲ୍ଲୈୟପ୍ପର — ନେଲ୍, ଅର୍ଥାତ୍ ଧାନର ପ୍ରଭୁ — ନାମ ଏକ ପ୍ରିୟ କିମ୍ବଦନ୍ତୀରୁ ଆସିଛି: ଜଣେ ଭକ୍ତ ଫସଲ କଟାଯାଇଥିବା ଧାନ ଶୁଖାଇବାକୁ ବିଛାଇଥିଲେ ଯେତେବେଳେ ବର୍ଷାର ଭୟ ଥିଲା, ଏବଂ ପ୍ରଭୁ ମୁଷଳଧାର ବର୍ଷାକୁ ରୋକି ଶସ୍ୟକୁ ଆଶ୍ରୟ ଦେଲେ, ଯାହାଫଳରେ ସେ ଧାନର ରକ୍ଷକ, ବାଂଶବନର ବେଣୁବନନାଥ ଭାବେ ଜଣାଗଲେ। ଦେବୀ କାନ୍ତିମତୀ ତାଙ୍କ ପାଖରେ ମନ୍ଦିରର ଆଲୋକ ରୂପେ ଦୀପ୍ତିମାନ। ପାଞ୍ଚ ନୃତ୍ୟ ସଭା ମଧ୍ୟରେ ତିରୁନେଲ୍ଲୱେଲିର ସ୍ଥାନ, ତାମ୍ର ସଭା ରୂପେ, ଏହାର ପୂଜାକୁ ଶିବ ନଟରାଜଙ୍କ ମହାନ ପରମ୍ପରା ମଧ୍ୟରେ ସ୍ଥାପିତ କରେ, ଯାହାଙ୍କ ପ୍ରମୁଖ ସଭା ଚିଦମ୍ବରମ୍‌ର ସୁବର୍ଣ୍ଣ ସଭା।",
+    "festivals": "ମନ୍ଦିରର ବର୍ଷ ଆଡି ଓ ବ୍ରହ୍ମୋତ୍ସବ ଉତ୍ସବ, ସୁବର୍ଣ୍ଣ ପଦ୍ମ ପୁଷ୍କରିଣୀରେ ତରଣୀ ଉତ୍ସବ, ଏବଂ ନୃତ୍ୟକାର ଶିବଙ୍କ ପାଇଁ ପବିତ୍ର ଆରୁଦ୍ରା ଦର୍ଶନ ଦ୍ୱାରା ଚିହ୍ନିତ। ରଥୋତ୍ସବ ପୁରୁଣା ସହରର ରାସ୍ତାମାନଙ୍କରେ ବିପୁଳ ଭିଡ଼ ଆକର୍ଷଣ କରେ। ଗାୟନ ସ୍ତମ୍ଭର ମନ୍ଦିରରେ ସଙ୍ଗୀତର ସ୍ୱାଭାବିକ ସ୍ଥାନ ଅଛି, ଏବଂ ଉତ୍ସବ ଦିନ ଲମ୍ବା ମଣ୍ଡପମାନ ଦୀପ, ସଙ୍ଗୀତ ଓ ତୀର୍ଥଯାତ୍ରୀଙ୍କ ଦ୍ୱାରା ପୂର୍ଣ୍ଣ ହୁଏ।",
+    "experience": "ନେଲ୍ଲୈୟପ୍ପର ସେହି ଦର୍ଶକଙ୍କୁ ପୁରସ୍କୃତ କରେ ଯେ ଏହାର ମଣ୍ଡପମାନଙ୍କ ମଧ୍ୟରେ ବିଳମ୍ବ କରନ୍ତି: ସଙ୍ଗୀତମୟ ସ୍ତମ୍ଭର ଝଙ୍କାର, ଖୋଦିତ ମଣ୍ଡପମାନ, ଶୃଙ୍ଖଳା ମଣ୍ଡପ ଦ୍ୱାରା ଯୋଡ଼ା ଦେବ ଓ ଦେବୀଙ୍କ ଯମଜ ଗର୍ଭଗୃହ, ଏବଂ ଚାରିପାଖର ନଦୀ ସହର। ତିରୁନେଲ୍ଲୱେଲି ତାମିଲ ନାଡୁର ଦୂର ଦକ୍ଷିଣରେ ଅବସ୍ଥିତ, ଉପକୂଳର ତିରୁଚେନ୍ଦୁର ଓ ଭୂଭାଗର ଶେଷ ପ୍ରାନ୍ତ କନ୍ୟାକୁମାରୀରୁ ସହଜ ଯାତ୍ରା ଦୂରତାରେ, ଏବଂ ସେମାନଙ୍କୁ ଦୂର ଦକ୍ଷିଣର ଏକ ଏକକ ତୀର୍ଥଯାତ୍ରାରେ ଯୋଡ଼ିଦିଏ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before entering the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Tirunelveli is a major town in the deep south of Tamil Nadu, well connected by road and rail; it lies about 60 km from Thiruchendur and within easy reach of Kanyakumari and the far south."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ସହିତ ଏକ ଲମ୍ବା ମଧ୍ୟାହ୍ନ ବନ୍ଦ ରହେ; ଉତ୍ସବ ଦିନରେ ସବୁଠାରୁ ଅଧିକ ଭିଡ଼ ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ବେଶଭୂଷା ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବେ। ଅନେକ ଦକ୍ଷିଣ ମନ୍ଦିର ପରି, ଗର୍ଭଗୃହରେ ପ୍ରବେଶ ପୂର୍ବରୁ ପୁରୁଷମାନଙ୍କୁ ପାରମ୍ପରିକ ଭାବେ ଊର୍ଦ୍ଧ୍ୱ ବସ୍ତ୍ର ଖୋଲିବାକୁ କୁହାଯାଏ; ଟାଙ୍ଗି ରଖାଯାଇଥିବା ନିୟମ ମାନନ୍ତୁ।",
+    "photography": "ଫଟୋ ଉଠାଇବା ନିଷିଦ୍ଧ, ବିଶେଷକରି ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ; ଟାଙ୍ଗି ରଖାଯାଇଥିବା ନିୟମ ଓ ପୂଜକମାନଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ତିରୁନେଲ୍ଲୱେଲି ତାମିଲ ନାଡୁର ଦୂର ଦକ୍ଷିଣରେ ଏକ ପ୍ରମୁଖ ସହର, ସଡ଼କ ଓ ରେଳ ଦ୍ୱାରା ଭଲ ଭାବେ ସଂଯୁକ୍ତ; ଏହା ତିରୁଚେନ୍ଦୁରରୁ ପ୍ରାୟ ୬୦ କିମି ଦୂରରେ ଏବଂ କନ୍ୟାକୁମାରୀ ଓ ଦୂର ଦକ୍ଷିଣର ସହଜ ପହଞ୍ଚ ମଧ୍ୟରେ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/nellaiappar-tirunelveli.jpg",

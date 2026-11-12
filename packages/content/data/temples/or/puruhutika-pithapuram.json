@@ -1,31 +1,38 @@
 {
   "id": "puruhutika-pithapuram",
   "locale": "or",
+  "name": "ପୁରୁହୂତିକା ଦେବୀ ଓ କୁକ୍କୁଟେଶ୍ୱର ସ୍ୱାମୀ ମନ୍ଦିର, ପିଠାପୁରମ୍",
   "nativeName": "శ్రీ పురుహూతికా దేవి – కుక్కుటేశ్వర స్వామి ఆలయం, పిఠాపురం",
+  "deity": "ଦେବୀ ପୁରୁହୂତିକା ରୂପେ, ରାଜରାଜେଶ୍ୱରୀଙ୍କ ସହ କୁକ୍କୁଟେଶ୍ୱର ରୂପରେ ଶିବଙ୍କ ମନ୍ଦିର ଭିତରେ",
+  "tradition": "ଶୈବ ଧର୍ମ ଓ ଶାକ୍ତ ଧର୍ମ",
   "location": {
-    "city": "Pithapuram",
-    "state": "Andhra Pradesh",
+    "city": "ପିଠାପୁରମ୍",
+    "state": "ଆନ୍ଧ୍ର ପ୍ରଦେଶ",
     "lat": 17.1068,
     "lng": 82.2433
   },
+  "period": "ଏକ ପ୍ରାଚୀନ ତୀର୍ଥକ୍ଷେତ୍ର — ପ୍ରାଚୀନ ଶିଳାଲେଖର ପିଷ୍ଟପୁର — ଏବଂ ଅଷ୍ଟାଦଶ ମହା ଶକ୍ତିପୀଠ ମଧ୍ୟରୁ ଅନ୍ୟତମ",
   "century": 7,
+  "dynasty": "ପରମ୍ପରାଗତ; ପିଠାପୁରମ୍ ପୂର୍ବ ଚାଲୁକ୍ୟଙ୍କ ଏକ ପ୍ରାରମ୍ଭିକ ରାଜଧାନୀ ଥିଲା",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "shakti-peethas-of-the-south",
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "ପିଠାପୁରମ୍‌ର ପୁରୁଣା ନଗରୀରେ କୁକ୍କୁଟେଶ୍ୱରଙ୍କ ମନ୍ଦିର ଭିତରେ ଦେବୀ ପୁରୁହୂତିକା ଅଷ୍ଟାଦଶ ମହା ଶକ୍ତିପୀଠ ମଧ୍ୟରୁ ଏକ ଭାବେ ପୂଜିତା, ପାଦ ଗୟା ପୁଷ୍କରିଣୀ ପାଖରେ, ଯେଉଁଠାରେ ତୀର୍ଥଯାତ୍ରୀମାନେ ପୂର୍ବପୁରୁଷଙ୍କ ପାଇଁ ଶ୍ରାଦ୍ଧ କରନ୍ତି।",
   "sections": {
-    "history": "Pithapuram, near the coast of the Godavari delta, is among the oldest towns of Andhra: as Pishtapura it appears in Samudragupta's fourth-century inscription at Prayaga, and in the seventh century it served as an early seat of the Eastern Chalukyas before they moved to Vengi. Its great temple is dedicated to Shiva as Kukkuteswara Swamy, and within the same complex the goddess Puruhutika has her shrine, counted among the eighteen Maha Shakti Peethas named in the hymn attributed to Adi Shankara. Together with its sacred tank, the Pada Gaya, the temple has drawn pilgrims for centuries, both to seek the goddess's grace and to perform rites for departed ancestors, which are held here to be as meritorious as those offered at Gaya or Kashi.",
-    "architecture": "The temple is a walled Dravidian complex, with the sanctum of Kukkuteswara at its heart. The linga is held to be self-manifested, and devotees see in its form the shape of a rooster, the kukkuta that gives the lord his name; Rajarajeswari is worshipped as his consort. The shrine of Puruhutika Devi stands within the same enclosure, and before the complex lies the broad Pada Gaya tank, its steps worn by generations of bathers. Large footprints near the flagstaff are shown to pilgrims as those of Gayasura.",
-    "legends": "Pithapuram joins two great sacred stories. As a Shakti Peetha it belongs to the legend of Sati, whose body, carried by the grieving Shiva, fell in parts across the land; tradition holds that her seat fell here. The tank recalls Gayasura, a devotee whose body was so vast that his head lay at Gaya, his navel at Jajpur and his feet at Pithapuram — hence Pada Gaya, the 'Gaya of the feet'. A local tale adds that Shiva crowed as a rooster to bring his long penance to a close, and remained here as Kukkuteswara.",
-    "festivals": "Maha Shivaratri is the great festival of Kukkuteswara, and Navaratri is celebrated with special worship of Puruhutika Devi. The month of Karthika brings bathers to the Pada Gaya and lamps to the temple, and ancestral rites are performed at the tank through the year, especially on new-moon days. Confirm dates locally.",
-    "experience": "Pilgrims usually bathe or sprinkle water at the Pada Gaya, worship Kukkuteswara and Rajarajeswari, and then seek the darshan of Puruhutika Devi. The town is also cherished by followers of the Dattatreya tradition as the birthplace of Sripada Srivallabha, whose shrine lies nearby. The temples of the Godavari delta, including Draksharamam and Annavaram, make natural companions."
+    "history": "ଗୋଦାବରୀ ବଦ୍ୱୀପର ଉପକୂଳ ନିକଟସ୍ଥ ପିଠାପୁରମ୍ ଆନ୍ଧ୍ରର ସବୁଠାରୁ ପ୍ରାଚୀନ ନଗରୀ ମଧ୍ୟରୁ ଅନ୍ୟତମ: ପିଷ୍ଟପୁର ନାମରେ ଏହା ପ୍ରୟାଗରେ ସମୁଦ୍ରଗୁପ୍ତଙ୍କ ଚତୁର୍ଥ ଶତାବ୍ଦୀର ଶିଳାଲେଖରେ ଉଲ୍ଲିଖିତ, ଆଉ ସପ୍ତମ ଶତାବ୍ଦୀରେ ଏହା ବେଙ୍ଗୀକୁ ସ୍ଥାନାନ୍ତର ହେବା ପୂର୍ବରୁ ପୂର୍ବ ଚାଲୁକ୍ୟଙ୍କ ଏକ ପ୍ରାରମ୍ଭିକ ରାଜଧାନୀ ଥିଲା। ଏହାର ମହାନ ମନ୍ଦିର କୁକ୍କୁଟେଶ୍ୱର ସ୍ୱାମୀ ରୂପେ ଶିବଙ୍କୁ ଉତ୍ସର୍ଗୀକୃତ, ଆଉ ସେହି ପରିସର ଭିତରେ ଦେବୀ ପୁରୁହୂତିକାଙ୍କ ମନ୍ଦିର, ଯାହା ଆଦି ଶଙ୍କରାଚାର୍ଯ୍ୟଙ୍କ ନାମରେ ପ୍ରଚଳିତ ସ୍ତୋତ୍ରରେ ଉଲ୍ଲିଖିତ ଅଷ୍ଟାଦଶ ମହା ଶକ୍ତିପୀଠ ମଧ୍ୟରେ ଗଣାଯାଏ। ଏହାର ପବିତ୍ର ପୁଷ୍କରିଣୀ ପାଦ ଗୟା ସହିତ, ମନ୍ଦିର ଶତାବ୍ଦୀ ଧରି ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ଆକର୍ଷିତ କରିଛି, ଦେବୀଙ୍କ କୃପା ଲାଭ ପାଇଁ ଓ ପରଲୋକଗତ ପୂର୍ବପୁରୁଷଙ୍କ ପାଇଁ ବିଧି ସମ୍ପାଦନ ପାଇଁ, ଯାହା ଗୟା କିମ୍ବା କାଶୀରେ କରାଯାଉଥିବା ବିଧି ପରି ପୁଣ୍ୟଦାୟକ ବୋଲି ମାନାଯାଏ।",
+    "architecture": "ମନ୍ଦିର ଏକ ପ୍ରାଚୀରଘେରା ଦ୍ରାବିଡ଼ ପରିସର, ଯାହାର ହୃଦୟରେ କୁକ୍କୁଟେଶ୍ୱରଙ୍କ ଗର୍ଭଗୃହ। ଲିଙ୍ଗ ସ୍ୱୟମ୍ଭୂ ବୋଲି ମାନାଯାଏ, ଆଉ ଭକ୍ତମାନେ ଏହାର ଆକୃତିରେ କୁକ୍କୁଟ ବା କୁକୁଡ଼ାର ରୂପ ଦେଖନ୍ତି, ଯାହା ପ୍ରଭୁଙ୍କୁ ନାମ ଦିଏ; ରାଜରାଜେଶ୍ୱରୀ ତାଙ୍କ ଶକ୍ତି ରୂପେ ପୂଜିତା। ପୁରୁହୂତିକା ଦେବୀଙ୍କ ମନ୍ଦିର ସେହି ପ୍ରାଙ୍ଗଣ ଭିତରେ ଅବସ୍ଥିତ, ଆଉ ପରିସର ସମ୍ମୁଖରେ ବିସ୍ତୃତ ପାଦ ଗୟା ପୁଷ୍କରିଣୀ, ପିଢ଼ି ପିଢ଼ି ସ୍ନାନକାରୀଙ୍କ ଦ୍ୱାରା କ୍ଷୟପ୍ରାପ୍ତ ଏହାର ସୋପାନ। ଧ୍ୱଜସ୍ତମ୍ଭ ନିକଟର ବିରାଟ ପଦଚିହ୍ନ ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ଗୟାସୁରଙ୍କ ବୋଲି ଦେଖାଯାଏ।",
+    "legends": "ପିଠାପୁରମ୍ ଦୁଇଟି ମହାନ ପବିତ୍ର କାହାଣୀକୁ ଯୋଡ଼େ। ଶକ୍ତିପୀଠ ଭାବେ ଏହା ସତୀଙ୍କ କାହାଣୀର ଅଂଶ, ଯାହାଙ୍କ ଦେହ ଶୋକାତୁର ଶିବଙ୍କ ଦ୍ୱାରା ବହନ ହେଲାବେଳେ ଖଣ୍ଡ ଖଣ୍ଡ ହୋଇ ଦେଶରେ ପଡ଼ିଥିଲା; ପରମ୍ପରା ଅନୁସାରେ ତାଙ୍କ ପୀଠ ଏଠାରେ ପଡ଼ିଥିଲା। ପୁଷ୍କରିଣୀ ଗୟାସୁରଙ୍କୁ ସ୍ମରଣ କରାଏ, ଯେ ଏତେ ବିରାଟ ଭକ୍ତ ଥିଲେ ଯେ ତାଙ୍କ ମସ୍ତକ ଗୟାରେ, ନାଭି ଯାଜପୁରରେ ଓ ପାଦ ପିଠାପୁରମ୍‌ରେ ଥିଲା — ତେଣୁ ପାଦ ଗୟା, 'ପାଦର ଗୟା'। ଏକ ସ୍ଥାନୀୟ କାହାଣୀ ଅନୁସାରେ ଶିବ ନିଜର ଦୀର୍ଘ ତପସ୍ୟା ଶେଷ କରିବାକୁ କୁକୁଡ଼ା ରୂପେ ଡାକିଥିଲେ ଏବଂ ଏଠାରେ କୁକ୍କୁଟେଶ୍ୱର ରୂପେ ରହିଗଲେ।",
+    "festivals": "ମହା ଶିବରାତ୍ରି କୁକ୍କୁଟେଶ୍ୱରଙ୍କ ମହାନ ଉତ୍ସବ, ଆଉ ନବରାତ୍ରିରେ ପୁରୁହୂତିକା ଦେବୀଙ୍କୁ ବିଶେଷ ପୂଜା କରାଯାଏ। କାର୍ତ୍ତିକ ମାସ ପାଦ ଗୟାକୁ ସ୍ନାନକାରୀ ଓ ମନ୍ଦିରକୁ ଦୀପ ଆଣେ, ଆଉ ବର୍ଷସାରା, ବିଶେଷତଃ ଅମାବାସ୍ୟା ଦିନରେ, ପୁଷ୍କରିଣୀରେ ପୂର୍ବପୁରୁଷ ବିଧି ସମ୍ପାଦିତ ହୁଏ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ତୀର୍ଥଯାତ୍ରୀମାନେ ସାଧାରଣତଃ ପାଦ ଗୟାରେ ସ୍ନାନ କରନ୍ତି କିମ୍ବା ଜଳ ଛିଞ୍ଚନ୍ତି, କୁକ୍କୁଟେଶ୍ୱର ଓ ରାଜରାଜେଶ୍ୱରୀଙ୍କୁ ପୂଜା କରନ୍ତି, ତା'ପରେ ପୁରୁହୂତିକା ଦେବୀଙ୍କ ଦର୍ଶନ କରନ୍ତି। ନଗରୀ ଦତ୍ତାତ୍ରେୟ ପରମ୍ପରାର ଅନୁଗାମୀଙ୍କ ପାଇଁ ମଧ୍ୟ ପ୍ରିୟ, ଶ୍ରୀପାଦ ଶ୍ରୀବଲ୍ଲଭଙ୍କ ଜନ୍ମସ୍ଥାନ ଭାବେ, ଯାହାଙ୍କ ମନ୍ଦିର ନିକଟରେ ଅଛି। ଦ୍ରାକ୍ଷାରାମମ୍ ଓ ଅନ୍ନାବରମ୍ ସମେତ ଗୋଦାବରୀ ବଦ୍ୱୀପର ମନ୍ଦିରଗୁଡ଼ିକ ସ୍ୱାଭାବିକ ସାଥୀ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure; Shivaratri, Navaratri and Karthika are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Those performing ancestral rites at the tank are guided by the local priests.",
-    "photography": "Photography is not permitted in the sanctums; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Pithapuram lies about 20 km from Kakinada and has a railway station on the Vijayawada–Visakhapatnam main line. The nearest airports are at Rajahmundry and Visakhapatnam, with good road connections along the coast."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ସହ ଖୋଲା ଏବଂ ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ; ଶିବରାତ୍ରି, ନବରାତ୍ରି ଓ କାର୍ତ୍ତିକ ସବୁଠାରୁ ଭିଡ଼ ସମୟ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା, ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବା। ପୁଷ୍କରିଣୀରେ ପୂର୍ବପୁରୁଷ ବିଧି କରୁଥିବା ବ୍ୟକ୍ତିମାନେ ସ୍ଥାନୀୟ ପୁରୋହିତଙ୍କ ମାର୍ଗଦର୍ଶନରେ ଚାଲନ୍ତି।",
+    "photography": "ଗର୍ଭଗୃହରେ ଫଟୋ ଉଠାଇବା ଅନୁମତିପ୍ରାପ୍ତ ନୁହେଁ; ପ୍ରଦର୍ଶିତ ନିୟମ ଓ ପୁରୋହିତଙ୍କ ମାର୍ଗଦର୍ଶନ ଅନୁସରଣ କରନ୍ତୁ।",
+    "gettingThere": "ପିଠାପୁରମ୍ କାକିନାଡ଼ାରୁ ପ୍ରାୟ ୨୦ କିଲୋମିଟର ଦୂରରେ ଏବଂ ବିଜୟୱାଡ଼ା–ବିଶାଖାପଟ୍ଟଣମ୍ ମୁଖ୍ୟ ରେଳ ଲାଇନ୍‌ରେ ଏକ ରେଳ ଷ୍ଟେସନ ଅଛି। ନିକଟତମ ବିମାନବନ୍ଦର ରାଜାମହେନ୍ଦ୍ରବରମ୍ ଓ ବିଶାଖାପଟ୍ଟଣମ୍‌ରେ, ଉପକୂଳ ଯାକ ଭଲ ସଡ଼କ ସଂଯୋଗ ସହ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/puruhutika-pithapuram.jpg",

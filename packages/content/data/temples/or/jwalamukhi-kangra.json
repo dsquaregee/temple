@@ -1,29 +1,36 @@
 {
   "id": "jwalamukhi-kangra",
   "locale": "or",
+  "name": "ଜ୍ୱାଳାମୁଖୀ ମନ୍ଦିର, କାଙ୍ଗଡ଼ା",
   "nativeName": "ज्वालामुखी मंदिर",
+  "deity": "ଜ୍ୱାଳାମୁଖୀ ରୂପରେ ଦେବୀ (ଜ୍ୱାଳା ଦେବୀ, ବୈଷ୍ଣବୀ), ନଅଟି ପ୍ରାକୃତିକ ଅଗ୍ନିଶିଖା ରୂପେ ପୂଜିତା",
+  "tradition": "ଶାକ୍ତ ଧର୍ମ",
   "location": {
-    "city": "Jwalamukhi, Kangra district",
-    "state": "Himachal Pradesh",
+    "city": "ଜ୍ୱାଳାମୁଖୀ, କାଙ୍ଗଡ଼ା ଜିଲ୍ଲା",
+    "state": "ହିମାଚଳ ପ୍ରଦେଶ",
     "lat": 31.8753,
     "lng": 76.3242
   },
+  "period": "କାଙ୍ଗଡ଼ା ପାହାଡ଼ର ପ୍ରାଚୀନ ଶକ୍ତି ପୀଠ, ଅଷ୍ଟାଦଶ ଶକ୍ତି ପୀଠ ସ୍ତୋତ୍ରରେ ଉଲ୍ଲିଖିତ ଏବଂ ଚତୁର୍ଦ୍ଦଶ ଶତାବ୍ଦୀର ଏକ ଇତିବୃତ୍ତରେ ଲିପିବଦ୍ଧ; ବର୍ତ୍ତମାନର ଗଠନ ପରବର୍ତ୍ତୀ ରାଜକୀୟ ପୃଷ୍ଠପୋଷକମାନଙ୍କ ଦ୍ୱାରା ରୂପ ପାଇଛି",
   "century": 14,
+  "dynasty": "କାଙ୍ଗଡ଼ାର କଟୋଚ ରାଜାମାନେ (ପରମ୍ପରା ଅନୁସାରେ), ଲାହୋରର ଶିଖ ଦରବାରର ପରବର୍ତ୍ତୀ ଦାନ ସହ",
+  "style": "ସୁବର୍ଣ୍ଣ ଗମ୍ବୁଜ ଓ ରୂପା-ମଣ୍ଡିତ କବାଟ ସହ ଉତ୍ତର ଭାରତୀୟ ହିମାଳୟୀୟ ଶୈଳୀ",
   "unesco": false,
   "circuits": [
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "ଜ୍ୱାଳାମୁଖୀ ହେଉଛି ଜ୍ୱଳନ୍ତ ଦେବୀଙ୍କର ଶକ୍ତି ପୀଠ, ଯେଉଁଠି କୌଣସି ମୂର୍ତ୍ତି ନାହିଁ, ଏବଂ କାଙ୍ଗଡ଼ା ପାହାଡ଼ର ଜୀବନ୍ତ ଶିଳାରୁ ଉଠୁଥିବା, କେବେ ନିଭେ ନାହିଁ ବୋଲି କୁହାଯାଉଥିବା ଅଗ୍ନିଶିଖାରେ ସତୀଙ୍କ ଜିହ୍ୱା ସ୍ମରଣ କରାଯାଏ।",
   "sections": {
-    "history": "Jwalamukhi lies in the green foothills of the Kangra valley, and its worship is older than any building that now stands there. The Ashtadasha Shakti Peetha stotram, traditionally ascribed to Adi Shankara, names the place in the line Jwalayam Vaishnavi and counts it among the eighteen great seats of the Goddess; tradition holds that here the tongue of Sati fell to earth. Local memory credits Bhumi Chand of the Katoch line, the ruler of Kangra and a devotee of Durga, with first raising a shrine after a dream led him to the spot. A Persian chronicle of the fourteenth century records the visit of Firuz Shah Tughlaq to the place during his Kangra campaign, and later rulers, among them the Sikh court at Lahore, added to the shrine. Through every age the devotion has stayed fixed on the same flames.",
-    "architecture": "There is no image in the sanctum. The shrine is a compact hall of North Indian hill style, crowned by a gilded dome and several small pinnacles and entered through silver-plated doors, with a small pillared hall before it. Inside, flames rise from fissures in the rock, nine of them counted and honoured as nine forms of the Goddess, among them Mahakali, Annapurna, Chandi, Hinglaj, Vindhyavasini, Mahalakshmi, Saraswati, Ambika and Anji Devi. The principal flame, burning from a hollowed rock, is regarded as the mouth of the Goddess herself, and devotees offer to the fire as to a living presence. Close above the shrine stands the Gorakh Dibbi, a place of the Nath yogis where a pool appears to boil because gas rises through its water.",
-    "legends": "The foundation story is that of Sati. When she gave up her life at her father Daksha's sacrifice and Shiva wandered with her body, her limbs fell across the land, and here, tradition says, her tongue fell and became the fire; Unmatta Bhairava keeps the place as her guardian. Local tradition adds the story of the Mughal emperor Akbar. He is said to have tried to quench the flames with an iron disc and with a channel of water, and when the fire would not yield he came to the shrine and offered a golden umbrella, which turned into an unknown metal in his hands. This is told as oral tradition and is not found in the Mughal court records, but it is the tale that pilgrims carry home. A story of the Nath saint Gorakhnath, who set a pot to boil and promised to return, explains the boiling pool beside the temple.",
-    "festivals": "The great gatherings are the two Navratri seasons, in Chaitra (March or April) and Ashwin (September or October), when fairs fill the streets around the shrine and pilgrims arrive from across northern India. Aarti is offered several times a day, from the waking of the Goddess at dawn through the evening aarti to the Shayan aarti that lays her to rest. Confirm dates and aarti times locally, as the festivals follow the lunar calendar.",
-    "experience": "Come to Jwalamukhi without expecting an image. Climb the lane to the gilded dome, pass through the silver doors, and stand before the small flames at the rock, whose light seems quieter and steadier than any lamp lit by hand. Many pilgrims offer sweet prasad and sit afterwards in the courtyard to watch the aarti. Walk on to the Gorakh Dibbi above the temple for the view over the valley. Queues grow long during Navratri, so an early weekday morning gives the most unhurried darshan."
+    "history": "ଜ୍ୱାଳାମୁଖୀ କାଙ୍ଗଡ଼ା ଉପତ୍ୟକାର ସବୁଜ ପାଦଦେଶରେ ଅବସ୍ଥିତ, ଏବଂ ଏଠାକାର ପୂଜା ବର୍ତ୍ତମାନର ଯେକୌଣସି ଭବନଠାରୁ ପ୍ରାଚୀନ। ପରମ୍ପରାଗତ ଭାବେ ଆଦି ଶଙ୍କରାଚାର୍ଯ୍ୟଙ୍କୁ ଆରୋପିତ ଅଷ୍ଟାଦଶ ଶକ୍ତି ପୀଠ ସ୍ତୋତ୍ର 'ଜ୍ୱାଳାୟଂ ବୈଷ୍ଣବୀ' ପଂକ୍ତିରେ ଏହି ସ୍ଥାନର ନାମ ଉଲ୍ଲେଖ କରି ଏହାକୁ ଦେବୀଙ୍କର ଅଠର ମହାପୀଠ ମଧ୍ୟରେ ଗଣନା କରେ; ପରମ୍ପରା ମତେ ଏଠାରେ ସତୀଙ୍କ ଜିହ୍ୱା ପୃଥିବୀରେ ପଡ଼ିଥିଲା। ସ୍ଥାନୀୟ ସ୍ମୃତିରେ କଟୋଚ ବଂଶର କାଙ୍ଗଡ଼ା ଶାସକ ଓ ଦୁର୍ଗାଭକ୍ତ ଭୂମିଚନ୍ଦ୍ର ଏକ ସ୍ୱପ୍ନ ଦ୍ୱାରା ଏହି ସ୍ଥାନକୁ ଆସି ପ୍ରଥମେ ମନ୍ଦିର ନିର୍ମାଣ କରିଥିଲେ ବୋଲି କୁହାଯାଏ। ଚତୁର୍ଦ୍ଦଶ ଶତାବ୍ଦୀର ଏକ ପାର୍ସୀ ଇତିବୃତ୍ତରେ ଫିରୋଜ ଶାହ ତୁଗଲକଙ୍କ କାଙ୍ଗଡ଼ା ଅଭିଯାନ ସମୟରେ ଏଠାକୁ ଆଗମନ ଲିପିବଦ୍ଧ ଅଛି, ଏବଂ ଲାହୋରର ଶିଖ ଦରବାର ସମେତ ପରବର୍ତ୍ତୀ ଶାସକମାନେ ମନ୍ଦିରକୁ ଦାନ ଦେଇଛନ୍ତି। ସବୁ ଯୁଗରେ ଭକ୍ତି ସେହି ଅଗ୍ନିଶିଖା ଉପରେ ହିଁ ସ୍ଥିର ରହିଛି।",
+    "architecture": "ଗର୍ଭଗୃହରେ କୌଣସି ବିଗ୍ରହ ନାହିଁ। ମନ୍ଦିରଟି ଉତ୍ତର ଭାରତୀୟ ପାର୍ବତ୍ୟ ଶୈଳୀର ଏକ ସଙ୍କ୍ଷିପ୍ତ ଗୃହ, ଏକ ସୁବର୍ଣ୍ଣ ଗମ୍ବୁଜ ଓ କେତେକ ଛୋଟ ଚୂଡ଼ାରେ ମଣ୍ଡିତ, ରୂପା-ମଣ୍ଡିତ କବାଟ ଦେଇ ପ୍ରବେଶ, ସମ୍ମୁଖରେ ଏକ ଛୋଟ ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ। ଭିତରେ ଶିଳାର ଫାଟରୁ ଅଗ୍ନିଶିଖା ଉଠେ — ନଅଟି ଗଣାଯାଏ ଏବଂ ଦେବୀଙ୍କ ନଅ ରୂପ ଭାବେ ପୂଜିତ, ଯେପରିକି ମହାକାଳୀ, ଅନ୍ନପୂର୍ଣ୍ଣା, ଚଣ୍ଡୀ, ହିଙ୍ଗଲାଜ, ବିନ୍ଧ୍ୟବାସିନୀ, ମହାଲକ୍ଷ୍ମୀ, ସରସ୍ୱତୀ, ଅମ୍ବିକା ଓ ଅଞ୍ଜୀ ଦେବୀ। ଖୋଳା ଶିଳାରୁ ଜଳୁଥିବା ମୁଖ୍ୟ ଶିଖାକୁ ଦେବୀଙ୍କ ନିଜ ମୁଖ ବୋଲି ମାନାଯାଏ, ଏବଂ ଭକ୍ତମାନେ ଜୀବନ୍ତ ସତ୍ତା ପରି ଅଗ୍ନିକୁ ଅର୍ପଣ କରନ୍ତି। ମନ୍ଦିର ଉପରେ ଗୋରଖ ଡିବ୍ବୀ ଅଛି, ନାଥ ଯୋଗୀମାନଙ୍କର ଏକ ସ୍ଥାନ, ଯେଉଁଠି ଜଳ ଭିତରୁ ଗ୍ୟାସ୍ ଉଠୁଥିବାରୁ କୁଣ୍ଡଟି ଫୁଟୁଥିବା ପରି ଦିଶେ।",
+    "legends": "ମୂଳ କାହାଣୀ ସତୀଙ୍କର। ସେ ପିତା ଦକ୍ଷଙ୍କ ଯଜ୍ଞରେ ପ୍ରାଣ ତ୍ୟାଗ କରିବା ପରେ ଶିବ ତାଙ୍କ ଶରୀର ଧରି ବୁଲିଲେ, ଏବଂ ତାଙ୍କ ଅଙ୍ଗମାନ ଦେଶସାରା ପଡ଼ିଲା; ପରମ୍ପରା କହେ ଏଠାରେ ତାଙ୍କ ଜିହ୍ୱା ପଡ଼ି ଅଗ୍ନି ହୋଇଗଲା; ଉନ୍ମତ୍ତ ଭୈରବ ତାଙ୍କ ରକ୍ଷକ ଭାବେ ଏହି ସ୍ଥାନ ରକ୍ଷା କରନ୍ତି। ସ୍ଥାନୀୟ ପରମ୍ପରା ମୋଗଲ ସମ୍ରାଟ ଅକବରଙ୍କ କାହାଣୀ ଯୋଡ଼େ। ସେ ଲୁହା ଚକତି ଓ ଜଳ ନାଳ ଦ୍ୱାରା ଅଗ୍ନି ନିଭାଇବାକୁ ଚେଷ୍ଟା କରିଥିଲେ ବୋଲି କୁହାଯାଏ, ଏବଂ ଅଗ୍ନି ହାର ନ ମାନିବାରୁ ସେ ମନ୍ଦିରକୁ ଆସି ଏକ ସୁବର୍ଣ୍ଣ ଛତା ଅର୍ପଣ କଲେ, ଯାହା ତାଙ୍କ ହାତରେ ଏକ ଅଜଣା ଧାତୁରେ ପରିଣତ ହୋଇଗଲା। ଏହା ମୌଖିକ ପରମ୍ପରା ଭାବେ କୁହାଯାଏ ଏବଂ ମୋଗଲ ଦରବାରୀ ଅଭିଲେଖରେ ମିଳେ ନାହିଁ, କିନ୍ତୁ ତୀର୍ଥଯାତ୍ରୀମାନେ ଏହି କାହାଣୀ ଘରକୁ ନେଇଯାଆନ୍ତି। ନାଥ ସନ୍ଥ ଗୋରଖନାଥଙ୍କ କାହାଣୀ — ସେ ଏକ ହାଣ୍ଡି ଫୁଟାଇବାକୁ ରଖି ଫେରିବାର ପ୍ରତିଶ୍ରୁତି ଦେଇଥିଲେ — ମନ୍ଦିର ପାଖର ଫୁଟୁଥିବା କୁଣ୍ଡକୁ ବୁଝାଏ।",
+    "festivals": "ମହାନ ସମାବେଶ ହେଉଛି ଚୈତ୍ର (ମାର୍ଚ୍ଚ କିମ୍ବା ଏପ୍ରିଲ) ଓ ଆଶ୍ୱିନ (ସେପ୍ଟେମ୍ବର କିମ୍ବା ଅକ୍ଟୋବର) ମାସର ଦୁଇ ନବରାତ୍ରି, ଯେତେବେଳେ ମନ୍ଦିର ଚାରିପାଖର ରାସ୍ତା ମେଳାରେ ଭରିଯାଏ ଏବଂ ସମଗ୍ର ଉତ୍ତର ଭାରତରୁ ତୀର୍ଥଯାତ୍ରୀ ଆସନ୍ତି। ଦିନକୁ ଅନେକ ଥର ଆରତୀ ହୁଏ — ଭୋରରେ ଦେବୀଙ୍କ ଜାଗରଣରୁ ଆରମ୍ଭ କରି ସନ୍ଧ୍ୟା ଆରତୀ ଦେଇ ତାଙ୍କୁ ବିଶ୍ରାମ ଦେଉଥିବା ଶୟନ ଆରତୀ ପର୍ଯ୍ୟନ୍ତ। ଉତ୍ସବ ଚାନ୍ଦ୍ର ପଞ୍ଜିକା ଅନୁସରଣ କରୁଥିବାରୁ ତାରିଖ ଓ ଆରତୀ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଜ୍ୱାଳାମୁଖୀକୁ ମୂର୍ତ୍ତି ଆଶା ନ କରି ଆସନ୍ତୁ। ସୁବର୍ଣ୍ଣ ଗମ୍ବୁଜ ଆଡ଼କୁ ଗଳି ବାଟେ ଚଢ଼ନ୍ତୁ, ରୂପା କବାଟ ଦେଇ ଯାଆନ୍ତୁ, ଏବଂ ଶିଳା ପାଖରେ ଛୋଟ ଶିଖାମାନଙ୍କ ସମ୍ମୁଖରେ ଠିଆ ହୁଅନ୍ତୁ, ଯାହାର ଆଲୁଅ ହାତରେ ଜଳାଯାଇଥିବା ଯେକୌଣସି ଦୀପଠାରୁ ଅଧିକ ଶାନ୍ତ ଓ ସ୍ଥିର ଲାଗେ। ଅନେକ ତୀର୍ଥଯାତ୍ରୀ ମିଠା ପ୍ରସାଦ ଅର୍ପଣ କରନ୍ତି ଏବଂ ପରେ ଆଙ୍ଗଣାରେ ବସି ଆରତୀ ଦେଖନ୍ତି। ଉପତ୍ୟକାର ଦୃଶ୍ୟ ପାଇଁ ମନ୍ଦିର ଉପରେ ଥିବା ଗୋରଖ ଡିବ୍ବୀକୁ ଯାଆନ୍ତୁ। ନବରାତ୍ରି ସମୟରେ ଧାଡ଼ି ଲମ୍ବା ହୁଏ, ତେଣୁ ଏକ କାର୍ଯ୍ୟଦିବସର ଭୋର ସମୟ ସବୁଠାରୁ ଶାନ୍ତ ଦର୍ଶନ ଦିଏ।"
   },
   "visit": {
-    "timings": "Typically open from early morning to late evening, with a closure of about an hour around midday; hours differ between summer and winter, and aarti times are fixed. Confirm timings locally, especially during Navratri.",
-    "dressCode": "Modest attire is expected, with shoulders and knees covered. Footwear is left at the stands near the entrance, and warm clothing is useful in the cooler months.",
-    "photography": "Photography is usually restricted inside the sanctum and near the flames; outer courtyards are generally more relaxed. Ask temple staff before photographing rituals, priests or other devotees.",
-    "gettingThere": "Jwalamukhi is a town in Kangra district of Himachal Pradesh, roughly 50 km by road from Dharamshala. Gaggal airport at Kangra is about 45 to 50 km away, and Pathankot, the main broad-gauge railhead, is about 110 to 125 km away. Jwalamukhi Road, on the Kangra Valley narrow-gauge line, is the nearest station. Buses and taxis serve the town, and the temple is a short walk from the bus stand."
+    "timings": "ସାଧାରଣତଃ ଭୋରରୁ ଗଭୀର ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା, ମଧ୍ୟାହ୍ନରେ ପ୍ରାୟ ଏକ ଘଣ୍ଟା ବନ୍ଦ; ଗ୍ରୀଷ୍ମ ଓ ଶୀତ ଋତୁରେ ସମୟ ଭିନ୍ନ, ଆରତୀ ସମୟ ନିର୍ଦ୍ଦିଷ୍ଟ। ବିଶେଷକରି ନବରାତ୍ରି ସମୟରେ ସ୍ଥାନୀୟ ଭାବେ ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ହେବ। ପ୍ରବେଶ ନିକଟର ଷ୍ଟାଣ୍ଡରେ ପାଦୁକା ରଖାଯାଏ, ଏବଂ ଶୀତ ମାସରେ ଗରମ ପୋଷାକ ଉପଯୋଗୀ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଅଗ୍ନିଶିଖା ନିକଟରେ ସାଧାରଣତଃ ଫଟୋ ନିଷିଦ୍ଧ; ବାହାର ଆଙ୍ଗଣାରେ ସାଧାରଣତଃ ଅଧିକ ଶିଥିଳତା ଥାଏ। ଅନୁଷ୍ଠାନ, ପୂଜାରୀ କିମ୍ବା ଅନ୍ୟ ଭକ୍ତଙ୍କ ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ଜ୍ୱାଳାମୁଖୀ ହିମାଚଳ ପ୍ରଦେଶର କାଙ୍ଗଡ଼ା ଜିଲ୍ଲାର ଏକ ସହର, ଧର୍ମଶାଳାରୁ ସଡ଼କ ପଥରେ ପ୍ରାୟ ୫୦ କିଲୋମିଟର। କାଙ୍ଗଡ଼ାର ଗଗ୍ଗଲ ବିମାନବନ୍ଦର ପ୍ରାୟ ୪୫ ରୁ ୫୦ କିଲୋମିଟର ଦୂରରେ, ଏବଂ ମୁଖ୍ୟ ବ୍ରଡ୍‌ଗେଜ୍ ରେଳ ଷ୍ଟେସନ ପଠାନକୋଟ ପ୍ରାୟ ୧୧୦ ରୁ ୧୨୫ କିଲୋମିଟର ଦୂରରେ। କାଙ୍ଗଡ଼ା ଭ୍ୟାଲି ନ୍ୟାରୋଗେଜ୍ ଲାଇନ୍‌ର ଜ୍ୱାଳାମୁଖୀ ରୋଡ୍ ନିକଟତମ ଷ୍ଟେସନ। ସହରକୁ ବସ୍ ଓ ଟ୍ୟାକ୍ସି ସେବା ଅଛି, ଏବଂ ମନ୍ଦିର ବସ୍ ଷ୍ଟାଣ୍ଡରୁ ଅଳ୍ପ ଚାଲିବା ବାଟ।"
   }
 }

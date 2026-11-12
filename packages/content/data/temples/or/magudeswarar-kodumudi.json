@@ -1,30 +1,37 @@
 {
   "id": "magudeswarar-kodumudi",
   "locale": "or",
+  "name": "ମକୁଡେଶ୍ୱରର ମନ୍ଦିର, କୋଡୁମୁଡି",
   "nativeName": "மகுடேஸ்வரர் கோயில்",
+  "deity": "ମକୁଡେଶ୍ୱରର (କୋଡୁମୁଡିନାଥର) ରୂପେ ଶିବ, ଦେବୀ ବଡିବୁଡୈ ନାୟକୀ (ସୌନ୍ଦରନାୟକୀ)ଙ୍କ ସହ",
+  "tradition": "ଶୈବ ପରମ୍ପରା",
   "location": {
-    "city": "Kodumudi",
-    "state": "Tamil Nadu",
+    "city": "କୋଡୁମୁଡି",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 11.076,
     "lng": 77.889
   },
+  "period": "କାବେରୀ ତଟରେ ପ୍ରାଚୀନ ଶୈବ ଦେବାଳୟ, ତେବାରମ୍‌ରେ ଗୀତ (ସପ୍ତମ ଶତାବ୍ଦୀ); ପାଣ୍ଡ୍ୟ, କୋଙ୍ଗୁ ଚୋଳ ଓ ବିଜୟନଗର ଯୁଗର ଅଭିଲେଖ",
   "century": 7,
+  "dynasty": "ପାଣ୍ଡ୍ୟ ପୃଷ୍ଠପୋଷକତା, କୋଙ୍ଗୁ ଚୋଳ, କୋଙ୍ଗୁ ପାଣ୍ଡ୍ୟ ଓ ବିଜୟନଗର ଯୁଗର ଅଭିଲେଖ ସହ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ମକୁଡେଶ୍ୱରର କୋଡୁମୁଡିରେ କାବେରୀ ତଟର ଶିବ ମନ୍ଦିର, ତେବାରମ୍‌ର ତିରୁପ୍ପାଣ୍ଡିକୋଡୁମୁଡି, ତିନି ମହାନ ତେବାରମ୍ ସନ୍ଥଙ୍କ ଦ୍ୱାରା ପ୍ରଶଂସିତ ଏବଂ ଶିବ, ବିଷ୍ଣୁ ଓ ବ୍ରହ୍ମା ତିନିଜଣଙ୍କର ପୂଜା ହେଉଥିବା ଏକ ବିରଳ ପରିସର ରୂପେ ସ୍ମରଣୀୟ।",
   "sections": {
-    "history": "Kodumudi lies on the Kaveri in the Kongu country, and its temple is counted among the Paadal Petra Sthalams, praised in the hymns of Sambandar, Appar and Sundarar, the three great saints of the Tevaram. Tradition ties the place to the Pandya kings, whose patronage is remembered in the older name Tiruppandikodumudi. Inscriptions at the temple and on the river bank span several centuries, with records attributed to a 12th-century Kerala chieftain, the Kongu Cholas of the 13th century, Kongu Pandya rulers in 1288 and 1291 CE, and Vijayanagara-period donors, largely gifts for lamps and offerings. Devotional literature claims far greater antiquity, which cannot be confirmed here; what is certain is a long, unbroken life of worship. It is reckoned the sixth of the Kongu temples sung in the Tevaram.",
-    "architecture": "The temple faces east and spreads across a large rectangular enclosure, said to measure some 640 by 484 feet, with tradition crediting a Pandya king with raising three gopurams. Beside the sanctum of Magudeswarar, also called Kodumudinathar, and the shrine of the goddess, stand a shrine of Vishnu as Veeranarayana Perumal and a shrine of Brahma. This is why the place is called a Trimurti temple, a rare precinct where the three gods share a single roof of worship. The sacred tree of the temple is the vanni, beneath which devotees place stone images of the serpent. The temple rises on the bank of the Kaveri, with a rock standing in the river just opposite.",
-    "legends": "Tradition links Kodumudi to the sage Agastya. A rock in the Kaveri opposite the temple is said to be where a crow overturned the sage's water pot, and another tale says he caught the lingam in his hand as it seemed to vanish, leaving his finger marks upon it. A further story tells of a contest between Vayu, the wind, and Adisesha, the serpent, who coiled around Mount Meru; when peaks were shattered, a gem fell here and became the self-manifested lingam. From the serpent's crown, the magudam, the Lord is remembered as Magudeswarar, and the temple is sought by devotees for relief from afflictions of the serpent planets. Brahma is shown here with three faces, the vanni tree being spoken of as his fourth.",
-    "festivals": "The great festival is the eleven-day Chithirai Thiruvizha in April and May, when the deities are carried out in procession. Aadi Perukku, in July and August, draws large crowds to the Kaveri bank to honour the river. Arudra Darisanam in the month of Margazhi (December to January) is also observed with devotion, and special worship marks new-moon, full-moon and Pradosham days. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Come first to the Kaveri and look across the water to the rock standing in the stream, then enter the temple at an unhurried pace. Pay homage to Magudeswarar and to the goddess Vadivudai Nayaki, and then walk to the shrines of Vishnu and Brahma, for it is uncommon to find all three gods honoured within one wall. Sit for a while near the vanni tree, where devotees place their serpent stones and make quiet vows. The town is small and the river wide, and the temple keeps the calm of a place long loved by pilgrims."
+    "history": "କୋଡୁମୁଡି କୋଙ୍ଗୁ ଦେଶରେ କାବେରୀ ତଟରେ ଅବସ୍ଥିତ, ଏବଂ ଏହାର ମନ୍ଦିର ପାଦଲ ପେଟ୍ର ସ୍ଥଳମ୍‌ମାନଙ୍କ ମଧ୍ୟରେ ଗଣାଯାଏ, ଯାହା ତେବାରମ୍‌ର ତିନି ମହାନ ସନ୍ଥ ସମ୍ବନ୍ଦର, ଅପ୍ପର ଓ ସୁନ୍ଦରରଙ୍କ ଗୀତରେ ପ୍ରଶଂସିତ। ପରମ୍ପରା ସ୍ଥାନକୁ ପାଣ୍ଡ୍ୟ ରାଜାମାନଙ୍କ ସହ ଯୋଡ଼େ, ଯାହାଙ୍କ ପୃଷ୍ଠପୋଷକତା ତିରୁପ୍ପାଣ୍ଡିକୋଡୁମୁଡି ନାମରେ ସ୍ମରଣୀୟ। ମନ୍ଦିରରେ ଓ ନଦୀତଟରେ ଥିବା ଅଭିଲେଖ ଅନେକ ଶତାବ୍ଦୀ ବ୍ୟାପି, ଯେଉଁଥିରେ ଦ୍ୱାଦଶ ଶତାବ୍ଦୀର ଜଣେ କେରଳ ସର୍ଦ୍ଦାରଙ୍କ, ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର କୋଙ୍ଗୁ ଚୋଳଙ୍କ, ୧୨୮୮ ଓ ୧୨୯୧ ଖ୍ରୀଷ୍ଟାବ୍ଦର କୋଙ୍ଗୁ ପାଣ୍ଡ୍ୟ ଶାସକଙ୍କ ଏବଂ ବିଜୟନଗର ଯୁଗର ଦାତାଙ୍କ ଅଭିଲେଖ ଅଛି, ଯାହା ମୁଖ୍ୟତଃ ଦୀପ ଓ ନୈବେଦ୍ୟ ପାଇଁ ଦାନ। ଭକ୍ତିସାହିତ୍ୟ ବହୁତ ଅଧିକ ପ୍ରାଚୀନତା ଦାବି କରେ, ଯାହା ଏଠାରେ ନିଶ୍ଚିତ କରାଯାଇପାରିବ ନାହିଁ; ଯାହା ନିଶ୍ଚିତ ତାହା ହେଉଛି ପୂଜାର ଏକ ଦୀର୍ଘ, ଅବିଚ୍ଛିନ୍ନ ଜୀବନ। ଏହାକୁ ତେବାରମ୍‌ରେ ଗୀତ କୋଙ୍ଗୁ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରୁ ଷଷ୍ଠ ବୋଲି ଗଣାଯାଏ।",
+    "architecture": "ମନ୍ଦିର ପୂର୍ବମୁଖୀ ଏବଂ ଏକ ବିଶାଳ ଆୟତାକାର ପ୍ରାଙ୍ଗଣରେ ବିସ୍ତୃତ, ଯାହାର ମାପ ପ୍ରାୟ ୬୪୦ ଗୁଣ ୪୮୪ ଫୁଟ ବୋଲି କୁହାଯାଏ, ପରମ୍ପରା ଜଣେ ପାଣ୍ଡ୍ୟ ରାଜାଙ୍କୁ ତିନୋଟି ଗୋପୁରମ୍ ନିର୍ମାଣର ଶ୍ରେୟ ଦିଏ। ମକୁଡେଶ୍ୱରଙ୍କ, ଯାହାଙ୍କୁ କୋଡୁମୁଡିନାଥର ମଧ୍ୟ କୁହାଯାଏ, ଗର୍ଭଗୃହ ଓ ଦେବୀଙ୍କ ଦେବାଳୟ ପାଖରେ ବୀରନାରାୟଣ ପେରୁମାଳ ରୂପେ ବିଷ୍ଣୁଙ୍କ ଏକ ଦେବାଳୟ ଓ ବ୍ରହ୍ମାଙ୍କ ଏକ ଦେବାଳୟ ଅଛି। ଏହି କାରଣରୁ ସ୍ଥାନଟି ତ୍ରିମୂର୍ତ୍ତି ମନ୍ଦିର ବୋଲି ଡାକିଯାଏ, ଏକ ବିରଳ ପରିସର ଯେଉଁଠି ତିନି ଦେବତା ଗୋଟିଏ ଛାତ ତଳେ ପୂଜା ପାଆନ୍ତି। ମନ୍ଦିରର ପବିତ୍ର ବୃକ୍ଷ ବନ୍ନି, ଯାହା ତଳେ ଭକ୍ତମାନେ ନାଗର ପଥର ପ୍ରତିମା ରଖନ୍ତି। ମନ୍ଦିର କାବେରୀ ତଟରେ ଉଠିଛି, ଠିକ୍ ସମ୍ମୁଖରେ ନଦୀ ମଧ୍ୟରେ ଏକ ପଥର ଠିଆ ହୋଇଛି।",
+    "legends": "ପରମ୍ପରା କୋଡୁମୁଡିକୁ ଅଗସ୍ତ୍ୟ ଋଷିଙ୍କ ସହ ଯୋଡ଼େ। ମନ୍ଦିର ସମ୍ମୁଖରେ କାବେରୀରେ ଥିବା ଏକ ପଥର ସେହି ସ୍ଥାନ ବୋଲି କୁହାଯାଏ ଯେଉଁଠି ଏକ କାଉ ଋଷିଙ୍କ କମଣ୍ଡଳୁ ଓଲଟାଇଥିଲା, ଏବଂ ଅନ୍ୟ ଏକ କାହାଣୀ କହେ ଯେ ଲିଙ୍ଗ ଅଦୃଶ୍ୟ ହେଉଥିବା ପରି ଦେଖାଯିବାରୁ ସେ ହାତରେ ଧରିଲେ, ଯାହା ଉପରେ ତାଙ୍କ ଆଙ୍ଗୁଠି ଚିହ୍ନ ରହିଗଲା। ଆଉ ଏକ କାହାଣୀ ବାୟୁ ଓ ଆଦିଶେଷ ସର୍ପଙ୍କ ମଧ୍ୟରେ ପ୍ରତିଯୋଗିତାର କଥା କହେ, ଯିଏ ମେରୁ ପର୍ବତକୁ ଘେରିଥିଲେ; ଶିଖରମାନ ଭାଙ୍ଗିଯିବା ବେଳେ ଏକ ମଣି ଏଠାରେ ପଡ଼ି ସ୍ୱୟମ୍ଭୂ ଲିଙ୍ଗ ହେଲା। ସର୍ପର ମୁକୁଟ, ମକୁଡମ୍, ରୁ ପ୍ରଭୁ ମକୁଡେଶ୍ୱର ରୂପେ ସ୍ମରଣୀୟ, ଏବଂ ସର୍ପ ଗ୍ରହଙ୍କ ଦୋଷରୁ ମୁକ୍ତି ପାଇଁ ଭକ୍ତମାନେ ମନ୍ଦିରକୁ ଆସନ୍ତି। ଏଠାରେ ବ୍ରହ୍ମାଙ୍କୁ ତିନି ମୁଖ ସହ ଦର୍ଶାଯାଇଛି, ବନ୍ନି ବୃକ୍ଷକୁ ତାଙ୍କ ଚତୁର୍ଥ ମୁଖ ବୋଲି କୁହାଯାଏ।",
+    "festivals": "ମହାନ ଉତ୍ସବ ଏପ୍ରିଲ ଓ ମେ ମାସର ଏଗାର ଦିନିଆ ଚିତ୍ତିରୈ ତିରୁବିଳା, ଯେତେବେଳେ ଦେବତାମାନଙ୍କୁ ଶୋଭାଯାତ୍ରାରେ ବାହାର କରାଯାଏ। ଜୁଲାଇ ଓ ଅଗଷ୍ଟର ଆଡି ପେରୁକ୍କୁ ନଦୀକୁ ସମ୍ମାନ ଦେବା ପାଇଁ କାବେରୀ ତଟରେ ବହୁ ଜନସମାଗମ ଘଟାଏ। ମାର୍ଗଳି ମାସ (ଡିସେମ୍ବରରୁ ଜାନୁଆରୀ)ର ଆରୁଦ୍ରା ଦର୍ଶନ ମଧ୍ୟ ଭକ୍ତିର ସହ ପାଳିତ ହୁଏ, ଏବଂ ଅମାବାସ୍ୟା, ପୂର୍ଣ୍ଣିମା ଓ ପ୍ରଦୋଷ ଦିନମାନେ ବିଶେଷ ପୂଜା ହୁଏ। ତାରିଖ ତାମିଲ ପଞ୍ଜିକା ଅନୁସାରେ ହୋଇଥିବାରୁ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ପ୍ରଥମେ କାବେରୀକୁ ଆସନ୍ତୁ ଏବଂ ଜଳ ସେପାଖରେ ସ୍ରୋତ ମଧ୍ୟରେ ଠିଆ ହୋଇଥିବା ପଥରକୁ ଦେଖନ୍ତୁ, ତାପରେ ଧୀରେ ଧୀରେ ମନ୍ଦିରରେ ପ୍ରବେଶ କରନ୍ତୁ। ମକୁଡେଶ୍ୱର ଓ ଦେବୀ ବଡିବୁଡୈ ନାୟକୀଙ୍କୁ ପ୍ରଣାମ କରନ୍ତୁ, ତାପରେ ବିଷ୍ଣୁ ଓ ବ୍ରହ୍ମାଙ୍କ ଦେବାଳୟକୁ ଯାଆନ୍ତୁ, କାରଣ ଗୋଟିଏ ପ୍ରାଚୀର ଭିତରେ ତିନି ଦେବତା ସମ୍ମାନିତ ହେବା ଅସାଧାରଣ। ବନ୍ନି ବୃକ୍ଷ ନିକଟରେ କିଛି ସମୟ ବସନ୍ତୁ, ଯେଉଁଠି ଭକ୍ତମାନେ ନିଜ ନାଗ ପଥର ରଖି ନୀରବରେ ମାନସିକ କରନ୍ତି। ନଗରଟି ଛୋଟ ଓ ନଦୀ ବିସ୍ତୃତ, ଏବଂ ମନ୍ଦିର ତୀର୍ଥଯାତ୍ରୀଙ୍କ ଦୀର୍ଘ ପ୍ରିୟ ସ୍ଥାନର ଶାନ୍ତି ରଖିଛି।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening (some listings give roughly 6 am to noon and 4 pm to 9 pm); confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left at the entrance stands.",
-    "photography": "Photography is generally permitted in the outer corridors and courtyards but prohibited inside the inner sanctum, in keeping with Tamil Nadu temple rules. Ask temple staff before photographing rituals or priests.",
-    "gettingThere": "Kodumudi lies on the Tiruchirappalli–Karur–Kodumudi–Erode road, about 40 km from Erode and some 25 km from Karur. Kodumudi railway station, on the Erode–Tiruchirappalli line, is about 2 km from the temple. Buses serve the town from Erode, Karur and Coimbatore, and Coimbatore, with the region's airport, is around 100 km away."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ଣର ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ଥାଏ (କେତେକ ତାଲିକାରେ ପ୍ରାୟ ସକାଳ ୬ଟାରୁ ମଧ୍ୟାହ୍ନ ଏବଂ ଅପରାହ୍ଣ ୪ଟାରୁ ରାତି ୯ଟା); ବିଶେଷତଃ ଉତ୍ସବ ଦିନରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଭଦ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ: ପୁରୁଷଙ୍କ ପାଇଁ ଧୋତି ବା ଟ୍ରାଉଜର, ମହିଳାଙ୍କ ପାଇଁ ଶାଢ଼ୀ, ସଲୱାର କମିଜ ବା ଲମ୍ବା ସ୍କର୍ଟ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ହେବା ଉଚିତ। ଜୋତା ପ୍ରବେଶଦ୍ୱାର ନିକଟ ଷ୍ଟାଣ୍ଡରେ ଛାଡ଼ାଯାଏ।",
+    "photography": "ତାମିଲନାଡୁ ମନ୍ଦିର ନିୟମ ଅନୁସାରେ ବାହ୍ୟ ବାରଣ୍ଡା ଓ ପ୍ରାଙ୍ଗଣରେ ଫଟୋଗ୍ରାଫି ସାଧାରଣତଃ ଅନୁମତିପ୍ରାପ୍ତ କିନ୍ତୁ ଅନ୍ତର୍ଗର୍ଭଗୃହରେ ନିଷିଦ୍ଧ। ଧର୍ମାନୁଷ୍ଠାନ ବା ପୂଜକଙ୍କ ଫଟୋ ନେବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "କୋଡୁମୁଡି ତିରୁଚିରାପଲ୍ଲୀ–କରୁର–କୋଡୁମୁଡି–ଇରୋଡ଼ ରାସ୍ତାରେ ଅବସ୍ଥିତ, ଇରୋଡ଼ଠାରୁ ପ୍ରାୟ ୪୦ କିଲୋମିଟର ଏବଂ କରୁରଠାରୁ ପ୍ରାୟ ୨୫ କିଲୋମିଟର। ଇରୋଡ଼–ତିରୁଚିରାପଲ୍ଲୀ ଲାଇନରେ କୋଡୁମୁଡି ରେଳ ଷ୍ଟେସନ ମନ୍ଦିରଠାରୁ ପ୍ରାୟ ୨ କିଲୋମିଟର। ଇରୋଡ଼, କରୁର ଓ କୋଏମ୍ବାଟୁରରୁ ବସ୍ ନଗରକୁ ସେବା ଦିଏ, ଏବଂ ଅଞ୍ଚଳର ବିମାନବନ୍ଦର ଥିବା କୋଏମ୍ବାଟୁର ପ୍ରାୟ ୧୦୦ କିଲୋମିଟର ଦୂରରେ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/magudeswarar-kodumudi.jpg",

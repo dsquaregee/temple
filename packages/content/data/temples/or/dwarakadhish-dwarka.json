@@ -1,31 +1,38 @@
 {
   "id": "dwarakadhish-dwarka",
   "locale": "or",
+  "name": "ଦ୍ୱାରକାଧୀଶ ମନ୍ଦିର, ଦ୍ୱାରକା (ତିରୁ ଦ୍ୱାରକା)",
   "nativeName": "द्वारकाधीश मंदिर, द्वारका",
+  "deity": "ଦ୍ୱାରକାର ରାଜା ଦ୍ୱାରକାଧୀଶ ରୂପରେ କୃଷ୍ଣ — ଶ୍ରୀ ବୈଷ୍ଣବ ତାଲିକାରେ ଦିବ୍ୟ ଦେଶମର ପ୍ରଭୁଙ୍କ ନାମ କଲ୍ୟାଣ ନାରାୟଣନ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Dwarka",
-    "state": "Gujarat",
+    "city": "ଦ୍ୱାରକା",
+    "state": "ଗୁଜରାଟ",
     "lat": 22.238,
     "lng": 68.968
   },
+  "period": "ପଶ୍ଚିମ ତଟରେ ବଡ଼ ଉତ୍ତର ଦେଶର ଏକ ଦିବ୍ୟ ଦେଶମ, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମରେ ଆଳ୍ୱାରମାନଙ୍କ ଦ୍ୱାରା ଗୀତ",
   "century": 8,
+  "dynasty": "ପ୍ରାଚୀନ ମନ୍ଦିର ସ୍ଥଳ (ବର୍ତ୍ତମାନର ମନ୍ଦିର ପଞ୍ଚଦଶ–ଷୋଡ଼ଶ ଶତାବ୍ଦୀରେ ପୁନର୍ନିର୍ମିତ)",
+  "style": "ଉତ୍ତର ଭାରତୀୟ",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "char-dham"
   ],
+  "summary": "ଭାରତର ପଶ୍ଚିମ ସୀମାରେ ଗୋମତୀ କୂଳରେ ଦ୍ୱାରକାର ଜଗତ ମନ୍ଦିର ବାହାତ୍ତର ସ୍ତମ୍ଭ ଉପରେ ପାଞ୍ଚ ତଳାରେ ଉଠିଛି — ତିରୁ ଦ୍ୱାରକାର ଦିବ୍ୟ ଦେଶମ, ଦ୍ୱାରକାଧୀଶ ରୂପରେ କୃଷ୍ଣଙ୍କ ଧାମ।",
   "sections": {
-    "history": "Thiru Dwaraka is one of the 108 Divya Desams, counted among the northern abodes of Vada Nadu, and Sri Vaishnava lists name Periyalvar, Andal, Thirumangai Alvar and Nammalvar as among its singers. Dwarka is also one of the Char Dham and one of the seven Mukti Kshetras, and the western seat attributed to Adi Shankara, the Dwaraka Sharada Peetham, stands here. Archaeological findings suggest an original structure here no earlier than about 200 BCE, and the present Dwarkadhish temple, also called the Jagat Mandir, was rebuilt and enlarged in the fifteenth and sixteenth centuries. The Sri Vaishnava lists name the Divya Desam's lord Kalyana Narayanan, while Dwarka honours Krishna as Dwarakadhish, the king of Dwarka.",
-    "architecture": "The main shrine, the Jagat Mandir, is a five-storeyed building raised on seventy-two pillars, standing above the Gomti creek. Two gateways frame the pilgrim's passage: the Swarga Dwar, the entrance, and the Moksha Dwar, the exit from which steps lead down to the Gomti. A great flag flies from the spire and is widely described as changed several times a day. Close by, Sudama Setu crosses the Gomti, and Rukmini has her own temple outside the town.",
-    "legends": "Dwarka is remembered as the kingdom of Krishna, where he reigned as Dwarakadhish, the lord and king of Dwarka. The Sri Vaishnava tradition honours him here as Kalyana Narayanan, the auspicious Narayana of the Divya Desam, while the Alvars' hymns look to the western shore as one of the far northern abodes. The sea and the river meeting at the town, the Gomti Ghat, gives the pilgrimage its particular quiet.",
-    "festivals": "Krishna Janmashtami is the principal festival, and the Holi season, known as Phuldol, is celebrated with joy. Vaikunta Ekadashi is kept by Sri Vaishnava pilgrims. Crowds are very large on these days, so confirm dates and darshan arrangements locally.",
-    "experience": "Enter by the Swarga Dwar and leave by the Moksha Dwar, then go down to the Gomti Ghat; many pilgrims also cross Sudama Setu and visit Rukmini's temple outside the town. Allow time for the climb of steps within the complex, and visit early on festival days."
+    "history": "ତିରୁ ଦ୍ୱାରକା ୧୦୮ ଦିବ୍ୟ ଦେଶମ ମଧ୍ୟରୁ ଗୋଟିଏ, ଉତ୍ତର ଦେଶର ଉତ୍ତର ଧାମ ମଧ୍ୟରେ ଗଣିତ, ଏବଂ ଶ୍ରୀ ବୈଷ୍ଣବ ତାଲିକା ପେରିୟାଳ୍ୱାର, ଆଣ୍ଡାଳ, ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାର ଓ ନମ୍ମାଳ୍ୱାରଙ୍କୁ ଏହାର ଗାୟକ ଭାବେ ନାମ ଦିଏ। ଦ୍ୱାରକା ଚାର ଧାମ ମଧ୍ୟରୁ ଗୋଟିଏ ଏବଂ ସାତ ମୋକ୍ଷ କ୍ଷେତ୍ର ମଧ୍ୟରୁ ଗୋଟିଏ, ଏବଂ ଆଦି ଶଙ୍କରାଚାର୍ଯ୍ୟଙ୍କୁ ଆରୋପିତ ପଶ୍ଚିମ ପୀଠ, ଦ୍ୱାରକା ଶାରଦା ପୀଠମ, ଏଠାରେ ଅଛି। ପ୍ରତ୍ନତାତ୍ତ୍ୱିକ ଆବିଷ୍କାର ସୂଚାଏ ଯେ ଏଠାରେ ମୂଳ କାଠାମୋ ପ୍ରାୟ ଖ୍ରୀ.ପୂ. ୨୦୦ ପୂର୍ବର ନୁହେଁ, ଏବଂ ବର୍ତ୍ତମାନର ଦ୍ୱାରକାଧୀଶ ମନ୍ଦିର, ଜଗତ ମନ୍ଦିର ମଧ୍ୟ କୁହାଯାଏ, ପଞ୍ଚଦଶ ଓ ଷୋଡ଼ଶ ଶତାବ୍ଦୀରେ ପୁନର୍ନିର୍ମିତ ଓ ବିସ୍ତାରିତ ହୋଇଥିଲା। ଶ୍ରୀ ବୈଷ୍ଣବ ତାଲିକା ଦିବ୍ୟ ଦେଶମର ପ୍ରଭୁଙ୍କୁ କଲ୍ୟାଣ ନାରାୟଣନ ନାମ ଦିଏ, ଯେତେବେଳେ ଦ୍ୱାରକା କୃଷ୍ଣଙ୍କୁ ଦ୍ୱାରକାଧୀଶ, ଦ୍ୱାରକାର ରାଜା ଭାବେ ସମ୍ମାନ ଦିଏ।",
+    "architecture": "ମୁଖ୍ୟ ମନ୍ଦିର, ଜଗତ ମନ୍ଦିର, ବାହାତ୍ତର ସ୍ତମ୍ଭ ଉପରେ ଉଠିଥିବା ଏକ ପାଞ୍ଚ ତଳା ଅଟ୍ଟାଳିକା, ଗୋମତୀ ଖାଡ଼ି ଉପରେ ଛିଡ଼ା। ଦୁଇଟି ଦ୍ୱାର ତୀର୍ଥଯାତ୍ରୀଙ୍କ ପଥକୁ ଘେରନ୍ତି: ସ୍ୱର୍ଗ ଦ୍ୱାର, ପ୍ରବେଶ, ଏବଂ ମୋକ୍ଷ ଦ୍ୱାର, ବାହାରିବା ପଥ ଯେଉଁଠାରୁ ପାହାଚ ଗୋମତୀକୁ ଓହ୍ଲାଏ। ଶିଖରରେ ଏକ ବିଶାଳ ପତାକା ଉଡ଼େ ଏବଂ ଏହା ଦିନକୁ ଅନେକ ଥର ବଦଳାଯାଏ ବୋଲି ବ୍ୟାପକ ଭାବେ ବର୍ଣ୍ଣିତ। ନିକଟରେ ସୁଦାମା ସେତୁ ଗୋମତୀକୁ ପାର କରେ, ଏବଂ ରୁକ୍ମିଣୀଙ୍କ ସହରର ବାହାରେ ନିଜ ମନ୍ଦିର ଅଛି।",
+    "legends": "ଦ୍ୱାରକା କୃଷ୍ଣଙ୍କ ରାଜ୍ୟ ଭାବେ ସ୍ମରଣୀୟ, ଯେଉଁଠି ସେ ଦ୍ୱାରକାଧୀଶ, ଦ୍ୱାରକାର ପ୍ରଭୁ ଓ ରାଜା ଭାବେ ରାଜତ୍ୱ କରିଥିଲେ। ଶ୍ରୀ ବୈଷ୍ଣବ ପରମ୍ପରା ତାଙ୍କୁ ଏଠାରେ କଲ୍ୟାଣ ନାରାୟଣନ, ଦିବ୍ୟ ଦେଶମର ମଙ୍ଗଳମୟ ନାରାୟଣ ଭାବେ ସମ୍ମାନ ଦିଏ, ଯେତେବେଳେ ଆଳ୍ୱାରମାନଙ୍କ ସ୍ତୋତ୍ର ପଶ୍ଚିମ ତଟକୁ ଦୂର ଉତ୍ତରର ଏକ ଧାମ ଭାବେ ଦେଖେ। ନଗରରେ ସମୁଦ୍ର ଓ ନଦୀର ମିଳନ, ଗୋମତୀ ଘାଟ, ତୀର୍ଥଯାତ୍ରାକୁ ଏହାର ବିଶେଷ ଶାନ୍ତି ଦିଏ।",
+    "festivals": "କୃଷ୍ଣ ଜନ୍ମାଷ୍ଟମୀ ମୁଖ୍ୟ ପର୍ବ, ଏବଂ ଫୁଲଡୋଳ ନାମରେ ପରିଚିତ ହୋଲି ଋତୁ ଆନନ୍ଦରେ ପାଳିତ ହୁଏ। ଶ୍ରୀ ବୈଷ୍ଣବ ତୀର୍ଥଯାତ୍ରୀମାନେ ବୈକୁଣ୍ଠ ଏକାଦଶୀ ପାଳନ କରନ୍ତି। ଏହି ଦିନମାନଙ୍କରେ ଭିଡ଼ ବହୁତ ଅଧିକ, ତେଣୁ ତାରିଖ ଓ ଦର୍ଶନ ବ୍ୟବସ୍ଥା ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ସ୍ୱର୍ଗ ଦ୍ୱାର ଦେଇ ପ୍ରବେଶ କରନ୍ତୁ ଏବଂ ମୋକ୍ଷ ଦ୍ୱାର ଦେଇ ବାହାରନ୍ତୁ, ତା'ପରେ ଗୋମତୀ ଘାଟକୁ ଓହ୍ଲାନ୍ତୁ; ଅନେକ ତୀର୍ଥଯାତ୍ରୀ ସୁଦାମା ସେତୁ ପାର ହୋଇ ସହରର ବାହାରେ ରୁକ୍ମିଣୀଙ୍କ ମନ୍ଦିର ମଧ୍ୟ ଦର୍ଶନ କରନ୍ତି। ପରିସର ଭିତରେ ପାହାଚ ଚଢ଼ିବା ପାଇଁ ସମୟ ରଖନ୍ତୁ, ଏବଂ ପର୍ବ ଦିନରେ ଶୀଘ୍ର ଯାଆନ୍ତୁ।"
   },
   "visit": {
-    "timings": "The temple opens daily for morning and evening darshan, with a midday closure. Janmashtami and the Holi season are extremely busy. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Dwarka lies on the Gomti creek on the western coast of Gujarat, in Devbhumi Dwarka district, and is reached by road and rail. Within town, the temple stands above the Gomti Ghat, close to Sudama Setu."
+    "timings": "ମନ୍ଦିର ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ପାଇଁ ଖୋଲେ, ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ ରହେ। ଜନ୍ମାଷ୍ଟମୀ ଓ ହୋଲି ଋତୁରେ ଅତ୍ୟଧିକ ଭିଡ଼ ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ଆବଶ୍ୟକ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲିବେ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ନିଷିଦ୍ଧ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ଦ୍ୱାରକା ଗୁଜରାଟର ପଶ୍ଚିମ ଉପକୂଳରେ ଦେବଭୂମି ଦ୍ୱାରକା ଜିଲ୍ଲାର ଗୋମତୀ ଖାଡ଼ି ଉପରେ ଅବସ୍ଥିତ, ଏବଂ ସଡ଼କ ଓ ରେଳ ପଥରେ ପହଞ୍ଚିହୁଏ। ସହର ଭିତରେ ମନ୍ଦିର ଗୋମତୀ ଘାଟ ଉପରେ, ସୁଦାମା ସେତୁ ନିକଟରେ ଛିଡ଼ା।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.jpg",

@@ -70,7 +70,10 @@
 // calendar) to the app's own Worker — purge so returning visitors send them.
 // v38: SEO pass — x-default hreflang on every page, localized <html lang>,
 // Listen meta description, site-wide + fallback Open Graph, festival Event data.
-const VERSION = 'v40';
+// v41: Odia (or) — the 9th language — launched: full catalog (520 temples, 32
+// circuits) translated to Odia and the locale wired across web + native. Purge so
+// returning visitors get the new /or/ pages and the updated language picker.
+const VERSION = 'v41';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

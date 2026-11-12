@@ -1,30 +1,37 @@
 {
   "id": "grishneshwar-ellora",
   "locale": "or",
+  "name": "ଗ୍ରିଷ୍ଣେଶ୍ୱର ମନ୍ଦିର, ବେରୁଳ",
   "nativeName": "श्री घृष्णेश्वर ज्योतिर्लिंग मंदिर",
+  "deity": "ଗ୍ରିଷ୍ଣେଶ୍ୱର (ଘୁଷ୍ମେଶ୍ୱର) ରୂପେ ଶିବ, ଭକ୍ତା ଘୁଷ୍ମାଙ୍କ ପ୍ରଭୁ — ଦ୍ୱାଦଶ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ମଧ୍ୟରୁ ଶେଷ",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Verul (Ellora)",
-    "state": "Maharashtra",
+    "city": "ବେରୁଳ (ଏଲୋରା)",
+    "state": "ମହାରାଷ୍ଟ୍ର",
     "lat": 20.025,
     "lng": 75.1699
   },
+  "period": "ଏଲୋରା ପାଖରେ ଏକ ପ୍ରାଚୀନ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ; ଭୋସଲେମାନଙ୍କ ଦ୍ୱାରା ଜୀର୍ଣ୍ଣୋଦ୍ଧାରିତ ଏବଂ ଅଷ୍ଟାଦଶ ଶତାବ୍ଦୀରେ ଅହଲ୍ୟାବାଈ ହୋଲକରଙ୍କ ଦ୍ୱାରା ବର୍ତ୍ତମାନ ରୂପରେ ପୁନର୍ନିର୍ମିତ",
   "century": 18,
+  "dynasty": "ମରାଠା (ଭୋସଲେ ଜୀର୍ଣ୍ଣୋଦ୍ଧାର; ହୋଲକର ପୁନର୍ନିର୍ମାଣ)",
+  "style": "ନାଗର, ମରାଠା ବୈଶିଷ୍ଟ୍ୟ ସହିତ",
   "unesco": false,
   "circuits": [
     "jyotirlingas"
   ],
+  "summary": "ଏଲୋରା ଗୁମ୍ଫାରୁ ଅଳ୍ପ ଦୂରରେ, ବେରୁଳ ଗ୍ରାମରେ, ଲାଲ ପଥରର ଗ୍ରିଷ୍ଣେଶ୍ୱର ମନ୍ଦିର ଏକ ମାତାଙ୍କ ଅଟଳ ବିଶ୍ୱାସ ପାଇଁ ରହିଯାଇଥିବା ଶିବଙ୍କୁ ସମ୍ମାନିତ କରେ — ଏହା ଦ୍ୱାଦଶ ଓ ଶେଷ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ।",
   "sections": {
-    "history": "Grishneshwar stands in the village of Verul, about a kilometre and a half from the rock-cut caves of Ellora and some 30 km from Chhatrapati Sambhajinagar. The Dvadasha Jyotirlinga Stotram closes its roll of the twelve Jyotirlingas with \"Ghushmesha in Shivalaya\", and this is the shrine it names. The temple was restored in the age of Maloji Bhosale, grandfather of Chhatrapati Shivaji, and an inscription within names members of the Bhosale family. Its present form is owed to Ahilyabai Holkar, the queen of Indore who renewed many of India's great shrines in the eighteenth century. The temple is protected by the Archaeological Survey of India and remains in full worship.",
-    "architecture": "The temple rises from a rectangular platform, its walls built of red basalt as far as the entablature and its spire of brick and stucco above. It belongs to the Nagara family with the touches of the Maratha builders: the stone is densely carved with deities, scenes and ornament, and a pillared hall leads to the sanctum, where the Jyotirlinga rests. Near the temple lies the Shivalaya tank, which tradition links with the shrine's legend.",
-    "legends": "The legend is of Ghushma, also called Kusuma, a devout woman who each day shaped one hundred and one lingas of clay, worshipped them and immersed them in a tank. Her son was killed by a jealous kinswoman and his body cast into that same water. Ghushma did not break her worship; as she went to immerse the lingas, the boy rose alive from the tank. Shiva appeared, and at Ghushma's plea forgave the one who had wronged her and remained here as Ghushmeshwar, lord of Ghushma.",
-    "festivals": "Maha Shivaratri is the chief festival, with worship through the night and long queues of pilgrims from across the Deccan. The Mondays of Shravan are kept with abhisheka and special decoration, and the month of Kartik brings lamps and further worship. Confirm dates locally.",
-    "experience": "Grishneshwar is an intimate shrine after the grandeur of Ellora, and many pilgrims visit both on the same day. By local custom, men remove their shirts or vests before entering the sanctum, and devotees can often offer worship close to the Jyotirlinga. Afterwards, a walk to the Shivalaya tank recalls Ghushma's daily offering."
+    "history": "ଗ୍ରିଷ୍ଣେଶ୍ୱର ବେରୁଳ ଗ୍ରାମରେ ଅବସ୍ଥିତ, ଏଲୋରାର ଶିଳାକୃତ ଗୁମ୍ଫାରୁ ପ୍ରାୟ ଦେଢ଼ କିଲୋମିଟର ଏବଂ ଛତ୍ରପତି ସମ୍ଭାଜୀନଗରରୁ ପ୍ରାୟ ୩୦ କି.ମି. ଦୂରରେ। ଦ୍ୱାଦଶ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ସ୍ତୋତ୍ରମ୍ ବାରଟି ଜ୍ୟୋତିର୍ଲିଙ୍ଗର ତାଲିକା “ଘୁଷ୍ମେଶଂ ଶିବାଳୟେ” ବୋଲି ସମାପ୍ତ କରେ, ଏବଂ ଏହି ଦେବାଳୟ ହିଁ ସେହି ନାମିତ ଧାମ। ଛତ୍ରପତି ଶିବାଜୀଙ୍କ ପିତାମହ ମାଲୋଜୀ ଭୋସଲେଙ୍କ ସମୟରେ ମନ୍ଦିର ଜୀର୍ଣ୍ଣୋଦ୍ଧାରିତ ହେଲା, ଏବଂ ଭିତରେ ଥିବା ଏକ ଶିଳାଲେଖରେ ଭୋସଲେ ପରିବାରର ସଦସ୍ୟମାନଙ୍କ ନାମ ଅଛି। ଏହାର ବର୍ତ୍ତମାନ ରୂପ ଅହଲ୍ୟାବାଈ ହୋଲକରଙ୍କ ଦାନ — ଇନ୍ଦୌରର ଏହି ରାଣୀ ଅଷ୍ଟାଦଶ ଶତାବ୍ଦୀରେ ଭାରତର ଅନେକ ମହାନ ତୀର୍ଥକୁ ନବୀକରଣ କରିଥିଲେ। ମନ୍ଦିରଟି ଭାରତୀୟ ପୁରାତତ୍ତ୍ୱ ସର୍ବେକ୍ଷଣ ଦ୍ୱାରା ସଂରକ୍ଷିତ ଏବଂ ପୂର୍ଣ୍ଣ ପୂଜାରେ ରହିଛି।",
+    "architecture": "ମନ୍ଦିର ଏକ ଆୟତାକାର ଚଟାଣରୁ ଉଠିଛି; ଏହାର କାନ୍ଥ ଏଣ୍ଟାବ୍ଲେଚର ପର୍ଯ୍ୟନ୍ତ ଲାଲ ବେସାଲ୍ଟରେ ଏବଂ ଶିଖର ଉପରେ ଇଟା ଓ ଚୂନରେ ନିର୍ମିତ। ଏହା ମରାଠା ଶିଳ୍ପୀଙ୍କ ସ୍ପର୍ଶ ସହିତ ନାଗର ପରମ୍ପରାର: ପଥର ଦେବଦେବୀ, ଦୃଶ୍ୟ ଓ ଅଳଙ୍କରଣରେ ଘନ ଭାବେ ଖୋଦିତ, ଏବଂ ଏକ ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ ଗର୍ଭଗୃହକୁ ନେଇଯାଏ ଯେଉଁଠି ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ବିରାଜିତ। ମନ୍ଦିର ପାଖରେ ଶିବାଳୟ ସରୋବର ଅଛି, ପରମ୍ପରା ଯାହାକୁ ଦେବାଳୟର କିମ୍ବଦନ୍ତୀ ସହ ଯୋଡ଼େ।",
+    "legends": "କିମ୍ବଦନ୍ତୀ ଘୁଷ୍ମା (କୁସୁମା ମଧ୍ୟ କୁହାଯାଏ) ନାମ୍ନୀ ଏକ ଧର୍ମପ୍ରାଣ ନାରୀଙ୍କର, ଯିଏ ପ୍ରତିଦିନ ମାଟିର ଏକଶହ ଏକଟି ଲିଙ୍ଗ ଗଢ଼ି, ପୂଜା କରି, ସରୋବରରେ ବିସର୍ଜନ କରୁଥିଲେ। ତାଙ୍କ ପୁତ୍ରକୁ ଜଣେ ଈର୍ଷାପରାୟଣ ଆତ୍ମୀୟା ହତ୍ୟା କରି ତାହାର ଶବକୁ ସେହି ଜଳରେ ଫିଙ୍ଗିଦେଲେ। ଘୁଷ୍ମା ନିଜ ପୂଜା ଭାଙ୍ଗିଲେ ନାହିଁ; ସେ ଲିଙ୍ଗ ବିସର୍ଜନ ପାଇଁ ଯାଉଥିବା ବେଳେ ବାଳକ ସରୋବରରୁ ଜୀବିତ ଉଠିଆସିଲା। ଶିବ ପ୍ରକଟ ହେଲେ, ଘୁଷ୍ମାଙ୍କ ପ୍ରାର୍ଥନାରେ ଅନ୍ୟାୟକାରିଣୀଙ୍କୁ କ୍ଷମା କଲେ ଏବଂ ଘୁଷ୍ମେଶ୍ୱର, ଘୁଷ୍ମାଙ୍କ ପ୍ରଭୁ ରୂପେ ଏଠାରେ ରହିଗଲେ।",
+    "festivals": "ମହାଶିବରାତ୍ରି ମୁଖ୍ୟ ଉତ୍ସବ, ସାରା ରାତି ପୂଜା ଏବଂ ଦାକ୍ଷିଣାତ୍ୟର ସବୁ ପ୍ରାନ୍ତରୁ ଆସିଥିବା ତୀର୍ଥଯାତ୍ରୀଙ୍କ ଲମ୍ବା ଧାଡ଼ି ସହିତ। ଶ୍ରାବଣର ସୋମବାରଗୁଡ଼ିକ ଅଭିଷେକ ଓ ବିଶେଷ ସଜ୍ଜା ସହ ପାଳିତ ହୁଏ, ଏବଂ କାର୍ତ୍ତିକ ମାସ ଦୀପ ଓ ଅଧିକ ପୂଜା ଆଣେ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "experience": "ଏଲୋରାର ମହିମା ପରେ ଗ୍ରିଷ୍ଣେଶ୍ୱର ଏକ ଆତ୍ମୀୟ ଦେବାଳୟ, ଏବଂ ଅନେକ ତୀର୍ଥଯାତ୍ରୀ ଉଭୟ ସ୍ଥାନ ଏକ ଦିନରେ ଦର୍ଶନ କରନ୍ତି। ସ୍ଥାନୀୟ ପ୍ରଥା ଅନୁସାରେ ପୁରୁଷମାନେ ଗର୍ଭଗୃହ ପ୍ରବେଶ ପୂର୍ବରୁ ଅଙ୍ଗବସ୍ତ୍ର ବା ଗଞ୍ଜି ଖୋଲନ୍ତି, ଏବଂ ଭକ୍ତମାନେ ପ୍ରାୟତଃ ଜ୍ୟୋତିର୍ଲିଙ୍ଗ ନିକଟରେ ପୂଜା କରିପାରନ୍ତି। ପରେ ଶିବାଳୟ ସରୋବର ଆଡ଼କୁ ଏକ ଚାଲିବା ଘୁଷ୍ମାଙ୍କ ଦୈନିକ ଅର୍ପଣକୁ ସ୍ମରଣ କରାଏ।"
   },
   "visit": {
-    "timings": "Open daily from early morning to night, with aartis through the day; Maha Shivaratri and Shravan Mondays are very busy. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected, with shoulders and knees covered; footwear is removed before entering. By custom, men remove shirts or vests before entering the sanctum; follow the posted rules and the priests' guidance.",
-    "photography": "Photography is not permitted inside the sanctum; follow the posted rules and staff guidance.",
-    "gettingThere": "Verul lies about 30 km north-west of Chhatrapati Sambhajinagar (formerly Aurangabad), on the road to the Ellora caves, which are about 1.5 km from the temple. Chhatrapati Sambhajinagar has the nearest railway station and airport."
+    "timings": "ପ୍ରତିଦିନ ଭୋରରୁ ରାତି ପର୍ଯ୍ୟନ୍ତ ଖୋଲା, ଦିନସାରା ଆରତୀ ସହିତ; ମହାଶିବରାତ୍ରି ଓ ଶ୍ରାବଣ ସୋମବାରରେ ବହୁତ ଭିଡ଼। ଯିବା ପୂର୍ବରୁ ସ୍ଥାନୀୟ ଭାବେ ବର୍ତ୍ତମାନର ସମୟ ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "dressCode": "ଶିଷ୍ଟ ପାରମ୍ପରିକ ବସ୍ତ୍ର ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଆଚ୍ଛାଦିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲାଯାଏ। ପ୍ରଥା ଅନୁସାରେ ପୁରୁଷମାନେ ଗର୍ଭଗୃହ ପ୍ରବେଶ ପୂର୍ବରୁ ଅଙ୍ଗବସ୍ତ୍ର ବା ଗଞ୍ଜି ଖୋଲନ୍ତି; ପ୍ରଦର୍ଶିତ ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ପାଳନ କରନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଫଟୋଗ୍ରାଫି ଅନୁମତିପ୍ରାପ୍ତ ନୁହେଁ; ପ୍ରଦର୍ଶିତ ନିୟମ ଓ କର୍ମଚାରୀଙ୍କ ନିର୍ଦ୍ଦେଶ ପାଳନ କରନ୍ତୁ।",
+    "gettingThere": "ବେରୁଳ ଛତ୍ରପତି ସମ୍ଭାଜୀନଗର (ପୂର୍ବତନ ଔରଙ୍ଗାବାଦ)ର ପ୍ରାୟ ୩୦ କି.ମି. ଉତ୍ତର-ପଶ୍ଚିମରେ, ଏଲୋରା ଗୁମ୍ଫା ଯାଉଥିବା ରାସ୍ତାରେ, ଯାହା ମନ୍ଦିରରୁ ପ୍ରାୟ ୧.୫ କି.ମି. ଦୂରରେ। ଛତ୍ରପତି ସମ୍ଭାଜୀନଗରରେ ନିକଟତମ ରେଳ ଷ୍ଟେସନ ଓ ବିମାନବନ୍ଦର ଅଛି।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/grishneshwar-ellora.jpg",

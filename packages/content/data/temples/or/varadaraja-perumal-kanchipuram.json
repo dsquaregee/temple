@@ -1,31 +1,38 @@
 {
   "id": "varadaraja-perumal-kanchipuram",
   "locale": "or",
+  "name": "ବରଦରାଜ ପେରୁମାଳ ମନ୍ଦିର, କାଞ୍ଚୀପୁରମ୍",
   "nativeName": "வரதராஜ பெருமாள் கோயில், காஞ்சிபுரம்",
+  "deity": "ବିଷ୍ଣୁ ବରଦରାଜ ରୂପେ, ବରଦାତା ରାଜା, ହସ୍ତିଗିରି ପର୍ବତ ଉପରେ ଠିଆ ହୋଇଥିବା",
+  "tradition": "ବୈଷ୍ଣବ ପରମ୍ପରା (ଶ୍ରୀବୈଷ୍ଣବ)",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "କାଞ୍ଚୀପୁରମ୍",
+    "state": "ତାମିଲ ନାଡୁ",
     "lat": 12.8195,
     "lng": 79.7284
   },
+  "period": "ପଲ୍ଲବ ଓ ଚୋଳ ଉତ୍ପତ୍ତି; ବିଜୟନଗର ଅଧୀନରେ ମହାନ୍ ମଣ୍ଡପମାନ ବିସ୍ତୃତ",
   "century": 14,
+  "dynasty": "ଚୋଳ ଉତ୍ପତ୍ତି, ବିଜୟନଗର ବିସ୍ତାର",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "କାଞ୍ଚୀପୁରମ୍‌ର ବିଷ୍ଣୁ ପଲ୍ଲୀରେ ବରଦରାଜ ପେରୁମାଳ ଛୋଟ ହସ୍ତିଗିରି ପର୍ବତରୁ ବରଦାତା ପ୍ରଭୁ ରୂପେ ବିରାଜମାନ — ଦକ୍ଷିଣର ବିଷ୍ଣୁଙ୍କ ପ୍ରମୁଖ ଧାମ ମଧ୍ୟରୁ ଏକ, ବିଜୟନଗର ଯୁଗର ଶତ-ସ୍ତମ୍ଭ ମଣ୍ଡପ ଏବଂ ଚାଳିଶ ବର୍ଷରେ ଥରେ ମନ୍ଦିର ପୁଷ୍କରିଣୀରୁ ଉଠୁଥିବା ଡିମିରି-କାଠ ଦେବତା ପାଇଁ ପ୍ରସିଦ୍ଧ।",
   "sections": {
-    "history": "The Varadaraja Perumal temple is the great Vishnu shrine of Kanchipuram, standing in the eastern part of the city long known as Vishnu Kanchi. It is counted among the 108 Divya Desams sung by the Alvar poet-saints, and tradition ranks it with Srirangam and Tirumala among the holiest Vaishnava shrines of the south. Its origins reach into the Pallava age, and it grew under Chola patronage before the Vijayanagara emperors raised its most celebrated structures in the fourteenth to sixteenth centuries. The temple is bound to the memory of Ramanuja, the eleventh-century teacher of Vishishtadvaita, who lived and worshipped in Kanchipuram, and it remains one of the living centres of Sri Vaishnava devotion.",
-    "architecture": "The temple is built on and around Hastagiri, the small 'elephant hill', with the sanctum of Varadaraja raised upon it and reached by a flight of steps. The vast walled complex is entered through towering gopurams and encloses the temple tank, the Ananta Saras. Its supreme artistic treasure is the hundred-pillared marriage hall of the Vijayanagara period, whose piers are carved with rearing horses and warriors and chained stone rings cut from single blocks — among the finest sculpture of that age in the Tamil country. On the ceiling near the sanctum are the famous gold and silver lizards that pilgrims reach up to touch. Everything is worked in the mature Dravidian manner of pillared halls, sculptured mandapas and elemental stone.",
-    "legends": "The temple's founding legend tells that Brahma performed a great horse sacrifice, the Ashwamedha, on this spot to bring Vishnu before him, and that the lord appeared as Varadaraja, the giver of boons, rising from the sacrificial fire on the hill of Hastagiri. The original image of the deity was carved from the wood of the sacred fig, the athi tree, and is called Athi Varadar. For its protection this fig-wood form is kept submerged in the temple tank and is brought out for worship only once in forty years, an event that draws immense crowds; the stone Varadaraja receives the daily worship in the meantime. The name Varada means simply 'the one who grants' — the god who answers the devotee's every prayer.",
-    "festivals": "The temple's calendar turns on the Brahmotsavam in the Tamil month of Vaikasi, when Varadaraja is carried in procession on a succession of great vehicles, including the garuda vahana that draws the largest gathering. Vaikunta Ekadasi in the cool season, the float festival on the Ananta Saras, and the observances of the Sri Vaishnava tradition fill the year. Rarest of all is the once-in-forty-years descent, when the Athi Varadar is lifted from the tank and displayed for weeks and the whole city turns out to see the fig-wood lord.",
-    "experience": "A visit to Varadaraja completes the pilgrim's Kanchipuram, joining the great Shiva and Goddess temples of the city with its foremost abode of Vishnu. The climb to the hilltop sanctum, the shaded immensity of the hundred-pillared hall and the search for the little lizards on the ceiling make the temple a place to linger. Kanchipuram, famed also for its silk, lies an easy journey inland from Chennai and pairs naturally with the coastal Pallava monuments of Mahabalipuram."
+    "history": "ବରଦରାଜ ପେରୁମାଳ ମନ୍ଦିର କାଞ୍ଚୀପୁରମ୍‌ର ମହାନ୍ ବିଷ୍ଣୁ ଦେବସ୍ଥାନ, ଯାହା ବହୁ ଦିନରୁ ବିଷ୍ଣୁ କାଞ୍ଚୀ ଭାବେ ପରିଚିତ ନଗରର ପୂର୍ବ ଭାଗରେ ଅବସ୍ଥିତ। ଏହା ଆଳ୍ୱାର କବି-ସନ୍ଥମାନଙ୍କ ଦ୍ୱାରା ଗୀତ ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍ ମଧ୍ୟରେ ଗଣିତ, ଏବଂ ପରମ୍ପରା ଏହାକୁ ଶ୍ରୀରଙ୍ଗମ୍ ଓ ତିରୁମଲା ସହ ଦକ୍ଷିଣର ପବିତ୍ରତମ ବୈଷ୍ଣବ ଦେବସ୍ଥାନ ମଧ୍ୟରେ ସ୍ଥାନ ଦିଏ। ଏହାର ଉତ୍ପତ୍ତି ପଲ୍ଲବ ଯୁଗ ପର୍ଯ୍ୟନ୍ତ ବିସ୍ତୃତ, ଚୋଳ ପୃଷ୍ଠପୋଷକତାରେ ଏହା ବଢ଼ିଲା, ଏବଂ ପରେ ବିଜୟନଗର ସମ୍ରାଟମାନେ ଚତୁର୍ଦ୍ଦଶରୁ ଷୋଡ଼ଶ ଶତାବ୍ଦୀରେ ଏହାର ସବୁଠାରୁ ପ୍ରସିଦ୍ଧ ନିର୍ମାଣ ଉଠାଇଲେ। ମନ୍ଦିର ଏକାଦଶ ଶତାବ୍ଦୀର ବିଶିଷ୍ଟାଦ୍ୱୈତ ଆଚାର୍ଯ୍ୟ ରାମାନୁଜଙ୍କ ସ୍ମୃତି ସହ ଜଡ଼ିତ, ଯିଏ କାଞ୍ଚୀପୁରମ୍‌ରେ ବାସ ଓ ଉପାସନା କରିଥିଲେ, ଏବଂ ଏହା ଶ୍ରୀବୈଷ୍ଣବ ଭକ୍ତିର ଜୀବନ୍ତ କେନ୍ଦ୍ର ମଧ୍ୟରୁ ଏକ ହୋଇ ରହିଛି।",
+    "architecture": "ମନ୍ଦିରଟି 'ହାତୀ ପାହାଡ଼' ହସ୍ତିଗିରି ଉପରେ ଓ ଚାରିପାଖରେ ନିର୍ମିତ, ଏହା ଉପରେ ବରଦରାଜଙ୍କ ଗର୍ଭଗୃହ ଉଠିଛି ଏବଂ ସିଡ଼ି ଦେଇ ପହଞ୍ଚିହୁଏ। ବିଶାଳ ପ୍ରାଚୀର ଘେରା ପରିସରରେ ଉଚ୍ଚ ଗୋପୁରମ୍ ଦେଇ ପ୍ରବେଶ ହୁଏ ଏବଂ ମନ୍ଦିର ପୁଷ୍କରିଣୀ ଅନନ୍ତ ସରସ୍ ଏଥିରେ ଘେରା। ଏହାର ସର୍ବୋଚ୍ଚ କଳା ସମ୍ପଦ ବିଜୟନଗର ଯୁଗର ଶତ-ସ୍ତମ୍ଭ ବିବାହ ମଣ୍ଡପ, ଯାହାର ସ୍ତମ୍ଭଗୁଡ଼ିକ ଉଠିଥିବା ଅଶ୍ୱ ଓ ଯୋଦ୍ଧା ଏବଂ ଏକ ଖଣ୍ଡ ପଥରରୁ କାଟିଥିବା ଶୃଙ୍ଖଳିତ ପ୍ରସ୍ତର ବଳୟରେ ଖୋଦିତ — ତାମିଲ ଦେଶରେ ସେହି ଯୁଗର ଉତ୍କୃଷ୍ଟ ଭାସ୍କର୍ଯ୍ୟ ମଧ୍ୟରୁ ଅନ୍ୟତମ। ଗର୍ଭଗୃହ ନିକଟ ଛାତରେ ପ୍ରସିଦ୍ଧ ସୁନା ଓ ରୂପା ଗୋଧି ଅଛି ଯାହାକୁ ଯାତ୍ରୀମାନେ ହାତ ବଢ଼ାଇ ଛୁଅନ୍ତି। ସବୁକିଛି ସ୍ତମ୍ଭ ମଣ୍ଡପ, ଭାସ୍କର୍ଯ୍ୟମଣ୍ଡିତ ମଣ୍ଡପ ଓ ମୌଳିକ ପ୍ରସ୍ତରରେ ପରିପକ୍ୱ ଦ୍ରାବିଡ଼ ରୀତିରେ ନିର୍ମିତ।",
+    "legends": "ମନ୍ଦିରର ପ୍ରତିଷ୍ଠା ଉପାଖ୍ୟାନ କହେ ଯେ ବ୍ରହ୍ମା ବିଷ୍ଣୁଙ୍କୁ ନିଜ ସମ୍ମୁଖକୁ ଆଣିବା ପାଇଁ ଏହି ସ୍ଥାନରେ ଏକ ମହାନ୍ ଅଶ୍ୱମେଧ ଯଜ୍ଞ କଲେ, ଏବଂ ପ୍ରଭୁ ହସ୍ତିଗିରି ପର୍ବତରେ ଯଜ୍ଞାଗ୍ନିରୁ ଉଠି ବରଦାତା ବରଦରାଜ ରୂପେ ପ୍ରକଟ ହେଲେ। ଦେବତାଙ୍କ ମୂଳ ପ୍ରତିମା ପବିତ୍ର ଡିମିରି ବୃକ୍ଷ, ଅତ୍ତି ଗଛର କାଠରୁ ଖୋଦିତ, ଏବଂ ଅତ୍ତି ବରଦର ନାମରେ ପରିଚିତ। ଏହାର ସୁରକ୍ଷା ପାଇଁ ଏହି ଡିମିରି-କାଠ ରୂପ ମନ୍ଦିର ପୁଷ୍କରିଣୀରେ ବୁଡ଼ାଇ ରଖାଯାଏ ଏବଂ ଚାଳିଶ ବର୍ଷରେ କେବଳ ଥରେ ଉପାସନା ପାଇଁ ବାହାର କରାଯାଏ, ଯାହା ବିପୁଳ ଭିଡ଼ ଟାଣେ; ଏହି ମଧ୍ୟରେ ପ୍ରସ୍ତର ବରଦରାଜ ଦୈନିକ ପୂଜା ପାଆନ୍ତି। ବରଦ ନାମର ଅର୍ଥ ସରଳ ଭାବେ 'ଯିଏ ଦିଏ' — ଭକ୍ତର ପ୍ରତ୍ୟେକ ପ୍ରାର୍ଥନାର ଉତ୍ତର ଦେଉଥିବା ଦେବତା।",
+    "festivals": "ମନ୍ଦିରର ପଞ୍ଜିକା ତାମିଲ ମାସ ବୈକାସିର ବ୍ରହ୍ମୋତ୍ସବମ୍ ଉପରେ ଘୁରେ, ଯେତେବେଳେ ବରଦରାଜ ଅନେକ ମହାନ୍ ବାହନରେ ଶୋଭାଯାତ୍ରାରେ ବୁଲାଯାଆନ୍ତି, ସବୁଠାରୁ ବଡ଼ ଜନସମାବେଶ ଟାଣୁଥିବା ଗରୁଡ଼ ବାହନ ସହିତ। ଶୀତଳ ଋତୁରେ ବୈକୁଣ୍ଠ ଏକାଦଶୀ, ଅନନ୍ତ ସରସ୍‌ରେ ଜଳବିହାର ଉତ୍ସବ, ଏବଂ ଶ୍ରୀବୈଷ୍ଣବ ପରମ୍ପରାର ପାଳନ ବର୍ଷକୁ ପୂର୍ଣ୍ଣ କରନ୍ତି। ସବୁଠାରୁ ଦୁର୍ଲଭ ହେଉଛି ଚାଳିଶ ବର୍ଷରେ ଥରେ ଅବତରଣ, ଯେତେବେଳେ ଅତ୍ତି ବରଦରଙ୍କୁ ପୁଷ୍କରିଣୀରୁ ଉଠାଯାଇ ସପ୍ତାହ ସପ୍ତାହ ଧରି ପ୍ରଦର୍ଶିତ କରାଯାଏ ଏବଂ ସମଗ୍ର ନଗର ଡିମିରି-କାଠ ପ୍ରଭୁଙ୍କୁ ଦେଖିବାକୁ ଓହ୍ଲାଏ।",
+    "experience": "ବରଦରାଜଙ୍କ ଦର୍ଶନ ତୀର୍ଥଯାତ୍ରୀର କାଞ୍ଚୀପୁରମ୍ ଯାତ୍ରାକୁ ସମ୍ପୂର୍ଣ୍ଣ କରେ, ନଗରର ମହାନ୍ ଶିବ ଓ ଦେବୀ ମନ୍ଦିରକୁ ଏହାର ପ୍ରମୁଖ ବିଷ୍ଣୁ ଧାମ ସହ ଯୋଡ଼େ। ପର୍ବତ ଶିଖର ଗର୍ଭଗୃହକୁ ଚଢ଼ିବା, ଶତ-ସ୍ତମ୍ଭ ମଣ୍ଡପର ଛାଇଘେରା ବିଶାଳତା ଏବଂ ଛାତରେ ଛୋଟ ଗୋଧିମାନଙ୍କୁ ଖୋଜିବା ମନ୍ଦିରକୁ ଅଟକିବାର ସ୍ଥାନ କରେ। ରେଶମ ପାଇଁ ମଧ୍ୟ ପ୍ରସିଦ୍ଧ କାଞ୍ଚୀପୁରମ୍ ଚେନ୍ନାଇରୁ ଅନ୍ତର୍ଦେଶକୁ ସହଜ ଯାତ୍ରା, ଏବଂ ମହାବଳୀପୁରମ୍‌ର ଉପକୂଳୀୟ ପଲ୍ଲବ ସ୍ମାରକୀ ସହ ସ୍ୱାଭାବିକ ଭାବେ ଯୋଡ଼ି ହୁଏ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. As a living temple, respectful conduct is asked of all visitors.",
-    "photography": "Photography is restricted, especially in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kanchipuram is in Tamil Nadu, about 75 km from Chennai and well connected by road and rail; the temple is in the eastern Vishnu Kanchi quarter and easily reached by local transport."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଅଧିବେଶନ ସହିତ ଖୋଲା, ମଧ୍ୟାହ୍ନରେ ଦୀର୍ଘ ସମୟ ବନ୍ଦ; ଉତ୍ସବ ଦିନରେ ସର୍ବାଧିକ ଭିଡ଼। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବାକୁ ହୁଏ। ଏକ ଜୀବନ୍ତ ମନ୍ଦିର ଭାବେ ସମସ୍ତ ଦର୍ଶକଙ୍କଠାରୁ ସମ୍ମାନଜନକ ଆଚରଣ ଆଶା କରାଯାଏ।",
+    "photography": "ଫଟୋଗ୍ରାଫି ସୀମିତ, ବିଶେଷତଃ ଗର୍ଭଗୃହ ଓ ତାହାର ଚାରିପାଖରେ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "କାଞ୍ଚୀପୁରମ୍ ତାମିଲ ନାଡୁରେ, ଚେନ୍ନାଇରୁ ପ୍ରାୟ ୭୫ କିମି ଦୂରରେ ଏବଂ ସଡ଼କ ଓ ରେଳ ଦ୍ୱାରା ଭଲ ଭାବେ ସଂଯୁକ୍ତ; ମନ୍ଦିର ପୂର୍ବ ବିଷ୍ଣୁ କାଞ୍ଚୀ ପଲ୍ଲୀରେ ଏବଂ ସ୍ଥାନୀୟ ପରିବହନ ଦ୍ୱାରା ସହଜରେ ପହଞ୍ଚିହୁଏ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.jpg",
