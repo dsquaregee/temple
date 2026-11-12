@@ -1,29 +1,36 @@
 {
   "id": "vishalakshi-varanasi",
   "locale": "or",
+  "name": "ବିଶାଳାକ୍ଷୀ ମନ୍ଦିର, ବାରାଣସୀ",
   "nativeName": "विशालाक्षी मंदिर",
+  "deity": "ଦେବୀ ବିଶାଳାକ୍ଷୀ (ବିଶାଳଲକ୍ଷ୍ମୀ), ବିସ୍ତୃତ ନେତ୍ରର ଦେବୀ ରୂପେ, ତାଙ୍କ ରକ୍ଷକ କାଳଭୈରବଙ୍କ ସହିତ",
+  "tradition": "ଶାକ୍ତ ଧର୍ମ",
   "location": {
-    "city": "Varanasi (Kashi)",
-    "state": "Uttar Pradesh",
+    "city": "ବାରାଣସୀ (କାଶୀ)",
+    "state": "ଉତ୍ତରପ୍ରଦେଶ",
     "lat": 25.309,
     "lng": 83.011
   },
+  "period": "କାଶୀର ପ୍ରାଚୀନ ଦେବୀ ପୀଠ, ଅଠର ମହାଶକ୍ତିପୀଠ ମଧ୍ୟରୁ ଗୋଟିଏ; ବର୍ତ୍ତମାନର ମନ୍ଦିର ୧୮୯୩ରେ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିଲା",
   "century": 19,
+  "dynasty": "ତାମିଲନାଡୁର ନଗରତ୍ତାର (ନଟ୍ଟୁକୋଟ୍ଟୈ ଚେଟ୍ଟିୟାର) ବଣିକ ପୃଷ୍ଠପୋଷକ",
+  "style": "ଉତ୍ତର ଭାରତୀୟ ହାବେଲି ଶୈଳୀର ମନ୍ଦିର, ଏକ ଛୋଟ ଦ୍ରାବିଡ଼ ଗୋପୁରମ୍ ସହିତ",
   "unesco": false,
   "circuits": [
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "ବିଶାଳାକ୍ଷୀ କାଶୀର ବିସ୍ତୃତ ନେତ୍ରା ମାତା, ଅଷ୍ଟାଦଶ ଶକ୍ତିପୀଠ ସ୍ତୋତ୍ରରେ \"ବାରାଣସ୍ୟାଂ ବିଶାଳାକ୍ଷୀ\" ନାମରେ ଉଲ୍ଲିଖିତା, ଯେଉଁଠି ପରମ୍ପରା କହେ ସତୀଙ୍କ କର୍ଣ୍ଣଭୂଷଣ କିମ୍ବା ଆଖି ମଣିକର୍ଣ୍ଣିକା ନିକଟରେ ପଡ଼ିଥିଲା; ମୀର ଘାଟରେ ଥିବା ତାଙ୍କ ମନ୍ଦିରକୁ ତାମିଲ ନଗରତ୍ତାର ଭକ୍ତମାନେ ପୁନଃନିର୍ମାଣ କରିଥିଲେ।",
   "sections": {
-    "history": "Kashi is the city of Shiva, yet its tradition holds that the Mother is never absent from it, and Vishalakshi is her seat here. The Ashtadasha Shakti Peetha stotram, attributed to Adi Shankara, names the goddess of this city in the line \"Varanasyam Vishalakshi\", which places the shrine among the eighteen Maha Shakti Peethas. The Kashi Khanda of the Skanda Purana praises her greatness and counts her among the Nava Gauri, the nine goddesses of the city's own pilgrimage. The present temple at Mir Ghat was completed in 1893, rebuilt and maintained since the nineteenth century by the Nagarathar community of Tamil Nadu, whose devotion to Kashi has long linked the far south with the banks of the Ganga.",
-    "architecture": "The temple lies in the lanes above Mir Ghat, close to the old Dharmakupa well and a short walk from Manikarnika, and it is reached through a narrow passage rather than a grand forecourt. Its form recalls a Varanasi haveli, with an enclosed court and a compact sanctum, yet the hand of its southern patrons shows in a modest Dravidian gopuram and in Tamil inscriptions. The sanctum is said to hold two images of the goddess in dark stone: the older Adi Vishalakshi, and a larger image, dressed in jewels and flowers, set up when Tamil devotees renovated the shrine.",
-    "legends": "The pilgrim's story begins with Sati, who gave up her life at her father Daksha's sacrifice. Shiva, in grief, carried her body across the land, and as it was divided, every place where a part fell became a seat of the Mother. In Kashi tradition says it was the jewel of her ear-ornament that fell beside Manikarnika, which gave the ghat its name; another account holds that it was her eye, and the name Vishalakshi, the wide-eyed, is read in that light. Kashi has a second tale, told in the Skanda Purana. The sage Vyasa, finding that no household in the city offered him food, spoke a curse against it, and the goddess came to him as a housewife and fed him. Devotees remember here a Mother who nourishes the hungry.",
-    "festivals": "Kajali Teej, kept in the dark fortnight of Bhadrapada (August to September), is regarded as the temple's principal festival, when women gather to sing and pray for the well-being of their families. Chaitra Navratri (March or April) and Sharad Navratri (September or October) are observed for nine days in honour of the goddess in her many forms, and the temple is one of the stations of Kashi's Nava Gauri pilgrimage. Dates follow the Hindu lunar calendar, so confirm them locally.",
-    "experience": "Reach Vishalakshi on foot, as Kashi intends, by threading the old lanes toward the river and leaving the bustle of the ghats for the shrine's enclosed court. Pause at the threshold, then come before the goddess for darshan. Many pilgrims pair the visit with a walk to nearby Manikarnika and a prayer at Kashi Vishwanath, so that the Mother and the Lord of Kashi are honoured together. The southern inscriptions and the gopuram are a gentle reminder of how far the devotion of this shrine has travelled to reach the Ganga."
+    "history": "କାଶୀ ଶିବଙ୍କ ନଗରୀ, ତଥାପି ଏହାର ପରମ୍ପରା କହେ ଯେ ମାତା ଏଠାରୁ କେବେ ଅନୁପସ୍ଥିତ ନୁହନ୍ତି, ଏବଂ ବିଶାଳାକ୍ଷୀ ଏଠାରେ ତାଙ୍କ ପୀଠ। ଆଦି ଶଙ୍କରାଚାର୍ଯ୍ୟଙ୍କ ରଚିତ ବୋଲି କୁହାଯାଉଥିବା ଅଷ୍ଟାଦଶ ଶକ୍ତିପୀଠ ସ୍ତୋତ୍ର ଏହି ନଗରୀର ଦେବୀଙ୍କୁ \"ବାରାଣସ୍ୟାଂ ବିଶାଳାକ୍ଷୀ\" ପଂକ୍ତିରେ ନାମିତ କରେ, ଯାହା ଏହି ମନ୍ଦିରକୁ ଅଠର ମହାଶକ୍ତିପୀଠ ମଧ୍ୟରେ ସ୍ଥାନ ଦିଏ। ସ୍କନ୍ଦ ପୁରାଣର କାଶୀ ଖଣ୍ଡ ତାଙ୍କ ମହିମା ଗାନ କରେ ଏବଂ ତାଙ୍କୁ ନଗରୀର ନିଜସ୍ୱ ତୀର୍ଥଯାତ୍ରାର ନଅ ଦେବୀ ନବଗୌରୀ ମଧ୍ୟରେ ଗଣେ। ମୀର ଘାଟରେ ଥିବା ବର୍ତ୍ତମାନର ମନ୍ଦିର ୧୮୯୩ରେ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଥିଲା, ଏବଂ ଉନ୍ନବିଂଶ ଶତାବ୍ଦୀରୁ ତାମିଲନାଡୁର ନଗରତ୍ତାର ସମ୍ପ୍ରଦାୟ ଦ୍ୱାରା ପୁନଃନିର୍ମିତ ଓ ରକ୍ଷିତ, ଯାହାଙ୍କର କାଶୀ ପ୍ରତି ଭକ୍ତି ସୁଦୂର ଦକ୍ଷିଣକୁ ଗଙ୍ଗା ତୀର ସହ ଦୀର୍ଘ ଦିନରୁ ଯୋଡ଼ିଛି।",
+    "architecture": "ମନ୍ଦିର ମୀର ଘାଟ ଉପରର ଗଳି ମଧ୍ୟରେ, ପୁରୁଣା ଧର୍ମକୂପ କୂଅ ନିକଟରେ ଏବଂ ମଣିକର୍ଣ୍ଣିକାରୁ ଅଳ୍ପ ଚାଲିବା ବାଟରେ ଅବସ୍ଥିତ, ଏବଂ ଏକ ବିଶାଳ ସମ୍ମୁଖ ପ୍ରାଙ୍ଗଣ ବଦଳରେ ଏକ ସଂକୀର୍ଣ୍ଣ ବାଟ ଦେଇ ପହଞ୍ଚିବାକୁ ହୁଏ। ଏହାର ରୂପ ବାରାଣସୀର ହାବେଲିକୁ ମନେ ପକାଏ, ଏକ ଘେରା ପ୍ରାଙ୍ଗଣ ଓ ଛୋଟ ଗର୍ଭଗୃହ ସହିତ, ତଥାପି ଏହାର ଦକ୍ଷିଣୀ ପୃଷ୍ଠପୋଷକଙ୍କ ହାତ ଏକ ସାମାନ୍ୟ ଦ୍ରାବିଡ଼ ଗୋପୁରମ୍ ଓ ତାମିଲ ଶିଳାଲେଖରେ ଦେଖାଯାଏ। କୁହାଯାଏ ଗର୍ଭଗୃହରେ ଦେବୀଙ୍କର କଳା ପଥରର ଦୁଇଟି ମୂର୍ତ୍ତି ଅଛି: ପୁରୁଣା ଆଦି ବିଶାଳାକ୍ଷୀ, ଏବଂ ତାମିଲ ଭକ୍ତମାନେ ମନ୍ଦିର ମରାମତି କଲା ବେଳେ ପ୍ରତିଷ୍ଠିତ ଏକ ବଡ଼ ମୂର୍ତ୍ତି, ଯାହା ଅଳଙ୍କାର ଓ ଫୁଲରେ ସଜ୍ଜିତ।",
+    "legends": "ତୀର୍ଥଯାତ୍ରୀଙ୍କ କାହାଣୀ ସତୀଙ୍କଠାରୁ ଆରମ୍ଭ, ଯିଏ ନିଜ ପିତା ଦକ୍ଷଙ୍କ ଯଜ୍ଞରେ ପ୍ରାଣ ତ୍ୟାଗ କରିଥିଲେ। ଶୋକରେ ଶିବ ତାଙ୍କ ଶରୀରକୁ ବହନ କରି ଦେଶ ସାରା ବୁଲିଲେ, ଏବଂ ତାହା ବିଭକ୍ତ ହେବା ବେଳେ ଯେଉଁ ଯେଉଁ ସ୍ଥାନରେ ଏକ ଅଂଶ ପଡ଼ିଲା ସେହି ସବୁ ମାତାଙ୍କ ପୀଠ ହେଲା। କାଶୀରେ ପରମ୍ପରା କହେ ତାଙ୍କ କର୍ଣ୍ଣଭୂଷଣର ମଣି ମଣିକର୍ଣ୍ଣିକା ପାଖରେ ପଡ଼ିଥିଲା, ଯାହା ଘାଟକୁ ତାହାର ନାମ ଦେଲା; ଅନ୍ୟ ଏକ ବିବରଣୀ କହେ ତାହା ତାଙ୍କ ଆଖି ଥିଲା, ଏବଂ ବିଶାଳାକ୍ଷୀ, ବିସ୍ତୃତ ନେତ୍ରା, ନାମକୁ ସେହି ଆଲୋକରେ ପଢ଼ାଯାଏ। କାଶୀର ଆଉ ଏକ କାହାଣୀ ଅଛି, ସ୍କନ୍ଦ ପୁରାଣରେ କୁହାଯାଇଛି। ଋଷି ବ୍ୟାସ, ନଗରୀର କୌଣସି ଗୃହ ତାଙ୍କୁ ଖାଦ୍ୟ ଦେଉନାହିଁ ବୋଲି ଦେଖି, ତା’ ବିରୁଦ୍ଧରେ ଶାପ ଦେଲେ, ଏବଂ ଦେବୀ ଜଣେ ଗୃହିଣୀ ରୂପେ ତାଙ୍କ ପାଖକୁ ଆସି ତାଙ୍କୁ ଭୋଜନ କରାଇଲେ। ଭକ୍ତମାନେ ଏଠାରେ ଏପରି ଏକ ମାତାଙ୍କୁ ସ୍ମରଣ କରନ୍ତି ଯିଏ ଭୋକିଲାଙ୍କୁ ପୋଷଣ କରନ୍ତି।",
+    "festivals": "ଭାଦ୍ରପଦର କୃଷ୍ଣ ପକ୍ଷ (ଅଗଷ୍ଟରୁ ସେପ୍ଟେମ୍ବର)ରେ ପାଳିତ କଜଳୀ ତୀଜ ମନ୍ଦିରର ମୁଖ୍ୟ ଉତ୍ସବ ବୋଲି ଗଣାଯାଏ, ଯେତେବେଳେ ମହିଳାମାନେ ପରିବାରର କଲ୍ୟାଣ ପାଇଁ ଗୀତ ଗାଇ ପ୍ରାର୍ଥନା କରିବାକୁ ଏକତ୍ର ହୁଅନ୍ତି। ଚୈତ୍ର ନବରାତ୍ରି (ମାର୍ଚ୍ଚ କିମ୍ବା ଏପ୍ରିଲ) ଓ ଶାରଦ ନବରାତ୍ରି (ସେପ୍ଟେମ୍ବର କିମ୍ବା ଅକ୍ଟୋବର) ଦେବୀଙ୍କ ବିଭିନ୍ନ ରୂପର ସମ୍ମାନରେ ନଅ ଦିନ ପାଳିତ ହୁଏ, ଏବଂ ମନ୍ଦିର କାଶୀର ନବଗୌରୀ ତୀର୍ଥଯାତ୍ରାର ଏକ ସ୍ଥାନ। ତିଥି ହିନ୍ଦୁ ଚାନ୍ଦ୍ର ପଞ୍ଜିକା ଅନୁସାରେ ହୋଇଥିବାରୁ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "କାଶୀର ଇଚ୍ଛା ଅନୁସାରେ ପାଦରେ ବିଶାଳାକ୍ଷୀଙ୍କ ପାଖକୁ ଆସନ୍ତୁ, ପୁରୁଣା ଗଳି ଦେଇ ନଦୀ ଆଡ଼କୁ ଗଲାବେଳେ ଘାଟର ଭିଡ଼ ଛାଡ଼ି ମନ୍ଦିରର ଘେରା ପ୍ରାଙ୍ଗଣକୁ ଆସନ୍ତୁ। ଦ୍ୱାରରେ ଅଳ୍ପ ଅଟକନ୍ତୁ, ତା’ପରେ ଦର୍ଶନ ପାଇଁ ଦେବୀଙ୍କ ସମ୍ମୁଖକୁ ଆସନ୍ତୁ। ଅନେକ ତୀର୍ଥଯାତ୍ରୀ ଏହି ଦର୍ଶନକୁ ନିକଟସ୍ଥ ମଣିକର୍ଣ୍ଣିକା ଯାଏଁ ଚାଲିବା ଓ କାଶୀ ବିଶ୍ୱନାଥଙ୍କଠାରେ ପ୍ରାର୍ଥନା ସହ ଯୋଡ଼ନ୍ତି, ଯାହାଦ୍ୱାରା ମାତା ଓ କାଶୀର ପ୍ରଭୁ ଏକାଠି ସମ୍ମାନିତ ହୁଅନ୍ତି। ଦକ୍ଷିଣୀ ଶିଳାଲେଖ ଓ ଗୋପୁରମ୍ ମୃଦୁ ଭାବେ ମନେ ପକାଏ ଯେ ଏହି ମନ୍ଦିରର ଭକ୍ତି ଗଙ୍ଗା ପର୍ଯ୍ୟନ୍ତ ପହଞ୍ଚିବା ପାଇଁ କେତେ ଦୂର ଯାତ୍ରା କରିଛି।"
   },
   "visit": {
-    "timings": "Typically open from early morning, around 5:00 to 6:00, until late evening, around 9:00 to 10:00, though listed hours vary; confirm timings locally, especially during Navratri.",
-    "dressCode": "Modest traditional attire is recommended: sarees, salwar kameez, or kurta with trousers or dhoti, with shoulders and knees covered. Footwear is left outside, and it is wise to carry little in the crowded lanes.",
-    "photography": "Photography rules are set by the temple and may change. It is customary not to photograph the sanctum or the image of the goddess, so ask the temple staff before using a camera or phone.",
-    "gettingThere": "The temple is at Mir Ghat in the old city, near Manikarnika Ghat and the Kashi Vishwanath area. Varanasi Junction railway station is about 4.5 km away and Lal Bahadur Shastri International Airport about 25 km. Vehicles cannot easily enter the lanes near the ghats, so take an auto or cycle rickshaw as far as the road allows and walk the last stretch."
+    "timings": "ସାଧାରଣତଃ ଭୋର ପ୍ରାୟ ୫:୦୦ରୁ ୬:୦୦ରୁ ଆରମ୍ଭ କରି ବିଳମ୍ବିତ ସନ୍ଧ୍ୟା ପ୍ରାୟ ୯:୦୦ରୁ ୧୦:୦୦ ପର୍ଯ୍ୟନ୍ତ ଖୋଲା, ଯଦିଓ ଘୋଷିତ ସମୟ ଭିନ୍ନ ହୁଏ; ବିଶେଷତଃ ନବରାତ୍ରି ସମୟରେ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ପରାମର୍ଶଯୋଗ୍ୟ: ଶାଢ଼ୀ, ସଲୱାର କମିଜ୍, କିମ୍ବା କୁର୍ତ୍ତା ସହ ପାଇଜାମା ବା ଧୋତି, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି ରହିବା ଉଚିତ। ଜୋତା ବାହାରେ ଛାଡ଼ିବାକୁ ହୁଏ, ଏବଂ ଭିଡ଼ ଗଳିରେ କମ୍ ଜିନିଷ ନେବା ବୁଦ୍ଧିମାନ୍।",
+    "photography": "ଫଟୋଗ୍ରାଫି ନିୟମ ମନ୍ଦିର ଦ୍ୱାରା ନିର୍ଦ୍ଧାରିତ ଏବଂ ବଦଳିପାରେ। ଗର୍ଭଗୃହ କିମ୍ବା ଦେବୀଙ୍କ ମୂର୍ତ୍ତିର ଫଟୋ ନ ଉଠାଇବା ପରମ୍ପରା; ତେଣୁ କ୍ୟାମେରା କିମ୍ବା ଫୋନ ବ୍ୟବହାର ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ମନ୍ଦିର ପୁରୁଣା ସହରର ମୀର ଘାଟରେ, ମଣିକର୍ଣ୍ଣିକା ଘାଟ ଓ କାଶୀ ବିଶ୍ୱନାଥ ଅଞ୍ଚଳ ନିକଟରେ ଅବସ୍ଥିତ। ବାରାଣସୀ ଜଙ୍କସନ୍ ରେଳ ଷ୍ଟେସନ୍ ପ୍ରାୟ ୪.୫ କିଲୋମିଟର ଏବଂ ଲାଲ୍ ବାହାଦୁର ଶାସ୍ତ୍ରୀ ଅନ୍ତର୍ଜାତୀୟ ବିମାନବନ୍ଦର ପ୍ରାୟ ୨୫ କିଲୋମିଟର ଦୂରରେ। ଘାଟ ନିକଟର ଗଳିରେ ଗାଡ଼ି ସହଜରେ ପ୍ରବେଶ କରିପାରେ ନାହିଁ, ତେଣୁ ରାସ୍ତା ଯେତେ ଦୂର ଯାଏ ଅଟୋ କିମ୍ବା ସାଇକେଲ ରିକ୍ସା ନିଅନ୍ତୁ ଏବଂ ଶେଷ ଭାଗ ପାଦରେ ଚାଲନ୍ତୁ।"
   }
 }
