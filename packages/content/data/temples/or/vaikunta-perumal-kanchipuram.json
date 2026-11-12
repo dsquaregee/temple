@@ -1,31 +1,38 @@
 {
   "id": "vaikunta-perumal-kanchipuram",
   "locale": "or",
+  "name": "ବୈକୁଣ୍ଠ ପେରୁମାଳ ମନ୍ଦିର (ତିରୁପରମେଶ୍ୱର ବିଣ୍ଣଗରମ୍), କାଞ୍ଚିପୁରମ୍",
   "nativeName": "வைகுண்ட பெருமாள் கோயில் (திருப்பரமேச்சுர விண்ணகரம்), காஞ்சிபுரம்",
+  "deity": "ବିଷ୍ଣୁ ବୈକୁଣ୍ଠ ପେରୁମାଳ ରୂପେ, ଦେବୀ ବୈକୁଣ୍ଠବଲ୍ଲୀ ଥାୟାରଙ୍କ ସହିତ",
+  "tradition": "ବୈଷ୍ଣବ ପରମ୍ପରା",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "କାଞ୍ଚିପୁରମ୍",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 12.8369,
     "lng": 79.71
   },
+  "period": "ତୋଣ୍ଡୈ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ଗୀତ ଏବଂ ପଲ୍ଲବ ଯୁଗରେ ନିର୍ମିତ",
   "century": 8,
+  "dynasty": "ପଲ୍ଲବ (ନନ୍ଦିବର୍ମନ୍ ଦ୍ୱିତୀୟ ପଲ୍ଲବମଲ୍ଲ)",
+  "style": "ପଲ୍ଲବ ଦ୍ରାବିଡ଼ ଶୈଳୀ",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "କାଞ୍ଚିପୁରମ୍‌ରେ ବୈକୁଣ୍ଠ ପେରୁମାଳଙ୍କ ପଲ୍ଲବ ଶ୍ରେଷ୍ଠ ସୃଷ୍ଟି ତିନି ସ୍ତରର ଗର୍ଭଗୃହରେ ଉଠେ — ଉପବିଷ୍ଟ, ଶୟନ ଓ ଦଣ୍ଡାୟମାନ ବିଷ୍ଣୁ — ତୋଣ୍ଡୈ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ଗୀତ।",
   "sections": {
-    "history": "Known to the Alvars as Thiruparameswara Vinnagaram, this is one of the 108 Divya Desams in Thondai Nadu. It was built under the Pallava king Nandivarman II Pallavamalla, who reigned in the eighth century, and art historians place its construction around 770 to 775 CE; it is built of sandstone. Thirumangai Alvar sang it in ten verses of the Periya Thirumozhi, most likely in the same reign. Several of the verses carry the refrain of the Vinnagaram to which the Pallava king bowed in homage, and one recalls that the king, having defeated a Pandya, bowed to the Lord. The last verse promises that those who learn the ten will rule as kings.",
-    "architecture": "The glory of the temple is its vimana, which holds three sanctums stacked one above another: Vishnu seated at the ground level, reclining as Sheshashayee on the first floor, and standing at the top, a sanctum said to be opened only on Ekadashi. The vimana is larger than that of the earlier Kailasanatha temple in the same town. A raised verandah around it carries sculpted panels that tell the story of several Pallava reigns, making the walls a kind of stone chronicle.",
-    "legends": "The memory most closely tied to this shrine is historical as much as sacred. Thirumangai Alvar's hymn recalls a Pallava king who defeated a Pandya and then bowed before the Lord of Paramesvara Vinnagaram. Its refrain keeps that homage alive: the Vinnagaram to which the Pallava king bowed. The verses end with a blessing for those who learn them, and so the shrine joins royal devotion to the long Vaishnava tradition of singing the Lord's abodes.",
-    "festivals": "Vaikunta Ekadashi is the most significant day here, and it carries special meaning because the standing sanctum at the top of the vimana is said to be opened on Ekadashi. The Divya Prabandham verses, including Thirumangai Alvar's decad on this Vinnagaram, are recited on festival days. Confirm dates locally.",
-    "experience": "Walk slowly around the verandah and read the sculpted panels of the Pallava reigns before entering the sanctum. Look up at the three-storey vimana and imagine the three postures of Vishnu, one above another. Visitors who also see the Kailasanatha temple in the same town will notice that this vimana rises higher than that earlier Pallava work."
+    "history": "ଆଳ୍ୱାରମାନଙ୍କୁ ତିରୁପରମେଶ୍ୱର ବିଣ୍ଣଗରମ୍ ନାମରେ ଜଣାଶୁଣା, ଏହା ତୋଣ୍ଡୈ ନାଡୁର ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍ ମଧ୍ୟରୁ ଏକ। ଏହା ଅଷ୍ଟମ ଶତାବ୍ଦୀରେ ରାଜତ୍ୱ କରିଥିବା ପଲ୍ଲବ ରାଜା ନନ୍ଦିବର୍ମନ୍ ଦ୍ୱିତୀୟ ପଲ୍ଲବମଲ୍ଲଙ୍କ ଅଧୀନରେ ନିର୍ମିତ, ଏବଂ କଳା ଇତିହାସବିତ୍‌ମାନେ ଏହାର ନିର୍ମାଣକୁ ପ୍ରାୟ ୭୭୦ ରୁ ୭୭୫ ଖ୍ରିସ୍ଟାବ୍ଦ ମଧ୍ୟରେ ସ୍ଥାପନ କରନ୍ତି; ଏହା ବାଲିପଥରରେ ନିର୍ମିତ। ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାର ଏହାକୁ ପେରିୟ ତିରୁମୋଳିର ଦଶ ପଦ୍ୟରେ ଗାଇଥିଲେ, ସମ୍ଭବତଃ ସେହି ରାଜତ୍ୱରେ। ଅନେକ ପଦ୍ୟରେ ସେହି ବିଣ୍ଣଗରମ୍ର ପଦ ଅଛି ଯାହାକୁ ପଲ୍ଲବ ରାଜା ପ୍ରଣାମ କରିଥିଲେ, ଏବଂ ଗୋଟିଏ ପଦ୍ୟ ସ୍ମରଣ କରାଏ ଯେ ରାଜା ପାଣ୍ଡ୍ୟକୁ ପରାସ୍ତ କରି ପ୍ରଭୁଙ୍କୁ ପ୍ରଣାମ କରିଥିଲେ। ଶେଷ ପଦ୍ୟ ପ୍ରତିଶ୍ରୁତି ଦିଏ ଯେ ଯେଉଁମାନେ ଦଶଟି ଶିଖନ୍ତି ସେମାନେ ରାଜା ଭାବେ ଶାସନ କରିବେ।",
+    "architecture": "ମନ୍ଦିରର ଗୌରବ ହେଉଛି ଏହାର ବିମାନ, ଯାହା ଉପରକୁ ଉପର ଗୋଟିଏ ଗୋଟିଏ ସଜ୍ଜିତ ତିନୋଟି ଗର୍ଭଗୃହ ଧାରଣ କରେ: ତଳ ସ୍ତରରେ ଉପବିଷ୍ଟ ବିଷ୍ଣୁ, ପ୍ରଥମ ମହଲାରେ ଶେଷଶାୟୀ ରୂପେ ଶୟନ, ଏବଂ ଉପରେ ଦଣ୍ଡାୟମାନ, ଯେଉଁ ଗର୍ଭଗୃହ କେବଳ ଏକାଦଶୀରେ ଖୋଲାଯାଏ ବୋଲି କୁହାଯାଏ। ବିମାନ ସେହି ନଗରର ପୂର୍ବତନ କୈଳାସନାଥ ମନ୍ଦିରର ବିମାନଠାରୁ ବଡ଼। ଏହାର ଚାରିପାଖର ଉଚ୍ଚ ବାରଣ୍ଡାରେ ଖୋଦିତ ଫଳକ ଅନେକ ପଲ୍ଲବ ରାଜତ୍ୱର କାହାଣୀ କୁହେ, ପ୍ରାଚୀରକୁ ଏକ ପ୍ରକାର ପଥରର ଇତିବୃତ୍ତ କରିଦିଏ।",
+    "legends": "ଏହି ଦେବସ୍ଥାନ ସହ ସର୍ବାଧିକ ଘନିଷ୍ଠ ସ୍ମୃତି ପବିତ୍ର ଅପେକ୍ଷା ଐତିହାସିକ ଅଧିକ। ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ସ୍ତୋତ୍ର ଏକ ପଲ୍ଲବ ରାଜାଙ୍କୁ ସ୍ମରଣ କରାଏ, ଯିଏ ପାଣ୍ଡ୍ୟକୁ ପରାସ୍ତ କରି ପରମେଶ୍ୱର ବିଣ୍ଣଗରମ୍‌ର ପ୍ରଭୁଙ୍କ ସମ୍ମୁଖରେ ପ୍ରଣାମ କଲେ। ଏହାର ପଦ ସେହି ପ୍ରଣାମକୁ ଜୀବିତ ରଖେ: ସେହି ବିଣ୍ଣଗରମ୍ ଯାହାକୁ ପଲ୍ଲବ ରାଜା ପ୍ରଣାମ କଲେ। ପଦ୍ୟଗୁଡ଼ିକ ସେଗୁଡ଼ିକୁ ଶିଖୁଥିବା ଲୋକଙ୍କ ପାଇଁ ଆଶୀର୍ବାଦରେ ସମାପ୍ତ ହୁଏ, ଏବଂ ତେଣୁ ଦେବସ୍ଥାନ ରାଜକୀୟ ଭକ୍ତିକୁ ପ୍ରଭୁଙ୍କ ବାସସ୍ଥାନ ଗାଇବାର ଦୀର୍ଘ ବୈଷ୍ଣବ ପରମ୍ପରା ସହ ଯୋଡ଼େ।",
+    "festivals": "ବୈକୁଣ୍ଠ ଏକାଦଶୀ ଏଠାରେ ସର୍ବାଧିକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଦିନ, ଏବଂ ଏହା ବିଶେଷ ଅର୍ଥ ବହନ କରେ କାରଣ ବିମାନର ଉପରେ ଥିବା ଦଣ୍ଡାୟମାନ ଗର୍ଭଗୃହ ଏକାଦଶୀରେ ଖୋଲାଯାଏ ବୋଲି କୁହାଯାଏ। ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍ ପଦ୍ୟ, ଏହି ବିଣ୍ଣଗରମ୍ ଉପରେ ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦଶକ ସହିତ, ଉତ୍ସବ ଦିନରେ ପାଠ କରାଯାଏ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଗର୍ଭଗୃହରେ ପ୍ରବେଶ ପୂର୍ବରୁ ବାରଣ୍ଡା ଚାରିପାଖେ ଧୀରେ ଚାଲନ୍ତୁ ଏବଂ ପଲ୍ଲବ ରାଜତ୍ୱର ଖୋଦିତ ଫଳକ ପଢ଼ନ୍ତୁ। ତିନି ସ୍ତରର ବିମାନକୁ ଉପରକୁ ଚାହିଁ ବିଷ୍ଣୁଙ୍କ ତିନୋଟି ଆସନ, ଗୋଟିଏ ଉପରେ ଗୋଟିଏ, କଳ୍ପନା କରନ୍ତୁ। ଯେଉଁ ଦର୍ଶକ ସେହି ନଗରର କୈଳାସନାଥ ମନ୍ଦିର ମଧ୍ୟ ଦେଖନ୍ତି, ସେମାନେ ଲକ୍ଷ୍ୟ କରିବେ ଯେ ଏହି ବିମାନ ସେହି ପୂର୍ବତନ ପଲ୍ଲବ କୃତିଠାରୁ ଅଧିକ ଉଚ୍ଚ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The temple stands in Kanchipuram town, reached by road from Chennai, about 70 km to the north-east. Kanchipuram is the nearest railhead and Chennai the nearest major airport; auto-rickshaws and local buses link the temples of the town."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଅଧିବେଶନ ସହ ଖୋଲା, ମଝିରେ ମଧ୍ୟାହ୍ନ ବନ୍ଦ; ବୈକୁଣ୍ଠ ଏକାଦଶୀ ଓ ଉତ୍ସବ ଦିନ ସବୁଠାରୁ ଭିଡ଼। ଦର୍ଶନ ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ମର୍ଯ୍ୟାଦାପୂର୍ଣ୍ଣ ପାରମ୍ପରିକ ବେଶଭୂଷା ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କିଥିବା; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲାଯାଏ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୁରୋହିତଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋଗ୍ରାଫି ସୀମିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୁରୋହିତଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ମନ୍ଦିର କାଞ୍ଚିପୁରମ୍ ନଗରରେ ଅବସ୍ଥିତ, ଉତ୍ତର-ପୂର୍ବକୁ ପ୍ରାୟ ୭୦ କି.ମି. ଦୂରରେ ଥିବା ଚେନ୍ନାଇରୁ ସଡ଼କ ପଥରେ ପହଞ୍ଚିହୁଏ। କାଞ୍ଚିପୁରମ୍ ନିକଟତମ ରେଳ ସ୍ଥାନ ଏବଂ ଚେନ୍ନାଇ ନିକଟତମ ପ୍ରମୁଖ ବିମାନବନ୍ଦର; ଅଟୋରିକ୍ସା ଓ ସ୍ଥାନୀୟ ବସ୍ ନଗରର ମନ୍ଦିରମାନଙ୍କୁ ଯୋଡ଼େ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
