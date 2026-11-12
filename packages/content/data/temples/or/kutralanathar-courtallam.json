@@ -1,32 +1,39 @@
 {
   "id": "kutralanathar-courtallam",
   "locale": "or",
+  "name": "କୁଟ୍ରାଳନାଥର ମନ୍ଦିର, କୁଟ୍ରାଳମ୍",
   "nativeName": "குற்றாலநாதர் கோயில், குற்றாலம்",
+  "deity": "କୁଟ୍ରାଳନାଥର (ତିରିକୂଟେଶ୍ୱରର) ରୂପେ ଶିବ, ଦେବୀ କୁଳଲ୍‌ୱାୟ୍‌ମୋଳିଙ୍କ ସହ",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Courtallam",
-    "state": "Tamil Nadu",
+    "city": "କୁଟ୍ରାଳମ୍",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 8.9349,
     "lng": 77.2758
   },
+  "period": "ପାଣ୍ଡ୍ୟ ଦେଶର ପ୍ରାଚୀନ ପାଡ଼ଲ୍ ପେଟ୍ର ସ୍ଥଳମ୍; ଚିତ୍ର ସଭା ଏବଂ ତାହାର ପରବର୍ତ୍ତୀ ଯୁଗର ଭିତ୍ତିଚିତ୍ର",
   "century": 7,
+  "dynasty": "ପାଣ୍ଡ୍ୟ ଓ ନାୟକ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "pancha-sabhai-sthalams",
     "temples-of-the-deep-south",
     "paadal-petra-sthalams"
   ],
+  "summary": "ପଶ୍ଚିମଘାଟର ପାଦଦେଶରେ, ନିଜର ଝରଣା ପାଇଁ ପ୍ରସିଦ୍ଧ କୁଟ୍ରାଳମ୍‌ରେ ଶିବ କୁଟ୍ରାଳନାଥର ରୂପେ ବିରାଜମାନ; ନିକଟରେ ପାଞ୍ଚ ସଭାର ଚିତ୍ରଶାଳା ଚିତ୍ର ସଭା ଉଠିଛି, ଯାହାର କାନ୍ଥ ଦେବତା ଓ କାହାଣୀର ଚିତ୍ରରେ ଆଚ୍ଛାଦିତ — ଯେଉଁ ମଣ୍ଡପରେ ଶିବଙ୍କ ନୃତ୍ୟ ଚିତ୍ରରେ ସମ୍ମାନିତ।",
   "sections": {
-    "history": "Courtallam — Kutralam in Tamil — lies in the far south of Tamil Nadu, near Tenkasi, where the Western Ghats fall away in a chain of waterfalls. Its temple to Shiva as Kutralanathar, also honoured as Thirikooteswarar of the three peaks, is a Paadal Petra Sthalam, sung by the child-saint Sambandar and the other Nayanmars, with a history reaching into Pandya antiquity and its later halls and paintings raised under the Nayaka patrons of the south. The hill town has long drawn pilgrims and seekers of health to its sacred falls, and the temple is the still centre of that older devotion.",
-    "architecture": "The temple of Kutralanathar is built in the Dravidian manner, its sanctum holding a lingam of unusual, softened form that the legends explain. Set apart, a short way from the main shrine, stands the Chitra Sabhai — the picture hall — whose interior walls and wooden ceiling are covered with mural paintings of gods, saints and sacred story. It is this painted hall that gives Courtallam its place among the five sabhas of the dancing Shiva, the others being the halls of gold, silver, copper and jewel; here the cosmic dance is honoured not in metal but in image and colour.",
-    "legends": "The name Kutralam is drawn from a legend of the sage Agastya, who came south bearing the will of Shiva. Finding a standing image of Vishnu where he wished to worship the lord, the sage is said to have embraced it, and the form shrank and yielded into a lingam of Shiva — kutral, the curtailing — so that the shrine took the name Kutralam and the lingam kept its unusual shape. As the Chitra Sabhai, the picture hall, Courtallam completes the five sabhas of Shiva's dance, its painted walls answering the golden hall of Chidambaram at the other end of the Tamil country.",
-    "festivals": "The great season at Courtallam is the saaral, the months when the south-west rains swell the falls and pilgrims come to bathe in the sacred waters before worship. The temple keeps the festivals of Shiva through the year — Aadi and the Tamil new year, the car festival through the hill town, and the Shivaratri night — and the painted Chitra Sabhai is opened for the special worship of the dancing lord.",
-    "experience": "Courtallam joins the devotion of the temple to the beauty of the Ghats: the roar of the falls, the cool of the hills, and the quiet painted hall of the dance. It sits about 5 km from Tenkasi in the deep south, within reach of Tirunelveli and the far-southern shrines, and its Chitra Sabhai closes the circle of the five sabhas that begins with the golden hall of Chidambaram."
+    "history": "କୁଟ୍ରାଳମ୍ — ତାମିଲରେ କୁଟ୍ରାଳମ୍ — ତାମିଲନାଡୁର ଦୂର ଦକ୍ଷିଣରେ, ତେନକାସୀ ନିକଟରେ ଅବସ୍ଥିତ, ଯେଉଁଠି ପଶ୍ଚିମଘାଟ ଝରଣାର ଏକ ଶୃଙ୍ଖଳାରେ ଖସିପଡ଼େ। କୁଟ୍ରାଳନାଥର ରୂପେ, ତିନି ଶିଖରର ତିରିକୂଟେଶ୍ୱରର ରୂପେ ମଧ୍ୟ ପୂଜିତ ଶିବଙ୍କ ଏହି ମନ୍ଦିର ଏକ ପାଡ଼ଲ୍ ପେଟ୍ର ସ୍ଥଳମ୍, ଯାହା ବାଳକ-ସନ୍ଥ ସମ୍ବନ୍ଦର ଏବଂ ଅନ୍ୟ ନାୟନମାରମାନଙ୍କ ଦ୍ୱାରା ଗୀତ, ଏହାର ଇତିହାସ ପାଣ୍ଡ୍ୟ ପ୍ରାଚୀନତା ପର୍ଯ୍ୟନ୍ତ ବିସ୍ତୃତ ଏବଂ ଏହାର ପରବର୍ତ୍ତୀ ମଣ୍ଡପ ଓ ଚିତ୍ର ଦକ୍ଷିଣର ନାୟକ ପୃଷ୍ଠପୋଷକଙ୍କ ଅଧୀନରେ ନିର୍ମିତ। ଏହି ପାହାଡ଼ିଆ ସହର ଦୀର୍ଘ ଦିନ ଧରି ତୀର୍ଥଯାତ୍ରୀ ଓ ସ୍ୱାସ୍ଥ୍ୟ ଅନ୍ୱେଷୀଙ୍କୁ ଏହାର ପବିତ୍ର ଝରଣାକୁ ଆକର୍ଷିତ କରିଆସିଛି, ଏବଂ ମନ୍ଦିର ସେହି ପ୍ରାଚୀନ ଭକ୍ତିର ସ୍ଥିର କେନ୍ଦ୍ର।",
+    "architecture": "କୁଟ୍ରାଳନାଥରଙ୍କ ମନ୍ଦିର ଦ୍ରାବିଡ଼ ଶୈଳୀରେ ନିର୍ମିତ, ଏହାର ଗର୍ଭଗୃହରେ ଏକ ଅସାଧାରଣ, କୋମଳ ଆକୃତିର ଲିଙ୍ଗ ଅଛି ଯାହାକୁ କିମ୍ବଦନ୍ତୀ ବ୍ୟାଖ୍ୟା କରେ। ମୁଖ୍ୟ ମନ୍ଦିରରୁ ଅଳ୍ପ ଦୂରରେ ଅଲଗା ଭାବେ ଚିତ୍ର ସଭା — ଚିତ୍ରଶାଳା — ଠିଆ ହୋଇଛି, ଯାହାର ଭିତର କାନ୍ଥ ଓ କାଠ ଛାତ ଦେବତା, ସନ୍ଥ ଓ ପବିତ୍ର କାହାଣୀର ଭିତ୍ତିଚିତ୍ରରେ ଆଚ୍ଛାଦିତ। ଏହି ଚିତ୍ରିତ ମଣ୍ଡପ ହିଁ କୁଟ୍ରାଳମ୍‌କୁ ନୃତ୍ୟରତ ଶିବଙ୍କ ପାଞ୍ଚ ସଭା ମଧ୍ୟରେ ସ୍ଥାନ ଦିଏ, ଅନ୍ୟମାନେ ସ୍ୱର୍ଣ୍ଣ, ରୌପ୍ୟ, ତାମ୍ର ଓ ରତ୍ନର ସଭା; ଏଠାରେ ବିଶ୍ୱନୃତ୍ୟ ଧାତୁରେ ନୁହେଁ, ଚିତ୍ର ଓ ରଙ୍ଗରେ ସମ୍ମାନିତ।",
+    "legends": "କୁଟ୍ରାଳମ୍ ନାମ ଋଷି ଅଗସ୍ତ୍ୟଙ୍କ ଏକ କିମ୍ବଦନ୍ତୀରୁ ଆସିଛି, ଯିଏ ଶିବଙ୍କ ଇଚ୍ଛା ବହନ କରି ଦକ୍ଷିଣକୁ ଆସିଥିଲେ। ପ୍ରଭୁଙ୍କୁ ପୂଜା କରିବାକୁ ଚାହିଁଥିବା ସ୍ଥାନରେ ବିଷ୍ଣୁଙ୍କ ଏକ ଠିଆ ମୂର୍ତ୍ତି ପାଇ ଋଷି ତାହାକୁ ଆଲିଙ୍ଗନ କଲେ ବୋଲି କୁହାଯାଏ, ଏବଂ ସେହି ରୂପ ସଙ୍କୁଚିତ ହୋଇ ଶିବଙ୍କ ଏକ ଲିଙ୍ଗରେ ବିଳୀନ ହେଲା — କୁଟ୍ରାଳ, ଅର୍ଥାତ୍ ସଙ୍କୋଚନ — ଯାହା ଫଳରେ ମନ୍ଦିର କୁଟ୍ରାଳମ୍ ନାମ ପାଇଲା ଏବଂ ଲିଙ୍ଗ ତାହାର ଅସାଧାରଣ ଆକୃତି ଧରି ରଖିଲା। ଚିତ୍ର ସଭା, ଚିତ୍ରଶାଳା ରୂପେ, କୁଟ୍ରାଳମ୍ ଶିବଙ୍କ ନୃତ୍ୟର ପାଞ୍ଚ ସଭାକୁ ପୂର୍ଣ୍ଣ କରେ, ଏହାର ଚିତ୍ରିତ କାନ୍ଥ ତାମିଲ ଦେଶର ଅନ୍ୟ ପ୍ରାନ୍ତରେ ଚିଦମ୍ବରମ୍‌ର ସ୍ୱର୍ଣ୍ଣ ସଭାକୁ ଉତ୍ତର ଦିଏ।",
+    "festivals": "କୁଟ୍ରାଳମ୍‌ର ମହାନ ଋତୁ ହେଉଛି ସାରଲ୍, ଯେଉଁ ମାସଗୁଡ଼ିକରେ ଦକ୍ଷିଣ-ପଶ୍ଚିମ ବର୍ଷା ଝରଣାକୁ ଫୁଲାଇ ଦିଏ ଏବଂ ତୀର୍ଥଯାତ୍ରୀ ପୂଜା ପୂର୍ବରୁ ପବିତ୍ର ଜଳରେ ସ୍ନାନ କରିବାକୁ ଆସନ୍ତି। ମନ୍ଦିର ବର୍ଷସାରା ଶିବଙ୍କ ପର୍ବ ପାଳନ କରେ — ଆଡ଼ି ଓ ତାମିଲ ନୂତନ ବର୍ଷ, ପାହାଡ଼ିଆ ସହର ଦେଇ ରଥ ଉତ୍ସବ, ଏବଂ ଶିବରାତ୍ରି ରାତି — ଆଉ ଚିତ୍ରିତ ଚିତ୍ର ସଭା ନୃତ୍ୟରତ ପ୍ରଭୁଙ୍କ ବିଶେଷ ପୂଜା ପାଇଁ ଖୋଲାଯାଏ।",
+    "experience": "କୁଟ୍ରାଳମ୍ ମନ୍ଦିରର ଭକ୍ତିକୁ ଘାଟର ସୌନ୍ଦର୍ଯ୍ୟ ସହ ମିଶାଏ: ଝରଣାର ଗର୍ଜନ, ପାହାଡ଼ର ଶୀତଳତା, ଏବଂ ନୃତ୍ୟର ଶାନ୍ତ ଚିତ୍ରିତ ମଣ୍ଡପ। ଏହା ଦକ୍ଷିଣ ଗଭୀରରେ ତେନକାସୀରୁ ପ୍ରାୟ ୫ କିମି ଦୂରରେ, ତିରୁନେଲ୍ଭେଲି ଓ ଦୂର-ଦକ୍ଷିଣର ମନ୍ଦିରଗୁଡ଼ିକର ପହଞ୍ଚ ମଧ୍ୟରେ ଅବସ୍ଥିତ, ଏବଂ ଏହାର ଚିତ୍ର ସଭା ଚିଦମ୍ବରମ୍‌ର ସ୍ୱର୍ଣ୍ଣ ସଭାରୁ ଆରମ୍ଭ ହେଉଥିବା ପାଞ୍ଚ ସଭାର ବୃତ୍ତକୁ ସମାପ୍ତ କରେ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the falls season (roughly the south-west monsoon months) and festival days are busiest. The Chitra Sabhai keeps its own worship hours. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Men are traditionally asked to remove the upper garment before the sanctum, as at many southern shrines; follow the posted rules.",
-    "photography": "Photography is restricted in and around the sanctum, and the murals of the Chitra Sabhai are protected; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Courtallam lies in Tenkasi district at the foot of the Western Ghats, about 5 km from Tenkasi and roughly 60 km from Tirunelveli, well connected by road; Tenkasi is the nearest major rail head."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଅଧିବେଶନ ଏବଂ ମଧ୍ୟାହ୍ନ ବନ୍ଦ ସହ ଖୋଲା; ଝରଣା ଋତୁ (ପ୍ରାୟ ଦକ୍ଷିଣ-ପଶ୍ଚିମ ମୌସୁମୀ ମାସ) ଓ ପର୍ବଦିନ ସବୁଠାରୁ ଭିଡ଼ ହୁଏ। ଚିତ୍ର ସଭାର ନିଜସ୍ୱ ପୂଜା ସମୟ ଅଛି। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କିବା; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବା। ଅନେକ ଦକ୍ଷିଣୀ ମନ୍ଦିର ପରି ପୁରୁଷମାନଙ୍କୁ ପରମ୍ପରାଗତ ଭାବେ ଗର୍ଭଗୃହ ସମ୍ମୁଖରେ ଉପର ବସ୍ତ୍ର ଖୋଲିବାକୁ କୁହାଯାଏ; ଲଗାଯାଇଥିବା ନିୟମ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋଗ୍ରାଫି ନିଷିଦ୍ଧ, ଏବଂ ଚିତ୍ର ସଭାର ଭିତ୍ତିଚିତ୍ର ସୁରକ୍ଷିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "କୁଟ୍ରାଳମ୍ ତେନକାସୀ ଜିଲ୍ଲାରେ ପଶ୍ଚିମଘାଟର ପାଦଦେଶରେ, ତେନକାସୀରୁ ପ୍ରାୟ ୫ କିମି ଏବଂ ତିରୁନେଲ୍ଭେଲିରୁ ପ୍ରାୟ ୬୦ କିମି ଦୂରରେ ଅବସ୍ଥିତ, ସଡ଼କ ଦ୍ୱାରା ଭଲ ଭାବେ ସଂଯୁକ୍ତ; ତେନକାସୀ ନିକଟତମ ପ୍ରମୁଖ ରେଳ ଷ୍ଟେସନ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kutralanathar-courtallam.jpg",

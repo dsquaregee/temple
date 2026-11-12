@@ -1,30 +1,37 @@
 {
   "id": "sathyagirinatha-thirumeyyam",
   "locale": "or",
+  "name": "ସତ୍ୟମୂର୍ତ୍ତି ପେରୁମାଳ ମନ୍ଦିର, ତିରୁମୟମ୍",
   "nativeName": "சத்தியமூர்த்தி பெருமாள் கோயில், திருமெய்யம்",
+  "deity": "ବିଷ୍ଣୁ ସତ୍ୟମୂର୍ତ୍ତି ପେରୁମାଳ (ସତ୍ୟଗିରି ନାଥନ) ରୂପରେ, ଦେବୀ ଉୟ୍ୟବନ୍ଦ ନାଚ୍ଚିୟାର ସହିତ — ଏବଂ ଶିଳାଖୋଦିତ ଗୁମ୍ଫାରେ ଆଦିଶେଷ ସର୍ପ ଉପରେ ଶୟନରତ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Thirumayam",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁମୟମ୍",
+    "state": "ତାମିଲନାଡ଼ୁ",
     "lat": 10.247,
     "lng": 78.752
   },
+  "period": "ପାଣ୍ଡ୍ୟ ଦେଶର ଏକ ଦିବ୍ୟଦେଶମ୍, ନାଲାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ",
   "century": 8,
+  "dynasty": "ମୁତ୍ତରୈୟର ଗୁମ୍ଫା ଗର୍ଭଗୃହ, ପରବର୍ତ୍ତୀ ପାଣ୍ଡ୍ୟ ମଣ୍ଡପ ସହିତ",
+  "style": "ଦ୍ରାବିଡ଼ ମଣ୍ଡପ ସହିତ ଶିଳାଖୋଦିତ ଗୁମ୍ଫା ଗର୍ଭଗୃହ",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "ତିରୁମୟମ୍ ଦୁର୍ଗ ପାହାଡ଼ ତଳେ, ବିଷ୍ଣୁ ସତ୍ୟମୂର୍ତ୍ତି ପେରୁମାଳ ରୂପରେ ନିଜ ମନ୍ଦିର ପାଖରେ ଏକ ଶିଳାଖୋଦିତ ଗୁମ୍ଫାରେ ଆଦିଶେଷ ଉପରେ ଶୟନ କରନ୍ତି — ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ ପାଣ୍ଡ୍ୟ ଦେଶର ଏକ ଦିବ୍ୟଦେଶମ୍।",
   "sections": {
-    "history": "Thirumayam, the Thiru-Meyyam or \"sacred hill of truth\" of the Alvars, rises in the Pudukkottai country, and its Vishnu shrine is cut into the southern face of the hill. It is one of the 108 Divya Desams, counted among the abodes of Pandya Nadu, and was sung by Thirumangai Alvar in the Nalayira Divya Prabandham. Scholars place the cave temple in the closing decades of the seventh century and associate it with the Muttaraiyar chiefs: an inscription records its renovation and an endowment by Perumbidugu Perundevi, mother of a Muttaraiyar vassal of the Pallava king Nandivarman II. Pillared halls were added before the cave, mostly in the later Pandya period, and the hill above carries the walls of Thirumayam Fort.",
-    "architecture": "The heart of the temple is a rock-cut cave on the south side of Satyagiri hill. Its great relief shows Vishnu reclining on the coiled serpent Adisesha, carved in the living rock and some fifteen feet long with the Goddess at his chest. Sathyamurthi Perumal is enshrined beneath a single-storeyed Dravidian vimana, and the Goddess Uyyavandha Nachiyar has her separate sannidhi. Later Pandya mandapas lead in to the cave. A Shiva cave of the Pandya period lies beside it on the same hill.",
-    "legends": "The sthala purana tells that the sage Satya performed penance at this hill, and that Vishnu, pleased, revealed himself here as the embodiment of truth — Sathyamurthi, Lord of Satyagiri. Tradition holds that for the sage the Lord turned the river into the temple tank, the rock into the sacred Meyyam hill and a banyan into the holy fig, so that the whole place became his abode. The name Thirumayam itself is remembered as a softening of Thiru-Meyyam, the hill of truth.",
-    "festivals": "The temple keeps the great Vaishnava calendar — Vaikunta Ekadashi, the processions of Sathyamurthi Perumal and the Goddess on their festival vehicles, and the days of the Alvars, Thirumangai Alvar above all. Festival dates follow the Tamil calendar; confirm them locally.",
-    "experience": "A rare Divya Desam where the pilgrim stands before the living rock: the reclining Lord in the cave and Sathyamurthi Perumal in his shrine are worshipped within a few steps of each other. Many combine the visit with the Shiva cave beside it and a climb to the fort ramparts above."
+    "history": "ତିରୁମୟମ୍, ଆଳ୍ୱାରମାନଙ୍କର ତିରୁ-ମେୟ୍ୟମ୍ ବା \"ସତ୍ୟର ପବିତ୍ର ପାହାଡ଼\", ପୁଦୁକ୍କୋଟ୍ଟୈ ଅଞ୍ଚଳରେ ଉଠିଛି, ଏବଂ ଏହାର ବିଷ୍ଣୁ ମନ୍ଦିର ପାହାଡ଼ର ଦକ୍ଷିଣ ମୁଖରେ କାଟାଯାଇଛି। ଏହା ୧୦୮ ଦିବ୍ୟଦେଶମ୍‌ର ଅନ୍ୟତମ, ପାଣ୍ଡ୍ୟ ନାଡୁର ଧାମମାନଙ୍କ ମଧ୍ୟରେ ଗଣିତ, ଏବଂ ନାଲାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ଗୀତ। ପଣ୍ଡିତମାନେ ଗୁମ୍ଫା ମନ୍ଦିରକୁ ସପ୍ତମ ଶତାବ୍ଦୀର ଶେଷ ଦଶକମାନଙ୍କରେ ସ୍ଥାପିତ କରନ୍ତି ଏବଂ ଏହାକୁ ମୁତ୍ତରୈୟର ମୁଖିଆମାନଙ୍କ ସହ ଯୋଡ଼ନ୍ତି: ଏକ ଶିଳାଲେଖ ଏହାର ସଂସ୍କାର ଓ ପଲ୍ଲବ ରାଜା ଦ୍ୱିତୀୟ ନନ୍ଦିବର୍ମନଙ୍କ ଅଧୀନସ୍ଥ ମୁତ୍ତରୈୟର ସାମନ୍ତଙ୍କ ମାତା ପେରୁମ୍ବିଡୁଗୁ ପେରୁନ୍ଦେବୀଙ୍କ ଏକ ଦାନ ଲିପିବଦ୍ଧ କରେ। ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ ଗୁମ୍ଫା ସମ୍ମୁଖରେ, ପ୍ରାୟତଃ ପରବର୍ତ୍ତୀ ପାଣ୍ଡ୍ୟ ଯୁଗରେ ଯୋଡ଼ାଯାଇଥିଲା, ଏବଂ ଉପରର ପାହାଡ଼ ତିରୁମୟମ୍ ଦୁର୍ଗର ପ୍ରାଚୀର ବହନ କରେ।",
+    "architecture": "ମନ୍ଦିରର ହୃଦୟ ସତ୍ୟଗିରି ପାହାଡ଼ର ଦକ୍ଷିଣ ପାର୍ଶ୍ୱର ଏକ ଶିଳାଖୋଦିତ ଗୁମ୍ଫା। ଏହାର ମହାନ ଉତ୍କୀର୍ଣ୍ଣ ମୂର୍ତ୍ତିରେ ବିଷ୍ଣୁ କୁଣ୍ଡଳିତ ସର୍ପ ଆଦିଶେଷ ଉପରେ ଶୟନରତ, ଜୀବନ୍ତ ପଥରରେ ଖୋଦିତ ଏବଂ ପ୍ରାୟ ପନ୍ଦର ଫୁଟ ଲମ୍ବ, ବକ୍ଷରେ ଦେବୀଙ୍କ ସହିତ। ସତ୍ୟମୂର୍ତ୍ତି ପେରୁମାଳ ଏକ ଏକ-ତଳ ଦ୍ରାବିଡ଼ ବିମାନ ତଳେ ପ୍ରତିଷ୍ଠିତ, ଏବଂ ଦେବୀ ଉୟ୍ୟବନ୍ଦ ନାଚ୍ଚିୟାରଙ୍କର ଅଲଗା ସନ୍ନିଧି ଅଛି। ପରବର୍ତ୍ତୀ ପାଣ୍ଡ୍ୟ ମଣ୍ଡପ ଗୁମ୍ଫା ଭିତରକୁ ନିଏ। ପାଣ୍ଡ୍ୟ ଯୁଗର ଏକ ଶିବ ଗୁମ୍ଫା ସେହି ପାହାଡ଼ରେ ପାଖରେ ଅଛି।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ କହେ ଯେ ସତ୍ୟ ଋଷି ଏହି ପାହାଡ଼ରେ ତପସ୍ୟା କରିଥିଲେ, ଏବଂ ବିଷ୍ଣୁ ସନ୍ତୁଷ୍ଟ ହୋଇ ଏଠାରେ ସତ୍ୟର ମୂର୍ତ୍ତି — ସତ୍ୟମୂର୍ତ୍ତି, ସତ୍ୟଗିରିର ପ୍ରଭୁ — ରୂପେ ନିଜକୁ ପ୍ରକଟ କଲେ। ପରମ୍ପରା ଅନୁସାରେ ଋଷିଙ୍କ ପାଇଁ ପ୍ରଭୁ ନଦୀକୁ ମନ୍ଦିର ପୁଷ୍କରିଣୀ, ପଥରକୁ ପବିତ୍ର ମେୟ୍ୟମ୍ ପାହାଡ଼ ଏବଂ ବଟବୃକ୍ଷକୁ ପବିତ୍ର ଅଶ୍ୱତ୍ଥ କରିଦେଲେ, ଯାହାଦ୍ୱାରା ସମଗ୍ର ସ୍ଥାନ ତାଙ୍କର ଧାମ ହେଲା। ତିରୁମୟମ୍ ନାମ ନିଜେ ତିରୁ-ମେୟ୍ୟମ୍, ସତ୍ୟର ପାହାଡ଼ର ଏକ ସରଳୀକୃତ ରୂପ ବୋଲି ସ୍ମରଣ କରାଯାଏ।",
+    "festivals": "ମନ୍ଦିର ମହାନ ବୈଷ୍ଣବ ପଞ୍ଜିକା ପାଳନ କରେ — ବୈକୁଣ୍ଠ ଏକାଦଶୀ, ସତ୍ୟମୂର୍ତ୍ତି ପେରୁମାଳ ଓ ଦେବୀଙ୍କ ଉତ୍ସବ ବାହନରେ ଶୋଭାଯାତ୍ରା, ଏବଂ ଆଳ୍ୱାରମାନଙ୍କ ଦିନ, ସର୍ବୋପରି ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କର। ଉତ୍ସବ ତାରିଖ ତାମିଲ ପଞ୍ଜିକା ଅନୁସରଣ କରେ; ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଏକ ବିରଳ ଦିବ୍ୟଦେଶମ୍ ଯେଉଁଠି ତୀର୍ଥଯାତ୍ରୀ ଜୀବନ୍ତ ଶିଳା ସମ୍ମୁଖରେ ଛିଡ଼ା ହୁଅନ୍ତି: ଗୁମ୍ଫାରେ ଶୟନରତ ପ୍ରଭୁ ଏବଂ ନିଜ ମନ୍ଦିରରେ ସତ୍ୟମୂର୍ତ୍ତି ପେରୁମାଳ ଅଳ୍ପ ପାଦ ଦୂରତ୍ୱ ମଧ୍ୟରେ ପୂଜିତ। ଅନେକେ ଏହି ଦର୍ଶନକୁ ପାଖର ଶିବ ଗୁମ୍ଫା ଏବଂ ଉପରର ଦୁର୍ଗ ପ୍ରାଚୀର ପର୍ଯ୍ୟନ୍ତ ଚଢ଼ାଇ ସହିତ ମିଶାନ୍ତି।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; Vaikunta Ekadashi and festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirumayam lies on the Pudukkottai–Karaikudi road, about 20 km south of Pudukkottai, and has a railway station on the Tiruchirappalli–Karaikudi line; the nearest airport is Tiruchirappalli. The temple sits at the foot of the fort hill, a short walk from the town."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଅଧିବେଶନ ସହିତ ଖୋଲା ରହେ, ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ ଥାଏ; ବୈକୁଣ୍ଠ ଏକାଦଶୀ ଓ ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସବୁଠାରୁ ଅଧିକ ଭିଡ଼ ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି ରହିବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲନ୍ତୁ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଓ ତାହାର ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ସୀମିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ତିରୁମୟମ୍ ପୁଦୁକ୍କୋଟ୍ଟୈ–କାରାଇକୁଡ଼ି ସଡ଼କରେ, ପୁଦୁକ୍କୋଟ୍ଟୈର ପ୍ରାୟ ୨୦ କିମି ଦକ୍ଷିଣରେ ଅବସ୍ଥିତ, ଏବଂ ତିରୁଚିରାପଲ୍ଲୀ–କାରାଇକୁଡ଼ି ରେଳ ଲାଇନରେ ଏକ ରେଳ ଷ୍ଟେସନ ଅଛି; ନିକଟତମ ବିମାନବନ୍ଦର ତିରୁଚିରାପଲ୍ଲୀ। ମନ୍ଦିର ଦୁର୍ଗ ପାହାଡ଼ର ପାଦଦେଶରେ, ସହରରୁ ଅଳ୍ପ ଚାଲିବା ଦୂରତାରେ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",

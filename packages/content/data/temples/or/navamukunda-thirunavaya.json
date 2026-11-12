@@ -1,30 +1,37 @@
 {
   "id": "navamukunda-thirunavaya",
   "locale": "or",
+  "name": "ନବମୁକୁନ୍ଦ ପେରୁମାଳ ମନ୍ଦିର, ତିରୁନାବାୟା",
   "nativeName": "നവമുകുന്ദ പെരുമാൾ ക്ഷേത്രം, തിരുനാവായ",
+  "deity": "ନବମୁକୁନ୍ଦ ରୂପେ ବିଷ୍ଣୁ, ଦେବୀ ମଲର୍‌ମଙ୍ଗୈ ନାଚ୍ଚିୟାର ଙ୍କ ସହ, ଯାହାଙ୍କର ନିଜସ୍ୱ ପୃଥକ ମନ୍ଦିର ଅଛି",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Thirunavaya",
-    "state": "Kerala",
+    "city": "ତିରୁନାବାୟା",
+    "state": "କେରଳ",
     "lat": 10.864,
     "lng": 75.982
   },
+  "period": "ଭାରତପୁଝା ତଟରେ ଥିବା ମଳୟ ନାଡୁ (କେରଳ)ର ଏକ ଦିବ୍ୟ ଦେଶମ୍; ନାଲାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ନମ୍ମାଳ୍‌ବାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍‌ବାରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ",
   "century": 8,
+  "dynasty": "ପ୍ରାଚୀନ ମଳୟ ନାଡୁ ମନ୍ଦିର; ଜାମୋରିନ ଯୁଗର ମାମାଙ୍କମ୍ ସହ ଜଡ଼ିତ",
+  "style": "କେରଳ ମନ୍ଦିର ଶୈଳୀ",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "ତିରୁନାବାୟାରେ ଭାରତପୁଝାର ଉତ୍ତର ତଟରେ ବିଷ୍ଣୁ ନବମୁକୁନ୍ଦ ରୂପେ ପୂଜିତ — ନମ୍ମାଳ୍‌ବାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍‌ବାରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ ମଳୟ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ଯାହା ନଦୀ କୂଳର ମହା ଉତ୍ସବ ମାମାଙ୍କମ୍ ସହ ଜଡ଼ିତ।",
   "sections": {
-    "history": "Thirunavaya, in Malappuram district, lies on the north bank of the Bharathapuzha, and its temple is the Divya Desam called Thirunavai in the Alvar hymns. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvar saints in the Nalayira Divya Prabandham, and belongs to Malai Nadu, the Kerala country. Nammalvar is counted among its singers, and one source adds Thirumangai Alvar. The presiding Lord is Navamukunda, and the Goddess Malarmangai Nachiyar has a separate sreekovil of her own, an arrangement uncommon among the Vishnu temples of Kerala. The riverbank by the temple was the ground of the Mamankam, a medieval festival held every twelve years that carried great political significance in the days of the Zamorins.",
-    "architecture": "The temple stands by the north bank of the Bharathapuzha, and the river is central to its setting; the sanctum of Navamukunda looks out over a precinct that opens to the water’s edge. A distinguishing feature is the separate sreekovil for the Goddess Malarmangai Nachiyar, rare among the Kerala Vishnu temples, where the consort more often shares the Lord’s sanctum. The names of its vimana and tank are not firmly recorded, so none is given here.",
-    "legends": "The memory of the Mamankam hangs over the place. This great festival of the Bharathapuzha was held every twelve years on the river bank beside the temple, gathering merchants, rulers and pilgrims in the medieval centuries, and is remembered in the Zamorin era as an event of high political importance. Devotionally, the shrine’s legend is its Alvar tradition: the praise of Nammalvar and Thirumangai Alvar that makes it a Divya Desam, sung of the Lord Navamukunda on the banks of the river.",
-    "festivals": "Beyond the memory of the Mamankam, Thirunavaya is best known for Karkidaka Vavu, the new-moon day of the month of Karkidakam, when devotees perform bali tarpanam, ancestral rites, on the river bank; pilgrims come from across northern Kerala. Vaikunta Ekadashi is also observed as at other Vaishnava shrines. Dates follow the calendar of the month and the temple, so confirm locally.",
-    "experience": "Come for the quiet of the Bharathapuzha bank and for the pairing of two shrines, the Lord Navamukunda and the Goddess in her own sreekovil, which is rare in Kerala. Take time to walk to the river and to recall the Mamankam on its ground. Those who offer ancestral rites on Karkidaka Vavu should expect large crowds and follow the guidance of the priests."
+    "history": "ମଲପ୍ପୁରମ୍ ଜିଲ୍ଲାର ତିରୁନାବାୟା ଭାରତପୁଝାର ଉତ୍ତର ତଟରେ ଅବସ୍ଥିତ, ଏବଂ ଏହାର ମନ୍ଦିର ଆଳ୍‌ବାର ପଦାବଳୀରେ ତିରୁନାବାଇ ନାମରେ ଉଲ୍ଲିଖିତ ଦିବ୍ୟ ଦେଶମ୍। ଏହା ନାଲାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ଆଳ୍‌ବାର ସନ୍ଥମାନେ ଗାଇଥିବା ବିଷ୍ଣୁଙ୍କ ୧୦୮ ଧାମ ମଧ୍ୟରୁ ଏକ ଏବଂ କେରଳ ଦେଶ ମଳୟ ନାଡୁର ଅନ୍ତର୍ଗତ। ନମ୍ମାଳ୍‌ବାର ଏହାର ଗାୟକମାନଙ୍କ ମଧ୍ୟରେ ଗଣାଯାଆନ୍ତି, ଏବଂ ଗୋଟିଏ ସୂତ୍ର ତିରୁମଙ୍ଗୈ ଆଳ୍‌ବାରଙ୍କୁ ମଧ୍ୟ ଯୋଡ଼େ। ମୂଳ ପ୍ରଭୁ ନବମୁକୁନ୍ଦ, ଏବଂ ଦେବୀ ମଲର୍‌ମଙ୍ଗୈ ନାଚ୍ଚିୟାରଙ୍କର ନିଜସ୍ୱ ପୃଥକ ଶ୍ରୀକୋଵିଲ ଅଛି, ଯାହା କେରଳର ବିଷ୍ଣୁ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ ବିରଳ ବ୍ୟବସ୍ଥା। ମନ୍ଦିର ପାଖର ନଦୀ ତଟ ମାମାଙ୍କମ୍‌ର ପ୍ରାଙ୍ଗଣ ଥିଲା — ପ୍ରତି ବାର ବର୍ଷରେ ଅନୁଷ୍ଠିତ ଏକ ମଧ୍ୟଯୁଗୀୟ ଉତ୍ସବ, ଯାହା ଜାମୋରିନମାନଙ୍କ ସମୟରେ ମହତ୍ତ୍ୱପୂର୍ଣ୍ଣ ରାଜନୈତିକ ଗୁରୁତ୍ୱ ବହନ କରୁଥିଲା।",
+    "architecture": "ମନ୍ଦିର ଭାରତପୁଝାର ଉତ୍ତର ତଟ ପାଖରେ ଅବସ୍ଥିତ ଏବଂ ନଦୀ ଏହାର ପରିବେଶର କେନ୍ଦ୍ର; ନବମୁକୁନ୍ଦଙ୍କ ଗର୍ଭଗୃହ ଏକ ପ୍ରାଙ୍ଗଣକୁ ଚାହିଁଥାଏ, ଯାହା ଜଳର କୂଳ ପର୍ଯ୍ୟନ୍ତ ଖୋଲା। ଏକ ବିଶେଷ ବୈଶିଷ୍ଟ୍ୟ ହେଉଛି ଦେବୀ ମଲର୍‌ମଙ୍ଗୈ ନାଚ୍ଚିୟାରଙ୍କ ପାଇଁ ପୃଥକ ଶ୍ରୀକୋଵିଲ, ଯାହା କେରଳର ବିଷ୍ଣୁ ମନ୍ଦିରମାନଙ୍କରେ ବିରଳ, ଯେଉଁଠାରେ ପତ୍ନୀ ପ୍ରାୟତଃ ପ୍ରଭୁଙ୍କ ଗର୍ଭଗୃହରେ ହିଁ ବିରାଜମାନ। ଏହାର ବିମାନ ଓ ପୁଷ୍କରିଣୀର ନାମ ଦୃଢ଼ ଭାବେ ଲିପିବଦ୍ଧ ନାହିଁ, ତେଣୁ ଏଠାରେ କୌଣସିଟି ଦିଆଯାଇନାହିଁ।",
+    "legends": "ମାମାଙ୍କମ୍‌ର ସ୍ମୃତି ଏହି ସ୍ଥାନ ଉପରେ ଛାଇ ପରି ରହିଛି। ଭାରତପୁଝାର ଏହି ମହା ଉତ୍ସବ ମନ୍ଦିର ପାଖ ନଦୀ ତଟରେ ପ୍ରତି ବାର ବର୍ଷରେ ଅନୁଷ୍ଠିତ ହେଉଥିଲା, ମଧ୍ୟଯୁଗୀୟ ଶତାବ୍ଦୀରେ ବଣିକ, ଶାସକ ଓ ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ଏକତ୍ର କରୁଥିଲା, ଏବଂ ଜାମୋରିନ ଯୁଗରେ ଉଚ୍ଚ ରାଜନୈତିକ ଗୁରୁତ୍ୱର ଘଟଣା ଭାବେ ସ୍ମରଣ କରାଯାଏ। ଭକ୍ତିମୂଳକ ଭାବେ, ଏହି ପୀଠର କିମ୍ବଦନ୍ତୀ ହେଉଛି ଏହାର ଆଳ୍‌ବାର ପରମ୍ପରା: ନମ୍ମାଳ୍‌ବାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍‌ବାରଙ୍କ ସ୍ତୁତି, ଯାହା ଏହାକୁ ଦିବ୍ୟ ଦେଶମ୍ କରିଛି, ନଦୀ ତଟରେ ବିରାଜମାନ ପ୍ରଭୁ ନବମୁକୁନ୍ଦଙ୍କ ବିଷୟରେ ଗାନ କରାଯାଇଛି।",
+    "festivals": "ମାମାଙ୍କମ୍ ସ୍ମୃତି ବ୍ୟତୀତ, ତିରୁନାବାୟା ସର୍ବାଧିକ ପରିଚିତ କର୍କିଡକ ବାବୁ ପାଇଁ — କର୍କିଡକମ୍ ମାସର ଅମାବାସ୍ୟା ଦିନ, ଯେତେବେଳେ ଭକ୍ତମାନେ ନଦୀ ତଟରେ ବଳି ତର୍ପଣମ୍, ଅର୍ଥାତ୍ ପିତୃକ୍ରିୟା କରନ୍ତି; ଉତ୍ତର କେରଳର ସର୍ବତ୍ରରୁ ତୀର୍ଥଯାତ୍ରୀ ଆସନ୍ତି। ଅନ୍ୟ ବୈଷ୍ଣବ ମନ୍ଦିର ଭଳି ବୈକୁଣ୍ଠ ଏକାଦଶୀ ମଧ୍ୟ ପାଳିତ ହୁଏ। ତାରିଖ ମାସ ଓ ମନ୍ଦିରର ପଞ୍ଜିକା ଅନୁସାରେ, ତେଣୁ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଭାରତପୁଝା ତଟର ଶାନ୍ତି ପାଇଁ ଏବଂ ଦୁଇଟି ପୀଠର ମିଳନ ପାଇଁ ଆସନ୍ତୁ — ପ୍ରଭୁ ନବମୁକୁନ୍ଦ ଓ ନିଜ ଶ୍ରୀକୋଵିଲରେ ଦେବୀ, ଯାହା କେରଳରେ ବିରଳ। ନଦୀ ପର୍ଯ୍ୟନ୍ତ ଚାଲିବାକୁ ଏବଂ ତା’ ମାଟିରେ ମାମାଙ୍କମ୍ ସ୍ମରଣ କରିବାକୁ ସମୟ ଦିଅନ୍ତୁ। କର୍କିଡକ ବାବୁରେ ପିତୃକ୍ରିୟା କରିବାକୁ ଚାହୁଁଥିବା ବ୍ୟକ୍ତିମାନେ ବିରାଟ ଭିଡ଼ ଆଶା କରନ୍ତୁ ଏବଂ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions, usually with a midday closure; festival days are busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Thirunavaya is in Malappuram district on the north bank of the Bharathapuzha. It has its own railway station on the Shoranur–Kozhikode line, and Tirur and Kuttippuram are nearby towns with road links; autorickshaws and taxis serve the short distances. The nearest airport is Kozhikode. Expect heavy crowds on Karkidaka Vavu."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ପାଇଁ ଖୋଲା, ସାଧାରଣତଃ ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ; ଉତ୍ସବ ଦିନ ସବୁଠାରୁ ଅଧିକ ଭିଡ଼। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସଭ୍ୟ ପାରମ୍ପରିକ ପୋଷାକ ଆବଶ୍ୟକ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କିବା ଦରକାର; ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲିଦିଅନ୍ତୁ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଓ ତା’ର ଆଖପାଖରେ ଫଟୋ ଉଠାଇବା ସୀମିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ତିରୁନାବାୟା ମଲପ୍ପୁରମ୍ ଜିଲ୍ଲାରେ ଭାରତପୁଝାର ଉତ୍ତର ତଟରେ ଅବସ୍ଥିତ। ଶୋରନୂର–କୋଝିକୋଡ଼ ରେଳ ଲାଇନରେ ଏହାର ନିଜସ୍ୱ ରେଳ ଷ୍ଟେସନ ଅଛି, ଏବଂ ତିରୁର ଓ କୁଟ୍ଟିପ୍ପୁରମ୍ ନିକଟସ୍ଥ ସହର ଯେଉଁଠାରୁ ସଡ଼କ ସଂଯୋଗ ଅଛି; ଅଟୋରିକ୍ସା ଓ ଟ୍ୟାକ୍ସି ଛୋଟ ଦୂରତା ପାଇଁ ଉପଲବ୍ଧ। ନିକଟତମ ବିମାନବନ୍ଦର କୋଝିକୋଡ଼। କର୍କିଡକ ବାବୁ ଦିନ ବିପୁଳ ଭିଡ଼ ଆଶା କରନ୍ତୁ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/navamukunda-thirunavaya.jpg",

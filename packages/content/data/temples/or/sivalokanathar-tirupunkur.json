@@ -1,30 +1,37 @@
 {
   "id": "sivalokanathar-tirupunkur",
   "locale": "or",
+  "name": "ଶିବଲୋକନାଥର ମନ୍ଦିର, ତିରୁପୁଙ୍କୂର",
   "nativeName": "சிவலோகநாதர் கோயில்",
+  "deity": "ଶିବ ଶିବଲୋକନାଥର ରୂପେ, ଦେବୀ ସୋକ୍କନାୟକୀ (ସୌନ୍ଦରନାୟକୀ) ଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ ଧର୍ମ",
   "location": {
-    "city": "Tirupunkur",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁପୁଙ୍କୂର",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 11.1883,
     "lng": 79.6761
   },
+  "period": "କାବେରୀ ବଦ୍ୱୀପର ପ୍ରାଚୀନ ଶୈବ ଦେବାଳୟ, ସମ୍ବନ୍ଦର, ଅପ୍ପର ଓ ସୁନ୍ଦରରଙ୍କ ଦ୍ୱାରା ତେବାରମ୍‌ରେ ଗୀତ (୭ମ ଶତାବ୍ଦୀ); ବର୍ତ୍ତମାନର ସଂରଚନା ପରବର୍ତ୍ତୀ, ଚୋଳ ଯୁଗର ସଂସ୍କାର ଉଲ୍ଲିଖିତ",
   "century": 7,
+  "dynasty": "ଚୋଳ ଦେଶର ମଧ୍ୟଯୁଗୀୟ ପୃଷ୍ଠପୋଷକ (ଚୋଳ ଯୁଗର ସଂସ୍କାର ଉଲ୍ଲିଖିତ, ଦୃଢ଼ ଭାବେ ପ୍ରମାଣିତ ନୁହେଁ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ଶିବଲୋକନାଥର ସେହି ମନ୍ଦିର, ଯେଉଁଠି ପରମ୍ପରା କହେ ଯେ ବିନମ୍ର ଭକ୍ତ ନନ୍ଦନାର ପ୍ରଭୁଙ୍କୁ ଦେଖିପାରିବେ ବୋଲି ମହାନ୍ ପଥର ନନ୍ଦୀ ଏକ ପାଖକୁ ଘୁଞ୍ଚିଗଲେ; ତିନି ତେବାରମ୍ ସନ୍ଥଙ୍କ ଦ୍ୱାରା ଗୀତ ଏହି ମନ୍ଦିର ବୈଦ୍ୟନାଥ କୋଇଲ ନିକଟରେ କ୍ଷେତ ମଧ୍ୟରେ ଛିଡ଼ା ହୋଇଛି।",
   "sections": {
-    "history": "Tirupunkur lies among green paddy fields in Mayiladuthurai district, a few kilometres west of Vaitheeswaran Koil. All three great saints of the Tevaram, Sambandar, Appar and Sundarar, sang hymns here, which gives it a place of particular honour among the Paadal Petra Sthalams on the northern bank of the Kaveri. Its Lord is Sivalokanathar, the Lord of the world of Shiva, believed to have risen of himself from an anthill. A local tradition recalls that Sundarar, visiting in a season of drought, helped a king pray for rain; the rain came so abundantly that the saint was asked to hold it back, and a grant of twenty-four veli of land was then made to the temple. Renovation in the Chola age is reported, though the dates are not firmly known.",
-    "architecture": "A five-tiered rajagopuram marks the entrance, and the temple opens into a series of quiet enclosures. The Lord is a swayambhu linga, and the goddess Sokkanayaki is honoured in her own shrine on the left side of the temple, with a circumambulatory path of her own. Both the great outer Nandi and the small Nandi in the inner prakaram sit out of line with the sanctum, and the sacred bull is said to be shown with its tongue held within its mouth, unlike the Nandi of most Shiva temples. Within the precincts are shrines to Vinayaka, Subramanya and Surya and a rare panchamukha linga, and the temple tank, the Rishabha Theertham, lies close by.",
-    "legends": "The great story of Tirupunkur is that of Nandanar, one of the sixty-three Nayanmar saints. Born to humble labouring people and barred by the custom of his age from entering a temple, he loved Shiva with a burning devotion and longed to worship at Tirupunkur. Standing at the outer gate, he could see only the broad back of the stone Nandi that sat directly before the sanctum, hiding the Lord from his sight. In his sorrow he sang to Shiva, and the Lord bade Nandi to move aside. The bull shifted, the linga stood revealed, and Nandanar beheld the Lord face to face. The Nandi remains off-axis to this day. The temple tank is linked to him too, for he is said to have tended the sacred ground and dug the pool; another tradition says that Vinayaka dug it overnight, and Vinayaka is honoured here as Kinaru Vettiya Vinayakar, the Vinayaka who dug the well.",
-    "festivals": "A ten-day Brahmotsavam at Vaikasi Visakam in May or June is reported as the temple's major festival. Maha Shivaratri and the monthly Pradosham are observed as at every Shiva temple, and Nandanar is remembered among the Nayanmar saints in the processions of the Tamil calendar. Confirm dates locally, as they follow the Tamil calendar.",
-    "experience": "Visit Tirupunkur for the Nandi. Stand at the threshold, where Nandanar stood, and notice how the great bull has turned aside to leave the sanctum open to every eye. The setting is simple and rural, with fields all around and a few visitors at any hour. Devotees pause at the tank, at the shrine of the goddess Sokkanayaki, and before the Vinayaka who dug the well. Many come with the thought that devotion, not birth, opens the door to the Lord, which is the lesson this small village keeps for pilgrims from every community."
+    "history": "ତିରୁପୁଙ୍କୂର ମୟିଲାଡୁତୁରାଇ ଜିଲ୍ଲାରେ ସବୁଜ ଧାନକ୍ଷେତ ମଧ୍ୟରେ, ବୈଦ୍ୟନାଥ କୋଇଲର କେତେ କିଲୋମିଟର ପଶ୍ଚିମରେ ଅବସ୍ଥିତ। ତେବାରମ୍‌ର ତିନି ମହାନ୍ ସନ୍ଥ ସମ୍ବନ୍ଦର, ଅପ୍ପର ଓ ସୁନ୍ଦରର ଏଠାରେ ସ୍ତୋତ୍ର ଗାନ କରିଥିଲେ, ଯାହା ଏହାକୁ କାବେରୀର ଉତ୍ତର ତୀରରେ ଥିବା ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍ ମଧ୍ୟରେ ବିଶେଷ ସମ୍ମାନର ସ୍ଥାନ ଦିଏ। ଏହାର ପ୍ରଭୁ ଶିବଲୋକନାଥର, ଶିବଲୋକର ସ୍ୱାମୀ, ଯିଏ ଏକ ବଲ୍ମୀକ ସ୍ତୂପରୁ ସ୍ୱୟଂ ଉଦ୍ଭବ ହୋଇଥିଲେ ବୋଲି ବିଶ୍ୱାସ। ଏକ ସ୍ଥାନୀୟ ପରମ୍ପରା ସ୍ମରଣ କରେ ଯେ ଖରାଦିନରେ ଆସିଥିବା ସୁନ୍ଦରର ବର୍ଷା ପାଇଁ ପ୍ରାର୍ଥନାରେ ଜଣେ ରାଜାଙ୍କୁ ସହାୟତା କଲେ; ବର୍ଷା ଏତେ ପ୍ରଚୁର ଆସିଲା ଯେ ସନ୍ଥଙ୍କୁ ତାହା ରୋକିବାକୁ କୁହାଗଲା, ଏବଂ ତା’ ପରେ ମନ୍ଦିରକୁ ଚବିଶ ବେଲି ଜମି ଦାନ କରାଗଲା। ଚୋଳ ଯୁଗରେ ସଂସ୍କାର ଉଲ୍ଲିଖିତ, ଯଦିଓ ତାରିଖ ଦୃଢ଼ ଭାବେ ଜଣା ନାହିଁ।",
+    "architecture": "ପାଞ୍ଚ ସ୍ତରୀୟ ରାଜଗୋପୁର ପ୍ରବେଶ ଚିହ୍ନିତ କରେ, ଏବଂ ମନ୍ଦିର ଏକାଧିକ ଶାନ୍ତ ପରିସରରେ ଖୋଲେ। ପ୍ରଭୁ ଏକ ସ୍ୱୟଂଭୂ ଲିଙ୍ଗ, ଏବଂ ଦେବୀ ସୋକ୍କନାୟକୀ ମନ୍ଦିରର ବାମ ପାର୍ଶ୍ୱରେ ନିଜସ୍ୱ ମନ୍ଦିରରେ, ନିଜସ୍ୱ ପ୍ରଦକ୍ଷିଣ ପଥ ସହିତ ସମ୍ମାନିତ। ବାହାରର ବିଶାଳ ନନ୍ଦୀ ଓ ଭିତର ପ୍ରାକାରର ଛୋଟ ନନ୍ଦୀ ଉଭୟ ଗର୍ଭଗୃହର ସରଳ ରେଖାରୁ ବାହାରେ ବସିଛନ୍ତି, ଏବଂ ପବିତ୍ର ବୃଷଭ ଅଧିକାଂଶ ଶିବ ମନ୍ଦିରର ନନ୍ଦୀଙ୍କ ପରି ନୁହେଁ, ବରଂ ଜିଭ ମୁହଁ ଭିତରେ ଧରିଥିବା ଭାବେ ଦେଖାଯାଏ ବୋଲି କୁହାଯାଏ। ପରିସର ଭିତରେ ବିନାୟକ, ସୁବ୍ରହ୍ମଣ୍ୟ ଓ ସୂର୍ଯ୍ୟଙ୍କ ମନ୍ଦିର ଏବଂ ଏକ ବିରଳ ପଞ୍ଚମୁଖ ଲିଙ୍ଗ ଅଛି, ଆଉ ମନ୍ଦିରର ପୁଷ୍କରିଣୀ ରିଷଭ ତୀର୍ଥମ୍ ନିକଟରେ।",
+    "legends": "ତିରୁପୁଙ୍କୂରର ମହାନ୍ କାହାଣୀ ହେଉଛି ନନ୍ଦନାରଙ୍କର, ଷାଠିଏ ତିନି ନାୟନମାର ସନ୍ଥଙ୍କ ମଧ୍ୟରୁ ଜଣେ। ବିନମ୍ର ଶ୍ରମିକ ପରିବାରରେ ଜନ୍ମିତ ଓ ତାଙ୍କ ଯୁଗର ପ୍ରଥା ଦ୍ୱାରା ମନ୍ଦିର ପ୍ରବେଶରୁ ବାରିତ, ସେ ଶିବଙ୍କୁ ଜ୍ୱଳନ୍ତ ଭକ୍ତିରେ ଭଲ ପାଉଥିଲେ ଏବଂ ତିରୁପୁଙ୍କୂରରେ ପୂଜା କରିବାକୁ ଆକାଂକ୍ଷା କରୁଥିଲେ। ବାହାର ଦ୍ୱାରରେ ଛିଡ଼ା ହୋଇ, ସେ ଗର୍ଭଗୃହ ସମ୍ମୁଖରେ ସିଧା ବସିଥିବା ପଥର ନନ୍ଦୀଙ୍କ ବିଶାଳ ପିଠି ହିଁ ଦେଖିପାରୁଥିଲେ, ଯାହା ପ୍ରଭୁଙ୍କୁ ତାଙ୍କ ଦୃଷ୍ଟିରୁ ଲୁଚାଇ ରଖିଥିଲା। ଦୁଃଖରେ ସେ ଶିବଙ୍କ ଉଦ୍ଦେଶ୍ୟରେ ଗାନ କଲେ, ଆଉ ପ୍ରଭୁ ନନ୍ଦୀଙ୍କୁ ଏକ ପାଖକୁ ଘୁଞ୍ଚିବାକୁ ଆଦେଶ ଦେଲେ। ବୃଷଭ ଘୁଞ୍ଚିଗଲା, ଲିଙ୍ଗ ପ୍ରକାଶିତ ହେଲା, ଏବଂ ନନ୍ଦନାର ପ୍ରଭୁଙ୍କୁ ମୁହାଁମୁହିଁ ଦେଖିଲେ। ନନ୍ଦୀ ଆଜି ପର୍ଯ୍ୟନ୍ତ ସରଳ ରେଖାରୁ ବାହାରେ ଅଛନ୍ତି। ମନ୍ଦିରର ପୁଷ୍କରିଣୀ ମଧ୍ୟ ତାଙ୍କ ସହିତ ଯୋଡ଼ାଯାଇଛି, କାରଣ ସେ ପବିତ୍ର ଭୂମିର ଯତ୍ନ ନେଇ ପୋଖରୀ ଖୋଳିଥିଲେ ବୋଲି କୁହାଯାଏ; ଅନ୍ୟ ଏକ ପରମ୍ପରା କହେ ଯେ ବିନାୟକ ଏକ ରାତିରେ ତାହା ଖୋଳିଥିଲେ, ଏବଂ ବିନାୟକ ଏଠାରେ କିନାରୁ ବେଟ୍ଟିୟ ବିନାୟକର, ଅର୍ଥାତ୍ କୂଅ ଖୋଳିଥିବା ବିନାୟକ ରୂପେ ସମ୍ମାନିତ।",
+    "festivals": "ମେ କିମ୍ବା ଜୁନ୍‌ରେ ବୈକାସି ବିଶାଖମ୍‌ରେ ଦଶ ଦିନିଆ ବ୍ରହ୍ମୋତ୍ସବ ମନ୍ଦିରର ପ୍ରମୁଖ ଉତ୍ସବ ବୋଲି ଉଲ୍ଲେଖ ଅଛି। ପ୍ରତ୍ୟେକ ଶିବ ମନ୍ଦିର ଭଳି ମହାଶିବରାତ୍ରି ଓ ମାସିକ ପ୍ରଦୋଷମ୍ ପାଳିତ ହୁଏ, ଏବଂ ତାମିଲ ପଞ୍ଜିକାର ଶୋଭାଯାତ୍ରାରେ ନାୟନମାର ସନ୍ଥମାନଙ୍କ ମଧ୍ୟରେ ନନ୍ଦନାର ସ୍ମରଣୀୟ। ତାରିଖ ତାମିଲ ପଞ୍ଜିକାକୁ ଅନୁସରଣ କରୁଥିବାରୁ ସ୍ଥାନୀୟ ଭାବେ ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "experience": "ନନ୍ଦୀଙ୍କୁ ଦେଖିବା ପାଇଁ ତିରୁପୁଙ୍କୂରକୁ ଆସନ୍ତୁ। ସେହି ଦ୍ୱାରଦେଶରେ ଛିଡ଼ା ହୁଅନ୍ତୁ, ଯେଉଁଠି ନନ୍ଦନାର ଛିଡ଼ା ହୋଇଥିଲେ, ଆଉ ଲକ୍ଷ୍ୟ କରନ୍ତୁ କିପରି ମହାନ୍ ବୃଷଭ ଗର୍ଭଗୃହକୁ ପ୍ରତ୍ୟେକ ଆଖି ପାଇଁ ଖୋଲା ରଖି ଏକ ପାଖକୁ ଘୁରିଛନ୍ତି। ପରିବେଶ ସରଳ ଓ ଗ୍ରାମୀଣ, ଚାରିପାଖରେ କ୍ଷେତ ଏବଂ ଯେକୌଣସି ସମୟରେ ଅଳ୍ପ ଦର୍ଶକ। ଭକ୍ତମାନେ ପୁଷ୍କରିଣୀ ପାଖରେ, ଦେବୀ ସୋକ୍କନାୟକୀଙ୍କ ମନ୍ଦିରରେ, ଏବଂ କୂଅ ଖୋଳିଥିବା ବିନାୟକଙ୍କ ସମ୍ମୁଖରେ ଅଟକନ୍ତି। ଅନେକେ ଏହି ଭାବନା ନେଇ ଆସନ୍ତି ଯେ ଜନ୍ମ ନୁହେଁ, ଭକ୍ତି ହିଁ ପ୍ରଭୁଙ୍କ ଦ୍ୱାର ଖୋଲେ — ଏହି ଛୋଟ ଗ୍ରାମ ପ୍ରତ୍ୟେକ ସମ୍ପ୍ରଦାୟର ତୀର୍ଥଯାତ୍ରୀଙ୍କ ପାଇଁ ଏହି ଶିକ୍ଷା ରକ୍ଷା କରେ।"
   },
   "visit": {
-    "timings": "Typically open for a few hours in the morning and again in the early evening, with a long midday break; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected: dhotis or trousers for men, sarees, salwar kameez, or long skirts for women, with shoulders and knees covered. Footwear is left outside the temple.",
-    "photography": "Photography is generally tolerated in the outer prakaram but not inside the sanctum, in keeping with Tamil Nadu temple custom. Ask the priest or temple staff before photographing rituals.",
-    "gettingThere": "Tirupunkur lies about 5 km west of Vaitheeswaran Koil, which has a railway station and is the usual base for visiting; Sirkazhi and Mayiladuthurai are nearby railway towns. Tiruchirappalli and Chennai are the main airports. Local buses serve Vaitheeswaran Koil, and an auto-rickshaw or taxi from there is the easiest way to reach the village."
+    "timings": "ସାଧାରଣତଃ ସକାଳେ କିଛି ଘଣ୍ଟା ଏବଂ ପୁଣି ସନ୍ଧ୍ୟା ଆରମ୍ଭରେ, ଲମ୍ବା ମଧ୍ୟାହ୍ନ ବିରତି ସହିତ ଖୋଲା ରହେ; ବିଶେଷତଃ ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "dressCode": "ନମ୍ର ପାରମ୍ପରିକ ବେଶ ଆଶା କରାଯାଏ: ପୁରୁଷଙ୍କ ପାଇଁ ଧୋତି କିମ୍ବା ପ୍ୟାଣ୍ଟ, ମହିଳାଙ୍କ ପାଇଁ ଶାଢ଼ୀ, ସଲୱାର କମିଜ୍ କିମ୍ବା ଲମ୍ବା ଘାଗରା, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କିଥିବା ଉଚିତ। ଜୋତା ମନ୍ଦିର ବାହାରେ ଛାଡ଼ିବାକୁ ହେବ।",
+    "photography": "ବାହ୍ୟ ପ୍ରାକାରରେ ଫଟୋ ଉଠାଇବା ସାଧାରଣତଃ ସହ୍ୟ କରାଯାଏ, କିନ୍ତୁ ତାମିଲନାଡୁ ମନ୍ଦିର ପ୍ରଥା ଅନୁସାରେ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ। ପୂଜାବିଧିର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ପୂଜାରୀ କିମ୍ବା ମନ୍ଦିର କର୍ମୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ତିରୁପୁଙ୍କୂର ବୈଦ୍ୟନାଥ କୋଇଲର ପ୍ରାୟ ୫ କିଲୋମିଟର ପଶ୍ଚିମରେ, ଯେଉଁଠି ଏକ ରେଳ ସ୍ଟେସନ ଅଛି ଏବଂ ଯାହା ଦର୍ଶନ ପାଇଁ ସାଧାରଣ ଆଧାର; ସିରକାଳି ଓ ମୟିଲାଡୁତୁରାଇ ନିକଟସ୍ଥ ରେଳ ସହର। ତିରୁଚ୍ଚିରାପଲ୍ଲି ଓ ଚେନ୍ନାଇ ମୁଖ୍ୟ ବିମାନବନ୍ଦର। ବୈଦ୍ୟନାଥ କୋଇଲକୁ ସ୍ଥାନୀୟ ବସ୍ ସେବା ଅଛି, ଏବଂ ସେଠାରୁ ଅଟୋରିକ୍ସା କିମ୍ବା ଟ୍ୟାକ୍ସି ଗାଁକୁ ପହଞ୍ଚିବାର ସହଜ ଉପାୟ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/sivalokanathar-tirupunkur.jpg",

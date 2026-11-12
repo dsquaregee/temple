@@ -1,29 +1,36 @@
 {
   "id": "someswarar-pazhayarai",
   "locale": "or",
+  "name": "ସୋମେଶ୍ୱରର ମନ୍ଦିର, ପଳୟାରୈ ବଡ଼ତଳି",
   "nativeName": "பழையாறை வடதளி சோமேஸ்வரர் கோயில்",
+  "deity": "ଶିବ ସୋମେଶ୍ୱରର ରୂପରେ, ଦେବୀ ସୋମକମଳାମ୍ବିକା (ସୋମକଳାମ୍ବିକା)ଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍",
   "location": {
-    "city": "Pazhayarai Vadathali, near Patteeswaram",
-    "state": "Tamil Nadu",
+    "city": "ପଳୟାରୈ ବଡ଼ତଳି, ପଟ୍ଟୀଶ୍ୱରମ୍ ନିକଟରେ",
+    "state": "ତାମିଲ୍‌ନାଡ଼ୁ",
     "lat": 10.94,
     "lng": 79.34
   },
+  "period": "ତେବାରମ୍ ଯୁଗ (୭ମ–୮ମ ଶତାବ୍ଦୀରେ ସ୍ତୁତ); ଚୋଳ ରାଜଧାନୀ, ୮ମ–୯ମ ଶତାବ୍ଦୀର ପ୍ରସ୍ତର ମନ୍ଦିର",
   "century": 7,
+  "dynasty": "ଚୋଳ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ପଳୟାରୈ ବଡ଼ତଳିରେ — ଏକଦା ପ୍ରାଚୀନ ଚୋଳମାନଙ୍କ ରାଜଧାନୀ, କୁମ୍ବକୋଣମ୍ ଅଞ୍ଚଳର ପଟ୍ଟୀଶ୍ୱରମ୍ ନିକଟରେ — ଶିବ ସୋମେଶ୍ୱରର ରୂପେ, ଦେବୀ ସୋମକମଳାମ୍ବିକାଙ୍କ ସହିତ ସମ୍ମାନିତ। ଅପ୍ପର, ସମ୍ବନ୍ଦର ଓ ସୁନ୍ଦରରଙ୍କ ଦ୍ୱାରା ତେବାରମ୍‌ରେ ପୂଜିତ ଏହି ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍ ବଦ୍ୱୀପର ଏକ ପୁରୁଣା ରାଜନଗରୀର ସ୍ମରଣୀୟ ଗଳିମାନଙ୍କ ମଧ୍ୟରେ ଛିଡ଼ା ହୋଇଛି।",
   "sections": {
-    "history": "Pazhayarai, near Patteeswaram in the Kumbakonam tract of Thanjavur district, was a capital of the early Cholas, and its name — 'the old place' — keeps that memory. The Vadathali, the northern shrine, is a Paadal Petra Sthalam, revered in the Tevaram by Appar, Sambandar and Sundarar; it is believed to have been built in the Chola period, between the 8th and 9th centuries. The site holds several shrines; this is the Someswarar temple.",
-    "architecture": "A Dravidian temple of the old capital, the shrine enshrines Someswarar in the sanctum, with the goddess Somakamalambikai in her own shrine, a Nandi and the parivara devatas about the prakara. Pazhayarai Vadathali is one of the cluster of shrines — Vadathali, Then-thali and others — that marked the four quarters of the Chola city; the neighbouring Vadathali Dharmapureeswarar shrine, with its goddess Vimalai Nayaki, stands nearby, and sources at times fold the two names together.",
-    "legends": "Shiva is worshipped here as Someswarar, 'the lord of Soma,' with the goddess Somakamalambikai beside him. The chola kings held Pazhayarai as their seat, and the temples of its quarters carried the devotion of the court; the Vadathali is remembered among the shrines the three samayacharyas — Appar, Sambandar and Sundarar — honoured in their hymns. As with the shrines of the old capital, much of the sthala tradition is bound up with the memory of the Chola city itself.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims on the Kumbakonam–Patteeswaram circuit of the Paadal Petra temples include Pazhayarai Vadathali, the shrine of the old Chola capital, among their stops.",
-    "experience": "At Pazhayarai the pilgrim walks the ground of a vanished capital. Before Someswarar and Somakamalambikai, where the streets of an old royal city once ran, the visitor finds the quiet grace of a Tevaram temple honoured by all three samayacharyas — and, in the name 'the old place,' the long memory of the Cholas who ruled from here."
+    "history": "ପଟ୍ଟୀଶ୍ୱରମ୍ ନିକଟରେ, ଥଞ୍ଜାବୁର ଜିଲ୍ଲାର କୁମ୍ବକୋଣମ୍ ଅଞ୍ଚଳରେ ଥିବା ପଳୟାରୈ ପ୍ରାଚୀନ ଚୋଳମାନଙ୍କ ରାଜଧାନୀ ଥିଲା, ଏବଂ ଏହାର ନାମ — 'ପୁରୁଣା ସ୍ଥାନ' — ସେହି ସ୍ମୃତି ରକ୍ଷା କରେ। ବଡ଼ତଳି, ଅର୍ଥାତ୍ ଉତ୍ତର ମନ୍ଦିର, ଏକ ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍, ତେବାରମ୍‌ରେ ଅପ୍ପର, ସମ୍ବନ୍ଦର ଓ ସୁନ୍ଦରରଙ୍କ ଦ୍ୱାରା ପୂଜିତ; ଏହା ଚୋଳ ଯୁଗରେ, ୮ମ ଓ ୯ମ ଶତାବ୍ଦୀ ମଧ୍ୟରେ ନିର୍ମିତ ବୋଲି ବିଶ୍ୱାସ। ଏହି ସ୍ଥଳରେ ଅନେକ ମନ୍ଦିର ଅଛି; ଏହା ହେଉଛି ସୋମେଶ୍ୱରର ମନ୍ଦିର।",
+    "architecture": "ପୁରୁଣା ରାଜଧାନୀର ଏକ ଦ୍ରାବିଡ଼ ମନ୍ଦିର; ଗର୍ଭଗୃହରେ ସୋମେଶ୍ୱରର ପ୍ରତିଷ୍ଠିତ, ଦେବୀ ସୋମକମଳାମ୍ବିକା ନିଜ ମନ୍ଦିରରେ, ଏବଂ ପ୍ରାକାର ଚାରିପାଖେ ନନ୍ଦୀ ଓ ପରିବାର ଦେବତାମାନେ। ପଳୟାରୈ ବଡ଼ତଳି ସେହି ମନ୍ଦିର ଗୁଚ୍ଛର ଅନ୍ୟତମ — ବଡ଼ତଳି, ତେନ୍ତଳି ଓ ଅନ୍ୟମାନେ — ଯାହା ଚୋଳ ନଗରୀର ଚାରି ଦିଗକୁ ଚିହ୍ନିତ କରୁଥିଲା; ନିକଟସ୍ଥ ବଡ଼ତଳି ଧର୍ମପୁରୀଶ୍ୱରର ମନ୍ଦିର, ଦେବୀ ବିମଳା ନାୟକୀଙ୍କ ସହିତ, ପାଖରେ ଅଛି, ଏବଂ ସୂତ୍ରମାନେ କେତେବେଳେ ଦୁଇ ନାମକୁ ଏକତ୍ର କରିଦିଅନ୍ତି।",
+    "legends": "ଏଠାରେ ଶିବ ସୋମେଶ୍ୱରର, ଅର୍ଥାତ୍ 'ସୋମଙ୍କ ପ୍ରଭୁ', ରୂପେ ପୂଜିତ, ତାଙ୍କ ପାଖରେ ଦେବୀ ସୋମକମଳାମ୍ବିକା। ଚୋଳ ରାଜାମାନେ ପଳୟାରୈକୁ ନିଜ ଆସନ ଭାବେ ରଖିଥିଲେ, ଏବଂ ଏହାର ଦିଗମାନଙ୍କର ମନ୍ଦିର ରାଜସଭାର ଭକ୍ତି ବହନ କରୁଥିଲା; ବଡ଼ତଳି ତିନି ସମୟାଚାର୍ଯ୍ୟ — ଅପ୍ପର, ସମ୍ବନ୍ଦର ଓ ସୁନ୍ଦରର — ନିଜ ସ୍ତୋତ୍ରରେ ସମ୍ମାନିତ କରିଥିବା ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ ସ୍ମରଣୀୟ। ପୁରୁଣା ରାଜଧାନୀର ମନ୍ଦିରମାନଙ୍କ ପରି, ସ୍ଥଳ ପରମ୍ପରାର ଅଧିକାଂଶ ଚୋଳ ନଗରୀର ସ୍ମୃତି ସହ ଜଡ଼ିତ।",
+    "festivals": "ମନ୍ଦିରରେ ମାସି (ଫେବୃଆରୀ–ମାର୍ଚ୍ଚ)ରେ ମହାଶିବରାତ୍ରି, ପୁରଟ୍ଟାସି (ସେପ୍ଟେମ୍ବର–ଅକ୍ଟୋବର)ରେ ନବରାତ୍ରି ଓ କାର୍ତ୍ତିଗୈର ସୋମବାର ପ୍ରଦୋଷ ପୂଜା ସହ ପାଳିତ ହୁଏ। ପାଡ଼ଲ ପେତ୍ର ମନ୍ଦିରମାନଙ୍କର କୁମ୍ବକୋଣମ୍–ପଟ୍ଟୀଶ୍ୱରମ୍ ପରିକ୍ରମାରେ ତୀର୍ଥଯାତ୍ରୀମାନେ ପୁରୁଣା ଚୋଳ ରାଜଧାନୀର ମନ୍ଦିର ପଳୟାରୈ ବଡ଼ତଳିକୁ ନିଜ ଯାତ୍ରାରେ ସାମିଲ କରନ୍ତି।",
+    "experience": "ପଳୟାରୈରେ ତୀର୍ଥଯାତ୍ରୀ ଏକ ଲୁପ୍ତ ରାଜଧାନୀର ମାଟିରେ ଚାଲେ। ସୋମେଶ୍ୱରର ଓ ସୋମକମଳାମ୍ବିକାଙ୍କ ସମ୍ମୁଖରେ, ଯେଉଁଠି ଏକ ପୁରୁଣା ରାଜନଗରୀର ଗଳି ଥିଲା, ଦର୍ଶକ ସମସ୍ତ ତିନି ସମୟାଚାର୍ଯ୍ୟଙ୍କ ଦ୍ୱାରା ସମ୍ମାନିତ ଏକ ତେବାରମ୍ ମନ୍ଦିରର ଶାନ୍ତ କରୁଣା ପାଏ — ଏବଂ 'ପୁରୁଣା ସ୍ଥାନ' ନାମରେ, ଏଠାରୁ ଶାସନ କରିଥିବା ଚୋଳମାନଙ୍କ ଦୀର୍ଘ ସ୍ମୃତି।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Pazhayarai Vadathali lies near Patteeswaram, about 8 km from Kumbakonam, in Thanjavur district. Kumbakonam is the nearest town and rail head, with buses and taxis to Patteeswaram and Pazhayarai."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷ କରି ଉତ୍ସବ ଦିନରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ବିନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି ରହିବା ଉଚିତ; ପାଦୁକା ପ୍ରବେଶଦ୍ୱାର ନିକଟରେ ଛାଡ଼ିବାକୁ ହୁଏ।",
+    "photography": "ବାହାର ପ୍ରାକାର ଓ ପ୍ରାଙ୍ଗଣରେ ସାଧାରଣତଃ ଫଟୋ ଉଠାଇବାକୁ ଅନୁମତି ଅଛି, କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ପୂଜାବିଧିର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ପଳୟାରୈ ବଡ଼ତଳି ଥଞ୍ଜାବୁର ଜିଲ୍ଲାରେ, କୁମ୍ବକୋଣମ୍‌ରୁ ପ୍ରାୟ ୮ କି.ମି. ଦୂରରେ ପଟ୍ଟୀଶ୍ୱରମ୍ ନିକଟରେ ଅବସ୍ଥିତ। କୁମ୍ବକୋଣମ୍ ନିକଟତମ ସହର ଓ ରେଳ ଷ୍ଟେସନ୍, ସେଠାରୁ ପଟ୍ଟୀଶ୍ୱରମ୍ ଓ ପଳୟାରୈକୁ ବସ୍ ଓ ଟ୍ୟାକ୍ସି ଚାଲେ।"
   }
 }

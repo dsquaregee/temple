@@ -1,30 +1,37 @@
 {
   "id": "adi-varaha-thirukkalvanur",
   "locale": "or",
+  "name": "ଆଦି ବରାହ ପେରୁମାଳ ମନ୍ଦିର, ତିରୁକ୍କଲ୍ବନୂର (କାମାକ୍ଷୀ ଅମ୍ମାନ ମନ୍ଦିର ଭିତରେ)",
   "nativeName": "ஆதி வராகப் பெருமாள் சன்னதி, திருக்களவனூர்",
+  "deity": "ବିଷ୍ଣୁ ଆଦି ବରାହ, କଲ୍ବର ପେରୁମାଳ ରୂପେ ଠିଆ ହୋଇଥିବା, ଦେବୀ ଅଞ୍ଜିଲୈ ବଲ୍ଲୀ ନାଚ୍ଚିୟାରଙ୍କ ସହିତ — କାମାକ୍ଷୀ ଅମ୍ମାନ ମନ୍ଦିର ଭିତରେ ଥିବା ଏକ ଦିବ୍ୟ ଦେଶମ୍ ମନ୍ଦିର",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "କାଞ୍ଚିପୁରମ୍",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 12.84,
     "lng": 79.7036
   },
+  "period": "ତୋଣ୍ଡାଇ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ବନ୍ଦିତ",
   "century": 8,
+  "dynasty": "କାଞ୍ଚୀ କାମାକ୍ଷୀ ଅମ୍ମାନ ମନ୍ଦିର ଭିତରେ ଥିବା ଏକ ମନ୍ଦିର",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "ତିରୁକ୍କଲ୍ବନୂର ଏକ ଅଲଗା ମନ୍ଦିର ନୁହେଁ: ଏହା କାଞ୍ଚିପୁରମ୍‌ର କାମାକ୍ଷୀ ଅମ୍ମାନ ମନ୍ଦିର ଭିତରେ ଆଦି ବରାହ, କଲ୍ବର ପେରୁମାଳଙ୍କର ଏକ ଛୋଟ ବିଷ୍ଣୁ ମନ୍ଦିର, ଏବଂ ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ବନ୍ଦିତ ଏକ ଦିବ୍ୟ ଦେଶମ୍।",
   "sections": {
-    "history": "Thirukkalvanur is unusual among the 108 Divya Desams of Thondai Nadu, because it is not a temple of its own. It is a Vishnu shrine inside the Kanchi Kamakshi Amman temple, set on the right side of the Goddess's sanctum, and pilgrims who come to the Kamakshi temple worship the lord here as well. Thirumangai Alvar sang the shrine in a single verse of the Nalayira Divya Prabandham, naming the place Thirukkalvanur. The lord is Adi Varaha, known locally as Kalvar or Kalvan Perumal, and his consort is Anjilai Valli Nachiyar. Devotional references name the Vamana Vimanam over his sanctum and the Nithya Pushkarini as his tank.",
-    "architecture": "Because the shrine lies within the Kamakshi Amman temple, it shares that temple's gateways, courts and pillared halls rather than having its own. It is a small sanctum on the right of the Goddess's shrine, where Adi Varaha stands facing west with Anjilai Valli Nachiyar. Devotional references name the Vamana Vimanam as its vimana and the Nithya Pushkarini as its tank. The temple's priests or attendants can direct you to the shrine.",
-    "legends": "The name comes from the Tamil kalvan, a thief, and tradition tells the story in more than one way. In one, Lakshmi fondly called the lord Kalva when he came to her secretly. In another, Vishnu hid behind a pillar to overhear a conversation between Kamakshi and Lakshmi, and Kamakshi noticed him there. The versions differ, but each makes the lord a gentle thief of hearts, quietly present beside the Goddess of Kanchi.",
-    "festivals": "The shrine shares in the life of the Kamakshi Amman temple around it, whose festivals draw crowds through the year. Vaikunta Ekadashi is the customary observance at Divya Desams; confirm dates, and what is observed here, locally.",
-    "experience": "Visit it as part of a darshan at the Kamakshi Amman temple: after seeing the Goddess, look for the Vishnu shrine on the right side of her sanctum. It is small and quiet, and the playful story of the lord who hid behind a pillar gives it its charm. Pilgrims of the Divya Desams count it among Kanchipuram's shrines of the lord."
+    "history": "ତୋଣ୍ଡାଇ ନାଡୁର ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍ ମଧ୍ୟରେ ତିରୁକ୍କଲ୍ବନୂର ଅସାଧାରଣ, କାରଣ ଏହା ନିଜସ୍ୱ ମନ୍ଦିର ନୁହେଁ। ଏହା କାଞ୍ଚୀ କାମାକ୍ଷୀ ଅମ୍ମାନ ମନ୍ଦିର ଭିତରେ, ଦେବୀଙ୍କ ଗର୍ଭଗୃହର ଡାହାଣ ପାର୍ଶ୍ୱରେ ଥିବା ଏକ ବିଷ୍ଣୁ ମନ୍ଦିର, ଏବଂ କାମାକ୍ଷୀ ମନ୍ଦିରକୁ ଆସୁଥିବା ତୀର୍ଥଯାତ୍ରୀମାନେ ଏଠାରେ ମଧ୍ୟ ପ୍ରଭୁଙ୍କୁ ପୂଜା କରନ୍ତି। ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାର ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ର ଗୋଟିଏ ପଦରେ ଏହି ମନ୍ଦିରର ସ୍ତୁତି କରିଛନ୍ତି, ସ୍ଥାନର ନାମ ତିରୁକ୍କଲ୍ବନୂର ବୋଲି ଉଲ୍ଲେଖ କରି। ପ୍ରଭୁ ଆଦି ବରାହ, ସ୍ଥାନୀୟ ଭାବେ କଲ୍ବର ବା କଲ୍ବନ୍ ପେରୁମାଳ ନାମରେ ପରିଚିତ, ଏବଂ ତାଙ୍କ ସହଧର୍ମିଣୀ ଅଞ୍ଜିଲୈ ବଲ୍ଲୀ ନାଚ୍ଚିୟାର। ଭକ୍ତିମୂଳକ ଉଲ୍ଲେଖରେ ତାଙ୍କ ଗର୍ଭଗୃହ ଉପରେ ବାମନ ବିମାନମ୍ ଏବଂ ତାଙ୍କ ପୁଷ୍କରିଣୀ ଭାବେ ନିତ୍ୟ ପୁଷ୍କରିଣୀ ନାମିତ।",
+    "architecture": "ମନ୍ଦିରଟି କାମାକ୍ଷୀ ଅମ୍ମାନ ମନ୍ଦିର ଭିତରେ ଥିବାରୁ, ଏହା ନିଜସ୍ୱ ନୁହେଁ ବରଂ ସେହି ମନ୍ଦିରର ଦ୍ୱାର, ପ୍ରାଙ୍ଗଣ ଓ ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ ବାଣ୍ଟିଥାଏ। ଏହା ଦେବୀଙ୍କ ମନ୍ଦିରର ଡାହାଣରେ ଏକ ଛୋଟ ଗର୍ଭଗୃହ, ଯେଉଁଠାରେ ଆଦି ବରାହ ଅଞ୍ଜିଲୈ ବଲ୍ଲୀ ନାଚ୍ଚିୟାରଙ୍କ ସହିତ ପଶ୍ଚିମମୁଖୀ ହୋଇ ଠିଆ ହୋଇଛନ୍ତି। ଭକ୍ତିମୂଳକ ଉଲ୍ଲେଖରେ ଏହାର ବିମାନ ବାମନ ବିମାନମ୍ ଏବଂ ପୁଷ୍କରିଣୀ ନିତ୍ୟ ପୁଷ୍କରିଣୀ ବୋଲି ନାମିତ। ମନ୍ଦିରର ପୂଜାରୀ ବା ସେବକମାନେ ଆପଣଙ୍କୁ ମନ୍ଦିରର ଦିଗ ଦେଖାଇ ଦେଇପାରିବେ।",
+    "legends": "ନାମଟି ତାମିଲ୍ କଲ୍ବନ୍, ଅର୍ଥାତ୍ ଚୋର, ଶବ୍ଦରୁ ଆସିଛି, ଏବଂ ପରମ୍ପରା କାହାଣୀକୁ ଏକାଧିକ ଭାବେ କହେ। ଗୋଟିଏରେ, ପ୍ରଭୁ ଲୁଚି ଲୁଚି ଲକ୍ଷ୍ମୀଙ୍କ ପାଖକୁ ଆସିବାରୁ ସେ ତାଙ୍କୁ ସ୍ନେହରେ କଲ୍ବା ବୋଲି ଡାକିଲେ। ଅନ୍ୟଟିରେ, କାମାକ୍ଷୀ ଓ ଲକ୍ଷ୍ମୀଙ୍କ କଥାବାର୍ତ୍ତା ଶୁଣିବା ପାଇଁ ବିଷ୍ଣୁ ଏକ ସ୍ତମ୍ଭ ପଛରେ ଲୁଚିଥିଲେ, ଏବଂ କାମାକ୍ଷୀ ତାଙ୍କୁ ସେଠାରେ ଦେଖିଲେ। ସଂସ୍କରଣ ଭିନ୍ନ, କିନ୍ତୁ ପ୍ରତ୍ୟେକ ପ୍ରଭୁଙ୍କୁ ହୃଦୟର ଏକ କୋମଳ ଚୋର କରେ, ଯେ କାଞ୍ଚୀର ଦେବୀଙ୍କ ପାଖରେ ନୀରବରେ ଉପସ୍ଥିତ।",
+    "festivals": "ମନ୍ଦିରଟି ଏହାକୁ ଘେରି ରହିଥିବା କାମାକ୍ଷୀ ଅମ୍ମାନ ମନ୍ଦିରର ଜୀବନରେ ଅଂଶୀଦାର, ଯାହାର ଉତ୍ସବ ବର୍ଷସାରା ଭିଡ଼ ଆକର୍ଷିତ କରେ। ବୈକୁଣ୍ଠ ଏକାଦଶୀ ଦିବ୍ୟ ଦେଶମ୍‌ମାନଙ୍କରେ ପ୍ରଚଳିତ ପାଳନ; ତାରିଖ, ଏବଂ ଏଠାରେ କ'ଣ ପାଳନ ହୁଏ, ତାହା ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "କାମାକ୍ଷୀ ଅମ୍ମାନ ମନ୍ଦିରର ଦର୍ଶନର ଅଂଶ ଭାବେ ଏଠାକୁ ଆସନ୍ତୁ: ଦେବୀଙ୍କ ଦର୍ଶନ ପରେ, ତାଙ୍କ ଗର୍ଭଗୃହର ଡାହାଣ ପାର୍ଶ୍ୱରେ ବିଷ୍ଣୁ ମନ୍ଦିର ଖୋଜନ୍ତୁ। ଏହା ଛୋଟ ଓ ଶାନ୍ତ, ଏବଂ ସ୍ତମ୍ଭ ପଛରେ ଲୁଚିଥିବା ପ୍ରଭୁଙ୍କ ଚଞ୍ଚଳ କାହାଣୀ ଏହାକୁ ଆକର୍ଷଣ ଦିଏ। ଦିବ୍ୟ ଦେଶମ୍ ତୀର୍ଥଯାତ୍ରୀମାନେ ଏହାକୁ କାଞ୍ଚିପୁରମ୍‌ର ପ୍ରଭୁଙ୍କ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ ଗଣନ୍ତି।"
   },
   "visit": {
-    "timings": "Darshan is through the Kamakshi Amman temple, so its daily schedule applies. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "The shrine lies inside the Kamakshi Amman temple in Kanchipuram town. Kanchipuram has a railway station and is reached by road from Chennai; Chennai International Airport is the nearest major airport. Enter by the Kamakshi temple and ask for the Vishnu shrine."
+    "timings": "ଦର୍ଶନ କାମାକ୍ଷୀ ଅମ୍ମାନ ମନ୍ଦିର ଦେଇ ହୁଏ, ତେଣୁ ସେହି ମନ୍ଦିରର ଦୈନିକ ସମୟସୂଚୀ ପ୍ରଯୁଜ୍ୟ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସଭ୍ୟ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢଙ୍କା ରହିବ; ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲିବେ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ନିୟନ୍ତ୍ରିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ମନ୍ଦିରଟି କାଞ୍ଚିପୁରମ୍ ସହରର କାମାକ୍ଷୀ ଅମ୍ମାନ ମନ୍ଦିର ଭିତରେ ଅବସ୍ଥିତ। କାଞ୍ଚିପୁରମ୍‌ରେ ଏକ ରେଳ ଷ୍ଟେସନ୍ ଅଛି ଏବଂ ଚେନ୍ନାଇରୁ ସଡ଼କ ପଥରେ ପହଞ୍ଚିହୁଏ; ଚେନ୍ନାଇ ଅନ୍ତର୍ଜାତୀୟ ବିମାନବନ୍ଦର ନିକଟତମ ପ୍ରମୁଖ ବିମାନବନ୍ଦର। କାମାକ୍ଷୀ ମନ୍ଦିର ଦେଇ ପ୍ରବେଶ କରନ୍ତୁ ଏବଂ ବିଷ୍ଣୁ ମନ୍ଦିର ବିଷୟରେ ପଚାରନ୍ତୁ।"
   }
 }

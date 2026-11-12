@@ -16,6 +16,7 @@
 | `hi` | Hindi (Devanagari) | 100.0% | 0 | 0 |
 | `bn` | Bengali | 100.0% | 0 | 0 |
 | `mr` | Marathi (Devanagari) | 100.0% | 0 | 0 |
+| `or` | Odia | 100.0% | 0 | 0 |
 
 (Target-script ratio = share of letters in the language's own script vs
 Latin. Below 100% is expected — proper nouns stay in Latin.)
@@ -52,4 +53,5 @@ Sign-off:
 | Hindi (Devanagari) (`hi`) |  |  | ⬜ pending |
 | Bengali (`bn`) |  |  | ⬜ pending |
 | Marathi (Devanagari) (`mr`) |  |  | ⬜ pending |
+| Odia (`or`) |  |  | ⬜ pending |
 

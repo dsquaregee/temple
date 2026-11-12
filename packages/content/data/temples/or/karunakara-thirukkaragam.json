@@ -1,31 +1,38 @@
 {
   "id": "karunakara-thirukkaragam",
   "locale": "or",
+  "name": "କରୁଣାକର ପେରୁମାଳ ମନ୍ଦିର (ତିରୁକ୍କାରଗମ୍), କାଞ୍ଚୀପୁରମ୍",
   "nativeName": "கருணாகரப் பெருமாள் கோயில் (திருக்காரகம்), காஞ்சிபுரம்",
+  "deity": "କରୁଣାକର ପେରୁମାଳ ରୂପେ ବିଷ୍ଣୁ, ସହିତ ଦେବୀ ପଦ୍ମମଣି ନାଚ୍ଚିୟାର — ତିରୁକ୍କାରଗମ୍ ଦିବ୍ୟ ଦେଶମ୍, ଉଲଗଲନ୍ଦ ପେରୁମାଳ ମନ୍ଦିର ଭିତରେ ଅବସ୍ଥିତ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "କାଞ୍ଚୀପୁରମ୍",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 12.8392,
     "lng": 79.705
   },
+  "period": "ତୋଣ୍ଡୈ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ",
   "century": 8,
+  "dynasty": "ପଲ୍ଲବ (ଆଶ୍ରୟଦାତା ମନ୍ଦିର, ଚୋଳ, ବିଜୟନଗର ଓ ନାୟକ ସଂଯୋଜନା ସହ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "ତିରୁକ୍କାରଗମ୍ କାଞ୍ଚୀପୁରମ୍‌ର ଉଲଗଲନ୍ଦ ପେରୁମାଳ ପରିସର ଭିତରେ ଥିବା ଚାରି ଦିବ୍ୟ ଦେଶମ୍‌ ମଧ୍ୟରୁ ଏକ, ଯେଉଁଠାରେ ତୃତୀୟ ପ୍ରାକାରରେ ବିଷ୍ଣୁ କରୁଣାକର, ଅର୍ଥାତ୍ ଦୟାମୟ ପ୍ରଭୁ ରୂପେ ପୂଜିତ; ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାର ଏହାକୁ ସ୍ତୁତି କରିଛନ୍ତି।",
   "sections": {
-    "history": "Thirukkaragam is not a temple apart but a Divya Desam within the Ulagalantha Perumal Temple of Periya Kanchi, the same complex that holds Thiruooragam, Thiruneeragam and Thirukkarvanam. The four are believed to have once been independent shrines, and a single verse of Thirumangai Alvar names them together; Thirumangai Alvar is the Alvar who sang this shrine in the Nalayira Divya Prabandham. The host temple is believed to be a Pallava foundation, with later additions by the Medieval Cholas, the Vijayanagara kings and the Nayaks, and is administered by the Tamil Nadu HR&CE Department. As one of the 108 Divya Desams, Thirukkaragam belongs to Thondai Nadu, the Tamil country around Kanchipuram.",
-    "architecture": "The shrine stands in the third precinct, or prakaram, of the Ulagalantha Perumal complex, beyond the main sanctum of Trivikrama. Karunakara Perumal is worshipped seated on Adisesha, with Padmamani Nachiyar, also called Ramamani Thayar, as his consort. The sanctum rises under the Vamana Vimanam, and its sacred water is the Agraya Theertham. The setting is a small, quiet sanctum within the larger walled complex.",
-    "legends": "The sthala purana tells of the sage Garga, who performed penance at this place and obtained knowledge; the spot was called Garagaham after him, and in time Kaaragam, from which the name Thirukkaragam is held to come. The Lord who appeared to the sage is honoured here as Karunakara, the compassionate one, whose mercy answers the patient devotion of the sage and of every pilgrim who follows him.",
-    "festivals": "The shrine keeps the calendar of the Ulagalantha Perumal Temple: Vaikunta Ekadashi, the annual Brahmotsavam with processions through the streets of Kanchipuram, and the recitation of the Divya Prabandham in the month of Margazhi. Confirm dates locally.",
-    "experience": "Thirukkaragam rewards the pilgrim who goes beyond the great sanctum of Trivikrama and walks on to the third precinct. Look for the seated Karunakara Perumal with Padmamani Nachiyar, and ask the priests about the Agraya Theertham and the legend of the sage Garga. Visit it with the other three Divya Desams of the complex to complete a single, unhurried circuit."
+    "history": "ତିରୁକ୍କାରଗମ୍ ଏକ ପୃଥକ୍ ମନ୍ଦିର ନୁହେଁ, ବରଂ ପେରିୟ କାଞ୍ଚୀର ଉଲଗଲନ୍ଦ ପେରୁମାଳ ମନ୍ଦିର ଭିତରେ ଥିବା ଏକ ଦିବ୍ୟ ଦେଶମ୍; ସେହି ପରିସରରେ ତିରୁଊରଗମ୍, ତିରୁନୀରଗମ୍ ଓ ତିରୁକ୍କାର୍‌ବାନମ୍ ମଧ୍ୟ ଅଛି। ଏହି ଚାରିଟି ଏକଦା ସ୍ୱାଧୀନ ମନ୍ଦିର ଥିଲା ବୋଲି ବିଶ୍ୱାସ, ଆଉ ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଏକ ପଦ ସେମାନଙ୍କୁ ଏକାଠି ନାମିତ କରେ; ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ଏହି ମନ୍ଦିରକୁ ସ୍ତୁତି କରିଥିବା ଆଳ୍ୱାର ହେଉଛନ୍ତି ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାର। ଆଶ୍ରୟଦାତା ମନ୍ଦିର ପଲ୍ଲବ ପ୍ରତିଷ୍ଠା ବୋଲି ବିଶ୍ୱାସ, ପରେ ମଧ୍ୟଯୁଗୀନ ଚୋଳ, ବିଜୟନଗର ରାଜା ଓ ନାୟକମାନେ ସଂଯୋଜନା କରିଛନ୍ତି, ଏବଂ ଏହା ତାମିଲନାଡୁ ହିନ୍ଦୁ ଧର୍ମସ୍ୱ ଓ ଧର୍ମାର୍ଥ ଦାନ ବିଭାଗ ଦ୍ୱାରା ପରିଚାଳିତ। ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍‌ ମଧ୍ୟରୁ ଏକ ଭାବେ ତିରୁକ୍କାରଗମ୍ କାଞ୍ଚୀପୁରମ୍ ଚାରିପାଖର ତାମିଲ ଅଞ୍ଚଳ ତୋଣ୍ଡୈ ନାଡୁର ଅନ୍ତର୍ଗତ।",
+    "architecture": "ମନ୍ଦିରଟି ଉଲଗଲନ୍ଦ ପେରୁମାଳ ପରିସରର ତୃତୀୟ ପ୍ରାକାରରେ, ତ୍ରିବିକ୍ରମଙ୍କ ମୁଖ୍ୟ ଗର୍ଭଗୃହ ବାହାରେ ଅବସ୍ଥିତ। କରୁଣାକର ପେରୁମାଳ ଆଦିଶେଷ ଉପରେ ଉପବିଷ୍ଟ ଭାବେ ପୂଜିତ, ତାଙ୍କ ସହଧର୍ମିଣୀ ପଦ୍ମମଣି ନାଚ୍ଚିୟାର, ଯାହାଙ୍କୁ ରାମମଣି ତାୟାର ମଧ୍ୟ କହନ୍ତି। ଗର୍ଭଗୃହ ବାମନ ବିମାନମ୍ ତଳେ ଉଠିଛି, ଆଉ ଏହାର ପବିତ୍ର ଜଳ ଅଗ୍ରାୟ ତୀର୍ଥମ୍। ପରିବେଶଟି ବୃହତ୍ତର ପ୍ରାଚୀରବେଷ୍ଟିତ ପରିସର ଭିତରେ ଏକ ଛୋଟ, ଶାନ୍ତ ଗର୍ଭଗୃହ।",
+    "legends": "ସ୍ଥଳପୁରାଣ ଋଷି ଗର୍ଗଙ୍କ କଥା କହେ, ଯେ ଏହି ସ୍ଥାନରେ ତପସ୍ୟା କରି ଜ୍ଞାନ ଲାଭ କଲେ; ତାଙ୍କ ନାମରେ ସ୍ଥାନର ନାମ ଗରଗହମ୍, ଓ କାଳକ୍ରମେ କାରଗମ୍ ହେଲା, ଯାହାରୁ ତିରୁକ୍କାରଗମ୍ ନାମ ଆସିଛି ବୋଲି ବିଶ୍ୱାସ। ଋଷିଙ୍କୁ ଦର୍ଶନ ଦେଇଥିବା ପ୍ରଭୁ ଏଠାରେ କରୁଣାକର, ଅର୍ଥାତ୍ ଦୟାମୟ ରୂପେ ପୂଜିତ, ଯାହାଙ୍କ କରୁଣା ଋଷିଙ୍କ ଧୈର୍ଯ୍ୟପୂର୍ଣ୍ଣ ଭକ୍ତି ଓ ତାଙ୍କ ପଥରେ ଚାଲୁଥିବା ପ୍ରତ୍ୟେକ ତୀର୍ଥଯାତ୍ରୀଙ୍କ ଭକ୍ତିକୁ ଉତ୍ତର ଦିଏ।",
+    "festivals": "ମନ୍ଦିର ଉଲଗଲନ୍ଦ ପେରୁମାଳ ମନ୍ଦିରର ପର୍ବ ପଞ୍ଜିକା ପାଳନ କରେ: ବୈକୁଣ୍ଠ ଏକାଦଶୀ, କାଞ୍ଚୀପୁରମ୍‌ର ରାସ୍ତାମାନଙ୍କରେ ଶୋଭାଯାତ୍ରା ସହ ବାର୍ଷିକ ବ୍ରହ୍ମୋତ୍ସବମ୍, ଏବଂ ମାର୍ଗଳି ମାସରେ ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍ ପାଠ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ଜାଣିନିଅନ୍ତୁ।",
+    "experience": "ତିରୁକ୍କାରଗମ୍ ସେହି ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ପୁରସ୍କୃତ କରେ ଯିଏ ତ୍ରିବିକ୍ରମଙ୍କ ମହାନ ଗର୍ଭଗୃହ ପରେ ତୃତୀୟ ପ୍ରାକାର ପର୍ଯ୍ୟନ୍ତ ଚାଲିଯାଆନ୍ତି। ପଦ୍ମମଣି ନାଚ୍ଚିୟାର ସହ ଉପବିଷ୍ଟ କରୁଣାକର ପେରୁମାଳଙ୍କୁ ଦେଖନ୍ତୁ, ଏବଂ ଅଗ୍ରାୟ ତୀର୍ଥମ୍ ଓ ଋଷି ଗର୍ଗଙ୍କ କିମ୍ବଦନ୍ତୀ ବିଷୟରେ ପୂଜାରୀମାନଙ୍କୁ ପଚାରନ୍ତୁ। ପରିସରର ଅନ୍ୟ ତିନି ଦିବ୍ୟ ଦେଶମ୍ ସହ ଏହାକୁ ଦର୍ଶନ କରି ଏକ ଅବିଚଳିତ ପରିକ୍ରମା ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ।"
   },
   "visit": {
-    "timings": "The shrine opens with the Ulagalantha Perumal Temple: morning and evening darshan sessions with a midday closure. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctums; follow the posted rules and the priests' guidance.",
-    "gettingThere": "This is a shrine inside the Ulagalantha Perumal Temple in the old town of Kanchipuram (Periya Kanchi); enter by that temple's gateway and ask for Thirukkaragam in the third precinct. Chennai, about 70 km to the north-east, is the nearest major airport, and Kanchipuram town is the nearest railhead."
+    "timings": "ମନ୍ଦିର ଉଲଗଲନ୍ଦ ପେରୁମାଳ ମନ୍ଦିର ସହ ଖୋଲେ: ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଅଧିବେଶନ, ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ଜାଣିନିଅନ୍ତୁ।",
+    "dressCode": "ମର୍ଯ୍ୟାଦାପୂର୍ଣ୍ଣ ପାରମ୍ପରିକ ପୋଷାକ ଆବଶ୍ୟକ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲନ୍ତୁ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋଗ୍ରାଫି ନିଷିଦ୍ଧ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ଏହା କାଞ୍ଚୀପୁରମ୍‌ର (ପେରିୟ କାଞ୍ଚୀ) ପୁରୁଣା ସହରରେ ଉଲଗଲନ୍ଦ ପେରୁମାଳ ମନ୍ଦିର ଭିତରେ ଥିବା ଏକ ମନ୍ଦିର; ସେହି ମନ୍ଦିରର ଦ୍ୱାର ଦେଇ ପ୍ରବେଶ କରି ତୃତୀୟ ପ୍ରାକାରରେ ତିରୁକ୍କାରଗମ୍ ବିଷୟରେ ପଚାରନ୍ତୁ। ଉତ୍ତର-ପୂର୍ବକୁ ପ୍ରାୟ ୭୦ କିଲୋମିଟର ଦୂରରେ ଚେନ୍ନାଇ ନିକଟତମ ପ୍ରମୁଖ ବିମାନବନ୍ଦର, ଆଉ କାଞ୍ଚୀପୁରମ୍ ସହର ନିକଟତମ ରେଳ ଷ୍ଟେସନ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/karunakara-thirukkaragam.jpg",

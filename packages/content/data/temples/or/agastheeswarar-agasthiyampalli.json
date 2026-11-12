@@ -1,29 +1,36 @@
 {
   "id": "agastheeswarar-agasthiyampalli",
   "locale": "or",
+  "name": "ଅଗସ୍ତ୍ୟାମ୍ପଲ୍ଲୀ ଅଗସ୍ତୀଶ୍ୱର ମନ୍ଦିର",
   "nativeName": "அகத்தியான்பள்ளி அகத்தீஸ்வரர் கோயில்",
+  "deity": "ଅଗସ୍ତୀଶ୍ୱର ରୂପେ ଶିବ, ଦେବୀ ସୌନ୍ଦରନାୟକୀ (ବାଗମ୍ପ୍ରିୟ ନାୟକୀ) ଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଡ଼ଲ୍ ପେଟ୍ରା ସ୍ଥଳମ୍",
   "location": {
-    "city": "Agasthiyampalli, near Vedaranyam",
-    "state": "Tamil Nadu",
+    "city": "ଅଗସ୍ତ୍ୟାମ୍ପଲ୍ଲୀ, ବେଦାରଣ୍ୟମ୍ ନିକଟରେ",
+    "state": "ତାମିଲନାଡ଼ୁ",
     "lat": 10.355,
     "lng": 79.852
   },
+  "period": "ତେବାରମ୍ ଯୁଗ (ସପ୍ତମ ଶତାବ୍ଦୀରେ ସ୍ତୁତ); ପରବର୍ତ୍ତୀ ଚୋଳ ଯୁଗର ପଥରନିର୍ମିତ ମନ୍ଦିର",
   "century": 7,
+  "dynasty": "ଚୋଳ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ସମୁଦ୍ର ନିକଟରେ ବେଦାରଣ୍ୟମ୍‌ର ଅଳ୍ପ ଦକ୍ଷିଣରେ ଥିବା ଅଗସ୍ତ୍ୟାମ୍ପଲ୍ଲୀ ଶିବଙ୍କୁ ଦେବୀ ସୌନ୍ଦରନାୟକୀଙ୍କ ସହିତ ଅଗସ୍ତୀଶ୍ୱର ରୂପେ ପୂଜା କରେ। ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଦରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ ଏହି ପାଡ଼ଲ୍ ପେଟ୍ରା ସ୍ଥଳମ୍ ଅଗସ୍ତ୍ୟ ମୁନିଙ୍କ ସହ ଜଡ଼ିତ; ପରମ୍ପରା ଅନୁସାରେ ସେ ଏଠାରେ ଶିବିର ସ୍ଥାପନ କରି ଶିବଙ୍କ ବିବାହର ଦର୍ଶନ ପାଇଥିଲେ, ଓ ତାଙ୍କ ଅବସ୍ଥାନରୁ ଗାଁର ନାମ ଆସିଛି।",
   "sections": {
-    "history": "Agasthiyampalli lies a short distance south of Vedaranyam, on the way to Kodikkarai (Point Calimere), near the sea in Nagapattinam district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, and locally called Agasthiyar Kovil for its link to the sage Agastya. The stone temple is of the Chola period and later. (Sources differ on the exact distance from Vedaranyam, about 2–3 km.)",
-    "architecture": "A Dravidian coastal-delta temple, the shrine enshrines Agastheeswarar in the sanctum, with the goddess Soundaranayagi — also named Baagampriya Nayagi — in her own shrine, a Nandi and the parivara devatas about the prakara. The walled courtyard and modest gopuram are typical of the Shiva temples of this low-lying southern tract near the coast.",
-    "legends": "The sage Agastya, by tradition, camped at this sivasthalam and was granted a vision of the wedding of Shiva and Parvati — the same marriage-darshan legend that binds the neighbouring Vedaranyam shrine — and the village of Agasthiyampalli takes its name from his stay. Shiva is worshipped here as Agastheeswarar, 'the lord of Agastya,' with Soundaranayagi beside him.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a coastal village shrine. Pilgrims on the Vedaranyam–Kodikkarai stretch of the Paadal Petra trail include Agasthiyampalli among their stops.",
-    "experience": "At Agasthiyampalli the pilgrim comes to a sea-edge shrine of the sage's lord. Before Agastheeswarar and Soundaranayagi, with the salt air of the lower delta near, the visitor finds the unhurried grace of a Tevaram temple of the Vedaranyam coast, and the memory of Agastya's vision of the divine wedding."
+    "history": "ଅଗସ୍ତ୍ୟାମ୍ପଲ୍ଲୀ ନାଗପଟ୍ଟିନମ୍ ଜିଲ୍ଲାରେ ସମୁଦ୍ର ନିକଟରେ, କୋଡ଼ିକ୍କରାଇ (ପଏଣ୍ଟ କାଲିମେୟାର) ଯିବା ରାସ୍ତାରେ ବେଦାରଣ୍ୟମ୍‌ର ଅଳ୍ପ ଦକ୍ଷିଣରେ ଅବସ୍ଥିତ। ଏହା ଏକ ପାଡ଼ଲ୍ ପେଟ୍ରା ସ୍ଥଳମ୍, ତେବାରମ୍‌ରେ ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଦରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ, ଏବଂ ଅଗସ୍ତ୍ୟ ମୁନିଙ୍କ ସହ ଥିବା ସମ୍ପର୍କ ଯୋଗୁଁ ସ୍ଥାନୀୟ ଭାବେ ଅଗସ୍ତ୍ୟାର୍ କୋଭିଲ୍ ନାମରେ ପରିଚିତ। ପଥରନିର୍ମିତ ମନ୍ଦିରଟି ଚୋଳ ଯୁଗ ଓ ତା'ପରର। (ବେଦାରଣ୍ୟମ୍‌ରୁ ଠିକ୍ ଦୂରତା ବିଷୟରେ ସୂତ୍ରମାନଙ୍କରେ ମତଭେଦ ଅଛି, ପ୍ରାୟ ୨–୩ କିଲୋମିଟର।)",
+    "architecture": "ଏହା ଏକ ଦ୍ରାବିଡ଼ ଶୈଳୀର ଉପକୂଳୀୟ ବଦ୍ୱୀପ ମନ୍ଦିର; ଗର୍ଭଗୃହରେ ଅଗସ୍ତୀଶ୍ୱର ବିରାଜମାନ, ଦେବୀ ସୌନ୍ଦରନାୟକୀ — ବାଗମ୍ପ୍ରିୟ ନାୟକୀ ନାମରେ ମଧ୍ୟ ପରିଚିତା — ନିଜସ୍ୱ ମନ୍ଦିରରେ ଅଛନ୍ତି, ପ୍ରାକାରରେ ନନ୍ଦୀ ଓ ପରିବାର ଦେବତାମାନେ ଅଛନ୍ତି। ପ୍ରାଚୀର ଘେରା ପ୍ରାଙ୍ଗଣ ଓ ସାଧାରଣ ଗୋପୁରମ୍ ଉପକୂଳ ନିକଟର ଏହି ନିମ୍ନ ଦକ୍ଷିଣୀ ଅଞ୍ଚଳର ଶିବ ମନ୍ଦିରମାନଙ୍କର ବିଶେଷତା।",
+    "legends": "ପରମ୍ପରା ଅନୁସାରେ ଅଗସ୍ତ୍ୟ ମୁନି ଏହି ଶିବସ୍ଥଳରେ ଶିବିର ସ୍ଥାପନ କରିଥିଲେ ଓ ଶିବ-ପାର୍ବତୀଙ୍କ ବିବାହର ଦର୍ଶନ ପାଇଥିଲେ — ଏହା ପାଖ ବେଦାରଣ୍ୟମ୍ ମନ୍ଦିରକୁ ଯୋଡ଼ୁଥିବା ସମାନ ବିବାହ-ଦର୍ଶନ କାହାଣୀ — ଓ ତାଙ୍କ ଅବସ୍ଥାନରୁ ଅଗସ୍ତ୍ୟାମ୍ପଲ୍ଲୀ ଗାଁର ନାମ ହୋଇଛି। ଏଠାରେ ଶିବ ‘ଅଗସ୍ତ୍ୟଙ୍କ ପ୍ରଭୁ’ ଅଗସ୍ତୀଶ୍ୱର ରୂପେ ପୂଜିତ, ତାଙ୍କ ପାଖରେ ସୌନ୍ଦରନାୟକୀ ଅଛନ୍ତି।",
+    "festivals": "ମନ୍ଦିରରେ ମାସି ମାସ (ଫେବୃଆରୀ–ମାର୍ଚ୍ଚ)ରେ ମହାଶିବରାତ୍ରି, ପୁରଟ୍ଟାସି ମାସ (ସେପ୍ଟେମ୍ବର–ଅକ୍ଟୋବର)ରେ ନବରାତ୍ରି ଏବଂ କାର୍ତ୍ତିକାଇ ମାସର ସୋମବାରମାନଙ୍କରେ ପ୍ରଦୋଷ ପୂଜା ସହିତ ଉତ୍ସବ ପାଳିତ ହୁଏ, ଉପକୂଳର ଏକ ଶାନ୍ତ ଗ୍ରାମ୍ୟ ମନ୍ଦିରର ପରିମାଣରେ। ପାଡ଼ଲ୍ ପେଟ୍ରା ତୀର୍ଥପଥର ବେଦାରଣ୍ୟମ୍–କୋଡ଼ିକ୍କରାଇ ଅଂଶର ତୀର୍ଥଯାତ୍ରୀମାନେ ଅଗସ୍ତ୍ୟାମ୍ପଲ୍ଲୀକୁ ନିଜ ଯାତ୍ରାର ଅଂଶ କରନ୍ତି।",
+    "experience": "ଅଗସ୍ତ୍ୟାମ୍ପଲ୍ଲୀରେ ତୀର୍ଥଯାତ୍ରୀ ମୁନିଙ୍କ ପ୍ରଭୁଙ୍କର ଏକ ସମୁଦ୍ରକୂଳ ମନ୍ଦିରକୁ ଆସନ୍ତି। ଅଗସ୍ତୀଶ୍ୱର ଓ ସୌନ୍ଦରନାୟକୀଙ୍କ ସମ୍ମୁଖରେ, ନିମ୍ନ ବଦ୍ୱୀପର ଲୁଣିଆ ପବନ ନିକଟରେ ଥାଉଥାଉ, ଦର୍ଶକ ବେଦାରଣ୍ୟମ୍ ଉପକୂଳର ଏକ ତେବାରମ୍ ମନ୍ଦିରର ଧୀର ଶାନ୍ତ କୃପା ଓ ଅଗସ୍ତ୍ୟଙ୍କ ଦିବ୍ୟ ବିବାହ ଦର୍ଶନର ସ୍ମୃତି ପାଆନ୍ତି।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Agasthiyampalli lies about 2–3 km south of Vedaranyam, on the road toward Kodikkarai (Point Calimere), in Nagapattinam district. Vedaranyam is the nearest town, with buses and taxis to the village; Nagapattinam and Tiruvarur are the nearest rail heads."
+    "timings": "ସାଧାରଣତଃ ଭୋରରୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷତଃ ପର୍ବଦିନରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ଜାଣି ନିଅନ୍ତୁ।",
+    "dressCode": "ଶୋଭନୀୟ ପାରମ୍ପରିକ ପୋଷାକ ପିନ୍ଧିବା ଆବଶ୍ୟକ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବା ଉଚିତ; ପାଦୁକା ପ୍ରବେଶଦ୍ୱାରରେ ଛାଡ଼ିବାକୁ ହୁଏ।",
+    "photography": "ବାହ୍ୟ ପ୍ରାକାରରେ ସାଧାରଣତଃ ଫଟୋ ଉଠାଇବାକୁ ଅନୁମତି ଅଛି, କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ପୂଜାବିଧିର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ଅଗସ୍ତ୍ୟାମ୍ପଲ୍ଲୀ ନାଗପଟ୍ଟିନମ୍ ଜିଲ୍ଲାରେ, କୋଡ଼ିକ୍କରାଇ (ପଏଣ୍ଟ କାଲିମେୟାର) ଯାଉଥିବା ରାସ୍ତାରେ ବେଦାରଣ୍ୟମ୍‌ର ପ୍ରାୟ ୨–୩ କିଲୋମିଟର ଦକ୍ଷିଣରେ ଅବସ୍ଥିତ। ବେଦାରଣ୍ୟମ୍ ନିକଟତମ ସହର, ସେଠାରୁ ଗାଁକୁ ବସ୍ ଓ ଟ୍ୟାକ୍ସି ମିଳେ; ନାଗପଟ୍ଟିନମ୍ ଓ ତିରୁବାରୁର ନିକଟତମ ରେଳ ଷ୍ଟେସନ।"
   }
 }

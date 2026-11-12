@@ -1,29 +1,36 @@
 {
   "id": "thoovainathar-tiruvarur",
   "locale": "or",
+  "name": "ତୂବୈନାଥର ମନ୍ଦିର, ଆରୂର ପରବୈୟୁଣ୍‌ମଣ୍ଡଳୀ",
   "nativeName": "ஆரூர் பரவையுண்மண்டளி தூவைநாதர் கோயில்",
+  "deity": "ତୂବୈନାଥର ରୂପେ ଶିବ, ଦେବୀ ପଞ୍ଚିନ୍ ମେନ୍ନଡିୟାଲ (ମୃଦୁପାଦ ନାୟକୀ) ଙ୍କ ସହ",
+  "tradition": "ଶୈବ — ଏକ ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍",
   "location": {
-    "city": "Tiruvarur (East Street)",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁବାରୁର (ପୂର୍ବ ରାସ୍ତା)",
+    "state": "ତାମିଲ ନାଡୁ",
     "lat": 10.773,
     "lng": 79.64
   },
+  "period": "ତେବାରମ୍ ଯୁଗ (ସପ୍ତମ ଶତାବ୍ଦୀରେ ଗୀତ); ପରବର୍ତ୍ତୀ ଚୋଳ ପ୍ରସ୍ତର ମନ୍ଦିର",
   "century": 7,
+  "dynasty": "ଚୋଳ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ତିରୁବାରୁରର ପୂର୍ବ ରାସ୍ତାରେ, ମହାନ ମନ୍ଦିର ନଗରୀ ମଧ୍ୟରେ, ତୂବୈନାଥର ଅବସ୍ଥିତ — ଏକ ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍ ଯାହାର ଐତିହାସିକ ନାମ ଆରୂର ପରବୈୟୁଣ୍‌ମଣ୍ଡଳୀ ସନ୍ଥ ସୁନ୍ଦରଙ୍କ ପତ୍ନୀ ପରବୈଙ୍କ ପ୍ରାସାଦକୁ ମନେ ପକାଏ। ଏଠାରେ ଶିବ ତୂବୈନାଥର ରୂପେ ଦେବୀ ପଞ୍ଚିନ୍ ମେନ୍ନଡିୟାଲ, 'ଯାହାଙ୍କ ପାଦ ତୂଳା ପରି କୋମଳ', ଙ୍କ ସହ ପୂଜିତ, ଏବଂ ମନ୍ଦିରଟି ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ତେବାରମ୍‌ରେ ଗୀତ।",
   "sections": {
-    "history": "Thoovainathar stands on the East Street of Tiruvarur, within the great temple town that is the heart of the Kaveri delta's Shaiva tradition. Its historical name is Arur Paravaiyunmandali — 'Arur, the mansion-quarter of Paravai' — recalling Paravai Nachiyar, the wife of the saint Sundarar, who lived in Tiruvarur. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar, counted among the shrines of the southern Kaveri. The stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian temple of the town, the shrine enshrines Thoovainathar in the sanctum, with the goddess Panchin Mennadiyal — in Sanskrit Mridupada Nayaki, 'she whose feet are soft as cotton' — in her own shrine, a Nandi and the parivara devatas. Though modest beside the vast Thyagaraja temple nearby, it keeps its own place in the sacred map of Tiruvarur.",
-    "legends": "The historical name joins the shrine to the story of Sundarar and Paravai Nachiyar, his first wife, whose home was in Tiruvarur — a story in which, by the tradition of the town, Shiva himself walked as a messenger between the saint and his beloved. The goddess's tender name, Panchin Mennadiyal, 'she of the cotton-soft feet,' belongs to the gentle grace of Devi. As one shrine within the great Tiruvarur, its own sthala purana is woven into the larger lore of the town.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship. Pilgrims to the great temples of Tiruvarur, following the Paadal Petra trail, include Thoovainathar among the shrines of the town.",
-    "experience": "At Thoovainathar the pilgrim finds a quieter shrine within the great Tiruvarur, rich in the memory of Sundarar and Paravai. Before Thoovainathar and the cotton-soft-footed Panchin Mennadiyal, the visitor touches a corner of the town's vast Shaiva story, where even the smaller temples carry a famous name."
+    "history": "ତୂବୈନାଥର ତିରୁବାରୁରର ପୂର୍ବ ରାସ୍ତାରେ ଅବସ୍ଥିତ, ଯେଉଁ ମହାନ ମନ୍ଦିର ନଗରୀ କାବେରୀ ବଦ୍ୱୀପର ଶୈବ ପରମ୍ପରାର ହୃଦୟ। ଏହାର ଐତିହାସିକ ନାମ ଆରୂର ପରବୈୟୁଣ୍‌ମଣ୍ଡଳୀ — 'ଆରୂର, ପରବୈଙ୍କ ପ୍ରାସାଦ-ପଡ଼ା' — ଯାହା ସନ୍ଥ ସୁନ୍ଦରଙ୍କ ପତ୍ନୀ ପରବୈ ନାଚ୍ଚିୟାରଙ୍କୁ ସ୍ମରଣ କରାଏ, ଯେ ତିରୁବାରୁରରେ ବାସ କରୁଥିଲେ। ଏହା ଏକ ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍, ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ତେବାରମ୍‌ରେ ସ୍ତୁତ, ଦକ୍ଷିଣ କାବେରୀର ମନ୍ଦିର ମଧ୍ୟରେ ଗଣିତ। ପ୍ରସ୍ତର ମନ୍ଦିର ଚୋଳ ଯୁଗର ଓ ତା'ପରର।",
+    "architecture": "ନଗରର ଏକ ଦ୍ରାବିଡ଼ ମନ୍ଦିର, ଗର୍ଭଗୃହରେ ତୂବୈନାଥର ବିରାଜିତ, ଦେବୀ ପଞ୍ଚିନ୍ ମେନ୍ନଡିୟାଲ — ସଂସ୍କୃତରେ ମୃଦୁପାଦ ନାୟକୀ, 'ଯାହାଙ୍କ ପାଦ ତୂଳା ପରି କୋମଳ' — ନିଜ ମନ୍ଦିରରେ, ଏକ ନନ୍ଦୀ ଓ ପରିବାର ଦେବତାମାନଙ୍କ ସହ। ନିକଟର ବିଶାଳ ତ୍ୟାଗରାଜ ମନ୍ଦିର ତୁଳନାରେ ସାଧାରଣ ହେଲେ ମଧ୍ୟ, ଏହା ତିରୁବାରୁରର ପବିତ୍ର ମାନଚିତ୍ରରେ ନିଜର ସ୍ଥାନ ରକ୍ଷା କରେ।",
+    "legends": "ଐତିହାସିକ ନାମ ମନ୍ଦିରକୁ ସୁନ୍ଦର ଓ ତାଙ୍କ ପ୍ରଥମ ପତ୍ନୀ ପରବୈ ନାଚ୍ଚିୟାରଙ୍କ କାହାଣୀ ସହ ଯୋଡ଼େ, ଯାହାଙ୍କ ଗୃହ ତିରୁବାରୁରରେ ଥିଲା — ଏକ କାହାଣୀ ଯେଉଁଥିରେ ନଗରର ପରମ୍ପରା ଅନୁସାରେ ଶିବ ନିଜେ ସନ୍ଥ ଓ ତାଙ୍କ ପ୍ରିୟାଙ୍କ ମଧ୍ୟରେ ଦୂତ ଭାବେ ଚାଲିଥିଲେ। ଦେବୀଙ୍କ କୋମଳ ନାମ ପଞ୍ଚିନ୍ ମେନ୍ନଡିୟାଲ, 'ତୂଳା ପରି କୋମଳ ପାଦ ଥିବା ସେ', ଦେବୀଙ୍କ ସ୍ନିଗ୍ଧ କୃପାର ଅଟେ। ମହାନ ତିରୁବାରୁରର ଏକ ମନ୍ଦିର ଭାବେ, ଏହାର ନିଜ ସ୍ଥଳ ପୁରାଣ ନଗରର ବୃହତ୍ତର କିମ୍ବଦନ୍ତୀରେ ବୁଣା ହୋଇଛି।",
+    "festivals": "ମନ୍ଦିର ମାସୀ (ଫେବୃଆରୀ–ମାର୍ଚ୍ଚ)ରେ ମହାଶିବରାତ୍ରି, ପୁରଟ୍ଟାସି (ସେପ୍ଟେମ୍ବର–ଅକ୍ଟୋବର)ରେ ନବରାତ୍ରି ଏବଂ କାର୍ତ୍ତିକାଇର ସୋମବାର ପାଳନ କରେ, ପ୍ରଦୋଷ ପୂଜା ସହ। ପାଡ଼ଲ ପେତ୍ର ପଥ ଅନୁସରଣ କରୁଥିବା ତିରୁବାରୁରର ମହାନ ମନ୍ଦିରମାନଙ୍କୁ ଆସୁଥିବା ତୀର୍ଥଯାତ୍ରୀମାନେ ତୂବୈନାଥରକୁ ନଗରର ମନ୍ଦିର ମଧ୍ୟରେ ଅନ୍ତର୍ଭୁକ୍ତ କରନ୍ତି।",
+    "experience": "ତୂବୈନାଥରରେ ତୀର୍ଥଯାତ୍ରୀ ମହାନ ତିରୁବାରୁର ମଧ୍ୟରେ ଏକ ଶାନ୍ତ ମନ୍ଦିର ପାଆନ୍ତି, ସୁନ୍ଦର ଓ ପରବୈଙ୍କ ସ୍ମୃତିରେ ସମୃଦ୍ଧ। ତୂବୈନାଥର ଓ ତୂଳା-କୋମଳ-ପାଦ ପଞ୍ଚିନ୍ ମେନ୍ନଡିୟାଲଙ୍କ ସମ୍ମୁଖରେ, ଦର୍ଶନାର୍ଥୀ ନଗରର ବିଶାଳ ଶୈବ କାହାଣୀର ଏକ କୋଣକୁ ଛୁଅନ୍ତି, ଯେଉଁଠାରେ ଛୋଟ ମନ୍ଦିରଗୁଡ଼ିକ ମଧ୍ୟ ଏକ ପ୍ରସିଦ୍ଧ ନାମ ବହନ କରନ୍ତି।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Thoovainathar is on the East Street of Tiruvarur town, within easy reach of the great Thyagaraja temple. Tiruvarur has its own railway station and bus stand; the shrine is a short walk or auto ride within the town."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳରୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା; ବିଶେଷତଃ ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "dressCode": "ସଂଯତ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢଙ୍କା; ପାଦୁକା ପ୍ରବେଶଦ୍ୱାରରେ ଛାଡ଼ାଯାଏ।",
+    "photography": "ବାହ୍ୟ ଗଳିପଥରେ ସାଧାରଣତଃ ଫଟୋଗ୍ରାଫି ଅନୁମତ କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ଅନୁଷ୍ଠାନର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ତୂବୈନାଥର ତିରୁବାରୁର ନଗରର ପୂର୍ବ ରାସ୍ତାରେ, ମହାନ ତ୍ୟାଗରାଜ ମନ୍ଦିରର ସହଜ ପହଞ୍ଚ ମଧ୍ୟରେ ଅବସ୍ଥିତ। ତିରୁବାରୁରର ନିଜସ୍ୱ ରେଳ ଷ୍ଟେସନ ଓ ବସ୍ ଷ୍ଟାଣ୍ଡ ଅଛି; ମନ୍ଦିର ନଗର ମଧ୍ୟରେ ଅଳ୍ପ ପଦଯାତ୍ରା ବା ଅଟୋ ଯାତ୍ରାରେ ପହଞ୍ଚିହୁଏ।"
   }
 }

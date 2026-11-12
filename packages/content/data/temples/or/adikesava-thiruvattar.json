@@ -1,31 +1,38 @@
 {
   "id": "adikesava-thiruvattar",
   "locale": "or",
+  "name": "ଆଦିକେଶବ ପେରୁମାଳ ମନ୍ଦିର, ତିରୁବଟ୍ଟାର",
   "nativeName": "ஆதிகேசவப் பெருமாள் கோயில், திருவட்டாறு",
+  "deity": "ବିଷ୍ଣୁ ଆଦିକେଶବ ପେରୁମାଳ ରୂପେ, ଅନନ୍ତ ନାଗ ଆଦିଶେଷ ଉପରେ ଶୟନ କରିଥିବା, ଦେବୀ ମରକତବଲ୍ଲୀଙ୍କ ସହିତ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Thiruvattar, Kanyakumari district",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁବଟ୍ଟାର, କନ୍ୟାକୁମାରୀ ଜିଲ୍ଲା",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 8.3297,
     "lng": 77.2658
   },
+  "period": "କୋତୈ ଓ ପରାଳି ନଦୀ ଦ୍ୱାରା ଘେରା ମଳୟ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ନମ୍ମାଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ବନ୍ଦିତ",
   "century": 8,
+  "dynasty": "ଚୋଳ, ବେଣାଡ଼ ଓ ତିରୁବାଙ୍କୁର",
+  "style": "କେରଳ ବୈଶିଷ୍ଟ୍ୟ ସହିତ ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-the-deep-south"
   ],
+  "summary": "କୋତୈ ଓ ପରାଳି ନଦୀ ଏକ ଉଚ୍ଚ ଦ୍ୱୀପକୁ ଘେରି ବକ୍ର ହୋଇ ବହୁଥିବା ସ୍ଥାନରେ, ବିଷ୍ଣୁ ଆଦିକେଶବ ପେରୁମାଳ ରୂପେ ଆଦିଶେଷ ନାଗ ଉପରେ ଶୟନ କରିଛନ୍ତି — ନମ୍ମାଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ବନ୍ଦିତ ମଳୟ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ରୂପରେ ତିରୁବନନ୍ତପୁରମ୍‌ର ପଦ୍ମନାଭଙ୍କ ସହିତ ସମ୍ପର୍କିତ।",
   "sections": {
-    "history": "Thiruvattar — 'the place of the encircling river' — is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and is counted among the shrines of Malai Nadu, the Divya Desams of the Kerala country. Nammalvar sang its reclining lord. The temple's recorded history reaches back to an inscription of the Chola emperor Rajendra I on its bali stone, which names the deity as the god of Thiruvattar. In later centuries the rulers of Venad, forebears of the Travancore royal house, became its patrons: an inscription ascribes the single-stone mandapa to Veera Ravi Varma Kulasekhara, and in the late nineteenth century Moolam Thirunal Rama Varma of Travancore renewed the temple's flagstaff.",
-    "architecture": "The temple stands on raised ground with the rivers curving around it, its granite sanctum roofed in copper in the manner of the Kerala country. Before the sanctum is the Ottakkal Mandapam, the hall associated with a single great stone, whose building is recorded in an inscription of the Venad kings. The reclining image is around 22 feet long — so long that, as at Thiruvananthapuram, it is seen in portions through the three doorways of the sanctum: face, body and feet. One hand hangs gently down while the other is raised in blessing, an uncommon pose.",
-    "legends": "The sthala purana tells that the demons Kesan and Kesi rose to trouble the world, and that Vishnu overcame Kesi and lay down upon him, taking the name Adikesava. Tradition adds that Kesi's wife called on the rivers to sweep the place away, and that the lord raised the ground so that the waters could only flow around it like a garland — the encircling river that gives Thiruvattar its name. Devotees say the lord faces west, toward his kinsman Padmanabha at Thiruvananthapuram.",
-    "festivals": "The Brahmotsavam in the Tamil month of Aippasi (October–November) is the temple's great festival, with processions of the utsava deity. Vaikunta Ekadashi in Margazhi, the Saturdays of Purattasi and Onam are kept with devotion, and in Panguni (March–April) devotees gather for the evenings when the setting sun's rays are said to fall upon the reclining lord.",
-    "experience": "Come in the cool of the morning, when the rivers below the temple catch the light and the sanctum lamps are lit. Take time at the three doorways to see the reclining lord in turn, then rest in the Ottakkal Mandapam. Many pilgrims pair Thiruvattar with the Padmanabhaswamy temple at Thiruvananthapuram and with Thiruvanparisaram near Nagercoil, the other Malai Nadu shrines of this southern country."
+    "history": "ତିରୁବଟ୍ଟାର — 'ଘେରି ବହୁଥିବା ନଦୀର ସ୍ଥାନ' — ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍ ମଧ୍ୟରୁ ଅନ୍ୟତମ, ଯେଉଁ ବିଷ୍ଣୁ ନିବାସଗୁଡ଼ିକୁ ଆଳ୍ୱାରମାନେ ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ଗାଇଛନ୍ତି, ଏବଂ ଏହା କେରଳ ଅଞ୍ଚଳର ଦିବ୍ୟ ଦେଶମ୍ ଅର୍ଥାତ୍ ମଳୟ ନାଡୁର ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ ଗଣାଯାଏ। ନମ୍ମାଳ୍ୱାର ଏହାର ଶୟନ ପ୍ରଭୁଙ୍କର ସ୍ତୁତି ଗାଇଛନ୍ତି। ମନ୍ଦିରର ଲିପିବଦ୍ଧ ଇତିହାସ ଚୋଳ ସମ୍ରାଟ ପ୍ରଥମ ରାଜେନ୍ଦ୍ରଙ୍କ ବଳି ପଥରରେ ଥିବା ଏକ ଶିଳାଲେଖ ପର୍ଯ୍ୟନ୍ତ ପହଞ୍ଚେ, ଯେଉଁଥିରେ ଦେବତାଙ୍କୁ ତିରୁବଟ୍ଟାରର ଭଗବାନ ବୋଲି ନାମିତ କରାଯାଇଛି। ପରବର୍ତ୍ତୀ ଶତାବ୍ଦୀମାନଙ୍କରେ ବେଣାଡ଼ର ଶାସକମାନେ, ତିରୁବାଙ୍କୁର ରାଜପରିବାରର ପୂର୍ବପୁରୁଷ, ଏହାର ପୃଷ୍ଠପୋଷକ ହେଲେ: ଏକ ଶିଳାଲେଖ ଏକ-ପଥର ମଣ୍ଡପକୁ ବୀର ରବି ବର୍ମା କୁଳଶେଖରଙ୍କ ସହିତ ଯୋଡ଼େ, ଏବଂ ଊନବିଂଶ ଶତାବ୍ଦୀର ଶେଷ ଭାଗରେ ତିରୁବାଙ୍କୁରର ମୂଳମ୍ ତିରୁନାଳ ରାମ ବର୍ମା ମନ୍ଦିରର ଧ୍ୱଜସ୍ତମ୍ଭକୁ ନବୀକରଣ କରିଥିଲେ।",
+    "architecture": "ମନ୍ଦିରଟି ଉଚ୍ଚ ଭୂମିରେ ଅବସ୍ଥିତ, ଯାହାକୁ ନଦୀ ବକ୍ର ହୋଇ ଘେରିଛି; ଏହାର ଗ୍ରାନାଇଟ୍ ଗର୍ଭଗୃହ କେରଳ ଅଞ୍ଚଳର ଶୈଳୀରେ ତମ୍ବାରେ ଛାଉଣୀ ହୋଇଛି। ଗର୍ଭଗୃହ ସମ୍ମୁଖରେ ଓଟ୍ଟକ୍କଲ୍ ମଣ୍ଡପମ୍, ଯାହା ଗୋଟିଏ ବିରାଟ ପଥର ସହିତ ଜଡ଼ିତ ହଲ୍, ଯାହାର ନିର୍ମାଣ ବେଣାଡ଼ ରାଜାମାନଙ୍କ ଏକ ଶିଳାଲେଖରେ ଲିପିବଦ୍ଧ। ଶୟନ ମୂର୍ତ୍ତି ପ୍ରାୟ ୨୨ ଫୁଟ ଲମ୍ବ — ଏତେ ଲମ୍ବ ଯେ ତିରୁବନନ୍ତପୁରମ୍ ପରି, ଗର୍ଭଗୃହର ତିନୋଟି ଦ୍ୱାର ଦେଇ ଅଂଶ ଅଂଶ କରି ଦେଖାଯାଏ: ମୁଖ, ଶରୀର ଓ ପାଦ। ଗୋଟିଏ ହାତ କୋମଳ ଭାବେ ତଳକୁ ଝୁଲିଛି ଏବଂ ଅନ୍ୟଟି ଆଶୀର୍ବାଦରେ ଉଠିଛି, ଏକ ବିରଳ ମୁଦ୍ରା।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ କହେ ଯେ କେଶନ୍ ଓ କେଶୀ ଅସୁରମାନେ ଜଗତକୁ କଷ୍ଟ ଦେବାକୁ ଉଠିଲେ, ଏବଂ ବିଷ୍ଣୁ କେଶୀକୁ ପରାସ୍ତ କରି ତାହା ଉପରେ ଶୟନ କଲେ, ଆଦିକେଶବ ନାମ ଗ୍ରହଣ କରି। ପରମ୍ପରା ଆହୁରି କହେ ଯେ କେଶୀଙ୍କ ପତ୍ନୀ ସ୍ଥାନଟିକୁ ଭସାଇ ନେବା ପାଇଁ ନଦୀମାନଙ୍କୁ ଆହ୍ୱାନ କଲେ, ଏବଂ ପ୍ରଭୁ ଭୂମିକୁ ଉଚ୍ଚ କଲେ ଯାହାଫଳରେ ଜଳ କେବଳ ଏହାକୁ ମାଳା ପରି ଘେରି ବହିପାରିବ — ସେହି ଘେରି ବହୁଥିବା ନଦୀ ତିରୁବଟ୍ଟାରକୁ ଏହାର ନାମ ଦିଏ। ଭକ୍ତମାନେ କହନ୍ତି ପ୍ରଭୁ ପଶ୍ଚିମମୁଖୀ, ତିରୁବନନ୍ତପୁରମ୍‌ର ତାଙ୍କ ସମ୍ପର୍କୀୟ ପଦ୍ମନାଭଙ୍କ ଆଡ଼କୁ।",
+    "festivals": "ତାମିଲ ମାସ ଆୟିପ୍ପସୀରେ (ଅକ୍ଟୋବର–ନଭେମ୍ବର) ବ୍ରହ୍ମୋତ୍ସବ ମନ୍ଦିରର ମହାନ୍ ଉତ୍ସବ, ଉତ୍ସବ ଦେବତାଙ୍କ ଶୋଭାଯାତ୍ରା ସହିତ। ମାର୍ଗଳୀରେ ବୈକୁଣ୍ଠ ଏକାଦଶୀ, ପୁରଟ୍ଟାସୀର ଶନିବାର ଓ ଓଣମ୍ ଭକ୍ତି ସହିତ ପାଳିତ ହୁଏ, ଏବଂ ପଙ୍ଗୁନିରେ (ମାର୍ଚ୍ଚ–ଏପ୍ରିଲ) ଅସ୍ତମିତ ସୂର୍ଯ୍ୟର କିରଣ ଶୟନ ପ୍ରଭୁଙ୍କ ଉପରେ ପଡ଼େ ବୋଲି କୁହାଯାଉଥିବା ସନ୍ଧ୍ୟାମାନଙ୍କରେ ଭକ୍ତମାନେ ଏକତ୍ରିତ ହୁଅନ୍ତି।",
+    "experience": "ସକାଳର ଶୀତଳତାରେ ଆସନ୍ତୁ, ଯେତେବେଳେ ମନ୍ଦିର ତଳର ନଦୀ ଆଲୋକ ଧରେ ଏବଂ ଗର୍ଭଗୃହର ଦୀପ ଜଳାଯାଏ। ତିନୋଟି ଦ୍ୱାରରେ ଶୟନ ପ୍ରଭୁଙ୍କୁ କ୍ରମାନ୍ୱୟରେ ଦେଖିବାକୁ ସମୟ ନିଅନ୍ତୁ, ତା'ପରେ ଓଟ୍ଟକ୍କଲ୍ ମଣ୍ଡପମ୍‌ରେ ବିଶ୍ରାମ ନିଅନ୍ତୁ। ଅନେକ ତୀର୍ଥଯାତ୍ରୀ ତିରୁବଟ୍ଟାରକୁ ତିରୁବନନ୍ତପୁରମ୍‌ର ପଦ୍ମନାଭସ୍ୱାମୀ ମନ୍ଦିର ଏବଂ ନାଗରକୋଇଲ ନିକଟର ତିରୁବନ୍ପରିସାରମ୍ ସହିତ ଯୋଡ଼ନ୍ତି, ଏହି ଦକ୍ଷିଣ ଅଞ୍ଚଳର ଅନ୍ୟ ମଳୟ ନାଡୁ ମନ୍ଦିରମାନ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan and a midday closure, following the temple's own schedule; festival days are crowded. Confirm current timings locally before you visit.",
-    "dressCode": "Traditional dress is expected: following the Kerala custom observed here, men may be asked to remove their shirts and enter in a dhoti, and women wear saree or other traditional dress; footwear is left outside. Follow posted rules and the guidance of temple staff.",
-    "photography": "Photography is not permitted in and around the sanctum; follow posted rules and the guidance of temple staff.",
-    "gettingThere": "Thiruvattar lies in Kalkulam taluk of Kanyakumari district, inland from Marthandam, and is reached by road from Marthandam, Kuzhithurai or Nagercoil. Kuzhithurai and Nagercoil have railway stations, and Thiruvananthapuram has the nearest airport."
+    "timings": "ମନ୍ଦିରର ନିଜସ୍ୱ ସମୟସୂଚୀ ଅନୁଯାୟୀ ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ସହିତ ଖୋଲା, ମଝିରେ ମଧ୍ୟାହ୍ନ ବନ୍ଦ; ଉତ୍ସବ ଦିନରେ ଭିଡ଼ ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ: ଏଠାରେ ପାଳିତ କେରଳ ପ୍ରଥା ଅନୁସାରେ, ପୁରୁଷମାନଙ୍କୁ ଅଙ୍ଗରଖା ଖୋଲି ଧୋତି ପିନ୍ଧି ପ୍ରବେଶ କରିବାକୁ କୁହାଯାଇପାରେ, ଏବଂ ମହିଳାମାନେ ଶାଢ଼ୀ ବା ଅନ୍ୟ ପାରମ୍ପରିକ ପୋଷାକ ପିନ୍ଧନ୍ତି; ଜୋତା ବାହାରେ ରଖାଯାଏ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ଅନୁମୋଦିତ ନୁହେଁ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ତିରୁବଟ୍ଟାର କନ୍ୟାକୁମାରୀ ଜିଲ୍ଲାର କଲକୁଳମ୍ ତାଲୁକରେ, ମାର୍ତ୍ତାଣ୍ଡମ୍ ଭିତରପାଖରେ ଅବସ୍ଥିତ, ଏବଂ ମାର୍ତ୍ତାଣ୍ଡମ୍, କୁଝିତୁରାଇ ବା ନାଗରକୋଇଲରୁ ସଡ଼କ ପଥରେ ପହଞ୍ଚିହୁଏ। କୁଝିତୁରାଇ ଓ ନାଗରକୋଇଲରେ ରେଳ ଷ୍ଟେସନ୍ ଅଛି, ଏବଂ ତିରୁବନନ୍ତପୁରମ୍‌ରେ ନିକଟତମ ବିମାନବନ୍ଦର ଅଛି।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.jpg",

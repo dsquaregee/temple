@@ -1,29 +1,36 @@
 {
   "id": "pavana-narasimha-ahobilam",
   "locale": "or",
+  "name": "ପାବନ ନରସିଂହ ମନ୍ଦିର, ଅହୋବିଳମ୍",
   "nativeName": "పావన నరసింహ ఆలయం, అహోబిలం",
+  "deity": "ବିଷ୍ଣୁ ପାବନ ନରସିଂହ ରୂପେ — ଲକ୍ଷ୍ମୀଙ୍କ ସହିତ ପୂଜିତ, ଯାହାଙ୍କୁ ଏଠାରେ ଚେଞ୍ଚୁ ଲକ୍ଷ୍ମୀ ରୂପେ ପୂଜା କରାଯାଏ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Ahobilam",
-    "state": "Andhra Pradesh",
+    "city": "ଅହୋବିଳମ୍",
+    "state": "ଆନ୍ଧ୍ର ପ୍ରଦେଶ",
     "lat": 15.095,
     "lng": 78.76
   },
+  "period": "ଆନ୍ଧ୍ର ପ୍ରଦେଶର ନଲ୍ଲମଲ ପର୍ବତରେ ଅହୋବିଳମ୍‌ର ନବ ନରସିଂହ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ",
   "century": 15,
+  "dynasty": "ବିଜୟନଗର ପୃଷ୍ଠପୋଷକତା",
+  "style": "ଛୋଟ ଦ୍ରାବିଡ଼ ମନ୍ଦିର",
   "unesco": false,
   "circuits": [
     "ahobilam-nava-narasimha"
   ],
+  "summary": "ନଲ୍ଲମଲ ଅରଣ୍ୟର ଗଭୀରରେ ପାବନ ଝରଣା କୂଳରେ, ପାବନ ନରସିଂହ ଅହୋବିଳମ୍‌ର ନଅ ମନ୍ଦିର ମଧ୍ୟରେ ସବୁଠାରୁ ଦୂରବର୍ତ୍ତୀ — ଯେଉଁଠାରେ ପ୍ରଭୁ ପାହାଡ଼ିଆ ଲୋକଙ୍କ କନ୍ୟା ଚେଞ୍ଚୁ ଲକ୍ଷ୍ମୀଙ୍କ ସହିତ ପୂଜିତ।",
   "sections": {
-    "history": "Pavana Narasimha is the most secluded of the nine Narasimha shrines of Ahobilam, set on the bank of the Pavana stream, from which it takes its name. It lies some six to seven kilometres from Upper Ahobilam by forest footpath, or considerably farther by a rough jeep track through the Nallamala forest from Lower Ahobilam. Its remoteness has kept it close to the Chenchu, the forest-dwelling people of these hills, whose bond with Narasimha runs through Ahobilam's traditions. The shrine is within the Ahobila Matha's worship of the nine forms, and pilgrims regard reaching it as the crowning effort of the Nava Narasimha yatra.",
-    "architecture": "The temple is a small shrine in a forest clearing by the stream, with a simple mandapa before the sanctum. Here Narasimha is seated with Lakshmi, revered locally as Chenchu Lakshmi, at his side, and a separate shrine to Chenchu Lakshmi stands nearby. The setting — dense forest, running water and hills on every side — is as much a part of the darshan as the stone.",
-    "legends": "The sthala purana tells that the sage Bharadwaja performed penance here and was freed from a grave sin through the grace of Narasimha; pavana means purifying, and the place is held to cleanse all who come with devotion. Chenchu tradition holds that Lakshmi was born among them as Chenchu Lakshmi and wed the Lord after he had slain Hiranyakashipu. In the astrological reading of the nine shrines, Pavana is linked with Mercury.",
-    "festivals": "Narasimha Jayanti and the annual Brahmotsavam of Ahobilam are the main occasions; weekends and festival days bring a stream of jeeps along the forest track. Confirm dates locally.",
-    "experience": "This is a journey for the prepared. The jeep ride is long and jolting and fords streams; the walking route from Upper Ahobilam is a full forest trek. Forest officials control entry and turn vehicles back late in the day, so set out in the morning. Carry water and food — there are few facilities in the forest."
+    "history": "ପାବନ ନରସିଂହ ଅହୋବିଳମ୍‌ର ନଅଟି ନରସିଂହ ମନ୍ଦିର ମଧ୍ୟରେ ସବୁଠାରୁ ନିର୍ଜନ, ପାବନ ଝରଣା କୂଳରେ ଅବସ୍ଥିତ, ଯେଉଁଥିରୁ ଏହାର ନାମ। ଏହା ଉପର ଅହୋବିଳମ୍‌ରୁ ଜଙ୍ଗଲ ପାଦପଥ ଦେଇ ପ୍ରାୟ ଛଅ ସାତ କିଲୋମିଟର, କିମ୍ବା ତଳ ଅହୋବିଳମ୍‌ରୁ ନଲ୍ଲମଲ ଜଙ୍ଗଲ ଦେଇ ଏକ ଉଚ୍ଚାବଚ ଜିପ୍ ପଥରେ ବହୁତ ଅଧିକ ଦୂରରେ। ଏହାର ଦୂରତା ଏହାକୁ ଚେଞ୍ଚୁ, ଏହି ପାହାଡ଼ର ଜଙ୍ଗଲବାସୀ ଲୋକଙ୍କ ନିକଟତର ରଖିଛି, ଯାହାଙ୍କ ନରସିଂହଙ୍କ ସହିତ ବନ୍ଧନ ଅହୋବିଳମ୍‌ର ପରମ୍ପରାରେ ପ୍ରବାହିତ। ମନ୍ଦିର ଅହୋବିଳ ମଠର ନଅ ରୂପର ପୂଜା ଅନ୍ତର୍ଗତ, ଏବଂ ତୀର୍ଥଯାତ୍ରୀମାନେ ଏଠାରେ ପହଞ୍ଚିବାକୁ ନବ ନରସିଂହ ଯାତ୍ରାର ଶିରୋମଣି ପ୍ରୟାସ ମାନନ୍ତି।",
+    "architecture": "ମନ୍ଦିର ଝରଣା ପାଖରେ ଏକ ଜଙ୍ଗଲ ଫାଙ୍କା ସ୍ଥାନରେ ଏକ ଛୋଟ ମନ୍ଦିର, ଗର୍ଭଗୃହ ସମ୍ମୁଖରେ ଏକ ସରଳ ମଣ୍ଡପ ସହିତ। ଏଠାରେ ନରସିଂହ ଆସୀନ, ତାଙ୍କ ପାଖରେ ସ୍ଥାନୀୟ ଭାବେ ଚେଞ୍ଚୁ ଲକ୍ଷ୍ମୀ ରୂପେ ପୂଜିତ ଲକ୍ଷ୍ମୀ, ଏବଂ ନିକଟରେ ଚେଞ୍ଚୁ ଲକ୍ଷ୍ମୀଙ୍କ ପାଇଁ ଏକ ପୃଥକ୍ ମନ୍ଦିର ଅଛି। ପରିବେଶ — ଘନ ଜଙ୍ଗଲ, ପ୍ରବାହିତ ଜଳ ଓ ଚାରିପାଖରେ ପାହାଡ଼ — ପଥର ପରି ଦର୍ଶନର ଅଂଶ।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ କହେ ଯେ ଭରଦ୍ୱାଜ ଋଷି ଏଠାରେ ତପସ୍ୟା କଲେ ଏବଂ ନରସିଂହଙ୍କ କୃପାରେ ଏକ ଗୁରୁତର ପାପରୁ ମୁକ୍ତ ହେଲେ; ପାବନ ଅର୍ଥ ପବିତ୍ରକାରୀ, ଏବଂ ଏହି ସ୍ଥାନ ଭକ୍ତି ସହିତ ଆସୁଥିବା ସମସ୍ତଙ୍କୁ ଶୁଦ୍ଧ କରେ ବୋଲି ମାନ୍ୟ। ଚେଞ୍ଚୁ ପରମ୍ପରା କହେ ଯେ ଲକ୍ଷ୍ମୀ ସେମାନଙ୍କ ମଧ୍ୟରେ ଚେଞ୍ଚୁ ଲକ୍ଷ୍ମୀ ରୂପେ ଜନ୍ମ ନେଲେ ଏବଂ ପ୍ରଭୁ ହିରଣ୍ୟକଶିପୁଙ୍କୁ ବଧ କରିବା ପରେ ତାଙ୍କୁ ବିବାହ କଲେ। ନଅ ମନ୍ଦିରର ଜ୍ୟୋତିଷ ପାଠରେ ପାବନ ବୁଧ ଗ୍ରହ ସହିତ ସମ୍ପୃକ୍ତ।",
+    "festivals": "ନରସିଂହ ଜୟନ୍ତୀ ଓ ଅହୋବିଳମ୍‌ର ବାର୍ଷିକ ବ୍ରହ୍ମୋତ୍ସବମ୍ ମୁଖ୍ୟ ଅବସର; ସପ୍ତାହାନ୍ତ ଓ ଉତ୍ସବ ଦିନ ଜଙ୍ଗଲ ପଥରେ ଜିପ୍‌ର ଧାରା ଆଣେ। ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "ଏହା ପ୍ରସ୍ତୁତ ବ୍ୟକ୍ତିଙ୍କ ପାଇଁ ଏକ ଯାତ୍ରା। ଜିପ୍ ଯାତ୍ରା ଲମ୍ବା ଓ ଝଟକାଯୁକ୍ତ ଏବଂ ଝରଣା ପାର କରେ; ଉପର ଅହୋବିଳମ୍‌ରୁ ପଦଯାତ୍ରା ପଥ ଏକ ପୂର୍ଣ୍ଣ ଜଙ୍ଗଲ ଟ୍ରେକ୍। ବନ ଅଧିକାରୀମାନେ ପ୍ରବେଶ ନିୟନ୍ତ୍ରଣ କରନ୍ତି ଏବଂ ଦିନ ଶେଷ ଆଡ଼କୁ ଯାନବାହନ ଫେରାଇ ଦିଅନ୍ତି, ତେଣୁ ସକାଳୁ ବାହାରନ୍ତୁ। ପାଣି ଓ ଖାଦ୍ୟ ସାଙ୍ଗରେ ରଖନ୍ତୁ — ଜଙ୍ଗଲରେ ସୁବିଧା ଅଳ୍ପ।"
   },
   "visit": {
-    "timings": "Worship is offered daily, but forest access is regulated by the Forest Department and vehicles are not allowed in late in the day; set out in the morning. Confirm current timings and access rules locally.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "From Lower Ahobilam (reached by road via Allagadda; Nandyal is the nearest major railhead), hire a local four-wheel-drive jeep for the forest track; private vehicles are generally not permitted. A footpath of about six to seven kilometres also leads from Upper Ahobilam; go with a local guide."
+    "timings": "ପୂଜା ପ୍ରତିଦିନ ଅର୍ପିତ ହୁଏ, କିନ୍ତୁ ଜଙ୍ଗଲ ପ୍ରବେଶ ବନ ବିଭାଗ ଦ୍ୱାରା ନିୟନ୍ତ୍ରିତ ଏବଂ ଦିନ ଶେଷ ଆଡ଼କୁ ଯାନବାହନକୁ ଅନୁମତି ନାହିଁ; ସକାଳୁ ବାହାରନ୍ତୁ। ବର୍ତ୍ତମାନର ସମୟ ଓ ପ୍ରବେଶ ନିୟମ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ବିନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢଙ୍କା; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲିବାକୁ ହେବ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକମାନଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋଗ୍ରାଫି ନିୟନ୍ତ୍ରିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକମାନଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ତଳ ଅହୋବିଳମ୍‌ରୁ (ଅଲ୍ଲାଗଡ୍ଡା ଦେଇ ସଡ଼କ ପଥରେ ପହଞ୍ଚିବା; ନନ୍ଦ୍ୟାଲ ନିକଟତମ ପ୍ରମୁଖ ରେଳ ସଂଯୋଗ), ଜଙ୍ଗଲ ପଥ ପାଇଁ ଏକ ସ୍ଥାନୀୟ ଚତୁର୍ଚକ୍ରୀ ଜିପ୍ ଭଡ଼ା କରନ୍ତୁ; ବ୍ୟକ୍ତିଗତ ଯାନବାହନ ସାଧାରଣତଃ ଅନୁମୋଦିତ ନୁହେଁ। ଉପର ଅହୋବିଳମ୍‌ରୁ ପ୍ରାୟ ଛଅ ସାତ କିଲୋମିଟରର ଏକ ପାଦପଥ ମଧ୍ୟ ଅଛି; ସ୍ଥାନୀୟ ଗାଇଡ୍ ସହିତ ଯାଆନ୍ତୁ।"
   }
 }

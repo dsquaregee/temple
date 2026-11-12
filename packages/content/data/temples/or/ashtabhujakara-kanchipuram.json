@@ -1,31 +1,38 @@
 {
   "id": "ashtabhujakara-kanchipuram",
   "locale": "or",
+  "name": "ଅଷ୍ଟଭୁଜ ପେରୁମାଳ ମନ୍ଦିର, କାଞ୍ଚୀପୁରମ୍",
   "nativeName": "அஷ்டபுஜப் பெருமாள் கோயில், திருவட்டபுயகரம், காஞ்சிபுரம்",
+  "deity": "ବିଷ୍ଣୁ ଅଷ୍ଟଭୁଜ ପେରୁମାଳ, ଅଷ୍ଟବାହୁ ପ୍ରଭୁ ରୂପେ, ଯାହାଙ୍କୁ ଆଦିକେଶବ ପେରୁମାଳ ଓ ଗଜେନ୍ଦ୍ର ବରଦନ୍ ମଧ୍ୟ କୁହାଯାଏ, ଦେବୀ ଅଳର୍ମେଲ୍ମଙ୍ଗୈ (ପଦ୍ମାସନୀ) ଙ୍କ ସହିତ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "କାଞ୍ଚୀପୁରମ୍",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 12.823,
     "lng": 79.711
   },
+  "period": "କାଞ୍ଚୀପୁରମ୍‌ର ତୋଣ୍ଡୈ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଲାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ପେୟ ଆଳ୍ଵାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍ଵାରଙ୍କ ଦ୍ୱାରା ଗୀତ",
   "century": 8,
+  "dynasty": "ତୋଣ୍ଡୈ ଦେଶ (କାଞ୍ଚୀପୁରମ୍), ପରବର୍ତ୍ତୀ ଯୋଗ ସହିତ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "temples-of-kanchipuram"
   ],
+  "summary": "କାଞ୍ଚୀପୁରମ୍‌ରେ ବିଷ୍ଣୁ ଅଷ୍ଟଭୁଜ ପେରୁମାଳ ରୂପେ ପୂଜିତ, ଅଷ୍ଟବାହୁ ପ୍ରଭୁ ଯିଏ ବ୍ରହ୍ମାଙ୍କ ଯଜ୍ଞକୁ ରକ୍ଷା କରିବାକୁ ଉଠିଥିଲେ — ପେୟ ଆଳ୍ଵାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍ଵାରଙ୍କ ଦ୍ୱାରା ଗୀତ ତୋଣ୍ଡୈ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍।",
   "sections": {
-    "history": "Thiruvattabuyagaram — 'the sacred place of the eight arms' — is one of the 108 Divya Desams and one of the fourteen Divya Desams within Kanchipuram, the ancient capital of Thondai Nadu. It was sung by Pey Alvar, one of the three Mudhal Alvars, and by Thirumangai Alvar, whose pilgrim hymns gather in so many of Kanchi's Vishnu shrines. The Lord here is known by several names: Ashtabhuja Perumal for his eight arms, Adikesava Perumal, Chakradhar, and Gajendra Varadhan, the protector of the elephant. Among Kanchi's great temple cluster it is a smaller shrine, but its place in the Prabandham has kept it in the round of every Divya Desam pilgrim to the city.",
-    "architecture": "The temple follows the Dravidian plan of Kanchi's Vishnu shrines, entered through a gateway tower into a walled court, with the sanctum of the eight-armed Lord at the centre and the Goddess Alarmelmangai in her own shrine. The presiding image is the shrine's distinction: Vishnu shown with eight arms rather than the usual four, the form that gives the temple its name. Pillared halls open before the sanctum in the manner of the town's temples.",
-    "legends": "The sthala purana belongs to the great Kanchi cycle of Brahma's sacrifice. Saraswati, angered that Brahma had sided with Lakshmi, sent hostile forces to break up the sacrifice — in one telling a host of demons and then the fierce lion-bird Sharabha, in another a serpent. Vishnu rose to guard the rite, taking a form with eight arms, and drove them back. Another tradition links the shrine to Gajendra Moksha, the rescue of the elephant king from the crocodile — hence the name Gajendra Varadhan.",
-    "festivals": "The temple keeps the Vaishnava festival year of Kanchipuram — Vaikunta Ekadashi in Margazhi, the birth-stars of Pey Alvar and Thirumangai Alvar, and the annual festival of the presiding Lord, when the processional image comes out into the streets. Confirm festival dates locally.",
-    "experience": "Visit as part of a round of Kanchipuram's Divya Desams; the Azhagiya Singar temple of Thiruvelukkai lies close by. Pause before the eight-armed Lord and remember the legend of a sacrifice protected. A quieter shrine than the great temples of the town, it rewards a slow, attentive darshan."
+    "history": "ତିରୁବଟ୍ଟବୁୟକରମ୍ — 'ଆଠ ବାହୁର ପବିତ୍ର ସ୍ଥାନ' — ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍ ମଧ୍ୟରୁ ଅନ୍ୟତମ ଏବଂ ତୋଣ୍ଡୈ ନାଡୁର ପ୍ରାଚୀନ ରାଜଧାନୀ କାଞ୍ଚୀପୁରମ୍ ଭିତରେ ଥିବା ଚଉଦଟି ଦିବ୍ୟ ଦେଶମ୍ ମଧ୍ୟରୁ ଗୋଟିଏ। ଏହା ତିନି ମୁଦଲ୍ ଆଳ୍ଵାର ମଧ୍ୟରୁ ଜଣେ ପେୟ ଆଳ୍ଵାର ଏବଂ ତିରୁମଙ୍ଗୈ ଆଳ୍ଵାରଙ୍କ ଦ୍ୱାରା ଗୀତ ହୋଇଥିଲା, ଯାହାଙ୍କ ତୀର୍ଥଯାତ୍ରୀ ସ୍ତୋତ୍ର କାଞ୍ଚୀର ଏତେ ବିଷ୍ଣୁ ମନ୍ଦିରରେ ସଂଗୃହୀତ। ଏଠାରେ ପ୍ରଭୁ ଅନେକ ନାମରେ ପରିଚିତ: ଅଷ୍ଟବାହୁ ପାଇଁ ଅଷ୍ଟଭୁଜ ପେରୁମାଳ, ଆଦିକେଶବ ପେରୁମାଳ, ଚକ୍ରଧର, ଏବଂ ହାତୀର ରକ୍ଷକ ଗଜେନ୍ଦ୍ର ବରଦନ୍। କାଞ୍ଚୀର ମହାନ୍ ମନ୍ଦିର ଗୁଚ୍ଛ ମଧ୍ୟରେ ଏହା ଏକ ଛୋଟ ମନ୍ଦିର, କିନ୍ତୁ ପ୍ରବନ୍ଧମ୍‌ରେ ଏହାର ସ୍ଥାନ ଏହାକୁ ନଗରକୁ ଆସୁଥିବା ପ୍ରତ୍ୟେକ ଦିବ୍ୟ ଦେଶମ୍ ତୀର୍ଥଯାତ୍ରୀଙ୍କ ଯାତ୍ରାରେ ରଖିଛି।",
+    "architecture": "ମନ୍ଦିର କାଞ୍ଚୀର ବିଷ୍ଣୁ ମନ୍ଦିରମାନଙ୍କର ଦ୍ରାବିଡ଼ ଯୋଜନା ଅନୁସରଣ କରେ, ଏକ ଗୋପୁର ଦେଇ ପ୍ରାଚୀରବେଷ୍ଟିତ ପ୍ରାଙ୍ଗଣରେ ପ୍ରବେଶ, କେନ୍ଦ୍ରରେ ଅଷ୍ଟବାହୁ ପ୍ରଭୁଙ୍କ ଗର୍ଭଗୃହ ଏବଂ ଦେବୀ ଅଳର୍ମେଲ୍ମଙ୍ଗୈ ନିଜ ପୃଥକ୍ ମନ୍ଦିରରେ। ମୁଖ୍ୟ ମୂର୍ତ୍ତି ମନ୍ଦିରର ବିଶେଷତ୍ୱ: ସାଧାରଣ ଚାରି ବାହୁ ବଦଳରେ ଆଠ ବାହୁ ଥିବା ବିଷ୍ଣୁ, ଯେଉଁ ରୂପ ମନ୍ଦିରକୁ ଏହାର ନାମ ଦିଏ। ନଗରର ମନ୍ଦିରମାନଙ୍କ ଢଙ୍ଗରେ ଗର୍ଭଗୃହ ସମ୍ମୁଖରେ ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ ଖୋଲିଥାଏ।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ ବ୍ରହ୍ମାଙ୍କ ଯଜ୍ଞର ମହାନ୍ କାଞ୍ଚୀ ଚକ୍ରର ଅନ୍ତର୍ଗତ। ବ୍ରହ୍ମା ଲକ୍ଷ୍ମୀଙ୍କ ପକ୍ଷ ନେଇଥିବାରୁ କ୍ରୋଧିତ ସରସ୍ୱତୀ ଯଜ୍ଞ ଭଙ୍ଗ କରିବାକୁ ଶତ୍ରୁ ଶକ୍ତି ପଠାଇଲେ — ଏକ କାହାଣୀରେ ଅସୁରଙ୍କ ବାହିନୀ ଓ ତା'ପରେ ଭୟଙ୍କର ସିଂହ-ପକ୍ଷୀ ଶରଭ, ଅନ୍ୟଟିରେ ଏକ ସର୍ପ। ବିଷ୍ଣୁ ଯଜ୍ଞକୁ ରକ୍ଷା କରିବାକୁ ଉଠିଲେ, ଆଠ ବାହୁର ରୂପ ଧାରଣ କରି ସେମାନଙ୍କୁ ପଛକୁ ଠେଲିଦେଲେ। ଆଉ ଏକ ପରମ୍ପରା ମନ୍ଦିରକୁ ଗଜେନ୍ଦ୍ର ମୋକ୍ଷ, କୁମ୍ଭୀରଠାରୁ ହାତୀରାଜାଙ୍କ ଉଦ୍ଧାର, ସହ ଯୋଡ଼େ — ସେଥିପାଇଁ ଗଜେନ୍ଦ୍ର ବରଦନ୍ ନାମ।",
+    "festivals": "ମନ୍ଦିର କାଞ୍ଚୀପୁରମ୍‌ର ବୈଷ୍ଣବ ଉତ୍ସବ ବର୍ଷ ପାଳନ କରେ — ମାର୍ଗଳିରେ ବୈକୁଣ୍ଠ ଏକାଦଶୀ, ପେୟ ଆଳ୍ଵାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍ଵାରଙ୍କ ଜନ୍ମନକ୍ଷତ୍ର, ଏବଂ ମୁଖ୍ୟ ପ୍ରଭୁଙ୍କ ବାର୍ଷିକ ଉତ୍ସବ, ଯେତେବେଳେ ଉତ୍ସବ ମୂର୍ତ୍ତି ରାଜପଥକୁ ବାହାରେ। ଉତ୍ସବ ତାରିଖ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "experience": "କାଞ୍ଚୀପୁରମ୍‌ର ଦିବ୍ୟ ଦେଶମ୍ ଯାତ୍ରାର ଏକ ଅଂଶ ରୂପେ ଦର୍ଶନ କରନ୍ତୁ; ତିରୁବେଳୁକ୍କୈର ଅଳଗିୟ ସିଙ୍ଗର ମନ୍ଦିର ନିକଟରେ ଅଛି। ଅଷ୍ଟବାହୁ ପ୍ରଭୁଙ୍କ ସମ୍ମୁଖରେ ଅଟକି, ରକ୍ଷିତ ଯଜ୍ଞର କାହାଣୀ ସ୍ମରଣ କରନ୍ତୁ। ନଗରର ବିଶାଳ ମନ୍ଦିରଠାରୁ ଅଧିକ ଶାନ୍ତ ଏହି ମନ୍ଦିର ଧୀର, ମନୋଯୋଗୀ ଦର୍ଶନକୁ ପୁରସ୍କୃତ କରେ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "It lies within Kanchipuram town, which has a railway station and is reached by road from Chennai (around 70 km); Chennai has the nearest major airport."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଅଧିବେଶନ ଏବଂ ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ ସହିତ ଖୋଲା ରହେ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସଂଯତ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଆବୃତ; ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲନ୍ତୁ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋଗ୍ରାଫି ସୀମିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ଏହା କାଞ୍ଚୀପୁରମ୍ ନଗର ଭିତରେ ଅବସ୍ଥିତ, ଯେଉଁଠାରେ ରେଳ ଷ୍ଟେସନ୍ ଅଛି ଏବଂ ଚେନ୍ନାଇରୁ (ପ୍ରାୟ ୭୦ କିମି) ସଡ଼କ ପଥରେ ପହଞ୍ଚାଯାଏ; ଚେନ୍ନାଇରେ ନିକଟତମ ପ୍ରମୁଖ ବିମାନବନ୍ଦର ଅଛି।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/ashtabhujakara-kanchipuram.jpg",

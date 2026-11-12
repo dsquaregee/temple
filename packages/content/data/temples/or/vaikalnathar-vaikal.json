@@ -1,29 +1,36 @@
 {
   "id": "vaikalnathar-vaikal",
   "locale": "or",
+  "name": "ବୈଗଲନାଥର୍ ମନ୍ଦିର, ତିରୁବୈକଲ୍ ମାଡ଼କ୍କୋଇଲ୍",
   "nativeName": "திருவைகல் மாடக்கோயில் ஷேண்பகாரண்யேஸ்வரர் கோயில்",
+  "deity": "ଶିବ ବୈଗଲନାଥର୍ (ଶେଣ୍ବଗ ଅରଣ୍ୟେଶ୍ୱରର୍) ରୂପେ, ଦେବୀ କୋମ୍ବିୟାଲ୍ କୋତୈଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଡ଼ଲ୍ ପେତ୍ର ସ୍ଥଳମ୍, ଏକ ମାଡ଼ କୋଭିଲ୍",
   "location": {
-    "city": "Vaikal, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "ବୈକଲ୍, କୁମ୍ବକୋଣମ୍ ନିକଟରେ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 10.95,
     "lng": 79.4833
   },
+  "period": "ତେବାରମ୍ ଯୁଗ; ପରମ୍ପରା ଅନୁସାରେ କୋଚ୍ଚେଙ୍ଗଟ୍ ଚୋଳଙ୍କ ମାଡ଼ କୋଭିଲ୍",
   "century": 9,
+  "dynasty": "ଚୋଳ (ପରମ୍ପରା ଅନୁସାରେ କୋଚ୍ଚେଙ୍ଗଟ୍ ଚୋଳ)",
+  "style": "ଦ୍ରାବିଡ଼ (ମାଡ଼ କୋଭିଲ୍, ଉଚ୍ଚ ପ୍ରକାର)",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "କୁମ୍ବକୋଣମ୍ ନିକଟର ବୈକଲ୍ ଶିବଙ୍କୁ ବୈଗଲନାଥର୍ ଭାବେ ସମ୍ମାନ ଦିଏ — ଶେଣ୍ବଗ ଅରଣ୍ୟେଶ୍ୱରର୍, ଚମ୍ପା ବନର ପ୍ରଭୁ ମଧ୍ୟ — ଦେବୀ କୋମ୍ବିୟାଲ୍ କୋତୈଙ୍କ ସହିତ। ତେବାରମ୍‌ରେ ଗୀତ ଏକ ପାଡ଼ଲ୍ ପେତ୍ର ସ୍ଥଳମ୍, ଏହାର ଐତିହାସିକ ନାମ ତିରୁବୈକଲ୍ ମାଡ଼କ୍କୋଇଲ୍, କାରଣ ଏହା ଏକ ଉଚ୍ଚ ମାଡ଼ କୋଭିଲ୍ ଭାବେ ନିର୍ମିତ, ପରମ୍ପରା ଅନୁସାରେ ଚୋଳ ରାଜା କୋଚ୍ଚେଙ୍ଗଟ୍ ଚୋଳଙ୍କ ମନ୍ଦିର ମଧ୍ୟରୁ ଏକ। 'ମୁକ୍କଣ କ୍ଷେତ୍ରମ୍', ତ୍ରିନେତ୍ର ପ୍ରଭୁଙ୍କ ସ୍ଥାନ ଭାବେ ପୂଜିତ, ଏହା କାବେରୀ ଅଞ୍ଚଳର ଏକ ଛୋଟ କିନ୍ତୁ ପୂଜନୀୟ ଦେବସ୍ଥାନ।",
   "sections": {
-    "history": "Vaikal, near Kumbakonam, is an ancient Shaiva village hymned in the Tevaram and counted among the Paadal Petra Sthalams — by one reckoning the thirty-third shrine on the southern bank of the Kaveri. Its historical name, Tiruvaikal Madakoil, marks it as a Maada Kovil, a raised temple traditionally ascribed to the Chola king Kochengat Chola. The village name Vaikal is explained as a form of 'vai-kurugal,' referring to a small mound. In recent times the small shrine has needed care, a single devoted priest keeping its worship alive.",
-    "architecture": "As a Maada Kovil the temple sits on an elevated base, in the manner of the Kochengat Chola foundations built high so that an elephant could not enter the sanctum. The sanctum enshrines Vaigalnathar, also known as Shenbaga Aranyeswarar, lord of the champak forest; the goddess is Kombial Kothai. The temple is grouped locally with the Viswanathar and Brahmapureeswarar shrines of the area and revered as a mukkan kshetram.",
-    "legends": "The lord's name Shenbaga Aranyeswarar recalls a forest of shenbagam, the fragrant champak, that once stood here, within which the lingam is said to have been worshipped. The village's reverence as a mukkan kshetram, a 'place of the three eyes,' keeps the three-eyed form of Shiva at the heart of its devotion. As with many smaller delta shrines, the fuller sthala-purana is less widely recorded than those of the great temples nearby.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Aippasi Annabhishekam (October–November), at the quiet scale of a village shrine. Devotees who seek out the lesser-known Paadal Petra temples of the delta include Vaikal among their stops.",
-    "experience": "Vaikal offers the pilgrim the plain, unhurried devotion of a small Maada Kovil with a venerable Tevaram name. Climbing to the raised sanctum of Vaigalnathar, amid the memory of a champak forest, the visitor meets a shrine whose quiet survival is itself part of its grace — one of the delta's smaller treasures, kept alive by faithful hands."
+    "history": "କୁମ୍ବକୋଣମ୍ ନିକଟର ବୈକଲ୍ ତେବାରମ୍‌ରେ ଗୀତ ଏକ ପ୍ରାଚୀନ ଶୈବ ଗାଁ ଏବଂ ପାଡ଼ଲ୍ ପେତ୍ର ସ୍ଥଳମ୍ ମଧ୍ୟରେ ଗଣିତ — ଏକ ଗଣନା ଅନୁସାରେ କାବେରୀର ଦକ୍ଷିଣ ତଟରେ ତେତିଶତମ ଦେବସ୍ଥାନ। ଏହାର ଐତିହାସିକ ନାମ ତିରୁବୈକଲ୍ ମାଡ଼କ୍କୋଇଲ୍ ଏହାକୁ ଏକ ମାଡ଼ କୋଭିଲ୍ ଭାବେ ଚିହ୍ନାଏ, ଏକ ଉଚ୍ଚ ମନ୍ଦିର ଯାହା ପରମ୍ପରା ଅନୁସାରେ ଚୋଳ ରାଜା କୋଚ୍ଚେଙ୍ଗଟ୍ ଚୋଳଙ୍କୁ ଆରୋପିତ। ବୈକଲ୍ ଗାଁ ନାମକୁ 'ବୈ-କୁରୁଗଲ୍'ର ଏକ ରୂପ ଭାବେ ବ୍ୟାଖ୍ୟା କରାଯାଏ, ଯାହା ଏକ ଛୋଟ ଢିପକୁ ବୁଝାଏ। ସମ୍ପ୍ରତି ଏହି ଛୋଟ ଦେବସ୍ଥାନକୁ ଯତ୍ନର ଆବଶ୍ୟକତା ହୋଇଛି, ଜଣେ ନିଷ୍ଠାବାନ ପୁରୋହିତ ଏହାର ପୂଜା ଜୀବିତ ରଖିଛନ୍ତି।",
+    "architecture": "ଏକ ମାଡ଼ କୋଭିଲ୍ ଭାବେ ମନ୍ଦିର ଏକ ଉଚ୍ଚ ଭିତ୍ତି ଉପରେ ଅବସ୍ଥିତ, କୋଚ୍ଚେଙ୍ଗଟ୍ ଚୋଳଙ୍କ ମନ୍ଦିର ଶୈଳୀରେ, ଯାହା ଏତେ ଉଚ୍ଚରେ ନିର୍ମିତ ଯେପରି ହାତୀ ଗର୍ଭଗୃହରେ ପ୍ରବେଶ କରିପାରିବ ନାହିଁ। ଗର୍ଭଗୃହରେ ବୈଗଲନାଥର୍ ପ୍ରତିଷ୍ଠିତ, ଯିଏ ଚମ୍ପା ବନର ପ୍ରଭୁ ଶେଣ୍ବଗ ଅରଣ୍ୟେଶ୍ୱରର୍ ନାମରେ ମଧ୍ୟ ପରିଚିତ; ଦେବୀ ହେଉଛନ୍ତି କୋମ୍ବିୟାଲ୍ କୋତୈ। ମନ୍ଦିରକୁ ସ୍ଥାନୀୟ ଭାବେ ଅଞ୍ଚଳର ବିଶ୍ୱନାଥର୍ ଓ ବ୍ରହ୍ମପୁରୀଶ୍ୱରର୍ ଦେବସ୍ଥାନ ସହ ଗୋଷ୍ଠୀଭୁକ୍ତ କରାଯାଏ ଏବଂ ମୁକ୍କଣ କ୍ଷେତ୍ରମ୍ ଭାବେ ପୂଜା କରାଯାଏ।",
+    "legends": "ପ୍ରଭୁଙ୍କ ଶେଣ୍ବଗ ଅରଣ୍ୟେଶ୍ୱରର୍ ନାମ ଏକଦା ଏଠାରେ ଥିବା ଶେଣ୍ବଗମ୍, ସୁବାସିତ ଚମ୍ପାର ଜଙ୍ଗଲକୁ ସ୍ମରଣ କରାଏ, ଯାହା ଭିତରେ ଲିଙ୍ଗ ପୂଜିତ ହେଉଥିଲା ବୋଲି କୁହାଯାଏ। ଗାଁର ମୁକ୍କଣ କ୍ଷେତ୍ରମ୍, 'ତିନି ଆଖିର ସ୍ଥାନ' ଭାବେ ସମ୍ମାନ ଶିବଙ୍କ ତ୍ରିନେତ୍ର ରୂପକୁ ଏହାର ଭକ୍ତିର ହୃଦୟରେ ରଖେ। ଅନେକ ଛୋଟ ବଦ୍ୱୀପ ଦେବସ୍ଥାନ ପରି, ଏହାର ବିସ୍ତୃତ ସ୍ଥଳପୁରାଣ ନିକଟର ମହାନ ମନ୍ଦିରମାନଙ୍କ ତୁଳନାରେ କମ୍ ଲିପିବଦ୍ଧ।",
+    "festivals": "ମନ୍ଦିର ମାସିରେ (ଫେବୃଆରୀ–ମାର୍ଚ୍ଚ) ମହାଶିବରାତ୍ରି, ପୁରଟ୍ଟାସିରେ (ସେପ୍ଟେମ୍ବର–ଅକ୍ଟୋବର) ନବରାତ୍ରି ଏବଂ ଐପ୍ପସି ଅନ୍ନାଭିଷେକମ୍ (ଅକ୍ଟୋବର–ନଭେମ୍ବର) ପାଳନ କରେ, ଏକ ଗ୍ରାମ୍ୟ ଦେବସ୍ଥାନର ଶାନ୍ତ ମାପରେ। ବଦ୍ୱୀପର ଅପେକ୍ଷାକୃତ କମ୍ ଜଣାଶୁଣା ପାଡ଼ଲ୍ ପେତ୍ର ମନ୍ଦିର ଖୋଜୁଥିବା ଭକ୍ତମାନେ ବୈକଲ୍‌କୁ ନିଜ ଯାତ୍ରାରେ ସାମିଲ କରନ୍ତି।",
+    "experience": "ବୈକଲ୍ ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ଏକ ପୂଜନୀୟ ତେବାରମ୍ ନାମ ଥିବା ଛୋଟ ମାଡ଼ କୋଭିଲ୍‌ର ସରଳ, ଅଳସ ଭକ୍ତି ଦିଏ। ଚମ୍ପା ବନର ସ୍ମୃତି ମଧ୍ୟରେ ବୈଗଲନାଥରଙ୍କ ଉଚ୍ଚ ଗର୍ଭଗୃହକୁ ଚଢ଼ି ଦର୍ଶକ ଏପରି ଏକ ଦେବସ୍ଥାନକୁ ଭେଟନ୍ତି ଯାହାର ନୀରବ ବଞ୍ଚିରହିବା ନିଜେ ଏହାର କୃପାର ଅଂଶ — ବଦ୍ୱୀପର ଛୋଟ ଧନ ମଧ୍ୟରୁ ଏକ, ବିଶ୍ୱସ୍ତ ହାତ ଦ୍ୱାରା ଜୀବିତ ରଖାଯାଇଛି।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Vaikal is near Kumbakonam (sources also list it under Nagapattinam district), about 12 km from Kumbakonam; Kumbakonam is the nearest rail head, with local buses and taxis to the village."
+    "timings": "ସାଧାରଣତଃ ଭୋରରୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା; ବିଶେଷ କରି ଉତ୍ସବ ଦିନରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ମର୍ଯ୍ୟାଦାପୂର୍ଣ୍ଣ ପାରମ୍ପରିକ ବେଶଭୂଷା ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କିଥିବା; ପାଦୁକା ପ୍ରବେଶଦ୍ୱାରରେ ଛାଡ଼ାଯାଏ।",
+    "photography": "ଫଟୋଗ୍ରାଫି ସାଧାରଣତଃ ବାହ୍ୟ ପ୍ରାଙ୍ଗଣରେ ଅନୁମତିପ୍ରାପ୍ତ କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ଅନୁଷ୍ଠାନର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ବୈକଲ୍ କୁମ୍ବକୋଣମ୍ ନିକଟରେ ଅବସ୍ଥିତ (ସୂତ୍ରମାନେ ଏହାକୁ ନାଗପଟ୍ଟିନମ୍ ଜିଲ୍ଲା ଅଧୀନରେ ମଧ୍ୟ ତାଲିକାଭୁକ୍ତ କରନ୍ତି), କୁମ୍ବକୋଣମ୍‌ରୁ ପ୍ରାୟ ୧୨ କି.ମି. ଦୂରରେ; କୁମ୍ବକୋଣମ୍ ନିକଟତମ ରେଳ କେନ୍ଦ୍ର, ଗାଁକୁ ସ୍ଥାନୀୟ ବସ୍ ଓ ଟାକ୍ସି ଅଛି।"
   }
 }

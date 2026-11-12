@@ -1,29 +1,36 @@
 {
   "id": "pampureswarar-tirupampuram",
   "locale": "or",
+  "name": "ଶେଷପୁରୀଶ୍ୱରର ମନ୍ଦିର, ତିରୁପ୍ପାମ୍ପୁରମ୍",
   "nativeName": "திருப்பாம்புரம் சேஷபுரீஸ்வரர் கோயில்",
+  "deity": "ଶିବ ଶେଷପୁରୀଶ୍ୱରର (ପାମ୍ପୁରନାଥର, ସର୍ପମାନଙ୍କ ପ୍ରଭୁ) ରୂପରେ",
+  "tradition": "ଶୈବ — ଏକ ପାଡ଼ଲ୍ ପେଟ୍ରା ସ୍ଥଳମ୍, ସମ୍ବନ୍ଧର, ଅପ୍ପର ଓ ସୁନ୍ଦରଙ୍କ ଦ୍ୱାରା ଗୀତ",
   "location": {
-    "city": "Tirupampuram, near Kuthalam",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁପ୍ପାମ୍ପୁରମ୍, କୁତ୍ତାଳମ୍ ନିକଟରେ",
+    "state": "ତାମିଲନାଡ଼ୁ",
     "lat": 10.9025,
     "lng": 79.63
   },
+  "period": "ତେବାରମ୍ ଯୁଗ, ଚୋଳ ଯୁଗର ସଂରଚନା ସହିତ",
   "century": 9,
+  "dynasty": "ଚୋଳ (ପରବର୍ତ୍ତୀ ଯୋଗ ସହିତ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "କୁତ୍ତାଳମ୍ ନିକଟର ତିରୁପ୍ପାମ୍ପୁରମ୍ ଏକ ପାଡ଼ଲ୍ ପେଟ୍ରା ସ୍ଥଳମ୍, ଯେଉଁଠି ଶିବ ଶେଷପୁରୀଶ୍ୱରର — ପାମ୍ପୁରନାଥର, ସର୍ପମାନଙ୍କ ପ୍ରଭୁ — ରୂପେ ପୂଜିତ, ଏବଂ ଯାହା ରାହୁ–କେତୁ ଓ ନାଗ-ଦୋଷ ପ୍ରତିକାରର କେନ୍ଦ୍ର ଭାବେ ପ୍ରସିଦ୍ଧ। ପରମ୍ପରା ଅନୁସାରେ, ଶିବ ଯେତେବେଳେ ସର୍ପ ଜାତିକୁ ତାହାର ଅହଂକାର ପାଇଁ ଅଭିଶାପ ଦେଲେ, ନାଗମାନେ — ସେମାନଙ୍କ ମଧ୍ୟରେ ଆଦିଶେଷ, ରାହୁ ଓ କେତୁ — ମହାଶିବରାତ୍ରିରେ ଏଠାରେ ତାଙ୍କୁ ପୂଜା କରି ମୁକ୍ତ ହେଲେ। ସମ୍ବନ୍ଧର, ଅପ୍ପର ଓ ସୁନ୍ଦରଙ୍କ ଦ୍ୱାରା ଗୀତ, ଏହା ଏକଦିନିଆ ପରିକ୍ରମାର ଚାରି ନାଗ ମନ୍ଦିର ମଧ୍ୟରୁ ତୃତୀୟ।",
   "sections": {
-    "history": "Tirupampuram, near Kuthalam in the Kaveri delta, is an ancient Shaiva village hymned in the seventh-century Tevaram by all three principal saints — Sambandar, Appar and Sundarar — and counted among the Paadal Petra Sthalams. Its historical names, Paampuram and Seshapuri, carry its deep association with the serpents, the nagas, and the stone temple of the Chola period has become, in modern times, a much-sought centre for remedies against serpent-related afflictions.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Seshapureeswarar. Its devotional life centres on the nagas: the shrines and images connected with Adisesha, Rahu and Ketu are the focus of the special worship for which the temple is known. The serpent motif runs through its iconography, marking it among the delta temples where naga-worship is pre-eminent.",
-    "legends": "The great legend of Tirupampuram concerns the pride of the serpents. In one telling, as Ganesha worshipped Shiva on Mount Kailasa, the serpent coiled about the lord's neck wrongly took the worship as its own and grew arrogant; angered, Shiva cursed the whole serpent race to lose its powers. The nagas, pleading that all should not suffer for one, were told to worship him on the night of Maha Shivaratri, and Adisesha led them — to Kumbakonam, Tirunageswaram, Nagore and finally Tirupampuram — until their curse was lifted. From this the temple became a powerful centre for Rahu–Ketu and naga-dosha remedies, sought by those facing such doshas or childlessness.",
-    "festivals": "Maha Shivaratri is the temple's foremost festival, carrying the memory of the night the serpents were redeemed, and it draws great crowds. The regular Shaiva observances of Pradosham and the Margazhi season are kept, and devotees often make a same-day circuit of the four Naga temples, of which Tirupampuram is the third. Special worship for Rahu and Ketu is offered through the year.",
-    "experience": "Tirupampuram draws pilgrims who come with a particular prayer — for relief from naga-dosha, for Rahu–Ketu remedies, for children. The darshan of Seshapureeswarar, the lord of the serpents, carries the sense of a grace that lifted an ancient curse, and for many the temple is a place of hope at a difficult turn of life."
+    "history": "କାବେରୀ ବଦ୍ୱୀପରେ କୁତ୍ତାଳମ୍ ନିକଟର ତିରୁପ୍ପାମ୍ପୁରମ୍ ଏକ ପ୍ରାଚୀନ ଶୈବ ଗ୍ରାମ, ସପ୍ତମ ଶତାବ୍ଦୀର ତେବାରମ୍‌ରେ ତିନି ମୁଖ୍ୟ ସନ୍ଥ — ସମ୍ବନ୍ଧର, ଅପ୍ପର ଓ ସୁନ୍ଦର — ସମସ୍ତଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ, ଏବଂ ପାଡ଼ଲ୍ ପେଟ୍ରା ସ୍ଥଳମ୍ ମଧ୍ୟରେ ଗଣିତ। ଏହାର ଐତିହାସିକ ନାମ ପାମ୍ପୁରମ୍ ଓ ଶେଷପୁରୀ ସର୍ପ, ନାଗମାନଙ୍କ ସହ ଏହାର ଗଭୀର ସମ୍ପର୍କ ବହନ କରେ, ଏବଂ ଚୋଳ ଯୁଗର ପଥର ମନ୍ଦିର ଆଧୁନିକ କାଳରେ ସର୍ପ-ସମ୍ବନ୍ଧୀୟ କ୍ଲେଶର ପ୍ରତିକାର ପାଇଁ ବହୁ-ଅନ୍ୱେଷିତ ଏକ କେନ୍ଦ୍ର ହୋଇଉଠିଛି।",
+    "architecture": "ମନ୍ଦିର ଏକ ଗୋପୁରମ୍, ପ୍ରାକାର ଓ ଶେଷପୁରୀଶ୍ୱରରଙ୍କ ଗର୍ଭଗୃହ ସହ ଦ୍ରାବିଡ଼ ଯୋଜନା ଅନୁସରଣ କରେ। ଏହାର ଭକ୍ତିମୟ ଜୀବନ ନାଗମାନଙ୍କୁ କେନ୍ଦ୍ର କରି: ଆଦିଶେଷ, ରାହୁ ଓ କେତୁଙ୍କ ସହ ସମ୍ପର୍କିତ ମନ୍ଦିର ଓ ପ୍ରତିମାମାନେ ସେହି ବିଶେଷ ପୂଜାର ଲକ୍ଷ୍ୟ ଯାହା ପାଇଁ ମନ୍ଦିର ପରିଚିତ। ସର୍ପ ପ୍ରତୀକ ଏହାର ପ୍ରତିମାବିଜ୍ଞାନରେ ବ୍ୟାପିଛି, ଯାହା ଏହାକୁ ସେହି ବଦ୍ୱୀପ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରେ ଚିହ୍ନିତ କରେ ଯେଉଁଠି ନାଗ-ପୂଜା ପ୍ରଧାନ।",
+    "legends": "ତିରୁପ୍ପାମ୍ପୁରମ୍‌ର ମହାନ କିମ୍ବଦନ୍ତୀ ସର୍ପମାନଙ୍କ ଅହଂକାର ବିଷୟରେ। ଗୋଟିଏ ବର୍ଣ୍ଣନାରେ, ଯେତେବେଳେ ଗଣେଶ କୈଳାସ ପର୍ବତରେ ଶିବଙ୍କୁ ପୂଜା କରୁଥିଲେ, ପ୍ରଭୁଙ୍କ ଗଳାରେ ଗୁଡ଼ାହୋଇଥିବା ସର୍ପ ଭୁଲ୍ ଭାବେ ସେହି ପୂଜାକୁ ନିଜର ମାନିଲା ଏବଂ ଅହଂକାରୀ ହେଲା; କ୍ରୋଧିତ ଶିବ ସମଗ୍ର ସର୍ପ ଜାତିକୁ ନିଜ ଶକ୍ତି ହରାଇବାର ଅଭିଶାପ ଦେଲେ। ନାଗମାନେ, ଜଣଙ୍କ ପାଇଁ ସମସ୍ତେ କଷ୍ଟ ପାଇବା ଅନୁଚିତ ବୋଲି ଅନୁନୟ କରିବାରୁ, ମହାଶିବରାତ୍ରି ରାତିରେ ତାଙ୍କୁ ପୂଜା କରିବାକୁ କୁହାଗଲା, ଏବଂ ଆଦିଶେଷ ସେମାନଙ୍କୁ ଅଗ୍ରଣୀ ହୋଇ ନେଲେ — କୁମ୍ବକୋଣମ୍, ତିରୁନାଗେଶ୍ୱରମ୍, ନାଗୋର୍ ଓ ଶେଷରେ ତିରୁପ୍ପାମ୍ପୁରମ୍ — ଯେପର୍ଯ୍ୟନ୍ତ ସେମାନଙ୍କ ଅଭିଶାପ ମୋଚନ ହେଲା ନାହିଁ। ଏଥିରୁ ମନ୍ଦିର ରାହୁ–କେତୁ ଓ ନାଗ-ଦୋଷ ପ୍ରତିକାରର ଏକ ଶକ୍ତିଶାଳୀ କେନ୍ଦ୍ର ହେଲା, ଏପରି ଦୋଷ କିମ୍ବା ସନ୍ତାନହୀନତାର ସମ୍ମୁଖୀନ ହେଉଥିବା ଲୋକଙ୍କ ଦ୍ୱାରା ଅନ୍ୱେଷିତ।",
+    "festivals": "ମହାଶିବରାତ୍ରି ମନ୍ଦିରର ପ୍ରଧାନ ଉତ୍ସବ, ସର୍ପମାନେ ଯେଉଁ ରାତିରେ ମୁକ୍ତ ହୋଇଥିଲେ ତାହାର ସ୍ମୃତି ବହନ କରି, ଏବଂ ଏହା ବିପୁଳ ଜନତାକୁ ଆକର୍ଷିତ କରେ। ପ୍ରଦୋଷମ୍ ଓ ମାର୍ଗଲି ମାସର ନିୟମିତ ଶୈବ ପାଳନ ହୁଏ, ଏବଂ ଭକ୍ତମାନେ ପ୍ରାୟତଃ ଚାରି ନାଗ ମନ୍ଦିରର ଏକଦିନିଆ ପରିକ୍ରମା କରନ୍ତି, ଯେଉଁଥିରୁ ତିରୁପ୍ପାମ୍ପୁରମ୍ ତୃତୀୟ। ରାହୁ ଓ କେତୁଙ୍କ ପାଇଁ ବିଶେଷ ପୂଜା ବର୍ଷସାରା ଅର୍ପିତ ହୁଏ।",
+    "experience": "ତିରୁପ୍ପାମ୍ପୁରମ୍ ସେହି ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ଆକର୍ଷିତ କରେ ଯେଉଁମାନେ ଏକ ବିଶେଷ ପ୍ରାର୍ଥନା ନେଇ ଆସନ୍ତି — ନାଗ-ଦୋଷରୁ ମୁକ୍ତି ପାଇଁ, ରାହୁ–କେତୁ ପ୍ରତିକାର ପାଇଁ, ସନ୍ତାନ ପାଇଁ। ସର୍ପମାନଙ୍କ ପ୍ରଭୁ ଶେଷପୁରୀଶ୍ୱରରଙ୍କ ଦର୍ଶନ ଏକ ପ୍ରାଚୀନ ଅଭିଶାପ ମୋଚନ କରିଥିବା କୃପାର ଅନୁଭବ ବହନ କରେ, ଏବଂ ଅନେକଙ୍କ ପାଇଁ ମନ୍ଦିର ଜୀବନର ଏକ କଠିନ ମୋଡ଼ରେ ଆଶାର ସ୍ଥାନ।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tirupampuram is in Tiruvarur district near Kuthalam, roughly 15 km from Mayiladuthurai; the nearest rail heads are Kuthalam and Mayiladuthurai, with local buses and taxis to the village. It is often visited with the other three Naga temples (Kumbakonam, Tirunageswaram, Nagore)."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳରୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା; ବିଶେଷତଃ ଉତ୍ସବ ଦିନରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ଯାଞ୍ଚ କରନ୍ତୁ।",
+    "dressCode": "କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି ସଂଯତ ପାରମ୍ପରିକ ପୋଷାକ ଆଶାକରାଯାଏ; ପ୍ରବେଶଦ୍ୱାରରେ ଜୋତା ଛାଡ଼ିବାକୁ ହୁଏ।",
+    "photography": "ବାହ୍ୟ ପ୍ରାଙ୍ଗଣରେ ଫଟୋ ସାଧାରଣତଃ ଅନୁମତିପ୍ରାପ୍ତ, କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ବିଧିର ଫଟୋ ନେବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ତିରୁପ୍ପାମ୍ପୁରମ୍ ତିରୁବାରୁର ଜିଲ୍ଲାରେ କୁତ୍ତାଳମ୍ ନିକଟରେ, ମାୟିଲାଦୁତୁରୈରୁ ପ୍ରାୟ ୧୫ କିମି ଦୂରରେ; ନିକଟତମ ରେଳ ଷ୍ଟେସନ୍ କୁତ୍ତାଳମ୍ ଓ ମାୟିଲାଦୁତୁରୈ, ଗ୍ରାମକୁ ସ୍ଥାନୀୟ ବସ୍ ଓ ଟ୍ୟାକ୍ସି ଉପଲବ୍ଧ। ଏହା ପ୍ରାୟତଃ ଅନ୍ୟ ତିନି ନାଗ ମନ୍ଦିର (କୁମ୍ବକୋଣମ୍, ତିରୁନାଗେଶ୍ୱରମ୍, ନାଗୋର୍) ସହ ଦର୍ଶନ କରାଯାଏ।"
   }
 }

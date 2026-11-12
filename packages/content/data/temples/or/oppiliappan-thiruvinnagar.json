@@ -1,31 +1,38 @@
 {
   "id": "oppiliappan-thiruvinnagar",
   "locale": "or",
+  "name": "ଓପ୍ପିଳିଆପ୍ପନ ମନ୍ଦିର, ତିରୁନାଗେଶ୍ୱରମ୍",
   "nativeName": "ஒப்பிலியப்பன் கோயில், திருவிண்ணகர்",
+  "deity": "ଓପ୍ପିଳିଆପ୍ପନ (ବେଙ୍କଟାଚଳପତି, ଶ୍ରୀନିବାସ) ରୂପେ ବିଷ୍ଣୁ, ଦେବୀ ଭୂଦେବୀଙ୍କ ସହିତ — ଏଠାରେ ଭୋଗ ଲୁଣ ବିନା ନିବେଦିତ ହୁଏ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Thirunageswaram, Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁନାଗେଶ୍ୱରମ୍, କୁମ୍ଭକୋଣମ୍",
+    "state": "ତାମିଲ ନାଡୁ",
     "lat": 10.956,
     "lng": 79.437
   },
+  "period": "କୁମ୍ଭକୋଣମ୍ ନିକଟସ୍ଥ ଚୋଳ ଅଞ୍ଚଳର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ନାମ୍ମାଳ୍ବାର, ପେୟାଳ୍ବାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍ବାରଙ୍କ ଦ୍ୱାରା ଗୀତ",
   "century": 8,
+  "dynasty": "ମଧ୍ୟଯୁଗୀନ ଚୋଳ, ନାୟକ ଯୁଗର ଯୋଗସହ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams",
     "kaveri-delta-temple-towns"
   ],
+  "summary": "କୁମ୍ଭକୋଣମ୍ ନିକଟ ତିରୁବିଣ୍ଣଗରରେ ବିଷ୍ଣୁ ଓପ୍ପିଳିଆପ୍ପନ ରୂପେ ଠିଆ ହୋଇଛନ୍ତି, ଅନୁପମ ପ୍ରଭୁ ଯେ ଭୂଦେବୀଙ୍କୁ ବିବାହ କରିବା ପାଇଁ ଲୁଣ ବିନା ଭୋଜନ ଗ୍ରହଣ କଲେ — ନାମ୍ମାଳ୍ବାର, ପେୟାଳ୍ବାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍ବାରଙ୍କ ଦ୍ୱାରା ଗୀତ ଚୋଳ ନାଡୁର ଏକ ଦିବ୍ୟ ଦେଶମ୍।",
   "sections": {
-    "history": "Oppiliappan Koil, the Thiruvinnagar of the hymns, lies beside the town of Thirunageswaram, about seven kilometres from Kumbakonam. It is one of the 108 Divya Desams, the abodes of Vishnu sung by the Alvars in the Nalayira Divya Prabandham, and among the most visited in Chola Nadu; three Alvars — Nammalvar, Peyalvar and Thirumangai Alvar — sang its lord. He is known by many names: Oppiliappan, 'the peerless one', Uppiliappan, Thiruvinnagarappan, Venkatachalapathy and Srinivasa, and the shrine has been called Vaikunta Nagaram, Markandeya Kshetram and Tulasi Vanam. Its origins are traced to the Medieval Chola period, when royal gifts to the temple are recorded, with further building under the Nayaks.",
-    "architecture": "The temple is built in the Dravidian style of the Kaveri delta, with a gopuram at its entrance and pillared halls leading to the sanctum, which is crowned by the Suddhananda Vimana. Within, the Lord stands with Bhudevi beside him, and the sage Markandeya, her foster-father, is part of the sanctum group. The temple tank is the Ahoratra Pushkarini, its name meaning 'of day and night'.",
-    "legends": "The sthala purana tells that Bhudevi, the Earth Goddess, appeared here beneath a tulasi plant, where the sage Markandeya found her and raised her as his daughter. When she came of age the Lord arrived as an old man and asked for her hand. Markandeya demurred: she was so young, he said, that she did not even know how much salt to put in food. The Lord replied that he would gladly eat whatever she cooked, salt or none. To this day the offerings here are prepared without salt, and the Lord is Oppiliappan — the one without equal.",
-    "festivals": "Sravanam, the star held sacred to the Lord, is observed every month, and the celestial wedding of Oppiliappan and Bhudevi is celebrated on Sravanam in the month of Aippasi (October–November). Rama Navami and Vaikunta Ekadashi in Margazhi (December–January) draw large crowds from across the Kaveri delta. Check the temple's calendar for current dates.",
-    "experience": "Oppiliappan is a busy, beloved temple where devotees hold the Lord to be one with Srinivasa of Tirupati, whose name he shares. Taste the salt-free prasadam, a quiet lesson in the legend. The Saiva Naganathar temple of Thirunageswaram, one of the Navagraha shrines, stands in the same town, and Kumbakonam's many temples are minutes away."
+    "history": "ସ୍ତୋତ୍ରରେ ତିରୁବିଣ୍ଣଗର ନାମରେ ପରିଚିତ ଓପ୍ପିଳିଆପ୍ପନ କୋଇଲ୍ ତିରୁନାଗେଶ୍ୱରମ୍ ନଗର ପାଖରେ, କୁମ୍ଭକୋଣମ୍‌ରୁ ପ୍ରାୟ ସାତ କିଲୋମିଟର ଦୂରରେ ଅବସ୍ଥିତ। ଏହା ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ଆଳ୍ବାରମାନେ ଗାନ କରିଥିବା ବିଷ୍ଣୁଙ୍କ ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍ ମଧ୍ୟରୁ ଅନ୍ୟତମ, ଏବଂ ଚୋଳ ନାଡୁରେ ସର୍ବାଧିକ ଦର୍ଶିତ ପୀଠମାନଙ୍କ ମଧ୍ୟରେ ଗଣାଏ; ତିନି ଆଳ୍ବାର — ନାମ୍ମାଳ୍ବାର, ପେୟାଳ୍ବାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍ବାର — ଏଠାକାର ପ୍ରଭୁଙ୍କୁ ଗାନ କରିଛନ୍ତି। ସେ ଅନେକ ନାମରେ ପରିଚିତ: ଓପ୍ପିଳିଆପ୍ପନ, 'ଅନୁପମ', ଉପ୍ପିଳିଆପ୍ପନ, ତିରୁବିଣ୍ଣଗରପ୍ପନ, ବେଙ୍କଟାଚଳପତି ଓ ଶ୍ରୀନିବାସ, ଏବଂ ଏହି ପୀଠକୁ ବୈକୁଣ୍ଠ ନଗରମ୍, ମାର୍କଣ୍ଡେୟ କ୍ଷେତ୍ରମ୍ ଓ ତୁଳସୀ ବନମ୍ ବୋଲି ମଧ୍ୟ କୁହାଯାଇଛି। ଏହାର ଉତ୍ପତ୍ତି ମଧ୍ୟଯୁଗୀନ ଚୋଳ କାଳକୁ ଟଣାଯାଏ, ଯେତେବେଳେ ମନ୍ଦିରକୁ ରାଜକୀୟ ଦାନର ଅଭିଲେଖ ମିଳେ, ଏବଂ ନାୟକମାନଙ୍କ ଅଧୀନରେ ଆହୁରି ନିର୍ମାଣ ହୋଇଥିଲା।",
+    "architecture": "ମନ୍ଦିର କାବେରୀ ବଦ୍ୱୀପର ଦ୍ରାବିଡ଼ ଶୈଳୀରେ ନିର୍ମିତ, ପ୍ରବେଶ ଦ୍ୱାରରେ ଏକ ଗୋପୁରମ୍ ଓ ଗର୍ଭଗୃହ ପର୍ଯ୍ୟନ୍ତ ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ ଅଛି, ଯାହା ଶୁଦ୍ଧାନନ୍ଦ ବିମାନ ଦ୍ୱାରା ମୁକୁଟିତ। ଭିତରେ ପ୍ରଭୁ ପାଖରେ ଭୂଦେବୀଙ୍କ ସହିତ ଠିଆ ହୋଇଛନ୍ତି, ଏବଂ ତାଙ୍କ ପାଳକ ପିତା ଋଷି ମାର୍କଣ୍ଡେୟ ଗର୍ଭଗୃହ ମୂର୍ତ୍ତି ସମୂହର ଅଂଶ। ମନ୍ଦିରର ପୁଷ୍କରିଣୀ ଅହୋରାତ୍ର ପୁଷ୍କରିଣୀ, ଯାହାର ନାମର ଅର୍ଥ 'ଦିନ ଓ ରାତିର'।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ କହେ ଯେ ପୃଥିବୀ ଦେବୀ ଭୂଦେବୀ ଏଠାରେ ଏକ ତୁଳସୀ ଗଛ ତଳେ ପ୍ରକଟ ହୋଇଥିଲେ, ସେଠାରେ ଋଷି ମାର୍କଣ୍ଡେୟ ତାଙ୍କୁ ପାଇ ନିଜ କନ୍ୟା ଭାବରେ ପାଳନ କଲେ। ସେ ବିବାହଯୋଗ୍ୟ ହେଲେ ପ୍ରଭୁ ଏକ ବୃଦ୍ଧ ରୂପେ ଆସି ତାଙ୍କ ହାତ ମାଗିଲେ। ମାର୍କଣ୍ଡେୟ ଆପତ୍ତି କଲେ: ସେ ଏତେ ଛୋଟ ଯେ ରନ୍ଧାରେ କେତେ ଲୁଣ ଦେବାକୁ ହୁଏ ତାହା ମଧ୍ୟ ଜାଣନ୍ତି ନାହିଁ। ପ୍ରଭୁ ଉତ୍ତର ଦେଲେ ଯେ ସେ ଯାହା ରାନ୍ଧିବେ, ଲୁଣ ଥାଉ ବା ନଥାଉ, ସେ ଖୁସିରେ ଖାଇବେ। ଆଜି ପର୍ଯ୍ୟନ୍ତ ଏଠାରେ ଭୋଗ ଲୁଣ ବିନା ପ୍ରସ୍ତୁତ ହୁଏ, ଏବଂ ପ୍ରଭୁ ଓପ୍ପିଳିଆପ୍ପନ — ଯାହାଙ୍କର ସମକକ୍ଷ କେହି ନାହାନ୍ତି।",
+    "festivals": "ପ୍ରଭୁଙ୍କ ପାଇଁ ପବିତ୍ର ନକ୍ଷତ୍ର ଶ୍ରବଣମ୍ ପ୍ରତି ମାସ ପାଳିତ ହୁଏ, ଏବଂ ଓପ୍ପିଳିଆପ୍ପନ ଓ ଭୂଦେବୀଙ୍କ ଦିବ୍ୟ ବିବାହ ଆଇପ୍ପାସି ମାସ (ଅକ୍ଟୋବର–ନଭେମ୍ବର)ର ଶ୍ରବଣମ୍‌ରେ ଉତ୍ସବ ରୂପେ ପାଳିତ ହୁଏ। ମାର୍ଗଳି (ଡିସେମ୍ବର–ଜାନୁଆରୀ)ରେ ରାମ ନବମୀ ଓ ବୈକୁଣ୍ଠ ଏକାଦଶୀ କାବେରୀ ବଦ୍ୱୀପର ଚାରିଆଡ଼ୁ ବହୁ ଭକ୍ତଙ୍କୁ ଆକର୍ଷିତ କରେ। ବର୍ତ୍ତମାନର ତାରିଖ ପାଇଁ ମନ୍ଦିରର ପଞ୍ଜିକା ଦେଖନ୍ତୁ।",
+    "experience": "ଓପ୍ପିଳିଆପ୍ପନ ଏକ ବ୍ୟସ୍ତ, ପ୍ରିୟ ମନ୍ଦିର, ଯେଉଁଠି ଭକ୍ତମାନେ ପ୍ରଭୁଙ୍କୁ ତିରୁପତିର ଶ୍ରୀନିବାସଙ୍କ ସହ ଏକ ବୋଲି ମାନନ୍ତି, ଯାହାଙ୍କ ନାମ ସେ ବହନ କରନ୍ତି। ଲୁଣ ବିନା ପ୍ରସାଦ ଚାଖନ୍ତୁ, ଏହା କିମ୍ବଦନ୍ତୀର ଏକ ନୀରବ ଶିକ୍ଷା। ତିରୁନାଗେଶ୍ୱରମ୍‌ର ଶୈବ ନାଗନାଥ ମନ୍ଦିର, ନବଗ୍ରହ ପୀଠମାନଙ୍କ ମଧ୍ୟରୁ ଅନ୍ୟତମ, ସେହି ନଗରରେ ଅବସ୍ଥିତ, ଏବଂ କୁମ୍ଭକୋଣମ୍‌ର ଅନେକ ମନ୍ଦିର କିଛି ମିନିଟ୍ ଦୂରରେ।"
   },
   "visit": {
-    "timings": "Open daily for morning and evening darshan, with a midday closure; festival days are the busiest. Confirm current timings locally before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear is removed before entering. Follow posted rules and the guidance of the priests.",
-    "photography": "Photography is restricted in and around the sanctum; follow posted rules and the guidance of the priests.",
-    "gettingThere": "Oppiliappan Koil is beside Thirunageswaram, about 7 km from Kumbakonam in Thanjavur district, and is easily reached by town bus, auto-rickshaw or taxi. Kumbakonam has the nearest railway station; Tiruchirappalli has the nearest airport."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ପାଇଁ ଖୋଲା, ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ; ଉତ୍ସବ ଦିନମାନେ ସର୍ବାଧିକ ଭିଡ଼ ଥାଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ହେବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲାଯାଏ। ଲିଖିତ ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ସୀମିତ; ଲିଖିତ ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "ଓପ୍ପିଳିଆପ୍ପନ କୋଇଲ୍ ତାଞ୍ଜାଭୁର ଜିଲ୍ଲାର ତିରୁନାଗେଶ୍ୱରମ୍ ପାଖରେ, କୁମ୍ଭକୋଣମ୍‌ରୁ ପ୍ରାୟ ୭ କିମି ଦୂରରେ ଅବସ୍ଥିତ, ଏବଂ ନଗର ବସ୍, ଅଟୋ-ରିକ୍ସା ବା ଟ୍ୟାକ୍ସିରେ ସହଜରେ ପହଞ୍ଚିହୁଏ। କୁମ୍ଭକୋଣମ୍‌ରେ ନିକଟତମ ରେଳ ଷ୍ଟେସନ ଅଛି; ତିରୁଚିରାପ୍ପଲ୍ଲିରେ ନିକଟତମ ବିମାନବନ୍ଦର।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",

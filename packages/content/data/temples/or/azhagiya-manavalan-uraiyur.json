@@ -1,29 +1,36 @@
 {
   "id": "azhagiya-manavalan-uraiyur",
   "locale": "or",
+  "name": "ଅଳଗିୟ ମଣବାଳନ ପେରୁମାଳ ମନ୍ଦିର, ଉରୈୟୂର",
   "nativeName": "அழகிய மணவாளன் பெருமாள் கோயில், உறையூர்",
+  "deity": "ବିଷ୍ଣୁ ଅଳଗିୟ ମଣବାଳନ, ସୁନ୍ଦର ବରରୂପେ, ଦେବୀ କମଳବଲ୍ଲୀ ନାଚ୍ଚିୟାରଙ୍କ ସହିତ, ଯିଏ ଏଠାରେ ପ୍ରଥମ ସ୍ଥାନ ଧାରଣ କରନ୍ତି",
+  "tradition": "ବୈଷ୍ଣବ ପରମ୍ପରା",
   "location": {
-    "city": "Uraiyur, Tiruchirappalli",
-    "state": "Tamil Nadu",
+    "city": "ଉରୈୟୂର, ତିରୁଚ୍ଚିରାପଲ୍ଲୀ",
+    "state": "ତମିଳନାଡୁ",
     "lat": 10.828,
     "lng": 78.68
   },
+  "period": "ପ୍ରାଚୀନ ଚୋଳ ରାଜଧାନୀରେ ଚୋଳ ଅଞ୍ଚଳର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ କୁଳଶେଖର ଆଳ୍ୱାର ଓ ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ଗାନ କରାଯାଇଛି",
   "century": 8,
+  "dynasty": "ମଧ୍ୟଯୁଗୀୟ ଚୋଳ (ପାଣ୍ଡ୍ୟ, ବିଜୟନଗର ଓ ନାୟକ ସଂଯୋଜନା ସହିତ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "ପ୍ରାଚୀନ ଚୋଳ ରାଜଧାନୀ ଉରୈୟୂରରେ ବିଷ୍ଣୁ ଅଳଗିୟ ମଣବାଳନ, ସୁନ୍ଦର ବରରୂପେ, କମଳବଲ୍ଲୀ ନାଚ୍ଚିୟାରଙ୍କ ପାଖରେ ବିରାଜମାନ — ଏକ ଦିବ୍ୟ ଦେଶମ୍ ଯେଉଁଠି ଦେବୀ ପ୍ରଥମ ସ୍ଥାନରେ, ଏବଂ ତିରୁପ୍ପାଣ ଆଳ୍ୱାରଙ୍କ ଜନ୍ମସ୍ଥାନ।",
   "sections": {
-    "history": "Uraiyur, remembered in old Tamil as Kozhi, was a capital of the early Cholas long before Thanjavur, and today lies within the city of Tiruchirappalli, a short way from Srirangam across the Kaveri. Its Vishnu temple, Thirukkozhi, is popularly called Nachiyar Koil, for here the Goddess Kamalavalli holds the place of honour. It is one of the 108 Divya Desams of Chola Nadu, sung in the Nalayira Divya Prabandham by Kulasekhara Alvar, the Chera king-saint devoted to Ranganatha, and by Thirumangai Alvar. Uraiyur is also revered as the birthplace of Thiruppan Alvar. The present temple is believed to go back to the Medieval Cholas, with later gifts from the Pandyas, the Vijayanagara kings and the Madurai Nayaks; it is administered by the Tamil Nadu HR&CE Department.",
-    "architecture": "A five-tiered gateway tower leads into the temple, whose halls are known for richly carved pillars and broad mandapams. In the sanctum, beneath the Kalyana Vimanam, Azhagiya Manavalan stands facing north in his wedding form, and Kamalavalli Nachiyar shares the shrine with him — unusually, she has no separate sannidhi and is always seen together with the Lord. The temple tank, known as the Surya Pushkarini or Kalyana Theertham, has on its northern side a shrine to Thiruppan Alvar, honouring the saint born in this town.",
-    "legends": "The sthala purana tells of Kamalavalli, daughter of the Chola king Nanda Chola, who gave her heart to the Lord of Srirangam. In one telling she kept a long penance, and Vishnu came to Uraiyur as a radiant bridegroom to wed her — and so here he is Azhagiya Manavalan, the Beautiful Bridegroom, standing in the form of a groom. Because the Goddess is honoured as a daughter of the Chola house who became Ranganatha's bride, Uraiyur and Srirangam are bound together, and the bond is renewed each year in a wedding festival.",
-    "festivals": "The chariot festival in Chittirai (March–April) is the temple's great occasion, drawing the town onto its streets. On Panguni Pooram the festival image of Ranganatha is brought from Srirangam for the Kalyana Utsavam, the sacred wedding with Kamalavalli. Vaikunta Ekadashi and the days of the Alvars, Thiruppan Alvar above all, are kept with devotion.",
-    "experience": "A short ride from Srirangam, Uraiyur rewards the pilgrim who completes the visit to Ranganatha by coming to his bride's home. The mood is domestic and gentle — the Goddess at the heart of worship, the Lord beside her as a bridegroom — and the shrine of Thiruppan Alvar by the tank recalls the low-born singer who, tradition holds, was carried into the sanctum at Srirangam."
+    "history": "ପ୍ରାଚୀନ ତମିଳରେ କୋଳି ନାମରେ ସ୍ମରଣୀୟ ଉରୈୟୂର, ତଞ୍ଜାବୂରର ବହୁ ପୂର୍ବରୁ ପ୍ରାଥମିକ ଚୋଳମାନଙ୍କର ରାଜଧାନୀ ଥିଲା, ଏବଂ ଆଜି ତିରୁଚ୍ଚିରାପଲ୍ଲୀ ନଗର ଭିତରେ, କାବେରୀ ସେପାରିରେ ଶ୍ରୀରଙ୍ଗମ୍‌ରୁ ଅଳ୍ପ ବାଟରେ ଅବସ୍ଥିତ। ଏହାର ବିଷ୍ଣୁ ମନ୍ଦିର, ତିରୁକ୍କୋଳି, ଲୋକପ୍ରିୟ ଭାବେ ନାଚ୍ଚିୟାର କୋୟିଲ୍ କୁହାଯାଏ, କାରଣ ଏଠାରେ ଦେବୀ କମଳବଲ୍ଲୀ ସମ୍ମାନର ସ୍ଥାନ ଧାରଣ କରନ୍ତି। ଏହା ଚୋଳ ନାଡୁର ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍ ମଧ୍ୟରୁ ଅନ୍ୟତମ, ନାଳାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ରଙ୍ଗନାଥଙ୍କ ଭକ୍ତ ଚେର ରାଜା-ସନ୍ଥ କୁଳଶେଖର ଆଳ୍ୱାର ଏବଂ ତିରୁମଙ୍ଗୈ ଆଳ୍ୱାରଙ୍କ ଦ୍ୱାରା ଗାନ କରାଯାଇଛି। ଉରୈୟୂର ମଧ୍ୟ ତିରୁପ୍ପାଣ ଆଳ୍ୱାରଙ୍କ ଜନ୍ମସ୍ଥାନ ଭାବେ ପୂଜିତ। ବର୍ତ୍ତମାନର ମନ୍ଦିର ମଧ୍ୟଯୁଗୀୟ ଚୋଳମାନଙ୍କ ସମୟରୁ ବୋଲି ବିଶ୍ୱାସ କରାଯାଏ, ପରେ ପାଣ୍ଡ୍ୟ, ବିଜୟନଗର ରାଜା ଓ ମଦୁରାଇ ନାୟକମାନଙ୍କ ଦାନ ସହିତ; ଏହା ତମିଳନାଡୁ ହିନ୍ଦୁ ଧାର୍ମିକ ଓ ଧର୍ମାର୍ଥ ଦାନ ବିଭାଗ ଦ୍ୱାରା ପରିଚାଳିତ।",
+    "architecture": "ପାଞ୍ଚ ତାଲା ଗୋପୁରମ୍ ମନ୍ଦିର ଭିତରକୁ ନିଏ, ଯାହାର ମଣ୍ଡପମାନ ସମୃଦ୍ଧ ଖୋଦିତ ସ୍ତମ୍ଭ ଓ ପ୍ରଶସ୍ତ ମଣ୍ଡପ ପାଇଁ ପରିଚିତ। ଗର୍ଭଗୃହରେ, କଲ୍ୟାଣ ବିମାନମ୍ ତଳେ, ଅଳଗିୟ ମଣବାଳନ ନିଜ ବିବାହ ରୂପରେ ଉତ୍ତରାଭିମୁଖୀ ଠିଆ ହୋଇଛନ୍ତି, ଏବଂ କମଳବଲ୍ଲୀ ନାଚ୍ଚିୟାର ତାଙ୍କ ସହ ଦେବାଳୟ ଭାଗ କରନ୍ତି — ଅସାଧାରଣ ଭାବେ, ତାଙ୍କର କୌଣସି ପୃଥକ ସନ୍ନିଧି ନାହିଁ, ସେ ସର୍ବଦା ପ୍ରଭୁଙ୍କ ସହିତ ଦେଖାଯାଆନ୍ତି। ମନ୍ଦିର ପୁଷ୍କରିଣୀ, ସୂର୍ଯ୍ୟ ପୁଷ୍କରିଣୀ ବା କଲ୍ୟାଣ ତୀର୍ଥ ନାମରେ ପରିଚିତ, ତା’ ଉତ୍ତର ପାର୍ଶ୍ୱରେ ଏହି ନଗରରେ ଜନ୍ମିତ ସନ୍ଥଙ୍କୁ ସମ୍ମାନ ଜଣାଉଥିବା ତିରୁପ୍ପାଣ ଆଳ୍ୱାରଙ୍କ ଦେବାଳୟ ଅଛି।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ ଚୋଳ ରାଜା ନନ୍ଦ ଚୋଳଙ୍କ କନ୍ୟା କମଳବଲ୍ଲୀଙ୍କ କଥା କହେ, ଯିଏ ଶ୍ରୀରଙ୍ଗମ୍‌ର ପ୍ରଭୁଙ୍କୁ ନିଜ ହୃଦୟ ଅର୍ପଣ କରିଥିଲେ। ଗୋଟିଏ ବର୍ଣ୍ଣନାରେ ସେ ଦୀର୍ଘ ତପସ୍ୟା କରିଥିଲେ, ଏବଂ ବିଷ୍ଣୁ ତାଙ୍କୁ ବିବାହ କରିବାକୁ ଏକ ଦୀପ୍ତିମାନ ବରରୂପେ ଉରୈୟୂରକୁ ଆସିଲେ — ଏହି କାରଣରୁ ଏଠାରେ ସେ ଅଳଗିୟ ମଣବାଳନ, ସୁନ୍ଦର ବର, ବରର ରୂପରେ ଠିଆ ହୋଇଛନ୍ତି। ଯେହେତୁ ଦେବୀ ଚୋଳ ବଂଶର କନ୍ୟା ଯିଏ ରଙ୍ଗନାଥଙ୍କ ବଧୂ ହେଲେ ବୋଲି ସମ୍ମାନିତା, ଉରୈୟୂର ଓ ଶ୍ରୀରଙ୍ଗମ୍ ପରସ୍ପର ସହ ବନ୍ଧା, ଏବଂ ସେହି ବନ୍ଧନ ପ୍ରତି ବର୍ଷ ଏକ ବିବାହ ଉତ୍ସବରେ ନବୀକୃତ ହୁଏ।",
+    "festivals": "ଚିତ୍ତିରୈ (ମାର୍ଚ୍ଚ–ଏପ୍ରିଲ)ର ରଥୋତ୍ସବ ମନ୍ଦିରର ମହା ଅବସର, ଯାହା ନଗରକୁ ରାସ୍ତାକୁ ଟାଣି ଆଣେ। ପାଙ୍ଗୁନି ପୂରମ୍ ଦିନ କମଳବଲ୍ଲୀଙ୍କ ସହିତ ପବିତ୍ର ବିବାହ, କଲ୍ୟାଣ ଉତ୍ସବମ୍ ପାଇଁ ଶ୍ରୀରଙ୍ଗମ୍‌ରୁ ରଙ୍ଗନାଥଙ୍କ ଉତ୍ସବ ମୂର୍ତ୍ତି ଅଣାଯାଏ। ବୈକୁଣ୍ଠ ଏକାଦଶୀ ଓ ଆଳ୍ୱାରମାନଙ୍କ ଦିନ, ବିଶେଷତଃ ତିରୁପ୍ପାଣ ଆଳ୍ୱାରଙ୍କ, ଭକ୍ତିଭାବରେ ପାଳିତ ହୁଏ।",
+    "experience": "ଶ୍ରୀରଙ୍ଗମ୍‌ରୁ ଅଳ୍ପ ବାଟରେ, ଉରୈୟୂର ସେହି ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ପୁରସ୍କୃତ କରେ ଯିଏ ରଙ୍ଗନାଥଙ୍କ ବଧୂଙ୍କ ଘରକୁ ଆସି ଦର୍ଶନ ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତି। ପରିବେଶ ଘରୋଇ ଓ କୋମଳ — ପୂଜାର ହୃଦୟରେ ଦେବୀ, ତାଙ୍କ ପାଖରେ ବରରୂପେ ପ୍ରଭୁ — ଏବଂ ପୁଷ୍କରିଣୀ ପାଖରେ ଥିବା ତିରୁପ୍ପାଣ ଆଳ୍ୱାରଙ୍କ ଦେବାଳୟ ସେହି ନିମ୍ନକୁଳୋଦ୍ଭବ ଗାୟକଙ୍କୁ ସ୍ମରଣ କରାଏ, ଯାହାଙ୍କୁ ପରମ୍ପରା ଅନୁସାରେ ଶ୍ରୀରଙ୍ଗମ୍‌ର ଗର୍ଭଗୃହକୁ ବହନ କରି ନିଆଯାଇଥିଲା।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Chittirai chariot festival, Panguni Pooram and Vaikunta Ekadashi are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Uraiyur lies within Tiruchirappalli, a few kilometres from the Chathiram bus stand and Tiruchirappalli Junction, and a short drive across the Kaveri from Srirangam; Tiruchirappalli International Airport is the nearest airport."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ଅଧିବେଶନ ଏବଂ ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ ସହିତ ଖୋଲା ରହେ; ଚିତ୍ତିରୈ ରଥୋତ୍ସବ, ପାଙ୍ଗୁନି ପୂରମ୍ ଓ ବୈକୁଣ୍ଠ ଏକାଦଶୀରେ ସର୍ବାଧିକ ଭିଡ଼ ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ଶାଳୀନ ପାରମ୍ପରିକ ପୋଷାକ ଆବଶ୍ୟକ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ରହିବା ଉଚିତ; ପ୍ରବେଶ ପୂର୍ବରୁ ଜୋତା ଖୋଲିବାକୁ ହେବ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜାରୀଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଓ ତାହାର ଚାରିପାଖରେ ଫଟୋ ଉଠାଇବା ସୀମିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜାରୀଙ୍କ ନିର୍ଦ୍ଦେଶ ମାନନ୍ତୁ।",
+    "gettingThere": "ଉରୈୟୂର ତିରୁଚ୍ଚିରାପଲ୍ଲୀ ଭିତରେ, ଚତ୍ରମ୍ ବସ୍ ଷ୍ଟାଣ୍ଡ ଓ ତିରୁଚ୍ଚିରାପଲ୍ଲୀ ଜଙ୍କ୍ସନ୍‌ରୁ କିଛି କିଲୋମିଟର ଦୂରରେ, ଏବଂ କାବେରୀ ସେପାରିରେ ଶ୍ରୀରଙ୍ଗମ୍‌ରୁ ଅଳ୍ପ ଗାଡ଼ି ବାଟରେ ଅବସ୍ଥିତ; ତିରୁଚ୍ଚିରାପଲ୍ଲୀ ଆନ୍ତର୍ଜାତିକ ବିମାନବନ୍ଦର ନିକଟତମ ବିମାନବନ୍ଦର।"
   }
 }

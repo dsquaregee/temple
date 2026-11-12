@@ -1,29 +1,36 @@
 {
   "id": "sivapuranathar-sivapuram",
   "locale": "or",
+  "name": "ସିବଗୁରୁନାଥସ୍ୱାମୀ ମନ୍ଦିର, ସିବପୁରମ୍",
   "nativeName": "சிவபுரம் சிவகுருநாதசுவாமி கோயில்",
+  "deity": "ଶିବ ସିବଗୁରୁନାଥସ୍ୱାମୀ (ସିବପୁରନାଥର) ରୂପରେ, ଦେବୀ ଆର୍ୟାମ୍ବାଳ ଓ ସିଙ୍ଗାରବଲ୍ଲୀଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ — ତେବାରମ୍‌ରେ ସ୍ତୁତ ଏକ ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍",
   "location": {
-    "city": "Sivapuram, near Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "ସିବପୁରମ୍, କୁମ୍ବକୋଣମ୍ ନିକଟରେ",
+    "state": "ତାମିଲ୍‌ନାଡ଼ୁ",
     "lat": 10.9683,
     "lng": 79.435
   },
+  "period": "ତେବାରମ୍ ଯୁଗ, ଚୋଳ ଯୁଗର ନିର୍ମାଣ ସହିତ",
   "century": 9,
+  "dynasty": "ଚୋଳ (ପରବର୍ତ୍ତୀ ସଂଯୋଜନା ସହିତ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "କୁମ୍ବକୋଣମ୍‌ର ଅଳ୍ପ ପୂର୍ବରେ ଥିବା ସିବପୁରମ୍ ଶିବଙ୍କୁ ସିବଗୁରୁନାଥସ୍ୱାମୀ — ସିବପୁରନାଥର ମଧ୍ୟ — ରୂପେ ସମ୍ମାନିତ କରେ; ଏହା କାବେରୀ ଅଞ୍ଚଳର ଏକ ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍, ଦେବୀ ଆର୍ୟାମ୍ବାଳ ଓ ସିଙ୍ଗାରବଲ୍ଲୀଙ୍କ ସହିତ। ଏହାର ମାଟି ତଳେ ଅସଂଖ୍ୟ ଶିବଲିଙ୍ଗ ରହିଛି ବୋଲି ଏକ ଐତିହ୍ୟ ଏହି ନାମର ବ୍ୟାଖ୍ୟା କରେ। କୁବେର ଦେବତାମାନଙ୍କ ମଧ୍ୟରେ ନିଜ ସ୍ଥାନ ପୁନଃପ୍ରାପ୍ତ କରିଥିବା କୁବେରପୁରୀ ରୂପେ, ଏବଂ ବିଷ୍ଣୁ ବରାହ ରୂପରେ ପ୍ରଭୁଙ୍କୁ ପୂଜା କରିଥିବା ସ୍ଥାନ ରୂପେ ସ୍ମରଣୀୟ ଏହି ମନ୍ଦିର ତାହାର ଶାନ୍ତ ବଦ୍ୱୀପ ପରିବେଶ ତଳେ ସ୍ତରେ ସ୍ତରେ ଲୋକକଥା ବହନ କରେ।",
   "sections": {
-    "history": "Sivapuram, about six kilometres east of Kumbakonam, is an ancient Shaiva site revered in the Tevaram and counted among the Paadal Petra Sthalams of the Chola country. The stone temple is of the Chola period with later additions. Its layered historical names — Kuberapuram, Bhookailas, Shenbagaranyam — and the tradition of a village resting over countless buried lingams give the place a reputation for deep and hidden sanctity.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Sivagurunathaswamy. Uncommonly it has two goddess shrines, Aryambal and Singaravalli. The sthala vriksham is traditionally the shenbagam, the champak. The temple's reputation as 'Bhookailas' — Kailasa on earth — reflects the belief that the ground itself is dense with the presence of the lord.",
-    "legends": "Several stories gather at Sivapuram. Kubera, cursed by Nandi to be born on earth, came as the king Dhanapati and worshipped here, regaining his place among the gods — so the place is called Kuberapuri. Vishnu, in his boar (Varaha) form, is said to have worshipped the lord here with lotus flowers. The village name itself is explained by the belief that countless Shiva lingams lie beneath its soil. And it is told that when Sambandar came, he would not set foot on so sacred a ground, worshipping instead by rolling in circumambulation (angapradakshinam).",
-    "festivals": "The temple's foremost festival is the Aippasi Annabhishekam, in the Tamil month of Aippasi (October–November), when the lingam is bathed in cooked rice. The regular Shaiva observances of Maha Shivaratri, Pradosham and the Margazhi season are also kept, and the temple's Kubera association draws devotees seeking prosperity.",
-    "experience": "Sivapuram offers the pilgrim a temple whose quiet surface rests on a deep lore — a 'Kailasa on earth' said to hide countless lingams, where a god of wealth regained his place and the preserver himself came to worship. The darshan of Sivagurunathaswamy, close to the great temple town of Kumbakonam, rewards those who seek the layered sanctity of the delta."
+    "history": "କୁମ୍ବକୋଣମ୍‌ର ପ୍ରାୟ ଛଅ କିଲୋମିଟର ପୂର୍ବରେ ଥିବା ସିବପୁରମ୍ ଏକ ପ୍ରାଚୀନ ଶୈବ ସ୍ଥଳ, ତେବାରମ୍‌ରେ ପୂଜିତ ଏବଂ ଚୋଳ ଦେଶର ପାଡ଼ଲ ପେତ୍ର ସ୍ଥଳମ୍ ମଧ୍ୟରେ ଗଣିତ। ପ୍ରସ୍ତର ମନ୍ଦିରଟି ଚୋଳ ଯୁଗର, ପରବର୍ତ୍ତୀ ସଂଯୋଜନା ସହିତ। ଏହାର ସ୍ତରେ ସ୍ତରେ ଐତିହାସିକ ନାମ — କୁବେରପୁରମ୍, ଭୂକୈଳାସ, ଶେଣ୍ବକାରଣ୍ୟମ୍ — ଏବଂ ଅସଂଖ୍ୟ ପୋତା ଲିଙ୍ଗ ଉପରେ ଗାଁ ରହିଛି ବୋଲି ଐତିହ୍ୟ ସ୍ଥାନଟିକୁ ଗଭୀର ଓ ଲୁକ୍କାୟିତ ପବିତ୍ରତାର ଖ୍ୟାତି ଦିଏ।",
+    "architecture": "ମନ୍ଦିର ଦ୍ରାବିଡ଼ ଯୋଜନା ଅନୁସରଣ କରେ — ଗୋପୁରମ୍, ପ୍ରାକାର ଓ ସିବଗୁରୁନାଥସ୍ୱାମୀଙ୍କ ଗର୍ଭଗୃହ ସହିତ। ଅସାଧାରଣ ଭାବେ ଏଠାରେ ଦୁଇଟି ଦେବୀ ମନ୍ଦିର ଅଛି — ଆର୍ୟାମ୍ବାଳ ଓ ସିଙ୍ଗାରବଲ୍ଲୀ। ସ୍ଥଳ ବୃକ୍ଷ ପରମ୍ପରାଗତ ଭାବେ ଶେଣ୍ବକମ୍, ଅର୍ଥାତ୍ ଚମ୍ପକ। 'ଭୂକୈଳାସ' — ପୃଥିବୀ ଉପରର କୈଳାସ — ରୂପେ ମନ୍ଦିରର ଖ୍ୟାତି ଏହି ବିଶ୍ୱାସକୁ ପ୍ରତିଫଳିତ କରେ ଯେ ଭୂମି ନିଜେ ପ୍ରଭୁଙ୍କ ସାନ୍ନିଧ୍ୟରେ ଘନୀଭୂତ।",
+    "legends": "ସିବପୁରମ୍‌ରେ ଅନେକ କାହାଣୀ ଏକତ୍ର ହୋଇଛି। ନନ୍ଦୀଙ୍କ ଅଭିଶାପରେ ପୃଥିବୀରେ ଜନ୍ମ ନେବାକୁ ବାଧ୍ୟ ହୋଇଥିବା କୁବେର ରାଜା ଧନପତି ରୂପେ ଆସି ଏଠାରେ ପୂଜା କରି ଦେବତାମାନଙ୍କ ମଧ୍ୟରେ ନିଜ ସ୍ଥାନ ପୁନଃପ୍ରାପ୍ତ କଲେ — ତେଣୁ ସ୍ଥାନଟି କୁବେରପୁରୀ ନାମରେ ପରିଚିତ। ବିଷ୍ଣୁ ବରାହ ରୂପରେ ଏଠାରେ ପଦ୍ମ ଫୁଲରେ ପ୍ରଭୁଙ୍କୁ ପୂଜା କରିଥିଲେ ବୋଲି କୁହାଯାଏ। ଗାଁର ନାମ ମଧ୍ୟ ଏହି ବିଶ୍ୱାସରୁ ଆସିଛି ଯେ ଏହାର ମାଟି ତଳେ ଅସଂଖ୍ୟ ଶିବଲିଙ୍ଗ ରହିଛି। ଆଉ କୁହାଯାଏ ଯେ ସମ୍ବନ୍ଦର ଆସିଲାବେଳେ ଏତେ ପବିତ୍ର ଭୂମିରେ ପାଦ ରଖିବାକୁ ସାହସ କଲେ ନାହିଁ, ବରଂ ଗଡ଼ି ଗଡ଼ି ପ୍ରଦକ୍ଷିଣା (ଅଙ୍ଗପ୍ରଦକ୍ଷିଣମ୍) କରି ପୂଜା କଲେ।",
+    "festivals": "ମନ୍ଦିରର ପ୍ରଧାନ ଉତ୍ସବ ହେଉଛି ଆପ୍ପାସି ଅନ୍ନାଭିଷେକ, ତାମିଲ୍ ମାସ ଆପ୍ପାସି (ଅକ୍ଟୋବର–ନଭେମ୍ବର)ରେ, ଯେତେବେଳେ ଲିଙ୍ଗଙ୍କୁ ରନ୍ଧା ଭାତରେ ସ୍ନାନ କରାଯାଏ। ମହାଶିବରାତ୍ରି, ପ୍ରଦୋଷମ୍ ଓ ମାର୍ଗଳି ଋତୁର ନିୟମିତ ଶୈବ ପର୍ବ ମଧ୍ୟ ପାଳିତ ହୁଏ, ଏବଂ ମନ୍ଦିରର କୁବେର ସମ୍ପର୍କ ସମୃଦ୍ଧି ଚାହୁଁଥିବା ଭକ୍ତମାନଙ୍କୁ ଆକର୍ଷିତ କରେ।",
+    "experience": "ସିବପୁରମ୍ ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ଏକ ଏପରି ମନ୍ଦିର ଦିଏ ଯାହାର ଶାନ୍ତ ବାହ୍ୟ ରୂପ ଏକ ଗଭୀର ଲୋକକଥା ଉପରେ ଆଧାରିତ — ଅସଂଖ୍ୟ ଲିଙ୍ଗ ଲୁଚାଇ ରଖିଥିବା ଏକ 'ପୃଥିବୀ ଉପରର କୈଳାସ', ଯେଉଁଠି ଧନର ଦେବତା ନିଜ ସ୍ଥାନ ପୁନଃପ୍ରାପ୍ତ କଲେ ଏବଂ ପାଳକ ନିଜେ ପୂଜା କରିବାକୁ ଆସିଲେ। ମନ୍ଦିର ନଗରୀ କୁମ୍ବକୋଣମ୍ ନିକଟରେ ସିବଗୁରୁନାଥସ୍ୱାମୀଙ୍କ ଦର୍ଶନ ବଦ୍ୱୀପର ସ୍ତରବିଶିଷ୍ଟ ପବିତ୍ରତା ଖୋଜୁଥିବା ଲୋକମାନଙ୍କୁ ପୁରସ୍କୃତ କରେ।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sivapuram is about 6 km east of Kumbakonam in Thanjavur district; Kumbakonam is the nearest rail head and town, with local buses and taxis to the village."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷ କରି ଉତ୍ସବ ଦିନରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ବିନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି ରହିବା ଉଚିତ; ପାଦୁକା ପ୍ରବେଶଦ୍ୱାର ନିକଟରେ ଛାଡ଼ିବାକୁ ହୁଏ।",
+    "photography": "ବାହାର ପ୍ରାକାର ଓ ପ୍ରାଙ୍ଗଣରେ ସାଧାରଣତଃ ଫଟୋ ଉଠାଇବାକୁ ଅନୁମତି ଅଛି, କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ପୂଜାବିଧିର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ସିବପୁରମ୍ ଥଞ୍ଜାବୁର ଜିଲ୍ଲାରେ କୁମ୍ବକୋଣମ୍‌ର ପ୍ରାୟ ୬ କି.ମି. ପୂର୍ବରେ ଅବସ୍ଥିତ; କୁମ୍ବକୋଣମ୍ ନିକଟତମ ରେଳ ଷ୍ଟେସନ୍ ଓ ସହର, ସେଠାରୁ ଗାଁକୁ ସ୍ଥାନୀୟ ବସ୍ ଓ ଟ୍ୟାକ୍ସି ଚାଲେ।"
   }
 }

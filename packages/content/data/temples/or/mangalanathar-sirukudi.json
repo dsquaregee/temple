@@ -1,29 +1,36 @@
 {
   "id": "mangalanathar-sirukudi",
   "locale": "or",
+  "name": "ମଙ୍ଗଳେଶ୍ୱର ମନ୍ଦିର, ସିରୁକୁଡ଼ି",
   "nativeName": "சிறுகுடி மங்களேஸ்வரர் (சூக்ஷ்மபுரீஸ்வரர்) கோயில்",
+  "deity": "ଶିବ ମଙ୍ଗଳେଶ୍ୱର (ସୂକ୍ଷ୍ମପୁରୀଶ୍ୱର) ରୂପେ, ଦେବୀ ମଙ୍ଗଳା ନାୟକୀ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଦଲ ପେତ୍ର ସ୍ଥଳମ୍, ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ଗୀତ",
   "location": {
-    "city": "Sirukudi, near Tirupampuram",
-    "state": "Tamil Nadu",
+    "city": "ସିରୁକୁଡ଼ି, ତିରୁପମ୍ପୁରମ୍ ନିକଟରେ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 10.905,
     "lng": 79.6033
   },
+  "period": "ତେଭାରମ୍ ଯୁଗ, ଚୋଳ ଯୁଗର ସଂରଚନା ସହିତ",
   "century": 9,
+  "dynasty": "ଚୋଳ (ପରବର୍ତ୍ତୀ ସଂଯୋଜନା ସହିତ)",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ତିରୁପମ୍ପୁରମ୍‌ର କିଛି ଦୂର ପଶ୍ଚିମରେ ଥିବା ସିରୁକୁଡ଼ି ଶିବଙ୍କୁ ମଙ୍ଗଳେଶ୍ୱର — ସୂକ୍ଷ୍ମପୁରୀଶ୍ୱର ମଧ୍ୟ କୁହାଯାଏ — ରୂପେ ଦେବୀ ମଙ୍ଗଳା ନାୟକୀଙ୍କ ସହିତ ପୂଜା କରେ। ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ଗୀତ ଏହି ପାଦଲ ପେତ୍ର ସ୍ଥଳମ୍ ଏକ କୋମଳ କାହାଣୀ ବହନ କରେ: କୈଳାସ ପର୍ବତରେ ପାଶା ଖେଳରେ ପାର୍ବତୀ ଜିତିବା ପରେ ଶିବ ତାଙ୍କ ଦୃଷ୍ଟିରୁ ଅନ୍ତର୍ହିତ ହେଲେ, ସେ ଏଠାରେ ମୁଠାଏ ବାଲିରେ ଶିବଲିଙ୍ଗ ଗଢ଼ି ପୂଜା କଲେ, ଏବଂ ପ୍ରଭୁ ପ୍ରସନ୍ନ ହୋଇ ପ୍ରକଟ ହୋଇ ତାଙ୍କୁ ପୁଣି ଗ୍ରହଣ କଲେ। ସେହି ମୁଠାଏ ବାଲି, ସିରୁପିଡ଼ିରୁ, ଗାଁର ନାମ ଆସିଛି।",
   "sections": {
-    "history": "Sirukudi is an ancient Shaiva village near Tirupampuram, hymned in the seventh-century Tevaram by Sambandar and counted among the Paadal Petra Sthalams. The stone temple is of the Chola period with later additions. Its layered names — Mangaleswarar for the goddess Mangala Nayaki, and Sookshmapureeswarar from the sthala legend — carry a tradition in which the lord, having grown 'subtle' and vanished on Kailasa, re-manifested here before his consort.",
-    "architecture": "The temple follows the Dravidian plan with a gopuram, prakara and the sanctum of Mangaleswarar; the goddess Mangala Nayaki has her own shrine. A modest delta temple, it keeps the quiet, intimate scale of the lesser-known Paadal Petra shrines. Its nearness to Tirupampuram, three kilometres to the east, makes it a natural companion visit for pilgrims in that part of the delta.",
-    "legends": "The sthala-purana tells that on Mount Kailasa, Parvati won a game of dice against Shiva, after which the lord withdrew and became subtle, vanishing from her sight. Grieving, Parvati came to this place and made a lingam of a handful of sand — sirupidi — and worshipped it with deep devotion. Pleased, Shiva appeared before her and accepted her once more. Because the lord, having grown subtle (sookshma) on Kailasa, re-manifested here, the place is called Sookshmapuri and the deity Sookshmapureeswarar; and from the handful of sand the village takes the name Sirukudi.",
-    "festivals": "The temple keeps the Shaiva festival calendar — Maha Shivaratri, Pradosham and the Margazhi season — at the quiet scale of a village shrine. The reunion legend gives the temple a gentle association with marital harmony and reconciliation, and local observances mark the Tamil months.",
-    "experience": "Sirukudi offers the pilgrim a tender story of separation and reunion at the heart of its worship — a goddess who won a game and then won her lord back with a handful of sand. The darshan of Mangaleswarar, close to the serpent-temple of Tirupampuram, rewards those who seek out the quieter Paadal Petra shrines with a story of love restored."
+    "history": "ସିରୁକୁଡ଼ି ତିରୁପମ୍ପୁରମ୍ ନିକଟରେ ଏକ ପ୍ରାଚୀନ ଶୈବ ଗ୍ରାମ, ସପ୍ତମ ଶତାବ୍ଦୀର ତେଭାରମ୍‌ରେ ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତିଗାନ ହୋଇଛି ଏବଂ ପାଦଲ ପେତ୍ର ସ୍ଥଳମ୍ ମଧ୍ୟରେ ଗଣିତ। ପଥରର ମନ୍ଦିରଟି ଚୋଳ ଯୁଗର, ପରବର୍ତ୍ତୀ ସଂଯୋଜନା ସହିତ। ଏହାର ସ୍ତରଯୁକ୍ତ ନାମ — ଦେବୀ ମଙ୍ଗଳା ନାୟକୀଙ୍କ ପାଇଁ ମଙ୍ଗଳେଶ୍ୱର, ଏବଂ ସ୍ଥଳ ଦନ୍ତକଥାରୁ ସୂକ୍ଷ୍ମପୁରୀଶ୍ୱର — ଏକ ପରମ୍ପରା ବହନ କରେ ଯେଉଁଥିରେ କୈଳାସରେ 'ସୂକ୍ଷ୍ମ' ହୋଇ ଅନ୍ତର୍ହିତ ହୋଇଥିବା ପ୍ରଭୁ ଏଠାରେ ନିଜ ସହଧର୍ମିଣୀଙ୍କ ସମ୍ମୁଖରେ ପୁନଃପ୍ରକଟ ହେଲେ।",
+    "architecture": "ମନ୍ଦିର ଗୋପୁରମ୍, ପ୍ରାକାର ଓ ମଙ୍ଗଳେଶ୍ୱରଙ୍କ ଗର୍ଭଗୃହ ସହିତ ଦ୍ରାବିଡ଼ ଯୋଜନା ଅନୁସରଣ କରେ; ଦେବୀ ମଙ୍ଗଳା ନାୟକୀଙ୍କର ନିଜସ୍ୱ ମନ୍ଦିର ଅଛି। ଏକ ସାଧାରଣ ବଦ୍ୱୀପ ମନ୍ଦିର ଭାବେ, ଏହା କମ୍ ପରିଚିତ ପାଦଲ ପେତ୍ର ଦେବାଳୟମାନଙ୍କର ଶାନ୍ତ, ଘନିଷ୍ଠ ପରିମାଣକୁ ବଜାୟ ରଖିଛି। ପୂର୍ବ ଦିଗରେ ତିନି କିଲୋମିଟର ଦୂରରେ ଥିବା ତିରୁପମ୍ପୁରମ୍ ନିକଟ ହେତୁ, ସେହି ଅଞ୍ଚଳର ଯାତ୍ରୀଙ୍କ ପାଇଁ ଏହା ଏକ ସ୍ୱାଭାବିକ ସହଯାତ୍ରା ଗନ୍ତବ୍ୟ।",
+    "legends": "ସ୍ଥଳ ପୁରାଣ କହେ ଯେ କୈଳାସ ପର୍ବତରେ ପାର୍ବତୀ ଶିବଙ୍କ ବିରୁଦ୍ଧରେ ପାଶା ଖେଳ ଜିତିଲେ, ତା'ପରେ ପ୍ରଭୁ ଅଲଗା ହୋଇ ସୂକ୍ଷ୍ମ ରୂପ ଧାରଣ କରି ତାଙ୍କ ଦୃଷ୍ଟିରୁ ଅନ୍ତର୍ହିତ ହେଲେ। ଦୁଃଖିତ ପାର୍ବତୀ ଏହି ସ୍ଥାନକୁ ଆସି ମୁଠାଏ ବାଲି — ସିରୁପିଡ଼ି — ରେ ଶିବଲିଙ୍ଗ ଗଢ଼ି ଗଭୀର ଭକ୍ତିରେ ପୂଜା କଲେ। ପ୍ରସନ୍ନ ହୋଇ ଶିବ ତାଙ୍କ ସମ୍ମୁଖରେ ପ୍ରକଟ ହୋଇ ତାଙ୍କୁ ପୁନର୍ବାର ଗ୍ରହଣ କଲେ। କୈଳାସରେ ସୂକ୍ଷ୍ମ (ସୂକ୍ଷ୍ମ) ହୋଇଥିବା ପ୍ରଭୁ ଏଠାରେ ପୁନଃପ୍ରକଟ ହେତୁ ସ୍ଥାନକୁ ସୂକ୍ଷ୍ମପୁରୀ ଏବଂ ଦେବତାଙ୍କୁ ସୂକ୍ଷ୍ମପୁରୀଶ୍ୱର କୁହାଯାଏ; ଏବଂ ମୁଠାଏ ବାଲିରୁ ଗାଁ ସିରୁକୁଡ଼ି ନାମ ପାଇଛି।",
+    "festivals": "ମନ୍ଦିର ଶୈବ ଉତ୍ସବ ପଞ୍ଜିକା — ମହାଶିବରାତ୍ରି, ପ୍ରଦୋଷମ୍ ଏବଂ ମାର୍ଗଳି ଋତୁ — ଏକ ଗ୍ରାମ୍ୟ ଦେବାଳୟର ଶାନ୍ତ ପରିସରରେ ପାଳନ କରେ। ପୁନର୍ମିଳନର ଦନ୍ତକଥା ମନ୍ଦିରକୁ ବୈବାହିକ ସଦ୍ଭାବ ଓ ମିଳନ ସହିତ ଏକ କୋମଳ ସମ୍ପର୍କ ଦିଏ, ଏବଂ ସ୍ଥାନୀୟ ଅନୁଷ୍ଠାନମାନ ତାମିଲ ମାସଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରେ।",
+    "experience": "ସିରୁକୁଡ଼ି ଯାତ୍ରୀଙ୍କୁ ଏହାର ପୂଜାର ହୃଦୟରେ ବିଚ୍ଛେଦ ଓ ପୁନର୍ମିଳନର ଏକ କୋମଳ କାହାଣୀ ଦିଏ — ଏକ ଦେବୀ ଯିଏ ଖେଳ ଜିତିଲେ ଏବଂ ତା'ପରେ ମୁଠାଏ ବାଲିରେ ନିଜ ପ୍ରଭୁଙ୍କୁ ପୁଣି ଜିତିଲେ। ସର୍ପ-ମନ୍ଦିର ତିରୁପମ୍ପୁରମ୍ ନିକଟରେ ମଙ୍ଗଳେଶ୍ୱରଙ୍କ ଦର୍ଶନ, ପୁନଃସ୍ଥାପିତ ପ୍ରେମର କାହାଣୀ ସହିତ ଶାନ୍ତ ପାଦଲ ପେତ୍ର ଦେବାଳୟମାନଙ୍କୁ ଖୋଜୁଥିବା ଲୋକଙ୍କୁ ପୁରସ୍କୃତ କରେ।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Sirukudi is in Tiruvarur district, about 3 km west of Tirupampuram and near Kuthalam; the nearest rail heads are Kuthalam and Mayiladuthurai, with local buses and taxis to the village."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷକରି ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ହୋଇଥିବା ସଂଯତ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ; ଜୋତା ପ୍ରବେଶ ଦ୍ୱାରରେ ଛାଡ଼ିବାକୁ ହୁଏ।",
+    "photography": "ବାହ୍ୟ ପରିକ୍ରମା ପଥରେ ସାଧାରଣତଃ ଫଟୋ ଉଠାଇବା ଅନୁମତିପ୍ରାପ୍ତ, କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ଧର୍ମାନୁଷ୍ଠାନର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ସିରୁକୁଡ଼ି ତିରୁଭାରୁର ଜିଲ୍ଲାରେ, ତିରୁପମ୍ପୁରମ୍‌ର ପ୍ରାୟ ୩ କିଲୋମିଟର ପଶ୍ଚିମରେ ଏବଂ କୁତ୍ତାଲମ୍ ନିକଟରେ; ନିକଟତମ ରେଳ ଷ୍ଟେସନ କୁତ୍ତାଲମ୍ ଓ ମାୟିଲାଦୁତୁରାଇ, ଗାଁକୁ ସ୍ଥାନୀୟ ବସ୍ ଓ ଟ୍ୟାକ୍ସି ମିଳେ।"
   }
 }

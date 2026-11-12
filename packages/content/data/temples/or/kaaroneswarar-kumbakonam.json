@@ -1,29 +1,36 @@
 {
   "id": "kaaroneswarar-kumbakonam",
   "locale": "or",
+  "name": "କାରୋଣେଶ୍ୱର ମନ୍ଦିର (କୁଡ଼ନ୍ତୈ କାରୋଣମ୍), କୁମ୍ବକୋଣମ",
   "nativeName": "கும்பகோணம் காரோணம் (காசி விசுவநாதர்) கோயில்",
+  "deity": "କାରୋଣେଶ୍ୱର (କାୟାରୋହଣେଶ୍ୱର) ରୂପରେ ଶିବ, ତେବାରମ୍‌ର କୁଡ଼ନ୍ତୈ କାରୋଣମ୍",
+  "tradition": "ଶୈବ — ଅପ୍ପର ଓ ସମ୍ବନ୍ଦରଙ୍କ ଦ୍ୱାରା ଗୀତ ଏକ ପାଡ଼ଲ୍ ପେତ୍ର ସ୍ଥଳମ୍",
   "location": {
-    "city": "Kumbakonam",
-    "state": "Tamil Nadu",
+    "city": "କୁମ୍ବକୋଣମ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 10.9602,
     "lng": 79.3789
   },
+  "period": "ତେବାରମ୍ ଯୁଗ, ଚୋଳ ଗଠନ ଓ ନାୟକ ସମ୍ପ୍ରସାରଣ ସହ",
   "century": 9,
+  "dynasty": "ଚୋଳ, ପରବର୍ତ୍ତୀ ନାୟକମାନଙ୍କ ସହ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ମନ୍ଦିର-ନଗରୀ କୁମ୍ବକୋଣମରେ କାଶୀ ବିଶ୍ୱନାଥର ମନ୍ଦିରକୁ ଅନେକେ ତେବାରମ୍‌ରେ ପ୍ରଶଂସିତ କୁଡ଼ନ୍ତୈ କାରୋଣମ୍ ବୋଲି ଶ୍ରଦ୍ଧା କରନ୍ତି — ଏହା କାରୋଣେଶ୍ୱର, ଯାହାଙ୍କୁ କାୟାରୋହଣେଶ୍ୱର ମଧ୍ୟ କୁହାଯାଏ, ତାଙ୍କ ମନ୍ଦିର। ଅପ୍ପର ଓ ସମ୍ବନ୍ଦରଙ୍କ ଦ୍ୱାରା ଗୀତ ଏକ ପାଡ଼ଲ୍ ପେତ୍ର ସ୍ଥଳମ୍ ଭାବେ, ଏହା ମହାମହମ୍ ପୁଷ୍କରିଣୀ ନିକଟରେ ଅବସ୍ଥିତ ଏବଂ ଏହାର ଉଚ୍ଚ ପଶ୍ଚିମ ଗୋପୁର ପାଇଁ ପ୍ରସିଦ୍ଧ। ଏହାର କାରୋଣମ୍ ପରିଚୟ ଭକ୍ତି ପରମ୍ପରାରେ ନିକଟସ୍ଥ ସୋମେଶ୍ୱର ମନ୍ଦିର ସହ ଭାଗ କରାଯାଏ, ଏବଂ ଉଭୟ କୁମ୍ବକୋଣମର ଘନ ପ୍ରାଚୀନ ମନ୍ଦିର ଗୁଚ୍ଛ ମଧ୍ୟରେ ପ୍ରିୟ।",
   "sections": {
-    "history": "Kumbakonam is among the most temple-dense of Tamil towns, clustered around the sacred Mahamaham tank. The Kasi Viswanathar temple here is held by many devotees — and by its own priests — to be the Kudanthai Karonam praised in the Tevaram, the shrine the saints Appar and Sambandar sang. The claim is shared: priests of the nearby Someswarar temple maintain that theirs is the Tevaram Karonam, and both traditions have long coexisted. The stone temple carries Chola work with substantial Nayak-period expansion.",
-    "architecture": "The temple is a Dravidian complex whose tallest tower is the western gopuram, rising seven storeys to about 72 feet. Within, the sanctum enshrines the lingam worshipped as Kaaroneswarar. Its setting beside the Mahamaham tank places it at the heart of Kumbakonam's sacred geography, among the ring of temples that draw pilgrims to the town's famous twelve-yearly Mahamaham festival.",
-    "legends": "The name Kayarohaneswarar is explained by the tradition of a devotee embracing the lingam — kaya, the body, arohana, ascent or clasping — the name later shortening to Karonam. Another tradition links the name to Rama, who is said to have absorbed the essence of Rudra here. As with much of Kumbakonam's sacred lore, these stories belong to the dense web of legend that gathers around the Mahamaham tank, into which, it is believed, the waters of the sacred rivers descend.",
-    "festivals": "The temple shares in Kumbakonam's great festival life, above all the Mahamaham, held once in twelve years, when pilgrims in their lakhs bathe in the tank and the town's temples open their processions. The Shaiva calendar — Maha Shivaratri, Pradosham and the Margazhi season — is kept with the vigour of a major temple town, and the tall western gopuram presides over it all.",
-    "experience": "To visit the Karonam at Kumbakonam is to step into one of the densest concentrations of sanctity in the Tamil land. Pilgrims move among the town's many shrines and the Mahamaham tank, and the darshan of Kaaroneswarar is part of a larger pilgrimage through a sacred townscape layered with Chola stone and living tradition."
+    "history": "କୁମ୍ବକୋଣମ ପବିତ୍ର ମହାମହମ୍ ପୁଷ୍କରିଣୀ ଚାରିପାଖରେ ଗଢ଼ା ତାମିଲ ନଗରମାନଙ୍କ ମଧ୍ୟରେ ସର୍ବାଧିକ ମନ୍ଦିର-ଘନ ସ୍ଥାନମାନଙ୍କ ମଧ୍ୟରୁ ଏକ। ଏଠାକାର କାଶୀ ବିଶ୍ୱନାଥ ମନ୍ଦିରକୁ ଅନେକ ଭକ୍ତ — ଏବଂ ଏହାର ନିଜ ପୂଜାରୀମାନେ ମଧ୍ୟ — ତେବାରମ୍‌ରେ ପ୍ରଶଂସିତ କୁଡ଼ନ୍ତୈ କାରୋଣମ୍ ବୋଲି ମାନନ୍ତି, ଯେଉଁ ମନ୍ଦିରକୁ ଅପ୍ପର ଓ ସମ୍ବନ୍ଦର ସନ୍ଥମାନେ ଗାଇଥିଲେ। ଏହି ଦାବି ଭାଗ କରାଯାଏ: ନିକଟସ୍ଥ ସୋମେଶ୍ୱର ମନ୍ଦିରର ପୂଜାରୀମାନେ ଦୃଢ଼ତାର ସହ କହନ୍ତି ଯେ ସେମାନଙ୍କ ମନ୍ଦିର ହିଁ ତେବାରମ୍‌ର କାରୋଣମ୍, ଏବଂ ଉଭୟ ପରମ୍ପରା ଦୀର୍ଘକାଳ ଧରି ସହାବସ୍ଥାନ କରିଆସିଛନ୍ତି। ପଥରର ଏହି ମନ୍ଦିରରେ ଚୋଳ କାର୍ଯ୍ୟ ସହ ନାୟକ ଯୁଗର ଯଥେଷ୍ଟ ସମ୍ପ୍ରସାରଣ ଅଛି।",
+    "architecture": "ମନ୍ଦିରଟି ଏକ ଦ୍ରାବିଡ଼ ସଂକୁଳ, ଯାହାର ସର୍ବୋଚ୍ଚ ଗୋପୁର ହେଉଛି ପଶ୍ଚିମ ଗୋପୁର, ପ୍ରାୟ ୭୨ ଫୁଟ ଉଚ୍ଚ ସାତ ତାଲା ବିଶିଷ୍ଟ। ଭିତରେ ଗର୍ଭଗୃହରେ କାରୋଣେଶ୍ୱର ରୂପେ ପୂଜିତ ଲିଙ୍ଗ ପ୍ରତିଷ୍ଠିତ। ମହାମହମ୍ ପୁଷ୍କରିଣୀ ପାଖରେ ଏହାର ଅବସ୍ଥିତି ଏହାକୁ କୁମ୍ବକୋଣମର ପବିତ୍ର ଭୂଗୋଳର ହୃଦୟରେ ରଖେ, ସେହି ମନ୍ଦିର-ମାଳା ମଧ୍ୟରେ ଯାହା ସହରର ପ୍ରସିଦ୍ଧ ବାର ବର୍ଷର ମହାମହମ୍ ଉତ୍ସବ ପାଇଁ ତୀର୍ଥଯାତ୍ରୀଙ୍କୁ ଆକର୍ଷିତ କରେ।",
+    "legends": "କାୟାରୋହଣେଶ୍ୱର ନାମ ଏକ ଭକ୍ତ ଲିଙ୍ଗକୁ ଆଲିଙ୍ଗନ କରିବାର ପରମ୍ପରା ଦ୍ୱାରା ବୁଝାଯାଏ — କାୟ ଅର୍ଥାତ୍ ଶରୀର, ଆରୋହଣ ଅର୍ଥାତ୍ ଉଠିବା କିମ୍ବା ଆଲିଙ୍ଗନ — ନାମଟି ପରେ କାରୋଣମ୍ ରୂପେ ସଂକ୍ଷିପ୍ତ ହେଲା। ଅନ୍ୟ ଏକ ପରମ୍ପରା ଏହି ନାମକୁ ରାମଙ୍କ ସହ ଯୋଡ଼େ, ଯିଏ ଏଠାରେ ରୁଦ୍ରଙ୍କ ସାର ଆତ୍ମସାତ୍ କରିଥିଲେ ବୋଲି କୁହାଯାଏ। କୁମ୍ବକୋଣମର ଅଧିକାଂଶ ପବିତ୍ର ଲୋକକଥା ପରି, ଏହି କାହାଣୀମାନ ମହାମହମ୍ ପୁଷ୍କରିଣୀ ଚାରିପାଖରେ ଜମିଥିବା ଘନ କିମ୍ବଦନ୍ତୀ ଜାଲର ଅଂଶ, ଯେଉଁ ପୁଷ୍କରିଣୀରେ ପବିତ୍ର ନଦୀମାନଙ୍କର ଜଳ ଅବତରଣ କରେ ବୋଲି ବିଶ୍ୱାସ।",
+    "festivals": "ମନ୍ଦିର କୁମ୍ବକୋଣମର ମହାନ ଉତ୍ସବ ଜୀବନରେ ଅଂଶ ନିଏ, ବିଶେଷକରି ବାର ବର୍ଷରେ ଥରେ ହେଉଥିବା ମହାମହମ୍, ଯେତେବେଳେ ଲକ୍ଷ ଲକ୍ଷ ତୀର୍ଥଯାତ୍ରୀ ପୁଷ୍କରିଣୀରେ ସ୍ନାନ କରନ୍ତି ଏବଂ ସହରର ମନ୍ଦିରମାନେ ସେମାନଙ୍କର ଶୋଭାଯାତ୍ରା ଆରମ୍ଭ କରନ୍ତି। ଶୈବ ପଞ୍ଜିକା — ମହା ଶିବରାତ୍ରି, ପ୍ରଦୋଷମ୍ ଓ ମାର୍ଗଳୀ ଋତୁ — ଏକ ପ୍ରମୁଖ ମନ୍ଦିର-ନଗରର ଉଦ୍ଦୀପନା ସହ ପାଳିତ ହୁଏ, ଏବଂ ଉଚ୍ଚ ପଶ୍ଚିମ ଗୋପୁର ଏସବୁ ଉପରେ ଅଧ୍ୟକ୍ଷତା କରେ।",
+    "experience": "କୁମ୍ବକୋଣମର କାରୋଣମ୍ ଦର୍ଶନ କରିବା ଅର୍ଥ ତାମିଲ ଭୂମିର ପବିତ୍ରତାର ସର୍ବାଧିକ ଘନ କେନ୍ଦ୍ରୀକରଣ ମଧ୍ୟରୁ ଏକରେ ପାଦ ଦେବା। ତୀର୍ଥଯାତ୍ରୀମାନେ ସହରର ଅନେକ ମନ୍ଦିର ଓ ମହାମହମ୍ ପୁଷ୍କରିଣୀ ମଧ୍ୟରେ ବୁଲନ୍ତି, ଏବଂ କାରୋଣେଶ୍ୱରଙ୍କ ଦର୍ଶନ ଚୋଳ ପଥର ଓ ଜୀବନ୍ତ ପରମ୍ପରାର ସ୍ତରରେ ଭରା ଏକ ପବିତ୍ର ନଗରୀ ମଧ୍ୟରେ ବୃହତ୍ତର ତୀର୍ଥଯାତ୍ରାର ଅଂଶ।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "The temple is in Kumbakonam town, Thanjavur district, near the Mahamaham tank; Kumbakonam has its own railway station and is well connected by bus from Thanjavur, Mayiladuthurai and Chennai."
+    "timings": "ସାଧାରଣତଃ ଭୋରରୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁନଃ ବିଳମ୍ବିତ ଅପରାହ୍ନରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା; ବିଶେଷକରି ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ହେବ; ପାଦୁକା ପ୍ରବେଶ ଦ୍ୱାରରେ ରଖାଯାଏ।",
+    "photography": "ବାହାର ପ୍ରଦକ୍ଷିଣା ପଥରେ ସାଧାରଣତଃ ଫଟୋ ଅନୁମତି ଅଛି କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନାହିଁ; ଅନୁଷ୍ଠାନର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ମନ୍ଦିର ତଞ୍ଜାବୁର ଜିଲ୍ଲାର କୁମ୍ବକୋଣମ ସହରରେ, ମହାମହମ୍ ପୁଷ୍କରିଣୀ ନିକଟରେ; କୁମ୍ବକୋଣମର ନିଜସ୍ୱ ରେଳ ଷ୍ଟେସନ ଅଛି ଏବଂ ତଞ୍ଜାବୁର, ମୟିଲାଡୁତୁରୈ ଓ ଚେନ୍ନାଇରୁ ବସ୍ ଦ୍ୱାରା ଭଲ ଭାବେ ସଂଯୁକ୍ତ।"
   }
 }

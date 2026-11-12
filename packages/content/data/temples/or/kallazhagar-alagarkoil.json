@@ -1,30 +1,37 @@
 {
   "id": "kallazhagar-alagarkoil",
   "locale": "or",
+  "name": "କଳ୍ଲଳଗର ମନ୍ଦିର, ଅଳଗର କୋଇଲ",
   "nativeName": "கள்ளழகர் கோயில், அழகர்கோவில்",
+  "deity": "ବିଷ୍ଣୁ ସୁନ୍ଦରରାଜ ପେରୁମାଳ ରୂପେ, କଳ୍ଲଳଗର ନାମରେ ପୂଜିତ, ଦଣ୍ଡାୟମାନ, ଦେବୀ ସୁନ୍ଦରବଲ୍ଲୀ ତାୟାରଙ୍କ ସହିତ",
+  "tradition": "ବୈଷ୍ଣବ ଧର୍ମ",
   "location": {
-    "city": "Alagar Koil, Madurai",
-    "state": "Tamil Nadu",
+    "city": "ଅଳଗର କୋଇଲ, ମଦୁରାଇ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 10.0741,
     "lng": 78.2144
   },
+  "period": "ଅଳଗର ପାହାଡ଼ ପାଦଦେଶରେ ପାଣ୍ଡ୍ୟ ଦେଶର ଏକ ଦିବ୍ୟ ଦେଶମ୍, ନାଲାୟିର ଦିବ୍ୟ ପ୍ରବନ୍ଧମ୍‌ରେ ଅନେକ ଆଳ୍ବାରଙ୍କ ଦ୍ୱାରା ଗୀତ",
   "century": 8,
+  "dynasty": "ପାଣ୍ଡ୍ୟ, ମଦୁରାଇ ନାୟକ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "divya-desams"
   ],
+  "summary": "ବନାଚ୍ଛାଦିତ ଅଳଗର ପାହାଡ଼ ପାଦଦେଶରେ ବିଷ୍ଣୁ ତିରୁମାଳିରୁଞ୍ଚୋଳୈର ସୁନ୍ଦର ପ୍ରଭୁ କଳ୍ଲଳଗର ରୂପେ ଦଣ୍ଡାୟମାନ, ଯିଏ ପ୍ରତି ଚିତ୍ତିରୈରେ ବୈଗୈ ନଦୀକୁ ଓହ୍ଲାଇ ଆସନ୍ତି ଏବଂ ସମଗ୍ର ମଦୁରାଇର ସ୍ୱାଗତ ପାଆନ୍ତି।",
   "sections": {
-    "history": "Known to the Alvars as Thirumaliruncholai, the 'great dark grove', Alagar Koil lies about twenty kilometres north-east of Madurai where the Alagar hills meet the plain. It is one of the 108 Divya Desams of the Pandya country, and few are so richly sung: Nammalvar gave it three decads of his Tiruvaimozhi, Thirumangai Alvar more than thirty verses, and Periyalvar, Andal, Bhoothathalvar and Peyalvar all praise the hill and its lord. The Pandyas were early patrons, and Jatavarman Sundara Pandya in the thirteenth century is remembered for covering the sanctum tower in gold. The Madurai Nayaks shaped the festival life that defines the temple today: under Thirumalai Nayak, in 1653, part of the Chithirai rites was moved to a mandapam he built at Vandiyur on the Vaigai.",
-    "architecture": "The walled temple covers about two acres beneath the wooded slope, entered through a five-tiered gopuram. Over the sanctum rises the Somachandra vimana, whose gold covering is credited to the Pandya kings. The halls are rich in Nayak-period carving, above all the kalyana mandapam, whose pillars carry the lively sculpture of that age. Above the temple, a path climbs the hill to the spring of Noopura Gangai, the sacred water of the shrine, said to flow from the anklet of the lord.",
-    "legends": "The best-loved story is that of the sage Manduka, cursed to live as a frog, whom Azhagar releases by descending from his hill to the banks of the Vaigai — the legend re-enacted each year in the Chithirai festival. Devotees also cherish the bond between this lord and Andal, who longed for Azhagar in her verses; tradition holds that she vowed him a hundred pots of butter and sweet rice, an offering Ramanuja is said to have fulfilled on her behalf centuries later.",
-    "festivals": "The Chithirai festival (April–May) is among the great sights of Tamil Nadu. Kallazhagar sets out in procession from Alagar Koil, is greeted by Madurai in the Ethir Sevai, and on the full moon steps into the Vaigai on a golden horse before lakhs of devotees, as the city celebrates the Meenakshi wedding. Vaikunta Ekadashi is also kept with devotion.",
-    "experience": "Come early, when mist still clings to the Alagar hills and monkeys patrol the outer walls. After darshan of the standing lord, many pilgrims climb on to Noopura Gangai for its spring water, passing the Murugan shrine of Pazhamudircholai on the same hill. Visiting in Chithirai is unforgettable but crowded; at other times the temple is calm and green."
+    "history": "ଆଳ୍ବାରମାନଙ୍କୁ ତିରୁମାଳିରୁଞ୍ଚୋଳୈ — 'ମହାନ କଳା ବନ' — ନାମରେ ପରିଚିତ ଅଳଗର କୋଇଲ ମଦୁରାଇର ପ୍ରାୟ କୋଡ଼ିଏ କିଲୋମିଟର ଉତ୍ତର-ପୂର୍ବରେ, ଯେଉଁଠି ଅଳଗର ପାହାଡ଼ ସମତଳ ଭୂମି ସହିତ ମିଶେ। ଏହା ପାଣ୍ଡ୍ୟ ଦେଶର ୧୦୮ ଦିବ୍ୟ ଦେଶମ୍‌ରୁ ଅନ୍ୟତମ, ଏବଂ ଅଳ୍ପ ମନ୍ଦିର ଏତେ ସମୃଦ୍ଧ ଭାବେ ଗୀତ: ନମ୍ମାଳ୍ବାର ଏହାକୁ ତାଙ୍କ ତିରୁବାୟମୋଳୀର ତିନି ଦଶକ ଦେଇଥିଲେ, ତିରୁମଙ୍ଗୈ ଆଳ୍ବାର ତିରିଶରୁ ଅଧିକ ପଦ, ଏବଂ ପେରିୟାଳ୍ବାର, ଆଣ୍ଡାଳ, ଭୂତତ୍ତାଳ୍ବାର ଓ ପେୟାଳ୍ବାର ସମସ୍ତେ ପାହାଡ଼ ଓ ତାହାର ପ୍ରଭୁଙ୍କୁ ପ୍ରଶଂସା କରିଛନ୍ତି। ପାଣ୍ଡ୍ୟମାନେ ଆରମ୍ଭରୁ ପୃଷ୍ଠପୋଷକ ଥିଲେ, ଏବଂ ତ୍ରୟୋଦଶ ଶତାବ୍ଦୀର ଜଟାବର୍ମନ ସୁନ୍ଦର ପାଣ୍ଡ୍ୟ ଗର୍ଭଗୃହ ଚୂଡ଼ାକୁ ସୁନାରେ ଆବୃତ କରିବା ପାଇଁ ସ୍ମରଣୀୟ। ମଦୁରାଇ ନାୟକମାନେ ମନ୍ଦିରକୁ ଆଜି ପରିଭାଷିତ କରୁଥିବା ଉତ୍ସବ ଜୀବନ ଗଢ଼ିଥିଲେ: ତିରୁମଲୈ ନାୟକଙ୍କ ଅଧୀନରେ ୧୬୫୩ ମସିହାରେ ଚିତ୍ତିରୈ ବିଧିର ଏକ ଅଂଶ ବୈଗୈ ତୀରର ବଣ୍ଡିୟୂରରେ ତାଙ୍କ ନିର୍ମିତ ମଣ୍ଡପକୁ ସ୍ଥାନାନ୍ତରିତ କରାଗଲା।",
+    "architecture": "ପାଚେରୀ ଘେରା ମନ୍ଦିର ବନାଚ୍ଛାଦିତ ଢାଲୁ ତଳେ ପ୍ରାୟ ଦୁଇ ଏକର ବିସ୍ତୃତ, ପାଞ୍ଚ ତଳ ବିଶିଷ୍ଟ ଗୋପୁର ଦେଇ ପ୍ରବେଶ। ଗର୍ଭଗୃହ ଉପରେ ସୋମଚନ୍ଦ୍ର ବିମାନ ଉଠିଛି, ଯାହାର ସୁନା ଆବରଣ ପାଣ୍ଡ୍ୟ ରାଜାମାନଙ୍କୁ ଶ୍ରେୟ ଦିଆଯାଏ। ହଲ୍‌ମାନ ନାୟକ ଯୁଗର ଖୋଦେଇରେ ସମୃଦ୍ଧ, ବିଶେଷତଃ କଲ୍ୟାଣ ମଣ୍ଡପ, ଯାହାର ସ୍ତମ୍ଭରେ ସେହି ଯୁଗର ଜୀବନ୍ତ ଶିଳ୍ପକଳା ଅଛି। ମନ୍ଦିର ଉପରେ ଏକ ପଥ ପାହାଡ଼କୁ ଚଢ଼ି ନୂପୁର ଗଙ୍ଗୈର ଝରଣା ପର୍ଯ୍ୟନ୍ତ ଯାଏ, ଯାହା ମନ୍ଦିରର ପବିତ୍ର ଜଳ ଏବଂ ପ୍ରଭୁଙ୍କ ପାଦର ନୂପୁରରୁ ବହିଥାଏ ବୋଲି କୁହାଯାଏ।",
+    "legends": "ସର୍ବାଧିକ ପ୍ରିୟ କାହାଣୀ ହେଉଛି ମହର୍ଷି ମଣ୍ଡୁକଙ୍କର, ଯିଏ ବେଙ୍ଗ ହୋଇ ବଞ୍ଚିବାକୁ ଅଭିଶପ୍ତ ଥିଲେ ଏବଂ ଅଳଗର ନିଜ ପାହାଡ଼ରୁ ବୈଗୈ ତୀରକୁ ଓହ୍ଲାଇ ତାଙ୍କୁ ମୁକ୍ତ କରିଥିଲେ — ଏହି କିମ୍ବଦନ୍ତୀ ପ୍ରତିବର୍ଷ ଚିତ୍ତିରୈ ଉତ୍ସବରେ ପୁନଃଅଭିନୀତ ହୁଏ। ଭକ୍ତମାନେ ଏହି ପ୍ରଭୁ ଓ ଆଣ୍ଡାଳଙ୍କ ମଧ୍ୟରେ ସମ୍ପର୍କକୁ ମଧ୍ୟ ପ୍ରିୟ ମାନନ୍ତି, ଯିଏ ତାଙ୍କ ପଦରେ ଅଳଗରଙ୍କ ପାଇଁ ଆକୁଳ ହୋଇଥିଲେ; ପରମ୍ପରା ଅନୁସାରେ ସେ ତାଙ୍କୁ ଶହେ ହାଣ୍ଡି ଲହୁଣୀ ଓ ମିଠା ଭାତର ପ୍ରତିଜ୍ଞା କରିଥିଲେ, ଯାହା ଶତାବ୍ଦୀ ପରେ ରାମାନୁଜ ତାଙ୍କ ତରଫରୁ ପୂରଣ କରିଥିଲେ ବୋଲି କୁହାଯାଏ।",
+    "festivals": "ଚିତ୍ତିରୈ ଉତ୍ସବ (ଏପ୍ରିଲ–ମେ) ତାମିଲନାଡୁର ମହାନ ଦୃଶ୍ୟମାନଙ୍କ ମଧ୍ୟରୁ ଅନ୍ୟତମ। କଳ୍ଲଳଗର ଅଳଗର କୋଇଲରୁ ଶୋଭାଯାତ୍ରାରେ ବାହାରନ୍ତି, ଏତିର୍ ସେବୈରେ ମଦୁରାଇ ତାଙ୍କୁ ସ୍ୱାଗତ କରେ, ଏବଂ ପୂର୍ଣ୍ଣିମାରେ ଲକ୍ଷ ଲକ୍ଷ ଭକ୍ତଙ୍କ ସମ୍ମୁଖରେ ସୁବର୍ଣ୍ଣ ଅଶ୍ୱରେ ବୈଗୈ ନଦୀରେ ପାଦ ଦିଅନ୍ତି, ଯେତେବେଳେ ସହର ମୀନାକ୍ଷୀ ବିବାହ ପାଳନ କରେ। ବୈକୁଣ୍ଠ ଏକାଦଶୀ ମଧ୍ୟ ଭକ୍ତି ସହିତ ପାଳିତ ହୁଏ।",
+    "experience": "ଶୀଘ୍ର ଆସନ୍ତୁ, ଯେତେବେଳେ କୁହୁଡ଼ି ଅଳଗର ପାହାଡ଼କୁ ଆଲିଙ୍ଗନ କରିଥାଏ ଏବଂ ମାଙ୍କଡ଼ମାନେ ବାହ୍ୟ ପାଚେରୀରେ ପହରା ଦିଅନ୍ତି। ଦଣ୍ଡାୟମାନ ପ୍ରଭୁଙ୍କ ଦର୍ଶନ ପରେ ଅନେକ ତୀର୍ଥଯାତ୍ରୀ ଝରଣା ଜଳ ପାଇଁ ନୂପୁର ଗଙ୍ଗୈକୁ ଚଢ଼ନ୍ତି, ସେହି ପାହାଡ଼ରେ ଥିବା ପଳମୁଦିର୍ଚୋଳୈର ମୁରୁଗନ ମନ୍ଦିର ପାର ହୋଇ। ଚିତ୍ତିରୈରେ ଯିବା ଅବିସ୍ମରଣୀୟ କିନ୍ତୁ ଭିଡ଼ପୂର୍ଣ୍ଣ; ଅନ୍ୟ ସମୟରେ ମନ୍ଦିର ଶାନ୍ତ ଓ ସବୁଜ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a midday closure; the Chithirai festival and Vaikunta Ekadashi days are extremely crowded. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. Follow the posted rules and the priests' guidance.",
-    "photography": "Photography is restricted in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Alagar Koil is about 20 km north-east of Madurai by road, with frequent buses from the city. Madurai Junction is the nearest major railway station and Madurai Airport the nearest airport."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ସହିତ ଖୋଲା ଏବଂ ମଧ୍ୟାହ୍ନରେ ବନ୍ଦ; ଚିତ୍ତିରୈ ଉତ୍ସବ ଓ ବୈକୁଣ୍ଠ ଏକାଦଶୀ ଦିନମାନଙ୍କରେ ଅତ୍ୟଧିକ ଭିଡ଼ ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନ ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କି; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲାଯାଏ। ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ଅନୁସରଣ କରନ୍ତୁ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ଓ ଆଖପାଖରେ ଫଟୋ ଉଠାଇବା ନିୟନ୍ତ୍ରିତ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ଅନୁସରଣ କରନ୍ତୁ।",
+    "gettingThere": "ଅଳଗର କୋଇଲ ମଦୁରାଇରୁ ସଡ଼କ ପଥରେ ପ୍ରାୟ ୨୦ କିମି ଉତ୍ତର-ପୂର୍ବରେ, ସହରରୁ ବାରମ୍ବାର ବସ୍ ଚାଲେ। ମଦୁରାଇ ଜଙ୍କସନ୍ ନିକଟତମ ପ୍ରମୁଖ ରେଳ ଷ୍ଟେସନ ଏବଂ ମଦୁରାଇ ବିମାନବନ୍ଦର ନିକଟତମ ବିମାନବନ୍ଦର।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kallazhagar-alagarkoil.jpg",

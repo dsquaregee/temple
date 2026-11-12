@@ -1,29 +1,36 @@
 {
   "id": "vellimalainathar-thengur",
   "locale": "or",
+  "name": "ବେଲ୍ଲିମଲୈନାଥର ମନ୍ଦିର, ତିରୁତ୍ତେଙ୍ଗୂର",
   "nativeName": "திருத்தெங்கூர் வெள்ளிமலைநாதர் கோயில்",
+  "deity": "ଶିବ ବେଲ୍ଲିମଲୈନାଥର ରୂପରେ (ରୌପ୍ୟ ଗ୍ରହ ଶୁକ୍ରଙ୍କ ଦ୍ୱାରା ପୂଜିତ), ଦେବୀ ପେରିୟନାୟକୀ (ବୃହନ୍ନାୟକୀ) ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଡଲ ପେଟ୍ର ସ୍ଥଳମ୍",
   "location": {
-    "city": "Tiruthengur (Thiruthangur), near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁତ୍ତେଙ୍ଗୂର (ତିରୁତ୍ତଙ୍ଗୂର), ତିରୁବାରୁର ନିକଟରେ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 10.6487,
     "lng": 79.6258
   },
+  "period": "ତେବାରମ୍ ଯୁଗ (୭ମ ଶତାବ୍ଦୀରେ ସ୍ତୁତ); ପରବର୍ତ୍ତୀ ଚୋଳ ସଂରଚନାତ୍ମକ ମନ୍ଦିର",
   "century": 7,
+  "dynasty": "ଚୋଳ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ତିରୁବାରୁର ନିକଟ ତିରୁତ୍ତେଙ୍ଗୂର ଶିବଙ୍କୁ ବେଲ୍ଲିମଲୈନାଥର ରୂପେ ସମ୍ମାନ ଦିଏ — ରୌପ୍ୟର ଗ୍ରହ ଶୁକ୍ରଙ୍କ ଦ୍ୱାରା ପୂଜିତ ପ୍ରଭୁ — ଦେବୀ ପେରିୟନାୟକୀଙ୍କ ସହିତ। ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଦରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ ଏକ ପାଡଲ ପେଟ୍ର ସ୍ଥଳମ୍, ଏହାର କିମ୍ବଦନ୍ତୀ କହେ ଯେ ଶୁକ୍ରାଚାର୍ଯ୍ୟ ଏଠାରେ ପୂଜା କରି ନିଜର ହଜିଯାଇଥିବା ଦୃଷ୍ଟି ଫେରି ପାଇଲେ, ଏବଂ ନଅ ଗ୍ରହ ପ୍ରତ୍ୟେକେ ଏକ ଲିଙ୍ଗ ସ୍ଥାପନ କଲେ, ଯାହା ପ୍ରଭୁଙ୍କୁ ତାଙ୍କ 'ରୌପ୍ୟ ପର୍ବତ' ନାମ ଦେଲା।",
   "sections": {
-    "history": "Tiruthengur, often written Thiruthangur, lies about 18 km from Tiruvarur (some 22 km from Mannargudi) in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The lord here is Vellimalainathar, 'lord of the silver mountain,' and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Vellimalainathar in the sanctum, with the goddess Periyanayaki — also Brihannayaki, 'the great mother' — in her own shrine, a Nandi and the parivara devatas. The temple is known for its association with the Navagrahas, the nine planets, each said to have installed a lingam here.",
-    "legends": "The sthala legend tells that Sukracharya, the guru of the asuras and lord of the planet Sukra (Venus), lost one of his eyes and came here to worship Shiva; by his devotion he regained his sight. Because Sukra is called Velli, 'silver,' the lord who granted him grace is named Vellimalainathar, 'lord of the silver mountain.' Tradition also holds that each of the nine planets installed a lingam here, making the shrine a place of Navagraha worship, and it is sought for relief from the afflictions of Sukra.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, along with special observance on the days of Sukra (Friday). Pilgrims seeking the grace of the planets and the Paadal Petra temples near Tiruvarur include Tiruthengur among their stops.",
-    "experience": "At Tiruthengur the pilgrim comes to a shrine of planetary grace, where Sukra regained his sight and the nine planets worshipped. Before Vellimalainathar, lord of the silver mountain, and the great mother Periyanayaki, the visitor seeks the clear sight of body and soul in a quiet Tevaram temple of the Tiruvarur country."
+    "history": "ତିରୁତ୍ତେଙ୍ଗୂର, ପ୍ରାୟତଃ ତିରୁତ୍ତଙ୍ଗୂର ଲେଖାଯାଏ, ତିରୁବାରୁର ଜିଲ୍ଲାରେ ତିରୁବାରୁରରୁ ପ୍ରାୟ ୧୮ କିଲୋମିଟର (ମନ୍ନାରଗୁଡ଼ିରୁ ପ୍ରାୟ ୨୨ କିଲୋମିଟର) ଦୂରରେ ଅବସ୍ଥିତ। ଏହା ଏକ ପାଡଲ ପେଟ୍ର ସ୍ଥଳମ୍, ତେବାରମ୍‌ରେ ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଦରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ। ଏଠାକାର ପ୍ରଭୁ ବେଲ୍ଲିମଲୈନାଥର, 'ରୌପ୍ୟ ପର୍ବତର ପ୍ରଭୁ', ଏବଂ ପଥର ମନ୍ଦିର ଚୋଳ ଯୁଗ ଓ ପରବର୍ତ୍ତୀ କାଳର।",
+    "architecture": "ଏକ ଦ୍ରାବିଡ଼ ଡେଲ୍ଟା ମନ୍ଦିର, ଗର୍ଭଗୃହରେ ବେଲ୍ଲିମଲୈନାଥର ସ୍ଥାପିତ, ଦେବୀ ପେରିୟନାୟକୀ — ବୃହନ୍ନାୟକୀ ମଧ୍ୟ, 'ମହାମାତା' — ନିଜସ୍ୱ ମନ୍ଦିରରେ, ଗୋଟିଏ ନନ୍ଦୀ ଓ ପରିବାର ଦେବତାମାନେ। ମନ୍ଦିର ନବଗ୍ରହ, ନଅ ଗ୍ରହ ସହିତ ଏହାର ସମ୍ପର୍କ ପାଇଁ ପରିଚିତ, ପ୍ରତ୍ୟେକେ ଏଠାରେ ଏକ ଲିଙ୍ଗ ସ୍ଥାପନ କରିଥିଲେ ବୋଲି କୁହାଯାଏ।",
+    "legends": "ସ୍ଥଳ କିମ୍ବଦନ୍ତୀ କହେ ଯେ ଅସୁରମାନଙ୍କର ଗୁରୁ ଓ ଶୁକ୍ର ଗ୍ରହର ଅଧିପତି ଶୁକ୍ରାଚାର୍ଯ୍ୟ ନିଜର ଗୋଟିଏ ଆଖି ହରାଇ ଏଠାକୁ ଶିବଙ୍କୁ ପୂଜା କରିବାକୁ ଆସିଲେ; ନିଜ ଭକ୍ତିରେ ସେ ଦୃଷ୍ଟି ଫେରି ପାଇଲେ। ଶୁକ୍ରଙ୍କୁ ବେଲ୍ଲି, 'ରୌପ୍ୟ', କୁହାଯାଏ ବୋଲି ତାଙ୍କୁ କୃପା କରିଥିବା ପ୍ରଭୁଙ୍କ ନାମ ବେଲ୍ଲିମଲୈନାଥର, 'ରୌପ୍ୟ ପର୍ବତର ପ୍ରଭୁ'। ପରମ୍ପରା ମଧ୍ୟ କହେ ଯେ ନଅ ଗ୍ରହ ପ୍ରତ୍ୟେକେ ଏଠାରେ ଏକ ଲିଙ୍ଗ ସ୍ଥାପନ କଲେ, ଯାହା ମନ୍ଦିରକୁ ନବଗ୍ରହ ପୂଜାର ସ୍ଥାନ କରିଛି, ଏବଂ ଶୁକ୍ରଙ୍କ ପୀଡ଼ାରୁ ମୁକ୍ତି ପାଇଁ ଏହାକୁ ଖୋଜାଯାଏ।",
+    "festivals": "ମନ୍ଦିରରେ ମାସୀ (ଫେବୃଆରୀ–ମାର୍ଚ୍ଚ) ମାସରେ ମହାଶିବରାତ୍ରି, ପୁରଟ୍ଟାସୀ (ସେପ୍ଟେମ୍ବର–ଅକ୍ଟୋବର) ମାସରେ ନବରାତ୍ରି ଓ କାର୍ତ୍ତିକାଇର ସୋମବାରଗୁଡ଼ିକ ପ୍ରଦୋଷ ପୂଜା ସହିତ ପାଳିତ ହୁଏ, ଏବଂ ଶୁକ୍ରଙ୍କ ଦିନ (ଶୁକ୍ରବାର)ରେ ବିଶେଷ ପାଳନ ହୁଏ। ଗ୍ରହମାନଙ୍କ କୃପା ଖୋଜୁଥିବା ତୀର୍ଥଯାତ୍ରୀମାନେ ଓ ତିରୁବାରୁର ନିକଟର ପାଡଲ ପେଟ୍ର ମନ୍ଦିରଗୁଡ଼ିକ ତିରୁତ୍ତେଙ୍ଗୂରକୁ ନିଜ ବିରାମସ୍ଥଳୀ ମଧ୍ୟରେ ଗଣନ୍ତି।",
+    "experience": "ତିରୁତ୍ତେଙ୍ଗୂରରେ ତୀର୍ଥଯାତ୍ରୀ ଗ୍ରହ କୃପାର ମନ୍ଦିରକୁ ଆସନ୍ତି, ଯେଉଁଠାରେ ଶୁକ୍ର ଦୃଷ୍ଟି ଫେରି ପାଇଲେ ଓ ନଅ ଗ୍ରହ ପୂଜା କଲେ। ରୌପ୍ୟ ପର୍ବତର ପ୍ରଭୁ ବେଲ୍ଲିମଲୈନାଥର ଓ ମହାମାତା ପେରିୟନାୟକୀଙ୍କ ସମ୍ମୁଖରେ, ଦର୍ଶକ ତିରୁବାରୁର ଅଞ୍ଚଳର ଏକ ଶାନ୍ତ ତେବାରମ୍ ମନ୍ଦିରରେ ଶରୀର ଓ ଆତ୍ମାର ସ୍ପଷ୍ଟ ଦୃଷ୍ଟି ଖୋଜନ୍ତି।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruthengur is about 18 km from Tiruvarur and 22 km from Mannargudi, in Tiruvarur district. Tiruvarur is the nearest rail head, with buses and taxis to the village."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳରୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷକରି ଉତ୍ସବ ଦିନରେ ସମୟ ସ୍ଥାନୀୟ ଭାବେ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢାଙ୍କିବା ଉଚିତ; ପ୍ରବେଶଦ୍ୱାରରେ ପାଦୁକା ଛାଡ଼ିବାକୁ ହୁଏ।",
+    "photography": "ଗର୍ଭଗୃହ ଭିତରେ ସାଧାରଣତଃ ଫଟୋ ଉଠାଇବା ଅନୁମତିପ୍ରାପ୍ତ ନୁହେଁ, ହେଲେ ବାହାର ଗଳିପଥରେ ଅନୁମତି ଅଛି; ପୂଜାବିଧିର ଫଟୋ ନେବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ତିରୁତ୍ତେଙ୍ଗୂର ତିରୁବାରୁର ଜିଲ୍ଲାରେ ତିରୁବାରୁରରୁ ପ୍ରାୟ ୧୮ କିଲୋମିଟର ଓ ମନ୍ନାରଗୁଡ଼ିରୁ ପ୍ରାୟ ୨୨ କିଲୋମିଟର ଦୂରରେ। ତିରୁବାରୁର ନିକଟତମ ରେଳ ଷ୍ଟେସନ, ଗ୍ରାମକୁ ବସ୍ ଓ ଟ୍ୟାକ୍ସି ମିଳେ।"
   }
 }

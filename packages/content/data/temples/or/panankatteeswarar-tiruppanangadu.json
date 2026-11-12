@@ -1,29 +1,36 @@
 {
   "id": "panankatteeswarar-tiruppanangadu",
   "locale": "or",
+  "name": "ପଣଙ୍କାଟ୍ଟୀଶ୍ୱରର (ତଳପୁରୀଶ୍ୱରର) ମନ୍ଦିର, ତିରୁପ୍ପଣଙ୍ଗାଡୁ",
   "nativeName": "திருப்பனங்காடு தலபுரீஸ்வரர் கோயில்",
+  "deity": "ଶିବ ପଣଙ୍କାଟ୍ଟୀଶ୍ୱରର (ତଳପୁରୀଶ୍ୱରର) ରୂପେ, ଦେବୀ କୃପାନାୟକୀଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଡାଲ ପେଟ୍ର ସ୍ଥଳମ୍",
   "location": {
-    "city": "Tiruppanangadu, near Cheyyar",
-    "state": "Tamil Nadu",
+    "city": "ତିରୁପ୍ପଣଙ୍ଗାଡୁ, ଚେୟ୍ୟାର ନିକଟରେ",
+    "state": "ତାମିଲ ନାଡୁ",
     "lat": 12.7,
     "lng": 79.55
   },
+  "period": "ତେବାରମ୍ ଯୁଗ (ସପ୍ତମ–ଅଷ୍ଟମ ଶତାବ୍ଦୀରେ ଗୀତ); ପରବର୍ତ୍ତୀ କାଳର ସଂରଚନାତ୍ମକ ମନ୍ଦିର",
   "century": 8,
+  "dynasty": "ପଲ୍ଲବ ଓ ଚୋଳ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ଥୋଣ୍ଡୈ ଅଞ୍ଚଳର ଚେୟ୍ୟାର ନିକଟସ୍ଥ ତିରୁପ୍ପଣଙ୍ଗାଡୁ ଶିବଙ୍କୁ ପଣଙ୍କାଟ୍ଟୀଶ୍ୱରର — ତଳପୁରୀଶ୍ୱରର — ରୂପେ ଦେବୀ କୃପାନାୟକୀଙ୍କ ସହିତ ସମ୍ମାନ ଦିଏ। ସୁନ୍ଦରରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ ଏହି ପାଡାଲ ପେଟ୍ର ସ୍ଥଳମ୍‌ର ନାମ, 'ତାଳବନ', ଅଗସ୍ତ୍ୟ ଋଷିଙ୍କ ତାଳଫଳ କାହାଣୀ ସହିତ ଜଡ଼ିତ, ଆଉ ତାଙ୍କ ପ୍ରତିଷ୍ଠିତ ଲିଙ୍ଗରୁ ହିଁ ପୂଜା ଆରମ୍ଭ ହୁଏ।",
   "sections": {
-    "history": "Tiruppanangadu lies about 16 km from Kanchipuram, near Cheyyar, in Tiruvannamalai district, in the old Thondai country. It is a Paadal Petra Sthalam, sung in the Tevaram by Sundarar. The name means 'the forest of palms,' and the sthala vriksham is the palm tree. The structural temple carries Pallava and later work, in the Dravidian form of the Thondai Nadu shrines.",
-    "architecture": "A Dravidian temple of the Thondai country, the shrine enshrines Panankatteeswarar — Talapurisvarar, the lord of the palm-forest — and a second form, Kirubapurisvarar, with the goddesses Kirubanayaki and Amirtavalli, a Nandi and the parivara devatas. The sthala vriksham is the palm. Worship begins at the lingam consecrated by sage Agastya, followed by the lingam of his disciple Pulasthyar.",
-    "legends": "The name Tiruppanangadu, 'the holy forest of palms,' is tied to a legend of sage Agastya and the palm fruit; by tradition he consecrated a lingam here, and his disciple Pulasthyar another, so that worship begins at Agastya's and passes to Pulasthyar's. Shiva is worshipped as Panankatteeswarar — Talapurisvarar — with the goddess Kirubanayaki. (This is a distinct shrine from Puravar Panankattur in Villupuram, another Paadal Petra Sthalam.)",
-    "festivals": "The temple holds its Brahmotsavam in Masi (February–March), the Annabishegam in Aippasi (October–November) and the Arudra Darshan in Margazhi (December–January), besides Maha Shivaratri and Pradosha worship. Pilgrims of the Thondai country include Tiruppanangadu among their stops.",
-    "experience": "At Tiruppanangadu the pilgrim comes to the lord of the palm-forest. Before Panankatteeswarar and Kirubanayaki, beginning at the lingam of Agastya, the visitor finds the unhurried grace of a Tevaram temple of the Thondai country, among the palms that give the place its name."
+    "history": "ତିରୁପ୍ପଣଙ୍ଗାଡୁ ପୁରାତନ ଥୋଣ୍ଡୈ ଅଞ୍ଚଳରେ, ତିରୁବଣ୍ଣାମଲୈ ଜିଲ୍ଲାର ଚେୟ୍ୟାର ନିକଟରେ, କାଞ୍ଚୀପୁରମ୍‌ରୁ ପ୍ରାୟ ୧୬ କିମି ଦୂରରେ ଅବସ୍ଥିତ। ଏହା ଏକ ପାଡାଲ ପେଟ୍ର ସ୍ଥଳମ୍, ତେବାରମ୍‌ରେ ସୁନ୍ଦରରଙ୍କ ଦ୍ୱାରା ଗୀତ। ନାମର ଅର୍ଥ 'ତାଳବନ', ଆଉ ସ୍ଥଳବୃକ୍ଷ ହେଉଛି ତାଳଗଛ। ଥୋଣ୍ଡୈ ନାଡୁର ଦେଉଳମାନଙ୍କ ଦ୍ରାବିଡ଼ ଶୈଳୀରେ ଗଠିତ ଏହି ସଂରଚନାତ୍ମକ ମନ୍ଦିରରେ ପଲ୍ଲବ ଓ ପରବର୍ତ୍ତୀ କାଳର କାମ ଦେଖାଯାଏ।",
+    "architecture": "ଥୋଣ୍ଡୈ ଅଞ୍ଚଳର ଏକ ଦ୍ରାବିଡ଼ ମନ୍ଦିର; ଏଥିରେ ପଣଙ୍କାଟ୍ଟୀଶ୍ୱରର — ତାଳବନର ପ୍ରଭୁ ତଳପୁରୀଶ୍ୱରର — ଓ କୃପାପୁରୀଶ୍ୱରର ନାମକ ଆଉ ଏକ ରୂପ, ଦେବୀ କୃପାନାୟକୀ ଓ ଅମୃତବଲ୍ଲୀ, ନନ୍ଦୀ ଏବଂ ପରିବାର ଦେବତାମାନେ ପ୍ରତିଷ୍ଠିତ। ସ୍ଥଳବୃକ୍ଷ ତାଳଗଛ। ପୂଜା ଅଗସ୍ତ୍ୟ ଋଷିଙ୍କ ପ୍ରତିଷ୍ଠିତ ଲିଙ୍ଗରୁ ଆରମ୍ଭ ହୁଏ, ତା'ପରେ ତାଙ୍କ ଶିଷ୍ୟ ପୁଲସ୍ତ୍ୟରଙ୍କ ଲିଙ୍ଗକୁ ଯାଏ।",
+    "legends": "ତିରୁପ୍ପଣଙ୍ଗାଡୁ, 'ପବିତ୍ର ତାଳବନ', ନାମ ଅଗସ୍ତ୍ୟ ଋଷି ଓ ତାଳଫଳର ଏକ କିମ୍ବଦନ୍ତୀ ସହିତ ଜଡ଼ିତ; ପରମ୍ପରା ଅନୁସାରେ ସେ ଏଠାରେ ଏକ ଲିଙ୍ଗ ପ୍ରତିଷ୍ଠା କରିଥିଲେ ଓ ତାଙ୍କ ଶିଷ୍ୟ ପୁଲସ୍ତ୍ୟର ଆଉ ଏକ, ତେଣୁ ଅଗସ୍ତ୍ୟଙ୍କ ଲିଙ୍ଗରୁ ପୂଜା ଆରମ୍ଭ ହୋଇ ପୁଲସ୍ତ୍ୟଙ୍କ ଲିଙ୍ଗକୁ ଯାଏ। ଶିବ ପଣଙ୍କାଟ୍ଟୀଶ୍ୱରର — ତଳପୁରୀଶ୍ୱରର — ରୂପେ ଦେବୀ କୃପାନାୟକୀଙ୍କ ସହିତ ପୂଜିତ। (ଏହା ବିଳ୍ଲୁପୁରମ୍‌ର ପୁରବାର ପଣଙ୍କାଟ୍ଟୂରଠାରୁ ଭିନ୍ନ ଏକ ଦେଉଳ, ଯାହା ଆଉ ଏକ ପାଡାଲ ପେଟ୍ର ସ୍ଥଳମ୍।)",
+    "festivals": "ମନ୍ଦିରରେ ମାସି (ଫେବୃଆରୀ–ମାର୍ଚ୍ଚ) ମାସରେ ବ୍ରହ୍ମୋତ୍ସବମ୍, ଆଇପ୍ପସି (ଅକ୍ଟୋବର–ନଭେମ୍ବର) ମାସରେ ଅନ୍ନାଭିଷେକମ୍ ଓ ମାର୍ଗଳି (ଡିସେମ୍ବର–ଜାନୁଆରୀ) ମାସରେ ଆରୁଦ୍ରା ଦର୍ଶନ ପାଳିତ ହୁଏ, ସହିତ ମହାଶିବରାତ୍ରି ଓ ପ୍ରଦୋଷ ପୂଜା। ଥୋଣ୍ଡୈ ଅଞ୍ଚଳର ତୀର୍ଥଯାତ୍ରୀମାନେ ତିରୁପ୍ପଣଙ୍ଗାଡୁକୁ ନିଜ ଯାତ୍ରାର ଅଂଶ କରନ୍ତି।",
+    "experience": "ତିରୁପ୍ପଣଙ୍ଗାଡୁରେ ତୀର୍ଥଯାତ୍ରୀ ତାଳବନର ପ୍ରଭୁଙ୍କ ନିକଟକୁ ଆସନ୍ତି। ଅଗସ୍ତ୍ୟଙ୍କ ଲିଙ୍ଗରୁ ଆରମ୍ଭ କରି ପଣଙ୍କାଟ୍ଟୀଶ୍ୱରର ଓ କୃପାନାୟକୀଙ୍କ ସମ୍ମୁଖରେ, ସ୍ଥାନକୁ ନାମ ଦେଇଥିବା ତାଳଗଛମାନଙ୍କ ମଧ୍ୟରେ, ଥୋଣ୍ଡୈ ଅଞ୍ଚଳର ଏକ ତେବାରମ୍ ମନ୍ଦିରର ଅବିଳମ୍ବିତ କରୁଣା ଦର୍ଶକ ଅନୁଭବ କରନ୍ତି।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Tiruppanangadu lies about 16 km from Kanchipuram, near Cheyyar, in Tiruvannamalai district. Kanchipuram and Cheyyar are the nearest towns, with buses and taxis to the village; Kanchipuram is the nearest rail head."
+    "timings": "ସାଧାରଣତଃ ଭୋରରୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଓ ପୁନର୍ବାର ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷକରି ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସ୍ଥାନୀୟ ଭାବେ ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଆଚ୍ଛାଦିତ ରଖି ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ; ପାଦୁକା ପ୍ରବେଶଦ୍ୱାରରେ ଛାଡ଼ିବାକୁ ହୁଏ।",
+    "photography": "ବାହ୍ୟ ପ୍ରାଙ୍ଗଣରେ ଫଟୋ ଉଠାଇବା ସାଧାରଣତଃ ଅନୁମତିପ୍ରାପ୍ତ କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ପୂଜାବିଧିର ଫଟୋ ଉଠାଇବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ତିରୁପ୍ପଣଙ୍ଗାଡୁ ତିରୁବଣ୍ଣାମଲୈ ଜିଲ୍ଲାର ଚେୟ୍ୟାର ନିକଟରେ, କାଞ୍ଚୀପୁରମ୍‌ରୁ ପ୍ରାୟ ୧୬ କିମି ଦୂରରେ ଅବସ୍ଥିତ। କାଞ୍ଚୀପୁରମ୍ ଓ ଚେୟ୍ୟାର ନିକଟତମ ନଗର, ଗାଁକୁ ବସ୍ ଓ ଟ୍ୟାକ୍ସି ଅଛି; କାଞ୍ଚୀପୁରମ୍ ନିକଟତମ ରେଳ ସ୍ଟେସନ।"
   }
 }

@@ -1,32 +1,39 @@
 {
   "id": "kanchi-kamakshi",
   "locale": "or",
+  "name": "କାମାକ୍ଷୀ ଅମ୍ମନ୍ ମନ୍ଦିର, କାଞ୍ଚୀପୁରମ୍",
   "nativeName": "காமாட்சி அம்மன் கோயில், காஞ்சிபுரம்",
+  "deity": "ଦେବୀ କାମାକ୍ଷୀ ରୂପେ, ପାର୍ବତୀ ଓ ଲଳିତା ତ୍ରିପୁରସୁନ୍ଦରୀଙ୍କର ଏକ ରୂପ",
+  "tradition": "ଶାକ୍ତ ପରମ୍ପରା",
   "location": {
-    "city": "Kanchipuram",
-    "state": "Tamil Nadu",
+    "city": "କାଞ୍ଚୀପୁରମ୍",
+    "state": "ତାମିଲନାଡ଼ୁ",
     "lat": 12.84,
     "lng": 79.7036
   },
+  "period": "ପଲ୍ଲବ–ଚୋଳ ଯୁଗରେ ଉତ୍ପତ୍ତି; ପରବର୍ତ୍ତୀ ରାଜବଂଶମାନଙ୍କ ଅଧୀନରେ ବିକଶିତ",
   "century": 14,
+  "dynasty": "ପଲ୍ଲବ ଓ ଚୋଳ ଉତ୍ପତ୍ତି, ବିଜୟନଗର ଓ ପରବର୍ତ୍ତୀ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "temples-of-kanchipuram",
     "shakti-peethas-of-the-south",
     "ashtadasha-shakti-peethas"
   ],
+  "summary": "ମନ୍ଦିର-ନଗରୀ କାଞ୍ଚୀପୁରମ୍‌ରେ କାମାକ୍ଷୀ ପ୍ରଧାନ ଦେବୀ ରୂପେ ବିରାଜମାନ — ଆଖୁ ଧନୁ ଓ ଫୁଲ ଧରି ଶାନ୍ତ ଧ୍ୟାନରେ ଆସୀନା, ଦକ୍ଷିଣର ମହାନ ଶକ୍ତି ପୀଠମାନଙ୍କ ମଧ୍ୟରୁ ଅନ୍ୟତମ ରୂପେ ପୂଜିତା ଏବଂ ପରମ୍ପରା ଅନୁସାରେ ଆଦି ଶଙ୍କରାଚାର୍ଯ୍ୟଙ୍କ ସହ ସମ୍ପୃକ୍ତା।",
   "sections": {
-    "history": "The Kamakshi Amman temple is the foremost Shakta shrine of Kanchipuram, an ancient city so dense with temples that it is called a city of a thousand shrines. Its origins reach into the Pallava and Chola periods, and the complex as it stands was elaborated by later dynasties, including under Vijayanagara patronage. Kanchipuram holds a striking peculiarity: its great Shiva and Vishnu temples do not enshrine a separate goddess, for the region's feminine divine power is understood to be concentrated here in Kamakshi, who thus presides over the whole city. The temple is closely bound to Adi Shankara, the eighth-century philosopher, who is traditionally said to have tamed the goddess's fierce energy by installing a Sri Chakra before her, and the Kanchi Kamakoti Peetham, a major monastic seat, traces its lineage to him and remains associated with the shrine.",
-    "architecture": "The temple centres on the sanctum of Kamakshi, who is enshrined not standing but seated in the padmasana meditation posture, holding a sugarcane bow, a noose, a goad and a cluster of flowers — the iconography of Lalita Tripurasundari, the supreme goddess of the Sri Vidya tradition. Before her is set the Sri Chakra attributed to Adi Shankara, the focus of the temple's tantric worship. The complex is built in the Dravidian manner around a large tank, with a golden vimana over the sanctum, pillared halls and a gopuram-gated enclosure. The Gayatri Mandapam, a hall of many pillars, is a notable feature. Where Kanchipuram's Ekambareswarar overwhelms by scale, Kamakshi's temple concentrates its power on the seated, meditative presence of the goddess at its heart.",
-    "legends": "Kamakshi means 'she whose eyes awaken desire' or, by tradition, the goddess who granted vision and boons through her eyes — ka-ma-akshi. A beloved legend tells that the goddess worshipped Shiva here in the form of a sand linga on the bank of the Kampa river, embracing it as the floodwaters rose rather than let it dissolve — an act of devotion echoed at the nearby Ekambareswarar temple. Her seated, pacified form is explained by the tradition of Adi Shankara's Sri Chakra, which is said to have calmed her once-fierce aspect into the serene Shanta-svarupa worshipped today. Kanchipuram is also counted among the Shakti Peethas, deepening the goddess's presence in the sacred geography of the city.",
-    "festivals": "The temple's great festivals include the Navaratri celebration of the goddess in autumn, the Aadi and Thai Velli (Friday) observances sacred to the Devi, the car festival (ther), and the float festival on the temple tank. The Sri Chakra and the Sri Vidya tradition give the worship here a strongly tantric character, and Fridays and the full-moon days draw special crowds of devotees seeking the goddess's grace.",
-    "experience": "Kamakshi's temple is the devotional heart of Kanchipuram and best woven into a visit to the wider temple-city, where the Kailasanathar, Ekambareswarar and the great Vaishnava shrines lie within easy reach, along with the famous silk-weaving traditions of the town. Within, the atmosphere is one of quiet, concentrated devotion focused on the seated goddess and her Sri Chakra. Kanchipuram is an easy journey inland from Chennai, making the goddess's city a natural pairing with the coastal Pallava monuments of Mahabalipuram."
+    "history": "କାମାକ୍ଷୀ ଅମ୍ମନ୍ ମନ୍ଦିର କାଞ୍ଚୀପୁରମ୍‌ର ପ୍ରମୁଖ ଶାକ୍ତ ମନ୍ଦିର, ଏକ ପ୍ରାଚୀନ ନଗରୀ ଯାହା ମନ୍ଦିରରେ ଏତେ ଘନ ଯେ ତାକୁ ସହସ୍ର ମନ୍ଦିରର ନଗରୀ କୁହାଯାଏ। ଏହାର ଉତ୍ପତ୍ତି ପଲ୍ଲବ ଓ ଚୋଳ ଯୁଗ ପର୍ଯ୍ୟନ୍ତ ପହଞ୍ଚେ, ଏବଂ ବର୍ତ୍ତମାନର ପରିସର ବିଜୟନଗର ପୃଷ୍ଠପୋଷକତା ସମେତ ପରବର୍ତ୍ତୀ ରାଜବଂଶମାନଙ୍କ ଦ୍ୱାରା ବିସ୍ତୃତ ହୋଇଛି। କାଞ୍ଚୀପୁରମ୍‌ର ଏକ ବିଶେଷତ୍ୱ ଅଛି: ଏହାର ମହାନ ଶିବ ଓ ବିଷ୍ଣୁ ମନ୍ଦିରଗୁଡ଼ିକରେ ପୃଥକ ଦେବୀ ପ୍ରତିଷ୍ଠିତ ନାହାଁନ୍ତି, କାରଣ ଅଞ୍ଚଳର ନାରୀ ଦିବ୍ୟ ଶକ୍ତି ଏଠାରେ କାମାକ୍ଷୀଙ୍କଠାରେ କେନ୍ଦ୍ରୀଭୂତ ବୋଲି ବୁଝାଯାଏ, ଯିଏ ଏହିପରି ସମଗ୍ର ନଗରୀର ଅଧିଷ୍ଠାତ୍ରୀ। ମନ୍ଦିର ଅଷ୍ଟମ ଶତାବ୍ଦୀର ଦାର୍ଶନିକ ଆଦି ଶଙ୍କରାଚାର୍ଯ୍ୟଙ୍କ ସହ ନିବିଡ଼ ଭାବେ ଜଡ଼ିତ, ଯିଏ ପରମ୍ପରା ଅନୁସାରେ ଦେବୀଙ୍କ ସମ୍ମୁଖରେ ଶ୍ରୀଚକ୍ର ସ୍ଥାପନ କରି ତାଙ୍କ ଉଗ୍ର ଶକ୍ତିକୁ ଶାନ୍ତ କରିଥିଲେ, ଏବଂ କାଞ୍ଚୀ କାମକୋଟି ପୀଠମ୍, ଏକ ପ୍ରମୁଖ ମଠ ଆସନ, ତାଙ୍କଠାରୁ ନିଜର ପରମ୍ପରା ଆରମ୍ଭ ବୋଲି ମାନେ ଏବଂ ମନ୍ଦିର ସହ ସମ୍ପୃକ୍ତ ରହିଛି।",
+    "architecture": "ମନ୍ଦିର କାମାକ୍ଷୀଙ୍କ ଗର୍ଭଗୃହରେ କେନ୍ଦ୍ରିତ, ଯିଏ ଠିଆ ହୋଇ ନୁହେଁ, ପଦ୍ମାସନ ଧ୍ୟାନ ମୁଦ୍ରାରେ ବସି ପ୍ରତିଷ୍ଠିତା, ଆଖୁ ଧନୁ, ପାଶ, ଅଙ୍କୁଶ ଓ ଫୁଲର ଗୁଚ୍ଛ ଧାରଣ କରିଛନ୍ତି — ଏହା ଶ୍ରୀବିଦ୍ୟା ପରମ୍ପରାର ପରମ ଦେବୀ ଲଳିତା ତ୍ରିପୁରସୁନ୍ଦରୀଙ୍କ ପ୍ରତିମା ଲକ୍ଷଣ। ତାଙ୍କ ସମ୍ମୁଖରେ ଆଦି ଶଙ୍କରାଚାର୍ଯ୍ୟଙ୍କୁ ଆରୋପିତ ଶ୍ରୀଚକ୍ର ସ୍ଥାପିତ, ଯାହା ମନ୍ଦିରର ତାନ୍ତ୍ରିକ ପୂଜାର କେନ୍ଦ୍ର। ପରିସର ଏକ ବିଶାଳ ପୁଷ୍କରିଣୀ ଚାରିପାଖରେ ଦ୍ରାବିଡ଼ ଶୈଳୀରେ ନିର୍ମିତ, ଗର୍ଭଗୃହ ଉପରେ ସୁବର୍ଣ୍ଣ ବିମାନ, ସ୍ତମ୍ଭଯୁକ୍ତ ମଣ୍ଡପ ଓ ଗୋପୁରଯୁକ୍ତ ପ୍ରାଚୀର ସହିତ। ଗାୟତ୍ରୀ ମଣ୍ଡପମ୍, ବହୁ ସ୍ତମ୍ଭର ଏକ ଅଳିନ୍ଦ, ଏକ ଉଲ୍ଲେଖନୀୟ ବୈଶିଷ୍ଟ୍ୟ। ଯେଉଁଠି କାଞ୍ଚୀପୁରମ୍‌ର ଏକାମ୍ବରେଶ୍ୱରର ବିଶାଳତାରେ ଅଭିଭୂତ କରେ, କାମାକ୍ଷୀଙ୍କ ମନ୍ଦିର ଏହାର ହୃଦୟରେ ଥିବା ଆସୀନା, ଧ୍ୟାନମଗ୍ନା ଦେବୀଙ୍କ ଉପସ୍ଥିତି ଉପରେ ନିଜର ଶକ୍ତିକୁ କେନ୍ଦ୍ରିତ କରେ।",
+    "legends": "କାମାକ୍ଷୀ ଅର୍ଥାତ୍ 'ଯାହାଙ୍କ ଆଖି କାମନା ଜାଗ୍ରତ କରେ' କିମ୍ବା ପରମ୍ପରା ଅନୁସାରେ ଯେଉଁ ଦେବୀ ନିଜ ଆଖି ଦ୍ୱାରା ଦୃଷ୍ଟି ଓ ବରଦାନ ଦେଲେ — କା-ମା-ଅକ୍ଷୀ। ଏକ ପ୍ରିୟ ଲୋକକଥା କୁହେ ଯେ ଦେବୀ ଏଠାରେ କମ୍ପା ନଦୀ କୂଳରେ ବାଲୁକାମୟ ଲିଙ୍ଗ ରୂପରେ ଶିବଙ୍କୁ ପୂଜା କରୁଥିଲେ, ବନ୍ୟାଜଳ ବଢ଼ିବା ସମୟରେ ଏହାକୁ ବିଗଳିବାକୁ ନଦେଇ ଆଲିଙ୍ଗନ କରି ରଖିଥିଲେ — ଭକ୍ତିର ଏକ କର୍ମ ଯାହାର ପ୍ରତିଧ୍ୱନି ନିକଟସ୍ଥ ଏକାମ୍ବରେଶ୍ୱରର ମନ୍ଦିରରେ ମିଳେ। ତାଙ୍କର ଆସୀନା, ଶାନ୍ତ ରୂପ ଆଦି ଶଙ୍କରାଚାର୍ଯ୍ୟଙ୍କ ଶ୍ରୀଚକ୍ରର ପରମ୍ପରା ଦ୍ୱାରା ବ୍ୟାଖ୍ୟାତ ହୁଏ, ଯାହା ତାଙ୍କର ଥରେ ଉଗ୍ର ରୂପକୁ ଆଜି ପୂଜିତ ଶାନ୍ତ ସ୍ୱରୂପରେ ଶାନ୍ତ କରିଥିଲା ବୋଲି କୁହାଯାଏ। କାଞ୍ଚୀପୁରମ୍ ମଧ୍ୟ ଶକ୍ତି ପୀଠମାନଙ୍କ ମଧ୍ୟରେ ଗଣାଯାଏ, ଯାହା ନଗରୀର ପବିତ୍ର ଭୂଗୋଳରେ ଦେବୀଙ୍କ ଉପସ୍ଥିତିକୁ ଆହୁରି ଗଭୀର କରେ।",
+    "festivals": "ମନ୍ଦିରର ମହାନ ଉତ୍ସବମାନଙ୍କ ମଧ୍ୟରେ ଶରତରେ ଦେବୀଙ୍କ ନବରାତ୍ରି ଉତ୍ସବ, ଦେବୀଙ୍କୁ ପବିତ୍ର ଆଡି ଓ ତାଇ ଶୁକ୍ରବାର ପାଳନ, ରଥଯାତ୍ରା (ତେର୍) ଏବଂ ମନ୍ଦିର ପୁଷ୍କରିଣୀରେ ତରଣୀ ଉତ୍ସବ ଅନ୍ତର୍ଭୁକ୍ତ। ଶ୍ରୀଚକ୍ର ଓ ଶ୍ରୀବିଦ୍ୟା ପରମ୍ପରା ଏଠାର ପୂଜାକୁ ଏକ ଦୃଢ଼ ତାନ୍ତ୍ରିକ ଚରିତ୍ର ଦିଏ, ଏବଂ ଶୁକ୍ରବାର ଓ ପୂର୍ଣ୍ଣିମା ଦିନମାନଙ୍କରେ ଦେବୀଙ୍କ କୃପା ଖୋଜୁଥିବା ଭକ୍ତଙ୍କର ବିଶେଷ ଭିଡ଼ ହୁଏ।",
+    "experience": "କାମାକ୍ଷୀଙ୍କ ମନ୍ଦିର କାଞ୍ଚୀପୁରମ୍‌ର ଭକ୍ତିମୟ ହୃଦୟ ଏବଂ ବ୍ୟାପକ ମନ୍ଦିର-ନଗରୀର ଯାତ୍ରା ସହିତ ମିଶାଇବା ସର୍ବୋତ୍ତମ, ଯେଉଁଠି କୈଳାସନାଥର, ଏକାମ୍ବରେଶ୍ୱରର ଓ ମହାନ ବୈଷ୍ଣବ ମନ୍ଦିରଗୁଡ଼ିକ ସହଜ ଦୂରତ୍ୱରେ, ସହରର ପ୍ରସିଦ୍ଧ ରେଶମ ବୁଣା ପରମ୍ପରା ସହିତ। ଭିତରେ ପରିବେଶ ଶାନ୍ତ, ଏକାଗ୍ର ଭକ୍ତିର, ଆସୀନା ଦେବୀ ଓ ତାଙ୍କ ଶ୍ରୀଚକ୍ର ଉପରେ କେନ୍ଦ୍ରିତ। କାଞ୍ଚୀପୁରମ୍ ଚେନ୍ନାଇରୁ ଭିତର ଆଡ଼କୁ ସହଜ ଯାତ୍ରା, ଯାହା ଦେବୀଙ୍କ ନଗରୀକୁ ମହାବଳୀପୁରମ୍‌ର ଉପକୂଳୀୟ ପଲ୍ଲବ ସ୍ମାରକୀ ସହ ଏକ ସ୍ୱାଭାବିକ ଯୋଡ଼ି କରେ।"
   },
   "visit": {
-    "timings": "Open daily with morning and evening darshan sessions and a long midday closure; Fridays and festival days are busiest. Confirm current timings before visiting.",
-    "dressCode": "Modest traditional dress is expected — shoulders and knees covered; footwear removed before entering. As a living temple, respectful conduct in the goddess's presence is asked of all visitors.",
-    "photography": "Photography is restricted, particularly in and around the sanctum; follow the posted rules and the priests' guidance.",
-    "gettingThere": "Kanchipuram is in Tamil Nadu, about 75 km from Chennai and well connected by road and rail; the city is compact and its many temples are reached easily by local transport."
+    "timings": "ପ୍ରତିଦିନ ସକାଳ ଓ ସନ୍ଧ୍ୟା ଦର୍ଶନ ସମୟରେ ଖୋଲା ଥାଏ ଏବଂ ମଧ୍ୟାହ୍ନରେ ଦୀର୍ଘ ସମୟ ବନ୍ଦ ରହେ; ଶୁକ୍ରବାର ଓ ଉତ୍ସବ ଦିନମାନଙ୍କରେ ସର୍ବାଧିକ ଭିଡ଼ ହୁଏ। ଯିବା ପୂର୍ବରୁ ବର୍ତ୍ତମାନର ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ସାଧାରଣ ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ — କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଘୋଡ଼ା ହୋଇଥିବା; ପ୍ରବେଶ ପୂର୍ବରୁ ପାଦୁକା ଖୋଲି ରଖନ୍ତୁ। ଏକ ଜୀବନ୍ତ ମନ୍ଦିର ରୂପେ, ଦେବୀଙ୍କ ସମ୍ମୁଖରେ ସମସ୍ତ ଦର୍ଶକଙ୍କଠାରୁ ସମ୍ମାନଜନକ ଆଚରଣ ଆଶା କରାଯାଏ।",
+    "photography": "ଫଟୋଗ୍ରାଫି ସୀମିତ, ବିଶେଷକରି ଗର୍ଭଗୃହ ଓ ତାହାର ଆଖପାଖରେ; ଲଗାଯାଇଥିବା ନିୟମ ଓ ପୂଜକଙ୍କ ମାର୍ଗଦର୍ଶନ ମାନନ୍ତୁ।",
+    "gettingThere": "କାଞ୍ଚୀପୁରମ୍ ତାମିଲନାଡ଼ୁରେ, ଚେନ୍ନାଇରୁ ପ୍ରାୟ ୭୫ କିଲୋମିଟର ଦୂରରେ ଏବଂ ସଡ଼କ ଓ ରେଳ ଦ୍ୱାରା ଭଲ ଭାବେ ସଂଯୁକ୍ତ; ନଗରୀ ଛୋଟ ଏବଂ ଏହାର ଅନେକ ମନ୍ଦିର ସ୍ଥାନୀୟ ପରିବହନ ଦ୍ୱାରା ସହଜରେ ପହଞ୍ଚିହୁଏ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.jpg",

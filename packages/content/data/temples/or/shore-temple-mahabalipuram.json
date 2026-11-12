@@ -1,28 +1,35 @@
 {
   "id": "shore-temple-mahabalipuram",
   "locale": "or",
+  "name": "ସମୁଦ୍ରତଟ ମନ୍ଦିର, ମହାବଳୀପୁରମ୍",
   "nativeName": "கடற்கரைக் கோயில், மாமல்லபுரம்",
+  "deity": "ଶିବ (ଦୁଇଟି ମନ୍ଦିର) ଓ ଶୟନରତ ବିଷ୍ଣୁ (ଅନନ୍ତଶୟନ) ଏକତ୍ର",
+  "tradition": "ଶୈବ ପରମ୍ପରା (ଏକ ବିଷ୍ଣୁ ମନ୍ଦିର ସହିତ)",
   "location": {
-    "city": "Mahabalipuram (Mamallapuram)",
-    "state": "Tamil Nadu",
+    "city": "ମହାବଳୀପୁରମ୍ (ମାମଲ୍ଲପୁରମ୍)",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 12.6165,
     "lng": 80.199
   },
+  "period": "ପଲ୍ଲବ, ପ୍ରାୟ ୭୦୦-୭୨୮ ଖ୍ରୀଷ୍ଟାବ୍ଦ",
   "century": 8,
+  "dynasty": "ପଲ୍ଲବ",
+  "style": "ଦ୍ରାବିଡ଼ (ପ୍ରାରମ୍ଭିକ ପଲ୍ଲବ, ପଥର ନିର୍ମିତ)",
   "unesco": true,
   "circuits": [],
+  "summary": "ବଙ୍ଗୋପସାଗର ସମ୍ମୁଖରେ ଥିବା ଏହି ଅଷ୍ଟମ ଶତାବ୍ଦୀର ପ୍ରାରମ୍ଭିକ ପଲ୍ଲବ ମନ୍ଦିର ଦକ୍ଷିଣ ଭାରତର ସବୁଠାରୁ ପ୍ରାଚୀନ ପଥର ନିର୍ମିତ ମନ୍ଦିରମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ - ଲୁଣିଆ ପବନରେ ଖୋଦିତ ଏକ ଗ୍ରାନାଇଟ୍ ଛାୟାରୂପ, ଏବଂ ୟୁନେସ୍କୋ ତାଲିକାଭୁକ୍ତ ମହାବଳୀପୁରମ୍ ସ୍ମାରକୀ ସମୂହର ଅଂଶ।",
   "sections": {
-    "history": "The Shore Temple was raised around 700–728 CE under the Pallava king Narasimhavarman II, known as Rajasimha, at the great port-city of Mamallapuram from which Pallava ships traded across Southeast Asia. It marks a pivotal moment in Indian architecture: where earlier Pallava work at the site was cut from living rock — the cave shrines, the monolithic rathas, the vast open-air relief of Arjuna's Penance — the Shore Temple is a built, structural temple of dressed granite blocks, pointing the way to the towering stone temples the Cholas would later raise. Battered for thirteen centuries by sea and wind, it is a survivor; local and colonial accounts of 'seven pagodas' long hinted at companion shrines lost to the waves, and the 2004 tsunami briefly exposed submerged structures offshore. In 1984 UNESCO inscribed the Group of Monuments at Mahabalipuram as a World Heritage Site, with the Shore Temple its seaward jewel.",
-    "architecture": "The temple is unusual in enshrining both Shiva and Vishnu. Two Shiva shrines, facing east and west, are crowned by stepped pyramidal towers of diminishing tiers — the early Dravidian vimana in one of its first structural expressions — while between them lies a shrine of Vishnu reclining as Anantasayana, carved from an outcrop the builders incorporated into the plan. A low compound wall topped by rows of seated Nandi bulls encircles the complex, and the whole is oriented to catch the first light of sunrise over the sea. The granite, softer in outline now from centuries of spray, still shows the crisp Pallava idiom of pilastered walls and lion-based columns. Its importance is historical as much as aesthetic: this is architecture caught in the act of moving from rock-cut to built.",
-    "legends": "Mamallapuram's shore is wrapped in the legend of the 'Seven Pagodas' — a tradition, recorded by European sailors, that seven splendid temples once stood here, of which the Shore Temple alone survived the sea's jealousy. The town's monuments are steeped in the imagery of the Pallava court and the epics: the nearby Arjuna's Penance depicts the descent of the Ganga and the whole Mahabharata world, while Krishna's butter-ball and the rathas named for the Pandava brothers turn the seashore into an open-air retelling of myth. The Shore Temple's double dedication to Shiva and Vishnu expresses the Pallavas' catholic devotion.",
-    "festivals": "As a protected monument that also draws worshippers, the Shore Temple's most visible celebration is the annual Mamallapuram Dance Festival, held through the winter months against the backdrop of the monuments, when Bharatanatyam and other classical forms are performed near Arjuna's Penance. Maha Shivaratri is observed in keeping with the temple's Shaiva dedication. The site's rhythm is otherwise that of a heritage destination, busiest at sunrise and on weekends.",
-    "experience": "Come at dawn, when the towers catch the sea light and the crowds are thin — this is the classic view of the Shore Temple. It is best seen together with the rest of Mamallapuram: the Pancha Rathas, the cave temples, and the immense Arjuna's Penance relief are all within walking or a short ride, making the town a single unmatched open-air museum of Pallava art. The sea breeze, the granite, and the sound of the Bay give the temple an atmosphere quite unlike the inland shrines. Mamallapuram lies on the coast south of Chennai, an easy day trip along the East Coast Road."
+    "history": "ସମୁଦ୍ରତଟ ମନ୍ଦିର ପ୍ରାୟ ୭୦୦-୭୨୮ ଖ୍ରୀଷ୍ଟାବ୍ଦରେ ପଲ୍ଲବ ରାଜା ନରସିଂହବର୍ମନ୍ ଦ୍ୱିତୀୟ, ଯାହାଙ୍କୁ ରାଜସିଂହ କୁହାଯାଏ, ତାଙ୍କ ଅଧୀନରେ ମହାନ ବନ୍ଦର ନଗରୀ ମାମଲ୍ଲପୁରମ୍‌ରେ ନିର୍ମିତ ହୋଇଥିଲା, ଯେଉଁଠାରୁ ପଲ୍ଲବ ଜାହାଜ ଦକ୍ଷିଣପୂର୍ବ ଏସିଆ ସହ ବାଣିଜ୍ୟ କରୁଥିଲା। ଏହା ଭାରତୀୟ ସ୍ଥାପତ୍ୟରେ ଏକ ମୋଡ଼ ଚିହ୍ନିତ କରେ: ଏହି ସ୍ଥାନର ପୂର୍ବ ପଲ୍ଲବ କାମ ଜୀବନ୍ତ ପଥରରୁ କଟା ହୋଇଥିଲା - ଗୁମ୍ଫା ମନ୍ଦିର, ଏକଶିଳା ରଥ, ଅର୍ଜୁନଙ୍କ ତପସ୍ୟାର ବିଶାଳ ଖୋଲା ଆକାଶ ତଳେ ଉତ୍କୀର୍ଣ୍ଣ ଚିତ୍ର - କିନ୍ତୁ ସମୁଦ୍ରତଟ ମନ୍ଦିର ସଜ୍ଜିତ ଗ୍ରାନାଇଟ୍ ଖଣ୍ଡରେ ନିର୍ମିତ ଏକ ପଥର ମନ୍ଦିର, ଯାହା ପରେ ଚୋଳମାନେ ଯେଉଁ ଉଚ୍ଚ ପଥର ମନ୍ଦିର ଉଠାଇଲେ ତାହାର ଦିଗ ଦେଖାଏ। ତେରଶହ ବର୍ଷ ଧରି ସମୁଦ୍ର ଓ ପବନର ଆଘାତ ସହିଥିବା ଏହା ଏକ ବଞ୍ଚିଥିବା ସ୍ମାରକୀ; 'ସପ୍ତ ପଗୋଡ଼ା' ବିଷୟରେ ସ୍ଥାନୀୟ ଓ ଔପନିବେଶିକ ବିବରଣୀ ଦୀର୍ଘ ସମୟ ଧରି ତରଙ୍ଗରେ ହଜିଯାଇଥିବା ସହଯୋଗୀ ମନ୍ଦିରମାନଙ୍କ ସଙ୍କେତ ଦେଉଥିଲା, ଏବଂ ୨୦୦୪ର ସୁନାମି କ୍ଷଣିକ ପାଇଁ ସମୁଦ୍ର ଭିତରେ ଡୁବିଥିବା ନିର୍ମାଣ ପ୍ରକାଶ କରିଥିଲା। ୧୯୮୪ରେ ୟୁନେସ୍କୋ ମହାବଳୀପୁରମ୍ ସ୍ମାରକୀ ସମୂହକୁ ବିଶ୍ୱ ଐତିହ୍ୟ ସ୍ଥଳ ଭାବେ ଅନ୍ତର୍ଭୁକ୍ତ କଲା, ସମୁଦ୍ରତଟ ମନ୍ଦିର ଯାହାର ସମୁଦ୍ରମୁଖୀ ରତ୍ନ।",
+    "architecture": "ମନ୍ଦିର ଶିବ ଓ ବିଷ୍ଣୁ ଉଭୟଙ୍କୁ ପ୍ରତିଷ୍ଠା କରିବାରେ ଅସାଧାରଣ। ପୂର୍ବ ଓ ପଶ୍ଚିମମୁଖୀ ଦୁଇଟି ଶିବ ମନ୍ଦିର ହ୍ରାସମାନ ସ୍ତରର ପାହାଚ ଆକାର ପିରାମିଡ଼ ଚୂଳା ଦ୍ୱାରା ଶୋଭିତ - ପ୍ରାରମ୍ଭିକ ଦ୍ରାବିଡ଼ ବିମାନର ପଥର ନିର୍ମାଣରେ ଏକ ପ୍ରଥମ ପ୍ରକାଶ - ଏବଂ ସେ ଦୁଇଟି ମଝିରେ ଅନନ୍ତଶୟନ ରୂପେ ଶୟନରତ ବିଷ୍ଣୁଙ୍କ ମନ୍ଦିର, ଏକ ପଥର ଢିପିରୁ ଖୋଦିତ ଯାହାକୁ ନିର୍ମାତାମାନେ ଯୋଜନାରେ ସାମିଲ କରିଥିଲେ। ବସିଥିବା ନନ୍ଦୀ ବୃଷଭର ଧାଡ଼ି ଦ୍ୱାରା ଶୋଭିତ ଏକ ନିମ୍ନ ପ୍ରାଚୀର ପରିସରକୁ ଘେରିଛି, ଏବଂ ସମଗ୍ର ସ୍ଥାନ ସମୁଦ୍ର ଉପରେ ସୂର୍ଯ୍ୟୋଦୟର ପ୍ରଥମ ଆଲୋକ ଧରିବା ପାଇଁ ଦିଗବଦ୍ଧ। ଶତାବ୍ଦୀର ଲୁଣିଆ ଛିଟାରେ ବାହ୍ୟରେଖାରେ କୋମଳ ହୋଇଥିବା ଗ୍ରାନାଇଟ୍ ଏବେ ବି ଖମ୍ବଯୁକ୍ତ ପାଚେରୀ ଓ ସିଂହ-ଆଧାର ସ୍ତମ୍ଭର ସ୍ପଷ୍ଟ ପଲ୍ଲବ ଶୈଳୀ ଦେଖାଏ। ଏହାର ଗୁରୁତ୍ୱ ସୌନ୍ଦର୍ଯ୍ୟ ଅପେକ୍ଷା ଐତିହାସିକ: ଏହା ଶିଳାକଟା ଠାରୁ ନିର୍ମିତ ସ୍ଥାପତ୍ୟକୁ ଯିବାର କ୍ଷଣରେ ଧରାପଡ଼ିଥିବା ସ୍ଥାପତ୍ୟ।",
+    "legends": "ମାମଲ୍ଲପୁରମ୍‌ର ସମୁଦ୍ରତଟ 'ସପ୍ତ ପଗୋଡ଼ା'ର କିମ୍ବଦନ୍ତୀରେ ଆବୃତ - ୟୁରୋପୀୟ ନାବିକମାନଙ୍କ ଦ୍ୱାରା ଲିପିବଦ୍ଧ ଏକ ପରମ୍ପରା ଯେ ଏଠାରେ ସାତୋଟି ଭବ୍ୟ ମନ୍ଦିର ଥିଲା, ଯେଉଁଥିରୁ ସମୁଦ୍ରର ଈର୍ଷାରୁ କେବଳ ସମୁଦ୍ରତଟ ମନ୍ଦିର ବଞ୍ଚିଲା। ନଗରର ସ୍ମାରକୀଗୁଡ଼ିକ ପଲ୍ଲବ ଦରବାର ଓ ମହାକାବ୍ୟର ଚିତ୍ରରେ ଭରପୂର: ନିକଟସ୍ଥ ଅର୍ଜୁନଙ୍କ ତପସ୍ୟା ଗଙ୍ଗାର ଅବତରଣ ଓ ସମ୍ପୂର୍ଣ୍ଣ ମହାଭାରତ ଜଗତକୁ ଚିତ୍ରିତ କରେ, ଯେତେବେଳେ କୃଷ୍ଣଙ୍କ ମାଖନ ଗୋଲା ଓ ପାଣ୍ଡବ ଭାଇମାନଙ୍କ ନାମରେ ନାମିତ ରଥ ସମୁଦ୍ରତଟକୁ ପୌରାଣିକ କଥାର ଏକ ଖୋଲା ଆକାଶ ତଳର ପୁନଃକଥନରେ ପରିଣତ କରେ। ସମୁଦ୍ରତଟ ମନ୍ଦିରର ଶିବ ଓ ବିଷ୍ଣୁଙ୍କ ପ୍ରତି ଦ୍ୱିବିଧ ଉତ୍ସର୍ଗ ପଲ୍ଲବମାନଙ୍କର ସର୍ବଗ୍ରାହୀ ଭକ୍ତିକୁ ପ୍ରକାଶ କରେ।",
+    "festivals": "ଏକ ସଂରକ୍ଷିତ ସ୍ମାରକୀ ଯାହା ଭକ୍ତମାନଙ୍କୁ ମଧ୍ୟ ଆକର୍ଷିତ କରେ, ସମୁଦ୍ରତଟ ମନ୍ଦିରର ସବୁଠାରୁ ଦୃଶ୍ୟମାନ ଉତ୍ସବ ହେଉଛି ବାର୍ଷିକ ମାମଲ୍ଲପୁରମ୍ ନୃତ୍ୟ ମହୋତ୍ସବ, ଯାହା ଶୀତ ମାସମାନଙ୍କରେ ସ୍ମାରକୀଗୁଡ଼ିକ ପୃଷ୍ଠଭୂମିରେ ଅନୁଷ୍ଠିତ ହୁଏ, ଯେତେବେଳେ ଅର୍ଜୁନଙ୍କ ତପସ୍ୟା ପାଖରେ ଭରତନାଟ୍ୟମ୍ ଓ ଅନ୍ୟ ଶାସ୍ତ୍ରୀୟ ନୃତ୍ୟ ପ୍ରଦର୍ଶିତ ହୁଏ। ମନ୍ଦିରର ଶୈବ ଉତ୍ସର୍ଗ ଅନୁରୂପ ମହାଶିବରାତ୍ରି ପାଳିତ ହୁଏ। ସ୍ଥାନର ଅନ୍ୟ ଛନ୍ଦ ଏକ ଐତିହ୍ୟ ପର୍ଯ୍ୟଟନ ସ୍ଥଳର, ସୂର୍ଯ୍ୟୋଦୟ ଓ ସପ୍ତାହାନ୍ତରେ ସବୁଠାରୁ ବ୍ୟସ୍ତ।",
+    "experience": "ଭୋରରେ ଆସନ୍ତୁ, ଯେତେବେଳେ ଚୂଳାଗୁଡ଼ିକ ସମୁଦ୍ର ଆଲୋକ ଧରନ୍ତି ଏବଂ ଭିଡ଼ କମ୍ - ଏହା ସମୁଦ୍ରତଟ ମନ୍ଦିରର ଶାସ୍ତ୍ରୀୟ ଦୃଶ୍ୟ। ଏହାକୁ ମାମଲ୍ଲପୁରମ୍‌ର ବାକି ଅଂଶ ସହିତ ଦେଖିବା ସର୍ବୋତ୍ତମ: ପଞ୍ଚ ରଥ, ଗୁମ୍ଫା ମନ୍ଦିର ଓ ବିଶାଳ ଅର୍ଜୁନଙ୍କ ତପସ୍ୟା ଚିତ୍ର ସବୁ ପାଦରେ କିମ୍ବା ଅଳ୍ପ ଗାଡ଼ି ଦୂରରେ, ଯାହା ନଗରକୁ ପଲ୍ଲବ କଳାର ଏକ ଅତୁଳନୀୟ ଖୋଲା ଆକାଶ ତଳର ସଂଗ୍ରହାଳୟ କରେ। ସମୁଦ୍ର ପବନ, ଗ୍ରାନାଇଟ୍ ଓ ଉପସାଗରର ଶବ୍ଦ ମନ୍ଦିରକୁ ଅନ୍ତର୍ଦେଶୀୟ ମନ୍ଦିରମାନଙ୍କ ଠାରୁ ଭିନ୍ନ ପରିବେଶ ଦିଏ। ମାମଲ୍ଲପୁରମ୍ ଚେନ୍ନାଇର ଦକ୍ଷିଣରେ ଉପକୂଳରେ ଅବସ୍ଥିତ, ଇଷ୍ଟ କୋଷ୍ଟ ରୋଡ୍ ଦେଇ ଏକ ସହଜ ଦିନିକିଆ ଯାତ୍ରା।"
   },
   "visit": {
-    "timings": "Open daily, roughly 6:00 am to 6:00 pm, as an ASI-ticketed monument (a single ticket often covers the Shore Temple and the Pancha Rathas). Sunrise is the finest and quietest time.",
-    "dressCode": "There is no ritual dress code at this monument, but modest, comfortable clothing suited to a sacred heritage site and the coastal sun is appropriate.",
-    "photography": "Photography is freely permitted across the site; drones and tripods may require permission. The seaward face at sunrise is the celebrated shot.",
-    "gettingThere": "Mamallapuram is in Chengalpattu district, about 55 km south of Chennai along the East Coast Road; Chennai has the nearest airport and major railway station, with frequent buses and taxis to the town."
+    "timings": "ଏଏସ୍‌ଆଇ ଟିକେଟ୍ ଥିବା ସ୍ମାରକୀ ଭାବେ ପ୍ରତିଦିନ ପ୍ରାୟ ସକାଳ ୬:୦୦ରୁ ସନ୍ଧ୍ୟା ୬:୦୦ ପର୍ଯ୍ୟନ୍ତ ଖୋଲା (ଗୋଟିଏ ଟିକେଟ୍ ପ୍ରାୟତଃ ସମୁଦ୍ରତଟ ମନ୍ଦିର ଓ ପଞ୍ଚ ରଥ ଉଭୟକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରେ)। ସୂର୍ଯ୍ୟୋଦୟ ସର୍ବୋତ୍ତମ ଓ ସବୁଠାରୁ ଶାନ୍ତ ସମୟ।",
+    "dressCode": "ଏହି ସ୍ମାରକୀରେ କୌଣସି ଧାର୍ମିକ ପୋଷାକ ନିୟମ ନାହିଁ, କିନ୍ତୁ ଏକ ପବିତ୍ର ଐତିହ୍ୟ ସ୍ଥଳ ଓ ଉପକୂଳର ରୌଦ୍ର ଉପଯୋଗୀ ନମ୍ର, ଆରାମଦାୟକ ପୋଷାକ ଉପଯୁକ୍ତ।",
+    "photography": "ସମଗ୍ର ସ୍ଥାନରେ ଫଟୋଗ୍ରାଫି ମୁକ୍ତ ଭାବେ ଅନୁମତିପ୍ରାପ୍ତ; ଡ୍ରୋନ୍ ଓ ଟ୍ରାଇପଡ୍‌ ପାଇଁ ଅନୁମତି ଆବଶ୍ୟକ ହୋଇପାରେ। ସୂର୍ଯ୍ୟୋଦୟ ସମୟରେ ସମୁଦ୍ରମୁଖୀ ପାର୍ଶ୍ୱ ହେଉଛି ପ୍ରସିଦ୍ଧ ଦୃଶ୍ୟ।",
+    "gettingThere": "ମାମଲ୍ଲପୁରମ୍ ଚେଙ୍ଗଲପଟ୍ଟୁ ଜିଲ୍ଲାରେ, ଇଷ୍ଟ କୋଷ୍ଟ ରୋଡ୍ ଦେଇ ଚେନ୍ନାଇର ପ୍ରାୟ ୫୫ କିଲୋମିଟର ଦକ୍ଷିଣରେ ଅବସ୍ଥିତ; ଚେନ୍ନାଇରେ ନିକଟତମ ବିମାନବନ୍ଦର ଓ ପ୍ରମୁଖ ରେଳ ଷ୍ଟେସନ ଅଛି, ନଗର ପର୍ଯ୍ୟନ୍ତ ବାରମ୍ବାର ବସ୍ ଓ ଟ୍ୟାକ୍ସି ଚଳେ।"
   },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.jpg",

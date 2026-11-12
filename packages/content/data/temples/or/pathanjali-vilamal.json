@@ -1,29 +1,36 @@
 {
   "id": "pathanjali-vilamal",
   "locale": "or",
+  "name": "ପତଞ୍ଜଳି ମନୋହରର ମନ୍ଦିର, ତିରୁବିଳମର୍ (ବିଳମଲ୍)",
   "nativeName": "திருவிளமர் பதஞ்சலி மனோகரர் கோயில்",
+  "deity": "ଶିବ ପତଞ୍ଜଳି ମନୋହରର (ଯିଏ ପତଞ୍ଜଳି ଋଷିଙ୍କୁ ମୁଗ୍ଧ କରିଥିଲେ) ରୂପେ, ଦେବୀ ମଧୁରଭାଷିଣୀ (ତେନ୍ମୋଳି ଅମ୍ମାଇ)ଙ୍କ ସହିତ",
+  "tradition": "ଶୈବ — ଏକ ପାଦଲ ପେତ୍ର ସ୍ଥଳମ୍",
   "location": {
-    "city": "Vilamal, near Tiruvarur",
-    "state": "Tamil Nadu",
+    "city": "ବିଳମଲ୍, ତିରୁବାରୁର ନିକଟରେ",
+    "state": "ତାମିଲନାଡୁ",
     "lat": 10.78,
     "lng": 79.63
   },
+  "period": "ତେବାରମ୍ ଯୁଗ (ସପ୍ତମ ଶତାବ୍ଦୀରେ ସ୍ତୁତ); ପରବର୍ତ୍ତୀ ଚୋଳ ଯୁଗର ପ୍ରସ୍ତର ମନ୍ଦିର",
   "century": 7,
+  "dynasty": "ଚୋଳ",
+  "style": "ଦ୍ରାବିଡ଼",
   "unesco": false,
   "circuits": [
     "paadal-petra-sthalams"
   ],
+  "summary": "ତିରୁବାରୁର ନିକଟରେ ଓଡମ୍ପୋକ୍କି ନଦୀ କୂଳରେ ଥିବା ବିଳମଲ୍, ଅର୍ଥାତ୍ ତେବାରମ୍‌ର ତିରୁବିଳମର୍, ଶିବଙ୍କୁ ପତଞ୍ଜଳି ମନୋହରର — ଯିଏ ପତଞ୍ଜଳି ଋଷିଙ୍କୁ ମୁଗ୍ଧ କରିଥିଲେ — ରୂପେ ଏବଂ ଦେବୀ ମଧୁରଭାଷିଣୀ, \"ମଧୁର ବାଣୀର ଅଧିକାରିଣୀ\"ଙ୍କ ସହିତ ପୂଜା କରେ। ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ ଏହି ପାଦଲ ପେତ୍ର ସ୍ଥଳମ୍ ତିରୁବାରୁର ଅଞ୍ଚଳର ଏକ ଶାନ୍ତ ମନ୍ଦିର, ଯାହାର ନାମ ଯୋଗର ମହାନ୍ ଋଷିଙ୍କୁ ସ୍ମରଣ କରାଏ।",
   "sections": {
-    "history": "Vilamal, whose Tevaram name is Tiruvilamar, lies on the banks of the Odampokki river very close to Tiruvarur (sources give 1–3 km) in Tiruvarur district. It is a Paadal Petra Sthalam, hymned in the Tevaram by Tirugnana Sambandar. The sacred tank is the Agni Teertham, and the stone temple is of the Chola period and later.",
-    "architecture": "A Dravidian delta temple, the shrine enshrines Pathanjali Manoharar in the sanctum, with the goddess Madhurabhashini — also Thenmozhi Ammai, and in another reckoning Yazhinum Menmozhiyaal, 'she whose words are softer than the lute' — in her own, south-facing shrine, a Nandi and the parivara devatas. The Agni Teertham lies within the temple's sacred geography.",
-    "legends": "The lord's name Pathanjali Manoharar — 'he who captivated Patanjali' — joins the shrine to the great sage Patanjali, author of the Yoga Sutras, who in Shaiva tradition witnessed Shiva's cosmic dance and is counted among his devotees. Here the lord is remembered as the one whose grace charmed the heart of the yogi. The goddess's names, all turning on the sweetness of her speech, give the shrine its gentle devotional note; the fuller sthala purana is preserved in the local tradition and Sambandar's verses.",
-    "festivals": "The temple observes Maha Shivaratri in Masi (February–March), Navaratri in Purattasi (September–October) and the Mondays of Karthikai, with Pradosha worship, at the quiet scale of a shrine near Tiruvarur. Pilgrims on the Paadal Petra trail around Tiruvarur include Vilamal among their stops.",
-    "experience": "At Vilamal the pilgrim finds a quiet shrine by the Odampokki, close to great Tiruvarur, loved for its tie to the sage Patanjali. Before Pathanjali Manoharar and the sweet-spoken Madhurabhashini, the visitor touches the memory of yoga's great sage in a small Tevaram temple of the delta."
+    "history": "ବିଳମଲ୍, ଯାହାର ତେବାରମ୍ ନାମ ତିରୁବିଳମର୍, ତିରୁବାରୁର ଜିଲ୍ଲାରେ ତିରୁବାରୁର ଅତି ନିକଟରେ (ସୂତ୍ର ଅନୁସାରେ ୧–୩ କିମି) ଓଡମ୍ପୋକ୍କି ନଦୀ କୂଳରେ ଅବସ୍ଥିତ। ଏହା ଏକ ପାଦଲ ପେତ୍ର ସ୍ଥଳମ୍, ତେବାରମ୍‌ରେ ତିରୁଜ୍ଞାନ ସମ୍ବନ୍ଧରଙ୍କ ଦ୍ୱାରା ସ୍ତୁତ। ପବିତ୍ର ପୁଷ୍କରିଣୀ ଅଗ୍ନି ତୀର୍ଥ, ଏବଂ ପ୍ରସ୍ତର ମନ୍ଦିର ଚୋଳ ଯୁଗର ଓ ତା’ପରର।",
+    "architecture": "ଏକ ଦ୍ରାବିଡ଼ ବଦ୍ୱୀପ ମନ୍ଦିର; ଗର୍ଭଗୃହରେ ପତଞ୍ଜଳି ମନୋହରର ପ୍ରତିଷ୍ଠିତ, ଦେବୀ ମଧୁରଭାଷିଣୀ — ତେନ୍ମୋଳି ଅମ୍ମାଇ, ଏବଂ ଅନ୍ୟ ଗଣନାରେ ୟାଳିନୁମ୍ ମେନ୍ମୋଳିୟାଲ୍, \"ବୀଣାଠାରୁ କୋମଳ ବାଣୀ ଯାହାଙ୍କର\" — ନିଜସ୍ୱ ଦକ୍ଷିଣମୁଖୀ ମନ୍ଦିରରେ, ଏକ ନନ୍ଦୀ ଓ ପରିବାର ଦେବତାମାନେ ଅଛନ୍ତି। ଅଗ୍ନି ତୀର୍ଥ ମନ୍ଦିରର ପବିତ୍ର ଭୂଗୋଳର ଅଂଶ।",
+    "legends": "ପ୍ରଭୁଙ୍କ ନାମ ପତଞ୍ଜଳି ମନୋହରର — \"ଯିଏ ପତଞ୍ଜଳିଙ୍କୁ ମୁଗ୍ଧ କରିଥିଲେ\" — ଏହି ମନ୍ଦିରକୁ ଯୋଗସୂତ୍ରର ରଚୟିତା ମହାନ୍ ଋଷି ପତଞ୍ଜଳିଙ୍କ ସହିତ ଯୋଡ଼ିଥାଏ, ଯିଏ ଶୈବ ପରମ୍ପରାରେ ଶିବଙ୍କ ବିଶ୍ୱ ନୃତ୍ୟର ସାକ୍ଷୀ ଓ ତାଙ୍କ ଭକ୍ତମାନଙ୍କ ମଧ୍ୟରେ ଗଣିତ। ଏଠାରେ ପ୍ରଭୁ ସେହି ଜଣେ ରୂପେ ସ୍ମରଣୀୟ ଯାହାଙ୍କ କୃପା ଯୋଗୀଙ୍କ ହୃଦୟକୁ ମୁଗ୍ଧ କଲା। ଦେବୀଙ୍କ ନାମଗୁଡ଼ିକ, ସବୁ ତାଙ୍କ ବାଣୀର ମଧୁରତା ଉପରେ, ମନ୍ଦିରକୁ ଏକ କୋମଳ ଭକ୍ତି ସ୍ୱର ଦିଏ; ସମ୍ପୂର୍ଣ୍ଣ ସ୍ଥଳ ପୁରାଣ ସ୍ଥାନୀୟ ପରମ୍ପରା ଓ ସମ୍ବନ୍ଧରଙ୍କ ପଦ୍ୟରେ ସଂରକ୍ଷିତ।",
+    "festivals": "ମନ୍ଦିରରେ ମାସି (ଫେବୃଆରୀ–ମାର୍ଚ୍ଚ)ରେ ମହାଶିବରାତ୍ରି, ପୁରଟ୍ଟାସି (ସେପ୍ଟେମ୍ବର–ଅକ୍ଟୋବର)ରେ ନବରାତ୍ରି ଏବଂ କାର୍ତ୍ତିକାଇର ସୋମବାରମାନ ପ୍ରଦୋଷ ପୂଜା ସହିତ, ତିରୁବାରୁର ନିକଟର ଏକ ଛୋଟ ମନ୍ଦିର ପରିମାଣରେ ପାଳିତ ହୁଏ। ତିରୁବାରୁର ଚାରିପାଖର ପାଦଲ ପେତ୍ର ପଥର ତୀର୍ଥଯାତ୍ରୀମାନେ ବିଳମଲ୍‌କୁ ନିଜ ବିରାମସ୍ଥଳୀ ମଧ୍ୟରେ ଗଣନା କରନ୍ତି।",
+    "experience": "ବିଳମଲ୍‌ରେ ତୀର୍ଥଯାତ୍ରୀ ମହାନ୍ ତିରୁବାରୁର ନିକଟରେ ଓଡମ୍ପୋକ୍କି କୂଳରେ ଏକ ଶାନ୍ତ ମନ୍ଦିର ପାଆନ୍ତି, ଯାହା ପତଞ୍ଜଳି ଋଷିଙ୍କ ସହିତ ସମ୍ପର୍କ ପାଇଁ ପ୍ରିୟ। ପତଞ୍ଜଳି ମନୋହରର ଓ ମଧୁରଭାଷୀ ମଧୁରଭାଷିଣୀଙ୍କ ସମ୍ମୁଖରେ ଦର୍ଶକ ବଦ୍ୱୀପର ଏକ ଛୋଟ ତେବାରମ୍ ମନ୍ଦିରରେ ଯୋଗର ମହାନ୍ ଋଷିଙ୍କ ସ୍ମୃତିକୁ ସ୍ପର୍ଶ କରନ୍ତି।"
   },
   "visit": {
-    "timings": "Typically open from early morning to midday and again from late afternoon into the evening; confirm timings locally, especially on festival days.",
-    "dressCode": "Modest traditional attire is expected, with shoulders and knees covered; footwear is left at the entrance.",
-    "photography": "Photography is generally allowed in the outer corridors but not inside the sanctum; ask temple staff before photographing rituals.",
-    "gettingThere": "Vilamal is 1–3 km from Tiruvarur town, on the banks of the Odampokki river, in Tiruvarur district. Tiruvarur has its own railway station and bus stand, with local autos and buses reaching the village."
+    "timings": "ସାଧାରଣତଃ ଅତି ସକାଳରୁ ମଧ୍ୟାହ୍ନ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ପୁଣି ଅପରାହ୍ନ ଶେଷରୁ ସନ୍ଧ୍ୟା ପର୍ଯ୍ୟନ୍ତ ଖୋଲା ରହେ; ବିଶେଷତଃ ଉତ୍ସବ ଦିନରେ ସ୍ଥାନୀୟ ଭାବେ ସମୟ ନିଶ୍ଚିତ କରନ୍ତୁ।",
+    "dressCode": "ବିନମ୍ର ପାରମ୍ପରିକ ପୋଷାକ ଆଶା କରାଯାଏ, କାନ୍ଧ ଓ ଆଣ୍ଠୁ ଢଙ୍କା ରହିବ; ପାଦୁକା ପ୍ରବେଶ ଦ୍ୱାରରେ ଛାଡ଼ିବାକୁ ହେବ।",
+    "photography": "ସାଧାରଣତଃ ବାହ୍ୟ ବାରଣ୍ଡାରେ ଫଟୋ ତୋଳିବା ଅନୁମୋଦିତ, କିନ୍ତୁ ଗର୍ଭଗୃହ ଭିତରେ ନୁହେଁ; ପୂଜାବିଧି ଫଟୋ ତୋଳିବା ପୂର୍ବରୁ ମନ୍ଦିର କର୍ମଚାରୀଙ୍କୁ ପଚାରନ୍ତୁ।",
+    "gettingThere": "ବିଳମଲ୍ ତିରୁବାରୁର ଜିଲ୍ଲାରେ ଓଡମ୍ପୋକ୍କି ନଦୀ କୂଳରେ ତିରୁବାରୁର ସହରରୁ ୧–୩ କିମି ଦୂରରେ ଅବସ୍ଥିତ। ତିରୁବାରୁରରେ ନିଜସ୍ୱ ରେଳ ଷ୍ଟେସନ ଓ ବସ୍ ଷ୍ଟାଣ୍ଡ ଅଛି, ସ୍ଥାନୀୟ ଅଟୋ ଓ ବସ୍ ଗ୍ରାମ ପର୍ଯ୍ୟନ୍ତ ଯାଏ।"
   }
 }
