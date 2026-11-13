@@ -1435,25 +1435,56 @@ a {
 }
 .cmap-legs-list {
   list-style: none;
-  margin: 6px 0 0;
+  margin: 8px 0 0;
   padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
 }
 .cmap-legs-list li {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 2px 12px;
-  padding-bottom: 3px;
-  border-bottom: 1px solid var(--line);
+  padding: 0;
 }
+/* A stop: numbered badge (matching the map pin) + temple name. */
 .cmap-leg-stop {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 3px 0;
   color: var(--ink-body);
+  font-weight: 600;
+}
+.cmap-leg-n {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--accent-vermilion);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.cmap-leg-name {
+  min-width: 0;
+}
+/* The leg between this stop and the next: a dotted thread descending from the
+   badge, with an arrow and the drive distance/time — unambiguously "travel to
+   the next stop", always on its own line so nothing clips on a narrow phone. */
+.cmap-leg-to {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: 9px;
+  padding: 2px 0 4px 17px;
+  border-left: 2px dotted var(--line);
+  color: var(--ink-muted);
+  font-size: 12px;
+}
+.cmap-leg-arrow {
+  color: var(--accent-turmeric);
+  font-weight: 700;
 }
 .cmap-leg-dist {
-  color: var(--ink-muted);
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
 }

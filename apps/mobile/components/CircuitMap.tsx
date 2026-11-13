@@ -248,31 +248,62 @@ export function CircuitMap({
         </Text>
       ) : null}
       {/* Per-leg breakdown for the small (label-mode) maps; big circuits show
-          the total only, to keep the native list light. */}
+          the total only, to keep the native list light. Each stop carries a
+          numbered badge (matching the map pin); the leg to the next stop hangs
+          below it as an indented arrow + distance, so it reads unambiguously as
+          travel between two stops rather than a figure pinned to one name. */}
       {layout.mode !== 'compact' && layout.order.length > 2 ? (
-        <View style={{ marginTop: 6 }}>
-          <Text style={{ color: colors.inkMuted, fontWeight: '600', fontSize: 12, marginBottom: 2 }}>{orderLabel}</Text>
+        <View style={{ marginTop: 8 }}>
+          <Text style={{ color: colors.inkMuted, fontWeight: '600', fontSize: 12, marginBottom: 4 }}>{orderLabel}</Text>
           {layout.order.map((n, i) => (
-            <View
-              key={n}
-              style={{ flexDirection: 'row', justifyContent: 'space-between', flexWrap: 'wrap', paddingVertical: 2, borderBottomWidth: 1, borderBottomColor: colors.line }}
-            >
-              <Text style={{ color: colors.inkBody, fontSize: 13 }}>
-                {n}. {nameById.get(stopByN.get(n)?.id ?? '') ?? ''}
-              </Text>
-              {i < layout.order.length - 1 && stats.legsKm[i] !== undefined ? (
-                <Text style={{ color: colors.inkMuted, fontSize: 13 }}>
-                  ≈ {fmtKm(stats.legsKm[i]!)} · ≈ {fmtDur(stats.legsMin[i]!)}
+            <View key={n}>
+              <View style={{ flexDirection: 'row', alignItems: 'center', paddingVertical: 2 }}>
+                <View
+                  style={{
+                    width: 20,
+                    height: 20,
+                    borderRadius: 10,
+                    backgroundColor: colors.accentVermilion,
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    marginRight: 8,
+                  }}
+                >
+                  <Text style={{ color: '#fff', fontSize: 11, fontWeight: '700' }}>{n}</Text>
+                </View>
+                <Text style={{ color: colors.inkBody, fontSize: 13, fontWeight: '600', flexShrink: 1 }}>
+                  {nameById.get(stopByN.get(n)?.id ?? '') ?? ''}
                 </Text>
+              </View>
+              {i < layout.order.length - 1 && stats.legsKm[i] !== undefined ? (
+                <View
+                  style={{
+                    flexDirection: 'row',
+                    alignItems: 'center',
+                    marginLeft: 9,
+                    paddingLeft: 15,
+                    paddingBottom: 3,
+                    borderLeftWidth: 2,
+                    borderLeftColor: colors.line,
+                  }}
+                >
+                  <Text style={{ color: colors.accentTurmeric, fontSize: 13, fontWeight: '700', marginRight: 6 }}>↓</Text>
+                  <Text style={{ color: colors.inkMuted, fontSize: 12 }}>
+                    ≈ {fmtKm(stats.legsKm[i]!)} · ≈ {fmtDur(stats.legsMin[i]!)}
+                  </Text>
+                </View>
               ) : null}
             </View>
           ))}
         </View>
       ) : null}
       {layout.order.length > 1 ? (
-        <Text style={{ color: colors.inkMuted, fontSize: 12, marginTop: 2 }}>{routeEstimateLabel}</Text>
-      ) : null}
-      <Text style={{ color: colors.inkMuted, fontSize: 13, marginTop: 2 }}>{note}</Text>
+        <Text style={{ color: colors.inkMuted, fontSize: 12, marginTop: 4 }}>
+          {routeEstimateLabel} {note}
+        </Text>
+      ) : (
+        <Text style={{ color: colors.inkMuted, fontSize: 13, marginTop: 2 }}>{note}</Text>
+      )}
     </View>
   );
 }
