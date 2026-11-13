@@ -252,34 +252,55 @@ export function CircuitMap({
         </g>
       </svg>
       <figcaption className="cmap-note">
-        {layout.order.length > 1 && (
+        {layout.order.length > 1 ? (
           <>
             <span className="cmap-total">
               <strong>{routeTotalLabel}:</strong> ≈ {fmtKm(route.totalKm)} · ≈ {fmtDur(route.totalMin)}
             </span>
-            {layout.order.length > 2 && (
-              <details className="cmap-legs">
+            {layout.mode !== 'compact' && layout.order.length > 2 && (
+              // Per-leg breakdown only for the label-mode maps (≤12 stops); the
+              // big compact circuits show the Total alone, so we don't build a
+              // hundreds-of-rows list into every page. Expanded by default for
+              // short circuits so the breakdown shows without a tap.
+              <details className="cmap-legs" open={layout.order.length <= 8}>
                 <summary>{orderLabel}</summary>
                 <ol className="cmap-legs-list">
-                  {layout.order.map((n, i) => (
-                    <li key={n}>
-                      <span className="cmap-leg-stop">
-                        {n}. {nameById.get(stopByN.get(n)?.id ?? '') ?? ''}
-                      </span>
-                      {i < layout.order.length - 1 && route.legsKm[i] !== undefined && (
-                        <span className="cmap-leg-dist">
-                          ≈ {fmtKm(route.legsKm[i]!)} · ≈ {fmtDur(route.legsMin[i]!)}
+                  {layout.order.map((n, i) => {
+                    const hasLeg =
+                      i < layout.order.length - 1 && route.legsKm[i] !== undefined;
+                    return (
+                      <li key={n}>
+                        <span className="cmap-leg-stop">
+                          <span className="cmap-leg-n" aria-hidden="true">
+                            {n}
+                          </span>
+                          <span className="cmap-leg-name">
+                            {nameById.get(stopByN.get(n)?.id ?? '') ?? ''}
+                          </span>
                         </span>
-                      )}
-                    </li>
-                  ))}
+                        {hasLeg && (
+                          <span className="cmap-leg-to">
+                            <span className="cmap-leg-arrow" aria-hidden="true">
+                              ↓
+                            </span>
+                            <span className="cmap-leg-dist">
+                              ≈ {fmtKm(route.legsKm[i]!)} · ≈ {fmtDur(route.legsMin[i]!)}
+                            </span>
+                          </span>
+                        )}
+                      </li>
+                    );
+                  })}
                 </ol>
               </details>
             )}
-            <span className="cmap-estimate">{routeEstimateLabel}</span>
+            <span className="cmap-estimate">
+              {routeEstimateLabel} {note}
+            </span>
           </>
+        ) : (
+          note
         )}
-        {note}
       </figcaption>
     </figure>
   );
