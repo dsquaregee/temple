@@ -33,10 +33,6 @@
     "photography": "ভেতরে ও বাইরে সর্বত্র অবাধে ছবি তোলা অনুমোদিত—এটি সেই অল্প কয়েকটি হোয়সল অভ্যন্তরের একটি যেখানে প্রসিদ্ধ ছাদগুলি অবকাশে ছবি তোলা যায়।",
     "gettingThere": "সোমনাথপুর কাবেরীর ধারে মহীশূর জেলায়, মহীশূর থেকে প্রায় ৩৫ কিমি পূর্বে এবং বেঙ্গালুরু থেকে মোটামুটি ১৪০ কিমি দূরে; মহীশূর নিকটতম রেল ও বিমান কেন্দ্র।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/somanathapura-keshava.mp3",
-    "durationSec": 287
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/somanathapura-keshava.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/somanathapura-keshava.webp"
     },
     "og": "https://media.dsquaregee.com/og/somanathapura-keshava.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/somanathapura-keshava.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/somanathapura-keshava.jpg",
-    "durationSec": 216,
-    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · HPNadig / Wikimedia Commons (CC BY-SA 3.0) · Dushyant Naresh / Wikimedia Commons (CC BY-SA 3.0) · Purshi / Wikimedia Commons (CC BY-SA 3.0) · Sanandana C M / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -34,10 +34,6 @@
     "photography": "গর্ভগৃহ ও তার আশপাশে ছবি তোলায় নিষেধাজ্ঞা রয়েছে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
     "gettingThere": "ওপ্পিলিয়প্পন কোইল তিরুনাগেশ্বরমের পাশে, তাঞ্জাভুর জেলার কুম্বকোনম থেকে প্রায় ৭ কিমি দূরে, এবং শহর-বাস, অটোরিকশা বা ট্যাক্সিতে সহজে পৌঁছানো যায়। নিকটতম রেলস্টেশন কুম্বকোনমে; নিকটতম বিমানবন্দর তিরুচিরাপল্লিতে।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/oppiliappan-thiruvinnagar.mp3",
-    "durationSec": 197
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",
     "color": "#5C3A2E",
@@ -48,11 +44,5 @@
       "webp": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.webp"
     },
     "og": "https://media.dsquaregee.com/og/oppiliappan-thiruvinnagar.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/oppiliappan-thiruvinnagar.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/oppiliappan-thiruvinnagar.jpg",
-    "durationSec": 156,
-    "credit": "Prasannavathani.D / Wikimedia Commons (CC BY-SA 3.0) · Arunasank / Wikimedia Commons (CC BY-SA 4.0) · sowrirajan s / Wikimedia Commons (CC BY 2.0)"
   }
 }

@@ -34,10 +34,6 @@
     "photography": "गाभार्‍यात आणि त्याच्या आसपास छायाचित्रणाला परवानगी नाही; लावलेले नियम आणि मंदिर कर्मचार्‍यांचे मार्गदर्शन पाळावे.",
     "gettingThere": "तिरुवट्टार कन्याकुमारी जिल्ह्यातील कळ्कुळम तालुक्यात, मार्तंडमपासून आत वसलेले असून मार्तंडम, कुळितुरै किंवा नागरकोविल येथून रस्त्याने पोहोचता येते. कुळितुरै आणि नागरकोविल येथे रेल्वेस्थानके आहेत, आणि तिरुवनंतपुरममध्ये सर्वांत जवळचे विमानतळ आहे."
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/adikesava-thiruvattar.mp3",
-    "durationSec": 215
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.jpg",
     "color": "#5C3A2E",
@@ -48,11 +44,5 @@
       "webp": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.webp"
     },
     "og": "https://media.dsquaregee.com/og/adikesava-thiruvattar.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/adikesava-thiruvattar.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/adikesava-thiruvattar.jpg",
-    "durationSec": 165,
-    "credit": "Manukrishnan80 / Wikimedia Commons (CC BY-SA 4.0) · Infocaster at English Wikipedia / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Vaikunda Raja / Wikimedia Commons (CC0) · Destination8infinity / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

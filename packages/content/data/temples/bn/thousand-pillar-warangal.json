@@ -33,10 +33,6 @@
     "photography": "বাইরের অংশ ও স্তম্ভের ছবি তোলা সাধারণত অনুমোদিত; গর্ভগৃহের ভেতরে ও পূজার সময় প্রকাশিত নিয়ম অনুসরণ করুন।",
     "gettingThere": "মন্দিরটি হনমকোণ্ডায়, বারঙ্গল নগর এলাকার অংশ, হায়দরাবাদ থেকে প্রায় ১৪৫ কিমি দূরে; বারঙ্গলের একটি প্রধান রেল জংশন আছে এবং নিকটতম বিমানবন্দর হায়দরাবাদ।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thousand-pillar-warangal.mp3",
-    "durationSec": 206
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.webp"
     },
     "og": "https://media.dsquaregee.com/og/thousand-pillar-warangal.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/thousand-pillar-warangal.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",
-    "durationSec": 158,
-    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

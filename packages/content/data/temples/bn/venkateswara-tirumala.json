@@ -33,10 +33,6 @@
     "photography": "মন্দিরের ভেতরে ছবি তোলা ও ফোন অনুমোদিত নয় এবং প্রবেশের আগে জমা রাখতে হয়; গর্ভগৃহ কঠোরভাবে ছবি-নিষিদ্ধ অঞ্চল।",
     "gettingThere": "তিরুমালা অন্ধ্রপ্রদেশে তিরুপতির উপরে অবস্থিত; তিরুপতিতে একটি রেলস্টেশন ও বিমানবন্দর রয়েছে, এবং পর্বতে ঘাট সড়কপথে বা আলিপিরি ও শ্রীবারি মেট্টু সিঁড়িপথ ধরে পায়ে হেঁটে পৌঁছানো যায়।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/venkateswara-tirumala.mp3",
-    "durationSec": 268
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.webp"
     },
     "og": "https://media.dsquaregee.com/og/venkateswara-tirumala.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/venkateswara-tirumala.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.jpg",
-    "durationSec": 205,
-    "credit": "Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0) · vijay chennupati from sydney, australia / Wikimedia Commons (CC BY 2.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

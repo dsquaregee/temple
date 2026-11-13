@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 // Onboarding screen 1 (design D4): the language picker. Native scripts lead,
 // English gloss below. No forced sign-in — anonymous browsing from here.
-const ORDER: Locale[] = ['ta', 'te', 'kn', 'ml', 'hi', 'en'];
+const ORDER: Locale[] = ['ta', 'te', 'kn', 'ml', 'hi', 'bn', 'mr', 'or', 'en'];
 
 export default function LanguagePicker() {
   return (

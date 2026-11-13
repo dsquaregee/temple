@@ -33,10 +33,6 @@
     "photography": "বাইরের প্রাঙ্গণে ও বৃহত্তর হাম্পি স্থলজুড়ে সাধারণত ছবি তোলা অনুমোদিত; গর্ভগৃহের ভেতরে ছবি তোলা সীমিত, এবং সামান্য ক্যামেরা ফি লাগতে পারে। লাগানো নির্দেশ ও পুরোহিতদের পরামর্শ অনুসরণ করুন।",
     "gettingThere": "হাম্পি কর্ণাটকের বাল্লারি (বেল্লারি) জেলায়, হাম্পি গ্রাম ও হোসপেট (হোসপেটে) শহরের পাশে, যা প্রায় ১৩ কিমি দূরে এবং যেখানে নিকটতম রেলস্টেশন ও হোটেল রয়েছে। এটি বেঙ্গালুরু থেকে উত্তরে মোটামুটি ৩৪০ কিমি দূরে। বিরূপাক্ষ মন্দির পুরনো হাটের মাথায় দাঁড়িয়ে আছে, ধ্বংসাবশেষ অন্বেষণের স্বাভাবিক সূচনাবিন্দু।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/virupaksha-hampi.mp3",
-    "durationSec": 357
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/virupaksha-hampi.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/virupaksha-hampi.webp"
     },
     "og": "https://media.dsquaregee.com/og/virupaksha-hampi.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/virupaksha-hampi.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/virupaksha-hampi.jpg",
-    "durationSec": 263,
-    "credit": "Sclickp / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

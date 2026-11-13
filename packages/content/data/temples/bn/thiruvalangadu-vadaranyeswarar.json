@@ -34,10 +34,6 @@
     "photography": "গর্ভগৃহে ও তার চারপাশে ছবি তোলা সীমাবদ্ধ; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
     "gettingThere": "তিরুবালঙ্গাডু তিরুবাল্লুর জেলায়, আরক্কোণম থেকে প্রায় ১৫ কিমি ও চেন্নাই থেকে মোটামুটি ৭০ কিমি দূরে অবস্থিত, সড়কপথে ও আরক্কোণমের দিকে শহরতলি রেলপথে পৌঁছানো যায়।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thiruvalangadu-vadaranyeswarar.mp3",
-    "durationSec": 239
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
     "color": "#5C3A2E",
@@ -48,11 +44,5 @@
       "webp": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.webp"
     },
     "og": "https://media.dsquaregee.com/og/thiruvalangadu-vadaranyeswarar.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/thiruvalangadu-vadaranyeswarar.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
-    "durationSec": 181,
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -34,10 +34,6 @@
     "photography": "ছবি তোলায় নিষেধাজ্ঞা আছে, বিশেষত গর্ভগৃহে ও তার চারপাশে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
     "gettingThere": "কাঞ্চীপুরম তামিলনাড়ুতে, চেন্নাই থেকে প্রায় ৭৫ কিমি দূরে এবং সড়ক ও রেলপথে সুসংযুক্ত; মন্দিরটি পূর্বের বিষ্ণু কাঞ্চি অঞ্চলে অবস্থিত এবং স্থানীয় পরিবহনে সহজে পৌঁছানো যায়।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/varadaraja-perumal-kanchipuram.mp3",
-    "durationSec": 271
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.jpg",
     "color": "#5C3A2E",
@@ -48,11 +44,5 @@
       "webp": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.webp"
     },
     "og": "https://media.dsquaregee.com/og/varadaraja-perumal-kanchipuram.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/varadaraja-perumal-kanchipuram.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/varadaraja-perumal-kanchipuram.jpg",
-    "durationSec": 204,
-    "credit": "Jmadhu / Wikimedia Commons (CC BY-SA 4.0) · Women's Dairy 1989 / Wikimedia Commons (CC BY-SA 4.0) · Vetrivelrameshbabu / Wikimedia Commons (CC BY-SA 4.0) · Lodo from Moscow, Russia / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

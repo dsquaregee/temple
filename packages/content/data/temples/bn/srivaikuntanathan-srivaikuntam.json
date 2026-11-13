@@ -34,10 +34,6 @@
     "photography": "গর্ভগৃহে ও তার আশপাশে ছবি তোলা সীমিত; টাঙানো নিয়ম ও পুরোহিতদের নির্দেশনা অনুসরণ করুন।",
     "gettingThere": "এটি তাম্রপর্ণীর তীরে তিরুনেলবেলি–তুতিকোরিন অঞ্চলে, তিরুনেলবেলি–তিরুচেন্দুর পথে অবস্থিত, তিরুনেলবেলি থেকে সড়কপথে পৌঁছানো যায়; নয়টি তিরুপতি গ্রাম নদী বরাবর কাছাকাছি অবস্থিত।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/srivaikuntanathan-srivaikuntam.mp3",
-    "durationSec": 167
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.jpg",
     "color": "#5C3A2E",
@@ -48,11 +44,5 @@
       "webp": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.webp"
     },
     "og": "https://media.dsquaregee.com/og/srivaikuntanathan-srivaikuntam.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/srivaikuntanathan-srivaikuntam.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/srivaikuntanathan-srivaikuntam.jpg",
-    "durationSec": 126,
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

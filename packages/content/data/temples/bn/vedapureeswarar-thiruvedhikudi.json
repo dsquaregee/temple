@@ -33,10 +33,6 @@
     "photography": "তামিলনাড়ুর মন্দিরবিধি অনুসারে সাধারণত বাইরের অলিন্দ ও প্রাঙ্গণে ছবি তোলা অনুমোদিত, কিন্তু ভেতরের গর্ভগৃহে কঠোরভাবে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
     "gettingThere": "তিরুবেদিকুডি কাবেরীর দক্ষিণ দিকে অবস্থিত, তিরুবৈয়ারু থেকে সড়কপথে প্রায় ৭ কিমি ও তাঞ্জাবুরের প্রায় ১০ কিমি উত্তরে; উভয় শহর থেকেই স্থানীয় বাস, অটো ও ট্যাক্সি এখানে চলাচল করে। তাঞ্জাবুর নিকটতম বড় রেলস্টেশন, এবং প্রায় ৬০ কিমি দূরে তিরুচিরাপল্লি আন্তর্জাতিক বিমানবন্দর নিকটতম বিমানবন্দর।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vedapureeswarar-thiruvedhikudi.mp3",
-    "durationSec": 188
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.webp"
     },
     "og": "https://media.dsquaregee.com/og/vedapureeswarar-thiruvedhikudi.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/vedapureeswarar-thiruvedhikudi.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/vedapureeswarar-thiruvedhikudi.jpg",
-    "durationSec": 134,
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

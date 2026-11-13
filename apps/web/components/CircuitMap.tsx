@@ -96,7 +96,10 @@ export function CircuitMap({
           <circle className="cmap-veh-wheel" cx="5" cy="6" r="2.1" />
         </>
       )}
-      <animateMotion dur={`${dur}s`} begin={begin} repeatCount="indefinite" rotate="auto" calcMode="linear">
+      {/* rotate="0" keeps the vehicle upright (wheels down) the whole way —
+          rotate="auto" turns it to the path tangent, which flips it upside down
+          on leftward/upward legs. */}
+      <animateMotion dur={`${dur}s`} begin={begin} repeatCount="indefinite" rotate="0" calcMode="linear">
         {/* xlinkHref for WebKit/iOS Safari, which doesn't honour plain href on mpath. */}
         <mpath href={`#${routeId}`} xlinkHref={`#${routeId}`} />
       </animateMotion>

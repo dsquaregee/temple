@@ -33,10 +33,6 @@
     "photography": "গর্ভগৃহের ভেতরে ও চারপাশে ছবি তোলা সীমিত; প্রকাশিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
     "gettingThere": "নাঙ্গুনেরি তিরুনেলবেলি থেকে প্রায় ৩০ কিমি দক্ষিণে কন্যাকুমারীগামী জাতীয় সড়কের উপর অবস্থিত এবং বাস বা গাড়িতে সহজে পৌঁছানো যায়; এর একটি ছোট রেলস্টেশন আছে, তিরুনেলবেলি প্রধান জংশন। নিকটতম বিমানবন্দর তূত্তুক্কুডি ও তিরুবনন্তপুরম।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/thothadrinatha-vanamamalai.mp3",
-    "durationSec": 179
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/thothadrinatha-vanamamalai.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/thothadrinatha-vanamamalai.webp"
     },
     "og": "https://media.dsquaregee.com/og/thothadrinatha-vanamamalai.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/thothadrinatha-vanamamalai.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/thothadrinatha-vanamamalai.jpg",
-    "durationSec": 135,
-    "credit": "PJeganathan / Wikimedia Commons (CC BY-SA 4.0) · Dr. Chinchu C. / Wikimedia Commons (CC BY 4.0) · Thatsalright (talk) / Wikimedia Commons (CC BY-SA 3.0) · Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Pastor Sam / Wikimedia Commons (CC BY 3.0)"
   }
 }

@@ -82,7 +82,7 @@
 // the large compact circuits. Purge so returning visitors get the fix.
 // v44: circuit pages now show per-leg distance + drive-time estimates and a
 // circuit total under each route map. Purge so returning visitors get them.
-const VERSION = 'v45';
+const VERSION = 'v46';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

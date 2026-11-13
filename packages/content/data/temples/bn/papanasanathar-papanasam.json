@@ -33,10 +33,6 @@
     "photography": "গর্ভগৃহের ভেতরে ও চারপাশে ছবি তোলা সীমিত; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন। নদীর সিঁড়িতে সতর্ক থাকুন, যা পিচ্ছিল হতে পারে।",
     "gettingThere": "পাপনাসম পশ্চিমঘাটের পাদদেশে তিরুনেলবেলি জেলায় অবস্থিত, চেরনমহাদেবী ও অম্বাসমুদ্রম হয়ে সড়কপথে তিরুনেলবেলির পশ্চিমে প্রায় ৫০–৬০ কিমি দূরে, এবং অম্বাসমুদ্রম থেকে প্রায় ১০ কিমি এগিয়ে। অম্বাসমুদ্রম তিরুনেলবেলি–তেনকাসি লাইনের নিকটতম রেলস্টেশন; থুথুকুড়ি ও তিরুবনন্তপুরম নিকটতম বিমানবন্দর।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/papanasanathar-papanasam.mp3",
-    "durationSec": 229
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.webp"
     },
     "og": "https://media.dsquaregee.com/og/papanasanathar-papanasam.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/papanasanathar-papanasam.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
-    "durationSec": 165,
-    "credit": "Sukumaran sundar / Wikimedia Commons (CC BY-SA 3.0) · MaRISELVAM (talk) / Wikimedia Commons (CC BY 3.0) · Muthuraman99 / Wikimedia Commons (CC BY 3.0)"
   }
 }
