@@ -105,6 +105,9 @@ export default function CircuitGroupPage({
         title={ui.labels.routeMap}
         note={ui.labels.routeNote}
         orderLabel={ui.labels.drivingOrder}
+        routeTotalLabel={ui.labels.routeTotal}
+        routeEstimateLabel={ui.labels.routeEstimate}
+        units={{ km: ui.labels.unitKm, hr: ui.labels.unitHr, min: ui.labels.unitMin }}
         offset={group.offset}
       />
 

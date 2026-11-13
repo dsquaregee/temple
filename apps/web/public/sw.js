@@ -80,7 +80,9 @@
 // v43: circuit-map polish — iOS Safari vehicle animation fix (xlinkHref on
 // mpath) and the flowing route dash limited to small maps to spare repaints on
 // the large compact circuits. Purge so returning visitors get the fix.
-const VERSION = 'v43';
+// v44: circuit pages now show per-leg distance + drive-time estimates and a
+// circuit total under each route map. Purge so returning visitors get them.
+const VERSION = 'v44';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

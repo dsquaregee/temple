@@ -47,7 +47,33 @@ export interface CircuitMapLayout {
   labels: MapLabel[];
   /** Stop numbers (official order, 1-based) in the suggested driving order the route follows. */
   order: number[];
+  /**
+   * Approximate distance/time along the suggested driving order, for planning.
+   * `legsKm[k]`/`legsMin[k]` are the hop from `order[k]` to `order[k+1]`
+   * (so length is `order.length - 1`). Distance is great-circle × a road-detour
+   * factor; time assumes a steady average road speed and excludes time at each
+   * temple. Estimates, not a routed road distance.
+   */
+  route: { legsKm: number[]; legsMin: number[]; totalKm: number; totalMin: number };
   scale: { x: number; y: number; length: number; label: string };
+}
+
+// Planning estimates for the route breakdown. Real roads wander, so great-circle
+// distance is scaled up; time is distance over a modest mixed-road average.
+const ROAD_DETOUR = 1.3;
+const AVG_ROAD_KMH = 40;
+function routeStats(ordered: LatLng[]): {
+  legsKm: number[];
+  legsMin: number[];
+  totalKm: number;
+  totalMin: number;
+} {
+  const legsKm: number[] = [];
+  for (let k = 1; k < ordered.length; k++)
+    legsKm.push(haversineKm(ordered[k - 1]!, ordered[k]!) * ROAD_DETOUR);
+  const legsMin = legsKm.map((km) => (km / AVG_ROAD_KMH) * 60);
+  const totalKm = legsKm.reduce((a, b) => a + b, 0);
+  return { legsKm, legsMin, totalKm, totalMin: (totalKm / AVG_ROAD_KMH) * 60 };
 }
 
 export const MAP_WIDTH = 640;
@@ -344,7 +370,7 @@ export function layoutCircuitMap(
   const offset = opts.offset ?? 0;
   const valid = stops.filter((s) => Number.isFinite(s.lat) && Number.isFinite(s.lng));
   if (!valid.length) {
-    return { width: MAP_WIDTH, height: 0, landPath: '', routePath: '', pins: [], labels: [], order: [], mode: 'labels', scale: { x: 0, y: 0, length: 0, label: '' } };
+    return { width: MAP_WIDTH, height: 0, landPath: '', routePath: '', pins: [], labels: [], order: [], route: { legsKm: [], legsMin: [], totalKm: 0, totalMin: 0 }, mode: 'labels', scale: { x: 0, y: 0, length: 0, label: '' } };
   }
   const lats = valid.map((s) => s.lat);
   const midLat = (Math.min(...lats) + Math.max(...lats)) / 2;
@@ -495,6 +521,7 @@ export function layoutCircuitMap(
   // the circuit's official numbering.
   const order = drivingOrder(valid);
   const routePath = smoothPath(order.map((i) => pins[i]!));
+  const route = routeStats(order.map((i) => valid[i]!));
 
-  return { width: W, height: H, landPath, routePath, pins, labels, order: order.map((i) => i + 1 + offset), mode, scale };
+  return { width: W, height: H, landPath, routePath, pins, labels, order: order.map((i) => i + 1 + offset), route, mode, scale };
 }
