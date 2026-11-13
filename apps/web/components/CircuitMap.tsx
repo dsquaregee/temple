@@ -64,7 +64,7 @@ export function CircuitMap({
   const start = layout.pins.find((p) => p.n === 1 + offset) ?? layout.pins[0]!;
 
   const vehicle = (cls: string, begin: string, body: string) => (
-    <g className={cls}>
+    <g className={cls} aria-hidden="true">
       {body === 'bus' ? (
         <>
           <rect className="cmap-veh-bus" x="-13" y="-7" width="26" height="14" rx="3" />
@@ -82,7 +82,8 @@ export function CircuitMap({
         </>
       )}
       <animateMotion dur={`${dur}s`} begin={begin} repeatCount="indefinite" rotate="auto" calcMode="linear">
-        <mpath href={`#${routeId}`} />
+        {/* xlinkHref for WebKit/iOS Safari, which doesn't honour plain href on mpath. */}
+        <mpath href={`#${routeId}`} xlinkHref={`#${routeId}`} />
       </animateMotion>
     </g>
   );
@@ -124,16 +125,18 @@ export function CircuitMap({
           </>
         )}
 
-        {/* Route: glow under, solid line, flowing centre dashes */}
+        {/* Route: glow under, solid line, and flowing centre dashes. The dash is
+            animated continuously, so it's limited to label-mode maps (few, short
+            routes); the long compact routes skip it to spare the repaint. */}
         <path className="cmap-route-glow" d={layout.routePath} />
         <path id={routeId} className="cmap-route" d={layout.routePath} />
-        <path className="cmap-route-dash" d={layout.routePath} />
+        {layout.mode !== 'compact' && <path className="cmap-route-dash" d={layout.routePath} />}
 
         {/* Travellers (hidden when the viewer prefers reduced motion) */}
         {vehicle('cmap-veh', '0s', 'bus')}
         {vehicle('cmap-veh', `-${dur / 2}s`, 'car')}
         {/* Static traveller parked at stop 1, shown only under reduced motion */}
-        <g className="cmap-veh-static" transform={`translate(${start.x} ${start.y - 2})`}>
+        <g className="cmap-veh-static" aria-hidden="true" transform={`translate(${start.x} ${start.y - 2})`}>
           <rect className="cmap-veh-bus" x="-13" y="-7" width="26" height="14" rx="3" />
           <rect className="cmap-veh-win" x="2" y="-4.5" width="8" height="5" rx="1" />
           <rect className="cmap-veh-win" x="-8" y="-4.5" width="8" height="5" rx="1" />
