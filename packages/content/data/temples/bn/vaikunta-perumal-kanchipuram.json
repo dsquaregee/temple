@@ -34,10 +34,6 @@
     "photography": "গর্ভগৃহে ও তার চারপাশে ছবি তোলায় নিষেধাজ্ঞা আছে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
     "gettingThere": "মন্দিরটি কাঞ্চীপুরম শহরে অবস্থিত, চেন্নাই থেকে উত্তর-পূর্বে প্রায় ৭০ কিমি দূরে সড়কপথে পৌঁছানো যায়। কাঞ্চীপুরম নিকটতম রেলস্টেশন ও চেন্নাই নিকটতম বড় বিমানবন্দর; অটোরিকশা ও স্থানীয় বাস শহরের মন্দিরগুলিকে যুক্ত করে।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vaikunta-perumal-kanchipuram.mp3",
-    "durationSec": 191
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
     "color": "#5C3A2E",
@@ -48,11 +44,5 @@
       "webp": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.webp"
     },
     "og": "https://media.dsquaregee.com/og/vaikunta-perumal-kanchipuram.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/vaikunta-perumal-kanchipuram.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/vaikunta-perumal-kanchipuram.jpg",
-    "durationSec": 148,
-    "credit": "Nandhinikandhasamy / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -37,10 +37,6 @@
     "photography": "গর্ভগৃহগুলির ভেতরে সাধারণত ছবি তোলা অনুমোদিত নয়; টাঙানো নিয়ম ও কর্মীদের নির্দেশনা অনুসরণ করুন।",
     "gettingThere": "শ্রীশৈলম নন্দ্যাল জেলায়, কুর্নুল থেকে প্রায় ১৮০ কিমি এবং হায়দরাবাদ থেকে ২১০ কিমি দূরে, নাল্লামালা পাহাড়ের মধ্য দিয়ে সড়কপথে পৌঁছানো যায়; নিকটতম বিমানবন্দর হায়দরাবাদ।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/srisailam-mallikarjuna.mp3",
-    "durationSec": 224
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.jpg",
     "color": "#5C3A2E",
@@ -51,11 +47,5 @@
       "webp": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.webp"
     },
     "og": "https://media.dsquaregee.com/og/srisailam-mallikarjuna.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/srisailam-mallikarjuna.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.jpg",
-    "durationSec": 162,
-    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)"
   }
 }

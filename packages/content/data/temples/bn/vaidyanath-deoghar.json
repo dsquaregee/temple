@@ -33,10 +33,6 @@
     "photography": "গর্ভগৃহের ভেতরে ছবি তোলা অনুমোদিত নয়; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ অনুসরণ করুন।",
     "gettingThere": "দেওঘরে পৌঁছানো যায় হাওড়া–দিল্লি মূল লাইনের জসিডি জংশন হয়ে রেলপথে, প্রায় ৭ কিমি দূরে, বৈদ্যনাথ ধাম স্টেশন পর্যন্ত একটি শাখা লাইন সহ; দেওঘরের নিজস্ব বিমানবন্দরও আছে। কানওয়ারিয়ারা বিহারের সুলতানগঞ্জ থেকে প্রায় ১০৫ কিমি হেঁটে আসেন।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vaidyanath-deoghar.mp3",
-    "durationSec": 195
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.webp"
     },
     "og": "https://media.dsquaregee.com/og/vaidyanath-deoghar.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/vaidyanath-deoghar.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/vaidyanath-deoghar.jpg",
-    "durationSec": 153,
-    "credit": "Kishlay RF / Wikimedia Commons (CC BY-SA 3.0) · Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }
 }

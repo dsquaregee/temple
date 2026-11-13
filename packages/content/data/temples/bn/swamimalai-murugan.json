@@ -34,10 +34,6 @@
     "photography": "গর্ভগৃহের আশপাশে ছবি তোলায় নিষেধাজ্ঞা রয়েছে; প্রদর্শিত নিয়ম ও কর্মীদের নির্দেশ অনুসরণ করুন, বিশেষত উৎসব ও অভিষেকের সময়।",
     "gettingThere": "স্বামীমলৈ তাঞ্জাবুর জেলায় কুম্বকোণম থেকে প্রায় ৮ কিমি দূরে, সড়কপথে সুসংযুক্ত; কুম্বকোণমে নিকটতম রেলস্টেশন, এবং তিরুচিরাপল্লি বিমানবন্দর প্রায় ৯০ কিমি দূরে।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/swamimalai-murugan.mp3",
-    "durationSec": 220
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/swamimalai-murugan.jpg",
     "color": "#5C3A2E",
@@ -48,11 +44,5 @@
       "webp": "https://media.dsquaregee.com/heroes/swamimalai-murugan.webp"
     },
     "og": "https://media.dsquaregee.com/og/swamimalai-murugan.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/swamimalai-murugan.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/swamimalai-murugan.jpg",
-    "durationSec": 160,
-    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Gpkp / Wikimedia Commons (CC BY-SA 4.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Muralikrishna m / Wikimedia Commons (CC BY-SA 4.0) · பா.ஜம்புலிங்கம் / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

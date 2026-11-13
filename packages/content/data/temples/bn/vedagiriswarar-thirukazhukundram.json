@@ -33,10 +33,6 @@
     "photography": "তামিলনাড়ুর মন্দিরবিধি অনুসারে বাইরের করিডর ও প্রাঙ্গণে সাধারণত ছবি তোলা অনুমোদিত কিন্তু ভেতরের গর্ভগৃহে নিষিদ্ধ। আচার বা পুরোহিতদের ছবি তোলার আগে মন্দিরের কর্মীদের জিজ্ঞাসা করুন।",
     "gettingThere": "তিরুকজুকুন্দ্রম চেঙ্গলপট্টু–মহাবলিপুরম সড়কে অবস্থিত, চেঙ্গলপট্টু থেকে প্রায় ১৪ কিমি ও মহাবলিপুরম থেকে ১০ কিমি দূরে, এবং চেন্নাইয়ের প্রায় ৭০ কিমি দক্ষিণে। নিকটতম রেলজংশন চেঙ্গলপট্টু; নিকটতম বিমানবন্দর চেন্নাইয়ে। রাজ্য ও বেসরকারি বাস নিয়মিত শহরে চলে, এবং পাদদেশের মন্দিরটি তার কেন্দ্রে, বাসস্ট্যান্ড থেকে অল্প হাঁটার পথ।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vedagiriswarar-thirukazhukundram.mp3",
-    "durationSec": 297
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vedagiriswarar-thirukazhukundram.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/vedagiriswarar-thirukazhukundram.webp"
     },
     "og": "https://media.dsquaregee.com/og/vedagiriswarar-thirukazhukundram.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/vedagiriswarar-thirukazhukundram.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/vedagiriswarar-thirukazhukundram.jpg",
-    "durationSec": 220,
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -34,10 +34,6 @@
     "photography": "तमिळनाडूतील मंदिरांच्या नियमांनुसार बाहेरील प्रदक्षिणा मार्ग आणि प्रांगणांत छायाचित्रणाला सामान्यतः परवानगी असते, परंतु आतील गाभार्‍यात ते काटेकोरपणे निषिद्ध आहे. विधी किंवा पुजार्‍यांचे छायाचित्र घेण्यापूर्वी मंदिर कर्मचार्‍यांना विचारावे.",
     "gettingThere": "कुंभकोणम चेन्नई–तंजावर रेल्वेमार्गावर असून तंजावर, तिरुचिरापल्ली, चेन्नई आणि मयिलादुतुरै येथून बसने चांगले जोडलेले आहे. मंदिर जुन्या शहरात असून रेल्वेस्थानक आणि बसस्थानकापासून ऑटोरिक्षाने थोड्या अंतरावर आहे. सुमारे ९० किमी अंतरावरील तिरुचिरापल्ली आंतरराष्ट्रीय विमानतळ हे सर्वांत जवळचे विमानतळ आहे."
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/adi-kumbeswarar-kumbakonam.mp3",
-    "durationSec": 223
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.jpg",
     "color": "#5C3A2E",
@@ -48,11 +44,5 @@
       "webp": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.webp"
     },
     "og": "https://media.dsquaregee.com/og/adi-kumbeswarar-kumbakonam.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/adi-kumbeswarar-kumbakonam.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/adi-kumbeswarar-kumbakonam.jpg",
-    "durationSec": 168,
-    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

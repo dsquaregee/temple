@@ -34,10 +34,6 @@
     "photography": "गर्भगृहात छायाचित्रणास सामान्यतः परवानगी नसते; लावलेल्या फलकांचे पालन करावे आणि मंदिराच्या कर्मचाऱ्यांच्या सूचनांचे अनुसरण करावे.",
     "gettingThere": "आलंगुडी तिरुवारूर जिल्ह्यात, कुंभकोणमपासून सुमारे १७ कि.मी. अंतरावर आणि नीडामंगलमजवळ आहे. कुंभकोणम हे जवळचे केंद्र असून तेथे आणि तिरुवारूर येथे रेल्वे जोडणी आहे; जवळचे विमानतळ सुमारे ९० कि.मी. अंतरावरील तिरुचिरापल्ली आहे."
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/alangudi-apatsahayesvarar.mp3",
-    "durationSec": 250
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.jpg",
     "color": "#5C3A2E",
@@ -48,11 +44,5 @@
       "webp": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.webp"
     },
     "og": "https://media.dsquaregee.com/og/alangudi-apatsahayesvarar.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/alangudi-apatsahayesvarar.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/alangudi-apatsahayesvarar.jpg",
-    "durationSec": 174,
-    "credit": "Shankaran Murugan / Wikimedia Commons (CC BY 3.0) · Rasnaboy / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

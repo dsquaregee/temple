@@ -33,10 +33,6 @@
     "photography": "গর্ভগৃহে ও তার চারপাশে ছবি তোলায় নিষেধাজ্ঞা আছে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ মেনে চলুন।",
     "gettingThere": "তিরুনঙ্গুর ময়িলাড়ুতুরৈ জেলার শীরকাড়ি (শীরকালি) থেকে সড়কপথে দক্ষিণ-পূর্বে প্রায় ১০ কিমি দূরে। শীরকাড়ি, চেন্নাই–ময়িলাড়ুতুরৈ রেলপথে, নিকটতম স্টেশন, আর তিরুচিরাপল্লি, প্রায় ১৬০ কিমি দূরে, নিকটতম বড় বিমানবন্দর। শীরকাড়ি থেকে অটোরিকশা ও ট্যাক্সি গ্রামে পৌঁছায়; এগারোটি তীর্থ ধানখেতের মাঝে একে অপরের কাছাকাছি অবস্থিত।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/vaikuntanatha-vaikunta-vinnagaram.mp3",
-    "durationSec": 178
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.webp"
     },
     "og": "https://media.dsquaregee.com/og/vaikuntanatha-vaikunta-vinnagaram.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/vaikuntanatha-vaikunta-vinnagaram.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/vaikuntanatha-vaikunta-vinnagaram.jpg",
-    "durationSec": 143,
-    "credit": "Sathishkumar / Wikimedia Commons (CC BY-SA 3.0) · Sridhar.selvaraj / Wikimedia Commons (CC BY-SA 3.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

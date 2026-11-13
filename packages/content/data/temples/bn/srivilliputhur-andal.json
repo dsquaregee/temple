@@ -33,10 +33,6 @@
     "photography": "গর্ভগৃহে ও তার আশপাশে ছবি তোলায় নিষেধাজ্ঞা রয়েছে; প্রদর্শিত নিয়ম ও পুরোহিতদের নির্দেশ অনুসরণ করুন।",
     "gettingThere": "শ্রীবিল্লিপুত্তূর দক্ষিণ তামিলনাড়ুর বিরুধুনগর জেলায়, মাদুরাই–শিবকাশি সড়কের ধারে অবস্থিত, সড়ক ও রেলপথে পৌঁছানো যায়; মাদুরাই নিকটতম বড় কেন্দ্র ও বিমানবন্দর।"
   },
-  "audio": {
-    "storyUrl": "https://audio.dsquaregee.com/audio/en/v4/srivilliputhur-andal.mp3",
-    "durationSec": 179
-  },
   "hero": {
     "src": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
     "color": "#5C3A2E",
@@ -47,11 +43,5 @@
       "webp": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.webp"
     },
     "og": "https://media.dsquaregee.com/og/srivilliputhur-andal.jpg"
-  },
-  "video": {
-    "url": "https://media.dsquaregee.com/video/en/v4/srivilliputhur-andal.mp4",
-    "posterUrl": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
-    "durationSec": 132,
-    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
