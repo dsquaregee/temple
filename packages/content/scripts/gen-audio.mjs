@@ -45,6 +45,8 @@ const VOICES = {
   te: { languageCode: 'te-IN', name: 'te-IN-Standard-A' },
   kn: { languageCode: 'kn-IN', name: 'kn-IN-Wavenet-A' },
   ml: { languageCode: 'ml-IN', name: 'ml-IN-Wavenet-A' },
+  bn: { languageCode: 'bn-IN', name: 'bn-IN-Wavenet-A' },
+  mr: { languageCode: 'mr-IN', name: 'mr-IN-Wavenet-A' },
 };
 const LOCALES = (ONLY ?? Object.keys(VOICES)).filter((l) => VOICES[l]);
 
