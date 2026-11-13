@@ -73,7 +73,11 @@
 // v41: Odia (or) — the 9th language — launched: full catalog (520 temples, 32
 // circuits) translated to Odia and the locale wired across web + native. Purge so
 // returning visitors get the new /or/ pages and the updated language picker.
-const VERSION = 'v41';
+// v42: illustrated circuit route maps (gopuram tower markers, title ribbon,
+// compass, parchment terrain) with animated bus/car travellers on every Yatra
+// page — purge so returning visitors get the restyled map markup instead of the
+// stale-while-revalidate cached pages.
+const VERSION = 'v42';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
