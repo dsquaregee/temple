@@ -43,5 +43,9 @@
       "webp": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.webp"
     },
     "og": "https://media.dsquaregee.com/og/srivilliputhur-andal.jpg"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/bn/srivilliputhur-andal.mp3",
+    "durationSec": 155
   }
 }

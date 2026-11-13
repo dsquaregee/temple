@@ -43,5 +43,9 @@
       "webp": "https://media.dsquaregee.com/heroes/guruvayur-krishna.webp"
     },
     "og": "https://media.dsquaregee.com/og/guruvayur-krishna.jpg"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/bn/guruvayur-krishna.mp3",
+    "durationSec": 305
   }
 }

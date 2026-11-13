@@ -44,5 +44,9 @@
       "webp": "https://media.dsquaregee.com/heroes/airavatesvara.webp"
     },
     "og": "https://media.dsquaregee.com/og/airavatesvara.jpg"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/mr/airavatesvara.mp3",
+    "durationSec": 400
   }
 }

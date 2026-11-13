@@ -44,5 +44,9 @@
       "webp": "https://media.dsquaregee.com/heroes/srikalahasti.webp"
     },
     "og": "https://media.dsquaregee.com/og/srikalahasti.jpg"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/bn/srikalahasti.mp3",
+    "durationSec": 366
   }
 }

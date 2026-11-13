@@ -44,5 +44,9 @@
       "webp": "https://media.dsquaregee.com/heroes/arunachaleswarar.webp"
     },
     "og": "https://media.dsquaregee.com/og/arunachaleswarar.jpg"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/bn/arunachaleswarar.mp3",
+    "durationSec": 371
   }
 }

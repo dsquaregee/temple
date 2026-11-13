@@ -44,5 +44,9 @@
       "webp": "https://media.dsquaregee.com/heroes/brihadeeswarar.webp"
     },
     "og": "https://media.dsquaregee.com/og/brihadeeswarar.jpg"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/mr/brihadeeswarar.mp3",
+    "durationSec": 399
   }
 }

@@ -44,5 +44,9 @@
       "webp": "https://media.dsquaregee.com/heroes/kedarnath.webp"
     },
     "og": "https://media.dsquaregee.com/og/kedarnath.jpg"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/mr/kedarnath.mp3",
+    "durationSec": 199
   }
 }

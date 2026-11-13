@@ -43,5 +43,9 @@
       "webp": "https://media.dsquaregee.com/heroes/kodandarama-hampi.webp"
     },
     "og": "https://media.dsquaregee.com/og/kodandarama-hampi.jpg"
+  },
+  "audio": {
+    "storyUrl": "https://audio.dsquaregee.com/audio/mr/kodandarama-hampi.mp3",
+    "durationSec": 205
   }
 }
