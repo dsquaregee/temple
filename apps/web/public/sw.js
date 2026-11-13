@@ -77,7 +77,10 @@
 // compass, parchment terrain) with animated bus/car travellers on every Yatra
 // page — purge so returning visitors get the restyled map markup instead of the
 // stale-while-revalidate cached pages.
-const VERSION = 'v42';
+// v43: circuit-map polish — iOS Safari vehicle animation fix (xlinkHref on
+// mpath) and the flowing route dash limited to small maps to spare repaints on
+// the large compact circuits. Purge so returning visitors get the fix.
+const VERSION = 'v43';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
