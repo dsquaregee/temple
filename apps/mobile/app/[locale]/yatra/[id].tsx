@@ -77,6 +77,9 @@ export default function CircuitDetailScreen() {
           circuitName={circuit.name}
           note={ui.labels.routeNote}
           orderLabel={ui.labels.drivingOrder}
+          routeTotalLabel={ui.labels.routeTotal}
+          routeEstimateLabel={ui.labels.routeEstimate}
+          units={{ km: ui.labels.unitKm, hr: ui.labels.unitHr, min: ui.labels.unitMin }}
         />
       )}
 
@@ -93,6 +96,9 @@ export default function CircuitDetailScreen() {
               circuitName={`${circuit.name} — ${g.name}`}
               note={ui.labels.routeNote}
               orderLabel={ui.labels.drivingOrder}
+              routeTotalLabel={ui.labels.routeTotal}
+              routeEstimateLabel={ui.labels.routeEstimate}
+              units={{ km: ui.labels.unitKm, hr: ui.labels.unitHr, min: ui.labels.unitMin }}
               offset={g.offset}
             />
           ) : null}

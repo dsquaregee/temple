@@ -28,6 +28,9 @@ export function CircuitMap({
   circuitName,
   note,
   orderLabel,
+  routeTotalLabel,
+  routeEstimateLabel,
+  units,
   offset = 0,
 }: {
   temples: Temple[];
@@ -36,6 +39,9 @@ export function CircuitMap({
   circuitName?: string;
   note: string;
   orderLabel: string;
+  routeTotalLabel: string;
+  routeEstimateLabel: string;
+  units: { km: string; hr: string; min: string };
   /** Numbering offset for a grouped circuit's later sections. */
   offset?: number;
 }) {
@@ -106,6 +112,17 @@ export function CircuitMap({
   const name = circuitName ?? title;
   const ribbonFont = name.length > 34 ? 15 : name.length > 24 ? 18 : 21;
   const start = layout.pins.find((p) => p.n === 1 + offset) ?? layout.pins[0]!;
+
+  const stats = layout.route;
+  const nameById = new Map(temples.map((tp) => [tp.id, tp.name]));
+  const stopByN = new Map(layout.pins.map((p) => [p.n, p]));
+  const fmtKm = (km: number) => `${Math.max(1, Math.round(km))} ${units.km}`;
+  const fmtDur = (min: number) => {
+    const tt = Math.max(5, Math.round(min / 5) * 5);
+    const h = Math.floor(tt / 60);
+    const m = tt % 60;
+    return h ? (m ? `${h} ${units.hr} ${m} ${units.min}` : `${h} ${units.hr}`) : `${m} ${units.min}`;
+  };
 
   const vx = route.pts.length >= 2
     ? t.interpolate({ inputRange: route.input, outputRange: route.pts.map((p) => p.x) })
@@ -225,10 +242,35 @@ export function CircuitMap({
           </G>
         </Svg>
       </View>
-      {layout.order.length > 2 ? (
-        <Text style={{ color: colors.inkBody, fontWeight: '600', fontSize: 13, marginTop: 6 }}>
-          {orderLabel}: {layout.order.join(' → ')}
+      {layout.order.length > 1 ? (
+        <Text style={{ color: colors.inkBody, fontWeight: '600', fontSize: 14, marginTop: 6 }}>
+          {routeTotalLabel}: ≈ {fmtKm(stats.totalKm)} · ≈ {fmtDur(stats.totalMin)}
         </Text>
+      ) : null}
+      {/* Per-leg breakdown for the small (label-mode) maps; big circuits show
+          the total only, to keep the native list light. */}
+      {layout.mode !== 'compact' && layout.order.length > 2 ? (
+        <View style={{ marginTop: 6 }}>
+          <Text style={{ color: colors.inkMuted, fontWeight: '600', fontSize: 12, marginBottom: 2 }}>{orderLabel}</Text>
+          {layout.order.map((n, i) => (
+            <View
+              key={n}
+              style={{ flexDirection: 'row', justifyContent: 'space-between', flexWrap: 'wrap', paddingVertical: 2, borderBottomWidth: 1, borderBottomColor: colors.line }}
+            >
+              <Text style={{ color: colors.inkBody, fontSize: 13 }}>
+                {n}. {nameById.get(stopByN.get(n)?.id ?? '') ?? ''}
+              </Text>
+              {i < layout.order.length - 1 && stats.legsKm[i] !== undefined ? (
+                <Text style={{ color: colors.inkMuted, fontSize: 13 }}>
+                  ≈ {fmtKm(stats.legsKm[i]!)} · ≈ {fmtDur(stats.legsMin[i]!)}
+                </Text>
+              ) : null}
+            </View>
+          ))}
+        </View>
+      ) : null}
+      {layout.order.length > 1 ? (
+        <Text style={{ color: colors.inkMuted, fontSize: 12, marginTop: 2 }}>{routeEstimateLabel}</Text>
       ) : null}
       <Text style={{ color: colors.inkMuted, fontSize: 13, marginTop: 2 }}>{note}</Text>
     </View>

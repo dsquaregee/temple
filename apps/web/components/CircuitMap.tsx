@@ -24,6 +24,9 @@ export function CircuitMap({
   title,
   note,
   orderLabel,
+  routeTotalLabel,
+  routeEstimateLabel,
+  units,
   offset = 0,
 }: {
   circuitName: string;
@@ -32,6 +35,9 @@ export function CircuitMap({
   title: string;
   note: string;
   orderLabel: string;
+  routeTotalLabel: string;
+  routeEstimateLabel: string;
+  units: { km: string; hr: string; min: string };
   /** Numbering offset for a grouped circuit's later sections. */
   offset?: number;
 }) {
@@ -53,6 +59,15 @@ export function CircuitMap({
   const routeId = `cmap-route-${offset}`;
   const pinById = new Map(layout.pins.map((p) => [p.id, p]));
   const nameById = new Map(temples.map((t) => [t.id, t.name]));
+  const stopByN = new Map(layout.pins.map((p) => [p.n, p]));
+  const route = layout.route;
+  const fmtKm = (km: number) => `${Math.max(1, Math.round(km))} ${units.km}`;
+  const fmtDur = (min: number) => {
+    const t = Math.max(5, Math.round(min / 5) * 5);
+    const h = Math.floor(t / 60);
+    const m = t % 60;
+    return h ? (m ? `${h} ${units.hr} ${m} ${units.min}` : `${h} ${units.hr}`) : `${m} ${units.min}`;
+  };
 
   // Keep the travellers at a steady pace regardless of route length.
   const dur = Math.min(42, Math.max(13, layout.pins.length * 2.4));
@@ -237,10 +252,32 @@ export function CircuitMap({
         </g>
       </svg>
       <figcaption className="cmap-note">
-        {layout.order.length > 2 && (
-          <span className="cmap-order">
-            {orderLabel}: {layout.order.join(' → ')}
-          </span>
+        {layout.order.length > 1 && (
+          <>
+            <span className="cmap-total">
+              <strong>{routeTotalLabel}:</strong> ≈ {fmtKm(route.totalKm)} · ≈ {fmtDur(route.totalMin)}
+            </span>
+            {layout.order.length > 2 && (
+              <details className="cmap-legs">
+                <summary>{orderLabel}</summary>
+                <ol className="cmap-legs-list">
+                  {layout.order.map((n, i) => (
+                    <li key={n}>
+                      <span className="cmap-leg-stop">
+                        {n}. {nameById.get(stopByN.get(n)?.id ?? '') ?? ''}
+                      </span>
+                      {i < layout.order.length - 1 && route.legsKm[i] !== undefined && (
+                        <span className="cmap-leg-dist">
+                          ≈ {fmtKm(route.legsKm[i]!)} · ≈ {fmtDur(route.legsMin[i]!)}
+                        </span>
+                      )}
+                    </li>
+                  ))}
+                </ol>
+              </details>
+            )}
+            <span className="cmap-estimate">{routeEstimateLabel}</span>
+          </>
         )}
         {note}
       </figcaption>

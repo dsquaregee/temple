@@ -136,6 +136,9 @@ export default function CircuitDetail({
             title={ui.labels.routeMap}
             note={ui.labels.routeNote}
             orderLabel={ui.labels.drivingOrder}
+            routeTotalLabel={ui.labels.routeTotal}
+            routeEstimateLabel={ui.labels.routeEstimate}
+            units={{ km: ui.labels.unitKm, hr: ui.labels.unitHr, min: ui.labels.unitMin }}
           />
           <section className="section">
             <p className="lead">{circuit.description}</p>
@@ -154,6 +157,9 @@ export default function CircuitDetail({
             title={ui.labels.routeMap}
             note={ui.labels.routeNote}
             orderLabel={ui.labels.drivingOrder}
+            routeTotalLabel={ui.labels.routeTotal}
+            routeEstimateLabel={ui.labels.routeEstimate}
+            units={{ km: ui.labels.unitKm, hr: ui.labels.unitHr, min: ui.labels.unitMin }}
           />
           <section className="section" aria-labelledby="regions-h">
             <h2 id="regions-h">{ui.labels.stops}</h2>
