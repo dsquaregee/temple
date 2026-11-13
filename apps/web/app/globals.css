@@ -1276,14 +1276,22 @@ a {
 /* Circuit route map (components/CircuitMap.tsx) ------------------------- */
 :root {
   --map-sea: #d3e5e4;
+  --map-sea-top: #e2eeec;
   --map-land: #f4ecda;
+  --map-land-hi: #faf3e0;
   --map-coast: #c9b48a;
+  --map-tower: #c58a5a;
+  --map-tower-edge: #9c5f34;
 }
 @media (prefers-color-scheme: dark) {
   :root {
     --map-sea: #0f1d24;
+    --map-sea-top: #163038;
     --map-land: #26201a;
+    --map-land-hi: #322817;
     --map-coast: #4a3d2c;
+    --map-tower: #b87a48;
+    --map-tower-edge: #d89a63;
   }
 }
 .cmap {
@@ -1301,7 +1309,7 @@ a {
   fill: var(--map-sea);
 }
 .cmap-land {
-  fill: var(--map-land);
+  /* fill comes from the per-map radial gradient (fill attribute) */
   stroke: var(--map-coast);
   stroke-width: 1.5;
   stroke-linejoin: round;
@@ -1337,7 +1345,8 @@ a {
 }
 .cmap-pin-n {
   fill: #fff;
-  font: 700 16px var(--font-ui);
+  font-family: var(--font-ui);
+  font-weight: 700;
 }
 .cmap-label-box {
   fill: var(--bg-raised);
@@ -1415,6 +1424,51 @@ a {
 .cmap-stop:focus-visible .cmap-dotpin {
   stroke: var(--accent-turmeric);
   stroke-width: 3;
+}
+/* --- Illustrated styling: gradients, towers, ribbon, compass, travellers --- */
+.cmap-sea-top { stop-color: var(--map-sea-top); }
+.cmap-sea-bot { stop-color: var(--map-sea); }
+.cmap-land-hi { stop-color: var(--map-land-hi); }
+.cmap-land-lo { stop-color: var(--map-land); }
+.cmap-band { fill: var(--map-land-hi); }
+.cmap-tower { fill: var(--map-tower); stroke: var(--map-tower-edge); stroke-width: 1; stroke-linejoin: round; }
+.cmap-kalasam { fill: var(--accent-turmeric); stroke: var(--map-tower-edge); stroke-width: 0.8; }
+.cmap-tower-shadow { fill: #000; opacity: 0.14; }
+.cmap-ribbon { fill: var(--bg-raised); stroke: var(--accent-turmeric); stroke-width: 2; }
+.cmap-ribbon-tail { fill: var(--map-tower-edge); }
+.cmap-ribbon-text {
+  fill: var(--accent-vermilion);
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+.cmap-compass-ring { fill: var(--bg-raised); stroke: var(--map-coast); stroke-width: 1.5; opacity: 0.92; }
+.cmap-compass-n { fill: var(--accent-vermilion); }
+.cmap-compass-s { fill: var(--ink-muted); }
+.cmap-compass-l { fill: var(--ink-body); font: 700 13px var(--font-ui); }
+/* The flowing dashes travel along the route to suggest motion. */
+.cmap-route-dash {
+  fill: none;
+  stroke: #fff6e2;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-dasharray: 2 16;
+  opacity: 0.9;
+  animation: cmap-flow 1.6s linear infinite;
+}
+@keyframes cmap-flow {
+  to { stroke-dashoffset: -18; }
+}
+.cmap-veh-bus { fill: var(--accent-vermilion); stroke: #fff; stroke-width: 1.5; }
+.cmap-veh-car { fill: #2f6f8f; stroke: #fff; stroke-width: 1.5; }
+.cmap-veh-cab { fill: #2f6f8f; stroke: #fff; stroke-width: 1.2; }
+.cmap-veh-win { fill: #ffe9b0; }
+.cmap-veh-wheel { fill: #2b2118; stroke: #fff; stroke-width: 0.8; }
+.cmap-veh-static { display: none; }
+@media (prefers-reduced-motion: reduce) {
+  .cmap-veh { display: none; }
+  .cmap-veh-static { display: block; }
+  .cmap-route-dash { animation: none; }
 }
 /* Grouped circuits (e.g. Divya Desams by region): one counter across sections. */
 .stop-groups {

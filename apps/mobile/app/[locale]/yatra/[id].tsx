@@ -73,7 +73,8 @@ export default function CircuitDetailScreen() {
         <CircuitMap
           temples={stops}
           locale={locale}
-          title={`${ui.labels.routeMap}: ${circuit.name}`}
+          title={ui.labels.routeMap}
+          circuitName={circuit.name}
           note={ui.labels.routeNote}
           orderLabel={ui.labels.drivingOrder}
         />
@@ -88,7 +89,8 @@ export default function CircuitDetailScreen() {
             <CircuitMap
               temples={g.temples}
               locale={locale}
-              title={`${ui.labels.routeMap}: ${circuit.name} — ${g.name}`}
+              title={ui.labels.routeMap}
+              circuitName={`${circuit.name} — ${g.name}`}
               note={ui.labels.routeNote}
               orderLabel={ui.labels.drivingOrder}
               offset={g.offset}
