@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/suchindram-thanumalayan.mp3",
     "durationSec": 199
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/suchindram-thanumalayan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/suchindram-thanumalayan.jpg",
+    "durationSec": 199,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

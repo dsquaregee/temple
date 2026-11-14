@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/sathyagirinatha-thirumeyyam.mp3",
     "durationSec": 166
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/sathyagirinatha-thirumeyyam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sathyagirinatha-thirumeyyam.jpg",
+    "durationSec": 163,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

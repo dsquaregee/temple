@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/thiruvalangadu-vadaranyeswarar.mp3",
     "durationSec": 207
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/thiruvalangadu-vadaranyeswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruvalangadu-vadaranyeswarar.jpg",
+    "durationSec": 207,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

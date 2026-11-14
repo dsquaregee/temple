@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/bhaktavatsala-thiruninravur.mp3",
     "durationSec": 180
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/bhaktavatsala-thiruninravur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhaktavatsala-thiruninravur.jpg",
+    "durationSec": 179,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

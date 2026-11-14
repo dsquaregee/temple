@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/bala-brahma-alampur.mp3",
     "durationSec": 206
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/bala-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bala-brahma-alampur.jpg",
+    "durationSec": 206,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

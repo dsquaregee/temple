@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/vishwa-brahma-alampur.mp3",
     "durationSec": 177
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/vishwa-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vishwa-brahma-alampur.jpg",
+    "durationSec": 176,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

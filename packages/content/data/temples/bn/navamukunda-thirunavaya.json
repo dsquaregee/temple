@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/navamukunda-thirunavaya.mp3",
     "durationSec": 179
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/navamukunda-thirunavaya.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/navamukunda-thirunavaya.jpg",
+    "durationSec": 180,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

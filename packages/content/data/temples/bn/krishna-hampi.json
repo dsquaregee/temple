@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/krishna-hampi.mp3",
     "durationSec": 216
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/krishna-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/krishna-hampi.jpg",
+    "durationSec": 216,
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0) · AmlanTheTramp (Amlan Chakraborty) / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

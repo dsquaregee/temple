@@ -49,5 +49,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/ekambareswarar.mp3",
     "durationSec": 377
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/ekambareswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ekambareswarar.jpg",
+    "durationSec": 373,
+    "credit": "Krishna Chaitanya Chandolu / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

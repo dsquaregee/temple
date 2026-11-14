@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/srivilliputhur-andal.mp3",
     "durationSec": 155
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/srivilliputhur-andal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srivilliputhur-andal.jpg",
+    "durationSec": 154,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/vittala-hampi.mp3",
     "durationSec": 208
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/vittala-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vittala-hampi.jpg",
+    "durationSec": 207,
+    "credit": "Suraj S Rao / Wikimedia Commons (CC BY-SA 4.0) · Basavaraj M / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

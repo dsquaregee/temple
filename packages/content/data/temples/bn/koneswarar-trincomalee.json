@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/koneswarar-trincomalee.mp3",
     "durationSec": 170
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/koneswarar-trincomalee.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/koneswarar-trincomalee.jpg",
+    "durationSec": 167,
+    "credit": "J.Hamsalojan / Wikimedia Commons (CC BY-SA 4.0) · Dr.S.Rajivraja / Wikimedia Commons (CC BY-SA 4.0) · Alexey Komarov / Wikimedia Commons (CC BY 3.0) · Dulakshi / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

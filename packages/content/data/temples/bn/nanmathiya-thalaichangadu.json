@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/nanmathiya-thalaichangadu.mp3",
     "durationSec": 149
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/nanmathiya-thalaichangadu.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/nanmathiya-thalaichangadu.jpg",
+    "durationSec": 151,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

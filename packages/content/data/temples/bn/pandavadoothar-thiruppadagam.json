@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/pandavadoothar-thiruppadagam.mp3",
     "durationSec": 151
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/pandavadoothar-thiruppadagam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/pandavadoothar-thiruppadagam.jpg",
+    "durationSec": 157,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

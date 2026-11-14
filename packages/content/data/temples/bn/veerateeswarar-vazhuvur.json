@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/veerateeswarar-vazhuvur.mp3",
     "durationSec": 183
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/veerateeswarar-vazhuvur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/veerateeswarar-vazhuvur.jpg",
+    "durationSec": 185,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

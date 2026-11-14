@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/yoga-narasimha-sholinghur.mp3",
     "durationSec": 156
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/yoga-narasimha-sholinghur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/yoga-narasimha-sholinghur.jpg",
+    "durationSec": 160,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 4.0) · Raghavan2010 / Wikimedia Commons (CC0)"
   }
 }

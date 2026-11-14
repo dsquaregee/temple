@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/guruvayur-krishna.mp3",
     "durationSec": 305
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/guruvayur-krishna.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/guruvayur-krishna.jpg",
+    "durationSec": 304,
+    "credit": "Mike Finn / Wikimedia Commons (CC BY 2.0) · Ms Sarah Welch / Wikimedia Commons (CC0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

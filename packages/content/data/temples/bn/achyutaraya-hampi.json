@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/achyutaraya-hampi.mp3",
     "durationSec": 189
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/achyutaraya-hampi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/achyutaraya-hampi.jpg",
+    "durationSec": 190,
+    "credit": "Ingo Mehling / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

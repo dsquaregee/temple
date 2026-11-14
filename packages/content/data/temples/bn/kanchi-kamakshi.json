@@ -49,5 +49,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/kanchi-kamakshi.mp3",
     "durationSec": 230
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/kanchi-kamakshi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kanchi-kamakshi.jpg",
+    "durationSec": 231,
+    "credit": "Pinakpani / Wikimedia Commons (CC BY 4.0)"
   }
 }

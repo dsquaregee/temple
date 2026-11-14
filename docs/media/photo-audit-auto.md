@@ -6,15 +6,523 @@ Quality gate: JPEG/PNG, ≥ 2 MP, landscape, CC/PD license. A hero needs ≥ 1 q
 
 | Temple | Photos kept | Status |
 |---|---|---|
+| aabathsahayeswarar-tiruanniyur | 0 | ⚠️ skipped (no qualifying photo) |
+| aadanainathar-tiruvadanai | 0 | ⚠️ skipped (no qualifying photo) |
+| aadavalleeswarar-thalayalangadu | 0 | ⚠️ skipped (no qualifying photo) |
+| aappudaiyar-tiruappanur | 0 | ⚠️ skipped (no qualifying photo) |
+| abathsahayeswarar-thenkurangaduthurai | 0 | ⚠️ skipped (no qualifying photo) |
+| abhimukteswarar-tirupperuvelur | 0 | ⚠️ skipped (no qualifying photo) |
+| achyutaraya-hampi | 6 | ✅ included |
+| adbhuta-narayana-thrikkodithanam | 6 | ✅ included |
+| adhimooleswarar-tiruppatrurai | 0 | ⚠️ skipped (no qualifying photo) |
+| adi-jagannatha-thiruppullani | 5 | ✅ included |
+| adi-kumbeswarar-kumbakonam | 6 | ✅ included |
+| adi-varaha-thirukkalvanur | 0 | ⚠️ skipped (no qualifying photo) |
+| adikesava-thiruvattar | 6 | ✅ included |
+| adinathar-alvarthirunagari | 0 | ⚠️ skipped (no qualifying photo) |
+| adipureeswarar-tiruvottiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| agastheeswarar-agasthiyampalli | 0 | ⚠️ skipped (no qualifying photo) |
+| agneeswarar-melaithirukkattupalli | 0 | ⚠️ skipped (no qualifying photo) |
+| agneeswarar-tiruanniyur | 0 | ⚠️ skipped (no qualifying photo) |
+| agneeswarar-tirukkollikadu | 0 | ⚠️ skipped (no qualifying photo) |
+| agneeswarar-tiruppugalur | 0 | ⚠️ skipped (no qualifying photo) |
+| aihole-durga-temple | 6 | ✅ included |
+| airavatesvara | 6 | ✅ included |
+| airavateswarar-tiruvethirkolpadi | 0 | ⚠️ skipped (no qualifying photo) |
+| airavatheswarar-tirukkottaru | 0 | ⚠️ skipped (no qualifying photo) |
+| aiyarappar-thiruvaiyaru | 6 | ✅ included |
+| alangudi-apatsahayesvarar | 6 | ✅ included |
+| alanthurainathar-tiruppullamangai | 0 | ⚠️ skipped (no qualifying photo) |
+| amararama-amaravati | 1 | ◐ hero only (< 3 for video) |
+| amaruviappan-therazhundur | 1 | ◐ hero only (< 3 for video) |
+| ambalappuzha-krishna | 6 | ✅ included |
+| amirthagateswarar-kodikkarai | 0 | ⚠️ skipped (no qualifying photo) |
+| amirthagateswarar-tirukkadaiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| amirthakadeswarar-tirukkadambur | 0 | ⚠️ skipped (no qualifying photo) |
+| amirthakaleswarar-sakkottai | 0 | ⚠️ skipped (no qualifying photo) |
+| amravaneswarar-tirumaandurai | 0 | ⚠️ skipped (no qualifying photo) |
+| amritaghateswarar-thirukkadaiyur | 4 | ✅ included |
+| andalakkum-aiyan-adhanur | 0 | ⚠️ skipped (no qualifying photo) |
+| anekatangapadeswarar-kanchipuram | 0 | ⚠️ skipped (no qualifying photo) |
+| anekathangapatheswarar-gaurikund | 0 | ⚠️ skipped (no qualifying photo) |
+| annan-perumal-thiruvellakkulam | 1 | ◐ hero only (< 3 for video) |
+| annavaram-satyanarayana | 1 | ◐ hero only (< 3 for video) |
+| apatsahayar-thirupazhanam | 6 | ✅ included |
+| appakkudathan-tiruppernagar | 6 | ✅ included |
+| araneriyappar-tiruvarur-araneri | 0 | ⚠️ skipped (no qualifying photo) |
+| aranyasundareswarar-keezhai-tirukkattuppalli | 0 | ⚠️ skipped (no qualifying photo) |
+| arasaleeswarar-arasili | 0 | ⚠️ skipped (no qualifying photo) |
+| aravindalochanar-tholaivillimangalam | 0 | ⚠️ skipped (no qualifying photo) |
+| ardhanareeswarar-tiruchengode | 6 | ✅ included |
+| arka-brahma-alampur | 6 | ✅ included |
+| arulsomanathar-tiruneedur | 0 | ⚠️ skipped (no qualifying photo) |
+| arunachaleswarar | 6 | ✅ included |
+| arunajadeswarar-tiruppanandal | 0 | ⚠️ skipped (no qualifying photo) |
+| ashtabhujakara-kanchipuram | 6 | ✅ included |
+| atcheeswarar-achirupakkam | 0 | ⚠️ skipped (no qualifying photo) |
+| athmanatheswarar-tiruvalampozhil | 0 | ⚠️ skipped (no qualifying photo) |
+| attukal-bhagavathy | 4 | ✅ included |
+| atulyanatheswarar-arakandanallur | 0 | ⚠️ skipped (no qualifying photo) |
+| avinashiappar-avinashi | 0 | ⚠️ skipped (no qualifying photo) |
+| ayavandeeswarar-tirusaathamangai | 0 | ⚠️ skipped (no qualifying photo) |
+| azhagiya-manavalan-uraiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| azhagiyanathar-tiruvamathur | 0 | ⚠️ skipped (no qualifying photo) |
+| badami-cave-temples | 3 | ✅ included |
+| badrinarayan-badrinath | 6 | ✅ included |
+| bala-brahma-alampur | 6 | ✅ included |
+| banashankari-badami | 6 | ✅ included |
+| basara-saraswati | 1 | ◐ hero only (< 3 for video) |
+| belur-chennakeshava | 6 | ✅ included |
+| bhadrachalam-rama | 6 | ✅ included |
+| bhaktajaneswarar-tirunavalur | 0 | ⚠️ skipped (no qualifying photo) |
+| bhaktavatsala-thirukkannamangai | 0 | ⚠️ skipped (no qualifying photo) |
+| bhaktavatsala-thiruninravur | 6 | ✅ included |
+| bhargava-narasimha-ahobilam | 0 | ⚠️ skipped (no qualifying photo) |
+| bhimashankar-pune | 6 | ✅ included |
+| bhutanatha-badami | 6 | ✅ included |
 | biraja-jajpur | 4 | ✅ included |
+| brahmapureeswarar-ambar | 0 | ⚠️ skipped (no qualifying photo) |
+| brahmapureeswarar-sirkazhi | 0 | ⚠️ skipped (no qualifying photo) |
+| brahmapureeswarar-thirukkuvalai | 6 | ✅ included |
+| brahmapureeswarar-tirukkadavur-mayanam | 0 | ⚠️ skipped (no qualifying photo) |
+| brahmasirakandeeswarar-thirukandiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| brihadeeswarar | 6 | ✅ included |
+| chakravageswarar-ayyampettai | 0 | ⚠️ skipped (no qualifying photo) |
+| chamundeshwari-mysuru | 6 | ✅ included |
+| chandramouleeswarar-thiruvakkarai | 6 | ✅ included |
+| chatravata-narasimha-ahobilam | 2 | ◐ hero only (< 3 for video) |
+| chayavaneswarar-tiruchaikkadu | 0 | ⚠️ skipped (no qualifying photo) |
+| chottanikkara-bhagavathy | 3 | ✅ included |
+| dayanidheeswarar-tiruvadakurangaduthurai | 0 | ⚠️ skipped (no qualifying photo) |
+| deepaprakasa-thiruthanka | 0 | ⚠️ skipped (no qualifying photo) |
+| deivanatheswarar-elumiyankottur | 0 | ⚠️ skipped (no qualifying photo) |
+| deivanayaka-thevanarthogai | 0 | ⚠️ skipped (no qualifying photo) |
+| devanatha-thiruvahindrapuram | 0 | ⚠️ skipped (no qualifying photo) |
+| devapiran-tholaivillimangalam | 0 | ⚠️ skipped (no qualifying photo) |
+| devaraja-naimisaranyam | 6 | ✅ included |
+| dharmasthala-manjunatha | 3 | ✅ included |
+| dhenupureeswarar-patteeswaram | 0 | ⚠️ skipped (no qualifying photo) |
+| dhevapureeswarar-thevur | 0 | ⚠️ skipped (no qualifying photo) |
+| draksharama-bhimeswara | 3 | ✅ included |
+| dwarakadhish-dwarka | 6 | ✅ included |
+| edaganathar-tiruvedagam | 0 | ⚠️ skipped (no qualifying photo) |
+| ekambareswarar | 6 | ✅ included |
 | ekaveera-mahur | 0 | ⚠️ skipped (no qualifying photo) |
+| erumbeeswarar-tiruverumbur | 0 | ⚠️ skipped (no qualifying photo) |
+| ettumanoor-mahadeva | 3 | ✅ included |
+| ezhutharinathar-tiruinnambar | 0 | ⚠️ skipped (no qualifying photo) |
+| gajendra-varadha-kapisthalam | 0 | ⚠️ skipped (no qualifying photo) |
+| ganapatheeswarar-tiruchengattankudi | 0 | ⚠️ skipped (no qualifying photo) |
+| gangaikonda-cholapuram | 6 | ✅ included |
+| garuda-brahma-alampur | 6 | ✅ included |
+| gnanapureeswarar-mayanam | 0 | ⚠️ skipped (no qualifying photo) |
+| gokarna-mahabaleshwara | 1 | ◐ hero only (< 3 for video) |
+| gopalakrishna-kavalampadi | 0 | ⚠️ skipped (no qualifying photo) |
+| govardhanesa-mathura | 3 | ✅ included |
+| govindaraja-chidambaram | 1 | ◐ hero only (< 3 for video) |
+| grishneshwar-ellora | 6 | ✅ included |
+| guruvayur-krishna | 6 | ✅ included |
+| halebidu-hoysaleswara | 6 | ✅ included |
+| harasaba-vimochana-thirukkandiyur | 6 | ✅ included |
 | harsiddhi-ujjain | 6 | ✅ included |
+| hazara-rama-hampi | 6 | ✅ included |
+| hemakuta-hampi | 6 | ✅ included |
+| horanadu-annapoorneshwari | 6 | ✅ included |
+| idaichuranathar-thiruvadisoolam | 0 | ⚠️ skipped (no qualifying photo) |
+| idaiyattrunathar-tiruvidaiyaru | 0 | ⚠️ skipped (no qualifying photo) |
+| idumbavaneswarar-idumbavanam | 0 | ⚠️ skipped (no qualifying photo) |
+| imayavarappan-thiruchenkundrur | 2 | ◐ hero only (< 3 for video) |
+| jagadeeshwara-thiruneeragam | 6 | ✅ included |
+| jagadeeswarar-tiruppereyil | 0 | ⚠️ skipped (no qualifying photo) |
+| jagannath-puri | 6 | ✅ included |
+| jagannatha-nathankoil | 6 | ✅ included |
+| jagathrakshaka-thirukkoodalur | 0 | ⚠️ skipped (no qualifying photo) |
+| jalanatheeswarar-thakkolam | 0 | ⚠️ skipped (no qualifying photo) |
+| jambukeswarar | 6 | ✅ included |
+| jogulamba-alampur | 3 | ✅ included |
+| jwala-narasimha-ahobilam | 6 | ✅ included |
 | jwalamukhi-kangra | 0 | ⚠️ skipped (no qualifying photo) |
+| kaaroneswarar-kumbakonam | 0 | ⚠️ skipped (no qualifying photo) |
+| kachabeswarar-kanchipuram | 6 | ✅ included |
+| kachabeswarar-thirukachur | 6 | ✅ included |
+| kadaimudinathar-tirukkadaimudi | 0 | ⚠️ skipped (no qualifying photo) |
+| kadambavaneswarar-kulithalai | 6 | ✅ included |
+| kaduthuruthy-thaliyil-mahadeva | 6 | ✅ included |
+| kaichineswarar-kachanam | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-cheranmahadevi | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-kanchipuram | 6 | ✅ included |
+| kailasanathar-kodaganallur | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-mount-kailash | 6 | ✅ included |
+| kailasanathar-murappanadu | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-rajapathy | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-senthapoomangalam | 0 | ⚠️ skipped (no qualifying photo) |
+| kailasanathar-srivaikuntam | 6 | ✅ included |
+| kailasanathar-thenthiruperai | 0 | ⚠️ skipped (no qualifying photo) |
+| kaisinavendan-thirupulingudi | 0 | ⚠️ skipped (no qualifying photo) |
+| kalaiyarnathar-kalaiyarkoil | 0 | ⚠️ skipped (no qualifying photo) |
+| kalamegha-thirumogur | 0 | ⚠️ skipped (no qualifying photo) |
+| kalarmulainathar-tirukkalar | 0 | ⚠️ skipped (no qualifying photo) |
+| kaleshwara-mukteswara-kaleshwaram | 1 | ◐ hero only (< 3 for video) |
+| kallazhagar-alagarkoil | 6 | ✅ included |
+| kalvar-thirukkarvanam | 6 | ✅ included |
+| kalyanasundareswarar-tirunallur | 0 | ⚠️ skipped (no qualifying photo) |
+| kalyanasundareswarar-tiruvelvikudi | 0 | ⚠️ skipped (no qualifying photo) |
 | kamakhya-guwahati | 6 | ✅ included |
+| kamalanatha-thiruvanvandoor | 2 | ◐ hero only (< 3 for video) |
+| kampahareswarar-thirubuvanam | 6 | ✅ included |
+| kanaka-durga-vijayawada | 6 | ✅ included |
+| kanchi-kamakshi | 6 | ✅ included |
+| kanjanur-agneeswarar | 1 | ◐ hero only (< 3 for video) |
+| kannayiramudayar-thirukaravasal | 6 | ✅ included |
+| kannayiranathar-tirukkannarkoil | 0 | ⚠️ skipped (no qualifying photo) |
+| kanyakumari-bhagavathy | 3 | ✅ included |
+| kapaleeshwarar-mylapore | 6 | ✅ included |
+| karai-tirunatheswarar-kanchipuram | 0 | ⚠️ skipped (no qualifying photo) |
+| karanja-narasimha-ahobilam | 4 | ✅ included |
+| karaveeranathar-karaiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| karkadeswarar-tirunthudevankudi | 0 | ⚠️ skipped (no qualifying photo) |
+| karpaganathar-tiruvalanchuzhi | 0 | ⚠️ skipped (no qualifying photo) |
+| karpageswarar-kadikkulam | 0 | ⚠️ skipped (no qualifying photo) |
+| karumbeswarar-kovilvenni | 0 | ⚠️ skipped (no qualifying photo) |
+| karunakara-thirukkaragam | 6 | ✅ included |
+| kashi-vishwanath-varanasi | 6 | ✅ included |
+| kateel-durgaparameshwari | 3 | ✅ included |
+| kayarohanaswamy-nagapattinam | 3 | ✅ included |
+| kedarnath | 6 | ✅ included |
+| kediliyappar-keezhvelur | 0 | ⚠️ skipped (no qualifying photo) |
+| keezhaperumpallam-naganathaswamy | 1 | ◐ hero only (< 3 for video) |
+| ketheeswarar-mannar | 0 | ⚠️ skipped (no qualifying photo) |
+| kodandarama-hampi | 6 | ✅ included |
+| kodungallur-bhagavathy | 6 | ✅ included |
+| kodunkundreesar-piranmalai | 0 | ⚠️ skipped (no qualifying photo) |
+| kokileswarar-tirukkozhambam | 0 | ⚠️ skipped (no qualifying photo) |
+| kolavilli-raman-thiruvelliyangudi | 6 | ✅ included |
+| kollur-mookambika | 3 | ✅ included |
+| koneswarar-tirukkudavayil | 0 | ⚠️ skipped (no qualifying photo) |
+| koneswarar-trincomalee | 6 | ✅ included |
+| koodal-azhagar-madurai | 6 | ✅ included |
+| koodalmanikyam-irinjalakuda | 3 | ✅ included |
+| kota-gullu-ghanpur | 6 | ✅ included |
+| koteeswarar-tirukkodikka | 0 | ⚠️ skipped (no qualifying photo) |
+| koteeswarar-tirukkottaiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| kothaparameswarar-kunnathur | 0 | ⚠️ skipped (no qualifying photo) |
+| kozhundeesar-tirukkottur | 0 | ⚠️ skipped (no qualifying photo) |
+| kripapureeswarar-tiruvennainallur | 0 | ⚠️ skipped (no qualifying photo) |
+| kripasamudra-thirusirupuliyur | 0 | ⚠️ skipped (no qualifying photo) |
+| krishna-hampi | 6 | ✅ included |
+| ksheerarama-palakollu | 3 | ✅ included |
+| kudamadu-koothan-arimeya-vinnagaram | 4 | ✅ included |
+| kukke-subramanya | 1 | ◐ hero only (< 3 for video) |
+| kumara-brahma-alampur | 6 | ✅ included |
+| kumararama-samalkota | 3 | ✅ included |
+| kundalakarneswarar-tirukkurakkukka | 0 | ⚠️ skipped (no qualifying photo) |
+| kutralanathar-courtallam | 6 | ✅ included |
+| kutramporuthanathar-tirukkaruppariyalur | 0 | ⚠️ skipped (no qualifying photo) |
+| lad-khan-aihole | 6 | ✅ included |
+| lakshmana-perumal-thirumoozhikkulam | 6 | ✅ included |
+| lakshmi-narasimha-thiruvali | 6 | ✅ included |
+| lepakshi-veerabhadra | 6 | ✅ included |
+| loganatha-thirukkannangudi | 0 | ⚠️ skipped (no qualifying photo) |
+| maagaraleeswarar-tirumagaral | 0 | ⚠️ skipped (no qualifying photo) |
 | madhaveswari-prayag | 0 | ⚠️ skipped (no qualifying photo) |
+| madhuvaneswarar-nannilam | 6 | ✅ included |
+| magudeswarar-kodumudi | 6 | ✅ included |
+| mahakaleshwar-ujjain | 6 | ✅ included |
+| mahakaleswarar-irumbai | 6 | ✅ included |
+| mahakuta-temples | 6 | ✅ included |
 | mahalakshmi-kolhapur | 1 | ◐ hero only (< 3 for video) |
+| mahalakshminathar-tirunindriyur | 0 | ⚠️ skipped (no qualifying photo) |
+| mahalingeswarar-tiruvidaimarudur | 6 | ✅ included |
+| makalanathar-ambar | 0 | ⚠️ skipped (no qualifying photo) |
+| makaranedunkuzhaikkathar-thenthiruperai | 0 | ⚠️ skipped (no qualifying photo) |
+| malola-narasimha-ahobilam | 1 | ◐ hero only (< 3 for video) |
+| malyavanta-raghunatha-hampi | 6 | ✅ included |
+| manathunainathar-valivalam | 0 | ⚠️ skipped (no qualifying photo) |
+| mandirapureeswarar-kovilur | 0 | ⚠️ skipped (no qualifying photo) |
 | mangala-gauri-gaya | 0 | ⚠️ skipped (no qualifying photo) |
+| mangalanathar-sirukudi | 0 | ⚠️ skipped (no qualifying photo) |
+| mangalapureeswarar-tiruchopuram | 6 | ✅ included |
+| manikandeswarar-tirumalpur | 0 | ⚠️ skipped (no qualifying photo) |
+| manikkavannar-tirumarugal | 0 | ⚠️ skipped (no qualifying photo) |
+| maragathachaleswarar-tiruveengoimalai | 0 | ⚠️ skipped (no qualifying photo) |
+| marundeeswarar-thiruvanmiyur | 2 | ◐ hero only (< 3 for video) |
+| masilamaniswarar-tiruvaduthurai | 0 | ⚠️ skipped (no qualifying photo) |
+| masilamaniswarar-vadatirumullaivoyil | 0 | ⚠️ skipped (no qualifying photo) |
+| mathimutheeswarar-sedalur | 0 | ⚠️ skipped (no qualifying photo) |
+| matruraivaradeeswarar-tiruppachilacchiramam | 0 | ⚠️ skipped (no qualifying photo) |
+| mayappiran-thiruppuliyur | 1 | ◐ hero only (< 3 for video) |
+| mayuranathar-mayiladuthurai | 6 | ✅ included |
+| meenakshi-madurai | 6 | ✅ included |
+| meghanathaswamy-tirumeeyachur | 0 | ⚠️ skipped (no qualifying photo) |
+| melukote-cheluvanarayana | 6 | ✅ included |
+| metraleeswarar-kanchipuram | 0 | ⚠️ skipped (no qualifying photo) |
+| mukkonanatheswarar-mukkudal | 0 | ⚠️ skipped (no qualifying photo) |
+| mukunda-nayaka-thiruvelukkai | 0 | ⚠️ skipped (no qualifying photo) |
+| mullaivananathar-then-tirumullaivayil | 0 | ⚠️ skipped (no qualifying photo) |
+| mullaivananathar-tirukkarukavur | 0 | ⚠️ skipped (no qualifying photo) |
+| mundeeswarar-tirumundeeswaram | 0 | ⚠️ skipped (no qualifying photo) |
+| murudeshwar-shiva | 6 | ✅ included |
+| naduthariyappar-kandrapur | 0 | ⚠️ skipped (no qualifying photo) |
+| nageshwar-dwarka | 0 | ⚠️ skipped (no qualifying photo) |
+| nageswaraswamy-kumbakonam | 6 | ✅ included |
+| nambi-thirukkurungudi | 6 | ✅ included |
+| nanjangud-srikanteshwara | 6 | ✅ included |
+| nanmathiya-thalaichangadu | 6 | ✅ included |
+| narasimha-ahobilam | 6 | ✅ included |
+| narayana-perumal-manimadam | 0 | ⚠️ skipped (no qualifying photo) |
+| narthanavallabeswarar-koodalaiyathur | 0 | ⚠️ skipped (no qualifying photo) |
+| nataraja-chidambaram | 6 | ✅ included |
+| natrunaiyappar-ponsei | 0 | ⚠️ skipped (no qualifying photo) |
+| navamohana-krishna-gokul | 6 | ✅ included |
+| navamukunda-thirunavaya | 6 | ✅ included |
+| neelachalanathar-indraneelaparuppatham | 0 | ⚠️ skipped (no qualifying photo) |
+| neelakandeswarar-erukkattampuliyur | 0 | ⚠️ skipped (no qualifying photo) |
+| neelakandeswarar-tirumannippadikkarai | 0 | ⚠️ skipped (no qualifying photo) |
+| neelakandeswarar-tiruneelakudi | 0 | ⚠️ skipped (no qualifying photo) |
+| neelamega-devprayag | 6 | ✅ included |
+| neelamega-thanjavur | 6 | ✅ included |
+| neelivaneswarar-tiruppainjeeli | 0 | ⚠️ skipped (no qualifying photo) |
+| neenerinathar-thandalaicheri | 0 | ⚠️ skipped (no qualifying photo) |
+| neervannar-thiruneermalai | 6 | ✅ included |
+| nellaiappar-tirunelveli | 6 | ✅ included |
+| nellivananathar-tirunellikka | 0 | ⚠️ skipped (no qualifying photo) |
+| neyyadiappar-thillaisthanam | 0 | ⚠️ skipped (no qualifying photo) |
+| nilathingal-thundathan-kanchipuram | 0 | ⚠️ skipped (no qualifying photo) |
+| ninra-narayana-thiruthangal | 0 | ⚠️ skipped (no qualifying photo) |
+| nithyakalyana-thiruvidanthai | 1 | ◐ hero only (< 3 for video) |
+| nithyasundareswarar-tirunedungalam | 0 | ⚠️ skipped (no qualifying photo) |
+| odhanavaneswarar-thiruchotruthurai | 6 | ✅ included |
+| omkareshwar-mandhata | 6 | ✅ included |
+| onakantheeswarar-kanchipuram | 0 | ⚠️ skipped (no qualifying photo) |
+| oondreeswarar-tiruvenpakkam | 0 | ⚠️ skipped (no qualifying photo) |
+| oppiliappan-thiruvinnagar | 3 | ✅ included |
+| paalugandhaeswarar-tiruaappadi | 0 | ⚠️ skipped (no qualifying photo) |
+| paathaleswarar-haridwaramangalam | 0 | ⚠️ skipped (no qualifying photo) |
+| padaleeswarar-tiruppathiripuliyur | 0 | ⚠️ skipped (no qualifying photo) |
+| padanjalinathar-tirukkanattumullur | 0 | ⚠️ skipped (no qualifying photo) |
+| padikkasu-alagaputhur | 0 | ⚠️ skipped (no qualifying photo) |
+| padma-brahma-alampur | 6 | ✅ included |
+| padmanabhaswamy-thiruvananthapuram | 3 | ✅ included |
+| palaivananathar-papanasam | 0 | ⚠️ skipped (no qualifying photo) |
+| palani-murugan | 6 | ✅ included |
+| pallavaneswarar-tiruppallavaneecharam | 6 | ✅ included |
+| palvannanathar-tirukazhippalai | 0 | ⚠️ skipped (no qualifying photo) |
+| pampureswarar-tirupampuram | 0 | ⚠️ skipped (no qualifying photo) |
+| panankatteeswarar-panankattur | 0 | ⚠️ skipped (no qualifying photo) |
+| panankatteeswarar-tiruppanangadu | 0 | ⚠️ skipped (no qualifying photo) |
+| panchavarneswarar-uraiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| pandavadoothar-thiruppadagam | 6 | ✅ included |
+| papanasanathar-papanasam | 3 | ✅ included |
+| papanatha-pattadakal | 5 | ✅ included |
+| paramapurusha-thiruppiridi | 6 | ✅ included |
+| paridhiyappar-parithiyappar | 0 | ⚠️ skipped (no qualifying photo) |
+| parimala-ranganatha-tiruindalur | 0 | ⚠️ skipped (no qualifying photo) |
+| parthasarathy-aranmula | 6 | ✅ included |
+| parthasarathy-thiruvallikeni | 6 | ✅ included |
+| parvatheeswarar-karaikal | 0 | ⚠️ skipped (no qualifying photo) |
+| pasupatheeswarar-avur | 0 | ⚠️ skipped (no qualifying photo) |
+| pasupatheeswarar-karur | 1 | ◐ hero only (< 3 for video) |
+| pasupatheeswarar-tirukkondeeswaram | 0 | ⚠️ skipped (no qualifying photo) |
+| pasupatheeswarar-tiruvetkalam | 0 | ⚠️ skipped (no qualifying photo) |
+| pasupatinathar-tirupanthanainallur | 0 | ⚠️ skipped (no qualifying photo) |
+| pathanjali-vilamal | 0 | ⚠️ skipped (no qualifying photo) |
+| pattadakal-virupaksha | 6 | ✅ included |
+| pavalavannar-kanchipuram | 0 | ⚠️ skipped (no qualifying photo) |
+| pavana-narasimha-ahobilam | 0 | ⚠️ skipped (no qualifying photo) |
+| payammal-shatrughna | 3 | ✅ included |
+| pazhampathinathar-tiruppunavasal | 0 | ⚠️ skipped (no qualifying photo) |
+| pazhamudircholai-murugan | 3 | ✅ included |
+| perarulalan-semponsei | 2 | ◐ hero only (< 3 for video) |
+| pillalamarri-erakeswara | 6 | ✅ included |
+| ponvaithanathar-tiruchittremam | 0 | ⚠️ skipped (no qualifying photo) |
+| poovananathar-tirupuvanam | 0 | ⚠️ skipped (no qualifying photo) |
+| pranavanatheswarar-tirumangalakkudi | 0 | ⚠️ skipped (no qualifying photo) |
+| pundarikaksha-thiruvellarai | 6 | ✅ included |
+| punniyakodiyappar-tiruvidaivasal | 0 | ⚠️ skipped (no qualifying photo) |
+| puruhutika-pithapuram | 4 | ✅ included |
+| purushothama-vanpurushothamam | 0 | ⚠️ skipped (no qualifying photo) |
+| purushottama-uthamarkoil | 6 | ✅ included |
+| pushpavananathar-poovanur | 0 | ⚠️ skipped (no qualifying photo) |
+| pushpavananathar-thirupoonthuruthi | 0 | ⚠️ skipped (no qualifying photo) |
+| raghunayaka-ayodhya | 0 | ⚠️ skipped (no qualifying photo) |
+| ramanathaswamy-rameswaram | 6 | ✅ included |
+| ramanatheeswarar-ramanadeecharam | 0 | ⚠️ skipped (no qualifying photo) |
+| ramappa-palampet | 6 | ✅ included |
+| ranganathaswamy-shivanasamudra | 3 | ✅ included |
+| ranganathaswamy-srirangam | 3 | ✅ included |
+| ranganathaswamy-srirangapatna | 6 | ✅ included |
+| ratnagiriswarar-ayyarmalai | 0 | ⚠️ skipped (no qualifying photo) |
+| ratnapureeswarar-tirunattiyathankudi | 0 | ⚠️ skipped (no qualifying photo) |
+| ratnapureeswarar-tiruvazhkolipputhur | 0 | ⚠️ skipped (no qualifying photo) |
+| saaraparameswarar-tirucherai | 0 | ⚠️ skipped (no qualifying photo) |
+| sabarimala-ayyappa | 1 | ◐ hero only (< 3 for video) |
+| sakalabhuvaneswarar-tirumeeyachur | 0 | ⚠️ skipped (no qualifying photo) |
+| sakshinatheswarar-tirupurambayam | 0 | ⚠️ skipped (no qualifying photo) |
+| samayapuram-mariamman | 1 | ◐ hero only (< 3 for video) |
+| sangameshwara-pattadakal | 1 | ◐ hero only (< 3 for video) |
+| sangameswarar-bhavani | 6 | ✅ included |
+| sangarunaadeswarar-thalachangadu | 0 | ⚠️ skipped (no qualifying photo) |
+| sankaranarayanar-sankarankovil | 0 | ⚠️ skipped (no qualifying photo) |
+| saranatha-thirucherai | 6 | ✅ included |
+| sarangapani-kumbakonam | 6 | ✅ included |
+| sargunalingeswarar-karukudi | 0 | ⚠️ skipped (no qualifying photo) |
+| sarguneswarar-karuvili | 0 | ⚠️ skipped (no qualifying photo) |
+| sarpapureeswarar-mannargudi | 0 | ⚠️ skipped (no qualifying photo) |
+| satchinathar-avalivanallur | 0 | ⚠️ skipped (no qualifying photo) |
+| sathyagireeswarar-tirucheygnalur | 0 | ⚠️ skipped (no qualifying photo) |
+| sathyagirinatha-thirumeyyam | 6 | ✅ included |
+| sathyavageeswarar-anbil | 0 | ⚠️ skipped (no qualifying photo) |
+| semmeninathar-tirukkanur | 0 | ⚠️ skipped (no qualifying photo) |
+| senganmal-ranganatha-thetriyambalam | 0 | ⚠️ skipped (no qualifying photo) |
 | shankari-devi-trincomalee | 0 | ⚠️ skipped (no qualifying photo) |
 | sharada-peeth-kashmir | 6 | ✅ included |
+| shore-temple-mahabalipuram | 6 | ✅ included |
 | shrinkhala-devi-pandua | 0 | ⚠️ skipped (no qualifying photo) |
+| siddhanatheswarar-nachiyar | 0 | ⚠️ skipped (no qualifying photo) |
+| simhachalam-narasimha | 6 | ✅ included |
+| sishtagurunathar-tiruthuraiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| sivakozhundeesar-tirthanagiri | 0 | ⚠️ skipped (no qualifying photo) |
+| sivakozhundeeswarar-sakthimutram | 0 | ⚠️ skipped (no qualifying photo) |
+| sivalokanathar-tirupunkur | 6 | ✅ included |
+| sivalokathyagesar-tirunallur-perumanam | 0 | ⚠️ skipped (no qualifying photo) |
+| sivanandeswarar-tirukkandalam | 0 | ⚠️ skipped (no qualifying photo) |
+| sivanandeswarar-tiruppenuperundurai | 0 | ⚠️ skipped (no qualifying photo) |
+| sivapuranathar-sivapuram | 0 | ⚠️ skipped (no qualifying photo) |
+| sivayoganathar-tiruviyalur | 0 | ⚠️ skipped (no qualifying photo) |
+| somanathapura-keshava | 6 | ✅ included |
+| somarama-bhimavaram | 0 | ⚠️ skipped (no qualifying photo) |
+| someswarar-pazhayarai | 0 | ⚠️ skipped (no qualifying photo) |
+| somnath-prabhas-patan | 6 | ✅ included |
+| soundararaja-nagapattinam | 0 | ⚠️ skipped (no qualifying photo) |
+| soundareswarar-tirunaraiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| sowmya-narayana-thirukoshtiyur | 6 | ✅ included |
+| sowriraja-thirukkannapuram | 6 | ✅ included |
+| sreevallabha-thiruvalla | 6 | ✅ included |
+| srikalahasti | 6 | ✅ included |
+| srimoorthy-salagramam | 6 | ✅ included |
+| sringeri-sharada | 6 | ✅ included |
+| srinivasan-thirukkulandhai | 0 | ⚠️ skipped (no qualifying photo) |
+| srisailam-mallikarjuna | 3 | ✅ included |
+| srivaikuntanathan-srivaikuntam | 6 | ✅ included |
+| srivilliputhur-andal | 3 | ✅ included |
+| sthalasayana-thirukkadalmallai | 6 | ✅ included |
+| suchindram-thanumalayan | 6 | ✅ included |
+| sudarkozhundeesar-pennadam | 0 | ⚠️ skipped (no qualifying photo) |
+| sundararaja-anbil | 0 | ⚠️ skipped (no qualifying photo) |
+| sundareswarar-tirukkalikkamur | 0 | ⚠️ skipped (no qualifying photo) |
+| suryanar-koil | 1 | ◐ hero only (< 3 for video) |
+| swamimalai-murugan | 6 | ✅ included |
+| swarga-brahma-alampur | 0 | ⚠️ skipped (no qualifying photo) |
+| swarnapureeswarar-andankoil | 0 | ⚠️ skipped (no qualifying photo) |
+| swarnapureeswarar-sembanarkoil | 0 | ⚠️ skipped (no qualifying photo) |
+| taraka-brahma-alampur | 6 | ✅ included |
+| tarukavaneswarar-tirupparaithurai | 0 | ⚠️ skipped (no qualifying photo) |
+| thaalapureeswarar-tirukolakka | 0 | ⚠️ skipped (no qualifying photo) |
+| thaalavaneswarar-tiruppanaiyur | 0 | ⚠️ skipped (no qualifying photo) |
+| thamaraiyal-kelvan-parthanpalli | 0 | ⚠️ skipped (no qualifying photo) |
+| thanthondriyappar-akkur | 0 | ⚠️ skipped (no qualifying photo) |
+| thayumanavar-tiruchirappalli | 6 | ✅ included |
+| theerthapureeswarar-tiruvathurai | 0 | ⚠️ skipped (no qualifying photo) |
+| thingalur-kailasanathar | 1 | ◐ hero only (< 3 for video) |
+| thiripuranthakeswarar-koovam | 0 | ⚠️ skipped (no qualifying photo) |
+| thiruchendur-murugan | 6 | ✅ included |
+| thirumeniazhagar-tirumayendirapalli | 0 | ⚠️ skipped (no qualifying photo) |
+| thirunageswaram-naganathaswamy | 1 | ◐ hero only (< 3 for video) |
+| thirunallar-dharbaranyeswarar | 3 | ✅ included |
+| thirunaraiyur-nambi-nachiyarkoil | 0 | ⚠️ skipped (no qualifying photo) |
+| thiruparankundram-murugan | 6 | ✅ included |
+| thiruttani-murugan | 3 | ✅ included |
+| thiruvalangadu-vadaranyeswarar | 6 | ✅ included |
+| thiruvalleeswarar-padi | 0 | ⚠️ skipped (no qualifying photo) |
+| thiruvanchikulam-mahadeva | 0 | ⚠️ skipped (no qualifying photo) |
+| thiruvazhmarban-thiruppathisaram | 0 | ⚠️ skipped (no qualifying photo) |
+| thiruvenkadu-swetaranyeswarar | 0 | ⚠️ skipped (no qualifying photo) |
+| thiruvidaimarudur-mahalingaswamy | 1 | ◐ hero only (< 3 for video) |
+| thoovainathar-tiruvarur | 0 | ⚠️ skipped (no qualifying photo) |
+| thothadrinatha-vanamamalai | 6 | ✅ included |
+| thousand-pillar-warangal | 6 | ✅ included |
+| thuyartheerthanathar-omampuliyur | 0 | ⚠️ skipped (no qualifying photo) |
+| thyagaraja-thiruvarur | 6 | ✅ included |
+| tirumeniazhagar-tiruvettakkudi | 0 | ⚠️ skipped (no qualifying photo) |
+| tirumeninathar-tiruchuli | 0 | ⚠️ skipped (no qualifying photo) |
+| tirumuruganathaswamy-tirumuruganpoondi | 0 | ⚠️ skipped (no qualifying photo) |
+| tiruppayattreeswarar-tiruppayatrur | 0 | ⚠️ skipped (no qualifying photo) |
+| tiruthalinathar-tirupputtur | 0 | ⚠️ skipped (no qualifying photo) |
+| trimbakeshwar-nashik | 6 | ✅ included |
+| triprayar-rama | 6 | ✅ included |
+| trivikrama-sirkazhi | 0 | ⚠️ skipped (no qualifying photo) |
+| trivikrama-thirukkovilur | 6 | ✅ included |
+| uchinathar-sivapuri | 0 | ⚠️ skipped (no qualifying photo) |
+| uchinathar-tirukkarkudi | 0 | ⚠️ skipped (no qualifying photo) |
+| uchiravaneswarar-tiruvilanagar | 0 | ⚠️ skipped (no qualifying photo) |
+| udhvaganathar-tirumanancheri | 0 | ⚠️ skipped (no qualifying photo) |
+| udupi-krishna | 6 | ✅ included |
+| ulagalantha-thiruooragam | 6 | ✅ included |
+| umamaheswarar-konerirajapuram | 0 | ⚠️ skipped (no qualifying photo) |
+| uthvedeeswarar-kuthalam | 0 | ⚠️ skipped (no qualifying photo) |
+| uyyavanda-thirumittakode | 0 | ⚠️ skipped (no qualifying photo) |
+| vacheeswarar-tirupachur | 0 | ⚠️ skipped (no qualifying photo) |
+| vadakkunnathan-thrissur | 6 | ✅ included |
+| vadamoolanathar-tirupazhuvur | 0 | ⚠️ skipped (no qualifying photo) |
+| vadukeeswarar-tiruvandarkoil | 0 | ⚠️ skipped (no qualifying photo) |
+| vaidyanath-deoghar | 6 | ✅ included |
+| vaikalnathar-vaikal | 0 | ⚠️ skipped (no qualifying photo) |
+| vaikom-mahadeva | 3 | ✅ included |
+| vaikunta-perumal-kanchipuram | 6 | ✅ included |
+| vaikuntanatha-vaikunta-vinnagaram | 5 | ✅ included |
+| vaimoornathar-tiruvaimur | 0 | ⚠️ skipped (no qualifying photo) |
+| vaimurnathar-thiruvaimur | 3 | ✅ included |
+| vaithamanidhi-thirukkolur | 6 | ✅ included |
+| vaitheeswaran-koil | 6 | ✅ included |
+| vajrathampanathar-tirumazhapadi | 0 | ⚠️ skipped (no qualifying photo) |
+| valampuranathar-tiruvalampuram | 0 | ⚠️ skipped (no qualifying photo) |
+| valeeswarar-kuranganilmuttam | 6 | ✅ included |
+| valvil-raman-pullabhoothangudi | 6 | ✅ included |
+| vamana-thrikkakara | 6 | ✅ included |
+| vamanapureeswarar-tirumanikuzhi | 0 | ⚠️ skipped (no qualifying photo) |
+| vanchinathar-srivanchiyam | 0 | ⚠️ skipped (no qualifying photo) |
+| vandurainathar-tiruvendurai | 0 | ⚠️ skipped (no qualifying photo) |
+| varadaraja-perumal-kanchipuram | 6 | ✅ included |
+| varadaraja-thirumanikkoodam | 0 | ⚠️ skipped (no qualifying photo) |
+| varaha-narasimha-ahobilam | 0 | ⚠️ skipped (no qualifying photo) |
+| vardhamaneeswarar-tiruppugalur | 0 | ⚠️ skipped (no qualifying photo) |
+| vasishteswarar-thenkudithittai | 0 | ⚠️ skipped (no qualifying photo) |
+| vedagiriswarar-thirukazhukundram | 6 | ✅ included |
+| vedapureeswarar-therazhundur | 0 | ⚠️ skipped (no qualifying photo) |
+| vedapureeswarar-thiruvedhikudi | 6 | ✅ included |
+| vedapureeswarar-thiruverkadu | 6 | ✅ included |
+| vedapureeswarar-tiruvedikudi | 0 | ⚠️ skipped (no qualifying photo) |
+| vedapureeswarar-tiruvothur | 0 | ⚠️ skipped (no qualifying photo) |
+| vedaranyeswarar-vedaranyam | 6 | ✅ included |
+| veeraraghava-thiruvallur | 0 | ⚠️ skipped (no qualifying photo) |
+| veerateeswarar-korukkai | 6 | ✅ included |
+| veerateeswarar-thirupariyalur | 0 | ⚠️ skipped (no qualifying photo) |
+| veerateeswarar-thiruvirkudi | 6 | ✅ included |
+| veerateeswarar-vazhuvur | 6 | ✅ included |
+| veerattaneswarar-thirukkovilur | 0 | ⚠️ skipped (no qualifying photo) |
+| veerattaneswarar-thiruvathigai | 6 | ✅ included |
+| veezhinathar-tiruveezhimizhalai | 0 | ⚠️ skipped (no qualifying photo) |
+| vellimalainathar-thengur | 0 | ⚠️ skipped (no qualifying photo) |
+| velvidainathar-tirukkurukavur | 0 | ⚠️ skipped (no qualifying photo) |
+| venkateswara-tirumala | 6 | ✅ included |
+| vennailingeswarar-sikkal | 0 | ⚠️ skipped (no qualifying photo) |
+| vennaiyappar-tirunelvennai | 0 | ⚠️ skipped (no qualifying photo) |
+| vigirthanatheswarar-venjamakoodal | 0 | ⚠️ skipped (no qualifying photo) |
+| vijayanathar-tiruvijayamangai | 0 | ⚠️ skipped (no qualifying photo) |
+| vijayaraghava-thiruputkuzhi | 6 | ✅ included |
+| vijayasana-thiruvaragunamangai | 2 | ◐ hero only (< 3 for video) |
+| vilvanatheswarar-thiruvalam | 6 | ✅ included |
+| vilvavananathar-tiruvaikavur | 0 | ⚠️ skipped (no qualifying photo) |
+| vilvavaneswarar-kollampudur | 0 | ⚠️ skipped (no qualifying photo) |
+| vira-brahma-alampur | 0 | ⚠️ skipped (no qualifying photo) |
+| virupaksha-hampi | 3 | ✅ included |
 | vishalakshi-varanasi | 0 | ⚠️ skipped (no qualifying photo) |
+| vishwa-brahma-alampur | 5 | ✅ included |
+| vittala-hampi | 6 | ✅ included |
+| vriddhagireeswarar-vriddhachalam | 0 | ⚠️ skipped (no qualifying photo) |
+| vyakrapureeswarar-tiruperumpuliyur | 0 | ⚠️ skipped (no qualifying photo) |
+| yadadri-lakshmi-narasimha | 6 | ✅ included |
+| yathothkari-thiruvekka | 6 | ✅ included |
+| yazhmurinathar-dharmapuram | 0 | ⚠️ skipped (no qualifying photo) |
+| yoga-narasimha-sholinghur | 4 | ✅ included |
+| yogananda-narasimha-ahobilam | 2 | ◐ hero only (< 3 for video) |

@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/sowmya-narayana-thirukoshtiyur.mp3",
     "durationSec": 171
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/sowmya-narayana-thirukoshtiyur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sowmya-narayana-thirukoshtiyur.jpg",
+    "durationSec": 168,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

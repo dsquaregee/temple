@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/chottanikkara-bhagavathy.mp3",
     "durationSec": 245
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/chottanikkara-bhagavathy.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/chottanikkara-bhagavathy.jpg",
+    "durationSec": 241,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

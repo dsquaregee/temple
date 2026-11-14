@@ -51,5 +51,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/srisailam-mallikarjuna.mp3",
     "durationSec": 203
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/srisailam-mallikarjuna.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/srisailam-mallikarjuna.jpg",
+    "durationSec": 204,
+    "credit": "rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Adityamadhav83 / Wikimedia Commons (CC BY 4.0)"
   }
 }

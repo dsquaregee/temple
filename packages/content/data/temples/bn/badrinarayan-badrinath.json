@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/badrinarayan-badrinath.mp3",
     "durationSec": 178
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/badrinarayan-badrinath.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/badrinarayan-badrinath.jpg",
+    "durationSec": 184,
+    "credit": "Sumita Roy Dutta / Wikimedia Commons (CC BY-SA 4.0) · AaS / Wikimedia Commons (CC BY-SA 4.0) · Traveltonirvana / Wikimedia Commons (CC BY-SA 4.0) · Ketan0212 / Wikimedia Commons (CC BY-SA 3.0) · Shitha Valsan / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/purushottama-uthamarkoil.mp3",
     "durationSec": 177
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/purushottama-uthamarkoil.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/purushottama-uthamarkoil.jpg",
+    "durationSec": 178,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

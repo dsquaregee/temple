@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/kampahareswarar-thirubuvanam.mp3",
     "durationSec": 184
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/kampahareswarar-thirubuvanam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kampahareswarar-thirubuvanam.jpg",
+    "durationSec": 184,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

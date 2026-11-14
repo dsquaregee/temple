@@ -45,5 +45,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/melukote-cheluvanarayana.mp3",
     "durationSec": 108
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/melukote-cheluvanarayana.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/melukote-cheluvanarayana.jpg",
+    "durationSec": 110,
+    "credit": "Haneesh K M. / Wikimedia Commons (CC0) · Venkygrams / Wikimedia Commons (CC BY-SA 4.0) · A.Murali / Wikimedia Commons (CC0) · MaximusPrasad / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

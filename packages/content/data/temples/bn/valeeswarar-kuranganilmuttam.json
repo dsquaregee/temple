@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/valeeswarar-kuranganilmuttam.mp3",
     "durationSec": 243
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/valeeswarar-kuranganilmuttam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/valeeswarar-kuranganilmuttam.jpg",
+    "durationSec": 240,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

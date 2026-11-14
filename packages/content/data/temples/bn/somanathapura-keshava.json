@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/somanathapura-keshava.mp3",
     "durationSec": 273
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/somanathapura-keshava.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/somanathapura-keshava.jpg",
+    "durationSec": 272,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · HPNadig / Wikimedia Commons (CC BY-SA 3.0) · Dushyant Naresh / Wikimedia Commons (CC BY-SA 3.0) · Purshi / Wikimedia Commons (CC BY-SA 3.0) · Sanandana C M / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

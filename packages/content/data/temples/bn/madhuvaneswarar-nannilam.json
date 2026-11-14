@@ -42,5 +42,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/madhuvaneswarar-nannilam.mp3",
     "durationSec": 180
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/madhuvaneswarar-nannilam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/madhuvaneswarar-nannilam.jpg",
+    "durationSec": 180,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

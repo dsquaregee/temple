@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/bn/trimbakeshwar-nashik.mp3",
     "durationSec": 185
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/bn/trimbakeshwar-nashik.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/trimbakeshwar-nashik.jpg",
+    "durationSec": 186,
+    "credit": "Abhideo21 / Wikimedia Commons (CC BY-SA 4.0) · Prashant Kharote / Wikimedia Commons (CC BY 4.0) · K.Venkataramana / Wikimedia Commons (CC0) · Prashant Kharote / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
