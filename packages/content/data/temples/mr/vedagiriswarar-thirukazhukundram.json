@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/vedagiriswarar-thirukazhukundram.mp3",
     "durationSec": 278
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/vedagiriswarar-thirukazhukundram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedagiriswarar-thirukazhukundram.jpg",
+    "durationSec": 239,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

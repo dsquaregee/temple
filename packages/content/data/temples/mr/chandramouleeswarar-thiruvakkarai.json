@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/chandramouleeswarar-thiruvakkarai.mp3",
     "durationSec": 265
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/chandramouleeswarar-thiruvakkarai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/chandramouleeswarar-thiruvakkarai.jpg",
+    "durationSec": 229,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY 3.0)"
   }
 }

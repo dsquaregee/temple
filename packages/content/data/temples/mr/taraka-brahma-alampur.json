@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/taraka-brahma-alampur.mp3",
     "durationSec": 210
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/taraka-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/taraka-brahma-alampur.jpg",
+    "durationSec": 179,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/airavatesvara.mp3",
     "durationSec": 400
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/airavatesvara.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/airavatesvara.jpg",
+    "durationSec": 355,
+    "credit": "shikhers / Wikimedia Commons (CC BY-SA 4.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

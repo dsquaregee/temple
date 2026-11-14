@@ -45,5 +45,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/shore-temple-mahabalipuram.mp3",
     "durationSec": 272
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/shore-temple-mahabalipuram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/shore-temple-mahabalipuram.jpg",
+    "durationSec": 236,
+    "credit": "Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

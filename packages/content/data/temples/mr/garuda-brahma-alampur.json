@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/garuda-brahma-alampur.mp3",
     "durationSec": 197
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/garuda-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/garuda-brahma-alampur.jpg",
+    "durationSec": 171,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

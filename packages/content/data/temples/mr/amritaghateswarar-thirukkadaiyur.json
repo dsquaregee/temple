@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/amritaghateswarar-thirukkadaiyur.mp3",
     "durationSec": 203
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/amritaghateswarar-thirukkadaiyur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/amritaghateswarar-thirukkadaiyur.jpg",
+    "durationSec": 178,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0) · Portvp / Wikimedia Commons (CC BY-SA 3.0) · Rsmn / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

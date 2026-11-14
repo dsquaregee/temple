@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/vedaranyeswarar-vedaranyam.mp3",
     "durationSec": 155
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/vedaranyeswarar-vedaranyam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vedaranyeswarar-vedaranyam.jpg",
+    "durationSec": 133,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

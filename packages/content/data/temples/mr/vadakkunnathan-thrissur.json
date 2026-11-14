@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/vadakkunnathan-thrissur.mp3",
     "durationSec": 312
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/vadakkunnathan-thrissur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vadakkunnathan-thrissur.jpg",
+    "durationSec": 274,
+    "credit": "T M Cyriac / Wikimedia Commons (CC BY-SA 4.0) · Vinusangam / Wikimedia Commons (CC BY-SA 4.0) · Ashish2py / Wikimedia Commons (CC BY-SA 4.0) · Devilal / Wikimedia Commons (CC BY-SA 4.0) · Ajay090 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/dwarakadhish-dwarka.mp3",
     "durationSec": 164
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/dwarakadhish-dwarka.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/dwarakadhish-dwarka.jpg",
+    "durationSec": 148,
+    "credit": "Sivaprasadsujatha / Wikimedia Commons (CC BY-SA 4.0) · Abhi1901 / Wikimedia Commons (CC BY-SA 4.0) · MADHURANTHAKAN JAGADEESAN / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

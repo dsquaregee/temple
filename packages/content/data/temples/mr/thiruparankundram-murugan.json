@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/thiruparankundram-murugan.mp3",
     "durationSec": 200
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/thiruparankundram-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruparankundram-murugan.jpg",
+    "durationSec": 172,
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0)"
   }
 }

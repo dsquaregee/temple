@@ -42,5 +42,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/nageswaraswamy-kumbakonam.mp3",
     "durationSec": 187
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/nageswaraswamy-kumbakonam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/nageswaraswamy-kumbakonam.jpg",
+    "durationSec": 160,
+    "credit": "Richard Mortel from Riyadh, Saudi Arabia / Wikimedia Commons (CC BY 2.0) · Rainer Halama / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

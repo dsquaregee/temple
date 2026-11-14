@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/sthalasayana-thirukkadalmallai.mp3",
     "durationSec": 186
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/sthalasayana-thirukkadalmallai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/sthalasayana-thirukkadalmallai.jpg",
+    "durationSec": 161,
+    "credit": "Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

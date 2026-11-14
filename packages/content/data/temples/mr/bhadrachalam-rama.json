@@ -45,5 +45,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/bhadrachalam-rama.mp3",
     "durationSec": 115
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/bhadrachalam-rama.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/bhadrachalam-rama.jpg",
+    "durationSec": 100,
+    "credit": "WithShivaram / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

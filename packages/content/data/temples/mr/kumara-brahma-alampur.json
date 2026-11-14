@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/kumara-brahma-alampur.mp3",
     "durationSec": 179
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/kumara-brahma-alampur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kumara-brahma-alampur.jpg",
+    "durationSec": 157,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

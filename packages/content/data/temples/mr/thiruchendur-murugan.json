@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/thiruchendur-murugan.mp3",
     "durationSec": 210
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/thiruchendur-murugan.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thiruchendur-murugan.jpg",
+    "durationSec": 182,
+    "credit": "எஸ்ஸார் / Wikimedia Commons (CC BY-SA 3.0) · Aravind Sivaraj / Wikimedia Commons (CC BY-SA 3.0) · Kondephy / Wikimedia Commons (CC BY-SA 4.0) · Sanjayd20 / Wikimedia Commons (CC0)"
   }
 }

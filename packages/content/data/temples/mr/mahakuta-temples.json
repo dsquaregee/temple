@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/mahakuta-temples.mp3",
     "durationSec": 199
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/mahakuta-temples.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mahakuta-temples.jpg",
+    "durationSec": 177,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Sudhir Herle / Wikimedia Commons (CC BY-SA 4.0) · Deepak Patil / Wikimedia Commons (CC BY-SA 3.0) · Eva Naudts / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

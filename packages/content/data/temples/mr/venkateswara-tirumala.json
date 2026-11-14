@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/venkateswara-tirumala.mp3",
     "durationSec": 262
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/venkateswara-tirumala.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/venkateswara-tirumala.jpg",
+    "durationSec": 224,
+    "credit": "Kavali Chandrakanth KCK / Wikimedia Commons (CC BY-SA 4.0) · vijay chennupati from sydney, australia / Wikimedia Commons (CC BY 2.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Dinesh Kumar (DK) from Bangalore, Karnataka, India / Wikimedia Commons (CC BY-SA 2.0)"
   }
 }

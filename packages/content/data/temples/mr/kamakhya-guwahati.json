@@ -42,5 +42,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/kamakhya-guwahati.mp3",
     "durationSec": 271
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/kamakhya-guwahati.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/kamakhya-guwahati.jpg",
+    "durationSec": 242,
+    "credit": "Deeporaj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/veerattaneswarar-thiruvathigai.mp3",
     "durationSec": 213
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/veerattaneswarar-thiruvathigai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/veerattaneswarar-thiruvathigai.jpg",
+    "durationSec": 184,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/narasimha-ahobilam.mp3",
     "durationSec": 207
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/narasimha-ahobilam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/narasimha-ahobilam.jpg",
+    "durationSec": 183,
+    "credit": "Varunmydala / Wikimedia Commons (CC BY-SA 4.0) · Ashwin Kumar from Bangalore, India / Wikimedia Commons (CC BY-SA 2.0) · P. Madhusudan / Wikimedia Commons (CC0)"
   }
 }

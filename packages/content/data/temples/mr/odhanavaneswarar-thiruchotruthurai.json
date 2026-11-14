@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/odhanavaneswarar-thiruchotruthurai.mp3",
     "durationSec": 171
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/odhanavaneswarar-thiruchotruthurai.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/odhanavaneswarar-thiruchotruthurai.jpg",
+    "durationSec": 150,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

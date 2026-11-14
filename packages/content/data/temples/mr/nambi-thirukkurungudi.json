@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/nambi-thirukkurungudi.mp3",
     "durationSec": 182
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/nambi-thirukkurungudi.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/nambi-thirukkurungudi.jpg",
+    "durationSec": 161,
+    "credit": "Niranjan Ramamurthy / Wikimedia Commons (CC BY-SA 4.0) · Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

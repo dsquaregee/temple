@@ -49,5 +49,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/parthasarathy-aranmula.mp3",
     "durationSec": 190
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/parthasarathy-aranmula.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/parthasarathy-aranmula.jpg",
+    "durationSec": 169,
+    "credit": "Alenalexp / Wikimedia Commons (CC BY-SA 4.0) · Gnoeee / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/papanasanathar-papanasam.mp3",
     "durationSec": 201
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/papanasanathar-papanasam.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/papanasanathar-papanasam.jpg",
+    "durationSec": 177,
+    "credit": "Sukumaran sundar / Wikimedia Commons (CC BY-SA 3.0) · MaRISELVAM (talk) / Wikimedia Commons (CC BY 3.0) · Muthuraman99 / Wikimedia Commons (CC BY 3.0)"
   }
 }

@@ -49,5 +49,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/jambukeswarar.mp3",
     "durationSec": 373
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/jambukeswarar.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/jambukeswarar.jpg",
+    "durationSec": 325,
+    "credit": "prakashkumar / Wikimedia Commons (CC BY-SA 4.0) · Vinayaraj / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

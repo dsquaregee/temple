@@ -48,5 +48,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/vaithamanidhi-thirukkolur.mp3",
     "durationSec": 146
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/vaithamanidhi-thirukkolur.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/vaithamanidhi-thirukkolur.jpg",
+    "durationSec": 129,
+    "credit": "Vishwa Sundar / Wikimedia Commons (CC BY-SA 4.0) · Madhavan. A / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

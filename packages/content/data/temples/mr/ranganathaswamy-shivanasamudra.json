@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/ranganathaswamy-shivanasamudra.mp3",
     "durationSec": 159
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/ranganathaswamy-shivanasamudra.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ranganathaswamy-shivanasamudra.jpg",
+    "durationSec": 143,
+    "credit": "VasuVR / Wikimedia Commons (CC BY-SA 4.0) · Wkacnt / Wikimedia Commons (CC BY-SA 3.0)"
   }
 }

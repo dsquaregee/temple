@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/triprayar-rama.mp3",
     "durationSec": 215
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/triprayar-rama.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/triprayar-rama.jpg",
+    "durationSec": 184,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

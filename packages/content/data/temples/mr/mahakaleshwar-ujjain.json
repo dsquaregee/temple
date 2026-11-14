@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/mahakaleshwar-ujjain.mp3",
     "durationSec": 199
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/mahakaleshwar-ujjain.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/mahakaleshwar-ujjain.jpg",
+    "durationSec": 178,
+    "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 3.0) · Arian Zwegers from Brussels, Belgium / Wikimedia Commons (CC BY 2.0) · Shuchita Singh / Wikimedia Commons (CC BY-SA 4.0) · Ashverse / Wikimedia Commons (CC BY-SA 4.0) · Gyanendra_Singh_Chau… / Wikimedia Commons (CC BY 3.0)"
   }
 }

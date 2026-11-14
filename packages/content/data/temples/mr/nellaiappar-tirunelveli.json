@@ -49,5 +49,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/nellaiappar-tirunelveli.mp3",
     "durationSec": 208
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/nellaiappar-tirunelveli.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/nellaiappar-tirunelveli.jpg",
+    "durationSec": 181,
+    "credit": "Sivanandands / Wikimedia Commons (CC BY-SA 4.0) · Divya suresh / Wikimedia Commons (CC BY-SA 4.0) · Booradleyp1 / Wikimedia Commons (CC BY-SA 4.0) · Shanmugavel281996 / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

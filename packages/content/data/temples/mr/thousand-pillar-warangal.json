@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/thousand-pillar-warangal.mp3",
     "durationSec": 196
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/thousand-pillar-warangal.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/thousand-pillar-warangal.jpg",
+    "durationSec": 175,
+    "credit": "Ms Sarah Welch / Wikimedia Commons (CC0)"
   }
 }

@@ -50,5 +50,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/ramanathaswamy-rameswaram.mp3",
     "durationSec": 415
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/ramanathaswamy-rameswaram.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ramanathaswamy-rameswaram.jpg",
+    "durationSec": 359,
+    "credit": "Rangan Datta Wiki / Wikimedia Commons (CC BY-SA 4.0) · Gitakart / Wikimedia Commons (CC BY-SA 3.0) · rajaraman sundaram / Wikimedia Commons (CC BY 3.0) · Souvik Sarkar / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }

@@ -47,5 +47,11 @@
   "audio": {
     "storyUrl": "https://audio.dsquaregee.com/audio/mr/ardhanareeswarar-tiruchengode.mp3",
     "durationSec": 288
+  },
+  "video": {
+    "url": "https://media.dsquaregee.com/video/mr/ardhanareeswarar-tiruchengode.mp4",
+    "posterUrl": "https://media.dsquaregee.com/heroes/ardhanareeswarar-tiruchengode.jpg",
+    "durationSec": 252,
+    "credit": "Ssriram mt / Wikimedia Commons (CC BY-SA 4.0)"
   }
 }
