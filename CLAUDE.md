@@ -167,7 +167,20 @@ enhancement, but is no longer a release gate). The Vada Nadu member
 - **Never merge to the base branch while `audio.yml`/`media.yml` is mid-run** — those
   workflows commit regenerated content at the end, and a base advance makes their
   `git push` a non-fast-forward (rejected). Serialize deploys around media runs.
-- Other locales: Neural2/Wavenet voices, unversioned paths.
+- Other locales: Neural2/Wavenet voices, unversioned paths. Voice map in
+  `gen-audio.mjs` `VOICES`: hi `hi-IN-Neural2-A`, ta `ta-IN-Wavenet-A`, te
+  `te-IN-Standard-A`, kn `kn-IN-Wavenet-A`, ml `ml-IN-Wavenet-A`, bn
+  `bn-IN-Wavenet-A`, mr `mr-IN-Wavenet-A`. **Odia (or) has no stable Google Cloud
+  TTS voice (preview-only), so it ships text-only** — no `audio`/`video` field,
+  the Listen player shows the "coming soon" fallback. Add a voice to `VOICES`
+  before dispatching `audio.yml` for a new locale — the script filters requested
+  locales by the voice map, so a locale with no voice silently generates nothing.
+- **Narration coverage (2026-11-14):** eight locales narrated — en, ta, te, kn,
+  ml, hi, **bn, mr** (520/520 audio each); Odia text-only. Ken Burns video tracks
+  the audio where ≥3 qualifying CC photos exist: **211/520 per narrated locale**
+  (the external photo ceiling, same as the others). Bengali + Marathi narration +
+  video were generated this session (owner-approved); a per-locale video run was
+  needed because both locales in one `media.yml` job exceeded the 300-min timeout.
 - `audio.yml` `sample=<ids>` renders voice comparison samples without touching content.
 
 ## Circuit route maps
