@@ -54,5 +54,15 @@
       "webp": "https://media.dsquaregee.com/heroes/arunachaleswarar.webp"
     },
     "og": "https://media.dsquaregee.com/og/arunachaleswarar.jpg"
-  }
+  },
+  "stay": [
+    {
+      "name": "Hill View Homestay",
+      "url": "https://airbnb.com/h/hvhs"
+    },
+    {
+      "name": "Hill View Homestay (second listing)",
+      "url": "https://airbnb.com/h/hvhstvm2"
+    }
+  ]
 }
