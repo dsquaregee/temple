@@ -31,14 +31,18 @@ export function track(name: TrackEvent): void {
   try {
     const url = `${PUSH.endpoint}/event`;
     const body = JSON.stringify({ name });
+    // text/plain is a CORS-safelisted content type, so this cross-origin beacon
+    // does NOT trigger a preflight. (application/json would, and sendBeacon can't
+    // satisfy a preflight — the beacon is silently dropped. The Worker reads the
+    // raw body with req.text() + JSON.parse, so the declared type doesn't matter.)
     if (typeof navigator !== 'undefined' && navigator.sendBeacon) {
-      navigator.sendBeacon(url, new Blob([body], { type: 'application/json' }));
+      navigator.sendBeacon(url, new Blob([body], { type: 'text/plain' }));
     } else if (typeof fetch !== 'undefined') {
       fetch(url, {
         method: 'POST',
         body,
         keepalive: true,
-        headers: { 'content-type': 'application/json' },
+        headers: { 'content-type': 'text/plain' },
       }).catch(() => {});
     }
   } catch {
