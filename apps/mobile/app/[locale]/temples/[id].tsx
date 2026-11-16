@@ -1,6 +1,6 @@
 import { router, useLocalSearchParams } from 'expo-router';
 import { Linking, Pressable, Text, View } from 'react-native';
-import { colorForTemple, t } from '@temple/core';
+import { activeStays, colorForTemple, t } from '@temple/core';
 import { getCircuit, getTemple, getTemples } from '@temple/content';
 import { asLocale } from '@/lib/locale';
 import { useTheme } from '@/lib/theme';
@@ -133,21 +133,31 @@ export default function TempleDetailScreen() {
         <Tile key={v.k} label={v.k} value={v.v} />
       ))}
 
-      {temple.stay && temple.stay.length > 0 && (
+      {activeStays(temple.stay).length > 0 && (
         <>
           <SectionHeading>{ui.labels.stayNearby}</SectionHeading>
-          {temple.stay.map((s) => (
+          {activeStays(temple.stay).map((s) => (
             <Card key={s.url} onPress={() => Linking.openURL(s.url)}>
               <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
                 <Text style={{ color: colors.inkStrong, fontSize: 16, fontWeight: '600', flexShrink: 1 }}>
                   {s.name}
                 </Text>
-                <Text style={{ color: colors.accentVermilion, fontSize: 16, fontWeight: '700', marginLeft: 8 }}>↗</Text>
+                <View style={{ flexDirection: 'row', alignItems: 'center', marginLeft: 8 }}>
+                  {s.sponsored ? (
+                    <Text style={{ color: colors.inkMuted, fontSize: 10, fontWeight: '700', textTransform: 'uppercase', marginRight: 8 }}>
+                      {ui.labels.sponsored}
+                    </Text>
+                  ) : null}
+                  <Text style={{ color: colors.accentVermilion, fontSize: 16, fontWeight: '700' }}>↗</Text>
+                </View>
               </View>
               {s.note ? <Muted>{s.note}</Muted> : null}
             </Card>
           ))}
           <Muted>{ui.labels.stayNote}</Muted>
+          <Pressable onPress={() => Linking.openURL('https://temples.dsquaregee.com/advertise/')} style={{ paddingVertical: 8 }}>
+            <Text style={{ color: colors.accentVermilion, fontWeight: '600' }}>{ui.labels.listYourStay} →</Text>
+          </Pressable>
         </>
       )}
 

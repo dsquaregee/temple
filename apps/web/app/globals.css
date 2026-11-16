@@ -1692,3 +1692,133 @@ a {
   font-size: 13px;
   color: var(--ink-muted);
 }
+
+/* Sponsored (paid) stay listing — a small, honest disclosure pill. */
+.stay-sponsored {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 2px 8px;
+  white-space: nowrap;
+}
+.stay-cta {
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: 600;
+  color: var(--accent-vermilion);
+  text-decoration: none;
+}
+.stay-cta:hover,
+.stay-cta:focus-visible {
+  text-decoration: underline;
+}
+
+/* --- /advertise : list-your-stay page + enquiry form --- */
+.adv {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+}
+.adv-brand {
+  display: inline-block;
+  margin-bottom: 8px;
+  color: var(--accent-vermilion);
+  font-weight: 600;
+  text-decoration: none;
+}
+.adv-steps {
+  margin: 0;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  color: var(--ink-body);
+}
+.adv-note {
+  margin-top: 12px;
+  color: var(--ink-muted);
+  font-size: 14px;
+}
+.adv-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.adv-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.adv-field > span {
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--ink-strong);
+}
+.adv-field input,
+.adv-field textarea {
+  font: inherit;
+  padding: 11px 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--bg-raised);
+  color: var(--ink-strong);
+  min-height: 44px;
+}
+.adv-field input:focus-visible,
+.adv-field textarea:focus-visible {
+  outline: 2px solid var(--accent-turmeric);
+  outline-offset: 1px;
+  border-color: var(--accent-turmeric);
+}
+/* Honeypot — kept out of view and out of the tab order. */
+.adv-hp {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+.adv-submit {
+  align-self: flex-start;
+  font: inherit;
+  font-weight: 700;
+  color: #fff;
+  background: var(--accent-vermilion);
+  border: none;
+  border-radius: 999px;
+  padding: 12px 24px;
+  min-height: 48px;
+  cursor: pointer;
+}
+.adv-submit:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+.adv-error {
+  color: var(--accent-vermilion);
+  font-size: 14px;
+}
+.adv-fineprint {
+  color: var(--ink-muted);
+  font-size: 13px;
+}
+.adv-ok h2 {
+  margin-bottom: 8px;
+}
+
+.sitefooter-advertise {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 13px;
+  color: var(--ink-muted);
+  text-decoration: none;
+}
+.sitefooter-advertise:hover,
+.sitefooter-advertise:focus-visible {
+  color: var(--accent-vermilion);
+  text-decoration: underline;
+}

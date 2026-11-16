@@ -61,6 +61,12 @@ export interface TempleStay {
   name: string;
   url: string;
   note?: string;
+  // Paid placement — rendered with a "Sponsored" label for disclosure. The
+  // owner's own listings leave this unset (no label).
+  sponsored?: boolean;
+  // ISO date (YYYY-MM-DD). A sponsored listing is hidden from on/after this day,
+  // applied at build time — so a lapsed ad drops off on the next deploy.
+  until?: string;
 }
 
 export interface Temple {

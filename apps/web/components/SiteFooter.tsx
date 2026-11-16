@@ -26,6 +26,9 @@ export function SiteFooter({ locale }: { locale: Locale }) {
           </li>
         ))}
       </ul>
+      <a className="sitefooter-advertise" href="/advertise/">
+        {ui.labels.listYourStay} →
+      </a>
     </footer>
   );
 }
