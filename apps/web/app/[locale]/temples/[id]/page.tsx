@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import {
   FESTIVAL_BY_KEY,
   MONTH_BY_KEY,
+  activeStays,
   nextFestivalDate,
   t,
   type Locale,
@@ -188,6 +189,7 @@ export default function TempleDetail({
     { key: 'experience', body: temple.sections.experience },
   ];
 
+  const stays = activeStays(temple.stay);
   const visitTiles: { k: string; v: string }[] = [
     { k: ui.visit.timings, v: temple.visit.timings },
     { k: ui.visit.dressCode, v: temple.visit.dressCode },
@@ -280,11 +282,11 @@ export default function TempleDetail({
         </div>
       </section>
 
-      {temple.stay && temple.stay.length > 0 && (
+      {stays.length > 0 && (
         <section className="section" aria-labelledby="stay-h">
           <h2 id="stay-h">{ui.labels.stayNearby}</h2>
           <ul className="stay-list">
-            {temple.stay.map((s) => (
+            {stays.map((s) => (
               <li key={s.url}>
                 <a
                   className="stay-link"
@@ -294,12 +296,16 @@ export default function TempleDetail({
                 >
                   <span className="stay-name">{s.name}</span>
                   {s.note && <span className="stay-note-inline">{s.note}</span>}
+                  {s.sponsored && <span className="stay-sponsored">{ui.labels.sponsored}</span>}
                   <span className="stay-ext" aria-hidden="true">↗</span>
                 </a>
               </li>
             ))}
           </ul>
           <p className="stay-note">{ui.labels.stayNote}</p>
+          <a className="stay-cta" href="/advertise/">
+            {ui.labels.listYourStay} →
+          </a>
         </section>
       )}
 

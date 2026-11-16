@@ -1,0 +1,35 @@
+{
+  // Advertise-form Worker. SEPARATE from the main `temple` static-assets site so
+  // it can never break the site deploy. Deploy from this directory with
+  // `npx wrangler deploy` after creating the KV namespace and (optionally) the
+  // email secret — see docs/advertise-form.md.
+  "name": "temple-advertise",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-11-01",
+
+  // Mount on the live site's own origin so the browser posts same-origin
+  // (no CORS; satisfies the site CSP's connect-src 'self'). The zone must be on
+  // this Cloudflare account. Remove/adjust if you instead use the *.workers.dev
+  // URL (then add that origin to the site CSP connect-src + form-action).
+  "routes": [
+    { "pattern": "temples.dsquaregee.com/api/advertise", "zone_name": "dsquaregee.com" }
+  ],
+
+  "kv_namespaces": [
+    {
+      "binding": "SUBMISSIONS",
+      // Replace with the id printed by:
+      //   npx wrangler kv namespace create SUBMISSIONS
+      "id": "REPLACE_WITH_KV_NAMESPACE_ID"
+    }
+  ],
+
+  "vars": {
+    // Where enquiries are emailed (best-effort; only sends if RESEND_API_KEY is set).
+    "NOTIFY_TO": "support@dsquaregee.com"
+    // "RESEND_FROM": "Temple <stays@dsquaregee.com>"  // a verified Resend sender
+  }
+  // Secrets (set with `npx wrangler secret put <NAME>`), not stored here:
+  //   ADMIN_TOKEN     — required to read submissions back via GET ?token=...
+  //   RESEND_API_KEY  — optional; enables the email notification
+}

@@ -97,6 +97,8 @@ export interface UiStrings {
     videoStory: string;
     stayNearby: string;
     stayNote: string;
+    sponsored: string;
+    listYourStay: string;
     languageName: string;
   };
   footer: { follow: string };
@@ -220,6 +222,8 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'Video story',
       stayNearby: 'Stay nearby',
       stayNote: 'Lodging near the temple. Booking opens on Airbnb.',
+      sponsored: 'Sponsored',
+      listYourStay: 'List your stay here',
       languageName: 'English',
     },
     footer: { follow: 'Follow' },
@@ -351,6 +355,8 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'காணொளிக் கதை',
       stayNearby: 'அருகில் தங்குமிடம்',
       stayNote: 'கோயிலுக்கு அருகில் தங்குமிடம். பதிவு Airbnb-இல் திறக்கும்.',
+      sponsored: 'விளம்பரம்',
+      listYourStay: 'உங்கள் தங்குமிடத்தைச் சேர்க்கவும்',
       languageName: 'தமிழ்',
     },
     footer: { follow: 'பின்தொடருங்கள்' },
@@ -482,6 +488,8 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'వీడియో కథ',
       stayNearby: 'దగ్గర్లో బస',
       stayNote: 'ఆలయం దగ్గర బస. బుకింగ్ Airbnbలో తెరుచుకుంటుంది.',
+      sponsored: 'ప్రాయోజితం',
+      listYourStay: 'మీ బసను ఇక్కడ చేర్చండి',
       languageName: 'తెలుగు',
     },
     footer: { follow: 'అనుసరించండి' },
@@ -613,6 +621,8 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'ವಿಡಿಯೋ ಕಥೆ',
       stayNearby: 'ಹತ್ತಿರ ವಸತಿ',
       stayNote: 'ದೇವಾಲಯದ ಬಳಿ ವಸತಿ. ಬುಕಿಂಗ್ Airbnb ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ.',
+      sponsored: 'ಪ್ರಾಯೋಜಿತ',
+      listYourStay: 'ನಿಮ್ಮ ವಸತಿಯನ್ನು ಇಲ್ಲಿ ಸೇರಿಸಿ',
       languageName: 'ಕನ್ನಡ',
     },
     footer: { follow: 'ಅನುಸರಿಸಿ' },
@@ -744,6 +754,8 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'വീഡിയോ കഥ',
       stayNearby: 'സമീപം താമസം',
       stayNote: 'ക്ഷേത്രത്തിനു സമീപം താമസം. ബുക്കിംഗ് Airbnb-ൽ തുറക്കും.',
+      sponsored: 'പരസ്യം',
+      listYourStay: 'നിങ്ങളുടെ താമസം ഇവിടെ ചേർക്കൂ',
       languageName: 'മലയാളം',
     },
     footer: { follow: 'പിന്തുടരൂ' },
@@ -875,6 +887,8 @@ export const strings: Record<Locale, UiStrings> = {
       videoStory: 'वीडियो कथा',
       stayNearby: 'पास ठहराव',
       stayNote: 'मंदिर के पास ठहरने की जगह। बुकिंग Airbnb पर खुलेगी।',
+      sponsored: 'प्रायोजित',
+      listYourStay: 'अपना ठहराव यहाँ जोड़ें',
       languageName: 'हिन्दी',
     },
     footer: { follow: 'फ़ॉलो करें' },
@@ -1013,6 +1027,8 @@ export const strings: Record<Locale, UiStrings> = {
       "videoStory": "ভিডিও কাহিনি",
       "stayNearby": "কাছে থাকার জায়গা",
       "stayNote": "মন্দিরের কাছে থাকার ব্যবস্থা। বুকিং Airbnb-তে খুলবে।",
+      "sponsored": "বিজ্ঞাপন",
+      "listYourStay": "আপনার থাকার জায়গা এখানে যোগ করুন",
       "languageName": "বাংলা"
     },
     "footer": {
@@ -1155,6 +1171,8 @@ export const strings: Record<Locale, UiStrings> = {
       "videoStory": "व्हिडिओ कथा",
       "stayNearby": "जवळ राहण्याची सोय",
       "stayNote": "मंदिराजवळ राहण्याची सोय. बुकिंग Airbnb वर उघडेल.",
+      "sponsored": "प्रायोजित",
+      "listYourStay": "तुमची राहण्याची सोय येथे जोडा",
       "languageName": "मराठी"
     },
     "footer": {
@@ -1297,6 +1315,8 @@ export const strings: Record<Locale, UiStrings> = {
       "videoStory": "ଭିଡିଓ କାହାଣୀ",
       "stayNearby": "ପାଖରେ ରହିବା",
       "stayNote": "ମନ୍ଦିର ପାଖରେ ରହିବା ସ୍ଥାନ। ବୁକିଂ Airbnb ରେ ଖୋଲିବ।",
+      "sponsored": "ପ୍ରାୟୋଜିତ",
+      "listYourStay": "ଆପଣଙ୍କ ରହିବା ସ୍ଥାନ ଏଠାରେ ଯୋଡ଼ନ୍ତୁ",
       "languageName": "ଓଡ଼ିଆ"
     },
     "footer": {

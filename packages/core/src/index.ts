@@ -5,6 +5,7 @@ export * from './media';
 export * from './discover';
 export * from './featured';
 export * from './listen';
+export * from './stay';
 export * from './circuit-map';
 export * from './geo';
 export * from './origin-cities';
