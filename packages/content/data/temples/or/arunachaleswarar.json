@@ -48,11 +48,15 @@
   "stay": [
     {
       "name": "Hill View Homestay — Ground floor",
-      "url": "https://airbnb.com/h/hvhs"
+      "url": "https://airbnb.com/h/hvhs",
+      "featured": true,
+      "trackId": "hillview_ground"
     },
     {
       "name": "Hill View Homestay — Top floor",
-      "url": "https://airbnb.com/h/hvhstvm2"
+      "url": "https://airbnb.com/h/hvhstvm2",
+      "featured": true,
+      "trackId": "hillview_top"
     }
   ]
 }

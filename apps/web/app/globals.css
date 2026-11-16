@@ -1822,3 +1822,15 @@ a {
   color: var(--accent-vermilion);
   text-decoration: underline;
 }
+
+/* Featured stay (the owner's own listings) — a warm highlighted card + star,
+   so it stands apart from both plain and "Sponsored" listings. */
+.stay-link--featured {
+  border-color: var(--accent-turmeric);
+  background: color-mix(in srgb, var(--accent-turmeric) 10%, var(--bg-raised));
+}
+.stay-star {
+  color: var(--accent-turmeric);
+  font-size: 15px;
+  margin-right: -2px;
+}
