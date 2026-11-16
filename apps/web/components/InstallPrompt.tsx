@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { t, type Locale } from '@temple/core';
+import { track } from '@/lib/analytics';
 
 // A one-tap "Install" banner for visitors who haven't added the PWA yet.
 // On Chrome/Edge/Android it uses the browser's beforeinstallprompt event to
@@ -58,6 +59,9 @@ function markInstalled() {
   } catch {
     /* best-effort */
   }
+  // Also increment the first-party counter so installs show in GET /stats
+  // alongside the other feature metrics (not just the raw CF request marker).
+  track('install');
 }
 
 export function InstallPrompt({ locale }: { locale: Locale }) {

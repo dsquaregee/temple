@@ -93,6 +93,38 @@ curl "https://temples.dsquaregee.com/api/advertise?token=YOUR_ADMIN_TOKEN"
 
 ---
 
+## Metrics (installs + listing hits)
+
+Custom counts live in the **stats Worker** (`infra/push-worker`), not the
+Cloudflare Web Analytics pageview dashboard. The site beacons an event name to
+`/event`; read totals + the last 14 days at **`GET /stats`**:
+
+```bash
+curl https://temple-push.dsquaregee.workers.dev/stats
+```
+
+Events now include:
+
+- `install` — PWA installed (fires on `appinstalled` / accepted prompt). Chrome,
+  Edge and Android only; iOS Safari's "Add to Home Screen" doesn't fire the
+  event, so iOS installs aren't counted. (A raw `/?event=pwa_install` request
+  marker is also visible in Cloudflare's HTTP traffic analytics by path.)
+- `stay_hillview_ground`, `stay_hillview_top` — clicks on the two featured Hill
+  View Homestay listings. The total is their sum.
+
+To count a new featured listing, give its stay entry a `trackId`, add
+`stay_<trackId>` to `TRACKABLE` in `infra/push-worker/src/stats.ts` and to
+`STAY_EVENTS` in `apps/web/lib/analytics.ts`, then **redeploy the push Worker**
+(`cd infra/push-worker && npx wrangler deploy`). Until it's redeployed the new
+events are silently ignored (204) — nothing breaks.
+
+## Featured vs sponsored listings
+
+- `featured: true` — the owner's own stays: a highlighted card + a star. No
+  "Sponsored" label.
+- `sponsored: true` — a paid third-party placement: a "Sponsored" label (for
+  disclosure). Can also set `until` to auto-expire.
+
 ## Notes
 
 - **Disclosure**: paid listings always show "Sponsored" (ASCI/advertising norms,

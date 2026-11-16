@@ -67,6 +67,12 @@ export interface TempleStay {
   // ISO date (YYYY-MM-DD). A sponsored listing is hidden from on/after this day,
   // applied at build time — so a lapsed ad drops off on the next deploy.
   until?: string;
+  // Featured (e.g. the owner's own stays) — given a highlighted card + a star,
+  // distinct from a paid "sponsored" listing.
+  featured?: boolean;
+  // Short id (e.g. "hillview_ground") that maps to a click counter in the app's
+  // stats Worker: a click beacons `stay_<trackId>`. Only whitelisted ids count.
+  trackId?: string;
 }
 
 export interface Temple {

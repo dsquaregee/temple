@@ -14,6 +14,9 @@ export const TRACKABLE = [
   'offline_download', // downloaded a temple/circuit for offline
   'remind_enable', // turned on festival push reminders
   'festival_cal', // added a festival to their calendar (.ics)
+  'install', // installed the PWA (appinstalled / prompt accepted)
+  'stay_hillview_ground', // opened the Hill View Homestay (ground floor) listing
+  'stay_hillview_top', // opened the Hill View Homestay (top floor) listing
 ] as const;
 
 export type TrackEvent = (typeof TRACKABLE)[number];

@@ -11,7 +11,21 @@ export type TrackEvent =
   | 'share'
   | 'offline_download'
   | 'remind_enable'
-  | 'festival_cal';
+  | 'festival_cal'
+  | 'install'
+  | 'stay_hillview_ground'
+  | 'stay_hillview_top';
+
+// Click counters for featured stay listings. Only these ids are counted, so the
+// beacon keyspace stays bounded even though the id comes from content.
+const STAY_EVENTS: Record<string, TrackEvent> = {
+  hillview_ground: 'stay_hillview_ground',
+  hillview_top: 'stay_hillview_top',
+};
+
+export function trackStay(trackId: string | undefined): void {
+  if (trackId && STAY_EVENTS[trackId]) track(STAY_EVENTS[trackId]);
+}
 
 export function track(name: TrackEvent): void {
   try {

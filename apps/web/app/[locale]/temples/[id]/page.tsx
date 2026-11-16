@@ -27,6 +27,7 @@ import { TempleHero } from '@/components/TempleHero';
 import { AudioStory } from '@/components/AudioStory';
 import { VideoStory } from '@/components/VideoStory';
 import { MusicCta } from '@/components/MusicCta';
+import { StayLink } from '@/components/StayLink';
 import { TEMPLE_MUSIC_PLAYLIST } from '@/lib/site';
 
 export const dynamicParams = false;
@@ -288,17 +289,7 @@ export default function TempleDetail({
           <ul className="stay-list">
             {stays.map((s) => (
               <li key={s.url}>
-                <a
-                  className="stay-link"
-                  href={s.url}
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                >
-                  <span className="stay-name">{s.name}</span>
-                  {s.note && <span className="stay-note-inline">{s.note}</span>}
-                  {s.sponsored && <span className="stay-sponsored">{ui.labels.sponsored}</span>}
-                  <span className="stay-ext" aria-hidden="true">↗</span>
-                </a>
+                <StayLink stay={s} sponsoredLabel={ui.labels.sponsored} />
               </li>
             ))}
           </ul>

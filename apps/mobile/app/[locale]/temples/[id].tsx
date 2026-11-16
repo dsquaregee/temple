@@ -140,6 +140,9 @@ export default function TempleDetailScreen() {
             <Card key={s.url} onPress={() => Linking.openURL(s.url)}>
               <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
                 <Text style={{ color: colors.inkStrong, fontSize: 16, fontWeight: '600', flexShrink: 1 }}>
+                  {s.featured ? (
+                    <Text style={{ color: colors.accentTurmeric }}>★ </Text>
+                  ) : null}
                   {s.name}
                 </Text>
                 <View style={{ flexDirection: 'row', alignItems: 'center', marginLeft: 8 }}>
