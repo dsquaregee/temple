@@ -280,6 +280,29 @@ export default function TempleDetail({
         </div>
       </section>
 
+      {temple.stay && temple.stay.length > 0 && (
+        <section className="section" aria-labelledby="stay-h">
+          <h2 id="stay-h">{ui.labels.stayNearby}</h2>
+          <ul className="stay-list">
+            {temple.stay.map((s) => (
+              <li key={s.url}>
+                <a
+                  className="stay-link"
+                  href={s.url}
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                >
+                  <span className="stay-name">{s.name}</span>
+                  {s.note && <span className="stay-note-inline">{s.note}</span>}
+                  <span className="stay-ext" aria-hidden="true">↗</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+          <p className="stay-note">{ui.labels.stayNote}</p>
+        </section>
+      )}
+
       {sections.map((s) => (
         <section className="section" key={s.key} aria-label={ui.sections[s.key]}>
           <h2>{ui.sections[s.key]}</h2>

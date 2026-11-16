@@ -95,6 +95,8 @@ export interface UiStrings {
     supportNote: string;
     listenComingSoon: string;
     videoStory: string;
+    stayNearby: string;
+    stayNote: string;
     languageName: string;
   };
   footer: { follow: string };
@@ -216,6 +218,8 @@ export const strings: Record<Locale, UiStrings> = {
       supportNote: 'Donations go directly through the temple’s official channels.',
       listenComingSoon: 'Audio stories are coming soon. Every temple page will have a narrated story in your language.',
       videoStory: 'Video story',
+      stayNearby: 'Stay nearby',
+      stayNote: 'Lodging near the temple. Booking opens on Airbnb.',
       languageName: 'English',
     },
     footer: { follow: 'Follow' },
@@ -345,6 +349,8 @@ export const strings: Record<Locale, UiStrings> = {
       supportNote: 'நன்கொடைகள் கோயிலின் அதிகாரப்பூர்வ வழிகள் மூலமாக நேரடியாக செல்லும்.',
       listenComingSoon: 'ஒலிக் கதைகள் விரைவில் வருகின்றன. ஒவ்வொரு கோயில் பக்கத்திலும் உங்கள் மொழியில் ஒரு கதை இருக்கும்.',
       videoStory: 'காணொளிக் கதை',
+      stayNearby: 'அருகில் தங்குமிடம்',
+      stayNote: 'கோயிலுக்கு அருகில் தங்குமிடம். பதிவு Airbnb-இல் திறக்கும்.',
       languageName: 'தமிழ்',
     },
     footer: { follow: 'பின்தொடருங்கள்' },
@@ -474,6 +480,8 @@ export const strings: Record<Locale, UiStrings> = {
       supportNote: 'విరాళాలు ఆలయ అధికారిక మార్గాల ద్వారా నేరుగా వెళ్తాయి.',
       listenComingSoon: 'ఆడియో కథలు త్వరలో వస్తున్నాయి. ప్రతి ఆలయ పేజీలో మీ భాషలో ఒక కథ ఉంటుంది.',
       videoStory: 'వీడియో కథ',
+      stayNearby: 'దగ్గర్లో బస',
+      stayNote: 'ఆలయం దగ్గర బస. బుకింగ్ Airbnbలో తెరుచుకుంటుంది.',
       languageName: 'తెలుగు',
     },
     footer: { follow: 'అనుసరించండి' },
@@ -603,6 +611,8 @@ export const strings: Record<Locale, UiStrings> = {
       supportNote: 'ದೇಣಿಗೆಗಳು ದೇವಾಲಯದ ಅಧಿಕೃತ ಮಾರ್ಗಗಳ ಮೂಲಕ ನೇರವಾಗಿ ಹೋಗುತ್ತವೆ.',
       listenComingSoon: 'ಆಡಿಯೊ ಕಥೆಗಳು ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿವೆ. ಪ್ರತಿ ದೇವಾಲಯದ ಪುಟದಲ್ಲಿ ನಿಮ್ಮ ಭಾಷೆಯಲ್ಲಿ ಕಥೆ ಇರುತ್ತದೆ.',
       videoStory: 'ವಿಡಿಯೋ ಕಥೆ',
+      stayNearby: 'ಹತ್ತಿರ ವಸತಿ',
+      stayNote: 'ದೇವಾಲಯದ ಬಳಿ ವಸತಿ. ಬುಕಿಂಗ್ Airbnb ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ.',
       languageName: 'ಕನ್ನಡ',
     },
     footer: { follow: 'ಅನುಸರಿಸಿ' },
@@ -732,6 +742,8 @@ export const strings: Record<Locale, UiStrings> = {
       supportNote: 'സംഭാവനകൾ ക്ഷേത്രത്തിന്റെ ഔദ്യോഗിക മാർഗങ്ങളിലൂടെ നേരിട്ട് പോകുന്നു.',
       listenComingSoon: 'ഓഡിയോ കഥകൾ ഉടൻ വരുന്നു. ഓരോ ക്ഷേത്ര പേജിലും നിങ്ങളുടെ ഭാഷയിൽ ഒരു കഥ ഉണ്ടാകും.',
       videoStory: 'വീഡിയോ കഥ',
+      stayNearby: 'സമീപം താമസം',
+      stayNote: 'ക്ഷേത്രത്തിനു സമീപം താമസം. ബുക്കിംഗ് Airbnb-ൽ തുറക്കും.',
       languageName: 'മലയാളം',
     },
     footer: { follow: 'പിന്തുടരൂ' },
@@ -861,6 +873,8 @@ export const strings: Record<Locale, UiStrings> = {
       supportNote: 'दान सीधे मंदिर के आधिकारिक माध्यमों से जाता है।',
       listenComingSoon: 'ऑडियो कथाएँ जल्द आ रही हैं। हर मंदिर पृष्ठ पर आपकी भाषा में एक कथा होगी।',
       videoStory: 'वीडियो कथा',
+      stayNearby: 'पास ठहराव',
+      stayNote: 'मंदिर के पास ठहरने की जगह। बुकिंग Airbnb पर खुलेगी।',
       languageName: 'हिन्दी',
     },
     footer: { follow: 'फ़ॉलो करें' },
@@ -997,6 +1011,8 @@ export const strings: Record<Locale, UiStrings> = {
       "supportNote": "দান সরাসরি মন্দিরের অফিসিয়াল মাধ্যমে যায়।",
       "listenComingSoon": "অডিও কাহিনি শীঘ্রই আসছে। প্রতিটি মন্দিরের পাতায় আপনার ভাষায় একটি কাহিনি থাকবে।",
       "videoStory": "ভিডিও কাহিনি",
+      "stayNearby": "কাছে থাকার জায়গা",
+      "stayNote": "মন্দিরের কাছে থাকার ব্যবস্থা। বুকিং Airbnb-তে খুলবে।",
       "languageName": "বাংলা"
     },
     "footer": {
@@ -1137,6 +1153,8 @@ export const strings: Record<Locale, UiStrings> = {
       "supportNote": "देणग्या थेट मंदिराच्या अधिकृत माध्यमांतून जातात.",
       "listenComingSoon": "ध्वनी कथा लवकरच येत आहेत. प्रत्येक मंदिराच्या पानावर तुमच्या भाषेत निवेदित कथा असेल.",
       "videoStory": "व्हिडिओ कथा",
+      "stayNearby": "जवळ राहण्याची सोय",
+      "stayNote": "मंदिराजवळ राहण्याची सोय. बुकिंग Airbnb वर उघडेल.",
       "languageName": "मराठी"
     },
     "footer": {
@@ -1277,6 +1295,8 @@ export const strings: Record<Locale, UiStrings> = {
       "supportNote": "ଦାନ ସିଧାସଳଖ ମନ୍ଦିରର ଆନୁଷ୍ଠାନିକ ମାଧ୍ୟମ ଦେଇ ଯାଏ।",
       "listenComingSoon": "ଅଡିଓ କାହାଣୀ ଶୀଘ୍ର ଆସୁଛି। ପ୍ରତ୍ୟେକ ମନ୍ଦିର ପୃଷ୍ଠାରେ ଆପଣଙ୍କ ଭାଷାରେ ଏକ ବର୍ଣ୍ଣିତ କାହାଣୀ ରହିବ।",
       "videoStory": "ଭିଡିଓ କାହାଣୀ",
+      "stayNearby": "ପାଖରେ ରହିବା",
+      "stayNote": "ମନ୍ଦିର ପାଖରେ ରହିବା ସ୍ଥାନ। ବୁକିଂ Airbnb ରେ ଖୋଲିବ।",
       "languageName": "ଓଡ଼ିଆ"
     },
     "footer": {

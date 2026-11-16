@@ -54,6 +54,15 @@ export interface TempleVideo {
   credit?: string;
 }
 
+// An optional, owner-curated place to stay near the temple (e.g. a homestay).
+// A practical-info link, kept distinct from the editorial prose; `url` opens an
+// external booking page. Several may be listed.
+export interface TempleStay {
+  name: string;
+  url: string;
+  note?: string;
+}
+
 export interface Temple {
   id: string;
   locale: Locale;
@@ -74,6 +83,7 @@ export interface Temple {
   hero?: TempleHero;
   audio?: TempleAudio;
   video?: TempleVideo;
+  stay?: TempleStay[];
 }
 
 // The subset of a Temple needed to list, DISPLAY, facet, and sort it — but NOT
