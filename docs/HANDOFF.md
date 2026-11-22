@@ -3,69 +3,64 @@
 **Read this first if you're picking up a shared conversation or a fresh cloud session.**
 A cloud container is ephemeral: it starts with a clean checkout and no prior chat context,
 so everything needed to continue lives here and in the two Paadal Petra docs, not in the
-conversation. Last updated: 2026-10-26.
+conversation. Last updated: 2026-11-22.
 
 ## TL;DR — where things stand
 
-- The app is **live on Cloudflare** (`temples.dsquaregee.com`). See `CLAUDE.md` for the
-  full project memory — read it; it is the source of truth.
-- **✅ Wave C — the Paadal Petra Sthalams — is CONTENT-COMPLETE (2026-10-20).** All **275**
-  Tevaram Shiva temples are in the catalog and the **`paadal-petra-sthalams` circuit is
-  live** (275 stops, 10 regional groups, 6 locales). Catalog now **520 temples × 6 locales,
-  32 circuits** (`node packages/content/scripts/validate.mjs`) — including the **Ashtadasha
-  (18) Maha Shakti Peethas** circuit added 2026-10-27 (12 new temples: Kamakhya, Kolhapur,
-  Jwalamukhi, Vishalakshi, etc.), with audio complete in all 6 locales, hero/video where CC
-  photos qualified, a native-fluent translation review (8 fixes), and SW bumped to v18.
-  Membership was reconciled strictly against the verified list; this fixed 3 prior-session
-  duplicate temples.
-- **✅ Media pipeline run & deployed (2026-10-20).** Narration **audio is complete for all
-  508 temples** (`audio.yml` → R2 sync). Hero photos + Ken Burns videos were rendered via
-  `media.yml` from qualifying Creative-Commons Wikimedia photos (gate: CC/PD, ≥2 MP,
-  landscape; hero ≥1 photo, video ≥3) and synced to R2 — **235 have a real hero, 207 a
-  video**; the rest use the honest placeholder gopuram SVG + audio-only player and fill in
-  as qualifying CC photos appear (`docs/media/photo-audit-auto.md`). SW bumped to **v14**;
-  deployed to Cloudflare (PR #74 content/circuit, PR #75 CI fixes + SW bump).
-- **Remaining for Wave C — and why each is at its true floor:**
-  1. **Translation QA — objective pass complete (2026-10-20), human fluency sign-off left.**
-     `qa-translations.mjs` is 0 errors / 0 warnings (100% native-script ratio, mirrored key
-     structure, no empty strings, no length outliers). A numeric/factual audit across all
-     508×5 locales found **zero fact/date drift** (every digit difference was a legitimate
-     word-vs-digit form, e.g. "7th"→"ഏഴാം"); the one real defect — a truncated `style` on
-     `sathyagirinatha-thirumeyyam` (te/kn/ml/hi) — was fixed. A **comprehensive fluency review of all 237 Wave-C
-     temples × 5 locales** (name/deity/summary) was completed 2026-10-20/21 (PRs #80–#83,
-     ~190 verified targeted edits): removed caste claims and unsourced "female devotee"
-     claims not in the English, fixed a wrong goddess name, a Pranava→Prana deity error,
-     "protest" mistranslations, an added "northwest of Chennai", and a catalog-wide cleanup
-     of Tamil-script letters left in te/kn/ml/hi prose. **Update 2026-10-26: the review was
-     then extended to the five long-form section fields** (history/architecture/legends/
-     festivals/experience) for **all 237 Wave-C temples × 5 locales**, run as 8 parallel
-     native-fluent batches (PRs #85–#91, ~340 further verified occurrence-checked edits):
-     Tevaram Nayanar saints mislabelled as sannyasin/sadhu/renunciant/"sant"/market-saint
-     corrected across ta/te/kn/ml; gendered pilgrim/devotee forms made neutral-honorific (ta);
-     Tamil month/star names restored over Sanskrit (kn); wrong goddess/place/demon names and
-     opposite-meaning mistranslations fixed; garbled/leaked-script words repaired. **Every
-     Wave-C field in every language is now AI-reviewed and clean.** `qa-translations.mjs`
-     stays 0/0 at 100%. **The translation gate was signed off by the owner on 2026-10-26**,
-     accepting the comprehensive AI review as sufficient for release (an optional
-     native-speaker linguistic pass may still be done post-launch as a quality enhancement,
-     but is no longer a release gate). See the Translation QA pass in
-     `docs/research/paadal-petra-sthalams.md`.
-  2. **Coordinates — verified 2026-10-20.** The 36 flagged temples were re-checked; 10 were
-     upgraded to precise sourced values, the other 26 have no precise temple coordinate
-     published anywhere and remain honest town/village-level (adequate at circuit-map scale;
-     all pass validation). See the coordinate-verification pass in
-     `docs/research/paadal-petra-sthalams.md`. Refine opportunistically only.
-  3. **Hero/video coverage is at its external ceiling.** `media.yml`'s photo audit attempted
-     **all 508** temples; 273 have no Creative-Commons/PD photo meeting the gate (≥2 MP,
-     landscape), so 235 heroes / 207 videos is the maximum the CC-sourced pipeline can
-     produce — re-running will not add more until new qualifying photos exist. Not an effort
-     gap (`docs/media/photo-audit-auto.md`).
-- (Earlier state, for reference: this workstream began at 41 of 276 in the catalog.)
-- Everything for Wave C is planned and verified:
-  - **`docs/research/paadal-petra-sthalams.md`** — the plan/manifest (decisions, counts,
-    batch order, circuit design, page-budget note, content corrections).
-  - **`docs/research/paadal-petra-sthalams-list.md`** — the full verified 276 list, region
-    by region, with the in-catalog members marked. **This is the content target.**
+- The app is **live on Cloudflare** (`temples.dsquaregee.com`, served by Workers Static
+  Assets; media/audio on R2). See `CLAUDE.md` for the full project memory — it is the
+  source of truth.
+- **Catalog: 520 temples × 9 locales, 32 circuits** (`node packages/content/scripts/validate.mjs`).
+  The 9 locales are **ta, te, kn, ml, hi, bn, mr, or, en**. Narration audio covers **8** of
+  them (all but Odia, which is text-only); Ken Burns video where ≥3 CC photos qualify
+  (~211/locale — the external photo ceiling). Service worker is at **v54**.
+- **All five phase gates are passed** (Research → UX → Build → Test/Harden → Deploy).
+  Wave C (the 275 Paadal Petra Sthalams) is content-complete and live; the translation gate
+  was owner-signed 2026-10-26 (comprehensive AI review accepted for release; an optional
+  native-speaker pass is a post-launch enhancement, not a gate). Content/media provenance for
+  Wave C is in the historical sections lower down and in the two Paadal Petra docs.
+- **🚀 Store launch is the active workstream.** The app ships as three targets from one
+  monorepo: the **PWA** (live), and **Android + iOS from the single Expo app** (`apps/mobile`,
+  bundle id `com.dsquaregee.temple`). The build+submit pipeline is built and verified — see
+  the "Store launch" section next and the runbook **`docs/store-release.md`**.
+
+## Store launch — status & what's left (2026-11-22)
+
+**Ready / verified this session:**
+- Expo app with bundle id, icons, splash, adaptive icon; EAS **build and submit** profiles
+  (`eas.json`); one-click `.github/workflows/eas-build.yml`; Apple listing metadata
+  (`apps/mobile/store.config.json`) + live `/privacy/` page; runbook `docs/store-release.md`.
+- **Clean review footprint:** the native app uses no permission-gated APIs → `permissions: []`,
+  no iOS usage-description strings. `expo export` (Metro bundle) resolves cleanly.
+- **Native parity brought up to the web** (PR #140): circuit maps now draw state boundaries +
+  names, temple pages show a locator map, and the onboarding picker offers all 9 locales (it
+  had been stuck at 6). **Native perf** (PR #141): the 500+ temple lists on Home/Discover/Listen
+  are virtualized (`FlatList`) for low-end Android, and Listen's playback clock no longer
+  re-renders the list. **Web fixes** (PR #142, deployed as SW v54): Listen player no longer
+  re-renders the whole playlist during playback, the first ▶ tap starts audio synchronously so
+  it no longer silently fails on iOS, and Discover "Clear" forgets the saved city.
+
+**Owner-only, before the stores accept anything (`docs/store-release.md` §2):**
+1. **Smoke-test a `preview` APK** (Actions → "Build mobile app (EAS)" → profile `preview`)
+   before any production submit — `FlatList` scroll/keyboard can't be exercised in CI.
+2. `EXPO_TOKEN` repo secret → the first EAS run prints the `projectId` to commit into
+   `apps/mobile/app.json` → Apple Developer + Play Console accounts and their API keys.
+3. Then: EAS production build → `eas submit` → Play internal track / TestFlight.
+
+**Web-ahead gaps (optional post-launch parity, NOT blockers):** the web has a Festivals tab +
+near-me / share / offline / push that the native 4-tab app (the locked D4 design:
+Home/Discover/Yatra/Listen) doesn't have. The 4-tab app is a complete, review-ready v1.
+
+## Wave C (Paadal Petra Sthalams) — ✅ complete, kept for provenance
+
+Wave C is done and deployed (all 275 Tevaram Shiva temples; the `paadal-petra-sthalams`
+circuit is live with 10 regional groups). The detailed in-progress log and the per-remaining
+notes that used to live here are preserved in the historical sections further down and in:
+  - **`docs/research/paadal-petra-sthalams.md`** — plan/manifest, decisions, corrections,
+    the Translation QA / coordinate-verification passes.
+  - **`docs/research/paadal-petra-sthalams-list.md`** — the full verified 276 list by region.
+Hero/video coverage is at its external CC-photo ceiling (235 heroes / 207 videos of the
+audited set); not an effort gap (`docs/media/photo-audit-auto.md`).
 
 ## How to resume in a fresh container
 
@@ -75,8 +70,9 @@ conversation. Last updated: 2026-10-26.
 2. Work on branch **`claude/temple-app-phase-1-jfbtxy`** (the default/deploy branch).
    **Commit and push after every slice** — the remote is the only durable store.
 3. Sanity-check the catalog: `node packages/content/scripts/validate.mjs`
-   (expect `✓ content valid: 261 temples × 6 locales, 29 circuits`, or higher as content
-   lands). Also `node packages/content/scripts/qa-translations.mjs`.
+   (expect `✓ content valid: 520 temples × 9 locales, 32 circuits`). Also
+   `node packages/content/scripts/qa-translations.mjs`. Run `pnpm test`, `pnpm build:web`
+   and `pnpm budget` before any deploy; `pnpm --filter mobile typecheck` for native changes.
 4. Pushing to the branch auto-deploys via Cloudflare Workers Builds (Git-connected, no
    secrets). After any change that **moves a media URL**, bump the service-worker
    `VERSION` in `apps/web/public/sw.js` (owner rule — see CLAUDE.md "Working rules").
@@ -205,6 +201,9 @@ action. See `paadal-petra-sthalams.md` → "Content corrections".
 | What | Where |
 |---|---|
 | Project memory (read first) | `CLAUDE.md` |
+| **Store release runbook (PWA / Play / App Store)** | **`docs/store-release.md`** |
+| EAS build + submit workflow | `.github/workflows/eas-build.yml`, `apps/mobile/eas.json` |
+| Apple listing metadata | `apps/mobile/store.config.json` |
 | Wave C plan / decisions / corrections | `docs/research/paadal-petra-sthalams.md` |
 | Full verified 276 list (content target) | `docs/research/paadal-petra-sthalams-list.md` |
 | Catalog expansion strategy | `docs/research/03-catalog-expansion.md` |
