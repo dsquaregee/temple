@@ -1,6 +1,7 @@
-import { useMemo, useState } from 'react';
+import { useCallback, useMemo, useState } from 'react';
 import { router, useLocalSearchParams } from 'expo-router';
-import { Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
+import { FlatList, Pressable, StyleSheet, Text, TextInput, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
 import {
   ERAS,
   SORTS,
@@ -15,7 +16,7 @@ import {
 import { getCircuits, getTemples } from '@temple/content';
 import { asLocale } from '@/lib/locale';
 import { MIN_TOUCH, radius, useTheme } from '@/lib/theme';
-import { Card, Muted, NativeName, Screen, Title } from '@/components/ui';
+import { Card, Muted, NativeName, Title } from '@/components/ui';
 
 const ERA_KEY = {
   early: 'eraEarly',
@@ -129,27 +130,28 @@ export default function DiscoverScreen() {
     setSort('featured');
   }
 
-  return (
-    <Screen>
-      <Title>{ui.tabs.discover}</Title>
+  // The catalog is 500+ temples; the default (unfiltered) view lists them all.
+  // Virtualize with FlatList so only the visible rows mount. The search box is
+  // kept pinned above the list (not in ListHeaderComponent) so typing can never
+  // remount it and drop keyboard focus; the facets scroll with the results.
+  const renderCard = useCallback(
+    ({ item: tp }: { item: (typeof results)[number] }) => (
+      <Card onPress={() => router.push(`/${locale}/temples/${tp.id}`)}>
+        <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
+          {tp.name}
+        </Text>
+        <NativeName>{tp.nativeName}</NativeName>
+        <Muted>
+          {tp.location.city}, {tp.location.state}
+          {tp.unesco ? ` · ${ui.labels.unesco}` : ''}
+        </Muted>
+      </Card>
+    ),
+    [colors, locale, ui],
+  );
 
-      <TextInput
-        value={query}
-        onChangeText={setQuery}
-        placeholder={d.searchPlaceholder}
-        placeholderTextColor={colors.inkMuted}
-        returnKeyType="search"
-        clearButtonMode="while-editing"
-        style={[
-          styles.search,
-          {
-            backgroundColor: colors.bgRaised,
-            borderColor: colors.line,
-            color: colors.inkStrong,
-          },
-        ]}
-      />
-
+  const facets = (
+    <>
       {circuits.length > 0 && (
         <FacetRow label={d.circuit}>
           <Pill label={d.all} active={circuit === 'all'} onPress={() => setCircuit('all')} />
@@ -208,28 +210,56 @@ export default function DiscoverScreen() {
           </Pressable>
         )}
       </View>
+    </>
+  );
 
-      {results.length > 0 ? (
-        results.map((tp) => (
-          <Card key={tp.id} onPress={() => router.push(`/${locale}/temples/${tp.id}`)}>
-            <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
-              {tp.name}
-            </Text>
-            <NativeName>{tp.nativeName}</NativeName>
-            <Muted>
-              {tp.location.city}, {tp.location.state}
-              {tp.unesco ? ` · ${ui.labels.unesco}` : ''}
-            </Muted>
-          </Card>
-        ))
-      ) : (
-        <Text style={[styles.empty, { color: colors.inkMuted }]}>{d.none}</Text>
-      )}
-    </Screen>
+  return (
+    <SafeAreaView edges={['top']} style={[styles.safe, { backgroundColor: colors.bgBase }]}>
+      <View style={styles.pinned}>
+        <Title>{ui.tabs.discover}</Title>
+        <TextInput
+          value={query}
+          onChangeText={setQuery}
+          placeholder={d.searchPlaceholder}
+          placeholderTextColor={colors.inkMuted}
+          returnKeyType="search"
+          clearButtonMode="while-editing"
+          style={[
+            styles.search,
+            {
+              backgroundColor: colors.bgRaised,
+              borderColor: colors.line,
+              color: colors.inkStrong,
+            },
+          ]}
+        />
+      </View>
+
+      <FlatList
+        data={results}
+        keyExtractor={(tp) => tp.id}
+        renderItem={renderCard}
+        ListHeaderComponent={facets}
+        ListEmptyComponent={
+          <Text style={[styles.empty, { color: colors.inkMuted }]}>{d.none}</Text>
+        }
+        keyboardShouldPersistTaps="handled"
+        keyboardDismissMode="on-drag"
+        showsVerticalScrollIndicator={false}
+        contentContainerStyle={styles.listContent}
+        initialNumToRender={10}
+        maxToRenderPerBatch={10}
+        windowSize={11}
+        removeClippedSubviews
+      />
+    </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
+  safe: { flex: 1 },
+  pinned: { paddingHorizontal: 16, paddingTop: 16 },
+  listContent: { paddingHorizontal: 16, paddingBottom: 32 },
   search: {
     minHeight: MIN_TOUCH,
     borderWidth: StyleSheet.hairlineWidth,
