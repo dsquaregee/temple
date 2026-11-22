@@ -28,6 +28,7 @@ import { AudioStory } from '@/components/AudioStory';
 import { VideoStory } from '@/components/VideoStory';
 import { MusicCta } from '@/components/MusicCta';
 import { StayLink } from '@/components/StayLink';
+import { CircuitMap } from '@/components/CircuitMap';
 import { TEMPLE_MUSIC_PLAYLIST } from '@/lib/site';
 
 export const dynamicParams = false;
@@ -259,6 +260,21 @@ export default function TempleDetail({
           ))}
         </div>
       )}
+
+      {/* Locator map — where this temple sits, with state boundaries + names so
+          the visitor can place it. Zoomed out from the single pin via minSpan. */}
+      <CircuitMap
+        circuitName={`${temple.location.city}, ${temple.location.state}`}
+        temples={[temple]}
+        locale={locale}
+        title={ui.labels.routeMap}
+        note=""
+        orderLabel={ui.labels.drivingOrder}
+        routeTotalLabel={ui.labels.routeTotal}
+        routeEstimateLabel={ui.labels.routeEstimate}
+        units={{ km: ui.labels.unitKm, hr: ui.labels.unitHr, min: ui.labels.unitMin }}
+        minSpan={2.5}
+      />
 
       <AudioStory temple={temple} ui={ui} />
 

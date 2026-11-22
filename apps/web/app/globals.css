@@ -1282,6 +1282,8 @@ a {
   --map-coast: #c9b48a;
   --map-tower: #c58a5a;
   --map-tower-edge: #9c5f34;
+  --map-state: #c0a06a;
+  --map-state-label: #9a8356;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -1292,7 +1294,26 @@ a {
     --map-coast: #4a3d2c;
     --map-tower: #b87a48;
     --map-tower-edge: #d89a63;
+    --map-state: #5f4e37;
+    --map-state-label: #8a7452;
   }
+}
+/* State boundaries + names, drawn faintly under the route for orientation. */
+.cmap-state {
+  fill: none;
+  stroke: var(--map-state);
+  stroke-width: 1;
+  stroke-dasharray: 2 3;
+  opacity: 0.7;
+}
+.cmap-state-label {
+  fill: var(--map-state-label);
+  font-family: var(--font-ui);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  opacity: 0.6;
 }
 .cmap {
   margin: 4px 0 20px;
@@ -1833,4 +1854,56 @@ a {
   color: var(--accent-turmeric);
   font-size: 15px;
   margin-right: -2px;
+}
+
+/* Prominent home search — routes to the Discover tab (?q=). */
+.home-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 5px 5px 5px 16px;
+}
+.home-search:focus-within {
+  border-color: var(--accent-turmeric);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent-turmeric) 25%, transparent);
+}
+.home-search__icon {
+  font-size: 17px;
+  opacity: 0.65;
+}
+.home-search__input {
+  flex: 1;
+  min-width: 0;
+  font: inherit;
+  font-size: 16px;
+  border: none;
+  background: transparent;
+  color: var(--ink-strong);
+  padding: 11px 0;
+}
+.home-search__input::placeholder {
+  color: var(--ink-muted);
+}
+.home-search__input:focus {
+  outline: none;
+}
+.home-search__btn {
+  flex: 0 0 auto;
+  font: inherit;
+  font-weight: 700;
+  color: #fff;
+  background: var(--accent-vermilion);
+  border: none;
+  border-radius: 999px;
+  padding: 11px 20px;
+  min-height: 46px;
+  cursor: pointer;
+}
+.home-search__btn:hover,
+.home-search__btn:focus-visible {
+  background: var(--accent-vermilion-strong, var(--accent-vermilion));
+  filter: brightness(1.05);
 }

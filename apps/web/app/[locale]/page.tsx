@@ -126,6 +126,26 @@ export default function HomePage({ params }: { params: { locale: Locale } }) {
         initialIndex={initialIndex}
       />
 
+      {/* Prominent search — a native GET form to the Discover tab, which seeds
+          its search from ?q=. Zero JS, same-origin (CSP form-action 'self'). */}
+      <section className="section">
+        <form className="home-search" action={`/${locale}/temples/`} method="get" role="search">
+          <span className="home-search__icon" aria-hidden="true">🔍</span>
+          <input
+            className="home-search__input"
+            type="search"
+            name="q"
+            placeholder={ui.discover.searchPlaceholder}
+            aria-label={ui.discover.searchPlaceholder}
+            enterKeyHint="search"
+            autoComplete="off"
+          />
+          <button className="home-search__btn" type="submit">
+            {ui.discover.search}
+          </button>
+        </form>
+      </section>
+
       <section className="section">
         <a className="nearme-cta" href={`/${locale}/temples/?near=1`}>
           <span aria-hidden="true">📍</span> {ui.discover.templesNearYou}
