@@ -47,7 +47,7 @@ test('header and meta CSP allow the same external script hosts', () => {
 
   // The meta template's script-src, minus the per-page hashes it appends.
   const meta = metaFor('<script>run();</script>')!;
-  const metaContent = /content="([^"]*)"/.exec(meta)![1];
+  const metaContent = /content="([^"]*)"/.exec(meta)?.[1] ?? '';
   const metaHosts = hosts(directive(metaContent, 'script-src'));
 
   assert.deepEqual(
@@ -64,6 +64,6 @@ test('EXTRA_SCRIPT_SRC is the meta template source of external script hosts', ()
   // deploy-readiness runbook points at. Guards against hosts being hard-coded
   // into metaFor() out of band.
   const meta = metaFor('<script>run();</script>')!;
-  const metaContent = /content="([^"]*)"/.exec(meta)![1];
+  const metaContent = /content="([^"]*)"/.exec(meta)?.[1] ?? '';
   assert.deepEqual(hosts(directive(metaContent, 'script-src')), [...EXTRA_SCRIPT_SRC].sort());
 });

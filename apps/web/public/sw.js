@@ -82,7 +82,12 @@
 // the large compact circuits. Purge so returning visitors get the fix.
 // v44: circuit pages now show per-leg distance + drive-time estimates and a
 // circuit total under each route map. Purge so returning visitors get them.
-const VERSION = 'v53';
+// v54: Listen player hardening — playback time no longer re-renders the whole
+// 500+ row playlist (memoized rows), and the first ▶ tap now starts audio
+// synchronously within the gesture so it no longer silently fails on iOS; plus
+// Discover "Clear" / removing the 📍 chip now forgets the saved city. Purge so
+// returning visitors get the fixed Listen/Discover pages and scripts.
+const VERSION = 'v54';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
