@@ -5,7 +5,10 @@ import { LOCALE_LABELS, type Locale } from '@/lib/locale';
 import { radius, useTheme, fonts } from '@/lib/theme';
 
 // Onboarding screen 1 (design D4): language picker, native scripts leading.
-const ORDER: Locale[] = ['ta', 'te', 'kn', 'ml', 'hi', 'en'];
+// All nine shipped locales, in the same order as the web picker
+// (apps/web/app/page.tsx). Bengali/Marathi are narrated; Odia is text-only
+// (the Listen card shows its "coming soon" fallback), matching the web catalog.
+const ORDER: Locale[] = ['ta', 'te', 'kn', 'ml', 'hi', 'bn', 'mr', 'or', 'en'];
 
 export default function LanguagePicker() {
   const { colors } = useTheme();
