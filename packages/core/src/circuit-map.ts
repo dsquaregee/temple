@@ -39,6 +39,10 @@ export interface CircuitMapLayout {
   height: number;
   /** SVG path data for land, already clipped to the view. Empty if none. */
   landPath: string;
+  /** SVG path data for all visible state boundaries, clipped to the view. */
+  statePath: string;
+  /** State name labels whose centroid falls within the view, for orientation. */
+  stateLabels: { x: number; y: number; name: string }[];
   /** SVG path data for the route through the stops in order. */
   routePath: string;
   pins: { n: number; id: string; x: number; y: number }[];
@@ -196,6 +200,28 @@ export function clipRing(ring: Pt[], x0: number, y0: number, x1: number, y1: num
 }
 
 const r1 = (v: number) => Math.round(v * 10) / 10;
+
+// Signed area and area-weighted centroid of a polygon ring (for placing a
+// state's name at the middle of its largest visible piece).
+function polyArea(r: Pt[]): number {
+  let a = 0;
+  for (let i = 0, n = r.length; i < n; i++) {
+    const p = r[i]!, q = r[(i + 1) % n]!;
+    a += p[0] * q[1] - q[0] * p[1];
+  }
+  return a / 2;
+}
+function polyCentroid(r: Pt[]): Pt {
+  let x = 0, y = 0, a = 0;
+  for (let i = 0, n = r.length; i < n; i++) {
+    const p = r[i]!, q = r[(i + 1) % n]!;
+    const f = p[0] * q[1] - q[0] * p[1];
+    a += f; x += (p[0] + q[0]) * f; y += (p[1] + q[1]) * f;
+  }
+  if (!a) return r[0] ?? [0, 0];
+  a *= 0.5;
+  return [x / (6 * a), y / (6 * a)];
+}
 
 // Catmull-Rom through the points, emitted as cubic Béziers: a road-like curve
 // that still passes exactly through every pin.
@@ -361,16 +387,22 @@ export function separateDots(pts: { x: number; y: number }[], minDist: number, W
   }
 }
 
+export interface StateShape {
+  name: string;
+  rings: number[][][];
+  label: number[] | null;
+}
+
 export function layoutCircuitMap(
   stops: MapStop[],
   land: number[][][],
-  opts: { offset?: number } = {}
+  opts: { offset?: number; states?: StateShape[]; minSpan?: number } = {}
 ): CircuitMapLayout {
   // `offset` continues numbering across a grouped circuit's sections.
   const offset = opts.offset ?? 0;
   const valid = stops.filter((s) => Number.isFinite(s.lat) && Number.isFinite(s.lng));
   if (!valid.length) {
-    return { width: MAP_WIDTH, height: 0, landPath: '', routePath: '', pins: [], labels: [], order: [], route: { legsKm: [], legsMin: [], totalKm: 0, totalMin: 0 }, mode: 'labels', scale: { x: 0, y: 0, length: 0, label: '' } };
+    return { width: MAP_WIDTH, height: 0, landPath: '', statePath: '', stateLabels: [], routePath: '', pins: [], labels: [], order: [], route: { legsKm: [], legsMin: [], totalKm: 0, totalMin: 0 }, mode: 'labels', scale: { x: 0, y: 0, length: 0, label: '' } };
   }
   const lats = valid.map((s) => s.lat);
   const midLat = (Math.min(...lats) + Math.max(...lats)) / 2;
@@ -382,7 +414,8 @@ export function layoutCircuitMap(
   const xs = valid.map((s) => px(s.lng));
   const ys = valid.map((s) => py(s.lat));
   // Minimum extent (~4 km) so shrines in one town don't collapse to a point.
-  const MIN_SPAN = 0.04;
+  // A locator map (one temple) passes a larger minSpan to zoom out for context.
+  const MIN_SPAN = opts.minSpan ?? 0.04;
   const spanX = Math.max(Math.max(...xs) - Math.min(...xs), MIN_SPAN);
   const spanY = Math.max(Math.max(...ys) - Math.min(...ys), MIN_SPAN);
   const cx = (Math.max(...xs) + Math.min(...xs)) / 2;
@@ -512,6 +545,39 @@ export function layoutCircuitMap(
     .filter(Boolean)
     .join('');
 
+  // State boundaries: project + clip each state's rings to the frame (one shared
+  // path). Label a state at the centroid of its largest *visible* piece (so a
+  // partly-shown state is still named in the right place), but only when that
+  // piece is a meaningful share of the frame — not a thin sliver — and the name
+  // fits. This is what lets a viewer tell which state each stop sits in.
+  let statePath = '';
+  const stateLabels: { x: number; y: number; name: string }[] = [];
+  const MIN_LABEL_AREA = W * H * 0.02;
+  for (const st of opts.states ?? []) {
+    let biggest: Pt[] | null = null;
+    let biggestArea = 0;
+    for (const ring of st.rings) {
+      const proj = ring.map((p): Pt => [f.toX(p[0] ?? 0), f.toY(p[1] ?? 0)]);
+      const clipped = clipRing(proj, -M, -M, W + M, H + M);
+      const kept: Pt[] = [];
+      for (const p of clipped) {
+        const last = kept[kept.length - 1];
+        if (!last || Math.hypot(p[0] - last[0], p[1] - last[1]) > 2) kept.push(p);
+      }
+      if (kept.length < 3) continue;
+      statePath += `M${kept.map((p) => `${r1(p[0])} ${r1(p[1])}`).join('L')}Z`;
+      const a = Math.abs(polyArea(kept));
+      if (a > biggestArea) { biggestArea = a; biggest = kept; }
+    }
+    if (!biggest || biggestArea < MIN_LABEL_AREA) continue;
+    const [cxp, cyp] = polyCentroid(biggest);
+    // Clamp so the uppercase name doesn't spill past the frame edges.
+    const halfW = estimateTextWidth(st.name.toUpperCase(), 15) * 0.62;
+    const lx = Math.min(W - halfW - 8, Math.max(halfW + 8, cxp));
+    const ly = Math.min(H - 26, Math.max(22, cyp));
+    stateLabels.push({ x: r1(lx), y: r1(ly), name: st.name });
+  }
+
   // Scale bar ≈ a fifth of the frame width, rounded to a friendly distance.
   const kmPerUnit = KM_PER_DEG / f.s;
   const km = niceKm((W / 5) * kmPerUnit);
@@ -523,5 +589,5 @@ export function layoutCircuitMap(
   const routePath = smoothPath(order.map((i) => pins[i]!));
   const route = routeStats(order.map((i) => valid[i]!));
 
-  return { width: W, height: H, landPath, routePath, pins, labels, order: order.map((i) => i + 1 + offset), route, mode, scale };
+  return { width: W, height: H, landPath, statePath, stateLabels, routePath, pins, labels, order: order.map((i) => i + 1 + offset), route, mode, scale };
 }

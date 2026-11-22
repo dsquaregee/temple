@@ -11,6 +11,7 @@ export interface UiStrings {
   };
   discover: {
     searchPlaceholder: string;
+    search: string;
     circuit: string;
     region: string;
     era: string;
@@ -133,6 +134,7 @@ export const strings: Record<Locale, UiStrings> = {
     favorites: { save: 'Save', saved: 'Saved', savedTitle: 'Saved temples' },
     discover: {
       searchPlaceholder: 'Search temples, deities, places…',
+      search: 'Search',
       circuit: 'Circuit',
       region: 'Region',
       era: 'Era',
@@ -266,6 +268,7 @@ export const strings: Record<Locale, UiStrings> = {
     favorites: { save: 'சேமி', saved: 'சேமித்தது', savedTitle: 'சேமித்த கோயில்கள்' },
     discover: {
       searchPlaceholder: 'கோயில், மூலவர், ஊர் தேடுங்கள்…',
+      search: 'தேடு',
       circuit: 'வழித்தடம்',
       region: 'பகுதி',
       era: 'காலம்',
@@ -399,6 +402,7 @@ export const strings: Record<Locale, UiStrings> = {
     favorites: { save: 'భద్రపరచు', saved: 'భద్రపరచబడింది', savedTitle: 'భద్రపరచిన ఆలయాలు' },
     discover: {
       searchPlaceholder: 'ఆలయాలు, దేవతలు, ప్రదేశాల కోసం వెతకండి…',
+      search: 'వెతుకు',
       circuit: 'మార్గం',
       region: 'ప్రాంతం',
       era: 'కాలం',
@@ -532,6 +536,7 @@ export const strings: Record<Locale, UiStrings> = {
     favorites: { save: 'ಉಳಿಸಿ', saved: 'ಉಳಿಸಲಾಗಿದೆ', savedTitle: 'ಉಳಿಸಿದ ದೇವಾಲಯಗಳು' },
     discover: {
       searchPlaceholder: 'ದೇವಾಲಯ, ದೇವರು, ಸ್ಥಳ ಹುಡುಕಿ…',
+      search: 'ಹುಡುಕು',
       circuit: 'ಮಾರ್ಗ',
       region: 'ಪ್ರದೇಶ',
       era: 'ಕಾಲ',
@@ -665,6 +670,7 @@ export const strings: Record<Locale, UiStrings> = {
     favorites: { save: 'സൂക്ഷിക്കൂ', saved: 'സൂക്ഷിച്ചു', savedTitle: 'സൂക്ഷിച്ച ക്ഷേത്രങ്ങൾ' },
     discover: {
       searchPlaceholder: 'ക്ഷേത്രം, പ്രതിഷ്ഠ, സ്ഥലം തിരയുക…',
+      search: 'തിരയുക',
       circuit: 'പാത',
       region: 'പ്രദേശം',
       era: 'കാലഘട്ടം',
@@ -798,6 +804,7 @@ export const strings: Record<Locale, UiStrings> = {
     favorites: { save: 'सहेजें', saved: 'सहेजा गया', savedTitle: 'सहेजे गए मंदिर' },
     discover: {
       searchPlaceholder: 'मंदिर, देवता, स्थान खोजें…',
+      search: 'खोजें',
       circuit: 'मार्ग',
       region: 'क्षेत्र',
       era: 'काल',
@@ -941,6 +948,7 @@ export const strings: Record<Locale, UiStrings> = {
     },
     "discover": {
       "searchPlaceholder": "মন্দির, দেবতা, স্থান খুঁজুন…",
+      "search": "খুঁজুন",
       "circuit": "পথ",
       "region": "অঞ্চল",
       "era": "যুগ",
@@ -1085,6 +1093,7 @@ export const strings: Record<Locale, UiStrings> = {
     },
     "discover": {
       "searchPlaceholder": "मंदिरे, देवता, स्थळे शोधा…",
+      "search": "शोधा",
       "circuit": "मार्ग",
       "region": "प्रदेश",
       "era": "काळ",
@@ -1229,6 +1238,7 @@ export const strings: Record<Locale, UiStrings> = {
     },
     "discover": {
       "searchPlaceholder": "ମନ୍ଦିର, ଦେବତା, ସ୍ଥାନ ଖୋଜନ୍ତୁ…",
+      "search": "ଖୋଜନ୍ତୁ",
       "circuit": "ପରିକ୍ରମା",
       "region": "ଅଞ୍ଚଳ",
       "era": "କାଳ",

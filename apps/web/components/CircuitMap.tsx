@@ -1,4 +1,4 @@
-import { DOT_R, layoutCircuitMap, SOUTH_ASIA_LAND, type Temple } from '@temple/core';
+import { DOT_R, INDIA_STATES, layoutCircuitMap, SOUTH_ASIA_LAND, type Temple } from '@temple/core';
 
 // Illustrated route map for a circuit: a warm parchment land, a golden route
 // threading the stops in pilgrimage order, gopuram tower markers with numbered
@@ -28,6 +28,7 @@ export function CircuitMap({
   routeEstimateLabel,
   units,
   offset = 0,
+  minSpan,
 }: {
   circuitName: string;
   temples: Temple[];
@@ -40,6 +41,9 @@ export function CircuitMap({
   units: { km: string; hr: string; min: string };
   /** Numbering offset for a grouped circuit's later sections. */
   offset?: number;
+  /** Minimum map extent (projection units ≈ degrees) — a single-temple locator
+      passes a larger value to zoom out and show the surrounding state(s). */
+  minSpan?: number;
 }) {
   const layout = layoutCircuitMap(
     temples.map((t) => ({
@@ -50,7 +54,7 @@ export function CircuitMap({
       lng: t.location.lng,
     })),
     SOUTH_ASIA_LAND,
-    { offset }
+    { offset, states: INDIA_STATES, minSpan }
   );
   if (!layout.pins.length) return null;
   const { width: W, height: H } = layout;
@@ -142,6 +146,15 @@ export function CircuitMap({
             <path className="cmap-land-texture" d={layout.landPath} fill={`url(#cmap-paper-${offset})`} />
           </>
         )}
+
+        {/* State boundaries + names, so a viewer can place each stop. Drawn faint,
+            under the route and markers. */}
+        {layout.statePath && <path className="cmap-state" d={layout.statePath} />}
+        {layout.stateLabels.map((s) => (
+          <text key={s.name} className="cmap-state-label" x={s.x} y={s.y} textAnchor="middle">
+            {s.name}
+          </text>
+        ))}
 
         {/* Route: glow under, solid line, and flowing centre dashes. The dash is
             animated continuously, so it's limited to label-mode maps (few, short

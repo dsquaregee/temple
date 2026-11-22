@@ -194,6 +194,15 @@ numbered dots; circuits with `groups` get an overview page + one page per region
 (Natural Earth, `apps/web/scripts/gen-land-outline.mjs`). Numbering = official `stops` order; the
 gold route line follows a **suggested driving order** (shortest path, `drivingOrder()`), captioned
 under the map. Native app: same layout via react-native-svg (`apps/mobile/components/CircuitMap.tsx`).
+Under the route, **state boundaries + names** are drawn faintly for orientation
+(`packages/core/geo/india-states.json`, dissolved from district polygons — see
+`apps/web/scripts/gen-state-outlines.mjs`; projected/clipped per map, labels only
+where a state's visible piece is big enough). Each **temple page** also shows a
+**locator map** (the single temple at `minSpan`, so the surrounding state shows).
+The geo JSON is server-only: `@temple/core` is `"sideEffects": false` so the
+~200 KB of land+state data tree-shakes out of client bundles (it had been
+leaking before). The home screen has a **prominent search box** that GETs to the
+Discover tab (`/temples/?q=`).
 
 ## Repo layout
 
