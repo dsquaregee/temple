@@ -1,6 +1,8 @@
+import { useCallback } from 'react';
 import { router, useLocalSearchParams } from 'expo-router';
-import { Text, View } from 'react-native';
-import { colorForTemple, epochDay, indexOfDay, t } from '@temple/core';
+import { FlatList, StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { colorForTemple, epochDay, indexOfDay, t, type Temple } from '@temple/core';
 import { getCircuits, getTemples } from '@temple/content';
 import { asLocale } from '@/lib/locale';
 import { useTheme } from '@/lib/theme';
@@ -10,7 +12,6 @@ import {
   Hero,
   Muted,
   NativeName,
-  Screen,
   SectionHeading,
 } from '@/components/ui';
 
@@ -27,8 +28,26 @@ export default function HomeScreen() {
   const { ids: savedIds, ready: favReady } = useFavorites();
   const saved = favReady ? temples.filter((tp) => savedIds.includes(tp.id)) : [];
 
-  return (
-    <Screen>
+  // The "All temples" list is the full 500+ catalog, so it is virtualized with
+  // FlatList — only the visible rows mount. Everything above it (featured,
+  // saved, circuits) rides in ListHeaderComponent.
+  const renderCard = useCallback(
+    ({ item: tp }: { item: Temple }) => (
+      <Card onPress={() => router.push(`/${locale}/temples/${tp.id}`)}>
+        <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
+          {tp.name}
+        </Text>
+        <NativeName>{tp.nativeName}</NativeName>
+        <Muted>
+          {tp.location.city}, {tp.location.state} · {tp.dynasty}
+        </Muted>
+      </Card>
+    ),
+    [colors, locale],
+  );
+
+  const header = (
+    <>
       {featured && (
         <Card onPress={() => router.push(`/${locale}/temples/${featured.id}`)}>
           <Hero color={colorForTemple(featured.id)}>
@@ -76,18 +95,29 @@ export default function HomeScreen() {
       ))}
 
       <SectionHeading>{ui.labels.allTemples}</SectionHeading>
-      {temples.map((tp) => (
-        <Card key={tp.id} onPress={() => router.push(`/${locale}/temples/${tp.id}`)}>
-          <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
-            {tp.name}
-          </Text>
-          <NativeName>{tp.nativeName}</NativeName>
-          <Muted>
-            {tp.location.city}, {tp.location.state} · {tp.dynasty}
-          </Muted>
-        </Card>
-      ))}
-      <View style={{ height: 8 }} />
-    </Screen>
+    </>
+  );
+
+  return (
+    <SafeAreaView edges={['top']} style={[styles.safe, { backgroundColor: colors.bgBase }]}>
+      <FlatList
+        data={temples}
+        keyExtractor={(tp) => tp.id}
+        renderItem={renderCard}
+        ListHeaderComponent={header}
+        ListFooterComponent={<View style={{ height: 8 }} />}
+        showsVerticalScrollIndicator={false}
+        contentContainerStyle={styles.content}
+        initialNumToRender={10}
+        maxToRenderPerBatch={10}
+        windowSize={11}
+        removeClippedSubviews
+      />
+    </SafeAreaView>
   );
 }
+
+const styles = StyleSheet.create({
+  safe: { flex: 1 },
+  content: { padding: 16, paddingBottom: 32 },
+});

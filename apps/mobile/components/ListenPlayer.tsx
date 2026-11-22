@@ -1,5 +1,5 @@
-import { useCallback, useEffect, useRef, useState } from 'react';
-import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { FlatList, Pressable, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Audio } from 'expo-av';
 import { router } from 'expo-router';
@@ -14,11 +14,22 @@ import {
 import { radius, useTheme } from '@/lib/theme';
 import { Card, NativeName, Title } from '@/components/ui';
 
+// A playlist row: either a narrated temple that can be played (with its index
+// into `ready`), or an upcoming (not-yet-narrated) temple that links to its page.
+type Row =
+  | { kind: 'ready'; temple: Temple; readyIndex: number }
+  | { kind: 'upcoming'; temple: Temple };
+
 // The Listen tab as a player (parity with the web ListenPlayer). Narrated
 // temples form a playlist: tapping one streams its narration in a bottom
 // now-playing bar, prev/next step through the set (wrapping, auto-advancing on
 // finish). Nothing loads until the first tap — cheap on 4G. The temple page
 // prose remains the accessible transcript.
+//
+// Perf: the list is virtualized (FlatList) so only visible rows mount — the
+// catalog is 500+ temples. Playback position ticks several times a second;
+// those drive only the bottom bar, and `extraData` is limited to the active
+// index + play/pause state, so the rows are NOT reconciled on every tick.
 export function ListenPlayer({
   locale,
   ui,
@@ -29,7 +40,7 @@ export function ListenPlayer({
   temples: Temple[];
 }) {
   const { colors } = useTheme();
-  const { ready, upcoming } = buildPlaylist(temples);
+  const { ready, upcoming } = useMemo(() => buildPlaylist(temples), [temples]);
 
   const [index, setIndex] = useState<number | null>(null);
   const [playing, setPlaying] = useState(false);
@@ -101,78 +112,107 @@ export function ListenPlayer({
     else await soundRef.current.playAsync();
   }, [busy, playing]);
 
-  const onCardPress = (i: number) => {
-    if (index === i) void toggle();
-    else void loadAndPlay(i);
-  };
+  const onReadyPress = useCallback(
+    (i: number) => {
+      if (index === i) void toggle();
+      else void loadAndPlay(i);
+    },
+    [index, toggle, loadAndPlay],
+  );
+
+  const data = useMemo<Row[]>(
+    () => [
+      ...ready.map((temple, readyIndex) => ({ kind: 'ready' as const, temple, readyIndex })),
+      ...upcoming.map((temple) => ({ kind: 'upcoming' as const, temple })),
+    ],
+    [ready, upcoming],
+  );
+
+  // Only the active index + play/pause affect how a row renders; position does
+  // not, so it is deliberately excluded from extraData (and thus from the row
+  // memoization key) to keep playback ticks off the list.
+  const renderItem = useCallback(
+    ({ item }: { item: Row }) => {
+      if (item.kind === 'ready') {
+        const active = index === item.readyIndex;
+        return (
+          <Card onPress={() => onReadyPress(item.readyIndex)}>
+            <View style={styles.row}>
+              <View style={{ flexShrink: 1 }}>
+                <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
+                  {item.temple.name}
+                </Text>
+                <NativeName>{item.temple.nativeName}</NativeName>
+              </View>
+              <Text
+                accessibilityLabel={`${active && playing ? ui.listen.pause : ui.listen.play}: ${item.temple.name}`}
+                style={{ color: colors.accentLeaf, fontSize: 16 }}
+              >
+                {active && playing ? '❚❚' : '▶'}
+              </Text>
+            </View>
+          </Card>
+        );
+      }
+      return (
+        <Card onPress={() => router.push(`/${locale}/temples/${item.temple.id}`)}>
+          <View style={styles.row}>
+            <View style={{ flexShrink: 1 }}>
+              <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
+                {item.temple.name}
+              </Text>
+              <NativeName>{item.temple.nativeName}</NativeName>
+            </View>
+            <Text style={{ color: colors.inkMuted, fontSize: 16 }}>···</Text>
+          </View>
+        </Card>
+      );
+    },
+    [index, playing, colors, locale, ui, onReadyPress],
+  );
+
+  const header = useMemo(
+    () => (
+      <>
+        <Title>{ui.tabs.listen}</Title>
+        {ready.length === 0 && (
+          <View
+            style={{
+              borderColor: colors.line,
+              borderWidth: StyleSheet.hairlineWidth,
+              borderStyle: 'dashed',
+              borderRadius: radius.card,
+              padding: 16,
+              marginVertical: 12,
+            }}
+          >
+            <Text style={{ color: colors.inkStrong, fontWeight: '600', marginBottom: 4 }}>
+              ♪ {ui.tabs.listen}
+            </Text>
+            <Text style={{ color: colors.inkMuted, fontSize: 14 }}>{ui.labels.listenComingSoon}</Text>
+          </View>
+        )}
+      </>
+    ),
+    [ui, ready.length, colors],
+  );
 
   return (
     <SafeAreaView edges={['top']} style={[styles.safe, { backgroundColor: colors.bgBase }]}>
       <View style={styles.fill}>
-        <ScrollView
-          contentContainerStyle={[styles.scroll, current ? styles.scrollWithBar : null]}
+        <FlatList
+          data={data}
+          keyExtractor={(item) => item.temple.id}
+          renderItem={renderItem}
+          extraData={`${index ?? ''}:${playing}`}
+          ListHeaderComponent={header}
           showsVerticalScrollIndicator={false}
-        >
-          <Title>{ui.tabs.listen}</Title>
-
-          {ready.length === 0 && (
-            <View
-              style={{
-                borderColor: colors.line,
-                borderWidth: StyleSheet.hairlineWidth,
-                borderStyle: 'dashed',
-                borderRadius: radius.card,
-                padding: 16,
-                marginVertical: 12,
-              }}
-            >
-              <Text style={{ color: colors.inkStrong, fontWeight: '600', marginBottom: 4 }}>
-                ♪ {ui.tabs.listen}
-              </Text>
-              <Text style={{ color: colors.inkMuted, fontSize: 14 }}>
-                {ui.labels.listenComingSoon}
-              </Text>
-            </View>
-          )}
-
-          {ready.map((tp, i) => {
-            const active = index === i;
-            return (
-              <Card key={tp.id} onPress={() => onCardPress(i)}>
-                <View style={styles.row}>
-                  <View style={{ flexShrink: 1 }}>
-                    <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
-                      {tp.name}
-                    </Text>
-                    <NativeName>{tp.nativeName}</NativeName>
-                  </View>
-                  <Text
-                    accessibilityLabel={`${active && playing ? ui.listen.pause : ui.listen.play}: ${tp.name}`}
-                    style={{ color: colors.accentLeaf, fontSize: 16 }}
-                  >
-                    {active && playing ? '❚❚' : '▶'}
-                  </Text>
-                </View>
-              </Card>
-            );
-          })}
-
-          {upcoming.map((tp) => (
-            <Card key={tp.id} onPress={() => router.push(`/${locale}/temples/${tp.id}`)}>
-              <View style={styles.row}>
-                <View style={{ flexShrink: 1 }}>
-                  <Text style={{ color: colors.inkStrong, fontSize: 18, fontWeight: '600' }}>
-                    {tp.name}
-                  </Text>
-                  <NativeName>{tp.nativeName}</NativeName>
-                </View>
-                <Text style={{ color: colors.inkMuted, fontSize: 16 }}>···</Text>
-              </View>
-            </Card>
-          ))}
-
-          <View style={{ height: 8 }} />
-        </ScrollView>
+          contentContainerStyle={[styles.scroll, current ? styles.scrollWithBar : null]}
+          initialNumToRender={10}
+          maxToRenderPerBatch={10}
+          windowSize={11}
+          removeClippedSubviews
+        />
 
         {current && (
           <View
