@@ -18,6 +18,7 @@ import {
 } from '@/components/ui';
 import { AudioStoryCard, VideoStoryCard } from '@/components/media';
 import { SaveButton } from '@/components/SaveButton';
+import { CircuitMap } from '@/components/CircuitMap';
 
 export default function TempleDetailScreen() {
   const params = useLocalSearchParams<{ locale: string; id: string }>();
@@ -121,6 +122,20 @@ export default function TempleDetailScreen() {
           ))}
         </View>
       )}
+
+      {/* Locator map — where this temple sits, with state context. */}
+      <CircuitMap
+        temples={[temple]}
+        locale={locale}
+        title={ui.labels.routeMap}
+        circuitName={`${temple.location.city}, ${temple.location.state}`}
+        note=""
+        orderLabel={ui.labels.drivingOrder}
+        routeTotalLabel={ui.labels.routeTotal}
+        routeEstimateLabel={ui.labels.routeEstimate}
+        units={{ km: ui.labels.unitKm, hr: ui.labels.unitHr, min: ui.labels.unitMin }}
+        minSpan={2.5}
+      />
 
       <AudioStoryCard temple={temple} ui={ui} />
       <VideoStoryCard temple={temple} ui={ui} />

@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { AccessibilityInfo, Animated, Easing, Text, View } from 'react-native';
 import Svg, { Circle, Ellipse, G, Line, Path, Rect, Text as SvgText } from 'react-native-svg';
 import { router } from 'expo-router';
-import { DOT_R, layoutCircuitMap, SOUTH_ASIA_LAND, type Temple } from '@temple/core';
+import { DOT_R, INDIA_STATES, layoutCircuitMap, SOUTH_ASIA_LAND, type Temple } from '@temple/core';
 import { useTheme } from '@/lib/theme';
 
 // Native counterpart of the web circuit route map (apps/web/components/
@@ -32,6 +32,7 @@ export function CircuitMap({
   routeEstimateLabel,
   units,
   offset = 0,
+  minSpan,
 }: {
   temples: Temple[];
   locale: string;
@@ -44,6 +45,8 @@ export function CircuitMap({
   units: { km: string; hr: string; min: string };
   /** Numbering offset for a grouped circuit's later sections. */
   offset?: number;
+  /** Larger extent for a single-temple locator, to show the surrounding state. */
+  minSpan?: number;
 }) {
   const { colors, dark } = useTheme();
   const layout = useMemo(
@@ -57,9 +60,9 @@ export function CircuitMap({
           lng: t.location.lng,
         })),
         SOUTH_ASIA_LAND,
-        { offset }
+        { offset, states: INDIA_STATES, minSpan }
       ),
-    [temples, offset]
+    [temples, offset, minSpan]
   );
 
   // Ordered points along the driving route (for the moving traveller).
@@ -104,6 +107,8 @@ export function CircuitMap({
   const coast = dark ? '#4A3D2C' : '#C9B48A';
   const tower = dark ? '#B87A48' : '#C58A5A';
   const towerEdge = dark ? '#D89A63' : '#9C5F34';
+  const stateStroke = dark ? '#5F4E37' : '#C0A06A';
+  const stateLabelCol = dark ? '#8A7452' : '#9A8356';
   const open = (id: string) => router.push(`/${locale}/temples/${id}`);
   const { width: W, height: H } = layout;
 
@@ -155,6 +160,25 @@ export function CircuitMap({
           {layout.landPath ? (
             <Path d={layout.landPath} fill={land} stroke={coast} strokeWidth={1.5} strokeLinejoin="round" />
           ) : null}
+
+          {/* State boundaries + names, for orientation (same data as the web map). */}
+          {layout.statePath ? (
+            <Path d={layout.statePath} fill="none" stroke={stateStroke} strokeWidth={1} strokeOpacity={0.7} strokeDasharray="2 3" />
+          ) : null}
+          {layout.stateLabels.map((s) => (
+            <SvgText
+              key={s.name}
+              x={s.x}
+              y={s.y}
+              fill={stateLabelCol}
+              opacity={0.6}
+              fontSize={15}
+              fontWeight="700"
+              textAnchor="middle"
+            >
+              {s.name.toUpperCase()}
+            </SvgText>
+          ))}
 
           <Path d={layout.routePath} fill="none" stroke={colors.accentTurmeric} strokeWidth={13} strokeOpacity={0.2} strokeLinecap="round" strokeLinejoin="round" />
           <Path d={layout.routePath} fill="none" stroke={colors.accentTurmeric} strokeWidth={4.5} strokeLinecap="round" strokeLinejoin="round" />
