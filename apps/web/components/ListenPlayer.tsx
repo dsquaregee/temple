@@ -1,6 +1,6 @@
 'use client';
 
-import { useCallback, useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {
   formatTime,
   stepIndex,
@@ -37,16 +37,36 @@ export function ListenPlayer({
   // Whether the pending source change should auto-play (a user gesture just
   // selected a track), versus a passive load.
   const autoPlay = useRef(false);
+  // The track id the <audio> element is currently pointed at, so the load effect
+  // doesn't reload (and interrupt) a track that select() already started.
+  const loadedId = useRef<string | null>(null);
 
   const current = index == null ? null : ready[index] ?? null;
 
-  const select = useCallback((i: number) => {
-    autoPlay.current = true;
-    setElapsed(0);
-    setDuration(0);
-    setIndex(i);
-    track('listen_play');
-  }, []);
+  const select = useCallback(
+    (i: number) => {
+      setElapsed(0);
+      setDuration(0);
+      setIndex(i);
+      track('listen_play');
+      // Start playback synchronously, inside the click gesture: iOS Safari
+      // (and the WKWebView) only honour play() that runs in the same task as
+      // the user activation, so deferring it to the [current?.id] effect makes
+      // the very first tap silently fail there. The <audio> element is always
+      // rendered (below), so it exists even before any track is selected.
+      const el = audioRef.current;
+      const item = ready[i];
+      if (el && item?.audio?.storyUrl) {
+        loadedId.current = item.id;
+        el.src = item.audio.storyUrl;
+        el.load();
+        el.play().catch(() => setPlaying(false));
+      } else {
+        autoPlay.current = true;
+      }
+    },
+    [ready],
+  );
 
   const step = useCallback(
     (delta: number) => {
@@ -66,6 +86,10 @@ export function ListenPlayer({
   useEffect(() => {
     const el = audioRef.current;
     if (!el || !current) return;
+    // select() already loaded and started this track inside the click gesture —
+    // don't reload it, which would abort playback.
+    if (loadedId.current === current.id) return;
+    loadedId.current = current.id;
     el.load();
     if (autoPlay.current) {
       autoPlay.current = false;
@@ -131,11 +155,15 @@ export function ListenPlayer({
   }, []);
 
   const templeHref = (id: string) => `/${locale}/temples/${id}/`;
-  const isCurrent = (i: number) => index === i;
 
-  return (
-    <>
-      <div className="grid">
+  // The row list depends only on which track is current and whether it is
+  // playing — never on the elapsed time, which ticks several times a second.
+  // Memoising it keeps those ticks (and seeks) from reconciling all 500+ rows;
+  // only the now-playing bar re-renders.
+  const rows = useMemo(() => {
+    const isCurrent = (i: number) => index === i;
+    return (
+      <>
         {ready.map((tp, i) => (
           <div key={tp.id} className={`card${isCurrent(i) ? ' is-playing' : ''}`}>
             <div className="listenrow">
@@ -169,7 +197,38 @@ export function ListenPlayer({
             </div>
           </a>
         ))}
-      </div>
+      </>
+    );
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [ready, upcoming, index, playing, locale, ui, select, toggle]);
+
+  return (
+    <>
+      <div className="grid">{rows}</div>
+
+      {/* Always mounted (not gated on `current`) so the very first tap can call
+          play() synchronously inside the click gesture — see select(). */}
+      <audio
+        ref={audioRef}
+        preload="none"
+        src={current?.audio?.storyUrl}
+        onPlay={() => setPlaying(true)}
+        onPause={() => setPlaying(false)}
+        onTimeUpdate={(e) => setElapsed(e.currentTarget.currentTime)}
+        onLoadedMetadata={(e) => {
+          const dur = e.currentTarget.duration;
+          setDuration(dur);
+          const ms = typeof navigator !== 'undefined' ? navigator.mediaSession : undefined;
+          if (ms && Number.isFinite(dur) && dur > 0) {
+            try {
+              ms.setPositionState({ duration: dur, position: 0 });
+            } catch {
+              /* ignore */
+            }
+          }
+        }}
+        onEnded={() => step(1)}
+      />
 
       {current && (
         <>
@@ -233,28 +292,6 @@ export function ListenPlayer({
                 {ui.listen.readStory}
               </a>
             </div>
-
-            <audio
-              ref={audioRef}
-              preload="none"
-              src={current.audio?.storyUrl}
-              onPlay={() => setPlaying(true)}
-              onPause={() => setPlaying(false)}
-              onTimeUpdate={(e) => setElapsed(e.currentTarget.currentTime)}
-              onLoadedMetadata={(e) => {
-                const dur = e.currentTarget.duration;
-                setDuration(dur);
-                const ms = typeof navigator !== 'undefined' ? navigator.mediaSession : undefined;
-                if (ms && Number.isFinite(dur) && dur > 0) {
-                  try {
-                    ms.setPositionState({ duration: dur, position: 0 });
-                  } catch {
-                    /* ignore */
-                  }
-                }
-              }}
-              onEnded={() => step(1)}
-            />
           </div>
         </>
       )}

@@ -195,6 +195,20 @@ export function DiscoverExplorer({
     [loadCoords, loadCatalog],
   );
 
+  // Turn off city ranking AND forget the remembered city, so Clear / removing the
+  // 📍 chip actually sticks — otherwise the mount effect below re-applies it on
+  // the next visit from the persisted CITY_KEY.
+  const clearNearby = useCallback(() => {
+    setNearby(false);
+    setOriginCity('');
+    setUserLoc(null);
+    try {
+      localStorage.removeItem(CITY_KEY);
+    } catch {
+      /* ignore */
+    }
+  }, []);
+
   // Remember the last-picked city: a returning visitor lands straight on temples
   // ranked from their city, no re-selection needed. Runs once after mount.
   useEffect(() => {
@@ -284,9 +298,7 @@ export function DiscoverExplorer({
     setUnescoOnly(false);
     setSavedOnly(false);
     setSort('featured');
-    setNearby(false);
-    setOriginCity('');
-    setUserLoc(null);
+    clearNearby();
   }
 
   // Labels for the collapsed accordion headers and the active-filter chips.
@@ -371,7 +383,7 @@ export function DiscoverExplorer({
             <button
               type="button"
               className="afchip"
-              onClick={() => { setNearby(false); setOriginCity(''); setUserLoc(null); }}
+              onClick={clearNearby}
             >
               📍 {originCity} <span aria-hidden="true">✕</span>
             </button>
