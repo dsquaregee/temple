@@ -310,6 +310,27 @@ export function DiscoverExplorer({
 
   return (
     <div className="discover">
+      {/* Search leads the page (the tab is "Search") and live-filters as you
+          type. Styled prominently so it's the obvious first action. */}
+      <div className="dsearch">
+        <span className="dsearch__icon" aria-hidden="true">🔍</span>
+        <input
+          type="search"
+          className="dsearch__input"
+          placeholder={d.searchPlaceholder}
+          value={query}
+          onFocus={() => {
+            loadSearchIndex();
+            loadCatalog();
+          }}
+          onChange={(e) => {
+            loadSearchIndex();
+            setQuery(e.target.value);
+          }}
+          aria-label={d.searchPlaceholder}
+        />
+      </div>
+
       {/* Nearby, city-first: pick the city you're travelling from and temples
           rank by distance. No location permission — works on every device. */}
       <label className="nearcity">
@@ -333,22 +354,6 @@ export function DiscoverExplorer({
           ))}
         </select>
       </label>
-
-      <input
-        type="search"
-        className="searchinput"
-        placeholder={d.searchPlaceholder}
-        value={query}
-        onFocus={() => {
-          loadSearchIndex();
-          loadCatalog();
-        }}
-        onChange={(e) => {
-          loadSearchIndex();
-          setQuery(e.target.value);
-        }}
-        aria-label={d.searchPlaceholder}
-      />
 
       {/* Result count + sort + clear — always visible so the page leads with
           results, not a wall of filters. */}

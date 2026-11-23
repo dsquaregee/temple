@@ -87,7 +87,11 @@
 // synchronously within the gesture so it no longer silently fails on iOS; plus
 // Discover "Clear" / removing the 📍 chip now forgets the saved city. Purge so
 // returning visitors get the fixed Listen/Discover pages and scripts.
-const VERSION = 'v54';
+// v55: the "Discover" tab/section is renamed "Search" (all 9 locales), and the
+// Search page now leads with a prominent, highlighted search box. The rename
+// touches the tab bar, page titles, breadcrumbs and back-links site-wide. Purge
+// so returning visitors get the renamed nav and the restyled Search page.
+const VERSION = 'v55';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
