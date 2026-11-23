@@ -95,7 +95,10 @@
 // CSS-only progressive enhancement) so opening a temple flows in instead of a
 // hard white reload; reduced-motion disables it. Purge so returning visitors
 // get the new stylesheet.
-const VERSION = 'v56';
+// v57: the page transition is more pronounced — the incoming page now slides up
+// and fades in (instead of a plain crossfade), so the "flowed in" motion is
+// clearly visible. Purge so returning visitors get the new stylesheet.
+const VERSION = 'v57';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline
