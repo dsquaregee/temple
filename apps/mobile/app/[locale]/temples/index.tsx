@@ -217,22 +217,24 @@ export default function DiscoverScreen() {
     <SafeAreaView edges={['top']} style={[styles.safe, { backgroundColor: colors.bgBase }]}>
       <View style={styles.pinned}>
         <Title>{ui.tabs.discover}</Title>
-        <TextInput
-          value={query}
-          onChangeText={setQuery}
-          placeholder={d.searchPlaceholder}
-          placeholderTextColor={colors.inkMuted}
-          returnKeyType="search"
-          clearButtonMode="while-editing"
+        {/* Prominent search bar — accent border + icon so it leads the page. */}
+        <View
           style={[
-            styles.search,
-            {
-              backgroundColor: colors.bgRaised,
-              borderColor: colors.line,
-              color: colors.inkStrong,
-            },
+            styles.searchBar,
+            { backgroundColor: colors.bgRaised, borderColor: colors.accentTurmeric },
           ]}
-        />
+        >
+          <Text style={styles.searchIcon}>🔍</Text>
+          <TextInput
+            value={query}
+            onChangeText={setQuery}
+            placeholder={d.searchPlaceholder}
+            placeholderTextColor={colors.inkMuted}
+            returnKeyType="search"
+            clearButtonMode="while-editing"
+            style={[styles.searchInput, { color: colors.inkStrong }]}
+          />
+        </View>
       </View>
 
       <FlatList
@@ -260,14 +262,25 @@ const styles = StyleSheet.create({
   safe: { flex: 1 },
   pinned: { paddingHorizontal: 16, paddingTop: 16 },
   listContent: { paddingHorizontal: 16, paddingBottom: 32 },
-  search: {
+  searchBar: {
+    flexDirection: 'row',
+    alignItems: 'center',
     minHeight: MIN_TOUCH,
-    borderWidth: StyleSheet.hairlineWidth,
+    borderWidth: 2,
     borderRadius: radius.pill,
     paddingHorizontal: 16,
-    fontSize: 16,
     marginTop: 8,
     marginBottom: 12,
+  },
+  searchIcon: {
+    fontSize: 17,
+    marginRight: 8,
+    opacity: 0.75,
+  },
+  searchInput: {
+    flex: 1,
+    fontSize: 17,
+    paddingVertical: 12,
   },
   facetLabel: {
     fontSize: 11,

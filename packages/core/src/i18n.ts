@@ -130,7 +130,7 @@ export const strings: Record<Locale, UiStrings> = {
   en: {
     appName: 'Temple',
     tagline: 'Find, learn, and experience the great temples of South India',
-    tabs: { home: 'Home', discover: 'Discover', yatra: 'Yatra', festivals: 'Festivals', listen: 'Listen' },
+    tabs: { home: 'Home', discover: 'Search', yatra: 'Yatra', festivals: 'Festivals', listen: 'Listen' },
     favorites: { save: 'Save', saved: 'Saved', savedTitle: 'Saved temples' },
     discover: {
       searchPlaceholder: 'Search temples, deities, places…',
@@ -264,7 +264,7 @@ export const strings: Record<Locale, UiStrings> = {
   ta: {
     appName: 'கோயில்',
     tagline: 'தென்னிந்தியாவின் மாபெரும் கோயில்களை கண்டறிந்து, அறிந்து, அனுபவியுங்கள்',
-    tabs: { home: 'முகப்பு', discover: 'கண்டறி', yatra: 'யாத்திரை', festivals: 'விழாக்கள்', listen: 'கேளுங்கள்' },
+    tabs: { home: 'முகப்பு', discover: 'தேடல்', yatra: 'யாத்திரை', festivals: 'விழாக்கள்', listen: 'கேளுங்கள்' },
     favorites: { save: 'சேமி', saved: 'சேமித்தது', savedTitle: 'சேமித்த கோயில்கள்' },
     discover: {
       searchPlaceholder: 'கோயில், மூலவர், ஊர் தேடுங்கள்…',
@@ -398,7 +398,7 @@ export const strings: Record<Locale, UiStrings> = {
   te: {
     appName: 'ఆలయం',
     tagline: 'దక్షిణ భారతదేశపు మహా ఆలయాలను కనుగొనండి, తెలుసుకోండి, అనుభవించండి',
-    tabs: { home: 'హోమ్', discover: 'అన్వేషించండి', yatra: 'యాత్ర', festivals: 'పండుగలు', listen: 'వినండి' },
+    tabs: { home: 'హోమ్', discover: 'శోధన', yatra: 'యాత్ర', festivals: 'పండుగలు', listen: 'వినండి' },
     favorites: { save: 'భద్రపరచు', saved: 'భద్రపరచబడింది', savedTitle: 'భద్రపరచిన ఆలయాలు' },
     discover: {
       searchPlaceholder: 'ఆలయాలు, దేవతలు, ప్రదేశాల కోసం వెతకండి…',
@@ -532,7 +532,7 @@ export const strings: Record<Locale, UiStrings> = {
   kn: {
     appName: 'ದೇವಾಲಯ',
     tagline: 'ದಕ್ಷಿಣ ಭಾರತದ ಮಹಾನ್ ದೇವಾಲಯಗಳನ್ನು ಹುಡುಕಿ, ತಿಳಿಯಿರಿ, ಅನುಭವಿಸಿ',
-    tabs: { home: 'ಮುಖಪುಟ', discover: 'ಅನ್ವೇಷಿಸಿ', yatra: 'ಯಾತ್ರೆ', festivals: 'ಹಬ್ಬಗಳು', listen: 'ಆಲಿಸಿ' },
+    tabs: { home: 'ಮುಖಪುಟ', discover: 'ಹುಡುಕಾಟ', yatra: 'ಯಾತ್ರೆ', festivals: 'ಹಬ್ಬಗಳು', listen: 'ಆಲಿಸಿ' },
     favorites: { save: 'ಉಳಿಸಿ', saved: 'ಉಳಿಸಲಾಗಿದೆ', savedTitle: 'ಉಳಿಸಿದ ದೇವಾಲಯಗಳು' },
     discover: {
       searchPlaceholder: 'ದೇವಾಲಯ, ದೇವರು, ಸ್ಥಳ ಹುಡುಕಿ…',
@@ -666,7 +666,7 @@ export const strings: Record<Locale, UiStrings> = {
   ml: {
     appName: 'ക്ഷേത്രം',
     tagline: 'ദക്ഷിണേന്ത്യയിലെ മഹാക്ഷേത്രങ്ങൾ കണ്ടെത്തുക, അറിയുക, അനുഭവിക്കുക',
-    tabs: { home: 'ഹോം', discover: 'കണ്ടെത്തുക', yatra: 'യാത്ര', festivals: 'ഉത്സവങ്ങൾ', listen: 'കേൾക്കുക' },
+    tabs: { home: 'ഹോം', discover: 'തിരയൽ', yatra: 'യാത്ര', festivals: 'ഉത്സവങ്ങൾ', listen: 'കേൾക്കുക' },
     favorites: { save: 'സൂക്ഷിക്കൂ', saved: 'സൂക്ഷിച്ചു', savedTitle: 'സൂക്ഷിച്ച ക്ഷേത്രങ്ങൾ' },
     discover: {
       searchPlaceholder: 'ക്ഷേത്രം, പ്രതിഷ്ഠ, സ്ഥലം തിരയുക…',
@@ -800,7 +800,7 @@ export const strings: Record<Locale, UiStrings> = {
   hi: {
     appName: 'मंदिर',
     tagline: 'दक्षिण भारत के महान मंदिरों को खोजें, जानें और अनुभव करें',
-    tabs: { home: 'होम', discover: 'खोजें', yatra: 'यात्रा', festivals: 'उत्सव', listen: 'सुनें' },
+    tabs: { home: 'होम', discover: 'खोज', yatra: 'यात्रा', festivals: 'उत्सव', listen: 'सुनें' },
     favorites: { save: 'सहेजें', saved: 'सहेजा गया', savedTitle: 'सहेजे गए मंदिर' },
     discover: {
       searchPlaceholder: 'मंदिर, देवता, स्थान खोजें…',
@@ -936,7 +936,7 @@ export const strings: Record<Locale, UiStrings> = {
     "tagline": "দক্ষিণ ভারতের মহান মন্দিরগুলি খুঁজুন, জানুন ও অনুভব করুন",
     "tabs": {
       "home": "হোম",
-      "discover": "অন্বেষণ",
+      "discover": "অনুসন্ধান",
       "yatra": "যাত্রা",
       "festivals": "উৎসব",
       "listen": "শুনুন"
@@ -1081,7 +1081,7 @@ export const strings: Record<Locale, UiStrings> = {
     "tagline": "दक्षिण भारतातील महान मंदिरे शोधा, जाणून घ्या आणि अनुभवा",
     "tabs": {
       "home": "मुख्यपृष्ठ",
-      "discover": "शोधा",
+      "discover": "शोध",
       "yatra": "यात्रा",
       "festivals": "उत्सव",
       "listen": "ऐका"
@@ -1226,7 +1226,7 @@ export const strings: Record<Locale, UiStrings> = {
     "tagline": "ଦକ୍ଷିଣ ଭାରତର ମହାନ ମନ୍ଦିରଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ, ଜାଣନ୍ତୁ ଓ ଅନୁଭବ କରନ୍ତୁ",
     "tabs": {
       "home": "ମୂଳପୃଷ୍ଠା",
-      "discover": "ଅନ୍ୱେଷଣ",
+      "discover": "ଖୋଜ",
       "yatra": "ଯାତ୍ରା",
       "festivals": "ଉତ୍ସବ",
       "listen": "ଶୁଣନ୍ତୁ"

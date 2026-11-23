@@ -383,27 +383,45 @@ a {
 }
 
 /* Discover: search + facets ------------------------------------------- */
-.searchinput {
-  width: 100%;
-  min-height: var(--touch);
-  padding: 0 16px;
-  /* 16px keeps iOS Safari from zooming the viewport on focus. */
-  font-size: 16px;
+/* Discover/Search page: the primary search box, styled prominently (persistent
+   accent ring + icon) so it leads the page and is the obvious first action. */
+.dsearch {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: var(--bg-raised);
+  border: 2px solid var(--accent-turmeric);
+  border-radius: var(--radius-pill);
+  padding: 4px 18px;
+  margin-bottom: 14px;
+  box-shadow: 0 1px 4px color-mix(in srgb, var(--ink-strong) 10%, transparent);
+}
+.dsearch:focus-within {
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent-turmeric) 28%, transparent);
+}
+.dsearch__icon {
+  font-size: 19px;
+  opacity: 0.75;
+  line-height: 1;
+}
+.dsearch__input {
+  flex: 1;
+  min-width: 0;
+  /* 16px+ keeps iOS Safari from zooming the viewport on focus. */
+  font-size: 17px;
   font-family: var(--font-ui);
   color: var(--ink-strong);
-  background: var(--bg-raised);
-  border: 1px solid var(--line);
-  border-radius: var(--radius-pill);
+  background: transparent;
+  border: none;
+  padding: 13px 0;
   -webkit-appearance: none;
   appearance: none;
-  margin-bottom: 14px;
 }
-.searchinput::placeholder {
+.dsearch__input::placeholder {
   color: var(--ink-muted);
 }
-.searchinput:focus-visible {
-  outline: 2px solid var(--accent-turmeric);
-  outline-offset: 1px;
+.dsearch__input:focus {
+  outline: none;
 }
 .facet {
   display: flex;
