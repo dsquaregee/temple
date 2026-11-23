@@ -91,7 +91,11 @@
 // Search page now leads with a prominent, highlighted search box. The rename
 // touches the tab bar, page titles, breadcrumbs and back-links site-wide. Purge
 // so returning visitors get the renamed nav and the restyled Search page.
-const VERSION = 'v55';
+// v56: pages now crossfade on navigation (cross-document View Transitions, a
+// CSS-only progressive enhancement) so opening a temple flows in instead of a
+// hard white reload; reduced-motion disables it. Purge so returning visitors
+// get the new stylesheet.
+const VERSION = 'v56';
 const SHELL = `temple-shell-${VERSION}`;
 const RUNTIME = `temple-runtime-${VERSION}`;
 // Version-INDEPENDENT: holds content the user explicitly downloaded for offline

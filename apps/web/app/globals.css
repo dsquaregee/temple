@@ -1582,10 +1582,30 @@ a {
 .cmap-veh-win { fill: #ffe9b0; }
 .cmap-veh-wheel { fill: #2b2118; stroke: #fff; stroke-width: 0.8; }
 .cmap-veh-static { display: none; }
+/* Cross-document view transitions: a soft crossfade between pages on same-origin
+   navigation, so opening a temple (or moving anywhere) flows in instead of
+   hard-reloading with a white flash. Progressive enhancement — only browsers
+   that support MPA view transitions animate; every other browser gets the normal
+   instant navigation. Pure CSS, no JS, and no effect on the LCP (the snapshot
+   crossfade runs after the new page has rendered). */
+@view-transition {
+  navigation: auto;
+}
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 260ms;
+  animation-timing-function: ease;
+}
 @media (prefers-reduced-motion: reduce) {
   .cmap-veh { display: none; }
   .cmap-veh-static { display: block; }
   .cmap-route-dash { animation: none; }
+  /* Reduced motion: swap pages instantly, with no crossfade. */
+  ::view-transition-group(root),
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation: none;
+  }
 }
 /* Grouped circuits (e.g. Divya Desams by region): one counter across sections. */
 .stop-groups {
